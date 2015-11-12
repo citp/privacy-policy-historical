@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fromthearcade.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814173757id_/http%3A//www.fromthearcade.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fromthearcade.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112121253id_/http%3A//www.fromthearcade.com/privacy.html) for the most accurate reproduction.*
 
 # Free Games : FromTheArcade.com : Privacy Policy
 
