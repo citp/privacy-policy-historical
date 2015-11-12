@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aiimsrishikesh.edu.in privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608091902id_/http%3A//aiimsrishikesh.edu.in/details.php%3FpgID%3Dbo_503) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiimsrishikesh.edu.in privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112182041id_/http%3A//aiimsrishikesh.edu.in/details.php%3FpgID%3Dbo_503) for the most accurate reproduction.*
 
 # Privacy Statement | All India Institute of Medical Sciences, Rishikesh - India
 
