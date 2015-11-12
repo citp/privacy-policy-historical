@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teens3some.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223075354id_/http%3A//teens3some.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teens3some.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112023208id_/http%3A//teens3some.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY
 
