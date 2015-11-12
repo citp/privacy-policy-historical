@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the regina.ca privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618181800id_/http%3A//www.regina.ca/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regina.ca privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112193025id_/http%3A//www.regina.ca/site/privacy-policy) for the most accurate reproduction.*
 
-# Regina.ca Privacy Policy - City of Regina
+# Privacy Policy - City of Regina
 
 The City of Regina (the “City”) is committed to protecting personal, confidential and third party information.
 
 All personal information collected by the City is done so in accordance with [_The Local Authority Freedom of Information and Protection of Privacy Act_. ](http://www.justice.gov.sk.ca/Local-Authority-Freedom-of-Information-and-Protection-of-Privacy-Act)
 
-[**City of Regina Privacy Policy**](https://web.archive.org/opencms/export/sites/regina.ca/.media/pdf/misc/privacy-policy.pdf)
+**[City of Regina Privacy Policy](https://web.archive.org/opencms/export/sites/regina.ca/.media/pdf/misc/privacypolicy.pdf)**
 
 ## What personal information does the City collect?
 
