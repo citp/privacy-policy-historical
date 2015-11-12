@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inxtron.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408071823id_/http%3A//www.inxtron.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inxtron.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112131320id_/http%3A//www.inxtron.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | inXtron
 
