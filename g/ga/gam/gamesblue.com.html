@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gamesblue.com privacy policy that was archived on 2015-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609013806id_/http%3A//www.gamesblue.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gamesblue.com privacy policy that was archived on 2015-11-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151112081638id_/http%3A//www.gamesblue.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en"><head>
 <title>Privacy Policy</title>
@@ -35,19 +35,50 @@
 	#header-nav{background-color:#ffce44;}
 	#footer{background-color:#ffce44;}
 	ul#catnav li{padding-left:30px;}
+  #eucookielaw {background-color:#f4f4f4; border-bottom:1px solid #ddd; padding:4px 0px; margin-bottom:5px; display:none; }
+  .eucookiebutton {
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+  }
 </style>
 
 
-<script type="text/javascript">
-var ua = navigator.userAgent.toLowerCase();
-var isAndroid = ua.indexOf("android") > -1;
-if(isAndroid) {
-    window.location = 'http://www.vpfun.com/';
-}
-</script>
+  <script type="text/javascript">
+  function SetCookie(c_name,value,expiredays)
+  {
+  var exdate=new Date()
+  exdate.setDate(exdate.getDate()+expiredays)
+  document.cookie=c_name+ "=" +escape(value)+";path=/"+((expiredays==null) ? "" : ";expires="+exdate.toUTCString())
+  }
+  </script>
+
 
 </head>
 <body>
+
+  <div id="eucookielaw">
+    <p>We use cookies. By browsing our site you agree to our use of cookies. <a href="/privacy-policy.php" target="_blank" id="more">Find out more</a>  
+    <a id="removecookie"><button>Accept this cookie</button></a>
+    
+    </p>
+  </div>
+  <script type="text/javascript">
+  if( document.cookie.indexOf("eucookie") ===-1 ){
+  $("#eucookielaw").show();
+  }
+  $("#removecookie").click(function () {
+    SetCookie('eucookie','eucookie',365*10)
+    $("#eucookielaw").remove();
+  });
+  </script>
+
 <script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">_atrk_opts = { atrk_acct: "gflwg1aAQ700Ea", domain:"gamesblue.com"}; atrk ();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=gflwg1aAQ700Ea" style="display:none" height="1" width="1" alt="" /></noscript>
 <div id="page">
 	<div id="header">
@@ -78,7 +109,7 @@ if(isAndroid) {
 		<div class="header-box">
 
 			<div id="ad-top">
-<script type="text/javascript">document.write("<iframe src='http://www.epicgameads.com/ads/banneriframe.php?id=DKBrXJIqcD&t=728x90&channel=34&cb=" + (Math.floor(Math.random()*99999) + new Date().getTime()) + "' style='width:728px;height:90px;' frameborder='0' scrolling='no'></iframe>");</script><iframe src="http://www.epicgameads.com/ads/banneriframe.php?id=DKBrXJIqcD&amp;t=728x90&amp;channel=34&amp;cb=1580354539224" style="width:728px;height:90px;" frameborder="0" scrolling="no"></iframe>			</div>
+<script type="text/javascript">document.write("<iframe src='http://www.epicgameads.com/ads/banneriframe.php?id=DKBrXJIqcD&t=728x90&channel=34&cb=" + (Math.floor(Math.random()*99999) + new Date().getTime()) + "' style='width:728px;height:90px;' frameborder='0' scrolling='no'></iframe>");</script><iframe src="http://www.epicgameads.com/ads/banneriframe.php?id=DKBrXJIqcD&amp;t=728x90&amp;channel=34&amp;cb=1580354449821" style="width:728px;height:90px;" frameborder="0" scrolling="no"></iframe>			</div>
 		</div>
 		<div class="magic"><img src="http://www.gamesblue.com/images/1px.gif" width="1" height="1" alt="space"></div>
 		<div id="header-nav">
