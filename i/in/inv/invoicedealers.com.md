@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the invoicedealers.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413045300id_/http%3A//www.invoicedealers.com/IDCPrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invoicedealers.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112080651id_/http%3A//www.invoicedealers.com/IDCPrivacyPolicy.asp) for the most accurate reproduction.*
 
 # New Car And Cost, Truck New Cost | InvoiceDealers.com
 
-[Home](https://web.archive.org/web/20150413045300id_/http%3A//www.invoicedealers.com/Default.asp)     Privacy Policy 
+[Home](https://web.archive.org/web/20151112080651id_/http%3A//www.invoicedealers.com/Default.asp)     Privacy Policy 
 
 **SCOPE OF THIS PRIVACY POLICY**
 
