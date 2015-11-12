@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slimcleaner.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617045934id_/http%3A//www.slimcleaner.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slimcleaner.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112080552id_/http%3A//www.slimcleaner.com/privacy.php) for the most accurate reproduction.*
 
 # SlimCleaner Plus - Privacy Policy
 
