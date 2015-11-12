@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vibranthealthnetwork.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414032629id_/http%3A//vibranthealthnetwork.com/more-information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vibranthealthnetwork.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112145800id_/http%3A//vibranthealthnetwork.com/more-information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
