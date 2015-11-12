@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zuberance.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408174925id_/http%3A//www.zuberance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zuberance.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112120824id_/http%3A//www.zuberance.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Zuberance
 
