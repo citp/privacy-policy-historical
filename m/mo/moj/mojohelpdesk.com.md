@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mojohelpdesk.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408031815id_/http%3A//www.mojohelpdesk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mojohelpdesk.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112203216id_/http%3A//www.mojohelpdesk.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -24,4 +24,4 @@ Your personally identifiable information is kept secure. Only authorized employe
 
 ### Do I have to sign a long term contract?
 
-If you have any questions, concerns, or comments about our privacy policy you may [contact us](https://web.archive.org/contact-us.php).
+If you have any questions, concerns, or comments about our privacy policy you may [contact us](https://web.archive.org/contact-us/).
