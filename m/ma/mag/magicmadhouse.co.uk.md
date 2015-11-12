@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magicmadhouse.co.uk privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608003234id_/http%3A//www.magicmadhouse.co.uk/privacy-policy-i4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicmadhouse.co.uk privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112071117id_/http%3A//www.magicmadhouse.co.uk/privacy-policy-i4) for the most accurate reproduction.*
 
 # Magic Madhouse Private Policy | Private Policy Magic Madhouse
 
