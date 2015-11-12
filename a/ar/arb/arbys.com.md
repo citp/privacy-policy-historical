@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arbys.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174742id_/http%3A//arbys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arbys.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112071858id_/http%3A//arbys.com/privacy-policy) for the most accurate reproduction.*
 
 # Arby's | Privacy Policy
 
