@@ -1,89 +1,40 @@
-> *The following text is extracted and transformed from the websitebox.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607020207id_/http%3A//www.websitebox.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitebox.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112140132id_/https%3A//www.websitebox.com/privacy-policy.php) for the most accurate reproduction.*
 
 # WebsiteBox | Privacy Policy
 
-1-866-857-1657
-
-(Monday to Friday 8 AM to 8 PM EST)
-
-## Terms of Use covers the collection and use of personal information that may be collected
-
-### Please take a moment to read the following to learn more about our information practices
+### Please take a moment to read the following to learn more  
+about our information practices
 
 WebsiteBox's privacy policy covers the collection and use of personal information that may be collected by WebsiteBox anytime you interact with WebsiteBox, such as when you visit our website, when you purchase WebsiteBox products and services, or when you call our sales or support associates. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. Your privacy is a priority at WebsiteBox, and we go to great lengths to protect it.
 
-  
+## WHY WE COLLECT SOME PERSONAL INFORMATION
 
+We collect personal information, in some cases, because it helps us deliver a superior level of customer service. It enables us to give you convenient access to our products and services and focus on categories of greatest interest to you. In addition, your personal information helps us keep you posted on the latest product announcements, software updates, special offers, and events. If you do not want WebsiteBox to keep you up to date please inform us by writing to [info@websitebox.com.](mailto:info@websitebox.com)
 
-  * #### WHY WE COLLECT SOME PERSONAL INFORMATION
+## WHAT INFORMATION WE COLLECT
 
-We collect personal information, in some cases, because it helps us deliver a superior level of customer service. It enables us to give you convenient access to our products and services and focus on categories of greatest interest to you. In addition, your personal information helps us keep you posted on the latest product announcements, software updates, special offers, and events. If you do not want WebsiteBox to keep you up to date please inform us by writing to [info@websitebox.com](mailto:info@websitebox.com "info@websitebox.com").
-
-  * #### WHAT INFORMATION WE COLLECT
-
-There are a number of situations in which your personal information may help us give you better service. For example, we may ask for your personal information when you're discussing a service issue on the phone with an associate, downloading a software update, registering for a seminar, participating in an online survey, registering your products, or purchasing a product. At such times, we may collect personal information relevant to the situation, such as your name, mailing address, phone number, email address, and contact preferences; your credit card information and information about the WebsiteBox products you own, such as their serial numbers, and date of purchase; and information relating to a support or service issue. We collect information for market research purposes — such as your occupation and where you use your computer — to gain a better understanding of our customers and thus provide more valuable service. We also collect information regarding customer activities on our website. This helps us to determine how best to provide useful information to customers and to understand which parts of our websites and Internet services are of most interest to them.
+There are a number of situations in which your personal information may help us give you better service. For example, we may ask for your personal information when you're discussing a service issue on the phone with an associate, downloading a software update, registering for a seminar, participating in an online survey, registering your products, or purchasing a product. At such times, we may collect personal information relevant to the situation, such as your name, mailing address, phone number, email address, and contact preferences; your credit card information and information about the WebsiteBox products you own, such as their serial numbers, and date of purchase; and information relating to a support or service issue. We collect information for market research purposes ‾ such as your occupation and where you use your computer ‾ to gain a better understanding of our customers and thus provide more valuable service. We also collect information regarding customer activities on our website. This helps us to determine how best to provide useful information to customers and to understand which parts of our websites and Internet services are of most interest to them.
 
 If you use a bulletin board, web forum, or chat room on any WebsiteBox website you should be aware that any information you share is visible to other users. Personally identifiable information you submit to one of these forums can be read, collected, or used by other individuals to send you unsolicited messages. WebsiteBox is not responsible for the personally identifiable information you choose to submit in these forums.
 
-  * #### WHEN WE DISCLOSE YOUR INFORMATION
+## WHEN WE DISCLOSE YOUR INFORMATION
 
 WebsiteBox takes your privacy very seriously. Be assured that WebsiteBox does not sell or rent your contact information to other marketers. To help us provide superior service, your personal information may be shared with legal entities within the WebsiteBox group globally who will safeguard it in accordance with WebsiteBox's privacy policy. There are also times when it may be advantageous for WebsiteBox to make certain personal information about you available to companies that WebsiteBox has a strategic relationship with or that perform work for WebsiteBox to provide products and services to you on our behalf. These companies may help us process information, extend credit, fulfill customer orders, deliver products to you, manage and enhance customer data, provide customer service, assess your interest in our products and services, or conduct customer research or satisfaction surveys. These companies are also obligated to protect your personal information in accordance with WebsiteBox's policies. Without such information being made available, it would be difficult for you to purchase products, have products delivered to you, receive customer service, provide us feedback to improve our products and services, or access certain services, offers, and content on the WebsiteBox website.
 
 At times we may be required by law or litigation to disclose your personal information. We may also disclose information about you if we determine that for national security, law enforcement, or other issues of public importance, disclosure is necessary.
 
-  * #### COOKIES AND OTHER TECHNOLOGIES
+## COOKIES AND OTHER TECHNOLOGIES
 
 As is standard practice on many corporate websites, WebsiteBox's website may uses “cookies” and other technologies to help us understand which parts of our websites are the most popular, where our visitors are going, and how much time they spend there. We use cookies and other technologies to study traffic patterns on our website, to make it even more rewarding as well as to study the effectiveness of our customer communications. And we use cookies to customize your experience and provide greater convenience each time you interact with us.
 
-  * #### PRIVACY QUESTIONS
+## PRIVACY QUESTIONS
 
-If you have questions or concerns about WebsiteBox's Customer Privacy Policy or data processing, please use info@websitebox.com to contact us.
+If you have questions or concerns about WebsiteBox's Customer Privacy Policy or data processing, please use [info@websitebox.com](mailto:info@websitebox.com) to contact us.
 
 WebsiteBox may update its privacy policy from time to time. When we change the policy in a material way a notice will be posted on our website along with the updated privacy policy.
 
-**WEBSITEBOX CORP.**  
+## WEBSITEBOX CORP.
+
 7191 Yonge Street, Suite 410  
 Toronto, ON, L3T 0C4  
 Canada
-
-
-
-
-###### Client Reviews[See More](http://www.websitebox.com/realtors/clients.php)
-
-  * > “The $99 one-time price was too good to be true at the beginning. I did the research and I studied and found out it is true. It's a one-time fee, it's $99 and gives me lots of features.”
-> 
-> Nina Kashefpour Toronto, ON
-
-  * > “WebsiteBox is known for having really good SEO, now they are going to be known for having a really great price point. I think people are going to be really surprised when they find out what they can get for $99.”
-> 
-> Michael Weaver Indianapolis, IN
-
-  * > “We have been through many websites over the years, but WebsiteBox has proven themselves to be far superior above the rest. Great content, great quality and exceptional customer service for $99, our search is over!”
-> 
-> Ifoma & Hazel Pierre Queens, NY
-
-  * > “The support team will help you and make sure the job gets done. They really know what they are doing. I was so grateful for them because I am not techie. I am so happy about everything. For $99.00 forever, I feel like dancing! I still can't believe it!”
-> 
-> Cat Stevens Miramar Beach, FL
-
-  * > “I was thinking of investing a lot of money into a website and then I came across WebsiteBox. I am very tech savvy and I loved the fact that I am able to design the site and make it look the way I want. The best thing is that I no longer have to pay a monthly bill for my website.”
-> 
-> Guillermo Ley Miami, FL
-
-  * > “Compared to all the other website providers, I can actually get everything I need for an unbeatable price. The IDX integration and customization was what drew me to WebsiteBox. I love the fact that I am able to build a clean and professional site with ease.”
-> 
-> Michael Hinderberger Newport Beach, CA
-
-  * > “I am extremely impressed by WebsiteBox. Every other comparable website provider is in the $600-$2000 range, not to mention the additional $30-$50 month for IDX hosting. There was a slight learning curve but after figuring out the technology I have spent more time looking for pictures ...”
-> 
-> Jeff Royle Orlando, FL
-
-
-
-
-###### Get FREE Email Updates
-
-Receive Free Real Estate Technology Advice Right in Your Email Inbox.
-
-###### Chat With Us Live
