@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hays.com.au privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418000230id_/http%3A//www.hays.com.au/general-content/privacy-policy-2365) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.com.au privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112204108id_/http%3A//www.hays.com.au/general-content/privacy-policy-2365) for the most accurate reproduction.*
 
 # Privacy Policy | Hays
 
@@ -42,6 +42,7 @@ Your personal and sensitive information may be disclosed to:
   * Australia, Belgium, Brazil, Canada, Chile, China, Czech Republic, France & Luxembourg, Germany, Switzerland & Austria, Hong Kong, Hungary, India, Ireland, Italy, Japan, Malaysia, Mexico, Netherlands, New Zealand, Poland, Portugal, Russia, Singapore, Slovakia, Spain, Sweden & Denmark, UAE, United Kingdom, USA (and any other countries where Hays may provide its services in the future) regarding possible or actual work placements and to assist us in providing our services to you
   * Referees
   * External providers of online training and induction - eg mandatory on-line OH&S Induction, and background checking agencies - eg criminal record and credit checking
+  * Third party contractors for the purposes of providing us with specialised and efficient database management and development. Such service providers/contractors may be based outside of Australia and New Zealand, and will only use your information for the purpose of providing services to Hays and will not use your information for any other purpose.
   * Our insurers
   * A professional association or registration body that has a proper interest in the disclosure of your personal and sensitive information
   * A Workers Compensation body
@@ -49,7 +50,6 @@ Your personal and sensitive information may be disclosed to:
 
 
 
-  
 If you do not give us the information we seek:
 
   * We may be limited in our ability to locate suitable work for you; and
@@ -95,7 +95,7 @@ Information Statement: your rights as a 
 
 
 
-FM-021-15 © March 2015
+FM-021-16 © May 2015
 
 Your privacy is important to Hays
 
@@ -171,9 +171,10 @@ Disclosures
 We may disclose your personal information (including to trusted third parties) for the purposes for which it is primarily held or for a related secondary purpose and in some cases we may only disclose information with your consent. Your personal and sensitive information may be disclosed to:
 
   * Potential and actual employers, clients of Hays and trusted third parties
-  * Hays employees and potential employers located in Australia, Belgium, Brazil, Canada, Chile, China, Czech Republic, France & Luxembourg, Germany, Switzerland & Austria, Hong Kong, Hungary, India, Ireland, Italy, Japan, Malaysia, Mexico, Netherlands, New Zealand, Poland, Portugal, Russia, Singapore, Slovakia, Spain, Sweden & Denmark, UAE, United Kingdom, USA (and any other countries where Hays may provide its services in the future) regarding possible work placements or to assist us in providing our services to you
+  * Hays employees and potential employers located in Australia, Belgium, Brazil, Canada, Chile, China, Czech Republic, France & Luxembourg, Germany, Switzerland & Austria, Hong Kong, Hungary, India, Ireland, Italy, Japan, Malaysia, Mexico, Netherlands, New Zealand, Poland, Portugal, Russia, Singapore, Slovakia, Spain, Sweden & Denmark, UAE, United Kingdom, USA, (and any other countries where Hays may provide its services in the future) regarding possible work placements or to assist us in providing our services to you
   * Referees
   * External providers of on-line training and induction - eg mandatory on-line H&S Induction, and background checking agencies - eg criminal record and credit checking
+  * Third party contractors for the purposes of providing us with specialised and efficient database management and development. Such service providers/contractors may be based outside of Australia and New Zealand, and will only use your information for the purpose of providing services to Hays and will not use your information for any other purpose.
   * Our insurers
   * A professional association or registration body that has a legitimate interest in the disclosure of your personal and sensitive information
   * A Workers Compensation body
@@ -245,5 +246,5 @@ Feedback
 
 Hays have several areas on our website where you can submit feedback, under the ‘contact us’ section. Any feedback that is submitted through this area becomes the property of Hays. We may use this feedback, such as success stories or responses to surveys, for marketing purposes, or to contact you for further feedback on the site.
 
-HP-020-15 March 2015   
+HP-020-16 May 2015   
  
