@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the concord.org privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204012902id_/http%3A//concord.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concord.org privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112101627id_/https%3A//concord.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Concord Consortium
+# Privacy Policy | Concord Consortium
 
 ## Summary
 
