@@ -1,25 +1,29 @@
-> *The following text is extracted and transformed from the hostplus.com.au privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611235524id_/http%3A//hostplus.com.au/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostplus.com.au privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112171308id_/http%3A//hostplus.com.au/privacy) for the most accurate reproduction.*
 
-# HOSTPLUS - Our Privacy Policy
+# Privacy
 
-### The HOSTPLUS Privacy Policy – our commitment to you.
+### The Hostplus  Privacy Policy – our commitment to you.
 
-At HOST **PLUS** we’re run to benefit our members, which means we’re committed to acting in your best interests at all times.  We’re also committed to making life as easy as possible for you.  And because we’re a super fund, there is a certain amount of personal information we need to collect from you in order to provide you with the services and support you need. 
+At Hostplus we’re run to benefit our members, which means we’re committed to acting in your best interests at all times.  We’re also committed to making life as easy as possible for you.  And because we’re a super fund, there is a certain amount of personal information we need to collect from you in order to provide you with the services and support you need. 
 
 We often say that in the superannuation business we sell trust. The nature of our product means our members need to trust us to look after their money for many years, decades in fact.  And your personal information is no different.
 
 This policy briefly explains the main ways we protect your privacy, the reasons why we collect your personal information, and how we comply with the Australian Privacy Principles. 
 
-### So why does HOSTPLUS collect your personal and information? 
+### What is personal information? 
 
-In many cases, the law requires us to collect your personal information, for example, in order to identify you.  It also allows us to set up your super account, to keep it running smoothly and to respond to any queries or requests you may have regarding your account.  These might include:    
+Personal information means information we hold about you from which your identity can reasonably be determined. 
+
+### So why does Hostplus  collect your personal and information? 
+
+In many cases, the law requires us to collect your personal information, for example, in order to identify you.  It also allows us to set up your super account, to keep it running smoothly and to respond to any queries or requests you may have regarding your account.  These might include: 
 
   * implementing your investment choices, 
   * establishing and maintaining your additional insurance protection, 
   * processing super contributions, 
   * transferring monies or paying benefits, 
   * reporting the investment performance of your account to you, and 
-  * keeping you up to date on other products and services available to you as a HOST **PLUS** member (which may include sending you some marketing communications). 
+  * keeping you up to date on other products and services available to you as a Hostplus member (which may include sending you some marketing communications).
 
 
 
@@ -27,7 +31,7 @@ Certain information such as your Tax File Number (TFN) is required for taxation 
 
 So that we can better tailor our information and products to your needs, we also use technology known as “cookies” to collect statistical information on website activity, such as the number of people using our website and how they navigate through it.
 
-At times we may need to collect sensitive information from you such as medical information and family relationship details in order to process insurance applications and benefit claims.   This information is used by HOST **PLUS** and our insurer to assess your eligibility for an insured benefit.  We will always seek your express consent before we collect any sensitive information from you, and we will ensure that the collection of this information is absolutely necessary.
+At times we may need to collect sensitive information from you such as medical information and family relationship details in order to process insurance applications and benefit claims.   This information is used by Hostplus and our insurer to assess your eligibility for an insured benefit.  We will always seek your express consent before we collect any sensitive information from you, and we will ensure that the collection of this information is absolutely necessary.
 
 ### What personal information do we ask for? 
 
@@ -69,20 +73,23 @@ We may also need to ask you for sensitive information including:
 
 ### How do we collect and hold your personal information? 
 
-Where possible, we will collect information from you directly.  This may be done through the following channels: 
+Where possible, we will collect information from you directly.
+
+Personal information may be collected through the following channels: 
 
   * Via membership and insurance forms. 
-  * Over the phone via the HOST **PLUS** contact centre. 
+  * Over the phone via the Hostplus contact centre. 
   * As part of an insurance claim process or a request for access to your superannuation benefits. 
-  * Via our Account Managers. 
+  * Via our Account Managers and branch staff. 
   * Through our online portals when you update your details. 
-  * Via Industry Fund Services financial planners. 
+  * Via Industry Fund Services financial planners.
+  * Via address matches services provided by third party vendors.
 
 
 
 If you are an employer-sponsored member we will also collect information from your employer when they make a superannuation contribution on your behalf. 
 
-As mentioned above, we also use technology such as google analytics and cookies to collect information about your visit to the HOST **PLUS** website and/or our online portals. This information includes the time and date of your visit, your server address, the type of browser, domain name, pages visited, documents downloaded and length of visit. It’s important to note that this technology only identifies your computer when you visit our website, it does not identify you. See 
+As mentioned above, we also use technology such as google analytics and cookies to collect information about your visit to the Hostplus website and/or our online portals. This information includes the time and date of your visit, your server address, the type of browser, domain name, pages visited, documents downloaded and length of visit. It’s important to note that this technology only identifies your computer when you visit our website, it does not identify you. 
 
 Once collected, your personal information is stored securely on a database maintained by our fund administrator, Superpartners.  We may also hold your personal information in hard copy format if you provide it for purposes including, but not limited to, insurance and benefit claims and complaints. See **Do we disclose your personal information to overseas recipients?**
 
@@ -92,24 +99,30 @@ We may need to disclose relevant personal information to external organisations 
 
 They include: 
 
-  * **Superpartners Pty Ltd** – the Fund’s administrator responsible for the administration of your account, including insurance cover.  Superpartners manage the database where your personal information is stored. 
-  * **Third party vendors** – used by Superpartners, such as information technology, credit control, printing and mailing vendors. 
+  * **Superpartners Pty Ltd** – Has been contracted by the fund for the provision of member and employer services, including insurance cover. Superpartners manage the database where your personal information is stored. Superpartners is a member of the Link Group of companies. Please refer to the Link Market Services website, [www.linkgroup.com](https://web.archive.org/web/20151112171308id_/http%3A//hostplus.com.au/www.linkgroup.com)
+  * **Third party vendors** – engaged by Superpartners, such as information technology, credit control, printing, mailing, and address verification vendors. 
   * **Metlife Insurance Limited** – our insurer responsible for administering your insurance arrangements and processing any claims. 
   * **Medical practitioners and other relevant professionals** – for assessing increased insurance applications and/or during the claims process for insurance benefits. 
-  * **Mail houses** – that provide you with correspondence about your HOST **PLUS** account as well as keeping you up to date on other products and services available to you as a HOST **PLUS** member. 
+  * **Mail houses** – that provide you with correspondence about your Hostplus account as well as keeping you up to date on other products and services available to you as a Hostplus member. 
   * **Other superannuation funds** – when your benefits are transferred or rolled over. 
   * **Regulatory bodies** – such as the Australian Prudential Regulation Authority (APRA), Australian Securities and Investments Commission (ASIC), Australian Transaction Reports and Analysis Centre (AUSTRAC) and the Australian Taxation Office (ATO) to the extent required by law. 
   * **Your representative/s** – either your legal representatives after your death to enable the processing of a death claim, or your other nominated agent or representative (including professional adviser) as authorised by you. 
   * **Your spouse or former spouse** – to the extent required by law. 
-  * **Market research agencies** – for the purposes of confidential internal research. 
-  * **Industry Fund Services Ltd** – our dedicated financial planners who may need to access your information to provide tailored personal advice.
-  * **ME Bank** – our fairer banking partner who may from time to time contact you with exclusive discount offers available to HOST **PLUS** members.
+  * ****Marketing and** market research agencies** – organisations which provide marketing and communications services to Hostplus. 
+  * **Industry Fund Services Ltd** – You may be contacted directly by one of Hostplus’ dedicated Industry Fund Services (IFS) financial planners about financial planning services can help you. Additionally, an IFS financial planner may need to access your information to provide you with tailored personal advice. Financial advice provided by Hostplus’ dedicated IFS financial planners is currently provided under IFS’ Australian Financial Services Licence (AFSL 232514). For further information please visit our [advice page](https://web.archive.org/financial-planning/getting-the-right-advice)[ ](http://hostplus.com.au/advice).
+  * **ME Bank** – our fairer banking partner who may from time to time contact you with exclusive discount offers available to Hostplus members.
+  * **Hardwire** – our creative agency for marketing purposes and maintaining online tools.
+  * **Auditors** – for the purpose of auditing the fund's compliance with processes and policies.
+  * **Listed Companies or Responsible Entities** \- such as those of listed managed investment schemes available via the Choiceplus investment option, when required under Legal notice.
 
 
 
 ### Do we disclose your personal information to overseas recipients? 
 
-Our administrator Superpartners’ privacy policy details which countries your personal information is disclosed to as part of their administration activities. It’s available at [superpartners.com.au/privacy](http://superpartners.com.au/privacy)
+Our administrator Superpartners’ privacy policy details which countries your personal information is disclosed to as part of their administration activities. It’s available at [superpartners.com.au/privacy  
+](http://superpartners.com.au/privacy)
+
+Your personal information may also be stored on servers based in the United States of America and disclosed to auditors based in the Philippines and using an eRoom based in Singapore.
 
 We may also need to disclose your personal information to overseas recipients in New Zealand and the United Kingdom if you make a request for the rollover out or in of your superannuation or pension benefits held in these countries. 
 
@@ -117,17 +130,15 @@ We may also need to disclose your personal information to overseas recipients in
 
 Simply contact us via the details below and we’d be happy to help with:
 
-  * **Finding out more.** If you’d like further information about privacy at HOST **PLUS** , just let us know.
+  * **Finding out more.** If you’d like further information about privacy at Hostplus, just let us know.
   * **Accessing or updating your personal information.**   We’ll provide you with a copy of your requested information or update your details as soon as possible. In the rare event that we’re unable to provide you with access to or update your personal information, we’ll write to you to let you know why.
-  * **Providing feedback or making a complaint.**   We’ll make sure that someone from HOST **PLUS** responds to you within 30 days. If you're still not satisfied with our response, you can then either contact the Financial Ombudsman Service or the Office of the Australian Information Commissioner. 
-  * **Opting-out**. Please contact us at any time if you no longer wish to receive direct marketing material. 
+  * **Providing feedback or making a complaint.**   We’ll make sure that someone from Hostplus responds to you within 30 days. If you're still not satisfied with our response, you can then either contact the Financial Ombudsman Service or the Office of the Australian Information Commissioner. 
+  * **Opting-out**. Please contact us at any time if you no longer wish to receive direct marketing material, or do not wish to receive information about additional services that Hostplus or its partners provide. 
 
 
 
-Call us on **1300** HOST **PLUS** ( **1300 467 875** ) or **1300 348 546** for pension members
+Call us on **1300 467 875**  or **1300 348 546** for pension members
 
-Email us at [**privacy@mail.hostplus.com.au**](mailto:privacy@mail.hostplus.com.au), or **[privacy@mail.hostpluspension.com.au](mailto:privacy@mail.hostpluspension.com.au)**
+Email us at [**privacy@mail.hostplus.com.au**](mailto:privacy@hostplus.com.au), or **[privacy@mail.hostpluspension.com.au](mailto:privacy@mail.hostpluspension.com.au)**
 
-Write to us at Reply Paid 84069, Carlton South VIC 3053. 
-
-[Download our Privacy Policy as a PDF](https://web.archive.org/docs/member/0750_privacypolicya4flyer_core_fa.pdf?sfvrsn=0 "Download our Privacy Policy as a PDF")
+Write to us at Reply Paid 84069, Carlton South VIC 3053.
