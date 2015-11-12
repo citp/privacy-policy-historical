@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyvanity.sg privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513212158id_/http%3A//dailyvanity.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyvanity.sg privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112084058id_/http%3A//dailyvanity.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Daily Vanity
 
@@ -8,7 +8,7 @@ DAILY VANITY (DAILY VANITY Pte Ltd) respects the privacy rights of our customers
 
 This Privacy Policy applies to personal data collected, stored, disclosed and/or processed by Daily Vanity.
 
-This Policy is based on the Singapore Personal Data Protection Act 2012 ("PDPA") and all the associated regulations and guidelines as may from time to time be issued by the Personal Data Protection Commission ("PDPC") of Singapore. Daily Vanity’s practices may be subjected to different or more restrictive local laws in jurisdictions outside of Singapore.
+This Policy is based on the Singapore Personal Data Protection Act 2012 (“PDPA”) and all the associated regulations and guidelines as may from time to time be issued by the Personal Data Protection Commission (“PDPC”) of Singapore. Daily Vanity’s practices may be subjected to different or more restrictive local laws in jurisdictions outside of Singapore.
 
 By visiting or using the Daily Vanity website, you agree to the terms of this Privacy Policy. Please review this Privacy Policy carefully before visiting, using our website, or providing us with any of your personal data.
 
@@ -33,7 +33,7 @@ It is possible that this website:
 
 
 
-When ordering or registering on our site, personal data includes, among other things, your: name; street or mailing address; telephone number(s); email addresses; date of birth; gender; nationality; purchases of products; payment information; credit card numbers; marketing preferences; answers you provide to security questions (such as your mother's maiden name, the name of your pet, etc.); information used to provide products or services; information needed to administer rewards or loyalty programs, including transaction and correspondence details; and any other types of information that you choose to provide to us or that we may collect about you through your transactions with Daily Vanity.
+When ordering or registering on our site, personal data includes, among other things, your: name; street or mailing address; telephone number(s); email addresses; date of birth; gender; nationality; purchases of products; payment information; credit card numbers; marketing preferences; answers you provide to security questions (such as your mother’s maiden name, the name of your pet, etc.); information used to provide products or services; information needed to administer rewards or loyalty programs, including transaction and correspondence details; and any other types of information that you choose to provide to us or that we may collect about you through your transactions with Daily Vanity.
 
 Information collected under Daily Vanity will be retained under the authority of DAILY VANITY Pte Ltd. In the event of a sale of any DAILY VANITY Pte Ltd’s asset including customer information, buyers will be required to honour our Privacy Policy or provide you a notice and option to limit the sharing of your information.
 
@@ -47,13 +47,13 @@ We implement a variety of security measures to maintain the safety of your perso
 
 ## USAGE OF COOKIES
 
-When you visit our website, we may assign your computer one or more "cookies." By accessing our website, you agree that we can place cookies on your device.
+When you visit our website, we may assign your computer one or more “cookies.” By accessing our website, you agree that we can place cookies on your device.
 
 This website and third-party vendors, including Google, may use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to this website. Also, this information will be used to enhance your shopping experience.
 
-A cookie is a small text file that contains information that can later be read by us to facilitate your access to our website, gather statistical data, and personalize your online experience. We currently use cookies on our website for purposes including, but not limited to, detecting your web browser's multimedia capabilities, tracking promotional advertisements that we have displayed to you, maintaining current login and providing a unique identifier to your computer so that we can generate statistics regarding website usage.
+A cookie is a small text file that contains information that can later be read by us to facilitate your access to our website, gather statistical data, and personalize your online experience. We currently use cookies on our website for purposes including, but not limited to, detecting your web browser’s multimedia capabilities, tracking promotional advertisements that we have displayed to you, maintaining current login and providing a unique identifier to your computer so that we can generate statistics regarding website usage.
 
-Most browsers automatically accept cookies, but you can modify your browser setting to decline cookies.  Generally, you can remove these cookies by following directions provided in your Internet browser's "help" file.  If you choose not to allow us to place a cookie on your computer, you may be restricted from some services and some of the interactive features offered on our websites may be similarly restricted or rendered inoperable.
+Most browsers automatically accept cookies, but you can modify your browser setting to decline cookies.  Generally, you can remove these cookies by following directions provided in your Internet browser’s “help” file.  If you choose not to allow us to place a cookie on your computer, you may be restricted from some services and some of the interactive features offered on our websites may be similarly restricted or rendered inoperable.
 
 In addition to cookies, we may also use other Internet technologies, such as web beacons or pixel tags, and other similar technologies, to deliver or communicate with cookies and track your use of our website. The information we obtain in this manner enables us measure the overall effectiveness of our online content, advertising campaigns, and the products we offer through our website. By accessing our website and agreeing to receive our e-mail messages or newsletters, you agree to that we can use other Internet technologies such as those mentioned above on your device(s).
 
@@ -75,7 +75,7 @@ If you do not want your personal data to be shared among affiliates, you may opt
 
 DAILY VANITY may feature pictures, articles, information, digital images, text, data, games, surveys, contests, promotions, advertising, logos, trademarks and other forms of content*** we deem will be of interest to our customers or visitors. This Content can be viewed, transferred, shared and stored by our customers and guest. However, the ownership of this Content belongs to DailyVanity.com & DailyVanity.sg and by downloading or storing of this Content does not render the customer or visitor the rights nor ownership to it.
 
-***Collectively, content composite one or more of the following - text, data, music, sound, graphics, images, pictures, photographs, videos, software or other forms later created or not known at this time.
+***Collectively, content composite one or more of the following – text, data, music, sound, graphics, images, pictures, photographs, videos, software or other forms later created or not known at this time.
 
 Content extracted from DailyVanity.com & DailyVanity.sg and published or shared on any platforms must be credited and linked back to the respective web pages. DAILY VANITY Pte. Ltd. reserves the rights to pursue legal actions against unauthorized usage of this Content.
 
