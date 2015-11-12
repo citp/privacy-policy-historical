@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the driverupdate.net privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509040053id_/http%3A//www.driverupdate.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverupdate.net privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112150442id_/http%3A//www.driverupdate.net/privacy.php) for the most accurate reproduction.*
 
-# DriverUpdate.net - Update Drivers for Windows 7, XP, and Vista
+# DriverUpdate.net - Update Drivers for Windows 10, 8, 7, XP, and Vista
 
 **NOTICE** : _Last Updated April 29, 2014_
 
