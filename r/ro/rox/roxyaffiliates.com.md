@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roxyaffiliates.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505105952id_/https%3A//www.roxyaffiliates.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roxyaffiliates.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112072501id_/http%3A//www.roxyaffiliates.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
