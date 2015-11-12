@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noon.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212045035id_/http%3A//www.noon.com/digimedia_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noon.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112014719id_/http%3A//www.noon.com/digimedia_privacy_policy.html) for the most accurate reproduction.*
 
 # None
 
