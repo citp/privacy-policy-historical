@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestbonusblog.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522023724id_/http%3A//www.bestbonusblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestbonusblog.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113004817id_/http%3A//www.bestbonusblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Best Bonus Blog
+# Privacy Policy | BestBonusBlog: The Site for Internet Marketers & Entrepreneurs
 
 BACKGROUND:  
 This Policy applies as between you, the User of this and any web site you visit that is owned and operated by BestBonusBlog.com This Policy applies to our use of any and all Data collected by us in relation to your use of the Web Site and any Services or Systems therein.
