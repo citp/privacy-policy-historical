@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kamajewellery.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530024216id_/http%3A//kamajewellery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kamajewellery.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112182653id_/http%3A//kamajewellery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kama Jewellery
 
