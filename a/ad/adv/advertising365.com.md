@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advertising365.com privacy policy that was archived on 2015-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150224054555id_/http%3A//advertising365.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advertising365.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112192633id_/http%3A//www.advertising365.com/privacy.html) for the most accurate reproduction.*
 
 # Advertising365.com Privacy
 
