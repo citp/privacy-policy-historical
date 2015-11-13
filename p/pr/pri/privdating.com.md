@@ -1,27 +1,28 @@
-> *The following text is extracted and transformed from the privdating.com privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218143848id_/http%3A//privdating.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privdating.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113114801id_/http%3A//privdating.com/privacy_policy.php) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-## This Privacy Policy is effective for privdating.com members  
-Last edition — 1 June 2014
+Thank you for visiting our website. This privacy policy tells you how we use personal information collected at this website. Please read this privacy policy before using the website or submitting any personal information. By using this website, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to keep track of the policy changes and make sure that you understand how any personal information you provide will be used.
 
-The privdating.com web-site and the service is a member of Dating Factory network, which is operated by Tyche Technologies AG, a company registered under the laws of Switzerland, Reg. No. CHE-420.114.703.
+Note: the privacy practices set forth in this privacy policy are for this website only. If you link to other websites, please review the privacy policies posted at those websites.
 
-privdating.com is committed to providing you with the professional and high quality introductions and dating service and is therefore committed to protecting your privacy. We follow all the procedures that are set out in this document, and it needs to be read and understood together with the [Terms of use](https://web.archive.org/terms/) of the privdating.com web-site. privdating.com Privacy policy is intended to ensure that you can use the site and contact other members without having to worry about confidentiality issues.
+Collection of Information
 
-privdating.com may change some clauses of this Policy from time to time, and members are advised to review this Policy regularly to make sure they read and understand the most current version of it.
+We collect personally identifiable information, like names, email addresses, etc., when voluntarily submitted by our visitors. This information is only used to fulfill your specific request, and to sign you up for our service mailing list, unless you give us permission to use it in other manners.
 
-  1. All the information you fill about you on your profile will be displayed on your profile page. We are required to remove any bad language or words and phrases that don’t contain any information or make sense in the interests of other members and with a view of providing a quality dating service to every member of the privdating.com web-site. We will only post pictures and images which meet the editorial guidelines set out in Terms of use.
-  2. We will NOT display any of your personal information such as your real name, e-mail address, full post code, mobile or landline phone number or IP-address, and they will be kept strictly private and confidential. In any case when we ask for such information we make it clear that it is not for display without your express consent.
-  3. We will not share your personal information with any third party for marketing purposes without your permission.
-  4. We are required to give information to legal authorities if they have the proper authorization such as a search warrant or court order. Other than a valid request from a legal authority your information is secure on the privdating.com website. We do our best to ensure that all information held relating to you is kept up-to-date, accurate and complete, but we also rely on you to notify us if your information requires updating or deleting.
-  5. Your individual use of privdating.com website and your interaction with other members through this site will be kept strictly private.
-  6. We may from time to time send you emails containing system and site activity, notifications or promotions that we feel may be of interest to you. You may unsubscribe from privdating.com emails at any time by changing your profile settings or by following the unsubscribe link at the bottom of every privdating.com email.
-  7. In the course of serving ads to this site and you using some part of the web-site, us or our third-party advertiser may place or recognize a unique cookie on your browser. Cookies are a normal part of internet operations and are also used by privdating.com to safely identify you each time you logon and use the site and to keep your session active when you don’t use the website for some time. Any information that us or third parties collect via cookies and marketing campaigns tracking software is totally anonymous.
-  8. Our members have the following choices to modify or delete their information from our database: 
-    * Send an email to [Customer support](https://web.archive.org/contacts/)
-    * Log in with your password and change/delete your profile
+Cookie/Tracking Technology
 
+This website may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the website, and understanding how visitors use the website. Cookies can also help customize the website for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
 
+Distribution of Information
 
-If you have questions or concerns, please use [Customer support](https://web.archive.org/contacts/) form on privdating.com web-site and our team will deal with your enquiry quickly, professionally and efficiently because we take privacy of our members seriously and are ready to address all the concerns they may have.
+We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
+
+Commitment to Data Security
+
+Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this website allow you to opt out of further mailings.  
+Privacy Contact Information
+
+If you have any questions, concerns, or comments about our privacy policy you may contact us using means provided on this website.
+
+We reserve the right to make changes to this policy. Any changes to this policy will be posted.
