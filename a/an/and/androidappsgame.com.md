@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidappsgame.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515120919id_/http%3A//www.androidappsgame.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidappsgame.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113050432id_/http%3A//www.androidappsgame.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,4 +18,4 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 **Contact** :
 
-If users have any questions or suggestions regarding our privacy policy, please contact us at: suport@androidappsgame.com.
+If users have any questions or suggestions regarding our privacy policy, please contact us at: support@androidappsgame.com.
