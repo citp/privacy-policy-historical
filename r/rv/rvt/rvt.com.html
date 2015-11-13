@@ -1,31 +1,40 @@
-<!--The following is the downloaded HTML source of the rvt.com privacy policy that was archived on 2015-04-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150404191241id_/http%3A//www.rvt.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rvt.com privacy policy that was archived on 2015-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151113034329id_/http%3A//www.rvt.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-<link rel="canonical" href="http://www.rvt.com/privacy.php">
+<!DOCTYPE html><html lang="en" itemscope="" itemtype="http://schema.org/WebPage"><head>
 <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="canonical" href="http://www.rvt.com/privacy.php">
 <title>RVT Privacy Agreement</title>
 <meta name="keywords" content="RV trader, rvtrader.com, used motorhomes, for sale, buy sell, new motorhome sales, motor home, homes, camper, campers, bus conversion, van conversions, classifieds ads, recreational vehicles, motorhomes, fifth wheels, 5th wheels, rv camping, rv trader, rv part, rv park, rv sales, rv dealer, rv sale, rv park campground, rv trader online, rv campground, rv manufacturer, rv camper, rv online, rv search, rv trader.com">
 <meta name="description" content="Search RVT online classifieds for new and used motorhomes, campers and other recreational vehicles Today! RVT is North America’s Best Selling Online Classifieds website. Users can search through thousands of RV listings to find the perfect RV. RVT has listings for RV Dealerships, Campgrounds, Resorts, RV Parts, Wanted Ads and much more RV related content.">
 <meta name="subject" content="RV Classifieds">
 
 
-<link rel="stylesheet" type="text/css" href="rv.css">
-<!--[if lte IE 6]>
-<link rel="stylesheet" type="text/css" href="rv_ie6.css">
-<![endif]-->
+<link rel="stylesheet" type="text/css" href="main.css">
 <!--[if lte IE 7]>
-<link rel="stylesheet" type="text/css" href="rv_ie7.css">
+<link rel="stylesheet" type="text/css" href="---rv_ie7.css">
 <![endif]-->
 <!--[if lte IE 8]>
-<link rel="stylesheet" type="text/css" href="rv_ie8.css">
+<link rel="stylesheet" type="text/css" href="main_ie8.css">
 <![endif]-->
+
+<!--[if lte IE 8]>
+<script src="scripts/modernizr.custom.45756.js"></script>
+<![endif]-->
+
+<!--link rel="stylesheet" type="text/css" href="< ? echo $cdir; ?>imobile.css"-->
 <link rel="shortcut icon" href="favicon.ico">
 
-<script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WDWWVV"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<!-- Sell RV -->
+
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WDWWVV"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <!--script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script-->
 <!--script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script-->
 <!--script src="https://www.rvt.com/functions.js"></script-->
+<script src="scripts/functions.head.js"></script>
+
 
 
 
@@ -41,240 +50,313 @@ googletag.cmd = googletag.cmd || [];
   gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
   var node = document.getElementsByTagName('script')[0];
   node.parentNode.insertBefore(gads, node);
-})();
+})(); 
 
-googletag.cmd.push(function() {
+googletag.cmd.push(function() {  
+  var home_med_rec_top = googletag.sizeMapping().
+  addSize([0,  0], [300, 250]).
+  addSize([681,  0], [300, 600]).
+  addSize([1280,  0], [300, 250]).
+  build();
+  
+  var home_med_rec_bot = googletag.sizeMapping().
+  addSize([0,  0], []).
+  addSize([681,  0], [300, 250]).
+  build();
+  
+  var ad_detail_dealer_1 = googletag.sizeMapping().
+  addSize([0,  0], [300, 250]).
+  addSize([336,  0], [[300, 250], [336, 280]]).
+  build();
+  
+  var ad_detail_manu_1 = googletag.sizeMapping().
+  addSize([0,  0], []).
+  addSize([768,  0], [[300, 250], [336, 280]]).
+  build();  
+  
+  var pricechecker_1 = googletag.sizeMapping().
+  addSize([0,  0], [300, 250]).
+  addSize([336,  0], [[300, 250], [336, 280]]).
+  build();
 
-  googletag.defineSlot('/1246941/RVT-Margin-Sky', [160, 600], 'div-gpt-ad-1325718503014-25').addService(googletag.pubads()); 
+  var pricechecker_2 = googletag.sizeMapping().
+  addSize([0,  0], []).
+  addSize([1263,  0], [[300, 250], [336, 280]]).
+  build();
+  
+  var dl_list_1 = googletag.sizeMapping().
+  addSize([0,  0], []).
+  addSize([681,  0], [300, 250]).
+  build();                     
 
 googletag.pubads().setTargeting('New-Preown', '');
-googletag.pubads().setTargeting('RV-Categ', 'Class-C');
+googletag.pubads().setTargeting('RV-Categ', '');
 googletag.pubads().setTargeting('state', '');
 googletag.pubads().setTargeting('stateAbbr', '');
 googletag.pubads().setTargeting('IPState', 'California');
 googletag.pubads().setTargeting('Year', '');
-googletag.pubads().setTargeting('Manu', 'itasca');
+googletag.pubads().setTargeting('Manu', '');
 googletag.pubads().setTargeting('Brand', '');
 googletag.pubads().setTargeting('Keyword', '');
 googletag.pubads().setTargeting('RVLink', '');
 googletag.pubads().setTargeting('isDealer', '');
 googletag.pubads().setTargeting('Custom', '');
 googletag.pubads().setTargeting('User-ID', ''); 
+
 googletag.pubads().enableSingleRequest();
 googletag.enableServices();
 });
+
+var initViewport = parseInt($(window).width());
+var resizeCount = 0;
+//console.log('init: ' + initViewport);
+$(window).resize(function() {
+  resizeCount++; 
+  var newViewport = parseInt($(window).width());
+  if (initViewport != newViewport) {
+    var percent = Math.abs(Math.round(((initViewport-newViewport)/initViewport) * 100));
+    if (percent >= 5 || resizeCount >= 5) { 
+      googletag.pubads().refresh()
+      //console.log('REFRESH!');
+      resizeCount = 0; 
+    }
+    initViewport = newViewport;
+  }
+});
+
+// ##################### Google AdSense Custom Search Ads #########################
+(function(G,o,O,g,L,e){G[g]=G[g]||function(){(G[g]['q']=G[g]['q']||[]).push(
+   arguments)},G[g]['t']=1*new Date;L=o.createElement(O),e=o.getElementsByTagName(
+   O)[0];L.async=1;L.src='//www.google.com/adsense/search/async-ads.js';
+   e.parentNode.insertBefore(L,e)})(window,document,'script','_googCsa');
+// ################################################################################
+
 </script>
 <meta property="fb:page_id" content="65600962553">
 </head>
 <body id="top">
+<!-- Sell RV -->
 
+<div class="bg-top"></div>
 
+<header>
+
+<!-- LOGO -->
+<div class="rvt-logo">
+<a itemprop="url" class="logo-box" href="http://www.rvt.com/" title="Home"><img src="https://www.rvt.com/images/logo-rvt-100.png" alt="RVT.com Classifieds" onerror="this.onerror=null; this.src='https://www.rvt.com/images/logo-rvt-100.png'"></a>
+</div>
+
+<!-- SEARCH AND ACCOUNT TOOLS -->
+<div class="greet">
+<div class="top-srch" title="Search">Search</div>
+<div class="acc" title="My RVT Account: Sign in or Join Free">Account</div>
+</div><!-- /greet -->
+
+<div class="greet-srch-c">
+<div class="top-srch-c">
+  <form method="post" id="top-keyword-search-form" action="https://www.rvt.com/rvsearchform.php" name="quicksearch">
+  <input id="top-keyword-search" class="top-srch-field" type="search" name="qskeywords" autocomplete="off">
+  <button id="top-keyword-search-button" class="top-srch-btn" name="submit" type="submit" value="SEARCH NOW">Go</button><br>
+  <p class="srch-location" id="location-city-state">San Francisco, CA <a class="set-location" href="http://www.rvt.com/set-location.php">Change Location</a></p>
+  </form>
+</div>
+</div>
+
+<!--- CAM AUTOCOMPLETE SEARCH STUFF -->
+<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.22/jquery-ui.min.js"></script>
+<!-- CAM AUTOCOMPLETE SEARCH STUFF -->
 
 <script>
-dataLayer = [{
-'pageType':'other'}];
+$(document).ready(function() {
+  $('#top-keyword-search').autocomplete({
+    source: function(request, response) {
+        $.ajax({
+          url: '1search2rule_sug_kw.php',
+          dataType: "json",
+          data: {
+            term : request.term
+          },
+          success: function(data) {
+            response(data);
+          }
+        });
+    },
+    select: function (event, ui) {
+        //$(this).val(ui.item.value);
+        $(this).val(ui.item.id);
+        $("#top-keyword-search-button").click();
+    },
+    minLength:1
+
+  });
+  $.extend( $.ui.autocomplete.prototype, {
+      _renderItem: function( ul, item ) {
+          var term = this.element.val(),
+          regex = new RegExp( '(' + term + ')', 'gi' );
+              html = item.label.replace( regex , "<b>$&</b>" );
+          return $( "<li></li>" )
+              .data( "item.autocomplete", item )
+              .append( $("<a></a>").html(html) )
+              .appendTo( ul );
+      }
+  });
+});
+
 </script>
 
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDWWVV" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WDWWVV');</script>
-<div class="header-container" itemscope="" itemtype="http://schema.org/WPHeader">
-<div class="header-wrap">
 
-<!-- HEADER-LOGO -->
-<div class="header-logo">
-<a itemprop="url" class="logo-box" href="http://www.rvt.com/" title="Home"><img src="http://www.rvt.com/images/logo-rvt-100.png" alt="RVT.com Classifieds" onerror="this.onerror=null; this.src='http://www.rvt.com/images/logo-rvt-100.png'"></a>
-<!--<div class="header-location"><img class="usa-can-flags" <b>< ? echo $rvtrader->getMyCity().", ".$rvtrader->getMyState(); ?></b> <a class="set-location" href="http://www.rvt.com/set-location.php">Change</a>
-</div-->
+
+
+<div class="greet-acc-c">
+<div class="acc-c">
+<div class="logout">
+San Francisco, CA<br>
+<a class="std-pop" href="http://www.rvt.com/set-location.php">Change Location</a><br>
+<a href="https://www.rvt.com/ur_login.php?type=quick">Sign in</a><br>
+<a href="user_register.php?type=quick">Join MyRVT</a>
 </div>
+</div>
+</div>
+<script>
+$(document).ready(function(){
+  $('.top-srch').on('click', function() {
+    $(".greet-srch-c").toggleClass("greet-srch-o");
+    $(".top-srch-c").toggleClass("top-srch-o");
+    $(".acc-c").removeClass("acc-o");
+    $(".greet-acc-c").removeClass("greet-acc-o");
+    return false;
+  });
+  $('.acc').on('click', function() {
+    $(".greet-acc-c").toggleClass("greet-acc-o");
+    $(".acc-c").toggleClass("acc-o");
+    $(".top-srch-c").removeClass("top-srch-o");
+    $(".greet-srch-c").removeClass("greet-srch-o");
+    return false;
+  });
+});
 
-<!-- HEADER-LINKS -->
-<div class="header-links">
+$(document).on('click', function(event) {
+  if (!$(event.target).closest('.greet-srch-o').length) {
+    $(".top-srch-c").removeClass("top-srch-o");
+    $(".greet-srch-c").removeClass("greet-srch-o");
+  }
+});
+$(document).on('click', function(event) {
+  if (!$(event.target).closest('.greet-acc-o').length) {
+    $(".acc-c").removeClass("acc-o");
+    $(".greet-acc-c").removeClass("greet-acc-o");
+  }
+});
+</script>
 
-<ul class="rvtypes" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
-  <li><a class="rvtype00" href="http://www.rvt.com/New-and-Used-Class-A-RVs-For-Sale-On-RVT.com/results?type=Class A&amp;searchtype=browse">Class A</a></li>
-  <li><a class="rvtype02" href="http://www.rvt.com/New-and-Used-Class-B-RVs-For-Sale-On-RVT.com/results?type=Class B&amp;searchtype=browse">Class B</a></li>
-  <li><a class="rvtype03" href="http://www.rvt.com/New-and-Used-Class-C-RVs-For-Sale-On-RVT.com/results?type=Class C&amp;searchtype=browse">Class C</a></li>
-  <li><a class="rvtype04" href="http://www.rvt.com/New-and-Used-5th-Wheel-RVs-For-Sale-On-RVT.com/results?type=5th Wheels&amp;searchtype=browse">5th Wheels</a></li>
-  <li><a class="rvtype05" href="http://www.rvt.com/New-and-Used-Travel-Trailer-RVs-For-Sale-On-RVT.com/results?type=Travel Trailers&amp;searchtype=browse">Travel Trailers</a></li>
-  <li><a class="rvtype06" href="http://www.rvt.com/New-and-Used-Toy-Hauler-RVs-For-Sale-On-RVT.com/results?type=Toy Haulers&amp;searchtype=browse">Toy Haulers</a></li>
-  <li><a class="rvtype07" href="http://www.rvt.com/New-and-Used-Folding-Trailer-RVs-For-Sale-On-RVT.com/results?type=Folding Trailers&amp;searchtype=browse">Folding Trailers</a></li>
-  <li><a class="rvtype08" href="http://www.rvt.com/New-and-Used-Truck-Camper-RVs-For-Sale-On-RVT.com/results?type=Truck Campers&amp;searchtype=browse">Truck Campers</a></li>
+<script>
+jQuery(document).ready(function () {
+  jQuery('header nav').meanmenu();
+  var theMenu = $('.sf-menu').superfish({
+  });
+});
+</script>
+
+<!-- MAIN MENU -->
+<nav id="meanfish">
+<ul class="sf-menu">
+  <li><a class="sf-parent" href="#top">Search</a>
+    <ul>
+      <li><a href="http://www.rvt.com/">New Search</a></li>
+      <li><a href="rvsearchform.php">Advanced Search</a></li>
+      <li><a href="http://www.rvt.com/New-and-Used-RVs-For-Sale-On-RVT.com/results?">Browse All RVs</a>
+        <ul>
+          <li><a href="RV-Types/">By Type</a></li>
+          <li><a href="RV-Manufacturers/">By Manufacturer</a></li>
+          <li><a href="RVs-for-Sale-by-State/">By State &amp; City</a></li>
+        </ul>
+      </li>
+      <li><a href="#">Featured Searches</a>
+        <ul>
+          <li><a href="New-and-Used-RVs-For-Sale-On-RVT.com/results?s_by=15&amp;pos=tab_bar">Most Recent RVs For Sale</a></li>
+          <li><a href="New-and-Used-RVs-For-Sale-On-RVT.com/results?reduced=1&amp;pos=tab_bar">Reduced RVs For Sale</a></li>
+          <li><a href="New-and-Used-RVs-For-Sale-On-RVT.com/results?will_trade=1&amp;pos=tab_bar">RV Traders – Will Trade RVs</a></li>
+          <li><a href="New-and-Used-Class-A---Diesel-RVs-For-Sale-On-RVT.com/results?type=Class A - Diesel&amp;pricemin=1&amp;pricemax=100000&amp;pos=tab_bar&amp;index=yes">Class A Diesels Under $100K</a></li>
+          <li><a href="New-and-Used-Travel-Trailer-RVs-For-Sale-On-RVT.com/results?type=Travel Trailers&amp;pricemin=1&amp;pricemax=5000&amp;pos=tab_bar&amp;index=yes">Trailers Under $5K</a></li>
+          <li><a href="New-and-Used-Motorhomes-RVs-For-Sale-On-RVT.com/results?type=Class&amp;pricemin=1&amp;pricemax=15000&amp;pos=tab_bar&amp;index=yes">Motorhomes Under $15K</a></li>
+          <li><a href="http://www.rvt.com/Used-RVs-For-Sale-On-RVT.com/results?new=0">Used RVs For Sale</a></li>
+          <li><a href="http://www.rvt.com/New-and-Used-RVs-For-Sale-On-RVT.com/results?private_only=1">RVs For Sale By Owner</a></li>
+        </ul>
+      </li>
+      <li><a href="findrv/product/search.php">Related Products</a>
+        <ul>
+          <li><a href="findrv/product/productresults.php?category=Parts+%26+Accessories">Parts / Accessories</a></li>
+          <li><a href="findrv/product/productresults.php?category=ATVs+%26+Motorcycles">ATVs / Motorcycles</a></li>
+          <li><a href="findrv/product/productresults.php?category=Property">RV Properties</a></li>
+        </ul>
+      </li>
+      <li><a href="price-checker/" rel="nofollow">Price Checker &amp; NADAGuides® Search</a></li>
+    </ul>
+  </li>
+  <li><a class="sf-parent" href="#top">Sell</a>
+    <ul>
+      <li><a href="https://www.rvt.com/sell-rv.php">Sell an RV</a></li>
+      <li><a href="price-checker/">Price Checker &amp; NADAGuides® Search</a></li>
+      <li><a href="how-to-sell-an-rv-online-guide.php">Tips for Selling an RV</a></li>
+      <li><a href="https://www.rvt.com/sell-rv.php">Sell a Truck or Tow Vehicle</a></li>
+      <li><a href="http://www.rvt.com/placeproduct.php">Sell RV Parts &amp; Accessories</a></li>
+      <li><a href="testimonials.php">What our Customers are Saying</a></li>
+    </ul>
+  </li>
+  <li><a href="http://www.rvt.com/rv-reviews">Reviews</a></li>
+  <li><a class="sf-parent" href="#top">Dealers</a>
+    <ul>
+      <li><a href="dealersearch.php">Find a Dealer</a></li>
+      <li><a href="rv-dealer-advertising-classifieds.php">Advertising For RV Dealers</a></li>
+    </ul>
+  </li>
+  <li><a class="sf-parent" href="#top">Resources</a>
+    <ul>
+      <li><a href="resources.php">RV Resource Center</a>
+      </li><li><a href="insurance/">RV Insurance</a>
+      </li><li><a href="blog/">Blog</a>
+        <ul>
+          <li><a href="blog/">RV Buy, Sell &amp; Lifestyle</a></li>
+          <li><a href="http://www.rvadvertiser.com/">RV Dealer &amp; Industry</a></li>
+        </ul>
+      </li>
+      <!--li><a href="price-checker/">Price Checker & NADAGuides Search</a></li-->
+      <li><a href="mobile-rv-apps/">Mobile RV Apps</a></li>
+      <li><a href="fraud.php">Fraud Prevention</a></li>
+      <li><a href="import-rv-to-usa.php">Import RV to USA</a></li>
+      <li><a href="import-rv-to-canada.php">Import RV to Canada</a></li>
+    </ul>
+  </li>
+  <li><a href="advertising.php">Advertising</a></li>
+  <li><a class="sf-parent" href="#top">Support</a>
+    <ul>
+      <li><a href="contactus.php">Contact Us</a></li>
+      <li><a href="aboutus.php">About Us</a></li>
+      <li><a class="std-pop" href="feedback.php">Feedback</a></li>
+      <li><a href="faqs.php">FAQs</a></li>
+    </ul>
+  </li>
 </ul>
+</nav>
 
-</div>
+</header>
 
-<!-- HEADER-TOOLS -->
-<div class="header-tools">
-<div class="login-box">
-  <div class="account-tools">
-  <a class="join-rvt trans-bg" href="user_register.php?type=quick">join MyRVT</a>
-  <a class="nav trans-bg" href="https://www.rvt.com/ur_login.php?type=quick">Sign in</a>
-  </div>
-<a class="set-location" href="http://www.rvt.com/set-location.php">Set current location</a>
-</div>
-</div>
 
-<div class="navbar">
-  <ul class="menu-main" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
-    <!--li><a class="< ? echo $menu_01; ?>" href="http://www.rvt.com">Home</a></li-->
-    <li><a class="" href="http://www.rvt.com">Search</a>
-      <ul>
-        <li><a href="rvsearchform.php">Advanced Search</a></li>
-        <li><a class="dir" href="http://www.rvt.com/New-and-Used-RVs-For-Sale-On-RVT.com/results?searchtype=browse">Browse All RVs</a>
-          <ul>
-            <li><a href="RV-Types/">By Type</a>
-            </li><li><a href="RV-Manufacturers/">By Manufacturer</a></li>
-            <li><a href="RVs-for-Sale-by-State/">By State &amp; City</a></li>
-          </ul>
-        </li>
-        <li><a class="dir" href="findrv/product/search.php">Related Products</a>
-          <ul>
-            <li><a href="findrv/product/productresults.php?category=Parts+%26+Accessories">Parts / Accessories</a></li>
-            <li><a href="findrv/product/productresults.php?category=ATVs+%26+Motorbikes">ATVs / Motorcycles</a></li>
-            <li><a href="findrv/product/productresults.php?category=Property">RV Properties</a></li>
-          </ul>
-        </li>
-        <li><a class="dir" href="#">Featured Searches</a>
-          <ul>
-            <li><a href="New-and-Used-RVs-For-Sale-On-RVT.com/results?s_by=15&amp;pos=tab_bar">Most Recent RVs For Sale</a></li>
-            <li><a href="New-and-Used-RVs-For-Sale-On-RVT.com/results?reduced=1&amp;pos=tab_bar">Reduced RVs For Sale</a></li>
-            <li><a href="New-and-Used-RVs-For-Sale-On-RVT.com/results?will_trade=1&amp;pos=tab_bar">RV Traders – Will Trade RVs</a></li>
-            <li><a href="New-and-Used-Class-A---Diesel-RVs-For-Sale-On-RVT.com/results?type=Class A - Diesel&amp;pricemin=1&amp;pricemax=100000&amp;searchtype=browse&amp;pos=tab_bar&amp;index=yes">Class A Diesels Under $100K</a></li>
-            <li><a href="New-and-Used-Travel-Trailer-RVs-For-Sale-On-RVT.com/results?type=Travel Trailers&amp;pricemin=1&amp;pricemax=5000&amp;searchtype=browse&amp;pos=tab_bar&amp;index=yes">Trailers Under $5K</a></li>
-            <li><a href="New-and-Used-Motorhomes-RVs-For-Sale-On-RVT.com/results?type=Class&amp;pricemin=1&amp;pricemax=15000&amp;searchtype=browse&amp;pos=tab_bar&amp;index=yes">Motorhomes Under $15K</a></li>
-            <li><a href="http://www.rvt.com/Used-RVs-For-Sale-On-RVT.com/results?new=0&amp;searchtype=browse">Used RVs</a></li>
-            <li><a href="http://www.rvt.com/New-and-Used-RVs-For-Sale-On-RVT.com/results?private_only=1&amp;searchtype=browse">By Owner</a></li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li><a class="" href="https://www.rvt.com/sell-rv.php">Sell an RV <span class="menu-tag">Free!</span></a>
-      <ul>
-        <li><a href="testimonials.php">Customer Reviews</a></li>
-        <li><a href="http://www.rvt.com/price-checker">Price Guide</a></li>
-        <li><a href="http://www.rvt.com/placeproduct.php">Sell Related RV Products</a></li>
-        <li><a href="how-to-sell-an-rv-online-guide.php">RV Seller's Guide &amp; Tips</a></li>
-        <li><a href="https://www.rvt.com/sell-rv.php">Sell Your Truck</a></li>
-        
-      </ul>
-    </li>
-    <li><a class="" href="rv-reviews">RV Reviews</a>
-    </li>
-    <li><a class="" href="dealersearch.php">Dealers</a>
-      <ul>
-        <li><a href="dealersearch.php">Find a Dealer</a></li>
-        <li><a href="rv-dealer-advertising-classifieds.php">Advertising For RV Dealers</a></li>
-      </ul>
-    </li>
-    <li><a class="" href="resources.php">Resources&nbsp;</a>
-      <ul>
-        <li><a href="price-checker/">NADA RV Values</a></li>
-        <li><a href="mobile-rv-apps/">Mobile RV Apps</a></li>
-        <li><a href="fraud.php">Fraud Prevention</a></li>
-        <li><a href="import-rv-to-usa.php">Import RV to USA</a></li>
-        <li><a href="import-rv-to-canada.php">Import RV to Canada</a></li>
-      </ul>
-    </li>
-    <li><a class="" href="advertising.php">Advertising</a></li>
-    <li><a class="" href="blog/">Blog </a>
-      <ul>
-        <li><a href="blog/">RV Buy, Sell &amp; Lifestyle</a></li>
-        <li><a href="http://www.rvadvertiser.com/">RV Dealer &amp; Industry</a></li>
-      </ul>
-    </li>
-    
-    <li><a class="" href="contactus.php">Contact Us</a>
-      <ul>
-        <li><a class="feedback" href="feedback.php">Feedback</a></li>
-        <li><a href="faqs.php">FAQs</a></li>
-      </ul>
-    </li>
-  </ul>
-    <div class="quicksrch-box">
-  <form id="quicksrch" method="post" action="rvsearchform.php" name="quicksearch">
-  <input class="search-field" type="text" name="keywords"><button class="trans-bg" name="submit" type="submit" value="SEARCH NOW">Search</button>
-  </form>
-  </div>
-  </div>
+<div class="container">
 
-</div><!-- header-wrap -->
-</div><!-- header-container -->
-<div id="container">
-<div id="main-wrap">
-
+<div class="wrapper">
 <div class="submenu">
+
 <ul class="breadcrumbs" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
 </ul>
-<!--a class="sub-similar" href="< ? echo $similar_rv_link; ?>">View Similar RVs</a-->
-</div>
 
+</div><!-- /submenu -->
+</div><!-- /wrapper -->
 
+<div class="wrapper">
+<div class="content">
 
-<div id="side-sidebar">
-
-
-
-<!-- Links -->
-<br>
-<div class="sidebar-section">
-<!--h3>RV Resources</h3-->
-<ul class="sidebar-list" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
-  <li><a href="testimonials.php">Seller Testimonials</a></li>
-  <li><a href="dealersearch.php">RV Dealers</a></li>
-  <li><a href="New-and-Used-Trucks-For-Sale-On-RVT.com/results?type=Trucks">Trucks for Sale</a></li>
-  <li><a href="findrv/product/search.php?category=Property">RV Properties for Sale</a></li>
-  <li><a href="findrv/product/search.php?category=Parts+%26+Accessories">RV Parts &amp; Accessories</a></li>
-  <li><a href="findrv/product/search.php?category=ATVs+%26+Motorbikes">ATVs &amp; Motorcycles</a></li>
-  <li><a href="rvlinks/rvconsignmentdealers.php">Consignment Dealers</a></li>
-</ul>
-</div>
-<style>
-#mc_signup_col {float:left; clear:both; width:200px; margin:0; padding:0 0 10px; border-bottom:1px dotted #666; overflow:hidden}
-#mc_signup_col fieldset {margin:0; padding:0; border:0}
-#mc_signup_col .mc-heading {float:left; clear:both; width:100%; margin:0; padding:0 0 2px; font-size:11px; text-transform:uppercase; color:#444}
-#mc_signup_col .signup-text {float:left; clear:both; width:120px; height:19px; margin:2px 0; padding-left:2px; border:1px solid #ddd; border-right:0; border-radius:3px 0 0 3px}
-#mc_signup_col .btn {float:left; width:auto; height:23px; margin:2px 0 0; padding:0 4px; background:#ddd; border:0; text-align:center; font:normal 12px sans-serif; color:#222; cursor:pointer; border-radius:0 3px 3px 0}
-#mc_signup_col .btn:hover {background-color:#eee}
-</style>
-<div id="mc_signup_col">
-<form class="subscribe" action="http://natcotrading.us1.list-manage.com/subscribe/post?u=9c61b2c6be98c08fb9e1a4e5a&amp;id=658321c64f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
-<span class="mc-heading">Sign-up for RVT articles &amp; info to help you buy or sell an RV</span>
-<input type="text" placeholder="Email Address" name="EMAIL" id="email" class="signup-text">
-<button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn">Subscribe</button>
-<div id="mce-responses" style="float:left; top:-1.4em; padding:0em .5em 0em .5em; overflow:hidden; width:90%; margin:0 5%; clear: both">
-<div class="response" id="mce-error-response" style="display:none; margin:1em 0; padding:1em .5em .5em 0; font-weight:bold; float:left; top:-1.5em; z-index:1; width:80%; background:#FFEEEE; color:#cd0000"></div>
-<div class="response" id="mce-success-response" style="display:none; margin:1em 0; padding:1em .5em .5em 0; font-weight:bold; float:left; top:-1.5em; z-index:1; width:80%; color:#529214"></div>
-</div>
-<a href="#" id="mc_embed_close" class="mc_embed_close" style="display:none">Close</a>
-</form>
-</div>
-
-
-
-
-
-<!-- Banner Ads -->
-    <div style="padding-bottom:115px" class="sidebar-ad"> 
-    <!-- RVT-Margin-Sky -->
-    <div id="div-gpt-ad-1325718503014-25" style="width:160px; height:600px">
-    <script>
-    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1325718503014-25'); });
-    </script>
-    </div>
-  </div>
-  
-  
-  
-  
-</div><!-- side-sidebar -->
-
-<div id="side-content">
-
-<style>
-p,ol,ul {font-size:14px; line-height:21px}
-</style>
-
-<a name="top"></a>
 <h1>RVT Privacy Policy Statement</h1>
 <p class="bold">Last Updated: June 27, 2012</p>
 
@@ -467,11 +549,13 @@ Kelowna, British Columbia<br>
 Canada V1Y 9X5<br>
 </address>
 
-<button class="stdbtn type-bk" value="Go Back" onclick="history.go(-1)"><span>Go Back</span></button>
+<p><button class="waybtn waytype-bk" value="Go Back" onclick="history.go(-1)"><span>Go Back</span></button></p>
 
-</div><!-- /side-content -->
-</div><!-- /main-wrap -or- /full-wrap -->
-</div><!-- /container -or- /full-mark -->
+</div><!-- /content -->
+</div><!-- /wrapper -->
+
+</div><!-- /container -->
+
 
 <div class="footer" itemscope="" itemtype="http://schema.org/WPFooter">
 <div class="footer-wrap">
@@ -493,7 +577,6 @@ Canada V1Y 9X5<br>
   <li><a href="refund.php">Refund policy</a></li>
   <li><a href="advertising.php">Advertising</a></li>
   <li><a href="contactus.php">Contact us</a></li>
-  <li><a href="http://m.rvt.com/">Mobile site</a></li>
   <li></li>
 </ul>
 <ul class="f-social">
@@ -506,54 +589,30 @@ Canada V1Y 9X5<br>
 <p class="copyright">
 Content Copyright © <span itemprop="copyrightYear">1997-2015</span><br>
 <a href="" itemprop="copyrightHolder">RVT.com</a> – All rights reserved.<br>
-<a class="bbb" href="http://www.bbb.org/online/consumer/cks.aspx?id=1091216135452" target="_blank" title="Click to verify BBB accreditation and to see a BBB report"></a>
+<a class="bbb" href="http://www.bbb.org/mbc/business-reviews/internet-selling-services/natco-trading-corporation-in-kelowna-bc-1228771" target="_blank" title="Click to verify BBB accreditation and to see a BBB report"></a>
 <span class="server">W1</span>
 </p>
-<a class="fmca" href="http://www.fmca.com/" target="_blank"></a>
 </div><!-- /footer-wrap -->
 </div><!-- /footer -->
 
 <script src="https://www.rvt.com/functions.js"></script>
 
-<script src="http://natcotrading.us1.list-manage.com/js/jquery.validate.js" defer=""></script>
-<script src="http://natcotrading.us1.list-manage.com/js/jquery.form.js" defer=""></script>
-<script src="http://natcotrading.us1.list-manage.com/subscribe/xs-js?u=9c61b2c6be98c08fb9e1a4e5a&amp;id=658321c64f" defer=""></script>
-
-<!--PINGDOM SERVER MONITORING-->
+<!-- GTM -->
 <script>
-var _prum = [['id', '5400cbd7abe53d757f150c25'],
-             ['mark', 'firstbyte', (new Date()).getTime()]];
-(function() {
-    var s = document.getElementsByTagName('script')[0]
-      , p = document.createElement('script');
-    p.async = 'async';
-    p.src = '//rum-static.pingdom.net/prum.min.js';
-    s.parentNode.insertBefore(p, s);
-})();
+dataLayer = [{
+'pageType':'other'}];
 </script>
 
-<script>
-$(document).ready(function(){
-// go to mobile close & cookie
-  $('#mobile-message').show();
-  $('#mobile-message a.close-it').click(function() {
-    $('#mobile-message').toggle(400);
-    var dateOffset = (24*60*60*1000) * 30;
-    var myDate = new Date();
-    myDate.setTime(myDate.getTime() + dateOffset);
-   document.cookie = 'gotomobile=sawit; expires='+myDate.toGMTString()+' path=/'
-    return false;
-  });
-});
-</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDWWVV" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WDWWVV');</script>
+
+
 
 
 
 <style>
 .wait {display:block}
 </style>
-
- 
 
 
 
