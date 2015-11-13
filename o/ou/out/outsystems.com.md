@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outsystems.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516045728id_/http%3A//www.outsystems.com/legal/terms-of-use/privacy-statement/%237) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outsystems.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113125609id_/http%3A//www.outsystems.com/legal/terms-of-use/privacy-statement/%237) for the most accurate reproduction.*
 
 # Privacy Statement - OutSystems Web Properties Terms of Use
 
