@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarships.net.in privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522094947id_/http%3A//www.scholarships.net.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarships.net.in privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113060101id_/http%3A//www.scholarships.net.in/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy for scholarships.net.in
 
