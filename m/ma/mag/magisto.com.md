@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magisto.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513122531id_/http%3A//www.magisto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magisto.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113031543id_/http%3A//www.magisto.com/privacy) for the most accurate reproduction.*
 
 # Magisto | Privacy
 
@@ -30,7 +30,11 @@ Magisto does not sell, rent, share, or disclose Personal Information to third pa
 
 ### Videos
 
-Summaries and edits of video produced by the Site and the Services will be made available to you via an internet link made available to you, including without limitation by email. You should not reveal this link or send this email to third parties. If you reveal this link or send this email to third parties, such third parties will have full access to such summarized and edited videos as well as any confidential or personal information on such video. As such, you should have no expectation of confidentiality in videos or other material if you have revealed the applicable link to third parties. Magisto also provides you with the choice of labeling your videos as “private” or “public”, with “public” as the default option. If your videos are labeled “public”, you should have no expectation of privacy in such videos. Magisto may post “public” videos to a publicly available feed or otherwise provide such “public” videos to third parties. 
+Summaries and edits of video produced by the Site and the Services will be made available to you via an internet link made available to you, including without limitation by email. If you reveal this link or send this email to third parties, such third parties will have full access to such summarized and edited videos as well as any confidential or personal information on such video. As such, you should have no expectation of confidentiality in videos or other material if you have revealed the applicable link to third parties. 
+
+All videos that you create and save using Magisto will be posted automatically to your timeline and be publicly available and searchable unless you choose otherwise. You may choose otherwise by selecting that a video be saved instead to your private album. If a video is made publicly available, you may later choose to make such video private. Notwithstanding such later choice, however, third parties may nevertheless continue to have access to your video via, for example, previously published links. 
+
+Videos that are publicly available may be posted and made available to the public on Magisto’s application. Magisto may recommend such videos to other end users or categorize such videos according to previously defined topics and interests. If your videos are made publicly available, you should have no expectation of privacy in such videos. If your videos are publicly available, and you include your videos in any Magisto promotion, Magisto may make copies of your videos available to its promotional partners for use in the context of that promotion. 
 
 ### Communities
 
