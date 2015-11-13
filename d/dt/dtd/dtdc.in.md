@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dtdc.in privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623200132id_/http%3A//dtdc.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dtdc.in privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113062602id_/http%3A//dtdc.in/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to DTDC
 
-DTDC COURIER & CARGO LIMTIED (“DTDC”) understands the importance of protecting the privacy of users of the DTDC website [www.dtdc.com](http://www.dtdc.com/). The information collected on the DTDC website is used to market and improve the services of DTDC and its subsidiaries’, to improve the content and services on the DTDC web site and make it easier to use and more appropriate to individual users and to contact its users with updates to the web site or for other marketing purposes. DTDC may use this information, with the users’ permission, for the above purposes. 
+DTDC EXPRESS LIMITED (“DTDC”) understands the importance of protecting the privacy of users of the DTDC website [www.dtdc.com](http://www.dtdc.com/). The information collected on the DTDC website is used to market and improve the services of DTDC and its subsidiaries’, to improve the content and services on the DTDC web site and make it easier to use and more appropriate to individual users and to contact its users with updates to the web site or for other marketing purposes. DTDC may use this information, with the users’ permission, for the above purposes. 
 
 DTDC never shares any information obtained on or from the DTDC website with any other organization, and will not do so in future, unless required by law. DTDC will not sell information obtained through the DTDC website to any party or parties.
 
