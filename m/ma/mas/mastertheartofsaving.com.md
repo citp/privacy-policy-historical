@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mastertheartofsaving.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513021438id_/http%3A//www.mastertheartofsaving.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastertheartofsaving.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113070112id_/http%3A//www.mastertheartofsaving.com/about-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Master the Art of Saving
 
@@ -12,8 +12,8 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 **How we use collected information**  
 Master the Art of Saving collects and uses Users personal information for the following purposes:
 
-  * _\- To administer a content, promotion, survey or other Site feature_ To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _\- To send periodic emails_ The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+  * _– To administer a content, promotion, survey or other Site feature_ To send Users information they agreed to receive about topics we think will be of interest to them.
+  * _– To send periodic emails_ The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
 
