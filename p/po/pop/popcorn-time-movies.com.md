@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popcorn-time-movies.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529002033id_/http%3A//www.popcorn-time-movies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popcorn-time-movies.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113234817id_/http%3A//popcorn-time-movies.com/privacy) for the most accurate reproduction.*
 
 # MTDb - All things Movie and TV
 
