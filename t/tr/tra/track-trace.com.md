@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the track-trace.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617213003id_/http%3A//www.track-trace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the track-trace.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113073627id_/http%3A//www.track-trace.com/privacy) for the most accurate reproduction.*
 
 # Privacy statement - track-trace
 
@@ -25,10 +25,6 @@ This web site contains links to other sites. Please be aware that we are not res
 **Feedback**
 
 If users elects to use our feedback service for informing us of problems with our site or suggest improvements, we ask them for their email address. We will only use this information to respond to the entered topic, and the user will never receive emails from us that are not related to this. The user may choose not to enter their email address, the drawback to this is that we will not be able to respond to the users request.
-
-**Tell A Friend**
-
-If a user elects to use our referral service for informing a friend about our site, we ask them for the users name and the friend's email address. We will automatically send the friend a email inviting her to visit the site. The entered information will be used for the sole purpose of sending this email and the receiver will never receive emails from us that are not related to this.
 
 **Notification of changes**
 
