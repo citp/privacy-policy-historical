@@ -1,102 +1,153 @@
-> *The following text is extracted and transformed from the donorschoose.org privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512130756id_/http%3A//www.donorschoose.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donorschoose.org privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113035807id_/http%3A//www.donorschoose.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy  
-DonorsChoose.org**
+#### Last Updated on August 10, 2015
 
-This document contains the privacy practices for the DonorsChoose.org web site and DC's other web sites (collectively, the "Sites"). These Sites are owned and operated by or on behalf of DonorsChoose.org ("DC"). We at DC take your privacy seriously. The purpose of this Privacy Policy is to inform you about the information that is collected about you on the Sites, how DC may use and disclose the information that is collected, how information can be corrected or changed, and your obligations regarding information about others you may encounter in using the Sites. Please note that this Privacy Policy only governs information gathered from you online through these Sites. 
+At DonorsChoose.org, we are dedicated to protecting the privacy of our users. Our revised Privacy Policy, effective August 10, 2015, aims to clarify how we collect and use your personal information. Here are the highlights and reasons behind some of the important updates we've made:
 
-1\. _How Does DC Collect Information?_
+  * **Privacy Principles:** We developed a new set of principles to share our organization's core values and how we approach privacy at DonorsChoose.org.
+  * **Details specific to user type:** We included a new table to explicitly state how personal information is used, depending on how you access our site.
+  * **Payment information:** Thanks to recent upgrades to our checkout process, our website never processes or stores your credit card number on our servers.
+  * **Children's Privacy:** With the launch of student-led projects, we created a new section to clarify how we collect, use and protect student information shared through the use of our website.
+  * **Think It Up:** We have included a new section that pertains to donors who visit our site via our partner, Think It Up (a program of the Entertainment Industry Foundation), in launching student-led projects.
+  * **Contact us:** You can now reach us directly at privacy@donorschoose.org about our general privacy practices or specific concerns about your personal information.
 
-Our web server automatically recognizes and collects the domain name and IP address of visitors to our Sites. In addition, we collect information volunteered by the visitor to participate in activities on the Sites, such as making a donation, purchasing or redeeming a gift card, funding a project in someone's honor, opening a gift registry of favorite projects, creating or participating in a giving page, responding to surveys, registering to create an account, requesting email newsletters and/or contacting us through one or more of our contact email addresses. DC also collects personal information when you create an account. When you create an account we ask for information such as your name, email address, postal address, and phone number. If a visitor has enabled cookies in their browser, we also will send a cookie file that will only store a unique, random session ID that is maintained throughout the session to track the pages visited, allowing us to provide visitors to our Sites with certain conveniences, such as delivering unique content. We also use cookies to track the path of users through our Sites, and to keep track of where they came from (for example, if they arrive via a search engine). We also collect aggregate tracking information derived mainly from tallying page views throughout our Sites. We also collect aggregate tracking information derived mainly from tallying page views throughout our Sites, and we use Google Analytics Demographics and Interest Reporting to access 3rd-party audience data (such as age, gender and interests) on an aggregate basis. 
 
-2\. _How Does DC Protect Information?_
 
-DC exerts reasonable efforts to protect personal information received from users of our Sites from unauthorized use or disclosure. We do not allow unauthorized access via the Internet to the portion of our server that contains personally identifiable user information. All credit card information provided as requested on the Sites for donations is encrypted using the SSL protocol and we do not retain any end-user credit card information after the processing of the transaction is complete. 
+### About DonorsChoose.org
 
-3\. _How Does DC Use Information?_
+DonorsChoose.org is an online charity that engages the public in public schools by giving people a simple, accountable and personal way to address educational inequity. We envision a nation where children in every community have the tools and experiences needed for an excellent education.
 
-3.1 _General_. DC uses information for the following general purposes: to evaluate proposals to fund student projects, provide information regarding approved proposals to the Sites' visitors and potential donors, to customize the content and/or layout of the Sites for each individual user, to improve the content of our Sites, our services or programs, and to contact you. 
+### Privacy Principles
 
-3.2 _Contacting You_. By creating an account on a Site, you agree to receive emails based on transactional activity, which may include confirmation emails, receipts, acknowledgment messages, updates on proposals you've funded, or updates on teacher feedback. You can also sign up for extra email updates and news ("Extra Email Updates and News") from the Sites. You can unsubscribe from those Extra Email Updates and News at any time by contacting DC or logging into your Site account and adjusting your "Email Preferences" settings or by using the link found on the email message to unsubscribe. 
+Transparency is one of our core values here at DonorsChoose.org. With that in mind, we have developed a privacy policy (this "Privacy Policy") that details how we collect, protect, disclose, and use the information our users provide through their use of the website (www.donorschoose.org), application programming interface (our "API") and other sites owned and operated by DonorsChoose.org. 
 
-Email addresses provided by users of the Sites will only be used to send email from or related to DC and its programs. DC strictly enforces e-mail privacy, and e-mail addresses are not sold, leased or bartered to or with any third parties. 
+Our Privacy Policy is guided by our core values:
 
-Postal addresses collected on-line may be used for various mailings from DC and its affiliates, including the forwarding of student and teacher thank you letters or other correspondence and pictures in appreciation of your donation. Postal addresses are not sold, leased or bartered to or with any third parties. 
+  * **Relentlessness:** We take your privacy seriously and will make our best efforts to protect your personal information.
+  * **User focus:** We will never sell your personal information. As a nonprofit organization, we work for our mission, not a profit.
+  * **Ingenuity:** The information we collect is used to provide the best experience for teachers, donors and ultimately students, and to find new ways that help us provide you with a delightful experience.
+  * **Flexibility:** We make sure to give you access to and control over your information, providing options that best meet your needs.
+  * **Transparency:** We service several types of users, so we strive to create a policy that is appropriate and understandable for each customer. If you have any questions about our policy, don't hesitate to contact us at privacy@donorschoose.org.
+  * **Teamwork:** Our website is intended for users over the age of 18, but because we serve PreK-12 classrooms, we team up with teachers to help them ensure that their students' personal information is protected. 
 
-3.3 _Donations, Registries and Other Services_. By voluntarily providing us with your name, credit card information, e-mail address, postal address, telephone number, billing address, and any other personally identifiable information, you consent to our use of such information for the purpose(s) for which it was collected, such as processing your donations, issuing or redeeming gift cards, opening a gift registry, funding a project in someone's honor, and/or for providing any other service or product you request. 
 
-3.4 _Aggregate Data_. DC may collect information about the use of the Sites, such as the types of services used and how many users we receive daily. This information is collected in aggregate form, without identifying any user individually. DC may use this aggregate, non-identifying statistical data for statistical analysis, marketing or similar promotional purposes. This may include disclosure of this information to a third party market analysis firm. 
 
-4\. _How Does DC Disclose Information?_
+### Collection and Use of Your Information
 
-We do not sell, trade, or rent your personal information to others without your express consent. We disclose your personal information only to process your credit card donations, or in the following circumstances: 
+**Information we collect directly from you:** We ask for different personal information depending on how you interact with our website. We currently identify our users as either of the two categories:
 
-4.1 _Governmental Order_. DC may provide your personal information if necessary, in DC's good faith judgment, to comply with laws or regulations of a governmental or regulatory body or in response to a valid subpoena, warrant or order or to protect the rights of DC or others. 
+  * **Donors:** Users over 18 years of age (according to our Terms of Use) who have made a donation to a project, purchased a gift card or account credits, redeemed a gift card or set up an account as a non-teacher user.
+  * **Teachers:** Full-time PreK-12 public school teachers who have set up a teacher account to post projects on our website. All teacher accounts are created with a corresponding donor account.
 
-4.2 _Business Transition_. If DC goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, we reserve the right to transfer your personal information, which will likely be among the assets transferred. 
 
-4.3 _Contractors and Other Third Party Service Providers_. DC may employ contractors or other third parties. These contractors or other third parties may have access to your personal information if necessary to perform services for us; however, they may only use such personal information for the purpose of performing that function and may not use it for any other purpose. 
 
-4.4 _Gift Registry or Honoree Donation_. When a visitor to a Site creates a Giving Page or makes a specially designated donation in honor of a named person or family (for example, contributing funds to honor someone's birthday, wedding, anniversary or other special event), the person or family's name will be displayed to various users of the Sites; however, no other personal information about the named person will be disclosed on the Sites. By providing such named person's first and last name, you represent to DC that you have permission to provide and grant DC the right to disclose such information. 
+Listed below are the ways we use the information provided by each user type:
 
-4.5 _Gift Cards_. The name, donation amount, and redemption code of donors who redeem gift cards issued by DC's corporate partners will be shared with the company that issued the donor the gift card. DC is not responsible for the privacy practices of those companies. For more information regarding the handling of your information by those companies, please refer to the privacy policies of those companies. For more information regarding redemption of gift cards, you can contact us at [www.donorschoose.org/contact](http://www.donorschoose.org/contact). 
+### Donors
 
-4.6 _Giving Page_. When a visitor to a Site contributes funds to a Giving Page in support of a named person or special campaign (for example, contributing funds in support of someone's birthday, wedding, anniversary, 10K run, mustache growing, blog, event, etc), the donor's full name and donation amount will be shared with the creator of that Giving Page. 
+Information you provide | How this information is used  
+---|---  
+Full name & email address | _Required._ We use this information to correspond with you regarding transactional activity, which may include confirmation emails, receipts, acknowledgment messages, and updates on projects you have funded. We will also send you recommendations for projects to support according to your indicated interests, from which you can unsubscribe through your account.   
+Payment information | We use the payment information you entered (including billing zip code) in order to process the transaction you authorized, which may be a donation to a project or giving page, purchase of a gift card or account credits, or a monthly donation you previously authorized. You may also choose to save your credit card for future use.
 
-4.7 _Matching Contributions_. We may disclose your contact information (name, postal address, email address and telephone number) and donation information (donation amount and supported projects) to your employer if you have notified us that your employer will match your donation for the purposes of enabling your employer to make a matching donation. DC is not responsible for the privacy practices of your employer. For more information regarding the handling of your information by your employer, please refer to your employer's privacy policies. 
+All credit card information is tokenized, including for those users that choose to save their payment information for future use, so your credit card number is never processed or stored on our servers.  
+  
+Mailing address | _Optional._ For donations over $50, you can opt in to receive thank-you notes from the classroom you supported. We will never sell or give away your mailing address to third parties, share it with the teacher you support or solicit donations using your mailing address.  
+Birthday | _Optional._ We'll wish you a happy birthday :)  
+  
+### Teachers
 
-4.8 _SAS_. The contact information (name, postal address, email address and telephone number) and donation information (donation amount and supported projects) of SAS employees who enter the Sites by way of DC's special SAS page at [www.donorschoose.org/sas](http://www.donorschoose.org/sas) and make a donation to DC will be shared with SAS for the purpose of enabling SAS to make a matching donation. DC is not responsible for the privacy practices of SAS. For more information regarding the handling of your information by SAS, please refer to SAS' privacy policies. For more information regarding donations by SAS employees, you can send us an email at sas@donorschoose.org. 
+Information you provide | How this information is used  
+---|---  
+Full name & email address | _Required._ We use this information to correspond with you regarding your project(s) and use of our website, deliver a monthly teacher newsletter and contact you about special funding opportunities. We need your full name to make sure we can address any material deliveries to the correct teacher.   
+Phone number | _Required._ When we are not able to reach you by email, we will use your phone number to contact you about actions required for your project, or funding opportunities in your area.   
+School name & grade level | _Required._ We use this to identify the classroom that will benefit from your projects on our website and API.   
+Professional/campaign affiliations | _Optional._ We will display professional affiliations on the public project page. This information is used to opt teachers into specific funding opportunities.  
+Birthday | _Optional._ We'll wish you a happy birthday :)  
+  
+### Information that we automatically collect during your visit to our website
 
-4.9 _Third Party Websites_. DC is not responsible for the contents, services or the privacy polices or practices of websites to which we may provide hyperlinks from these Sites, or of the websites of its affiliates, sponsors or corporate partners. 
+Our web server automatically recognizes and collects the domain name and IP address of visitors to our website, and we use cookies to track the pages you've visited on our website. This allows us to provide visitors to our website with certain conveniences, such as delivering projects specific to your location, or pre-populate user information during checkout. We also use cookies to track the path of users through our website, and to keep track of how they arrived at our website (for example, via a search engine). We also collect aggregate tracking information derived mainly from tallying page views throughout our website, and we use Google Analytics Demographics and Interest Reporting to access third-party audience data such as age, gender and interests on an aggregate basis.
 
-5\. _A Note to Parents_
+### How we protect your information
 
-Use of the Sites by children (defined as persons under the age of 18) (permitted under the [User Agreement](http://www.donorschoose.org/user-agreement) with parental consent and supervision) does not require disclosure of any personal information about the child. DC does not wish or intend for any child to provide personally identifiable data to DC through use of the Sites. 
+Your privacy is important to us, and we use technical safeguards designed to preserve the security of your personal information and protect it from unauthorized use or disclosure. We understand, however that no system is perfect, and we cannot ensure or warrant the security of any or all of the personal Information you transmit through our website. 
 
-6\. _Teachers._
+DonorsChoose.org employees, volunteers, interns and contractors ("agents") must have a legitimate business reason (i.e., related directly to furthering our mission) to access personal information you provide. Following the industry's best practices, agents must log in using two-factor authentication and we take steps to limit the amount of access to the minimum level needed to achieve each agent's purpose.
 
-The following additional terms apply to those users who sign up for a teacher account and/or are approved by DC to post a teacher funding proposal on a Site: 
+### How we share, publish and transfer your information
 
-6.1 _General Rule_. DC will only disclose a teacher's first name, email address, personal phone number, or personal address in select instances outlined below. DC, however, will liberally disclose a teacher's title (Mr, Ms, etc), last name, school address, proposal information, and feedback compiled for funded projects. Recipients of such information include school officials, teacher colleagues, Site visitors, donors, third party contractors, and other teachers. 
+We do not sell, trade, or share your personal information to or with others without your explicit consent. We indicate in your account profile which portion of the information you provide will be made public, and offer options for you to control how much information is disclosed.
 
-6.2 _Verification Of Affiliation_. The contact information (name, postal address, email address and telephone number) of teachers who have indicated an affiliation with a teacher organization (e.g., RISE Network, Barksdale Reading Institute, Teach For America, New York Teaching Fellow) may be shared with the associated organization for purposes of verification that the teacher belongs to the organization (See Section 4 above). However, our agreements with the affiliated organizations only permit them to use such personal information for the purpose of performing that function and prohibits them from using it for any other purpose. The name and postal address of teachers who have indicated an affiliation with a teacher organization may also be provided to teachers who have indicated the same affiliation-so as to enable authentication of a teacher's affiliation. 
+We have outlined the ways in which we may share your information below. In cases where we share your information with third parties (for example, an employer or website analytics service provider), our Privacy Policy does not govern the privacy practices of such third parties and we ask that you refer to their respective privacy policies for details on their use of your information. 
 
-6.3 _Student Projects_. DC will provide visitors to the Sites and potential donors with information regarding student projects available for funding. For project shipping and fulfillment purposes we will provide teacher name and school address information to our electronic procurement partner vendors, and other vendors and services providers selected by teachers (e.g., a local science museum for a field trip). DC is not responsible for the privacy practices of these companies. For more information regarding the handling of your information by these companies, please refer to the privacy policies of these companies. 
+### Donors:
 
-6.4 _School Officials and Teacher Colleagues_. DC may provide information about a teacher (including but not restricted to name, postal address, and proposal information), project and materials supplied to a teacher in connection with a project to principals, teacher colleagues at your school, superintendents, or other employees of local, state, or federal school systems. 
+When required by law: We may share your personal information, if deemed necessary, in our good faith judgment, to comply with laws or regulations of a governmental or regulatory body or in response to a valid subpoena, warrant or order or to protect the rights of our organization or others.
 
-6.5 _Donors_. DC may provide donors and Site visitors with information about a teacher, namely the teacher's title, first and last name, and proposals submitted by him/her. 
+**Donations to a project or teacher page:** We will display your salutation and any user-generated comments publicly on the project page, available on the website and through our API. The teacher you supported will also see your preferred salutation and donation amount in his/her account.
 
-7\. _Your Right to Access and Amend Your Personal Information_
+**Gift cards sponsored by corporate partners:** When you use a DonorsChoose.org gift card that was funded by a corporate partner, we may share your name, email address and gift code with the corporate partner that issued the gift card. Our Privacy Policy does not govern the practices of our corporate partners; please refer to the privacy policies of respective corporate partners when using a company-issued gift card.
 
-You have the right to request access to the personal information that we record about you. Your right includes the right to view such information and copy it in person, or request that a copy of it be sent to you by mail (for which we may charge you a reasonable fee to cover our costs). Your right also includes the right to request corrections, amendments or deletions of any personal information that is in our possession. The procedures that you must follow to request access to or an amendment to your personal information are as follows: 
+**Giving pages:** When you make a donation through a Giving Page, in support of a named person or special campaign (for example, contributing funds in support of someone's birthday, wedding, anniversary, 10K run, mustache growing, blog, or any other event), your full name and donation amount will be shared with the creator of that Giving Page.
 
-Submit a request in writing to: 
+**Donations matched by a promo code or match offer:** When you support a project that has a match offer (for example, a "Double-Your-Impact" or "Almost Home") or when using a promo code sponsored by a corporate partner, we may share your salutation and donation amount with the corporate partner.
+
+**Employee matching:** We may disclose your contact information (name, postal address, email address and telephone number) and donation information (donation amount and supported projects) to your employer if you have notified us that your employer will match your donation. We are not responsible for the privacy practices of your employer. For more information regarding the handling of your information by your employer, please refer to your employer's privacy policies.
+
+**Think It Up:** If you access our website through ThinkItUp.org and place a donation in support of a Student-led Project, we will share your full name and email address with the Entertainment Industry Foundation (the "EIF"). Our Privacy Policy does not govern the practices of the EIF; please refer to EIF's policy for details on how your information may be used by them.
+
+### Teachers:
+
+When required by law: We may share your personal information, if deemed necessary, in our good faith judgment, to comply with laws or regulations of a governmental or regulatory body or in response to a valid subpoena, warrant or order or to protect the rights of our organization or others.
+
+**Donors and site visitors:** We will display your title (for example, Ms. and Mr.), last name, school information, professional affiliations, teaching details, and information about your projects (including essays and Thank-you package components) publicly on the site, through our API and in emails sent to donors.
+
+**Verification of affiliation and eligibility:** If you indicate in your account profile that you are a part of any professional affiliations (for example, Teach for America, NEA or New York Teaching Fellow), we may share your full name, email address and phone number with the partner organization or another member of the organization in order to verify your affiliation. These partners are only authorized to use this information for the purpose of verification.
+
+Similarly, we may share your full name, email address and project information with your school administrators or colleagues to confirm that you are eligible to use DonorsChoose.org or take part in certain funding opportunities.
+
+**School officials and colleagues:** When we purchase materials for a fully funded project, we send a fax to your school and an email to your principal and selection of your colleagues who are also teacher users of DonorsChoose.org, sharing your name and a list of funded materials. We may also share project and user information when requested by principals, superintendents, or other employees of local, state, or federal school systems.
+
+**Purchase & fulfillment of projects:**In order to facilitate a seamless fulfillment experience, we'll share your full name, school address and email address with the vendor or service provider you selected when creating your project. Vendors may only use this information to contact you about issues encountered during fulfillment (for example, replacing out-of-stock items, backorder estimates, etc.) or opportunities exclusive to DonorsChoose.org teachers. Vendors or service providers outside of our partner companies (for example, a local museum or special request vendor) do not have a formal relationship with DonorsChoose.org and thus may use your information as outlined in their company's privacy policies.
+
+**Funding opportunities:** If you receive funding through a partner funding opportunity, such as a match offer or full project funding, we may share your full name, school information and project details with the partner company.
+
+### Anonymized data sharing
+
+We publish insights gained through user activity on our website (and welcome the public to do the same) in the reports available at data.donorschoose.org. However, we will never publicly disclose your personal information in these reports.
+
+### How We Protect Children's Privacy
+
+As an organization that serves students in public school classrooms, we take safety and privacy of children seriously. Our website is not meant to be used by children under the age of 18, unless with explicit parental consent as detailed in our User Agreement.
+
+We do not knowingly collect or solicit information from anyone under the age of 13. In the event that we learn that we have collected personal information from a child under the age of 13 without parental consent, we will delete that information as soon as practicable from our server. If you believe that we might have any information collected from a child under the age of 13, please contact us at privacy(at)donorschoose(dot)org.
+
+Here are the ways in which we work with classroom teachers to ensure the protection of student information:
+
+  * Teacher account photos are vetted by our project screeners to ensure there are no close-up photos of students or personally identifiable information in their photos. Photos of students are optional and require permission from a parent or guardian before being submitted for use on our site.
+  * When constructing Thank-You packages, teachers are given photo safety guidelines, which prohibit personally identifiable information and close-up photos of students.
+  * Any personally identifiable information included in thank-you notes from students (for example, full name, email address or phone number) is removed by our team before being sent to donors.
+  * Teachers who create a Student-led Project are required to ensure that all students taking part in the project are over the age of 13. These students may share their first name and contact information, the latter only for internal use by DonorsChoose.org.
+
+
+
+### How You Can Access and Adjust Your Information
+
+You may correct your account information at any time by logging into your online account. You have the right to request access to the personal information that we record about you. You also have the right to request corrections, amendments and deletions of any of your personal informations in our possession. To make these changes or cancel your account, please email us at privacy
+
+### Updates to Our Privacy Policy
+
+DonorsChoose.org may modify this Privacy Policy from time to time. When changes are made, DonorsChoose.org will indicate the modification change date in the "last updated" date at the top of the page. If we make any material changes to the policy, we will notify you in an email (sent to the email specified in your account profile) or in a notification on our website. We encourage you to periodically review this Privacy Policy to be informed of how DonorsChoose.org is protecting your information. Your continued use of our website after a modification of our Privacy Policy indicates your consent to such modification.
+
+### How to contact DonorsChoose.org
+
+We are always happy to hear from you with your questions or comments! For additional information, or if you have any questions regarding this Privacy Policy or our privacy practices in general, please send your questions or comments to us at privacy@donorschoose.org. You can also send questions or comments to the address below.
 
 DonorsChoose.org   
-Attn: Financial Operations   
+Attn: Integrity Assurance   
 134 West 37th Street  
 11th Floor  
 New York, NY 10018 
-
-The request should include your name, address, social security number, telephone number, and the recorded information to which you would like access or the specific information in dispute and the identity of the document or record that contains the disputed information. The request should state whether you would like access in person or a copy of the information sent to you by mail. Upon receipt of your request, we will contact you within thirty (30) business days to arrange providing you access in person or the copies that you have requested or to notify you either that we have made the correction, amendment or deletion or that we refuse to do so and the reasons for the refusal, which you will have an opportunity to challenge. 
-
-8\. _Contact DC_
-
-If you have any questions about our Privacy Policy or practices, you may contact us at [www.donorschoose.org/contact](http://www.donorschoose.org/contact) or at: 
-
-DonorsChoose.org   
-Attn: Financial Operations   
-134 West 37th Street  
-11th Floor  
-New York, NY 10018 
-
-We are always glad to hear your questions or comments. 
-
-9\. _Changes to this Privacy Policy_
-
-This Privacy Policy may be changed or updated by us from time to time by posting such changes on the Sites. When we post changes to this Privacy Policy, we will revise the "last updated" date at the bottom of this Privacy Policy. We encourage you to periodically review this Privacy Policy to be informed of how DC is protecting your information. 
-
-This Privacy Policy was last updated on 11/30/2010. 
