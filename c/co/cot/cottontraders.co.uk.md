@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cottontraders.co.uk privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609230742id_/http%3A//www.cottontraders.com/privacy-and-cookies/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cottontraders.co.uk privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113135828id_/http%3A//www.cottontraders.com/uk/privacy-and-cookies/page/privacy) for the most accurate reproduction.*
 
-# Privacy Policy at Cotton Traders
+# Privacy Policy
 
 Click the tabs below to view all relevant information about our privacy policy and the use of cookies on the Cotton Traders web site.
 
@@ -24,4 +24,4 @@ All data provided to the Cotton Traders web site is treated with the utmost sens
 
 For more details, please read our 
 
-[_Security Statement._](http://www.cottontraders.com/security-statement/page/security)
+[_Security Statement._](http://www.cottontraders.com/uk/security-statement/page/security)
