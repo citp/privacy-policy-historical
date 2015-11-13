@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewareppc.com privacy policy that was archived on 2015-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150213041741id_/http%3A//www.freewareppc.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewareppc.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113141201id_/http%3A//www.freewareppc.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement on FreewarePPC >> Your source for free Windows Phone Apps / Games
 
