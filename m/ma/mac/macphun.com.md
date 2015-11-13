@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macphun.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613011041id_/http%3A//macphun.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macphun.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113032341id_/http%3A//macphun.com/policy) for the most accurate reproduction.*
 
 # Macphun Privacy Policy
 
@@ -42,7 +42,7 @@ Our site may contain links that belong to third parties. Any third party website
 
 To whom we disclose personal data
 
-We keep customer personal data and information private and confidential, and we will not disclose this it to other individuals or organizations unless required by law. We will not distribute your data to be used in mailing lists or for any other purpose other than what is stated in the &quot;Use of your information&quot; section.
+We keep customer personal data and information private and confidential, and we will not disclose this it to other individuals or organizations unless required by law. We will not distribute your data to be used in mailing lists or for any other purpose other than what is stated in the "Use of your information" section.
 
 We may disclose Personal Data so far as reasonably necessary: To third parties including our hosting company. When we are required to do so by applicable laws, statutes, regulations, standards or codes of conduct.
 
