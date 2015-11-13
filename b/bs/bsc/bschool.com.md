@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bschool.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610031019id_/http%3A//www.bschool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bschool.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113145801id_/http%3A//www.bschool.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BSchool.com Business Schools Directory
 
