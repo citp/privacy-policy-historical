@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dexport.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511102539id_/http%3A//help.netrinomedia.com/item/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dexport.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113081823id_/http%3A//help.netrinomedia.com/item/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - NetrinoMedia Marketplace's Help CenterNetrinoMedia Marketplace's Help Center
 
@@ -27,4 +27,4 @@ Thank you.
 
 ### Rate This Article
 
-(11 out of 20 people found this article helpful) 
+(48 out of 70 people found this article helpful) 
