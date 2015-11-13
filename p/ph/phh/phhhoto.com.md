@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the phhhoto.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503182853id_/http%3A//phhhoto.com/app/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phhhoto.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113063933id_/http%3A//phhhoto.com/app/privacy) for the most accurate reproduction.*
 
 # PHHHOTO® LEGAL
 
-Last modified March 24, 2015
+Last modified June 22, 2015
 
 PHHHOTO INC. ("PHHHOTO", "we", "us", or "our") takes the private nature of your personal information very seriously. This policy regarding our privacy practices (the "Privacy Policy") describes how we treat the information we collect when you visit and use the website available at phhhoto.com (the "Site") or the PHHHOTO mobile app (the “App” and together with the Site, the “Services”), each as provided by PHHHOTO. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Please read it carefully.
 
@@ -28,43 +28,47 @@ You can link your Account to certain Third Party Services, such as Facebook. In 
 
 In some cases, when you connect your Account with your accounts on Third Party Services, we may obtain information about you from those Third Party Services. Such information could include, for example, your gender, if you have disclosed that information to that third party and made it available for PHHHOTO to access. To the extent we obtain such information, we may use the information about you that we receive from Third Party Services to improve and personalize the Services. As a general practice, we strongly urge you to make careful judgments about any personal information you disclose to Internet services, including PHHHOTO and linked Third Party Services, regardless of whether you choose to link your accounts together. 
 
-### e. User Content
+### e. Social Invites
+
+The Services include a feature through which you are able to send invitations to the Services to your friends. These invitations can be sent by SMS message. When a user uses this function, they will provide mobile numbers of friends and contacts to PHHHOTO. PHHHOTO will use this information only to send the social invites.
+
+### f. User Content
 
 By default, all sharing through the Services is public, and when you provide us with content it is published so that other members can view it. Once content is published, it can be shared publicly and made accessible to everyone (including search engines and users who have not registered for an Account or who are not logged into their Account) and you may lose any privacy rights you might have regarding that content. If you would like to remove any content that you post or publish through the Services, you can do so at any time through your Account. While you are free to remove published pieces of content from your Account, copies of your content may exist elsewhere and be retained indefinitely, including in our systems. 
 
-### f. Information About User Content
+### g. Information About User Content
 
 In some cases, we may collect information about content you provide to the Services. For example, when it's included with your images, we may collect information describing your camera and camera settings. This information allows us to improve the Services and provide additional features and functionality. 
 
-### g. Financial Information
+### h. Financial Information
 
 We may sometimes collect financial information, such as information related to your payment method (valid credit card number, type, expiration date or other financial information), for example when you decide to make a purchase through the App. 
 
-### h. Information Related to Use of the Services
+### i. Information Related to Use of the Services
 
 We collect information about how people use the Services, including those with an Account. This information includes general usage information, and may include information such as the number and frequency of our visitors, which pages or features of the Services they have visited, which links on the Services they have clicked on, and the length of those visits. We may also use third party applications and services to collect and analyze this information. This information enables us and third parties authorized by us to figure out how often individuals use the Services so that we can analyze and improve them. Some of this information may be associated with your Account, your IP address or device ID, or other personally identifiable information. We may also use some of this information in aggregate form – that is, as a statistical measure related to all of our users that would not reasonably be expected to identify you personally. We use information about your use of the Services to improve and enhance your experience on the Services. 
 
-### i. Information Related to Your Web Browser
+### j. Information Related to Your Web Browser
 
 We automatically receive and record information from your web browser, phone or other devices when you interact with the Services, such as your browser type and version, what sort of device you are using, your operating system and version, your language preference, the website or service that referred you to the Services, the date and time of each web request you make, your screen display information, and information from any cookies we have placed on your web browser (as described below). We also sometimes detect whether you are using certain web browser extensions and store that information in a manner associated with your Account. Web browser-related information is used to enhance your experience with the Services (for example, by personalization) and to allow us to improve the Services.
 
 Our Services use Google Analytics, a web analytics service provided by Google Inc. ("Google"). Google Analytics uses cookies to help us analyze how users use our Services. The information generated by the cookie about your use of the website (including your IP address or device ID) may be transmitted to and stored by Google on servers located outside your location. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. You may refuse the use of cookies by selecting the appropriate settings on your browser; as noted above, however, this may interfere with your ability to use the Services. For more information about how to opt out of having your information used by Google Analytics, visit <https://tools.google.com/dlpage/gaoptout/>.
 
-While your browser may also allow you to send a “do not track” signal when you visit our Site, we do not modify our practices in response to this signal. We will continue to comply with this Privacy Policy in any event. You can learn more about online tracking and options for opting out at [www.networkadvertising.org](https://web.archive.org/web/20150503182853id_/http%3A//phhhoto.com/app/www.networkadvertising.org) or [www.aboutads.info/choices/](https://web.archive.org/web/20150503182853id_/http%3A//phhhoto.com/app/www.aboutads.info/choices/).
+While your browser may also allow you to send a “do not track” signal when you visit our Site, we do not modify our practices in response to this signal. We will continue to comply with this Privacy Policy in any event. You can learn more about online tracking and options for opting out at [www.networkadvertising.org](https://web.archive.org/web/20151113063933id_/http%3A//phhhoto.com/app/www.networkadvertising.org) or [www.aboutads.info/choices/](https://web.archive.org/web/20151113063933id_/http%3A//phhhoto.com/app/www.aboutads.info/choices/).
 
-### j. IP Address and Device ID Information
+### k. IP Address and Device ID Information
 
 Under certain circumstances, we may collect and store your IP address or your device ID. We generally use IP address and device ID information to personalize the Services for you and to learn more about how you use the Services and other websites in order to improve our website. IP address and device ID information is also used by us to generate aggregate, non-identifying, information about use of the Services. 
 
-### k. Location Information
+### l. Location Information
 
 We collect and store information about where you are located. We may use location information to improve and personalize the Services for you. 
 
-### l. Information Collected Using Cookies
+### m. Information Collected Using Cookies
 
 Cookies are pieces of text that may be sent to and saved by your web browser when you access a website; your web browser stores these cookies in a way associated with each website you visit, and you can see your cookies through your browser settings. We use cookies to enable our servers to recognize your web browser and tell us how and when you use the Services and other websites. Our cookies do not, by themselves, contain information that personally identifies you, and we don't combine the general information collected through cookies with other such information to tell us who you are. However, we do use cookies to identify that you have logged in and that your web browser has accessed aspects of the Services, and we may associate that information with your Account if you have one. This information, in turn, is sometimes used to personalize your experiences on the Services. Most web browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your web browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. If you disable cookies, you won't be able to log into your Account or use or access some of the other features of our Services; as such, we don't recommend disabling your cookies when using the Services. Some third-party services that we use may also place their own cookies on your browser. Note that this Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties. 
 
-### m. Derived Information
+### n. Derived Information
 
 We analyze your actions on the Services in order to derive or infer characteristics that may be descriptive of you, such as other users who may be friends of yours. These characteristics are used to improve and personalize the Services for you. 
 
