@@ -1,39 +1,34 @@
-> *The following text is extracted and transformed from the transitionsabroad.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041657id_/http%3A//www.transitionsabroad.com/information/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transitionsabroad.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113143528id_/http%3A//www.transitionsabroad.com/information/privacy.shtml) for the most accurate reproduction.*
 
 # www.TransitionsAbroad.com Privacy Policy
 
-Transitions Abroad Publishing, Inc. 
-
 Privacy Policy Statement 
 
-This statement discloses the privacy practices for website maintained by **Transitions Abroad Publishing** , **Inc**., named www.TransitionsAbroad.com. For further information please contact us at [webmaster@TransitionsAbroad.com](mailto:webmaster@TransitionsAbroad.com). 
+This statement discloses the privacy practices for website maintained by **Transitions Abroad Publishing** , **Inc**., named TransitionsAbroad.com. Since Internet technologies and standards are changing rapidly, these guidelines are subject to change. Changes will be posted to this page as they occur. For further information please contact us at [webmaster@TransitionsAbroad.com](mailto:webmaster@TransitionsAbroad.com). 
 
-Since Internet technologies and standards are changing rapidly, these guidelines are subject to change. Changes will be posted to this page as they occur. 
+The privacy of our visitors to TransitionsAbroad.com is important to us. We do not send out, for example, newsletters to those who have not signed up for the service with us, nor do we pass on any personally identifiable information to any other vendors or organizations.
 
-The privacy of our visitors to www.TransitionsAbroad.com is important to us. We do not send out out, for example, newsletters to those who have not signed up for the service with us, nor do we pass such information on to others.
+The following is information about the types of information received and collected when you visit TransitionsAbroad.com. 
 
-At www.TransitionsAbroad.com we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit www.TransitionsAbroad.com, and how we safeguard your information. We never sell your personal information to third parties.
+**Google Analytics**
 
-Log Files
-
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+Like many websites, we use automated programs, including Google Analytics. Such programs use cookies to collect and analyze data. The data collected includes IP addresses, ISPs, types of browser, referring and exit pages, broad geographical user locations, and the quantity of user clicks. User movements within the site are tracked by IP addresses in order to determine pages that are being visited, including factors such as the duration of visits. IP addresses are not linked to information that can identify any individual. All data is gathered for statistical purposes. You can opt out of Google Analytics by [following this link](https://tools.google.com/dlpage/gaoptout/).
 
 **Cookies and Web Beacons**
 
-www,TransitionsAbroad.com uses cookies to store information , but no personally identifiable information when you visit our site. 
+While the TransitionsAbroad.com website does not currently collect cookies for its own usage, affiliates on TransitionsAbroad.com, including Google Adsense, do make use of cookies.
 
-We do use third party advertisements on www.TransitionsAbroad.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing work abroad opportunities outside the U.S. to someone living in the U.S., for example) or showing certain ads based on specific sites visited (such as showing travel ads to someone who frequents travel sites).
+A cookie is a small piece of text data that is transmitted from a website and then stored in a web browser while the user is in the process of browsing. Whenever a user loads a website that transmits cookies, the user's browser will return the cookie to the server hosting the website in order to allow it to know about the user's actions.
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in security programs such as your security software. Turning off cookies, however, can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as forums or other accounts. Deleting cookies also does not mean you are permanently opted out of any advertising program. Unless you have changed your browser settings to permanently disallow cookies, the next time you visit a site running advertisements, a new cookie will be generated.
 
-Deleting cookies also does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+**Google Adsense**
 
-  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
-  * Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/).
-  * You may also opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).
-  * Vist the [Google Privacy Policy](http://www.google.com/policies/privacy/) page for more information.
-
+  * Third party vendors, including Google, use cookies to serve ads based on a user's visits prior to visiting the TransitionsAbroad.com website.
+  * Google's use of the DoubleClick cookie enables it and its partners to serve ads based on their visit to this site and/or other sites on the Internet.
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).
+  * Visit the [Google Privacy Policy](http://www.google.com/policies/privacy/) page for more information.
 
 
-The cookies of other [third-party vendors or ad networks](http://support.google.com/dfp_sb/bin/answer.py?hl=en&answer=94149) may also be used to serve ads on our site. You may visit third-party vendors or ad networks to opt out of the use of cookies for interest-based advertising (if the vendor or ad network offers this capability). Alternatively, you can opt out of some third-party vendor's use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/).
+
+The cookies of other [third-party vendors or ad networks](https://support.google.com/3pascertification/table/4572577) may also be used to serve ads on our site. You may visit third-party vendors or ad networks to opt out of the use of cookies for interest-based advertising (if the vendor or ad network offers this capability). Alternatively, you can opt out of some third-party vendor's use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/).
