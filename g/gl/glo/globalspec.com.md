@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globalspec.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001359id_/http%3A//www.globalspec.com/Help/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalspec.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113172006id_/http%3A//www.globalspec.com/Help/Privacy) for the most accurate reproduction.*
 
-# GlobalSpec - Privacy Policy
+# Privacy Policy | IHS Engineering360
 
 ### Introduction
 
@@ -26,11 +26,11 @@ In addition, the sites you are viewing may be co-branded, meaning that the sites
 
 ### What Information Do We Collect?
 
-**Profile Information:** Our primary goal in collecting profile information (which may include your name and the following business - and not home or personal - information: title, address, phone number, fax number and email address) is to provide you with the best and most useful content and services, and to offer you opportunities to obtain other products and services from us and our partners, advertisers and participating suppliers. 
+**Profile Information:** Our primary goal in collecting profile information (which may include your name and/or the following business - and not home or personal - information: title, address, phone number, fax number and email address) is to provide you with the best and most useful content and services, and to offer you opportunities to obtain other products and services from us and our partners, advertisers and participating suppliers. 
 
-We collect profile information when you provide it to us through the following: when you register on our site, subscribe to an (email) e-Newsletter or Product Alert, register for one of our events, or register to use certain services (like webcasts and white papers) or through surveys. Several of the products and services that we offer on our sites may require registration as a condition of use. 
+We collect profile information when you provide it to us through the following: when you register on our site, subscribe to an (email) e-Newsletter or Product Alert, register for one of our events/webinars, or register to use certain services (like webcasts and white papers) or through surveys. Several of the products and services that we offer on our sites may require registration as a condition of use. 
 
-**Cookies:** When you view the GlobalSpec web site, a small file called a cookie is placed on your hard drive. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (However, by not accepting cookies, some of our web pages may not display properly or you may not be permitted to access certain information.) If you register with GlobalSpec by providing your name, email address and other contact details, GlobalSpec will use cookies to authenticate your identity when you visit the site and to personalize your user experience, such as by displaying your username when you log on. In all cases, GlobalSpec uses cookies to obtain anonymous information such as the number of visits to the site that a certain user has made, the movement of the user through the site, and the searches that the user conducts on the site. 
+**Cookies:** When you view the GlobalSpec web site, a small file called a cookie is placed on your hard drive. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (However, by not accepting cookies, some of our web pages may not display properly or you may not be permitted to access certain information.) If you register with GlobalSpec by providing your name, email address and/or other contact details, GlobalSpec will use cookies to authenticate your identity when you visit the site and to personalize your user experience, such as by displaying your username when you log on. In all cases, GlobalSpec uses cookies to obtain anonymous information such as the number of visits to the site that a certain user has made, the movement of the user through the site, and the searches that the user conducts on the site. 
 
 You can find out more about "cookies" on our [cookies reference page](https://web.archive.org/help/Cookies). 
 
@@ -119,4 +119,4 @@ GlobalSpec will investigate your complaint and respond to you promptly.
 
 ###  GlobalSpec Events Giveaways: 
 
-Additional Giveaway Rules and Disclaimers apply for registrants attending GlobalSpec Events. See [Prize Rules](https://web.archive.org/web/20150315001359id_/http%3A//www.globalspec.com/Help/Privacy?type=prize). 
+Additional Giveaway Rules and Disclaimers apply for registrants attending GlobalSpec Events. See [Prize Rules](https://web.archive.org/web/20151113172006id_/http%3A//www.globalspec.com/Help/Privacy?type=prize). 
