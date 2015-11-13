@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the observepoint.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514210323id_/http%3A//www.observepoint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the observepoint.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113235215id_/http%3A//www.observepoint.com/privacy-policy) for the most accurate reproduction.*
 
 # Data Assurance | Tag Audit Company | ObservePoint Privacy Policy : ObservePoint
 
