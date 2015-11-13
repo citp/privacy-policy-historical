@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the campsaver.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319170806id_/http%3A//www.campsaver.com/service/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campsaver.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114001106id_/https%3A//www.campsaver.com/service/privacy-security) for the most accurate reproduction.*
 
-# Privacy & Security :: CampSaver.com
-
-
-
+# Privacy & Security
 
 ## Privacy Statement
 
@@ -54,8 +51,8 @@ We do not sell, rent, lease or give your email to any third-party organizations.
 
 
 
-If you have opted to receive promotional email from Camp Saver LLC and later decide to opt out of our email list you may do so. We will then remove your email from our database.
+If you have opted to receive promotional email from Camp Saver LLC and later decide to opt out of our email list you may do so by [clicking here](https://web.archive.org/newsletter-unsubscribe/) or click the Unsubscribe link found at the bottom of any promotional email we send you. We will then remove your email from our database.
 
 ## Support
 
-If you have any questions regarding the Camp Saver LLC Privacy Policy, please [contact us](https://web.archive.org/web/20150319170806id_/http://www.campsaver.com/service/privacy-security/%3C?php%20echo%20$this-%3EgetUrl\(%27service/contact%27\);%20?%3E).
+If you have any questions regarding the Camp Saver LLC Privacy Policy, please [contact us](https://web.archive.org/service/contact/).
