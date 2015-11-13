@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the sho.com privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627183944id_/http%3A//www.sho.com/sho/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sho.com privacy policy that was archived on 2015-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151113095128id_/http%3A//www.sho.com/sho/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js "><head>
 		<meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta http-equiv="Content-Type" content="text/html; charset=utf-8;">
 	<meta http-equiv="Content-Language" content="en">
-	<title>Showtime : Privacy</title><meta name="spring-layout" content="layouts.about"><meta name="spring-protected-page" content="false">
+	<title>Showtime : Privacy</title><meta name="spring-layout" content="layouts.about.legal"><meta name="spring-protected-page" content="false">
 	<meta name="spring-environment-server" content="LIVE">
 	
 	<meta name="spring-device-platform" content="desktop">
@@ -13,19 +13,17 @@
 	<meta property="fb:app_id" content="132432090187"> 
 	<meta property="fb:admins" content="1466768414">
 	
-	<meta name="twitter:site" content="@SHO_Network">
+	<meta name="twitter:site" content="@Showtime">
 	
 	<meta name="google" content="notranslate">
 	
-	<link rel="stylesheet" type="text/css" href="/ROOT/lib/css/vendor.min.css?v=6.7.2"><link rel="stylesheet" type="text/css" href="/ROOT/lib/css/timber.min.css?v=6.7.2"><link rel="stylesheet" type="text/css" href="/ROOT/lib/css/sho.min.css?v=6.7.2"><link rel="stylesheet" type="text/css" href="/ROOT/about/css/info.css">
-
-<script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" src="http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js"></script>
-    
-    <script type="text/javascript">
+	<link rel="canonical" href="http://www.sho.com/sho/about/privacy">
+		<script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script src="//cdn.optimizely.com/js/3403230669.js"></script>
+    <link rel="stylesheet" type="text/css" href="/ROOT/lib/css/vendor.min.css?v=6.22.3"><link rel="stylesheet" type="text/css" href="/ROOT/lib/css/timber.min.css?v=6.22.3"><link rel="stylesheet" type="text/css" href="/ROOT/lib/css/sho.min.css?v=6.22.3"><script type="text/javascript">
         var omniture_rsid = 'cbsshocom,cbsshoglobal';
     </script>
 	
-	<script type="text/javascript" src="/ROOT/lib/js/vendor.min.js?v=6.7.2"></script><script type="text/javascript" src="/ROOT/lib/js/sho.min.js?v=6.7.2"></script><script type="text/javascript">
+	<script type="text/javascript" src="/ROOT/lib/js/vendor.min.js?v=6.22.3"></script><script type="text/javascript" src="/ROOT/lib/js/sho.min.js?v=6.22.3"></script><script type="text/javascript">
 		sho.provide('sho.ui.popups'); 
 		
 		// uncomment these properties to override the defaults in sho.ui.popups.Manager
@@ -48,14 +46,27 @@
 		// set this flag to false to disable
 		sho.ui.popups.enabled = false;
 	</script>
-<script src="http://www.google.com/jsapi/?key=ABQIAAAATFi0pm6a4t8AzjExluJ3sRQu2gHaZrleElvzdnaptM932Re0jBQ_mYKkOafCqNLl3lP-e46IivY_Hw" type="text/javascript"></script>
-	<script type="text/javascript">google.load("feeds", "1");</script>
-	
-	<script src="http://showtimeallaccess.tumblr.com/api/read/json?num=100&amp;start=0&amp;tagged=news" type="text/javascript"></script>
-
-	<script language="javascript" type="text/javascript" src="/ROOT/about/js/index.js"></script>
-	<script language="javascript" type="text/javascript" src="/ROOT/about/js/news.js"></script>
-	<script src="http://cdn.gigya.com/JS/socialize.js?apikey=2_0URQtnnBxKVRMgbVt5l2fwDi685XBtzOBeOuROYg20wvBtVT2rt-0rP9EJq2oFWG"></script><script type="text/javascript" src="//use.typekit.net/try3fbz.js"></script>
+<script type="text/javascript">
+		sho.provide('sho.ui.notifications'); 
+        
+		sho.ui.notifications.config = {
+			'title' :  'Our Terms of Use and Privacy Policy Have Changed',
+            'content' : 'Our Privacy Policy and Terms of Use have changed effective as of July 7, 2015. <a class="notification-cookie" href="http://www.sho.com/privacyupdates">Click here</a> for more information about the updates. <span class="hidden-xs">Please review the updated Privacy Policy and Terms of Use before using this website. By using this website, you consent to the updated Privacy Policy and Terms of Use.</span>',
+			
+			// return true if it is safe to show the popup
+			'beforeNotification' : (function(){
+                // only show notification if page is sho.com home page
+				var isShoHome = document.getElementsByTagName("body")[0].className.match(/sho-home/);
+                return !!isShoHome;
+			})
+		};
+		// set this flag to false to disable
+		sho.ui.notifications.enabled = false;
+	</script>
+<!--
+		SSL version of the js library required now
+		<script src="http://cdn.gigya.com/JS/socialize.js?apikey=2_0URQtnnBxKVRMgbVt5l2fwDi685XBtzOBeOuROYg20wvBtVT2rt-0rP9EJq2oFWG"></script> -->
+	<script type="text/javascript" src="https://cdns.gigya.com/JS/gigya.js?apikey=2_0URQtnnBxKVRMgbVt5l2fwDi685XBtzOBeOuROYg20wvBtVT2rt-0rP9EJq2oFWG"></script><script type="text/javascript" src="//use.typekit.net/try3fbz.js"></script>
 		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 	<script type="text/javascript">
     // DO NOT MODIFY BELOW THIS LINE *****************************************
@@ -75,335 +86,183 @@
     // DO NOT MODIFY ABOVE THIS LINE *****************************************
 	</script><script src="//gateway.answerscloud.com/showtime/production/gateway.min.js" type="text/javascript" async="true" data-vendor="acs" data-role="gateway"></script>
 
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgcGUF5RGwIEUVBRDgI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script><link rel="shortcut icon" href="/assets/images/favicon/favicon.ico">
-	</head>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgcGUF5RGwIEUVBRDgI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:22,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script><link rel="shortcut icon" href="/assets/images/favicon/favicon.ico">
+		
+		<script src="//assets.adobedtm.com/eca55fd08170af505e740f16d8cd90e78a06126b/satelliteLib-13a2374f510724dbaaae05d6b73711be54a02e7c.js"></script>
+		</head>
 	
-	<body id="" class="has-min-width has-max-width has-nav-primary has-nav-secondary has-nav-footer tk-ff-din-web info privacy general">
+	<body id="" class="has-max-width tk-ff-din-web about_legal">
 		
 	<div class="container" data-component="sho.ui.nav.Navigator">
 		
-		<!-- set variable to true to render top right global navigation item across desktop site -->
-    <style>
-    .notices .nav #nav-header-showdown a {
-      color: #ff0000;
-    }
-    </style>
-    
-	<div class="nav docked clearfix nav-header">
-		
-		<div id="my-sho" class="my-sho" data-component="sho.ui.menu.AccountsMenu">
-			<p>
-                <!--<a data-behavior="track-click" data-click-id="navigation:register" href="/sho/accounts/users/register">Register</a>-->
-                <a data-behavior="track-click" data-click-id="navigation:login" id="login" href="#">Log In</a>
-            </p>
-		</div>
-		
-		<ul class="inline">
-			<li id="nav-header-video"><a data-behavior="track-click" data-click-id="navigation:video" href="/sho/video/full-episodes">Free Full Episodes</a></li>
-			<li id="nav-header-showtime_anytime"><a data-behavior="track-click" data-click-id="navigation:showtime anytime" href="/sho/showtime-anytime">Showtime Anytime</a></li>
-			<li id="nav-header-shop"><a data-behavior="track-click" data-click-id="navigation:shop" href="http://store.sho.com/?ecid=PRF-SHO-S02166&amp;pa=PRF-SHO-S02166">Shop</a></li>
-			<li id="nav-header-order"><a href="/sho/order/home" data-behavior="track-click" data-modal-height="560" data-click-id="navigation:link_order">Order</a></li>
-			<!-- <li id="nav-header-ways-to-watch"><a data-behavior="track-click" data-click-id="navigation:ways to watch" href="/sho/ways-to-watch/home">Ways to Watch</a></li> -->
-			<li id="nav-header-schedules"><a data-behavior="track-click" data-click-id="navigation:schedules" href="/sho/schedules/index">Schedules</a></li>
-		</ul>
-		
-	</div>
-	<div id="nav-primary" class="nav docked nav-primary">
-
-	<div class="nav-search">
-		<form class="nav-search-form" name="searchform" action="/sho/search" method="GET" data-component="sho.ui.SearchBox">
-			<input class="nav-search-query" type="text" name="q" placeholder="Search">
-			<input class="nav-search-go" type="image" src="/assets/images/lib/c.png" width="0" height="0">
-			<input type="submit" value="go" style="visibility:hidden;">
-		</form>
-	</div>
-	
-	<!-- using no-drawer class name to shut down drop downs -->
-	<ul class="inline" style="height:0">
-		<li id="sho-logo"><a data-behavior="track-click" data-click-id="navigation:home" href="/sho/home">Showtime Home</a></li>
-		<li id="series" class="no-drawer nav-item franchise"><a data-behavior="track-click" data-click-id="navigation:menu:series" href="/sho/series">Series</a></li>
-		<li id="movies" class="no-drawer nav-item franchise"><a data-behavior="track-click" data-click-id="navigation:menu:movies" href="/sho/movies/home">Movies</a></li>
-		<li id="sports" class="no-drawer nav-item franchise"><a data-behavior="track-click" data-click-id="navigation:menu:sports" href="/sho/sports/home">Sports</a></li>
-		<li id="comedy" class="no-drawer nav-item franchise"><a data-behavior="track-click" data-click-id="navigation:menu:comedy" href="/sho/comedy/home">Comedy</a></li>
-		<li id="reality-docs" class="no-drawer nav-item franchise"><a data-behavior="track-click" data-click-id="navigation:menu:reality docs" href="/sho/reality-docs/home">Reality/Docs</a></li>
-		<li id="pipebar"></li>		
-		<li id="promo-item"><a data-behavior="track-click" data-click-id="navigation:seasonal:link_ottannounce" href="/sho/notices/4">New Way to Get Showtime</a></li>
-	</ul>
-	
-	<div id="nav-content-series" class="nav-content clearfix x6">
-		<div class="nav-col callout">
-			<ul><li><a href="/sho/series">All Series</a></li></ul>
-		</div>
-
-		<div class="nav-col">
-				<ul>
-					<li><a href="/sho/3am/home">3AM</a></li>
-					<li><a href="/sho/60-minutes-sports/home">60 Minutes Sports</a></li>
-					<li><a href="/sho/7-deadly-sins/home">7 Deadly Sins</a></li>
-					<li><a href="/sho/the-affair/home">The Affair</a></li>
-					<li><a href="/sho/all-access/home">All Access</a></li>
-					<li><a href="/sho/the-borgias/home">The Borgias</a></li>
-					</ul>
-			</div>
-			<div class="nav-col">
-				<ul>
-					<li><a href="/sho/californication/home">Californication</a></li>
-					<li><a href="/sho/dexter/home">Dexter</a></li>
-					<li><a href="/sho/episodes/home">Episodes</a></li>
-					<li><a href="/sho/gigolos/home">Gigolos</a></li>
-					<li><a href="/sho/happyish/home">HAPPYish</a></li>
-					<li><a href="/sho/homeland/home">Homeland</a></li>
-					</ul>
-			</div>
-			<div class="nav-col">
-				<ul>
-					<li><a href="/sho/house-of-lies/home">House of Lies</a></li>
-					<li><a href="/sho/inside-comedy/home">Inside Comedy</a></li>
-					<li><a href="/sho/inside-the-nfl/home">Inside The NFL</a></li>
-					<li><a href="/sho/jim-rome-on-showtime/home">Jim Rome</a></li>
-					<li><a href="/sho/masters-of-sex/home">Masters of Sex</a></li>
-					<li><a href="/sho/nurse-jackie/home">Nurse Jackie</a></li>
-					</ul>
-			</div>
-			<div class="nav-col">
-				<ul>
-					<li><a href="/sho/oliver-stones-untold-history-of-the-united-states/home">Oliver Stone</a></li>
-					<li><a href="/sho/penny-dreadful/home">Penny Dreadful</a></li>
-					<li><a href="/sho/polyamory-married-and-dating/home">Polyamory</a></li>
-					<li><a href="/sho/ray-donovan/home">Ray Donovan</a></li>
-					<li><a href="/sho/shameless/home">Shameless</a></li>
-					<li><a href="http://sports.sho.com/boxing">ShoBox</a></li>
-					</ul>
-			</div>
-			<div class="nav-col">
-				<ul>
-					<li><a href="/sho/time-of-death/home">Time of Death</a></li>
-					<li><a href="/sho/web-therapy/home">Web Therapy</a></li>
-					<li><a href="/sho/weeds/home">Weeds</a></li>
-					<li><a href="/sho/years-of-living-dangerously/home">Years of Living</a></li>
-					</ul>
-			</div>
-			</div><!-- END nav-content-series -->
-
-	<div id="nav-content-movies" class="nav-content clearfix x5">
-		<div class="nav-col callout stroke-right">
-			<ul>
-		    	<li><a href="/sho/movies/home">Movies Home</a></li>
-			    <li><a href="/sho/short-stories">Short Stories</a></li>
-			</ul>
-		</div>
-		<div class="nav-col">
-			<ul>
-				<li><a href="/sho/movies/1/action">Action</a></li>
-				<li><a href="/sho/movies/2/adult">Adult</a></li>
-				<li><a href="/sho/movies/3/comedy">Comedy</a></li>
-				<li><a href="/sho/movies/4/documentary">Documentary</a></li>
-			</ul>
-		</div>
-		<div class="nav-col">
-			<ul>
-				<li><a href="/sho/movies/5/drama">Drama</a></li>
-				<li><a href="/sho/movies/6/family">Family</a></li>
-				<li><a href="/sho/movies/7/foreign">Foreign</a></li>
-				<li><a href="/sho/movies/8/horror">Horror</a></li>
-			</ul>
-		</div>
-		<div class="nav-col">
-			<ul>
-				<li><a href="/sho/movies/9/music-and-musicals">Music &amp; Musicals</a></li>
-				<li><a href="/sho/movies/10/mystery-and-thrillers">Mystery &amp; Thrillers</a></li>
-				<li><a href="/sho/movies/11/romance">Romance</a></li>
-				<li><a href="/sho/movies/12/sci-fi--fantasy">Sci Fi / Fantasy</a></li>
-			</ul>
-		</div>
-		<div class="nav-col">
-			<ul>
-				<li><a href="/sho/movies/13/special-interest">Special Interest</a></li>
-				<li><a href="/sho/movies/14/sports">Sports</a></li>
-				<li><a href="/sho/movies/15/war">War</a></li>
-				<li><a href="/sho/movies/16/western">Western</a></li>
-			</ul>
-		</div>
-	</div><!-- END nav-content-movies -->
-
-	<div id="nav-content-sports" class="nav-content clearfix x4">
-		<div class="nav-col callout">
-			<ul><li><a href="/sho/sports/home">Sports Home</a></li></ul>
-		</div>
-		<div class="nav-col">
-		<ul>
-			<li><a href="/sho/sports/fights">Fights</a></li>
-			<li><a href="/sho/sports/documentaries">Documentaries</a></li>
-			<li><a href="/sho/video/sports">Video</a></li>
-		</ul>
-		</div>
-		
-		<div class="nav-col">
-			<ul>
-				<li><a href="/sho/sports/galleries">Photos</a></li>
-				<li><a href="/sho/60-minutes-sports/home">60 Minutes Sports</a></li>
-				<li><a href="/sho/all-access/home">All Access</a></li>
-			</ul>
-		</div>
-
-		<div class="nav-col">
-			<ul>
-				<li><a href="/sho/inside-the-nfl/home">Inside the NFL</a></li>
-				<li><a href="/sho/jim-rome-on-showtime/home">Jim Rome on Showtime</a></li>
-				<li><a href="/sho/the-franchise/home">The Franchise</a></li>
-			</ul>
-		</div>
-	</div><!-- END nav-content-sports -->
-
-	<div id="nav-content-comedy" class="nav-content clearfix x4">
-		<div class="nav-col callout">
-			<ul><li><a href="/sho/comedy/home">Comedy Home</a></li></ul>
-		</div>
-		<div class="nav-col">
-		<ul>
-			<li><a href="/sho/comedy/specials">Comedy Specials</a></li>
-		</ul>
-		</div>	
-		<div class="nav-col">
-		<ul>	
-			<li><a href="/sho/californication/home">Californication</a></li>
-			<li><a href="/sho/episodes/home">Episodes</a></li>
-			<li><a href="/sho/house-of-lies/home">House of Lies</a></li>
-		</ul>
-		</div>
-		<div class="nav-col">
-		<ul>
-			<li><a href="/sho/inside-comedy/home">Inside Comedy</a></li>
-			<li><a href="/sho/web-therapy/home">Web Therapy</a></li>		
-		</ul>
-		</div>	
-	</div><!-- END nav-content-comedy -->
-
-	<div id="nav-content-reality-docs" class="nav-content clearfix x5">
-		<div class="nav-col callout">
-			<ul><li><a href="/sho/reality-docs/home">Reality/Docs Home</a></li></ul>
-		</div>
-		<div class="nav-col">
-		<ul>
-			<li><a href="/sho/reality-docs/documentaries">Documentaries</a></li>
-		</ul>
-		</div>
-		<div class="nav-col">
-		<ul>
-			<li><a href="/sho/60-minutes-sports/home">60 Minutes Sports</a></li>
-			<li><a href="/sho/all-access/home">All Access</a></li>
-			<li><a href="/sho/the-franchise/home">The Franchise</a></li>
-			<li><a href="/sho/gigolos/home">Gigolos</a></li>
-		</ul>
-		</div>	
-		<div class="nav-col">
-		<ul>
-			<li><a href="/sho/oliver-stones-untold-history-of-the-united-states/home">Oliver Stone</a></li>
-			<li><a href="/sho/penn-and-teller-bullshit/home">Penn &amp; Teller: Bullshit!</a></li>
-			<li><a href="/sho/polyamory-married-and-dating/home">Polyamory</a></li>
-			<li><a href="/sho/the-real-l-word/home">The Real L Word</a></li>
-		</ul>		
-		</div>
-		<div class="nav-col">
-		<ul>
-			<li><a href="/sho/time-of-death/home">Time of Death</a></li>
-			<li><a href="/sho/years-of-living-dangerously/home">Years of Living Dangerously</a></li>
-		</ul>
-		</div>
-	</div><!-- END nav-content-reality-docs -->
-			
-</div><!-- END primary --><div id="nav-info" class="nav docked nav-secondary nav-info">
-		<span class="page-title"></span>
-		<ul class="inline" id="infoNav">
-			<li class="nav-item no-drawer about-nav"><a id="about" href="/sho/about">About</a></li>
-			<li class="nav-item no-drawer careers-nav"><a id="careers" href="/sho/about/careers">Careers</a></li>
-			<li class="nav-item no-drawer privacy-nav"><a id="privacy" href="/sho/about/privacy">Privacy</a></li>
-			<li class="nav-item no-drawer terms-nav"><a id="terms" href="/sho/about/terms">Terms of Use</a></li>
-		</ul>
-		
-	</div><!-- END nav-movies --><div class="content ">
+		<div class="content ">
 			<!-- content: `/about/views/privacy/index.jsp` -->
-			<div id="privacy-left">
-	<!-- privacy text lives for mobile and desktop in _privacy-1.jsp -->
-	<h2>Privacy Statement</h2>
-		<p id="select_test">Showtime Networks Inc. ("Provider," "we" or "us") owns, operates and/or provides access to SHO.com and several interactive web sites and other interactive features that provide an authorized link to this Privacy Policy (collectively, the "Site"). Provider is committed to protecting the privacy of its users and has prepared the following statement to inform users how information is gathered from the Site and used by Provider. We encourage users of the Site to be smart about choosing when, and to whom, to release information. This policy may be updated from time to time, so please check back periodically. We will notify you of significant changes by prominently posting them on the Site and/or by sending an email to the primary address specified in your account.</p>
-        <p>Please note that the Site is intended for use by residents of the United States, its territories and possessions ("U.S.") only and, therefore, this Privacy Policy is specifically directed only towards residents of the U.S. We make no representation that content on the Site is appropriate or available for use in locations outside of the U.S., and accessing it from territories where the content is illegal is prohibited. If you are located in the European Union or elsewhere outside of the U.S. and you use the Site contrary to our policy that only U.S. residents are eligible to use the Site, you do so at your own risk and initiative, and are responsible for compliance with any applicable local and national laws. Please be aware that any information you submit to us will be transferred to and processed in the U.S and subject to U.S. law. By using the Site and/or providing us with your information, you consent to this collection, transfer, storage and processing of information to and in the U.S., and waive any claims that may arise under your own local and national laws.</p>
-    <h2>Your California Privacy Rights</h2>
-        <p>If you are a California resident that has an established business relationship with us and wish to receive information about how to exercise your third party disclosure choices, you must send a request to the following address with a preference as to how our response to your request should be sent (email or postal mail). You may contact us in two ways. You may visit <a href="http://www.sho.com/contact">www.sho.com/contact</a>. Alternatively, you may contact Provider at:</p>
-        <p>Showtime Networks Inc.<br>
-            1633 Broadway<br>
-            New York, NY 10019<br>
-            Attn: Your California Privacy Rights<br>
-            c/o Privacy Administrator<br>
-            </p>
-		<p>For requests sent via email, you must put the statement "Your California Privacy Rights" in the subject field of your email. All requests sent via postal mail must be labeled "Your California Privacy Rights" on the accompanying envelope or post card and clearly stated on the actual request. For all requests, please include your name, street address, city, state, and zip code. (Your street address is optional if you wish to receive a response to your request via email. However, please include your zip code for our own recordkeeping.) We will not accept requests via the telephone or by facsimile. We are not responsible for requests that are not labeled or sent properly, or do not have complete information.</p>
-    <h2>Collection and Use of Information You Give Us Directly</h2>
-        <p>Personal Information is information that identifies you and that you provide us directly, such as</p>
-        	<ul class="privacy-list">
-            	<li>information we request when you register with the Site, including your name, street address, telephone number, e-mail address, and date of birth;</li>
-                <li>information you provide if you complete a survey that we use for research purposes, or enter a sweepstakes, contest or other online promotion;</li>
-                <li>information you provide if you report a problem with the Site or contact us for other reasons;</li>
-                <li>your mobile phone number and carrier if you sign up for wireless updates and other promotions.</li>
-            </ul>
-        <p>Personal Information will be used (1) to process your requests (e.g., register you for a contest or sweepstakes); (2) to communicate with you based on your stated interests and preferences or make related offers to you; (3) to personalize the content or advertising you see on the Site; (4) to administer the Site or serve you when you have questions or problems; and (5) for any other purpose disclosed to you at the time we collect your information or pursuant to your consent.</p>
-    <h2>Collection and Use of Information Automatically Gathered Through the Site</h2>
-        <p>Some information about our users is collected by the standard operation of the Site's internet servers and through the use of other technologies, including pixel tags. This information includes Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, operating system, date/time stamp, clickstream data, and length of time viewing a particular program.</p>
-		<p>Collecting this information helps us understand which parts of the Site are the most popular, where our visitors are coming from and where they are going, how much time they spend on the Site, and the effectiveness of searches customers perform on the Site. We use the information to analyze trends, study traffic patterns, and gather demographic information about our user base, which in turn allows us to make the Site even more rewarding and improve the effectiveness of our customer communications. We also use such information to provide greater convenience and to customize your experience. For example, we may share this information with third-party web analytics companies in order to present you with targeted promotional content on the Site.</p>
-		<p>We may also allow third-party companies to collect some information on our Site. For more information about how third parties may collect your information through this Site and your choices regarding the collection and use of this information, see "Collection of Information by Third Party Sites," below.</p>
-		<p>Some Internet browsers include the ability to transmit "Do Not Track" signals. Since uniform standards for "Do Not Track" signals have not been adopted, the Site does not process or respond to "Do Not Track" signals. To learn more about "Do Not Track", please visit <a href="http://www.allaboutdnt.com/">"All About Do Not Track".</a></p>
-    <h2>Disclosure of Information About You</h2>
-        <p>Information that we have collected about you may be shared with third-party vendors who help us with specialized services, such as customer support, payment processing, business analytics, data processing, advertising, and account management. Currently, we do not share information that we have collected about you with any other third parties for their own marketing purposes without first obtaining your prior permission. Agents, contractors and licensees of Provider who are granted access to information we have collected about you are required to protect such information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for us.</p>
-		<p>Note that we may allow some third-party companies to directly collect some information on our site using technologies such as pixel tags. For more information, see "Collection of Information by Third Party Sites," below.</p>
-        <p>There may be instances when we disclose information about you (1) in our sole judgment, as may be necessary to comply with any applicable laws, rules or regulations (such as U.S. Copyright Law) or the Terms of Use applicable to the Site, (2) to protect the rights, property, or safety of Provider, its affiliates or users; and/or (3) in our sole judgment, as may be necessary to respond to a court order, subpoena, or search warrant. We also may transfer information to a third party in the event of corporate restructuring (e.g., a sale, merger, or other transfer of assets or stock).</p>
-</div>
-<div id="privacy-right">
-	<!-- privacy text lives for mobile and desktop in _privacy-2.jsp -->
-	<h2>Your Choices</h2>
-		<p>With respect to SHO.com, we have developed a system that enables you to express your preferences regarding our newsletters and communications. To remove yourself from a mailing list, go to the edit profile section: <a href="http://sho.com/sho/accounts/users/edit">http://sho.com/sho/accounts/users/edit</a> and log in with your email and SHO.com password. You can view and change your email preferences. To unsubscribe from a certain newsletter, uncheck the appropriate box. If you'd like to add a new newsletter, simply check the corresponding box. Be sure to click the submit changes link at the bottom of the page to make sure your preferences get updated. If you are under the age of 18, you do not have access to our communication tools.</p>
-		<p>Please note that even if you opt not to receive promotional messages in accordance with the preceding paragraph, we may still send you communications relating to your use of the Site, such as administrative messages, service announcements, or terms and conditions of your account.</p>
-     <h2>Collection of Information by Third Party Sites</h2>
-		<p>The Site uses services provided by third-party advertising companies. These companies may collect information when you visit the Site through the use of technologies such as pixel tags. Pixel tags are small images that collect certain types of information (such as your IP address and what page you are visiting) when you view a page, video, or email in which the tag is embedded. The third-party advertising companies we work with may use information about your visits to this Site and other web sites in order to provide advertisements on the Site and other sites about goods and services of interest to you. The information practices of these advertising companies are governed by their own privacy policies and are not covered by this Privacy Policy. If you would like more information on your choices regarding this practice and the use of this information, click <a href="http://www.networkadvertising.org/choices/">here</a> and <a href="http://www.aboutads.info/choices/">here</a>.</p>
-        <p>Please be aware that third-party websites that have links on the Site may solicit information from you, including Personal Information. The practices of those websites linked to the Site are not covered by this Privacy Policy. We sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain information that users voluntarily submit in order to participate in the activity offered on the Site. We have no control over these third parties' use of this information. We will notify you at the time of the request if these third parties will obtain such information.</p>
-     <h2>Shopping Services</h2>
-        <p>The Site strives to offer its visitors a secure and safe environment for credit card purchases. The shopping and fulfillment services offered on the Site are operated by Provider's agent, who collects personally identifiable information necessary to accept, process and ship your ordered merchandise on behalf of Provider, to provide you with information you may request and updates on the status of your order, and to assist your purchasing experience.</p>
-	 <h2>Security</h2>
-        <p>We follow commercially reasonable procedures to collect, manage, maintain and store user information, using acceptable industry standards of security technology and practices (such as electronic security systems and password protections) to protect against loss, misuse or alteration. We also request that our operational service providers take such precautions. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. As a result, while we strive to protect the information we collect from you, we cannot ensure or warrant the security of any information you transmit to us or from the Site, and you do so at your own risk. Please refer to the <a href="http://www.ftc.gov/bcp/menus/consumer/data/idt.shtm">U.S. Federal Trade Commission's website</a> for information on how to protect yourself from identity theft.</p>
-        <p>We will retain your information as long as reasonably necessary to fulfill your requests with respect to the Site, process payment for your orders, and to comply with regulatory, legal and corporate record keeping requirements.</p>
-     <h2>Reviewing Your Information</h2>
-        <p>To access the Personal Information that the Site has collected about you, to correct factual errors in such information, to remove information from your account profile, or to update your interests, preferences or other portions of your account profile, please go to the <a href="/sho/accounts/users/edit">edit profile section</a> and log in with your email and SHO.com password or visit <a href="http://www.sho.com/contact">www.sho.com/contact.</a></p>
-     <h2>Children's Use of the Site</h2>
-        <p>We are sensitive to parents' concerns about the collection of information from children. We do not retain Personal Information from children under the age of 18. If, during the registration or account management process, we learn that a user is under 18, we delete any Personal Information collected from that user. Nor will children under 18 be able to use our communications tools or submit information to any public area of the Site (which includes, but is not limited to, message/bulletin boards, forums and contests and chat rooms). We do not share children's Personal Information with outside third parties for their own marketing purposes.</p>
-     <h2>Contact Information</h2>
-        <p>If you have any questions, comments or concerns regarding Provider's Privacy Policy and/or practices, please visit <a href="http://www.sho.com/contact">www.sho.com/contact</a> or write to us at Showtime Networks Inc., 1633 Broadway, New York, NY 10019 Attn: Customer Service.</p>
-        <p>This Privacy Policy was last updated December 20, 2012.</p></div>
-	</div><!-- END content -->
-		<div class="on-tonight" data-component="sho.ui.schedules.ontonight.Ticker">
-		<div class="on-tonight-inner">
-			<b class="on-tonight-title">Tonight on Showtime</b>
-		<dl>
-				<dt>9 PM&nbsp;<em class="etpt">ET/PT</em></dt>
-				<dd><a href="/sho/movies/titles/3414660/song-one">Song One</a></dd>
-				<dt>10:30 PM&nbsp;<em class="etpt">ET/PT</em></dt>
-				<dd><a href="/sho/penny-dreadful/season/2/episode/8">Penny Dreadful: Memento Mori</a></dd>
-				<dt>11:30 PM&nbsp;<em class="etpt">ET/PT</em></dt>
-				<dd><a href="/sho/happyish/season/1/episode/9">HAPPYish: Starring Mr. Mike, Joseph McCarthy and Alfred Bernhard Nobel</a></dd>
-				</dl>
-		</div>
-		<a data-behavior="track-click" data-click-id="navigation:schedule" href="/sho/schedules/index" class="schedule-link">Schedules</a>
+			<div class="timber-container body-text">
+
+		<header class="legal-header cf">
+		<h1 class="h1"><a href="/sho/home"><img src="http://www.sho.com/assets/images/lib/showtime-logo_100x34.png" alt="SHOWTIME" width="100"></a></h1>
+		<nav class="cf">
+		<h6 class="h6 t-allcaps nav-item"><a href="/sho/about/terms" class="">Terms of use</a></h6>
+			<h6 class="h6 t-allcaps nav-item"><a href="/sho/about/privacy" class="aktiv">Privacy policy</a></h6>
+			<h6 class="h6 t-allcaps nav-item"><a href="/sho/about/video-services" class="">Video services policy</a></h6>
+			<h6 class="h6 t-allcaps nav-item"><a href="/sho/about/mobile-eula" class="">Mobile user agreement</a></h6>
+			</nav>
+	</header><!-- terms text lives for mobile and desktop in _privacy_content.jsp -->
+		<h2 class="h2">Privacy Policy</h2>
+	
+	<p>Effective Date July 7, 2015</p>
+
+	<p>Note: Our Privacy Policy has been updated. Please review the updated Privacy Policy carefully before using any Showtime Networks Service. By using any Showtime Networks Service, you consent to the terms of the updated privacy policy.</p>
+
+	<p>Welcome to the network of interactive services provided by Showtime Networks Inc. or its affiliates (collectively, "Provider," "Showtime Networks," "us," or "we"). Provider is committed to protecting the privacy of its users and has prepared this Privacy Policy to inform users concerning the protection of privacy on Provider's websites, mobile and connected TV applications, features, products and services that include an authorized link to this Privacy Policy (collectively, "Services"). </p>
+
+	<p>This Privacy Policy describes, among other things, the types of information collected about you when you visit the Services; how your information may be used and when it may be disclosed; how you can control the use and disclosure of your information; and how your information is protected.</p>  
+
+	<h4 class="h4">1. Scope of Privacy Policy</h4>
+
+	<p>This Privacy Policy applies to information, including contact information, collected about you by our Services. Please review this Privacy Policy carefully. In addition, please review our <a href="http://sho.com/terms">Terms of Use</a>, which govern your use of the Services.
+
+	</p><p>Please note that the Services are intended solely and exclusively for residents of the United States, its territories and possessions ("U.S.") while they are located in the U.S. Accordingly, this Privacy Policy is specifically directed only towards residents of the U.S. If you are located in the European Union or elsewhere outside of the U.S. and you use the Site contrary to our <a href="http://sho.com/terms">Terms of Use</a>, you do so at your own risk and initiative, and are responsible for compliance with any applicable local and national laws. Please be aware that any information you submit to us will be transferred to and processed in the U.S and subject to U.S. law, which may not be equivalent to the laws in your country of residence. By using the Site and/or providing us with your information, you consent to this collection, transfer, storage and processing of information to and in the U.S., and waive any claims that may arise under your own local and national laws.</p>
+
+	<h4 class="h4">2. Information Collected</h4>
+
+	<p>Information you provide directly to Provider Services.</p> 
+
+	<p>You are not required to provide information about yourself when you visit our Services.  Our Services may ask you for different types of information when you register for certain services, access various content or features, or directly contact the Services including:</p>
+	<ul>
+	<li>Contact information, such as name, email address, postal address, phone number, facsimile number, and mobile number;</li>
+	<li>User name, password, and password reminder questions and answers;</li>
+	<li>Authentication and sub-account information for Showtime Anytime;</li>
+	<li>Age and date of birth;</li>
+	<li>Other demographic information, such as gender, job information, and postal code;</li>
+	<li>Public information, including profile information, you provide to the Provider Services for publication, such as your user name, comments, likes, interests, status, pictures and the address of your website;</li>
+	<li>Information you provide if you complete a survey that we use for research purposes, or enter a sweepstakes, contest or other online promotion;</li>
+	<li>Communications preferences, such as which newsletters you would like to receive;</li>
+	<li>Search queries;</li>
+	<li>In limited circumstances, payment and identity verification information, such as credit card number, where needed for payment, to complete a particular transaction, or to access a particular service;</li>
+	<li>Information posted in community discussions and other interactive online features, including so-called "user generated content" and "feedback" and postings to third-party social media sites through the Services (collectively, "User Submissions");</li>
+	<li>Information you provide if you report a problem with the Site or contact us for other reasons; and</li>
+	<li>Information collected about you offline (including via facsimile, mail, or in person for sweepstakes entrance forms).</li>
+	</ul>
+
+	<p>Information we collect automatically on Provider Services.</p>  
+
+	<p>Our Services may collect certain information automatically, including:</p>
+	<ul> 
+	<li>Your browser type and operating system;</li>
+	<li>Your Internet Protocol (IP) address, which is the number automatically assigned to your computer whenever you access the Internet and that can sometimes be used to derive your general geographic area;</li>
+	<li>Your Internet Service Provider (ISP);</li>
+	<li>Websites you visited immediately before and after visiting our Services;</li>
+	<li>Web pages and advertisements you view, links you click on within our Services and other clickstream data;</li>
+	<li>Unique identifiers, including device identification numbers that can identify the physical location of such devices in accordance with applicable law;</li>
+	<li>Information collected through cookies, web beacons, pixel tags and other similar technologies;</li>
+	<li>Information about your interactions with audio and video content, such as the type of content listened to and viewed, and information about your interactions with email messages, such as the links clicked on and whether the messages were opened or forwarded;</li>
+	<li>Your bandwidth speed and information about the software programs installed on your computer including registry key information; and</li>
+	<li>Standard server log information, including date/time information.</li>
+	</ul>	
+
+	<p>Some Internet browsers include the ability to transmit "Do Not Track" signals.  Since uniform standards for "Do Not Track" signals have not been adopted, the Services do not process or respond to "Do Not Track" signals. To learn more about "Do Not Track", please visit "<a href="http://www.allaboutdnt.com/">All About Do Not Track</a>."</p>
+
+	<p>Information we obtain from other sources.</p> 
+
+	<p>Where permitted by applicable law, we may collect information about you from other sources, including through interactive applications (e.g., mobile devices, third party services, and embedded audio and video players), from co-branded partners and websites (e.g., on our Facebook pages), and from commercially available sources (e.g., data aggregators and public databases). The following are examples of information we may collect from other sources:</p>
+	<ul> 
+	<li>Name, postal address, and telephone number;</li>
+	<li>Demographic data, such as age, gender, and income level;</li>
+	<li>If you access third party services (e.g., Facebook, Google+ or Twitter) through a Provider Service, or if you access a Provider Service through a third party service, your username and password for those services and other information available about or collected from you on those services, as described in our <a href="http://sho.com/videoservices">Video Services and Social Networking Policy</a>;</li>
+	<li>Your interests and purchase behavior;</li>
+	<li>Publicly-observed data, such as activities on blogs, videos, and other online postings; and</li>
+	<li>Other navigation data, such as websites visited and advertisements viewed or clicked on.</li>
+	</ul>	
+
+	<p>Combining information. 
+
+	</p><p>Please note that all of the information we collect about you may be combined, including to help us tailor our communications to you and to develop rich online content and services across our Services.
+
+	</p><p>Information collected by third parties.</p> 
+
+	<p>The Services may use services provided by third-party advertising and market research companies. When you visit the Services, these companies may use technologies such as cookies and pixel tags to collect information such as your IP address, video content that you have watched and what page you are visiting when you view a page, video, or email in which a tag is embedded. The information practices of these advertising companies are governed by their own privacy policies and are not covered by this Privacy Policy. If you would like more information on your choices regarding this practice and the use of this information, click <a href="http://www.networkadvertising.org/choices/">here</a> and <a href="http://www.aboutads.info/choices/">here</a>.</p> 
+
+	<p>When you select a link from one of our Services to a third party service, any information that you disclose on the third party service will be governed by that service's privacy policy and not this Privacy Policy.</p> 
+
+	<h4 class="h4">3. Use of Information</h4>
+
+	<p>We only use payment and identity verification information, such as credit card numbers, as necessary for completing a particular transaction or fulfilling a service (e.g., paid subscriptions or awarding prizes to contest winners) or as otherwise required by law.</p> 
+
+	<p>We generally use other information we collect about you to:</p> 
+	<ul>
+	<li>Fulfill your requests for products, services, and information, including to send you electronic newsletters, authorize a purchase, complete a transaction that you have requested, or serve you when you have questions or problems;</li> 
+	<li>Enable you to participate in features and activities such as surveys, polls, sweepstakes, message boards, interviews and other research activities;</li> 
+	<li>Provide you with electronic newsletters, information, special offers and promotional materials on behalf of our Services, companies within our corporate family, and third parties, in accordance with applicable law;</li> 
+	<li>Operate our Services and analyze the use of our Services and information about visitors to our Services to understand and improve our service offerings and, in accordance with our sharing policies, discussed below, to produce or disclose anonymous or aggregated data and statistics that might help third parties develop their own products and service offerings;</li> 
+	<li>Customize the content you see when you visit our Services;</li> 
+	<li>Develop and provide advertising tailored to your interests;</li> 
+	<li>Prevent potentially prohibited or illegal activities and otherwise in accordance with Provider's Terms of Use; and</li> 
+	<li>For any other purposes disclosed to you at the time we collect your information or pursuant to your consent.</li> 
+	</ul>	
+
+	<h4 class="h4">4. Disclosure of Information</h4>
+
+	<p>Provider is committed to maintaining your trust and we want you to understand when and with whom we may share information collected about you.</p>
+	<ul> 
+	<li>With your consent. With your consent, we may share your contact information with third party marketing partners.</li> 
+	<li>User Submissions. Publication of User Submissions is subject to our <a href="http://sho.com/terms">Terms of Use</a>. Please remember that any information you disclose becomes public information and exercise caution when deciding to disclose your contact, financial, and other information in a User Submission.</li>
+	<li>Authorized third party service providers. We may share your contact information and other information about you with third party vendors that help us with specialized services, including customer support, payment processing, account management, email and text message deployment, business analytics, marketing, suppression list management and data processing. These third parties are allowed to use your information to help us provide our services and not for any other purpose. Also, authorized third party service providers may collect non-contact information about your visits to our Services with cookies, web beacons and other similar technologies that may be used to deliver advertisements or marketing tailored to your interests.</li>  
+	<li>Sweepstakes, contests, or promotions. When you choose to enter a sweepstakes, contest, or other promotion, and in accordance with the terms and conditions of the promotions, your information may be disclosed to our sponsors and third parties who help design, administer and implement the promotion, including in connection with winner selection, prize fulfillment and aggregated data analysis. Your information also may be disclosed as required by law, such as on a winners list. Further, by entering a promotion, you are agreeing to the official rules that govern that promotion, including allowing our sponsors to use your name, voice, and likeness in advertising and marketing associated with the promotion in accordance with applicable law. All terms applicable to the particular promotion will be made available to you at the time you enter the promotion.</li>
+	<li>Co-Branded Partners. Co-Branded Partners are third parties with whom a Service may jointly offer a service or feature. You can tell when you are accessing a service or feature offered by a Co-Branded Partner because the Co-Branded Partner's name will be featured prominently. You may be asked to provide information about yourself to register for a service offered by a Co-Branded Partner. In doing so, you may be providing your information to both us and the Co-Branded Partner, or we may share your information with the Co-Branded Partner. Please note that the Co-Branded Partner's privacy policy may also apply to its use of your information.</li>
+	<li>Advertising. We may share information about our users with advertisers so that they can measure the effectiveness of advertisements viewed on our Services. For example, we may tell advertisers the number of users who clicked on a particular advertisement. We also may use technology to deliver advertising to you on other websites based on email address or other personal information you provide to us or through the use of information we received from third parties.</li>  
+	<li>Provider Services and other businesses of our affiliated companies. Where permitted by law, we may share information we collect about you within our family of corporate affiliates, so that we can provide you with information about products and services that might interest you.</li>  
+	<li>Information about your interactions with audio and video content. Information collected about your interactions with audio and video content, including video content that you have watched, may be shared with third parties, including social networking services and audience measurement and market research services, as described in our <a href="http://sho.com/videoservices">Video Services and Social Networking Policy</a>.</li>
+	<li>Business transfers. We may share your information in connection with a corporate transaction, such as the sale of a Provider Service, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.</li>
+	<li>Legal requirements. We may disclose information about our users, including contact information, to respond to subpoenas, court orders, legal process, and other law enforcement measures, and to comply with other legal obligations, such as FCC requirements, in our sole judgment.</li>
+	<li>Protect our Services and users. We may disclose information to protect and defend the legal rights, interests, and safety of Provider Services, our affiliated companies, and their employees, agents, and contractors (including enforcing our agreements); to protect the safety and security of users of the Services and members of the public; and as otherwise disclosed in our <a href="http://sho.com/terms">Terms of Use</a>.</li>
+	<li>Aggregated or anonymized information. We may share aggregated or anonymized information with third parties, to help us develop content and services we hope will interest you or to help these third parties develop their own products and service offerings including targeted marketing.</li>
+	</ul>
+
+	<h4 class="h4">5. Your Choices</h4>
+
+	<p>You can choose to enjoy content and features on certain of our Services without providing us directly with any information about you; however, as described above, some information may be collected automatically or be requested so that you can take advantage of certain features and services offered on the Services.</p>
+
+	<p>You have various options for expressing your preferences regarding our newsletters and other promotional communications. For example, with respect to SHO.com, you may remove yourself from a mailing list by logging in to your account and changing your email preferences. You also can opt out of receiving promotional email or text communications from a particular Service by following the instructions contained in any such communication. Please note that even if you opt not to receive promotional communications, we may still send you communications relating to your use of the Services, such as administrative messages, service announcements, or terms and conditions of your account.</p>
+
+	<p>While each browser is different, browsers generally provide you options to accept all cookies, reject all cookies, notify you when a cookie is set, or delete cookies periodically.</p> 
+
+	<h4 class="h4">6. Reviewing Your Information</h4>
+
+	<p>If you choose to share contact information with us, you may have the opportunity to update certain such information on a Service through your user account profile on that Service. You also may update your information by contacting us. If you ask us to close your account, we will do so within a reasonable period of time. Please note that we may need to retain some information about you as a result of our ordinary procedures for operation of the Services or in order to satisfy our legal and security obligations. For example, some of your information may remain in back-up storage even if you ask us to close your account. In some cases, you may be entitled under local laws to access or object to the processing of information that we hold relating to you.</p>
+
+	<h4 class="h4">7. Security</h4>
+
+	<p>We are committed to protecting your information. We have adopted technical, administrative and physical procedures to collect, manage, maintain and store user information in a manner designed to help protect your information from loss, misuse, unauthorized access, and alteration.  Unfortunately, no data transmission or storage can be guaranteed to be 100% secure. We want you to feel confident using our Services, but we cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. Please refer to the <a href="http://www.consumer.ftc.gov/">U.S. Federal Trade Commission's website</a> for information on how to protect yourself from identity theft.
+
+	</p><h4 class="h4">8. Children's Use of the Services</h4>
+
+	<p>To access and use our connected TV applications that do not incorporate the linear feed of the SHOWTIME television service, you must be at least 14 years of age. All of our other Services are designed for and targeted to adults. You must be at least 18 years of age (or whatever the applicable age of majority (legal adulthood) is where you are located) to use them, except to the extent you have the permission of your parent or guardian to use a Showtime Anytime sub-account, as described in Section 9 of our <a href="http://sho.com/terms">Terms of Use</a>.</p>
+
+	<p>We are sensitive to parents' concerns about the collection of information from children. Accordingly, we do not desire to collect or retain personal information from children under the age of 18, even if they are authorized to use a connected TV application or Showtime Anytime sub-account. If, during the registration or account management process, we learn that a user is under 18, we delete any personal information collected from that user.</p> 
+
+	<h4 class="h4">9. Your California Privacy Rights</h4>
+
+	<p>If you are a California resident who has an established business relationship with us, you may request a list of third parties to which we have disclosed certain information during the preceding year for the third parties' direct marketing purposes. To do so, please contact us by email through the relevant Service or contact us by postal mail at:</p>
+
+	<p>Showtime Networks Inc.<br>
+	1633 Broadway<br>
+	New York, NY 10019<br>
+	Attn: Your California Privacy Rights<br>
+	c/o Privacy Administrator</p>
+
+	<p>For requests sent by email, you must put the statement "Your California Privacy Rights" in the subject field of your email. All requests sent by postal mail must be labeled "Your California Privacy Rights" on the accompanying envelope or post card and on the actual request. For all requests, please include your name; your preference as to whether our response to your request should be sent by email or postal mail; your email or postal address, as applicable; and in any event your city, state and ZIP code for our recordkeeping. We will not accept requests by telephone or by facsimile. We are not responsible for requests that are not labeled or sent properly, or do not have complete information.</p>
+
+	<h4 class="h4">10. Changes to This Privacy Policy</h4>
+
+	<p>This Privacy Policy is effective as of the Effective Date above. We may change this Privacy Policy in the future, and such changes will be effective upon posting, so we encourage you to review periodically the Privacy Policy applicable to each Service you use. The most current version of the applicable Privacy Policy (along with its effective date) will be linked from each of the Services. If you have registered an account with us for a Service and we make significant changes in the Privacy Policy for that Service, we will attempt to notify you by sending an email to the address you have registered for your account.</p> 
+
+	<h4 class="h4">11. Contact Information</h4>
+
+	<p>If you have any questions, comments or concerns regarding this Privacy Policy and/or our privacy practices, please contact us through the contact or help feature of the relevant Service or write to us at Showtime Networks Inc., 1633 Broadway, New York, NY 10019, Attn: Customer Service, or call our customer service department at (877)4-SHOWTIME ((877)474-6984).</p>
 	</div>
-<div class="nav nav-footer">
-		<div class="legal">
-		© 2015 Showtime Networks Inc. and Showtime Digital Inc. All rights reserved. <a href="/sho/about/privacy" title="privacy policy">Privacy Policy</a> | <a href="/sho/about/terms" title="terms of use">Terms of Use</a> | <a href="/sho/about/closed-captioning">Closed Captioning.</a> 
-		This website is intended for viewing solely in the United States and its territories and possessions. <span style="color:#ffffff;">This website may contain adult content.</span>
-	</div><div class="footer">
-			<ul class="inline">
-				<li id="apps"><a data-behavior="track-click" data-click-id="navigation:apps" href="/sho/apps">Apps</a></li>
-				<li id="itv"><a data-behavior="track-click" data-click-id="navigation:interactive tv" href="/sho/interactive-tv">Interactive TV</a></li>
-				<li id="about"><a data-behavior="track-click" data-click-id="navigation:about" href="/sho/about">About</a></li>
-				<li id="contact"><a data-behavior="track-click" data-click-id="navigation:contact" href="http://www.sho.com/contact">Contact Us</a></li>
-			</ul>
-		</div>
-	</div></div><!-- END container -->
+	</div><!-- END content -->
+		</div><!-- END container -->
 	
 	<div id="fb-root"></div>
 	<script type="text/javascript">
@@ -486,7 +345,7 @@
 	</script>
 	
 	<!-- END analytics/_page_tracker.jsp -->
-	
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"1451393","applicationTime":33,"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"808c5dc405","transactionName":"Y1xQNhYECxJSUEYLX1oWeDE0SgkIURxEC1VDSh0OBRwKFEdAHQ5RTVZHFjtVVVRVX10DVFFLHAgXFQ==","agent":"js-agent.newrelic.com\/nr-632.min.js","errorBeacon":"bam.nr-data.net"}</script>
+	<script type="text/javascript">_satellite.pageBottom();</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"1451393","applicationTime":27,"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"808c5dc405","transactionName":"Y1xQNhYECxJSUEYLX1oWeDE0SgkIURxEC1VDSh0OBRwKFEdAHQ5RTVZHFjtVVVRVX10DVFFLHAgXFQ==","agent":"js-agent.newrelic.com\/nr-768.min.js","errorBeacon":"bam.nr-data.net"}</script>
 	
 	</body></html>
