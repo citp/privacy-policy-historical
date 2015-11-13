@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the happysgame.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429233217id_/http%3A//www.happysgame.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happysgame.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113170127id_/http%3A//www.happysgame.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy « HappysGame.com*video game reviews, news, previews, forums and videos *FappysGame.com
+# Privacy policy « video game reviews, news, previews, forums and videos HappysGame.com
 
 #### Privacy policy « 
 
@@ -19,3 +19,5 @@ You must be a legal adult, or acting legal entity in your jurisdiction to downlo
 
 **6\. Changes to this Privacy Policy**  
 Changes may be made to this policy from time to time. You will be notified of substantial changes to this policy by the posting of a prominent announcement on the site.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
