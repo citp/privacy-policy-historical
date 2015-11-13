@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rawthumbs.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515065136id_/http%3A//www.rawthumbs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rawthumbs.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113064442id_/http%3A//www.rawthumbs.com/privacy) for the most accurate reproduction.*
 
 # Raw Thumbs - Raw Pussy Thumbs, Hardcore Sex & Extreme Porn
 
