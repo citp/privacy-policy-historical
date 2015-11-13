@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tutdownload.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508042911id_/http%3A//tutdownload.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutdownload.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113083627id_/http%3A//tutdownload.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Free Tutorials For Download
+# Privacy Policy - Free Tutorials For Download
 
 At tutdownload.com, the privacy of our visitors is of extremely importance to us. This privacy policy document outlines the types of personal information collected by tutdownload.com and its usage.
 
