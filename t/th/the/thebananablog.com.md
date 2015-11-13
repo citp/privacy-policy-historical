@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebananablog.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516095857id_/http%3A//thebananablog.com/blog1/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebananablog.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113191802id_/http%3A//thebananablog.com/blog1/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Banana Blog
 
