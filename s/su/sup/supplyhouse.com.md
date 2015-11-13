@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supplyhouse.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510010541id_/http%3A//www.supplyhouse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supplyhouse.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113054258id_/http%3A//www.supplyhouse.com/privacy) for the most accurate reproduction.*
 
 # At SupplyHouse.com, we are strongly committed to protecting privacy of our customers and our customer's businesses. We know that you may have concerns about privacy while shopping on the Internet and like to ensure you understand the security, protection, and privacy of information we guarantee. - SupplyHouse.com
 
@@ -10,7 +10,7 @@ When you make a purchase on SupplyHouse.com, you are asked to provide the inform
 
 ### Customer Accounts
 
-You may create an account through SupplyHouse.com at any time by providing your e-mail address and creating a unique access password, which will allow some of your information to be safely stored for future orders. Creating an account allows you to save time at checkout, set your ordering preferences, easily refer back to past orders, adjust your personal information and change your e-mail subscription settings. For your privacy and security, *we do not store credit card numbers in your account. You are not required to create an account to visit or order from SupplyHouse.com. If you wish to unsubscribe from future communications you can click on the 'Unsubscribe' link within any e-newsletter.
+You may create an account through SupplyHouse.com at any time by providing your e-mail address and creating a unique access password, which will allow some of your information to be safely stored for future orders. Creating an account allows you to save time at checkout, set your ordering preferences, easily refer back to past orders, adjust your personal information and change your e-mail subscription settings. You are not required to create an account to visit or order from SupplyHouse.com. If you wish to unsubscribe from future communications you can click on the 'Unsubscribe' link within any e-newsletter.
 
 ### How will my information be used?
 
@@ -27,7 +27,7 @@ Information collected on SupplyHouse.com may be used in the following ways:
 
 ### How do you protect my personal and account information?
 
-All of the transactions on SupplyHouse.com are subject to VeriSign's security system, which makes use of 128 bit encryption via digital IDs. These IDs allow us to handle customer's credit card and personal information without the threat of identity theft or hacking. An additional benefit of using this system is that we do not keep any credit card information on file. When you do business with us you can be certain you are dealing with a VeriSign, Inc. certified company. SupplyHouse.com is also tested and certified daily to pass the "McAfee Secure" Security Scan.
+All of the transactions on SupplyHouse.com are subject to VeriSign's security system, which makes use of 128 bit encryption via digital IDs. These IDs allow us to handle customer's credit card and personal information without the threat of identity theft or hacking. When you do business with us you can be certain you are dealing with a VeriSign, Inc. certified company. SupplyHouse.com is also tested and certified daily to pass the "McAfee Secure" Security Scan.
 
 ### Is information shared with third parties?
 
