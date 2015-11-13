@@ -1,150 +1,119 @@
-> *The following text is extracted and transformed from the nearmap.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503083227id_/http%3A//nearmap.com/au/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nearmap.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113013625id_/http%3A//us.nearmap.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy - nearmap
 
-### Summary
+This Privacy Policy explains how information about you is collected, used and disclosed by nearmap US, Inc. ("nearmap", "we", "us" or "our"). This Privacy Policy applies to information we collect when you use our website and other online products and services, or when you otherwise interact with us.
 
-The following is a summary of our privacy policy:
+### 1\. Changes to this Privacy Policy
 
-#### Collecting personal information
+This policy was last updated on 15 September 2015. We might change this Privacy Policy from time to time. When we make changes, we will post a notice on our website homepage and make a new copy of the updated Privacy Policy available here. We encourage you to review the Privacy Policy whenever you access our website or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy.
 
-We collect personal information if you choose to provide it to us, for example by emailing us or entering information about yourself into our website. We also collect navigational data from your use of our website and use cookies to keep track of your use of our website (for example, so that we can remember which nearmap image you were viewing when you last visited our website).
+If you disagree with any changes to this Privacy Policy, you will need to stop using the nearmap website and our other products and services.
 
-#### How we use your personal information
+### 2\. Information we collect
 
-We use personal information you provide us with to obtain a better understanding of your needs and to respond to your queries.
+####  2.1 Information You Provide to Us 
 
-We do not sell, rent or trade personal information to or with third parties. We may, however, disclose your personal information to third party contractors who provide services to us, or when required by law.
+We collect information you provide directly to us. For example, we collect information when you create an account, send us an email to enquire about our website or licence terms, participate in any interactive features of our website or other services, fill out a form, make a purchase, apply for a job, communicate with us via third party social media sites, request customer support or otherwise provide us with information about yourself. The types of information we may collect includes personal information, which is information or an opinion about you, from which you are, or may reasonably be, identified. This information may include (but is not limited to) your name, date of birth, phone number, email address, address, employment history and any other information you choose to provide.
 
-#### Your rights
+Due to the nature of the services provided by us, we do not collect sensitive information (such as information about your religion, trade union membership, political opinion, health, sexual preference or criminal record) or credit information (information about loans that may have been provided to you) about you.
 
-You can seek access to personal information which we hold about you and ask us to correct personal information which is inaccurate, incomplete or out of date.
+If you provide information (including personal information) to us about someone else, you must ensure that you are entitled to disclose that information to us and that, without us taking any further steps required by privacy laws, we may collect, use and disclose such information for the purposes described in this Privacy Policy. For example, you should take reasonable steps to ensure the individual concerned is aware of the various matters detailed in this Privacy Policy. The individual must also provide the consents set out in this Privacy Policy in respect of how we will deal with their information.
 
-#### How to contact us
+#### 2.2 Information We Collect Automatically When You Use Our Website or Services
 
-If you have any questions or comments about this privacy policy, or if you wish to complain about how we have handled personal information about you, please contact us by mailing PO Box R1831, Royal Exchange, NSW 1255, Australia.
+Our server automatically collects information about your use of our website and other services (Log Data). Log Data includes, among other things, the type of browser you are using, access times, your IP address, the URL you have come from and the time spent at that URL, cookies and your domain type and server. This kind of information is collected by many sites. We use this information to monitor your use of our site and your compliance with our license terms.
 
-### Definition
+When you use our website, cookies will also be placed on your computer to keep track of your use of our website. For example, cookies allow us to remember which nearmap image you were viewing when you last visited our website. Cookies do not capture or track any personal information. You may elect to set your computer so that cookies are not placed on your computer. However, if you do not provide the information requested by us, we may not be able to provide you with our services.
 
-In this privacy policy, "we", "us" and "our" means nearmap Australia Pty Limited ABN 16 120 677 250 (‘nearmap’) of PO Box R1831, Royal Exchange, NSW 1255, Australia.
+#### 2.3 Information We Collect from Other Sources
 
-We appreciate that privacy is important to everyone, and we are committed to complying with the Australian Privacy Principles (APPs) which are contained in the Privacy Act 1988 (Cth).
+We may also collect personal information about you from third parties that you have authorized to provide us with such information and combine it with information we collect through our website and other services. For example, we may be provided with your information by LinkedIn or other similar service providers. From time to time we may also purchase lists containing information (including personal information) about individuals from organisations offering such lists for marketing purposes.
 
-### 1\. Who is nearmap?
+### 3\. How we use information we collect
 
-nearmap is a provider of high resolution aerial imagery. We provide online services to approved licensees. We may also market our products and services.
+We use the information we collect about you (including personal information to the extent applicable) for various purposes, including to:
 
-### 2\. What is personal information?
-
-When we refer to personal information we mean information or an opinion about you, from which you are, or may reasonably be, identified. 
-
-This information may include (but is not limited to) your name, date of birth, driver's licence number, marital status, phone number, email address, address, nationality and employment history. 
-
-Due to the nature of the services provided by us, we do not collect sensitive information (such as information about your religion, trade union membership, political opinion, health, sexual preference or criminal record) or credit information (information about loans that may have been provided to you) about you. 
-
-### 3\. Why do we collect your personal information?
-
-We collect information from you for the purposes of providing you with access to our website, including all associated nearmap PhotoMaps and APIs (the Website). From time to time we may use personal information that you have provided to us for the purposes of offering other products and services to you. 
-
-### 4\. How do we collect your personal information?
-
-We will collect personal information about you if you choose to provide it to us. For example, if you send us an email to enquire about our Website or licence terms, or provide us with information about yourself through the Website. We also collect personal information about you from third parties that you have authorised to provide us with this information. For example, we may be provided with your personal information by LinkedIn or other similar service providers. From time to time we may also purchase lists containing personal information about individuals from organisations offering such lists for marketing purposes. Our server automatically collects information about your use of the Website (Navigational Data). Navigational Data includes the type of browser you are using, your IP address, the URL you have come from and the time spent at that URL, cookies and your domain type and server. This kind of information is collected by many sites. We use this information to monitor your use of our site and your compliance with our licence terms.
-
-When you use our Website, cookies will be placed on your computer to keep track of your use of our Website. For example, cookies allow us to remember which nearmap image you were viewing when you last visited our website. Cookies do not capture or track any personal information. However, you may elect to set your computer so that cookies are not placed on your computer.
-
-If you do not provide the information requested by us, we may not be able to provide you with our services. 
-
-If you provide personal information to us about someone else, you must ensure that you are entitled to disclose that information to us and that, without us taking any further steps required by privacy laws, we may collect, use and disclose such information for the purposes described in this Privacy Policy. For example, you should take reasonable steps to ensure the individual concerned is aware of the various matters detailed in this Privacy Policy. The individual must also provide the consents set out in this Privacy Policy in respect of how we will deal with their personal information.
-
-### 5\. How is personal information used?
-
-We use your personal information to assist us in providing the Website to you, or to respond to your enquiries. We may also use your personal information for reasonably related secondary purposes, any other purposes you have consented to and any other purpose permitted under the Privacy Act. This may include using your personal information for the following purposes:
-
-  * to provide you with the products and services you have requested;
-  * to verify your identity;
-  * to assess, process and manage your application to work with us;
-  * for complaints handling; or 
-  * data analytics purposes. 
+  * provide, maintain and improve our website and services;
+  * provide you with the products and services you have requested;
+  * verify your identity;
+  * send you technical notices, updates, security alerts and support and administrative messages;
+  * assess, process and manage your application to work with us;
+  * respond to comments, questions, complaints, requests and provide customer service;
+  * obtain analytic data;
+  * communicate with you about products, services, offers, promotions, rewards, and events offered by nearmap and others, and provide news and information we think will be of interest to you;
+  * carry out any reasonably related secondary purposes; or
+  * carry out any other purpose for which the information was collected.
 
 
 
-### 6\. Will personal information be given to anyone else?
+### 4\. Information sharing and disclosure
 
-In the circumstances described below, personal information may be disclosed outside of our organisation.
+In the circumstances described below, information may be disclosed outside of our organization.
 
-#### 6.1 Third party contractors
+#### 4.1 Third party contractors
 
-Personal information collected by us may be disclosed to third parties to whom we contract out specialised functions (such as our website hosts). If we do disclose personal information to third party contractors under outsourcing or contracting arrangements, we take steps to ensure that those contractors:
+Information collected by us (including personal information) may be disclosed to third parties to whom we contract out specialized functions (such as our website hosts). If we do disclose personal information to third party contractors under outsourcing or contracting arrangements, we take steps to ensure that those contractors are authorised only to use personal information in order to provide the services or to perform the functions required by us.
 
-  1. comply with the APPs when they handle your personal information; and
-  2. are authorised only to use personal information in order to provide the services or to perform the functions required by us. 
-
-
-
-#### 6.2 Disclosures required by law
+#### 4.2 Disclosures required by law
 
 For legal reasons, other disclosures may need to be made to law enforcement agencies, government agencies, courts or external advisors or in accordance with other laws.
 
-#### 6.3 Other disclosures
+#### 4.3 Other disclosures
 
-We do not sell, rent or trade personal information to or with third parties.
+We do not sell, rent or trade personal information to or with third parties for their own uses.
 
-By providing us with your personal information, you consent to us disclosing your information to the entities set out in clause 6.1 or 6.2 without obtaining your consent on a case by case basis. 
+By providing us with your information (including personal information), you consent to us disclosing your information to the entities set out in clause 4.1 or 4.2 without obtaining your consent on a case-by-case basis.
 
-We may from time to time transfer personal information outside Australia in accordance with the Privacy Act to countries whose privacy laws do not provide the same level of protection as Australia’s privacy laws. For example, we may transfer your personal information to the Asia-Pacific, European Union or the United States of America. We may also use cloud storage and IT servers that are located offshore. 
+We may from time to time transfer information to countries whose privacy laws do not provide the same level of protection as your own. For example, we may transfer your information (including personal information) to the Asia-Pacific, European Union, or Australia. We may also use cloud storage and IT servers that are located offshore. By accessing or using our website or services or providing us with your information, you consent to the processing and transfer of information in and to the United States and other countries.
 
-By providing us with your personal information, you consent to us disclosing your information to entities located outside Australia and, when permitted by law to do so, on the basis that we are not required to take such steps as are reasonable in the circumstances to ensure that any overseas recipient complies with Australian privacy laws in relation to your information.
+### 5\. Third-party websites
 
-### 7\. Direct marketing 
+Sometimes our website contains links to other websites, for your convenience and information. When you access a website other than us.nearmap.com, please understand that we are not responsible for the privacy practices of that site. We recommend that you review the privacy policies of each site you visit.
 
-From time to time we may use your personal information to provide you with current information about our products and services, special offers you may find of interest, changes to our organisation, or new products or services being offered by us or any company we are associated with. By providing us with your personal information, you consent to us using your information to contact you on an ongoing basis for this purpose, including by mail, email, SMS, social media and telephone. 
+### 6\. Advertising and analytics services provided by others
 
-If you do not wish to receive marketing information, you may at any time decline to receive such information by contacting our Privacy Contacts using the contact details below. We will not charge you for giving effect to your request and will take all reasonable steps to meet your request at the earliest possible opportunity. 
+We may allow others to provide advertising and analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of our website, products and services, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by nearmap to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests and better understand your online activity.
 
-### 8\. Updating your personal information
+### 7\. Direct marketing
 
-It is important to our relationship that the personal information we hold about you is accurate and up to date. If at any time you are of the view that personal information about you is not accurate, complete or up to date, please write to us with your request for correction. Our policy is to consider any requests for correction in a timely manner.
+From time to time we may use your information (including personal information) to provide you with current information about our products and services, special offers you may find of interest, changes to our organization, or new products or services being offered by us or any company we are associated with. By providing us with information, you consent to us using your information to contact you on an ongoing basis for this purpose, including by mail, email, SMS, social media and telephone.
 
-### 9\. Access to your personal information
+If you do not wish to receive marketing information, you may at any time decline to receive such information by contacting our Privacy Contacts using the contact details below. We will not charge you for giving effect to your request and will take all reasonable steps to meet your request at the earliest possible opportunity.
 
-Under the Privacy Act, you have a right to seek access to information which we hold about you (subject to the limited exceptions set out below). 
+### 8\. Updating your information
 
-If you wish to exercise your right under the Privacy Act to seek access to the personal information that we hold about you, we ask that you write to us and we will explain how we handle your access request. We may charge you for the cost of providing access to these records.
+It is important to our relationship that the information we hold about you is accurate and up to date. If at any time you are of the view that information about you is not accurate, complete or up to date, please write to us with your request for correction. Our policy is to consider any requests for correction in a timely manner.
 
-### 10\. Denied access to personal information
+### 9\. Accessing your information
 
-There may be situations where we are not required to provide you with access to your personal information. For example, such a situation would be information relating to an existing or anticipated legal proceeding with you, or if your request is vexatious. 
+If you wish to access the information that we hold about you, we ask that you write to us and we will explain how we handle your access request. We may charge you for the cost of providing access to these records.
 
-An explanation will be provided to you if we deny you access to your personal information we hold.
+There may be situations where we are not required to provide you with access to your information. For example, such a situation would be information relating to an existing or anticipated legal proceeding with you, or if your request is vexatious.
 
-### 11\. Is personal information stored safely?
+An explanation will be provided to you if we deny you access to your information we hold.
 
-We take reasonable steps to ensure the security of personal information held by us from such risks as loss or unauthorised access, destruction, use, modification or disclosure. Our IT systems are password protected and comply with our security standards, and if personal information is held on paper files, it is stored in premises that are locked when unattended.
+### 10\. Security
 
-### 12\. Business without identifying you
+We take reasonable measures to help protect information held by us from loss, theft, misuse and unauthorised access, destruction, modification or disclosure. Our systems are password protected and comply with our security standards, and if personal information is held on paper files, it is stored in premises that are locked when unattended.
 
-In most circumstances it will be necessary for us to identify you in order to successfully do business with you, however, where it is lawful and practicable to do so, we will offer you the opportunity of doing business with us without providing us with personal information. 
+### 11\. Further information and complaints
 
-### 13\. Third party websites
-
-Sometimes our website contains links to other websites, for your convenience and information. When you access a website other than www.nearmap.com, please understand that we are not responsible for the privacy practices of that site. We recommend that you review the privacy policies of each site you visit.
-
-### 14\. Further information and complaints
-
-You may request further information about the way we manage your personal information or lodge a complaint by contacting our Privacy Officer(s) on the contact details below. 
+You may request further information about the way we manage your information or lodge a complaint by contacting us using the contact details below.
 
 We will deal with any complaint by investigating the complaint, and providing a response to the complainant within a reasonable time, provided that we have all necessary information and have completed any investigation required. In cases where further information, assessment or investigation is required, we will seek to agree alternative time frames with you.
 
-### 15\. Contacting us
+### 12\. Contacting us
 
-You can contact us by writing to us at:
+You can contact us by:
 
-The Privacy Officer  
-Nearmap Pty Ltd  
-PO Box R1831,  
-Royal Exchange, NSW 1255,  
-Australia 
+  1. sending an e-mail to us at: privacy.officer@nearmap.com; or
+  2. writing to us at: 
 
-### 16\. Changes to this Privacy Policy
+nearmap US, Inc.  
+Suite 401, 594 Howard Street,  
+San Francisco, California 94105  
+USA
 
-This policy was last updated on 12 March 2014. We might change this privacy policy from time to time. When we make changes, we will post a notice on our website homepage and make a new copy of the updated privacy policy available here. If you continue to use our website after we do so, you will be taken to have accepted the new privacy policy.
+
+
