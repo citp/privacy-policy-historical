@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dlink.com.au privacy policy that was archived on 2015-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150501201208id_/http%3A//www.dlink.com.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dlink.com.au privacy policy that was archived on 2015-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151113074919id_/http%3A//www.dlink.com.au/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -69,7 +69,7 @@
 <script type="text/javascript">
 //<![CDATA[
 Mage.Cookies.path     = '/';
-Mage.Cookies.domain   = '.www.dlink.com.au';
+Mage.Cookies.domain   = '.dlink.com.au';
 //]]>
 </script>
 
@@ -85,7 +85,7 @@ var versaTag = {};
 versaTag.id = "1965";
 versaTag.sync = 0;
 versaTag.dispType = "js";
-versaTag.ptcl = "HTTP";
+versaTag.ptcl = (window.location.protocol != "https:") ? "HTTP" : "HTTPS";
 versaTag.bsUrl = "bs.serving-sys.com/BurstingPipe";
 //VersaTag activity parameters include all conversion parameters including custom parameters and Predefined parameters. Syntax: "ParamName1":"ParamValue1", "ParamName2":"ParamValue2". ParamValue can be empty.
 versaTag.activityParams = {};
@@ -96,9 +96,9 @@ versaTag.dynamicRetargetParams = {};
 //Third party tags conditional parameters. Syntax: "TagID1":"ParamValue1", "TagID2":"ParamValue2". ParamValue can be empty.
 versaTag.conditionalParams = {};
 </script>
-<script id="ebOneTagUrlId" src="http://ds.serving-sys.com/SemiCachedScripts/ebOneTag.js"></script>
+<script id="ebOneTagUrlId" src="//secure-ds.serving-sys.com/SemiCachedScripts/ebOneTag.js"></script>
 <noscript>
-<iframe src="http://bs.serving-sys.com/BurstingPipe?
+<iframe src="//bs.serving-sys.com/BurstingPipe?
 cn=ot&amp;
 onetagid=1965&amp;
 ns=1&amp;
@@ -113,7 +113,10 @@ dynamicRetargetingValues=$$&amp;
 acp=$$$$&amp;"
 style="display:none;width:0px;height:0px"></iframe>
 </noscript>
-<link type="text/plain" rel="author" href="/humans.txt"></head>
+
+<style>
+body.tech-nz0829 #scroller { display: none; }
+</style><link type="text/plain" rel="author" href="/humans.txt"></head>
 <body class=" cms-page-view tech-dec21f cms-privacy">
 <!-- BEGIN GOOGLE ANALYTICS CODEs -->
 <script type="text/javascript">
@@ -204,12 +207,12 @@ _gaq.push(['_trackPageview']);
 <div id="oe_overlay" class="oe_overlay"></div>
 <script type="text/javascript">
 	
-	jQuery('#oe_overlay').attr('style', 'display:none; top: 138px;');
+	//jQuery('#oe_overlay').attr('style', 'display:none; top: 138px;');
 	
 	jQuery(document).ready(function($) {
 		var $oe_menu		= jQuery('#pronav');
 		var $oe_menu_items	= $oe_menu.children('li');
-		var $oe_overlay		= jQuery('#oe_overlay');
+		var $oe_overlay		= jQuery('#oe_overlay').hide();
 		
 		// $oe_menu.bind('mouseenter',function(){
 			// var $this = jQuery(this);
@@ -227,16 +230,20 @@ _gaq.push(['_trackPageview']);
 		$oe_menu.hover(
 			function() {
 				var $this = jQuery(this);
+				var navTopOffset = $this.offset().top || 0;
 				$oe_overlay.finish().fadeIn(1000);
 				$oe_menu.addClass('hovered');
-				$oe_overlay.attr('style', 'display:block;');
-				$oe_overlay.height($(window).height() - 130);
+				$oe_overlay.show().css({
+					top: navTopOffset + 'px',	
+				});
+				
+				//$oe_overlay.height($(window).height() - 130);
 			},
 			function() {
 				var $this = jQuery(this);
 				$oe_menu.removeClass('hovered');
 				$oe_overlay.finish().fadeOut(1000);
-				$oe_overlay.attr('style', 'display:none; top: 141px;');
+				$oe_overlay.attr('style', 'display:none;');
 			}
 		)
 	});
@@ -376,12 +383,12 @@ _gaq.push(['_trackPageview']);
 	<div class="teaser-col left">
 		<div>
 		<h3><span style="color: #008080;"><a href="http://www.dlink.com.au/home-solutions"><span style="color: #00839e;">Home User</span></a></span></h3>
-<p><span style="color: #000000;">Home networking, cloud services</span></p>		</div>
+<p><span style="color: #000000;">Home Networking, Surveillance, Connected Home, Storage, Mobile Broadband and more</span></p>		</div>
 	</div>
 	<div class="teaser-col right">
 		<div>
 		<h3><a href="http://www.dlink.com.au/business-solutions"><span>Business User</span></a></h3>
-<p><span style="color: #000000;">Business networking, data storage, IP cameras</span></p>		</div>
+<p><span style="color: #000000;">Wireless, Switching, IP Surveillance, Storage and <br>Security Solutions</span></p>		</div>
 	</div>
 <div class="clearer"></div>
 </div>
