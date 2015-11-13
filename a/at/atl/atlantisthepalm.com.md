@@ -1,89 +1,128 @@
-> *The following text is extracted and transformed from the atlantisthepalm.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318131114id_/https%3A//www.atlantisthepalm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantisthepalm.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113064351id_/https%3A//www.atlantisthepalm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Atlantis The Palm Dubai
 
-## Privacy Policy
+* ### OVERVIEW
 
-We are providing you with this Privacy Policy ("Privacy Policy") because we understand that you are concerned about privacy. This Privacy Policy pertains to the [http://www.atlantisthepalm.com/](https://web.archive.org/) website (the "Site") owned and operated by Kerzner International Resorts, Inc., on behalf of its affiliated companies including Atlantis The Palm Limited and its affiliated properties, including Atlantis, The Palm (collectively, "Kerzner", "us" or "we").  This Privacy Policy describes how personal information about you may be collected, used and disclosed by us in the course of business.  It also describes how you can opt-out of some uses of personal information.
+Kerzner International Resorts, Inc. is committed to providing distinctive resorts and unique experiences for our guests.  Consistent with that commitment, we are respectful of the privacy of the personal information that we receive and use in order to provide and offer services. Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements.
 
-This Privacy Policy is incorporated into and is subject to our [Terms and Conditions](https://web.archive.org/terms-conditions). Your use of our services, including this Site and any personal information you provide us remains subject to the terms of this Privacy Policy and our [Terms and Conditions](https://web.archive.org/terms-conditions). If you do not agree with this Privacy Policy please do not use this Site.
+This Privacy Policy describes how we collect, use, safeguard and share information received through this Site and in the course of our business as well as your choices regarding your personal information.
 
-Please review this Privacy Policy carefully.  
-The effective date of this Privacy Policy is: 20 October, 2008.
+As one of our guests and/or a visitor to our Site you understand and agree that we may collect, use and share your personal information in accordance with this Privacy Policy and the Terms and Conditions.
 
-**Information we Collect, How we Collect and its Uses**
+* ### APPLICATION OF THIS PRIVACY POLICY
 
-When using our Site, you may be asked to voluntarily provide certain personal information. You can use our Site without creating an account, but you may need to create an account if you want to take advantage of certain time saving features. Also, upon your registering at check-in we may request that you provide us certain information in our guest cards or similar registration materials. When you place a reservation or register at check-in, we may request your name, email address, mailing address, phone number, credit card number and expiration date. We may also ask for personal information when you contact our reservations department or other customer service departments. This will allow us to assist you better and to protect your confidentiality by verifying your identity.
+This Privacy Policy pertains to the personal information that we collect or receive regarding our guests,  other individuals and visitors to [atlantisthepalm.com](http://www.atlantisthepalm.com/) website (the " **Site** "),  owned and operated by Kerzner International Resorts, Inc., or to Atlantis, The Palm (collectively, “ **Atlantis** ”, “ **us** ” or “ **we** ”). Please review this Privacy Policy carefully to understand our commitment to your privacy.
 
-Your resort stay information is collected and stored by our resort locally, and subsequently transferred to a centralized database in the United States. This facilitates aggregated trend analysis used for resort management purposes such as planning new resort locations, evaluating resort amenities, guest preferences, and advertisement planning. We will take all steps reasonably necessary to ensure your data is treated securely and in accordance with this Privacy policy.  By submitting data to us and/or accessing our Site, you consent to such transfer, storing and processing, unless you inform us otherwise in writing at the address provided below in "How to Contact Us".  In addition, your business with us is valued and we may use the record of your stay to send you via postal mail or email, communications such as guest surveys or promotional offers and benefits. You may "opt-out" or choose to be excluded from these communications by noting this on your guest registration during your resort stay, replying to the address provided in our postal mail or emails to you, or by contacting us as provided below in "How To Contact Us."
+* ### PERSONAL INFORMATION WE COLLECT
 
-Tracking Technology: As a part of our standard data collection process, we collect the e-mail addresses of those who communicate with us via e-mail. We may track your movement within the Site, the pages from which you were referred, access times and browser types. We only use this information in aggregate and do not link it to you personally. To gauge the effectiveness of our Site, we do collect some generic information about our visitors. Our web servers automatically recognize a visitor's domain name, the web page from which a visitor enters our Site, which pages a visitor visits on our Site, and how much time a visitor spends on each page and logs IP addresses. We may use anonymous tracking technologies to collect, store and sometimes track information for statistical purposes and to improve the services we provide. We aggregate this information and use it to evaluate and improve our Site.
+Our Site collects personal information that you voluntarily submit.  We also automatically collect Site usage and other statistical information from visitors to our Site.
 
-We store information that we collect through cookies, log files, clear gifs, and/or third party sources for instance to verify your address and update your information. A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We may use cookies on this Site. We may use session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our Site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. Persistent cookies are used to differentiate subscribers from non-subscribers to customize the content of certain sections of the website and enable us to track and target the interests of our users to enhance the experience on our Site. If you reject cookies, you may still use our Site, but your ability to use some areas of our Site, such as promotions or surveys, may be limited. Some of our business partners may use cookies on our Site and we have no access to or control over these cookies. This Privacy Policy covers the use of cookies by us only and does not cover the use of cookies by any such third parties.
+**3.1 - Personal Information You Provide**
+    When using our Site, you have the ability to voluntarily provide certain information about yourself or others, such as when you create an account, book a reservation or participate in an online promotion. You can use our Site anonymously without creating an account, but you may need to create an account if you want to take advantage of promotions or certain time saving features.Personal information that you may provide through this Site about yourself and those traveling with you includes: 
 
-We are currently using and have contracted with Omniture, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers to administer our Site and constantly improve its quality. All data collected by Omniture on our behalf is owned and used by us. We reserve the right to publish non-personally identifiable, summary information regarding its Site visitors for promotional purposes and as a representative audience for advertisers. Please note that it is not personal information, only general summaries of the activities of our visitors and customers. For more information about Ominiture's and it’s privacy policy, including how to opt out, go to [www.omniture.com/policy.html](http://www.omniture.com/policy.html).
-
-Sweepstakes or Promotions: From time to time we may provide you the opportunity to participate in sweepstakes or other promotions on our Site or otherwise, which might be sponsored or conducted by a third party. If you participate, it may be subject to specific terms and conditions and we will request certain personally identifiable information from you such as name, mailing address, zip code and age. Participation in these sweepstakes is completely voluntary and you therefore have a choice whether or not to disclose this information. We may transfer personal information to certain sponsors and ad partners that you have explicitly requested to receive information from.  It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.
-
-Some of our promotional offers have a feature that allows you to have the offer sent to a friend with your comment. If you choose to use this feature, we collect the postal address of your friend(s) to facilitate the referral.
-
-Surveys: We may from time to time provide a survey for our readers to fill out providing us with demographic information (such as income level and gender) to us. We encourage you to submit this information so we can provide you a more personalized experience on our Site but participation is entirely voluntary.
-
-Third Party Links: We encourage you to be aware when you leave our Site and to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy applies only to information collected by our Site.
-
-Children's Privacy: We respect the privacy of children, and do not collect any more personal information than reasonably necessary to enable them to participate in the activities we offer at our Site. We will not use information collected on our website from children for direct sales solicitations without their parent or guardian’s consent in compliance with applicable law.
-
-Exceptional Circumstances: If Kerzner is sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, the relevant customer database of Kerzner could, in whole or in part, be sold as part of that transaction. In the event Kerzner goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personal information will likely be among the assets transferred. We also may have to release personal information when it is necessary to comply with judicial or other government subpoenas, warrants, orders, to enforce our Terms and Conditions or to protect the rights, property, or safety of Kerzner or others. By accessing our Site, you indicate your acceptance of such transfers and releases of your personal information.
-
-We may use personal information and non-personal information for purposes unrelated to marketing, including:
-
-  1. responding to your inquiries, complaints and other communications;
-  2. processing and fulfilling reservations and/or purchases and making a record of such reservations and purchases;
-  3. bill your credit card for advance purchase reservations and advance deposits;
-  4. contacting you for confirmation or customer service after reservations and purchases are made or after you sign up for or participate in certain activities;
-  5. for statistical or demographic analysis;
-  6. for tracking reservations and corresponding resort stays;
-  7. sending you emails that relate to a resort stay; and
-  8. communicating special offers and featured items to you, if you choose to receive such notices.
+  * Name, gender, nationality, date and place of birth, travel information, passport and visa information; 
+  * Contact information, such as a home or business address, telephone number and email address;
+  * Information that allows us to provide specialized services to you or fulfill special requests, such as accommodating health or dietary conditions , but we do not collect sensitive information about you, such as health information, except as reasonably needed for us to provide services to you ;
+  * Credit card or payment card number, billing address, expiration date and security code;
+  * Sweepstakes eligibility information such as name, age and contact information when participating in a competition; and
+  * Preferences for receiving communications from us or in the course of participating in surveys or promotional offerings.
 
 
+**3.2 - Automatically Collected Information**
+    Our Site is engineered to collect statistical information about those using it to ensure a welcoming and accessible Site.  For this purpose we may track your movement within the Site, the pages from which you were referred, access times and browser types. We only use this information in aggregate and do not link it to you personally. To gauge the effectiveness of our Site, we do collect some generic information about our visitors. Our web servers recognize and automatically log a visitor's domain name, the web page from which a visitor enters our Site, which pages a visitor visits on our Site, how much time a visitor spends on each page, and the visitor’s IP address. We may use anonymous tracking technologies to collect, store and sometimes track information for statistical purposes and to improve the services we provide, including using it to evaluate and improve our Site.  We also collect and store information automatically using cookies and similar technology as described below.
+* ### HOW WE USE YOUR INFORMATION
 
-Our Site is maintained on servers located in the United States, and personal information is also stored on computers located in the United States.  Although we will take all steps reasonably necessary to ensure your data is treated securely and in accordance with this Privacy Policy, the United States may not offer a level of privacy protection for personal information as great as that offered in other jurisdictions.  Therefore, the disclosure of personal information pursuant to this Privacy Policy is at your own risk.  We make no representation that the practices described in this Privacy Policy are compliant with laws outside of the United States that apply to the collection, security, use and disclosure of personal information.
+We may use personal information you submit and non-personal information we automatically collect for the purposes identified in this Privacy Policy for our general business use, including, for example:
 
-**Security**
+  * Processing, fulfilling and recording reservations and/or purchases;
+  * Billing your credit card for advance purchase reservations and advance deposits;
+  * Contacting you for confirmation or customer service after reservations and purchases are made or after you sign up for or participate in certain activities;
+  * Conducting statistical or demographic analysis;
+  * Tracking reservations and corresponding resort stays;
+  * Sending you emails that relate to a resort stay;
+  * Sending you via postal mail or email, communications such as guest surveys or promotional offers and benefits;
+  * Communicating special offers and featured items to you, if you choose to receive such notices;
+  * Responding to your inquiries, complaints and other communications; and
+  * Providing for the safety and security of our guests and staff and meeting our legal and regulatory compliance requirements.
 
-We have security procedures in the storage and disclosure of personal information in order to prevent unauthorized access. Keep in mind however, that no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.  Our Site may also contain links to other websites.  Keep in mind that we do not control and are not responsible for the privacy or security practices or the content of these or other websites.
 
-We cannot enforce or control the security of the computers, electronic devices, or electronic communication method that a consumer may utilize to send e-mails and submit information to us over the Internet.  You are responsible for ensuring that the computers, electronic devices and electronic communication methods you utilize will provide adequate security for communicating with us.  We are not responsible for the disclosure or interception of your information before we receive it.
+* ### COOKIES
 
-**Email Communications**
+We collect and store information through cookies, log files, clear gifs, and/or third party sources to maintain and improve the functionality of our site.   A cookie is a small text file that is stored on a user's computer for record-keeping purposes. It may identify the device you use to access our Site, but it does not collect personal information about you.
 
-We do not intentionally send you unsolicited email marketing communications. If you choose to receive periodic communications from us, we may from time to time send you email messages describing new promotions, featured resorts and special offers. When you join our email list, we request your email address in order to send you email on the latest offers, advanced notice of events, and more. You can choose to stop receiving these emails at any time.
+* ### ACCESSING, UPDATING OR DELETING YOUR PERSONAL INFORMATION
 
-If you are no longer interested in receiving our mail communications, instructions for removal from the list are included in the email we send you.
+If you wish to access or update your personal information or if you wish to delete your profile entirely, please send us a written request either by post or email to the addresses as set out in How To Contact Us section along with your full contact details.  If you wish us to cancel, and/or stop the processing of your personal information we will, subject to our discretion, cancel and/or stop the processing of the personal information. 
 
-**Telemarketing**
+We will not delete personal information that we are required to retain for our business operations or legal compliance. We may require that you provide adequate identification information or documentation before providing your personal information that we hold; this is for your protection.  We will respond to your requests within 20 days of receipt and authentication.
 
-Although you may have registered your telephone number on a do not call list, certain exemptions (for example, for communicating with established customers) may allow us to contact you via telephone. However, to ensure our customer’s preferences are honored, we also maintain our own internal "Do Not Call" list.  If you would like to opt-out of receiving telemarketing sales calls from us regarding new products and services or upcoming events by adding your telephone number to our internal Do Not Call list, please call in the United States at [1-888-528-7155](livecall:1-888-528-7155).
+Please note that you may be charged a fee, if permitted under applicable law, of around US$20 to meet our costs in providing you with details of the personal information we hold about you. 
 
-**How do I Correct or Update my Information**
+* ### DISCLOSING YOUR INFORMATION
 
-You can modify your personal information anytime. Simply contact us as described below in "How To Contact Us" and advise us what information you wish to modify. Please note that we retain your credit card information for a short period after your online reservation or use of the credit card at our properties so we do not retain such information If you wish to delete your profile entirely, please contact us as provided below in "How To Contact Us."
+We may disclose your personal and non-personal information from time to time as permitted by law and this Privacy Policy. We do not share your information with third parties for their use in direct marketing unless we have your permission. We may share your personal information if you request or authorize us to do so. Otherwise we may disclose your information only as follows:
 
-**Changes to this Privacy Policy**
+**7.1 - Aggregated Information**
+    We may disclose your non-private, aggregated, or otherwise non-personal information, such as usage statistics, to our affiliates and third parties without restriction.
+**7.2 - Among our Affiliated Companies**
+    Your personal information and non-personal information may be shared for any purpose among the Kerzner family of companies. Each of our companies subscribes to this Privacy Policy and will treat your information in accordance with this Policy.
+**7.3 - Completing Your Transactions**
+    We may share your personal information with third parties in order to complete a transaction that you have requested.  This may include payment processing, obtaining approval for credit offered to you, or fulfilling your requests for services or products.
+**7.4 - Service Providers and Agents**
+    We may share your personal information with service providers, contractors, agents, outside vendors or service providers to perform functions on our behalf. This may include analyzing data, providing marketing assistance, providing customer service, processing orders, facilitating communications with you, or enhancing your experiences when you stay with us.
+**7.5 - Legal Requirements**
+     We may disclose your personal information to comply with the law, applicable regulations, governmental and quasi-governmental requests, court orders or subpoenas, to enforce our Terms of Use or other agreements, or to protect our rights, property or safety or the rights, property or safety of our users or others.
+**7.6 - Corporate Transactions**
+    If Kerzner and/or Atlantis is sold or disposed of as a going concern, whether by merger, sale of all or part of our assets or otherwise, the relevant customer database of Kerzner and/or Atlantis could, in whole or in part, be sold as part of that transaction. In the event Kerzner and/or Atlantis goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personal information will likely be among the assets transferred.
+* ### DATA PROCESSING AND CROSS-BORDER DATA TRANSFERS
 
-We reserve the right to revise this Privacy Policy at any time without notice.  From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our Privacy Policy. If our information practices change at some time in the future, we will post the Privacy Policy changes to our Site to notify you of these changes and provide you with the ability to opt out of these new uses. Any revised Privacy Policy will only apply prospectively to personal information or non-personal information collected or modified after the effective date of the revised policy. You should periodically review the Privacy Policy available at our Site for revisions.  Use of our Site after revision of the Privacy Policy signifies your consent to the revised Privacy Policy.
+Our Site is maintained on servers located in Dubai, United Arab Emirates, and personal information submitted through our Site is stored on servers located in the United Arab Emirates. Personal information submitted through our Site in connection with a booking is provided to the applicable resort. Personal information submitted in connection with your stay at Atlantis, The Palm is stored by our resort locally and also transferred to servers located in the United Arab Emirates.
 
-**How to Contact Us**
+Personal information is transferred to our computers in the United Arab Emirates to facilitate aggregated trend analysis used for resort management purposes such as planning new resort locations, evaluate resort amenities and guest preferences, and for advertisement planning. In relation to personal information collected relating to Dubai which does not have existing data protection legislation, such data is covered by our own policies and procedures which are designed to ensure an adequate level of protection. 
 
-If you have any questions regarding this Privacy Policy, please contact us at our postal address:
+While we will take steps reasonably necessary to ensure your personal information is treated securely and in accordance with this Privacy Policy and the United Arab Emirates, and the resort country may not offer a level of privacy protection for personal information as great as that offered in your home country or other jurisdictions. Therefore, disclosing your personal information to us pursuant to this Privacy Policy is at your own risk. We strive to comply with the laws of jurisdictions in which we maintain resorts, but we make no representations that the practices described in this Privacy Policy are compliant with laws outside of those jurisdictions that apply to the collection, security, use, processing, transfer and disclosure of personal information. 
 
-1000 South Pine Island Road  
-Plantation, Florida 33324  
-United States of America
+When you make booking on this Site or check in at these properties you expressly consent to such transfer, storing and processing, unless you notify us specifically in writing at the address provided below in “How to Contact Us”.
 
-If you do not want to receive e-mail from us in the future, please let us know by calling us in the United States at [1-888-528-7155](livecall:1-888-528-7155). If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us in the United States at [1-888-528-7155](livecall:1-888-528-7155), or by replying to the address provided on such mailings.
+* ### SECURITY
 
-Upon request we provide Site visitors with access to all information that we maintain about them. Customers can access this information and if errors are found, request that this information be corrected by calling us in the United States at [1-888-528-7155](livecall:1-888-528-7155), or by writing to us at the address provided above.
+We use reasonable technical, administrative and physical measures to protect personal information contained in our system against misuse, loss or alteration. Keep in mind however, that no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you feel that this Site is not following its stated policy, please contact the Web Administrator at the corporate office in the United States by calling us at [954-809-2000](livecall:954-809-2000).
+We cannot enforce or control the security of the computers, electronic devices, or electronic communication method that a consumer may utilize to send e-mails and submit personal information to us over the Internet. You are responsible for ensuring that the computers, electronic devices and electronic communication methods you utilize will provide adequate security for communicating with us. You are also responsible for the use of any user name and password you create to access this Site; any instructions we receive using your login information will be treated as authorized by you. We are not responsible for the disclosure or interception of your personal information before we receive it.
+
+* ### YOUR CHOICES
+
+We offer you the choice of how you receive communications from us.  You have the right to tell us to stop using your information for our direct marketing purposes.  Please send your written request, including your name and contact information to the address listed below in " **How To Contact Us** ".  We will honor your request within 20 days of receiving it. Please be aware that opting out will not prevent us from sending you communications about your transactions or your account with us. 
+
+* ### THIRD PARTY LINKS 
+
+We may permit third parties to link to this Site or to post a link to their site on ours. We do not endorse these sites and are not responsible for other sites or their privacy practices. We encourage you to be aware when you leave our Site and to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy applies only to personal information collected by our Site.
+
+* ### CHILDREN'S PRIVACY 
+
+This Site is not designed nor intended to be attractive for use by children under the age of 13.  We do not knowingly collect from children under the age of 13, though we may collect personal information about a child that is provided by a parent or guardian. We respect the privacy of children, and do not collect any more personal information than reasonably necessary to enable them to participate in the activities we offer at our Site. We will not use personal information knowingly collected on our website from children for direct sales solicitations without their parent or guardian’s consent and in compliance with applicable law.
+
+* ### CHANGES TO THIS PRIVACY POLICY
+
+From time to time and without notice we may make changes to this Privacy Policy to reflect any changes to our privacy practices in accordance with changes to legislation, best practice or website enhancements. From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our Privacy Policy. If our information practices change at some time in the future, we will post the Privacy Policy changes to our Site to notify you of these changes and provide you with the ability to opt out of these new uses. Any revised Privacy Policy will only apply prospectively to personal information or non-personal information collected or modified after the effective date of the revised policy. You should periodically review the Privacy Policy available at our Site for revisions. Use of our Site after revision of the Privacy Policy signifies your consent to the revised Privacy Policy.
+
+* ### HOW TO CONTACT US
+
+If you have any questions or complaints regarding this Privacy Policy or any requests concerning your personal information, please contact us by email at [info@atlantisthepalm.com](mailto:info@atlantisthepalm.com) or by mail at our postal address:
+
+**Customer Services**  
+Atlantis, The Palm  
+P.O. Box 211222  
+Crescent Road  
+The Palm  
+Dubai, United Arab Emirates 
+
+
+In order to ensure your request is dealt with expeditiously, please be sure to include your full name, address and telephone number and a copy of a document evidencing your identity (such as an ID card or passport) so we can ascertain your identity and whether we have any personal information regarding you, or in case we need to contact you to obtain any additional information, we may require to make that determination.
+
+If you feel that this Site is not following its stated policy or complying with applicable privacy laws, please contact us by sending an email to [info@atlantisthepalm.com](mailto:info@atlantisthepalm.com). 
+
+* ### EFFECTIVE DATE
+
+The effective date of this Privacy Policy is March 2015.
