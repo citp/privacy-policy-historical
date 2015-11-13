@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the longwoodgardens.org privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430203123id_/http%3A//longwoodgardens.org/Privacy_1_4_2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longwoodgardens.org privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113223343id_/http%3A//longwoodgardens.org/privacy) for the most accurate reproduction.*
 
-# Privacy - Longwood Gardens
+# Privacy | Longwood Gardens
 
 Thank you for visiting Longwood's web site. Ensuring the privacy and security of your personal information is very important to us. We will never share, sell, or rent your personal information with anyone in ways different from what is disclosed in this statement, or unless ordered by a court of law. We maintain a variety of physical, electronic and procedural safeguards to protect your personal information. We have created this online privacy policy to explain our commitment to your privacy and the protection of your information.
 
-## Restrictions on Use 
+## Restrictions on Use
 
 This site is owned and operated by Longwood Gardens, Inc. The information on this site is provided to assist you in planning your visit to Longwood Gardens, and it is for this purpose only that the site may be used. While we encourage you to print information which will help plan your visit, no photographs, images or other materials from our site may be copied, downloaded, transmitted, distributed or used in any other way, including for any commercial use. Also, you may not alter or attempt to alter any materials or information on the site, or the site itself.
 
@@ -34,12 +34,12 @@ a. If you join our email list, we will have a record of your email address and 
 
 b. If you obtain or renew a Longwood Gardens membership, your information will be used to fulfill the financial transaction you have initiated, and your information will be added to our membership database for maintenance and communications to you regarding your membership.
 
-c. If you use our tell a friend (optional), the email address(es) you provide will only be used to send your message – these contacts will not be added to our organizational lists or receive any further communications from us unless they separately decide to join our organization. 
+c. If you use our tell a friend (optional), the email address(es) you provide will only be used to send your message – these contacts will not be added to our organizational lists or receive any further communications from us unless they separately decide to join our organization.
 
 Be advised that we use third-party vendors to provide services on this site and in our offline business operations. The information that you submit on this site may be provided to those vendors on a confidential basis so that those vendors can provide services (such as maintaining our database, sending email messages, facilitating our online activities and campaigns, or processing credit card transactions) on our behalf.
 
 From time to time, we partner with other carefully selected cultural organizations in the Philadelphia and Delaware Valley area, so that these organizations may advise you of their events. This gives you the fullest knowledge of cultural happenings in our area. If for any reason you would like to be removed from this partnership list, please email or write to us at the address below and we will take your name off of the list immediately.  
-Email:  listremoval@longwoodgardens.org 
+Email:  [listremoval@longwoodgardens.org](mailto:listremoval@longwoodgardens.org)
 
 ## Cookies
 
@@ -60,16 +60,16 @@ If you choose to renew or purchase a membership online, you will have to provide
 Longwood Gardens reserves the right, in its sole discretion and without any obligation, to modify or correct any errors or omissions in any portion of this web site. If our information practices change at some time in the future we will post the policy changes to tickets.longwoodgradens.org to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.  
 Contact us for questions:
 
-  * regarding this policy statement, 
-  * the practices of this site, 
-  * if you feel that this site is not following its stated information policy, 
+  * regarding this policy statement,
+  * the practices of this site,
+  * if you feel that this site is not following its stated information policy,
   * or to review or request changes to your contact information,
 
 
 
-You may contact us at the address below.  
-Marketing and Public Relations   
-Longwood Gardens  
-P.O. Box 501  
-Kennett Square, PA 19348  
-or by e-mail at marketing@longwoodgardens.org 
+Questions? Please contact: 
+
+Longwood Gardens, Marketing and Public Relations   
+E-mail: [marketing@longwoodgardens.org](mailto:marketing@longwoodgardens.org)  
+Mail: P.O. Box 501  
+Kennett Square, PA 19348
