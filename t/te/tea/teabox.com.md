@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teabox.com privacy policy that was archived on 2015-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150311201126id_/http%3A//www.teabox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teabox.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113135414id_/http%3A//www.teabox.com/privacy) for the most accurate reproduction.*
 
 # Teabox Privacy Policy
 
@@ -54,3 +54,5 @@ The Site encrypts your credit card number and other personal information using s
 If you are a registered user, you may access and update your registration information and your preferences to receive email or other communications from us by sending an email to [info@teabox.com](mailto:info@teabox.com). Please note that your friends and contacts may still choose to send email invitations to you. Any user who receives an email invitation to join the Site may choose not to receive such invitations in the future by following the instructions in the email invitations and, in addition, if you are a member, you may also choose not to receive such invitations by changing your preferences as indicated above. We will take commercially reasonable steps to implement your opt-out requests promptly, but you may still receive communications from us for up to ten business days as we process your request.
 
 While we make efforts to accommodate requests to restrict our use of your information, we reserve the right to delete all or any portion of customer information if we are not able to reasonably accommodate a requested restriction.
+
+SPREAD THE WORD [Refer a friend ](http://www.teabox.com/refer-a-friend/)and get $10 for yourself and your friend. 
