@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telegraphtoday.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628001631id_/http%3A//www.telegraphtoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telegraphtoday.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113195148id_/http%3A//www.telegraphtoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Telegraph Today
 
@@ -12,7 +12,7 @@ We may collect personal identification information from Users in a variety of wa
 
 **Non-Personal Identification Information**
 
-We, our third party service providers, advertisers, advertising networks and platforms, agencies, and partners may collect various types of information that are anonymous, de-identified or otherwise not intended to personally identify Users whenever they interact with our Site. A representative, non-exhaustive list of the types of non-personal identification information collected may include: network or Internet protocol address and type of browser you are using (e.g., Chrome, Safari, Firefox, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS), the domain name of your Internet service provider (e.g., Comcast, Verizon or AT&T), mobile network, device identifiers, advertising identifiers, the web pages of the Site you have visited, sites visited before and after you visit the Site, the type of handheld or mobile device used to view the Site (e.g., iPhone, Blackberry), general location information (e.g., city, county, and/or state), the content and advertisements you have accessed, seen, forwarded and/or clicked on.
+We, our third party service providers, advertisers, advertising networks and platforms, agencies, and partners may collect various types of information that are anonymous, de-identified or otherwise not intended to personally identify Users whenever they interact with our Site. A representative, non-exhaustive list of the types of non-personal identification information collected may include: network or Internet protocol address and type of browser you are using (e.g., Chrome, Safari, Firefox, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS), the domain name of your Internet service provider (e.g., Comcast, Verizon or AT&T), mobile network, device identifiers, advertising identifiers, the web pages of the Site you have visited, sites visited before and after you visit the Site, the type of handheld or mobile device used to view the Site (e.g., iPhone, Blackberry), general location information (e.g., city, county, and/or state), demographics, interests, and the content and advertisements you have accessed, seen, forwarded and/or clicked on.
 
 **Web Browser Cookies**
 
@@ -30,7 +30,7 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 We do not sell, trade, or rent Users’ personal identification information to others.
 
-We may disclose information we have collected from you or the device used to access the Sites in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency’s request, or where we believe in our sole discretion it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Use](http://www.cnn.com/terms), to verify or enforce compliance with the policies governing our Sites and applicable laws or as otherwise required or permitted by law or consistent with legal requirements.
+We may disclose information we have collected from you or the device used to access the Sites in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency’s request, or where we believe in our sole discretion it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Use](http://www.telegraphtoday.com/terms-of-use/), to verify or enforce compliance with the policies governing our Sites and applicable laws or as otherwise required or permitted by law or consistent with legal requirements.
 
 In addition, we may transfer information if we, or one of our business units, are acquired by, sold to, merged with or otherwise transferred to another entity.
 
@@ -51,6 +51,10 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 **Compliance with Children’s Online Privacy Protection Act**
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
+**Opt-out**
+
+If you would like to opt-out of having your information anonymously collected for marketing research you can download the [Google Analytics Opt-out Browser Add-on here](https://tools.google.com/dlpage/gaoptout/).
 
 **Changes to this Privacy Policy**
 
