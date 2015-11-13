@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agilone.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607093344id_/http%3A//www.agilone.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agilone.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113161301id_/http%3A//www.agilone.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | AgilOne | Predictive Marketing Cloud
+# Privacy Policy - AgilOne | Predictive Marketing Cloud
 
 ### Privacy Policy
 
@@ -105,7 +105,7 @@ Questions, comments, or complaints regarding this Policy or AgilOne’s data col
 
 Attention: Privacy Officer  
 AgilOne  
-1091 N. Shoreline Blvd, Suite 250  
-Mountain View, CA 94043  
+771 Vaqueros Ave  
+Sunnyvale, CA 94085  
 Email: [info@agilone.com](mailto:info@agilone.com)  
 Phone: (877) 769 3047
