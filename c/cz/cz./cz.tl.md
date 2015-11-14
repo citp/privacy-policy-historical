@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cz.tl privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625223921id_/http%3A//www.own-free-website.com/en/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cz.tl privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114210427id_/http%3A//www.own-free-website.com/en/Privacy-Policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Create your Homepage for Free - 100% for Free
+# Privacy Policy - Create your Website for Free - 100% for Free
 
 ## Privacy Policy
 
@@ -98,6 +98,6 @@ Virchowstraße 20B
 90409 Nuremberg  
 GERMANY
 
-E-Mail: support-enwebme.com
+E-Mail: supportown-free-website.com
 
 **Status: 17. August 2012**
