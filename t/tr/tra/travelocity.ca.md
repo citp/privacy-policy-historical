@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelocity.ca privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105036id_/http%3A//www.travelocity.ca/p/info-other/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelocity.ca privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114085156id_/https%3A//www.travelocity.ca/p/info-other/privacy-policy.htm) for the most accurate reproduction.*
 
 # Travelocity.ca Privacy Policy | Travelocity.ca
 
@@ -97,7 +97,7 @@ From time to time we may add or enhance services available using the Travelocity
 
 ## With whom will my personal information be shared?
 
-When you book travel using the Travelocity Service, we provide to the airline, hotel, car-rental company, cruise line or other involved Third Party Supplier that portion of your personal information that is needed for the successful fulfillment and servicing of your travel arrangements. We encourage you to read the privacy statements of all such Third Party Suppliers as their policies may be materially different from this Privacy Policy. 
+When you book travel using the Travelocity Service, we provide to the airline, hotel, car-rental company or other involved Third Party Supplier that portion of your personal information that is needed for the successful fulfillment and servicing of your travel arrangements. We encourage you to read the privacy statements of all such Third Party Suppliers as their policies may be materially different from this Privacy Policy. 
 
 We use third parties to provide a portion of the services and technology that make up the Travelocity Service. Travelocity provides these third parties with access to personal information specifically for use in connection with providing such services and/or technology. 
 
@@ -105,7 +105,8 @@ Occasionally, we use third parties to act on our behalf for projects such as mar
 
 The information we provide to third parties who provide us with services, act on our behalf, or provide co-branded products is protected by confidentiality agreements and is to be used solely for the purpose(s) permitted by such agreements. 
 
-We may also share personal information among our corporate affiliates at Sabre. The Sabre privacy policy is available at <http://www.sabre.com/home/privacy_policy>.  
+We may also share personal information with our parent company, Expedia, Inc., and corporate affiliates, including Hotwire and hotels.com, as well as international corporate affiliates such as Expedia.co.uk. 
+
 We use non-personal information in aggregate form to build higher quality, more useful online services by performing statistical analyses of the collective characteristics and behavior of our customers and visitors, and by measuring demographics and interests regarding specific areas of our site. We may provide anonymous statistical information based on this data to suppliers, advertisers, affiliates and other current and potential business partners. We may also use such aggregate data to inform these third parties as to the number of people who have seen and clicked on links to their web sites. We may also provide non-personal information in aggregate form to third parties who provide a portion of the services and/or technology that make up the Travelocity Service so they can optimize, maintain, support and improve the Travelocity Service. 
 
 We may also disclose personal information if required to do so by law, court order, as requested by other government or law enforcement authority, or in the good faith belief that disclosure is otherwise necessary or advisable including, without limitation, to protect the rights or properties of Travelocity or its affiliated companies or when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities. Finally, we may share your information in connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. 
@@ -128,7 +129,7 @@ While no website can promise complete security, we have implemented administrati
 
 ## Data Storage outside of Canada
 
-Please be aware that your information may be transferred to, stored, and processed in the United States, where our servers are located and our central database is operated as well as other countries. The data protection and other laws of the United States and these other countries might not be as comprehensive as those in your country, by using our services, your understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy. 
+Please be aware that your information may be transferred to, stored, and processed in the United States, where our servers are located and our central database is operated as well as other countries. The data protection and other laws of the United States and these other countries might not be as comprehensive as those in your country, by using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy. 
 
 ## What other information should I know about my privacy?
 
@@ -138,7 +139,7 @@ If you are referred to this web site from another web site (for example through 
 
 We do not and will not, at any time, request your credit card information, login name, or password, in an unsecure or unsolicited e-mail or telephone communication. Identity theft and the practice currently known as "phishing" are of great concern to us. Safeguarding information to help protect you from identity theft is our priority. For more information about phishing, you may want to visit the RCMP website at http://www.rcmp-grc.gc.ca/scams/phishing_e.htm. 
 
-This Privacy Policy was last revised on March 14, 2014. We may change or supplement this Privacy Policy from time to time. Any material changes in the way we use personal information will be described in future versions of this Privacy Policy. If any proposed change is unacceptable to you, you may request that we remove your personal information from our records by e-mailing us via this [link](mailto:travelocity@Travelocity.com). Also, please review the information above under the heading "How can I update or correct my personal information?" Of course, you may always submit concerns regarding our Privacy Policy or our privacy practices via email by clicking on the same link. Please reference the privacy policy in your subject line. You can also write to us at: Travelocity, 3150 Sabre Drive, Southlake, Texas 76092 Attn: Privacy Team. 
+This Privacy Policy was last revised on 22 January, 2015. We may change or supplement this Privacy Policy from time to time. Any material changes in the way we use personal information will be described in future versions of this Privacy Policy. If any proposed change is unacceptable to you, you may request that we remove your personal information from our records by e-mailing us via this [link](mailto:travelocity@Travelocity.com). Also, please review the information above under the heading "How can I update or correct my personal information?" Of course, you may always submit concerns regarding our Privacy Policy or our privacy practices via email by clicking on the same link. Please reference the privacy policy in your subject line. You can also write to us at: Travelocity, 3150 Sabre Drive, Southlake, Texas 76092 Attn: Privacy Team. 
 
   
 
