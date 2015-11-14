@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tmohentai.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527200652id_/http%3A//www.tmohentai.com/es-ES/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmohentai.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114130654id_/http%3A//www.tmohentai.com/index.php/es-ES/policies) for the most accurate reproduction.*
 
 # Privacy Policy
 
-##  [ Privacy Policy](http://www.tmohentai.com/policies)
+##  [ Privacy Policy](http://www.tmohentai.com/index.php/policies)
 
 ## What information do we collect?
 
