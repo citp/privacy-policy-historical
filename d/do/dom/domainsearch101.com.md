@@ -1,78 +1,67 @@
-> *The following text is extracted and transformed from the domainsearch101.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103013811id_/http%3A//domainsearch101.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainsearch101.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115005442id_/http%3A//domainsearch101.com/privacy-policy) for the most accurate reproduction.*
 
-# DomainSearch101 Privacy Policy
+# Privacy Policy — One Stop Domain Search
 
-DomainSearch101.com is committed to maintaining the privacy of personal information that you provide to us when using any of our online services. This Privacy Policy describes how we treat the information we receive when you transmit data to any machine owned by DomainSearch101.com 
+## Privacy Policy
 
-### Web Form Information
+Welcome to http://domainsearch101.com (the “Site”).We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by DomainSearch101 (collectively, “Services”) (“Authorized Customers”).
 
-When you submit information to DomainSearch101.com to make a payment or open an account, we may collect personally identifiable information from you that may include your name, address, email address, and credit card number. We do not knowingly collect personal information from persons under the age of eighteen.
+“Personally Identifiable Information” 
 
-### Web Site Usage Information
+refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
 
-We automatically collect IP addresses and Web site usage information from you when you access any of our online services. This information helps us evaluate how our visitors and subscribers use and navigate our Web sites on an aggregate basis, including but not limited to, the number and frequency of visitors and subscribers to each web page and the length of their visits.
+What Personally Identifiable Information is collected? 
 
-### How We Use Information Collected
+We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
 
-We may use information in the following ways:
+What organizations are collecting the information? 
 
-  * To perform the actions for which you specifically provided the information (For example, enabling us to process, validate, and verify purchases). 
-  * To register you as a client and establish an account for you. 
-  * To send you email notifications about our new or existing DomainSearch101.com products and services, special offers, or to otherwise contact you. 
-  * To enhance existing features or develop new features, products and services. 
-  * To provide advertisers and other third parties with aggregate information about our user base and usage patterns. 
-  * To allow us to personalize the content and advertising that you and others see based on personal characteristics or preferences. 
+In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
 
+How does the Site use Personally Identifiable Information?
 
+We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.
 
-Except as specifically set forth in this Privacy Policy, we will not share your personally identifiable information with any entity outside of DomainSearch101.com.
+With whom may the information may be shared?
 
-We may disclose and use personally identifiable information in special circumstances where it is necessary to enforce our service agreements or terms of use (for example to protect our intellectual property rights). We may also disclose or use your personal information when we, in good faith, believe that the law may require us to do so.  
+Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to “opt out” of receiving information or being contacted by us or by any agency acting on our behalf.
 
+How is Personally Identifiable Information stored?
 
-### Cookies
+Personally Identifiable Information collected by DomainSearch101 is securely stored and is not accessible to third parties or employees of DomainSearch101 except for use as indicated above.
 
-We define a cookie as any string of data that is automatically stored on your computer upon access to our online services. DomainSearch101.com employs cookies to assign temporary identification numbers to machines that access our web servers. This information enables us to deliver faster service to our subscribers, prevent denial of service attacks on our systems, detect and prevent fraudulent transactions, and assist with awarding proper sales credit to our partners. All DomainSearch101.com cookies are 1) of limited duration, 2) less than 5KB in length, 3) only visible to DomainSearch101.com web servers, and 4) devoid of any personally identifiable information.  
+What choices are available to Visitors regarding collection, use and distribution of the information?
 
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at
 
-### Security
+Are Cookies Used on the Site?
 
-The personally identifiable information we collect about you is stored in limited access servers. We maintain safeguards to protect the security of these servers and your personally identifiable information. We retain personally identifiable information only as long as necessary to complete a purchase, thwart fraud, provide customer service, or maintain your account with us.  
+Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
+How does DomainSearch101 use login information? 
 
-### Policy Modifications
+DomainSearch101 uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
 
-We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically.  
+What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?
 
+DomainSearch101 has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information. Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
 
-### Comments and Questions
+How does the Site keep Personally Identifiable Information secure?
 
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us by submitting your inquiry to our [Customer Service department](https://web.archive.org/web/20111103013811id_/http%3A//domainsearch101.com/contact.html).
+All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
 
-### Free Special Offers
+How can Visitors correct any inaccuracies in Personally Identifiable Information?
 
-**Email Address** _*_  
-  
----  
-First Name  
-  
-Last Name  
-  
-  
-  
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at support at domainsearch101dotcom
 
+Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?
 
-### 60-Day Money-Back Guarantee
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting . However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
 
-Clickbank is the most trusted Digital Product Retailer which utilizes advanced encryption technologies to ensure that your information is 100% safe and secured at all times. 
+What happens if the Privacy Policy Changes?
 
-ClickBank will, at its discretion, allow for the return or replacement of any defective product within 60 days from the date of purchase. 
+We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
 
-### Additional Ajax Resources 
+Links:
 
-  * [YAHOO! (YUI) Ajax Library](http://developer.yahoo.com/yui/)
-  * [JQuery Ajax Library](http://jquery.com/)
-  * [Google Ajax Web Toolkit ](http://code.google.com/webtoolkit)
-  * [The Dojo Toolkit](http://dojotoolkit.org/)
-
-
+http://domainsearch101.com contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
