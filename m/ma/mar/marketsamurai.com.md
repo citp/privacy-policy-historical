@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketsamurai.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506164747id_/http%3A//www.marketsamurai.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketsamurai.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114125134id_/http%3A//www.marketsamurai.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Market Samurai
 
