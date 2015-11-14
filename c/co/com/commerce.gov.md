@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commerce.gov privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629025849id_/http%3A//www.commerce.gov/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commerce.gov privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114134822id_/https%3A//www.commerce.gov/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Department of Commerce
 
@@ -45,7 +45,7 @@ Cookies are small files that Web servers place on a user's hard drive. They can 
 
 We will retain data the technology makes available only as long as required by law, or specific program need as specified by the National Archives and Records Administration’s General Records Schedule 20, which pertains to Electronic Records or other approved records schedule as applicable.
 
-If you are concerned about the potential use of the information gathered from your computer by cookies, you can set your browser to prompt you before it accepts a cookie. You can remove or block the use of web measurement and customization technologies by changing the setting of your browser to block cookies as described at <http://www.usa.gov/optout_instructions.shtml>.
+If you are concerned about the potential use of the information gathered from your computer by cookies, you can set your browser to prompt you before it accepts a cookie. You can remove or block the use of web measurement and customization technologies by changing the setting of your browser to block cookies as described at <https://www.usa.gov/optout-instructions>.
 
 **Personal Information via Forms** : Some of our sites provide forms allowing visitors to submit search engine queries, questionnaires, feedback, or other information. Some of these forms may request personally identifiable information (e.g., name, address, e-mail address) for specific purposes, such as when the submitter is requesting a personal response, registering for a conference, or subscribing to a mailing list.  **All information submitted by visitors is voluntary.**
 
