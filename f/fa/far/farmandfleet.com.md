@@ -1,67 +1,124 @@
-> *The following text is extracted and transformed from the farmandfleet.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610011920id_/http%3A//www.farmandfleet.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmandfleet.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114121526id_/http%3A//www.farmandfleet.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Blain's Farm & Fleet : Privacy Statement
 
 ### We Respect Your Privacy
 
-We respect your privacy. For that reason, we have developed this privacy policy statement to help you understand what information we gather online and what we do with that information. 
+We respect your privacy. For that reason, we have developed this privacy policy statement to help you understand the information we collect and what we do with that information. This policy applies to our interactions with our customers and visitors, including, but not limited to:
 
-We encourage you to review the privacy policy statement. If you have any questions or comments about it, please contact us using the information provided below. 
+  * Use of our websites, including mobile websites
+  * Visits to our stores or attendance at one of our events
+  * Use of our site by mobile phones, tablets or other smart devices
+  * Phone and email communications
+  * Social media interactions on our websites and other third party websites like Facebook, YouTube and Twitter
+  * Viewing our online advertisements or emails
 
-###   
-1\. Information We Gather
 
-We believe it is important for you to know how we use and treat the information we receive and collect about you through this site. 
 
-In general, you can visit Blain’s Farm & Fleet on the World Wide Web without telling us who you are or revealing any personal information about yourself. We do keep track of the pages viewed by each visitor, but none of the information we collect identifies you personally. Instead, our web server automatically collects some information about you when you request pages from our server, including your IP address, which is a number that is used by computers connected to the Internet to identify your computer so that data (such as the web page you request) can be sent to you. We aggregate this data with data on the pages visited by other visitors to track overall visitor traffic patterns. We use this information to improve our site by making it more responsive to the needs and preferences of our users. We may provide aggregate statistics to reputable parties about the visitors to our site, but these statistics will not include any personal or private information that identifies you. 
-
-Blain’s Farm & Fleet collects personally identifiable information, such as names, addresses, email addresses and the like, only when voluntarily provided by a visitor to the site. We collect information when you register online, update your account, log-in, place orders, opt-in to receive emails, shop online, and participate in contests, promotions or surveys. You can choose not to provide certain information, but you may not be able to take advantage of many of our features. 
-
-###   
-2\. How We Use Your Information. 
-
-We use the information you provide for purposes such as responding to your requests, customizing future shopping for you, improving our store, providing you with discounts and special offers through mail and email, and communicating with you. 
-
-When an order is placed on our website, we keep a record of this information to process the order, track shipments and contact you via email, postal mail, or by telephone if we encounter any questions or issues with your order. You may also receive order confirmations and status emails from us. 
-
-You should be aware that Blain’s Farm & Fleet will disclose specific information about you if it is required to do so by law, governmental request, process or court order if a good faith belief exists that compliance is necessary to conform or comply with the law. 
-
-If you would like to remove your name from Blain’s Farm & Fleet’s mail or email lists, please contact our Customer Support Team using the information found in paragraph 8 below. We do not sell or rent any of your personally identifiable information to third parties. 
+We encourage you to review the privacy policy statement. If you have any questions or comments about it, please contact us using the information provided below.
 
 ###   
-3\. Cookies, Web Beacons, and Use of Google Analytics 
+The Information We Collect
 
-Web technologies called “cookies”, “web beacons”, and “Google Analytics” are used on some pages of our site. These technologies assist us in recognizing your web browser as a previous visitor, remembering your preferences, customizing the content and advertising on our site and other sites on the internet, monitoring traffic patterns on our site, and measuring the effectiveness of features, advertisements, and other communication of our site. The use of these web technologies does not facilitate the merging of personally identifiable information with non- personally identifiable information. 
+We may collect Personally Identifiable Information ("PII") directly from you or from a third party. This information includes but may not necessarily be limited to:
 
-Cookies are small data text files that, if your web browser permits, can be stored on your computer’s hard drive. You may set your web browser to notify you when you receive a new cookie or to refuse cookies altogether. Should you decide not to accept cookies from the site, however, you may limit the functionality we can provide when you visit the site. Web Beacons (also known as Pixel Tags) are tiny graphics with a unique identifier that can be placed in the code of a web page. Google Analytics is a web analysis service that utilizes the data collected to track and examine the use of the site. The related Google Display Advertising (including tools like Remarketing, Google Display Network Impression Reporting, DoubleClick Campaign Manager, and Google Analytics Demographics and Interest Reporting) use some of the technologies described above to advertise online. Specifically, Blain’s Farm and Fleet as well as third-party vendors may use first-party cookies (like the Google Analytics cookie) in conjunction with third-party cookies (like the DoubleClick cookie) to customize ads based on someone’s past visits to the site or to report information related to interactions with such ads. Visitors can opt- out of Google Analytics or customize Display Network ads by adjusting Google’s Ads Preferences. 
+  * Contact Information like names and user names of customers and visitors, purchase history, billing and supply addresses, phone numbers, email addresses, other digital contact information, and information that you provide us about others
+  * Payment information like your credit card, debit card, or a gift card
+  * Product returns, refund requests, and exchanges
+  * Demographic information like your opinion of our services, product reviews you submit, age, and gender
+  * Location information like data obtained from your mobile device's GPS, your IP address, or other browser information that assists us with finding our stores nearest to you, offering driving directions to you, and determining product availability
+  * Your friends' names and email address when you send messages to a friend through this site. When you use this function you are telling us that you are entitled to use this information and provide it to us
+  * Other information about the browser you are using. You may control the collection and use of this information as described in the Customer Control Over Personally Identifiable Information section below
 
-###   
-4\. Collection of personal data from children 
 
-Blain’s Farm & Fleet is concerned about the privacy of children and does not knowingly collect personal information from children. We intend to sell our products only to adults. If you are under 18, you may use farmandfleet.com only under the supervision of a parent or guardian. 
 
-###   
-5\. Links to other sites 
+We may also collect non-personal information about users through several common online tracking tools. These tools are used to:
 
-Our site may include links to other sites as a convenience to you. The inclusion of any link does not imply our endorsement of any other company, its site(s), or its product(s) and/or service(s). Blain Supply, Inc. and the Blain’s Farm & Fleet corporations are not responsible for the privacy practices or content of any other site. 
+  * Track new visitors to our website
+  * Recognize returning visitors
+  * Store registered passwords
+  * Make product recommendations
+  * Better understand the respective interests of customers and website visitors
+  * Provide the correct information for a local store
+  * Fulfill purchases on our website
 
-###   
-6\. Security 
 
-We take our customer’s business seriously and take measures to make sure the Blain’s Farm & Fleet shopping experience is safe. We use Secure Socket Layer (SSL) encryption to keep your 
-
-private information and credit card information as secure as possible. While we implement these and other security measures, please note that complete security is not always possible. 
-
-###   
-7\. Changes to this privacy policy 
-
-By using our site, you agree to the terms of the privacy policy in effect at that time. Because our site will continue to implement new technologies and improve the services and features we provide, this policy is subject to change without prior notice. We encourage you to review the policy periodically for that reason. In no event will we use information you submit under the current privacy notice in a new way without first providing you an opportunity to prevent that use. If you choose to visit farmandfleet.com, your use and any dispute over privacy is subject to this Policy and Blain’s Farm & Fleet’s Legal Notice, including any limitations on damages, disputes, and choice of law. If you have any concerns about this Policy, please email customerservice@farmandfleet.com with a description of your concerns and a member of our Customer Support Team will contact you. 
 
 ###   
-8\. Contact us. 
+How We Collect Information
 
-We want to reiterate that we are dedicated to protecting your privacy. Should you have any questions, comments, or concerns about this privacy policy, please contact us at 608.754.2821 or customerservice@farmandfleet.com. 
+We collect information passively by using tracking tools like browser and flash cookies, web beacons, and other similar technologies. Cookies are small bits of information that this site places on your computer. We use these technologies to identify your IP address, browser type, device characteristics, domain name, referring URLs and specific links and web pages through which you click. This data is collected automatically and utilized for data analytics, site operations, fraud prevention and to help us improve the customer's overall experience. However, in general, you can visit Blain's Farm & Fleet on the World Wide Web without telling us who you are or revealing any PII about yourself.
 
-By writing us at: Blain Supply, Inc., P.O. Box 5391, Janesville, WI 53547-5391. Please be sure to include your email address and phone number with any correspondence you may send us so that we will be able to respond to you. 
+We collect information directly from you, such as names, addresses, email addresses and the like, only when voluntarily provided by a visitor to the site. We collect information when you register online, update your account, log-in, place orders, opt-in to receive emails, shop online, and participate in contests, promotions or surveys. You can choose not to provide certain information, but you may not be able to take advantage of many of our features.
 
-Effective November 8, 2013
+We collect some information from other sources, like an updated address from a shipping vendor or information about you from a friend that sends you a gift from our site.
+
+###   
+How We Use Information
+
+We use the information you provide for purposes such as:
+
+  * Responding to your requests
+  * Customizing future shopping for you
+  * Drive through service
+  * In Store Pickup
+  * Improving our store
+  * Providing you with discounts and special offers through mail and email
+  * The Blain's Extended Service Terms
+  * Otherwise communicating with you
+
+
+
+When an order is placed on our website, we keep a record of this information to process the order, track shipments and contact you via email, postal mail, or by telephone if we encounter any questions or issues with your order. You may also receive order confirmations and status emails from us.
+
+We use service providers to offer financial products, such as Blain's Farm & Fleet credit card. We may share personal information about our consumers with these service providers in order to provide you with tailored information about products and services and special offers. These service providers also have their own privacy statements that set out how they collect, use and disclose personal information.
+
+###   
+Do We Share the Information We Collect?
+
+We do not rent or sell your PII to marketers outside of the Blain's Farm & Fleet business, except as indicated in this Privacy Policy or unless you tell us to do so.
+
+We may provide aggregate statistics to reputable parties about the visitors to our site, but these statistics will not include any personal or private information that identifies you.
+
+You should be aware that we will disclose specific information about you if it is required to do so by law, governmental request, process or court order if a good faith belief exists that compliance is necessary to conform or comply with the law.
+
+There may be instances when we may use or disclose your PII in order to protect or defend the legal rights, property or operations of Blain's Farm & Fleet or our employees or agents; to protect the rights, privacy, safety or security of users, members or others; to protect against fraud; and to allow us to pursue available remedies or limit the damages that we may sustain.
+
+###   
+Security
+
+We take our customer's business seriously and take reasonable and appropriate physical, electronic, and procedural measures to make sure the Blain's Farm & Fleet shopping experience is safe. We use Secure Socket Layer (SSL) encryption to keep your PII and credit card information as secure as possible. SSL technology causes your browser to encrypt your order information before transmitting it to our secure server. SSL technology, an industry standard, is designed to prevent someone other than operators of our websites from capturing and viewing your personal information.
+
+While we implement these and other security measures to protect your privacy, please note that 100% effective security is not always possible and we cannot be responsible for the actions of those who may gain access to your PII.
+
+###   
+Links to Other Sites
+
+Our site may include links to other sites as a convenience to you. If you click on one of those links you will be taken to websites we do not control. The inclusion of any link does not imply our endorsement of any other company, its site(s), or its product(s) and/or service(s). Blain Supply, Inc. and the Blain's Farm & Fleet corporations are not responsible for the privacy practices or content of any other site.
+
+###   
+Collection of Personal Data from Children
+
+Blain's Farm & Fleet is concerned about the privacy of children and does not knowingly collect personal information from children. We intend to sell our products only to adults. If you are under 18, you may use farmandfleet.com only under the supervision of a parent or guardian.
+
+### Customer Control Over Personally Identifiable Information
+
+Depending upon the type of browser you use, you may have the ability to control cookies. You should consult your browser settings in order to reject cookies and click here to control flash cookies. Configuring your computer to block cookies may limit the functionality we can provide when you visit our website and not all of the tracking we have described will stop if you block or delete cookies. Additionally, you should be aware that your mobile devices may not give you the ability to control cookies.
+
+If you would like to remove your name from Blain's Farm & Fleet's mail or email lists, please contact our Customer Support Team using the information below. We do not sell or rent any of your personally identifiable information to third parties.
+
+###   
+Blain's "Do Not Track" Policy
+
+Certain browsers have a "Do Not Track" feature that allows you to tell websites that you prefer not to have your online activities tracked. These browser features are not uniform and we are not currently able to respond to those signals.
+
+### Changes to This Privacy Policy
+
+By using our site, you agree to the terms of the privacy policy in effect at that time. Because our site will continue to implement new technologies and improve the services and features we provide, this policy is subject to change without prior notice. We encourage you to review the policy periodically for that reason. In no event will we use information you submit under the current privacy notice in a new way without first providing you an opportunity to prevent that use. If you choose to visit farmandfleet.com, your use and any dispute over privacy is subject to this Policy and Blain's Farm & Fleet's Legal Notice, including any limitations on damages, disputes, and choice of law. If you have any concerns about this Policy, please email customerservice@farmandfleet.com with a description of your concerns and a member of our Customer Support Team will contact you.
+
+###   
+Contact Us
+
+We want to reiterate that we are dedicated to protecting your privacy. Should you have any questions, comments, or concerns about this privacy policy, please contact us at 608.754.2821, customerservice@farmandfleet.com, or by writing us at: Blain Supply, Inc., P.O. Box 5391, Janesville, WI 53547-5391. Please be sure to include your email address and phone number with any correspondence you may send us so that we will be able to respond to you.
+
+Effective August 31, 2015
