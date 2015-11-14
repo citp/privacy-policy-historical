@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the princetonreview.com privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627122544id_/http%3A//www.princetonreview.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the princetonreview.com privacy policy that was archived on 2015-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151114152307id_/http%3A//www.princetonreview.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" style=""><head>
 	<title>The Princeton Review Privacy Policy | The Princeton Review</title>
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -15,11 +15,11 @@
 	<link rel="canonical" href="http://www.princetonreview.com/privacy">
 
 	
-	<link href="/bundles/third-party.css?v=hrMcmX7b1LTamhXa1gsd0ZRFKIcgtv3fy4UGKCGpN501" rel="stylesheet">
+	<link href="/bundles/third-party.css?v=uEyNPQCU06QzuLrQvEZEZIJqwZo13G62sgs7wTbrQ0g1" rel="stylesheet">
 	
-	<link href="/bundles/base.css?v=CKETJ1Umkc4OAvduTx4P2T61w7TZlRiwnh1y78ml8iA1" rel="stylesheet">
+	<link href="/bundles/base.css?v=ZtgATqLWaXvRcJHWBUTKWxHdkNiYOx03IBG73q4yJ5E1" rel="stylesheet">
 
-	<link href="/bundles/www.css?v=KLYmV_Ec0htuzp_qsywE6tToZlqk6Qubgcf4kBPJVQ81" rel="stylesheet">
+	<link href="/bundles/www.css?v=38ZFA9FNDeNG-DrTeiXpqY19x2Zz6gYFmZaWQwEfM2M1" rel="stylesheet">
 
 	
 	
@@ -45,7 +45,7 @@
 	<!--<![endif]-->
 
 	
-	<script src="/bundles/misc.js?v=o3giTMagnGwhtEuxIBVXexpYRDlbOzn7ptpOV1IgoyI1"></script>
+	<script src="/bundles/misc.js?v=SCJHlH2pxL-4WufrldvnQ-95o6xSihTOhFvvBtHYe4k1"></script>
 
 	<script type="text/javascript">
 		$.cookie.defaults = {
@@ -60,12 +60,16 @@
 			application: 'IacEdu.TPR.WWW',
 			protocol: 'http',
 			pageId: '177',
-			pageVersion: '3',
+			pageVersion: '4',
 			ceId: ''
 		});
 
 		$.tpr.global.init({
 			wwwUrl: 'http://www.princetonreview.com'
+		});
+
+		$.tpr.abTest.init({
+			apiUrl: 'https://secure.princetonreview.com',
 		});
 	</script>
 	
@@ -98,8 +102,8 @@
 			})(window,document,'script','dataLayer','GTM-5WXNTM');
 		</script>
 		<!-- End Google Tag Manager -->
-	<!--[if lt IE 9]>
-		<div class="alert alert-warning" role="alert"><strong style="font-size:32px;">Unsupported Browser</strong><br />You're using Internet Explorer 8 or below, which isn't fully compatible with this website. If you are unable to update to a later version, please try the most recent version of Chrome or Firefox.</div>
+	<!--[if lte IE 9]>
+		<div class="alert alert-warning" role="alert"><strong style="font-size:32px;">Unsupported Browser</strong><br />It looks like you're using Internet Explorer 9 or below, which isn't fully compatible with this website. If you are unable to update to a later version, please try the most recent version of Chrome or Firefox.</div>
 	<![endif]-->
 
 	
@@ -112,6 +116,7 @@
 	<div class="navbar-top">
 		<div class="container">
 			<a class="navbar-brand" href="http://www.princetonreview.com"></a>
+			<span class="hidden-xs" style="margin-left:157px;">1-800-2REVIEW <span class="hidden-sm">(800-273-8439)</span></span>
 			<ul class="list-inline pull-right hidden-print">
 				
 				<li class="hidden-xs">
@@ -134,7 +139,7 @@
 
 				
 				<li id="registerItem" class="hidden-xs">
-					<a href="#" data-toggle="modal" data-target="#actionModal" data-url="https://secure.princetonreview.com/account/register/?modal=1" data-height="630">Register</a>
+					<a href="#" data-toggle="modal" data-target="#actionModal" data-url="https://secure.princetonreview.com/account/register/?modal=1" data-height="630" data-register="1">Register</a>
 				</li>
 
 				
@@ -179,9 +184,11 @@
 	<div class="navbar-bottom hidden-print">
 		<div class="container">
 			<div class="collapse navbar-collapse hamburger-menu no-transition">
-				<ul class="nav navbar-nav row">
-					<li class="dropdown col-sm-4 padding-none">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Test Prep&nbsp;<i class="fa fa-angle-down fa-2x fa-fw"></i></a>
+				<ul class="nav navbar-nav row" id="siteHeaderNav" style="visibility: visible;">
+					
+					
+					<li class="dropdown col-sm-4 padding-none" id="testPrepNav">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Test Prep &nbsp;<img src="/Content/Images/Icons/arrowdown.png" class="nav-arrowdown"></a>
 						<ul class="dropdown-menu test-nav" role="menu">
 							<li class="section">
 								<div class="row">
@@ -192,7 +199,7 @@
 							</li>
 							<li>
 								<div class="test-row">
-									<div class="col-xs-4"><a href="http://www.princetonreview.com/college/sat-test-prep">SAT</a></div>
+									<div class="col-xs-4"><a id="satHeaderHref" href="http://www.princetonreview.com/college/sat-test-prep">SAT</a></div>
 									<div class="col-xs-4"><a href="http://www.princetonreview.com/grad/gre-test-prep">GRE</a></div>
 									<div class="col-xs-4"><a href="http://www.princetonreview.com/k12/ssat-test-prep">SSAT</a></div>
 								</div>
@@ -232,6 +239,11 @@
 									<div class="col-xs-4"><a class="cart"></a></div>
 								</div>
 							</li>
+							<li id="privateTutoringTestPrepDropdown" style="">
+								<div class="test-row" style="border-top: solid 1px #ccc;text-align: center;">
+									<a href="http://www.princetonreview.com/test-prep-tutors">Private Tutoring</a>
+								</div>
+							</li>
 							<!--
 							<li>
 								<div class="row test-row">
@@ -243,26 +255,38 @@
 							//-->
 						</ul>
 					</li>
-					<li class="dropdown col-sm-4 padding-none">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="hidden-xs hidden-sm">College &amp; Grad</span> Admissions&nbsp;<i class="fa fa-angle-down fa-2x fa-fw"></i></a>
+					<li class="dropdown col-sm-4 padding-none" id="collegeAdmissionsNav">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="hidden-xs hidden-sm hidden-md">College &amp; Grad</span> Admissions &nbsp; <img src="/Content/Images/Icons/arrowdown.png" class="nav-arrowdown"></a>
 						<ul class="dropdown-menu" role="menu">
 							<li><a href="http://www.princetonreview.com/college-education">Find a College</a></li>
 							<li><a href="http://www.princetonreview.com/grad-school">Find a Grad School</a></li>
 							<li><a href="http://www.princetonreview.com/college-admissions/get-accepted">College Admissions Counseling</a></li>
+							<li style="display:none;" id="collegeAdviceItem"><a href="http://www.princetonreview.com/college-advice">College Advice</a></li>
 							<li><a href="http://www.princetonreview.com/college-major-search">Search Majors<span class="hidden-sm">, Grad Programs</span> &amp; Careers</a></li>
 						</ul>
 					</li>
-					
-					<li class="dropdown col-sm-4 padding-none">
+				<li class="dropdown col-sm-4 padding-none" id="academicTutoringNav" style="display: none;">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">
-							<span class="hidden-xs hidden-sm">Academic</span> Tutoring&nbsp;<i class="fa fa-angle-down fa-2x fa-fw"></i></a>
+							<span id="academicTutoringNavText0" class="atNavItem"><span class="hidden-xs hidden-sm">Academic</span> Tutoring</span>
+							<span id="academicTutoringNavText1" class="atNavItem" style="display:none;">Homework Help</span>
+							&nbsp;<i class="fa fa-caret-down fa-2x fa-fw"></i>
+						</a>
 						<ul class="dropdown-menu" role="menu">
 							<li><a href="http://www.princetonreview.com/academic-tutoring" class="dropdown-toggle academic-tutoring-launcher">Try a Free Session</a></li>
 							<li><a href="http://www.princetonreview.com/academic-tutoring" class="dropdown-toggle academic-tutoring-launcher">Homework Help Right Now</a></li>
 							<li><a href="http://www.princetonreview.com/academic-tutoring/tutor-search" class="dropdown-toggle academic-tutoring-launcher">Find a Tutor</a></li>
 						</ul>
-					</li>					
-				</ul>
+					</li><li class="dropdown col-sm-4 padding-none" id="academicTutoringNav2" style="">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+							<span>Tutoring</span>
+							&nbsp;<img src="/Content/Images/Icons/arrowdown.png" class="nav-arrowdown">
+						</a>
+						<ul class="dropdown-menu" role="menu">
+							<li><a href="http://www.princetonreview.com/academic-tutoring" class="dropdown-toggle academic-tutoring-launcher">All Subjects</a></li>
+							<li><a href="http://www.princetonreview.com/academic-tutoring" class="dropdown-toggle academic-tutoring-launcher">Online Tutoring - <b style="color:#8bc440;font-weight:700;">Try a Free Homework Session!</b></a></li>
+							<li><a href="http://www.princetonreview.com/test-prep-tutors" class="dropdown-toggle">Test Prep</a></li>
+						</ul>
+					</li></ul>
 				<div id="tertiaryXsNavPlaceholder"></div>
 				<div id="academicTutoringLauncherPlaceholder"></div>
 			</div>
@@ -270,6 +294,33 @@
 	</div>
 </nav>
 
+<script>
+	/* WAS 15178 A/B Split Test: Navigation item for Private Tutoring */
+	$('#privateTutoringTestPrepDropdown').show();
+
+	$('#academicTutoringNav').hide();
+	$('#academicTutoringNav2').show();
+
+	/* WAS 15959 - AB Test: Add test cell to BackToSchool2015IndexPageNav and BackToSchool2015IndexPage test */
+	$('#siteHeaderNav').append($('#academicTutoringNav').detach());
+	$('#siteHeaderNav').append($('#academicTutoringNav2').detach());
+
+	$('#siteHeaderNav').css('visibility', 'visible');
+
+	/* 17008 A/B Split Test: Determining ideal Rate Card destination for SAT from top nav or index hero section- Control: SAT v T1: New SAT */
+	$.tpr.abTest.getSplit({
+		testName: 'RateCardDestinationSATOrNewSAT',
+		versionFunc: function (result) {
+			if (result == '1') {
+				var h = $('#satHeaderHref').attr('href');
+
+				$('#satHeaderHref').attr('href', h.replace('sat-test-prep', 'sat_2016-test-prep'));
+			}
+		}
+	});
+
+	
+</script>
 <!-- validation -->
 
 
@@ -287,7 +338,7 @@
 <!--
 Content Item Id: 160 
 Content Item Description: Legal - Privacy 
-Content Item Version : 3
+Content Item Version : 4
 BEGIN-->
 <p></p>
 <h3>The Princeton Review Privacy Policy</h3>
@@ -360,7 +411,9 @@ BEGIN-->
 <h3>Contact Us</h3>
 <p>If you have any questions or comments regarding our privacy practices, you may use our feedback form or at the following address:</p>
 <p>TPR Education, LLC d/b/a The Princeton Review <br> 24 Prime Parkway, Suite 201 <br> Natick, MA 01760</p>
-<p><b> <i>Effective Date: December 23, 2014 </i> </b></p>
+<h3>Addendum for Users Outside of the United States and Canada:</h3>
+<p>You may request that we delete personal information collected from you at the Site by sending an email to <a href="mailto:prep@review.com">prep@review.com</a> requesting such deletion.&nbsp; Please note that if you are receiving services from us, we will need to keep such information during the course of providing those services to you to communicate with you about them.</p>
+<p class="strong"><i>Effective Date: October 9, 2015 </i></p>
 <!--END Content Item Id: 160 -->
 
 </div>
@@ -385,7 +438,7 @@ BEGIN-->
 							<p class="tel hidden-sm hidden-md hidden-lg"><a href="tel:8775327630">1-877-LEARN-30</a></p>
 						</div>
 						<div class="footer-item">
-							<p class="category">Test Prep Advisors</p>
+							<p class="category">Talk to an Advisor</p>
 							<p>Mon-Fri 9AM-10PM EST | Sat-Sun 10AM-6PM EST</p>
 						</div>
 						<div class="footer-item">
@@ -455,7 +508,7 @@ BEGIN-->
 					<div class="footer-list-container">
 						<p class="category">Find the Right College</p>
 						<ul>
-							<li><a href="http://www.princetonreview.com/college-rankings/best-379-colleges">College Rankings</a></li>
+							<li><a href="http://www.princetonreview.com/college-rankings/best-colleges">College Rankings</a></li>
 							<li><a href="http://www.princetonreview.com/college-advice">College Advice</a></li>
 							<li><a href="http://www.princetonreview.com/college-advice#s2">Applying to College</a></li>
 							<li><a href="http://www.princetonreview.com/college-advice#s3">Financial Aid</a></li>
@@ -486,9 +539,9 @@ BEGIN-->
 							<li><a href="http://www.princetonreview.com/corporate/partnerships">Partner with Us</a></li>
 							<li><a href="http://www.princetonreview.com/corporate/advertise-with-us">Advertise with Us</a></li>
 							<li><a href="http://www.princetonreview.com/media">Media</a></li>
-							<li><a href="http://in.princetonreview.com/">Blog</a></li>
 							<li><a href="http://www.princetonreview.com/corporate/contact">Contact</a></li>
 							<li><a href="http://www.princetonreview.com/international/locations">International</a></li>
+							<li><a href="http://www.princetonreview.com/legal/guarantee">Our Guarantees</a></li>
 						</ul>
 					</div>
 				</div>
@@ -503,6 +556,8 @@ BEGIN-->
 						<a href="https://www.facebook.com/ThePrincetonReview" target="_blank"><i class="fa fa-facebook" name="fb_name"></i></a>
 						<a href="https://twitter.com/ThePrincetonRev" target="_blank"><i class="fa fa-twitter" name="twitter_name"></i></a>
 						<a href="https://plus.google.com/+ThePrincetonReview/posts" target="_blank"><i class="fa fa-google-plus" name="fb_googleplus"></i></a>
+						<a href="https://instagram.com/theprincetonreview/" target="_blank"><i class="fa fa-instagram" name="instagram_name"></i></a>
+						<a href="https://www.youtube.com/user/ThePrincetonReviewUS" target="_blank"><i class="fa fa-youtube-play" name="youtube_name"></i></a>
 						<a href="http://www.linkedin.com/companies/the-princeton-review" target="_blank"><i class="fa fa-linkedin" name="linkedin_name"></i></a>
 					</div>
 				</div>
@@ -544,7 +599,7 @@ BEGIN-->
 
 	<script src="/bundles/jquery-validate-unobtrusive.js?v=nmopKmVWA_k-qs4lDOouCNWZ87TKrbYD-ZQIF5NM_Tw1"></script>
 
-	<script src="/bundles/bootstrap.js?v=oyvepnaZPlOtn6i3vG_6KrkO54bR8SMa2AP2ww2KuGg1"></script>
+	<script src="/bundles/bootstrap.js?v=z7zbC2bs4Toua1VFjxpxKBKHKQ2z0L0eo0hfYW8qPGc1"></script>
 
 	<script src="/bundles/newsbox.js?v=0v37ZrSWjPABvjmRTXDlo_avckp6CfcMdL8MmszGF2o1"></script>
 
@@ -582,6 +637,8 @@ BEGIN-->
   
   
 
+
+	
 
 
 </body></html>
