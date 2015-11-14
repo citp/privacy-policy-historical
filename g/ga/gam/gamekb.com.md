@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamekb.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510055307id_/http%3A//www.gamekb.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamekb.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114110621id_/http%3A//www.gamekb.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy - Gamekb.com
 
