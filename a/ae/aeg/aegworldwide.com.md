@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aegworldwide.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609234926id_/http%3A//www.aegworldwide.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aegworldwide.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114134823id_/http%3A//www.aegworldwide.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
