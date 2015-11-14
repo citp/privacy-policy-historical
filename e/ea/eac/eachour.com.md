@@ -1,106 +1,74 @@
-> *The following text is extracted and transformed from the eachour.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012060420id_/http%3A//www.eachour.com/privacynotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eachour.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114213107id_/http%3A//eachour.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | eachour
 
-|  | **IMPORTANT PRIVACY CHOICES**
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Email](mailto:harsaat.com@gmail.com).
 
-**How We Use and Protect Personal Information**
+At eachour.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by eachour.com and how we use it.
 
-At GE PeGetawaysTM, protecting your privacy is very important to us. GE Perfect Getaways is offered by Signature Agency, Inc., a unit of GE Financial and a part of the General Electric Company ("GE"). We value your trust. We want you to understand what information we collect, how we protect it, and how we use it. We treat nonpublic NPI ("NPI") that identifies you with respect and in accordance with this Privacy Notice. NPI is vital to GE PeGetaways in meeting our goal to provide you with products and services.
+**Log Files**  
+Like many other Web sites, eachour.com makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-This Privacy Notice is designed to provide information regarding how we collect, use and disclose NPI we gather when you visit us on the World Wide Web. This Privacy Notice currently is applicable only to our United States customers and visitors when they interact with us on the Internet.
+**Cookies and Web Beacons**  
+eachour.com uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
-**Our Privacy Notice**
+**DoubleClick DART Cookie**
 
-This is our Privacy Notice: 
+→ Google, as a third party vendor, uses cookies to serve ads on eachour.com.
 
-  * We will describe what NPI we collect, how we protect it, and how we may use it.
-  * We will maintain physical, electronic, and procedural safeguards to protect NPI we obtain about our customers.
-  * We will require servicing companies to whom we disclose NPI to adhere to our Privacy Notice.
-  * We will also comply with any other state requirements that relate to the use and protection of your NPI.
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to eachour.com and other sites on the Internet.
 
-Please read on for more details. This Privacy Notice includes examples of the types of NPI we may collect and with whom we may share NPI. These examples should not be considered a complete list of our information collection or sharing practices. As used in this Privacy Notice, "you" and "your" refer to an individual consumer and "companies" may include individuals.
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-**Information We May Collect**
+**Our Advertising Partners**
 
-We may obtain NPI to provide you products and services you have requested, to determine if you qualify for products or services, and to service your membership. We may collect PI that identifies you and describes how to contact you. We may also collect NPI on your transaction and experience information. We may collect this NPI from you, our affiliates, and outside companies. We have listed examples below of the sources and types of NPI we may collect. 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
-  * Applications, registration forms, or other forms containing your name, address, phone number, and e-mail address.
-  * Your transactions or experiences with us, other GE or outside companies, such as your transaction history.
-  * Credit reporting agencies and other similar companies, such as your obligations with others, your driving record, medical claims, and social security or tax identification number.
-  * You and others, such as NPI relating to your employment, insurance coverage, habits, avocations, finances, credit data, and other personal characteristics.
-  * Other companies that have NPI about you, such as your name, address, phone number, and transaction information.
-
-**Information We May Disclose and To Whom We May Disclose Information**
-
-We may disclose the NPI we collect. The service providers and other to whom we disclose NPI are obliged to use such information only for the purposes stated. Disclosures may be made as stated below.
-
-**Disclosures To Service Providers**  
-We may disclose NPI we collect to others, such as administrators, repair facilities, software consultants, and other third parties that provide services for us. These services may include:
-
-  * Administrative or customer support; 
-  * Printing and delivering statements and other documents; and 
-  * Protecting against fraud.
-
-Disclosure of NPI made to these service providers is done to help us better serve you.
-
-**Disclosures To Other GE Companies**  
-We may disclose NPI to other GE companies, which are involved in diverse businesses ranging from financial services to consumer products. We may disclose NPI to other GE companies for purposes such as: 
-
-  * Fulfilling your requests; and 
-  * Offering you other products or services that may interest you.
-
-**Disclosures To Outside Companies**  
-We may disclose NPI we collect to outside companies for marketing and related purposes. Outside companies are non-GE companies who may want to offer their products or services to you. These may include:  
+  * Google
+  * Other
 
 
-  * Banks, insurance, and other financial companies; 
-  * Retailers or direct marketers; and 
-  * Non-profit or social organizations.
 
-If we have agreements with outside companies that restrict sharing your information, we will abide by those agreements.
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies)._
 
-**Disclosures To Marketing Firms**  
-We may disclose NPI we collect to companies with which we have marketing arrangements. These would include:
+You may consult this listing to find the privacy policy for each of the advertising partners of eachour.com.
 
-  * Companies that help us market our products and services; and 
-  * Other companies with which we have joint marketing arrangements to offer products or services.
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on eachour.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-**Other Disclosures Permitted By Law**  
-We may make further disclosures of NPI as permitted or required by law. For example, we may disclose NPI to law enforcement agencies.
+eachour.com has no access to or control over these cookies that are used by third-party advertisers.
 
-**Change In Privacy Notice**
+**Third Party Privacy Policies**
 
-We reserve the right to change or add to our Privacy Notice at any time. We will always post our current Privacy Notice on our Web site.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. eachour.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
 
-**Our Security Procedures**
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
 
-We maintain procedures and technology designed to prevent unauthorized access to NPI. We maintain physical, electronic, and procedural protections in accordance with applicable standards to protect NPI. We restrict access to NPI to employees and others for lawful business purposes to assist in providing products or services to you. Employees who violate our Privacy Notice are subject to disciplinary action.
+**Contact & Communication**
 
-**Online Privacy**
+Users contacting this website and/or it’s owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use, as detailed in the Data Protection Act 1998. Every effort has been made to ensure a safe and secure form to email submission process but advise users using such form to email processes that they do so at their own risk.
 
-In addition to the Privacy Notice outlined above, the following privacy principles apply when you visit us on the World Wide Web: 
+This website and it’s owners use any information submitted to provide you with further information about the products / services they offer or to assist you in answering any questions or queries you may have submitted. This includes using your details to subscribe you to any email newsletter program the website operates but only if this was made clear to you and your express permission was granted when submitting any form to email process. Or whereby you the consumer have previously purchased from or enquired about purchasing from the company a product or service that the email newsletter relates to. This is by no means an entire list of your user rights in regard to receiving email marketing material. Your details are not passed on to any third parties.
 
-  * _Online information and collection_. You can visit us on the World Wide Web without telling us who you are and without revealing anything about yourself, including your e-mail address. Our Web servers collect the name of the domain you used to access the Internet, such as "aol.com," and the Web site you came from and visit next.  
+**External Links**
 
-    * We may measure the number of visits, average time spent, and other data about visitors to our Web site, in general. We may also use this data to monitor site performance and to make the site easier and more convenient to use. We may use this in the course of delivering an advertisement to you.
-    * We may summarize data about our customers, sales, traffic patterns, and services and provide these statistics to third parties. However, when we provide this to others, it will not include any information that identifies an individual.
-  * _Cookies_. Cookies are small pieces of data stored by your Internet browser on your computer's hard drive. We use cookies to enhance your Web viewing experience and to measure Web site usage. With the help of cookies, we may present you with customized offerings or content that may be of interest to you. We may also use cookies to remember your user name so you do not have to reenter it each time you visit our site. You may be able to set your browser to notify you when you receive a cookie or to prevent cookies from being sent. Please note, however, that, by not accepting cookies, you may limit the functionality we can provide to you when you visit our site.
-  *  _Links to other Web sites_. We are not responsible for the information collection practices of other Web sites when you link to them from our Web site. We cannot guarantee how those parties use cookies or whether they place on your computer cookies that may identify you personally. You should carefully review the privacy policy of each Web site you visit to understand how they collect, use, and disclose information.
-  *  _Information from children_. We do not knowingly solicit information from children and we do not intentionally market our products or services to children.
-  *  _E-mail communications_. Occasionally, we may send you e-mail communications with information that may be useful to you, including information about our products and services or about offerings from other GE companies or third parties. With each such e-mail message, we will give you the option not to receive additional e-mail messages.
-  *  _Encryption_. We use encryption and authentication tools to protect information we gather on our Web site. E-mail communications outside of our Web site, however, may not be protected. If you are sending us an e-mail communication that includes highly confidential information, such as a credit card number, you may want to call us or send it by regular mail.
-  *  _Access_. In some cases, you may be able to update certain information that you provided to us. This may require you to use a unique user name and password (or "PIN"). Also, where the capability exists, you may request that we modify or delete information we have gathered during your visit to our Web site.
-  *  _Visitors/Registered Users_. As a visitor to our Web site, you may have access to certain features without telling us who you are or revealing any information about yourself. We will not gather any information about you when you are using these features. We may require you to become a registered member in order to gain access to and use other features. Once you become a registered member, we may collect NPI when you use our Web site.
+Although this website only looks to include quality, safe and relevant external links users should always adopt a policy of caution before clicking any external web links mentioned throughout this website.
 
-  
-*****
+The owners of this website cannot guarantee or verify the contents of any externally linked website despite their best efforts. Users should therefore note they click on external links at their own risk and this website and it’s owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
 
-The practices and policies contained in this Privacy Notice replace all previous notices or statements with respect to the same subject.
+**Children’s Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity.  
+eachour.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that eachour.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
 
-This Privacy Notice will not apply to your relationships with companies that are not part of GE. Their privacy policies will govern how they collect, use and disclose NPI that you allow them to access.
+**Online Privacy Policy Only**
 
-This Privacy Notice applies only to the information collection practices of GE Pe Getaways. This Privacy Notice will not govern NPI obtained by other GE companies. You should review the privacy policies of those specific GE companies to understand how they collect, use and disclose NPI.
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there.  
+This policy does not apply to any information collected offline or via channels other than this website.
 
-|   
----|---|---
+**Consent**
+
+By using our website, you hereby consent to our privacy policy and agree to its terms.
+
+**Update**  
+This Privacy Policy was last updated on: Tuesday, May 26th, 2015.  
+[](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
+_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
