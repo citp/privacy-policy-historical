@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastazon.com privacy policy that was archived on 2015-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150302030121id_/http%3A//fastazon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastazon.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114061257id_/http%3A//fastazon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FASTAzon Theme
 
