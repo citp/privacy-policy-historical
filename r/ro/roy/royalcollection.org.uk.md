@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalcollection.org.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627025557id_/http%3A//www.royalcollection.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalcollection.org.uk privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114165234id_/https%3A//www.royalcollection.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy and security
 
@@ -6,13 +6,13 @@ This website is operated by Royal Collection Trust ('RCT', referred to as 'we', 
 
 Your privacy is extremely important to us. Any personal information we gather from you will be used in accordance with the Data Protection Act 1998 and in accordance with the policy of the [Royal Household](http://www.royal.gov.uk/TheRoyalHousehold/Personalinformationpolicy/Personalinformationpolicy.aspx), and we will treat all your Personal Information as confidential (although we reserve the right to disclose this information in the circumstances set out below).
 
-**What information do we collect?**
+ **What information do we collect?**
 
 When you use this website, if you wish to use features that require you to register with us, we will ask you to input and will collect personal information from you such as your name, e-mail address, postcode, country and a password ('Personal Information'). We may also collect, and our third party providers of advertisements and content may collect, information about where you are on the internet (e.g. the URL you came from, IP addresses, domain types like .co.uk and .com), your browser type, the country and telephone area code where your computer is located, the pages of our website that were viewed during your visit, the advertisements you clicked on, and any search terms that you entered on our website ('User Information'). We may collect this information even if you do not register with us.
 
 We use cookies to keep track of your current session to personalise your experience and so that you may retrieve selected images at any time. You may experience technical difficulties in using this website if you have disabled cookies. Cookies are small text files containing identity codes which are stored on your computer by your web browser. Cookies do not harm your computer but if you do wish to stop your computer accepting cookies, go to the help section of your web browser where you will find information on how to do this.
 
-**How do we use your information?**
+ **How do we use your information?**
 
 We will keep your information on a secure server and we will fully comply with all applicable UK Data Protection and consumer legislation. In particular, we confirm that any Personal Information which you provide to us (or which is available on public registers) and any User Information from which we can identify you is held in accordance with the registration we have with the Data Commissioner's Office. We use your information only for the following purposes:
 
@@ -31,7 +31,7 @@ You should be aware that if we are requested by the police or any other regulato
 
 You can (subject to payment of an appropriate fee) at any time request a copy of personal information held about you by contacting The Data Protection Administrator, Information Assurance, Buckingham Palace, London SW1A 1AA. In the unlikely event that the operations of RCT are transferred to or integrated with another operation, your details may be disclosed to our advisors and to any transferee of RCT's operations.
 
-**Marketing communications**
+ **Marketing communications**
 
 When you create an account you will be given the option to receive information from RCT by post, e-mail or telephone, about products, promotions or special offers that we feel may be of interest to you. In the event that you do not wish to be contacted for such purposes, please ensure that you do not tick the Newsletter option as you go through the registration process. You may unsubscribe from our contact list at any time by replying to a promotional e-mail with the word 'unsubscribe' in the subject line, by e-mailing us at [webmaster@royalcollection.org.uk](mailto:webmaster@royalcollection.org.uk) or telephoning us on +44 (0)20 7839 1377 (switchboard) between 09:30 and 17:30. You can also log in to your account on this website and manage your Newsletter subscription by selecting Newsletter Subscription and unticking the relevant newsletter settings.
 
@@ -49,7 +49,7 @@ London SW1A 1BQ
 +44 (0)20 7839 1377 (switchboard)  
 [webmaster@royalcollection.org.uk](mailto:webmaster@royalcollection.org.uk)
 
-**Cookies explained**
+ **Cookies explained**
 
   * What is a cookie?
 
@@ -77,15 +77,19 @@ Adobe uses a particular type of cookie called a ‘Local Shared Object’, which
 
 Web beacons, sometimes referred to as ‘web bugs’, are small single-pixel transparent image files. They allow website owners to know when a visitor has reached their website and are used in conjunction with cookies to allow further website tracking. These files are not viruses and are useful in helping us to make your web-surfing experience better.
 
-**Opting out of cookies**
+ **Opting out of cookies**
 
 There are a number of options available so that you do not have to store any cookies at all. You can either set your browser so that it will not accept and store any cookie, or, if you have a little more time and knowledge, you can allow only certain ‘trusted’ sites to store cookies on your computer.
 
 It’s worth bearing in mind that if you decide to delete all your cookies, then you will probably have to re-enter all your usernames and passwords on all the sites that you visit, which you previously didn’t have to do. Cookies can be a real asset to your web-surfing experience.
 
-The Information Commissioner’s Office (<http://www.ico.gov.uk/>) provides some advice about cookies and their use, and a link to ‘About cookies’ ([ _www.aboutcookies.org_](http://www.aboutcookies.org/)), which is run by the law firm Pinsent Masons. This website provides more information about cookies and shows you how to allow those trusted sites to store their cookies on your computer.
+The Information Commissioner’s Office (<http://www.ico.gov.uk/>) provides some advice about cookies and their use, and a link to ‘About cookies’ (
 
-**Our main technology partners**
+[ _www.aboutcookies.org_](http://www.aboutcookies.org/)
+
+), which is run by the law firm Pinsent Masons. This website provides more information about cookies and shows you how to allow those trusted sites to store their cookies on your computer.
+
+ **Our main technology partners**
 
 We work with the following companies in maintaining and improving our website. They must all satisfy the data-protection requirements.
 
@@ -93,5 +97,4 @@ Deeson Group Ltd
 Deeson Group provides build services to RCT and helps us to maintain the software that runs our website. It provides us with reporting statistics, and the software it develops and configures will serve cookies on our behalf to enable any site personalisation and log-in functionality.
 
 Pulsant Ltd  
-Pulsant Ltd provides hosting services to RCT and help us to maintain the software that runs our website.  
- 
+Pulsant Ltd provides hosting services to RCT and help us to maintain the software that runs our website.
