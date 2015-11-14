@@ -1,1223 +1,779 @@
-<!--The following is the downloaded HTML source of the ssur.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607144406id_/http%3A//www.ssur.com/jzv/inf/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ssur.com privacy policy that was archived on 2015-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151114135258id_/http%3A//www.ssur.com/pages/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-        <meta content="IE=Edge,chrome=1" http-equiv="X-UA-Compatible">
-        
-            <title>
-                SSUR
-            </title>
-        
-        
-        
+<!DOCTYPE html><html class="no-touch no-js"><!--<![endif]--><head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <link rel="shortcut icon" type="image/png" href="//cdn.shopify.com/s/files/1/0789/0847/t/2/assets/favicon.png?11606250031377539216">
 
+  <title>
+    Privacy policy – SSUR
+  </title>
 
+  
+  <meta name="description" content="PRIVACY POLICY We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communicati">
+  
 
+  <link rel="canonical" href="http://www.ssur.com/pages/privacy-policy">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
 
+  
 
-<link rel="stylesheet" type="text/css" href="/jzv/cmres/main.css" media="all">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script type="text/javascript" src="/pub/js/jz.js"></script>
-<script type="text/javascript">CSRF_TOKEN='eacaa31747f948df9fbb8334a19cac47';</script>
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Privacy policy">
+  
 
 
-        
+  <meta property="og:description" content="PRIVACY POLICY We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communicati">
 
+  <meta property="og:url" content="http://www.ssur.com/pages/privacy-policy">
+  <meta property="og:site_name" content="SSUR">
 
+  
 
 
-    <script type="text/javascript">
 
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-34865861-1']);
-        _gaq.push(['_trackPageview']);
-
-        (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-
-    </script>
-
-
-
-
-
-    <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-    <body>
-        
- <script type="text/javascript">
-/*! ResponsiveSlides.js v1.54
-* http://responsiveslides.com
-* http://viljamis.com
-*
-* Copyright (c) 2011-2012 @viljamis
-* Available under the MIT license
-*/
-
-/*jslint browser: true, sloppy: true, vars: true, plusplus: true, indent: 2 */
-
-(function ($, window, i) {
-  $.fn.responsiveSlides = function (options) {
-
-    // Default settings
-    var settings = $.extend({
-      "auto": true, // Boolean: Animate automatically, true or false
-      "speed": 500, // Integer: Speed of the transition, in milliseconds
-      "timeout": 4000, // Integer: Time between slide transitions, in milliseconds
-      "pager":false, // Boolean: Show pager, true or false
-      "nav": false, // Boolean: Show navigation, true or false
-      "random": false, // Boolean: Randomize the order of the slides, true or false
-      "pause": false, // Boolean: Pause on hover, true or false
-      "pauseControls": true, // Boolean: Pause when hovering controls, true or false
-      "prevText": "Previous", // String: Text for the "previous" button
-      "nextText": "Next", // String: Text for the "next" button
-      "maxwidth": "", // Integer: Max-width of the slideshow, in pixels
-      "navContainer": "", // Selector: Where auto generated controls should be appended to, default is after the <ul>
-      "manualControls": "", // Selector: Declare custom pager navigation
-      "namespace": "rslides", // String: change the default namespace used
-      "before": $.noop, // Function: Before callback
-      "after": $.noop // Function: After callback
-    }, options);
-
-    return this.each(function () {
-
-      // Index for namespacing
-      i++;
-
-      var $this = $(this),
-
-        // Local variables
-        vendor,
-        selectTab,
-        startCycle,
-        restartCycle,
-        rotate,
-        $tabs,
-
-        // Helpers
-        index = 0,
-        $slide = $this.children(),
-        length = $slide.size(),
-        fadeTime = parseFloat(settings.speed),
-        waitTime = parseFloat(settings.timeout),
-        maxw = parseFloat(settings.maxwidth),
-
-        // Namespacing
-        namespace = settings.namespace,
-        namespaceIdx = namespace + i,
-
-        // Classes
-        navClass = namespace + "_nav " + namespaceIdx + "_nav",
-        activeClass = namespace + "_here",
-        visibleClass = namespaceIdx + "_on",
-        slideClassPrefix = namespaceIdx + "_s",
-
-        // Pager
-        $pager = $("<ul class='" + namespace + "_tabs " + namespaceIdx + "_tabs' />"),
-
-        // Styles for visible and hidden slides
-        visible = {"float": "left", "position": "relative", "opacity": 1, "zIndex": 2},
-        hidden = {"float": "none", "position": "absolute", "opacity": 0, "zIndex": 1},
-
-        // Detect transition support
-        supportsTransitions = (function () {
-          var docBody = document.body || document.documentElement;
-          var styles = docBody.style;
-          var prop = "transition";
-          if (typeof styles[prop] === "string") {
-            return true;
-          }
-          // Tests for vendor specific prop
-          vendor = ["Moz", "Webkit", "Khtml", "O", "ms"];
-          prop = prop.charAt(0).toUpperCase() + prop.substr(1);
-          var i;
-          for (i = 0; i < vendor.length; i++) {
-            if (typeof styles[vendor[i] + prop] === "string") {
-              return true;
-            }
-          }
-          return false;
-        })(),
-
-        // Fading animation
-        slideTo = function (idx) {
-          settings.before(idx);
-          // If CSS3 transitions are supported
-          if (supportsTransitions) {
-            $slide
-              .removeClass(visibleClass)
-              .css(hidden)
-              .eq(idx)
-              .addClass(visibleClass)
-              .css(visible);
-            index = idx;
-            setTimeout(function () {
-              settings.after(idx);
-            }, fadeTime);
-          // If not, use jQuery fallback
-          } else {
-            $slide
-              .stop()
-              .fadeOut(fadeTime, function () {
-                $(this)
-                  .removeClass(visibleClass)
-                  .css(hidden)
-                  .css("opacity", 1);
-              })
-              .eq(idx)
-              .fadeIn(fadeTime, function () {
-                $(this)
-                  .addClass(visibleClass)
-                  .css(visible);
-                settings.after(idx);
-                index = idx;
-              });
-          }
-        };
-
-      // Random order
-      if (settings.random) {
-        $slide.sort(function () {
-          return (Math.round(Math.random()) - 0.5);
-        });
-        $this
-          .empty()
-          .append($slide);
-      }
-
-      // Add ID's to each slide
-      $slide.each(function (i) {
-        this.id = slideClassPrefix + i;
-      });
-
-      // Add max-width and classes
-      $this.addClass(namespace + " " + namespaceIdx);
-      if (options && options.maxwidth) {
-        $this.css("max-width", maxw);
-      }
-
-      // Hide all slides, then show first one
-      $slide
-        .hide()
-        .css(hidden)
-        .eq(0)
-        .addClass(visibleClass)
-        .css(visible)
-        .show();
-
-      // CSS transitions
-      if (supportsTransitions) {
-        $slide
-          .show()
-          .css({
-            // -ms prefix isn't needed as IE10 uses prefix free version
-            "-webkit-transition": "opacity " + fadeTime + "ms ease-in-out",
-            "-moz-transition": "opacity " + fadeTime + "ms ease-in-out",
-            "-o-transition": "opacity " + fadeTime + "ms ease-in-out",
-            "transition": "opacity " + fadeTime + "ms ease-in-out"
-          });
-      }
-
-      // Only run if there's more than one slide
-      if ($slide.size() > 1) {
-
-        // Make sure the timeout is at least 100ms longer than the fade
-        if (waitTime < fadeTime + 100) {
-          return;
-        }
-
-        // Pager
-        if (settings.pager && !settings.manualControls) {
-          var tabMarkup = [];
-          $slide.each(function (i) {
-            var n = i + 1;
-            tabMarkup +=
-              "<li>" +
-              "<a href='#' class='" + slideClassPrefix + n + "'>" + n + "</a>" +
-              "</li>";
-          });
-          $pager.append(tabMarkup);
-
-          // Inject pager
-          if (options.navContainer) {
-            $(settings.navContainer).append($pager);
-          } else {
-            $this.after($pager);
-          }
-        }
-
-        // Manual pager controls
-        if (settings.manualControls) {
-          $pager = $(settings.manualControls);
-          $pager.addClass(namespace + "_tabs " + namespaceIdx + "_tabs");
-        }
-
-        // Add pager slide class prefixes
-        if (settings.pager || settings.manualControls) {
-          $pager.find('li').each(function (i) {
-            $(this).addClass(slideClassPrefix + (i + 1));
-          });
-        }
-
-        // If we have a pager, we need to set up the selectTab function
-        if (settings.pager || settings.manualControls) {
-          $tabs = $pager.find('a');
-
-          // Select pager item
-          selectTab = function (idx) {
-            $tabs
-              .closest("li")
-              .removeClass(activeClass)
-              .eq(idx)
-              .addClass(activeClass);
-          };
-        }
-
-        // Auto cycle
-        if (settings.auto) {
-
-          startCycle = function () {
-            rotate = setInterval(function () {
-
-              // Clear the event queue
-              $slide.stop(true, true);
-
-              var idx = index + 1 < length ? index + 1 : 0;
-
-              // Remove active state and set new if pager is set
-              if (settings.pager || settings.manualControls) {
-                selectTab(idx);
-              }
-
-              slideTo(idx);
-            }, waitTime);
-          };
-
-          // Init cycle
-          startCycle();
-        }
-
-        // Restarting cycle
-        restartCycle = function () {
-          if (settings.auto) {
-            // Stop
-            clearInterval(rotate);
-            // Restart
-            startCycle();
-          }
-        };
-
-        // Pause on hover
-        if (settings.pause) {
-          $this.hover(function () {
-            clearInterval(rotate);
-          }, function () {
-            restartCycle();
-          });
-        }
-
-        // Pager click event handler
-        if (settings.pager || settings.manualControls) {
-          $tabs.bind("click", function (e) {
-            e.preventDefault();
-
-            if (!settings.pauseControls) {
-              restartCycle();
-            }
-
-            // Get index of clicked tab
-            var idx = $tabs.index(this);
-
-            // Break if element is already active or currently animated
-            if (index === idx || $("." + visibleClass).queue('fx').length) {
-              return;
-            }
-
-            // Remove active state from old tab and set new one
-            selectTab(idx);
-
-            // Do the animation
-            slideTo(idx);
-          })
-            .eq(0)
-            .closest("li")
-            .addClass(activeClass);
-
-          // Pause when hovering pager
-          if (settings.pauseControls) {
-            $tabs.hover(function () {
-              clearInterval(rotate);
-            }, function () {
-              restartCycle();
-            });
-          }
-        }
-
-        // Navigation
-        if (settings.nav) {
-         var navMarkup =
-           "<a href='#' class='" + navClass + " prev'>" + settings.prevText + "</a>" +
-           "<a href='#' class='" + navClass + " next'>" + settings.nextText + "</a>";
-
-          // Inject navigation
-          if (options.navContainer) {
-            $(settings.navContainer).append(navMarkup);
-          } else {
-            $this.after(navMarkup);
-          }
-
-          var $trigger = $("." + namespaceIdx + "_nav"),
-            $prev = $trigger.filter(".prev");
-
-          // Click event handler
-          $trigger.bind("click", function (e) {
-            e.preventDefault();
-
-            var $visibleClass = $("." + visibleClass);
-
-            // Prevent clicking if currently animated
-            if ($visibleClass.queue('fx').length) {
-              return;
-            }
-
-            // Adds active class during slide animation
-            // $(this)
-            // .addClass(namespace + "_active")
-            // .delay(fadeTime)
-            // .queue(function (next) {
-            // $(this).removeClass(namespace + "_active");
-            // next();
-            // });
-
-            // Determine where to slide
-            var idx = $slide.index($visibleClass),
-              prevIdx = idx - 1,
-              nextIdx = idx + 1 < length ? index + 1 : 0;
-
-            // Go to slide
-            slideTo($(this)[0] === $prev[0] ? prevIdx : nextIdx);
-            if (settings.pager || settings.manualControls) {
-              selectTab($(this)[0] === $prev[0] ? prevIdx : nextIdx);
-            }
-
-            if (!settings.pauseControls) {
-              restartCycle();
-            }
-          });
-
-          // Pause when hovering navigation
-          if (settings.pauseControls) {
-            $trigger.hover(function () {
-              clearInterval(rotate);
-            }, function () {
-              restartCycle();
-            });
-          }
-        }
-
-      }
-
-      // Max-width fallback
-      if (typeof document.body.style.maxWidth === "undefined" && options.maxwidth) {
-        var widthSupport = function () {
-          $this.css("width", "100%");
-          if ($this.width() > maxw) {
-            $this.css("width", maxw);
-          }
-        };
-
-        // Init fallback
-        widthSupport();
-        $(window).bind("resize", function () {
-          widthSupport();
-        });
-      }
-
-    });
-
-  };
-})(jQuery, this, 0);
+
+
+  <link href="//cdn.shopify.com/s/files/1/0789/0847/t/2/assets/style.scss.css?11606250031377539216" rel="stylesheet" type="text/css" media="all">
+  
+   <link href="//cdn.shopify.com/s/files/1/0789/0847/t/2/assets/style_mobile.css?11606250031377539216" rel="stylesheet" type="text/css" media="all">
+
+  <script type="text/javascript" async="" src="//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6"></script><script>
+//<![CDATA[
+      var Shopify = Shopify || {};
+      Shopify.shop = "ssur-web.myshopify.com";
+      Shopify.theme = {"name":"new-standard","id":10399617,"theme_store_id":null,"role":"main"};
+
+//]]>
+</script>
+
+
+
+<script id="__st">
+//<![CDATA[
+var __st={"a":7890847,"offset":-28800,"reqid":"157ba55f-f0dd-4894-8399-7fdd4523fe55","pageurl":"www.ssur.com\/pages\/privacy-policy","s":"pages-51587265","u":"349ca8d37357","p":"page","rtyp":"page","rid":51587265};
+//]]>
 </script>
 <script>
-  $(function() {
-    $(".rslides").responsiveSlides({
-     "auto": false,
-      "nav": true
-     
-    });
-  });
+//<![CDATA[
+      (function() {
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+        s.src = '//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6';
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+      })();
+
+//]]>
 </script>
-<script type="text/javascript">
-/*================================================================================
- * @name: bPopup - if you can't get it up, use bPopup
- * @author: (c)Bjoern Klinggaard (twitter@bklinggaard)
- * @demo: http://dinbror.dk/bpopup
- * @version: 0.9.4.min
- ================================================================================*/
- (function(b){b.fn.bPopup=function(z,F){function K(){a.contentContainer=b(a.contentContainer||c);switch(a.content){case "iframe":var h=b('<iframe class="b-iframe" '+a.iframeAttr+"></iframe>");h.appendTo(a.contentContainer);r=c.outerHeight(!0);s=c.outerWidth(!0);A();h.attr("src",a.loadUrl);k(a.loadCallback);break;case "image":A();b("<img />").load(function(){k(a.loadCallback);G(b(this))}).attr("src",a.loadUrl).hide().appendTo(a.contentContainer);break;default:A(),b('<div class="b-ajax-wrapper"></div>').load(a.loadUrl,a.loadData,function(){k(a.loadCallback);G(b(this))}).hide().appendTo(a.contentContainer)}}function A(){a.modal&&b('<div class="b-modal '+e+'"></div>').css({backgroundColor:a.modalColor,position:"fixed",top:0,right:0,bottom:0,left:0,opacity:0,zIndex:a.zIndex+t}).appendTo(a.appendTo).fadeTo(a.speed,a.opacity);D();c.data("bPopup",a).data("id",e).css({left:"slideIn"==a.transition||"slideBack"==a.transition?"slideBack"==a.transition?g.scrollLeft()+u:-1*(v+s):l(!(!a.follow[0]&&m||f)),position:a.positionStyle||"absolute",top:"slideDown"==a.transition||"slideUp"==a.transition?"slideUp"==a.transition?g.scrollTop()+w:x+-1*r:n(!(!a.follow[1]&&p||f)),"z-index":a.zIndex+t+1}).each(function(){a.appending&&b(this).appendTo(a.appendTo)});H(!0)}function q(){a.modal&&b(".b-modal."+c.data("id")).fadeTo(a.speed,0,function(){b(this).remove()});a.scrollBar||b("html").css("overflow","auto");b(".b-modal."+e).unbind("click");g.unbind("keydown."+e);d.unbind("."+e).data("bPopup",0<d.data("bPopup")-1?d.data("bPopup")-1:null);c.undelegate(".bClose, ."+a.closeClass,"click."+e,q).data("bPopup",null);H();return!1}function G(h){var b=h.width(),e=h.height(),d={};a.contentContainer.css({height:e,width:b});e>=c.height()&&(d.height=c.height());b>=c.width()&&(d.width=c.width());r=c.outerHeight(!0);s=c.outerWidth(!0);D();a.contentContainer.css({height:"auto",width:"auto"});d.left=l(!(!a.follow[0]&&m||f));d.top=n(!(!a.follow[1]&&p||f));c.animate(d,250,function(){h.show();B=E()})}function L(){d.data("bPopup",t);c.delegate(".bClose, ."+a.closeClass,"click."+e,q);a.modalClose&&b(".b-modal."+e).css("cursor","pointer").bind("click",q);M||!a.follow[0]&&!a.follow[1]||d.bind("scroll."+e,function(){B&&c.dequeue().animate({left:a.follow[0]?l(!f):"auto",top:a.follow[1]?n(!f):"auto"},a.followSpeed,a.followEasing)}).bind("resize."+e,function(){w=y.innerHeight||d.height();u=y.innerWidth||d.width();if(B=E())clearTimeout(I),I=setTimeout(function(){D();c.dequeue().each(function(){f?b(this).css({left:v,top:x}):b(this).animate({left:a.follow[0]?l(!0):"auto",top:a.follow[1]?n(!0):"auto"},a.followSpeed,a.followEasing)})},50)});a.escClose&&g.bind("keydown."+e,function(a){27==a.which&&q()})}function H(b){function d(e){c.css({display:"block",opacity:1}).animate(e,a.speed,a.easing,function(){J(b)})}switch(b?a.transition:a.transitionClose||a.transition){case "slideIn":d({left:b?l(!(!a.follow[0]&&m||f)):g.scrollLeft()-(s||c.outerWidth(!0))-C});break;case "slideBack":d({left:b?l(!(!a.follow[0]&&m||f)):g.scrollLeft()+u+C});break;case "slideDown":d({top:b?n(!(!a.follow[1]&&p||f)):g.scrollTop()-(r||c.outerHeight(!0))-C});break;case "slideUp":d({top:b?n(!(!a.follow[1]&&p||f)):g.scrollTop()+w+C});break;default:c.stop().fadeTo(a.speed,b?1:0,function(){J(b)})}}function J(b){b?(L(),k(F),a.autoClose&&setTimeout(q,a.autoClose)):(c.hide(),k(a.onClose),a.loadUrl&&(a.contentContainer.empty(),c.css({height:"auto",width:"auto"})))}function l(a){return a?v+g.scrollLeft():v}function n(a){return a?x+g.scrollTop():x}function k(a){b.isFunction(a)&&a.call(c)}function D(){x=p?a.position[1]:Math.max(0,(w-c.outerHeight(!0))/2-a.amsl);v=m?a.position[0]:(u-c.outerWidth(!0))/2;B=E()}function E(){return w>c.outerHeight(!0)&&u>c.outerWidth(!0)}b.isFunction(z)&&(F=z,z=null);var a=b.extend({},b.fn.bPopup.defaults,z);a.scrollBar||b("html").css("overflow","hidden");var c=this,g=b(document),y=window,d=b(y),w=y.innerHeight||d.height(),u=y.innerWidth||d.width(),M=/OS 6(_\d)+/i.test(navigator.userAgent),C=200,t=0,e,B,p,m,f,x,v,r,s,I;c.close=function(){a=this.data("bPopup");e="__b-popup"+d.data("bPopup")+"__";q()};return c.each(function(){b(this).data("bPopup")||(k(a.onOpen),t=(d.data("bPopup")||0)+1,e="__b-popup"+t+"__",p="auto"!==a.position[1],m="auto"!==a.position[0],f="fixed"===a.positionStyle,r=c.outerHeight(!0),s=c.outerWidth(!0),a.loadUrl?K():A())})};b.fn.bPopup.defaults={amsl:50,appending:!0,appendTo:"body",autoClose:!1,closeClass:"b-close",content:"ajax",contentContainer:!1,easing:"swing",escClose:!0,follow:[!0,!0],followEasing:"swing",followSpeed:500,iframeAttr:'scrolling="no" frameborder="0"',loadCallback:!1,loadData:!1,loadUrl:!1,modal:!0,modalClose:!0,modalColor:"#000",onClose:!1,onOpen:!1,opacity:0.7,position:["auto","auto"],positionStyle:"absolute",scrollBar:!0,speed:250,transition:"fadeIn",transitionClose:!1,zIndex:9997}})(jQuery);
+<script type="text/javascript" class="google-wallet-script" src="//cdn.shopify.com/s/assets/google_instant_buy-5483de0f42734cac3501cf377a39a46c0998897a0820ab3236f402d412065563.js" data-gw-src="https://wallet.google.com/online/v2/merchant/merchant.js"></script>
+
+
+  
+
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0789/0847/t/2/assets/respond.min.js?11606250031377539216" type="text/javascript"></script>
+<link href="//cdn.shopify.com/s/files/1/0789/0847/t/2/assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="//www.ssur.com/search?q=5dc9ae602dc7a5ec8472393da8697f19" id="respond-redirect" rel="respond-redirect" />
+<script src="//www.ssur.com/search?q=5dc9ae602dc7a5ec8472393da8697f19" type="text/javascript"></script>
+<![endif]-->
+<!--[if lt IE 8]>
+<script src="//cdn.shopify.com/s/files/1/0789/0847/t/2/assets/json2.js?11606250031377539216" type="text/javascript"></script>
+<![endif]-->
+
+
+
+  
+  
+  
+  <link href="//fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet" type="text/css" media="all">
+
+
+  
+
+
+  
+
+
+  
+
+
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/0789/0847/t/2/assets/modernizr.min.js?11606250031377539216" type="text/javascript"></script>
+
+  
+  <link href="//cdn.shopify.com/s/files/1/0789/0847/t/2/assets/lookbooks-app.css?11606250031377539216" rel="stylesheet" type="text/css" media="all">
+  
+  <script type="text/javascript">
+	function showStuff(id) {
+    document.getElementById(id).style.display = 'block';
+	}
 </script>
-<script type="text/javascript">
- // Semicolon (;) to ensure closing of earlier scripting
-    // Encapsulation
-    // $ is assigned to jQuery
-    ;(function($) {
+  
+</head>
 
-         // DOM Ready
-        $(function() {
+<body id="privacy-policy" class="template-page">
 
-            // Binding a click event
-            // From jQuery v.1.7.0 use .on() instead of .bind()
-          $('#my-button').bind('click', function(e) {
-              
+  <div class="wrapper">
 
-                // Prevents the default action to be triggered. 
-                e.preventDefault();
+    <header class="site-header">
 
-                // Triggering bPopup when click event is fired
-                $('#element_to_pop_up').bPopup({ onOpen: function(){  $('.follow ,.slidesss').click(function(){
-     $('#element_to_pop_up').bPopup().close();
-     
-     
-   
-   }); }});
-      
-    
-                });
-               });
-
-        })(jQuery);
-</script>
-
-
-
-
-<script type="text/javascript">
-    /*  ***********************  
-        GENERAL JAVASCRIPT  
-        ***********************
-    */
-    // BEGIN jQuery Pseudoclasses
-    $('li:last-child').addClass('last-item');
-    $('.tray-footer:last-child').addClass('last-item');
-    $('.footer-nav-content li:first-child').css({'margin-top':'0px'});
-    $('#main div:last-child').css({'margin-right':'0px'});
-    // END jQuery Pseudoclasses
-    
-    
-    // get window width
-    function windowWidth() {
-        var windowWidth = $(window).width();
-        $('#main-nav').css({
-            'width' : windowWidth + 'px'
-        });
-    }
-    
-    $(window).load(function() {
-        windowWidth();
-    });
-    $(window).resize(function() {
-        windowWidth();
-    });
-    
-</script>
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>SSUR</title>
-        <meta name="description" content="The brainchild of Ruslan Karablin, SSUR is a street wear label that encompasses his artistic vision and subversive ingenuity. The brand name, which is RUSS spelled backwards, gives hints of the artist's Russian heritage. Inspired by imperial art, Keith Haring and Stussy, Karablin strives to offer deeper concepts and meanings to his clothes instead of merely creating a skin-deep commercial street wear brand.">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="/cm/style.min.css">
-        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600" rel="stylesheet" type="text/css">
-
-        <script src="//ssur.com/jzv/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+      <div class="cart-summary accent-text">
         
-        <script type="text/javascript">
-var pkBaseURL = (("https:" == document.location.protocol) ? "https://" : "http://");
-document.write(unescape("%3Cscript src='" + pkBaseURL + "s3.amazonaws.com/aascript/shop.ssur.com/abandonaid-shop.ssur.com.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://s3.amazonaws.com/aascript/shop.ssur.com/abandonaid-shop.ssur.com.js" type="text/javascript"></script>
         
-    
-        <!--[if lt IE 7]>
-            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
-        <![endif]-->
 
-        <div class="white">
-        </div>
-        <div class="snap-drawers">
-            <div class="snap-drawer snap-drawer-left">
-                <div class="mb50">
-                    <div class="snap-drawer-search">
-                        <form method="GET" action="/jzv/search" name="ProductSearchForm" class="navbar-search">
-                            <input type="text" id="searchQ" name="sq" class="input-block-level search" placeholder="SEARCH">
-                            <span class="glyphicon glyphicon-search"></span>
-                        </form>
-                    </div>
-                    <div class="mainleftnav">
- <div class="menu-vertical-item level0">
-  <a href="/ssur">SSUR</a>
- </div>
- <div class="menu-vertical-item level0">
-  <a href="/caviar-cartel">Caviar Cartel</a>
- </div>
- <div class="menu-vertical-item level0">
-  <a href="/the-cut">The Cut</a>
- </div>
- <div class="menu-vertical-item level0">
-  <a href="/ssur-plus">SSUR*PLUS</a>
- </div>
- <div class="menu-vertical-item level0">
-  <a href="/kids">Kids</a>
- </div>
- <div class="menu-vertical-item level0">
-  <a href="/art">Art</a>
- </div>
- <div class="menu-vertical-item level0">
-  <a href="/sale">Sale</a>
- </div>
-</div>
-                    <div class="pl20 pt10">
-                        <form name="SubscriptionForm" method="post" action="/jzv/newsletter/subscribe_email" class="mb0"><input type="hidden" name="csrftoken" value="eacaa31747f948df9fbb8334a19cac47">
-                            <input type="hidden" name="p" value="">
-                            <div class="form-item">
-                                <input type="text" name="email" placeholder="Subscribe" style="width: 120px;" class="input-mini">
-                            </div>
-                        </form>
-                        <div class="mt10">
-                            <a class="info-toggle unselectable">
-                                <b>+Info</b>
-                            </a>
-                            <div class="info-content" style="display:none">
-                                <ul class="sidenav-subcategory">
-                                    <li>
-                                        <a href="http://shop.ssur.com/jzv/inf/about">
-                                            About
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="http://shop.ssur.com/jzv/inf/customerservice">
-                                            Customer Service
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="http://shop.ssur.com/jzv/inf/privacy">
-                                            Privacy Policy
-                                        </a>
-                                    </li>
-                                     <li>
-                                        <a href="http://shop.ssur.com/jzv/inf/returns">
-                                            Return Policy
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="http://shop.ssur.com/jzv/inf/contact">
-                                            Contact
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        
+        <p class="large--left medium-down--hide">
+          
+          <a href="/account/login" id="customer_login_link">Log in</a> or <a href="/account/register" id="customer_register_link">Create an account</a>
+          
+        </p>
+        
 
-        <div id="content" class="snap-content">
-            <div class="snap-content-wrapper">
-                <div id="offcanvasdim">
-                </div>
-                <div class="altheader">
-                    <div id="open-left" class="open-left">
-                        <ul class="open-left-links">
-                            <li class="open-left-link unselectable">
-                                <span>
-                                <img class="" src="/cm/icon-menu.svg">
-                                </span>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="altheader-logo">
-                        <a href="http://ssur.com">
-                            <img src="/cm/minilogo.png">
-                        </a>
-                    </div>
-                    <div class="altheader-nav">
-                        <ul class="altheader-links">
-                            <li class="toggleaccount-link unselectable">
-                                <span>
-                                <span class="glyphicon glyphicon-user"></span>
-                                </span>
-                            </li>
-                            <li class="togglecart-link unselectable">
-                                <span class="glyphicon glyphicon-shopping-cart"></span>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="top-wrapper">
-                    <div class="content-wrapper">
-                        <div class="container-fluid">
-                            <div class="row-fluid header">
-                                <div class="header-container">
-                                    <div class="headernav">
-                                        <div class="span12">
-                                            <div class="headernav-container">
-                                                <div class="headernav-blocks">
-                                                    <ul class="headernav-links">
-                                                        <li>
-                                                            <a href="http://ssur.com/">
-                                                                HOME
-                                                            </a>
-                                                        </li>
-                                                        <li>
-                                                            <a href="http://blog.ssur.com/">
-                                                                BLOG
-                                                            </a>
-                                                        </li>
-                                                        <li>
-                                                            <a href="http://shop.ssur.com/jzv/inf/lookbook">
-                                                                LOOKBOOK
-                                                            </a>
-                                                        </li>                                                        
-                                                        
-                                                        
-                                                            <li>
-                                                                <a href="/jzv/account/view?next=account">
-                                                                    SIGN IN
-                                                                </a>
-                                                            </li>
-                                                        
-                                                        
-                                                        <li id="basket">
-                                                            <a href="/jzv/cart/view">
-                                                                 Shopping Bag ( 0 )
-                                                            </a>
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                                <div class="headernav-blocks">
-                                                    <form method="GET" action="/jzv/search" name="ProductSearchForm" class="altnavbar-search">
-                                                        <input type="text" id="searchQ" name="sq" class="search" placeholder="SEARCH">
-                                                    </form>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="container-fluid altheader-toggle">
-                            <div id="togglesearch">
-                                <div class="toggle-container">
-                                    <form method="GET" action="/jzv/search" name="ProductSearchForm" class="navbar-search">
-                                        <input type="text" id="searchQ" name="sq" class="input-block-level search" placeholder="Search">
-                                        <span class="glyphicon glyphicon-search"></span>
-                                    </form>
-                                </div>
-                            </div>
-                            <div id="togglecart">
-                                <div class="toggle-container">
-                                    <a href="/jzv/cart/view">
-                                         Shopping Bag ( 0 )
-                                    </a>
-                                </div>
-                            </div>
-                            <div id="toggleaccount">
-                                <div class="toggle-container">
-                                    <ul class="toggleaccount-list">
-                                        
-                                            <li>
-                                                <a href="/jzv/account/view?next=account">
-                                                    SIGN IN
-                                                </a>
-                                            </li>
-                                        
-                                        
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="container-fluid">
-                            <div class="row-fluid middle">
-                                <div class="middle-container">
-                                    
-   <div class="sidebar">
-    <div class="header-logo">
-        <a href="http://www.ssur.com">
-            <img src="/cm/img_logo_client.png">
-        </a>
-    </div>
-    <nav class="togglebar togglenav" role="navigation">
-        <div class="sidenav">
-            <div class="mainleftnav mb10">
- <div class="menu-vertical-item level0">
-  <a href="/ssur">SSUR</a>
- </div>
- <div class="menu-vertical-item level0">
-  <a href="/caviar-cartel">Caviar Cartel</a>
- </div>
- <div class="menu-vertical-item level0">
-  <a href="/the-cut">The Cut</a>
- </div>
- <div class="menu-vertical-item level0">
-  <a href="/ssur-plus">SSUR*PLUS</a>
- </div>
- <div class="menu-vertical-item level0">
-  <a href="/kids">Kids</a>
- </div>
- <div class="menu-vertical-item level0">
-  <a href="/art">Art</a>
- </div>
- <div class="menu-vertical-item level0">
-  <a href="/sale">Sale</a>
- </div>
-</div>
-            <form name="SubscriptionForm" method="post" action="/jzv/newsletter/subscribe_email" class="mb0"><input type="hidden" name="csrftoken" value="eacaa31747f948df9fbb8334a19cac47">
-                <input type="hidden" name="p" value="">
-                <div class="form-item">
-                    <input type="text" name="email" placeholder="Subscribe" style="width: 120px;" class="input-mini">
-                </div>
-            </form>
-            <div class="mt10">
-                <a class="info-toggle unselectable">
-                    <b>+Info</b>
-                </a>
-                <div class="info-content" style="display:none">
-                    <ul class="sidenav-subcategory">
-                        <li>
-                            <a href="http://www.ssur.com/jzv/inf/about">
-                                About
-                            </a>
-                        </li>
-                        <li>
-                            <a href="http://www.ssur.com/jzv/inf/customerservice">
-                                Customer Service
-                            </a>
-                        </li>
-                        <li>
-                            <a href="http://www.ssur.com/jzv/inf/stores">
-                                Stores
-                            </a>
-                        </li>
-                        <li>
-                            <a href="http://www.ssur.com/jzv/inf/privacy">
-                                Privacy Policy
-                            </a>
-                        </li>
-                         <li>
-                            <a href="http://www.ssur.com/jzv/inf/returns">
-                                Return Policy
-                            </a>
-                        </li>
-                        <li>
-                            <a href="http://www.ssur.com/jzv/inf/contact">
-                                Contact
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </nav>
-    <div class="sidenav sidenav-main">
-        <div class="mainleftnav mb10">
- <div class="menu-vertical-item level0">
-  <a href="/ssur">SSUR</a>
- </div>
- <div class="menu-vertical-item level0">
-  <a href="/caviar-cartel">Caviar Cartel</a>
- </div>
- <div class="menu-vertical-item level0">
-  <a href="/the-cut">The Cut</a>
- </div>
- <div class="menu-vertical-item level0">
-  <a href="/ssur-plus">SSUR*PLUS</a>
- </div>
- <div class="menu-vertical-item level0">
-  <a href="/kids">Kids</a>
- </div>
- <div class="menu-vertical-item level0">
-  <a href="/art">Art</a>
- </div>
- <div class="menu-vertical-item level0">
-  <a href="/sale">Sale</a>
- </div>
-</div>
-        <form name="SubscriptionForm" method="post" action="/jzv/newsletter/subscribe_email" class="mb0"><input type="hidden" name="csrftoken" value="eacaa31747f948df9fbb8334a19cac47">
-            <input type="hidden" name="p" value="">
-            <div class="form-item">
-                <input type="text" name="email" placeholder="Subscribe" style="width: 120px;" class="input-mini">
-            </div>
+        
+
+        <p id="cart-count" class="large--right">
+          <a class="no-underline" href="/cart">0 item<span id="cart-total-small">($ 0.00)</span></a> ·
+          <a href="/cart">Check out</a>
+        </p>
+
+        <form action="/search" method="get" id="search-form" role="search" class="large--right">
+          <input name="q" type="text" id="search-field" placeholder="Search store..." class="hint">
+          <button type="submit" value="" name="submit" id="search-submit" class="icon-fallback-text">
+            <span class="icon icon-search" aria-hidden="true"></span>
+            <span class="fallback-text">Search</span>
+          </button>
         </form>
-        <div class="mt10">
-            <a class="info-toggle unselectable">
-                <b>+Info</b>
-            </a>
-            <div class="info-content" style="display:none">
-                <ul class="sidenav-subcategory">
-                    <li>
-                        <a href="http://www.ssur.com/jzv/inf/about">
-                            About
-                        </a>
-                    </li>
-                    <li>
-                        <a href="http://www.ssur.com/jzv/inf/customerservice">
-                            Customer Service
-                        </a>
-                    </li>
-                    <li>
-                            <a href="http://www.ssur.com/jzv/inf/stores">
-                                Stores
-                            </a>
-                        </li>
-                    <li>
-                        <a href="http://www.ssur.com/jzv/inf/privacy">
-                            Privacy Policy
-                        </a>
-                    </li>
-                     <li>
-                        <a href="http://www.ssur.com/jzv/inf/returns">
-                            Return Policy
-                        </a>
-                    </li>
-                    <li>
-                        <a href="http://www.ssur.com/jzv/inf/contact">
-                            Contact
-                        </a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
 
-
-<style>
-    *:focus {
-    outline: none;
-}   
-</style>
-
+      </div>
+      
+     <div class="wrap" style="width:100%;background:#000000;">
     
-    
-    
-
-                                    <div class="span12 content">
-        <div class="body-container">
-            <div id="body" class="wrapper">
-    
-
-
-<div id="leftWr">
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="refine" style="">
-    
-</div>
-
-</div>
+      <div class="logo"><a id="logo" href="/" role="banner">
+            <img src="//cdn.shopify.com/s/files/1/0789/0847/t/2/assets/logo.png?11606250031377539216" alt="SSUR">
+          </a></div>
+      <div class="options">
+      	<ul style="margin:0;padding:0;">
+      		<li style="
+	background:url( 'https://cdn.shopify.com/s/files/1/0789/0847/t/2/assets/menu.png?12488536252639201893') no-repeat;
+	background-size:cover;
+                       width:35px;
+	height:35px;
+	display:inline-block;
+	cursor:pointer;
+	text-indent:-1000em;">Menu</li>
+      	</ul>
+      </div>
+      <div class="clear"></div>
+	    
+	    <nav class="vertical menu">
+	    	<ul>
+              
+              
+                <div class="subnav0" style="display:none;">
+              <li><a href="#" style="display:inline;background:#000000;">
+            <img src="//cdn.shopify.com/s/files/1/0789/0847/t/2/assets/arrat.png?11606250031377539216" style="width:10px;">
+          </a><a style="display:inline;" href="#">SHOP</a></li>
+              </div>
+              <div class="subnav" style="display:block;">
+              
                 
-                <div class="row">
-                    <div class="span6 info">
-                        <div class="inner">
-                            <div class="hd"><strong>PRIVACY POLICY</strong></div>
+                <li><a href="#" style="display:inline;background:#000000;float:left;">
+            <img src="//cdn.shopify.com/s/files/1/0789/0847/t/2/assets/arrat.png?11606250031377539216" style="width:10px;">
+          </a><a style="display:inline;padding-right:70px;" href="/collections/ssur">  SSUR</a></li>
+                <div class="subnav1">
+              	
+                  <li><a href="/collections/ssur-new-arrivals">NEW</a></li>
+                  
+                  <li><a href="/collections/ssur-hats">HATS</a></li>
+                  
+                  <li><a href="/collections/ssur-tees">T-SHIRTS</a></li>
+                  
+                  <li><a href="/collections/ssur-tops">TOPS</a></li>
+                  
+                  <li><a href="/collections/ssur-fleece">SWEATSHIRTS</a></li>
+                  
+                  <li><a href="/collections/ssur-outerwear">OUTERWEAR</a></li>
+                  
+                  <li><a href="/collections/ssur-denim">DENIM</a></li>
+                  
+                  <li><a href="/collections/ssur-bottoms">BOTTOMS</a></li>
+                  
+                  <li><a href="/collections/ssur-accessories">ACCESSORIES</a></li>
+                  
+                  <li><a href="/collections/ssur-sale">SALE</a></li>
+                  
+                </div>
+                
+                
+              
+                
+                <li><a class="sn2" href="#" style="display:inline;background:#000000;float:left;">
+            <img src="//cdn.shopify.com/s/files/1/0789/0847/t/2/assets/arrat.png?11606250031377539216" style="width:10px;">
+          </a><a style="display:inline;padding-right:70px;" href="/collections/ssur-plus">SSUR*PLUS</a></li>
+                
+                <div class="subnav2">
+              	
+                  <li><a href="/collections/ssur-plus-new-arrivals">NEW</a></li>
+                  
+                  <li><a href="/collections/ssur-plus-hats">HATS</a></li>
+                  
+                  <li><a href="/collections/ssur-plus-t-shirts">T-SHIRTS </a></li>
+                  
+                  <li><a href="/collections/ssur-plus-tops">TOPS</a></li>
+                  
+                  <li><a href="/collections/ssur-plus-fleece">SWEATSHIRTS</a></li>
+                  
+                  <li><a href="/collections/ssur-plus-outerwear">OUTERWEAR</a></li>
+                  
+                  <li><a href="/collections/ssur-plus-bottoms">BOTTOMS</a></li>
+                  
+                  <li><a href="/collections/ssur-plus-accessories">ACCESSORIES</a></li>
+                  
+                  <li><a href="/collections/ssurplus-sale">SALE</a></li>
+                  
+                </div>
+                
+                
+                
+              
+                
+                <li><a class="sn3" href="#" style="display:inline;background:#000000;float:left;">
+            <img src="//cdn.shopify.com/s/files/1/0789/0847/t/2/assets/arrat.png?11606250031377539216" style="width:10px;">
+          </a><a style="display:inline;padding-right:70px;" href="/collections/caviar-cartel">CAVIAR CARTEL</a></li>
+                <div class="subnav3">
+              	
+                  <li><a href="/collections/caviar-cartel-new-arrivals">NEW ARRIVALS</a></li>
+                  
+                  <li><a href="/collections/caviar-cartel-hats">HATS</a></li>
+                  
+                  <li><a href="/collections/caviar-cartel-t-shirts">T-SHIRTS</a></li>
+                  
+                  <li><a href="/collections/caviar-cartel-tops">TOPS</a></li>
+                  
+                  <li><a href="/collections/caviar-cartel-fleece">SWEATSHIRTS</a></li>
+                  
+                  <li><a href="/collections/caviar-cartel-bottoms">BOTTOMS</a></li>
+                  
+                  <li><a href="/collections/caviar-cartel-accessories">ACCESSORIES</a></li>
+                  
+                  <li><a href="/collections/caviar-cartel-sale">SALE</a></li>
+                  
+                </div>
+                
+                
+              
+              </div>
+              
+              
+              
+              
+              
+              <li><a href="/pages/collections">COLLECTIONS</a></li>
+              
+              
+              
+              
+              <li><a href="/blogs/news">NEWS</a></li>
+              
+              
+              
+              
+              <li><a href="/pages/art">ART</a></li>
+              
+              
+              
+              
+              <li><a href="/pages/stores">STORES</a></li>
+              
+              
+              
+        	</ul>
+	    </nav>
+    
+    
+        
+   
+    
+  </div>
+ 
+<script src="js/jquery.min.js"></script>
+<script type="text/javascript">
+   window.addEventListener("load",function() {
+	  // Set a timeout...
+	  setTimeout(function(){
+	    // Hide the address bar!
+	    window.scrollTo(0, 1);
+	  }, 0);
+	});
+   $('.menu' ).hide();   
+   $('.options li:first-child').click(function(){	
+   		$(this).toggleClass('active');      			
+   		$('.menu').toggle();  		
+   		$('.options li:first-child').removeClass('active'); 		
+   });
+  $('.subnav0 li a:first-child').click(function(){	
+   			 			
+     $('.subnav').toggle();  		
+   		
+   });
+  
+  $('.subnav li:first-child a:first-child').click(function(){	
+   			 			
+     $('.subnav1').toggle();  		
+   		
+   });
+  
+  $('.sn2').click(function(){	
+   			 			
+     $('.subnav2').toggle();  		
+   		
+   });
+    $('.sn3').click(function(){	
+   			 			
+     $('.subnav3').toggle();  		
+   		
+   });
+ 
+  
+  
+  
+</script>
+
+      
+      <div class="grid-full nav-bar">
+        <div class="grid-item  col-12" style="display:none;">
+          
+          <a id="logo" href="/" role="banner">
+            <img src="//cdn.shopify.com/s/files/1/0789/0847/t/2/assets/logo.png?11606250031377539216" alt="SSUR">
+          </a>
+          
+
+          
+        </div>
+        <div class="grid-item  col-12">
+          <nav id="navWrap" role="navigation">
+            <ul id="nav">
+               <li class="nav-item first"><a class="nav-item-link" href="/" role="banner" style="width:60%">
+            <img src="//cdn.shopify.com/s/files/1/0789/0847/t/2/assets/logo.png?11606250031377539216" alt="SSUR">
+                </a></li>  
+              
+              
+              
+              
+              
+              
+              
+              <li class="nav-item ">
+                <a class="nav-item-link" href="#" onclick="showStuff('navWrap2'); return false;">SHOP</a>
+                
+              </li>
+              
+              
+              
+              
+              
+              <li class="nav-item ">
+                <a class="nav-item-link" href="/pages/collections">COLLECTIONS</a>
+                
+              </li>
+              
+              
+              
+              
+              
+              <li class="nav-item ">
+                <a class="nav-item-link" href="/blogs/news">NEWS</a>
+                
+              </li>
+              
+              
+              
+              
+              
+              <li class="nav-item ">
+                <a class="nav-item-link" href="/pages/art">ART</a>
+                
+              </li>
+              
+              
+              
+              
+              
+              <li class="nav-item  last">
+                <a class="nav-item-link" href="/pages/stores">STORES</a>
+                
+              </li>
+              
+                
+             
+            </ul>
+          </nav> 
+        </div>
+        <div class="grid-item  col-12">
+        <nav id="navWrap2" role="navigation" style="display:none">
+            <ul id="nav2">
+              
+              
+              
+              
+              
+              <li class="nav-item first has-dropdown" style="width:25%;padding:0px 0px;">
+                <a class="nav-item-link" href="/collections/ssur">SSUR <span class="icon icon-arrow-down" aria-hidden="true"></span></a>
+                
+                <ul class="sub-nav">
+                  
+                  <li class="sub-nav-item first">
+                    <a class="sub-nav-item-link first " href="/collections/ssur-new-arrivals">NEW</a>
+                  </li>
+                  
+                  <li class="sub-nav-item">
+                    <a class="sub-nav-item-link  " href="/collections/ssur-hats">HATS</a>
+                  </li>
+                  
+                  <li class="sub-nav-item">
+                    <a class="sub-nav-item-link  " href="/collections/ssur-tees">T-SHIRTS</a>
+                  </li>
+                  
+                  <li class="sub-nav-item">
+                    <a class="sub-nav-item-link  " href="/collections/ssur-tops">TOPS</a>
+                  </li>
+                  
+                  <li class="sub-nav-item">
+                    <a class="sub-nav-item-link  " href="/collections/ssur-fleece">SWEATSHIRTS</a>
+                  </li>
+                  
+                  <li class="sub-nav-item">
+                    <a class="sub-nav-item-link  " href="/collections/ssur-outerwear">OUTERWEAR</a>
+                  </li>
+                  
+                  <li class="sub-nav-item">
+                    <a class="sub-nav-item-link  " href="/collections/ssur-denim">DENIM</a>
+                  </li>
+                  
+                  <li class="sub-nav-item">
+                    <a class="sub-nav-item-link  " href="/collections/ssur-bottoms">BOTTOMS</a>
+                  </li>
+                  
+                  <li class="sub-nav-item">
+                    <a class="sub-nav-item-link  " href="/collections/ssur-accessories">ACCESSORIES</a>
+                  </li>
+                  
+                  <li class="sub-nav-item last">
+                    <a class="sub-nav-item-link  last" href="/collections/ssur-sale">SALE</a>
+                  </li>
+                  
+                </ul>
+                
+              </li>
+              
+              
+              
+              
+              
+              <li class="nav-item has-dropdown" style="width:25%;padding:0px 0px;">
+                <a class="nav-item-link" href="/collections/ssur-plus">SSUR*PLUS <span class="icon icon-arrow-down" aria-hidden="true"></span></a>
+                
+                <ul class="sub-nav">
+                  
+                  <li class="sub-nav-item first">
+                    <a class="sub-nav-item-link first " href="/collections/ssur-plus-new-arrivals">NEW</a>
+                  </li>
+                  
+                  <li class="sub-nav-item">
+                    <a class="sub-nav-item-link  " href="/collections/ssur-plus-hats">HATS</a>
+                  </li>
+                  
+                  <li class="sub-nav-item">
+                    <a class="sub-nav-item-link  " href="/collections/ssur-plus-t-shirts">T-SHIRTS </a>
+                  </li>
+                  
+                  <li class="sub-nav-item">
+                    <a class="sub-nav-item-link  " href="/collections/ssur-plus-tops">TOPS</a>
+                  </li>
+                  
+                  <li class="sub-nav-item">
+                    <a class="sub-nav-item-link  " href="/collections/ssur-plus-fleece">SWEATSHIRTS</a>
+                  </li>
+                  
+                  <li class="sub-nav-item">
+                    <a class="sub-nav-item-link  " href="/collections/ssur-plus-outerwear">OUTERWEAR</a>
+                  </li>
+                  
+                  <li class="sub-nav-item">
+                    <a class="sub-nav-item-link  " href="/collections/ssur-plus-bottoms">BOTTOMS</a>
+                  </li>
+                  
+                  <li class="sub-nav-item">
+                    <a class="sub-nav-item-link  " href="/collections/ssur-plus-accessories">ACCESSORIES</a>
+                  </li>
+                  
+                  <li class="sub-nav-item last">
+                    <a class="sub-nav-item-link  last" href="/collections/ssurplus-sale">SALE</a>
+                  </li>
+                  
+                </ul>
+                
+              </li>
+              
+              
+              
+              
+              
+              <li class="nav-item last has-dropdown" style="width:25%;padding:0px 0px;">
+                <a class="nav-item-link" href="/collections/caviar-cartel">CAVIAR CARTEL <span class="icon icon-arrow-down" aria-hidden="true"></span></a>
+                
+                <ul class="sub-nav">
+                  
+                  <li class="sub-nav-item first">
+                    <a class="sub-nav-item-link first " href="/collections/caviar-cartel-new-arrivals">NEW ARRIVALS</a>
+                  </li>
+                  
+                  <li class="sub-nav-item">
+                    <a class="sub-nav-item-link  " href="/collections/caviar-cartel-hats">HATS</a>
+                  </li>
+                  
+                  <li class="sub-nav-item">
+                    <a class="sub-nav-item-link  " href="/collections/caviar-cartel-t-shirts">T-SHIRTS</a>
+                  </li>
+                  
+                  <li class="sub-nav-item">
+                    <a class="sub-nav-item-link  " href="/collections/caviar-cartel-tops">TOPS</a>
+                  </li>
+                  
+                  <li class="sub-nav-item">
+                    <a class="sub-nav-item-link  " href="/collections/caviar-cartel-fleece">SWEATSHIRTS</a>
+                  </li>
+                  
+                  <li class="sub-nav-item">
+                    <a class="sub-nav-item-link  " href="/collections/caviar-cartel-bottoms">BOTTOMS</a>
+                  </li>
+                  
+                  <li class="sub-nav-item">
+                    <a class="sub-nav-item-link  " href="/collections/caviar-cartel-accessories">ACCESSORIES</a>
+                  </li>
+                  
+                  <li class="sub-nav-item last">
+                    <a class="sub-nav-item-link  last" href="/collections/caviar-cartel-sale">SALE</a>
+                  </li>
+                  
+                </ul>
+                
+              </li>
+              
+            </ul>
+          </nav>
+        </div>
+      </div>
+
+    </header>
+
+    <div id="content" role="main">
+      
+      <link href="//pressify.s3.amazonaws.com/assets/fancybox/source/jquery.fancybox.css" rel="stylesheet" type="text/css">
+<script src="//pressify.s3.amazonaws.com/assets/fancybox/source/jquery.fancybox.js" type="text/javascript"></script>
+
+
+
+
+
+
+
+
+    
+
+<script>
+  	jQuery(window).load(function() {
+		jQuery(".fancybox-lb").fancybox({
+          maxWidth	: 800,
+          maxHeight	: 600,
+          fitToView	: false,
+          width		: '90%',
+          height		: '90%',
+          autoSize	: true,
+          closeClick	: false,
+          openEffect	: 'none',
+          closeEffect	: 'none'
+      });
+	});
+</script>
+
+<div class="page-container">
+
+  
+
+  <div class="grid">
+    <div id="page-content" class="grid-item">
+      <div class="rte">
+        <meta charset="utf-8">
+<div class="hd"><strong>PRIVACY POLICY</strong></div>
 <div class="bd">
 <p>We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.</p>
 <p>When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.<br>We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites.</p>
 <p>We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,&nbsp;<a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">click here</a>.</p>
-<p>&nbsp;</p>
 </div>
-                        </div>
-                    </div>
-                </div>
-            
+      </div>
+    </div><!-- #page-content -->
 
+    
 
+  </div>
 
-            </div>
-        </div>
-        <div style="clear:both;display:block">
-                			            </div>
-				        </div>
-				    </div>
-				</div>
-            </div>
-        </div>
-
-    </div>
+</div><!-- #page-container -->
+<hr>
+<div class="accent-text" id="breadcrumbs">
+   <span><a href="/">Home</a></span>
+   
+      <span class="sep">/</span> <span>Privacy policy</span>
+   
 </div>
 
-<script src="//shop.ssur.com/cm/script.min.js"></script>
-<script src="//shop.ssur.com/cm/main.min.js"></script>
 
+      
+    </div><!-- #content -->
 
-<script src="//ssur.com/jzv/js/respond.min.js"></script>
-
-<script type="text/javascript">
-    /*  ***********************  
-        GENERAL JAVASCRIPT  
-        ***********************
-    */
-    // BEGIN jQuery Pseudoclasses
-    $('li:last-child').addClass('last-item');
-    $('.footer-nav:last-child').addClass('last-item');
-    $('.footer-nav-content li:first-child').css({'margin-top':'0px'});
-    // END jQuery Pseudoclasses
     
-    
-    /*  ***********************  
-        PRODUCT PAGE JAVASCRIPT  
-        ***********************
-    */
-    // GET MAX VALUE IN ARRAY
-    Array.max = function( array ){
-        return Math.max.apply( Math, array );
-    };
-    
-    // BEGIN MSIE PRODUCT PAGE OPACITY
-    $(window).load(function() {
-        if ($.browser.msie) {
-            $('#product-details').removeClass('alpha70').addClass('alpha70ie');
-        }
-    });
-    // END MSIE PRODUCT PAGE OPACITY
-    
-    // BEGIN jQuery Pseudoclasses
-    $('.tab:last-child').addClass('last-item');
-    $('.mini-product-container:last-child').addClass('last-item');
-    // END jQuery Pseudoclasses
-    
-    // MANAGE PRODUCT PAGE DIMENSIONS
-    function productPageDimensions(override) {
-        // Set minimum web page size specific to product page
-        $('#wrapper').css({'min-width':'875px'});
-        // Manage Product Page Image and MiniProducts Right Padding
-        var mainContentWidth = $('#main-content').width();
-        var productDetailsWidth = $('#product-details').outerWidth(true);
-        var numImages = 0;
-        var imageWidth = $('#product-image > img').outerWidth(true);
-        var imagesActualSpace = parseInt(numImages) * parseInt(imageWidth);
-        var imageSpace = parseInt(mainContentWidth) - parseInt(productDetailsWidth);
-        var minWidthRelatedProds = parseInt($('#product-related-chosen').css('min-width'), 10);
-        var numImagesAllowed = Math.floor(parseInt(imageSpace) / parseInt(imageWidth));
-        var imagesAllowedSpace = parseInt(numImagesAllowed) * parseInt(imageWidth);
+    <footer id="footer">
+      <div class="grid">
         
         
-        if(parseInt(numImagesAllowed) > parseInt(numImages)) {
-            var marginGiven = parseInt(mainContentWidth) - parseInt(imagesActualSpace);
-        }
-        else {
-            /*
-            var marginGiven = parseInt(mainContentWidth) - parseInt(imagesAllowedSpace) - 30;
-            */
-            var marginGiven = 360;
-        }
-        
-        var leftOverSpace = parseInt(marginGiven) - parseInt(productDetailsWidth);
-        if (parseInt(leftOverSpace) >= parseInt(minWidthRelatedProds)){
-            $('#product-image').css({'margin-right' : '0px'});
-        }
-        else {
-            $('#product-image').css({'margin-right' : marginGiven + 'px'});
-        }
-        $('#product-related-chosen').css({'margin-right' : productDetailsWidth + 'px'});
-        
-        if(parseInt(override) >= 0) {
-            $('#product-image').css({'margin-right' : override + 'px'});
-        }
-    };
-    
-    
-    // BEGIN ON PAGE LOAD
-    $(window).load(function() {
-        // Change Opacity on Product Page for MSIE
-        if ($.browser.msie) {
-            $('#product-details').removeClass('alpha70').addClass('alpha70ie');
-        }
-        
-        // Manage height of Product Detail Box
-        var items = [];
-        $('.tabContent').each(function (i, e) {
-            items.push($(e).height());
-        });
-        var firstValue = items[0];
-        var maxValue = Array.max(items);
-        var productDetailsHeight = $('#product-details').height() + 30 + 5;
-        // Compare the height of other tabs to the first tab, make the height of the main content
-        // the same as the max height of product details div
-        if (parseInt(maxValue) > parseInt(firstValue)) {
-            var diff = parseInt(maxValue) - parseInt(firstValue);
-            var productDetailsMaxHeight = parseInt(productDetailsHeight) + parseInt(diff);
-            $('#main-content').css({'min-height': productDetailsMaxHeight + 'px'});
-        }
-        else {
-            $('#main-content').css({'min-height': productDetailsHeight + 'px'});
-        }
-        productPageDimensions();
-    });
-    // END ON PAGE LOAD
-    
-    
-    // BEGIN ON PAGE RESIZE
-    $(window).resize(function() {
-        productPageDimensions();
-    });
-    // END ON PAGE RESIZE
-    
-    
-    
-    // BEGIN PRODUCT PAGE jQuery CLICK EVENTS
-    $(document).on('click', '.product_medium_image', function(){
-        var productDetailsHeight = $('#product-details').outerHeight(true) + 5;
-        var productDetailsWidth = $('#product-details').outerWidth(true);
-    
-        var product_images = $('.product_images').children();
-        var selected = 'hidden';
-        var speed = 300;
-        
-        var marginRight = parseInt($('#product-image').css('margin-right'), 10);
-            
-        if($(this).hasClass('product_medium_image')) {
-            $(this).removeClass('product_medium_image');
-            $(this).addClass('product_large_image');
-            
-            $(this).animate({
-                width: 600,
-                height: 400
-            }, speed, function() {
-                var temp = $(this).attr('src').split("/");
-                temp[ temp.length-2 ] = 'products';
-                temp[ temp.length-1 ] = temp[ temp.length-1 ].replace('_3.jpg', '_4.jpg');
-                $(this).attr('src', temp.join("/"));
-            });
-    
-            for(var i=0; i < product_images.length; i++) {
-                if( $(product_images[i]).hasClass('product_medium_image') ) {
-                    $(product_images[i]).addClass('product_medium_image '+selected);
-                    $('.'+selected).animate(
-                        {
-                            width: 0,
-                            height: 0,
-                            marginRight: 0,
-                            marginBottom: 0
-                        }, 300
-                    );
-                }
-            }
-        }
-        productPageDimensions();
-    });
-    $(document).on('click', '.product_large_image', function(){
-        var productDetailsHeight = $('#product-details').outerHeight(true) + 5;
-        var productDetailsWidth = $('#product-details').outerWidth(true);
-    
-        var product_images = $('.product_images').children();
-        var selected = 'hidden';
-        var speed = 300;
-        
-        var marginRight = parseInt($('#product-image').css('margin-right'), 10);
-    
-        if($(this).hasClass('product_large_image')) {
-            $(this).removeClass('product_large_image');
-            $(this).addClass('product_medium_image');
-            $(this).animate({
-                width: 320,
-                height: 213
-            }, speed, function() {
-                var temp = $(this).attr('src').split("/");
-                temp[ temp.length-2 ] = 'products';
-                temp[ temp.length-1 ] = temp[ temp.length-1 ].replace('_4.jpg', '_3.jpg');
-                $(this).attr('src', temp.join("/"));
-                $(this).attr('src', $(this).attr('src').replace('_4.jpg', '_3.jpg'));
-            });
-            for(var i=0; i < product_images.length; i++) {
-                if( $(product_images[i]).hasClass(selected) ) {
-                    $(product_images[i]).removeClass(selected);
-                    $(product_images[i]).animate(
-                        {
-                            width: 320,
-                            height: 213,
-                            marginRight: 15,
-                            marginBottom: 15
-                        }, speed
-                    );
-                }
-            }
-        }
-        productPageDimensions(marginRight);
-    });
-    // END PRODUCT PAGE jQuery CLICK EVENTS
-    
-
-    
-    /*
-    // BEGIN PRODUCT PAGE MULTI-ATTRIBUTE FUNCTIONALITY
-    $(document).on('click', ".attributeOption", function(){
-    var attrId = $(this).attr('id');
-    var attrValue = $(this).attr('title');
-    
-    console.log($('#' + attrId).parent().attr('class'));
-    
-    if($('#' + attrId).parent().attr('class') != 'regular inactive') {
-    $('.' + attrId + '-lbl span').empty();
-    $('.' + attrId + '-lbl span').append(attrValue);
-    }
-    });
-    */
-    // END PRODUCT PAGE MULTI-ATTRIBUTE FUNCTIONALITY
-</script>
-
-
-
-
-
-
-<script type="text/javascript">
-adroll_adv_id = "PWAW7BD3FRHA3MK7ECK53S";
-adroll_pix_id = "E7GXOEG7RBGGXOC2O5S4VA";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
-</script>
-
-
-
+        <div class="grid-item col-4 medium--col-6 small--col-12 ft-module" id="about-module">
+          
+          <ul class="social-links inline-list">
+  
+  <li>
+    <a class="icon-fallback-text" href="https://twitter.com/ssurnewyrok" title="SSUR on Twitter">
+      <span class="icon icon-twitter" aria-hidden="true"></span>
+      <span class="fallback-text">Twitter</span>
+    </a>
+  </li>
+  
+  
+  <li>
+    <a class="icon-fallback-text" href="https://www.facebook.com/ssurnewyork" title="SSUR on Facebook">
+      <span class="icon icon-facebook" aria-hidden="true"></span>
+      <span class="fallback-text">Facebook</span>
+    </a>
+  </li>
+  
+  
+  <li>
+    <a class="icon-fallback-text" href="https://ssurnewyork.tumblr.com" title="SSUR on Tumblr">
+      <span class="icon icon-tumblr" aria-hidden="true"></span>
+      <span class="fallback-text">Tumblr</span>
+    </a>
+  </li>
+  
+  
+  <li>
+    <a class="icon-fallback-text" href="https://instagram.com/ssurnewyork" title="SSUR on Instagram">
+      <span class="icon icon-instagram" aria-hidden="true"></span>
+      <span class="fallback-text">Instagram</span>
+    </a>
+  </li>
+  
+  
+  
+  
+  
+  
+</ul>
         </div>
-
-
-
-
-
-
-
-
-
-
-
+        
+        
+        <div class="grid-item col-4 medium--col-6 small--col-12 ft-module" id="contact-module">
+          <ul id="contact-details">
+            
+            
+            <div class="footer-nav accent-text" role="navigation">
+            
+            <li class="cd-item-1" id="cd-address">
+            <a href="/pages/about-us" title="About us">About us</a>
+            </li>
+            
+            <li class="cd-item-1" id="cd-address">
+            <a href="/pages/customer-service" title="Customer service">Customer service</a>
+            </li>
+            
+            <li class="cd-item-1" id="cd-address">
+            <a href="/pages/privacy-policy" title="Privacy policy">Privacy policy</a>
+            </li>
+            
+            <li class="cd-item-1" id="cd-address">
+            <a href="/pages/return-policy" title="Return policy">Return policy</a>
+            </li>
+            
+            <li class="cd-item-1" id="cd-address">
+            <a href="/pages/contact-us" title="Contact us">Contact us</a>
+            </li>
+            
+            </div>
+        	
+            
+        
+           
+          </ul>
+        </div>
+        
     
+        
+        
+        <div class="grid-item col-4 small--col-12 ft-module" id="mailing-list-module">
+          <h3>Newsletter</h3>
+          <p>Notify me about SSUR updates</p>
+          <form action="#" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+            <input type="email" placeholder="your-email@example.com" name="EMAIL" id="email-input">
+            <input type="submit" class="btn styled-submit" value="Subscribe" name="subscribe" id="email-submit">
+          </form>
+        </div>
+        
+        </div>
+      </footer><!-- #footer -->
+      
+
+      <div id="sub-footer">
+
+      <div class="grid">
+        
+          <div class="grid-item col-12">
+            <div class="footer-nav accent-text large--hide">
+            
+            <a href="/account/login" id="customer_login_link">Log in</a>
+            <a href="/account/register" id="customer_register_link">Create an account</a>
+              
+            </div>
+          </div>
+        
+
+        <div class="grid-item col-12 large--col-6">
+          <p id="shopify-attr" class="accent-text" role="contentinfo">Copyright © 2015 SSUR. Created by <a href="http://aogency.de"> AOgency </a>.</p>
+        </div>
+        
+      </div>
+
+      <div class="footer-left-content">
+
+      </div> <!-- #footer-left-content -->
+
+
+    </div><!-- #sub-footer -->
+
+  </div>
+
+  
+  
+  <script src="//cdn.shopify.com/s/files/1/0789/0847/t/2/assets/jquery.flexslider.min.js?11606250031377539216" type="text/javascript"></script>
+  
+  
+  
+  <script src="//cdn.shopify.com/s/files/1/0789/0847/t/2/assets/social-buttons.js?11606250031377539216" type="text/javascript"></script>
+  
+
+  
+  <script src="//cdn.shopify.com/s/files/1/0789/0847/t/2/assets/plugins.js?11606250031377539216" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/0789/0847/t/2/assets/shop.js?11606250031377539216" type="text/javascript"></script>
+
+
 
 </body></html>
