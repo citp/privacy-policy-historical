@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchshop.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508085931id_/http%3A//www.watchshop.com/privacy-policy-a2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchshop.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114104415id_/http%3A//www.watchshop.com/privacy-policy-a2.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ Cookies are small text files which are stored on your computer by your browser w
 
 We collect and store data in cookies which is sent securely to remarketing companies, whose algorithms may determine if you will see advertising related to your browsing on other websites. You are able to opt out of these adverts at any time (more information below).
 
-Cookies are necessary to purchase items at Watch Shop. They are used to identify items in your shopping bag, shortlist, and also your browsing history so we can make better recommendations. The cookies themselves do not store any personal identifiable information. Instead, they store a 'key' on your computer which then identifies information stored temporarily on our own server. You can disable cookies in your browser to prevent this, however you will not be able to use the primary functionality of this website. You can disable cookies in your browser's settings. If you are unsure how to do this, follow this link: [Disable browser cookies](http://www.aboutcookies.org/Default.aspx?page=1). 
+Cookies are necessary to purchase items at Watch Shop. They are used to identify items in your shopping bag, shortlist, and also your browsing history so we can make better recommendations. The cookies themselves do not store any personal identifiable information. Instead, they store a 'key' on your computer which then identifies information stored temporarily on our own server. You can disable cookies in your browser to prevent this, however you will not be able to use the primary functionality of this website. You can disable cookies in your browser's settings. If you are unsure how to do this, follow this link: [Disable browser cookies](http://www.aboutcookies.org/Default.aspx'page=1). 
 
 When placing an order, your email address will sent to a 3rd party feedback company called Feefo. Feefo may follow up your order with one email asking to give your feedback about your purchasing experience. Feefo won't spam you and won't pass your details onto any other party. You can read Feefo's full privacy policy at the following link: [Feefo's privacy policy](http://feefo.com/page/Privacy+Policy)
 
