@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the academiaerp.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428223338id_/http%3A//www.academiaerp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academiaerp.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114150104id_/http%3A//www.academiaerp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Academia ERP
 
 Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retrospectively.
 
@@ -49,7 +49,7 @@ Address : 5th Floor Milinda’s Manor,
 Opposite Central Mall,  
 Indore-452001, MP-India.
 
-Phone No : +91-731-2529751
+Phone No : +91-731-4010700
 
 Mobile: +91-94250-66144
 
