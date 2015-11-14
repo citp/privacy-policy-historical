@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiansexlounge.com privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218035554id_/http%3A//www.loungesupport.com/docks/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiansexlounge.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114142821id_/http%3A//www.loungesupport.com/docks/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
