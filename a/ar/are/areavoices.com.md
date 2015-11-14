@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the areavoices.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230065125id_/http%3A//areavoices.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the areavoices.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114134909id_/http%3A//areavoices.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | areavoices
+# Privacy Policy – areavoices
 
 Your privacy is critically important to us. At Forum Communications Company we have a few fundamental principles:  
 •    We don’t ask you for personal information unless we truly need it.  
