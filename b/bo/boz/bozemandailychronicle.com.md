@@ -1,41 +1,69 @@
-> *The following text is extracted and transformed from the bozemandailychronicle.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616124402id_/http%3A//www.mywebpal.com/mywebpal_cfmfiles/mwp_info/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bozemandailychronicle.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114182936id_/http%3A//www.bozemandailychronicle.com/site/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Site | bozemandailychronicle.com
 
-Mywebpal.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information-gathering and dissemination practices for the websites of Mywebpal.com and all of its affiliates. 
+_Effective date December 17, 2010_
 
-We use your IP address to help diagnose problems with our server, and to administer our Website. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes.
+This Privacy Policy explains how your personally identifiable information is collected and used by the Bozeman Daily Chronicle (“Company”).
 
-Our site's registration form requires users to give us contact information (like their name and e-mail address). We use customer contact information from the registration form to send information to the user about our company, along with promotional material from some of our partners. Users may opt out of receiving future mailings; see the choice/opt-out section below.
+Our Company has a firm commitment to privacy. We take your privacy concerns seriously and want to make reasonable efforts to address them as we strive to offer our site visitors a high quality, interactive and personalized experience. This Privacy Policy explains our position on information gathering and how we intend to use and share any information we collect. This Privacy Policy applies only to information collected by our company through utilization of its various internet products.
 
-This site contains links to other sites. Mywebpal.com is not responsible for the privacy practices or the content of such Websites.
+ **You understand and agree that, by visiting this website and its affiliated sites, you are accepting, without modification, this Privacy Policy. If you disagree with any portion of this Privacy Policy, then your only option is to not use our internet products.**
 
-Mywebpal.com and all of its affiliates (Mygoalpal, Mymoviepal, Mybookpal, Mymusicpal, Mymoneypal, Myschedulepal, Myhealthpal, Mytravelpal, Myshoppal, Myauctionpal, Myvotepal) are powered by Mywebpal.com and is part of a larger network of sites that all function in the same capacity and privacy matters. Membership is automatically transferred at registration on any site.
+When you visit one of the Company’s websites, the Company collects and stores personally identifiable information such as your name, address, and e-mail address. The information that we collect and store about you depends on the page you visit and the services in which you elect to participate. We use this information to operate our services, improve the quality of our services, offer you opportunities we think will interest you, and better tailor the advertising you see from us to suit you. This information is not shared with anyone outside of our company and its affiliated companies except as provided for in this Privacy Policy or as explained at the time the information is collected. More specifics on the information we collect and how we use it are outlined within this Privacy Policy.
 
-We run contests on our site in which we ask visitors for contact information (like their e-mail address). We use contact data from our contests to send out promotional material from some of our partners. Users may opt out of receiving future mailings; see the choice/opt-out section below.
+This Privacy Policy is subject to change from time to time by the Company and your continued use of the Company’s internet products means you agree to, without modification, the revisions. Should you object to any such modifications to this Privacy Policy or become dissatisfied with the Company’s internet products in any way, your only option is to immediately discontinue use of those products. Otherwise, continuing to use the service after the effective date means that you agree to be bound by the changes, without modification.
 
-** We also save your customized information that you select throughout the site.
+If you would like to discuss any concerns that you may have regarding this Privacy Policy, please contact [mcohen@pioneernewspapers.com](mailto:mcohen@pioneernewspapers.com)
 
-Mywebpal.com works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to [_http://www.flycast.com/about_us/about-privacy.html_](http://www.flycast.com/about_us/about-privacy.html)
+## Information we collect
 
-Public Forums  
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+On occasion, you must provide some personally identifiable information in order to use some of our websites. Some examples are signing up for e-mail services, contest participation, online forums, placing an ad online or participating in online surveys, as well as other instances when you are required to submit personally identifiable information.
 
-Supplementation Information  
-This site supplements the information that you provide with information that is received from third parties.
+## Passive data collection and use
 
-Children's Guidelines  
-This site collects online contact information from children without prior parental consent or parental notification.
+Like most websites, the Company also collects and logs information automatically and through the use of electronic tools that may be transparent to you, such as your IP address, the name and location of your ISP, the type and version of your browser, the length of time that you stay on our websites, search queries, and the average number of pages viewed. To better provide our services to you and to develop profiles that enable us to tailor services and its advertisements to your interests, we may correlate this information with other information about you, such as your registration information or newspaper subscription records. We may provide to third parties anonymous aggregated (non-personally identifiable) general information about our website and its users.
 
-This site collects personally identifiable off-line contact information without prior parental consent.
+## Use of cookies
 
-This site gives children the ability to publicly post or distribute personally identifiable contact information without prior parental consent.
+Most standard web browsers contain a feature called “cookies,” which allow a website to place information about a user’s visit to that website in a small data text file that is stored on the user’s computer. Our use of cookie technology will likely be transparent to you and is used to recognize you and hold information from one visit to the next in an effort to increase your ease of use and to allow us to better understand how people use our products. You can turn the cookies feature off by using your browser preference options.
 
-Choice/Opt-Out  
-Our site provides users the opportunity to opt out of receiving communications from us and our partners at the point where we request information about the visitor. In order to avoid receiving future communications or to cease receiving our service, this site gives users the following options for removing their information from our database:
+Some of our third-party content providers also may place a cookie on your computer. Those cookies are controlled by the content provider, and you should refer to that provider’s privacy policy for further information regarding its use of cookies and about your options not to accept them.
 
-You can send e-mail to [_remove@mywebpal.com_](mailto:remove@mywebpal.com)
+In addition, advertisers may elect to use other advertising companies to serve their ads on our websites, and advertisers themselves may also place a cookie on a user’s computer. We do not have access to the cookies or their contents that are placed by advertisers or by third-party advertising companies. We, therefore, recommend that you read the privacy policy of each and every website you visit or with which you interact.
 
-Contacting the Website  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can [contact us](http://www.mywebpal.com/mywebpal_cfmfiles/plugnplay/mywebpal/presscontactus.cfm)  
+## Behavioral Targeting
 
+From time to time, the Company or its business partners may use collected data to optimize our offers of products and services to you. If you desire not to participate in this effort, please contact [mcohen@pioneernewspapers.com](mailto:mcohen@pioneernewspapers.com) with your request to opt out.
+
+## Affiliated sites, linked sites and advertisements
+
+Our Company expects its partners, providers of content and services and advertisers to respect the privacy of its users. Be aware, however, that third parties, including our partners, providers of content and services, advertisers and others accessible through our site may have their own privacy and data collection policies and practices. You should use common sense when you navigate the web and be aware of when you travel outside of our website. In addition, you should carefully review the applicable privacy policies of each website you visit and each web service you use.
+
+## Electronic commerce
+
+For certain electronic commerce services on our websites, such as placing classified ads electronically or subscribing to the print or electronic version of the newspaper, we require additional information. To complete these transactions, we may collect information from you such as your name, credit card number and other financial information. We endeavor to protect the security of your payment information during transmission by using technology, which protects information you submit. Our Company will use the credit card and shipping information for the purpose of completing the transaction and does not provide this information to third parties except for the providers of the transaction processing and the issuers of credit cards in order to process the transaction, or as otherwise set forth in this policy.
+
+## State and Federal Privacy Rights
+
+In certain jurisdictions, you may have the right to receive: a) information identifying any third-party company(ies) to whom our Company may have disclosed personal information pertaining to you and your family for that company’s direct marketing purposes; b) a description of the categories of personal information disclosed; and c) other enumerated information. To obtain such information, please e-mail your request to [mcohen@pioneernewspapers.com](mailto:mcohen@pioneernewspapers.com).
+
+## Revisions
+
+From time to time, and without notice, the Company may revise the policies set out herein. The effective date of the current policy is set out below the title and all users our the Company’s websites are bound to the terms and conditions in effect as of the date of use.
+
+If you have any questions or comments about our policies, we may be reached at Mark Cohen, Pioneer Newspapers, Inc., 221 First Avenue West, Suite 405, Seattle, WA 98119; tel. 206-284-4424.
+
+1000 S.F. 2BR, 1BA, Apt. garage, w/d hkps. No pets, N/S. W/T paid. $750 +utils. 579-4701
+
+ALLOW US TO MANAGE YOUR RENTAL PROPERTY. Your partner in property management. Call Steve Cichon for a free consult. Property Partners of MT 587-9004 www.PropertyPartnersMT.com
+
+BOZEMAN OFFICE SPACE $10/sqft GROSS lease to start 1,600 SQFT w/ ample parking Call or text/Arison KWMTRE (406) 570-0632
+
+Luxury Apartment ***Available Now *** 1652 Tempest Court Starting at $1500/mo. including rent incentives w/a 1 yr. lease. High Quality Construction Spacious 2 BED & 2 BATH, OVER 1100 sq.ft. With many Luxury Upgrades: -Keypad Entry & Video Surveillance for added security -Stainless St…
+
+1,000 SF and 720 SF Warehouses w/ Power, $450 or $550 Growers, Belgrade. Call 406-580-5816
+
+Exclusive Legends at Bridger Creek phase 3 lots available. Lots are backed by Bridger Creek, open space & unobstructed views of the Bridger mountains. Custom homes to be built by Ebbighausen Homes Inc. Rare opportunity - last building lots along Bridger Creek. Call 539-6862 or 581-9660
+
+BOZEMAN OFFICE SPACE $10/sqft GROSS lease to start 1,600 SQFT w/ ample parking Call or text/Arison KWMTRE (406) 570-0632
