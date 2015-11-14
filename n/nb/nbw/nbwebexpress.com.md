@@ -1,89 +1,110 @@
-> *The following text is extracted and transformed from the nbwebexpress.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626233146id_/http%3A//www.newbalance.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbwebexpress.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114111736id_/http%3A//www.newbalance.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Last Updated: April 7, 2015
+### Last Updated: September 1, 2015
 
-Thank you for placing your trust in New Balance. You are very important to us and we want to provide you with a safe and secure online experience. This Privacy Policy describes how we collect and use your information and explains the choices that you have with regard to how we use your information. The Privacy Policy applies to [www.newbalance.com](http://www.newbalance.com/) (the "Website") as well as all mobile applications (each, an "App")(collectively, the Website and all Apps, are referred to as the "Service") operated by New Balance Athletic Shoe, Inc. and its affiliates ("New Balance", "we", "us", or "our"), whether you are a "Visitor" (which means that you simply browse the Service) or you are a "Member" (which means that you have registered or transacted with the Service or a component thereof). By using the Service and providing us with information through the Service, you consent to this Privacy Policy. We suggest that you review this Privacy Policy periodically as we will update and change it from time to time. 
+Thank you for placing your trust in New Balance. You are very important to us and we want to provide you with a safe and secure online experience. This Privacy Policy describes how we collect and use your information and explains the choices that you have with regard to how we use your information.
 
-## WHAT INFORMATION DOES NEW BALANCE COLLECT ABOUT ME?
+This Privacy Policy applies to the following services operated by New Balance Athletics, Inc. and its affiliates ("New Balance", "we", "us", or "our"):
 
-### Non-Individually Identifiable Data:
+  * [www.newbalance.com](https://www.newbalance.com/) (the "Website"); 
+  * all mobile applications (each, an "App") that contain a link to this Privacy Policy;
+  * all services made available by New Balance through the Website and the Apps; and
+  * the New Balance loyalty program known as “MyNB” (including both in-store and web site registrations)
 
-Like most websites, every time you visit our Service, we automatically collect certain data and information from you and/or your computer that is not personally identifiable. Examples of this type of information include:
 
-  * The type of Internet browser you are using.
-  * The type of computer operating system and device you are using to access the Service.
-  * The domain name of your Internet service provider.
-  * The Web page from which you came.
+
+For the purpose of this Privacy Policy, the foregoing are referred to, collectively, as the "Service”. 
+
+This Privacy Policy applies whether you are a "Visitor" (which means that you simply browse the Service) or you are a "Member" (which means that you have registered or transacted with the Service or a component thereof). By accessing or using the Service and providing us with information through the Service, you consent to this Privacy Policy. We suggest that you review this Privacy Policy periodically as we will update and change it from time to time. 
+
+### WHAT INFORMATION DOES NEW BALANCE COLLECT ABOUT ME?
+
+#### Non-Individually Identifiable Data:
+
+As is the case with most online services, every time you visit our Website or use one of our Apps, we automatically collect certain data and information from you and/or your computer that is not personally identifiable. Examples of this type of information include:
+
+  * The type of Internet browser you are using. 
+  * The type of computer operating system and device you are using to access the Service. 
+  * The domain name of your Internet service provider. 
+  * The Web page from which you came. 
   * The pages and features you visit and access on our Service.
 
 
 
-When you access, visit and/or use the Service, we may track your visit and, as described below in the section concerning "cookies", collect certain data regarding your use of the Service and your activity on the Service, but we will not collect any Personal Information from you unless you choose to provide it to us.
+When you access, visit and/or use our Website or one or more of our Apps, we may track your visit and, as described below in the section concerning "cookies", collect certain data regarding your use of the Service and your activity on the Service, but we will not collect any Personal Information from you unless you choose to provide it to us.
 
-We use third party analytics tools, including those offered by Google, Inc. ("Google") and Adobe Systems Incorporated ("Adobe"). These third party services use cookies to help us analyze how users use the Service. The information generated by the cookie about your use of the Service (including your IP address) will be transmitted to and stored by Google and Adobe, respectively. Google and Adobe will use this information for the purpose of evaluating your use of the Service, compiling reports on website activity for website operators and providing other services relating to website activity and Internet usage. Google and Adobe may also transfer this information to third parties where required to do so by law, or where such third parties process the information on behalf of Google or Adobe. We also use Adobe Analytics. To opt-out of the use of Adobe cookies on our Services for analytics purposes, please visit Adobe's opt-out page: <http://www.adobe.com/privacy/opt-out.html>. To opt-out of Google analytics, please see: <https://tools.google.com/dlpage/gaoptout>. 
+We use third party analytics tools, including those offered by Google, Inc. ("Google") and Adobe Systems Incorporated ("Adobe"). These third party services use cookies to help us analyze how users use our Website and our Apps. The information generated by the cookie about your use of our Website and our Apps (including your IP address) will be transmitted to and stored by Google and Adobe, respectively. Google and Adobe will use this information for the purpose of evaluating your use of our Website and our Apps, compiling reports on activity for website and application operators and providing other services relating to online activity and Internet usage. Google and Adobe may also transfer this information to third parties where required to do so by law, or where such third parties process the information on behalf of Google or Adobe. We also use Adobe Analytics. To opt-out of the use of Adobe cookies on our Services for analytics purposes, please visit Adobe's opt-out page: <http://www.adobe.com/privacy/opt-out.html>. To opt-out of Google analytics, please see: <https://tools.google.com/dlpage/gaoptout>.
 
-### Personal Information:
+#### Personal Information:
 
-In general, you can visit our Service without providing us with any personally identifiable information, such as your name, email address, postal address, phone number, gender, and, when necessary, credit card information or other information necessary to process your order or send you special announcements (all such personally identifiable information, collectively, "Personal Information"). However, in order to place an order, register for and/or participate in the New Balance Loyalty Program or use certain services and features made available through our Service you will be required to provide certain Personal Information.
+In general, you can visit our Service without providing us with any personally identifiable information, such as your name, email address, postal address, phone number, gender, credit card information or other information necessary to process your order (all such personally identifiable information, collectively, "Personal Information"). However, in order to place an order, register for and/or participate in MyNB or use certain services and features made available through our Service, you will be required to provide certain Personal Information.
 
-When you make a purchase from New Balance, request to sign up for email, direct mail or SMS Text notices, register for and/or participate in the New Balance Loyalty Program, we collect Personal Information that you elect to provide to us. Your submission of this Personal Information is entirely voluntary; however, if you elect not to provide this Personal Information, some of the services and/or features available on and/or through the Service may not be available for your use.
+When you make a purchase from New Balance, request to sign up for email, direct mail or SMS Text notices, register for and/or participate in MyNB, we collect Personal Information that you elect to provide to us. Your submission of this Personal Information is entirely voluntary; however, if you elect not to provide this Personal Information, some of the services and/or features available on and/or through the Service may not be available for your use.
 
-We also collect Personal Information when you elect to submit such information to us when you register for "My Account", register for and/or participate in the New Balance Loyalty Program, participate in a contest, event or sweepstakes promotion, fill out a survey, or contact us (for example via email or by selecting "Ask the Expert" from the Service). We may also obtain data through your Internet browser, such as your IP Address, which is a number that is automatically assigned to your computer when you use the Internet.
+We also collect Personal Information when you register for "My Account", register for and/or participate in MyNB, participate in a contest, event or sweepstakes promotion, fill out a survey or contact us (for example via email or by selecting "Ask the Expert" from the Service). We may also obtain data through your Internet browser, such as your IP Address, which is a number that is automatically assigned to your computer when you use the Internet.
 
-If you elect to register for "My Account", you will have the option to store your credit card information with our Service. This feature, which is entirely optional, is provided as a convenience for you so that you will not need to re-enter your full credit card information each time you make a purchase through the Service. If you elect to take advantage of this feature, please be aware that, as a security precaution, we will not store your CCV number. You will be required to input this information prior to placing an order through our store. If you elect to store your credit card number in the "My Account" feature, you will have the ability to change your mind and remove your credit card number from storage at any time by logging into "My Account" and making the appropriate change.
+If you elect to register for "My Account", you will have the option to store your credit card information with our Service. This feature, which is entirely optional, is provided as a convenience for you so that you will not need to re-enter your full credit card information each time you make a purchase through the Service. If you elect to take advantage of this feature, please be aware that, as a security precaution, we will not store your CCV number. You will be required to input this information prior to placing an order. If you elect to store your credit card number in the "My Account" feature, you will have the ability to change your mind and remove your credit card number from storage at any time by logging into "My Account" and making the appropriate change.
 
-If you elect to register for the New Balance Loyalty Program, you will be asked to provide certain registration details. In addition, when you participate in the New Balance Loyalty Program, we will collect information about your purchases and your participation in activities that generate loyalty points.
+If you elect to register for MyNB, you will be asked to provide certain registration details. In addition, when you participate in MyNB, we will collect information about your purchases and your participation in activities that generate loyalty points. If you register for MyNB in a New Balance licensed store, that store will also receive access to the Personal Information that you submit when registering for MyNB.
 
-## HOW DO YOU USE MY PERSONAL INFORMATION?
+Our licensed stores, which are independently owned, may also collect Personal Information which may or may not be shared with us. This Privacy Policy does not apply to the licensed stores other to the extent New Balance itself may use Personal Information of those licensed stores.
 
-The Personal Information we receive allows us to process your order, register you for the New Balance Loyalty Program, personalize our product offering and improve your online shopping experience, making it more convenient, efficient and enjoyable. We may use the Personal Information that you submit to us through the Service to:
+### HOW DO YOU USE MY PERSONAL INFORMATION?
 
-  * Customize your communications and shopping experience.
-  * Process your purchase, confirm your orders and communicate to you about account information or customer service needs.
-  * Process your registration for the New Balance Loyalty program and administer your participation in this program.
-  * Adapt the content and layout of our pages tailored to your needs and so you do not have to enter information more than once.
+The Personal Information we receive allows us to process your order, create an account for you through the “My Account” service and update the information in the “My Account” service, register you for MyNB, personalize our product offering and improve your shopping experience, making it more convenient, efficient and enjoyable. Without limiting the generality of the foregoing, we may use the Personal Information that you submit to us through the Service to:
+
+  * Customize your communications and shopping experience. 
+  * Process your purchase, confirm your orders and communicate to you about account information or customer service needs. 
+  * Process your registration for MyNB and administer your participation in this program. 
+  * Adapt the content and layout of our Websites and Apps tailored to your needs and so you do not have to enter information more than once.
   * Notify you about new products and services, special offerings and other promotions.
   * Coordinate contests, promotions, surveys or other features of our Service.
-  * Improve our business and better respond to your needs.
+  * Improve our business to better respond to your needs.
 
 
 
-## HOW DO YOU SHARE MY INFORMATION?
+If you register for MyNB in a New Balance licensed store, that store will also receive access to the Personal Information that you submit when registering for MyNB and may use that Personal Information in order to provide you with information about products that may be of interest to you or otherwise communicate with you.
 
-For the purpose of operating our business, we may transfer your Personal Information to our third party service providers who use that information only to conduct New Balance business. For example, these third party service providers may handle New Balance credit card processing, shipping, data management, email distribution, information analysis, promotions management and other services for New Balance. We provide our preferred service providers with the Personal Information they need to perform their services and work with them to respect and protect your Personal Information.
+### HOW DO YOU SHARE MY INFORMATION?
 
-We may use your Personal Information in the aggregate for purposes such as reporting and marketing. Once aggregated, this information is no longer personally identifiable.
+**Third Party Service Providers:** For the purpose of operating our business, we may transfer your Personal Information to our third party service providers who use that information only to conduct New Balance business. For example, these third party service providers may handle New Balance credit card processing, shipping, data management, email distribution, information analysis, promotions management and other services for New Balance. We provide our preferred service providers with the Personal Information they need to perform their services and work with them to respect and protect your Personal Information.
 
-On rare occasions, we may disclose Personal Information upon governmental request, in response to a court order, when required by law, to enforce our website policies, or to protect our or others' rights, property, or safety. We may also share Personal Information with companies assisting in fraud protection or investigation. We do not provide Personal Information to these agencies or companies for marketing or commercial purposes.
+**Aggregated Data:** We may use your Personal Information that is aggregated and no longer personally identifiable for purposes such as reporting and marketing and we may disclose aggregated information to various third parties.
+
+**Legal Requirements:** We may disclose Personal Information upon governmental request, in response to a court order, when required by law, to enforce our website policies, or to protect our or others' rights, property or safety. We may also share Personal Information with companies assisting in fraud protection or investigation. We do not provide Personal Information to these agencies or companies for marketing or commercial purposes.
+
+**Cooperative Databases:** In connection with the distribution of our print catalogs and other marketing materials, we participate in cooperative data sharing databases. The participants of these databases provide customer names, mailing addresses and information about their customers' purchasing history to the database vendor which allows the database participants to segment and/or obtain access to potentially interested parties to which they may wish to target their own promotions. If you prefer not to have your name, email address and mailing address released to these cooperative databases, please let us know by sending an e-mail to CustomerCare@newbalance.com.
+
+**Targeted Product Recommendations and Other Communications:** We use third-party companies to help serve targeted product recommendations and other communications. To enable these companies to provide you with targeted recommendations and other communications, we may provide these companies with certain Personal Information about you, such as your name, address and email address, as well as your transaction history. These companies may use data about you in order to provide recommendations for products and services that might be of interest to you. If you wish to opt-out of this program, please let us know by sending an e-mail to CustomerCare@newbalance.com.
+
+**MyNB:** If you are a member of MyNB, New Balance may disclose certain of your Personal Information to third parties that assist New Balance with the administration of MyNB. In addition, if you register for MyNB in a New Balance licensed store, the store will receive your registration information. If you make a purchase in a New Balance licensed store using your MyNB account, that store may be able to access certain of your Personal Information to ensure that you receive proper MyNB points for your purchase. 
 
 Except as otherwise disclosed in this Privacy Policy or with your prior consent, we will not sell, trade or rent Personal Information to other companies as part of our regular course of business. However, it's possible that we might acquire or merge with or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your Personal Information may be disclosed to another company, but that disclosure will be subject to the Privacy Policy in effect.
 
-## WHAT ABOUT INFORMATION THAT I POST TO BLOGS AND OTHER PUBLIC AREAS OF THE SERVICE?
+### WHAT ABOUT INFORMATION THAT I POST TO BLOGS AND OTHER PUBLIC AREAS OF THE SERVICE?
 
-This Privacy Policy does not apply to any Personal Information collected by New Balance through means other than the Service. This Privacy Policy shall not apply to any unsolicited information you provide through the Service or through any other means. This includes, but is not limited to, information posted to any public areas of the Service, such as the NB blog, any ideas for new products or modifications to existing products, and/or other unsolicited submissions (collectively, "Unsolicited Information"). All Unsolicited Information shall be deemed to be non-confidential and New Balance shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution. You should exercise caution before you post Personal Information that you post in public forums, such as the NB blog. Once you release your Personal Information for posting on public forums, New Balance cannot and will not be responsible for the privacy and/or security of such information.
+This Privacy Policy does not apply to any Personal Information collected by New Balance through means other than the Service. This Privacy Policy shall not apply to any unsolicited information you provide through the Service or through any other means. This includes, but is not limited to, information posted to any public areas of the Service, such as the New Balance blog, any ideas for new products or modifications to existing products, and/or other unsolicited submissions (collectively, "Unsolicited Information"). All Unsolicited Information shall be deemed to be non-confidential and New Balance shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution. You should exercise caution before you post Personal Information that you post in public forums, such as the a New Balance blog. Once you release your Personal Information for posting on public forums, New Balance cannot and will not be responsible for the privacy and/or security of such information.
 
-## HOW DO I KNOW MY PERSONAL INFORMATION IS SECURE?
+### HOW DO I KNOW MY PERSONAL INFORMATION IS SECURE?
 
-We have a variety of security measures to protect against the loss, misuse or alteration of your Personal Information that we have collected from you from the Service. To ensure the information you provide online is secure during transmission, we use leading edge encryption technology and Secure Socket Layers (SSL) while processing any Personal Information you supply.
+We have a variety of security measures to protect against the loss, misuse or alteration of your Personal Information that we have collected from you from the Service. To ensure the information you provide online is secure during transmission, we use encryption technology and Secure Socket Layers (SSL) while processing any Personal Information you supply.
 
 These controls are certified by DigiCert®. You can review our security certificate using your browser by clicking on the closed lock or solid key image at the bottom of your browser on any of the secure pages on our site. This will display our Service security information.
 
-For security purposes, your full credit card number is not permanently stored within our system. On occasion, we may temporarily store the entire encrypted credit card number when it is necessary to manually contact a credit card company for verification.
+Our Service provides you the ability to store your credit card number in the "My Account" section of our Service. To protect your security, we encrypt all stored credit card numbers and we do not store your card's CCV number. For others, we may temporarily store the entire encrypted credit card number when it is necessary to manually contact a credit card company for verification.
 
-Our Service provides you the ability to store your credit card number in the "My Account" section of our Service. To protect your security, we encrypt all stored credit card numbers and we do not store your card's CCV number. 
-
-## WHAT ARE COOKIES, WEB BEACONS AND PIXEL TAGS? HOW DOES NEW BALANCE USE THEM?
+### WHAT ARE COOKIES, WEB BEACONS AND PIXEL TAGS? HOW DOES NEW BALANCE USE THEM?
 
 A cookie is a small removable data file stored by your Web browser on your computer. Cookies allow you to browse and place an order on our site and let us make shopping more convenient for you. We place a unique identifier in the cookie and use the cookie to connect your computer with the information we store for you in our database.
 
 Some examples of how we use cookies are to:
 
-  * Enable you to select products, place them in your shopping cart and make a purchase.
-  * Recognize you when you come back to our site(s).
-  * Alert you to new areas that may be of interest to you.
-  * Customize Web page content that may be helpful to you.
+  * Enable you to select products, place them in your shopping cart and make a purchase. 
+  * Recognize you when you come back to our site(s). 
+  * Alert you to new areas that may be of interest to you. 
+  * Customize content that may be helpful to you.
 
 
 
@@ -95,38 +116,38 @@ Pixel tags and Web beacons are tiny graphic images that allow us or preferred se
 
 At present, New Balance does not respond to "Do Not Track" (DNT) signals and operates as described in this Privacy Policy whether or not a DNT signal is received. If we do so in the future, we will describe how we do so in this Privacy Policy.
 
-## WHAT IS THE NEW BALANCE CHILDREN'S PRIVACY POLICY?
+### WHAT IS THE NEW BALANCE CHILDREN'S PRIVACY POLICY?
 
-We do not knowingly ask for Personal Information from anyone under the age of 13 (a "Child"). If a Child submits Personal Information to us and we know that the person providing the information is a Child, we will not use it for any purpose. We will use commercially reasonable efforts to delete the information as soon as we discover it and we will not disclose it to third parties. If you become aware that a Child has provided Personal Information to our site, please contact us or call Customer Care toll-free at 1-800-595-9138.
+We do not knowingly ask for Personal Information from anyone under the age of 13 (a "Child"). If a Child submits Personal Information to us and we know that the person providing the information is a Child, we will not use it for any purpose. We will use commercially reasonable efforts to delete the information as soon as we discover it and we will not disclose it to third parties. If you become aware that a Child has provided Personal Information to our site, please email us CustomerCare@newbalance.com or call Customer Care toll-free at 1-800-595-9138.
 
 While New Balance's policy prohibits children under 13 from registering with the Service, parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from disclosing online their name, address and other Personal Information without parental permission.
 
-## PHOTO SHARING
+### PHOTO SHARING
 
-Simply use the hashtags referred to by New Balance to tag your photos on Instagram or Twitter. By participating, you acknowledge and give your consent that your photos may be featured on newbalance.com, and be used to link through to the products you're wearing.
+Simply use the hashtags referred to by New Balance to tag your photos on Instagram or Twitter. By participating, you acknowledge and give your consent that your photos may be featured on our Website, and be used to link through to the products you're wearing.
 
-If you shared the photo, you own it. However, by tagging and sharing your pictures, you are granting New Balance and Olapic, Inc. a license to use your photos and post them on newbalance.com. Olapic, Inc. helps New Balance provide the photo-sharing process.
+By tagging and sharing your pictures, you are granting New Balance and its service provider, Olapic, Inc., a license to use your photos and post them on our Website. Olapic, Inc. helps New Balance provide the photo-sharing process.
 
 To remove a photo, please click report icon (remove it from the site), fill out the pop-up, click report, and upon confirmation the photo will be removed.
 
 When you submit a photo (via Instagram or Twitter) using a hashtag set forth by New Balance, your use of Instagram and Twitter is governed by the terms and conditions of those sites.
 
-## HOW DO LINKS FROM NEW BALANCE TO OTHER SITES AFFECT ME?
+### HOW DO LINKS FROM NEW BALANCE TO OTHER SITES AFFECT ME?
 
-At times, we may provide links from our Service to other websites operated by third parties. These links are provided only for your convenience and intended to add value to your visit. However, by including these links, even if affiliated with New Balance, we do not have control over these sites, which are independent from New Balance and have separate privacy policies and terms and conditions. When leaving our Service, you need to be aware that our policies no longer apply. Therefore, we will not be responsible for the accuracy, relevancy, availability, reliability, copyright compliance, legality or decency of material contained in third party sites linked to our Service. We strongly encourage you to review the terms and privacy policies of any third-party sites before using their sites.
+At times, we may provide links from our Website and Apps to other websites and applications operated by third parties. These links are provided only for your convenience and intended to add value to your visit. However, by including these links, even if affiliated with New Balance, we do not have control over these websites and applications, which are independent from New Balance and have separate privacy policies and terms and conditions. When leaving our Website and Apps, you need to be aware that our policies no longer apply. Therefore, we will not be responsible for the accuracy, relevancy, availability, reliability, copyright compliance, legality or decency of material contained in third party websites and applications linked to our Website and Apps. We strongly encourage you to review the terms and privacy policies of any third-party websites and applications before using their sites.
 
-## HOW CAN I OPT-OUT/UNSUBSCRIBE FROM NEW BALANCE EMAIL, DIRECT MAIL, SMS TEXT OR TRANSMISSIONS TO THIRD PARTY SERVICE PROVIDERS?
+### HOW CAN I OPT-OUT/UNSUBSCRIBE FROM NEW BALANCE EMAIL, DIRECT MAIL, SMS TEXT OR TRANSMISSIONS TO THIRD PARTY SERVICE PROVIDERS?
 
-If for any reason you would like to stop receiving any emails sent by New Balance that notify you of upcoming events, promotions, sales, new products or contain other commercial communications, simply click the unsubscribe link provided at the bottom of every email and every page of our Service. This will direct you to an unsubscribe page where you can remove your name from either the email or direct mail sign-up. By registering for the New Balance Loyalty Program, you are indicating your consent to receive commercial emails about the New Balance Loyalty Program. However, you can elect to opt-out of receiving these emails at any time by clicking on the unsubscribe link that is included on each commercial email about the New Balance Loyalty Program.
+If for any reason you would like to stop receiving any emails sent by New Balance that notify you of upcoming events, promotions, sales, new products or contain other commercial communications, simply click the unsubscribe link provided at the bottom of every email and every page of our Website. This will direct you to an unsubscribe page where you can remove your name from either the email or direct mail sign-up. By registering for MyNB, you are indicating your consent to receive commercial emails about MyNB. However, you can elect to opt-out of receiving these emails at any time by clicking on the unsubscribe link that is included on each commercial email about MyNB.
 
-To opt-out of SMS Text messages you will need to use your mobile device. Simply text "STOP" to 746762 or send a request to [CustomerCare@newbalance.com.](mailto:customercare@newbalance.com?subject=Request%20to%20Opt-out%20of%20SMS)
+To opt-out of SMS Text messages you will need to use your mobile device. Simply text "STOP" to 746762 or send a request to CustomerCare@newbalance.com.
 
 Please note that if you decide to opt-out of all third-party transmissions of your Personal Information, we may not be able to process your order.
 
-## HOW CAN I ACCESS, UPDATE OR DELETE "MY ACCOUNT" INFORMATION?
+### HOW CAN I ACCESS, UPDATE OR DELETE "MY ACCOUNT" INFORMATION?
 
-Accounts may be created during the ordering process. You can login to or manage your account by clicking the "My Account" link at the top of any page. After logging in, you will be able to modify your contact information, update your billing and shipping addresses, view past orders, or delete your account completely. For security purposes, credit card information is not saved with your account. Remember that you are responsible for protecting the user name and password for your account and, as set forth in the [Terms and Conditions](http://www.newbalance.com/terms.html), you will be responsible for all activity occurring through the use of your user name and password.
+Accounts may be created during the ordering process. You can login to or manage your account by clicking the "My Account" link at the top of any page. After logging in, you will be able to modify your contact information, update your billing and shipping addresses, view past orders, or delete your account completely. For security purposes, credit card information is not saved with your account. Remember that you are responsible for protecting the user name and password for your account and, as set forth in the Terms and Conditions, you will be responsible for all activity occurring through the use of your user name and password.
 
-## What if I have more questions about the New Balance Privacy Policy?
+### What if I have more questions about the New Balance Privacy Policy?
 
-If you have any questions or concerns including a request to be added to or taken off a list, please contact Customer Care toll-free at 1-800-595-9138 or email [CustomerCare@newbalance.com](mailto:customercare@newbalance.com?subject=Question%20about%20Privacy%20Policy).
+If you have any questions or concerns including a request to be added to or taken off a list, please contact Customer Care toll-free at 1-800-595-9138 or email CustomerCare@newbalance.com.
