@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abdn.ac.uk privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628223541id_/http%3A//www.abdn.ac.uk/about/our-website/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abdn.ac.uk privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114115040id_/http%3A//www.abdn.ac.uk/about/our-website/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement | About | The University of Aberdeen
 
@@ -40,9 +40,11 @@ Examples of data collected automatically from all users include:
 
 ### 2\. Cookies
 
-Cookies are small files that are sent from the web server to the client's computer via the client's browser. They are then stored in the client's computer as text files and passed back to the server. Cookies are generally used to identify users and, on occasion, prepare customized web pages for them. Cookies may remain on the client's computer merely for the duration of the visit or they may remain indefinitely. Most standard web browsers may be configured to refuse cookies.
+Cookies are small files that are sent from the web server to the client's computer via the client's browser. They are then stored in the client's computer as text files and passed back to the server. Cookies are generally used to identify users and, on occasion, prepare customized web pages for them. Cookies may remain on the client's computer merely for the duration of the visit or they may remain indefinitely. Most standard web browsers may be configured to refuse cookies. 
 
-The University of Aberdeen uses a number of cookies that are essential to the running of its websites and web applications and which are therefore exempt from the EU Directive[2](http://www.abdn.ac.uk/about/our-website/privacy.php#_ftnref2). Further information can be found in [our section on cookies](https://web.archive.org/about/our-website/cookies.php).
+The University of Aberdeen uses cookies for the essential running of its websites and web applications. Such cookies are transient, do not contain any personal information, cannot be used to identify you and are exempt from the EU Directive[2](http://www.abdn.ac.uk/about/our-website/privacy.php#_ftnref2). 
+
+The University of Aberdeen also uses a number of cookies for marketing purposes. These are detailed in [our section on cookies](https://web.archive.org/about/our-website/cookies.php). Any other ad hoc use of cookies will be stated separately and explicitly.
 
 ### 3\. Web forms
 
@@ -87,3 +89,6 @@ The University of Aberdeen websites include links to third-party websites. These
 1 <http://t.co/kvNH1QME>
 
 2 [Directive 2009/136/EE Of The European Parliament And Of The Council](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:337:0011:0036:En:PDF)
+
+Last reviewed: 19 October 2015  
+Last updated: 19 October 2015
