@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the coolest-birthday-cakes.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503031814id_/http%3A//www.coolest-parties.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolest-birthday-cakes.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115000109id_/http%3A//www.coolest-parties.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Coolest Parties Privacy Policy
 
-We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use the network of _Shippony Group Nevada, Inc._ sites (including www.coolest-parties.com, www.coolest-kid-birthday-parties.com, www.coolest-birthday-cakes.com, www.coolest-homemade-costumes.com, www.coolest-holiday-parties.com, www.coolest-baby-showers.com, coolest-free-printables.com, my-sbi-adventure.com). This document also outlines some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
+We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use the network of Shippony Group Nevada, Inc. sites (including www.coolest-parties.com, www.coolest-kid-birthday-parties.com, www.coolest-birthday-cakes.com, www.coolest-homemade-costumes.com, www.coolest-holiday-parties.com, coolest-free-printables.com). This document also outlines some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
-_Shippony Group Nevada, Inc._ strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.
+Shippony Group Nevada, Inc. strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.
 
 **Personal Information**
 
-_Shippony Group Nevada, Inc._ collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, postal address, email address, company name and telephone number.
+Shippony Group Nevada, Inc. collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, postal address, email address, company name and telephone number.
 
 This information is collected if you request information from us, participate in a contest or sweepstakes, and sign up to join our email list or request some other service or information from us. The information collected is internally reviewed, used to improve the content of our website, notify our visitors of updates, and respond to visitor inquiries.
 
@@ -16,7 +16,7 @@ Once information is reviewed, it is discarded or stored in our files. If we make
 
 **Use of Cookies and Web Beacons**
 
-We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site's services, a cookie enables _Shippony Group Nevada, Inc._ to recall your specific information on subsequent visits.
+We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site's services, a cookie enables Shippony Group Nevada, Inc. to recall your specific information on subsequent visits.
 
 You have the ability to accept or decline cookies by modifying your Web browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site.
 
@@ -36,7 +36,7 @@ In some cases, we may collect information about you that is not personally ident
 
 **Release of Information**
 
-If _Shippony Group Nevada, Inc._ is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us.
+If Shippony Group Nevada, Inc. is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us.
 
 **How You Can Correct or Remove Information**
 
@@ -44,11 +44,11 @@ We provide this privacy policy as a statement to you of our commitment to protec
 
 **Updates and Effective Date**
 
-_Shippony Group Nevada, Inc._ reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
+Shippony Group Nevada, Inc. reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
 
 **Agreeing to Terms**
 
-If you do not agree to _Shippony Group Nevada, Inc._ Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
+If you do not agree to Shippony Group Nevada, Inc. Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
 
 Your use of this site indicates acceptance of this privacy policy.  
 
