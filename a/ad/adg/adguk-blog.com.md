@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adguk-blog.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503213942id_/http%3A//www.adguk-blog.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adguk-blog.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114062123id_/http%3A//www.adguk-blog.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy ~ ADG (UK) Blog
 
