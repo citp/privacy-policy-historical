@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the princetonreview.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627122544id_/http%3A//www.princetonreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princetonreview.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114152307id_/http%3A//www.princetonreview.com/privacy) for the most accurate reproduction.*
 
 # The Princeton Review Privacy Policy | The Princeton Review
 
@@ -119,4 +119,8 @@ TPR Education, LLC d/b/a The Princeton Review
 24 Prime Parkway, Suite 201   
 Natick, MA 01760
 
-**_Effective Date: December 23, 2014_ **
+### Addendum for Users Outside of the United States and Canada:
+
+You may request that we delete personal information collected from you at the Site by sending an email to [prep@review.com](mailto:prep@review.com) requesting such deletion.  Please note that if you are receiving services from us, we will need to keep such information during the course of providing those services to you to communicate with you about them.
+
+_Effective Date: October 9, 2015_
