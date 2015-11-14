@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the charge.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613112138id_/http%3A//www.charge.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charge.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114040357id_/http%3A//www.charge.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Credit Card Processing, Merchant Accounts, Accept Credit Cards Charge.com
+# Credit Card Processing, Merchant Accounts, Accept Credit Cards
 
-Our postal address is:    
+## Charge.com Privacy Policy
+
+Our postal address is:
+
 Charge.com Payment Solutions, Inc.  
 9715 West Broward Boulevard  
 Suite 182  
 Plantation, Florida 33324
 
-We can be reached via e-mail at [](mailto:accounts@charge.com)  
-or you can reach us by telephone at 888-924-2743
+We can be reached via e-mail at  or you can reach us by telephone at 888-924-2743
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address.
 
@@ -25,7 +27,7 @@ If you supply us with your postal address on-line you will only receive the info
 
 Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by calling us at the above telephone number. Please provide us with your name and phone number. We will be sure your name is removed from the list.
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.  
+With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
@@ -40,5 +42,3 @@ Consumers can have this information corrected by sending us e-mail at the above 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server.   We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
-
-[wp_social_sharing social_options=’facebook,twitter,googleplus,linkedin’ twitter_username=” facebook_text=’Share on Facebook’ twitter_text=’Share on Twitter’ googleplus_text=’Share on Google+’ linkedin_text=’Share on Linkedin’ icon_order=’f,t,g,l’ show_icons=’1′]
