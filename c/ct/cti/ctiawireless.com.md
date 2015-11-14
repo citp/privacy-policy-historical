@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctiawireless.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501111416id_/http%3A//www.ctiasupermobility2015.com/site/index.cfm/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctiawireless.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114115902id_/http%3A//www.ctiasupermobility2015.com/site/index.cfm/privacy-statement) for the most accurate reproduction.*
 
 # CTIA Super Mobility 2015
 
@@ -13,8 +13,6 @@
 
 
 _Effective: December 16, 2013_
-
-* * *
 
 ## I. Introduction
 
