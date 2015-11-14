@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetechsquash.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510070224id_/http%3A//www.thetechsquash.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetechsquash.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114195813id_/http%3A//www.thetechsquash.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy ~ Thetechsquash
+# Privacy Policy | Thetechsquash
 
 Privacy Policy for http://thetechsquash.com/  
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at bloggeradmin@thetechsquash.com
