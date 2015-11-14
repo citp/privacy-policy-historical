@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sovereignman.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144414id_/http%3A//www.sovereignman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sovereignman.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114122555id_/http%3A//www.sovereignman.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | SOVEREIGN MAN
 
 ## What information do we collect?
 
@@ -56,9 +56,9 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-## Terms of Service
+## Terms of Use
 
-Please also visit our Terms of Service section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.sovereignman.com/terms-of-service/>
+Please also visit our Terms of Use section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.sovereignman.com/terms-of-use/>
 
 ## Your Consent
 
