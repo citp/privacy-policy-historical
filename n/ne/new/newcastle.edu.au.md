@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newcastle.edu.au privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613231642id_/http%3A//www.newcastle.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcastle.edu.au privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114213450id_/http%3A//www.newcastle.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy / The University of Newcastle, Australia
 
@@ -30,8 +30,6 @@ Engaging with certain applications of this website may require you to provide in
 
 Any information collected via the University website will be delivered to the appropriate University staff member for action as required.
 
-Individual forms will contain a privacy statement to explain why the information is required, what the information will be used for, how the information will be stored and whether or not it will be disclosed by the University. 
-
 ####  **Sending emails to the University**
 
 If you send the University an email, the email system will record your email address. This information will only be used to respond to an enquiry made and will not be disclosed without your consent. Some email communications may be monitored for statistical and quality purposes.
@@ -55,6 +53,16 @@ Cookies are also used by certain UoN sites to supply University of Newcastle adv
 ####  **Use of Personal Information**
 
 Personal information you supply on-line will be used by University staff in conducting the business of the University. The information will only be used for the purpose for which it was collected, in line with the University's [Privacy Management Plan](http://www.newcastle.edu.au/policy/000258.html).
+
+####  **Direct marketing and Research**
+
+When you opt-in to receive email and SMS updates about UON, your personal information is collected and managed by the University to provide direct marketing information on degrees, events, scholarships, important dates or other information which we think you may find interesting or will help you make decisions about your study options.
+
+From time to time, we may also use your personal information for market research purposes. We may contact you by email or phone to invite you to participate in market research activities to improve our degrees, services and marketing activities.
+
+We may share your personal information with authorised service providers who perform services on our behalf (including data storage, direct marketing and market research) based on our instructions.
+
+If at any stage you no longer wish to receive marketing communications from the University, you may choose to opt out / unsubscribe by following the instructions in our communications.
 
 ####  **Remarketing**
 
