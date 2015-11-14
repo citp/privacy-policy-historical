@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barclaycard.co.uk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629093412id_/http%3A//www.barclaycard.co.uk/personal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barclaycard.co.uk privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115000636id_/http%3A//www.barclaycard.co.uk/personal/privacy-policy) for the most accurate reproduction.*
 
 # Barclaycard Privacy and Cookie Policy | Barclaycard
 
