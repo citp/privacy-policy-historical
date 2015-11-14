@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flowrestling.org privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527090430id_/http%3A//www.flowrestling.org/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowrestling.org privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114154644id_/http%3A//www.flowrestling.org/site/privacy) for the most accurate reproduction.*
 
 # FloWrestling - Privacy Site | FloWrestling
 
