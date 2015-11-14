@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsguide.com.au privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315032855id_/http%3A//www.carsguide.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsguide.com.au privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114110022id_/http%3A//www.carsguide.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CarsGuide
 
@@ -8,7 +8,7 @@ Effective 10 March 2014
 
 ### 1\. Introduction
 
-One Way Traffic Pty Ltd  (“Company” or “we”) wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through all our services including advertising services, websites, mobile sites, applications (“apps”), the Member Centre and widgets, competitions and customer surveys (collectively, the “Company Services”).  By using Company Services, you agree to the terms and conditions of this Privacy Policy. 
+One Way Traffic Ltd  (“Company” or “we”) wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through all our services including advertising services, websites, mobile sites, applications (“apps”), the Member Centre and widgets, competitions and customer surveys (collectively, the “Company Services”).  By using Company Services, you agree to the terms and conditions of this Privacy Policy. 
 
 This Privacy Policy applies to all persons who interact with us, including those who are advertisers, subscribers to our goods or services and registered and unregistered users of Company Services.  This Privacy Policy applies to Company’s collection and use of your personal information (i.e. information about an identified or reasonably identifiable individual, such as full name or name and postal address).   
 
@@ -34,7 +34,7 @@ Most browsers are initially set to accept cookies, but you can change your setti
 This site uses Google Analytics to collect anonymous, aggregated audience data in order to measure user interactions on our site and improve our service. This includes the use of Google Analytics Advertiser Features which provides Demographic and Interest reports, Remarketing, GDN Impression Reporting, and the DoubleClick Campaign Manager integration. For more information on how this works and to opt-out of this service, please visit the following Google support page: <https://support.google.com/analytics/answer/2700409?hl=en>
 
 This site uses Eyeota to capture anonymous data about our users for segmentation and audience remarketing purposes. No personal information is captured in this process. For more information about how Eyeota works and to opt-out of this service, follow the following link:   
-[http://www.eyeota.com/privacy.html ](http://www.eyeota.com/privacy.html%C2%A0)
+<http://www.eyeota.com/privacy.html>
 
 This site uses Nielsen/NetRatings web analytics tools to measure and analyse internet usage. The data collected does not identify a user personally. 
 
