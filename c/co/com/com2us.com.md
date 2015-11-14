@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the com2us.com privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412013035id_/http%3A//us.com2us.com/%3Fpage_id%3D30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the com2us.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114061230id_/http%3A//us.com2us.com/%3Fpage_id%3D30) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Com2uS
 
