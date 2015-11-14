@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pikkol.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315230611id_/http%3A//www.pikkol.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pikkol.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114153747id_/http%3A//www.pikkol.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pikkol | Book trusted packers & movers in Bangalore | Hire a truck to shift items | Happy shifting
 
