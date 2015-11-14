@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directoryhound.co.uk privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616164659id_/http%3A//www.directoryhound.co.uk/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryhound.co.uk privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114102834id_/http%3A//www.directoryhound.co.uk/privacy-policy.php) for the most accurate reproduction.*
 
 # Directory Hound - Privacy Policy
 
