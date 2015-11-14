@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the woisio.com privacy policy that was archived on 2014-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140915130129id_/http%3A//info.woisio.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woisio.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114053000id_/http%3A//info.woisio.com/en/privacy-policy) for the most accurate reproduction.*
 
 # woisio-privacy-policy
 
-**Last updated: November 11th, 2013.**
+**Last updated: February 5th, 2015.**
 
 The use of the Woisio website(s), application(s), software, services and products (collectively, the “Woisio Service” or “Service”) are subject to this Privacy Policy including any amendments or updates hereto in addition to the Woisio Terms & Conditions. 
 
@@ -82,6 +82,8 @@ Woisio uses Google Analytics Demographics and Interest Reporting to better under
 If you would like to opt-out of receiving advertising like this from Google, or change any of the demographic or interest information about you; you can manage these settings by visiting the [Google Ads Settings](http://www.google.com/settings/ads/ "Google Ads Settings"). Also, Google recommends installing the [Google Analytics Opt-out Browser Add-on](http://tools.google.com/dlpage/gaoptout/ "Google Analytics Opt-out Browser Add-on").
 
 Woisio will not facilitate the merging of personally-identifiable information with non-personally identifiable information previously collected from Display Advertising features that is based on the DoubleClick cookie unless we have robust notice of, and your prior affirmative (i.e., opt-in) consent to, that merger.
+
+We may display interest-based ads to you when you are using Facebook through a tool offered by Facebook called the Custom Audience Tool. This tool allows us to personalize our ads based on your browsing experience with us. We do not share any of your personal information with Facebook. The tool lets Woisio convert your email address to a unique number that Facebook uses to match to unique numbers Facebook generates from email addresses of its users. You may opt-out of Facebook Custom Audience ads from Woisio by clicking [here](http://woisio.com/opt-out/facebook "Opt-Out Facebook")
 
 ###  5\. DATA SECURITY
 
