@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factoryrush.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516051232id_/http%3A//factoryrush.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factoryrush.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114211915id_/http%3A//factoryrush.com/privacy) for the most accurate reproduction.*
 
 # Factory Rush - Our Policies
 
