@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibj.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630192659id_/http%3A//www.ibj.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibj.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114075316id_/http%3A//www.ibj.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ IBJ Corp. has created this privacy statement in order to demonstrate our firm co
 
 The following discloses our information gathering and dissemination practices for this website: www.ibj.com.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Registration forms on ibj.com may require users to give contact information (such as their name and email address) and demographic information (such as their zip code, age, or phone number). We use customer contact information from the registration forms to send the user information about our company and promotional material about some of our partners.
+We use your IP address to help diagnose problems with our server, and to administer our Web site. Registration forms on ibj.com may require users to give contact information (such as their name and email address) and demographic information (such as their zip code, age, or phone number). We use customer contact information from the registration forms and article comments to send the user information about our company and promotional material about some of our partners.
 
 Demographic and profile data is also collected at our site. We use this data to tailor our communication with our visitors. We do not share this information with anyone.
 
