@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ryman.co.uk privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617175321id_/http%3A//www.ryman.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryman.co.uk privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114115636id_/http%3A//www.ryman.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 At Ryman.co.uk we recognise how important is to keep your personal information safe and secure. 
 
-We are totally committed to ensuring that your online shopping experience is completely private and when you give us your name, address, credit card, contact details, or any other personal details we promise to keep them safe and secure and we promise never to share them with anyone outside of the Ryman Group.
+We are totally committed to ensuring that your online shopping experience is completely private and when you give us your name, address, credit card, contact details, or any other personal details we promise to keep them safe and secure and we promise never to share them with anyone outside of The Theo Paphitis Retail Group.
 
 ## Shopping with Ryman is safe, secure and guaranteed
 
@@ -14,7 +14,7 @@ We are totally committed to ensuring that your online shopping experience is com
   * What information we collect 
   * Credit Card Fraud Prevention 
   * Phishing 
-  * [Find out more about how Ryman use of cookies](https://web.archive.org/web/20150617175321id_/http://www.ryman.co.uk/privacy-policy/cookie-policy)
+  * [Find out more about how Ryman use of cookies](https://web.archive.org/web/20151114115636id_/http%3A//www.ryman.co.uk/cookie-policy)
 
 
 
