@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delawareonline.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625084559id_/http%3A//static.delawareonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delawareonline.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114181522id_/http%3A//static.delawareonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Delaware Online
 
