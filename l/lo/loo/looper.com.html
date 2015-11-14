@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the looper.com privacy policy that was archived on 2015-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150516085727id_/http%3A//www.looper.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the looper.com privacy policy that was archived on 2015-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151114130902id_/http%3A//www.looper.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" prefix="og: http://ogp.me/ns#"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -12,7 +12,7 @@
 Privacy Policy - Looper - Looper</title>
 
 <!--[if lt IE 9]>
-<link rel="stylesheet" type="text/css" href="http://www.looper.com/wp-content/themes/hottopix/css/iecss.css" />
+<link rel="stylesheet" type="text/css" href="http://wp.looper.com/wp-content/themes/hottopix/css/iecss.css" />
 <![endif]-->
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
@@ -20,13 +20,34 @@ Privacy Policy - Looper - Looper</title>
 <link rel="alternate" type="text/xml" title="RSS .92" href="http://www.looper.com/feed/rss/">
 <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://www.looper.com/feed/atom/">
 <link href="//fonts.googleapis.com/css?family=Doppio+One" rel="stylesheet" type="text/css">
-<link href="/wp-content/themes/hottopix/style.css?v=4" rel="stylesheet" type="text/css">
-<link rel="pingback" href="http://www.looper.com/xmlrpc.php">
+<link href="/wp-content/themes/hottopix/style.css?v=7" rel="stylesheet" type="text/css">
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<!-- Index Request -->
+<script src="http://js.indexww.com/ht/zergnet.js"></script>
+<!-- Index Request -->
+<script type="text/javascript" src="//ox-d.zergnet.servedbyopenx.com/w/1.0/jstag?nc=49671895-Looper"></script>
+<script type="text/javascript" src="http://c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
+<script type="text/javascript">
+    try {
+        amznads.getAds('3263');
+    } catch(e) { /*ignore*/}
+</script>
+<script>
+    var apn_csa = apn_csa || {};
+    apn_csa.anq = apn_csa.anq || [];
+</script>
+<script src="/wp-content/themes/hottopix/js/looper-ads.js?v=10"></script>
+<script>
+if ( typeof Looper === "undefined" ) {
+    var Looper = {};
+}
+Looper.adTypeAdd = false;
+</script>
 
 
-			<!-- DFP START -->
+
+    		<!-- DFP START -->
 	 	<script type="text/javascript">
 			var googletag = googletag || {};
 			googletag.cmd = googletag.cmd || [];
@@ -51,7 +72,6 @@ Privacy Policy - Looper - Looper</title>
 
 			googletag.cmd.push(function() {
                 googletag.pubads().collapseEmptyDivs();
-                googletag.enableServices();
             } );
 
             jQuery(document).ready(function(){
@@ -66,27 +86,66 @@ Privacy Policy - Looper - Looper</title>
                     if ( isTablet ) {
                         device = "tablet";
                     }
+                    Looper.device = device;
 
                     		googletag.definedSlots['div-ad-top-LB'] = googletag.defineSlot('/49671895/Looper', [[728, 90],[970, 90],[970, 250]] , 'div-ad-top-LB').addService(googletag.pubads()).setTargeting("pos", "atf");
         googletag.definedSlots['div-ad-MR-right1'] = googletag.defineSlot('/49671895/Looper', [[300, 250]] , 'div-ad-MR-right1').addService(googletag.pubads()).setTargeting("pos", "atf");
 googletag.pubads().setTargeting('pageType', ["Random Page"] );
                                         googletag.pubads().setTargeting( "device", [device] );
                 });
-
-                googletag.cmd.push(function() {
-                    for ( var id in googletag.definedSlots ) {
-                        if ( typeof googletag.displayedSlots[id] == "undefined" ) {
-                            googletag.displayedSlots[id] = 1;
-                            googletag.display(id);
-                        } else {
-                            googletag.pubads().refresh([googletag.definedSlots[id]]);
-                        }
-                    }
-                });
             });
 		</script>
 		<!-- DFP END -->
-		
+        <script src="http://cdn.adnxs.com/tag/csa.js" async=""></script>
+        <!-- Define Callback -->
+        <script type="text/javascript">
+        window.page_initialized = false;
+        window.called_cyngus_start = false;
+
+        var pageReady = function(){
+            if (window.page_initialized) return;
+            if (jQuery.isEmptyObject(googletag.definedSlots)) {
+                setTimeout( pageReady, 200 );
+                return;
+            }
+            console.log("Called pageReady()");
+            window.page_initialized = true;
+            googletag.cmd.push(function() {
+                googletag.enableServices();
+            });
+            window.called_cyngus_start = true;
+
+            if ( typeof( window.page_ready_callback ) !== "undefined" ) {
+                window.page_ready_callback();
+            }
+        };
+
+        window.document_is_ready = true;
+
+        window.cygnus_index_ready_state = function() {
+            window.clearTimeout(googleServicesTimeout);
+            if (window.document_is_ready) {
+                console.log("page waited for cygnus");
+                pageReady();
+            } else {
+                console.log("cygnus waiting for page");
+                jQuery(document).ready(pageReady);
+            }
+        };
+
+        if (typeof cygnus_index_start === 'undefined') {
+            console.log("No cygnus... ");
+            jQuery(document).ready( pageReady );
+        } else {
+            window.document_is_ready = false;
+            window.googleServicesTimeout = window.setTimeout(function(){
+                console.log("Cygnus timeout occurred");
+                pageReady();
+            }, 1500);
+        }
+        </script>
+
+    	
 	<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -103,30 +162,24 @@ googletag.pubads().setTargeting('pageType', ["Random Page"] );
 
 <div id="site" class="">
 	    <div id="nav-wrapper" class="fixed">
-                    <div id="header-wrapper">
-                                    <div id="leader-small">
-                        <!--                    <div id="ad-728">-->
-                        <div>
-                            <div id="div-ad-top-LB">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-ad-top-LB'); });
-</script>
-</div>                        </div><!--ad-728-->
-                                            </div><!--leader-small-->
-                            </div><!--header-wrapper-->
-                <div class="nav-container">
+        <div class="nav-container">
             <ul class="main-nav">
                 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-logo">
-                    <a itemprop="url" href="http://www.looper.com">
-                            <img src="/wp-content/themes/hottopix/images/looper-logo-black.png" alt="Looper">
+                    <a itemprop="url" href="/">
+                        <img src="/wp-content/themes/hottopix/images/looper-logo-black.png" alt="Looper">
                     </a>
                 </li>
-                <div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-203" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-203"><a href="http://www.looper.com/category/movies/">Movies</a></li>
-<li id="menu-item-204" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-204"><a href="http://www.looper.com/category/television/">Television</a></li>
-</ul></div>            </ul><!--main-nav-->
+                <div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu">
+                        <li id="menu-item-203" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-203"><a href="/category/movies/">Movies</a></li>
+                        <li id="menu-item-205" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-205"><a href="/category/entertainment/">Entertainment</a></li>
+                        <li id="menu-item-204" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-204"><a href="/category/television/">Television</a></li>
+                        <li id="menu-item-206" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-206"><a href="/category/gaming/">Gaming</a></li>
+                    </ul>
+                </div>
+            </ul><!--main-nav-->
             <div id="nav-mobi">
-                <div class="menu-main-menu-container"><select><option value="#">Menu</option><option value="http://www.looper.com/category/movies/">Movies</option>
-<option value="http://www.looper.com/category/television/">Television</option>
+                <div class="menu-main-menu-container"><select><option value="#">Menu</option><option value="http://www.looper.com/category/movies/" id="menu-item-203">Movies</option>
+<option value="http://www.looper.com/category/television/" id="menu-item-204">Television</option>
 </select></div>            </div><!--nav-mobi-->
         </div><!--nav-mobi-->
         <!--main-search-->
@@ -134,6 +187,9 @@ googletag.cmd.push(function() { googletag.display('div-ad-top-LB'); });
     <div id="is-tablet">&nbsp;</div>
     <div id="is-mobile">&nbsp;</div>
 	<div id="wrapper">
+<link href="/wp-content/themes/hottopix/css/infinite.css?v=28" rel="stylesheet">
+<link href="/wp-content/themes/hottopix/css/sponsored.css?v=1" rel="stylesheet">
+
 <div id="main">
 	<div id="content-wrapper">
 				<div class="breadcrumb">
@@ -193,90 +249,90 @@ googletag.cmd.push(function() { googletag.display('div-ad-MR-right1'); });
 							<ul>
 																											<li>
 											<div style="float: left;position: relative;width: 100%;">
-												<a href="http://www.looper.com/885/reese-witherspoon-movies-totally-bombed/">
-													<img width="380" height="152" src="http://img1.looper.com/img/uploads/2015/05/31renditionfeatured-380x152.jpg" class="attachment-small-thumb wp-post-image" alt="31renditionfeatured">																										<div class="cat-dark-text cat-dark-small">
-														<h2>Reese Witherspoon Movies That Totally Bombed</h2>
+												<a href="http://www.looper.com/1145/movies-earned-0-rating-rotten-tomatoes/">
+													<img width="380" height="152" src="http://img1.looper.com/img/uploads/2015/06/rottenfeatured2-380x152.jpg" class="attachment-small-thumb wp-post-image" alt="rottenfeatured2">																										<div class="cat-dark-text cat-dark-small">
+														<h2>Movies That Earned A 0% Rating On Rotten Tomatoes</h2>
 													</div>
 												</a>
 											</div>
 										</li>
 																																				<li>
 											<div style="float: left;position: relative;width: 100%;">
-												<a href="http://www.looper.com/585/great-movies-terrible/">
-													<img width="380" height="152" src="http://img2.looper.com/img/uploads/2015/04/8-toy-story-3-featured-380x152.jpg" class="attachment-small-thumb wp-post-image" alt="8 toy story 3 featured">																										<div class="cat-dark-text cat-dark-small">
-														<h2>Great Movies That Should Have Been Terrible</h2>
+												<a href="http://www.looper.com/3488/stars-worked-keep-personal-lives-secret/">
+													<img width="380" height="152" src="http://img2.looper.com/img/uploads/2015/10/celebstriedkeeppersonalsecretfeatured-380x152_rev1.jpg" class="attachment-small-thumb wp-post-image" alt="">																										<div class="cat-dark-text cat-dark-small">
+														<h2>Stars Who Worked Hard To Keep Their Personal Lives Secret</h2>
 													</div>
 												</a>
 											</div>
 										</li>
 																																				<li>
 											<div style="float: left;position: relative;width: 100%;">
-												<a href="http://www.looper.com/842/upcoming-films-that-should-be-major-oscar-contenders/">
-													<img width="380" height="152" src="http://img3.looper.com/img/uploads/2015/05/27therevenantfeatured-380x152.jpg" class="attachment-small-thumb wp-post-image" alt="27therevenantfeatured">																										<div class="cat-dark-text cat-dark-small">
-														<h2>Upcoming Films That Should Be Major Oscar Contenders</h2>
+												<a href="http://www.looper.com/608/big-time-celebs-big-time-family-issues/">
+													<img width="380" height="152" src="http://img3.looper.com/img/uploads/2015/04/11-woody-harrelson-featured-380x152.jpg" class="attachment-small-thumb wp-post-image" alt="11 woody harrelson featured">																										<div class="cat-dark-text cat-dark-small">
+														<h2>Big Time Celebs With Big Time Family Issues</h2>
 													</div>
 												</a>
 											</div>
 										</li>
 																																				<li>
 											<div style="float: left;position: relative;width: 100%;">
-												<a href="http://www.looper.com/628/movie-sets-completely-cursed/">
-													<img width="380" height="152" src="http://img4.looper.com/img/uploads/2015/04/14-wizard-of-oz-featured-380x152.jpg" class="attachment-small-thumb wp-post-image" alt="">																										<div class="cat-dark-text cat-dark-small">
-														<h2>Movie Sets That Were Completely Cursed</h2>
+												<a href="http://www.looper.com/3470/reality-tv-stars-seriously-messed-pasts/">
+													<img width="380" height="152" src="http://img4.looper.com/img/uploads/2015/10/realitystarswithseriouslymesseduppasts3-380x152_rev1.jpg" class="attachment-small-thumb wp-post-image" alt="">																										<div class="cat-dark-text cat-dark-small">
+														<h2>Reality TV Stars With Seriously Messed Up Pasts</h2>
 													</div>
 												</a>
 											</div>
 										</li>
 																																				<li>
 											<div style="float: left;position: relative;width: 100%;">
-												<a href="http://www.looper.com/652/new-jurassic-world-trailer-us-worried/">
-													<img width="380" height="152" src="http://img1.looper.com/img/uploads/2015/04/15-dino-whisperer-featured-380x152.jpg" class="attachment-small-thumb wp-post-image" alt="15 dino whisperer featured">																										<div class="cat-dark-text cat-dark-small">
-														<h2>Why The New ‘Jurassic World’ Trailer Has Us Worried</h2>
+												<a href="http://www.looper.com/3339/surprising-things-kylie-kendalls-relationships-caitlyn/">
+													<img width="380" height="152" src="http://img1.looper.com/img/uploads/2015/09/surprisingkyliekendallrelationshipfeatured-380x152_rev1.jpg" class="attachment-small-thumb wp-post-image" alt="surprisingkyliekendallrelationshipfeatured">																										<div class="cat-dark-text cat-dark-small">
+														<h2>Surprising Things About Kylie And Kendall’s Relationships With Caitlyn</h2>
 													</div>
 												</a>
 											</div>
 										</li>
 																																				<li>
 											<div style="float: left;position: relative;width: 100%;">
-												<a href="http://www.looper.com/660/daredevils-costume-almost-ruined-series/">
-													<img width="380" height="152" src="http://img2.looper.com/img/uploads/2015/04/16-suckitude-featured-380x152.jpg" class="attachment-small-thumb wp-post-image" alt="">																										<div class="cat-dark-text cat-dark-small">
-														<h2>How Daredevil’s Costume Almost Ruined The Series</h2>
+												<a href="http://www.looper.com/2780/characters-hope-arent-star-wars-7/">
+													<img width="380" height="152" src="http://img2.looper.com/img/uploads/2015/09/charactershopenotstarwars7featured-380x152_rev1.jpg" class="attachment-small-thumb wp-post-image" alt="charactershopenotstarwars7featured">																										<div class="cat-dark-text cat-dark-small">
+														<h2>Characters We Hope Aren’t In <i>Star Wars 7</i></h2>
 													</div>
 												</a>
 											</div>
 										</li>
 																																				<li>
 											<div style="float: left;position: relative;width: 100%;">
-												<a href="http://www.looper.com/480/creepy-original-stories-behind-disneys-princess-movies/">
-													<img width="380" height="152" src="http://img3.looper.com/img/uploads/2015/04/4-cinderella-featured-380x152.jpg" class="attachment-small-thumb wp-post-image" alt="4 cinderella featured">																										<div class="cat-dark-text cat-dark-small">
-														<h2>The Creepy Stories Behind Disney’s Princess Movies</h2>
+												<a href="http://www.looper.com/4383/shady-side-kaley-cuoco/">
+													<img width="380" height="152" src="http://img3.looper.com/img/uploads/2015/10/shadysidekaleycuocofeatured-380x152_rev1.jpg" class="attachment-small-thumb wp-post-image" alt="">																										<div class="cat-dark-text cat-dark-small">
+														<h2>The Shady Side Of Kaley Cuoco</h2>
 													</div>
 												</a>
 											</div>
 										</li>
 																																				<li>
 											<div style="float: left;position: relative;width: 100%;">
-												<a href="http://www.looper.com/868/things-almost-ruined-age-ultron/">
-													<img width="380" height="152" src="http://img4.looper.com/img/uploads/2015/05/29burnedoutfeatured-380x152.jpg" class="attachment-small-thumb wp-post-image" alt="">																										<div class="cat-dark-text cat-dark-small">
-														<h2>Things That Almost Ruined ‘Age Of Ultron’</h2>
+												<a href="http://www.looper.com/3602/want-mad-max-sequels/">
+													<img width="380" height="152" src="http://img4.looper.com/img/uploads/2015/10/whatwantmadmaxsequelsfeatured-380x152_rev1.jpg" class="attachment-small-thumb wp-post-image" alt="whatwantmadmaxsequelsfeatured">																										<div class="cat-dark-text cat-dark-small">
+														<h2>What We Want Out Of The <i>Mad Max</i> Sequels</h2>
 													</div>
 												</a>
 											</div>
 										</li>
 																																				<li>
 											<div style="float: left;position: relative;width: 100%;">
-												<a href="http://www.looper.com/278/8-actors-difficult-work/">
-													<img width="380" height="152" src="http://img1.looper.com/img/uploads/ngg_featured/die-hard-with-a-vengeance-bruce-willis-380x152.jpg" class="attachment-small-thumb wp-post-image" alt="die-hard-with-a-vengeance-bruce-willis">																										<div class="cat-dark-text cat-dark-small">
-														<h2>Actors Who Can Be A Nightmare To Work With</h2>
+												<a href="http://www.looper.com/3128/next-great-idea-netflix-hasnt-thought-yet/">
+													<img width="380" height="152" src="http://img1.looper.com/img/uploads/2015/09/nextgreatideanetflixfeatured-380x152_rev1.jpg" class="attachment-small-thumb wp-post-image" alt="">																										<div class="cat-dark-text cat-dark-small">
+														<h2>The Next Great Idea Netflix Hasn’t Thought Of Yet</h2>
 													</div>
 												</a>
 											</div>
 										</li>
 																																				<li>
 											<div style="float: left;position: relative;width: 100%;">
-												<a href="http://www.looper.com/774/celebs-went-ivy-league-schools/">
-													<img width="380" height="152" src="http://img2.looper.com/img/uploads/2015/04/20johnlegendfeatured-380x152.jpg" class="attachment-small-thumb wp-post-image" alt="20johnlegendfeatured">																										<div class="cat-dark-text cat-dark-small">
-														<h2>Celebs Who Went To Ivy League Schools</h2>
+												<a href="http://www.looper.com/612/child-actors-havent-given-dream/">
+													<img width="380" height="152" src="http://img2.looper.com/img/uploads/2015/04/12-mayim-bialik-featured-380x152.jpg" class="attachment-small-thumb wp-post-image" alt="12 mayim bialik featured">																										<div class="cat-dark-text cat-dark-small">
+														<h2>Child Actors Who Haven’t Given Up The Dream</h2>
 													</div>
 												</a>
 											</div>
@@ -311,9 +367,38 @@ googletag.cmd.push(function() { googletag.display('div-ad-MR-right1'); });
 
 
 
+<!-- Quantcast + Comscore Tags -->
+<script type="text/javascript">
+   var _qevents = _qevents || [];
+
+   (function() {
+       var elem = document.createElement('script');
+       elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+       elem.async = true;
+       elem.type = "text/javascript";
+       var scpt = document.getElementsByTagName('script')[0];
+       scpt.parentNode.insertBefore(elem, scpt);
+   })();
+
+   _qevents.push({
+       qacct:"p-8cV3w6ZJH0sXI"
+   });
 
 
-<!-- Quick Cache file built for (http://www.looper.com/privacy-policy/) in 0.17114 seconds, on: May 15th, 2015 @ 11:35 pm UTC. -->
-<!-- This Quick Cache file will auto-expire (and be rebuilt) on: May 16th, 2015 @ 11:35 pm UTC (based on your configured expiration time). -->
+   var _comscore = _comscore || [];
+   _comscore.push({ c1: "2", c2: "20053283" });
+   (function() {
+       var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+       s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+       el.parentNode.insertBefore(s, el);
+   })();
+
+</script>
+<!-- Quantcast + Comscore Tags -->
+
+
+
+<!-- Quick Cache file built for (http://www.looper.com/privacy-policy/) in 0.13356 seconds, on: Nov 14th, 2015 @ 2:43 am UTC. -->
+<!-- This Quick Cache file will auto-expire (and be rebuilt) on: Nov 15th, 2015 @ 2:43 am UTC (based on your configured expiration time). -->
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<!-- Quick Cache fully functional :-) Cache file served for (http://www.looper.com/privacy-policy/) in 0.00020 seconds, on: May 16th, 2015 @ 8:56 am UTC. --></body></html>
+<!-- Quick Cache fully functional :-) Cache file served for (http://www.looper.com/privacy-policy/) in 0.00026 seconds, on: Nov 14th, 2015 @ 1:03 pm UTC. --></body></html>
