@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecotrade.or.kr privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624114928id_/http%3A//www.ecotrade.org/f.to/guide/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecotrade.or.kr privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115004034id_/http%3A//www.ecotrade.org/f.to/guide/privacy_policy.html) for the most accurate reproduction.*
 
 # Environmental marketplace for Korea environmental technology & product | ECOTRADE
 
@@ -57,11 +57,11 @@ Your registration information may be provided to third parties only when applied
 
 \- consignee : ecplaza
 
-\- assignments : system refine, operation, and manintanace
+\- assignments : system refine, operation, and maintenance
 
 \- period : 2015. 5. 12 ~ 2015. 12. 4
 
-② When make a contract with consignee for assigned tasks, the Ecotrade state contract item(supervision, technological/systematic restraint for protection, liability for damages, prohibition of reconsignment, etc) and exercise supervision of consignee in accordance with Article 25 of the Privacy Act
+② When make a contract with consignee for assigned tasks, the Ecotrade state contract item(supervision, technological/systematic restraint for protection, liability for damages, prohibition of reconsignment, etc) and exercise supervision of consignee in accordance with Article 26 of the Privacy Act
 
 ③ In case commissioning tasks and change of consignee, the Ecotrade will notify it on Private Policy without delay
 
