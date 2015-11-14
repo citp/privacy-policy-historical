@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the omegles.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509203033id_/http%3A//omegles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omegles.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114135244id_/http%3A//instacamsites.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Omegles Privacy Policy
+# InstaCamSites Privacy Policy
 
 Fair Information Practices 
 
@@ -141,9 +141,9 @@ We also agree to the individual redress principle, which requires that individua
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-Omegles.com
+InstaCamSites.com
 
-info@omegles.com
+info@instacamsites.com
 
 888-324-8545
 
