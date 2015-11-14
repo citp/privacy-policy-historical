@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desncc.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316063657id_/https%3A//desncc.com/DESHome/Static%3Fpage%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desncc.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114093533id_/https%3A//desncc.com/DESHome/Static%3Fpage%3DprivacyPolicy) for the most accurate reproduction.*
 
 # NC Department of Commerce - Division of Employment Services
 
