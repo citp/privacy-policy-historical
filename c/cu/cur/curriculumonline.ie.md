@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the curriculumonline.ie privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516110136id_/http%3A//www.curriculumonline.ie/Footer/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curriculumonline.ie privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114170442id_/http%3A//curriculumonline.ie/Footer/Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Statement
-
-[NCCA Home](https://web.archive.org/) » [Footer](https://web.archive.org/Footer) » 
 
 ##  Website of the National Council for Curriculum and Assessment (NCCA)
 
