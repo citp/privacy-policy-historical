@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toofaced.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326232528id_/https%3A//www.toofaced.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toofaced.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114171341id_/https%3A//www.toofaced.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Too Faced
 
