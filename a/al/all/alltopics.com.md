@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alltopics.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611170143id_/http%3A//alltopics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltopics.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114144214id_/http%3A//alltopics.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Alltopics
+# Privacy Policy
 
 **Introduction**
 
