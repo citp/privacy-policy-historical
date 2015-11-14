@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the stellaservice.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628015933id_/http%3A//www2.stellaservice.com/business/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stellaservice.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114232541id_/http%3A//stellaservice.com/business/privacy) for the most accurate reproduction.*
 
-# StellaService for Business – Privacy
+# Privacy - StellaService
 
-PRIVACY POLICY  
+## PRIVACY POLICY
+
 STELLASERVICE INC. PRIVACY POLICY
 
 StellaService Inc. (the “Company,” “we” or “us”) is committed to ensuring the integrity of its business and customers by providing those who use or visit our Internet Web sites with a safe and secure Internet environment that respects and protects their personal privacy. The following privacy policy is in effect for every Web site maintained or operated by the Company, and we ask you to read it thoroughly.  
