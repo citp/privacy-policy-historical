@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asus.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622211931id_/http%3A//www.asus.com/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asus.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114060747id_/http%3A//www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy) for the most accurate reproduction.*
 
-# Terms of Use Notice / Privacy Policy - Privacy Policy
+# Terms_of_Use_Notice_Privacy_Policy - Privacy Policy
 
 ASUSTeK COMPUTER INC. and its affiliated companies (hereinafter referred to as “ASUS”) are committed to protecting and respecting your privacy. We conduct our business in compliance with applicable laws on privacy protection and personal information security. ASUS Privacy Policy (hereinafter referred to as “Privacy Policy”) outlines what personal information we may collect, how we use and safeguard the collected personal information and with whom we may share it.
 
