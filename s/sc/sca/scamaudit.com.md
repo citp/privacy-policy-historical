@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the scamaudit.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607033945id_/http%3A//www.scamaudit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scamaudit.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114213148id_/http%3A//www.scamaudit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ScamAudit
 
 ## ScamAudit Privacy Policy
 
-This Privacy Policy was last modified on May 14, 2014.
+This Privacy Policy was last modified on August 14, 2015.
 
 ScamAudit ("us", "we", or "our") operates www.scamaudit.com (the "Site"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
@@ -16,10 +16,31 @@ While using our Site, we may ask you to provide us with certain personally ident
 **Log Data**  
 Like many site operators, we collect information that your browser sends whenever you visit our Site ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-**Cookies**  
-Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive.
+### Cookies
 
-Like many sites, we use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site.
+To make this site work properly, we sometimes place small data files called cookies on your device. Most big websites do this too. 
+
+**What are cookies?**
+
+A cookie is a small text file that a website saves on your computer or mobile device when you visit the site. It enables the website to remember your actions and preferences (such as login, language, font size and other display preferences) over a period of time, so you don’t have to keep re-entering them whenever you come back to the site or browse from one page to another. 
+
+**How do we use cookies?**
+
+A number of our pages use cookies to: 
+
+  * Help remember and process the items in the shopping cart.
+  * Understand and save user's preferences for future visits.
+  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf. 
+
+
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
+
+**Google**
+
+**If users disable cookies in their browser:**
+
+If you disable cookies off, some features will be disabled It will turn off some of the features that make your site experience more efficient and some of our services will not function properly. 
 
 **Security**  
 The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
