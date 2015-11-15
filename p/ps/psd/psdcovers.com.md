@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psdcovers.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608121041id_/http%3A//www.psdcovers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psdcovers.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115014550id_/http%3A//www.psdcovers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
