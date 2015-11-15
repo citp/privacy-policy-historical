@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rooja.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123200249id_/http%3A//rooja.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rooja.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115102639id_/http%3A//rooja.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
   * [Authenticity](https://web.archive.org/authenticity)
   * [Shipping Policy](https://web.archive.org/shipping-policy "Read about our shipping policy")
   * [Returns & Exchanges](https://web.archive.org/returns-and-exchanges "Learn about our return policy")
-  * [Terms & Conditions](https://web.archive.org/web/20141123200249id_/http%3A//rooja.com/terms-and-conditions "Learn about or Terms and Conditions")
+  * [Terms & Conditions](https://web.archive.org/web/20151115102639id_/http%3A//rooja.com/terms-and-conditions "Learn about or Terms and Conditions")
   * [Privacy Policy](https://web.archive.org/privacy)
 
 
