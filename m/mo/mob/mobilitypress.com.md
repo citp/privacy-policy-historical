@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mobilitypress.com privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327144238id_/http%3A//mobilitypress.com/%3Fpage_id%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilitypress.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115190253id_/http%3A//mobilitypress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MobilityPress.com
+
+For breaking news, updates, and email alerts, click here!
 
 **Privacy Policy**
 
@@ -28,4 +30,12 @@ When you do provide us with personal information, we may use that information in
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:[http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
 **Who to Contact  
-**If you have submitted personal information through this website and would like that information deleted from our records, please contact us at the following e-mail address: [info@sibannacmedia.com](mailto:info@sibannacmedia.com) we will use reasonable efforts to delete your information from our existing files.
+**
+
+If you have submitted personal information through this website and would like that information deleted from our records, please contact us at the following e-mail address: solutions@sibannacmedia.com we will use reasonable efforts to delete your information from our existing files. For information about advertising email solutions@sibannacmedia.com. To contact the publisher email publisher@sibannacmedia.com, or call us at 480.420.3171.
+
+MobilityPress.com  
+1313 E. Osborn STE 100  
+Phoenix, AZ 85014  
+480.420.3171  
+info@mobilitypress.com
