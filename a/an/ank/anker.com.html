@@ -1,0 +1,691 @@
+<!--The following is the downloaded HTML source of the anker.com privacy policy that was archived on 2015-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151115041304id_/http%3A//www.ianker.com/policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta name="Generator" content="ANKER v2.7.3">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="Keywords" content="">
+<meta name="Description" content="">
+
+<title>Privacy Policy-Anker</title>
+
+
+
+<link rel="shortcut icon" href="http://www.ianker.com/favicon.ico">
+<link type="text/css" href="http://www.ianker.com/themes/anker/css/ui-lightness/jquery-ui-1.9.2.custom.css" rel="stylesheet">
+<link href="http://www.ianker.com/themes/anker/css/inner.css" rel="stylesheet" type="text/css">
+<script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://www.ianker.com/themes/anker/js/jquery.js"></script>
+<script type="text/javascript" src="http://www.ianker.com/themes/anker/js/jquery-ui-1.9.2.custom.min.js"></script>
+<script type="text/javascript" src="http://www.ianker.com/themes/anker/js/js.js"></script>
+<script type="text/javascript">
+var process_request = "Please waiting...";
+</script>
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-23867950-1', 'auto');
+  ga('send', 'pageview');
+
+</script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<body class="index about">
+<link href="http://www.ianker.com/assets/css/nav.css?20150819" rel="stylesheet" type="text/css">
+<link href="http://www.ianker.com/assets/icomoon/style.css" rel="stylesheet" type="text/css">
+<script src="http://www.ianker.com/assets/js/main.js?v20141204"></script>
+
+<script>
+var check_search = function()
+{
+  var search_keywords = $("#keywords").val();
+  if(search_keywords.length > 35) {
+    alert('Please make your keyword shorter!');
+    return false;
+  }
+  return true;
+}
+
+//get message's count
+var get_messages_count = function()
+{
+  if(0) {
+    $.get("http://www.ianker.com/user.php?act=get_messages_count", function(data){
+      var msg_count = parseInt(data);
+      if(msg_count)
+      {
+        $(".member_notification").each(function(){
+          $(this).html('<em class="member_notification_num">'+msg_count+'</em>');
+        });
+        $("#notification").html("("+msg_count+")");
+      } else {
+        $(".member_notification").each(function(){
+                $(this).html('');
+        });
+        $("#notification").html('');
+      }
+    });
+  }
+}
+
+
+/*
+$(function(){
+  //setInterval(get_messages_count, 10000);
+
+  $("#sb_subscribe").click(function(){
+     var email = $("#subscribe_email").val();
+     if($.trim(email) == ''){
+         alert('The Email address does not appear to be valid.');
+         $("#subscribe_email").focus();
+         return false;
+      }
+      
+      if(!Utils.isEmail(email)){
+         alert('The Email address does not appear to be valid.');
+         $("#subscribe_email").focus();
+         return false;
+      }
+  
+      $("#subscribe_email").val('');
+      
+      $.get("http://www.ianker.com/index.php",{is_ajax:'1',act:'subscribe',email:email},function(res){
+         if (res.error == 0) {
+            if(res.add_bucks) {
+              $.MessageShow("Thank you for your subscription. +"+res.bucks+" Anker Bucks");
+            } else {
+              alert("Thank you for your subscription.");
+            }
+         } else if (res.error == 2) {
+            alert("You have already subscribed.");
+         } else {   
+            alert("data error!"+res.err_msg);
+         }
+      },'JSON');
+  });
+});*/
+</script>
+
+
+<script charset="utf-8">
+  var axel = Math.random() + "";
+  var a = axel * 2300000000;
+  $('body').append('<iframe src="http://4311532.fls.doubleclick.net/activityi;src=4311532;type=gener495;cat=viewt273;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+</script>
+
+
+
+<style>
+    #navMain .nolink:hover{text-decoration: none;}
+    .navHidden{
+        display: none !important;
+    }
+</style>
+
+<div id="nav">
+    <div id="navWrap">
+        <a id="navLogo" href="http://www.ianker.com/"><img src="http://asset.ianker.com/img/logo.png"></a>
+        <div id="navRight" class="pr">
+            
+            
+            <!-- 老导航用户登录状态 -->
+            <span id="navNotLogin" class="t-muted">
+                <a href="http://www.ianker.com/login.html">SIGN IN</a><span> / </span>
+                <a href="http://www.ianker.com/register.html">REGISTER</a>
+            </span>
+
+            <span id="nav-control" class="ml30"><i class="icon-align-justify"></i></span>
+
+        </div>
+        <ul id="navMain">
+            <li class="has-more">
+                <a href="javascript:;" class="nolink">POWER </a>
+                
+                <ul class="nav-sub1">
+                    <li class="active">
+                        <a href="javascript:;" class="nolink">Portable Chargers</a>
+                        <div class="nav-sub2-cover">
+                            <div class="nav-power">
+                                <a href="http://www.ianker.com/poweriq"><img src="http://asset.ianker.com/img/navPowerIQ.png"></a>
+                            </div>
+                        </div>
+                        <ul class="nav-sub2">
+                            <li>
+                                <a href="http://www.ianker.com/External-Batteries/category-c1-s1"><img src="http://asset.ianker.com/img/nav/external_batteries.jpg">
+                                    <p>
+                                        External Batteries
+                                    </p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://www.ianker.com/Battery-Cases/category-c77-s1"><img src="http://asset.ianker.com/img/nav/battery_cases.jpg">
+                                    <p>
+                                        Battery Cases
+                                    </p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://www.ianker.com/Solar-Chargers/category-c53-s1"><img src="http://asset.ianker.com/img/nav/solar_chargers.jpg">
+                                    <p>
+                                        Solar Chargers
+                                    </p>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="javascript:;" class="nolink">Plug-in Chargers</a>
+                        <div class="nav-sub2-cover">
+                            <div class="nav-power">
+                                <a href="http://www.ianker.com/poweriq"><img src="http://asset.ianker.com/img/navPowerIQ.png"></a>
+                            </div>
+                        </div>
+                        <ul class="nav-sub2">
+                            <li>
+                                <a href="http://www.ianker.com/Wall-Chargers/category-c78-s1"><img src="http://asset.ianker.com/img/nav/home_and_office_chargers.jpg">
+                                    <p>
+                                        Wall Chargers
+                                    </p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://www.ianker.com/Car-Chargers/category-c82-s1"><img src="http://asset.ianker.com/img/nav/car_chargers.jpg">
+                                    <p>
+                                        Car Chargers
+                                    </p>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="javascript:;" class="nolink">Jump Starters</a>
+                        <div class="nav-sub2-cover">
+                        </div>
+                        <ul class="nav-sub2">
+                            <li>
+                                <a href="http://www.ianker.com/Jump-Starters/category-c92-s1"><img src="http://asset.ianker.com/img/nav/jump_starter.png">
+                                    <p>
+                                        Portable Jump Starters
+                                    </p>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="javascript:;" class="nolink">Cables</a>
+                        <div class="nav-sub2-cover">
+                        </div>
+                        <ul class="nav-sub2">
+                            <li><a href="http://www.ianker.com/Sync-Charge-Cables/category-c89-s1"><img src="http://asset.ianker.com/img/nav/charging_cables.jpg">
+                                    <p>
+                                        Sync &amp; Charge Cables
+                                    </p>
+                                </a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="javascript:;" class="nolink">Replacement Batteries</a>
+                        <div class="nav-sub2-cover">
+                        </div>
+                        <ul class="nav-sub2">
+                            <li><a href="http://www.ianker.com/Laptop-Batteries/category-c4-s3"><img src="http://asset.ianker.com/img/nav/laptop.jpg">
+                                    <p>
+                                        Laptop
+                                    </p>
+                                </a></li>
+                            <li><a href="http://www.ianker.com/Phone-Batteries/category-c5-s3"><img src="http://asset.ianker.com/img/nav/phone.jpg">
+                                    <p>
+                                        Phone
+                                    </p>
+                                </a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li class="has-more">
+                <a href="javascript:;" class="nolink">ACCESSORIES</a>
+               
+                <ul class="nav-sub1">
+                    <li class="active">
+                        <a href="javascript:;" class="nolink">Interface</a>
+                        <div class="nav-sub2-cover">
+                        </div>
+                        <ul class="nav-sub2 active">
+                            <li><a href="http://www.ianker.com/Keyboards/category-c85-s1"><img src="http://asset.ianker.com/img/nav/keyboards.jpg">
+                                    <p>
+                                        Keyboards
+                                    </p>
+                                </a></li>
+                            <li><a href="http://www.ianker.com/Mice/category-c23-s1"><img src="http://asset.ianker.com/img/nav/mice.jpg">
+                                    <p>
+                                        Mice
+                                    </p>
+                                </a></li>
+                            <li><a href="http://www.ianker.com/Audio/category-c56-s1"><img src="http://asset.ianker.com/img/nav/audio.jpg">
+                                    <p>
+                                        Audio
+                                    </p>
+                                </a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="javascript:;" class="nolink">Protection</a>
+                        <div class="nav-sub2-cover">
+                        </div>
+                        <ul class="nav-sub2">
+                            <li><a href="http://www.ianker.com/Cases/category-c25-s1"><img src="http://asset.ianker.com/img/nav/cases.jpg">
+                                    <p>
+                                        Cases
+                                    </p>
+                                </a></li>
+                            <li><a href="http://www.ianker.com/Screen-Protectors/category-c26-s1"><img src="http://asset.ianker.com/img/nav/screen_protectors.jpg">
+                                    <p>
+                                        Screen Protectors
+                                    </p>
+                                </a></li>
+                            <li><a href="http://www.ianker.com/Stands/category-c66-s1"><img src="http://asset.ianker.com/img/nav/stands.jpg">
+                                    <p>
+                                        Stands
+                                    </p>
+                                </a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="javascript:;" class="nolink">Connectivity</a>
+                        <div class="nav-sub2-cover">
+                        </div>
+                        <ul class="nav-sub2">
+                            <li><a href="http://www.ianker.com/USB-Data-Hubs/category-c11-s1"><img src="http://asset.ianker.com/img/nav/usb_data_hubs.jpg">
+                                    <p>
+                                        USB Data Hubs
+                                    </p>
+                                </a></li>
+                            <li><a href="http://www.ianker.com/USB-Adapters/category-c80-s1"><img src="http://asset.ianker.com/img/nav/usb_adapters.jpg">
+                                    <p>
+                                        USB Adapters
+                                    </p>
+                                </a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="javascript:;" class="nolink">AnkerCam</a>
+                        <div class="nav-sub2-cover">
+                        </div>
+                        <ul class="nav-sub2">
+                            <li>
+                                <!--<a href="http://www.ianker.com/ankercam.php">-->
+                                <a href="http://www.ianker.com/AnkerCam/category-c88-s1">
+                                    <img src="http://asset.ianker.com/img/nav/ip_camera.jpg">
+                                    <p>
+                                        IP Camera
+                                    </p>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="javascript:;" class="nolink">Lighting</a>
+                        <div class="nav-sub2-cover">
+                        </div>
+                        <ul class="nav-sub2">
+                            <li>
+                                <a href="http://www.ianker.com/Lighting/category-c103-s1">
+                                    <img src="http://asset.ianker.com/img/nav/led_lamps.jpg">
+                                    <p>
+                                        LED Lamps
+                                    </p>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><a href="http://www.ianker.com/Collections/category-c86-s1" class="nolink">COLLECTIONS </a></li>
+            <li id="navDeviceWrap" class="has-more pr"><a href="javascript:;" class="nolink">MY DEVICE</a>
+                <div id="navDevice" class="nav-sub1">
+
+                                        <ul class="device-item">
+                        <li class="tc mt30 lh200 w70"><span class="icon-uniE64C"></span>
+                            <p class="f12">
+                                Phone                            </p>
+                        </li>
+                        
+                        <li class="w200">
+                            <ul>
+                                                                                                <li><a href="http://www.ianker.com/category-c62-s2-model-bid1-di5044">iPhone 6s</a></li>
+                                                                                                <li><a href="http://www.ianker.com/category-c62-s2-model-bid1-di5045">iPhone 6s Plus</a></li>
+                                                                                                <li><a href="http://www.ianker.com/category-c62-s2-model-bid1-di70">iPhone 6</a></li>
+                                                                                                <li><a href="http://www.ianker.com/category-c62-s2-model-bid1-di5029">iPhone 6 Plus</a></li>
+                                                                                                    </ul></li><li class="w200"><ul>
+                                                                <li><a href="http://www.ianker.com/category-c62-s2-model-bid1-di2">iPhone 5s</a></li>
+                                                                                                <li><a href="http://www.ianker.com/category-c62-s2-model-bid1-di183">iPhone 5c</a></li>
+                                                                                                <li><a href="http://www.ianker.com/category-c62-s2-model-bid1-di1">iPhone 5</a></li>
+                                                                                                <li><a href="http://www.ianker.com/category-c62-s2-model-bid3-di5028">Galaxy Note 4</a></li>
+                                                            </ul>
+                        </li>
+                        <li><a href="http://www.ianker.com/category-c62-s2-model" class="btn btn-primery">More </a></li>
+                    </ul>
+                                        <ul class="device-item">
+                        <li class="tc mt30 lh200 w70"><span class="icon-uniE64B"></span>
+                            <p class="f12">
+                                Tablet                            </p>
+                        </li>
+                        
+                        <li class="w200">
+                            <ul>
+                                                                                                <li><a href="http://www.ianker.com/category-c64-s2-model-bid1-di5032">iPad Air 2</a></li>
+                                                                                                <li><a href="http://www.ianker.com/category-c64-s2-model-bid1-di4973">iPad Air</a></li>
+                                                                                                <li><a href="http://www.ianker.com/category-c64-s2-model-bid1-di4940">iPad 4</a></li>
+                                                                                                <li><a href="http://www.ianker.com/category-c64-s2-model-bid1-di4939">iPad 3</a></li>
+                                                                                                    </ul></li><li class="w200"><ul>
+                                                                <li><a href="http://www.ianker.com/category-c64-s2-model-bid1-di5033">iPad Mini 3</a></li>
+                                                                                                <li><a href="http://www.ianker.com/category-c64-s2-model-bid1-di4942">iPad Mini 2</a></li>
+                                                                                                <li><a href="http://www.ianker.com/category-c64-s2-model-bid1-di4941">iPad Mini</a></li>
+                                                                                                <li><a href="http://www.ianker.com/category-c64-s2-model-bid11-di4946">Nexus 7</a></li>
+                                                            </ul>
+                        </li>
+                        <li><a href="http://www.ianker.com/category-c64-s2-model" class="btn btn-primery">More </a></li>
+                    </ul>
+                                        <ul class="device-item">
+                        <li class="tc mt30 lh200 w70"><span class="icon-uniE64A"></span>
+                            <p class="f12">
+                                Laptop                            </p>
+                        </li>
+                        
+                        <li class="w200">
+                            <ul>
+                                                                                                <li><a href="http://www.ianker.com/category-c63-s2-line-bid1-di6">MacBook Pro 15-Inch</a></li>
+                                                                                                <li><a href="http://www.ianker.com/category-c63-s2-line-bid1-di8">MacBook Pro 13-Inch</a></li>
+                                                                                                <li><a href="http://www.ianker.com/category-c63-s2-line-bid1-di13">MacBook Pro 15.4-Inch</a></li>
+                                                                                                <li><a href="http://www.ianker.com/category-c63-s2-line-bid17-di29">Pavilion</a></li>
+                                                                                                    </ul></li><li class="w200"><ul>
+                                                                <li><a href="http://www.ianker.com/category-c63-s2-line-bid14-di15">Inspiron</a></li>
+                                                                                                <li><a href="http://www.ianker.com/category-c63-s2-line-bid18-di31">ThinkPad</a></li>
+                                                                                                <li><a href="http://www.ianker.com/category-c63-s2-line-bid12-di2">Aspire</a></li>
+                                                            </ul>
+                        </li>
+                        <li><a href="http://www.ianker.com/category-c63-s2-line" class="btn btn-primery">More </a></li>
+                    </ul>
+                                        
+                </div>
+            </li>
+            <li><a href="http://www.ianker.com/support" class="nolink">SUPPORT </a></li>
+            <div class="nav-sub1-cover"></div>
+        </ul>
+    </div>
+</div>
+<div id="navGap" class="cb"></div>
+
+<script>
+    $.getJSON("http://www.ianker.com/ajax/user/check-session", function(data){
+        if (data.status == 1) {
+            $("#navNotLogin").html('<a href="http://www.ianker.com/user.php">'+ data.user_name +'</a><a href="http://www.ianker.com/user.php?act=logout">SIGN OUT</a>');
+        }
+    });
+</script>
+
+
+
+<div class="wrap">
+<div class="block clearfix">
+    <div class="about_top">
+      <div class="content_text">
+        <h1 class="title">Privacy Policy</h1>
+        <div class="wrapper wacontent">
+          <dl class="wablock">
+            <dt><span>What information do we collect? </span></dt>
+            <dd>We collect information from you when you register on our site, place an order or subscribe to our newsletter. <br>
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
+ </dd>
+          </dl>
+          <dl class="wablock">
+            <dt><span>What do we use your information for? </span></dt>
+            <dd> 
+            Any of the information we collect from you may be used in one of the following ways: 
+<br>
+<br>
+
+; To personalize your experience<br>
+
+(your information helps us to better respond to your individual needs)
+<br>
+<br>
+
+; To process transactions<br>
+
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+<br>
+<br>
+
+; To send periodic emails<br>
+
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.<br>
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+<br>
+
+            </dd> 
+          </dl>
+                    <dl class="wablock">
+            <dt><span>How do we protect your information?  </span></dt>
+            <dd>We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+<br>
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+<br>
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+ </dd>
+          </dl>
+             <dl class="wablock">
+            <dt><span>Do we use cookies?  </span></dt>
+            <dd>Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+<br>
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+ </dd>
+          </dl>
+                       <dl class="wablock">
+            <dt><span>Do we disclose any information to outside parties? </span></dt>
+            <dd>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+ </dd>
+          </dl>
+           <dl class="wablock">
+            <dt><span>Third party links </span></dt>
+            <dd>Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+ </dd>
+          </dl>
+           <dl class="wablock">
+            <dt><span>California Online Privacy Protection Act Compliance </span></dt>
+            <dd>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+<br>
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+ </dd>
+          </dl>
+          
+          
+                              <dl class="wablock">
+            <dt><span>Childrens Online Privacy Protection Act Compliance </span></dt>
+            <dd>We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+ </dd>
+          </dl>
+                              <dl class="wablock">
+            <dt><span>Online Privacy Policy Only </span></dt>
+            <dd>This online privacy policy applies only to information collected through our website and not to information collected offline.
+ </dd>
+          </dl>
+                              <dl class="wablock">
+            <dt><span>Terms and Conditions </span></dt>
+            <dd>Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <a href="http://www.ianker.com">www.ianker.com</a>
+ </dd>
+          </dl>
+                              <dl class="wablock">
+            <dt><span>Your Consent </span></dt>
+            <dd>By using our site, you consent to our web site privacy policy.</dd>
+          </dl>
+                              <dl class="wablock">
+            <dt><span>Changes to our Privacy Policy </span></dt>
+            <dd>If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
+<br>
+This policy was last modified on 9/5/2013
+ </dd>
+          </dl>
+                              <dl class="wablock">
+            <dt><span>Contacting Us </span></dt>
+            <dd>If there are any questions regarding this privacy policy you may contact us using the information below. <br>
+<br>
+<a href="http://www.ianker.com">www.ianker.com</a><br>
+
+<a href="mailto:support@ianker.com">support@ianker.com</a><br>
+
+1-800-988-7973
+
+ </dd>
+          </dl>
+        </div>        
+      </div>
+       
+    </div>
+     
+</div>
+ 
+</div>
+
+<script type="text/javascript" src="http://www.ianker.com/js/fantasia/jquery.json-2.3.js"></script>
+<script type="text/javascript" src="http://www.ianker.com/js/common.js"></script>
+<script type="text/javascript" src="http://www.ianker.com/js/utils.js"></script>
+<script type="text/javascript" src="http://www.ianker.com/js/transport.js"></script>
+<script type="text/javascript" src="http://www.ianker.com/js/jQueryRotate.2.2.js"></script>
+<script type="text/javascript" src="http://www.ianker.com/js/jquery.easing.min.js"></script>
+
+<style>
+    body>iframe{position: absolute; bottom: 0; z-index: -1;}
+    #videoCover iframe{bottom: auto;z-index: 0;}
+    #share_li iframe{z-index: 999}
+</style>
+
+<div id="footer">
+    <p id="footerTop" class="tc">
+        1-800-988-7973 (US) Mon-Fri 9am-5pm (PST) support@ianker.com    </p>
+    <div class="wrap">
+        <div id="footerLeft">
+            <ul class="inline">
+                <li>
+                    <p>
+                        Best Sellers
+                    </p>
+                    <a href="http://www.ianker.com/product/63ANMFILTN-3WA">Lightning Cable</a>
+                    <a href="http://www.ianker.com/product/79AN7913S-B2A">Astro Mini (Black)</a>
+                    <a href="http://www.ianker.com/product/71AN2452CSS-BA">24W Car Charger</a>
+                    <a href="http://www.ianker.com/product/A2123111">60W Wall Charger</a>
+                </li>
+                <li>
+                    <p>
+                        About Us
+                    </p>
+                    <a rel="nofollow" href="http://www.ianker.com/about_us.html">Our Company</a>
+                    <a rel="nofollow" href="http://www.ianker.com/media_coverage.html">Press Center</a>
+                    <a rel="nofollow" href="http://www.ianker.com/contact.html">Contact Anker</a>
+                    <a rel="nofollow" href="http://www.ianker.com/business.html">Wholesale</a>
+                </li>
+                <li>
+                    <p>
+                        Support
+                    </p>
+                    <a rel="nofollow" href="http://www.ianker.com/support/">Drivers &amp; Downloads</a>
+                    <a rel="nofollow" href="http://www.ianker.com/Warranty.html">Customer Service</a>
+                    <a rel="nofollow" href="http://www.ianker.com/policy.html">Privacy Policy</a>
+                    <a rel="nofollow" href="http://www.ianker.com/terms_of_service.html">Terms of Service</a>
+                    <a rel="nofollow" href="http://www.ianker.com/faq">FAQ</a>
+                </li>
+            </ul>
+        </div>
+        <div id="footerRight">
+            <p>
+                Please select a language
+            </p>
+                        <select name="lang" id="select_lang">
+                                <option value="http://www.ianker.com" selected="">English</option>
+                                <option value="http://jp.ianker.com">日本語</option>
+                                <option value="http://de.ianker.com">Deutsch</option>
+                            </select>
+            
+            <div id="footerLinks">
+                <a href="http://www.facebook.com/Anker.fans" target="_blank"><span class="icon-facebook-square"></span></a>
+                <a href="https://twitter.com/Ankerofficial" target="_blank"><span class="icon-twitter-square"></span></a>
+                <a href="https://plus.google.com/114663344536204280808" target="_blank"><span class="icon-google-plus-square"></span></a>
+                <a href="http://www.youtube.com/user/AnkerOceanwing" target="_blank"><span class="icon-youtube-square"></span></a>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $('#select_lang').change(function(){
+        location.href = $(this).val();
+    });
+</script>
+
+
+
+<script type="text/javascript">
+    adroll_adv_id = "GDUGA27L55AUDBA7ICRHW4";
+    adroll_pix_id = "YPYSBWCBQRCPXOQ7J4MR5H";
+    (function () {
+        var oldonload = window.onload;
+        window.onload = function () {
+            __adroll_loaded = true;
+            var scr = document.createElement("script");
+            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+            scr.setAttribute('async', 'true');
+            scr.type = "text/javascript";
+            scr.src = host + "/j/roundtrip.js";
+            ((document.getElementsByTagName('head') || [null])[0] ||
+                    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+            if (oldonload) {
+                oldonload()
+            }
+        };
+    }());
+</script>
+
+
+
+<script>(function () {
+        var _fbq = window._fbq || (window._fbq = []);
+        if (!_fbq.loaded) {
+            var fbds = document.createElement('script');
+            fbds.async = true;
+            fbds.src = '//connect.facebook.net/en_US/fbds.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(fbds, s);
+            _fbq.loaded = true;
+        }
+        _fbq.push(['addPixelId', '1505233346356112']);
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1505233346356112&amp;ev=NoScript" /></noscript>
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 961408788;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/961408788/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+
+</body></html>
