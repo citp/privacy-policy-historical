@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sixfigureshortcut.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613060513id_/http%3A//www.jamesfrancis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixfigureshortcut.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115173150id_/http%3A//www.jamesfrancis.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Information Marketing Blog - By Marketing Guru James Francis
+# Privacy Policy | Information Marketing Blog - By James Francis
 
 1) Our Commitment To Privacy   
 2) The Information We Collect   
