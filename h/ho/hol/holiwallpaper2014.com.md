@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the holiwallpaper2014.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514232628id_/http%3A//www.holiwallpaper2014.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holiwallpaper2014.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115192253id_/http%3A//www.holiwallpaper2014.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Holi Wallpaper 2015 | Happy Holi sms, images 2015: privacy policy
+# Happy Canada Day 2015 Wallpaper, Images, Quotes : privacy policy
 
 **Privacy Policy for www.holiwallpaper2014.com**  
 
