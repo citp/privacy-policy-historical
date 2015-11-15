@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accreditedonlinecolleges.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627024254id_/http%3A//www.accreditedonlinecolleges.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accreditedonlinecolleges.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115223847id_/http%3A//www.accreditedonlinecolleges.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AccreditedOnlineColleges.com
 
