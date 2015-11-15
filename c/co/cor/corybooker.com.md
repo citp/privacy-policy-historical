@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the corybooker.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628000442id_/http%3A//corybooker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corybooker.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115190434id_/http%3A//corybooker.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Cory Booker for SenateCory Booker for Senate
+# Privacy Policy | Cory Booker for US Senate
 
 [ ](https://web.archive.org/ "Cory Booker for Senate")
 
