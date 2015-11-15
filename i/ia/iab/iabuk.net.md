@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iabuk.net privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408042654id_/http%3A//www.iabuk.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iabuk.net privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115111112id_/http%3A//www.iabuk.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IAB UK
 
-Effective Date: 25/03/2014
+Effective Date: 30/10/2015
 
 The below sets out how the IAB collects and uses your information to process your requests (eg attending an IAB event) as well as to make the site useful and relevant to you. If you are looking for information on privacy regulatory issues, find out more [here](http://www.iabuk.net/policy). If you want to know more about the EU self-regulatory initiative for behavioural advertising, check out our FAQs [here](http://www.iabuk.net/iab-uk-s-guide-to-the-eu-self-regulatory-initiative-for-behavioural-advertising).
 
@@ -86,14 +86,7 @@ The Google+1 button is a way for you to share information publicly, as part of y
 
 To find out more about Google +1 see <http://www.google.com/intl/en/+/policy/+1button.html>
 
-## **Lead Generation service  
-**
-
-****Lead Forensics:**  
-** The IAB uses a lead generation system on our site enabling us to see which companies (via the IP address) visit our website. It provides real time reporting and intelligence and allows us to service current and potential new members more effectively. For further information see [http://www.leadforensics.com](http://www.leadforensics.com/) **  
-**
-
-## Links
+Links
 
 This site contains links to other websites. We are not responsible for the content or privacy policies of any of these sites. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any web site you visit.
 
