@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evilbeetgossip.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630053135id_/http%3A//www.evilbeetgossip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evilbeetgossip.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115210820id_/http%3A//www.evilbeetgossip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Today's Evil Beet Gossip – Today's Celebrity Gossip from Evil Beet Gossip
 
@@ -18,20 +18,20 @@ We will not sell, rent or otherwise distribute your personally identifiable info
 **HOW DO WE KEEP YOUR PERSONAL INFORMATION SECURE?**  
 EvilBeet understands that it is a privilege to have you as a customer and is committed to protecting your personal information. We use the following controls to protect your personal information:
 
-\- Use of security controls to restrict access to databases housing personally identifying information;  
-\- Use of up to date, continually monitored software platforms to minimize or eliminate common security exposures;  
-\- Restrict employee access to databases containing personal information and impose confidentiality requirements upon employees who do; and  
-\- Bind subcontractors with contractual, technical and organizational measures to protect your personal information.
+– Use of security controls to restrict access to databases housing personally identifying information;  
+– Use of up to date, continually monitored software platforms to minimize or eliminate common security exposures;  
+– Restrict employee access to databases containing personal information and impose confidentiality requirements upon employees who do; and  
+– Bind subcontractors with contractual, technical and organizational measures to protect your personal information.
 
 **HOW DO WE USE YOUR PERSONAL INFORMATION?**  
 EvilBeet uses your personal information to:
 
-\- Deliver to you EvilBeet services, and communicate with you concerning your services and customer support issues.  
-\- Improve our services by providing personalized content recommendations, language and location customization, and/or personalized content delivery based on your preferences;  
-\- Track content accesses to ensure relevant content is continually provided through the EvilBeet services;  
-\- Provide you with content, services, and a more personalized experience based on personal information, such as your language preferences, zip/postal code, country locations, and any content or other preferences you provide;  
-\- Provide you with news, free newsletters, updates, targeted advertising, promotions, and special offers; and  
-\- Better understand how our products are used, including Web traffic patterns and what types of content are most popular with users of our products and services.
+– Deliver to you EvilBeet services, and communicate with you concerning your services and customer support issues.  
+– Improve our services by providing personalized content recommendations, language and location customization, and/or personalized content delivery based on your preferences;  
+– Track content accesses to ensure relevant content is continually provided through the EvilBeet services;  
+– Provide you with content, services, and a more personalized experience based on personal information, such as your language preferences, zip/postal code, country locations, and any content or other preferences you provide;  
+– Provide you with news, free newsletters, updates, targeted advertising, promotions, and special offers; and  
+– Better understand how our products are used, including Web traffic patterns and what types of content are most popular with users of our products and services.
 
 **WHEN AND HOW DO WE SHARE YOUR PERSONAL INFORMATION WITH THIRD PARTIES?**  
 EvilBeet does not use your personal information for purposes incompatible with those listed above. EvilBeet does not sell, rent, or share your personal information to a third party unless you consent to provide such information to a third party partner or content service.
