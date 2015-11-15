@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flowers.vg privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623145840id_/http%3A//www.flowersvg.com/01_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowers.vg privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115220109id_/http%3A//www.flowersvg.com/01_privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
