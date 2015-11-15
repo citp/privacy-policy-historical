@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tate.org.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626102038id_/http%3A//www.tate.org.uk/about/who-we-are/policies-and-procedures/website-terms-use/privacy-and-use-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tate.org.uk privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115192601id_/http%3A//www.tate.org.uk/about/who-we-are/policies-and-procedures/website-terms-use/privacy-and-use-cookies) for the most accurate reproduction.*
 
 # Tate website privacy notice and use of cookies | Tate
 
@@ -16,29 +16,7 @@ When you use the Tate website, we may collect personal information about you whe
 
 We collect information about you when you comment or create user accounts and log in to the following website services:
 
-  * Main website sign in used for visitor comments
-  * [Online courses](http://www.tate.org.uk/whats-on/courses-and-workshops/artists-techniques-and-methods)
-  * [Tate Online Shop](http://www.tate.org.uk/shop)
-  * [Working at Tate](http://workingat.tate.org.uk/Default.aspx)
-  * [Tate Kids](http://kids.tate.org.uk/)
-  * [Tate Collectives](http://collectives.tate.org.uk/)
-  * [BP Art Exchange](https://web.archive.org/node/278743)
-  * [Circuit](http://circuit.tate.org.uk/)
-  * Email bulletin subscriptions
-
-
-
 We collect information about you when you use a Tate checkout to buy the following products:
-
-  * [Tate Online Shop](http://shop.tate.org.uk/) products (for full details see the [Tate Online Shop privacy policy](http://shop.tate.org.uk/customer-service/privacy-policy/page/securityandprivacy/))
-  * [Tickets](https://tickets.tate.org.uk/selectshow.asp) (for full details see the [Tickets privacy notice](https://tickets.tate.org.uk/privacypolicy.asp))
-  * [Tate Members](http://www.tate.org.uk/join-support/tate-members)
-  * [Patrons](http://www.tate.org.uk/node/237827)
-  * [Magazine subscriptions](https://membership.tate.org.uk/subscriptions.asp)
-  * [Donations](https://tickets.tate.org.uk/donation.asp)
-  * [Online courses](https://tickets.tate.org.uk/season.asp?VEN=ONL)
-
-
 
 ### Signing in using social networking credentials
 
