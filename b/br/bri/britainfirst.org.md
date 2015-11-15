@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the britainfirst.org privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401074437id_/https%3A//www.britainfirst.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britainfirst.org privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115030246id_/https%3A//www.britainfirst.org/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY, REFUNDS & UN-SUBSCRIBE POLICIES -
+# Britain First – Taking our country back! | Privacy, refunds & unsubscribe policies
 
 Britain First is committed to safeguarding the privacy of our website visitors. We believe you have the right to privacy on the web. We do not store credit card details nor do we share customer details with any 3rd parties. This policy sets out how we will treat your personal information.
 
@@ -97,4 +97,4 @@ If you want to un-subscribe, you have three options:
 
 Please send all letters relating to this privacy policy to:
 
-**Britain First, 24 Beeches Close, London, SE20 8ED**
+**Britain First, PO Box 119, Swanley, Kent, BR8 9DY**
