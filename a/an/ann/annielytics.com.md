@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the annielytics.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626132320id_/http%3A//www.annielytics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annielytics.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115121724id_/http%3A//www.annielytics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Annielytics
+# Privacy Policy - Annielytics.com
 
 We at Annielytis (umbrella company: Pied Piper Interactive, LLC) are committed to the protection of your privacy and will treat all of the information you provide through our website, including your registration information, with the utmost respect. Annielytics works diligently to ensure that it has taken all appropriate administrative and technical measures to prevent the unauthorized or unlawful use of your personally identifiable information, and to prevent any accidental loss or destruction of, or damage to, such information. Annielytics will not sell or disclose personally identifiable information about you to unaffiliated third parties except in accordance with this Privacy Policy.
 
