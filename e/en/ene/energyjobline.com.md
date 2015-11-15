@@ -1,99 +1,105 @@
-> *The following text is extracted and transformed from the energyjobline.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501232924id_/http%3A//www.energyjobline.com/cm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energyjobline.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115111514id_/http%3A//www.energyjobline.com/privacy-policy) for the most accurate reproduction.*
 
-# Energy Jobline | Privacy Policy | Energy Guidelines
+# Privacy Policy
 
-At Energy Jobline Ltd (“Energy Jobline”) we take protecting the confidentiality of our clients and candidates seriously, and with this in mind we adhere to the following Privacy Policy in compliance with data protection legislation: 
+Energy Jobline Limited and our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006 (" **We** ", “ **Us** ”, or similar) are committed to protecting and respecting your privacy.
 
-**1.** **     ****Information we may collect and process**
+This policy (together with our [Terms of Use](http://www.energyjobline.com/terms-and-conditions) and any other documents referred to on it) sets out the basis on which any personal data We collect from you, or that you provide to Us, will be processed by Us.  Please read the following carefully to understand our views and practices regarding your personal data and how We will treat it. By visiting [www.energyjobline.com](http://www.energyjobline.com/) or any other website operated by Us at which this or a similar policy is published (“Our **Sites** ”) you are accepting and consenting to the practices described in this policy.
 
-1.1 Information that you provide by completing forms on our website or providing CVs to our website [www.energyjobline.com](http://www.energyjobline.com/)  or any other website owned and operated by us (our website). This includes information provided at the time of registering to use our website, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our website.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Energy Jobline Limited of 150 Leadenhall Street, EC3V 4QT.
 
-1.2 Details of transactions you carry out through our website and of the fulfilment of your assignments.
+Information we may collect from you
 
-1.3 Details of your visits to our website including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access.
+We may collect and process the following data about you:
 
-1.4 If you contact us, we may keep a record of that correspondence.
+·         **Information you give us.** You may give Us information about you by filling in forms on our Sites or by corresponding with Us by phone, email or otherwise. This includes information you provide when you register to use our Sites, subscribe to our services, , place an order on our Sites, participate in discussion boards or other social media functions on our Sites, enter a competition, promotion or survey, apply for any jobs with or through Us, upload your curriculum vitae, create a job search profile or similar and when you report a problem with our Sites. The information you give Us may include, but this list is not necessarily exhaustive: your name, address, email addresses and phone numbers, financial information, work/education history or similar, personal and job descriptions, photograph and information related to your work/education history or other information usually contained within a curriculum vitae or otherwise related to job searches or other career services.
 
-1.5 We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+·         **Information we collect about you.** With regard to each of your visits to our site we may automatically collect the following information:
 
-**2.** **     ****IP Addresses and Cookies**
+·         technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
 
-2.1 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our sponsors, affiliates or associates. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+·         information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.
 
-2.2 For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our website and to deliver a better and more personalised service. They enable us:
+·         **Information we receive from other sources.** We may receive information about you if you use any of our other Sites or the other services we provide. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, data-cleaning providers, search information providers and credit reference agencies) and may receive information about you from them.
 
-· To estimate our audience size and usage pattern;· To store information about your preferences, and so allow us to customise our website   according to your individual interests;
+Cookies
 
-· To speed up your searches;
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie policy.
 
-· To recognise you when you return to our website. 
+Uses made of the information
 
-2.3 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our website.
+We use information held about you in the following ways:
 
-2.4 Please note that our sponsors or associates may also use cookies, over which we have no control.
+·         **Information you give to us.** We will use this information:
 
-**3.** **     ****Where we store your personal data**
+·         to provide you with the information, products and services that you request from Us, including but not necessarily limited to those usually provided by a recruitment agency;
 
-3.1  Processing may take place via electronic means using the internet and may involve transfer overseas to countries outside the European Economic Area, which do not have equivalent laws relating to data protection.
+·         to carry out our obligations arising from any contracts entered into between you and Us;
 
-3.2 All information you provide to us is stored on our service provider’s secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our website, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+·         to provide you with information about other goods and services We offer that are similar to those that you have already enquired about with Us;
 
-3.3 Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+·         to provide you, or permit selected third parties to provide you, with information about goods or services We feel may interest you. If you are an existing customer, We will only contact you by electronic means (email or SMS) with information about goods and services similar to those which were the subject of a previous enquiry. If you are a new customer, and where We permit selected third parties to use your data, We (or they) will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the registration page of our Sites);
 
-**4.** **     ****Uses made of the information**
+·         to notify you about changes to our service;
 
-4.1 We use information held about you in the following ways:
+·         to ensure that content from our Sites is presented in the most effective manner for you and for your computer.
 
-· To ensure that content from our website is presented in the most effective manner for you and for your computer;
+·         **Information we collect about you.** We will use this information:
 
-· To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes;
+·         to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
 
-· To carry out our obligations arising from any contracts entered into between you and us;
+·         to improve our site to ensure that content is presented in the most effective manner for you and for your computer;
 
-·To allow you to participate in interactive features of our service, when you choose to do so;
+·         to allow you to participate in interactive features of our service, when you choose to do so;
 
-·To notify you about changes to our service.
+·         as part of our efforts to keep our site safe and secure;
 
-4.2 You acknowledge that: 
+·         to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
 
-•Any CVs you submit to our website may be assessed, used or stored anywhere in the world by third parties we have no control over;
+·         to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.
 
-•While we take data protection seriously, we can’t guarantee unauthorised use of the data you provide by third parties;
+·         **Information we receive from other sources.** We may combine this information with information you give to Us and information We collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information We receive).
 
-•We are not responsible for how authorised users use your information, including any sensitive information you choose to provide.
+Disclosure of your information
 
-**5.** **     ****Disclosure of your information**
+We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
-5.1 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the Companies Act 2006 and any connected businesses.
+We or any member of our group may share your information with selected third parties including:
 
-5.2 We may disclose your personal information to third parties:
+·         Business partners, clients (including prospective clients), suppliers and sub-contractors for the performance of any contract we enter into with them or you.
 
-•In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
+·         Analytics and search engine providers that assist us in the improvement and optimisation of our site.
 
-•If Energy Jobline or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets;
+We or any member of our group may disclose your personal information to third parties:
 
-•If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply any terms of any agreements with you, our Disclaimer  and other agreements; or to protect the rights, property, or safety of Energy Jobline, our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+·         In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
 
-**6.** **     ****General**
+·         If Energy Jobline Limited or any member of our group or substantially all of its or their assets are acquired by a third party, in which case personal data held by it about you will be one of the transferred assets.
 
-6.1 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise your right to prevent such processing by contacting us at [mail@energyjobline.com](mailto:mail@energyjobline.com)
+·         If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use](http://www.energyjobline.com/terms-and-conditions) and other agreements; or to protect the rights, property, or safety of Energy Jobline Limited, any member of our group, our clients, candidates, sub-contractors or others. This includes but is not limited to exchanging information with other companies and organisations for the purposes of fraud protection, credit risk reduction and data cleaning.
 
-6.2 The laws of England and Wales apply to this Policy and the parties irrevocably agree, for the sole benefit of Energy Jobline that, subject as provided below, the courts of England and Wales shall have exclusive jurisdiction over any dispute or claim arising out of or in connection with this Policy or our website. Nothing in this clause shall limit the right of Energy Jobline to take proceedings against any party in any other court of competent jurisdiction, nor shall the taking of proceedings in any one or more jurisdictions preclude the taking of proceedings in any other jurisdictions, whether concurrently or not, to the extent permitted by the law of such other jurisdiction.
+Where we store your personal data
 
-6.3 Except as set out herein and where required or permitted by law or a court of competent jurisdiction, we will not reveal any personal data about you to any third party. 
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things,  the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-6.4 Certain links contained within this website may lead to external servers and websites which are maintained by third parties unconnected to us and over which we have no control. We can accept no responsibility or liability in respect of any material contained within those websites or servers. Please note that those websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
+All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-6.5 To the extent permitted by law, we do not accept liability for any damages (including, without limitation, damages for any consequential loss or loss of business opportunities, or loss of profits) howsoever arising and whether in contract, tort or otherwise from the use of or inability to use the website or its contents, or from any action or omission taken as a result of using the website or its contents.
+Unfortunately, the transmission of information via the internet and email is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site or to or by us by email; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-6.6 Where our website contains advertising submitted by third parties, please note that those advertisers are responsible for ensuring that the material submitted for inclusion on the website complies with all legal requirements. 
+Your rights
 
-6.7 We are unable to offer any guarantee that the contents of the website are free from viruses or similar which have destructive or contaminating properties and shall therefore have no liability in respect thereof. We regularly check the website for viruses using the leading proprietary virus checking software.
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at either [data@energyjobline.com](mailto:data@energyjobline.com) or 150 Leadenhall Street, London, EC3V 4QT.
 
-6.8 Data protection legislation gives you the right to access information held about you. You have a right to request a copy of any personal information we hold, your access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+Our Sites may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
 
-6.9 Any changes we may make to our Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+Access to information
 
-6.10 For the purpose of the Data Protection Act 1998, the data controller is Matthew Cook.
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-6.11 Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [mail@energyjobline.com](mailto:mail@energyjobline.com)
+Changes to our privacy policy
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email. Please check back frequently to see any updates or changes to our privacy policy.
+
+Contact
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Mat Cook, Director, either by email to [m.cook@energyjobline.com](mailto:m.cook@energyjobline.com) or to 150 Leadenhall Street, London, EC3V 4QT.
