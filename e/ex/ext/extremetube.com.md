@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the extremetube.com privacy policy that was archived on 2010-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100403080629id_/http%3A//www.extremetube.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremetube.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115233217id_/http%3A//www.extremetube.com/information%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy - http://www.extremetube.com/
+# Information - Privacy Policy, DMCA, Support, And More | Extremetube
 
 This document details important information regarding the use and disclosure of User Data collected on ExtremeTube.com
 
@@ -15,7 +15,7 @@ This site expressly and strictly limits its membership and/or viewing privileges
     * Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
   * • Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
   * • Cookies: When you visit ExtremeTube.com, we may send one or more cookies to your computer that uniquely identifies your browser session. ExtremeTube.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.
-  * • Log File Information: When you visit ExtremeTube.com, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
+  * • Log File Information: When you visit ExtremeTube.com, our servers may record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
   * • Emails: If you contact us, we may keep a record of that correspondence.
 
 
