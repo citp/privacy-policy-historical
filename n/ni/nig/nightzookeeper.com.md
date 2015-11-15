@@ -1,114 +1,130 @@
-> *The following text is extracted and transformed from the nightzookeeper.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529082046id_/http%3A//www.nightzookeeper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nightzookeeper.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115045138id_/http%3A//nightzooteacher.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | The Night Zookeeper
+# Night Zoo Teacher • Privacy Policy
 
-## Introduction
+**Privacy, Data, Cookies and Marketing Communications**
 
-We would like to take this opportunity to welcome students, teachers, parents and guardians to the world of the Night Zookeeper. The Night Zookeeper is a fantastic place for children to learn, play and interact safely online. The Night Zookeeper is accessible at our website,[www.nightzookeeper.com](http://www.nightzookeeper.com/) (the **“Website”** ) and our mobile application the Drawing Torch. The Website and all its content and related sites are the property of Wonky Star Limited (registered under company number 07706300 and the registered office of which is Hodgson & Dawes, 19 New Rd, Brighton, East Sussex, BN1 1UF (the **“Company”** ).
+Last Updated: 13 September 2015
 
-The Company is committed to complying with the Children’s Online Privacy Protection Act (COPPA). This is a US law which controls the use of information collected directly relating to children under the age of 13. If you would like to learn more about this legislation then please visit [here.](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm.)
+**Introduction**
 
-In this policy we will:
+We would like to take this opportunity to welcome students, teachers, parents and guardians to the world of the Night Zookeeper. The Night Zookeeper is a fantastic place for children to learn, play and interact safely online. The Night Zookeeper is accessible at our website,www.nightzookeeper.com (the “Website”) and our mobile applications. The Website and all its content and related sites are the property of Wonky Star Limited (registered under company number 07706300 and the registered office of which is 19 New Rd, Brighton, East Sussex, BN1 1UF (the “Company”).
 
-  * explain what we will do with the information you give us;
-  * tell you how we collect personal information and what we do with it; and
-  * how we aim to make the Website a safe environment for children to use.
+The Company is committed to complying with the Children’s Online Privacy Protection Act (COPPA). This is a US law which controls the use of information collected directly relating to children under the age of 13. 
 
+In this policy we will:  
+explain what we will do with the information you give us;  
+tell you how we collect personal information and what we do with it; and  
+how we aim to make the Website a safe environment for children to use.
 
+**Registration**
 
-## Registration
+**Applications**
 
-### Drawing Torch User
+**Night Zookeeper Story Pairs User**
 
-If you download the Night Zookeeper Drawing Torch mobile application we collect no information about you personally. However we do use Google Analytics to record statistics about how the application is used. This includes: which tools are used and which missions are most popular. These analytics are collected for the sole purpose of improving our mobile application.
+If you have downloaded the Night Zookeeper Story Pairs mobile application we collect no information about you personally. There is a link in the application to  the Website the terms of use for which are below.
 
-There is a link on the Drawing Torch mobile application that directs to [http://www.drawingtorch.com](http://www.drawingtorch.com/). On this website we provide a form where users are invited to submit their email address. The intention is to collect parent email addresses, which we can use for the purpose of marketing communication. We do not share any collected email address with any 3rd party and we include unsubscribe links on all correspondence so that users can have their email addresses deleted from our database if they wish. The company has a data protection policy to ensure the safety of your information.
+For your animal to be selected to be featured in the Night Zookeeper Story Pairs mobile application you will need to register with Night Zookeeper, create an animal and agree to our terms and conditions.
 
-### Free Accounts
+If you have any feature suggestions or would like to talk to the developers of Night Zookeeper Story Pairs please get in touch.
 
-When you visit the Website you will be able to access our free sign up page which allows you to become a Night Zookeeper and non-paying member of the Website. If you are a direct user, you will be required to provide the following information:
+**Drawing Torch User**
 
-  * username (We encourage you to use a username that does not contain any personal information or identify you); and
-  * password.
+If you download the Night Zookeeper Drawing Torch mobile application we collect no information about you personally. However we do use Google Analytics to record anonymous statistics about how the application is used. This includes: which tools are used and which missions are most popular. These analytics are collected for the sole purpose of improving our mobile application. There is a link on the Drawing Torch mobile application that directs to [](http://www.drawingtorch.com/)[http://www.drawingtorch.com](http://www.drawingtorch.com/).
 
+**Teleporting Torch User**
 
+If you register on [http://dashboard.nightzookeeper.com](http://dashboard.nightzookeeper.com/) or on the Teleporting Torch app then you must provide a valid email address and by doing this you confirm that you are over 18 years of age and accept our terms of use as well as those of the iTunes store.
 
-You may also be asked to provide your 'class code' if you wish to link you account to a school's class account. Teachers will be asked to provide one email address and a full name. They will then be required to create a classname and class code which will be used by direct users to link their accounts to the class. 
+As we mentioned, the registration process on the app and Website requires an email address. Our intention is to collect parent or teacher email addresses, which we can use for the purpose of marketing communication and important updates regarding Night Zookeeper. We do not share any collected email addresses with any 3rd party and we include unsubscribe links on all correspondence so that users can have their email addresses deleted from our database if they wish. The company has a data protection policy to ensure the safety of your information.
 
-### Paid Subscriptions
+**As a parent or teacher, you then have complete control over the information we collect from our users. We suggest you create nicknames for your little Zookeeper’s to keep them completely anonymous and also select their age. You can edit this information at any time and delete their accounts via the online dashboard.**
 
-For paid accounts, we require a valid email address in order to send log-in details for the Website and to confirm your full subscription. All information provided to register for the Website (other than your specified username and class name) will not be shared with any third party and will remain confidential.
+All content created using Night Zookeeper Teleporting Torch is used in keeping with the policy described for NightZookeeper.com. See below for full information.
 
-You may also be asked to provide additional payment information, including a valid credit or debit card and the registered card address. Children under the age of 16 must have their parent or guardian provide their valid credit or debit card details and registered card address. Children who do not provide parental or guardian information will not be able to access their account on the Website.
+As a parent or teacher you also have complete control over who views your children’s artwork and stories. All work is private by default. However you simply have to hit the ‘Share Artwork’ button and then you will be able to post the content on Facebook, Twitter or anywhere online. In doing this you accept the terms of use of these websites. You can, if you wish, choose to make the artwork private again therefore stopping visitors being able to view the content via the link.
 
-Payment information entered on the Website will not be stored by the Company. This will be the responsibility of the Company’s merchant service provider PayPal. PayPal will process your payment in a safe and secure way. For more details please visit [here.](https://www.paypal.com/uk/cgi-bin/webscr?cmd=_home-customer&nav=1)
+Please keep in mind that anything, once shared online, can be ‘screen grabbed’ by others.
 
-## Why we need a parent or guardian’s information
+**Marketing Communications  **
 
-The Company is committed to protecting all of its members, particularly children. Therefore we require a parent or guardian’s email address to ensure the child’s use of the Website is monitored and supervised adequately.
+On our website we provide forms where users are invited to submit their email address. The intention is to collect parent and teacher email addresses, which we can use for the purpose of marketing communication. We will not sell or trade personal information to other companies. We also do not share any collected email address with any 3rd party and we include unsubscribe links on all correspondence so that users can have their email addresses deleted from our database if they wish. The company has a data protection policy to ensure the safety of your information. 
 
-We will use a parent or guardian’s email address to:
+**NightZookeeper.com  **
 
-  * send them the child’s username and password so they can begin using the Website; provide a link to our privacy policy;
-  * inform them of our updated privacy documentation and of any issues directly relating to a child’s account; and
-  * inform them of the latest information relating to the Website, upcoming competitions and new features on offer.
+**Cookies**
 
+Cookies are files stored on a user’s computers for the purpose of keeping records. Cookies are used on the Website. 
 
+We use cookies to analyse, collect and store anonymous statistical data about visits to the Website.
 
-## Other agents and service providers
+We may also collect information about your computer, mobile phone (or other portable or static device used to access our site) and your visit to the Website, including where available your IP address, operating system, session_id, login, screen name and browser type, for system administration and to report aggregate information to our partners.
 
-It is necessary for us to share some personal identifiable information such as email addresses, credit card details and billing addresses with third parties during payment of subscriptions and completing online orders. Third parties are clearly referenced on our website and have their own Privacy Policies from which they work to. These third parties are prohibited from sharing this information in relation to promotional offers.
+We may obtain information about your general internet usage by using a cookie file and/or similar tools which are stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive to report back anonymous data to us. They help us to improve the Website and to deliver a better and more personalised service.
 
-## Cookies
+Generally, cookies may be used to enable us to:
 
-Cookies are files stored on a user's computers for the purpose of keeping records. Cookies are used on the Website. For example, the Website uses cookies to store your sound settings from the last time you visited the Website.
+estimate our audience size and usage pattern.
 
-## Rights of Parents and Guardians
+store information about your preferences, and so allow us to customise the Website according to your individual interests and provide a more personalised experience to you.
 
-Parents or guardians of children under the age of 13 have rights that are outlined in COPPA that we recognise. We will always ask for a parent or guardian’s permission when children are subscribing to our website. We will do that by sending an email to the parent or guardian which asks them to confirm their consent. Without this consent a child will not be able to access or enjoy the full use of the Website. We will also delete any information that has been provided during the registration process as soon as reasonably practicable.
+recognise you when you return to the Website  (for example, we store your sound settings from the last time you visited the Website).
 
-Parents and guardians are able to access the information their children have provided. They can also request that certain information is withdrawn from the website by contacting [roar@nightzookeeper.com](mailto:roar@nightzookeeper.com) stating the child’s username and their registered email address so that we can deal with the request quickly. We may request additional personal information in order to confirm the identity of the parent or guardian before accepting the request to withdraw information from the website.
+You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. 
 
-Parents and guardians can read more about how our site operates and the value it has for their children’s education by visiting our [Parent’s Page.](http://www.nightzookeeper.com/parents)
+By continuing to use the Website and services you give your pre-informed consent to us using cookies (and other similar tools) on your visit. If you subsequently wish to revoke this consent, you may do so by deleting the cookies (and similar tools) via your browser tools settings. However, if you select this setting you may be unable to access certain parts of the Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system may issue cookies when you log on to the Website.
 
-## Sharing of information
+If you want to switch off cookies you can opt-out of them by disabling cookies on your computer. 
 
-Where we are required to share information with third parties we will always ask your permission or in the case of a child user, their parent or guardian’s permission.
+**Information We May Collect**
 
-We may share personal information where we need to:
+We know how important your privacy is to you, and it’s important to us that you and children feel safe and secure on the Website. We want to make sure that you have the very best experience of The Night Zookeeper and so we may sometimes ask you for certain information and you may send personal data to us (such as your name, school name, email address and contact details) when you subscribe, sign up, or purchase products from the Website, to allow us to do that.
 
-  * act against any fraud or illegal activity we consider to be taking place via the Website;
-  * protect the well being and human rights of other users on our website;
-  * assist in any investigations, court orders or unlawful activity;
-  * protect our rights and comply with legal proceedings; and
-  * merge with another company. We will notify you before we share your information in this instance.
+We may also record which parts of the Website you are interested in as well as user traffic patterns and Website use. Most of the time we’ll use this data anonymously. This information will be kept securely in accordance with an internal security policy. In some cases the data you provide may be used to:
 
+process your User Content, your subscription to the Website and to enable your use of the Website;
 
+open and run your account and provide you with an up to date, efficient and reliable service;
 
-We actively encourage children using the Website to:
+generally run the Website;
 
-  * not share any personal identifiable information on the Website;
-  * not identify themselves other than by using their username or Night Zoo animal’s name; and
-  * not post anything on their profile which discloses their personal identity such as age, address, school name etc.
+if we sell or transfer our business.
 
+By subscribing and submitting your data you agree to this use.
 
+We will only use information collected about you in accordance with the Data Protection Act 1998. We will not resell or use your data in any ways other than those that you have given us permission for. We will never collect sensitive information about you without your explicit consent.
 
-## Cancelling Acccounts/Subscriptions
+If you believe we have information about you that you do not want us to have or that is incorrect please contact us as described below and we will correct or remove the data as you request, as soon as reasonably practicable.
 
-If you wish to cancel your account and/or subscription at any time then you must go to the ‘edit account’ section by clicking your username. Any monthly payments payable after the termination date should be terminated immediately however we recommend that you cancel the direct debit relating to your subscription fee with your bank.
+**Sharing Of Information**
 
-## Website Security
+Where we are required to share information with third parties we will always ask your permission or in the case of a child user, their parent or guardian’s permission. We may share personal information where we need to:  
+act against any fraud or illegal activity we consider to be taking place via the Website;  
+protect the well-being and human rights of other users on our website;  
+assist in any investigations, court orders or unlawful activity;  
+protect our rights and comply with legal proceedings; and  
+merge with another company. We will notify you before we share your information in this instance.
 
-The only way that you will be contacted for personal identifiable information will be through an official email from the Company. If you receive a request for personal information from persons claiming to be the Company please report this directly to [roar@nightzookeeper.com](mailto:roar@nightzookeeper.com).
+We actively encourage children using the Website to:  
+not share any personal identifiable information on the Website;  
+not identify themselves other than by using their username or Night Zoo animal’s name; and  
+not post anything on their profile which discloses their personal identity such as age, address, school name etc.
 
-## Links to Other Websites
+**Website Security**
+
+The only way that you will be contacted for personal identifiable information will be through an official email from the Company. If you receive a request for personal information from persons claiming to be the Company please report this directly to roa[…](http://www.google.com/recaptcha/mailhide/d?k=01nya-p7iw8cb-doqp3xdyra==&c=91gj750vtvew1y6yz9ypkfjgdy5lxf0rwcbyjzajcv4=)@nightzookeeper.com
+
+**Links To Other Websites**
 
 We may provide links to other websites from time to time. However, we do not sponsor or endorse these websites and you should check their Privacy Policies fully before using their websites. Please ensure that you also refrain from using any personal information on various other websites that you may visit.
 
-## Changes to this Policy
+**Changes To This Policy**
 
 This policy is being constantly reviewed and updated in order to remain in line with current UK law. Please re-visit this page to check for any updates and changes that may have occurred.
 
-## Questions
+**Questions**
 
-If you have any questions please contact us at [roar@nightzookeeper.com](mailto:roar@nightzookeeper.com) or send us a letter to Customer Service, Wonky Star Limited, Hodgson & Dawes, 19 New Rd, Brighton, East Sussex, BN1 1UF
+If you have any questions please contact us at roa[…](http://www.google.com/recaptcha/mailhide/d?k=01nya-p7iw8cb-doqp3xdyra==&c=91gj750vtvew1y6yz9ypkfjgdy5lxf0rwcbyjzajcv4=)@nightzookeeper.com or send us a letter to Customer Service, Wonky Star Limited, Hodgson & Dawes, 19 New Rd, Brighton, East Sussex, BN1 1UF
+
+That’s it for the legal stuff! Thanks for reading.
