@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entity.cc privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617022147id_/http%3A//www.allfreeclipart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entity.cc privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115173934id_/http%3A//www.allfreeclipart.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - AllFreeClipart.com
 
