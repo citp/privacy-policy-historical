@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspiredtaste.net privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627152949id_/http%3A//www.inspiredtaste.net/privacy-and-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiredtaste.net privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115032707id_/http%3A//www.inspiredtaste.net/privacy-and-terms) for the most accurate reproduction.*
 
 # Inspired Taste Privacy and Terms
 
@@ -72,7 +72,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 **Google**
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+Google’s advertising requirements can be summed up by [Google’s Advertising Principles](https://support.google.com/adwordspolicy/answer/1316548?hl=en). They are put in place to provide a positive experience for users.
 
 We use Google AdSense Advertising on our website.
 
@@ -91,7 +91,7 @@ Users can set preferences for how Google advertises to you using the Google Ad S
 
 **California Online Privacy Protection Act**
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at [here](http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf).
 
 According to CalOPPA we agree to the following:  
 Users can visit our site anonymously  
