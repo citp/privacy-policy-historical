@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allstarplr.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502174147id_/http%3A//allstarplr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allstarplr.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115091104id_/http%3A//allstarplr.com/privacy) for the most accurate reproduction.*
 
 # AllstarPLR Privacy
 
