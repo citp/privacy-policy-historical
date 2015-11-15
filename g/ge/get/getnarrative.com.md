@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the getnarrative.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505203458id_/http%3A//getnarrative.com/pages/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getnarrative.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115082418id_/http%3A//getnarrative.com/pages/privacy-cookie-policy) for the most accurate reproduction.*
 
 # About Narrative | Narrative - automatic lifelogging camera
 
-Version 1.0  
-Last revised Oct 27 2014
+Version 1.1  
+Last revised May 26th 2015
 
 This is a legal document about your privacy when you use Narrative’s Site and Services. Please refer to this right column for explanations of the paragraphs in plain english.
 
-Narrative AB, 556870-9520, (“Narrative”, “we” “our”, or “us”). is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at [www.getnarrative.com], our mobile application (“Application(s)”), and our widgets (collectively, the “Site”) and online services (“Services”). Our online services include our web applications, our web shop and our support (regardless of through what channel it is provided). This Privacy Policy governs your access of the Narrative Site and Services, regardless of how you access them. If you do not comply with this Privacy Policy, you should not use our Site or Services.
+Narrative AB, 556870-9520, (“Narrative”, “we” “our”, or “us”). is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at getnarrative.com and narrativeapp.com, our mobile application (“Application(s)”), and our widgets (collectively, the “Site”) and online services (“Services”). Our online services include our web applications, our web shop and our Customer Care (regardless of through what channel it is provided and our developer portal. This Privacy Policy governs your access of the Narrative Site and Services, regardless of how you access them. If you do not comply with this Privacy Policy, you should not use our Site or Services.
 
 ### Questions; Contacting Company; Reporting Violations
 
@@ -19,7 +19,7 @@ Attn: Privacy
 Brahegatan 60  
 SE-114 37 Stockholm  
 Sweden  
-[support@getnarrative.com](mailto:support@getnarrative.com)
+[care@getnarrative.com](mailto:care@getnarrative.com)
 
 ### 1\. User Consent
 
@@ -37,7 +37,7 @@ We do not intentionally gather Personal Data from visitors who are under the age
 
 We may store your data outside of Europe, with suppliers that all sign off to the common rules around privacy protection.
 
-By visiting the Site and providing us with data, you acknowledge and agree that your Personal Data may be processed for the purposes identified in the Privacy Policy. In addition, you agree that your Personal Data may be processed in a country outside the European Union/European Economic Area, e.g. the United States. By providing your data, you consent to such transfer of data. Our suppliers of storage and customer support systems adhere to the United States/European Union Data Protection Safe Harbor Arrangement, which can be located at <http://www.exportgove/safeharbor> (“Safe Harbor”).
+By visiting the Site and providing us with data, you acknowledge and agree that your Personal Data may be processed for the purposes identified in the Privacy Policy. In addition, you agree that your Personal Data may be processed in a country outside the European Union/European Economic Area, e.g. the United States. By providing your data, you consent to such transfer of data. Our suppliers of storage and customer care systems adhere to the United States/European Union Data Protection Safe Harbor Arrangement, which can be located at <http://www.exportgove/safeharbor> (“Safe Harbor”).
 
 ### 4\. Types of Data We Collect.
 
@@ -54,11 +54,11 @@ We store various personal data that is needed to provide the products and servic
   * If you tell us where you are (e.g., by allowing your Narrative Clip to send us your location), we store and use that information to provide you with location-based information.
   * When you order Products on our Site, our e-commerce platform provider, Shopify Inc., will collect all information necessary to complete the transaction, including your name, credit card information, billing information and shipping information. They store your data in a secure server behind a firewall. If you chose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. This information is protected using industry-standard encryption. For more insight, you may also want to read Shopify’s Terms of Service and Privacy Statement.
   * When you order Services on our Site we and, our payment systems service providers, Braintree and/or PayPal, will collect all information necessary to complete the transaction, including your name, credit card information, billing information and shipping information. This information is protected using industry-standard encryption. For more insight, you may also want to read Braintree’s and PayPal’s Terms of Service and Privacy Statement.
-  * We retain information on your behalf, e.g. photographic material, GPS-information and time-stamps that you store using your Account.
+  * We retain information on your behalf, e.g. photographic material, GPS-information, time-stamps, comments and other information that you store using your Account.
   * If you provide us feedback or contact us via e-mail or our Application(s), we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply. This information may be shared with third parties who help process and fulfill your purchases. When you contact us via our Application(s), we will also collect your mobile device model, software version and device carrier, Application version, total and free space, battery level and status, network type and country code.
   * When you post content (text, images, photographs, messages, comments or any other kind of content that is not your e-mail address) on publicly available parts of our Site, such as message boards, the information contained in your posting will be stored in our servers and other users will be able to see it, along with your profile photo and any other information that you choose to make public on your public profile page **(“Profile”)**.
   * When you participate in one of our surveys, we may collect additional profile information.
-  * If you contact us regarding support regardless of the channel, we use Zendesk and UserVoice to collect other types of Personal Data that you provide to us voluntarily, such as your operating system and version, product registration number, and other requested information. Please also see Zendesk’s Privacy policy <http://www.zendesk.com/company/privacy> and UserVoice’s Privacy policy <https://www.uservoice.com/privacy/>.
+  * If you contact us regarding customer care regardless of the channel, we use Zendesk and UserVoice to collect other types of Personal Data that you provide to us voluntarily, such as your operating system and version, product registration number, and other requested information. Please also see Zendesk’s Privacy policy <http://www.zendesk.com/company/privacy> and UserVoice’s Privacy policy <https://www.uservoice.com/privacy/>.
   * If you participate in a sweepstake, contest or giveaway on our Site, we may ask you for your e-mail address and/or home number (to notify you if you win or not). We may also ask for first and last names, and sometimes post office addresses to verify your identity. In some situations we may need additional information as a part of the entry process, such as a prize selection choice. These sweepstakes and contests are voluntary. We recommend that you read the rules for each sweepstakes and contest that you enter.
   * We may also collect Personal Data at other points in our Site that state that Personal Data is being collected.
 
@@ -86,7 +86,7 @@ As most web services, we gather data on your patterns of using Narrative’s ser
 
 Please make sure you have the potential consent needed from a third party you invite to Narrative.
 
-If you decide to invite a third party to create an Account, we will collect your and the third party’s names and e-mail addresses in order to send an e-mail and follow up with the third party. We rely upon you to obtain whatever consents from the third party that may be required by law to allow us to access and upload the third party’s names and e-mail addresses as required above. You or the third party may contact us at support@getnarrative.com to request the removal of this information from our database.
+If you decide to invite a third party to create an Account, we will collect your and the third party’s names and e-mail addresses in order to send an e-mail and follow up with the third party. We rely upon you to obtain whatever consents from the third party that may be required by law to allow us to access and upload the third party’s names and e-mail addresses as required above. You or the third party may contact us at care@getnarrative.com to request the removal of this information from our database.
 
 #### (e) Information Collected from Third Party Companies.
 
@@ -112,10 +112,10 @@ In general, Personal Data you submit to us is used either to respond to requests
   * identify you as a user in our system;
   * provide improved administration of our Site and Services;
   * provide the Services you request;
-  * provide you with support;
+  * provide you with customer care;
   * improve the quality of experience when you interact with our Site and Services;
   * send you an e-mail to verify ownership of the e-mail address provided when your Account was created;
-  * send you administrative e-mail notifications, such as security or support and maintenance advisories;
+  * send you administrative e-mail notifications, such as security or customer care and maintenance advisories;
   * respond to your inquiries related to employment opportunities or other requests;
   * make telephone calls to you, from time to time, as a part of secondary fraud protection or to solicit your feedback; and
   * send newsletters, surveys, offers, and other promotional materials related to our Services and for other marketing purposes of Company.
@@ -126,7 +126,7 @@ In general, Personal Data you submit to us is used either to respond to requests
 
 We will not post your communication with us without your prior written consent, unless the communication takes place in an already open forum (e.g. blog comments or Facebook).
 
-When we receive testimonials and comments from users who have had positive experiences with our Services through channels that are not available to the public, we always obtain the user’s consent prior to publishing this comment. When we publish this content, we may identify our users by their first and last name and may also indicate their home city, if the user has given his or her consent. We may post user feedback on the Site from time to time. We will share your feedback with your first name and last initial only. If we choose to post your first and last name along with your feedback, we will obtain your consent prior to posting you name with your feedback. If you make any comments on a blog or forum associated with your Site, you should be aware that any Personal Data you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these blogs and forums.
+When we receive testimonials and comments from users who have had positive experiences with our Services through public channels, we may share such feedback without your consent. When we receive feedback through channels that are not available to the public, we always obtain the user’s consent prior to publishing this comment. When we publish this content, we may identify our users by their first and last name and may also indicate their home city, if the user has given his or her consent. We may post user feedback on the Site from time to time. We will share your feedback with your first name and last initial only. If we choose to post your first and last name along with your feedback, we will obtain your consent prior to posting you name with your feedback. If you make any comments on a blog or forum associated with your Site, you should be aware that any Personal Data you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these blogs and forums.
 
 #### (c) Creation of Anonymous Data.
 
@@ -158,7 +158,7 @@ We may share your Personal Data with third party service providers to: provide y
 
 #### (d) Affiliates.
 
-This privacy policy governs everyone’s use of your personal data.
+We may share your Personal Data with companies we control or are controlled by. This privacy policy governs everyone’s use of your personal data.
 
 We may share some or all of your Personal Data with our parent company, subsidiaries, joint ventures, or other companies under a common control **(“Affiliates”)** , in which case we will require our Affiliates to honor this Privacy Policy.
 
@@ -176,9 +176,9 @@ If you choose to share your personal data with a social networking site, you are
 
 #### (g) Public Profile.
 
-Nothing of the information you provide us with is made public unless you explicitly let it be. Be careful what data you make public.
+Nothing of the information you provide us with is made public unless you explicitly post it to publicly available parts of our Site and Services. Be careful what data you make public.
 
-Certain portions of the information you provide to us may also be displayed in your Profile. By default, your Profile is private and available only to you. In order for the information displayed on your Profile to be made public, you must choose to make that information public. Your photos, posts, friends, and other content that you choose to make public, either by posting on the Site or by other means, are also meant for public consumption. We may display this content on the Site and further distribute it to a wider audience through third party sites and services. Once displayed on publicly viewable web pages, that information can be collected and used by others. We cannot control who reads your postings or what other users may do with the information that you voluntarily post, so it is very important that you do not put Personal Data in your posts. Just like with any other information shared on the Internet, once you have posted information publicly, while you will still be able to edit and delete it on the Site, you will not be able to edit or delete such information cached, collected, and stored elsewhere by others (e.g., search engines).
+Certain portions of the information you provide to us may also be displayed in your Profile. By default, your Personal Data is private and available only to you. If you provide certain information in public parts of your profile, such information will be public. Your photos, posts, friends, and other content that you choose to make public, either by posting on the Site or by other means, are also meant for public consumption. We may display this content on the Site and further distribute it to a wider audience through third party sites and services. Once displayed on publicly viewable web pages, that information can be collected and used by others. We cannot control who reads your postings or what other users may do with the information that you voluntarily post, so it is very important that you do not put Personal Data in your posts. Just like with any other information shared on the Internet, once you have posted information publicly, while you will still be able to edit and delete it on the Site, you will not be able to edit or delete such information cached, collected, and stored elsewhere by others (e.g., search engines).
 
 #### (h) Other Disclosures.
 
@@ -218,11 +218,11 @@ You can always choose not to share your data with third party social networks.
 
 You can always change the personal data you share with us and request for it to be deleted. We will do our best to never keep your data longer than needed.
 
-**(d) Changing or Deleting Your Personal Data** You may change any of your Personal Data in your Account by editing your profile within your Account or by sending ane-mail to us support@getnarrative.com. You may request deletion of your Personal Data by us, and we will use commercially reasonable efforts to honor your request. Please note that we may be required by law to keep such information and not delete it, or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements. We strive to never keep any Personal Data longer than absolutely necessary.
+**(d) Changing or Deleting Your Personal Data** You may change any of your Personal Data in your Account by editing your profile within your Account or by sending an e-mail to us care@getnarrative.com. You may request deletion of your Personal Data by us, and we will use commercially reasonable efforts to honor your request. Please note that we may be required by law to keep such information and not delete it, or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements. We strive to never keep any Personal Data longer than absolutely necessary.
 
-You can always uninstall Narrative’s applications.
+You can always uninstall Narrative’s applications. This does not delete your data from our Site and Services.
 
-**(e) Applications.** You can stop all collection of information by the Application(s) by uninstalling the Application(s). You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+**(e) Applications.** You can stop all collection of information by the Application(s) by uninstalling the Application(s). You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. Please note that such uninstallation alone does not delete your Personal Data from our Site and Services.
 
 ### 8\. Transfer of information to other countries
 
@@ -232,7 +232,7 @@ We process information about you on servers located in a number of countries. Th
 
 ### 9\. Security of Your Personal Data.
 
-We will take all means necessary to keep your personal data safe and we highly recommend you to do the same..
+We will take all means necessary to keep your personal data safe and we highly recommend you to do the same.
 
   * For online payments, we use the payment e-commerce platform of Shopify and the services of Braintree and PayPal. We do not process, record or maintain your credit card or bank account information. For more information on how payments are handled, or to understand the data security and privacy afforded such information, please refer to the Privacy policies of Shopify, PayPal and Braintree respectively.
   * The Company is committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. We also require you to enter a password to access your Account information. Please do not disclose your Account password to unauthorized people. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while Company uses reasonable efforts to protect your Personal Data, Company cannot guarantee its absolute security.
@@ -243,7 +243,7 @@ We will take all means necessary to keep your personal data safe and we highly r
 
 We will inform you on any changes to this privacy policy within 30 days before the change is made.
 
-This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your Personal Data, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our Site. Any changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site. These changes will be effective immediately for new users of our Service. Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your Account with us. Continued use of our Site or Service, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your Personal Data, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our Site. Any changes to this Privacy Policy will be effective upon the earlier of three (3) weeks following our dispatch of an e-mail notice to you or , three (3) weeks following our posting of notice of the changes on our Site or on the earlier date after notice when you use our Services. These changes will be effective immediately for new users of our Service. Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your Account with us. Continued use of our Site or Service, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
 
 ### 11\. Your Stored Information
 
@@ -251,7 +251,7 @@ You have a legal right to a copy of all the personal information about you held 
 
 Tell us what you think about this privacy policy and let us know if you want a copy of the personal information we hold about you.
 
-Please email any request for such a copy, questions, concerns or comments you have about this Privacy Policy on support@getnarrative.com or write to us at:
+Please email any request for such a copy, questions, concerns or comments you have about this Privacy Policy on care@getnarrative.com or write to us at:
 
 **Narrative AB**  
 Att: Privacy  
@@ -260,4 +260,4 @@ SE-114 37 Stockholm
 Sweden  
 Swedish registration No: 556870-9520  
 VAT No: SE556870952001  
-E-mail address: support@getnarrative.com
+E-mail address: care@getnarrative.com
