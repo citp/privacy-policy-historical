@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthjustice.org privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512144135id_/http%3A//earthjustice.org/site_info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthjustice.org privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115104742id_/http%3A//earthjustice.org/site_info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Earthjustice
 
@@ -12,12 +12,6 @@ The information we collect is used to improve the content of our website, to not
 
 As we continue our push into the digital age, we are seeing a significant rise in "phishing" (tricking people into visiting bogus websites to steal e-mail addresses and passwords) and other online scams as criminals migrate their schemes to the Internet. In light of this issue, we are encouraging all our members to be more diligent about online security.
 
-### Financial Transactions
-
-To process a charitable contribution or product purchase, it is necessary for Earthjustice to gather the visitor's name, email address, mailing address, phone, and credit card information. This data is used to verify identity and execute the financial transaction. Additionally, phone number and email address information may be used to contact visitors if there is a problem with the transaction.
-
-Earthjustice may use service providers (such as merchant banks and ecommerce integrators) for the express purpose of conducting financial transactions. Personal information is kept private and secure and is not sold, rented, or traded to third parties. It is important to note that credit card numbers are used only at the time of the transaction, and are not stored following the conclusion of the transaction unless a transaction is selected that occurs on a regular basis. For transactions that recur, credit card information is stored in an encrypted format.
-
 ### Donor Privacy Policy
 
 Earthjustice will never share donor giving information with other organizations. However, like many other groups, Earthjustice may exchange its donor mailing list with like-minded organizations—many of which we represent through our environmental law work. If you wish to opt out of having your name and address shared with other organizations, call, email, or write to us at:
@@ -27,6 +21,12 @@ Earthjustice
 San Francisco, CA  94111  
 1 (800) 584-6460  
 [info@earthjustice.org](mailto:info@earthjustice.org)
+
+### Financial Transactions
+
+To process a charitable contribution or product purchase, it is necessary for Earthjustice to gather the visitor's name, email address, mailing address, phone, and credit card information. This data is used to verify identity and execute the financial transaction. Additionally, phone number and email address information may be used to contact visitors if there is a problem with the transaction.
+
+Earthjustice may use service providers (such as merchant banks and ecommerce integrators) for the express purpose of conducting financial transactions. Personal information collected to conduct financial transactions is kept private and secure and is not sold, rented, or traded to third parties. It is important to note that credit card numbers are used only at the time of the transaction, and are not stored following the conclusion of the transaction unless a transaction is selected that occurs on a regular basis. For transactions that recur, credit card information is stored in an encrypted format.
 
 ### Electronic Newsletter
 
