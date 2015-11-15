@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the filegoat.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429114557id_/http%3A//filegoat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filegoat.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115011149id_/http%3A//filegoat.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy - filegoat.com
 
-www.download-safe.net protects and guarantees security in the collection and processing of the data that is affected through this site as well as the strict compliance with the current policy with regards to data protection. The following paragraphs inform about our procedures of data collection and processing.
+filegoat.com protects and guarantees security in the collection and processing of the data that is affected through this site as well as the strict compliance with the current policy with regards to data protection. The following paragraphs inform about our procedures of data collection and processing.
 
 Through this website personal data will be collected with the purposes of managing and providing our services, sending internal commercial promotions and providing information of interest for users, related the services of the site.
 
