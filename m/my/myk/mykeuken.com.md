@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mykeuken.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608204729id_/http%3A//www.mykeuken.com/2013/09/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mykeuken.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115202033id_/http%3A//www.mykeuken.com/2013/09/privacy-policy.html) for the most accurate reproduction.*
 
-# From My Lemony Kitchen ....: Privacy Policy
+# Lisa's Lemony Kitchen ....: Privacy Policy
 
 From My Lemony Kitchen takes your privacy seriously.  
   
