@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the lookupbook.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331102904id_/http%3A//www.lookupbook.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookupbook.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115225448id_/http%3A//www.lookupbook.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Lookupbook
-
-Privacy Policy for www.lookupbook.com 
-
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at staff@lookupbook.com. 
 
 At www.lookupbook.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.lookupbook.com and how it is used. 
 
