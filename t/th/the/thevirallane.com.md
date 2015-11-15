@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thevirallane.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611140237id_/http%3A//www.thevirallane.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevirallane.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115172319id_/http%3A//www.thevirallane.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheViralLane
 
