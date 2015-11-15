@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rvshare.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502200740id_/http%3A//rvshare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rvshare.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115053949id_/http%3A//rvshare.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | RVShare.com
+# Privacy Policy | RVshare.com
 
 We are serious about protecting the privacy of our users.  This Privacy Policy describes how we use and protect your personal data.  It applies to RVShare.com (which we have collectively called the “Site” in this policy).
 
@@ -133,7 +133,7 @@ You may opt-out of receiving marketing communications from us by the following m
 
   1. Contact us at [support@rvshare.com](mailto:support@rvshare.com);
   2. Follow the instructions included in each communication or newsletter;
-  3. Mail the request to us at 405 Rothrock Suite 104, Akron OH 44333
+  3. Mail the request to RVshare at 543 N Cleveland Massillon Rd Akron, OH 44333
 
 
 
