@@ -1,217 +1,237 @@
-> *The following text is extracted and transformed from the haband.com privacy policy that was archived on 2014-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140726033608id_/http%3A//www.haband.com/about-haband-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haband.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115124714id_/http%3A//haband.blair.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
-# About Haband Privacy Policy : Haband
+# Privacy and Security | Haband
 
-_This privacy policy was last updated on 11/2/2009._
+  
 
- **We're a Brand You Can Trust**
 
-At Haband Company, LLC ("Haband"), we value our customers and understand your concerns about online privacy and security. Because we know that your privacy is very important, we have established policies to ensure that your personal information is always respected and handled in a safe and responsible manner.
+Please note that the privacy and security policies and data collection processes for these Orchard Brands family of related companies may differ from this Privacy and Security Policy published for Haband. Please refer to the website for each of these related companies for their particular privacy and security policy detailing how that affiliated company handles your privacy concerns and personal information. 
 
-Our privacy policy is designed to help you understand how we collect personal information, what information we collect, how we use it, the steps we take to safeguard it, and the choices you have regarding how it may be used and disclosed.
+* * *
 
-This privacy policy applies to personal information collected by us at our stores, through our call centers, via mail, via our website at haband.com (the "Site"), through our authorized third parties, or by any of the other means described in this policy.
+**What kind of information do we collect?**
 
-SEE OUR PRIVACY POLICY BELOW
+We use a variety of methods to gather information to help ensure that your shopping experience is as efficient and accommodating as possible. We may obtain personal information about you from various sources, including through your communications with us. We also collect certain information by automated means, using technologies such as cookies and pixel tags. 
 
- **Privacy Policy Quick Reference**  
-Click on any link below to find more information about that privacy policy topic:
+* * *
 
-  * Who we are
-  * What information do we collect?
-  * How do we use your information?
-  * How can you control the use of your information?
-  * How do we safeguard your information?
-  * What technologies do we use to enhance your shopping experience?
-  * Children's Privacy
-  * California Privacy Rights
-  * Changes to this Privacy Policy
-  * How to Contact Us
-  * Conflict in Terms
-  * Patent Disclosure
+__**Information you provide and how we use it**__  
+You may choose to provide personal information to us in a number of ways, such as when you: 
 
+  * • Request a catalog or information about our products and services
+  * • Visit our website, or outlet locations
+  * • Create an online shopping account
+  * • Purchase, return, or exchange a product by phone, mail or online
+  * • Visit store locations, as applicable
+  * • Contact our call center or customer service desk
+  * • Participate in a promotion, contest or survey
+  * • Provide us with comments or suggestions
 
 
- **Who We Are**
 
-Haband is part of a family of companies owned by Orchard Brands Company that also includes, as of the effective date of this policy, the brands listed below. Please note that this list is subject to change.
+_Types of information you may provide_  
+The types of information you may provide to us include: 
 
-Appleseed's™  
-Bedford Fair Lifestyles®  
-Blair®  
-Brownstone Studio®  
-Coward®  
-Draper's & Damon's™  
-Gold Violin®  
-Haband™  
-Lew Magram®  
-Monterey Bay®  
-Norm Thompson Outfitters®  
-Old Pueblo Traders®  
-Sahalie®  
-Solutions®  
-The Tog Shop™  
-Willow Ridge®  
-WinterSilks®
+  * • Contact information such as name, mailing address, phone number, and email address
+  * • Age and date of birth
+  * • Gender
+  * • Username and password
+  * • Payment information (such as your payment card number, expiration date, delivery address and billing address)
+  * • Demographic and preference information such as product purchase history
+  * • Information you provide about other people, such as a gift recipient
+  * • Information provided to us by Facebook when you use one of our Facebook apps (such as your name, profile picture, likes, location, friend list and other information described in the Facebook app sign-up page) 
 
-Each of these affiliated companies has its own web site, and has a privacy policy and data collection practices that may differ from those of Haband. Please refer to the applicable company's web site and privacy policy for details on how that affiliated company handles your privacy concerns and personal information.
+_How we may use information you provide_
 
-[back to top]
+We may use the information you provide to:  
 
- **What information do we collect?**
 
-To give you an exceptional experience each time you shop with us, we may collect information that you provide when you:
+  * • Assist you in customer service communications
+  * • Administer "My Account" information, online forms, and other website features
+  * • Enable you to check out and complete your purchases, and to fill and ship your orders
+  * • Send you special announcements or promotional information about new products or services and upcoming events, and to allow our Orchard Brands family or affiliated companies and our other trusted third party partners to do the same
+  * • Send you printed catalogs in the mail
+  * • Share your information as necessary, with trusted third-party companies that provide support services to us or with which we partner to provide services, including special programs, offers and discounts
+  * • Operate, evaluate and improve our business (including developing new products and services; managing our communications; analyzing our products; performing data analytics; and performing accounting, auditing and other internal functions)
+  * • Operate and communicate with you about our Facebook apps
+  * • Comply with applicable legal requirements, relevant industry standards and our policies
+  * • Protect your legal rights, our legal rights, or the legal rights of third parties
 
-  * Request one of our catalogs or information about our products and services;
-  * Visit our Site or one of our retail stores;
-  * Create an online shopping account on our Site, if applicable;
-  * Purchase, return, or exchange a product by phone, mail or online;
-  * Contact our call center or customer service desk;
-  * Participate in a promotion, contest or survey; or
-  * Provide us with comments or suggestions.
+  
 
 
+We may supplement the information listed above with information listed above with information that is collected automatically when you visit our website, and information acquired from our joint marketing partners, from third parties, and from our Orchard Brands affiliated companies.
 
-The types of information we may collect, in order to serve you better, include:
+_Emails_   
 
-  * Contact information such as name, mailing address, phone number, and e-mail address;
-  * Personal information such as billing address and credit card information, when provided;
-  * Demographic and preference information such as product purchase history; or
-  * Information you provide about other people, such as a gift recipient.
 
+We may use your e-mail address to notify you about the status of your order, provide customer service information or to answer your questions and requests. We may also occasionally send you our e-mail updates, sales notifications, or other promotional information about our products and services or about the products and services of our Orchard Brands affiliated companies or trusted third party partners that may be of interest to you.
 
+_Telephone Contact_  
 
-When you set up an online shopping account at our web site, if applicable, we may also request a password to allow you secure access.
 
-We may also supplement the information listed above with anonymous Site traffic information that's collected automatically when you visit our Site, plus with information acquired from our joint marketing partners, from third parties, and from our affiliated companies.
+If you provide us with your phone number, you may receive telephone contact from us for customer service communications, (for example, to inquire about an order you have placed). If you call our customer service toll-free number, we may ask you for personal identification information, depending on the nature of your request, to better assist you with your requests and questions. We may retain this information to help meet your future needs. 
 
-[back to top]
+We may occasionally use your phone number to contact you with updates, sales notifications, or other promotional information about our products and services or those of our Orchard Brands affiliated companies or trusted third party partners in which you may be interested. We may also make your personal information available to our Orchard Brands affiliated companies and our other trusted third party partners to enable them to contact you directly with their promotional information, such as information about their products and services, sales and other promotions.
 
- **How do we use your information?**
+_In-store Shopping_  
 
-We know you deserve the fastest, safest and most enjoyable shopping experience possible. To give you just that, we may use information that you provide to us in the following manner:
 
-  * To assist you in customer service communications;
-  * To administer "My Account" information, online forms, and other Site features;
-  * To enable you to check out and complete your purchases, and to fill and ship your orders;
-  * To send you special announcements or promotional information about new products or services and upcoming events, and to allow our affiliated companies and our other trusted third party partners to do the same;
-  * To send you printed catalogs in the mail;
-  * As necessary, to share your information with trusted third-party companies that provide support services to us or with which we partner to provide services, including special programs, offers and discounts;
-  * To help improve our Site; or
-  * Where we consider it necessary to protect your legal rights, our legal rights, or the legal rights of third parties, or where required by law.
+When you visit one of our stores or outlet locations and pay using a credit or debit card, we may retain a history of your purchases to process future orders and to better assist you. If you want to return or exchange purchase merchandise, we may ask you for personal identification information such as the credit card used for the purchase or a picture ID to help prevent fraud.
 
+_Contests, Promotions, or Surveys_  
 
 
-More details of the ways in which we may use your information are set out below.
+If you participate in a contest, promotion, sweepstakes offering, or survey (whether online, over the phone, by mail, or at one of our outlet stores), we may use information you provide to manage your entry, to notify you if you are a winner, or to fulfill promotional obligations. At the time of your entry or registration for a specific promotion, survey, contest, or sweepstakes, we will provide you with the rules governing such promotion, survey, contest, or sweepstakes.
 
- **E-mails.** We may use your e-mail address to notify you about the status of your order (if you have placed one), provide customer service information, or answer your questions and requests. We may also occasionally send you our e-mail updates, sales notifications, or other promotional information about our products and services or about the products and services of our affiliated companies or trusted third party partners in which you may be interested. We may also share your e-mail address with our affiliated companies to enable them to send you emails directly regarding their products and services, sales and other promotions.
+* * *
 
- **Telephone Contact.** If you provide us with your phone number, you may receive telephone contact from us for customer service communications, such as to ask you about your order, if you have placed one. If you call our customer service toll-free number, we may ask you for personal identification information, depending on the nature of your request, to better assist you with your requests and questions. We may retain this information to help meet your future needs.
+**__Information we collect by automated means and how we use it__**
 
-We may occasionally use your phone number to contact you with updates, sales notifications, or other promotional information about our products and services or those of our affiliated companies or trusted third party partners in which you may be interested. We may also make your personal information available to our affiliated companies and our other trusted third party partners to enable them to contact you directly with their promotional information, such as information about their products and services, sales and other promotions.
+To improve our websites and to make your online experience more enjoyable, when you visit our websites we collect certain information by automated means, using cookies, pixel tags, and other technologies.
 
- **Contests, Promotions, or Surveys.** If you participate in a contest, promotion, sweepstakes offering, or survey (whether online, over the phone, by mail, or at one of our retail stores), we may use your personal information to manage your entry in such promotion, to notify you if you are a winner, or to fulfill promotional obligations. At the time of your entry or registration for a specific promotion, survey, contest, or sweepstakes, we will provide you with the rules governing such promotion, survey, contest, or sweepstakes.
+_Cookies, Web Server Logs and Pixel Tags_
 
- **Authorized Third Parties.** There is a link on our "Thank You" page that directs customers to another web site. This web site makes an offer of rebates and discounts for a monthly subscription fee. If you follow the link and only if you accept the offer, Haband will transfer your name, street address and credit card information to the operators of that web site so that they can fulfill the subscription and charge your card. This web site requires your explicit consent to transfer your information if you choose to accept their offer. If any customer follows the link, but does not accept the offer, no personal or credit card information will be transferred.
+A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive when you visit our websites. We use cookies to tell us who you are, tailor our products and services to suit your personal interests, estimate the number of visitors to our websites, track visits to pages within our websites, process your order, track your status in our promotions, contests and sweepstakes, and/or analyze our customers' visiting patterns. Cookies do not contain information such as name or credit card information. Most browsers are preset to accept cookies and are used to make online visits easier and faster for you. Cookies are not required for you to browse our websites. Please note, however, that without cookies you will not be able to shop or place an order on our websites. In such cases, to place orders, please call us at 1-800-742-2263.
 
-We have also contracted with some third parties to monitor certain pages of our web site for the purpose of reporting web site traffic, as well as to serve offers and advertisements that may be of interest to you. Where authorized by us, these third parties may use cookies and/or other monitoring technologies to compile information about our web site visitors. No personally identifiable information is shared directly with the marketing partner. We utilize a third-party service to ensure the data we share with the marketing partner contains no personally identifiable information. For more information about how the information is collected and used, or to opt-out from receiving advertisements, please see their privacy policies at:
+In conjunction with obtaining information through cookies, our web servers may log details such as your operating system type, browser type, domain, and other system settings, as well as the language your system uses and the country and time zone in which your device is located. The web server logs also may record information such as the address of the web page that linked you to our site and the IP address of the device you use to connect to the Internet.
 
-<http://www.dotomi.com/privacy.html>  
-or  
-<http://www.imiclk.com/privacy.html>.
+To control which web servers collect this information, we may place "pixel tags" (also called "web beacons" or "clear gifs"), which are tiny graphic images on our websites, to help us gather knowledge about how you use our websites.
 
- **Catalogs and Mailings.** We may use your name and postal address to occasionally send you our printed catalogs, magalogs, valpaks or other syndicated mailings, as well as materials regarding offerings of our affiliated companies and our other trusted third party partners. We may also make your name, postal address and transactional information available to our affiliated companies and our other trusted third party partners so that you may receive mailings directly from them about products and services that may be of interest to you.
+  
+_Third Party Web Analytics Services_  
 
- **Financial Products.** Haband offers the private label Haband Credit Card, which is issued by World Financial Capital Bank (WFCB). As a result, we may share personal information about our consumers with WFCB and other authorized third parties to provide you with tailored information about their special offers and services. These parties have separate privacy and data collection practices. We recommend that you review each third party's privacy statement if you submit your application for its services. [Click here](https://onlineaccess.mycreditcard.cc/haband?Action=Privacy.jsp) to view the Haband Credit Card privacy policy now.
 
- **By Law.** In certain instances, we may disclose your personal information when we have reason to believe that it is necessary to identify or contact you in relation to, or bring legal action to protect, your legal rights, the legal rights of us and/or of our affiliated companies, or the legal rights of others. We may also disclose your personal information when we believe it is required by law.
+We may use third party web analytics services on our websites, such as Google Analytics. The service providers that administer these services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the site. The information collected through these means (including IP address) is disclosed to these service providers, who use the information to evaluate use of the website. To disable the Google Analytics cookie and any other third party web analytics service provider cookies, some browsers indicate when a cookie is being sent and allow you to decline cookies on a case-by-case basis.
 
- **Sale of Business.** In the event that the Orchard Brands Company, any of its affiliated companies, or any part of any of them, is sold, or some or all of their assets are acquired, customer information may be among the transferred assets, and may therefore be used by the third party acquirer.
+_Targeted Advertising_   
 
-[back to top]
 
- **How can you control the use of your information?**
+We also may contract with third-party advertising networks that collect IP addresses and other information through the use of cookies, web server logs and web beacons on our websites and e-mails and on third-party websites and e-mails. They use this information to provide advertisements about products and services tailored to your interests (including for companies not affiliated with us). You may see these advertisements on our websites and other websites. This process also helps us manage and track the effectiveness of our marketing efforts.
 
-We want you to be in control of your information, and we want to communicate with you only if you want to hear from us.
+_How we may use information collected by automated means_   
 
- **Account Management.** You can contact us at any time to review, change or delete certain personal information. Simply call our customer service specialists at 800-742-2263.
 
- **E-mails.** If you do not want to receive our electronic newsletter or promotional e-mails, you may unsubscribe at any time by clicking on "unsubscribe" at the bottom of any of our promotional e-mails.
+We may use the information we collect through automated means on our websites for market research, data analytics and system administration purposes, such as to determine whether you?ve visited us before or are new to the site, and for compliance with our legal obligations, policies and procedures, including compliance with relevant industry standards. We may combine the information we collect through automated means with other information we have collected from you. This information may be used to improve our websites, to personalize your online experience, to focus our communications with you to items of the most interest to you, to determine the effectiveness of our advertising, and for other internal business purposes to improve your shopping experience with us. We also may use the information in other ways for which specific notice is provided at the time of collection.
 
- **Catalogs.** If you do not wish to receive our printed catalog, please contact our customer service specialists at 800-742-2263. When you give us your name and address as it appears on the mailing label, we will remove your contact information from our mailing list. Please allow several weeks for the catalogs to stop, as catalog delivery is scheduled well in advance.
+* * *
 
- **Telephone Contact.** If you do not wish to receive telephone calls from us regarding our sales notifications or promotions, please contact our customer service specialists at 800-742-2263. Please note that we may continue to contact you by telephone for customer service communications (such as in relation to orders that you have previously placed with us).
+**How do we share your information?**  
+We do not sell or otherwise disclose personal information we collect about you, except as described here. We may share your personal information with:
 
- **Sharing Information with Third Parties.** If you would rather that we did not share your personal information with our affiliated companies or our third party partners for their direct marketing purposes, please send your full name, address and customer number to our mailing address listed at the end of this privacy policy. Please note that even if you opt out of having your information shared with third parties in this way, we may still disclose your information to third parties in other circumstances as described in this privacy policy, for example, where required to enable our third party service providers to provide services to us, and where required by law.
+ _Orchard Brands Affiliated Companies_
 
-Please also note that where we have previously disclosed personal information to an affiliated company or third party partner prior to your opting out, that company's use of your information will be governed by its privacy policy. If you want to change how information is used by an affiliate company or third party (for example, by opting-out of receiving emails or telephone communications from that company), you must contact that company or party directly. We cannot alter or remove your information from any of our affiliated companies' or third party partners' databases.
+To provide you with other marketing information or promotions that may be of interest to you, we may disclose your personal information to our other Orchard Brands affiliated companies. We may also make your name, postal address and transactional information available to our Orchard Brands affiliated companies so that you may receive mailings directly from them about products and services that may be of interest to you.
 
-[back to top]
+ _Authorized Third Party Service Providers_
 
- **How do we safeguard your information?**
+Certain service providers perform services on our behalf based on our instructions. We do not authorize these service providers to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. Examples of these service providers include entities that process credit card payments, fulfill orders, provide web hosting, manage our marketing and promotions activities.
 
-Protecting the safety of your personal information is important to us. Where we maintain an online store, we use a variety of technical, administrative and physical safeguards so that you can enjoy your shopping experience without having to worry about the loss of, misuse of, or unauthorized access to your information.
+_Other Trusted Third Parties_
 
- **Secure Shopping.** Where our Site permits you to enter credit card or other billing information, we use industry-standard encryption technologies to encrypt that information while it is being transmitted to our Site. In addition, we make commercially acceptable efforts to stay up to date with best practices regarding the protection of information in connection with transactions occurring over the internet. We also use GeoTrust, Inc. as our SSL provider as an added measure for your protection. You may want to check your internet settings to make sure your browser is in compliance with industry-standard encryption technology.
+We may, from time to time, partner with third parties to provide you with special offers. If you elect to take advantage of such an offer, you will be eligible to transact with such third party partner only if you provide them your personal information directly. We may make your name, postal address and transactional information available to certain trusted third party partners so that you may receive mailings directly from them about products and services that may be of interest to you. Also, some of our Facebook apps may share information collected through those apps with your Facebook friends or other Facebook users.
 
- **Firewalls.** We protect all personal information stored in our computer systems, including information about your orders, behind a network security system called a "firewall." We only permit our authorized staff and authorized third party service providers to access our computer systems, and then only for the purposes described in this privacy policy.
+ _By Law_
 
- **Phone Orders.** Some versions of popular web browsers and some firewalls do not permit communication through secure servers like the ones we use to process orders. If your web browser cannot support this level of security, you will not be able to order products through our Site or those of our affiliated companies. If so, you may place orders by calling us toll-free at 800-742-2263.
+In certain instances, we may disclose information about you (1) if we are required to do so by law or legal process, (2) to law enforcement authorities or other government officials, or (3) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity.
 
-We follow industry practices to protect your personal information from unauthorized access, but no data transmission over Internet can be guaranteed to be 100% secure. We cannot ensure or warrant the security of any information you transmit to us over the Internet. Also, please note that e-mail is not encrypted and is not considered a secure means of transmitting credit card numbers.
+ _Sale of Business_  
 
-[back to top]
 
- **What technologies do you use to enhance my shopping experience?**
+We also reserve the right to transfer personal information we have about you in the event that Orchard Brands Corporation, or any of its subsidiary companies or any part of any of them implicating the Haband business(es), sells or transfers all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner that is consistent with our Privacy Policy. Following such a sale or transfer, you may contact the entity to which we transferred your personal information with any inquiries concerning the processing of that information.
 
-To improve our Site and to make your online experience more enjoyable, we may collect anonymous information about all visitors to our Site, through the use of cookies, image tags, and other technologies.
+* * *
 
- **Cookies.** A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. We use cookies to tell us who you are, tailor our products and services to suit your personal interests, estimate the number of visitors to our Site, track visits to and sales at the stores referenced on our Site, process your order, track your status in our promotions, contests and sweepstakes, and/or analyze our customers' visiting patterns. Cookies do not contain any personal identification information (such as name or credit card information). Most browsers are preset to accept cookies and are used to make online visits easier and faster for you. Cookies are not required for you to browse our Site, however they are required for you to shop on our Site or to place an order. If you set your browser to refuse cookies, purchasing is not possible at our Site. In such cases, to place orders, please call us at 800-742-2263.
+**How can you control the use of your information?**
 
- **Image Tags.** We may at times work with a third-party company to help us gather knowledge about how you use this Site through the use of image tags, so that we may constantly improve your online experience. In such cases, the third-party company's only role is to help us conduct our business and deliver the most relevant products and services. They are not permitted to use your personal identification information for their own purposes.
+We offer you certain choices in connection with the personal information we collect from you, such as how we use the information and how we communicate with you. To update your preferences, ask us to remove your information from our mailing lists or submit a request, please contact us as specified below.
 
- **Third Party Links.** Our Site may include links that take you to other web sites for outside business partners, vendors and advertisers. These web sites have separate privacy and data collection practices. We have no control over such web sites, and are not responsible or liable for the privacy practices or information-gathering practices of other entities or web sites. We have also contracted with third parties to monitor certain pages of our Site for the purpose of reporting Site traffic, and/or other advertising statistics. Where authorized by us, these third parties may use cookies and/or other monitoring technologies to compile anonymous statistics about our Site visitors. No personal identification information is transferred to these third parties.
+_Account Management_   
 
-[back to top]
 
- **Children's Privacy**
+You can contact us at any time to review, change or delete certain personal information. Simply call our customer service specialists at 1-800-213-1220.
 
-This Site and the web sites of our family of companies are not directed towards children; we do not knowingly collect any personal information from children under 13 years of age.
+_E-mails_   
 
-[back to top]
 
- **California Privacy Rights**
+If you do not want to receive our electronic newsletter or promotional e-mails, you may unsubscribe at any time by clicking on "unsubscribe" at the bottom of any of our promotional e-mails or by contacting us as indicated below. It may take up to 10 days to process your unsubscribe request.
 
-In certain circumstances, California law entitles California residents to request us to provide, free of charge and no more than once per calendar year, a list of the categories of the resident's personal information disclosed by us to third parties for such third parties' direct marketing purposes during the immediately preceding calendar year, together with the names and addresses of all such third parties and a description of such third parties' businesses, if not already reasonably apparent from the third parties' names. If you are a California resident and would like to receive such information, please contact us using the mailing address at the end of this privacy policy.
+_Catalogs_   
 
-[back to top]
 
- **Changes to the Privacy Statement**
+If you do not wish to receive our printed catalogs, please contact our customer service specialists at 1-800-213-1220. When you give us your name and address as it appears on the mailing label, we will remove your contact information from our mailing list. Please allow several weeks for the catalogs to stop, as catalog delivery is scheduled well in advance.
 
-By using this Site, you consent to the collection and use of your personal information as described herein. We reserve the right to change, modify or amend this policy from time to time. If our privacy policy changes, we will notify you by publishing the new policy on our Site together with its effective date. Once effective, the new policy will apply to all personal information we currently hold, whether collected before or after the new policy's effective date. We encourage you to periodically review our current privacy policy.
+_Telephone Contact_   
 
-[back to top]
 
- **How to Contact Us**
+If you do not wish to receive telephone calls from us regarding our sales notifications or promotions, please contact our customer service specialists at 1-800-213-1220. Please note that we may continue to contact you by telephone for customer service communications (such as in relation to orders that you have previously placed with us). It may take up to 10 days to process your phone request.
 
-Our customers come first. If you have any concerns or questions, please contact us by:
+_Facebook App Opt-Out_  
+To remove or delete our apps from your Facebook account, follow the [instructions ](https://www.facebook.com/help/?faq=170585223002660) provided by the Facebook Help Center. _Sharing Information with Third Parties_   
 
-  * writing to us at Haband Company, LLC. #1 Bargain Place, Jessup, PA 18434-1834
-  * calling us toll-free at 800-742-2263 or
-  * emailing us now at [service@haband.net](mailto:service@haband.net).
 
+If you would rather that we did not share your personal information with our Orchard Brands affiliated companies or our third party partners for their direct marketing purposes, please send your full name, address and customer number to our mailing address listed at the end of this privacy policy. Please note that even if you opt out of having your information shared with third parties in this way, we may still disclose your information to third parties in other circumstances as described in this privacy policy, for example, where required to enable our third party service providers to provide services to us, and where required by law.
 
+Please also note that where we have previously disclosed personal information to an Orchard Brands affiliated company or third party partner prior to your opting out, that company's use of your information will be governed by its privacy policy. If you want to change how information is used by an Orchard Brands affiliate company or third party (for example, by opting-out of receiving emails or telephone communications from that company), you must contact that company or party directly. We cannot alter or remove your information from any of our Orchard Brands affiliated companies' or third party partners' databases.
 
-[back to top]
+* * *
 
- **Conflict in Terms**
+**How do we safeguard your information?**
+
+Protecting the safety of your personal information is important to us. We maintain appropriate technical, administrative and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use. When you enter your personal information on our websites, we use Secure Sockets Layer (SSL) technology to protect your information as it is transmitted to us. As an additional security check, you may want to look at the URL or Location line of your browser to ensure that the first characters of the address changes from http to https. If you are not comfortable shopping online at our websites, please feel free to place your order with us at the number listed on the websites.
+
+_Secure Shopping_   
+
+
+Where our websites permit you to enter credit card or other billing information, we use industry-standard encryption technologies to encrypt that information while it is being transmitted. In addition, we make commercially acceptable efforts to stay up to date with best practices regarding the protection of information in connection with transactions occurring over the Internet.
+
+_Phone Orders_   
+
+
+Some versions of popular web browsers and some firewalls do not permit communication through secure servers like the ones we use to process orders. If your web browser cannot support this level of security, you will not be able to order products through our websites. If so, you may place orders by calling us toll-free at 1-800-742-2263.
+
+We follow industry practices to protect your personal information from unauthorized access, but no data transmission over the Internet can be guaranteed to be 100% secure. We cannot ensure or warrant the security of any information you transmit to us over the Internet. Also, please note that e-mail is not encrypted and is not considered a secure means of transmitting sensitive information such as credit card numbers.
+
+* * *
+
+**Links To Other Websites**
+
+Please remember that this Privacy and Security Policy applies only to the Haband not to the other Orchard Brands family of related companies. The other Orchard Brands family of companies have their own privacy policies which may differ from this Privacy and Security Policy. In addition, our websites may include links that take you to other websites for outside business partners, vendors and advertisers. These third party websites have separate privacy and data collection practices. We have no control over such websites, and are not responsible or liable for the privacy practices or information-gathering practices of other entities or websites.
+
+* * *
+
+**Children's Privacy**
+
+Our websites are not directed towards children. We do not knowingly collect any personal information from children under 13 years of age on our websites. If we become aware that we have inadvertently received personal information from a visitor under the age of 13 on our websites, we will delete the information from our records.
+
+* * *
+
+**California Privacy Rights**
+
+In certain circumstances, California law entitles California residents to request us to provide, free of charge and no more than once per calendar year, a list of the categories of the residents personal information disclosed by us to third parties for such third parties' direct marketing purposes during the immediately preceding calendar year, together with the names and addresses of all such third parties and a description of such third parties' businesses, if not already reasonably apparent from the third parties' names. If you are a California resident and would like to receive such information, please contact us using the mailing address at the end of this Privacy and Security Policy.
+
+* * *
+
+**Changes to the Privacy Statement**
+
+We reserve the right to change, modify or amend this Privacy and Security Policy from time to time and without prior notice to you to reflect changes in our personal information practices. We will post a notice on our Websites to notify you of any significant changes to our Privacy and Security Policy and indicate at the top of the policy when it was most recently updated. We encourage you to periodically review our current Privacy and Security Policy.
+
+* * *
+
+**How to Contact Us**
+
+Our customers come first. If you have any concerns or questions, you can contact us by:
+
+  * Sending us an E-mail:[service@haband.com](mailto:service@haband.com)
+  * Writing to us at Haband 26 Alberigi Dr., Jessup, PA 18434-1834
+  * Calling us toll-free at 1-800-213-1220
+
+
+
+* * *
+
+**Conflict in Terms**
 
 It is our goal to make our privacy practices easy to understand. We have created this easy-to-read privacy policy with that goal in mind. Some browsers utilize privacy enhancing technology to translate our privacy policy into a computer readable format. The technology then requires that the computer format be translated back into human readable format for you to read. This translation back into human readable format is often referred to as a "Policy Summary"; it is possible that through these translations, the Policy Summary may unintentionally end up being inconsistent with the privacy policy upon which it is based. It might fail to address an issue or it might address an issue not raised in our privacy policy. For this reason, you should rely on our privacy policy as the most accurate and definitive description of our practices.
 
-[back to top]
-
- **Patent Disclosure**
-
-One or more patents may apply to this Site or those of our affiliated brands, including without limitation, U.S. Patent #5,528,490; #5,761,649; and #6,029,142.
-
-[back to top]
+* * *
