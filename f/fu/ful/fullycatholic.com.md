@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fullycatholic.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503094617id_/http%3A//www.fullycatholic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullycatholic.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115060631id_/http%3A//www.fullycatholic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fully Catholic
+# Privacy Policy
 
 **What information do we collect?**  
 We collect information from you when you register on our site for our news letter, rss feed or any of the other forms of communication that may become available..
