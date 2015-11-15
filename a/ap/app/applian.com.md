@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applian.com privacy policy that was archived on 2015-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150606161944id_/http%3A//applian.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applian.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115100435id_/http%3A//applian.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,9 +73,9 @@ Applian Technologies Inc.
 San Anselmo, CA  94960   
 Attn:  Customer Service
 
-  * **[General Inquiries](https://applian.zendesk.com/hc/en-us/requests/new?ticket_form_id=49773)**
+  * **[General Inquiries](http://support.applian.com/support/tickets/new)**
   * **[Technical Support](https://web.archive.org/support/?data-filter=.products) **
-  * [**Sales**](https://applian.zendesk.com/hc/en-us/requests/new?ticket_form_id=111648)
+  * [**Sales**](mailto:sales@applian.com)
   * FAX: 415-480-1748 (USA)
 
 
