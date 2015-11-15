@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ziplocal.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408101009id_/http%3A//ziplocal.com/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziplocal.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115173128id_/http%3A//ziplocal.com/online-privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy - Ziplocal
 
