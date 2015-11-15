@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the petwave.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603052541id_/http%3A//www.petwave.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petwave.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115104123id_/http%3A//www.petwave.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# PetWave.com - Privacy Policy
-
-## Privacy Policy
+# Privacy Policy - PetWave Inc.
 
 PetWave understands how important the privacy of personal information is to our users. This Privacy Policy will tell you what information we collect about you and about your use of PetWave and its services. It will explain the choices you have about how your personal information is used and how we protect that information. We urge you to read this Privacy Policy carefully.
 
