@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bimmerpost.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423004316id_/http%3A//www.bimmerpost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bimmerpost.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115092750id_/http%3A//www.bimmerpost.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
