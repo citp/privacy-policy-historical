@@ -1,112 +1,237 @@
-> *The following text is extracted and transformed from the solutions.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616113430id_/http%3A//drugstore.custhelp.com/cgi-bin/drugstore.cfg/php/enduser/std_adp.php%3Fp_faqid%3D191) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solutions.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115130354id_/http%3A//solutions.blair.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
-# answer
+# Privacy and Security | Solutions
 
-|  |   
-|  |    
-   print answer   
   
-   email answer  |    |  |   | What is the drugstore.com privacy policy?  
----|---  
-  | question  
-  | 
 
-What is the drugstore.com privacy policy?  
+
+Please note that the privacy and security policies and data collection processes for these Orchard Brands family of related companies may differ from this Privacy and Security Policy published for Solutions. Please refer to the website for each of these related companies for their particular privacy and security policy detailing how that affiliated company handles your privacy concerns and personal information. 
+
+* * *
+
+**What kind of information do we collect?**
+
+We use a variety of methods to gather information to help ensure that your shopping experience is as efficient and accommodating as possible. We may obtain personal information about you from various sources, including through your communications with us. We also collect certain information by automated means, using technologies such as cookies and pixel tags. 
+
+* * *
+
+__**Information you provide and how we use it**__  
+You may choose to provide personal information to us in a number of ways, such as when you: 
+
+  * • Request a catalog or information about our products and services
+  * • Visit our website, or outlet locations
+  * • Create an online shopping account
+  * • Purchase, return, or exchange a product by phone, mail or online
+  * • Visit store locations, as applicable
+  * • Contact our call center or customer service desk
+  * • Participate in a promotion, contest or survey
+  * • Provide us with comments or suggestions
+
+
+
+_Types of information you may provide_  
+The types of information you may provide to us include: 
+
+  * • Contact information such as name, mailing address, phone number, and email address
+  * • Age and date of birth
+  * • Gender
+  * • Username and password
+  * • Payment information (such as your payment card number, expiration date, delivery address and billing address)
+  * • Demographic and preference information such as product purchase history
+  * • Information you provide about other people, such as a gift recipient
+  * • Information provided to us by Facebook when you use one of our Facebook apps (such as your name, profile picture, likes, location, friend list and other information described in the Facebook app sign-up page) 
+
+_How we may use information you provide_
+
+We may use the information you provide to:  
+
+
+  * • Assist you in customer service communications
+  * • Administer "My Account" information, online forms, and other website features
+  * • Enable you to check out and complete your purchases, and to fill and ship your orders
+  * • Send you special announcements or promotional information about new products or services and upcoming events, and to allow our Orchard Brands family or affiliated companies and our other trusted third party partners to do the same
+  * • Send you printed catalogs in the mail
+  * • Share your information as necessary, with trusted third-party companies that provide support services to us or with which we partner to provide services, including special programs, offers and discounts
+  * • Operate, evaluate and improve our business (including developing new products and services; managing our communications; analyzing our products; performing data analytics; and performing accounting, auditing and other internal functions)
+  * • Operate and communicate with you about our Facebook apps
+  * • Comply with applicable legal requirements, relevant industry standards and our policies
+  * • Protect your legal rights, our legal rights, or the legal rights of third parties
+
   
-  | answer  
-  | | **TRUSTe Licensee**  
----  
-[](https://www.truste.org/ivalidate.php?url=www.drugstore.com) drugstore.com, inc. is licensed by the TRUSTe Privacy Program. This statement discloses the privacy practices for the drugstore.com™ Web site (including the Beauty.com™ Web store). When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of the following: what personally identifiable information of yours is collected; what organization is collecting the information; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; what kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control; and how you can correct any inaccuracies in the information.
-
-Questions regarding this privacy policy should be directed to
-
-[privacy@drugstore.com](mailto:privacy@drugstore.com). If we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe ( [http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php)).  
 
 
- **Information We Collect**  
-We recognize your right to confidentiality and are committed to protecting your privacy. We use the information that we collect on our Web sites to provide you with a superior shopping experience and to communicate with you about products, services, and promotions.
+We may supplement the information listed above with information listed above with information that is collected automatically when you visit our website, and information acquired from our joint marketing partners, from third parties, and from our Orchard Brands affiliated companies.
 
- **Your Account**  
-When you place an order, we will ask you to set up "your account," which includes your name, e-mail address, mailing address, credit card number and expiration date, as well as certain other information when you order prescriptions. Using your account information, we will send you communications that we believe are relevant to you, including eMedalert™, prescription refill and renewal reminders, newsletters and emails. If you prefer not to receive optional emails or other communications from us, you may adjust your account to prevent such communications by clicking on "subscriptions" within "your account." If you would like to review or revise the information we have in your account, you may access such information by clicking on the "your account" link on any screen.
-
- **Customer Reviews**  
-We are pleased to hear from our customers and welcome your comments regarding our products. Customer Reviews allow other customers to see what you think about a product. We allow you the option of sharing your review anonymously by selecting "Anonymous" when submitting your review.
-
- **Your Prescription Information**  
-To fill your prescription drug order, we collect the following additional information: your date of birth, gender, drug allergies, medical conditions, illnesses, and current medications. If you plan to use insurance and you can't find the member or group number, we ask that you provide your Social Security Number. Your Social Security Number is only used for purposes of seeking reimbursement from insurance companies.
-
- **Information Automatically Collected**  
-We automatically receive and collect certain types of information whenever you visit our Web stores. For example, like many Web sites, we use "cookies" and Web beacons (described below) and obtain certain types of information when your Web browser accesses our Web sites. This information includes the Internet protocol (IP) address of your computer, your browser software and operating system, your web server, the date and time you access our site, session information (such as download errors and page response times), information about your viewing, search and purchase history and information about the referring URL and the URL clickstream to, through, and from our Web sites. We use this information to monitor the usage and performance of our site, to enhance our customers' search and shopping experiences and to determine aggregate information about our user base and usage patterns.
-
- **Information From Third Parties**  
-If we receive updated account information from third parties, we may revise your account for you so that we can efficiently process your orders, deliver your packages or otherwise communicate with you. For example, we may receive customer information from our shippers or from third parties with which we operate co-branded businesses (such as AdvancePCS). In addition, we may acquire customer names, email addresses and mailing addresses for select mailings from third parties.
-
- **Other Information You Provide**  
-We collect additional information that you choose to give us. For example, you provide information to us when you complete surveys or contest entry forms, add items to Your List™, sign up for special discounts or coupons, communicate with us by email, phone or otherwise, provide product reviews, or provide alternative delivery addresses.
-
- **Sharing Your Information with Third Parties**  
-We protect all of your information against unauthorized access or release. We share your personal and prescription information with third parties as follows:
-
-  * **GNC**  \- Because we sell and accept GNC Gold Cards on behalf of GNC, when you purchase a GNC Gold Card from the drugstore.com™ Web store, we share your name, address, phone number, gender, and birth month and year with GNC. At your direction, we also share your e-mail address. When you use your GNC Gold Card to purchase GNC products at the drugstore.com™ Web store, we share with GNC a list of the products you purchased in the GNC Live Well store. We do not share with GNC information about products that you purchase outside of the GNC Live Well store.
-  *  **Rite Aid**  \- The drugstore.com™ pharmacy serves as the on-line pharmacy for Rite Aid Corporation, a chain pharmacy with approximately 3,800 store locations throughout the United States. We entered into the relationship to serve as the online pharmacy for Rite Aid because we believe that the relationship allows us to provide better services to our customers. If you are filling an original prescription through the drugstore.com™ pharmacy for the first time, the prescription will be mailed to you. Because of our relationship with Rite Aid, when you place your Rite Aid or drugstore.com™ refill prescription order at the drugstore.com™ pharmacy, you may choose to have the prescription mailed to you or available for pickup at a Rite Aid store convenient to you. From time to time it may be more efficient for the drugstore.com™ pharmacy to fill a prescription ordered on our Web site through Rite Aid's central pharmacy (e.g., to meet short-term shortages of drug product availability, or to allow insurance coverage). If you have chosen to pick up your prescription at a Rite Aid store or your prescription is being filled through Rite Aid's central pharmacy, drugstore.com, inc. and Rite Aid will share patient information necessary to allow each to meet its obligations in dispensing medications and related information. This exchange is solely for purposes of professional pharmacy practice and administration. Rite Aid is bound by the same confidentiality standards as drugstore.com, inc., and will not release patient information to others.
-  *  **Flexible Spending Account (FSA) Purchases**  – When you make a purchase from the drugstore.com™ Web store of FSA-reimbursable items that will be automatically deducted from your FSA account (i.e., if you use your FSA-approved credit or debit card to make the purchase or if we have an arrangement with your FSA administrator to provide electronic substantiation on your behalf), we share with your FSA administrator a list of the FSA-eligible products you purchased, together with such account, transaction and payment information as may be requested by your FSA administrator for the purpose of substantiating and tracking your purchase. We do not share with your FSA administrator information about non-FSA items you purchase.
-  *  **Brand Manufacturers**  \- We may develop programs with some of our brand manufacturers through which you may be offered special discounts or coupons on products in exchange for providing your e-mail address or completing a survey about the manufacturer's products. When you are offered such discounts or coupons in exchange for providing information (for example, giving your e-mail address or completing a survey), you will be notified that if you choose to participate, your name, e-mail address and responses will be shared with the brand manufacturer. No other information will be shared.
-  *  **Agents**  \- We may enter into agreements with other companies or individuals to perform functions on our behalf. These functions may include sending promotional e-mails on our behalf to such companies' customers; serving advertisements on our behalf, analyzing data; providing marketing assistance; processing credit card or debit card payments; and fulfilling and delivering orders. These companies and individuals have access to only to information necessary to perform their functions. They are not allowed to use the information for any other purpose and are contractually obligated to maintain the confidentiality and security of the information. We may share non-personal, summary, or aggregate customer data with partners and other third parties.
-  *  **Business Transfers**  \- We may buy or sell stores or assets. In such transactions, customer information is usually treated as one of the transferred business assets. Should drugstore.com, inc., or Beauty.com, Inc., or substantially all of either of their assets be sold, customer information will be one of the transferred business assets. In that event, we will post a notification on this page or send you an email so that you are always aware of how your information is being used.
-  *  **Compliance with Law; Protection of Rights, Property or Safety**  \- We will disclose account and other personal information when we believe that disclosure is necessary to comply with the law, to enforce or apply our Terms of Use or other policies or user agreements, or to protect the rights, property, or safety of our business, our customers, or others.
-  *  **As You Direct**  \- If you direct, we will release prescription or other customer information to your authorized representative, the prescribing or other authorized practitioner caring for you, or such other person as you may direct. At the direction of the patient and to the extent specifically authorized by law, we will release such information to other persons, including Rite Aid (see above for details) and insurance plans. For example, at your request we will automatically forward your prescription information to your insurance plan so that the drugstore.com™ pharmacy can directly handle reimbursement of your prescription purchase on your behalf.
-
-From time to time, we may partner with certain companies who, in conjunction with their membership programs or rewards programs, require that we disclose purchasing information about their members who visit our Web store (for example, to earn points for purchases made on our site through links from the partner site). We will disclose only the information required to make these programs work for you and support your membership in them. In addition, we disclose this information to such companies only if you have consented first, including consent implied by your agreement to the membership or participation rules. If you do not want us to disclose that information to the strategic partner, then you must contact the partner directly.
+_Emails_   
 
 
-Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
+We may use your e-mail address to notify you about the status of your order, provide customer service information or to answer your questions and requests. We may also occasionally send you our e-mail updates, sales notifications, or other promotional information about our products and services or about the products and services of our Orchard Brands affiliated companies or trusted third party partners that may be of interest to you.
 
- **Security**  
-When you place an order online or use the drugstore.com™ pharmacy, your personal information and credit card or debit card information are encrypted using SSL encryption technology before being sent over the Internet, We use SSL technology to prevent your information from being stolen or intercepted while being transferred to us. Your credit card information is always stored in encrypted form in a restricted-access database that is away from our Web site database so it isn't connected to the Internet, to keep it safe from hackers.
+_Telephone Contact_  
 
- **Cookies**  
-To personalize and enhance your browsing and shopping experience, we use a feature on your Internet browser called a cookie. Cookies are small files that your Web browser places on your computer's hard drive. We use cookies to let us know that you are a prior customer and to retrieve certain information previously provided by you to us, so that you do not need to re-enter this information every time you shop at the site. Cookies also let us know how you found us (e.g., through a particular web site or advertisement). Cookies are not used to access information entered on the secure server. This information can be accessed only when you enter your name and password. If you choose to configure your browser to remove or reject our cookies, you will not be able to make purchases from our Web stores or take advantage of many of our features. For example, you will not be able to use the Your List™ or Diamond Deals™ features or store items in your shopping cart.
 
- **Web Beacons**  
-From time to time we contract with third party companies to help us better provide relevant products, services and information to you and to help us effectively measure advertising effectiveness. Some of these companies use cookies and/or Web beacons (also known as action tags or single pixel gifs). A Web beacon is a transparent image that has been placed on a Web page and sends a signal when a user has visited that page. A Web beacon does not contain any personal information. No information that is personally identifiable to you is transmitted to the third party using the Web beacon. The third party is required to protect the privacy of the information it receives using Web beacons or cookies and is not allowed to use the information it receives for any purpose beyond what is necessary to assist us. In addition, we may use web beacons in connection with the emails we send to our customers, to determine whether and when the images in our email were rendered (which allows us to determine whether the e-mail was opened). This information may then be aggregated and used to assess the effectiveness of our email communications.
+If you provide us with your phone number, you may receive telephone contact from us for customer service communications, (for example, to inquire about an order you have placed). If you call our customer service toll-free number, we may ask you for personal identification information, depending on the nature of your request, to better assist you with your requests and questions. We may retain this information to help meet your future needs. 
 
- **Unsolicited E-mail (SPAM)**  
-Your privacy is very important to us. Be assured that, in accordance with this privacy policy, we do not sell or distribute our customer list to third parties. You should be aware, however, that unscrupulous marketers can sometimes "harvest" your email address directly from your computer or another person's address book or even obtain your email address through programs that automatically search web pages and email traffic for email addresses.
+We may occasionally use your phone number to contact you with updates, sales notifications, or other promotional information about our products and services or those of our Orchard Brands affiliated companies or trusted third party partners in which you may be interested. We may also make your personal information available to our Orchard Brands affiliated companies and our other trusted third party partners to enable them to contact you directly with their promotional information, such as information about their products and services, sales and other promotions.
 
-Please note that all email that originates from us will either display the drugstore.com™ or Beauty.com™ logo (HTML emails) or contain the drugstore.com, inc. or Beauty.com, Inc. copyright notice (text emails). In addition, our emails will contain our corporate address in Bellevue, Washington.  
-If you receive an unsolicited email that you believe is connected with us in any way, please forward the e-mail (as an enclosure) to
+_In-store Shopping_  
 
-[abuse@drugstore.com](mailto:abuse@drugstore.com) and we will investigate.
 
- **Children**  
-We do not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use our Web site only with the involvement of a parent or guardian.
+When you visit one of our stores or outlet locations and pay using a credit or debit card, we may retain a history of your purchases to process future orders and to better assist you. If you want to return or exchange purchase merchandise, we may ask you for personal identification information such as the credit card used for the purchase or a picture ID to help prevent fraud.
 
- **Linked Web Sites**  
-Our Web stores may contain links to and from other sites operated and maintained by separate companies. We have no responsibility for linked Web sites (including the Web sites of participants in our associate program) and provide these links solely for the convenience and information of our visitors. The privacy policies of these sites may differ from our policy, so you should always review the privacy statement of each linked Web site you visit.
+_Contests, Promotions, or Surveys_  
 
- **Your Consent**  
-By using our Web site (including through our customer service line), you consent to the collection, use, and disclosure of information in accordance with the terms of this privacy policy. We reserve the right to modify or amend this policy at any time. If we ever change our privacy policy, we will post any changes on this page or send you an email so that you are always aware of the information that we collect, how we use it, and under what circumstances we disclose it. Unless we clearly state otherwise, the changes to our privacy policy will affect only the information we collect after the effective date of the change.
 
- **Your Comments**  
-We welcome your feedback. If you have questions or comments about our privacy policies, feel free to drop us an e-mail at
+If you participate in a contest, promotion, sweepstakes offering, or survey (whether online, over the phone, by mail, or at one of our outlet stores), we may use information you provide to manage your entry, to notify you if you are a winner, or to fulfill promotional obligations. At the time of your entry or registration for a specific promotion, survey, contest, or sweepstakes, we will provide you with the rules governing such promotion, survey, contest, or sweepstakes.
 
-[privacy@drugstore.com](mailto:privacy@drugstore.com) or write us:
+* * *
 
-drugstore.com, inc.  
-Privacy Officer  
-411 108th Avenue NE, Suite 1400  
-Bellevue, WA 98004
+**__Information we collect by automated means and how we use it__**
 
-Last updated: 4/6/05
+To improve our websites and to make your online experience more enjoyable, when you visit our websites we collect certain information by automated means, using cookies, pixel tags, and other technologies.
 
-Copyright © 2005 drugstore.com, inc. All rights reserved.
+_Cookies, Web Server Logs and Pixel Tags_
 
-[  
-Terms of Use](http://drugstore.custhelp.com/cgi-bin/drugstore.cfg/php/enduser/std_adp.php?p_faqid=512&p_created=1123809950&p_sid=hzPMTMMh&p_lva=191&p_sp=cF9zcmNoPTEmcF9zb3J0X2J5PSZwX2dyaWRzb3J0PSZwX3Jvd19jbnQ9MSZwX3Byb2RzPSZwX2NhdHM9MCZwX3B2PSZwX2N2PSZwX3BhZ2U9MSZwX3NlYXJjaF90ZXh0PXRlcm1zIG9mIHVzZQ**&p_li=&p_topview=1)  
-   
-  | how well did this answer your question?  
-  |   
-  |   
-  | related answers  
-  |   
-|  | 
+A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive when you visit our websites. We use cookies to tell us who you are, tailor our products and services to suit your personal interests, estimate the number of visitors to our websites, track visits to pages within our websites, process your order, track your status in our promotions, contests and sweepstakes, and/or analyze our customers' visiting patterns. Cookies do not contain information such as name or credit card information. Most browsers are preset to accept cookies and are used to make online visits easier and faster for you. Cookies are not required for you to browse our websites. Please note, however, that without cookies you will not be able to shop or place an order on our websites. In such cases, to place orders, please call us at 1-800-342-9988.
+
+In conjunction with obtaining information through cookies, our web servers may log details such as your operating system type, browser type, domain, and other system settings, as well as the language your system uses and the country and time zone in which your device is located. The web server logs also may record information such as the address of the web page that linked you to our site and the IP address of the device you use to connect to the Internet.
+
+To control which web servers collect this information, we may place "pixel tags" (also called "web beacons" or "clear gifs"), which are tiny graphic images on our websites, to help us gather knowledge about how you use our websites.
+
+  
+_Third Party Web Analytics Services_  
+
+
+We may use third party web analytics services on our websites, such as Google Analytics. The service providers that administer these services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the site. The information collected through these means (including IP address) is disclosed to these service providers, who use the information to evaluate use of the website. To disable the Google Analytics cookie and any other third party web analytics service provider cookies, some browsers indicate when a cookie is being sent and allow you to decline cookies on a case-by-case basis.
+
+_Targeted Advertising_   
+
+
+We also may contract with third-party advertising networks that collect IP addresses and other information through the use of cookies, web server logs and web beacons on our websites and e-mails and on third-party websites and e-mails. They use this information to provide advertisements about products and services tailored to your interests (including for companies not affiliated with us). You may see these advertisements on our websites and other websites. This process also helps us manage and track the effectiveness of our marketing efforts.
+
+_How we may use information collected by automated means_   
+
+
+We may use the information we collect through automated means on our websites for market research, data analytics and system administration purposes, such as to determine whether you?ve visited us before or are new to the site, and for compliance with our legal obligations, policies and procedures, including compliance with relevant industry standards. We may combine the information we collect through automated means with other information we have collected from you. This information may be used to improve our websites, to personalize your online experience, to focus our communications with you to items of the most interest to you, to determine the effectiveness of our advertising, and for other internal business purposes to improve your shopping experience with us. We also may use the information in other ways for which specific notice is provided at the time of collection.
+
+* * *
+
+**How do we share your information?**  
+We do not sell or otherwise disclose personal information we collect about you, except as described here. We may share your personal information with:
+
+ _Orchard Brands Affiliated Companies_
+
+To provide you with other marketing information or promotions that may be of interest to you, we may disclose your personal information to our other Orchard Brands affiliated companies. We may also make your name, postal address and transactional information available to our Orchard Brands affiliated companies so that you may receive mailings directly from them about products and services that may be of interest to you.
+
+ _Authorized Third Party Service Providers_
+
+Certain service providers perform services on our behalf based on our instructions. We do not authorize these service providers to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. Examples of these service providers include entities that process credit card payments, fulfill orders, provide web hosting, manage our marketing and promotions activities.
+
+_Other Trusted Third Parties_
+
+We may, from time to time, partner with third parties to provide you with special offers. If you elect to take advantage of such an offer, you will be eligible to transact with such third party partner only if you provide them your personal information directly. We may make your name, postal address and transactional information available to certain trusted third party partners so that you may receive mailings directly from them about products and services that may be of interest to you. Also, some of our Facebook apps may share information collected through those apps with your Facebook friends or other Facebook users.
+
+ _By Law_
+
+In certain instances, we may disclose information about you (1) if we are required to do so by law or legal process, (2) to law enforcement authorities or other government officials, or (3) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity.
+
+ _Sale of Business_  
+
+
+We also reserve the right to transfer personal information we have about you in the event that Orchard Brands Corporation, or any of its subsidiary companies or any part of any of them implicating the Solutions business(es), sells or transfers all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner that is consistent with our Privacy Policy. Following such a sale or transfer, you may contact the entity to which we transferred your personal information with any inquiries concerning the processing of that information.
+
+* * *
+
+**How can you control the use of your information?**
+
+We offer you certain choices in connection with the personal information we collect from you, such as how we use the information and how we communicate with you. To update your preferences, ask us to remove your information from our mailing lists or submit a request, please contact us as specified below.
+
+_Account Management_   
+
+
+You can contact us at any time to review, change or delete certain personal information. Simply call our customer service specialists at 1-877-718-7901.
+
+_E-mails_   
+
+
+If you do not want to receive our electronic newsletter or promotional e-mails, you may unsubscribe at any time by clicking on "unsubscribe" at the bottom of any of our promotional e-mails or by contacting us as indicated below. It may take up to 10 days to process your unsubscribe request.
+
+_Catalogs_   
+
+
+If you do not wish to receive our printed catalogs, please contact our customer service specialists at 1-877-718-7901. When you give us your name and address as it appears on the mailing label, we will remove your contact information from our mailing list. Please allow several weeks for the catalogs to stop, as catalog delivery is scheduled well in advance.
+
+_Telephone Contact_   
+
+
+If you do not wish to receive telephone calls from us regarding our sales notifications or promotions, please contact our customer service specialists at 1-877-718-7901. Please note that we may continue to contact you by telephone for customer service communications (such as in relation to orders that you have previously placed with us). It may take up to 10 days to process your phone request.
+
+_Facebook App Opt-Out_  
+To remove or delete our apps from your Facebook account, follow the [instructions ](https://www.facebook.com/help/?faq=170585223002660) provided by the Facebook Help Center. _Sharing Information with Third Parties_   
+
+
+If you would rather that we did not share your personal information with our Orchard Brands affiliated companies or our third party partners for their direct marketing purposes, please send your full name, address and customer number to our mailing address listed at the end of this privacy policy. Please note that even if you opt out of having your information shared with third parties in this way, we may still disclose your information to third parties in other circumstances as described in this privacy policy, for example, where required to enable our third party service providers to provide services to us, and where required by law.
+
+Please also note that where we have previously disclosed personal information to an Orchard Brands affiliated company or third party partner prior to your opting out, that company's use of your information will be governed by its privacy policy. If you want to change how information is used by an Orchard Brands affiliate company or third party (for example, by opting-out of receiving emails or telephone communications from that company), you must contact that company or party directly. We cannot alter or remove your information from any of our Orchard Brands affiliated companies' or third party partners' databases.
+
+* * *
+
+**How do we safeguard your information?**
+
+Protecting the safety of your personal information is important to us. We maintain appropriate technical, administrative and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use. When you enter your personal information on our websites, we use Secure Sockets Layer (SSL) technology to protect your information as it is transmitted to us. As an additional security check, you may want to look at the URL or Location line of your browser to ensure that the first characters of the address changes from ?http? to ?https?. If you are not comfortable shopping online at our websites, please feel free to place your order with us at the number listed on the websites.
+
+_Secure Shopping_   
+
+
+Where our websites permit you to enter credit card or other billing information, we use industry-standard encryption technologies to encrypt that information while it is being transmitted. In addition, we make commercially acceptable efforts to stay up to date with best practices regarding the protection of information in connection with transactions occurring over the Internet.
+
+_Phone Orders_   
+
+
+Some versions of popular web browsers and some firewalls do not permit communication through secure servers like the ones we use to process orders. If your web browser cannot support this level of security, you will not be able to order products through our websites. If so, you may place orders by calling us toll-free at 1-800-342-9988.
+
+We follow industry practices to protect your personal information from unauthorized access, but no data transmission over the Internet can be guaranteed to be 100% secure. We cannot ensure or warrant the security of any information you transmit to us over the Internet. Also, please note that e-mail is not encrypted and is not considered a secure means of transmitting sensitive information such as credit card numbers.
+
+* * *
+
+**Links To Other Websites**
+
+Please remember that this Privacy and Security Policy applies only to the Solutions not to the other Orchard Brands family of related companies. The other Orchard Brands family of companies have their own privacy policies which may differ from this Privacy and Security Policy. In addition, our websites may include links that take you to other websites for outside business partners, vendors and advertisers. These third party websites have separate privacy and data collection practices. We have no control over such websites, and are not responsible or liable for the privacy practices or information-gathering practices of other entities or websites.
+
+* * *
+
+**Children's Privacy**
+
+Our websites are not directed towards children. We do not knowingly collect any personal information from children under 13 years of age on our websites. If we become aware that we have inadvertently received personal information from a visitor under the age of 13 on our websites, we will delete the information from our records.
+
+* * *
+
+**California Privacy Rights**
+
+In certain circumstances, California law entitles California residents to request us to provide, free of charge and no more than once per calendar year, a list of the categories of the residents? personal information disclosed by us to third parties for such third parties' direct marketing purposes during the immediately preceding calendar year, together with the names and addresses of all such third parties and a description of such third parties' businesses, if not already reasonably apparent from the third parties' names. If you are a California resident and would like to receive such information, please contact us using the mailing address at the end of this Privacy and Security Policy.
+
+* * *
+
+**Changes to the Privacy Statement**
+
+We reserve the right to change, modify or amend this Privacy and Security Policy from time to time and without prior notice to you to reflect changes in our personal information practices. We will post a notice on our Websites to notify you of any significant changes to our Privacy and Security Policy and indicate at the top of the policy when it was most recently updated. We encourage you to periodically review our current Privacy and Security Policy.
+
+* * *
+
+**How to Contact Us**
+
+Our customers come first. If you have any concerns or questions, you can contact us by:
+
+  * [Sending us an E-mail](http://solutions.blair.com/custserv/custserv.jsp?pageName=ContactUs)
+  * Writing to us at Solutions, 3188 NW Aloclek Drive, Hillsboro, Oregon 97124
+  * Calling us toll-free at 1-877-718-7901
+
+
+
+* * *
+
+**Conflict in Terms**
+
+It is our goal to make our privacy practices easy to understand. We have created this easy-to-read privacy policy with that goal in mind. Some browsers utilize privacy enhancing technology to translate our privacy policy into a computer readable format. The technology then requires that the computer format be translated back into human readable format for you to read. This translation back into human readable format is often referred to as a "Policy Summary"; it is possible that through these translations, the Policy Summary may unintentionally end up being inconsistent with the privacy policy upon which it is based. It might fail to address an issue or it might address an issue not raised in our privacy policy. For this reason, you should rely on our privacy policy as the most accurate and definitive description of our practices.
+
+* * *
