@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzznet.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627160530id_/http%3A//buzz-media.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzznet.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115073151id_/http%3A//buzz-media.com/privacy) for the most accurate reproduction.*
 
 # SpinMedia - Privacy Policy
 
