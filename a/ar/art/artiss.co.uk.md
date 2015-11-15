@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the artiss.co.uk privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203030204id_/http%3A//www.artiss.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artiss.co.uk privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115143512id_/http%3A//www.artiss.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Artiss.co.uk : Artiss.co.uk
+# Privacy Policy - Artiss The Geek
 
 **by SEQ Legal**
 
@@ -29,13 +29,13 @@ This document is based on an SEQ Legal [privacy policy](http://www.website-law.c
 
 We may collect, store and use the following kinds of personal information:
 
-(a) information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation __);
+(a) information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation);
 
 (c) information that you provide to us for the purpose of registering with us;
 
 (d) information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters; and
 
-[link id=”cookies”](https://web.archive.org/web/20121203030204id_/http%3A//www.artiss.co.uk/e) any other information that you choose to send to us;
+(e) any other information that you choose to send to us;
 
 ### 3\. Cookies
 
@@ -121,4 +121,4 @@ Please let us know if the personal information which we hold about you needs to 
 
 ### 12\. Contact
 
-If you have any questions about this privacy policy or our treatment of your personal information, please [contact us](http://www.artiss.co.uk/contact).
+If you have any questions about this privacy policy or our treatment of your personal information, please contact us using the form below.
