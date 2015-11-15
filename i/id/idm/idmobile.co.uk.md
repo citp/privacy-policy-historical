@@ -1,89 +1,196 @@
-> *The following text is extracted and transformed from the idmobile.co.uk privacy policy that was archived on 2008-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080930163540id_/http%3A//www.idynamics.com/home/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idmobile.co.uk privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115104414id_/http%3A//www.idmobile.co.uk/legal/privacy-and-cookies) for the most accurate reproduction.*
 
-# iDynamics Privacy Policy
+# iD - Privacy and Cookies
 
-**You are here:** [Home](http://www.idynamics.com/home/Home.asp)  >  Privacy Policy
+### How iD use your personal information
 
-By using this website you give your consent that all personal data that you submit may be processed by iDynamics in the manner and for the purposes described in the following Privacy Policy.
+#### Privacy Policy Summary 
 
-### Definitions
+At iD we’re committed to protecting and respecting your privacy.
 
-www.idynamics.com, www.idynamics.co.uk, www.idmobile.co.uk, www.reztec.com, www.reztec.co.uk, www.berrybookings.co.uk are owned and operated by iDynamics Ltd.
+This summary, together with our full terms and conditions (which can be found at [www.idmobile.co.uk/legal/terms-and-conditions](https://web.archive.org/legal/terms-and-conditions)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-The terms "iDynamics Ltd", "iDynamics", "we", "us", "our" and "ours" when used in this Privacy Policy mean Information Dynamics Group plc including all its subsidiaries, branches, affiliates or companies under common ownership or control of Information Dynamics Group plc.
+For the purpose of the Data Protection Act 1998 (the "Act"), the data controller is The Carphone Warehouse Limited, 1 Portal Way, London, W3 6RS. The Carphone Warehouse Limited is a group company of Dixons Carphone PLC (company number 0214673 - same address applies).
 
-The terms "you", "your" and "yours" when used in this Privacy Policy mean any user of this website.
+#### Information we may collect from you
 
-The term "Personal Data" refers to personally identifiable information about you, such as your name, job title, email or mailing address.
+We may collect and process the following data about you:
 
-#### About your privacy
+  * Information that you provide to us in your dealings with us. This includes information provided at the time of registering to use our site, 'iD Account’ or our mobile app, or when subscribing to our services or requesting further services and/or information from us. This may include your name, email address, contact address, phone number(s), the details of any orders you place with us, and any additional information you provide.
+  * We may also ask you for information when you enter a competition or promotion sponsored by us, and when you report a problem with our site.
+  * If you contact us, we may keep a record of that correspondence.
+  * Details of transactions you carry out through our site and of the fulfilment of your orders.
+  * Details we receive from credit reference and fraud detection agencies.
+  * Details of your visits to our site including, but not limited to, traffic data, location data and the resources that you access.
 
-We are committed to safeguarding the privacy of our website visitors whilst providing the highest possible quality of service. We will only use the information that we collect about you lawfully in accordance with the UK Data Protection Act 1998 (iDynamics registration number Z5215351).
 
-If you have any questions concerning your personal information or regarding our practices, please contact: The Company Secretary, iDynamics Ltd, Kidd House, Whitehall Road, Leeds LS12 1AP, telephone +44 (0) 113 246 2100 or email info@idynamics.com.
 
-#### Collection of personal data
+Please see our full terms and conditions at [www.idmobile.co.uk/legal/terms-and-conditions](https://web.archive.org/legal/terms-and-conditions) for further details.
 
-We collect information from details you give us when you use our website and from any email messages you may send to us. When you use this website to register to receive additional information or support from us, we ask you for contact information like your name, job title, company details, telephone number and email address.
+#### IP addresses
 
-We may also collect email addresses via marketing events such as trade shows and exhibitions. In such cases, we assume that people providing their email addresses are opting in to receive email messages from us. Therefore, we do not include an email opt-out mechanism when collecting event leads.
-
-If, at any time, you wish to opt out of receiving information from iDynamics via email, please telephone +44 (0) 113 246 2100 or email info@idynamics.com
-
-#### Anonymous data collected through this website
-
-We also use software tools to collect information automatically about your visit to our website. The information obtained in this way, which includes demographic data and browsing patterns, is only used in aggregate form and, as such, cannot be used to identify you personally. Such aggregate information helps us to audit usage of our website and improve the service provided.
+We may collect information about your computer or device, including where relevant your IP address, operating system and browser type. This data is processed for the purposes of fraud prevention, for various administrative purposes, such as monitoring the performance of the website, improving the usability, layout and navigation, and may also be used by us to promote certain offers and advertisements according to your general location through the use of cookies (see below for more information on how we do this).
 
 #### Cookies
 
-In order to collect the anonymous data described above, we may use temporary "cookies" that collect the domain name of the user and the date and time you visited this website. Cookies by themselves cannot be used to discover the identify of the user. A cookie is a small piece of information which is sent to your browser and stored on your computer’s hard drive. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie and this enables you to decide if you want to accept it or not.
+For the same reason, we may obtain information about your general internet usage by using a cookie which is stored on your browser or the hard drive of your computer or device.
 
-#### Use of personal data
+Cookies are text files which contain information that is transferred to your computer's hard drive or browser. They help us to improve our site and to deliver a better and more personalised service. Some of the cookies we use are essential for the site to operate, whereas others are aimed at enhancing and personalising your user experience.
 
-We process your personal data only for specific and limited purposes. We ask only for data that is adequate, relevant and not excessive for those purposes. When we ask you for personal data, we tell you the purposes for which we will process that data. Some of these purposes include:
+The information gathered by cookies on our site(s) may be used in the following ways:
 
-  * Providing you with information about our products or services, special offers and events or articles and case studies we think will be of interest to you 
-  * Sending you regular newsletters by email or by post 
-  * Providing you with product or service information and promotional material that you have specifically requested 
-  * Processing any other requests that you make 
-  * Conducting marketing research.
-
-
-
-#### Disclosure of your personal data
-
-We do not share, sell or distribute your personal data with unrelated third parties, except under the following limited circumstances.
-
-  * Personal data may occasionally be transferred to third parties who act for or on behalf of iDynamics, or in connection with the business of iDynamics for further processing in accordance with the purposes to which you have subsequently consented. 
-  * We may share or transfer the information in our databases to comply with a legal requirement, for the administration of justice, to protect your vital interest, to protect the security or integrity of our databases or this website, to take precautions against legal liability, or in the event of a corporate sale, merger, reorganisation, dissolution or similar event.
-
-
-
-#### Data integrity and security
-
-We keep your personal data only for as long as reasonably necessary for the purposes for which it was collected or to comply with any applicable legal or ethical reporting or document retention requirements.
-
-In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. Our servers and our databases are protected by industry standard security technology, such as industry standard firewalls and password protection.
-
-The employees who have access to personal data have been trained to handle such data properly and in accordance with our security protocols and strict standards of confidentiality. Although we cannot guarantee against any loss, misuse, unauthorised disclosure, alteration or destruction of data, we try to prevent such unfortunate occurrences.
-
-#### Data access and corrections
-
-We will disclose to you the personal data we hold about you upon receipt of your written request addressed to The Company Secretary at the address given above. We will also correct, amend or delete any personal data that is inaccurate and notify any third party recipients of the necessary changes.
-
-#### Links to other websites
-
-This Privacy Policy applies only to www.idynamics.com, www.idynamics.co.uk, www.idmobile.co.uk, www.reztec.com, www.reztec.co.uk, www.berrybookings.co.uk. These websites contain hyperlinks to websites that are not operated by iDynamics. These hyperlinks are provided for your reference and convenience only and you should note that we do not have any control over these other websites. We cannot, therefore, be responsible for the protection and privacy of any data which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and review the privacy statement posted on any site you visit before using the site or providing any personal data about yourself.
-
-#### Updates and changes to privacy policy
-
-We reserve the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on this website. Any such change, update or modification will be effective immediately upon posting on the site.
-
-#### Governing law
-
-This Privacy Policy forms part of our website Terms and Conditions and as such shall be governed by and construed in accordance with the laws of England. You agree to submit any dispute arising out of your use of this website to the exclusive jurisdiction of the courts of England.
-
-^ Top
+  * To tailor advertisements or promotions you receive. For example, if you have looked at a specific type of mobile handset, we might use this information to personalise any subsequent advertisements you see. We may also personalise our service based on the type of computer system you use, together with the purchase pattern of other customers who may have looked at similar products to you. We may also provide you with advertisements which may be customised using information such as the search terms you use on our site. For example, if you searched for a specific product or accessed our site via a specific banner ad or search word, we may present you with content and/or offers linked to that banner ad or search word.
+  * We may use navigational information about where you go on our site to better understand how our site is used and to ensure that the product offerings that are presented to you are relevant.
+  * We do not use any data about where you go, or present you with advertisements outside of our site other than on sites which provide for such use in their respective privacy policies.
+  * We may collect information on how frequently you visit the site and the type of products and/or services that you view to enable us to measure the popularity of our sites and our product offerings.
 
   
 
+
+#### Types of Cookie
+
+#### Strictly Necessary Cookies
+
+These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website, remembering how far you are through your pay as you go order, making sure that the idmobile.co.uk website looks consistent or remembering what's in your basket when you're looking to buy that cool new phone. Without these cookies, many of the basic functionalities of our website - the stuff you expect the site to enable you to do like filling in your shopping basket, we simply can't provide.
+
+Tip - these cookies make the basic functions of the website work.
+
+#### Performance Cookies
+
+These cookies collect information about how visitors use our website, for instance which pages visitors go to most often, and the pages that they don't. This understanding enables us to continually improve the experience we deliver to you (and other visitors like you) so that the site is easy to use and includes content that you find helpful (for instance, performance cookies indicated that users find reviews really helpful and so that gave us confidence that we should provide more reviews on each phone and tablet product page). These cookies don't collect information that identifies a visitor - so we can't identify you individually. All the information these cookies collect is aggregated and therefore anonymous. This information is only used to improve how the website works.
+
+Tip - these cookies collect anonymous information on the pages visited.
+
+#### Functionality Cookies
+
+These cookies allow the website to remember the choices you make as you browse the site (for instance, your login details to enable you to access the 'iD Account' area). They provide more enhanced and personal features. The information they collect is anonymised and the usage only relates to www.idmobile.co.uk - they cannot track your browsing activity on other websites once you've departed the site.
+
+Tip - these cookies remember choices you have made to improve your website experience on www.idmobile.co.uk.
+
+#### Advertising or Targeting Cookies
+
+These cookies are used to deliver adverts more relevant to you and your interests (assumed by analysing your onsite browsing behaviour). They can also provide caps on the number of times you might see an advert - to hopefully stop them becoming annoying and repetitive. These cookies remember that you have visited www.idmobile.co.uk, track what products you may have looked at, and this information may be shared with our advertising partners. If you see an advert from iD once you have left our site and are browsing other sites on the internet, that magically seems to understand what previously interested you (you looked at a specific smartphone on our website and then see deals for that handset) then this is enabled by targeting cookies.
+
+Tip - these cookies collect information about your browsing habits in order to make advertising more relevant for you.
+
+#### Cookies used on the iD website (http://www.idmobile.co.uk) and checkout area (https://www.secure-mobiles.com)
+
+Cookie Name | Description/Purpose | Typical Content | Expiry  
+---|---|---|---  
+`PHPSESSID` | This is a general purpose identifier used to maintain user session variables. It is normally a random generated number, how it is used can be specific to the site, but a good example is maintaining a logged-in status for a user between pages. | `44p76ou6n876tifse2gbetgv01` | 30 minutes  
+`basketStartTime` | Current timestamp when a customer enters the basket area. | `1435925771` | 2 hours  
+`__atuvc` | This cookie is associated with the AddThis social sharing widget which is commonly embedded in websites to enable visitors to share content with a range of networking and sharing platforms. It stores an updated page share count. | `1%7C8` | 2 years  
+`__cfduid` | Cookie assoiated with sites using CloudFlare, used to speed up page load times. According to CloudFlare it is used to override any security restrictions based on the IP address the visitor is coming from. It does not contain any user identification information. | `d6b8b68717426b802aff18c7ef666e3b81417010500` | 1 year  
+`__utma` | Used to distinguish users and sessions. The cookie is created when the javascript library executes and no existing __utma cookies exists. The cookie is updated every time data is sent to Google Analytics. | `1.1752480302.1417165958.1432802568.1433162864.48` | 2 years from set/update  
+`__utmz` | Stores the traffic source or campaign that explains how the user reached your site. The cookie is created when the javascript library executes and is updated every time data is sent to Google Analytics. | `1.1430921977.37.11.utmcsr=mobiles.webdev998|utmccn=(referral)|utmcmd` | 6 months from set/update  
+`_ga` | Used to distinguish users in Google Analytics. | `GA1.2.1668869942.1426254461` | 2 years  
+`_gat` | Used to throttle request rate in Google Analytics. | `1` | 10 minutes  
+`__gads` | Measuring interactions with the ads (Google Adsense) on the site and preventing the same ads from being shown to you too many times. | `ID=cfea2be86d4ad9cf:T=1420028113:S=ALNI_MaI5ut8TNEgKh3ej6nrCvd11x7Dtw` | 1 year  
+`affiliatehistory` | A serialized history of affiliate partner sources to the iD website and/or basket and checkout areas. | `a%3A1%3A%7Bs%3A32%3A%22REFERER%7Ccosmic%7Chttp%3A%2F%2Fcosmic%2Fcms%2` | 30 days  
+`affiliatesource` | The affiliate partner source for the iD website and/or basket and checkout areas. | `REFERER%7Ccosmic%7Chttp%3A%2F%2Fcosmic%2Fcms` | 30 days  
+`reevoomark_marker` | Associated with the reviews and ratings services provided by Reevoo. | `6166236` | 5 days  
+`reevoomark_viewed_products` | Associated with the reviews and ratings services provided by Reevoo. | `15653636%3D2462%3D201506251052%3DIPHP64GO` | 2 weeks  
+`wlcode` | Set the whitelabel code for the basket and checkout area. | `idmobile` | 1 year  
+`_drt_` | Used for re-targeting, optimisation, reporting and attribution of online adverts. | `AFqoUdAIZFZmTOM8_WBwV8NK5T4Ge5jKDt_FkRDRh61sxCw9LEyEAS-Q1ZlH_lkn09nxYzTbHXMsTN6GDn1ZgrN9Jz7MuPunYQ` | 30 days  
+`id` | Used for re-targeting, optimisation, reporting and attribution of online adverts. | `22e4a0b3190300dc||t=1416996232|et=730|cs=002213fd48320361599f3cbf97` | 30 days  
+  
+#### Cookies used in the iD Account area (http://my.idmobile.co.uk)
+
+Cookie Name | Description/Purpose | Typical Content | Expiry  
+---|---|---|---  
+`COMPANY_ID` | For associating user to a role | `10132` | Duration of logged in session  
+`ID` | For identifying a user | `123456a12343ad567dd3841714c7a31343645657773d3d` | Duration of logged in session  
+`JSESSIONID` | Session id associated with user | `123A04AB1DD2E523434BF618DADEAF82` | Duration of logged in session  
+`USER_UUID` | Unique identifier for a user | `+bBBuYbsdrYfpiBqPi/dR77iRWzwbkxGZkfYMYYuWH8=` | Duration of logged in session  
+`COOKIE_SUPPORT` | Default liferay cookie | `True` | 1 year  
+`GUEST_LANGUAGE_ID` | Default liferay cookie | `en_US` | 1 year  
+`_ga` | Google analytics footer | `GA1.1.12337702.123466310` | 2 years  
+  
+#### How do I stop cookies being sent or stored on my computer, phone or tablet?
+
+By using this site, you agree to our use of cookies in the manner outlined above.
+
+Please note that it is not a good idea to reject all cookies as this could prevent you from gaining full use of this site, meaning that you may not be able to find and/or buy what you want.
+
+To learn more about cookies [click here](http://www.aboutcookies.org/default.aspx?page=5), or to control or disable them [click here](http://www.aboutcookies.org/default.aspx?page=1).
+
+If you do not wish to receive tailored advertising, you can withdraw this consent at any time by changing your browser settings to reject cookies.
+
+#### Where we store your personal data
+
+The data that we collect from you may be transferred to and/or stored at a destination outside the European Economic Area ("EEA") such as India or South Africa. It may also be processed by employees operating outside the EEA who work for us or for our suppliers. Such employees maybe engaged in, among other things, the processing of your payment details and the provision of support services. Here we will ensure that we have the necessary contracts and other mechanisms in place to make sure your data continues to be treated in accordance with the provisions of the Act. By submitting your personal data, you agree to this transfer, storing or processing.
+
+All information you provide to us is stored on secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+
+#### Uses made of the information
+
+We use information held about you in the following ways:
+
+  * To provide you with goods and/or services that you have ordered
+  * To prevent and detect fraud or other crimes
+  * To check your identity
+  * To trace and recover debts
+  * For credit and credit related services and to manage your accounts
+  * To update our records about you
+  * To make credit, fraud and identity checks on you (when applicable)
+
+
+
+In addition, Dixons Carphone PLC may use your Personal Information for research and statistical analysis to develop and improve our products and services.
+
+You will also have the opportunity to consent to us contacting you by post, e-mail, phone, SMS or MMS from time to time occasionally about products and services which the Dixons Carphone PLC group of companies and carefully selected third parties believe may be of interest to you. The Dixons Carphone PLC consists of The Carphone Warehouse Limited, together with iD Mobile Limited, DSG Retail Limited, including but not limited to its affiliates and other subsidiary and holding companies, and any subsidiaries of such holding companies whether direct or indirect from time to time., including Best Buy Co. Inc. and its affiliates and subsidiary companies.
+
+If you are an existing customer, we may also contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
+
+#### Disclosure of your information
+
+There may be circumstances in which we are required to share your data with government bodies or other members of the Dixons Carphone PLC group of Companies.
+
+We may disclose your personal information to third parties:
+
+  * in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets; and
+  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use.
+
+
+
+We may also provide information about our dealings with you to credit reference and fraud prevention agencies. For full details about the third parties to which your data may be disclosed and how they may process this data, please see our terms of use at [www.idmobile.co.uk/legal/terms-and-conditions](https://web.archive.org/legal/terms-and-conditions).
+
+#### Access to information (also known as SAR Requests or Subject Access Requests)
+
+The Data Protection Act 1998 (The Act) gives you the right to access personal information held about you. Your right of access can be exercised in accordance with the Act. Any access request will be subject to a fee of £10.
+
+If you would like to access your personal information you should **write** to us to request this at:
+
+The Data Protection Office  
+iD Mobile Ltd  
+Carphone Warehouse Ltd  
+PO Box 375  
+Southampton  
+SO30 2PU 
+
+You should include:
+
+  * Your full name and address
+  * Your iD Mobile account number
+  * A cheque for £10 made payable to iD Mobile Limited
+  * Details of any specific information you require
+  * One proof of identity - we can accept only a **photocopy** of your passport, or your driver’s licence
+  * One proof of address - we can accept only a **photocopy** of a recent credit or debit card statement (transaction history can be blackened out), or a photocopy of a utility bill (gas, electricity, or water) showing the same name and address as on your iD Mobile account. This should be from within the last three months.
+
+
+
+We recommend you send your request by **Recorded Delivery** but this is not compulsory. Please note that we **do not** accept original documents of identity as we cannot warrant for the safe return of these items. We also do not take or accept online payments for the required £10.00 (cheque payments only).
+
+Once we receive your request, along with everything mentioned above, we'll get back to you within 40 days.
+
+**Please note** that we cannot process requests for information over the phone - you must follow the process above.
+
+#### Changes to our privacy policy
+
+Any changes we may make to our privacy policy in the future will be posted on this page and/or in our terms of use at [www.idmobile.co.uk/legal/terms-and-conditions](https://web.archive.org/legal/terms-and-conditions) and, where appropriate, notified to you by e-mail.
+
+#### Contact & opting out of marketing
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed in writing to The Data Protection Office, iD Mobile Limited, The Carphone Warehouse Limited, PO Box 375, Southampton, SO30 2PU.
+
+If you believe we have incorrect information about you, our customer services team will be happy to help. Please use the [contact us](https://web.archive.org/help-and-advice/contact-us) page to get in touch and let us know what you would like us to change. This also applies if you would like to opt out of receiving marketing messages.
