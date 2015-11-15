@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tellyserials.tv privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521051617id_/http%3A//www.tellyserials.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellyserials.tv privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115054603id_/http%3A//www.tellyserials.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Telly Serials
 
