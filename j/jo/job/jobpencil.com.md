@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobpencil.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009043816id_/http%3A//www.jobpencil.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobpencil.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115011041id_/http%3A//www.jobpencil.com/Privacy) for the most accurate reproduction.*
 
 # JobPencil-Privacy Policy,Career Resources
 
