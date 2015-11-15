@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogcheer.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511102709id_/http%3A//blogcheer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogcheer.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115014638id_/http%3A//blogcheer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - How to Blog - Best Blogging Tips
 
@@ -16,9 +16,9 @@ We use your information for contacting you if required. Other than that, we use 
 
 Yes, we use cookies to count return visits to our website, for enabling automatic logins, for personalizing the site and to deliver interest based content. For monitoring traffic on our website.
 
-**Do we show third party[advertisement](http://blogcheer.com/advertisement/)?**
+**Do we show third party advertisement?**
 
-Yes, we display some paid advertisement on our website which may take you to some other website or any external source. [Google](http://blogcheer.com/category/google/) as a third party vendor uses cookies to serve ads. Google’s use of DART cookies enable it to serve ads, based on their visit to your website and other sites on the internet. We are not responsible for the content of the external website.
+Yes, we display some paid advertisement on our website which may take you to some other website or any external source. Google as a third party vendor uses cookies to serve ads. Google’s use of DART cookies enable it to serve ads, based on their visit to your website and other sites on the internet. We are not responsible for the content of the external website.
 
 **Do we use Third Party Links?**
 
