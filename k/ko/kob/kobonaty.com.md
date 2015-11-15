@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the kobonaty.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610021325id_/http%3A//www.kobonaty.com/en/page/Privacy-Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kobonaty.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115042336id_/http%3A//www.kobonaty.com/content/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# The best online daily Deals in Dubai @ Kobonaty
+
+### Privacy Policy
 
 The privacy policy lists the privacy practices adopted by the Daily Deal Website. Please read the following to learn about the type of information that we collect from you and how we utilize the information. If you have any queries regarding our privacy policy, please feel free to contact us.
 
-1\. Information Collected and their Usage:
+##### 1\. Information Collected and their Usage:
 
 a) The website collects primarily two kinds of information: Personally Identifiable Information and Non-Personally Identifiable Information. The personally identifiable information is the information collected when the user creates an account on the website or performs activities like ordering any product or service from us or our partners, posting a review, submitting a content or review on the forums, entering a contest sponsored by us or our partners, filling out a survey, requesting information about our services, applying for a job, posting a video, submitting an affiliate agreement, signing up for special offers from third parties through the website. These activities are collectively known as the Identification Activities. When you engage in these activities, we may ask you to provide certain personal information about yourself. These involve information about the first name, last name, mailing address, telephone number, date of birth etc. In addition to these, some activities may also require other information like credit card details, expiration details, authentication code or the like. Some of the information that we need are mandatory while the other is voluntary, depending on the kind of activity that is being carried out.
 
@@ -12,7 +14,7 @@ b) The Non-Personally Identifiable information does not identify a specific end 
 
 c) When the referral program is used or the deal is bought for a friend, we ask you for the details of your friend like name and email id. This information is stored in our system for the sole purpose of sending the deal to your friend or for gauging the success of the referral program. If your friend wished to remove his or her name from our contact list, he or she may send an e-mail to us requesting the same.
 
-2\. Disclosing Personally Identifiable information: We, at Daily Deal website, will not share, rent, sell or trade any personally identifiable information given by you except in certain circumstances as listed below:
+##### 2\. Disclosing Personally Identifiable information: We, at Daily Deal website, will not share, rent, sell or trade any personally identifiable information given by you except in certain circumstances as listed below:
 
 a) Sharing with the Daily Deal Website Merchants: We provide information to our merchants who have offered deals on our website for the purpose of aiding redemption. The personally identifiable information is shared with the Daily Deal website merchants only, when the customer engages in a personally identifiable activity. We do not take responsibility for any actions of the daily deal website merchants.
 
@@ -24,21 +26,21 @@ d) Business Transfer: When there is a merger or acquisition of our company by an
 
 e) Protection of Users and Others: We reserve the right to disclose your personally identifiable information to comply with a judicial proceeding, court order or legal process, for the security of the website, its users and others.
 
-3\. Disclosing Non-Personally Identifiable Information: We may share the Non-Personally Identifiable information with Partners, Affiliates and Advertisers. These companies may use the non-personally identifiable information like the website you visited before and after your visit to our site and the like, to market their products and services that may interest you. We may also share the information with third party service providers to administer our site and to continuously improve its quality.
+##### 3\. Disclosing Non-Personally Identifiable Information: We may share the Non-Personally Identifiable information with Partners, Affiliates and Advertisers. These companies may use the non-personally identifiable information like the website you visited before and after your visit to our site and the like, to market their products and services that may interest you. We may also share the information with third party service providers to administer our site and to continuously improve its quality.
 
-4\. The users of the Daily Deal website can update and correct information through the My Account area of the site. We advise you to make the edits as soon as the information changes. The credit card information is stored on a secure page. You may delete the information at any time through the 'My Account' section of your profile.
+##### 4\. The users of the Daily Deal website can update and correct information through the My Account area of the site. We advise you to make the edits as soon as the information changes. The credit card information is stored on a secure page. You may delete the information at any time through the 'My Account' section of your profile.
 
-5\. You can choose not to provide any information. However, the information would be needed in order to engage in certain activity on the website.
+##### 5\. You can choose not to provide any information. However, the information would be needed in order to engage in certain activity on the website.
 
-6\. At Daily Deal website, security is supreme for us. The personally identifiable information of the users is secured through an encrypted password. The information resides on a secure server which is accessed by only select contractors and personnel.
+##### 6\. At Daily Deal website, security is supreme for us. The personally identifiable information of the users is secured through an encrypted password. The information resides on a secure server which is accessed by only select contractors and personnel.
 
-7\. The devices used by our website for recording data include the cookies and other tracking devices like the pixel tags and the web beacons.
+##### 7\. The devices used by our website for recording data include the cookies and other tracking devices like the pixel tags and the web beacons.
 
-8\. The privacy policies discussed above only addresses the use and disclosure of information we collect at Daily Deal website. It does not include the privacy policies of the sites linked to this website.
+##### 8\. The privacy policies discussed above only addresses the use and disclosure of information we collect at Daily Deal website. It does not include the privacy policies of the sites linked to this website.
 
-9\. We reserve the right to modify the privacy policy at any point of time. In case we decide to make changes to the same, we will post the changes on the homepage, privacy statement and places that are deemed appropriate for the same.
+##### 9\. We reserve the right to modify the privacy policy at any point of time. In case we decide to make changes to the same, we will post the changes on the homepage, privacy statement and places that are deemed appropriate for the same.
 
-10\. General Privacy Issues:
+##### 10\. General Privacy Issues:
 
 a) The site is not meant for minors below 18 years of age. We don't sell products for purchase by children. However, we do sell children's product for purchase by adults.
 
