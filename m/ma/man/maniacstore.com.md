@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maniacstore.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601061712id_/http%3A//www.maniacstore.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maniacstore.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115191038id_/http%3A//www.maniacstore.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Maniacstore.com
 
