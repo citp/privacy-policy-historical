@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efinancialcareers.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611073507id_/http%3A//news.efinancialcareers.com/us-en/page/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancialcareers.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115011846id_/http%3A//news.efinancialcareers.com/us-en/page/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy policy - eFinancialCareers
 
@@ -28,7 +28,7 @@ When you register with the Website, you will be asked to provide us with certain
 
 ### Communications from the Website
 
-We reserve the right to send you email communications offering third party services and products to you based on the preferences that you identify in your registration and at any time thereafter; such offers may be made by us or by our partners via us. You may change your preferences from receiving promotional communications from us and other companies at any time by logging into “My eFC” portal and changing your preferences under “My Newsletter” , or by emailing [privacy@efinancialcareers.com](https://web.archive.org/web/20150611073507id_/http://news.efinancialcareers.com/us-en/page/privacy-policy-2/privacy@efinancialcareers.com).
+We reserve the right to send you email communications offering third party services and products to you based on the preferences that you identify in your registration and at any time thereafter; such offers may be made by us or by our partners via us. You may change your preferences from receiving promotional communications from us and other companies at any time by logging into “My eFC” portal and changing your preferences under “My Newsletter” , or by emailing [privacy@efinancialcareers.com](https://web.archive.org/web/20151115011846id_/http://news.efinancialcareers.com/us-en/page/privacy-policy-2/privacy@efinancialcareers.com).
 
 ### Consent
 
@@ -38,7 +38,7 @@ You signify your consent to us collecting and using this information by your reg
   2. We will collect information about your tastes and preferences both when you tell us what these are and by analysis of customer traffic, including by using cookies and other technologies (see below).
   3. If you enter a contest or promotion we will ask for your name, address and e-mail address. This is so we can administer the contest and inform the winners. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information.
   4. We use information collected about you to personalize your visits to our Website and recommend goods or services to you. We also use the information to help us develop the design and layout of our Website to improve our sites to that they are as useful and enjoyable as possible.
-  5. Sometimes we might use the information to let you know about new services on or functionality changes to our Website. If you do not wish to receive this information, please send an e-mail to [privacy@efinancialcareers.com](https://web.archive.org/web/20150611073507id_/http://news.efinancialcareers.com/us-en/page/privacy-policy-2/privacy@efinancialcareers.com).
+  5. Sometimes we might use the information to let you know about new services on or functionality changes to our Website. If you do not wish to receive this information, please send an e-mail to [privacy@efinancialcareers.com](https://web.archive.org/web/20151115011846id_/http://news.efinancialcareers.com/us-en/page/privacy-policy-2/privacy@efinancialcareers.com).
   6. Résumés. The eFinancialCareers confidential résumé database enables you to anonymously and confidentially profile your skills and experience to recruiters.
 
 
@@ -73,11 +73,11 @@ The Website is not directed toward children (individuals under thirteen years of
 
 You may review, correct, and delete any personal information we collect from you by logging into My eFC. Additionally, you can email us at privacy@efinancialcareers.com,and request that we delete your data. We will respond to you within 30 days.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@efinancialcareers.com](https://web.archive.org/web/20150611073507id_/http://news.efinancialcareers.com/us-en/page/privacy-policy-2/privacy@efinancialcareers.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@efinancialcareers.com](https://web.archive.org/web/20151115011846id_/http://news.efinancialcareers.com/us-en/page/privacy-policy-2/privacy@efinancialcareers.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ### Opting-out of the transfer of personal information
 
-You may choose to “opt-out” of any transfer of personally identifiable information to a third party as described in this Privacy Policy. You may “opt-out” by contacting us at [privacy@efinancialcareers.com](https://web.archive.org/web/20150611073507id_/http://news.efinancialcareers.com/us-en/page/privacy-policy-2/privacy@efinancialcareers.com), or by checking any “opt-out” boxes that may be provided during the registration process regarding sharing with other companies. Note that, because we will occasionally need to send you certain email messages that are important to your use of the Website, such as system status updates or order confirmations, you will not be able to “opt out” of receiving such messages.
+You may choose to “opt-out” of any transfer of personally identifiable information to a third party as described in this Privacy Policy. You may “opt-out” by contacting us at [privacy@efinancialcareers.com](https://web.archive.org/web/20151115011846id_/http://news.efinancialcareers.com/us-en/page/privacy-policy-2/privacy@efinancialcareers.com), or by checking any “opt-out” boxes that may be provided during the registration process regarding sharing with other companies. Note that, because we will occasionally need to send you certain email messages that are important to your use of the Website, such as system status updates or order confirmations, you will not be able to “opt out” of receiving such messages.
 
 ### How do we protect your information?
 
@@ -103,9 +103,9 @@ We do link this automatically-collected data to personally identifiable informat
 
 ### Cookies
 
-A cookie is a piece of information that is stored on your computer’s hard drive by your web browser. On revisiting [www.efinancialcareers.com](https://web.archive.org/web/20150611073507id_/http://news.efinancialcareers.com/us-en/page/privacy-policy-2/www.efinancialcareers.com) our computer server will recognize the cookie, giving us information about your last visit. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive cookies, you may still use most of the features of our Website, including purchasing items. Cookies are linked to personally identifiable information.
+A cookie is a piece of information that is stored on your computer’s hard drive by your web browser. On revisiting [www.efinancialcareers.com](https://web.archive.org/web/20151115011846id_/http://news.efinancialcareers.com/us-en/page/privacy-policy-2/www.efinancialcareers.com) our computer server will recognize the cookie, giving us information about your last visit. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive cookies, you may still use most of the features of our Website, including purchasing items. Cookies are linked to personally identifiable information.
 
-For information on how to control your cookies go to [www.allaboutcookies.org](https://web.archive.org/web/20150611073507id_/http://news.efinancialcareers.com/us-en/page/privacy-policy-2/www.allaboutcookies.org).  
+For information on how to control your cookies go to [www.allaboutcookies.org](https://web.archive.org/web/20151115011846id_/http://news.efinancialcareers.com/us-en/page/privacy-policy-2/www.allaboutcookies.org).  
 Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. See “Third Party Advertisers.”
 
 This privacy statement covers the use of cookies by this site only and does not cover the use of cookies by any advertisers.
@@ -152,11 +152,11 @@ If you choose to use our referral service to tell a friend about a job, we will 
 
 ### Customer feedback and complaints
 
-We welcome your questions and comments about privacy issues and the design of our Website. Should you have any comments please send an e-mail to: [privacy@efinancialcareers.com](https://web.archive.org/web/20150611073507id_/http://news.efinancialcareers.com/us-en/page/privacy-policy-2/privacy@efinancialcareers.com).
+We welcome your questions and comments about privacy issues and the design of our Website. Should you have any comments please send an e-mail to: [privacy@efinancialcareers.com](https://web.archive.org/web/20151115011846id_/http://news.efinancialcareers.com/us-en/page/privacy-policy-2/privacy@efinancialcareers.com).
 
 ### Your California Privacy Rights
 
-Pursuant to California Civil Code Section 1798.83, customers of the Website who are residents of California are permitted to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [privacy@efinancialcareers.com](https://web.archive.org/web/20150611073507id_/http://news.efinancialcareers.com/us-en/page/privacy-policy-2/privacy@efinancialcareers.com) or write us at:
+Pursuant to California Civil Code Section 1798.83, customers of the Website who are residents of California are permitted to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [privacy@efinancialcareers.com](https://web.archive.org/web/20151115011846id_/http://news.efinancialcareers.com/us-en/page/privacy-policy-2/privacy@efinancialcareers.com) or write us at:
 
 **eFinancialCareers.com**  
 c/o DHI Group, Inc  
