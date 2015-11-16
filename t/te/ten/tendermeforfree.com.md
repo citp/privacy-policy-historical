@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tendermeforfree.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516063110id_/http%3A//www.tendermeforfree.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tendermeforfree.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116221604id_/http%3A//www.tendermeforfree.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
-# Qtellwholesale Limited Private Policy and Cookie Policy Ireland for all webdesign, eCommerce plus all classifieds web sites
+# Tender me for Free Classified Ads Free Classifiedads Freeads Tender Local Community Classifiedads Ads Free Cars Buy and Sell
 
   
 1\. Introduction
