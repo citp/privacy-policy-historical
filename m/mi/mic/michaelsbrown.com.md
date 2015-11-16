@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the michaelsbrown.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409044254id_/http%3A//michaelsbrown.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelsbrown.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116060000id_/http%3A//michaelsbrown.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Make Money Online With Michael S. Brown
+# Privacy Policy - Starting An Online Business From Scratch With Michael S. Brown
 
 **1\. HOW WE PROTECT YOUR PRIVACY.**   
 This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
