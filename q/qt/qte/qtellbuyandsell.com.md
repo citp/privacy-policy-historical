@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qtellbuyandsell.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615002452id_/http%3A//www.qtellbuyandsell.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qtellbuyandsell.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116060058id_/http%3A//www.qtellbuyandsell.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
-# Qtellwholesale Limited Private Policy and Cookie Policy Ireland for all webdesign, eCommerce plus all classifieds web sites
+# Cuba - Buy and Sell Free Classified Ads Free Post Buy and Sell Free Classifiedads Free Advertise World Global Free Post sell Free Classified
 
   
 1\. Introduction
