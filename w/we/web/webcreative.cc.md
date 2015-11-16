@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcreative.cc privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202155906id_/http%3A//www.webcreative.cc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcreative.cc privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116060710id_/http%3A//www.webcreative.cc/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Blogger Codes
 
