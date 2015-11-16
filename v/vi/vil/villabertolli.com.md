@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the villabertolli.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622015343id_/http%3A//www.villabertolli.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villabertolli.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116083927id_/http%3A//www.villabertolli.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-To view this page in Spanish, please [click here](https://web.archive.org/web/20150622015343id_/http%3A//www.villabertolli.com/privacy-policy-spanish "Spanish Version")  
-Para ver esta página en español, por favor haga [clic aquí](https://web.archive.org/web/20150622015343id_/http%3A//www.villabertolli.com/privacy-policy-spanish "Spanish Version")
+To view this page in Spanish, please [click here](https://web.archive.org/web/20151116083927id_/http%3A//www.villabertolli.com/privacy-policy-spanish "Spanish Version")  
+Para ver esta página en español, por favor haga [clic aquí](https://web.archive.org/web/20151116083927id_/http%3A//www.villabertolli.com/privacy-policy-spanish "Spanish Version")
 
 ## R&B FOODS, INC. PRIVACY PRINCIPLES
 
