@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bitplutos.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518025010id_/http%3A//www.bitplutos.com/legal-information-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitplutos.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116230249id_/http%3A//www.bitplutos.com/legal-information-2) for the most accurate reproduction.*
 
-# Security & Privacy
+# Security & Privacy - BitPlutos
 
 Exclusive Limited (“we, our or us”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive when you visit www.bitplutos.com (the “Site”) and when you use any part of our service available through the Site (the “Service”).
 
