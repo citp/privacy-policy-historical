@@ -1,100 +1,77 @@
-> *The following text is extracted and transformed from the protonmail.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protonmail.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116030903id_/https%3A//protonmail.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | ProtonMail
 
-**Go Daddy Respects Your Privacy**
+Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+In the following policy, ProtonMail refers to the service offered by Proton Technologies AG through the protonmail.com website.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+By visiting protonmail.com and using the services provided here, you consent to the use of information as outlined in this privacy policy.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+### Laws and Regulations
 
-**Information Collection and Use**
+Our company is based entirely in Switzerland and has no foreign subsidiaries or parent companies so we operate solely under the laws and regulations of the Swiss Confederation.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Under Swiss law, the technical means for lawful interceptions of customer communications is governed by the Swiss Federal Act on the Surveillance of Postal and Telecommunications Traffic (SPTT) last amended in 2012. In the SPTT, the obligation to provide the technical means for lawful interception is imposed only on Internet access providers so ProtonMail, as a mere Internet application provider is entirely exempt from the SPTT’s scope of application. Thus, due to our entirely Swiss domicile, ProtonMail is not required to, and cannot be compelled, to build in the technical means to intercept customer communications.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+### Email Policy
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Any emails provided to ProtonMail through either our waiting list or enabling the notification email setting in your account are considered privileged information under the protection of the Swiss Federal Data Protection Act (DPA). Your email will never be sold or shared with any third parties.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Furthermore, if you disable notifications on your account, your email is permanently removed from our system.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Your email address will only be used to contact you with news and updates regarding ProtonMail beta, and to send you an invitation link when your ProtonMail account can be created.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+### Data Collection
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Our company’s overriding policy is to collect as little user information as possible to ensure a completely private and anonymous user experience. 
 
-**Security**
+During the course of our public BETA, some additional data collection will be in place to ensure we have enough information to do debugging and security testing. Data collection that will occur only during the ProtonMail BETA phase begin with the label [BETA ONLY].
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+ProtonMail’s user data collection is limited to the following:
 
-**Updating Your Information**
+  1. Visiting our website: We employ a local installation of Piwik on the home page only. Piwik is not employed on any of the internal pages.
+  2. Account creation: We do not require ANY personal information to create an account. Should you choose to provide it, we do associate another email address with your account (for password recovery, or notifications only).
+  3. Account activity: Due to limitations of the SMTP protocol, we have access to the following email metadata: sender and recipient email addresses, the ip address incoming messages originated from, message subject, and message sent and received times. We do NOT have access to encrypted message content. We also have access to the following records of account activity: number of messages sent, amount of storage space used, total number of messages, last login time.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+[BETA ONLY] We are logging web server activity for debugging purposes so the IP addresses of ProtonMail users are logged. However, we have no ability to match an IP to a specific user account.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+  4. Communicating with ProtonMail: Your communications with ProtonMail, such as sales and support requests, bug reports, or feature requests are retained and may be saved by our staff.
+  5. IP Logging: ProtonMail’s policy is to NOT log any IP information. However, during the BETA period, limited logging will be performed as detailed above in Section 3.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-      iii.      You may call us at: (480) 505-8800
 
-       iv.      You may fax us at: (480) 505-8844
+### Data Use
 
-**Sending Emails**
+ProtonMail does not have any advertising on our site. We also have no technical means to access your encrypted message contents. Any data that we do have will never be shared except under the circumstances described below in Data Disclosure. We do NOT do any analysis on the limited email data we do possess with two exceptions:
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+  1. Emails sent unencrypted to ProtonMail accounts (e.g. Gmail to ProtonMail) are scanned automatically for spam so we can block IPs which are sending a lot of spam to ProtonMail users and place spam messages in a spam directory. We do not possess the technical ability to scan encrypted messages.
+  2. Emails sent by ProtonMail users to outside (e.g. Gmail) users with encryption disabled are scanned automatically for spam. This is to ensure a ProtonMail account which is being used for spamming purposes can be automatically locked.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+### Data Storage
 
-**Third Party Service Providers**
+All ProtonMail servers are located in Switzerland and wholly owned and operated by Proton Technologies AG. Only employees of Proton Technologies AG have physical or other access to ProtonMail servers.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+Data is ALWAYS stored in encrypted format on our servers. Offsite backups may be stored periodically, but these are also fully encrypted. ProtonMail does not possess the ability to access any user encrypted message content on either the live servers or in the backups.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+### Data Retention
 
-**Supplementation of Information**
+When a ProtonMail account is closed, data is immediately deleted. Data may be retained for up to 7 days in our backups. Accounts that are inactive for over 3 months may be automatically deleted. Active accounts will have data retained indefinitely. Deleted emails are instantly deleted, although they may be retained in our backups for up to 7 days.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+### Data Disclosure
 
-**Contests/Surveys**
+ProtonMail will only disclose the limited user data we possess if we receive an enforceable court order from either the Cantonal Courts of Geneva or the Swiss Federal Supreme Court. If a request is made for encrypted message content that ProtonMail does not possess the ability to decrypt, the fully encrypted message content may be turned over. If permitted by law, ProtonMail will always contact a user first before any data disclosure.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+### Payment Information
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+All credit card transactions are processed by third parties and ProtonMail does not retain any customer payment information but we do store data on which account was paid for by a particular transaction. For cash or bitcoin payments, the only information ProtonMail retains is the account username to which the payment was applied.
 
-**Tell-A-Friend**
+### Modifications to Privacy Policy
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+ProtonMail reserves the right to periodically review and change this policy from time to time. All users will be notified at their ProtonMail email address whenever our Privacy Policy is changed.
 
-**What Happens to my Personal Information if I Opt Out?**
+### Applicable Law
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+This Agreement shall be governed in all respects by the laws of the Republic and Canton of Geneva, Swiss Confederation. All actions commenced pursuant hereto shall be brought in a court of competent jurisdiction residing in the Republic and Canton of Geneva.
