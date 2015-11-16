@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everydaycarry.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527122854id_/http%3A//everydaycarry.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydaycarry.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116041928id_/http%3A//everydaycarry.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Everyday Carry
 
@@ -10,6 +10,8 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
   * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
   * We may protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
   * We may make readily available to customers information about our policies and practices relating to the management of personal information. 
+  * Everyday Carry is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com
+  * Everyday Carry contains Advertisements, Sponsored Posts and Affiliate links. If you interact with one of the above, you will be taken to a third party website outside of the control of Everyday Carry.
 
 
 
