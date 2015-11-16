@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movienuke.com privacy policy that was archived on 2015-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150220201406id_/http%3A//www.movienuke.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movienuke.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116014931id_/http%3A//www.movienuke.com/Privacy) for the most accurate reproduction.*
 
 # Best Latest Hot Video Clips
 
@@ -29,5 +29,3 @@ If you are under 13 years of age, then please do not use or access the Website a
 ## Non-U.S. Users
 
 The Website is hosted in the United States. If you are accessing the MovieNuke Website from a jurisdiction with privacy laws or regulations that differ from United States laws, please be advised that through your continued use of the Website, you are transferring your personal information to the United States and you consent to that transfer. 
-
-* * *
