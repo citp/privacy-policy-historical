@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nottingham.ac.uk privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519044254id_/http%3A//nottingham.ac.uk/utilities/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nottingham.ac.uk privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116224603id_/http%3A//www.nottingham.ac.uk/utilities/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy and Cookies - The University of Nottingham
 
