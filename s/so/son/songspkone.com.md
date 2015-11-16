@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the songspkone.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513134937id_/http%3A//songspkone.com/privacy-policy-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songspkone.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116051717id_/http%3A//songspkone.com/privacy-policy-page) for the most accurate reproduction.*
 
 # Privacy Policy Page | SongsPK
 
@@ -7,7 +7,7 @@ Posted by  November 28th, 2014 07:40 PM on .  
 ## [SONGSPKONE](http://songspkone.com/) Privacy Policy
 
 **Privacy Policy –  SongsPkone.com**  
-SongsPKall.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: SongsPkone.com
+SongsPKOne.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: SongsPkone.com
 
 **Cookies And 3rd Party Advertisements**
 
@@ -24,3 +24,5 @@ SongsPkone.com contains links of other sites on the internet. We are not respon
 
 **Changes To Our Privacy Policy**  
 To the maximum extent permitted by applicable law, we reserve the right to change or replace this Privacy Policy at any time and from time to time without prior notice to or the consent of any person. Any changes or replacement will be posted at this site.
+
+error: Content is protected !!
