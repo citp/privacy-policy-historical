@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventfinda.co.nz privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612235451id_/http%3A//www.eventfinder.co.nz/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventfinda.co.nz privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116060340id_/http%3A//www.eventfinda.co.nz/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Eventfinda
 
@@ -38,4 +38,4 @@ Access and control over personal information on the Eventfinda Network is readil
 
 Your use of the Eventfinda Network, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Service and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Service at any time. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
 
-If you have any questions about this privacy policy, please contact us through the [Help Centre](http://support.eventfinder.co.nz/ "Eventfinda Support Help Centre").
+If you have any questions about this privacy policy, please contact us through the [Help Centre](http://support.eventfinda.co.nz/ "Eventfinda Support Help Centre").
