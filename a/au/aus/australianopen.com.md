@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the australianopen.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627195819id_/http%3A//www.tennis.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australianopen.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116043149id_/http%3A//www.tennis.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Tennis Australia
 
 ### 1\. Protecting Privacy and application of this Privacy Policy
 
-1.1 Tennis Australia Limited ( **Tennis Australia** ) is the governing body of tennis in Australia. Tennis Australia organises a number of tennis events including, without limitation, the Australian Open and Australian Open Series events. Tennis Australia also manages and promotes various tennis programs, including without limitation, Tennis Hot Shots, Cardio Tennis and the AO Blitz.
+1.1 Tennis Australia Limited ( **Tennis Australia** ) is the governing body of tennis in Australia. Tennis Australia organises a number of tennis events including, without limitation, the Australian Open and Australian Open Series events. Tennis Australia also manages and promotes various tennis programs, including without limitation, ANZ Tennis Hot Shots, Cardio Tennis and the Free Tennis Days.
 
 1.2 In its role as the governing body of tennis in Australia, Tennis Australia is committed to the protection of your personal information in accordance with the National Privacy Principles, and from 12 March 2014, the Australian Privacy Principles, set out in the _Privacy Act 1988 (Cth)_.
 
@@ -46,7 +46,7 @@
   2. you may wish to attend a tennis activity or event;
   3. you may wish to purchase a ticket or a corporate hospitality package to a tennis event;
   4. you may attend a tennis event and elect to provide your personal information while at the event;
-  5. you may wish to be a Tennis Australia Coach Member, MLC Tennis Hot Shots deliverer and/or Cardio Tennis deliverer;
+  5. you may wish to be a Tennis Australia Coach Member, ANZ Tennis Hot Shots deliverer and/or Cardio Tennis deliverer;
   6. you may wish to apply for employment at, or volunteer for, an ATO;
   7. you may wish to provide services to an ATO; or
   8. you may enter a competition or promotion being conducted by an ATO.
@@ -142,22 +142,23 @@ _Web Beacons_
 
   1. to verify your identity and reduce the likelihood of duplications in IT Systems and Websites;
   2. to complete and retain background checks;
-  3. to maintain the Australian tennis rankings;
-  4. to provide you with products or services you have requested;
-  5. to provide you with information about relevant activities and opportunities;
-  6. to assist other ATOs;
-  7. to promote your business if you are a Tennis Australia Coach Member and have agreed to have your contact details listed on Tennis Australia’s Website and other promotional materials;
-  8. to develop, run, and administer existing and new competitions, programs, activities and other events;
-  9. to share relevant player information with the ITF, WTA, ATP, Australian Olympics Committee and other relevant bodies;
-  10. to organise medical treatment for players;
-  11. to administer, manage and improve the Websites and IT Systems and to provide you with access to those Websites and IT Systems;
-  12. to manage your relationship with ATOs;
-  13. to implement and administer Tennis Australia’s National Policies, copies of which are available on Tennis Australia’s website at <http://www.tennis.com.au/about-us/about-tennis-australia/policies>;
-  14. to disclose to other ATOs relevant information regarding your financial standing with an ATO, including whether or not you are a financial member;
-  15. to disclose to an ATO’s professional advisors, including accountants, auditors and lawyers, or insurers or insurance brokers, when considered necessary or appropriate;
-  16. to assist law enforcement bodies, when considered necessary or appropriate;
-  17. for direct marketing communications from an ATO in relation to products, services, event tickets, merchandise and special offers made available by either the same or another ATO or their respective corporate partners, licensees, sponsors, suppliers and broadcasters (who may, at times be outside Australia), where you have consented to receive such communications or would reasonably expect to receive such communications, and have not requested not to receive such communications. You will be able to opt-out of direct marketing at any time if you so choose, by utilizing the unsubscribe feature on electronic marketing communications, or in the case of other direct marketing materials contacting the ATO in accordance with Item 10 below; and
-  18. where permitted by an ATO, to enable third party corporate partners, licensees, sponsors, suppliers and broadcasters who have a relationship with an ATO (and who may, at times be outside Australia), to market and promote their products and services to you where you have consented to receive such communications or would reasonably expect to receive such communications, and have not requested not to receive such communications. You will be able to opt-out of direct marketing at any time if you so choose, by utilizing the unsubscribe feature on electronic marketing communications, or in the case of other direct marketing materials contacting the ATO in accordance with Item 10 below.
+  3. if you work in the tennis industry to provide prospective customers with your contact details;
+  4. to maintain the Australian tennis rankings;
+  5. to provide you with products or services you have requested;
+  6. to provide you with information about relevant activities and opportunities;
+  7. to assist other ATOs;
+  8. to promote your business if you are a Tennis Australia Coach Member and have agreed to have your contact details listed on Tennis Australia’s Website and other promotional materials;
+  9. to develop, run, and administer existing and new competitions, programs, activities and other events;
+  10. to share relevant player information with the ITF, WTA, ATP, Australian Olympics Committee and other relevant bodies;
+  11. to organise medical treatment for players;
+  12. to administer, manage and improve the Websites and IT Systems and to provide you with access to those Websites and IT Systems, and to provide you with the functionality those Websites and IT Systems enable, such as linking to and viewing the profiles of your family connections or viewing your competition schedule in Competition Planner;
+  13. to manage your relationship with ATOs;
+  14. to implement and administer Tennis Australia’s National Policies, copies of which are available on Tennis Australia’s website at <http://www.tennis.com.au/about-us/about-tennis-australia/policies>;
+  15. to disclose to other ATOs relevant information regarding your financial standing with an ATO, including whether or not you are a financial member;
+  16. to disclose to an ATO’s professional advisors, including accountants, auditors and lawyers, or insurers or insurance brokers, when considered necessary or appropriate;
+  17. to assist law enforcement bodies, when considered necessary or appropriate;
+  18. for direct marketing communications from an ATO in relation to products, including targeted online advertisements, services, event tickets, merchandise and special offers made available by either the same or another ATO or their respective corporate partners, licensees, sponsors, suppliers and broadcasters (who may, at times be outside Australia), where you have consented to receive such communications or would reasonably expect to receive such communications, and have not requested not to receive such communications. You will be able to opt-out of direct marketing at any time if you so choose, by utilizing the unsubscribe feature on electronic marketing communications, or in the case of other direct marketing materials contacting the ATO in accordance with Item 10 below; and
+  19. where permitted by an ATO, to enable third party corporate partners, licensees, sponsors, suppliers and broadcasters who have a relationship with an ATO (and who may, at times be outside Australia), to market and promote their products and services to you where you have consented to receive such communications or would reasonably expect to receive such communications, and have not requested not to receive such communications. You will be able to opt-out of direct marketing at any time if you so choose, by utilizing the unsubscribe feature on electronic marketing communications, or in the case of other direct marketing materials contacting the ATO in accordance with Item 10 below.
 
 
 
