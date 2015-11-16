@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the aruarose.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511164044id_/http%3A//www.aruarose.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aruarose.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116214537id_/http%3A//www.aruarose.com/privacy-policy) for the most accurate reproduction.*
 
 # ROSE Online - AruaROSE - Free to Play 3D Fantasy Anime MMORPG
-
-[](https://web.archive.org/home)
 
 Upon registering with AruaROSE, you are required to provide us with your First name, Last Name, Age, and personal Email Address. This information will be used to personalise your experience through the services we provide and we may send you regular personalised emails informing players of Events, News, Updates or other subjects to our choosing.
 
@@ -31,34 +29,3 @@ We may store cookies on your Internet Browser to make accessing services we prov
 ## Binding Agreement
 
 By the continued use of services provided by us, you are accepting practices set out by the Privacy Policy, and any other policies set out such as the [Account Policy](https://web.archive.org/register). Policies set before players may be ammended without prior notice and it is the players responsibility to check these regularly.
-
-> [Forgot Username or Password?](https://web.archive.org/forgot)
-
-> **FREE TO PLAY!** [Sign up now!](https://web.archive.org/register)
-
-[
-
-## FREE TO PLAY!
-
-Sign Up Now
-
-](https://web.archive.org/register) [
-
-## Download
-
-Free to Play MMORPG!
-
-](https://web.archive.org/game/download) [
-
-## Vote For Us
-
-Help our community grow!
-
-](https://web.archive.org/vote) [
-
-## Forum
-
-Join our community!
-
-](http://forum.aruarose.com/) [Follow @AruaOnline](https://twitter.com/AruaOnline)   
-
