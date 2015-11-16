@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the probioticamerica.com privacy policy that was archived on 2015-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150306215312id_/http%3A//probioticamerica.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the probioticamerica.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116034735id_/http%3A//probioticamerica.com/privacy.php) for the most accurate reproduction.*
 
 # Probiotic America | Privacy Policy
 
@@ -16,7 +16,7 @@ If users have opted out of all communication with the Website, or deleted/deacti
 
 ### Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/contact.php).
+If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/team.php).
 
 You may also contact us at:
 
@@ -128,7 +128,7 @@ Our Site includes Social Media Features, such as the Facebook and Twitter button
 
 We do not accept any paid advertisements on _Probiotic America, LLC_. Any services or products recommended and/or offered in the newsletter or elsewhere on _Probiotic America, LLC_ have gone through extensive review before such recommendations, and based on that review were recommended and/or offered.
 
-Google, as a third party vendor, uses cookies to serve ads on _Probiotic America, LLC_. Google's use of the DART cookie enables it to serve ads to _Probiotic America, LLC_ users based on their visit to _Probiotic America, LLC_ and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy
+Google, as a third party vendor, uses cookies to serve ads on _Probiotic America, LLC_. Google's use of the remarketing and analytics cookies enables them to serve ads to _Probiotic America, LLC_ users based on their visit to _Probiotic America, LLC_ and other sites on the Internet. Users may opt out of the use of the remarketing cookie by visiting the [Google ad and content network privacy policy preferences](http://www.google.com/settings/ads) or visiting [www.networkadvertising.org/choices/](https://web.archive.org/web/20151116034735id_/http%3A//probioticamerica.com/www.networkadvertising.org/choices/).
 
 ### Unsolicited Ideas
 
