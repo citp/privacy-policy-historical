@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the christianlouboutin.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518012547id_/http%3A//us.christianlouboutin.com/us_en/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianlouboutin.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116012440id_/http%3A//us.christianlouboutin.com/us_en/policy) for the most accurate reproduction.*
 
-# Privacy Policy US
+# Privacy Policy - Christian Louboutin Online Website
 
 This Site is intended for the personal use of individuals who reside in the United States interested in learning about the Company or purchasing Company products. This Site is not intended to attract or be used by minors under the age of 18 without verifiable parental consent, and the Company will not knowingly collect personal information from such visitors.
 
