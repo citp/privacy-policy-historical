@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appsmoment.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607070810id_/http%3A//appsmoment.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsmoment.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116132816id_/http%3A//www.appsmoment.com/privacy.html) for the most accurate reproduction.*
 
 # AppsMoment: Builder Application | Develop Iphone App | Ipad Publishing | App Maker android
 
@@ -61,11 +61,11 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.appsmoment.com/footer_terms.htm>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ http://appsmoment.com/termsofuse.html](http://appsmoment.com/termsofuse.html)
 
 **Refund Policy**
 
-If you are not 100% satisfied with your purchase, within 120 days from the purchase date, we will fully refund the cost of your order.
+If you are not 100% satisfied with your purchase, within 30 days from the purchase date, we will fully refund the cost of your order.
 
 **Your Consent**
 
