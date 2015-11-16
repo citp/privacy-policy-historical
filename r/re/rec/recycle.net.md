@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recycle.net privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315033417id_/http%3A//www.recycle.net/web/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recycle.net privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116045740id_/http%3A//www.recycle.net/web/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,3 +47,57 @@ Any changes to this Privacy Policy will be communicated through our posting an a
 #### Your Feedback 
 
 Recycler's World welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your [comments and responses](http://www.recycle.net/cgi-bin/feedback.cgi?w=01). 
+
+|  | 
+
+**About Us**
+
+  * [About RecycleNet](http://www.recyclenet.com/)
+  * [Privacy Policy](http://www.recycle.net/web/policy.html)
+  * [Website Feedback](http://www.recycle.net/cgi-bin/feedback1.cgi?w=01)
+  * [News (RecycleNet Blog)](http://www.recycle.net/blog/)
+
+| 
+
+**Site Links**
+
+  * [How to use this site](http://www.recycle.net/web/exchange.html)
+  * [Recycler's Exchange](http://www.recycle.net/exchange/)
+  
+(buy or sell)  
+
+  * [Price Information](http://www.recycle.net/price_reports.html)
+  * [Recycler's Directory](http://www.recycle.net/trade/)
+
+| 
+
+**Network Link**
+
+  * [Cooksmill NetSystems](http://www.cooksmill.com/)
+  * [Scrapindex.com](http://www.scrapindex.com/)
+  * [Cooksmill Network](http://www.cooksmill.net/)
+  * [ROCs](http://www.recycle.net/offsetcredits/revenue.html)
+Recycling Offset Credits 
+
+
+Sunday, 15-Nov-2015 05:11:34 EST  
+File No: 39998 
+
+| 
+
+**Services**
+
+  * [Membership](http://www.recycle.net/web)
+  * [Trader Access](http://www.recycle.net/web/basic-traderaccess.html)
+  * [Advertise](http://www.recycle.net/web/sponsor.html)
+  * [Pay Per Lead Credits](http://www.recycle.net/web/pplead_credits.html)
+  * [Price Subscriptions](http://www.trashinfo.com/)
+  * [NewsGroups](http://www.recycle.net/emf/)
+
+| 
+
+**Social Media**
+
+  
+[Follow @recyclersworld](https://twitter.com/recyclersworld) |   
+---|---|---|---|---|---|---
