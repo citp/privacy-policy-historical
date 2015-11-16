@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the familyshare.com privacy policy that was archived on 2015-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150625001135id_/http%3A//www.familyshare.com/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the familyshare.com privacy policy that was archived on 2015-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151116033655id_/http%3A//familyshare.com/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" lang="en"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+
+    
 
     
 <title>Privacy Statement</title>
@@ -10,32 +12,26 @@
 <meta name="fs_id" content="19374">
 
 
-<meta name="keywords" content="Parenting, All Parenting, Pregnancy, Baby &amp; Toddler, Kids 3-7, Kids 8-12, Teens, Develop Character, Activities &amp; Talents, School, Family Life, Marriage, Family Fun, Safety &amp; Crisis, Money Wise, Health, Addiction, Home Life, Personal Growth">
+<meta name="keywords" content="">
 <meta name="description" content="">
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
 
-<meta name="fb:app_id" content="544753952220995">
-<meta property="og:site_name" content="FamilyShare">
-
-<meta property="fb:admins" content="1245420028">
-
-<meta property="fb:admins" content="511082907">
-
-<meta property="fb:admins" content="511082907">
+<meta property="fb:app_id" content="544753952220995">
+<meta property="og:site_name" content="FamilyShare – Discover How to Improve Your Family Life and More">
 
 <meta property="og:title" content="Privacy Statement">
 <meta property="og:description" content="">
-<meta property="og:url" content="http://familyshare.com/privacy-statement">
+<meta property="og:url" content="http://www.familyshare.com/privacy-statement">
 <meta property="article:publisher" content="https://www.facebook.com/FamilyShare">
+<meta property="og:article:tag" content="">
 
-<meta property="og:image" content="http://familyshare.com/privacy-statement/images/logos/big_english.jpg">
-<meta property="og:image:url" content="http://familyshare.com/privacy-statement/images/logos/big_english.jpg">
+<meta property="og:image" content="http://www.familyshare.com/privacy-statement/images/logos/big_english.jpg">
+<meta property="og:image:url" content="http://www.familyshare.com/privacy-statement/images/logos/big_english.jpg">
 <meta property="og:image:type" content="image/jpeg">
 
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="system">
-
 
 
 
@@ -46,7 +42,7 @@
 <meta name="twitter:title" content="Privacy Statement">
 <meta name="twitter:image:src" content="/images/logos/small_english.png">
 <meta name="twitter:description" content="">
-<meta name="twitter:url" content="http://familyshare.com/privacy-statement">
+<meta name="twitter:url" content="http://www.familyshare.com/privacy-statement">
 
 
 
@@ -60,10 +56,10 @@
  
 
 <link rel="publisher" href="https://plus.google.com/102533323856166523330">
-<meta name="google-site-verification" content="{@options get='googlePlus.webmasterId' />
+<meta name="google-site-verification" content="">
 
 
-<link rel=" apple-touch-icon"="" href="/images/familyshare-ipad.png">
+<link rel="apple-touch-icon" href="/images/familyshare-ipad.png">
 <link rel="shortcut icon" href="/favicon.ico">
 <link rel="icon" type="image/x-icon" href="/favicon.ico">
 
@@ -74,10 +70,10 @@
 
 
 
-    <link rel="stylesheet" type="text/css" href="/familyshare-public.version-6636d4218c.css">
+    <link rel="stylesheet" type="text/css" href="/familyshare-public.version-37309b897f.css">
     <link href="http://fonts.googleapis.com/css?family=Roboto+Condensed:700" rel="stylesheet" type="text/css">
 
-    <script type="text/javascript" src="/familyshare-public.version-6636d4218c.js"></script>
+    <script type="text/javascript" src="/familyshare-public.version-37309b897f.js"></script>
     <script type="text/javascript" src="http://jwpsrv.com/library/VAjxaMSWEeKYtRIxOQulpA.js"></script>
 
   </head>
@@ -86,7 +82,7 @@
       // --- Detect device (choosing design type) ---
       var md = new MobileDetect(window.navigator.userAgent),
         isMobileDevice = md.mobile() || md.phone() || md.tablet(),
-        isMobileResolution = (screen.width < 660 || screen.height < 660)
+        isMobileResolution = (screen.width < 660 || screen.height < 660),
         isMobile = (isMobileDevice && isMobileResolution) || md.phone();
 /*
       if (isMobile) {
@@ -120,7 +116,11 @@
     c1: "2",
     c2: "16033947"
   });
-  fs.addScript('.scorecardresearch.com/beacon.js', 'b', 'sb');
+  fs.addScript({
+    host: '.scorecardresearch.com/beacon.js', 
+    http: 'b', 
+    https: 'sb'
+  });
 
   /* --- Quantcast --- */
   var _qevents = _qevents || [];
@@ -128,14 +128,22 @@
     qacct: "p-KUMT4fYgcdEeg",
     labels: "ddmnetwork.family.familyshare, admazingnetwork.familyshare"
   });
-  fs.addScript('.quantserve.com/quant.js', 'edge', 'secure');
+  fs.addScript({
+    host: '.quantserve.com/quant.js', 
+    http: 'edge', 
+    https: 'secure'
+  });
 
   /* --- Google Analytics --- */
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', "UA-34553454-1"]);
   _gaq.push(['_setDomainName', "familyshare.com"]);
   _gaq.push(['_trackPageview']);
-  fs.addScript('.google-analytics.com/ga.js', 'www', 'ssl');
+  fs.addScript({
+    host: '.google-analytics.com/ga.js', 
+    http: 'www', 
+    https: 'ssl'
+  });
 
   // /* --- Mouseflow --- */
   /*
@@ -143,20 +151,47 @@
   fs.addScript("//cdn.mouseflow.com/projects/53c2d7f2-a74b-4297-84b2-de4b0a72a7ad.js");
   */
 
-  /* --- Facebook Connect --- */
-  fs.addScript("//connect.facebook.net/"
-    + "en_US" + "/sdk.js"
-    + "#xfbml=1"
-    + "&version=v2.0"
-    + "&appId=544753952220995"
-  );
+  /* --- Facebook Tracking Pixel --- */
+  if (!window.fbq) {
+    var n = window.fbq = function() {
+      n.callMethod
+        ? n.callMethod.apply(n,arguments)
+        : n.queue.push(arguments)
+    };
+    if (!window._fbq) {
+      window._fbq = n;
+    }
+    n.push = n;
+    n.loaded = !0;
+    n.version = '2.0';
+    n.queue = [];
+
+    n('init', "1442393559400045");
+    n('track', 'PageView');
+
+    fs.addScript("//connect.facebook.net/en/fbevents.js");
+  }
+
+  /* --- Facebook SDK --- */
+  fs.addScript({
+    host: "//connect.facebook.net/"
+      + "en_"
+      + "US"
+      + "/sdk.js#xfbml=1&version=v2.4&appId="
+      + "544753952220995",
+    id: 'facebook-jssdk'
+  });
 
   /* --- Cxense --- */
   var cX = cX || {};
   cX.callQueue = cX.callQueue || [];
   cX.callQueue.push(['setSiteId', "9222351225579862887"]);
   cX.callQueue.push(['sendPageViewEvent']);
-  fs.addScript('.cxense.com/cx.js', 'cdn', 'scdn');
+  fs.addScript({
+    host: '.cxense.com/cx.js', 
+    http: 'cdn', 
+    https: 'scdn'
+  });
 
   /* --- Google DFP Ads --- */
   var googletag = googletag || {};
@@ -166,12 +201,47 @@
   /* --- Adroll --- */
   var adroll_adv_id = "33AOMZPVWZGF3F4LWSAXMF";
   var adroll_pix_id = "EYTTPJH2IVEZTGAZYPJFIW";
-  fs.addScript('.adroll.com/j/roundtrip.js', 'a', 's');
+  fs.addScript({
+    host: '.adroll.com/j/roundtrip.js', 
+    http: 'a', 
+    https: 's'
+  });
+
+  /* --- Adobe Omniture --- */
+  var s       = s_gi("ddmfamilyshare");
+  s.pageName  = "Privacy Statement"
+  s.server    = "fsweb03";
+  s.channel   = "FamilyShare";
+  s.eVar1     = "english";
+  s.eVar2     = "";
+  s.eVar11    = "";
+  s.eVar12    = "19374";
+  s.eVar13    = "Privacy Statement";
+  s.eVar14    = "";
+  s.eVar15    = "";
+
+  var s_code = s.t();
+
+  if (s_code) {
+    document.write(s_code);
+  }
+
+  /* --- PageFair --- */
+  /*
+  
+  var bm_website_code = "F0304ED4A2694297";
+  fs.addScript('//asset.pagefair.com/measure.min.js');
+  fs.addScript('//asset.pagefair.net/ads.min.js');
+  
+  */
 
 </script>
 <noscript>
+  <img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1442393559400045&ev=PageView&noscript=1"
+/>
   <img src="http://b.scorecardresearch.com/p?c1=2&c2=16033947&cv=2.0&cj=1" border="0" height="1" width="1" alt="Comscore" />
-  <img src="//pixel.quantserve.com/pixel/p-KUMT4fYgcdEeg.gif?labels=ddmnetwork.family.familyshare, admazingnetwork.familyshare" border="0" height="1" width="1" alt="Quantcast" />
+  <img src="//pixel.quantserve.com/pixel/p-KUMT4fYgcdEeg.gif?labels=ddmnetwork.family.familyshare%2C%20admazingnetwork.familyshare" border="0" height="1" width="1" alt="Quantcast" />
 </noscript>
 
     
@@ -351,10 +421,10 @@
     
     <li>
       <div>
-        <a data-event="thumb/0/20253/19374/defer" href="/marriage/is-he-in-love-with-you-here-are-7-ways-you-can-tell">
-          <img class="media-thumb" src="https://media.deseretdigital.com/file/dd8e7c9481.jpg?crop=top_0~left_0~width_1000~height_664&amp;resize=width_125~height_83&amp;c=2&amp;a=cefcf154">
+        <a data-event="thumb/0/22661/19374/defer" href="/marriage/13-signs-you-have-the-best-husband-ever">
+          <img src="https://media.deseretdigital.com/file/97dcbc4153.jpg?crop=top_156~left_0~width_4000~height_2656&amp;resize=width_125~height_83&amp;c=2&amp;a=954e30ec" width="125" height="83" class="embed-photo media-thumb" data-hash="97dcbc4153">
           <div class="desc">
-            <span>Is he in love with you? Here are 7 ways you can tell</span>
+            <span>13 signs you have the best husband ever</span>
           </div>
         </a>
       </div>
@@ -362,10 +432,10 @@
     
     <li>
       <div>
-        <a data-event="thumb/1/19963/19374/defer" href="/family/5-ways-adult-children-hurt-their-parents-without-realizing-it">
-          <img class="media-thumb" src="https://media.deseretdigital.com/file/16a4a02024.jpg?crop=top_274~left_0~width_668~height_443&amp;resize=width_125~height_83&amp;c=2&amp;a=cbbfb400">
+        <a data-event="thumb/1/22680/19374/defer" href="/faith/top-5-regrets-of-those-who-are-dying">
+          <img src="https://media.deseretdigital.com/file/1f5db92168.jpg?crop=top_1~left_0~width_1000~height_664&amp;resize=width_125~height_83&amp;c=2&amp;a=94f2058b" width="125" height="83" class="embed-photo media-thumb" data-hash="1f5db92168">
           <div class="desc">
-            <span>5 ways adult children hurt their parents without realizing it</span>
+            <span>Top 5 regrets of those who are dying</span>
           </div>
         </a>
       </div>
@@ -373,10 +443,10 @@
     
     <li>
       <div>
-        <a data-event="thumb/2/2799/19374/defer" href="/parenting/12-ways-to-be-the-meanest-mom-in-the-world">
-          <img class="media-thumb" src="https://media.deseretdigital.com/file/37f1cf6984.jpg?crop=top_0~left_0~width_1000~height_664&amp;resize=width_125~height_83&amp;c=2&amp;a=cefcf154">
+        <a data-event="thumb/2/22609/19374/defer" href="/marriage/7-bedtime-habits-that-will-salvage-your-marriage">
+          <img src="https://media.deseretdigital.com/file/492ebe6619.jpg?crop=top_1~left_0~width_1000~height_664&amp;resize=width_125~height_83&amp;c=2&amp;a=94f2058b" width="125" height="83" class="embed-photo media-thumb" data-hash="492ebe6619">
           <div class="desc">
-            <span>12 ways to be the meanest mom in the world</span>
+            <span>7 bedtime habits that will salvage your marriage</span>
           </div>
         </a>
       </div>
@@ -384,10 +454,10 @@
     
     <li>
       <div>
-        <a data-event="thumb/3/21602/19374/defer" href="/marriage/10-things-a-woman-should-never-tell-anyone-about-her-husband">
-          <img class="media-thumb" src="https://media.deseretdigital.com/file/c77b5c8635.jpg?crop=top_1~left_0~width_1000~height_664&amp;resize=width_125~height_83&amp;c=2&amp;a=94f2058b">
+        <a data-event="thumb/3/22676/19374/defer" href="/marriage/5-ways-to-keep-your-husband-permanently-in-love-with-you">
+          <img src="https://media.deseretdigital.com/file/21fb715238.jpg?crop=top_0~left_0~width_1000~height_664&amp;resize=width_125~height_83&amp;c=2&amp;a=cefcf154" width="125" height="83" class="embed-photo media-thumb" data-hash="21fb715238">
           <div class="desc">
-            <span>10 things a woman should never tell anyone about her husband</span>
+            <span>5 ways to keep your husband permanently in love with you</span>
           </div>
         </a>
       </div>
@@ -395,10 +465,10 @@
     
     <li>
       <div>
-        <a data-event="thumb/4/21609/19374/defer" href="/parenting/what-happy-moms-do-that-angry-moms-dont">
-          <img class="media-thumb" src="https://media.deseretdigital.com/file/81415f4436.jpg?crop=top_5~left_0~width_1000~height_664&amp;resize=width_125~height_83&amp;c=2&amp;a=3b9bb08b">
+        <a data-event="thumb/4/2734/19374/defer" href="/marriage/5-ways-to-give-your-husband-love">
+          <img src="https://media.deseretdigital.com/file/a03db28298.jpg?crop=top_38~left_0~width_1000~height_664&amp;resize=width_125~height_83&amp;c=2&amp;a=9e4854fd" width="125" height="83" class="embed-photo media-thumb" data-hash="a03db28298">
           <div class="desc">
-            <span>What happy moms do that angry moms don't</span>
+            <span>5 ways to give your husband love</span>
           </div>
         </a>
       </div>
@@ -406,10 +476,10 @@
     
     <li>
       <div>
-        <a data-event="thumb/5/21587/19374/defer" href="/faith/news-sources-wont-tell-the-true-reason-these-teens-survived-a-tragedy-but-this-is-the-real-story">
-          <img class="media-thumb" src="https://media.deseretdigital.com/file/044f895913.jpg?crop=top_399~left_0~width_2292~height_1521&amp;resize=width_125~height_83&amp;c=2&amp;a=d5a50da5">
+        <a data-event="thumb/5/19527/19374/defer" href="/marriage/10-things-a-man-should-never-say-to-his-pregnant-wife">
+          <img src="https://media.deseretdigital.com/file/3ccdfd1405.jpg?crop=top_0~left_14~width_968~height_643&amp;resize=width_125~height_83&amp;c=2&amp;a=b02562ab" width="125" height="83" class="embed-photo media-thumb" data-hash="3ccdfd1405">
           <div class="desc">
-            <span>News sources won’t tell the true reason these teens survived a tragedy, but this is the real story</span>
+            <span>10 things a man should never say to his pregnant wife</span>
           </div>
         </a>
       </div>
@@ -417,10 +487,10 @@
     
     <li>
       <div>
-        <a data-event="thumb/6/21614/19374/defer" href="/parenting/DelSol-5-ways-you-are-hurting-your-children-this-summer-and-dont-even-know-it">
-          <img class="media-thumb" src="https://media.deseretdigital.com/file/9209fb4946.jpg?crop=top_2~left_0~width_1600~height_1062&amp;resize=width_125~height_83&amp;c=2&amp;a=a60c79ae">
+        <a data-event="thumb/6/19533/19374/defer" href="/parenting/dear-mom-who-feels-like-she-wants-to-quit">
+          <img src="https://media.deseretdigital.com/file/f4afdb6531.jpg?crop=top_1~left_0~width_1200~height_796&amp;resize=width_125~height_83&amp;c=2&amp;a=a39130d9" width="125" height="83" class="embed-photo media-thumb" data-hash="f4afdb6531">
           <div class="desc">
-            <span>5 ways you are hurting your children this summer and don't even know it</span>
+            <span>Dear mom who feels like she wants to quit</span>
           </div>
         </a>
       </div>
@@ -428,10 +498,10 @@
     
     <li>
       <div>
-        <a data-event="thumb/7/21595/19374/defer" href="/marriage/9-ways-to-stay-best-friends-with-your-forever">
-          <img class="media-thumb" src="https://media.deseretdigital.com/file/c48d208982.jpg?crop=top_0~left_4~width_990~height_658&amp;resize=width_125~height_83&amp;c=2&amp;a=b6ebc276">
+        <a data-event="thumb/7/22572/19374/defer" href="/marriage/12-causes-of-stress-in-marriage">
+          <img src="https://media.deseretdigital.com/file/6f2cbc9678.jpg?crop=top_1~left_0~width_1000~height_664&amp;resize=width_125~height_83&amp;c=2&amp;a=94f2058b" width="125" height="83" class="embed-photo media-thumb" data-hash="6f2cbc9678">
           <div class="desc">
-            <span>9 ways to stay best friends with your forever</span>
+            <span>12 causes of stress in marriage</span>
           </div>
         </a>
       </div>
@@ -444,67 +514,77 @@
 
 
 
-<div class="page " itemscope="" itemtype="http://schema.org/Article">
-  
-  <div class="article">
 
+
+
+
+
+
+  <div class="page " itemscope="" itemtype="http://schema.org/Article">
     
-    
+    <div class="article">
+
       
-    
+      
 
-    
-    
+      
+      
 
-    
-    <h1 itemprop="name">Privacy Statement</h1>
+      
+      <h1 itemprop="name" data-path="/privacy-statement" data-id="19374">Privacy Statement</h1>
 
-    
-    <div class="tease" itemprop="description"></div>
+      
+      <div class="tease" itemprop="description"></div>
 
-    
-    
+      
+      
 
-    
-    
+      
+      
 
-    
-    <ul class="content"><li></li><li><h2>General</h2><p>This website (the “Site”) is operated by Deseret Digital Media, Inc. ("Operator"). The following Privacy Statement (the "Statement") supplements the Terms of Use posted elsewhere at the Site. By using the Site, you agree to be bound by all of the terms, conditions and notices contained or referenced in the Statement or the Terms of Use. You should review the Statement and the Terms of Use from time to time. Operator may change any portion of the Statement or the Terms of Use at any time without notice by posting revisions to the Site. Your continued use of the Site constitutes your acceptance of the revised Statement and the Terms of Use. If you do not accept all of the terms and conditions set forth in the Statement and the Terms of Use, you must exit the Site immediately.</p>
-</li><li><h2>Registration</h2><p>The area of the Site that allows you to "sign in" or register is intended for individuals who are at least 13 years old. To "sign in" or register, you must provide your email address, create a password and confirm that you are at least 13 years old. YOU ARE NOT REQUIRED TO "SIGN IN" OR REGISTER TO USE THE SITE. THE DECISION TO "SIGN IN" OR REGISTER IS ENTIRELY VOLUNTARY ON YOUR PART AND IS MADE AT YOUR SOLE DISCRETION.</p>
-</li><li><h2>What Information is Collected</h2><p>Operator collects information both actively and passively. For example, Operator will collect information about you that you voluntarily provide on the Site. In addition to information provided directly by you, Operator and third parties with features at the Site may collect aggregate information through the use of "cookies" or by other electronic means. In general, a cookie is a small amount of data sent to your browser from a web server and stored on your computer’s hard drive. With most browsers or other software, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. You can refer to the instructions for your browser to learn more about these functions. If you choose to reject cookies, the Site likely will not operate as efficiently for you.</p>
-</li><li><h2>No Information from Children under the Age of 13</h2><p>Operator does not knowingly collect personal information from children under the age of 13 and does not wish to collect any such information. If Operator becomes aware that it has collected personal information from a child under the age of 13, Operator will delete the information immediately.</p>
-</li><li><h2>Ownership and Use of Information</h2><p>Any information collected by Operator in connection with your use of the Site, regardless of whether collected actively or passively, will belong exclusively to Operator and may be used, maintained, updated OR disclosed by Operator as desired in its sole discretion. <strong>OPERATOR MAY CHOOSE TO DISCLOSE NONPUBLIC PERSONAL INFORMATION ABOUT YOU, THE CONSUMER, TO A THIRD PARTY FOR COMPENSATION.</strong></p>
-</li><li><h2>Links to Third Party Sites</h2><p>The Site may contain links to websites operated by third parties. These links do not constitute or imply an endorsement of any linked site. The linked sites may appear to be integrated into the Site, but are not under Operator’s control. Operator is not responsible for the operation or content of any linked site or subsequent links from that site. The policies that govern the use of a linked site will differ from Operator’s policies. You should review the policies of a linked site before making a decision to use that site.</p>
-</li><li><h2>Contact Information</h2><p>Direct all questions or requests concerning the Statement or the Site to <a href="mailto:support@familyshare.com" rel="nofollow" target="_blank" data-event="content/0/0/19374/tab">support@familyshare.com</a></p>
-</li></ul>
+      
+      
+        
+        
+      
 
-    
-    
+      
+      
 
-    
-    
+      
+      <ul class="content"><li></li><li><h2>General</h2><p>This website (the “Site”) is operated by Deseret Digital Media, Inc. ("Operator"). The following Privacy Statement (the "Statement") supplements the Terms of Use posted elsewhere at the Site. By using the Site, you agree to be bound by all of the terms, conditions and notices contained or referenced in the Statement or the Terms of Use. You should review the Statement and the Terms of Use from time to time. Operator may change any portion of the Statement or the Terms of Use at any time without notice by posting revisions to the Site. Your continued use of the Site constitutes your acceptance of the revised Statement and the Terms of Use. If you do not accept all of the terms and conditions set forth in the Statement and the Terms of Use, you must exit the Site immediately.</p></li><li><h2>Registration</h2><p>The area of the Site that allows you to "sign in" or register is intended for individuals who are at least 13 years old. To "sign in" or register, you must provide your email address, create a password and confirm that you are at least 13 years old. YOU ARE NOT REQUIRED TO "SIGN IN" OR REGISTER TO USE THE SITE. THE DECISION TO "SIGN IN" OR REGISTER IS ENTIRELY VOLUNTARY ON YOUR PART AND IS MADE AT YOUR SOLE DISCRETION.</p></li><li><h2>What Information is Collected</h2><p>Operator collects information both actively and passively. For example, Operator will collect information about you that you voluntarily provide on the Site. In addition to information provided directly by you, Operator and third parties with features at the Site may collect aggregate information through the use of "cookies" or by other electronic means. In general, a cookie is a small amount of data sent to your browser from a web server and stored on your computer’s hard drive. With most browsers or other software, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. You can refer to the instructions for your browser to learn more about these functions. If you choose to reject cookies, the Site likely will not operate as efficiently for you.</p></li><li><h2>No Information from Children under the Age of 13</h2><p>Operator does not knowingly collect personal information from children under the age of 13 and does not wish to collect any such information. If Operator becomes aware that it has collected personal information from a child under the age of 13, Operator will delete the information immediately.</p></li><li><h2>Ownership and Use of Information</h2><p>Any information collected by Operator in connection with your use of the Site, regardless of whether collected actively or passively, will belong exclusively to Operator and may be used, maintained, updated OR disclosed by Operator as desired in its sole discretion. <strong>OPERATOR MAY CHOOSE TO DISCLOSE NONPUBLIC PERSONAL INFORMATION ABOUT YOU, THE CONSUMER, TO A THIRD PARTY FOR COMPENSATION.</strong></p></li><li><h2>Links to Third Party Sites</h2><p>The Site may contain links to websites operated by third parties. These links do not constitute or imply an endorsement of any linked site. The linked sites may appear to be integrated into the Site, but are not under Operator’s control. Operator is not responsible for the operation or content of any linked site or subsequent links from that site. The policies that govern the use of a linked site will differ from Operator’s policies. You should review the policies of a linked site before making a decision to use that site.</p></li><li><h2>Contact Information</h2><p>Direct all questions or requests concerning the Statement or the Site to <a href="mailto:support@familyshare.com" data-event="content/0/0/0/">support@familyshare.com</a></p></li></ul>
+
+      
+      
+
+      
+      
   
 
 
-    <div style="clear: both;"></div>
+      <div style="clear: both;"></div>
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+    </div>
 
     
     
-
-    
-    
-
-  </div>
-
-  
-  
   
     <div class="page-author">
       <a href="/authors/privacy-statement"></a>
       <h3 itemprop="author"><a href="/authors/privacy-statement"></a></h3>
       <p>
-        
-          
         
       </p>
       
@@ -512,46 +592,66 @@
   
 
 
+    
+    
+      
+      
+      
+    
+
+    
+    
+
+    
+
+    
+    
+  </div>
+
   
   
-    
-    
-    
-  
+  <div class="page-features">
+    <div class="page-feature">
 
-  
-  
+      
+        
+      
 
-  
+      
+      
 
-  
-</div>
+      
+      
 
+       
+      
+      <div class="article-ad">
+        <span class="ad-label ad-desktop">Advertisement</span><div id="dfp-slot-1" class="ad-dfp-slot" style="width:300px; height:250px;"><script type="text/javascript"> if (!isMobile) { googletag.cmd.push(function() { googletag.defineSlot("/6686/ddm.familyshare.com/homepage",[300,250],"dfp-slot-1").addService(googletag.pubads()).setTargeting("pos","right").setTargeting("article-id",19374); googletag.enableServices(); googletag.display("dfp-slot-1"); }); } else { $("#dfp-slot-1").hide(); } </script></div><div class="ad-options"><a href="#" onclick="return fs.widget('fsAdsReportWidget', this);" style="float: right;">Report this ad</a></div>
+      </div>
+      
 
-
-<div class="page-features">
-  <div class="page-feature">
-
-    
-
-    
-    
-
-    
-    
-
-    
-    <div id="features">
+      
+      <div id="features">
   <ul>
     
   </ul>
 </div>
 
-    
-    
-    <div id="fsFeatureWidget" class="fsWidget">
+      
+      
+        
+        <div id="fsFeatureWidget" class="fsWidget">
   <div class="title">Join millions worldwide<span>on the path to become a stronger family</span></div>
-  <a href="/login/facebook" rel="nofollow" class="facebook">Sign up with Facebook</a>
+  
+  <a href="/login/facebook" rel="nofollow" class="facebook2">
+    <div class="fb-icon-container">
+      <span class="fb-icon"></span>
+    </div>
+    <span class="fs-login-title">Sign up with Facebook</span>
+    <span class="fs-login-arrow">
+      <span class="glyphicon glyphicon-play" aria-hidden="true"></span>
+    </span>
+  </a>
   <div class="ordivide">-------------------------- or --------------------------</div>
   <form action="/signup" method="post" autocomplete="off">
     <input type="text" name="fullname" data-mark="Full Name">
@@ -562,88 +662,101 @@
     <div class="newsletter"><input type="checkbox" name="newsletter" checked=""><span>Keep me updated via email</span></div>
   </form>
 </div>
-    
+        
+      
 
-    
-    <div class="top-pages-wrapper" style="margin-bottom: 30px; width: 300px;">
-    
+      
+      
+        <div class="top-pages-wrapper" style="margin-bottom: 30px; width: 300px;">
+        
   <div class="top-pages">
     <div class="h3">Top Trending Articles</div>
     <ol>
     
-      <li><a data-event="trending/0/20253/19374/defer" href="/marriage/is-he-in-love-with-you-here-are-7-ways-you-can-tell">Is he in love with you? Here are 7 ways you can tell</a></li>
+      <li><a data-event="trending/0/22661/19374/defer" href="/marriage/13-signs-you-have-the-best-husband-ever">13 signs you have the best husband ever</a></li>
     
-      <li><a data-event="trending/1/19963/19374/defer" href="/family/5-ways-adult-children-hurt-their-parents-without-realizing-it">5 ways adult children hurt their parents without realizing it</a></li>
+      <li><a data-event="trending/1/22680/19374/defer" href="/faith/top-5-regrets-of-those-who-are-dying">Top 5 regrets of those who are dying</a></li>
     
-      <li><a data-event="trending/2/2799/19374/defer" href="/parenting/12-ways-to-be-the-meanest-mom-in-the-world">12 ways to be the meanest mom in the world</a></li>
+      <li><a data-event="trending/2/22609/19374/defer" href="/marriage/7-bedtime-habits-that-will-salvage-your-marriage">7 bedtime habits that will salvage your marriage</a></li>
     
-      <li><a data-event="trending/3/21602/19374/defer" href="/marriage/10-things-a-woman-should-never-tell-anyone-about-her-husband">10 things a woman should never tell anyone about her husband</a></li>
+      <li><a data-event="trending/3/22676/19374/defer" href="/marriage/5-ways-to-keep-your-husband-permanently-in-love-with-you">5 ways to keep your husband permanently in love with you</a></li>
     
-      <li><a data-event="trending/4/21609/19374/defer" href="/parenting/what-happy-moms-do-that-angry-moms-dont">What happy moms do that angry moms don't</a></li>
+      <li><a data-event="trending/4/2734/19374/defer" href="/marriage/5-ways-to-give-your-husband-love">5 ways to give your husband love</a></li>
     
-      <li><a data-event="trending/5/21587/19374/defer" href="/faith/news-sources-wont-tell-the-true-reason-these-teens-survived-a-tragedy-but-this-is-the-real-story">News sources won’t tell the true reason these teens survived a tragedy, but this is the real story</a></li>
+      <li><a data-event="trending/5/19527/19374/defer" href="/marriage/10-things-a-man-should-never-say-to-his-pregnant-wife">10 things a man should never say to his pregnant wife</a></li>
     
-      <li><a data-event="trending/6/21614/19374/defer" href="/parenting/DelSol-5-ways-you-are-hurting-your-children-this-summer-and-dont-even-know-it">5 ways you are hurting your children this summer and don't even know it</a></li>
+      <li><a data-event="trending/6/19533/19374/defer" href="/parenting/dear-mom-who-feels-like-she-wants-to-quit">Dear mom who feels like she wants to quit</a></li>
     
-      <li><a data-event="trending/7/21595/19374/defer" href="/marriage/9-ways-to-stay-best-friends-with-your-forever">9 ways to stay best friends with your forever</a></li>
+      <li><a data-event="trending/7/22572/19374/defer" href="/marriage/12-causes-of-stress-in-marriage">12 causes of stress in marriage</a></li>
     
     </ol>
   </div>
 
-    </div>
+        </div>
+      
 
-     
-    
-    <div class="article-ad">
-      <span class="ad-label ad-desktop">Advertisement</span><div id="dfp-slot-1" style="width:300px; height:250px;"><script type="text/javascript"> if (!isMobile) { googletag.cmd.push(function() { googletag.defineSlot("/6686/ddm.familyshare.com/homepage",[300,250],"dfp-slot-1").addService(googletag.pubads()).setTargeting("pos","right").setTargeting("article-id",19374); googletag.enableServices(); googletag.display("dfp-slot-1"); }); } else { $("#dfp-slot-1").hide(); } </script></div>
     </div>
-    
+  </div>
+  
+
+
+
+
+
+
+
+
+<div id="fsSocialEmailWidget" class="fsModality mobile-adopted fsSocialEmailWidget" style="display: none">
+  <div class="modal-wrapper">
+    <div class="h2">Email This To A Friend</div>
+    <span class="glyphicon glyphicon-remove cancel" onclick="$.fn.fsCloseModal();" aria-hidden="true"></span>
+    <form method="post" action="/share/email" autocomplete="off">
+      <input type="hidden" name="token">
+      <input type="hidden" name="photo">
+      
+      <input type="hidden" name="pageName" id="pageName" value="privacy-statement">
+      
+      <input type="text" name="friendEmail" data-mark="Friend’s email (separate with comma)">
+      <input type="text" name="myEmail" data-mark="Your email">
+      <textarea dir="auto" data-mark="Your message" rows="5" name="message">        I saw this article and thought you might be interested!
+      </textarea>
+
+      <input type="button" class="btn-medium" id="submitBtn" value="Send it" data-active="Sending">
+    </form>
 
   </div>
 </div>
 
-
-
-<div>
-  <script type="text/javascript">
-  var RecaptchaOptions = {
-    theme : 'white',
-    lang  : 'en',
-    tabindex : 2
-  };
-</script>
-<div class="pageFeedbackWrapper">
-  <div id="fsPageFeedBackWidget" class="fsWidget">
-    <div class="fsPageFeedBackPositioning">
-      <div class="pageFeedbackContainer">
-        <div class="feedbackHeader">
-          <span class="feedbackBtn">
-            <span class="feedbackIcon"></span>
-            <span class="delimiter"></span>
-            <span class="feedbackLabel">Feedback</span>
-          </span>
-        </div>
-        <div class="feedbackBody">
-          <div class="h3">Tell us your opinion</div>
-          <textarea id="feedbackMessage" rows="15"></textarea>
-          <input type="text" id="feedbackEmail" class="feedbackEmail" placeholder="Email address">
           
-          <input type="hidden" id="pageName" value="privacy-statement">
-          <input type="hidden" id="pageTitle" value="Privacy Statement">
-          
-          <script type="text/javascript" src="http://www.google.com/recaptcha/api/challenge?k=6Lcjm_cSAAAAAOsvPxO9XBBH_c1GZ9B1y02D4-nj"></script><noscript><iframe src="http://www.google.com/recaptcha/api/noscript?k=6Lcjm_cSAAAAAOsvPxO9XBBH_c1GZ9B1y02D4-nj" height="300" width="500" frameborder="0"></iframe><br><textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea><input type="hidden" name="recaptcha_response_field" value="manual_challenge"></noscript>
-          <div class="btn-container">
-            <span class="error-message"></span><input type="button" id="postFeedbackBtn" value="Submit">
-          </div>
+          <div id="fsPageFeedBackWidget" class="fsPageFeedBackWidget fsWidget">
+  <div class="fsPageFeedBackPositioning">
+    <div class="pageFeedbackContainer">
+      <div class="feedbackHeader">
+        <span class="feedbackBtn">
+          <span class="feedbackIcon"></span>
+          <span class="delimiter"></span>
+          <span class="feedbackLabel">Feedback</span>
+        </span>
+      </div>
+      <div class="feedbackBody">
+        <div class="h3">Tell us your opinion</div>
+        <textarea id="feedbackMessage" rows="15"></textarea>
+        <input type="text" id="feedbackEmail" class="feedbackEmail" placeholder="Email address">
+        
+        <input type="hidden" id="pageName" value="privacy-statement">
+        <input type="hidden" id="pageTitle" value="Privacy Statement">
+        
+        <div class="btn-container">
+          <span class="error-message"></span><input type="button" id="postFeedbackBtn" value="Submit">
         </div>
       </div>
     </div>
-
   </div>
-</div>
-
 
 </div>
+
+          
+
           <div class="content-bottom">&nbsp;</div>
         </div>
 
@@ -652,119 +765,69 @@
 
   <ul class="social">
     
+
     <li>
-      <a target="_blank" rel="nofollow" href="https://www.facebook.com/familyshare">
+      <a target="_blank" rel="nofollow" href="/social/summary">
         <div class="s-facebook">&nbsp;</div>
-        <div class="h3">Facebook<span>Like Us</span></div>
+        <div class="h3">Facebook<span>Follows</span></div>
       </a>
       <table>
-        
-          
-          <tbody><tr><td>6,147,181</td><td>Likes</td></tr>
-          
-        
-          
-        
-          
-          <tr><td>1,506,225</td><td>Talking</td></tr>
-          
-        
+        <tbody><tr><td>104,149,751</td></tr>
       </tbody></table>
     </li>
     
+
     <li>
-      <a target="_blank" rel="nofollow" href="http://twitter.com/familyshare">
+      <a target="_blank" rel="nofollow" href="/social/summary">
         <div class="s-twitter">&nbsp;</div>
-        <div class="h3">Twitter<span>@familyshare</span></div>
+        <div class="h3">Twitter<span>Follows</span></div>
       </a>
       <table>
-        
-          
-          <tbody><tr><td>1,108</td><td>Tweets</td></tr>
-          
-        
-          
-          <tr><td>29,642</td><td>Followers</td></tr>
-          
-        
-          
-        
+        <tbody><tr><td>3,076,872</td></tr>
       </tbody></table>
     </li>
     
+
     <li>
-      <a target="_blank" rel="nofollow" href="http://pinterest.com/familyshare">
+      <a target="_blank" rel="nofollow" href="/social/summary">
         <div class="s-pinterest">&nbsp;</div>
-        <div class="h3">Pinterest<span>Pin Us</span></div>
+        <div class="h3">Pinterest<span>Follows</span></div>
       </a>
       <table>
-        
-          
-        
-          
-          <tbody><tr><td>9,299</td><td>Pins</td></tr>
-          
-        
-          
-        
-          
-          <tr><td>69,089</td><td>Followers</td></tr>
-          
-        
-          
-        
+        <tbody><tr><td>430,969</td></tr>
       </tbody></table>
     </li>
     
+
     <li>
-      <a target="_blank" rel="nofollow" href="http://instagram.com/familyshare">
+      <a target="_blank" rel="nofollow" href="/social/summary">
         <div class="s-instagram">&nbsp;</div>
-        <div class="h3">Instagram<span>Follow Us</span></div>
+        <div class="h3">Instagram<span>Follows</span></div>
       </a>
       <table>
-        
-          
-          <tbody><tr><td>590</td><td>Posts</td></tr>
-          
-        
-          
-          <tr><td>1,255</td><td>Followers</td></tr>
-          
-        
-          
-        
+        <tbody><tr><td>26,253</td></tr>
       </tbody></table>
     </li>
     
+
     <li>
-      <a target="_blank" rel="nofollow" href="http://www.youtube.com/familysharecom">
+      <a target="_blank" rel="nofollow" href="/social/summary">
         <div class="s-youtube">&nbsp;</div>
-        <div class="h3">YouTube<span>Subscribe</span></div>
+        <div class="h3">Youtube<span>Follows</span></div>
       </a>
       <table>
-        
-          
-          <tbody><tr><td>5,701</td><td>Subscribers</td></tr>
-          
-        
+        <tbody><tr><td>12,805</td></tr>
       </tbody></table>
     </li>
     
+
     <li>
-      <a target="_blank" rel="nofollow" href="https://plus.google.com/102533323856166523330/posts">
-        <div class="s-google">&nbsp;</div>
-        <div class="h3">Google+<span>Join Circle</span></div>
+      <a target="_blank" rel="nofollow" href="/social/summary">
+        <div class="s-googlePlus">&nbsp;</div>
+        <div class="h3">Google+<span>Follows</span></div>
       </a>
       <table>
-        
-          
-          <tbody><tr><td>607</td><td>Members</td></tr>
-          
-        
-          
-          <tr><td>415</td><td>Member of</td></tr>
-          
-        
+        <tbody><tr><td>6,825</td></tr>
       </tbody></table>
     </li>
     
@@ -853,7 +916,16 @@
     </form>
 
     <div class="divider"></div>
-    <a href="/login/facebook" rel="nofollow" class="facebook">Login with Facebook</a>
+    
+    <a href="/login/facebook" rel="nofollow" class="facebook2">
+      <div class="fb-icon-container">
+        <span class="fb-icon"></span>
+      </div>
+      <span class="fs-login-title">Login with Facebook</span>
+      <span class="fs-login-arrow">
+        <span class="glyphicon glyphicon-play" aria-hidden="true"></span>
+      </span>
+    </a>
   </div>
 </div>
     <div id="fsForgotWidget" class="fsModality mobile-adopted" style="display: none">
@@ -907,8 +979,16 @@
         <ul class="errors"></ul>
 
         <div class="ordivide"> -------------------------- or --------------------------</div>
-        <a href="/login/facebook" rel="nofollow" class="facebook">Sign up with Facebook</a>
-
+        
+        <a href="/login/facebook" rel="nofollow" class="facebook2">
+          <div class="fb-icon-container">
+            <span class="fb-icon"></span>
+          </div>
+          <span class="fs-login-title">Sign up with Facebook</span>
+          <span class="fs-login-arrow">
+            <span class="glyphicon glyphicon-play" aria-hidden="true"></span>
+          </span>
+        </a>
       </form>
     </div>
   </div>
@@ -922,12 +1002,84 @@
   <input type="submit" class="btn-medium continue-btn" value="Continue to the site">
 </div>
 
+    <div id="fsAdsReportWidget" class="fsModality mobile-adopted fsAdsReportWidget" style="display: none">
+  <div class="modal-wrapper">
+    <input type="button" class="cancel-mobile-button" onclick="$.fn.fsCloseModal();" value="Cancel">
+    <img class="logo" src="/images/logos/small_english.png">
+    <div class="h2">Advertising Report</div>
+    <p>Please complete the form to help us understand why you are reporting this ad.</p>
+    <form method="post" action="/advertise/report" autocomplete="off">
+      <input type="text" name="name" data-mark="Your Name">
+      <input type="text" name="email" data-mark="Email">
+      <textarea dir="auto" data-mark="Feedback" rows="5" name="feedback"></textarea>
+      <input type="hidden" name="token">
+      <input type="hidden" name="adContent">
+      <input type="hidden" name="adFullContent">
+      <input type="hidden" name="adScript">
+      <input type="hidden" name="adIframe">
+      <strong>How did this ad fail to meet our <a target="_blank" href="/advertise/policy">Advertising Policy</a>?</strong>
+      <div class="row checkbox-block">
+        <div class="checkbox col-md-5">
+          <label>
+            <input name="safety" type="checkbox"> Safety
+          </label>
+        </div>
+        <div class="checkbox col-md-7">
+          <label>
+            <input name="trust" type="checkbox"> Trust
+          </label>
+        </div>
+      </div>
+      <div class="row checkbox-block">
+        <div class="checkbox col-md-5">
+          <label>
+            <input name="values" type="checkbox"> Values
+          </label>
+        </div>
+        <div class="checkbox col-md-7">
+          <label>
+            <input name="experience" type="checkbox"> User &amp; Advertiser Experience
+          </label>
+        </div>
+      </div>
+      <input type="button" class="btn-medium" id="submitBtn" value="Submit" data-active="Verifying">
+    </form>
+  </div>
+</div>
     
-
+    <div class="share-social-box basic">
+  <div class="image-share-icon">
+    <span class="glyphicon glyphicon-share" aria-hidden="true"></span>
+  </div>
+  <a class="social-pinterest" rel="nofollow" data-event="pinterest/3/[id]/[id]/popup/580/400" href="http://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=">
+    <span class="icon"></span>
+  </a>
+  <a class="social-facebook" rel="nofollow" data-event="facebook/0/[id]/[id]/popup/580/386" href="https://www.facebook.com/v2.5/dialog/feed?app_id=544753952220995&amp;display=popup&amp;link=&amp;redirect_uri=http://familyshare.com/popup-close&amp;name=&amp;description=&amp;picture=">
+    <span class="icon"></span>
+  </a>
+  <a class="social-twitter" rel="nofollow" data-event="twitter/1/[id]/[id]/popup/580/216" href="http://twitter.com/share?url=&amp;text=">
+    <span class="icon"></span>
+  </a>
+  <a class="social-email" rel="nofollow" data-parent=".with-share-box">
+    <span class="icon"></span>
+  </a>
+  <a class="social-google" rel="nofollow" data-event="google/4/[id]/[id]/popup/580/700" href="http://plus.google.com/share?url=">
+    <span class="icon"></span>
+  </a>
+  <a class="social-whatsapp" rel="nofollow" data-text="I saw this and thought you might be interested!" data-href="http://familyshare.com/">
+    <span class="icon"></span>
+  </a>
+  <a class="social-link" rel="nofollow" tabindex="0" data-toggle="popover" role="button" data-html="true">
+    <span class="icon glyphicon glyphicon-link" aria-hidden="true"></span>
+    <div class="data-content">
+      <div class="copy-link-wrapper"><input type="text" class="copy-link"></div>
+    </div>
+  </a>
+</div>
     <div id="fsModalScreen"></div>
 
     <div class="mobile-ad">
-        <div id="dfp-slot-3" style="width:320px; height:50px;"><script type="text/javascript"> if (isMobile) { googletag.cmd.push(function() { googletag.defineSlot("/6686/ddm.familyshare.com/homepage",[320,50],"dfp-slot-3").addService(googletag.pubads()).setTargeting("pos","right").setTargeting("article-id",19374); googletag.enableServices(); googletag.display("dfp-slot-3"); }); } else { $("#dfp-slot-3").hide(); } </script></div>
+      <div id="dfp-slot-3" class="ad-dfp-slot" style="width:320px; height:50px;"><script type="text/javascript"> if (isMobile) { googletag.cmd.push(function() { googletag.defineSlot("/6686/ddm.familyshare.com/homepage",[320,50],"dfp-slot-3").addService(googletag.pubads()).setTargeting("pos","right").setTargeting("article-id",19374); googletag.enableServices(); googletag.display("dfp-slot-3"); }); } else { $("#dfp-slot-3").hide(); } </script></div><div class="ad-options"><a href="#" onclick="return fs.widget('fsAdsReportWidget', this);" style="float: right;">Report this ad</a></div>
     </div>
 
   
