@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaldollhouse.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624211153id_/http%3A//www.digitaldollhouse.com/ddh/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaldollhouse.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117004725id_/http%3A//www.digitaldollhouse.com/ddh/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Digital Dollhouse
 
