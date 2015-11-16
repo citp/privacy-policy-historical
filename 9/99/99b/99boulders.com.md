@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 99boulders.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622000245id_/http%3A//www.99boulders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99boulders.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117004346id_/http%3A//www.99boulders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 99Boulders
 
@@ -16,8 +16,6 @@ Like many other Web sites, 99Boulders.com makes use of log files. The informati
 **99Boulders.com is a participant in multiple affiliate advertising programs designed to provide a means for sites to earn advertising fees by advertising and linking to products on certain websites.
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:  
-Commission Junction  
-Clickbank  
 AvantLink  
 Amazon Associates
 
