@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astronomy.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609003118id_/http%3A//www.kalmbach.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astronomy.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116073342id_/http%3A//www.kalmbach.com/privacy.aspx) for the most accurate reproduction.*
 
 # Kalmbach Publishing Co. - Privacy Policy updated 052014
 
@@ -27,7 +27,9 @@ Personally identifiable information is collected by Kalmbach when you decide to 
 
 To enhance your online experience, we use “cookies.” Cookies are text files we place in your computer’s browser to store your preferences. Once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie, and to personalize your experience on our websites.
 
-We use cookies to understand Internet usage and to improve our content, offerings, and advertisements. Kalmbach will use cookies, pixel trackers, server logs and other Internet technologies to measure the effectiveness of our website content. 
+We use cookies to understand Internet usage and to improve our content, offerings, and advertisements. Kalmbach will use cookies, pixel trackers, server logs and other Internet technologies to measure the effectiveness of our website content.
+
+We may have enabled Demographic & Interest reporting via Google Analytics Advertising Features for some of our websites.  This information is used to better understand how our website visitors are interacting with our websites.  This information is not used to personally identify any website visitors.  Visitors can opt-out of Google Analytics Advertiser Features through Ads Settings, Ad Settings for mobile apps, or any other available means (for example, the NAI's consumer opt-out).  Google also provides a listing of currently available opt-outs for the web, [here](https://tools.google.com/dlpage/gaoptout/).
 
 We also may use small pieces of code called “web beacons” or “clear gifs” to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. We are not responsible for and do not control cookies placed in third party ads or any actions or policies of any third party advertising technology service providers or of any third party members of any related advertising networks.
 
@@ -95,10 +97,10 @@ Waukesha, WI 53187-1612
 
 | 
 
-[](http://www.kalmbachstore.com/)
+[](https://web.archive.org/shop)
 
-[](https://web.archive.org/en/Press%20Room.aspx)
+[](https://web.archive.org/Press%20Room.aspx)
 
-[](https://web.archive.org/en/About%20Kalmbach.aspx)  
+[](https://web.archive.org/About%20Kalmbach.aspx)  
   
 ---|---
