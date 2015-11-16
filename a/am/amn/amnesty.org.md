@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amnesty.org privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329154947id_/http%3A//www.amnesty.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnesty.org privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116214226id_/http%3A//www.amnesty.org/en/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Amnesty International
 
@@ -20,7 +20,7 @@ By using the Amnesty International Website, you consent to the terms of this Pri
 
 The type and amount of information we receive and store depends on how you use the Amnesty International Website. You can access most of the pages on the Amnesty International Website without telling us who you are and without revealing any personal information. Our web servers collect anonymous logs during user visits to the Amnesty International Website which provide valuable information for improving it in the future.
 
-For more information see [Use of Cookies](https://web.archive.org/en/cookie-statement/ "Cookie Statement") page
+For more information see [Use of Cookies](https://web.archive.org/en/about-us/cookie-statement/ "Cookie Statement") page
 
 We do not collect personal information (such as your name, address, phone number or e-mail address) on the Amnesty International Website unless you choose to provide it. For example, where you express an interest in joining or donating to Amnesty International, sign a petition or email action or subscribe to our email updates. If you apply for a job or volunteer role at Amnesty International we will collect information so that we can process your application and assess your suitability for the role.
 
@@ -50,7 +50,7 @@ A cookie is a text-only piece of information that a website transfers to your co
 
 If you wish to restrict or block cookies you can set your internet browser to do so - click on the following link for more information: [www.aboutcookies.org](http://www.aboutcookies.com/ "www.aboutcookies.com")
 
-Please click through to our [Use of Cookies](https://web.archive.org/en/cookie-statement/ "Cookie Statement") document for more detailed information on cookies and how Amnesty International uses them.
+Please click through to our [Use of Cookies](https://web.archive.org/en/about-us/cookie-statement/ "Cookie Statement") document for more detailed information on cookies and how Amnesty International uses them.
 
 ### Access to your personal information
 
