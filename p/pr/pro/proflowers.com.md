@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proflowers.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503125523id_/http%3A//www.providecommerce.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proflowers.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116051851id_/http%3A//www.providecommerce.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Provide Commerce
 
@@ -39,7 +39,7 @@ Privacy Policy**
 
 Thank you for visiting a website or application provided by FTD Companies, Inc. FTD Companies, Inc. and its affiliates  **(“FTD”)**  are committed to respecting your privacy. This Privacy Policy outlines FTD’s collection and use of personal information  **("Privacy Policy")**.
 
-FTD currently owns or operates the following brands: FTD.COM, FTD, INTERFLORA, the MERCURY MAN Emblem, PROFLOWERS, PROPLANTS, SHARI’S BERRIES, CHERRY MOON FARMS, PERSONAL CREATIONS, FLORIST EXPRESS, GIFTS.COM, SINCERELY, POSTAGRAM, INK and SESAME GIFTS, among others. These brands may be updated from time to time by FTD without notice.
+FTD currently owns or operates the following brands: FTD.COM, FTD, INTERFLORA, the MERCURY MAN Emblem, PROFLOWERS, PROPLANTS, SHARI’S BERRIES, CHERRY MOON FARMS, PERSONAL CREATIONS, REDENVELOPE, FLORIST EXPRESS, GIFTS.COM, SINCERELY, POSTAGRAM, INK and SESAME GIFTS, among others. These brands may be updated from time to time by FTD without notice.
 
 FTD collects information through: (a) its various websites including, but not limited to, [www.ftd.com](http://www.ftd.com/), [www.proflowers.com](http://www.proflowers.com/), [www.proplants.com](http://www.proplants.com/), [www.berries.com](http://www.berries.com/), [www.prvd.com](http://www.prvd.com/), [www.cherrymoonfarms.com](http://www.cherrymoonfarms.com/), [www.personalcreations.com](http://www.personalcreations.com/), [www.providecommerce.com](http://www.providecommerce.com/), [www.gifts.com](http://www.gifts.com/), [www.sincerely.com](http://www.sincerely.com/), [www.postagramapp.com](http://www.postagramapp.com/), [www.sesamegifts.com](http://www.sesamegifts.com/) and other websites as it may introduce or acquire in the future; (b) various social media accounts and channels including, but not limited to, Facebook, Twitter, Instagram, Pinterest and YouTube; and (c) through our various other messaging, telephone and other forms of communications, mobile technologies, applications and services, in each case, as may be updated by FTD from time to time (collectively, the “ **FTD Services** ”). The privacy practices outlined in this policy are incorporated by reference into the [Terms of Use](http://www.providecommerce.com/terms.aspx) for the FTD Services.
 
