@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dabs.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630050554id_/http%3A//www.dabs.com/help/policies/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dabs.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117003637id_/http%3A//www.dabs.com/help/policies/our-privacy-policy) for the most accurate reproduction.*
 
-# Our privacy policy - dabs.com
+# Our privacy policy | dabs.com - dabs.com
 
 ## **dabs.com Privacy Policy**
 
@@ -52,7 +52,7 @@ The personal information we collect:
 
 Once you have registered with dabs.com, you can review your personal information at any time to ensure it is correct and current on the "my Dabs" section of the dabs.com website. You will be able to update, correct, change or delete inaccurate details. You may also change your marketing/communications preferences here. Please note however that if you opt out of receiving marketing material you may continue to receive mailings for a short period while your change is being processed. 
 
-You have the right to ask us what personal data we hold about you, and we can supply this information on payment of a small fee. Please contact our customer service team for full details on how to make such a request at [assistance@dabs.com](mailto:assistance@businessdirect.bt.com). 
+You have the right to ask us what personal data we hold about you, and we can supply this information on payment of a small fee. Please contact our customer service team for full details on how to make such a request at [enquiries@dabs.com](mailto:enquiries@dabs.com). 
 
 **SECURITY**
 
@@ -107,4 +107,4 @@ If you tell us that you have a spouse or financial associate, we will link your 
 
 Information on applications will be sent to CRAs and will be recorded by them. We may also give them details of your accounts and billing information, including how you manage it/them to CRAs We may tell them about payments you make to us, your account balances, and payment defaults [We may also give them historical information we hold about your payment history with us.] If you do not pay your bills on time, CRAs will record this information and it may be supplied to other organisations by CRAs and FPAs to perform similar checks and to trace your whereabouts and recover debts that you owe to them as well as us.
 
-[ ](https://web.archive.org/help/)
+[ Back ](https://web.archive.org/help/)
