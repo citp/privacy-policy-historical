@@ -1,118 +1,101 @@
-> *The following text is extracted and transformed from the handhelditems.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613144746id_/http%3A//www.handhelditems.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handhelditems.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116015549id_/http%3A//www.handhelditems.com/help/privacy.html) for the most accurate reproduction.*
 
-# HandHelditems.com Privacy Policy
+# Security & Privacy - HandHelditems.com Privacy Notice
 
-|  **This privacy statement covers the site HandHelditems.com and FunFunFactory.com by IGg Factory Inc. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices.   
-**  
-1\. What personally identifiable information Handhelditems.com collects.   
-2\. What personally identifiable information third parties collect through the Web site.   
-3\. What organization collects the information.   
-4\. How Handhelditems.com. uses the information.   
-5\. With whom Handhelditems.com may share user information.   
-6\. What choices are available to users regarding collection, use and distribution of the information.   
-7\. What types of security procedures are in place to protect the loss, misuse or alteration of information under Handhelditems.com control.   
-8\. How users can correct any inaccuracies in the information. 
+HandHelditems.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting HandHelditems.com, you are accepting the practices described in this Privacy Notice.**
 
-If users have questions or concerns regarding this statement, they should first contact our Customer Service Department by salesHandhelditems.com.
+  * What Personal Information About Customers Does HandHelditems.com Gather? 
+  * What About Cookies? 
+  * Does HandHelditems.com Share the Information It Receives? 
+  * How Secure Is Information About Me? 
+  * Which Information Can I Access? 
+  * What Choices Do I Have?
+  * Are Children Allowed to Use HandHelditems.com? 
+  * Conditions of Use, Notices, and Revisions 
+  * Examples of Information Collected 
 
-**Information Collection and Use**
 
-**Information Collection**   
-Handhelditems.com by IGg Factory Inc. is the sole owner of the information collected on this website. Handhelditems.com collects information from our users at several different points on our Web site. (Handhelditems.com is own by company IGg Factory Inc.)
 
-**Registration**   
-During registration a user is required to give contact information (such as name and email address). We use this information to contact the user about services on our site for which he has expressed interest. It is optional for the user to provide demographic information (such as income level and gender), and unique identifiers (such as, username and password), but encouraged so we can provide a more personalized experience on our site. 
+#### What Personal Information About Customers Does HandHelditems.com Gather?
 
-**Order**   
-We request information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, the information is used to contact the user. 
+The information we learn from customers helps us personalize and continually improve your HandHelditems experience. Here are the types of information we gather.
 
-**Information Use**   
-The information you provide us will only be used for processing orders and informing our customers of upcoming promotions or newsletters. 
+  * **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you.
+  * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses HandHelditems.com or advertisements and other content served by or on behalf of HandHelditems.com on other Web sites. Examples of the information we receive can be found at bottom of this page.
+  * **Mobile:** When you download or use apps created by HandHelditems or our subsidiaries, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most mobile devices allow you to turn off location services.
+  * **E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from HandHelditems.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your [Customer Communication Preferences.](https://www.handhelditems.com/customer/account/newsletter/) in My Account section.
+  * **Information from Other Sources:** We might receive information about you from other sources and add it to our account information. HandHelditems allow you access our website with HandHelditems, Paypal and Facebook logins. Your information will be collected for order communication and order process purpose.
 
-( You may choose to subscribe to our newsletter. Also unsubscribe anytime here 
 
-[https://www.handhelditems.com/newsletter.php](https://www.handhelditems.com/newsletter.php)) 
 
-**Profile**   
-We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site, and to direct pertinent marketing promotions to them. We do not share your profile with other third parties. 
+#### What About Cookies?
 
-**Cookies**   
-A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use session ID cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. 
+  * Cookies are unique identifiers that we transfer to your device to enable our systems to recognize your device and to provide features such as Recommended for You, personalized advertisements on other Web sites, and storage of items in your Shopping Cart between visits.
+  * The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of HandHelditems.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any HandHelditems.com products and services that require you to Sign in.
 
-We use cookies to personalize the site for your ease of use. By setting a cookie on our site, users would not have to log in a password more than once, thereby saving time while on our site. If users reject the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to participate in any of our sweepstakes, contests or monthly drawings that take place. 
 
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. 
 
-This privacy statement covers the use of cookies( byHandhelditems.com )only and does not cover the use of cookies by any advertisers. 
+#### Does HandHelditems.com Share the Information It Receives?
 
-**Third Party Cookies**   
-IGG Factory, Inc. and its advertisers may also use ad network providers and other service providers to help present customized content and advertisements on IGG Factory, Inc. and its sites. These providers may use cookies, web beacons, or similar technologies on your computer to help present, better target, and measure the effectiveness of their content and advertisements, using data gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. IGG Factory, Inc. may share certain non-personally identifiable information about you as a user (such as user age and zip code) with certain ad network and service providers to help them deliver more relevant content and advertisements through their networks. The use of cookies, web beacons, or similar technologies by ad network and content providers is subject to their own privacy policies, not that of IGG Factory, Inc.
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries HandHelditems.com. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
 
-**Log Files**   
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
+  * **Affiliated Businesses We Do Not Control:** We work closely with affiliated businesses. In some cases, such as Marketplace sellers, these businesses operate stores at HandHelditems.com or sell offerings to you at HandHelditems.com. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. You can tell when a third party is involved in your transactions, and we share customer information related to those transactions with that third party.
+  * **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+  * **Promotional Offers:** Sometimes we send offers to selected groups of HandHelditems.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your [Customer Communication Preferences.](https://www.handhelditems.com/customer/account/newsletter/)
+  * **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that HandHelditems.com by IGG Factory inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
+  * **Protection of HandHelditems.com and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our [Conditions of Use](http://www.handhelditems.com/help/conditions.html) and other agreements; or protect the rights, property, or safety of HandHelditems.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
+  * **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
 
-**Communications from the Site**
 
-**Special Offers and Updates**   
-We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections. 
 
-**Customer Service**   
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes. 
+#### How Secure Is Information About Me?
 
-**Sharing**
+  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
+  * We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
+  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. [Click here](http://www.handhelditems.com/help/conditions.html) for more information on how to sign off.
 
-**Legal Disclaimer**   
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
 
-**Third Party Advertisers**   
-We 
 
-DO NOT Share Personal Information with Third Parties. 
+#### Which Information Can I Access?
 
-**Third Party Intermediaries**   
-We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
+HandHelditems.com gives you access to a broad range of information about your account. Edit or update your information at My Account page. Example (information you give us) is at bottome of this page.
 
-**Business Transitions**   
-In the event Handhelditems.com goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. 
+#### What Choices Do I Have?
 
-**Choice/Opt-out**   
-Our users are given the opportunity to ~Qopt-out~R of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our order form has an ~Qopt-out~R mechanism so users who buy a product from us, but don~Rt want any marketing material, can keep their email address off of our lists.   
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at   
-salesHandhelditems.com  
-Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party. 
+  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such HandHelditems.com features as Your Profile, Wish Lists and Customer Reviews.
+  * You can add or update certain information on pages such as those referenced in the [My Account?](https://www.handhelditems.com/customer/account/) section. When you update information, we usually keep a copy of the prior version for our records.
+  * If you do not want to receive e-mail or other mail from us, please adjust your [Customer Communication Preferences](https://www.handhelditems.com/customer/account/newsletter/) . (If you do not want to receive [Conditions of Use](http://www.handhelditems.com/help/conditions.html) and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of HandHelditems.com, and it is your responsibility to review them for changes.)
+  * If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please adjust your Advertising Preferences .
+  * The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of HandHelditems.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any HandHelditems.com products and services that require you to Sign in.
 
-**Links**   
-This Web site contains links to other sites. Please be aware that we, Handhelditems.com, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. [Discuss co-branding and/or framing relations where the user may not know who is collecting the information]. 
 
-**Surveys & Contests**   
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Anonymous survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users~R personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users~R personally identifiable information for any secondary purposes. 
 
-**Tell-A-Friend**   
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Handhelditems.com will automatically send the friend a one-time email inviting them to visit the site. Handhelditems.com does not store this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact Handhelditems.com at salesHandhelditems.com to request the removal of this information from our database. 
+#### Are Children Allowed to Use HandHelditems.com
 
-**Security**   
-This Web site takes every precaution to protect our users~R information. When users submit sensitive information via the Web site, their information is protected both online and off-line.   
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just surfing.  
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users~R information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every [quarter], as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users~R information is protected. Finally, the servers that store personally identifiable information are in a secure environment, in a locked facility.   
-If users have any questions about the security at our Web site, users can send an email to salesHandhelditems.com
+HandHelditems.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use HandHelditems.com only with the involvement of a parent or guardian.
 
-**Supplementation of Information**
+#### Conditions of Use, Notices, and Revisions
 
-In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources. 
+If you choose to visit HandHelditems.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](http://www.handhelditems.com/help/conditions.html), including limitations on damages, resolution of disputes, and application of the law of the state of California. If you have any concern about privacy at HandHelditems.com, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the [Conditions of Use](http://www.handhelditems.com/help/conditions.html) will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
-**Correcting / Updating / Deleting / Deactivating Personal Information**   
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done at the [member information page] or by emailing our Customer Support at salesHandhelditems.com Or, log in to your account on our website to change it yourself or contact us by telephone or postal mail at the contact information listed below. 
+#### Examples of Information Collected
 
-**Notification of Changes**   
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.   
-If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email, and by posting a notice on our Web site for 30 days.
+##### Information You Give Us
 
-**Contact Information**   
-If users have any questions or suggestions regarding our privacy policy, please contact us at: 
+You provide most such information when you search, buy, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; place an order through HandHelditems.com or one of our third-party sellers; provide information in Your Account (and you might have more than one if you have used more than one e-mail address when shopping with us) or Your Profile ; communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; use our services such as Wish Lists or other gift registries; participate in Discussion Boards or other community features; provide and rate Reviews; and employ Product Availability Alerts, such as Available to Order Notifications. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; people (with addresses and phone numbers) e-mail addresses of your friends and other people; content of reviews and e-mails to us; personal description and photograph in Your Profile; Mobile device models and tablet device models.
 
-Phone : 909-595-3326  
-Email : salesHandhelditems.com  
-Postal Address   
-1211 John Reed Court  
-City of Industry, California 91745  
-Main Web site URL https://www.Handhelditems.com 
+##### Automatic Information
+
+Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features like Top Sellers ; the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for; and the phone number you used to call our 800 number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Web site for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. We may also collect technical information to help us identify your device for fraud prevention and diagnostic purposes.
+
+##### Mobile
+
+Most mobile devices provide users with the ability to disable location services. Most likely, these controls are located in the device's settings menu. If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or your device manufacturer.
+
+##### Information from Other Sources
+
+Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; account information, purchase or redemption information, and page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising, or other services; search results and links, including paid listings (such as Sponsored Links); and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers.
+
+##### Information You Can Access
+
+Examples of information you can access easily at HandHelditems.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications and personalized advertising preferences, address book); payment settings (including credit card information and promotional certificate and gift card balances); e-mail notification settings (including Product Availability Alerts, Delivers, and newsletters); Recommendations (including Recommended for You and Improve Your Recommendations); shopping lists and gift registries (including Wish Lists and Baby and Wedding Registries); Seller accounts; and Your Profile (including your product Reviews, Recommendations, Reminders, personal profile, and Wish List).
