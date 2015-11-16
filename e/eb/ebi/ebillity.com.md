@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebillity.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408101040id_/http%3A//www.ebillity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebillity.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117002115id_/http%3A//www.ebillity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Time Tracking Software by eBillity
 
@@ -12,17 +12,31 @@ We personally respond to all emails.
 
 _24 hrs a day 7 days a week_
 
-  * [Call](tel:+18008510992) a support specialist
+  * Call a support specialist
 
-1-800-851-0992
+[1-800-851-0992](tel:+18008510992)
+
+[1-732-253-4200](tel:+17322534200)
 
 _Mon-Thurs: 9:00 am - 6:00 pm, EST_
 
 _Friday: 9:00 am - 4:30 pm, EST_
 
+  * Call a support specialist
+
+[+61 (02) 8317 1139](tel:+610283171139)
+
+_Mon-Thurs: 9:00 am - 6:00 pm, AET_
+
+_Friday: 9:00 am - 4:30 pm, AET_
+
   * Attend a [live training webinar](https://web.archive.org/get-help)
 
-view our webinar schedule [here](https://web.archive.org/get-help)
+View our webinar schedule [here](https://web.archive.org/get-help)
+
+  * View [pre-recorded webinars](https://web.archive.org/webinars)
+
+View our pre-recorded webinars [here](https://web.archive.org/webinars)
 
   * Visit the [Online Help Center](http://support.ebillity.com/home)
 
@@ -38,12 +52,16 @@ _Monday - Friday: 24 hours a day_
 
 Schedule a free private training session [here](https://ebillity.youcanbook.me/)
 
+  * [Book](https://timetracker-australia.youcanbook.me/) a free concierge
+
+Schedule a free private training session [here](https://timetracker-australia.youcanbook.me/)
+
 
 
 
 Last Updated 11/27/2013
 
-This is the Privacy Policy of the **eBillity** website (the “Site”), operated by eBillity (together with our affiliates and subsidiaries, “eBillity”, “we”, “us”, “our” and terms of similar meaning) and our related products and services. It describes the information that we collect from you as part of the normal operation of our Site, and how we use and disclose this information.
+This is the Privacy Policy of the **eBillity** website (the “Site”), operated by eBillity (together with our affiliates and subsidiaries, “eBillity”, “we”, “us”, “our” and terms of siar meaning) and our related products and services. It describes the information that we collect from you as part of the normal operation of our Site, and how we use and disclose this information.
 
 By accepting the Privacy Policy in registration or by visiting and using the Site, you expressly consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to our Terms of Use.
 
@@ -65,7 +83,8 @@ We may also use personal information about you to improve our marketing and prom
 
 ## What Information Do We Collect?
 
-Our primary purpose in collecting personal information from you is to provide you with a safe, smooth, efficient, and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience safer and easier. We only collect personal information about you that we consider necessary for achieving this purpose.
+Our primary purpose in collecting personal information from you is to provide you with a safe, smooth, efficient, and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience safer and easier. We only  
+collect personal information about you that we consider necessary for achieving this purpose.
 
 In general, you can browse the Site without telling us who you are or revealing any personal information about yourself. Once you become a User, we require you to provide various contact and identity information, billing information, and other personal information as indicated on the relevant forms on the Site (which vary, depending on what kind of User you are), and you are no longer anonymous to us. Where possible, on these forms we indicate which fields are required and which fields are optional.
 
