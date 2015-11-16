@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usfirst.org privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503175144id_/http%3A//www3.usfirst.org/aboutus/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usfirst.org privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116070444id_/http%3A//www.usfirst.org/aboutus/privacy-policy) for the most accurate reproduction.*
 
 # FIRST Privacy Policy and User Agreement | USFIRST.org
 
