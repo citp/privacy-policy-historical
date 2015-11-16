@@ -1,37 +1,40 @@
-> *The following text is extracted and transformed from the loandepot.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629044624id_/http%3A//www.loandepot.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loandepot.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116034953id_/http%3A//www.loandepot.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# loanDepot | Privacy Policy
+# loanDepot |
 
-loanDepot® values your patronage and protecting your confidential information is a priority. Our policies and procedures reinforce the fact that loanDepot strongly believes in protecting the confidentiality and security of the information we collect about you as a customer, potential customer or former customer. We have adopted the following policies and procedures to safeguard the personal information about you in our possession.
+loanDepot® values your patronage and protecting your confidential pinformation is a priority. Our policies and procedures reinforce the fact that loanDepot strongly believes in protecting the confidentiality and security of the information we collect about you as a customer, potential customer or former customer. We have adopted the following policies and procedures to safeguard the personal information about you in our possession.
 
 ## Our Privacy Pledge
 
-  * We do not sell or rent customer information. 
-  * We share customer information with certain employees and with companies providing services on our behalf in order to service your needs. 
-  * Our policy is to require all employees and companies providing services on our behalf to keep customer information confidential.
-  * Our privacy policy applies to potential customers as well as current and former customers. 
+> We do not sell or rent customer information.
 
+> We share customer information with certain employees and with companies providing services on our behalf in order to service your needs.
 
+> Our policy is to require all employees and companies providing services on our behalf to keep customer information confidential.
 
-## Safeguarding Personal Information  
+> Our privacy policy applies to potential customers as well as current and former customers.
+
+## Safeguarding Personal Information
+
 We have adopted policies and procedures designed to protect your personal information from unauthorized use or disclosure.
 
-  * We have implemented physical, electronic and procedural safeguards to maintain confidentiality and integrity of the personal information in our possession and to guard against unauthorized access. These include among other things, procedures for controlling access to customer files, building security programs and information technology security measures such as the use of passwords, firewalls, virus prevention and use detection software.
-  * We continue to assess new technology as it becomes available and to upgrade our physical and electronic security systems as appropriate.
-  * Our policy is to permit employees to access your personal information only if they have a business purpose for using such information, such as administering, providing or developing our products or services.
-  * Our policy, which governs the conduct of all of our employees, requires all employees to safeguard personal information about the consumers and customers we serve or have served in the past.
+> We have implemented physical, electronic and procedural safeguards to maintain confidentiality and integrity of the personal information in our possession and to guard against unauthorized access. These include among other things, procedures for controlling access to customer files, building security programs and information technology security measures such as the use of passwords, firewalls, virus prevention and use detection software.
 
+> We continue to assess new technology as it becomes available and to upgrade our physical and electronic security systems as appropriate.
 
+> Our policy is to permit employees to access your personal information only if they have a business purpose for using such information, such as administering, providing or developing our products or services.
+
+> Our policy, which governs the conduct of all of our employees, requires all employees to safeguard personal information about the consumers and customers we serve or have served in the past.
 
 ## Information We Collect About You
 
 We collect information about you to help us serve your financial needs, to provide you with quality products and services and to fulfill legal and regulatory requirements. We consider non-public information about you in our possession to be personal information, even if you cease to be a customer. The personal information we collect about you may include among other things:
 
-  * Identifying information, such as your name, age, address, phone number and social security number
-  * Employment information
-  * Financial information such as your income, assets and liabilities, as well as information about your savings, investments, insurance and business.
+> Identifying information, such as your name, age, address, phone number and social security number
 
+> Employment information
 
+> Financial information such as your income, assets and liabilities, as well as information about your savings, investments, insurance and business.
 
 loanDepot does not alter its behavior or change its services upon receiving Do Not Track requests.
 
