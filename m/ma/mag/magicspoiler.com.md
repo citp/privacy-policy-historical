@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the magicspoiler.com privacy policy that was archived on 2015-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150124212200id_/http%3A//www.magicspoiler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicspoiler.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116184816id_/http%3A//www.magicspoiler.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MTG Visual Spoiler
+# Privacy Policy - MTG Visual Spoiler
 
-**What information do we collect?**
+**[How Google uses data when you use our partners’ sites or apps](http://www.google.com/intl/en/policies/privacy/partners/)**
+
+ **What information do we collect?**
 
 We collect information from you when you leave a comment.
 
