@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bellamora.com privacy policy that was archived on 2015-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150612020421id_/http%3A//www.youngevity.com/index.cfm/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bellamora.com privacy policy that was archived on 2015-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151116054941id_/http%3A//www.youngevity.com/index.cfm/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -127,7 +127,15 @@ function(){
 <form onsubmit="ssoLogin();return false;" class="sso-login-form">
 <input class="form-control" name="repid" id="sso-repid" value="" placeholder="Youngevity ID">
 <input class="form-control" type="password" name="password" id="sso-password" value="" placeholder="Password">
-<input class="btn btn-default" type="submit" onclick="" value="Submit">
+<input class="btn btn-default" type="submit" value="Submit">
+<input class="btn btn-default" type="button" value="Cancel" onclick="ssoCancel()">
+<a id="forgot-pass" class="clickable" onclick="ssoShowForgotPass()">Forgot Password?</a>
+</form>
+<form onsubmit="ssoForgotPass();return false;" class="sso-pass-form">
+<input type="hidden" name="method" id="sso-pass-method" value="sendPasswordResetEmail">
+<input type="hidden" name="returnFormat" id="sso-pass-ret" value="json">
+<input class="form-control" type="text" name="repid" id="sso-pass-repid" value="" placeholder="Youngevity ID">
+<input class="btn btn-default" type="submit" value="Reset Password">
 <input class="btn btn-default" type="button" value="Cancel" onclick="ssoCancel()">
 </form>
 </li>
@@ -143,7 +151,12 @@ function(){
 </div>
 <div id="sso-error" style="display:none;">
 <div class="container">
-<p class="pull-right">Username/Password incorrect. Please try again.<span onclick="ssoCloseError()"> ✖ </span></p>
+<p class="pull-right"><span id="sso-error-text"></span><span onclick="ssoCloseError()"> ✖ </span></p>
+</div>
+</div>
+<div id="sso-success" style="display:none;">
+<div class="container">
+<p class="pull-right"><span id="sso-success-text"></span><span onclick="ssoCloseSuccess()"> ✖ </span></p>
 </div>
 </div>
 <!-- More links: Top slider -->
@@ -153,7 +166,7 @@ function(){
 <div class="sso-nav-section">
 <h3>People</h3>
 <ul>
-<li><a href="http://www.youngevity.com/index.cfm/more/people/dr-joel-wallach/">Dr. Joel Wallach</a></li>
+<li><a href="http://www.youngevity.com/index.cfm/more/people/joel-d-wallach-bs-dvm-nd/">Dr. Joel Wallach</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/more/people/mission/">Mission</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/more/people/management/">Management</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/more/people/brand-ambassadors/">Brand Ambassadors</a></li>
@@ -206,9 +219,10 @@ function(){
 <span class="icon-bar"></span>
 <span class="icon-bar"></span>
 </button>
+<!--
 <div class="sso-flag visible-xs">
-<img src="/default/includes/themes/Youngevity/assets/ygy-sso/img/sso-us-small.png" alt="Country Flag" class="sso-flag-slide-toggle">
-</div>
+<img src="/default/includes/themes/Youngevity/assets/ygy-sso/img/sso-us-small.png" alt="Country Flag" class="sso-flag-slide-toggle"/>
+</div> -->
 <a class="navbar-brand visible-lg sso-logo" href="http://www.youngevity.com/" id="sso-logo-lg">
 <img src="/default/includes/themes/Youngevity/assets/ygy-sso/img/sso-ygy-logo.jpg" alt="Youngevity Logo">
 </a>
@@ -225,9 +239,9 @@ function(){
 <li class="sso-link"><a class="sso-products-slide-toggle clickable">Products</a></li>
 <li class="sso-link"><a href="http://www.youngevity.com/index.cfm/opportunity1/">Opportunity</a></li>
 <li class="sso-link"><a class="sso-more-slide-toggle clickable">More</a></li>
-<li class="sso-flag">
-<img src="/default/includes/themes/Youngevity/assets/ygy-sso/img/sso-us-small.png" alt="Country Flag" class="sso-flag-slide-toggle">
-</li>
+<!-- <li class="sso-flag">
+<img src="/default/includes/themes/Youngevity/assets/ygy-sso/img/sso-us-small.png" alt="Country Flag" class="sso-flag-slide-toggle"/>
+</li> -->
 <li class="sso-link"><a href="https://www.buyygy.com/">Store</a></li>
 </ul>
 </div>
@@ -252,7 +266,6 @@ function(){
 <ul>
 <li><a href="http://www.youngevity.com/index.cfm/products/flagship-products/90-for-life-nutrition/">90 For Life Nutrition</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/products/flagship-products/the-healthy-body-challenge/">The Healthy Body Challenge</a></li>
-<li><a href="http://www.youngevity.com/index.cfm/products/flagship-products/transformation-contest/">Transformation Contest</a></li>
 <li><a href="http://youngevitybethechange.org/">Be The Change</a></li>
 <li><a href="https://www.buyygy.com/90forLifeStore/en/enrollment-products">Distributor Enrollment Paks</a></li>
 </ul>
@@ -278,6 +291,7 @@ function(){
 <li><a href="https://www.buyygy.com/90forLifeStore/en/hair-care">Hair Care</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/mineral-makeup/">Mineral Makeup</a></li>
 <li><a href="https://www.buyygy.com/90forLifeStore/en/spa-personal-care">Spa &amp; Personal Care</a></li>
+<li><a href="http://www.youngevity.com/index.cfm/mialisia/">VersaStyle Jewelry</a></li>
 </ul>
 </div>
 <a class="sso-category-link" data-toggle="collapse" data-parent="#sso-category-wrapper" href="#sso-cat-food"><h3>Food &amp; Beverage</h3></a>
@@ -308,13 +322,18 @@ function(){
 <li><a href="https://www.buyygy.com/90forLifeStore/en/beyond-organic">Beyond Organic</a></li>
 <li><a href="https://www.buyygy.com/90forLifeStore/en/biometics">Biometics</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/energy-professionals/">Energy Professionals</a></li>
+<li><a href="https://www.buyygy.com/90forLifeStore/en/escape">Escape International</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/products/by-brand/essential-oils/">Essential Oils</a></li>
+<li><a href="https://www.buyygy.com/90forLifeStore/en/for-tails-only">For Tails Only</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/products/by-brand/go-foods/">GOFoods</a></li>
 <li><a href="https://www.buyygy.com/90forLifeStore/en/good-herbs">Good Herbs</a></li>
+<li><a href="https://www.buyygy.com/90forLifeStore/en/harmony-health">Harmony Health</a></li>
+<li><a href="https://www.buyygy.com/90forLifeStore/en/healing-america">Healing America</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/heritage-makers/">Heritage Makers</a></li>
 <li><a href="http://www.hmquickcards.com">HM Quick Cards</a></li>
 <li><a href="https://www.buyygy.com/90forLifeStore/en/jd-premium">JD Premium</a></li>
 <li><a href="https://www.buyygy.com/90forLifeStore/en/livinity">Livinity</a></li>
+<li><a href="http://www.youngevity.com/index.cfm/mialisia">Mialisia</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/products/by-brand/mineral-makeup/">Mineral Makeup</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/products/by-brand/mk-collab/">MK Collab</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/heritage-makers/">Our Memories for Life</a></li>
@@ -342,7 +361,7 @@ function(){
 <div class="sso-nav-section">
 <h3>People</h3>
 <ul>
-<li><a href="http://www.youngevity.com/index.cfm/more/people/dr-joel-wallach/">Dr. Joel Wallach</a></li>
+<li><a href="http://www.youngevity.com/index.cfm/more/people/joel-d-wallach-bs-dvm-nd/">Dr. Joel Wallach</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/more/people/mission/">Mission</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/more/people/management/">Management</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/more/people/brand-ambassadors/">Brand Ambassadors</a></li>
@@ -411,7 +430,6 @@ function(){
 <ul>
 <li><a href="http://www.youngevity.com/index.cfm/products/flagship-products/90-for-life-nutrition/">90 For Life Nutrition</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/products/flagship-products/the-healthy-body-challenge/">The Healthy Body Challenge</a></li>
-<li><a href="http://www.youngevity.com/index.cfm/products/flagship-products/transformation-contest/">Transformation Contest</a></li>
 <li><a href="http://youngevitybethechange.org/">Be The Change</a></li>
 <li><a href="https://www.buyygy.com/90forLifeStore/en/enrollment-products">Distributor Enrollment Paks</a></li>
 </ul>
@@ -435,6 +453,7 @@ function(){
 <li><a href="https://www.buyygy.com/90forLifeStore/en/hair-care">Hair Care</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/mineral-makeup/">Mineral Makeup</a></li>
 <li><a href="https://www.buyygy.com/90forLifeStore/en/spa-personal-care">Spa &amp; Personal Care</a></li>
+<li><a href="http://www.youngevity.com/index.cfm/mialisia/">VersaStyle Jewelry</a></li>
 </ul>
 </div>
 <a class="sso-category-link" data-toggle="collapse" data-parent="#sso-category-wrapper-sm" href="#sso-cat-food-sm"><h3>Food &amp; Beverage</h3></a>
@@ -464,12 +483,14 @@ function(){
 <li><a href="https://www.buyygy.com/90forLifeStore/en/biometics">Biometics</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/energy-professionals/">Energy Professionals</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/products/by-brand/essential-oils/">Essential Oils</a></li>
+<li><a href="https://www.buyygy.com/90forLifeStore/en/for-tails-only">For Tails Only</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/products/by-brand/go-foods/">GOFoods</a></li>
 <li><a href="https://www.buyygy.com/90forLifeStore/en/good-herbs">Good Herbs</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/heritage-makers/">Heritage Makers</a></li>
 <li><a href="http://www.hmquickcards.com">HM Quick Cards</a></li>
 <li><a href="https://www.buyygy.com/90forLifeStore/en/jd-premium">JD Premium</a></li>
 <li><a href="https://www.buyygy.com/90forLifeStore/en/livinity">Livinity</a></li>
+<li><a href="http://www.youngevity.com/index.cfm/mialisia">Mialisia</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/products/by-brand/mineral-makeup/">Mineral Makeup</a></li>
 </ul>
 </div>
@@ -498,7 +519,6 @@ function(){
 <ul>
 <li><a href="http://www.youngevity.com/index.cfm/products/flagship-products/90-for-life-nutrition/">90 For Life Nutrition</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/products/flagship-products/the-healthy-body-challenge/">The Healthy Body Challenge</a></li>
-<li><a href="http://www.youngevity.com/index.cfm/products/flagship-products/transformation-contest/">Transformation Contest</a></li>
 <li><a href="http://youngevitybethechange.org/">Be The Change</a></li>
 <li><a href="https://www.buyygy.com/90forLifeStore/en/enrollment-products">Distributor Enrollment Paks</a></li>
 </ul>
@@ -521,6 +541,7 @@ function(){
 <li><a href="https://www.buyygy.com/90forLifeStore/en/hair-care">Hair Care</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/mineral-makeup/">Mineral Makeup</a></li>
 <li><a href="https://www.buyygy.com/90forLifeStore/en/spa-personal-care">Spa &amp; Personal Care</a></li>
+<li><a href="http://www.youngevity.com/index.cfm/mialisia/">VersaStyle Jewelry</a></li>
 </ul>
 </div>
 <div class="sso-nav-section sso-products-right">
@@ -550,18 +571,23 @@ function(){
 <li><a href="https://www.buyygy.com/90forLifeStore/en/beyond-organic">Beyond Organic</a></li>
 <li><a href="https://www.buyygy.com/90forLifeStore/en/biometics">Biometics</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/energy-professionals/">Energy Professionals</a></li>
+<li><a href="https://www.buyygy.com/90forLifeStore/en/escape">Escape International</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/products/by-brand/essential-oils/">Essential Oils</a></li>
+<li><a href="https://www.buyygy.com/90forLifeStore/en/for-tails-only">For Tails Only</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/products/by-brand/go-foods/">GOFoods</a></li>
 <li><a href="https://www.buyygy.com/90forLifeStore/en/good-herbs">Good Herbs</a></li>
+<li><a href="https://www.buyygy.com/90forLifeStore/en/harmony-health">Harmony Health</a></li>
 </ul>
 </div>
 <div class="sso-nav-section" id="sso-brands-col-two">
 <h3>&nbsp;</h3>
 <ul>
+<li><a href="https://www.buyygy.com/90forLifeStore/en/healing-america">Healing America</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/heritage-makers/">Heritage Makers</a></li>
 <li><a href="http://www.hmquickcards.com">HM Quick Cards</a>
 </li><li><a href="https://www.buyygy.com/90forLifeStore/en/jd-premium">JD Premium</a></li>
 <li><a href="https://www.buyygy.com/90forLifeStore/en/livinity">Livinity</a></li>
+<li><a href="http://www.youngevity.com/index.cfm/mialisia">Mialisia</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/products/by-brand/mineral-makeup/">Mineral Makeup</a></li>
 <li><a href="http://www.youngevity.com/index.cfm/products/by-brand/mk-collab/">MK Collab</a></li>
 </ul>
@@ -787,9 +813,25 @@ Send me a message:
 <li><a href="/index.cfm/more/support/resource-center/">Resource Center</a></li>
 <li><a href="/index.cfm/more/support/business-center/">Business Center</a></li>
 <li><a href="/index.cfm/more/support/my90forlife/">My90ForLife</a></li>
+<li><a href="/index.cfm/more/support/product-return-refund-policy/">Product Return &amp; Refund Policy</a></li>
+<li>
+<div class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" href="#">Choose Your Country or Language</a>
+<ul class="dropdown-menu dd-menu">
+<li><a onclick="ssoSetCountry('us-en')">United States</a></li>
+<li><a onclick="ssoSetCountry('us-es')">Estados Unidos - Español</a></li>
+<li><a onclick="ssoSetCountry('nz')">New Zealand</a></li>
+<li><a onclick="ssoSetCountry('au')">Australia</a></li>
+</ul>
+</div>
+</li>
 </ul>
 </div>
 <div class="clearfix"></div>
+<style type="text/css">
+.dd-menu{background-color: #ed9620;}
+.dd-menu li > a:hover, .dd-menu li > a:focus{background-color: #ed9620;cursor: pointer;text-decoration: underline;}
+</style>
 </div><!-- end col -->
 <div class="right-content col-sm-10 col-md-7 col-md-offset-1 col-lg-9 col-lg-offset-0">
 <div class="clearfix"></div>
@@ -854,7 +896,7 @@ else {document.addEventListener("load", wsa_include_js, false);}
 <script type="text/javascript" src="/default/includes/themes/Youngevity/assets/ygy-sso/js/jquery/jquery-ui-1.11.1.min.js"></script>
 <script type="text/javascript" src="/default/includes/themes/Youngevity/assets/ygy-sso/js/jquery-migrate-1.2.1.min.js"></script>
 <script type="text/javascript" src="/default/includes/themes/Youngevity/assets/ygy-sso/js/bootstrap-3.0.0.min.js"></script>
-<script type="text/javascript" src="/default/includes/themes/Youngevity/assets/ygy-sso/js/sso.js?20150605"></script>
+<script type="text/javascript" src="/default/includes/themes/Youngevity/assets/ygy-sso/js/sso.js?20150623"></script>
 <script type="text/javascript" src="http://www.heritagemakers.com/ygyapi/js/sso.js.cfm?site=youngevity.com"></script>
 <!-- Main site js -->
 <script src="/default/includes/themes/Youngevity/js/less.js"></script>
