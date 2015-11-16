@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liquidation.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509091009id_/http%3A//www.liquidation.com/c/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquidation.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116050013id_/http%3A//www.liquidation.com/c/privacy.html) for the most accurate reproduction.*
 
 # Liquidation.com Privacy Policy
 
