@@ -1,52 +1,47 @@
-> *The following text is extracted and transformed from the daemon-toolbar.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204114434id_/http%3A//www.daemon-tools.cc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daemon-toolbar.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116012738id_/http%3A//gamespace.daemon-tools.cc/eng/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - DAEMON-Tools.cc :: DAEMON-Tools.cc
+# Privacy policy - GameSpace
 
-At Disc Soft, your security and privacy is of the utmost importance to us. So we’ve developed a Privacy Policy that covers how we collect, use, disclose, and store your information. Please [let us know](https://web.archive.org/contacts) if you have any questions.
+At GameSpace.Daemon-Tools.cc we respect the privacy of our users and the importance of the information they entrust to us. We provide this Privacy Policy so that our users ("you") will know what information is available for us about you and your activities on GameSpace.Daemon-Tools.cc, how that information is being used, and with whom it is being shared. This Privacy Policy describes the online privacy practices applicable to the web pages within the Internet domain GameSpace.Daemon-Tools.cc (the "Site") and the various services ("Services") we provide on or through the Site. 
 
-### Collection and Use of Personal Information
+By using the Site and Services, you are agreeing to the receipt and use of certain information about you in the manner described in this Privacy Policy. 
 
-Personal information is data that can be used to uniquely identify or contact a single person.
+We update this Privacy Policy from time to time. If we make any material changes in the ways we may receive, use, or share information, we will notify you by posting notice of the changes on the Site. We encourage you to periodically review our Privacy Policy to become and remain familiar with it. 
 
-### What personal information we collect
+Issues that Privacy Policy addresses
 
-When you register your account, purchase a product, we may collect your email address and contact information.
+In order to provide our full range of services, we may receive and use he following types of information: 
 
-### How we use your personal information
+  
 
-The personal information we collect allows us to register and identify your software product license. It also allows us to keep you posted on Disc Soft latest product announcements, software updates, and upcoming events. If you don’t want to be on our mailing list, you can opt out anytime by updating [your preferences](https://disc-soft.com/account/options).
 
-### Collection and Use of Non-Personal Information
+  * **What types of information do we receive?**   
+Each time you visit the Site, we receive the limited information that your browser makes available whenever you visit any website. This information includes: (a) your Internet Protocol (IP) address; (b) the address of the last URL you visited before clicking through to the Site; (c) your browser and platform type (e.g., an IE browser on a Windows platform); (d) your browser language; and (e) the data in any undeleted "cookies" that your browser previously accepted from us. Additionally, when you enter a search query using the Site or Services, we will receive the query text and process it, together with the above data, to return a search results page to you. If you have modified your browser settings so that address-bar search queries and erroneous domain name system (DNS) requests are submitted to us, we may also receive any search query or misspelled URL that you enter into your browser's address bar. 
 
-We also collect non-personal information − data in a form that does not permit direct association with any specific individual.
+The Site and Services usually do not require registration or submission of an email address in order to use them. We may ask you to confirm your age to allow you access to certain areas of the Site. 
 
-Disc Soft collects general demographic information about visitors to our websites. The information we collect creates a broad picture of our population rather than focusing on any one individual. This information is used to continually refine our products and to identify the most popular areas of our websites.
+  * **How may we use the information we receive?**   
+We use the information that we receive to improve the overall quality of your experience with the Site and Services, and to facilitate evaluation, improvement, and development of the Services. We aggregate query information for internal reporting purposes and optimization of advertising revenue. We count, track, and aggregate our visitors' activities in our analysis of general traffic flows at the Site (e.g., tracking where users come from, what pages they select within the Site, how they interact with search results, etc.). 
 
-### Cookies and Other Technologies
+Information about the search queries you submit to the Site and how you interact with search results may also be used to personalize the content and advertisements that we present to you. We may, based on the search queries you submit and the search results you select (including paid search results), draw inferences about your interests and display advertisements matched to such interests. You may receive such customized ads on the Site, on websites in the Sponsored Listings network. 
 
-Disc Soft uses third-party advertising company (Google) to serve ads when you visit our web site. This company uses [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by this company, click [here](http://www.google.com/privacy_ads.html).
+  * **How are cookies used on the Site?**   
+We use cookies to track traffic flow and patterns of travel within and among the Site as well as websites in the Sponsored Listings network. Cookies are a standard Internet technology that allows us to store and retrieve information on a user's system. Our web server automatically asks a new user's browser whether it will accept our cookie file. If the user's browser accepts our cookie, our web server will record the cookie's unique ID for our use in internal reporting and for customized advertising. All of your search queries and interactions with search results on the Site are associated with your unique cookie ID. When you use the Site, or a website in the Sponsored Listings network, we may use your cookie data to customize the Services and advertisements delivered to you. 
 
-### Disclosure to Third Parties
+If you would like to remove our cookies from your computer, you can delete them using your browser (consult your browser's "help" menu to learn how to delete cookies). If you choose to decline or remove cookies, please note that you may not be able to use some of the interactive features offered on the Site. 
 
-The personal information will not be shared with Disc Soft partners or any third parties. It is stored on Disc Soft computers and accessed by authorized Disc Soft personnel only.
+  * **What happens when you leave the Site to go to other Internet sites?**   
+We do not control the information collection and dissemination policies of third-party companies. When you are on the Site, you may be directed to other sites that are beyond our control. For example, if you click on a search result, the click may take you to a third-party website. These other sites may independently collect data from or about you, solicit information from you, or place their own cookies on your computer. We are not responsible for any use of the information such third-party sites may collect. 
+  * **Do we take security precautions to protect your information?** We have security measures in place that are designed to safeguard and help prevent unauthorized access to information we receive online. GameSpace.Daemon-Tools.cc utilizes both industry and proprietary standards to preserve the confidentiality of information. We seek to limit access to our users' information to employees who we believe reasonably need access to that information to provide products or services to you or in order to perform their jobs. These employees have been informed of the need to maintain the security and confidentiality of such information. Unfortunately, no security system can be 100% secure; accordingly, we cannot guarantee the security of the information that we receive online. 
 
-Disc Soft will not share non-personal information associated with your use with any third parties unless we   
-(i) have your consent;  
-(ii) conclude that it is required by law or has a good faith belief that access, preservation or disclosure of such information is reasonably necessary to protect the rights, property or safety of Disc Soft, software product, its users or the public; or  
-(iii) provide such information in certain limited circumstances to third parties to carry out tasks on Disc Soft behalf (e.g., data storage) with strict limitations that prevent the data from being used or shared except as directed by Disc Soft. When this is done, it is subject to agreements that oblige those parties to process such information only on Disc Soft instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures.
 
-### Protection of Personal Information
 
-Disc Soft online services use Secure Sockets Layer (SSL) encryption on all web pages where personal information is collected. To make purchases from these services, you must use an SSL-enabled browser. Doing so protects the confidentiality of your personal information while it’s transmitted over the Internet.
+OUR SOFTWARE PRODUCTS WITH GAMESPACE FUNCTIONALITY, DAEMON TOOLS PRO AND DAEMON TOOLS LITE DO NOT COLLECT ANY INFORMATION THAT MIGHT BE USED TO PERSONALLY IDENTIFY YOU. 
 
-### Privacy Questions
+GAMESPACE.DAEMON-TOOLS.CC DOES NOT STORE ANY INFORMATION, INCLUDING YOUR IP ADDRESS THAT MIGHT BE USED TO PERSONALLY IDENTIFY YOU. 
 
-Disc Soft may update its Privacy Policy from time to time. If you have any questions or concerns about Privacy Policy or data processing, please [contact us](https://web.archive.org/contacts).
+GameSpace.Daemon-Tools.cc uses third-party advertising company (Google) to serve ads when you visit our website. This company uses [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by this company, click [here](http://www.google.com/privacy_ads.html). 
 
-Last updated: September 10, 2013
+If you have questions or suggestions, please leave your [feedback](https://web.archive.org/eng/page/feedback). 
 
-Disc Soft Ltd.  
-P.O. Box 2284  
-16 Albert Hoy Avenue, Belama Phase 1  
-Belize City, Belize C.A.  
-
+_Effective date: February 20, 2012_
