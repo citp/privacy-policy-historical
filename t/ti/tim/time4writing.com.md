@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the time4writing.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235814id_/http%3A//www.time4writing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the time4writing.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116023236id_/http%3A//www.time4writing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Time4Writing.com | Time4Writing
-
-## Privacy Policy
 
 Last updated August 12, 2009
 
@@ -12,7 +10,7 @@ Our postal address is:
 Fort Lauderdale, FL 33334
 
 We can be reached by [contacting us via email on this page](https://web.archive.org/contact-writing-classes "Contact Time4Writing").[](mailto:info@time4writing.com)  
-or you can reach us by telephone at 954.771.0914. For each visitor to our web page, our web server automatically recognizes information regarding your domain.
+or you can reach us by telephone at 855.771.0915. For each visitor to our web page, our web server automatically recognizes information regarding your domain.
 
 **Your California Privacy Rights  
 **Effective January 1, 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at: Time4Writing Attention: California Privacy Rights Request 6300 NE 1st Ave., Ste. 203 Ft. Lauderdale, Florida 33334
