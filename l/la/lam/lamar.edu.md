@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lamar.edu privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319155823id_/http%3A//www.lamar.edu/about-lu/privacy-and-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lamar.edu privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116024337id_/http%3A//www.lamar.edu/about-lu/privacy-and-security.html) for the most accurate reproduction.*
 
 # Privacy and Security Policy - Lamar University
 
