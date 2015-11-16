@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the changelog.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102004539id_/http%3A//thechangelog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the changelog.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116191617id_/https%3A//changelog.com/privacy) for the most accurate reproduction.*
 
 # The Changelog Privacy Policy - The Changelog
 
@@ -16,13 +16,13 @@ Please don’t forget that we are real people: take a look at our company page t
 
 When you read “The Changelog” or “we” as mentioned in this document, it refers to changelog.com (contact information), its affiliates and agents.
 
-Should you have other questions or concerns about this document, please get in touch [using our contact form](http://thechangelog.com/contact/) or [by submitting an issue on GitHub](https://github.com/thechangelog/legal/issues/new).
+Should you have other questions or concerns about this document, please get in touch [using our contact form](https://changelog.com/contact/) or [by submitting an issue on GitHub](https://github.com/thechangelog/legal/issues/new).
 
 ### About this document
 
 This is a living document and is [open source on GitHub](https://github.com/thechangelog/legal/blob/master/privacy.md).
 
-If you read something in this this document and it rubs you the wrong way, or you feel something should be added, please [submit an issue](https://github.com/thechangelog/legal/issues/new) or [contact us](http://thechangelog.com/contact/).
+If you read something in this this document and it rubs you the wrong way, or you feel something should be added, please [submit an issue](https://github.com/thechangelog/legal/issues/new) or [contact us](https://changelog.com/contact/).
 
 We don’t amend this document for any particular subscriber, but if your changes apply to all of our subscriber, we’ll be happy to update it for everyone.
 
