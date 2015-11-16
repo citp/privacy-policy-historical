@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zavvi.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608235951id_/http%3A//www.zavvi.com/articles/privacy-policy.list) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zavvi.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116183154id_/http%3A//www.zavvi.com/articles/privacy-policy.list) for the most accurate reproduction.*
 
 # Privacy Policy | Zavvi.com
 
