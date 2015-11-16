@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the himalayahealthcare.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202122733id_/http%3A//www.himalayawellness.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the himalayahealthcare.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116154457id_/http%3A//www.himalayawellness.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - The Himalaya Drug Company
 
@@ -22,7 +22,7 @@ We continue to evaluate our efforts to protect personal information and make eve
 
 If you identify any error in your personal information or need to make a change to that information, please contact us and we will promptly update our records.
 
-If you have any questions or concerns, please contact us by e-mail at [write.to.us@himalayahealthcare.com](mailto:write.to.us@himalayahealthcare.com) or call us at **\+ 91 80 23714444**  
+If you have any questions or concerns, please contact us by e-mail at [write.to.us@himalayawellness.com](mailto:write.to.us@himalayawellness.com) or call us at **\+ 91 80 23714444**  
 
 
 **Cookies**
