@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the leaguerepublic.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152543id_/http%3A//www.leaguerepublic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaguerepublic.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117100227id_/http%3A//www.leaguerepublic.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy
-
-* * *
+# Privacy - LeagueRepublic
 
 This policy gives the following information about personal data:
 
@@ -57,6 +55,10 @@ We may disclose your personal information to third parties:
   * to protect the rights, property, or safety of LR, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
+
+### Use of Intercom Services
+
+We use third-party analytics services to help understand your usage of our services. In particular, we provide a limited amount of your information (such as your email address and sign-up date) to Intercom, Inc. ("Intercom") and utilize Intercom to collect data for analytics purposes when you visit our website or use our product. Intercom analyzes your use of our website and/or product and tracks our relationship so that we can improve our service to you. We may also use Intercom as a medium for communications, either through email, or through messages within our product(s). As part of our service agreements, Intercom collects publicly available contact and social information related to you, such as your email address, gender, company, job title, photos, website URLs, social network handles and physical addresses, to enhance your user experience. For more information on the privacy practices of Intercom, please visit <http://docs.intercom.io/privacy>. Intercom's services are governed by Intercom's terms of use which can be found at <http://docs.intercom.io/terms>. If you would like to opt out of having this information collected by or submitted to Intercom, please contact us. 
 
 ### Your Rights
 
@@ -133,11 +135,3 @@ Click here to [opt out of being tracked by Google Analytics across all websites]
 Please be aware that restricting cookies may impact on the functionality of our website.
 
 To obtain further information on the ICC (UK) UK cookie guide visit <http://www.international-chamber.co.uk/our-expertise/digitaleconomy>
-
-### Changes to our privacy policy
-
-Any changes we may make to our privacy policy in the future will be posted on this page. This policy was last updated: **28 May 2012**
-
-### Contact
-
-Questions, comments and requests regarding this privacy policy should be addressed to LeagueRepublic, DJH Technology Ltd, Saturn Centre, Spring Road, Wolverhampton WV4 6JX or [Contact Us](https://web.archive.org/contact.html)
