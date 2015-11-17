@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epson.com.au privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626053609id_/http%3A//www.epson.com.au/company/other/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epson.com.au privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117190434id_/http%3A//www.epson.com.au/company/other/privacy_policy.asp) for the most accurate reproduction.*
 
 # Epson Australia - Privacy Policy
 
@@ -46,6 +46,7 @@ In these instances, Epson may obtain the following Personal Information:
   * E-mail address
   * Phone numbers
   * Fax number
+  * Credit card details are not processed through or retained on Epson's servers. Credit card information is processed on the Commonwealth Bank's credit card processing system, or via PayPal's systems. Epson does not have access to your credit card details. We can only see the first 6 numbers and the last 3 digits of your card number, for transaction matching or verification processes.
 
 
 
@@ -119,7 +120,7 @@ Epson may fulfil cashback promotions via electronic funds transfer (“EFT”), 
 ##   
 Security of Your Personal Information
 
-We will take reasonable steps to keep your Personal Information confidential and to protect it from misuse, unauthorised access, modification or disclosure. We have implemented and will maintain current standards of technology and operational security to protect your Personal Information from any such interference.
+We will take reasonable steps to keep your Personal Information confidential and to protect it from misuse, unauthorised access, modification or disclosure. We have implemented and will maintain current standards of technology and operational security to protect your Personal Information from any such interference. [Security policy.](https://web.archive.org/web/20151117190434id_/http%3A//www.epson.com.au/shoponline/help/security.asp "Epson Security Policy")
 
 ##   
 Opting-out and Updating Personal Information
@@ -136,7 +137,11 @@ Our Sites may provide you with links to other Internet sites ("Third Party Sites
 ##   
 Cookies
 
-Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. We use cookies to operate our Site membership system and to identify Products that you purchase via the "Shopping Trolley" facility on our "Shop Online" site. They also help us to identify visitors that have previously registered with a Site.
+Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. We use cookies to operate our Site membership system and to identify Products that you purchase via the "Shopping Trolley" facility on our "Shop Online" site. They also help us to identify visitors that have previously registered with the Site. Disabling website cookies may cause some page errors and reduced functionality. In addition, Epson contracts with service providers to place ads on third party websites, and Third-party Cookies maybe deployed to assist with Network Advertising, Retargeting and click through statistics. However, this Privacy Policy does not cover any additional use of information by service providers.
+
+## Network Advertising and Retargeting
+
+Epson Australia / New Zealand participates in online advertising networks and exchanges that display relevant advertisements to site visitors based on their interests as reflected in their browsing of the Sites and certain third party sites participating in the same networks and exchanges, including but not limited to networks and exchanges operated by AdRoll, Facebook and Google (this list is subject to change from a time-to-time basis). These companies use cookies, web beacons, pixels and other similar technologies to passively collect information from you which may be used to tailor the advertising you see on the Site or elsewhere on the web. This means that some information about your browsing of the Sites and certain third party sites may be shared with these companies for the purpose of delivering ads to you on the Sites and certain third party sites, and Epson Australia / New Zealand may receive from some of these companies information about third party sites that you have visited. This information is used for marketing purposes and the practice is sometimes termed "retargeting" to indicate that information from one retailer is used to suggest to you relevant products offered by another retailer. This Privacy Policy does not cover any use of information that such third parties themselves may have collected from you (e.g., type of browser, operating system, domain name, day and time of visit, page(s) visited) or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). Should you wish, you can also learn more about opting out of interest-based advertising here: [Consumer Opt-out | NAI: Network Advertising Initiative.](http://www.networkadvertising.org/choices/)
 
 ##   
 Update of This Privacy Statement
