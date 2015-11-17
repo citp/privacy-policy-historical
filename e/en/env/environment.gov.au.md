@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629064422id_/http%3A//www.environment.gov.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117162703id_/http%3A//www.environment.gov.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy | Department of the Environment, Australian Government
 
   * [Download the Privacy Policy (PDF - 292 KB)](https://web.archive.org/system/files/pages/c48b8310-336b-424e-b67c-fb076944f330/files/privacy-policy-march-2014.pdf "Privacy policy")
 
