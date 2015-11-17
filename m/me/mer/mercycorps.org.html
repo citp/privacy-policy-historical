@@ -1,18 +1,26 @@
-<!--The following is the downloaded HTML source of the mercycorps.org privacy policy that was archived on 2014-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141228185108id_/http%3A//www.mercycorps.org/about-us/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mercycorps.org privacy policy that was archived on 2015-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151117164442id_/http%3A//www.mercycorps.org/about-us/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head profile="http://www.w3.org/1999/xhtml/vocab">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/8d1dc24787368f194f3b426cd23862b7959a7eb5.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W8TJB4"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//cdn.optimizely.com/js/1860180358.js"></script>
+  <!--[if IE]><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAMBVVNXGwEIUVBQAAM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<link rel="dns-prefetch" href="//d2vzblmkrkqjaj.cloudfront.net">
+<link rel="shortcut icon" href="http://d2zyf8ayvg1369.cloudfront.net/sites/default/files/favicon_0.png" type="image/png">
+<link rel="dns-prefetch" href="//d2zyf8ayvg1369.cloudfront.net">
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<meta name="description" content="We are committed to respecting the privacy rights of all donors and visitors to our website. The following information details Mercy Corps' collection, protection, and use of the data we receive from donors and visitors to this website. Our General Policy Mercy Corps recognizes the importance of protecting information we may collect from donors and visitors to our site. We maintain appropriate security measures to keep this information private.">
+<meta name="generator" content="Drupal 7 (http://drupal.org)">
 <link rel="canonical" href="http://www.mercycorps.org/about-us/privacy-policy">
 <link rel="shortlink" href="http://www.mercycorps.org/node/14951">
-<link rel="shortcut icon" href="http://www.mercycorps.org/sites/default/files/favicon_0.png" type="image/png">
-<meta name="description" content="We are committed to respecting the privacy rights of all donors and visitors to our website. The following information details Mercy Corps' collection, protection, and use of the data we receive from donors and visitors to this website.
-Our General Policy
-Mercy Corps recognizes the importance of protecting information we may collect from donors and visitors to our site. We maintain appropriate security measures to keep this information private.">
 <meta property="og:site_name" content="Mercy Corps">
-<meta property="og:title" content="Privacy Policy">
-<meta property="og:description" content="We are committed to respecting the privacy rights of all donors and visitors to our website. The following information details Mercy Corps' collection, protection, and use of the data we receive from ">
+<meta property="og:type" content="article">
 <meta property="og:url" content="http://www.mercycorps.org/about-us/privacy-policy">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:description" content="We are committed to respecting the privacy rights of all donors and visitors to our website. The following information details Mercy Corps' collection, protection, and use of the data we receive from donors and visitors to this website. Our General Policy Mercy Corps recognizes the importance of protecting information we may collect from donors and visitors to our site. We maintain appropriate security measures to keep this information private.">
+<meta property="og:updated_time" content="2015-04-09T10:23:09-07:00">
+<meta property="article:published_time" content="2010-01-12T10:34:05-08:00">
+<meta property="article:modified_time" content="2015-04-09T10:23:09-07:00">
   <title>Privacy Policy | Mercy Corps</title>
 
   <meta charset="utf-8">
@@ -20,46 +28,15 @@ Mercy Corps recognizes the importance of protecting information we may collect f
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
   <meta http-equiv="cleartype" content="on">
 
-  <style type="text/css" media="all">
-@import url("http://www.mercycorps.org/modules/system/system.base.css?nh7rm4");
-</style>
-<style type="text/css" media="all">
-@import url("http://www.mercycorps.org/sites/all/modules/contrib/adaptive_image/css/adaptive-image.css?nh7rm4");
-@import url("http://www.mercycorps.org/modules/book/book.css?nh7rm4");
-@import url("http://www.mercycorps.org/modules/comment/comment.css?nh7rm4");
-@import url("http://www.mercycorps.org/sites/all/modules/contrib/date/date_api/date.css?nh7rm4");
-@import url("http://www.mercycorps.org/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?nh7rm4");
-@import url("http://www.mercycorps.org/sites/all/modules/contrib/fences/field.css?nh7rm4");
-@import url("http://www.mercycorps.org/sites/all/modules/custom/mc_social/mc_social.css?nh7rm4");
-@import url("http://www.mercycorps.org/sites/all/modules/contrib/mollom/mollom.css?nh7rm4");
-@import url("http://www.mercycorps.org/modules/node/node.css?nh7rm4");
-@import url("http://www.mercycorps.org/modules/search/search.css?nh7rm4");
-@import url("http://www.mercycorps.org/modules/user/user.css?nh7rm4");
-</style>
-<style type="text/css" media="all">
-@import url("http://www.mercycorps.org/sites/all/modules/contrib/ctools/css/ctools.css?nh7rm4");
-@import url("http://www.mercycorps.org/sites/all/modules/contrib/oembed/oembed.base.css?nh7rm4");
-@import url("http://www.mercycorps.org/sites/all/modules/contrib/oembed/oembed.theme.css?nh7rm4");
-@import url("http://www.mercycorps.org/sites/all/modules/contrib/rate/rate.css?nh7rm4");
-@import url("http://www.mercycorps.org/sites/all/modules/contrib/shorten/shortener/shortener.css?nh7rm4");
-@import url("http://www.mercycorps.org/sites/all/modules/contrib/views_slideshow/views_slideshow.css?nh7rm4");
-@import url("http://www.mercycorps.org/sites/all/modules/contrib/extlink/extlink.css?nh7rm4");
-</style>
-<style type="text/css" media="all">
-@import url("http://www.mercycorps.org/sites/all/themes/mercycorps/stylesheets/ie.css?nh7rm4");
-@import url("http://www.mercycorps.org/sites/all/themes/mercycorps/stylesheets/screen.css?nh7rm4");
-</style>
-  <script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/8d1dc24787368f194f3b426cd23862b7959a7eb5.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
+  <link type="text/css" rel="stylesheet" href="//d2vzblmkrkqjaj.cloudfront.net/sites/default/files/advagg_css/css___z7GSg4te8ZKksvTyY-c4gBO-dIKT9NBBGcZLLkU5sg__8fzAeN9pgvKVvOaB48b8gllKfVlIT135T35mtIXkE38__rIzaZKSpPrVS014vkgF_8T2CJu8a1MPyb9AA6OSv9mQ.css" media="all">
+<link type="text/css" rel="stylesheet" href="//d2vzblmkrkqjaj.cloudfront.net/sites/default/files/advagg_css/css__Q0mcPfKfNcKWvDuPdNJrgZPe7vAlztFtP0SG4YtDxrE__Z6fWgk5ybvAA11aILTnMm0D2yb9-jjGGhW1mwXUBG5o__rIzaZKSpPrVS014vkgF_8T2CJu8a1MPyb9AA6OSv9mQ.css" media="all">
+<link type="text/css" rel="stylesheet" href="//d2vzblmkrkqjaj.cloudfront.net/sites/default/files/advagg_css/css__vcSb0BeJEHU0qtwX_2f4iWhmnAvQaVKlgqnl3OgHq38__AcCCI2ytaEdwi0c9AZ5hsn58esQNTbRNfOyi9_DLjV4__rIzaZKSpPrVS014vkgF_8T2CJu8a1MPyb9AA6OSv9mQ.css" media="all">
+  <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-window.google_analytics_uacct = "UA-1501242-1";
+window.google_analytics_domain_name = ".mercycorps.org";window.google_analytics_uacct = "UA-1501242-1";
 //--><!]]>
 </script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-document.cookie = 'adaptive_image=' + Math.max(screen.width, screen.height) + '; path=/';
-//--><!]]>
-</script>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")
@@ -76,17 +53,13 @@ jQuery.migrateMute = true; jQuery.migrateTrace = false;
 jQuery.migrateWarnings || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js'>\x3C/script>")
 //--><!]]>
 </script><script src="/sites/all/modules/contrib/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js"></script>
-<script type="text/javascript" src="http://www.mercycorps.org/sites/default/files/js/js_vqp02BxKRqN_V4fPHW9d0Z05GDOJKbJXXnNpxnYl9_0.js"></script>
-<script type="text/javascript" src="http://www.mercycorps.org/sites/default/files/js/js_ku9CjPDoIKClQHFg_qmG0ZKDTheRkCuNe_KysFTfLz0.js"></script>
-<script type="text/javascript" src="http://www.mercycorps.org/sites/default/files/js/js_xUANlb51c5qTfQNzK_scy95taSR76E3T1obKGjax7XE.js"></script>
-<script type="text/javascript" src="http://www.mercycorps.org/sites/default/files/js/js_ZeYZ8VCeo5t_0yNqi8vXH3WgiAkdpkbpo1NH7sRJoXk.js"></script>
-<script type="text/javascript" src="http://cdn.optimizely.com/js/1860180358.js"></script>
-<script type="text/javascript" src="http://www.mercycorps.org/sites/default/files/js/js_7lZ0nGzEhjSw9nQ1CDIPAhEVeBDnfD_j3MZPBOxlsQA.js"></script>
+<script type="text/javascript" src="//d2vzblmkrkqjaj.cloudfront.net/sites/default/files/advagg_js/js__CX656OxMGGp0Gj9veB0vHQk-i-nDp0OkLnBJgOWW4yQ__Y1XIWtELrqHhnbiOV24xE-IzUuUzSPSnZ1DMN5zAdVo__rIzaZKSpPrVS014vkgF_8T2CJu8a1MPyb9AA6OSv9mQ.js"></script>
+<script type="text/javascript" src="//d2vzblmkrkqjaj.cloudfront.net/sites/default/files/advagg_js/js__znvNQfs_b_fllDokwybcgRVbm_nUNpizJEbFru1hevU__ysWbmpY0Zsf_ologOpXfGK1Ua3HL9T2S1AcXu7LWxcE__rIzaZKSpPrVS014vkgF_8T2CJu8a1MPyb9AA6OSv9mQ.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-1501242-1"]);_gaq.push(["_setDomainName", ".mercycorps.org"]);if (typeof(customTrackPageview) == typeof(Function)) {
-if (customTrackPageview() === false) {_gaq.push(["_trackPageview"]);}
-}(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://" : "http://") + "stats.g.doubleclick.net/dc.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1501242-1", {"cookieDomain":".mercycorps.org"});ga("require", "displayfeatures");// Optimizely Universal Analytics Integration
+window.optimizely = window.optimizely || [];
+window.optimizely.push("activateUniversalAnalytics");ga("send", "pageview");
 //--><!]]>
 </script>
 <script type="text/javascript">
@@ -94,7 +67,7 @@ if (customTrackPageview() === false) {_gaq.push(["_trackPageview"]);}
 var isUK = "false";
 //--><!]]>
 </script>
-<script type="text/javascript" src="http://www.mercycorps.org/sites/default/files/js/js__VmSNStC-5JRKizTGlozYsib3PLsiM9qd37kAn1zBow.js"></script>
+<script type="text/javascript" src="//d2vzblmkrkqjaj.cloudfront.net/sites/default/files/advagg_js/js__4Gh-q2rj5zgHXwPf4nO23TW1SaFYl9WbhF9IzTYzo_k__3MsXqxhqVrE8X2AyGJCDAN8XV6zPyxDcsr5GZPqC1MQ__rIzaZKSpPrVS014vkgF_8T2CJu8a1MPyb9AA6OSv9mQ.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 var _kmq = _kmq || [];
@@ -111,11 +84,10 @@ var _kmq = _kmq || [];
     _kms("//doug1izaerwt3.cloudfront.net/" + _kmk + ".1.js");
 //--><!]]>
 </script>
-<script type="text/javascript" src="http://www.mercycorps.org/sites/default/files/js/js_NKS7bGEC6lP-bYb8ASZJrHbmnGaIb_7VkFxx6-FteP4.js"></script>
-<script type="text/javascript" src="http://www.mercycorps.org/sites/default/files/js/js_ppIlkOs2E4IsaZlUMeKfFUZFlSJ_LohIV-nteSCe9WU.js"></script>
+<script type="text/javascript" src="//d2vzblmkrkqjaj.cloudfront.net/sites/default/files/advagg_js/js__waQI6zcBRu0RUic2o9rXaOKZh6CQ1R2jfY6_CS0ODfg__U1WDATyV2ZK-cYfTRZ6lsOT3vmO8OP1SdMLzhM5Hk4Y__rIzaZKSpPrVS014vkgF_8T2CJu8a1MPyb9AA6OSv9mQ.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"mercycorps","theme_token":"Yk-1NkLDU1PEWnk8dKpyLa50oQsB-A1FjLt5R5kcEZo","js":{"0":1,"1":1,"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.min.js":1,"2":1,"3":1,"\/\/code.jquery.com\/jquery-migrate-1.2.1.min.js":1,"4":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/balupton-history.js\/scripts\/bundled\/html4+html5\/jquery.history.js":1,"sites\/all\/libraries\/fitvids\/jquery.fitvids.js":1,"sites\/all\/modules\/contrib\/splashify\/js\/jquery.json-2.3.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/cookiecontrol\/js\/cookieControl-5.1.min.js":1,"sites\/all\/modules\/contrib\/fitvids\/fitvids.js":1,"sites\/all\/modules\/custom\/mc_social\/js\/mc_social.js":1,"sites\/all\/modules\/custom\/mc_tracking\/ga.init.js":1,"sites\/all\/libraries\/colorbox\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"http:\/\/cdn.optimizely.com\/js\/1860180358.js":1,"sites\/all\/modules\/contrib\/shorten\/shortener\/shortener.js":1,"sites\/all\/libraries\/jstorage\/jstorage.min.js":1,"sites\/all\/modules\/contrib\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"5":1,"6":1,"sites\/all\/libraries\/jquery.hoverIntent\/jquery.hoverIntent.js":1,"7":1,"sites\/all\/modules\/custom\/mc_data\/js\/app.js":1,"sites\/all\/modules\/custom\/mc_local_utils\/js\/breakpoints.min.js":1,"sites\/all\/modules\/custom\/mc_tracking\/ga.extra.js":1,"sites\/all\/themes\/mercycorps\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/adaptive_image\/css\/adaptive-image.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/custom\/mc_social\/mc_social.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/oembed\/oembed.base.css":1,"sites\/all\/modules\/contrib\/oembed\/oembed.theme.css":1,"sites\/all\/modules\/contrib\/rate\/rate.css":1,"sites\/all\/modules\/contrib\/shorten\/shortener\/shortener.css":1,"sites\/all\/modules\/contrib\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/themes\/mercycorps\/stylesheets\/ie.css":1,"sites\/all\/themes\/mercycorps\/stylesheets\/screen.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"100%","maxHeight":"100%","fixed":true},"extlink":{"extTarget":"_blank","extClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto"},"fitvids":{"custom_domains":[],"selectors":[".region\r",".region-content\r","#content\r",".container_12"],"simplifymarkup":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackDomainMode":"1"}});
+jQuery.extend(Drupal.settings,{"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"mercycorps","theme_token":"f_ocNMSQnCnXSHXHQQaiTa8VeEsmyyfjPvefOB_032c","css":{"modules\/system\/system.base.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/custom\/mc_social\/mc_social.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/oembed\/oembed.base.css":1,"sites\/all\/modules\/contrib\/oembed\/oembed.theme.css":1,"sites\/all\/modules\/contrib\/rate\/rate.css":1,"sites\/all\/modules\/contrib\/shorten\/shortener\/shortener.css":1,"sites\/all\/modules\/contrib\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/themes\/mercycorps\/stylesheets\/ie.css":1,"sites\/all\/themes\/mercycorps\/stylesheets\/screen.css":1},"js":{"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.min.js":1,"\/\/code.jquery.com\/jquery-migrate-1.2.1.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/balupton-history.js\/scripts\/bundled\/html4+html5\/jquery.history.js":1,"sites\/all\/libraries\/fitvids\/jquery.fitvids.js":1,"sites\/all\/modules\/contrib\/splashify\/js\/jquery.json-2.3.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/cookiecontrol\/js\/cookieControl-5.1.min.js":1,"sites\/all\/modules\/contrib\/fitvids\/fitvids.js":1,"sites\/all\/modules\/custom\/mc_social\/js\/mc_social.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/contrib\/shorten\/shortener\/shortener.js":1,"sites\/all\/libraries\/jstorage\/jstorage.min.js":1,"sites\/all\/modules\/contrib\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"sites\/all\/libraries\/jquery.hoverIntent\/jquery.hoverIntent.js":1,"sites\/all\/modules\/custom\/mc_data\/js\/app.js":1,"sites\/all\/modules\/custom\/mc_local_utils\/js\/breakpoints.min.js":1,"sites\/all\/themes\/mercycorps\/js\/script.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"extlink":{"extTarget":"_blank","extClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto"},"urlIsAjaxTrusted":{"https:\/\/www.mercycorps.org\/about-us\/privacy-policy":true,"\/about-us\/privacy-policy":true},"fitvids":{"custom_domains":[],"selectors":[".region\r",".region-content\r","#content\r",".container_12"],"simplifymarkup":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"}});
 //--><!]]>
 </script>
     <!--[if lt IE 9]>
@@ -130,24 +102,17 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 	  <script type="text/javascript" src="/sites/all/themes/mercycorps/js/respond.min.js"></script>
     <![endif]-->
 </head>
-<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-14951 node-type-page   not-emergency" style="">
-    <!--
-Start of DoubleClick Floodlight Tag: Please do not remove
-Activity name of this tag: All Other Content Pages
-URL of the webpage where the tag is expected to be placed: https://www.mercycorps.org/
-This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
-Creation Date: 08/07/2012
--->
-<script type="text/javascript">
-var axel = Math.random() + "";
-var a = axel * 10000000000000;
-document.write('<iframe src="http://fls.doubleclick.net/activityi;src=3772203;type=count102;cat=allot074;ord=1;num=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-</script><iframe src="http://fls.doubleclick.net/activityi;src=3772203;type=count102;cat=allot074;ord=1;num=8574303764851.59?" width="1" height="1" frameborder="0" style="display:none"></iframe>
-<noscript>
-<iframe src="http://fls.doubleclick.net/activityi;src=3772203;type=count102;cat=allot074;ord=1;num=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
-</noscript>
-<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
-<div id="pagewrapper" class="container_12">
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-14951 node-type-page    not-emergency" style="">
+    <!-- Google Tag Manager -->
+      <noscript><iframe src="//www.googletagmanager.com/ns.html?id="GTM-W8TJB4"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":
+      new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
+      "//www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,"script","dataLayer","GTM-W8TJB4");</script>
+      <!-- End Google Tag Manager -->
+    <div id="pagewrapper" class="container_12">
   
   <div class="grid_12">
     
@@ -157,13 +122,13 @@ document.write('<iframe src="http://fls.doubleclick.net/activityi;src=3772203;ty
             <div class="drupal_block ">
   
 
-<img class="adaptive-image" typeof="foaf:Image" src="http://www.mercycorps.org/sites/default/files/styles/banner/adaptive-image/public/guatemala-200603-devans-0469.jpg?itok=qOdL4kn9" alt="David Evans/Mercy Corps" title="David Evans/Mercy Corps"><div class="hush fontsize_tiny" style="position: absolute; top:0;right:0;">David Evans/Mercy Corps</div><!-- block__no_wrapper -->
+<img class="adaptive-image" typeof="foaf:Image" src="http://d2zyf8ayvg1369.cloudfront.net/sites/default/files/styles/banner/public/tajikistan-201009-jstrickland-0031.jpg" alt="John Strickland/Mercy Corps" title="John Strickland/Mercy Corps"><div class="hush fontsize_tiny" style="position: absolute; top:0;right:0;">John Strickland/Mercy Corps</div><!-- block__no_wrapper -->
 </div>
       </section>
       
       <section id="logo">
                   <a href="/" title="Mercy Corps home" rel="home" id="">
-            <img src="http://www.mercycorps.org/sites/default/files/mercycorps_logo_plain_0.png" alt="Mercy Corps">
+            <img src="http://d2zyf8ayvg1369.cloudfront.net/sites/default/files/mercycorps_logo_plain_0.png" alt="Mercy Corps">
           </a>
               </section><!--/#logo-->
       
@@ -175,7 +140,7 @@ document.write('<iframe src="http://fls.doubleclick.net/activityi;src=3772203;ty
 <li class="menu-2686" id="topnav-button-2"><a href="/innovations" title="How we innovate">How we innovate</a></li>
 <li class="menu-2687" id="topnav-button-3"><a href="/ways-to-help" title="Ways to help">Ways to help</a></li>
 <li class="menu-3876" id="topnav-button-4"><a href="/donate/become-monthly-giver" title="Monthly giving">Monthly giving</a></li>
-<li class="menu-10446 last" id="topnav-button-5"><a href="/donate" title="Donate">Donate</a></li>
+<li class="menu-10446 last" id="topnav-button-5"><a href="/donate" title="Donate">Donate ▸</a></li>
 </ul>      </nav><!--/#topnav-->
       
     </header><!--/#masthead-->
@@ -192,11 +157,12 @@ document.write('<iframe src="http://fls.doubleclick.net/activityi;src=3772203;ty
           <h1>Privacy Policy</h1>
                       
                       <section class="sharethis">
-    <span><strong>Share</strong> this page: </span><ul><li class="first"><a href="http://www.facebook.com/sharer.php?u=http%3A//www.mercycorps.org/about-us/privacy-policy" target="_blank"><img class="facebook" src="http://www.mercycorps.org/sites/all/modules/custom/mc_social/icons/socialmedia/facebook.png" alt="facebook"></a></li>
-<li><a href="http://twitter.com/home/?status=Mercy%20Corps%20is%20saving%20%26%20improving%20lives%20in%20the%20world%27s%20toughest%20places.%20Find%20out%20how%3A%20mercycorps.org%20www.bit.ly/YjXpzL" target="_blank"><img class="twitter" src="http://www.mercycorps.org/sites/all/modules/custom/mc_social/icons/socialmedia/twitter.png" alt="twitter"></a></li>
-<li><a href="http://www.tumblr.com/share/link" target="_blank"><img class="tumblr" src="http://www.mercycorps.org/sites/all/modules/custom/mc_social/icons/socialmedia/tumblr.png" alt="tumblr"></a></li>
-<li><a href="/%23" target=""><img class="pinterest" src="http://www.mercycorps.org/sites/all/modules/custom/mc_social/icons/socialmedia/pinterest.png" alt="pinterest"></a></li>
-<li class="last"><a href="/forward?path=about-us/privacy-policy&amp;title=Privacy%20Policy" target=""><img class="email" src="http://www.mercycorps.org/sites/all/modules/custom/mc_social/icons/socialmedia/email.png" alt="email"></a></li>
+    <span><strong>Share</strong> this page: </span><ul><li class="first"><a href="http://www.facebook.com/sharer.php?u=http%3A//www.mercycorps.org/about-us/privacy-policy" target="_blank"><img class="facebook" src="http://d2zyf8ayvg1369.cloudfront.net/sites/all/modules/custom/mc_social/icons/default/facebook.png" alt="facebook"></a></li>
+<li><a href="http://twitter.com/home/?status=Mercy%20Corps%20is%20saving%20%26%20improving%20lives%20in%20the%20world%27s%20toughest%20places.%20Find%20out%20how%3A%20mercycorps.org%20www.bit.ly/YjXpzL" target="_blank"><img class="twitter" src="http://d2zyf8ayvg1369.cloudfront.net/sites/all/modules/custom/mc_social/icons/default/twitter.png" alt="twitter"></a></li>
+<li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A//www.mercycorps.org/about-us/privacy-policy" target="_blank"><img class="linkedin" src="http://d2zyf8ayvg1369.cloudfront.net/sites/all/modules/custom/mc_social/icons/default/linkedin.png" alt="linkedin"></a></li>
+<li><a href="http://plus.google.com/share?url=http%3A//www.mercycorps.org/about-us/privacy-policy" target="_blank" onclick="javascript:window.open(this.href,
+  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img class="google" src="http://d2zyf8ayvg1369.cloudfront.net/sites/all/modules/custom/mc_social/icons/default/google.png" alt="google"></a></li>
+<li class="last"><a href="/forward?path=about-us/privacy-policy&amp;title=Privacy%20Policy" target=""><img class="email" src="http://d2zyf8ayvg1369.cloudfront.net/sites/all/modules/custom/mc_social/icons/default/email.png" alt="email"></a></li>
 </ul>  </section>
                     
                       
@@ -233,7 +199,6 @@ document.write('<iframe src="http://fls.doubleclick.net/activityi;src=3772203;ty
 <p>We use a third-party email marketing party to deliver emails. This company employs techniques for tracking open rates and click-thrus that use email address as an identifier.</p>
 <p>You will be given the option to remove your name from our email list at the bottom of each email update. And, again, we will not sell, rent or trade your email address to a third party.</p>
 <p><b>Online Donations</b></p>
-<p>Mercy Corps' online and offline donation processing systems comply with PCI Security Standards, a set of comprehensive requirements for enhancing payment account data security. For more about these standards, <a href="https://www.pcisecuritystandards.org/security_standards/pci_dss.shtml">click here</a>.</p>
 <p>Our online donation processor hosts our secure giving pages on PCI Compliant servers and uses high-grade encryption and the industry-standard https security protocol to ensure secure transactions.</p>
 <p>Independent external and internal audits ensure the privacy, security and appropriate processing of your information on our site.</p>
 <p><a href="donor-pledge">Read our nine promises to donors here.</a></p>
@@ -273,15 +238,12 @@ document.write('<iframe src="http://fls.doubleclick.net/activityi;src=3772203;ty
 <li class="menu-6432"><a href="/about-us/our-team" title="">Our team</a></li>
 <li class="menu-6433"><a href="/about-us/our-work" title="">Our work</a></li>
 <li class="menu-6434"><a href="/about-us/our-history" title="">Our history</a></li>
-<li class="menu-6435"><a href="/all-stories" title="">Latest stories</a></li>
 <li class="menu-6436"><a href="/about-us/why-give" title="">Why give to Mercy Corps</a></li>
 <li class="menu-6437"><a href="/about-us/financials" title="">Financial information</a></li>
+<li class="menu-12335"><a href="/about-us/board-of-directors" title="Our board">Our board</a></li>
 <li class="menu-6440"><a href="/press-room" title="">Press room</a></li>
 <li class="menu-6443"><a href="/research-resources" title="">Research &amp; Resources</a></li>
-<li class="menu-6441"><a href="/action-center" title="">Mercy Corps Action Center</a></li>
-<li class="menu-7478"><a href="/events" title="">Events</a></li>
 <li class="menu-6438"><a href="/careers" title="">Careers</a></li>
-<li class="menu-6439"><a href="/careers/internships" title="">Internships</a></li>
 <li class="menu-6446 last"><a href="/contact" title="">Contact us</a></li>
 </ul>    </li>
 </ul>
@@ -305,7 +267,7 @@ document.write('<iframe src="http://fls.doubleclick.net/activityi;src=3772203;ty
  </label>
  <input placeholder="your@email.address" type="text" id="edit-email" name="email" value="" size="22" maxlength="128" class="form-text">
 </div>
-<input type="submit" id="edit-submit--2" name="op" value="Sign up ▸" class="form-submit"><input type="hidden" name="form_build_id" value="form-GjHG476ZHoAiLtNrnRCMIGp18R1fYHY2dsDehyTXgGc">
+<input type="submit" id="edit-submit--2" name="op" value="Sign up ▸" class="form-submit"><input type="hidden" name="form_build_id" value="form-EWFF5XUdR3w6OPONuNNRWHopFc6dsrdt3OqmFzWQ_VY">
 <input type="hidden" name="form_id" value="newsletter_signup">
 </div></form></aside><!-- block__no_wrapper -->
 </div>
@@ -315,12 +277,11 @@ document.write('<iframe src="http://fls.doubleclick.net/activityi;src=3772203;ty
 <aside class="followus sidebar">
   
   <h3>Stay connected</h3>
-  <ul><li class="first"><a href="http://www.facebook.com/mercycorps" target="_blank" title="facebook"><span style="padding: 0 5px;">Like us on <strong>Facebook</strong></span><img src="http://www.mercycorps.org/sites/all/modules/custom/mc_social/icons/default/facebook.png" alt="Facebook" title="Facebook"></a></li>
-<li><a href="http://www.twitter.com/mercycorps" target="_blank" title="twitter"><span style="padding: 0 5px;">Follow us on <strong>Twitter</strong></span><img src="http://www.mercycorps.org/sites/all/modules/custom/mc_social/icons/default/twitter.png" alt="Twitter" title="Twitter"></a></li>
-<li><a href="http://mercycorps.tumblr.com" target="_blank" title="tumblr"><span style="padding: 0 5px;">Follow us on <strong>Tumblr</strong></span><img src="http://www.mercycorps.org/sites/all/modules/custom/mc_social/icons/default/tumblr.png" alt="Tumblr" title="Tumblr"></a></li>
-<li><a href="http://instagram.com/mercycorps" target="_blank" title="instagram"><span style="padding: 0 5px;">Follow us on <strong>Instagram</strong></span><img src="http://www.mercycorps.org/sites/all/modules/custom/mc_social/icons/default/instagram.png" alt="Instagram" title="Instagram"></a></li>
-<li><a href="https://pinterest.com/mercycorps" target="_blank" title="pinterest"><span style="padding: 0 5px;">Follow our boards on <strong>Pinterest</strong></span><img src="http://www.mercycorps.org/sites/all/modules/custom/mc_social/icons/default/pinterest.png" alt="Pinterest" title="Pinterest"></a></li>
-<li class="last"><a href="http://www.youtube.com/mercycorps" target="_blank" title="youtube"><span style="padding: 0 5px;">See our videos on <strong>YouTube</strong></span><img src="http://www.mercycorps.org/sites/all/modules/custom/mc_social/icons/default/youtube.png" alt="YouTube" title="YouTube"></a></li>
+  <ul><li class="first"><a href="http://www.facebook.com/mercycorps" target="_blank" title="facebook"><span style="padding: 0 5px;">Like us on <strong>Facebook</strong></span><img src="http://d2zyf8ayvg1369.cloudfront.net/sites/all/modules/custom/mc_social/icons/social_icons/facebook.png" alt="Facebook" title="Facebook"></a></li>
+<li><a href="http://www.twitter.com/mercycorps" target="_blank" title="twitter"><span style="padding: 0 5px;">Follow us on <strong>Twitter</strong></span><img src="http://d2zyf8ayvg1369.cloudfront.net/sites/all/modules/custom/mc_social/icons/social_icons/twitter.png" alt="Twitter" title="Twitter"></a></li>
+<li><a href="https://plus.google.com/+mercycorps" target="_blank" title="google"><span style="padding: 0 5px;">Follow us on <strong>Google</strong></span><img src="http://d2zyf8ayvg1369.cloudfront.net/sites/all/modules/custom/mc_social/icons/social_icons/google.png" alt="Google" title="Google"></a></li>
+<li><a href="http://instagram.com/mercycorps" target="_blank" title="instagram"><span style="padding: 0 5px;">Follow us on <strong>Instagram</strong></span><img src="http://d2zyf8ayvg1369.cloudfront.net/sites/all/modules/custom/mc_social/icons/social_icons/instagram.png" alt="Instagram" title="Instagram"></a></li>
+<li class="last"><a href="http://www.youtube.com/mercycorps" target="_blank" title="youtube"><span style="padding: 0 5px;">See our videos on <strong>YouTube</strong></span><img src="http://d2zyf8ayvg1369.cloudfront.net/sites/all/modules/custom/mc_social/icons/social_icons/youtube.png" alt="YouTube" title="YouTube"></a></li>
 </ul>  
   
 </aside><!-- block__no_wrapper -->
@@ -352,7 +313,7 @@ document.write('<iframe src="http://fls.doubleclick.net/activityi;src=3772203;ty
   <label class="element-invisible" for="edit-search-block-form--2">Search </label>
  <input title="Enter the terms you wish to search for." placeholder="Search our site" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text">
 </div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-SAHIj8Ripg4j-Y4tt_FCK5ZlzTOh-fUMVvIz48fLGNk">
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-HBc5IK9_bJWxDaQ-l9OolQ_W_wm0Ejyo1EtwnQR-atE">
 <input type="hidden" name="form_id" value="search_block_form">
 </div>
 </div></form><!-- block__no_wrapper -->
@@ -389,55 +350,59 @@ document.write('<iframe src="http://fls.doubleclick.net/activityi;src=3772203;ty
 </ul>              </li>
       <li id="sitemap-button-1" class="grid_4">
         <h4>Where we work</h4>
-        <div class="view view-footer-nav-terms view-id-footer_nav_terms view-display-id-block view-dom-id-8308e29f56044a49838bdfacd3a9be5e">
+        <div class="view view-footer-nav-terms view-id-footer_nav_terms view-display-id-block view-dom-id-92af3633df574e5153ad53b4d2503ca8">
         
   
   
       <div class="view-content">
           <ul>          <li class="">  
-          <a href="/afghanistan">Afghanistan</a>  </li>
+          <a href="/countries/afghanistan">Afghanistan</a>  </li>
           <li class="">  
-          <a href="/bolivia">Bolivia</a>  </li>
+          <a href="/countries/central-african-republic">Central African Republic</a>  </li>
           <li class="">  
-          <a href="/turkey">Turkey</a>  </li>
+          <a href="/countries/china">China</a>  </li>
           <li class="">  
-          <a href="/central-african-republic">Central African Republic</a>  </li>
+          <a href="/countries/colombia">Colombia</a>  </li>
           <li class="">  
-          <a href="/china">China</a>  </li>
+          <a href="/countries/dr-congo">DR Congo</a>  </li>
           <li class="">  
-          <a href="/colombia">Colombia</a>  </li>
+          <a href="/countries/egypt">Egypt</a>  </li>
           <li class="">  
-          <a href="/dr-congo">DR Congo</a>  </li>
+          <a href="/countries/ethiopia">Ethiopia</a>  </li>
           <li class="">  
-          <a href="/egypt">Egypt</a>  </li>
+          <a href="/countries/georgia">Georgia</a>  </li>
           <li class="">  
-          <a href="/ethiopia">Ethiopia</a>  </li>
+          <a href="/countries/guatemala">Guatemala</a>  </li>
           <li class="">  
-          <a href="/georgia">Georgia</a>  </li>
+          <a href="/countries/haiti">Haiti</a>  </li>
           <li class="">  
-          <a href="/guatemala">Guatemala</a>  </li>
+          <a href="/countries/honduras">Honduras</a>  </li>
           <li class="">  
-          <a href="/haiti">Haiti</a>  </li>
+          <a href="/countries/india">India</a>  </li>
           <li class="">  
-          <a href="/honduras">Honduras</a>  </li>
+          <a href="/countries/indonesia">Indonesia</a>  </li>
           <li class="">  
-          <a href="/india">India</a>  </li>
+          <a href="/countries/iraq">Iraq</a>  </li>
           <li class="">  
-          <a href="/indonesia">Indonesia</a>  </li>
+          <a href="/countries/japan">Japan</a>  </li>
           <li class="">  
-          <a href="/iraq">Iraq</a>  </li>
+          <a href="/countries/jordan">Jordan</a>  </li>
           <li class="">  
-          <a href="/japan">Japan</a>  </li>
+          <a href="/countries/kenya">Kenya</a>  </li>
           <li class="">  
-          <a href="/jordan">Jordan</a>  </li>
+          <a href="/countries/kosovo">Kosovo</a>  </li>
           <li class="">  
-          <a href="/kenya">Kenya</a>  </li>
+          <a href="/countries/kyrgyzstan">Kyrgyzstan</a>  </li>
           <li class="">  
-          <a href="/kosovo">Kosovo</a>  </li>
+          <a href="/countries/lebanon">Lebanon</a>  </li>
           <li class="">  
-          <a href="/kyrgyzstan">Kyrgyzstan</a>  </li>
+          <a href="/countries/liberia">Liberia</a>  </li>
           <li class="">  
-          <a href="/lebanon">Lebanon</a>  </li>
+          <a href="/countries/libya">Libya</a>  </li>
+          <li class="">  
+          <a href="/countries/mali">Mali</a>  </li>
+          <li class="">  
+          <a href="/countries/mongolia">Mongolia</a>  </li>
       </ul>    </div>
   
   
@@ -445,61 +410,57 @@ document.write('<iframe src="http://fls.doubleclick.net/activityi;src=3772203;ty
   
   
   
-</div>        <div class="view view-footer-nav-terms view-id-footer_nav_terms view-display-id-block_1 view-dom-id-413cd0211f30eaec381ade36b3f7ab4a">
+</div>        <div class="view view-footer-nav-terms view-id-footer_nav_terms view-display-id-block_1 view-dom-id-c61b53c5c5d899338c617ae1130034f5">
         
   
   
       <div class="view-content">
           <ul>          <li class="">  
-          <a href="/liberia">Liberia</a>  </li>
+          <a href="/countries/myanmar">Myanmar</a>  </li>
           <li class="">  
-          <a href="/libya">Libya</a>  </li>
+          <a href="/countries/nepal">Nepal</a>  </li>
           <li class="">  
-          <a href="/mali">Mali</a>  </li>
+          <a href="/countries/nicaragua">Nicaragua</a>  </li>
           <li class="">  
-          <a href="/mongolia">Mongolia</a>  </li>
+          <a href="/countries/niger">Niger</a>  </li>
           <li class="">  
-          <a href="/myanmar">Myanmar</a>  </li>
+          <a href="/countries/nigeria">Nigeria</a>  </li>
           <li class="">  
-          <a href="/nepal">Nepal</a>  </li>
+          <a href="/countries/north-korea">North Korea</a>  </li>
           <li class="">  
-          <a href="/nicaragua">Nicaragua</a>  </li>
+          <a href="/countries/pakistan">Pakistan</a>  </li>
           <li class="">  
-          <a href="/niger">Niger</a>  </li>
+          <a href="/countries/philippines">Philippines</a>  </li>
           <li class="">  
-          <a href="/nigeria">Nigeria</a>  </li>
+          <a href="/countries/somalia">Somalia</a>  </li>
           <li class="">  
-          <a href="/north-korea">North Korea</a>  </li>
+          <a href="/countries/south-sudan">South Sudan</a>  </li>
           <li class="">  
-          <a href="/pakistan">Pakistan</a>  </li>
+          <a href="/countries/sri-lanka">Sri Lanka</a>  </li>
           <li class="">  
-          <a href="/philippines">Philippines</a>  </li>
+          <a href="/countries/sudan">Sudan</a>  </li>
           <li class="">  
-          <a href="/somalia">Somalia</a>  </li>
+          <a href="/countries/syria">Syria</a>  </li>
           <li class="">  
-          <a href="/south-sudan">South Sudan</a>  </li>
+          <a href="/countries/tajikistan">Tajikistan</a>  </li>
           <li class="">  
-          <a href="/sri-lanka">Sri Lanka</a>  </li>
+          <a href="/countries/timor-leste">Timor-Leste</a>  </li>
           <li class="">  
-          <a href="/sudan">Sudan</a>  </li>
+          <a href="/countries/tunisia">Tunisia</a>  </li>
           <li class="">  
-          <a href="/syria">Syria</a>  </li>
+          <a href="/countries/turkey">Turkey</a>  </li>
           <li class="">  
-          <a href="/tajikistan">Tajikistan</a>  </li>
+          <a href="/countries/uganda">Uganda</a>  </li>
           <li class="">  
-          <a href="/timor-leste">Timor-Leste</a>  </li>
+          <a href="/countries/ukraine">Ukraine</a>  </li>
           <li class="">  
-          <a href="/tunisia">Tunisia</a>  </li>
+          <a href="/countries/united-states">United States</a>  </li>
           <li class="">  
-          <a href="/uganda">Uganda</a>  </li>
+          <a href="/countries/west-bank-and-gaza">West Bank and Gaza</a>  </li>
           <li class="">  
-          <a href="/united-states">United States</a>  </li>
+          <a href="/countries/yemen">Yemen</a>  </li>
           <li class="">  
-          <a href="/west-bank-and-gaza">West Bank and Gaza</a>  </li>
-          <li class="">  
-          <a href="/yemen">Yemen</a>  </li>
-          <li class="">  
-          <a href="/zimbabwe">Zimbabwe</a>  </li>
+          <a href="/countries/zimbabwe">Zimbabwe</a>  </li>
       </ul>    </div>
   
   
@@ -510,7 +471,7 @@ document.write('<iframe src="http://fls.doubleclick.net/activityi;src=3772203;ty
 </div>      </li>
       <li id="sitemap-buttun-2" class="grid_3">
         <h4>What we do</h4>
-        <div class="view view-footer-nav-terms view-id-footer_nav_terms view-display-id-block_2 view-dom-id-82db97068afbefe4d6aaa27915a80b10">
+        <div class="view view-footer-nav-terms view-id-footer_nav_terms view-display-id-block_2 view-dom-id-34f162e050f69132411c9b8dcdefe9a8">
         
   
   
@@ -557,7 +518,7 @@ document.write('<iframe src="http://fls.doubleclick.net/activityi;src=3772203;ty
 <li class="menu-2680"><a href="/stock-gifts" title="">Gifts of stock</a></li>
 <li class="menu-2681"><a href="http://mercycorps.giftlegacy.com/" title="">Planned giving</a></li>
 <li class="menu-2682"><a href="/volunteer" title="">Volunteering</a></li>
-<li class="menu-2683 last"><a href="/link-to-us" title="">Link to us</a></li>
+<li class="menu-11451 last"><a href="/link-to-us" title="Link to us">Link to us</a></li>
 </ul>                
       </li>
     </ul>
@@ -571,15 +532,15 @@ document.write('<iframe src="http://fls.doubleclick.net/activityi;src=3772203;ty
 	</ul>
   </nav>
 
-  <address class="">
+<address class="">
     
-    <p>Copyright © 2014 Mercy Corps.</p>
+    <p>Copyright © 2015 Mercy Corps.</p>
     <p>Mercy Corps will never sell, rent or exchange your email address. See our <a href="/about-us/privacy-policy" class="active">privacy policy</a> for more information.</p>
           <p>
         PO Box 2669, Dept W, Portland, OR 97208-2669 USA<br>
         To give: <a href="tel:8887477440">(888) 747-7440</a><br>
       </p>
-      <p><a href="http://www.mercycorps.org.uk">Click here to visit Mercy Corps UK</a></p>
+      <p><a href="http://www.mercycorps.org.uk">Click here to visit Mercy Corps Europe</a></p>
         
   </address>
   
@@ -598,6 +559,22 @@ document.write('<iframe src="http://fls.doubleclick.net/activityi;src=3772203;ty
   </div>
   
 </div>
-  
+<!--
+Start of DoubleClick Floodlight Tag: Please do not remove
+Activity name of this tag: All Other Content Pages
+URL of the webpage where the tag is expected to be placed: https://www.mercycorps.org/
+This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+Creation Date: 08/07/2012
+-->
+<script type="text/javascript">
+var axel = Math.random() + "";
+var a = axel * 10000000000000;
+document.write('<iframe src="http://fls.doubleclick.net/activityi;src=3772203;type=count102;cat=allot074;ord=1;num=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+</script><iframe src="http://fls.doubleclick.net/activityi;src=3772203;type=count102;cat=allot074;ord=1;num=2395910328070.048?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+<noscript>
+<iframe src="http://fls.doubleclick.net/activityi;src=3772203;type=count102;cat=allot074;ord=1;num=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript>
+<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"67f79ea04f","applicationID":"2851272","transactionName":"NFMDZEpSC0IFVEFRWQ0ZIFNMWgpfS2hHXUAKRQhfVloLVjtBXF1B","queueTime":0,"applicationTime":366,"atts":"GBQAEgJIGEw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
 
 </body></html>
