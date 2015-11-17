@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foundingfuel.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519230423id_/http%3A//www.foundingfuel.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foundingfuel.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117190509id_/http%3A//www.foundingfuel.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Founding Fuel
 
@@ -27,11 +27,7 @@ We collect personally identifiable information about you through:
 
 The type of specific Data that we collect may include:
 
-  *  
-
-
   * Job title
-
   * Company name
 
   * Company address, phone number
