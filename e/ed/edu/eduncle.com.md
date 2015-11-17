@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eduncle.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518142539id_/http%3A//eduncle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduncle.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117080239id_/http%3A//www.eduncle.com/privacy-policy) for the most accurate reproduction.*
 
-# Eduncle.com
+# Eduncle.com | Privacy Policy
 
-### PRIVACY POLICY
+Privacy Policy
 
 The Privacy Policy is a basic description of how we collect your “Personal and Professional information”, and use it for the smooth functioning of the business. The information supplied by you can be used either for displaying on our website, or in certain areas that require them. Sharing of your personal information is solely for better communication between you and Eduncle and not for any other use. The main objective of Eduncle.com is to enable you to satisfy your academic requirements by giving you access to quality material supplied by the Teachers. We collect your Personal Information in order to record, support and facilitate your knowledge enhancement. Along with this, it also enables us to contact you in case there is some information updated on our website (Eduncle) that needs your due attention. In an effort to make our website effective, certain information may be collected each time you visit the website. By using the website, products or courses you give your consent to the collection, utilization and disclosure of your personal Information and course information, in accordance with this privacy policy. When you visit our website, certain cookies may be temporarily stored on your system. Whether you want your web browser to accept cookies or not is your choice. If you have not changed your computer’s settings, most likely your browser already accepts cookies. If you choose to decline cookies, you may not be able to fully experience all features of the website. 
 
