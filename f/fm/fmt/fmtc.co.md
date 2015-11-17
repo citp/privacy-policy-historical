@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fmtc.co privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129182442id_/http%3A//www.fmtc.co/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fmtc.co privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117232023id_/http%3A//www.fmtc.co/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FMTC Affiliate Datafeed and Tools
 
 ### Overview
 
-FMTC (“FMTC”) is committed to clearly informing users about the collection and use of their information when using our services. As a result, we have put together this Privacy Policy to explain how we collect, use and disclose certain information. This Privacy Policy only applies to our website and service located at FMTC.com (the “Web site”).
+FMTC (“FMTC”) is committed to clearly informing users about the collection and use of their information when using our services. As a result, we have put together this Privacy Policy to explain how we collect, use and disclose certain information. This Privacy Policy only applies to our website and service located at FMTC.co (the “Web site”).
 
 ### Collection of Personal Information
 
@@ -55,7 +55,7 @@ Use of the Web site is governed by, and subject to, the Terms of Service. Your u
 
 ### Contact
 
-For questions or concerns relating to privacy, we can be reached through the [Contact form ](http://www.formetocoupon.com/about-us/contact-us/ "Contact Us")on our site.
+For questions or concerns relating to privacy, we can be reached through the [Contact form ](http://www.fmtc.co/about-us/contact-us/ "Contact Us")on our site.
 
 ### Effective Date
 
