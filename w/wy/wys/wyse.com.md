@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyse.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010515id_/http%3A//www.wyse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyse.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117182344id_/http%3A//www.wyse.com/privacy) for the most accurate reproduction.*
 
 # Privacy statement | Dell Wyse
 
