@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the walterfootball.com privacy policy that was archived on 2015-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150618110258id_/http%3A//walterfootball.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the walterfootball.com privacy policy that was archived on 2015-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151117201454id_/http%3A//walterfootball.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta http-equiv="Cache-Control" content="no-store">
@@ -8,8 +8,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link href="/jscss/Images/wfico.ico" rel="icon" type="image/png">
-
+    <link href="/jscss/images/wfico.ico" rel="icon" type="image/png">
+    <link href="/android-hd-192.png" rel="icon" sizes="192x192">
+    <link href="/android-reg-128.png" rel="icon" sizes="128x128">
 
     <title>WalterFootball.com: Links</title>
 
@@ -32,7 +33,6 @@
 
     <!-- df stuff / not boostrap stuff-->
     <!--our stuff -->
-
 
 
     <style type="text/css">
@@ -68,15 +68,81 @@
             font-size: 12px;
         }
 
-         .small a {
-        margin:6px;
-    }
+        .small a {
+            margin: 6px;
+        }
 
-    .small {
-        line-height:20px;
-    }
-       .article{
-            text-align:left;
+        .small {
+            line-height: 20px;
+        }
+
+        .article {
+            text-align: left;
+        }
+
+        a.wfSubMenuButton, a.wfSubMenuButton:visited {
+            border: solid thin black;
+            color: black;
+            font-size: 14px;
+            font-weight: bold;
+            border-radius: 5px;
+            text-decoration: none;
+            display: inline-block;
+            padding: 5px;
+            cursor: pointer;
+        }
+
+            a.wfSubMenuButton:hover {
+                background-color: gray;
+                color: white;
+                cursor: pointer;
+            }
+
+        a.wfSubMenuButtonSelected, a.wfSubMenuButtonSelected:visited {
+            border: solid thin black;
+            font-size: 14px;
+            font-weight: bold;
+            border-radius: 5px;
+            text-decoration: none;
+            display: inline-block;
+            padding: 5px;
+            background-color: gray;
+            color: white;
+            cursor: pointer;
+        }
+
+        .responsiveCell {
+            display: inline-block;
+            vertical-align: top;
+        }
+
+        .responsiveCellRight {
+            display: inline-block;
+            vertical-align: top;
+            float: right;
+        }
+
+        .responsiveRow {
+            padding: 5px;
+            margin-left: 30px;
+            margin-top: 5px;
+            margin-right: 5px;
+            margin-bottom: 5px;
+            background-color: ivory;
+            clear: left;
+            border: solid thin silver;
+            border-radius: 5px;
+            /*
+                margin-left: 15px;
+                margin-top:5px;
+                margin-bottom:5px;
+                padding:5px; border:
+
+            */
+        }
+
+        .CreateAnchor {
+            font-size: 15px;
         }
     </style>
     <style>
@@ -87,7 +153,7 @@
 
         }
 
-     
+
 
     </style>
     <style type="text/css">
@@ -148,11 +214,23 @@
         table.toplevel {
             width: 93%;
         }
+
+        .navbardf {
+            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.02) 0%, rgba(0, 0, 0, 0.07) 100%) repeat scroll 0 0 transparent;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 3px;
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+            margin: 20px auto 30px;
+            padding: 10px;
+            width: 97%;
+        }
     </style>
-</head>
+    
+    <link href="/jscss/Kendo/kendo.common.css" rel="stylesheet" type="text/css">
+<script src="https://adosia.com/adscroll/iscroll-min.js"></script></head>
 
 <body style="background-image: url('/Images/football_field.jpg');">
-  
+    <!--216.158.235.235-->
     
     
 <script src="http://www.yardbarker.com/network.js" type="text/javascript"></script><script defer="false" type="text/javascript">_siteid = 3092; yardbar(); </script>
@@ -348,11 +426,10 @@ LD_GetBids();
     
 
 
-    <div class="container" style="background-color:white;">
+    <div class="container" style="padding-top:0px; background-color:white;">
 
         <!-- Static navbar -->
-        <div class="navbar navbar-default" style="background-color: #f8f8f8;border-color: #e7e7e7; opacity:1.0;" role="navigation">
-            <!--Main Menu-->
+        <div class="navbar navbar-default" style="background-color: #f8f8f8;border-color: #e7e7e7; opacity:1.0;" role="navigation">          
             <div class="container-fluid">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".mainMenuDF">
@@ -367,31 +444,35 @@ LD_GetBids();
                     <a class="navbar-brand  hidden-lg" data-toggle="tooltip" data-placement="bottom" title="Detailed NFL Mock Drafts, Player Prospect Rankings, and One of the Largest Mock Draft Databases on the Web." href="/">WF</a>
 
                 </div>
-                <div class="navbar-collapse collapse mainMenuDF">
-                    
+                <div class="navbar-collapse collapse mainMenuDF">                  
                     <ul class="nav navbar-nav">
                         <li>
                             <a href="/draft2016.php">2016 NFL Mock Draft</a>
                         </li>
+                        <li>
+                            <a href="/picks.php">NFL Picks</a>
+                        </li>
                         <li class="dropdown">
                             <a class="dropdown-toggle" href="/draft2015.php" data-toggle="dropdown">NFL Draft <span class="caret"></span></a>
-                            
                             <ul class="dropdown-menu" role="menu" style="z-index:10000;">
                                 <li class="dropdown-header"><img width="30" src="/jscss/Images/wflogobiggerTransparentBg.png"> Primary Content</li>                                
                                 <li><a href="/draft2016.php">2016 NFL Mock Draft</a></li>
                                 <li><a href="/draft2016charlie.php">Charlie's 2016 NFL Mock Draft</a></li>
+                                <li><a href="/draft2017.php">2017 NFL Mock Draft</a></li>
                                 <li><a href="/draftmailbag.php">NFL Draft Mailbag</a></li>
+                                <li><a href="/mocks/nfl/2016/oakland-raiders">Picks by Team</a></li>
+                                <li><a href="/mocks/nfl/2016/quarterback">Picks by Quarterback</a></li>
                                 <li class="divider"></li>
                                 <li class="dropdown-header"><img width="30" src="/jscss/Images/NewWFUserImg.png"> Reader Content</li>
-                                <li><a href="/Mocks/NFL/2016">Reader 2016 Mocks</a></li>
+                                <li><a href="/mocks/nfl/2016">Reader 2016 Mocks</a></li>
                                 <li class="divider"></li>
                                 <li class="dropdown-header"><img width="23" src="/jscss/Images/ExternalLinks.png">General Content</li>
                                 <li><a href="/nfldraftgrades.php">NFL Draft Grades</a></li>
                                 <li><a href="/nfldraftweekend.php">NFL Draft Weekend</a></li>
-                                <li><a href="/draft2015recap.php">College Football Game Recaps</a></li>
+                                <li><a href="/draft2016recap.php">College Football Game Recaps</a></li>
                                 <li><a href="/draft2015mmd.php">Monday Morning Draft</a></li>
                                 <li><a href="/draftchart.php">NFL Trade Value Chart</a></li>
-                                <li><a href="/nfldraftorder2015.php">2015 NFL Draft Order</a></li>
+                                <li><a href="/nfldraftorder2016.php">2016 NFL Draft Order</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
@@ -400,13 +481,13 @@ LD_GetBids();
                                 <li class="dropdown-header"><img width="30" src="/jscss/Images/wflogobiggerTransparentBg.png"> Primary Content</li>
                                 <li><a href="/draft2016.php">2016 NFL Mock Draft</a></li>                                                        
                                 <li><a href="/draft2016charlie.php">Charlie's 2016 NFL Mock Draft</a></li>
+                                <li><a href="/draft2017.php">2017 NFL Mock Draft</a></li>
+                                <li><a href="/draft2017charlie.php">Charlie's 2017 NFL Mock Draft</a></li>
                                 <li class="divider"></li>
                                 <li class="dropdown-header"><img width="23" src="/jscss/Images/ExternalLinks.png">General Content</li>
-                                <li><a href="/specialmockdrafts.php">Special Mock Drafts</a></li>
-                                
-                                <li><a href="/nfldraftorder2015.php">2015 NFL Draft Order</a></li>
+                                <li><a href="/specialmockdrafts.php">Special Mock Drafts</a></li>                          
+                                <li><a href="/nfldraftorder2016.php">2016 NFL Draft Order</a></li>
                                 <li><a href="/draftdata.php">NFL Mock Database</a></li>
-
                             </ul>
                         </li>
                         <li class="dropdown">
@@ -415,8 +496,8 @@ LD_GetBids();
                                 <li class="dropdown-header"><img width="30" src="/jscss/Images/wflogobiggerTransparentBg.png"> Primary Content</li>
                                 <li><a href="/draft2008P.php#2016positions">2016 Draft Prospects</a></li>
                                 <li><a href="/scoutingreports.php">NFL Scouting Reports</a></li>
-                                <li><a href="/draft2015bigboard.php">2015 Draft Big Board</a></li>
-                                <li><a href="/draft2015stock.php">2015 NFL Draft Stock</a></li>
+                                <li><a href="/draft2016bigboard.php">2016 Draft Big Board</a></li>
+                                <li><a href="/draft2015stock.php">NFL Draft Stock</a></li>
                                 <li><a href="/draft2015underclassmen.php">2015 Underclassmen</a></li>
                                 <li class="divider"></li>
                                 <li class="dropdown-header">Prospect Events</li>
@@ -437,20 +518,23 @@ LD_GetBids();
                             <ul class="dropdown-menu" role="menu" style="z-index:10000;">
                                 <li class="dropdown-header"><img width="30" src="/jscss/Images/wflogobiggerTransparentBg.png"> Primary Content</li>
                                 <li><a href="/fantasy.php">Fantasy Football Rankings</a></li>
-                                <li><a href="/fantasycheatsheet/2015/traditional">Fantasy Football Cheat Sheet</a></li>
+                                <li><a href="/fantasycheatsheet/display/chet-gresham">Chet's Fantasy Football Rankings</a></li>
+                                <li><a href="/fantasycheatsheet/2015/traditional">Fantasy Football Cheat Sheet</a></li>        
+                                <li><a href="/fantasy2015trainingcamp.php">Fantasy Football Stock Report</a></li>                                
                                 <li class="divider"></li>
                                 <li class="dropdown-header">In-Season</li>
                                 <li><a href="/fantasyweeklyrankings.php">Weekly Fantasy Rankings</a></li>
+                                <li><a href="/fantasyweeklyrankings/whotostart">But Who Starts ?!?!?</a></li>                             
                                 <li><a href="/fantasyadddrop.php">Fantasy Football Add/Drop</a></li>
                                 <li><a href="/fantasyinjury.php">Injury Reports</a></li>
-                                <li><a href="/fantasy2014startsit.php"> Start Em, Sit Em</a></li>
+                                <li><a href="/fantasy2015startsit.php"> Start Em, Sit Em</a></li>
                                 <li class="divider"></li>
                                 <li class="dropdown-header">Fantasy Draft Season</li>
-                                <li><a href="/fantasy2014sleepers.php">Fantasy Football Sleepers</a></li>
-                                <li><a href="/fantasy2014busts.php">Fantasy Football Busts</a></li>
-                                <li><a href="/fantasy2014preseason.php">Preseason Fantasy Stock</a></li>
-                                <li><a href="/preseason2014.php">Preseason Fantasy Notes</a></li>
-                                <li><a href="/fantasy2014mock08.php">Latest Fantasy Mock Draft</a></li>
+                                <li><a href="/fantasy2015sleepers.php">Fantasy Football Sleepers</a></li>
+                                <li><a href="/fantasy2015busts.php">Fantasy Football Busts</a></li>
+                                <li><a href="/fantasy2015preseason.php">Preseason Fantasy Stock</a></li>
+                                <li><a href="/preseason2015.php">Preseason Fantasy Notes</a></li>
+                                <li><a href="/fantasy2015mock06.php">Latest Fantasy Mock Draft</a></li>
                             </ul>
                         </li>
 
@@ -475,14 +559,17 @@ LD_GetBids();
                                 <li><a href="/collegepicks.php">College Football Picks</a></li>
                                 <li><a href="/confidencepool.php">Confidence Pool Picks</a></li>
                                 <li><a href="/bettingtrends.php">NFL Betting Trends</a></li>
-                                <li><a href="/nflbettingprops2014.php">NFL Betting Props</a></li>
+                                <li><a href="/nflbettingprops2015.php">NFL Betting Props</a></li>
                                 <li><a href="/betrules.php">Betting FAQ</a></li>
+                            
                                 <li class="divider"></li>
                                 <li class="dropdown-header">NFL Season</li>
                                 <li><a href="/nflpowerrankings.php">NFL Power Rankings</a></li>
                                 <li><a href="/nflreview.php">NFL Game Recaps</a></li>
-                                <li><a href="/nfltop100_2014.php">Top 100 NFL Players Recap</a></li>
-                                <li><a href="/mostoverratednflplayers_2014.php">Overrated Players</a></li>
+                                <li><a href="/nfltop100_2015.php">Top 100 NFL Players Recap</a></li>
+                                <li><a href="/mostoverratednflplayers_2015.php">Overrated Players</a></li>
+                                <li><a style="color:green; font-weight:bold;" href="/pickem">PickEm Contest</a></li>
+                                <li><a style="color:green; font-weight:bold;" href="/survivor">Survivor Contest</a></li>
                                 <li class="divider"></li>
                                 <li class="dropdown-header">NFL Offseason</li>
                                 <li><a href="/freeagents.php">NFL Free Agent Tracker</a></li>
@@ -492,16 +579,10 @@ LD_GetBids();
                                 <li><a href="/rookieforecast.php">Rookie Forecast</a></li>
                                 <li><a href="/draft2015freeagent.php">Free Agent Mock Draft</a></li>
                             </ul>
-                        </li>
-
-                       
-
-                        
-
-
+                        </li> 
                     </ul>
                 </div><!--/.nav-collapse -->
-            </div><!--/.container-fluid -->
+            </div>
             <div class="container-fluid">
                 <div class="navbar-header" style="padding-left:15px;">
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".subMenuDF">
@@ -509,25 +590,28 @@ LD_GetBids();
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
-                    </button>
-                    <img src="/jscss/Images/rbastketball.png" width="33" style="clear:none; float:left; padding-top:3px;padding-right:3px; cursor:pointer;padding-top:11px;" onclick="window.location = '/';" align="middle">
-                    <a class="navbar-brand  visible-lg" style="width:167px;" data-toggle="tooltip" data-placement="bottom" title="Detailed NFL Mock Drafts, Player Prospect Rankings, and One of the Largest Mock Draft Databases on the Web." href="/nba">NBA Coverage</a>
-                    <a class="navbar-brand  hidden-lg" data-toggle="tooltip" data-placement="bottom" title="Detailed NFL Mock Drafts, Player Prospect Rankings, and One of the Largest Mock Draft Databases on the Web." href="/nba">NBA</a>
-
+                    </button>    
+                      
+                    <img src="/jscss/Images/wfPodcast.png" width="33" style="clear:none; float:left; padding-top:3px;padding-right:3px; cursor:pointer;padding-top:11px;" onclick="window.location = 'http://walterfootball.com/podcast.php" align="middle">      
+                    <a data-toggle="tooltip" class="navbar-brand" data-placement="bottom" title="WalterFootball.com Podcasts" href="http://walterfootball.com/podcast.php">Podcasts</a>  
+                   
+                    
                 </div>
                 <div class="navbar-collapse collapse subMenuDF">
-                    <ul class="nav navbar-nav">
-                        <li class="dropdown">
+                    <ul class="nav navbar-nav">                                           
+                         <li class="dropdown">
                             <a class="dropdown-toggle" href="/nbadraft2015mock.php" data-toggle="dropdown">NBA Draft <span class="caret"></span></a>
                             <ul class="dropdown-menu" role="menu" style="z-index:10000;">
                                 <li class="dropdown-header"><img width="30" src="/jscss/Images/wflogobiggerTransparentBg.png"> Primary Content</li>
                                 <li><a href="/nbadraft2015mock.php">2015 NBA Mock Draft</a></li>
                                 <li><a href="/nbadraft2015mikemock.php">2015 NBA Mock Draft - Mike</a></li>
+                                <li><a href="/nbadraft2015.php">2015 NBA Mock Draft - Walt</a></li>      
                                 <li><a href="/nbadraft2016mock.php">2016 NBA Mock Draft</a></li>
+                                <li><a href="/nbadraft2015grades.php">Live NBA Draft Grades</a></li>
                                 <li class="divider"></li>
                                 <li class="dropdown-header"><img width="30" src="/jscss/Images/NewWFUserImg.png"> Reader Content</li>
                                 <li><a href="/nba/mockdrafts">Reader 2015 Mock Drafts</a></li>
-                                <li><a href="/mocks/nba/2015/contest" style="color:green; font-weight:bold;">NBA 2015 Mock Draft Contest</a></li>
+                                
                                 <li class="divider"></li>
                                 <li class="dropdown-header"><img width="23" src="/jscss/Images/ExternalLinks.png">General Content</li>
                                 <li><a href="/nba/positiondraftreport/center">NBA Mocks by Position</a></li>
@@ -535,6 +619,7 @@ LD_GetBids();
                                 <li><a href="/nbadraftrankings.php">2015 NBA Draft Prospect Rankings</a></li>
                                 <li><a href="/nbadraftdata.php">NBA Mock Draft Database</a></li>
                                 <li><a href="/nba/teamneeds">NBA Team Needs Report</a></li>
+                                <li><a href="/mocks/consensus/nba/2015">Mock Consensus Report</a></li>
 
                             </ul>
                         </li>
@@ -554,10 +639,16 @@ LD_GetBids();
                                 <li><a href="/nba/powerrankings">Reader NBA Power Rankings</a></li>
                                 <li><a href="/nba/pickem">NBA Pick Em</a></li>
                             </ul>
-                        </li>
+                        </li>                       
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a href="/twitter" title="WalterFootball.com Twitter Accounts">
+                                <img border="0" align="left" alt=" " width="18" title="WalterFootball.com Twitter Accounts" src="http://walterfootball.com/images/twitter.jpg">
+                                Tweets
+                            </a>
 
+                        </li>    
                         <li class="dropdown">
                             <a class="dropdown-toggle" href="/picks.php" data-toggle="dropdown">Draft Weekend<span class="caret"></span></a>
                             <ul class="dropdown-menu" role="menu" style="z-index:10000;">
@@ -585,19 +676,40 @@ LD_GetBids();
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a class="dropdown-toggle" href="http://forum.walterfootball.com/" data-toggle="dropdown">Community<span class="caret"></span></a>
+                            <a class="dropdown-toggle" href="http://forum.walterfootball.com/" data-toggle="dropdown">
+                                Featured Writers<span class="caret"></span>
+                            </a>
                             <ul class="dropdown-menu" role="menu" style="z-index:10000;">
-                                <li class="dropdown-header"><img width="30" src="/jscss/Images/wflogobiggerTransparentBg.png"> Primary Content</li>
+                                <li class="dropdown-header"><img width="30" src="/jscss/Images/wflogobiggerTransparentBg.png"> Charlie Campbell</li>                                
+                                <li><a href="/draft2016charlie.php">NFL Drat 2016</a></li>
+                                <li><a href="/draft2016bigboard.php">NFF Draft 2016 Big Board</a></li>
+                                <li class="divider"></li>
+                                <li class="dropdown-header"><img width="30" src="/jscss/Images/wflogobiggerTransparentBg.png"> Chet Gresham</li>
+                                <li><a href="/fantasycheatsheet/display/chet-gresham">Fantasy Rankings / Cheat Sheet</a></li>
+                                <li><a href="/fantasyweeklyrankingschet/qb">Fantasy Weekly Rankings</a></li>
+                                <li class="divider"></li>
+                                <li class="dropdown-header"><img width="30" src="/jscss/Images/wflogobiggerTransparentBg.png"> Pat Yasinskas</li>
+                                <li><a href="/nfcSouth">NFC South</a></li>
+                                <li><a href="/patYaz">NFL Blog</a></li>
+                               
+                              
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" href="http://forum.walterfootball.com/" data-toggle="dropdown">                               
+                                Community<span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu" role="menu" style="z-index:10000;">
                                 <li><a href="http://forum.walterfootball.com/">Forum</a></li>
-                                <li><a href="/chatter/thefulldebacle">Rabble Rabble</a></li>
-                                <li><a href="/mocks/nfl/2015/contest">NFL Mock Draft Contest</a></li>
-                                
-                                <li><a href="/survivor">Survivor Pool</a></li>
-                                <li><a href="/pickem">NFL Pick Em</a></li>
+                                <li><a href="/readercontent">Recent Reader Content</a></li>
+                                <li><a href="/mocks">Reader Mock Drafts</a></li>
+                                <li><a href="/powerrankings">Reader Power Rankings</a></li>
+                                <li><a href="/openrant">Open Ranting</a></li>
+                                <li><a href="/chatter/thefulldebacle"><img src="/jscss/Images/TagTiles/cmt.png">Chatter/Site Feed
+                                       </a></li>
                                 <li><a href="/flinks.php">Links</a></li>
                             </ul>
                         </li>
-
                         <li class="dropdown">
                                 <a href="/Auth/StartAuth">
                                     <img src="http://walterfootball.com/Uploads/Anony.jpg" width="18">
@@ -607,8 +719,10 @@ LD_GetBids();
                         </li>
                     </ul>
                 </div><!--/.nav-collapse -->
-            </div><!--/.container-fluid -->
+            </div>
         </div>
+
+        
 
 
         <script src="/bootstrap/js/bootstrap.min.js"></script>
@@ -625,6 +739,11 @@ LD_GetBids();
         
 
 
+     
+
+
+
+
         <center style="clear:both; height:90px; line-height:90px; min-width:300px;">
             
 <script src="https://www.googletagservices.com/tag/js/gpt.js">    googletag.pubads().definePassback("/20893548/yb/walterfootball", [728,90]).setClickUrl("%%CLICK_URL_UNESC%%").display();
@@ -635,10 +754,9 @@ LD_GetBids();
 
         </center>
 
-
-
-
         <div style="height:7px;line-height:7px;">&nbsp;</div>
+
+
 
 
 
@@ -648,40 +766,41 @@ LD_GetBids();
 
             <div id="contentRow">
                 <div class="contentCell" style="vertical-align:top; padding-top:0px; padding-left:5px; margin-top:0px; min-width:275px; max-width:775px; background-color:white; border-radius:5px;">
-
+                  
                     <br>                  
-                        <br>
                     
 
-<h1>    
+                 
+
+
+
+                    
+                    
+
+
+
+
+<h1 style="text-align:center;">    
     
 </h1>
 
-              
+<br><br>
+
+
+
 
 
 
 <script>
     function dropdown(gourl)
-    {
-       // alert('here');
-       // window.location = "/" + gourl.value;
+    {     
         window.location = gourl.value;
         return false;
     }
 </script>
 
 
-<style>
-    ol {
-        /*padding-left:3px;*/
-        /*font-family: verdana,arial,'sans serif';font-size: 12px;line-height: 18px;*/
-        /*text-align: justify;*/
-        /* padding: 5px; margin-left:15px;margin-right:5px;*/
-        /*-webkit-padding-start: 0px;
-        margin-left: 0; padding-left: 1.5em;
-        list-style:decimal;*/
-    }
+<style>   
 
     blockquote {
         font-size: 12px;
@@ -724,6 +843,10 @@ LD_GetBids();
 
 
 <div class="content-block">
+
+
+<br> <br>
+
 
 
 
@@ -845,6 +968,9 @@ Policy 2010: <br> <br>
                         ga('send', 'pageview');
                     </script>
 
+                    <br><br>
+                    <hr>
+                    <br><br>
                     <div style="height:125px;line-height:125px;">&nbsp;</div>
 
 
@@ -947,6 +1073,7 @@ Policy 2010: <br> <br>
                 <div class="contentCell" style="width:200px;">
 
 
+                    
 
 
                     
@@ -1014,6 +1141,66 @@ googletag.pubads().definePassback("/20893548/yb/walterfootball",
         </tr>
     </tbody></table>
                         <div style="height:200px;line-height:200px;">&nbsp;</div>
+                                    
+<br> <br> <br> <br> <br>  <br> <br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br>  <br> <br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br>  <br> <br> <br> <br> <br> <br>
+
+
+
+ 
+<script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&amp;cwrun=200&amp;cwadformat=160X600&amp;cwpid=505600&amp;cwwidth=160&amp;cwheight=600&amp;cwpnet=1&amp;cwtagid=47082"></script>
+
+
+
+
+<!-- TreatRequestAsMobileOrTables = False -->
+
+
+                                    <div style="height:100px;line-height:300px;">&nbsp;</div>
+                                    
+<br> <br> <br> <br> <br>  <br> <br> <br> <br> <br> <br>
+
+<script type="text/javascript">
+        var adosia_proto = ('https:' == document.location.protocol ? 'https://' : 'http://');
+        var adosia_iscroll_path = "adosia.com/adscroll/iscroll-min.js";
+
+        var adosia_options_wa = [];
+        adosia_options_wa['uuid'] = "410007d0ba4dd8b5";
+        adosia_options_wa['adosia_ad_width'] = "160";
+        adosia_options_wa['adosia_ad_height'] = "600";
+        adosia_options_wa['adosia_client_id'] = "2d133d2c58ea12aac4fab072b35862f3";
+        adosia_options_wa['max_batch_load'] = "6";
+        adosia_options_wa['force_scrolltop'] = false;
+        adosia_options_wa['widget_marginleft_css'] = "0px";
+        adosia_options_wa['widget_marginright_css'] = "auto";
+
+        function adosia_asyncScript(url, loaded) {
+                var script = document.createElement('script');
+                script.src = url;
+                var head = document.getElementsByTagName('head')[0],
+                done = false;
+                script.onload = script.onreadystatechange = function() {
+                        if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+                                done = true;
+                                if (loaded) loaded();
+                                script.onload = script.onreadystatechange = null;
+                                head.removeChild(script);
+                        };
+                };
+                head.appendChild(script);
+        };
+        adosia_asyncScript(adosia_proto + adosia_iscroll_path);
+</script>
+<div id="adosia_iscroll_410007d0ba4dd8b5" style="width:160px;background-color:transparent;margin:0px auto;"></div>
+<noscript><div style="width:160px;margin-top:0px;padding:0px;background-color:transparent;"><a href="http://adosia.com"><img src="https://adosia.com/ui/default/images/default_167_0x0_607_single.png" style="margin:0 auto;" /></a></div></noscript>
+
+
+
+<!-- TreatRequestAsMobileOrTables = False -->
+
+
+                                    <div style="height:100px;line-height:300px;">&nbsp;</div>
 
 
 
@@ -1062,6 +1249,13 @@ googletag.pubads().definePassback("/20893548/yb/walterfootball",
             });
         }
     </script>
+
+    
+
+
+<!-- TreatRequestAsMobileOrTables = False -->
+
+
 
 
 </body></html>
