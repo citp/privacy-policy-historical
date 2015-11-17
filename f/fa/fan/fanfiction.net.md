@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanfiction.net privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627173214id_/https%3A//www.fanfiction.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanfiction.net privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117055325id_/https%3A//www.fanfiction.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FanFiction
 
