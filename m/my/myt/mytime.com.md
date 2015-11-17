@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytime.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626014842id_/http%3A//www.mytime.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytime.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117150326id_/http%3A//www.mytime.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy - MyTime
 
