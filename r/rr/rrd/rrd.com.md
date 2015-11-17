@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rrd.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074438id_/http%3A//www.rrdonnelley.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rrd.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117042254id_/http%3A//www.rrdonnelley.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Polices & Legal Notice | RR Donnelley
 
@@ -49,7 +49,7 @@ No method of transmission over the Internet, or method of electronic storage, ca
 RR Donnelley regularly reviews our compliance with our privacy policy. We also adhere to several self-regulatory frameworks in addition to complying with applicable law. If we receive formal written complaints, we will follow up with the person making the complaint. We work with the appropriate regulatory authorities to resolve any complaints that cannot be resolved directly. 
 
 **Compliance**  
-RR Donnelley adheres to US and other international regulations such as PIPEDA, the European Union ("EU") Data Protection (95/46/EC) and ePrivacy (2002/58/EC) Directives (as transposed into national law), and the EU Safe Harbor Privacy Principles published by the US Department of Commerce ("Safe Harbor"), detailed below.
+RR Donnelley adheres to US and other international regulations such as PIPEDA, the European Union ("EU") Data Protection (95/46/EC) and ePrivacy (2002/58/EC) Directives (as transposed into national law), and the U.S.-EU and U.S.-Swiss Safe Harbor Privacy Principles published by the US Department of Commerce ("Safe Harbor"), detailed below.
 
 **PIPEDA (Canada)**  
 RR Donnelley recognizes and has controls in place to ensure that the privacy of personal information about an "identifiable individual" used in the course of "commercial activity" is protected and managed in such a manner which meets or exceeds the guidelines set out in PIPEDA and applicable provincial legislation.
@@ -79,7 +79,7 @@ RR Donnelley does not sell its services to children. As such, our Sites are desi
 If you have provided RR Donnelley with your personal information, you may have the right to inspect the information stored by us for accuracy, or may request that the information be removed from our files. RR Donnelley will make a reasonable effort to comply with such requests except where it would require a disproportionate effort (for example developing a new system or changing an existing practice). We may require that you verify your identity before we act on a request to edit or remove your information. Please direct any questions about your information to RR Donnelley IT Governance at [dataprivacy@rrd.com](mailto:dataprivacy@rrd.com).
 
 **Changes to this Privacy Policy**  
-RR Donnelley may change this privacy policy from time to time. If this privacy policy changes, the revised privacy policy will be posted at the "Privacy Policy " link on the Site's home page. In the event that the change is significant or material, we will notify you of such a change by revising the link on the home page to read " **Newly Revised Privacy Policy**." Please check the privacy policy frequently. Your continued use of the Site constitutes acceptance of such changes in the privacy policy, except where further steps are required by applicable law. This privacy policy was last updated on April, 2013. 
+RR Donnelley may change this privacy policy from time to time. If this privacy policy changes, the revised privacy policy will be posted at the "Privacy Policy " link on the Site's home page. In the event that the change is significant or material, we will notify you of such a change by revising the link on the home page to read " **Newly Revised Privacy Policy**." Please check the privacy policy frequently. Your continued use of the Site constitutes acceptance of such changes in the privacy policy, except where further steps are required by applicable law. This privacy policy was last updated on August 2015. 
 
 **Contacting RR Donnelley**  
 Except for Canada and the EU, questions regarding this privacy policy should be directed to the Chief Information Security Officer, Peter Tiemeyer at 4101 Winfield Road, Warrenville, Illinois 60555 USA; telephone 630.963.9494; e-mail- [dataprivacy@rrd.com](mailto:dataprivacy@rrd.com).
