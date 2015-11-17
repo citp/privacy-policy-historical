@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the peachandlily.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522014016id_/http%3A//www.peachandlily.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peachandlily.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117184359id_/http%3A//peachandlily2.myshopify.com/pages/privacy) for the most accurate reproduction.*
 
-# PRIVACY – Peach & Lily
+# PRIVACY - Peach & Lily
 
 **Introduction**
 
