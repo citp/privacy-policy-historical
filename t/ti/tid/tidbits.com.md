@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tidbits.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075045id_/http%3A//tidbits.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tidbits.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117160020id_/http%3A//tidbits.com/privacy.html) for the most accurate reproduction.*
 
-# TidBITS: Apple news for the rest of us
+# TidBITS — Apple news for the rest of us
 
 (Last updated 23-Aug-2013.) 
 
