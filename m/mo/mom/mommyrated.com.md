@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mommyrated.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322142327id_/http%3A//mommyrated.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommyrated.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117171811id_/http%3A//mommyrated.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Mommy Rated
 
