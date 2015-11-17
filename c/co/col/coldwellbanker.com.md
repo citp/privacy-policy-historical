@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coldwellbanker.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629110913id_/https%3A//www.coldwellbanker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coldwellbanker.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117185851id_/https%3A//www.coldwellbanker.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Coldwell Banker
 
