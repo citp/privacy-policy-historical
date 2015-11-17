@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamagoesbam.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405081523id_/http%3A//mamagoesbam.com/contact-me/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamagoesbam.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117041822id_/http%3A//mamagoesbam.com/contact-me/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure and Privacy Policy | mama goes BAM
 
@@ -49,6 +49,5 @@ This document was last updated on April 22, 2013 
 © Ghada Vanderpool and Mama Goes BAM, 2011-2013. Unauthorized use and/or duplication of this material without express and written permission from this blog’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to Ghada Vanderpool and [Mama Goes BAM](http://mamagoesbam.com/) with appropriate and specific direction to the original content.
 
   
+  
 
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fmamagoesbam.com%2Fcontact-me%2Fdisclosure-privacy-policy%2F&media=&description=Disclosure+and+Privacy+Policy)
