@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moonastro.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612035538id_/http%3A//www.moonastro.com/others/privacy%2520policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moonastro.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117025642id_/http%3A//www.moonastro.com/others/privacy%2520policy.aspx) for the most accurate reproduction.*
 
 # MoonAstro.com : Privacy Policy of MRahi Solutions
 
