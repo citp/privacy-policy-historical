@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ffilms.org privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314210955id_/http%3A//ffilms.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffilms.org privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117152603id_/http%3A//ffilms.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | FFilms.org
+# Privacy policy | ffilms.org
 
 **Privacy policy**
 
@@ -15,7 +15,8 @@ There are occasions when we will ask for additional information. We do this to b
 
 **Use of Information**
 
-We will not provide any of your personal information to other organizations or third parties unless required to do so by law. We do not sell our clients’ personal information to anyone.
+We will not provide any of your personal information to other organizations or third parties unless required to do so by law. We do not sell our clients’ personal information to anyone.  
+FFilms.org may not be used by anyone with intending to track usage, log IP addresses/usage, or anything else we consider to be an intrusion of privacy.
 
 **Links to Third Party Sites**
 
