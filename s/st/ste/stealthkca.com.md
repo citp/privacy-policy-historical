@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stealthkca.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701133833id_/http%3A//www.stealthkca.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stealthkca.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117012731id_/http%3A//stealthblog.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | My great WordPress blog
+# Privacy Policy - Stealth Blog
 
-This privacy policy sets out how [VIALSA Solutions](http://www.vialsasolutions.com/) uses and protects any information that you give VIALSA Solutions when you use this website.
+This privacy policy sets out how [VIALSA Solutions](http://www.vialsasolutions.com/) uses and protects any information that you give VIALSA Solutions when you use this website.
 
 VIALSA Solutions is committed to ensuring that your privacy is protected. Should I ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
