@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourwebapps.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407073001id_/http%3A//yourwebapps.com/About/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourwebapps.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117182930id_/http%3A//yourwebapps.com/About/privacy.html) for the most accurate reproduction.*
 
 # YourWebApps.com Privacy Policy
 
@@ -34,6 +34,4 @@ We use third-party advertising companies to serve ads when you visit our website
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
-If you'd like to comment on or have questions about our privacy policy, have a concern or policy violation you wish to report, or wish to change or delete the customer information you submitted to YourWebApps.com, please contact Customer Support at support@yourwebapps.com or by calling (617) 249-0756.
-
-Copyright © The Server Company. All Rights Reserved.
+If you'd like to comment on or have questions about our privacy policy, have a concern or policy violation you wish to report, or wish to change or delete the customer information you submitted to YourWebApps.com, please contact Customer Support at support@yourwebapps.com or by calling 617-249-0755.
