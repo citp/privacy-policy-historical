@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bathselect.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519140533id_/http%3A//www.bathselect.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bathselect.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117053109id_/http%3A//www.bathselect.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
 ## Our Commitment to Security/Privacy
 
-We at BathSelect understand the importance of protecting your personally identifiable information;   
+At BathSelect we understand the importance of protecting your personally identifiable information;   
 We've done our best to ensure your transactions with us are treated with the highest standards of safety, security features, and confidentiality.   
 
 
@@ -80,7 +80,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20150519140533id_/http%3A//www.bathselect.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20151117053109id_/http%3A//www.bathselect.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
