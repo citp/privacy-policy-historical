@@ -1,116 +1,125 @@
-> *The following text is extracted and transformed from the c2cfabrication.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222162736id_/http%3A//www.c2cfabrication.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c2cfabrication.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117231057id_/http%3A//www.c2cfabrication.com/pages/privacy-statement) for the most accurate reproduction.*
 
-# Privacy - Classic 2 Current Fabrication
+# Privacy Statement – Rust Repair Panels | Auto Body Panels | Replacement Floor Pans
 
-**What information do we collect?**
+**_PRIVACY STATEMENT_**
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form.
+\----
 
-Any data we request that is not required will be specified as voluntary or optional.
+_SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?_
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.
 
-**What do we use your information for?**
+Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
 
-Any of the information we collect from you may be used in one of the following ways:
+_SECTION 2 - CONSENT_
 
-  To personalize your experience  
-(your information helps us to better respond to your individual needs)
+How do you get my consent?
 
-To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
 
-To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
-To process transactions  
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer.
+How do I withdraw my consent?
 
-To send periodic emails
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at sales@c2cfabrication.com or mailing us at:
 
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
+Classic 2 Current Fabrication
 
-Note: If at any time you would like to unsubscribe from receiving future emails, log into your account and select ‘My Account Info’ from the ‘My Account’ box to the right. There you will be able to unsubscribe from our newsletter by unchecking the ‘Newsletter’ box..
+24536 Capitol Street
 
-**How do we protect your information?**
+Redford Michigan US 48239
 
-We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or access your personal information.
+_SECTION 3 - DISCLOSURE_
 
-These security measures include: password protected directories and databases to safeguard your information, SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely or PCI Scanning to actively protect our servers from hackers and other vulnerabilities.
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+_SECTION 4 - SHOPIFY_
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.
 
-**Do we use cookies?**
+Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+Payment:
 
-**Do we disclose any information to outside parties?**
+If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.
 
-**Third party links**
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+For more insight, you may also want to read Shopify’s Terms of Service (https://www.shopify.com/legal/terms) or Privacy Statement (https://www.shopify.com/legal/privacy).
 
-**California Online Privacy Protection Act Compliance**
+_SECTION 5 - THIRD-PARTY SERVICES_
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+**_Classic 2 Current Fabrication will not sell or disclose your information._**
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account and selecting the ‘Edit Account Info’ from the ‘My Account’ box to the right.
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
 
-**Childrens Online Privacy Protection Act Compliance**
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
 
-**CAN-SPAM Compliance**
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
 
-We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
+As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
 
-**Online Privacy Policy Only**
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+Links
 
-**Terms and Conditions**
+When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://c2cfabriction.com/store/warranty.php.
+Google analytics:
 
-**Your Consent**
+Our store uses Google Analytics to help us learn about who visits our site and what pages are being looked at
 
-By using our site, you consent to our privacy policy.
+_SECTION 6 - SECURITY_
 
-**Changes to our Privacy Policy**
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
-This policy was last modified on **02-18-10**
+_SECTION 7 - COOKIES_
 
-**Contacting Us**
+Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+_session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).
 
-Classic 2 Current Fabrication  
-24536 Capitol St.  
-Redford, MI 48239  
-United States  
-sales@classic2current.com  
-313-534-2886
+_shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits
 
-**Privacy Policy Customer Pledge**
+_shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.
 
-We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
-Federal Trade Commision Fair  
-California Online Privacy Protection Act  
-Childrens Online Privacy Protection Act  
-Privacy Alliance  
-Controlling the Assault of Non-Solicited Pornography and Marketing Act
+cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.
 
-If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/disputesystem/).
+_secure_session_id, unique token, sessional
 
-Respectfully,
+storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
 
-Webmaster  
-www.c2cfabrication.com
+PREF, persistent for a very short period, Set by Google and tracks who visits the store and from where
+
+_SECTION 8 - AGE OF CONSENT_
+
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
+
+_SECTION 9 - CHANGES TO THIS PRIVACY POLICY_
+
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
+
+If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
+
+_QUESTIONS AND CONTACT INFORMATION_
+
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at C2C@c2cfabrication.com or by mail at:
+
+Classic 2 Current Fabrication
+
+Attn: C2C Communications Director
+
+24536 Capitol Street
+
+Redford Michigan US 48239
+
+\----
