@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hairlosstreatmentstip.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127105802id_/http%3A//hairlosstreatmentstip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairlosstreatmentstip.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117113930id_/http%3A//hairlosstreatmentstip.com/privacy) for the most accurate reproduction.*
 
-# Privacy - HTHT
+# Privacy - Hair Loss Treatment
 
 This page informs you of our policies regarding the collection, use and disclosure of personal information we receive from users of the site. Privacy of our visitors is very important to us. Hairlosstreatmentstip is a blog where you can find different things about hair treatments and hair styles. We do not record any private information about our readers, we only record IP address.
 
