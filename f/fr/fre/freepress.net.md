@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepress.net privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404012352id_/http%3A//freepress.net/privacy_copyright) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepress.net privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117180103id_/http%3A//www.freepress.net/privacy_copyright) for the most accurate reproduction.*
 
 # Privacy and Copyright Policies | Free Press
 
