@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toprankers.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626021808id_/http%3A//toprankers.com/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toprankers.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117072055id_/http%3A//www.toprankers.com/page/privacy_policy) for the most accurate reproduction.*
 
 # Top Rankers
 
