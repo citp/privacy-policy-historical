@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the practicefusion.com privacy policy that was archived on 2015-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150511171234id_/http%3A//www.practicefusion.com/pages/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the practicefusion.com privacy policy that was archived on 2015-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151117063308id_/http%3A//www.practicefusion.com/pages/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
-    <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://v.velaro.com/lf/monitor2.aspx?siteid=6912&amp;deptid=21608&amp;secure=yes&amp;qs=&amp;tz=0&amp;co=true&amp;sw=800x600&amp;pal=24&amp;pl=Linux%20x86_64&amp;an=Netscape&amp;la=en-US&amp;je=false&amp;origin=&amp;pa=https%3A//web.archive.org/web/20150511171234id_/http%253A//www.practicefusion.com/pages/privacy-policy.html"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M26G"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcCVF9SGwQBU1NUAw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+    <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script type="text/javascript" async="" src="https://v.velaro.com/lf/monitor2.aspx?siteid=6912&amp;deptid=21608&amp;secure=yes&amp;qs=&amp;tz=0&amp;co=true&amp;sw=800x600&amp;pal=24&amp;pl=Linux%20x86_64&amp;an=Netscape&amp;la=en-US&amp;je=false&amp;origin=&amp;pa=https%3A//web.archive.org/web/20151117063308id_/http%253A//www.practicefusion.com/pages/privacy-policy.html"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M26G"></script><script async="" type="text/javascript" src="//sjrtp3-cdn.marketo.com/rtp-api/v1/rtp.js?aid=practicefusioninc"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcCVF9SGwQBU1NUAw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
     <title>Privacy Policy | Practice Fusion</title>
     <!-- <link rel="pingback" href="http://www.practicefusion.com/xmlrpc.php"/> -->
@@ -13,22 +13,34 @@
     <link rel="apple-touch-icon-precomposed" href="http://www.practicefusion.com/wp-content/themes/carbon14/assets/ico/apple-touch-icon-57-precomposed.png">
     <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700" rel="stylesheet" type="text/css">
     <link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,700" rel="stylesheet" type="text/css">
+
     <!-- OPTIMIZELY -->
-<script src="//cdn.optimizely.com/js/169332481.js"></script>    
+<script src="//cdn.optimizely.com/js/169332481.js"></script>    <!-- RTP tag -->
+        <script type="text/javascript">
+        (function(c,h,a,f,i){c[a]=c[a]||function()
+        {(c[a].q=c[a].q||[]).push(arguments)}
+        ;
+        c[a].a=i;var g=h.createElement("script");g.async=true;g.type="text/javascript";
+        g.src=f+'?aid='+i;var b=h.getElementsByTagName("script")[0];b.parentNode.insertBefore(g,b);
+        })(window,document,"rtp","//sjrtp3-cdn.marketo.com/rtp-api/v1/rtp.js","practicefusioninc");
+        rtp('send','view');
+        rtp('get', 'campaign',true);
+        </script>
+    <!-- End of RTP tag -->
+    
 <!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.24 - http://yoast.com/wordpress/seo/ -->
-<meta name="description" content="Practice Fusion is the fastest growing Electronic Medical Records community. Start using our free, fully-featured EMR system in less than five minutes.">
-<meta name="keywords" content="EHR, electronic health record, free EHR, free EMR, web-based EHR, fast set-up, why practice fusion, features, live in five">
+<meta name="description" content="Practice Fusion is the fastest growing Electronic Medical Records community. Start using our free, fully-featured EMR system in less than five minutes. Privacy policy.">
 <link rel="canonical" href="http://www.practicefusion.com/pages/privacy-policy.html">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Privacy Policy | Practice Fusion">
-<meta property="og:description" content="Practice Fusion is the fastest growing Electronic Medical Records community. Start using our free, fully-featured EMR system in less than five minutes.">
+<meta property="og:description" content="Practice Fusion is the fastest growing Electronic Medical Records community. Start using our free, fully-featured EMR system in less than five minutes. Privacy policy.">
 <meta property="og:url" content="http://www.practicefusion.com/pages/privacy-policy.html">
 <meta property="og:site_name" content="Practice Fusion">
 <meta property="article:publisher" content="https://www.facebook.com/practicefusion">
 <meta property="article:section" content="Legal">
 <meta property="article:published_time" content="2013-04-09T04:35:04+00:00">
-<meta property="article:modified_time" content="2014-09-08T17:58:04+00:00">
+<meta property="article:modified_time" content="2015-07-15T17:40:29+00:00">
 <meta property="og:image" content="http://practicefusion.s3.amazonaws.com/assets/img/practice-fusion-facebook-image.png">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@practicefusion">
@@ -42,7 +54,7 @@
 <link rel="stylesheet" id="fancybox-css" href="http://www.practicefusion.com/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.7.min.css?ver=1.5.7" type="text/css" media="screen">
 <script type="text/javascript" src="http://www.practicefusion.com/wp-includes/js/jquery/jquery.js?ver=1.10.2"></script>
 <script type="text/javascript" src="http://www.practicefusion.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://www.practicefusion.com/wp-content/themes/carbon14/assets/js/config/config.js?ver=1416261576"></script>
+<script type="text/javascript" src="http://www.practicefusion.com/wp-content/themes/carbon14/assets/js/config/config.js?ver=5.29.15"></script>
 <script type="text/javascript" src="http://www.practicefusion.com/wp-content/themes/carbon14/assets/js/jQuery.selectize.min.js?ver=3.8"></script>
 <script type="text/javascript" src="http://www.practicefusion.com/wp-content/themes/carbon14/assets/js/select2.min.js?ver=3.8"></script>
 <script type="text/javascript" src="http://www.practicefusion.com/wp-content/themes/carbon14/assets/js/jquery.validate.min.js?ver=3.8"></script>
@@ -53,7 +65,6 @@
 <script type="text/javascript" src="http://www.practicefusion.com/wp-content/themes/carbon14/js/marketo/munchkin_large.js?ver=1425070054"></script>
 <script type="text/javascript" src="http://www.practicefusion.com/wp-content/themes/carbon14/js/marketo/initMarketo.js?ver=1425070053"></script>
 <meta name="generator" content="WordPress 3.8">
-<link rel="shortlink" href="http://www.practicefusion.com/?p=6147">
 <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 
 <!-- Easy FancyBox 1.5.7 using FancyBox 1.3.7 - RavanH (http://status301.net/wordpress-plugins/easy-fancybox/) -->
@@ -179,7 +190,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </a>
-            <a class="navbar-brand" href="/"><img src="http://www.practicefusion.com/wp-content/themes/carbon14/assets/img/pf-logo.svg" alt="Practice Fusion Logo">
+            <a class="navbar-brand" href="/"><img src="http://www.practicefusion.com/wp-content/themes/carbon14/img/pf-logo.svg" alt="Practice Fusion Logo">
 
             </a>
             <div class="nav-collapse collapse" role="navigation">
@@ -198,7 +209,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<li id="menu-item-9162" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9162"><a href="/imaging/">Imaging</a></li>
 	<li id="menu-item-9164" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9164"><a href="/billing/">Billing</a></li>
 	<li id="menu-item-16424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16424"><a href="http://www.practicefusion.com/affiliate-program/">Affiliates</a></li>
-	<li id="menu-item-9163" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9163"><a href="/accountable-care/">Accountable care</a></li>
+	<li id="menu-item-9163" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9163"><a href="/accountable-care-aco-solutions/">Accountable care</a></li>
 	<li id="menu-item-14629" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14629"><a href="http://www.practicefusion.com/pages/academic_program.html">Academic</a></li>
 	<li id="menu-item-9165" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9165"><a href="https://developer.practicefusion.com/">Developers</a></li>
 </ul>
@@ -209,6 +220,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<li id="menu-item-9168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9168"><a href="/pages/contact-practice-fusion.html">Contact</a></li>
 	<li id="menu-item-9169" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9169"><a href="/careers/">Careers</a></li>
 	<li id="menu-item-9171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9171"><a href="/blog/">Blog</a></li>
+	<li id="menu-item-19811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19811"><a href="http://www.practicefusion.com/practice-resource-center/">Practice Resources</a></li>
 	<li id="menu-item-9172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9172"><a href="/press-center/">Press</a></li>
 </ul>
 </li>
@@ -222,7 +234,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <i class="visible-phone"><img src="http://www.practicefusion.com/wp-content/themes/carbon14/assets/img/spacer-bg.png" alt="Racing Stripe"></i>
           </div>
           <div class="bars hidden-phone">
-            <a href="http://www.practicefusion.com/"><img src="http://www.practicefusion.com/wp-content/themes/carbon14/assets/img/bars.svg" alt="Color Beat"></a>
+            <!-- <a href="http://www.practicefusion.com/"><img src="http://www.practicefusion.com/wp-content/themes/carbon14/assets/img/bars.svg" alt="Color Beat"></a> -->
           </div>
           </div>
       </div>
@@ -288,14 +300,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
             <div class="span9 content-column">
                  <ul class="breadcrumb"><li><a href="http://www.practicefusion.com">Practice Fusion</a> <span class="divider"><img class="arrow" src="/images/M_images/bluearrow.gif" alt="breadcrumb arrow"></span></li> <li><a href="http://www.practicefusion.com/pages/user-agreement.html">Legal</a><span class="divider"><img class="arrow" src="/images/M_images/bluearrow.gif" alt="breadcrumb arrow"></span></li><li class="active">Privacy Policy</li></ul>                	  	<h1>Privacy Policy</h1>
-<p><strong>Last Updated:</strong> September 8, 2014</p>
+<p><strong>Last Updated:</strong> May 15, 2015</p>
 <p><strong>Introduction</strong><br> Your privacy is very important to us. This Privacy Policy (this “<span style="text-decoration: underline;">Policy</span>”) describes how our Services handle and secure information they collect.  This Privacy Policy is part of, and incorporated into, the <strong><a href="/pages/terms-of-use.html" title="Terms of Use">Terms of Use</a></strong> for our Services.  If you have entered into a user agreement for one of our Services (your “<span style="text-decoration: underline;">User Agreement</span>”), it will supplement and amend the <strong><a href="/pages/terms-of-use.html" title="Terms of Use">Terms of Use</a></strong>.  Because the <strong><a href="/pages/terms-of-use.html" title="Terms of Use">Terms of Use</a> </strong>and<strong> </strong>your User Agreement include subjects that may not be covered in this Policy, and may narrow or modify the scope of our use of information under this Policy, please review them carefully.</p>
 <p><strong>Information Collected by our Services</strong><br><span style="text-decoration: underline;">Information You Submit</span>:  When you use our Services, you can (depending on the Service you use) submit information by:</p>
 <ul>
 <li>Typing-in data (such as when you register for our Services, or type a message to send to us or another user, or type a search request, or complete an optional form);</li>
     <li>Uploading a document, image or other data file; or</li>
-    <li>Authorizing us to retrieve and import information from another user or other third party on your behalf.</li>
+    <li>Authorizing us to retrieve and import information from another user or other third party on your behalf, including, without limitation, from your workforce or patients</li>
 </ul>
+<p><span style="text-decoration: underline;">Payment Information</span>
+Depending on the Services you use, we may also collect your billing information, including credit or debit card account information, or other forms of payment (“Payment Card Information”).</p>
+
+<p>By submitting your Payment Card Information, you expressly consent to the sharing of your information with third-party payment processers, and other third-party services (including but not limited to vendors who provide fraud detection services to us and other third parties). These third partier may store your Payment Card Information for future use in our Services.</p>
+
+<p>We do not store your Payment Card Information, nor do we have direct control or responsibility for your Payment Car Information. The third party services which we utilize are contractually obligated to keep your Payment Card Information secure and confidential.</p>
 <p><span style="text-decoration: underline;">Engagement Tools and Data</span>:  Our Services also gather information whenever you visit, log in or otherwise interact with them.  As with other websites and interactive services, whenever you interact with our Services, your computer, mobile phone or tablet (a “<span style="text-decoration: underline;">Device</span>”) and its software transmits a “request” to us.  That request includes non-personal information received from your Device (and its software) necessary for us to identify and appropriately route the information your Device is requesting.  These “requests” and “replies” are the backbone of all websites and Internet services.  Therefore, whenever you:</p>
 <ul>
 <li>Visit and navigate through our Services</li>
@@ -317,7 +335,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <li>analyze the performance of our Services and its various features and content.</li>
 </ul>
 <p>Therefore, even if you do not register with us or submit any personal information on our Services, our <strong><a href="/pages/engagement-tools.html" title="Engagement Tools">Engagement Tools</a></strong> automatically receive information about your Device and the software running on it.  We call such data “<span style="text-decoration: underline;">Engagement Data</span>.”</p>
-<p>Engagement Data often includes elements such as the date and time a “request” is made, the model of the Device making the “request,” the type and version of operating system running on a Device (e.g., Mac OS or Microsoft Windows), the browser making the request (e.g., Internet Explorer, Chrome or Firefox), routing information, IP address, the Device’s geographic location, search terms a user enters, what URL a Device most recently visited, and, if a mobile application is used, an anonymous unique number.  Engagement Data generally does not personally identify a Device’s user.  However, it can be combined with personal information.  If so, we treat such combined information the same way we treat personal information.  Additionally, in the event that our Engagement Tools collect data elements that contain personal information, we treat those data elements as personal information.</p>
+<p>Engagement Data often includes elements such as the date and time a “request” is made, the model of the Device making the “request,” the type and version of operating system running on a Device (e.g., Mac OS or Microsoft Windows), the browser making the request (e.g., Internet Explorer, Chrome or Firefox), routing information, IP address, the Device’s geographic location, search terms a user enters, what URL a Device most recently visited, and, if a mobile application is used, an anonymous unique Device identification number.  Engagement Data generally does not personally identify a Device’s user.  However, it can be combined with personal information.  If so, we treat such combined information the same way we treat personal information.  Additionally, in the event that our Engagement Tools collect data elements that contain personal information, we treat those data elements as personal information.</p>
 <p>You have the ability to control how certain <strong><a href="/pages/engagement-tools.html" title="Engagement Tools">Engagement Tools</a></strong> operate by modifying the settings on your Device or its software.  Most browsers, for example, allow you to refuse accepting cookies, and many mobile Devices allow you to disable the sending of location information.  In some cases, doing these things could diminish the performance of our Services or render them inoperable. We do not respond to browser-based “do not track” signals. To learn more about <strong><a href="/pages/engagement-tools.html" title="Engagement Tools">Engagement Tools</a> </strong>and how we use Engagement Data please see our <strong><a href="/pages/engagement-tools.html" title="Engagement Tools">Engagement Tools</a></strong> page and the section below entitled “How Information is Used.”</p>
 <p><span style="text-decoration: underline;">Third Party Tools</span>:  We work with certain third parties who deploy their own engagement tools on our Services.  In some instances they do so exclusively on our behalf.  In other instances, they may retain and use the data they collect pursuant to publicly available privacy policies.  These <strong><a href="/pages/third-party-tools.html" title="Third Pary Tools">Third Party Tools</a></strong> are frequently deployed by companies providing online advertising services or analytics, but they may be deployed in other contexts as well, such as social media plug-ins.  We treat personal and non-personal information that we receive from these <strong><a href="/pages/third-party-tools.html" title="Third Pary Tools">Third Party Tools</a></strong> the same way we treat personal and non-personal information that we directly collect from our Services.  We, however, do not control how these third parties manage the information they gather.  Please see our <strong><a href="/pages/third-party-tools.html" title="Third Pary Tools">Third Party Tools</a></strong> for more information.</p>
 <p><span style="text-decoration: underline;">Personal and Non-Personal Information</span>:  Information you submit to us that identifies you or can be used to contact you (e.g., email or mailing address) is your “<span style="text-decoration: underline;">personal information</span>.”  This includes identifiers that a governmental authority, financial institution or insurance carrier may use to uniquely identify you (e.g., a Social Security, credit card or ACH account number).  When we combine non-personal information with personal information, or non-personal information with other non-personal information in a way that renders the combined information personal information, we treat that combined information the same way we treat personal information.  When we combine personal information with information from third party sources, we also treat that combined information the same way we treat personal information.</p>
@@ -327,6 +345,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <li>Responding to questions and communications, which we retain in the ordinary course of business;</li>
     <li>Administrative announcements about features, functionality, terms or other aspects of our Services; and, if applicable, informing you about offers for services or products we believe may be of interest (for further information, see also “<em>Service Emails and other Communications</em>” below);</li>
     <li>Safeguarding and protecting our Services, the information they safeguard, the rights of third parties and in response to legal process, in each case, as more fully described below in “<em>The Importance of Protecting our Services and the Information they Safeguard</em>;” and</li>
+<li>We may use your Payment Card Information as stated in the “Payment Information” Section above; and</li>
     <li>Any other purpose described in this Policy or your User Agreement.</li>
 </ul>
 <p>We use non-personal information for the following purposes:</p>
@@ -337,7 +356,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <li>Health and medical research; public health and service activities; healthcare- and medical-related services; and </li>
     <li>Other purposes described in this Policy or your User Agreement.</li>
 </ul>
-<p>We may also use non-personal information to prepare aggregate reports for current or future advertisers, sponsors or other partners to show trends about the general use of our Services.  Such reports may include age, gender, geographic, demographic or other general user information, but do not include personal information.</p>
+<p>We may also use non-personal information to prepare aggregate reports for current or future advertisers, sponsors or other partners to show trends about the general use of our Services.  Such reports may include age, gender, geographic, demographic or other general user information, but will not include personal information.</p>
 <p><span style="text-decoration: underline;">Consents and Authorizations</span>:<br> From time to time, we may request your consent or authorization (your “<span style="text-decoration: underline;">consent</span>”) in connection with the use or sharing of your information.  In some instances, this will be because your User Agreement, this Policy or applicable law or regulations requires us to obtain such consent.  In other instances, such consent will be for informational purposes.  In the latter case, the request to obtain your consent should not be interpreted as narrowing the scope or applicability of your User Agreement or this Policy – by entering into your User Agreement or using the applicable Services, you have accepted and agreed to our information handling practices in the manner described in your User Agreement and this Policy.</p>
 <p>In cases where you consent or “opt-in” to the use or sharing of your personal information in a manner that is not otherwise provided for in your User Agreement or this Policy, unless otherwise explicitly stated in such consent, you will have the ability to rescind your consent and “opt-out” of our use or sharing of such information in the future.  In that event, we will refrain from our use or sharing of such information, but we may not be able to require the removal of such information from the databases of the recipients with whom such information has been shared.</p>
 <p><span style="text-decoration: underline;">How our Services Allow Users to Share Information</span>:<br><strong><em>Directories and Location Tools</em></strong>:  If you are a healthcare provider or healthcare-related service provider who has entered into a User Agreement with us, your contact and directory information may be listed in one or more of our public and professional directories.  These directories include profile information (e.g., contact, specialty and other information) and other features that allow users to locate and contact them.  If you seek to contact or schedule an appointment with a provider listed in one of our directories, the provider will need your name, contact information, as well as other information.   </p>
@@ -346,8 +365,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li>Requesting an appointment with a healthcare provider;</li>
     <li>Sending an appointment or other reminder to another user;</li>
     <li>Making a referral;</li>
-    <li>Sending a prescription to a pharmacy; or</li>
-    <li>Sending a test requisition to a clinical laboratory.</li>
+    <li>Sending a prescription to a pharmacy; </li>
+    <li>Sending a test requisition to a clinical laboratory; or</li>
+    <li>Leaving, retrieving, triaging, or responding to an after-hours voice message.</li>
 </ul>
 <p>In any one-on-one communication, users are sending information to one another.  Depending on the message, this could include contact and other personal information.  See also “<em>Service Emails and other Communication</em>” below.</p>
 <p><strong><em>Communities, Blogs, Forums</em>:</strong>  Our Services include publicly displayed communities, blogs and other public forums that allow users to communicate with groups of users or the general public.  All information a user posts in one of our communities will be available to a wide range of individuals, and should be presumed public.  We strongly advise users to exercise care in selecting what information they share with our communities or public forums, and strongly recommend against sharing any personal, health or other sensitive information that could directly or indirectly be traced to any individual, including yourself.</p>
@@ -369,6 +389,7 @@ We may allow third-party developers to offer you applications, websites and/or f
     <li>When your account has been issued by an account administrator with administrative rights over your account, your account administrator will have access to your account information, including your personal information.  Your account administrator may: (i) receive and retain your account information, (ii) change your account password, (iii) restrict your ability to submit, delete or edit information; (iv) suspend or terminate your account access, or (v) access or retain information you submit or otherwise stored as part of your account for any purposes required or permitted under applicable law;</li>
     <li>When we share such information with our current and future affiliates;</li>
     <li>When we share such information with trusted service providers operating on our behalf consistent with the terms of this Policy and your User Agreement.  Such service providers shall be bound by appropriate confidentiality and security obligations, which may include, as applicable, business associate contract obligations.  We will not sell, rent or trade your personal information with any third parties for their promotional or marketing purposes;</li>
+<li>When we share your Payment Card Information as described in the “Payment Information” Section above;</li>
     <li>When we protect our Services, the information they safeguard, the rights of third parties and in response to legal process, as more fully described below in “<em>The Importance of Protecting our Services and the Information they Safeguard</em>;”</li>
     <li>In connection with a sale, merger, transfer, exchange, reorganization or other disposition (whether of assets, stock, or otherwise) of all or a portion of the business conducted by the services to which this Privacy applies.  If such a transaction occurs, the acquiring company’s use of your personal information will remain subject to this Policy; and</li>
     <li>Any other purposes described in this Policy or your User Agreement.</li>
@@ -407,57 +428,228 @@ We may allow third-party developers to offer you applications, websites and/or f
 
     </div> <!-- end container -->
 
-    
-      <footer>
-         <section id="engage">
-            <div class="container-fluid">
-               <div class="row-fluid">
-                  <div class="span4 search">
-                     <form method="get" action="/search.html">
+<footer>
+    <style>
+      #new_engage {
+          background: black;
+          padding: 58px;
+      }
+      #new_engage h4 {
+          font-size: 16px;
+          font-weight: normal;
+          font-family: 'Source Sans Pro';
+          text-transform: uppercase;
+          color: white;
+          text-shadow: none;
+      }
+      #new_engage hr {
+          border: 1px solid #505050;
+          border-bottom: 0px;
+          margin: 10px 0;
+      }
+      #new_engage li a {
+          color: #8d8d8d;
+          cursor: pointer;
+          font-size: 16px;
+          line-height: 30px;
+      }
+      footer .copyrightinfo {
+          background: transparent;
+          padding: 8px 0 15px;
+          text-align: left;
+      }
+      footer .copyright-info {
+          padding: 0 58px;
+      }
+      footer .copyright-info form input {
+          background: #5b5b5b;
+      }
+      footer form .input span {
+          font-family: 'Source Sans Pro';
+          font-size: 15px;
+      }
+      footer .copyright-info .cta {
+          width: 83px;
+          height: 33px;
+          font-size: 15px;
+          margin-left: -4px;
+      }
+      footer .cta-form {
+          float: right;
+          max-width: 300px;
+      }
+      footer .copyright-info {
+          background: #333;
+          padding-top: 19px;
+          padding-bottom: 9px;
+      }
+      footer .copyright-info form {
+          margin: 0 0 5px;
+          min-width: 294px;
+          float: right;
+      }
+      footer .copyrightinfo a:hover {
+          color: #fff;
+      }
+      footer .search input[type="text"] {
+          color: white;
+          width: 210px;
+          height: 33px;
+          border: 0;
+          margin: 0;
+          padding: 0;
+          -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+          -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+          box-sizing: border-box;
+          padding-left:10px;
+          font-size: 15px;
+      }
+      ul#social-media {
+          padding-top: 18px;
+      }
+      ul#social-media li.facebook, ul#social-media li.twitter, ul#social-media li.googleplus, ul#social-media li.linkedin {
+          background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKgAAAAgCAYAAACGqDMBAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyhpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMDY3IDc5LjE1Nzc0NywgMjAxNS8wMy8zMC0yMzo0MDo0MiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NzRBOEVEODM2OTU2MTFFNUEwMjQ5QzgwQjE2MzU2RTIiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NzRBOEVEODQ2OTU2MTFFNUEwMjQ5QzgwQjE2MzU2RTIiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo3NEE4RUQ4MTY5NTYxMUU1QTAyNDlDODBCMTYzNTZFMiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo3NEE4RUQ4MjY5NTYxMUU1QTAyNDlDODBCMTYzNTZFMiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PiNry1EAAAabSURBVHja7JxrbBVFFMf3lmLFapWHhJdRokgwRuojglp8tVFBTQQftEr8YEhKlASJH1RQiCGEIIpNDEYUJUIqooJo6wv8gJHiA2uFIkRrAk0pF9pCX9TS0rL+T+7cZDPZ2Z2du89770l+2XZ3Hmdnzp6dMzN7Nc1GdF1/DOwAx0AfGAA94ASo17KSFUWB/dhilfkGsFu3kWwzZ8V3A8WF28F/uoRkmznyRlLMHFE7aAZbwcTQGihODgNNuqRkuzjSxvmgoFtbwOgwGGiOSb75YEIGdA69JT4xjK3Je2wHDwvSX5+GzfCa4Pzl4LkwKJhrcu4Ri/Q1YB84FaBhPR2LxTalkD8PhxXgBWB8QMeB2QTSfItjGRgEJaAcHAAvppmBTra4NiWsniUucPvLQ6DbJKbL2hTK2CY5eokzz0rSBka4dA8xMA2sBjXgKDjLXqv7QSWYCwp8aM/fLe5/RVjHoAMChUeHwEAXGPRZo5C/VHcuZEBT2MMxO0X9H6CpOcl6u8AykJ/JY1CzTKENhpjXMcomcJlk3iHgpIKB7gVHmBedqKh3vgPPzQsFrLd42KYl4EfQARqZB78yzFF8mA10pYlqFNw8JJF3hq4u1HkzFHUeB+r01KTXSyMN8zxobsTu6W+TcxTcVOFmtuC4BgFUnSDvNYp1NoFZKPegQgcMw6EaFAqSnAG/gGZAwdvV4GYueCPZAGozcSosV9Y7CtKdRMeN8VHfKtDHOpMXirrLoGYt69CPoVuX4XqOYp2VKsbJ5D1wo8n5o+AVsA1ln+XamcZ+i8EiQAa+Gmle8siD0UM7VnC5HvV2GKflcBhikm4A6X42DhlwuI05hEvIRthDWI10p1SUTEV2BvBaWC6p2zlwmM1t0tCgQvEelyrqKRpS7JAJfJBmKljkcVu+a3HfxVzaNkG6Vna90GZWoBu8CnIcjUFTNNA3fTbOoYxdun8yX1HXPWYPNAVrPrTTeLYIkeQ+FwxUFGC2skWPLsn2/DxppKorSU7kgM8OlKaWNoMv2NjQDzmhYCC06nQHd7qThiB4zQ36oPOlYK6BSS6UeV5wnoYhn7HXuYw8CqSHLFEz0AbW4OvAFT7V2aiQx2y5dK3SGCxEQbfgfD4LVJ3Iy7LTgzkxTkQJY+ZS53MjVVs0lBdC4yuVAKnE5NyWDAi6yWFVaokl8T6LdBeDeX54UF8FD0Sjzx29C3WqPBC8d29BOQ02w4K3wKAD7ufyHwSdBP79jSv+jeQ1xlUut1M/KMU9TgXzQBH+nw7iFnnuTjsDZUJTMEd8qkt1loKfuolL9oUThnP5aQxYwOBnCS40XCvwoN+Xwii3cs7kTxys9m8UpqWB4sZbcChmc2teSgcLxtyQPA/06w9Jl1DwtF5wzeptN1Km8KitJCWNlNbGi1hE+Cy4y4Nq3uEm+p1InIucJ9D0kssRPO+Vt4NRhijeGKjRFknjKly3SrMLznfivroF/XQG930af44QzDSkp4HipmmQXc9eZaM8qKIXVKSQv4kzUNKXVmJ+ssiz3mJIQXtX7zGpw2gMiw3tcx1noB/h+jqPusPuoWsXGGgsnT0oPZnv48+VHlVRgTpaU8j/A7iXO1duZaCo7xAOh0weRtrdPo07/Q/SH8uAWYFIBklJeZ2ibA/KrbUZ3MtIlck52icwXaGsJeAi7txXQfgF1RdeRhooPMiAlvg8ZaOLxfaAJ1H2uRR1o7nTGpO2pmU+6e+9kHYhDs+bvFI/sMlK3vUpAzsDNFDXx3eR+3oT6t0E3mbr372Ka+70JUGZizqJNos0s51BVnnzwBJw3iT/Bhd1dGUt3qaOBquPgtNqw7JNQ9AmklVsEtup9IPHPdBps6A+MrxPwUy2Z5TSXkBr+KCc7Ww3E/o1l7EBGWiLooH+m9EGyrzNMzZPqpXQD1TM9Eg3+o2BPyR0OM22B9o9REUu6+fEQFuD8KCRieINYzcKGGhzAu0Yog6bpcnvpOFlL1iAMaMnvzGFcnvZ5yhfa9YrJ8Mlpr1oCXFPkMP+ICqN0jTTULAKPOFCY7VpiW/cNyqutTsx0uPM89G3/HMUiqCAZw7K2Rd0XBqEYUcmiqfVI1CqJT6hoEnndodF0JLcbi2x8nQtyvrQa+M06N4DaNWLhhKyu6Poe6VlYHIIjDPrQR109n4cFsIr0erKnVri+xeCPpUdyV6XNE1Ey5T0Mdph8KuW+P4nHrDu30Hv7/HnrcybkmcdD8YwfY+Dv8CX4BtakAhT0wdR6f8CDACOhBtXxEifSAAAAABJRU5ErkJggg==');
+          -webkit-transform: scale(.5);
+          -moz-transform: scale(.5);
+          transform: scale(.5);
+          height: 32px;
+          width: 32px;
+          margin: 0 0 0 0;
+          }
+      ul#social-media li.twitter {
+          background-position: -42px 0;
+      }
+      ul#social-media li.googleplus {
+          background-position: -84px 0;
+          width:42px;
+          margin-left: -4px;
+      }
+      ul#social-media li.linkedin {
+          background-position: -126px 0;
+          margin-left: -8px;
+      }
+      @media only screen and (max-width: 767px), only screen and (max-device-width: 767px) {
+          #new_engage {
+              display: none;
+          }
+          footer {
+              text-align: left;
+          }
+          .social-copyright {
+              margin-top:-26px;
+              margin-left: -26px;
+          }
+          footer .copyright-info {
+              padding-top: 31px;
+          }
+      }
+      @media only screen and (min-device-width: 320px) and (max-device-width: 512px) {
+          footer .cta-form {
+              float: left;
+              margin-right: 40px;
+          }
+          footer .social-copyright {
+              float: none;
+              margin-left: 10px;
+          }
+          footer .copyright-info {
+              padding: 31px 10px;
+          }
+          ul#social-media {
+              padding-top: 4px;
+                  margin-left: -8px;
+          }
+      }
+
+    </style>
+    <section id="new_engage">
+        <div class="container">
+            <div class="row">
+                <div class="span3">
+                    <h4>EHR Product &amp; Features</h4>
+                    <hr>
+                    <ul>
+                        <li><a href="http://www.practicefusion.com/electronic-health-record-ehr/">EHR</a></li>
+                        <li><a href="http://www.practicefusion.com/emr-medical-charting/">Charting</a></li>
+                        <li><a href="http://www.practicefusion.com/electronic-prescribing/">Electronic prescribing</a></li>
+                        <li><a href="http://www.practicefusion.com/lab-imaging-integration/">Labs and imaging</a></li>
+                    </ul>
+                </div>
+                <div class="span3">
+                    <h4>Practice Resource Centers</h4>
+                    <hr>
+                    <ul>
+                        <li><a href="http://www.practicefusion.com/icd-10/">ICD-10</a></li>
+                        <li><a href="http://www.practicefusion.com/e-prescribing/">e-Prescribing</a></li>
+                        <li><a href="http://www.practicefusion.com/meaningful-use/">Meaningful use</a></li>
+                        <li><a href="http://www.practicefusion.com/telehealth/">Telehealth</a></li>
+                        <li><a href="http://www.practicefusion.com/practice-management/">Practice management</a></li>
+                        <li><a href="http://www.practicefusion.com/patient-engagement/">Patient engagement</a></li>
+                        <li><a href="http://www.practicefusion.com/epcs/">EPCS</a></li>
+                        <li><a href="http://www.practicefusion.com/practice-resource-center/">All resource centers</a></li>
+                    </ul>
+                </div>
+                <div class="span3">
+                    <h4>About Practice Fusion</h4>
+                    <hr>
+                    <ul>
+                        <li><a href="http://www.practicefusion.com/blog/">Blog</a></li>
+                        <li><a href="http://www.practicefusion.com/press-releases/">Press releases</a></li>
+                        <li><a href="http://www.practicefusion.com/media-resources/">Media contacts</a></li>
+                    </ul>
+                </div>
+                <div class="span3">
+                    <h4>Practice Solutions</h4>
+                    <hr>
+                    <ul>
+                        <li><a href="http://www.practicefusion.com/1-ehr-for-solo-practices/">Solo practice</a></li>
+                        <li><a href="http://www.practicefusion.com/best-ehr-small-practice/">Small practice</a></li>
+                        <li><a href="http://www.practicefusion.com/pages/large_group_ehr.html">Large groups</a></li>
+                        <li><a href="http://www.practicefusion.com/physician-specialties-ehr/">More physician specialties</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="copyright-info">
+        <div class="container">
+            <div class="row">
+                <div class="search cta-form span6">
+                    <form method="get" action="/search.html">
                         <label class="input search">
-                              <span>Search Practice Fusion</span>
-                              <input type="text" class="search input-xlarge" name="searchword" id="searchword" value="">
+                            <span>Search Practice Fusion</span>
+                            <input type="text" class="search input-xlarge" name="searchword" id="searchword" value="">
                         </label>
                         <button type="submit" class="btn cta blue" onclick="if(document.getElementById('searchword').value == ''){document.getElementById('searchword').value = ' '}">Search</button>
-                     </form>
-                  </div>
-                  <div class="span4 social">
-                     <ul id="social-media">
-                        <li class="facebook"><a href="http://www.facebook.com/practicefusion" target="_blank">&nbsp;</a></li>
-                        <li class="twitter"><a href="http://www.twitter.com/practicefusion" target="_blank">&nbsp;</a></li>
-                        <li class="googleplus"><a href="https://plus.google.com/+practicefusion" target="_blank">&nbsp;</a></li>
-                        <li class="linkedin last"><a href="http://www.linkedin.com/groups?gid=1905709" target="_blank">&nbsp;</a></li>
-                     </ul>
-                  </div>
-                  <div class="span4 subscribe">
-                     <form action="http://cl.exct.net/subscribe.aspx?lid=952846" name="subscribeForm" class="subscribe" method="post" onsubmit="">
+                    </form>
+                    <form action="http://cl.exct.net/subscribe.aspx?lid=952846" name="subscribeForm" class="subscribe" method="post" onsubmit="">
                         <input type="hidden" name="thx" value="http://www.practicefusion.com/pages/newsletter-registration-thanks.html">
                         <input type="hidden" name="err" value="http://www.practicefusion.com/pages/newsletter-registration-error.html">
                         <input type="hidden" name="usub" value="#">
                         <input type="hidden" name="MID" value="200725">
                         <label class="input">
-                           <span>Subscribe to our newsletter</span>
-                           <input type="text" name="Email Address" class="input-large" value="">
+                            <span>Subscribe to our newsletter</span>
+                            <input type="text" name="Email Address" class="input-large" value="">
                         </label>
                         <button class="btn cta blue" type="submit">Subscribe</button>
-                     </form>
-                  </div>
-               </div>
-            </div>
-         </section>
-         <section class="copyrightinfo">
-            <div class="container">
-                <div class="row-fluid">
-                    <div class="span12">
-                        <p class="copyrightinfo">
-                          © 2015 Practice Fusion, Inc.&nbsp; | &nbsp;<a href="/pages/sitemap.html">Site Map</a>&nbsp; | &nbsp;<a href="/pages/terms-of-use.html">Terms</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pages/privacy-policy.html">Privacy Policy</a>&nbsp; | &nbsp;<a href="/certified-meaningful-use-ehr/">EHR Certification</a>
-                        </p>
-                        <!-- <p class="legal">Practice Fusion's free EMR is ONC-ATCB 2011/2012 compliant and has been certified as a Complete EMR by Drummond Group, an ONC-ATCB approved to certify any complete or modular EMR both ambulatory and inpatient, in accordance with the applicable certification criteria adopted by the Secretary of Health and Human Services. This certification does not represent an endorsement by the Department of Health and Human Services or guarantee the receipt of incentive payments. Practice Fusion version 2.0 was Stage 1 certified on June 2, 2011. The ONC certification ID number is 06022011-9528-6. Clinical Quality Measures tested: NQF0013, NQF0024, NQF0028, NQF0038, NQF0041, NQF0055, NQF0056, NQF0061, NQF0421. Additional software used: Surescripts, RxHub, Email.</p> -->
-                    </div>
+                    </form>
                 </div>
-              </div><!-- /container -->
-          </section>
-      </footer>
+                <div class="search social-copyright span6">
+                    <ul id="social-media">
+                        <li class="twitter"><a href="http://www.twitter.com/practicefusion" target="_blank">&nbsp;</a></li>
+                        <li class="facebook"><a href="http://www.facebook.com/practicefusion" target="_blank">&nbsp;</a></li>
+                        <li class="linkedin last"><a href="http://www.linkedin.com/groups?gid=1905709" target="_blank">&nbsp;</a></li>
+                        <li class="googleplus"><a href="https://plus.google.com/+practicefusion" target="_blank">&nbsp;</a></li>
+                    </ul>
+                    <p class="copyrightinfo">
+                        © 2015 Practice Fusion, Inc.&nbsp; | &nbsp;<a href="/pages/sitemap.html">Site Map</a>&nbsp; | &nbsp;<a href="/pages/terms-of-use.html">Terms</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pages/privacy-policy.html">Privacy Policy</a>&nbsp;
+                        | &nbsp;<a href="/certified-meaningful-use-ehr/">EHR Certification</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+</footer>
         <script type="text/javascript" src="http://www.practicefusion.com/wp-content/themes/carbon14/assets/js/bootstrap.min.js?ver=1.0"></script>
 <script type="text/javascript" src="http://www.practicefusion.com/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.7.min.js?ver=1.5.7"></script>
 <script type="text/javascript" src="http://www.practicefusion.com/wp-content/plugins/easy-fancybox/jquery.easing.pack.js?ver=1.3"></script>
@@ -470,19 +662,19 @@ jQuery(document).on('ready post-load', easy_fancybox_handler );
         <script type="text/javascript">
         function liveChat(){var b=window.open("http://www.practicefusion.com/live-chat/index.html","OnlineChatSoftware","toolbar=no,location=no, width=400,height=500,directories=no,menubar=no,status=no,scrollbars=no,resizable=no,replace=no")};
             jQuery(document).ready(function($) {
-                
+
                 // SIGNUP BUTTON
                 jQuery('.nav li.signup a').attr('href','javascript: openwin2()');
                 jQuery('.nav li.signup-tablet a').attr('href','javascript: openwin2()');
                 jQuery('.nav li.signup-mobile a').attr('href','javascript: openwin2()');
                 // LOGIN BUTTON
                 jQuery('.nav li.login a').attr('href', 'javascript: openwin()');
-        
+
             // REMOVE DATA TOGGLE FROM HOVER DROPDOWNS
             // jQuery('li.menu-item > a').removeAttr('data-toggle');
             // LOGO URL
             //jQuery('.navbar a.brand').attr('href', 'http://www.practicefusion.com/');
-        
+
             // LOGIN FUNCTIONALITY
             if ( navigator.userAgent.match(/iPad/i) ) {
                 jQuery('.nav li.login a').attr('href', 'http://www.practicefusion.com/apps/signup_login/ipadBetaLogin.html').attr('target', '_blank');
@@ -729,5 +921,6 @@ jQuery(document).on('ready post-load', easy_fancybox_handler );
     })();
 </script>
 <!-- End Velaro Weblink Code -->
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"90629d74d8","applicationID":"717264","transactionName":"YwRSMBNZCkAAAU1eDlpOcQcVUQtdTg5cUABYTEAFBl0XHhUHVEcNVRVV","queueTime":0,"applicationTime":1382,"atts":"T0NRRltDGU4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"90629d74d8","applicationID":"717264","transactionName":"YwRSMBNZCkAAAU1eDlpOcQcVUQtdTg5cUABYTEAFBl0XHhUHVEcNVRVV","queueTime":0,"applicationTime":1061,"atts":"T0NRRltDGU4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
+
 </body></html>
