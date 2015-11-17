@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the jajah.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421120633id_/http%3A//www.tu.com/en/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jajah.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117021813id_/https%3A//tu.com/privacy) for the most accurate reproduction.*
 
-# TU Go
+# TU Go: Call and text over wifi with O2 & Movistar
 
-## Telefónica Digital Privacy Policy
+## 
+
+Telefónica Digital Privacy Policy
 
 We know your privacy is important to you. It’s important to us too. Please read this Telefónica Digital TU.com Privacy Policy (“Privacy Policy”) to understand how we treat your privacy on our Website.
 
@@ -62,4 +64,4 @@ We may update this Privacy Policy from time to time. We will post any Privacy Po
 
 If you want to access, correct, change, get rid of, or stop any of your Personal Information from being processed, or if you just want to ask anything about this Privacy Policy, then drop us an email on: [tugo@tu.com](mailto:tugo@tu.com)
 
-This site uses cookies to give you a better experience. You can learn more about cookies [here](https://web.archive.org/en/cookies).
+This site uses cookies to give you a better experience. You can learn more about cookies [here](https://web.archive.org/en/cookies/).
