@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-allergies.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512190008id_/http%3A//www.all-allergies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-allergies.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117031306id_/http%3A//www.all-allergies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : All Allergies
 
