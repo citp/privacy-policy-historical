@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the brunchnews.com privacy policy that was archived on 2015-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608161617id_/http%3A//www.brunchnews.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brunchnews.com privacy policy that was archived on 2015-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151117090918id_/http%3A//www.brunchnews.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -226,8 +226,9 @@ to: <a href="mailto:contactus@brunchnews.com">contactus{@}brunchnews.com</a> We 
 </footer>
 
 <!-- Add jQuery library -->
-<script type="text/javascript" src="http://www.brunchnews.com/js/jquery-min.js"></script>
+<script type="text/javascript" src="//www.brunchnews.com/js/jquery-min.js"></script>
 <script type="text/javascript" src="http://www.brunchnews.com/js/jquery-migrate.js"></script>
+<script type="text/javascript" src="http://www.brunchnews.com/js/jquery.cookie.js"></script>
 <script type="text/javascript" src="http://www.brunchnews.com/js/submit_news.js"></script>
 <script type="text/javascript" src="http://www.brunchnews.com/js/responsiveslides.js"></script>
 <script type="text/javascript" src="http://www.brunchnews.com/theme1/js/source/jquery.fancybox.js?v=2.1.5"></script>
@@ -235,6 +236,8 @@ to: <a href="mailto:contactus@brunchnews.com">contactus{@}brunchnews.com</a> We 
 <!--<script type="text/javascript" src="http://www.brunchnews.com/theme1/js/fancybox/js/fancybox/jquery.fancybox.js"></script>
 <link rel="stylesheet" type="text/css" href="http://www.brunchnews.com/theme1/js/fancybox/css/fancybox/jquery.fancybox.css" media="screen" >-->
 <script type="text/javascript">
+	if (typeof jQuery != 'undefined')
+		console.log("jQuery Version:"+$.fn.jquery);
 var autoNewsFlag = 0;
 
 //- See more at: http://www.excellencemagentoblog.com/facebook-login-integration-website#sthash.Axy9428U.dpuf
@@ -317,7 +320,6 @@ function fb_login_status(fbResponse)
 
 $(document).ready(function() 
 {
-	 
 	$('.fancybox').fancybox();
 	$(".fancybox-manual-b").fancybox({
 			type : 'iframe',
@@ -359,21 +361,21 @@ $(document).ready(function()
 	 
 });
 </script>
-		<iframe src="http://www.brunchnews.com/wck_page.php?time=1433780177" rel="nofollow" style="display:none;"></iframe>
+		<iframe src="http://www.brunchnews.com/wck_page.php?time=1447751358" rel="nofollow" style="display:none;"></iframe>
 	<!--Mobile Responsive Script-->
 <script type="text/javascript">
 	(function () {
-	
+
 		// Create mobile element
 		var mobile = document.createElement('div');
 		mobile.className = 'NavIcon';
 		document.querySelector('.nav').appendChild(mobile);
-	
+
 		// hasClass
 		function hasClass(elem, className) {
 			return new RegExp(' ' + className + ' ').test(' ' + elem.className + ' ');
 		}
-	
+
 		// toggleClass
 		function toggleClass(elem, className) {
 			var newClass = ' ' + elem.className.replace(/[\t\r\n]/g, ' ') + ' ';
@@ -386,7 +388,7 @@ $(document).ready(function()
 				elem.className += ' ' + className;
 			}
 		}
-	
+
 		// Mobile nav function
 		var mobileNav = document.querySelector('.NavIcon');
 		var toggle = document.querySelector('.navList');
@@ -399,14 +401,15 @@ $(document).ready(function()
 	{
 		setTimeout('hidePopBx()', 1000);//60000 - onemin // 500 1/2 sec
 	}
-	
+
 	function fancy_box_own_close()
 	{
 		$.fancybox.close();
 	}
-	
+
 </script>
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51da513f58d5dbb1"></script>
+
 <!--Google Analytics-->
 <script type="text/javascript">
 
@@ -421,26 +424,34 @@ $(document).ready(function()
   })();
 
 </script>
-    <script type="text/javascript" src="http://www.truesemantic.com/lib/easyXDM/src/easyXDM.js"></script>
-    <script type="text/javascript" src="http://www.truesemantic.com/lib/take-survey.js"></script>
-    <script type="text/javascript">
-        ts.user_data({
-            //list all your user data
-            //Example
-            //fname : "John",
-            //lname : "Doe"
-        });
 
-        ts.activity_data({
-            //list all your transaction/event details
-            //Example
-            //  scategory : "Sports Events",
-            //  sresults : 20,
-            // fcategory : "Booking"
-        });
+<script type="text/javascript" async="" src="https://d17i51iptdy41y.cloudfront.net/tslib/eXDM/easyXDM.min.js.gz"></script><script type="text/javascript" async="" src="https://d17i51iptdy41y.cloudfront.net/tslib/take-survey.js.gz"></script><script type="text/javascript">
+	var tsa = {auth:[], activity_data:{}, user_data:{}};
+	tsa.auth.push({"_ts_org_license":"57800503132e4eedb779a84b43232e15"});
 
-        //tsWidget.init({"identifier": "naimn5igqMvKkaw"});
-        tsSticky.init({"identifier": "naimn5igqMvKka0"});
-    </script>
+	(function() {
+		var tsexd = document.createElement('script'); tsexd.type = 'text/javascript'; tsexd.async = true;
+		tsexd.src = ('https:' == document.location.protocol ? 'https://d17i51iptdy41y.cloudfront.net' : 'http://d17i51iptdy41y.cloudfront.net') + '/tslib/eXDM/easyXDM.min.js.gz';
+		var where = document.getElementsByTagName('script');where = where[where.length - 1];
+		where.parentNode.insertBefore(tsexd, where);
+
+		var tsembd = document.createElement('script'); tsembd.type = 'text/javascript'; tsembd.async = true;
+		tsembd.src = ('https:' == document.location.protocol ? 'https://d17i51iptdy41y.cloudfront.net' : 'http://d17i51iptdy41y.cloudfront.net') + '/tslib/take-survey.js.gz';
+		var where = document.getElementsByTagName('script');where = where[where.length - 1];
+		where.parentNode.insertBefore(tsembd, where);
+
+	})();
+
+	function ts_click(typ)
+	{
+		tsa.activity_data = {
+			"website":"Brunch News"
+		};
+
+		ts.save_parameters();
+	}
+</script>
+
+
 
 </body></html>
