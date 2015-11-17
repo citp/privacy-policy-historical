@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueorigin.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613005134id_/http%3A//www.blueorigin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueorigin.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117162206id_/https%3A//www.blueorigin.com/privacy-policy) for the most accurate reproduction.*
 
 # Blue Origin | Privacy policy
 
