@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the maximintegrated.com privacy policy that was archived on 2015-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630161212id_/http%3A//www.maximintegrated.com/en/aboutus/legal/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the maximintegrated.com privacy policy that was archived on 2015-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151117071722id_/https%3A//www.maximintegrated.com/en/aboutus/legal/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -21,6 +21,27 @@
     <meta http-equiv="last-modified" content="2014-09-19@19:26:18 UTC">
 
     <meta name="title" content="Privacy Policy - Maxim">
+   	<script type="text/javascript" async="" src="https://web.archive.org/web/20140929120510/https://img.en25.com/i/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20140929120507/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20171013003007/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+        var theCookie=" "+document.cookie;
+        var ind=theCookie.indexOf(" maxim_logout_home=");
+        if (ind==-1) ind=theCookie.indexOf(";maxim_logout_home=");
+        if (ind>=0)
+        {
+            var ind1=theCookie.indexOf(";",ind+1);
+            if (ind1==-1) ind1=theCookie.length; 
+            var maximHome = unescape(theCookie.substring(ind+19,ind1));
+            
+            var exdate = new Date();
+            exdate.setDate(exdate.getDate()-1);
+            var c_value = "; expires=" + exdate.toUTCString()+ ";domain=.maximintegrated.com;path=/";
+            document.cookie = "maxim_logout_home=" + c_value;
+            
+            if(document.URL.indexOf(maximHome)<0)
+            {
+                window.location.replace(maximHome);
+            }
+        }
+    </script>
     
     
 
@@ -51,10 +72,11 @@
             -webkit-background-size: auto 50%;
         } 
 	</style>
-	<script type="text/javascript" async="" src="https://web.archive.org/web/20140929120510/https://img.en25.com/i/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20140929120507/https://ssl.google-analytics.com/ga.js"></script><script src="//assets.adobedtm.com/da66ed5cac112bb7a6083f1c7111320f372c7d2e/satelliteLib-4112cbdaf3add86a21dcbb5f818c05a387c9316f-staging.js"></script>
-	<script type="text/javascript" src="/etc/designs/maximintegrated/clientlibs/jquery.js"></script>
-
 	
+    
+    
+		<script type="text/javascript" src="/etc/designs/maximintegrated/clientlibs/ga.js"></script>
+
     
 	
 
@@ -64,7 +86,26 @@
     </script>
 	<script type="text/javascript" src="/etc/designs/maximintegrated/clientlibs/analytics.js"></script>
 
-	<script>
+	<script type="text/javascript" src="/etc/clientlibs/granite/jquery.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/utils.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/shared.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/underscore.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/personalization/kernel.js"></script>
+<script type="text/javascript">
+    $CQ(function() {
+        CQ_Analytics.SegmentMgr.loadSegments("\x2Fetc\x2Fsegmentation");
+        CQ_Analytics.ClientContextUtils.init("\x2Fetc\x2Fclientcontext\x2Fdefault", "\x2Fcontent\x2Fmaximintegrated\x2Fen\x2Faboutus\x2Flegal\x2Fprivacy\x2Dpolicy");
+
+        
+    });
+</script>
+
+	<link rel="stylesheet" href="/etc/designs/maximintegrated/clientlibs/jquery-ui.css" type="text/css">
+<script type="text/javascript" src="/etc/designs/maximintegrated/clientlibs/jquery-ui.js"></script>
+
+	<script type="text/javascript">
         var SMALL_SCREEN_WIDTH=768;
         var login={
             status:false,
@@ -86,14 +127,14 @@
 
 
 
-<body style="">
+<body>
 
 
 <div class="navbar navbar-default navbar-fixed-top">
     <div id="Cookieconsent" class="consent" style="display:none;">
         <div id="consenttext" style="float:right">
             <font>By using this website, I accept the use of cookies.</font>
-            <a href="/en/aboutus/legal/privacy-policy/cookie-policy.html">Learn More</a>&nbsp;&nbsp;<a class="closeX" href="#" onclick="javascript:setCookieConsent()"></a><br>
+            <a href="/en/aboutus/legal/privacy-policy/cookie-policy.html">Learn More</a>&nbsp;&nbsp;<a class="closeX" href="javascript:void(0)" onclick="javascript:setCookieConsent()"></a><br>
         </div>
     </div>
     <div class="container">
@@ -105,8 +146,16 @@
 
 
 
+<script>
+	var personalInfoLink = personalInfoLink || {};                   
+    personalInfoLink.url = "/en/appservice/profileservice/_jcr_content.personalinfo.json";
+</script>
 
 <style>
+    .required
+    {
+        color:red;
+    }
     .disablelink {
        pointer-events: none;
        cursor: default;
@@ -126,74 +175,24 @@
 	}
 </style>
 
-<script>
-    $(function(){
-        jQuery.support.cors=true;
-        var ajaxUrl = "https://my.maximintegrated.com/wsi/auth/mywidget.mvp";
-        if ($("html").hasClass("lt-ie10") || $("html").hasClass("lt-ie9"))
-        	ajaxUrl = "http://www.maximintegrated.com/en/wsi/auth/mywidgetIE.mvp";
-        $.ajax({
-            url:ajaxUrl,
-            dataType:"json",
-            type: 'get',
-            xhrFields: {
-                withCredentials: true
-            },
-            crossDomain: true,
-            success:function(data){
-                if(data.success==1)
-                {
-					if(data.mdata.is_logged_in=="1")
-                    {
-                        login.status=true;
-                        login.data=data.mdata;
-                        var country=getUrlCountry();
-                        if (country == 'en' || country == 'jp') {
-                        	$('.myMaximSpan').html(data.mdata.member_fname+" "+data.mdata.member_lname).attr("style","text-transform:capitalize");
-                        }
-                        else {
-                        	$('.myMaximSpan').html(data.mdata.member_lname+" "+data.mdata.member_fname).attr("style","text-transform:capitalize");
-                        }
-                        $('.myMaximLink').attr("href","https://my.maximintegrated.com/"+country+"/mymaxim/").removeClass('disablelink');
-                        $('#myMaximLinkImg').attr("href","https://my.maximintegrated.com/").removeClass('disablelink');
-                        if($('#prodConfidentailLink').length && data.mdata.max_conf_url!=null && data.mdata.max_conf_url!=undefined && data.mdata.max_conf_url!="" && data.mdata.is_mc_access=="1")
-                        {
-							$('#prodConfidentailLink').attr("href",data.mdata.max_conf_url+qvid).show();
-                            $('#prodConfidentailLink').click(function(){ 
-                                 window.open(data.mdata.max_conf_url+qvid,'maximConfidential','menubar=1,scrollbars=1,resizable=1,width=930,height=500'); 
-                                 return false;
-                            });
-                        }
-						$('#myMaximLogoutDiv').show();
-						$('#myMaximLoginDiv').hide();
-                        $('#myMaximLogoutDl').removeAttr("style");
-						$('#myMaximLoginDl').hide();
-
-                        if(data.mdata.member_profile_pic!='default' && data.mdata.member_profile_pic)
-                        {
-                            $('#mymi-icon').attr("src",'https://my.maximintegrated.com/mymaxim/profile_pref/profile_img/thumb/'+data.mdata.member_profile_pic);
-                            $('#mymi-icon-mobile').attr("src",'https://my.maximintegrated.com/mymaxim/profile_pref/profile_img/thumb/'+data.mdata.member_profile_pic).show();
-                        }
-                        var lpPriority = data.mdata.p>0?"yes":"";
-                        if(typeof lpMTagConfig !== 'undefined')
-                        {
-                            lpMTagConfig.vars.push(["session","MemberCenter_id",data.mdata.M]);
-                            lpMTagConfig.vars.push(["session","Priority",lpPriority]);
-                        }
-                    }
-                    else if(typeof lpMTagConfig !== 'undefined')
-                    {
-                        lpMTagConfig.vars.push(["session","MemberCenter_id","0"]);
-                        lpMTagConfig.vars.push(["session","Priority",""]);
-                    }
-                }
-                else
-                {
-                    alert(data.msg);
-                }
+<script type="text/javascript">
+    function logout() {
+        if(store.enabled){
+			store.clear();
+		}
+        if (_g && _g.shared && _g.shared.ClientSidePersistence) {
+            _g.shared.ClientSidePersistence.clearAllMaps();
+        }
+        
+        
+            if (CQ_Analytics && CQ_Analytics.CCM) {
+                CQ_Analytics.ProfileDataMgr.clear();
+                CQ_Analytics.CCM.reset();
             }
-        });
-    });
+        CQ.shared.HTTP.clearCookie("CommercePersistence", "/");
+        CQ.shared.Util.load("\x2Fbin\x2FLogoutServlet\x3Flanguage\x3Den");
+        
+    }
 </script>
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -218,34 +217,34 @@
           <!-- myMaxim Header -->
             <div class="maxim-nav single-line navbar-right hidden-xs" style="padding-top:15px">
               <div class="profileimg">
-                  <a id="myMaximLinkImg" href="#" class="disablelink">
+                  <a id="myMaximLinkImg" data-toggle="modal" href="#myMaxDialog" class="disablelink">
                   <img id="mymi-icon" src="/etc/designs/maximintegrated/_images/icons/mymaxim_icon.png">
                   </a>
               </div>
             <div style="float:left">
-                <a href="#" class="disablelink myMaximLink"> 
-                	<span class="myMaximSpan">MyMaxim</span>
+                <a data-toggle="modal" href="#myMaxDialog" class="disablelink myMaximLink"> 
+                	<span class="myMaximSpan">MyMaxim</span><span class="nb-indicator" id="nb-indicator-top"></span>
                 </a><br>
-                <div id="myMaximLogoutDiv" style="display:none"><a href="https://my.maximintegrated.com/en/mymaxim/" style="text-transform: none;">MyMaxim</a> | <a href="https://memcenter.maximintegrated.com/en/home/logout_quick.mvp?auto_return=1&amp;goal_url=http%3A%2F%2Fwww.maximintegrated.com%2Fen%2Faboutus%2Flegal%2Fprivacy-policy.html" title="Logout">Logout</a></div>
-                <div id="myMaximLoginDiv" style="display:block"><a data-toggle="modal" href="#" onclick="javascript:addReturnUrlCookie(); $('#myMaximLoginModal').modal('show');" title="Login to MyMaxim">Login</a> | <a href="https://memcenter.maximintegrated.com/en/guest/register.mvp?auto_return=1&amp;goal_url=http%3A%2F%2Fwww.maximintegrated.com%2Fen%2Faboutus%2Flegal%2Fprivacy-policy.html" title="Register to MyMaxim">Register</a></div>
+                <div id="myMaximLogoutDiv" style="display:none"><a data-toggle="modal" href="#myMaxDialog" style="text-transform: none;">My Maxim</a> | <a href="javascript:logout();" title="Logout">Logout</a></div>
+                <div id="myMaximLoginDiv" style="display:block"><a data-toggle="modal" href="javascript:void(0)" onclick="javascript:addReturnUrlCookie(); $('#myMaximLoginModal').modal('show');" title="Login to MyMaxim">Login</a> | <a href="https://www.maximintegrated.com:443/en/mymaxim/register.html" title="Register to MyMaxim">Register</a></div>
             </div>
           </div>
           <!-- end myMaxim Header -->
           <!-- Search Header -->
           <div class="maxim-nav width200 double-line navbar-right hidden-xs">
-            <form class="form" role="form" name="power_search" method="get" action="http://www.maximintegrated.com/en/pst/run.mvp" onchange="this.submit();">
+            <form class="form" role="form" name="power_search" method="get" action="https://www.maximintegrated.com/en/pst/run.mvp" onchange="this.submit();">
               <div class="form-group">
                 <label class="sr-only" for="searchField">search</label>
                 <input type="searchField" class="form-control input-sm bottom-margin search-icon" id="searchField" placeholder="Search" name="q" value="">
-                <a href="javascript:void(0);" id="parametricsearch" title="Visit the Parametric Search">Parametric Search</a>
+                <a href="javascript:void(0)" id="parametricsearch" title="Visit the Parametric Search">Parametric Search</a>
                 <div id="parametricsearchinfo" class="psdropdown">
-                    <div class="pslink"><a href="http://para.maximintegrated.com/en/?node=5071">Power</a></div>
-                    <div class="pslink"><a href="http://para.maximintegrated.com/en/?node=40860">Analog Signal</a></div>
-                    <div class="pslink"><a href="http://para.maximintegrated.com/en/?node=5017">Interface</a></div>
-                    <div class="pslink"><a href="http://para.maximintegrated.com/en/?node=40858">Communications</a></div>
-                    <div class="pslink"><a href="http://para.maximintegrated.com/en/?node=40863">Digital</a></div>
-                    <div class="pslink"><a href="http://para.maximintegrated.com/en/?node=40862">Industries</a></div>
-                    <div class="pslink"><a href="http://para.maximintegrated.com/en">All</a></div>
+                    <div class="pslink"><a href="https://para.maximintegrated.com/en/?node=5071">Power</a></div>
+                    <div class="pslink"><a href="https://para.maximintegrated.com/en/?node=40860">Analog Signal</a></div>
+                    <div class="pslink"><a href="https://para.maximintegrated.com/en/?node=5017">Interface</a></div>
+                    <div class="pslink"><a href="https://para.maximintegrated.com/en/?node=40858">Communications</a></div>
+                    <div class="pslink"><a href="https://para.maximintegrated.com/en/?node=40863">Digital</a></div>
+                    <div class="pslink"><a href="https://para.maximintegrated.com/en/?node=40862">Industries</a></div>
+                    <div class="pslink"><a href="https://para.maximintegrated.com/en">All</a></div>
                 </div>
               </div>
             </form>
@@ -274,7 +273,7 @@
                   </a>
               </div>
              
-              <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=maximic"></script>
+             <!--<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=maximic#async=1" async="async"></script>-->
 
               
              
@@ -303,10 +302,22 @@
                   
               
           </div>
+            <div class="maxim-nav single-line navbar-right hidden-xs">
+            
+
+
+
+
+
+
+
+
+
+            </div>
 
           <!-- end Language Settings Header -->
           <ul class="nav navbar-nav visible-xs">
-            <form class="form" role="form" method="get" action="http://www.maximintegrated.com/en/pst/run.mvp">
+            <form class="form" role="form" method="get" action="https://www.maximintegrated.com/en/pst/run.mvp">
             	<li><input type="searchField" class="form-control input bottom-margin search-icon" id="searchField" placeholder="Search" name="q" value=""></li>
             </form>
             
@@ -316,15 +327,15 @@
             
             <li><a href="/jp/aboutus/legal/privacy-policy.html">日本語</a></li>
             
-            <li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Products <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/products/power.html">Power</a></li><li><a href="/en/products/analog.html">Analog</a></li><li><a href="/en/products/interface.html">Interface</a></li><li><a href="/en/products/comms.html">Communications</a></li><li><a href="/en/products/digital.html">Digital</a></li><li><a href="/en/products/industries.html">Industries</a></li><li><a href="/en/products/all-products.html">All</a></li><li><a href="http://www.maximintegrated.com/en/whatsnew/">What's New</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Solutions <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/solutions/industrial.html">Industrial</a></li><li><a href="/en/solutions/medical.html">Medical</a></li><li><a href="/en/solutions/consumer.html">Consumer</a></li><li><a href="/en/solutions/automotive.html">Automotive</a></li><li><a href="/en/solutions/computing.html">Computing</a></li><li><a href="/en/solutions/communications.html">Communications</a></li><li><a href="/en/solutions/functional.html">Functional</a></li><li><a href="/en/solutions/all-solutions.html">All Solutions</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Design <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/design/overview.html">Overview</a></li><li><a href="/en/design/circuits-library.html">Circuits Library</a></li><li><a href="/en/design/design-technology.html">Design Technology</a></li><li><a href="/en/design/reference-design-center.html">Reference Designs</a></li><li><a href="/en/design/design-tools.html">Design Tools</a></li><li><a href="/en/design/technical-documents.html">Technical Documents</a></li><li><a href="/en/design/packaging.html">Packaging</a></li><li><a href="/en/design/partners.html">Design Partners</a></li><li><a href="/en/design/videos.html">Videos</a></li><li><a href="http://www.maximintegrated.com/en/products/cross_reference/index.mvp">Cross-Reference Search</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Order <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="https://shop.maximintegrated.com/storefront/homepage.do?mode=first&amp;event=HomePageLoad">Overview and Part Pricing</a></li><li><a href="https://shop.maximintegrated.com/storefront/shoppingcart.do?event=ShowShoppingCart&amp;menuitem=ShoppingCart&amp;modebuy=buyparts">Buy Parts</a></li><li><a href="https://shop.maximintegrated.com/storefront/samplecart.do?event=ShowSampleCart&amp;menuitem=SampleCart&amp;mode=getfreesamples">Get Free Samples</a></li><li><a href="https://shop.maximintegrated.com/storefront/quotecart.do?event=showQuoteCart&amp;menuitem=Quote&amp;mode=requestquotes">Request Quotes</a></li><li><a href="http://www.maximintegrated.com/en/sales/offices/distributor/direct.mvp">Sales and Distribution</a></li><li><a href="/en/order/ordering-support.html">Ordering Support</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Support <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/support/overview.html">Overview</a></li><li><a href="https://support.maximintegrated.com/tech_support/router.mvp">Applications Support by Email</a></li><li><a href="/en/support/application-support-by-phone.html">Applications Support by Phone</a></li><li><a href="/en/support/faqs.html">FAQs</a></li><li><a href="/en/support/qa-reliability.html">QA and Reliability</a></li><li><a href="/en/support/emmi.html">Environmental</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle  toggleon" data-toggle="dropdown">About Us <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/aboutus/maxim-profile.html">Maxim Profile</a></li><li><a href="/en/aboutus/investor-relations.html">Investor Relations</a></li><li><a href="/en/aboutus/events.html">Events</a></li><li><a href="/en/aboutus/careers.html">Careers</a></li><li><a href="/en/aboutus/corporate-responsibility.html">Corporate Responsibility</a></li><li><a href="http://www.maximintegrated.com/en/company/locations/">Worldwide Locations</a></li><li><a href="/en/aboutus/leadership.html">Leadership</a></li><li><a href="http://www.maximintegrated.com/en/company/newsroom/">Newsroom</a></li><li><a href="/en/aboutus/maxim-corporate-policies.html">Corporate Policies</a></li><li><a href="/en/aboutus/contact-us.html">Contact Us</a></li><li><a href="/en/aboutus/legal.html" class="navon">Legal</a></li></ul></li><li id="mobile-target" class="dropdown">
-              <a href="#" class="dropdown-toggle myMaximLink" data-toggle="dropdown"><img id="mymi-icon-mobile" style="display:none; padding-right:5px" src="/etc/designs/maximintegrated/_images/icons/mymaxim_icon.png"><span class="myMaximSpan">MyMaxim</span><b class="caret"></b></a>
+            <li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Products <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/products/power.html">Power</a></li><li><a href="/en/products/analog.html">Analog</a></li><li><a href="/en/products/interface.html">Interface</a></li><li><a href="/en/products/comms.html">Communications</a></li><li><a href="/en/products/digital.html">Digital</a></li><li><a href="/en/products/industries.html">Industries</a></li><li><a href="/en/products/all-products.html">All</a></li><li><a href="http://www.maximintegrated.com/en/whatsnew/">What's New</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Solutions <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/solutions/industrial.html">Industrial</a></li><li><a href="/en/solutions/medical.html">Medical</a></li><li><a href="/en/solutions/consumer.html">Consumer</a></li><li><a href="/en/solutions/automotive.html">Automotive</a></li><li><a href="/en/solutions/computing.html">Computing</a></li><li><a href="/en/solutions/communications.html">Communications</a></li><li><a href="/en/solutions/functional.html">Functional</a></li><li><a href="/en/solutions/all-solutions.html">All Solutions</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Design <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/design/overview.html">Overview</a></li><li><a href="/en/design/circuits-library.html">Circuits Library</a></li><li><a href="/en/design/design-technology.html">Design Technology</a></li><li><a href="/en/design/reference-design-center.html">Reference Designs</a></li><li><a href="/en/design/design-tools.html">Design Tools</a></li><li><a href="/en/design/technical-documents.html">Technical Documents</a></li><li><a href="/en/design/packaging.html">Packaging</a></li><li><a href="/en/design/partners.html">Design Partners</a></li><li><a href="/en/design/videos.html">Videos</a></li><li><a href="http://www.maximintegrated.com/en/products/cross_reference/index.mvp">Cross-Reference Search</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Order <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="https://shop.maximintegrated.com/storefront/homepage.do?mode=first&amp;event=HomePageLoad">Overview and Part Pricing</a></li><li><a href="https://shop.maximintegrated.com/storefront/shoppingcart.do?event=ShowShoppingCart&amp;menuitem=ShoppingCart&amp;modebuy=buyparts">Buy Parts</a></li><li><a href="https://shop.maximintegrated.com/storefront/samplecart.do?event=ShowSampleCart&amp;menuitem=SampleCart&amp;mode=getfreesamples">Get Free Samples</a></li><li><a href="https://shop.maximintegrated.com/storefront/quotecart.do?event=showQuoteCart&amp;menuitem=Quote&amp;mode=requestquotes">Request Quotes</a></li><li><a href="http://www.maximintegrated.com/en/sales/offices/distributor/direct.mvp">Sales and Distribution</a></li><li><a href="/en/order/ordering-support.html">Ordering Support</a></li><li><a href="/en/order/surplus-equipment.html">Surplus Equipment</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Support <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/support/overview.html">Overview</a></li><li><a href="https://support.maximintegrated.com/tech_support/router.mvp">Applications Support by Email</a></li><li><a href="/en/support/application-support-by-phone.html">Applications Support by Phone</a></li><li><a href="/en/support/faqs.html">FAQs</a></li><li><a href="/en/support/qa-reliability.html">QA and Reliability</a></li><li><a href="/en/support/emmi.html">Environmental</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle  toggleon" data-toggle="dropdown">About Us <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/aboutus/maxim-profile.html">Maxim Profile</a></li><li><a href="/en/aboutus/investor-relations.html">Investor Relations</a></li><li><a href="/en/aboutus/events.html">Events</a></li><li><a href="/en/aboutus/careers.html">Careers</a></li><li><a href="/en/aboutus/worldwide-locations.html">Worldwide Locations</a></li><li><a href="/en/aboutus/corporate-responsibility.html">Corporate Responsibility</a></li><li><a href="/en/aboutus/leadership.html">Leadership</a></li><li><a href="http://www.maximintegrated.com/en/company/newsroom/">Newsroom</a></li><li><a href="http://www.maximventures.com">Maxim Ventures</a></li><li><a href="/en/aboutus/maxim-corporate-policies.html">Corporate Policies</a></li><li><a href="/en/aboutus/contact-us.html">Contact Us</a></li><li><a href="/en/aboutus/legal.html" class="navon">Legal</a></li><li><a href="/en/aboutus/load.html">Load</a></li></ul></li><li id="mobile-target" class="dropdown">
+              <a href="javascript:void(0)" class="dropdown-toggle myMaximLink" data-toggle="dropdown"><img id="mymi-icon-mobile" width="25" height="25" style="display:none; padding-right:5px" src="/etc/designs/maximintegrated/_images/icons/mymaxim_icon.png"><span class="myMaximSpan">MyMaxim</span><b class="caret"></b></a>
               <ul id="myMaximLoginDl" class="dropdown-menu">
-                <li><a data-toggle="modal" href="#" onclick="javascript:addReturnUrlCookie(); $('#myMaximLoginModal').modal('show');">Login</a></li>
-                <li><a href="https://memcenter.maximintegrated.com/en/guest/register.mvp?auto_return=1&amp;goal_url=http%3A%2F%2Fwww.maximintegrated.com%2Fen%2Faboutus%2Flegal%2Fprivacy-policy.html">Register</a></li>
+                <li><a data-toggle="modal" href="javascript:void(0)" onclick="javascript:addReturnUrlCookie(); $('#myMaximLoginModal').modal('show');">Login</a></li>
+                  <li><a href="https://www.maximintegrated.com:443/en/mymaxim/register.html">Register</a></li>
               </ul>
               <ul id="myMaximLogoutDl" class="dropdown-menu" style="display:none">
-                <li><a href="https://my.maximintegrated.com/" style="text-transform: none;">MyMaxim</a></li>
-				<li><a href="https://memcenter.maximintegrated.com/en/home/logout_quick.mvp?auto_return=1&amp;goal_url=http%3A%2F%2Fwww.maximintegrated.com%2Fen%2Faboutus%2Flegal%2Fprivacy-policy.html" title="Logout">Logout</a></li>
+                <li><a data-toggle="modal" href="#myMaxDialog" style="text-transform: none;">MyMaxim</a></li>
+				<li><a href="javascript:logout();" title="Logout">Logout</a></li>
               </ul>
             </li>
           </ul>
@@ -344,7 +355,7 @@
    
 
 <script>
-    var mobileMenu = $('<li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Products <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/products/power.html">Power</a></li><li><a href="/en/products/analog.html">Analog</a></li><li><a href="/en/products/interface.html">Interface</a></li><li><a href="/en/products/comms.html">Communications</a></li><li><a href="/en/products/digital.html">Digital</a></li><li><a href="/en/products/industries.html">Industries</a></li><li><a href="/en/products/all-products.html">All</a></li><li><a href="http://www.maximintegrated.com/en/whatsnew/">What&#39;s New</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Solutions <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/solutions/industrial.html">Industrial</a></li><li><a href="/en/solutions/medical.html">Medical</a></li><li><a href="/en/solutions/consumer.html">Consumer</a></li><li><a href="/en/solutions/automotive.html">Automotive</a></li><li><a href="/en/solutions/computing.html">Computing</a></li><li><a href="/en/solutions/communications.html">Communications</a></li><li><a href="/en/solutions/functional.html">Functional</a></li><li><a href="/en/solutions/all-solutions.html">All Solutions</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Design <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/design/overview.html">Overview</a></li><li><a href="/en/design/circuits-library.html">Circuits Library</a></li><li><a href="/en/design/design-technology.html">Design Technology</a></li><li><a href="/en/design/reference-design-center.html">Reference Designs</a></li><li><a href="/en/design/design-tools.html">Design Tools</a></li><li><a href="/en/design/technical-documents.html">Technical Documents</a></li><li><a href="/en/design/packaging.html">Packaging</a></li><li><a href="/en/design/partners.html">Design Partners</a></li><li><a href="/en/design/videos.html">Videos</a></li><li><a href="http://www.maximintegrated.com/en/products/cross_reference/index.mvp">Cross-Reference Search</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Order <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="https://shop.maximintegrated.com/storefront/homepage.do?mode=first&event=HomePageLoad">Overview and Part Pricing</a></li><li><a href="https://shop.maximintegrated.com/storefront/shoppingcart.do?event=ShowShoppingCart&menuitem=ShoppingCart&modebuy=buyparts">Buy Parts</a></li><li><a href="https://shop.maximintegrated.com/storefront/samplecart.do?event=ShowSampleCart&menuitem=SampleCart&mode=getfreesamples">Get Free Samples</a></li><li><a href="https://shop.maximintegrated.com/storefront/quotecart.do?event=showQuoteCart&menuitem=Quote&mode=requestquotes">Request Quotes</a></li><li><a href="http://www.maximintegrated.com/en/sales/offices/distributor/direct.mvp">Sales and Distribution</a></li><li><a href="/en/order/ordering-support.html">Ordering Support</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Support <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/support/overview.html">Overview</a></li><li><a href="https://support.maximintegrated.com/tech_support/router.mvp">Applications Support by Email</a></li><li><a href="/en/support/application-support-by-phone.html">Applications Support by Phone</a></li><li><a href="/en/support/faqs.html">FAQs</a></li><li><a href="/en/support/qa-reliability.html">QA and Reliability</a></li><li><a href="/en/support/emmi.html">Environmental</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle  toggleon" data-toggle="dropdown">About Us <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/aboutus/maxim-profile.html">Maxim Profile</a></li><li><a href="/en/aboutus/investor-relations.html">Investor Relations</a></li><li><a href="/en/aboutus/events.html">Events</a></li><li><a href="/en/aboutus/careers.html">Careers</a></li><li><a href="/en/aboutus/corporate-responsibility.html">Corporate Responsibility</a></li><li><a href="http://www.maximintegrated.com/en/company/locations/">Worldwide Locations</a></li><li><a href="/en/aboutus/leadership.html">Leadership</a></li><li><a href="http://www.maximintegrated.com/en/company/newsroom/">Newsroom</a></li><li><a href="/en/aboutus/maxim-corporate-policies.html">Corporate Policies</a></li><li><a href="/en/aboutus/contact-us.html">Contact Us</a></li><li><a href="/en/aboutus/legal.html" class="navon">Legal</a></li></ul></li>');
+    var mobileMenu = $('<li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Products <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/products/power.html">Power</a></li><li><a href="/en/products/analog.html">Analog</a></li><li><a href="/en/products/interface.html">Interface</a></li><li><a href="/en/products/comms.html">Communications</a></li><li><a href="/en/products/digital.html">Digital</a></li><li><a href="/en/products/industries.html">Industries</a></li><li><a href="/en/products/all-products.html">All</a></li><li><a href="http://www.maximintegrated.com/en/whatsnew/">What&#39;s New</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Solutions <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/solutions/industrial.html">Industrial</a></li><li><a href="/en/solutions/medical.html">Medical</a></li><li><a href="/en/solutions/consumer.html">Consumer</a></li><li><a href="/en/solutions/automotive.html">Automotive</a></li><li><a href="/en/solutions/computing.html">Computing</a></li><li><a href="/en/solutions/communications.html">Communications</a></li><li><a href="/en/solutions/functional.html">Functional</a></li><li><a href="/en/solutions/all-solutions.html">All Solutions</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Design <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/design/overview.html">Overview</a></li><li><a href="/en/design/circuits-library.html">Circuits Library</a></li><li><a href="/en/design/design-technology.html">Design Technology</a></li><li><a href="/en/design/reference-design-center.html">Reference Designs</a></li><li><a href="/en/design/design-tools.html">Design Tools</a></li><li><a href="/en/design/technical-documents.html">Technical Documents</a></li><li><a href="/en/design/packaging.html">Packaging</a></li><li><a href="/en/design/partners.html">Design Partners</a></li><li><a href="/en/design/videos.html">Videos</a></li><li><a href="http://www.maximintegrated.com/en/products/cross_reference/index.mvp">Cross-Reference Search</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Order <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="https://shop.maximintegrated.com/storefront/homepage.do?mode=first&event=HomePageLoad">Overview and Part Pricing</a></li><li><a href="https://shop.maximintegrated.com/storefront/shoppingcart.do?event=ShowShoppingCart&menuitem=ShoppingCart&modebuy=buyparts">Buy Parts</a></li><li><a href="https://shop.maximintegrated.com/storefront/samplecart.do?event=ShowSampleCart&menuitem=SampleCart&mode=getfreesamples">Get Free Samples</a></li><li><a href="https://shop.maximintegrated.com/storefront/quotecart.do?event=showQuoteCart&menuitem=Quote&mode=requestquotes">Request Quotes</a></li><li><a href="http://www.maximintegrated.com/en/sales/offices/distributor/direct.mvp">Sales and Distribution</a></li><li><a href="/en/order/ordering-support.html">Ordering Support</a></li><li><a href="/en/order/surplus-equipment.html">Surplus Equipment</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Support <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/support/overview.html">Overview</a></li><li><a href="https://support.maximintegrated.com/tech_support/router.mvp">Applications Support by Email</a></li><li><a href="/en/support/application-support-by-phone.html">Applications Support by Phone</a></li><li><a href="/en/support/faqs.html">FAQs</a></li><li><a href="/en/support/qa-reliability.html">QA and Reliability</a></li><li><a href="/en/support/emmi.html">Environmental</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle  toggleon" data-toggle="dropdown">About Us <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/aboutus/maxim-profile.html">Maxim Profile</a></li><li><a href="/en/aboutus/investor-relations.html">Investor Relations</a></li><li><a href="/en/aboutus/events.html">Events</a></li><li><a href="/en/aboutus/careers.html">Careers</a></li><li><a href="/en/aboutus/worldwide-locations.html">Worldwide Locations</a></li><li><a href="/en/aboutus/corporate-responsibility.html">Corporate Responsibility</a></li><li><a href="/en/aboutus/leadership.html">Leadership</a></li><li><a href="http://www.maximintegrated.com/en/company/newsroom/">Newsroom</a></li><li><a href="http://www.maximventures.com">Maxim Ventures</a></li><li><a href="/en/aboutus/maxim-corporate-policies.html">Corporate Policies</a></li><li><a href="/en/aboutus/contact-us.html">Contact Us</a></li><li><a href="/en/aboutus/legal.html" class="navon">Legal</a></li><li><a href="/en/aboutus/load.html">Load</a></li></ul></li>');
     $(function(){
 		$('#mobile-target').before(mobileMenu);
 		setTimeout(function (){
@@ -442,14 +453,14 @@
                                         
                                         <a href="/en/products/interface/current-loop-products-4-20ma.html"><div class="leftnav-tertiary">4-20mA Current Loop Products</div></a>
                                         
+                                        <a href="/en/products/interface/industrial-digital-io.html"><div class="leftnav-tertiary">Industrial Digital I/O</div></a>
+                                        
                                         </div></div>
                                     
                                         <div class="left-nav-section"><a href="/en/products/comms.html">
                                         Communications</a>
                                         <div class="terlinks">
                                      
-                                        <a href="/en/products/comms/one-wire.html"><div class="leftnav-tertiary">1-Wire</div></a>
-                                        
                                         <a href="/en/products/comms/ibutton.html"><div class="leftnav-tertiary">iButton</div></a>
                                         
                                         <a href="/en/products/comms/wireless-rf.html"><div class="leftnav-tertiary">Wireless and RF</div></a>
@@ -458,7 +469,7 @@
                                         
                                         <a href="/en/products/comms/optical-communications.html"><div class="leftnav-tertiary">Optical</div></a>
                                         
-                                        <a href="/en/products/comms/powerline-networking.html"><div class="leftnav-tertiary">Powerline Networking</div></a>
+                                        <a href="/en/products/comms/powerline-communications.html"><div class="leftnav-tertiary">Powerline Communications (PLC)</div></a>
                                         
                                         <a href="/en/products/comms/t-e-carrier-packetized-communications.html"><div class="leftnav-tertiary">T/E Carrier and Packetized</div></a>
                                         
@@ -472,13 +483,15 @@
                                         
                                         <a href="/en/products/digital/embedded-security.html"><div class="leftnav-tertiary">Embedded Security</div></a>
                                         
-                                        <a href="/en/products/digital/memory-products.html"><div class="leftnav-tertiary">Memory Products</div></a>
-                                        
                                         <a href="/en/products/digital/microcontrollers.html"><div class="leftnav-tertiary">Microcontrollers</div></a>
+                                        
+                                        <a href="/en/products/digital/one-wire.html"><div class="leftnav-tertiary">1-Wire</div></a>
+                                        
+                                        <a href="/en/products/digital/data-loggers.html"><div class="leftnav-tertiary">Data Loggers</div></a>
                                         
                                         <a href="/en/products/digital/clock-generation-distribution.html"><div class="leftnav-tertiary">Clock Generation and Distribution</div></a>
                                         
-                                        <a href="/en/products/digital/data-loggers.html"><div class="leftnav-tertiary">Data Loggers</div></a>
+                                        <a href="/en/products/digital/memory-products.html"><div class="leftnav-tertiary">Memory Products</div></a>
                                         
                                         </div></div>
                                     
@@ -491,6 +504,8 @@
                                         <a href="/en/products/industries/military-aerospace.html"><div class="leftnav-tertiary">Military and Aerospace</div></a>
                                         
                                         <a href="/en/products/industries/metering-energy-measurement.html"><div class="leftnav-tertiary">Metering and Energy Measurement</div></a>
+                                        
+                                        <a href="/en/products/industries/solar-energy.html"><div class="leftnav-tertiary">Solar Energy</div></a>
                                         
                                         <a href="/en/products/industries/asic-design-services.html"><div class="leftnav-tertiary">ASIC Design Services</div></a>
                                         
@@ -586,6 +601,10 @@
                                         
                                         <a href="/en/solutions/functional/power.html"><div class="leftnav-tertiary">Power</div></a>
                                         
+                                        <a href="/en/solutions/functional/digital-i-o.html"><div class="leftnav-tertiary">Digital I/O</div></a>
+                                        
+                                        <a href="/en/solutions/functional/fpga-power.html"><div class="leftnav-tertiary">FPGA Power</div></a>
+                                        
                                         <a href="/en/solutions/functional/fs-apps.html"><div class="leftnav-tertiary">Application Index</div></a>
                                         
                                         </div></div>
@@ -652,6 +671,8 @@
                           	  
                           			<a href="/en/order/ordering-support.html"><div class="left-nav-section-link ">Ordering Support</div></a>
                           	  
+                          			<a href="/en/order/surplus-equipment.html"><div class="left-nav-section-link ">Surplus Equipment</div></a>
+                          	  
                       </div>
                     </div>
                   </div>
@@ -689,7 +710,7 @@
                         About Us
                       </a>
                     </div>
-                    <div id="collapse6" class="accordion-body collapsing" style="overflow: hidden; display: block; height: 101.977px; padding-top: 0px; margin-top: 0px; padding-bottom: 0px; margin-bottom: 0px;"> 
+                    <div id="collapse6" class="accordion-body collapsing" style="overflow: hidden; display: block; height: 79.0904px; padding-top: 0px; margin-top: 0px; padding-bottom: 0px; margin-bottom: 0px;"> 
                       <div class="accordion-inner">
                          
                           			<a href="/en/aboutus/maxim-profile.html"><div class="left-nav-section-link ">Maxim Profile</div></a>
@@ -700,13 +721,15 @@
                           	  
                           			<a href="/en/aboutus/careers.html"><div class="left-nav-section-link ">Careers</div></a>
                           	  
-                          			<a href="/en/aboutus/corporate-responsibility.html"><div class="left-nav-section-link ">Corporate Responsibility</div></a>
+                          			<a href="/en/aboutus/worldwide-locations.html"><div class="left-nav-section-link ">Worldwide Locations</div></a>
                           	  
-                          			<a href="http://www.maximintegrated.com/en/company/locations/"><div class="left-nav-section-link ">Worldwide Locations</div></a>
+                          			<a href="/en/aboutus/corporate-responsibility.html"><div class="left-nav-section-link ">Corporate Responsibility</div></a>
                           	  
                           			<a href="/en/aboutus/leadership.html"><div class="left-nav-section-link ">Leadership</div></a>
                           	  
                           			<a href="http://www.maximintegrated.com/en/company/newsroom/"><div class="left-nav-section-link ">Newsroom</div></a>
+                          	  
+                          			<a href="http://www.maximventures.com" target="_blank"><div class="left-nav-section-link ">Maxim Ventures</div></a>
                           	  
                           			<a href="/en/aboutus/maxim-corporate-policies.html"><div class="left-nav-section-link ">Corporate Policies</div></a>
                           	  
@@ -718,12 +741,6 @@
                   
 
                 </div>
-            <div style="margin-top:20px">
-	        	
-
-  
-
-	        </div>
     
             </div>
         </div>
@@ -741,8 +758,10 @@
     
         <div class="ib-breadcrumb">
     
-            
-        <a href="/en.html">
+    
+        
+        	<a href="/en.html">
+		
 		Maxim
 		
 		</a>
@@ -754,8 +773,10 @@
     
         <div class="ib-breadcrumb">
     
-            
-        <a href="/en/aboutus.html">
+    
+        
+        	<a href="/en/aboutus.html">
+		
 		About Us
 		
 		</a>
@@ -767,8 +788,10 @@
     
         <div class="ib-breadcrumb">
     
-            
-        <a href="/en/aboutus/legal.html">
+    
+        
+        	<a href="/en/aboutus/legal.html">
+		
 		Legal
 		
 		</a>
@@ -780,8 +803,10 @@
     
     	<div class="ib-breadcrumb" id="ib6">
 	
-            
-        <a href="javascript:void(0);">
+    
+        
+        	<a href="javascript:void(0);">
+		
 		Privacy Policy
 		
             <img src="/etc/designs/maximintegrated/_images/icons/ib_icon-2.png">
@@ -789,7 +814,7 @@
 		</a>
 	
     
-		<div id="ib6info" class="ibdropdown" style="">
+		<div id="ib6info" class="ibdropdown" style="overflow: hidden;">
         
             <div class="iblink"><a href="/en/aboutus/legal/terms-conditions.html">Terms and Conditions</a></div>              
         
@@ -1054,22 +1079,23 @@
         © 2015 Maxim Integrated<br><span class="hidden-xs stick" style="display:inline !important"> | </span>
         <a href="/en/aboutus/contact-us.html" class="footer">Contact Us</a>  |  <a href="/en/aboutus/careers.html" class="footer">Careers</a>   |  <a href="/en/aboutus/legal.html" class="footer">Legal</a><br>
         <span class="hidden-xs stick" style="display:inline !important"> | </span><a href="/en/aboutus/legal/privacy-policy.html" class="footer">Privacy</a>  |  <a href="/en/aboutus/legal/privacy-policy/cookie-policy.html" class="footer">Cookie Policy</a>  |  <a href="/en/site-map.html" class="footer">Site Map</a><br>
+        
         <span class="hidden-xs stick" style="display:inline !important"></span><br>
         
         <!-- AddThis Follow BEGIN -->
         <span class="addthis_toolbox addthis_default_style" style="float:right;width:120px;margin-left:6px;" id="footer_addthis">
-            <a class="addthis_button_rss_follow" addthis:userid="http://www.maximintegrated.com/en/rss/feed.mvp"></a>
+            <a class="addthis_button_rss_follow" addthis:userid="https://www.maximintegrated.com/en/rss/feed.mvp"></a>
             
             <a class="addthis_button_twitter_follow" addthis:userid="maxim_ic"></a>
             <a class="addthis_button_linkedin_follow" addthis:usertype="company" addthis:userid="maxim-integrated"></a>
-            <a class="addthis_button_facebook_follow" addthis:userid="Maxim.IC"></a>
+            <a class="addthis_button_facebook_follow" addthis:userid="MaximIntegrated"></a>
 			
             
             	<a class="addthis_button_google_follow" addthis:userid="+maximintegrated" rel="publisher"></a>
 				<a class="addthis_button_youtube_follow" addthis:userid="MaximIntProd"></a>
             
         </span>
-        <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=maximic"></script>
+        <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=maximic#async=1" async="async"></script>
         <!-- AddThis Follow END -->
     </div>
 </div>
@@ -1093,25 +1119,25 @@
         <div class="modal-body">
             <div class="row">
                 <div class="col-sm-4">
-                    <a href="#"><div class="sharemodule">
+                    <a href="javascript:void(0)"><div class="sharemodule">
                         <!--[if lte IE 8]><img src="/etc/designs/maximintegrated/_images/icons/print_icon.png" /><![endif]-->
                         <!--[if gt IE 8]><img src="/etc/designs/maximintegrated/_images/icons/print_icon.svg" /><![endif]-->
                         <!--[if !IE]> --><img src="/etc/designs/maximintegrated/_images/icons/print_icon.svg"><!-- <![endif]-->
                         <div class="share-text">Print</div>
                     </div></a>
-                    <a href="#"><div class="sharemodule">
+                    <a href="javascript:void(0)"><div class="sharemodule">
                         <!--[if lte IE 8]><img src="/etc/designs/maximintegrated/_images/icons/email_icon.png" /><![endif]-->
                         <!--[if gt IE 8]><img src="/etc/designs/maximintegrated/_images/icons/email_icon.svg" /><![endif]-->
                         <!--[if !IE]> --><img src="/etc/designs/maximintegrated/_images/icons/email_icon.svg"><!-- <![endif]-->
                         <div class="share-text">Email</div>
                     </div></a>
-                    <a href="#"><div class="sharemodule">
+                    <a href="javascript:void(0)"><div class="sharemodule">
                         <!--[if lte IE 8]><img src="/etc/designs/maximintegrated/_images/icons/fb_icon.png" /><![endif]-->
                         <!--[if gt IE 8]><img src="/etc/designs/maximintegrated/_images/icons/fb_icon.svg" /><![endif]-->
                         <!--[if !IE]> --><img src="/etc/designs/maximintegrated/_images/icons/fb_icon.svg"><!-- <![endif]-->
                         <div class="share-text">Facebook</div>
                     </div></a>
-                    <a href="#"><div class="sharemodule">
+                    <a href="javascript:void(0)"><div class="sharemodule">
                         <!--[if lte IE 8]><img src="/etc/designs/maximintegrated/_images/icons/twitter_icon.png" /><![endif]-->
                         <!--[if gt IE 8]><img src="/etc/designs/maximintegrated/_images/icons/twitter_icon.svg" /><![endif]-->
                         <!--[if !IE]> --><img src="/etc/designs/maximintegrated/_images/icons/twitter_icon.svg"><!-- <![endif]-->
@@ -1119,25 +1145,25 @@
                     </div></a>
                 </div>
                 <div class="col-sm-4">
-                    <a href="#"><div class="sharemodule">
+                    <a href="javascript:void(0)"><div class="sharemodule">
                         <!--[if lte IE 8]><img src="/etc/designs/maximintegrated/_images/icons/google+_icon.png" /><![endif]-->
                         <!--[if gt IE 8]><img src="/etc/designs/maximintegrated/_images/icons/google+_icon.svg" /><![endif]-->
                         <!--[if !IE]> --><img src="/etc/designs/maximintegrated/_images/icons/google+_icon.svg"><!-- <![endif]-->
                         <div class="share-text">Google+</div>
                     </div></a>
-                    <a href="#"><div class="sharemodule">
+                    <a href="javascript:void(0)"><div class="sharemodule">
                         <!--[if lte IE 8]><img src="/etc/designs/maximintegrated/_images/icons/pinterest_icon.png" /><![endif]-->
                         <!--[if gt IE 8]><img src="/etc/designs/maximintegrated/_images/icons/pinterest_icon.svg" /><![endif]-->
                         <!--[if !IE]> --><img src="/etc/designs/maximintegrated/_images/icons/pinterest_icon.svg"><!-- <![endif]-->
                         <div class="share-text">Pinterest</div>
                     </div></a>
-                    <a href="#"><div class="sharemodule">
+                    <a href="javascript:void(0)"><div class="sharemodule">
                         <!--[if lte IE 8]><img src="/etc/designs/maximintegrated/_images/icons/linkedin_icon.png" /><![endif]-->
                         <!--[if gt IE 8]><img src="/etc/designs/maximintegrated/_images/icons/linkedin_icon.svg" /><![endif]-->
                         <!--[if !IE]> --><img src="/etc/designs/maximintegrated/_images/icons/linkedin_icon.svg"><!-- <![endif]-->
                         <div class="share-text">LinkedIn</div>
                     </div></a>
-                    <a href="#"><div class="sharemodule">
+                    <a href="javascript:void(0)"><div class="sharemodule">
                         <!--[if lte IE 8]><img src="/etc/designs/maximintegrated/_images/icons/blogger_icon.png" /><![endif]-->
                         <!--[if gt IE 8]><img src="/etc/designs/maximintegrated/_images/icons/blogger_icon.svg" /><![endif]-->
                         <!--[if !IE]> --><img src="/etc/designs/maximintegrated/_images/icons/blogger_icon.svg"><!-- <![endif]-->
@@ -1145,19 +1171,19 @@
                     </div></a>
                 </div>
                 <div class="col-sm-4">
-                    <a href="#"><div class="sharemodule">
+                    <a href="javascript:void(0)"><div class="sharemodule">
                         <!--[if lte IE 8]><img src="/etc/designs/maximintegrated/_images/icons/digg_icon.png" /><![endif]-->
                         <!--[if gt IE 8]><img src="/etc/designs/maximintegrated/_images/icons/digg_icon.svg" /><![endif]-->
                         <!--[if !IE]> --><img src="/etc/designs/maximintegrated/_images/icons/digg_icon.svg"><!-- <![endif]-->
                         <div class="share-text">Digg</div>
                     </div></a>
-                    <a href="#"><div class="sharemodule">
+                    <a href="javascript:void(0)"><div class="sharemodule">
                         <!--[if lte IE 8]><img src="/etc/designs/maximintegrated/_images/icons/reddit_icon.png" /><![endif]-->
                         <!--[if gt IE 8]><img src="/etc/designs/maximintegrated/_images/icons/reddit_icon.svg" /><![endif]-->
                         <!--[if !IE]> --><img src="/etc/designs/maximintegrated/_images/icons/reddit_icon.svg"><!-- <![endif]-->
                         <div class="share-text">Reddit</div>
                     </div></a>
-                    <a href="#"><div class="sharemodule">
+                    <a href="javascript:void(0)"><div class="sharemodule">
                         <!--[if lte IE 8]><img src="/etc/designs/maximintegrated/_images/icons/delicious_icon.png" /><![endif]-->
                         <!--[if gt IE 8]><img src="/etc/designs/maximintegrated/_images/icons/delicious_icon.svg" /><![endif]-->
                         <!--[if !IE]> --><img src="/etc/designs/maximintegrated/_images/icons/delicious_icon.svg"><!-- <![endif]-->
@@ -1320,7 +1346,10 @@ function gotocart(url)
       </div><!-- /.modal-content -->
     </div><!-- /.modal-dialog -->
   </div><!-- /.modal -->
- 
+
+          
+
+
 
 
 <!-- Bookmark Modal -->
@@ -1343,17 +1372,17 @@ function gotocart(url)
             </div>
             <br>
             <div class="left-float">
-                <a href="javascript:void(0);" onclick="javascript:$('#bookmarksModal').modal('hide'); addReturnUrlCookie(); $('#myMaximLoginModal').modal('show');" title="Login to MyMaxim">Login</a> | <a href="https://memcenter.maximintegrated.com/en/guest/register.mvp?auto_return=1&amp;goal_url=http%3A%2F%2Fwww.maximintegrated.com%2Fen%2Faboutus%2Flegal%2Fprivacy-policy.html" title="Register to MyMaxim">Register</a>
+                <a href="javascript:void(0)" onclick="javascript:$('#bookmarksModal').modal('hide'); addReturnUrlCookie(); $('#myMaximLoginModal').modal('show');" title="Login to MyMaxim">Login</a> | <a href="/en/mymaxim/register.html" title="Register to MyMaxim">Register</a>
             </div>
         </div>
         <div class="modal-body" id="bookmarkDiv" style="display:none">
             <div class="row">
                 <div class="col-sm-6">
                 <button type="button" onclick="javascript:add_bmark(); return false;" class="btn btn-maxim btn-sm uppercase">Add Bookmark</button>
-                <button type="button" onclick="window.location='https://my.maximintegrated.com/en/mymaxim/bookmarks/'" class="btn btn-primary btn-sm uppercase">Edit</button>
+                    <button type="button" onclick="window.location='/en/mymaxim/bookmark.html'" class="btn btn-primary btn-sm uppercase">Edit</button>
                 </div>
                 <div class="col-sm-6 text-right">
-                    <a href="javascript:void(0)" onclick="window.location='https://my.maximintegrated.com/en/mymaxim/bookmarks/'">Show All</a>
+                     <a href="javascript:void(0)" onclick="window.location='/en/mymaxim/bookmark.html'">Show All</a>
                 </div>
             </div>
             <hr class="gray">
@@ -1366,106 +1395,304 @@ function gotocart(url)
     </div><!-- /.modal-dialog -->
   </div><!-- /.modal -->
 <script type="text/javascript">
-    function add_bmark()
-    {
-        addBookmark('Privacy Policy', document.URL, 'webpage', function(jsonData){fillBookmark(jsonData);});
-        bookMarkProp('Privacy Policy', document.URL);
-    }
-    function fillBookmark(jsonData)
-    {
-        var page_img = '<!--[if lte IE 8]><img src="/etc/designs/maximintegrated/_images/icons/page_icon.png" /><![endif]--><!--[if gt IE 8]><img src="/etc/designs/maximintegrated/_images/icons/page_icon.svg" /><![endif]--><!--[if !IE]> --><img src="/etc/designs/maximintegrated/_images/icons/page_icon.svg" /><!-- <![endif]-->';
-        $("#bookmarkContent").html('');
-        var max = (jsonData.mdata.bookmarks.length > 7) ? 7 : jsonData.mdata.bookmarks.length;
-        var content='';
-        for(var i = 0; i < max; i++)
-        {
-            var url = jsonData.mdata.bookmarks[i][2];
-            var title = jsonData.mdata.bookmarks[i][1];
-            content += '<p class="clear">'+page_img+'<a href="'+url+'">'+title+'</a></p>';
-        }
-        $("#bookmarkContent").html(content);
-    }
 
-    $("#bookmarksLink").click(function() {
-        if(login.status)
-        {
-            $('#bookmarkNoLoginDiv').hide();
-            $('#bookmarkDiv').show();
-
-            var ajaxUrl = "https://my.maximintegrated.com/mymaxim/wsi/bookmarks/bm.mvp";
-        	if ($("html").hasClass("lt-ie10") || $("html").hasClass("lt-ie9"))
-        		ajaxUrl = "http://www.maximintegrated.com/en/wsi/auth/bm.mvp";
-
-            $.ajax({
-                url:ajaxUrl,
-                dataType:"text",
-                type: 'get',
-                xhrFields: {
-                    withCredentials: true
-                },
-                success:function(data,textStatus,jqXHR){
-                    var jsonStr = jqXHR.responseText.replace("wrapper =","").replace("wrapper=","").trim();
-                    var jsonData=$.parseJSON(jsonStr);
-                    if(jsonData.success==1)
-                    {
-                        fillBookmark(jsonData);
-                    }
-                    else
-                    {
-                        alert(jsonData.msg);
-                    }
-                }
-            });
-        }
-        $('#bookmarksModal').modal('show');
-    });
 </script>
 
 
 
 
 
+<script type="text/javascript">
+    function maximLoginFormValidation(formName, redirectTo) {
+        if (CQ_Analytics) {
+            var u = document.forms[formName]['j_username'].value;
+            var p = document.forms[formName]['j_password'].value;
+            if (CQ_Analytics.Sitecatalyst) {
+                CQ_Analytics.record({
+                    event: "loginAttempt",
+                    values: {
+                        username:u,
+                        loginPage:"/content/maximintegrated/en/aboutus/legal/privacy-policy.html",
+                        destinationPage:redirectTo
+                    },
+                    componentPath: 'maximintegrated/components/page/basepage'
+                });
+                if (CQ_Analytics.ClickstreamcloudUI && CQ_Analytics.ClickstreamcloudUI.isVisible()) {
+                    return false;
+                }
+            }
+            
+                if (CQ_Analytics.ProfileDataMgr) {
+                    CQ_Analytics.ProfileDataMgr.clear();
+                }
+                var error="";
+                if (u=="") {
+                    error += Granite.I18n.get("emailempty")+"\n";
+                }
+                if (p=="") {
+                    error += Granite.I18n.get("pwdempty")+"\n";
+                }
+                if(error!="")
+                {
+                    alert(error);
+                    return false;
+                }
+            return true;    
+        
+        }
+  	}
+
+</script>
 <!-- My Maxim Login Modal -->
-  <div class="modal fade" id="myMaximLoginModal" tabindex="-1" role="dialog" aria-labelledby="myMaximLoginModalLabel" aria-hidden="true">
+<div class="modal fade" id="myMaximLoginModal" tabindex="-1" role="dialog" aria-labelledby="myMaximLoginModalLabel" aria-hidden="true">
     <div class="modal-dialog">
-      <div class="modal-content">
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-          <h4 class="modal-title">
-            <!--[if lte IE 8]><img src="/etc/designs/maximintegrated/_images/icons/mymaxim_icon.png" /><![endif]-->
-            <!--[if gt IE 8]><img src="/etc/designs/maximintegrated/_images/icons/mymaxim_icon.svg" /><![endif]-->
-            <!--[if !IE]> --><img src="/etc/designs/maximintegrated/_images/icons/mymaxim_icon.svg"><!-- <![endif]-->
-            Login to MyMaxim</h4>
-        </div>
-        <div class="modal-body">
-            <form action="https://memcenter.maximintegrated.com/en/guest/login.mvp" method="post" name="main">
-                <input type="hidden" value="start" name="caller_id">
-                <input type="hidden" value="proc" name="phase">
-                <input type="hidden" value="" name="identify">
-                <input type="hidden" value="1" name="auto_return">
-              <div class="form-group">
-                <label for="emailAddress">Email address</label>
-                <input type="email" class="form-control" id="email" name="email" placeholder="Enter Email">
-              </div>
-              <div class="form-group">
-                <label for="userPassword">Password</label>
-                <input type="password" class="form-control" id="password" name="password" placeholder="Password">
-              </div>
-              <br>
-              <div class="left-float">
-                <a href="https://memcenter.maximintegrated.com/en/guest/register.mvp?auto_return=1&amp;goal_url=http%3A%2F%2Fwww.maximintegrated.com%2Fen%2Faboutus%2Flegal%2Fprivacy-policy.html">Not registered? Sign up now!</a>
-                <br>
-                <a href="https://memcenter.maximintegrated.com/en/guest/forgot_password.mvp?auto_return=1&amp;goal_url=http%3A%2F%2Fwww.maximintegrated.com%2Fen%2Faboutus%2Flegal%2Fprivacy-policy.html">Forgot your password?</a>
-              </div>
-              <div class="right-float">
-                <button type="submit" class="btn btn-primary btn-sm uppercase">SUBMIT</button>
-              </div>
-              <br>
-            </form>
-        </div>
-      </div><!-- /.modal-content -->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title">
+                    <!--[if lte IE 8]><img src="/etc/designs/maximintegrated/_images/icons/mymaxim_icon.png" /><![endif]-->
+                    <!--[if gt IE 8]><img src="/etc/designs/maximintegrated/_images/icons/mymaxim_icon.svg" /><![endif]-->
+                    <!--[if !IE]> --><img src="/etc/designs/maximintegrated/_images/icons/mymaxim_icon.svg"><!-- <![endif]-->
+                    Login to MyMaxim</h4>
+            </div>
+            <div class="modal-body">
+                <form id="maximLoginForm" action="/en/aboutus/legal/privacy-policy/j_security_check" method="post" name="maximLoginForm" onsubmit="return maximLoginFormValidation('maximLoginForm','\x2Fen\x2Faboutus\x2Flegal\x2Fprivacy\x2Dpolicy.html');" enctype="multipart/form-data">
+                    <input type="hidden" name="resource" value="/en/aboutus/legal/privacy-policy.html">
+                    <input type="hidden" name="_charset_" value="UTF-8">
+                    <div class="form-group">
+                        <label for="emailAddress" id="username_label">Email address</label>
+                        <input type="email" class="form-control" id="j_username" name="j_username" placeholder="Enter Email">
+                    </div>
+                    <div class="form-group">
+                        <label for="userPassword">Password</label>
+                        <input type="password" class="form-control" id="j_password" name="j_password" placeholder="Password">
+                    </div>
+                    <br>
+                    <div class="left-float">
+                        <a href="https://www.maximintegrated.com:443/en/mymaxim/register.html">Not registered? Sign up now!</a>
+                        <br>
+                        <a href="https://www.maximintegrated.com:443/en/mymaxim/reset_pwd.html">Forgot password?</a>
+                    </div>
+                    <div class="right-float">
+                        <button type="submit" class="btn btn-primary btn-sm uppercase">SUBMIT</button>
+                    </div>
+                    <br>
+                </form>
+            </div>
+        </div><!-- /.modal-content -->
     </div><!-- /.modal-dialog -->
-  </div><!-- /.modal -->
+</div><!-- /.modal -->
+
+
+
+
+
+
+
+
+<style>
+#sortable-new {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#sortable-new li {
+	margin: 3px 3px 3px 0;
+	padding: 1px;
+	float: left;
+}
+#sortable-new div {
+	text-align: center;
+    width:165px;   
+    height:165px; 
+}
+
+.max-bullet-new a {
+	color: #00B2A9;
+	font-weight: bold;
+}
+
+.max-bullet-new {
+	padding-top: 10px;
+}
+
+.max-bullet a {
+	color: #6e2585;
+}
+
+.max-bullet {
+	padding-top: 10px;
+}
+
+.icon {
+	float: left;
+	padding-right: 5px;
+}
+
+.mymaxmodalbody li {
+	list-style: none;
+}
+
+.mymax-bulletin {
+	padding-top: 10px;
+}
+
+.bulletin-list {
+	padding-left: 2px;
+}
+
+.max-tabs {
+	padding: 1px;
+	width: 50px;
+	font-size: 10px;
+}
+
+.maxnav>li>a {
+	position: relative;
+	display: block;
+	padding: 13px 13px 13px 0px;
+}
+
+.maxnav>li>a:hover,.maxnav>li>a:focus {
+	text-decoration: none;
+	background-color: #ffffff;
+    border: none;
+	color: #00B2A9;
+}
+
+.mymaxnav>li>a {
+	margin-right: 2px;
+	margin-top: 3px;
+	line-height: 0.7;
+	font-size: 100%;
+	font-weight: 900;
+	background-color: #ffffff;
+	color: #00B2A9;
+	border: none;
+    outline: 0;
+	border-radius: 2px 2px 0 0;
+	border-bottom-color: #000000;
+}
+.mymax-label{
+    font-size:0.9em;
+    text-transform: uppercase;
+}
+.mymaxnav>li.active>a,.mymaxnav>li.active>a:hover,.mymaxnav>li.active>a:focus
+	{
+	color: #6e2585;
+	cursor: default;
+	background-color: #ffffff;
+	border: none;
+    outline: 0;
+	border-bottom-color: #000000;
+}
+
+.mymaxmodalbody {
+	padding-top: 2px;
+}
+
+.mymaxmodalhead {
+	padding-bottom: 8px;
+	padding-left: 21px;
+	border-bottom: 0px;
+}
+
+.nb-indicator {
+	height: 16px;
+    width: 16px;
+    background-color: #de3831;
+    color: #ffffff;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 16px;
+    font-size: 12px;
+    padding: 0 1px 3px;
+    margin-left: 5px;
+    text-align: center;
+    behavior: url("/etc/designs/maximintegrated/_js/PIE.htc");
+    display: none;
+}
+.nb-indicator-modal {
+	height: 16px;
+	width: 16px;
+	background-color: #de3831;
+	color: #ffffff;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 16px;
+	font-size: 12px;
+	padding: 4px 0px 4px 1px;
+	margin-left: 5px;
+	margin-top: -2px;
+	text-align: center;
+	position:relative;
+	z-index: 0;
+	behavior: url("/etc/designs/maximintegrated/_js/PIE.htc");
+	font-weight: normal;
+	display: block;
+	float: right;
+}
+
+</style>
+
+<div class="modal fade" id="myMaxDialog" tabindex="-1" role="dialog" aria-labelledby="myMaxModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header mymaxmodalhead">
+				<button type="button" class="close" style="float: right !important;" data-dismiss="modal" aria-hidden="true">×</button>
+				<h2 style="color: black;" id="fullNameUser"></h2>
+			</div>
+			<div class="modal-body mymaxmodalbody">
+				<div class="tabbable">
+					<!-- Only required for left/right tabs -->
+					<ul class="nav nav-tabs mymaxnav maxnav">
+                        <li class="active" style="font-size: 16px;" id="mymaxTabLi"><a href="#tabmymax" id="mymaximTab" data-toggle="tab" style="border-bottom:5px solid #6e2585">MY MAXIM</a></li>
+                        <li style="font-size: 16px;" id="bulletinTabLi"><a href="#tabmybulletin" id="bulletinTab" data-toggle="tab" style="border-bottom:none">MY BULLETIN<span class="nb-indicator-modal" id="nb-indicator" style="display:none"></span></a></li>
+
+					</ul>
+					<div class="tab-content">
+						<div class="tab-pane active" id="tabmymax">
+							<div id="mymaxim-profile" style="padding-top: 10px;">
+								<p>
+									<span class="smaller">Click and drag tools to customize your dashboard.</span>
+								</p>
+                                <img id="mymaxim-spinner" src="/etc/designs/maximintegrated/_images/spiffy.gif" alt="Loading" style="display: none;"> 
+								<ul id="sortable-new">
+
+								</ul>
+							</div>
+						</div>
+
+						<div class="tab-pane" id="tabmybulletin">
+							<img id="mybulletin-spinner" src="/etc/designs/maximintegrated/_images/spiffy.gif" alt="Loading" style="display: none;">
+							<ul id="newsortable-preview-new" class="bulletin-list">
+
+							</ul>
+							<div style="padding-top: 20px; padding-left: 2px;">
+								<a href="/en/mymaxim/seeallpage.html"><h5>Show All &gt;</h5> </a>
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+			</div>
+			<div class="modal-footer">
+                <p>Questions or feedback? 
+                    
+					<a href="https://support.maximintegrated.com/tech_support/submit_question.mvp?pl_id=0">
+                    
+                    Contact Us</a>
+				</p>
+			</div>
+		</div>
+
+
+	</div>
+</div>
+
+
 
 
 
@@ -1533,11 +1760,23 @@ function gotocart(url)
 </div><!-- /.modal -->
 <script type="text/javascript" src="/etc/designs/maximintegrated/clientlibs/eloqua.js"></script>
 
+<script type="text/javascript" src="/etc/designs/maximintegrated/clientlibs/personalinfostore.js"></script>
+
+<script src="/etc/designs/maximintegrated/_js/stringhash.js"></script>
 <script type="text/javascript" src="/etc/designs/maximintegrated/clientlibs/common.js"></script>
 
 <script>
     elq_auto_load();
+    if(typeof(s) == "function")
+    {
+        var s_code=s.t();
+        if(s_code){
+            docuent.write(s_code);
+        }
+    }
 </script>
-<script type="text/javascript">_satellite.pageBottom();</script>
+
+<script>addLinkerEvents();</script>
+
 
 </body></html>
