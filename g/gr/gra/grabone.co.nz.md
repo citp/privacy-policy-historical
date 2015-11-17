@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grabone.co.nz privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427121216id_/http%3A//www.grabone.co.nz/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabone.co.nz privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117031211id_/http%3A//www.grabone.co.nz/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – GrabOne
 
@@ -46,9 +46,10 @@ Your privacy on the internet is important to us. As the internet offers the abil
 (a) to provide Merchants and third party logistics providers with contact and delivery address details for the purpose of delivering Goods and Coupons to your chosen address and processing payment;   
 (b) To third parties for use to provide you with services related to your use of the Website, if it is required to fulfil those services;   
 (c) to Merchants and/or third parties where we have your consent, such as by opting-in to receive communications from Merchants and/or other third parties;   
-(d) to enforce or apply the Terms of the Website;   
-(e) to the relevant authorities, any internet search provider that you use to access the Website, and/or the applicable intellectual property rights holders (or their representatives) if we consider you are infringing the intellectual property rights of any person; and   
-(f) where we consider in our absolute discretion we are required to disclose your personal information in accordance with any applicable law, regulation, legal process or Government request. 
+(d) to third party market research companies contracted by us to evaluate your eligibility for certain types of goods, offers, products or services that may be of interest to you, analyse advertising effectiveness and for internal research purposes;   
+(e) to enforce or apply the Terms of the Website;   
+(f) to the relevant authorities, any internet search provider that you use to access the Website, and/or the applicable intellectual property rights holders (or their representatives) if we consider you are infringing the intellectual property rights of any person; and   
+(g) where we consider in our absolute discretion we are required to disclose your personal information in accordance with any applicable law, regulation, legal process or Government request. 
 
 #### 4\. Cookies and Tracking
 
@@ -65,19 +66,7 @@ We may use a cookie file containing information that can identify the computer y
 (c) enable you to enter our Website and use certain services as a Member without having to log on each time and to visit Member-restricted areas of the Website; and   
 (d) use Google Remarketing in combination with Google Analytics to advertise online (third-party vendors, including Google, show our advertisements on sites across the Internet). Third-party vendors, including Google, use first-party cookies (such as Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimise, and serve advertisements based on someone’s past visits to our Website. Users can opt out of Google Analytics for Display Advertising and customise Google Display Network advertisements using the Ads Preferences Manager. 
 
-4.3 Cookies We Use 
-
-**Domain**|  **Purpose**|  **Cookie Names**  
----|---|---  
-GoConnect| Site Management| BIGipServerPOOL-*, csrftoken, sessionid, goconnect-auto-login  
-GrabOne| Site Management| sid, lssid, gatekeeper_*, go_visited, is-mobile, default-area-slug, fbsr_  
-GrabOne| Web analytics| gocount, gocount_*, _ga, NREUM  
-Facebook| Social Media Sharing and GrabOne login via Facebook Connect| c_user, csm, datr, fr, lu, p, presence, s, xs, reg_fb_gate, Reg_fb_ref  
-Google| Web analytics| APISID, HSID, NID, OGPC, PREF, SAPISID, SID, SSID, _UTMA, _UT, _UTMC, _UTMC, _UTMV  
-Twitter| Social Media Sharing| guest_id, pid  
-ChartBeat| Web analytics| _chartbeat2  
-  
-4.4 Disabling Cookies 
+4.3 Disabling Cookies 
 
 You can choose to refuse cookies by turning them off in your browser and/or deleting them from your hard drive. You do not need to have cookies turned on to browse the Website, however cookies must be enabled in order to login or make a purchase. If your cookies are turned off we will not have any control over the frequency of display of certain ad formats. This could affect your experience of the Website. Visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) for a comprehensive guide on how to control and delete cookies on a wide range of web browsers and operating systems. 
 
@@ -85,11 +74,9 @@ You can choose to refuse cookies by turning them off in your browser and/or dele
 
 5.1 We do not control the practices of content providers, partners and advertisers connected with the Website and to whom you provide personal information whilst using the Website. Our Website contains links to other sites, which may not follow the same privacy policies as us. We recommend that you check any relevant privacy policies before providing your personal information to any third party. 
 
-#### 6\. Nielsen//NetRatings
+#### 6\. Analytics
 
-6.1 We use Nielsen//NetRatings website measurement software and systems to assist in tracking traffic patterns to and from our Website, aggregating anonymous information about visits to our Website, and randomly and anonymously surveying users of our Website. Nielsen//NetRatings is a leader in the Internet industry in interactive measurement technologies and market research and its system is an accepted standard amongst major New Zealand Internet sites. The system is used to collect information on our network such as the number of page views, the number of unique visitors, how long these visitors spend on the Website when they do visit, and common entry and exit points into and from the Website. Random anonymous surveys are also used to collect further information about our users. 
-
-6.2 This non-personal information is aggregated by Nielsen//NetRatings and provided to us to assist in our analysis of the Website. The Nielsen//NetRatings data is also accessible by media organisations and research companies for the purpose of conducting industry comparisons with other websites. All our pages are coded with a small piece of Nielsen//NetRatings code that is transparent to you when you read that page. The software stores a cookie in your browser (if you have enabled cookies) which contains a unique identifier to allow us to track the number of unique visitors to the Website. This information is collected and aggregated by Nielsen//NetRatings and in no way can you be identified personally and no personal information is stored about you. Nielsen//NetRatings systems fully comply with our Privacy Policy. For further information about Nielsen//NetRatings, [click here](http://en-us.nielsen.com/content/nielsen/en_us/product_families/nielsen_netratings.html), and for details of Nielsen//NetRatings' privacy policy, [click here](http://www.nielsen-online.com/corp.jsp?section=leg_prs). 
+GrabOne or our related companies contract with online measurement companies and other service providers to manage and optimise our Internet business and communications. These companies collect information about visits to our site to assist us in analysing the site's performance and advertising effectiveness and optimising the site for readers and marketers. Details of these service providers and the information they may collect can be found [Here](http://new.grabone.co.nz/third-party-access-to-information). 
 
 #### 7\. Security
 
@@ -107,4 +94,4 @@ You can choose to refuse cookies by turning them off in your browser and/or dele
 
 9.3 If you have any questions about how our services work or regarding this statement, [Contact Us](https://web.archive.org/contact-us). 
 
-Last updated 15 September 2014 
+Last updated 14 August 2015 
