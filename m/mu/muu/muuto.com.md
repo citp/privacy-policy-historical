@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muuto.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511060356id_/http%3A//www.muuto.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muuto.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117044613id_/http%3A//www.muuto.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Muuto
 
