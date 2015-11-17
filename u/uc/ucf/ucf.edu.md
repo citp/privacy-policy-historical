@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucf.edu privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619180749id_/http%3A//www.ucf.edu/internet-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucf.edu privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117190730id_/http%3A//www.ucf.edu/internet-privacy-policy) for the most accurate reproduction.*
 
 # UCF University Internet Privacy Policy - University of Central Florida, Orlando, FL
 
