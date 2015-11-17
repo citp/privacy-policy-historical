@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panzoid.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607184332id_/http%3A//www.panzoid.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panzoid.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117073728id_/http%3A//panzoid.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Panzoid
 
