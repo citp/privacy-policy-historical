@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reliablesite.net privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619113948id_/http%3A//www.reliablesite.net/policies/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliablesite.net privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117064323id_/http%3A//www.reliablesite.net/policies/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - ReliableSite.Net LLC
 
