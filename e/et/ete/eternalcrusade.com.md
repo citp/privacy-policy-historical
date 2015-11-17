@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eternalcrusade.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316192931id_/http%3A//www.eternalcrusade.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eternalcrusade.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117221119id_/https%3A//www.eternalcrusade.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Warhammer 40,000 - Eternal Crusade
 
@@ -101,4 +101,4 @@ You may change or withdraw your consent at any time, subject to legal or contrac
 
 ## XII. Contact Information
 
-If you have questions or concerns regarding this statement, you should contact the BHVR Privacy Policy Administrator at [privacy@eternalcrusade.com](https://web.archive.org/web/20150316192931id_/http%3A//www.eternalcrusade.com/privacy@eternalcrusade.com "privacy@eternalcrusade.com").
+If you have questions or concerns regarding this statement, you should contact the BHVR Privacy Policy Administrator at [privacy@eternalcrusade.com](https://web.archive.org/web/20151117221119id_/https%3A//www.eternalcrusade.com/privacy@eternalcrusade.com "privacy@eternalcrusade.com").
