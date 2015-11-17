@@ -1,0 +1,551 @@
+<!--The following is the downloaded HTML source of the lightspeedhq.com privacy policy that was archived on 2015-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151117182731id_/https%3A//www.lightspeedhq.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
+<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P7NVFF"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcGV1ZWABAJUVRUDgkC"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.lightspeedhq.com/xmlrpc.php">
+<link rel="icon" href="https://1sqaho2rc10k4c3dsm3pzthu-wpengine.netdna-ssl.com/favicon.ico" type="image/x-icon">
+<link rel="alternate" href="https://www.lightspeedhq.co.uk/privacy-policy/" hreflang="en-gb">
+<link rel="alternate" href="https://www.lightspeedhq.com/privacy-policy/" hreflang="en-ca">
+<link rel="alternate" href="https://www.lightspeedhq.com/privacy-policy/" hreflang="en">
+<title>Privacy Policy | Lightspeed POS</title>
+
+<!-- Google Tag Manager for WordPress by DuracellTomi - http://duracelltomi.com -->
+<script type="text/javascript">
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || []
+
+	var gtm4wp_scrollerscript_debugmode         = false;
+	var gtm4wp_scrollerscript_callbacktime      = 100;
+	var gtm4wp_scrollerscript_readerlocation    = 150;
+	var gtm4wp_scrollerscript_contentelementid  = "content";
+	var gtm4wp_scrollerscript_scannertime       = 60;
+</script>
+<!-- End Google Tag Manager for WordPress by DuracellTomi -->
+<!-- This site is optimized with the Yoast SEO Premium plugin v2.3.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.lightspeedhq.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy | Lightspeed POS">
+<meta property="og:url" content="https://www.lightspeedhq.com/privacy-policy/">
+<meta property="og:site_name" content="Lightspeed POS">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Privacy Policy | Lightspeed POS">
+<meta name="twitter:domain" content="Lightspeed POS">
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Lightspeed POS » Feed" href="https://www.lightspeedhq.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Lightspeed POS » Comments Feed" href="https://www.lightspeedhq.com/comments/feed/">
+<link rel="stylesheet" id="contact-form-7-css" href="https://1sqaho2rc10k4c3dsm3pzthu-wpengine.netdna-ssl.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.3" type="text/css" media="all">
+<link rel="stylesheet" id="fonts-css" href="//fonts.googleapis.com/css?family=Source+Sans+Pro%3A200%2C300%2C300italic%2C400%2C600&amp;ver=4.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="main-css" href="https://1sqaho2rc10k4c3dsm3pzthu-wpengine.netdna-ssl.com/wp-content/themes/lightspeed/prod/css/main.css?ver=1447713304" type="text/css" media="all">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js?ver=1"></script>
+<script type="text/javascript" src="https://1sqaho2rc10k4c3dsm3pzthu-wpengine.netdna-ssl.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-contact-form-7-tracker.js?ver=1.0"></script>
+<script type="text/javascript" src="https://1sqaho2rc10k4c3dsm3pzthu-wpengine.netdna-ssl.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.0"></script>
+<script type="text/javascript" src="https://1sqaho2rc10k4c3dsm3pzthu-wpengine.netdna-ssl.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-youtube.js?ver=1.0"></script>
+<script type="text/javascript" src="https://1sqaho2rc10k4c3dsm3pzthu-wpengine.netdna-ssl.com/wp-content/plugins/duracelltomi-google-tag-manager/js/analytics-talk-content-tracking.js?ver=1.0"></script>
+<script type="text/javascript" src="//cdn.bizible.com/scripts/bizible.js?ver=1"></script>
+<link rel="shortlink" href="https://www.lightspeedhq.com/?p=29910">
+
+<!-- Google Tag Manager for WordPress by DuracellTomi -->
+<script type="text/javascript">
+	dataLayer.push({"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"Elina"});
+</script></head>
+<body class="page page-id-29910 page-template page-template-page-templates page-template-master-page page-template-page-templatesmaster-page-php group-blog">
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P7NVFF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P7NVFF');</script>
+<!-- End Google Tag Manager --><div id="page" class="hfeed site">
+    <header role="banner">
+        <!-- Navigation: Super -->
+        <div class="navigation-super">
+
+            <div class="container">
+                <div class="navigation-super-menu"><ul id="menu-navigation-super" class="menu"><li id="menu-item-27831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27831"><a href="tel:+18669321801">866-932-1801</a></li>
+<li id="menu-item-31477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31477"><a href="https://www.lightspeedhq.com/contact/">Contact</a></li>
+<li id="menu-item-27898" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27898"><a href="https://www.lightspeedhq.com/about/">About Us</a></li>
+<li id="menu-item-29678" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29678"><a href="https://www.lightspeedhq.com/login/">Login</a></li>
+<li id="menu-item-27915" class="local-flag flag-ca menu-item menu-item-type-custom menu-item-object-custom menu-item-27915"><a title="Canada (English)" href="#">CA (EN)</a></li>
+</ul></div><div class="language-selector"><ul id="menu-language-selector" class="menu"><li id="menu-item-32334" class="local-flag flag-ca menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-32334"><a href="//www.lightspeedhq.com">CA(EN)</a></li>
+<li id="menu-item-32335" class="local-flag flag-qc menu-item menu-item-type-custom menu-item-object-custom menu-item-32335"><a href="//fr.lightspeedhq.com">CA(FR)</a></li>
+<li id="menu-item-32336" class="local-flag flag-nl menu-item menu-item-type-custom menu-item-object-custom menu-item-32336"><a href="//www.lightspeedhq.nl">NL(NL)</a></li>
+<li id="menu-item-32337" class="local-flag flag-be menu-item menu-item-type-custom menu-item-object-custom menu-item-32337"><a href="//www.lightspeedhq.be">BE(NL)</a></li>
+<li id="menu-item-32338" class="local-flag flag-uk menu-item menu-item-type-custom menu-item-object-custom menu-item-32338"><a href="//www.lightspeedhq.co.uk">UK(EN)</a></li>
+</ul></div>            </div>
+        </div>
+
+
+        <!-- Navigation: Primary -->
+        <div class="navigation-primary">
+            <div class="container">
+                <a class="navigation-primary-logo" href="https://www.lightspeedhq.com/" rel="home" title="Lightspeed POS">
+                    <svg class="logo-primary" viewBox="0 0 475 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <path class="logo-flame" d="M36.9,0.9 L41.9,9.6 C42.9,11.4 42.9,13.6 41.9,15.4 L12.1,67.1 L26.2,91.5 C28.4,95.3 32.5,97.7 36.9,97.7 C41.3,97.7 45.4,95.3 47.6,91.5 L61.7,67.1 L58,60.5 L42,88.2 C41,90 39,91.1 37,91.1 C34.9,91.1 33,90 32,88.2 L19.7,67.1 L47.4,19.1 L52.4,27.8 C53.4,29.6 53.4,31.8 52.4,33.6 L33.1,67.1 L36.9,73.7 L57.9,37.3 L71.7,61.2 C73.8,64.9 73.8,69.4 71.7,73.1 L57.7,97.4 C55.6,101.1 48.9,109.4 36.9,109.4 C24.9,109.4 18.3,101.1 16.1,97.4 L2.1,73.1 C-8.43769499e-15,69.4 -8.43769499e-15,64.9 2.1,61.2 L36.9,0.9"></path>
+                        <g class="logo-text" transform="translate(102.000000, 25.000000)">
+                            <rect x="0" y="1.8" width="9.7" height="57.3"></rect>
+                            <circle cx="22.7" cy="6.6" r="5.7"></circle>
+                            <rect x="17.8" y="19.3" width="9.8" height="39.8"></rect>
+                            <path d="M53.3,18.3 C42.2,18.3 33.2,26.1 33.2,38.5 C33.2,50.9 41,58.5 53.4,58.5 C58.3,58.5 63.5,61 63.5,66.5 C63.5,72 59.1,75.1 53.4,75.1 C47.7,75.1 43,71.7 43,66.5 L33.2,66.5 C33.2,77.2 41.8,84.3 53.4,84.3 C64.9,84.3 73.3,77.5 73.3,66.5 C73.3,61.4 71.7,56.6 65.1,53.3 C71.6,50.3 73.5,43.4 73.5,38.4 C73.5,26.1 64.4,18.3 53.3,18.3 L53.3,18.3 Z M53.4,50.4 C47.7,50.4 43,45.5 43,38.5 C43,31.6 47.7,26.5 53.4,26.5 C59.1,26.5 63.7,31.7 63.7,38.5 C63.7,45.4 59,50.4 53.4,50.4 L53.4,50.4 Z"></path>
+                            <path d="M101.9,18.3 C97.4,18.3 93.1,19.7 89.5,24.2 L89.5,1.7 L79.7,1.7 L79.7,59 L89.5,59 L89.5,38.8 C89.5,32.9 93.5,28 99.3,28 C104.5,28 108.3,31.1 108.3,38.3 L108.3,59 L118.1,59 L118.1,37.6 C118.2,25.9 113.2,18.3 101.9,18.3 L101.9,18.3 Z"></path>
+                            <path d="M142,52.3 C140.8,52.3 139.8,51.9 139.2,51.1 C138.6,50.3 138.3,49.1 138.3,47.3 L138.3,27.7 L146.2,27.7 L147.1,19.2 L138.4,19.2 L138.4,8.3 L128.5,9.4 L128.5,19.3 L121,19.3 L121,27.8 L128.5,27.8 L128.5,47.6 C128.5,51.7 129.5,54.8 131.4,56.9 C133.3,59 136.2,60.1 139.9,60.1 C141.6,60.1 143.2,59.9 144.9,59.4 C146.6,58.9 148.1,58.2 149.4,57.3 L146,51 C144.7,51.9 143.3,52.3 142,52.3 L142,52.3 Z"></path>
+                            <path d="M182.3,37.7 C178.3,35.2 173.6,34.9 169,34.6 C166.3,34.4 162.2,33.8 162.2,30.3 C162.2,27.8 164.8,26.4 169.5,26.4 C173.3,26.4 176.6,27.3 179.4,29.9 L184.9,23.5 C180.3,19.5 175.6,18.3 169.3,18.3 C162,18.3 152.4,21.5 152.4,30.7 C152.4,34.5 154.4,38 157.7,40 C161.4,42.3 166.2,42.6 170.3,43.1 C173.1,43.4 177.7,44.1 176.9,48 C176.4,50.7 173.1,51.5 170.8,51.6 C168.3,51.7 165.8,51.5 163.3,50.9 C160.7,50.2 158.6,49 156.3,47.5 L151.3,53.8 C151.6,54 151.9,54.3 151.9,54.3 C158.3,59.6 167.2,61.3 175.3,59.5 C181.4,58.1 186.6,53.7 186.6,47.1 C186.8,43.4 185.6,39.7 182.3,37.7 L182.3,37.7 Z"></path>
+                            <path d="M214.6,18.3 C210.1,18.3 204.8,20.2 201.7,24.6 L201.4,19.2 L191.9,19.2 L191.9,76.5 L201.7,75.4 L201.7,54.4 C204.5,58.7 210.6,60.1 214.8,60.1 C227.5,60.1 234.9,50.6 234.9,39.1 C234.9,27.4 226.8,18.3 214.6,18.3 L214.6,18.3 Z M213.8,51.6 C207.1,51.6 202.6,45.5 202.6,39.3 C202.6,33.1 206.8,26.5 213.8,26.5 C220.9,26.5 225,33.2 225,39.3 C225.1,45.5 220.5,51.6 213.8,51.6 L213.8,51.6 Z"></path>
+                            <path d="M247.7,42.7 C248.8,47.4 253.1,51.5 260.1,51.5 C263.7,51.5 268.5,49.7 270.8,47.4 L277.1,53.6 C272.9,57.9 266,60 260,60 C247.6,60 238.6,51.8 238.6,39.1 C238.6,27.1 247.9,18.3 259.3,18.3 C271.3,18.3 281.3,26.5 280.3,42.7 L247.7,42.7 L247.7,42.7 Z M270.8,35.2 C269.7,30.5 265,26.4 259.3,26.4 C254,26.4 249.1,30 247.7,35.2 L270.8,35.2 L270.8,35.2 Z"></path>
+                            <path d="M293.1,42.7 C294.2,47.4 298.5,51.5 305.5,51.5 C309.1,51.5 313.9,49.7 316.2,47.4 L322.5,53.6 C318.3,57.9 311.4,60 305.4,60 C293,60 284,51.8 284,39.1 C284,27.1 293.3,18.3 304.7,18.3 C316.7,18.3 326.7,26.5 325.7,42.7 L293.1,42.7 L293.1,42.7 Z M316.3,35.2 C315.2,30.5 310.5,26.4 304.8,26.4 C299.5,26.4 294.6,30 293.2,35.2 L316.3,35.2 L316.3,35.2 Z"></path>
+                            <path d="M349.4,60.1 C353.9,60.1 359.2,58.2 362.3,53.8 L362.6,59.1 L372.1,59.1 L372.1,1.8 L362.3,1.8 L362.3,24 C359.5,19.7 353.3,18.4 349.1,18.4 C336.4,18.4 329.1,27.8 329.1,39.4 C329.1,51 337.2,60.1 349.4,60.1 L349.4,60.1 Z M350.1,26.8 C356.8,26.8 361.3,32.9 361.3,39.1 C361.3,45.3 357.1,51.9 350.1,51.9 C343,51.9 338.9,45.2 338.9,39.1 C338.9,32.9 343.4,26.8 350.1,26.8 L350.1,26.8 Z"></path>
+                        </g>
+                    </svg>
+                </a>
+
+                <nav class="main-navigation" role="navigation">
+                <div class="navigation-primary-menu"><ul id="menu-navigation-primary" class="menu"><li id="menu-item-30869" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30869"><a href="https://www.lightspeedhq.com/why-lightspeed/"><span class="navigation-primary-arrow arrow-before"></span>Why Lightspeed<span class="navigation-primary-arrow arrow-after"></span></a></li>
+<li id="menu-item-31458" class="products-dropdown menu-item menu-item-type-post_type menu-item-object-page menu-item-31458"><a href="https://www.lightspeedhq.com/products/"><span class="navigation-primary-arrow arrow-before"></span>Products<span class="navigation-primary-arrow arrow-after"></span></a></li>
+<li id="menu-item-27841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27841"><a href="https://www.lightspeedhq.com/customers/"><span class="navigation-primary-arrow arrow-before"></span>Customers<span class="navigation-primary-arrow arrow-after"></span></a></li>
+<li id="menu-item-30878" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30878"><a href="//resellers.lightspeedhq.com"><span class="navigation-primary-arrow arrow-before"></span>Resellers<span class="navigation-primary-arrow arrow-after"></span></a></li>
+<li id="menu-item-27844" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27844"><a href="https://www.lightspeedhq.com/blog/"><span class="navigation-primary-arrow arrow-before"></span>Blog<span class="navigation-primary-arrow arrow-after"></span></a></li>
+<li id="menu-item-29676" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29676"><a href="https://www.lightspeedhq.com/resources/"><span class="navigation-primary-arrow arrow-before"></span>Resources<span class="navigation-primary-arrow arrow-after"></span></a></li>
+<li id="menu-item-31460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31460"><a href="https://www.lightspeedhq.com/support/"><span class="navigation-primary-arrow arrow-before"></span>Support<span class="navigation-primary-arrow arrow-after"></span></a></li>
+</ul></div>                </nav>
+            </div>
+        </div>
+
+        <!-- Navigation: Product Drawer -->
+        <div class="navigation-product-drawer">
+            <div class="container">
+                <ul>
+    <li class="drawer-item retail-drawer">
+        <a href="https://www.lightspeedhq.com/products/retail" title="Retail">
+            <div class="two columns">
+                <div class="drawer-item-icon icon-retail">
+                    <svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" width="50" height="42.969" viewBox="0 0 50 42.969">
+                        <path d="M49.330,30.601 L38.762,33.529 L38.762,40.077 C38.762,40.346 38.642,40.603 38.432,40.777 C34.976,43.661 15.862,43.783 12.332,40.777 C12.122,40.604 12.002,40.347 12.002,40.077 L12.002,22.457 L7.100,38.880 C6.964,39.337 6.496,39.616 6.022,39.521 L0.735,38.480 C0.285,38.391 -0.032,37.993 -0.014,37.541 C0.023,36.707 0.958,16.973 9.261,3.941 C9.390,3.738 9.598,3.592 9.836,3.537 L20.459,1.057 C21.709,0.014 23.766,0.007 25.430,0.007 C27.111,0.007 29.191,0.015 30.437,1.088 L40.929,3.537 C41.167,3.592 41.374,3.738 41.505,3.941 C46.455,11.712 48.800,21.950 49.900,29.286 C49.931,29.344 49.957,29.404 49.976,29.469 C50.114,29.957 49.825,30.465 49.330,30.601 ZM1.897,36.835 L5.551,37.555 L5.978,36.127 L2.012,35.403 C1.959,35.988 1.922,36.472 1.897,36.835 ZM19.372,3.198 L17.881,3.547 C17.580,8.508 20.879,11.361 22.367,12.386 L24.227,9.752 C21.439,9.199 19.333,6.769 19.333,3.862 C19.333,3.627 19.347,3.407 19.372,3.198 ZM25.430,8.034 C27.024,8.034 28.415,7.160 29.137,5.874 C28.337,5.500 27.039,5.171 25.316,5.171 C23.926,5.171 22.616,5.399 21.680,5.791 C22.388,7.122 23.802,8.034 25.430,8.034 ZM29.407,2.721 C29.195,2.637 29.030,2.481 28.930,2.290 C28.316,1.951 27.243,1.844 25.430,1.844 C23.466,1.844 22.368,1.968 21.785,2.378 C21.713,2.486 21.616,2.576 21.504,2.647 C21.280,2.942 21.198,3.336 21.198,3.861 C21.198,3.908 21.202,3.954 21.204,4.001 C22.344,3.574 23.784,3.334 25.316,3.334 C26.946,3.334 28.484,3.608 29.652,4.087 C29.657,4.012 29.664,3.938 29.664,3.862 C29.664,3.379 29.592,3.009 29.407,2.721 ZM31.492,3.221 C31.514,3.422 31.529,3.635 31.529,3.861 C31.529,6.584 29.679,8.887 27.153,9.621 L29.104,12.386 C30.574,11.374 33.810,8.571 33.595,3.712 L31.492,3.221 ZM40.124,5.236 L35.474,4.151 C35.496,11.103 29.546,14.302 29.283,14.441 C29.144,14.513 28.994,14.547 28.847,14.547 C28.550,14.547 28.261,14.408 28.081,14.153 L25.735,10.830 L23.389,14.153 C23.210,14.408 22.921,14.547 22.624,14.547 C22.476,14.547 22.326,14.513 22.186,14.441 C21.922,14.301 15.877,11.052 15.996,3.987 L10.640,5.236 C4.954,14.379 2.900,27.136 2.194,33.568 L6.507,34.355 L12.040,15.821 C12.171,15.382 12.608,15.107 13.067,15.171 C13.525,15.235 13.866,15.623 13.866,16.080 L13.866,39.629 C17.068,41.881 33.697,41.881 36.899,39.629 L36.898,39.629 L36.898,34.043 L31.546,35.525 C31.461,35.550 31.377,35.561 31.293,35.561 C30.887,35.561 30.514,35.297 30.397,34.892 L28.763,29.210 C28.629,28.745 28.883,28.258 29.345,28.094 L36.898,25.437 L36.898,16.079 C36.898,15.622 37.238,15.235 37.697,15.170 C38.155,15.107 38.593,15.382 38.724,15.820 L41.148,23.942 L46.615,22.018 C45.298,16.402 43.265,10.286 40.124,5.236 ZM33.627,33.042 L32.562,28.914 L30.794,29.537 L31.938,33.511 L33.627,33.042 ZM38.705,21.178 L38.763,24.781 L39.391,24.561 L38.705,21.178 ZM47.020,23.827 L34.325,28.294 L35.424,32.545 L47.980,29.068 C47.727,27.435 47.412,25.671 47.020,23.827 ZM25.700,33.376 C25.250,33.376 24.885,33.016 24.885,32.572 C24.885,32.127 25.250,31.768 25.700,31.768 C26.151,31.768 26.516,32.127 26.516,32.572 C26.516,33.016 26.151,33.376 25.700,33.376 ZM25.700,26.084 C25.250,26.084 24.885,25.723 24.885,25.280 C24.885,24.835 25.250,24.475 25.700,24.475 C26.151,24.475 26.516,24.835 26.516,25.280 C26.516,25.723 26.151,26.084 25.700,26.084 ZM25.700,18.790 C25.250,18.790 24.885,18.430 24.885,17.986 C24.885,17.542 25.250,17.182 25.700,17.182 C26.151,17.182 26.516,17.542 26.516,17.986 C26.516,18.430 26.151,18.790 25.700,18.790 Z" class="cls-1"></path>
+                    </svg>
+                </div>
+            </div>
+            <div class="ten columns">
+                <div class="drawer-item-details">
+                    <h3>Retail</h3>
+                    <p class="p-secondary">Grow your retail store and offer the ultimate customer experience.</p>
+                </div>
+            </div>
+        </a>
+    </li>
+    <li class="drawer-item restaurant-drawer">
+        <a href="https://www.lightspeedhq.com/products/restaurant" title="Restaurant">
+            <div class="two columns text-center">
+                <div class="drawer-item-icon icon-restaurant">
+                    <svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" width="50" height="38.969" viewBox="0 0 50 38.969">
+                        <path d="M48.714,38.968 C48.007,38.968 47.434,38.567 47.434,38.071 L47.434,21.928 C47.434,16.846 46.362,18.852 45.300,16.248 C44.447,14.156 45.300,3.095 47.861,0.704 C48.947,-0.311 49.994,-0.193 49.994,0.704 C49.994,1.532 49.994,16.100 49.994,18.341 L49.994,18.640 L49.994,38.071 C49.994,38.567 49.421,38.968 48.714,38.968 ZM25.274,36.444 C15.899,36.444 8.299,28.856 8.299,19.496 C8.299,10.136 15.899,2.548 25.274,2.548 C34.648,2.548 42.249,10.136 42.249,19.496 C42.249,28.856 34.648,36.444 25.274,36.444 ZM25.274,4.683 C17.081,4.683 10.438,11.315 10.438,19.496 C10.438,27.677 17.081,34.309 25.274,34.309 C33.467,34.309 40.110,27.677 40.110,19.496 C40.110,11.315 33.467,4.683 25.274,4.683 ZM25.274,31.078 C18.868,31.078 13.674,25.891 13.674,19.496 C13.674,13.100 18.868,7.914 25.274,7.914 C31.680,7.914 36.874,13.100 36.874,19.496 C36.874,25.891 31.680,31.078 25.274,31.078 ZM25.274,9.374 C19.675,9.374 15.136,13.906 15.136,19.496 C15.136,25.085 19.675,29.618 25.274,29.618 C30.873,29.618 35.412,25.085 35.412,19.496 C35.412,13.906 30.873,9.374 25.274,9.374 ZM4.255,23.424 L4.255,38.048 C4.255,38.556 3.681,38.969 2.975,38.969 C2.267,38.969 1.694,38.556 1.694,38.048 L1.694,23.424 L1.694,15.268 C1.694,13.681 -0.012,13.681 -0.012,10.942 L-0.012,9.808 L-0.012,1.497 L-0.012,1.341 C-0.012,0.593 0.179,-0.013 0.414,-0.013 C0.650,-0.013 0.841,0.593 0.841,1.341 L0.841,1.497 L0.841,5.511 L0.841,6.149 L0.841,8.771 C0.841,8.935 1.032,9.068 1.267,9.068 C1.503,9.068 1.694,8.935 1.694,8.771 L1.694,6.149 L1.694,5.511 L1.694,1.497 L1.694,1.341 C1.694,0.593 1.885,-0.013 2.121,-0.013 C2.356,-0.013 2.548,0.593 2.548,1.341 L2.548,1.497 L2.548,5.511 L2.548,6.149 L2.548,8.771 C2.548,8.935 2.738,9.068 2.975,9.068 C3.210,9.068 3.401,8.935 3.401,8.771 L3.401,6.149 L3.401,5.511 L3.401,1.497 L3.401,1.341 C3.401,0.593 3.592,-0.013 3.828,-0.013 C4.063,-0.013 4.255,0.593 4.255,1.341 L4.255,1.497 L4.255,5.511 L4.255,6.149 L4.255,8.771 C4.255,8.935 4.445,9.068 4.682,9.068 C4.916,9.068 5.108,8.935 5.108,8.771 L5.108,6.149 L5.108,5.511 L5.108,1.497 L5.108,1.341 C5.108,0.593 5.300,-0.013 5.535,-0.013 C5.770,-0.013 5.962,0.593 5.962,1.341 L5.962,1.497 L5.962,9.808 L5.962,10.941 C5.962,13.680 4.255,13.680 4.255,15.267 L4.255,23.424 Z" class="cls-1"></path>
+                    </svg>
+                </div>
+            </div>
+            <div class="ten columns">
+                <div class="drawer-item-details">
+                    <h3>Restaurant</h3>
+                    <p class="p-secondary">Helps you manage your restaurant, so you can focus on your passion.</p>
+                </div>
+            </div>
+        </a>
+    </li>
+    </ul>
+            </div>
+        </div>
+
+                
+
+
+        <!-- Navigation: Mobile -->
+        <div class="navigation-mobile">
+            <!-- Navigation Mobile: Top -->
+            <div class="navigation-mobile-top">
+                <div class="navigation-icon" id="js-mobile-navigation">
+                    <span></span><span></span><span></span>
+                </div>
+                <div class="navigation-mobile-logo">
+                    <a href="https://www.lightspeedhq.com/" rel="home" title="Lightspeed POS">
+                        <svg class="logo-mobile" preserveAspectRatio="xMinYMin" viewBox="0 0 75 35" xmlns="http://www.w3.org/2000/svg">
+                            <path class="logo-flame" d="M36.9,0.9 L41.9,9.6 C42.9,11.4 42.9,13.6 41.9,15.4 L12.1,67.1 L26.2,91.5 C28.4,95.3 32.5,97.7 36.9,97.7 C41.3,97.7 45.4,95.3 47.6,91.5 L61.7,67.1 L58,60.5 L42,88.2 C41,90 39,91.1 37,91.1 C34.9,91.1 33,90 32,88.2 L19.7,67.1 L47.4,19.1 L52.4,27.8 C53.4,29.6 53.4,31.8 52.4,33.6 L33.1,67.1 L36.9,73.7 L57.9,37.3 L71.7,61.2 C73.8,64.9 73.8,69.4 71.7,73.1 L57.7,97.4 C55.6,101.1 48.9,109.4 36.9,109.4 C24.9,109.4 18.3,101.1 16.1,97.4 L2.1,73.1 C-8.43769499e-15,69.4 -8.43769499e-15,64.9 2.1,61.2 L36.9,0.9"></path>
+                        </svg>
+                    </a>
+                </div>
+                <div class="navigation-mobile-back" id="js-mobile-back">
+                    <span class="navigation-mobile-arrow arrow-before"></span>
+                    <span class="navigation-mobile-arrow arrow-after"></span>
+                    <span class="navigation-mobile-back-title">Back</span>
+                </div>
+            </div>
+
+            <!-- Navigation Mobile: Primary -->
+            <nav class="navigation-mobile-primary">
+                <div class="navigation-mobile-menu"><ul id="menu-navigation-mobile" class="menu"><li id="menu-item-31463" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31463"><a href="https://www.lightspeedhq.com/why-lightspeed/"><span class="navigation-mobile-arrow arrow-before"></span>Why Lightspeed<span class="navigation-mobile-arrow arrow-after"></span></a></li>
+<li id="menu-item-28796" class="products-drawer menu-item menu-item-type-custom menu-item-object-custom menu-item-28796"><a href="#"><span class="navigation-mobile-arrow arrow-before"></span>Products<span class="navigation-mobile-arrow arrow-after"></span></a></li>
+<li id="menu-item-28797" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28797"><a href="https://www.lightspeedhq.com/customers/"><span class="navigation-mobile-arrow arrow-before"></span>Customers<span class="navigation-mobile-arrow arrow-after"></span></a></li>
+<li id="menu-item-30880" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30880"><a href="http://resellers.lightspeedhq.com"><span class="navigation-mobile-arrow arrow-before"></span>Resellers<span class="navigation-mobile-arrow arrow-after"></span></a></li>
+<li id="menu-item-28799" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28799"><a href="https://www.lightspeedhq.com/blog/"><span class="navigation-mobile-arrow arrow-before"></span>Blog<span class="navigation-mobile-arrow arrow-after"></span></a></li>
+<li id="menu-item-28801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28801"><a href="https://www.lightspeedhq.com/resources/"><span class="navigation-mobile-arrow arrow-before"></span>Resources<span class="navigation-mobile-arrow arrow-after"></span></a></li>
+<li id="menu-item-31464" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31464"><a href="https://www.lightspeedhq.com/support/"><span class="navigation-mobile-arrow arrow-before"></span>Support<span class="navigation-mobile-arrow arrow-after"></span></a></li>
+</ul></div><div class="navigation-mobile-super-menu"><ul id="menu-navigation-super-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27831"><a href="tel:+18669321801">866-932-1801</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31477"><a href="https://www.lightspeedhq.com/contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27898"><a href="https://www.lightspeedhq.com/about/">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29678"><a href="https://www.lightspeedhq.com/login/">Login</a></li>
+<li class="local-flag flag-ca menu-item menu-item-type-custom menu-item-object-custom menu-item-27915"><a title="Canada (English)" href="#">CA (EN)</a></li>
+</ul></div>            </nav>
+
+            <!-- Navigation Mobile: Product drawer -->
+            <div class="navigation-mobile-product-drawer">
+                <div class="navigation-mobile-products">
+                    <ul>
+    <li class="drawer-item retail-drawer">
+        <a href="https://www.lightspeedhq.com/products/retail" title="Retail">
+            <div class="two columns">
+                <div class="drawer-item-icon icon-retail">
+                    <svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" width="50" height="42.969" viewBox="0 0 50 42.969">
+                        <path d="M49.330,30.601 L38.762,33.529 L38.762,40.077 C38.762,40.346 38.642,40.603 38.432,40.777 C34.976,43.661 15.862,43.783 12.332,40.777 C12.122,40.604 12.002,40.347 12.002,40.077 L12.002,22.457 L7.100,38.880 C6.964,39.337 6.496,39.616 6.022,39.521 L0.735,38.480 C0.285,38.391 -0.032,37.993 -0.014,37.541 C0.023,36.707 0.958,16.973 9.261,3.941 C9.390,3.738 9.598,3.592 9.836,3.537 L20.459,1.057 C21.709,0.014 23.766,0.007 25.430,0.007 C27.111,0.007 29.191,0.015 30.437,1.088 L40.929,3.537 C41.167,3.592 41.374,3.738 41.505,3.941 C46.455,11.712 48.800,21.950 49.900,29.286 C49.931,29.344 49.957,29.404 49.976,29.469 C50.114,29.957 49.825,30.465 49.330,30.601 ZM1.897,36.835 L5.551,37.555 L5.978,36.127 L2.012,35.403 C1.959,35.988 1.922,36.472 1.897,36.835 ZM19.372,3.198 L17.881,3.547 C17.580,8.508 20.879,11.361 22.367,12.386 L24.227,9.752 C21.439,9.199 19.333,6.769 19.333,3.862 C19.333,3.627 19.347,3.407 19.372,3.198 ZM25.430,8.034 C27.024,8.034 28.415,7.160 29.137,5.874 C28.337,5.500 27.039,5.171 25.316,5.171 C23.926,5.171 22.616,5.399 21.680,5.791 C22.388,7.122 23.802,8.034 25.430,8.034 ZM29.407,2.721 C29.195,2.637 29.030,2.481 28.930,2.290 C28.316,1.951 27.243,1.844 25.430,1.844 C23.466,1.844 22.368,1.968 21.785,2.378 C21.713,2.486 21.616,2.576 21.504,2.647 C21.280,2.942 21.198,3.336 21.198,3.861 C21.198,3.908 21.202,3.954 21.204,4.001 C22.344,3.574 23.784,3.334 25.316,3.334 C26.946,3.334 28.484,3.608 29.652,4.087 C29.657,4.012 29.664,3.938 29.664,3.862 C29.664,3.379 29.592,3.009 29.407,2.721 ZM31.492,3.221 C31.514,3.422 31.529,3.635 31.529,3.861 C31.529,6.584 29.679,8.887 27.153,9.621 L29.104,12.386 C30.574,11.374 33.810,8.571 33.595,3.712 L31.492,3.221 ZM40.124,5.236 L35.474,4.151 C35.496,11.103 29.546,14.302 29.283,14.441 C29.144,14.513 28.994,14.547 28.847,14.547 C28.550,14.547 28.261,14.408 28.081,14.153 L25.735,10.830 L23.389,14.153 C23.210,14.408 22.921,14.547 22.624,14.547 C22.476,14.547 22.326,14.513 22.186,14.441 C21.922,14.301 15.877,11.052 15.996,3.987 L10.640,5.236 C4.954,14.379 2.900,27.136 2.194,33.568 L6.507,34.355 L12.040,15.821 C12.171,15.382 12.608,15.107 13.067,15.171 C13.525,15.235 13.866,15.623 13.866,16.080 L13.866,39.629 C17.068,41.881 33.697,41.881 36.899,39.629 L36.898,39.629 L36.898,34.043 L31.546,35.525 C31.461,35.550 31.377,35.561 31.293,35.561 C30.887,35.561 30.514,35.297 30.397,34.892 L28.763,29.210 C28.629,28.745 28.883,28.258 29.345,28.094 L36.898,25.437 L36.898,16.079 C36.898,15.622 37.238,15.235 37.697,15.170 C38.155,15.107 38.593,15.382 38.724,15.820 L41.148,23.942 L46.615,22.018 C45.298,16.402 43.265,10.286 40.124,5.236 ZM33.627,33.042 L32.562,28.914 L30.794,29.537 L31.938,33.511 L33.627,33.042 ZM38.705,21.178 L38.763,24.781 L39.391,24.561 L38.705,21.178 ZM47.020,23.827 L34.325,28.294 L35.424,32.545 L47.980,29.068 C47.727,27.435 47.412,25.671 47.020,23.827 ZM25.700,33.376 C25.250,33.376 24.885,33.016 24.885,32.572 C24.885,32.127 25.250,31.768 25.700,31.768 C26.151,31.768 26.516,32.127 26.516,32.572 C26.516,33.016 26.151,33.376 25.700,33.376 ZM25.700,26.084 C25.250,26.084 24.885,25.723 24.885,25.280 C24.885,24.835 25.250,24.475 25.700,24.475 C26.151,24.475 26.516,24.835 26.516,25.280 C26.516,25.723 26.151,26.084 25.700,26.084 ZM25.700,18.790 C25.250,18.790 24.885,18.430 24.885,17.986 C24.885,17.542 25.250,17.182 25.700,17.182 C26.151,17.182 26.516,17.542 26.516,17.986 C26.516,18.430 26.151,18.790 25.700,18.790 Z" class="cls-1"></path>
+                    </svg>
+                </div>
+            </div>
+            <div class="ten columns">
+                <div class="drawer-item-details">
+                    <h3>Retail</h3>
+                    <p class="p-secondary">Grow your retail store and offer the ultimate customer experience.</p>
+                </div>
+            </div>
+        </a>
+    </li>
+    <li class="drawer-item restaurant-drawer">
+        <a href="https://www.lightspeedhq.com/products/restaurant" title="Restaurant">
+            <div class="two columns text-center">
+                <div class="drawer-item-icon icon-restaurant">
+                    <svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" width="50" height="38.969" viewBox="0 0 50 38.969">
+                        <path d="M48.714,38.968 C48.007,38.968 47.434,38.567 47.434,38.071 L47.434,21.928 C47.434,16.846 46.362,18.852 45.300,16.248 C44.447,14.156 45.300,3.095 47.861,0.704 C48.947,-0.311 49.994,-0.193 49.994,0.704 C49.994,1.532 49.994,16.100 49.994,18.341 L49.994,18.640 L49.994,38.071 C49.994,38.567 49.421,38.968 48.714,38.968 ZM25.274,36.444 C15.899,36.444 8.299,28.856 8.299,19.496 C8.299,10.136 15.899,2.548 25.274,2.548 C34.648,2.548 42.249,10.136 42.249,19.496 C42.249,28.856 34.648,36.444 25.274,36.444 ZM25.274,4.683 C17.081,4.683 10.438,11.315 10.438,19.496 C10.438,27.677 17.081,34.309 25.274,34.309 C33.467,34.309 40.110,27.677 40.110,19.496 C40.110,11.315 33.467,4.683 25.274,4.683 ZM25.274,31.078 C18.868,31.078 13.674,25.891 13.674,19.496 C13.674,13.100 18.868,7.914 25.274,7.914 C31.680,7.914 36.874,13.100 36.874,19.496 C36.874,25.891 31.680,31.078 25.274,31.078 ZM25.274,9.374 C19.675,9.374 15.136,13.906 15.136,19.496 C15.136,25.085 19.675,29.618 25.274,29.618 C30.873,29.618 35.412,25.085 35.412,19.496 C35.412,13.906 30.873,9.374 25.274,9.374 ZM4.255,23.424 L4.255,38.048 C4.255,38.556 3.681,38.969 2.975,38.969 C2.267,38.969 1.694,38.556 1.694,38.048 L1.694,23.424 L1.694,15.268 C1.694,13.681 -0.012,13.681 -0.012,10.942 L-0.012,9.808 L-0.012,1.497 L-0.012,1.341 C-0.012,0.593 0.179,-0.013 0.414,-0.013 C0.650,-0.013 0.841,0.593 0.841,1.341 L0.841,1.497 L0.841,5.511 L0.841,6.149 L0.841,8.771 C0.841,8.935 1.032,9.068 1.267,9.068 C1.503,9.068 1.694,8.935 1.694,8.771 L1.694,6.149 L1.694,5.511 L1.694,1.497 L1.694,1.341 C1.694,0.593 1.885,-0.013 2.121,-0.013 C2.356,-0.013 2.548,0.593 2.548,1.341 L2.548,1.497 L2.548,5.511 L2.548,6.149 L2.548,8.771 C2.548,8.935 2.738,9.068 2.975,9.068 C3.210,9.068 3.401,8.935 3.401,8.771 L3.401,6.149 L3.401,5.511 L3.401,1.497 L3.401,1.341 C3.401,0.593 3.592,-0.013 3.828,-0.013 C4.063,-0.013 4.255,0.593 4.255,1.341 L4.255,1.497 L4.255,5.511 L4.255,6.149 L4.255,8.771 C4.255,8.935 4.445,9.068 4.682,9.068 C4.916,9.068 5.108,8.935 5.108,8.771 L5.108,6.149 L5.108,5.511 L5.108,1.497 L5.108,1.341 C5.108,0.593 5.300,-0.013 5.535,-0.013 C5.770,-0.013 5.962,0.593 5.962,1.341 L5.962,1.497 L5.962,9.808 L5.962,10.941 C5.962,13.680 4.255,13.680 4.255,15.267 L4.255,23.424 Z" class="cls-1"></path>
+                    </svg>
+                </div>
+            </div>
+            <div class="ten columns">
+                <div class="drawer-item-details">
+                    <h3>Restaurant</h3>
+                    <p class="p-secondary">Helps you manage your restaurant, so you can focus on your passion.</p>
+                </div>
+            </div>
+        </a>
+    </li>
+    </ul>
+                </div>
+                <div class="navigation-mobile-secondary mobile-retail"><div class="menu-navigation-secondary-retail-container"><ul id="menu-navigation-secondary-retail" class="menu"><li id="menu-item-29814" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29814"><a href="https://www.lightspeedhq.com/products/retail/pricing/">Pricing</a></li>
+<li id="menu-item-30866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30866"><a href="https://www.lightspeedhq.com/products/retail/features/">Features</a></li>
+<li id="menu-item-29817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29817"><a href="https://www.lightspeedhq.com/products/retail/hardware/">Hardware</a></li>
+<li id="menu-item-31871" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31871"><a href="https://www.lightspeedhq.com/products/retail/reporting/">Reporting</a></li>
+<li id="menu-item-29747" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29747"><a href="https://www.lightspeedhq.com/integrations/">Integrations</a></li>
+</ul></div><a class="button primary" href="https://www.lightspeedhq.com/products/retail/register-for-a-free-trial/" title="Start your free trial">Start your free trial</a></div><div class="navigation-mobile-secondary mobile-restaurant"><div class="menu-navigation-secondary-restaurant-container"><ul id="menu-navigation-secondary-restaurant" class="menu"><li id="menu-item-29812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29812"><a href="https://www.lightspeedhq.com/products/restaurant/pricing/">Pricing</a></li>
+<li id="menu-item-30867" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30867"><a href="https://www.lightspeedhq.com/products/restaurant/features/">Features</a></li>
+<li id="menu-item-29818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29818"><a href="https://www.lightspeedhq.com/products/restaurant/hardware/">Hardware</a></li>
+<li id="menu-item-29746" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29746"><a href="https://www.lightspeedhq.com/integrations/">Integrations</a></li>
+</ul></div><a class="button primary" href="https://www.lightspeedhq.com/products/restaurant/register-for-a-free-trial/" title="Start your free trial">Start your free trial</a></div><div class="navigation-mobile-secondary mobile-onsite"><div class="menu-navigation-secondary-onsite-secondary-menu-onsite-container"><ul id="menu-navigation-secondary-onsite-secondary-menu-onsite" class="menu"><li id="menu-item-31888" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31888"><a href="https://www.lightspeedhq.com/products/onsite/pricing/">Pricing</a></li>
+<li id="menu-item-31892" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31892"><a href="https://www.lightspeedhq.com/products/onsite/features/">Features</a></li>
+<li id="menu-item-31895" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31895"><a href="https://www.lightspeedhq.com/products/onsite/hardware/">Hardware</a></li>
+<li id="menu-item-31898" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31898"><a href="https://www.lightspeedhq.com/products/onsite/reporting/">Reporting</a></li>
+<li id="menu-item-31900" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31900"><a href="https://www.lightspeedhq.com/integrations/">Integrations</a></li>
+</ul></div><a class="button primary" href="https://www.lightspeedhq.com/products/onsite/register-for-a-free-trial/" title="Start your free trial">Start your free trial</a></div>            </div>
+        </div>
+    </header>
+
+    <div id="content-wrapper">
+        <div id="content" class="site-content">
+
+
+
+      <div class="full-width-module full  white-bg-color full-width-spacing-hero-equal full-width-default" style="background-image:url('')">
+    <div class="container">
+      <div class="row">
+        
+        <div class="content-wrapper columns left eight">
+                      <hr>
+          
+                      <h1 class="dark h1">Lightspeed Privacy Policy</h1>
+          
+                      <p class="dark p">
+            Welcome!  Protecting your privacy is really important to us.  Accordingly, we at Lightspeed POS Inc. (“Lightspeed” or “we” or “us” or “our”) are providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use or visit our websites, or use our products or services (collectively, the “Services”).  This Privacy Policy applies only to those websites, services and applications included within “Services” and does not apply to any third-party websites, services or applications, even if they are accessible through our Services.  Your linking to a third-party website, service or application is entirely at your own risk and subject to the terms and conditions of such website, service or application.<br>
+<br>
+To Whom Does this Privacy Policy Apply?<br>
+<br>
+This Privacy Policy applies to everyone who uses our Services, but sometimes we direct parts of it toward particular groups of users.  When we do, we use the following special terminology to refer to them:<br>
+<br>
+“User” means anyone who uses our Services.<br>
+<br>
+“Subscriber” means anyone who purchases or subscribes to one or more Lightspeed Services.<br>
+<br>
+What Information Do We Collect?<br>
+<br>
+ <br>
+We Collect Some Information From All Users: As part of our Services, we use various technologies such as “session” and “persistent” cookies (small data files that we transfer to your computer), web beacons (tiny image files on web pages that communicate information about the page viewer to the beacon owner), log data, and third-party analytics services to collect and analyze information about Users.  This includes things like Users’ search preferences, saved searches, aspects of their use of the Services, and location.<br>
+<br>
+ <br>
+We use “session” cookies to keep you logged in while you use our Services, to better understand how you interact with our Services, and to monitor aggregate usage and web traffic information on our Services.  We use “persistent” cookies to recognize you each time you return to our Services.  For example, we create a persistent cookie that includes some basic information about you, like your most recent search.  We use this persistent cookie to remember your preferences and, if you create an account, to make your user experience consistent after you register.<br>
+<br>
+Our servers automatically record information (“Log Data”) created by your use of the Services. Log Data may include information such as your IP address, browser type, operating system, the referring web page, web pages visited, location, your mobile carrier, your computer or mobile device type, search terms and cookie information.  We receive Log Data when you interact with our Services, for example, when you visit our websites, sign into our Services, or interact with our email notifications.<br>
+<br>
+Most Internet browsers automatically accept cookies, but you can change your settings or use third-party tools to refuse cookies or prompt you before accepting cookies from the websites you visit. You can also use your browser settings or other tools to delete cookies you already have.  Please be aware that some parts of our Services may not work for you if you disable cookies.<br>
+<br>
+Consent: If you contact us through one of our websites, we ask you to provide certain personally identifiable information like your name, email address, or work street address and telephone number (“Personal Information”). Your provision of Personal Information means you agree and consent that we may collect, use and disclose your Personal Information under this Privacy Policy. Consent may be given expressly, by signing a document, agreeing through electronic means or verbally, or impliedly by providing Personal Information voluntarily. Certain Services can only be offered if you provide Personal Information to us, and if you choose not to provide us with such required Personal Information, we may not be able to offer you our Services.<br>
+<br>
+Information We Collect from Users with Lightspeed Accounts:  Some of our Services require you to register and set up an account with us.  When you create an account, we ask you to provide us with certain Personal Information.<br>
+<br>
+Information We Collect from Subscribers: If you become a Subscriber, we will ask you to provide certain information in order to set up your account. We ask all Subscribers who set up accounts to provide their name, their employer (if applicable), a phone number and an email address. We will also collect financial data like credit card information and billing addresses from Subscribers, so that we can handle billing. If you are a Subscriber, a Lightspeed representative may call you to verify your information.<br>
+<br>
+For Canadian Users and Subscribers: When you voluntarily and expressly provide us with Personal Information an existing business relationship is created under Canada’s Anti-Spam Law (CASL).  We may use your Personal Information to provide you with information that is relevant to you or your business, such as newsletters, event invitations, or updates about Services. In some cases, we may collect, use or disclose Personal Information without your consent or knowledge. For example, we may use your Personal Information where it’s been conspicuously published on a website or directory. While we offer you some control over marketing communications, certain transactional, relationship and legally required communications will not be affected by the choices you have made about marketing communications.  You have the right to revoke your consent to the collection, use and disclosure of your Personal Information and to unsubscribe to electronic communications at any time (as more fully set out below).<br>
+<br>
+ <br>
+Electronic Messages to Canadians: Our Services allow you to collect and use the Personal Information of your customers, through communications or transactions facilitated by Lightspeed.  You may not use Services to send your Canadian-based customers commercial electronic messages without first obtaining their express consent.<br>
+<br>
+ <br>
+Additional Information About You that We Obtain from Third Parties: We may sometimes obtain Personal Information about you from third parties (e.g., Facebook, Twitter, Google) and use it to re-market our Services or provide a more tailored experience with our Services.<br>
+<br>
+Location Data: If you provide location information during the registration process or at any other time via your account settings, we will store that information and associate it with your account.  In some cases we may collect and store information about where you are located, such as by converting your IP address into a rough geolocation. If you use mobile Services, we may collect location data directly from your mobile device automatically if your device allows us to do so.  In some circumstances, you may have to opt into sharing your location data with us.  Additionally, your mobile device may provide you with choices about how and whether location data is shared with us.<br>
+<br>
+Why We Collect Information from You<br>
+<br>
+Lightspeed provides a variety of products and services focused on the retail industry.  We use information we collect through the Services to:<br>
+<br>
+Respond to your questions or requests for additional information;<br>
+<br>
+• Provide you with quotes that you have specifically requested or communications you have indicated you wish to receive (e.g., e-newsletters, reminders of subscription expiration dates);<br>
+<br>
+• Provide and improve our Services to you;<br>
+<br>
+Manage our customer relationship with you and to provide you with customer support;<br>
+<br>
+Process payments to us;<br>
+<br>
+Research and analyze your use of or interest in our Services and those products and services offered by others;<br>
+<br>
+Help you find the most relevant information for your situation by customizing our Services to optimize your experience;<br>
+<br>
+Analyze the effectiveness of our Services;<br>
+<br>
+Communicate with you via email, telephone, mobile, text (SMS), postal services, social media and websites and update you with Lightspeed related news and information or to tell you about products or services that may be of interest to you, if you allow us to do so;<br>
+<br>
+Verify your eligibility and deliver prizes in connection with promotions, contests and sweepstakes;<br>
+<br>
+Perform the functions described to you at the time of collection.<br>
+<br>
+ <br>
+How We Share Your Information<br>
+<br>
+Personal Information:  We may engage third-party service providers to work with us to administer, provide and improve the Services, and these third-party service providers have access to Users’ Personal Information only to perform these services for us.  Otherwise, we will only share your Personal Information at your direction and according to this Privacy Policy.<br>
+<br>
+Non-Personally Identifiable Information:  In order to provide and improve our Services, we may use and disclose to our service providers and analytics partners non-personally identifiable information that we collect, including cookie data and Log Data.  We retain the right to use, at our reasonable discretion, any information, in any form, about more than one individual where the identity of the individuals is not known and cannot be inferred.<br>
+<br>
+Social Network Sharing: When you use any social network sharing function we include with the Services (for example, sharing on Facebook), your sharing activity will be processed through a third party’s site or service. These third parties’ privacy policies, not ours, govern the collection and use of the information collected on those sites or networks, including Personal Information.<br>
+<br>
+User-Generated Content (UGC):  Some parts of our Services allow Users to submit and view UGC.  UGC includes such things as posting a question, an answer or a blog post.  When you post UGC, other Users will be able to see certain information about you, such as your username or handle.  You should be aware that any Personal Information you submit in UGC provided by you can be read, collected, distributed or used by other Users and could be used by third parties to send you unsolicited messages.  We are not responsible for the Personal Information you choose to include in the UGC you provide through the Services.<br>
+<br>
+Protecting Ourselves and Our Users: We may release Personal Information when we believe that doing so is appropriate to comply with applicable laws, regulations or legal requests; to enforce or apply our policies and guidelines; to initiate, render, bill, and collect amounts owed to us; to protect our rights or property; to protect the safety of our Users; to address fraud, security or technical issues; to prevent or stop activity that we consider to be illegal or unethical; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay<br>
+<br>
+General Matters<br>
+<br>
+Unsubscribing to Lightspeed Communications:  You may unsubscribe at any time from receiving non-Service related communications from Lightspeed through your account settings or through the instructions included in the communication.  You can also contact us at hi@lightspeedpos.com.<br>
+<br>
+Accessing, Modifying and Deleting Your Personally Information: You have the right to access your Personal Information at any time and modify it or delete it. We will take steps to delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records or as otherwise required by law. If you wish to access, verify and/or modify your Personal Information, please send us a written notice in this regard to the email address indicated at the end of this Privacy Policy.<br>
+<br>
+Data Location:  Your data may be stored on servers located in a country other than where you reside. Personal Information is always subject to the local laws of the jurisdictions within which it is collected, used, disclosed and/or stored, and may be accessed by governmental authorities and law enforcement agencies in those jurisdictions.<br>
+<br>
+ <br>
+Children:  The Services are not directed to children under 13, and we do not knowingly collect or store any Personal Information about persons under the age of 13.  If we learn that we have collected Personal Information of a child under 13, we will take steps to delete such information from our files as soon as practicable.<br>
+<br>
+Third-Party Websites: Our Services may contain links to other websites and services. Any information that you provide on or to a third-party website or service is provided directly to the owner of the website or service and is subject to that party’s privacy policy. Our Privacy Policy does not apply to such websites or services, and we are not responsible for the content, privacy or security practices and policies of those websites or services. To protect your information we recommend that you carefully review the privacy policies of other websites and services that you access.<br>
+<br>
+Sale/Merger: Information about our Users is a business asset of Lightspeed.  Consequently, information about our Users, including Personal Information, may be disclosed as part of any merger or acquisition involving Lightspeed, the creation of a separate business to provide some or all the Services, the sale or pledge of Lightspeed’s assets, as well as in the event of an insolvency, bankruptcy or receivership.<br>
+<br>
+Security: Your Personal Information is treated as private, confidential information by Lightspeed and we strive to ensure that Personal Information under our control, regardless of format, is protected and kept secure at all times. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure.  Accordingly, we cannot absolutely guarantee the protection of any information shared with us.<br>
+<br>
+ <br>
+Privacy Policy Changes: We may update this Privacy Policy from time to time to reflect changes to our information practices. If we make material changes to our Privacy Policy, we will notify you by prominently posting the revised Privacy Policy on this Site (including the revision date). Your continued access or use of  our websites constitutes your acceptance of the Privacy Policy as revised. It is your responsibility to review the Privacy Policy frequently.<br>
+<br>
+Contacting Us: If you have any questions or suggestions regarding our Privacy Policy, please contact us at:<br>
+<br>
+Lightspeed POS Inc.<br>
+700 St-Antoine Est, Suite 300<br>
+Montreal, Quebec, Canada<br>
+H2Y1A6<br>
+<br>
+or<br>
+<br>
+legal@lightspeedhq.com            </p>
+          
+                  </div>
+
+              </div>
+    </div>
+  </div>
+
+  
+
+        </div>    </div>
+    <footer role="contentinfo">
+        <div class="container">
+            <div class="row">
+                <div class="footer-main four columns">
+                    <h4 class="title">Products</h4>
+                    <div class="row">
+                                                    <div class="four columns">
+                                <div class="footer-widget"><strong>Retail</strong><div class="menu-navigation-secondary-retail-container"><ul id="menu-navigation-secondary-retail-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29814"><a href="https://www.lightspeedhq.com/products/retail/pricing/">Pricing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30866"><a href="https://www.lightspeedhq.com/products/retail/features/">Features</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29817"><a href="https://www.lightspeedhq.com/products/retail/hardware/">Hardware</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31871"><a href="https://www.lightspeedhq.com/products/retail/reporting/">Reporting</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29747"><a href="https://www.lightspeedhq.com/integrations/">Integrations</a></li>
+</ul></div></div>                            </div>
+                                                                            <div class="four columns">
+                                <div class="footer-widget"><strong>Restaurant</strong><div class="menu-navigation-secondary-restaurant-container"><ul id="menu-navigation-secondary-restaurant-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29812"><a href="https://www.lightspeedhq.com/products/restaurant/pricing/">Pricing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30867"><a href="https://www.lightspeedhq.com/products/restaurant/features/">Features</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29818"><a href="https://www.lightspeedhq.com/products/restaurant/hardware/">Hardware</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29746"><a href="https://www.lightspeedhq.com/integrations/">Integrations</a></li>
+</ul></div></div>                            </div>
+                                                                            <div class="four columns">
+                                <div class="footer-widget"><strong>OnSite</strong><div class="menu-navigation-secondary-onsite-secondary-menu-onsite-container"><ul id="menu-navigation-secondary-onsite-secondary-menu-onsite-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31888"><a href="https://www.lightspeedhq.com/products/onsite/pricing/">Pricing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31892"><a href="https://www.lightspeedhq.com/products/onsite/features/">Features</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31895"><a href="https://www.lightspeedhq.com/products/onsite/hardware/">Hardware</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31898"><a href="https://www.lightspeedhq.com/products/onsite/reporting/">Reporting</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31900"><a href="https://www.lightspeedhq.com/integrations/">Integrations</a></li>
+</ul></div></div>                            </div>
+                                                                    </div>
+                    <div class="row">
+                                                    <div class="four columns">
+                                <div class="footer-widget"><h4 class="title">About us</h4><div class="menu-footer-about-us-container"><ul id="menu-footer-about-us" class="menu"><li id="menu-item-31971" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31971"><a href="https://www.lightspeedhq.com/contact/">Contact</a></li>
+<li id="menu-item-31968" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31968"><a href="https://www.lightspeedhq.com/about/">Company</a></li>
+<li id="menu-item-31967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31967"><a href="https://www.lightspeedhq.com/careers/">Join the Team</a></li>
+</ul></div></div>                            </div>
+                                                <div class="eight columns">
+                            <h4 class="title">Customer Stories</h4>
+                            <div class="row">
+                                                                    <div class="six columns">
+                                        <div class="footer-widget"><strong>Retail</strong><div class="menu-footer-customer-stories-retail-container"><ul id="menu-footer-customer-stories-retail" class="menu"><li id="menu-item-31976" class="menu-item menu-item-type-post_type menu-item-object-customers menu-item-31976"><a href="https://www.lightspeedhq.com/customers/urban-bonfire/">Urban Bonfire</a></li>
+<li id="menu-item-31977" class="menu-item menu-item-type-post_type menu-item-object-customers menu-item-31977"><a href="https://www.lightspeedhq.com/customers/g2k-vape/">G2K Vape</a></li>
+<li id="menu-item-31978" class="menu-item menu-item-type-post_type menu-item-object-customers menu-item-31978"><a href="https://www.lightspeedhq.com/customers/creeds-collective/">Creeds Collective</a></li>
+</ul></div></div>                                    </div>
+                                                                                                    <div class="six columns">
+                                        <div class="footer-widget"><strong>Restaurant</strong><div class="menu-footer-customer-stories-restaurant-container"><ul id="menu-footer-customer-stories-restaurant" class="menu"><li id="menu-item-32348" class="menu-item menu-item-type-post_type menu-item-object-customers menu-item-32348"><a href="https://www.lightspeedhq.com/customers/gazette/">Gazette</a></li>
+<li id="menu-item-32347" class="menu-item menu-item-type-post_type menu-item-object-customers menu-item-32347"><a href="https://www.lightspeedhq.com/customers/la-nouvelle-seine/">La Nouvelle Seine</a></li>
+<li id="menu-item-31979" class="menu-item menu-item-type-post_type menu-item-object-customers menu-item-31979"><a href="https://www.lightspeedhq.com/customers/la-mere-restaurant/">La Mere Restaurant</a></li>
+</ul></div></div>                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="six columns u-hide-for-mobile">
+                    <div class="row">
+                                                    <div class="four columns">
+                                <div class="footer-widget"><h4 class="title">Why Lightspeed</h4><div class="menu-footer-why-lightspeed-container"><ul id="menu-footer-why-lightspeed" class="menu"><li id="menu-item-31985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31985"><a href="https://www.lightspeedhq.com/products/retail/emv/">EMV</a></li>
+<li id="menu-item-31989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31989"><a href="https://www.lightspeedhq.com/integrations/">Integrations</a></li>
+<li id="menu-item-31991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31991"><a href="https://www.lightspeedhq.com/products/">Our Products</a></li>
+<li id="menu-item-31990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31990"><a href="https://www.lightspeedhq.com/support/">24 / 7 Support</a></li>
+<li id="menu-item-31988" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31988"><a href="https://www.lightspeedhq.com/products/restaurant/mev-certified/">MEV Certified</a></li>
+</ul></div></div>                            </div>
+                                                <div class="eight columns">
+                            <h4 class="title">Resources</h4>
+                            <div class="row">
+                                                                    <div class="six columns">
+                                        <div class="footer-widget"><strong>Retail</strong><div class="menu-footer-resources-retail-container"><ul id="menu-footer-resources-retail" class="menu"><li id="menu-item-31994" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31994"><a href="/blog/cat/retail/">Blog</a></li>
+<li id="menu-item-31993" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31993"><a href="/resources/webinars?p=retail">Webinars</a></li>
+<li id="menu-item-31999" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31999"><a href="https://www.lightspeedhq.com/resources/">Resources</a></li>
+<li id="menu-item-31992" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31992"><a href="/resources/white-papers?p=retail">White Papers</a></li>
+</ul></div></div>                                    </div>
+                                                                                                    <div class="six columns">
+                                        <div class="footer-widget"><strong>Restaurant</strong><div class="menu-footer-resources-restaurant-container"><ul id="menu-footer-resources-restaurant" class="menu"><li id="menu-item-31997" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31997"><a title="Blog – Restaurant" href="/blog/cat/restaurant/">Blog</a></li>
+<li id="menu-item-31995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31995"><a title="Webinars – Restaurant" href="/resources/webinars?p=restaurant">Webinars</a></li>
+<li id="menu-item-31998" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31998"><a title="Resources – Restaurant" href="https://www.lightspeedhq.com/resources/">Resources</a></li>
+<li id="menu-item-31996" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31996"><a title="White Papers – Restaurant" href="/resources/white-papers?p=restaurant">White Papers</a></li>
+</ul></div></div>                                    </div>
+                                                                                            </div>
+                        </div>
+                    </div>
+                    <div class="row u-hide-for-mobile">
+                        <div class="four columns">
+                            <div class="footer-widget"><h4 class="title">Your Lightspeed</h4><div class="menu-footer-your-lightspeed-container"><ul id="menu-footer-your-lightspeed" class="menu"><li id="menu-item-32130" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-32130"><a href="//www.lightspeedhq.com/">English</a></li>
+<li id="menu-item-32132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32132"><a href="//www.lightspeedhq.be/">Belgium</a></li>
+<li id="menu-item-32131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32131"><a href="//www.lightspeedhq.nl">Netherlands</a></li>
+<li id="menu-item-32129" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32129"><a href="//fr.lightspeedhq.com/">Canada French</a></li>
+<li id="menu-item-32133" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32133"><a href="//www.lightspeedhq.co.uk/">United Kingdom</a></li>
+</ul></div></div>                        </div>
+                        <div class="eight columns">
+                            		<div class="footer-widget">		<h4 class="title">From Our Blog</h4>		<ul>
+					<li>
+				<a href="https://www.lightspeedhq.com/blog/2015/11/the-psychology-of-sound-how-to-drive-sales-with-music/">The psychology of sound: how to drive sales with music</a>
+						</li>
+					<li>
+				<a href="https://www.lightspeedhq.com/blog/2015/11/snapchat-for-retailers/">Snapchat for retailers</a>
+						</li>
+					<li>
+				<a href="https://www.lightspeedhq.com/blog/2015/11/a-new-lightspeed-built-for-you/">A new Lightspeedhq.com built for you</a>
+						</li>
+					<li>
+				<a href="https://www.lightspeedhq.com/blog/2015/10/4-loyalty-apps-to-drive-more-sales/">5 loyalty apps to drive more sales</a>
+						</li>
+					<li>
+				<a href="https://www.lightspeedhq.com/blog/2015/10/import-faster-and-automatically-replicate-your-store-with-onsite-2015-2-3/">Import faster and automatically replicate your store with Lightspeed OnSite 2015 2.3</a>
+						</li>
+				</ul>
+		</div>                        </div>
+                    </div>
+                </div>
+                <div class="row u-hide-for-mobile">
+                    <div class="two columns">
+                      <div class="row">
+                        <div class="twelve columns">
+                          <div class="footer-widget"><h4 class="title">Reseller Access</h4><div class="menu-footer-reseller-access-container"><ul id="menu-footer-reseller-access" class="menu"><li id="menu-item-29699" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29699"><a title="Reseller Login" href="https://resellers.lightspeedhq.com/login">Reseller Login</a></li>
+<li id="menu-item-29700" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29700"><a title="Become A Reseller" href="https://resellers.lightspeedhq.com/apply">Become A Reseller</a></li>
+</ul></div></div>                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="twelve columns">
+                                                  </div>
+                      </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="twelve columns footer-copyright">
+                    <div class="footer-copyright-menu"><ul id="menu-footer-copyright" class="menu"><li id="menu-item-29694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29694"><a href="https://www.lightspeedhq.com/press/">Press</a></li>
+<li id="menu-item-29695" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29695"><a href="https://www.lightspeedhq.com/sitemap/">Site Map</a></li>
+<li id="menu-item-30973" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-29910 current_page_item menu-item-30973"><a href="https://www.lightspeedhq.com/privacy-policy/">Privacy Policy</a></li>
+</ul></div>                    <p>© Lightspeed 2015</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <div class="mobile-overlay"></div>
+</div> <script type="text/javascript" src="https://1sqaho2rc10k4c3dsm3pzthu-wpengine.netdna-ssl.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"https:\/\/www.lightspeedhq.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://1sqaho2rc10k4c3dsm3pzthu-wpengine.netdna-ssl.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.3"></script>
+<script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js?ver=20120206"></script>
+<script type="text/javascript" src="https://1sqaho2rc10k4c3dsm3pzthu-wpengine.netdna-ssl.com/wp-content/themes/lightspeed/prod/js/core.min.js?ver=1447713304"></script>
+
+
+<!-- Adding trackers temporarily - Move to GTM -->
+<!-- Marketo Munchkin -->
+<script type="text/javascript">
+jQuery.ajax({
+  url: '//munchkin.marketo.net/munchkin.js',
+  dataType: 'script',
+  cache: true,
+  success: function() {
+    Munchkin.init('470-XOQ-769');
+  }
+});
+</script>
+<!-- END Marketo Munchkin -->
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"7d838da0e0","applicationID":"9556985","transactionName":"NVRXYUsECBECVxcLWQwedFZNDAkMTFkCEUIHQxhFWAID","queueTime":0,"applicationTime":736,"atts":"GRNUFwMeGx8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
+
+</body></html>
