@@ -1,10 +1,16 @@
-<!--The following is the downloaded HTML source of the linkshrink.net privacy policy that was archived on 2015-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315070209id_/http%3A//linkshrink.net/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the linkshrink.net privacy policy that was archived on 2015-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151117052154id_/http%3A//linkshrink.net/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <title>LinkShrink.net - Earn money sharing shrinked links!</title>
     <link rel="shortcut icon" href="./favicon.ico">
     <link rel="stylesheet" type="text/css" href="content/css/style.css">
+    <meta name="description" content="LinkShrink is a free URL shortening service which allows you to earn money for each visitor you bring to your shrinked links.">
+    <meta name="keywords" content="url shortener,earn money,linkshrink.net,linkshrink,bit.ly,bitly,tinyurl">
+    <meta property="og:title" content="LinkShrink.net - Earn money sharing shrinked links!">
+    <meta property="og:url" content="http://linkshrink.net">
+    <meta property="og:image" content="http://linkshrink.net/content/img/logosq.png">
+    <meta property="og:description" content="LinkShrink is a free URL shortening service which allows you to earn money for each visitor you bring to your shrinked links.">
 </head>
 <body><div class="header2"></div>
 
@@ -60,14 +66,14 @@
     });
 </script>
 
-<script type="text/javascript" src="./content/js/menu.js"></script><div style="height: 53px;"></div>
+<script type="text/javascript" src="./content/js/menu.js"></script><div style="height: 33px;"></div>
 <div class="mnCont" style="width:100%;">
     <div class="stcont">
-        <a href="http://linkshrink.net"><img src="./content/img/logo.png" style="margin-left:20px;" alt="logo"></a>
+        <a href="http://linkshrink.net"><img src="./content/img/logo.png" style="margin-left:10px;margin-top:24px;" alt="logo"></a>
         <div class="stcontainer" id="stcontainer">
             <div class="urldiv"><input type="text" class="link" id="dynamic" maxlength="500" placeholder="Shrink URL and earn money" onclick="reset();this.select()"></div>
             <a href="#" id="bt1d" class="butdiv" onclick="shrink(document.getElementById('dynamic').value);">Shrink</a>
-            <a href="#copy" id="copy-dynamic" class="butdiv" onclick="shrink(document.getElementById('dynamic').value);">Copy</a>
+            <a href="#copy" id="copy-dynamic" class="butdiv" onclick="shrink(document.getElementById('dynamic').value);" style="display: none;">Copy</a>
         </div>
     </div>
 </div>
@@ -88,7 +94,7 @@
 </style>
 
 
-
+<script src="./content/js/jquery-2.1.4.min.js"></script>
 <script src="./content/php/jquery.zclip.js"></script>
 <script>
     $.ajaxSetup ({cache: false});
@@ -97,6 +103,7 @@
     function shrink(sl)
     {
         var tl = 0;
+        if(sl.substring(0, 17) == "https://mega.nz/#")  sl = sl.replace('#','hash');
         if(shorten == 0)
         {
             url="http://linkshrink.net/content/php/sr.php?l="+sl;
@@ -120,7 +127,7 @@
                         var e;
                         if(data == 0)   e = 'Invalid URL Entered';if(data == 1)   e = 'Cannot shorten shortened URL';if(data == 2)   e = 'Please insert URL to shrink';
 
-                        $('#dynamic').animate({'background-color':"#FFEDEC"}, 50);
+                        document.getElementById('dynamic').style.background = '#FFEDEC';
                         document.getElementById('dynamic').style.textShadow = '0 1px 0 #FFEDEC';
                         document.getElementById('dynamic').style.cursor = 'pointer';
                         document.getElementById('dynamic').placeholder = e;
@@ -144,7 +151,7 @@
     {
         if(error == 1)
         {
-            $('#dynamic').animate({'background-color':"#DBEACD"}, 50);
+            document.getElementById('dynamic').style.background = '#DBEACD';
             document.getElementById('dynamic').style.textShadow = '0 1px 0 #F4FFED';
             document.getElementById('dynamic').style.cursor = 'auto';
             document.getElementById('dynamic').placeholder = 'Shrink URL and earn money';
@@ -227,7 +234,7 @@
         <div class="footer">
             <a href="http://paypal.com" target="blank"><img src="./content/img/paypalb.png" alt="paypal&quot;" border="0" style="margin-top:34px;" onmouseover="this.src='./content/img/paypala.png';" onmouseout="this.src='./content/img/paypalb.png';"></a>
             <a href="http://payza.com" target="blank"><img src="./content/img/payzab.png" alt="paypal&quot;" border="0" style="margin-top:34px;" onmouseover="this.src='./content/img/payzaa.png';" onmouseout="this.src='./content/img/payzab.png';"></a>
-            <div class="ft" style="display:inline; float:right; margin-right:25px;">© 2014 LinkShrink - 10:06AM 15-03-2015</div>
+            <div class="ft" style="display:inline; float:right; margin-right:25px;">© 2014 LinkShrink - 06:21AM 17-11-2015</div>
         </div>
     </div>
 </div>
