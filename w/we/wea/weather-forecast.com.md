@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the weather-forecast.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627111403id_/http%3A//www.weather-forecast.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weather-forecast.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117143632id_/http%3A//www.weather-forecast.com/pages/privacy) for the most accurate reproduction.*
 
-# 10 Day Weather Forecast Worldwide
-
-## **Privacy Statement for Weather-Forecast.com**
+# Privacy Statement for Weather-Forecast.com
 
 **weather-forecast.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ weather-forecast.com ](http://www.weather-forecast.com/)
 
