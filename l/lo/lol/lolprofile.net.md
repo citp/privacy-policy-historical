@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the lolprofile.net privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504112259id_/http%3A//lolprofile.net/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolprofile.net privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117111030id_/http%3A//lolprofile.net/home/privacy) for the most accurate reproduction.*
 
-# Contact Us - LOLPROFILE
+# Privacy Policy - LoLProfile
 
-## Privacy Policy
-
-This Privacy Policy governs the manner in which LOLPROFILE collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.lolprofile.net](http://www.lolprofile.net/) website ("Site"). This privacy policy applies to the Site and all products and services offered by LOLPROFILE.
+This Privacy Policy governs the manner in which LoLProfile collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.lolprofile.net](http://www.lolprofile.net/) website ("Site"). This privacy policy applies to the Site and all products and services offered by LoLProfile.
 
 ### Personal identification information
 
@@ -20,7 +18,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 ### How we use collected information
 
-LOLPROFILE may collect and use Users personal information for the following purposes:
+LoLProfile may collect and use Users personal information for the following purposes:
 
   * _\- To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
@@ -33,7 +31,7 @@ We may use feedback you provide to improve our products and services.
 
 ### How we protect your information
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. Although LOLPROFILE does not guarantee that unauthorized access will never occur.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. Although LoLProfile does not guarantee that unauthorized access will never occur.
 
 ### Sharing your personal information
 
@@ -45,7 +43,7 @@ Some of the ads may be served by Google. Google's use of the DART cookie enables
 
 ### Changes to this privacy policy
 
-LOLPROFILE has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+LoLProfile has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 ### Your acceptance of these terms
 
