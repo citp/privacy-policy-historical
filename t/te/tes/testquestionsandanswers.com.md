@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the testquestionsandanswers.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075305id_/http%3A//www.testquestionsandanswers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testquestionsandanswers.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117130313id_/https%3A//www.testquestionsandanswers.com/privacy.html) for the most accurate reproduction.*
 
 # Test Questions and Answers - Privacy Policy
 
-[details](https://web.archive.org/popup/guarantee.html "Money Back Gaurantee")
-
-Thanks for visiting the **TestQuestionsAndAnswers.com** website and reviewing our privacy policy! Our privacy policy is plain and simple. We collect NO personal information like names or addresses when you visit our website. If you choose to provide that information to us it is only used to fulfill your request for information.
+Thank you for visiting TestQuestionsAndAnswers.com (the "Company"). The Company respects the privacy of every individual that visits our website and seeks to make its information collection and use practices transparent to every user. This Privacy Policy and Terms of Use ("Policy") outlines the information we collect on this website (collectively with any and all sub-domains, "Website") and the manner in which we use and disclose that information. By visiting, using and/or submitting information via this Website you accept the practices described in this Policy and agree to the terms and conditions published herein.
 
 We do collect some technical information when you visit to make your visit seamless. The section below explains how we handle and collect technical information when you visit our website.
 
