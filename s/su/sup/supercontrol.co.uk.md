@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supercontrol.co.uk privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502181600id_/http%3A//www.supercontrol.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercontrol.co.uk privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117032838id_/http%3A//www.supercontrol.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SuperControl
 
