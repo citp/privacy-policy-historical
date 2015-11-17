@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventmarketer.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317064238id_/http%3A//www.accessintel.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventmarketer.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117150428id_/http%3A//www.accessintel.com/privacypolicy) for the most accurate reproduction.*
 
 # Access Intelligence :: Privacy Policy
 
