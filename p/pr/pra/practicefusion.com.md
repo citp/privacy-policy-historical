@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the practicefusion.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511171234id_/http%3A//www.practicefusion.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicefusion.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117063308id_/http%3A//www.practicefusion.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Practice Fusion
 
-**Last Updated:** September 8, 2014
+**Last Updated:** May 15, 2015
 
 **Introduction**  
 Your privacy is very important to us. This Privacy Policy (this “Policy”) describes how our Services handle and secure information they collect. This Privacy Policy is part of, and incorporated into, the **[Terms of Use](https://web.archive.org/pages/terms-of-use.html "Terms of Use")** for our Services. If you have entered into a user agreement for one of our Services (your “User Agreement”), it will supplement and amend the **[Terms of Use](https://web.archive.org/pages/terms-of-use.html "Terms of Use")**. Because the **[Terms of Use](https://web.archive.org/pages/terms-of-use.html "Terms of Use") **and **** your User Agreement include subjects that may not be covered in this Policy, and may narrow or modify the scope of our use of information under this Policy, please review them carefully.
@@ -12,9 +12,15 @@ Information You Submit: When you use our Services, you can (depending on the Ser
 
   * Typing-in data (such as when you register for our Services, or type a message to send to us or another user, or type a search request, or complete an optional form);
   * Uploading a document, image or other data file; or
-  * Authorizing us to retrieve and import information from another user or other third party on your behalf.
+  * Authorizing us to retrieve and import information from another user or other third party on your behalf, including, without limitation, from your workforce or patients
 
 
+
+Payment Information Depending on the Services you use, we may also collect your billing information, including credit or debit card account information, or other forms of payment (“Payment Card Information”).
+
+By submitting your Payment Card Information, you expressly consent to the sharing of your information with third-party payment processers, and other third-party services (including but not limited to vendors who provide fraud detection services to us and other third parties). These third partier may store your Payment Card Information for future use in our Services.
+
+We do not store your Payment Card Information, nor do we have direct control or responsibility for your Payment Car Information. The third party services which we utilize are contractually obligated to keep your Payment Card Information secure and confidential.
 
 Engagement Tools and Data: Our Services also gather information whenever you visit, log in or otherwise interact with them. As with other websites and interactive services, whenever you interact with our Services, your computer, mobile phone or tablet (a “Device”) and its software transmits a “request” to us. That request includes non-personal information received from your Device (and its software) necessary for us to identify and appropriately route the information your Device is requesting. These “requests” and “replies” are the backbone of all websites and Internet services. Therefore, whenever you:
 
@@ -42,7 +48,7 @@ In addition to managing the appropriate routing of information, we use so-called
 
 Therefore, even if you do not register with us or submit any personal information on our Services, our **[Engagement Tools](https://web.archive.org/pages/engagement-tools.html "Engagement Tools")** automatically receive information about your Device and the software running on it. We call such data “Engagement Data.”
 
-Engagement Data often includes elements such as the date and time a “request” is made, the model of the Device making the “request,” the type and version of operating system running on a Device (e.g., Mac OS or Microsoft Windows), the browser making the request (e.g., Internet Explorer, Chrome or Firefox), routing information, IP address, the Device’s geographic location, search terms a user enters, what URL a Device most recently visited, and, if a mobile application is used, an anonymous unique number. Engagement Data generally does not personally identify a Device’s user. However, it can be combined with personal information. If so, we treat such combined information the same way we treat personal information. Additionally, in the event that our Engagement Tools collect data elements that contain personal information, we treat those data elements as personal information.
+Engagement Data often includes elements such as the date and time a “request” is made, the model of the Device making the “request,” the type and version of operating system running on a Device (e.g., Mac OS or Microsoft Windows), the browser making the request (e.g., Internet Explorer, Chrome or Firefox), routing information, IP address, the Device’s geographic location, search terms a user enters, what URL a Device most recently visited, and, if a mobile application is used, an anonymous unique Device identification number. Engagement Data generally does not personally identify a Device’s user. However, it can be combined with personal information. If so, we treat such combined information the same way we treat personal information. Additionally, in the event that our Engagement Tools collect data elements that contain personal information, we treat those data elements as personal information.
 
 You have the ability to control how certain **[Engagement Tools](https://web.archive.org/pages/engagement-tools.html "Engagement Tools")** operate by modifying the settings on your Device or its software. Most browsers, for example, allow you to refuse accepting cookies, and many mobile Devices allow you to disable the sending of location information. In some cases, doing these things could diminish the performance of our Services or render them inoperable. We do not respond to browser-based “do not track” signals. To learn more about **[Engagement Tools](https://web.archive.org/pages/engagement-tools.html "Engagement Tools") **and how we use Engagement Data please see our **[Engagement Tools](https://web.archive.org/pages/engagement-tools.html "Engagement Tools")** page and the section below entitled “How Information is Used.”
 
@@ -57,6 +63,7 @@ We use personal and non-personal information (including Engagement Data) for the
   * Responding to questions and communications, which we retain in the ordinary course of business;
   * Administrative announcements about features, functionality, terms or other aspects of our Services; and, if applicable, informing you about offers for services or products we believe may be of interest (for further information, see also “ _Service Emails and other Communications_ ” below);
   * Safeguarding and protecting our Services, the information they safeguard, the rights of third parties and in response to legal process, in each case, as more fully described below in “ _The Importance of Protecting our Services and the Information they Safeguard_ ;” and
+  * We may use your Payment Card Information as stated in the “Payment Information” Section above; and
   * Any other purpose described in this Policy or your User Agreement.
 
 
@@ -71,7 +78,7 @@ We use non-personal information for the following purposes:
 
 
 
-We may also use non-personal information to prepare aggregate reports for current or future advertisers, sponsors or other partners to show trends about the general use of our Services. Such reports may include age, gender, geographic, demographic or other general user information, but do not include personal information.
+We may also use non-personal information to prepare aggregate reports for current or future advertisers, sponsors or other partners to show trends about the general use of our Services. Such reports may include age, gender, geographic, demographic or other general user information, but will not include personal information.
 
 Consents and Authorizations:  
 From time to time, we may request your consent or authorization (your “consent”) in connection with the use or sharing of your information. In some instances, this will be because your User Agreement, this Policy or applicable law or regulations requires us to obtain such consent. In other instances, such consent will be for informational purposes. In the latter case, the request to obtain your consent should not be interpreted as narrowing the scope or applicability of your User Agreement or this Policy – by entering into your User Agreement or using the applicable Services, you have accepted and agreed to our information handling practices in the manner described in your User Agreement and this Policy.
@@ -86,8 +93,9 @@ How our Services Allow Users to Share Information:
   * Requesting an appointment with a healthcare provider;
   * Sending an appointment or other reminder to another user;
   * Making a referral;
-  * Sending a prescription to a pharmacy; or
-  * Sending a test requisition to a clinical laboratory.
+  * Sending a prescription to a pharmacy; 
+  * Sending a test requisition to a clinical laboratory; or
+  * Leaving, retrieving, triaging, or responding to an after-hours voice message.
 
 
 
@@ -124,6 +132,7 @@ We will not share personal information you submit except under the following cir
   * When your account has been issued by an account administrator with administrative rights over your account, your account administrator will have access to your account information, including your personal information. Your account administrator may: (i) receive and retain your account information, (ii) change your account password, (iii) restrict your ability to submit, delete or edit information; (iv) suspend or terminate your account access, or (v) access or retain information you submit or otherwise stored as part of your account for any purposes required or permitted under applicable law;
   * When we share such information with our current and future affiliates;
   * When we share such information with trusted service providers operating on our behalf consistent with the terms of this Policy and your User Agreement. Such service providers shall be bound by appropriate confidentiality and security obligations, which may include, as applicable, business associate contract obligations. We will not sell, rent or trade your personal information with any third parties for their promotional or marketing purposes;
+  * When we share your Payment Card Information as described in the “Payment Information” Section above;
   * When we protect our Services, the information they safeguard, the rights of third parties and in response to legal process, as more fully described below in “ _The Importance of Protecting our Services and the Information they Safeguard_ ;”
   * In connection with a sale, merger, transfer, exchange, reorganization or other disposition (whether of assets, stock, or otherwise) of all or a portion of the business conducted by the services to which this Privacy applies. If such a transaction occurs, the acquiring company’s use of your personal information will remain subject to this Policy; and
   * Any other purposes described in this Policy or your User Agreement.
