@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercycorps.org privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228185108id_/http%3A//www.mercycorps.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercycorps.org privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117164442id_/http%3A//www.mercycorps.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mercy Corps
 
@@ -20,13 +20,11 @@ You will be given the option to remove your name from our email list at the bott
 
 **Online Donations**
 
-Mercy Corps' online and offline donation processing systems comply with PCI Security Standards, a set of comprehensive requirements for enhancing payment account data security. For more about these standards, [click here](https://www.pcisecuritystandards.org/security_standards/pci_dss.shtml).
-
 Our online donation processor hosts our secure giving pages on PCI Compliant servers and uses high-grade encryption and the industry-standard https security protocol to ensure secure transactions.
 
 Independent external and internal audits ensure the privacy, security and appropriate processing of your information on our site.
 
-[Read our nine promises to donors here.](https://web.archive.org/web/20141228185108id_/http%3A//www.mercycorps.org/about-us/donor-pledge)
+[Read our nine promises to donors here.](https://web.archive.org/web/20151117164442id_/http%3A//www.mercycorps.org/about-us/donor-pledge)
 
 **Use of Third-Party Software and Advertising Services**
 
