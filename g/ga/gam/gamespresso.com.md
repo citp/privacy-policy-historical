@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gamespresso.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519145549id_/http%3A//www.gamespresso.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamespresso.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118045754id_/http%3A//www.gamespresso.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gamespresso
 
-This Privacy Policy governs the manner in which Gamespresso collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.gamespresso.com](https://web.archive.org/web/20150519145549id_/http://www.gamespresso.com/privacy-policy/www.gamespresso.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Gamespresso.
+This Privacy Policy governs the manner in which Gamespresso collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.gamespresso.com](https://web.archive.org/web/20151118045754id_/http://www.gamespresso.com/privacy-policy/www.gamespresso.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Gamespresso.
 
 **Personal identification information**
 
