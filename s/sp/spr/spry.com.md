@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spry.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628093825id_/http%3A//www.spry.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spry.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118233230id_/http%3A//www.spry.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # Spry's Privacy Policy
 
