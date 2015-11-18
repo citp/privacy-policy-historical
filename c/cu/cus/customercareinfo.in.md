@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the customercareinfo.in privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505145354id_/http%3A//www.customercareinfo.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customercareinfo.in privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118030707id_/http%3A//www.customercareinfo.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CustomerCareInfo.in | Customer Care
 
 [__  Home](http://www.customercareinfo.in/)  »  Privacy Policy – CustomerCareInfo.in
-
-(No Ratings Yet)  
-
 
 Loading...
 
