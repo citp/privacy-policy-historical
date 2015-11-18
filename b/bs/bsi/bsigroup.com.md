@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsigroup.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621222557id_/http%3A//www.bsigroup.com/en-GB/about-bsi/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsigroup.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118233131id_/http%3A//www.bsigroup.com/en-GB/about-bsi/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | BSI Group
 
@@ -29,7 +29,7 @@ We do not pass your details on to third parties.
 
 Cookies are small pieces of information that are stored by your browser on your computer's hard drive. We use cookies to identify registered users automatically when they log on and also to track users as they travel through the system. You can set up your browser to reject cookies but you should be aware that this could limit your ability to use certain features on our site.
 
-For more information on cookies, how to enable or disable cookies on your computer, how they are used and how to delete them please visit [www.allaboutcookies.org/cookies/.](http://www.allaboutcookies.org/cookies/)
+For more information about which cookies we collect and how to disable cookies on your computer, please visit the [BSI Cookie policy](https://web.archive.org/en-GB/about-bsi/legal/cookie-policy/).
 
 If you disable cookies you will not be able to log in to the site or add an item from BSI Shop to the basket.
 
@@ -72,4 +72,4 @@ If the ownership of BSI is changed, or the assets of BSI are sold we reserve the
 
 Any changes to our privacy policy will be posted here although we may choose to email you directly or direct you to an updated policy when you visit our site if the changes are significant.
 
-Issue Date: 14th December, 2006
+Issue Date: January, 2015
