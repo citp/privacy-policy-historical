@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetechportal.in privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627182024id_/http%3A//blueboxmedia.co) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetechportal.in privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118210710id_/http%3A//blueboxmedia.co) for the most accurate reproduction.*
 
 # Blue Box Media | India's premier Online Media Company
 
