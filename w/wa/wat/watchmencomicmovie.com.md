@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchmencomicmovie.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408084831id_/http%3A//www.watchmencomicmovie.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchmencomicmovie.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118124908id_/http%3A//www.watchmencomicmovie.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - WatchmenComicMovie.com
 
