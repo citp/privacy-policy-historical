@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readysetpaint.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630005006id_/http%3A//www.readysetpaint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readysetpaint.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118122409id_/http%3A//www.readysetpaint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
