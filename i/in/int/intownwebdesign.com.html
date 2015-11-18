@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the intownwebdesign.com privacy policy that was archived on 2015-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150408125352id_/http%3A//intownwebdesign.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the intownwebdesign.com privacy policy that was archived on 2015-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151118064104id_/http%3A//intownwebdesign.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html prefix="og: http://ogp.me/ns#" xml:lang="en-gb" lang="en-gb"><head>
 <link href="http://www.intownwebdesign.com/privacy-policy.html" rel="canonical">
@@ -7,7 +7,6 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	      <base href="http://www.intownwebdesign.com/privacy-policy.html">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="author" content="Administrator">
   
   <title>Privacy Policy</title>
   <link href="http://www.intownwebdesign.com/xp" rel="shortlink">
@@ -17,9 +16,10 @@
   <link rel="stylesheet" href="/templates/gantry/css-compiled/bootstrap.css" type="text/css">
   <link rel="stylesheet" href="/templates/gantry/css-compiled/master-53f95a45aa1d40970d8d57ed4b5a8aec.css" type="text/css">
   <link rel="stylesheet" href="/templates/gantry/css-compiled/mediaqueries.css" type="text/css">
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Ruda&amp;subset=latin,latin-ext" type="text/css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Ruda&amp;subset=latin,latin-ext" type="text/css">
   <link rel="stylesheet" href="/templates/gantry/css/gantry-custom.css" type="text/css">
-  <link rel="stylesheet" href="http://www.intownwebdesign.com/media/mod_cmc/css/cmc.css" type="text/css">
+  <link rel="stylesheet" href="/media/mod_cmc/css/cmc.css" type="text/css">
+  <link rel="stylesheet" href="/media/mod_cmc/css/bootstrap-form.css" type="text/css">
   <link rel="stylesheet" href="/templates/gantry/css-compiled/menu-866aa62ff6c16fcab414a76f625ee345.css" type="text/css">
   <style type="text/css">
 
@@ -27,43 +27,37 @@ h1, h2 { font-family: 'Ruda', 'Helvetica', arial, serif; }
   </style>
   <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
   <script src="/media/system/js/core.js" type="text/javascript"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
   <script src="/components/com_k2/js/k2.js?v2.6.8&amp;sitepath=/" type="text/javascript"></script>
   <script src="/media/system/js/caption.js" type="text/javascript"></script>
   <script src="/libraries/gantry/js/browser-engines.js" type="text/javascript"></script>
   <script src="/templates/gantry/js/rokmediaqueries.js" type="text/javascript"></script>
+  <script src="/media/system/js/punycode.js" type="text/javascript"></script>
+  <script src="/media/system/js/validate.js" type="text/javascript"></script>
+  <script src="/media/mod_cmc/js/cmc.js" type="text/javascript"></script>
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/html5fallback.js" type="text/javascript"></script>
   <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
-  <script src="http://www.intownwebdesign.com//media/mod_cmc/js/cmc.js" type="text/javascript"></script>
   <script src="/modules/mod_roknavmenu/themes/default/js/rokmediaqueries.js" type="text/javascript"></script>
   <script src="/modules/mod_roknavmenu/themes/default/js/responsive.js" type="text/javascript"></script>
   <script src="/modules/mod_roknavmenu/themes/default/js/responsive-selectbox.js" type="text/javascript"></script>
   <script type="text/javascript">
-window.addEvent('load', function() {
+jQuery(window).on('load',  function() {
 				new JCaption('img.caption');
 			});
 
-window.addEvent("domready", function() {
-	Locale.use("en-GB");
-    var options = {
-        language : {
-            "updated" : "You were already subscribed to this list. Your settings have been updated. Thank you!",
-             "saved" : "Thank you! Please check your email and confirm the newsletter subscription."
-        },
-        spinner : "spinner-127"
-    }
-    new cmc("cmc-signup-form-127", options);
+jQuery(document).ready(function() {
+    new cmc("#cmc-signup-127");
+});
+jQuery(document).ready(function(){
+	jQuery('.hasTooltip').tooltip({"html": true,"container": "body"});
 });
   </script>
   <script type="text/javascript">
     (function() {
-      var strings = {"THANK YOU! PLEASE CHECK YOUR EMAIL AND CONFIRM THE NEWSLETTER SUBSCRIPTION.":"Thank you! Please check your email and confirm the newsletter subscription.","YOU WERE ALREADY SUBSCRIBED TO THIS LIST. YOUR SETTINGS HAVE BEEN UPDATED. THANK YOU!":"You were already subscribed to this list. Your settings have been updated. Thank you!"};
-      if (typeof Joomla == 'undefined') {
-        Joomla = {};
-        Joomla.JText = strings;
-      }
-      else {
-        Joomla.JText.load(strings);
-      }
+      Joomla.JText.load({"JLIB_FORM_FIELD_INVALID":"Invalid field:&#160"});
     })();
   </script>
 
@@ -80,23 +74,8 @@ window.addEvent("domready", function() {
 	ga('send', 'pageview');
 </script>
 
-<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_GB/all.js"></script></head>
+</head>
 <body class="logo-type-gantry headerstyle-dark font-family-ruda font-size-is-xlarge menu-type-dropdownmenu layout-mode-responsive col12 option-com-content">
-<!-- Facebook SDK -->
-<div id="fb-root"></div>
-<script type="text/javascript">
-
-      // Load the SDK Asynchronously
-      (function(d){
-      var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-      js = d.createElement('script'); js.id = id; js.async = true;
-      js.src = '//connect.facebook.net/en_GB/all.js';
-      d.getElementsByTagName('head')[0].appendChild(js);
-    }(document));
-
-</script>
-<!-- End Facebook SDK -->
-
         <header id="rt-top-surround">
 						<div id="rt-header">
 			<div class="rt-container">
@@ -362,26 +341,31 @@ window.addEvent("domready", function() {
                                                 						<div class="rt-block">
 	                        <div id="rt-mainbody">
 								<div class="component-content">
-	                            	<div class="item-page">
-
-	<h1>Privacy Policy</h1>
-
-
-
+	                            	<article class="item-page" itemscope="" itemtype="http://schema.org/Article">
+<meta itemprop="inLanguage" content="en-GB">
+	<h1 itemprop="name">Privacy Policy</h1>
+	
 
 
 
 
 
-<p>When accessing our Website, Intown Web Design, Inc will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.</p>
+
+
+<div itemprop="articleBody">
+	<p>When accessing our Website, Intown Web Design, Inc will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.</p>
 <p>If you visit our site to read or download information on our pages, we collect and store only the following information about you:</p>
 <p>1. The name of the domain from which you access the Internet<br>2. The date and time you access our site<br>3. The Internet address of the website you used to link directly to our site.</p>
 <p>If you identify yourself by sending us an e-mail containing personal information, then the information collected will be solely used to respond to your message.</p>
 <p>The information collected is for statistical purposes. Intown Web Design, Inc may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.</p>
 <p>For site security purposes and to ensure that this service remains available to all users, Intown Web Design, Inc uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.</p>
-<p>Intown Web Design, Inc will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.</p> 
-	
-</div>
+<p>Intown Web Design, Inc will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.</p> </div>
+
+
+
+	</article>
+
+
 
 								</div>
 	                        </div>
@@ -448,19 +432,85 @@ window.addEvent("domready", function() {
 	                		<h2 class="title">Newsletter Signup</h2>
 			</div>
 	                		                	<div class="module-content">
-	                		<div id="cmc-signup-127" class="cmc-signup ">
-	<form action="/component/com_cmc/format,raw/task,subscription.save/" method="post" id="cmc-signup-form-127" name="cmc127">
-		<div id="intro127">
-					</div>
-		<div><input name="jform[groups][EMAIL]" id="EMAIL" class="required inputbox input-medium validate-email" type="text" value="" title="Email Address *"></div><div><input name="jform[groups][FNAME]" id="FNAME" class="inputbox input-medium" type="text" value="" title="First Name"></div><div><input name="jform[groups][LNAME]" id="LNAME" class="inputbox input-medium" type="text" value="" title="Last Name"></div>
-		<input type="hidden" name="jform[listid]" value="49754a4350">
-		<input type="hidden" name="0dd12653264ba03a480bd85c57884a2d" value="1">				<div>
-			<input type="submit" class="button btn btn-primary" value="Subscribe" id="cmc-signup-submit-127">
-		</div>
-			</form>
-	<div id="spinner-127" style="text-align:center;display:none;"><img src="http://www.intownwebdesign.com/media/mod_cmc/images/ajax-loader.gif" alt="Please wait"></div>
+	                		
+<div id="cmc-signup-127" class="cmc-signup ">
 
-</div>	                	</div>
+	
+	<div class="cmc-error alert alert-error" style="display:none"></div>
+	<div class="cmc-saved alert alert-success" style="display:none">
+		Thank you! Please check your email and confirm the newsletter subscription.	</div>
+	<div class="cmc-updated" style="display:none">
+		Your subscription was updated	</div>
+		<form action="/component/com_cmc/format,raw/task,subscription.save/" method="post" id="cmc-signup-form-127" class="form-validate" name="cmc127">
+
+
+		<div class="row-fluid">
+			
+							<div class="span12">
+					
+											<div class="control-group">
+							<div class="control-label">
+								<label id="jform_cmc_newsletter-lbl" for="jform_cmc_newsletter" class="form-label cmc-label hasTooltip" title="<strong>Newsletter</strong><br />Subscribe to Newsletter">
+	Newsletter</label>							</div>
+							<div class="controls">
+								<input type="checkbox" name="jform[cmc][newsletter]" id="jform_cmc_newsletter" value="1" class="submitMerge inputbox cmc-checkboxes cmc-checkbox-subscribe">							</div>
+						</div>
+											<div class="control-group">
+							<div class="control-label">
+															</div>
+							<div class="controls">
+								<input type="hidden" name="jform[cmc][listid]" id="jform_cmc_listid" value="49754a4350">							</div>
+						</div>
+									</div>
+					</div>
+
+		<div class="row-fluid">
+										<div class="span12">
+
+					
+											<div class="control-group">
+							<div class="control-label">
+								<label id="jform_cmc_groups_EMAIL-lbl" for="jform_cmc_groups_EMAIL" class="form-label cmc-label required">
+	Email Address<span class="star">&nbsp;*</span></label>							</div>
+							<div class="controls">
+								<input type="text" name="jform[cmc_groups][EMAIL]" id="jform_cmc_groups_EMAIL" value="" class="inputbox input-medium cmc_req validate-email required" placeholder="Email Address *" required="" aria-required="true">																	<div class="help-inline alert alert-error cmc-exist hide">
+										It seems that you have already subscribed to this list.										<a href="/">Click here to update your profile.</a>
+									</div>
+															</div>
+						</div>
+											<div class="control-group">
+							<div class="control-label">
+								<label id="jform_cmc_groups_FNAME-lbl" for="jform_cmc_groups_FNAME" class="form-label cmc-label">
+	First Name</label>							</div>
+							<div class="controls">
+								<input type="text" name="jform[cmc_groups][FNAME]" id="jform_cmc_groups_FNAME" value="" class="inputbox input-medium" placeholder="First Name ">															</div>
+						</div>
+											<div class="control-group">
+							<div class="control-label">
+								<label id="jform_cmc_groups_LNAME-lbl" for="jform_cmc_groups_LNAME" class="form-label cmc-label">
+	Last Name</label>							</div>
+							<div class="controls">
+								<input type="text" name="jform[cmc_groups][LNAME]" id="jform_cmc_groups_LNAME" value="" class="inputbox input-medium" placeholder="Last Name ">															</div>
+						</div>
+									</div>
+					</div>
+
+		<div class="row-fluid">
+								</div>
+
+
+		<input type="hidden" class="cmc_exist" name="jform[exists]" value="0">
+
+		<input type="hidden" name="8cc7dbd1c1d9381a7a606fc41eac6f2e" value="1">
+		
+		<button class="btn btn-primary validate" type="submit">
+							Subscribe						<img width="16" height="16" class="cmc-spinner" style="display: none;" src="http://www.intownwebdesign.com/media/mod_cmc/images/loading-bubbles.svg">
+		</button>
+
+			</form>
+
+	</div>
+	                	</div>
                 	</div>
            </div>
 	           <div class="rt-block ">
@@ -511,9 +561,8 @@ window.addEvent("domready", function() {
                <div class="rt-block hidden-phone">
            	<div class="module-surround">
 	           		                	<div class="module-content">
-	                		
-<ul class="menu">
-<li class="item-67 current"><a href="/">Home</a></li><li class="item-23"><a href="/contact-intown-web-design.html">Contact</a></li><li class="item-71 parent"><a href="/products/products.html">Products</a></li><li class="item-58"><a href="/web-design-prices-and-consulting-rates.html">Prices</a></li><li class="item-31"><a href="/privacy-policy.html">Privacy Policy</a></li><li class="item-30"><a href="/terms-of-use.html">Terms of Use</a></li><li class="item-125"><a href="/sitemap.html">Sitemap</a></li></ul>
+	                		<ul class="nav menu">
+<li class="item-67 current active"><a href="/">Home</a></li><li class="item-23"><a href="/contact-intown-web-design.html">Contact</a></li><li class="item-71 parent"><a href="/products/products.html">Products</a></li><li class="item-58"><a href="/web-design-prices-and-consulting-rates.html">Prices</a></li><li class="item-31"><a href="/privacy-policy.html">Privacy Policy</a></li><li class="item-30"><a href="/terms-of-use.html">Terms of Use</a></li><li class="item-125"><a href="/component/com_xmap/Itemid,125/id,1/view,html/">Sitemap</a></li></ul>
 	                	</div>
                 	</div>
            </div>
