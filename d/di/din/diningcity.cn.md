@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diningcity.cn privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629064906id_/http%3A//www.diningcity.cn/en/shanghai/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diningcity.cn privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118232041id_/http%3A//www.diningcity.cn/en/shanghai/pages/privacy_policy) for the most accurate reproduction.*
 
 # DiningCity | Shanghai’s Dining guide. Book, Eat and Review
 
@@ -25,6 +25,10 @@ Personal information that you provide through chat sessions or email exchanges a
 
 **AMENDMENTS**  
 If we decide to change our Privacy Policy we will post any amendments on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it to other companies.
+
+**USER CONTENT (REVIEWS, COMMENTS, COMMUNICATIONS AND OTHER CONTENT.)**
+
+DiningCity reserves the right (but has no obligation) to monitor, remove, or edit the various types of non-compliance User Content without notifying User.Any such non-compliance User Content must not be illegal, threatening, obscene, racist, defamatory, libelous, pornographic,invasive of privacy, purposely false or otherwise injurious to third parties, any form of “spam” or advertising other websites or services etc.
 
 **YOUR OPINION**  
 DiningCity welcomes your questions and comments about our privacy policy via our email address info@diningcity.asia
