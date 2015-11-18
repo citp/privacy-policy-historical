@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the succulentsandsunshine.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511025022id_/http%3A//www.succulentsandsunshine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the succulentsandsunshine.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118030850id_/http%3A//www.succulentsandsunshine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy • Succulents and Sunshine
+# Privacy Policy | Succulents and Sunshine
 
 This privacy policy sets out how Succulents and Sunshine, LLC  uses and protects any information that you give while using www.succulentsandsunshine.com
 
@@ -69,6 +69,3 @@ We will not sell, distribute or lease your personal information to third parties
 For information about opting out of the Blogger Network and ad serving partners please visit http://www.thebloggernetwork.com/privacy-policy/
 
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
-
-  
-
