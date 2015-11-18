@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesourcecad.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519014026id_/http%3A//www.thesourcecad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesourcecad.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118045022id_/http%3A//www.thesourcecad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SourceCAD
 
@@ -56,9 +56,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
  **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[SourceCAD](http://www.generateprivacypolicy.com/account/policies/edit/www.thesourcecad.com)  
-[www.thesourcecad.com](http://www.generateprivacypolicy.com/account/policies/edit/www.thesourcecad.com)  
-Ashok Nagar, New Delhi, India  
-admin@thesourcecad.com
+ _Ashok Nagar, New Delhi, India_  
+ _admin@thesourcecad.com_
 
 This document was last updated on January 19, 2015
