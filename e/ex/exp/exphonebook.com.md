@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exphonebook.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629093836id_/http%3A//exphonebook.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exphonebook.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118013029id_/http%3A//www.exphonebook.com/privacypolicy.html) for the most accurate reproduction.*
 
 # eXphonebook Privacy Policy
 
