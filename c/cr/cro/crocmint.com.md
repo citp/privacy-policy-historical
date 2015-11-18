@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crocmint.com privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216041404id_/http%3A//www.crocmint.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crocmint.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118071850id_/http%3A//www.crocmint.com/privacy.php) for the most accurate reproduction.*
 
 # Crocmint - World's Leading Affiliate Program!
 
