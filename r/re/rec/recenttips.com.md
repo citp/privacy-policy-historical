@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recenttips.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612030244id_/http%3A//recenttips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recenttips.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118014421id_/http%3A//recenttips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Recent Tips
 
