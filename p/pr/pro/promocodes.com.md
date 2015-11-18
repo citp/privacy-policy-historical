@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the promocodes.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521054713id_/http%3A//www.promocodes.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promocodes.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118181324id_/http%3A//www.promocodes.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Promocodes.com
 
-5/20/2015 10:47:12 PM
+11/18/2015 10:13:24 AM
 
 [](http://www.promocodes.com/ "back to homepage")
 
