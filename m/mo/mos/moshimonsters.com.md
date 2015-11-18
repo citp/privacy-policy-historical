@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moshimonsters.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627010830id_/http%3A//moshimonsters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moshimonsters.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118094132id_/http%3A//www.moshimonsters.com/privacy) for the most accurate reproduction.*
 
 # Moshi Monsters - Privacy Policy
 
@@ -118,14 +118,6 @@ Information a user or child submits to Moshimonsters.com that relates to his or 
 We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
 If you have any questions about security on our Web site, you can send email us at [helpme@moshimonsters.com](mailto:helpme@moshimonsters.com).
-
-## Privo's Privacy Assurance Program
-
-Mind Candy is a licensee of the PRIVO® Privacy Assurance Program (“the Program”). As a participating member in the Program, Mind Candy adheres to the strict information collection, use and disclosure requirements. PRIVO is an independent, third-party organization committed to safeguarding children's personal information collected online. PRIVO aims to help parents and their children exercise control over personal information while exploring the Internet. 
-
-The certification seal posted on this page indicates that Mind Candy has established COPPA compliant privacy practices and has agreed to submit to PRIVO’s oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at (888) 311-9576 in the U.S., +44 20 7193 5294 outside of the U.S., or [privacy@moshimonsters.com](mailto:privacy@moshimonsters.com). If you have further concerns after you have contacted us, you can contact PRIVO directly at [privacy@privo.com](mailto:privacy@privo.com).
-
-Big Bad Bill Inc. complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
 ## Changes to this Privacy Policy
 
