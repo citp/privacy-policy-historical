@@ -1,25 +1,75 @@
-> *The following text is extracted and transformed from the capellaflavors.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608042141id_/http%3A//capellaflavordrops.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capellaflavors.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118230024id_/http%3A//www.capellaflavors.com/privacy-policy) for the most accurate reproduction.*
 
-# coffee flavor water drops tea flavored vanilla flavors hazelnut whole bean flavoring gourmet flavored coffee Flavored water , flavor water , water flavor drops, vanilla flavoring ,bottled drinking water,flavor syrup,coffee flavors - Privacy Policy
-
-|  |   
----  
----  
-| | |   
----|---|---  
-| Stay Informed of our New Flavors and Great Limited Time Offers |   
-| |   
----  
-  
-[Home](https://web.archive.org/) > Privacy Policy
-
-| | |   
----|---|---  
-| 
+# Privacy Policy | Capella Flavor Drops
 
 ### Privacy Policy
 
-This privacy notice discloses the privacy practices for www.capellaflavors.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following: What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared. What choices are available to you regarding the use of your data. The security procedures in place to protect the misuse of your information. How you can correct any inaccuracies in the information. Information Collection, Use, and Sharing We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone. We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order. Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy. Your Access to and Control Over Information You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website: See what data we have about you, if any. Change/correct any data we have about you. Have us delete any data we have about you. Express any concern you have about our use of your data. Security We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page. While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. If you feel that we are not abiding by this privacy policy, you should contact us immediately
+* * *
 
-|   
-| | 
+This notice describes our Privacy Policy. **By visiting our site, you are accepting the practices described in this Privacy Policy.**
+
+### What Personal Information About Customers Do We Gather?
+
+* * *
+
+Here are the types of information we gather.
+
+  * **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests and communicating with you.
+  * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses our Web site.
+
+
+
+### What About Cookies?
+
+* * *
+
+  * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser, to provide certain features, and to allow storage of items in your shopping cart between visits.
+  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
+
+
+
+### Do We Share the Information We Receive?
+
+* * *
+
+We share information as described below.
+
+  * **Businesses and Individuals:** We work closely with other businesses and individuals, and we may share information about you with those businesses and individuals.
+  * **Third-Party Service Providers:** We may employ other companies and individuals to perform functions on our behalf. Examples include providing Web site services, fulfilling orders, delivering packages, sending postal mail and e-mail, processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+  * **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy (unless, of course, the customer consents otherwise).
+  * **Our Protection and Protection of Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Terms of Use and other agreements; or protect our rights, property, or safety and those of our users, and others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+  * **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
+
+
+
+### How Secure Is Information About Me?
+
+* * *
+
+  * Your information is protected during transmission by Secure Sockets Layer (SSL) software, which encrypts information you input.
+  * Only the last four digits of your credit card numbers are revealed when confirming an order. Of course, the entire credit card number is transmitted to the appropriate credit card company during order processing.
+  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
+
+
+
+### Which Information Can I Access?
+
+* * *
+
+We give you access to information about your account and your interactions with us for the limited purpose of viewing and, in certain cases, updating that information.
+
+### What Choices Do I Have?
+
+* * *
+
+  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of certain features.
+  * You can add or update certain information on your account admin pages. When you update information, a copy of the prior version may be kept for our records.
+  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
+
+
+
+### Terms of Use, Notices, and Revisions
+
+* * *
+
+If you choose to visit this Web site, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, resolution of disputes, and application of the law of the state of California. Our business changes constantly, and our Privacy Policy and the Terms of Use will change also. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
