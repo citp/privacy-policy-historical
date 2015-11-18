@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wunderlist.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315204113id_/https%3A//www.wunderlist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wunderlist.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118055925id_/https%3A//www.wunderlist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
