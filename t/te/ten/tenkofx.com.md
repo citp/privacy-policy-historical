@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tenkofx.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508084017id_/http%3A//tenkofx.com/en/company/legal_documents/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tenkofx.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118032523id_/http%3A//tenkofx.com/en/company/legal_documents/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
