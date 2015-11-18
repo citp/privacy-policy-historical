@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petsathome.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417184919id_/http%3A//www.petsathome.com/shop/en/pets/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsathome.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118083119id_/http%3A//www.petsathome.com/shop/en/pets/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pets At Home
 
