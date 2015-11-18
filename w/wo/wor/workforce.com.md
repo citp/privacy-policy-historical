@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the workforce.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610045229id_/http%3A//www.workforce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workforce.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118073052id_/http%3A//www.workforce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [ ](https://web.archive.org/)
+
+To opt out of all _Workforce_  emails please send your name and email address to [**_optout@workforce.com_**](mailto:optout@workforce.com?subject=Workforce%20Email%20Opt%20Out).
 
 Mediatec Publishing Inc. understands the importance of protecting the privacy of Workforce.com users. The information collected is used to market and improve the services we offer, to improve the Workforce.com Web site content, and to contact you with updates to the Web site, provide you with subscribed deliverables, or for other marketing purposes.
 
