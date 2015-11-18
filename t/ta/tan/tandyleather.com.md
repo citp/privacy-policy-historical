@@ -1,19 +1,21 @@
-> *The following text is extracted and transformed from the tandyleather.com privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005150038id_/http%3A//tandyleather.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tandyleather.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119003805id_/http%3A//www.tandyleather.com/privacy.html) for the most accurate reproduction.*
 
-# Tandy Leather Factory
+# Privacy - Tandy Leather | Tandy Leather
 
-Privacy Policy
+Tandy Leather Factory is sensitive to the private nature of information you provide to us over the Internet. Our Privacy Policy is designed to protect your personal information while at the same time giving you the opportunity to obtain interesting and useful information, products and services.
 
-Your privacy is very important to Tandy Leather Factory and we take it very seriously. Tandy Leather Factory does not sell or rent personally, identifiable information to third parties.
+When you purchase products or sign-up to receive our catalog or email newsletter, you will be providing us with personal information. Personal information includes your name, phone number, address and email address along with other information by which you can be personally identified.
 
-If you choose to purchase products from our site or request a catalog, you will need to provide the following information so that we can fulfill your order: Name, Contact Phone Number(s), Mailing Address, Shipping Address, E-mail Address and, if you are purchasing products, Credit Card Account Information.
+We also collect usage information from you when you visit us. It describes how our Web Site is used and navigated, including the number and frequency of visitors to each Web page and the length of their stay. Web Site usage information also includes the domain names of browsers that visit our Web Site, time of day the Web Site was visited and other non-personally identifiable information.
 
-Tandy Leather Factory and its affiliates may use your personally, identifiable information to deliver information to you that may be targeted to your interests, to improve Tandy Leather Factory's marketing and promotional efforts, to analyze site usage, or to improve our content and product offerings. Tandy Leather Factory may use your e-mail address, mailing address, or phone number to contact you regarding administrative matters, billing, and special promotions or to provide associated support.
+Our Web site uses cookies to enhance your shopping experience. You can choose whether or not to accept cookies by changing the settings of your Internet browser. If you choose not to accept these cookies, your experience at our site and other Web sites may be diminished and some features may not work as intended.
 
-Tandy Leather Factory may use "profile information" to create aggregate reports (with information such as user demographics and traffic patterns) that can be shared with our business partners to create personalized content and services. However, "profile information" is anonymous and does not contain personally identifiable information.
+If you provide us with your email address, you will be registered to receive our Tandy Leather Factory newsletter, Tand-E-mail. This email newsletter includes special offers, notices of clearance and overstock items, as well as company news. You may subscribe or unsubscribe to the email newsletter at any time. We do not share or sell email addresses.
 
-Tandy Leather Factory reserves the right to cooperate fully with state, local and federal officials in any investigation relating to this web site or its contents (including personal or private electronic communication transmitted on this web site) or purported illegal activities of any user. 
+We reserve the right to update this policy. Should the Privacy Policy change, the date and a short description of the change will be posted on this page.
 
-If, for any reason, you wish not to be on our electronic mail list, please send a message to [tand-e-mail@tandyleather.com](mailto:tand-e-mail@tandyleather.com) and we will gladly remove you from our list.
+If you have any questions about the Tandy Leather Factory Web Site or Privacy Policy, please send an email to tlfhelp@tandyleather.com.
 
-Effective 7/14/2004
+Effective Date: November 1, 2008 
+
+* * *
