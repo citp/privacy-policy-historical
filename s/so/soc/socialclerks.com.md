@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the socialclerks.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510000829id_/http%3A//socialclerk.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialclerks.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118225339id_/http%3A//socialclerk.net/privacy_policy) for the most accurate reproduction.*
 
-# SocialClerks - Free Twitter Followers and more
+# SocialClerks - Build Your Social Media Presence Today For Free!
 
 This Policy applies as to all products and services provided by SocialClerks the owner and provider of SocialClerks, and yourself the User of SocialClerks. This Policy applies to our use of any and all Data collected by us in relation to your use of SocialClerks and any Services or Systems therein.
 
