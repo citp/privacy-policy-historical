@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crystalkiss.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508020912id_/http%3A//www.crystalkiss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystalkiss.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118063141id_/http%3A//www.crystalkiss.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Crystal Kiss
 
@@ -17,4 +17,4 @@ External Links
 This site contains links to other sites. Crystal Kiss is not responsible for the privacy practices or the content of such Web sites.
 
 Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.crystalkiss.com/contact-us/ "contact us").
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.crystalkiss.com/contact-us/).
