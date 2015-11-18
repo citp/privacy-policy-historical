@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the twenteenmom.com privacy policy that was archived on 2015-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150123232809id_/http%3A//www.twenteenmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twenteenmom.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118064119id_/http%3A//www.twenteenmom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Twenteen Mom
+# Privacy Policy - Twenteen Mom
+
+Privacy Policy
 
 **Your Privacy**
 
@@ -27,6 +29,3 @@ We have included links on this site for your use and reference. We are not respo
 The contents of this statement may be altered at any time, at our discretion. 
 
 If you have any questions regarding the privacy policy of [Twenteen Mom](http://www.twenteenmom.com/) then you may contact us [here](http://www.twenteenmom.com/contact).
-
-  
-
