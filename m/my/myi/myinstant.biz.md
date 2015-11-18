@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myinstant.biz privacy policy that was archived on 2014-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140810041820id_/http%3A//myinstant.biz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myinstant.biz privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118191710id_/http%3A//myinstant.biz/privacy.php) for the most accurate reproduction.*
 
 # My Instant Biz
 
