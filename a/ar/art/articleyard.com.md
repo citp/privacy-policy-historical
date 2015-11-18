@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleyard.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615080100id_/http%3A//articleyard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleyard.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118123301id_/http%3A//www.articleyard.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Article Yard
 
