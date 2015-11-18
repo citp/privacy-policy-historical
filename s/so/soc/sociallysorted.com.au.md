@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sociallysorted.com.au privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401101838id_/http%3A//sociallysorted.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sociallysorted.com.au privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118063448id_/http%3A//sociallysorted.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Socially Sorted
 
@@ -28,7 +28,7 @@ The only personally-identifiable information that we collect is what you volunta
 
 ### 2\. Non Personally-Identifiable Information
 
-An IP Address is a number used by computers on a network to identify your computer so that data can be transmitted to you. We collect IP Address information in order to administer our web site and to gather broad demographic information. Cookies are pieces of data that a web site sends to a user’s computer while the user is viewing the site. Cookies identify your web browser and store information about your visits, but do not reveal any personally-identifiable information about you. We may use cookies to understand what parts of our site users are visiting the most and to help us improve our site.
+An IP Address is a number used by computers on a network to identify your computer so that data can be transmitted to you. We collect IP Address information in order to administer our web site and to gather broad demographic information.”¨ ”¨Cookies are pieces of data that a web site sends to a user’s computer while the user is viewing the site. Cookies identify your web browser and store information about your visits, but do not reveal any personally-identifiable information about you. We may use cookies to understand what parts of our site users are visiting the most and to help us improve our site.
 
 ### 3\. Information Sharing
 
