@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifetips.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521011205id_/https%3A//www.lifetips.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifetips.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118032449id_/https%3A//www.lifetips.com/about/privacy.html) for the most accurate reproduction.*
 
 # LifeTips Privacy Statement
 
@@ -40,7 +40,7 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 LifeTips.com  
-240 Commercial St  
-Suite 3B  
-Boston, MA 02109  
+205 Portland St  
+Suite 500  
+Boston, MA 02114  
 617-227-8800
