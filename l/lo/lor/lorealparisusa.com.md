@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lorealparisusa.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607223130id_/http%3A//www.lorealparisusa.com/en/Services/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lorealparisusa.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118054014id_/http%3A//www.lorealparisusa.com/en/Services/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - L'Oreal Paris
+# L'Oréal Paris Official Homepage - Privacy & Cookie Notice Information
 
 Thank you for visiting the L’Oréal Paris website. We appreciate the importance of your trust and have set forth this Privacy Policy and Cookie Notice to explain how we (“we”, “us”, or “our”) collect, protect, share and use your information as part of our technology platforms, including, without limitation, our company websites, web pages, sponsored social media platforms, mobile sites and mobile apps (the “Sites”).
 
