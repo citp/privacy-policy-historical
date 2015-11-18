@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themail.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409021542id_/http%3A//www.themail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themail.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118225600id_/http%3A//www.themail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Mail Online- Daily News, Affiliate Marketing News, Advice and Tutorials
 
@@ -35,6 +35,3 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
-
-[](http://www.themail.com/)   
-
