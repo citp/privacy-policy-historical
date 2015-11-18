@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onethirtybpm.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511133448id_/http%3A//onethirtybpm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onethirtybpm.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118122120id_/http%3A//www.onethirtybpm.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BPM
+# Privacy Policy | Beats Per Minute
 
 Last updated: January 2012
 
