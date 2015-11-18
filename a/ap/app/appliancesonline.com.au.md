@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the appliancesonline.com.au privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609062538id_/http%3A//www.appliancesonline.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliancesonline.com.au privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118013740id_/http%3A//www.appliancesonline.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Appliances On
 
-**Last updated:** 12 March 2014 
+**Last updated:** 4 September 2015 
 
 Winning Appliances Pty Ltd (ACN 002 193 688) and its related bodies corporate, including Appliances Online Pty Ltd (ABN 19 151 833 546); Big Brown Box Pty Ltd (ABN 96 152 553 145); Handy Crew Pty Limited (ABN 34 152 213 039), Best Home Chef Pty Ltd (ABN 66 159 385 841) and Powerbuys Australia Pty Ltd (ABN 97 160 033 483) (the **"Winning Group"** ) are committed to providing you with a high level of customer service. This includes protecting and maintaining the privacy, accuracy and security of the personal information you provide to us. We are bound by, and will abide by, the Australian Privacy Principles set forth in the Privacy Act (Cth) 1988. 
 
@@ -78,7 +78,7 @@ We may also use your personal information for purposes authorised by laws or reg
 
 In addition, in order to improve and better our offers and service, the Winning Group may, from time to time, use your personal information to contact you to identify promotions, competitions, products and services offered by us that may be of interest to you.
 
-By supplying us your information, you give the Winning Group permission to communicate to you via email, SMS, MMS, social media and telephone to inform you about products and services offered by us which are relevant to you. This permission is not limited in time unless you choose to opt out by contacting us using the contact information provided below, or by utilising an 'unsubscribe' facility on a communication we send to you in which case, the Winning Group will take steps to ensure you do not receive any such direct marketing information in future.
+By supplying us your information, you give the Winning Group permission to communicate to you via email, SMS, MMS, social media and telephone to inform you about products and services offered by us or our business partners which are relevant to you. This permission is not limited in time unless you choose to opt out by contacting us using the contact information provided below, or by utilising an 'unsubscribe' facility on a communication we send to you in which case, the Winning Group will take steps to ensure you do not receive any such direct marketing information in future.
 
 Some members of the Winning Group advertise with Google. Google may show you our advertisements based on your previous visits to our site. If you do not wish to see these advertisements you can opt-out by visiting the Google advertising opt-out page here: http://www.google.com/privacy_ads.html
 
@@ -98,14 +98,15 @@ We never sell, rent, lease or disclose your personal information to other organi
 
   * our products and services suppliers, such as for supplying products ordered by you and providing services in relation to maintenance and repairs of products; 
   * financial services providers, such as our banks or third party supplier for securing payment of the products or services we provided to you, such as PayPal, and where applicable credit report agencies or debt collectors;
+  * our extended warranty partner, who may wish to contact you to offer warranty services in relation to the appliance that you have purchased;
   * technology service providers, such as internet service providers, database management services, digital mail providers who send communications on our behalf, live help service providers and service providers for the prevention of fraud and protection of data;
-  * service providers who performs market research or manage or review the services provided to you, such as Feefo or Bazaarvoice; 
+  * service providers who performs market research or manage or review the services provided to you, such as Satmetrix or BazaarVoice; 
   * mailing systems and courier companies which organise delivery of the products you have purchased; and
   * our professional advisers, accountants, lawyers and auditors. 
 
 
 
-These third parties may be located in Australia or overseas, including but not limited to the United States and India. 
+These third parties may be located in Australia or overseas, including but not limited to the United States, the United Kingdom, the Netherlands and India. 
 
 We require these organisations to maintain the confidentiality of your personal information and also seek to ensure that they adhere to the Australian Privacy Principles. These service providers are not permitted to use your personal information for their own marketing purposes. 
 
@@ -139,7 +140,7 @@ In some circumstances, the Winning Group may not be in a position to grant acces
 
   * providing access is likely to pose a serious threat to the safety of an individual or publicly;
   * providing access is likely to unreasonably impact on the privacy of others;
-  * the request for access is frivolous or vexations;
+  * the request for access is frivolous or vexatious;
   * providing access would reveal information which relates to existing or anticipating legal proceedings or otherwise impact on any negotiations;
   * providing access is unlawful (including being unlawful as directed by a court or tribunal order) or is likely to impact on actions being taken in relation to alleged unlawful activities relating to the functions and activities of the Winning Group; or
   * granting access would impact on a commercially sensitive decision making process.
