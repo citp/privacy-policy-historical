@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flonga.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524111037id_/http%3A//www.flonga.com/pages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flonga.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118085708id_/http%3A//www.flonga.com/pages/privacy.htm) for the most accurate reproduction.*
 
 # Flonga Privacy Policy
 
