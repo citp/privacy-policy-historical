@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfreedomcreditcards.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502200354id_/http%3A//myfreedomcreditcards.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreedomcreditcards.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118063223id_/http%3A//myfreedomcreditcards.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
