@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merchantcircle.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511110510id_/http%3A//www.merchantcircle.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merchantcircle.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118041525id_/http%3A//www.merchantcircle.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # MerchantCircle - Privacy And Security Policy
 
