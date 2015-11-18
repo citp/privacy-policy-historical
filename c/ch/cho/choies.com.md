@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the choies.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504014133id_/http%3A//www.choies.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choies.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118115439id_/http%3A//www.choies.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security | CHOiES
 
@@ -36,7 +36,7 @@ When you register, you will be given the option to opt-out of subscribing to our
 
 At all times, we will offer you the opportunity to unsubscribe out of any service or update to which you have subscribed, if you change your mind. Any e-mail we send you will contain an easy automated unsubscribe link so that you can opt-out of that subscription. Simply follow the indications in the e-mail.
 
-[CompanyName] Choies Co., Ltd
+[CompanyName] STYLEBAG LIMITED
 
 [Address] Third Floor, 207 Regent Street, London, W1B 3HH,United Kingdom
 
