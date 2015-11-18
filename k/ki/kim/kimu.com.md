@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kimu.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315002826id_/http%3A//kimu.com/page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kimu.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118040746id_/http%3A//kimu.com/page/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Kimu - Free Games!
 
