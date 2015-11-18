@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the surganyadownload.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521004220id_/http%3A//www.surganyadownload.com/p/privacy-policy-for-surganya-download-if.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surganyadownload.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118200121id_/http%3A//www.surganyadownload.com/p/privacy-policy-for-surganya-download-if.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Surganya Download
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [](mailto:).  
 At http://www.surganyadownload.com/ we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://www.surganyadownload.com/ and how we use it.   
