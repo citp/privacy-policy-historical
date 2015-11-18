@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yogatrail.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624054006id_/http%3A//www.yogatrail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogatrail.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118025411id_/http%3A//www.yogatrail.com/privacy-policy) for the most accurate reproduction.*
 
 # YogaTrail Privacy Policy | YogaTrail
 
