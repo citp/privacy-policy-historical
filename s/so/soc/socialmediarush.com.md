@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the socialmediarush.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512233959id_/http%3A//socialmediarush.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmediarush.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118041612id_/http%3A//socialmediarush.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Social Media Rush
+# Privacy Policy | Social Media Rush
 
 This Privacy Policy governs the manner in which Social Media Rush collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://SocialMediaRush.com](http://socialmediarush.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Social Media Rush.
 
@@ -72,7 +72,3 @@ MT 195 D, Taman Sinn, Jalan Semabok, 75050 Melaka, Malaysia.
 reginald@socialmediarush.com
 
 This document was last updated on September 01, 2014
-
-Get Future Articles Straight Into Your Inbox!
-
-Join over 1,000 of your peers! Get our latest articles delivered directly into your inbox and get the exclusive, member's only The Ultimate Cheat Sheet for Twitter Marketing (32 pages PDF)
