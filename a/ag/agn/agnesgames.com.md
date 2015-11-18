@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the agnesgames.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512103521id_/http%3A//www.agnesgames.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agnesgames.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118051155id_/http%3A//www.agnesgames.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[Home](https://web.archive.org/)
-
-Privacy Policy
 
 AgnesGames.com is committed to providing an entertaining, fun and educational service. We respect the privacy concerns of visitors to AgnesGames.com.
 
