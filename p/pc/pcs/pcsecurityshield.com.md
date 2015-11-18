@@ -1,52 +1,39 @@
-> *The following text is extracted and transformed from the pcsecurityshield.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924031805id_/http%3A//www.pcsecurityshield.com/dspPrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcsecurityshield.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118030826id_/https%3A//pcsecurityshield.com/about/privacy-policy.php) for the most accurate reproduction.*
 
-# PCSecurityshield.com :: Privacy Policy
+# Privacy Policy - PCSecurityShield
 
-At **PCSecurityShield** we realize that privacy is important to all of our customers. We utilize your personal information only to provide you with free shipping related offers. This statement outlines how we care for your privacy.
+### iS3, INC. (PCSecurityShield)
 
-**BY ACCESSING THIS SITE YOU ARE ACCEPTING THE TERMS OF THIS PRIVACY STATEMENT**. 
+**http://www.pcsecurityshield.com**  
+Effective Date: 04th of October 2010  
+Last Edited: 23rd of March 2014 
 
-E-mail communications: When you register or order at **PCSecurityShield** we send you a courtesy confirmation. You also agree to receive the PCSecurityShield Shield Alert where we offer great offers on products from PCSecurityShield and its partners; security and antivirus news; and computer security tips. 
+### iS3 Privacy Statement
 
-All communications will contain simple removal instructions.
+iS3 is committed to maintaining the trust of our subscribers. This statement explains how we collect information from you and what we do with it.
 
-PCSecurityShield reserves the right to share, barter or sell your information to our partners that may have offers that interest you. PCSecurityShield never shares your financial data. By agreeing to our privacy policy you agree to receive emails from our partners. All partners of PCSecurityShield maintain easily usable remove functions on every email that you receive and are all Can-Spam compliant. 
+### Information Request:
 
-**Do you use cookies?  
-**Yes. Cookies are a very important ingredient to our website. This is how we keep track your interests and provide you with a more enjoyable experience. You may disable cookies but you will only receive general offers not those specific to your interests. Certain web browsers may encounter difficulty checking out at PCSecurityShield. 
+iS3 offers a variety of online services including the sale of diverse security software, removal of malware via the internet and multiple web properties to provide support services and updates for our software products. In order for you to make full use of the resources we offer on our sites and with our products, we ask you to provide some basic information. When you sign up to receive iS3 products or services, you will be asked to register with us. If you wish to participate in additional iS3 services, such as Newsletters, Forums and Discussions, Archives or Business tools, you will be asked to register for these services as well and authorize us to use your subscriber information to inform you of upcoming news and events.
 
-If you would like **PCSecurityShield** to keep ALL your information private and not share with any other of our partners, simply email us and we will delete and confirm such deletion with you. 
+### Promotions:
 
-PCSecurityShield works with FetchBack to display Retargeted ads to our site prospects, on our behalf, across the Internet. They collect **Non-Personally Identifiable Information** about your visits to our Website, and your interaction with our products and services. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No Personally Identifiable Information is collected during in this process. To read FetchBack’s Privacy Policy, click here <http://www.fetchback.com/privacy.html>. If you do not want FetchBack to collect this information, you may opt out of their service. Opting out will not in any way effect your use of our site. To Opt-Out, of FetchBack Retargeting, please click here <http://www.fetchback.com/optout.html>. Visit the Network Advertising Initiatives Opt- Out by clicking here <http://www.networkadvertising.org/managing/opt_out.asp>. 
+Unless you opt out, we may use your product registration information to send you promotional materials that we think may interest you. We do not provide or sell subscriber names, e-mail addresses or registration information to any outside organization.
 
-**SHIPPING POLICY**   
-**Canceled Orders**  
-PCSecurityShield will accept order cancelations within 30 days of purchase. 
+### Shopping at iS3:
 
-To cancel an order please contact us using our [Support Website](http://support.pcsecurityshield.com/contactUs/Default.aspx). 
+iS3 is committed to protecting your personal information! When you use our sites for eCommerce, we utilize a variety of security procedure to help protect your sensitive information from unauthorized access, use or disclosure. All transactions made via the iS3 Web sites using highly confidential information, such as credit card numbers or passwords, are protected through the use of encryption such as the Secure Sockets Layer (SSL) protocol. Our processes are designed to reduce the risk of ID theft and online fraud and are totally compliant with PCI (Payment Card Industry) security standards.
 
-**Shipping Methods**   
-PCSecurityShield ships domestically via US Mail or FedEx and Airmail for **International** orders. Shipping costs are listed in the pull down menu for each item. 
+### Cookies:
 
-**International Orders**   
-PCSecurityShield only accepts orders to countries that are listed in the Pull Down menu. Due to the excessive costs of online fraud we have limited our international shipping. If you feel that you would still like to order from us but are not listed in the Country list, please email us. 
+Cookies are small text files that most Web sites, including iS3, place on your computer. Cookies help us identify the current state of the iS3 application(s) as well as when and where you heard about such application(s). iS3 does not use cookies to track your activities on the Web outside of our sites. No cookie delivered by us will interfere with the operation of your computer.
 
-FedEx Shipping is **NOT** available for international locations. 
+### Shared Information:
 
-**Free Technical Support**  
-PCSecurityShield provides free technical support for the life of the product you have purchased or the life of the product updates, whichever is less. Free Technical Support only includes issues associated with PCSecurityShield products and not the general operation of your computer. If after a PCSecurityShield product has been installed, operation of that product is interrupted due to actions of the user, PCSecurityShield will not be liable to provide free support to that user.
+Except as described above or as expressly stated at the time you provide information to iS3, iS3 does not provide individual information about you to others. 
 
-PCSecurityShield reserves the right to revoke free technical support on a case by case basis if it is deemed that the user continues to use PCSecurityShield support services do to actions of that customer. 
+### General Considerations:
 
-**Shipping Policy**   
-Please feel free using our [Support Website](http://support.pcsecurityshield.com/contactUs/Default.aspx) if you would like overnight shipments. 
+iS3 cannot guarantee that the information you provide to us is completely safe. There may be technical problems beyond our control that may make it accessible to unauthorized persons. If iS3 is acquired, our user information will be included among the assets transferred to the new owner. There also may be occasions in which iS3 is required to provide information by order of a court or when the law requires that subscriber information be treated as a transferable asset, as in bankruptcy. Internet-based commerce is dynamic and changing. We may alter our privacy policy at anytime in order to adjust to these changes. We recommend that you check this Privacy Policy frequently.
 
-**Return Policy:**   
-PCSecurityShield will accept returns for up to 30 days after day of receipt of good. Item must be in good shape and a restocking fee may be charged if there is damage. PC Security Shield will not reimburse for return shipping fees. 
-
-After 30 days PCSecurityShield will issue a store credit only less fees.
-
-**Lost Orders:**   
-Order sent via first class mail can take 5-10 days to arrive. PCSecurityShield will not reship lost order for 14 days after the original order was placed. 
-
-Please notify us within 20 days of order date if an order has not been received. After 20 days PCSecurityShield will consider the product received and the customer satisfied.
+If you have questions or comments on this Privacy Statement, please email us at [support@iS3.com](mailto:%73%75%70%70%6F%72%74%40%69%53%33%2E%63%6F%6D), write to us at Privacy Concerns, c/o iS3, 2200 NW Boca Raton Blvd, Boca Raton, FL 33431 or call toll free 1-877-877-9944.
