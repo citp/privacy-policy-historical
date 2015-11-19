@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weplaylive.tv privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610071304id_/http%3A//www.newsviews.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weplaylive.tv privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119031208id_/http%3A//www.newsviews.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | News Views World News
 
