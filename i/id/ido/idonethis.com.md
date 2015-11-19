@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idonethis.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317133249id_/https%3A//idonethis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idonethis.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119011113id_/https%3A//idonethis.com/privacy) for the most accurate reproduction.*
 
 # iDoneThis
 
@@ -30,9 +30,9 @@ We do not sell to third parties your personal information or entries to third pa
 
 We work with trusted third party services, as described above, to provide our service to you. In addition, we work with contractors who work on our behalf and with whom we may share limited personal information only for the purpose of providing our service to you.
 
-## How do I unsubscribe from your emails or deactivate my account?
+## How do I unsubscribe from your emails?
 
-If you would like to unsubscribe from the daily email, please find instructions in the latest daily email that you have received from us. If you would like your account deactivated, do so by going to your settings page and clicking on "Deactivate my account."
+If you would like to unsubscribe from the daily email, please find instructions in the latest daily email that you have received from us."
 
 ## Will this privacy policy change?
 
