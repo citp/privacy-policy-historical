@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cadillacforums.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408074711id_/http%3A//www.cadillacforums.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cadillacforums.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119045312id_/http%3A//www.cadillacforums.com/privacy.html) for the most accurate reproduction.*
 
 # Cadillac forums : Cadillac Owners Forum Privacy Policy
 
