@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the venmo.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418151104id_/https%3A//venmo.com/legal/us-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venmo.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119132516id_/https%3A//venmo.com/legal/us-privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -10,7 +10,7 @@ Updated November 6, 2014
 
 OUR COMMITMENT TO PRIVACY
 
-Venmo, LLC ("Venmo") knows that you care about how your personal information is used and shared, and we take your privacy seriously. Our primary goal is to provide you with exceptional service, and we understand that you may have questions or concerns regarding your personal information and how it will be used. To make this privacy policy easy to find, we make it available from home page of our website at [venmo.com](https://web.archive.org/web/20150418151104id_/https://venmo.com/legal/us-privacy-policy/venmo.com) (the "website") and through our mobile applications. You may also [email us](https://help.venmo.com/customer/portal/emails/new?email\[subject\]=Question+re:+Privacy+Policy&ticket\[custom_inquiry_type\]=legal_privacy) with any privacy-related questions you have.
+Venmo, LLC ("Venmo") knows that you care about how your personal information is used and shared, and we take your privacy seriously. Our primary goal is to provide you with exceptional service, and we understand that you may have questions or concerns regarding your personal information and how it will be used. To make this privacy policy easy to find, we make it available from home page of our website at [venmo.com](https://web.archive.org/web/20151119132516id_/https://venmo.com/legal/us-privacy-policy/venmo.com) (the "website") and through our mobile applications. You may also [email us](https://help.venmo.com/customer/portal/emails/new?email\[subject\]=Question+re:+Privacy+Policy&ticket\[custom_inquiry_type\]=legal_privacy) with any privacy-related questions you have.
 
 APPLICABILITY OF PRIVACY POLICY
 
