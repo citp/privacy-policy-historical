@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fespa.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617004558id_/http%3A//www.fespa.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fespa.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119011152id_/http%3A//www.fespa.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy - FESPA
 
 This privacy notice tells you what to expect when FESPA collects personal information.
 
-## Visitors to our websites 
+## Visitors to our websites
 
-When someone visits [www.fespa.com](http://www.ico.org.uk/) we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone.
+When someone visits [www.fespa.com](http://www.fespa.com/) we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone.
 
 We do not make any attempt to find out the identities of those visiting either of our websites. We will not associate any data gathered from this site with any personally identifying information from any source. If we do want to collect personally identifiable information through our website, we will be up front about this. We will make it clear when we collect personal information and will explain what we intend to do with it.
 
@@ -48,7 +48,7 @@ This privacy notice was drafted with brevity and clarity in mind. It does not pr
 
 ## Links to other websites
 
-This privacy notice does not cover the links within this site linking to other websites. We encourage you to read the privacy statements on the other websites you visit.
+This privacy notice does not cover the links within this site linking to other websites. 
 
 ## Changes to this privacy notice
 
