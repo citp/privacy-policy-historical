@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the amharicmovies.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612022245id_/http%3A//www.amharicmovies.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amharicmovies.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119232557id_/http%3A//www.ethiogrio.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - AmharicMovies.com - Amharic Movies Online
+# Privacy Policy - Ethiogrio.com - Ethiogrio
 
-## Privacy Statement for AmharicMovies
+## Privacy Statement for Ethiogrio
 
-AmharicMovies has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: AmharicMovies.
+Ethiogrio has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Ethiogrio .com.
 
 ## Information Automatically Logged
 
@@ -24,7 +24,7 @@ Since we do not collect any personal information on this Web site, we do not sha
 
 ## External Links
 
-This site contains links to other sites. AmharicMovies is not responsible for the privacy practices or the content of such Web sites.
+This site contains links to other sites.  Ethiogrio is not responsible for the privacy practices or the content of such Web sites.
 
 ## Public Forums
 
@@ -32,9 +32,9 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 
 ## Children's Guidelines
 
-AmharicMovies is a family oriented website and as such due caution is taken to see that it meets with all national, international and local standards of operation. Safeguarding the Personal Information of children is extremely important.
+Ethiogrio is a family oriented website and as such due caution is taken to see that it meets with all national, international and local standards of operation. Safeguarding the Personal Information of children is extremely important.
 
-For those AmharicMovies sites specifically directed at children, and where users have indicated they are younger than 18, AmharicMovies sites will collect the minimum amount of Personal Information necessary to the operation of the service. These AmharicMovies sites will also send follow up mail to the user's e-mail address instructing them to seek parental permission for their use of the site. A child's Personal Information will be used for the operation of the service but it will not be used for "Secondary Uses" without a parent's permission.
+For those Ethiogrio sites specifically directed at children, and where users have indicated they are younger than 18,  Ethiogrio sites will collect the minimum amount of Personal Information necessary to the operation of the service. These Ethiogrio sites will also send follow up mail to the user's e-mail address instructing them to seek parental permission for their use of the site. A child's Personal Information will be used for the operation of the service but it will not be used for "Secondary Uses" without a parent's permission.
 
 ## Contacting the Web Site
 
@@ -44,6 +44,6 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
-AmharicMovies.com works with third parties that serves ads to this site.
+Ethiogrio.com works with third parties that serves ads to this site.
 
-Send mail to info at AmharicMovies.com with questions or comments about this web site.
+Send mail to info at Ethiogrio.com with questions or comments about this web site.
