@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haygroup.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630144529id_/http%3A//www.haygroup.com/en/legal-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haygroup.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119044622id_/http%3A//www.haygroup.com/en/legal-pages/privacy-policy) for the most accurate reproduction.*
 
 # Global privacy policy summary
 
