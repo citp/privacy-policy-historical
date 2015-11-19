@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindbranch.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609092321id_/http%3A//www.marketresearch.com/corporate/privacypolicy.asp%3Fg%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindbranch.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119011227id_/http%3A//www.marketresearch.com/corporate/privacypolicy.asp) for the most accurate reproduction.*
 
 # MarketResearch.com Privacy Policy
 
