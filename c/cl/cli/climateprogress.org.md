@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the climateprogress.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627165503id_/http%3A//www.americanprogressaction.org/about/c4-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climateprogress.org privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119035623id_/http%3A//www.americanprogressaction.org/about/c4-privacy-policy) for the most accurate reproduction.*
 
 # CAPAF Privacy Policy | Center for American Progress Action Fund
 
@@ -16,7 +16,7 @@ The Center for American Progress Action Fund believes in transparency, and we wa
   * **Social Networking**  – Social networking can be a powerful tool, but it is important to educate yourself about the privacy practices of each social network in which you participate.
   * **Other Interactive Services**  – We may provide other interactive services as well. If you ever have a question not answered by this Policy, please feel free to  **[contact us](mailto:progress@americanprogressaction.org?subject=feedback)**.
   * **Special Note Regarding Interactive Services**  – Any communications you submit or post to a blog, message board, social networking site or other interactive feature may be viewable by other participants or users of the service. Therefore, you should understand that you have no expectation of privacy or confidentiality in the content you submit to such interactive features, whether or not it contains personally identifiable information about you.
-  * **Sharing Personal Information with Third Parties**  \- We do not share, sell or rent your personal information with unaffiliated third parties except as we explain in the privacy policy. We may share personal information with affiliates, service providers and certain limited information, such as name, organizational information and email address, with panelists and third parties if you attend one of our events.
+  * **Sharing Personal Information with Third Parties**  – We do not share, sell or rent your personal information with unaffiliated third parties except as we explain in the privacy policy. We may share personal information with affiliates, service providers and certain limited information, such as name, organizational information and email address, with panelists and third parties if you attend one of our events.
   * **Security**  – Maintaining the security of information about our constituents is a priority for us.
 
 
