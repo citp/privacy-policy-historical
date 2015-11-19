@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasymovieleague.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522012504id_/http%3A//fantasymovieleague.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasymovieleague.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120002618id_/http%3A//fantasymovieleague.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fantasy Movie League
 
