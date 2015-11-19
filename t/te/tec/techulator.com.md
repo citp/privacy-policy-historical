@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techulator.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503101305id_/http%3A//www.techulator.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techulator.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119111233id_/http%3A//www.techulator.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Techulator.com privacy policy
 
@@ -36,7 +36,7 @@ As we continue to develop and grow our web site, we may sell Techulator.com or p
 
 **Contact Us**
 
-If you would like to contact us about any information or privacy policy you can If you need to contact the webmaster of Techulator.com, please **[Write to us.](mailto:webmaster@Techulator.com)**
+If you would like to contact us about any information or privacy policy you can If you need to contact the webmaster of Techulator.com, please **[Write to us.](mailto:webmaster@spiderworks.info)**
 
  **SpiderWorks Technologies Pvt Ltd** **  
 Kochi. India**
