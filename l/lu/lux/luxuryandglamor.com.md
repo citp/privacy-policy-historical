@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxuryandglamor.com privacy policy that was archived on 2015-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150308030729id_/http%3A//www.luxuryandglamor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxuryandglamor.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119032017id_/http%3A//www.luxuryandglamor.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Luxury and Glamour
 
