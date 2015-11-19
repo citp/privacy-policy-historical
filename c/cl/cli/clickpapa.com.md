@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickpapa.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520233111id_/http%3A//www.clickpapa.com/pages/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickpapa.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119045106id_/http%3A//www.clickpapa.com/pages/support/privacy) for the most accurate reproduction.*
 
 # ClickPapa.com - Buy and Sell Traffic - Privacy
 
@@ -64,39 +64,47 @@ General info: info@clickpapa.com
 
 ## 
 
-2015-03-18
+2015-11-16
 
-Publisher earnings were sent out! 
+Mid-November payments are sent out! 
 
-Dear Publishers! All of the earning were sent out via paypal and paxum! If you have any questions or suggestions feel free to contact one of our account managers! Kindest Regards, ClickPapa Team
-
-## 
-
-2015-02-20
-
-Publishers earnings sent! 
-
-ClickPapa's Publishers! Paxum and PayPal earnings were sent out! Kindest Regards, ClickPapa Team
+The payments due the middle of November have been successfully sent out to all our Publishers. Cheers!
 
 ## 
 
-2015-01-19
+2015-11-02
 
-Publihser earnings sent out! 
+October-end payments are Sent 
 
-Dear Publishers! All of the paxum and paypal payments have been sent out today! Have a nice and profitable week! ClickPapa Team
+All payments due end of October have been successfully sent out!
+
+## 
+
+2015-10-16
+
+Mid-October payments are sent out 
+
+That's right! All payments due mid-October have been successfully sent out. Enjoy!
 
 ## Upcoming Events
 
-##  2015-09-18 
+##  2016-03-31 
 
-Webmaster Access - Amsterdam, Sep 18 - 21, 2015
+The Phoenix Forum - Phoenix, AZ, USA - 2016. 03.31-04.03
+
+##  2016-02-29 
+
+The European Summit - Sitges, ES - 2016 02.29-03.03
+
+## Past Events
 
 ##  2015-09-22 
 
 The European Summit Fall 2015 - Prague, Sep 22 - 25, 2015
 
-## Passed Events
+##  2015-09-18 
+
+Webmaster Access - Amsterdam, Sep 18 - 21, 2015
 
 ##  2015-03-25 
 
@@ -113,13 +121,5 @@ The European Summit Fall 2014, Prague
 ##  2014-09-19 
 
 Webmaster Access 2014, Amsterdam
-
-##  2014-05-28 
-
-Internext Expo 15th Anniversary New Orleans, May 28 - 31, 2014
-
-##  2014-03-27 
-
-The Phoenix Forum 2014 - Phoenix, March 27-29 2014
 
 more
