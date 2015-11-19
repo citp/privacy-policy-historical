@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leads360.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624234816id_/http%3A//velocify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leads360.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119181646id_/http%3A//velocify.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Velocify: High Performance Sales
 
@@ -60,4 +60,4 @@ Velocify retains the personal information collected on Velocify Internet Sites a
 
 ### Changes to this Policy
 
-Velocify reserves the right, at its sole discretion, to change, modify, add or remove any portion of this policy, in whole or in part, at any time. Changes in Policy will be effective when posted. You agree to review this Policy periodically to be aware of any changes. Your continued use of the Site after any changes to this Policy will be considered acceptance of those changes. 
+Velocify reserves the right, at its sole discretion, to change, modify, add or remove any portion of this policy, in whole or in part, at any time. Changes in Policy will be effective when posted. You agree to review this Policy periodically to be aware of any changes. Your continued use of the Site after any changes to this Policy will be considered acceptance of those changes.
