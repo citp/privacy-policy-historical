@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crsdata.net privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521023033id_/http%3A//crsdata.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crsdata.net privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119043138id_/http%3A//crsdata.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CRS Data
 
@@ -64,6 +64,6 @@ Our Privacy Policy may change from time to time and all updates will be posted o
 
 **If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 800.374.7488 or** **via email at getinfo@crsdata.com** **.**
 
-“The quality of our work would not be as good without CRS. And it would take hours to get the work done without CRS."
+"We have had CRS Data integrated in our MLS System here at the Knoxville Area Association MLS since 2004. Could not be more pleased with their staff and support."
 
-**CHARLIE HARPER** \- Sunmark Community Bank 
+**DONNA ROACH** \- Knoxville Area Association of Realtors MLS 
