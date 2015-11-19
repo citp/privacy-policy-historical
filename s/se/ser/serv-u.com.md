@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serv-u.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317050818id_/https%3A//www.serv-u.com/purchase/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serv-u.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119225228id_/http%3A//www.serv-u.com/purchase/privacy) for the most accurate reproduction.*
 
 # SolarWinds Privacy Policy
 
@@ -19,93 +19,93 @@ SolarWinds uses cookies that are hosted internally and that are provided by serv
 Service | Function | Cookie Details | Cookie Type  
 ---|---|---|---  
 Authentication Cookies | These cookies allow users to authenticate themselves on successive visits to the Website and gain access to authorised content. | See details below. | First Party1  
-Analytical Cookies | These cookies allow us to generate anonymous customer usage statistics, and they differentiate requests from different browsers and to store helpful information. |  All these cookies, provided by SolarWinds, are prefixed with “s_”. 
+Analytical Cookies | These cookies allow us to generate anonymous customer usage statistics, and they differentiate requests from different browsers and to store helpful information. | All these cookies, provided by SolarWinds, are prefixed with “s_”.
 
 SolarWinds will provide the cookie detail below for all cookies that are provided by a third party.
 
-|  First Party 
+| First Party
 
-Third Party   
+Third Party  
   
-Authentication Cookies |  |  |   
+Authentication Cookies |   |   |    
 ---|---|---|---  
-HttpBrowserCookieCheck | Confirms that all cookies are enabled on a browser. | HttpBrowserCookieCheck |  First Party; 
+HttpBrowserCookieCheck | Confirms that all cookies are enabled on a browser. | HttpBrowserCookieCheck | First Party;
 
 Persistent2  
   
-ASP.NET | This cookie is needed to enable the user to visit the site, use its features, and to access secure portions of the site. | ASP.NET_SessionId |  First Party; 
+ASP.NET | This cookie is needed to enable the user to visit the site, use its features, and to access secure portions of the site. | ASP.NET_SessionId | First Party;
 
 Session3  
   
-Analytical Cookies |  |  |   
+Analytical Cookies |   |   |    
 ---|---|---|---  
-SilverPop | These cookies enable us to deliver content specific to a visitor’s interest and improves convenience and efficiency. | All cookies are prefixed with “com.silverpop” |  Third Party; 
+SilverPop | These cookies enable us to deliver content specific to a visitor’s interest and improves convenience and efficiency. | All cookies are prefixed with “com.silverpop” | Third Party;
 
-Persistent   
+Persistent  
   
-Mbox | These cookies measure the performance of the page content for A/B split testing. | All these cookies are prefixed with “CT-“ or “mbox.“ |  First Party; 
+Mbox | These cookies measure the performance of the page content for A/B split testing. | All these cookies are prefixed with “CT-“ or “mbox.“ | First Party;
 
-Persistent   
+Persistent  
   
-Site Catalyst (also called “Omniture”) |  These cookie gathers information about how long a user takes to proceed to the “Download” button and also how much time they spend on a download page. 
+Site Catalyst (also called “Omniture”) | These cookie gathers information about how long a user takes to proceed to the “Download” button and also how much time they spend on a download page.
 
-It also helps to anonymously define new visitors, help analyze click-stream data, and track historical activity on the web site such as campaign response or sales cycle analysis. 
+It also helps to anonymously define new visitors, help analyze click-stream data, and track historical activity on the web site such as campaign response or sales cycle analysis.
 
-| This cookie is prefixed with “s_”. |  First Party; 
+| This cookie is prefixed with “s_”. | First Party;
 
-Persistent   
+Persistent  
   
-Referral Cookie | This cookie provides information about whether the visitor is a direct visitor (previous visitor), organic (new visitor coming directly to the site), or referred (if they are coming from another site, a banner ad, etc.) to the SolarWinds site. | This is identified as “Referral Cookie.” |  First Party; 
+Referral Cookie | This cookie provides information about whether the visitor is a direct visitor (previous visitor), organic (new visitor coming directly to the site), or referred (if they are coming from another site, a banner ad, etc.) to the SolarWinds site. | This is identified as “Referral Cookie.” | First Party;
 
-Session   
+Session  
   
-AddThis | This cookie allows us to track whether a unique visitor shares the content in social media or other platforms. | These cookies are labelled as: _atuvc, dt, uid. |  Third Party; 
+AddThis | This cookie allows us to track whether a unique visitor shares the content in social media or other platforms. | These cookies are labelled as: _atuvc, dt, uid. | Third Party;
 
-Persistent   
+Persistent  
   
-Ektron | These cookies allow the website to remember selections that a visitor makes, such as a language preferences, geographical region, and user name. | These cookies are labelled as: Ecm and EktGUID. |  First Party; 
+Ektron | These cookies allow the website to remember selections that a visitor makes, such as a language preferences, geographical region, and user name. | These cookies are labelled as: Ecm and EktGUID. | First Party;
 
-Session   
+Session  
   
-Adobe TagManager | This cookie is used for personalizing user experiences by tracking a visitor’s behavior on applicable webpages. | This cookie is prefixed with “CT-”. |  Third Party; 
+Adobe TagManager | This cookie is used for personalizing user experiences by tracking a visitor’s behavior on applicable webpages. | This cookie is prefixed with “CT-”. | Third Party;
 
-Session   
+Session  
   
-Flashtalking | This cookie is an online ad server used for measuring display and affiliate activity and may be used for retargeting and conversion.  | This cookie is labelled as ad1. |  Third Party; 
+Flashtalking | This cookie is an online ad server used for measuring display and affiliate activity and may be used for retargeting and conversion. | This cookie is labelled as ad1. | Third Party;
 
-Persistent   
+Persistent  
   
-Google Analytics | These cookies are used to collect information about how visitors utilize the site. It tracks visitor behaviour and measures site performance. | These cookies are identified as: __utma - Google Analytics tracking cookie, expires immediately; __utmb - Google Analytics tracking cookie, expires in 30 minutes; __utmc - Google Analytics tracking cookie, session cookie, expires at end of session; and __utmz - Google Analytics tracking cookie, expires in 6 months, 12 hours and 30 minutes. |  First Party; 
+Google Analytics | These cookies are used to collect information about how visitors utilize the site. It tracks visitor behaviour and measures site performance. | These cookies are identified as: __utma - Google Analytics tracking cookie, expires immediately; __utmb - Google Analytics tracking cookie, expires in 30 minutes; __utmc - Google Analytics tracking cookie, session cookie, expires at end of session; and __utmz - Google Analytics tracking cookie, expires in 6 months, 12 hours and 30 minutes. | First Party;
 
-Persistent   
+Persistent  
   
-Qualaroo (formerly KissInsights) | These cookies are used on pages that identify unique visitors of pop-up surveys contained on the site. | These cookies are prefixed as: ki_r; ki_t; and ki_u. |  Third Party; 
+Qualaroo (formerly KissInsights) | These cookies are used on pages that identify unique visitors of pop-up surveys contained on the site. | These cookies are prefixed as: ki_r; ki_t; and ki_u. | Third Party;
 
-Persistent   
+Persistent  
   
-Marketo | This cookie allows a website to link visitor behavior to a recipient of an email marketing campaign, to measure campaign effectiveness. | This cookie is identified as “_mkto_trk.” |  First Party; 
+Marketo | This cookie allows a website to link visitor behavior to a recipient of an email marketing campaign, to measure campaign effectiveness. | This cookie is identified as “_mkto_trk.” | First Party;
 
-Persistent   
+Persistent  
   
-New Relic | This cookie is used to analyse the use of the site to enable troubleshooting and performance monitoring. No personal information is stored by this cookie. | These cookies are identified as: utag_main, _gat, login_service_login_newrelic_com_tokens, _ga, _gali. |  Third Party; 
+New Relic | This cookie is used to analyse the use of the site to enable troubleshooting and performance monitoring. No personal information is stored by this cookie. | These cookies are identified as: utag_main, _gat, login_service_login_newrelic_com_tokens, _ga, _gali. | Third Party;
 
-Persistent   
+Persistent  
   
-Pingdom | This cookie is used to speed up page load times. The main purpose of this cookie is related to site performance. | This cookie is identified as: “__cfduid.” |  Third Party; 
+Pingdom | This cookie is used to speed up page load times. The main purpose of this cookie is related to site performance. | This cookie is identified as: “__cfduid.” | Third Party;
 
-Persistent   
+Persistent  
   
-Quantcast (also known as Quantserve) | These cookies are used to measure insights from audience segments including site traffic and demographic information about the visitor. | These cookies are identified as: MC; serving.sys.com; and __qca. |  Third Party; 
+Quantcast (also known as Quantserve) | These cookies are used to measure insights from audience segments including site traffic and demographic information about the visitor. | These cookies are identified as: MC; serving.sys.com; and __qca. | Third Party;
 
-Persistent   
+Persistent  
   
-Simpli.fi | These cookies are used to limit the number of times a visitor sees an advertisement as well as to help measure the effectiveness of the advertising campaign. | These cookies are identified as: Uid and uid_syncd. |  Third Party; 
+Simpli.fi | These cookies are used to limit the number of times a visitor sees an advertisement as well as to help measure the effectiveness of the advertising campaign. | These cookies are identified as: Uid and uid_syncd. | Third Party;
 
-Persistent   
+Persistent  
   
-Sizmek (also known as Media Mind) | These cookies are used to assess the effectiveness of banner ads and to ensure that a visitor is not exposed to the same advertisement multiple times. This does not contain personal or sensitive information. | These cookies are identified as: U2; A5; and ActivityInfo2. |  Third Party; 
+Sizmek (also known as Media Mind) | These cookies are used to assess the effectiveness of banner ads and to ensure that a visitor is not exposed to the same advertisement multiple times. This does not contain personal or sensitive information. | These cookies are identified as: U2; A5; and ActivityInfo2. | Third Party;
 
-Persistent   
+Persistent  
   
 1 A “First Party Cookie” means a cookie that is hosted with the same domain name (e.g. www.solarwinds.com).
 
@@ -114,6 +114,8 @@ Persistent
 3 A “Session Cookie” means that the cookie is deleted from your device after you leave the website.
 
 If SolarWinds implements other cookies in future, we will update the text and table above with details of these cookies.
+
+ 
 
 _Tracking Options and California Do No Track Disclosures._ You may adjust your browser settings to limit this tracking or to decline cookies, but by doing so, you may not be able to use certain features on the Website or take full advantage of our offerings. Our system may not respond to Do Not Track requests or headers from some or all browsers. To learn more about the use of cookies or other technologies to deliver more relevant advertising and your choices about not having this information used by certain service providers, please click [here](http://www.aboutads.info/choices/) (for users in the United States) or click [here](http://youronlinechoices.eu/) (for users in the European Union).
 
