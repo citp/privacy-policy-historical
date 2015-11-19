@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobarnesonline.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316143650id_/https%3A//jobarnesonline.com/resources/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobarnesonline.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119221330id_/http%3A//jobarnesonline.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Jo Barnes Online - Create a Business You Can Take With You
+# Earnings | Jo Barnes Online - Create a Business You Can Take With You
 
 This privacy policy sets out how ** ** **JoBarnesOnline.com** uses and protects any information that you give **JoBarnesOnline.com** when you use this website.
 
@@ -36,7 +36,7 @@ We are committed to ensuring that your information is secure. In order to preven
 
 ## **How we use cookies**
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
@@ -55,14 +55,14 @@ This website contains endorsements for products and services on some pages or bl
 There may be an occasional banner ads on the site that will be my own but also can be an affiliate banner which, should you choose to click and eventually purchase, it might result in a paid commission. Furthermore, some of the text/image ads throughout the site could be Google AdSense ads.  These are not explicitly endorsed by me; they are chosen by Google via a well tested algorithm, based on content of the site (and, hopefully they are relevant to the page material!).  
 
 
-If you have any questions about my affiliation with a certain product or ad, feel free to email our support desk at [ **support@jobarnesonline.com**](mailto:support@jobarnesonline.com "support@jobarnesonline.com") for additional detail.
+If you have any questions about my affiliation with a certain product or ad, feel free to contact our support desk at [ **http://jobarnesonline.com/helpdesk**](http://jobarnesonline.com/helpdesk "http://jobarnesonline.com/helpdesk") for additional detail.
 
 ## **Controlling your personal information**
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [**support@jobarnesonline.com**](mailto:support@jobarnesonline.com "support@jobarnesonline.com")
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting our support desk at [**http://jobarnesonline.com/helpdesk**](http://jobarnesonline.com/helpdesk "http://jobarnesonline.com/helpdesk")
 
 
 
