@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mycutegames.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417123916id_/http%3A//mycutegames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycutegames.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119072756id_/http%3A//mycutegames.com/privacy.html) for the most accurate reproduction.*
 
 # PrivacyPolicy - My Cute Games
 
 **LAKTA GROUP, CORP. PRICACY POLICY**
 
-Last updated: August 1, 2014
+Last updated: September 29, 2015
 
 This privacy statement describes information gathering and dissemination practices. By accessing and/or using our web sites, you accept this privacy statement and agree to the terms, conditions and notices contained or referenced herein. We may modify this privacy statement from time to time. When posting changes to this privacy statement, we will revise the "last updated" date at the top of this page.
 
@@ -24,7 +24,7 @@ Any information you provide to us, and any information you choose to share about
 
 **Cookies:**
 
-We do not use Cookies on our web sites. Cookies are text files of information that a web site places on the computer's hard drive for recognizing the visitor’s browser and providing certain personalized features like targeted advertising and promotional offers. To serve ads in services where cookie technology may not be available (for example, in mobile applications), we may use anonymous identifiers that perform similar functions to cookies. To change your preferences, or to opt out of interest-based ads, follow the instructions for your mobile device.
+We do not use Cookies on our web sites. Cookies are text files of information that a web site places on the device for recognizing the visitor’s browser and providing certain personalized features like targeted advertising and promotional offers. To serve ads in services where cookie technology may not be available (for example, in mobile applications), we may use anonymous identifiers that perform similar functions to cookies. We may use ad network providers to help present advertisements on our websites. These ad network providers use cookies, web beacons, or similar technologies to help the presenting, better targeting, and measuring of the effectiveness of their advertisements, using data gathered over time and across their networks of web pages to determine or predict the characteristics and preferences of their audiences. The use of cookies, web beacons, or similar technologies by such third parties as ad network providers is subject to their own privacy policies, not this privacy statement. Specifically the use of the cookies by Google® Inc. is governed by <http://google.com/intl/en/policies/privacy/partners>. You can opt out of receiving cookies from certain third-party advertising networks by resetting your browser. You may also use the link <https://www.google.com/settings/ads/plugin> to the cookie opt-out page. However, some features and services may not function properly if cookies are disabled.
 
 **Aggregated, Anonymous Information:**
 
