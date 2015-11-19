@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tboholidays.com privacy policy that was archived on 2015-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150612080645id_/http%3A//www.tboholidays.com/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tboholidays.com privacy policy that was archived on 2015-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151119043021id_/http%3A//www.tboholidays.com/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
    
@@ -31,15 +31,7 @@
 </script>
  <!-- End Second analytics code for tboholidays.com -->
   <!--- Cedexis Radar TAG--->
-   <script type="text/javascript">
-       (function(a, b, c, d, e) {
-           function f() {
-               var a = b.createElement("script"); a.async = !0;
-               a.src = "https://radar.cedexis.com/1/15655/radar.js"; b.body.appendChild(a)
-           } /\bMSIE 6/i.test(a.navigator.userAgent) || (a[c] ? a[c](e, f, !1) : a[d] && a[d]("on" + e, f))
-       })
-(window, document, "addEventListener", "attachEvent", "load");
-</script>
+   
 <!--- Cedexis Radar TAG--->
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
     <script src="JSLib/Localization/Localization.js" type="text/javascript"></script>
@@ -56,6 +48,9 @@
     <!--- new default page stylesheet & js --->
     <!--- responsive----->
    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0"><link rel="stylesheet" type="text/css" href="NewDefault/css/responsivestyle.css">
+   <!---------------- mobile  css-------------->
+<link href="mobile-screen.css" rel="Stylesheet" type="text/css">
+
     <!--Google Analytics code here-->
     
     <!--Google Analytics code end-->
@@ -221,6 +216,7 @@ document.getElementById(id).style.display = 'inline';
             <ul class="list wdt_mr" id="sub3">
                 <li onclick="$l.setCulture('en-US')">English</li>
                 <li onclick="$l.setCulture('pt-BR')">Portuguese</li>
+                <li onclick="$l.setCulture('fr-FR')">French</li>
             </ul>
         </div>
     
@@ -233,9 +229,10 @@ document.getElementById(id).style.display = 'inline';
 <section class="middle">
  <div class="mid_main">
     
-    <form name="aspnetForm" method="post" action="privacypolicy.aspx" id="aspnetForm">
+    <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTY2MTgxODgzMGRkOaxFSJSsyNU4+wfkfCWbss7+mo8=">
 
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7650BFE2">
         
 <div class="brdcum">
  <ul>
@@ -260,10 +257,157 @@ document.getElementById(id).style.display = 'inline';
         <li><a href="whitelabels.aspx">White Label Solutions</a></li>
         <li><a href="hotels.aspx">Hotels</a></li>
         <li><a href="wholesaler.aspx">Suppliers/Wholesalers</a></li>
+        <li><a href="dynamic-packaging.aspx">Dynamic Packaging</a></li>
      </ul>
 
         <div class="queryhead">Contact Us </div>
-         <form name="Form1" method="post" action="Hoteliers.aspx" id="Form3" onclick="return validations()">
+        
+        <div id="crmWebToEntityForm">
+            <meta http-equiv="content-type" content="text/html;charset=UTF-8">
+         <form action="https://crm.zoho.com/crm/WebToLeadForm" name="WebToLeads1573986000000087005" method="POST" onsubmit="javascript:document.charset=&quot;UTF-8&quot;; return checkMandatory()" accept-charset="UTF-8">
+               
+                <!-- Do not remove this code. -->
+	            <input type="text" style="display:none;" name="xnQsjsdp" value="5f6225e9cc4985a47f447eec71737789a55fb8d982cb5bd24bc5a51e47009096">
+	            <input type="hidden" name="zc_gad" id="zc_gad" value="">
+	            <input type="text" style="display:none;" name="xmIwtLD" value="3ed0691bcf94a50280617449a739bf774e0054bd848e3797093d1f9f42483898">
+	            <input type="text" style="display:none;" name="actionType" value="TGVhZHM=">
+	            <input type="text" style="display:none;" name="returnURL" value="http://tboholidays.com/thankyou.aspx"> 
+	 <!-- Do not remove this code. -->
+                <div class="queryrow">
+                    <label>Name<span style="color:red;">*</span></label>
+                    <input type="text" name="Last Name">
+                    
+                </div>
+                
+                <div class="queryrow">
+                    <label>Email<span style="color:red;">*</span></label>
+                    <input type="text" name="Email">
+                    
+                </div>
+                
+                 <div class="queryrow">
+                    <label>Category<span style="color:red;">*</span></label>
+                  <select name="Industry">
+			        <option value="-None-">-None-</option>
+			        <option value="I am a Travel Agent">I am a Travel Agent</option>
+			        <option value="I am a Supplier">I am a Supplier</option>
+			        <option value="I am a Hotelier">I am a Hotelier</option>
+			        <option value="General Enquiries">General Enquiries</option>
+			        <option value="Other">Other</option>
+		        </select>
+                 </div>
+                
+                <div class="queryrow">
+                    <label>Our Products<span style="color:red;">*</span></label>
+                    <select name="Lead Source">
+			            <option value="-None-">-None-</option>
+			            <option value="White Label Solutions">White Label Solutions</option>
+			            <option value="Hotels XML API">Hotels XML API</option>
+			            <option value="Flight XML API">Flight XML API</option>
+			            <option value="Flight and Hotel XML/API">Flight and Hotel XML/API</option>
+			            <option value="Dynamic Packaging">Dynamic Packaging</option>
+			            <option value="Register as Travel Agent">Register as Travel Agent</option>
+			            <option value="Others">Others</option>
+		            </select>
+                </div>
+                
+                <div class="queryrow">
+                    <label>Phone No<span style="color:red;">*</span></label>
+                    <input type="text" name="Phone">
+                </div>
+                
+                <div class="queryrow">
+                    <label>Query</label>
+                    <textarea name="Description" rows="4" cols="20"></textarea>
+                   
+                </div>
+                 
+                
+                <div class="queryrow">
+                 <label>Please type code :  </label>
+                  <div class="fleft width_100"><img id="imgid" class="fleft" width="100" src="https://crm.zoho.com/crm/CaptchaServlet?formId=3ed0691bcf94a50280617449a739bf774e0054bd848e3797093d1f9f42483898&amp;grpid=5f6225e9cc4985a47f447eec71737789a55fb8d982cb5bd24bc5a51e47009096"> <input type="text" class="fleft" style="width:162px; margin-top:13px;" name="enterdigest"></div>
+                    
+	                 <div class="width_100 clr"><a href="javascript:;" onclick="reloadImg()">Reload</a></div>
+                </div>
+                
+                
+                <div class="queryrow" style="padding-bottom:10px;">
+                    <input type="submit" class="btn" value="Submit">
+                    <input type="reset" class="btn" value="Reset">
+                </div>
+                 <iframe name="captchaFrame" style="display:none;"></iframe>
+                
+                <script>
+                    var mndFileds = new Array('Last Name', 'Email', 'Phone', 'Lead Source', 'Industry');
+                    var fldLangVal = new Array('Name', 'Email', 'Phone No', 'Our Products', 'Category');
+
+                    /* Do not remove this code. */
+                    function reloadImg() {
+                        if (document.getElementById('imgid').src.indexOf('&d') !== -1) {
+                            document.getElementById('imgid').src = document.getElementById('imgid').src.substring(0, document.getElementById('imgid').src.indexOf('&d')) + '&d' + new Date().getTime();
+                        } else {
+                            document.getElementById('imgid').src = document.getElementById('imgid').src + '&d' + new Date().getTime();
+                        }
+                    }
+
+                    function checkMandatory() {
+                        var name = '';
+                        var email = '';
+                        for (i = 0; i < mndFileds.length; i++) {
+                            var fieldObj = document.forms['WebToLeads1573986000000087005'][mndFileds[i]];
+                            if (fieldObj) {
+                                if (((fieldObj.value).replace(/^\s+|\s+$/g, '')).length == 0) {
+                                    alert(fldLangVal[i] + ' cannot be empty');
+                                    fieldObj.focus();
+                                    return false;
+                                } else if (fieldObj.nodeName == 'SELECT') {
+                                    if (fieldObj.options[fieldObj.selectedIndex].value == '-None-') {
+                                        alert(fldLangVal[i] + ' cannot be none');
+                                        fieldObj.focus();
+                                        return false;
+                                    }
+                                } else if (fieldObj.type == 'checkbox') {
+                                    if (fieldObj.checked == false) {
+                                        alert('Please accept  ' + fldLangVal[i]);
+                                        fieldObj.focus();
+                                        return false;
+                                    }
+                                }
+                                try {
+                                    if (fieldObj.name == 'Last Name') {
+                                        name = fieldObj.value;
+                                    }
+                                } catch (e) { }
+                            }
+                        }
+                        try {
+                            if ($zoho) {
+                                var LDTuvidObj = document.forms['WebToLeads1573986000000087005']['LDTuvid'];
+                                if (LDTuvidObj) {
+                                    LDTuvidObj.value = $zoho.salesiq.visitor.uniqueid();
+                                }
+                                var firstnameObj = document.forms['WebToLeads1573986000000087005']['First Name'];
+                                if (firstnameObj) {
+                                    name = firstnameObj.value + ' ' + name;
+                                }
+                                $zoho.salesiq.visitor.name(name);
+                                var emailObj = document.forms['WebToLeads1573986000000087005']['Email'];
+                                if (emailObj) {
+                                    email = emailObj.value;
+                                    $zoho.salesiq.visitor.email(email);
+                                }
+                            }
+                        } catch (e) { }
+                    }
+	   </script>
+                
+             </form>
+           <!-- Do not remove this code. -->
+     <iframe name="captchaFrame" style="display:none;"></iframe>
+        </div>
+        
+        
+         <form style=" display:none;" name="Form1" method="post" action="Hoteliers.aspx" id="Form3" onclick="return validations()">
 <div>
 <!--<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzMwMjgxNjYzD2QWAmYPZBYCAg0PDxYCHghJbWFnZVVybAUnR2VuZXJhdGVDYXB0Y2hhLmFzcHg/NjM1NDUzMzk5MTA2Mzk4MTk5ZGRkSMl8yIv6gZPZfZeNxCAfw7U9DsA=">-->
 </div>
@@ -272,9 +416,15 @@ document.getElementById(id).style.display = 'inline';
 
 	<!--<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWFAKtwK6BBgL7uPQdArLNxoMNArCBu5YNAoSS0f8BAprbuOoGAtS72vsJAobU8+MFAuORiZ0KArPKzrUJAqr0jp4FArS954sCAoyA1IENAqH38u4LAtrukPQBAoeOv+8IAp2skdQNAp6blMcKAtXlyk0C3LuEtgRUSbNMAmtENT0N4+7FRXubVIQ++Q==">-->
 </div>
+        
+        
+        
+        
         <div class="queryrow">
         <label>Name: </label> <input name="name" type="text" id="name" placeholder="Your Name" value="">
         </div>
+        
+        
          <div id="ErrorMassegeclientname" style="font-size:10px;color:Red; margin-left:10px"> </div>
         <div class="queryrow">
         <label>Email: </label><input name="email" type="text" id="email" placeholder="Your Email" value="">
@@ -458,4 +608,4 @@ var google_remarketing_only = true;
 
 
 
-<script async="" src="https://radar.cedexis.com/1/15655/radar.js"></script></body></html>
+</body></html>
