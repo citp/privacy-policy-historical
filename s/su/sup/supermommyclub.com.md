@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the supermommyclub.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522025645id_/http%3A//www.supermommyclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supermommyclub.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119201532id_/http%3A//www.supermommyclub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Super Mommy Club
+# Privacy Policy
+
+[](http://www.supermommyclub.com/ "Super Mommy Club") where moms get organised!
 
 The privacy of our readers is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by this site and how it is used.
 
