@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nationwidelicensingsystem.org privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318195904id_/http%3A//nationwidelicensingsystem.org/about/policies/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationwidelicensingsystem.org privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119120307id_/http%3A//nationwidelicensingsystem.org/about/policies/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **STATE REGULATORY REGISTRY LLC PRIVACY POLICY**
 
-The State Regulatory Registry LLC (SRR) is committed to maintaining the privacy of your personal information. The following discloses our policy for gathering and disseminating information for this website. If you have any questions about your rights as a user of this service, you can reach us through our site administrator, Chris Moore, at cmoore@csbs.org.
+The State Regulatory Registry LLC (SRR) is committed to maintaining the privacy of your personal information. The following discloses our policy for gathering and disseminating information for this website. If you have any questions about your rights as a user of this service, you can reach us at [srr-privacy@csbs.org](mailto:srr-privacy@csbs.org).
 
 This Privacy Policy contains information about SRR’s commitment to your privacy, including:
 
@@ -79,4 +79,4 @@ SRR provides the following choices regarding the use of your information:
 
 **Security**
 
-We make every effort to have reasonable security procedures in place to protect the loss, misuse or alteration of information under our control, including using Secure Sockets Layer (SSL) technology to collect and transmit your information. If you have any questions about the security of our Website, please contact Mark Rippe at [mrippe@csbs.org](mailto:mrippe@csbs.org). 
+We make every effort to have reasonable security procedures in place to protect the loss, misuse or alteration of information under our control, including using Secure Sockets Layer (SSL) technology to collect and transmit your information. If you have any questions about the security of our Website, please email [security@csbs.org](mailto:security@csbs.org). 
