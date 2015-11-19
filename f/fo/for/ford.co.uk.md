@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ford.co.uk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610011728id_/http%3A//www.ford.co.uk/Footer/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ford.co.uk privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119010256id_/http%3A//www.ford.co.uk/Footer/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
