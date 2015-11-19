@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalinformationworld.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617042129id_/http%3A//www.digitalinformationworld.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalinformationworld.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119114753id_/http%3A//www.digitalinformationworld.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
