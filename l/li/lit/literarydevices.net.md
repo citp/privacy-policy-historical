@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the literarydevices.net privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510225043id_/http%3A//literarydevices.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the literarydevices.net privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119020015id_/http%3A//literarydevices.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Literary Devices
+# Privacy Policy | Literary Devices
 
 **Privacy Policy for literarydevices.net**
 
