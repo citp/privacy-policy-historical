@@ -1,86 +1,65 @@
-> *The following text is extracted and transformed from the musicfellas.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224015456id_/http%3A//www.musicfellas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicfellas.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119232150id_/http%3A//www.musicfellas.com/privacy-policy) for the most accurate reproduction.*
 
-# Musicfellas - Discover indie music like never before
+# Privacy Policy | MusicFellas
 
-## Privacy policy
+This Privacy Policy is in application to MusicFellas. This would impart how MusicFellas collects uses and shares the information from or regarding you as you visit a site, gives information on how advertisements are done, both on MusicFellas and other websites, and how information is collected based on interactions with the online ads. In addition to the Notice, depending on the relationship with MusicFellas, you may receive and be under the coverage of MusicFellas, other privacy disclosures within account opening documents and other privacy and security rules as applicable to the relevant affiliate.
 
-User provided information
+**Information Gathering**
 
-We may collect and store information, personal or otherwise, that you voluntarily supply either while on the website or in responding via email in connection with a feature provided on the website. Some examples of this type of information include demographic information that you electronically submit when you sign up for access to certain features on the website, information (such as your name or email address) that you electronically submit when you register for surveys or contests on the website, information that you post on message boards on the website, and information contained in search requests or questions that you submit to the website. If you decline to supply or provide us with certain information while using the website, you may not be able to use or participate in some or all of the features offered through the website.
+When you visit MusicFellas, categories of information may be gathered, including personal information that are provided via forms, applications, surveys, or other online fields. We can also collect information about you from online browsing and transactions, including preferences pages visited and technical information regarding your settings. Personal information means identifiable information and does not include aggregated date that the site could create or compile from various sources, including transactions and accounts. This information which does not single out individual customers is used by our site business purposes, including offering services or products, research, marketing or analyzing market trends and other purposes in congruence to existing laws.
 
-Cookies information
+**Cookies**
 
-When you visit the [musicfellas.com](http://www.musicfellas.com/) website, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. [musicfellas.com](http://www.musicfellas.com/) uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the website. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the website may not function properly.
+These are pieces of information stored on the computer upon use. MusicFellas or the third party service providers, as well as advertising service providers, may place cookies or flash objects on the hard drive for security purposes for the facilitation of site navigation and personalization of the experience.
 
-In addition, third party advertisers or third party ad servers that place and present advertising on the website also may collect information from you via cookies, web beacons, clear .gifs or similar technologies. These third party advertisers and ad servers may use the information they collect to help present their advertisements, to help measure and research the advertisements' effectiveness, or for other uses. The use and collection of your information by these third party advertisers and ad servers is governed by the relevant third party's privacy policy and is not covered by our privacy policy. Indeed, the privacy policy of these third party advertisers and ad servers may be different from our privacy policy.
+In visiting MusicFellas, we use cookies to go over your experience of the site. In applying for a product on one of our sites, we would use cookies to remember you and to provide information on products and services best fitting your needs. If you have an account with us and you access your accounts online, we will maintain the information about your visits to personalize your browsing experience, and the services and products offered. If you do not have an account with us and wish not for us to maintain the information, delete the cookies. For this, you would need to follow the browsers instructions for deleting and disabling cookies.
 
-Log file information
+**IP Addresses**
 
-When you use the [musicfellas.com](http://www.musicfellas.com/) website, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
+The IP address is a number assigned to the Internet accessing network or computer. Visitors IP addresses are stored in our log as they visit the site. These IP address are collected for administration of the system, reporting aggregate information, and auditing Site visits. In addition, some features of our site display IP address together with name and message, like on forums.
 
-Clear / Transparent GIFs information
+**Advertising**
 
-When you use the [musicfellas.com](http://www.musicfellas.com/) website, we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our users / members anonymously. In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients.
+The site advertises on pages within the site as well as other websites not affiliated with MusicFellas. Information collected in our advertising service providers though cookies and other technologies would include the number of people who look at each page on the site, browsing patterns within the site, search engine referrals, browsing patterns in MusicFellas and responses to promotions and advertisements on the sites where we advertise.
 
-E-mail Communications
+**Online Surveys**
 
-To make e-mails more useful and interesting, [musicfellas.com](http://www.musicfellas.com/) often receive a confirmation when you open e-mail from [musicfellas.com](http://www.musicfellas.com/) if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences.
+Time to time, you can be asked to do online surveys. You do not have the requirement to do such; but these are used to gather information to better address your needs. Based on this, we can keep you updated on account and service.
 
-Information from Other Sources
+**Planning Tools**
 
-[musicfellas.com](http://www.musicfellas.com/) might receive information about you from other sources and add it to our account information.
+MusicFellas gives users visiting websites with many planning tools, including mortgage, savings and plans for retirement. The information placed into these tools could be used for future access and use. We will inform you when the information is to be planned to stored, and you can have the option for this information not to be saved.
 
-  
-How is this information used?
+**Using and Sharing Information**
 
-If you submit personally identifiable information to us through the [musicfellas.com](http://www.musicfellas.com/) website, then we use your personal information to operate, maintain, and provide to you the features and functionality of the [musicfellas.com](http://www.musicfellas.com/) website.
+There would be times that MusicFellas could make information available to third parties that could be companies not related through common ownership or control, including service providers, insurance agencies, credit bureaus, retailers, membership organizations, government agencies, legal investigators, courts and other non-affiliated third parties as requested by you or your authorized representative, or otherwise when required or allowed by law. Unless differently describe in the Notice, for US account holders, we will use and share any information collected from or about you covered by the Notice in keeping with the Privacy Notice, providing consumers additional direct marketing choices.
 
-Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected, seen and used by others besides us. We cannot be and are not responsible for any unauthorized third party use of such information. Your account name (not your email address) is displayed to other users / members when you send messages through the [musicfellas.com](http://www.musicfellas.com/) website and other users / members can contact you through messages and comments
+**Social Media Connection**
 
-We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may provide our advertisers with information about you and other visitors that will enable our advertisers to better target ads to specific types of visitors. We reserve the right to use and to disclose to third parties all of the information that we collect online about you and other visitors in any way and for any purpose, with one important exception viz. We will not use the information that we collect online from you while you are using the website, nor will we authorize third parties to use such information, to mail or email promotional offers directly to you unless you have specifically informed us that you would like to receive promotional offers from us and/or from third parties. If you choose to receive these promotional offers, then your information may be used for direct mail or email marketing. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major [musicfellas.com](http://www.musicfellas.com/) website changes or for customer service purposes).
+MusicFellas provides experiences on social media platforms, enabling online sharing and collaboration with users. Any content posted, including pictures, information, opinions and other personal information made available to these platforms is subject to the Terms of Use and Privacy Policies of the Platforms. Kindly refer to these to understand you rights in keeping with the content.
 
-We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the [musicfellas.com](http://www.musicfellas.com/) website and to create new features, promotions, functionality, and services by storing, tracking, and analyzing user / member preferences and trends.
+**Accuracy of Information**
 
-We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the [musicfellas.com](http://www.musicfellas.com/) website; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, and contests.
+Keeping account information accurate and updated is essential. If the account information is inaccurate or incomplete, kindly use the Contact Us link on our site, call to inform us at the correct address or telephone numbers for changes in the account statements, records, online or other account materials.
 
-The website includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase third party products or services through the website, use of any information you provide is governed by the privacy policy of the operator of the website you are visiting or the provider of such products or services.
+**Linking to Other Sites**
 
-We may also make some content, products and services available through our website through cooperative relationships with third party providers, where the brands of our provider partner appear on the website in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly; in which cases the privacy policy of the provider partner may apply to the provider partner's use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information. Be aware that we may occasionally release information about visitors / members when release is appropriate to comply with law, to enforce our Terms of Service agreement, or to protect the rights, property or safety of users of the website, the public, or the [musicfellas.com](http://www.musicfellas.com/) website.
+We could provide link to sites not related to our service, including merchants and credit bureaus. If you follow links to websites not controlled by MusicFellas, you should go over the privacy policies and other terms, as they could diverge from other sites. MusicFellas will not guarantee and will not be responsible for the security or privacy of the said websites, including the completeness or accuracy of said information.
 
-We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+**Children’s Privacy**
 
-Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our website is acquired by another company, information about our visitors may be among the transferred assets.
+Most of our publications and web sites are intended for adults. Some web sites and publications, however, are intended for teens 13 and older but may include features or material that may be appealing to children under the age of 13. We are strongly committed to protecting the safety and privacy of children who visit our Web sites. We do not knowingly collect personal information online from children under 13. Many of our sites include bulletin boards and other features that we believe are unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their children’s use of the Internet.
 
-When does [musicfellas.com](http://www.musicfellas.com/) disclose any information?
+**Change in Company’s Ownership**
 
-We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliate companies, or other businesses or people for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
+If by chance another company obtains the assets in the business of MusicFellas, we reserve inclusion of the stored personal identification information along with the assets transferred to the new corporate owners.
 
-We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the [musicfellas.com](http://www.musicfellas.com/) website.
+**Service Customization**
 
-We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with any law or to respond to a court order or an order from any governing body or statutory authority.
+Target advertising to users is provided by the information collected about users. This is to allow all the pertinent advertising to be displayed. Customization of certain website features we provide is done with the information that is collected.
 
-[musicfellas.com](http://www.musicfellas.com/) also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that [musicfellas.com](http://www.musicfellas.com/) believes, in good faith, is appropriate or necessary to enforce our Terms of Use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our website, and to protect the rights, property, or personal safety of [musicfellas.com](http://www.musicfellas.com/), our users / members or others.
+**Third-Parties**
 
-  
-Our Assurance & Commitment towards Data Security
+Third-parties are contracted for specific services such as credit card processing and list generation. Any information that is required to perform these services is provided to the service provider.
 
-[musicfellas.com](http://www.musicfellas.com/) use commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to [musicfellas.com](http://www.musicfellas.com/) and you do so at your own risk. Once we receive your transmission of information, [musicfellas.com](http://www.musicfellas.com/) makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
-
-If [musicfellas.com](http://www.musicfellas.com/) learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps.[musicfellas.com](http://www.musicfellas.com/) may post a notice on the [musicfellas.com](http://www.musicfellas.com/) website if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify the [musicfellas.com Privacy Coordinator](mailto:hello@musicfellas.com).
-
-Special Note to INTERNATIONAL USERS / MEMBERS
-
-[musicfellas.com](http://www.musicfellas.com/) is registered in India. If you are a user / member accessing the [musicfellas.com](http://www.musicfellas.com/) website from any other region with laws or regulations governing personal data collection, user, protection and disclosure, that differ from the applicable Indian laws, please note that through your use of the [musicfellas.com](http://www.musicfellas.com/)website, this Privacy Notice, and our Terms of Use, you are transferring your Personal Information to India and you are giving a complete consent for the mentioned transfer. [musicfellas.com](http://www.musicfellas.com/) will, at any point of time, be complying with the legal provisions on the subject matter, as applicable in India from time to time.
-
-Changes to Your Personal Information on site   
-Notification Of Changes
-
-[musicfellas.com](http://www.musicfellas.com/) reserve the right at any time to: change the terms of this Agreement; change the Services, including eliminating or modifying any content on or feature of the website; or change/charge any fees or charges for use of the Services.
-
-Conflict Resolution
-
-[musicfellas.com](http://www.musicfellas.com/) is committed to resolving disputes as soon as feasible and shall endeavor to resolve all disputes brought to our notice in keeping with the mechanism prescribed.
-
-Access / Choice
-
-You will always have access to your registration information, which you can modify at any time by clicking on the "Edit Profile" subsection of the "My Account" area of the website, so long as you continue to provide us with certain information required to maintain your subscription (such as a valid email address). Also, marketing e-mails from [musicfellas.com](http://www.musicfellas.com/) will come with instructions for un-subscribing from our email mailing list.
+We use third-party advertising companies to serve ads and collect data when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/choices/)
