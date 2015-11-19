@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clarksusa.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626103410id_/http%3A//www.clarksusa.com/us/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarksusa.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119034934id_/http%3A//www.clarksusa.com/us/customer-service/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Information - Clarks
+# Privacy Policy Information - Clarks® Shoes
 
 C & J Clark America, Inc. and our family of brands, which include, but are not limited to Clarks, Bostonian, Privo, and Indigo (collectively known as "Clarks"), value and respect your individual privacy. As part of our commitment to providing exceptional products and services, we collect personal information during our interactions with you. The following privacy policy outlines what information we collect, how it is handled, and the steps we take to ensure that it remains protected.
 
@@ -28,13 +28,15 @@ Clarks may, on occasion, request information from you using surveys, sweepstakes
 • | **Visitors** When you choose to browse our Sites as a visitor, we gather only non-personally identifiable information from you, as outlined in the "Cookies and Other Web Applications" section of this policy.  
   
 **Cookies and other web applications**  
-Clarks uses cookies and other technologies to better understand the needs and wants of our customers. Cookies are small data text files which are automatically transferred from our Sites to your computer’s hard drive for identification purposes. Cookies allow us to recognize your web browser every time you visit, so that we can personalize your experience and identify the areas of our Sites which are most relevant to you.
+Clarks uses cookies and other technologies for remarketing purposes and to better understand the needs and wants of our customers. Cookies are small data text files which are automatically transferred from our Sites to your computer’s hard drive for identification purposes. Cookies allow us to recognize your web browser every time you visit, so that we can personalize your experience and identify the areas of our Sites which are most relevant to you.
 
 Clarks also uses cookies to collect aggregate data about our customer base. Through the use of cookies, we are able to track which parts of our Sites are most popular, where our visitors are going, and how much time they spend there. Such information helps us to provide you with improved services and a better overall site experience.
 
 If you would prefer not to accept cookies from our Sites or any others, you can modify your browser preferences to refuse them. In order to do so, please refer to your browser’s "help" section.
 
 In addition to using cookies, we also gather non-personally identifiable "click stream" data and store it in our website log files. "Click stream" data records your Internet Protocol (IP) address, browser type, Internet Service Provider (ISP), previously visited web pages, and domain name. We use this data solely to improve the content of our Sites and to understand the demographics of our customer base. We will not use this information to market directly to you, as our website logs do not store any personally identifiable information.
+
+Criteo: Clarks utilizes Criteo cookies for remarketing purposes. In particular, the Criteo technology allows Clarks to serve personalized advertisements on our partner websites to those internet users who have shown an interest in our Sites and products. To learn more about the Criteo service, or to opt out of receiving Criteo advertisements, please visit <http://www.criteo.com/privacy/>.
 
 **Third parties and your information**  
 Clarks does not sell, rent, trade, or otherwise share your personal information with third parties without first giving you advance notice, except as set forth in this privacy policy. We may disclose your information to third parties with whom you explicitly ask us to share your information, where it is permitted or required by law, and as it is necessary for business operation purposes.
