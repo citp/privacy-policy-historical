@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business.gov privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610050023id_/http%3A//business.usa.gov/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.gov privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119094620id_/http%3A//business.usa.gov/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Security | BusinessUSA
 
@@ -6,26 +6,19 @@ Business.USA.gov or USA.gov doesn't collect personal information when you visit 
 
 ## Information Collected and Stored Automatically
 
-When you visit, we may store some or all of the following: the Internet address from which you access Business.USA.gov, date and time, the Internet address of the web site from which you linked to Business.USA.gov, the name of the file or words you searched, items clicked on a page, and the browser and operating system used.
-
-This information is used to measure the number of visitors to the various sections of our site and identify system performance or problem areas. We also use this information to help us develop the site, analyze patterns of usage, and to make the site more useful. This information is not used for associating search terms or patterns of site navigation with individual users. Business.USA.gov periodically deletes its Web logs. On occasion, Business.USA.gov may provide this information to third party entities it contracts with for the purposes of research analysis only. 
+When you visit, we may store some or all of the following: the Internet address from which you access Business.USA.gov, date and time, the Internet address of the web site from which you linked to Business.USA.gov, the name of the file or words you searched, items clicked on a page, and the browser and operating system used. This information is used to measure the number of visitors to the various sections of our site and identify system performance or problem areas. We also use this information to help us develop the site, analyze patterns of usage, and to make the site more useful. This information is not used for associating search terms or patterns of site navigation with individual users. Business.USA.gov periodically deletes its Web logs. On occasion, Business.USA.gov may provide this information to third party entities it contracts with for the purposes of research analysis only.
 
 ## Use of Persistent Cookies
 
-Like many websites, Business.USA.gov uses "persistent cookie" technology. A persistent cookie is a small text file that this website places on your computer so that it can remember you when you show up again later�kind of like cookie crumbs! (Hence the name.) We use persistent cookies to enhance your experience on Business.USA.gov while also protecting your privacy. To get aggregate metrics on site usage to understand how people are using the site and how we can make it better. We use web metrics services to track activity on Business.USA.gov. Government agencies only ever receive traffic statistics anonymously and in the aggregate.
-
-Most Internet browsers automatically accept persistent cookies. Although we think using persistent cookies creates a much better experience for you, this site will also work without them. If you don't want to accept cookies, you can edit your browser's options to stop accepting persistent cookies or to prompt you before accepting a cookie from the websites you visit; [here's how to disable cookies](http://www.usa.gov/optout-instructions.shtml "Opt-out of persistent cookies").
+Like many websites, Business.USA.gov uses "persistent cookie" technology. A persistent cookie is a small text file that this website places on your computer so that it can remember you when you show up again later kind of like cookie crumbs! (Hence the name.) We use persistent cookies to enhance your experience on Business.USA.gov while also protecting your privacy. To get aggregate metrics on site usage to understand how people are using the site and how we can make it better. We use web metrics services to track activity on Business.USA.gov. Government agencies only ever receive traffic statistics anonymously and in the aggregate. Most Internet browsers automatically accept persistent cookies. Although we think using persistent cookies creates a much better experience for you, this site will also work without them. If you don't want to accept cookies, you can edit your browser's options to stop accepting persistent cookies or to prompt you before accepting a cookie from the websites you visit,[ Here's how to disable cookies](http://www.usa.gov/optout-instructions.shtml "Opt-out of persistent cookies").
 
 ## If You Provide Us Personal Information
 
-We do not collect personal information for any purpose other than to respond to your requests. The only personal information that we collect is what you decide to give us by providing your business email address to receive updates sending or alert services by e-mail. If you choose to provide us with personal information we use that information to respond to your message, and to help get you the information you requested.   
-We only share the information you give us with another Government agency if your question relates to that agency, or as otherwise as required by law. Business.USA.gov never shares information with other entities for commercial marketing.
+We do not collect personal information for any purpose other than to respond to your requests. The only personal information that we collect is what you decide to give us by providing your business email address to receive updates sending or alert services by e-mail. If you choose to provide us with personal information we use that information to respond to your message, and to help get you the information you requested. We only share the information you give us with another Government agency if your question relates to that agency, or as otherwise as required by law. Business.USA.gov never shares information with other entities for commercial marketing.
 
 ## Site Security
 
-For site security purposes and to ensure that this service remains available to all users, this Government computer system employs commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.  
-Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with National Archives and Records Administration guidelines.  
-Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986, the National Information Infrastructure Protection Act and other applicable laws.
+For site security purposes and to ensure that this service remains available to all users, this Government computer system employs commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with National Archives and Records Administration guidelines. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986, the National Information Infrastructure Protection Act and other applicable laws.
 
 ## External Links
 
@@ -49,5 +42,4 @@ The information posted on the Business.USA.gov website includes hypertext links 
   * GSA and Business.USA.gov are not responsible for transmissions users receive from linked websites.
   * GSA and Business.USA.gov do not guarantee that outside websites comply with Section 508 (accessibility requirements) of the Rehabilitation Act.
 
-  
 
