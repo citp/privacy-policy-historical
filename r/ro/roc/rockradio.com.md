@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockradio.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521080810id_/http%3A//www.rockradio.com/member/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockradio.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119033955id_/http%3A//www.rockradio.com/member/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ROCKRADIO.COM | rock music for life
 
