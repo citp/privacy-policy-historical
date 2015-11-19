@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bootstrapbay.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423081856id_/http%3A//bootstrapbay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootstrapbay.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119071510id_/http%3A//bootstrapbay.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BootstrapBay
 
