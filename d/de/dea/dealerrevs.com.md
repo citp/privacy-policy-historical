@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealerrevs.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608153945id_/http%3A//dealerrevs.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealerrevs.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119081421id_/http%3A//dealerrevs.com/privacy_policy.html) for the most accurate reproduction.*
 
 # DealerRevs.com Privacy Policy Notice | DealerRevs.com
 
