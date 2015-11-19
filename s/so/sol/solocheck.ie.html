@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the solocheck.ie privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607210005id_/http%3A//www.solocheck.ie/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the solocheck.ie privacy policy that was archived on 2015-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151119074408id_/http%3A//www.solocheck.ie/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox flexboxlegacy canvas canvastext postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache" lang="en" style=""><!--<![endif]--><head>
 <title>Data Protection and Privacy - Irish Company Info - SoloCheck</title>
@@ -26,7 +26,7 @@
 <link rel="apple-touch-icon" sizes="144x144" href="/imgs/solocheck_144.png">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" href="/css/style.min.css?v=7" media="screen">
+<link rel="stylesheet" href="/css/style.min.css?v=9" media="screen">
 <style type="text/css" media="print">
 p {color:#000}
 #header, #footer, .rhs, #gns, #banner, .search, .loggedIn, img, .statusBar, .details, .ratings, .largeTabs, .buyNow, #cookie-policy {display:none;}
@@ -54,8 +54,12 @@ function hideCookieDiv() {
 	try {
 		var toggleStyle = document.getElementById('cookie-policy').style;
 		toggleStyle.display = 'none';
-	} catch (ignore) { }
+                if(document.getElementById('jobDiv')){
+                   document.getElementById('jobDiv').style.display = 'block'; 
+                }
+            } catch (ignore) { }
 }
+
 function setCookieCookie() {
 	try {
 		var exdate=new Date();
@@ -68,7 +72,7 @@ function setCookieCookie() {
 </head>
 <body>
 <div class="bodyDiv">
-<div id="wrapper" class="container_12 clearfix">
+    <div id="wrapper" class="container_12 clearfix">
 <div id="header">
 <div class="grid_12">
 <header><h1><a href="/"><img src="/imgs/logo.png" alt="SoloCheck.ie"></a></h1></header>
@@ -109,6 +113,7 @@ function setCookieCookie() {
 <li><a href="/checkIndividuals.jsp" style="padding-left: 24px;"><img style="position: absolute; width: 27px; margin-left: -24px; margin-top: -30px;" src="/imgs/new-icon.png" alt="new">Check Individuals</a></li>
 <li><a href="/barometer.jsp">Business Barometer</a></li>
 <li class="last"><a href="/Irish-Industry-Review">Industry Review</a></li>
+
 </ul></nav></div> <div id="main" class="rounded">
 <div id="wide-content">
 <h1>Data Protection and Privacy</h1>
@@ -216,9 +221,7 @@ function setCookieCookie() {
 		</footer>
 	</div>
 	<div class="container_12">
-		<div class="grid_6"><p id="copy" style="clear:both;">©SoloCheck.ie 2015 
-			&nbsp;&nbsp;<a href="http://arekibo.com/solocheck/" id="designedBy">Site Design By Arekibo</a>
-		<br>Data Updated: 07 Jun 2015
+		<div class="grid_6"><p id="copy" style="clear:both;">©SoloCheck.ie 2015 <br>Data Updated: 19 Nov 2015
 </p></div>
 		<script>
 				ga('create', 'UA-904374-1', 'auto');
