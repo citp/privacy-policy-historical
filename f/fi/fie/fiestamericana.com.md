@@ -1,48 +1,23 @@
-> *The following text is extracted and transformed from the fiestamericana.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701075812id_/http%3A//www.fiestamericana.com/en/securitycontent) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiestamericana.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119231304id_/http%3A//www.fiestamericana.com/en/security-and-privacy) for the most accurate reproduction.*
 
-# Security and Privacy - posadas.com
+# Fiesta Americana - Security Content
 
 **PRIVACY NOTICE**
 
  **A. ****Identity**
 
-Grupo Posadas, S.A.B. de CV and its affiliates and / or subsidiaries (hereinafter referred to collectively as Posadas), headquartered at Paseo de la Reforma 155, Fourth Floor, Col. Lomas de Chapultepec, Miguel Hidalgo, CP 11000, Mexico City, Mexico, is committed to protecting your privacy. Posadas’ Department of Personal Data oversees all identity, privacy and data protection and is located at the same headquarters address. You may contact the department directly at [datos.personales@posadas.com](mailto:datos.personales@posadas.com).
+Grupo Posadas, S.A.B. de CV and its affiliates and / or subsidiaries (hereinafter referred to collectively as Posadas), headquartered at 1015th Prolongación Paseo de la Reforma, Ninth Floor, Col. Santa Fe, Alvaro Obregon, CP 01210, Mexico City, Mexico, is committed to protecting your privacy. Posadas’ Department of Personal Data oversees all identity, privacy and data protection and is located at the same headquarters address. You may contact the department directly at [datos.personales@posadas.com](mailto:datos.personales@posadas.com).
 
 The privacy policy outlined here applies to the following Posadas websites.
 
-[posadas.com](http://www.posadas.com/ "Posadas.com")
+-[posadas.com ](http://www.posadas.com/ "Posadas.com") -[favc.com](http://www.favc.com/ "FAVC.com")
 
-| 
+-[liveaqua.com](http://www.liveaqua.com/ "LiveAqua.com") -[kivak.com.mx](http://www.kivak.com.mx/ "Kivak")  
+-[fiestamericanagrand.com](http://www.fiestamericanagrand.com/ "Fiesta Americana Grand") -[the-frontdoor.com](http://www.the-frontdoor.com/ "The Front Door")  
+-[fiestamericana.com](http://www.fiestamericana.com/ "Fiesta Americana") -[globogo.com](http://www.globogo.com/ "Globogo")  
+-[fiestainn.com](http://www.fiestainn.com/ "Fiesta Inn") -[fiestarewards.com](http://www.fiestarewards.com/ "Fiesta Rewards")  
+-[gammahoteles.com](http://www.gammahoteles.com/ "Gamma Hoteles") -[apreciare.com](http://www.apreciare.com/ "Apreciare")
 
-[](http://www.fiestainn.com/ "Fiesta Inn")[explorean.com](http://www.explorean.com/ "The Explorean Kohunlich")
-
-| [kivac.com.mx](http://www.kivac.com.mx/ "Kivac")| [fa-paquetesvacacionales.com](http://www.fa-paquetesvacacionales.com/ "Paquetes Vacacionales")  
----|---|---|---  
-  
-[liveaqua.com](http://www.feel-aqua.com/ "Live Aqua")
-
-| 
-
-[](http://www.onehotels.com/ "One Hotels")[fiestainn.com](http://www.fiestainn.com/ "Fiesta Inn")
-
-| [globogo.com](http://www.globogo.com/ "Globo Go")| [fiestarewards.com](http://www.fiestarewards.com/ "Fiesta Rewards")  
-  
-[fiestamericanagrand.com](http://www.fiestamericanagrand.com/en/ "Fiesta Americana Grand")
-
-| 
-
-[onehotels.com](http://www.onehotels.com/ "One Hotels")
-
-| [fa-vacationclub.com](http://www.fa-vacationclub.com/ "Vacation Club")| [apreciare.com](http://www.apreciare.com/ "Apreciare")  
-  
-[fiestamericana.com](http://www.fiestamericana.com/ "Fiesta Americana")
-
-| 
-
-[ ](http://www.kivac.com.mx/ "Kivac")[favc.com](http://www.favc.com/ "Fiesta Americana Vacation Club")
-
-| [the-frontdoor.com](http://www.the-frontdoor.com/ "The Front Door")| [motivatuventa.com](http://www.motivatuventa.com/ "Motiva")  
-  
  **B. ****Personal Data**
 
 For the purposes laid out in this Privacy Policy, Posadas may collect personal information in several different ways: when you provide the information to Posadas directly, when you visit Posadas websites, when you use online services offered by Posadas, and when collected by Posadas through other means allowed by the law.
@@ -76,7 +51,7 @@ Events when personal data is not required for Posadas to provide a service:
 
  **E. ****Limitations on the Use or Disclosure of Personal Data**
 
-At any time you may request that your personal information not be used for purposes other than those purposes that are legally required for Posadas to provide you with a service. You must submit this request in writing to Posadas’ Department of Personal Data at the following address: Paseo de la Reforma 155, Fourth Floor, Col. Lomas de Chapultepec, Miguel Hidalgo, CP 11000, Mexico City, Mexico or email it to [datos.personales@posadas.com](mailto:datos.personales@posadas.com). Written requests will be processed between 9am and 2pm Monday through Friday.
+At any time you may request that your personal information not be used for purposes other than those purposes that are legally required for Posadas to provide you with a service. You must submit this request in writing to Posadas’ Department of Personal Data at the following address: 1015th Prolongación Paseo de la Reforma, Ninth Floor, Col. Santa Fe, Alvaro Obregon, CP 01210, Mexico City or email it to [datos.personales@posadas.com](mailto:datos.personales@posadas.com). Written requests will be processed between 9am and 2pm Monday through Friday.
 
 Any such requests must include at least the following items: (i) Name of the owner of the personal data; (ii) An email address where a confirmation notice may be sent; (iii) Documents proving your identity or demonstrating your legal representation for the owner; (iv) A clear and concise description of the personal data in question and the requested action; (v) Any other item or document that will facilitate the request or the locating of your personal data. If the request is missing any of these requirements, the Department of Personal Data may respond within 5 days of your request and ask that you provide the required information or documents. In this event, you will have 10 days to submit the needed information or documents. If you do not respond with the missing items in that timeframe, no further action will be taken and no changes will be made to your personal data or their usage.
 
@@ -102,4 +77,8 @@ They are stored on your computer’s hard drive and are used to determine your p
 
 Posadas may update this privacy policy at any time. In the event that substantial changes are made to our policy, we will notify you via the websites listed in subsection A of this Privacy Policy. We also recommend that you visit this statement periodically in order to be aware of any updates. 
 
-Last updated: April 2, 2013
+I agree and accept the terms of Privacy Notice, and otherwise I will get in contact with Posadas as indicated in the subsections E. and F. of this Privacy Notice.
+
+In case of any grievance or complaint about the treatment of your personal data, you can contact the Federal Institute for Access to Information and Data Protection.
+
+Last updated: November 1st, 2014
