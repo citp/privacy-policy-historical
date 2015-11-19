@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scenicreflections.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519023900id_/http%3A//www.scenicreflections.com/privacy-and-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scenicreflections.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119043856id_/http%3A//www.scenicreflections.com/privacy-and-terms) for the most accurate reproduction.*
 
 # ScenicReflections Premium Free Desktop Screensaver Downloads
 
