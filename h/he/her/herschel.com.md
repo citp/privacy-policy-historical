@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herschel.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325223649id_/http%3A//www.herschelsupply.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herschel.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121000716id_/http%3A//www.herschelsupply.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Herschel Supply Co.
 
