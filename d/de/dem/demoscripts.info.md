@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demoscripts.info privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521054135id_/http%3A//demoscripts.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demoscripts.info privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120135854id_/http%3A//demoscripts.info/privacy.php) for the most accurate reproduction.*
 
 # PHP Scripts Demo
 
