@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upromise.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527182446id_/http%3A//www.upromise.com/legal/privacy/%3Flnkid%3DUPR-VFooterNav-Pgbottom-PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upromise.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120235124id_/http%3A//www.upromise.com/legal/privacy/%3Flnkid%3DUPR-VFooterNav-Pgbottom-PrivacyPolicy) for the most accurate reproduction.*
 
 # Upromise Privacy Policy
 
