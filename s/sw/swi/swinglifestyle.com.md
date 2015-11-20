@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swinglifestyle.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427231650id_/http%3A//www.swinglifestyle.com/login/pp2.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swinglifestyle.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120042631id_/http%3A//www.swinglifestyle.com/login/pp2.cfm) for the most accurate reproduction.*
 
-# 
+# Adult Swingers Club Service and LifeStyle info.
 
 #### DashBoardHosting Privacy Policy
 
