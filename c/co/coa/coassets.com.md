@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coassets.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522010241id_/http%3A//www.coassets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coassets.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120032608id_/http%3A//coassets.com/privacy) for the most accurate reproduction.*
 
 # CoAssets | Privacy and Data Protection Policy
 
