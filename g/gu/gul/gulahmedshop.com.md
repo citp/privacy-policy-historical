@@ -1,72 +1,48 @@
-> *The following text is extracted and transformed from the gulahmedshop.com privacy policy that was archived on 2015-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150214075328id_/http%3A//gulahmedshop.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulahmedshop.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121001250id_/http%3A//www.gulahmedshop.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Gul Ahmed Shop, Pakistan
+# Privacy Policy - Gul Ahmed
 
-## Privacy Policy
+Thank you for visiting our web site. Gul Ahmed values the relationship we have with our customers and we are committed to responsible information handling practices. Your privacy on the Internet is important to us. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted.
 
-| 
+## Collection of Information
 
-This privacy policy sets out how GULAHMED TEXTILE MILLS uses and protects any information that the valued user shares during registration and / or during regular browsing from our E SHOPPING Portal, www.gulahmedshop.com.
+We collect personal information such as your contact information (name, e-mail address, etc.), and billing/shipping information (credit card number, shipping address, etc.) We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input at 128-bit strength. The information you provide is used to fulfill your specific request. It is not disclosed to any third party in any way that personally identifies you.
 
-Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+## Cookie and Tracking Technology
 
-Changes brought to this privacy policy may be seen from time to time. Hence it is advised that users check this page more often so to see the changes as brought in policy, which then also complies with the interest of every member as seen of planning to shop online from GULAHMED.   
-  
----  
-   
-**PRIVACY POLICY: NEW REGISTRATION**  
-This section is valid for First Time Users, planning to make their Online Account on our dedicated secure server.  
-Incase if you are an old customer then you may prefer to skip this section, and continue reading from the next heading.  
-New users, planning to make an account on our Online Shop servers, should note the information that they would be sharing with GULAHMED  
-  
-  * Customer Name
-  * Customer Account Password
-  * Contact Information
-  * Feedbacks and Comments
+This site may use cookie and tracking technology, depending on the features offered. A cookie is a small data file that a web site may send to your browser and which may then be stored on your hard drive. This will enable our systems to recognize your browser and provide features such as the storage of items in your Shopping Cart. No personal information is stored in these cookies. However, if you disable cookies, you may not be able to complete your transactions on this web site. We recommend that you leave them turned on or contact our Customer Service to have your order placed.
 
-  
-  
-**All the above information is kept on our highly dedicated A.V10 servers that involves little or no human intervention and where data is retrieved through coding scripts that then verifies each applicant of being the rightful owner for the given account
+Our web site may also use other technologies to track pages on our web site that our visitors view; for gathering information such as browser type and operating system; tracking the number of visitors on this site; and understanding how visitors use our site.
 
-Else email and contact information are retrieved on time to time basis for cross marketing activities, for which users are given flexibility to opt out from this feature by sending an email to [mediamarketing@gulahmed.com](mailto:mediamarketing@gulahmed.com)
+We may track the Internet domain address from which people visit us and analyze this data for trends and statistics, but individual users will remain anonymous, unless you voluntarily tell us who you are.
 
-**  
-   
-**PRIVACY POLICY: FOR CURRENT USERS**  
-  
-  * Information as shared by users is kept in our highly secure dedicated servers that carry little or no human intervention,, that abides with the DATA PROTECTION ACTION 1998
-  
+## SSL Technology
 
-  * The automated interface with pre edited script command for 0% tolerance of cross connectional leak of stated desired coded scripts, enables every user to 100% trust the brand when providing the information
-  
+Your privacy on the Internet is important to us. We use Secure Sockets Layer (SSL) technology that allows us to encrypt sensitive information you input at 128-bit strength. Secure Sockets Layer (SSL) technology is presently the safest way to send credit card information over the Internet. Information is first encrypted on your computer and then decrypted on our server, preventing anyone from accessing any information in between. This is often symbolized on most web-browsers by a small padlock appearing on the bottom bar of the window and the prefix of the URL changing from http:// to https://. This indicates that a secure connection has been established.
 
-  * In some cases, User details would be retrieved but this would be for marketing purposes that would use email address and phone numbers If not this then to authenticate buyer's transaction and to proceed with daily order processing that involves comparing the order and amount with the clearance of batches from MERCHANT service provider
-  
+## Your Account Information
 
-  
-**YOUR PAYMENTS AND CREDIT CARD DETAILS**  
-GULAHMED strictly does not keep any of the credit card details with them as this is customer automatically shares with the MERCHANT SERVICE PROVIDER By first getting approval from the said bank and then forwarding this to the rightful MERCHANT SERVICE PROVIDER.  
-   
-**USAGE OF COOKIES**  
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+When creating an account with GulAhmedShop.com, you'll be asked to provide a personal password. You will be required to use your chosen password for all future access to your account. You are responsible for maintaining the confidentiality of your account and password and for restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account or password. Gul Ahmed reserves the right to refuse service, terminate accounts, remove or edit content, or cancel orders in its sole discretion.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.  
-  
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
+## Electronic Communication
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.  
-  
-   
-**MISC**  
-**We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+Your email address is used to contact you concerning inquiries before, during and after your order is placed. We also use your email address to inform you of our new products, services and offers. You can opt out of such marketing communications at any time. All marketing email and direct mail communications, such as sale emails, newsletters and exclusive special offers, have easy-to-follow instructions on how to stop receiving them.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the below address. We will promptly correct any information found to be incorrect.
+## Errors
 
-**  
-GULAHMED TEXTILE MILLS  
-H/7 LANDHI INDUSTRIAL AREA  
-KARACHI PAKISTAN  
-74600  
-111 486 486 Ext 6521 / 6536 / 6530  
-[mediamarketing@gulahmed.com](mailto:mediamarketing@gulahmed.com)  
- 
+We try our best to provide accurate information on our site. However, there may be times when some information on the site is inaccurate, out-of-date or incomplete. We apologize for such errors; but if we receive orders for products for which the listed cost is erroneously lower than the actual price, we will not be able to process such orders as it will not be feasible for us to sell those items below our cost or take a loss on freight charges.
+
+## Contact Information
+
+If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
+
+  * By E-Mail: customerservice@gulahmedshop.com
+  * By Phone: +92-21-111 485 485 Ext-6510, 6542, 6536,6521,6518
+
+
+
+## Policy Changes
+
+Our business changes constantly and we will continue to implement new technologies to improve the services and features we provide. As a consequence, the terms in this Privacy Policy may change also. All such changes and additions will be posted here promptly. The new policy will apply to all current and past users of our web site and will replace any prior policies that are inconsistent. This policy was posted in September 2015.
+
+Please check our website frequently to see recent changes.
