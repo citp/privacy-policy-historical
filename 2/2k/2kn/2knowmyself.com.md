@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2knowmyself.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041122id_/http%3A//www.2knowmyself.com/Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2knowmyself.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120072951id_/http%3A//www.2knowmyself.com/Privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy | 2KnowMySelf
 
@@ -19,8 +19,3 @@ We also use third party advertisements on www.2knowmyself.com to support our sit
 This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
-
-  
-style="display:inline-block;width:336px;height:280px"  
-data-ad-client="ca-pub-4653196880932757"  
-data-ad-slot="5529508920">
