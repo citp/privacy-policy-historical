@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the terrificpets.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513034514id_/http%3A//www.terrificpets.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terrificpets.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120133305id_/http%3A//terrificpets.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Dogs for Sale - Cats for Sale : TerrificPets.com
 
-TerrificPets.com, an OffLeashMedia company, is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. TerrificPets.com collects information from our users at several different points on our website. 
+TerrificPets.com, or any successor to that entity (“OffLeashMedia Inc.” or “OffLeashMedia”), is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. TerrificPets.com collects information from our users at several different points on our website. 
 
 ### Registration 
 
