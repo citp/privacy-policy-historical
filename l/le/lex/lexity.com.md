@@ -1,85 +1,86 @@
-> *The following text is extracted and transformed from the lexity.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924094555id_/https%3A//lexity.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexity.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121002342id_/https%3A//lexity.com/terms/privacy) for the most accurate reproduction.*
 
 # Terms | Privacy Policy
 
-Last updated: September 16, 2013 
+The services and products (the "Services") are provided by Aabaco Small Business, LLC and its subsidiaries (the "Company") primarily to help fuel the growth and success of businesses on the Internet. The Company is a wholly-owned subsidiary of Yahoo! Inc. ("Yahoo").
 
-_On July 30, 2013, Lexity, Inc. was acquired by Yahoo. Currently, information collected by Yahoo Commerce Central (formerly Lexity) is subject to this Privacy Policy. In the future, you may be asked to link your Yahoo Commerce Central information to an existing or new Yahoo ID. At that point, the Yahoo Privacy Policy will apply to all information provided as part of your use of Yahoo Commerce Central._
+###  **COVERED IN THIS PRIVACY POLICY**
 
-* * *
+This policy applies only to the Company and covers how we treat the Personal Information we collect through interaction with our sites, apps, products, and services. **Personal Information** is information about You that identifies You personally, like Your full name, address, email address, or phone number, and that is not otherwise publicly available, but is not business contact information. The Company’s sites, products and services may not be used by children under the age of 13. 
 
-Welcome to the Web site of Yahoo Commerce Central (formerly Lexity), a service of Lexity, Inc., a Delaware corporation and subsidiary of Yahoo! Inc. (collectively, “Lexity,” “Yahoo,” “we,” “our,” or “us"). This privacy policy describes our collection of information from users of our Web site at <https://lexity.com/> (the “Site”) and the various services we provide on the Site (the “Services”), as well as our use and disclosure of that information. By using our Site or our Services, you consent to the collection and use of information in accordance with this policy. 
+Personal Information collected by the Services is shared with Yahoo. Yahoo's [Privacy Policy](https://privacy.yahoo.com/?soc_src=mail&amp;soc_trk=ma) governs its use of that information. 
 
-###  Personal Information 
+**NOT COVERED:**
 
-“Personal information,” as used in this policy, is information that specifically identifies a person, such as a person’s name, address, telephone number, or e-mail address. Personal information also includes information about a person’s activities, such as information about his or her activity on our Site or our Services, and demographic information, such as date of birth, gender, geographic area, and preferences, when any of this information is linked to personal information that identifies that person. 
+  * This policy does not override any elements of the terms directly established with the Company customers or partners, including the [Terms of Service](https://www.luminate.com/tos). Capitalized terms not defined herein have the meanings set forth in the [Terms of Service](https://www.luminate.com/tos). 
+  * The Company’s customers operate their own businesses, with their own websites, with or without the technical assistance of the Company, and all of their data collection and use is governed by their own privacy policies.
+  * This policy does not apply to the practices of companies that the Company does not own or control, or to people that the Company does not employ or manage.
 
-Personal information does not include “aggregate” or other non-personally identifiable information. Aggregate information is information that we collect about a group or category of products, services, or users that is not personally identifiable or from which individual identities are removed. We may use and disclose aggregate information, and other non-personally identifiable information, for various purposes. 
 
-###  Collection of Information 
 
-####  Passive Information Collection 
+###  **INFORMATION COLLECTION AND USE**
 
-When you visit the Site or use our Services, some information is automatically collected, such as your computer’s IP address, browser type, system type, the content and pages that you access on the Site or Service, “referring URL” (i.e., the page from which you navigated to the Site), the pages from which you navigate to and from the Site or Service, and the time you spend on the Site or the Service. 
+The Company collects Personal Information when You register with the Company; when You interact with the Company's sites, apps, products, development tools, marketing programs, or services, and pages of the Company customers and some partners; when You sign-up for a newsletter or when You enter a promotion or sweepstakes. The Company may combine information about You that we have with information we obtain from customers or partners, publicly available information, or other companies.
 
-We collect this information passively using technologies such as standard server logs, cookies, and clear GIFs (also known as “Web beacons”). We use passively-collected information to administer, operate, and improve our Site, our Services, and our other services and systems, and to provide services and content that are tailored to you. If we link or associate any information gathered through passive means with personal information, we treat the combined information as personal information under this policy. Otherwise, we use information collected by passive means in non-personally identifiable form only. 
+When You register or provide additional account information we may ask for information such as Your full name, company name, email address, birth date, gender, phone number, mobile phone number, address, credit card number, business type, industry, and other details. When You register with the Company and use our sites, products, or services, You are not anonymous to us.
 
-We may partner with third parties, such as [AdRoll](http://www.adroll.com/about/privacy) , [Adextent](http://www.adextent.com/privacy-policy/) , [Google](http://www.google.com/policies/technologies/ads/) and [Simpli.fi](http://www.simpli.fi/ad-serving-privacy-policy-3/) , to provide retargeting services to you. Please be aware that third parties may set cookies on your hard drive or use other means of passively collecting information about your use of their services or content. We do not have access to, or control over, these third-party means of passive data collection. 
+The Company collects information about Your transactions with us, our customers, and with some of our partners, including information about Your use of products and services that we offer.
 
-####  Collection of Voluntarily Provided Information 
+The Company automatically receives and records information from Your computer and browser, including Your IP Address, the Company's cookies and other device information, software and hardware attributes, and the page You requested.
 
-We may offer various ways for you to provide personal information to us voluntarily on our Site or our Services. For example, we offer online account registration and account access, and we collect credit card information in order to bill for our services. We also collect personal information when you request information about our services, request help or support, or otherwise communicate with us using contact forms or other methods for contacting us on our Site or our Services. We may collect personal information such as name, e-mail address, address, other demographic information, and interests and preferences in these manners. 
+The Company uses information for the following general purposes: to customize Your experiences, content, and advertising with us, our customers and some of our partners; fulfill Your requests for products and services; improve our services; provide recommendations; contact You; conduct research; and provide reporting for our customers, internal purposes and partners.
 
-####  Information from Other Sources 
+By providing your telephone number(s), including your mobile phone number, to the Company, You expressly consent to receive non-marketing calls and text messages from the Company and others calling or texting on its behalf, including calls and text messages made with an autodialer or prerecorded voice, at the telephone number(s) that you provide. Such calls and text messages may include, for example, password reminders, authentication messages, account- or service-related alerts and reminders, customer service communications, satisfaction surveys, and other types of non-marketing calls and text messages. You may opt-out of these communications at any time by signing in to Your account and going to Your "Profile."
 
-We may receive information about you, including personal information, from third parties, and may combine this information with other information we maintain about you. If we do so, this policy governs any combined information that we maintain in personally identifiable format. 
+Your Personal Information may be transferred outside of the country in which You reside for processing and storage. As a result it could be subject to access by government agencies in those countries.
 
-###  Use of Personal Information 
+###  **INFORMATION SHARING AND DISCLOSURE**
 
-We use personal information to provide services and information that you request; to enhance, improve, operate, and maintain the Site, our Services, and our other systems and resources; to bill for our services and collect amounts owed to us; to prevent fraudulent use of our Site and our Services; to tailor your user experience; to maintain a record of our dealings with you, and for other administrative purposes. 
+The Company does not rent, sell, or share Personal Information about You with other people or non-affiliated companies except to provide products or services You've requested, when we have Your permission, or under the following circumstances: 
 
-We may also use personal information you provide to contact you regarding our products, services, and offers that we believe you may find of interest. Additionally, with your opt-in consent, we may send you offers and promotions regarding third-party products and services. We allow you to opt-out from receiving marketing communications from us as described in the “Choice” section below. 
+  * **Service Providers, Contractors, and Agents:** We provide information to partners who work on behalf of or with the Company under confidentiality agreements. These companies do not have any independent right to share this information. 
+  * **Co-Branded Partners:** The Company may provide some services in partnership with others under a co-branded experience. In these situations both companies may be collecting information about You so please see the privacy links available within the experience to learn more. For example, Business Mail is provided in partnership with [Yahoo](https://privacy.yahoo.com/). 
+  * **Legal Process:** We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. 
+  * **Security & Fraud:** We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the [Terms of Service](https://www.luminate.com/tos), or as otherwise required by law. 
+  * **Merger & Acquisition:** We transfer information about You if the Company is acquired by or merged with another company. 
 
-###  Disclosure of Information 
 
-We are not in the business of selling personal information about our users to third parties. We may disclose information about our users, including personal information, to third-party service providers (e.g., data storage and processing providers), that assist us in our work. We limit the personal information provided to these service providers to that which is reasonably necessary for them to perform their work for us. 
 
-We may also disclose information about our users, including personal information, if we believe that doing so is legally required or is in our interest to protect our property or other legal rights (including, but not limited to, enforcement of our agreements), or the rights or property of others. 
+###  **PARTNERS**
 
-As described below in the “Personal Information Available to Third Parties” section, personal information that you post or transmit to publicly-accessible areas of the Site or our Services, or to third-party services (each, a “Submission”) may be available to third parties. 
+The Company enters partnerships with third parties to provide or augment some of its sites, products, and services. In some cases, these partners may collect information about Your interaction with that page, product, or service subject to their own privacy policies. The Company may display targeted advertisements based on Your Personal Information or partner with companies who provide similar services. Advertisers (including the companies assisting them in the delivery of an ad) may assume that people who interact with, view, or click targeted ads meet the targeting criteria—for example, women ages 18-24 from a particular geographic area. To learn more about Your choices with respect to interest-based advertising, including opting out, please visit the [Network Advertising Initiative](http://www.networkadvertising.org/). The Company does not support the Do Not Track standard. 
 
-In addition, information about our users, including personal information, may be disclosed as part of any merger, acquisition, debt financing, sale of company assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership, in which personal information could be transferred to third parties as one of our business assets. 
+###  **COOKIES AND SIMILAR TECHNOLOGIES**
 
-###  Personal Information Available to Third Parties 
+The Company may set and access cookies on Your computer. We may also set and access device identifiers which could include IP address, user agent information (browser version, OS type and version), device provided identifiers, or computed identifiers. Once You log into a Service on Your device, the Company may link that device to Your account to provide a more personalized experience, independent of Your device settings.
 
-Some features on the Site may allow you to post or submit personal information that is made available to other users of the Site and our Services, and to third-party services. If you post or submit information using these features, any personal information that you include with the post or submission will be made available to other users of our Site and our Services, as well as to any users of third-party services to which the post or submission is directed. You include personal information in any posts or submissions using such features at your sole risk. We may allow you to select privacy options that limit access to some types of personal information that you post or submit using such features, but no security measures are impenetrable or perfect. Additionally, even in the event that information posted using such features may be removed, caching and archiving services may have saved that information, and other users or third parties may have copied or stored the information. We cannot warrant or guarantee that any personal information that you provide on and in connection with any such features will not be accessed, viewed, or used by unauthorized persons. 
+The Company may use web beacons, small segments of code that run on a web page, APIs (application programming interfaces) or SDKs (software development kits) within mobile apps, to access the Company’s cookies and device identifiers inside and outside our network of websites and in connection with the Services.
 
-###  Choice 
+The Company customers and partners may access their cookies on Your computer and/or use web beacons and SDKs of their own. Other companies' use of their technology such as web beacons, SDKs, cookies and device identifiers, is subject to their own privacy policies, not this one. These partners do not have access to the Company's cookies.
 
-If you receive marketing or promotional communications from us, you may unsubscribe at any time by following the instructions contained within the message that we send. You may also opt-out from receiving marketing or promotional communications from us by sending us an email or by writing to us at the address given at the end of this policy. 
+###  **YOUR ACCOUNT INFORMATION**
 
-Additionally, if you do not wish to be notified regarding our products and services, you may opt-out from such communications by sending us an email or by writing to us at the address given at the end of this policy. Even if you opt-out from marketing and promotional communications, you may still receive messages regarding any accounts you maintain with us, and regarding important updates to our Site or our Services. 
+You can edit or deactivate Your account at any time. Domain registration may continue through Your current term unless You take steps to transfer to another provider. Certain technologies and development tools may continue to collect information until You remove them.
 
-###  Links 
+You may receive product update communications, emails, newsletters and other communications about or related to the Services. You will have the opportunity to opt out of marketing related and optional communications by clicking on unsubscribe links or by following unsubscribe instructions. We reserve the right to send You certain communications relating to the Services, such as service announcements, that are considered part of the Services and Your account, without offering You the opportunity to opt out of receiving them.
 
-For your convenience, our Site and our Services may contain links to other Web sites, products, or services that we do not own or operate. If you choose to visit or use any third-party products or services, please be aware that this policy will not apply to your activities or any information you disclose while using third-party products or services or otherwise interacting with third parties. 
+###  **CONFIDENTIALITY AND SECURITY**
 
-###  Children 
+We limit access to Personal Information about You to employees, contractors, or service providers who we believe reasonably need to come into contact with that information to provide products or services to You or in order to do their jobs.
 
-Children’s safety is important to us, and we encourage parents and guardians to take an active interest in the online activities of their children. We do not knowingly collect personal information from children under the age of 13 without obtaining parental consent. 
+We have physical, electronic, and procedural safeguards that comply with federal regulations to protect Personal Information about You.
 
-###  International Visitors 
+###  **CHANGES TO THIS PRIVACY POLICY**
 
-Our Site is hosted in the United States and is generally intended for United States visitors. If you visit from other regions with laws governing data collection and use that may differ from U.S. law, please be aware that you are transferring personal information to the United States. The United States does not have the same data protection laws as some other regions. By providing personal information to us, you consent to the transfer of it to the United States and the use of it in accordance with this policy. 
+The Company may update this privacy policy. We will notify You about materially significant changes in the way we treat previously collected Personal Information by sending a notice to the primary email address specified in Your account or by placing a prominent notice on our site.
 
-###  Security 
+###  **QUESTION AND SUGGESTIONS**
 
-We use reasonable security measures that are designed to protect information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Please note, however, that no data security measures can be guaranteed to be completely effective. Consequently, we cannot ensure or warrant the security of any personal information or other information. You transmit personal information to us at your own risk. 
+If You have questions, suggestions, or wish to make a complaint, You can contact us at:
 
-###  Updates to this Policy 
+Aabaco Small Business, LLC   
+Customer Care - Privacy Policy Issues   
+701 First Avenue   
+Sunnyvale, CA 94089 
 
-We may occasionally update this policy. When we do, we will also revise the “last updated” date at the beginning of the policy. Your continued use of this Site after such changes will be subject to the then-current policy. We encourage you to periodically review this policy to stay informed about how we collect, use, and disclose personal information. 
-
-###  Contacting Us 
-
-If you have any questions, comments, or concerns about this privacy policy, please contact us via our [contact form](https://web.archive.org/contact). 
+_Anticipated effective date: November 15, 2015_
