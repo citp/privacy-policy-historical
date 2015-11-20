@@ -1,42 +1,41 @@
-<!--The following is the downloaded HTML source of the dissolve.com privacy policy that was archived on 2015-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608120129id_/http%3A//www.dissolve.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dissolve.com privacy policy that was archived on 2015-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151120070035id_/http%3A//www.dissolve.com/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="anonymous"><head data-hook="inside_head" prefix="og: http://ogp.me/ns#">
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script src="https://secure.quantserve.com/aquant.js?a=p-3ZpHte--hnxXG" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TKMPT5"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"c143d7ae21","applicationID":"2261431","transactionName":"d1sNTEZfWg5SFk5KQ0ZRBhdEUVEHREsRS1pCVQBB","queueTime":0,"applicationTime":140,"agent":"js-agent.newrelic.com/nr-632.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAEFUldRGwECUlBWBAA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="dns-prefetch" href="//d2bptzq05weps4.cloudfront.net">
+<meta name="robots" content="noodp,noydir, FOLLOW, INDEX">
 
-<title>Privacy Policy - Stock footage, stock video - Dissolve</title>
+<title>Privacy Policy - Stock Footage, Stock Photos - Dissolve</title>
 
 <meta content="royalty-free, royalty free, rights-managed stock video, rights managed stock video, stock footage" name="keywords">
-<meta content="Dissolve provides high-quality footage for use in professional television and web-based advertising work, corporate promotions and training videos, editorial and documentary settings, web sites, video games and mobile applications." name="description">
+<meta content="Extraordinary stock footage and photography from Dissolve." name="description">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="rin+YIWwQsOcUvdzENBEbjRUSB06gJIRE0aJ/VyRq1A=" name="csrf-token">
+<meta content="lzOUEVA+6ySY2u01FjThZ95PDkKNGz/N+F/YFLry3tU=" name="csrf-token">
 <link href="http://www.dissolve.com/legal/privacy" rel="canonical">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Privacy Policy - Stock footage, stock video - Dissolve">
-  <meta property="og:description" content="Dissolve provides high-quality footage for use in professional television and web-based advertising work, corporate promotions and training videos, editorial and documentary settings, web sites, video games and mobile applications.">
+  <meta property="og:title" content="Privacy Policy - Stock Footage, Stock Photos - Dissolve">
+  <meta property="og:description" content="Extraordinary stock footage and photography from Dissolve.">
   <meta property="og:url" content="http://www.dissolve.com/legal/privacy">
-  <meta property="og:image" content="//d2bptzq05weps4.cloudfront.net/assets/social_sharing/generic-social-sharing400-47e92def99eef0057206cc36b1342173.jpg">
+  <meta property="og:image" content="//d2bptzq05weps4.cloudfront.net/assets/social_sharing/generic-social-sharing400-a61ed9f38081323be132a23e4ea9eb17.jpg">
   <meta property="og:image:type" content="image/jpeg">
   <meta property="og:site_name" content="Dissolve">
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Privacy Policy - Stock footage, stock video - Dissolve">
-  <meta name="twitter:description" content="Dissolve provides high-quality footage for use in professional television and web-based advertising work, corporate promotions and training videos, editorial and documentary settings, web sites, video games and mobile applications.">
+  <meta name="twitter:title" content="Privacy Policy - Stock Footage, Stock Photos - Dissolve">
+  <meta name="twitter:description" content="Extraordinary stock footage and photography from Dissolve.">
   <meta name="twitter:url" content="http://www.dissolve.com/legal/privacy">
-  <meta name="twitter:image:src" content="//d2bptzq05weps4.cloudfront.net/assets/social_sharing/generic-social-sharing400-47e92def99eef0057206cc36b1342173.jpg">
+  <meta name="twitter:image:src" content="//d2bptzq05weps4.cloudfront.net/assets/social_sharing/generic-social-sharing400-a61ed9f38081323be132a23e4ea9eb17.jpg">
   <meta name="twitter:creator" content="@dissolve">
   <meta name="twitter:site" content="@dissolve">
 
 
-<link href="//d2bptzq05weps4.cloudfront.net/assets/application-10084b252543a9286033870a8840f6b8.css" media="screen" rel="stylesheet">
+<link href="//d2bptzq05weps4.cloudfront.net/assets/application-de719796a1691a17125722ade691827d.css" media="screen" rel="stylesheet">
 
-<!--[if lt IE 9]><script src="//d2bptzq05weps4.cloudfront.net/assets/html5shiv-a5927b46873aad5567b8f58a81ea298a.js"></script><![endif]-->
-<script src="//d2bptzq05weps4.cloudfront.net/assets/application-18a7f76005e909abd07ba366fb3cf878.js"></script>
+<!--[if lt IE 9]><script src="//d2bptzq05weps4.cloudfront.net/assets/html5shiv-d0f40bdf85fa6e16ec6ac573caa458c1.js"></script><![endif]-->
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TKMPT5"></script><script src="//d2bptzq05weps4.cloudfront.net/assets/application-ca28edd946706fca8a5856471cadce6b.js"></script>
 <script>
 //<![CDATA[
 
@@ -46,9 +45,9 @@
   if (window.Dissolve.routes == undefined) {
     window.Dissolve.routes = {}
   }
-  videojs.options.flash.swf = '//d2bptzq05weps4.cloudfront.net/assets/video-js-a83fd86adb9bab8e271b500e070e65a0.swf';
+  videojs.options.flash.swf = '//d2bptzq05weps4.cloudfront.net/assets/video-js-9c04394a375636ed082208fc42687bbc.swf';
   Dissolve.current_user = {"user":null};
-  Dissolve.routes.clip_folders = "/clip-folders";
+  Dissolve.routes.clip_folders = "/folders";
 
 //]]>
 </script>
@@ -63,28 +62,27 @@
 </script>
 
 <script>
-  if (Spree === undefined) {
-    var Spree = {}
-  }
-  if (Spree.routes == undefined) {
-    Spree.routes = {}
-  }
-  Spree.routes.states_search = "/api/states"
+//<![CDATA[
+  Spree.current_order_number = '';
+  Spree.current_order_token  = 'A02lBAtQY_ucrA_twjkBRQ';
+  Spree.api_key              = '';
+
+//]]>
 </script>
-
-
-
 
     <script>
 //<![CDATA[
 window.Dissolve.I18n.locale = 'en'; if (!window.$t) window.$t = window.Dissolve.I18n.t;
 //]]>
 </script>
-    <script src="//d2bptzq05weps4.cloudfront.net/assets/airbrake-shim-84103f2ff9282445f7e28fef11048cc5.js" data-airbrake-project-id="dissolve_commerce" data-airbrake-project-key="8881ec35223644f8da24f67937d949b8" data-airbrake-environment-name="production"></script>
+      <script src="//d2bptzq05weps4.cloudfront.net/assets/airbrake-shim-d5878d5e8ce2304cc38c74f2022a0334.js" data-airbrake-project-id="dissolve_commerce" data-airbrake-project-key="8881ec35223644f8da24f67937d949b8" data-airbrake-environment-name="production"></script>
   </head>
 
   <body class="pages__privacy one-col" id="default" data-hook="body">
-      <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TKMPT5"
+    <script type="text/javascript">
+  dataLayer = [{}]
+</script>
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TKMPT5"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -94,14 +92,15 @@ window.Dissolve.I18n.locale = 'en'; if (!window.$t) window.$t = window.Dissolve.
 
 
     <!--[if lte IE 9]>
-        <div style="position: fixed; top: 0; left: 0; width: 100%; z-index: 1000; background: #fff url(//d2bptzq05weps4.cloudfront.net/assets/browser-icons-250bbd4794d18fbbad1d1a992cc4e7c9.png) no-repeat center center; border-top: 20px solid #444; border-bottom: 20px solid #444; margin: 0; padding: 0;">
+        <div style="position: fixed; top: 0; left: 0; width: 100%; z-index: 1000; background: #fff url(//d2bptzq05weps4.cloudfront.net/assets/browser-icons-963fbe8b12cc12255320c8701d1f29e1.png) no-repeat center center; border-top: 20px solid #444; border-bottom: 20px solid #444; margin: 0; padding: 0;">
           <p style="font-size: 20px; line-height: 1.8; text-align: center; color: #000; padding: 50px; padding-bottom: 20px;">
             You are using an outdated browser. Please <a href="http://browsehappy.com/?locale=en">upgrade your browser</a> to view this site in all its glory.
           </p>
         </div>
     <![endif]-->
 
-    <header class="header">
+    
+<header class="header">
   
 
   <div class="header_notification">
@@ -111,28 +110,57 @@ window.Dissolve.I18n.locale = 'en'; if (!window.$t) window.$t = window.Dissolve.
     <div class="small-12 columns">
       <div class="header__branding">
         <a class="header__logo sprite-logo-red" href="/" title="Dissolve"></a>
+        <form accept-charset="UTF-8" action="/products" class="search_form off-screen" method="get"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
+          <div class="row collapse hide-for-small">
+            <div class="small-12 columns">
+              <input autocomplete="off" autofocus="autofocus" class="search_form__search_input" data-placeholder-photo="Search over 200,000 photos" data-placeholder-video="Search over 800,000 video clips" id="keywords" name="keywords" placeholder="Search over 800,000 video clips" type="search" value="">
+              <a href="#" data-dropdown="media_type_dropdown" class="button dropdown search_dropdown_toggle">
+                <span data-media-type="video" class="search_toggle "><i class="fa fa-video-camera"></i> Video</span>
+                <span data-media-type="photo" class="search_toggle hidden"><i class="fa fa-camera"></i> Photo</span>
+              </a>
 
-          <p class="header__tagline">Better footage, better stories<sup class="header__tagline--trademark">™</sup></p>
+              <ul id="media_type_dropdown" class="search_dropdown" data-dropdown-content="">
+                <li>
+                  <input checked="checked" class="hidden" id="media_type_video" name="media_type" type="radio" value="video">
+                  <label class="media_type_dropdown_choice" data-media-type="video" for="media_type_video">
+                    <i class="fa fa-video-camera"></i>Video
+</label>                </li>
+                <li>
+                  <input class="hidden" id="media_type_photo" name="media_type" type="radio" value="photo">
+                  <label class="media_type_dropdown_choice" data-media-type="photo" for="media_type_photo">
+                    <i class="fa fa-camera"></i>Photo
+</label>                </li>
+              </ul>
 
-        <form accept-charset="UTF-8" action="/products" class="header_search_form search-inline off-screen" method="get"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
-          <input autocomplete="off" class="header_search_form__search_input" id="keywords" name="keywords" placeholder="Search clips" type="search" value="">
-          <button type="submit" id="header_search_form_submit" class="header_search_form__submit_button"><i class="fa fa-search"></i></button>
-</form>
-      </div>
+              <button type="submit" id="header_search_form_submit" class="search_form__submit_button postfix"><i class="fa fa-search"></i></button>
+            </div>
+          </div>
+</form>      </div>
 
-      <nav class="header_menu hide-for-small">
+      <nav class="header_menu desktop_menu">
         <ul class="inline-list">
           <li class="header_menu__dropdown_parent">
-            <a class="header_menu__link tracking-browse-header-label-latestClips" href="/products?keywords=D187_125%2A+OR+D659_1%2A+OR+D720_10%2A+OR+D116_79%2A+OR+D47_76%2A+OR+D748%2A+OR+D738_%2A+OR+D749_%2A+OR+D752_%2A+OR+D16_22%2A+OR+D633_19%2A+OR+D252_8%2A+OR+D39_28%2A+OR+D39_26%2A+OR+D111%2A+OR+D215_3%2A+OR+D41_18%2A+OR+D41_19%2A+OR+D41_20%2A+OR+D19_14%2A+OR+D704%2A+OR+D507%2A&amp;search_name=Latest+clips">Browse</a>
+            <a class="header_menu__link tracking-browse-header-label-latestClips" href="/latest_clips">Footage</a>
 
             <ul class="header_menu__dropdown">
               <li><a href="/browse">Browse by category</a></li>
-              <li><a class=" tracking-browse-header-label-latestClips" href="/products?keywords=D187_125%2A+OR+D659_1%2A+OR+D720_10%2A+OR+D116_79%2A+OR+D47_76%2A+OR+D748%2A+OR+D738_%2A+OR+D749_%2A+OR+D752_%2A+OR+D16_22%2A+OR+D633_19%2A+OR+D252_8%2A+OR+D39_28%2A+OR+D39_26%2A+OR+D111%2A+OR+D215_3%2A+OR+D41_18%2A+OR+D41_19%2A+OR+D41_20%2A+OR+D19_14%2A+OR+D704%2A+OR+D507%2A&amp;search_name=Latest+clips">Latest clips</a></li>
-              <li><a class=" tracking-browse-header-label-exclusiveClips" href="/products?exclusive=true&amp;search_name=Exclusive+clips">Exclusive clips</a></li>
+              <li><a class=" tracking-browse-header-label-latestClips" href="/latest_clips">Latest clips</a></li>
+              <li><a class=" tracking-browse-header-label-exclusiveClips" href="/exclusive_clips">Exclusive clips</a></li>
               <li><a href="/freshly-scrubbed">Freshly Scrubbed ™</a></li>
               <li><a href="/contributors">Featured contributors</a></li>
               <li><a href="/free-clips">Free clips</a></li>
             </ul>
+          </li>
+
+          <li class="header_menu__dropdown_parent">
+            <a class="header_menu__link" href="/products?keywords=D237_28_442+OR+D237_31_408+OR+D929_21_237+OR+D145_12_838+OR+D145_13_463+OR+D145_14_057+OR+D145_14_165+OR+D929_22_083+OR+D929_22_103+OR+D929_22_413+OR+D929_22_559+OR+D929_22_773+OR+D943_4_160+OR+D943_4_252+OR+D943_6_158+OR+D943_11_468+OR+D943_12_468+OR+D943_13_292+OR+%2A&amp;media_type=photo&amp;search_name=Browsing+all+photography">Photography</a>
+
+            <ul class="header_menu__dropdown">
+              <li><a href="/products?keywords=D237_28_442+OR+D237_31_408+OR+D929_21_237+OR+D145_12_838+OR+D145_13_463+OR+D145_14_057+OR+D145_14_165+OR+D929_22_083+OR+D929_22_103+OR+D929_22_413+OR+D929_22_559+OR+D929_22_773+OR+D943_4_160+OR+D943_4_252+OR+D943_6_158+OR+D943_11_468+OR+D943_12_468+OR+D943_13_292+OR+%2A&amp;media_type=photo&amp;search_name=Browsing+all+photography">Browse photography</a></li>
+              <li><a href="/pricing">Pricing</a></li>
+              <li><a href="/free-photos">Free photo</a></li>
+            </ul>
+
           </li>
 
           <li class="header_menu__dropdown_parent">
@@ -161,13 +189,14 @@ window.Dissolve.I18n.locale = 'en'; if (!window.$t) window.$t = window.Dissolve.
             </li>
             <li><a class="header_menu__link" data-reveal-ajax="true" data-reveal-id="modal__form" href="/login_modal">Sign in</a></li>
 
+
           <li class="header_menu__cart_link">
             <a class="header_menu__link header_menu__link--icon" href="/cart"><i class="fa fa-shopping-cart"></i></a>
           </li>
         </ul>
       </nav>
 
-      <nav class="header_menu show-for-small">
+      <nav class="header_menu mobile_menu">
         <ul class="inline-list">
           <li><a class="header_menu__link header_menu__link--mobile header_menu__link--search" href="#"><i class="fa fa-search"></i></a></li>
           <li><a class="header_menu__link header_menu__link--mobile" href="#" id="mobile_nav_trigger"><i class="fa fa-bars"></i></a></li>
@@ -176,10 +205,15 @@ window.Dissolve.I18n.locale = 'en'; if (!window.$t) window.$t = window.Dissolve.
     </div>
   </div>
 
-  <div class="row header_menu__categories show-for-small">
+
+  <div class="row header_menu__categories">
     <div class="small-12 columns">
       <form accept-charset="UTF-8" action="/products" class="header_search_form--mobile" method="get"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
         <input autocomplete="off" class="header_search_form__search_input--mobile" id="keywords" name="keywords" placeholder="Start searching…" type="search" value="">
+        <div class="dropdown-wrapper">
+          <select class="search_dropdown_toggle" id="media_type" name="media_type"><option selected="selected" value="video">Video</option>
+<option value="photo">Photo</option></select>
+        </div>
         <button type="submit" class="header_search_form__submit_button--mobile"><i class="fa fa-search"></i></button>
 </form>    </div>
   </div>
@@ -261,8 +295,8 @@ window.Dissolve.I18n.locale = 'en'; if (!window.$t) window.$t = window.Dissolve.
         <p class="street-address">300 S Fourth St, Ste 1400</p>
         <p><span class="locality">Las Vegas</span>, <span class="region">Nevada</span> <span class="postal-code">89101</span></p>
         <p class="country-name">United States</p>
-        <p class="email"><a href="mailto:rupa@dissolve.com">rupa@dissolve.com</a></p>
-        <p class="tel">+1 702-692-8009</p>
+        <p class="email"><a href="mailto:help@dissolve.com">help@dissolve.com</a></p>
+        <p class="tel">+1 800-518-6748</p>
       </div>
     </address>
   </div>
@@ -276,11 +310,11 @@ window.Dissolve.I18n.locale = 'en'; if (!window.$t) window.$t = window.Dissolve.
   <div class="footer__menu hide-for-small">
     <div class="row">
       <nav class="large-2 small-6 columns">
-        <h3>Browse</h3>
+        <h3>Footage</h3>
         <ul>
           <li><a href="/browse">Browse by category</a></li>
-          <li><a class=" tracking-browse-footer-label-latestClips" href="/products?keywords=D187_125%2A+OR+D659_1%2A+OR+D720_10%2A+OR+D116_79%2A+OR+D47_76%2A+OR+D748%2A+OR+D738_%2A+OR+D749_%2A+OR+D752_%2A+OR+D16_22%2A+OR+D633_19%2A+OR+D252_8%2A+OR+D39_28%2A+OR+D39_26%2A+OR+D111%2A+OR+D215_3%2A+OR+D41_18%2A+OR+D41_19%2A+OR+D41_20%2A+OR+D19_14%2A+OR+D704%2A+OR+D507%2A&amp;search_name=Latest+clips">Latest clips</a></li>
-          <li><a class=" tracking-browse-footer-label-exclusiveClips" href="/products?exclusive=true&amp;search_name=Exclusive+clips">Exclusive clips</a></li>
+          <li><a class=" tracking-browse-footer-label-latestClips" href="/latest_clips">Latest clips</a></li>
+          <li><a class=" tracking-browse-footer-label-exclusiveClips" href="/exclusive_clips">Exclusive clips</a></li>
           <li><a href="/freshly-scrubbed">Freshly Scrubbed ™</a></li>
           <li><a href="/contributors">Featured contributors</a></li>
           <li><a href="/free-clips">Free clips</a></li>
@@ -347,7 +381,7 @@ window.Dissolve.I18n.locale = 'en'; if (!window.$t) window.$t = window.Dissolve.
       <div class="small-12 columns">
         <a class="footer__logo sprite-logo-grey" href="/"></a>
 
-        <p class="hide-for-small">Dissolve provides high-quality footage for use in professional television and web-based advertising work, corporate promotions and training videos, editorial and documentary settings, web sites, video games and mobile applications.</p>
+        <p class="hide-for-small">Dissolve licenses stock video clips for use in commercials, television shows, documentaries, and feature films, and licenses stock photography for use in design and creative work. Dissolve’s footage and image collections are hand-picked for technical quality, aesthetic style, and cultural relevance.</p>
         <p>© Copyright 2015 Dissolve Ltd. All Rights Reserved.</p>
         <p>
           Dissolve, the Dissolve logo, and “Better footage, better stories” are trademarks of Dissolve Ltd.
@@ -363,15 +397,25 @@ window.Dissolve.I18n.locale = 'en'; if (!window.$t) window.$t = window.Dissolve.
   <nav>
     <ul>
       <li>
-        <a class="mobile_nav__link--strong" href="#">Browse</a>
+        <a class="mobile_nav__link--strong" href="#">Footage</a>
 
         <ul>
           <li><a href="/browse">Browse by category</a></li>
-          <li><a class=" tracking-browse-mobileNav-label-latestClips" href="/products?keywords=D187_125%2A+OR+D659_1%2A+OR+D720_10%2A+OR+D116_79%2A+OR+D47_76%2A+OR+D748%2A+OR+D738_%2A+OR+D749_%2A+OR+D752_%2A+OR+D16_22%2A+OR+D633_19%2A+OR+D252_8%2A+OR+D39_28%2A+OR+D39_26%2A+OR+D111%2A+OR+D215_3%2A+OR+D41_18%2A+OR+D41_19%2A+OR+D41_20%2A+OR+D19_14%2A+OR+D704%2A+OR+D507%2A&amp;search_name=Latest+clips">Latest clips</a></li>
-          <li><a class=" tracking-browse-mobileNav-label-exclusiveClips" href="/products?exclusive=true&amp;search_name=Exclusive+clips">Exclusive clips</a></li>
+          <li><a class=" tracking-browse-mobileNav-label-latestClips" href="/latest_clips">Latest clips</a></li>
+          <li><a class=" tracking-browse-mobileNav-label-exclusiveClips" href="/exclusive_clips">Exclusive clips</a></li>
           <li><a href="/freshly-scrubbed">Freshly Scrubbed ™</a></li>
           <li><a href="/contributors">Featured contributors</a></li>
           <li><a href="/free-clips">Free clips</a></li>
+        </ul>
+      </li>
+
+      <li>
+        <a class="mobile_nav__link--strong" href="/products?keywords=D237_28_442+OR+D237_31_408+OR+D929_21_237+OR+D145_12_838+OR+D145_13_463+OR+D145_14_057+OR+D145_14_165+OR+D929_22_083+OR+D929_22_103+OR+D929_22_413+OR+D929_22_559+OR+D929_22_773+OR+D943_4_160+OR+D943_4_252+OR+D943_6_158+OR+D943_11_468+OR+D943_12_468+OR+D943_13_292+OR+%2A&amp;media_type=photo&amp;search_name=Browsing+all+photography">Photography</a>
+
+        <ul>
+          <li><a href="/products?keywords=D237_28_442+OR+D237_31_408+OR+D929_21_237+OR+D145_12_838+OR+D145_13_463+OR+D145_14_057+OR+D145_14_165+OR+D929_22_083+OR+D929_22_103+OR+D929_22_413+OR+D929_22_559+OR+D929_22_773+OR+D943_4_160+OR+D943_4_252+OR+D943_6_158+OR+D943_11_468+OR+D943_12_468+OR+D943_13_292+OR+%2A&amp;media_type=photo&amp;search_name=Browsing+all+photography">Browse photography</a></li>
+          <li><a href="/pricing">Pricing</a></li>
+          <li><a href="/free-photos">Free photo</a></li>
         </ul>
       </li>
 
@@ -548,44 +592,6 @@ window.Dissolve.I18n.locale = 'en'; if (!window.$t) window.$t = window.Dissolve.
 
 //]]>
 </script>
-      <script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 985182821;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/985182821/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-
-      <!--  Quantcast Tag -->
-<script>
-  qcdata = {} || qcdata;
-  (function(){
-    var elem = document.createElement('script');
-    elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-3ZpHte--hnxXG";
-    elem.async = true;
-    elem.type = "text/javascript";
-    var scpt = document.getElementsByTagName('script')[0];
-    scpt.parentNode.insertBefore(elem,scpt);
-  }());
-
-
-  var qcdata = {qacct: 'p-3ZpHte--hnxXG',
-    orderid: '',
-    revenue: ''
-  };
-</script>
-<noscript>
-  <img src="//pixel.quantserve.com/pixel/p-3ZpHte--hnxXG.gif?labels=_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-</noscript>
-<!-- End Quantcast Tag -->
-
 
     <script>
 //<![CDATA[
@@ -597,6 +603,7 @@ var google_remarketing_only = true;
     
 
     <div id="modal__form" class="reveal-modal form-modal xlarge"></div>
+    <div id="modal__variant_chooser" class="reveal-modal medium"></div>
   
 
 </body></html>
