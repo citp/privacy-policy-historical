@@ -1,13 +1,16 @@
-> *The following text is extracted and transformed from the sammiesthoughts.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626035748id_/http%3A//www.sammiesthoughts.com/p/privacy-policy_20.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sammiesthoughts.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120210718id_/http%3A//www.sammiesthoughts.com/p/privacy-policy_20.html) for the most accurate reproduction.*
 
 # Privacy Policy | Sammies Thoughts
 
-<http://www.sammiesthoughts.com/2014/08/privacy-policy.html>
+<http://www.sammiesthoughts.com/2014/08/privacy-policy.html>  
+
 
 Privacy Policy
 
-We take your privacy seriously. This policy describes what personal information we collect and how we use it. (This privacy policy is applicable to websites falling under the primary holder www.sammiesthoughts.com.)
-
+  
+  
+We take your privacy seriously. This policy describes what personal information we collect and how we use it. (This privacy policy is applicable to websites falling under the primary holder www.sammiesthoughts.com.)  
+  
 Routine Information Collection All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes, and lets me know what pages and information are useful and helpful to visitors.   
   
 Cookies and Web Beacons Where necessary, this site uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content. Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.   
