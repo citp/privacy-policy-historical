@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the sogood.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612014918id_/http%3A//www.sogood.com/page.php%3Fp%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sogood.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120222930id_/http%3A//www.sogood.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Sogood.com | Free Online Games
+# Privacy Policy
 
-## Privacy Policy
+ § I. Logging IP Addresses  
 
-§ I. Logging IP Addresses
 
   
 
@@ -19,7 +18,8 @@ Our different processes do not require to know your ip so we do not know and do 
 
 
 
-§ II. How we use cookies
+§ II. How we use cookies  
+
 
   
 
@@ -78,7 +78,7 @@ You may choose to restrict the collection or use of your personal information in
 
 
 
-§ VI. Links to other websites 
+§ VI. Links to other websites
 
   
 
@@ -114,5 +114,4 @@ The present General terms have been executed on First June 2013.
 
   
 
-  
 
