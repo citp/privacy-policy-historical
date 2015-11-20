@@ -1,119 +1,131 @@
-> *The following text is extracted and transformed from the snapchat.com privacy policy that was archived on 2014-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140915003406id_/https%3A//www.snapchat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapchat.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120154807id_/https%3A//www.snapchat.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Snapchat
+# Privacy Policy • Snapchat
 
-Last Updated: May 1, 2014
+Last Modified: October 28, 2015
 
-This Privacy Policy explains how information about you is collected, used and disclosed by Snapchat, Inc. and our subsidiaries (collectively, "Snapchat") when you use our websites, mobile applications and other online products and services (collectively, the "Services") or when you otherwise interact with us. 
+Snapchat is a fast and fun way to share experiences with your friends and the world around you. You can send a photo or video Snap to friends, chronicle your day through My Story, touch base using Chat, immerse yourself in global events through Live, and enjoy handcrafted stories from the world’s top publishers on Discover. 
 
-We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our websites' homepages or sending you a notification). We encourage you to review the Privacy Policy whenever you access the Services to stay informed about our information practices and the ways you can help protect your privacy. 
+When you use these services—and any others we roll out—you’ll inevitably share some information with us. We get that that can affect your privacy. So we want to be upfront about the information we collect, how we use it, whom we share it with, and the choices we give you to control, access, and update your information. 
 
-## Collection of Information
+That’s why we’ve written this privacy policy. And it’s why we’ve tried to write it in a way that’s blissfully free of the legalese that often clouds these documents. Of course, if you still have questions about anything in our privacy policy, just [ping us](https://support.snapchat.com/). 
 
-### Information You Provide to Us
+## Information We Collect
 
-We collect information you provide directly to us. For example, we collect information when you create an account, use the Services to send or receive messages, including photos or videos taken via our Services ("Snaps”) and content sent via the chat screen ("Chats"), request customer support or otherwise communicate with us. The types of information we may collect include your username, password, email address, phone number, age and any other information you choose to provide. 
+There are three basic ways we collect information: 
 
-When you send or receive messages, we also temporarily collect, process and store the contents of those messages (such as photos, videos, captions and/or Chats) on our servers. The contents of those messages are also temporarily stored on the devices of recipients. Once all recipients have viewed a Snap, we automatically delete the Snap from our servers and our Services are programmed to delete the Snap from the Snapchat app on the recipients' devices. Similarly, our Services are programmed to automatically delete a Chat after you and the recipient have seen it and swiped out of the chat screen, unless either one of you taps to save it. Please note that users with access to the Replay feature are able to view a Snap additional times before it is deleted from their device and if you add a Snap to your Story it will be viewable for 24 hours. Additionally, we cannot guarantee that deletion of any message always occurs within a particular timeframe. We also cannot prevent others from making copies of your messages (e.g., by taking a screenshot). If we are able to detect that the recipient has captured a screenshot of a Snap that you send, we will attempt to notify you. In addition, as for any other digital information, there may be ways to access messages while still in temporary storage on recipients' devices or, forensically, even after they are deleted. You should not use Snapchat to send messages if you want to be certain that the recipient cannot keep a copy. 
-
-### Information We Collect Automatically When You Use the Services
-
-When you access or use our Services, we automatically collect information about you, including:
-
-  * **Usage Information:** When you send or receive messages via our Services, we collect information about these messages, including the time, date, sender and recipient of the Snap. We also collect information about the number of messages sent and received between you and your friends and which friends you exchange messages with most frequently.
-  * **Log Information:** We log information about your use of our websites, including your browser type and language, access times, pages viewed, your IP address and the website you visited before navigating to our websites.
-  * **Device Information:** We may collect information about the computer or device you use to access our Services, including the hardware model, operating system and version, MAC address, unique device identifier, phone number, International Mobile Equipment Identity ("IMEI") and mobile network information. In addition, the Services may access your device's native phonebook and image storage applications, with your consent, to facilitate your use of certain features of the Services. For more information about how you can control our access to these applications, please see "Your Choices" below.
-  * **Location Information:** With your consent, we may collect information about the location of your device to facilitate your use of certain features of our Services, determine the speed at which your device is traveling, add location-based filters to your Snaps (such as local weather), and for any other purpose described in this privacy policy. For more information about how you can control our collection of location information, please see "Your Choices" below.
-  * **Information Collected by Cookies and Other Tracking Technologies:** We use various technologies to collect information, and this may include sending cookies to you. Cookies are small data files stored on your hard drive or in device memory that help us to improve our Services and your experience, see which areas and features of our Services are popular and count visits. We may also collect information using web beacons (also known as "tracking pixels"). For more information about cookies, and how to disable them, please see "Your Choices" below.
+  * Information you choose to give us.
+  * Information we get automatically when you use our services.
+  * Information we get from third parties.
 
 
 
-### Information We Collect From Other Sources
+Here’s a little more detail on each of these categories. 
 
-We may also obtain information from other sources and combine that with information we collect through our Services. 
+### Information You Choose to Give Us
 
-## Use of Information
+When you interact with our services, we collect the information that you choose to share with us. For example, most of our services require you to set up a basic Snapchat account, so we need to collect a few important details about you: a unique username you’d like to go by, a password, an email address, a phone number, and your date of birth. To make it easier for others to find you, we may also ask you to provide us with some additional information that will be publicly visible on our services, such as profile pictures, a name, or other useful identifying information. Other services, such as commerce products, may also require you to provide us with a debit or credit card number and its associated account information. And, of course, when you contact Snapchat Support or communicate with us in any other way, we’ll collect whatever information you volunteer. 
 
-We may use information about you for various purposes, including to: 
+### Information We Get Automatically When You Use Our Services
 
-  * Provide, maintain and improve our Services, including to provide additional features and content for your messages;
-  * Provide and deliver the products and services you request, process transactions and send you related information;
-  * Respond to your comments, questions and requests and provide customer service;
-  * Send you technical notices, updates, security alerts and support and administrative messages;
-  * Communicate with you about products, services, offers, promotions, rewards, and events offered by Snapchat and others, and provide news and information we think will be of interest to you;
-  * Monitor and analyze trends, usage and activities in connection with our Services; 
-  * Personalize and improve the Services and provide advertisements, content or features that match user profiles or interests;
-  * Link or combine with information we get from others to help understand your needs and provide you with better service;
-  * Detect, investigate and/or prevent fraudulent, unauthorized or illegal activity; and
-  * Carry out any other purpose for which the information was collected.
+When you use our services, we collect information about which of those services you’ve used and how you’ve used them. We might know, for instance, that you watched a particular Live Story, saw a specific ad for a certain period of time, and sent a few Snaps to friends. Here’s a fuller explanation of the types of information we collect when you use our services: 
 
-
-
-Snapchat is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries. 
-
-## Sharing of Information
-
-We may share information about you as follows or as otherwise described in this Privacy Policy:
-
-  * With other users when you send them messages, including your username and the contents of the Snap you send them. When you and another user are present in a chat screen at the same time, the photo button will turn from yellow to blue. If you press and hold the blue button, you will send live video of yourself to your friend. You can take your finger off the screen at any time to stop sending video. When you send live video, we will also transmit information about your device to your friend’s device to facilitate the connection;
-  * When you use Find Friends to add your friends, your username will be shared with other users who use Find Friends and have your phone number in their device phonebook. In these cases, we will not display your phone number to these users, but we will share the fact that your username is associated with your phone number;
-  * With users and others who view your profile, which includes your username, "score" (a sum of the number of messages you have sent and received) and a list of the friends you exchange messages with most as determined by an algorithm (your "Best Friends" list). Similarly, your username may appear in the Best Friends lists of others who engage with you using our Services;
-  * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
-  * In response to legal process or a request for information if we believe disclosure is in accordance with any applicable law, rule, or regulation, or as otherwise required by any applicable law, rule or regulation;
-  * In order to investigate or remedy potential violations of our user agreements or policies, or to protect the rights, property and safety of Snapchat, our users or others;
-  * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company; and
-  * With your consent or at your direction.
+  * **Usage Information**. We collect information about your activity through our services. For example, we may collect information about: 
+    * how you interact with the services, such as which filters you apply to Snaps or which channels you watch on Discover.
+    * how you communicate with other Snapchatters, such as the time, date, sender, recipient of a message, the number of messages you exchange with your friends, which friends you exchange messages with the most, and your interactions with messages (such as when you open a message or capture a screenshot).
+  * **Content Information**. We collect the content you provide and information about that content, such as if the recipient has viewed the content, replayed the content, and the metadata that is provided with the content.
+  * **Device Information**. 
+    * We collect device-specific information, such as the hardware model, operating system version, unique device identifiers, browser type, language, wireless network, and mobile network information (including the mobile phone number).
+    * We also collect device information that will help us diagnose and troubleshoot problems in the (hopefully rare) event you experience any crash or other problem while using our services.
+  * **Device Phonebook**. Because Snapchat is all about communicating with friends, we may—with your consent—collect information from your device’s phonebook.
+  * **Camera and Photos**. Many of our services require us to collect images and other information from your device’s camera and photos. We’ll never access the camera or photos unless you give us your consent to do so.
+  * **Location Information**. When you use our services we may collect information about your location. With your consent, we may also collect information about your precise location using methods that include GPS, wireless networks, cell towers, Wi-Fi access points, and other sensors, such as gyroscopes, accelerometers, and compasses.
+  * **Information Collected by Cookies and Similar Technologies**. Like most online services and mobile applications, we may use cookies and other technologies, such as web beacons, web storage, and unique device identifiers, to collect information about your activity, browser, and device. We may also use these technologies to collect information when you interact with services we offer through one of our partners, such as commerce features. Most web browsers are set to accept cookies by default. If you prefer, you can usually remove or reject browser cookies through the settings on your browser or device. Keep in mind, though, that removing or rejecting cookies could affect the availability and functionality of our services. To learn more about how third parties use these technologies on our services, be sure to read the Analytics and Advertising Services Provided by Others section of our privacy policy.
+  * **Log Information**. We collect log file information when you use our services. That information includes, among other things: 
+    * details about how you’ve used our services
+    * device information, such as your web browser type and language
+    * access times
+    * pages viewed
+    * IP address
+    * pages you visited before navigating to our services
+    * cookies that may uniquely identify your device or browser
 
 
 
-We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
+## Information We Collect from Third Parties
 
-## Analytics Services Provided by Others
+We may collect information that other users provide about you when they use our services. For example, if another user allows us to collect information from their device phonebook—and you’re one of that user’s contacts—we may combine the information we collect from that user’s phonebook with other information we have collected about you. We may also obtain information from other third-party sources and combine that with the information we collect through our services. 
 
-We may allow others to provide analytics services on our behalf. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand your online activity. 
+## How We Use Information
 
-We work with Flurry to provide analytics in connection with the Snapchat mobile application. For more information about Flurry's privacy practices, please visit <http://www.flurry.com/privacy-policy.html>. To opt-out of Flurry Analytics tracking used with the Snapchat mobile application visit <http://www.flurry.com/user-opt-out.html>. Flurry is a separate company and cannot assist with Snapchat-specific issues. To contact Snapchat, please visit [http://support.snapchat.com](http://support.snapchat.com/). 
+What do we do with the information we collect? The short answer is: Provide you with an amazing set of products and services that we relentlessly improve. But we do a lot more as well, such as: 
 
-## Security
+  * develop, improve, deliver, maintain, and protect our products and services
+  * communicate with you
+  * monitor and analyze trends and usage
+  * personalize the services by, among other things, suggesting friends or profile information or providing advertisements, content, or features that match user profiles, interests, or previous activities
+  * enhance the safety and security of our services
+  * verify your identity and prevent fraud or other unauthorized or illegal activity
+  * use information we’ve collected from cookies and other technology to enhance the services and your experience with them
 
-We take reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. 
+
+
+We may also store some information locally on your device. For example, we may store information as local cache so that you can open the app and view content faster. 
+
+Although we welcome Snapchatters from all over the world, keep in mind that no matter where you live or where you happen to use our services, you consent to us processing and transferring information in and to the United States and other countries whose data-protection and privacy laws may offer fewer protections than those in your home country. 
+
+## How We Share Information
+
+We may share information about you in the following ways:
+
+  * **With other Snapchatters**. We may share the following information about you with other Snapchatters: 
+    * public information, such as your username, Snapcode, name, and profile pictures;
+    * information about how you have interacted with the services, such as your Snapchat “score,” the names of Snapchatters you are friends with, and other information that will help Snapchatters understand your connections with others using the services. For example, because it may not be clear whether a new friend request comes from someone you actually know, we may share whether you and the requestor have Snapchat friends in common;
+    * any additional information you have consented to be shared. For example, when you let us access your device phonebook, we may share information about you with other users who have your phone number in their device phonebook; and
+    * content you post or send will be shared with other Snapchatters and potentially the public at large; how widely your content is shared depends on your personal settings and the type of service you are using. For example, a Snap may be sent to just a single friend you select, but a photo or video submitted to a Live Story may be seen by all Snapchatters and, if the Live Story is streamed on the web or broadcast in some other media, may be viewed by the public.
+  * **With our affiliates**. We may share information with entities within the Snapchat family of companies. 
+  * **With third parties**. We may share your information with the following third parties: 
+    * With service providers, sellers, and partners. We may share information about you with service providers who perform services on our behalf, sellers that provide goods through our services, and business partners that provide services and functionality.
+    * With third parties for legal reasons. We may share information about you if we reasonably believe that disclosing the information is needed to: 
+      * comply with any valid legal process, government request, or applicable law, rule, or regulation;
+      * investigate, remedy, or enforce potential Terms of Service violations;
+      * protect the rights, property, and safety of us, our users, or others; or
+      * detect and resolve any fraud or security concerns.
+    * With third parties as part of a merger or acquisition. If Snapchat gets involved in a merger, asset sale, financing, or acquisition of some portion of our business to another company, we may share your information with that company before and after the transaction closes.
+  * **In the aggregate**. We may also share with third parties, such as advertisers, aggregated or de-identified information that cannot reasonably be used to identify you.
+
+
+
+## Information You Choose to Share with Third Parties
+
+The services may also contain third-party links, include third-party integrations (like Pay to Replay), or be a co-branded or third-party-branded service that’s being provided jointly with or by another company. By going to those links, using the third-party integration, or using a co-branded or third-party-branded service, you may be providing information (including personal information) directly to the third party, us, or both. You acknowledge and agree that we are not responsible for how those third parties collect or use your information. As always, we encourage you to review the privacy policies of every third-party website or service that you visit or use, including those third parties you interact with through our services. 
+
+## Message Deletion and Retention
+
+Snapchat captures what it’s like to live in the moment. So in many cases the messages sent through our services are automatically deleted from our servers once we detect that they have been viewed or have expired. And again in most cases, the services are programmed to delete a message from the recipient’s device once it’s been viewed or expired as well. 
+
+There are some exceptions though to this rule. Some of our services, such as My Story, Replay, and Live, allow users to interact with the messages and content you provide through the services for a longer period of time. That means those messages and content may be available on our servers and a recipient’s device after they’ve been viewed or expired. For example, if you add a Snap to My Story, other users will be able to view it for roughly 24 hours. And because Snaps submitted to Live and other crowd-sourced Stories are inherently public and chronicle matters of public interest, we may save them indefinitely and allow them to be viewed again through any of our services or third-party sources. 
+
+But—and this is important—you should understand that users who see your messages or any other content you provide can always save them, either by taking a screenshot or by using some other image-capture technology (whether that be software or even something as old-fashioned as a camera to take a photo of their device’s screen). If we’re able to detect that a recipient took a screenshot of a message you sent, we’ll try to notify you. But the same common sense that applies to the Internet at large applies to Snapchat as well: Don’t send messages that you wouldn’t want someone to save or share. 
+
+A few final words on deletion: We can’t guarantee that messages and corresponding metadata will be deleted within a specific timeframe. Keep in mind that we may also retain certain information in backup for a limited period of time or as required by law. This is true even after we’ve deleted messages and corresponding metadata from our servers. We also sometimes receive requests from law enforcement requiring us by law to suspend our ordinary server-deletion practices for specific information. Finally, of course, as with any digital information, there may be ways to access messages while still in temporary storage on recipients’ devices or, forensically, even after they are deleted. 
+
+## Choice and Control over Your Information
+
+We want you to be in control of your information, so we let you update or correct most of your basic Snapchat account information by editing your account settings within the app. Occasionally we may ask you to verify your identity or provide additional information before we let you update your information. And if you later change your mind about our ongoing ability to collect information from certain sources that you have already consented to, such as your phonebook, camera, photos, or location services, you can simply revoke your consent by changing the settings on your device if your device offers those options. Of course, if you do that, certain services may lose full functionality. And while we hope you’ll remain a lifelong Snapchatter, if for some reason you ever want to delete your account, just go [here](https://support.snapchat.com/delete-account). 
+
+It’s also important to us that you stay in control over whom you communicate with. That’s why we’ve built a number of tools in settings that let you indicate, among other things, who you want to see your Stories, whether you’d like to receive Snaps from just your friends or all Snapchatters, and whether you’d like to block another Snapchatter from contacting you again. 
+
+## Analytics and Advertising Services Provided by Others
+
+We may let other companies use cookies, web beacons, and other tracking technologies on the services. These companies may collect information about how you use the services and other websites and online services over time and across different services. This information may be used to, among other things, analyze and track data, determine the popularity of certain content, and better understand your online activity. 
+
+Additionally, some companies may use the information they collect on our services to deliver targeted advertisements on behalf of us or other companies, including on third-party websites and apps. Snapchat does not currently respond to do-not-track signals that may be sent from your device. If we do so in the future, we will provide information about that practice in an updated version of this privacy policy. For more information about interest-based ads, including how to opt out of having your web-browsing information used for behavioral-advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices). 
 
 ## Children
 
-We do not knowingly collect personal information from users under the age of thirteen. We do, however, allow children under the age of thirteen to use certain areas or features of our Services that do not involve the collection of user information, aside from certain device information that may be collected as necessary to the operation and support of the Services. For more information, please see the "What is Snapkidz?" section of our Guide for Parents, available at <http://www.snapchat.com/static_files/parents.pdf>. 
+We don’t direct our Services to anyone under 13. And that’s why we do not knowingly collect personal information from anyone under 13. 
 
-## Your Choices
+## Revisions to the Privacy Policy
 
-### Privacy Settings
-
-Through settings in our Services, you can choose whether to accept Snaps only from users you have added to your friends list, or from any other Snapchat user who determines your username. If you choose to receive Snaps only from your friends, and a user who is not on your friends list attempts to send you a Snap or add you as a friend, you will receive a notification and have the option of adding the user to your friends list. You can also change who can view your Stories in the settings feature of our Services. 
-
-You also have the ability to delete users from your friends list or to block specific users at any time by using controls within our Services. 
-
-### Account Information
-
-You may update or correct information about yourself by editing your account settings within our Services. If you wish to delete your account, please visit <https://support.snapchat.com/delete-account>, but note that we may retain certain information as required by law, for legitimate business purposes, or as part of our regular retention practices. We may also retain cached or archived copies of information about you for a certain period of time. 
-
-### Device Information
-
-Certain features of the Services require access to your device's native phonebook and image storage applications (e.g., to find friends, to send a photo from your photo gallery via a Chat, or to store a Snap in your photo gallery). If you choose to find friends, the names and phone numbers in your device's native phonebook will be transmitted to Snapchat. If you later decide to revoke your consent and prevent us from continuing to access your phonebook and image storage applications, you can do so by either changing the settings on your device, if this settings option is provided by your device operating system, or by following the standard uninstall process and removing our Services from your device. On iOS devices, you can grant or revoke your consent at any time and prevent us from continuing to access your phonebook and image storage applications by changing the settings on your device. 
-
-### Location
-
-When you first launch any features of our Services that collect location information, you will be asked to consent to our collection of this information. If you initially consent to our collection of location information, you can subsequently stop the collection of this information by changing the preferences on your mobile device. If you do so, certain features of our Services will no longer function. You may also stop our collection of location information by following the standard uninstall process to remove our Services from your device. 
-
-### Cookies
-
-Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our website. 
-
-### Push Notifications/Alerts
-
-Snapchat may send push notifications or alerts to your device. You can deactivate these messages at any time by changing the notification settings on your device (iOS) or by changing your settings within our Services (Android). 
-
-## Contact
-
-To contact us, please visit [http://support.snapchat.com](http://support.snapchat.com/) or write to: 
-
-Snapchat, Inc.  
-P.O. Box 1784  
-Pacific Palisades, CA 90272 
+We may change this privacy policy from time to time. But when we do, we’ll let you know one way or another. Sometimes, we’ll let you know by revising the date at the top of the privacy policy that’s available on our website and mobile application. Other times, we may provide you with additional notice (such as adding a statement to our websites’ homepages or providing you with an in-app notification). 
