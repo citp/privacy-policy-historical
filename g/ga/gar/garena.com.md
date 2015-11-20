@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garena.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619001315id_/http%3A//us.garena.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garena.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120013811id_/http%3A//us.garena.com/privacy) for the most accurate reproduction.*
 
 # Garena - The Official Site
 
@@ -190,3 +190,5 @@ We will certainly strive to deal with any complaint or grievance that you may ha
 19\. TERMS AND CONDITIONS 
 
 Please also read the [Terms of Service](https://web.archive.org/tos/ "Terms of Service") establishing the use, disclaimers, and limitations of liability governing the use of the Site and the Services and other related policies. 
+
+Last Updated: June 25, 2015 
