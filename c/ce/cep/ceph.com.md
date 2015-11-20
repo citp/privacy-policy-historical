@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ceph.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609070901id_/http%3A//ceph.com/legal-page/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceph.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120130056id_/http%3A//ceph.com/legal-page/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement Ceph
+# Privacy Statement
 
 Last Updated: May 15, 2012
 
