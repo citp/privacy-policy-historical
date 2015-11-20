@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamemazing.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503173831id_/http%3A//www.gamemazing.com/%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamemazing.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120223917id_/http%3A//www.gamemazing.com/%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - GameMazing.com: The most amazing Flash and browser games
 
