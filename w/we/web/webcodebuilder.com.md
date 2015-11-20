@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the webcodebuilder.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607013217id_/http%3A//webcodebuilder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcodebuilder.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120062352id_/http%3A//webcodebuilder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Data Controller and Owner
 
-WebCodeBuilder LLC, 2465 Centreville RD STE J17-206 Oak Hill, VA 20171, [info@webcodebuilder.com](https://web.archive.org/web/20150607013217id_/http%3A//webcodebuilder.com/info@webcodebuilder.com)
+WebCodeBuilder LLC, 2465 Centreville RD STE J17-206 Oak Hill, VA 20171, [info@webcodebuilder.com](https://web.archive.org/web/20151120062352id_/http://webcodebuilder.com/privacy-policy/info@webcodebuilder.com)
 
 ## Types of Data collected
 
