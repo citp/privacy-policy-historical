@@ -1,66 +1,116 @@
-> *The following text is extracted and transformed from the unknwn.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512145720id_/http%3A//shop.unknwn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unknwn.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120233556id_/http%3A//www.unknwn.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | UNKNWN
+# Privacy Policy – UNKNWN
 
-**II. WHAT INFORMATION IS COLLECTED AND WHY**
+**PRIVACY POLICY**
 
-**a. Information submitted by you**  
-At times, we may ask you to provide information about yourself in order to better serve you. For example, some of the information collected may include name, title, address, phone number, email address, and personal information concerning your interests, occupation, gender and other demographic information. We do not require this information to obtain access to any area of our site; however, you are required to create a new account or login as a registered user prior to ordering any products on our Site. If you wish to correct or remove your account information please follow the procedures set forth below in the section titled "Can I Update or Remove My Account Information?"
+UNKNWN respects your privacy, and we take great care to safeguard information in our possession.  Your preferences for use of your information are our highest priority.
 
-**b. Information collected by Cookies**  
-We also make use of website "cookies" to help you use our services more easily and to help us continuously improve our site and our service to you. A "cookie" is a small data file that a website can send to your browser, which may then be stored on your computer to help our Site "remember" information about you to make it easier and more efficient to use our Site. Our Site employs session cookies. A session cookie does not remain on your computer after you close your web browser window. Our session cookies contain none of your personal information and cannot be used to track you around the Internet. Our session cookies can only be used by this Site and they only exist for the duration of your visit. Depending on the settings in your browser, you may have the option to deny the session cookie; however, doing so may negatively impact upon the performance of the Site or restrict us in better serving your needs and interests. The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
+UNKNWN does not share customer information (including e-mail addresses) outside the UNKNWN family unless it is necessary to provide you with products or services available from us.  We may also disclose information when you tell us to do so, to identify or contact you, to protect your rights or the rights of UNKNWN or as required or permitted by the law.
 
-**II. HOW IS MY INFORMATION USED?**  
- **a. User Identification**  
-For our sites that offer user registration, we may retain this information on a secure server so that on re-visiting our Site, you will not need to re-enter that information. We may use this information in an aggregated form to measure number of visits, average time spent on the Site, pages viewed, and other relevant statistics. We collect this information to measure the use of our Site and to improve the content of our Site.
+**Information We Collect**
 
-**b. Contacting You Concerning Promotions and New Products**  
-We may request you to "opt-in" to receive certain communications from the Site. We will not send unsolicited messages to you concerning promotions or new products or other marketing material unless you have opted-in. If, after you have opted-in, you no longer wish to receive such communications from us please follow the procedures set forth below in the section titled How Can I "Opt-out" of Receiving E-mail Communications. Please note that your request to stop receiving these communications may not prevent us from sending such messages that were generated prior to the time we were able to process your request.
+We collect information from a variety of sources, including information provided by you, information we collect when you visit our website or stores, transaction information, and information we collect about you from third party sources.
 
-**c. Use of Your Information**  
-At times, we may request you to provide personally identifiable information to identify you as a user of the Site and to assist and speed the completion of transactions on the Site. We may also use information collected about your preferences and activities at the Site, such as the particular pages you request at the Site and purchases or other transactions you effect through the Site. We may vary the content you receive in future visits to the Site based on your preferences and activities.
+The following are examples of the types of information we may collect:
 
-**d. Disclosure of Your Information**  
-We will not disclose your personally identifiable information to any persons or entities outside of our company, nor lease, license, sublicense, rent, transfer, disclose, disseminate or otherwise grant access to such information unless:  
-(i) You have been given an opportunity to "opt-in" and have agreed to opt-in to such disclosure of your information;  
-(ii) We must share your information in order to provide a product or service that you have ordered or requested, in which case we will require that any third person or entity we use to fulfill your order agrees that it does not have the right to use your information other than to fulfill your order or request; or  
-(iii) We are required to respond to subpoena, court orders or other requirement of law which requires disclosure of your information.
+Information you provide:   
+Name   
+Address   
+Zip Code   
+E-mail Address   
+Telephone Number(s)   
+Mobile Number(s)   
+Credit Card Number(s)   
+Birth Date
 
-**e. Disclosure of Aggregate Information**  
-We may combine your personally identifying information and information about your preferences and activities, with those of all or a particular group of our users to prepare collective profiles of our users and their activities for our internal use. For example, we may track the number of our users who view certain pages or use certain features or compile the total dollar amount of sales conducted through the Site in a particular geographic region or to track purchasing trends. Such information, and other information we derive from individual users' information, allows us to continue to grow and provide you with quality information through more accurate marketing and advertising of the Site. We may share aggregated information concerning our users, without attribution of personal information, to other companies with whom we conduct business.
+How do I withdraw my consent?
 
-**f. How Can I "Opt-out" of Receiving e-mail Communications?**  
-If you do not wish to receive email messages from us, please choose "unsubscribe" from within the email that you receive.
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at privacy@unknwn.com or mailing us at:
 
-**IV. WHAT WE DO TO KEEP THIS SITE SECURE**  
- **a. Security**  
-We employ procedural and technical safeguards to secure your personal information against loss, theft, alteration, and unauthorized access, use and disclosure. Any information you enter on our accounts setup page is encrypted before transmission to our server by using 128-bit Secure Sockets Layer encryption software. You can safely enter your credit card and personal registration information and it cannot be read in transit to our server. We also employ many security procedures to protect your information from unauthorized access by users inside and outside the company.  
-Regardless of the precautions taken by us we cannot ensure or warrant the security of any information you transmit to us, and you transmit such information at your own risk.  
- _What You Can Do To Protect Your Information?_  
-(i) Use only secure websites when disclosing your information.   
-(ii) Avoid using easy to figure out access and personal ID (PIN) codes.  
-(iii) Never respond to unsolicited requests for your social security number or financial information.  
-(iv) Do not disclose your passwords to the Site or your account information to any other person.  
-(v) Be sure to sign off when finished using a shared computer.
+UNKNWN  
+2001 Hollywood Blvd, Hollywood, FL 33020
 
-**b. Hypertext Links**  
-Our Site may contain "links" to other websites, and we cannot and are not responsible for maintaining your privacy once you leave our Site. If you provide any information to parties who operate websites that are linked to or from this Site, different rules may apply to their collection, use or disclosure of your personal information. We encourage you to review other websites' policies before revealing any sensitive or personal information. Under no circumstances shall we have any liability whatsoever for the activities conducted by or at any website accessed from or through the Site.
+**BROWSER COOKIES**
 
-**V. INFORMATION FROM PERSONS UNDER THE AGE OF 13**  
- **NOTICE: Visit  **[ **www.OnGuardOnline.gov**](http://www.onguardonline.gov/) **  for tips from the Federal Trade Commission on protecting kids' privacy online.**  
-We do not seek to collect personally identifiable information from persons under the age of 13 without prior verifiable parental consent. If we become aware that we have inadvertently received such information online from a child under the age of 13, we will delete it from our records. If you are under the age of 13, please do not submit any personally identifiable information to us. If you are the parent or guardian of a person under the age of 13 who has provided personally identifiable information to us, please inform us by contacting us at info@unknwn.com and we will remove such information from our database. If you are concerned about your children's use of the Site, you may use web-filtering technology to supervise or limit access to the Site.
+UNKNWN uses cookies in order to improve your shopping experience. Cookies help us keep track of your order as you shop on our site. We also use cookies to recognize registered customers when they visit our site and to provide them with their account information. If you register with or order from us, we use cookies to monitor and maintain information about your use of our site. If you have not registered with or ordered from us, we may monitor and maintain information about your use of our website in a manner that does not identify you.
 
-**VI. YOUR CALIFORNIA PRIVACY RIGHTS (As provided by California Civil Code Section 1798.83)**  
-A California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes ("California customer") is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties' direct marketing purposes. In general, if the business has made such a disclosure of personal information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed.  
-However, under the law, a business is not required to provide the above-described lists if the business adopts and discloses to the public (in its privacy Policy) a Privacy Policy of not disclosing customer's personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this Privacy Policy. Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise that right.  
-As stated in this Privacy Policy, we do not share information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure -- typically by opting in to receive information from a third party that is participating in a sweepstakes or other promotion on one of our sites. If you do ask us to share your information with a third party for its marketing purposes, we will only share information in connection with that specific promotion, as we do not share information with any third party on a continual basis. To prevent disclosure of your personal information for use in direct marketing by a third party, do not opt in to such use when you provide personally identifiable information on one of our sites. Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party's privacy Policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy Policy of any party that collects your information to determine how that entity will handle your information.
+You can refuse cookies by turning them off in your browser. If you turn off cookies, though, we will not be able to track your order to enable you to purchase from our site.
 
-**VII. GENERAL**  
- **I. LIMITATION OF LIABILITY**  
-IN NO EVENT SHALL WE BE LIABLE FOR ANY INCIDENTAL, CONSEQUENTIAL, INDIRECT OR SPECIAL DAMAGES, (INCLUDING LOST PROFITS) WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT WE ARE ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. BECAUSE SOME STATES OR JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE LIMITATIONS SET FORTH IN THIS PARAGRAPH MAY NOT APPLY TO YOU. IF THE FOREGOING LIMITATIONS ARE HELD INAPPLICABLE OR UNENFORCEABLE FOR ANY REASON, THEN THE MAXIMUM LIABILITY OF US TO YOU FOR ANY TYPE OF DAMAGES SHALL BE LIMITED TO THE GREATER OF THE ACTUAL AMOUNT PAID BY YOU FOR ANY PRODUCTS OFFERED ON THE WEBSITE OR U.S. $100.00.
+****  
+**SHOPIFY **  
+****
 
-**II. MISCELLANEOUS**  
-The Privacy Policy for the Site established by us constitutes ours, and your, entire understanding with respect to the use of the site. We control and/or operate the Site from offices in the United States of America. We do not represent that materials on the Site are appropriate or available for use in other locations. Persons who choose to access this Site from other locations do so on their own initiative and at their own risk, and are responsible for compliance with local laws, if and to the extent local laws are applicable. This Privacy Policy shall be construed in accordance with the laws of the State of New York, without regard to its conflict of laws rules. You agree to personal jurisdiction by the federal and state courts located in New York County, New York State. No waiver by use of any breach or default hereunder shall be deemed to be a waiver of any preceding or subsequent breach or default. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of the Site must be filed within one (1) year after such claim or cause of action arose or be forever barred. If any provision of the Terms and Conditions and Privacy P9olicy is found to be unenforceable for any reason, than that provision shall be deemed severable and shall not affect the validity and enforceability of any remaining provisions.
+Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.
 
-**II. CHANGES TO OUR TERMS AND CONDITIONS AND OUR PRIVACY POLICY**  
-We may revise this Privacy Policy at any time by updating this posting without advance notice to you. Such revisions shall be effective immediately upon posting. It is your obligation to review the Privacy Policy from time to time.
+Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
+
+Payment:
+
+If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
+
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.
+
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
+
+For more insight, you may also want to read Shopify’s Terms of Service (https://www.shopify.com/legal/terms) or Privacy Statement (https://www.shopify.com/legal/privacy).
+
+**THIRD-PARTY SERVICES**
+
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
+
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
+
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
+
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
+
+As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
+
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
+
+Links
+
+When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
+
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
+
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
+
+**COOKIES**
+
+Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.
+
+_session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).
+
+_shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits
+
+_shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.
+
+cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.
+
+_secure_session_id, unique token, sessional
+
+storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
+
+****  
+**AGE OF CONSENT **  
+****
+
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
+
+**CHANGES TO THIS PRIVACY POLIC** Y
+
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
+
+If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
+
+**QUESTIONS AND CONTACT INFORMATION**
+
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at privacy@unknwn.com or by mail at
+
+UNKNWN
+
+[Re: Privacy Compliance Officer]
+
+2001 Hollywood Blvd, Hollywood, FL 33020
