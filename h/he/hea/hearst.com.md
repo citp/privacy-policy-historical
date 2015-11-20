@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hearst.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009040507id_/http%3A//www.hearst.com/newsroom/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hearst.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120103014id_/http%3A//www.hearst.com/newsroom/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Hearst Corporation
+# Privacy Policy | Hearst
 
 **Purpose of this Privacy Policy  
 ** This privacy policy describes The Hearst Corporation's (“THC”) policies with respect to the collection of personally identifiable information from the website to which this policy is linked. The website to which this policy applies is the home page, and related pages, of THC's corporate website, operating under the url “[hearst.com](http://hearst.com/)”. THC is one of the world's largest diversified communications companies, with interests in newspapers, magazines, broadcast and cable television, and a variety of other interests that are described on this website.
