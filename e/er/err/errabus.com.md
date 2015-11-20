@@ -1,65 +1,69 @@
-> *The following text is extracted and transformed from the errabus.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625235812id_/http%3A//www.errabus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the errabus.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120041841id_/http%3A//errabus.com/privacy-policy) for the most accurate reproduction.*
 
-# Errabus - Privacy Policy
+# Errabus - Terms of Use
 
-Your privacy is important to Errabus.com.  This privacy statement provides information about the personal information that Errabus.com collects, and the ways in which Errabus.com uses that personal information.
+## Privacy Policy
 
- **Personal information collection**
+The following describes the Privacy Policy for our ErraBus.com website.
 
-Errabus.com may collect and use the following kinds of personal information:
+### Your Privacy
 
-l [information about your use of this website (including Name, Age, Sex, Location, Address, Email id's , credit card information, Profession, Personal Interests and political views);]   
-l [information that you provide using for the purpose of registering with the website (including Name, Age, Sex, Location, Address, Email id's , credit card information, Profession, Personal Interests and political views);]  
-l [information about transactions carried out over this website (including Name, Age, Sex, Location, Address, Email id's , credit card information, Profession, Personal Interests and political views);]   
-l [information that you provide for the purpose of subscribing to the website services (including Name, Age, Sex, Location, Address, Email id's , credit card information, Profession, Personal Interests and political views); and]  
-l [any other information that you send to Errabus.com.]
+Your privacy is important to us at ErraBus.com. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. You agree to agree to these policies by virtue of using our website in a way that leads to you providing us with personal information. 
 
- **Using personal information**
+### State Law & Accompanying Rights
 
-Errabus.com may use your personal information to:
+Please understand that you may have additional rights originating from State laws based on where you live. These State-based rights may augment, strengthen, or otherwise somehow compliment any privacy rights you have inherently or under Federal law. Our policy is to comply fully with the privacy policies of every jurisdiction in which we operate. Accordingly, you are free to use our Contact information to reach us at any time to assert any State rights. 
 
-l [administer this website;]  
-l [personalize the website for you;]  
-l [enable your access to and use of the website services;]  
-l [publish information about you on the website;]  
-l [send to you products that you purchase;]  
-l [supply to you services that you purchase;]  
-l [send you statements and invoices;]  
-l [collect payments from you; and]  
-l [send you marketing communications.]
+### Our Commitment To Children's Privacy
 
-Where Errabus.com discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement.
+Protecting the privacy of the very young is especially important. For that reason, our website will never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18. 
 
-In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, Errabus.com may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
+Under our Terms of Service and Conditions of Use, children under 18 are not allowed to use our website and access our services. It is not our intention to offer products or services to minors.
 
- **Securing your data**
+### Collection of Personal Information
 
-Errabus.com will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information.
+When visiting our website, the IP address used to access our website may be logged along with the dates and times of access. This information is purely used to analyze trends, administer our website, track usersmovement, and gather broad demographic information for internal use such as statistical assessments and website improvement. Most importantly, any recorded IP addresses are not linked to personally identifiable information. 
 
-Errabus.com will store all the personal information you provide on its secure servers.
+Other information may be collected as well by ErraBus.com, which is rather typical of most websites. For instance, the source that referred you to our website is generally known. Likewise, your duration on our website,and your destination when you leave our website can also be tracked. Other common data collected includes the type of operating system the computer you are using to access our website has. Similarly, the type of web browser is often noted. Again, this is common data collection, and helps ultimately produce a better end-user experience.
 
-[Information relating to electronic transactions entered into via this website will be  protected by encryption technology.]
+Cookies are another common internet practice. Cookies are a key means of improving user experience by allows us to customize your use of our website. Simple information is transferred to your computer to allow the content and experience at ErraBus.com to reflect your actions, preferences, and so on. You should simply make the assumption our website uses cookies, and note that you are free to make adjustments in your web browser to disable these or otherwise receive notification of cookies so you can take whatever desired action you so choose. Please understand that refusing cookies may cripple some of our website features and render some aspects useless to you.
 
- **Cross-border data transfers**
+At times, you will be fully aware of information received, as you are the direct source providing it. For instance, you may comment on a blog post, reply to an email (whether broadcast message or autoresponder), provide an email address, complete a survey, requests SMS, or otherwise. Likewise, purchases necessarily involve collecting certain information, such as credit card information, Paypal addresses, your physical address for billing and/or shipping, phone number, and so on. Refusing to provide some of this information may lead to us being unable to provide you with the products or services you’ve requested.
 
-Information that Errabus.com collects may be stored and processed in and transferred between any of the countries in which Errabus.com operates to enable the use of the information in accordance with this privacy policy.
+A prime example of limited access to our website is where some ErraBus.com content may be protected by a username and password. Whether a username and password is generated by our website, or created by you, these will almost always be connected with some other information related to or connected with you. This is true since much content that is protected on the internet is subscription based, often paid for. Thus, the username and password must necessarily be tied to your other account data. Usernames and passwords, by their very nature, should be kept private.
 
-[In addition, personal information that you submit for publication on the website will be published on the internet and may be available around the world.]
+### Handling of Personal Information
 
-You agree to such cross-border transfers of personal information.
+Note that any personal information you provide to others apart from us or our vendors is wholly optional. As an example, you might disclose something in a blog post comment. That “private” information is now “public,” and we have no control over that. In like fashion, you sharing information with any other third party not functioning as a service provider to us puts that information beyond our control and becomes subject to the policy that party has in place. 
 
- **Updating this statement**
+Our primary intention for collecting personal and private information from you is simply to conduct our business. We can use this internally to better serve you. Accordingly, we see no reason to share your personal information to other parties and outside interests unless you have authorized us to do so. Of course, there are instances where your information is stored with third party service providers, such as email service providers, as they provide services that are industry-leading in quality and security and are far more beneficial to our end user than attempting such services “in-house.” However, you are never required to deal with any such third party directly, they are limited in how they use your information, and they cannot sell or transfer it to others in any way.
 
-Errabus.com may update this privacy policy by posting a new version on this website. 
+However, of course, your information does comprise part of an overall whole. This aggregate of information, by contrast, may be used to understand our overall user base. Further, we may share this information about our website visitors as a whole, not individually, with third parties for various purposes, in our sole discretion.
 
-You should check this page occasionally to ensure you are familiar with any changes. 
+While we are staunch privacy advocates at ErraBus.com, there are times when even we may be forced to abandon these ideals. Just as major search engines face ongoing compulsion to provide data against their will, so too may the same occur with our ErraBus.com website. Illegal activity or other serious acts or allegations could create legal liability for our website. In those cases, we reserve the right to share your information, or else may simply be compelled to do so by law. On the other hand, there may be times when we would need to share your private information in order to protect our own interests. For instance, in cases of suspected or alleged copyright infringement or other intellectual property violations, it may be necessary to share personal information.
 
- **Other websites**
+### Google Adsense and the DoubleClick DART Cookie
 
-This website contains links to other websites. 
+Google, as a third party advertisement vendor, may use cookies to serve ads on this ErraBus.com website. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website, including past visits, as well as other websites on the internet. 
 
-Errabus.com is not responsible for the privacy policies or practices of any third party.
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the followingurl http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google's own privacy policies.
 
- **Contact Errabus.com**
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, our website has no access or control over these cookies that may be used by third party advertisers. However, you can opt out of some, though likely not all, of these cookies in one easy location at http://ww.networkadvertising.org/managing/opt_out.asp
 
-If you have any questions about this privacy policy or Errabus.com's treatment of your personal information, please mail us at contact@errabus.com
+### Links to Third Party Websites
+
+We have included links on this website for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own. 
+
+### CHANGE NOTICE:
+
+As with any of our administrative and legal notice pages, the contents of this page can and will change over time. Accordingly, this page could read differently as of your very next visit. These changes are necessitated, and carried out by ErraBus.com, in order to protect you and our ErraBus.com website. If this page is important to you, you should check back frequently as no other notice of changed content will be provided either before or after the change takes effect. 
+
+### COPYRIGHT WARNING:
+
+The legal notices and administrative pages on this website, including this one, have been diligently drafted by an attorney. We at ErraBus.com have paid to license the use of these legal notices and administrative pages on ErraBus.com for your protection and ours. This material may not be used in any way for any reason and unauthorized use is policed via Copyscape to detect violators. 
+
+### QUESTIONS/COMMENTS/CONCERNS:
+
+If you have any questions about the contents of this page, or simply wish to reach us for any other reason, you may do so by using our Contact information. 
+
+[contactus@errabus.com](https://web.archive.org/web/20151120041841id_/http%3A//errabus.com/contactus@errabus.com)
