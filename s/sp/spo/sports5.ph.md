@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sports5.ph privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617210058id_/http%3A//sports5.ph/article/83/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sports5.ph privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120115512id_/http%3A//sports5.ph/article/83/privacy-policy) for the most accurate reproduction.*
 
 # Sports5 Portal
 
