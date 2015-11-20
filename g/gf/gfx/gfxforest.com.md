@@ -1,29 +1,33 @@
-> *The following text is extracted and transformed from the gfxforest.com privacy policy that was archived on 2013-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130218124413id_/http%3A//gfxforest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfxforest.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120045919id_/http%3A//gfxforest.com/privacy-policy) for the most accurate reproduction.*
 
-# Free Themeforest, Codecanyon theme, plugin & script collection
+# Privacy Policy - gfxforest
 
-This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. **Note:**  the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites. **VISTOR STATS** We are using two different web analytics services to improve and optimize our website. Both services use cookies to track visitor behaviour. For further details please visit their privacy policies. 
+Your privacy is important to us, and maintaining your trust and confidence is one of our highest priorities. We respect your right to keep your personal information confidential and understand your desire to avoid unwanted solicitations. A recent law change requires us (along with banks, brokerage houses, and other financial institutions) to disclose our Privacy Policy to you – which we are more than happy to do. We hope that by taking a few minutes to read it, you will have a better understanding of what we do with the information you provide us and how we keep it private and secure.
 
-    1. [Google Analytics](http://www.google.com/analytics/) ([Privacy Policy](http://www.google.com/privacy.html))
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@gfxforest.com.
 
+At gfxforest.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by gfxforest.com and how it is used.
 
+**A.Log Files**
 
-**AD NETWORKS** We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies We use the following ad networks: 
+Like many other Web sites, gfxforest.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-    * Google Adsense ([Privacy Policy](http://www.google.com/privacy.html))
+**B.Cookies and Web Beacons**
 
+gfxforest.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
+**C.DoubleClick DART Cookie**
 
-**ESPECIALLY GOOGLE ADSENSE PRIVACY POLICY**
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on GfxForest.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-    * Google, as a third party vendor, uses cookies to serve ads on your site.
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
- 
-    * Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.
+GfxForest.com has no access to or control over these cookies that are used by third-party advertisers.
 
- 
-    * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. we cannot control the activities of, such other advertisers or web sites.
 
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
+**Network Advertising Initiative opt-out website at**
 
-**DISTRIBUTION OF INFORMATION** We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes. **PRIVACY CONTACT INFORMATION** If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below: By e-mail: [admin@gfxforest.com](mailto:admin@gfxforest.com) We reserve the right to make changes to this policy without notice. 
+[www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
