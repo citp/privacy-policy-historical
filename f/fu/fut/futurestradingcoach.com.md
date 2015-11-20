@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futurestradingcoach.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630034500id_/http%3A//www.futurestradingcoach.com/futures-trading-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurestradingcoach.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120013843id_/http%3A//www.futurestradingcoach.com/futures-trading-privacy.html) for the most accurate reproduction.*
 
 # The Futures Trading Coach Privacy Policy
 
