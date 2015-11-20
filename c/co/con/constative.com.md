@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the constative.com privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525181951id_/http%3A//constative.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constative.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120021704id_/http%3A//constative.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Constative - News Online
+# Privacy Policy | Constative.com
 
 These is the Privacy Statement for Constative.com. There will be additional Privacy Statements that apply to other services connected with Constative.com offered by Palness Media. Please you must read these at the time you register or subscribe for these services or any services associated herein.
 
