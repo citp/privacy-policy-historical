@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templehealth.org privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407084202id_/http%3A//www.templehealth.org/privacy-hipaa.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templehealth.org privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120180559id_/http%3A//www.templehealth.org/privacy-hipaa.html) for the most accurate reproduction.*
 
 # TUHS Disclaimer Page
 
@@ -28,7 +28,7 @@ Effective August 1, 2013
     * Jeanes Hospital
     * Temple Physicians, Inc.
     * Temple Health System Transport Team, Inc.
-    * Temple University School of Medicine
+    * Lewis Katz School of Medicine at Temple University
     * Temple University School of Dentistry
     * Temple University School of Podiatry
     * Temple University College of Allied Health Professions
@@ -120,7 +120,7 @@ You may also file a complaint regarding the Breach Notification process with the
 (215) 707-8829 
   * Temple University Physicians   
 (215) 707-4048 
-  * Temple University School of Medicine   
+  * Lewis Katz School of Medicine at Temple University   
 (215) 707-4048 
   * Temple University School of Dentistry   
 (215) 707-2803 
