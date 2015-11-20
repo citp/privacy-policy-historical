@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rfidjournal.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626180021id_/http%3A//www.rfidjournal.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rfidjournal.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120132353id_/https%3A//www.rfidjournal.com/site/privacy) for the most accurate reproduction.*
 
 # RFID Journal Privacy Statement - RFID Journal
 
@@ -16,10 +16,10 @@ When attending our events, signing up for certain selected services (such as fre
 **Surveys**   
 From time to time we invite users to provide information via surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether to disclose requested contact information (such as name and mailing address) and demographic information (such as zip code or job title). This information is used in accordance with other uses set forth in this policy. 
 
-**Communications with Us**   
+**Communications With Us**   
 We have features where users can submit information to us (such as our feedback forms). Letters to the editor and similar submissions may be made public. Requests for service, support or information may be forwarded as needed to best respond to a specific request. We may retain e-mails and other information sent to us for our internal administrative purposes, and to help us to serve customers better. 
 
-**Communications from Us**   
+**Communications From Us**   
 In order to best serve our customers, we may send updates that contain important information about our sites and services. For example, we send new members a welcoming message, and verify password and username for our password-protected sites. We may also communicate with a user to provide requested services and for account-related issues via e-mail, phone or regular mail. 
 
 **Cookies**   
@@ -53,7 +53,7 @@ We use reasonable precautions to protect our users' personal information and to 
 **Links**   
 Our web site contains links to other sites. RFID Journal is not responsible for the privacy practices or content of such external sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site to which we may link that may collect personally identifiable information. 
 
-**Notification And Changes**   
+**Notification and Changes**   
 If we change our privacy policy, we will post those changes on this page so our users are aware of what information we collect, how we use it and under which circumstances, if any, we disclose it. Users should check this policy frequently to keep abreast of any changes. 
 
 For questions about this privacy statement, the practices of this site or any dealings with RFID Journal, send e-mail to [info@rfidjournal.com](mailto:info@rfidjournal.com?subject=). 
