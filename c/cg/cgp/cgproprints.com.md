@@ -1,0 +1,31 @@
+> *The following text is extracted and transformed from the cgproprints.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120183544id_/http%3A//www.cgproprints.com/privacy) for the most accurate reproduction.*
+
+# CG Pro Prints Privacy Policy
+
+Thank you for visiting cgproprints.com. We are committed to providing the latest technologies and online services to both our visitors and members of the CG Pro Prints community. We are also committed to privacy issues, and we would like to take this opportunity to tell you about what information we collect, how we use this information and your rights concerning this information. 
+
+##  What information do we collect, and how do we use it? 
+
+CG Pro Prints only collects personal information on a voluntary basis. Our Web site may be visited without revealing any personal information about yourself. However, there are several pieces of “passive” information we collect from you each time you access our Web site. We log your computer’s IP address, the URL that referred you to our site, if any, the pages you access at our Web site, and the type and version of both your operating system and Web browser. We also track any terms and phrases that you enter into our search engine service. None of this information is ever used to personally identify you or any other user, but rather it is collected and reviewed by select employees of Circle Graphics only, and used to generate reports of Web site usage. These reports help us to identify what parts of the Web site are most popular, what search engines visitors are using to find our Web site, and what things visitors are having trouble finding. These reports help us determine overall Web site usage, identify problem areas, and ultimately provide better services for visitors like yourself. 
+
+Certain services provided by our Web site may utilize “cookies.” A cookie is a small piece of data that is sent to your Web browser from our Web site and stored on your computer’s hard drive. A cookie cannot read any data off your hard drive, read cookie files created by other Web sites, or perform any other action against your computer. You can configure your Web browser to allow or disallow cookies by changing your browser’s options or preferences, but disabling cookies may prevent some areas of our Web site from working properly. Some of the cookies we send are “persistent cookies,” files which remain resident on your computer until deleted or until they expire at a predetermined time. Persistent cookies are most commonly used to provide visitors with a customized experience by recording user preferences from previous visits. Other cookies we use are temporary, and expire as soon as your visit to our Web site terminates. They are commonly used for technical purposes to enable seamless navigation. 
+
+There are services provided by our Web site that require you to provide personal information. If you choose to share personal information with us – by sending us a message or filling out an electronic form with personal information – we will only use that information as necessary to conduct CG Pro Prints business. Except as described below under Financial information, we do not disclose information that we gather from you to vendors, other third parties or government agencies, unless required to do so by state or federal law. 
+
+##  Financial information
+
+If you elect to subscribe to our service in order to be able to order products through our Web site, we require certain financial information (such as, but not limited to, banking and credit information). We use your financial information to check your credit, and to bill you for services and/or products. By making a purchase, or engaging in any other kind of activity or transaction that uses financial information that you have provided to us, you consent to our providing your financial information to such third parties as we determine necessary to support and process your activities and transactions. Any of these third parties may be authorized to use your financial information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control, and you agree that we are not responsible or liable for any of their actions or omissions. 
+
+##  What happens if you choose not to provide us with your information? 
+
+If you choose not to provide personal information through our Web site, you may be unable to utilize some of the features we offer to our online visitors. When it is possible, we will attempt to provide you with an alternative method for the same service. 
+
+##  CG Pro Prints' policy regarding third-party sites 
+
+The CG Pro Prints Web site contains a variety of links to other Web sites not hosted by Circle Graphics. We are not responsible for the privacy practices or the content of any such Web site. Content and views presented by these Web sites may not reflect the views of Circle Graphics. We recommend therefore that you read the privacy policies of any Web site that you link to before submitting any personal information. While CG Pro Prints is committed to protecting your privacy while you are on our Web site, it is ultimately your responsibility to protect your personal information while you are online. 
+
+##  How do you contact CG Pro Prints regarding this Privacy Policy? 
+
+To file a complaint regarding the use of personal information, to report a violation of our Privacy Policy, or if you have questions pertaining to this Privacy Policy, please contact us at info@cgproprints.com or at 120 Ninth Avenue, Longmont, Colorado 80501\. 
+
+By using our Web site, you consent to the CG Pro Prints Internet Privacy Statement as specified above. If you do not consent to this Privacy Statement, please do not use this Web site. We reserve the right to amend this Policy from time to time, and will post such amendments on this page. Therefore, please check back to this page regularly so that you are always aware of our policies concerning information collection. Your continued use of this Web site signifies your consent to these changes. 
