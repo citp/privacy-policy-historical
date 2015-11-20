@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationmalaysia.gov.my privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509083900id_/http%3A//educationmalaysia.gov.my/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationmalaysia.gov.my privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120123513id_/http%3A//educationmalaysia.gov.my/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
