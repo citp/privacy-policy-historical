@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the younkers.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512191343id_/http%3A//www.younkers.com/content/customer-service/privacy-policy/content1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the younkers.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120203825id_/http%3A//www.younkers.com/content/customer-service/privacy-policy/content1.html) for the most accurate reproduction.*
 
 # Privacy Policy & Security Procedures - Younkers
 
-This Privacy Policy was last updated on March 16, 2015..
+This Privacy Policy was last updated on March 16, 2015.
 
 This website is owned and operated by The Bon-Ton Department Stores, Inc., and this Privacy Policy applies to the website only.
 
