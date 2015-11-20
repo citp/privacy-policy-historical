@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danceworld.ie privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629205021id_/http%3A//www.danceworld.ie/section/Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danceworld.ie privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120020902id_/http%3A//www.danceworld.ie/section/Policy) for the most accurate reproduction.*
 
 # Policy | Danceworld
 
