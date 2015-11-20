@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zigverve.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315015825id_/http%3A//zigverve.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zigverve.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120225854id_/http%3A//zigverve.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Zigverve
+# Privacy | Zigverve - The lifestyle blog | Health, Fitness, Spirituality, Yoga, Meditation, Foods and drinks, Beauty & Fashion, Books
 
 This Privacy Policy governs the manner in which Zigverve.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://zigverve.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Zigverve.com.
 
@@ -32,10 +32,7 @@ We may use information in the aggregate to understand how our Users as a group u
 We continually strive to improve our website offerings based on the information and feedback we receive from you.
   * _To administer a content, promotion, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _To send periodic emails_
-
-The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
-
+  * _To send periodic emails_ The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
 
@@ -73,10 +70,8 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-Zigverve.com
-
 http://zigverve.com
 
 Gents Hostel, AIIMS, Ansari Nagar, New Delhi – 110029
 
-email: contact@zigverve.com
+email: info@zigverve.com
