@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdfcsec.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503171726id_/http%3A//www.hdfcsec.com/Privacy-Policy/201009091238093125000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdfcsec.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120085611id_/http%3A//hdfcsec.com/Privacy-Policy/201009091238093125000) for the most accurate reproduction.*
 
 # HDFC securities
 
