@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rankranger.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317152129id_/https%3A//www.rankranger.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankranger.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120040531id_/https%3A//www.rankranger.com/privacy) for the most accurate reproduction.*
 
 # Rank Ranger Privacy Policy
 
