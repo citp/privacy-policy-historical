@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ata.gov.et privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625065218id_/http%3A//www.ata.gov.et/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ata.gov.et privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120025746id_/http%3A//www.ata.gov.et/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Ethiopian Agricultural Transformation Agency
 
@@ -31,4 +31,4 @@ You may opt out of any future contacts from us at any time. You can do the follo
 
 ## How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please  send us an email at[ ](https://web.archive.org/web/20150625065218id_/http://www.ata.gov.et/privacy-policy/info@ata.gov.et)[info@ata.gov.et](mailto:%69nfo@a%74a.%67o%76%2eet)
+Should you have other questions or concerns about these privacy policies, please  send us an email at[ ](https://web.archive.org/web/20151120025746id_/http://www.ata.gov.et/privacy-policy/info@ata.gov.et)[info@ata.gov.et](mailto:info@ata.%67%6f%76.%65%74)
