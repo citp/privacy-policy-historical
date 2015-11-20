@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w3resource.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624074430id_/https%3A//www.w3resource.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3resource.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120020950id_/https%3A//www.w3resource.com/privacy.php) for the most accurate reproduction.*
 
 # About privacy policy of w3resource
 
@@ -15,3 +15,5 @@
 6\. If links of other web sites are used, w3resource do not have any reponsiblity of their privacy policies.
 
 7\. You can mail to w3resource[at]yahoo[dot]com if you want to know any further information regarding our privacy policy. 
+
+8\. Though w3resource.com does not use cookies to collect user information, our partners (e.g. Google) uses cookies for user as well as business analytics. We have a provision for taking our users consent when (s)he visits our site for the first time
