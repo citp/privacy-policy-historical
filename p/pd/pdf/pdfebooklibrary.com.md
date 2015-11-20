@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfebooklibrary.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314210211id_/http%3A//pdfebooklibrary.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfebooklibrary.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120183453id_/http%3A//pdfebooklibrary.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
