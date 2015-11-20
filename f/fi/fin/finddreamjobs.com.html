@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the finddreamjobs.com privacy policy that was archived on 2015-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150613062352id_/http%3A//finddreamjobs.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the finddreamjobs.com privacy policy that was archived on 2015-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151120041113id_/http%3A//finddreamjobs.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html prefix="og: http://ogp.me/ns#" xml:lang="en-gb" lang="en-gb"><head>
 	<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://www.google.com/jsapi"></script>
@@ -17,17 +17,19 @@
   <link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
   <link rel="stylesheet" href="/components/com_k2/css/k2.css" type="text/css">
   <link rel="stylesheet" href="/cache/widgetkit/widgetkit-2d06c505.css" type="text/css">
-  <link rel="stylesheet" href="/templates/timesfx/css-compiled/menu-ee94196d149df046caf9bbd53122f543.css" type="text/css">
+  <link rel="stylesheet" href="/templates/timesfx/css-compiled/menu-4b6f2a1d71dff122f2a6f3040d4e2e7c.css" type="text/css">
   <link rel="stylesheet" href="/libraries/gantry/css/grid-responsive.css" type="text/css">
   <link rel="stylesheet" href="/templates/timesfx/css/grid-responsive.css" type="text/css">
   <link rel="stylesheet" href="/templates/timesfx/css-compiled/bootstrap.css" type="text/css">
-  <link rel="stylesheet" href="/templates/timesfx/css-compiled/master-154d0b18bafd18562115f03fc63c976b.css" type="text/css">
+  <link rel="stylesheet" href="/templates/timesfx/css-compiled/master-0f50cbc24ed090d3556c219bf91d0535.css" type="text/css">
   <link rel="stylesheet" href="/templates/timesfx/css-compiled/mediaqueries.css" type="text/css">
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic" type="text/css">
   <link rel="stylesheet" href="/media/com_acymailing/css/module_default.css?v=1427227999" type="text/css">
   <style type="text/css">
 #rt-logo {background: url(/images/logo_FDJ2.png) 50% 0 no-repeat !important;}
 #rt-logo {width: 353px;height: 45px;}
 
+h1, h2, h3, h4, h5, h6, .gf-menu .item, .btl-content-block h3, .button, .readon, .readmore, button.validate, #member-profile a, #member-registration a, .formelm-buttons button, .btl-buttonsubmit input.btl-buttonsubmit, .btl-buttonsubmit button.btl-buttonsubmit, #rt-menu input, .highlighter .gkHighlighterInterface span.text, .highlighter .gkHighlighterWrapper span, .gkTabsWrap.vertical ol li, .gkTabsWrap.horizontal ol li, .nspMainPortalMode4 .nspHeader a, .sj-slideshowii .sl2-slide .slide-items .slide-item .slide-title, .sj-slideshowii .sl2-wrap .sl2-more .sl2-title, .menu-block a.icon i { font-family: 'Roboto', 'Helvetica', arial, serif !important; }
   </style>
   <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
   <script src="/media/system/js/core.js" type="text/javascript"></script>
@@ -78,24 +80,79 @@ jQuery(window).on('load',  function() {
 				acymailing['NO_LIST_SELECTED'] = 'Please select the lists you want to subscribe to';
 		
   </script>
+    
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,400italic,600italic" rel="stylesheet" type="text/css">
 </head>
-<body class="logo-type-custom headerstyle-light backgroundstyle-style3 font-family-helvetica font-size-is-default menu-type-dropdownmenu layout-mode-responsive col12">
+<body class="logo-type-custom headerstyle-light backgroundstyle-style3 font-family-roboto font-size-is-default menu-type-dropdownmenu layout-mode-responsive col12">
 	<div class="headerwrapper rt-container">
         <header id="rt-top-surround">
 						<div id="rt-header">
 			<div class="rt-container">
-				<div class="rt-grid-12 rt-alpha rt-omega">
+				<div class="rt-grid-4 rt-alpha">
             <div class="rt-block logo-block">
             <a href="/" id="rt-logo-f"></a>
         </div>
         
+</div>
+<div class="rt-grid-4">
+               <div class="rt-block searchjob">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="customsearchjob">
+	<p><input id="searchtxt" style="text-indent: inherit;" type="text"> <button id="btnSearch" class="button btn">Find Jobs</button></p>
+<script>// <![CDATA[
+window.onload = function() {
+document.getElementById('btnSearch').onclick = OpenSearch;
+}
+	document.getElementById('btnSearch').onclick = OpenSearch;
+document.getElementById('searchtxt').onkeypress = function searchKeyPress(event) {
+        if (event.keyCode == 13) {
+            document.getElementById('btnSearch').click();
+        }
+    };
+
+function OpenSearch(){
+	window.location = '/itemlist/search' + replaceQueryParam('searchword', document.getElementById("searchtxt").value, window.location.search)
+}
+
+function replaceQueryParam(param, newval, search) {
+    var regex = new RegExp("([?;&])" + param + "[^&;]*[;&]?");
+    var query = search.replace(regex, "$1").replace(/&$/, '');
+
+    return (query.length > 2 ? query + "&" : "?") + (newval ? param + "=" + newval : '');
+}
+// ]]></script></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-4 rt-omega">
+               <div class="rt-block hidden-phone">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="customhidden-phone">
+	<div class="jfx_social">
+<ul><!--<li><a title="Facebook" href="https://www.facebook.com/pages/Free-Sample-Finder-USA/988003411292519" target="_blank"><span class="icon-facebook"><span class="hiddentext">FACEBOOK</span></span></a></li>-->
+<li><a title="Twitter" href="https://twitter.com/finddreamjobs" target="_blank"><span class="icon-twitter"><span class="hiddentext">TWITTER</span></span></a></li>
+<li><a title="Pinterest" href="https://www.pinterest.com/findadreamjob/" target="_blank"><span class="icon-pinterest"><span class="hiddentext">PINTEREST</span></span></a></li>
+</ul>
+</div></div>
+	                	</div>
+                	</div>
+           </div>
+	
 </div>
 				<div class="clear"></div>
 			</div>
 		</div>
 						<div id="rt-menu">
 			<div class="rt-container">
-				<div class="rt-grid-9 rt-alpha">
+				<div class="rt-grid-12 rt-alpha rt-omega">
     	<div class="rt-block menu-block">
 		<div class="gf-menu-device-container"></div>
 <ul class="gf-menu l1 ">
@@ -147,14 +204,6 @@ jQuery(window).on('load',  function() {
 
 
                     </li>
-                            <li class="item231">
-
-            <a class="item" href="/about-us">
-
-                                About Us                            </a>
-
-
-                    </li>
                             <li class="item251">
 
             <a class="item" href="/search-for-jobs">
@@ -165,26 +214,6 @@ jQuery(window).on('load',  function() {
                     </li>
             </ul>		<div class="clear"></div>
 	</div>
-	
-</div>
-<div class="rt-grid-3 rt-omega">
-               <div class="rt-block menulast hidden-phone">
-           	<div class="module-surround">
-	           		                	<div class="module-content">
-	                		
-<div id="k2ModuleBox125" class="k2SearchBlock menulast hidden-phone">
-	<form action="/itemlist/search" method="get" autocomplete="off" class="k2SearchBlockForm">
-
-		<input type="text" value="Search" name="searchword" maxlength="40" size="40" alt="Search" class="inputbox" onblur="if(this.value=='') this.value='Search';" onfocus="if(this.value=='Search') this.value='';">
-
-		
-		<input type="hidden" name="categories" value="">
-					</form>
-
-	</div>
-	                	</div>
-                	</div>
-           </div>
 	
 </div>
 				<div class="clear"></div>
@@ -205,6 +234,12 @@ jQuery(window).on('load',  function() {
 <div id="rt-main" class="mb8-sa4">
                 <div class="rt-container">
                     <div class="rt-grid-8 ">
+                                                <div id="rt-content-top">
+                            <div class="rt-grid-8 rt-alpha rt-omega">
+               
+	
+</div>
+                        </div>
                         						                        						<div class="rt-block">
 	                        <div id="rt-mainbody">
 								<div class="component-content">
@@ -347,6 +382,20 @@ jQuery(window).on('load',  function() {
 	                	</div>
                 	</div>
            </div>
+	           <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="custom">
+	<p>&nbsp;</p>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<p>
+<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-556c9d50176a2d07" async="async" type="text/javascript"></script>
+</p></div>
+	                	</div>
+                	</div>
+           </div>
 	
 </div>
 <div class="rt-grid-4">
@@ -359,16 +408,16 @@ jQuery(window).on('load',  function() {
 			</div>		
 			</div>
 	                		                	<div class="module-content">
-	                		<div class="acymailing_modulehidden-phone" id="acymailing_module_formAcymailing65271">
-	<div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing65271">
-		<form id="formAcymailing65271" action="/privacy-policy" onsubmit="return submitacymailingform('optin','formAcymailing65271')" method="post" name="formAcymailing65271">
+	                		<div class="acymailing_modulehidden-phone" id="acymailing_module_formAcymailing13161">
+	<div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing13161">
+		<form id="formAcymailing13161" action="/privacy-policy" onsubmit="return submitacymailingform('optin','formAcymailing13161')" method="post" name="formAcymailing13161">
 		<div class="acymailing_module_form">
 			<div class="acymailing_introtext">Stay tuned with our latest news!</div>						<table class="acymailing_form">
 				<tbody><tr>
 												<td class="acyfield_name">
-								<input id="user_name_formAcymailing65271" onfocus="if(this.value == 'Name') this.value = '';" onblur="if(this.value=='') this.value='Name';" class="inputbox" type="text" name="user[name]" style="width:90%" value="Name">
+								<input id="user_name_formAcymailing13161" onfocus="if(this.value == 'Name') this.value = '';" onblur="if(this.value=='') this.value='Name';" class="inputbox" type="text" name="user[name]" style="width:90%" value="Name">
 							</td> </tr><tr>							<td class="acyfield_email">
-								<input id="user_email_formAcymailing65271" onfocus="if(this.value == 'E-mail') this.value = '';" onblur="if(this.value=='') this.value='E-mail';" class="inputbox" type="text" name="user[email]" style="width:90%" value="E-mail">
+								<input id="user_email_formAcymailing13161" onfocus="if(this.value == 'E-mail') this.value = '';" onblur="if(this.value=='') this.value='E-mail';" class="inputbox" type="text" name="user[email]" style="width:90%" value="E-mail">
 							</td> </tr><tr>
 
 					
@@ -385,7 +434,7 @@ jQuery(window).on('load',  function() {
 
 
 					<td class="acysubbuttons">
-												<input class="button subbutton btn btn-primary" type="submit" value="Subscribe" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing65271'); }catch(err){alert('The form could not be submitted '+err);return false;}">
+												<input class="button subbutton btn btn-primary" type="submit" value="Subscribe" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing13161'); }catch(err){alert('The form could not be submitted '+err);return false;}">
 											</td>
 				</tr>
 			</tbody></table>
@@ -396,7 +445,7 @@ jQuery(window).on('load',  function() {
 			<input type="hidden" name="redirectunsub" value="http%3A%2F%2Ffinddreamjobs.com%2Fprivacy-policy">
 			<input type="hidden" name="option" value="com_acymailing">
 						<input type="hidden" name="hiddenlists" value="1">
-			<input type="hidden" name="acyformname" value="formAcymailing65271">
+			<input type="hidden" name="acyformname" value="formAcymailing13161">
 									</div>
 		</form>
 	</div>
@@ -442,9 +491,10 @@ jQuery(window).on('load',  function() {
 
 <div class="customhidden-phone">
 	<div class="jfx_social">
-<ul><!--<li><a title="Facebook" href="https://www.facebook.com/pages/Free-Sample-Finder-USA/988003411292519" target="_blank"><span class="icon-facebook"><span class="hiddentext">FACEBOOK</span></span></a></li>-->
+<ul>
 <li><a title="Twitter" href="https://twitter.com/finddreamjobs" target="_blank"><span class="icon-twitter"><span class="hiddentext">TWITTER</span></span></a></li>
 <li><a title="Pinterest" href="https://www.pinterest.com/findadreamjob/" target="_blank"><span class="icon-pinterest"><span class="hiddentext">PINTEREST</span></span></a></li>
+<li><img src="/images/IAEW.png" alt=""></li>
 </ul>
 </div></div>
 	                	</div>
