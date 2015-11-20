@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sydneyairport.com.au privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617192004id_/http%3A//www.sydneyairport.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sydneyairport.com.au privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120063943id_/http%3A//www.sydneyairport.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Sydney Airport - Privacy Policy
 
@@ -38,10 +38,15 @@ Information collected in retail and marketing related matters
 In the case of retail and marketing-related matters, we might collect additional information such as:
 
   * your preferences concerning types of products or services;
+  * the products you purchased at the airport or services used at the airport including amount spent on products/services;
+  * how often you visit the airport;
   * the frequency of use of certain types of products or services;
   * the methods, purpose and frequency of travel;
-  * your preferred destinations; and
-  * your income demographics.
+  * your travel destination or preferred destinations;
+  * number of people travelling with you;
+  * number of people you are meeting or farewelling at the airport;
+  * your income demographics; and
+  * your use of our website, www.sydneyairport.com.au ("Website"), our mobile apps and social media platforms you use.
 
 
 
@@ -57,7 +62,7 @@ In the case of investment-related matters we might collect information such as:
 
 **How do we collect information?**
 
-Personal information will normally only be collected directly from you when you deal with us by telephone, by correspondence through a letter, fax or e-mail, via our website, [www.sydneyairport.com.au](http://www.sydneyairport.com.au/) ("Website"), by making an application for an ASIC, ADA or other form of identification card, or through direct face-to-face contact.
+Personal information will normally only be collected directly from you when you deal with us by telephone, by correspondence through a letter, fax or e-mail, via our Website, by making an application for an ASIC, ADA or other form of identification card, or through direct face-to-face contact.
 
 Other ways in which we collect personal information include:
 
@@ -111,11 +116,11 @@ You will generally be given the opportunity to “opt out” from receiving comm
 
 Personal Information collected by Sydney Airport is generally held and used as necessary for purposes directly related to its functions and activities including in any of the following ways:
 
-  * to provide you with services and to help us develop, improve, manage and administer all of the services we provide to you;
+  * to provide you with services and to help us develop, improve, manage and administer all of the services we provide to you including our Website and Wi-Fi service;;
   * to ensure that our business systems are functional and reliable, which may include fulfilling legal obligations;
   * to process applications effectively for the issue of authorities, licenses, passes, permissions and permits (including ADAs, ASICs, and other identification cards);
   * to assess whether or not any authorities, licenses, passes, permissions and permits should be cancelled or suspended;
-  * to conduct marketing activities including market research;
+  * to conduct marketing activities including market research, customer profiling and targeted marketing activities;
   * as part of the investigation and analysis of incidents or occurrences (including potential incidents and occurrences) which occur on or at Sydney Airport;
   * to investigate, respond to and defend claims made against, or involving, Sydney Airport;
   * to contract with individuals; and
@@ -238,4 +243,4 @@ Changes to this Privacy Policy
 
  A current version of this Privacy Policy is available on our website at: [www.sydneyairport.com.au](http://www.sydneyairport.com.au/). Sydney Airport may update this Privacy Policy at any time. Amendments to this Privacy Policy will be posted to the Website and will be effective when posted. Please check our Privacy Policy regularly for updates.
 
-Updated 2 April 2015 
+Updated 17 September 2015 
