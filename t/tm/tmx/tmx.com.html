@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tmx.com privacy policy that was archived on 2015-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315032638id_/http%3A//tmx.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tmx.com privacy policy that was archived on 2015-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151121190340id_/http%3A//www.tmx.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" xmlns="http://www.w3.org/1999/xhtml" lang="en"><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -18,8 +18,8 @@
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <link rel="profile" href="http://microformats.org/profile/hcalendar">
-<link rel="stylesheet" type="text/css" href="/assets/application/css/style.1424114989.min.css" media="all">
-<link rel="stylesheet" type="text/css" href="/assets/application/css/mobile.1424114989.min.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/assets/application/css/style.1447794061.min.css" media="all">
+<link rel="stylesheet" type="text/css" href="/assets/application/css/mobile.1447794061.min.css" media="screen">
 <!--[if lt IE 9]>
 <script type="text/javascript" src="/assets/application/js/ie.1422645926.js"></script>
 <link rel="stylesheet" type="text/css" href="/assets/application/css/ie.1424114989.min.css" media="all"/>
@@ -48,8 +48,8 @@
 <input name="targetURL" value="http://web.tmxmoney.com/quote.php?locale=en" type="hidden">
 <input name="targetsym" value="qm_symbol" type="hidden">
 <div id="getQuote">
-<input class="ac_input left" autocomplete="off" maxlength="30" placeholder="Enter Symbol" name="symbol" id="QuoteSymbol_1">
-<input id="quickQuoteSubmit" value="GO" class="bt_orange right" type="submit">
+<input type="text" name="symbol" id="QuoteSymbol_1" class="ac_input left" autocomplete="off" maxlength="30" placeholder="Enter Symbol" title="Enter Symbol">
+<input type="submit" id="quickQuoteSubmit" value="GO" class="bt_orange right">
 </div>
 <p><a id="qmSymbolLookup" href="#">Symbol Lookup</a></p>
 <div id="symbolResultsList"></div>
@@ -64,7 +64,7 @@
 <div class="top_links_mobile">
 <a href="#" title="Language" class="bt_langue">Language</a>
 <a href="#" title="Search" class="bt_search">Search</a>
-<a href="http://mobile.tmxmoney.com" title="TMXmoney" class="bt_green">TMXmoney</a>
+<a href="http://mobile.tmxmoney.com" title="TMXmoney" class="bt_quote bt_green">TMXmoney</a>
 </div>
 <div class="menu_langue_mobile">
 <a href="?lang=en" lang="en" class="current">English</a>
@@ -73,10 +73,15 @@
 </div>
 <div class="menu_search_mobile">
 <form action="/search" method="get">
-<fieldset>
 <input type="text" id="search_request_mobile" name="q" placeholder="Search this site" title="Search this site">
 <input type="submit" class="bt_blue" value="GO">
-</fieldset>
+</form>
+<div class="clearfixe"></div>
+</div>
+<div class="menu_quote_mobile">
+<form name="quickQuoteMobile" id="quickQuoteMobile" action="http://mobile.tmxmoney.com/quote/" method="get">
+<input type="text" id="quote_request_mobile" name="symbol" autocomplete="off" maxlength="30" placeholder="Enter Symbol" title="Enter Symbol">
+<input type="submit" class="bt_orange" value="GO">
 </form>
 <div class="clearfixe"></div>
 </div>
@@ -84,8 +89,8 @@
 <div class="banner">
 <div class="wrapper">
 <div class="logo">
-<a href="/" title="TMX - Back to Home Page">
-<img src="/assets/application/img/logo_tmx.1411667842.png" width="112" height="98" alt="TMX – The Canadian Stock Market">
+<a href="/" title="Back to Home Page">
+<img src="/assets/application/img/logo_tmx.1447794061.png" height="75" alt="TMX">
 </a>
 <div class="title_website">TMX – The Canadian Stock Market</div>
 </div>
@@ -106,13 +111,12 @@
 </div>
 <div class="search_form left">
 <form action="/search" method="get" class="right" id="site-searchbox">
-<fieldset>
 <input type="text" id="search_request" name="q" class="left placeholder" title="Search this site" placeholder="Search this site">
 <input type="submit" id="search_btn" class="bt_blue left" value="GO">
-</fieldset>
 </form>
 </div>
 </div>
+<div class="clearfixe"></div>
 </div>
 </div>
 <div class="banner_category tmx_generic">
@@ -175,34 +179,61 @@
 <div class="clearfixe"></div>
 </div>
 <div class="footer">
-<div class="wrapper">
-<a href="#top" class="back_top right">Back to top</a>
+<div id="wrapper_back_top" class="wrapper">
+<a id="back_top" href="#top">Back to top</a>
 </div>
 <div class="clearfixe"></div>
-<div class="bg_footer">
+<div id="footer_pillars" class="bg_footer">
 <div class="wrapper">
-<div class="label_footer left">
-<a href="http://www.tmx.com/?lang=en" class="blank tmx_group">TMX GROUP</a>
+<div class="tmx_logo">
+<a href="http://www.tmx.com/?lang=en" class="blank"><img src="/assets/application/img/logo_tmx_footer.1447794061.png" alt="TMX" width="65" height="58"></a>
 </div>
-<div class="tmx_group_links left">
-<a href="http://www.tsx.com/?lang=en" class="blank toronto_stock">Toronto Stock Exchange</a>
-<a href="http://www.tsx.com/?lang=en" class="blank tsx_venture">TSX Venture Exchange</a>
-<a href="http://www.tsx.com/?lang=en" class="blank tmx_select">TMX Select</a>
-<a href="http://www.tsx.com/?lang=en" class="blank alpha">Alpha</a>
-<a href="http://www.tsxprivatemarkets.com/" class="blank private_markets">TSX Private Markets</a>
-<a href="http://www.m-x.ca/accueil_en.php" class="blank montreal_exchange">Montréal Exchange</a>
-<a href="http://www.boxexchange.com/" class="blank box">BOX</a>
-<a href="http://www.cds.ca/?lang=en" class="blank canadian_depository">Canadian Depository for Securities</a>
-<a href="http://www.cdcc.ca/index_en" class="blank canadian_derivatives">Canadian Derivatives Clearing Corporation</a>
-<a href="http://www.ngx.com/" class="blank ngx">NGX</a>
-<a href="http://www.shorcan.com/" class="blank shorcan">Shorcan</a>
-<a href="http://www.tmxtechsolutions.com/" class="blank tmx_technology">TMX Technology Solutions</a>
-<a href="http://www.tmxinfoservices.com/?lang=en" class="blank tmx_datalinx">TMX Datalinx</a>
-<a href="http://www.tmxatrium.com/en/" class="blank tmx_atrium">TMX Atrium</a>
-<a href="http://www.tmxequicom.com/" class="blank equicom">TMX Equicom</a>
-<a href="http://www.tmxequitytransferservices.com/" class="blank tmx_equity">TMX Equity Transfer Services</a>
+<div class="pillars">
+<div class="pillar pillar1">
+<div class="caption">Capital Formation</div>
+<ul>
+<li><a href="http://www.tsx.com/?lang=en" class="blank">Toronto Stock Exchange</a></li>
+<li><a href="http://www.tsx.com/?lang=en" class="blank">TSX Venture Exchange</a></li>
+<li><a href="http://www.tsxprivatemarkets.com/" class="blank">TSX Private Markets</a></li>
+<li><a href="http://www.tmxequitytransferservices.com/" class="blank">TMX Equity Transfer Services</a></li>
+</ul>
+</div>
+<div class="pillar pillar2">
+<div class="caption">Derivatives</div>
+<ul>
+<li><a href="http://www.m-x.ca/accueil_en.php" class="blank">Montréal Exchange</a></li>
+<li><a href="http://www.cdcc.ca/index_en" class="blank">CDCC</a></li>
+<li><a href="http://www.boxexchange.com/" class="blank">BOX</a></li>
+</ul>
+</div>
+<div class="pillar pillar3">
+<div class="caption">Efficient Markets</div>
+<ul>
+<li><a href="http://www.tsx.com/?lang=en" class="blank">Toronto Stock Exchange</a></li>
+<li><a href="http://www.tsx.com/?lang=en" class="blank">TSX Venture Exchange</a></li>
+<li><a href="http://www.tsx.com/?lang=en" class="blank">TSX Alpha Exchange</a></li>
+<li><a href="http://www.cds.ca/?lang=en" class="blank">CDS</a></li>
+<li><a href="http://www.ngx.com/" class="blank">NGX</a></li>
+<li><a href="http://www.shorcan.com/" class="blank">Shorcan</a></li>
+</ul>
+</div>
+<div class="pillar pillar4">
+<div class="caption">Market Insights</div>
+<ul>
+<li><a href="http://www.tmxinfoservices.com/tmx-datalinx/?lang=en" class="blank">TMX Datalinx</a></li>
+<li><a href="http://www.tmxinfoservices.com/tmx-insights/?lang=en" class="blank">TMX Insights</a></li>
+<li><a href="http://www.tmxinfoservices.com/tmx-atrium/?lang=en" class="blank">TMX Atrium</a></li>
+<li><a href="http://www.tmxexplore.com/en/" class="blank">eXplore</a></li>
+</ul>
+</div>
+<div class="pillar pillar5">
+<div class="caption">Market Solutions</div>
+<ul>
+<li><a href="https://agriclear.com/" class="blank">AgriClear</a></li>
+</ul>
 </div>
 <div class="clearfixe"></div>
+</div>
 </div>
 </div>
 <div class="footer_links wrapper">
@@ -235,7 +266,7 @@
 </a>
 </div>
 <div class="copyright right">
-Copyright © 2015 TMX Group Limited All rights reserved. </div>
+Copyright © 2015 TSX Inc. All rights reserved. </div>
 <div class="clearfixe"></div>
 <div class="disclaimer">
 <p>TMX Group Limited and its affiliates do not endorse or recommend any securities issued by any companies identified on, or linked through, this site. Please seek professional advice to evaluate specific securities or other content on this site. All content (including any links to third party sites) is provided for informational purposes only (and not for trading purposes), and is not intended to provide legal, accounting, tax, investment, financial or other advice and should not be relied upon for such advice. The views, opinions and advice of any third party reflect those of the individual authors and are not endorsed by TMX Group Limited or its affiliates. TMX Group Limited and it affiliates have not prepared, reviewed or updated the content of third parties on this site or the content of any third party sites, and assume no responsibility for such information.</p>
@@ -264,32 +295,31 @@ Copyright © 2015 TMX Group Limited All rights reserved. </div>
 <ul class="level2">
 <li><a href="/tmx-group/tmx-broadcast-centre/facility-rentals">Facility Rentals</a></li>
 <li><a href="/tmx-group/tmx-broadcast-centre/media-services">Media Services</a></li>
+<li><a href="http://www.tsx.com/tsx-company-services/connecting-with-investors/market-open-ceremony?lang=en" target="_blank" class="blank">Market Open Ceremony</a></li>
 </ul>
 </li>
 <li><h5><a href="/tmx-group/tmx-group-companies">TMX Group Companies</a></h5>
 <ul class="level2">
 <li><a href="http://www.tsx.com" target="_blank" class="blank">Toronto Stock Exchange</a></li>
 <li><a href="http://www.tsx.com" target="_blank" class="blank">TSX Venture Exchange</a></li>
-<li><a href="http://www.tsx.com" target="_blank" class="blank">Alpha</a></li>
-<li><a href="http://www.tsx.com" target="_blank" class="blank">TMX Select</a></li>
+<li><a href="http://www.tsx.com" target="_blank" class="blank">TSX Alpha Exchange</a></li>
 <li><a href="http://tsxprivatemarkets.com/" target="_blank" class="blank">TSX Private Markets</a></li>
 <li><a href="http://www.cds.ca" target="_blank" class="blank">CDS</a></li>
-<li><a href="http://www.tmxequicom.com" target="_blank" class="blank">TMX Equicom</a></li>
 <li><a href="http://www.tmxequitytransferservices.com" target="_blank" class="blank">TMX Equity Transfer Services</a></li>
 <li><a href="http://www.m-x.ca/accueil_en.php" target="_blank" class="blank">Montréal Exchange</a></li>
 <li><a href="http://www.cdcc.ca/index_en" target="_blank" class="blank">CDCC</a></li>
 <li><a href="http://www.shorcan.com" target="_blank" class="blank">Shorcan</a></li>
 <li><a href="http://www.ngx.com" target="_blank" class="blank">NGX</a></li>
 <li><a href="http://www.tmxinfoservices.com" target="_blank" class="blank">TMX Datalinx</a></li>
-<li><a href="http://tmxatrium.com/en/" target="_blank" class="blank">TMX Atrium</a></li>
-<li><a href="http://www.tmxtechsolutions.com" target="_blank" class="blank">TMX Technology Solutions</a></li>
+<li><a href="http://www.tmxinfoservices.com/tmx-insights" target="_blank" class="blank">TMX Insights</a></li>
+<li><a href="http://www.tmxinfoservices.com/tmx-atrium" target="_blank" class="blank">TMX Atrium</a></li>
 </ul>
 </li>
 <li><h5><a href="/tmx-group/regulatory-policies">Regulatory Policies</a></h5>
 <ul class="level2">
 <li><a href="/tmx-group/regulatory-policies/toronto-stock-exchange-regulatory-policies-and-procedures">Toronto Stock Exchange Regulatory Policies and Procedures</a></li>
 <li><a href="/tmx-group/regulatory-policies/tsx-venture-exchange-regulatory-policies-and-procedures">TSX Venture Exchange Regulatory Policies and Procedures</a></li>
-<li><a href="/tmx-group/regulatory-policies/alpha-regulatory-policies-and-procedures">Alpha Regulatory Policies and Procedures</a></li>
+<li><a href="/tmx-group/regulatory-policies/tsx-alpha-exchange-regulatory-policies-and-procedures">TSX Alpha Exchange Regulatory Policies and Procedures</a></li>
 </ul>
 </li>
 </ul>
@@ -446,17 +476,10 @@ Copyright © 2015 TMX Group Limited All rights reserved. </div>
 </li>
 </ul>
 </div>
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/assets/application/js/common.1424114989.min.js"></script>
+<script type="text/javascript" src="/assets/application/js/common.1447794062.min.js"></script>
 <!--[if lt IE 10]>
 <script type="text/javascript" src="/assets/application/js/jquery-jlabel-1.3.1411667843.min.js"></script>
 <![endif]-->
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-20045-16', 'auto');
-ga('send', 'pageview');
-</script>
+<script type="text/javascript" src="/assets/application/js/ga.1442610894.min.js"></script>
 
 </body></html>
