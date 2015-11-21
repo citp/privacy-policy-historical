@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themegrill.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609105334id_/http%3A//themegrill.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themegrill.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121220733id_/http%3A//themegrill.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ThemeGrill
 
