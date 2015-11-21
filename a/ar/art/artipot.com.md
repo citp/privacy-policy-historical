@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artipot.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317140818id_/http%3A//www.artipot.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artipot.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121171322id_/http%3A//www.artipot.com/info/privacy.htm) for the most accurate reproduction.*
 
 # Artipot Privacy Policy
 
