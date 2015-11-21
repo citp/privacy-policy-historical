@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the aatravel.co.nz privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415033327id_/http%3A//www.aatravel.co.nz/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aatravel.co.nz privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121201518id_/http%3A//www.aatravel.co.nz/main/privacy.php) for the most accurate reproduction.*
 
 # AA Privacy Policy - AA Travel New Zealand
 
 #### 1. Our Philosophy
 
-The New Zealand Automobile Association Inc (“AA”), consider protection of your privacy to be of utmost importance and are committed to providing you with a personalised service that meets your requirements in a way that safeguards your privacy. We appreciate the trust you have placed in us and this policy explains how we may collect information about you and then use it in order to satisfy your particular requirements. It also outlines some of the security measures that we take in order to protect your privacy and gives certain assurances on things that we will not do.
+The New Zealand Automobile Association Inc ("AA"), consider protection of your privacy to be of utmost importance and are committed to providing you with a personalised service that meets your requirements in a way that safeguards your privacy. We appreciate the trust you have placed in us and this policy explains how we may collect information about you and then use it in order to satisfy your particular requirements. It also outlines some of the security measures that we take in order to protect your privacy and gives certain assurances on things that we will not do.
 
 **Receiving Information From Us**
 
 When we first obtain personal information from you, or when you take a new service from us, we will give you the opportunity to indicate if you do or do not (as applicable) wish to receive information from us about other services or products. Normally this will be done by way of a tick box on an application form or contract. 
 
-If you want to update or correct information held by us, including contact preferences, you can call our Membership line toll free on 0800 500 444 (8am to 7pm, Monday to Friday—and 9am to 5pm,Saturday and Sunday). Or, you can change this information online. Click on ‘My AA’ and follow the instructions.
+If you want to update or correct information held by us, including contact preferences, you can call our Membership line toll free on 0800 500 444 (8am to 7pm, Monday to Friday--and 9am to 5pm,Saturday and Sunday). Or, you can change this information online. Click on 'My AA' and follow the instructions.
 
 #### 2. Collection of Information
 
@@ -42,7 +42,7 @@ Whether or not you have opted out in relation to use of your information for dir
 
 In some circumstances, we may do certain credit checks with licensed credit reference agencies when you apply to take a service or product. If this is applicable, then it will be stated in our terms and conditions of business. 
 
-**What We Won’t Do**
+**What We Won't Do**
 
 We will not:
 
@@ -69,7 +69,7 @@ We maintain strict security measures in order to protect personal information. T
 
 #### 6. Access to Personal Information
 
-The Privacy Act 1993 gives you the right to access and correct personal information held by us. Your information is held securely and will not be disclosed to any other person or organisation unless authorised by you. To access your personal information call our Membership line toll on free on 0800 500 444, [visit an AA Centre](http://www.aa.co.nz/Location/Pages/result.aspx), or by using [‘My AA’](https://www.aa.co.nz/site-info/log-in/), our online Membership services tool, which provides access to a limited amount of personal information and services.
+The Privacy Act 1993 gives you the right to access and correct personal information held by us. Your information is held securely and will not be disclosed to any other person or organisation unless authorised by you. To access your personal information call our Membership line toll on free on 0800 500 444, [visit an AA Centre](http://www.aa.co.nz/Location/Pages/result.aspx), or by using ['My AA'](https://www.aa.co.nz/site-info/log-in/), our online Membership services tool, which provides access to a limited amount of personal information and services.
 
 When you contact us to make changes, by phone, online or at an AA Centre, we will need to verify that you are the Member authorised to obtain and update personal information. We will therefore ask you for your Membership number (the 16-digit number found on your _AA Membership_ card), surname and date of birth.
 
