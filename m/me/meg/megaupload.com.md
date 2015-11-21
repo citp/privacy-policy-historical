@@ -1,48 +1,21 @@
-> *The following text is extracted and transformed from the megaupload.com privacy policy that was archived on 2007-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070110063551id_/http%3A//www.megaupload.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megaupload.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121155915id_/http%3A//xyz.xyz/privacy) for the most accurate reproduction.*
 
-# MEGAUPLOAD - The leading online storage and file delivery service
+# Privacy Policy – Domain Names for Generation XYZ®
 
-**Logging IP Addresses**  
-For each visitor to our Web page, our Web server does not recognize any information regarding the domain or e-mail address. IP addresses are logged and used by Megaupload for measuring usage. 
+We respect your privacy. XYZ® has created this privacy statement in order to demonstrate our commitment to you, our customer. This privacy statement discloses the privacy practices for this website, xyz.xyz (the "Website”, "Us”, "Our”). By using the Website you agree to the privacy practices disclosed below.
 
-**Collecting e-mail Addresses**   
-We collect the e-mail addresses of Megaupload Delivery recipients and senders for the purpose of logging and measuring usage. Megaupload does not rent, sell, or share personal information about you with nonaffiliated companies. 
+## Privacy Practices
 
-**Certain Exceptional Disclosures**   
-We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct or potential threats to the physical safety of any person. Disclosure may be required by law or if we receive legal process. 
+  * We do not give third parties access to your personal information other than as outlined in this privacy policy.
+  * We only send email to you if you have elected to receive it.
+  * If we determine that any account with us is being used for the purpose of sending spam or engaging in malicious activities, we will take action to shut it down as soon as possible.
 
-**Use of Cookies**   
-Megaupload uses cookies to store the preferences of users. 
 
-**File Transfer Security**   
-We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. Files stored for delivery are only accessible by Megaupload and through the clickable link generated for your recipient. All files stored for delivery are deleted when they expire. 
 
-**Third Party Advertising**   
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
+We will never give any information about you to others without your express permission. Our site uses forms in which you give us contact information (like your name, address, phone number, and email address) so you can create an account, place orders, request information, etc. We may share specific information with business partners or contractors when the information is needed to fulfill your request for a product or service. We also use your contact information when it will be important for us to contact you regarding functionality changes to our products, our website, new services and special offers we think you’ll find valuable, and provide customer service.
 
-**Third Party Cookies**   
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+We use information gathered about you from our site statistics via log files provided by third party tracking partners (for example your IP address) to help diagnose problems with our server, and to administer our website. We also gather broad demographic information from this data to help us improve our site and your experience. This information collection is not linked to any personally identifiable information. Our site uses cookies to keep track of your session information and to provide you with customized information. We do link the information we store in cookies to personally identifiable information you submit while on our site.
 
-Effective Date: November 1, 2006 
-**Logging IP Addresses**  
-For each visitor to our Web page, our Web server does not recognize any information regarding the domain or e-mail address. IP addresses are logged and used by Megaupload for measuring usage. 
+We may use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided by your internet browser (ex: Mozilla Firefox or Internet Explorer).
 
-**Collecting e-mail Addresses**   
-We collect the e-mail addresses of Megaupload Delivery recipients and senders for the purpose of logging and measuring usage. Megaupload does not rent, sell, or share personal information about you with nonaffiliated companies. 
-
-**Certain Exceptional Disclosures**   
-We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct or potential threats to the physical safety of any person. Disclosure may be required by law or if we receive legal process. 
-
-**Use of Cookies**   
-Megaupload uses cookies to store the preferences of users. 
-
-**File Transfer Security**   
-We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. Files stored for delivery are only accessible by Megaupload and through the clickable link generated for your recipient. All files stored for delivery are deleted when they expire. 
-
-**Third Party Advertising**   
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
-
-**Third Party Cookies**   
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
-
-Effective Date: November 1, 2006 
+We also may use cookies to store your username if you request to remember your username during login. That information will be used to pre-fill the login form at a later time. If you are referred to our website through an ad or a partner, we will store the referral information in the cookies.
