@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candere.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610052826id_/http%3A//www.candere.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candere.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122003504id_/http%3A//www.candere.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
