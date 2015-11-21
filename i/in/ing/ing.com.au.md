@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ing.com.au privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518144316id_/http%3A//www.ingdirect.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ing.com.au privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121031022id_/http%3A//www.ingdirect.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy - ING DIRECT
 
@@ -131,6 +131,10 @@ If we no longer require your personal information for a purpose, for example, to
 ### Use of internet cookies
 
 ING DIRECT may use cookies to assist you in accessing information on our websites which is of interest and relevance to you. Cookies are a way of storing information on your computer so you do not have to enter the same data every time you access our sites - for instance, your e-mail address. We may also use cookies to capture general information about how you have found our website, or to track the number of visitors to a site, but we do not store any of your personal details when we do this.
+
+### ING Global Privacy Standards
+
+ING DIRECT's parent company, ING Bank N.V., has established global privacy standards for all ING Group companies known as Binding Corporate Rules (BCRs). The BCRs, which are known as the [ING Global Data Protection Policy](http://www.ing.com/web/file?uuid=cdf65d75-7e8a-488b-9c0b-4f5f29d719e2&owner=b03bc017-e0db-4b5d-abbf-003b12934429&contentid=35330) (GDPP), were approved by the Data Protection Authorities in all EU Member States. They are our commitment to protect your personal information and honour our privacy obligations regardless of where your personal information is collected, processed or stored within the ING Group of companies.
 
 ### How to contact us
 
