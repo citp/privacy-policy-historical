@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoot.co.uk privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512165607id_/http%3A//www.scoot.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoot.co.uk privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121094500id_/http%3A//www.scoot.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Scoot the UK Business Finder | Privacy Policy
 
@@ -80,5 +80,4 @@ This Privacy Policy forms part of our website Terms and Conditions and as such s
 
 Back to the top
 
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.  
-[Learn more](https://web.archive.org/cookie-policy)Accept
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.[Learn more](https://web.archive.org/cookie-policy)Accept
