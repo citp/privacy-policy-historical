@@ -1,55 +1,135 @@
-> *The following text is extracted and transformed from the english-for-students.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609023539id_/http%3A//www.english-for-students.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the english-for-students.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122004040id_/http%3A//www.english-for-students.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy : You must read.
+# english-for-students.com | Privacy Policy
 
-## Privacy Policy
+**What information do we collect?**
 
-Here is our Privacy Policy which you should read before you submit your personal information to us. 
+We collect information from you when you register on our site or subscribe to our newsletter. 
 
-We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use www.english-for-students.com as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing your personal information with us. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-This site, www.english-for-students.com, strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website. 
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-**Personal Information :**
+ **DoubleClick DART Cookie**
 
-This site, www.english-for-students.com, collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, postal address, email address, company name and telephone number. 
+.:: Google, as a third party vendor, uses cookies to serve ads on english-for-students.com.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to english-for-students.com and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://google.com/privacy_ads.html 
 
-This information is collected if you request information from us and sign up to join our email list or request some other service or information from us. The information collected is internally reviewed, used to improve the content of our website, notify our visitors of updates and respond to visitor inquiries. 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
+Google Adsense   
+Commission Junction   
+Widget Bucks   
+Adbrite   
+Clickbank   
+Epic / Azoogle   
+Chitika   
+Linkshare   
+Amazon   
+Kontera   
+Advertising.com   
+CPAStorm   
+Burst   
+Valueclick   
+InfoLinks   
+Vibrant Media   
+24/7 Real Media   
+Tribal Fusion   
+Casale   
+Tremor Media   
+Adify   
 
-Once information is reviewed, it is discarded or stored in our files. If we make material changes in the collection of personally identifiable information we will inform you by placing a notice on our site. Personal information received from any visitor will be used only for internal purposes and will not be sold or provided to third parties. 
 
-**Use of Cookies and Web Beacons :**
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on english-for-students.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site's services, a cookie enables www.english-for-students.com to recall your specific information on subsequent visits. 
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
-You have the ability to accept or decline cookies by modifying your Web browser. However, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site. 
+english-for-students.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a web site. 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. english-for-students.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-We may serve third party advertisements that use cookies and web beacons in the course of ads being served on our web site to ascertain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site. 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
 
-Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site : should you so choose. 
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-**Non-Personal Information :**
+**What do we use your information for?**
 
-In some cases, we may collect information about you that is not personally identifiable. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared with other organizations for commercial purposes. 
+Any of the information we collect from you may be used in one of the following ways: 
 
-**Release of Information :**
+\- To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-If www.english-for-students.com is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us. 
+\- To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-**How You Can Correct or Remove Information :**
+\- To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please use our 
+\- To process transactions
 
-[**Contact Us**](http://www.english-for-students.com/Contact-Us.html) form. **Updates and Effective Date :**
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-www.english-for-students.com reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it. 
+\- To administer a contest, promotion, survey or other site feature
 
-**Agreeing to Terms :**
+\- To share with our third party marketing partners so they may send you offers for goods and services which you may find of interest
 
-If you do not agree to www.english-for-students.com Privacy Policy as posted here on this website, please do not use this site or any services offered by this site. 
+\- To send periodic emails
 
-Your use of this site indicates acceptance of this Privacy Policy. 
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, advertisements etc. The email address you provide to subscribe to a newsletter, receive information or enter to win a prize may be used to send you information and updates, relevant content and advertisements.
 
-[From **Privacy Policy** to HOME PAGE](http://www.english-for-students.com/)
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+ **How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+
+ **Do we disclose any information to outside parties?**
+
+Other than described in this privacy policy, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, third party marketers, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
+
+2885 Sanford Ave  
+SW #19781  
+Grandville, MI 49418  
+USA 
+
+english-for-students.com 
+
+Email:  
+contact@english-for-students.com  
+
