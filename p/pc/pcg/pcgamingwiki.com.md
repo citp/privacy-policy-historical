@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcgamingwiki.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619035356id_/http%3A//pcgamingwiki.com/wiki/PCGamingWiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcgamingwiki.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122001330id_/https%3A//pcgamingwiki.com/wiki/PCGamingWiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # PCGamingWiki:Privacy policy - PCGamingWiki PCGW - bugs, fixes, crashes, mods, guides and improvements for every PC game
 
@@ -14,19 +14,19 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google'
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-To personalize your experience 
+To personalize your experience
 
 (your information helps us to better respond to your individual needs) 
 
-To improve our website 
+To improve our website
 
 (we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-To improve customer service 
+To improve customer service
 
 (your information helps us to more effectively respond to your customer service requests and support needs) 
 
-To send periodic emails 
+To send periodic emails
 
 The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
@@ -60,4 +60,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-[afj.tsai@gmail.com](mailto:afj.tsai@gmail.com)
+[andytizer@pcgamingwiki.com](mailto:andytizer@pcgamingwiki.com)
