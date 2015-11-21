@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvguidemagazine.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316041157id_/http%3A//www.tvguidemagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvguidemagazine.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122004103id_/http%3A//www.tvguidemagazine.com/privacy) for the most accurate reproduction.*
 
 # TV Guide Magazine Privacy Policy
 
@@ -64,13 +64,13 @@ We may also use small pieces of code such as “web beacons” or “clear gifs�
 
 We have put in place appropriate physical, electronic and managerial procedures to safeguard and help prevent unauthorized access, maintain data security and correctly use the information we collect. 
 
-To inquire about personally identifiable information that this TV Guide Magazine, LLC website has collected about you, or how to correct factual errors in such information, please email us by contacting [CustomerPrivacy@tvguidemagazine.com](mailto:customerprivacy@tvguidemagazine.com).
+To inquire about personally identifiable information that this TV Guide Magazine, LLC website has collected about you, or how to correct factual errors in such information, please email us by contacting [CustomerPrivacy@tvgm.com](mailto:customerprivacy@tvgm.com).
 
 Children should always get permission from their parents before sending any information about themselves (such as their names, addresses, and phone numbers) over the Internet, to us or to anyone else. If you’re under age 13, please do not register with our websites or provide us with any personally identifying information (such as your name, your email address or your phone number). Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this site.
 
 #### How You can Access or Correct Information
 
-To inquire about personally identifiable information that this TV Guide Magazine, LLC website has collected about you, or how to correct factual errors in such information, please email us by contacting [CustomerPrivacy@tvguidemagazine.com](mailto:customerprivacy@tvguidemagazine.com).
+To inquire about personally identifiable information that this TV Guide Magazine, LLC website has collected about you, or how to correct factual errors in such information, please email us by contacting [CustomerPrivacy@tvgm.com](mailto:customerprivacy@tvgm.com).
 
 #### Changes to this Notice
 
@@ -78,4 +78,4 @@ This Notice may be changed by TV Guide Magazine, LLC. The revised Notice will be
 
 #### How to Contact Us
 
-If you have any questions or concerns about these Privacy Policies or would like to contact us regarding the information you have submitted to us, contact [CustomerPrivacy@tvguidemagazine.com](mailto:customerprivacy@tvguidemagazine.com).
+If you have any questions or concerns about these Privacy Policies or would like to contact us regarding the information you have submitted to us, contact [CustomerPrivacy@tvgm.com](mailto:customerprivacy@tvgm.com).
