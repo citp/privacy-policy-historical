@@ -1,19 +1,71 @@
-> *The following text is extracted and transformed from the thomascook.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224135911id_/http%3A//www.thomascook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomascook.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121145219id_/https%3A//www.thomascook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Information | Thomas Cook
 
 #### PRIVACY POLICY AND INFORMATION ON COOKIES
 
 Thomas Cook understands and respects the importance of your privacy.  This Privacy Policy sets out the basis on which any personal data we collect from you, or you provide to us, will be processed by us.  Please read the following information carefully.  
-For the purpose of the Data Protection Act 1998 (the Act), we, Thomas Cook Retail Ltd, trading as thomascook.com, are the Data Controller for this [www.thomascook.com](http://www.thomascook.com/) website (the “Site”).  
+For the purpose of the Data Protection Act 1998 (the Act), we, Thomas Cook Retail Ltd, trading as thomascook.com, are the Data Controller for this [www.thomascook.com](https://www.thomascook.com/) website (the “Site”).  
 
 #### COOKIES
 
-This Site uses cookies to distinguish you from other users.  Some of these cookies are essential to make this Site work properly, to allow you to make your travel booking or other purchases, and to enable us to fulfil your purchase requests.  Other types of cookie help us to provide you with a good experience when you browse our Site, allow us to improve our Site or the way we provide our service to customers, or are used to provide you with information or offers from Thomas Cook companies or third parties that may be of interest to you.  A summary of the non-essential cookies used on this Site is set out in the attached document.  You can accept or decline cookies at any time by accessing the preference panels from your browser's main menu (usually found under ‘Edit’, ‘Tools’ or ‘Options’).  However, if you choose to remove cookies parts of the Site may not work properly or your use of the Site may be impaired. 
+This Site uses cookies to distinguish you from other users.  Some of these cookies are essential to make this Site work properly, to allow you to make your travel booking or other purchases, and to enable us to fulfil your purchase requests.  Other types of cookie help us to provide you with a good experience when you browse our Site, allow us to improve our Site or the way we provide our service to customers, or are used to provide you with information or offers from Thomas Cook companies or third parties that may be of interest to you.  A summary of the non-essential cookies used on this Site is set out below.  You can accept or decline cookies at any time by accessing the preference panels from your browser's main menu (usually found under ‘Edit’, ‘Tools’ or ‘Options’).  However, if you choose to remove cookies parts of the Site may not work properly or your use of the Site may be impaired. 
 
-  **On-Site advertising and behavioural advertising:  ** Web publishers, advertisers and ad networks use cookies and data to optimise advertising effectiveness.  For some of our partner offers, we tailor advertising offers based on what you have searched for on our Site, to make it relevant to you. 
+Cookie Description| Name| Purpose| Lifetime of cookie  
+---|---|---|---  
+Ad Tech| Ad Tech| These cookies are used to store data for advertising and allow us to amend features based around mobile device and video advertising.| Undisclosed  
+AppNexus| AppNexus| These cookies are used to  store data for advertising and reporting purposes. For example, which ad was shown, the number of times a particular ad has been shown, and how recently an ad has been shown to a particular web browser. It is also used to determine the effectiveness of our advertising and deliver ads that may be of interest and value to you as you browse the web.| Undisclosed  
+sess| Session  
+Autonomy| Autonomy| These cookies are used for analytical data for website performance.| Undisclosed  
+Bazaarvoice| Bazaarvoice| These cookies are used to store data for advertising and reporting purposes. For example, which ad was shown, web browser and social information. It is also used to determine the effectiveness of our advertising and to advertise products and services that may be of interest to you in the future.| 12-18 Months  
+BoldChat| BoldChat| These cookies are used in conjuction with our LiveChat system, giving us analytical reporting data about how we can improve our content and on site experience.| Undisclosed  
+Crazyy Egg| Crazy Egg| These cookies show us where you have clicked on the website, this enables us to stream line our website and make our visitors journey more enjoyable.| Undisclosed  
+Disqus| __utmt| These cookies let Disqus help you log in faster and enhance your navigation through their site. They may also be used to convey information about how the service is used  (e.g., the pages you view).| Undisclosed  
+disqus_unique  
+__jid  
+Disqus  
+DoubleClick| DoubleClick| These cookies are used to store data for advertising and reporting purposes. For example, which ad was shown, the number of times a particular ad has been shown, and how recently an ad has been shown to a particular web browser. It is also used to determine the effectiveness of our advertising and to advertise products and services that may be of interest to you in the future.| 30 days  
+_drt_  
+test_cookie| 15 Minutes  
+id| 30 days  
+IDE  
+DoubleClick Spotlight  
+DoubleClick Floodlight  
+DoubleClick Bid Manager  
+Facebook Custom Audience| Facebook Custom Audience| Facebook Custom Audience is a Remarketing and Behavioral Targeting service provided by Facebook, Inc. that connects the activity of this Application with the Facebook advertising network.  
+Personal Data collected: Cookie and Email address.| Undisclosed  
+Facebook Exchange (FBX)| Facebook Exchange (FBX)| These cookies are used to  store data for advertising and reporting purposes. For example, which ad was shown, the number of times a particular ad has been shown, and how recently an ad has been shown to a particular web browser. It is also used to determine the effectiveness of our advertising and to advertise products and services that may be of interest to you in the future.| Undisclosed  
+Feedbackify| Feedbackify| These cookies are to help enable data aggregation, analysis and report creation to assess our marketing effectiveness and/or performance.| Undisclosed  
+Flashtalking| Flashtalking| These cookies are used to store data for advertising and reporting purposes. For example, which ad was shown, the number of times a particular ad has been shown, and how recently an ad has been shown to a particular web browser. It is also used to determine the effectiveness of our advertising and deliver ads that may be of interest and value to you as you browse the web.| Undisclosed  
+flashtalkingad1  
+Google Adwords| Google Dynamic Remarketing| These cookies are used to store data for advertising and reporting purposes. For example, which ad was shown, the number of times a particular ad has been shown, and how recently an ad has been shown to a particular web browser. It is also used to determine the effectiveness of our advertising and deliver ads that may be of interest and value to you as you browse the web.| Undisclosed  
+Google Analytics| __utmz| These cookies are used to monitor and report on the performance of our website. e.g. the pages that are being viewed and the number of visitors to our website. We also use the advertising features of Google Analytics to determine products and services that may be of interest to you in the future based on actions taken on our website.| 6 Months  
+__utmb| 30 Minutes  
+__utma| 2 Years  
+__utmv| 2 Years  
+__utmc| Session  
+Google Display Network| Google Adsense| These cookies are used to to help determine the effectiveness of our advertising and deliver ads that may be of interest and value to you as you browse the web.| Undisclosed  
+Google Tag Manager| Google Tag Manager| This allows us to easily manage all Tags on our website.| Google Tag Manager is a cookie-less domain and does not collect personal information.   
+i-Behavior| i-Behavior| These cookies are used to store data for advertising and reporting purposes. For example, which ad was shown, the number of times a particular ad has been shown, and how recently an ad has been shown to a particular web browser. It is also used to determine the effectiveness of our advertising and deliver ads that may be of interest and value to you as you browse the web.| Session  
+Integral Ad Science| Integral Ad Science| These cookies are used to store data for advertising and reporting purposes. For example, which ad was shown, the number of times a particular ad has been shown, and how recently an ad has been shown to a particular web browser. It is also used to determine the effectiveness of our advertising and deliver ads that may be of interest and value to you as you browse the web.| Session  
+Intent Media| Intent Media| These cookies are to help enable data aggregation, analysis and report creation to assess our marketing effectiveness and/or performance.| Undisclosed  
+Kampyle| Kampyle| These cookies are used to  store data for advertising and reporting purposes. | Undisclosed  
+ Monetate |  Monetate | These cookies are to help enable data aggregation, analysis and report creation to assess our marketing effectiveness and/or performance.| Undisclosed  
+Optimizely| Optimizely| These cookies give us analytical data for any on site tests we run in relation to making the website experience the best it can be for you. | Undisclosed  
+Qubit| Qubit| These cookies are used to store data for advertising and reporting purposes. For example, which ad was shown, the number of times a particular ad has been shown, and how recently an ad has been shown to a particular web browser. It is also used to determine the effectiveness of our advertising and deliver ads that may be of interest and value to you as you browse the web.| Undisclosed  
+Rubicon| Rubicon| These cookies allow us to determine products and services that may be of interest to you in the future based on actions taken on our website.| Undisclosed  
+Sale Cycle| Sale Cycle| These cookies allow us to remarket targeted ads| Undisclosed  
+Score Card Research Beacon| Score Card Research Beacon| These cookies give us data analysis into website usage and how we can better interact with our visitors.  | 3-6 Months  
+SoundCloud| sc_anonymous_id| SoundCloud sets these cookies on your device because the SoundCloud player is embedded on certain pages of our Website and/or Service.| 10 Years  
+__utmt  
+SoundCloud  
+Sub2| Sub2| These cookies collect both online and offline data to aggregate a better online visitor experience. | Undisclosed  
+Taggstar| Taggstar| These cookies are used in data aggregation in regards to making visitors aware of the amount of visits/sales any viewed product may have previously had.| Undisclosed  
+Turn| Turn| These cookies allow us to utilise and manage our digital campaigns.  | Undisclosed  
+  
+ **On-Site advertising and behavioural advertising:  ** Web publishers, advertisers and ad networks use cookies and data to optimise advertising effectiveness.  For some of our partner offers, we tailor advertising offers based on what you have searched for on our Site, to make it relevant to you. 
 
- For some of our third party advertising on this Site we partner with Rubicon Project who use non-personally identifiable information to make more intelligent ad-serving decisions.  This results in more relevant advertising served to you.  More information on Rubicon Project and how it helps both web publishers and their site users may be obtained here:  <http://www.rubiconproject.com/whoweare>. You can opt in or opt out here:  <http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out>. The Rubicon Project is a signatory to the IAB Europe and EASA (European Advertising Standards Alliance) cross-European self-regulatory Framework for Online Behavioural Advertising (OBA), a response to governmental calls for greater transparency into (and user control of data used for) online advertising behavioural targeting. 
+ For some of our third party advertising on this Site we partner with Rubicon Project who use non-personally identifiable information to make more intelligent ad-serving decisions.  This results in more relevant advertising served to you.  More information on Rubicon Project and how it helps both web publishers and their site users may be obtained here:  http://www.rubiconproject.com/whoweare. You can opt in or opt out here:  http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out. The Rubicon Project is a signatory to the IAB Europe and EASA (European Advertising Standards Alliance) cross-European self-regulatory Framework for Online Behavioural Advertising (OBA), a response to governmental calls for greater transparency into (and user control of data used for) online advertising behavioural targeting. 
 
  PLEASE NOTE: if you choose to use this Site without declining any non-essential cookies, then your use will constitute implied consent to the non-essential cookies that are set.
 
