@@ -1,33 +1,21 @@
-> *The following text is extracted and transformed from the smackdownvsraw.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125145425id_/http%3A//www.onesite.com/go/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smackdownvsraw.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121155915id_/http%3A//xyz.xyz/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Domain Names for Generation XYZ®
 
-This Privacy Policy governs the manner in which ONEsite.com collects, uses, maintains and discloses information collected from users of this Web site (each, a "User").
+We respect your privacy. XYZ® has created this privacy statement in order to demonstrate our commitment to you, our customer. This privacy statement discloses the privacy practices for this website, xyz.xyz (the "Website”, "Us”, "Our”). By using the Website you agree to the privacy practices disclosed below.
 
-**Privacy**
+## Privacy Practices
 
-Users' privacy is very important to ONEsite.com. ONEsite.com is committed to safeguarding the information Users entrust to ONEsite.com. This Web site is not directed at children under 13 years of age.
+  * We do not give third parties access to your personal information other than as outlined in this privacy policy.
+  * We only send email to you if you have elected to receive it.
+  * If we determine that any account with us is being used for the purpose of sending spam or engaging in malicious activities, we will take action to shut it down as soon as possible.
 
-**The Information We Collect**
 
-ONEsite.com may collect personally identifiable information from Users in a variety of ways, including through online forms for ordering productsand services, and other instances where Users are invited to volunteer such information. ONEsite.com may also collect information about how Users use our Web site, for example, by tracking the number of unique views received by the pages of the Web site or the domains from which Users originate. We may use "cookies" to track how Users use our Web site. A cookie is a piece of software that a Web server can store on the Users' PC and use to identify the User should they visit the Web site again. While not all of the information that we collect from Users is personally identifiable, it may be associated with personally identifiable information that Users provide us through our Web site.
 
-**How We Use Information**
+We will never give any information about you to others without your express permission. Our site uses forms in which you give us contact information (like your name, address, phone number, and email address) so you can create an account, place orders, request information, etc. We may share specific information with business partners or contractors when the information is needed to fulfill your request for a product or service. We also use your contact information when it will be important for us to contact you regarding functionality changes to our products, our website, new services and special offers we think you’ll find valuable, and provide customer service.
 
-ONEsite.com may use personally identifiable information collected through our Web site to contact Users regarding products and services offered by ONEsite.com and its trusted affiliates, independent contractors and business partners, and otherwise to enhance Users' experience with ONEsite.com and such affiliates, independent contractors and business partners. Domain Registration details as required by the Registry Operator will be shared with the Registry and the Registry may in turn share said information per its policies or allow public access to information such as whois type domain information. ONEsite.com may also use information collected through our Web site for research regarding the effectiveness of the Web site and the marketing, advertising and sales efforts of ONEsite.com, its trusted affiliates, independent contractors and business partners.
+We use information gathered about you from our site statistics via log files provided by third party tracking partners (for example your IP address) to help diagnose problems with our server, and to administer our website. We also gather broad demographic information from this data to help us improve our site and your experience. This information collection is not linked to any personally identifiable information. Our site uses cookies to keep track of your session information and to provide you with customized information. We do link the information we store in cookies to personally identifiable information you submit while on our site.
 
-**Disclosure of Information**
+We may use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided by your internet browser (ex: Mozilla Firefox or Internet Explorer).
 
-ONEsite.com may disclose information collected from Users to trusted affiliates, independent contractors and business partners who will use the information for the purposes outlined above. We may also disclose aggregate, anonymous data based on information collected from Users to investors and potential partners. Finally, we may transfer information collected from Users in connection with a sale of ONEsite.com business.
-
-**Maintenance of Information**
-
-Information about Users that is maintained on our systems is protected using industry standard security measures. However, we cannot guarantee that the information submitted to, maintained on, or transmitted from our systems will be completely secure.
-
-**European Union, Safe Harbor Compliance**
-
-ONEsite is Safe Harbor compliant, for our Safe Harbor policy, [click here](https://web.archive.org/web/20111125145425id_/http%3A//www.onesite.com/go/legal/safeHarbor.html).
-
-**Questions**
-
-Users may direct questions concerning this Privacy Policy by email to [support@onesite.com](mailto:support@onesite.com).
+We also may use cookies to store your username if you request to remember your username during login. That information will be used to pre-fill the login form at a later time. If you are referred to our website through an ad or a partner, we will store the referral information in the cookies.
