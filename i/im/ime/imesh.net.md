@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the imesh.net privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614022308id_/http%3A//www.imesh.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imesh.net privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121033630id_/http%3A//www.imesh.com/privacypolicy.php) for the most accurate reproduction.*
 
 # iMesh - Over 15,000,000 Music downloads and MP3's - 100% legal
 
-Welcome to iMesh. We want you to know that we respect your privacy and that we value your business. This privacy statement covers the iMesh software, iMesh MediaBar and the iMesh website ([www.imesh.com](https://web.archive.org/)). In order to ensure your privacy we want you to know the details of what information we collect and what we do with it.
+Welcome to iMesh. We want you to know that we respect your privacy and that we value your business. This privacy statement covers the iMesh software and the iMesh website ([www.imesh.com](https://web.archive.org/)). In order to ensure your privacy we want you to know the details of what information we collect and what we do with it.
 
 INFORMATION COLLECTION
 
@@ -29,34 +29,6 @@ If we engage with any advertising partners and or other third parties, our appro
 Log Files and IP addresses:
 
 We use internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, geographical location and number of clicks to analyze trends, administer the site, track users' movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses are not linked by iMesh to personally identifiable information and are not kept after the statistics are logged in the aggregated database. The information we collect is used for internal review and is then discarded. It is not shared with other organizations. However, users should be aware that both static and dynamic IP addresses can be mapped back to users on most ISPs based on the users login time and recorded information.
-
-SEARCH TECHNOLOGY AND THE IMESH MEDIA BAR
-
-iMesh and the imesh.com website also feature the iMesh MediaBar ("IMB") and search services ("Services"), respectively, that are powered by third party search partners ("Search Partners"). Your use of IMB and the Services are subject to the following privacy restrictions required by our Search Partners. Our Search Partners use this information to properly process your search requests. Importantly, all information collected in connection with a search query is recorded on a non-personally identifiable basis and is kept strictly anonymous, except as may be required by law or to protect the rights or safety of others.
-
-IMB does not and our Search Partners do not: (a) collect or report back to us (or anyone else) any information about sites you visit on the Internet; (b) collect or "screen-scrape" any search queries or information that you provide to any other web sites; (c) serve pop-ups when you are on other websites; or (d) collect or report back to us (or anyone else) any data regarding your computer keystrokes or other data unrelated to the Services. When you visit this website and use the Service, neither we nor our Search Partners collect any such personal information.
-
-Search Query and Other Non-personal Information
-
-IMB, in the course of processing a given search query, sends a request to our Search Partners' servers. This request includes the keyword query, time of day, browser type, default language setting, IP address, an anonymous unique ID, and a code which identifying you as a iMesh user to our Search Partners. All information collected from a search query is recorded on a non-personally identifiable basis and is kept strictly anonymous. Search Partners use this information in order to properly process your search request. For example, this data provides them with: information on which language you prefer to use; aggregated click information for the purpose of ensuring that our Search Partners are appropriately compensating us; aggregated usage and retention information; and aggregated search query information for the purpose of further monetizing commercially oriented search keywords.
-
-In addition, all information about search activity is evaluated only on an aggregated basis (excepted in response to a customer service inquiry or legal process), and our Search Partners does not disclose any non-aggregated information to third parties, except as required by a valid legal process such as a search warrant, subpoena, statute, or court order, or to protect someone's safety.
-
-When you visit the Web Sites, our Search Partners also capture your source IP address which is a standard practice for most Internet sites. They in no way associate your IP address with any cookies and do not use your IP address in conjunction with any personally identifiable information.
-
-Cookies
-
-Our Search Partners also use "cookies". They do this in order to identify you as a iMesh user and also in order to store your personal preferences. Importantly, a cookie does not allow our Search Partners to obtain any personally identifiable information (such as your real name or address) unless you have specifically provided such information when using the Web Sites or IMB.
-
-Disclosure to Third Parties
-
-Our Search Partners will disclose information, including personally identifiable information, data acquired by cookies, and other data, where required by a subpoena, interception order or other lawful process. Our Search Partners also reserve the right to disclose such information when they believe, in their sole judgment and to the extent consistent with applicable law, that such disclosure is necessary to protect the rights or safety of others or to enforce, or protect their rights under, this Agreement.
-
-If the IMB or Service is ever sold or all or substantially all of the assets relating to BM or the Service are transferred to another entity, our Search Partners may transfer all information provided by or collected from you, including personally identifiable information, in order to ensure continuity of service. Our Search Partners may also transfer all information provided by or collected from you, including personally identifiable information, to another entity in the event our Search Partners or substantially all their assets are sold to another entity.
-
-If you wish to withdraw your consent to the communication and data usage as described herein, you should uninstall IMB from your computer and cease using the Web Sites. You may uninstall or remove IMB at any time by following the instructions at the beginning of the iMesh MediaBar section above.
-
-Our Search Partners may provide search results or other links to other World Wide Web sites or resources. Because our Search Partners have no control over such sites and resources, you acknowledge and agree that they are not responsible for the availability of such external sites or resources, and do not endorse and are not responsible or liable for any Content, advertising, products, or other materials on or available from such sites or resources. You further acknowledge and agree that neither iMesh nor our Search Partners shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with your use of or reliance on any such Content, goods or services available on or through IMB or Web Sites.
 
 INFORMATION USE
 
