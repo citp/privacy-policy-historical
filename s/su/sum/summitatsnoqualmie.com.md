@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the summitatsnoqualmie.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624005432id_/http%3A//www.boyneresorts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summitatsnoqualmie.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121231002id_/http%3A//www.boyneresorts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Boyne Resorts
 
@@ -91,7 +91,7 @@ Big Sky, Montana 59716
   * Brighton Resort Marketing Department  
 12601 E. Big Cottonwood Canyon   
 Brighton, Utah 84121   
-[skibrighton.com](http://www.skibrighton.com/)
+[brightonresort.com](http://www.brightonresort.com/)
   * Crystal Mountain Marketing Department  
 33914 Crystal Mountain Blvd.   
 Crystal Mountain, Washington 98022   
