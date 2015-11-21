@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pageonerankings.com.au privacy policy that was archived on 2014-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140809085714id_/http%3A//www.pageonerankings.com.au/privacy-policy-pageonerankings-australia.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pageonerankings.com.au privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121054742id_/http%3A//www.pageonerankings.com.au/privacy-policy-pageonerankings-australia.html) for the most accurate reproduction.*
 
 # Privacy Policy | PageOneRankings Australia
 
