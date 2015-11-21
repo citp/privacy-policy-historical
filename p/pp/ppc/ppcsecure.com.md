@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the ppcsecure.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610140229id_/http%3A//ppcsecure.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppcsecure.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121024656id_/http%3A//ppcsecure.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | PPCSecure
 
 ## PPCSecure Privacy Policy
+
+_Last modified on July 29, 2015_
 
   
 
@@ -16,23 +18,25 @@
 
 PPCSecure is the sole owner of any data collected on our websites. We will not sell, rent or share your personal information with any outside source for any purpose outside of the purposes which may be included in this privacy policy.
 
-#### Your personal information is safeguarded
+#### Usernames, Passwords, Security, and Billing data safeguarded
 
-Any information we collect while you are using our websites or services and any personal data we collect about you is considered confidential. Your data is secured on owned or leased servers in a private facility that is guarded by physical security and virtual security measures. Your data is also protected by use of a username and password. You should keep your password and user name confidential and never share these with anybody. We also train our internal staff and any contractors who work with us on the proper handling of sensitive customer information. Failure to abide by our privacy standards is grounds for termination of employment with PPCSecure. We take your privacy very seriously.
+Any information we collect while you are using our websites or services and any personal data we collect about you that is of sensitive nature, including usernames, passwords, security questions and answers and billing information is considered confidential. This data is secured on owned or leased servers in a private facility that is guarded by physical security and virtual security measures. Your data is also protected by use of a username and password. You should keep your password and user name confidential and never share these with anybody. We also train our internal staff and any contractors who work with us on the proper handling of sensitive customer information. Failure to abide by our privacy standards is grounds for termination of employment with PPCSecure. We take your privacy very seriously.
 
 #### Sign up and Billing Information 
 
 While registering for the services we may offer, you may be asked for personal information such as credit card numbers, addresses or your name. Any information collected via these forms on our websites is transmitted to us via an SSL encrypted connection to ensure the safety of your information. We limit physical and virtual access to the servers which store this information in order to protect your information.
 
-PPCSecure uses an outside secure solution to process our credit card transactions for goods and services. We have ensured through our own auditing procedures that these companies do everything within their power to protect and securely transmit your data during any transaction. Also, the companies we use does not share, rent or retain or store your information for any purpose other than billing.
+PPCSecure uses an outside secure solution to process our credit card transactions for goods and services. We have ensured through our own auditing procedures that these companies do everything within their power to protect and securely transmit your data during any transaction.
 
 #### Other Ways We May Use Your Information
 
 In addition to the uses for the information listed above, we may also use personal information that you submit to us for the following reasons:
 
-To contact you when necessary for additional information that is required to complete or fulfill your order; determine if you are satisfied with our services; survey you to gather information used to improve our products, inform you that an upgrade of your services is available; or to inform you regarding the billing or technical status of your subscription.
+-To contact you when necessary for additional information that is required to complete or fulfill your order; determine if you are satisfied with our services; survey you to gather information used to improve our products, inform you that an upgrade of your services is available; or to inform you regarding the billing or technical status of your subscription.
 
-Contact you with information or special offers about PPCSecure's products and services.
+-To contact you with information or special offers about PPCSecure's products and services.
+
+We may also, from time-to-time, share your basic contact information with affiliates, third parties, or business partners, who may then use that information to contact you with special offers, promotions, or to inform you about their products and services.
 
 PPCSecure may also be forced to release personal or account related information to comply with law enforcement, judicial proceedings, or legal matters, to enforce the terms of any of our user agreements, or to protect the rights, property or safety of PPCSecure, our staff, our clients, or others.
 
