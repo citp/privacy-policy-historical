@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toyota.com.au privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414093608id_/http%3A//www.toyota.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota.com.au privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121110211id_/http%3A//www.toyota.com.au/privacy) for the most accurate reproduction.*
 
 # Toyota Privacy Policy
 
@@ -183,7 +183,7 @@ Toyota Finance aims to provide our customers with the best possible products and
 
 We also want our customers to have confidence that in handling personal information and credit information, we afford the information an appropriate level of privacy, consistent with the Australian privacy laws.
 
-[TOYOTA FINANCE PRIVACY POLICY](https://web.archive.org/web/20150414093608id_/http%3A//www.toyota.com.au/static/pdfs/toyota-finance-privacy-policy.pdf)
+[TOYOTA FINANCE PRIVACY POLICY](https://web.archive.org/web/20151121110211id_/http%3A//www.toyota.com.au/static/pdfs/toyota-finance-privacy-policy.pdf)
 
 Back to the top
 
@@ -482,6 +482,14 @@ Although we take steps to protect information sent by email, email is not a secu
 
 Back to the top
 
+### Remarketing
+
+We use Google Adwords Remarketing to advertise Toyota Finance across the internet. Third party vendors, including Google, use cookies to display relevant ads based on your past visits to the Toyota Finance website. Google Remarketing allows us to tailor our marketing to better suit your needs and display ads that are relevant to you. We respect your privacy and any data collected will be used in accordance with our privacy policy, Google’s privacy policy or the privacy policy of other remarketing services used by Toyota Finance.
+
+If you do not wish to participate in our Google Adwords Remarketing, you can opt out by visiting Google’s Ads Preference Manager <https://myaccount.google.com/u/0/privacy?pli=1#ads> You can also opt out of any third party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page <https://www.networkadvertising.org/>. 
+
+Back to the top
+
 ## Toyota Insurance - Privacy Policy
 
 ### About Us
@@ -505,7 +513,7 @@ Back to the top
 
 Toyota Insurance was underwritten by Andia up until 31 December 2013. However, due to an internal re-organisation, Adica will be the new Australian operated and regulated insurer of all Toyota Insurance products from 1 January 2014. As both Andia and Adica collect, hold, use and disclose your personal information, this privacy policy relates to both of them.
 
-[Toyota Insurance Privacy Policy](https://web.archive.org/web/20150414093608id_/http%3A//www.toyota.com.au/static/pdfs/toyota-insurance-privacy-policy.pdf)
+[Toyota Insurance Privacy Policy](https://web.archive.org/web/20151121110211id_/http%3A//www.toyota.com.au/static/pdfs/toyota-insurance-privacy-policy.pdf)
 
 Back to the top
 
@@ -614,6 +622,14 @@ There is no charge for making a request.
 
 Back to the top
 
+### Remarketing
+
+We use Google Adwords Remarketing to advertise Toyota Insurance across the internet. Third party vendors, including Google, use cookies to display relevant ads based on your past visits to the Toyota Insurance website. Google Remarketing allows us to tailor our marketing to better suit your needs and display ads that are relevant to you. We respect your privacy and any data collected will be used in accordance with our privacy policy, Google’s privacy policy or the privacy policy of other remarketing services used by Toyota Insurance.
+
+If you do not wish to participate in our Google Adwords Remarketing, you can opt out by visiting Google’s Ads Preference Manager <https://myaccount.google.com/u/0/privacy?pli=1#ads> You can also opt out of any third party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page <https://www.networkadvertising.org/>. 
+
+Back to the top
+
 ### If you have a complaint relating to privacy
 
 If you believe we may have compromised your privacy or breached the Privacy Act 1988 (Cth) or its privacy principles, you can call Toyota Insurance on 137 200, or email or write to us. Our contact details are provided on the next page.
@@ -628,9 +644,9 @@ Back to the top
 
 ### Revision of this privacy policy
 
-This privacy policy is also available on our website at [toyotainsurance.com.au](https://web.archive.org/web/20150414093608id_/http%3A//www.toyota.com.au/toyotainsurance.com.au).
+This privacy policy is also available on our website at [toyotainsurance.com.au](https://web.archive.org/web/20151121110211id_/http%3A//www.toyota.com.au/toyotainsurance.com.au).
 
-We reserve the right to revise our privacy policy or any part of it from time to time. Please review this privacy policy periodically for changes. If we make material changes to our privacy policy, we will notify you in writing or by putting a notice on our website homepage [toyotainsurance.com.au](https://web.archive.org/web/20150414093608id_/http%3A//www.toyota.com.au/toyotainsurance.com.au).
+We reserve the right to revise our privacy policy or any part of it from time to time. Please review this privacy policy periodically for changes. If we make material changes to our privacy policy, we will notify you in writing or by putting a notice on our website homepage [toyotainsurance.com.au](https://web.archive.org/web/20151121110211id_/http%3A//www.toyota.com.au/toyotainsurance.com.au).
 
 Your continued use of our websites, products or services, requesting our assistance, applying for or renewal of any of our products and/or services or the providing of further personal or sensitive information to us after our privacy policy has been revised constitutes your acceptance of the revised privacy policy.
 
