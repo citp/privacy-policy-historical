@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the ioninteractive.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619013455id_/http%3A//www.ioninteractive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ioninteractive.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121073205id_/http%3A//www.ioninteractive.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Interactive Content Software & Services | ion interactive
+# Privacy Policy — Interactive Content Marketing Software and Programs | ion interactive
 
 ## Privacy Information
 
 This online privacy policy (the "Policy") applies to information gathered by i-on interactive, inc. ("ion") online through web sites operated by its customers and utilizing ion's software.
+
+i-on interactive, inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  i-on interactive, inc has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view i-on interactive, inc’s certification, please visit <http://www.export.gov/safeharbor/>
 
 ## Types of Information we Collect
 
