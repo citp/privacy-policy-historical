@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tagstyle.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330235237id_/http%3A//www.tagstyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tagstyle.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121173711id_/http%3A//www.tagstyle.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Tagstyle | Privacy Policy
 
 Tagstyle (Tagstyle Pte Ltd) respects the privacy rights of our customers and we will only track statistics for business purposes. No private information will be disclosed to unrelated entities or any third party merchants unless required by law. All email addresses in our mailing list are strictly kept confidential. 
 
