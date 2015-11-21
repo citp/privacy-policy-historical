@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the twistmagazine.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007004144id_/http%3A//profile.bauerpublishing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistmagazine.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121141141id_/http%3A//profile.bauerpublishing.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Bauer Publishing Profile
 
 ## Privacy Policy/Your California Privacy Rights
 
-## Last Updated: July 1, 2013
+## Last Updated: October 20, 2014
 
 ## Introduction
 
-Welcome! Bauer Publishing Group knows that safeguarding your privacy is serious business. Your privacy is very important to us. Please take a moment to read this privacy policy (“Privacy Policy”). It explains how Bauer Publishing Group, which includes Heinrich Bauer (USA) LLC; Heinrich Bauer North America, Inc.; Heinrich Bauer Publishing, L.P.; Bauer Magazine, L.P.; Bauer Publishing Company, L.P., and Bauer Media Group, Inc. (collectively, “Bauer Publishing” or “we,” “our,” or “us”) collects, uses, shares and protects information about our consumers (“you”). It also tells you how you can access and update your information and make certain choices about how your information is used. The Privacy Policy covers both our “online” (e.g., web and mobile services, including any web sites operated by us and mobile applications, however accessed and/or used, whether via personal computers, mobile devices or otherwise) and “offline” (e.g., collection of data through magazine subscription cards, mailings, telephone, or at in person events) activities owned, operated, provided, or made available by Bauer Publishing. Our “online” and “offline” activities are collectively referenced as the “Services.” This Privacy Policy also applies to your use of interactive features or downloads that: (i) we own or control; (ii) are available through the Services; or (iii) interact with the Services and post this Privacy Policy.
+Welcome! Bauer Publishing Group knows that safeguarding your privacy is serious business. Your privacy is very important to us. Please take a moment to read this privacy policy (“Privacy Policy”). It explains how Bauer Publishing Group, which includes Bauer Media Group, USA, LLC; Heinrich Bauer North America, Inc.; Heinrich Bauer Publishing, L.P.; Bauer Magazine, L.P.; Bauer Publishing Company, L.P., and Bauer Media Sales, Inc. (collectively, “Bauer Publishing” or “we,” “our,” or “us”) collects, uses, shares and protects information about our consumers (“you”). It also tells you how you can access and update your information and make certain choices about how your information is used. The Privacy Policy covers both our “online” (e.g., web and mobile services, including any web sites operated by us and mobile applications, however accessed and/or used, whether via personal computers, mobile devices or otherwise) and “offline” (e.g., collection of data through magazine subscription cards, mailings, telephone, or at in person events) activities owned, operated, provided, or made available by Bauer Publishing. Our “online” and “offline” activities are collectively referenced as the “Services.” This Privacy Policy also applies to your use of interactive features or downloads that: (i) we own or control; (ii) are available through the Services; or (iii) interact with the Services and post this Privacy Policy.
 
 By using the Services or by otherwise giving us your information, you agree to this Privacy Policy. In addition, as explained below, our [Children's Privacy Policy](https://web.archive.org/childrens-privacy-policy) is also applicable to any of our online Services that target children under 13 and may be applicable to some users of our online Services that target teenagers. If you do not agree to this Privacy Policy, do not use any of our Services or give us any of your information. In addition, please review our [Terms of Use](https://web.archive.org/terms-of-use), which governs your use of any of our websites.
 
@@ -67,6 +67,8 @@ If you are a parent or guardian of a Child, and believe he or she has disclosed 
 ### (a) Information You Provide To Us
 
 We may ask you to provide us with certain categories of information such as: (1) personal information, which is information that could reasonably be used to identify you personally, such as your name, e-mail address, date of birth and physical address (“ **Personal Information** ”); and (2) demographic information, such as information about your family and pets (“ **Demographic Information** ”). We may collect this information through various forms and in various places through the Services, including online subscription or account registration forms, contact us forms, or when you otherwise interact with us. For example, we may collect Personal Information from you when you subscribe to our magazines through one of our web sites or mobile applications; sign up for services or a newsletter at one of our web sites; enter contests or sweepstakes; or contact us via e-mail.
+
+In addition, if you subscribe or have subscribed to one of our publications, we maintain records about the names of publications to which you have subscribed ("Subscriber Publication Information").
 
 ### (b) Information We Collect As You Access And Use Our Services
 
@@ -143,11 +145,13 @@ Please note that information submitted to the Services via a “contact us” or
 
 ## 4\. How and When Do We Disclose Information to Third Parties?
 
-We may share non-personally identifiable information, such as aggregated user statistics, with third parties. In addition, we may share the information we have collected about you, including Personal Information, as disclosed at the time you provide your information and as described below or otherwise in this Privacy Policy.
+We may share non-personally identifiable information, such as aggregated user statistics, with third parties. In addition, we may share with third parties (including to advertisers and marketers) the information we have collected about you, including Personal Information, as disclosed at the time you provide your information and as described below or otherwise in this Privacy Policy.
 
 ### (a) For Third-Party Marketing Purposes.
 
-We may rent, sell or otherwise disclose your Personal Information, Demographic Information or Usage Information to advertisers, sponsors, business partners and other third parties for their use.
+We may rent, sell or otherwise disclose your Personal Information, Subscriber Publication Information, Demographic Information or Usage Information to advertisers, marketers, sponsors, business partners and other third parties for their use (including for them to directly market to you).
+
+If you do not want us to share with third parties your Personal Information or Subscriber Publication Information for those third parties’ direct marketing purposes, you can let us know by contacting us, by email or by letter, using the contact information set forth in section 14 below. Please include "Third-Party Marketing Opt-Out" in the subject line of your email or letter.
 
 ### (b) Third Parties Providing Services on Our Behalf.
 
@@ -171,13 +175,17 @@ We may share your information, including your Personal Information, Demographic 
 
 ## 5\. What is Online Behavioral Advertising and How Can I Opt-Out?
 
-We may work with third-party advertising companies who may utilize cookies and web beacons, and data collected on our web sites, to customize advertisements to you on our online Services, as well as on other websites or Mobile Applications in their networks beyond our online Services. Among other things, these customized advertisements may advertise our products and services on websites or Mobile Applications not affiliated with us. Some of these ads are online behavioral advertising – which serve advertisements that are more likely to be of interest to you using non-personal behavioral information.  Such ads may contain cookies that allow monitoring of web sites and Mobile Applications (including our own online Services) and your response to our advertisements. Cookies or web beacons placed by these companies do not collect Personal Information, and the third-party advertising companies do not have access to or use your name, address, e-mail address, telephone number or other Personal Information; they may however, anonymously track your usage across our online Services and other websites or Mobile Applications in their networks. We limit companies that place our ads from using information for any purpose other than to assist us in our advertising efforts.
+We may work with third-party advertising companies who may utilize cookies and web beacons, and data collected on our online Services, to customize advertisements to you on our online Services, as well as on other websites or Mobile Applications in their networks beyond our online Services. Among other things, these customized advertisements may advertise our products and services on websites or Mobile Applications not affiliated with us. Some of these ads are online behavioral advertising – which serve advertisements that are more likely to be of interest to you using non-personal behavioral information.  Such ads may contain cookies that allow monitoring of web sites and Mobile Applications (including our own online Services) and your response to our advertisements. Cookies or web beacons placed by these companies do not collect Personal Information, and the third-party advertising companies do not have access to or use your name, address, e-mail address, telephone number or other Personal Information; they may however, anonymously track your usage across our online Services and other websites or Mobile Applications in their networks. We limit companies that place our ads from using information for any purpose other than to assist us in our advertising efforts.
 
 For more information about these third-party advertising companies' privacy policies, visit the Network Advertising Initiative Industry’s website at www.networkadvertising.org. If you prefer to not receive targeted advertising, you can opt-out of network advertising programs that use your information. To do so, please visit: the Network Advertising Initiative industry’s [opt-out page](http://www.networkadvertising.org/choices/).
 
 Please note that if you opt out, you will still see advertisements while you are browsing online. However, the advertisements you see will not be based on your preferences or behavior, and thus may be less relevant to you and your interests. Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. The NAI Opt-Out Page provides a tool that identifies its member companies that have cookies on your browser and provides links to those companies.
 
 In order for behavioral advertising opt-outs to work on your Device, your browser must be set to accept cookies. If you delete cookies, buy a new Device, access our Services from a different device, login under a different screen name, or change web browsers, you will need to opt-out again. If your browser has scripting disabled, you do not need to opt out, as online behavioral advertising technology does not work when scripting is disabled. Please check your browser's security settings to validate whether scripting is active or disabled.
+
+Browser "Do Not Track" Signals
+
+Some third party browsers provide "do not track" machine readable signals for websites or other online Services which are automatically applied by default and therefore do not necessarily reflect our visitors’ choice as to whether they wish to receive advertisements tailored to their interests. As a result we do not respond to these signals. Go to [www.networkadvertising.org](https://web.archive.org/web/20151121141141id_/http%3A//profile.bauerpublishing.com/www.networkadvertising.org) or [www.aboutads.info](https://web.archive.org/web/20151121141141id_/http%3A//profile.bauerpublishing.com/www.aboutads.info) if you wish to learn more about your options to not accept tracking cookies for the purpose of receiving targeted interest-based advertisements.
 
 ## 6\. What About Information I Disclose Publicly?
 
@@ -215,11 +223,9 @@ We reserve the right to change this Privacy Policy from time to time. You agree 
 
 ## 12\. Your California Privacy Rights
 
-California’s “Shine the Light” law, California Civil Code § 1798.83, requires certain businesses to respond to requests from California customers (those who have an established business relationship with us) asking about the business’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. 
+California’s “Shine the Light” law, California Civil Code § 1798.83, requires certain businesses to respond to requests from California customers (those who have an established business relationship with us) asking about the business’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternatively, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place.
 
-You may request the following information, which will be provided to you via either a writing or e-mail free of charge: (1) a list of the categories of personal disclosed by the applicable Bauer Publishing magazine or property to third parties for the third parties’ direct marketing purposes during the immediately preceding calendar year; and (2) the name and addresses of all third parties that received personal information from the applicable Bauer Publishing magazine or property for the third parties’ direct marketing purposes during the preceding calendar year and if, the nature of the third parties’ business cannot reasonably be determined from the third parties’ name, examples of the products or services marketed, if known to Bauer Publishing, sufficient to give you a reasonable indication of the nature of the third parties’ business.
-
-Requests for this information should be sent to the contact information set forth in section 14 below. You will need to identify the specific Bauer Publishing magazine(s) to which you are subscribed and/or the specific Bauer Publishing web site(s), Mobile Application(s) or other properties which you have used – and which trigger the subject of your request for information under California’s Shine the Light law.
+As discussed above in section 4(a), if you wish to opt-out of having your Personal Information and Subscriber Publication Information shared with third parties for the third parties’ direct marketing purposes, please contact us, by email or letter, using the contact information set forth in section 14 below.
 
 ## 13\. What About Social Media Features and Widgets?
 
@@ -231,7 +237,7 @@ Social media features and widgets are hosted by either a third-party or hosted d
 
 ## 14\. How Can You Contact Us?
 
-To correct or update Personal Information (section 8), to request information under California’s Shine the Light law (section 12) or if you have any questions about this Privacy Policy or our data practices, you may contact us in the following ways:
+To opt-out of having your Personal Information and Subscriber Publication Information shared for third-party marketing purposes (see section 4)(a)), to correct or update Personal Information (section 8), to request information under California’s Shine the Light law (section 12) or if you have any questions about this Privacy Policy or our data practices, you may contact us in the following ways:
 
 By e-mail: [privacypolicy@bauerpublishing.com](mailto:privacypolicy@bauerpublishing.com)
 
@@ -243,4 +249,4 @@ By postal mail:
 >  Englewood Cliffs  
 >  New Jersey 07632
 
-**In the subject line of your email or letter, please specify which of our magazine(s), web site(s) or Mobile Application(s) or other Bauer Publishing properties are the subject of your inquiry.**
+**In the subject line of your email or letter, please specify which of our magazine(s), web site(s) or Mobile Application(s) or other Bauer Publishing properties are the subject of your inquiry. In addition, if you are contacting us to opt-out of having your Personal Information and Subscriber Publication Information shared for third-party marketing purposes, please include "Third-Party Marketing Opt-Out" in the subject line of your email or letter.**
