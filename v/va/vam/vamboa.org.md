@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vamboa.org privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523150234id_/http%3A//www.vamboa.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vamboa.org privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121105943id_/http%3A//www.vamboa.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | VAMBOA.org
+# Privacy & User Policy - VAMBOA.org
 
 Our privacy policy is designed to assist you in understanding how we collect, use, and safeguard the personal information you provide to us, and also to help you in making informed decisions when using our site and our products and services. This Privacy Policy will be updated as needed.
 
