@@ -1,41 +1,25 @@
-> *The following text is extracted and transformed from the hotjobsngr.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116093223id_/http%3A//hotjobsngr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotjobsngr.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121105707id_/http%3A//www.hotjobsngr.com/privacy_policy) for the most accurate reproduction.*
 
-# hotjobsngr.com – Jobs in Nigeria, Job vacancies in Nigeria, Recent Graduate Jobs, Scholarship, Education, » Privacy Policy
+# Welcome to hotjobsngr.com - Privacy Policy
 
-Privacy Policy for hotjobsngr.com
+At hotjobsngr.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that is received and collected by hotjobsngr.com and how it is used. 
 
-The privacy of our visitors to www.hotjobsngr.com is important to us.
+**Log Files**  
+Like many other Web sites, hotjobsngr.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-At hotjobsngr.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit hotjobsngr.com, and how we safeguard your information.  We never sell your personal information to third parties.
+**DoubleClick DART Cookie**  
 
-**INFORMATION WE COLLECT**
 
-**Personal Information:**
+  * Google, as a third party vendor, uses cookies to serve ads on hotjobsngr.com.
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to hotjobsngr.com and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
 
-The personal information we collect when using our contact form, signing up form or popup form are your name, email and phone number.
 
-These information that we collect are used to personalize your profile, identify who is logging into the dashboard, how many members are with us and for sending newsletters.
 
-**PLEASE NOTE THAT WE NEVER SELL YOUR PERSONAL INFORMATION TO THIRD PARTIES.**
+Our third-party ad servers or ad networks use technology to the advertisements and links that appear on hotjobsngr.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-You can opt-out at any time by either unsubscribe from our newsletter, deleting your account with us or using your browser control what information are collected.
+hotjobsngr.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-**Log Files  
-**As with most other websites, we collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. hotjobsngr.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-**Cookies and Web Beacons  
-**We do use cookies to store information, such as your personal preferences when you visit our site.  This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as dashboard or your profile page.
-
-We also use third party advertisements on hotjobsngr.com to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing  Lagos job vacancy ads to someone in Lagos, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
-
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as your antivirus.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into account to edit your profile or post.
-
-**Special Note About Google Advertising** ****
-
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google’s cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own [privacy policies](http://www.google.com/privacy.html).
-
-About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
-
-**Contact Information** ****
-
-Concerns or questions about this privacy policy can be directed to info@hotjobsngr.com for further information.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
