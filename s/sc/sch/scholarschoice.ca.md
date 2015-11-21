@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scholarschoice.ca privacy policy that was archived on 2013-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130701012536id_/http%3A//teachers.scholarschoice.ca/privacy-policy%3FSID%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarschoice.ca privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121135024id_/http%3A//www.scholarschoice.ca/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Scholar's Choice - Teacher Store
+# Privacy Policy
 
 Scholar's Choice is dedicated to protecting your privacy. We ensure that any personal information we obtain is kept confidential.
 
