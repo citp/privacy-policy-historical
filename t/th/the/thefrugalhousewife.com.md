@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefrugalhousewife.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222090413id_/http%3A//thefrugalhousewife.com/about/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefrugalhousewife.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121014143id_/http%3A//thefrugalhousewife.com/about/policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Frugal Housewife | The Frugal Housewife
+# Privacy Policy - The Frugal Housewife
 
 The privacy of our visitors to thefrugalhousewife.com is very important to us, and it is something we take very seriously.
 
@@ -26,6 +26,4 @@ We do use Google Adsense.
 * Google’s use of the DART cookie enables it to serve ads to myusers based on your visit to my sites and other sites on the Internet.  
 * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-[](http://www.printfriendly.com/print/v2?url=http://thefrugalhousewife.com/about/policies/privacy-policy/)
-
-###### This post may contain affliate links. Please read my disclosure policy [ here](http://thefrugalhousewife.com/about/policies/disclosure-policy/).
+[](http://www.printfriendly.com/print?url=http%3A%2F%2Fthefrugalhousewife.com%2Fabout%2Fpolicies%2Fprivacy-policy%2F)
