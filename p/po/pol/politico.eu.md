@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the politico.eu privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527204335id_/http%3A//www.politico.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politico.eu privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121163119id_/http%3A//www.politico.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – POLITICO
 
@@ -86,7 +86,7 @@ From time to time, we may make changes to the privacy policy. This may be in rel
 
 POLITICO SPRL  
 Registered Office:  
-Rue de la Loi 155, box 6  
+Rue de la Loi 62  
 Brussels 1040  
 BELGIUM
 
