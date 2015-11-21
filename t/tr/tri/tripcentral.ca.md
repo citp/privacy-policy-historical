@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tripcentral.ca privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630200801id_/http%3A//www.tripcentral.ca/info/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripcentral.ca privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121123612id_/http%3A//www.tripcentral.ca/info/privacypolicy.php) for the most accurate reproduction.*
 
-# All Inclusive Vacations | Last Minute Vacations | Vacation Packages | Cheap Flights - tripcentral.ca
+# Privacy Policy - tripcentral.ca
 
 The Canadian Personal Information Protection and Electronic Documents Act (PIPEDA) was enacted on January 1, 2001 to ensure all Canadian's basic right to privacy. PIPEDA applies to every business in Canada and covers the collection, use, storage and disclosure of personal information about identifiable individuals.
 
