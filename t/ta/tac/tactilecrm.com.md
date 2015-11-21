@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tactilecrm.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407202437id_/http%3A//www.tactilecrm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tactilecrm.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121161827id_/http%3A//www.tactilecrm.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
