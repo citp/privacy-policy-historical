@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gabrielmethod.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601042421id_/http%3A//www.thegabrielmethod.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gabrielmethod.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121234131id_/http%3A//www.thegabrielmethod.com/privacy) for the most accurate reproduction.*
 
 # The Gabriel Method – Privacy Policy
 
