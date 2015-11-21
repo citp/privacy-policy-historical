@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flappybird.io privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517061605id_/http%3A//www.iubenda.com/privacy-policy/807148/full-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flappybird.io privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121171401id_/http%3A//www.iubenda.com/privacy-policy/807148/full-legal) for the most accurate reproduction.*
 
 # Privacy Policy of flappybird.io
 
@@ -8,11 +8,11 @@ Any information regarding a natural person, a legal person, an institution or an
 
 #### Usage Data
 
-Information collected automatically from this Application (or third party services employed in this Application ), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.
+Information collected automatically from this Application (or third party services employed in this Application), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.
 
 #### User
 
-The individual using this Application, which must coincide with or be authorized by the Data Subject, to whom the Personal Data refer.
+The individual using this Application, which must coincide with or be authorized by the Data Subject, to whom the Personal Data refers.
 
 #### Data Subject
 
