@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the blackbookonline.info privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615012117id_/http%3A//www.blackbookonline.info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackbookonline.info privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121145133id_/http%3A//www.blackbookonline.info/privacy.aspx) for the most accurate reproduction.*
 
 # Black Book Online Privacy Policy
+
+  * __
+  * __
+  * __
+
+
 
 Privacy Policy Statement 
 
@@ -10,7 +16,7 @@ All of the searches found at Black Book Online are simply links to public record
 
 1\. INTRODUCTION 
 
-1.1. PURPOSE OF POLICY. BlackBookOnline.info (“us,” “we,” or “Company”) is committed to respecting the privacy rights of users of http://www.blackbookonline.info (the “Site”). We created this Privacy Policy (this “Policy”) so you can understand what information we collect, how it is used, how you can change it and what we do with it via third parties. 
+1.1. PURPOSE OF POLICY. BlackBookOnline.info ("us," "we," or "Company") is committed to respecting the privacy rights of users of http://www.blackbookonline.info (the "Site"). We created this Privacy Policy (this "Policy") so you can understand what information we collect, how it is used, how you can change it and what we do with it via third parties. 
 
 1.2. NOTICE CONCERNING CHILDREN. This Site is not targeted towards children under the age of 13 nor intended to be used by them in any manner whatsoever. 
 
@@ -20,10 +26,10 @@ All of the searches found at Black Book Online are simply links to public record
 
 A. Categories of Personally Identifiable Information. We do not collect personally identifiable information for visitors to the Site. You may, however, contact us by email with an inquiry. When you do, we collect the following information so that we may respond to your inquiry: 
 
-• First Name  
-• Last Name  
-• Email Address  
-• IP address 
+\- First Name  
+\- Last Name  
+\- Email Address  
+\- IP address 
 
 You may join a group we maintain through Yahoo Groups. Yahoo Groups is a property of Yahoo and the privacy policy of that company applies to the group. You can read the Yahoo privacy policy information [here](https://info.yahoo.com/privacy/us/yahoo/details.html). 
 
@@ -63,10 +69,14 @@ D. SALE OF INFORMATION. Should we decide to sell all or part of the Company at s
 
 4.1. SITE SECURITY. The Site has reasonable security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration. If hackers can penetrate government security measures, they can penetrate ours. 
 
-5\. WEBSITE AREAS BEYOND COMPANY’S CONTROL 
+5\. WEBSITE AREAS BEYOND COMPANYâS CONTROL 
 
 5.1. THIRD PARTY WEBSITES. The Site contains links to other websites. We have no control over the terms and privacy policies of said sites. Please make sure to view the policies of those sites before providing personal information to said sites. 
 
 6\. CONTACT INFORMATION 
 
-6.1. CONTACTING US. If you have any questions about this Policy or our practices related to this Site please contact us by accessing the “Contact Us” link at the bottom of each Site page. 
+6.1. CONTACTING US. If you have any questions about this Policy or our practices related to this Site please contact us by accessing the "Contact Us" link at the bottom of each Site page. 
+
+**Rating:** |        4   |  Good |  **Vote:** |  |  |  |   
+---|---|---|---|---|---|---|---  
+  |  (out of 177 votes) | 
