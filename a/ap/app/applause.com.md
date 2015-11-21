@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the applause.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429100955id_/http%3A//www.applause.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applause.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121040107id_/http%3A//www.applause.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | uTest
+# Privacy Policy | Applause: 360° App Quality™
 
 Applause.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Applause.com.
 
@@ -36,37 +36,55 @@ In compliance with the US-EU and US-Swiss Safe Harbor Principles, Applause commi
 
 Applause has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Applause, please visit the BBB EU SAFE HARBOR web site at <http://www.bbb.org/us/safe-harbor-complaints/> for more information and to file a complaint.
 
-**The Applause Information Security Philosophy**
+**Effective as of August 21, 2015**
 
-As a provider of software and services for many users on the Internet, Applause recognizes how important it is to help protect user privacy and security. Applause understands that secure products are instrumental in maintaining the trust users place in the its products and services, and Applause strives to create innovative products that both serve user needs and operate in users' best interests.
+**Applause’s Security Philosophy: Our Commitment to You**
 
-**The Applause Platform & Scope**
+As a provider of software and services for many users on the Internet, Applause recognizes the importance of effectively and continuously protecting user security. We understand that secure products are instrumental in sustaining the trust that you place in our products and services, and we strive to create innovative products serve your needs and operate in your best interests. The security of your personal information is important to us; please be assured that we have adequate security measures in place to protect and secure end user information.
 
-Applause offers a variety of services and solutions through its software-as-a-service cloud offering to customers and community testers, including dashboard analytics, reporting, test services execution, test cycle management, and test cycle analytics. Applause has designed its Information Security ("InfoSec") Program around supporting security of the core application, infrastructure, and data components ("the Platform") that support its core, "In-the-Wild" testing services. The InfoSec Program and its underlying policies apply to all users of the Applause Platform, including all employees, customers, community testers and other third parties.
+For additional information relative to Applause’s Information Security Program and its underlying policies & procedures, please email your request to support@applause.com or testers@utest.com.
 
 **A Shared Security Responsibility Environment**
 
-Applause has designed its products to be flexible, scalable, and robustly configurable to its users. This means that often times, access restrictions, account delegation, user rights and additional security items are left to the user to determine. 
+We have designed our products to be flexible, scalable, and robustly configurable to our users and the needs of our user organizations. This means that, at the application level, access restrictions, account delegation, user rights and the implementation of additional security controls are often left to the discretion of our end users. While we commit to securing the underlying system architecture, code, and the information we collect, we trust our users to share the responsibility of securing access to data that is ultimately placed in their respective product instances. This includes all data entered through the Platform interface into the instance, the user accounts you provision to access your instance(s), and the associated user roles and groups that enable various access-levels of those users. For this reason, we recommend that users of the Platform maintain sufficient controls to provide reasonable assurance of the following standards:
 
-While Applause has secured the underlying Platform infrastructure, the back-end data, and the core Application code, users are responsible for securing the data that is ultimately placed in their respective product instances. This includes all data entered through the Platform interface into the instance, any user accounts that access your instance(s), the associated user roles and groups that enable various access-levels of those users, etc. For this reason, Applause recommends that users of the Platform maintain sufficient controls to provide reasonable assurance of the following standards:
+    * _Protect access to your account:_ Access to the Applause Platform should be restricted to authorized users, and user names and passwords should be kept confidential.
+    * _Protect the integrity of your data:_ Users are responsible for the accuracy, quality, integrity and legality of information entered into accounts and for the quality and performance of the Platform with respect to user-configurations of accounts.
+    * _Report security vulnerabilities:_ Users are responsible for reporting issues and incidents related to information security, and following up on the status of those issues to ensure they are resolved, in accordance with the process outlined below.
+  
+**Need to Report a Security Vulnerability?**
 
-    * Access to the Applause Platform should be restricted to authorized users, and user names and passwords should be kept confidential.
-    * Users are responsible for accuracy, quality, integrity and legality of their accounts, content, and data for the quality, configuration, and performance of the Platform with respect to user accounts, content, and data.
-    * Users must make reasonable efforts to prevent unauthorized access to use of the Platform and applicable user accounts, and must notify Applause promptly of any such unauthorized access or use.
-    * Users are responsible for reporting issues and incidents related to information security, and following up on the status of those issues to ensure they are resolved, in accordance with the process outlined below.
-**Application & Operational Security Commitments**
+If you believe you have found a security vulnerability within any of Applause’s product offerings, we encourage you to let us know right away. 
 
-Applause provides a host of advanced functionality to secure the Platform including role-based access, strong connection encryption, robust password policies and more. Applause adds further layers of security, such as application-only access, to provide users complete confidence in the Platform and their data. Applause employs stringent, 24/7 monitoring tools, controls, policies and procedures to ensure that it provides the strongest security for its users.
+If you are an Applause Platform customer and have a security issue to report regarding your personal account, or have discovered a vulnerability in an Applause product, please contact your assigned Project Manager directly and report the incident via email to support@applause.com.
 
-Key benefits and features of the Applause commitment to security include:
+If you are an Applause Community member and have a security issue to report regarding your personal Applause account, or have discovered a vulnerability in an Applause product, please contact your assigned Community Manager and report the incident via email to testers@utest.com.
+
+Applause takes security issues seriously and will respond swiftly to fix verifiable security issues. Some of the components that make up the Applause Platform are complex and take time to update. When properly notified of legitimate security issues, Applause personnel will do their best to acknowledge your emailed report, assign resources to investigate the issue and mitigate potential problems as efficiently and effectively as possible.
+
+**Overview of Platform Security Controls**
+
+We offer a variety of services and solutions through our software-as-a-service cloud offering to customers and community testers, including dashboard analytics, reporting, test services execution, test cycle management, and test cycle analytics. We have designed our Information Security ("InfoSec") Program around supporting security of the core application, infrastructure, and data components that support our core testing service offerings ("the Platform"). The InfoSec Program and its underlying policies apply to all users of the Applause Platform, including all employees, customers, community testers and other third parties.
+
+Applause provides a host of advanced functionality to secure the Platform including role-based access, strong connection encryption, robust password policies and more. Applause adds further layers of security, such as application-only access, to provide users complete confidence in the Platform and their data.
+
+Applause employs stringent, 24/7 monitoring tools, controls, policies and procedures to ensure that it provides the strongest security for its users.
+
+Key benefits and features of Applause’s commitment to security include:
 
     * _Role-level Access & Idle Disconnect:_ Role-based access control ensures users can only use data and Platform functionality that is related to their specific responsibilities, as dictated by their account administrator. Additionally, Applause automatically locks the Platform when idle connections are detected to prevent unauthorized access. Finally, the Platform natively provides a complete audit trail to ensure changes within a user account or customer instance are tracked with user login details and timestamp.
+  
+
+    * _Physical Access:_ Applause leverages a third party provider to provide physical access security to the Platform infrastructure. All data center access is limited to data center technicians and approved Applause staff.
   
 
     * _Strong SSL Encryption:_ Applause provides SSL encryption for user login and all subsequent data.
   
 
     * _Application-Only Access:_ Applause ensures that external users of the Platform can only access the application, not the underlying database.
+  
+
+    * _Employee Access:_ No Applause employees, partners, or contractors ever access private customer repositories or accounts unless required through our standard service obligations or for specific support reasons. When working a support issue, we do our best to respect your privacy and the security of your data as much as possible; we only access the files and settings as required through the resolution of your issue.
   
 
     * _Strong Password Policies:_ Applause provides various password policies to prevent unauthorized access to user accounts, including minimum password length and complexity requirements, password repetition controls, and automatic lock-out after unsuccessful login attempts.
@@ -81,15 +99,6 @@ Key benefits and features of the Applause commitment to security include:
     * _Separation of Duties:_ Job responsibilities are separated, and mandatory employee reference checks are employed at all levels of Applause operations. Applause tracks and maintains any and all exceptions to standard segregation of duties policies and associated access permission changes.
   
 
-    * _Communication:_ Applause maintains robust communication protocols and procedures to ensure that all policy and system changes that impact security are timely communicated to Platform users through the application interface. In the event emergency communication is needed, Applause also supports alternative methods Reporting Security Issues
-
-The purpose of the Applause incident management policies & procedures is to ensure the timely and effective response to all potential threats to the Applause information security. Without an incident response capability the potential exists that, in the event that a security incident occurs, the incident will go unnoticed and the degree of harm associated with the incident may be greater than if the incident were properly recognized and mitigated.
-
-If you are an Applause Platform customer and have a security issue to report regarding your personal account, or have discovered a vulnerability in an Applause product, please contact your assigned Project Manager directly and report the incident via email to support@applause.com.
-
-If you are an Applause Community tester and have a security issue to report regarding your personal Applause account, or have discovered a vulnerability in an Applause product, please contact your assigned Community Manager and report the incident via email to testers@utest.com.
-
-Applause takes security issues seriously and will respond swiftly to fix verifiable security issues. Some of the components that make up the Applause Platform are complex and take time to update. When properly notified of legitimate security issues, Applause personnel will do their best to acknowledge your emailed report, assign resources to investigate the issue and mitigate potential problems as efficiently and effectively as possible.
-
+    * _Communication:_ Applause maintains robust communication protocols and procedures to ensure that all policy and system changes that impact security are timely communicated to Platform users through the application interface. In the event emergency communication is needed, Applause also supports alternative methods of communication to users, including email notifications and alerts.
 
 
