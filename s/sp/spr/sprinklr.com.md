@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the sprinklr.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205093036id_/http%3A//www.sprinklr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprinklr.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122001612id_/https%3A//www.sprinklr.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-_Last Updated: June 27, 2014_.
 
-This policy covers Sprinklr’s privacy practices for our public website, accessible at [http://www.sprinklr.com](http://www.sprinklr.com/).
+_Last Updated: June 20, 2015_.
 
-To read policies relating to our and our customer’s use of the Sprinklr platform or other Sprinklr products, [please click here](http://www.sprinklr.com/social-media-management-system-privacy-policy/ "Social Media Management System Privacy Policy").
+This policy covers Sprinklr’s privacy practices for our public website, accessible at [https://www.sprinklr.com](https://www.sprinklr.com/).
+
+To read policies relating to our customer’s use of the Sprinklr platform or other Sprinklr products, [please click here](https://www.sprinklr.com/social-media-management-system-privacy-policy/ "Social Media Management System Privacy Policy").
 
 **We Respect the Privacy of Visitors to Our Website.**
 
