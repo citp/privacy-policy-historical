@@ -1,96 +1,61 @@
-> *The following text is extracted and transformed from the coolmathgames.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620171050id_/http%3A//www.coolmathgames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolmathgames.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121133623id_/http%3A//www.coolmath-games.com/privacyp) for the most accurate reproduction.*
 
-# Cool Math Games | Privacy Policy
+# Privacy Policy for Coolmath-Games.com
 
-First and foremost, your privacy, no matter if you are a teacher, student, parent, or other user, is of the utmost importance to us. We have screened all content for this site and confirmed that all games, ads, and text are safe for children and users of all ages. We also have taken very extreme precautions to confirm that our site and ALL of its content, is appropriate and safe for school.
+Effective Date: May 20, 2014 (last updated March 24, 2015)
 
-[CoolMathGames.com](http://www.coolmathgames.com/), is committed to protecting the privacy of children who use our site. This Children's Online Privacy Policy explains our information collection, disclosure, and parental consent practices with respect to information provided by children under the age of 13 ("child" or "children" or "user"), and uses terms that are defined in our general privacy. This policy is in accordance with the U.S. Children's Online Privacy Protection Act (COPPA). For more information on COPPA please visit their website at www.coppa.org.
+This Policy describes how we treat personal information on the websites where it is located. This Policy does not apply to other Coolmath.com, LLC websites or apps, such as coolmath4kids.com and coolmath.com.
 
- **1\. The Information We Collect From Users, How We Use It, and How and When We Communicate With Parents**
+**Information Collected**
 
-[CoolMathGames.com](http://www.coolmathgames.com/) offers many applications (games), all of which are primarily targeted at those under 18, and others that are intended for users of all ages and their families. Our site and applications offer a variety of activities, including activities that may collect information from children. Below we summarize potential instances of collection and outline how and when we will provide parental notice and/or seek parental consent. As of right now, [CoolMathGames.com](http://www.coolmathgames.com/) collects just a simple username from its users but in any instance that we collect personal information from a child, we will retain that information only so long as reasonably necessary to fulfill the activity request or allow the child to continue to participate in the activity, and ensure the security of our users and our services, or as required by law. In the event we discover we have collected information from a child in a manner inconsistent with COPPA's requirements, we will either delete the information or immediately seek the parent's consent for that collection.
+For example, we - or vendors we work with - may collect information about our visitor's web browsers. We might look at what sites visitors came from, or what sites visitors go to when they leave. We often do this in order to analyze our web traffic in order to make improvements to our site.
 
- **Registration**
+We may use, or allow third parties to use, tracking tools like browser cookies and web beacons. To learn more about these tools and how you can control them, [click here](https://web.archive.org/aboutourads).
 
-Children can, in many cases, under option, not requirement, briefly register with our games with their choice of a username or an anonymous username. At this time, this is only data we ask from our users and if this changes in the future we will immediately update this policy. During the registration process, we may ask the child to provide brief information for notification and game progress purposes, including, the username. We also may ask for birth dates from children to validate their ages. We strongly advise children never to provide any personal information in their usernames. Please note that children can choose whether to share their information with us, but ALL features CAN function without it as of this time. Usernames are not kept or associated with a user upon leaving and returning to our site. We monitor all usernames and block ALL inappropriate usernames.
+**Analysis of Coolmath Traffic**
 
- **About the collection of parent/users email address**
+We use information to respond to your requests or questions. For example, we might use your information to respond to your feedback.
 
-Consistent with the requirements of COPPA, on any child-targeted site or application, or in any instance where we ask for age and determine the user is age 12 or under, we will ask for a parent or guardian email address before we collect any personal information from the child. If you believe your child is participating in an activity that collects personal information and you or another parent/guardian have NOT received an email providing notice or seeking your consent, please feel free to contact us a [admin@CoolMathGames.com](mailto:admin@coolmathgames.com). We will not use parent/children email's provided for parental consent purposes to market or advertise to the parent, unless the parent has expressly opted in to email marketing or has separately participated in an activity that allows for such email contact. 
+We use information to improve our products and services. We may use your information to make our website and services better. We might use your information to customize your experience with us.
 
-**Content Generated by a Child**
+We use information for security purposes. We may use information to protect our company, our visitors, and our websites.
 
-All games on our site allow children to manipulate content. ALL of these activities do not require children to provide any personal information and therefore may not result in notice to the parent or require parental consent. If an activity potentially allows a child to insert personal information in their created content, we will either pre-screen the submission to delete any personal information, or we will seek verifiable parental consent by email for the collection. At this time, our site was created with the user's safety in mind and calls for no personal information. 
+We use information to communicate with you about our relationship. We may contact you about your feedback. We might also contact you about this Policy or our website terms.
 
-**About Verifiable Parental Consent:**
+We use information as otherwise permitted by law.
 
- **Email Consent:** In the event [CoolMathGames.com](http://www.coolmathgames.com/) wishes to collect personal information from a child, COPPA requires that we first seek a parent or guardian's consent by email. In the email we will explain what information we are collecting, how we plan to use it, how the parent can provide consent, and how the parent can revoke consent. If we do not receive parental consent within a reasonable time, we will delete the parent contact information and any other information collected from the child in connection with that activity. 
+**Sharing of Information**
 
-**Teacher Consent in Lieu of a Parent:** With regard to school-based activities, COPPA allows teachers and school administrators to act in the stead of parents to provide consent for the collection of personal information from children. Schools should always notify parents about these activities. For more information on parental rights with respect to a child's educational record under the Family Educational Rights and Privacy Act (FERPA), their site at <http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html>. 
+We will share information with third parties who perform services on our behalf. For example, we may share information with a vendor who conducts a satisfaction survey on our behalf, in order to improve our site.
 
-**Email Contact with a Child**
+We will share information if we think we have to in order to comply with the law or to protect ourselves. For example, we will share information to respond to a court order or subpoena. We may share it if a government agency or investigatory body requests. We might share information when we are investigating potential fraud.
 
-On occasion, in order to respond to a question or request from a child, [CoolMathGames.com](http://www.coolmathgames.com/) may need to ask for the child's online contact information, such as an email address and age. If [CoolMathGames.com](http://www.coolmathgames.com/) believes or is provided proof from the user that they are under the age of 13, we will delete this information immediately after responding to the question or request.
+We may share information with any successor to all or part of our business.
 
- **2\. Cookies, Ads and Traffic Monitoring**
+We may share information for other reasons we may describe to you.
 
- **Google Adsense**
+**Your Choices About Sharing and Marketing Practices**
 
-The DoubleClick cookie is used by Google in the ads served on the websites of its partners, such as websites displaying AdSense ads or participating in Google certified ad networks. When users visit a partner's website and either view or click on an ad, a cookie may be dropped on that end user's browser. 
+You can control certain cookies and tracking tools. To learn how to manage how we - and our vendors - use cookies and other tracking tools, please [click here](https://web.archive.org/aboutourads).
 
-  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
-  * Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings. (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://aboutads.info/).)
-  * All ads have been screened and are appropriate for all users.
+This site and children. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us at
 
+You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request." Parents, to learn more about how to protect children's privacy on-line, [click here](http://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online).
 
+**Security**
 
- **Other Cookies**
+The Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. We keep personal information as long as it is necessary or relevant for the practices described in this Policy. We also keep information as otherwise required by law.
 
-We monitor all traffic that visits our site. For purposes of tracking traffic, we use Clicky.com. This service drops a cookie to the user's browser and collects a small amount of anonymous information. The information gathered includes, but is not limited to: your IP address, your internet service provider, their regional location, and the amount of time you spend on each page. This information is valuable to us and helps us identify what our users enjoy and how we can continue to strive for safety and excellence at [CoolMathGames.com](http://www.coolmathgames.com/)
+**Links to Other Sites**
 
- **3\. Licensing and Common Core State Standards**
+If you click on a link to a third party site, you will be taken to websites we do not control. This policy does not apply to the privacy practices of that website. Read the privacy policy of other websites carefully. We are not responsible for these third party sites. Our site may also serve third party content that contains their own cookies or tracking technologies. To learn more, click here. We do not control the use of those technologies.
 
-Due to the nature and quality of math games, we decided to team up with some of the most brilliant and skilled educational game developers out there, Arcademics. Nearly all of our games have been exclusively and contractually licensed to us by Arcademics.
+**Questions or Concerns**
 
-As for the small amount of games that do not appear related to Arcademics, we have obtained private individual licenses for. Any games that you use on our site have been screened entirely for not only appropriateness but for satisfying some sort of Common Core State Standards. Each game satisfies a different standard, and each standard can be viewed at the bottom of each game page, in bold red. 
+If you have any questions or concerns about this policy, please email us at
 
-**4\. Security**
+You can also write to us or call at: Coolmath-games.com, LLC, Attn: Legal Department, 122 East 42nd Street, Suite 1611, New York, NY 10168, or call us at
 
-We strive to not only bring you appropriate and fun math content but to provide all users with a safe site to visit. We have spent hundreds of hours securing and fortifying our site from hackers and malicious users. Please always check to make sure that the site you are visiting is safe and secure from intrusion. We promise that all of our content is free of viruses, SQL injection, black holes, malware, trojans, and other such content that can bring even the slightest unwanted harm to any of our users. 
+**Policy Changes**
 
-Please check the following links to verify our security: 
-
-Norton   
-<https://safeweb.norton.com/report/show?url=www.coolmathgames.com>
-
-Securi Site Check  
-<http://sitecheck2.sucuri.net/results/www.coolmathgames.com>
-
- **5\. Contact:**
-
-If for any reason you feel that content on this site is not appropriate or safe for users please contact us immediately at [admin@CoolMathGames.com](mailto:admin@coolmathgames.com). 
-
-On the other hand, we appreciate comments, suggestions and improvements you might have for [CoolMathGames.com](http://www.coolmathgames.com/)! 
-
-Please feel free to contact us at 
-
-Email: [admin@CoolMathGames.com](mailto:admin@CoolMathGames.com)
-
-Address for Letters: 
-
-14747 N Northsight Blvd Suite 111, PMB 309  
-Scottsdale, Arizona 85260 United States
-
-Phone and Fax: 
-
-Phone: (480) 624-2599  
-Fax: (480) 624-2598
-
-Thank you so much and we hope that you enjoy everything about our site and keep coming back to work on those math skills! 
-
-Sincerely, 
-
-John and Michael
-
-* * *
+From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
