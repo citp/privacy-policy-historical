@@ -1,6 +1,49 @@
-> *The following text is extracted and transformed from the indialends.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319175142id_/https%3A//indialends.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indialends.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121220158id_/https%3A//indialends.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # IndiaLends - Privacy Policy | Lenders and Borrowers
+
+###  Eligibility criteria for Unsecured Personal Loans:
+
+  1. You must be an Indian national
+  2. You must be a salaried or a self employed professional
+  3. You should have a minimum monthly salary of at least Rs. 18K
+  4. You must be at least 21 years old
+  5. In some cases applying with your spouse will increase your eligibility for the loan
+
+  
+
+
+###  Documents required:
+
+#### These are required before the loan amount is deposited in to your bank account:
+
+  1. PAN Card
+  2. Address Proof (any one of these) - Bank statement, Rent Agreement, Voter ID card, Ration card, Passport, Driving License, telephone/ electricity/ water/ credit card bill.
+  3. Bank Statement (where your salary / income is deposited) - for last three months
+  4. Pay slips – for last three months
+
+  
+
+
+### FAQs
+
+ **Q. What does IndiaLends do?**  
+Indialends is here to help you secure an affordable personal loan quickly and easily. We help consumers get unsecured personal loans for their debt consolidation, home improvement, medical, wedding, second hand vehicle purchase and travel needs. We will work with you to assess your needs and understand your credit background. We will only use this information to get the deal that is exactly right for you, quickly - all this and a seamless online experience that let’s you worry about the things that matter to you. To get started with us click [here](https://web.archive.org/borrower.aspx). If you have any questions and wish to speak to one of our customer representatives please give us a missed call on [+91 9999615233](tel:+91 9999615233). 
+
+**Q. What are the fees and charges for getting a loan?**  
+Besides the interest that you pay on your loan, a small processing fee may be charged to youat the time of loan disbursal (i.e. after your loan is approved). All these charges will be explained to you clearly during the application process. We believe in transparency and hence you will never find any hidden charges when you take a loan on IndiaLends. 
+
+**Q. How do I repay my loan?**  
+The loan is repaid in the form of EMIs (equated monthly instalments). Prior to disbursing the money into your bank account, you will be required to submit post-dated cheques or sign an ECS (electronic clearing service) mandate. An ECS mandate facilitates an automatic recurring transfer of the EMI amount from your account, for the tenure of the loan, taking all the hassle away from you. The process will be furtherexplained to you before loan disbursal. 
+
+**Q. Can I pre-pay my loan?**  
+While most lenders allow prepayment of loans, the prepayment rules vary from lender to lender. Some lenders may ask you to pay a fee for early closure while others don’t. From product features to your current situation, there are a lot of things to consider before you make this important decision. Get started with us here and we will help you get the right loan. 
+
+Please [click here](https://web.archive.org/faq-borrower.aspx) to read the full FAQs 
+
+### Contact Us:
+
+If you have any queries or wish to speak to a customer care representative please reach out to us at [support@indialends.com](mailto:support@indialends.com) or give us a missed call on [+91 9999615233](tel:+91 9999615233). 
 
 ## Indialends privacy policy 
 
