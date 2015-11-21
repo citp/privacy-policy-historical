@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviebat.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609210809id_/http%3A//moviebat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviebat.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121090804id_/http%3A//moviebat.com/privacy-policy) for the most accurate reproduction.*
 
 # MovieBat.com » Privacy Policy
 
