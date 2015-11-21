@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolmath-games.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624164052id_/http%3A//www.coolmath-games.com/privacyp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolmath-games.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121133623id_/http%3A//www.coolmath-games.com/privacyp) for the most accurate reproduction.*
 
 # Privacy Policy for Coolmath-Games.com
 
