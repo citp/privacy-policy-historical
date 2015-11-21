@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themovieswood.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524001904id_/http%3A//www.themovieswood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themovieswood.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122004718id_/http%3A//www.themovieswood.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Movies Wood
 
@@ -69,5 +69,3 @@ Mohlanwal Kalan Multan Road Lahore Pakistan
 shahidirfan100@gmail.com
 
 This document was last updated on February 12, 2015
-
-(Visited 20 times, 1 visits today)
