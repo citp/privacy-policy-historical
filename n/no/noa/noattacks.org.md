@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noattacks.org privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508191409id_/http%3A//www.noattacks.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noattacks.org privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121030755id_/http%3A//noattacks.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Prevent Asthma Attacks
 
