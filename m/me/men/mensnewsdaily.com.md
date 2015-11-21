@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mensnewsdaily.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510142558id_/http%3A//mensnewsdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensnewsdaily.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121160206id_/http%3A//mensnewsdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MND: Your Daily Dose of Counter-Theory
 
