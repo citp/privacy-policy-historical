@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mitre10.co.nz privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430014223id_/https%3A//www.mitre10.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitre10.co.nz privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121233316id_/https%3A//www.mitre10.co.nz/privacy) for the most accurate reproduction.*
 
 # Privacy - Mitre 10
 
@@ -20,16 +20,16 @@ Your local Mitre 10 store is operated by the local Mitre 10 Member who may also 
 
 Customers may choose to provide us with personal information, such as:
 
-  * **Contact information** \- such as your name, billing and/or shipping address, telephone number, email, postal address.
-  * **Demographic information** \- such as your date of birth, gender.
-  * **General interest information** – such as your DIY preferences and capabilities
-  * **Loyalty program information** – such as your Fly Buys number.
-  * **Account (and payment) information** – such as your usernames, passwords, payment information, credit history.
-  * **Purchase and returns history** – such as specific products purchased and the date’s purchases may have occurred.
-  * **Social contact information** – such as any information submitted in a public forum – like blogs and community chats, etc.
-  * **Website information** – such as browser cookies and PCT tags to track the pages visited and visitor journeys taken.
-  * **Mobile information** – such as location data obtained from mobile devices’ GPS.
-  * **Competitions/sponsorship information** – such as entries into company sponsored contests, surveys, sweepstakes or focus groups.
+  * Contact information - such as your name, billing and/or shipping address, telephone number, email, postal address.
+  * Demographic information - such as your date of birth, gender.
+  * General interest information – such as your DIY preferences and capabilities.
+  * Loyalty program information – such as your Fly Buys or AirPoints number.
+  * Account (and payment) information – such as your usernames, passwords, payment information and credit history.
+  * Purchase and returns history – such as specific products purchased and the dates purchases may have occurred.
+  * Social contact information – such as any information submitted in a public forum – like blogs and community chats, etc.
+  * Website information – such as browser cookies and PCT tags to track the pages visited and visitor journeys taken.
+  * Mobile information – such as location data obtained from mobile devices’ GPS.
+  * Competitions/sponsorship information – such as entries into company sponsored contests, surveys, sweepstakes or focus groups.
 
 
 
@@ -37,19 +37,20 @@ Customers may choose to provide us with personal information, such as:
 
 How your personal information will be used by us will depend on the circumstances in which that information is collected. This helps to improve the overall Mitre 10 shopping experience of our customers.
 
-You can opt out from receiving emails at any time. All you need to do is change your Interest Groups in the Preferences section of My Account. But remember, if you do ‘opt out’ of receiving emails then you could miss out on offers and news.
+You can opt in to receive emails, mail, telephone calls and/or text messages from us and you can opt out at any time. All you need to do is change your Interest Groups in the Preferences section of My Account. But remember, if you do opt out, you could miss out on offers and news.
 
-Specific ways in which we might use your information include:
+Specific purposes for which your information might be used include:
 
-  * **To improve our range of products, services and promotions** **.**
-  * **To assess trends and customer interests** **.**
-  * **To personalise our communications/promotions.**
-  * **For security purposes** **.**
-  * **To communicate with you about your account or our relationship with you** **.  **
+  * To improve our range of products, services and promotions (including assessing trends and customers interests).
+  * To provide you with details of Mitre 10 products, services and promotions.
+  * To provide details of our partners’ promotions that we reasonably believe may be of interest to you.
+  * To personalise communications/promotions.
+  * For security purposes.
+  * To communicate with you about your account or our relationship with you.
 
 
 
-To do this we may combine information we get from you with information about you we have received from third parties to help us to customise our offer to you.
+To do this, your personal information held by us may be combined with your personal information held by selected partners and service providers.
 
 We may also use the information in other ways but will provide notice of this at the time it is collected.
 
@@ -59,15 +60,18 @@ Mitre 10 maintains the highest standards of administrative, technical and physic
 
 ### Sharing of information
 
-We are committed to keeping all of your personal information confidential.
+We may share your personal information with: 
 
-We will not rent, sell or give away to any third party your name, address, email address, credit card information or any other personal information unless you specifically consent to us being able to make this information available. Your credit card information is so safe we can’t even see it! It’s processed very securely through to your bank using 128 bit SSL encryption.
+  * our service providers for the purposes set out under ‘How we may use information’ above; and
+  * our selected partners for the purpose of tailoring offers that we reasonably believe may be of interest to you.
 
-We may share non-personal, non-individual, statistical or demographic information in aggregate form with our partners.
+
+
+We might authorise our selected partners and service providers to collect information on our behalf. We may also share information with the suppliers and manufacturers of our products and services to respond to your reviews and questions, and to contact you in the event of a product recall (or similar).
+
+We may share anonymised and/or aggregated information about our customers with selected suppliers, manufacturers and other partners.
 
 We may disclose information about you (i) if we are required to do so by law, regulation or legal process; or (ii) when we believe disclosure is necessary or appropriate to prevent physical, financial or other harm, injury or loss; (iii) in connection with an investigation of suspected or actual unlawful activity; or (iv) to assist in collecting debt owed by you.
-
-We may share information with our service providers, such as our delivery service providers who ship and deliver your online orders. We might authorise our service providers to collect information on our behalf and may also share information with the vendors and manufacturers of our products and services to respond to your reviews and questions.
 
 We may share information with Mitre 10 Member stores and gather information from Mitre 10 Member stores ensuring compliance with this Privacy Statement at all times.
 
@@ -81,9 +85,8 @@ This website may contain links to other websites for your convenience and inform
 
 If you have any questions or comments about this Privacy Statement, or if you would like us to update information we have about you, please contact us by:
 
-  * **Email** at web.contact@mitre10.co.nz or click here now
-  * **Post** at Mitre 10 (New Zealand) Ltd Private Bag 102925 North Shore Auckland 0745
-  * **Phone** at 09 443 9900
+  * **Email** at [privacy@mitre10.co.nz](mailto:privacy@mitre10.co.nz) or click [here](mailto:privacy@mitre10.co.nz) now
+  * **Post at:** Privacy Officer, Mitre 10 (New Zealand) Ltd Private Bag 102925 North Shore Auckland 0745
 
 
 
@@ -91,6 +94,6 @@ Your information will be held by us at 46 View Road, Wairau Valley, Auckland 062
 
 ### Updates to our Privacy Statement
 
-This Privacy Statement may be updated periodically and without prior notice to you to reflect changes in our personal information practices or relevant laws. We will post a notice on [www.mitre10.co.nz](http://www.mitre10.co.nz/) and certain other parts of the website to notify you of any significant changes to our Privacy Statement and indicate at the bottom of the Privacy Statement when it was updated.
+This Privacy Statement may be updated periodically and without specific prior notice to you personally to reflect changes in our personal information practices or relevant laws.
 
-_Last updated_ : This privacy statement was last updated 21/01/2015
+_Last updated_ : This privacy statement was last updated 28/09/2015
