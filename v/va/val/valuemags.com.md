@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuemags.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152115id_/http%3A//www.valuemags.com/home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuemags.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121071620id_/http%3A//www.valuemags.com/home/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -12,10 +12,10 @@ When you register or order at ValueMags we send you a courtesy confirmation. You
 All communications will contain simple removal instructions.
 
 **Information Automatically Logged**  
-We use your IP address to help identify you and your shopping cart.
+We use your IP address to help identify you and your shopping cart. 
 
 **Cookies**  
-Our Site uses cookies to keep track of your shopping cart.
+Our Site uses cookies to keep track of your shopping cart. 
 
 **Order Forms**  
 Our site uses an order form for customers to request information, products, and services. We collect contact information (like your email address), financial information (like your credit card numbers), unique identifiers (like your customer number), and demographic information (like your zip code). 
@@ -37,12 +37,15 @@ This site has security measures in place to protect the loss, misuse, and altera
 **Choice/Opt-Out**  
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us. 
 
-You can opt out by logging in [here](https://www.valuemags.com/member/login.asp) and selecting the "Edit Email Address/Password" option at the bottom left. Please note that ValueMags Express customers will need to use the password retrieval functionality to get their password.
+You can opt out by logging in [here](https://www.valuemags.com/member/login.asp) and selecting the "Edit Email Address/Password" option at the bottom left. Please note that ValueMags Express customers will need to use the password retrieval functionality to get their password. 
 
 **Data Quality/Access**  
 This site gives users the following options for changing and modifying information previously provided: 
 
-You can [click here](https://web.archive.org/supportticket.asp) and provide your updated information.
+You can [click here](https://web.archive.org/supportticket.asp) and provide your updated information. 
+
+**Third Parties**  
+We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at [www.aboutads.info](https://web.archive.org/web/20151121071620id_/http%3A//www.valuemags.com/home/www.aboutads.info) and Networking Advertising Initiative at [www.networkadvertising.org/choices/](https://web.archive.org/web/20151121071620id_/http%3A//www.valuemags.com/home/www.networkadvertising.org/choices/). 
 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
@@ -52,6 +55,6 @@ ValueMags
 Ste 500  
 Chicago, IL 60654 
 
-[Click here to contact support](https://web.archive.org/supportticket.asp).
+[Click here to contact support](https://web.archive.org/supportticket.asp). 
 
-Privacy Policy Updated: 02/08/2013.
+Privacy Policy Updated: 07/07/2015.
