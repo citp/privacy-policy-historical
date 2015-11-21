@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trxtraining.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505101912id_/https%3A//www.trxtraining.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trxtraining.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121230425id_/https%3A//www.trxtraining.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TRX
 
