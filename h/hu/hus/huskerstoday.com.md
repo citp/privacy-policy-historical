@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huskerstoday.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417123356id_/http%3A//huskerstoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huskerstoday.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121143610id_/http%3A//huskerstoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily Nebraska Cornhusker News
 
