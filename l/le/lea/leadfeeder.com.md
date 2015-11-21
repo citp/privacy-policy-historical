@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadfeeder.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630065058id_/http%3A//www.leadfeeder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadfeeder.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121230706id_/http%3A//www.leadfeeder.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Leadfeeder
 
@@ -61,7 +61,7 @@ _This policy was last modified on May 12, 2014_
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 [http://www.leadfeeder.com](https://www.leadfeeder.com/)  
-Teollisuuskatu 21  
-Helsinki 00510  
+Mikonkatu 17 C  
+Helsinki 00100  
 Finland  
 [team@leadfeeder.com](mailto:team@leadfeeder.com)
