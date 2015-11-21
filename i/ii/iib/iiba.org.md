@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iiba.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629125709id_/http%3A//www.iiba.org/About-IIBA/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iiba.org privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121231558id_/http%3A//www.iiba.org/About-IIBA/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - IIBA | International Institute of Business Analysis
 
