@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addicted.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517122850id_/http%3A//addicted.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addicted.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121122718id_/http%3A//addicted.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -86,7 +86,7 @@ Enter your ZIP to find help nearest you:
 
   * ### Did You Know?
 
-"60 percent of seniors don’t see regular marijuana use as harmful, but THC (the active ingredient in the drug that causes addiction) is nearly five times stronger than it was 20 years ago." — [http://www.dosomething.org](http://www.dosomething.org/)
+"54 percent of high school seniors do not think regular steroid use is harmful, the lowest number since 1980, when the National Institute on Drug Abuse started asking about perception on steroids." — [http://www.dosomething.org](http://www.dosomething.org/)
 
 Next »
 
