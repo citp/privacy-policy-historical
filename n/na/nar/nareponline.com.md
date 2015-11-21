@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nareponline.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522203938id_/http%3A//nareponline.com/page/privacy-policy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nareponline.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121073812id_/http%3A//nareponline.com/page/privacy-policy-3) for the most accurate reproduction.*
 
 # Privacy Policy
 
