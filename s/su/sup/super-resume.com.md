@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the super-resume.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512093108id_/http%3A//www.super-resume.com/PrivacyPolicy.jtp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the super-resume.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121234459id_/http%3A//www.super-resume.com/PrivacyPolicy.jtp) for the most accurate reproduction.*
 
 # Super-Resume: Privacy Policy
 
