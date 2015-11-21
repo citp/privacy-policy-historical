@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freshwallpapers.in privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222150218id_/http%3A//freshwallpapers.net/page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshwallpapers.in privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121044429id_/http%3A//freshwallpapers.in/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy wallpapers | Freshwallpapers
+# Privacy Policy
 
-Freshwallpapers.net respects the privacy of the visitors to this web site and any co-branded, mirrored, or successor sites (the "Website") and are committed to protecting their privacy.Freshwallpapers.net has established this Privacy Policy Statement to inform you of our policies and practices regarding how we collect personal identifiable information from you,how we use and disclose it, and your rights with respect to such information.By using this Website, you acknowledge and agree to the terms and conditions of this Freshwallpapers.net Privacy Policy Statement ("Privacy Policy").If you do not agree to these terms and conditions, please do not use this Website.
+Freshwallpapers.in respects the privacy of the visitors to this web site and any co-branded, mirrored, or successor sites (the "Website") and are committed to protecting their privacy. Freshwallpapers.in has established this Privacy Policy Statement to inform you of our policies and practices regarding how we collect personal identifiable information from you,how we use and disclose it, and your rights with respect to such information.By using this Website, you acknowledge and agree to the terms and conditions of this Freshwallpapers.in Privacy Policy Statement ("Privacy Policy").If you do not agree to these terms and conditions, please do not use this Website.
 
 We reserve the right to change or modify our privacy practices that are described herein from time to time simply by posting a revised Privacy Policy on this Website.Any such change shall be effective immediately upon posting of the revised Privacy Policy on this Website.We reserve the right to make the revised or changed Privacy Policy effective for information we already have about you, as well as any information we receive in the future.We encourage you to refer to this Privacy Policy on an ongoing basis so that you understand our current privacy practices.
 
@@ -48,11 +48,11 @@ We may use the information we collect to:
 
 Except as expressly set forth herein, we do not loan, give away, sell, distribute or rent your personal information to any third party.
 
-We will disclose your personal information to third parties if you have previously consented to such disclosures and in special circumstances, including, but not limited to, the sale of Freshwallpapers.net;the due diligence in connection with a potential sale of Freshwallpapers.net; any bankruptcy, insolvency or liquidation of Freshwallpapers.net, or in other similar circumstances.
+We will disclose your personal information to third parties if you have previously consented to such disclosures and in special circumstances, including, but not limited to, the sale of Freshwallpapers.in;the due diligence in connection with a potential sale of Freshwallpapers.in; any bankruptcy, insolvency or liquidation of Freshwallpapers.in, or in other similar circumstances.
 
-For the purpose of operating our business and providing you with certain services and products and to process your purchases, shipments and payments,we may disclose your personal information to one or more of our business partners, distributors, suppliers, affiliates, service providers or other third partieswho are assisting Freshwallpapers.net in performing such services.Without limiting the foregoing, these third parties may provide Freshwallpapers.net with credit card processing, shipping, data management, email distribution, live text chat, email response, market research,information analysis, and promotions management services.We provide such parties with the personal information they need to perform their respective services and we use commercially reasonable efforts to require them to safeguard your personal informationand limit their use of it.
+For the purpose of operating our business and providing you with certain services and products and to process your purchases, shipments and payments,we may disclose your personal information to one or more of our business partners, distributors, suppliers, affiliates, service providers or other third partieswho are assisting Freshwallpapers.in in performing such services.Without limiting the foregoing, these third parties may provide Freshwallpapers.in with credit card processing, shipping, data management, email distribution, live text chat, email response, market research,information analysis, and promotions management services.We provide such parties with the personal information they need to perform their respective services and we use commercially reasonable efforts to require them to safeguard your personal informationand limit their use of it.
 
-We also may provide your personal information to other Freshwallpapers.net affiliated companies (including, but not limited to, affiliates, subsidiaries and our parent companies)who may use your personal information for any legal purposes whatsoever.
+We also may provide your personal information to other Freshwallpapers.in affiliated companies (including, but not limited to, affiliates, subsidiaries and our parent companies)who may use your personal information for any legal purposes whatsoever.
 
 We also may disclose personal information about you upon request by the government; in response to a court order; when required by law or when we believe in good faith is required by law;to enforce our Privacy Policy, terms and conditions or other agreements on this Website; upon your request;or to contact, identify or bring legal action against someone who may be causing injury to or interference with our or others' rights or property.We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing purposes.
 
@@ -95,30 +95,30 @@ If you turn cookies off, you won't have access to many features that make your v
 
 We do not knowingly collect personal information from children under the age of 18.This Website is not intended to solicit information of any kind from children under the age of 18 and we have made commercially reasonable efforts to design this Websiteto prevent our knowing acceptance of any such information.
 
-It is possible that by fraud, deception or error, we may receive information pertaining to children under the age of 18.If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers.If you want to notify us of our receipt of personal information belonging to a child under the age of 18, please do contact us admin@freshwallpapers.net or freshwallpaper.net@gmail.com
+It is possible that by fraud, deception or error, we may receive information pertaining to children under the age of 18.If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers.If you want to notify us of our receipt of personal information belonging to a child under the age of 18, please do contact us or freshwallpaper.net@gmail.com 
 
   
 
 
 ## Email Marketing Practices
 
-When you submit any personal information, you understand and agree that Freshwallpapers.net, its partners, and affiliates may access, store,and use your customer profile in any of the countries in which Freshwallpapers.net and its affiliates provide services, including without limitation the United States.We collect this information for a variety of reasons, including Freshwallpapers.net's effort to inform you of new products, special offers, and other products and services from Freshwallpapers.net.Freshwallpapers.net recognizes and appreciates the importance of responsible use of the information you choose to provide. Freshwallpapers.net may selectively provide certain information to other companiesor organizations whose products or services we think may interest you.
+When you submit any personal information, you understand and agree that Freshwallpapers.in, its partners, and affiliates may access, store,and use your customer profile in any of the countries in which Freshwallpapers.in and its affiliates provide services, including without limitation the United States.We collect this information for a variety of reasons, including Freshwallpapers.in's effort to inform you of new products, special offers, and other products and services from Freshwallpapers.in.Freshwallpapers.in recognizes and appreciates the importance of responsible use of the information you choose to provide. Freshwallpapers.in may selectively provide certain information to other companiesor organizations whose products or services we think may interest you.
 
-Freshwallpapers.net and its partners may often sponsor contests that you can enter. Your participation in these contests is entirely optional.Freshwallpapers.net may also conduct surveys online, via e-mail, or by telephone. Your participation in these surveys is entirely optional. Survey participants are anonymous unless otherwise stated in the survey.
+Freshwallpapers.in and its partners may often sponsor contests that you can enter. Your participation in these contests is entirely optional.Freshwallpapers.in may also conduct surveys online, via e-mail, or by telephone. Your participation in these surveys is entirely optional. Survey participants are anonymous unless otherwise stated in the survey.
 
   
 
 
 ## Chat Rooms and Forums
 
-This Website may now or in the future include web logs (i.e., blogs), chat rooms, post-it boards, forums, message boards, and/or news groups.Any information that is disclosed in these areas becomes public information. You should exercise caution before disclosing your personal information via these public venues, which you do at your own risk.If you do so, you may receive, among other things, unsolicited emails or "spam" from others. Freshwallpapers.net cannot safeguard the privacy of personal information that is disclosed online in this manner.
+This Website may now or in the future include web logs (i.e., blogs), chat rooms, post-it boards, forums, message boards, and/or news groups.Any information that is disclosed in these areas becomes public information. You should exercise caution before disclosing your personal information via these public venues, which you do at your own risk.If you do so, you may receive, among other things, unsolicited emails or "spam" from others. Freshwallpapers.in cannot safeguard the privacy of personal information that is disclosed online in this manner.
 
   
 
 
 ## Other Websites
 
-When browsing this Website, you may be directed to other websites that are beyond our control. These other websites may use cookies and pixel tags, collect data, or solicit personal information.Even though Freshwallpapers.net may be affiliated with these websites, we have no control over them or how they collect,distribute or otherwise use your personal information or how they safeguard and secure your personal information.Freshwallpapers.net is not responsible or liable for the conduct, policies or actions of the owners of such websites or the content displayed on these websites.These websites are linked to this Website only for your convenience and you access them at your own risk.
+When browsing this Website, you may be directed to other websites that are beyond our control. These other websites may use cookies and pixel tags, collect data, or solicit personal information.Even though Freshwallpapers.in may be affiliated with these websites, we have no control over them or how they collect,distribute or otherwise use your personal information or how they safeguard and secure your personal information.Freshwallpapers.in is not responsible or liable for the conduct, policies or actions of the owners of such websites or the content displayed on these websites.These websites are linked to this Website only for your convenience and you access them at your own risk.
 
   
 
@@ -140,29 +140,29 @@ We reserve the right to send you certain communications related to this Website 
 
 ## Terms and Conditions of Use
 
-Freshwallpapers.net has a Terms and Conditions of Use Agreement that sets forth the terms and conditions under which we provide products, services and information to you from this Website,and your use of, and access to, this Website. It is your responsibility to read, understand and comply with the terms and conditions set forth therein. That agreement can be found at [Freshwallpapers.net/terms-and-conditions](https://web.archive.org/page/terms-and-conditions.html).
+Freshwallpapers.in has a Terms and Conditions of Use Agreement that sets forth the terms and conditions under which we provide products, services and information to you from this Website,and your use of, and access to, this Website. It is your responsibility to read, understand and comply with the terms and conditions set forth therein. That agreement can be found at [Freshwallpapers.in/tos](https://web.archive.org/tos.html).
 
   
 
 
 ## Questions and Feedback
 
-We welcome your questions, comments, and concerns about this Privacy Policy and our privacy practices.Please send us feedback pertaining to these matters or any other issue you may have with Freshwallpapers.net or this Website.
+We welcome your questions, comments, and concerns about this Privacy Policy and our privacy practices.Please send us feedback pertaining to these matters or any other issue you may have with Freshwallpapers.in or this Website.
 
-You may contact us at admin@freshwallpapers.net or freshwallpaper.net@gmail.com
+You may contact us at freshwallpaper.net@gmail.com 
 
   
 
 
 ## Third parties and their privacy policies
 
-We use third-party companies to display ads on our pages, to track visitor statistics as well as to provide social networking features.  
+We use third-party companies to display ads on our pages, to track visitor statistics as well as to provide social networking features.   
 Third parties use cookies to display ads based on your prior visits to our website.
 
-Google's use of the DART cookie enables it and its partners to display ads based on your prior visits to this website and other websites.  
+Google's use of the DART cookie enables it and its partners to display ads based on your prior visits to this website and other websites.   
 You may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy/ads/).
 
-Google.com - advertising, visitor statistics, +1 Button; [privacy policy of Google.com](http://www.google.com/privacy.html), [Google +1 Button Privacy Policy](http://www.google.com/intl/en/privacy/plusone/)  
-Facebook.com - fan page, FaceBook like, share and send buttons; [Facebook's Privacy Policy](http://www.facebook.com/policy.php)  
-Twitter.com - Twitter tweet button; [Twitter Privacy Policy](http://twitter.com/privacy)  
+Google.com - advertising, visitor statistics, +1 Button; [privacy policy of Google.com](http://www.google.com/privacy.html), [Google +1 Button Privacy Policy](http://www.google.com/intl/en/privacy/plusone/)   
+Facebook.com - fan page, FaceBook like, share and send buttons; [Facebook's Privacy Policy](http://www.facebook.com/policy.php)   
+Twitter.com - Twitter tweet button; [Twitter Privacy Policy](http://twitter.com/privacy)   
 Pinterest.com - Pinterest Pin button; [Pinterest Privacy Policy](http://pinterest.com/about/privacy/)
