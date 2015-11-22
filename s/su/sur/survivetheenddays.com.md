@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the survivetheenddays.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524042429id_/http%3A//survivetheenddays.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survivetheenddays.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122071704id_/http%3A//survivetheenddays.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy — Survive The End Days
 
 SurviveTheEndDays.com respects the privacy of all its users and is committed to protecting such privacy in accordance with this Privacy Policy.
 
@@ -14,7 +14,7 @@ The email address you provide for order processing, will only be used to send yo
 
 The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to periodic company news, updates, and/or related product or service information, etc.
 
-If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, promotions, etc. However, you may opt-out at any time by (please enter the opt-out or unsubscribe process here. This may be something like clicking the unsubscribe button at the bottom of your emails, or sending an email to unsubscribe@yourdomain.net, etc.).
+If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, promotions, etc. However, you may opt-out at any time by clicking the unsubscribe button at the bottom of your emails, or sending an email to unsubscribe@survivetheenddays.com.
 
 **2\. CONTRACTUAL OBLIGATION** If you make a purchase from the Web Site, you will be asked to provide your name, email and payment information. We may use information collected in the following ways:
 
