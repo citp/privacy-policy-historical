@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icj.me privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921012000id_/http%3A//www.icj.me/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icj.me privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122210556id_/https%3A//www.icj.me/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy / Just a Penguin
 
@@ -57,6 +57,3 @@ If you have any questions about this Privacy Policy, the practices of this site,
 cj@icj.me
 
 This document was last updated on January 09, 2014
-
-  
-
