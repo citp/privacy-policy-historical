@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fico.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627034934id_/http%3A//www.fico.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fico.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122134747id_/http%3A//www.fico.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FICO™
+# Privacy Policy | FICO®
 
 ## PRODUCTS & SOLUTIONS
 
@@ -57,12 +57,13 @@ Are you ready to fulfill your potential? FICO offers big career opportunities in
 
 
 
-[](http://www.fico.com/en)
+[](http://www.fico.com/)
 
   * 
 
 
   * [Terms of Use](https://web.archive.org/en/legal)
+  * [Patents](https://web.archive.org/en/patents)
   * [Trademark Requirements](https://web.archive.org/en/trademark-requirements)
   * [Impressum](https://web.archive.org/en/impressum)
   * [Copyright Usage Requirements](https://web.archive.org/en/copyright-usage-requirements)
@@ -122,7 +123,9 @@ We have up-to-date physical safeguards, such as secure areas in buildings; elect
 
 FICO will provide you access to Personal Information about you so you can correct or delete the Personal Information in accordance with applicable law. You may have additional rights in non-U.S. countries, such as objecting to and blocking the processing of your Personal Information. For security reasons, FICO will take steps to authenticate your identity before providing you with access to Personal Information.
 
-Compliance with the U.S. – EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework
+**Compliance with the U.S. – EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework**
+
+[Please read this important Safe Harbor update from November 11, 2015.](http://www.fico.com/en/privacy-policy/US-EU-Safe-Harbor-Update)
 
 FICO complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. FICO has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. FICO is committed to handling such personal information in accordance with the Safe Harbor Principles:
 
@@ -135,7 +138,7 @@ FICO complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Har
 
 
 
-As part of FICO’s participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet here, fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., click for mailing address. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, click here or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities.
+As part of FICO’s participation in the Safe Harbor, we have agreed to JAMS dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with JAMS by Internet ([SafeHarbor@jamsadr.com](mailto:SafeHarbor@jamsadr.com)), phone (212.607.2771), or mail to JAMS, 1920 Main Street, Suite 300, Irvine, CA 92614. If you are contacting JAMS to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about JAMS or the operation of JAMS’ dispute resolution process, contact Kathleen Pierz, JAMS Global Practice Development Manager, 212.607.2771. The JAMS dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities.
 
 To learn more about the Safe Harbor programs, and to view FICO’s certification, visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor)
 
@@ -173,8 +176,6 @@ London SE1 2 QP
 
 United Kingdom
 
-Fair Isaac Corporation participates in the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor as set forth by the United States Department of Commerce. As part of our [participation](http://export.gov/safeharbor/) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](https://feedback-form.truste.com/watchdog/request), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about-TRUSTe/contact-us). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, [click here](http://www.truste.com/products-and-services/dispute-resolution-services/) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities.
-
 **Revisions to the Policy**
 
-If we change this Privacy Policy we will post the changes here with 30 days’ notice before the revised Privacy Policy becomes effective. This Notice is effective as of December 17, 2013.
+If we change this Privacy Policy we will post the changes here with 30 days’ notice before the revised Privacy Policy becomes effective. This Notice is effective as of August 10, 2015.
