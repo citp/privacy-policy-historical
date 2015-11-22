@@ -1,48 +1,276 @@
-> *The following text is extracted and transformed from the kfc.co.za privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602182026id_/http%3A//www.kfc.co.za/home.asp%3Fpid%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfc.co.za privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122082534id_/http%3A//www.kfc.co.za/AboutKFC/PrivacyPolicy) for the most accurate reproduction.*
 
-# WebEasy | Welcome to Flux Webeasy your first choice in quality web design!
+# KFC Privacy Policy
 
-"Flux Interactive shall not be responsible and disclaims all liability for any loss, liability, damage (whether direct or consequential) or expense of any nature whatsoever which may be suffered as a result of or which may be attributable, directly or indirectly, to the use of or reliance upon any information, links or service provided through this website."
+**What We collect**
 
-We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages owned and operated by Flux Interactive Pty (Ltd).
+We may electronically collect, store and use personal information. If You don't consent to the collection and storage of Your personal information, please do not Access or register on the Sites. Before any of Your personal information is used, you will be asked to consent, and such request for consent will be sent to you via email. This personal information includes, but is not limited to, the following:
 
-What information are you collecting and how are you collecting it?  
-Every computer connected to the Internet is given a domain name and a set of numbers, that serve as that computer's "Internet Protocol" IP address. When a visitor requests a page from any Web site within the flux.co.za network, our web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, but do not collect and evaluate this information for individuals. Our web servers do not record e-mail addresses of the visitors. 
-
-From time to time, flux.co.za may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. A cookie can't read data off your hard disk or read cookie files created by other sites. Cookies do not damage your system. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other web sites may be diminished and some features may not work as intended. 
-
-| **What** | other information do you request?   
----|---  
-  
-We may also request your e-mail address or mailing address for the purposes of conducting a survey or to provide additional services (for example, subscriptions to e-mail newsletters, announcement lists or information about seminars). Whenever we request the identity of a visitor, we will clearly indicate the purpose of the inquiry before the information is requested. We maintain a strict "No-Spam" policy that means that we do not intend to sell, rent, or otherwise give your e-mail address to a third-party, without your consent. In addition, Flux Interactive will not send you email that you have not agreed to receive. We may from time to time send e-mail announcing new Flux Interactive products and services.
-
-**What** | information do you collect when I purchase something?  
----|---  
-  
-If you are purchasing something from Flux Interactive, we need to know your name, e-mail address, mailing address, credit card number, and expiration date. This allows us to process and fulfill your order and to notify you of your order status. This information may also be used by us to notify you of related product and services, but will not be shared or sold to third parties for any purpose. Certain Flux Interactive websites use a shopping cart feature that safeguards this information by using industry standard SSL (Secure Socket Layer) encrypted servers. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. Other Flux Interactive websites do not use SSL and thereby do not offer a secure coded way to transfer information. Wherever Flux Interactive collects personal information we make an effort to include a link to this Privacy Policy on that page. 
-
-**Will** | you disclose the information you collect to outside third parties?  
----|---  
-  
-Flux Interactive will disclose personal information when required by law or in the good-faith belief that such action is necessary to:
-
-  * Conform to the edicts of the law or comply with a legal process served on Flux Interactive, 
-  * Protect and defend the rights or property of the Flux Interactive and its websites, or visitors to Flux Interactive websites, 
-  * Identify persons who may be violating the law, the legal notice, or the rights of third parties, 
-  * Cooperate with the investigations of purported unlawful activities. 
+  * name and surname;
+  * gender;
+  * the services You may use on the Internet;
+  * address and contact details including your –
+  * your email address;
+  * country of residence;
+  * area or postal code; and
+  * birthplace;
+  * personal preferences;
+  * non–personal browsing habits and click patterns; and
+  * IP address.
 
 
 
-Flux Interactive uses reasonable precautions to keep the information disclosed to us secure. Flux Interactive reserves the right to transfer information in connection with the sale of all or part of Flux Interactives capital stock or assets. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information. Flux Interactive also links to a wide variety of other sites and contains advertisements of third parties. We are not responsible for their privacy policies or how they treat information about their users See below, What else should I know about my privacy when online?
+**What We do with your personal information**
 
-**What** | else should I know about my privacy when online?  
----|---  
-  
-The Flux Interactive and its web sites contain many links to other Web sites. Flux Interactive is not responsible for the privacy practices or the content of such Web sites. Flux Interactive does not share any of the individual personal information you provide Flux Interactive with the sites to which Flux Interactive links, although Flux Interactive may share aggregate data with such web sites (such as how many people use our site). Please check with those sites to determine their privacy policy. Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. 
+We collect, store and use the personal information described in order to (but not limited to the following) –
 
-In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online. 
+  * enable You to create personal profile on the Sites and thereby Access the Sites;
+  * enable You to make use of the Sites in the manner described on the Sites, from time to time;
+  * enable other website users to find You on the website and connect to You;
+  * communicate requested information to You, for example through user alerts;
+  * communicate information to You regularly, for example through newsletters;
+  * compile and maintain the website and member database;
+  * register and/or authenticate users of and/or visitors to the website;
+  * identify and take reasonable measures to prevent fraudulent uses of or Access to the website;
+  * compile non–personal statistical information about browsing habits, click patterns and Access to the website;
+  * attract advertisers by showing anonymised information about the database, for example demographics;
+  * track database size and growth; and
+  * track compliance of registrants and third parties with these Terms and Conditions.
 
-**Your** | consent to this agreement  
----|---  
-  
-By using our Web site, you consent to the collection and use of information by flux Interactive as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+
+
+YUM only shares personal information with other companies or individuals outside of YUM in the following limited circumstances:
+
+  * YUM has your consent. YUM requires opt–in consent to share any of your sensitive personal information.
+  * YUM may provide such information to its subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on YUM’s behalf. YUM requires that these parties agree to process such information based on its instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+  * YUM has a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Promotional Competition Rules, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to YUM’s rights, property or safety or of its users or the public as required or permitted by law.
+
+
+
+If YUM becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, YUM will ensure the confidentiality of any personal information involved in such transactions and notify you before personal information is transferred and becomes subject to a different privacy policy.
+
+We may collect, maintain, save, compile, share, disclose and sell Your personal information subject to the following:
+
+  * We shall not disclose Your personal information unless You consent to this (by agreeing to this Privacy Policy you consent to what personal information we collect from you and what we do with it as described in this Privacy Policy);
+  * We shall disclose the information without your consent only where We are compelled to do so by law; and
+  * We may compile, use and share any of the information that does not relate to a specific individual.
+
+
+
+**Opting out**
+
+The personal information is collected either electronically (for example, through the use of cookies) or is provided voluntarily by Users.
+
+We provide you with choice as to whether We send you information about special products and services in the future, and whether information is sent by Our franchisees, agents or 3rd party service providers. You may also change this choice in the future by contacting Us with this request, although it may also be necessary to contact any other organisations which have obtained Your information to indicate Your choice at this stage.
+
+Cookies are pieces of information that a website transfers to your computer's hard disk for record keeping purposes. Most web browsers are set to accept cookies (you can determine how your web browser manages cookies by taking advantage of its cookie management settings). Our site uses cookies to keep track of what You have purchased. We also use cookies to deliver content specific to your interests, to save Your password so you do not have to re–enter it each time you visit This Website, and for other purposes relating to Your transactions on this website. Cookies also help us estimate Our number of Unique Users and determine overall traffic patterns through this website. If You do not wish to receive any cookies Your may set your browser to refuse cookies. However, this may mean You will not be able take full advantage of YUM's services.
+
+You may request details of Your personal information which We collect, store and use. The process You should follow is detailed in our Promotion of Access to Information manual, details of which are set out below.
+
+Personal information collected from You may be deleted from the website and member databases when your account on the website is terminated for any reason.
+
+In the event that Your personal information is inaccurately or incompletely reflected on the website, You agree that it is Your responsibility to notify Us of this fact and to supply Us with the accurate or complete information to enable Us to address your concerns.
+
+**Remarketing**
+
+Kfc.co.za uses all features of Analytics for “Display Advertisers” this allows us to collect certain information and to provide visitors (“you”) with tailored information upon each visit. This includes obtaining specific visitor cookie data, such as the source, medium and keyword used to visit our website. Google Analytics however does not store any visitor specific data and we will not use visitor specific data in any way related to Analytics, Google Adwords, and Remarketing. Cookies are a common part of many commercial websites that allow small text files to be sent by a website, accepted by a web browser and then placed on your hard drive as recognition for repeat visits to the Site. Every time you visit our Site, our servers, through cookies, pixels and/or GIF files, collect basic technical information as described.
+
+You do not need to enable cookies to visit our Site; however, some parts of the Site and some services may be more difficult or impossible to use if cookies are disabled. We also use cookies on the Site to identify an index key with Our e-cards (online postcards). Our web servers may also automatically identify your device by identifiers like IP or MAC addresses. We may use this information for a variety of business purposes, including to analyze trends, administer the Site, track users’ and Unique Users' movements and gather broad demographic information for aggregate use.
+
+Our web servers may also automatically identify your device by identifiers like IP or MAC addresses. We may use this information for a variety of business purposes, including to analyze trends, administer the Site, track users’ movements and gather broad demographic information for aggregate use.
+
+Kfc.co.za uses remarketing with Adwords and analytics to display content specific advertisements to visitors that have previously visited our site when those visitors go to other websites that have the Display Network implemented.
+
+Kfc.co.za and other third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the Mediamind cookie) together to inform, optimize, and serve ads based on visitor’s past visits to our website.
+
+We take our users’ privacy very seriously. We feel that certain personal information should always be kept private, so we’ve developed restrictions around the types of ads where we don’t allow remarketing. When creating remarketing lists, we cannot use any sensitive information about users. This includes information such as their financial status, sexual orientation, and other sensitive categories.
+
+As adwords advertisers, we are restricted from and will not perform the following actions:
+
+(a) Running ads that collect Personally Identifiable Information (PII) including, but not limited to, email addresses, telephone numbers, and credit card numbers
+
+(b) Creating a remarketing list or creating ad text that specifically targets users in ways that are outlined as “prohibited” in the categories below
+
+**Visitors/Users can opt out of Analytics for Display Advertisers and opt out of customized Google Display Network ads by visiting the Ads Preferences Manager.**
+
+Creation, Migration and Use of Remarketing Lists. We must have all rights necessary to create or otherwise obtain Remarketing Lists, migrate Remarketing Lists to, and use Remarketing Lists or Similar Audience Lists on the Properties. Google will not allow another advertiser to use your information in the Remarketing Lists or Similar Audiences Lists without your consent.
+
+**Software and equipment**
+
+It is your responsibility to acquire and maintain, at your own expense, the computer hardware, software, communications infrastructure and Access accounts required to Access the Sites.
+
+**LIABILITY**
+
+**DISCLAIMERS AND LIMITATION OF LIABILITY**
+
+YOUR USE OF AND RELIANCE ON THE SITES IS ENTIRELY AT YOUR OWN RISK. THE SITES ARE PROVIDED "AS IS".
+
+ALTHOUGH WE TAKE STEPS TO VERIFY INFORMATION PRESENTED ON OR THROUGH THE SITES, WE DO NOT REPRESENT OR ENDORSE THE ACCURACY OR RELIABILITY OF ANY ADVICE, OPINION, STATEMENT, OR OTHER INFORMATION CONTAINED IN, DISPLAYED ON, LINKED TO OR DISTRIBUTED THROUGH THE SITES OR THE CONTENT OTHER USERS MAY PUBLISH TO THE SITES. YOU ACKNOWLEDGE THAT ANY RELIANCE UPON ANY SUCH OPINION, ADVICE, STATEMENT OR INFORMATION SHALL BE AT YOUR SOLE RISK. WE RESERVE THE RIGHT, IN OUR SOLE DISCRETION, TO CORRECT ANY ERRORS OR OMISSIONS ON THE SITES WITHOUT NOTICE TO YOU.
+
+INFORMATION, IDEAS AND OPINIONS EXPRESSED ON OR THROUGH THE SITES SHOULD NOT BE REGARDED AS PROFESSIONAL ADVICE OR OUR OFFICIAL OPINION AND YOU ARE STRONGLY ADVISED TO SEEK PROFESSIONAL ADVICE BEFORE ACTING ON SUCH INFORMATION.
+
+TO THE FULLEST EXTENT PERMISSIBLE BY APPLICABLE LAW, WE DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION TO THE IMPLIED WARRANTIES THAT THE CONTENT PUBLISHED TO THE SITES (OR THE SITES THEMSELVES, FOR THAT MATTER) IS FIT FOR ANY PURPOSE OTHER THAN AS A REFERENCE WORK IN RESPECT OF THE CONTENT PROVIDED ON THE SITES.
+
+WHILST WE TAKE REASONABLE PRECAUTIONS IN OUR OPERATION OF THE SITES, YOU AGREE THAT NEITHER WE OR YUM’S ASSOCIATES SHALL BE LIABLE IN RESPECT OF ANY LOSS, DAMAGE OR DAMAGES HOWEVER ARISING AND WHATEVER THE CAUSE, IN PARTICULAR PURSUANT TO AND IN FURTHERANCE OF THIS AGREEMENT, YOUR ACCESS TO THE SITES OR FROM YOUR INABILITY TO ACCESS THE SITES.
+
+WE WILL USE REASONABLE ENDEAVOURS TO MAKE THE SITES AVAILABLE TO YOU, AND KEEP THE SITES AVAILABLE TO YOU AT ALL TIMES. HOWEVER, YOU AGREE THAT WE SHALL NOT BE LIABLE IN RESPECT OF ANY LOSS OR DAMAGE CAUSED BY OR ARISING FROM THE UNAVAILABILITY OF, ANY INTERRUPTION IN OR YOUR ACCESS TO THE SITES (EITHER IN PART OR AS A WHOLE) FOR ANY REASON WHATEVER.
+
+**INDEMNITY**
+
+YOU HEREBY INDEMNIFY US AND YUM’S ASSOCIATES FROM ANY LOSS, DAMAGE, DAMAGES, LIABILITY, CLAIM OR DEMAND DUE TO OR ARISING OUT OF YOUR USE OF THE SITES OR BREACH BY YOU OF THESE TERMS AND CONDITIONS.
+
+WE ARE NOT RESPONSIBLE FOR FILES AND DATA RESIDING ON YOUR ACCOUNT OR FOR ANY CONTRIBUTIONS YOU MAY HAVE MADE TO THE SITES. YOU AGREE TO TAKE FULL RESPONSIBILITY FOR FILES AND DATA TRANSFERRED AND YOUR CONTENT AS WELL AS TO MAINTAIN ALL APPROPRIATE BACKUP OF FILES AND DATA STORED ON OUR SERVERS.
+
+**Rights infringement**
+
+If You are of the view that your rights have been infringed through the unlawful use of the Sites by registrants or third parties, You may address a complaint to Us which satisfies the following requirements and/or contains the following information:
+
+  * the full names and address of the complainant;
+  * the written or electronic signature of the complainant;
+  * identification of the right that has allegedly been infringed;
+  * identification of the material or activity that is claimed to be the subject of unlawful activity;
+  * the remedial action required to be taken by the service provider in respect of the complaint;
+  * telephonic and electronic contact details, if any, of the complainant;
+  * a statement that the complainant is acting in good faith;
+  * a statement by the complainant that the information in the take–down notification is to his or her knowledge true and correct.
+
+
+
+Please either contact Us on the Sites or address your communications to:
+
+  * Channel Manager and/or Content Manager
+  * Lizanne Bartlett: [010 001 7134](tel:010%C2%A0001%207134)
+  * Email: [kfccustomercare@dsg.co.za](mailto:kfccustomercare@dsg.co.za)
+
+
+
+We will investigate the complaint on receipt of a complete and properly formulated complaint notice and will take appropriate action where necessary. Such action may include, but is not limited to, removing the offending Content from the Sites and/or suspension or termination of the offending registrant or third Party.
+
+**DEALINGS WITH 3RD PARTIES**
+
+LINKS TO AND FROM THE SITES FROM AND TO OTHER WEBSITES BELONGING TO OR OPERATED BY 3RD PARTIES ("LINKED WEBSITES") DO NOT CONSTITUTE OUR ENDORSEMENT OF SUCH LINKED WEBSITES OR THEIR CONTENTS NOR DO WE NECESSARILY ASSOCIATE OURSELVES WITH THEIR OWNERS OR OPERATORS. YOU ARE SOLELY RESPONSIBLE FOR IDENTIFYING AND FAMILIARISING YOURSELF WITH ANY TERMS AND CONDITIONS WHICH WILL GOVERN YOUR RELATIONSHIP WITH SUCH THIRD PARTY.
+
+WE HAVE NO CONTROL OVER LINKED WEBSITES AND YOU AGREE THAT WE ARE NOT RESPONSIBLE OR LIABLE FOR ANY CONTENT, INFORMATION, GOODS OR SERVICES AVAILABLE ON OR THROUGH ANY SUCH LINKED WEBSITES OR FOR ANY DAMAGE, DAMAGES OR ANY OTHER LOSS CAUSED OR ALLEGED TO BE CAUSED BY OR IN CONNECTION WITH YOUR USE OF OR RELIANCE ON ANY SUCH CONTENT, INFORMATION, GOODS OR SERVICES AVAILABLE ON OR THROUGH ANY SUCH LINKED WEBSITES. YOU AGREE THAT WHERE YOU ACCESS LINKED WEBSITES, YOU DO SO ENTIRELY AT YOUR OWN RISK.
+
+YOUR INTERACTION, CORRESPONDENCE OR BUSINESS DEALINGS WITH 3RD PARTIES WHICH ARE REFERRED TO OR LINKED FROM OR TO THE SITES IS SIMILARLY ENTIRELY AT YOUR OWN RISK AND ARE SOLELY BETWEEN YOU AND SUCH 3RD PARTY INCLUDING THE ACQUISITION, DISPOSAL, PAYMENT AND DELIVERY OF ANY GOODS OR SERVICES, AND ANY TERMS, CONDITIONS, WARRANTIES OR REPRESENTATIONS ASSOCIATED WITH SUCH INTERACTION, CORRESPONDENCE OR BUSINESS DEALINGS.
+
+**Arbitration**
+
+If any dispute arises between Us regarding any provision of these Terms and Conditions, or its application or termination, then We agree that We will attempt to resolve our dispute informally by means of joint co–operation or discussion between the parties directly involved in the dispute within 5 days after that dispute arises or such extended time period as We may agree to with You.
+
+In the event that We are unable to informally resolve our dispute, that dispute shall be finally resolved in accordance with the Rules of the Arbitration Foundation of Southern Africa by an arbitrator appointed by the Foundation. Arbitration proceedings shall take place in Johannesburg.
+
+To the maximum extent permissible by applicable law:
+
+  * this clause shall constitute your irrevocable consent to the arbitration proceedings, and You shall not be entitled to withdraw your consent or to claim that You are not bound by this clause. We may, at our discretion, waive this clause and permit our dispute to be resolved using an alternate dispute resolution process;
+  * Any award that may be made by the arbitrator:– 
+    * shall be final and binding;
+    * will be carried into effect; and
+    * may be made an order of any court to whose jurisdiction the parties to the dispute are subject.
+
+
+
+Notwithstanding the aforegoing, nothing in this clause shall be construed as precluding either Party from applying to court for a temporary interdict or other relief of an urgent nature, pending the decision of the award of the arbitrator in terms of this clause.
+
+This clause is severable from the rest of this agreement and shall therefore remain of full force and effect even if this agreement is terminated or cancelled for any reason at any time.
+
+**Governing law and jurisdiction**
+
+The Sites are controlled and maintained from our facilities in the Gauteng province of the Republic of South Africa. You irrevocably agree that the law of the Republic of South Africa shall govern the Sites and these Terms and Conditions.
+
+You consent to the jurisdiction of the South Gauteng High Court, Johannesburg, South Africa in respect of disputes which may arise out of your Access to the Sites and these Terms and Conditions.
+
+To the maximum extent permitted by applicable law, You also irrevocably and unconditionally consent to the jurisdiction of the Magistrates Court (in the event that we exercise proceedings in such Court) even though the value of a claim which We may have against You may exceed the ordinary monetary jurisdiction of the Magistrates Court.
+
+**Legal service of documents and notices**
+
+We choose the addresses below for all communication purposes under these Terms and Conditions, whether in respect of court process, notices or other documents or communications of whatsoever nature.
+
+We may monitor your communications
+
+Subject to the provisions of the RIC Act, You agree to permit Us to intercept, block, filter, read, delete, disclose and use all communications You send or Post to or using the Sites and/or to our staff and/or employees.
+
+You agree and acknowledge that the consent You provide above satisfies the "writing" requirement specified in the ECT Act and in the RIC Act.
+
+**Severability**
+
+Any provision in these Terms and Conditions which is or may become illegal, invalid or unenforceable shall be ineffective to the extent of such prohibition or unenforceability and shall be treated pro non scripto (as if it were not written) and severed from these Terms and Conditions, without invalidating the remaining provisions of these Terms and Conditions.
+
+**Termination**
+
+If You breach any of these Terms and Conditions, We may immediately, automatically and without notice to You, terminate your Access to the Sites, and/or prohibit your future Access to the Sites, and/or take appropriate legal action against You (including without limitation, applying for urgent and/or interim relief or claiming damages), without incurring any liability to You of any nature whatsoever and howsoever arising, and all of our rights in this regard are expressly reserved.
+
+**Disclosures required by the ECT Act**
+
+Access to the Content on or through This Website and This Website itself are classified as "electronic transactions" in terms of the ECT Act and therefore You have the rights detailed in Chapter VII of the ECT Act and We have the duty to the disclose the following information:
+
+Our full name and legal status: Yum Restaurants International (Proprietary) Ltd, Registration Number 1994/003839/07
+
+Street address:  
+Yum Restaurants International (Pty) Ltd  
+Block C  
+Nicol Main Office Park  
+4 Bruton Road  
+Bryanston  
+2021
+
+Postal address: P O Box 71105, Bryanston, 2091, Johannesburg, South Africa
+
+Physical address for receipt of legal service:  
+Yum Restaurants International (Pty) Ltd  
+Block C  
+Nicol Main Office Park  
+4 Bruton Road  
+Bryanston  
+2021
+
+Main business: Quick service restaurants
+
+Website address: www.Yum.co.za
+
+Official email address: kfccustomercare@dsg.co.za
+
+Membership of self–regulatory or accreditation bodies: Consumer Goods Council
+
+**Advertising Standards Authority**
+
+Codes of conduct to which We subscribe: Consumer Goods Council
+
+Advertising Standards Authority
+
+Governing Terms and Conditions: These Terms and Conditions.
+
+Manual in terms of the Promotion of Access to Information Act 2 of 2000: May be requested from official email address.
+
+Management:
+
+Directors: Doug Smart. Gavin Felder and Tanya van Schalkwyk
+
+Costs associated with the Access to and use of This Website: There are no costs associated with Access to This Website
+
+Dispute resolution: Both as provided for in codes of conduct which we subscribe to as well as above
+
+Cooling off period: Not applicable.
+
+Complaints process: See clause above.
+
+**General terms**
+
+You agree that:
+
+  * You are bound by these Terms and Conditions;
+  * this agreement shall be deemed to have been concluded in Johannesburg at the time You Access the Sites for the first time;
+  * data messages addressed by You to Us shall be deemed to have been – 
+    * received if and when responded to;
+    * sent by You within the geographical boundaries of the Republic of South Africa;
+  * You shall be deemed to have been received data messages We address to You as detailed in section 23(b) of the ECT Act;
+  * electronic signatures, encryption and/or authentication are not required for valid electronic communications between You and Us;
+  * as well as warrant that data messages that You send to Us from a computer, IP address or mobile device normally used by You, was sent and/or authorised by You personally.
+
+
+
+These Terms and Conditions constitute the whole agreement between You and Us relating to your Access to and use of the Sites.
+
+No indulgence, extension of time, waiver or relaxation of any of the provisions or terms of these Terms and Conditions which We may show, grant or allow You shall operate as an estoppel against Us in respect of its rights under these Terms and Conditions nor shall it constitute a waiver by Us of any of our rights and We shall not thereby be prejudiced or stopped from exercising any of its rights against You which may have arisen in the past or which might arise in the future.
+
+Nothing in this agreement shall create any relationship of agency, partnership or joint venture between You and YUM and You shall not hold itself out as the agent or partner of YUM or as being in a joint venture with YUM.
