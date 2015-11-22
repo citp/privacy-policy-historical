@@ -1,14 +1,51 @@
-<!--The following is the downloaded HTML source of the unitedhealthgroup.com privacy policy that was archived on 2015-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315020731id_/http%3A//www.unitedhealthgroup.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the unitedhealthgroup.com privacy policy that was archived on 2015-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151122084719id_/http%3A//www.unitedhealthgroup.com/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!--Site Catalyst Standard Global Page Properties-->
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+    window.pageDataLayer = {
+        "pageName": "Privacy",
+        "siteSectionL1": "",
+        "siteSectionL2": "",
+        "siteSectionL3": "",
+        "businessUnit": "uhg",
+        "website": "uhg"
+    }
+    
+</script>
+<!--End Site Catalyst Standard Global Page Properties-->
+
+
+
+<!--Site Catalyst-->
+<script>
+// Create a window object for post-load communication.
+window.publishPostPageData = function (name, obj) {
+    try {
+        obj = JSON.stringify(obj, false, 4);
+        console.log(name, obj);
+    } 
+    catch (e) { }
+};
+
+function PostPDFClick(pdfname) {
+    publishPostPageData("pdfView", { "pdfName": pdfname });
+}
+function PostNewsroomTopic(newstopicname) {
+    publishPostPageData("NewsroomSearchTopicClick", { "NewsroomSearchTopic": newstopicname });
+}
+</script>
+<script type="text/javascript" src="//nexus.ensighten.com/unitedhealthcare/sitecore-prod/Bootstrap.js"></script>
+
 <meta http-equiv="Content-type" content="text/html; charset=utf-8">
 <title>UnitedHealth Group - Privacy Policy</title>
 <meta name="keywords" content="Privacy Policy, privacy, UnitedHealth Group privacy policy"> 
 <meta name="description" content="We recognize that the privacy of your personal information is important."> 
 
 
-<meta http-equiv="Content-Language" content="en-us">
+
+<meta http-equiv="Content-Language" content="en-US">
 <meta http-equiv="imagetoolbar" content="no">
 <meta name="MSSmartTagsPreventParsing" content="true">
 <meta name="author" content="UnitedHealth Group">
@@ -23,8 +60,7 @@
 <!--Meta Keywords Topics Tag -->
 
 
-
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-54FR4C"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -38,12 +74,19 @@
 <link rel="stylesheet" type="text/css" href="/UHG/styles/UHGMaster.css">
 <link rel="stylesheet" type="text/css" href="/UHG/styles/leaveNotice.css">
 <script type="text/javascript" src="/UHG/timeline/js/jquery/jquery-1.7.1.min.js"></script>
-
-<script src="/UHG/scripts/autoFillText.js" type="text/javascript"></script>
-<script type="text/javascript" src="/UHG/scripts/carousel.js"></script>
+<script async="" src="/UHG/scripts/autoFillText.js" type="text/javascript"></script>
+<script async="" type="text/javascript" src="/UHG/scripts/carousel.js"></script>
 <link href="/UHG/styles/carousel.css" rel="stylesheet" type="text/css">
 <link href="/UHG/video/lightbox.css" rel="stylesheet" type="text/css">
 <style type="text/css">
+/* pseudo */
+::-moz-selection { text-shadow:none; color:#FFF; background-color:#0077C8; }
+::selection { text-shadow:none; color:#FFF; background-color:#0077C8; }
+
+
+/* fix rotator on home */
+#mainRotator .selector .centerimg { background-image:none; opacity:1; }
+
 /* START TO DO ADD this to the /UHG/styles/Print.css, it doesn't work here */
 
 .printarticle .contentright {
@@ -70,6 +113,12 @@ line-height:1.4em;
 }
 
 /* START TO DO ADD this to the master CSS file */
+
+#masterNav { margin-bottom:20px; }
+
+#main_content { padding-top:10px; }
+
+.InteriorPageHeader h3 { font-size:131%; }
 
 /* ------------- for buttons ------------- */
 
@@ -102,7 +151,8 @@ border-radius 8px 8px 8px 8px;
 text-decoration: none;
 }
 
-
+/* for pop up agree button */
+#ln-agreeLink { color:#0077C8; }
 
 /* ------------- for code snippet for users on page ------------- */
 .mainbody pre {
@@ -233,10 +283,27 @@ hr { border-top:0; border-bottom: 2px dotted #e1e1e1; color: #fff; height: 1px; 
 
 
 /* REMOVE these styles upon next launch */
+.NavMenuItem, .NavMenuItemEnglishOnly-es, .NavMenuItemEnglishOnly-br{ font-family:FrutigerLTPro-Bold, Arial, Helvetica, clean, sans-serif; font-weight: normal; }
+a.NavMenuItem:hover, a.NavMenuItemEnglishOnly-es:hover, a.NavMenuItemEnglishOnly-br:hover { font-family:FrutigerLTPro-Bold, Arial, Helvetica, clean, sans-serif; font-weight: inherit; }
+.NavMenuItemCurrent, .NavMenuItemCurrentEnglishOnly-es, .NavMenuItemCurrentEnglishOnly-br { font-family:FrutigerLTPro-Bold, Arial, Helvetica, clean, sans-serif; font-weight: inherit; }
 
-.tag-box-v6 { border: 1px solid #eee }
+.tag-box-v6 { border: 1px solid #eee; border-radius:6px; }
 
 .margin-bottom-30 { margin-bottom:30px; }
+
+blockquote.hero {
+border-width:medium medium medium 2px;
+border-style:none none none solid;
+border-color:-moz-use-text-color -moz-use-text-color -moz-use-text-color rgb(102, 102, 102);
+-moz-border-top-colors:none;
+-moz-border-right-colors:none;
+-moz-border-bottom-colors:none;
+-moz-border-left-colors:none;
+border-image:none;
+padding:18px;
+font-size16px;
+background: none repeat scroll 0% 0% rgb(243, 243, 243);
+}
 
 /*tag box*/
 .tag-box { padding:20px; margin-bottom:30px; }
@@ -278,7 +345,7 @@ border-left: 2px solid rgb(120, 190, 32); }
 /* bigger than half column */
 .col-sm-7, .col-md-7 { width: 56%; float:left; position: relative; min-height: 1px; padding-left: 15px; padding-right: 15px; }
 
-.col-sm-5, .col-md-5 { width: 36%; float:left; position: relative; min-height: 1px; padding-left: 15px; padding-right: 15px; }
+.col-sm-5, .col-md-5 { width: 34%; float:left; position: relative; min-height: 1px; padding-left: 15px; padding-right: 15px; }
 
 
 /* info-blocks */
@@ -331,13 +398,19 @@ padding-right:4px;
 .btn-u.btn-u-blue { background:none repeat scroll 0% 0% #0077C8; }
 .btn-u.btn-u-blue:hover, .btn-u.btn-u-blue:focus, .btn-u.btn-u-blue:active, .btn-u.btn-u-blue.active { background:none repeat scroll 0% 0% rgb(41, 128, 185); }
 
+.btn-u.btn-u-dark-blue { background:none repeat scroll 0% 0% #003c71; }
+.btn-u.btn-u-dark-blue:hover, .btn-u.btn-u-dark-blue:focus, .btn-u.btn-u-dark-blue:active, .btn-u.btn-u-dark-blue.active { background:none repeat scroll 0% 0% #324C80; }
+
 .btn-u.btn-u-green { background:none repeat scroll 0% 0% #78BE20; }
 .btn-u.btn-u-green:hover, .btn-u.btn-u-green:focus, .btn-u.btn-u-green:active, .btn-u.btn-u-green.active { background:none repeat scroll 0% 0% rgb(95, 182, 17); }
 
 .btn-u.btn-u-dark { background:none repeat scroll 0% 0% #5B6770; }
 .btn-u.btn-u-dark:hover, .btn-u.btn-u-dark:focus, .btn-u.btn-u-dark:active, .btn-u.btn-u-green.dark { background:none repeat scroll 0% 0% rgb(51, 51, 51); }
 
+.btn-u.btn-u-orange { background:none repeat scroll 0% 0% rgb(207, 69, 32); }
+.btn-u.btn-u-orange:hover, .btn-u.btn-u-orange:focus, .btn-u.btn-u-orange:active, .btn-u.btn-u-orange.active { background:none repeat scroll 0% 0% #D35400; }
 
+h2 { line-height:1.5em }
 
 /* END REMOVE these styles upon next launch */
 
@@ -354,6 +427,16 @@ padding-right:4px;
 
 .headerbold {
   font:normal 4em/1.2em FrutigerLTPro-Bold,'Open Sans','Trebuchet MS','Helvetica Neue',Helvetica,Arial,clean,sans-serif
+}
+
+/* Big Story Box */
+.bigstory {
+width:340px;
+border:thin solid #dedede;
+padding:15px;
+background:#fff;
+word-wrap:break-word;
+font-size:93%;
 }
 
 /* Topics Next Page Panels */
@@ -402,6 +485,8 @@ height: 1.7em;
 background: transparent url('http://www.unitedhealthgroup.com/UHG/Images/PageHeader_Underline.gif') repeat-x bottom;
 }
 
+.caption { line-height:1.5em; }
+
 /* CSS for some input fields like search */
 .input-container {
     background: url(/UHG/images/bg-search.gif) no-repeat;
@@ -421,22 +506,73 @@ background: transparent url('http://www.unitedhealthgroup.com/UHG/Images/PageHea
     font-size: 75%; 
 }
 
+.input-container input::-ms-clear {
+ display:none;
+}
+
 /* horizontal rules */
 
-hr { border-top:0; border-bottom: 2px dotted #e1e6e8; color: #fff; height: 2px; border-right: none; border-left:none; width:100%; }
+hr { border-top:0; border-bottom: 2px dotted #e1e6e8; color: #fff; height: 2px; border-right: none; border-left:none; width:auto; }
 hr.darkrule { border-top: medium none; border-left: medium none; border-bottom: #5b6770 2px dotted; border-right: medium none; }
 hr.lightrule { border-top: medium none; border-left: medium none; border-bottom: #f1f6f8 2px dotted; border-right: medium none; }
+
+ul.list-icons li {
+padding:0 0 1em 0;
+list-style: none;
+clear:both;
+} 
+/* put this class on an icon img tag */
+.iconlink {
+float:left;
+margin:0.1em 0.5em 0 0;
+}
 
 /* mdash ndash */
 .mdash, .ndash {
 font-family: calibri, Arial, 'Helvetica Neue', Helvetica, clean, sans-serif
 }
 
+/* reinforce link colors */
+
+/* hover link color light green */
+#masterContent a:active, #masterContent a:hover { color:#44883e }
+#main_content .mainbody a:active, #main_content .mainbody a:hover { color:#44883e }
+#left_sidenav .sidenav_box_gray a:active, #left_sidenav .sidenav_box_gray a:hover { color:#44883e }
+#left_sidenav .wrap a:active, #left_sidenav .wrap a:hover { color:#44883e }
+
+/* active page link color light green */
+#left_sidenav .sidenav_box_gray .sidenav_box_selected2 a:link, #left_sidenav .sidenav_box_gray .sidenav_box_selected2 a:visited, #left_sidenav .sidenav_box_gray .sidenav_box_selected2 a:active, #left_sidenav .sidenav_box_gray .sidenav_box_selected2 a:hover { color:#44883e; }
+ 
+/* button hover link color white */
+#main_content .mainbody a.expandbutton:active, #main_content .mainbody a.expandbutton:hover { color:#e1e6e8; }
+#main_content .mainbody a.expandbutton, #main_content .mainbody a.expandbutton:link, #main_content .mainbody a.expandbutton:visited { color:#fff; }
+#main_content .mainbody .btn-u a:hover, #main_content .mainbody .btn-u a:active { color:#e1e6e8; }
+#main_content .mainbody .btn-u a, #main_content .mainbody .btn-u a:link, #main_content .mainbody .btn-u a:visited { color:#fff; }
+
+#left_sidenav .wrap .sidenav_box_gray a#SearchSubmit.button-box:hover { color:#fff; }
+
+
+.FooterPhrase {
+color:#ffffff;
+letter-spacing:0;
+display: inline-block;
+text-decoration:none;
+vertical-align:middle;
+text-align:left;
+line-height:2em;
+font-family: FrutigerLTPro-Roman, Arial, Helvetica, clean, sans-serif;
+font-weight:normal;
+font-size: 100%;
+padding-left:0;
+padding-right:6px;
+padding-top:6px;
+padding-bottom:6px;
+}
 </style>
-<script type="text/javascript" src="/UHG/scripts/checkleave.js"></script>
-<script type="text/javascript" src="/UHG/scripts/checkleave-es.js"></script>
-<script type="text/javascript" src="/UHG/scripts/checkleave-br.js"></script>
-<script type="text/javascript" src="/UHG/scripts/fls.js"></script>
+<script async="" type="text/javascript" src="/UHG/scripts/checkleave.js"></script>
+<script async="" type="text/javascript" src="/UHG/scripts/checkleave-es.js"></script>
+<script async="" type="text/javascript" src="/UHG/scripts/checkleave-br.js"></script>
+<script async="" type="text/javascript" src="/UHG/scripts/fls.js"></script>
 <script type="text/javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=3_Fwl9sw6wlNWuHvDwcqz0UKooUBnJFTrVh1kxaLqqxJ8da2Dyw8aV35sCeH4Cp-q-">
 {
 lang: "en"  
@@ -444,33 +580,46 @@ lang: "en"
 </script>
 
 <script type="text/javascript">
+
+    function getUrlVars() {
+        var vars = [], hash;
+        var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+        for (var i = 0; i < hashes.length; i++) {
+            hash = hashes[i].split('=');
+            vars.push(hash[0]);
+            vars[hash[0]] = hash[1];
+        }
+        return vars;
+    }
+
+    function LanguageChanged(langname) {
+        var str = langname;
+        var res = str.replace("<b>", "");
+        langname = res.replace("</b>", "");
+        publishPostPageData("content", { "language": langname });
+    }
+
+    function resizeText(id, multiplier) {
+        if (document.body.style.fontSize == "") {
+            document.body.style.fontSize = "13px";
+        }
+
+        publishPostPageData("TextSizeChange", { "TextSize": multiplier });
+
+        document.body.style.fontSize = multiplier + "px";
+        SetUnderline(id);
+        //set cookie - never expired and for all sub domains
+        document.cookie = "FontSize=" + multiplier + ";path=/;expires=Fri, 31 Dec 9999 20:47:11 GMT;domain=.unitedhealthgroup.com";
+    }
+
+    function TrackLeftNav(trackId) {
+        publishPostPageData('LeftNavigation', { "LeftNavigationTopic": trackId });
+    }
+
     function printWindow() {
         var url = document.URL.replace('aspx', 'aspx?p=1&')
         window.open(url);
     }
-
-
-//    function toggleFB() {
-//        jQuery.noConflict();
-//        jQuery("#GoogleForm").hide();
-//        jQuery("#emailPanel").hide();
-//        jQuery("#fbForm").slideToggle(100);
-
-//    }
-
-//    function toggleGoogle() {
-//        jQuery.noConflict();
-//        jQuery("#fbForm").hide();
-//        jQuery("#emailPanel").hide();
-//        jQuery("#GoogleForm").slideToggle(100);
-//    }
-
-//    function toggleEmail() {
-//        jQuery.noConflict();
-//        jQuery("#fbForm").hide();
-//        jQuery("#GoogleForm").hide();
-//        jQuery("#emailPanel").slideToggle(100);
-//    }
 
     //Contact Us Page Toggle
     function showHideDetailContact(id) {
@@ -496,16 +645,30 @@ lang: "en"
 
 
 
-    jQuery.noConflict();
 
+    jQuery.noConflict();
     jQuery(document).ready(function () {
 
-        //language panel
-//        jQuery(".btn-slide").click(function () {
-//            jQuery("#panel").slideToggle("fast");
-//            jQuery(this).toggleClass("active");
-//            return false;
-        //        });
+        publishPostPageData("content", { "language": "en-US" });
+
+        jQuery('body').on('click', 'a', function (e) {
+            var URL = this.pathname.toString();
+            var Clean = URL.replace(/%20/g, " ");
+            var start = Clean.lastIndexOf("/");
+            var end = Clean.lastIndexOf(".");
+
+            var res = Clean.substring(start + 1, end);
+
+            //alert(res);
+
+            if (URL.indexOf("/PDF/") !== -1) {
+                publishPostPageData("pdfView", { "pdfName": res });
+            }
+            else if (URL.indexOf(".pdf") !== -1) {
+                publishPostPageData("pdfView", { "pdfName": res });
+            }
+
+        });
 
         var paneldown = false;
         jQuery(".btn-slide").click(function () {
@@ -524,32 +687,10 @@ lang: "en"
 
         //Retract Social Media and Toggles
         jQuery(document).mouseup(function (e) {
-//            var EMLcontainer = jQuery("#emailPanel");
-//            var FBcontainer = jQuery("#fbForm");
-//            var Gcontainer = jQuery("#GoogleForm");
             var Langcontainer = jQuery("#panel");
 
-//            if (!EMLcontainer.is(e.target) // if the target not the container and
-//            && EMLcontainer.has(e.target).length === 0) // a descendent in container
-//            {
-//                //EMLcontainer.hide();
-//            }
-
-//            if (!FBcontainer.is(e.target) 
-//            && FBcontainer.has(e.target).length === 0) 
-//            {
-//                FBcontainer.hide();
-//            }
-
-//            if (!Gcontainer.is(e.target) 
-//            && Gcontainer.has(e.target).length === 0) 
-//            {
-//                Gcontainer.hide();
-//            }
-
-            if (!Langcontainer.is(e.target) 
-            && Langcontainer.has(e.target).length === 0) 
-            {
+            if (!Langcontainer.is(e.target)
+            && Langcontainer.has(e.target).length === 0) {
                 jQuery("#panel").slideUp("fast");
             }
 
@@ -587,12 +728,6 @@ lang: "en"
         function () { this.src = this.src.replace("_off", "_on"); },
         function () { this.src = this.src.replace("_on", "_off"); }
         );
-
-
-
-        //Get/Set Page Title for Email
-//        var pageTitle = jQuery(this).attr('title');
-//        jQuery('#emailPageTitle').html(pageTitle);
 
         //Slide toggle left Navigation
         jQuery("#button1").click(function () {
@@ -703,7 +838,7 @@ lang: "en"
         jQuery('.bringthefader').click(function () {
             jQuery('#Overlay').fadeIn(700);
         });
-        
+
         jQuery('#CloseVideo').click(function () {
             jQuery('#VideoBox').html("&nbsp;");
             jQuery('#Overlay').hide();
@@ -711,15 +846,15 @@ lang: "en"
 
         jQuery("#Overlay").css("height", jQuery(document).height());
 
-    });
 
-    function toggleCookie() {
+
+        function toggleCookie() {
 
             if (jQuery(this).is(':checked')) {
                 jQuery(this).attr('checked', false);
                 jQuery("a.LanguageLinks").each(function () {
                     var href = jQuery(this).attr('href');
-                    href = href.replace("&ac=yes", ""); 
+                    href = href.replace("&ac=yes", "");
                     jQuery(this).attr("href", href);
                 });
             } else {
@@ -733,14 +868,13 @@ lang: "en"
 
         }
 
-
+    });
 
 </script> 
  
 <script type="text/javascript">
-
+// Sitecore JavaScript 
 jQuery(document).ready(function () {
-
 
 
 jQuery("#button9").click(function () {
@@ -757,7 +891,6 @@ jQuery("#button11").click(function () {
 var clicked = jQuery(this).next();
 jQuery(clicked).slideToggle(300);
 });
-
 
 //set font size based on the value saved in cookies
 if ( size= GetCookie('FontSize') ) {
@@ -821,7 +954,7 @@ if ( size= GetCookie('FontSize') ) {
 
         jQuery('a.fls').flsNotice({
             siteName: "Presentations",
-            exitMessage: "<p><strong>Forward-Looking Statements</strong></p><div style=\"height:150px; overflow-y:scroll; padding:12px; text-align:left; \"><p class=\"xx-small\">The statements, estimates, projections, guidance or outlook  contained in this document include &ldquo;forward-looking&rdquo; statements within the  meaning of the Private Securities Litigation Reform Act of 1995 (PSLRA). These statements  are intended to take advantage of the &ldquo;safe harbor&rdquo; provisions of the PSLRA.  Generally the words &ldquo;believe,&rdquo; &ldquo;expect,&rdquo; &ldquo;intend,&rdquo; &ldquo;estimate,&rdquo; &ldquo;anticipate,&rdquo;  &ldquo;forecast,&rdquo; &ldquo;plan,&rdquo; &ldquo;project,&rdquo; &ldquo;should&rdquo; and similar expressions identify  forward-looking statements, which generally are not historical in nature. These  statements may contain information about financial prospects, economic  conditions and trends and involve risks and uncertainties. We caution that  actual results could differ materially from those that management expects,  depending on the outcome of certain factors.<br /><br />Some factors that could cause actual results to differ  materially from results discussed or implied in the forward-looking statements  include: our ability to effectively estimate, price for and manage our medical  costs, including the impact of any new coverage requirements; new laws or  regulations, or changes in existing laws or regulations, or their enforcement  or application, including increases in medical, administrative, technology or  other costs or decreases in enrollment resulting from U.S., Brazilian and other  jurisdictions regulations affecting the health care industry; assessments for  insolvent payers under state guaranty fund laws; our ability to achieve  improvement in CMS star ratings and other quality scores that impact revenue;  reductions in revenue or delays to cash flows received under Medicare, Medicaid  and TRICARE programs, including sequestration and the effects of a prolonged  U.S. government shutdown or debt ceiling constraints; changes in Medicare,  including changes in risk adjustment data validation audits, payment adjustment  methodology or the CMS star ratings program; our participation in federal and  state health insurance exchanges which entail uncertainties associated with mix  and volume of business; failure to comply with privacy and data security  regulations; regulatory and other risks and uncertainties of the pharmacy  benefits management industry; competitive pressures, which could affect our  ability to maintain or increase our market share; challenges to our public  sector contract awards; our ability to execute contracts on competitive terms  with physicians, hospitals and other service providers; increases in costs and  other liabilities associated with increased litigation, government  investigations, audits or reviews; failure to manage successfully our strategic  alliances or complete or receive anticipated benefits of acquisitions and other  strategic transactions; fluctuations in foreign currency exchange rates on our  reported shareholders equity and results of operations; downgrades in our  credit ratings; adverse economic conditions, including decreases in enrollment  resulting from increases in the unemployment rate and commercial attrition; the  performance of our investment portfolio; impairment of the value of our  goodwill and intangible assets in connection with dispositions or if estimated  future results do not adequately support goodwill and intangible assets  recorded for our existing businesses or the businesses that we acquire;  increases in health care costs resulting from large-scale medical emergencies;  failure to maintain effective and efficient information systems or if our  technology products do not operate as intended; cyber-attacks or other privacy or  data security incidents; our ability to obtain sufficient funds from our  regulated subsidiaries or the debt or capital markets to fund our obligations,  to maintain our debt to total capital ratio at targeted levels, to maintain our  quarterly dividend payment cycle or to continue repurchasing shares of our  common stock; and failure to achieve targeted operating cost productivity  improvements, including savings resulting from technology enhancement and  administrative modernization.<br /><br />This list of important factors is not intended to be  exhaustive. We discuss certain of these matters more fully, as well as certain  risk factors that may affect our business operations, financial condition and  results of operations, in our filings with the Securities and Exchange Commission,  including our annual reports on Form 10-K, quarterly reports on Form 10-Q and  current reports on Form 8-K. Any or all forward-looking statements we make may  turn out to be wrong, and can be affected by inaccurate assumptions we might  make or by known or unknown risks and uncertainties. By their nature,  forward-looking statements are not guarantees of future performance or results  and are subject to risks, uncertainties and assumptions that are difficult to  predict or quantify. Actual future results may vary materially from  expectations expressed or implied in this document or any of our prior  communications. You should not place undue reliance on forward-looking  statements, which speak only as of the date they are made. We do not undertake  to update or revise any forward-looking statements, except as required by  applicable securities laws.<br /></p></div><br />",
+            exitMessage: "<p><strong>Forward-Looking Statements</strong></p><div style=\"height:150px; overflow-y:scroll; padding:12px; text-align:left; \"><p class=\"xx-small\">The statements, estimates, projections, guidance or outlook contained in this document include &ldquo;forward-looking&rdquo; statements within the  meaning of the Private Securities Litigation Reform Act of 1995 (PSLRA). These statements  are intended to take advantage of the &ldquo;safe harbor&rdquo; provisions of the PSLRA.  Generally the words &ldquo;believe,&rdquo; &ldquo;expect,&rdquo; &ldquo;intend,&rdquo; &ldquo;estimate,&rdquo; &ldquo;anticipate,&rdquo; &ldquo;forecast,&rdquo; &ldquo;plan,&rdquo; &ldquo;project,&rdquo; &ldquo;should&rdquo; and similar expressions identify forward-looking statements, which generally are not historical in nature. These statements may contain information about financial prospects, economic  conditions and trends and involve risks and uncertainties. We caution that  actual results could differ materially from those that management expects, depending on the outcome of certain factors.<br /><br />Some factors that could cause actual results to differ  materially from results discussed or implied in the forward-looking statements  include: our ability to effectively estimate, price for and manage our medical costs, including the impact of any new coverage requirements; new laws or  regulations, or changes in existing laws or regulations, or their enforcement  or application, including increases in medical, administrative, technology or  other costs or decreases in enrollment resulting from U.S., Brazilian and other jurisdictions regulations affecting the health care industry; assessments for insolvent payers under state guaranty fund laws; our ability to achieve  improvement in CMS star ratings and other quality scores that impact revenue;  reductions in revenue or delays to cash flows received under Medicare, Medicaid  and TRICARE programs, including sequestration and the effects of a prolonged U.S. government shutdown or debt ceiling constraints; changes in Medicare, including changes in payment methodology, the CMS star ratings program or the application of risk adjustment data validation audits; our participation in federal and  state health insurance exchanges which entail uncertainties associated with mix  and volume of business; cyber-attacks or other privacy or data security incidents; failure to comply with privacy and data security regulations; regulatory and other risks and uncertainties of the pharmacy benefits management industry; competitive pressures, which could affect our ability to  maintain or increase our market share; challenges to our public sector contract awards; our ability to execute contracts on competitive terms with physicians, hospitals and other service providers; failure to achieve targeted operating cost productivity improvements, including savings resulting from technology enhancement and administrative modernization; increases in costs and other  liabilities associated with increased litigation, government investigations, audits or reviews; failure to manage successfully our strategic alliances or complete or receive anticipated benefits of acquisitions and other strategic transactions, including our acquisition of Catamaran; fluctuations in  foreign currency exchange rates on our reported shareholders equity and results of operations; downgrades in our credit ratings; adverse economic conditions, including decreases in enrollment resulting from increases in the unemployment rate and commercial attrition; the performance of our investment portfolio; impairment of the value of our goodwill and intangible assets in connection  with dispositions or if estimated future results do not adequately support goodwill and intangible assets recorded for our existing businesses or the  businesses that we acquire; increases in health care costs resulting from  large-scale medical emergencies; failure to maintain effective and efficient information systems or if our technology products do not operate as intended; and our ability to obtain sufficient funds from our regulated subsidiaries or  the debt or capital markets to fund our obligations, to maintain our debt to  total capital ratio at targeted levels, to maintain our quarterly dividend  payment cycle or to continue repurchasing shares of our common stock.<br /><br />This list of important factors is not intended  to be exhaustive. We discuss certain of these matters more fully, as well as certain risk factors that may affect our business operations, financial  condition and results of operations, in our filings with the Securities and  Exchange Commission, including our annual reports on Form 10-K, quarterly  reports on Form 10-Q and current reports on Form 8-K. Any or all  forward-looking statements we make may turn out to be wrong, and can be affected  by inaccurate assumptions we might make or by known or unknown risks and uncertainties. By their nature, forward-looking statements are not guarantees of future performance or results and are subject to risks, uncertainties and  assumptions that are difficult to predict or quantify. Actual future results  may vary materially from expectations expressed or implied in this document or any of our prior communications. You should not place undue reliance on  forward-looking statements, which speak only as of the date they are made. We  do not undertake to update or revise any forward-looking statements, except as required by applicable securities laws.<br /></p></div><br />",
             preLinkMessage: "<div class='setoff'><p>Click 'Agree' to proceed to {SITENAME}<br/></p></div>",
             linkString: "target='_blank'",
             timeOut: 0
@@ -840,7 +973,7 @@ if ( size= GetCookie('FontSize') ) {
 
         jQuery('a.fls2').flsNotice({
             siteName: "Presentations",
-            exitMessage: "<p>Statements that UnitedHealth Group publishes, including  those on this website, may contain statements, estimates, projections, guidance  or outlook that constitute &ldquo;forward-looking&rdquo; within the meaning of the Private  Securities Litigation Reform Act of 1995 (PSLRA). These statements are intended  to take advantage of the &ldquo;safe harbor&rdquo; provisions of the PSLRA. Generally the  words &ldquo;believe,&rdquo; &ldquo;expect,&rdquo; &ldquo;intend,&rdquo; &ldquo;estimate,&rdquo; &ldquo;anticipate,&rdquo; &ldquo;forecast,&rdquo;  &ldquo;plan,&rdquo; &ldquo;project,&rdquo; &ldquo;should&rdquo; and similar expressions identify forward-looking  statements, which generally are not historical in nature. These statements may  contain information about financial prospects, economic conditions and trends  and involve risks and uncertainties. We caution that actual results could  differ materially from those that management expects, depending on the outcome  of certain factors.<br /><br />A list and description of some of these risks and  uncertainties can be found in our reports filed with the Securities and  Exchange Commission from time to time, including the cautionary statements in our  annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports  on Form 8-K. Any or all forward-looking statements we make may turn out to be  wrong, and can be affected by inaccurate assumptions we might make or by known  or unknown risks and uncertainties. By their nature, forward-looking statements  are not guarantees of future performance or results and are subject to risks,  uncertainties and assumptions that are difficult to predict or quantify. Actual  future results may vary materially from expectations expressed or implied in  this document or any of our prior communications. You should not place undue  reliance on forward-looking statements, which speak only as of the date they  are made. We do not undertake to update or revise any forward-looking  statements, except as required by applicable securities laws.</p>",
+            exitMessage: "<p class=\"xx-small\">Statements that UnitedHealth Group publishes, including  those on this website, may contain statements, estimates, projections, guidance  or outlook that constitute &ldquo;forward-looking&rdquo; within the meaning of the Private  Securities Litigation Reform Act of 1995 (PSLRA). These statements are intended  to take advantage of the &ldquo;safe harbor&rdquo; provisions of the PSLRA. Generally the  words &ldquo;believe,&rdquo; &ldquo;expect,&rdquo; &ldquo;intend,&rdquo; &ldquo;estimate,&rdquo; &ldquo;anticipate,&rdquo; &ldquo;forecast,&rdquo;  &ldquo;plan,&rdquo; &ldquo;project,&rdquo; &ldquo;should&rdquo; and similar expressions identify forward-looking  statements, which generally are not historical in nature. These statements may  contain information about financial prospects, economic conditions and trends  and involve risks and uncertainties. We caution that actual results could  differ materially from those that management expects, depending on the outcome  of certain factors.<br /><br />A list and description of some of these risks  and uncertainties can be found in our reports filed with the Securities and  Exchange Commission from time to time, including the cautionary statements in our  annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports  on Form 8-K. Any or all forward-looking statements we make may turn out to be  wrong, and can be affected by inaccurate assumptions we might make or by known  or unknown risks and uncertainties. By their nature, forward-looking statements  are not guarantees of future performance or results and are subject to risks,  uncertainties and assumptions that are difficult to predict or quantify. Actual  future results may vary materially from expectations expressed or implied in  this document or any of our prior communications. You should not place undue  reliance on forward-looking statements, which speak only as of the date they  are made. We do not undertake to update or revise any forward-looking  statements, except as required by applicable securities laws.</p>",
             preLinkMessage: "<div class='setoff'><p>Click 'Agree' to proceed to {SITENAME}<br/></p></div>",
             linkString: "target='_blank'",
             timeOut: 0
@@ -889,35 +1022,29 @@ if ( size= GetCookie('FontSize') ) {
         jQuery('#VideoBox').html('<iframe width="501" height="286" src="../../../Video/NewsVideo.aspx" frameborder="0" align="middle" allowfullscreen scrolling="no"></iframe>');
     });
 
+    jQuery('#TermsBox').click(function () {
+        jQuery('#VideoBox').html('<iframe width="630" height="480" src="http://www.unitedhealthgroup.com/PurchaseOrder/Default.aspx?sc_lang=en" frameborder="0" align="middle" allowfullscreen scrolling="auto"></iframe>');
+    });
+
+
 
 //Do not edit or remove:
      jQuery("#Overlay").css("height", jQuery(document).height());
 });
 
 
-function resizeText(id, multiplier) {
-  if (document.body.style.fontSize == "") {
-    document.body.style.fontSize = "13px";
-  }
-  //document.body.style.fontSize = multiplier + "em";
-  document.body.style.fontSize = multiplier + "px";
-  SetUnderline(id);
-  //set cookie - never expired and for all sub domains
-  document.cookie = "FontSize="+ multiplier+";path=/;expires=Fri, 31 Dec 9999 20:47:11 GMT;domain=.unitedhealthgroup.com";
-}
-
 function GetCookie (w){
-	cName = "";
-	pCOOKIES = new Array();
-	pCOOKIES = document.cookie.split('; ');
-	for(bb = 0; bb < pCOOKIES.length; bb++){
-		NmeVal  = new Array();
-		NmeVal  = pCOOKIES[bb].split('=');
-		if(NmeVal[0] == w){
-			cName = unescape(NmeVal[1]);
-		}
-	}
-	return cName;
+ cName = "";
+ pCOOKIES = new Array();
+ pCOOKIES = document.cookie.split('; ');
+ for(bb = 0; bb < pCOOKIES.length; bb++){
+  NmeVal  = new Array();
+  NmeVal  = pCOOKIES[bb].split('=');
+  if(NmeVal[0] == w){
+   cName = unescape(NmeVal[1]);
+  }
+ }
+ return cName;
 }
 
 function SetUnderline(id){
@@ -939,6 +1066,10 @@ function ClearUnderline(id) {
 
 
 </script>
+<!--old head-->
+
+
+<!--Begin Header and Social Media-->
 <style>
 
 #SocialMediaContainer
@@ -993,13 +1124,9 @@ height:17px;
 }
 
 
-</style></head>
+</style>
 
-
-<!--Begin Header and Social Media-->
-
-
-<body><div id="headerContainer">
+</head><body><div id="headerContainer">
 <div id="CountrySelector" align="right"> 
         <div id="panel">
          
@@ -1014,7 +1141,7 @@ height:17px;
          
         </div>
     
-    <p id="ctl01_LanguageSelectControl" class="slide"><a href="#" class="btn-slide"><span class="ToggleText">Language</span></a></p>
+    <p id="ctl00_LanguageSelectControl" class="slide"><a href="#" class="btn-slide"><span class="ToggleText">Language</span></a></p>
 
 </div>
 
@@ -1042,22 +1169,17 @@ height:17px;
 
 
 
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-54FR4C"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-54FR4C');</script>
-<!-- End Google Tag Manager -->
-<form method="post" action="Privacy.aspx" id="mainform">
-<input type="hidden" name="RadScriptManager10_TSM" id="RadScriptManager10_TSM" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE0NTY0ODk3NDUPZBYCAgIPZBYCZg9kFgICGQ8WAh4HVmlzaWJsZWhkZLqpgkz9ucb/KWuCbSOW1bhy8A18">
 
 
-<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=RadScriptManager10_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen%3a33363de7-7c08-435e-ab35-682b2ed2c688%3aea597d4b" type="text/javascript"></script>   
+<form method="post" action="/Privacy.aspx" id="mainform">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjI3NjA2MzY4DxYCHhNWYWxpZGF0ZVJlcXVlc3RNb2RlAgEWAmYPZBYCZg9kFgICDA8WAh4HVmlzaWJsZWhkZEAVe22Y2i681aLMM54p1CiDO9pi">
+</div>
 
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="B2DA0630">
+</div>   
 <!--Begin Main Page Container-->  
 <div id="masterContainer">
 <!--Begin Main Graphic-->  
@@ -1085,7 +1207,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         
      
         <div class="contentright" style="width: 200px;">
-<p style="text-align: right;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/TermsOfUse.aspx"><img width="4" height="7" alt="arrow" src="/~/media/UHG/Images/Buttons/arrow_blue_l.ashx">&nbsp;Terms of Use</a></p>
+<p style="text-align: right;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/TermsOfUse.aspx"><img width="4" height="7" alt="arrow" src="/~/media/UHG/Images/Buttons/arrow_blue_l.ashx?la=en">&nbsp;Terms of Use</a></p>
 </div>
 <h1>Privacy Policy</h1>
 <h3 class="colordarkblue">Website Privacy Policy</h3>
@@ -1173,9 +1295,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <tbody>
         <tr height="28" bgcolor="#003c71">
             <td style="width: 29px;"><img width="29" height="1" style="border: 0px solid;" alt=" " src="/UHG/images/spacer.gif"></td>
-            <td style="text-align: left; color: #fff; vertical-align: middle;"><span class="NavMenuItem">Helping People Live Healthier Lives™</span></td>
+            <td style="text-align: left; color: #fff; vertical-align: middle;"><span class="FooterPhrase">Helping people live healthier lives and helping make the health system work better for&nbsp;everyone</span></td>
             <td style="text-align: right;">
-            <div style="padding-bottom: 4px; padding-left: 4px; padding-right: 4px; padding-top: 4px;"><a href="#" title="Adjust Text Size" id="size9" style="color: #78be20; font-size: 9px;" onclick="resizeText('size9', 9);">A</a> <a href="#" title="Adjust Text Size" id="size11" style="color: #78be20; font-size: 11px;" onclick="resizeText('size11',11)">A</a> <a href="#" title="Adjust Text Size" id="size13" style="color: #78be20; font-size: 13px;" onclick="resizeText('size13',13)">A</a> <a href="#" title="Adjust Text Size" id="size15" style="color: #78be20; font-size: 15px;" onclick="resizeText('size15',15)">A</a> <a href="#" title="Adjust Text Size" id="size17" style="color: #78be20; font-size: 17px;" onclick="resizeText('size17',17)">A</a> <a href="#" title="Adjust Text Size" id="size21" style="color: #78be20; font-size: 21px;" onclick="resizeText('size21',21)">A</a> </div>
+            <div style="padding-bottom: 6px; padding-left: 6px; padding-right: 0; padding-top: 6px;"><a href="#" title="Adjust Text Size" id="size9" style="color: #78be20; font-size: 9px;" onclick="resizeText('size9', 9);">A</a>&nbsp;<a href="#" title="Adjust Text Size" id="size11" style="color: #78be20; font-size: 11px;" onclick="resizeText('size11',11)">A</a>&nbsp;<a href="#" title="Adjust Text Size" id="size13" style="color: #78be20; font-size: 13px;" onclick="resizeText('size13',13)">A</a>&nbsp;<a href="#" title="Adjust Text Size" id="size15" style="color: #78be20; font-size: 15px;" onclick="resizeText('size15',15)">A</a>&nbsp;<a href="#" title="Adjust Text Size" id="size17" style="color: #78be20; font-size: 17px;" onclick="resizeText('size17',17)">A</a>&nbsp;<a href="#" title="Adjust Text Size" id="size21" style="color: #78be20; font-size: 21px;" onclick="resizeText('size21',21)">A</a> </div>
             </td>
             <td style="width: 29px;"><img width="29" height="28" style="border: 0px solid;" alt=" " src="/UHG/images/spacer.gif"></td>
         </tr>
@@ -1204,21 +1326,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <li><a href="/Investors/Default.aspx">Investors</a>&nbsp; </li>
                             <li><a href="/Newsroom/Newsroom.aspx">Newsroom</a>&nbsp; </li>
                             <li><a href="/Modernization/Default.aspx">Health Care Modernization</a>&nbsp; </li>
-                            <li><a href="http://careers.unitedhealthgroup.com/">Careers</a>
-                            <div></div>
-                            </li>
+                            <li><a href="http://careers.unitedhealthgroup.com/">Careers</a> </li>
+                            <li><a href="http://www.unitedhealthfoundation.org/">United Health Foundation</a>&nbsp; </li>
                         </ul>
                         </td>
                         <td style="text-align: left; width: 31%; vertical-align: top;">
                         <ul class="footerlist">
+                            <li><a href="/connectivity">Let's Get to a Better Future, Faster</a>&nbsp;&nbsp;&nbsp; </li>
                             <li><a href="/Programs/Default.aspx">Innovation</a>&nbsp;&nbsp;&nbsp; </li>
-                            <li><a href="/Topics/Default.aspx">Let's Get to a Better Future, Faster</a>&nbsp;&nbsp;&nbsp; </li>
                             <li><a href="/GlobalHealth/Default.aspx">Global Health</a>&nbsp; </li>
                             <li><a href="/Ventures/Default.aspx">Ventures</a>&nbsp; </li>
-                            <li><a href="/Diabetes/Default.aspx">Diabetes Prevention &amp; Control</a>&nbsp; </li>
-                            <li><a href="http://www.unitedhealthfoundation.org/">United Health Foundation</a>&nbsp; </li>
                             <li><a href="/Diversity/Default.aspx">Diversity &amp; Inclusion</a>&nbsp; </li>
+                            <li><a href="/MilitaryAndVeterans/Default.aspx">Military &amp; Veterans</a>&nbsp; </li>
                             <li><a href="/NursingAdvancement/Default.aspx">Nursing Advancement</a>&nbsp; </li>
+                            <li><a href="/Diabetes/Default.aspx">Diabetes Prevention &amp; Control</a>&nbsp; </li>
                         </ul>
                         </td>
                         <td style="text-align: left; width: 17%; vertical-align: top;">
@@ -1234,17 +1355,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <td style="text-align: left; width: 27%; vertical-align: top;">
                         <ul class="footerlist">
                             <li><a href="/Newsroom/SocialMedia.aspx">Connect</a>&nbsp; </li>
-                            <li style="line-height: 1.8em;"><a href="/Newsroom/RSS.aspx"><img style="float: left; margin-right: 3px;" alt="RSS" src="/~/media/UHG/Images/Icons/SmRSSbw18.ashx">&nbsp;RSS Feeds</a>&nbsp;<br style="clear: both;"></li>
+                            <li style="line-height: 1.8em;"><a href="/Newsroom/RSS.aspx"><img style="float: left; margin-right: 3px;" alt="RSS" src="/~/media/UHG/Images/Icons/SmRSSbw18.ashx?la=en">&nbsp;RSS Feeds</a>&nbsp;<br style="clear: both;"></li>
 
-<li style="line-height: 1.8em;"><a href="https://twitter.com/UnitedHealthGrp" target="_blank"><img width="18" height="18" style="float: left; margin-right: 3px;" alt="Twitter" src="/~/media/UHG/Images/Icons/SmTwitterbw18.ashx" originalattribute="src" originalpath="/~/media/UHG/Images/Icons/SmTwitterbw18.ashx">&nbsp;Follow @UnitedHealthGrp</a>&nbsp;<br style="clear: both;">
+<li style="line-height: 1.8em;"><a href="https://twitter.com/UnitedHealthGrp" target="_blank"><img width="18" height="18" style="float: left; margin-right: 3px;" alt="Twitter" src="/~/media/UHG/Images/Icons/SmTwitterbw18.ashx?la=en" originalattribute="src" originalpath="/~/media/UHG/Images/Icons/SmTwitterbw18.ashx">&nbsp;Follow @UnitedHealthGrp</a>&nbsp;<br style="clear: both;">
                             </li>
 
                             <!-- ALTERNATE
-                                                        <li style="line-height: 1.8em;"><a href="http://www.linkedin.com/companies/1720" originalAttribute="href" originalPath="http://www.linkedin.com/companies/1720" target="_blank"><img width="18" height="18" style="float: left; margin-right: 3px;" alt="LinkedIn" src="/~/media/UHG/Images/Icons/SmLinkedInbw18.ashx" originalAttribute="src" originalPath="/~/media/UHG/Images/Icons/SmLinkedInbw18.ashx" />&nbsp;Follow Us on LinkedIn</a> <br style="clear: both;" />
+                                                        <li style="line-height: 1.8em;"><a href="http://www.linkedin.com/companies/1720" originalAttribute="href" originalPath="http://www.linkedin.com/companies/1720" target="_blank"><img width="18" height="18" style="float: left; margin-right: 3px;" alt="LinkedIn" src="/~/media/UHG/Images/Icons/SmLinkedInbw18.ashx?la=en" originalAttribute="src" originalPath="/~/media/UHG/Images/Icons/SmLinkedInbw18.ashx" />&nbsp;Follow Us on LinkedIn</a> <br style="clear: both;" />
                             </li>
-                            <li style="line-height: 1.8em;"><a href="http://www.facebook.com/uhgcareers" originalAttribute="href" originalPath="http://www.facebook.com/uhgcareers" target="_blank"><img width="18" height="18" style="float: left; margin-right: 3px;" alt="Facebook" src="/~/media/UHG/Images/Icons/SmFacebookbw18.ashx" originalAttribute="src" originalPath="/~/media/UHG/Images/Icons/SmFacebookbw18.ashx" />&nbsp;Visit Us on Facebook</a>&nbsp;<br style="clear: both;" />
+                            <li style="line-height: 1.8em;"><a href="http://www.facebook.com/uhgcareers" originalAttribute="href" originalPath="http://www.facebook.com/uhgcareers" target="_blank"><img width="18" height="18" style="float: left; margin-right: 3px;" alt="Facebook" src="/~/media/UHG/Images/Icons/SmFacebookbw18.ashx?la=en" originalAttribute="src" originalPath="/~/media/UHG/Images/Icons/SmFacebookbw18.ashx" />&nbsp;Visit Us on Facebook</a>&nbsp;<br style="clear: both;" />
                             </li>
-                            <li style="line-height: 1.8em;"><a href="http://www.youtube.com/user/unitedhealthgroup" originalAttribute="href" originalPath="http://www.youtube.com/user/unitedhealthgroup" target="_blank"><img width="18" height="18" style="float: left; margin-right: 3px;" alt="YouTube" src="/~/media/UHG/Images/Icons/SmYouTubebw18.ashx" originalAttribute="src" originalPath="/~/media/UHG/Images/Icons/SmYouTubebw18.ashx" />&nbsp;See Our YouTube Channel</a> <br style="clear: both;" />
+                            <li style="line-height: 1.8em;"><a href="http://www.youtube.com/user/unitedhealthgroup" originalAttribute="href" originalPath="http://www.youtube.com/user/unitedhealthgroup" target="_blank"><img width="18" height="18" style="float: left; margin-right: 3px;" alt="YouTube" src="/~/media/UHG/Images/Icons/SmYouTubebw18.ashx?la=en" originalAttribute="src" originalPath="/~/media/UHG/Images/Icons/SmYouTubebw18.ashx" />&nbsp;See Our YouTube Channel</a> <br style="clear: both;" />
                             </li>END ALTERNATE -->
                             <li><a href="/Newsroom/SocialMedia.aspx">more...</a>&nbsp; </li>
                         </ul>
