@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the hondacertified.com privacy policy that was archived on 2014-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141125183937id_/http%3A//automobiles.honda.com/information/consumer-privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hondacertified.com privacy policy that was archived on 2015-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151122073604id_/http%3A//automobiles.honda.com/information/consumer-privacy-policy.aspx) for the most accurate reproduction.-->
 
 <html><head>
 
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
 <title>Privacy Policy - Official Honda Web Site</title>
 
 <meta name="keywords" content="Honda autos web site privacy policy user consumer e-mail address collection information email">
@@ -180,18 +181,61 @@ var searchBox = function() {
             GlobalNavigationTrackEvent('selectahonda' , { vehicle : sUrlSiteSection , trackingName : oField.options[oField.selectedIndex].getAttribute('data-trackingname') } );
         }
     }
-    // This function will redirect to search results page.
+    function GlobalNavigationChangeShoppingTool(selector){
+        var oField=document.getElementById(selector);
+        var sUrl=oField.options[oField.selectedIndex].value;
+        var sUrlSiteSection=oField.options[oField.selectedIndex].text;
+        if(sUrl!=""){
+            top.location.href=sUrl;
+        }
+        
+        if (sUrl.indexOf('build') > 0) {
+            GlobalNavigationTrackEvent('build');
+        } else if (sUrl.indexOf('estimate') > 0) {
+            GlobalNavigationTrackEvent('estimate');
+        } else if (sUrl.indexOf('compare') > 0) {
+            GlobalNavigationTrackEvent('compare');
+        } else if (sUrl.indexOf('quote') > 0) {
+            GlobalNavigationTrackEvent('quote');
+        } else if (sUrl.indexOf('offers') > 0) {
+            GlobalNavigationTrackEvent('offers');
+        }
+
+    }
+    function GlobalNavigationChangeExplore(selector){
+        var oField=document.getElementById(selector);
+        var sUrl=oField.options[oField.selectedIndex].value;
+        var sUrlSiteSection=oField.options[oField.selectedIndex].text;
+        if(sUrl!=""){
+            top.location.href=sUrl;
+        }
+        
+        if (sUrl.indexOf('safety') > 0) {
+            GlobalNavigationTrackEvent('safety');
+        } else if (sUrl.indexOf('sensing') > 0) {
+            GlobalNavigationTrackEvent('sensing');
+        } else if (sUrl.indexOf('awards') > 0) {
+            GlobalNavigationTrackEvent('awards');
+        } else if (sUrl.indexOf('future') > 0) {
+            GlobalNavigationTrackEvent('future-cars');
+        } else if (sUrl.indexOf('alternative') > 0) {
+            GlobalNavigationTrackEvent('alternative-fuel-vehicles');
+        }
+
+    }    // This function will redirect to search results page.
     function GlobalNavigationSearchSite(selector){
     
         var searchValue = document.getElementById(selector).value;
         
-        if (searchValue == 'Search / Find a Dealer') searchValue = '';
+        if (searchValue == 'Enter search terms to search site or ZIP code to find a dealer') searchValue = '';
 
         // If 5 digits, do a dealer locator search
         if (searchValue.match(/(\d{5})/g)) {
             top.location = 'http://automobiles.honda.com/tools/dealer-locator/results.aspx?address=&city=&state=&zip=' + searchValue + '&dealername=&filters=&fromsection=NEW';
+            GlobalNavigationTrackEvent('dealer');
         } else {
             top.location = "http://automobiles.honda.com/search-results.aspx?question="+escape(searchValue);
+            GlobalNavigationTrackEvent('search');
         }
         
     }
@@ -235,15 +279,18 @@ document.createElement('aside');
 
 
 
-
-
-    <link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/d43a615e-657b-4929-b630-86616bb31fb9.css">
+    <link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/d43a615e-657b-4929-b630-86616bb31fb9.css">
+    
+    
+    
     
     <!--[if lt IE 9]>
     <style type="text/css">
         #UHeader { position: relative; }
-            #UHeader #UHeaderNav { width: 680px; height: 52px; overflow: hidden; }
+            #UHeader #UHeaderNav { width: 770px; height: 52px; overflow: hidden; }
                 #UHeader #UHeaderNav li span.vehiclesDDList select { filter: alpha(opacity = 0); }
+                #UHeader #UHeaderNav li span.shoppingToolsDDList select { filter: alpha(opacity = 0); }
+                #UHeader #UHeaderNav li span.exploreDDList select { filter: alpha(opacity = 0); }
 
             #UHeader form { behavior: url(/js/PIE.htc); position: relative; }
             #UHeader form input { padding-top: 5px; height: 20px; }
@@ -253,9 +300,22 @@ document.createElement('aside');
         .UHeaderSpacer { display: none !important; }
     </style>
     <![endif]-->
+     <script type="text/javascript">
+   
+         function globalnav_toggle(id) {
+             var e = document.getElementById(id);
+             var s = document.getElementById("magGlass");
+             if (e.style.display == 'block') {
+                 e.style.display = 'none';
+                 s.style.backgroundPosition = "-74px -93px ";
+             } else {
+                 e.style.display = 'block';
+                 s.style.backgroundPosition = "0px -93px";
+             }
+         };
 
 
-
+    </script>
     <script type="text/javascript">
     
         function GlobalNavigationTrackEvent(sEvent , args) {
@@ -278,8 +338,32 @@ document.createElement('aside');
                 case 'compare':
                     CallSDotTL(s , true , 'COMPARE VEHICLES LINK ON GLOBAL NAV' , 'o' , { linkTrackVars : 'prop25,prop37' } );
                     break;
+                case 'quote':
+                    CallSDotTL(s, true, 'REQUEST A QUOTE LINK ON GLOBAL NAV', 'o', { linkTrackVars: 'prop25,prop37' });
+                    break;                  
                 case 'dealer':
                     CallSDotTL(s , true , 'FIND A DEALER LINK ON GLOBAL NAV' , 'o' , { linkTrackVars : 'prop25,prop37' } );
+                    break;
+                case 'search':
+                    CallSDotTL(s, true, 'SITE SEARCH LINK ON GLOBAL NAV', 'o', { linkTrackVars: 'prop25,prop37' });
+                    break;
+                case 'owners':
+                    CallSDotTL(s, true, 'OWNERS LINK ON GLOBAL NAV', 'o', { linkTrackVars: 'prop25,prop37' });
+                    break;
+                case 'safety':
+                    CallSDotTL(s, true, 'SAFETY LINK ON GLOBAL NAV', 'o', { linkTrackVars: 'prop25,prop37' });
+                    break;
+                case 'sensing':
+                    CallSDotTL(s, true, 'SENSING LINK ON GLOBAL NAV', 'o', { linkTrackVars: 'prop25,prop37' });
+                    break;
+                case 'awards':
+                    CallSDotTL(s, true, 'AWARDS LINK ON GLOBAL NAV', 'o', { linkTrackVars: 'prop25,prop37' });
+                    break;
+                case 'future-cars':
+                    CallSDotTL(s, true, 'FUTURE CARS LINK ON GLOBAL NAV', 'o', { linkTrackVars: 'prop25,prop37' });
+                    break;
+                case 'alternative-fuel-vehicles':
+                    CallSDotTL(s, true, 'ALTERNATIVE FUEL VEHICLES LINK ON GLOBAL NAV', 'o', { linkTrackVars: 'prop25,prop37' });
                     break;
             }
         
@@ -288,13 +372,15 @@ document.createElement('aside');
     </script>
 
 
+    
+
 
     <header id="UHeader">
         <div id="UHeaderLogo"><a href="http://automobiles.honda.com/" target="_top"></a></div>
         <nav id="UHeaderNav">
             <ul class="avenir-med">
                 <li>
-                    <span class="vehiclesList"><a href="/all-models.aspx" target="_top"><span id="headerVehiclesListText" class="text">VEHICLES</span> <span id="headerVehiclesListArrow" class="arrow"></span></a></span>
+                    <span class="vehiclesList"><a href="http://automobiles.honda.com/all-models.aspx" target="_top"><span id="headerVehiclesListText" class="text">VEHICLES</span> <span id="headerVehiclesListArrow" class="arrow"></span></a></span>
                     <span class="rightBorder"></span>
                 </li>
                 
@@ -344,109 +430,153 @@ document.createElement('aside');
                         
                             <option value="/pilot" data-trackingname="Pilot">Pilot SUV</option>
                         
-                            <option value="/ridgeline" data-trackingname="Ridgeline">Ridgeline Truck</option>
-                        
                             <option value="/alternative-fuel-vehicles/">Hybrid and Alternative Fuel Vehicles</option>
                             <option value="/all-models.aspx">All Vehicles</option>
-                            <option value="/certified-used/">Certified Used Cars</option>
+                            <option value="/certified-pre-owned/">Certified Pre-Owned</option>
                             <option value="/future-cars/">Future Models &amp; Concepts</option>
                     </select>
                 </span></li>
                 
+
+
+
+
+
                 <li>
-                    <span class="buildLink"><a href="http://automobiles.honda.com/tools/build-price/" target="_top" onclick="GlobalNavigationTrackEvent('build');">BUILD<br>YOUR OWN</a></span>
+                    <span class="shoppingToolsList"><a href="http://automobiles.honda.com/all-models.aspx" target="_top"><span id="headerShoppingToolsListText" class="text">SHOPPING TOOLS</span> <span id="headerShoppingToolsListArrow" class="arrow"></span></a></span>
                     <span class="rightBorder"></span>
                 </li>
+                <li onmouseover="document.getElementById('headerShoppingToolsListText').className = 'textOn'; document.getElementById('headerShoppingToolsListArrow').className = 'arrowOn';" onmouseout="document.getElementById('headerShoppingToolsListText').className = 'text'; document.getElementById('headerShoppingToolsListArrow').className = 'arrow';"><span class="shoppingToolsDDList">
+                    <select name="UHeaderShoppingToolsSelector" id="UHeaderShoppingToolsSelector" class="UHeaderShoppingToolsSelector" onchange="GlobalNavigationChangeShoppingTool('UHeaderShoppingToolsSelector');">
+                            <option value="">Select a Shopping Tool</option>
+                            <option value="http://automobiles.honda.com/tools/build-price/">Build Your Own</option>
+                            <option value="http://automobiles.honda.com/tools/monthly-payment-estimator/">Estimate Payments</option>
+                            <option value="http://automobiles.honda.com/tools/price-quote.aspx">Request a Quote</option>
+                            <option value="http://automobiles.honda.com/tools/compare/">Compare Vehicles</option>
+                            <option value="http://automobiles.honda.com/current-offers.aspx">Current Offers</option>
+                    </select>
+                </span></li>
+
+
+
+
+
                 <li>
-                    <span class="offersLink"><a href="http://automobiles.honda.com/current-offers.aspx" target="_top" onclick="GlobalNavigationTrackEvent('offers');">CURRENT OFFERS</a></span>
+                    <span class="exploreList"><a href="http://automobiles.honda.com/all-models.aspx" target="_top"><span id="headerExploreListText" class="text">EXPLORE</span> <span id="headerExploreListArrow" class="arrow"></span></a></span>
                     <span class="rightBorder"></span>
                 </li>
+                <li onmouseover="document.getElementById('headerExploreText').className = 'textOn'; document.getElementById('headerExploreListArrow').className = 'arrowOn';" onmouseout="document.getElementById('headerExploreListText').className = 'text'; document.getElementById('headerExploreListArrow').className = 'arrow';"><span class="exploreDDList">
+                    <select name="UHeaderExploreSelector" id="UHeaderExploreSelector" class="UHeaderExploreSelector" onchange="GlobalNavigationChangeExplore('UHeaderExploreSelector');">
+                            <option value="">Select a Destination</option>
+                            <option value="http://automobiles.honda.com/safety/">Honda Safety</option>
+                            <option value="http://automobiles.honda.com/sensing/">Honda Sensing</option>
+                            <option value="http://automobiles.honda.com/awards/">Awards &amp; Accolades</option>
+                            <option value="http://automobiles.honda.com/future-cars/">Future Models &amp; Concepts</option>
+                            <option value="http://automobiles.honda.com/alternative-fuel-vehicles/">Hybrid &amp; Alternative Fuel Vehicles</option>
+                    </select>
+                </span></li>
+
+
+
+
                 <li>
-                    <span class="estimateLink"><a href="http://automobiles.honda.com/tools/monthly-payment-estimator/" target="_top" onclick="GlobalNavigationTrackEvent('estimate');">ESTIMATE PAYMENTS</a></span>
-                    <span class="rightBorder"></span>
-                </li>
-                <li>
-                    <span class="compareLink"><a href="http://automobiles.honda.com/tools/compare/" target="_top" onclick="GlobalNavigationTrackEvent('compare');">COMPARE VEHICLES</a></span>
+                    <span class="ownersLink"><a href="http://owners.honda.com" target="_blank" onclick="GlobalNavigationTrackEvent('owners');">OWNERS</a></span>
                     <span class="rightBorder"></span>
                 </li>
                 <li>
                     <span class="dealerLink"><a href="http://automobiles.honda.com/tools/dealer-locator/" target="_top" onclick="GlobalNavigationTrackEvent('dealer');">FIND A DEALER</a></span>
                 </li>
+                <li id="globalLanguageToggle">
+                    <span class="languageToggleLink" id="globalLanguageToggle_Spanish"><a href="#" onclick="CallSDotTL(s , true , 'TRANSLATE TO SPANISH' , 'o' , {eVar47 : 'SPANISH' , prop47 : 'SPANISH' , linkTrackVars : 'eVar47,prop47,prop37'});" id="globalLanguageToggleLink_Spanish">ESPAÑOL</a></span>
+                </li>
+                <li>
+                    <span class="languageToggleLink" id="globalLanguageToggle_English"><a href="#" onclick="CallSDotTL(s , true , 'TRANSLATE TO ENGLISH' , 'o' , {eVar47 : 'ENGLISH' , prop47 : 'ENGLISH' , linkTrackVars : 'eVar47,prop47,prop37'});" id="globalLanguageToggleLink_English">ENGLISH</a></span>
+                </li>
             </ul>
         </nav>
-        
-        <form id="UHeaderSearchField" onsubmit="return false;">
-            <input type="text" name="search" id="UHeaderSearchText" value="Search / Find a Dealer" onmouseover="searchBox.tooltip().show('UHeaderSearchField');" onmouseout="searchBox.tooltip().hide();" onfocus="searchBox.focus('UHeaderSearchText');" onblur="searchBox.blur('UHeaderSearchText');">
-            <button onclick="GlobalNavigationSearchSite('UHeaderSearchText');"></button>
-        </form>
-        
+         <div id="magGlass" onclick="globalnav_toggle('searchBox');"></div>
+         <div id="searchBox">
+                
+                <form id="UHeaderSearchField" onsubmit="return false;">
+                    <input type="text" name="search" id="UHeaderSearchText" value="Enter search terms to search site or ZIP code to find a dealer" onfocus="searchBox.focus('UHeaderSearchText');" onblur="searchBox.blur('UHeaderSearchText');" onkeypress="if (event.keyCode==13) { GlobalNavigationSearchSite('UHeaderSearchText'); return false; }">
+                </form>
+                <a class="orangeButton1 orangeSearch avenir-med" onclick="GlobalNavigationSearchSite('UHeaderSearchText');">Search &gt;</a>
+                
+        </div>
     </header>
     <div class="UHeaderSpacer">&nbsp;</div> <!-- push everything down since the header floats -->
 
 
-
-
+    
             <div id="PrivacyContainer">
                 <div id="PageTitle" class="PageTitle"></div>
                 <div id="PrivacyMain">
                   <div id="PrivacyContent">
                   <!--Published From Documentum Template-->
 <!--Updated /Published : -->
-<!--Fri Dec 20 11:12:49 PST 2013--><br><br><table width="90%" cellspacing="0" cellpadding="0" border="0" align="center">
+<!--Thu May 07 11:06:56 PDT 2015--><br><br><table width="90%" cellspacing="0" cellpadding="0" border="0" align="center">
     <tbody><tr>
-        <td class="bodyText" align="center"><b>STATEMENT OF PRIVACY ( 9/20/2013,  UNITED STATES ONLY)</b></td>
+        <td class="bodyText" align="center"><b>STATEMENT OF PRIVACY ( 12/23/2014,  UNITED STATES ONLY)</b></td>
     </tr>
     <tr>
         <td class="bodyText">
-            <p>American Honda Motor Company, Inc. (American Honda)&nbsp;is considerate of the privacy of our visitors and the individual sensitivities of personal information. &nbsp;At American Honda, we believe the confidentiality and protection of customer information is one of our fundamental responsibilities. Because privacy and consumer trust are important to us, we provide this privacy statement for you to explain our policies in detail. While information is critical to providing quality service, we recognize that one of our most important assets is our customers' trust. &nbsp; Our goal is to protect your information.</p>
-            <p>This statement explains our privacy policies and procedures in connection with data collection and usage governing the American Honda Family of Web Sites which include honda.com, corporate.honda.com, automobiles.honda.com, hpd.honda.com, powersports.honda.com, hrca.honda.com, powerequipment.honda.com, marine.honda.com, engines.honda.com, owners.honda.com, owners.acura.com, estore.honda.com, hondafinancialservices.com, hondafinancialservices.com/ir, acurafinancialservices.com, acura.com, and civictour.honda.com. &nbsp;This statement does not apply to our offline information practices.</p>
+            <p>American Honda Motor Co., Inc. (American Honda) is considerate of the privacy of our visitors and the individual sensitivities of personal information. At American Honda, we believe the confidentiality and protection of customer information is one of our fundamental responsibilities. Because privacy and consumer trust are important to us, we provide this privacy statement for you to explain our policies in detail. While information is critical to providing quality service, we recognize that one of our most important assets is our customers' trust. Our goal is to protect your information.</p>
+            <p>This statement explains our privacy policies and procedures in connection with data collection and usage governing the American Honda Family of Web Sites which include honda.com, corporate.honda.com, automobiles.honda.com, hpd.honda.com, powersports.honda.com, hrca.honda.com, powerequipment.honda.com, marine.honda.com, engines.honda.com, owners.honda.com, owners.acura.com, estore.honda.com, hondafinancialservices.com, hondafinancialservices.com/ir, acurafinancialservices.com, acura.com, civictour.honda.com and greendealer.honda.com. This statement does not apply to our offline information practices.</p>
             <br>
         </td>
     </tr>
     <tr>
         <td class="bodyText">
             <p>
-                <span style=" color: #ff0000;">Information sharing</span>
+                <span style=" color: #ff0000;">Information Collection</span>
             </p>
             <p>You can visit our Web Sites without sharing personally identifiable information. &nbsp;</p>
-            <p>You can visit our Web Sites without telling us who you are and without revealing any personally identifiable information to learn about American Honda Motor Co., Inc. ("AHM"), American Honda Finance Corporation ("AHFC"), our product and service information, special offers and promotions, and investor information. &nbsp;You can also access financial planning tools. &nbsp;</p>
+            <p>You can visit our Web Sites without telling us who you are and without revealing any personally identifiable information to learn about American Honda, American Honda Finance Corporation ("AHFC"), our product and service information, special offers and promotions, and investor information. &nbsp;You can also access financial planning tools. &nbsp;</p>
             <p>"Personally identifiable information or personal information" refers to any information that identifies or can be used to contact or locate you such as name, mailing address, phone number, email address, social security number, and account number. &nbsp;Use of certain features and tools on this Site requires that you provide us with personally identifiable information. &nbsp;However, you always have the option not to provide personal information by choosing not to use a particular feature. &nbsp;</p>
-            <p>We may request personally identifiable information in order to enhance your experience on our web sites. &nbsp;There are instances where American Honda requests personally identifiable information to provide the web site visitor a service or correspondence (such as promotions and mailed brochures). This information, such as name, mailing address, email address, type of request and possibly additional information, is collected and stored in a manner appropriate to the nature of the data and is used to fulfill your request. The information you provide is used by American Honda to improve the services we provide you and to help us promote products and services that are of most interest to you. &nbsp;The information may be merged with other information American Honda already knows, such as whether you are an owner of a Honda or Acura vehicle.</p>
+            <p>We may request personally identifiable information in order to enhance your experience on our web sites. &nbsp;There are instances where American Honda requests personally identifiable information to provide the web site visitor a service or correspondence (such as promotions and mailed brochures). This information, such as name, mailing address, email address, type of request and possibly additional information, is collected and stored in a manner appropriate to the nature of the data and is used to fulfill your request. The information you provide is used by American Honda to improve the services we provide you and to help us promote products and services that are of most interest to you. &nbsp;The information may be merged with other information American Honda already knows, such as whether you are an owner of a Honda or Acura product.</p>
             <p>To use American Honda's Internet services, such as the Dealer Locator and brochure requests, we require a certain amount of personally identifying information such as name and address to meet your request. &nbsp;We may use this information to identify and access data in the existing relationship we have with you to provide you with the requested services. &nbsp;We may request email addresses as an alternate means of contacting you.</p>
-            <p>Our websites may not recognize browser based do not track signals.</p>
             <p>
-                <span style=" color: #ff0000;">We collect and use anonymous information</span>
+                <span style=" color: #ff0000;">We Collect and Use Anonymous Information</span>
             </p>
             <p>We may gather and store certain anonymous information about your visit, including the name of your Internet Service Provider (ISP), the type of browser and operating systems used to access our site, the date and time you access our site, the website that referred you to us, and the pages you visit (click-through). &nbsp;This information does not identify you personally. &nbsp;This information is collected and used to generate statistics, measure site activity, and improve the usefulness of our sites.</p>
             <p>
-                <span style=" color: #ff0000;">Use of cookies</span>
+                <span style=" color: #ff0000;">Use of Cookies</span>
             </p>
-            <p>A "cookie" is a small text file or text identifier placed on your computer to assist us in providing customized services. &nbsp;We use cookies to provide you with a convenience feature to save you time and provide a more personalized experience on our site. &nbsp;For example, you may log on once during a visit and will be able to access multiple servers without having to log on again and again. &nbsp;We also use the information for internal research on our user's demographics, interests, and behavior to better understand our visitor's preferences. &nbsp;We may use cookies provided by ClearTrust, BrowserHawk, Capricorn Encryption, and WebTrends e-commerce software. &nbsp;You have the ability to accept or decline cookies. &nbsp;Some portions of our Web sites, such as owners.honda.com/owners.acura.com, however, require the use of cookies for proper function.</p>
+            <p>A "cookie" is a small text file or text identifier placed on your computer to assist us in providing customized services. &nbsp;We use cookies to provide you with a convenience feature to save you time and provide a more personalized experience on our site. &nbsp;For example, you may log on once during a visit and will be able to access multiple servers without having to log on again and again. &nbsp;We also use the information for internal research on our user's demographics, interests, and behavior to better understand our visitor's preferences. &nbsp;We may use cookies provided by third parties, including&nbsp;ClearTrust, BrowserHawk, Capricorn Encryption, and WebTrends e-commerce software. &nbsp;You have the ability to accept or decline cookies. &nbsp;Some portions of our Web sites, such as owners.honda.com/owners.acura.com, however, require the use of cookies for proper function.</p>
             <p>
                 <span style=" color: #ff0000;">Advertising Campaigns</span>
             </p>
             <p>Some of our sites, such as automobiles.honda.com and owners.honda.com/owners.acura.com, use web beacons also called single pixel gifs. Their use helps us determine the effectiveness of our advertising campaigns. Certain gif files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to http://www.doubleclick.net/us/corporate/privacy. In short, web beacons collect only a limited amount of information including cookies and time and date of viewing and do not contain personally identifiable information. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by going to: http://preferences.truste.com/preference.html?affiliateId=99. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.</p>
             <p>
-                <span style=" color: #ff0000;">Information use</span>
+                <span style=" color: #ff0000;">Information Use</span>
             </p>
-            <p>The information you share with American Honda is used to improve the services we provide you and to provide services to you that you request. &nbsp;For example, if you enroll in EasyPay or Pay Online, our account payment services, we will be required to validate your bank account information with your bank. &nbsp;If you request brochures, we may hire a third party fulfillment company to meet your request. &nbsp;We may share information about you with third party service providers (such as companies who assist us in conducting surveys and research to help us provide better products and services). &nbsp;However, your information is not shared with or sold to any other third party entity or individual for that entity or individual's independent use with the exception of when you request to be added to the fan mailing list of one of the participating Civic Tour bands and/or Civic Tour promotional partners or in situations where required by law, we may need to&nbsp;share this information with law enforcement officials such as in response to a court order or subpoena. &nbsp;American Honda Finance Corporation ("AHFC") customers are also encouraged to see the AHFC Financial Privacy Policy below to learn more about our protections and use of your nonpublic personal information (such as personally identifiable financial information). &nbsp;</p>
+            <p>The information you share with American Honda is used to improve the services we provide you and to provide services to you that you request. For example, if you enroll in EasyPay or Pay Online, our account payment services, we will be required to validate your bank account information with your bank. If you request brochures, we may hire a third party fulfillment company to meet your request. We may share information about you with third party service providers (such as companies who assist us in marketing, conducting surveys and research to help us provide better products and services). However, your information is not shared with or sold to any other third party entity or individual for that entity or individual's independent use with the exception of when you request to be added to the fan mailing list of one of the participating Civic Tour bands and/or Civic Tour promotional partners or in situations where required by law, we may need to share this information with law enforcement officials such as in response to a court order or subpoena. AHFC customers are also encouraged to see the American Honda Finance Corporation Financial Privacy Policy below to learn more about protections and use of your nonpublic personal information (such as personally identifiable financial information).</p>
+            <p>The information you share with American Honda when you apply for employment with American Honda or any of its affiliated companies through our site at <a target="_blank" href="http://corporate.honda.com/careers/">http://corporate.honda.com/careers/</a> may include personal information, such as name, educational and employment background, contact information, job qualifications, and jobs for which you may wish to be considered.&nbsp; You may choose to provide additional information, such as your resume or CV, employment references, and salary requirements.&nbsp; You may also choose to provide this information by extracting it from another online location, such as Google, Yahoo, or Talent Exchange Universal Profile.&nbsp; Your provision of this information in connection with seeking employment at American Honda is voluntary and you determine the extent of the information you provide.&nbsp; Your decision not to provide such information may affect our ability to consider you for employment.&nbsp; This information is collected and maintained through Oracle’s Taleo service and is not shared except between the Taleo service and American Honda (and its affiliated companies), or between American Honda and its affiliated companies, as necessary for employment decisions.&nbsp; For more information about Oracle’s privacy policies, please consult Oracle’s disclosures on its website (<a target="_blank" href="http://www.oracle.com">www.oracle.com</a>).&nbsp;</p>
+            <p>
+                <span style=" color: #ff0000;">Partners</span>
+            </p>
+            <p>When you visit or use a part of any website, landing page or mobile application that is co-branded or that is a part of a joint promotion involving American Honda and one or more third parties (each a “Co-Branded Party”), you are providing and consenting to provide your personal information and any other information collected by any Co-Branded Party to American Honda and each of the Co-Branded Parties without any other notice or further consent.&nbsp; We do not control Co-Branded Parties’ use or treatment of information you provide to them and you should consult each of their privacy policies or any separate Co-Branded privacy policy posted on or linked from the Co-Branded site to determine your rights with respect to their use and treatment of your information.</p>
             <p>
                 <span style=" color: #ff0000;">Security</span>
             </p>
             <p>American Honda has reasonable security measures in place to protect your personally identifiable information. &nbsp;This information is protected while being transmitted through a Secured Sockets Layer (SSL) connection. &nbsp;Most web pages that display personally identifiable information are encrypted using 128-bit SSL, which is an industry standard. &nbsp;The following brands' brochure requests, however, are not transmitted through a SSL connection: &nbsp;Engine, Marine, and Power Equipment. &nbsp;In addition, the Motorcycle brand site does not currently transmit brochure and email notification requests through an SSL connection. &nbsp;In addition, we have security procedures and policies in place to safeguard against loss, theft, unauthorized access, destruction, misuse, and modification of this information after we receive it. &nbsp;However, perfect security does not exist over the internet. &nbsp;If you are an owners.honda.com/owners.acura.com&nbsp;registrant, you can help protect your personally identifiable information by selecting the "Log Out" icon before you close your browser.</p>
             <p>
+                <span style=" color: #ff0000;">Do Not Track Signals</span>
+            </p>
+            <p>Our websites do not treat browsers that &nbsp;send a ‘do not track’ signal differently from&nbsp; browsers that do not send one.</p>
+            <p>
                 <span style=" color: #ff0000;">Links</span>
             </p>
             <p>Our web sites may contain links to other sites. However, please be aware that if you access these links you will be leaving our site. &nbsp;As a result, we encourage users to read the privacy policies of those sites as we are not responsible for their content, links, or privacy procedures.</p>
             <p>
-                <span style=" color: #ff0000;">Policy revisions</span>
+                <span style=" color: #ff0000;">Policy Updates</span>
             </p>
             <p>If we decide to change our privacy policies and procedures, we will post those changes to this privacy policy so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. &nbsp;We suggest periodically visiting this page to review our policies and procedures.</p>
             <p>&nbsp; &nbsp;</p>
             <p>
-                <span style=" color: #ff0000;">Specific web site provisions</span>
+                <span style=" color: #ff0000;">Specific Web Site Provisions</span>
             </p>
-            <p>This section addresses this Site’s unique functionality and offerings specific to particular areas of this Site and serves as a supplement to the General Provisions above.</p>
+            <p>This section below addresses this Site’s unique functionality and offerings specific to particular areas of each Site and serves as a supplement to the General Provisions above.</p>
             <br>
             <br>
         </td>
@@ -480,6 +610,8 @@ document.createElement('aside');
             <br>
             <a href="#Website14">American Honda Finance Corporation Financial Privacy Policy</a>
             <br>
+            <a href="#Website15">greendealer.honda.com</a>
+            <br>
             <br>
         </td>
     </tr>
@@ -491,18 +623,17 @@ document.createElement('aside');
         <td class="bodyText"><a name="Website1"></a><b>Honda Automobiles</b>
             <br>
             <p>
-                <b>Request A Quote. &nbsp;</b>When you select and build your choice in a vehicle, we will present you with a complete list of your choices, as well as the vehicle's suggested retail price. &nbsp;We can also forward your quote to a local Honda dealer for further contact. &nbsp;If you choose to utilize this service, we will ask you to provide us with your name, home and email address, and your home and/or business telephone number. &nbsp;Although not required to do so, you may also provide us with further information such as what time of day you wish to be contacted, your vehicle trade-in information as well as any additional information or special requests. &nbsp;After submitting your request, you may choose to apply for credit with Honda Financial Services. &nbsp;If you choose to do so, in certain instances, we may forward information regarding the status of your application to the dealer you selected to receive your price quote request. &nbsp;If you do not want us to forward this information on to your selected dealer, you may go directly to HondaFinancialServices.com to apply. &nbsp;See also the Honda Financial Services “Apply for Pre-Approved Credit” section below to understand how HFS handles the information provided on the credit application. &nbsp;Requesting a quote and providing your personal information is your choice. &nbsp;</p>
+                <b>Request A Quote. &nbsp;</b>When you select and build your choice in a vehicle, we will present you with a complete list of your choices, as well as the vehicle's suggested retail price. &nbsp;We can also forward your quote to a local Honda dealer for further contact. &nbsp;If you choose to utilize this service, we will ask you to provide us with your name, home and email address, and your home and/or business telephone number. &nbsp;Although not required to do so, you may also provide us with further information such as what time of day you wish to be contacted, your vehicle trade-in information as well as any additional information or special requests. &nbsp;After submitting your request, you may choose to apply for credit with Honda Financial Services. &nbsp;If you choose to do so, in certain instances, we may forward information regarding the status of your application to the dealer you selected to receive your price quote request. &nbsp;If you do not want us to forward this information on to your selected dealer, you may go directly to HondaFinancialServices.com to apply. &nbsp;See also the Honda Financial Services “Apply for Pre-Approved Credit” section below to understand how Honda Financial Services handles the information provided on the credit application. &nbsp;Requesting a quote and providing your personal information is your choice. &nbsp;</p>
             <p>
-                <b>Financing Tools, Apply online for Pre-Approved Credit. &nbsp;</b>If you choose to submit an application to American Honda Finance Corporation for pre-approved credit, AHFC will request that you provide personally identifiable information such as name, address, telephone number, social security number, date of birth, employment information, and gross monthly income. &nbsp;This information is collected and is used only in a manner appropriate to process your request for pre-approved credit. &nbsp;For example, AHFC may use this information to investigate your credit, employment, and income to assist in our credit decision-making process. &nbsp;After you apply, you may also check the status of your application. &nbsp;In order to do so, AHFC will request that you provide your name, zip code, and personal identification number. &nbsp;We also encourage you to review the AHFC Financial Privacy Policy below to learn more about our protections and use of your nonpublic personal information (namely, personally identifiable financial information). &nbsp; &nbsp;</p>
+                <b>Financing Tools, Apply online for Pre-Approved Credit.</b> &nbsp;If you choose to submit an application to Honda Financial Services for pre-approved credit, we will request that you provide personally identifiable information such as name, address, telephone number, social security number, date of birth, employment information, and gross monthly income. This information is collected and is used only in a manner appropriate to process your request for pre-approved credit. For example, American Honda Finance Corporation (doing business as Honda Financial Services) may use this information to investigate your credit, employment, and income to assist in our credit decision-making process. After you apply, you may also check the status of your application. In order to do so, we will request that you provide your name, zip code, and personal identification number. We also encourage you to review the American Honda Finance Corporation Financial Privacy Policy below to learn more about our protections and use of your nonpublic personal information (namely, personally identifiable financial information).</p>
             <p>
-                <b>Financing Tools, Payment Calculators. &nbsp;</b>You may choose to utilize our financing calculators to get an idea as to how much it may cost you to buy or lease a new or used vehicle. &nbsp;Using this feature will help you determine what you can afford. &nbsp;In doing so, you may provide certain figures such as a trade-in value or an amount owed on your current vehicle to calculate an estimated payment. &nbsp;We do not collect or share any of this information nor is this information personally identifiable. &nbsp;</p>
+                <b>Financing Tools, Payment Calculators.</b> &nbsp;You may choose to utilize our financing calculators to get an idea as to how much it may cost you to buy or lease a new or used vehicle. &nbsp;Using this feature will help you determine what you can afford. &nbsp;In doing so, you may provide certain figures such as a trade-in value or an amount owed on your current vehicle to calculate an estimated payment. &nbsp;We do not collect or share any of this information nor is this information personally identifiable. &nbsp;</p>
             <p>
-                <b>Request a Brochure. &nbsp;</b>If you choose to request that we mail you a specific model fact sheet or brochure or a full-line brochure, you will be required to provide us with your name and address. This information may be shared with a third party brochure fulfillment company to process your request. &nbsp;You may also choose to receive additional product information or be contacted by a Honda dealer. &nbsp;If you choose to be contacted by a Honda dealer, we will forward your name, address, and, if provided, your email address to the dealer. &nbsp;You may also choose to provide us with additional information about your current vehicle. &nbsp;Requesting a brochure, being contacted by a dealer, and providing your personal information is your choice.</p>
+                <b>Request a Brochure.</b> &nbsp;If you choose to request that we mail you a specific model fact sheet or brochure or a full-line brochure, you will be required to provide us with your name and address. This information may be shared with a third party brochure fulfillment company to process your request. &nbsp;You may also choose to receive additional product information or be contacted by a Honda dealer. &nbsp;If you choose to be contacted by a Honda dealer, we will forward your name, address, and, if provided, your email address to the dealer. &nbsp;You may also choose to provide us with additional information about your current vehicle. &nbsp;Requesting a brochure, being contacted by a dealer, and providing your personal information is your choice.</p>
             <p>
-                <b>Email Newsletters. &nbsp;</b>You may decide that you wish to sign up to receive email newsletters on a particular Honda model and site features or to receive newsletters about all new models, special promotions, and site features. &nbsp;In doing so, we will request that you provide your name and email address. &nbsp;Requesting email newsletters and providing your personal information is your choice. <b>&nbsp; &nbsp; &nbsp;</b>
-            </p>
+                <b>Email Newsletters.</b> &nbsp;You may decide that you wish to sign up to receive email newsletters on a particular Honda model and site features or to receive newsletters about all new models, special promotions, and site features. &nbsp;In doing so, we will request that you provide your name and email address. &nbsp;Requesting email newsletters and providing your personal information is your choice. &nbsp; &nbsp; &nbsp;</p>
             <p>
-                <b>Email Cards.</b>When visiting our vehicle web pages, at times, you may choose to send electronic cards to your family or friends. &nbsp;To do so, you will have to provide your email address and the email address of the person you wish to send a card. &nbsp;This information is only used for the purpose for which it is received. &nbsp;</p>
+                <b>Email Cards.</b> When visiting our vehicle web pages, at times, you may choose to send electronic cards to your family or friends. &nbsp;To do so, you will have to provide your email address and the email address of the person you wish to send a card. &nbsp;This information is only used for the purpose for which it is received. &nbsp;</p>
             <p>&nbsp;</p>
             <a href="#top"> BACK TO TOP</a>
             <br>
@@ -511,15 +642,15 @@ document.createElement('aside');
             <a name="Website2"></a><b>Acura</b>
             <br>
             <p>
-                <b>Request A Quote.</b> &nbsp;When you select and build your choice in a vehicle, we will present you with a complete list of your choices, as well as the vehicle's suggested retail price. &nbsp;We can also forward your quote to a local Acura dealer for further contact. &nbsp;If you choose to utilize this service, we will ask you to provide us with your name, home and email address, and your home or business telephone number. &nbsp;Although not required to do so, you may also provide us with further information such as what time of day you wish to be contacted, your vehicle trade-in information as well as any additional information or special requests. &nbsp;After submitting your request, you may choose to apply for credit with Honda Financial Services. &nbsp;If you choose to do so, in certain instances, we may forward information regarding the status of your application to the dealer you selected to receive your price quote request. &nbsp;If you do not want us to forward this information on to your selected dealer, you may go directly to HondaFinancialServices.com to apply. &nbsp;See also the Honda Financial Services “Apply for Pre-Approved Credit” section below to understand how HFS handles the information provided on the credit application. &nbsp;Requesting a quote and providing your personal information is your choice. &nbsp;</p>
+                <b>Request A Quote.</b>&nbsp;When you select and build your choice in a vehicle, we will present you with a complete list of your choices, as well as the vehicle's suggested retail price. We can also forward your quote to a local Acura dealer for further contact. If you choose to utilize this service, we will ask you to provide us with your name, home and email address, and your home or business telephone number. Although not required to do so, you may also provide us with further information such as what time of day you wish to be contacted, your vehicle trade-in information as well as any additional information or special requests. After submitting your request, you may choose to apply for credit with Acura Financial Services. If you choose to do so, in certain instances, we may forward information regarding the status of your application to the dealer you selected to receive your price quote request. If you do not want us to forward this information on to your selected dealer, you may go directly to AcuraFinancialServices.com to apply. See also the Acura Financial Services “Apply for Pre-Approved Credit” section below to understand how Acura Financial Service handles the information provided on the credit application. Requesting a quote and providing your personal information is your choice.</p>
             <p>
-                <b>Financing Tools, Apply online for Pre-Approved Credit.</b> &nbsp;If you choose to submit an application to American Honda Finance Corporation for pre-approved credit, AHFC will request that you provide personally identifiable information such as name, address, telephone number, social security number, date of birth, employment information, and gross monthly income. &nbsp;This information is collected and is used only in a manner appropriate to process your request for pre-approved credit. &nbsp;For example, AHFC may use this information to investigate your credit, employment, and income to assist in our credit decision-making process. &nbsp;After you apply, you may also check the status of your application. &nbsp;In order to do so, AHFC will request that you provide you name, zip code, and personal identification number. &nbsp;We also encourage you to review the AHFC Financial Privacy Policy below to learn more about our protections and use of your nonpublic personal information (namely, personally identifiable financial information). &nbsp;</p>
+                <b>Financing Tools, Apply online for Pre-Approved Credit.</b>&nbsp;If you choose to submit an application to Acura Financial Services for pre-approved credit, we will request that you provide personally identifiable information such as name, address, telephone number, social security number, date of birth, employment information, and gross monthly income. This information is collected and is used only in a manner appropriate to process your request for pre-approved credit. For example, American Honda Finance Corporation (doing business as Acura Financial Services) may use this information to investigate your credit, employment, and income to assist in our credit decision-making process. After you apply, you may also check the status of your application. In order to do so, we will request that you provide you name, zip code, and personal identification number. We also encourage you to review the American Honda Finance Corporation Financial Privacy Policy below to learn more about our protections and use of your nonpublic personal information (namely, personally identifiable financial information).</p>
             <p>
                 <b>Financing Tools, Payment Calculators.</b> &nbsp;You may choose to utilize our financing calculators to get an idea as to how much it may cost you to buy or lease a new or used vehicle. &nbsp;Using this feature will help you determine what you can afford. &nbsp;In doing so, you may provide certain figures such as a trade-in value or an amount owed on your current vehicle to calculate an estimated payment. &nbsp;We do not collect or share any of this information nor is this information personally identifiable. &nbsp; &nbsp;</p>
             <p>
-                <b>Brochure Request. &nbsp;</b>If you choose to request that we mail you a specific model brochure, a full-line brochure, or a certified pre-owned program brochure, you will be required to provide your name, address and telephone number. &nbsp; Your contact information may be shared with a third party brochure fulfillment company to process your request. &nbsp;You may also choose to be contacted by an Acura dealer. &nbsp;If you choose to be contacted by an Acura dealer, we will forward your contact information&nbsp;to the dealer. &nbsp;Requesting a brochure, being contacted by a dealer, and providing your personal information is your choice.</p>
+                <b>Brochure Request.</b> &nbsp;If you choose to request that we mail you a specific model brochure, a full-line brochure, or a certified pre-owned program brochure, you will be required to provide your name, address and telephone number. &nbsp; Your contact information may be shared with a third party brochure fulfillment company to process your request. &nbsp;You may also choose to be contacted by an Acura dealer. &nbsp;If you choose to be contacted by an Acura dealer, we will forward your contact information&nbsp;to the dealer. &nbsp;Requesting a brochure, being contacted by a dealer, and providing your personal information is your choice.</p>
             <p>
-                <b>Acura Store. &nbsp;</b>Our site offers the ability to buy Acura Apparel and Merchandise online from a third party vendor, Bensussen Deutsch &amp; Associates Inc. (BD&amp;A). &nbsp;If you choose to do so, please be aware that the link to buy Acura Apparel and Merchandise will direct you to the BD&amp;A web site to which the American Honda privacy policy does not apply. &nbsp;As a result, we encourage users to read the privacy policy of that site, as we are not responsible for their content, links, or privacy procedures.</p>
+                <b>Acura Store.</b> &nbsp;Our site offers the ability to buy Acura Apparel and Merchandise online from a third party vendor, Bensussen Deutsch &amp; Associates Inc. (BD&amp;A). &nbsp;If you choose to do so, please be aware that the link to buy Acura Apparel and Merchandise will direct you to the BD&amp;A web site to which the American Honda privacy policy does not apply. &nbsp;As a result, we encourage users to read the privacy policy of that site, as we are not responsible for their content, links, or privacy procedures.</p>
             <a href="#top"> BACK TO TOP</a>
             <br>
             <br>
@@ -539,7 +670,7 @@ document.createElement('aside');
             <p>
                 <b>Certificate Application for Current Offers.</b> &nbsp;You may choose to apply for a personalized current offer certificate that you can bring to your local Honda motorcycle dealer and use at your time of purchase. &nbsp;If you do so, we will request that you provide your name, home address, and email address. &nbsp;At such time, you may also choose whether you would like to receive additional information on Motorcycle products or whether you would like to email the link to a friend. &nbsp;</p>
             <p>
-                <b>Apply for Pre-Approved Credit. &nbsp;</b>If you choose to submit an application to American Honda Finance Corporation for pre-approved credit, we will request that you provide personally identifiable information such as name, address, telephone number, social security number, date of birth, employment information, and gross monthly income. &nbsp;This information is collected and is used only in a manner appropriate to process your request for pre-approved credit. &nbsp;For example, we may use this information to investigate your credit, employment, and income to assist in our credit decision-making process. &nbsp;We also encourage you to review the AHFC Financial Privacy Policy below to learn more about our protections and use of your nonpublic personal information (namely, personally identifiable financial information). &nbsp; &nbsp;</p>
+                <b>Apply for Pre-Approved Credit. &nbsp;</b>If you choose to submit an application to us for pre-approved credit, we will request that you provide personally identifiable information such as name, address, telephone number, social security number, date of birth, employment information, and gross monthly income. &nbsp;This information is collected and is used only in a manner appropriate to process your request for pre-approved credit. &nbsp;For example, we may use this information to investigate your credit, employment, and income to assist in our credit decision-making process. &nbsp;We also encourage you to review the American Honda Finance Corporation&nbsp;Financial Privacy Policy below to learn more about our protections and use of your nonpublic personal information (namely, personally identifiable financial information). &nbsp; &nbsp;</p>
             <p>
                 <b>Honda Card.</b> &nbsp;You also have the choice of applying for revolving credit through a credit program between GE Capital Consumer Card Co. and Honda Card. &nbsp;If you choose to do so, please be aware that the link to the application will direct you to the Conseco Finance Corporation web site to which the American Honda privacy policy does not apply. &nbsp;As a result, we encourage users to read the privacy policy of that site, as we are not responsible for their content, links, or privacy procedures.</p>
             <a href="#top"> BACK TO TOP</a>
@@ -609,12 +740,11 @@ document.createElement('aside');
             <a name="Website10"></a><b>Acurafinancialservices.com</b>
             <br>
             <p>
-                <b>Email-to-a-friend.</b>If you wish to share information that you view on a page of this Site with a friend, we will email the web page to your friend for you. &nbsp;In order to do so, we will request that you provide us with your name, email address, and your friend's email address. &nbsp;This information is collected and used only in a manner appropriate to fulfill your request. &nbsp;</p>
+                <b>Email-to-a-friend.</b> If you wish to share information that you view on a page of this Site with a friend, we will email the web page to your friend for you. &nbsp;In order to do so, we will request that you provide us with your name, email address, and your friend's email address. &nbsp;This information is collected and used only in a manner appropriate to fulfill your request. &nbsp;</p>
             <p>
-                <b>Apply online for Pre-Approved Credit.</b>If you choose to submit an application to AHFC for pre-approved credit, we will request that you provide personally identifiable information such as name, address, telephone number, social security number, date of birth, employment information, and gross monthly income. &nbsp;This information is collected and is used only in a manner appropriate to process your request for pre-approved credit. &nbsp;For example, we may use this information to investigate your credit, employment, and income to assist in our credit decision-making process. &nbsp;We also encourage you to review the AHFC Financial Privacy Policy below to learn more about our protections and use of your nonpublic personal information (namely, personally identifiable financial information). &nbsp; &nbsp;</p>
+                <b>Apply online for Pre-Approved Credit.</b> If you choose to submit an application to us for pre-approved credit, we will request that you provide personally identifiable information such as name, address, telephone number, social security number, date of birth, employment information, and gross monthly income. &nbsp;This information is collected and is used only in a manner appropriate to process your request for pre-approved credit. &nbsp;For example, we may use this information to investigate your credit, employment, and income to assist in our credit decision-making process. &nbsp;We also encourage you to review the American Honda Finance Corporation&nbsp;Financial Privacy Policy below to learn more about our protections and use of your nonpublic personal information (namely, personally identifiable financial information). &nbsp; &nbsp;</p>
             <p>
-                <b>EasyPay Enrollment.</b>If you are already an AHFC customer, you may decide to enroll in our convenient EasyPay program and authorize AHFC to automatically withdraw scheduled monthly payments from your bank checking or savings account. &nbsp;In order to enroll, we will request that you provide personally identifiable information such as your AHFC account number, the last four digits of your social security number, your bank's name and routing number, and your bank account type (checking or savings) and account number. &nbsp;This information is collected and used in a manner appropriate to process your EasyPay enrollment request. &nbsp; Note that you can also change or update your information by clicking on "Change" button off the EasyPay home page. <b>&nbsp;</b>
-            </p>
+                <b>EasyPay Enrollment.</b> If you are already an AHFC customer, you may decide to enroll in our convenient EasyPay program and authorize AHFC to automatically withdraw scheduled monthly payments from your bank checking or savings account. &nbsp;In order to enroll, we will request that you provide personally identifiable information such as your AHFC account number, the last four digits of your social security number, your bank's name and routing number, and your bank account type (checking or savings) and account number. &nbsp;This information is collected and used in a manner appropriate to process your EasyPay enrollment request. &nbsp; Note that you can also change or update your information by clicking on "Change" button off the EasyPay home page. &nbsp;</p>
             <a href="#top"> BACK TO TOP</a>
             <br>
             <br>
@@ -622,12 +752,11 @@ document.createElement('aside');
             <a name="Website11"></a><b>Hondafinancialservices.com</b>
             <br>
             <p>
-                <b>Email-to-a-friend.</b>If you wish to share information that you view on a page of this Site with a friend, we will email the web page to your friend for you. &nbsp;In order to do so, we will request that you provide us with your name, email address, and your friend's email address. &nbsp;This information is collected and used only in a manner appropriate to fulfill your request. &nbsp;</p>
+                <b>Email-to-a-friend.</b> If you wish to share information that you view on a page of this Site with a friend, we will email the web page to your friend for you. &nbsp;In order to do so, we will request that you provide us with your name, email address, and your friend's email address. &nbsp;This information is collected and used only in a manner appropriate to fulfill your request. &nbsp;</p>
             <p>
-                <b>Apply online for Pre-Approved Credit.</b>If you choose to submit an application to AHFC for pre-approved credit, we will request that you provide personally identifiable information such as name, address, telephone number, social security number, date of birth, employment information, and gross monthly income. &nbsp;This information is collected and is used only in a manner appropriate to process your request for pre-approved credit. &nbsp;For example, we may use this information to investigate your credit, employment, and income to assist in our credit decision-making process. &nbsp;We also encourage you to review the AHFC Financial Privacy Policy below to learn more about our protections and use of your nonpublic personal information (namely, personally identifiable financial information). &nbsp; &nbsp;</p>
+                <b>Apply online for Pre-Approved Credit.</b> If you choose to submit an application to us for pre-approved credit, we will request that you provide personally identifiable information such as name, address, telephone number, social security number, date of birth, employment information, and gross monthly income. &nbsp;This information is collected and is used only in a manner appropriate to process your request for pre-approved credit. &nbsp;For example, we may use this information to investigate your credit, employment, and income to assist in our credit decision-making process. &nbsp;We also encourage you to review the American Honda Finance Corporation&nbsp;Financial Privacy Policy below to learn more about our protections and use of your nonpublic personal information (namely, personally identifiable financial information). &nbsp; &nbsp;</p>
             <p>
-                <b>EasyPay Enrollment.</b>If you are already an AHFC customer, you may decide to enroll in our convenient EasyPay program and authorize AHFC to automatically withdraw scheduled monthly payments from your bank checking or savings account. &nbsp;In order to enroll, we will request that you provide personally identifiable information such as your AHFC account number, the last four digits of your social security number, your bank's name and routing number, and your bank account type (checking or savings) and account number. &nbsp;This information is collected and used in a manner appropriate to process your EasyPay enrollment request. &nbsp; Note that you can also change or update your information by clicking on "Change" button off the EasyPay home page. <b>&nbsp;</b>
-            </p>
+                <b>EasyPay Enrollment.</b> If you are already an AHFC customer, you may decide to enroll in our convenient EasyPay program and authorize AHFC to automatically withdraw scheduled monthly payments from your bank checking or savings account. &nbsp;In order to enroll, we will request that you provide personally identifiable information such as your AHFC account number, the last four digits of your social security number, your bank's name and routing number, and your bank account type (checking or savings) and account number. &nbsp;This information is collected and used in a manner appropriate to process your EasyPay enrollment request. &nbsp; Note that you can also change or update your information by clicking on "Change" button off the EasyPay home page. &nbsp;</p>
             <a href="#top"> BACK TO TOP</a>
             <br>
             <br>
@@ -694,6 +823,23 @@ American Honda Finance Corporation ("AHFC") respects and protects customer priva
             <br>
             <br>
             <br>
+            <a name="Website15"></a><b>greendealer.honda.com</b>
+            <br>
+            <p>
+                <b>Honda Green Dealer</b>
+            </p>
+            <p>
+                <b>Email Newsletters. &nbsp;</b>You may decide that you wish to sign up to receive email newsletters on Honda environmentally responsible products &amp; technology, “green dealer” guideline updates, and/or other site features. In doing so, you will be required to provide your email address and occupation, and asked to submit your first name, last name, country of origin, and organization. Requesting email newsletters and providing your personal information is your choice.</p>
+            <p>
+                <b>Download the “Green Dealer” Guide.</b> &nbsp;You may download the “green dealer” guideline. In doing so, you will be required to provide your email address and occupation, and asked to submit your first name, last name, country of origin, and organization before your download begins. Downloading the “green dealer” guideline and providing your personal information is your choice.</p>
+            <p>
+                <b>Locate a “Green Dealer” &amp; “Green Dealers” by Award Level.</b> &nbsp;Dealerships referenced herein are Honda and Acura dealers, which are independent from American Honda. Visiting these dealers online or in person is your personal choice.</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <a href="#top"> BACK TO TOP</a>
+            <br>
+            <br>
+            <br>
         </td>
     </tr>
     <tr align="CENTER">
@@ -720,55 +866,68 @@ American Honda Finance Corporation ("AHFC") respects and protects customer priva
 
 
 
+
+
+
+
 <div class="UFooterClear">&nbsp;</div>
 <footer id="UFooter">
 <div id="footerColumnVehicles" class="footerCol avenir-med">
     <p>Vehicles</p>
     <ul>
-        <li><a href="/accord/" onclick="GlobalFooterTrackLink(this);">Accord Models</a></li>
-        <li><a href="/civic/" onclick="GlobalFooterTrackLink(this);">Civic Models</a></li>
-        <li><a href="/cr-v/" onclick="GlobalFooterTrackLink(this);">CR-V SUV</a></li>
-        <li><a href="/fit/" onclick="GlobalFooterTrackLink(this);">Fit Hatchback</a></li>
-        <li><a href="/odyssey/" onclick="GlobalFooterTrackLink(this);">Odyssey Minivan</a></li>
-        <li><a href="/pilot/" onclick="GlobalFooterTrackLink(this);">Pilot SUV</a></li>
-        <li><a href="/hr-v/" onclick="GlobalFooterTrackLink(this);">HR-V Crossover</a></li>
-        <li><a href="/cr-z/" onclick="GlobalFooterTrackLink(this);">CR-Z Sport Hybrid</a></li>
-        <li><a href="/crosstour/" onclick="GlobalFooterTrackLink(this);">Crosstour</a></li>
-        <li><a href="/fcx-clarity/" onclick="GlobalFooterTrackLink(this);">FCX Clarity FCEV</a></li>
-        <li><a href="/insight-hybrid/" onclick="GlobalFooterTrackLink(this);">Insight Hybrid</a></li>
-        <li><a href="/ridgeline/" onclick="GlobalFooterTrackLink(this);">Ridgeline Truck</a></li>
-        <li><a href="/certified-used/" onclick="GlobalFooterTrackLink(this);">Honda Certified Pre-Owned Vehicles</a></li>
-        <li><a href="/future-cars/" onclick="GlobalFooterTrackLink(this);">Future Vehicles</a></li>
+        <li><a href="http://automobiles.honda.com/accord/" onclick="GlobalFooterTrackLink(this);">Accord Models</a></li>
+        <li><a href="http://automobiles.honda.com/civic/" onclick="GlobalFooterTrackLink(this);">Civic Models</a></li>
+        <li><a href="http://automobiles.honda.com/cr-v/" onclick="GlobalFooterTrackLink(this);">CR-V SUV</a></li>
+        <li><a href="http://automobiles.honda.com/fit/" onclick="GlobalFooterTrackLink(this);">Fit Hatchback</a></li>
+        <li><a href="http://automobiles.honda.com/odyssey/" onclick="GlobalFooterTrackLink(this);">Odyssey Minivan</a></li>
+        <li><a href="http://automobiles.honda.com/pilot/" onclick="GlobalFooterTrackLink(this);">Pilot SUV</a></li>
+        <li><a href="http://automobiles.honda.com/hr-v/" onclick="GlobalFooterTrackLink(this);">HR-V Crossover</a></li>
+        <li><a href="http://automobiles.honda.com/cr-z/" onclick="GlobalFooterTrackLink(this);">CR-Z Sport Hybrid</a></li>
+        <li><a href="http://automobiles.honda.com/crosstour/" onclick="GlobalFooterTrackLink(this);">Crosstour</a></li>
+        <li><a href="http://automobiles.honda.com/fcx-clarity/" onclick="GlobalFooterTrackLink(this);">FCX Clarity FCEV</a></li>
+        <li><a href="http://automobiles.honda.com/insight-hybrid/" onclick="GlobalFooterTrackLink(this);">Insight Hybrid</a></li>
+        <li><a href="http://automobiles.honda.com/certified-used/" class="wrapped-line" onclick="GlobalFooterTrackLink(this);">Honda Certified Pre-Owned Vehicles</a></li>
+        <li><a href="http://automobiles.honda.com/future-cars/" onclick="GlobalFooterTrackLink(this);">Future Vehicles</a></li>
     </ul>
 </div>
-<div class="footerCol avenir-med">
+<div id="footerColumnShoppingTools" class="footerCol avenir-med">
     <p>Shopping Tools</p>
     <ul>
-        <li><a href="/tools/build-price/" onclick="GlobalFooterTrackLink(this);">Build Your Own</a></li>
-        <li><a href="/tools/dealer-locator/" onclick="GlobalFooterTrackLink(this);">Find a Dealer</a></li>
-        <li><a href="/current-offers.aspx" onclick="GlobalFooterTrackLink(this);">Current Offers</a></li>
-        <li><a href="/tools/monthly-payment-estimator/" onclick="GlobalFooterTrackLink(this);">Estimate Payments</a></li>
-        <li><a href="/tools/request-a-quote/" onclick="GlobalFooterTrackLink(this);">Request a Quote</a></li>
-        <li><a href="/tools/compare/" onclick="GlobalFooterTrackLink(this);">Compare Vehicles</a></li>
+        <li><a href="http://automobiles.honda.com/tools/build-price/" onclick="GlobalFooterTrackLink(this);">Build Your Own</a></li>
+        <li><a href="http://automobiles.honda.com/tools/dealer-locator/" onclick="GlobalFooterTrackLink(this);">Find a Dealer</a></li>
+        <li><a href="http://automobiles.honda.com/current-offers.aspx" onclick="GlobalFooterTrackLink(this);">Current Offers</a></li>
+        <li><a href="http://automobiles.honda.com/tools/monthly-payment-estimator/" onclick="GlobalFooterTrackLink(this);">Estimate Payments</a></li>
+        <li><a href="http://automobiles.honda.com/tools/request-a-quote/" onclick="GlobalFooterTrackLink(this);">Request a Quote</a></li>
+        <li><a href="http://automobiles.honda.com/tools/compare/" onclick="GlobalFooterTrackLink(this);">Compare Vehicles</a></li>
     </ul>
 </div>
-<div class="footerCol avenir-med">
+<div id="footerColumnExplore" class="footerCol avenir-med">
+    <p>Explore</p>
+    <ul>
+        <li><a href="http://automobiles.honda.com/safety/" onclick="GlobalFooterTrackLink(this);">Honda Safety</a></li>
+        <li><a href="http://automobiles.honda.com/sensing/" onclick="GlobalFooterTrackLink(this);">Honda Sensing</a></li>
+        <li><a href="http://automobiles.honda.com/future-cars/" onclick="GlobalFooterTrackLink(this);">Future Vehicles</a></li>
+        <li><a href="http://automobiles.honda.com/alternative-fuel-vehicles/" class="wrapped-line" onclick="GlobalFooterTrackLink(this);">Hybrid &amp; Alternative Fuel Vehicles</a></li>
+    </ul>
+</div>
+<div id="footerColumnOwners" class="footerCol avenir-med">
     <p>Owners</p>
     <ul>
-        <li><a href="/information/owner-resources.aspx" onclick="GlobalFooterTrackLink(this);">Owner Resources</a></li>
+        <li><a href="http://automobiles.honda.com/information/owner-resources.aspx" onclick="GlobalFooterTrackLink(this);">Owner Resources</a></li>
         <li><a href="http://collision.honda.com/locator" onclick="GlobalFooterTrackLink(this);">Bodyshop Locator</a></li>
-        <li><a href="http://estore.honda.com/asp/logon.asp?bhcp=1" onclick="GlobalFooterTrackLink(this);">Parts &amp; Accessories</a></li>
+        <li><a href="http://estore.honda.com/honda/customer-home.asp" onclick="GlobalFooterTrackLink(this);">Parts &amp; Accessories</a></li>
         <li><a href="http://www.hondafinancialservices.com/" onclick="GlobalFooterTrackLink(this);">Pay My Bill</a></li>
         <li><a href="https://radio-navicode.honda.com/" onclick="GlobalFooterTrackLink(this);">Radio or Navi Code</a></li>
-        <li><a href="http://honda.com/recalls/" onclick="GlobalFooterTrackLink(this);">Recalls</a></li>
-        <li><a href="/images/downloads/24-hourroadsideservice.pdf" target="_blank" onclick="GlobalFooterTrackLink(this);">Roadside Assistance</a></li>
-        <li><a href="/information/mobility-assistance.aspx" class="wrapped-line" onclick="GlobalFooterTrackLink(this);">Mobility Assistance Program</a></li>        
+        <li><a href="http://owners.honda.com/service-maintenance/recalls" onclick="GlobalFooterTrackLink(this);"><b>Recalls</b></a></li>
+        <li><a href="http://automobiles.honda.com/images/downloads/24-hourroadsideservice.pdf" target="_blank" onclick="GlobalFooterTrackLink(this);">Roadside Assistance</a></li>
+        <li><a href="http://automobiles.honda.com/information/mobility-assistance.aspx" class="wrapped-line" onclick="GlobalFooterTrackLink(this);">Mobility Assistance Program</a></li>
+        <li><a href="http://hondalink.honda.com" onclick="GlobalFooterTrackLink(this);">HondaLink®</a></li>
     </ul>
 </div>
-<div class="footerCol avenir-med">
+<div id="footerColumnAbout" class="footerCol avenir-med">
     <p>About Honda</p>
     <ul>
-        <li><a href="/news/news.aspx" onclick="GlobalFooterTrackLink(this);">News &amp; Events</a></li>
+        <li><a href="http://automobiles.honda.com/news/news.aspx" onclick="GlobalFooterTrackLink(this);">News &amp; Events</a></li>
         <li><a href="http://corporate.honda.com/careers/" onclick="GlobalFooterTrackLink(this);">Careers</a></li>
         <li><a href="http://asimo.honda.com/" onclick="GlobalFooterTrackLink(this);">ASIMO® Robot</a></li>
         <li><a href="http://world.honda.com/investors/" onclick="GlobalFooterTrackLink(this);">Investor Relations</a></li>
@@ -777,7 +936,7 @@ American Honda Finance Corporation ("AHFC") respects and protects customer priva
         <li><a href="http://world.honda.com/link/" onclick="GlobalFooterTrackLink(this);">Honda Worldwide</a></li>
     </ul>
 </div>
-<div class="footerCol avenir-med">
+<div id="footerColumnProducts" class="footerCol avenir-med">
     <p>All Honda Products</p>
     <ul> 
         <li><a href="http://engines.honda.com" onclick="GlobalFooterTrackLink(this);">Engines</a></li>
@@ -816,11 +975,11 @@ American Honda Finance Corporation ("AHFC") respects and protects customer priva
             <div class="piIcon footerSocialIcon"></div>
             <div class="footerSocialLabel">Pinterest</div>
         </a></li>
-        <li><a href="http://www.linkedin.com/company/american-honda-motor-company-inc." onclick="GlobalFooterTrackLink(this);">
+        <li><a href="http://www.linkedin.com/company/american-honda-motor-company-inc-" onclick="GlobalFooterTrackLink(this);">
             <div class="liIcon footerSocialIcon"></div>
             <div class="footerSocialLabel">LinkedIn</div>
         </a></li>
-        <li><a href="http://www.tumblr.com/tagged/honda" onclick="GlobalFooterTrackLink(this);">
+        <li><a href="http://hondaloves.tumblr.com/" onclick="GlobalFooterTrackLink(this);">
             <div class="tbIcon footerSocialIcon"></div>
             <div class="footerSocialLabel">Tumblr</div>
         </a></li>
@@ -829,27 +988,29 @@ American Honda Finance Corporation ("AHFC") respects and protects customer priva
             <div class="footerSocialLabel">Vine</div>
         </a></li>
     </ul>
-    <a href="/information/e-mail-updates.aspx" onclick="GlobalFooterTrackLink(this);">
-        <div class="emailButton">
+</div>
+<div class="btmDisclaimer">
+    <a href="http://automobiles.honda.com/information/e-mail-updates.aspx" onclick="GlobalFooterTrackLink(this);">
+        <div class="emailButton avenir-med">
             <div class="emIcon footerSocialIcon"></div>
             <div class="footerSocialLabel" style="color:#fff">Email Updates</div>
         </div>
     </a>
-</div>
-<div class="btmDisclaimer">
-    <div class="btmLogo"><a href="/">&nbsp;</a></div>
+    <div class="btmLogo"><a href="http://automobiles.honda.com/">&nbsp;</a></div>
     <div class="footer-nav">
         <ul class="avenir-med">
-            <li><a href="/information/customer-relations.aspx">Customer Service</a></li>
-            <li><a href="/information/frequently-asked-questions.aspx">FAQs</a></li>
-            <li><a href="/information/consumer-privacy-policy.aspx">Privacy Policy</a></li>
-            <li><a href="/information/legal-terms.aspx">Terms of Use</a></li>
-            <li><a href="/site-map.aspx">Site Map</a></li>
+            <li><a href="http://automobiles.honda.com/information/customer-relations.aspx">Customer Service</a></li>
+            <li><a href="http://automobiles.honda.com/information/frequently-asked-questions.aspx">FAQs</a></li>
+            <li><a href="http://automobiles.honda.com/information/consumer-privacy-policy.aspx">Privacy Policy</a></li>
+            <li><a href="http://automobiles.honda.com/information/legal-terms.aspx">Terms of Use</a></li>
+            <li><a href="http://automobiles.honda.com/site-map.aspx">Site Map</a></li>
         </ul>
     </div>
-    <p>©2014 <a href="http://www.honda.com">American Honda Motor Co., Inc.</a> All information contained herein applies to U.S. vehicles only. Please see our <a href="/information/consumer-privacy-policy.aspx">Privacy Policy</a> and <a href="/information/legal-terms.aspx">Legal Terms and Conditions</a>.<br>For non-U.S.-distributor information go to <a href="http://world.honda.com/link/">world.honda.com</a>. Mobile users, please visit our <a href="/mobile/">Mobile Site</a>.</p>
+    <p>©2015 <a href="http://www.honda.com">American Honda Motor Co., Inc.</a> All information contained herein applies to U.S. vehicles only. Please see our <a href="http://automobiles.honda.com/information/consumer-privacy-policy.aspx">Privacy Policy</a> and <a href="http://automobiles.honda.com/information/legal-terms.aspx">Legal Terms and Conditions</a>.<br>For non-U.S.-distributor information go to <a href="http://world.honda.com/link/">world.honda.com</a>. Mobile users, please visit our <a href="http://automobiles.honda.com/mobile/">Mobile Site</a>.</p>
 </div>
 </footer>
+
+
 
 
 <script>
@@ -892,6 +1053,134 @@ American Honda Finance Corporation ("AHFC") respects and protects customer priva
 </script>
 
 
+
+
+<script type="text/javascript">
+var languageToggle = (function() {
+
+
+    return {
+
+    showToggle: function(thisPage, bPageIsSpanish, sSpanishLiveDomain, sEnglishDomain) {
+
+
+
+            // Turn on appropriate toggle and set href of toggle to equivalent version of this page in the other language
+            if (document.getElementById('globalLanguageToggle')) {
+                // Global Language Toggle
+
+                document.getElementById('UHeader').className = document.getElementById('UHeader').className + ' languageToggle';
+
+                var aParts = thisPage.split('/');
+
+                if (bPageIsSpanish) {
+                    // If page is in Spanish, turn on English toggle and set href to English equivalent
+                    aParts[2] = sEnglishDomain;
+                    var altPage = aParts.join('/');
+                    document.getElementById('globalLanguageToggle_English').className = document.getElementById('globalLanguageToggle_English').className + ' active';
+                    document.getElementById('globalLanguageToggleLink_English').href = altPage;
+                } else {
+                    // If page is in English, turn on Spanish toggle and set href to Spanish equivalent
+                    aParts[2] = sSpanishLiveDomain;
+                    var altPage = aParts.join('/');
+                    document.getElementById('globalLanguageToggle_Spanish').className = document.getElementById('globalLanguageToggle_Spanish').className + ' active';
+                    document.getElementById('globalLanguageToggleLink_Spanish').href = altPage;
+                }
+
+
+
+            } else if (document.getElementById('languageToggle')) {
+                // MY15 Model Pages - Will not be used after Global Language Toggle launches
+
+                document.getElementById('languageToggle').style.display = 'block';
+
+                var aParts = thisPage.split('/');
+
+                if (bPageIsSpanish) {
+                    // If page is in Spanish, turn on English toggle and set href to English equivalent
+                    aParts[2] = sEnglishDomain;
+                    var altPage = aParts.join('/');
+                    document.getElementById('languageToggleSpanish').style.display = 'block';
+                    document.getElementById('languageToggleSpanishLink').href = altPage;
+                } else {
+                    // If page is in English, turn on Spanish toggle and set href to Spanish equivalent
+                    aParts[2] = sSpanishLiveDomain;
+                    var altPage = aParts.join('/');
+                    document.getElementById('languageToggleEnglish').style.display = 'block';
+                    document.getElementById('languageToggleEnglishLink').href = altPage;
+                }
+
+
+            } else if (document.getElementById('m-modelnav-main-menu')) {
+                // MY16 Model Pages - Will not be used after Global Language Toggle launches
+
+
+                document.getElementById('m-modelnav-main-menu').className = document.getElementById('m-modelnav-main-menu').className + ' languageToggle';
+
+                document.getElementById('languageToggleEnglish').style.display = 'block';
+                document.getElementById('languageToggleSpanish').style.display = 'block';
+
+
+                var aParts = thisPage.split('/');
+
+                if (bPageIsSpanish) {
+                    // If page is in Spanish, turn on English toggle.
+                    document.getElementById('languageToggleSpanish').className = document.getElementById('languageToggleSpanish').className + ' active';
+                } else {
+                    // If page is in English, turn on Spanish toggle.
+                    document.getElementById('languageToggleEnglish').className = document.getElementById('languageToggleEnglish').className + ' active';
+                }
+
+                // Set href to English equivalent
+                aParts[2] = sEnglishDomain;
+                var altPage = aParts.join('/');
+                document.getElementById('languageToggleEnglishLink').href = altPage;
+
+                // Set href to Spanish equivalent
+                aParts[2] = sSpanishLiveDomain;
+                var altPage = aParts.join('/');
+                document.getElementById('languageToggleSpanishLink').href = altPage;
+
+
+            } else if (document.getElementById('menuLanguageToggleEnglish')) {
+                // HCPV Pages - Will not be used after Global Language Toggle launches
+
+
+                // Turn on appropriate toggle and set href of toggle to equivalent version of this page in the other language
+                document.getElementById('menuLanguageToggleEnglish').style.visibility = 'visible';
+                document.getElementById('menuLanguageToggleSpanish').style.visibility = 'visible';
+
+
+                var aParts = thisPage.split('/');
+
+                if (bPageIsSpanish) {
+                    // If page is in Spanish, turn on English toggle and set href to English equivalent
+                    aParts[2] = sEnglishDomain;
+                    var altPage = aParts.join('/');
+                    document.getElementById('menuLanguageToggleSpanish').className = document.getElementById('menuLanguageToggleSpanish').className + ' active';
+                    document.getElementById('menuLanguageToggleEnglishLink').href = altPage;
+                } else {
+                    // If page is in English, turn on Spanish toggle and set href to Spanish equivalent
+                    aParts[2] = sSpanishLiveDomain;
+                    var altPage = aParts.join('/');
+                    document.getElementById('menuLanguageToggleEnglish').className = document.getElementById('menuLanguageToggleEnglish').className + ' active';
+                    document.getElementById('menuLanguageToggleSpanishLink').href = altPage;
+                }
+
+
+            }
+
+
+
+
+        }
+
+
+    }
+
+})();
+</script>
+<script type="text/javascript" src="//es.automobiles.honda.com/_onelink_/honda/en2es/desktop-spanish-toggle.js" defer=""></script>
         </div>
         <div id="PageRightColumn"><img src="/images/_controls/global-header/background-header-right.png" width="20" height="51"></div>
     </div>
@@ -942,6 +1231,8 @@ var s_account = 'ahmautomobilesprod';
     }
     
     function CallSDotT(s) {
+    
+        s.prop47 = 'ENGLISH';
     
         // Nothing should call s.t() directly. Everything should go through this function.
 
@@ -1042,7 +1333,7 @@ var s_account = 'ahmautomobilesprod';
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
 s.linkInternalFilters="javascript:,rpa.com,honda.com,redesign.automobiles.honda.com,automobiles.honda.com"
-s.servers='10.100.71.109';
+s.servers='10.100.71.108';
 
 var CurrentPageName='Privacy Policy';
 if(CurrentPageName=='')CurrentPageName="Honda Automobiles - " + document.location.href;
@@ -1131,7 +1422,7 @@ try {
 
 <script language="JavaScript" type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><img src="http://honda.112.2o7.net/b/ss/ahmautomobilesprod/5/H.22.1--NS/0?pageName=PRIVACY POLICY - NON-JS&c12=NON-JS" height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+//--></script><noscript><img src="//honda.112.2o7.net/b/ss/ahmautomobilesprod/5/H.22.1--NS/0?pageName=PRIVACY POLICY - NON-JS&c12=NON-JS" height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.22.1 -->
 
 
@@ -1278,8 +1569,29 @@ if(window.onload){
 
 
 }else{
-    var TrackingOnLoadFunction=new Function("AddTrackingTagsToPage(sTrackingTagsPageURL)");
-    window.onload=TrackingOnLoadFunction;
+    
+    // No window.onload; Load tags with a slight delay
+    (function() {
+
+        function atttpfunc() {
+            setTimeout(function() {
+                AddTrackingTagsToPage(sTrackingTagsPageURL);
+            } , 1500);
+        }
+
+        if (window.addEventListener) {
+            window.addEventListener("load", atttpfunc, false);
+        } else if (window.attachEvent) {
+            window.attachEvent("onload", atttpfunc);
+        } else {
+            window.onload = atttpfunc;
+        }
+    
+    })();
+    
+    
+
+
 }
 </script>
 
@@ -1293,79 +1605,6 @@ if(window.onload){
 
 
 
-
-<!-- Begin Visual IQ Tags -->
-<script type="text/javascript" src="/js/IQ-SEOTag.js"></script>
-<script type="text/javascript">
-
-(function (){
-
-    var CURRENT_URL=document.URL;
-    var REFERRER_URL=document.referrer;
-    var additionalParameters={
-		     CUSTOM_ACCESS_MODES_BY_REFERRER:{
-	        	        	    SOCIAL:["facebook.com","twitter.com","plus.google.com","pinterest.com","instagram.com"]
-	        	        }
-	    }
-
-    var result =new IQSeoTag(REFERRER_URL,CURRENT_URL,null,additionalParameters);
-    var currentParams="false";
-    if(result.current_page_params && result.current_page_params.queryKey){
-
-
-			    for(key in result.current_page_params.queryKey){
-			    currentParams="true";		
-				    if(key.toLowerCase() != key){
-					    result.current_page_params.queryKey[key.toLowerCase()] = result.current_page_params.queryKey[key];
-					    delete result.current_page_params.queryKey[key];
-				    }
-			    }
-		    }
-    		
-    var imageURL;
-
-    if(result.modeOfAccess == "ORGANIC") {
-	    if(result.current_page_params.queryKey["kwid"] || CURRENT_URL.indexOf("kwid")>0 || CURRENT_URL.indexOf("KWID")>0){
-
-	    }else{
-		    imageURL = "http://ad.doubleclick.net/ad/N8821.547841.VISUALIQ.COM/B7809882.2;sz=1x1;u=" + result.source + "-" + result.query + "-" + result.current_page_params.query + "|" + REFERRER_URL + ";ord=[" + result.timestamp + "]?";
-	    }
-    	
-    }else if(result.modeOfAccess == "SOCIAL"){
-
-	    if(currentParams == "false"){
-    	
-		    imageURL = "http://ad.doubleclick.net/ad/N8821.547841.VISUALIQ.COM/B7809882;sz=1x1;u=" + result.current_page_params.query + "|" + REFERRER_URL + ";ord=[" + result.timestamp + "]?";
-	    }
-    }
-
-
-    if(result.current_page_params.queryKey["sp_mid"]){
-	       imageURL = "http://ad.doubleclick.net/ad/N8821.547841.VISUALIQ.COM/B7809882.4;sz=1x1;u=" + result.current_page_params.query + "|" + REFERRER_URL + ";ord=[" + result.timestamp + "]?";
-    }
-
-
-    if(CURRENT_URL.indexOf("kwid")>0 || CURRENT_URL.indexOf("KWID")>0){
-    	
-	    var params=CURRENT_URL.split("?");
-						    imageURL = "http://ad.doubleclick.net/ad/N8821.547841.VISUALIQ.COM/B7809882.3;sz=1x1;u=" + result.source + "-" + result.query + "-" + params[1] + "|" + REFERRER_URL + ";ord=[" + result.timestamp + "]?";
-    		
-	    }
-
-    if(REFERRER_URL.indexOf("youtube")>0){
-    if(currentParams == "false"){
-    		
-		    imageURL = "http://ad.doubleclick.net/ad/N8821.547841.VISUALIQ.COM/B7809882;sz=1x1;u=" + result.current_page_params.query + "|" + REFERRER_URL + ";ord=[" + result.timestamp + "]?";
-	    }
-    }
-    if (imageURL) {
-	    var image = new Image();
-	    image.src = imageURL;
-    }
-    
-}());
-</script>
-<!-- End Visual IQ Tags -->
 
 
 
@@ -1401,7 +1640,71 @@ var google_remarketing_only = true;
 
 
 
-</div>
+<script type="text/javascript">
+    // Load AnswerLab survey
+    (function () {
+
+        var node = document.createElement('div');
+        node.innerHTML = '<!--DO NOT REMOVE-CONTENTS PLACED HERE-->';
+        node.id = 'ZN_9tnY8luse16pxEV';
+        document.body.appendChild(node);
 
 
-</body></html>
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0); ) d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c } return !0 };
+                this.go = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g + "&t=" + (new Date()).getTime(); document.body && document.body.appendChild(a) } };
+                this.start = function () { var a = this; window.addEventListener ? window.addEventListener("load", function () { a.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { a.go() }) }
+            };
+            try { (new g(100, "r", "QSI_S_ZN_9tnY8luse16pxEV", "//zn9tny8luse16pxev-answerlab.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_9tnY8luse16pxEV&Q_LOC=" + encodeURIComponent(window.location.href))).start() } catch (i) { }
+        })();
+
+    })();
+
+
+</script>
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    // Load LinkedIn tag
+    (function () {
+
+        function tempFunc() {
+            setTimeout(function () {
+                _bizo_data_partner_id = "7708";
+                var s = document.getElementsByTagName("script")[0];
+                var b = document.createElement("script");
+                b.type = "text/javascript";
+                b.async = true;
+                b.src = (window.location.protocol === "https:" ? "https://sjs" : "http://js") + ".bizographics.com/insight.min.js";
+                s.parentNode.insertBefore(b, s);
+            }, 1000);
+        }
+
+        if (window.addEventListener) {
+            window.addEventListener("load", tempFunc, false);
+        } else if (window.attachEvent) {
+            window.attachEvent("onload", tempFunc);
+        }
+
+    })();
+</script>
+
+
+
+
+
+</div><div id="ZN_9tnY8luse16pxEV"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+
+
+<script type="text/javascript" src="//zn9tny8luse16pxev-answerlab.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_9tnY8luse16pxEV&amp;Q_LOC=https%3A%2F%2Fweb.archive.org%2Fweb%2F20151122073604id_%2Fhttp%253A%2F%2Fautomobiles.honda.com%2Finformation%2Fconsumer-privacy-policy.aspx&amp;t=1580456881735"></script></body></html>
