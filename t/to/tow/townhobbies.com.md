@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the townhobbies.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508225845id_/http%3A//www.townhobbies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the townhobbies.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122012537id_/http%3A//www.townhobbies.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy ‹ TownHobbies
+# Privacy Policy | TownHobbies
 
 This Privacy Policy is in application to TownHobbies. This would impart how TownHobbies collects uses and shares the information from or regarding you as you visit a site, gives information on how advertisements are done, both on TownHobbies and other websites, and how information is collected based on interactions with the online ads. In addition to the Notice, depending on the relationship with TownHobbies, you may receive and be under the coverage of TownHobbies, other privacy disclosures within account opening documents and other privacy and security rules as applicable to the relevant affiliate.
 
