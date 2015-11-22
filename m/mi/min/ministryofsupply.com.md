@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ministryofsupply.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503054503id_/http%3A//ministryofsupply.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ministryofsupply.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122072809id_/http%3A//ministryofsupply.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-## Privacy Policy
+# MINISTRY OF SUPPLY — Privacy Policy
 
 Thank you for visiting our Website www.ministryofsupply.com (the “Site”). The Site is operated by Ministry of Supply (collectively, “Ministry of Supply,” “we,” or “us”). Ministry of Supply is serious about protecting your privacy. We understand your concerns with regard to how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This policy (this “Privacy Policy”) describes what information we collect about you, how we collect it, how we use it, with whom we may share it, and what choices you have regarding it. This Privacy Policy is incorporated into and is a part of the ministryofsupply.com Terms of Use. By accessing and using the Site, you agree that you have read and understand this Privacy Policy, and you accept and consent to the privacy practices (and any uses and disclosures of information about you) that are described in this Privacy Policy.
 
@@ -10,26 +8,23 @@ Thank you for visiting our Website www.ministryofsupply.com (the “Site”). Th
 
 In order to use the Site to learn about our company and its products and to purchase and return our products, you will need to create an account. When you register for an account, we collect personally identifiable information about you (“Personal Information”), which may include, but is not limited to, your:
 
-  * name
+• name
 
-  * email address
+• email address
 
-  * credit card information
+• credit card information
 
-  * business address
+• business address
 
-  * telephone number
+• telephone number
 
-  * shipping address
+• shipping address
 
-  * billing address
-
-
-
+• billing address
 
 You may choose not to provide your Personal Information; however, creating an account is a prerequisite for using the full functions of the Site and if you do not provide your Personal Information you may not be able to use the Site.
 
-We also provide an email forwarding service that enables you to invite friends to visit the Site. These messages are sent in your name, with your email address as the return address and your full name and contact information is provided as part of the submission. These messages will only be sent at your request. ****
+We also provide an email forwarding service that enables you to invite friends to visit the Site. These messages are sent in your name, with your email address as the return address and your full name and contact information is provided as part of the submission. These messages will only be sent at your request.
 
 As with many other Web sites, the Web servers used to operate the Site may collect certain data pertaining to you and the equipment and communications method that you use to access the Internet and the Site. For security reasons and to confirm the integrity of our data, we may combine components of this data with other sources of information which may identify you. Unless otherwise described in this Privacy Policy or our Terms of Use, such identifying information will be used for our internal business purposes. In addition, the information we collect may reveal such things as the Internet protocol (“IP”) address assigned to your computer, specific pages that you accessed on the Site or immediately prior to visiting the Site, and the length of time you spent at the Site. The purposes for which this information is collected and used include facilitating Site operation and system administration, generating aggregate, non-identifiable statistical information, monitoring and analyzing Site traffic and usage patterns, and improving the content and content delivery with regard to the Site and the online media, content, materials, opportunities and services that we describe or make available on the Site. Like many other Web sites, our Site may at any time, in our discretion, use “cookies” or other tracking mechanisms to help us recognize visitors when they return to the Site or as they move among the different portions of the Site or to collect personal or individually identifiable information. Collectively, the type of information described in this paragraph is referred to as “Usage Data” and together with your Personal Information, as “Collected Information.”
 
