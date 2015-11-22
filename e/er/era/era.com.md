@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the era.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609223925id_/http%3A//era.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the era.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122155812id_/http%3A//era.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ERA Real Estate
 
@@ -41,6 +41,9 @@ If you choose to send a listing to a friend, you will be asked to provide the fr
 
 **Employment Inquiry**  
 If you are seeking employment, you will be asked to provide Personal Information about yourself. We refer this information to Franchisees in the geographic area in which you live. If you have sought employment at our company headquarters, the information is forwarded to our Corporate Human Resources Department.
+
+ **Additional Uses**  
+We may also use the Personal Information to inform you about other services and products that may be available through us, our family of companies, our franchisees and/or companies with which we have a marketing relationship, and to provide you a customer survey to assess your satisfaction with our services and products.
 
 #### 2(b). Non-Personal Information
 
