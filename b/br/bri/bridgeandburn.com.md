@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bridgeandburn.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410103854id_/http%3A//www.bridgeandburn.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgeandburn.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122034014id_/http%3A//www.bridgeandburn.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Bridge & Burn - Portland, Oregon
+# Privacy Policy – Bridge & Burn
 
 ## Online Ordering is Secure
 
