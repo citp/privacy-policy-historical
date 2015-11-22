@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the person.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618023256id_/http%3A//person.com/faq.phtml%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the person.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122081655id_/http%3A//person.com/faq.phtml%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
