@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogeared.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513040027id_/http%3A//www.dogeared.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogeared.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122164030id_/http%3A//www.dogeared.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Dogeared
 
