@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the partypoker.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519065102id_/http%3A//www.partypoker.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partypoker.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122232255id_/https%3A//www.partypoker.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | partypoker.com
+# Privacy Policy | partypoker
 
 **1\. PRIVACY**
 
@@ -20,11 +20,11 @@ We may automatically collect certain data as discussed above and receive Persona
 
 **4\. INFORMATION USE**
 
-We use the Personal Information We collect from You to deliver Our Services, to provide customer support, to undertake necessary security and identify verification checks, to process any of Your online transactions, to post in-game activity to Your newsfeed and share content with other players which may lead to Loyalty Points, Points or Rewards (such activity can be controlled in Your privacy settings), to assist Your participation in third-party promotions, meet certain business requirements and for any other purpose related to the operation of the Services. As such, We may share Your Personal Information with Our carefully selected partners (which will include any other parties which such partners have entered into data sharing arrangements with). Your Personal Information may also be used by Us to provide You with: (a) promotional offers and information regarding Our products and services; and (b) promotional offers and information regarding the products and services of Our carefully selected partners, in order to better provide You with a range of products and services and improved customer service. From time-to-time, We may request information from You via surveys or contests. Participation in these surveys or contests is completely voluntary, and, therefore, You have the choice of whether or not to disclose such information. Information requested may include contact information (such as name, correspondence address and telephone number), and demographic information (such as zip or postal code or age). By accepting any contest prize or winnings from Us, You consent to use of Your name and likeness for advertising and promotional purposes without additional compensation, except where prohibited by law. Unless You have elected not to receive promotional information, We may also use Your Personal Information (including Your email address and phone number) to provide You with information regarding Our products, services and promotions, including other gaming products (including online poker, casino, betting, games) and products and services from third parties carefully selected by Us.
+We use the Personal Information We collect from You to deliver Our Services, to provide customer support, to undertake necessary security and identify verification checks, to process any of Your online transactions, to post in-game activity to Your newsfeed and share content with other players which may lead to Loyalty Points, Points or Rewards (such activity can be controlled in Your privacy settings), to assist Your participation in third-party promotions, meet certain business requirements and for any other purpose related to the operation of the Services. As such, We may share Your Personal Information with Our carefully selected partners (which will include any other parties which such partners have entered into data sharing arrangements with). Your Personal Information may also be used by Us to provide You with: (a) promotional offers and information regarding Our products and services; and (b) promotional offers and information regarding the products and services of Our carefully selected partners, in order to better provide You with a range of products and services and improved customer service. You consent to Us notifying other users of Our site who have an Account and who have Your email address saved in their contacts list in their own email account, that the email address has already been registered to an Account. From time-to-time, We may request information from You via surveys or contests. Participation in these surveys or contests is completely voluntary, and, therefore, You have the choice of whether or not to disclose such information. Information requested may include contact information (such as name, correspondence address and telephone number), and demographic information (such as zip or postal code or age). By accepting any contest prize or winnings from Us, You consent to use of Your name and likeness for advertising and promotional purposes without additional compensation, except where prohibited by law. Unless You have elected not to receive promotional information, We may also use Your Personal Information (including Your email address and phone number) to provide You with information regarding Our products, services and promotions, including other gaming products (including online poker, casino, betting, games) and products and services from third parties carefully selected by Us.
 
 **5\. CERTAIN EXCLUDED DISCLOSURES**
 
-We may disclose Your Personal Information if required to do so by law, or if We believe in good faith that such action is necessary to: (1) comply with any legal process served on Us, any of Our sites or the Services or in circumstances where We are under a substantially similar legal obligation; (2) protect and defend Our rights or property; or (3) act to protect the personal safety of users of the Services or the public. If, in Our sole determination, You are found to have cheated or attempted to defraud Us, the Group, or any other user of the Services in any way including but not limited to game manipulation or payment fraud, or if We suspect You of fraudulent payment, including use of stolen credit cards, or any other fraudulent activity (including any chargeback or other reversal of a payment) or prohibited transaction (including money laundering), We reserve the right to share this information (together with Your identity) with other online gaming sites, banks, credit card companies, for the purpose of research on the prevention of addiction, data can be made anonymous and passed on to the respective institutions and appropriate agencies.
+We may disclose Your Personal Information if required to do so by law, or if We believe in good faith that such action is necessary to: (1) comply with any legal process served on Us, any of Our sites or the Services or in circumstances where We are under a substantially similar legal obligation; (2) protect and defend Our rights or property; or (3) act to protect the personal safety of users of the Services or the public. If, in Our sole determination, You are found to have cheated or attempted to defraud Us, the Group, or any other user of the Services in any way including but not limited to game manipulation or payment fraud, or if We suspect You of fraudulent payment, including use of stolen credit cards, or any other fraudulent activity (including any chargeback or other reversal of a payment) or prohibited transaction (including money laundering), We reserve the right to share this information (together with Your identity) with other online gaming sites, banks, credit card companies and appropriate agencies, for the purpose of research on the prevention of addiction, data can be made anonymous and passed on to the respective institutions.
 
 **6\. ACCESS**
 
@@ -32,159 +32,141 @@ You may 'opt out' of receiving any promotional communications either by choosing
 
 **7.1.** **Information placed on your device**
 
-We may store some information on your computer, laptop, tablet or mobile device when you look at our sites, mobile sites or mobile apps. We use cookies, which are small text files that are stored on your computer or equipment when you visit certain online pages that record your preferences. We also use Local Shared Objects or 'flash cookies'. 'Flash cookies' are similar to browser cookies. They allow us to remember things about your visits across our sites but cannot access or use other information on your computer. We do not use flash cookies to remember or use directly identifying personal information about you such as your name or email address. We only use flash cookies across our own sites and no others. We use cookies and flash cookies to track use of Our sites. We also may use cookies and third party cookies to monitor traffic to the site, improve the Services and make it easier and/or more relevant for your use. We use flash cookies and third party cookies to help us to show you advertisements which are relevant to your interests based on your use of Our sites.
+We may store some information on Your computer, laptop, tablet or mobile device when You look at our sites, mobile sites or mobile apps. We use cookies, which are small text files that are stored on your computer or equipment when You visit certain online pages that record Your preferences. We also use Local Shared Objects or ' **flash cookies** '. 'Flash cookies' are similar to browser cookies. They allow us to remember things about Your visits across our sites but cannot access or use other information onYour computer. We do not use flash cookies to remember or use directly identifying personal information about You such as Your name or email address. We only use flash cookies across Our own sites and no others. We use cookies and flash cookies to track use of Our sites. We also may use cookies and third party cookies to monitor traffic to the site, improve the Services and make it easier and/or more relevant for your use. We use flash cookies and third party cookies to help us to show You advertisements which are relevant to Your interests based on Your use of Our sites.
 
-**7.2. List of the main bwin.party cookies**
+**7.2. When do we use cookies?**
 
-You can find more information about the individual cookies we may use and the purposes for which we use them in the table below
+**7.2.1 During the registration process  
+**
 
-**STRICTLY NECESSARY COOKIES**  
-
-
-Strictly necessary cookies are essential to allow a user move around a website and use its features, such as accessing secure areas of the website, or shopping basket. Without these cookies, we would not be able to make our websites work efficiently.
-
-COOKIE NAME | PURPOSE  
----|---  
-WMID  
-PPWMID  
-PCWMID | Webmaster ID - These cookies show us how you found our Site and which website you came from. This helps us know which of our online marketing channels is most effective. They allow us to reward some external websites and affiliates for directing you to us.  
-SITE_PARAMS | This cookie stores all arguments and their values passed in the query string of the url (after question mark).  
-TDSET  
-TDPEH  
-TDUID_VALUE | These cookies are used in conjunction with the WMID cookie to determine the source of website traffic.  
-  
-**3rd Party Cookies:** With a 3rd Party cookie the tracking cookie is set and recorded by a 3rd Party  
-
-
-COOKIE NAME | PURPOSE  
----|---  
-JSESSIONID | This cookie is a unique identifier that is generated and sent from our webserver to identify the current interaction session. This cookie is strictly necessary in order to provide our Services to you as it's specific to our webserver setup.  
-  
-Performance cookies allow us to collect information about website usage. These cookies collect anonymous information that doesn't identify a visitor. The information collected is used to improve how our websites work and how we can improve it. For example, 
-
-  * Web Analytics;
-  * Ad response rates;
-  * Error Management
-  * Testing Designs
+  * These cookies will hold information collected during Your registration and will allow Us to recognise You as a customer and provide You with the services You require. We may also use this data to better understand Your interests while online and to enhance Your visits to Our Platforms.  
 
 
 
-COOKIE NAME | PURPOSE  
----|---  
-mmcore.* | Maxymiser cookies are used for A/B and Multi Variant Testing (MVT) in order to optimize your experience on our Sites. MVT allows us to show different website content to different users in order to provide a tailored user experience.
 
-**Policy/How to reject or delete this cookie**  
-<http://www.maxymiser.com/company/privacy>  
-  
-Functionality cookies allow a website to remember choices a user makes (username, language or location) and it allows the website to provide a more enhanced service.  The information these cookies collect may be anonymised and cannot track individual browsing activity.  For example, 
-
-  * Remembering user settings;
-  * Detecting that a service has already been offered;
-  * Fulfilling a user request
+  * For visitors to Our website, We use cookies to collect information. Our servers use three different types of cookies:
+  * A 'session-based' cookie: This type of cookie is only allocated to Your computer for the duration of Your visit to Our website. A session-based cookie helps You move around Our website faster and, if You're a registered customer, it allows Us to give You information that is more relevant to You. This cookie automatically expires when You close Your browser.
+  * A 'persistent' cookie: This type of cookie will remain on Your computer for a period of time set for each cookie. Flash cookies are also persistent.
+  * 'Analytical' cookies allow us to recognise and count the number of visitors and to see how visitors move around the site when they are using it. This helps Us to improve the way our sites works, for example, by ensuring You can what You are looking for easily.
 
 
-
-COOKIE NAME | PURPOSE  
----|---  
-CCID | This cookie records the country you are visiting from based on your IP address. It is used for geographic specific content and allows webpages to present content specific to your location.  
-RetUser | This cookie is used to recognise and store if you are visiting our Site (including all language versions) for the first time.  
-DomRetUser | This cookie is used to recognise and store if you are visiting our Site for the first time and to store the language version of our Site selected by you.  
-sifrFetch | This cookie is used to improve your browsing experience by improving Site performance. The cookie is set when normal (html) text is replaced with a 'fancy' representation. Prevents the font replacement script from checking if 'fancy' fonts are already in place which could slow down your browser.  
-LANGREDIR | This cookie is used to improve user experience by redirecting you to the same language version that corresponds to your browser language. This cookie can be overwritten by selecting a different language version.  
-PPLCID, LCID | Is a unique identifier which is used to remember your language selection based on the language dropdown box. This cookie overwrites the LANGREDIR cookie as your preferred website language.  
-TournamentFilter | This cookie is used to store your selected filtered poker tournament schedule when returning to a Site. The purpose of this cookie is to improve user experience.  
-mobhpvisit | This cookie is used to improve website performance while browsing through a website or mobile device. This cookie is set to avoid unnecessary action on non-mobile devices.  
-GlossaryHintState | This cookie is used to improve user experience by storing the on/off functionality selected by you, which highlights the 'How to Play' Glossary section on PartyPoker.com  
-  
-**3rd Party Cookies:** With a 3rd Party cookie the tracking cookie is set and recorded by a 3rd Party  
-
-
-Analytical cookies recognise and count the number of users and to see how visitors move around the site when they are using it.
-
-COOKIE NAME | PURPOSE  
----|---  
-nifpvis  
-MMoveDet | Netinsight tracking provide us with analytical information about visitors to our Sites which includes mouse clicks and mouse movements.  
-WRUID   
-WRIgnore | ClickTale provide us with analytical information about visitors to our Sites which may include mouse clicks, mouse movements, scrolling activity. 
-
-**Policy/How to reject or delete this cookie**  
-<http://www.clicktale.com/privacy>  
-  
-**3rd Party Cookies:** With a 3rd Party cookie the tracking cookie is set and recorded by a 3rd Party  
-
-
-**TARGETING & ADVERTISING COOKIES**  
-
-
-These cookies are used to collect information about users, in order to deliver adverts relevant to that person. They remember that a user has visited a website and this information is shared with third parties. These cookies deliver adverts and content that is specific to a user based on information that has been stored about that user.
-
-**3rd Party Cookies:** With a 3rd Party cookie the tracking cookie is set and recorded by a 3rd Party  
-
-
-COOKIE NAME | PURPOSE  
----|---  
-ZEDOIDA   
-ZEDOIDX  
-ZCBC  
-FFgeo  
-FFMChanCap  
-FFcat  
-FFad | ZEDO uses cookies to enhance users' web experience by preventing users from seeing the same internet advert over and over again. ZEDO does not use cookies to personally identify you in any way, and these cookies cannot damage your system or files. 
-
-**Policy**  
-<http://www.zedo.com/company/privacy.htm>
-
-**How to reject or delete these cookies**  
-<http://www.networkadvertising.org/managing/opt_out.asp>  
-Zedo 3rd party cookies, between 10-100 cookies  
-  
-**7.3. When do We use cookies?**
-
-**7.3.1. During the registration process**  
-
-
-These cookies will hold information collected during Your registration and will allow Us to recognise You as a customer and provide You with the services You require. We may also use this data to better understand Your interests while online and to enhance Your visits to Our Platforms.
-
-**7.3.2. On Our website**  
-
-
-For visitors to Our website, We use cookies to collect information. Our servers use two different types of cookies:  
-
-
-A 'session-based' cookie: This type of cookie is only allocated to Your computer for the duration of Your visit to Our website. A session-based cookie helps You move around Our website faster and, if You're a registered customer, it allows Us to give You information that is more relevant to You. This cookie automatically expires when You close Your browser.  
-
-
-A 'persistent' cookie: This type of cookie will remain on Your computer for a period of time set for each cookie. Flash cookies are also persistent.  
-
-
-'Analytical' cookies allow us to recognise and count the number of visitors and to see how visitors move around the site when they are using it. This helps Us to improve the way our sites works, for example, by ensuring You can what You are looking for easily.
-
-**7.4. Cookies allow Us to:**
 
   * Better understand Your preferences and offer You more relevant promotional offers. 
-  * Distinguish You from other users of our sites, which help Us to provide You with a good experience when You browse our sites and also allows Us to improve our sites 
+  * Distinguish You from other users of our sites, which help Us to provide You with a good experience when You browse our sites and also allows Us to improve our sites.
   * Identify Your preferences when customizing content or functionality for You. 
   * Confirm You are a registered user and save Your log-in details when accessing certain Services on Our website. 
-  * Show you advertisements which are relevant to your interests based on your use of Our sites
+  * Show you advertisements which are relevant to your interests based on your use of Our sites.
   * Collect statistics on the use of Our Services. 
   * We may also use cookies and web beacons to ensure that Our mailing tools are working properly. 
 
 
 
-**7.5. How can I refuse or opt out of cookies?**
+**7.4 Types of cookies and their purposes  
+**
 
-**7.5.1.** **Cookies**  
-You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but, if You prefer, You can usually modify Your browser setting to decline cookies. The Help menu on the menu bar of most browsers will tell You how to prevent Your browser from accepting new cookies, how to have the browser notify You when You receive a new cookie and how to disable cookies altogether.
+We use cookies to collect information from visitors to Our website. Our servers use two different types of cookies: ****
 
-**7.5.2.** **Flash cookies**  
-You can modify your Flash Player settings to prevent the use of flash cookies. The Settings Manager of your Flash Player allows you manage your preferences. To disallow flash cookies from all third party content go to the 'Global Storage Settings' panel of the Settings Manager and de-select the check box labelled 'Allow third party flash content to store information on your computer' and close the Settings Manager. Alternatively you can also adjust your settings for specific websites you visit through the 'Website Storage Settings' panel which is also found in the Settings Manager.
+ **
 
-If you are using an old version of Flash Player or older web browser, the Settings Manager may not be available to you. We recommend that you ensure that you refresh your Flash Player and browser to the latest available versions.
+Session cookies: this type of cookie is only assigned to Your computer for the duration of Your visit to Our website. A session cookie helps You to move around Our website more quickly and, if You are already a registered customer, it allows Us to provide You with the information that is most relevant to You. This cookie automatically expires when You close the browser. ****
+
+ **
+
+**Persistent cookies:** this type of cookie will remain on Your device for a period of time set for each cookie. Flash cookies are also persistent. ****
+
+ **
+
+**FIRST-PARTY COOKIES:** Those created or managed by the party responsible for the partypoker.com website. Our Website uses persistent first-party cookies for the following purposes:  
+
+
+  * To better understand Your preferences
+  * To differentiate You from other users of Our websites, which will help us to provide You with a better experience when You browse Our websites and allow us to improve Our websites
+  * To identify Your preferences in order to personalise content and functionality
+  * To confirm that You are a registered user and to save Your log-in details to access other Services on Our website
+  * To collect statistics on the use of Our Services.
+  * To allow to manage the advertising spaces based on criteria such as the frequency our ads are shown.
+  * We may also use cookies and web beacons to ensure that Our mail tools are working correctly.
+
+
+
+**THIRD-PARTY COOKIES:** Those managed by advertising and analysis service providers outside of Our Website.
+
+Detailed below are the third parties that can configure and access cookies on Your device, as well as the purposes for which the information they store is used:
+
+**Analysis cookies** (used by Adobe Omniture): These cookies are chosen to study the internal movement around pages and to provide analytical information about visitors, including mouse clicks and mouse movements. Adobe Omniture provides Us with statistical information. Adobe guarantees the anonymity of the data about visits to Our Websites on Our behalf. This information is used to study volumes of usage on Our web pages and to improve these pages. The cookies used to collect these data are both first- and third-party cookies, and include data on traffic and visitors. These cookies do not include or collect any personal data. They allow Us to assess the number of users and, thus, measure and carry out statistical analysis on the use that users make of the service. For this purpose, Your browsing activity across Our website is analysed to enable us to improve the range of services We offer to You. You can find more information at: <http://www.adobe.com/en/privacy/cookies.html>
+
+**Advertising cookies** (used by Doubleclick and Adform): These cookies allow the most efficient way possible of managing advertising space on the website, application or platform providing the requested service based on criteria, such as edited content or how often adverts are shown. You can find more information at: <https://support.google.com/adsense/answer/2839090?hl=en>.
+
+******
+
+****
+
+**7.5 List of Our main cookie categories  
+**
+
+**STRICTLY NECESSARY COOKIES**
+
+Strictly necessary cookies are essential to allow a user move around a website and use its features, such as accessing secure areas of the website,  
+
+
+**PERFORMANCE COOKIES**
+
+Performance cookies allow us to collect information about website usage. These cookies collect anonymous information that doesn’t identify a visitor. The information collected is used to improve how our websites work and how we can improve them. For example,
+
+  * Web analytics
+  * Ad response rates
+  * Error management
+  * Testing designs
+
+
+
+**FUNCTIONALITY COOKIES**
+
+Functionality cookies allow a website to remember choices a user makes (user ID, language or location) and it allows the website to provide a more enhanced service. The information these cookies collect may be anonymised and cannot track individual browsing activity. For example,
+
+  * Remembering user settings
+  * Detecting that a service has already been offered
+  * Fulfilling a user request
+
+
+
+**ANALYTICAL COOKIES**
+
+Analytical cookies recognise and count the number of users and to see how visitors move around the site when they are using it.
+
+**7.6 Deactivation or removal of cookies  
+**
+
+You have the option to accept or refuse cookies. The majority of web browsers allow You to manage user preferences on the use of cookies at any time.
+
+To configure Our cookies and those of third parties, users can go to:
+
+Google Chrome: Tools → Settings → Show advanced settings → Content settings → Cookies → Block third-party cookies and site data
+
+Mozilla Firefox: Tools → Options → Privacy → History→ Use custom settings for history (uncheck all boxes)
+
+Internet Explorer: Tools → Internet Options → Privacy → Settings for the Internet Zone (move the navigation bar up to “Block all cookies”)
+
+Safari: Settings → Preferences → Privacy → Block cookies (select “always”)
+
+Safari (IOS): Settings → Safari → Block cookies
+
+If You do not wish to allow any Flash Player data to be stored, uncheck the boxes “Allow Flash content to store data on Your computer” and “Store common Flash components to reduce download times”. If You wish to limit the amount of data collected by Flash applications, move the slider in the Global Storage Settings panel to the desired position.  
+
+
+**7.7 Withdrawal of consent to the use of cookies (opt-out)  
+**
 
 If You choose to decline cookies, You may not be able to experience all of the interactive features on Our sites. 
 
 Alternatively, you can visit http://www.aboutcookies.org/ in order to obtain information on deleting or controlling cookies. Please note that by deleting our cookies or disabling future cookies, you may not be able to access certain areas or features of our sites.
+
+**7.8 Changes to cookie policy  
+**
+
+Our Websites  may amend this cookie policy based on new legislative or regulatory requirements, or to ensure that said policy complies with instructions issued by the Gibraltar Data Protection Division.
+
+If You would like more information about how We use cookies, You may contact our [Customer Service.](mailto:info@partypoker.com)
 
 **8\. CONSENT TO USE OF ELECTRONIC SERVICE PROVIDERS**
 
@@ -228,4 +210,7 @@ By clicking 'Submit' or 'I agree' during the registration process or by Your con
 
 ElectraWorks Limited is registered on the Gibraltar Regulatory Authority Data Protection Register. 
 
-Modified/Created 29 August 2013
+Modified/Created June 2015  
+
+
+****
