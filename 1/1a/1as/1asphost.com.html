@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 1asphost.com privacy policy that was archived on 2015-04-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150402042205id_/http%3A//1asphost.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 1asphost.com privacy policy that was archived on 2015-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151122015900id_/http%3A//www.1asphost.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="no-js"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -14,6 +14,50 @@
 <link rel="stylesheet" type="text/css" href="/xslt/elements/generic_csscomponent.css">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,300%7COpen+Sans+Condensed:700" rel="stylesheet" type="text/css">
 <script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/506535311544236990/bc.vms3/vms.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PPRPX8"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script><script src="/generalAppC/javascripts/dotster/main.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script><script src="/generalAppC/javascripts/dotster/jquery.pngFix.pack.js"></script><script src="/generalAppC/javascripts/dotster/jquery.cross-slide.min.js"></script>
+
+<script>
+window.V = window.V || {};
+V.cart = V.cart || {
+	items: []
+};
+
+V.grammar = V.grammar || {
+	chatserver: "chatserver.dotster.com"
+}
+// chat script
+V.chat = {
+  initialize: function () {
+    var _this = this;
+    if (V.grammar.chatserver) {
+      // bind chat links to chat function
+      var chatLinks = document.querySelectorAll('[href="#chat"]');
+			for (var i = 0; i < chatLinks.length; i++) {
+				chatLinks[i].addEventListener('click', function (e) {
+					return _this.popUp('https://' + V.grammar.chatserver, 500, 375);
+				});
+			}
+    }
+  },
+  popUp: function (url, width, height) {
+    var id = new Date();
+
+    width = width || 900;
+    height = height || 800;
+
+    window.open(
+      url,
+      id.toString(),
+      "toolbar=no,scrollbars=yes,location=no,statusbar=no,menubar=no,resizable=no,width=" + width + ",height=" + height
+    );
+  }
+}; // end V.chat
+
+window.onload = function (e) {
+  V.chat.initialize();
+}
+</script>
+
+
 <script src="/generalAppC/scriptcat/87ae207201c55b84c5270851159260e1.1"></script>
 
 
@@ -52,7 +96,11 @@
 
 
 
-<script>dataLayer = [];</script>
+
+<script>dataLayer = [{"userType":"anonymous","pageClass":"","step":"","pageType":"","flow":"","userID":""}];</script>
+
+
+
 
 
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
@@ -78,14 +126,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li><a href="/affiliate/gettingstarted.bml">Affiliates</a></li>
 <li><a href="/support/">Support</a></li>
 </ul>
-<span class="call">Call Sales 800-401-5250</span><div class="live-chat"><a href="https://server.iad.liveperson.net/hc/66651396/?cmd=file&amp;file=visitorWantsToChat&amp;site=66651396&amp;byhref=1&amp;ref=chatbubble" target="chat66651396" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/66651396/?cmd=file&amp;file=visitorWantsToChat&amp;site=66651396&amp;referrer='+escape(document.location),'chat66651396','width=472,height=320');return false;"></a></div>
-<form method="get" action="/register/registration.bml"><input type="hidden" name="__token_timestamp__" value="1427948525"><input type="hidden" name="__token_val__" value="0617211b05f0e1bac3a2d4782ed2f4c3"><fieldset>
+<span class="call">Call Sales 800-401-5250</span><div class="live-chat"><a class="gtm_chat" href="#chat"></a></div>
+<form method="get" action="/register/registration.bml"><input type="hidden" name="__token_timestamp__" value="1448157540"><input type="hidden" name="__token_val__" value="2397700f68cd2df8de9a11e198a50995"><fieldset>
 <input type="hidden" name="promos" value="dir_intr01_a"><label for="dom_lookup">Find a domain</label><input type="text" name="dom_lookup" class="dv7_dom_search"><input type="submit" name="submit" value="" class="submit">
 </fieldset></form>
 </div>
 <div id="bd">
 <div id="navcomponent" class="yui-b">
-
 <div class="navblock">
 <h3><a href="/legal/index.bml">Terms of Service</a></h3>
 <ul>
@@ -131,7 +178,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<li><a href="#children">Children</a></li>
 					<li><a href="#contact">Contact</a></li>
 					<li><a href="#resellers">Resellers</a></li>
-					<li><a href="#trusteCERT">TRUSTe </a></li>				
 				</ul>
 			</div>
 <!-- 
@@ -397,22 +443,8 @@ On February 10, 2014, we updated and reorganized our Privacy Policy to better ex
 						</li>
 					</ul>
 				</li>
-				<li id="trusteCERT">
-					<p>
-						<b>TRUSTe CERTIFICATION. </b> We have been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and our practices have 
-						been reviewed by TRUSTe for compliance with TRUSTe's <a href="http://www.truste.com/privacy-program-requirements/program-requirements">Program Requirements</a>
-						 and the <a href="http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/">TRUSTed Cloud Program Requirements</a> including transparency, 
-						accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, 
-						is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. 
-						If you have questions or complaints regarding our Privacy Policy or practices, please contact us at <a href="mailto:legal@dotster-inc.com">legal@dotster-inc.com</a>.  If you are not 
-						satisfied with our response you can contact TRUSTe <a href="https://feedback-form.truste.com/watchdog/request">here</a>.
-					</p>
-					<p>  
-						<u>The TRUSTe program covers our collection, use and disclosure of information we collect through our website, <a href="http://www.dotster.com">dotster.com</a>, and our services.</u>
-					</p>
-				</li>
 			</ul>		 
-			<p><br><strong></strong></p><p class="last-updated"><strong>This file was last modified May 22, 2014.</strong></p><strong>
+			<p><br><strong></strong></p><p class="last-updated"><strong>This file was last modified on April 30, 2015.</strong></p><strong>
 </strong><p></p>
 		</block></div>
 </div>
@@ -453,7 +485,7 @@ On February 10, 2014, we updated and reorganized our Privacy Policy to better ex
 <li><a href="/domains/transfer.bml">Transfer My Domain to Dotster</a></li>
 <li><a href="/controlpanel/">Log Into My Account</a></li>
 <li><a href="/support/">Get Help</a></li>
-<li><a href="https://plus.google.com/106666024519875440434" target="_blank" rel="publisher">Follow Dotster on Google+</a></li>
+<li><a href="https://plus.google.com/106666024519875440434" target="_blank" rel="publisher" class="gtm_social" data-gtm-name="google+">Follow Dotster on Google+</a></li>
 </ul>
 </div>
 <div class="ft-col customer-tools"><div class="dv_xtra">
