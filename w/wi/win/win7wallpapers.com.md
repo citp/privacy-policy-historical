@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the win7wallpapers.com privacy policy that was archived on 2014-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140822193811id_/http%3A//www.win7wallpapers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the win7wallpapers.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122011609id_/http%3A//www.win7wallpapers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HD Wallpapers
 
