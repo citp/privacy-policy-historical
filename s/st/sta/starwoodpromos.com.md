@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starwoodpromos.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627212055id_/http%3A//www.starwoodhotels.com/corporate/privacy_policy.html%3Flanguage%3Den_US%26localeCode%3Den_US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starwoodpromos.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122231258id_/http%3A//www.starwoodhotels.com/corporate/privacy_policy.html%3Flanguage%3Den_US%26localeCode%3Den_US) for the most accurate reproduction.*
 
 # Starwood Hotels & Resorts
 
