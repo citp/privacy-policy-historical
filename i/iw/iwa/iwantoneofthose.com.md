@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwantoneofthose.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514024326id_/http%3A//www.iwantoneofthose.com/help/privacy-policy.list) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwantoneofthose.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122054534id_/http%3A//www.iwantoneofthose.com/help/privacy-policy.list) for the most accurate reproduction.*
 
 # Privacy Policy | IWantOneOfThose.com
 
