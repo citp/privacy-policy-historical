@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the cargill.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626111928id_/http%3A//www.cargill.com/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cargill.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122045343id_/http%3A//www.cargill.com/privacy/index.jsp) for the most accurate reproduction.*
 
 # Cargill: Privacy
 
-English | [普通話](https://web.archive.org/web/20150626111928id_/http%3A//www.cargill.com/privacy/mandarin/index.jsp) | [Việt](https://web.archive.org/web/20150626111928id_/http%3A//www.cargill.com/privacy/vietnamese/index.jsp) | [Magyar](https://web.archive.org/web/20150626111928id_/http%3A//www.cargill.com/privacy/hungarian/index.jsp) | [Romana](https://web.archive.org/web/20150626111928id_/http%3A//www.cargill.com/privacy/romanian/index.jsp) | [Português](https://web.archive.org/web/20150626111928id_/http%3A//www.cargill.com/privacy/compromisso-privacidade/index.jsp) | [Français](https://web.archive.org/web/20150626111928id_/http%3A//www.cargill.com/privacy/politique-confidentialite-ligne/index.jsp) | [Türk](https://web.archive.org/web/20150626111928id_/http%3A//www.cargill.com/privacy/turkish/index.jsp) | [ภาษาไทย](https://web.archive.org/web/20150626111928id_/http%3A//www.cargill.com/privacy/thai/index.jsp) | [Nederlands](https://web.archive.org/web/20150626111928id_/http%3A//www.cargill.com/privacy/dutch/index.jsp) | [русский](https://web.archive.org/web/20150626111928id_/http%3A//www.cargill.com/privacy/russian/index.jsp) | [Bahasa](https://web.archive.org/web/20150626111928id_/http%3A//www.cargill.com/privacy/bahasa/index.jsp) | [Deutsch](https://web.archive.org/web/20150626111928id_/http%3A//www.cargill.com/privacy/deutsch/index.jsp) | [Español](https://web.archive.org/web/20150626111928id_/http%3A//www.cargill.com/privacy/es/index.jsp) | [Slovenský](https://web.archive.org/web/20150626111928id_/http%3A//www.cargill.com/privacy/slovakian/index.jsp) | [български](https://web.archive.org/web/20150626111928id_/http%3A//www.cargill.com/privacy/bulgarian/index.jsp) | [Italiano](https://web.archive.org/web/20150626111928id_/http%3A//www.cargill.com/privacy/italian/index.jsp) | [Polski](https://web.archive.org/web/20150626111928id_/http%3A//www.cargill.com/privacy/polish/index.jsp) |  [日本語](https://web.archive.org/web/20150626111928id_/http%3A//www.cargill.com/privacy/japanese/index.jsp) | [한국어](https://web.archive.org/web/20150626111928id_/http%3A//www.cargill.com/privacy/korean/index.jsp) 
+English | [普通話](https://web.archive.org/web/20151122045343id_/http%3A//www.cargill.com/privacy/mandarin/index.jsp) | [Việt](https://web.archive.org/web/20151122045343id_/http%3A//www.cargill.com/privacy/vietnamese/index.jsp) | [Magyar](https://web.archive.org/web/20151122045343id_/http%3A//www.cargill.com/privacy/hungarian/index.jsp) | [Romana](https://web.archive.org/web/20151122045343id_/http%3A//www.cargill.com/privacy/romanian/index.jsp) | [Português](https://web.archive.org/web/20151122045343id_/http%3A//www.cargill.com/privacy/compromisso-privacidade/index.jsp) | [Français](https://web.archive.org/web/20151122045343id_/http%3A//www.cargill.com/privacy/politique-confidentialite-ligne/index.jsp) |  [Türk](https://web.archive.org/web/20151122045343id_/http%3A//www.cargill.com/privacy/turkish/index.jsp) | [ภาษาไทย](https://web.archive.org/web/20151122045343id_/http%3A//www.cargill.com/privacy/thai/index.jsp) | [Nederlands](https://web.archive.org/web/20151122045343id_/http%3A//www.cargill.com/privacy/dutch/index.jsp) | [русский](https://web.archive.org/web/20151122045343id_/http%3A//www.cargill.com/privacy/russian/index.jsp) | [Bahasa](https://web.archive.org/web/20151122045343id_/http%3A//www.cargill.com/privacy/bahasa/index.jsp) | [Deutsch](https://web.archive.org/web/20151122045343id_/http%3A//www.cargill.com/privacy/deutsch/index.jsp) | [Español](https://web.archive.org/web/20151122045343id_/http%3A//www.cargill.com/privacy/es/index.jsp) | [Slovenský](https://web.archive.org/web/20151122045343id_/http%3A//www.cargill.com/privacy/slovakian/index.jsp) | [български](https://web.archive.org/web/20151122045343id_/http%3A//www.cargill.com/privacy/bulgarian/index.jsp) | [Italiano](https://web.archive.org/web/20151122045343id_/http%3A//www.cargill.com/privacy/italian/index.jsp) | [Canadienne-Française](https://web.archive.org/web/20151122045343id_/http%3A//www.cargill.com/privacy/politique-confidentialite/index.jsp)
 
-Effective Date: December 19, 2011 
+Updated: July 1, 2015 
 
-###### Cargill’s Commitment To Privacy 
+ **Cargill’s Commitment To Privacy  **
 
 Your privacy is important to us. This Online Privacy Policy (“Privacy Policy”) explains how we protect your privacy when you visit this Web site and the other Cargill Web sites that display this Privacy Policy (our “Site(s)”). This Privacy Policy describes what types of information we gather and track when you use our Sites, how this information is used and with whom it is shared. If you have any questions about this Privacy Policy, please [contact us](mailto:privacy@cargill.com?subject=privacy).
 
@@ -60,6 +60,17 @@ You should be aware that when you respond to an electronic communication you rec
   * to measure the success of our web or email advertising.
 
 
+
+* * *
+
+ **The cookies we use can be classified into two categories:**
+
+  *  **“Session cookies” which are allocated to your computer for the duration of your visit of our Sites and which will be automatically removed from your computer when you close your browser.   **
+  *  **“Persistent cookies” which expire after a reasonable period of time or until the user deletes the cookie.  **
+
+
+
+* * *
 
 Some of these uses may involve the use of “third party cookies”; that is, cookies that are set by software used by one of our service providers, such as to carry out statistical analysis of page use, page interactions and paths through the site, or for the purposes of serving internet advertisements using an online advertising supplier.
 
@@ -156,7 +167,7 @@ Minneapolis, MN
 
 ## Business Information Notice
 
-  * [How we use personal information collected about you in a business context.](https://web.archive.org/web/20150626111928id_/http%3A//www.cargill.com/privacy/business-notice/index.jsp)
+  * [How we use personal information collected about you in a business context.](https://web.archive.org/web/20151122045343id_/http%3A//www.cargill.com/privacy/business-notice/index.jsp)
 
 
 
