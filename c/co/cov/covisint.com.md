@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the covisint.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510041846id_/http%3A//www.covisint.com/enable/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covisint.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122125935id_/http%3A//www.covisint.com/enable/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Covisint
 
-  
+ 
 
-
-[**Download a printable PDF of the Covisint Privacy Policy**](https://www.covisint.com/documents/10652/53726/Privacy+Policy.pdf/b13440ca-bbb9-47fc-972b-1fe0567cf3ba?version=1.2)
+[**Download a printable PDF of the Covisint Privacy Policy**](https://web.archive.org/app/uploads/Covisint_privacy_policy-FINAL-12.10.2014.pdf)
 
 This Privacy Policy (the “Policy”) sets forth Covisint Corporation’s (“Covisint”) policies regarding the collection and use of information relating to any Covisint or Covisint-affiliated web site. Covisint respects your right to privacy and is committed to protecting it. In order to provide you with relevant information, respond to your requests and increase the benefits you receive when visiting our website(s), we may request information about you. We want you to feel secure when providing such information to us and this Privacy Policy is intended to inform you about the type(s) of information we gather and how we use it. The Policy applies to information collected by Covisint.
 
@@ -22,6 +21,8 @@ This Privacy Policy (the “Policy”) sets forth Covisint Corporation’s (“C
 
 
 
+### The Collection of Personal Data
+
 You may visit a Covisint website without identifying yourself or sharing any personal information. Covisint does collect certain domain information in order to improve and customize your experience on its site(s). Specifically, Covisint may collect the following types of information when you use any Covisint or Covisint-affiliated website:
 
   * Information you provide directly, including personally identifiable information, when you complete an online registration form for offers, events, user groups, training, trials, demos, etc. or submit an inquiry via email, direct mail, phone or fax.
@@ -31,6 +32,8 @@ You may visit a Covisint website without identifying yourself or sharing any per
   * Aggregate, non-personally identifiable information, such as the number of weekly visits or page views to a Covisint website.
 
 
+
+### How We Use the Data We Collect
 
 _General:_  
 Covisint may use usage data in aggregated form to:
@@ -50,6 +53,8 @@ Covisint values your business and strives to protect your privacy. Covisint will
 
 Covisint is a global company with customers and partners all over the world. Accordingly, the information we collect may be used, stored and/or processed in the USA or in any other country in which Covisint does business. By providing information via our website, you are consenting to the transfer of information from your country of origin to any other country in which Covisint does business (including those with less adequate levels of protection).
 
+### Cookies
+
 A “cookie” is a small text file that is transferred to your browser and stores information about your interactions with a particular website. A cookie is then read by the Web server that placed it on your browser. It works as a sort of identification card, recording your preferences and recalling previously entered information. By using cookies, your navigation time is reduced and use of a website is simplified.
 
 Covisint uses two types of cookies:
@@ -63,27 +68,41 @@ A cookie cannot be executed as code or deliver viruses. Covisint uses both sessi
 
 You have the option of setting your browser to reject cookies. In most cases, if you do not accept the cookie you are still able to use the site. Please note, however, that by not accepting cookies, you will limit the functionality we can provide you when you visit this site.
 
+### Opt-out
+
 Covisint provides the opportunity to opt-out of receiving its communications whenever we request personal information from you and when you receive material from us. If you have difficulty opting-out, please e-mail [info@covisint.com](mailto:info@covisint.com?Subject=Please%20Unsubscribe%20Me) and provide your name, e-mail address and subscription you wish to cancel.
+
+### Links to Non-Company Websites
 
 Covisint may provide links to Internet sites maintained by others. Covisint does not review such third-party websites in their entirety and is not responsible for the contents of or any products or services offered by such third-party sites. Covisint encourages you to read the privacy statement of every website you visit whether the site is linked to our or not.
 
 Covisint provides these links to you as a convenience and the inclusion of any link does not imply our endorsement of the linked site or our acceptance of any responsibility that arises as a result of your use of the site.
 
+### Commitment to Data Security
+
 To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-Covisint complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Covisint has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Covisint’s certification, please visit <http://www.export.gov/safeharbor>.
+### European Union Safe Harbor Certification
+
+Covisint complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Covisint has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Covisint’s certification, please visit [http://www.export.gov/safeharbor/](http://export.gov/safeharbor/).
+
+### Public Forums
 
 This site may make chat rooms, forums, message boards, feedback forms, web logs, “blogs”, news groups and/or other public messaging forums available to its users. Please remember that any information you disclose in these areas becomes public information. You should always exercise caution when deciding to disclose your personal information in these public forums.
+
+### Online Job Applications
 
 Covisint’s website provides the opportunity for candidates to submit their resume or curriculum vitae online. All resumes received by Covisint will be held in confidence and used only for the purpose of considering the candidate for employment or for such other purpose as requested by the candidate. Covisint will not sell, trade, rent or distribute the personal information contained in any online application to any third party.
 
 All open positions offered by Covisint or by its domestic and international subsidiaries are subject to specific job skill requirements. The job skill requirements, qualifications and preferred experience are determined by the domestic or international subsidiary offering the position. All positions are subject to local prevailing employment laws and restrictions. This includes immigration laws pertaining to work authorization requirements and any other applicable government permissions or compliance.
 
 _How to Update Your Resume/Personal Information:_  
-If you have already submitted your resume or curriculum vitae to Covisint and your skills, experience or contact information has changed, please resubmit your resume. Your revised resume will be updated in our resume management system. Visit the [Careers](http://www.compuware.com/careers) site to learn more about open positions, candidate eligibility and the interviewing process.
+If you have already submitted your resume or curriculum vitae to Covisint and your skills, experience or contact information has changed, please resubmit your resume. Your revised resume will be updated in our resume management system. Visit the [Careers](http://www.covisint.com/company/careers) site to learn more about open positions, candidate eligibility and the interviewing process.
 
 _How to Contact Covisint Recruiting Regarding Your Privacy:_  
 Please e-mail us at [recruiting@covisint.com](mailto:recruiting@covisint.com) if you have any concerns regarding your privacy during the recruiting process.
+
+### Issue Resolution
 
 Our goal is to respect your privacy. If you seek resolution to any privacy or data collection issue with Covisint, or have suggestions on how we can improve our policies, please contact us at [privacy@covisint.com](mailto:privacy@covisint.com).
 
