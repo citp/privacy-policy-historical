@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topdrawersoccer.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620190608id_/http%3A//www.topdrawersoccer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdrawersoccer.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122084232id_/http%3A//www.topdrawersoccer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -71,5 +71,5 @@ If you have questions regarding our Privacy Statement, its implementation, failu
 
 TopDrawerSoccer.com  
 **Attention: Privacy Statement Personnel**  
-111 West Ocean Blvd., Suite 1750, Long Beach, CA 90802  
+5855 Green Valley Circle, Suite 303, Culver City, CA 90230  
 TopDrawerSoccer.com will use commercially reasonable efforts to promptly respond and resolve any problem or question. 
