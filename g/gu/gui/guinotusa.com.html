@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the guinotusa.com privacy policy that was archived on 2015-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150625062127id_/http%3A//www.guinotusa.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the guinotusa.com privacy policy that was archived on 2015-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151122060312id_/http%3A//www.guinotusa.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-	<link rel="stylesheet" href="/static/css/main.css" type="text/css">
 	
 <link rel="stylesheet" href="/static/css/details.css" type="text/css" media="screen">
 
 	<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	
 <script type="text/javascript" src="/static/js/ui/jquery.ui.core.js"></script>
 <script type="text/javascript" src="/static/js/ui/jquery.ui.widget.js"></script>
@@ -19,7 +19,7 @@
    });
    </script>
 
-	
+
 	
 	
 	<title>Privacy Policy - Guinot - Professional skin care products and skin treatments</title>	
@@ -27,6 +27,9 @@
 	<meta name="keywords" content="">
 	<link rel="shortcut icon" href="http://guinotusa.com/static/img/guinot.ico" type="image/x-icon">
 	<link rel="icon" href="http://guinotusa.com/static/img/guinot3.ico" type="image/x-icon">
+
+	
+	<link rel="stylesheet" href="/static/css/main.css" type="text/css">
 	
 
 	<script>
@@ -41,24 +44,50 @@
 
 	</script>
 
+	<link rel="apple-touch-icon" href="/static/images/icon_03.png">
 
 </head>
 
 <body onload="initialize()">
+<div id="mNav">
+<div id="menuBtn" class="menuBtn">
+<!-- 	<img src="/static/img/m/jbm_03.png" alt="" /> -->
+	<section class="si-icons si-icons-default">
+				<span class="si-icon si-icon-hamburger-cross" data-icon-name="hamburgerCross"></span>
+			</section>
+</div>
+<a href="/" class="mLogo"><img src="/static/img/guinot_08.png" alt=""></a>
+</div>
+<ul id="navSm">
 	
+	<li><a href="/" id="home" class="">Home</a></li>
+  	<li><a href="/treatments/" id="main-treatments" class="">Treatments</a></li>
+  	
+	<li><a href="/products/" id="products" class="">Products</a></li>
+	<li><a href="/findaspa/" id="findaspa" class="">Find a Spa</a></li>
+	<li><a href="/guinot-news/" id="guinotnews" class="">Guinot News</a></li>
+	<li><a href="/press/" id="press" class="">Press</a></li>
+	<li><a href="/about/" id="about" class="">About</a></li>
+	<li><a href="/contact/" id="contact" class="">Contact</a></li>
+	
+	<li><a href="/accounts/login/">Client Sign In</a></li>
+	<li><a href="/accounts/register/">Become a Guinot Spa/Salon</a></li>
+	
+	
+	
+</ul>
+
 
 <div id="outerwrap">
-
 <div id="center">
 	<div id="nav">
-		
 		<div class="logo_head">
 			<a href="/"><img src="/static/img/guinot_08.png" alt=""></a>
 			<div class="contact_head">
 				<div class="contact_inner">
 				
-				<div class="acc_btn"><a href="/accounts/login/"> </a></div>
 				<div class="reg_btn"><a href="/accounts/register/"> </a></div>
+				<div class="acc_btn"><a href="/accounts/login/"> </a></div>
 				
 				</div>
 			</div>
@@ -80,13 +109,13 @@
 	</div>
 	<div id="page_wrap">
 		<div id="page_top"></div>
-		<div id="page">	 
+		<div id="page">
 		
 		
-				
-			
 		
-			
+		
+		
+		
 		
 		
 		
@@ -139,6 +168,41 @@
 	</div>
 </div>
 </div>
+
+<script src="/static/snap/js/svgicons.js"></script>
+	<script>
+	var svgIconConfig = {
+		hamburgerCross : {
+		url : '/static/snap/svg/hamburger.svg',
+		animation : [
+			{ 
+				el : 'path:nth-child(1)', 
+				animProperties : { 
+					from : { val : '{"path" : "m 5.0916789,20.818994 53.8166421,0"}' }, 
+					to : { val : '{"path" : "M 12.972944,50.936147 51.027056,12.882035"}' }
+				} 
+			},
+			{ 
+				el : 'path:nth-child(2)', 
+				animProperties : { 
+					from : { val : '{"transform" : "s1 1", "opacity" : 1}', before : '{"transform" : "s0 0"}' }, 
+					to : { val : '{"opacity" : 0}' }
+				} 
+			},
+			{ 
+				el : 'path:nth-child(3)', 
+				animProperties : { 
+					from : { val : '{"path" : "m 5.0916788,42.95698 53.8166422,0"}' }, 
+					to : { val : '{"path" : "M 12.972944,12.882035 51.027056,50.936147"}' }
+				} 
+			}
+		]
+	},
+	};
+	[].slice.call( document.querySelectorAll( '.si-icons-default > .si-icon' ) ).forEach( function( el ) {
+					var svgicon = new svgIcon( el, svgIconConfig );
+				} );
+	</script>
 
 
 </body></html>
