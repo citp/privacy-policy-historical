@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wowinterface.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152934id_/http%3A//www.mmointerface.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowinterface.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123003630id_/http%3A//mmoui.com/%3Fprivacy) for the most accurate reproduction.*
 
-# MMOUI : Privacy Statement
+# Privacy Statement - MMOUI
 
 The MMOUI Website ( **[www.mmoui.com](http://www.mmoui.com/)** ) is maintained by ZAM Network, LLC. Protecting your privacy is important to ZAM Network, LLC, and this statement is intended to make you aware of our commitments to you as an important visitor to our website. This policy may change from time to time, so please check back periodically.
 
