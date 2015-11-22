@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the playbill.com privacy policy that was archived on 2015-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630120312id_/http%3A//www.playbill.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playbill.com privacy policy that was archived on 2015-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151122073707id_/http%3A//www.playbill.com/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head prefix="og: http://ogp.me/ns#"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQMFUV9RGwUBUVFXBAk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head prefix="og: http://ogp.me/ns#"><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQMFUV9RGwUBUVFXBAk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
 <meta name="description" content="News, features, performance listings for Broadway, Off-Broadway, London and Regional theatre. Buy discount theater tickets.">
 <title>Playbill: Privacy</title>
 
@@ -57,6 +57,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
 <script type="text/javascript" src="/assets/js/general_misc.js"></script>
 
+<!-- ShareThis -->
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "8136f846-653c-49c4-b0a4-3617d63ebe23", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -93,7 +98,7 @@
 									<!--googleoff: all-->
 <!--noindex-->
 <noindex>
-					<iframe id="a062f00a" name="a062f00a" src="http://ox1.playbill.com/www/delivery/afr.php?zoneid=19&amp;target=_top&amp;cb=1868859258" frameborder="0" scrolling="no" width="249" height="90"><a href='http://ox1.playbill.com/www/delivery/ck.php?n=a595ed14&cb=1868859258' target='_top'><img src='http://ox1.playbill.com/www/delivery/avw.php?zoneid=19&cb=1868859258&n=a595ed14' border='0' alt='' /></a></iframe>
+					<iframe id="a062f00a" name="a062f00a" src="http://ox1.playbill.com/www/delivery/afr.php?zoneid=19&amp;target=_top&amp;cb=1810292914" frameborder="0" scrolling="no" width="249" height="90"><a href='http://ox1.playbill.com/www/delivery/ck.php?n=a595ed14&cb=1810292914' target='_top'><img src='http://ox1.playbill.com/www/delivery/avw.php?zoneid=19&cb=1810292914&n=a595ed14' border='0' alt='' /></a></iframe>
 					</noindex>
 <!--index-->
 <!--googleon: all-->
@@ -108,7 +113,7 @@
 <noindex>
 					<!--/* Revive Adserver iFrame Tag v3.0.5 */-->
 
-<iframe id="a9de3f1b" name="a9de3f1b" src="http://ox1.playbill.com/www/delivery/afr.php?zoneid=16&amp;source=about&amp;cb=1868859258" frameborder="0" scrolling="no" width="728" height="90"><a href='http://ox1.playbill.com/www/delivery/ck.php?n=aff8f967&amp;cb=1868859258' target='_blank'><img src='http://ox1.playbill.com/www/delivery/avw.php?zoneid=16&amp;source=about&amp;cb=1868859258&amp;n=aff8f967' border='0' alt='' /></a></iframe>
+<iframe id="a9de3f1b" name="a9de3f1b" src="http://ox1.playbill.com/www/delivery/afr.php?zoneid=16&amp;source=about&amp;cb=1810292914" frameborder="0" scrolling="no" width="728" height="90"><a href='http://ox1.playbill.com/www/delivery/ck.php?n=aff8f967&amp;cb=1810292914' target='_blank'><img src='http://ox1.playbill.com/www/delivery/avw.php?zoneid=16&amp;source=about&amp;cb=1810292914&amp;n=aff8f967' border='0' alt='' /></a></iframe>
 
 					</noindex>
 <!--index-->
@@ -122,7 +127,7 @@
 					<div id="searchRSS">
 						<div style="float:left">
 							<p>
-								June 30, 2015
+								November 22, 2015
 							</p>
 						</div>
 						<div style="float:left">
@@ -181,7 +186,7 @@ function ClearSearch(theField) {
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="http://ox1.playbill.com/www/delivery/ajs.php?zoneid=17&amp;source=about&amp;cb=88467529244&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20150630120312id_/http%253A//www.playbill.com/about/privacy"></script><noscript><a href='http://ox1.playbill.com/www/delivery/ck.php?n=a58f99c9&amp;cb=1868859258' target='_blank'><img src='http://ox1.playbill.com/www/delivery/avw.php?zoneid=17&amp;source=about&amp;cb=1868859258&amp;n=a58f99c9' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="http://ox1.playbill.com/www/delivery/ajs.php?zoneid=17&amp;source=about&amp;cb=20405191865&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20151122073707id_/http%253A//www.playbill.com/about/privacy"></script><noscript><a href='http://ox1.playbill.com/www/delivery/ck.php?n=a58f99c9&amp;cb=1810292914' target='_blank'><img src='http://ox1.playbill.com/www/delivery/avw.php?zoneid=17&amp;source=about&amp;cb=1810292914&amp;n=a58f99c9' border='0' alt='' /></a></noscript>
 
 						</noindex>
 <!--index-->
@@ -319,6 +324,9 @@ function ClearSearch(theField) {
 																			
 															
 																											<li><a href="/events/listing/london-shows">London</a></li>
+																			
+															
+																											<li><a href="/events/listing/attractions"><font color="red">NYC Attractions</font></a></li>
 																			
 															
 																		</ul>
@@ -521,6 +529,9 @@ function ClearSearch(theField) {
 																											<li><a href="/events/listing/london-shows">London</a></li>
 																			
 															
+																											<li><a href="/events/listing/attractions"><font color="red">NYC Attractions</font></a></li>
+																			
+															
 																		</ul>
 									</div>
 															
@@ -700,6 +711,8 @@ mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
 													
 																											
 													
+																											
+													
 													
 																											
 																											
@@ -826,7 +839,7 @@ mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="http://ox1.playbill.com/www/delivery/ajs.php?zoneid=13&amp;source=about&amp;cb=96050574468&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20150630120312id_/http%253A//www.playbill.com/about/privacy"></script><noscript><a href='http://ox1.playbill.com/www/delivery/ck.php?n=a95c608f&amp;cb=1868859258' target='_blank'><img src='http://ox1.playbill.com/www/delivery/avw.php?zoneid=13&amp;source=about&amp;cb=1868859258&amp;n=a95c608f' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="http://ox1.playbill.com/www/delivery/ajs.php?zoneid=13&amp;source=about&amp;cb=60770205224&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20151122073707id_/http%253A//www.playbill.com/about/privacy"></script><noscript><a href='http://ox1.playbill.com/www/delivery/ck.php?n=a95c608f&amp;cb=1810292914' target='_blank'><img src='http://ox1.playbill.com/www/delivery/avw.php?zoneid=13&amp;source=about&amp;cb=1810292914&amp;n=a95c608f' border='0' alt='' /></a></noscript>
 
 	</noindex>
 <!--index-->
@@ -906,16 +919,12 @@ mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
 <!--googleoff: all-->
 <!--noindex-->
 <noindex>
-<div class="border v-outer">
-	<div class="v-middle">
-		<span style="float: left; line-height: 16px; vertical-align: middle;">
-		Connect with us: 
-		<a href="http://twitter.com/playbill" title="Follow us on Twitter"><img src="http://cloud.playbill.com/images/twitter-bird-16x16.png" style="vertical-align: middle;" border="0"></a>
-		 on <a class="readmore v-inner" href="http://twitter.com/playbill">Twitter</a> 
-		&nbsp; <a href="http://www.facebook.com/playbill/"><img src="http://cloud.playbill.com/images/facebook-icon.png" style="vertical-align: middle;" border="0"></a> on <a class="readmore v-inner" href="http://www.facebook.com/playbill/">Facebook</a>
-		&nbsp; <a href="http://playbill.tumblr.com"><img src="http://cloud.playbill.com/images/tumblr-icon.png" style="vertical-align: middle;" border="0"></a> on <a class="readmore v-inner" href="http://playbill.tumblr.com/">Tumblr</a>.
-		</span>
-	</div>
+<div class="sharethis" id="sharethis_buttons">
+	<span class="st_facebook_large" displaytext="Facebook"></span>
+	<span class="st_twitter_large" displaytext="Tweet" st_via="playbill"></span>
+	<span class="st_tumblr_large" displaytext="Tumblr"></span>
+	<span class="st_email_large" displaytext="Email"></span>
+	<span class="st_sharethis_large" displaytext="ShareThis"></span>
 </div>
 </noindex>
 <!--index-->
@@ -932,7 +941,7 @@ mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
 <noindex>
 		<!--/* Revive Adserver iFrame Tag v3.0.5 */-->
 
-<iframe id="a7b84f72" name="a7b84f72" src="http://ox1.playbill.com/www/delivery/afr.php?zoneid=14&amp;source=about&amp;cb=1868859258" frameborder="0" scrolling="no" width="468" height="60"><a href='http://ox1.playbill.com/www/delivery/ck.php?n=ad60aad2&amp;cb=1868859258' target='_blank'><img src='http://ox1.playbill.com/www/delivery/avw.php?zoneid=14&amp;source=about&amp;cb=1868859258&amp;n=ad60aad2' border='0' alt='' /></a></iframe>
+<iframe id="a7b84f72" name="a7b84f72" src="http://ox1.playbill.com/www/delivery/afr.php?zoneid=14&amp;source=about&amp;cb=1810292914" frameborder="0" scrolling="no" width="468" height="60"><a href='http://ox1.playbill.com/www/delivery/ck.php?n=ad60aad2&amp;cb=1810292914' target='_blank'><img src='http://ox1.playbill.com/www/delivery/avw.php?zoneid=14&amp;source=about&amp;cb=1810292914&amp;n=ad60aad2' border='0' alt='' /></a></iframe>
 
 	</noindex>
 <!--index-->
@@ -966,7 +975,7 @@ mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
 	
 		<tbody><tr>
 			<td colspan="2" class="productTitle">
-				<strong><a href="http://www.playbillstore.com/20toawplpryo.html" class="readmore10" target="_NEW">2015 Tony Awards Playbill</a></strong>
+				<strong><a href="http://www.playbillstore.com/cuinofdoginn5.html" class="readmore10" target="_NEW">The Curious Incident of the Dog in the Night-Time - Souvenir Program</a></strong>
 			</td>
 		</tr>
 		<tr>
@@ -974,19 +983,19 @@ mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
 				
 					
 						
-							<img src="http://cdn-gd.playbill.com/images/cache/remote/http_cdn-images.playbill.com/ee_assets/Sex_Tips/tonysmall.jpg" width="55" class="homePic" border="0">
+							<img src="http://cdn-gd.playbill.com/images/cache/remote/http_cdn-images.playbill.com/ee_assets/dog.jpg" width="55" class="homePic" border="0">
 						
 					
 				
 			</td>
 			<td class="productTitle" valign="top">
-				<br>List price: $25.00<br>
+				<br>List price: $20.00<br>
 							</td>
 		</tr>
 	
 		<tr>
 			<td colspan="2" class="productTitle">
-				<strong><a href="http://www.playbillstore.com/plprralochgr.html" class="readmore10" target="_NEW">Playbill Pride - Rainbow Logo T-Shirt</a></strong>
+				<strong><a href="http://www.playbillstore.com/aminpaorbrca.html" class="readmore10" target="_NEW">An American in Paris Original Broadway Cast Recording CD</a></strong>
 			</td>
 		</tr>
 		<tr>
@@ -994,13 +1003,14 @@ mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
 				
 					
 						
-							<img src="http://cdn-gd.playbill.com/images/cache/remote/http_cdn-images.playbill.com/ee_assets/playteetile.jpg" width="55" class="homePic" border="0">
+							<img src="http://cdn-gd.playbill.com/images/cache/remote/http_cdn-images.playbill.com/ee_assets/americancd.jpg" width="55" class="homePic" border="0">
 						
 					
 				
 			</td>
 			<td class="productTitle" valign="top">
-				<br>List price: $19.95<br>
+				<br>List price: $18.98<br>
+									<strong><font color="#FF0000">Sale price: $13.95</font></strong>
 							</td>
 		</tr>
 	
@@ -1014,25 +1024,6 @@ mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 	
 		<tbody><tr>
-			<td colspan="2" class="productTitle">
-				<strong><a href="http://www.playbillstore.com/woliedplpa.html" class="readmore10" target="_NEW">The Playbill Pajamas for Women</a></strong>
-			</td>
-		</tr>
-		<tr>
-			<td class="arrivalsContain">
-				
-				
-					
-						<img src="http://cdn-gd.playbill.com/images/cache/remote/http_cdn-images.playbill.com/ee_assets/playbillladiespajama.jpg" width="55" class="homePic" border="0">
-					
-				
-			</td>
-			<td class="productTitle" valign="top">
-				<br>List price: $79.95<br>
-							</td>
-		</tr>
-	
-		<tr>
 			<td colspan="2" class="productTitle">
 				<strong><a href="http://www.playbillstore.com/cufrforbrpo.html" class="readmore10" target="_NEW">Broadway Poster Frame - Custom Made for all 14” x 22” Broadway Posters</a></strong>
 			</td>
@@ -1048,7 +1039,27 @@ mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
 			</td>
 			<td class="productTitle" valign="top">
 				<br>List price: $36.00<br>
-									<strong><font color="#FF0000">Sale price: $27.50</font></strong>
+									<strong><font color="#FF0000">Sale price: $28.95</font></strong>
+							</td>
+		</tr>
+	
+		<tr>
+			<td colspan="2" class="productTitle">
+				<strong><a href="http://www.playbillstore.com/neulplbiarqu.html" class="readmore10" target="_NEW">The Ultimate Playbill Binder - Archival Quality Storage for Contemporary Sized Playbills</a></strong>
+			</td>
+		</tr>
+		<tr>
+			<td class="arrivalsContain">
+				
+				
+					
+						<img src="http://cdn-gd.playbill.com/images/cache/remote/http_cdn-images.playbill.com/ee_assets/the-ultimate-playbill-binder-archival-quality-storage-for-contemporary-sized-playbills-5.jpg" width="55" class="homePic" border="0">
+					
+				
+			</td>
+			<td class="productTitle" valign="top">
+				<br>List price: $40.00<br>
+									<strong><font color="#FF0000">Sale price: $32.95</font></strong>
 							</td>
 		</tr>
 	
@@ -1070,10 +1081,10 @@ mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
 														</td>
 														<td width="5"> </td>
 														<td width="160">
-															<!--googleoff: all-->
+																															<!--googleoff: all-->
 <!--noindex-->
 <noindex>
-																<!--/* Revive Adserver Javascript Tag v3.0.5 */-->
+																	<!--/* Revive Adserver Javascript Tag v3.0.5 */-->
 
 <script type="text/javascript"><!--//<![CDATA[
    // var m3_u = (location.protocol=='https:'?'https://ox1.playbill.com/www/delivery/ajs.php':'http://ox1.playbill.com/www/delivery/ajs.php');
@@ -1090,12 +1101,12 @@ mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="http://ox1.playbill.com/www/delivery/ajs.php?zoneid=37&amp;source=about&amp;cb=28684100089&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20150630120312id_/http%253A//www.playbill.com/about/privacy"></script><noscript><a href='http://ox1.playbill.com/www/delivery/ck.php?n=a12609d3&amp;cb=1868859258' target='_blank'><img src='http://ox1.playbill.com/www/delivery/avw.php?zoneid=37&amp;source=about&amp;cb=1868859258&amp;n=a12609d3' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="http://ox1.playbill.com/www/delivery/ajs.php?zoneid=37&amp;source=about&amp;cb=64230331703&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20151122073707id_/http%253A//www.playbill.com/about/privacy"></script><noscript><a href='http://ox1.playbill.com/www/delivery/ck.php?n=a12609d3&amp;cb=1810292914' target='_blank'><img src='http://ox1.playbill.com/www/delivery/avw.php?zoneid=37&amp;source=about&amp;cb=1810292914&amp;n=a12609d3' border='0' alt='' /></a></noscript>
 
-															</noindex>
+																</noindex>
 <!--index-->
 <!--googleon: all-->
-															
+																														
 															
 															<!-- BEGIN PAID AD PLACEHOLDER /-->
 																															<!--googleoff: all-->
@@ -1103,7 +1114,7 @@ mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
 <noindex>
 																	<!--/* Revive Adserver iFrame Tag v3.0.5 */-->
 
-<iframe id="a2b4c59c" name="a2b4c59c" src="http://ox1.playbill.com/www/delivery/afr.php?zoneid=11&amp;source=about&amp;cb=1868859258" frameborder="0" scrolling="no" width="160" height="600"><a href='http://ox1.playbill.com/www/delivery/ck.php?n=a0eac0ae&amp;cb=1868859258' target='_blank'><img src='http://ox1.playbill.com/www/delivery/avw.php?zoneid=11&amp;source=about&amp;cb=1868859258&amp;n=a0eac0ae' border='0' alt='' /></a></iframe>
+<iframe id="a2b4c59c" name="a2b4c59c" src="http://ox1.playbill.com/www/delivery/afr.php?zoneid=11&amp;source=about&amp;cb=1810292914" frameborder="0" scrolling="no" width="160" height="600"><a href='http://ox1.playbill.com/www/delivery/ck.php?n=a0eac0ae&amp;cb=1810292914' target='_blank'><img src='http://ox1.playbill.com/www/delivery/avw.php?zoneid=11&amp;source=about&amp;cb=1810292914&amp;n=a0eac0ae' border='0' alt='' /></a></iframe>
 
 																</noindex>
 <!--index-->
@@ -1119,6 +1130,14 @@ mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
 																<tr>
 																	<td align="center" class="club-special-offer">
 																		<center>
+																			
+																				<i><b>Fiddler On The Roof</b></i><br>
+																				<p class="club-special-offer">
+																					 Featuring the Broadway classics “To Life (L’Chaim!),” “If I Were A Rich Man,” “Sunrise Sunset,” “Matchmaker, Matchmaker,” and “Tradition,” <i>Fiddler on the Roof</i> will introduce a new generation to this uplifting celebration that raises its cup to joy! To love! To life!
+																				</p><p class="club-special-offer">
+																					<a href="http://playbill.com/club/offer_detail/fiddler-on-the-roof4">Click here</a> for details. 
+																				</p>
+																				
 																			
 																		</center>
 																	</td>
@@ -1158,7 +1177,7 @@ mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="http://ox1.playbill.com/www/delivery/ajs.php?zoneid=12&amp;source=about&amp;cb=94572232395&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20150630120312id_/http%253A//www.playbill.com/about/privacy"></script><noscript><a href='http://ox1.playbill.com/www/delivery/ck.php?n=a5369059&amp;cb=1868859258' target='_blank'><img src='http://ox1.playbill.com/www/delivery/avw.php?zoneid=12&amp;source=about&amp;cb=1868859258&amp;n=a5369059' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="http://ox1.playbill.com/www/delivery/ajs.php?zoneid=12&amp;source=about&amp;cb=89446251253&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20151122073707id_/http%253A//www.playbill.com/about/privacy"></script><noscript><a href='http://ox1.playbill.com/www/delivery/ck.php?n=a5369059&amp;cb=1810292914' target='_blank'><img src='http://ox1.playbill.com/www/delivery/avw.php?zoneid=12&amp;source=about&amp;cb=1810292914&amp;n=a5369059' border='0' alt='' /></a></noscript>
 
 																		</noindex>
 <!--index-->
@@ -1207,20 +1226,28 @@ mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
          <img src="/images/NewestDiscounts.gif" alt="Newest Discounts" width="161" height="41" border="0"></a>
          <ul class="sidebarList">
             
-               <li>Amazing Grace</li>
+               <li><a href="http://www.playbill.com/club/offer_detail/allegiance" style="text-decoration: none; color:#000000">Allegiance</a></li><a href="http://www.playbill.com/club/offer_detail/allegiance" style="text-decoration: none; color:#000000">
             
-               <li>An American in Paris</li>
+               </a><li><a href="http://www.playbill.com/club/offer_detail/allegiance" style="text-decoration: none; color:#000000"></a><a href="http://playbill.com/club/offer_detail/a-view-from-the-bridge1" style="text-decoration: none; color:#000000">A View From The Bridge</a></li><a href="http://playbill.com/club/offer_detail/a-view-from-the-bridge1" style="text-decoration: none; color:#000000">
             
-               <li>Hand To God</li>
+               </a><li><a href="http://playbill.com/club/offer_detail/a-view-from-the-bridge1" style="text-decoration: none; color:#000000"></a><a href="http://playbill.com/club/offer_detail/dames-at-sea1" style="text-decoration: none; color:#000000">Dames At Sea</a></li><a href="http://playbill.com/club/offer_detail/dames-at-sea1" style="text-decoration: none; color:#000000">
             
-               <li>On The Town</li>
+               </a><li><a href="http://playbill.com/club/offer_detail/dames-at-sea1" style="text-decoration: none; color:#000000"></a><a href="http://playbill.com/club/offer_detail/fool-for-love" style="text-decoration: none; color:#000000">Fool For Love</a></li><a href="http://playbill.com/club/offer_detail/fool-for-love" style="text-decoration: none; color:#000000">
             
-               <li>Something Rotten</li>
+               </a><li><a href="http://playbill.com/club/offer_detail/fool-for-love" style="text-decoration: none; color:#000000"></a><a href="http://www.playbill.com/club/offer_detail/on-your-feet" style="text-decoration: none; color:#000000">On Your Feet</a></li><a href="http://www.playbill.com/club/offer_detail/on-your-feet" style="text-decoration: none; color:#000000">
             
-         </ul>
+               </a><li><a href="http://www.playbill.com/club/offer_detail/on-your-feet" style="text-decoration: none; color:#000000"></a><a href="http://www.playbill.com/club/offer_detail/spring-awakening9" style="text-decoration: none; color:#000000">Spring Awakening</a></li><a href="http://www.playbill.com/club/offer_detail/spring-awakening9" style="text-decoration: none; color:#000000">
+            
+               </a><li><a href="http://www.playbill.com/club/offer_detail/spring-awakening9" style="text-decoration: none; color:#000000"></a><a href="http://www.playbill.com/club/offer_detail/sylvia" style="text-decoration: none; color:#000000">Sylvia</a></li><a href="http://www.playbill.com/club/offer_detail/sylvia" style="text-decoration: none; color:#000000">
+            
+               </a><li><a href="http://www.playbill.com/club/offer_detail/sylvia" style="text-decoration: none; color:#000000"></a><a href="http://playbill.com/club/offer_detail/the-gin-game" style="text-decoration: none; color:#000000">The Gin Game</a></li><a href="http://playbill.com/club/offer_detail/the-gin-game" style="text-decoration: none; color:#000000">
+            
+               </a><li><a href="http://playbill.com/club/offer_detail/the-gin-game" style="text-decoration: none; color:#000000"></a><a href="http://www.playbill.com/club/offer_detail/the-illusionists" style="text-decoration: none; color:#000000">The Illusionists</a></li><a href="http://www.playbill.com/club/offer_detail/the-illusionists" style="text-decoration: none; color:#000000">
+            
+         </a></ul><a href="http://www.playbill.com/club/offer_detail/the-illusionists" style="text-decoration: none; color:#000000">
          <!-- BEGIN BROADWAY'S BEST /-->
          <br>
-         <a target="_top" href="/club/offers/"><img src="/images/BroadwaysBest.gif" alt="Broadway's Best" width="161" height="41" border="0"></a><br>
+         </a><a target="_top" href="/club/offers/"><img src="/images/BroadwaysBest.gif" alt="Broadway's Best" width="161" height="41" border="0"></a><br>
          <br>
          <strong>
             ALSO SAVE ON <br>
@@ -1228,20 +1255,28 @@ mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
          </strong>
          <ul class="sidebarList">
             
-               <li>A Gentleman's Guide</li>
+               <li><a href="http://playbill.com/club/offer_detail/an-american-in-paris" style="text-decoration: none; color:#000000">An American In Paris</a></li><a href="http://playbill.com/club/offer_detail/an-american-in-paris" style="text-decoration: none; color:#000000">
             
-               <li>Jersey Boys</li>
+               </a><li><a href="http://playbill.com/club/offer_detail/an-american-in-paris" style="text-decoration: none; color:#000000"></a><a href="http://www.playbill.com/club/offer_detail/the-curious-incident-of-the-dog-in-the-night-time1" style="text-decoration: none; color:#000000">Curious Incident</a></li><a href="http://www.playbill.com/club/offer_detail/the-curious-incident-of-the-dog-in-the-night-time1" style="text-decoration: none; color:#000000">
             
-               <li>Kinky Boots</li>
+               </a><li><a href="http://www.playbill.com/club/offer_detail/the-curious-incident-of-the-dog-in-the-night-time1" style="text-decoration: none; color:#000000"></a><a href="http://www.playbill.com/club/offer_detail/fun-home1" style="text-decoration: none; color:#000000">Fun Home</a></li><a href="http://www.playbill.com/club/offer_detail/fun-home1" style="text-decoration: none; color:#000000">
             
-               <li>Mamma Mia</li>
+               </a><li><a href="http://www.playbill.com/club/offer_detail/fun-home1" style="text-decoration: none; color:#000000"></a><a href="http://www.playbill.com/club/offer_detail/hand-to-god" style="text-decoration: none; color:#000000">Hand To God</a></li><a href="http://www.playbill.com/club/offer_detail/hand-to-god" style="text-decoration: none; color:#000000">
             
-               <li>Matilda</li>
+               </a><li><a href="http://www.playbill.com/club/offer_detail/hand-to-god" style="text-decoration: none; color:#000000"></a><a href="http://www.playbill.com/club/offer_detail/jersey-boys2" style="text-decoration: none; color:#000000">Jersey Boys</a></li><a href="http://www.playbill.com/club/offer_detail/jersey-boys2" style="text-decoration: none; color:#000000">
             
-               <li>Phantom</li>
+               </a><li><a href="http://www.playbill.com/club/offer_detail/jersey-boys2" style="text-decoration: none; color:#000000"></a><a href="http://playbill.com/club/offer_detail/kinky-boots1" style="text-decoration: none; color:#000000">Kinky Boots</a></li><a href="http://playbill.com/club/offer_detail/kinky-boots1" style="text-decoration: none; color:#000000">
             
-         </ul>
-         <a target="_top" href="http://www.playbillclub.com/"><strong>and more!</strong></a><br><br>
+               </a><li><a href="http://playbill.com/club/offer_detail/kinky-boots1" style="text-decoration: none; color:#000000"></a><a href="http://www.playbill.com/club/offer_detail/les-misrables1" style="text-decoration: none; color:#000000">Les Miserables</a></li><a href="http://www.playbill.com/club/offer_detail/les-misrables1" style="text-decoration: none; color:#000000">
+            
+               </a><li><a href="http://www.playbill.com/club/offer_detail/les-misrables1" style="text-decoration: none; color:#000000"></a><a href="http://www.playbill.com/club/offer_detail/matilda-the-musical1" style="text-decoration: none; color:#000000">Matilda</a></li><a href="http://www.playbill.com/club/offer_detail/matilda-the-musical1" style="text-decoration: none; color:#000000">
+            
+               </a><li><a href="http://www.playbill.com/club/offer_detail/matilda-the-musical1" style="text-decoration: none; color:#000000"></a><a href="http://www.playbill.com/club/offer_detail/the-phantom-of-the-opera18" style="text-decoration: none; color:#000000">Phantom of the Opera</a></li><a href="http://www.playbill.com/club/offer_detail/the-phantom-of-the-opera18" style="text-decoration: none; color:#000000">
+            
+               </a><li><a href="http://www.playbill.com/club/offer_detail/the-phantom-of-the-opera18" style="text-decoration: none; color:#000000"></a><a href="http://www.playbill.com/club/offer_detail/something-rotten" style="text-decoration: none; color:#000000">Something Rotten</a></li><a href="http://www.playbill.com/club/offer_detail/something-rotten" style="text-decoration: none; color:#000000">
+            
+         </a></ul><a href="http://www.playbill.com/club/offer_detail/something-rotten" style="text-decoration: none; color:#000000">
+         </a><a target="_top" href="http://www.playbillclub.com/"><strong>and more!</strong></a><br><br>
          <a target="_top" href="/club/join/"><img src="/images/JoinNow.gif" alt="Join Now" width="144" height="49" border="0"></a>
       </td>
    </tr>
@@ -1257,23 +1292,23 @@ mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
 		 <ul>
 			
 				<li>
-					<a target="_top" href="/news/article/alan-cumming-featured-in-male-exposure-b-side-photography-exhibit-examining-sexy-side-of-broadway-starting-tonight-352214">Alan Cumming Featured in Male Exposure  B Side Photography Exhibit, Examining “Sexy Side of Broadway</a>
+					<a target="_top" href="/news/article/129-rockettes-alum-kick-it-with-joanna-rush-tonight-372654">129 Rockettes Alum Kick It with Joanna Rush Tonight</a>
 				</li>
 			
 				<li>
-					<a target="_top" href="/news/article/william-inge-play-gets-world-premiere-tonight-at-williamstown-346986">William Inge Play Gets World Premiere Tonight at Williamstown</a>
+					<a target="_top" href="/news/article/this-is-how-i-roll-literally-ali-stroker-on-auditioning-the-same-way-she-dates-and-making-history-on-broadway-372809">“This is How I Roll Literally”&nbsp; Ali Stroker On Auditioning the Same Way She Dates and Making History</a>
 				</li>
 			
 				<li>
-					<a target="_top" href="/news/article/judy-blazer-joins-cast-of-tony-winning-best-musical-tonight-352213">Judy Blazer Joins Cast of Tony-Winning Best Musical Tonight</a>
+					<a target="_top" href="/news/article/steve-martin-and-martin-short-offer-an-evening-you-will-forget-for-the-rest-of-your-life-tonight-372658">Steve Martin and Martin Short Offer An Evening You Will Forget For the Rest of Your Life Tonight!</a>
 				</li>
 			
 				<li>
-					<a target="_top" href="/news/article/playbill-vaults-today-in-theatre-history-june-30-106800">Playbill Vault’s Today in Theatre History: June 30</a>
+					<a target="_top" href="/news/article/12-actors-we-would-love-to-see-play-chris-in-the-broadway-revival-of-miss-saigon-372771">12 Actors We Would Love to See Play Chris in the Broadway Revival of Miss Saigon</a>
 				</li>
 			
 				<li>
-					<a target="_top" href="/news/article/never-before-seen-pictures-and-anecdotes-from-the-creation-of-little-shop-of-horrors-352177">Never-Before-Seen Pictures and Anecdotes from the Creation of Little Shop of Horrors!</a>
+					<a target="_top" href="/news/article/what-does-an-air-sculptor-do-a-handful-of-theatre-jobs-you-didnt-know-existed-372799">What Does an “Air Sculptor” Do? A Handful of Theatre Jobs You Didn’t Know Existed</a>
 				</li>
 			
 		 </ul>
@@ -1287,16 +1322,16 @@ mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
 <div style="padding-left: 15px; width: 174px;">
     <h4 style="margin-top: 5px;">Recently Updated:</h4>
     <div id="vault-recent">
-        <img src="http://www.playbillvault.com/images/cover/P/e/thumbs/h120/Penn-and-Teller-On-Broadway-Playbill-July-15.jpg" alt="" style="float: left; padding-right: 3px;" height="120">
+        <img src="http://www.playbillvault.com/images/cover/A/l/thumbs/h120/Allegiance-Playbill-Oct-6-15.jpg" alt="" style="float: left; padding-right: 3px;" height="120">
 
-        <div><a target="_new" href="http://www.playbillvault.com/Show/Detail/14117/Penn-Teller-On-Broadway">Penn &amp; Teller On Broadway</a><br>
-        Cover Added        </div>
+        <div><a target="_new" href="http://www.playbillvault.com/Show/Detail/14103/Allegiance">Allegiance</a><br>
+        New Playbill        </div>
         <div style="clear: both"></div>
-        <div style="padding-top: 5px;"><a target="_new" href="http://www.playbillvault.com/Person/Detail/126520/Ivan-Hernandez">Ivan Hernandez</a><br>
-        Broadway Debut        </div>
+        <div style="padding-top: 5px;"><a target="_new" href="http://www.playbillvault.com/Person/Detail/62942/Matt-Bogart">Matt Bogart</a><br>
+        Photo Added        </div>
 
-        <div style="padding-top: 5px;"><a target="_new" href="http://www.playbillvault.com/Show/Detail/3074/Chicago">Chicago</a><br>
-        Cover Added        </div>
+        <div style="padding-top: 5px;"><a target="_new" href="http://www.playbillvault.com/Person/Detail/125777/Christie-Kim">Christie Kim</a><br>
+        Photo Added        </div>
     </div>
     <div style="margin-top: 5px; margin-bottom: 9px;"><strong><a class="productTitle" href="http://www.playbillvault.com" target="_new">Playbill Vault</a>: The Largest Broadway Database</strong></div>
 </div>
@@ -1382,6 +1417,21 @@ mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
 				
 					<li>
 						<a target="_top" href="/news/article/schedule-of-upcoming-live-theatre-broadcasts-in-movie-theatres-and-on-telev-322823">Schedule of Upcoming Live Theatre Broadcasts in Movie Theatres and on Television</a>
+					</li>
+					
+				
+					<li>
+						<a target="_top" href="/news/article/broadways-thanksgiving-week-performance-schedule-changes-359153">Broadway's Thanksgiving Week Performance Schedule Changes</a>
+					</li>
+					
+				
+					<li>
+						<a target="_top" href="/news/article/broadways-christmas-week-performance-schedule-359635">Broadway's Christmas Week Performance Schedule</a>
+					</li>
+					
+				
+					<li>
+						<a target="_top" href="/news/article/broadways-new-years-week-performance-schedule-359644">Broadway's New Year's Week Performance Schedule</a>
 					</li>
 					
 				
@@ -1473,8 +1523,24 @@ loadChartbeat : function()
 </script>
 
 
+<!-- START Parse.ly Include: Standard -->
+<div id="parsely-root" style="display: none">
+  <div id="parsely-cfg" data-parsely-site="playbill.com"></div>
+<script id="parsely-script" async="" src="https://d1z2jf7jlzjs58.cloudfront.net/p.js"></script></div>
+<script>
+(function(s, p, d) {
+  var h=d.location.protocol, i=p+"-"+s,
+      e=d.getElementById(i), r=d.getElementById(p+"-root"),
+      u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+      :"static."+p+".com";
+  if (e) return;
+  e = d.createElement(s); e.id = i; e.async = true;
+  e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+})("script", "parsely", document);
+</script>
+<!-- END Parse.ly Include -->
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ab10d82078","applicationID":"6150538","transactionName":"bwcGN0IDWUUFUBEMWVZNJQBEC1hYS3YgSl9WBgEb","queueTime":0,"applicationTime":264,"atts":"Q0AFQQoZSks=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ab10d82078","applicationID":"6150538","transactionName":"bwcGN0IDWUUFUBEMWVZNJQBEC1hYS3YgSl9WBgEb","queueTime":0,"applicationTime":330,"atts":"Q0AFQQoZSks=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-686.min.js"}</script>
 
 
 
