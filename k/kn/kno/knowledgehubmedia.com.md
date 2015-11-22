@@ -1,100 +1,141 @@
-> *The following text is extracted and transformed from the knowledgehubmedia.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623102801id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgehubmedia.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122131029id_/http%3A//knowledgehubmedia.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy | Knowledge Hub Media
 
-**Go Daddy Respects Your Privacy**
+**Privacy Statement**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Knowledge Hub Media is owned and operated by IT Knowledge Hub LLC. IT Knowledge Hub LLC, its subsidiaries and affiliates (collectively “IT Knowledge Hub LLC”) respect your privacy. Our purpose in collecting information from you is to help us provide you with better service, such as notifications about special offers and promotions. We will not willfully disclose any individually identifiable information about you to any third party without first receiving your permission, as explained in this privacy statement.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+**Key Definitions**
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+In this Privacy Policy, we use the following key definitions. Other terms are defined in the body of the policy.  
+“Click stream Data” means the information that IT Knowledge Hub LLC collects through cookies, log files, beacons and clear GIFs, as described in Section 4 below.  
+“Content Provider” means a third party that owns a white paper, analyst report or other document and allows IT Knowledge Hub LLC to link to or display that document on the Sites.  
+“User” or “you” means any person viewing any page of the Sites.  
+“Third Party Content” means the white papers, analyst reports and other documents available through the Sites and owned by Content Providers.
 
-**Information Collection and Use**
+**What Information Do We Collect?**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Profile Information: Our primary goal in collecting profile information (which may include your name and the following business – and not home or personal – information: title, address, phone number, fax number and e-mail address) is to provide you with the best and most useful content and services, and to offer you opportunities to obtain other products and services from us and our partners. Because we derive revenue mainly from advertising, collecting information is essential to keeping our services affordable to users.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We collect profile information when you provide it to us through the following: when you register on one of our sites, or an e-mail newsletter, register for one of our events or register to use certain services (like webcasts and white papers). Several of the services that we offer on our sites may require registration as a condition of use. Once you register with one of the IT Knowledge Hub LLC network of sites, including ITKnowledgeHub.com, KnowledgeHubMedia.com, WhitePaperWorld.com, MarketingKnowledgeHub.com, you are no longer anonymous to us. We may also receive information about you from other sources, such as Dunn and Bradstreet, and add it to the information you provided to us.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Cookies: Like most sites, for account management purposes, IT Knowledge Hub LLC uses cookies. Cookies are data files stored on your computer that identify you as a unique user. Cookies enable us to track user trends, preferences and patterns to better understand our user base and to improve the quality of our service. Most browsers permit users to refuse cookies or to be notified before a cookie is accepted. You can visit our site without using cookies.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Subscriber Information: If you subscribe to an email newsletter and become a “Subscriber”, IT Knowledge Hub LLC collects your email address, password and areas of interest. Member Information: If you register as a Member (such as by registering on a content directory, subscribing to a newsletter, registering on ITKnowledgeHub.com, KnowledgeHubMedia.com and/or our other aforementioned web properties, IT Knowledge Hub LLC collects additional information, including your name and corporate title, the name of your company and the department in which you work, your industry group, country, zip code and telephone number (“Member Details”). At the time you register to become a Member, or later when you access a particular page or document, IT Knowledge Hub LLC may collect additional information, including but not limited to: information about software or hardware your company is using, plans your company may have to purchase additional products/services, etc.. All of this information together is included in the definition of “Member Details”.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Sharing Information: We aggregate profile information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. Except for the specific instances of information-sharing described above, we do not disclose to third parties any information that could be used to identify you personally.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**How Do We Use The Information We Collect?**
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Profile Information: IT Knowledge Hub LLC collects profile information supplied by visitors who register, as described above. That information lets us better tailor our content to visitor interests and helps our advertisers better understand the audience they are reaching. Most of IT Knowledge Hub LLC is free and is supported by paid content and sponsorships from our advertisers.
 
-**Security**
+Cookies: IT Knowledge Hub LLC uses persistent cookies to link Members to their registration information, which allows our system to confirm a user’s identity and access level on the Sites. IT Knowledge Hub LLC also uses that information to track service selections, and save passwords so that Members do not have to log in each time they visit the Sites.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+**Usage of Cookies for Ad serving**  
+Other cookies without personally identifying information and data are used to enable IT Knowledge Hub LLC to manage the online advertisements presented or personalized information to the user. Browsers or third-party software can allow you to block the use of cookies while you surf our site. Or, you can use third-party “anonymizer” services to mask information in your cookies, or even general data such as your IP address. In such cases you would not be able to take advantage of most of the personalization services offered by IT Knowledge Hub LLC.
 
-**Updating Your Information**
+IT Knowledge Hub LLC serves all advertising on IT Knowledge Hub LLC network affiliated web sites, email newsletters, RSS feeds, and other online mediums. When IT Knowledge Hub LLC is serving ads, it recognizes certain types of non-personally identifiable information, such as a user’s IP address, browser version or type, operating system, service provider and time zone. We also use cookies to note the general content of the sites that users visit over time in order to serve ads on this site and other sites.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Clear GIFs & Servers: We use these tracking technologies for a variety of purposes, including:
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+  * Keeping count of return visits to our site or our partners’ sites
+  * Accumulating and reporting anonymous, aggregate, statistical information on Web site and content usage to our partners and customers
+  * Determining which features visitors like best to help us improve our content and site, personalize your user experience, and measure overall site effectiveness
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-      iii.      You may call us at: (480) 505-8800
 
-       iv.      You may fax us at: (480) 505-8844
+Subscriber Information: We use Subscriber Information to deliver email newsletters on topics of interest to Subscribers who have signed up for those services. We may also send general promotional and marketing materials to Subscribers. We use Subscriber Information and Supplementary Information in aggregated form to understand our customer base and to market our services to our customers.
 
-**Sending Emails**
+Sharing Information: IT Knowledge Hub LLC may share profile information collected:
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+  * When we have your consent to share the information.
+  * When you register or log in to access vendor content or when you register to attend a vendor-sponsored event (including Webinars, Conferences, Custom Media events and Editorial events). The vendor’s use of that information is governed by the vendor’s privacy policy and may be used for follow up by telephone, email, direct mail or other common methods. You should contact these vendors directly if you have any questions about their use of this information.
+  * Profile information collected when you register or log in on a co-branded partner site is generally available both to IT Knowledge Hub LLC and that partner. However, the partner’s use of that profile information is governed by the partner’s privacy policy and may be used for follow up by telephone, email or other common methods. You should contact these partners directly if you have any questions about their use of this information.
+  * IT Knowledge Hub LLC does not share any of your profile information with any person or entity, unless you register to access vendor content, register to attend a vendor-sponsored IT Knowledge Hub LLC event (including Conferences, Custom Media events and Editorial events), register for our Newsletters.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+**Information Collection and Usage of Data of Registered Users**  
+When you register with the IT Knowledge Hub LLC Network, we ask you to share limited information about yourself and the company you represent. We only disclose business information that you are authorized to disclose. During interactive sessions, we may also collect your opinions and preferences regarding certain information technology products or services. We use this information to provide you with quality services as well as with offers that we think are relevant to you based on the preferences you share at registration or during interactive sessions.
 
-**Third Party Service Providers**
+Using your contact information, IT Knowledge Hub LLC may also send you e-mail messages under the following circumstances, among others:
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+  * To respond to an inquiry or request for information
+  * To thank you for contacting IT Knowledge Hub LLC or any of its wholly owned subsidiary web sites
+  * To welcome you to IT Knowledge Hub LLC or any of its wholly owned subsidiary web sites and to its products and services
+  * To explain new product offerings and features of our services
+  * To notify you of special promotions
+  * To communicate with you regarding customer service related issues.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-**Supplementation of Information**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+**Users Outside the US**
 
-**Contests/Surveys**
+While we make every effort to honor the laws and wishes of all users, this Web Site is available for users located exclusively in the United States of America and therefore may not recognize foreign laws.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+**Registration**
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+In order to use many features of the Web Site and to participate in interactive sessions, you will be asked to complete a registration form. During registration, you are required to provide contact information, for you and the company you represent as well as business information about the company you represent. IT Knowledge Hub LLC may use this contact information as a means of confirmation of your identity, position, or relationship to particular enterprise of company.
 
-**Tell-A-Friend**
+**Information Collection and Use From Registered Users**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+When you register on IT Knowledge Hub LLC or any Directory, we ask you to share limited information about yourself and the company you represent. Only disclose business information that you are authorized to disclose. During interactive sessions, we may also collect your opinions and preferences regarding certain information technology products or services. We use this information to provide you with quality services as well as with offers that we think are relevant to you based on the preferences you share at registration or during interactive sessions.
 
-**What Happens to my Personal Information if I Opt Out?**
+Please see the Information Sharing and Disclosure section below. Using your contact information, IT Knowledge Hub LLC may also send you e-mail messages under the following circumstances, among others:
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+  * To respond to an inquiry or request for information
+  * To thank you for contacting Find White Papers
+  * To welcome you to Find White Papers and to its products and services
+  * To explain new product offerings and features of our services
+  * To notify you of special promotions
+  * To communicate with you regarding customer service related issues.
 
-**Transfer of Data Abroad**
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-**Changes in Our Practices**
+Your contact information may be made available or provided to third-party service providers and contractors (such as the Website webmaster) that are contractually obligated to protect your information as disclosed in this Privacy Policy. In order to maintain accurate records concerning communications that IT Knowledge Hub LLC may have received from or sent to you, IT Knowledge Hub LLC may also indefinitely store any information that you provide to IT Knowledge Hub LLC through the Website.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+**What Information Do We Disclose to Third Parties?**
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+Disclosure of Anonymous, Aggregated Information We provide summary reports to our Content Providers, based on our analysis of Click stream Data. The type of information included in a summary report is “3,000 people looked at your information this week, and of those people 60% clicked through to read the full report.” This aggregated information is anonymous and does not disclose to the Content Providers any Member Details about the individual users who saw or clicked on their reports.
 
-**Contacting Our Site**
+IT Knowledge Hub LLC also discloses aggregated user statistics (for example, 25% of our users are interested in Networking) in order to describe our services to prospective customers and partners, and other third parties, and for other lawful purposes.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+Disclosure of Personal Information  
+Philosophy: The Content Providers make the Third Party Content available through IT Knowledge Hub LLC in return for receiving the contact information of Users who view their Third Party Content. Accordingly, if you view Third Party Content, IT Knowledge Hub LLC may disclose your Member Details, Click stream Data and Supplementary Information to the Content Provider, as set forth in more detail below. If you do not want this information disclosed to a Content Provider, do not view the Third Party Content. Except as set forth in this Privacy Policy, IT Knowledge Hub LLC will not disclose personal information to any third parties. Notwithstanding the foregoing, IT Knowledge Hub LLC may at any time disclose profile information to third parties if we are required to do so by law, regulation or court order.
 
-* * *
+Member Information: When you view Third Party Content, IT Knowledge Hub LLC may disclose your Member Details and Click stream Data, together with Supplementary Information, to the Content Provider. IT Knowledge Hub LLC’s customer agreement with the Content Provider: (a) provides that the Content Provider may use this information only to send you product information, to contact you via common methods of communication to assess your interest in its products and services, and to assess your interest in the Content Provider’s products and services; and (b) prohibits disclosure of this information to any third party other than agents of the Content Provider for the permitted marketing purposes set forth above. You should contact the Content Provider directly if you have any questions about their use of this information.
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+**Log Files**
+
+We use IP addresses to analyze trends, administer the Web Site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses that we collect are not linked to personally identifiable information.
+
+**Notification of Policy Changes**
+
+We may update this Privacy Policy from time to time. We will notify you about significant changes to our Privacy Policy by placing a prominent notice on our Web Site or sending an email to the address you provided to us. IT Knowledge Hub LLC welcomes comments and questions on this policy.
+
+**Security Precautions**
+
+IT Knowledge Hub LLC takes precautions to protect data and information under its control from misuse, loss or alteration. IT Knowledge Hub LLC’s security measures include industry-standard technology and equipment to help protect your information, and IT Knowledge Hub LLC maintains security measures to allow only the appropriate personnel and contractors access to your information. Unfortunately, no system can ensure complete security, and IT Knowledge Hub LLC disclaims any liability resulting from use of the Website.
+
+If you have any questions about the security at our Web Sites, please [contact us](http://knowledgehubmedia.com/contact-us/questions-support/).
+
+**Exceptions**
+
+Other than as set forth above, IT Knowledge Hub LLC will not otherwise use or disclose any of your personal information except to the extent reasonably necessary to: (i) process your information and to correct technical problems and malfunctions in the Website or the computer systems supporting the Website; (ii) protect the security and integrity of the Website; (iii) protect the rights and property of  IT Knowledge Hub LLC and others; (iv) take precautions against liability; (v) respond to claims that your information violates the rights and interests of third-parties; (vi) respond to judicial or administrative process or otherwise comply with applicable law; and (vii) to assist law enforcement agencies in connection with investigations or matters related to public safety.
+
+**Updating Personal Information**
+
+You may update or correct information you previously provided to IT Knowledge Hub LLC by accessing your user profile on our various directory web sites.
+
+**Links to Other Web Sites**
+
+ITKnowledgeHub.com, KnowledgeHubMedia.com, MarketingKnowledgeHub.com, and WhitePaperWorld.com are three of the properties within the IT Knowledge Hub LLC network of sites. Each of these sites hosts thousands of white papers as well as white paper Research Libraries on third party sites. Some Third Party Content made available through the Research Library sites is maintained on the website of the Content Provider, and not on the IT Knowledge Hub LLC network of sites. This means that when you click through to that Third Party Content, you will be leaving the Research Library and the IT Knowledge Hub LLC Network. It will be clear to you when this happens, as the look and feel of your web page will change, and the URL will no longer refer to a website in IT Knowledge Hub LLC network of sites. This Privacy Policy does not govern the use and disclosure of any information you choose to disclose to the Content Provider on the Content Provider site.
+
+In addition, the Sites you are viewing may be co-branded, meaning that the Sites are branded with the logos of both IT Knowledge Hub LLC and a third party (“Co-Branded Sites”). If you register or log in on a Co-Branded Site, you are choosing to disclose information to both IT Knowledge Hub LLC and the third party with whose brand the site is co-branded. This Privacy Policy only governs IT Knowledge Hub LLC’s use of your information. The third party’s use of that personal information is governed by the partner’s privacy policy, and not by this Privacy Policy.
+
+The IT Knowledge Hub LLC Web Site also contains links to other Web Sites. Please be aware that IT Knowledge Hub LLC is not responsible for the privacy practices of such other sites. We encourage our users to read the privacy statements of each and every Web Site that you visit from our Web Site or through the interactive sessions.
+
+**Questions or Comments**
+
+Regarding the Privacy Policy For additional questions, or to be taken off our marketing lists, please contact us.
