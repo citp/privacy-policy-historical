@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shop.ca privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222183335id_/http%3A//www.shop.ca/c/shop-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop.ca privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122132049id_/http%3A//www.shop.ca/c/shop-privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -16,7 +16,7 @@ Canadian privacy legislation defines personal information broadly as information
 
 We collect your personal information to provide you with helpful, relevant information and the best shopping experience on our sites, mobile applications, third-party social media channels,and in our e-mails. In addition, from time to time, we may use your personal information for the following purposes:
 
-  * to understand your needs and preferences, including to contact and communicate    with you and to conduct surveys, research and evaluations;
+  * to understand your needs and preferences, including to contact and communicate with you and to conduct surveys, research and evaluations;
   * to deposit loyalty earnings, ie Aeroplan Miles, SHOP.CA Credits
   * to administer contests run on our sites;
   * to manage and develop [SHOP.CA](about:blank)’s business and operations;
@@ -26,7 +26,7 @@ We collect your personal information to provide you with helpful, relevant infor
 
 
 
-If you provide your email address and expressly consent to opt-in to receive promotional and informational emails or other commercial electronic messages, you are always given the opportunity to remove that consent via an unsubscribe request provided within email, as a change in preference in a mobile application, or by contacting our Customer Loyalty Team by telephone at 1.855.4.SHOP.CA or by postal mail at SHOP Network Inc. 70 Peter Street, Toronto, Ontario, M5V 2G5.
+If you provide your email address and expressly consent to opt-in to receive promotional and informational emails or other commercial electronic messages, you are always given the opportunity to remove that consent via an unsubscribe request provided within email, as a change in preference in a mobile application, or by contacting our Customer Loyalty Team by telephone at 1.855.4.SHOP.CA or by postal mail at SHOP Network Inc. 70 Peter Street, Suite 200, Toronto, Ontario, M5V 2G5.
 
 **WHAT HAPPENS TO INFORMATION YOU PROVIDE ON A CONTEST ENTRY?**
 
@@ -54,7 +54,7 @@ Upon written request, subject to certain exceptions, [SHOP.CA](about:blank) wi
 
 **HOW DO WE PROTECT YOUR PERSONAL INFORMATION?**
 
-We make every reasonable effort to protect against the loss, misuse, and alteration of personal information under our control. Only authorized employees and suppliers have access to your personal information.[SHOP.CA](about:blank) retains your personal information only as long as necessary to fulfill the identified purpose(s) or as otherwise required or allowed by law. Also, if you send us an email message, we may retain that message and your email address, as well as any response we send you. 
+We make every reasonable effort to protect against the loss, misuse, and alteration of personal information under our control. Only authorized employees and suppliers have access to your personal information. [SHOP.CA](about:blank) retains your personal information only as long as necessary to fulfill the identified purpose(s) or as otherwise required or allowed by law. Also, if you send us an email message, we may retain that message and your email address, as well as any response we send you. 
 
 **GENERAL**
 
@@ -66,4 +66,8 @@ If you have any questions, concerns or requests relating to this Privacy Policy,
 
 **CHANGES TO THE PRIVACY POLICY**
 
-[SHOP.CA](about:blank) reserves the right to update, modify or supplement this Privacy Policy from time to time. This Privacy Policy is intended to comply with the provisions of the Personal Information Protection and Electronic Documents Act (Canada) and Canada’s Anti-Spam Law (CASL). 
+SHOP.CA reserves the right to update, modify or supplement this Privacy Policy from time to time. This Privacy Policy is intended to comply with the provisions of the Personal Information Protection and Electronic Documents Act (Canada) and Canada’s Anti-Spam Law (CASL). 
+
+**TERMS OF SERVICE**
+
+SHOP.CA controls www.shop.ca from its offices within the Province of Ontario, Canada. The Website can be accessed from all provinces and territories of Canada and from other countries around the world. As each of these jurisdictions have laws that may differ from those of the Province of Ontario, by accessing the Website, You agree that all matters relating to access to, or use of, the Website, or any other hyperlinked website, shall be governed by the laws of the Province of Ontario and the federal laws of Canada applicable therein. You also agree and hereby submit to the non-exclusive personal jurisdiction and venue of the courts of the Province of Ontario and acknowledge that You do so voluntarily and are responsible for complying with all local laws.
