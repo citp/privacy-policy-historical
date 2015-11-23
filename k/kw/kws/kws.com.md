@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kws.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413081407id_/http%3A//www.kws.com/go/id/slu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kws.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123170430id_/http%3A//www.kws.com/go/id/slu) for the most accurate reproduction.*
 
-# KWS SAAT AG- Data Privacy Policy
+# KWS SAAT SE - Data Privacy Policy
 
-KWS SAAT AG (hereafter also called "KWS") is pleased to learn about your interest in our company and would like to thank you for visiting our website. The protection of your personal data is very important to KWS. Hereafter you will find information in particular with regard to when we store which data and how we use them.
+KWS SAAT SE (hereafter also called "KWS") is pleased to learn about your interest in our company and would like to thank you for visiting our website. The protection of your personal data is very important to KWS. Hereafter you will find information in particular with regard to when we store which data and how we use them.
 
 **Anonymous Data Collection**
 
@@ -52,7 +52,7 @@ For legal and/or organizational reasons modifications resp. adjustments of this 
 
 For questions, comments, recommendations as well as requests of information in connection with our Data Privacy Policy and the processing or your personal data please contact directly our data protection officer at the following address:
 
-KWS SAAT AG  
+KWS SAAT SE  
 Data protection officer  
 Grimsehlstr, 31  
 Box 1463
@@ -61,4 +61,4 @@ Phone: +49 (0)5561 311-0
 Fax: +49 (0)5561 311-322  
 E-Mail: [datenschutz@kws.com](mailto:%64%61%74%65%6E%73%63%68%75%74%7A%40%6B%77%73%2E%63%6F%6D)
 
-Einbeck, December 2011
+Einbeck, April 2015
