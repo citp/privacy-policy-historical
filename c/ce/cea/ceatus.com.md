@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ceatus.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104234757id_/http%3A//www.ceatus.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceatus.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124003846id_/http%3A//www.ceatus.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Ceatus Media Group LLC
+# Privacy Policy - Ceatus Media Group
 
-We respect the privacy of visitors to our website. This policy describes how we gather information from our site's visitors and what we do with it.
+We respect the privacy of visitors to our website. This policy describes how we gather information from our site’s visitors and what we do with it.
 
 ## How We Collect Information
 
-Our web server automatically recognizes each visitor's IP address, which can be associated with your Internet service provider. This does not provide us with personally identifiable information.
+Our web server automatically recognizes each visitor’s IP address, which can be associated with your Internet service provider. This does not provide us with personally identifiable information.
 
-You can visit our website without revealing any information about yourself. Our site does not track, collect, or distribute personal information about you (such as name, address, e-mail address, telephone number, and product preferences) unless you voluntarily input this information, such as when you ask us to e-mail a friend about this site or when you otherwise voluntarily enter this information. Any information you enter will be used by us only as described in the "How we use information" section of this statement.
+You can visit our website without revealing any information about yourself. Our site does not track, collect, or distribute personal information about you (such as name, address, e-mail address, telephone number, and product preferences) unless you voluntarily input this information, such as when you ask us to e-mail a friend about this site or when you otherwise voluntarily enter this information. Any information you enter will be used by us only as described in the “How we use information” section of this statement.
 
 We use electronic records to compile statistics about how collectively our visitors interact with our website. These statistics contain no personal information. By voluntarily providing us with information about yourself, you are consenting to our use of it in accordance with this policy.
 
@@ -24,7 +24,7 @@ Information submitted or provided to us by a website user or any person or entit
 
 ## Cookies
 
-Cookies are small text files that websites store on your computer's hard drive. When they are supplied from our site, they contain information you have given us and are intended to be a convenience to you. They eliminate the need to enter your name and e-mail address in certain forms on our site. They may also record how often you visit our website, or what pages you looked at, so that we may distinguish how many unique visitors we have, how often we are visited, and how many pages are viewed by each visitor.
+Cookies are small text files that websites store on your computer’s hard drive. When they are supplied from our site, they contain information you have given us and are intended to be a convenience to you. They eliminate the need to enter your name and e-mail address in certain forms on our site. They may also record how often you visit our website, or what pages you looked at, so that we may distinguish how many unique visitors we have, how often we are visited, and how many pages are viewed by each visitor.
 
 This site uses cookies only to store personally identifying information that you have provided to us. These cookies are not capable of obtaining additional personally identifying information.
 
