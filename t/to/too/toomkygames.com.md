@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toomkygames.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613034255id_/http%3A//toomkygames.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toomkygames.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123205204id_/http%3A//toomkygames.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Games Download - Free PC Games
 
