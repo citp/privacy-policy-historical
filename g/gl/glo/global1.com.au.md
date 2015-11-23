@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the global1.com.au privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120104934id_/http%3A//global1.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the global1.com.au privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123204929id_/http%3A//global1.com.au/privacy-and-security-policy) for the most accurate reproduction.*
 
-# Privacy & Security Policy
+# Privacy and Security Policy | Global1
 
-Privacy & Security Policy   
-  
-This Privacy Policy governs the manner in which Global1Training Pty Ltd (ACN 18 112 642 485) (“Global1”) collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.global1training.com](http://global1.com.au/) or [www.global1.com.au](http://global1.com.au/) websites ("Sites"). This privacy policy applies to the Site and all products and services offered by Global1.
+## Privacy Policy
+
+This Privacy Policy governs the manner in which Global1Training Pty Ltd (ACN 18 112 642 485) (“Global1”) collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.global1training.com](http://global1.com.au/) or [www.global1.com.au](http://global1.com.au/) websites ("Sites"). This privacy policy applies to the Site and all products and services offered by Global1.
 
 ### Your acceptance of these terms
 
-By using these Sites, you signify your acceptance of this policy and [terms of use](http://global1.com.au/terms-of-use). If you do not agree to this policy, please do not use our Sites. Your continued use of the Sites following the posting of changes to this policy will be deemed your acceptance of those changes. Questions regarding this Privacy Policy, the practices of these Sites, or your dealings with these Sites should be directed by e-mail to [info@global1.com.au](mailto:info@global1.com.au). You also contact us at Global1Training Pty Ltd, Suite 1106, Level 11, 100 William St Woolloomooloo NSW 2011.
+By using these Sites, you signify your acceptance of this policy and [terms of use](http://global1.com.au/terms-of-use). If you do not agree to this policy, please do not use our Sites. Your continued use of the Sites following the posting of changes to this policy will be deemed your acceptance of those changes. Questions regarding this Privacy Policy, the practices of these Sites, or your dealings with these Sites should be directed by e-mail to [info@global1.com.au](mailto:info@global1.com.au). You also contact us at Global1Training Pty Ltd, Suite 1106, Level 11, 100 William St Woolloomooloo NSW 2011.
 
 ### Information Collected
 
@@ -36,7 +36,7 @@ We collect personal information primarily to record appropriate details for any 
 
 
 
-We only collect personal information for purposes which are directly related to our functions or activities under [the Privacy Act 1988 (link is external)](http://www.comlaw.gov.au/Series/C2004A03712) (Privacy Act), [Freedom of Information Act 1982 (link is external)](http://www.comlaw.gov.au/Series/C2004A02562) (FOI Act) or the [Australian Information Commissioner Act 2010 (link is external)](http://www.comlaw.gov.au/Series/C2010A00052) (AIC Act), and only when it is necessary for or directly related to such purposes
+We only collect personal information for purposes which are directly related to our functions or activities under [the Privacy Act 1988 (link is external)](http://www.comlaw.gov.au/Series/C2004A03712) (Privacy Act), [Freedom of Information Act 1982 (link is external)](http://www.comlaw.gov.au/Series/C2004A02562) (FOI Act) or the [Australian Information Commissioner Act 2010 (link is external)](http://www.comlaw.gov.au/Series/C2010A00052) (AIC Act), and only when it is necessary for or directly related to such purposes
 
 ### Personal identification information
 
@@ -48,9 +48,9 @@ Gobal1 may collect and use Users personal information for the following purposes
 
   * _**To improve customer service**_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _**To personalize user experience**_   
+  * _**To personalize user experience**_    
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _**To improve our Site**_   
+  * _**To improve our Site**_    
 We may use feedback you provide to improve our products and services.
   * _**To process payments**_  
 We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
@@ -71,13 +71,13 @@ We may collect non-personal identification information about Users whenever they
 
 ### Web browser cookies
 
-Our Sites may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Sites may use "cookies" to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
 ### Online Advertising We Use
 
-We use Google AdWords Remarketing to trigger display ads across the Internet. AdWords Remarketing will display relevant ads tailored to you based on what parts of Global1 website you have viewed by placing a cookie on your machine. THIS COOKIE DOES NOT IN ANYWAY IDENTIFY YOU OR GIVE ACCESS TO YOUR COMPUTER. 
+We use Google AdWords Remarketing to trigger display ads across the Internet. AdWords Remarketing will display relevant ads tailored to you based on what parts of Global1 website you have viewed by placing a cookie on your machine. THIS COOKIE DOES NOT IN ANYWAY IDENTIFY YOU OR GIVE ACCESS TO YOUR COMPUTER.
 
-If you do not wish to participate in our Google AdWords Remarketing, you can opt out by visiting [Google's Ads Preferences Manager (link is external)](https://www.google.com/settings/ads).
+If you do not wish to participate in our Google AdWords Remarketing, you can opt out by visiting [Google’s Ads Preferences Manager (link is external)](https://www.google.com/settings/ads).
 
 ### How we protect your information
 
@@ -103,7 +103,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 ### Third party websites
 
-Users may find advertising or other content on our Sites that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+Users may find advertising or other content on our Sites that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
 ### Changes to this privacy policy
 
