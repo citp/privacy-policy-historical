@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 1001pallets.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610001145id_/http%3A//www.1001pallets.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1001pallets.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123095706id_/http%3A//www.1001pallets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • 1001 Pallets
 
-At 1001Pallets.com, the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+At 1001Pallets.com, the privacy of our visitors is of extreme importance to us (See this article to learn more about Privacy Policies.). This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
  **What personal information do we collect from the people that visit our blog, website or app?**
 
@@ -41,7 +41,7 @@ If you disable cookies off, some features will be disabled. It will affect the u
 
   * Google, as a third party vendor, uses cookies to serve ads on 1001Pallets.com.
   * Google’s use of the DART cookie enables it to serve ads to users based on their visit to 1001Pallets.com and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](http://www.google.com/policies/privacy/ads/).
 
 
 
