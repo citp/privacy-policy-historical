@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theadex.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502094629id_/http%3A//theadex.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theadex.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123181909id_/http%3A//theadex.com/company/privacy) for the most accurate reproduction.*
 
 # The ADEX - Privacy Statement
 
