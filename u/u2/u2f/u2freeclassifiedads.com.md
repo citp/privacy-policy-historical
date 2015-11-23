@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the u2freeclassifiedads.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609043647id_/http%3A//www.u2freeclassifiedads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the u2freeclassifiedads.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123093404id_/http%3A//www.u2freeclassifiedads.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
-# Qtellwholesale Limited Private Policy and Cookie Policy Ireland for all webdesign, eCommerce plus all classifieds web sites
+# Falkland Islands , Falkland Islands - U2 Free Classifiedads B2B Classified Ads Post Ads Advertise Electronics Accessories Community Free Ads Business Classifiedads
 
   
 1\. Introduction
