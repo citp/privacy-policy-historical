@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the falconsafety.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520094917id_/http%3A//www.falconsafety.com/%3Fpage_id%3D785) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the falconsafety.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123222324id_/http%3A//www.falconsafety.com/%3Fpage_id%3D785) for the most accurate reproduction.*
 
 # Falcon Safety
 
