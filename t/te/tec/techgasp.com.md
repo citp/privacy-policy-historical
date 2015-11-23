@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techgasp.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504054432id_/http%3A//www.techgasp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techgasp.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123182342id_/http%3A//www.techgasp.com/privacy-policy) for the most accurate reproduction.*
 
 # www.techgasp.com - Privacy Policy
 
@@ -40,7 +40,7 @@ By default, customers do receive any voluntary system updates, such as the newsl
 
 ## Security
 
-TechGasp.com uses technical security measures to prevent the loss, misuse, alternation or unauthorized disclosure of information under our control. TechGasp.com uses security measures including and not limited to: physical, electronic and managerial procedures to safeguard and secure the information we collect online. When do not ask customers or users to provide financial information (such as a credit card number) that data is protected using Secure Sockets Layer ("SSL") technology from Paypal.
+TechGasp.com uses technical security measures to prevent the loss, misuse, alternation or unauthorized disclosure of information under our control. TechGasp.com uses security measures including and not limited to: physical, electronic and managerial procedures to safeguard and secure the information we collect online. When do not ask customers or users to provide financial information (such as a credit card number) that data is protected using Secure Sockets Layer ("SSL") technology.
 
 ## Data and Information Submitted to Another Person or Entity on Our Network
 
@@ -56,4 +56,4 @@ Any changes to our Privacy Policy will be placed here and will supersede this ve
 
 ## Contacting Us
 
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please use the contact link. You can also correct any factual errors in that information or require us to remove your details from any list under our control. You can also email using the contact link.
+If you have any questions about our Privacy Policy you can contact us using the Technical Support link.
