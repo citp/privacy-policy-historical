@@ -1,19 +1,19 @@
-<!--The following is the downloaded HTML source of the tfaw.com privacy policy that was archived on 2015-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150611085148id_/http%3A//www.tfaw.com/Help/Privacy-Policy___35) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tfaw.com privacy policy that was archived on 2015-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151123143630id_/http%3A//www.tfaw.com/Help/Privacy-Policy___35) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd"><html><head>
-  <script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://btn.createsend1.com/js/sb.min.js?v=2" class="createsend-script"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgcAUF5ACgQFVldaBg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+  <script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script type="text/javascript" async="" src="https://btn.createsend1.com/js/sb.min.js?v=2" class="createsend-script"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgcAUF5ACgQFVldaBg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:22,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/themes/smoothness/jquery-ui.css">
 <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js"></script>
   <meta name="google-site-verification" content="VWMqkK2RhxljJLwG_mBCUpvTQQi2bbNK5ucOBeg7aFg">
 
-<script type="text/javascript" src="//d2lzb5v10mb0lj.cloudfront.net/js/yui.min.js?201408281229"></script>
-<script type="text/javascript" src="//d2lzb5v10mb0lj.cloudfront.net/js/jquery-tools.min.js?201408281229"></script>
-<script type="text/javascript" src="//d2lzb5v10mb0lj.cloudfront.net/js/tfaw.min.js?201408281229"></script>
-<link rel="stylesheet" href="//d2lzb5v10mb0lj.cloudfront.net/css/jquery.min.css?201408281229">
-<link rel="stylesheet" href="//d2lzb5v10mb0lj.cloudfront.net/css/tfaw.min.css?201408281229">
-<link rel="stylesheet" href="//d2lzb5v10mb0lj.cloudfront.net/css/yui.min.css?201408281229">
+<script type="text/javascript" src="//d2lzb5v10mb0lj.cloudfront.net/js/yui.min.js?20151022112800"></script>
+<script type="text/javascript" src="//d2lzb5v10mb0lj.cloudfront.net/js/jquery-tools.min.js?20151022112800"></script>
+<script type="text/javascript" src="//d2lzb5v10mb0lj.cloudfront.net/js/tfaw.min.js?20151022112800"></script>
+<link rel="stylesheet" href="//d2lzb5v10mb0lj.cloudfront.net/css/jquery.min.css?20151022112800">
+<link rel="stylesheet" href="//d2lzb5v10mb0lj.cloudfront.net/css/tfaw.min.css?20151022112800">
+<link rel="stylesheet" href="//d2lzb5v10mb0lj.cloudfront.net/css/yui.min.css?20151022112800">
 
 
 <base href="http://www.tfaw.com/Help/Privacy-Policy___35/">
@@ -85,14 +85,30 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
         }
     }
 </script>
-</head>
+  <!-- Facebook Pixel Code -->
+  <script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+      n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+      document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '983952651699381');
+    fbq('track', "PageView");
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=983952651699381&ev=PageView&noscript=1"/>
+  </noscript>
+  <!-- End Facebook Pixel Code -->
+
+  </head>
 
 <body id="doc_body" bgcolor="#FFFFFF" link="#000000" vlink="#000000" alink="#CC0000">
 
 <div id="header-container" style=" z-index: 750; width:835px; margin:0 auto; margin-top:15px; margin-bottom:10px;">
 <div style="position:relative;margin-bottom:5px; margin-right:10px;">
 		<span style="">
-                            <a href="/"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/tfawlogo.png" border="0" alt="TFAW.com" width="250" height="65"></a>
+                            <a href="/"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/tfawlogo_xmas1.png" border="0" alt="TFAW.com" width="250" height="65" style="margin-right: 0px !important;"></a><a href="/gift-ideas/?qt=ia_topgift"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/tfawlogo_xmas2.png" border="0" alt="TFAW.com Gift Ideas" width="150" height="65" style="margin-left: 0px !important;"></a>
             		</span>
     <table id="livechat-table" style="position: absolute; top:0px; right:0px;" border="0" cellpadding="0" cellspacing="0">
         <tbody><tr>
@@ -101,7 +117,7 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
                         <!-- BEGIN ProvideSupport.com Custom Images Chat Button Code -->
                         <div id="ci42S5" style="z-index:100;position:absolute"></div>
                         <div id="sc42S5" style="display:inline"></div>
-                        <div id="sd42S5" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/tfaw/safe-standard.js?ps_h=42S5&amp;ps_t=1580362614699&amp;account_id=none&amp;discount_code=&amp;online-image=%2F%2Fd2lzb5v10mb0lj.cloudfront.net%2Ftfaw2007%2Fnav/LCon.jpg&amp;offline-image=%2F%2Fd2lzb5v10mb0lj.cloudfront.net%2Ftfaw2007%2Fnav/LCoff.jpg"></script></div>
+                        <div id="sd42S5" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/tfaw/safe-standard.js?ps_h=42S5&amp;ps_t=1580362617024&amp;account_id=none&amp;discount_code=&amp;online-image=%2F%2Fd2lzb5v10mb0lj.cloudfront.net%2Ftfaw2007%2Fnav/LCon.jpg&amp;offline-image=%2F%2Fd2lzb5v10mb0lj.cloudfront.net%2Ftfaw2007%2Fnav/LCoff.jpg"></script></div>
                         <script type="text/javascript">var se42S5 = document.createElement("script");
                             se42S5.type = "text/javascript";
                             var se42S5s = (location.protocol.indexOf("https") == 0 ? "https" : "http") + "://image.providesupport.com/js/tfaw/safe-standard.js?ps_h=42S5&ps_t=" + new Date().getTime() + "&account_id=none&discount_code=&online-image=%2F%2Fd2lzb5v10mb0lj.cloudfront.net%2Ftfaw2007%2Fnav/LCon.jpg&offline-image=%2F%2Fd2lzb5v10mb0lj.cloudfront.net%2Ftfaw2007%2Fnav/LCoff.jpg";
@@ -151,15 +167,15 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
         <span class="login-status">No matter what you're into, we've got just the thing for your collection!</span>    </div>
 </div>
 <div id="nav" style="border:1px solid #6f7d8f; position: relative; z-index: 11;">
-    <div style="heighst:34px; padding:0px;">
+    <div style="height:34px; padding:0px;">
         <table id="nav-menu-table" border="0" cellpadding="0" cellspacing="0" width="100%">
             <tbody><tr>
-                <td class="rollovertd">
+                
+<td class="rollovertd">
     <a href="/" class="menuitem">&nbsp;&nbsp;Home&nbsp;&nbsp;</a>
 </td>
 <td width="1" bgcolor="#6f7d8f"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="1" height="34" border="0" alt="">
-</td>
-<td class="rollovertd">
+</td><td class="rollovertd">
 <a href="/Graphic-Novels" class="menuitem">Graphic Novels</a>
 <table class="submenu" cellpadding="0" cellspacing="0" style="display: none;">
 <tbody>
@@ -168,33 +184,33 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
         <table cellpadding="0" cellspacing="0">
             <tbody>
             <tr>
-                <td class="">
-                    <a href="/Graphic-Novels/Pre-Orders">Pre-Orders</a>
+                <td>
+                    <a rel="nofollow" href="/Graphic-Novels/Pre-Orders">Pre-Orders</a>
                     <br>
                 </td>
             </tr>
             <tr>
-                <td class="">
-                    <a href="/Graphic-Novels/New-Releases">New Releases</a>
+                <td>
+                    <a rel="nofollow" href="/Graphic-Novels/New-Releases">New Releases</a>
                     <br>
                 </td>
             </tr>
             <tr>
-                <td class="">
-                    <a href="/Search/_results_prod_type_search=Graphic-Novels/_results_invstatus_search=instock">Available
+                <td>
+                    <a rel="nofollow" href="/Search/_results_prod_type_search=Graphic-Novels/_results_invstatus_search=instock">Available
                         Now</a>
                     <br>
                 </td>
             </tr>
             <tr>
-                <td class="">
-                    <a href="/Graphic-Novels/Top-20-Hottest">What's Hot</a>
+                <td>
+                    <a rel="nofollow" href="/Graphic-Novels/Top-20-Hottest">What's Hot</a>
                     <br>
                 </td>
             </tr>
             <tr>
-                <td class="">
-                    <a href="/Top-12-Graphic-Novels">Top Graphic Novels</a>
+                <td>
+                    <a rel="nofollow" href="/Top-12-Graphic-Novels">Top Graphic Novels</a>
                     <br>
                 </td>
             </tr>
@@ -204,26 +220,26 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
                 </td>
             </tr>
             <tr>
-                <td class="">
-                    <a href="/Graphic-Novels/First-Looks">First Looks</a>
+                <td>
+                    <a rel="nofollow" href="/Graphic-Novels/First-Looks">First Looks</a>
                     <br>
                 </td>
             </tr>
             <tr>
-                <td class="">
-                    <a href="/Graphic-Novels/Nick-And-Dent">Nick &amp; Dent</a>
+                <td>
+                    <a rel="nofollow" href="/Graphic-Novels/Nick-And-Dent">Nick &amp; Dent</a>
                     <br>
                 </td>
             </tr>
             <tr>
-                <td class="">
-                    <a href="/Graphic-Novels/Hardcovers">Hardcovers</a>
+                <td>
+                    <a rel="nofollow" href="/Graphic-Novels/Hardcovers">Hardcovers</a>
                     <br>
                 </td>
             </tr>
             <tr>
-                <td class="">
-                    <a href="/Graphic-Novels/Art-Books/">Art Books</a>
+                <td>
+                    <a rel="nofollow" href="/Graphic-Novels/Art-Books/">Art Books</a>
                     <br>
                 </td>
             </tr>
@@ -239,44 +255,44 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
                 </td>
             </tr>
             <tr>
-                <td class="">
-                    <a href="/Graphic-Novels/Genres/Action-Adventure">Action-Adventure</a>
+                <td>
+                    <a rel="nofollow" href="/Graphic-Novels/Genres/Action-Adventure">Action-Adventure</a>
                     <br>
                 </td>
             </tr>
             <tr>
-                <td class="">
-                    <a href="/Graphic-Novels/Genres/Fantasy">Fantasy</a>
+                <td>
+                    <a rel="nofollow" href="/Graphic-Novels/Genres/Fantasy">Fantasy</a>
                     <br>
                 </td>
             </tr>
             <tr>
-                <td class="">
-                    <a href="/Graphic-Novels/Genres/Horror">Horror</a>
+                <td>
+                    <a rel="nofollow" href="/Graphic-Novels/Genres/Horror">Horror</a>
                     <br>
                 </td>
             </tr>
             <tr>
-                <td class="">
-                    <a href="/Graphic-Novels/Genres/Humor">Humor</a>
+                <td>
+                    <a rel="nofollow" href="/Graphic-Novels/Genres/Humor">Humor</a>
                     <br>
                 </td>
             </tr>
             <tr>
-                <td class="">
-                    <a href="/Graphic-Novels/Genres/Manga">Manga</a>
+                <td>
+                    <a rel="nofollow" href="/Graphic-Novels/Genres/Manga">Manga</a>
                     <br>
                 </td>
             </tr>
             <tr>
-                <td class="">
-                    <a href="/Graphic-Novels/Genres/Science-Fiction">Science-Fiction</a>
+                <td>
+                    <a rel="nofollow" href="/Graphic-Novels/Genres/Science-Fiction">Science-Fiction</a>
                     <br>
                 </td>
             </tr>
             <tr>
-                <td class="">
-                    <a href="/Graphic-Novels/Genres/Superhero">Superhero</a>
+                <td>
+                    <a rel="nofollow" href="/Graphic-Novels/Genres/Superhero">Superhero</a>
                     <br>
                 </td>
             </tr>
@@ -292,68 +308,68 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
                 </td>
             </tr>
             <tr>
-                <td class="">
-                    <a href="/Graphic-Novels/Companies/Dark-Horse">Dark Horse</a>
+                <td>
+                    <a rel="nofollow" href="/Graphic-Novels/Companies/Dark-Horse">Dark Horse</a>
                     <br>
                 </td>
             </tr>
             <tr>
-                <td class="">
-                    <a href="/Graphic-Novels/Companies/DC-Comics">DC Comics</a>
+                <td>
+                    <a rel="nofollow" href="/Graphic-Novels/Companies/DC-Comics">DC Comics</a>
                     <br>
                 </td>
             </tr>
             <tr>
-                <td class="">
-                    <a href="/Graphic-Novels/Companies/Dynamite-Entertainment">Dynamite Entertainment</a>
+                <td>
+                    <a rel="nofollow" href="/Graphic-Novels/Companies/Dynamite-Entertainment">Dynamite Entertainment</a>
                     <br>
                 </td>
             </tr>
             <tr>
-                <td class="">
-                    <a href="/Graphic-Novels/Companies/Fantagraphics">Fantagraphics</a>
+                <td>
+                    <a rel="nofollow" href="/Graphic-Novels/Companies/Fantagraphics">Fantagraphics</a>
                     <br>
                 </td>
             </tr>
             <tr>
-                <td class="">
-                    <a href="/Graphic-Novels/Companies/IDW-Publishing">IDW Publishing</a>
+                <td>
+                    <a rel="nofollow" href="/Graphic-Novels/Companies/IDW-Publishing">IDW Publishing</a>
                     <br>
                 </td>
             </tr>
             <tr>
-                <td class="">
-                    <a href="/Graphic-Novels/Companies/Image-Comics">Image Comics</a>
+                <td>
+                    <a rel="nofollow" href="/Graphic-Novels/Companies/Image-Comics">Image Comics</a>
                     <br>
                 </td>
             </tr>
             <tr>
-                <td class="">
-                    <a href="/Graphic-Novels/Companies/Marvel-Comics">Marvel Comics</a>
+                <td>
+                    <a rel="nofollow" href="/Graphic-Novels/Companies/Marvel-Comics">Marvel Comics</a>
                     <br>
                 </td>
             </tr>
             <tr>
-                <td class="">
-                    <a href="/Graphic-Novels/Companies/Marvel-Knights">Marvel Knights</a>
+                <td>
+                    <a rel="nofollow" href="/Graphic-Novels/Companies/Marvel-Knights">Marvel Knights</a>
                     <br>
                 </td>
             </tr>
             <tr>
-                <td class="">
-                    <a href="/Graphic-Novels/Companies/Tokyopop">Tokyopop</a>
+                <td>
+                    <a rel="nofollow" href="/Graphic-Novels/Companies/Tokyopop">Tokyopop</a>
                     <br>
                 </td>
             </tr>
             <tr>
-                <td class="">
-                    <a href="/Graphic-Novels/Companies/Vertigo">Vertigo</a>
+                <td>
+                    <a rel="nofollow" href="/Graphic-Novels/Companies/Vertigo">Vertigo</a>
                     <br>
                 </td>
             </tr>
             <tr>
-                <td class="">
-                    <a href="/Graphic-Novels/Companies/Viz-Communications">Viz Communications</a>
+                <td>
+                    <a rel="nofollow" href="/Graphic-Novels/Companies/Viz-Communications">Viz Communications</a>
                     <br>
                 </td>
             </tr>
@@ -363,8 +379,8 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
                 </td>
             </tr>
             <tr>
-                <td class="">
-                    <a href="/Graphic-Novels">All Graphic Novels...</a>
+                <td>
+                    <a rel="nofollow" href="/Graphic-Novels">All Graphic Novels...</a>
                     <br>
                 </td>
             </tr>
@@ -376,8 +392,7 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
 </table>
 </td>
 <td width="1" bgcolor="#6f7d8f"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="1" height="34" border="0" alt="">
-</td>
-<td class="rollovertd">
+</td><td class="rollovertd">
     <a href="/Comics" class="menuitem">&nbsp;&nbsp;Comics&nbsp;&nbsp;</a>
     <table class="submenu" cellpadding="0" cellspacing="0" style="display: none;">
         <tbody>
@@ -386,62 +401,62 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
                 <table cellpadding="0" cellspacing="0">
                     <tbody>
                     <tr>
-                        <td class="">
-                            <a href="/Comics/Pre-Orders">Pre-Orders</a>
+                        <td>
+                            <a rel="nofollow" href="/Comics/Pre-Orders">Pre-Orders</a>
                             <br>
                         </td>
                     </tr>
                     <tr>
-                        <td class="">
-                            <a href="/Comics/New-Releases">New Releases</a>
+                        <td>
+                            <a rel="nofollow" href="/Comics/New-Releases">New Releases</a>
                             <br>
                         </td>
                     </tr>
                     <tr>
-                        <td class="">
-                            <a href="/Comics/Back-Issues">Back Issues</a>
+                        <td>
+                            <a rel="nofollow" href="/Comics/Back-Issues">Back Issues</a>
                             <br>
                         </td>
                     </tr>
                     <tr>
-                        <td class="">
-                            <a href="/Comics/Top-20-Hottest">What's Hot</a>
+                        <td>
+                            <a rel="nofollow" href="/Comics/Top-20-Hottest">What's Hot</a>
                             <br>
                         </td>
                     </tr>
                     <tr>
-                        <td class="">
-                            <a href="/Comics/New-Comic-Books">New Comic Books</a>
+                        <td>
+                            <a rel="nofollow" href="/Comics/New-Comic-Books">New Comic Books</a>
                             <br>
                         </td>
                     </tr>
                     <tr>
-                        <td class="">
-                            <a href="/Comics/New-Story-Arcs">New Story Arcs</a><br></td>
+                        <td>
+                            <a rel="nofollow" href="/Comics/New-Story-Arcs">New Story Arcs</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Comics/Indy">Indy Comics</a><br></td>
+                        <td><a rel="nofollow" href="/Comics/Indy">Indy Comics</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Comics/Kids">For Kids</a><br></td>
+                        <td><a rel="nofollow" href="/Comics/Kids">For Kids</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Comics/Variants">Variants</a><br></td>
+                        <td><a rel="nofollow" href="/Comics/Variants">Variants</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Comics/Supplies">Supplies</a><br></td>
+                        <td><a rel="nofollow" href="/Comics/Supplies">Supplies</a><br></td>
                     </tr>
                     <tr>
                         <td><br></td>
                     </tr>
                     <tr>
-                        <td class=""> <a href="/New-to-Comics">How to Collect Comics</a><br></td>
+                        <td> <a rel="nofollow" href="/New-to-Comics">How to Collect Comics</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Comics/First-Looks">First Looks</a><br></td>
+                        <td><a rel="nofollow" href="/Comics/First-Looks">First Looks</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Promos/Signed-Comics">Signed Comics</a><br></td>
+                        <td><a rel="nofollow" href="/Promos/Signed-Comics">Signed Comics</a><br></td>
                     </tr>
                     <tr>
                         <td><br></td>
@@ -450,25 +465,25 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
                         <td><span class="submenuheader">Comic Genres</span><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Comics/Genres/Action-Adventure">Action-Adventure</a><br></td>
+                        <td><a rel="nofollow" href="/Comics/Genres/Action-Adventure">Action-Adventure</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Comics/Genres/Fantasy">Fantasy</a><br></td>
+                        <td><a rel="nofollow" href="/Comics/Genres/Fantasy">Fantasy</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Comics/Genres/Horror">Horror</a><br></td>
+                        <td><a rel="nofollow" href="/Comics/Genres/Horror">Horror</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Comics/Genres/Humor">Humor</a><br></td>
+                        <td><a rel="nofollow" href="/Comics/Genres/Humor">Humor</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Comics/Genres/Manga">Manga</a><br></td>
+                        <td><a rel="nofollow" href="/Comics/Genres/Manga">Manga</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Comics/Genres/Science-Fiction">Science-Fiction</a><br></td>
+                        <td><a rel="nofollow" href="/Comics/Genres/Science-Fiction">Science-Fiction</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Comics/Genres/Superhero">Superhero</a><br></td>
+                        <td><a rel="nofollow" href="/Comics/Genres/Superhero">Superhero</a><br></td>
                     </tr>
                     <tr>
                         <td><br></td>
@@ -477,52 +492,52 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
                         <td><span class="submenuheader">Comic Publishers</span><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Comics/Companies/Avatar-Press">Avatar Press</a><br></td>
+                        <td><a rel="nofollow" href="/Comics/Companies/Avatar-Press">Avatar Press</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Comics/Companies/Bluewater-Productions">Bluewater Productions</a><br>
+                        <td><a rel="nofollow" href="/Comics/Companies/Bluewater-Productions">Bluewater Productions</a><br>
                         </td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Comics/Companies/Boom!-Studios">Boom! Studios</a><br></td>
+                        <td><a rel="nofollow" href="/Comics/Companies/Boom!-Studios">Boom! Studios</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Comics/Companies/Dark-Horse">Dark Horse</a><br></td>
+                        <td><a rel="nofollow" href="/Comics/Companies/Dark-Horse">Dark Horse</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Comics/Companies/DC-Comics">DC Comics</a><br></td>
+                        <td><a rel="nofollow" href="/Comics/Companies/DC-Comics">DC Comics</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Comics/Companies/Devils-Due-Publishing">Devils Due Publishing</a><br>
+                        <td><a rel="nofollow" href="/Comics/Companies/Devils-Due-Publishing">Devils Due Publishing</a><br>
                         </td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Comics/Companies/Dynamite-Entertainment">Dynamite Entertainment</a><br>
+                        <td><a rel="nofollow" href="/Comics/Companies/Dynamite-Entertainment">Dynamite Entertainment</a><br>
                         </td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Comics/Companies/IDW-Publishing">IDW Publishing</a><br></td>
+                        <td><a rel="nofollow" href="/Comics/Companies/IDW-Publishing">IDW Publishing</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Comics/Companies/Image-Comics">Image Comics</a><br></td>
+                        <td><a rel="nofollow" href="/Comics/Companies/Image-Comics">Image Comics</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Comics/Companies/Marvel-Comics">Marvel Comics</a><br></td>
+                        <td><a rel="nofollow" href="/Comics/Companies/Marvel-Comics">Marvel Comics</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Comics/Companies/Oni-Press">Oni Press</a><br></td>
+                        <td><a rel="nofollow" href="/Comics/Companies/Oni-Press">Oni Press</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Comics/Companies/Vertigo">Vertigo</a><br></td>
+                        <td><a rel="nofollow" href="/Comics/Companies/Vertigo">Vertigo</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Comics/Companies">All Comic Publishers...</a></td>
+                        <td><a rel="nofollow" href="/Comics/Companies">All Comic Publishers...</a></td>
                     </tr>
                     <tr>
                         <td><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Comics">All Comics...</a><br></td>
+                        <td><a rel="nofollow" href="/Comics">All Comics...</a><br></td>
                     </tr>
                     </tbody>
                 </table>
@@ -531,8 +546,7 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
         </tbody>
     </table>
 </td>
-<td width="1" bgcolor="#6f7d8f"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="1" height="34" border="0" alt=""></td>
-<td class="rollovertd"><a href="/Statues" class="menuitem">&nbsp;&nbsp;Statues&nbsp;&nbsp;</a>
+<td width="1" bgcolor="#6f7d8f"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="1" height="34" border="0" alt=""></td><td class="rollovertd"><a href="/Statues" class="menuitem">&nbsp;&nbsp;Statues&nbsp;&nbsp;</a>
     <table class="submenu" cellpadding="0" cellspacing="0" style="display: none;">
         <tbody>
         <tr>
@@ -540,16 +554,16 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
                 <table cellpadding="0" cellspacing="0">
                     <tbody>
                     <tr>
-                        <td class=""><a href="/Statues/Pre-Orders">Pre-Orders</a><br></td>
+                        <td><a rel="nofollow" href="/Statues/Pre-Orders">Pre-Orders</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Statues/In-Stock-Statues">In-Stock</a><br></td>
+                        <td><a rel="nofollow" href="/Statues/In-Stock-Statues">In-Stock</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Statues/New-Releases">New Releases</a><br></td>
+                        <td><a rel="nofollow" href="/Statues/New-Releases">New Releases</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Statues/Top-20-Hottest">What's Hot</a><br></td>
+                        <td><a rel="nofollow" href="/Statues/Top-20-Hottest">What's Hot</a><br></td>
                     </tr>
                     <tr>
                         <td><br></td>
@@ -558,25 +572,25 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
                         <td><span class="submenuheader">Statue Genres</span><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Statues/Genres/Action-Adventure">Action-Adventure</a><br></td>
+                        <td><a rel="nofollow" href="/Statues/Genres/Action-Adventure">Action-Adventure</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Statues/Genres/Classic">Classic</a><br></td>
+                        <td><a rel="nofollow" href="/Statues/Genres/Classic">Classic</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Statues/Genres/Fantasy">Fantasy</a><br></td>
+                        <td><a rel="nofollow" href="/Statues/Genres/Fantasy">Fantasy</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Statues/Genres/Humor">Humor</a><br></td>
+                        <td><a rel="nofollow" href="/Statues/Genres/Humor">Humor</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Statues/Genres/Science-Fiction">Science-Fiction</a><br></td>
+                        <td><a rel="nofollow" href="/Statues/Genres/Science-Fiction">Science-Fiction</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Statues/Genres/Star-Wars">Star Wars</a><br></td>
+                        <td><a rel="nofollow" href="/Statues/Genres/Star-Wars">Star Wars</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Statues/Genres/Superhero">Superhero</a><br></td>
+                        <td><a rel="nofollow" href="/Statues/Genres/Superhero">Superhero</a><br></td>
                     </tr>
                     <tr>
                         <td><br></td>
@@ -585,34 +599,34 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
                         <td><span class="submenuheader">Statue Companies</span><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Statues/Companies/Bowen-Designs">Bowen Designs</a><br></td>
+                        <td><a rel="nofollow" href="/Statues/Companies/Bowen-Designs">Bowen Designs</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Statues/Companies/Dark-Horse">Dark Horse</a><br></td>
+                        <td><a rel="nofollow" href="/Statues/Companies/Dark-Horse">Dark Horse</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Statues/Companies/DC-Comics">DC Comics</a><br></td>
+                        <td><a rel="nofollow" href="/Statues/Companies/DC-Comics">DC Comics</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Statues/Companies/Diamond-Select">Diamond Select</a><br></td>
+                        <td><a rel="nofollow" href="/Statues/Companies/Diamond-Select">Diamond Select</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Statues/Companies/Gentle-Giant">Gentle Giant</a><br></td>
+                        <td><a rel="nofollow" href="/Statues/Companies/Gentle-Giant">Gentle Giant</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Statues/Companies/Kotobukiya">Kotobukiya</a><br></td>
+                        <td><a rel="nofollow" href="/Statues/Companies/Kotobukiya">Kotobukiya</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Statues/Companies/Marvel-Comics">Marvel Comics</a><br></td>
+                        <td><a rel="nofollow" href="/Statues/Companies/Marvel-Comics">Marvel Comics</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Statues/Companies">All&nbsp;Statue&nbsp;Companies...</a></td>
+                        <td><a rel="nofollow" href="/Statues/Companies">All&nbsp;Statue&nbsp;Companies...</a></td>
                     </tr>
                     <tr>
                         <td><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Statues">All Statues...</a><br></td>
+                        <td><a rel="nofollow" href="/Statues">All Statues...</a><br></td>
                     </tr>
                     </tbody>
                 </table>
@@ -621,8 +635,7 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
         </tbody>
     </table>
 </td>
-<td width="1" bgcolor="#6f7d8f"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="1" height="34" border="0" alt=""></td>
-<td class="rollovertd"><a href="/Toys" class="menuitem">&nbsp;&nbsp;Toys&nbsp;&nbsp;</a>
+<td width="1" bgcolor="#6f7d8f"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="1" height="34" border="0" alt=""></td><td class="rollovertd"><a href="/Toys" class="menuitem">&nbsp;&nbsp;Toys&nbsp;&nbsp;</a>
     <table class="submenu" cellpadding="0" cellspacing="0" style="display: none;">
         <tbody>
         <tr>
@@ -630,16 +643,16 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
                 <table cellpadding="0" cellspacing="0">
                     <tbody>
                     <tr>
-                        <td class=""><a href="/Toys/Pre-Orders">Pre-Orders</a><br></td>
+                        <td><a rel="nofollow" href="/Toys/Pre-Orders">Pre-Orders</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Toys/In-Stock-Toys">In-Stock</a><br></td>
+                        <td><a rel="nofollow" href="/Toys/In-Stock-Toys">In-Stock</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Toys/New-Releases">New Releases</a><br></td>
+                        <td><a rel="nofollow" href="/Toys/New-Releases">New Releases</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Toys/Top-20-Hottest">What's Hot</a><br></td>
+                        <td><a rel="nofollow" href="/Toys/Top-20-Hottest">What's Hot</a><br></td>
                     </tr>
                     <tr>
                         <td><br></td>
@@ -648,25 +661,25 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
                         <td><span class="submenuheader">Toy Genres</span><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Toys/Genres/Action-Adventure">Action-Adventure</a><br></td>
+                        <td><a rel="nofollow" href="/Toys/Genres/Action-Adventure">Action-Adventure</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Toys/Genres/Fantasy">Fantasy</a><br></td>
+                        <td><a rel="nofollow" href="/Toys/Genres/Fantasy">Fantasy</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Toys/Genres/Horror">Horror</a><br></td>
+                        <td><a rel="nofollow" href="/Toys/Genres/Horror">Horror</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Toys/Genres/Humor">Humor</a><br></td>
+                        <td><a rel="nofollow" href="/Toys/Genres/Humor">Humor</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Toys/Genres/Science-Fiction">Science-Fiction</a><br></td>
+                        <td><a rel="nofollow" href="/Toys/Genres/Science-Fiction">Science-Fiction</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Toys/Genres/Star-Wars">Star Wars</a><br></td>
+                        <td><a rel="nofollow" href="/Toys/Genres/Star-Wars">Star Wars</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Toys/Genres/Superhero">Superhero</a><br></td>
+                        <td><a rel="nofollow" href="/Toys/Genres/Superhero">Superhero</a><br></td>
                     </tr>
                     <tr>
                         <td><br></td>
@@ -675,31 +688,31 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
                         <td><span class="submenuheader">Toy Companies</span><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Toys/Companies/Dark-Horse">Dark Horse</a><br></td>
+                        <td><a rel="nofollow" href="/Toys/Companies/Dark-Horse">Dark Horse</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Toys/Companies/DC-Comics">DC Comics</a><br></td>
+                        <td><a rel="nofollow" href="/Toys/Companies/DC-Comics">DC Comics</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Toys/Companies/DC-Direct">DC Direct</a><br></td>
+                        <td><a rel="nofollow" href="/Toys/Companies/DC-Direct">DC Direct</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Toys/Companies/Hasbro">Hasbro</a><br></td>
+                        <td><a rel="nofollow" href="/Toys/Companies/Hasbro">Hasbro</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Toys/Companies/Kotobukiya">Kotobukiya</a><br></td>
+                        <td><a rel="nofollow" href="/Toys/Companies/Kotobukiya">Kotobukiya</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Toys/Companies/McFarlane-Toys">McFarlane Toys</a><br></td>
+                        <td><a rel="nofollow" href="/Toys/Companies/McFarlane-Toys">McFarlane Toys</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Toys/Companies">All Toy Companies...</a></td>
+                        <td><a rel="nofollow" href="/Toys/Companies">All Toy Companies...</a></td>
                     </tr>
                     <tr>
                         <td><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Toys">All Toys...</a><br></td>
+                        <td><a rel="nofollow" href="/Toys">All Toys...</a><br></td>
                     </tr>
                     </tbody>
                 </table>
@@ -708,8 +721,7 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
         </tbody>
     </table>
 </td>
-<td width="1" bgcolor="#6f7d8f"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="1" height="34" border="0" alt=""></td>
-<td class="rollovertd"><a href="/More-Products" class="menuitem">More Products</a>
+<td width="1" bgcolor="#6f7d8f"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="1" height="34" border="0" alt=""></td><td class="rollovertd"><a href="/More-Products" class="menuitem">More Products</a>
     <table class="submenu" cellpadding="0" cellspacing="0" style="display: none;">
         <tbody>
         <tr>
@@ -720,43 +732,37 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
                         <td><span class="submenuheader">More Products</span><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/More-Products/Apparel">Apparel</a><br></td>
+                        <td><a rel="nofollow" href="/More-Products/Apparel">Apparel</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/More-Products/Cards">Cards</a><br></td>
+                        <td><a rel="nofollow" href="/More-Products/Cards">Cards</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/More-Products/Collectibles">Collectibles</a><br></td>
+                        <td><a rel="nofollow" href="/More-Products/Collectibles">Collectibles</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/More-Products/Games">Games</a><br></td>
+                        <td><a rel="nofollow" href="/More-Products/Games">Games</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/More-Products/Grab-Bags">Grab Bags</a><br></td>
+                        <td><a rel="nofollow" href="/More-Products/Grab-Bags">Grab Bags</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/More-Products/Journals">Journals</a><br></td>
+                        <td><a rel="nofollow" href="/More-Products/Journals">Journals</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/More-Products/Lithographs">Lithographs</a><br></td>
+                        <td><a rel="nofollow" href="/More-Products/Lunch-Boxes">Lunch Boxes</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/More-Products/Lunch-Boxes">Lunch Boxes</a><br></td>
+                        <td><a rel="nofollow" href="/More-Products/Merchandise">Merchandise</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/More-Products/Merchandise">Merchandise</a><br></td>
+                        <td><a rel="nofollow" href="/More-Products/Models">Models</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/More-Products/Models">Models</a><br></td>
+                        <td><a rel="nofollow" href="/More-Products/Stationery">Stationery</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/More-Products/Posters">Posters</a><br></td>
-                    </tr>
-                    <tr>
-                        <td class=""><a href="/More-Products/Stationery">Stationery</a><br></td>
-                    </tr>
-                    <tr>
-                        <td class=""><a href="/More-Products/Best-Sellers">Best Sellers</a><br></td>
+                        <td><a rel="nofollow" href="/More-Products/Best-Sellers">Best Sellers</a><br></td>
                     </tr>
                     </tbody>
                 </table>
@@ -765,8 +771,7 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
         </tbody>
     </table>
 </td>
-<td width="1" bgcolor="#6f7d8f"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="1" height="34" border="0" alt=""></td>
-<td class="rollovertd"><a href="/Themes" class="menuitem">&nbsp;&nbsp;Themes&nbsp;&nbsp;</a>
+<td width="1" bgcolor="#6f7d8f"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="1" height="34" border="0" alt=""></td><td class="rollovertd"><a href="/Themes" class="menuitem">&nbsp;&nbsp;Themes&nbsp;&nbsp;</a>
     <table class="submenu" cellpadding="0" cellspacing="0" style="display: none;">
         <tbody>
         <tr>
@@ -774,83 +779,83 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
                 <table cellpadding="0" cellspacing="0">
                     <tbody>
                     <tr>
-                        <td class=""><a href="/Themes/Aliens">Aliens</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Aliens">Aliens</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Angel">Angel</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Angel">Angel</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Archie">Archie</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Archie">Archie</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Avengers">Avengers</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Avengers">Avengers</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Batman">Batman</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Batman">Batman</a><br></td>
                     </tr>
                     <tr>    
-                        <td class=""><a href="/Themes/Buffy-The-Vampire-Slayer">Buffy&nbsp;the&nbsp;Vampire&nbsp;Slayer</a><br>
+                        <td><a href="/Themes/Buffy-The-Vampire-Slayer">Buffy&nbsp;the&nbsp;Vampire&nbsp;Slayer</a><br>
                         </td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Captain-America">Captain America</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Captain-America">Captain America</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Conan">Conan</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Conan">Conan</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Daredevil">Daredevil</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Daredevil">Daredevil</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Deadpool">Deadpool</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Deadpool">Deadpool</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Disney">Disney</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Disney">Disney</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Doctor-Who">Doctor Who</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Doctor-Who">Doctor Who</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Dungeons-and-Dragons">Dungeons &amp; Dragons</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Dungeons-and-Dragons">Dungeons &amp; Dragons</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/ElfQuest">ElfQuest</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/ElfQuest">ElfQuest</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Fantastic-Four">Fantastic Four</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Fantastic-Four">Fantastic Four</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Flash">Flash</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Flash">Flash</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Game-of-Thrones">Game of Thrones</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Game-of-Thrones">Game of Thrones</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Guardians-of-the-Galaxy">Guardians of the Galaxy</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Guardians-of-the-Galaxy">Guardians of the Galaxy</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/GI-Joe">GI Joe</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/GI-Joe">GI Joe</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Green-Lantern">Green Lantern</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Green-Lantern">Green Lantern</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Harley-Quinn">Harley Quinn</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Harley-Quinn">Harley Quinn</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Hellboy">Hellboy</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Hellboy">Hellboy</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Hulk">Incredible Hulk</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Hulk">Incredible Hulk</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Iron-Man">Iron Man</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Iron-Man">Iron Man</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Joss-Whedon">Joss Whedon</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Joss-Whedon">Joss Whedon</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Justice-League">Justice League</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Justice-League">Justice League</a><br></td>
                     </tr>
                     <tr>
                         <td>&nbsp;</td>
@@ -862,85 +867,76 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
                 <table cellpadding="0" cellspacing="0">
                     <tbody>
                     <tr>
-                        <td class=""><a href="/Themes/Mass-Effect">Mass Effect</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Mass-Effect">Mass Effect</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Predator">Predator</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Predator">Predator</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Punisher">Punisher</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Punisher">Punisher</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/RIPD">RIPD</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Sandman">Sandman</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Sandman">Sandman</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Serenity">Serenity/Firefly</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Serenity">Serenity/Firefly</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Sin-City">Sin City</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Sin-City">Sin City</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Spider-Man">Spider-Man</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Spawn">Spawn</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Star-Trek">Star Trek</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Spider-Man">Spider-Man</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Star-Wars">Star Wars</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Star-Trek">Star Trek</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Superman">Superman</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Star-Wars">Star Wars</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Teen-Titans">Teen Titans</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Stephen-King">Stephen King</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Terminator">Terminator</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Superman">Superman</a><br></td>
+                        <td><a rel="nofollow" href="/series/The-Strain">The Strain</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Teen-Titans">Teen Titans</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Thor">Thor</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Terminator">Terminator</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Teenage-Mutant-Ninja-Turtles">TMNT</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/series/The-Strain">The Strain</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Transformers">Transformers</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Thor">Thor</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Umbrella-Academy">Umbrella Academy</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Teenage-Mutant-Ninja-Turtles">TMNT</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Walking-Dead">Walking Dead</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Transformers">Transformers</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Wolverine">Wolverine</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Umbrella-Academy">Umbrella Academy</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/Wonder-Woman">Wonder Woman</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Walking-Dead">Walking Dead</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/World-of-Warcraft">World of Warcraft</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes/Wolverine">Wolverine</a><br></td>
-                    </tr>
-                    <tr>
-                        <td class=""><a href="/Themes/Wonder-Woman">Wonder Woman</a><br></td>
-                    </tr>
-                    <tr>
-                        <td class=""><a href="/Themes/World-of-Warcraft">World of Warcraft</a><br></td>
-                    </tr>
-                    <tr>
-                        <td class=""><a href="/Themes/X-Men">X-Men</a><br></td>
+                        <td><a rel="nofollow" href="/Themes/X-Men">X-Men</a><br></td>
                     </tr>
                     <tr>
                         <td><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Themes">All Themes...</a><br></td>
+                        <td><a rel="nofollow" href="/Themes">All Themes...</a><br></td>
                     </tr>
                     </tbody>
                 </table>
@@ -949,8 +945,7 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
         </tbody>
     </table>
 </td>
-<td width="1" bgcolor="#6f7d8f"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="1" height="34" border="0" alt=""></td>
-<td class="rollovertd"><a href="/Companies" class="menuitem">&nbsp;Companies&nbsp;</a>
+<td width="1" bgcolor="#6f7d8f"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="1" height="34" border="0" alt=""></td><td class="rollovertd"><a href="/Companies" class="menuitem">&nbsp;Companies&nbsp;</a>
     <table class="submenu" cellpadding="0" cellspacing="0" style="display: none;">
         <tbody>
         <tr>
@@ -958,67 +953,67 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
                 <table cellpadding="0" cellspacing="0">
                     <tbody>
                     <tr>
-                        <td class=""><a href="/Companies/Antarctic-Press">Antarctic Press</a><br></td>
+                        <td><a rel="nofollow" href="/Companies/Antarctic-Press">Antarctic Press</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Companies/Archie-Comics">Archie Comics</a><br></td>
+                        <td><a rel="nofollow" href="/Companies/Archie-Comics">Archie Comics</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Companies/Boom!-Studios">Boom! Studios</a><br></td>
+                        <td><a rel="nofollow" href="/Companies/Boom!-Studios">Boom! Studios</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Companies/Dark-Horse">Dark Horse</a><br></td>
+                        <td><a rel="nofollow" href="/Companies/Dark-Horse">Dark Horse</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Companies/DC-Comics">DC Comics</a><br></td>
+                        <td><a rel="nofollow" href="/Companies/DC-Comics">DC Comics</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Companies/Dynamic-Forces">Dynamic Forces</a><br></td>
+                        <td><a rel="nofollow" href="/Companies/Dynamic-Forces">Dynamic Forces</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Companies/Dynamite-Entertainment">Dynamite Entertainment</a><br></td>
+                        <td><a rel="nofollow" href="/Companies/Dynamite-Entertainment">Dynamite Entertainment</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Companies/Fantagraphics">Fantagraphics</a><br></td>
+                        <td><a rel="nofollow" href="/Companies/Fantagraphics">Fantagraphics</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Companies/IDW-Publishing">IDW Publishing</a><br></td>
+                        <td><a rel="nofollow" href="/Companies/IDW-Publishing">IDW Publishing</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Companies/Image-Comics">Image Comics</a><br></td>
+                        <td><a rel="nofollow" href="/Companies/Image-Comics">Image Comics</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Companies/Kotobukiya">Kotobukiya</a><br></td>
+                        <td><a rel="nofollow" href="/Companies/Kotobukiya">Kotobukiya</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Companies/Marvel-Comics">Marvel Comics</a><br></td>
+                        <td><a rel="nofollow" href="/Companies/Marvel-Comics">Marvel Comics</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Companies/Oni-Press">Oni Press</a><br></td>
+                        <td><a rel="nofollow" href="/Companies/Oni-Press">Oni Press</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Companies/Tokyopop">Tokyopop</a><br></td>
+                        <td><a rel="nofollow" href="/Companies/Tokyopop">Tokyopop</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Companies/Top-Shelf-Productions">Top Shelf</a><br></td>
+                        <td><a rel="nofollow" href="/Companies/Top-Shelf-Productions">Top Shelf</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Companies/Vertigo">Vertigo</a><br></td>
+                        <td><a rel="nofollow" href="/Companies/Vertigo">Vertigo</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Companies/Viz-Communications">Viz</a><br></td>
+                        <td><a rel="nofollow" href="/Companies/Viz-Communications">Viz</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Companies/Wizards-of-the-Coast">Wizards Of the Coast</a><br></td>
+                        <td><a rel="nofollow" href="/Companies/Wizards-of-the-Coast">Wizards Of the Coast</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Companies/Zenescope-Entertainment">Zenescope</a><br></td>
+                        <td><a rel="nofollow" href="/Companies/Zenescope-Entertainment">Zenescope</a><br></td>
                     </tr>
                     <tr>
                         <td><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Companies">All Companies...</a></td>
+                        <td><a rel="nofollow" href="/Companies">All Companies...</a></td>
                     </tr>
                     <tr>
                         <td><br></td>
@@ -1030,8 +1025,7 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
         </tbody>
     </table>
 </td>
-<td width="1" bgcolor="#6f7d8f"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="1" height="34" border="0" alt=""></td>
-<td class="rollovertd"><a href="http://blog.tfaw.com" class="menuitem">&nbsp;&nbsp;Blog&nbsp;&nbsp;</a>
+<td width="1" bgcolor="#6f7d8f"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="1" height="34" border="0" alt=""></td><td class="rollovertd"><a href="http://blog.tfaw.com" class="menuitem">&nbsp;&nbsp;Blog&nbsp;&nbsp;</a>
     <table class="submenu" cellpadding="0" cellspacing="0" style="display: none;">
         <tbody>
         <tr>
@@ -1039,34 +1033,34 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
                 <table cellpadding="0" cellspacing="0">
                     <tbody>
                     <tr>
-                        <td class=""><a href="http://blog.tfaw.com/category/general-news/">General News</a><br></td>
+                        <td><a rel="nofollow" href="http://blog.tfaw.com/category/general-news/">General News</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="http://blog.tfaw.com/category/graphic-content/">Graphic Content</a><br>
+                        <td><a rel="nofollow" href="http://blog.tfaw.com/category/graphic-content/">Graphic Content</a><br>
                         </td>
                     </tr>
                     <tr>
-                        <td class=""><a href="http://blog.tfaw.com/category/interviews/">Interviews</a><br></td>
+                        <td><a rel="nofollow" href="http://blog.tfaw.com/category/interviews/">Interviews</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="http://blog.tfaw.com/category/new-products/">New Products</a><br></td>
+                        <td><a rel="nofollow" href="http://blog.tfaw.com/category/new-products/">New Products</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="http://blog.tfaw.com/category/product-reviews/">Product Reviews</a><br>
+                        <td><a rel="nofollow" href="http://blog.tfaw.com/category/product-reviews/">Product Reviews</a><br>
                         </td>
                     </tr>
                     <tr>
-                        <td class=""><a href="http://blog.tfaw.com/category/special-sales/">Special Sales</a><br></td>
+                        <td><a rel="nofollow" href="http://blog.tfaw.com/category/special-sales/">Special Sales</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="http://blog.tfaw.com/category/upcoming-products/">Upcoming
+                        <td><a rel="nofollow" href="http://blog.tfaw.com/category/upcoming-products/">Upcoming
                                 Products</a><br></td>
                     </tr>
                     <tr>
                         <td><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="http://blog.tfaw.com/">Blog Index...</a><br></td>
+                        <td><a rel="nofollow" href="http://blog.tfaw.com/">Blog Index...</a><br></td>
                     </tr>
                     </tbody>
                 </table>
@@ -1087,16 +1081,16 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
                         <td><span class="submenuheader">New Products</span><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Arriving-This-Week">Arriving This Week</a><br></td>
+                        <td><a rel="nofollow" href="/Arriving-This-Week">Arriving This Week</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/New-Last-Week">New Last Week</a><br></td>
+                        <td><a rel="nofollow" href="/New-Last-Week">New Last Week</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/New-Releases">All New Releases</a><br></td>
+                        <td><a rel="nofollow" href="/New-Releases">All New Releases</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Recently-Restocked">Recently Restocked</a><br></td>
+                        <td><a rel="nofollow" href="/Recently-Restocked">Recently Restocked</a><br></td>
                     </tr>
                     <tr>
                         <td><br></td>
@@ -1105,10 +1099,10 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
                         <td><span class="submenuheader">Pre-Orders</span><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Coming-Next-Week">Coming Next Week</a><br></td>
+                        <td><a rel="nofollow" href="/Coming-Next-Week">Coming Next Week</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Pre-Orders">All Pre-Orders</a><br></td>
+                        <td><a rel="nofollow" href="/Pre-Orders">All Pre-Orders</a><br></td>
                     </tr>
                     <tr>
                         <td><br></td>
@@ -1117,46 +1111,46 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
                         <td><span class="submenuheader">Sales &amp; Discounts</span><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/DOD">Deal of the Day</a><br></td>
+                        <td><a rel="nofollow" href="/DOD">Deal of the Day</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/More-Products/Grab-Bags">Grab Bags</a><br></td>
+                        <td><a rel="nofollow" href="/More-Products/Grab-Bags">Grab Bags</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Promos/Nick-and-Dent">Nick &amp; Dents</a><br></td>
+                        <td><a rel="nofollow" href="/Promos/Nick-and-Dent">Nick &amp; Dents</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Promos">Other Promotions</a><br></td>
-                    </tr>
-                    <tr>
-                        <td><br></td>
-                    </tr>
-                    <tr>
-                        <td class=""><a href="/Subscriptions">Subscriptions</a><br></td>
+                        <td><a rel="nofollow" href="/Promos">Other Promotions</a><br></td>
                     </tr>
                     <tr>
                         <td><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/Contests">Contests</a><br></td>
-                    </tr>
-                    <tr>
-                        <td class=""><a href="/offer/comments">Testimonials</a><br></td>
+                        <td><a rel="nofollow" href="/Subscriptions">Subscriptions</a><br></td>
                     </tr>
                     <tr>
                         <td><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/newsletters">Newsletter Signup</a><br></td>
+                        <td><a rel="nofollow" href="/Contests">Contests</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/help/watchdog___132">Watchdog Alerts</a><br></td>
+                        <td><a rel="nofollow" href="/offer/comments">Testimonials</a><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/help/wish-lists___142">Wish Lists</a><br></td>
+                        <td><br></td>
                     </tr>
                     <tr>
-                        <td class=""><a href="/home/gift-certificates">Gift Certificates</a><br></td>
+                        <td><a rel="nofollow" href="/newsletters">Newsletter Signup</a><br></td>
+                    </tr>
+                    <tr>
+                        <td><a rel="nofollow" href="/help/watchdog___132">Watchdog Alerts</a><br></td>
+                    </tr>
+                    <tr>
+                        <td><a rel="nofollow" href="/help/wish-lists___142">Wish Lists</a><br></td>
+                    </tr>
+                    <tr>
+                        <td><a rel="nofollow" href="/home/gift-certificates">Gift Certificates</a><br></td>
                     </tr>
                     </tbody>
                 </table>
@@ -1168,7 +1162,7 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
 </tr>            
         </tbody></table>
     </div>
-    <div style="height:28px; border-top: 1px solid #6f7d8f; background-color:#d4dcde;">
+    <div style="padding: 10px 0 0 0;height:40px; border-top: 1px solid #6f7d8f; background-color:#d4dcde;">
         <table border="0" cellpadding="0" cellspacing="0" width="100%">
             <tbody><tr>
                 <td>
@@ -1179,14 +1173,14 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
                                 <td valign="middle">
                                     <div style="position: relative; padding: 0px; margin: 0px; z-index: 0;">
                                         <input type="hidden" name="_results_use_stopwords" value="true">
-                                        <input id="myInput" name="quick_sstring" class="quicksearch" size="25" maxlength="60">
+                                        <input id="myInput" name="quick_sstring" placeholder="Searching for.." class="sitewide-search-input quicksearch" size="25" maxlength="60">
 
                                         <div id="Auto-complete-container"></div>
                                     </div>
                                 </td>
                                 <td width="5"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="28" border="0" alt=""></td>
                                 <td valign="middle">
-                                    <select name="_results_sstype_search" class="quicksearch">
+                                    <select name="_results_sstype_search" class="quicksearch sitewide-filter">
                                         <option value="">All fields</option>
                                         <option value="titles">Titles</option>
                                         <option value="people">People</option>
@@ -1202,7 +1196,7 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
                                     </select>
                                 </td>
                                 <td width="5"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="5" border="0" alt=""></td>
-                                <td valign="middle"><input type="submit" value="Search" class="smallsubmit"></td>
+                                <td valign="middle"><input type="submit" value="Search" class="smallsubmit sitewide-smallsubmit"></td>
                                 <td width="15"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="15" height="15" border="0" alt=""></td>
                                 <td><a href="/PowerSearch" class="subnav">POWER SEARCH</a></td>
                             </tr>
@@ -1311,7 +1305,7 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
 
 			<div class="sidebarheader"><a href="/Offer/Comments?qt=ia_ccbanhdr" class="sidebarheader">CUSTOMERS SAY</a></div>
 		<div style="margin-top:5px; padding-bottom:15px;" align="center">
-									<a href="/Offer/Comments?qt=ia_ccban"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/CustCom4_170.gif" width="170" height="105" border="0" alt="Customer Testimonials"></a>
+									<a href="/Offer/Comments?qt=ia_ccban"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/CustCom2_170.gif" width="170" height="105" border="0" alt="Customer Testimonials"></a>
 		</div>
 	
 	
@@ -1319,25 +1313,22 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
 	<div class="sidebarheader" style="padding-bottom:10px;">GREAT TFAW DEALS</div>
 	
 	        	<div style="margin-top:0px; padding-bottom:15px;">
-    <a href="http://www.tfaw.com/Search?_results_prod_type_search=Comics&amp;_results_sstring_search=spirit&amp;_results_ordercombo_search=title_asc&amp;gallery_mode=grid&amp;_results_limit_search=45&amp;qt=ia_hp_ban170_spirit"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/spirit_1.jpg" width="170" height="54" border="0" alt="Spirit"></a>
+    <a rel="nofollow" href="http://www.tfaw.com/promos/black-friday?qt=ia_ban170_BF15_50"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/bf15_50.jpg" width="171" height="255" border="0" alt="Black Friday"></a>
 	</div>
     	<div style="margin-top:0px; padding-bottom:15px;">
-    <a href="http://www.tfaw.com/angel-season-ten?qt=ia_hp_ban170_AngelFaith17"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/angelfaith17.jpg" width="170" height="54" border="0" alt="Angel &amp; Faith"></a>
+    <a rel="nofollow" href="http://www.tfaw.com/Search?_results_sstring_search=Batman%2BTurtles&amp;_results_ordercombo_search=title_asc&amp;gallery_mode=grid&amp;_results_limit_search=15&amp;qt=ia_ban170_BatmanTMNT"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/batmanTMNT.jpg" width="170" height="53" border="0" alt="Batman/TMNT"></a>
 	</div>
     	<div style="margin-top:0px; padding-bottom:15px;">
-    <a href="http://www.tfaw.com/Themes/Star-Wars?qt=ia_ban170_SWLando1"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/lando_1.jpg" width="170" height="54" border="0" alt="SW Lando"></a>
+    <a rel="nofollow" href="http://www.tfaw.com/Profile/Archie-Vs.-Predator-HC___483907?qt=ia_ban170_archiepredhc"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/archiepredhc.jpg" width="170" height="54" border="0" alt="Archie Predator HC"></a>
 	</div>
     	<div style="margin-top:0px; padding-bottom:15px;">
-    <a href="http://www.tfaw.com/marvel-secret-wars?qt=ia_ban170_scrtwrs_hulk"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/scrtwrs_hulk.jpg" width="170" height="54" border="0" alt="Secret Wars Planet Hulk"></a>
+    <a rel="nofollow" href="http://www.tfaw.com/Search?_results_prod_type_search=Comics&amp;_results_sstring_search=Superman%2BLois%2BClark&amp;_results_ordercombo_search=title_asc&amp;gallery_mode=grid&amp;_results_limit_search=30&amp;qt=ia_ban170_loisclark"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/loisclark.jpg" width="171" height="54" border="0" alt="Superman Lois &amp; Clark"></a>
 	</div>
     	<div style="margin-top:0px; padding-bottom:15px;">
-    <a href="http://www.tfaw.com/Search?_results_sstring_search=All%2BNew%2BHawkeye&amp;_results_ordercombo_search=title_asc&amp;gallery_mode=grid&amp;_results_limit_search=15&amp;qt=ia_ban170_anhawkeye"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/anhawkeye.jpg" width="170" height="54" border="0" alt="All-New Hawkeye"></a>
+    <a rel="nofollow" href="http://www.tfaw.com/Search?_results_sstring_search=Old%2BMan%2BLogan%2BJeff%2BLemire&amp;_results_ordercombo_search=heat_factor&amp;gallery_mode=on&amp;_results_limit_search=30&amp;qt=ia_ban170_newmarv_omlogan"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/anadm_logan.jpg" width="171" height="54" border="0" alt="Old Man Logan"></a>
 	</div>
     	<div style="margin-top:0px; padding-bottom:15px;">
-    <a target="_new" href="https://digital.darkhorse.com/?utm_campaign=tfaw&amp;utm_medium=tfawcom&amp;utm_source=tfawbannerother&amp;utm_term=tfaw-dhd-sidebar-other"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170-digital-dh.jpg" width="170" height="44" border="0" alt="Dark Horse Digital"></a>
-	</div>
-    	<div style="margin-top:0px; padding-bottom:15px;">
-    <a href="http://www.tfaw.com/dod?qt=ia_ban170_sale"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/deal_of_the_day.jpg" width="170" height="54" border="0" alt="Deal of the Day"></a>
+    <a rel="nofollow" href="http://www.tfaw.com/dod?qt=ia_ban170_sale"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/deal_of_the_day.jpg" width="170" height="54" border="0" alt="Deal of the Day"></a>
 	</div>
     
 <br><br>
@@ -1434,7 +1425,7 @@ ga('require', 'displayfeatures');ga('send', 'pageview');</script>
 				<tr>
 					<td align="left" valign="top" width="100%">
 						<span class="indiciatext">Legal Notice: Entire contents trademarked (® or TM) and copyrighted (©) 1986-2015 by Things From Another World, Inc. and respective copyright and trademark holders.  All rights reserved.
-                        Page rendered at 2015-06-11 01:51:47 in 0.269 seconds.
+                        Page rendered at 2015-11-23 06:36:30 in 0.248 seconds.
                             						</span><br><br>
 					</td>
 				</tr>
@@ -1483,7 +1474,7 @@ buySAFE.Hash = '0Hz8ewiB0dmMvcl%2Bder0CIAZwIfehqQpN7vhlKeTRRH3ubeBxG6NMvHJ7tP%2B
 WriteBuySafeSeal("BuySafeSealSpan", "GuaranteedSeal");
 </script>
 <!-- END: buySAFE Seal -->
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"6d9017bcfb","applicationID":"2752681","transactionName":"b1ZRbUpQVxUCUEZfDVYccExLRVYLTFtXWhJnR0NVFkFRFg==","queueTime":0,"applicationTime":275,"atts":"QxFSGwJKRBs=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"6d9017bcfb","applicationID":"2752681","transactionName":"b1ZRbUpQVxUCUEZfDVYccExLRVYLTFtXWhJnR0NVFkFRFg==","queueTime":0,"applicationTime":253,"atts":"QxFSGwJKRBs=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
 
 
 </body></html>
