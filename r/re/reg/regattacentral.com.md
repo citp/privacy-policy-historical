@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the regattacentral.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319090313id_/https%3A//www.regattacentral.com/information/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regattacentral.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123232808id_/https%3A//www.regattacentral.com/information/privacy.jsp) for the most accurate reproduction.*
 
 # RegattaCentral - Staff
 
 **RegattaCentral Privacy Policy**   
 ****   
-**Effective Date: 1 July 2014**   
+**Effective Date: 10 June 2015**   
 ****   
 **Introduction**
 
@@ -13,6 +13,8 @@ At RegattaCentral we understand that your privacy is important to you and we are
 By accessing and using this website (www.regattacentral.com) or other websites owned and operated by RegattaCentral, you accept and agree to RegattaCentral’s Privacy Policy without limitation or qualification.   
 Definitions of specific terms referred to in this Policy can be found under the heading ‘Glossary’ at the end of this document.   
 ****   
+RegattaCentral has received TRUSTe's Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this website, www.regattacentral.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). 
+
 **Privacy Policy**   
 ****   
 This Policy outlines the following: 
@@ -70,6 +72,8 @@ We will use or disclose your Personal Information only for the purposes for whic
 
 We may use your Personal Information for the purposes of our own direct marketing, however we will ensure you have an ability to opt out of future such communications by following the unsubscribe instructions included in these emails or you can contact us at support@regattacentral.com. 
 
+We will also send you service related email announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. You do not have an option to opt out of these emails, which are not promotional in nature. 
+
 **_Disclosure to overseas recipients_**   
 **__**   
 We may disclose your Personal Information to overseas recipients such as host organisations, governing bodies, clubs or event organisers which may be located in Australia, Canada, England, Germany, Belgium, Italy or the United States of America when you have sought our assistance to participate in an event or program or where disclosure is required for verification purposes. As such, the location of these overseas recipients will depend on the specific events or programs to which you apply or where such verification is required. 
@@ -92,9 +96,9 @@ The steps we take include:
 
 · whenever we collect Sensitive information such as credit card data, that information is encrypted and transmitted to us in a secure way using secure socket layer technology (SSL). You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for ‘https’ at the beginning of the address of the web page. 
 
-You should however, be aware that if you submit information to us electronically the internet is not a secure environment. We take reasonable steps to provide a secure channel for receiving information but cannot absolutely protect Personal Information before it reaches us. 
+You should however, be aware that if you submit information to us electronically the internet is not a secure environment. We take reasonable steps to provide a secure channel for receiving information but cannot absolutely protect Personal Information before it reaches us. If you have any questions about security on our website, you can contact us at support@regattacentral.com
 
-When the Personal Information that we collect is no longer required, we will destroy, delete it in a secure manner, or ensure that the information is de-identified in accordance with our information destruction and de-identification policy, unless we are required by law to retain a copy of the Personal Information. 
+We will retain your information for as long as your account is active or as needed to provide you services. When the Personal Information that we collect is no longer required, we will destroy, delete it in a secure manner, or ensure that the information is de-identified in accordance with our information destruction and de-identification policy, unless we are required by law to retain a copy of the Personal Information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 **6.** **How individuals can access and correct their Personal Information held by us**   
 ****   
@@ -191,19 +195,18 @@ We do not sell, rent or trade your Personal Information to any other third parti
 
 RegattaCentral’s Privacy Policy applies solely to information collected by us and may differ from the policies of other companies’ or organisations’ websites that you link to from this website. These third party links are made available to you as a convenience and you agree to use these links at your own risk. Please be aware that we are not responsible for the content of third party websites linked to our website nor are we responsible for the privacy policy or practices of any third parties whose website is linked to our website. We recommend that you read the privacy policy of any other companies’ or organisations’ website that you link to from our website.   
 ****   
+Technologies such as: cookies, beacons, tags and scripts are used by RegattaCentral and our marketing partners, partners, affiliates, and analytics/monitoring service providers. These technologies are used in analyzing trends, administering the website, identifying the number of visitors and page views (or page impressions) that occur on our website and how visitors use the website (e.g. how long these visitors (on average) spend on our website and common entry and exit points to our website). We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+
 **Cookies/Tracking Technology**
 
 Cookies are small data files that are sent from a website and stored in a user’s web browser to improve the user’s web browsing experience. We do not link the information we store in cookies to any Personal Information you submit while on our website. 
 
-If you wish to disable the cookies on this website you will need to follow the steps required for your preferred browser. 
+If you wish to disable the cookies on this website you will need to follow the steps required for your preferred browser but your ability to use some features or areas of our website may be limited.
 
-We use cookies and tracking technology to ensure our website meets its objectives with users. Individual privacy is protected but we gain insights on how to make the site more useful for our users. Data collected from this analysis includes: 
+· _Log Files_
 
-· the number of page views (or page impressions) that occur on our website; 
+As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do link this automatically collected data to other information we collect about you. We do this to improve services we offer, improve marketing and assist with analytics and site monitoring functinality. 
 
-· the number of visitors to our website; and 
-
-· how visitors use the website (e.g. how long these visitors (on average) spend on our website and common entry and exit points to our website).   
 · _Web Beacons / Gifs_   
 Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our website by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ Personal Information. 
 
