@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elliottwave.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613051844id_/http%3A//www.elliottwave.com/info/privacy-policy-highlights.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elliottwave.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123204405id_/http%3A//www.elliottwave.com/info/privacy-policy-highlights.html) for the most accurate reproduction.*
 
 # Privacy Statement Highlights | ElliottWave International
 
@@ -14,6 +14,6 @@
 
 » You may opt-out of emails from us by following the instructions included in each email newsletter or communication or by emailing us at customercare@elliottwave.com.
 
-» We offer an opportunity to opt-out of certain communications under My Account, or you may contact us by phone, mail, or email ([Contact Information](http://www.elliottwave.com/info/#contact)).
+» We offer an opportunity to opt-out of certain communications under My Account, or you may contact us by phone, mail, or email ([Contact Information](http://www.elliottwave.com/info/customer-service.aspx)).
 
 [_More Information_](http://www.elliottwave.com/info/privacy-policy-full.html#email)
