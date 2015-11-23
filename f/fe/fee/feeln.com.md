@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feeln.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329065755id_/https%3A//www.feeln.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feeln.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123212350id_/https%3A//www.feeln.com/privacypolicy) for the most accurate reproduction.*
 
 # Feeln - Privacy Policy
 
@@ -44,7 +44,7 @@ Our Service has been developed for use of a general audience. Feeln recognizes t
 
 **Your California Privacy Rights**
 
-California Civil Code Section 1798.83, also known as S.B. 27, allows individual customers who have provided their personal information to Spirit Clips to request information about our disclosures of certain categories of personal information to third parties for their direct marketing purposes. Such requests must be submitted to us in one of the following ways: send a letter to SpiritClips, LLC, 1990 S. Bundy Drive, Suite 620, Los Angeles, CA 90025 or email privacypolicy@feeln.com. Within thirty days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third party direct marketing purposes during the immediately preceding year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted to locations other than those specified above.
+California Civil Code Section 1798.83, also known as S.B. 27, allows individual customers who have provided their personal information to Spirit Clips to request information about our disclosures of certain categories of personal information to third parties for their direct marketing purposes. Such requests must be submitted to us in one of the following ways: send a letter to SpiritClips, LLC, 3130 Wilshire Blvd. 4th Flr. Santa Monica, CA 90403 or email privacypolicy@feeln.com. Within thirty days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third party direct marketing purposes during the immediately preceding year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted to locations other than those specified above.
 
 **How does Feeln handle contest and survey responses?**
 
@@ -90,5 +90,5 @@ E-Mail:
 privacypolicy@feeln.com  
 Mail:  
 SpiritClips, LLC  
-1990 S. Bundy Drive, Suite 620  
-Los Angeles, CA 90025 
+3130 Wilshire Blvd. 4th Flr.  
+Santa Monica, CA 90403 
