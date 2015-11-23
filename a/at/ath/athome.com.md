@@ -1,110 +1,90 @@
-> *The following text is extracted and transformed from the athome.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316000455id_/http%3A//www.athome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the athome.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123101722id_/http%3A//www.athome.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | At Home Web
+# Privacy Policy
 
-By using this Website and/or providing any information, you signify your consent to the collection, use and sharing practices described in this Privacy Policy.
+Date of Last Revision:  June 8, 2015.
 
-### Types of Information Collected
+The website _[www.athome.com](http://www.athome.com/)_ (identified herein as the "Site") and the web pages thereof are owned and operated by At Home Stores LLC., a Delaware limited liability company ("At Home" or “we”).  Please read the following sections carefully, as they contain the terms and provisions governing the use of information related to your use of the Site (the “Privacy Policy”) of the Site.  Additionally, the Privacy Policy and Terms of Use apply to your use of the website, accordingly, you should also review our _[Terms of Use](http://www.athome.com/terms.html)_.
 
-We collect certain personal and non-personal information that you provide to Us when using this Website.
+PLEASE READ THE FOLLOWING TERMS OF USE AND THE PRIVACY POLICY CAREFULLY BEFORE USING THE SITE.  BY USING THE SITE, YOU SIGNIFY YOU AGREE TO BOTH THE TERMS OF USE AND THE PRIVACY POLICY.  IF YOU DO NOT AGREE TO BOTH THE TERMS OF USE AND THE PRIVACY POLICY, YOU MAY NOT USE THE SITE.
 
-Personal information that you provide to Us, such as your full name, street address, e-mail address and telephone number, is collected, stored and used only for the purposes described in this Privacy Policy or as otherwise disclosed at the time We request such information from you. This personal information also may be used to contact you about sales, special offers and new site features, unless you have opted not to receive promotional communications in connection with this Website.
+At Home appreciates your concerns about privacy. We have created this privacy policy in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the Site.
 
-We also collect non-personal information about users of the Website. The non-personal information we collect on this Website is information that by itself cannot be used to identify or contact you, such as demographic information and other anonymous statistical data relating to the use of this Website. For example, we collect and store certain non-personal information automatically whenever you interact with this Website, including your IP address, browser information and reference site domain name. We also collect non-personal information regarding customer traffic patterns and site usage. This information is used to analyze and improve this Website and to provide Our customers with a more fulfilling shopping experience.
+## CALIFORNIA RESIDENTS
 
-### A Special Note to Parents
+At Home does not disclose your personal information to any third-party for its marketing purposes.
 
-We realize children under the age of eighteen (18) may visit the Website and encourage all children to consult with their parents prior to submitting any information to any website, including Ours. We encourage parents to supervise their children’s online activities and consider using parental control tools available from online services and software manufacturers that help provide a child-friendly online environment. These tools can also prevent children from disclosing their name, address and other personal information online without parental permission.
+## UTAH RESIDENTS
 
-### Cookies, Web Beacons and Targeted Advertising
+At Home does not disclose your personal information to any third-party for its marketing purposes. 
 
-Like many websites, We use “cookies,” which are files stored on your computer’s hard drive by your browser. These cookies help Us identify Our account holders and allow us to better optimize their shopping experience. Cookies do not include any data that will identify you personally. Most browsers accept cookies automatically, but allow you to disable them if you wish.
+## IP ADDRESS
 
-Most browsers provide you with the option to set your browser to accept all cookies, to notify you when a cookie is issued, or to not receive cookies at any time. If you opt not to receive any cookies, certain personalized services cannot be provided to you and accordingly you may not be able to take full advantage of all of the features on Our Website.
+We may log all connections to our web servers. Those log files will include your IP address. An IP address is NOT personally identifiable information, but rather general information about your location, connection to the Internet, and your Internet Service Provider.  We use your IP address to help diagnose problems with our server and to administer the Site. Additionally, we will use your IP address to track your navigation of the Site and any internal website searches.  We reserve the right use your navigation history and information related to your use of the Site in current and future marketing efforts to you and to others.
 
-We may use third-party advertising companies to provide Us with data collection and reporting services regarding Our guests’ activities on Our Website, tracking and measuring performance of Our marketing efforts and your response to Our marketing efforts, and the delivery of relevant marketing messages. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness and may receive information about your browsing and buying activity on Our Website. Web beacons enable Us to recognize a browser’s cookie when a browser visits Our Website and to learn which banner ads bring users to Our Website. In addition, We and Our third party service providers may use cookies to manage and track the performance of Our advertisements displayed on other websites across the Internet.
+## COOKIES
 
-Targeted advertising (also known as online behavioral advertising) uses information collected on an individual’s web browsing behavior, such as the pages they have visited or the searches they have made. This information is then used to select which of Our advertisements should be displayed to a particular individual on websites other than this Website. The information collected is only linked to an anonymous cookie ID (alphanumeric number), and it does not include any information that could be linked back to a particular person, such as their name, address or credit card number. The information used for targeted advertising either comes from Us or through third party website publishers.
+"Cookies" are small pieces of information stored in User's browser that give that User a unique identification. The Site may insert cookies into your browser that identify you as a previous user of the Site and contain non-personally identifying information regarding you and your navigation of the Site. In some instances, these cookies may be used by us or other website during your future navigation of the internet to target specific advertisements to you based on your previous use of the Site. The Site may also read cookies already stored within your browser to identify non-personal information about you and communicate this information to other advertisers. All cookies are established on a per session basis, and are not permanently stored on your machine. For more information about cookies, please visit _[www.AboutCookies.org](http://www.aboutcookies.org/)_. 
 
-### Security
+## CLEAR GIFS
 
-We maintain physical, electronic and procedural safeguards to protect the confidentiality and security of personal information transmitted to Us using this Website. To help guard your information, our Website uses Secure Sockets Layer (SSL). SSL encrypts your credit card number, name and address so only We are able to decode your information. Please note that e-mail is not encrypted and is not considered to be a secure means of transmitting credit card information.
+We may also employ a software technology called clear gifs (also known as web beacons) that help us better manage content on our site by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of users.  Clear gifs and cookies are not tied to User's personally identifiable information.
 
-To be sure your connection is secure, look at the bottom status bar of your browser window. If you see an unbroken key or a closed lock (depending on your browser) the SSL is active and your information is secure. Most browsers offer additional security alerts as well. If for some reason you are unable to connect to our secure server, please call us toll free at 832-391-7201.
+## ONLINE TRACKING
 
-We also ask customers to carefully review their accounts and immediately report any unexpected activity to Us and their issuing bank or credit card company. Additionally, We ask all our customers to take measures to help protect personal information in their online accounts, including the following:
+At Home and the Site do not collect your personally identifiable information over time and across third-party web-sites or online services.  
 
-  * Install the latest security updates and anti-virus software on your computer to help prevent malware and viruses
-  * Reset your e-mail account password
-  * Use complex passwords (a minimum of 7 alpha/numeric cAsE sEnsitive characters)
-  * Do not use the same password on more than one website
-  * Do not share your password with others
-  * Sign out/log off website sessions so that your session is closed and cannot be accessed by another user on the same computer, especially when using a public computer or terminal
+## COLLECTION OF PERSONAL DATA
 
+Much of the information contained on the Site is available without registering or supplying personal information. The Site allows you to sign up for e-mail notifications.  In this case, you will provide your name, e-mail address, and zip code.  We may also collect personal data from our users when providing certain services.  
 
+At Home collects personally identifiable information only when there is a legitimate need to do so.  If your relationship with us includes providing us with sensitive data, we will endeavor to protect that information using commercially reasonable measures.  Except as otherwise identified herein, we will not distribute personal data outside of At Home, our affiliates and any third party contractors and we only use your personal data for the purposes of providing you goods or services through the Site.
 
-### External Links/Framed Pages
+## HOW YOUR NON-PERSONALLY IDENTIFIABLE INFORMATION MAY BE USED
 
-Our store locator functionality links to a third party website. Any data provided through this functionality is not governed by this Privacy Policy. The privacy policy of the applicable third party website governs the information collection and dissemination practices occurring on such website.
-
-If you have accessed this Website through a link from one of Our advertising and marketing partners, Our Website may include a frame of the applicable advertising and marketing partner. The information you provide to Us through these framed web pages is collected by Us and its use is governed by this Privacy Policy.
-
-### Receiving Promotions/Opt-Out
-
-From time to time, We will contact you about sales, special offers and new site features if you agreed to be included in Our email lists when you completed a purchase transaction with Us. To cancel Our free emails, click the “Unsubscribe” link at the bottom of any promotional email we send you.
-
-### Customer Service
-
-In addition to being able to call Our customer service department at 832-391-7201, you may also email Us by completing the Contact Form on the Website. When you email Us, your emails are stored within Our system so that We may refer to previous emails from you as needed to properly address your questions and concerns. Except as provided in this Privacy Policy, the information you provide to Our customer service department is not shared with anyone without your consent.
-
-### Entering Contests/Sweepstakes
-
-Whenever We run a contest or sweepstakes relating to Our Website, it will be accompanied with the rules of the contest/sweepstakes. We will also describe how the information gathered from your entry into the contest/sweepstakes will be used. Additionally, we will notify you if this information will be shared with anyone in addition to those persons and entities provided for in this Privacy Policy, such as a third party sponsoring or managing the contest/sweepstakes.
-
-### Contacting Us
-
-You can use the Contact Us form on the Website to give Us any input which we may use to improve the Website. The only required data is your name and email address. Except as provided in this Privacy Policy, this data is not shared with anyone in any way.
-
-### Our Third Party Relationships
-
-We have established several relationships with third parties vendors to best serve Our customers and to operate this Website.
-
-Your IP address, browser and reference site domain name are logged every time you visit Our Website. This data is used strictly for the analysis of load information and maximizing the efficiency of Our servers. Except as provided in this Privacy Policy, we will not share this data with anyone in any way.
-
-Subject to the terms and conditions of this Privacy Policy, any communication or material you transmit or post to this Website by email or otherwise, including any data, questions, comments or suggestions (other than personally identifiable information which will be treated in accordance with this Privacy Policy), is and will be treated as non-confidential and non-proprietary and anything you transmit or post may be used by Us and Our affiliates for any purpose and in any form of media, including without limitation, reproduction, disclosure, transmission, publication, broadcast and posting. We are free to use any ideas, concepts, know-how, or techniques contained in any communication or material that you send to this Website for any purpose whatsoever including, but not limited to, designing, developing, manufacturing and marketing products using such information. Additionally, by accessing the Website, you permit Us to share your personal information in response to a court order, subpoena, government investigation, or as otherwise required by law. We may transfer your personal information in the event of a corporate sale, merger, acquisition, dissolution or similar event. Additionally, We may share non-personal, non-individual statistical information with Our marketing partners, advertisers or other third parties for research or other related purposes.
-
-  * Third Party Service Providers: We employ other companies and individuals to perform certain functions on Our behalf in connection with the operation of this Website. Examples include: 
-    * fulfilling orders
-    * delivering packages
-    * sending postal mail and e-mail
-    * removing repetitive information from customer lists
-    * analyzing data
-    * providing marketing assistance
-    * providing search results and links (including paid listings and links)
-    * processing credit card payments
-    * hosting and operating the Website and providing customer service
-
-These third parties have access to your information collected through this Website as needed to perform their functions, but may not use it for other purposes.
+  * To customize the advertising and content you see on our pages;
+  * To improve the performance or layout of our website;
+  * To develop new services and ideas; and
+  * To better administer and troubleshoot our systems.
 
 
 
+## HOW YOUR PERSONALLY IDENTIFIABLE INFORMATION MAY BE USED
 
-  * Website Evaluation, Marketing and Promotions: From time to time, We may engage other third parties to assist in providing 
-    * Website evaluation services
-    * marketing
-    * order processing
-    * fulfillment and shipping services
-    * customer service
-
-In addition, We may engage third parties to provide services such as fraud protection and credit risk reduction, product customization, data analysis and data cleansing. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any purpose other than providing such services.
+  * To provide you services on the Site;
+  * To evaluate and improve the services of the Site;
+  * To evaluate the types and style of products you purchase from At Home;
+  * To fulfill your requests for information; and
+  * To contact you about At Home goods or services based on the preferences you have indicated or we have gleaned from your use of the Site.
 
 
 
+## CHILDREN'S PRIVACY
 
-### Changes to Privacy Policy
+In compliance with the Children's Online Privacy Protection Act, 15 U.S.C., §§ 6501-06 and 16 C.F.R., §§ 312.1-312.12, our Site does not permit children under 13 years of age to become users, and we do not collect information from children. By using our Site, you represent that you are 13 years of age or older.
 
-If We are going to use your personally identifiable information in a manner different from that stated at the time of collection, We will notify you via email. You will have a choice as to whether or not We use your information in this different manner. In addition, if We make any material changes in Our privacy practices that do not affect user information already stored in Our database, We will post a prominent notice on the Website notifying users of the change. In some cases where We post the notice, We will also email users who have opted to receive communications from Us, notifying them of the changes in Our privacy practices.
+## USE OF YOUR COMMENTS AND FEEDBACK
 
-### Questions about Our Policies
+Except with regard to any contact information you may provide us via the Site, all comments, feedback, information or materials submitted to At Home through or in association with this website (collectively, "Feedback") will be considered non-confidential and the property of At Home. By submitting such Feedback to At Home, you agree that you assign to At Home, without charge, all worldwide rights, title and interest, including copyrights and other intellectual property rights, in and to the Feedback. At Home shall be free to use such Feedback on an unrestricted basis.
 
-If you have any questions regarding your privacy or any of Our policies, please contact us via the Contact Us form on the Website, or call Us at 832-391-7201
+## SECURITY
+
+The Site has reasonable security measures in place to protect against the loss, misuse and alteration of the information under our control; however, At Home does not guarantee the performance or adequacy of such security measures.
+
+## LINKS TO OTHER WEBSITES
+
+The Site may contain links to other websites that are not owned or operated by At Home.  At Home is not responsible for the privacy policies or practices of third parties or the content or security of such third-party websites. You bears all risk associated with navigating a third-party site and any employment of any third party and obtaining their goods or services.
+
+## CHANGES TO THE PRIVACY POLICY
+
+This Privacy Policy describes the types of information we currently collect through your use of the Site, and the ways we use and protect that information.  From time to time, we may collect different types of information and use that information in different ways.  For example, when we add features or services to the Site, we may edit this policy to explain the new practices. Because protecting your privacy is very important to us, we do not expect major changes in policy. However, if we do make significant changes in our practices, we may include announcements on the Site’s home page so that you will know to review the revised Privacy Policy.  In any event, by accessing and navigating the Site, you are agreeing to be bound by the then-current Privacy Policy.
+
+## CONTACT US
+
+To remove or change your contact information in our database, or to not receive future mailings or other communications, as well as for all other inquiries, please contact us at any time using one of the options below:
+
+1\. E-mail **[CustomerCare@athome.com](mailto:CustomerCare@athome.com)**.  
+2\. Contact us at:  
+At Home Stores LLC  
+1600 E Plano Pkwy  
+Plano, TX 75074
