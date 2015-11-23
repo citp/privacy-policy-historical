@@ -1,31 +1,36 @@
-> *The following text is extracted and transformed from the imgtec.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614012525id_/http%3A//www.imgtec.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgtec.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123183130id_/http%3A//imgtec.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Imagination Technologies
 
 ## About Us
 
-Imagination and Pure are Divisions of Imagination Technologies Limited, a wholly owned subsidiary of Imagination Technologies Group plc (hereinafter referred to as "us" or "our"), a company registered in England and Wales, registration number 02920061. Our registered office and headquarters is located at Imagination House, Home Park Estate, Kings Langley, Hertfordshire WD4 8LZ.
+Imagination and Pure are Divisions of Imagination Technologies Limited, a wholly owned subsidiary of Imagination Technologies Group plc (hereinafter referred to as “us” or “our”), a company registered in England and Wales, registration number 02920061. Our registered office and headquarters is located at Imagination House, Home Park Estate, Kings Langley, Hertfordshire WD4 8LZ.
 
 This Privacy Policy describes the data collected by us whether:
 
-  1. on or through the websites at [www.imgtec.com](http://www.imgtec.com/) (the "Imagination Website"),[ www.pure.com](http://www.pure.com/) (the "Pure Website"), [www.flowlive.com](http://www.flowlive.com/) (the "Flow Website") or any other of our group company websites (together, those websites and any that resolve to those websites shall be known as the "Websites"); or
-  2. in relation to our collection of any warranty registration information from a purchaser, licensee or other user of a product originally supplied by us (whether or not through the Websites) ("Product"); or
-  3. in relation to the registration of details concerning retailers and staff of retailers who have sold Products.
+  * on or through the websites at www.imgtec.com (the “Imagination Website”), www.pure.com (the “Pure Website”), www.flowlive.com (the “Flow Website”) or any other of our       group company websites (together, those websites and any that resolve to those websites shall be known as the “Websites”); or
+
+
+  * in relation to our collection of any warranty registration information from a purchaser, licensee or other user of a product originally supplied by us (whether or not through the    Websites) (“Product”); or
+
+
+  * in relation to the registration of details concerning retailers and staff of retailers who have sold Products.
 
 
 
-In this Privacy Policy, references to "you" means any person submitting any data to us or to the Websites about himself or herself or about any other living individual in respect of any use of the Websites or the services available through the Websites (the "Services") or the obtaining or supply of the Product.
+In this Privacy Policy, references to “you” means any person submitting any data to us or to the Websites about himself or herself or about any other living individual in respect of any use of the Websites or the services available through the Websites (the “Services”) or the obtaining or supply of the Product.
 
 This Privacy Policy sets out the ways in which we may use your information.
 
-If you have any questions, comments or suggestions about the way in which we use your personal information or if any of your personal information changes, please write to us at the above address or email us at [webmaster@imgtec.com](mailto:webmaster@imgtec.com).
+If you have any questions, comments or suggestions about the way in which we use your personal information or if any of your personal information changes, please write to us at the above address or email us at webmaster@imgtec.com.
 
-Your privacy is very important to you and us. We shall therefore only use your name and other information which relates to you in the manner set out in this Privacy Policy. We will only use your personal information in a way that is fair to you. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you.  
+Your privacy is very important to you and us. We shall therefore only use your name and other information which relates to you in the manner set out in this Privacy Policy. We will only use your personal information in a way that is fair to you. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you.
+
 We will only keep your information for as long as we are either required to by law, or as is relevant for the purposes for which it was collected.
 
 ### Data that we collect and our use of it
 
-####  1\. Developer Portals
+#### 1\. Developer Portals
 
 When you and other developers participate in technical discussions and provide Product feedback on Websites such as our PowerVR Insider Forum on the Imagination Website, we collect and analyse the discussions, review feedback on our Products and store the information you provide upon registration. We may use that information for internal purposes to update our Products, design and develop new products and services, analyse the use of our Websites, respond to your queries, allow you to access certain restricted areas on our Websites and to provide you with information and updates regarding our Products. By posting any information on any of our discussion forums you are disclaiming all intellectual property and moral rights in and to the content of your submissions and you acknowledge that we can use the information posted by you in any manner we see fit.
 
@@ -35,7 +40,7 @@ When you register a warranty for a new Product that you have received, we may re
 
 #### 3\. Promotions
 
-When you enter a promotion (such as a free prize draw) run by us or if you are a winner of the promotion, you may supply various information about yourself or someone else, or we may receive or gather information supplied about you. For example, the information we may collect may include your name, date of birth, email address, telephone numbers, address, photograph, whether and how you are connected with us, information about Products (including, but not limited to, serial number, purchased from, purchase/sale date, reason for buying the radio, what you are thinking of buying next) and Services and software we supply, how you heard about us or the Product or the Services or the Websites, and your use of the Product or Services. If you participate in a retailer prize draw, your employer or manager's details. Some of this information is for the purpose of entering the promotion and for validating your entry. We may also use that information for the purposes of informing you and sending you a prize if you are a winner, and for publicising the details of the winners of our promotions on the Websites and in our marketing materials. We may also use your information in case we have any queries.
+When you enter a promotion (such as a free prize draw) run by us or if you are a winner of the promotion, you may supply various information about yourself or someone else, or we may receive or gather information supplied about you. For example, the information we may collect may include your name, date of birth, email address, telephone numbers, address, photograph, whether and how you are connected with us, information about Products (including, but not limited to, serial number, purchased from, purchase/sale date, reason for buying the radio, what you are thinking of buying next) and Services and software we supply, how you heard about us or the Product or the Services or the Websites, and your use of the Product or Services. If you participate in a retailer prize draw, your employer or manager’s details. Some of this information is for the purpose of entering the promotion and for validating your entry. We may also use that information for the purposes of informing you and sending you a prize if you are a winner, and for publicising the details of the winners of our promotions on the Websites and in our marketing materials. We may also use your information in case we have any queries.
 
 #### 4\. The Pure and Flow Websites
 
@@ -58,7 +63,7 @@ We may also use your data to send you feedback forms to complete about us or our
 By publishing your data on the Websites or our promotional and marketing material, this information may be accessible internationally including in countries outside the European Economic Area. Some places outside of the EEA may not have adequate data protection laws at all or may offer differing levels of protection of personal information which are not as high as in the UK. By submitting your data (or allowing your data to be submitted) to us or to the Websites, you acknowledge that provided we have used your data in the ways set out in this Privacy Policy, we cannot be held responsible for any use of your data by third parties who receive and process your data.
 
 We use your password to allow you to use restricted parts of the Websites. We use that to enable you or anyone you represent or who represents you to access your restricted parts on the Websites.  
-You must only submit to us or the Websites information which is accurate and not misleading and you must keep it up to date and inform us of changes. By submitting information about you or anyone else, you must ensure that you have full authority and consent to supply us with that information on everyone's behalf and you warrant to us that you have that authority.
+You must only submit to us or the Websites information which is accurate and not misleading and you must keep it up to date and inform us of changes. By submitting information about you or anyone else, you must ensure that you have full authority and consent to supply us with that information on everyone’s behalf and you warrant to us that you have that authority.
 
 ### Third Parties and Links
 
@@ -96,9 +101,9 @@ You are responsible for protecting against unauthorised access to your password 
 
 ### Cookie Policy
 
-The Websites use cookies to collect information. Cookies are small data files which are placed on your computer or other mobile or handheld device (such as smart 'phones or 'tablets') as you browse the Websites. They are used to 'remember' when your computer or device accesses the Website. The cookies are essential to the effective operation of our Websites and to enable to you navigate and use the Websites and shop with us online. Cookies are also used to tailor the Products and services offered and advertised to our customers, both on the Websites and elsewhere.
+The Websites use cookies to collect information. Cookies are small data files which are placed on your computer or other mobile or handheld device (such as smart ‘phones or ‘tablets’) as you browse the Websites. They are used to ‘remember’ when your computer or device accesses the Website. The cookies are essential to the effective operation of our Websites and to enable to you navigate and use the Websites and shop with us online. Cookies are also used to tailor the Products and services offered and advertised to our customers, both on the Websites and elsewhere.
 
-If you want to find out more information about cookies, please go to [cookies.](http://www.imgtec.com/cookies)
+If you want to find out more information about cookies, please go to cookies[.](http://www.imgtec.com/cookies)
 
 ### Changes
 
@@ -106,7 +111,6 @@ Any material changes to the way in which we use your data will be described in f
 
 ### Consent
 
-By submitting data to us and using the Websites, you consent to our use of your data and of your party in the manner set out in this Privacy Policy (as amended) and you are responsible for ensuring that you have authority to consent on behalf of anyone about whom you submit data.  
+By submitting data to us and using the Websites, you consent to our use of your data and of your party in the manner set out in this Privacy Policy (as amended) and you are responsible for ensuring that you have authority to consent on behalf of anyone about whom you submit data.
 
-
-For any enquiry about our privacy policy please address our [Webmaster](mailto:webmaster@imgtec.com?subject=Privacy%20Policy%20enquiry "email").
+For any enquiry about our privacy policy please address our Webmaster.
