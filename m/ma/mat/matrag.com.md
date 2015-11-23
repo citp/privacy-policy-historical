@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matrag.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315032300id_/http%3A//matrag.com/page.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matrag.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123052313id_/http%3A//matrag.com/page.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # PrivacyPolicy - matrag.com | Share anything online
 
