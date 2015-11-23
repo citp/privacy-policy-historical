@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylloyd.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524233812id_/http%3A//www.mylloyd.com/cms.php%3Fid%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylloyd.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123144306id_/https%3A//mylloyd.com/cms.php%3Fid%3D5) for the most accurate reproduction.*
 
 # LLOYD-ACs, Refrigerator, Washing Machine
 
