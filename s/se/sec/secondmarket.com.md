@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the secondmarket.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331025041id_/https%3A//www.secondmarket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secondmarket.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123194154id_/https%3A//secondmarket.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SecondMarket
 
 ## Privacy Policy
 
-Effective Date: June 20, 2014
+Effective Date: September 25, 2015
 
-This Privacy Policy or “Policy” explains how SecondMarket Holdings, Inc. and its subsidiaries and affiliates (collectively, “SecondMarket”, “we”, “our”, and “us”) collect and protect Personal Information (as defined below). If you have any questions that this Policy does not address, please contact us at legal@secondmarket.com. By creating an account on any SecondMarket site (a “SecondMarket Site”) or by otherwise submitting Personal Information to us through a SecondMarket Site, you give your consent to the collection and use of your Personal Information as explained in this Policy. This Policy is part of our Terms of Service and all capitalized terms used but not defined in this Policy have the meaning given to them in the Terms of Service.
+This Privacy Policy or “Policy” explains how SecondMarket Solutions, Inc. and its subsidiaries and affiliates, including SMTX, LLC (collectively, “SecondMarket”, “we”, “our”, and “us”) collect and protect Personal Information (as defined below). If you have any questions that this Policy does not address, please contact us at [legal@secondmarket.com](mailto:legal@secondmarket.com). By creating an account on or participating in any program or transaction conducted through any SecondMarket site (a “SecondMarket Site”) or by otherwise submitting Personal Information to us through a SecondMarket Site, you give your consent to the collection and use of your Personal Information as explained in this Policy. This Policy is part of our Terms of Service and all capitalized terms used but not defined in this Policy have the meaning given to them in the [Terms of Service](https://web.archive.org/terms/).
 
 SecondMarket’s Policy applies to current and former SecondMarket clients and any other users of any SecondMarket Site. The term “Personal Information” refers to non-public information that personally relates to or identifies you as an individual or entity.
 
 #### Updates and Changes to Our Privacy Policy
 
-Please note that, in the event of a change in policy, a revised Policy will promptly be posted to the SecondMarket Site. You agree to accept posting of a revised Policy electronically on the SecondMarket Site as actual notice to you. Any dispute over our Policy is subject to this notice.
+Please note that, in the event of a change in policy, a revised Policy will promptly be posted to this SecondMarket Site. You agree to accept posting of a revised Policy electronically on this SecondMarket Site as actual notice to you. Any dispute over our Policy is subject to this notice.
 
 #### How and Why We Gather Information
 
-When you sign up to participate on a SecondMarket Site, you may be asked to provide information such as your full legal name, address and date of birth, along with other personal information that is required to verify your identity and fulfill our legal and regulatory requirements. This information will also be used to transact your business and communicate with you. From time to time, we may request additional information to help us further assess your needs and preferences
+When you sign up to participate on a SecondMarket Site, you may be asked to provide information such as your full legal name, address and date of birth, along with other personal information that is required to verify your identity and fulfill our legal and regulatory requirements. This information will also be used to transact your business and communicate with you. From time to time, we may request additional information to help us further assess your needs and preferences.
 
 #### Types of Information We Collect
 
-The information we collect and maintain about you is provided during the course of your entering into transactions with private issuers who have engaged SecondMarket to provide certain services in the context of a private securities transaction or trading through SecondMarket. This Personal Information, not available publicly, comes from the following sources:
+The information we collect and maintain about you is provided during the course of your entering into transactions with private issuers who have engaged SecondMarket to provide certain services in the context of a private securities transaction facilitated through SecondMarket. This Personal Information, not available publicly, comes from the following sources:
 
   * Information you provide to us when you fill out account opening documents, complete a form or make a request for services, including your name, address, age, Social Security number and/or taxpayer identification number, investment objectives, investment experience, assets and liabilities and/or income details and confidential documentation used to verify those details, telephone number, e-mail address and similar information; and
-  * Information from your transactions with us, such as your sale proceeds or investment amount.
+  * Information from your transactions through us, such as your sale proceeds or investment amount.
 
 
 
@@ -58,7 +58,7 @@ We Limit the Sharing of Information
 
 To protect your privacy, we limit the sharing of your Personal Information outside of SecondMarket. We conduct our business with great respect for the confidential nature of the information being provided. We will not share Personal Information about you except as outlined below:
 
-  * To help us provide our services to our private issuer clients, you and/or to improve our services, we engage qualified and reputable third parties to help us to carry out certain functions such as account processing, client services and/or data collection relevant to our business. For example, in each case where you enter into a financial transaction through a SecondMarket Site, we share your Personal Information with third party service providers in order to perform regulatory-required background checks, with certain technology providers to facilitate document execution, and with third parties that perform securities execution and clearing services on your behalf. Pursuant to our agreements with these service providers, their ability to use your Personal Information is specifically limited to the service being provided.
+  * To help us provide our services to our private issuer clients, you and/or to improve our services, we engage qualified and reputable third parties to help us to carry out certain functions such as account processing, client services and/or data collection relevant to our business. For example, in each case where you enter into a financial transaction through a SecondMarket Site, we share your Personal Information with third party service providers in order to perform regulatory-required background checks and with certain technology providers to facilitate document execution. Pursuant to our agreements with these service providers, their ability to use your Personal Information is specifically limited to the service being provided.
   * To the extent that you upload Personal Information and sign transactional documentation via a SecondMarket Site in connection with an investment, sale of equity or other transaction, we may share your Personal Information and the documentation that you execute with the parties with which you are transacting.
   * As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Information may be part of the transferred assets.
   * SecondMarket may share information with our affiliates if the information is required to provide the services you request. An affiliate is a company that we own or control, or with which there is common ownership with us.
@@ -72,11 +72,11 @@ You are responsible for helping us to maintain the accuracy and completeness of 
 
 #### Third Party Sites
 
-If at any time you choose to purchase a product or service offered by another company, any Personal Information you share with that company will by subject to the privacy policies of the applicable third party companies and will not be controlled by our Privacy Policy. Other than as described above, we are not responsible for the privacy policies or the content of third party sites and/or services (each, a “Third Party Service”) we link to, and have no control of the use or protection of information provided by you or collected by those Third Party Services. Whenever you elect to hyperlink to a Third Party Service, you may be asked to provide registration or other information. Please note that the information you are providing is going to a third-party, and you should familiarize yourself with the privacy policy provided by that party.
+If at any time you choose to purchase a product or service offered by another company, any Personal Information you share with that company will be subject to the privacy policies of that company and will not be controlled by our Privacy Policy. Other than as described above, we are not responsible for the privacy policies or the content of third party sites and/or services (each, a “Third Party Service”) we link to, and have no control of the use or protection of information provided by you or collected by those Third Party Services. Whenever you elect to hyperlink to a Third Party Service, you may be asked to provide registration or other information. Please note that the information you are providing is going to a third-party, and you should familiarize yourself with the privacy policy provided by that party.
 
 #### Privacy and the Internet
 
-The following additional information will be of interest to you if you access a SecondMarket Site and/or one of its affiliates’ products or services through one or more of our websites:
+The following additional information will be of interest to you if you access a SecondMarket Site and/or one of its subsidiaries’ products or services through one or more of our websites:
 
   * Users of any SecondMarket Site are required to identify and authenticate themselves prior to accessing our services. Generally, identification and authentication take place through the use of your user name and a password and/or while logging in with one of our technical support staff.
 
@@ -101,6 +101,6 @@ We do not currently respond to web browsers’ “Do Not Track” signals that p
 
 #### Third Party Data Collection
 
-We may authorize certain third parties, including, without limitation, Google Analytics, Chartbeat and Mixpanel, to track usage and collect information about users and their activities on the SecondMarket Sites.
+We may authorize certain third parties, including, without limitation, Google Analytics, to track usage and collect information about users and their activities on the SecondMarket Sites.
 
 * * *
