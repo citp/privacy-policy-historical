@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaycreeps.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603030714id_/http%3A//gaycreeps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaycreeps.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123060021id_/http%3A//gaycreeps.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
