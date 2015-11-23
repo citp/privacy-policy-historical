@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netcracker.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413032051id_/http%3A//www.netcracker.com/en/footer-link/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcracker.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123081022id_/http%3A//www.netcracker.com/company/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement | NetCracker
 
