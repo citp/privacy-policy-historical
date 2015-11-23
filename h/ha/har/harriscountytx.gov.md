@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harriscountytx.gov privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627071644id_/http%3A//www.harriscountytx.gov/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harriscountytx.gov privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123212128id_/http%3A//www.harriscountytx.gov/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
