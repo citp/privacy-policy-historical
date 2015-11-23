@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartasset.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405105318id_/https%3A//smartasset.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartasset.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124003108id_/https%3A//smartasset.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SmartAsset.com
 
@@ -58,7 +58,7 @@ A CALIFORNIA RESIDENT WHO HAS PROVIDED PERSONAL DATA TO A BUSINESS WITH WHOM HE/
 
 **Financial Insight Technology, Inc  
 Attn: Michael Carvin  
-44 Wall Street, New York City, NY, 10005  
+36 West 20th Street, Suite 3, New York, NY 10011  
 **
 
 **11\. DISPUTE RESOLUTION.** If you believe that Company has not adhered to this Statement, please contact Company by email at info@smartasset.com. We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation. 
