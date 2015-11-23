@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pycomall.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605221312id_/http%3A//www.pycomall.com/catalog/Privacy-Policy-sp-13.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pycomall.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123141413id_/http%3A//www.pycomall.com/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Pycomall - Buy Sell Digital Contents
+# Privacy Policy
 
 In order to provide uninterrupted services to you as a visitor or a user of our site, Pycomall, it is necessary that you provide us with your complete and correct personal information ("Personal Data") when you are applying to us and/or continue to subscribe with us for service(s) and/or product(s) ("Services").
 
