@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walksofitaly.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317005252id_/https%3A//www.walksofitaly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walksofitaly.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123235735id_/https%3A//www.walksofitaly.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
