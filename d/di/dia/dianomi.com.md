@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dianomi.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607034708id_/http%3A//www.dianomioffers.co.uk/legal/privacy.epl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dianomi.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123191107id_/https%3A//www.dianomioffers.co.uk/legal/privacy.epl) for the most accurate reproduction.*
 
 # Privacy Policy - dianomi - intelligent customer acquisition
 
@@ -34,6 +34,8 @@ In addition, Dianomi may disclose personal information when we are lawfully auth
 Information about our users, including personal information, may also be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets, financing or acquisition, an insolvency, bankruptcy or receivership or in any other situation where personal information may be transferred as one of the business assets of Dianomi. 
 
 Your address data may be cross-referenced against the Experian Financial Strategy Segments or Mosaic databases and augmented with demographic information which is included in the information we provide our 3rd party advertising partners in order to help them assess the suitability of the services on offer. 
+
+We do not store credit card details of our customers. 
 
 **3\. Use of Cookies and Web Beacons**
 
