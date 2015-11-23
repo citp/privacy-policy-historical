@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tubularlabs.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319033004id_/https%3A//tubularlabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubularlabs.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123131656id_/https%3A//tubularlabs.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Tubular Labs
+# Privacy Policy > Tubular Labs
 
 This Privacy Policy describes the information we collect and use on behalf of our clients and from users of our services and/or our websites (www.TubularLabs.com and other Tubular Labs URLs and websites). We will refer to all of our services and websites collectively as “Services.” This Privacy Policy is subject to the Terms of Service posted on www.TubularLabs.com and other Tubular Labs sites.
 
@@ -8,9 +8,9 @@ By using our Services, you expressly consent to Tubular Labs’s collection, sto
 
 ## Information Collected From Tubular Labs Services
 
-  1. **Automatic Collection:** Like most web businesses, we use automated mechanisms (eg, cookies and/or pixels) to keep track of user interactions with our Services. We collect information such as your internet protocol address, browser type and access times. We also use third party services such as Kiss Metrics and Google Analytics to gather and analyze user information.
-  2. **Volunteered:** If you open an account with us, sign into our Sites with a Google/YouTube account, purchase products or services, send us an email, or share personal information with us in any other way, we collect this information. This obviously depends on what information you choose to provide but it may include your name, email address or billing information. You do not have to share this information with us, but without it you may not be able to access certain content, features or Services.
-  3. **Posted:** If you post information on any public areas of our websites (or elsewhere on the Internet) that information may be collected and used by anyone, including Tubular Labs. (We strongly recommend that you do not post any information that allows strangers to identify or locate you. Posting such information may result in unsolicited and unwanted contact from others, to say the least.)
+  1. **Automatic Collection:  **Like most web businesses, we use automated mechanisms (eg, cookies and/or pixels) to keep track of user interactions with our Services. We collect information such as your internet protocol address, browser type and access times. We also use third party services such as Kiss Metrics and Google Analytics to gather and analyze user information.
+  2. **Volunteered:  **If you open an account with us, sign into our Sites with a Google/YouTube account, purchase products or services, send us an email, or share personal information with us in any other way, we collect this information. This obviously depends on what information you choose to provide but it may include your name, email address or billing information. You do not have to share this information with us, but without it you may not be able to access certain content, features or Services.
+  3. **Posted:  **If you post information on any public areas of our websites (or elsewhere on the Internet) that information may be collected and used by anyone, including Tubular Labs. (We strongly recommend that you do not post any information that allows strangers to identify or locate you. Posting such information may result in unsolicited and unwanted contact from others, to say the least.)
 
 
 
@@ -27,8 +27,8 @@ The short answer is that we generally use this information to help Tubular Labs 
 
 ## When Do We Share or Disclose Your Information?
 
-  * **Automated Information.** We may freely share information we collect by automated means with third parties, such as clients, advertisers, sponsors and business partners. 
-  * **Personally Identifiable Information.** In more limited circumstances, we may share personally identifiable information we have collected. For example: 
+  * **Automated Information.  **We may freely share information we collect by automated means with third parties, such as clients, advertisers, sponsors and business partners.
+  * **Personally Identifiable Information.  **In more limited circumstances, we may share personally identifiable information we have collected. For example: 
     * We might share personally identifiable information during due diligence or in connection with a sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation.
     * If you give us permission, we may share your personally identifiable information with third parties who may send you marketing and promotional information.
     * Your personal information may be transferred to anyone who is helping us make the Services available and functional, like technical agents, payment processing vendors, other subcontractors, and our affiliates and consultants.
@@ -45,7 +45,7 @@ The Services are not intended for children under age 13, or for anyone under age
 
 Like most websites, third parties may directly gather user information from users of our Services through automated means such as cookies. For example, companies who place ads on our websites may drop their own cookies on the computers of users who view their ads. This Privacy Policy does not cover how third parties gather and use such data.
 
-In addition, the Services may contain links to third party websites and content. Tubular Labs does not control these websites and/or content and these third parties' privacy policies may be different from our own. You access linked websites or third party content at your own risk.
+In addition, the Services may contain links to third party websites and content. Tubular Labs does not control these websites and/or content and these third parties” privacy policies may be different from our own. You access linked websites or third party content at your own risk.
 
 ## Security
 
@@ -65,13 +65,13 @@ This Privacy Policy is governed by the laws of the State of California. You agre
 
 ## California Residents
 
-Under California Civil Code sections 1798.83-1798.84, also known as the "Shine the Light Law," any of our users who are California residents are entitled to request and receive once a year, free of charge, a notice from us describing what categories of personal customer information we share with third parties or corporate affiliates for their direct marketing purposes. That notice will identify the categories of information shared, the third parties and affiliates with which it was shared, and their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address Tubular Labs Inc., 201 Los Gatos – Saratoga Road #231, Los Gatos CA 95030-5308. In your request, please specify that you want a "California Privacy Rights Notice." Please allow at least thirty days for a response.
+Under California Civil Code sections 1798.83-1798.84, also known as the “Shine the Light Law,” any of our users who are California residents are entitled to request and receive once a year, free of charge, a notice from us describing what categories of personal customer information we share with third parties or corporate affiliates for their direct marketing purposes. That notice will identify the categories of information shared, the third parties and affiliates with which it was shared, and their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address Tubular Labs Inc., 201 Los Gatos – Saratoga Road #231, Los Gatos CA 95030-5308. In your request, please specify that you want a “California Privacy Rights Notice.” Please allow at least thirty days for a response.
 
 ## Contact Us
 
-If you have any questions about our privacy practices, please email us at [legal@TubularLabs.com](mailto:legal@TubularLabs.com).
+If you have any questions about our privacy practices, please email us at [legal@TubularLabs.com](mailto:legal@TubularLabs.com).
 
-You can also contact us by mail at Tubular Labs Inc., 655 W Evelyn Ave, Suite 3, CA 94041.
+You can also contact us by mail at Tubular Labs Inc., 153 Castro Street #300, MOUNTAIN VIEW, CA 94041
 
 In addition, if you wish to exclude your personal information from our direct marketing, or if you would like to update or delete your email address, mailing address or other personal information, or otherwise manage communications your receive from Tubular Labs, please contact us at the above.
 
