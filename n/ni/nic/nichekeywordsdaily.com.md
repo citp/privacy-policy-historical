@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nichekeywordsdaily.com privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710150321id_/http%3A//nichekeywordsdaily.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nichekeywordsdaily.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123202953id_/http%3A//nichekeywordsdaily.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
