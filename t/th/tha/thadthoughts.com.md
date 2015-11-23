@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thadthoughts.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629045045id_/http%3A//www.thadthoughts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thadthoughts.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123113224id_/http%3A//www.thadthoughts.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Thad Thoughts
 
