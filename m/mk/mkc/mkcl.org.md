@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mkcl.org privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614040540id_/http%3A//mkcl.org/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mkcl.org privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123045714id_/http%3A//www.mkcl.org/en/privacy-policy.html) for the most accurate reproduction.*
 
 # MKCL - Privacy Policy
 
@@ -8,7 +8,7 @@
 
 **Privacy Policy:** Personal information about you and your handheld device are subject to our “MKCL’s DBForms Privacy Policy”, defined at the bottom of this document. Your personal information belongs to you. We collect this type of information when you provide it, but we shall not share such information concerning our customers to any third parties for ANY reason.
 
-**User Account, Password and Security** : You are responsible for maintaining the confidentiality of the UserID and password provided to you for the use of app on handheld device by the Admin of “MKCL’s DBForms”, and is fully responsible for all activities that occur under your account. You agree to immediately notify Admin of ”MKCL’s DBForms” at admindbforms@mkcl.orgof any unauthorized use of your password. ”MKCL’s DBForms” cannot and shall not be liable for any consequences directly and/or indirectly arising from your failure to comply with this Section.
+**User Account, Password and Security** : You are responsible for maintaining the confidentiality of the UserID and password provided to you for the use of app on handheld device by the Admin of “MKCL’s DBForms”, and is fully responsible for all activities that occur under your account. You agree to immediately notify Admin of ”MKCL’s DBForms” at [admindbforms@mkcl.orgof](mailto:admindbforms@mkcl.orgof) any unauthorized use of your password. ”MKCL’s DBForms” cannot and shall not be liable for any consequences directly and/or indirectly arising from your failure to comply with this Section.
 
 **Information collection, disclosure and abuse of service** : You understand that all information (such as written text in the forms, images or any other media) which you may have access to as part of, or through your use of ”MKCL’s DBForms” are the sole responsibility of the person from whom such content originated. ”MKCL’s DBForms” takes no responsibility for abusive content, and it is the responsibility of the users to regulate such content. ”MKCL’s DBForms” reserves the right to suspend its service to users involving in service abuse. ”MKCL’s DBForms” takes no responsibility for any data generated within ”MKCL’s DBForms” and published or distributed outside by the user.
 
