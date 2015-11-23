@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keepingcurrentmatters.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526020517id_/http%3A//www.keepingcurrentmatters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepingcurrentmatters.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123170330id_/http%3A//www.keepingcurrentmatters.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Keeping Current Matters
 
@@ -18,6 +18,8 @@ Ronkonkoma, NY 11779
 
 We encourage you to review the entire policy. Please click on any of the links below to review that particular section. 
 
+  
+
   * Information We Collect and How We Use It
   * Choices for Personal Information
   * Information Sharing
@@ -30,17 +32,25 @@ We encourage you to review the entire policy. Please click on any of the links b
 
 Information We Collect and How We Use It
 
-In order to provide our full range of services, we may collect the following types of information: 
+In order to provide our full range of services, we may collect the following types of information:
 
   * **Information You Provide** – When you subscribe to Keeping Current Matters™ or any other service that requires registration, we ask you for personal information (such as your name, email address, company information and location). For paid services, we also request credit card or other payment account information which we do not maintain, and is immediately removed from our servers after payment is processed. After your order has been placed, your billing account is only referenced by name or auto-generated customer number. Your financial information will never be shared with any entity outside of Keeping Current Matters™.
+  
+
   * **Cookies** – When you visit Keeping Current Matters™, we may send one or more cookies – a small file containing a string of characters – to your computer or other device that uniquely identifies your browser. We use cookies to improve the quality of our service, including storing user preferences, improving search results and tracking user trends.
+  
+
   * **Login Information** – When you access Keeping Current Matters™ services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+  
+
   * **User Communications** – When you send email or other communications to Keeping Current Matters™, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+  
+
   * **Links** – Keeping Current Matters™ may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our services, including customized content and programs.
 
 
 
-Keeping Current Matters™ only processes personal information for the purposes described in this Privacy Policy. In addition to the above, such purposes include: 
+Keeping Current Matters™ only processes personal information for the purposes described in this Privacy Policy. In addition to the above, such purposes include:
 
   * Providing enhanced services, including the display of customized content;
   * Research and analysis in order to maintain, protect and improve our services;
@@ -61,6 +71,8 @@ Information Sharing
 Keeping Current Matters™ only shares personal information with other companies or individuals outside of Keeping Current Matters™ in the following limited circumstances:
 
   * We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
+  
+
   * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
 
 
@@ -73,7 +85,8 @@ We may also disclose information about you if we determine that disclosure is re
 
 Information Security
 
-Keeping Current Matters™ takes precautions — including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as against unauthorized access, disclosure, alteration, and destruction. All information collected, both tangible and electronic, is transmitted securely and appropriate measures are taken to keep it protected from unauthorized access.   
+Keeping Current Matters™ takes precautions — including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as against unauthorized access, disclosure, alteration, and destruction. All information collected, both tangible and electronic, is transmitted securely and appropriate measures are taken to keep it protected from unauthorized access.
+
 Secure Sockets Layer (SSL) encryption is used on all web pages where personal information is collected. To make purchases from these services, you must use an SSL-enabled browser such as Chrome, Safari, Firefox, or Internet Explorer. Doing so protects the confidentiality of your personal information while transmitted over the Internet.
 
 Data Integrity
