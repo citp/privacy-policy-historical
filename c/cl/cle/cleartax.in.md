@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleartax.in privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404123712id_/https%3A//cleartax.in/Meta/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleartax.in privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123231840id_/https%3A//cleartax.in/Meta/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy: ClearTax.in
 
@@ -47,3 +47,14 @@ ClearSharp works to protect your personal information and tax return information
 ###  Changes to this Privacy Policy
 
 Please note that this Privacy Policy may change from time to time. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). 
+
+ERI Services for e-Filing
+
+When you are in the process of e-Filing your Income Tax Return, ClearTax may request information on your behalf only in order to provide e-Filing services to you. 
+
+  * Addition of you as a Client of the E-Return Intermediary
+  * Retrieval of ITR information using E-Return Intermediary webservices
+  * E-Filing access of your ITR
+  * Other additional webservices as provided to E-Return Intermediaries
+
+
