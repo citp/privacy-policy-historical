@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fireeye.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627184217id_/https%3A//www.fireeye.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fireeye.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124091339id_/https%3A//www.fireeye.com/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | FireEye
 
