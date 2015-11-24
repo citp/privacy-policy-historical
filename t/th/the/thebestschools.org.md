@@ -1,23 +1,30 @@
-> *The following text is extracted and transformed from the thebestschools.org privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317152835id_/http%3A//www.thebestschools.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebestschools.org privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124044918id_/http%3A//www.thebestschools.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Best Schools
 
-The privacy of our visitors to TheBestSchools.org is important to us. We recognize that the privacy of your personal information is important to you, as well.
+The privacy of our visitors is important to TheBestSchools.org. Of course, the privacy of your personal information is important to you, as well.
 
 Accordingly, we have developed this Privacy Policy in order for you to understand how we collect, communicate, disclose, and make use of personal information.
 
-Here is information on what types of personal information we receive and collect when you use and visit TheBestSchools.org, and how we safeguard your information.
+This policy explains what types of personal information we receive and collect when you use and visit TheBestSchools.org, and how we safeguard your information.
 
 ## General
 
-  * **We never sell your personal information to third parties.**
   * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
-  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
+  * We will collect and use personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
   * We will only retain personal information as long as necessary for the fulfillment of those purposes.
   * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
   * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
   * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
   * We will make readily available to customers information about our policies and practices relating to the management of personal information.
+
+
+
+## Specific
+
+  * TheBestSchools.org will never sell or transfer to a third party any personal information, including your email address, that you may have to leave on our website in order to comment on an article or to subscribe for a TBS newsletter (such as for the TBS Magazine).
+  * In submitting your personal information at TheBestSchools.org in order to obtain free materials about a school or degree program, you are making a formal request of us, our affiliated entities, and third party marketing partners/vendors to provide you with such materials. Thus, by making such a request, you are granting permission to be contacted via email, mail, and phone; moreover, you are consenting to receive telephone calls for a limited period of time from our affiliates, marketing partners, and associated vendors, even if the telephone number you submitted appears on a state and/or federal Do Not Call list. This is because your request will serve as an exception to state and/or federal Do Not Call requirements.
+  * To comply with the law, your personal information may be shared, such as in the case of a subpoena or similar legal process when we believe that the disclosure is necessary to protect our rights, your safety or the safety of others, or investigate fraud. It may also be done to respond to a government request if TheBestSchools.org becomes involved in a merger, acquisition, or sale of all or a portion of its assets to any other third party, with your prior consent to do so.
 
 
 
@@ -39,8 +46,6 @@ Deleting cookies does not mean you have permanently opted out of any advertising
 
 * * *
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
-
-TheBestSchools.org will never sell or transfer any personal information, including your email address, that you may have to leave on our side in order to comment.
+We are committed to conducting our business in accordance with these principles and practices to ensure that the confidentiality of your personal information is protected and maintained. At the same time, to reflect changes and improvements to our handling of personal information, we may update this policy. For this reason, we encourage you to periodically review this page.
 
 **See our[Terms and Conditions of Use.](http://www.thebestschools.org/terms-conditions-use/)**
