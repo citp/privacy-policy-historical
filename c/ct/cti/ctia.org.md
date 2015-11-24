@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctia.org privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503165711id_/http%3A//www.ctia.org/helpful-links/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctia.org privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124020706id_/http%3A//www.ctia.org/helpful-links/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,6 +47,13 @@ Cookies and other Tracking Technologies
 CTIA may use cookies and other tracking technologies to collect information about you when you interact with our website.  CTIA uses cookies to help you navigate CTIA.ORG® as easily as possible.  For example, cookies allow the CTIA.ORG® Website to remember your registration and display settings when you return so you do not have to enter the same information each time you visit.
 
 Please note that most web browsers allow you to turn off cookies on your computer by adjusting the web browser’s settings.  If you choose to turn off cookies, you may still use CTIA.ORG®, but your ability to use some areas or functions of the site may be limited.  You can learn more about managing your cookies in Section VI on Consumer Control and Choices.
+
+Third-Party Advertising Partners  
+CTIA uses our third-party ad partner to serve advertisements on our behalf across the Internet. Currently, we use third party-placed tracking pixels and cookies from the following advertising partner: Worldata. In the future we may partner with other companies to provide interest-based advertising, both on and off CTIA.org. If this occurs, we will provide you with an opportunity to opt out when these advertisements are served. 
+
+These advertising service providers may collect non-personal information about your visits to CTIA.org, such as the content viewed, the date and time that such content is viewed, or the purchase being made. Such non-identifiable information does not include your name, address, email address or other personal information. The information is collected through the use of cookies and pixel tags (also known as action tags), which is industry-standard technology used by most major websites. 
+
+In addition to the information about your visits to our website, our service providers may also use the information about your visits to other websites to target advertisements for services available from CTIA.org. 
 
 Web Browser Activity Information   
 In order to learn more about the use of CTIA.ORG®,  CTIA automatically collects information about your device and your visit, such as the type of browser you use, the times you accessed the site, the pages you viewed, your IP address, and the Web page you visited before visiting CTIA.ORG®.  This data allows us to become more familiar with people who visit our site, how frequently they visit, and what parts of the site they visit most often.  It is important to note that the information that we automatically collect is statistical data, and does not identify you as an individual.
@@ -113,4 +120,4 @@ As our organization changes from time to time, this Privacy Policy may change as
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with the CTIA.ORG® Website, you can contact us at [webmaster@ctia.org](mailto:webmaster@ctia.org).
 
-Last updated: April 2014
+Last updated: June 2015
