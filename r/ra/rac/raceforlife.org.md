@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raceforlife.org privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616131809id_/http%3A//www.cancerresearchuk.org/terms-and-conditions/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raceforlife.org privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124121050id_/http%3A//www.cancerresearchuk.org/about-us/utilities/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | Cancer Research UK
 
@@ -37,11 +37,13 @@ We may need to share your information with our service providers, associated org
 
 If you contact the [cancer information nurses](http://www.cancerresearchuk.org/about-us/contact-us/contact-our-cancer-information-nurses/), either through CancerHelp UK or directly, you may choose to provide details of a personal nature to them.
 
+If you telephone the nurses your call may be recorded and if it is it will be stored for 6 months and then securely deleted.  
+
 Only Cancer Research UK will receive your personal information and only use it for the purposes of dealing with your enquiry, training, quality monitoring or evaluating the services we provide. Cancer Research UK will not pass on your details to anyone else without your express permission, except in exceptional circumstances to comply with the nurses’ code of professional conduct or the law. Examples of this might include children contacting the service reporting abuse, anyone reporting serious self harm, anyone expressing the intention of harming someone else, or if a terrorist threat is reported.
 
 Your personal information and details of the enquiries received are stored on a secure database. If for any reason you wish to have your personal details removed, please contact the [cancer information nurses](http://www.cancerresearchuk.org/about-us/contact-us/contact-our-cancer-information-nurses/). 
 
-If you send feedback to the CancerHelp UK team, the feedback will be noted and your contact details kept for a maximum of 3 months. If you have sent a complaint to the site, the correspondence will be kept securely in a complaints file for a maximum of one year, in case we need to refer back to it.
+If you send feedback to the patient information web team, the feedback will be noted and your contact details kept for a maximum of 3 months. If you have sent a complaint to the site, the correspondence will be kept securely in a complaints file for a maximum of one year, in case we need to refer back to it.
 
 ## Your choices
 
@@ -69,9 +71,9 @@ We will not sell any information about your web browsing activity.
 
 ## Your consent
 
-By providing us with your personal data, including sensitive personal data such as on your health, you consent to the collection and use of this information in accordance with the purposes described above and this privacy statement.
+By providing us with your personal information, including sensitive information such as on your health, you consent to the collection and use of this in accordance with the purposes described in this Privacy statement.
 
-You also consent to our transferring your information to countries or jurisdictions outside the UK if necessary for the above purposes. These countries may not provide the same level of data protection as the UK. If we do make such a transfer, we will, if appropriate, put appropriate controls in place to ensure your information is protected.
+  We may need to use the services of suppliers outside the European Economic Area (EEA) to  store or process your personal information. Although they may not be subject to same data protection laws as the UK,  we will take steps to ensure they provide an adequate level of protection in accordance with UK data protection law. By submitting your personal information you agree to this transfer, storing or processing  at a location outside the EEA.
 
 ## Right of access
 
