@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lds.org privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619114200id_/https%3A//www.lds.org/legal/privacy%3Flang%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lds.org privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124223234id_/https%3A//www.lds.org/legal/privacy%3Flang%3Deng) for the most accurate reproduction.*
 
 # Privacy Policy
 
