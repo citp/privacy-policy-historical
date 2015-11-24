@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xpango.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627013710id_/http%3A//www.xpango.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpango.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124050633id_/http%3A//www.xpango.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Xpango.com
 
@@ -9,7 +9,7 @@
 
 
 
-2,830,546 Xpangoer's and counting...
+3,018,577 Xpangoer's and counting...
 
   * mobile phones
     *     * [
