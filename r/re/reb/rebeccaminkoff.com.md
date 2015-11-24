@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rebeccaminkoff.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622201326id_/http%3A//www.rebeccaminkoff.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebeccaminkoff.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124025804id_/http%3A//www.rebeccaminkoff.com/privacy-and-security) for the most accurate reproduction.*
 
-# Privacy & Security | Rebecca Minkoff Online Store
+# Privacy & Security | Rebecca Minkoff
 
 PRIVACY
 
