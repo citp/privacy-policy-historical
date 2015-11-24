@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the learn2type.com privacy policy that was archived on 2015-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150407082724id_/http%3A//www.learn2type.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the learn2type.com privacy policy that was archived on 2015-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151124180737id_/http%3A//www.learn2type.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html itemscope="" itemtype="http://schema.org/WebPage"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -24,6 +24,8 @@
 <meta itemprop="awards" content="Yahoo! Internet Life Incredibly Useful Sites">
 <meta itemprop="awards" content="Lightspan Study Web Academic Excellence">
 <meta itemprop="thumbnailUrl" content="http://www.learn2type.com/images/facebook/learntotype_50.gif">
+
+<meta name="viewport" content="width=device-width, initial-scale=0.75">
 
 <style type="text/css">
 h1 {
@@ -86,6 +88,68 @@ font-size: x-small;
 color: white;
 vertical-align: bottom;
 }
+.footer {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 9px;
+}
+#breadcrumb {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 9px;
+}
+td.maincontent {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : small;
+	color : Black;
+}
+#content_table_block {
+	width: 850px;
+}
+#content_td_block {
+	width: 670px;
+	vertical-align: top;
+}
+#sky_block {
+	float: right;
+}
+#menu_links {
+	width: 680px;
+	border-spacing: 0px;
+}
+
+@media screen and (max-width:500px) {
+#content_block {
+	width: auto;
+	max-width: 850px;
+}
+#typingspeeds {
+	font-size: inherit;
+	display: none;
+}
+#test_reset {
+	font-size: inherit;
+}
+.footer {
+	font-size: inherit;
+}
+#breadcrumb {
+	font-size: inherit;
+}
+#content_table_block {
+	width: auto;
+	max-width: 850px;
+}
+#content_td_block {
+	max-width: 670px;
+	width: auto;
+}
+#menu_links {
+	width: auto;
+}
+#show_scores {
+	display: none;
+}
+}
+
 #test_exercise {
 font-size: larger;
 color: navy;
@@ -103,19 +167,6 @@ FONT-FAMILY: Tahoma,Verdana,helvetica,arial,san-serif;
 font-SIZE: 11px;
 text-decoration: none;
 FONT-weight: bold;
-}
-.footer {
-	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
-	font-size : 9px;
-}
-#breadcrumb {
-	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
-	font-size : 9px;
-}
-td.maincontent {
-	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
-	font-size : small;
-	color : Black;
 }
 body {
 	margin-top: 0px;
@@ -196,7 +247,7 @@ function reloadscores() {
 </td> 
 <td style="vertical-align: middle; text-align: left;">
 
-&nbsp;&nbsp;&nbsp;<span class="typingspeeds" id="typingspeeds">Activity of others taking the tests, live!</span>
+&nbsp;&nbsp;&nbsp;<span id="typingspeeds">Activity of others taking the tests, live!</span>
 
 </td>
 </tr>
@@ -204,7 +255,7 @@ function reloadscores() {
 <tr>
 <td style="text-align: left; vertical-align: top;" colspan="2">
 
-<table style="width: 680px; border-spacing: 0px;">
+<table id="menu_links">
 <tbody><tr><td style="height: 1px; background-color: #DA5568;"></td></tr>
 <tr><td style="height: 1px; background-color: #FF647A;"></td></tr>
 <tr>
@@ -242,8 +293,8 @@ function reloadscores() {
 
 </tbody></table>
 
-<table style="width: 850px;">
-<tbody><tr><td style="width: 670px; vertical-align: top;">
+<table id="content_table_block">
+<tbody><tr><td id="content_td_block">
 
 
 
@@ -277,8 +328,8 @@ function reloadscores() {
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
   })();
 </script>
-</td>
-<td style="vertical-align: middle; text-align: center;">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.learn2type.com%2F&amp;send=false&amp;layout=standard&amp;width=200&amp;show_faces=false&amp;font=verdana&amp;colorscheme=light&amp;action=like&amp;height=40&amp;appId=150195991750846&amp;ref=home" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:40px;" allowtransparency="true"></iframe>
 </td>
@@ -364,7 +415,6 @@ This site contains links to other sites. Learn2Type.com is not responsible for t
 </p><div align="right"><a href="http://www.learn2type.com/SiteMap">Site Map</a></div>
 
 
-
 </li></td>
 
 
@@ -434,7 +484,9 @@ var ACE_AR = {site: '690491', size: '468060'};
 <!-- end content container -->
 
 
-<!-- ajax to load score ticker -->
+
+	<span id="show_scores">
+	<!-- ajax to load score ticker -->
 <script>
 var scoreholder1 = '';
 var scoreholder2 = '';
@@ -443,6 +495,8 @@ var scorerefreshctr = 0;
 reloadscores();
 </script>
 
+
+	</span>
 
 
 
