@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoors.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628003026id_/http%3A//www.outdoors.org/about/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoors.org privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124021708id_/http%3A//www.outdoors.org/about/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Appalachian Mountain Club
 
@@ -86,3 +86,37 @@ We give users options wherever necessary and practical. Such choices include.
 By using this site, you consent to the collection and use of this information by the AMC. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
 **Questions:** Any questions on this privacy policy may be sent to: [webeditor@outdoors.org](mailto:webeditor@outdoors.org).
+
+**MEMBER AND DONOR POLICY**
+
+AMC may make members’ names and postal addresses available to other nonprofit organizations, outdoor retailers/catalogers, and/or outdoor publishers whose products, services, or activities may be of interest to you. These third parties are obligated to maintain the confidentiality of this information and are not authorized to use this information for any purpose other than offering you those products or services. If you would like to opt-out of having AMC share your name and postal address with third party organizations, please email [AMCInformation@outdoors.org](mailto:AMCinformation@outdoors.org) and use 'do not share' in the subject line of your email, or call Member Services at 1-800-372-1758.
+
+AMC does not share telephone numbers or email addresses with other organizations or companies for marketing purposes. 
+
+AMC may provide member or donor information to research organizations hired by and working on behalf of AMC for the purpose of member/donor research that will help support AMC and our mission. 
+
+**CONTACTING US**
+
+Effective management of our email list to honor the interests of our members and donors is an important aspect of email communications program. Whether you would like to be removed from a specific campaign or an enewsletter, all of our communications include an ‘Remove me from this mailing ' link at the very bottom of the email
+
+To be removed from all AMC emails, please email [AMCInformation@outdoors.org](mailto:AMCinformation@outdoors.org) with ‘unsubscribe’ in the subject line.
+
+To be removed from our direct mail or telemarketing lists, email us at [AMCInformation@outdoors.org](mailto:AMCinformation@outdoors.org) and tell us your preference.  Key options include:  
+
+
+  * 1 Renewal only in the mail
+  * No mail
+  * No telemarketing
+  * No AMC Outdoors magazine
+  * No membership renewals (email, mail, phone)
+
+
+
+If you want something else, please specify and we will find the best option to meet your needs. 
+
+If users have questions or concerns regarding this statement, they should contact us by email at [AMCInformation@outdoors.org](mailto:AMCinformation@outdoors.org), by calling Member Services at 1-800-372-1758, or by postal mail at: 5 Joy Street, Boston, MA 02108.
+
+ **Thank you for supporting AMC. It is greatly appreciated!**
+
+  
+
