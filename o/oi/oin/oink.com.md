@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the oink.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619052947id_/https%3A//www.oink.com/virtual-piggy-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oink.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124060341id_/http%3A//www.oink.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Oink
 
 ## Virtual Piggy Privacy Policy
 
-LAST UPDATED: February 2, 2015
+LAST UPDATED: AUGUST 18, 2015
 
-[**Click here for the PDF version**](https://web.archive.org/sites/default/files/Oink_Privacy_Policy_FEB15.pdf)
+[**Click here for  PDF version**](https://web.archive.org/sites/default/files/Oink_Privacy_Policy_AUG15.pdf)
 
 _**[Click here for Sutton Privacy Policy](https://web.archive.org/sites/default/files/SuttonPrivacyDisclosure072014.pdf)**_
 
@@ -214,7 +214,65 @@ The Service’s third-party ad network and exchange providers, the advertisers, 
 
 Third-party Tracking Technologies are not controlled by us, even if they use our technology to help store or collect data. Statements regarding our practices do not apply to the methods for collecting information used by these third-party advertisers and others or the use of the information that such third parties collect. We do however work with third parties to make efforts to have you provided with the information on their practices and any available opportunity to exercise choice. The relevant third party’s terms of service, privacy policy, permissions, notices and choices should be reviewed regarding their collection, storage and sharing practices. We make no representations regarding the policies or practices of third-party advertisers or advertising networks or exchanges or related third parties.
 
-However, some may offer you certain choices regarding their practices, and information we have been informed of regarding such choices is available here. Further, while we use a variety of companies to serve advertisements on the Service, you may wish to visit[ http://www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp), which provides information regarding this practice by Network Advertising Initiative (“ **NAI** ”) members, and your choices regarding having this information used by these companies, including the “opt-out” procedures of NAI members.  Opting out of one or more NAI members only means that those NAI members no longer may be allowed under their own rules to deliver targeted content and/or ads to you, which may affect this and other sites, but does not mean you will no longer receive any targeted content and/or ads.  Also, if your browsers are configured to reject cookies when you visit this opt-out page, or you subsequently erase your cookies, use a different Device or change web browsers, your NAI opt-out may not, or may no longer, be effective.  Additional information is available on the NAI’s web site accessible by the above link. 
+However, some may offer you certain choices regarding their practices, and information we have been informed of regarding such choices is available directly below in this Section 9. Further, while we use a variety of companies to serve advertisements on the Service, you may wish to visit[ http://www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp), which provides information regarding this practice by Network Advertising Initiative (“ **NAI** ”) members, and your choices regarding having this information used by these companies, including the “opt-out” procedures of NAI members.  Opting out of one or more NAI members only means that those NAI members no longer may be allowed under their own rules to deliver targeted content and/or ads to you, which may affect this and other sites, but does not mean you will no longer receive any targeted content and/or ads.  Also, if your browsers are configured to reject cookies when you visit this opt-out page, or you subsequently erase your cookies, use a different Device or change web browsers, your NAI opt-out may not, or may no longer, be effective.  Additional information is available on the NAI’s web site accessible by the above link. 
+
+The following third parties that collect information from you on the Service have given us notice that you may obtain information on their policies and practices, and in some instances opt-out of certain of their activities, as follows:
+
+Google/Doubleclick #1
+
+  * _**Service:**_ ** ** Google Analytics for Display Advertisers
+  * _**For More Information:**_  [Link](https://support.google.com/analytics/answer/2700409?hl=en&topic=2611283)
+  * _**Use of Tracking Technologies:**_ ** ** Yes
+  * _**Privacy Choices:**_ ** ** See information links above
+
+
+
+Google/Doubleclick #2
+
+  * _**Service:**_ ** ** Ads Preferences Manager
+  * _**For More Information:**_ ** **[ Link](https://www.google.com/settings/u/0/ads/authenticated?hl=en)
+  * _**Use of Tracking Technologies:**_ ** ** Yes
+  * _**Privacy Choices:**_ ** ** See information links above
+
+
+
+Google/Doubleclick #3
+
+  * _**Service:**_ ** ** Google Analytics Opt-out Browser Add-on
+  * _**For More Information:**_ ** **[ Link](https://tools.google.com/dlpage/gaoptout/)
+  * _**Use of Tracking Technologies:**_ ** ** Yes
+  * _**Privacy Choices:**_ ** ** See information links above
+
+
+
+Marketo
+
+  * _**Service:**_ ** ** Digital marketing platform to maintain campaigns and email
+  * _**For More Information:**_ ** **[ Link](http://www.marketo.com/trust/legal/privacy/)
+  * _**Use of Tracking Technologies:**_ ** ** Yes
+  * _**Privacy Choices:**_ ** ** See information links above
+
+
+
+Turn Inc.
+
+  * _**Service:**_ ** ** Digital marketing hub for campaign planning, activation and analysis
+  * _**For More Information:**_ ** **[ Link](https://www.turn.com/trust/privacy-guidelines)
+  * _**Use of Tracking Technologies:**_ ** ** Yes
+  * _**Privacy Choices:**_ ** ** See information links above
+
+
+
+Pingdom
+
+  * _**Service:**_ ** ** Tracks when the website is down/other failures
+  * _**For More Information:**_ ** **[ Link](https://www.pingdom.com/legal/privacy-policy)
+  * _**Use of Tracking Technologies:**_ ** ** Yes
+  * _**Privacy Choices:**_ ** ** See information links above
+
+
+
+PLEASE NOTE: We are not responsible for third-party policies or practices. We try to keep this information current, and may add to and subtract from the chart above as appropriate, but it is provided as a courtesy and may not be current or accurate. Please contact the applicable third parties regarding their privacy and data security policies and practices.
 
 Back to Top
 
@@ -275,56 +333,8 @@ Attention:  Privacy Certified Program
 New York, NY 10170  
 [privacy@esrb.org](mailto:privacy@esrb.org)
 
-Back to Top
-
 © Copyright 2013 Virtual Piggy, Inc. All rights reserved.
 
  ///End of Policy///
-
-The following third parties that collect information from you on the Service have given us notice that you may obtain information on their policies and practices, and in some instances opt-out of certain of their activities, as follows:
-
-**Party**
-
-| 
-
-**Service**
-
-| 
-
-**For More Information**
-
-| 
-
-**Use of Tracking Technologies**
-
-| 
-
-**Privacy Choices**  
-  
----|---|---|---|---  
-  
-Google/Doubleclick
-
-| 
-
-Google Analytics for Display Advertisers, Ads Preferences Manager, and Google Analytics Opt-out Browser Add-on
-
-| 
-
-[http://support.google.com/analytics/bin/answer.py?hl=en&topic=2611283&answer=2700409](http://support.google.com/analytics/bin/answer.py?hl=en&topic=2611283&answer=2700409)
-
-[http://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCg8VN3Fad5_pDOsAS8a4...](http://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCg8VN3Fad5_pDOsAS8a4)
-
-<https://tools.google.com/dlpage/gaoptout/>
-
-| 
-
-Yes
-
-| 
-
-See information links in prior column  
-  
-PLEASE NOTE: We are not responsible for third-party policies or practices. We try to keep this information current, and may add to and subtract from the chart above as appropriate, but it is provided as a courtesy and may not be current or accurate. Please contact the applicable third parties regarding their privacy and data security policies and practices.
 
 Back to Top
