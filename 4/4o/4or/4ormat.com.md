@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 4ormat.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145728id_/http%3A//format.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4ormat.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124085303id_/http%3A//format.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Format
 
-**Last Updated on 15.February.2011**
+**Last Updated on 6.October.2015**
 
-This is the Privacy Policy of the Format website (together with our affiliates and subsidiaries, “Ideaform Inc.”, “we”, “us”, “our” and terms of similar meaning) and our related products and services (the “Site”). It describes the information that we collect from users of our Site (“Users”) as part of the normal operation of our Site, and how we use and disclose this information
+This is the Privacy Policy of the Format website (together with our affiliates and subsidiaries, “Ideaform Inc.”, “we”, “us”, “our” and terms of similar meaning) and our related products and services (the “Site”). It describes the information that we collect from users of our Site (“Users”) as part of the normal operation of our Site, and how we use and disclose this information.
 
 By accepting the Privacy Policy in registration or by visiting and using the Site, you expressly consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to our [Terms of Use](https://web.archive.org/terms_of_service)
 
@@ -27,6 +27,8 @@ You always have the option to not provide information by choosing not to become 
 We also automatically track certain information about you based upon your behaviour on our Site. We use this information to do internal research on our users' demographics, interests, and behaviour to better understand, protect and serve you and our community. This information may include the URL that you just came from (whether this URL is on our Site or not), which URL you next go to (whether this URL is on our Site or not), your computer browser information, your IP address and your location. 
 
 “Cookies” are small files placed on your hard drive that assist us in providing our services. We use cookies to allow you to enter your password less frequently during a session, and we use data collection devices (such as Google Analytics), including cookies, on certain pages of the Site to help analyze our web page flow, measure promotional effectiveness, and promote trust and safety, to offer certain features that are only available through the use of a cookie and to allow us to provide information that is targeted to your interests. 
+
+We also use Twitter’s Conversion Tracking and Tailored Audiences product and Google’s Universal Analytics product - by using the Site you are permitting Twitter and Google to collect non-identifying data for analytics purposes. We use this data to improve upon our services and audience; this anonymous data is only used to understand our user base and to assess features and potential advertising content to enhance the Site experience. At no point in time is your personal information tied to this analytics data by Twitter or Google. More information about how you can opt out of these programs, including through the Do Not Track functionality in your web browser, is available for [Twitter](https://support.twitter.com/articles/20170405) and [Google](https://support.google.com/analytics/answer/2838718). 
 
 We do not collect or save your credit card information when you use your credit card to subscribe to our Site. When you subscribe to our Site, the payment processor that we use handles all credit card information. 
 
