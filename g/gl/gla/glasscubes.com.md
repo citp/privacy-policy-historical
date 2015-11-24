@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the glasscubes.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622190344id_/http%3A//www.glasscubes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glasscubes.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124160635id_/https%3A//www.glasscubes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Glasscubes Privacy Policy - Committed to protecting your data.
 
 Glasscubes Limited (" **we** ", “ **us** ”) are committed to protecting and respecting your privacy and personal data.
 
