@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenriver.edu privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610084028id_/http%3A//www.greenriver.edu/about-us/website/privacy-notice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenriver.edu privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124022816id_/http%3A//www.greenriver.edu/about-us/website/privacy-notice.htm) for the most accurate reproduction.*
 
 # Privacy Notice - Website - Green River College
 
