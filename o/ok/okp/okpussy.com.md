@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the okpussy.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516223632id_/http%3A//www.okpussy.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okpussy.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124210344id_/http%3A//www.okpussy.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy at OK Pussy - Porn Tube
-
-**Privacy Policy**
+# Privacy Policy on OK Pussy - Porn Tube
 
 Pursuant to our Terms of Use, this document describes how we treat personal information related to your use of okpussy.com (the “Website”), including information you provide when using it.
 
