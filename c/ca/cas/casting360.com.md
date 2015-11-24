@@ -1,50 +1,95 @@
-> *The following text is extracted and transformed from the casting360.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615013140id_/http%3A//casting360.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casting360.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124231954id_/http%3A//casting360.com/privacy-policy) for the most accurate reproduction.*
 
 # Open casting calls, modeling, singing, acting, dancing auditions on Casting360
 
-This privacy policy ("Privacy Policy") outlines the privacy practices associated with the Site. You agree to this Privacy Policy, in its entirety, when you: (a) access or use the Site; (b) agree to receive e-mail from us via the Site, or any other means; and/or (c) register on the Site to receive information from third party service providers ("Third Party Providers"). Personally Identifiable Information Collected. We facilitate the collection of your personally identifiable information on behalf and for the benefit of a third party when you sign up to receive products and/or services at the Site. We will not facilitate the collection of your personally identifiable information if you do not complete the applicable registration process in full. We will store your personal information if you choose sign up to use our blog on the site. The types of personally identifiable information that we collect at the Site may include, without limitation, your: (a) name; (b) e-mail address; c) date of birth; d) gender; and (e) any and all other information requested on the applicable registration form. Should you need to update/remove any of the personally identifiable information that you have submitted through the Site, you will need to contact the applicable Third Party Provider directly or to remove your e-mail address from our database, please contact us at [privacy@casting360.com](mailto:privacy@casting360.com).
+Last Updated: August 24, 2015
 
-We will use your email to send you information about products and services we feel will be of interest to you. If you no longer wish to receive our promotional e-mails, please follow the unsubscribe instructions included in each promotional e-mail. In addition, if you opt to receive special offers from our trusted third party companies, we will share your e-mail address with them for this purpose. To change your sharing preferences, please contact us at [privacy@casting360.com](mailto:privacy@casting360.com). To unsubscribe from these third party e-mails, please contact the applicable third party company directly.
+Casting360.com respects the privacy of its users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy describes the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy.
 
-Use of Personally Identifiable Information By submitting your personal information on the Site, you agree that we may share and forward such personal information with Third Party Providers in order to complete your request for specific products and/or services that you applied for at the Site ("Featured Products") from such Third Party Providers, and that they may use such personal information for any lawful purposes, subject to any restrictions contained herein. Any information that you supply through the Site to any Third Party Providers shall be governed by the applicable Third Party Providers' privacy policy. Please be advised that Casting360.com is facilitating the process of gathering information and any information that you provide on the Site is forwarded to the applicable Third Party Provider.. The ultimate terms and conditions of any Featured Products provided by any Third Party Providers will be determined by those Third Party Providers. We do collect personal information such as name and email address in order to post to our blog. If you wish to change or update this personal information please email the site at [privacy@casting360.com](mailto:privacy@casting360.com).
+If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
 
-### Legal Disclaimer
+Information we collect about you
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
+In General. We may collect information that can identify you such as your name and email address ("personal information") and other information that does not identify you. When you provide personal information through our website, the information may be sent to servers located in the United States and other countries around the world.
 
-We may collect certain non-personally identifiable information about you when you visit many of the pages of the Site. This non-personally identifiable information includes, without limitation, the type of browser that you use (e.g., Internet Explorer, Mozilla Firefox, Google Chrome), your IP address, the type of operating system that you use (e.g., Windows or Mac OS) and the domain name of your Internet service provider. We use the non-personally identifiable information that we collect to improve the design and content of the Site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze Site usage, as well as to offer you products and services. We also reserve the right to use aggregate or group data about our visitors for any and all lawful purposes. Aggregate or group data is data that describes the demographics, usage and/or characteristics of our visitors as a group. By visiting and/or supplying your personal information at the Site, you agree to allow us to provide such aggregate data to third parties.
+  * **Information you provide.** We may collect and store any personal information you enter on our website or provide to us in some other manner. This includes identifying information, such as your name, address, email address, and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). We also request information about interests and activities, gender and age, and other demographic information such as hometown or username.
+  * **Information about others.** We may collect and store personal information about other people that you provide to us, such as their name, address and email address. If you use our website to send others (friends, relatives, colleagues, etc.) a product as a gift, we may store your personal information, and the personal information of each such recipient in order to process those requests or facilitate future activities.
 
-### Blogs, Forums, Messages, Photos
 
-If you use our blog on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-### Security
+Use of cookies and other technologies to collect information. We use various technologies to collect information from your computer and about your activities on our site. 
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+  * **Information collected automatically.** We automatically collect information from your browser when you visit our website. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address. 
+  * **Cookies and Use of Cookie Data.** When you visit our website, we may assign your computer one or more cookies, to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the time and date of your visits, the links you click, and the searches you conduct on our site. During your visits to other websites where we advertise, we (or third parties) may use certain data collected on our site to show you the type of Casting360.com advertisements likely to be of greater interest to you. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our website. 
+  * **Other Technologies.** We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our site. We also may include web beacons in advertisements or email messages to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities. 
+  * **Information collected by third parties.** We may allow third parties, including our authorized service providers, advertising companies and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. 
 
-### Cookies
 
-When an end-user visits the Site, we send a cookie and/or gif file ("Cookie") to assign an anonymous, unique identifier to the applicable end-user's Internet browser. A Cookie is a piece of data stored on your hard drive containing non-personally identifiable information about you. Cookies have many benefits to enhance your experience at the Site. To disable and reject certain Cookies, follow the instructions associated with your Internet browser. Even in the case where a user rejects a Cookie, he or she may still use this Site. Casting360.com reserves the right to retain Cookie data indefinitely.
 
-We use a third-party tracking service that uses cookies and web beacons to track non-personally identifiable information about visitors and site visitation to our site in the aggregate.
+How we use the information we collect
 
-### Third-Party Offers
+In General. We may use information that we collect about you to:
 
-Casting360.com provides its users with the opportunity to receive special offers, products and/or services from third parties. Where you indicate the desire to receive certain offers, products or services from a third party during the applicable information collection process, your personally identifiable information that was provided during that Casting360.com information collection process will be shared with the applicable third party so that such third party may provide their product or service to you and so that you do not have to complete another information collection form to purchase or receive that product or service. Casting360.com does not store any personally identifiable information that you submit in order to receive such offers from third parties.
+  * deliver the products and services that you have requested;
+  * manage your account and provide you with customer support;
+  * perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others;
+  * communicate with you by email, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, or other third parties;
+  * develop and display content and advertising tailored to your interests on our site and other sites;
+  * verify your eligibility and deliver prizes in connection with contests and sweepstakes;
+  * enforce or exercise any rights in our terms and conditions;
+  * manage our business;
+  * provide Casting360.com advertisements to you when you visit other sites;
+  * perform functions as otherwise described to you at the time of collection; and
 
-### Opt-Out / Unsubscribe
 
-When you submit personally identifiable information through the Site, you have opted-in to receive information and marketing communications from the Third Party Provider. When contacted by any of these companies or third parties, you should notify them directly of your choices regarding the use of your information. To opt-out of having future third party marketing communications sent to you, you will be required to unsubscribe with the applicable third parties.
 
-### Minors
+Financial information. We may use financial information or payment method to process payment for any purchases made on our website, enroll you in the discount, rebate, and other programs in which you elect to participate, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business. 
 
-We do not knowingly collect information from minors under eighteen (18) years of age. No information should be submitted through the Site by individuals under eighteen (18) years of age. We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children.
+With whom we share your information
 
-Casting360.com reserves the right to modify these practices in part or in whole without notifying you. You agree that it is your responsibility to periodically review this privacy policy to familiarize yourself with any modifications. Any changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
+Personal information. We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with: 
 
-Casting360.com reserves the right to modify these practices in part or in whole without notifying you. You agree that it is your responsibility to periodically review this privacy policy to familiarize yourself with any modifications. Any changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
+  * **Service providers:** We may share your personal information, which may include your name and contact information (including email address) with third parties that perform certain services on our behalf. These services may include fulfilling orders, providing customer service and marketing assistance, performing business and sales analysis, member screenings, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our website. We may also share your name, contact information and credit card information with our authorized service providers who process credit card payments. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
+  * **Business partners:** When you register or make purchases on our website or click-through our advertisements offered on third party websites, we may share personal information with the businesses with which we partner to offer you the applicable products, services or any advertisements. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other information to that merchant. 
+  * **Other Situations.** We also may disclose your information, including personal information:
 
-Casting360.com rated  5 out of 5 based on 2243 ratings. 
+    * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.
+    * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreements or policies.
+    * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
 
-Disclaimer: Casting360 is not a talent agency, employer or a talent scout; the site is only a venue. Casting360 does not promise or facilitate employment. The number of casting calls available varies by location, roles available and the level of experience required. As with any business, results may vary, and will be based on individual capacity, experience, expertise, and level of desire. There are no guarantees concerning the level of income the user may experience.   
-Copyright © 2015. All Rights Reserved. 
+
+
+Aggregated and/or non-personal information. We may share non-personal information we collect under any of the above circumstances. We may also share it with third parties to develop and deliver targeted advertising on our website and on websites of third parties, and to analyze and report on advertising you see. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated, non-personal information, or personal information in hashed, non-human readable form, with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis or other business purposes. 
+
+Your choices about collection and use of your information
+
+  * You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our website because such information may be required in order for you to register as a member; purchase products or services; participate in a contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions on our website.
+  * At any time you can choose to no longer receive commercial or promotional emails from us by visiting the "Settings" page associated with your account. When you register on our website, you will consent, or be given a choice as to whether you want, to receive email messages from us about special offers. You may modify this consent later by visiting the "Account Settings" page associated with your account. You also will be given the opportunity, in any commercial email that we send to you, to opt out of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship email communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that changing information in your account, or otherwise opting out of receipt of promotional email communications will only affect future activities or communications from us. If we have already provided your information to a third party (such as a service provider) before you have changed your preferences or updated your information, you may have to change you preferences directly with that third party.
+  * You may tell us not to share your personal information with third parties for direct marketing purposes by visiting the "Settings" page associated with your account after you have registered. 
+  * You can also control information collected by cookies.
+
+
+
+How we protect your personal information
+
+We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. We want you to feel confident using our website to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. 
+
+Information you provide about yourself while using our service 
+
+We provide areas on our websites where you can post information about yourself and others and communicate with others or upload content such as photographs. Such postings are governed by our Terms of Use. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. 
+
+Children's privacy
+
+Although our website is a general audience site, we restrict the use of our service to individuals age 18 and above. We do not knowingly collect personal information from children under the age of 18. No information should be submitted through the Site by individuals under eighteen 18 years of age. We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children.
+
+No Rights of Third Parties
+
+This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the website. 
+
+Changes to this Privacy Policy
+
+We will occasionally update this Privacy Policy. When we post changes to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. We recommend that you check our website from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies. 
+
+How to contact us
+
+If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by email or postal mail as follows: 
