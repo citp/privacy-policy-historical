@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the isell.com.au privacy policy that was archived on 2015-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150228204543id_/http%3A//www.isell.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isell.com.au privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124015525id_/http%3A//www.isell.com.au/privacy-policy) for the most accurate reproduction.*
 
-# iSell | Business Systems for IT Resellers
+# Privacy Policy - Quoting Software | Proposal Software
 
 * * *
 
 **By using website, you agree to the terms of this Online Privacy Statement, as outlined below. If you do not agree to these terms, please do not use this site.**
 
-Please note that the terms "we" and "our" refers to iSell and the terms "you" and "yours" refers to users of this website. If you have any further questions relating to this online privacy statement, please do not hesitate to contact us.
+Please note that the terms “we” and “our” refers to iSell and the terms “you” and “yours” refers to users of this website. If you have any further questions relating to this online privacy statement, please do not hesitate to contact us.
 
-This privacy policy may be revised periodically. When we make a significant change that affects our collection and use of your personal information or our security practices, we will notify our users via the "news" page on this website. We recommend that you read our privacy policy whenever you visit our site in case you missed our notice or have not registered for a service or feature of our site previously.
+This privacy policy may be revised periodically. When we make a significant change that affects our collection and use of your personal information or our security practices, we will notify our users via the “news” page on this website. We recommend that you read our privacy policy whenever you visit our site in case you missed our notice or have not registered for a service or feature of our site previously.
 
 ## Collection of Information
 
 * * *
 
-When you visit and navigate our website, we will not collect personal information about you unless you provide us that information voluntarily. By "personal information", we refer to data that is unique to an individual, such as name, address, e-mail address or contact number. However, for each visitor to our website, our web server collects the following type of information for statistical purposes:
+When you visit and navigate our website, we will not collect personal information about you unless you provide us that information voluntarily. By “personal information”, we refer to data that is unique to an individual, such as name, address, e-mail address or contact number. However, for each visitor to our website, our web server collects the following type of information for statistical purposes:
 
-\- The number of users who visit the website  
-\- The date and time and length of your visits  
-\- The number of pages viewed  
-\- Address of the last site visited, if linked to our website from another website  
-\- Internet Protocol number assigned to your computer for Internet access  
-\- Operating system used (e.g. Windows 8, IOS, Android, etc.)  
-\- Browser used (e.g. Internet Explorer, Firefox, Chrome, Safari, etc.) 
+– The number of users who visit the website  
+– The date and time and length of your visits  
+– The number of pages viewed  
+– Address of the last site visited, if linked to our website from another website  
+– Internet Protocol number assigned to your computer for Internet access  
+– Operating system used (e.g. Windows 8, IOS, Android, etc.)  
+– Browser used (e.g. Internet Explorer, Firefox, Chrome, Safari, etc.)
 
 The statistical data collected is anonymous and no attempt will be made to identify users or their browsing activities. We will use this data to evaluate our website performance and to improve the content and service that we deliver to you.
 
@@ -32,13 +32,13 @@ The statistical data collected is anonymous and no attempt will be made to ident
 
 Users should be aware that when you are on iSell site, you could be directed to other sites that are beyond our control. This is done through links to other sites from within our webpages that will take you outside of our service. These other sites may send their own cookies (see below for explanation) to users, collect data or solicit personal information.
 
-Please keep in mind that whenever you give out personal information online - for example, submitting forms and sending emails - that information can be collected and used by people you don't know. While iSell strives to protect its user's personal information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk.
+Please keep in mind that whenever you give out personal information online – for example, submitting forms and sending emails – that information can be collected and used by people you don’t know. While iSell strives to protect its user’s personal information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk.
 
 ## Cookies
 
 * * *
 
-In order to provide you with a range of website features, online products and services, this website uses cookies. Cookies are pieces of information that a website transfers to an individual's hard drive for record-keeping purposes. Cookies make web surfing easier for you by saving your preferences while you are at our sites thus allowing easier and faster access when you return to the site at another time. Please note that we never save passwords or credit card information in cookies. The use of cookies is an industry standard and you will find them at most major websites.
+In order to provide you with a range of website features, online products and services, this website uses cookies. Cookies are pieces of information that a website transfers to an individual’s hard drive for record-keeping purposes. Cookies make web surfing easier for you by saving your preferences while you are at our sites thus allowing easier and faster access when you return to the site at another time. Please note that we never save passwords or credit card information in cookies. The use of cookies is an industry standard and you will find them at most major websites.
 
 Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, note that some parts of iSell website will not function properly, or may be considerably slower if you refuse cookies.
 
@@ -52,7 +52,7 @@ An Internet Protocol (IP) address is a number that is automatically assigned to 
 
 * * *
 
-The type of information that we collect from you will depend on what activities and services you use on the site. Specific details on each activity and service are detailed within those sub-page(s) and supersede this general statement. When you provide us with personal details ie when applying for a volunteer "group" or "event", we will request personal information such as your name and address, your e-mail address or a contact phone number.
+The type of information that we collect from you will depend on what activities and services you use on the site. Specific details on each activity and service are detailed within those sub-page(s) and supersede this general statement. When you provide us with personal details ie when applying for a volunteer “group” or “event”, we will request personal information such as your name and address, your e-mail address or a contact phone number.
 
 This information is fundamental in order for you to utilise our service, and so that we may contact you when necessary on issues relating directly to the service or activity. This practice is consistent with our service policies.
 
