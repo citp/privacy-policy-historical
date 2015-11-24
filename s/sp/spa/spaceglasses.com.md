@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spaceglasses.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014205536id_/https%3A//www.spaceglasses.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spaceglasses.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124033602id_/https%3A//www.getameta.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Meta Privacy Policy: Meta Company
 
