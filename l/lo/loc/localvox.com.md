@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localvox.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423200357id_/http%3A//localvox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localvox.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124082142id_/http%3A//localvox.com/privacy-policy) for the most accurate reproduction.*
 
 # LocalVox - Privacy Policy
 
@@ -82,9 +82,9 @@ LocalVox welcomes your questions or comments regarding this Statement of Privacy
 
 LocalVox Media Inc.
 
-420 Lexington Avenue, 29th Floor, Suite 2903
+462 Seventh Avenue, 10th Floor
 
-New York, New York 10170
+New York, New York 10018
 
 Email Address: gethelp@localvox.com
 
