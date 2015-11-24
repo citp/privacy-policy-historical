@@ -1,91 +1,114 @@
-> *The following text is extracted and transformed from the travelpost.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629113036id_/http%3A//www.dealbase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelpost.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124063246id_/http%3A//travelpost.com/privacy) for the most accurate reproduction.*
 
-# DealBase.com Privacy Policy | Dealbase
+# goSeek.com | Hotel Discounts, Deals, and Special Offers
 
-### Last updated: August 4, 2010
+Privacy Policy 
 
-We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting dealbase.com, you are accepting the practices described in this Privacy Policy.**
+Introduction 
 
-  
+Thank you for using the goSeek website and other applications (the “Service”), which are provided by DealBase Corporation. The terms “we”, “us”, “our”, “goSeek”, and “DealBase” refer to DealBase Corporation, a Delaware Corporation and/or our subsidiaries. The term “you” refers to the customer using our Service. 
 
+Now on to the Privacy Policy! At goSeek, we want to help you find the very best value when you purchase travel online. In order to do so, we need to ensure that you feel comfortable using our Service. Our Privacy Policy is here to help in that regard. It will address questions that you might have related to what information we collect, how we collect it, and how we use it. It also provides instructions on how to remove your information from our Service should you so choose, or how to update it. We want this Privacy Policy to be clear and useful. Please send us feedback here [contactus@goseek.com](mailto:contactus@goseek.com) if you feel that it is not in any way. By using our Service, you are indicating to us that you agree to this Privacy Policy and our [Terms of Use.](https://web.archive.org/terms)
 
-### What Personal Information About Customers Does Dealbase.com Gather?
+What information we collect 
 
-We collect personally identifiable information (“Personal Information”) on Dealbase.com. Personal Information is any data that may be used to identify you personally and includes email address, telephone number and postal address.
+Information you provide 
 
-The information we learn from customers helps us personalize and continually improve your shopping experience at dealbase.com. Here are the types of information we gather.
+If you use our Service to search travel, we receive and store any information you enter on our website or provide to us in any other way. This might include information about you (“personal information”) including your name, email address, and zip code. We will also store a username and password, should you choose to create an account directly with us at any time. We also receive and store information related to your travel searches on our site, including your destination, dates, and other attributes such as number of rooms and number of occupants. 
 
-**Information You Give Us:** we receive and store any Personal Information you enter on our website or give us in any other way. You can choose not to provide certain Personal Information, but then you might not be able to take advantage of many of our features. We use Personal Information for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you. 
+Third party login information 
 
-**Non-Personally Identifiable Information:** We receive and store certain types of non-personally identifiable information whenever you interact with us at Dealbase.com. For example, like many websites, we use “cookies,” (described below) and we obtain certain types of non-personally identifiable information when your web browser accesses dealbase.com. A number of companies offer utilities designed to help you visit websites anonymously. Although we will not be able to provide you with a personalized experience at dealbase.com if we cannot recognize you, we want you to be aware that these tools exist. 
+Currently, goSeek allows users with accounts on third party services such as Facebook and Google to register and log into our Service using functionality that those third party services provide. By using this functionality to log into our Service, you permit us to retrieve, store, and use specific identifying information related to your accounts with these third party services. This information includes items such as your first name, last name, email address, and your location (if you have provided it to them). 
 
-**E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from dealbase.com if your computer supports such capabilities. We also may compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your customer communication preferences on our website. 
+“Automatically collected” information 
 
-**Information from Other Sources:** We might receive information about you from other sources and add it to our account information. 
+We automatically collect some information about your device when you visit goSeek. For example, we will collect your IP address and information related to your operating system and web browsing software (such as Microsoft Internet Explorer, Google Chrome, Apple Safari, or Mozilla Firefox, as well as version numbers). We may also collect information about your online activity, such as pages viewed, time on site, and number of clicks. Our goal in collecting this information is to help improve and customize your experience with our Service. 
 
-  
+Cookies and other similar web technologies 
 
+We use several common web tracking tools to help identify you and collect usage information as you use our Service over time and across different platforms. We also work with third parties that collect and use information this way. The tools we use include “cookies” (a small piece of data that a web server places in a file on your computer) and “web beacons” (single pixel GIF images that are placed in the code of a web page or in an email newsletter). If you are concerned about our use of these technologies, most web browsers provide users the ability to limit the use of cookies and web beacons by adjusting their privacy settings. 
 
-### What About Cookies?
+How we use that information 
 
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your web browser to enable our systems to recognize your browser and to provide certain features.
+In general 
 
-The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of dealbase.com’s coolest features, and we recommend that you leave them turned on.
+We use the information that you provide to better tailor our experience to you and your needs, so that our Service becomes inherently more useful over time. 
 
-**Third Party Cookies: We use third-party companies to serve ads and collect information when your visit dealbase.com. These companies may use information (not including Personal Information such as your name, address, email address or telephone number) about your visits to dealbase.com in order to provide advertisements on dealbase.com, other websites and other forms of media about goods and services that may be of interest to you. These companies may employ their own cookies in addition to ours. If you would like more information about this practice and to know your choices about not having this information used by these companies, please[click here.](http://www.networkadvertising.org/consumer/opt_out.asp) **
+Email address 
 
-**If you would like to see what information one of these companies has collected about your Internet usage, please[click here.](http://www.bluekai.com/registryoverview.html) **
+We will use your email address to give you updates on how our Service is evolving, as well as to provide you with promotional materials and offers, should you give us permission. It is our goal to have promotions be useful and relevant to you, and we want them to become increasingly so over time. 
 
-  
+Cookies and other similar web technologies 
 
+We use web tracking tools such as cookies and web beacons for the following purposes 
 
-### Does Dealbase.com Share the Information It Receives?
-
-Information about our customers is an important part of our business, and we are not in the business of selling the Personal Information of our customers to others. We share Personal Information only as described below and with subsidiaries DealBase controls that either are subject to this Privacy Policy or follow practices at least as protective as those described in this Privacy Policy.
-
-**Affiliated Businesses We Do Not Control:** We work closely with our affiliated businesses. In some cases these businesses operate stores at dealbase.com or sell offerings to you at dealbase.com. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. You can tell when a third party is involved in your transactions, and we share customer’s Personal Information related to those transactions with that third party. 
-
-**Agents:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. We share customer’s Personal Information with these agents as we deem necessary for them to perform their functions. 
-
-**Promotional Offers:** We may enter into alliances, partnerships or other business arrangements with third parties for the purpose of providing you information regarding products and services that we think may be of interest to you. In addition, we may also use the Personal Information we collect to notify you about important changes to our web site, new services and special offers we think you will find valuable. If you do not want to receive such offers, please adjust your customer communication preferences on our website. 
-
-**Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy (unless, of course, the customer consents otherwise). Also, in the event that DealBase, or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
-
-**Protection of DealBase and Others:** We release account and other Personal Information when we believe release is appropriate to comply with the law; enforce or apply our Terms of Use Agreement and other agreements; or protect the rights, property, or safety of DealBase, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing Personal Information from customers for commercial purposes in violation of the commitments set forth in this Privacy Policy. 
-
-**With Your Consent:** Other than as set out above, you will receive notice when Personal Information about you might go to third parties, and you will have an opportunity to choose not to share that Personal Information. 
-
-  
+  1. To distinguish new versus returning users to our Service 
+  2. To help remember specific information about you from a prior visit to our Service so that we can better customize our site to meet your needs 
+  3. To work with online advertising companies to display targeted advertising on our Service and other third party services that you might visit. This targeting may be based on information you provide to us or your browsing behavior while using our Service. It may also be based on your browsing behavior on other services. We may also obtain browsing history and other demographic information about you from our partners in order to better target advertising displayed while you are using our Service. When we show you advertising on goSeek, it is our hope that it will be useful and relevant. Our use of cookies and web beacons is only to help support that goal. If you are uncomfortable with targeted advertising, there are mechanisms to opt out of it. For more information, please visit <http://www.networkadvertising.org/choices/>
 
 
-### Which Information Can I Access?
 
-As described above, we use third-party companies to serve ads and collect non-personally identifiable information when your visit dealbase.com. If you would like to see what information one of these companies has collected about your Internet usage, please [click here](http://www.bluekai.com/registryoverview.html)
+How we share information with others 
 
-  
+We may freely share personally identifiable information among companies that are subsidiaries or affiliates of the DealBase Corporation. 
+
+We may provide personally identifiable information to third parties who help us perform critical internal business functions, as permitted by law. These third parties perform services on our behalf and have agreed in writing to protect and not further disclose your information. As an example, we work with a third party to send all of our emails, and as part of that process provide them with your email address, location, and the content of the email to be sent. 
+
+We may provide aggregated, non-personally identifiable information to third parties for various purposes. As an example, we work with a third party to help us analyze user behavior on our web site, and as part of that process we provide them with your browsing behavior while using our Service. 
+
+We may share your information as otherwise described to you at the time of collection. As an example, if you provide us information in order to enter a sweepstakes that we sponsor with a partner, we may share your information with that partner. 
+
+We may also disclose personal information if we are required to do so by law or in the good faith belief that disclosure is necessary to (1) satisfy legal obligations or comply with a legal process that involves goSeek (2) protect goSeek from fraudulent, abusive, predatory, or unlawful uses of our Service (3) investigate and defend goSeek from any legal claims or threats (4) protect the rights and property of goSeek or (5) act in urgent circumstances to protect the personal safety of the public. 
+
+In each of the cases above, information may be securely transmitted to and stored by a third party on servers that they own and operate. 
+
+If there is a change in ownership of goSeek, including through a merger with, acquisition by, or sale of assets to any other entity, we may sell or otherwise transfer all the information that you have provided to us, including personally identifiable information, to that entity. 
+
+How you can access and update your information 
+
+You can manage your account settings in the “My Account” section on goSeek. If you have used a third party such as Facebook or Google to log into goSeek, you will need to go to the account settings section of those websites to view your information. 
+
+Choices you have regarding your information 
+
+  1. You can delete your goSeek account at any time with a single click from the “My Account” section of our website 
+  2. You can unsubscribe from one or more email newsletters via the “My Account” section of our website, or by clicking the unsubscribe link at the bottom of the email 
+  3. You can write us at the following address to request that we delete your account or unsubscribe you from promotional emails. 
+
+goSeek, a service of Dealbase Corporation   
+2831 St. Rose Parkway, Suite 200   
+Henderson, NV 89052 
 
 
-### Children
-
-dealbase.com does not sell products for purchase by children. If you are under 18, you may use dealbase.com only with the involvement of a parent or guardian.
-
-  
 
 
-### Safe Harbor
+External links and other websites 
 
-dealbase.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the United States and the European Union. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce’s Safe Harbor website. If you would like to contact dealbase.com directly about the Safe Harbor program, please send an e-mail to safeharbor@ dealbase.com.
+We are not responsible for the privacy practices or the content of other websites that may be linked to our Service, or of any third party advertisers. When leave the goSeek Service, our privacy policy no longer applies. 
 
-  
+Children’s privacy 
 
+Our age restrictions for our Service are set forth in our Terms of Use. We do not target any portion of our Service to children under the age of 13. In compliance with the Children's Online Privacy Protection Act, any information we may receive from users we believe to be under the age of 13 will be purged from our database. 
 
-### Conditions of Use, Notices, and Revisions
+Visiting our website from outside the United States 
 
-If you choose to visit dealbase.com, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms of Use Agreement, including limitations on damages, arbitration of disputes, and application of the law of the State of California. If you have any concern about privacy at dealbase.com, please contact us with a thorough description, and we will try to resolve it.
+If you are visiting our website from outside the United States, please be aware that your information may be transferred to and stored on servers residing in the United States, where we operate. The data protection and privacy laws of the United States may not be as comprehensive as those in your country, but do know that we do take steps pursuant to the laws of the United States to ensure that your privacy is protected. 
 
-Our business changes constantly, and our Privacy Policy and the Terms of Use Agreement will change also.
+Your California privacy rights 
 
-You should check our website to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
+California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us at the address provided below in the “How you can contact us” section. 
 
-  
+How you can contact us 
 
+If you have questions about this Privacy Policy, you can contact us via email at contactus@goseek.com or via mail at: 
+
+goSeek, a service of Dealbase Corporation   
+2831 St. Rose Parkway, Suite 200   
+Henderson, NV 89052 
+
+Changes to this policy 
+
+We may make changes to this Privacy Policy at any time in the future. If and when we do so, we will update the effective date below. Any revisions will take effect upon posting. If there are material changes to this policy, we will notify you via the email address that you provided to us and/or by placing a notice on our website. We encourage you to check this Privacy Policy from time to time to review the most current version. 
+
+Effective date 
+
+November 23, 2015 
