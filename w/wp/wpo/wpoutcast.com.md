@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpoutcast.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315010521id_/http%3A//wpoutcast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpoutcast.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124023022id_/http%3A//wpoutcast.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - WP Outcast
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -16,7 +16,7 @@ We collect information from you when you register on our site, subscribe to a ne
 
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-â€¢ To send periodic emails regarding your order or other products and services.
+• To send periodic emails regarding your order or other products and services.
 
 **How do we protect visitor information?**
 
@@ -26,7 +26,7 @@ Our website is scanned on a regular basis for security holes and known vulnerabi
 
 **We do not use an SSL certificate**
 
-â€¢ We only provide articles and information, we never ask for personal or private information like email addresses, or credit card numbers.
+• We only provide articles and information, we never ask for personal or private information like email addresses, or credit card numbers.
 
 **Do we use ‘cookies’?**
 
@@ -34,7 +34,7 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 **We use cookies to:**
 
-â€¢ Keep track of advertisements.
+• Keep track of advertisements.
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
 
@@ -62,7 +62,7 @@ Google, as a third-party vendor, uses cookies to serve ads on our site. Google�
 
 **We have implemented the following:**
 
-â€¢ Demographics and Interests Reporting
+• Demographics and Interests Reporting
 
 We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website. 
 
@@ -84,11 +84,11 @@ Our Privacy Policy link includes the word ‘Privacy’, and can be easily be fo
 
 **Users will be notified of any privacy policy changes:**
 
-â€¢ On our Privacy Policy Page
+• On our Privacy Policy Page
 
 **Users are able to change their personal information:**
 
-â€¢ By logging in to their account
+• By logging in to their account
 
 **How does our site handle do not track signals?**
 
@@ -112,10 +112,10 @@ In order to be in line with Fair Information Practices we will take the followin
 
 We will notify the users via email
 
-â€¢ Within 7 business days
+• Within 7 business days
 
 We will notify the users via in site notification
 
-â€¢ Within 7 business days
+• Within 7 business days
 
 We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
