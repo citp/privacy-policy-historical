@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlesubmissionhelper.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407161734id_/http%3A//www.articlesubmissionhelper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesubmissionhelper.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124205220id_/http%3A//www.articlesubmissionhelper.com/privacy-policy) for the most accurate reproduction.*
 
-# Article Submission Software – Article Submitter » Privacy Policy
+# Article Submission Software – Article Submitter Privacy Policy - Article Submission Software - Article Submitter
 
 This site is owned and operated by ArticleSubmissionHelper.com. Your privacy on the Internet is of the utmost importance to us. At ArticleSubmissionHelper.com, we want to make your experience online satisfying and safe.
 
