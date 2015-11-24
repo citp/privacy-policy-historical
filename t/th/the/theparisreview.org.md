@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theparisreview.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628232521id_/http%3A//www.theparisreview.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theparisreview.org privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124041333id_/http%3A//www.theparisreview.org/privacy-policy) for the most accurate reproduction.*
 
 # The Paris Review Privacy Policy
 
@@ -18,7 +18,9 @@ You do not have to provide us with any Personally Identifiable Information to vi
 
 **WHERE AND WHEN INFORMATION IS COLLECTED ON OUR WEBSITE**
 
-We may collect Personally Identifiable Information from you in different manners and at different places on our Website, such as when you subscribe to the _Paris Review_ Newsletter or post a comment to a blog entry on the Website.  In addition, when you purchase a subscription to _The Paris Review_ , purchase any product from our Store, or make a donation on the Website, Personally Identifiable Information is collected by us and by our third party e-commerce partners Shopify.com and Stripe.com. We will collect Personally Identifiable Information from you only if you voluntarily submit such information to us. ** **
+We may collect Personally Identifiable Information from you in different manners and at different places on our Website, such as when you subscribe to the _Paris Review_ Newsletter or post a comment to a blog entry on the Website.  In addition, when you purchase a subscription to _The Paris Review_ , purchase any product from our Store, or make a donation on the Website, Personally Identifiable Information is collected by us and by our third party e-commerce partners Shopify.com and Stripe.com. We will collect Personally Identifiable Information from you only if you voluntarily submit such information to us.
+
+In addition, we may use web beacons, web bugs, clear gifs, and similar technologies (collectively, “Tracking Technologies”). We may use Tracking Technologies for any lawful business purpose, including without limitation to determine which of our messages have been opened by recipients so we can gauge the effectiveness of marketing campaigns, to control the display of ads, to track usage patterns, the movements of individual users, and your geographic location, to help diagnose problems with our servers, to gather broad demographic information, to analyze trends, to conduct research, to deliver editorial content, or to record registration and personalization information.  ** **
 
 **USE OF INFORMATION THAT WE COLLECT**
 
