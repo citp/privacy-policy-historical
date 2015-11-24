@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the modernman.com privacy policy that was archived on 2015-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150613003920id_/http%3A//www.modernman.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the modernman.com privacy policy that was archived on 2015-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151124073215id_/http%3A//www.modernman.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" class="no-js"><!--<![endif]--><head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Modern Man Privacy Policy</title>
+<title> Privacy Policy</title>
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,12 +16,13 @@
 <meta name="msapplication-TileColor" content="#f01d4f">
 <meta name="msapplication-TileImage" content="http://www.modernman.com/wp-content/themes/modernman_v2/library/images/win8-tile-icon.png">
 <meta name="theme-color" content="#121212">
+<meta name="verifyownership" content="fb540f4d173f9d0c7e72759abfef460f">
 <link rel="pingback" href="//www.modernman.com/xmlrpc.php">
-<link rel="alternate" type="application/rss+xml" title="Modern Man » Feed" href="//www.modernman.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="Modern Man » Comments Feed" href="//www.modernman.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title=" » Feed" href="//www.modernman.com/feed/">
+<link rel="alternate" type="application/rss+xml" title=" » Comments Feed" href="//www.modernman.com/comments/feed/">
 <meta name="description" content="Modern Man Privacy policy">
-<link rel="alternate" type="application/rss+xml" title="Modern Man » Privacy Policy Comments Feed" href="//www.modernman.com/privacy-policy/feed/">
-<meta name="keywords" content="Modern Man">
+<link rel="alternate" type="application/rss+xml" title=" » Privacy Policy Comments Feed" href="//www.modernman.com/privacy-policy/feed/">
+<meta name="keywords" content="">
 <meta name="robots" content="index,follow,noodp,noydir">
 <link rel="canonical" href="//www.modernman.com/privacy-policy/">
 <link rel="stylesheet" id="yarppWidgetCss-css" href="//www.modernman.com/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css" type="text/css" media="all">
@@ -34,15 +35,37 @@
 <!--[if lt IE 9]>
 <link rel='stylesheet' id='bones-ie-only-css'  href='//www.modernman.com/wp-content/themes/modernman_v2/library/css/ie.css' type='text/css' media='all' />
 <![endif]-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="//www.modernman.com/wp-includes/js/jquery/jquery.js"></script>
+<script type="text/javascript" async="" src="https://clicks.hashtagads.com/pixel?cid=1467&amp;t=0&amp;aid=5481&amp;b=1"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//cdn.spoutable.com/c42d567d-147e-4702-8fb1-951c812086b2/spoutable.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//www.modernman.com/wp-includes/js/jquery/jquery.js"></script>
 <script type="text/javascript" src="//www.modernman.com/wp-includes/js/jquery/jquery-migrate.min.js"></script>
 <script type="text/javascript" src="//www.modernman.com/wp-content/plugins/break-quiz/js/script.js"></script>
 <script type="text/javascript" src="//www.modernman.com/wp-content/themes/modernman_v2/library/js/libs/modernizr.custom.min.js"></script>
 <link rel="shortlink" href="//www.modernman.com/?p=1869">
  
-<style type="text/css" id="shiftnav-dynamic-css">#shiftnav-toggle-main{background:#08293e;}@media only screen and (min-width:960px){#shiftnav-toggle-main{display:none;}.shiftnav-wrap{padding-top:0!important;}}</style>
+<style type="text/css" id="shiftnav-dynamic-css">#shiftnav-toggle-main{background:#000000;}@media only screen and (min-width:960px){#shiftnav-toggle-main{display:none;}.shiftnav-wrap{padding-top:0!important;}}@media only screen and (max-width:959px){.header{display:none!important;}}</style>
  
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script>
 <script type="text/javascript">
+
+		    // Cookie for first view impressions
+			var cookieSplit = "";
+		    if ( jQuery.cookie('userViews') == undefined ) {
+	    		var date = new Date();
+			    var minutes = 1440;
+			    date.setTime(date.getTime() + (minutes * 60 * 1000));
+			    var cookieVal = '1|' + date; 
+		    	jQuery.cookie('userViews', cookieVal, { expires: date, path: '/' });
+		    } else {
+			    cookieSplit = decodeURI(jQuery.cookie('userViews')).split("|");
+			    var newCookieVal = parseInt ( cookieSplit[0] ) + 1;
+			    var cookieDate = new Date (cookieSplit[1]);
+		    	jQuery.cookie('userViews', newCookieVal + '|' + cookieDate, { expires: cookieDate, path: '/'});
+
+		    }
+		    var userViews = decodeURI(jQuery.cookie('userViews')).split("|");
+		    userViews = userViews[0];
+
+  // Width Breakpoints
+  var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0)
   var googletag = googletag || {};
   googletag.cmd = googletag.cmd || [];
   (function() {
@@ -58,18 +81,26 @@
 </script>
 <script type="text/javascript">
   googletag.cmd.push(function() {
+  if(w>=481){
+    googletag.defineSlot('/329659631/002', [728, 90], 'div-gpt-ad-1424282697689-1').addService(googletag.pubads());
+    googletag.defineSlot('/329659631/006', [[970, 90], [970, 250]], 'div-gpt-ad-1424282697689-3').addService(googletag.pubads());
+  }
   googletag.defineSlot('/329659631/005', [[300, 250], [300, 600]], 'div-gpt-ad-1424282697689-0').addService(googletag.pubads());
-  googletag.defineSlot('/329659631/002', [728, 90], 'div-gpt-ad-1424282697689-1').addService(googletag.pubads());
-  googletag.defineSlot('/329659631/007', [1, 1], 'div-gpt-ad-1424282697689-2').addService(googletag.pubads());
-  googletag.defineSlot('/329659631/006', [[970, 90], [970, 250]], 'div-gpt-ad-1424282697689-3').addService(googletag.pubads());
-  googletag.defineSlot('/329659631/003', [160, 600], 'div-gpt-ad-1424282697689-4').addService(googletag.pubads());
   googletag.defineSlot('/329659631/004', [[300, 250], [300, 600]], 'div-gpt-ad-1424282697689-5').addService(googletag.pubads());
+  googletag.defineSlot('/329659631/007', [1, 1], 'div-gpt-ad-1424282697689-2').addService(googletag.pubads());
+  googletag.defineSlot('/329659631/003', [160, 600], 'div-gpt-ad-1424282697689-4').addService(googletag.pubads());
+  googletag.defineSlot('/329659631/8', [1, 1], 'div-gpt-ad-1424282697689-6').addService(googletag.pubads());
+  if(w<=480){
+    googletag.defineSlot('/329659631/9', [300, 250], 'div-gpt-ad-1424282697689-7').addService(googletag.pubads());
+  }
   googletag.pubads().setTargeting("env","mm-live");
   googletag.pubads().setTargeting("url","/privacy-policy/");
-  googletag.pubads().enableSingleRequest();
-  googletag.enableServices();
+  googletag.pubads().setTargeting("userViews",userViews);
+  //googletag.pubads().enableSingleRequest();
+googletag.enableServices();
 });
 </script>
+<style type="text/css">.mobile_ad_block{display:none;}@media only screen and (max-device-width: 480px) {.mobile_ad_block{display:block;}#container{padding-top:8px;}}</style>
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-19201505-1']);
@@ -81,6 +112,10 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
+ 
+ 
+<script type="text/javascript" src="//cpanel.nativeads.com/js/pixel/pixel-105319-6eea9f5e5f1cce8f48d031b1c3d77bf2327d8186.js"></script>
+ 
 </head>
 <body class="page page-id-1869 page-template-default" itemscope="" itemtype="http://schema.org/WebPage">
 <div id="container">
@@ -155,17 +190,19 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1424282697689-1');
 <div id="content">
 <div id="inner-content" class="wrap cf">
 <div class="header_ads">
-<div class="header_left_ad">
-<div id="text-4" class="widget widget_text"> <div class="textwidget"><a href="http://www.modernman.com/7-essential-winter-skin-care-tips-for-guys/"><img src="//cdn2.modernman.com/wp-content/uploads/2014/12/Unknown.jpeg"></a></div>
-</div> </div>
-<div class="header_right_ad">
  
- 
-<div id="div-gpt-ad-1424282697689-1" style="width:728px; height:90px;">
+<div id="div-gpt-ad-1424282697689-3">
 <script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1424282697689-1'); });
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1424282697689-3'); });
 </script>
-</div>  
+</div>
+</div>
+<div class="mobile_ad_block">
+ 
+<div id="div-gpt-ad-1424282697689-7" style="height:250px; width:300px;">
+<script type="text/javascript">
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1424282697689-7'); });
+	</script>
 </div>
 </div>
 <main id="main" class="m-all t-2of3 d-5of7 cf" role="main" itemscope="" itemprop="mainContentOfPage" itemtype="http://schema.org/Blog">
@@ -239,8 +276,7 @@ At ModernMan.com, a website operated by Modern Man Media, LLC, (“MMM”) we ar
 <p><strong> Business transitions</strong></p>
 <p>In the event MMM goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.</p>
 <p><strong> California User Consumer Rights</strong></p>
-<p>In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to <span style="text-decoration: underline;"><a href="mailto:dca@dca.ca.gov">dca@dca.ca.gov<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></span>. For more information about protecting your privacy, you may wish to visit: http: //www.ftc.gov.</p>
+<p>In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to <span style="text-decoration: underline;"><a href="mailto:dca@dca.ca.gov">dca@dca.ca.gov</a></span>. For more information about protecting your privacy, you may wish to visit: http: //www.ftc.gov.</p>
 <p><strong>Users Located Outside of the United States</strong></p>
 <p>We make an effort to protect the personal information of all users of ModernMan.com.Â&nbsp; If you are unsure whether this privacy policy is in conflict with the rules applicable where you are located, you should not submit your personal information to ModernMan.com. <strong>IN ADDITION, IF YOU ARE LOCATED WITHIN THE EUROPEAN UNION, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO THE UNITED STATES, THE LAWS OF WHICH MAY BE DEEMED BY THE EUROPEAN UNION TO HAVE INADEQUATE DATA PROTECTION.</strong> Users of ModernMan.com located in countries outside of the United States who submit personal information do thereby consent to the transfer of that information to and/or storage of the information in the United States.</p>
 <p><strong> </strong></p>
@@ -265,6 +301,17 @@ At ModernMan.com, a website operated by Modern Man Media, LLC, (“MMM”) we ar
   googletag.cmd.push(function() { googletag.display('div-gpt-ad-1424282697689-0'); });
   </script>
 </div></div>
+<div id="rcjsload_6472ec"><script id="rc_810" type="text/javascript" src="http://trends.revcontent.com/serve.js.php?w=8073&amp;t=rc_810&amp;c=1580501817896&amp;width=800" async=""></script></div>
+<script type="text/javascript">
+(function() {
+var rcel = document.createElement("script");
+rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+rcel.type = 'text/javascript';
+rcel.src = "http://trends.revcontent.com/serve.js.php?w=8073&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth);
+rcel.async = true;
+var rcds = document.getElementById("rcjsload_6472ec"); rcds.appendChild(rcel);
+})();
+</script>
 <div id="text-2" class="widget widget_text"><h4 class="widgettitle">Follow Us:</h4> <div class="textwidget"><div class="textwidget">
 <ul id="sidebar_share_links">
 <li>
@@ -281,26 +328,20 @@ At ModernMan.com, a website operated by Modern Man Media, LLC, (“MMM”) we ar
 </li>
 </ul>
 </div></div>
-</div><div id="text-5" class="widget widget_text"><h4 class="widgettitle">Get Dad Something Cool</h4> <div class="textwidget"><div class="alignleft">
-<script type="text/javascript">
- amzn_assoc_ad_type = 'banner';
- amzn_assoc_tracking_id = 'mode0cd-20';
- amzn_assoc_marketplace = 'amazon';
- amzn_assoc_region = 'US';
- amzn_assoc_placement = 'assoc_banner_placement_default';
- amzn_assoc_linkid = 'NSOEB7KWPOUTX4YG';
- amzn_assoc_campaigns = 'fathersday14';
- amzn_assoc_p = '12';
- amzn_assoc_banner_type = 'category';
- amzn_assoc_isresponsive = 'false';
- amzn_assoc_banner_id = '1198X2AG09ZBC7J2HZR2';
- amzn_assoc_width = '300';
- amzn_assoc_height = '250';
+</div><div id="text-5" class="widget widget_text"><h4 class="widgettitle">More Cool Stuff! </h4> <div class="textwidget"><script type="text/javascript" language="javascript">
+  amzn_assoc_ad_type = "contextual";
+  amzn_assoc_tracking_id = "mode0cd-20";
+  amzn_assoc_marketplace = "amazon";
+  amzn_assoc_region = "US";
+  amzn_assoc_placement = "D62HLHGHZQQ7LXGM";
+  amzn_assoc_linkid = "D62HLHGHZQQ7LXGM";
+  amzn_assoc_emphasize_categories = "";
+  amzn_assoc_fallback_products = "";
+  amzn_assoc_width = "300";
+  amzn_assoc_height = "250";
 </script>
-<script src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;Operation=GetScript&amp;ID=OneJS&amp;WS=1"></script>
-</div></div>
-</div><div class="OUTBRAIN widget" data-src="http://www.modernman.com/olympic-team-coin-toss/" data-widget-id="SB_1" data-ob-template="ModernMan.com"></div>
-<script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+<script type="text/javascript" language="javascript" src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;Operation=GetScript&amp;ID=OneJS&amp;WS=1&amp;MarketPlace=US&amp;source=ac"></script></div>
+</div>
 <div class="adunit right size300_600"> 
 <div id="div-gpt-ad-1424282697689-5">
 <script type="text/javascript">
@@ -394,11 +435,13 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1424282697689-5');
 </footer>
 </div>
  
-<div id="shiftnav-toggle-main" class="shiftnav-toggle shiftnav-toggle-shiftnav-main shiftnav-toggle-main-align-center shiftnav-toggle-edge-left shiftnav-toggle-icon-x shiftnav-toggle-main-align-center shiftnav-toggle-edge-left shiftnav-toggle-icon-x" data-shiftnav-target="shiftnav-main"><span class="shiftnav-main-toggle-content shiftnav-toggle-main-block"><a href="http://www.modernman.com">Modern Man</a></span></div>
+<div id="shiftnav-toggle-main" class="shiftnav-toggle shiftnav-toggle-shiftnav-main shiftnav-toggle-main-align-center shiftnav-toggle-edge-left shiftnav-toggle-icon-x shiftnav-toggle-position-absolute shiftnav-toggle-main-align-center shiftnav-toggle-edge-left shiftnav-toggle-icon-x shiftnav-toggle-position-absolute" data-shiftnav-target="shiftnav-main"><span class="shiftnav-main-toggle-content shiftnav-toggle-main-block"><img width="180px" src="/wp-content/uploads/2015/09/logomm-300x45.gif" class="attachment-full" alt="ModernMan.com"></span></div>
  
  
 <div class="shiftnav shiftnav-nojs shiftnav-left-edge shiftnav-skin-custom shiftnav-transition-standard" id="shiftnav-main" data-shiftnav-id="shiftnav-main">
 <div class="shiftnav-inner">
+<div class="shiftnav-menu-image shiftnav-menu-image-padded" id="shiftnav-menu-image-shiftnav-main">
+<img width="300" height="45" src="//www.modernman.com/wp-content/uploads/2015/09/logomm-300x45.gif" class="attachment-full" alt="logomm-300x45"> </div>
 <nav class="shiftnav-nav"><ul id="menu-modern-man-main-menu-1" class="shiftnav-menu shiftnav-targets-default shiftnav-targets-text-default shiftnav-targets-icon-default"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-64464 shiftnav-sub-always shiftnav-depth-0"><a class="shiftnav-target" href="http://www.modernman.com/entertainment/">Entertainment</a>
 <ul class="sub-menu sub-menu-1">
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64465 shiftnav-depth-1"><a class="shiftnav-target" href="http://www.modernman.com/entertainment/gaming-and-sports/">Gaming &amp; Sports</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64466 shiftnav-depth-1"><a class="shiftnav-target" href="http://www.modernman.com/entertainment/movies-and-tv/">Movies &amp; TV</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64467 shiftnav-depth-1"><a class="shiftnav-target" href="http://www.modernman.com/entertainment/music-books-and-culture/">Music, Books, &amp; Culture</a></li><li class="shiftnav-retract"><a class="shiftnav-target"><i class="fa fa-chevron-left"></i> Back</a></li></ul>
@@ -434,7 +477,9 @@ var shiftnav_data = {"shift_body":"on","lock_body":"on","lock_body_x":"off","swi
 <script type="text/javascript">
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1424282697689-2'); });
 </script>
-</div><script type="text/javascript">
+</div>
+/*
+<script type="text/javascript">
 var zflag_parent="zedo_container";
 var zflag_nid="3032"; 
 var zflag_cid="1"; 
@@ -449,6 +494,42 @@ var zflag_bchan="3";
 <script type="text/javascript">
   console.log('End of Javascript');
 </script>
+*/
+<script type="text/javascript">ggv2id='ecb4d92b';</script>
+<script type="text/javascript" src="//g2.gumgum.com/javascripts/ggv2.js"></script>
+ 
+<script type="text/javascript">
+(function(){
+	spoutjs=document.createElement('script'),firstjs=document.getElementsByTagName('script')[0];
+	spoutjs.async=1;
+	spoutjs.src='//cdn.spoutable.com/c42d567d-147e-4702-8fb1-951c812086b2/spoutable.js';
+	firstjs.parentNode.insertBefore(spoutjs,firstjs)
+})();
+</script>
+ 
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-typJ-urCYm5Tc"
+});
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-typJ-urCYm5Tc.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+ 
+<script type="text/javascript">(function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"==document.location.protocol?"https://":"http://")+"clicks.hashtagads.com/pixel?cid=1467&t=0&aid=5481&b=1";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b);})();</script><noscript><img height=1 width=1 border=0 style="display:none;" src="//clicks.hashtagads.com/pixel?cid=1467&noscript=1&aid=5481"></noscript>
 <script type="text/javascript">
 /* <![CDATA[ */
 (function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
@@ -456,4 +537,6 @@ var zflag_bchan="3";
 </script>
 
   
+ 
+ 
 </body></html>
