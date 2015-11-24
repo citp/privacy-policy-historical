@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the himalayastore.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511002523id_/http%3A//www.himalayastore.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the himalayastore.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124155423id_/http%3A//www.himalayastore.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Himalaya Herbal Healthcare Respect Every Individual's Right To Privacy
 
