@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the mohela.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320175637id_/https%3A//www.mohela.com/DL/common/internetprivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mohela.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124162614id_/https%3A//www.mohela.com/DL/common/internetprivacy.aspx) for the most accurate reproduction.*
 
 # MOHELA Internet Privacy Notice
-
-## Login to Your MOHELA Account!
-
-* * *
-
-## Not Registered Yet? Sign Up Now
 
 Effective Date: August 12, 2010
 
@@ -82,7 +76,7 @@ Definitions
 
 We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
 
-[Site Disclaimer](https://web.archive.org/web/20150320175637id_/https%3A//www.mohela.com/DL/common/termsOfUse.aspx)
+[Site Disclaimer](https://web.archive.org/web/20151124162614id_/https%3A//www.mohela.com/DL/common/termsOfUse.aspx)
 
   
 
