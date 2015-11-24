@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jenjobs.com privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525215550id_/http%3A//www.jenjobs.com/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jenjobs.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124014140id_/http%3A//www.jenjobs.com/privacy/policy) for the most accurate reproduction.*
 
 # Job Vacancy | Job Search | Online Jobs in Malaysia | Jawatan Kosong : JenJOBS
 
@@ -34,15 +34,9 @@ This Privacy Notice explains-:
 
 Personal information is obtained when you register for a JenJOBS.com account and also when you login to your account to fill in your profile details. When providing your personal information, you agree to our privacy policy and provide consent to JenJOBS.com and its holding company Agensi Pekerjaan Jen Software to process your personal data. If you do not register, we cannot provide you with our services.
 
-  
-
-
 **(b) ACKNOWLEDGEMENT & CONSENT**
 
 By registering an account with us, you acknowledge that you are of the age of 18 years or older and have read and understood the entire Privacy Policy and hereby give your consent to the processing or continued processing of your Personal Data in accordance herewith. If you are under the age of 18 please obtain consent from your parents, guardian or person who has parental responsibility over you. If you do not agree with the privacy policy please do not register and stop browsing our website www.jenjobs.com
-
-  
-
 
 **(c) NATURE OF BUSINESS AND PURPOSE OF COLLECTION OF DATA**
 
