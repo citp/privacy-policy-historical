@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aruba.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629024908id_/http%3A//www.aruba.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aruba.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124034944id_/http%3A//www.aruba.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Aruba.com Privacy Policy
 
