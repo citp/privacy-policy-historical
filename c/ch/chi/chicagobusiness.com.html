@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the chicagobusiness.com privacy policy that was archived on 2015-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150613171419id_/http%3A//www.chicagobusiness.com/section/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chicagobusiness.com privacy policy that was archived on 2015-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151124080540id_/http%3A//www.chicagobusiness.com/section/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js cssanimations csstransforms csstransforms3d csstransitions"><head><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="http://oascentral.chicagobusiness.com/RealMedia/ads/adstream_dx.ads/jsonp/www.chicagobusiness.com/ccb_inter/34159961367@Position1?screen=desktop&amp;_RM_HTML_CALLBACK_=jQuery111104645414619807018_1582521996022&amp;_=1582521996023"></script>
-
+<!DOCTYPE html><html class=" js cssanimations csstransforms csstransforms3d csstransitions"><head><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="http://oascentral.chicagobusiness.com/RealMedia/ads/adstream_dx.ads/jsonp/www.chicagobusiness.com/ccb_inter/34159961367@Position1?screen=desktop&amp;_RM_HTML_CALLBACK_=jQuery111105951388971992382_1582521993028&amp;_=1582521993029"></script>
+<!--header-default.inc-->
     <title>	                                      	    				     Privacy Policy -  Crain's Chicago Business
 </title>
     <meta charset="UTF-8">
@@ -20,31 +20,28 @@
 <link rel="stylesheet" href="/styleguide/css/prism.css" media="all">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://oascentral.chicagobusiness.com/om/1.js"></script><script src="/styleguide/js/jquery.js"></script>
 
-
-<!-- TODO: appId MUST BE REPLACED FOR EACH DOMAIN IN PRODUCTION, do not use 624675884289433 -->
-<!--<meta property="fb:app_id" content="624675884289433" />
-<meta property="og:type" content="article">
-<meta property="og:title" content="The Title of the Article" />
-<meta property="og:image" content="http://crains-cred.herokuapp.com/styleguide/assets/img-320.png" />-->
-
-<!-- TODO: selectedText should be loaded from a query string (filtered for XSS) to pass highlighted text back to Facebook. The default is the article digest. -->
-<!--<meta property="og:description" content="Article digest content." />-->
-
-<!--20150613&nbsp;00:01-->
+<!--20151124&nbsp;00:02-->
+<!--
+currentrequest=/apps/pbcs.dll/section?Category=NEWS0702
+AID=
+-->
+		<meta property="og:title" content="">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Crain's Chicago Business">
+<meta property="og:image" content="">
+<meta property="og:description" content="">
     
     
 <meta name="google-site-verification" content="0QcjJi4OGS9bKu4FBKK58V93fKv0WYCQb7IFbmjATew">
 <meta name="description" content="    		Visit Crain's Chicago Business for complete business news and analysis including healthcare, real estate, manufacturing, government, sports and more.
 ">
 <meta property="fb:admins" content="100001125868754">
-<!--20140212&nbsp;13:44-->
 
 <meta name="apple-itunes-app" content="app-id=571426684">
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
 <link rel="alternate" type="application/rss+xml" title="ChicagoBusiness.com Breaking News" href="http://www.chicagobusiness.com/section/news?template=rss">
 <link rel="alternate" type="application/rss+xml" title="Crain's Chicago Business Weekly Edition" href="http://www.chicagobusiness.com/section/issue?template=rss">
 <link href="/assets/favicon.ico" rel="Shortcut Icon">
-<!-- Action: frontpage -->
 
     <script src="/public/components/jquery/dist/jquery.min.js"></script>
     <script src="/public/components/jquery-migrate/jquery-migrate.min.js"></script>
@@ -68,7 +65,7 @@ if(typeof CCI.util.removeDuplicateCookies === 'function') CCI.util.removeDuplica
 <script src="http://www.chicagobusiness.com/scripts/frameworks/jquery/jquery.form.js?" type="text/javascript"></script>
 <!-- End jQuery -->
 <!-- Legacy functions--> 
-<script src="http://www.chicagobusiness.com/scripts/legacy/ccbCommon.js?ver=20131028-2" type="text/javascript"></script>
+<script src="http://www.chicagobusiness.com/scripts/legacy/ccbCommon.js?ver=20150811" type="text/javascript"></script>
 <script type="text/javascript">
 setMoreCookies();
 </script>
@@ -220,7 +217,14 @@ oas_getAdPositions(OAS_listpos);
 				{
 					oas_tag.query += CCI.CurrentUser.OASQuery;
 				}
-			}		
+			}
+			if ('referrer' in document) {
+					oas_tag.query += document.referrer.match(/^https*:\/\/www\.facebook\.com/) ? '&q=ref_facebook' : '';
+					oas_tag.query += document.referrer.match(/^https*:\/\/t\.co\//) ? '&q=ref_twitter' : '';
+					oas_tag.query += document.referrer.match(/^https*:\/\/www\.linkedin\.com/) ? '&q=ref_linkedin' : '';
+					oas_tag.query += document.referrer.match(/^https*:\/\/plus\.url\.google\.com/) ? '&q=ref_gplus' : '';
+					oas_tag.query += document.referrer.match(/^https*:\/\/www\.pinterest\.com/) ? '&q=ref_pinterest' : '';
+			}
 			var OAS_url = "http://" + oas_tag.url + "/";
 			try {
 				var OAS_listpos = oas_tag.sizes.toString().replace(/\s/g,"").match(/['"][^'"]+['"]/g).join().replace(/['"]/g,"");
@@ -260,8 +264,8 @@ oas_getAdPositions(OAS_listpos);
 	};
 	// no disqus-custom.pbo for site CG
 	</script>
-<!-- pbs:macro name="cci/services-inner" cci_currcatname="privacy-policy" cci_currmaincatname="privacy-policy" cci_hierarchy="profile*,tagID,project,title,mmId,djoPid,djoPage,blogId,plckPostId,date,day,id,q" OASUseDXTags="1" noparse -->
-<!-- services tags generated at 12:40 am 6/13/2015 -->
+<!-- pbs:macro name="cci/services-inner" cci_currcatname="privacy-policy" cci_currmaincatname="privacy-policy" cci_hierarchy="profile*,tagID,project,title,mmId,djoPid,djoPage,blogId,plckPostId,date,day,id,q" OASUseDXTags="1" OAS="1" noparse -->
+<!-- services tags generated at 12:34 am 11/24/2015 -->
 
 <!-- /includes/services-dx.inc -->
 
@@ -286,7 +290,7 @@ oas_getAdPositions(OAS_listpos);
 <![endif]-->
 
     <link rel="stylesheet" href="/public/components/fonts/icons-main/styles.css?ver=20150331" media="all">
-    <link rel="stylesheet" href="/public/css/ccb/web.css?ver=20150331-3" media="all">
+    <link rel="stylesheet" href="/public/css/ccb/web.css?ver=201511191418" media="all">
     <!--<link rel="stylesheet" href="/public/css/pattern-dev.css" media="all">-->
 
     
@@ -299,20 +303,22 @@ oas_getAdPositions(OAS_listpos);
 
 
 <link rel="stylesheet" media="all" href="data:text/css,body{}" id="inject-css">
-<link rel="apple-touch-icon" sizes="57x57" href="/public/images/ccb/web/favicon/apple-touch-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="114x114" href="/public/images/ccb/web/favicon/apple-touch-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="72x72" href="/public/images/ccb/web/favicon/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="144x144" href="/public/images/ccb/web/favicon/apple-touch-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="60x60" href="/public/images/ccb/web/favicon/apple-touch-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="120x120" href="/public/images/ccb/web/favicon/apple-touch-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="76x76" href="/public/images/ccb/web/favicon/apple-touch-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="152x152" href="/public/images/ccb/web/favicon/apple-touch-icon-152x152.png">
-<link rel="icon" type="image/png" href="/public/images/ccb/web/favicon/favicon-160x160.png" sizes="160x160">
-<link rel="icon" type="image/png" href="/public/images/ccb/web/favicon/favicon-96x96.png" sizes="96x96">
-<link rel="icon" type="image/png" href="/public/images/ccb/web/favicon/favicon-32x32.png" sizes="32x32">
-<link rel="icon" type="image/png" href="/public/images/ccb/web/favicon/favicon-16x16.png" sizes="16x16">
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/icons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/icons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/icons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/icons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/icons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/icons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/icons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/icons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" href="/assets/icons/apple-touch-icon-152x152.png">
+<link rel="shortcut icon" sizes="196x196" href="/assets/icons/shortcut-icon-196x196.png">
+<link rel="icon" type="image/png" href="/assets/icons/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="/assets/icons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/assets/icons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/assets/icons/favicon-16x16.png" sizes="16x16">
 <meta name="msapplication-TileColor" content="#2d89ef">
-<meta name="msapplication-TileImage" content="/public/images/ccb/web/favicon/mstile-144x144.png">
+<meta name="msapplication-TileImage" content="/assets/icons/mstile-144x144.png">
 
     <!--[if lte IE 8]>
         <link rel="stylesheet" href="/public/css/ccb/ie8.css">
@@ -363,22 +369,33 @@ oas_getAdPositions(OAS_listpos);
   })();
 </script>
     
- 
+ <script type="text/javascript">
+  var _sf_async_config = _sf_async_config || {};
+  /** CONFIGURATION START **/
+  _sf_async_config.uid = 25465; 
+  _sf_async_config.domain = "www.chicagobusiness.com";
+  _sf_async_config.useCanonical = true;
+  /** CONFIGURATION END **/
+  var _sf_startpt = (new Date()).getTime();
+</script>
+<script src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+
 </head>
-<body class="ccb no-touch article crains-clear-nav" style="zoom: 1;">
-  <!-- macro cachequalifiers: category,template,@storyid,@cci_extLogin,@cci_gallery,tagID,djoPid,djoPage,mmId,title,project,date,day,blogID,plckBlog,plckPostId,currcategory,currmaincategory,sectioncat,id,q,navigatorfilter,daterange,startdate,enddate,page,start,cci_FrameVideoTracking -->
+<body class="ccb" style="zoom: 1;">
+  <!-- macro cachequalifiers: category,template,@storyid,@cci_extLogin,@cci_gallery,tagID,djoPid,djoPage,mmId,title,project,date,day,blogID,plckBlog,plckPostId,currcategory,currmaincategory,sectioncat,id,q,navigatorfilter,daterange,startdate,enddate,page,start,profile,cci_FrameVideoTracking -->
 <!-- SiteCatalyst code version: H.25.4.
 Copyright 1996-2011 Adobe, Inc. All Rights Reserved
 More info available at http://www.omniture.com -->
 <script type="text/javascript">
-var s_account = (document.domain.indexOf("chicagorealestatedaily.com") > -1) ? "craincbrealestate" : "crainchicagobusiness";
-var s_firstPartyTracking = false;
+var s_account="crainchicagobusiness";
+var s_firstPartyTracking = true;
 var s_isSaxotechClickshare = true;
 var s_isShortArticle = false;
 var s_isMeteredArticle = false;
 var s_loggedInCookie = "CSDemos";
+var s_sendPageView = true;
 </script>
-<script language="JavaScript" type="text/javascript" src="http://www.chicagobusiness.com/global/js/omniture/s_crainsc.js?ver=V27.1"></script>
+<script language="JavaScript" type="text/javascript" src="http://www.chicagobusiness.com/global/js/omniture/s_crainsc.js?ver=V29"></script>
 <script language="JavaScript" type="text/javascript">
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
@@ -403,8 +420,10 @@ s_crainsc.prop29 = s_crainsc.eVar31 = "section"; // content type
 // END site-level overrides
 s_crainsc.events = _cci_sc_eventsArr.join(",");
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s_crainsc.t();
-if(s_code)document.write(s_code);
+if (s_sendPageView) {
+    var s_code=s_crainsc.t();
+    if(s_code)document.write(s_code);
+}
 </script>
 <div style="display:none;position:absolute;left:-9999px;">
 <noscript>
@@ -412,8 +431,8 @@ if(s_code)document.write(s_code);
 </noscript>
 </div>
 <!-- End SiteCatalyst code version: H.25.4. -->
-<!-- omniture-inner.pbo cached at 12:40 am 6/13/2015 -->
-<!-- Omniture tag generated at 12:40 am 6/13/2015 -->
+<!-- omniture-inner.pbo cached at 12:34 am 11/24/2015 -->
+<!-- Omniture tag generated at 12:34 am 11/24/2015 -->
 
   		<div id="cci-interstitial" style="display: none;">
 		<link href="/global/css/interstitial.css?ver=20130503" rel="stylesheet" type="text/css">
@@ -455,7 +474,7 @@ if(s_code)document.write(s_code);
 
     <div id="clear-nav-date">
         <div>
-        Saturday, June 13, 2015
+        Tuesday, November 24, 2015
         </div>
     </div>
 
@@ -534,9 +553,9 @@ if(s_code)document.write(s_code);
                 <span class="icon icon-hamburger"></span>
                 <span class="hidden-label">Navigation</span>
             </button>
-            <button class="large white-on" style="left: 0px; right: auto;">
+            <button class="large omnitrack" data-omnievent="event30" data-omnilocation="nav" data-omnilink="topstories:toggle" data-omnitoggletarget="#live-must-read" style="left: 0px; right: auto;">
                 <span class="icon icon-mustread"></span>
-                <span>The A-List</span>
+                <span>Editors’ Picks</span>
             </button>
             <button class="right" style="left: auto; right: 100px;">
                 <span class="icon icon-weather"></span>
@@ -555,107 +574,67 @@ if(s_code)document.write(s_code);
               <ul style="top: -304px;">
                           
                                     <li>
-                                        <a href="/article/20150612/ISSUE09/150619945/the-head-of-the-ad-agency-behind-or-your-money-back-has-a-new-hook">
-                                             The head of the ad agency behind '...or your money back' has a new hook 
+                                        <a href="/article/20151121/ISSUE01/151129976/comparing-salary-gains-losses-in-highly-compensated-chicago">
+                                             Whose fat paychecks are getting fatter  
                                         </a>
                                     </li>         
                                     <li>
-                                        <a href="/article/20150612/ISSUE03/150619930/the-most-powerful-woman-in-society-you-dont-know">
-                                             The most powerful woman in society you don't know 
+                                        <a href="/article/20151121/ISSUE01/311219998/chicago-one-of-leading-cities-for-craft-beer">
+                                             A toast to Chicago breweries  
                                         </a>
                                     </li>         
                                     <li>
-                                        <a href="/article/20150612/NEWS07/150619929/sorry-you-cannot-buy-chicagoblackhawks-sucks">
-                                             Sorry, you cannot buy ChicagoBlackhawks.sucks 
+                                        <a href="/article/20151121/ISSUE01/311219994/apparel-retailers-open-in-chicagos-west-loop-maria-pintos-m2057">
+                                             Fulton Market's latest addition: apparel shops  
                                         </a>
                                     </li>         
                                     <li>
-                                        <a href="/article/20150612/ISSUE01/150619921/the-plan-to-save-walgreens">
-                                             The plan to save Walgreens 
+                                        <a href="/article/20151121/ISSUE05/311219999/emanuel-rauner-preckwinkle-handle-media-relations-differently">
+                                             That tumultuous tango of politicians and the press  
                                         </a>
                                     </li>         
                                     <li>
-                                        <a href="/article/20150612/BLOGS02/150619912/has-rahm-emanuel-lost-his-financial-nerve">
-                                             Has Rahm Emanuel lost his financial nerve? 
+                                        <a href="/article/20151119/ISSUE03/151119815/living-room-concerts-heat-up-in-chicago">
+                                             Now playing in your home: Your favorite band 
                                         </a>
                                     </li>         
                                     <li>
-                                        <a href="/article/20150612/NEWS02/150619907/house-spurns-obama-on-fast-track-trade-authority">
-                                             House spurns Obama on fast-track trade authority 
+                                        <a href="/article/20151119/ISSUE03/151119873/local-amateur-chamber-parties-are-becoming-so-popular-that-waitlists">
+                                             Chamber music parties–where musicians let their hair down 
                                         </a>
                                     </li>         
                                     <li>
-                                        <a href="/article/20150612/OPINION/150619913/is-anyone-in-charge-at-twitter">
-                                             Is anyone in charge at Twitter? 
+                                        <a href="/article/20151119/ISSUE01/151119875/andrew-vaughns-law-firm-nuvorce-charges-upfront-fees-for-divorce">
+                                             Are upfront legal fees the next thing in divorce cases? 
                                         </a>
                                     </li>         
                                     <li>
-                                        <a href="/realestate/20150612/CRED0703/150619928/heres-what-3-9-million-looks-like-in-bucktown">
-                                             Here's what $3.9 million looks like in Bucktown 
+                                        <a href="/article/20151121/ISSUE01/311219996/cme-chases-foreign-futures-traders-for-growth">
+                                             CME: Shrinking locally to grow abroad  
                                         </a>
                                     </li>         
                                     <li>
-                                        <a href="/article/20150612/NEWS07/150619959/eight-murals-in-8-seconds-first-look-at-wabash-avenues-street-art">
-                                             First look at new Wabash Avenue street art museum 
+                                        <a href="/article/20151121/ISSUE01/311219995/pharmedium-sells-for-2-58-billion-a-profile-of-founder-david-jonas">
+                                             Meet the man whose company just sold for $2.58 billion 
                                         </a>
                                     </li>         
                                     <li>
-                                        <a href="/realestate/20150612/CRED03/150619922/zell-to-sell-waldorf-astoria-for-record-chicago-price">
-                                             Zell to sell Waldorf Astoria for record Chicago price 
+                                        <a href="/article/20151119/ISSUE03/151119812/chicago-restaurant-review-3arts-cafe-in-restoration-hardware">
+                                             'As elegant a setting as we can imagine' 
                                         </a>
                                     </li> 
               </ul>
-            <ul><li>
-                                        <a href="/article/20150612/ISSUE09/150619945/the-head-of-the-ad-agency-behind-or-your-money-back-has-a-new-hook">
-                                             The head of the ad agency behind '...or your money back' has a new hook 
-                                        </a>
-                                    </li><li>
-                                        <a href="/article/20150612/ISSUE03/150619930/the-most-powerful-woman-in-society-you-dont-know">
-                                             The most powerful woman in society you don't know 
-                                        </a>
-                                    </li><li>
-                                        <a href="/article/20150612/NEWS07/150619929/sorry-you-cannot-buy-chicagoblackhawks-sucks">
-                                             Sorry, you cannot buy ChicagoBlackhawks.sucks 
-                                        </a>
-                                    </li><li>
-                                        <a href="/article/20150612/ISSUE01/150619921/the-plan-to-save-walgreens">
-                                             The plan to save Walgreens 
-                                        </a>
-                                    </li><li>
-                                        <a href="/article/20150612/BLOGS02/150619912/has-rahm-emanuel-lost-his-financial-nerve">
-                                             Has Rahm Emanuel lost his financial nerve? 
-                                        </a>
-                                    </li><li>
-                                        <a href="/article/20150612/NEWS02/150619907/house-spurns-obama-on-fast-track-trade-authority">
-                                             House spurns Obama on fast-track trade authority 
-                                        </a>
-                                    </li><li>
-                                        <a href="/article/20150612/OPINION/150619913/is-anyone-in-charge-at-twitter">
-                                             Is anyone in charge at Twitter? 
-                                        </a>
-                                    </li><li>
-                                        <a href="/realestate/20150612/CRED0703/150619928/heres-what-3-9-million-looks-like-in-bucktown">
-                                             Here's what $3.9 million looks like in Bucktown 
-                                        </a>
-                                    </li><li>
-                                        <a href="/article/20150612/NEWS07/150619959/eight-murals-in-8-seconds-first-look-at-wabash-avenues-street-art">
-                                             First look at new Wabash Avenue street art museum 
-                                        </a>
-                                    </li><li>
-                                        <a href="/realestate/20150612/CRED03/150619922/zell-to-sell-waldorf-astoria-for-record-chicago-price">
-                                             Zell to sell Waldorf Astoria for record Chicago price 
-                                        </a>
-                                    </li></ul></div>
+            </div>
 
             <div class="live-sections">
                 <section style="display: none;"></section>
                 
                 <section id="live-must-read" style="display: none;">
-                    <span class="close-button">×</span>
-                    <h1>The A-List</h1>
+                    <span class="close-button omnitrack" data-omnievent="event30" data-omnilocation="nav" data-omnilink="topstories:close">×</span>
+                    <!-- h1>Editors&#8217; Picks</h1>
                     <p class="overline">
-                        News you need to know for <span class="primary-color">Saturday, June 13, 2015</span>
-                    </p>
+                        News you need to know for <span class="primary-color">Tuesday, November 24, 2015</span>
+                    </p -->
                     <div class="columns three tablet-columns">
                          
                        
@@ -664,36 +643,36 @@ if(s_code)document.write(s_code);
                                 <ul>
                                     
                                     <li>
-                                        <a href="/article/20150612/ISSUE09/150619945/the-head-of-the-ad-agency-behind-or-your-money-back-has-a-new-hook">
-                                             The head of the ad agency behind '...or your money back' has a new hook 
+                                        <a href="/article/20151121/ISSUE01/151129976/comparing-salary-gains-losses-in-highly-compensated-chicago">
+                                             Whose fat paychecks are getting fatter  
                                         </a>
                                     </li>
                         
                                    
                                     <li>
-                                        <a href="/article/20150612/ISSUE03/150619930/the-most-powerful-woman-in-society-you-dont-know">
-                                             The most powerful woman in society you don't know 
+                                        <a href="/article/20151121/ISSUE01/311219998/chicago-one-of-leading-cities-for-craft-beer">
+                                             A toast to Chicago breweries  
                                         </a>
                                     </li>
                         
                                    
                                     <li>
-                                        <a href="/article/20150612/NEWS07/150619929/sorry-you-cannot-buy-chicagoblackhawks-sucks">
-                                             Sorry, you cannot buy ChicagoBlackhawks.sucks 
+                                        <a href="/article/20151121/ISSUE01/311219994/apparel-retailers-open-in-chicagos-west-loop-maria-pintos-m2057">
+                                             Fulton Market's latest addition: apparel shops  
                                         </a>
                                     </li>
                         
                                    
                                     <li>
-                                        <a href="/article/20150612/ISSUE01/150619921/the-plan-to-save-walgreens">
-                                             The plan to save Walgreens 
+                                        <a href="/article/20151121/ISSUE05/311219999/emanuel-rauner-preckwinkle-handle-media-relations-differently">
+                                             That tumultuous tango of politicians and the press  
                                         </a>
                                     </li>
                         
                                    
                                     <li>
-                                        <a href="/article/20150612/BLOGS02/150619912/has-rahm-emanuel-lost-his-financial-nerve">
-                                             Has Rahm Emanuel lost his financial nerve? 
+                                        <a href="/article/20151119/ISSUE03/151119815/living-room-concerts-heat-up-in-chicago">
+                                             Now playing in your home: Your favorite band 
                                         </a>
                                     </li>
                         
@@ -707,36 +686,36 @@ if(s_code)document.write(s_code);
                                 <ul>
                                     
                                     <li>
-                                        <a href="/article/20150612/NEWS02/150619907/house-spurns-obama-on-fast-track-trade-authority">
-                                             House spurns Obama on fast-track trade authority 
+                                        <a href="/article/20151119/ISSUE03/151119873/local-amateur-chamber-parties-are-becoming-so-popular-that-waitlists">
+                                             Chamber music parties–where musicians let their hair down 
                                         </a>
                                     </li>
                         
                                    
                                     <li>
-                                        <a href="/article/20150612/OPINION/150619913/is-anyone-in-charge-at-twitter">
-                                             Is anyone in charge at Twitter? 
+                                        <a href="/article/20151119/ISSUE01/151119875/andrew-vaughns-law-firm-nuvorce-charges-upfront-fees-for-divorce">
+                                             Are upfront legal fees the next thing in divorce cases? 
                                         </a>
                                     </li>
                         
                                    
                                     <li>
-                                        <a href="/realestate/20150612/CRED0703/150619928/heres-what-3-9-million-looks-like-in-bucktown">
-                                             Here's what $3.9 million looks like in Bucktown 
+                                        <a href="/article/20151121/ISSUE01/311219996/cme-chases-foreign-futures-traders-for-growth">
+                                             CME: Shrinking locally to grow abroad  
                                         </a>
                                     </li>
                         
                                    
                                     <li>
-                                        <a href="/article/20150612/NEWS07/150619959/eight-murals-in-8-seconds-first-look-at-wabash-avenues-street-art">
-                                             First look at new Wabash Avenue street art museum 
+                                        <a href="/article/20151121/ISSUE01/311219995/pharmedium-sells-for-2-58-billion-a-profile-of-founder-david-jonas">
+                                             Meet the man whose company just sold for $2.58 billion 
                                         </a>
                                     </li>
                         
                                    
                                     <li>
-                                        <a href="/realestate/20150612/CRED03/150619922/zell-to-sell-waldorf-astoria-for-record-chicago-price">
-                                             Zell to sell Waldorf Astoria for record Chicago price 
+                                        <a href="/article/20151119/ISSUE03/151119812/chicago-restaurant-review-3arts-cafe-in-restoration-hardware">
+                                             'As elegant a setting as we can imagine' 
                                         </a>
                                     </li>
                         
@@ -755,7 +734,7 @@ if(s_code)document.write(s_code);
                     <h1>
                         Weather
                     </h1>
-                  <div data-behavior="live-weather"><div class="live-weather"><h2>Forecast for <span class="weather-location-name">Chicago</span><input type="text" name="weather-location-name" value="60654"><span class="weather-edit-button"><span></span></span></h2><div class="weather-today">  <div class="weather-day">    <h3>Today</h3>    81/73 F Mist   </div>  <div class="weather-now">    <span class="far"></span><span class="deg"></span>    <img src="/public/images/common/weather/50d.png">    75  </div></div>  <ul class="weather-forecast">    <li class="weather-day">      <h3>Saturday</h3>      <span class="weather-temp">66/61 F</span>      <span class="weather-conditions">Rain </span>    </li>      <li class="weather-day">      <h3>Sunday</h3>      <span class="weather-temp">67/61 F</span>      <span class="weather-conditions">Clouds </span>    </li>      <li class="weather-day">      <h3>Monday</h3>      <span class="weather-temp">70/60 F</span>      <span class="weather-conditions">Clear </span>    </li>      <li class="weather-day">      <h3>Tuesday</h3>      <span class="weather-temp">76/58 F</span>      <span class="weather-conditions">Clear </span>    </li>      <li class="weather-day">      <h3>Wednesday</h3>      <span class="weather-temp">77/64 F</span>      <span class="weather-conditions">Clear </span>    </li>  </ul></div></div>
+                  <div data-behavior="live-weather"></div>
                 </section>
   
                 <section class="right market" style="display: none;">
@@ -876,7 +855,7 @@ if(s_code)document.write(s_code);
                   <input type="search" name="q" id="q" title="Crain's Live Search"> 
                   <input type="submit" value="Search">
                 </form>
-                <p>For best results, please place quotation marks around terms with more than one word, e.g. "Rahm Emanuel"</p>
+                <p></p>
               </section>
             </div>
         </div>
@@ -887,19 +866,19 @@ if(s_code)document.write(s_code);
     <nav id="main-nav">
 
           <ul class="content-width">
-              <li class="expands">
+              <li>
                 <a href="/newstest">News</a>
                 <ul>
                     <!--Main - News|1113--> <li><a href="/news/economy">Economy</a></li><li><a href="/news/education">Education</a></li><li><a href="/news/finance">Finance</a></li><li><a href="/news/healthcare">Health Care</a></li><li><a href="/news/law-professional-services">Law &amp; Professional Services</a></li><li><a href="/news/manufacturing">Manufacturing</a></li><li><a href="/news/media-marketing">Media &amp; Marketing</a></li><li><a href="/news/retail-consumer-goods">Retail &amp; Consumer Goods</a></li><li><a href="/news/small-business">Small Business</a></li><li><a href="/news/sports">Sports</a></li><li><a href="/news/technology">Technology</a></li><li><a href="/news/transportation">Transportation</a></li><li><a href="/news/utilities">Utilities</a></li>
                 </ul>
               </li>
-              <li class="expands">
+              <li>
                 <a href="/politics">Politics</a>
                 <ul>
                     <!--Main - Politics|1142--> <li><a href="/politics/city-government">City and County Government</a></li><li><a href="/politics/greg-hinz">Greg Hinz</a></li><li><a href="/politics/rich-miller">Rich Miller</a></li><li><a href="/politics/state-and-federal-government">State and Federal Government</a></li>
                 </ul>
               </li>
-              <li class="expands">
+              <li>
                   <a href="/opinion">Opinion &amp; Columnists</a>
                   <ul>
                      <!--Main - Opinion & Columnists|1128-->
@@ -914,7 +893,7 @@ if(s_code)document.write(s_code);
                      <li><a href="/opinion/pletz-on-tech">Pletz on Tech</a></li>
                   </ul>
               </li>
-              <li class="expands">
+              <li>
                   <a href="/lifestyle">Lifestyle &amp; Dining</a>
                   <ul>
                     <!--Main - Lifestyle|1133--> <li><a href="/lifestyle/architecture-style">Architecture &amp; Style</a></li><li><a href="/lifestyle/arts-culture">Arts &amp; Culture</a></li><li><a href="/lifestyle/dining">Dining</a></li><li><a href="/lifestyle/gadgets-tech">Gadgets &amp; Tech</a></li><li><a href="/lifestyle/shia-kapos">Shia Kapos</a></li><li><a href="/lifestyle/society-people">Society &amp; People</a></li><li><a href="/lifestyle/travel">Travel</a></li><li><a href="/lifestyle/wellness-fitness">Wellness &amp; Fitness</a></li>
@@ -925,21 +904,24 @@ if(s_code)document.write(s_code);
                   <a href="/realestate">Real Estate</a>
               </li>
 
-                <li class="expands">
+                <li>
                   <a href="#">Special Reports</a>
                   <ul>
                       <li><a href="/lists">All Lists</a></li>
                       <li><a href="/book-of-lists">Book of Lists</a></li>
                       <li><a href="/privately-held">Privately Held</a></li>
                       <li><a href="/publicly-held">Publicly Held</a></li>
-                      <li><a href="/venture-capital">Venture Capital</a></li>
+                      <!--<li><a href="/venture-capital">Venture Capital</a></li>-->
                       <li><a href="/fast50">Fast 50</a></li>
-                      <li><a href="/market-intel">Market Intel</a></li>
+                      <!--<li><a href="/market-intel">Market Intel</a></li>-->
                       <li><a href="/40s">40 Under 40</a></li>
                       <li><a href="/20s">20 in Their 20s</a></li>
                       <li><a href="/best-places-to-work">Best Places to Work</a></li>
-                      <li><a href="/powerful-women">Powerful Women</a></li>
+                      <!--<li><a href="/powerful-women">Powerful Women</a></li>-->
                       <li><a href="/whos-who">Who's Who</a></li>
+                      <li><a href="/tech50">Tech 50</a></li>
+                      <li><a href="/small-business-guide">Small Business Guide</a></li>
+                      <li><a href="/coolest-offices">Coolest Offices</a></li>
                   </ul>
               </li>
               <li>
@@ -1055,7 +1037,7 @@ Policy Last Updated: August 12, 2010
 						</div>
 					</div>
 
-					<div class="columns three footer-columns crainsFooter" data-equalize="height" data-equalize-off="tablet">
+					<div class="columns three footer-columns" data-equalize="height" data-equalize-off="tablet">
 
 						<div class="column">
 							<section>
@@ -1075,12 +1057,11 @@ Policy Last Updated: August 12, 2010
 									<li><a href="https://home.chicagobusiness.com/clickshare/changeServicesAdd.do">Subscribe to Crain’s Free E-Newsletters</a></li>
                                     <li><a href="https://itunes.apple.com/us/app/crains-chicago-business/id571426684?ls=1&amp;mt=8">Download the Crain’s iPad App</a></li>
 									<li><a href="/section/crains-events">Attend Crain’s Events</a></li>
-                                    <li><a href="/section/events-submit">Submit Your Event Listing</a></li>
-									<li><a href="/section/people-on-the-move-submission">Submit to People on the Move</a></li>
+                                    <li><a href="/section/people-on-the-move-submission">Submit to People on the Move</a></li>
 								</ul>
 							</section>
 						</div>
-						<div class="column last-child">
+						<div class="column">
 							<section>
 								<h3>Advertise</h3>
 								<ul>
@@ -1105,7 +1086,7 @@ Policy Last Updated: August 12, 2010
 		</footer>
 	</div>
 	<script src="/public/scripts/common/dist/components.js"></script>
-	<script src="/public/scripts/common/dist/common.js?ver=20150304"></script>
+	<script src="/public/scripts/common/dist/common.js?ver=20151015"></script>
     <script src="/public/scripts/ccb/web/ccb-common.js?ver=20150331"></script>
     <!-- Quantcast Tag -->
 <script type="text/javascript">
@@ -1133,11 +1114,8 @@ qacct:"p-1cxISwT75pqKc"
 <!-- End Quantcast tag -->
 <!-- Chartbeat -->
 <script type="text/javascript">
-var _sf_async_config={};
+var _sf_async_config = _sf_async_config || {}; 
 /** CONFIGURATION START **/
-_sf_async_config.uid = 25465;
-_sf_async_config.domain = "chicagobusiness.com"; /** CHANGE THIS **/
-_sf_async_config.useCanonical = true;
 _sf_async_config.sections = "CCB";
 
 /** CONFIGURATION END **/
