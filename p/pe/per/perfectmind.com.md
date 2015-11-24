@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the perfectmind.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603013940id_/http%3A//www.perfectmind.com/academy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectmind.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124010243id_/http%3A//www.perfectmind.com/academy/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Statement | PerfectMind
+
+## Effective December 11, 2014
 
 This privacy statement describes how PerfectMIND, Inc. ("PerfectMIND ) collects and uses the personal information you provide on our websites and platforms: PerfectMIND and Championsway. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
