@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychcentral.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012212300id_/http%3A//psychcentral.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychcentral.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124140718id_/http%3A//psychcentral.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | About Us - Psych Central
 
@@ -86,13 +86,15 @@ Psych Central processes personal information only for the purposes for which it 
 
 When you use Psych Central services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services.
 
-**Third Party Privacy Statement**
+**Third Party Privacy Statements**
 
 Psych Central uses technology provided by a third-party to serve ads when you visit this website. This technology may use information about your visit to this website in order to provide advertisements about goods and services that may be of interest to you. We customize the advertisements that you see based upon: (i) the information that you knowingly provide; (ii) geographic location which we determine through your IP address; (iii) data we receive from third parties and (iv) your behavior on this website or other sites. In the course of serving advertisements to this website, such third-party advertising technology may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used to target ads to you, please visit <http://www.doubleclick.com/privacy/opting_out.aspx>. In addition, you have the ability to accept or decline cookies by modifying the settings in your browser. 
 
 We may also use a third party ad network provider to help present advertisements on this website. Third party network advertisers, along with other advertisers and sponsors on the website, may use cookies, web beacons (also called single pixel gifs or action tags) or similar technologies (and, in the case of cookies, access them on your computer if you choose to have cookies enabled in your browser), (i) to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, (ii) to determine whether you have seen a particular advertisement before, (iii) to avoid sending you duplicated advertisements and (iv) to understand the usage patterns of people who see advertisements. In doing so, the provider collects non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed and other clickstream data. Ad networks may connect information about your visit on our website with information about your visit on other sites and show you advertising based on this combined information. The advertisement may appear when you are visiting a different section of this website or any other sites on the Internet if such other sites also have a relationship with our ad network provider.
 
 The use of third party cookies, web beacons and similar technologies by these ad network providers is governed by each third party’s specific privacy policy, not this one. Please visit <http://www.networkadvertising.org/optout_nonppii.asp> to learn more about the information collection practices and if you wish to “opt-out” of participating in advertising programs conducted by Collective and third party ad network providers.
+
+Some of our advertising is served via UBM Medica. Such advertising is additionally overseen by the [UBM Medica Privacy Policy](http://imaging.ubmmedica.com/all/UBMMedica%20Network_Privacy_Statement.html).
 
 **Enforcement**
 
@@ -107,7 +109,7 @@ Please note that this Privacy Policy may change from time to time. We will not r
 If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at: Chief Privacy Officer, Psych Central, PO Box 5464, Bradford MA 01835 USA.
 
 >   
->      **Last reviewed:** By Psych Central Staff on 27 Aug 2012
+>      **Last reviewed:** By Psych Central Staff on 8 Apr 2015
 
   
 
