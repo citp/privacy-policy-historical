@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kii.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521115854id_/http%3A//en.kii.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kii.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124194958id_/http%3A//en.kii.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kii
 
