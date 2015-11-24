@@ -1,27 +1,27 @@
-> *The following text is extracted and transformed from the funeral.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027140426id_/http%3A//funeral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funeral.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124021907id_/http%3A//funeral.com/privacy-policy) for the most accurate reproduction.*
 
-# Funeral.com – Obituaries · Death Notices » Privacy Policy
+# Privacy Policy | Funeral.com
 
-At [funeral.com](http://funeral.com/), the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by [funeral.com](http://funeral.com/) and how it is used.
+##### Privacy Policy
 
-**Log Files**  
-Like many other Web sites, [funeral.com](http://funeral.com/) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+We are committed to maintaining the privacy of every visitor to our website.
 
-**Cookies and Web Beacons**  
-[funeral.com](http://funeral.com/) does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+**Individual User Information**
 
-**DoubleClick DART Cookie**
+All individually identifiable visitor information we gather, including e-mail addresses, will not be released or disclosed to any third parties, except to us, our affiliates and/or our agents, without the visitor’s prior consent. This information will be solely used to determine which products, if any, might be of benefit to you. Should you decide to move forward with the an online application process, we will forward your personal information to the respective insurance company for the purpose of identity verification and application submission.
 
-  * Google, as a third party vendor, uses cookies to serve ads on [funeral.com](http://funeral.com/).
-  * Google's use of the DART cookie enables it to serve ads to users based on their visit to [funeral.com](http://funeral.com/) and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>.
+**Site Statistics**
 
+We gather site usage information, or statistics, from all visitors. This information includes such data as number of visitors, sessions and page views, length of visits, pages visited and other such information. This data is only used in the aggregate, however, to help determine general usage patterns which will allow us to continually fine-tune our website. This statistical information may be made public at our discretion. None of this data contains any personal information or information that can be traced back to any specific visitor.
 
+**Security And Confidentiality of Customer Information**
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on [funeral.com](http://funeral.com/) send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+We maintain physical, electronic, and procedural safeguards to guard all nonpublic personal information. We restrict access to personal information about our customers to only those employees, affiliates, insurance carriers or agents who require the information to provide products and services.
 
-[funeral.com](http://funeral.com/) has no access to or control over these cookies that are used by third-party advertisers.
+**External Links**
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [funeral.com's](http://funeral.com/) privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+We may provide links to other websites not directly under our control. We provide them to our website visitors so that they may become more fully informed about our products and industry. We are not responsible for the privacy policies maintained on those sites and we encourage our users to read the privacy policies of all websites they visit.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+**Changes To This Statement**
+
+Our Privacy Policy is subject to change without notice. Any changes will be posted on this page before they become effective.
