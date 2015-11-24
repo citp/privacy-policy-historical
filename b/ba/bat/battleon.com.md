@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the battleon.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315014934id_/http%3A//www.aq.com/aw-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battleon.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124102645id_/http%3A//www.aq.com/aw-privacy.asp) for the most accurate reproduction.*
 
 # Artix Entertainment Privacy Policy
 
@@ -6,8 +6,6 @@
 **
 
 This privacy statement covers the Web Sites: [www.battleon.com](http://www.battleon.com/), [www.dragonfable.com](http://www.dragonfable.com/), [www.mechquest.com](http://www.mechquest.com/), <http://herosmash.artix.com/>, [www.artix.com](http://www.artix.com/), <http://epicduel.artix.com/>, <http://oversoul.artix.com/>, [www.ebilgames.com](http://www.ebilgames.com/) and [www.aq.com](http://www.aq.com/). 
-
-Artix Entertainment LLC complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Artix Entertainment LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Artix Entertainment LLC’s certification, please visit <http://www.export.gov/safeharbor/>. 
 
 We are also aware, that due to our content we may have some younger users on our site. We recognize the need to provide additional protection to those younger users. The Children’s Online Privacy Protection Act ('COPPA') requires that we inform parents and legal guardians about how we collect, use, and disclose personal information from children under 13 years of age. We explain this information under the Children’s Privacy Policy section below. 
 
