@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the villeroy-boch.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522112207id_/http%3A//www.villeroy-boch.com/privacy-and-cookie-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villeroy-boch.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125102239id_/http%3A//www.villeroy-boch.com/privacy-and-cookie-policy.html) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
@@ -57,7 +57,7 @@ In the event that you wish to avoid disclosure of any personal data, which could
 
 Also, you can exercise your general right to object to the use of your data for advertising purposes at any time with effect for the future. In view of the discussion on the use of analytical tools with complete IP addresses, we would like to point out that this website uses Google Analytics with the extension "_anonymizeIp()" so that IP addresses are only processed further in abbreviated form to prevent them being linked directly. 
 
-You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings: https://www.google.com/settings/ads 
+You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings: [www.google.com/settings/ads](https://www.google.com/settings/ads)
 
 ## 9 econda
 
@@ -71,6 +71,6 @@ According to statutory law you have a right of free access to your recorded data
 
 ## 11 Changes to this Privacy Policy
 
-We reserve the right to change this privacy policy. The current version of the privacy policy is always retrievable at [www.villeroy-boch.com/datenschutz.](https://www.villeroy-boch.com/privacy-and-cookie-policy.html)
+We reserve the right to change this privacy policy. The current version of the privacy policy is always retrievable at [www.villeroy-boch.com/datenschutz.](http://www.villeroy-boch.com/privacy-and-cookie-policy.html)
 
 Version: 04.12.2013 
