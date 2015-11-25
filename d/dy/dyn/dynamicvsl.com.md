@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynamicvsl.com privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525003331id_/http%3A//dynamicvsl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamicvsl.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125115640id_/http%3A//dynamicvsl.com/privacy) for the most accurate reproduction.*
 
 # DynamicVSL.com Privacy Policy
 
