@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opencrm.co.uk privacy policy that was archived on 2015-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150211013725id_/http%3A//www.opencrm.co.uk/plans-and-pricing/legal-stuff/privacy-and-delivery-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opencrm.co.uk privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125080246id_/http%3A//www.opencrm.co.uk/plans-and-pricing/legal-stuff/privacy-and-delivery-policy.html) for the most accurate reproduction.*
 
-# Privacy and Delivery Policy
+# OpenCRM Privacy and Delivery Policy - OpenCRM
 
 OpenCRM and Software Add-ons Limited ("Software Add-ons") are constantly striving to provide excellent service to our customers and business partners, while building long-lasting relationships with them. To achieve these goals, we occasionally need information about you when you visit our Web site.
 
@@ -12,6 +12,8 @@ When you visit our Web sites, you may be providing us with information about you
 
 
 Because we respect your right to privacy, we want you to be aware of how we handle this information.
+
+Last Updated: July 2015
 
 We assure you that we do not:
 
@@ -42,6 +44,12 @@ As you browse the site, our Web servers collect information about your visit, no
 
 
 While we gather this information, none of it is associated with you as an individual. We use these statistics to improve our Web site, to monitor its performance, and to make it easier for you and other visitors to use.
+
+We do occasionally use third parties to track and analyse the performance of our advertisements, as well as to provide advertisements that are tailored to your interests. As a result, you may see advertisements related to OpenCRM on other web sites.
+
+These third parties collect this information using cookies to ensure these ads are accurately targeted.
+
+If you would like to opt out of this tracking, you can do so by going to [Google's Ads Settings](http://www.google.com/settings/ads) and amending your preferences. Alternatively, you can also learn more about opting out of all third-party vendor tracking by going to the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/choices/).
 
 Within our Web site, you may be asked to give us personal or organisational information in order to receive information about a product or service. This information may range from your postcode to a specific phone number, email address, mailing address, organisation URL, product serial numbers and control codes, account number or credit card number.
 
