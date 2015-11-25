@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unrwa.org privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609202626id_/http%3A//www.unrwa.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unrwa.org privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125114110id_/http%3A//www.unrwa.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UNRWA
 
@@ -40,7 +40,7 @@ People who provide an email address and/or donate via the website may receive UN
 
 #### Disclaimer
 
-This site contains hypertext links to other sites. The UNRWA assumes no responsibility for those sites including the privacy practices or the content of such websites.
+This site contains hypertext links to other sites. UNRWA assumes no responsibility for those sites including the privacy practices or the content of such websites.
 
 While UNRWA makes every effort to ensure that any material available to be downloaded from UNRWA’s website is free of any software virus, it cannot guarantee that the material is free from any or all software viruses. UNRWA is not responsible for any loss or damage howsoever caused by the software and related codes, including viruses and worms.
 
