@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localvisibilitysystem.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408061421id_/http%3A//www.localvisibilitysystem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localvisibilitysystem.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125184434id_/http%3A//www.localvisibilitysystem.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LocalVisibilitySystem.com
 
@@ -34,5 +34,3 @@ _Local Visibility System, LLC | 86 Richards Ave |  N. Attleboro MA 02760
 508-308-4040 | phil ( at ) localvisibilitysystem.com_
 
 [Contact Me](http://www.localvisibilitysystem.com/contact/) | [Terms & Conditions](http://www.localvisibilitysystem.com/terms-of-use/)
-
-[](http://www.printfriendly.com/print?url=http%3A%2F%2Fwww.localvisibilitysystem.com%2Fprivacy%2F)
