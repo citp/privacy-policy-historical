@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 3pornstarmovies.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526232245id_/http%3A//www.3pornstarmovies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3pornstarmovies.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125075319id_/http%3A//www.3pornstarmovies.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Pornstar Movies
 
-Effective Date: May 26, 2015   
+Effective Date: November 25, 2015   
 Last Modified: March 17, 2015   
 Site(s) Covered: www.3pornstarmovies.com 
 
