@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the cutmirchi.com privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412091546id_/http%3A//cutmirchi.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutmirchi.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126004716id_/http%3A//www.cutmirchi.com/welcome/PrivacyPolicy) for the most accurate reproduction.*
 
-# Welcome cutmirchi.com - Find latest happening information links
+# Privacy Policy | Cutmirchi.com
 
-|  | Home >> Privacy Policy  
-  
 ---  
   
   
 _**What information do we collect? :**_  
 
 
-  * Cut Mirchi currently not asking any signup to user to submit their links. Now it is open to all users. Every Link will be reviewed before approval.
+  * Cut Mirchi currently not asking any signup to user to submit their links. Now it is open to all users. Every Link will be reviewed before approval. 
   
 
   * We record IP address, Cookie information for providing better services. 
@@ -37,6 +35,15 @@ We may also release your information when we believe release is appropriate to c
 
   
 
+_**Cookies & 3rd Party Advertisements : **_  
+
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit[ http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). 
+
+  
+
 _**Third party links**_  
 
 
@@ -52,20 +59,6 @@ _**Third party links**_
 
   
 
-  * If we decide to change our privacy policy, we will post those changes on this page.
+  * If we decide to change our privacy policy, we will post those changes on this page. 
 
-  
-  
-| [SUBMIT YOUR LINK](https://web.archive.org/web/20150412091546id_/http%3A//cutmirchi.com/submit.php)  
----  
-| MOST VIEWED  
----  
-TOP PHOTOS  
-  
-Top photos will soon be displayed  
-  
-TOP VIDEOS  
-  
-Top Videos will soon be displayed  
-  
- 
+
