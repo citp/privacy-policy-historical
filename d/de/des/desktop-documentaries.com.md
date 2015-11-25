@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desktop-documentaries.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235123id_/http%3A//www.desktop-documentaries.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktop-documentaries.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125201915id_/http%3A//www.desktop-documentaries.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -77,34 +77,3 @@ Desktop-Documentaries.com reserves the right to make changes in this policy. If 
 If you do not agree to Desktop-Documentaries.com Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
 
 Your use of this site indicates acceptance of this privacy policy. 
-
-* * *
-
-[](http://www.desktop-documentaries.com/how-to-make-a-documentary-crash-course.html "Go to Learn How To Make A Documentary | 7-Day Crash Course")
-
-### Ready To Make Your Dream Documentary?
-
-Get started right away with our exclusive 7-day crash course and learn step-by-step how to make a documentary from idea to completed film.   
-
-
-[](http://www.desktop-documentaries.com/how-to-make-a-documentary-crash-course.html "Go to Learn How To Make A Documentary | 7-Day Crash Course")
-
-  
-
-
-| 
-
-### Ready To Make Your Dream Documentary?
-
-Get started right away with our exclusive 7-day crash course and learn step-by-step how to make a documentary from idea to completed film.   
-
-
-[](http://www.desktop-documentaries.com/how-to-make-a-documentary-crash-course.html "Go to Learn How To Make A Documentary | 7-Day Crash Course")
-
-| 
-
-[](http://www.desktop-documentaries.com/how-to-make-a-documentary-crash-course.html "Go to Learn How To Make A Documentary | 7-Day Crash Course")  
-  
----|---|---  
-  
-
