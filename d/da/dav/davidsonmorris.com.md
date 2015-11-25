@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidsonmorris.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526031604id_/http%3A//www.davidsonmorris.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidsonmorris.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125191649id_/http%3A//www.davidsonmorris.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - DavidsonMorris
 
