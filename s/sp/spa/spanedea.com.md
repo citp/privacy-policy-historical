@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spanedea.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408052621id_/http%3A//www.spanedea.com/page/experience/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanedea.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125111609id_/http%3A//www.spanedea.com/privacy-policy) for the most accurate reproduction.*
 
-# Spanedea provides best online classes and tutors
+# Online Tutoring |Online Coaching Classes | Online Home and Private Tutors| Spanedea
 
 By accessing this Website, the Teacher/User hereby consents to abide by this privacy policy: 
 
