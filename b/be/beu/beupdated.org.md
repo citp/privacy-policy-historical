@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beupdated.org privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424053422id_/http%3A//www.beupdated.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beupdated.org privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125140224id_/http%3A//beupdated.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,11 +20,11 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 TechFabia may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests.
 
 
