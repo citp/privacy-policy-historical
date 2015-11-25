@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theinertia.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630151555id_/http%3A//www.theinertia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinertia.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125155247id_/http%3A//www.theinertia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Inertia
 
@@ -88,11 +88,8 @@ This policy was last modified on 08/28/2010
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.theinertia.com
-
+http://www.theinertia.com  
 8672 Via Mallorca  
 La Jolla, California 92037  
 USA  
 info@theinertia.com
-
-[Powered by Sidelines](http://sidelinesapp.com/)
