@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitnc.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629123148id_/http%3A//www.visitnc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitnc.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125202310id_/http%3A//www.visitnc.com/privacy) for the most accurate reproduction.*
 
 # Privacy | VisitNC.com
 
@@ -67,15 +67,3 @@ The VisitNC.com website contains links to other sites and we attempt to only lin
 ###  Contact Information
 
 Additional questions or concerns about these policies should be directed to the [contact page at VisitNC.com](http://www.visitnc.com/contactus).
-
-[See something wrong?](https://web.archive.org/see-something-wrong)
-
-Tell us about it.
-
-Go with the flow and see where the water takes you from the scenic Riverwalk lined with shops and cafes to the family-friendly entertainment found on…
-
-[](https://web.archive.org/sweep/see-where-the-water-takes-you-the-wilmington-island-beaches-sweepstakes "Enter to Win")
-
-When you think of extraordinary golf, the Pinehurst area, also known as the “Home of American Golf”, often immediately comes to mind. Full of…
-
-[](http://ad.doubleclick.net/ddm/clk/290698126;117866315;q)
