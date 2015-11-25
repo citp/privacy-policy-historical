@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the classysweets.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512115918id_/http%3A//www.classysweets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classysweets.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125221032id_/http%3A//www.classysweets.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Classy Sweets
+# Privacy Policy - Classy Sweets
+
+Privacy Policy
 
 **Your Privacy**
 
@@ -27,6 +29,3 @@ We have included links on this site for your use and reference. We are not respo
 The contents of this statement may be altered at any time, at our discretion. 
 
 If you have any questions regarding the privacy policy of [Classy Sweets](http://www.classysweets.com/) then you may contact us [here](http://www.classysweets.com/contact/).
-
-  
-
