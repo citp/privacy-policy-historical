@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netronline.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316062745id_/http%3A//www.netronline.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netronline.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125112828id_/http%3A//www.netronline.com/privacy_policy.php) for the most accurate reproduction.*
 
 # NETR Online • Privacy Policy
 
