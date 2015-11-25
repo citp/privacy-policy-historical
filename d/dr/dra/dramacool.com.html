@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dramacool.com privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627173707id_/http%3A//www.dramacool.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dramacool.com privacy policy that was archived on 2015-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151125112952id_/http%3A//www.dramacool.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="vi-VN" prefix="og: http://ogp.me/ns#"><head>
         <meta charset="UTF-8">
@@ -20,13 +20,14 @@
         <!--[if lt IE 9]>
         <link rel='stylesheet' id='twentythirteen-ie-css'  href='/css/ie.css?ver=2013-07-18' type='text/css' media='all' />
         <![endif]-->
-        <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery/jquery.js?ver=1.10.2"></script>
+        <script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=8"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery/jquery.min.js"></script>
+        <script type="text/javascript" src="/js/jquery/jquery-ui.min.js"></script>
         <script type="text/javascript" src="/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
         <link rel="stylesheet" href="/css/bootstrap.css" type="text/css">
         <link rel="stylesheet" href="/css/template.css" type="text/css">
     </head>
 
-    <body class="body-9dr" style="">
+    <body class="body-9dr">
         <div class="container container-9dr">
             <div class="header">
                 <div class="row row-9dr">
@@ -49,16 +50,47 @@
                                 <img src="/images/banner.jpg" alt="dramacool logo" class="img-responsive">
                             </a>
                         </div>
-						<div class="box_search">
-						<form class="navbar-form navbar-form-menu" role="search" method="get" action="http://www.dramacool.com/search">
-                        <div class="form-group">
-                            <input type="text" class="form-control form-control-search" placeholder="Search" value="" name="keyword" title="">
-                        </div>
-                        <button class="btn btn-search" type="submit">
-                            <img src="/images/button-search.png" alt="button search">
-                        </button>
-                    </form>
-					</div>
+			<div class="box_search"><div class="portlet" id="yw0">
+<div class="portlet-content">
+<form id="search_form" class="navbar-form navbar-form-menu" role="search" method="get" action="http://www.dramacool.com/search">
+  <select name="type" id="search_type">
+    <option value="movies">Movies</option>
+    <option value="stars">Stars</option>
+  </select>
+  <div class="form-group">
+    <input type="text" class="form-control form-control-search" placeholder="Search" value="" name="keyword" id="keyword">
+  </div>
+  <button class="btn btn-search" type="submit">
+    <img src="/images/button-search.png" alt="button search">
+  </button>
+</form>
+
+<script>
+  $(document).ready(function(){
+    autocomplete();
+    $("#search_type").change(function() {
+      autocomplete();
+    });
+  
+    $("#search_form").keydown(function (e) {
+      if (e.keyCode == 13) {
+        $("#search_form").submit();
+      }
+    });
+  });
+  
+  function autocomplete(){
+    $("#keyword").autocomplete({
+      source:"/drama/jsonSearch?type=" + $("#search_type").val(),
+      minLength: 2,
+      select: function( event, ui ) {
+         $("#keyword").val(ui.item.label);
+         $("#search_form").submit();
+      }
+    });
+  }
+</script></div>
+</div></div>
                     </div>
                 </div>
                 <div class="row row-9dr">
@@ -230,5 +262,13 @@
 
         </script>
         
-    
+    <script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=8';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script>
 </body></html>
