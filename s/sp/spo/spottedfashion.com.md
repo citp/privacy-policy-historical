@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spottedfashion.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410023407id_/http%3A//www.spottedfashion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spottedfashion.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125043944id_/http%3A//www.spottedfashion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Spotted Fashion
 
@@ -18,7 +18,7 @@ Our site uses “cookies” and other tracking technologies. Cookies enable us t
 
 You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Site.
 
-  Third-Party Cookies: In the course of serving advertisements to this site, our third-party advertisers may place or recognise a unique “cookie” on your browser. Third party vendors use cookies to serve ads based on a user’s prior visits to your website.
+Third-Party Cookies: In the course of serving advertisements to this site, our third-party advertisers may place or recognise a unique “cookie” on your browser. Third party vendors use cookies to serve ads based on a user’s prior visits to your website.
 
   * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings. For more information on Google and cookies, [click here](http://www.google.com/policies/privacy/).
 
@@ -60,4 +60,4 @@ Spotted Fashion reserves the right to change this Privacy Policy from time to ti
 
 If you have any questions or concerns regarding this Privacy Policy please contact:  
 Spotted Fashion  
-[admin@spottedfashion.com](mailto:admin@spottedfashion.com)
+[contact-us@spottedfashion.com](mailto:contact-us@spottedfashion.com)
