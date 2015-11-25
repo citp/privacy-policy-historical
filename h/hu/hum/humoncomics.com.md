@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the humoncomics.com privacy policy that was archived on 2015-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150211202954id_/http%3A//humoncomics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humoncomics.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125015156id_/http%3A//humoncomics.com/privacy-policy) for the most accurate reproduction.*
 
-# Humon Comics - privacy-policy
+# - Humon Comics
 
 **Cookies & 3rd Party Advertisements**  
 Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
