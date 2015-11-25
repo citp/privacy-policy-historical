@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gayviolations.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526001812id_/http%3A//gayviolations.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayviolations.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125113127id_/http%3A//gayviolations.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
