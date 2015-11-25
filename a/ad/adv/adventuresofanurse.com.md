@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adventuresofanurse.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224083251id_/http%3A//www.adventuresofanurse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventuresofanurse.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125103743id_/http%3A//www.adventuresofanurse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Adventures of a Nurse
 
@@ -60,10 +60,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Coupon Nurse
-
-http://www.coupon-nurse.com/
-
+Coupon Nurse  
+http://www.coupon-nurse.com/  
 carla@coupon-nurse.com
 
 This document was last updated on January 10, 2013
