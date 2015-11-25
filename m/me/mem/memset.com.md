@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memset.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618051324id_/https%3A//www.memset.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memset.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126002944id_/http%3A//www.memset.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Memset
 
@@ -30,6 +30,6 @@ If we intend to transfer your information outside the EEA (European Economic Are
 
 We use technology to track the patterns of behaviour of visitors to our site, and to make our site easier to use. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.
 
-We reserve the right to pass on your personal information to any law enforcement agencies properly requesting it in connection with the commission of any offence once we are reasonable satisfied as to the circumstances surrounding the request.
+We reserve the right to pass on your personal information to any law enforcement agencies properly requesting it in connection with the commission of any offence once we are reasonably satisfied as to the circumstances surrounding the request.
 
 If you have any questions/comments about privacy, you should [contact us](https://web.archive.org/contact/).
