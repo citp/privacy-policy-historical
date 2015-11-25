@@ -1,26 +1,90 @@
-> *The following text is extracted and transformed from the lifeinahouseoftestosterone.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227081348id_/http%3A//lifeinahouseoftestosterone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeinahouseoftestosterone.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125182848id_/http%3A//lifeinahouseoftestosterone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Life in a House of Testosterone
 
-I take your privacy as seriously as I do my own. This privacy policy briefly sets out how your personal information is received and collected by LiaH and how it is used.
+[](http://shareasale.com/r.cfm?b=546842&u=469746&m=46115&urllink=&afftrack=)
 
-I use third-party advertising to serve ads when you visit this blog. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.
+This privacy policy sets out how Life in a House of Testosterone uses and protects any information that you give while using [lifeinahouseoftestosterone.com](http://lifeinahouseoftestosterone.com/).
 
-**Cookies and Web Beacons**
+Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Life in a House of Testosterone does not use cookies for our readers; however, some of our advertising and affiliate partners do use cookies and web beacons on our site. Our advertising partners include:
+Life in a House of Testosterone may change this policy from time to time by updating this page. You should check this page periodically to make sure that you are happy with any changes. This policy is effective as of 17 July 2015.
 
-  * Commission Junction
-  * LinkShare
-  * Share A Sale
-  * Amazon
-  * Mommerce
-  * Moms Affiliate
+### What We Collect
+
+We may collect the following information:
+
+  * contact information including email address
+  * demographic information such as zip code, preferences, and interests
+  * other information relevant to customer surveys and/or offers
 
 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on LiaH sent directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize their advertising content that you see.
+### What We Do with the Information We Gather
 
-LiaH has no access to or control over these cookies that are used by third-party advertisers.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-LiaH does not use your email address for any purpose other than to notify you if you are a winner, reply to a question presented by you, or supply a newsletter that you requested. Your information  _will never be shared by us_.
+  * We may use the information to improve our products and services
+  * We may periodically send promotional emails about new features, special offers or other information which we think you may find interesting using the email address you have provided
+
+
+
+### Security
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+### How We Use Cookies
+
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to your specific needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can also modify your browser settings to decline cookies if you prefer. This may prevent you from taking full advantage of our website, but we totally understand!
+
+### Advertising
+
+Some of our advertisers occasionally serve you cookies as well. **We do not have control over cookies placed by advertisers**. We may use advertising service vendors to help present advertisements on the website, one of which is [http://www.gourmetads.com](http://www.gourmetads.com/). These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, web pages visited, time of visits, content viewed, ads viewed, and other click stream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and we disclaim all liability in connection therewith.
+
+### Link to Other Websites
+
+Our website may contain links to other websites of interest. After all, our mission is to share with you interesting information from around the world about the subjects we know you are interested in. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites and such sites are not governed by this privacy statement. You should always exercise caution and look at the privacy statement of every website before consenting to give information requested.
+
+### Controlling Your Personal Information
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us.
+
+
+
+We will not sell, distribute, or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish to receive these items.
+
+### Opt Out
+
+You can choose to disable or selectively turn off cookies or third-party cookies in your browser settings.
+
+If you wish to see which companies you have authorized cookies for, and opt-out of those you no longer wish to grant access, you can do so by [visiting the Network Advertising Initiative by clicking here](http://www.networkadvertising.org/choices/).
+
+### Further Information about our Privacy Policy
+
+We love to answer any questions that you might have about anything on our website. If you have questions about our privacy policy or about collection of personally identifiable information, please send a direct inquiry via email to the owner of this website, Kim Miller, at [LifeInAHouse@outlook.com](mailto:LifeInAHouse@outlook.com?subject=Privacy%20Policy).
+
+[](http://www.shareasale.com/u.cfm?d=313033&m=30149&u=469746)
+
+  * About
+  * Latest Posts
+
+
+
+[](http://lifeinahouseoftestosterone.com/ "Kim Miller")
+
+### [Kim Miller](http://lifeinahouseoftestosterone.com/)
+
+Hi y'all! I'm Kim - mom to three beautiful children and wife to my hubby of 20+ years. We live on the outskirts of Richmond, VA with our Jack Russell Chihuahua mix - Molly. When I'm not running the tween and teen all over town or taking Molly for the 100th walk of the day, I like to read, watch sunrises on the beach, use the boys as guinea pigs for new recipes, and drink wine. LOTS and LOTS of wine.
+
+[](http://lifeinahouseoftestosterone.com/ "Kim Miller")
+
+#### Latest posts by Kim Miller ([see all](http://lifeinahouseoftestosterone.com/author/kim4testosterone/))
