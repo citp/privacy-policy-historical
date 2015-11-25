@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kilstein.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103074837id_/http%3A//kilstein.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kilstein.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125181234id_/http%3A//kilstein.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Harlan Kilstein's Home
 
-This document was last updated on August 5, 2012.
+This document was last updated on August 25, 2014.
 
     1. **ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS**  
 OTC Publishing is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing www.Kilstein.com, you acknowledge and fully understand OTC Publishing Company’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
@@ -51,5 +51,5 @@ If you have questions regarding our Privacy Statement, its implementation, failu
 OTC Publishing
 
 **Attention: Privacy Statement Personnel**  
-7863 San Marcos Place, Boca Raton, FL 33432  
+7810 San Marcos Place, Boca Raton, FL 33432  
 OTC Publishing will use commercially reasonable efforts to promptly respond and resolve any problem or question.
