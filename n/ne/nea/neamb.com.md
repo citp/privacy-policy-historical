@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the neamb.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619063915id_/http%3A//www.neamb.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neamb.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125123129id_/http%3A//www.neamb.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | NEA Member Benefits
 
 ## NEA Member Benefits Privacy Policy
 
 **Effective:** January 1, 2014.  
- **Last updated:** January 1, 2014.
+ **Last updated:** July 9, 2015.
 
 **I.  INTRODUCTION**
 
@@ -26,7 +26,7 @@ As used in this Privacy Policy, the following terms have the meanings indicated 
 
 **E.**  The term “NEA Academy website” means NEA Academy’s external website located at neaacademy.org, lms.neaacademy.org, and any related future websites that we may develop.
 
-**F.**  The term “NEA MBC-related organizations” means the NEA, the NEA Members Insurance Trust, NEA Foundation, NEA Health Information Network, NEA Professional Solutions, and any other entity created by or affiliated with NEA MBC or the NEA.
+**F.**  The term “NEA MBC-related organizations” means the NEA, the NEA Members Insurance Trust, NEA Foundation, NEA Healthy Futures, NEA Professional Solutions, and any other entity created by or affiliated with NEA MBC or the NEA.
 
 **G.**  The term “third party” means a legal entity that is separate and independent from NEA MBC, its state and local affiliates, or any NEA MBC-related organization.
 
