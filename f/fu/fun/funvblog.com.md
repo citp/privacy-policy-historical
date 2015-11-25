@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the funvblog.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423141033id_/http%3A//www.funvblog.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funvblog.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125175849id_/http%3A//www.wackyy.com/privacy) for the most accurate reproduction.*
 
 # Privacy
+
+Page 1 Of 1
 
 ## Privacy Policy
 
  **Our commitment to privacy**
 
-FunvBlog.com (“FunvBlog”, “we” or “our”) has created this privacy policy in order to demonstrate our firm commitment to protecting the privacy of personally identifiable information about users of FunvBlog. Our commitment to you is that we will not disclose information collected from you other than as described in this policy. The following discloses in detail our information collection, utilization and dissemination practices of information collected through our Site.
+Wackyy.com (“Wackyy”, “we” or “our”) has created this privacy policy in order to demonstrate our firm commitment to protecting the privacy of personally identifiable information about users of Wackyy. Our commitment to you is that we will not disclose information collected from you other than as described in this policy. The following discloses in detail our information collection, utilization and dissemination practices of information collected through our Site.
 
  **Our privacy policy in short**
 
@@ -18,7 +20,7 @@ FunvBlog.com (“FunvBlog”, “we” or “our”) has created this privacy po
 
  **What information do we collect?**
 
-During general use of the Site, services offered on the Site or as otherwise identified below, we collect personal, demographic and preference information, email address and other personally identifiable information (“Personal Data”) from all users or visitors to the Site. All users must agree to the applicable [Terms of Service](http://www.funvblog.com/tos/) posted on the Site.
+During general use of the Site, services offered on the Site or as otherwise identified below, we collect personal, demographic and preference information, email address and other personally identifiable information (“Personal Data”) from all users or visitors to the Site. All users must agree to the applicable [Terms of Service](http://www.wackyy.com/tos/) posted on the Site.
 
 In addition, we collect certain information, which cannot be used to personally identify any user, and which may be provided to third parties. Such non-personal data ordinarily includes aggregate, summary, or other usage data, and may include, by way of example, statistics regarding total users, information regarding types of Internet browsers used by users, and widget usage patterns. We also collect non-personal data about each users IP address to help diagnose problems with our server, and to administer our Site.
 
@@ -28,7 +30,7 @@ Any user providing personal data is certifying that he/she is over the age of 13
 
  **How do we use and disclose collected information?**
 
-FunvBlog, like most other sites, uses cookies to provide you with a more personalized and user-friendly experience. We may also use cookies to help us deliver content or advertising specific to your interests, and to save your preferences or passwords so you don’t have to re-enter them each time you visit our site. Most browsers allow you to reject all cookies, but then your preferences, passwords and other information will not be saved, and you may have to re-enter information to use certain features of our Site.
+Wackyy, like most other sites, uses cookies to provide you with a more personalized and user-friendly experience. We may also use cookies to help us deliver content or advertising specific to your interests, and to save your preferences or passwords so you don’t have to re-enter them each time you visit our site. Most browsers allow you to reject all cookies, but then your preferences, passwords and other information will not be saved, and you may have to re-enter information to use certain features of our Site.
 
 We may also log IP addresses for the purposes of systems administration or to report information in aggregate form to our advertisers (e.g., how many visitors logged in to our Web site). In some cases your IP address stays the same from browser session to browser session; but if you use a consumer Internet service provider (ISP), chances are that your IP address varies each session? Thus making it effectively impossible for us to use your IP address (by itself) to determine who you are.
 
@@ -42,27 +44,27 @@ Google, as a third party vendor, uses cookies to serve ads on our website. Googl
 
 The Opt-out Tool is cookie-based. In order for the Tool to work on your computer, your browser must be set to accept third party cookies. If you buy a new computer, change web browsers or delete this cookie, you will need to perform the opt-out task again.
 
-FunvBlog uses third party sites for hosting images. These sites may gather data from the referrer logs that identify where and how frequently user images being hosted on the respective sites are being displayed on FunvBlog in order to provide more relevant advertising and monitor user bandwidth usage.
+Wackyy uses third party sites for hosting images. These sites may gather data from the referrer logs that identify where and how frequently user images being hosted on the respective sites are being displayed on Wackyy in order to provide more relevant advertising and monitor user bandwidth usage.
 
-FunvBlog contains links and advertisements to other sites. If you click-through a banner ad or link and submit your information to that advertiser or site, you will be subject to their own privacy practices. FunvBlog is not responsible for the privacy practices or the content of such other sites.
+Wackyy contains links and advertisements to other sites. If you click-through a banner ad or link and submit your information to that advertiser or site, you will be subject to their own privacy practices. Wackyy is not responsible for the privacy practices or the content of such other sites.
 
  **Security Precautions**
 
-FunvBlog makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and that if you disclose personal contact information in these areas, others may use it to send you unsolicited messages. We do not control the actions of our guests and registered members. FunvBlog encourages our users to be smart about choosing when, and to whom to release information online.
+Wackyy makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and that if you disclose personal contact information in these areas, others may use it to send you unsolicited messages. We do not control the actions of our guests and registered members. Wackyy encourages our users to be smart about choosing when, and to whom to release information online.
 
 Of course there are many other ways we conceivably could get information from or about you that are not described elsewhere in this Statement. For example, you might email us through one of our customer service email addresses, or we may get a complaint about you from a third party. Our practices with respect to such information are pretty much as you’d expect — we use and disclose this information in a commercially reasonable business manner.
 
  **Our commitment to data security**
 
-This site has industry consistent security measures in place to protect the loss, misuse, and alteration of the information under our control. But since the Internet cannot be made absolutely secure, FunvBlog assumes no liability for disclosure of data due to errors in transmission or unauthorized third parties.
+This site has industry consistent security measures in place to protect the loss, misuse, and alteration of the information under our control. But since the Internet cannot be made absolutely secure, Wackyy assumes no liability for disclosure of data due to errors in transmission or unauthorized third parties.
 
  **Mailing list subscriptions**
 
-FunvBlog provides instructions for how to unsubscribe to future mailings at the bottom of each communication. Please remember to check the registration screens applicable to the service or promotion for which you are signing up for specific instructions from our partners on how to update your user profile and/or opt out of receiving offers and mailings.
+Wackyy provides instructions for how to unsubscribe to future mailings at the bottom of each communication. Please remember to check the registration screens applicable to the service or promotion for which you are signing up for specific instructions from our partners on how to update your user profile and/or opt out of receiving offers and mailings.
 
  **Acceptance of Privacy Policy**
 
-By using FunvBlog, you signify your acceptance of this Privacy Statement. If you are not comfortable with any policy described in this Privacy Statement, you may feel free to e-mail us with questions or concerns, but your only remedy is to discontinue use of the Site. We reserve the right to modify this Privacy Statement at any time.
+By using Wackyy, you signify your acceptance of this Privacy Statement. If you are not comfortable with any policy described in this Privacy Statement, you may feel free to e-mail us with questions or concerns, but your only remedy is to discontinue use of the Site. We reserve the right to modify this Privacy Statement at any time.
 
  **How to Contact Us**
 
