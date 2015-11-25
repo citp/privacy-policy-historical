@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affline.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820122256id_/http%3A//www.affline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affline.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125034516id_/http%3A//www.affline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | AffLine.com - Exclusive CPA Network
 
