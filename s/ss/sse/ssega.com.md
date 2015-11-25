@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ssega.com privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528025730id_/http%3A//www.ssega.com/page/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssega.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125175936id_/http%3A//www.ssega.com/page/pp) for the most accurate reproduction.*
 
-# Privacy Policy | SSega | Play Retro Sega Genesis | Mega drive | Games Online in your browser.
+# Privacy Policy | SSega | Play Retro Sega Genesis | Mega drive | video games online in your browser.
 
 **Privacy Policy**
 
