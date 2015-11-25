@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the jimbakkershow.com privacy policy that was archived on 2015-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609234939id_/http%3A//jimbakkershow.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jimbakkershow.com privacy policy that was archived on 2015-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151125153228id_/http%3A//jimbakkershow.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" prefix="og: http://ogp.me/ns#" dir="ltr" class=" js"><head>
-<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script data-cfasync="false" src="//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js" type="text/javascript" async=""></script><script data-cfasync="false" src="//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js" type="text/javascript" async=""></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgUEVV5XGwAHUlRbBQM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class=" js"><head>
+<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script data-cfasync="false" src="//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js" type="text/javascript" async=""></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgUEVV5XGwAHUlRbBQM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:22,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
 <meta name="viewport" content="width=device-width">
-<title>Privacy Policy on Jim Bakker Show</title>
-<link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="pingback" href="http://jimbakkershow.com/xmlrpc.php">
-<link rel="stylesheet" type="text/css" media="print" href="http://jimbakkershow.com/wp-content/themes/jbs/print.css">
+<title>Privacy Policy - Jim Bakker Show</title>
+<link rel="profile" href="//gmpg.org/xfn/11">
+<link rel="pingback" href="//jimbakkershow.com/xmlrpc.php">
+<link rel="stylesheet" type="text/css" media="print" href="//jimbakkershow.com/wp-content/themes/jbs/print.css">
 <!--[if lt IE 9]>
-        <script src="http://jimbakkershow.com/wp-content/themes/jbs/js/html5.js" type="text/javascript"></script>
+        <script src="//jimbakkershow.com/wp-content/themes/jbs/js/html5.js" type="text/javascript"></script>
         <![endif]-->
 <script>
 document.getElementsByTagName('html')[0].className += ' js';
@@ -34,86 +34,67 @@ document.getElementsByTagName('html')[0].className += ' js';
 //]]>
 </script>
  
-<link rel="stylesheet" href="http://jimbakkershow.com/wp-content/plugins/organize-series/orgSeries.css" type="text/css" media="screen">
  
-<link rel="canonical" href="http://jimbakkershow.com/privacy-policy/">
+ 
+<link rel="canonical" href="//jimbakkershow.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Policy on Jim Bakker Show">
+<meta property="og:title" content="Privacy Policy - Jim Bakker Show">
 <meta property="og:description" content="What information do we collect? We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. When ordering or registering on our site, as (More...)">
 <meta property="og:url" content="http://jimbakkershow.com/privacy-policy/">
 <meta property="og:site_name" content="Jim Bakker Show">
-<meta property="article:published_time" content="2013-09-26T16:04:32+00:00">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="What information do we collect? We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. When ordering or registering on our site, as (More...)">
+<meta name="twitter:title" content="Privacy Policy - Jim Bakker Show">
+<meta name="twitter:domain" content="Jim Bakker Show">
  
-<link rel="alternate" type="application/rss+xml" title="Jim Bakker Show » Feed" href="http://jimbakkershow.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="Jim Bakker Show » Comments Feed" href="http://jimbakkershow.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Jim Bakker Show » Feed" href="//jimbakkershow.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Jim Bakker Show » Comments Feed" href="//jimbakkershow.com/comments/feed/">
  
 <script type="text/javascript" data-cfasync="false">
   //<![CDATA[
-    (function() {
-      var shr = document.createElement('script');
-      shr.setAttribute('data-cfasync', 'false');
-      shr.src = '//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js';
-      shr.type = 'text/javascript'; shr.async = 'true';
-      shr.onload = shr.onreadystatechange = function() {
-        var rs = this.readyState;
-        if (rs && rs != 'complete' && rs != 'loaded') return;
-        var site_id = '0a0215439336b833101893bde2740575';
-        var page_config = {"apps":{"share_buttons":{"get_share_counts":  function(url, services, cb) {
-    Shareaholic.Utils.ajax({
-      cache: true,
-      cache_ttl: '1 minute',
-      url: 'http://jimbakkershow.com/wp-admin/admin-ajax.php',
-      data: { action: 'shareaholic_share_counts_api', url: url, services: services },
-      success: function(res) {
-        if(res && res.data) {
-          cb(res.data);
-        }
-      }
-    })
-  }}}};
-        try { Shareaholic.init(site_id, page_config); } catch (e) {}
-      };
-      var s = document.getElementsByTagName('script')[0];
-      s.parentNode.insertBefore(shr, s);
-    })();
+    _SHR_SETTINGS = {"endpoints":{"local_recs_url":"http:\/\/jimbakkershow.com\/wp-admin\/admin-ajax.php?action=shareaholic_permalink_related","share_counts_url":"http:\/\/jimbakkershow.com\/wp-admin\/admin-ajax.php?action=shareaholic_share_counts_api"}};
   //]]>
+</script>
+<script type="text/javascript" src="//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js" data-shr-siteid="0a0215439336b833101893bde2740575" data-cfasync="false" async="async">
 </script>
  
 <meta name="shareaholic:site_name" content="Jim Bakker Show">
 <meta name="shareaholic:language" content="en-US">
 <meta name="shareaholic:url" content="http://jimbakkershow.com/privacy-policy/">
 <meta name="shareaholic:article_published_time" content="2013-09-26T21:04:32+00:00">
-<meta name="shareaholic:article_modified_time" content="2015-06-09T20:26:15+00:00">
+<meta name="shareaholic:article_modified_time" content="2015-11-25T15:25:37+00:00">
+<meta name="shareaholic:shareable_page" content="true">
 <meta name="shareaholic:article_author_name" content="Megan">
 <meta name="shareaholic:site_id" content="0a0215439336b833101893bde2740575">
 <meta name="shareaholic:wp_version" content="7.4.0.2">
  
 <script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/jimbakkershow.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/jimbakkershow.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"}};
 			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://jimbakkershow.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.2" type="text/javascript"></script>
+		</script><script src="http://jimbakkershow.com/wp-includes/js/wp-emoji-release.min.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba" type="text/javascript"></script>
 <style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
-<link rel="stylesheet" id="flick-css" href="http://jimbakkershow.com/wp-content/plugins/mailchimp//css/flick/flick.css?ver=4.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="mailchimpSF_main_css-css" href="http://jimbakkershow.com/?mcsf_action=main_css&amp;ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="earthquakewidget_css-css" href="//jimbakkershow.com/wp-content/plugins/earthquakemonitor/css/style.css?ver=ca9534e9f4c31aa6abd4deaefc0e42ba" type="text/css" media="all">
+<link rel="stylesheet" id="flick-css" href="//jimbakkershow.com/wp-content/plugins/mailchimp//css/flick/flick.css?ver=ca9534e9f4c31aa6abd4deaefc0e42ba" type="text/css" media="all">
+<link rel="stylesheet" id="mailchimpSF_main_css-css" href="//jimbakkershow.com/?mcsf_action=main_css&amp;ver=ca9534e9f4c31aa6abd4deaefc0e42ba" type="text/css" media="all">
 <!--[if IE]>
-<link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='http://jimbakkershow.com/wp-content/plugins/mailchimp/css/ie.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='//jimbakkershow.com/wp-content/plugins/mailchimp/css/ie.css?ver=ca9534e9f4c31aa6abd4deaefc0e42ba' type='text/css' media='all' />
 <![endif]-->
-<link rel="stylesheet" id="nextgen_gallery_related_images-css" href="http://jimbakkershow.com/wp-content/plugins/nextgen-gallery-new/products/photocrati_nextgen/modules/nextgen_gallery_display/static/nextgen_gallery_related_images.css?ver=4.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="q-a-plus-css" href="http://jimbakkershow.com/wp-content/plugins/q-and-a/css/q-a-plus.css?ver=1.0.6.2" type="text/css" media="screen">
-<link rel="stylesheet" id="theme-my-login-css" href="http://jimbakkershow.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8" type="text/css" media="all">
-<link rel="stylesheet" id="jetpack-subscriptions-css" href="http://jimbakkershow.com/wp-content/plugins/jetpack/modules/subscriptions/subscriptions.css?ver=4.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="http://jimbakkershow.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.5.4" type="text/css" media="all">
-<link rel="stylesheet" id="events-manager-css" href="http://jimbakkershow.com/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.51" type="text/css" media="all">
-<link rel="stylesheet" id="loginradius_sharing_style-css" href="http://jimbakkershow.com/wp-content/plugins/simplified-social-share/assets/css/loginradius_sharing_style.css?ver=4.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="jetpack-widgets-css" href="http://jimbakkershow.com/wp-content/plugins/jetpack/modules/widgets/widgets.css?ver=20121003" type="text/css" media="all">
-<link rel="stylesheet" id="Jim Bakker Show-style-css" href="http://jimbakkershow.com/wp-content/themes/jbs/style.css?ver=4.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="Jim Bakker Show-flexsider-css-css" href="http://jimbakkershow.com/wp-content/themes/jbs/flexslider.css?ver=20130625" type="text/css" media="screen">
-<link rel="stylesheet" id="Jim Bakker Show-print-style-css" href="http://jimbakkershow.com/wp-content/themes/jbs/print.css?ver=20130625" type="text/css" media="print">
-<link rel="stylesheet" id="Jim-Bakker Featured-Events-Styles-css" href="http://jimbakkershow.com/wp-content/themes/jbs/css/featured-events-styles.css?ver=4.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="Jim-Bakker NGG-Overrides-css" href="http://jimbakkershow.com/wp-content/themes/jbs/css/ngg-overrides.css?ver=4.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="flags_tpw_flags_css-css" href="//jimbakkershow.com/wp-content/plugins/transposh-translation-filter-for-wordpress/widgets/flags/tpw_flags_css.css?ver=0.9.4.0" type="text/css" media="all">
-<link rel="stylesheet" id="slidedeck-css" href="http://jimbakkershow.com/wp-content/plugins/slidedeck2-personal/css/slidedeck.css?ver=2.3.9" type="text/css" media="screen">
+<link rel="stylesheet" id="nextgen_gallery_related_images-css" href="//jimbakkershow.com/wp-content/plugins/nextgen-gallery-new/products/photocrati_nextgen/modules/nextgen_gallery_display/static/nextgen_gallery_related_images.css?ver=ca9534e9f4c31aa6abd4deaefc0e42ba" type="text/css" media="all">
+<link rel="stylesheet" id="q-a-plus-css" href="//jimbakkershow.com/wp-content/plugins/q-and-a/css/q-a-plus.css?ver=ca9534e9f4c31aa6abd4deaefc0e42ba" type="text/css" media="screen">
+<link rel="stylesheet" id="theme-my-login-css" href="//jimbakkershow.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=ca9534e9f4c31aa6abd4deaefc0e42ba" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="//jimbakkershow.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=ca9534e9f4c31aa6abd4deaefc0e42ba" type="text/css" media="all">
+<link rel="stylesheet" id="events-manager-css" href="//jimbakkershow.com/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=ca9534e9f4c31aa6abd4deaefc0e42ba" type="text/css" media="all">
+<link rel="stylesheet" id="orgseries-default-css-css" href="//jimbakkershow.com/wp-content/plugins/organize-series/orgSeries.css?ver=ca9534e9f4c31aa6abd4deaefc0e42ba" type="text/css" media="all">
+<link rel="stylesheet" id="stock-ticker-css" href="//jimbakkershow.com/wp-content/plugins/stock-ticker/assets/css/stock-ticker.css?ver=ca9534e9f4c31aa6abd4deaefc0e42ba" type="text/css" media="all">
+<link rel="stylesheet" id="wptg-styles-css" href="//jimbakkershow.com/wp-content/plugins/table-generator/css/style.css?ver=ca9534e9f4c31aa6abd4deaefc0e42ba" type="text/css" media="all">
+<link rel="stylesheet" id="Jim Bakker Show-style-css" href="//jimbakkershow.com/wp-content/themes/jbs/style.css?ver=ca9534e9f4c31aa6abd4deaefc0e42ba" type="text/css" media="all">
+<link rel="stylesheet" id="Jim Bakker Show-flexsider-css-css" href="//jimbakkershow.com/wp-content/themes/jbs/flexslider.css?ver=ca9534e9f4c31aa6abd4deaefc0e42ba" type="text/css" media="screen">
+<link rel="stylesheet" id="Jim Bakker Show-print-style-css" href="//jimbakkershow.com/wp-content/themes/jbs/print.css?ver=ca9534e9f4c31aa6abd4deaefc0e42ba" type="text/css" media="print">
+<link rel="stylesheet" id="Jim-Bakker Featured-Events-Styles-css" href="//jimbakkershow.com/wp-content/themes/jbs/css/featured-events-styles.css?ver=ca9534e9f4c31aa6abd4deaefc0e42ba" type="text/css" media="all">
+<link rel="stylesheet" id="Jim-Bakker NGG-Overrides-css" href="//jimbakkershow.com/wp-content/themes/jbs/css/ngg-overrides.css?ver=ca9534e9f4c31aa6abd4deaefc0e42ba" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="//jimbakkershow.com/wp-content/plugins/jetpack/css/jetpack.css?ver=ca9534e9f4c31aa6abd4deaefc0e42ba" type="text/css" media="all">
+<link rel="stylesheet" id="slidedeck-css" href="//jimbakkershow.com/wp-content/plugins/slidedeck2-personal/css/slidedeck.css?ver=ca9534e9f4c31aa6abd4deaefc0e42ba" type="text/css" media="screen">
  
 <script type="text/javascript">
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -130,7 +111,7 @@ document.getElementsByTagName('html')[0].className += ' js';
 </script>
  
 <script type="text/javascript">
-window.slideDeck2Version = "2.3.9";
+window.slideDeck2Version = "2.3.13";
 window.slideDeck2Distribution = "pro";
 </script>
 <script type="text/javascript">
@@ -138,52 +119,49 @@ window.slideDeck2Distribution = "pro";
 var photocrati_ajax = {"url":"http:\/\/jimbakkershow.com\/photocrati_ajax","wp_site_url":"http:\/\/jimbakkershow.com","wp_site_static_url":"http:\/\/jimbakkershow.com"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-content/plugins/nextgen-gallery-new/products/photocrati_nextgen/modules/ajax/static/ajax.js?ver=4.2.2"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-content/plugins/nextgen-gallery-new/products/photocrati_nextgen/modules/ajax/static/persist.js?ver=4.2.2"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-content/plugins/nextgen-gallery-new/products/photocrati_nextgen/modules/ajax/static/store.js?ver=4.2.2"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-content/plugins/nextgen-gallery-new/products/photocrati_nextgen/modules/ajax/static/ngg_store.js?ver=4.2.2"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-content/plugins/mailchimp/js/scrollTo.js?ver=1.2.14"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.45.0-2013.10.17"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-content/plugins/nextgen-gallery-new/products/photocrati_nextgen/modules/ajax/static/ajax.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-includes/js/jquery/jquery.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-content/plugins/nextgen-gallery-new/products/photocrati_nextgen/modules/ajax/static/persist.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-content/plugins/nextgen-gallery-new/products/photocrati_nextgen/modules/ajax/static/store.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-content/plugins/nextgen-gallery-new/products/photocrati_nextgen/modules/ajax/static/ngg_store.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-content/plugins/mailchimp/js/scrollTo.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba-2014.06.20"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var mailchimpSF = {"ajax_url":"http:\/\/jimbakkershow.com\/"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-content/plugins/mailchimp/js/mailchimp.js?ver=1.2.14"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-content/plugins/mailchimp//js/datepicker.js?ver=4.2.2"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-content/plugins/mailchimp/js/mailchimp.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-includes/js/jquery/ui/core.min.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-content/plugins/mailchimp//js/datepicker.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-includes/js/jquery/ui/widget.min.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-includes/js/jquery/ui/position.min.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-includes/js/jquery/ui/mouse.min.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-includes/js/jquery/ui/sortable.min.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-includes/js/jquery/ui/menu.min.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-includes/js/jquery/ui/resizable.min.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-includes/js/jquery/ui/draggable.min.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-includes/js/jquery/ui/button.min.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-includes/js/jquery/ui/dialog.min.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var EM = {"ajaxurl":"http:\/\/jimbakkershow.com\/wp-admin\/admin-ajax.php","locationajaxurl":"http:\/\/jimbakkershow.com\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"0","locale":"en","dateFormat":"mm\/dd\/yy","ui_css":"http:\/\/jimbakkershow.com\/wp-content\/plugins\/events-manager\/includes\/css\/ui-lightness.css","show24hours":"0","is_ssl":"","txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading...","event_reschedule_warning":"Are you sure you want to reschedule this recurring event? If you do this, you will lose all booking information and the old recurring events will be deleted.","event_detach_warning":"Are you sure you want to detach this event? By doing so, this event will be independent of the recurring set of events.","delete_recurrence_warning":"Are you sure you want to delete all recurrences of this event? All events will be moved to trash."};
+var EM = {"ajaxurl":"http:\/\/jimbakkershow.com\/wp-admin\/admin-ajax.php","locationajaxurl":"http:\/\/jimbakkershow.com\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"0","locale":"en","dateFormat":"mm\/dd\/yy","ui_css":"http:\/\/jimbakkershow.com\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui.min.css","show24hours":"0","is_ssl":"","txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading...","event_reschedule_warning":"Are you sure you want to reschedule this recurring event? If you do this, you will lose all booking information and the old recurring events will be deleted.","event_detach_warning":"Are you sure you want to detach this event? By doing so, this event will be independent of the recurring set of events.","delete_recurrence_warning":"Are you sure you want to delete all recurrences of this event? All events will be moved to trash."};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.51"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-content/plugins/nextgen-gallery-new/products/photocrati_nextgen/modules/lightbox/static/lightbox_context.js?ver=4.2.2"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=0.2.2"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-content/plugins/simplified-social-share/assets/js/loginradius_sharing_admin.js?ver=4.2.2"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-content/plugins/simplified-social-share/assets/js/loginradius_sharing.js?ver=4.2.2"></script>
-<script type="text/javascript" src="//cdn.loginradius.com/share/v1/LoginRadius.js?ver=2.5"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-content/plugins/slidedeck2-personal/js/jquery-mousewheel/jquery.mousewheel.min.js?ver=3.0.6"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-content/plugins/slidedeck2-personal/js/jquery.easing.1.3.js?ver=1.3"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-content/plugins/slidedeck2-personal/js/slidedeck.jquery.js?ver=1.4.1"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-content/plugins/slidedeck2-personal/js/slidedeck-public.js?ver=2.3.9"></script>
-<script type="text/javascript" src="http://platform.twitter.com/widgets.js?ver=1316526300"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://jimbakkershow.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://jimbakkershow.com/wp-includes/wlwmanifest.xml">
-<link rel="shortlink" href="http://wp.me/P4Cajy-7tE">
+<script type="text/javascript" src="//jimbakkershow.com/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-content/plugins/nextgen-gallery-new/products/photocrati_nextgen/modules/lightbox/static/lightbox_context.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-content/plugins/stock-ticker/assets/js/jquery.webticker.min.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-content/plugins/slidedeck2-personal/js/jquery-mousewheel/jquery.mousewheel.min.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-content/plugins/slidedeck2-personal/js/jquery.easing.1.3.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-content/plugins/slidedeck2-personal/js/slidedeck.jquery.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-content/plugins/slidedeck2-personal/js/slidedeck-public.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//platform.twitter.com/widgets.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="//jimbakkershow.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="//jimbakkershow.com/wp-includes/wlwmanifest.xml">
+<link rel="shortlink" href="//jimbakkershow.com/?p=28746">
 <style type="text/css">.addw2p{list-style-type:none;list-style-image:none;}</style>
 <script type="text/javascript">
 		jQuery(function($) {
@@ -213,19 +191,16 @@ var EM = {"ajaxurl":"http:\/\/jimbakkershow.com\/wp-admin\/admin-ajax.php","loca
 	</script>
  
  
-<noscript><link rel="stylesheet" type="text/css" href="http://jimbakkershow.com/wp-content/plugins/q-and-a/css/q-a-plus-noscript.css?ver=1.0.6.2"/></noscript>  <script type="text/javascript">
-			LoginRadius.util.ready(function () { 
-				$i = $SS.Interface.horizontal;
-				$SS.Providers.Top = ["Twitter","Facebook","GooglePlus","Pinterest","Email","Print"];
-				$u = LoginRadius.user_settings;
-				$u.sharecounttype='url';
-				$u.isMobileFriendly = true;
-				$u.apikey = "e0141314-0e25-4d45-9358-00429abe29a7";
-				$i.size = "32"; 
-				$i.show( "lr_horizontal_share" );
-			});
-		</script>
-<link rel="alternate" hreflang="fr" href="/fr/privacy-policy/"><link rel="alternate" hreflang="de" href="/de/privacy-policy/"><link rel="alternate" hreflang="he" href="/he/privacy-policy/"><link rel="alternate" hreflang="it" href="/it/privacy-policy/"><link rel="alternate" hreflang="pl" href="/pl/privacy-policy/"><link rel="alternate" hreflang="pt" href="/pt/privacy-policy/"><link rel="alternate" hreflang="ru" href="/ru/privacy-policy/"><link rel="alternate" hreflang="es" href="/es/privacy-policy/"> <script type="text/javascript">
+<noscript><link rel="stylesheet" type="text/css" href="//jimbakkershow.com/wp-content/plugins/q-and-a/css/q-a-plus-noscript.css?ver=1.0.6.2"/></noscript> 
+<link rel="dns-prefetch" href="//jetpack.wordpress.com">
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//s1.wp.com">
+<link rel="dns-prefetch" href="//s2.wp.com">
+<link rel="dns-prefetch" href="//public-api.wordpress.com">
+<link rel="dns-prefetch" href="//0.gravatar.com">
+<link rel="dns-prefetch" href="//1.gravatar.com">
+<link rel="dns-prefetch" href="//2.gravatar.com">
+<script type="text/javascript">
   WebFontConfig = {
     google: { families: [ 'Lato:400,700,900:latin' ] }
   };
@@ -240,17 +215,7 @@ var EM = {"ajaxurl":"http:\/\/jimbakkershow.com\/wp-admin\/admin-ajax.php","loca
   })(); </script>
 
 <style type="text/css">.recentcomments a{display:inline!important;padding:0!important;margin:0!important;}</style>
-<script type="text/javascript">
-(function(url){
-if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
-var wfscr = document.createElement('script');
-wfscr.type = 'text/javascript';
-wfscr.async = true;
-wfscr.src = url + '&r=' + Math.random();
-(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
-})('//jimbakkershow.com/wp-admin/admin-ajax.php?action=wordfence_logHuman&hid=41A4AFA5148B1C7B91FF61D14CE30291');
-</script><script type="text/javascript" async="" src="//jimbakkershow.com/wp-admin/admin-ajax.php?action=wordfence_logHuman&amp;hid=41A4AFA5148B1C7B91FF61D14CE30291&amp;r=0.9788040867168304"></script> <link rel="stylesheet" id="custom-css-css" type="text/css" href="http://jimbakkershow.com/?custom-css=1&amp;csblog=1&amp;cscache=6&amp;csrev=14">
-<meta name="translation-stats" content="{&quot;total_phrases&quot;:null,&quot;translated_phrases&quot;:null,&quot;human_translated_phrases&quot;:null,&quot;hidden_phrases&quot;:null,&quot;hidden_translated_phrases&quot;:null,&quot;hidden_translateable_phrases&quot;:null,&quot;meta_phrases&quot;:null,&quot;meta_translated_phrases&quot;:null,&quot;time&quot;:null}">
+<link rel="stylesheet" type="text/css" href="//jimbakkershow.com/wp-content/themes/jbs/customcss/override.css">
 </head>
 <body class="page page-id-28746 page-template-default group-blog">
 <div id="page" class="hfeed site">
@@ -273,7 +238,7 @@ wfscr.src = url + '&r=' + Math.random();
 </ul>
 </div>
 <div class="grid-30 alpha omega">
-<form method="get" id="searchform" class="searchform" action="http://jimbakkershow.com/" role="search">
+<form method="get" id="searchform" class="searchform" action="//jimbakkershow.com/" role="search">
  
 <input type="search" class="field" name="s" autocomplete="off" value="" id="s" placeholder="search ">
 <input type="button" class="submit" id="searchsubmit" value="Search">
@@ -281,7 +246,7 @@ wfscr.src = url + '&r=' + Math.random();
 </div>
 </div>
 <nav id="site-navigation" class="navigation-main grid-80" role="navigation">
-<h1 class="menu-toggle"><img src="http://jimbakkershow.com/wp-content/themes/jbs/images/menu.png"></h1>
+<h1 class="menu-toggle"><img src="//jimbakkershow.com/wp-content/themes/jbs/images/menu.png"></h1>
 <div class="screen-reader-text skip-link"><a href="#content" title="Skip to content">Skip to content</a></div>
 <div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-28279" class="no-arrow menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-28279"><a href="http://jimbakkershow.com/">Home</a></li>
 <li id="menu-item-28280" class="watch-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-28280"><a href="http://jimbakkershow.com/watch-us-live/">Watch</a>
@@ -289,9 +254,11 @@ wfscr.src = url + '&r=' + Math.random();
 <li id="menu-item-28282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28282"><a href="http://jimbakkershow.com/watch-us-live/">Live Stream</a></li>
 <li id="menu-item-28290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28290"><a href="http://jimbakkershow.com/show-schedule/">Schedule &amp; Events</a></li>
 <li id="menu-item-28283" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28283"><a href="/video">Video On Demand</a></li>
-<li id="menu-item-28284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28284"><a href="http://jimbakkershow.com/watch-us-live/local-tv-station-broadcast-listings/">Broadcast Listings</a></li>
+<li id="menu-item-64262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64262"><a href="http://jimbakkershow.com/breaking-prophetic-news/">Breaking Prophetic News</a></li>
+<li id="menu-item-28284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28284"><a href="http://jimbakkershow.com/watch-us-live/local-tv-station-broadcast-listings/">Local TV Station Broadcast Listings</a></li>
 </ul>
 </li>
+<li id="menu-item-28311" class="no-arrow menu-item menu-item-type-custom menu-item-object-custom menu-item-28311"><a href="/news">News</a></li>
 <li id="menu-item-28285" class="prayer-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-28285"><a href="http://jimbakkershow.com/prayer-center/">Prayer</a>
 <ul class="sub-menu">
 <li id="menu-item-28291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28291"><a href="http://jimbakkershow.com/prayer-center/devotions/">Devotions</a></li>
@@ -308,10 +275,9 @@ wfscr.src = url + '&r=' + Math.random();
 <li id="menu-item-28297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28297"><a href="http://jimbakkershow.com/about-us/">Jim Bakker Show</a></li>
 <li id="menu-item-28298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28298"><a href="http://jimbakkershow.com/loris-house/">Lori’s House</a></li>
 <li id="menu-item-28299" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28299"><a href="http://jimbakkershow.com/about-us/about-jim/">Jim Bakker</a></li>
-<li id="menu-item-28303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28303"><a href="http://jimbakkershow.com/morningsidemastersmedia/">Master’s Media</a></li>
+<li id="menu-item-28303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28303"><a href="http://jimbakkershow.com/morningside-school-of-media/">Master’s Media</a></li>
 <li id="menu-item-28301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28301"><a href="http://jimbakkershow.com/about-us/about-lori/">Lori Bakker</a></li>
 <li id="menu-item-30913" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30913"><a href="http://jimbakkershow.com/photo-galleries/">Photos</a></li>
-<li id="menu-item-58081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58081"><a href="http://jimbakkershow.com/contact-us/employment/">Employment</a></li>
 <li id="menu-item-60002" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60002"><a href="http://jimbakkershow.com/branson-mill/">Branson Mill</a></li>
 <li id="menu-item-60056" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60056"><a title="Ministry Friends" href="http://jimbakkershow.com/ministry-friends/">Ministry Friends</a></li>
 </ul>
@@ -329,8 +295,8 @@ wfscr.src = url + '&r=' + Math.random();
 <li id="menu-item-60089" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60089"><a href="http://jimbakkershow.com/contact-us/">Contact Us</a></li>
 </ul>
 </li>
-<li id="menu-item-28311" class="no-arrow menu-item menu-item-type-custom menu-item-object-custom menu-item-28311"><a href="/news">News</a></li>
-<li id="menu-item-28312" class="no-arrow menu-item menu-item-type-custom menu-item-object-custom menu-item-28312"><a href="/lovegifts">Love Gifts</a></li>
+<li id="menu-item-66321" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66321"><a href="http://jimbakkershow.applicantpro.com/">Employment</a></li>
+<li id="menu-item-28312" class="no-arrow menu-item menu-item-type-custom menu-item-object-custom menu-item-28312"><a href="/lovegifts">Store</a></li>
 </ul></div> </nav> 
 <div class="navlinks grid-20 hide-mobile">
 <div class="menu-nav-menu-links-container"><ul id="menu-nav-menu-links" class="menu"><li id="menu-item-28313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28313"><a href="http://jimbakkershow.com/contact-us/">Contact</a></li>
@@ -345,7 +311,9 @@ wfscr.src = url + '&r=' + Math.random();
 <div id="content" class="site-content" role="main">
 <article id="post-28746" class="post-28746 page type-page status-publish hentry">
 <header class="entry-header">
-<p id="breadcrumbs"><span xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a href="http://jimbakkershow.com" rel="v:url" property="v:title">Home</a></span> &gt; <span typeof="v:Breadcrumb"><strong class="breadcrumb_last" property="v:title">Privacy Policy</strong></span></span></p> <h1 class="entry-title">Privacy Policy</h1>
+ 
+ 
+<p id="breadcrumbs"><span xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a href="http://jimbakkershow.com" rel="v:url" property="v:title">Home</a> » <strong class="breadcrumb_last">Privacy Policy</strong></span></span></p> <h1 class="entry-title">Privacy Policy</h1>
 </header> 
 <div class="entry-content">
 <hr>
@@ -420,38 +388,38 @@ If there are any questions regarding this privacy policy you may contact us usin
 Blue Eye, Missouri 65611<br>
 United States</p>
 <p>Email:<br>
-website@jimbakkershow.com<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></p>
+website@jimbakkershow.com</p>
 <p>Phone Number:<br>
 417-779-9000</p> <div class="shareaholic-canvas" data-app-id="5732739" data-app="share_buttons" data-title="Privacy Policy" data-link="http://jimbakkershow.com/privacy-policy/" data-summary=""></div> </div> 
 </article> 
 </div> 
 </div> 
 <div id="secondary" class="widget-area grid-30" role="complementary">
-<aside id="widget_sp_image-14" class="widget widget_sp_image"><a href="http://jimbakkershow.com/lovegifts/one-time-donation.html" target="_blank" class="widget_sp_image-image-link" title="Partner with Us"><img width="290" height="137" src="http://jimbakkershow.com/wp-content/uploads/2013/11/partner-290x1371.jpg"></a></aside><aside id="widget_sp_image-21" class="widget widget_sp_image"><a href="http://jimbakkershow.com/wp-content/uploads/2015/04/pH2O-Booklet.pdf" target="_self" class="widget_sp_image-image-link" title="Download Water Is Life Booklet"><img width="290" height="110" src="http://jimbakkershow.com/wp-content/uploads/2015/04/water-is-life-booklet.jpg"></a></aside><aside id="text-7" class="widget widget_text"><h3 class="widget-title"><a href="/upcoming-events">Upcoming Events</a></h3> <div class="textwidget"><div class="event_banner alt_event first_event"><a href="http://jimbakkershow.com/events/rabbi-jonathan-cahn/" rel="bookmark" title="Rabbi Jonathan Cahn 11:30 am Jun 24-25, 2015"><img class="full_banner" alt="Rabbi Jonathan Cahn 11:30 am Jun 24-25, 2015" src="http://jimbakkershow.com/wp-content/uploads/2015/04/Rabbi-Cahn-Sidebar-IMGV2.jpg"></a></div></div>
-</aside><aside id="widget_sp_image-16" class="widget widget_sp_image"><a href="http://jimbakkershow.com/prayer-center/prayer-request-form/" target="_self" class="widget_sp_image-image-link" title="Prayer Request Button"><img width="290" height="137" src="http://jimbakkershow.com/wp-content/uploads/2013/11/prayer-side-bar-button.jpg"></a></aside><aside id="latest-news-3" class="widget news_list"><h3 class="widget-title"><a href="http://jimbakkershow.com/department/morningside-news/" title="Morningside">Morningside News</a></h3><ul><li><a href="http://jimbakkershow.com/news/morningside-church-celebrates-grand-opening-loris-house-maternity-home/" title="Morningside Church celebrates GRAND OPENING of Lori’s House Maternity Home!" class="title-link">Morningside Church celebrates GRAND OPENING of Lori’s House Maternity Home!</a></li>
-<li><a href="http://jimbakkershow.com/news/morningside-church-4th-july-family-fair/" title="Morningside Church 4th of July Family Fair!" class="title-link">Morningside Church 4th of July Family Fair!</a></li>
-<li><a href="http://jimbakkershow.com/news/celebrate-4th-july-concert-style/" title="Celebrate the 4th of July, Concert style!" class="title-link">Celebrate the 4th of July, Concert style!</a></li>
-<li><a href="http://jimbakkershow.com/news/new-store-location-branson-mill-craft-mall/" title="New Branson Mill Store Benefits Lori’s House" class="title-link">New Branson Mill Store Benefits Lori’s House</a></li>
-<li><a href="http://jimbakkershow.com/news/final-week-bonus-food-offers/" title="Final Week for Bonus Food Offers!" class="title-link">Final Week for Bonus Food Offers!</a></li>
+<aside id="widget_sp_image-14" class="widget widget_sp_image"><a href="http://jimbakkershow.com/lovegifts/one-time-donation.html" id="" target="_blank" class="widget_sp_image-image-link" title="Partner with Us"><img width="290" height="137" src="//jimbakkershow.com/wp-content/uploads/2013/11/partner-290x1371.jpg"></a></aside><aside id="text-14" class="widget widget_text"> <div class="textwidget"><div class="event_banner alt_event first_event"><a href="http://jimbakkershow.com/events/the-lefevre-quartet/" rel="bookmark" title="The LeFevre Quartet 11:30 am Dec 1, 2015"><img class="full_banner" alt="The LeFevre Quartet 11:30 am Dec 1, 2015" src="//jimbakkershow.com/wp-content/uploads/2015/10/lefevre-quartet-sidbar1.jpg"></a></div><div class="event_banner even_event"><a href="http://jimbakkershow.com/events/steve-strang/" rel="bookmark" title="Steve Strang 11:30 am Dec 1, 2015"><img class="full_banner" alt="Steve Strang 11:30 am Dec 1, 2015" src="//jimbakkershow.com/wp-content/uploads/2015/11/steve-strang-sidebar.jpg"></a></div><div class="event_banner alt_event"><a href="http://jimbakkershow.com/events/william-koenig/" rel="bookmark" title="William Koenig 11:30 am Dec 3, 2015"><img class="full_banner" alt="William Koenig 11:30 am Dec 3, 2015" src="//jimbakkershow.com/wp-content/uploads/2015/10/william-koenig-sidebar1.jpg"></a></div></div>
+</aside><aside id="widget_sp_image-16" class="widget widget_sp_image"><a href="http://jimbakkershow.com/prayer-center/prayer-request-form/" id="" target="_self" class="widget_sp_image-image-link" title="Prayer Request Button"><img width="290" height="137" src="//jimbakkershow.com/wp-content/uploads/2013/11/prayer-side-bar-button.jpg"></a></aside><aside id="latest-news-3" class="widget news_list"><h3 class="widget-title"><a href="http://jimbakkershow.com/department/morningside-news/" title="Morningside">Morningside News</a></h3><ul><li><a href="http://jimbakkershow.com/news/jim-bakker-show-taping-sunday-update-on-paris/" title="Jim Bakker Show Taping Sunday – Update on Paris" class="title-link">Jim Bakker Show Taping Sunday – Update on Paris</a></li>
+<li><a href="http://jimbakkershow.com/news/pastor-jim-bakker-and-rick-wiles-discuss-paris-attacks/" title="Pastor Jim Bakker and Rick Wiles discuss Paris Attacks" class="title-link">Pastor Jim Bakker and Rick Wiles discuss Paris Attacks</a></li>
+<li><a href="http://jimbakkershow.com/news/morningside-announces-william-koenigs-return-to-the-jim-bakker-show/" title="Morningside Announces William Koenig’s Return to the Jim Bakker Show!" class="title-link">Morningside Announces William Koenig’s Return to the Jim Bakker Show!</a></li>
+<li><a href="http://jimbakkershow.com/news/the-lefevre-quartet-coming-soon-to-the-jim-bakker-show/" title="The LeFevre Quartet ~ Coming Soon to the Jim Bakker Show!" class="title-link">The LeFevre Quartet ~ Coming Soon to the Jim Bakker Show!</a></li>
+<li><a href="http://jimbakkershow.com/news/tom-horn-back-at-morningside-november-24th/" title="Tom Horn Back at Morningside November 24th" class="title-link">Tom Horn Back at Morningside November 24th</a></li>
 </ul></aside><aside id="text-8" class="widget widget_text"><h3 class="widget-title">Today’s Verse</h3> <div class="textwidget"><p>The Lord is compassionate and merciful, slow to get angry and filled with unfailing love. (NLT)</p>
 <p><a class="prayer-request button" href="/prayer-center">Prayer Room</a></p>
+<p>24/7 Prayer Hotline:<span> Call 417-779-9000</span></p>
 </div>
-</aside><aside id="popular-news-3" class="widget pop_news"><h3 class="widget-title">Popular News</h3><ul><li><a href="http://jimbakkershow.com/news/seychelles-ph2o-pure-water-bottle/" title="Brand New! Seychelle’s pH2O Pure Water Bottle!" class="title-link">Brand New! Seychelle’s pH2O Pure Water Bottle!</a></li>
-<li><a href="http://jimbakkershow.com/news/john-paul-jackson-passes-away/" title="John Paul Jackson Passes Away" class="title-link">John Paul Jackson Passes Away</a></li>
-<li><a href="http://jimbakkershow.com/news/celebrating-john-paul-jackson/" title="Celebrating John Paul Jackson" class="title-link">Celebrating John Paul Jackson</a></li>
-<li><a href="http://jimbakkershow.com/news/netanyahu-delivers-strong-warning-congress/" title="Netanyahu Delivers Strong Warning To Congress" class="title-link">Netanyahu Delivers Strong Warning To Congress</a></li>
-<li><a href="http://jimbakkershow.com/news/terrorist-attack-jerusalem-wounds-seven/" title="Terrorist Attack In Jerusalem Wounds Seven" class="title-link">Terrorist Attack In Jerusalem Wounds Seven</a></li>
+</aside><aside id="popular-news-3" class="widget pop_news"><h3 class="widget-title">Popular News</h3><ul><li><a href="http://jimbakkershow.com/news/message-jonathan-cahn-updated-detail-call-national-prayer-august-2015/" title="UPDATED: Message From Rabbi Jonathan Cahn" class="title-link">UPDATED: Message From Rabbi Jonathan Cahn</a></li>
+<li><a href="http://jimbakkershow.com/news/join-pastor-jim-bakker-shemitah-final-update/" title="Join Pastor Jim Bakker for The Shemitah: Final Update" class="title-link">Join Pastor Jim Bakker for The Shemitah: Final Update</a></li>
+<li><a href="http://jimbakkershow.com/news/fallen-megachurch-pastor-says-gospel-allows-seen-embarrassing-worst/" title="Fallen Megachurch Pastor Says Gospel Allows Him To Be Seen at “Most Embarrassing Worst”" class="title-link">Fallen Megachurch Pastor Says Gospel Allows Him To Be Seen at “Most Embarrassing Worst”</a></li>
+<li><a href="http://jimbakkershow.com/news/wnd-harbinger-man-time-now-prepare/" title="WND: Harbinger Man: ‘The time is now to prepare’" class="title-link">WND: Harbinger Man: ‘The time is now to prepare’</a></li>
+<li><a href="http://jimbakkershow.com/news/hamas-strikes-israel-idf-responds-air-strikes/" title="Hamas Strikes Israel; IDF Responds with Air Strikes" class="title-link">Hamas Strikes Israel; IDF Responds with Air Strikes</a></li>
 </ul></aside> </div> 
 </div> 
 </div> 
 <div class="expand">Community<span>»</span></div>
 <div class="footer-expand">
 <div class="container">
-<div id="text-3" class="widget widget_text grid-33"><h3 class="widget-title">Join us on Facebook</h3> <div class="textwidget"><iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fjimbakkershow&amp;width=292&amp;height=380&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:380px;" allowtransparency="true"></iframe></div>
-</div><div id="text-11" class="widget widget_text grid-33"><h3 class="widget-title">Twitter</h3> <div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/JimBakkerShow" data-widget-id="381080041464934400">Tweets by @JimBakkerShow</a>
+<div id="text-3" class="widget widget_text grid-33"><h3 class="widget-title">Like us on Facebook</h3> <div class="textwidget"><iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fjimbakkershow&amp;width=292&amp;height=380&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:380px;" allowtransparency="true"></iframe></div>
+</div><div id="text-11" class="widget widget_text grid-33"><h3 class="widget-title">Follow us on Twitter</h3> <div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/JimBakkerShow" data-widget-id="381080041464934400">Tweets by @JimBakkerShow</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
-</div><div id="recent-comments-2" class="widget jbs_recent_comments grid-33"><h3 class="widget-title">Recent Comments</h3><ul id="jbsrecentcomments"><li class="jbs-comment clearfix"><div class="avatar-cont"><img alt="" src="http://0.gravatar.com/avatar/3c63e90afa96031b993eb9112824f180?s=48&amp;d=mm&amp;r=g" srcset="http://0.gravatar.com/avatar/3c63e90afa96031b993eb9112824f180?s=96&amp;d=mm&amp;r=g 2x" class="avatar avatar-48 photo" height="48" width="48"><span class="author-name">Shar</span></div><div class="comment-post-title"><span style="margin-left:-15px;">News Stories &gt; </span><a href="http://jimbakkershow.com/video/the-echoes-of-the-prophets-day-02/comment-page-1/#comment-20136">The Echoes of the Prophets</a></div><div class="comment-excerpt">Rebecca Sterling has been saying all of this, she doesnt claim to be a prophet but was given a vision …</div></li><li class="jbs-comment clearfix"><div class="avatar-cont"><img alt="" src="http://0.gravatar.com/avatar/3c63e90afa96031b993eb9112824f180?s=48&amp;d=mm&amp;r=g" srcset="http://0.gravatar.com/avatar/3c63e90afa96031b993eb9112824f180?s=96&amp;d=mm&amp;r=g 2x" class="avatar avatar-48 photo" height="48" width="48"><span class="author-name">Shar</span></div><div class="comment-post-title"><span style="margin-left:-15px;">News Stories &gt; </span><a href="http://jimbakkershow.com/blog/command-prepared/comment-page-1/#comment-20104">Be in Command On Being Prepared</a></div><div class="comment-excerpt">Love you guys and thank you for your faithfulness to warn us and urge us and even lay out for …</div></li><li class="jbs-comment clearfix"><div class="avatar-cont"><img alt="" src="http://0.gravatar.com/avatar/ca4e99bdba997ab14b51337ed88fccff?s=48&amp;d=mm&amp;r=g" srcset="http://0.gravatar.com/avatar/ca4e99bdba997ab14b51337ed88fccff?s=96&amp;d=mm&amp;r=g 2x" class="avatar avatar-48 photo" height="48" width="48"><span class="author-name">Billy</span></div><div class="comment-post-title"><span style="margin-left:-15px;">News Stories &gt; </span><a href="http://jimbakkershow.com/blog/command-prepared/comment-page-1/#comment-20102">Be in Command On Being Prepared</a></div><div class="comment-excerpt">Christy, I'm praying for you and many others that are longing to be prepared but feel trapped in your current …</div></li><li class="jbs-comment clearfix"><div class="avatar-cont"><img alt="" src="http://2.gravatar.com/avatar/5c2f96dd6dd61491a3a9cf81bacf01bf?s=48&amp;d=mm&amp;r=g" srcset="http://2.gravatar.com/avatar/5c2f96dd6dd61491a3a9cf81bacf01bf?s=96&amp;d=mm&amp;r=g 2x" class="avatar avatar-48 photo" height="48" width="48"><span class="author-name">sabrina</span></div><div class="comment-post-title"><span style="margin-left:-15px;">News Stories &gt; </span><a href="http://jimbakkershow.com/news/girl-builds-homes-homeless/comment-page-1/#comment-20101">Girl Builds Homes For The Homeless</a></div><div class="comment-excerpt">God bless this girl we can learn from kids , as the Bible says from the mouth of babes …</div></li></ul></div> </div>
+</div><div id="recent-comments-2" class="widget jbs_recent_comments grid-33"><h3 class="widget-title">Recent Comments</h3><ul id="jbsrecentcomments"><li class="jbs-comment clearfix"><div class="avatar-cont"><img alt="" src="//i0.wp.com/graph.facebook.com/v2.2/1057736296/picture?q=type%3Dlarge&amp;resize=48%2C48" srcset="http://0.gravatar.com/avatar/0265863605e84364fb2c85519554c69a?s=96&amp;d=mm&amp;r=g 2x" class="avatar avatar-48 photo" height="48" width="48"><span class="author-name">Martin Semrok</span></div><div class="comment-post-title"><span style="margin-left:-15px;">News Stories &gt; </span><a href="http://jimbakkershow.com/news/u-s-president-obama-meet-russian-president-putin/#comment-32019">U.S. President Obama to Meet with Russian President Putin</a></div><div class="comment-excerpt">The are many Christians who say that the LORD showed them that OBAMA IS THE ANTICHRIST. </div></li><li class="jbs-comment clearfix"><div class="avatar-cont"><img alt="" src="//0.gravatar.com/avatar/3bcc8e988683e318a17fbf8de94c4fae?s=48&amp;d=mm&amp;r=g" srcset="http://0.gravatar.com/avatar/3bcc8e988683e318a17fbf8de94c4fae?s=96&amp;d=mm&amp;r=g 2x" class="avatar avatar-48 photo" height="48" width="48"><span class="author-name">Erick Rodriguez</span></div><div class="comment-post-title"><span style="margin-left:-15px;">News Stories &gt; </span><a href="http://jimbakkershow.com/news/jim-bakker-show-taping-sunday-update-on-paris/#comment-32016">Jim Bakker Show Taping Sunday – Update on Paris</a></div><div class="comment-excerpt">Interesting...thank you for the info Anne. </div></li><li class="jbs-comment clearfix"><div class="avatar-cont"><img alt="" src="//0.gravatar.com/avatar/3bcc8e988683e318a17fbf8de94c4fae?s=48&amp;d=mm&amp;r=g" srcset="http://0.gravatar.com/avatar/3bcc8e988683e318a17fbf8de94c4fae?s=96&amp;d=mm&amp;r=g 2x" class="avatar avatar-48 photo" height="48" width="48"><span class="author-name">Erick Rodriguez</span></div><div class="comment-post-title"><span style="margin-left:-15px;">News Stories &gt; </span><a href="http://jimbakkershow.com/news/seychelles-ph2o-pure-water-bottle/#comment-32015">Brand New! Seychelle’s pH2O Pure Water Bottle!</a></div><div class="comment-excerpt">Hi Maria, you can fill up your pitcher and bottle from any of those options. It's your preference. I would …</div></li><li class="jbs-comment clearfix"><div class="avatar-cont"><img alt="" src="//0.gravatar.com/avatar/3bcc8e988683e318a17fbf8de94c4fae?s=48&amp;d=mm&amp;r=g" srcset="http://0.gravatar.com/avatar/3bcc8e988683e318a17fbf8de94c4fae?s=96&amp;d=mm&amp;r=g 2x" class="avatar avatar-48 photo" height="48" width="48"><span class="author-name">Erick Rodriguez</span></div><div class="comment-post-title"><span style="margin-left:-15px;">News Stories &gt; </span><a href="http://jimbakkershow.com/news/earthquakes-rock-oklahoma-kansas-oregon/#comment-32014">Earthquakes Rock Oklahoma, Kansas, Oregon</a></div><div class="comment-excerpt">Hi Barbara you can find the generator and accessories here--&gt;http://jimbakkershow.com/lovegifts/fuel-less-generator.html Let us know if there's anything else we can help …</div></li></ul></div><div id="widget_sp_image-25" class="widget widget_sp_image grid-33"><a href="https://www.facebook.com/jimbakkershow" id="" target="_blank" class="widget_sp_image-image-link" title="Like us on Facebook"><img width="300" height="100" src="//jimbakkershow.com/wp-content/uploads/2015/08/facebook-300x100.jpg"></a></div><div id="widget_sp_image-26" class="widget widget_sp_image grid-33"><a href="https://twitter.com/JimBakkerShow" id="" target="_blank" class="widget_sp_image-image-link" title="Follow us on Twitter"><img width="300" height="100" src="//jimbakkershow.com/wp-content/uploads/2015/08/twitter-300x100.jpg"></a></div><div id="widget_sp_image-27" class="widget widget_sp_image grid-33"><a href="https://www.youtube.com/user/MorningsideStudios" id="" target="_blank" class="widget_sp_image-image-link" title="Watch us on YouTube"><img width="300" height="100" src="//jimbakkershow.com/wp-content/uploads/2015/08/youtube-300x100.jpg"></a></div> </div>
 </div> 
 <footer id="colophon" class="site-footer" role="contentinfo">
 <div class="footeraction-cont">
@@ -478,7 +446,17 @@ website@jimbakkershow.com<script cf-hash="f9e31" type="text/javascript">
 <li id="menu-item-28330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28330"><a href="http://jimbakkershow.com/watch-us-live/">Live Stream</a></li>
 <li id="menu-item-28331" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28331"><a href="/video">Video On Demand</a></li>
 <li id="menu-item-28332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28332"><a href="http://jimbakkershow.com/show-schedule/">Schedule &amp; Events</a></li>
-<li id="menu-item-28333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28333"><a href="http://jimbakkershow.com/watch-us-live/local-tv-station-broadcast-listings/">Broadcast Listings</a></li>
+<li id="menu-item-28333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28333"><a href="http://jimbakkershow.com/watch-us-live/local-tv-station-broadcast-listings/">Local TV Station Broadcast Listings</a></li>
+</ul>
+</li>
+<li id="menu-item-64637" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-64637"><a href="http://jimbakkershow.com/news/">News</a>
+<ul class="sub-menu">
+<li id="menu-item-44478" class="menu-item menu-item-type-taxonomy menu-item-object-department menu-item-44478"><a href="http://jimbakkershow.com/department/united-states/">US</a></li>
+<li id="menu-item-44477" class="menu-item menu-item-type-taxonomy menu-item-object-department menu-item-44477"><a href="http://jimbakkershow.com/department/world/">World</a></li>
+<li id="menu-item-44482" class="menu-item menu-item-type-taxonomy menu-item-object-department menu-item-44482"><a href="http://jimbakkershow.com/department/israel/">Israel</a></li>
+<li id="menu-item-44483" class="menu-item menu-item-type-taxonomy menu-item-object-department menu-item-44483"><a href="http://jimbakkershow.com/department/inspirational/">Inspirational</a></li>
+<li id="menu-item-44480" class="menu-item menu-item-type-taxonomy menu-item-object-department menu-item-44480"><a href="http://jimbakkershow.com/department/revelation/">Revelation</a></li>
+<li id="menu-item-44479" class="menu-item menu-item-type-taxonomy menu-item-object-department menu-item-44479"><a href="http://jimbakkershow.com/department/health-science/">Health &amp; Science</a></li>
 </ul>
 </li>
 <li id="menu-item-28337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-28337"><a href="http://jimbakkershow.com/prayer-center/">Prayer</a>
@@ -497,7 +475,7 @@ website@jimbakkershow.com<script cf-hash="f9e31" type="text/javascript">
 <li id="menu-item-28741" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28741"><a href="http://jimbakkershow.com/about-us/">Jim Bakker Show</a></li>
 <li id="menu-item-28343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28343"><a href="http://jimbakkershow.com/about-us/about-jim/">Jim Bakker</a></li>
 <li id="menu-item-28342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28342"><a href="http://jimbakkershow.com/about-us/about-lori/">Lori Bakker</a></li>
-<li id="menu-item-28346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28346"><a href="http://jimbakkershow.com/morningsidemastersmedia/">Master’s Media</a></li>
+<li id="menu-item-28346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28346"><a href="http://jimbakkershow.com/morningside-school-of-media/">Master’s Media</a></li>
 <li id="menu-item-28347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28347"><a href="http://jimbakkershow.com/loris-house/">Lori’s House</a></li>
 <li id="menu-item-28743" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28743"><a href="http://jimbakkershow.com/about-us/faqs/">F.A.Q.s</a></li>
 </ul>
@@ -512,18 +490,8 @@ website@jimbakkershow.com<script cf-hash="f9e31" type="text/javascript">
 <li id="menu-item-28354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28354"><a href="http://jimbakkershow.com/morningside/condo-rentals/">Condo Rentals</a></li>
 <li id="menu-item-28352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28352"><a href="http://jimbakkershow.com/morningside/morningside-rv-park/">RV Park</a></li>
 <li id="menu-item-28745" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28745"><a href="http://jimbakkershow.com/morningside/campground/">Campground</a></li>
-<li id="menu-item-58082" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58082"><a href="http://jimbakkershow.com/contact-us/employment/">Employment</a></li>
+<li id="menu-item-66320" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66320"><a href="http://jimbakkershow.applicantpro.com/">Employment</a></li>
 <li id="menu-item-60096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60096"><a href="http://jimbakkershow.com/contact-us/">Contact Us</a></li>
-</ul>
-</li>
-<li id="menu-item-44476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-44476"><a href="http://jimbakkershow.com/news-events/">News</a>
-<ul class="sub-menu">
-<li id="menu-item-44478" class="menu-item menu-item-type-taxonomy menu-item-object-department menu-item-44478"><a href="http://jimbakkershow.com/department/united-states/">US</a></li>
-<li id="menu-item-44477" class="menu-item menu-item-type-taxonomy menu-item-object-department menu-item-44477"><a href="http://jimbakkershow.com/department/world/">World</a></li>
-<li id="menu-item-44482" class="menu-item menu-item-type-taxonomy menu-item-object-department menu-item-44482"><a href="http://jimbakkershow.com/department/israel/">Israel</a></li>
-<li id="menu-item-44483" class="menu-item menu-item-type-taxonomy menu-item-object-department menu-item-44483"><a href="http://jimbakkershow.com/department/inspirational/">Inspirational</a></li>
-<li id="menu-item-44480" class="menu-item menu-item-type-taxonomy menu-item-object-department menu-item-44480"><a href="http://jimbakkershow.com/department/revelation/">Revelation</a></li>
-<li id="menu-item-44479" class="menu-item menu-item-type-taxonomy menu-item-object-department menu-item-44479"><a href="http://jimbakkershow.com/department/health-science/">Health &amp; Science</a></li>
 </ul>
 </li>
 </ul></div> </div>
@@ -544,7 +512,7 @@ website@jimbakkershow.com<script cf-hash="f9e31" type="text/javascript">
 
 </div>
 <div class="grid-70">
-<div id="transposh-2" class="widget widget_transposh"><div class="no_translate transposh_flags"><a href="/privacy-policy/" class="tr_active"><span title="English" class="trf trf-us"></span></a><a href="/privacy-policy/" class="tr_active">English</a><br><a href="/fr/privacy-policy/"><span title="Français" class="trf trf-fr"></span></a><a href="/fr/privacy-policy/">Français</a><br><a href="/de/privacy-policy/"><span title="Deutsch" class="trf trf-de"></span></a><a href="/de/privacy-policy/">Deutsch</a><br><a href="/he/privacy-policy/"><span title="עברית" class="trf trf-il"></span></a><a href="/he/privacy-policy/">עברית</a><br><a href="/it/privacy-policy/"><span title="Italiano" class="trf trf-it"></span></a><a href="/it/privacy-policy/">Italiano</a><br><a href="/pl/privacy-policy/"><span title="Polski" class="trf trf-pl"></span></a><a href="/pl/privacy-policy/">Polski</a><br><a href="/pt/privacy-policy/"><span title="Português" class="trf trf-pt"></span></a><a href="/pt/privacy-policy/">Português</a><br><a href="/ru/privacy-policy/"><span title="Русский" class="trf trf-ru"></span></a><a href="/ru/privacy-policy/">Русский</a><br><a href="/es/privacy-policy/"><span title="Español" class="trf trf-es"></span></a><a href="/es/privacy-policy/">Español</a><br></div><div id="tr_credit"></div></div> </div>
+</div>
 <div class="grid-40" style="padding-top:4em;">
 <div class="menu-footer-bottom-nav-links-container"><ul id="menu-footer-bottom-nav-links" class="menu"><li id="menu-item-28421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28421"><a href="http://jimbakkershow.com/terms-and-conditions/">Terms and Conditions</a></li>
 <li id="menu-item-28422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28422"><a href="http://jimbakkershow.com/copyright-statement/">Copyright Statement</a></li>
@@ -563,7 +531,7 @@ website@jimbakkershow.com<script cf-hash="f9e31" type="text/javascript">
 <form method="post" action="#mc_signup" id="mc_signup_form">
 <input type="hidden" id="mc_submit_type" name="mc_submit_type" value="html">
 <input type="hidden" name="mcsf_action" value="mc_submit_signup_form">
-<input type="hidden" id="_mc_submit_signup_form_nonce" name="_mc_submit_signup_form_nonce" value="b2fa92af9e">
+<input type="hidden" id="_mc_submit_signup_form_nonce" name="_mc_submit_signup_form_nonce" value="284c443415">
 <div class="mc_form_inside">
 <div class="updated" id="mc_message">
 </div> 
@@ -602,38 +570,26 @@ Signup For </div>
 <input type="checkbox" name="group[1157][1]" id="mc_interest_1157_Jim Bakker Show Newsletter" class="mc_interest" value="Jim Bakker Show Newsletter">
 <label for="mc_interest_1157_Jim Bakker Show Newsletter" class="mc_interest_label">Jim Bakker Show Newsletter</label>
 <br>
-<input type="checkbox" name="group[1157][2]" id="mc_interest_1157_Jim's Blog" class="mc_interest" value="Jim's Blog">
-<label for="mc_interest_1157_Jim's Blog" class="mc_interest_label">Jim's Blog</label>
+<input type="checkbox" name="group[1157][2]" id="mc_interest_1157_Show Tapings &amp; Events" class="mc_interest" value="Show Tapings &amp; Events">
+<label for="mc_interest_1157_Show Tapings &amp; Events" class="mc_interest_label">Show Tapings &amp; Events</label>
 <br>
-<input type="checkbox" name="group[1157][3]" id="mc_interest_1157_Lori's Blog" class="mc_interest" value="Lori's Blog">
-<label for="mc_interest_1157_Lori's Blog" class="mc_interest_label">Lori's Blog</label>
+<input type="checkbox" name="group[1157][3]" id="mc_interest_1157_Revelation News" class="mc_interest" value="Revelation News">
+<label for="mc_interest_1157_Revelation News" class="mc_interest_label">Revelation News</label>
 <br>
 <input type="checkbox" name="group[1157][4]" id="mc_interest_1157_Love Gift Offers" class="mc_interest" value="Love Gift Offers">
 <label for="mc_interest_1157_Love Gift Offers" class="mc_interest_label">Love Gift Offers</label>
 <br>
-<input type="checkbox" name="group[1157][5]" id="mc_interest_1157_Televised Events" class="mc_interest" value="Televised Events">
-<label for="mc_interest_1157_Televised Events" class="mc_interest_label">Televised Events</label>
+<input type="checkbox" name="group[1157][5]" id="mc_interest_1157_Jim's Blog" class="mc_interest" value="Jim's Blog">
+<label for="mc_interest_1157_Jim's Blog" class="mc_interest_label">Jim's Blog</label>
 <br>
-<input type="checkbox" name="group[1157][6]" id="mc_interest_1157_Web Streamed Events" class="mc_interest" value="Web Streamed Events">
-<label for="mc_interest_1157_Web Streamed Events" class="mc_interest_label">Web Streamed Events</label>
+<input type="checkbox" name="group[1157][6]" id="mc_interest_1157_Lori's Blog" class="mc_interest" value="Lori's Blog">
+<label for="mc_interest_1157_Lori's Blog" class="mc_interest_label">Lori's Blog</label>
 <br>
-<input type="checkbox" name="group[1157][7]" id="mc_interest_1157_Revelation in the News" class="mc_interest" value="Revelation in the News">
-<label for="mc_interest_1157_Revelation in the News" class="mc_interest_label">Revelation in the News</label>
+<input type="checkbox" name="group[1157][7]" id="mc_interest_1157_Zach's Blog" class="mc_interest" value="Zach's Blog">
+<label for="mc_interest_1157_Zach's Blog" class="mc_interest_label">Zach's Blog</label>
 <br>
-<input type="checkbox" name="group[1157][8]" id="mc_interest_1157_Watchman's Wall" class="mc_interest" value="Watchman's Wall">
-<label for="mc_interest_1157_Watchman's Wall" class="mc_interest_label">Watchman's Wall</label>
-<br>
-<input type="checkbox" name="group[1157][9]" id="mc_interest_1157_Morningside Events" class="mc_interest" value="Morningside Events">
-<label for="mc_interest_1157_Morningside Events" class="mc_interest_label">Morningside Events</label>
-<br>
-<input type="checkbox" name="group[1157][10]" id="mc_interest_1157_Weekly Devotions" class="mc_interest" value="Weekly Devotions">
+<input type="checkbox" name="group[1157][8]" id="mc_interest_1157_Weekly Devotions" class="mc_interest" value="Weekly Devotions">
 <label for="mc_interest_1157_Weekly Devotions" class="mc_interest_label">Weekly Devotions</label>
-<br>
-<input type="checkbox" name="group[1157][11]" id="mc_interest_1157_Morningside Charity Bazaar" class="mc_interest" value="Morningside Charity Bazaar">
-<label for="mc_interest_1157_Morningside Charity Bazaar" class="mc_interest_label">Morningside Charity Bazaar</label>
-<br>
-<input type="checkbox" name="group[1157][12]" id="mc_interest_1157_I Use iPhone / iPad" class="mc_interest" value="I Use iPhone / iPad">
-<label for="mc_interest_1157_I Use iPhone / iPad" class="mc_interest_label">I Use iPhone / iPad</label>
 <br>
 </div> 
 <div class="mergeRow">
@@ -653,41 +609,27 @@ Signup For </div>
 </form> 
 </div> 
 </div></div>
- <script type="text/javascript" src="http://jimbakkershow.com/wp-content/plugins/q-and-a/js/q-a-plus.js?ver=1.0.6.2"></script>
+ <script type="text/javascript" src="//jimbakkershow.com/wp-content/plugins/q-and-a/js/q-a-plus.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var _wpcf7 = {"loaderUrl":"http:\/\/jimbakkershow.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.5.4"></script>
-<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201524"></script>
-<script type="text/javascript" src="http://s.gravatar.com/js/gprofiles.js?ver=2015Junaa"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var WPGroHo = {"my_hash":""};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.2.2"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-content/themes/jbs/js/comment-links.js?ver=20140826"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-content/themes/jbs/js/popup.js?ver=20120206"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-content/themes/jbs/js/jbar.js?ver=20120206"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-content/themes/jbs/js/jquery.flexslider.js?ver=20120206"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-content/themes/jbs/js/navigation.js?ver=20120206"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-content/themes/jbs/js/skip-link-focus-fix.js?ver=20130115"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-content/themes/jbs/js/expand.js?ver=20120202"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-content/themes/jbs/js/jbs.js?ver=20120206"></script>
-<script type="text/javascript" src="http://jimbakkershow.com/wp-content/themes/jbs/js/events-hover.js?ver=20140716"></script>
-<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js?ver=1"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var t_jp = {"ajaxurl":"http:\/\/jimbakkershow.com\/wp-admin\/admin-ajax.php","plugin_url":"\/\/jimbakkershow.com\/wp-content\/plugins\/transposh-translation-filter-for-wordpress","lang":"en","olang":"en","prefix":"tr_","preferred":"1","msn":"1","google":"1","progress":"1","theme":"ui-lightness","jQueryUI":"\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.9.2\/"};
-var t_jp = {"ajaxurl":"http:\/\/jimbakkershow.com\/wp-admin\/admin-ajax.php","plugin_url":"\/\/jimbakkershow.com\/wp-content\/plugins\/transposh-translation-filter-for-wordpress","lang":"en","olang":"en","prefix":"tr_","preferred":"1","msn":"1","google":"1","progress":"1","theme":"ui-lightness","jQueryUI":"\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.9.2\/"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="//jimbakkershow.com/wp-content/plugins/transposh-translation-filter-for-wordpress/js/transposh.js?ver=0.9.4.0"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-content/themes/jbs/js/comment-links.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-content/themes/jbs/js/popup.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-content/themes/jbs/js/jbar.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-content/themes/jbs/js/jquery.flexslider.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-content/themes/jbs/js/navigation.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-content/themes/jbs/js/skip-link-focus-fix.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-content/themes/jbs/js/expand.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-content/themes/jbs/js/jbs.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//jimbakkershow.com/wp-content/themes/jbs/js/events-hover.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js?ver=ca9534e9f4c31aa6abd4deaefc0e42ba"></script>
 <script type="text/javascript"><!--
 			var seriesdropdown = document.getElementById("orgseries_dropdown");
-			if (seriesdropdown) { 
+			if (seriesdropdown) {
 			 function onSeriesChange() {
 					if ( seriesdropdown.options[seriesdropdown.selectedIndex].value != ( 0 || -1 ) ) {
 						location.href = "http://jimbakkershow.com/series/"+seriesdropdown.options[seriesdropdown.selectedIndex].value;
@@ -696,14 +638,6 @@ var t_jp = {"ajaxurl":"http:\/\/jimbakkershow.com\/wp-admin\/admin-ajax.php","pl
 				seriesdropdown.onchange = onSeriesChange;
 			}
 			--></script>
-<div style="display:none">
-<div class="grofile-hash-map-3c63e90afa96031b993eb9112824f180">
-</div>
-<div class="grofile-hash-map-ca4e99bdba997ab14b51337ed88fccff">
-</div>
-<div class="grofile-hash-map-5c2f96dd6dd61491a3a9cf81bacf01bf">
-</div>
-</div>
 <script type="text/javascript">
   (function() {
     var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
@@ -714,12 +648,12 @@ var t_jp = {"ajaxurl":"http:\/\/jimbakkershow.com\/wp-admin\/admin-ajax.php","pl
 var slideDeck2URLPath = "http://jimbakkershow.com/wp-content/plugins/slidedeck2-personal";
 var slideDeck2iframeByDefault = false;
 </script>
-<script src="http://stats.wordpress.com/e-201524.js" type="text/javascript"></script>
+<script type="text/javascript" src="//stats.wp.com/e-201548.js" async="" defer=""></script>
 <script type="text/javascript">
-	st_go({v:'ext',j:'1:2.9.3',blog:'68201460',post:'28746',tz:'-5'});
-	var load_cmc = function(){linktracker_init(68201460,28746,2);};
-	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
-	else load_cmc();
-	</script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"12ea228e49","applicationID":"3765922","transactionName":"MlxRbEMAWEEEAkVRXwsWcltFCFlcShFQX1U=","queueTime":0,"applicationTime":988,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.8.0',blog:'68201460',post:'28746',tz:'-6',srv:'jimbakkershow.com'} ]);
+	_stq.push([ 'clickTrackerInit', '68201460', '28746' ]);
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"12ea228e49","applicationID":"3765922","transactionName":"MlxRbEMAWEEEAkVRXwsWcltFCFlcShFQX1U=","queueTime":0,"applicationTime":827,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
+
 </body></html>
