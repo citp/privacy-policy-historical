@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenville.k12.sc.us privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022359id_/http%3A//www.greenville.k12.sc.us/Departments/main.asp%3Ftitleid%3Detsprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenville.k12.sc.us privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125201311id_/http%3A//www.greenville.k12.sc.us/Departments/main.asp%3Ftitleid%3Detsprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
