@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teechip.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316113336id_/https%3A//teechip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teechip.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125233811id_/http%3A//teechip.com/privacy) for the most accurate reproduction.*
 
 # Sell Custom T-Shirts & Phone Cases Online
 
