@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nc-educationlottery.org privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513045737id_/http%3A//nc-educationlottery.org/legal_privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nc-educationlottery.org privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125184337id_/http%3A//www.nc-educationlottery.org/legal_privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
