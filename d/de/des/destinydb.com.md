@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destinydb.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410021008id_/http%3A//www.destinydb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinydb.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126125303id_/http%3A//www.destinydb.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Destiny Database (DestinyDB)
 
