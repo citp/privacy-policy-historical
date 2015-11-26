@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poetry4kids.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316043746id_/http%3A//www.poetry4kids.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poetry4kids.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126235209id_/http%3A//www.poetry4kids.com/privacypolicy) for the most accurate reproduction.*
 
 # Kenn Nesbitt's Poetry for Kids - Content
 
@@ -44,7 +44,7 @@ Google, as a third party vendor, uses cookies to serve ads on poetry4kids.com.
 
 It is our intention to adhere to the [Self-Regulatory Guidelines for Advertising](http://www.caru.org/guidelines/index.asp) of the [Children's Advertising Review Unit](http://www.caru.org/) of the [Better Business Bureau](http://www.bbb.org/).
 
-As mentioned above, we have done our best to ensure that all the sites linked to from our web site are kid-friendly, but content on the Internet changes minute by minute, so we can't guarantee the content of every site. If you feel that any ad links to an inappropriate website, please [contact us](https://web.archive.org/web/20150316043746id_/http%3A//www.poetry4kids.com/modules.php?name=Feedback) with the name of the site so we may filter it to prevent it from appearing on poetry4kids.com.
+As mentioned above, we have done our best to ensure that all the sites linked to from our web site are kid-friendly, but content on the Internet changes minute by minute, so we can't guarantee the content of every site. If you feel that any ad links to an inappropriate website, please [contact us](http://www.poetry4kids.com/modules.php?name=Feedback) with the name of the site so we may filter it to prevent it from appearing on poetry4kids.com.
 
 If you have any questions about this website, you may contact us at:
 
@@ -63,6 +63,6 @@ kenn@poetry4kids.com
 
 Copyright © by Kenn Nesbitt's Poetry for Kids All Right Reserved.
 
-Published on: 2004-06-21 (83695 reads)
+Published on: 2004-06-21 (89085 reads)
 
 [ Go Back ]
