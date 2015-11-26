@@ -1,64 +1,54 @@
-> *The following text is extracted and transformed from the webng.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629172831id_/http%3A//www.1apps.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webng.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126034846id_/http%3A//dirhost.com/privacy.php) for the most accurate reproduction.*
 
-# Welcome to 1Apps The Premier Free Hosting Site
+# Web Hosting Directory: Find the right host
 
-1Apps.net has created this privacy statement to demonstrate our firm commitment to privacy. This statement sets forth our information gathering and dissemination practices for the 1Apps.net site.
+This Privacy Policy governs the manner in which DirHost.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [DirHost.com](http://dirhost.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by DirHost.com.
 
-**  
-What This Privacy Policy Covers**
+**Personal identification information**
 
-·      This policy covers how 1Apps.net treats personal information that we collects and receive.  Personal information is information about you that is personally identifiable like your name, email address, IP address and that is not otherwise publicly available.
+We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-·      This policy does not apply to the practices of companies that 1Apps.net does not own or control, or to people that 1Apps.net does not employ or manage.
+**Non-personal identification information**
 
-**What We Collect and Where**
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
- Our site uses several different forms that our customers can use to request information, products, and services. From these forms, we collect the following information:
+**Web browser cookies**
 
- ·      Visitors' contact information
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-·      Unique identifiers
+**How we use collected information**
 
-·      IP addresses
+DirHost.com collects and uses Users personal information for the following purposes:
 
-**  
- Children  
-**
+·       \- To improve our Site  
+We continually strive to improve our website offerings based on the information and feedback we receive from you. 
 
-The 1Apps.net service is not available for anyone who is under the age of 13 and are not allowed to register and become a member of 1Apps.net. This web site is not directed at children under 13 years of age.  ** **
+·       \- To improve customer service  
+Your information helps us to more effectively respond to your customer service requests and support needs. 
 
-**What Do We Use This Information For?**
+**How we protect your information**
 
-**Contact Information  
-**  
-We use your contact information to send you information about your account and to get in touch with you when necessary. 
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-Customers can update contact information on 1Apps.net at any time.
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
-**IP addresses  
-**  
-We use your unique network address (IP address) to help diagnose problems with our server, and to administer our web site.
+**Sharing your personal information**
 
-**Cookies** We may use "cookies" to track how users use our web site. A cookie is a piece of software that a web server can store on the users' computer and use to identify the user should they visit the web site again. While not all of the information that we collect from users is personally identifiable, it may be associated with personally identifiable information that users provide us through our web site.  We gather this information for internal use only and will never authorize the release of this information with anyone.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-·  Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+**Third party websites**
 
-· Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy  
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
+**Changes to this privacy policy**
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/policies/technologies/ads/).   
- 
+DirHost.com has the discretion to update this privacy policy at any time. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-**Edit and Delete Your Account Information.**  
+**Your acceptance of these terms**
 
-·      You can edit your account information at any time.
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-·      You can delete your 1Apps.net account at anytime by logging into your control panel.
+**Contacting us**
 
-  **Changes to this Privacy Policy**
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://dirhost.com/contact-us.php)  
 
- 1Apps.net may update this privacy policy at any time. If we update our privacy policy the changes will be displayed on this page.  ** **
-
-**Linked Sites  
-**  
-This site contains links to external web sites. 1Apps.net is not responsible for the privacy practices or the content of these web sites.
