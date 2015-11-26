@@ -1,53 +1,95 @@
-> *The following text is extracted and transformed from the grinnell.edu privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630220455id_/http%3A//mollom.com/web-service-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grinnell.edu privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126160518id_/http%3A//www.grinnell.edu/privacy-statement) for the most accurate reproduction.*
 
-# Web service privacy policy | Mollom
+# Website Privacy Statement | Grinnell College
 
-_This privacy policy explains how Mollom BVBA ("we") processes your personal data. Please read it carefully, as it specifies which rights you have and how you can exercise your rights._
+Grinnell College is committed to protecting your privacy. Any information you voluntarily provide to us such as email address, name, or phone number through a College website will never be sold or traded to other colleges, universities, nonprofit organizations, or businesses.
 
-**Our web service** – We operate a web service that tries to determine the quality of messages posted to a website, and particularly tries to determine whether these messages are to be considered as unsolicited messages (also called "spam"). Nowadays, websites that allow visitors to contribute or post comments (such as blogs, discussion forums, wikis, etc.) are flooded with inappropriate commercial messages that are distracting for all visitors, and are sometimes even highly illegal. These commercial messages are often uploaded in an automatic way. Our service screens messages before they are posted to the website.
+## Information gathered automatically
 
-**How it works** – When you post a message on a website that uses our service (called "the website" in the remainder of this text), the website's server will first send your message – as well as some information about your identity (such as your IP address, name or nickname, e-mail address and OpenID) – to our server. Our server will then compare your message and your identity details with all elements in our database, and perform several complex statistical computations in order to assess the quality of your message (e.g., spam, abuse, etc.).
+Each time you visit Grinnell.edu, or open an email from the College, web analytical information is automatically gathered. Examples of web analytical information include, but are not limited to:
 
-If our server then determines that the content of your message is of insufficient quality or constitutes spam or abuse, it will inform the website thereof. The website server may then decide to reject your message, or to provide you with an additional question to find out whether you are in fact a human being, and not a machine trying to send out as much commercial communications as possible. Also, in case the server is uncertain about the quality of the message, it may forward your message to a human moderator who will assess the quality of your message and act accordingly. Please note that it is sometimes possible that our server or moderators wrongfully determine the actual quality of the content of your message, or wrongfully consider your message as spam or abuse.
-
-**What we store about you** – We store all information provided to us by the website. This will include, in particular, the following personal data about you (to the extent effectively provided to us by the website): the content of your message, your name or nickname, IP address, user ID, OpenID, e-mail address, URL of your website, and the date and time you post a message.
-
-**How long we store this data** – Your data is stored in our databases for at most two months. After this period of two months, we can continue to store your data in anonymized way for a period of two years.
-
-**How we use your personal data** – We use your personal data to assess the quality of your message, and to find out whether your message constitutes spam, by comparing your data with all other data of all other users in our databases. Afterwards, we also use your personal data to make similar assessments for all other websites that use our service, as the more information we store in our database, the better we can assess whether a message is genuine.
-
-While we sometimes provide statistical information (trends, numbers, etc.) generated from our databases to third parties, please rest assured that you cannot be identified on the basis of this statistical information.
-
-Note that we hate spam as much as you do – in fact, our service is specifically targeted at removing spam. So, we will never provide your email address to third parties, and we will never send any spam ourselves to you. In most cases, we will not even be aware of your e-mail address.
-
-Also note that we can provide access to your personal data in case of illegal or abusive use, or in case we receive orders from a competent legal authority.
-
-**How we protect you** – We are bound by the strict rules of Belgian and European data protection legislation, which prevents us from making unlawful use of your personal data. Please note that the website's operator may be bound by other rules, depending on his jurisdiction.
-
-**Your rights** – You have the right to gain access to, correct and/or remove all personal data we store about you on our servers. All this is provided to you free of charge. In order to exercise your rights, please [contact us](https://web.archive.org/contact).
-
-**Revision** – From time to time, we change our products and services which may require us to update our privacy policy accordingly. Your continued use of the website using our service following the posting of any changes to this privay policy means you accept such changes. This policy was last updated on June, 19th 2013.
-
-## Summary
-
-  * We process your personal data on the request of, and for the purposes of, the website you try to contribute to.
-
-| 
-
-  * We are bound by the strict rules of Belgian and European data protection. We take all appropriate means to protect your data against unauthorised access and damaging.
-
-  
----|---  
-  
-  * We screen your message and identity (name, nickname, IP address, user ID, OpenID, email address and URL of your website) by making comparisons with other elements in our database, to determine the quality of the content of your message and to find out whether your message is spam.
-  * Your message may be rejected by our service, and may subsequently also be rejected by the website you want to contribute to.
-  * We store the content of your messages and other information about your identity during a period of two months. Afterwards, we store the same information in anonymized form for a period of two years, in order to provide our service to other websites.
-
-| 
-
-  * We hate spam as much as you do. We will never provide your email address to third parties, or send spam ourselves.
-  * We sometimes provide anonymous (statistical) information to third parties.
-  * We can provide access to your personal data in case of illegal use, or when we receive orders from legal authorities.
-  * You can gain access to, correct and/or remove all personal data we store about you – free of charge – by contacting us.
+  * IP address
+  * Collection date
+  * Publisher name
+  * Connection speed
+  * Day of week, time of day (hour)
+  * Language settings
+  * Country, state, designated market area (DMA), city (relating to IP address, if available)
+  * Web pages viewed
+  * Email clicks or other actions taken
 
 
+
+This web analytical information may be linked with voluntarily-provided personal information to accomplish the following purposes:
+
+  * To provide requested products and services
+  * To respond to your inquiries and provide customer support
+  * For our internal marketing purposes, which include, but are not limited to, sending you material about products, services, updates, etc. that we think may be of interest to you
+  * To analyze how sites and services are being accessed and used
+  * For investigation of information security and information asset protection-related incidents
+  * To test, correct and improve our content, applications and services
+  * To develop new applications, products and services
+  * To improve site and service performance and delivery
+
+
+
+Unless you take steps to browse the Internet anonymously, or opt-out, Grinnell College, similar to most institutions and organizations on the Internet, tracks web browsing patterns to inform understanding of how our sites are being used. Generic information is collected through the use of "cookies," which are text files placed on your computer, to evaluate usage patterns so that we can improve both content and distribution. You may refuse the use of cookies by selecting the appropriate settings on your browser, however, doing so may prevent you from using the full functionality of all of our websites.
+
+Some sections of College-owned websites use Google Analytics, a web analytics service provided by Google, Inc. Google Analytics uses cookies to help us analyze how users use our sites. The information generated by the cookie about your use of the website includes your IP address. This information will be transmitted to and stored by Google on its servers. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity and providing other services relating to Internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+
+Please visit the following pages for more information on Google Analytics [terms of use](http://www.google.com/accounts/TOS) and Google's [privacy practices](http://www.google.com/privacy.html).
+
+## Information you provide to us
+
+To communicate effectively with visitors to our website, we may ask you for personally-identifiable information that can include, by way of illustration, name, email address or phone number. Grinnell College will never sell or trade personally-identifiable information you voluntarily provide to us such as name, email address or phone number, to other colleges, universities, nonprofit organizations, or businesses unless one or more of the following conditions apply:
+
+  * We have your consent to share the information.
+  * We are sharing such information in response to subpoenas, court orders, or legal processes
+
+
+
+## Applicant data
+
+Applicant information may be used by Grinnell College faculty and staff (including temporary and student workers and volunteers) for admissions-related processes such as collecting application materials, reviewing applications, and communicating with applicants and prospective applicants regarding Grinnell College, the admissions process, and their status. It also may be used for institutional research.
+
+Applicant information may be shared with an approved external entity such as a contractor or agent, for the purposes of advancing the College’s admissions process when that entity has strong measures in place to protect the privacy and security of applicant data.
+
+## External links
+
+Some Grinnell College websites may contain links to external websites not owned by, or officially affiliated with, Grinnell College in any way. Grinnell College is not responsible for the privacy practices or the content of such websites.
+
+## Cookies
+
+Cookies are small files that are stored on your computer (unless you block them). We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+## Third-Party Cookies
+
+Cookies may be set by an organization other than Grinnell.edu. These “third-party cookies” may, for example, originate from websites such as YouTube, Twitter, Facebook, Google Plus or other social media services for which Grinnell.edu has implemented “plug-ins.” Since the cookie policies of these sites change over time, you should determine their policies by visiting the privacy policy pages of these sites directly.
+
+You may disable cookies through your individual browser options. If you would like to learn more about cookies please refer to the following website: <http://www.allaboutcookies.org/>
+
+## User Generated Content (Including Comments and Profiles)
+
+We may offer opportunities for you to engage in discussions on Grinnell.edu, including submitting comments and replies on selected news stories. Any information you disclose in your submission of comments, including name, email, website, and the comment itself is property of Grinnell College and visible on internal servers. Additionally, information regarding name and comments shall be public on the site once a comment or reply is approved for submission on the website. Comments are up to the discretion and approval of Grinnell College moderators.
+
+Grinnell College reserves the right to reject or remove thereafter any content from appearing on its site.
+
+## User Generated Content Terms of Use
+
+You shall not upload to, or distribute or otherwise publish on to the Grinnell College website any libelous, defamatory, obscene, pornographic, abusive, or otherwise illegal material; any comment deemed to contain any of the above following. You agree that you will not deliberately disrupt discussions with repetitive messages, meaningless messages or "spam.” You agree not to use language that abuses or discriminates on the basis of race, religion, nationality, gender, sexual preference, age, region, disability, etc. You may not impersonate another user or a Grinnell College faculty or staff member by choosing a similar screen name. You must disclose conflicts of interest. Any comments deemed containing the above will not be approved for distribution or, if approved, will removed thereafter.  
+You acknowledge that any submissions you make to the site (i.e., user-generated comments [each, a "Submission"]) may be edited, removed, modified, published, and displayed on the Grinnell.edu website and you waive any rights you may have in having the material altered or changed in a manner not agreeable to you. Submissions made to the site may also be included in our RSS feeds, APIs and made available for republishing through other formats.
+
+Grinnell College reserves the right to delete, move, or edit submissions that it deems abusive, defamatory, obscene, in violation of copyright or trademark laws, or otherwise unacceptable.
+
+By making a submission, you are consenting to its display and publication on the site and in the services and for related online uses.
+
+When you share or recommend (with or without adding your own comments) any articles or content from the Services to your Facebook, Twitter, or Google+ profile, that action is governed by their respective Privacy Policies.
+
+## Information Protection
+
+To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information we gather about you, we have taken commercially reasonable steps to protect the information. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure.
+
+## Changes to this Statement
+
+This Privacy Statement may be amended from time to time. Any such changes will be posted on this page.  
+ 
