@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the clk.im privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623071813id_/https%3A//clk.im/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clk.im privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126010415id_/http%3A//clk.im/page/privacy) for the most accurate reproduction.*
 
-# Clk.im > Privacy
-
-### Privacy
+# Clk.im | Privacy
 
 ## **_Clk.im Website Privacy Policy_**
 
