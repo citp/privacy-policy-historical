@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the trails.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616152618id_/http%3A//www.trails.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trails.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127000007id_/https%3A//www.trails.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Effective Date: July 1, 2008**
 
-Your privacy is important to Trails ("Trails", "we" or "us"). This Privacy and Information Security Policy ("the Policy") discusses the personally identifying information ("PII") that we collect about you when you use our website [http://www.Trails.com](https://web.archive.org/) (the "Site") and the other services we provide on or through the Site (together with the Site, the "Service"). This Policy is part of and incorporated into the Trails [Terms of Use](https://web.archive.org/terms.aspx) (collectively, the "Terms").
+Your privacy is important to Trails ("Trails", "we" or "us"). This Privacy and Information Security Policy ("the Policy") discusses the personally identifying information ("PII") that we collect about you when you use our website [https://www.Trails.com](https://web.archive.org/) (the "Site") and the other services we provide on or through the Site (together with the Site, the "Service"). This Policy is part of and incorporated into the Trails [Terms of Use](https://web.archive.org/terms.aspx) (collectively, the "Terms").
 
 Policy highlights: 
 
