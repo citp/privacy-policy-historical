@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glassesusa.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510203435id_/http%3A//www.glassesusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassesusa.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126084704id_/http%3A//www.glassesusa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,13 +6,13 @@
   * 365 Day Warranty
   * Free Shipping & Returns
   * Best Price Guarantee
-  * [Cart](http://www.glassesusa.com/checkout/cart/ "Cart")
-  * [My Account](https://www.glassesusa.com/customer/account/login/ "My Account")
+  * [](http://www.glassesusa.com/checkout/cart/ "Cart")
+  *   * [My Account](https://www.glassesusa.com/customer/account/login/ "My Account")
   * 
 
 
   * [Home](http://www.glassesusa.com/ "Go to Home Page")
-  * >
+  * / 
   * Privacy Policy
   * 
 
