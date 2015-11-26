@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qalo.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607235257id_/http%3A//qalo.com/pages/qalo-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qalo.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126053420id_/http%3A//qalo.com/pages/qalo-privacy-policy) for the most accurate reproduction.*
 
 # QALO - Privacy Policy
 
@@ -62,7 +62,7 @@ _________________
 
 Orange, CA 92866
 
-(424) 777-5586
+(714) 464-3252
 
 Email Address: 
 
