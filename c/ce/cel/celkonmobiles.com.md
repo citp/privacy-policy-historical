@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the celkonmobiles.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315022313id_/http%3A//celkonmobiles.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celkonmobiles.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126053117id_/http%3A//www.celkonmobiles.com/privacy-policy) for the most accurate reproduction.*
 
-# Celkon
+# Celkon Mobiles Privacy Policy
 
 Celkon Mobiles will contact you periodically to inform you of your account status, orders, promotions and other information pertinent to your account. By signing up with Celkon Mobiles, you implicitly agree to receive and read these emails and promptly respond when necessary.
 
@@ -22,7 +22,7 @@ Celkon Mobiles promises that we will not sell or rent your personal information 
 
 #### Information we collect
 
-When you use our Site, we collect and store your personal information. from you. Our primary goal in doing so is to provide a safe, efficient, smooth and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our website to make user experience safer and easier. Importantly, we only collect personal information about you that we consider necessary for achieving this purpose. 
+When you use our Site, we collect and store your personal information. from you. Our primary goal in doing so is to provide a safe, efficient, smooth and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our website to make user experience safer and easier. Importantly, we only collect personal information about you that we consider necessary for achieving this purpose.
 
 In general, you can browse the website without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. To fully use our website, you will need to register using our online registration form, where you may be required to provide us with your contact and identity information, residence / place of business information, billing information, shipping information, bank account details and other personal information as indicated on the forms throughout the site. Where possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular service or feature on the Site. You may provide us with a Celkon Mobiles ID.
 
@@ -32,7 +32,7 @@ We use data collection devices such as "cookies" on certain pages of the Site to
 
 Additionally, you may encounter "cookies" or other similar devices on certain pages of the Site that are placed by third parties. For example, if you view a web page created by a user, there may be a "cookie" placed within that webpage. We do not control the use of cookies by third parties.
 
-If you choose to buy on the Site, we collect information about your buying behaviour. We also collect other users' comments about you in our feedback area. 
+If you choose to buy on the Site, we collect information about your buying behaviour. We also collect other users' comments about you in our feedback area.
 
 If you establish an account with us to pay the price of the purchases, we collect some additional information, such as a billing address, a credit card number and a credit card expiration date and tracking information from cheques or money orders. In addition to using the information to fulfil your purchase order, we also retain some of that information in our customer database. We use that information to track your order, to respond to your inquiries and to make subsequent purchases you wish to make easier and faster. We also may use that information, from time to time, to contact you concerning our products, services, sales or special promotions of Celkon Mobiles or our corporate affiliates.
 
@@ -44,7 +44,7 @@ Your privacy is very important to us. Be assured that, in accordance with our Pr
 
 #### Your Consent
 
-By using our website, you consent to the collection, use, and disclosure of information by Celkon Mobiles and to the terms of this privacy policy. If we ever change our privacy policy, we will post any changes on this page so that you≠ are always aware of the information that we collect, how we use it, and under what circumstances we disclose it. If we were to make a material change to our privacy policy, we will either post a notice on our website or send you an e-mail. 
+By using our website, you consent to the collection, use, and disclosure of information by Celkon Mobiles and to the terms of this privacy policy. If we ever change our privacy policy, we will post any changes on this page so that you≠ are always aware of the information that we collect, how we use it, and under what circumstances we disclose it. If we were to make a material change to our privacy policy, we will either post a notice on our website or send you an e-mail.
 
 #### Items and Services offered on the Site by third parties
 
@@ -62,7 +62,7 @@ As part of this, Celkon Mobiles may use Google Analytics, and set cookies and/or
 
 When you place an order online, your personal information and credit card information are encrypted using SSL encryption technology before being sent over the Internet, making it virtually impossible for your information to be stolen or intercepted while being transferred to Celkonmobiles.com. Your credit card information is always stored in encrypted form in a database that is away from our website database so it isn't connected to the Internet, and is therefore safe from hackers. Kindly keep a copy of your Proof of Identity, address and credit card at the time of delivery for verification.
 
-####  Legal Requests 
+#### Legal Requests
 
 We cooperate with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights, to help protect you and the community from bad actors. Therefore, in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can (and you authorize us to) disclose your name, city, state, telephone number, email address, User ID history, fraud complaints, and bidding and listing history without a subpoena. Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, we will not otherwise disclose your personal information to law enforcement or other government officials without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss; or report suspected illegal activity. Further, we can (and you authorize us to) disclose your name, street address, city, state, zip code, country, phone number, email, and company name to Intellectual Property rights' owners under confidentiality agreement, as we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity.
 
