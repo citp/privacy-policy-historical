@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ohiolink.edu privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103065300id_/http%3A//oh-tech.org/node/1188) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohiolink.edu privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126081632id_/http%3A//oh-tech.org/node/1188) for the most accurate reproduction.*
 
 # Privacy Notice | OH-TECH.org
 
-This web site, a service provided by the Ohio Technology Consortium (the research and technology arm of the Ohio Board of Regents), recognizes the importance of privacy to our web site visitors. Therefore, visitors should be aware of the following information.
+This web site, a service provided by the Ohio Technology Consortium (the research and technology arm of the Ohio Department of Higher Education, formerly the Ohio Board of Regents), recognizes the importance of privacy to our web site visitors. Therefore, visitors should be aware of the following information.
 
 ### Public Records
 
@@ -28,7 +28,7 @@ This web site will follow Ohio state laws that require the establishment of reas
 
 ### Confidential Personal Information
 
-Ohio Revised Code 1347.15 requires the Ohio Technology Consortium to adopt administrative rules regulating access to the confidential personal information the agency keeps, whether electronically or on paper. The administrative rules may be found [here](http://codes.ohio.gov/oac/123-4).
+The Ohio Technology Consortium is the technology arm of the Ohio Department of Higher Education. Ohio Revised Code 1347.15 requires the Ohio Department of Higher Education to adopt administrative rules regulating access to the confidential personal information the agency keeps, whether electronically or on paper. The administrative rules for the Ohio Department of Higher Education may be found [here](http://codes.ohio.gov/oac/3333-1). The Department of Higher Education policy on protecting the privacy of personal information may be found [here](https://www.oh-tech.org/sites/oh-tech.org/files/Policy_On_Protecting_Privacy_feb2015.pdf).
 
 ### Access and Dispute of Information Rights
 
