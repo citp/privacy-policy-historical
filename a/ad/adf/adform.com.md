@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adform.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316063211id_/http%3A//site.adform.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adform.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127004108id_/http%3A//site.adform.com/privacy-policy) for the most accurate reproduction.*
 
 # Adform | Privacy Policy & Opt-Out
 
@@ -27,11 +27,11 @@ We are working hard to deliver the best possible experience for all of our users
 
 **Need help with upgrading?** [Click here](mailto:traffic@adform.com?subject=Need%20help%20upgrading%20browser) to contact Adform support and we will help you with transition
 
+You can "Opt-out" from having cookies stored on your PC when ads are shown from the Adform Ad Serving system. To "Opt-out" click the button below once. You will then have a cookie which indicates to our system not to write any cookies when displaying ads. 
+
 ## General Practice
 
 Adform does not collect personally identifiable data from your visit to its domains, including but not limited to www.adform.com, test.adform.com, test.adform.dk and track.adform.net, other than information that you voluntarily supply. By using the Contact Us form or any other publicly available contact channel, you agree that your contact details are correct and rightfully yours. They will be used solely by Adform to respond to your query. With online privacy as its primary concern, Adform continues to support initiatives for self-regulation and laws throughout its markets, such as the regulations of the World Wide Web (W3) group, [Privacy Preferences Projects (P3P)](http://www.w3.org/P3P/), [Internet Advertising Bureau (IAB) Good Practice Principles for Online Behavioural Advertising (OBA)](http://www.youronlinechoices.com/wp-content/uploads/2010/11/IAB-UK-Good-Practice-Principles-for-Online-Behavioural-Advertising.pdf) or the European Union e-Privacy Directive.You can "Opt-out" from having cookies stored on your PC when ads are shown from the Adform Ad Serving system. To "Opt-out" click the button below once. You will then have a cookie which indicates to our system not to write any cookies when displaying ads.
-
-You can "Opt-out" from having cookies stored on your PC when ads are shown from the Adform Ad Serving system. To "Opt-out" click the button below once. You will then have a cookie which indicates to our system not to write any cookies when displaying ads. 
 
 ## Advertising, Content Serving and Web Analytics Technology
 
