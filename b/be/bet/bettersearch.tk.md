@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bettersearch.tk privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529022834id_/http%3A//www.bettersearch.tk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettersearch.tk privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126062655id_/http%3A//www.bettersearch.tk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy OF BetterSearch
 
