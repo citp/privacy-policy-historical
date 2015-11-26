@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fitflop.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612080750id_/http%3A//www.fitflop.com/on/demandware.store/Sites-FFUS-Site/en_US/Page-Show%3Fcid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitflop.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126031153id_/http%3A//www.fitflop.com/en/about-us/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | FitFlop Official Online Store
+# Privacy Policy | FitFlop™ US
 
 * We use information held about you in the following ways:
 
