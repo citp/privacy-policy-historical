@@ -1,0 +1,498 @@
+<!--The following is the downloaded HTML source of the promowebdirectory.com privacy policy that was archived on 2015-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151126035727id_/http%3A//www.bi9di.com/3-privacy-policy/content.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="index, follow">
+
+
+<link href="http://bi9di.com/templates/platinum/css/style.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" src="http://bi9di.com/libs/jQuery/jquery.js"></script>
+<script type="text/javascript" src="http://bi9di.com/js/common.min.js"></script>
+
+<!--[if lte IE 7]>
+<script type="text/javascript" src="http://bi9di.com/libs/jQuery/plugins/jquery.pngFix.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+exdate=new Date();
+exdate.setDate(exdate.getDate() + 365);
+
+</script>
+
+
+
+<script src="/google_analytics_auto.js"></script></head>
+<body>
+
+
+
+<style type="text/css">
+
+
+
+#skin {
+	position: absolute;
+	width: 100%;
+	height: px;
+	margin-left: auto;
+	margin-right: auto;
+	top: 0px;
+	left: 0px;
+	z-index: 1;
+}
+
+#background
+{
+	background: url(http://bi9di.com/images/baners/) no-repeat 50% 0;
+	background-color: #dee0e2;
+	width: 100%;
+	height: px;
+	position: absolute;
+	top:0px;
+	z-index: 1;
+}
+
+</style>
+
+<div id="background"><a href="" id="skin" target="_blank"></a></div>
+
+<script type="text/javascript">
+
+//<![CDATA[
+var frontend = 1;
+
+$(document).ready(function(){
+
+	$("a.nav-parent").click(function() { 
+
+		$(this).parent().find("ul.submenu:first").slideDown('fast').show();
+
+		$(this).parent().hover(function() {
+		}, function(){
+			$(this).parent().find("ul.submenu").slideUp('fast');
+		});
+
+	});
+});
+
+//]]>
+</script>
+
+<!--[if lte IE 7]>
+<script type="text/javascript">
+
+$(document).ready(function(){
+	$(document).pngFix(); 
+});
+
+</script>
+<![endif]-->
+
+<div class="t" style="width: 1200px; min-width: 1200px;"><div class="b"><div class="l"><div class="r"><div class="bl"><div class="br"><div class="tl"><div class="tr">
+
+  <div class="page">
+    <div id="header"> 
+      <div id="topnav"> 
+        <div id="topnav-right"> 
+          <div id="topnav-left">
+			<div class="top-holder">
+									<a href="http://bi9di.com/login.php" class="em1">Sign In</a>
+			&nbsp;or&nbsp;
+			<a href="http://bi9di.com/pre-register.php" class="em1">Register</a>
+			&nbsp;
+			|&nbsp;<a href="http://bi9di.com/favorites.php">Favorites</a>&nbsp;
+			|&nbsp;<a href="http://bi9di.com/contact.php">Contact</a>&nbsp;
+						</div>
+          </div>
+        </div>
+      </div>
+
+	
+
+<div id="choose_location">
+
+<a href="javascript:;" class="choose_location">Choose location&nbsp;<img id="choose_arrow" src="http://bi9di.com/templates/platinum/images/lang-arrow.png" alt=""></a>
+</div>
+<div id="location_div" style="display: none;"></div>
+
+
+<script type="text/javascript">
+
+$(document).ready(function() {
+
+
+		
+		$("#location_div").hide();
+		$("#choose_location").click(function(event){
+
+			if ($("#location_div").is(":visible") ) {
+				$("#choose_arrow").attr("src", "http://bi9di.com/templates/platinum/images/lang-arrow.png");
+				$("#location_div").slideUp();
+			}
+			else {
+
+				event.stopPropagation();
+				$("#choose_arrow").attr("src", "http://bi9di.com/templates/platinum/images/up-lang-arrow.png");
+
+				// get values for locations
+				$.ajax({
+					type		: "GET",
+					cache		: false,
+					url		: "http://bi9di.com/include/get_locations.php",
+					data		: null,
+					success: function(data) {
+
+						var split_loc=data.split("|");
+						var no = split_loc.length;
+
+						
+						var crt_loc = "";
+						var content ="<ul>";
+												
+						for (var j=0;j<no;j++) {
+							
+							var cl="";
+							if(crt_loc==split_loc[j]) cl=" class='crt_loc' ";
+							content += "<li><a href='javascript:;'"+cl+" onclick='changeLocation(\"http://bi9di.com\", \"country|"+split_loc[j]+"\")'>"+split_loc[j]+"</a></li>";
+							
+							//if( j>0 && j%10==0 && j!=no-1) content+= "</ul><div class=\"clearfix\"></div><ul>";
+						}
+						content +="</ul>";
+
+						$("#location_div").html(content);
+					
+						$("#location_div").css({ top: $("#choose_location").position().top+20, left: 		$("#choose_location").position().left});
+						$("#location_div").slideDown();
+
+					} // end data
+				});// end ajax
+			} // end else
+		});
+		$(document).click(function(){
+			$("#choose_arrow").attr("src", "http://bi9di.com/templates/platinum/images/lang-arrow.png");
+			$("#location_div").slideUp();
+		});
+	
+	
+});
+
+</script>
+
+
+      <div class="top-logo">		<img src="http://bi9di.com/images/bi9di.png" alt="Post a Free Classified Ad | bi9di Classifieds |"></div>
+<div class="clearfix"></div>
+    </div>
+<!-- end: #header -->
+
+<!-- begin: main navigation #nav -->
+    <div id="nav">
+        <ul id="navlinks">
+          <li><a href="http://bi9di.com/">Home</a></li>
+		  		            <li><a href="http://bi9di.com/pre-register.php">Register</a></li>
+		            <li><a href="http://bi9di.com/login.php">Sign In</a></li>
+					   		  		            <li><a href="http://bi9di.com/pre-submit.php">Post an Ad</a></li>
+		            <li><a href="http://bi9di.com/recent_ads.php">Recent Ads</a></li>
+		  		  		
+		  		          <li><a href="http://bi9di.com/modules/dealers_page/dealers.php">Dealers Repository</a></li>
+		  
+		        </ul>
+
+	
+ 	</div>
+    <!-- end: main navigation -->
+	
+	
+			<div id="quick_search">
+		<form name="qsearch" id="qsearch" method="post" action="http://bi9di.com/listings.php">
+			
+			Search for&nbsp;&nbsp;<input type="text" class="qs_keyword" name="qs_keyword" size="35">&nbsp;in&nbsp;
+			<select id="qs_category" name="qs_category" onchange="onQuickSearch(this.form, 'http://bi9di.com'); reloadDep('2', 'http://bi9di.com');">
+				<option value="">All Categories</option>
+								<option value="1" class="opt_parent">Vehicles</option>
+								<option value="8">&nbsp;&nbsp;&nbsp;Cars</option>
+								<option value="9">&nbsp;&nbsp;&nbsp;Motorcycles</option>
+								<option value="10">&nbsp;&nbsp;&nbsp;Boats</option>
+								<option value="11">&nbsp;&nbsp;&nbsp;RVs</option>
+								<option value="12">&nbsp;&nbsp;&nbsp;Commercial Trucks</option>
+								<option value="13">&nbsp;&nbsp;&nbsp;Aircrafts</option>
+								<option value="14">&nbsp;&nbsp;&nbsp;Parts &amp; Accessories</option>
+								<option value="15">&nbsp;&nbsp;&nbsp;Everything Else</option>
+								<option value="98" class="opt_parent">Community</option>
+								<option value="99">&nbsp;&nbsp;&nbsp;Activities, groups</option>
+								<option value="100">&nbsp;&nbsp;&nbsp;Business</option>
+								<option value="101">&nbsp;&nbsp;&nbsp;Events</option>
+								<option value="102">&nbsp;&nbsp;&nbsp;Missed connection</option>
+								<option value="103">&nbsp;&nbsp;&nbsp;Rideshare</option>
+								<option value="104">&nbsp;&nbsp;&nbsp;Volunteers</option>
+								<option value="92" class="opt_parent">Pets</option>
+								<option value="93">&nbsp;&nbsp;&nbsp;Animal, pet services</option>
+								<option value="94">&nbsp;&nbsp;&nbsp;Birds for sale</option>
+								<option value="95">&nbsp;&nbsp;&nbsp;Cats, kittens for sale</option>
+								<option value="97">&nbsp;&nbsp;&nbsp;Dogs, puppies for sale</option>
+								<option value="96">&nbsp;&nbsp;&nbsp;Other Pets</option>
+								<option value="2" class="opt_parent">Real Estate</option>
+								<option value="16">&nbsp;&nbsp;&nbsp;Homes For Sale</option>
+								<option value="17">&nbsp;&nbsp;&nbsp;Homes for Rent</option>
+								<option value="18">&nbsp;&nbsp;&nbsp;Vacation Rentals</option>
+								<option value="19">&nbsp;&nbsp;&nbsp;Office &amp; Commercial</option>
+								<option value="20">&nbsp;&nbsp;&nbsp;Housing Exchange</option>
+								<option value="21">&nbsp;&nbsp;&nbsp;Housing Wanted</option>
+								<option value="22">&nbsp;&nbsp;&nbsp;Rooms &amp; Roommates</option>
+								<option value="23">&nbsp;&nbsp;&nbsp;Land</option>
+								<option value="24">&nbsp;&nbsp;&nbsp;Agents &amp; Services</option>
+								<option value="4" class="opt_parent">Jobs</option>
+								<option value="35">&nbsp;&nbsp;&nbsp;Accounting &amp; Finance</option>
+								<option value="36">&nbsp;&nbsp;&nbsp;Advertising</option>
+								<option value="37">&nbsp;&nbsp;&nbsp;Art &amp; Design &amp; Media</option>
+								<option value="38">&nbsp;&nbsp;&nbsp;Business &amp; Management</option>
+								<option value="39">&nbsp;&nbsp;&nbsp;Cleaning</option>
+								<option value="40">&nbsp;&nbsp;&nbsp;Construction</option>
+								<option value="41">&nbsp;&nbsp;&nbsp;Customer Service</option>
+								<option value="42">&nbsp;&nbsp;&nbsp;Education</option>
+								<option value="43">&nbsp;&nbsp;&nbsp;Everything Else</option>
+								<option value="44">&nbsp;&nbsp;&nbsp;Fashion</option>
+								<option value="45">&nbsp;&nbsp;&nbsp;Healthcare</option>
+								<option value="46">&nbsp;&nbsp;&nbsp;Internet Engineering</option>
+								<option value="47">&nbsp;&nbsp;&nbsp;Legal</option>
+								<option value="48">&nbsp;&nbsp;&nbsp;Manual Labor</option>
+								<option value="49">&nbsp;&nbsp;&nbsp;Marketing</option>
+								<option value="50">&nbsp;&nbsp;&nbsp;Real Estate</option>
+								<option value="51">&nbsp;&nbsp;&nbsp;Retail</option>
+								<option value="52">&nbsp;&nbsp;&nbsp;Sales</option>
+								<option value="53">&nbsp;&nbsp;&nbsp;Technology</option>
+								<option value="54">&nbsp;&nbsp;&nbsp;Telecommunications</option>
+								<option value="55">&nbsp;&nbsp;&nbsp;Transportation &amp; Travel</option>
+								<option value="56">&nbsp;&nbsp;&nbsp;Work at Home</option>
+								<option value="6" class="opt_parent">Buy &amp; Sell</option>
+								<option value="63">&nbsp;&nbsp;&nbsp;Antiques</option>
+								<option value="64">&nbsp;&nbsp;&nbsp;Art</option>
+								<option value="65">&nbsp;&nbsp;&nbsp;Books &amp; Magazines</option>
+								<option value="66">&nbsp;&nbsp;&nbsp;Cell Phones</option>
+								<option value="67">&nbsp;&nbsp;&nbsp;Clothing &amp; Accessories</option>
+								<option value="68">&nbsp;&nbsp;&nbsp;Computers</option>
+								<option value="70">&nbsp;&nbsp;&nbsp;Electronics</option>
+								<option value="71">&nbsp;&nbsp;&nbsp;Everything Else</option>
+								<option value="72">&nbsp;&nbsp;&nbsp;Furniture</option>
+								<option value="73">&nbsp;&nbsp;&nbsp;Health &amp; Beauty</option>
+								<option value="74">&nbsp;&nbsp;&nbsp;Home &amp; Garden</option>
+								<option value="75">&nbsp;&nbsp;&nbsp;Musical Instruments</option>
+								<option value="76">&nbsp;&nbsp;&nbsp;Photographic</option>
+								<option value="77">&nbsp;&nbsp;&nbsp;Sports Equipment</option>
+								<option value="7" class="opt_parent">Services</option>
+								<option value="78">&nbsp;&nbsp;&nbsp;Auto</option>
+								<option value="79">&nbsp;&nbsp;&nbsp;Construction</option>
+								<option value="80">&nbsp;&nbsp;&nbsp;Cleaning Services</option>
+								<option value="81">&nbsp;&nbsp;&nbsp;Computer Services</option>
+								<option value="82">&nbsp;&nbsp;&nbsp;Creative</option>
+								<option value="83">&nbsp;&nbsp;&nbsp;Everything Else</option>
+								<option value="84">&nbsp;&nbsp;&nbsp;Financial</option>
+								<option value="85">&nbsp;&nbsp;&nbsp;Food &amp; Restaurants</option>
+								<option value="86">&nbsp;&nbsp;&nbsp;Health &amp; Beauty</option>
+								<option value="87">&nbsp;&nbsp;&nbsp;Household</option>
+								<option value="88">&nbsp;&nbsp;&nbsp;Landscaping</option>
+								<option value="89">&nbsp;&nbsp;&nbsp;Lessons</option>
+								<option value="90">&nbsp;&nbsp;&nbsp;Moving/Removals</option>
+								<option value="91">&nbsp;&nbsp;&nbsp;Translation</option>
+							</select>
+			<input type="hidden" name="order" value="date_added">
+			<input type="hidden" name="order_way" value="desc">
+
+			<div class="search-button" style="display: inline;"><strong><input type="submit" name="Search" value="Search"></strong></div>
+
+			&nbsp;<span id="span_more_options"><a id="more_options" href="javascript:;">more options »</a></span><span id="span_less_options" style="display: none;"><a id="less_options" href="javascript:;">« less options</a></span>
+
+		<script type="text/javascript">
+		jQuery(document).ready(function() {
+
+			$("#more_options").click(function(){
+				$("#search_options").slideDown("slow");
+				$("#span_more_options").hide();
+				$("#span_less_options").show();
+			});
+
+			$("#less_options").click(function(){
+				$("#search_options").slideUp("slow");
+				$("#span_more_options").show();
+				$("#span_less_options").hide();
+			});
+		});
+		</script>
+
+
+						<br>
+<div id="search_options" style="display: none">
+			 <ul>
+
+	
+	
+			<li>
+		<div>
+		<label>Price</label><br>
+		
+						<select name="qs_currency">
+			<option value="">-</option>
+						<option value="">$</option>
+						<option value="">₹</option>
+					</select>
+				
+		
+				<select id="qs_price_low" name="qs_price_low">
+			<option value="">- Min -</option>
+						<option value="500">500</option>
+						<option value="1500">1500</option>
+						<option value="2000">2000</option>
+						<option value="2500">2500</option>
+						<option value="3000">3000</option>
+						<option value="3500">3500</option>
+						<option value="4000">4000</option>
+						<option value="4500">4500</option>
+						<option value="5000">5000</option>
+						<option value="6000">6000</option>
+						<option value="7000">7000</option>
+						<option value="8000">8000</option>
+						<option value="9000">9000</option>
+						<option value="10000">10000</option>
+						<option value="12500">12500</option>
+						<option value="15000">15000</option>
+						<option value="17500">17500</option>
+						<option value="20000">20000</option>
+						<option value="25000">25000</option>
+						<option value="30000">30000</option>
+						<option value="40000">40000</option>
+						<option value="50000">50000</option>
+						<option value="75000">75000</option>
+						<option value="100000">100000</option>
+					</select>
+		</div>
+		</li>
+		<li>
+		<div>
+		<label></label><br>
+		<select id="qs_price_high" name="qs_price_high">
+			<option value="">- Max -</option>
+						<option value="500">500</option>
+						<option value="1500">1500</option>
+						<option value="2000">2000</option>
+						<option value="2500">2500</option>
+						<option value="3000">3000</option>
+						<option value="3500">3500</option>
+						<option value="4000">4000</option>
+						<option value="4500">4500</option>
+						<option value="5000">5000</option>
+						<option value="6000">6000</option>
+						<option value="7000">7000</option>
+						<option value="8000">8000</option>
+						<option value="9000">9000</option>
+						<option value="10000">10000</option>
+						<option value="12500">12500</option>
+						<option value="15000">15000</option>
+						<option value="17500">17500</option>
+						<option value="20000">20000</option>
+						<option value="25000">25000</option>
+						<option value="30000">30000</option>
+						<option value="40000">40000</option>
+						<option value="50000">50000</option>
+						<option value="75000">75000</option>
+						<option value="100000">100000</option>
+					</select>
+		
+		
+						</div>
+		</li>
+
+	
+	
+	
+		<li id="li_make" style="display: none">
+	<div>
+	<label>Make</label><br>
+	<select name="qs_make" id="qs_make" disabled="disabled" onchange="selDepending(1, 'qs_make', 'qs_model', '2', this.form.qs_category.value, 0, '', 'http://bi9di.com', '' )">
+		<option value="">Select Make</option>
+			</select>
+	<input type="hidden" name="dep_id_qs_make" id="dep_id_qs_make" value="">
+	</div>
+	</li>
+	<li id="li_model" style="display: none">
+	<div>
+	<label>Model</label><br>
+	<span><select disabled="disabled" name="qs_model" id="qs_model">
+		<option value="">Select Model</option>
+	</select></span><input type="hidden" name="dep_id_qs_model" id="dep_id_qs_model" value="">
+	</div>
+
+
+	</li>
+
+	
+	
+
+
+			 </ul>
+	</div>
+		</form>
+		</div>
+								
+
+	
+	
+    <!-- begin: main content area #main -->
+    <div id="dmain">
+
+	<table cellpadding="0" cellspacing="0" width="100%"><tbody><tr>
+					
+	<td class="main_content" valign="top">
+
+<div id="custom_content">
+<p>How we use your personal information:</p>
+
+<p>The information you give us is absolute safe with us. We will never rent, sell, share or otherwise disclose your personal information to third parties.</p>
+
+<p>We might contact you from time to time regarding your purchases or the services (like forums and announcement lists) you have subscribed to.</p>
+
+<p>We may also send you promotional announcements from time to time about new products and services that you might find useful.</p>
+
+<p>You may also opt out from receiving information from us at any time and ask us to remove your contact information from our database.</p>
+
+</div>
+						
+	</td></tr></tbody></table>    </div>
+    <!-- end: #main -->
+
+							<br>
+    <!-- begin: #footer -->
+    <div id="footer">
+
+<div id="footer-share"></div>
+
+
+<div id="footer-nav">
+	<a href="http://bi9di.com/contact.php">Contact</a>&nbsp;
+		|&nbsp;
+		<a href="http://bi9di.com/content.php?id=3" target="_blank">
+		Privacy Policy</a>
+		|&nbsp;
+		<a href="http://bi9di.com/content.php?id=4" target="_blank">
+		Disclaimer</a>
+		<br>
+	<span>2015 BI9DI powered by Cloud1993</span>
+</div>
+
+</div>
+    <!-- end: #footer -->
+
+</div>
+<!-- end: #page -->
+</div></div></div></div></div></div></div></div>
+
+<div class="clearfix"></div>
+
+	
+
+
+
+</body></html>
