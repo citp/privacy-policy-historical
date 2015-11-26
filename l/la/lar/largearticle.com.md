@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the largearticle.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608085813id_/http%3A//largearticle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the largearticle.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126152044id_/http%3A//largearticle.com/privacy-policy) for the most accurate reproduction.*
 
 # Large Article » Privacy Policy
-
-  * [Home](http://largearticle.com/)
-  * [Author TOS](http://largearticle.com/author-tos/)
-  * [Contact Us](http://largearticle.com/contact-us-3/)
-  * [How to submit an article](http://largearticle.com/how-to-submit-an-article/)
-  * [Optimization Tips & FAQ](http://largearticle.com/optimization-tips-faq/)
-  * [Privacy Policy](http://largearticle.com/privacy-policy/)
-  * [Why Submit Articles?](http://largearticle.com/why-submit-articles/)
-
-
-
-## Privacy Policy
 
 This Privacy Policy governs the manner in which large article collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://largearticle.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Large article.
 
@@ -55,11 +43,34 @@ Your acceptance of these terms
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
+**Content Publishing and Copyright Information**
+
+By creating an account on [www.largearticle.com](http://largearticle.com/), you or the user acknowledge to accept all the terms and conditions of www.largearticle.com. We keeps on updating Terms and Conditions from time to time, to keep them updated all time which suits best of interest for all concerned and related parties. You or the user will be notified via registered email address, whenever there is an update.
+
+www.largearticle.com does not publish any content or any media on its own and it is only a medium to present the content posted by its various registered users. Although we try our best to keep only authorized and legitimate content to be posted on our website. Having an account with us or by registering an account with us, user fully acknowledges to have the proper authorization or have the copyrights for the content or any media that is posted on www.largearticle.com.
+
+As we just said www.largearticle.com. Is just a medium for its users and we try our best to keep only the authorized or the legitimate content on our website. www.largearticle.com or any of its subsidiaries or its owners or employees held no responsibility for any content/article/media that is published on www.largearticle.com and www.largearticle.com reserves full rights to disable/ delete/ hide or take down any content that is posted on www.largearticle.com.
+
+Which types of work are subject to copyright?
+
+# Written works, such as lectures, articles, books, and musical compositions
+
+# Visual works, such as paintings, posters, and advertisements
+
+#  Audiovisual works, such as TV shows, movies, and online videos
+
+# Sound recordings and musical compositions
+
+#  Video games and computer software
+
+#  Dramatic works, such as plays and musicals
+
+A user may post his Ideas, facts, and processes on www.largearticle.com. As a reader i.e. who is reading the content on www.largearticle.com, you are sincerely advised to check the correctness, authenticity and genuineness of the content. Neither www.largearticle.com nor any of associates takes responsibility or any loss or damage that can be or is caused by the content.
+
+We hope you will enjoy association with us and will have a fruitful relationship with us.
+
+Further or any further concerns or clarification, you can contact us a
+
 Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Large article
-
-http://largearticle.com
-
-[ ](http://pizza.asvinstech.in/?p=13)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
