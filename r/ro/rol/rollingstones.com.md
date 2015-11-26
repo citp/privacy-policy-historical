@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rollingstones.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628205126id_/http%3A//www.umusic.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollingstones.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126165347id_/http%3A//www.umusic.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Universal Music - Security and Privacy Policy
 
@@ -194,16 +194,6 @@ This data will be used as part of Universal Music's combined digital marketing s
 ## Comufy:
 
 Comufy is a service that enables Universal Music to communicate with fans of our artists via Facebook notifications. If you provide us with your Facebook ID, by registering for one of our mailing lists or websites using Facebook, or any other means, we may provide Comufy with your Facebook ID and/or email address to enable us to communicate with you about your requested artist via Facebook apps, notifications and other channels. If you do not wish to receive these notifications, please log into Facebook and set the notification permission setting of the Comufy app to 'Never'. You can find more information at [http://comufy.com](http://comufy.com/)
-
-## Janrain
-
-Universal Music uses Janrain to provide single-sign-on functionality, social network integration and user analytics for a number of Universal Music websites and registration forms. This enables you to login to an artist website or register for artist updates by using your social media accounts such as a Facebook or Twitter account for example, rather than using an email address and password. If you do choose to use an email address and password, these credentials will allow you to access other Universal Music websites & forms as your unique ID will be stored via the Janrain login.
-
-The Janrain platform collects personally identifiable information such as names and email addresses, demographic information, location and behavioral information in accordance with the preferences you gave when setting up your social account. Janrain may transfer the personal data outside of the European Economic Area for the purposes of processing personal data as Janrain's servers are located outside of the European Economic Area. Janrain is Safe Harbor certified and Universal Music shall take all steps reasonably necessary to ensure that Janrain have the appropriate protections in place to satisfy the requirements of the Data Protection Act. Universal Music will also have access to the data collected by the Janrain system on our behalf while facilitating user interaction with our websites and other online properties, such as apps. This may include personal and behavioral data, such as which websites on the Universal Music network a specific user has visited and the properties a user has 'liked' on Facebook.
-
-This data will be used as part of Universal Music's combined digital marketing strategy, which includes communication via email, SMS, social media and online advertising.
-
-You can find more information at [http://janrain.com](http://janrain.com/)
 
 ## Facebook:
 
