@@ -1,227 +1,143 @@
-> *The following text is extracted and transformed from the travelocity.co.in privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117213601id_/http%3A//www.travelocity.co.in/site/help/corporate/privacy_policy.html%3Fskin%3Denin.travelocity.co.in) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelocity.co.in privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126172555id_/http%3A//www.travelocity.com/p/info-other/privacy-policy.htm) for the most accurate reproduction.*
 
-# Travelocity India: Airfares, hotels, activities, cruises and more
+# Privacy Policy | Travelocity.com
 
-## Privacy Policy  
-26 November 2012
+As a user of the web sites, mobile applications and services of Travelocity (collectively, the "Travelocity Service"), you are in control of your travel-planning. We know you want to remain in control of your personal information as well. As one of the pioneers in online travel, we realize that earning and retaining your trust is of paramount importance and it's a responsibility we take very seriously. 
 
-## Contents
+That's why we've provided this Privacy Policy, which sets forth Travelocity's policies regarding the collection, use and protection of the personal information of those using the Travelocity Service. Personal information means information that can identify you, such as your name, address, telephone number, e-mail address, and billing information (such as your credit card number and expiration date). 
 
-  1. Who we are.
-  2. ZUJI protects your privacy.
-  3. What information is collected and how do we use it?
-  4. Who do we share your information with?
-  5. You have control over your information!
+We encourage you to review this Privacy Policy, and become familiar with it, but you should know that **we do not sell or rent our customers' personal information to third parties**. 
 
+Please note that we review our Privacy Policy from time to time, and we make changes to the policy in connection with that review. Therefore, you may wish to periodically review this page to make sure that you have the current version. Click here to read about how we may supplement or change this Privacy Policy. If you have questions about this Privacy Policy, please contact us via this link. 
 
+This Privacy Policy explains the following: 
 
-## A. Who we are
+  * What personal information we collect and how we use it
+  * How cookies and similar technologies are used on the Travelocity Service
+  * How Travelocity uses location information
+  * With whom your personal information is shared 
+  * How you can opt-out of receiving our promotional e-mails 
+  * How you can update or correct your personal information
+  * What safeguards we have in place to protect your personal information
+  * Visiting our website from outside the United States
+  * Other information you should know about your privacy
 
-Travelocity.com Private Limited ("Travelocity India") is a wholly owned subsidiary of ZUJI Pte Limited ("ZUJI") and operates its website located at [www.travelocity.co.in](http://www.travelocity.co.in/) using this Privacy Policy. All references to ZUJI shall be deemed to refer to Travelocity.com Private Limited, where appropriate.
 
-Please note that this Privacy Policy will apply to your use of our Websites (as defined below) and the booking of travel thereon, as well as bookings made with ZUJI via other methods such as but not limited to, offline phone sales, Interactive Voice Response (IVR), or through retail outlets (collectively known as the "Bookings").
 
-ZUJI is a leading online travel company in Asia Pacific offering a full suite of travel products and services (air tickets, accommodation, car rental) in the Asia-Pacific region. ZUJI's head office is located at 67 Ubi Avenue 1, #06-12 Starhub Green, Singapore 408942. Tel: +65 6215 9600, Fax: +65 6215 9605.
+## What personal information does Travelocity collect and how is it used?
 
-ZUJI Pte Ltd has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your Personal Information. The TRUSTe program covers only Personal Information that is collected through these sites: [www.zuji.com.sg](http://www.zuji.com.sg/), [www.zuji.com.au](http://www.zuji.com.au/), [www.zuji.com.hk](http://www.zuji.com.hk/) and [www.travelocity.co.in](http://www.travelocity.co.in/) (collectively referred to herein as "our Websites") and does not cover any information that may be collected offline. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
+You are not required to provide any personal information to us unless and until you choose to make a purchase or sign up for one of our e-mail newsletters or other services as described below. We do not knowingly permit the Travelocity Service to be used by any person under the age of eighteen and we do not knowingly collect any personal information from children (meaning those younger than thirteen years of age). A valid credit or debit card is required to make a purchase using the Travelocity Service. 
 
-If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [customercare@zuji.com.au](mailto:customercare@zuji.com.au) for Australia, [customercare@zuji.com.sg](mailto:customercare@zuji.com.sg) for Singapore, [customercare@zuji.com.hk](mailto:customercare@zuji.com.hk) for Hong Kong or [customercare@travelocity.in](mailto:customercare@travelocity.in) for Travelocity India. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+_Making a Purchase_  
+In order to book travel using the Travelocity Service, you must provide us with certain personal information such as your name, your credit or debit card number and expiration date, your credit or debit card billing address, your telephone number, your e-mail address and the name or names of any person(s) traveling with you. When booking an air ticket or travel package that includes air travel, you must also provide us with your date of birth and gender. You may also provide us with other information, such as your frequent traveler numbers, requests for special services or meal requests. We require this information so that we can process, fulfill and confirm your reservations and transactions and keep you informed of their status. If you are making a reservation for one or more other travelers, you will need to make sure that each of these other travelers agrees, in advance, that you may disclose their personal information to us. For your convenience, we make certain information about your reservation available to you or other persons authorized by you to receive such information. For example, if you forget your flight number, you or another person authorized by you may retrieve that information from us after confirming your or their identity. 
 
-Back to Top
+_Express Consent To Receive Pre-Recorded And Text Messages_  
+When you book travel using the Travelocity Service, you must provide us with a contact telephone number and email address. We may use that telephone number or email address in the event that we need to inform you of changes or other matters that may affect your booking or trip, such as changes due to flight delays, inclement weather, and cancellations. We may use an automatic telephone dialing system, or artificial or prerecorded voice messages to provide you with such updates. When you provide us with a mobile telephone number as the contact number for a trip, you agree that you are providing us with your express consent to receive prerecorded voice messages from Travelocity or our third party suppliers and content providers (""Third Party Suppliers"") related to your booking. If you do not wish to receive these trip updates on your mobile phone, please provide us with another telephone number.
 
-## B. ZUJI protects your privacy
+_Member Registration_  
+If you choose to register as a member of Travelocity, you must provide your name, address, telephone number, e-mail address, a unique login name (if different from your e-mail address), password, and password validation, and a password hint to help you remember your password. We may collect this information for several reasons including: (i) personal identification; (ii) to complete air, hotel, car, and other reservations; (iii) to allow us to contact you for customer service purposes, if necessary; (iv) to customize the content of the Travelocity Service to meet your specific needs; and (v) to make product improvements to the Travelocity Service. In addition, we need your e-mail address to confirm your new member registration and each reservation you make using the Travelocity Service. 
 
-ZUJI is committed to protecting your privacy in accordance with the highest consumer protection standards.
+_Member Profile_  
+As a Travelocity member, you can choose to complete your online profile by providing us with travel preferences, frequent-traveler or affinity numbers, payment card billing information, paper ticket delivery address, special requests, meal requests, profiles of your travel companions (such as your family members who travel with you), and other information, which may include personal information. This information is primarily used to assist you in making reservations quickly without having to type in the same information again. For example, you can store your airline frequent-flyer numbers and those of your travel companions so that when your make a reservation on that airline using the Travelocity Service, we can automatically complete the frequent-flyer number input boxes for you. 
 
-Our Privacy Policy is designed with you in mind, and it is integral that you have a comprehensive understanding of our Personal Information collection and usage practices, as well as full confidence that ultimately, you have control of your Personal Information provided to ZUJI. For the purposes of this Privacy Policy, “Personal Information” shall mean any information that can be linked to a specific individual including without limitation, information such as name, address, telephone number, e-mail address and credit card number.
+_TSA Secure Flight_  
+Under the Transportation Security Administration (TSA) Secure Flight program, most air passengers are now required to provide their full name, date of birth, and gender (plus redress number, when applicable). 
 
-By using our Websites and/or making Bookings, you are deemed to have read, acknowledged and accepted all the provisions stated herein this Privacy Policy, including any changes that we may make from time to time. 
+Secure Flight is a federally mandated program administered by the TSA. The privacy notice of the TSA is as follows: 
 
-In summary, while you should read each provision in this Privacy Policy, you note that by using our Websites and/or making Bookings:
+The Transportation Security Administration of the U.S. Department of Homeland Security requires aircraft operators to collect information from you for purposes of watch list screening, under the authority of 49 U.S.C. section 114, and the Intelligence Reform and Terrorism Prevention Act of 2004. Providing this information is voluntary; however, if it is not provided, you may be subject to additional screening or denied transport or authorization to enter a sterile area. TSA may share information you provide with law enforcement or intelligence agencies or others under its published system of records notice. For more on TSA Privacy policies, or to view the system of records notice and the privacy impact assessment, please see TSA's Web site at [www.tsa.gov](http://www.tsa.gov/). _Newsletters and FareWatcher Plus_ ℠ Travelocity's "Roaming Gnome Recommends" and other newsletters and our FareWatcher Plus service are optional communications you may choose to subscribe to that keep you up to date with the latest special travel deals and low airfares. FareWatcher Plus tracks the prices of airline tickets to your favorite places. When the price for one of your favorite trips declines by a specified amount, Travelocity will notify you of the change via e-mail. Your e-mail address and preferred round trip city pairs are necessary to receive FareWatcher Plus e-mails. 
 
-  1. You agree that if you disclose your Personal Information to us, we may create a database record about you; 
-  2. If you register on our Websites, make Bookings, download any materials or conduct any other transaction, you agree for us to collect any Personal Information necessary to provide you with the service you have requested, and you agree that such Personal Information may be disclosed to service partners (who may be third parties) for those purposes; 
-  3. You agree for us to use cookies on your browser (unless you remove them); 
-  4. You agree that we can contact you with information about products and services which may be of interest to you (unless you have stated you do not wish to receive these communications); and 
-  5. Your continued use of our Websites and/or by continually making Bookings indicates your agreement with any future changes in this Privacy Policy. 
+_Online Surveys_  
+Travelocity values opinions and comments from members, so we may from time to time conduct online surveys. Participation in these surveys is optional. Typically, we aggregate the information we collect and use it to make improvements to the Travelocity Service and to develop appealing content, features and promotions for customers. Survey participants are anonymous unless otherwise stated in the survey. 
 
+_Promotions & Sweepstakes_  
+Travelocity may sponsor promotions and sweepstakes to give customers the opportunity to win great travel and travel-related prizes. The information we may collect for such activities can include historical bookings made, historical shopping behavior, contact information and survey questions. We may use the contact information we receive to notify contest winners and we use survey information to develop promotions and product improvements to the Travelocity Service. 
 
+_Third Parties Offering Promotions, Products, or Services_  
+Travelocity may share your personal information with third parties when you engage in certain activities on our site that are sponsored by third parties, such as electing to receive information or communications from a third party (such as a hotel company or a tourism board for a particular destination), or electing to participate in contests, sweepstakes, games or other programs sponsored in whole or in part by a third party. Travelocity may also share your personal information when you respond to promotional materials from Travelocity and authorize a third party to use your personal information for purposes such as sending you additional promotional materials, providing you a product or service, or entering you in a contest, sweepstakes or game. We refer to all of these activities and requests as "Sponsored Activities." When you participate in Sponsored Activities, you will either be required or requested to agree that Travelocity may send your personal information (such as, in some cases, your mailing address or e-mail address) to the sponsor, and the sponsor may use your personal information in accordance with the sponsor's privacy practices. In each case described in this section, _Travelocity will only share your personal information after receiving your consent_. You should know that when Travelocity shares your personal information with a third party under any circumstance described in this section, your personal information will become permanently subject to the privacy policy of the third party, and the third party will not be restricted by Travelocity's Privacy Policy with respect to its use and further sharing of your personal information. 
 
-Back to Top
+_Automatic Logging of Session Data_  
+We automatically log generic information about your computer and your computer's connection to the Internet, which we call "session data". Session data consists of things such as device information, IP address, operating system and browser software information, and the activities conducted by the user while using the Travelocity Service. An IP address is a number that lets computers attached to the Internet, such as our web servers, know where to send data back to the user, such as the pages of the site the user wishes to view. We collect session data because it helps us analyze such things as what items visitors are likely to click on most, the way visitors are clicking through the site, how many visitors are surfing to various pages on the site, how long visitors to the site are staying and how often they are visiting. It also helps us diagnose problems with our servers and lets us better administer our systems. It is possible to determine from an IP address a visitor's Internet Service Provider (ISP) and the approximate geographic location of his or her point of connectivity. We may also use some session data, such as the pages you visited on our site, to send you e-mail messages (such as "Good Day to Buy") focused on destinations that you may be interested in, unless you had previously opted out of receiving such messages. We also use session data to help prevent fraud or unauthorized use of our site. 
 
-## C. What information is collected and how do we use it?
+_Submitted Content_  
+You can contribute to the Travelocity Service in a number of different ways, including by providing journals, recommendations, reviews, opinions, news articles, directories, guides, text, photographs, illustrations, graphics, logos, audio clips, images, information, data, photographs, software, messages, ideas, comments, questions, or other materials for public display on the Travelocity Service (your "Submitted Content"). Note that if you include personally identifiable information in your Submitted Content, it can be used and viewed by others. We are not responsible for the information you choose to include in your Submitted Content. 
 
-ZUJI will not collect or monitor any Personal Information about you without your consent. The only Personal Information we collect is what you tell us about yourself and information about how you use our Websites and when you make Bookings. ZUJI collects information from you at several different points on our Websites and/or when you make Bookings:
+_Third Party Services_  
+We may allow you to access third party services, such as Facebook and Twitter, that enable you to share your selected Submitted Content with those services, to import information about who you are connected with on those other services so you can connect with them using the Travelocity Service and to perform certain other tasks. Where we provide such functionality, such as on IgoUgo.com, you can always opt out on your IgoUgo account page. Some of those third party services may also provide us with information from your accounts there to enhance and personalize your use of the Travelocity Service. For example, you can allow Facebook to tell us who your Facebook friends are so you can follow their activity on the Travelocity Service (including on IgoUgo.com). You can, at any time, adjust your IgoUgo settings to remove this feature, by changing your Facebook preferences on the site. You can also further modify your privacy settings with those other services directly. For example, you can adjust your privacy settings on Facebook to prevent your Facebook friends from sharing information with us about you from their Facebook accounts. 
 
-**1\. New Member Registration**
+In addition, if you link your Travelocity account to your social media account, or use certain other Travelocity social media features, we may access information about you via that social media provider in accordance with the provider’s policies. The information may include your name, email address, profile picture, gender, list of friends, and other information that you authorize us to receive. Depending on the privacy settings of you and your friends, we may access information that you provide to a social media provider regarding your respective locations (“Location Data”) to provide you with relevant content. Please note that your Location Data may also be shared with your friends on a social media provider in accordance with your privacy settings for that social media provider. 
 
-  1. What information is collected? 
+## How are cookies and similar technologies used on the Travelocity Service?
 
-When you register as a member with ZUJI on our Websites or during the Bookings process, you will be asked to create a login name and password, as well as to provide your contact information, such as your name, title, email address, language preference and country of residence. You are also given the option to opt-in or opt-out (as the case may be) to or from receiving periodical updates and/or newsletters from ZUJI informing you of the latest news and deals.
+_Cookies_  
+"Cookies" are small pieces of information that are stored on your computer's hard drive. Cookies allow us to serve you better and more efficiently. Travelocity uses cookies to personalize your experience using the Travelocity Service. For example, we use cookies to allow you to log in without having to type your log-in name each time you visit the Travelocity Service (only your password is needed); let us know if you are a FareWatcher Plus participant or a Travelocity VIP; help us remember your preferred language and departure city; and so forth. We may also use such cookies to display customized content and advertising to you while you are using the Travelocity Service or to send you a "Good Day to Buy" email (or similar emails -- assuming you have not opted-out) focusing on destinations that we think you might be interested in. Cookies also help us measure and research the effectiveness of our offerings, advertisements, and email communications (by, for example, determining which emails you open and act upon). 
 
-  2. Why do we collect it? 
+Most web browsers automatically accept cookies. By changing the options on your web browser or using certain software programs, you can control how and whether cookies will be accepted by your browser. However, blocking Travelocity cookies may disable certain features on our site and may make it impossible to purchase or use certain services available on the site. Please note that it is possible to block cookie activity from certain web sites while permitting cookies from sites you trust, like Travelocity. 
 
-We collect the above information for the following purposes:
+In addition to the above cookies, we use Local Shared Objects, also referred to as "flash cookies," on our web site. These are used to enhance your user experience, for example, by storing your user preferences and settings, such as your volume/mute settings, and in connection with animated content on our website. Local Shared Objects are similar to browser cookies, but can store data more complex than simple text. By themselves, they cannot do anything to or with the data on your computer. To find out more about flash cookies or how to disable them, please visit: <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>. 
 
-    1. To identify you when you use our Websites or when you make Bookings in order to enjoy a customized and personalised experience. 
-    2. As a security measure, to send you an email confirming your membership registration. 
-    3. To allow us to process and complete your travel reservations and purchases.
-    4. To send you email confirmations for your reservations and purchases on ZUJI.
-    5. For our customer service agents to contact you when necessary.
-    6. To send you our optional periodical updates and/or newsletters, if you have signed up for them.
-    7. To send you information about products and services which may be of interest to you.
+We may also use Web beacons (also known as clear gifs, pixel tags or Web bugs), which are tiny graphics with a unique identifier, similar in function to cookies, that are placed in the code of a Web page. We use Web beacons to monitor the traffic patterns of users from one page within our sites to another, to deliver or communicate with cookies, to understand whether you have come to our site from an online advertisement displayed on a third-party website, and to improve site performance. We also may allow our service providers to use Web beacons to help us understand which emails have been opened by recipients and to track the visitor traffic and actions on our site. This helps us measure the effectiveness of our content and other offerings. 
 
+_Advertising Data Collected By Us to Display Relevant Advertising to You_  
+Travelocity is committed to providing you with relevant content and information. To do this, we may, through cookies and other technologies, collect information about your travel-related searches, such as whether you are looking for flights or hotel rooms. We use this information, together with other information we have collected, to display ads to you on our website or elsewhere online, that match your apparent interests. So, for example, if you search for a hotel room in Hawaii using the Travelocity Service, you may see an advertisement for a Hawaii travel package on our sites or on another website you visit. 
 
+You can choose not to receive customized online advertising on other websites, that is based on your travel-related searches on this website, through the [Network Advertising Initiative](http://www.networkadvertising.org/) or the [Digital Advertising Alliance](http://www.aboutads.info/). 
 
-**2\. Existing Member Travel Profile**  
+_Advertising Data Collected By Business Partners and Ad Networks to Display Relevant Advertising to You_  
+The advertisements you see on the Travelocity Service are served by us or by our service providers. But we also allow third parties may collect information about your online activities through cookies and other technologies. We do not permit these third parties to collect personal information about you via the advertisements they serve on the Travelocity Service. These third parties include (1) business partners, who collect information when you view or interact with one of their advertisements on our sites and (2) advertising networks (and their partners), which collect information about your interests when you view or interact with one of the advertisements they place on many different websites on the Internet. The information gathered by these third parties is used to make predictions about you, your interests or preferences and to display advertisements the Travelocity Service and across the Internet tailored to your apparent interests. 
 
+Please note that we do not have access to or control over cookies and other technologies these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy. Some of these companies are members of the Network Advertising Initiative or the Digital Advertising Alliance, through which you may opt out of ad targeting from their member companies. To learn more, please visit [Network Advertising Initiative](http://www.networkadvertising.org/) or the [Digital Advertising Alliance](http://www.aboutads.info/). 
 
-  1. What information is collected? 
+_Data collected by companies that operate cookie-based exchanges to serve you with relevant advertising._  
 
-After registering as a member with ZUJI on our Websites or during the Bookings process, you are given the option to create a travel profile with your name and email address and to provide ZUJI with the following member travel profile information:
 
-    1. Credit card billing information, such as your credit card type, number, expiry date and billing address.
-    2. Ticket delivery information including telephone numbers and address details.
-    3. Passport information including passport number, place of passport issuance, passport issue date and passport expiration date.
-    4. Date of birth.
-    5. Travel preferences, such as preferred cities, date/time display preferences, flight seating and meal preferences, as well as others like frequent flyer numbers.
-  2. Why do we collect it? 
-    1. With your member travel profile stored in ZUJI, you will enjoy convenience whenever you make travel reservations as you will not have to type the billing and delivery information repeatedly.
-    2. Your travel preferences will allow you to customize your experience on ZUJI, for example, in some circumstances, ZUJI will display your local currency.
-    3. To further confirm your identity.
-    4. To prevent credit card fraud.
-    5. To send you information about products and services which may be of interest to you.
+Like other companies operating online, Travelocity participates in cookie-based exchanges where anonymous information is collected about your browsing behavior through cookies and other technologies and segmented into different topics of interest (such as travel). These topics of interest are then shared with third parties, including advertisers and ad networks, so they can tailor advertisements to your apparent interests. We do not share personal information (such as your email address) with these companies and we do not permit these companies to collect any such information about you on our site. Please click [here](http://www.bluekai.com/consumers.php) to learn more about cookie-based exchanges, including how to opt out of having your information used by these exchanges. 
 
+## How does Travelocity use location-specific information? 
 
+If you use our location-enabled products and services, such as our mobile applications, you may be sending us Location Data. This information may reveal your actual location, such as GPS data, or it may not, such as when you submit an address to look at hotel choices in that location. We use your location information to process and personalize your requests, such as by pre-filling the city name when you are searching for travel options (such as a nearby hotel or other travel related service). We also use location information for support, to develop new features, a better user experience and to improve the overall quality of the Travelocity Service. 
 
-**3\. My ZUJI**  
+_Other_  
+From time to time we may add or enhance services available using the Travelocity Service. To the extent these services are provided and used by you, we will use the information you provide to facilitate the service requested. For example, if you email us with a question, we will use information such as your email address, name and the nature of the question, to respond to your question. We may also store such information to assist us in making the Travelocity Service better and easier to use. 
 
+## With whom will my personal information be shared?
 
-  1. What information is collected? 
-    1. i. Any time you make a purchased reservation, on hold reservation or save an itinerary while planning your trip on our Websites, your purchased reservation, on hold reservation or saved itinerary details will be saved into "My ZUJI".
-  2. Why do we collect it? 
-    1. For your convenience, ZUJI stores your purchased reservation, on hold reservation or saved itinerary information in "My ZUJI", so that you may easily refer to your trip plans or complete your purchase. You are able to search your reservations using your Trip ID. 
-    2. To send you information about products and services which may be of interest to you.
+When you book travel using the Travelocity Service, we provide to the airline, hotel, car-rental company, cruise line or other involved Third Party Supplier that portion of your personal information that is needed for the successful fulfillment and servicing of your travel arrangements. We encourage you to read the privacy statements of all such Third Party Suppliers as their policies may be materially different from this Privacy Policy.
 
+We use third parties to provide a portion of the services and technology that make up the Travelocity Service. Travelocity provides these third parties with access to personal information specifically for use in connection with providing such services and/or technology. 
 
+Occasionally, we use third parties to act on our behalf for projects such as market-research surveys and contest-entry processing, or will contract with third parties to provide co-branded products, such as a Travelocity credit card. We may provide personal information to such third parties in connection with providing such services and products to us or on our behalf. 
 
-**4\. Online Surveys**  
+The information we provide to third parties who provide us with services, act on our behalf, or provide co-branded products is protected by confidentiality agreements and is to be used solely for the purpose(s) permitted by such agreements. 
 
+We may also share personal information with our parent company, Expedia, Inc., and corporate affiliates, including Hotwire and hotels.com, as well as international corporate affiliates such as Expedia.co.uk.
 
-  1. What information is collected? 
-    1. From time to time, ZUJI may employ the services of a third party to conduct market research surveys on our behalf. You may choose to participate in our surveys, and your answers to our survey, as well as your Personal Information may be kept on record, and will be protected in a manner that is consistent with this Privacy Policy. Please note that the Personal Information you provide through our surveys will be used on an aggregated basis unless we inform you otherwise beforehand. 
-  2. Why do we collect it? 
-    1. ZUJI conducts market research surveys in order to learn from you how improvements can be made to our Websites.
-    2. To send you information about products and services which may be of interest to you.
+We use non-personal information in aggregate form to build higher quality, more useful online services by performing statistical analyses of the collective characteristics and behavior of our customers and visitors, and by measuring demographics and interests regarding specific areas of our site. We may provide anonymous statistical information based on this data to suppliers, advertisers, affiliates and other current and potential business partners. We may also use such aggregate data to inform these third parties as to the number of people who have seen and clicked on links to their web sites. We may also provide non-personal information in aggregate form to third parties who provide a portion of the services and/or technology that make up the Travelocity Service so they can optimize, maintain, support and improve the Travelocity Service. 
 
+We may also disclose personal information if required to do so by law, court order, as requested by other government or law enforcement authority, or in the good faith belief that disclosure is otherwise necessary or advisable including, without limitation, to protect the rights or properties of Travelocity or its affiliated companies or when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities. Finally, we may share your information in connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. 
 
+## How can I opt-out of receiving your promotional emails?
 
-**5\. Customer Contact**  
+## Our Opt-out Policy
 
+As a Travelocity member and/or customer you will also occasionally receive updates from us about fare sales in your area, special offers, new Travelocity services, "Roaming Gnome Recommends" newsletter, and other noteworthy items. We hope you will find these updates interesting and informative. Of course, if you would rather not receive a particular communication, please click on the "opt-out" link in our e-mail, or follow the instructions in each e-mail message. You can unsubscribe from our FareWatcher Plus service by editing your preferences in the FareWatcher Plus box of your "My Account" page. You may also unsubscribe from all Travelocity promotional communications, "Roaming Gnome Recommends", and FareWatcher Plus by clicking on the "unsubscribe" link in our e-mail. From time to time, we may use your personal information to send important notices, such as notifications about your trip or your account. Because this information is important to your interaction with Travelocity, you may not opt-out of receiving these communications. If using a mobile device, you may be able to configure the settings on the device not to provide location-specific information. However, if your device is configured to provide location-specific information, it is not possible at this time for you to opt-out of our gathering of such information via your mobile device. 
 
-  1. What information is collected? 
-    1. You may choose to provide feedback to ZUJI, for example through email or letters. The comments in your feedback, as well as your Personal Information, if provided to ZUJI, may be kept on record. 
-  2. Why do we collect it? 
-    1. The feedback that you choose to provide is valuable in helping ZUJI make improvements to our service to you. In order to follow-up on the feedback you have chosen to provide, ZUJI may correspond with you using the Personal Information that you have provided. 
+## How can I update or correct my personal information?
 
+At any time, you can view and/or update your service preferences for our "Roaming Gnome Recommends", promotional e-mails, or FareWatcher Plus services. You can also update your personal profile, which includes member registration and travel preferences information, through "My Account" - accessible via "My Account" on the Travelocity home page. You may request that account information be deleted or deactivated for marketing purposes by e-mailing us via this link . and referencing the Privacy Policy-Deactivate Account in the subject line. Because of the way we maintain certain files, after you update your information or request that your account be deactivated for marketing purposes, residual copies of your information may remain in our active servers for a period of time and may remain in our backup systems. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical. Information may also be retained as required by law or for legitimate business purposes. 
 
+## What safeguards are in place to protect the loss, misuse or alteration of your information?
 
-**6\. Cookies**  
+While no website can promise complete security, we have implemented administrative, technical, and physical security procedures designed to protect the personal information you provide to us. For example, only authorized employees are permitted to access personal information, and they may only do so for permitted business functions. In addition, we use encryption when transmitting your sensitive personal information between your system and ours, and we employ firewalls and intrusion detection systems to help prevent unauthorized persons from gaining access to your information. 
 
+## Visiting our website from outside the United States
 
-  1. What information is collected? 
-    1. When you visit our Websites as a guest or as a member, a cookie is stored onto your computer. A cookie is a small, encrypted text file containing some information about your preferences and allows your usage to be tracked. The use of cookies is now an industry standard, and you will find them used on most major websites. However, you can always choose to disable cookies from being stored on your computer by changing your browser settings. Disabling cookies, however, may result in a limited experience of our functionality and services and in some cases may mean that we are unable to provide you with the services, or parts of the services, that you have requested. Some of our business partners whose content is incorporated into or linked to from our Websites may also use cookies. However, we have no access to or control over these cookies and the use of such cookies by our business partners are not governed by this Privacy Policy.
-  2. Why do we collect it? 
+If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States, where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy. 
 
-Cookies, when stored on your computer, facilitate the following:
+## What other information should I know about my privacy?
 
-    1. Cookies allow us to save encrypted passwords and preferences for you so that you will not have to re-enter them the next time you visit our Websites. This means you will be able to enjoy conveniences such as login without having to type your login name every time you visit ZUJI. 
-    2. ZUJI will be able to make improvements to our Websites and customize your ZUJI experience using statistics collected from cookies. These statistics are anonymous to third parties, and may also be used by ZUJI's third party advertising companies, to serve and monitor the effectiveness of advertisements on our Websites and across the Internet on our behalf.
-    3. The use of cookies, including session ID cookies by our business partners, make it easier for you to navigate our Websites, such as but not limited to, your use of the shopping cart and other features.
+When using the Travelocity Service, you will see links to third party web sites, applications and services. Please note that when you click on one of these links, you will be using another company's web site, application or service. Except as set forth herein, we do not share your personal information with those third parties, and are not responsible for their privacy practices. We encourage you to read the privacy statements of all such sites as their policies may be materially different from this Privacy Policy. Of course, you are solely responsible for maintaining the secrecy of your passwords and your Travelocity membership account information. Please be very careful, responsible, and alert with this information, especially whenever you're online. 
 
+This Privacy Policy was last revised on January 22, 2015. We may change or supplement this Privacy Policy from time to time. Any material changes in the way we use personal information will be described in future versions of this Privacy Policy. If any proposed change is unacceptable to you, you may request that we remove your personal information from our records by e-mailing us via this link. Also, please review the information above under the heading "How can I update or correct my personal information?" Of course, you may always submit concerns regarding our Privacy Policy or our privacy practices via email by clicking on the same link. Please reference the privacy policy in your subject line. You can also write to us at: Travelocity, 3150 Sabre Drive, Southlake, Texas 76092 Attn: Privacy Team. 
 
-
-**7\. Other Computer Information**  
-
-
-  1. What information is collected? 
-    1. Session information such as IP (Internet Protocol) addresses, browser types, operating systems are also used for ZUJI's system administration.
-  2. Why do we collect it? 
-    1. Session information will allow us to enhance your experience on ZUJI by allowing us to troubleshoot technical issues as well as to improve our Websites usability. It is also used to help prevent fraud or unauthorized use of our Websites.
-
-
-
-**8\. Express Consent To Receive Pre-Recorded And Text Messages**  
-
-
-  1. What information is collected? 
-    1. When you make Bookings, we will request you to provide us with a contact telephone number. 
-  2. Why do we collect it? 
-    1. We will use your telephone number in the event that we need to inform you of changes or other matters that may affect your booking or trip, such as changes due to flight delays, inclement weather, and cancellations. We may use an automatic telephone dialing system, artificial or prerecorded voice messages, or text messages to provide you with such updates. When you provide us with a cellular, wireless, or mobile telephone number as the contact number for a trip, you agree that you are providing us with your express consent to receive prerecorded voice messages or text messages related to your booking from ZUJI or any of our vendors or suppliers. If you do not wish to receive these trip updates on your cellular or mobile phone, please provide us with another telephone number. 
-
-
-
-Back to Top
-
-## D. Who do we share your information with?
-
-  1. ZUJI is the owner of all the Personal Information collected on our Websites or via the Bookings. We do not sell or rent any Personal Information to third parties.
-  2. In making a travel booking on our Websites, you may choose the option to send your itinerary to a friend, in which case an email with your trip details, such as hotel information, is sent to the email address that you specify. Your friend's email address will be used solely for the purpose specified above.
-  3. We may disclose your Personal Information on occasion to third parties. Some of these third parties may be located outside your home country. For example, such countries may include, without limitation, Singapore, Malaysia, Australia, New Zealand, Hong Kong, Taiwan, Brunei and the US. The Personal Information will be protected in a manner that is consistent with this Privacy Policy. Disclosure may include without limitation, the following scenarios: 
-    1. To successfully complete your travel reservations or purchases or otherwise implement our terms of service, your Personal Information is provided as needed to third party product and service providers and distributors including without limitation the airlines, hotels, car rental agencies, travel insurance agencies or other third parties authorised by ZUJI, whenever you purchase or reserve travel with ZUJI.
-    2. When third parties have been authorised by ZUJI to perform projects such as market research surveys on our behalf or to offer you additional products and services.
-    3. When required by law to disclose the Personal Information.
-    4. With your prior express consent.
-    5. To protect the rights and property of ZUJI.
-  4. ZUJI may share your Personal Information with third parties when you engage in certain activities on our Websites that are sponsored by third parties, such as electing to receive information or communications from a third party (such as a hotel company or a tourism board for a particular destination), or electing to participate in promotions, contests, sweepstakes, games or other programs sponsored in whole or in part by a third party. ZUJI may also share your Personal Information when you respond to promotional materials from ZUJI and authorize a third party to use your Personal Information for purposes such as, for example, sending you additional promotional materials, providing you a product or service, or entering you in a contest, sweepstakes or game. We refer to all of these activities and requests as "Sponsored Activities." When you participate in Sponsored Activities, you will either be required or requested to agree that ZUJI may send your Personal Information (such as, in some cases, your mailing address or e-mail address) to the sponsor, and the sponsor may use your Personal Information in accordance with the sponsor's privacy practices. **In each case described in this section, ZUJI will only share your Personal Information after receiving your consent.** You should know that when ZUJI shares your Personal Information with a third party under any circumstance described in this section, your Personal Information will become permanently subject to the information use and sharing practices of the third party, and the third party will not be restricted by ZUJI's Privacy Policy with respect to its use and further sharing of your Personal Information.
-  5. Links may be present on our Websites which result in you leaving our Websites and being taken to other third party websites. You should note that any Personal Information that you provide to these third party websites are not subject to this Privacy Policy, and we strongly recommend that you be aware of their respective privacy and security policies.
-  6. ZUJI may also work with third parties that serve advertisements to our Websites and across the Internet on our behalf. Such third parties may (a) collect anonymous information about your visits to our Websites, and your interaction with our products and services, and (b) use information about your visits to our Websites and other websites to target advertisements for goods and services. This anonymous information is collected through the use of web beacons such as but not limited to pixel tags, which is industry standard technology used by most major websites. The web beacons may be used with cookies to compile aggregated statistics to analyze how our Websites are being used and may also be used on some of our emails to let us know which emails and links have been opened by the recipient. This allows us to gauge and monitor the effectiveness of our customer communications, advertisements and marketing campaigns on our Websites and across the Internet. No Personal Information is collected or used in this process. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service providers, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). You can also read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiative's website by clicking [here](http://www.networkadvertising.org/).
-  7. You should also note that the processing of Personal Information on our Websites and the transmission of transaction messages relating to your travel reservations or purchases or Bookings, including your Personal Information, may involve transmissions over various networks (which may not be secure) and to various countries (including the US) and further processing and storage of data in such countries.
-  8. We may also disclose your Personal Information to our affiliates and non-affiliated business partners for their use both on our behalf and for their own business purposes. For example, our affiliates and business partners may use such Personal Information to send you information about their products, services, other information, and materials that may be of interest to you.
-  9. To effect a corporate transaction, in connection with the sale, merger, acquisition, spin-off, or other corporate reorganization of our corporation, where your Personal Information may be disclosed, shared or transferred to the new controlling entity or other such authorised third party in the regular course of business.
-
-
-
-Back to Top
-
-## E. You have control over your information!
-
-  1. Opt-In and Opt-Out Policy 
-    1. While ZUJI hopes that you benefit from our product and service offers, at any time, you always have the option to opt-in or opt-out (as the case may be) to or from participating in ZUJI's product and service offers. For example, you will be given the option to unsubscribe to newsletters by unchecking the respective box. Please allow some time for this request to be processed.
-    2. We also offer you the ability to opt-in or opt-out (as the case may be) to or from receiving information of our products and services, by accessing and changing your Personal Information or by sending an e-mail to us at [subscribe@zuji.com](mailto:subscribe@zuji.com) or [unsubscribe@zuji.com](mailto:unsubscribe@zuji.com) (as the case may be). Please allow some time for this request to be processed.
-    3. If you do not want us to use your Personal Information or to share your Personal Information with third parties that are ZUJI's partners, please e-mail us at [privacy@zuji.com](mailto:privacy@zuji.com). Please allow some time for this request to be processed.
-    4. If you decide that you do not want ZUJI to use your Personal Information or to share your Personal Information with third parties, you understand and accept that this may in some cases impact on the availability of services and the quality of services that ZUJI may provide to you and may mean that the services provided to you (if possible at all) by ZUJI may not be customised for your use, may be less user-friendly and less efficient.
-  2. Accessing your Personal Information and retention of Personal Information 
-    1. You may at any time access, delete or change your Personal Information or subscribed services. You can easily access your Personal Information if you login as a member to ZUJI or you can follow the links that may be provided within our subscription emails to you to manage your subscription preferences. Although we will take reasonable steps to keep your Personal Information accurate, complete and up-to-date, we request that you keep your Personal Information as current as possible so that we may continue to improve our service to you. 
-    2. We will only withhold your access to the Personal Information in limited circumstances where it is permitted by law, such as: 
-      1. where it might be dangerous if you were to have it;
-      2. where it might prejudice an investigation currently underway;
-      3. where it relates to court proceedings and may be subject to the discovery process;
-      4. where it may relate to a commercially sensitive decision-making process; or
-      5. where other individuals' Personal Information is contained in the same record.
-    3. You agree that ZUJI may retain your Personal Information for a period of seven (7) years from the date you last accessed your account.
-  3. Minors 
-    * As we cannot distinguish the age of persons who access our Websites, a blanket privacy policy is applied. ZUJI does not seek or intend to seek to receive any Personal Information from minors (i.e. children younger than thirteen years of age). Should a parent or guardian have reason to believe that a minor has provided ZUJI with Personal Information without their prior consent, please contact us to ensure that the Personal Information is removed and unsubscribe them from any promotional contact opportunities. 
-  4. Tell-A-Friend 
-    * If you choose to use our referral service to tell a friend about our Websites, we will ask you for your friend's Personal Information including without limitation, name and email address. We will automatically send your friend a one-time email inviting him or her to visit our Websites. ZUJI stores such Personal Information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
-  5. Security 
-    1. ZUJI has implemented technology and security features to safeguard the privacy of your Personal Information. A secure server protects your Personal Information. Additionally you can be assured that the information you provide to ZUJI is transmitted using Secure Socket Layer (SSL) encryption. If you become aware of any security breach, please let us know as soon as possible. 
-    2. We have internal procedures in place requiring our employees and data processors to respect the confidentiality of any Personal Information held by ZUJI. 
-    3. ZUJI will endeavour to take all reasonable steps to keep secure any Personal Information which we hold about you. Your Personal Information is stored on secure servers that are protected in controlled facilities. Unfortunately, despite the aforementioned technology and security features, no data transmission over the Internet can be guaranteed to be 100% secure, so we cannot give an absolute assurance that the Personal Information you provide to us will be secure at all times, and we cannot be responsible for any event arising from unauthorised access to your Personal Information. ZUJI will not be held responsible for events arising from third parties gaining unauthorized access to your Personal Information. 
-    4. Please note also that ZUJI may use overseas facilities to process or back up your Personal Information. As a result, we may transfer to and store your Personal Information at our overseas facilities. However, this does not change any of our commitments to safeguard your privacy in accordance with this Privacy Policy. 
-  6. Keep your password safe 
-    1. You can play your part in safeguarding your Personal Information by never disclosing your login password or account information to anybody unless such person is duly authorized by you. Whenever you login as a member on ZUJI, particularly on somebody else's computer or on public internet terminals, you should always logout at the end of your session. Your assistance will help us protect the privacy of your Personal Information. 
-    2. ZUJI cannot be held responsible for lapses in security caused by third party accesses to your Personal Information as a result of your failure to keep your Personal Information private. Notwithstanding the foregoing, you must notify us immediately if there is any unauthorised use of your account by any other internet user or any other breach of security. 
-  7. Contact us 
-    * If you have any queries regarding our Privacy Policy, or should you have reason to believe that a breach of privacy has occurred, please submit your concerns to [privacy@zuji.com](mailto:privacy@zuji.com) or in writing to 67 Ubi Avenue 1, #06-12 Starhub Green, Singapore 408942. 
-  8. Changes to the ZUJI Privacy Policy 
-    * ZUJI may amend this Privacy Policy from time to time. If we make any substantial changes in any way we use your Personal Information, we will notify you by posting a prominent announcement on our Websites or by way of an e-mail and you will have a choice as to whether or not we may use the Personal Information in this different manner. 
-
-
-
-Thank you for taking the time to understand our Privacy Policy.
-
-Back to Top
-
-  
-
+## Thank you for using the Travelocity Service! 
