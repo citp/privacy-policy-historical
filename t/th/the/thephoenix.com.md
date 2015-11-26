@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thephoenix.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017034108id_/http%3A//thephoenix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thephoenix.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126070235id_/http%3A//thephoenix.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
