@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the byond.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521232721id_/http%3A//www.byond.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byond.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126105125id_/http%3A//www.byond.com/Privacy) for the most accurate reproduction.*
 
 # BYOND - Make & Play Online Multiplayer Games - Community
 
