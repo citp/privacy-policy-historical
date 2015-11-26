@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gulfstream.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609070311id_/http%3A//www.gulfstream.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulfstream.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127001212id_/http%3A//www.gulfstream.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Gulfstream Aerospace - Legal - Privacy Policy
 
@@ -49,3 +49,7 @@ If you have any questions about this privacy policy, please contact us. We welco
 +1 912 965 3000  
 PO Box 2206  
 Savannah, GA 31402-2206
+
+### Safe Harbor Privacy Principles
+
+Gulfstream Aerospace Corporation complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Gulfstream has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Gulfstream’s certification, please visit <http://www.export.gov/safeharbor/>. 
