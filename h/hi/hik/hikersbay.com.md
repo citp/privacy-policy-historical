@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hikersbay.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429052327id_/http%3A//hikersbay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hikersbay.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126071943id_/http%3A//hikersbay.com/privacy) for the most accurate reproduction.*
 
-# None
-
-[](https://www.facebook.com/sharer/sharer.php?u=http://hikersbay.com) [](https://twitter.com/home?status=Check%20when%20is%20the%20best%20time%20to%20travel%20http://hikersbay.com%20%23travel%20%23traveltips%20%23vacation%20@hikersbay%20%23hikersbay%20) [](https://plus.google.com/share?url=http://hikersbay.com) [](https://pinterest.com/pin/create/button/?url=&media=http://hikersbay.com/assets/img/main/venice.jpg&description=Check%20when%20is%20the%20best%20time%20to%20travel%20http://hikersbay.com%20%23travel%20%23traveltips%20%23vacation%20@hikersbay%20%23hikersbay%20) [](https://www.linkedin.com/shareArticle?mini=true&url=http://hikersbay.com/&title=Best%20time%20to%20Travel&summary=Explore%20Most%20Popular%20Travel%20Destinations%20With%20HikersBay%0AA%20fact%20worth%20a%20thousand%20words,%20over%2012%20000%20000%20hikers%20traveling%20with%20us.%20Check%20when%20is%20the%20best%20time%20to%20travel.%20Plan%20your%20perfect%20journey%20with%20us.&source=http://hikersbay.com) [](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.hikersbay.com/&title=Best%20time%20to%20travel&bodytext=Check%20when%20is%20the%20best%20time%20to%20travel%20and%20start%20the%20journey%21&topic=podcasts_places_travel) [](https://www.blogger.com/blog-this.g?u=http://hikersbay.com&n=Check%20when%20is%20the%20best%20time%20to%20travel%20&t=Check%20when%20is%20the%20best%20time%20to%20travel%20and%20start%20the%20journey)
+# Privacy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [hikersbay.com/contact](mailto:octopus@hikersbay.com).
 
@@ -46,7 +44,7 @@ hikersbay.com has no access to or control over these cookies that are used by th
 
 #### Third Party Privacy Policies
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. hikersbay.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. hikersbay.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links")
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
 
@@ -55,7 +53,7 @@ We believe it is important to provide added protection for children online. We e
 
 #### Online Privacy Policy Only
 
-This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website. 
 
 #### Consent
 
