@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bakerhughes.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512081217id_/http%3A//www.bakerhughes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakerhughes.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126041752id_/http%3A//www.bakerhughes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BakerHughes.com
+# Privacy Policy | Baker Hughes
 
 Baker Hughes is committed to safeguard the privacy of information entrusted to us. The privacy principles set forth below are intended to tell you how we collect, use, and distribute user information via our primary public web site ([www.bakerhughes.com](http://www.bakerhughes.com/)). This statement also applies generally to all web sites operated by Baker Hughes (and its affiliates). This statement does not cover information collected from sources other than Baker Hughes web sites.
 
