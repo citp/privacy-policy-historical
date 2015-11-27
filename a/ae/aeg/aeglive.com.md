@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aeglive.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608092948id_/http%3A//www.aeglive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aeglive.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127150001id_/http%3A//www.aeglive.com/privacy) for the most accurate reproduction.*
 
 # AEG Live | Privacy
 
@@ -8,7 +8,7 @@
 
 The purpose of this Privacy Policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
-The Anshutz Entertainment Group (AEG) is committed to protecting your privacy. We use the information we collect about you to process and complete the commercial transactions you request, and to provide you with a more personalized experience on our site. We have created this privacy policy statement in order to demonstrate our firm commitment to protecting the privacy of all of our customers and visitors. The following Privacy Policy discloses the information-gathering and dissemination practices and policies of AEG.
+The Anschutz Entertainment Group (AEG) is committed to protecting your privacy. We use the information we collect about you to process and complete the commercial transactions you request, and to provide you with a more personalized experience on our site. We have created this privacy policy statement in order to demonstrate our firm commitment to protecting the privacy of all of our customers and visitors. The following Privacy Policy discloses the information-gathering and dissemination practices and policies of AEG.
 
 Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online. For some services, we either collect and transfer personal information to a service provider, or you may visit other merchants through links on our site who may collect and use your personal information. We encourage you to ask questions and to be very cautious before you disclose your personal information to others.
 
