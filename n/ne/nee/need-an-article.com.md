@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the need-an-article.com privacy policy that was archived on 2014-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140727071214id_/http%3A//needanarticle.com/index2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the need-an-article.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127141359id_/http%3A//needanarticle.com/index2/privacy-policy) for the most accurate reproduction.*
 
-# NAA Privacy Policy
+# Privacy Policy - Need an Article Privacy page Need An Article – Article Writing Service
 
 This Privacy Policy governs the manner in which Need an Article LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.needanarticle.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Need an Article LLC.
 
@@ -20,15 +20,15 @@ How we use collected information
 
 Need an Article LLC may collect and use Users personal information for the following purposes:
 
-\- To improve customer service  
+– To improve customer service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.  
-\- To personalize user experience  
+– To personalize user experience  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-\- To improve our Site  
+– To improve our Site  
 We may use feedback you provide to improve our products and services.  
-\- To process payments  
+– To process payments  
 We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.  
-\- To send periodic emails  
+– To send periodic emails  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. 
 
 How we protect your information
@@ -64,12 +64,9 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Need an Article LLC
-
-http://www.needanarticle.com
-
+Need an Article LLC  
+http://www.needanarticle.com  
 NeedanArticle. LLC  
 Nampa Idaho  
-208-703-0611
-
-http://naahub.com/go 
+208-703-0611  
+http://naahub.com/go
