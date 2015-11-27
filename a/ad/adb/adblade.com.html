@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adblade.com privacy policy that was archived on 2015-02-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150228204323id_/http%3A//adblade.com/doc/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adblade.com privacy policy that was archived on 2015-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151127170328id_/http%3A//www.adblade.com/doc/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,7 +8,7 @@
 <meta http-equiv="Expires" content="-1">
 <meta name="Description" content="Adblade provides unique advertising and monetization services, for both advertisers and publishers">
 <meta name="Keywords" content="Adblade, advertising, display advertising, cost per click, cpc, cpi, cost per install, online advertising, online marketing"><title>Adblade - Privacy Policy</title> 
-<link href="/css/adblade.css?v=1" media="screen" rel="stylesheet" type="text/css">
+<link href="/css/adblade.css?v=2" media="screen" rel="stylesheet" type="text/css">
 <link href="/css/adblade-common.css?v=1" media="screen" rel="stylesheet" type="text/css">
 <link href="/css/adblade-main.css?v=1" media="screen" rel="stylesheet" type="text/css">
 <link href="/css/adblade/common/messages.css" media="screen" rel="stylesheet" type="text/css"> 
@@ -31,26 +31,11 @@
 
     <script type="text/javascript">
     $(document).ready(function(){
-        $('.top-login-form-input').focus(function(){
-            $(this).prev().text('');
-        });
-        
-        $('.top-login-form-input').blur(function(){
-            if ($(this).val() == '') {
-            	$(this).prev().text($(this).attr('title'));
-            }
-        });
-        
-        if ($('.top-login-form-input').val() != '') {
-        	$('.top-login-form-input').prev().text('');
-        }
-
         $('#rememberMeCheckbox').bind('click keydown', function(){
         	clickCheckbox('remember', 'rememberMeCheckbox');
         });
-        $('#rememberMeLabel').click(function(){
-        	clickCheckbox('remember', 'rememberMeCheckbox');
-        });
+        // XXX <rstraight> Doesn't this duplicate the above? Afraid to remove it.
+        $('#rememberMeLabel').click(function(){ clickCheckbox('remember', 'rememberMeCheckbox'); });
     });
     </script>
         
@@ -59,14 +44,12 @@
             <tbody><tr>
                 <td>
                     <div class="top-login-form-elem">
-                        <label for="loginName">Email address</label>
-                        <input id="loginName" type="text" name="email" class="top-login-form-input" tabindex="1" title="Email address">
+                        <input id="loginName" type="text" name="email" class="top-login-form-input" tabindex="1" title="Email address" placeholder="Email address">
                     </div>
                 </td>
                 <td>
                     <div class="top-login-form-elem">
-                        <label for="password">Password</label>
-                        <input id="password" type="password" name="password" class="top-login-form-input" tabindex="2" title="Password">
+                        <input id="password" type="password" name="password" class="top-login-form-input" tabindex="2" title="Password" placeholder="Password">
                     </div>
                 </td>
                 <td>
@@ -88,7 +71,8 @@
     
 </div>
 
-<!-- END: top login form --><!-- main navigation menu -->
+<!-- END: top login form -->
+<!-- main navigation menu -->
 
 
 <div class="top-menu">
@@ -142,7 +126,7 @@
     <p class="bigger">General Privacy Policy</p>
     <p>Adblade Targeted Advertising and How to Opt-out</p>
     
-    "Cookies" are small data files that are sent to your browser and are stored on your hard drive, keeping track of your general activity on a site. When you make subsequent visits to our site or another site on our Advertising Network, your cookie gives us a summary of your preferences and past experiences on the site. This allows us to tailor Adblade services to your needs. Your cookie may be altered at different times throughout your visits to a site, and it is updated frequently as you use various Adblade features and services. We keep different data for different lengths of time. Include/Exclude Segment Categories (1 year). Ad Clicker (5 years). Conversion Cookie (1 month). Frequency Cap (varies by advertiser). Impression/Click Validator (Immediate). All server data is kept for 2 years and contains no personally identifiable information. All data is deleted at the end of relevant period.<br><br>
+    "Cookies" are small data files that are sent to your browser and are stored on your hard drive, keeping track of your general activity on a site. When you make subsequent visits to our site or another site on our Advertising Network, your cookie gives us a summary of your preferences and past experiences on the site. This allows us to tailor Adblade services to your needs. Your cookie may be altered at different times throughout your visits to a site, and it is updated frequently as you use various Adblade features and services. We keep different data for different lengths of time. Include/Exclude Segment Categories (1 year). Ad Clicker (2 years). Conversion Cookie (1 month). Frequency Cap (varies by advertiser). Impression/Click Validator (Immediate). All server data is kept for 2 years and contains no personally identifiable information. All data is deleted at the end of relevant period.<br><br>
     Every time you use Adblade services, our server may deliver certain customized information to you based on the data stored in your cookie. You may opt-out of our cookie-based targeted advertising. Click <a href="/doc/opt-out-in">here</a> to view/change your preferences for the Adblade Targeted Advertising program. Adblade shall retain data collected and used for these activities only as long as necessary to fulfill a legitimate business need, or as required by law. We comply with the <a href="http://www.ftc.gov/os/2009/02/P085400behavadreport.pdf" target="_blank">FTC Online Behavioral Advertising Principles</a>.<br><br>
     We may use third party advertising technology providers to serve advertisements and provide other services on this site and in connection with our Advertising Network. These services may include the use of web beacons, web bugs, action tags and third party cookies which read our cookies, or visa-versa, or involve the use of anonymous supplemental information (described below). To opt-out of certain behavior targeting programs not associated with Adblade, click <a href="http://www.networkadvertising.org/consumer/opt_out.asp" target="_blank">here</a> for the Network Advertising Initiative (NAI) opt-out tool.<br><br>
     "Clickstream data" is a trail of electronic information that is left at each web site you visit. This information can be collected and stored by a site's server. We may, for example, use clickstream data to tell us the type of computer and browsing software you use, the address of the site from which you encountered Adblade Advertisements, how much time you spend on each page of our site, how you navigate throughout the site and how we may tailor our web pages to better meet the needs of our users. To opt out of the Adblade Targeting Program, your browser must be set to accept cookies.  If you clear your browser's cookies, you may need to opt out again.<br><br>
@@ -159,7 +143,8 @@
     Last updated: October 5, 2011
     
     <br><br><br><br><br><br><br>
-</div></div>
+</div>
+</div>
 </div>
 
     <!-- begin: footer -->
@@ -290,6 +275,7 @@ qacct:"p-b8GPCpJxfqYm2"
     <!-- end: footer -->
 </div>
 </div>
+
 
 
 <!-- ~0 sec(s) --></body></html>
