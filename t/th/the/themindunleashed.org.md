@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the themindunleashed.org privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914093628id_/http%3A//themindunleashed.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themindunleashed.org privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127150004id_/http%3A//themindunleashed.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Mind Unleashed
-
-on 14 March, 2012 at 17:20
 
 This Privacy Policy governs the manner in which THE MIND UNLEASHED, INC. collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.themindunleashed.org](http://www.themindunleashed.org/) website (“Site”). This privacy policy applies to the Site and all products and services offered by THE MIND UNLEASHED, INC..
 
@@ -63,10 +61,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[THE MIND UNLEASHED, INC.](http://www.themindunleashed.org/)  
-[http://www.themindunleashed.org](http://www.themindunleashed.org/)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact: [THE MIND UNLEASHED, INC.](http://www.themindunleashed.org/) at:[ Contactthemindunleashed@gmail.com](https://web.archive.org/web/20151127150004id_/http%3A//themindunleashed.org/Contactthemindunleashed@gmail.com)
 
 This document was last updated on September 11, 2014
-
-* * *
