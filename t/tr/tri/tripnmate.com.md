@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripnmate.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504091544id_/http%3A//www.tripnmate.com/en/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripnmate.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127222206id_/http%3A//www.tripnmate.com/en/PrivacyPolicy) for the most accurate reproduction.*
 
 # Tripnmate - Privacy Policy
 
@@ -18,7 +18,7 @@ We use "Cookies“to record areas of the site which are of particular interest t
 
 Tripnmate reserves the right to hire third parties to perform studies such market research and to provide the data which are necessary to perform these studies. These data are then used exclusively for this project and are protected by the Confidentiality Agreement.
 
-Opt out of Newsletter you can opt out of our Newsletter at any time. You will find the instructions on this in the Newsletter. You can also send an e-mail to [newsletter@Tripnmate.com](https://web.archive.org/web/20150504091544id_/http%3A//www.tripnmate.com/en/newsletter@tripnmate.com).
+Opt out of Newsletter you can opt out of our Newsletter at any time. You will find the instructions on this in the Newsletter. You can also send an e-mail to [newsletter@tripnmate.com](mailto:newsletter@tripnmate.com).
 
 **Use of your Personal data**
 
@@ -77,12 +77,22 @@ If you receive an unsolicited email that appears to be from us or one of our mem
 
 We will retain your personal data only as long as is necessary for the purposes to which you consent under the Terms and Conditions and this Privacy Policy, or as is required by applicable law, and then we will delete it.
 
-Any suggestions or complains? If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, we encourage you to contact us at [Support@Tripnmate.com](mailto:support@tripnmate.com), If you are unhappy with their answer you can write to our Chief Privacy Officer at [rahul.chadha@tripnmate.com](mailto:rahul.chadha@tripnmate.com).
+Any suggestions or complains? If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, we encourage you to contact us at [support@tripnmate.com](mailto:support@tripnmate.com), If you are unhappy with their answer you can write to our Chief Privacy Officer at [rahul.chadha@tripnmate.com](mailto:rahul.chadha@tripnmate.com).
 
-Or Write us at -
+  
+
+
+Or Write us at - 
 
 **Tripnmate Stays**  
 60, Shastri Nagar,  
 Dehradun, U.K- 248001,  
 India  
+
+
+  
+**Tripnmate Stays**  
+perth level 18, QBE House,  
+200 St Georges Terrace Perth,  
+WA 6000  
 
