@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postmates.com privacy policy that was archived on 2015-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150403011431id_/https%3A//postmates.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postmates.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127162022id_/https%3A//postmates.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Postmates
 
