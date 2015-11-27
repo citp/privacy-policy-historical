@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fajlami.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509195134id_/http%3A//fajlami.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fajlami.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127173018id_/http%3A//www.fajlami.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy- Fajlami Dot Com
 
