@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the whatsyourprice.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628130633id_/https%3A//www.whatsyourprice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsyourprice.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127104340id_/https%3A//www.whatsyourprice.com/privacy) for the most accurate reproduction.*
 
 # WhatsYourPrice Dating - Privacy Policy
-
-## Our Privacy Policy
 
 WhatsYourPrice.com respects your privacy. All personal information you submitted to WhatsYourPrice.com will be kept in the strictest confidence.
 
@@ -14,7 +12,7 @@ We are committed to protecting the privacy of our users. We want to provide a sa
 
 ### Privacy Scope
 
-This privacy policy covers WhatsYourPrice.com's treatment of personally identifiable information that is collected when you are on the WhatsYourPrice.com website, and when you use WhatsYourPrice.com services. This policy also covers our treatment of any personally identifiable information that our business partners share with us.
+This privacy policy covers WhatsYourPrice.com’s treatment of personally identifiable information that is collected when you are on the WhatsYourPrice.com website, and when you use WhatsYourPrice.com services. This policy also covers our treatment of any personally identifiable information that our business partners share with us.
 
 ### Information Collected
 
@@ -54,7 +52,7 @@ Our credit card transactions are processed by Paypal or through our merchant acc
 
 ### Cookies
 
-To enhance your experience at WhatsYourPrice.com and to access member services, we use a feature on your Internet browser called a cookie. Cookies are small files that your web browser places on your computer's hard drive. We use cookies for remembering user preferences, user sessions, tracking visits to understand visitor behavior, and planning for increased loads. Because of our use of cookies, we can deliver a faster services and a more personalized website experience. You have the option of setting your browser to reject cookies. However, doing so will hinder your ability to logon or use member services offered on our website.
+To enhance your experience at WhatsYourPrice.com and to access member services, we use a feature on your Internet browser called a cookie. Cookies are small files that your web browser places on your computer’s hard drive. We use cookies for remembering user preferences, user sessions, tracking visits to understand visitor behavior, and planning for increased loads. Because of our use of cookies, we can deliver a faster services and a more personalized website experience. You have the option of setting your browser to reject cookies. However, doing so will hinder your ability to logon or use member services offered on our website.
 
 ### Privacy Policy Changes
 
