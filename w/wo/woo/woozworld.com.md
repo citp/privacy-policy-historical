@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woozworld.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503220724id_/http%3A//www.woozworld.com/community/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woozworld.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127143423id_/http%3A//www.woozworld.com/community/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Woozworld News
 
@@ -52,8 +52,8 @@ If you participate in our contests and surveys no PII will be required to do so.
 
 We offer the opportunity to purchase products in our online stores. When a user places an order, our third party’s transaction processor will require the following PII for a payment:
 
-\- by credit card: username, ****_full name of card holder_**** , ****_email address_**** , ****_mailing address_**** and ****_credit card information_**** ; or  
-\- by cell phone (SMS): username, ****_cell phone number_**** and ****_email address_****.
+– by credit card: username, ****_full name of card holder_**** , ****_email address_**** , ****_mailing address_**** and ****_credit card information_**** ; or  
+– by cell phone (SMS): username, ****_cell phone number_**** and ****_email address_****.
 
 After an order online is placed, we send a confirming email message and/or a SMS depending on the payment method. We may also send an occasional email featuring a special promotion or product that may be of interest to you. Any user who prefers not to receive promotional emails can indicate this preference in the account settings. Please note that, for legal reasons and for your protection, it is not possible to unsubscribe from transaction confirmation notifications when buying from the Website.
 
