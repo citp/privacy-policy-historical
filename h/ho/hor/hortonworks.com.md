@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the hortonworks.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315005412id_/http%3A//hortonworks.com/agreements/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hortonworks.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127144209id_/http%3A//hortonworks.com/agreements/privacy-policy) for the most accurate reproduction.*
 
 # Hortonworks Privacy Policy
+
+#### Effective Date: July 28, 2015
 
 This Privacy Policy is written in English (U.S.) and to the extent you review any translated version of the Privacy Policy, the English version controls.  If you have any questions about this Privacy Policy please contact us at [legal@hortonworks.com](mailto:legal@hortonworks.com).
 
 Protecting the individual’s privacy on the Internet is crucial to the future of Internet-based business and the move toward a true Internet economy. Hortonworks has created this privacy policy (the “Privacy Policy”) to demonstrate our commitment to secure and trustworthy Internet commerce and the individual’s right to privacy. This Privacy Policy is effective as to all users of [www.hortonworks.com](http://www.mulesoft.com/) (the “Website”) and the services available on that site , and incorporates by reference the Terms of Use. Terms with initial capital letters used in this Privacy Policy shall have the respective meanings assigned to them in the Terms of Use. The terms “Hortonworks,” “we,” and “our” refer to Hortonworks Inc. The terms “you” and “your” refer to the user or viewer of the Website.
 
 By using this Website, you consent to the collection and use of information as described herein. Hortonworks reserves the right to make changes periodically to this Privacy Policy at our sole discretion. Changes to the Privacy Policy will be posted on this page. Your continued use of this Website after any such changes constitutes your acceptance of the changes and of the revised Privacy Policy.
+
+No matter where you are located, you consent to the processing and transferring of your information in and to the U.S. and other counties. The laws of the U.S. and other countries governing data collection and use may not be as comprehensive or protective as the laws of the country where you live. And, your information may be made available to government or law enforcement requests.
 
 #### Use and Purpose of Collected Personally Identifiable Information
 
@@ -28,7 +32,7 @@ On our Website, we collect Personally Identifiable Information knowingly and vol
 
 
 
-We may also collect non-Personally Identifiable Information you choose to provide, such as your occupation, affiliated companies, and general location. Additionally, we may collect technical information relating to your mobile phone, mobile device or computer and the way you interact with the Website, such as your IP address, browser type, and aggregate user data. This information is used to identify your internet browser, store your user preferences, authenticate user sessions, provide services, and determine whether you have installed the software necessary to access certain material or applications on the Website.
+We may also collect non-Personally Identifiable Information you choose to provide, such as your occupation, affiliated companies, and general location. Additionally, we may collect technical information relating to your mobile phone, mobile device or computer and the way you interact with the Website, such as your IP address, browser type, and aggregate user data. This information is used to identify your internet browser, store your user preferences, authenticate user sessions, provide services, and determine whether you have installed the software necessary to access certain material or applications on the Website. Additionally, we may collect the following information: IP address, host name, domain name, and system and software logs. Hortonworks will use this information to identify, diagnose, and improve the services you have requested.
 
 #### Third Parties
 
@@ -61,7 +65,7 @@ The Website may contain links or references to other websites, including third p
 
 The “Sandbox” is Hortonworks’ self-contained virtual machine, including the Hortonworks Data Platform pre-configured to provide a personal, portable and standalone Hadoop environment.  We obtain the following information from users of the Sandbox:
 
-Via registration:  The Sandbox registration form requires users of the Sandbox to provide the following information, which includes Personally Identifiable Information:  full name, address, email, phone number, company name and role and project timeframe.
+Via registration:  The Sandbox registration form requires users of the Sandbox to provide the following information, which includes Personally Identifiable Information:  full name, address, email, phone number, company name and role and project time frame.
 
 Via Google Analytics:  When you use the Sandbox, we collect certain information via Google Analytics, including but not limited to:  referring site/ad source, your activity (for example, what pages visited and for how long), IP address, browser and operating system, source (which will always be the Sandbox IP address), default language set on your computer, your geolocation (by country) and the frequency and amount of time spent in the Sandbox (by IP address).
 
@@ -69,7 +73,8 @@ Hortonworks will use the above information for several purposes, including but n
 
 #### Online Security
 
-Hortonworks supports secure online shopping using secure server technology because we want your shopping experience to be simple and safe. Hortonworks **** will use commercially reasonable measures to safeguard Personally Identifiable Information stored in our servers and databases against loss, theft, and unauthorized disclosure or use. Please be aware that no security measures are perfect, and Hortonworks is under no obligation to use such security measures. Furthermore, we cannot control the actions of third parties with whom you choose to share information. We are therefore not responsible for circumvention of any security measures by third parties or of any unauthorized access or use of your Personally Identifiable Information made by third parties. Any disclosures that you make of your own volition to the Website or anyone else are made at your own risk.
+Hortonworks supports secure online shopping using secure server technology because we want your shopping experience  
+to be simple and safe. Hortonworks will use commercially reasonable measures to safeguard Personally Identifiable Information stored in our servers and databases against loss, theft, and unauthorized disclosure or use. Please be aware that no security measures are perfect, and Hortonworks is under no obligation to use such security measures. Furthermore, we cannot control the actions of third parties with whom you choose to share information. We are therefore not responsible for circumvention of any security measures by third parties or of any unauthorized access or use of your Personally Identifiable Information made by third parties. Any disclosures that you make of your own volition to the Website or anyone else are made at your own risk.
 
 If you ask us to delete your Personally Identifiable Information from our records, we will use commercially reasonable efforts to do so while retaining any record necessary to comply with a governmental authority or applicable federal, state, or local law. Even after removal, however, copies of your Personally Identifiable Information may remain viewable in cached or archived pages or if other users have copied or stored such information. If you would like to contact us about the Personally Identifiable Information you have submitted, please contact us at: legal@Hortonworks.com.
 
