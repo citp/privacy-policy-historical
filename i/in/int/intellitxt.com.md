@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the intellitxt.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526105335id_/http%3A//www.vibrantmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellitxt.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127011651id_/http%3A//www.vibrantmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Vibrant Media
 
-Vibrant Media, Inc. (“Vibrant Media” “we” or “us”) helps clients serve more relevant content and advertisements. We provide this privacy policy so we may inform you about how our technology (“Technology”) processes information for online advertisers, website owners, and other businesses that use our services (our “Clients”). This policy also outlines our privacy practices on our corporate Website (“Website”), [www.vibrantmedia.com](http://www.vibrantmedia.com/ "Vibrant Media"). If you have questions regarding our privacy and data practices, please contact us by [clicking here](https://web.archive.org/contact-us/). By using the Website, you accept the policies and restrictions set forth in this Privacy Policy.
+Vibrant Media, Inc. (“Vibrant Media” “we” or “us”) helps clients serve more relevant content and advertisements. We provide this privacy policy so we may inform you about how our technology (“Technology”) processes information for online advertisers, website owners, and other businesses that use our services (our “Clients”). This policy also outlines our privacy practices on our corporate Website (“Website”), [www.vibrantmedia.com](http://www.vibrantmedia.com/ "Vibrant Media"). If you have questions regarding our privacy and data practices, please contact us by [clicking here](http://www.vibrantmedia.com/contact-us/). By using the Website, you accept the policies and restrictions set forth in this Privacy Policy.
 
 ##### 1\. COLLECTION AND USE OF INFORMATION ON THIS WEBSITE
 
@@ -16,11 +16,11 @@ Personally Identifiable Information. This Website is directed to our Clients and
 
 Non-Personally Identifiable Information. We may collect Non-PII from visitors to this Website. Non-PII includes information such as your IP host address, pages viewed, browser type, Internet browsing and usage habits, Internet Service Provider, domain name, the time/date of your visit to this Website, the referring URL and your computer’s operating system. We may use this information for purposes including managing, operating, and enhancing the Website.
 
-Cookies We use cookies on this Website. Cookies are small text files placed in a visitor’s browser. Cookies make using our Website easier for visitors by, among other things, saving their login preferences and improving the usability of our Website. Through your browser settings, you may disable certain cookies. If you choose to disable your cookies setting or refuse to accept a cookie, some parts of the Website may not function properly or may be considerably slower. For more information about cookies please visit the Vibrant Media Cookie Statement by [clicking here](https://web.archive.org/cookies/).
+Cookies We use cookies on this Website. Cookies are small text files placed in a visitor’s browser. Cookies make using our Website easier for visitors by, among other things, saving their login preferences and improving the usability of our Website. Through your browser settings, you may disable certain cookies. If you choose to disable your cookies setting or refuse to accept a cookie, some parts of the Website may not function properly or may be considerably slower. For more information about cookies please visit the Vibrant Media Cookie Statement by [clicking here](http://www.vibrantmedia.com/cookies/).
 
 Third Party Websites The Website may contain links to and advertisements for websites operated by third parties whose privacy practices may differ from ours. Vibrant Media is not responsible for the privacy practices of these other websites. We encourage you to check the privacy policies of all websites that you visit.
 
-Updating / Deleting your PII If you’d like us to update, correct, or delete any PII that you have provided to us on this Website, please send your request to us by [clicking here](https://web.archive.org/contact-us "Contact Vibrant") and we will process your request.
+Updating / Deleting your PII If you’d like us to update, correct, or delete any PII that you have provided to us on this Website, please send your request to us by [clicking here](http://www.vibrantmedia.com/contact-us/ "Contact Vibrant") and we will process your request.
 
 Back to Top
 
@@ -34,7 +34,7 @@ We may combine non-PII with information (e.g., demographic data) provided by oth
 
 Visitors may encounter our Technology when they visit a web site: (1) where one of our Clients has enabled our advertising solution; (2) where Vibrant Media, or one of our Clients, purchases online advertisements; and/or (3) where one of our Clients places a web beacon or similar functioning technology. A consumer may “opt out” of certain practices as explained below.
 
-Storage of Non-Personally Identifiable Information. We retain the Non-PII collected via our Technology for up to 13 months. After 13 months, we remove the cookie identification number and IP addresses and store it for up to 5 years to maintain financial records as well as for data analytics purposes. For more information about how we use cookies, please visit our Cookie Statement [www.vibrantmedia.com/cookies](https://web.archive.org/cookies/ "Vibrant Cookies page").
+Storage of Non-Personally Identifiable Information. We retain the Non-PII collected via our Technology for up to 13 months. After 13 months, we remove the cookie identification number and IP addresses and store it for up to 5 years to maintain financial records as well as for data analytics purposes. For more information about how we use cookies, please visit our Cookie Statement [www.vibrantmedia.com/cookies](http://www.vibrantmedia.com/contact-us/ "Vibrant Cookies page").
 
 Back to Top
 
@@ -56,7 +56,7 @@ Back to Top
 
 ##### 5\. PARTICIPATION IN SELF-REGULATORY PROGRAMS
 
-We support the cross industry, Self-Regulatory Principles as managed by the DAA (“DAA”) (for more information [click here](http://www.aboutads.info/ "About Ads")). To provide consumers with enhanced transparency, we display the DAA’s Ad Choices Icon in advertisements delivered across our network to help make consumers aware of how data is being collected and used and to provide choices for consumers who want more control. Vibrant Media also is a member of (1) the Internet Advertising Bureau (“IAB”) and abides by IAB’s Member Code of Conduct, which you can review by [clicking here](http://www.iab.net/public_policy/codeofconduct "IAB") and (2) is an NAI member and adheres to the NAI Code of Conduct (“NAI”) opt-out tool for behavioral advertising, which you can review at [http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/ "NAI Opt-out tool").
+We support the cross industry, Self-Regulatory Principles as managed by the DAA (“DAA”) (for more information [click here](http://www.aboutads.info/ "About Ads")). To provide consumers with enhanced transparency, we display the DAA’s Ad Choices Icon in advertisements delivered across our network to help make consumers aware of how data is being collected and used and to provide choices for consumers who want more control. Vibrant Media also is a member of (1) the Internet Advertising Bureau (“IAB”) and abides by IAB’s Member Code of Conduct, which you can review by [clicking here](http://www.iab.net/public_policy/codeofconduct "IAB") and (2) is an NAI member and adheres to the NAI Code of Conduct (“NAI”) opt-out tool for behavioral advertising, which you can review at [http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/ "NAI Opt-out tool").
 
 Our Clients may separately collect Non-PII or other information from consumers. This Privacy Policy does not apply to the privacy practices of our Clients, and we are not responsible for their collection of Non-PII or other information from you.
 
@@ -78,11 +78,13 @@ Back to Top
 
 If you have any questions or comments about [www.vibrantmedia.com](http://www.vibrantmedia.com/ "Vibrant Media") or about this privacy policy, please contact:
 
-Via mail: Vibrant Media, Inc. 565 Fifth Avenue, 16th Floor, New York, NY 10017  
-Via email: [info@vibrantmedia.com](mailto:info@vibrantmedia.com "Contact Vibrant")  
+Via mail: Vibrant Media, Inc. 565 Fifth Avenue, 16th Floor, New York, NY 10017
+
+Via email: [info@vibrantmedia.com](mailto:info@vibrantmedia.com "Contact Vibrant")
+
 Via telephone: (646) 312-6100
 
-Or you can submit an inquiry [here](https://web.archive.org/contact-us/ "Contact Vibrant Privacy").
+Or you can submit an inquiry [here](http://www.vibrantmedia.com/contact-us/ "Contact Vibrant Privacy").
 
 Back to Top
 
