@@ -1,14 +1,19 @@
-> *The following text is extracted and transformed from the siliconexpert.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627233547id_/http%3A//www.siliconexpert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconexpert.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127120455id_/http%3A//www.siliconexpert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SiliconExpert
 
-SiliconExpert Technologies  
+###  Privacy Policy
+
+### SiliconExpert Technologies  
 2975 Scott Blvd. Suite 100  
 Santa Clara, CA 95054  
-[info@siliconexpert.com](mailto:info@siliconexpert.com)
 
-Direct: 408-330-7575  
-Fax: 408-330-7511
+
+### [info@siliconexpert.com](mailto:info@siliconexpert.com)
+
+### __: 408-330-7575
+
+### __: 408-330-7511
 
 We collect the domain name and e-mail address (where possible) of visitors to our web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages visitors access or visit, user-specific information on what pages visitors access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, fax number.
 
@@ -32,8 +37,6 @@ Upon request we provide site visitors with contact information (e.g.: name, addr
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from visitors at our site.
 
-If you feel that this site is not following its stated privacy policy, you may contact us at the above addresses or phone number. For more information please 
+If you feel that this site is not following its stated privacy policy, you may contact us at the above addresses or phone number. For more information please [ _contact us_](http://www.siliconexpert.com/contact-us).
 
-[_contact us_](https://web.archive.org/contact-us)
-
-. 
+© 2015 All Rights Reserved. SiliconExpert Technologies, Inc.
