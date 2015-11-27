@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the qualityhealth.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315025812id_/http%3A//www.qualityhealth.com/privacyPolicy/footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualityhealth.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127172330id_/http%3A//www.qualityhealth.com/privacyPolicy/footer) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Updated: July 15th, 2014 
-
-[ ](https://privacy.truste.com/privacy-seal/QualityHealth/validation?rid=4b13e197-f5b6-4439-8385-18fcebd44047 "TRUSTe online privacy certification")
+Updated: Oct 9th, 2015 
 
 ## Company Practices
 
