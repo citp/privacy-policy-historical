@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superdrug.com privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412040501id_/http%3A//www.superdrug.com/acc/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superdrug.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127201956id_/http%3A//www.superdrug.com/acc/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Superdrug
 
@@ -87,7 +87,7 @@
 
 ## 5\. Marketing Messages
 
-> We may send you, by post, email or push notification, details of products, services, special offers, promotions and other information that we think may be of interest to you based on your previous purchases and information you have given to us. From time to time we may also contact you for customer research purposes. You may unsubscribe from such communications at any time, by changing your communication preferences in the 'My Account' section of the Sites, via the unsubscribe link that you will find at the bottom of every marketing email we send or by contacting customer relations on email: [customer.relations@uk.aswatson.com](mailto:customer.relations@uk.aswatson.com) or the Beautycard helpline on email: [beautycard@superdrug.com](mailto:beautycard@superdrug.com). However if you do unsubscribe you may miss out on some great offers.
+> We may send you, by post, email or push notification, details of products, services, special offers, promotions and other information that we think may be of interest to you based on your previous purchases and information you have given to us. Third parties may also, working on our behalf, market to you via social media channels. From time to time we may also contact you for customer research purposes. You may unsubscribe from such communications at any time, by changing your communication preferences in the 'My Account' section of the Sites, via the unsubscribe link that you will find at the bottom of every marketing email we send or by contacting customer relations on email: [customer.relations@uk.aswatson.com](mailto:customer.relations@uk.aswatson.com) or the Health & Beautycard helpline on 03456 710 709 (Option 2), alternatively you can email: [help@superdrug.com](mailto:help@superdrug.com). However if you do unsubscribe you may miss out on some great offers.
 > 
 > ### _Email a friend_
 > 
@@ -124,7 +124,7 @@
 > 
 
 > 
-> You can send an email to customer relations on email: [customer.relations@uk.aswatson.com](mailto:customer.relations@uk.aswatson.com) or the Beautycard helpline on email: [beautycard@superdrug.com](mailto:beautycard@superdrug.com) or write to us at: Superdrug Stores plc, 118 Beddington Lane, Croydon, Surrey, CR0 4TB, United Kingdom.
+> You can send an email to customer relations on email: [customer.relations@uk.aswatson.com](mailto:customer.relations@uk.aswatson.com) or the Health & Beautycard email: [help@superdrug.com](mailto:help@superdrug.com), you can also call our helpline on 03456 710 709 (Option 2), or write to us at: Superdrug Stores plc, 118 Beddington Lane, Croydon, Surrey, CR0 4TB, United Kingdom.
 
 * * *
 
@@ -165,7 +165,8 @@
 **Cookie** | **Originating Page** | **Used by** | **Essential for Checkout?** | **Expiry**  
 LoginToken | Homepage | Platform | NO | 1 day  
 acceleratorSecureGUID | Homepage | Platform | NO | End of session  
-JSESSIONID | Homepage | Platform | NO | End of session  
+bvf_(client checksum) |   | Platform | NO | Session  
+BVImpl |   | Platform | NO | Session  
   
 ## Third Party Cookies
 
@@ -207,6 +208,16 @@ DS3 |   |
 Used for PPC Campaign
 
 |   | End of session  
+BVID |   | 
+
+Allows internal BV (Bazaar Voice) web analytics to be correlated to the same user for interactions across the BV network.
+
+| NO | 18 months  
+BVSID |   | 
+
+Allows internal BV web analytics to be correlated to the same user browsing session for interactions across the BV network.
+
+| NO | 30 minutes of inactivity  
   
 ## Peerius Cookie Set
 
