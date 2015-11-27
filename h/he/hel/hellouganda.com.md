@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hellouganda.com privacy policy that was archived on 2015-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150211081221id_/http%3A//hellouganda.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellouganda.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127033349id_/http%3A//hellouganda.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Hello Uganda Services Ltd
 
   
 Privacy Policy Guidelines  
