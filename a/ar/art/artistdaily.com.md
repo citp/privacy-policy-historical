@@ -1,86 +1,97 @@
-> *The following text is extracted and transformed from the artistdaily.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207004053id_/http%3A//www.artistdaily.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artistdaily.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127155400id_/http%3A//www.fwcommunity.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy artistdaily.com
+# Privacy | F+W
 
-Our foremost concern is to protect your privacy and provide a safe online experience for everyone. This privacy policy concerns the information collected through the artistdaily.com website. It is designed to help visitors understand what kind of information we collect from our sites, and how we deal with this information once we gather it.
+Privacy Policy
 
-The purpose behind the collection of information is to make our services easier to use and also to provide a more satisfying user experience and establish a personalized relationship with the users. We have adopted a set of information management guidelines that serve as the basis for our customer and advertiser relationships
+[Click here to view our Terms of Use Policy, Updated April 22, 2015](http://www.fwcommunity.com/termsofuse)
 
-From time to time, artistdaily.com may inform you about new products or services, which may affect this policy. We expect that this policy will be updated in the future. These updates and any other privacy conditions related to these services will be posted on this page without notification. However, the effective date of the Privacy Policy will always be posted. 
+SUMMARY  
+This web site is owned by F+W Media, Inc. (“F+W”). At F+W, our goal is to offer products and services that will allow our customers to lead fuller, richer lives. The same holds for how we communicate with you and how we handle your personal data. It’s important to us that you understand what information we collect, how we protect it, and how we use it — and to provide clear instructions if you choose to request changes in how we communicate with you.
 
-**The information we collect  
-**
+GENERAL CONTACT INFORMATION  
+Our postal address is:  
+F+W Media, Inc.  
+10151 Carver Road Suite #200  
+Blue Ash, OH 45242  
+513.531.2690
 
-While surfing on the net you could possibly register with one or several sites affiliated with our site, order a product or a service, express via an online posting or letter to the editor, your opinion about a subject, participate in sweepstakes or other promotions or request free stuff or simply participate in one of many online forums. 
+To ensure that your communications are properly routed, we ask that you identify the F+W products or services (web site, magazine, book club, etc.) relevant to your inquiry when contacting us. If you would like to receive a response, please be sure to include sufficient information to enable us to contact you (such as an email or postal address).
 
-In the process of filling these orders, or facilitating your participation, we have the right to collect information about you including your name, email address, gender, personal interests, occupation and in some cases your postal mailing address. We may also collect personal information from you through your use of survey and feedback forms and every time you email us your details.
+INFORMATION WE COLLECT  
+Information about your computer hardware and software  
+For each visitor to our web site, our web server automatically recognizes your IP address. The address allows our server to deliver the information you request from us, such as an article or a form for posting to a discussion board. We also collect visitors’ IP addresses in their domain-name form, allowing us to understand for instance how many visitors access our site through various service providers. We collect this information on an individual basis and in aggregate, or combined, form.
 
-Sometimes, you may submit information about a friend of yours or a member of your family like emails, names, and telephone numbers or whatever to send a greeting card or to invite this person to share information with you. 
+We also collect both user-specific and aggregate information on what pages visitors access or visit. We use the information to improve the content of our web pages and to customize the content and layout of our pages.
 
-Following registration, we will employ a registration cookie to recognize a subscriber and his or her access privileges on our website(s). This information is also used to monitor site usage. We can also log from your browser the sites you visit, your internet service provider and your IP Address (the location of your computer on the internet.)
+We use cookies to store visitors’ preferences, record session information such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, and to customize Web page content based on visitors’ browser type or other information that the visitor sends. We use both session cookies and persistent cookies.
 
-**How we use the information**  
+Email address, postal address, telephone number
 
+If at any time you provide us with your email address to place an order or access a service, we collect that information. Areas in which we may collect your email address include but are not limited to discussion boards; chat areas; product or service transactions; emails you send us; and interactive forms. If you provide us with your email address, you may receive periodic promotional emails from us and carefully selected partners with information regarding special offers or new products or services. You may also receive informational emails from us related to any user accounts you have set up with us, as well as administrative notices regarding the operation of the web site.  
+If you supply us with your postal address online, you may receive periodic mailings from us and carefully selected partners with information on new products and services.
 
-Our mission is to improve our most popular services and promote the unfamiliar ones. As we aim to establish a personalized relationship with you, the information we collect about you is used to communicate with you. We can also contact you to notify you when you have won one of our contests or to express our appreciation for your registration with us.
+Visitors who supply us with their telephone numbers online may receive telephone contact from us with information regarding new products and services or upcoming events. We do not rent telephone contact information to third parties.
 
-We use your email to send you newsletters, promotional offers and surveys, your address to mail gifts and sweepstakes offered to you, and your phone number to notify winners who have not responded to our e-mails.
+Finally, we keep any information volunteered by the consumer, such as survey information and/or site registrations, both in aggregate and personally identifiable ways.
 
-Sometimes, you provide information about other people. We use this information to send them your gifts or cards. We may as well offer them products, programs, or services. Our members, who need to verify and update their own information, may have access to it, but they cannot view other members' information.
+HOW WE MAY SHARE YOUR INFORMATION  
+We may share the information we collect on the web site with our trusted partners, including but not limited to affiliates, marketing partners, and fulfillment or customer service agents. Our partners may use this information to contact you for marketing purposes.
 
-In fact, the personal information we get from our clients is meant to be analyzed in order to improve our site's design and content. We eventually can implement the statistical analyses of the user behaviour to measure his relative interest in the multiple site areas.
+California Privacy Rights  
+Pursuant to California Civil Code Section 1798.83, F+W customers who are California residents can request certain information about the sharing of their own personal information with third parties for direct marketing purposes during the past year. California residents can request this disclosure by sending a request to F+W Media, Inc., Attention: Privacy, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to privacy@fwmedia.com. To help us process your request, please provide sufficient information to allow us to identify you in our records, and identify the F+W products or services (website, magazine, book club, etc.) you have used.
 
-As far as advertising is concerned, the use of information about you will help us to target banner and box advertising on the site and so to inform advertisers how many users have viewed their advertisements.
+OPT OUT PROCEDURES  
+If you do not wish to receive promotional emails from us, please let us know by using the opt-out response device that can be found at the bottom of every email we deliver or by emailing us at privacy@fwpubs.com. To help us process your request, please include sufficient information for us to identify you in our records (your email address will suffice) and identify the F+W products or services (web site, magazine, book club, etc.) you have used and from whose mailing lists you wish to be removed. If you wish to be removed from all F+W emailing lists, please indicate so in your request. Please allow a reasonable time for us to process your request.
 
-Accordingly, the information you purposely provide us with will facilitate research and give anonymous direct and indirect reporting for internal and external clients. However, we may disclose personally identifiable information in response to legal process, for example, in response to a court order or to a law enforcement agency's request.
+Note that, although you can opt not to receive promotional emails, F+W retains the right to send registered users of its web sites informational email messages about the user’s account or administrative notices regarding the site, as permitted under the CAN-SPAM Act (15 U.S.C. §7701 et seq.).
 
-We cannot guarantee that personally identifiable information that we collect about you will never be disclosed despite our appropriate measures to safeguard against unauthorized disclosures of information.  
-Occasionally, the information that we receive online will reinforce our marketing strategy about products and services that you are interested in.
+If you do not wish to receive mail or telephone calls from us, please let us know by sending your request to: F+W Media, Inc., Attention: List Manager, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to listdept@fwmedia.com. To help us process your request, please include sufficient information to allow us to identify you in our records (at a minimum, we will need your postal address to remove you from our mailing list, or your telephone number to remove you from our call list) and identify the F+W products or services (web site, magazine, book club, etc.) you have used and from whose mailing or call lists you wish to be removed. If you wish to be removed from all F+W contact lists, please indicate so in your request. Please allow a reasonable time for us to process your request.
 
-**Collection of information by third -party sites and sponsors  
-**
+If you do not wish for us to share your information with our trusted partners, please let us know by sending your request to: F+W Media, Inc., Attention: List Manager, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to listdept@fwmedia.com. To help us process your request, please include sufficient information to allow us to identify you in our records (at a minimum, we will need your postal address to remove you from a mailing list, or your email to remove you from an email list) and identify the F+W products or services (web site, magazine, book club, etc.) you have used. Please allow a reasonable time for us to process your request.
 
-Sometimes, we make use of the services of external companies like data processors who will not reveal personal details to any other organizations or to use your data for any other additional purposes
+AD SERVERS  
+To bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
 
-From time to time, we will present the opportunity to choose offers from the third parties, which do not belong to us. Once you accept these offers, we will transfer your information to the third parties under permission. However, you must take into consideration that our privacy policies may differ from those of a third party.
+Burst Media: http://www.burstmedia.com/isl/index.asp?page=privacy  
+Google Inc. http://www.google.com/intl/en/privacy.html
 
-In addition, our users are free to send articles or links by E-mail to other parties. We cannot keep any email address of either the sender or the recipient unless you are a member of our site.
+ANALYTICS  
+To determine how many users visit our site and to better understand the areas of greatest interest to our visitors, we have relationships with other companies that compile this information for us. As a result of your visit to our site, web analytics companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
 
-**Cookies**  
+Google Inc. http://www.google.com/intl/en/privacy.html  
+Omniture, Inc. http://www.omniture.com/privacy/product
 
+THIRD PARTY ADVERTISING TECHNOLOGIES  
+We use analytics tools and other third party technologies, such as Google Analytics and DoubleClick Cookies, to collect non-personal information in the form of various usage and user metrics when you use our online Sites and/or Services.
 
-Cookies are a standard Internet technology that allows us to track the site's traffic. Cookies are a small files stored by the browser program on your computer's hard drive. Cookies cannot provide us your e-mail address or other personally identifiable information about you unless you register at one of our sites. By doing so, it would be possible for Cookies to identify registered users without any need to ask for registration details every time you access one of our sites. The use of cookies makes our system more efficient since we realize how to improve the content and the marketing of our site.   
-You are able to accept or refuse cookies by changing your browser settings. Our web sites can be seen even if you do choose to block the cookie function on your browser. Member area cookies are also used to define valid members, to save access to their particular member information and to improve their experience on the site. 
+REMARKETING  
+F+W Media, Inc. (“F+W”) also uses 3rd party vendor re-marketing tracking cookies, including the Google Adwords tracking cookie. This means we will continue to show ads to you across the internet, specifically on the Google Content Network (GCN). As always we respect your privacy and are not collecting any identifiable information through the use of Google’s or any other 3rd party remarketing system.
 
-**Links**  
+The third-party vendors, including Google, whose services we use – will place cookies on web browsers in order to serve ads based on past visits to our website. – Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. This allows us to make special offers and continue to market our services to those who have shown interest in our service.
 
+Google has additional information available about their [Remarketing Privacy Guidelines](http://support.google.com/adwordspolicy/answer/143465?rd=3) and [Policies ](http://support.google.com/adwords/answer/2549116?hl=en&from=178363&rd=1)
 
-Our web site may link you to other sites that have their own privacy policy that we are not responsible for. In this case, we are inviting our visitors to read carefully the privacy policy of each site, which they are linked to.
+OPT-OUT
 
-**Confidentiality and security**  
+You may opt out of the DoubleClick cookie by visiting the Google [advertising opt-out page](http://www.google.com/policies/technologies/ads/) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
 
+DOUBLECLICK’S REMARKETING PIXELS  
+You may opt out of DoubleClick’s remarketing pixels, by visiting the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout)  or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
-In order to assure you an appropriate amount of security and to protect the information we collect from you, we are equipped with physical, electronic, and managerial procedures to safeguard and help to prevent unauthorized access, maintain data security, and correctly use the information we collect online.  
-However, although we take all the possible measures to protect our websites and all information about our clients, we want you to know that no Internet data transmission can completely be secure from access by unintended recipients. Thus, you use our site at your own risk.
+INFORMATION ACCESS  
+Upon request we provide site visitors with access to their own transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, and contact information (e.g., name, address, phone number) that we maintain about them.
 
-Your personal information will be exposed only to employees whom we reasonably believe will be able to provide products or services for you. This is restriction is limited to their proper duty. We can not be responsible for any unlawful activity participated in by one or more of our employees.
+You can access this information by sending your request to: F+W Media, Inc., Attention: Privacy, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to privacy@fwmedia.com. To help us process your request, please provide sufficient information to allow us to identify you in our records, and identify the F+W products or services (website, magazine, book club, etc.) you have used.
 
- **How you can access or correct information:**  
-You have the right to review, correct or change any personal information you have provided. You may also request that we remove your name from our mailing list. However, to protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections. You can also unsubscribe from any newsletters or opt out of various promotional emailing at any time you want.
+Upon request we offer visitors the ability to have inaccuracies corrected in all information we maintain about them. You can have this information corrected by sending your request to: F+W Media, Inc., Attention: Privacy, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to privacy@fwmedia.com. To help us process your request, please provide include sufficient information to allow us to identify you in our records, and identify the F+W products or services (website, magazine, book club, etc.) you have used.
 
-**Children's privacy**  
+SECURITY  
+We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site, and we employ security features generally accepted in the industry to protect the security of transactions made on our site. Transactions are protected via Secure Sockets Layer (SSL) technology. We require customers to identify themselves via a unique username and password to access their personal information.
 
+CHANGES TO THIS POLICY  
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our web site. We will also provide you with the ability to opt out of these new uses.
 
-We do not collect personal information about children under the age of 13. However, only in some serious exceptions a 13 years old child can enter the site and registered on line but we will not contact him directly about special offers or marketing purposes.   
-In addition, if a child -under the age of 13- submits personal information without the permission of his parents to this Web site, we will automatically delete the information as soon as we discover it and do not use it for any other purpose.   
-We advise parents to control their children's use of the Internet, and to inform them of the potential dangers of providing information about themselves over the Internet. They can also choose in which activities he or she would like the child to participate. 
+If you believe that this site is not following its stated information policy, you may contact us at the above address, the DMA’s Committee on Ethical Business Practices at mgoldberger@the-dma.org, or state or local chapters of the Better Business Bureau.
 
-**Changes to this privacy policy**  
-
-
-To maintain the highest protection for our users and to comply with a changing environment, we may, from time to time, make changes to this policy. We recommend that you should re-visit this privacy policy occasionally to learn of new privacy practices or changes to our policy.
-
-**How to contact us:**  
-
-
-It is important to us to know what visitors have to say about our services, and our policies. If you have any questions about our privacy, policy please contacts us via e-mail at privacy @ artistdaily.com
+The effective date of this Policy is March 12, 2008.
