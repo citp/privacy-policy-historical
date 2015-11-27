@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the fertilityfriend.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230013741id_/http%3A//www.fertilityfriend.com/ffprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fertilityfriend.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127094808id_/http%3A//www.fertilityfriend.com/ffprivacy.html) for the most accurate reproduction.*
 
-# Privacy Statement - Fertility Friend OnLine
-
-**  
-Privacy Statement**
+# Privacy Policy - FertilityFriend.com
 
 FertilityFriend.com is committed to respecting your privacy. Since we started offering Trying To Conceive tools, we have been extremely sensitive to the private nature of this type of information. An immediate consequence of this awareness is the total absence of advertising on our site. 
 
@@ -19,4 +16,10 @@ FertilityFriend.com uses data collected in an aggregate manner (no identificatio
 
 FertilityFriend.com expects that you will keep your login information (and particularly your password) secret to help us ensure protection of your data. 
 
-If you have any concerns about our privacy policy, please send your comments/questions using our [support form](https://web.archive.org/supportemail.html). 
+If you have any concerns about our privacy policy, please send your comments/questions using our [support form](https://web.archive.org/contact.html). 
+
+**Related:**
+
+  * [Why is there no advertising?](https://web.archive.org/Faqs/Why-is-there-no-advertising.html)
+
+
