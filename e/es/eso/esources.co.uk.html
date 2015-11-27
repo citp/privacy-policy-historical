@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the esources.co.uk privacy policy that was archived on 2015-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610003157id_/http%3A//www.esources.co.uk/about/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the esources.co.uk privacy policy that was archived on 2015-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151127072007id_/http%3A//www.esources.co.uk/about/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>eSources UK - Privacy Policy</title>
@@ -127,6 +127,7 @@ urchinTracker();
 				<li><a href="http://www.esources.co.uk/about/accessibility.php">Accessibility</a></li>
 				<li><a href="http://www.esources.co.uk/about/termsandconditions.php">Terms of Use</a></li>
 				<li class="rnav-current">Your Privacy</li>
+				<li><a href="http://www.esources.co.uk/about/cookie-policy.php">Cookie Policy</a></li>
 				<li><a href="http://www.esources.co.uk/about/copyright.php">Copyright</a></li>
 			</ul>
 		</div>
@@ -148,6 +149,77 @@ urchinTracker();
 <!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
 <!--<script language='javascript' src='https://server.iad.liveperson.net/hc/5555428/x.js?cmd=file&file=chatScript3&site=5555428&&category=en;woman;5'> </script>
 --><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+<!--script type="text/javascript" src="../jsHTTPS/jquery-1.8.3.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function(){
+    
+        $('#cookie-bar .cb-enable').click(function(){
+            var expireDate = new Date();
+            expireDate.setTime(expireDate.getTime()+(60*60*30*24*1000));  //for 30 days
+            expireDate = expireDate.toGMTString();
+            document.cookie = "CookieBar=1"+expireDate+"; path=/"+"; domain=esources.co.uk";
+           
+            $('#cookie-bar').slideUp(400,function(){$('#cookie-bar').remove();});
+            //$('#cookie-bar').fadeOut(300,function(){$('#cookie-bar').remove();});
+            //$('#cookie-bar').hide(0,function(){$('#cookie-bar').remove();});
+           
+            return false;
+            
+        });
+    });
+    
+</script-->
+    
+<!--style>
+.understand-risk {
+    /*border:1px solid #e2e2e2;*/
+    padding:8px;
+    text-align:center;
+    background-color:#f2f2f2;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top: 1px solid #E4E4E4;
+}
 
+.understand-risk span, .understand-risk p {
+    display:inline-block;
+}
+.understand-risk p {
+    text-align:center;
+    width:168px;
+    background-color:#498a2e;
+    color:#fff;
+    cursor: pointer;
+    text-decoration:none;
+    padding:8px 0 9px;
+    margin-left:15px;
+}
+.understand-risk p {
+    text-align:center;
+    width:40px;
+    background-color:#4D90FE;
+    border: 1px solid #3079ED;
+    font-size: 11px;
+    border-radius: 2px;
+    color:#fff;
+    cursor: pointer;
+    text-decoration:none;
+    padding:5px 0 5px;
+    margin: 0 20px;
+    font-weight: bold;
+}
+.cookies-link{
+    color: #428BCA;
+    text-decoration: none;
+    margin-left:-15px;
+    
+}
+.understand-risk a:hover{
+    color: #2A6496;
+    text-decoration: underline;
+    margin-left:-15px;
+}
+</style-->
 
 </body></html>
