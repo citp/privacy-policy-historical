@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appcoda.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529011441id_/http%3A//www.appcoda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appcoda.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127062904id_/http%3A//www.appcoda.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AppCoda
 
