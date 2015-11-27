@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photographypla.net privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315014544id_/http%3A//photographypla.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photographypla.net privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127235933id_/http%3A//photographypla.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PhotographyPla.net
 
@@ -6,7 +6,7 @@ This privacy policy sets out how PhotographyPla.net uses and protects any inform
 
 We are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from November 1, 2014.
+We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from October 1, 2015.
 
 ## What We Collect
 
@@ -28,6 +28,8 @@ Why do we need this information?
   * We may use the information to customize the website according to your interests.
 
 
+
+We may use cookies to participate in remarketing, which means visitors may see PhotographyPla.net advertisements (including ads by Google and other third parties) on other websites that participate in the display of advertisements. If you prefer, you can opt out of Google’s use of cookies from the [Google Ad Settings](http://www.google.com/settings/ads).
 
 ## Links to Other Websites
 
