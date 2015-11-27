@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the publicrecords.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503130605id_/http%3A//www.publicrecords.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicrecords.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127205357id_/http%3A//www.publicrecords.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy - PublicRecords.com
 
   
 
+
+#### Search on PublicRecords.com
 
 ## Effective January 2010, Revised October 2014
 
@@ -27,7 +29,7 @@ As a courtesy we allow you to opt out your personal information from our Website
 
 In order for us to suppress or opt out your personal information from appearing on our Website, we need to verify your identity. To do this, we require faxed or mailed proof of identity. Proof of identity can be a state issued ID card or driver's license. If you are uploading, faxing, or mailing a copy of your driver's license, we require that you cross out the photo and the driver's license number. We only need to see the name, address and date of birth. We will only use this information to process your opt out request. 
 
-To submit your opt out request, please submit via fax to 425-974-6194 or submit via mail please send to PublicRecords.com Attn: Removal, 4607 Lakeview Canyon Rd. Suite 127, Westlake Village, CA 91361. Allow 7-14 business days to process your request. We will only process opt out requests received by fax or mail and no request will be processed without complete information (i.e., name, address and date of birth). Requests for opt out will not be processed over the phone or via email.
+To submit your opt out request, please submit via fax to 425-974-6194 or submit via mail please send to PublicRecords.com Attn: Removal, 4607 Lakeview Canyon Rd. Suite 127, Westlake Village, CA 91361. Allow 4 to 6 weeks to process your request. We will only process opt out requests received by fax or mail and no request will be processed without complete information (i.e., name, address and date of birth). Requests for opt out will not be processed over the phone or via email.
 
 ## How we Use and Share Personal Information
 
