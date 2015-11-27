@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the likes.com privacy policy that was archived on 2015-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150520051455id_/https%3A//likes.com/content/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the likes.com privacy policy that was archived on 2015-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151127165542id_/http%3A//likes.com/content/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" class=""><head>
 <script>window._t={start:(new Date).getTime()};</script>
 
 <base href="//likes.com">
@@ -15,7 +15,7 @@
 <title>
  Likes.com
 </title>
-<link type="text/css" rel="stylesheet" href="//c.likes-media.com/s/9a01134bf2795b3755d704b7de4ed5ff/static_new.css">
+<link type="text/css" rel="stylesheet" href="//c.likes-media.com/s/511332da172140ef09773311a7a6d5ca/static_new.css">
 
 
 
@@ -37,6 +37,9 @@ var _gaq_var_index = 1;
 
     function setup_bounce_tracking(ad_doc) {
         ad_doc = ad_doc || document;
+        if (!ad_doc.querySelectorAll){
+            setTimeout(function(){setup_bounce_tracking(ad_doc)}, 20);
+        }
         var bounce_ad_slots = ad_doc.querySelectorAll('a[slot_id]');
         if (bounce_ad_slots.length) {
             for (var i = 0; i < bounce_ad_slots.length; i++) {
@@ -45,6 +48,10 @@ var _gaq_var_index = 1;
                         localStorage.setItem('back_info_time', "" + Math.round((new Date()).getTime() / 1000));
                         localStorage.setItem('back_info_pid', "" + this.getAttribute('prid'));
                         localStorage.setItem('back_info_slot', "" + this.getAttribute('slot_id'));
+                        if (window.likes_tracking) {
+                            localStorage.setItem('back_info_cid', "" + window.likes_tracking.pv_params.click_id);
+                            localStorage.setItem('back_info_p', "" + window.likes_tracking.pv_params.page_type);
+                        }
                     }
                 });
             }
@@ -56,6 +63,7 @@ var _gaq_var_index = 1;
 <script type="text/javascript">
 var likes_tracking_create = function() {
     var obj = {};
+
 
     obj.pvid = null;
     obj.load_dt = new Date();
@@ -71,8 +79,13 @@ var likes_tracking_create = function() {
     obj.bad_ad_detect_ms = 4000;
     obj.bad_ad_detect_throttle = 100;
     obj.detect_bad_ads = (Math.random()*100 <= obj.bad_ad_detect_throttle);
-    obj.report_pubm_throttle = 1;
+    obj.report_pubm_throttle = 0;
     obj.report_pubm_ads = function() {return (Math.random()*100 <= obj.report_pubm_throttle);}
+    obj.report_appnexus_throttle = 0;
+    obj.report_appnexus_ads = function() {return (Math.random()*100 <= obj.report_appnexus_throttle);}
+    obj.record_event_log_throttle = 0;
+    obj.should_record_event_log = function() {return (Math.random()*100 <= obj.record_event_log_throttle);}
+
 
 
     obj.is_final_network_ad = function(event) {
@@ -104,9 +117,9 @@ var likes_tracking_create = function() {
             if (event.type == 'pagehide' && event.potential_bad_ads.length > 0 && !event.reported) {
                 for (j = 0; j < event.potential_bad_ads.length; j++) {
                     ad = event.potential_bad_ads[j];
-                    report.push({'url': ad.api_response.PubMatic_Bid.landing_page,
-                                'tag': ad.api_response.PubMatic_Bid.creative_tag,
-                                'cpm': ad.api_response.PubMatic_Bid.ecpm,
+                    report.push({'url': ad.ad.PubMatic_Bid.landing_page,
+                                'tag': ad.ad.PubMatic_Bid.creative_tag,
+                                'cpm': ad.ad.PubMatic_Bid.ecpm,
                                 'pos': ad.position,
                                 'loc': '',
                                 'suspect': 1});
@@ -279,7 +292,7 @@ var likes_tracking_create = function() {
                 }
             } else if (obj.track_network_ads) {
                 if (!event_log[i]['type']
-                    || (event_log[i]['type'] != 'attempted_passback' && event_log[i]['type'] != 'ad_slot_rendered' && event_log[i]['type'] != 'pubmatic_api_response' && event_log[i]['type'] != 'amazon_response')
+                    || (event_log[i]['type'] != 'attempted_passback' && event_log[i]['type'] != 'ad_slot_rendered' && event_log[i]['type'] != 'pubmatic_api_response' && event_log[i]['type'] != 'amazon_response' && event_log[i]['type'] != 'appnexus_api_response')
                     || !event_log[i]['network']
                     || !event_log[i]['position']) {
                     continue;
@@ -332,6 +345,26 @@ var likes_tracking_create = function() {
         }
     };
 
+    obj.record_event_log = function() {
+        if (!window.top.likes_tracking.event_log){
+            return;
+        }
+        var event_log = escape(JSON.stringify(window.top.likes_tracking.event_log));
+        var data = {
+            'event_log':event_log,
+            'page_url': window.top.location.href,
+        };
+        if (window.top.likes_ad_server.rtb_errors && window.top.likes_ad_server.rtb_errors.length){
+            data['errors'] = escape(JSON.stringify(window.top.likes_ad_server.rtb_errors));
+            window.top.likes_ad_server.rtb_errors = [];
+        }
+        $.ajax({
+            url: '/api/record_event_log',
+               type: 'POST',
+               data: data,
+        });
+    }
+
     obj.send_events = function(cancel_pending) {
         if (obj.tracking_in_progress || obj.pvid < 0) {
             return;
@@ -347,6 +380,12 @@ var likes_tracking_create = function() {
                send_params[k] = obj.pv_params[k];
             }
         }
+
+        try {
+            if ((obj.should_record_event_log() && obj.pvid) || (window.top.likes_ad_server && window.top.likes_ad_server.rtb_errors && window.top.likes_ad_server.rtb_errors.length)){
+                obj.record_event_log();
+            }
+        } catch (e) {}
 
         /*
         // We only need to send data if we have pending events in the event log
@@ -419,7 +458,11 @@ var likes_tracking_create = function() {
 
 
 
+
     obj.start_tracking = function(track_id, page_type, page_num, gallery_id) {
+        if (window.top.likes_ad_passbacks){
+            window.top.likes_ad_passbacks.clear_valid_passbacks();
+        }
     };
 
     if (window.top.likes_tracking) {
@@ -463,7 +506,11 @@ try {
     obj.completed = {};
     obj.loops = {};
     obj.load_ts = (new Date).getTime();
+    obj.valid_passbacks = {};
 
+    obj.clear_valid_passbacks = function(){
+        obj.valid_passbacks = {};
+    }
 
     obj.create_iframe = function (width, height, defer_size_ms) {
         var ifrm = document.createElement('iframe');
@@ -502,12 +549,15 @@ try {
                     ad_div.childNodes[i].style.display = 'none';
                 }
             }
-            if (document.getElementById("bottom_mobile_ad"))
+            if (document.getElementById("bottom_mobile_ad") && document.getElementById("bottom_mobile_ad").classList)
                 document.getElementById("bottom_mobile_ad").parentNode.classList.remove("dummy_ad_wrapper");
         }
         return ad_div;
     };
-    obj.render_ad = function(ad_div_id, width, height, ad_script, ad_src, defer_size_ms) {
+    obj.render_ad = function(ad_div_id, width, height, ad_script, ad_src, defer_size_ms, network, position) {
+        if (network && position){
+            obj.valid_passbacks[network + "." + position] = 1;
+        }
         var ad_div = window.likes_ad_passbacks.hide_all_in_div(ad_div_id);
         if (ad_div) {
             var dummy_ad;
@@ -550,6 +600,7 @@ try {
         if (network == "criteo" && position == "top"){
             window.likes_ad_passbacks.criteo_top_reload = true;
         }
+
         if (((network == "openx_lowval") || (network == "fedmedia_passback")) && position == "right") {
             clearTimeout(window._defered_size_timeout);
             obj.hide_all_in_div("ad_slot_right");
@@ -570,7 +621,7 @@ try {
                     window.likes_ad_server.render_any_ad_when_available(position);
                     return true;
                 }
-                if (window.likes_ad_passbacks.render_ad(div_id || p.div_id, p.width, p.height, p.passback_slot_script, p.passback_iframe_src, p.defer_size_ms)) {
+                if (window.likes_ad_passbacks.render_ad(div_id || p.div_id, p.width, p.height, p.passback_slot_script, p.passback_iframe_src, p.defer_size_ms,p.to_network, p.position)) {
                     window.likes_ad_passbacks.completed[key] = 1;
                     return true;
                 }
@@ -605,7 +656,7 @@ try {
 
 </head>
 <!--[if lte IE 9 ]> <body class="ie8  "> <![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!--> <body class="not_ie  "> <!--<![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <body class="not_ie   "> <!--<![endif]-->
 
 
 
@@ -619,12 +670,6 @@ try {
 
 
 
-<div class="loggedout_buttons ">
-
-
-
-
-</div>
 
 <div class="clear"></div>
 </div>
@@ -644,7 +689,7 @@ try {
 <h1>Privacy Policy</h1>
 <p class="maincontent">Effective Date: 27 August 2013</p>
 <p class="maincontent">We take your privacy seriously. Please read the following to learn more about our privacy policy. The federal government and technology industry have developed practical tips to help you guard against Internet fraud, secure your computer and protect your personal information.</p>
-<p class="maincontent">This privacy policy applies to likes.com (“Likes.com”) owned and operated by MyLikes, Inc. This privacy policy describes how MyLikes, Inc. collects and uses the personal information you provide on our website: <a href="http://likes.com">likes.com</a>. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.</p>
+<p class="maincontent">This privacy policy applies to likes.com (“Likes.com”) owned and operated by Likes, LLC. This privacy policy describes how Likes, LLC. collects and uses the personal information you provide on our website: <a href="http://likes.com">likes.com</a>. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.</p>
 <h4>INFORMATION AND COLLECTION OF USE</h4>
 <p class="maincontent">We collect personal information when you register with Likes.com, and when you subscribe and share Likes.com channels. Likes.com may combine information about you that we have with information we obtain from business partners or other companies such as Google, for the purpose of delivering personalized content. When you register we ask for information such as your name, gender, age and email address. Likes.com uses the information for the following general purposes: to customize the content you see, fulfill your requests for services, improve our services, contact you, and conduct research. You may set up a channel on Likes.com.</p>
 <h4>INFORMATION SHARING</h4>
@@ -682,7 +727,7 @@ try {
 <h4>CONTACT US</h4>
 <p class="maincontent">
 If you have questions or comments about this privacy policy please contact us through the information below:</p>
-MyLikes, Inc.<br>
+Likes, LLC<br>
 1000 Brannan Street<br>
 San Francisco, CA<br>
 94103<br>
