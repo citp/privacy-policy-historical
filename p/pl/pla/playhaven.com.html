@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the playhaven.com privacy policy that was archived on 2015-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150403075927id_/http%3A//www.playhaven.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playhaven.com privacy policy that was archived on 2015-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151127143747id_/http%3A//www.playhaven.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" style=""><head>
         
@@ -19,58 +19,10 @@
 		<script src="/js/vendor/jquery.js"></script>
 	</head>
 	<body>
-		<!-- announcement popover -->
-		<div id="announcement_overlay" style="">
-			<div id="announcement_content" class="large-6 columns large-centered">
-				<h2>SCIENCE INC. ACQUIRES PLAYHAVEN</h2>
-				<p>Acquisition Strengthens the Science Portfolio of Digital and Mobile Marketing Assets. Science will combine its ChirpAds mobile unit with Playhaven to create a broad reach mobile monetization platform. <a href="/pdf/FINAL_Science_PlayHaven.pdf">Read more »</a></p>
-				<a class="btn-outline" id="continue_button">CONTINUE</a>
-				<div id="logo_footer">
-					<img src="/img/ph_logo_white.png" alt="playhaven">
-					<a href="http://science-inc.com/" target="_blank"><img src="/img/logo_science.png" alt="science"></a>
-				</div>
-			</div>
+		<div id="annoucement_top_bar">
+			<h2>RockYou Buys Mobile Ad Network PlayHaven. <a href="http://techcrunch.com/2015/05/06/rockyou-buys-playhaven/">Read more</a></h2>
 		</div>
-		<div id="annoucement_top_bar" style="display:none">
-			<h2>Science Inc. Acquires Playhaven <a onclick="displayAnnouncementOverlay(true);">Read More »</a></h2>
-		</div>
-		<script>
-		function displayAnnouncementOverlay(display) {			
-			var overlayElm = $("#announcement_overlay");
-			if (display) {
-				$(overlayElm).fadeIn();
-			} else {
-				$(overlayElm).fadeOut();
-				$('#annoucement_top_bar').slideDown();
-				localStorage.setItem("merge_announcement_seen", true);
-			}
-		} 
-		
-		function showAnnouncementBar() {
-			document.getElementById('annoucement_top_bar').style.display = "block";
-		}
-		
-		//var date = new Date(2014, 8, 24, 0, 0, 0, 0);
-		//if (!localStorage.getItem("merge_announcement_seen") && date < new Date()) {
-		if (!localStorage.getItem("merge_announcement_seen")) {
-			displayAnnouncementOverlay(true);
-		} else {
-			showAnnouncementBar()
-		}
-		
-		$(document).mouseup(function (e) {
-			var container = $('#announcement_overlay');
-			if (container.is(e.target)) {
-				displayAnnouncementOverlay(false);
-			}
-		});
 
-		document.getElementById('continue_button').addEventListener("click", function(){
-			displayAnnouncementOverlay(false);			
-		});
-		</script>
-		
-		
 <header class="main-header">
     <div class="row">
     <div class="large-5 medium-5 small-5 columns">
