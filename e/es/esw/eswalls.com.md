@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eswalls.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519235801id_/http%3A//77wallpapers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eswalls.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127075217id_/http%3A//77wallpapers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 77 Wallpapers | Quality HD Wallpapers
 
