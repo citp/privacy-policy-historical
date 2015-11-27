@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the domainmarket.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616185538id_/http%3A//www.domainmarket.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainmarket.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127025329id_/https%3A//www.domainmarket.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Domain Name Privacy Policy & Protection Information | DomainMarket.com
-
-[](http://www.domainmarket.com/)
-
-**Customer Support:** (888) 694-6735 
-
-## What’s in a Domain Name?
-
-Your online presence starts with a top quality domain name. At DomainMarket.com you'll find  
-thousands of the best domain names waiting to be developed into first rate brands. 
 
 ## DomainMarket.com Privacy Policy
 
