@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenpeace.org.uk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629011009id_/http%3A//www.greenpeace.org.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenpeace.org.uk privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127170715id_/http%3A//www.greenpeace.org.uk/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Greenpeace UK
 
@@ -7,7 +7,7 @@ Greenpeace believes you have a fundamental right to privacy on the web and we wo
 This policy applies to:
 
   * Greenpeace Ltd, company number 1314381, Canonbury Villas, London N1 2PN.
-  * Greenpeace Environmental Trust, registered charity in England and Wales 284934, company limited by guarantee number 1636817, Canonbury Villas, London, N1 2PN.
+  * Greenpeace Environmental Trust, registered charity in England and Wales 284934, company number 1636817, Canonbury Villas, London, N1 2PN.
 
 
 
