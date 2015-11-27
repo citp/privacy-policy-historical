@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the likes.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520051455id_/https%3A//likes.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likes.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127165542id_/http%3A//likes.com/content/privacy) for the most accurate reproduction.*
 
 # Likes.com
 
@@ -6,7 +6,7 @@ Effective Date: 27 August 2013
 
 We take your privacy seriously. Please read the following to learn more about our privacy policy. The federal government and technology industry have developed practical tips to help you guard against Internet fraud, secure your computer and protect your personal information.
 
-This privacy policy applies to likes.com (“Likes.com”) owned and operated by MyLikes, Inc. This privacy policy describes how MyLikes, Inc. collects and uses the personal information you provide on our website: [likes.com](http://likes.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy applies to likes.com (“Likes.com”) owned and operated by Likes, LLC. This privacy policy describes how Likes, LLC. collects and uses the personal information you provide on our website: [likes.com](http://likes.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 #### INFORMATION AND COLLECTION OF USE
 
@@ -76,7 +76,7 @@ If you have reason to believe Likes.com has collected this data or are a parent 
 
 If you have questions or comments about this privacy policy please contact us through the information below:
 
-MyLikes, Inc.  
+Likes, LLC  
 1000 Brannan Street  
 San Francisco, CA  
 94103
