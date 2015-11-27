@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the asianfanfics.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602222224id_/https%3A//www.asianfanfics.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianfanfics.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127192931id_/http%3A//www.asianfanfics.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Asianfanfics
-
-If this page had a pop up or a redirect (it shouldn't!), please help us by reporting this page 
 
 This Privacy Policy (" **Privacy Policy** ") describes the personal information we collect through our website and mobile applications (the " **Site** "), and how we collect and use it. The terms " **we** ", " **us** ", and " **Asianfanfics** " refer to Jado Interactive LLC, a New Jersey limited liability company.  Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our [Terms of Use](https://web.archive.org/page/rules).
 
