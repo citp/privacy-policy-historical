@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the practiceaptitudetests.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407141544id_/http%3A//www.practiceaptitudetests.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practiceaptitudetests.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127203911id_/http%3A//www.practiceaptitudetests.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Practice Aptitude Tests | FREE Online Aptitude Tests | Practice Aptitude Tests | FREE Online Aptitude Tests
+# Practice Aptitude Tests | FREE Online Aptitude Tests | Privacy Policy - Practice Aptitude Tests | FREE Online Aptitude Tests
 
 **Privacy Policy**
 
-Practice Aptitude Tests Limited (“We, Us, Our”) are committed to protecting and respecting the privacy of you (“You”, “Your”) as a user of this website [www.practiceaptitudetests.com](http://www.practiceaptitudetests.com/) (“Site”).
+Practice Aptitude Tests Limited ("We, Us, Our") are committed to protecting and respecting the privacy of you (“You”, “Your”) as a user of this website [www.practiceaptitudetests.com](http://www.practiceaptitudetests.com/) (“Site”).
 
-This policy (together with Our website terms of use ([above)](https://docs.google.com/document/d/1Fr27cvcsOUE2xWywngz1NJJN1TrKwv4cSOjgWmJkPQo/edit#heading=h.gjdgxs) and Cookie Policy ([below)](https://docs.google.com/document/d/1Fr27cvcsOUE2xWywngz1NJJN1TrKwv4cSOjgWmJkPQo/edit#heading=h.nmf14n) set out the basis on which any personal data We collect from You, or that You provide to Us, will be processed by Us.  Please read the following carefully to understand Our views and practices regarding Your personal data and how We will treat it.
+This policy (together with Our website terms of use ([above)](https://docs.google.com/document/d/1Fr27cvcsOUE2xWywngz1NJJN1TrKwv4cSOjgWmJkPQo/edit#heading=h.gjdgxs) and Cookie Policy ([below)](https://docs.google.com/document/d/1Fr27cvcsOUE2xWywngz1NJJN1TrKwv4cSOjgWmJkPQo/edit#heading=h.nmf14n) set out the basis on which any personal data We collect from You, or that You provide to Us, will be processed by Us. Please read the following carefully to understand Our views and practices regarding Your personal data and how We will treat it.
 
 Information collected: We may collect and process the following personal data about You:
 
@@ -23,7 +23,7 @@ Information collected: We may collect and process the following personal data ab
 
 Please note that We outsource payment processing and all transaction handling to PayPal Services, please therefore refer to Paypal’s own User Agreement and Privacy Policy. We do not store any bank card details nor do We share customer bank details with any third parties save where We are compelled to do so (see [disclosure ](https://docs.google.com/document/d/1Fr27cvcsOUE2xWywngz1NJJN1TrKwv4cSOjgWmJkPQo/edit#heading=h.28h4qwu)below).
 
-IP addresses: We may collect information about Your computer, including where available Your IP address, operating system and browser type, for system administration and to report aggregate information to Our advertisers. This is statistical data about Our users’ browsing actions and patterns, and does not identify any individual.
+IP addresses: We may collect information about Your computer, including where available Your IP address, operating system and browser type, for system administration and to report aggregate information to Our advertisers. This is statistical data about Our users' browsing actions and patterns, and does not identify any individual.
 
 Cookies: Our website uses cookies to distinguish You from other users of the Site. This helps Us to provide You with a good experience when You browse the Site and also allows Us to improve our Site. For detailed information on the cookies We use and the purposes for which We use them see Our [Cookie Policy ](https://docs.google.com/document/d/1Fr27cvcsOUE2xWywngz1NJJN1TrKwv4cSOjgWmJkPQo/edit#heading=h.nmf14n)(below).
 
