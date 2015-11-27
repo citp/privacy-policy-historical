@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the janalakshmi.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209114329id_/http%3A//www.janalakshmi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janalakshmi.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127190807id_/http%3A//www.janalakshmi.com/privacy-policy) for the most accurate reproduction.*
 
-# Janalakshmi: Financial Institution, servicing microfinance in India, making a difference in the lives of women
+# Privacy Policy - Janalakshmi
 
 Please read the following privacy policy to better understand how your personal information may be collected and used as you access various areas of our website.
 
