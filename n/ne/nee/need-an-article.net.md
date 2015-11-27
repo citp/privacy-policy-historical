@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the need-an-article.net privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221101839id_/http%3A//needanarticle.com/index2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the need-an-article.net privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127141359id_/http%3A//needanarticle.com/index2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Need an Article Privacy page Need An Article – Article Writing Service
 
@@ -20,7 +20,7 @@ How we use collected information
 
 Need an Article LLC may collect and use Users personal information for the following purposes:
 
-\- To improve customer service  
+– To improve customer service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.  
 – To personalize user experience  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
@@ -64,12 +64,9 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Need an Article LLC
-
-http://www.needanarticle.com
-
+Need an Article LLC  
+http://www.needanarticle.com  
 NeedanArticle. LLC  
 Nampa Idaho  
-208-703-0611
-
-http://naahub.com/go 
+208-703-0611  
+http://naahub.com/go
