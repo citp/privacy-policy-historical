@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the gymshark.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502115322id_/http%3A//www.gymshark.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gymshark.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127200601id_/http%3A//www.gymshark.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GymShark International | Innovation In Fitness Wear
+# Privacy Policy
 
-### Privacy Policy
+## What Information We Collect
 
-  * ##  WHAT INFORMATION WE COLLECT
+### **We do not store credit card**   **details nor do we share customer details with any 3rd parties**
 
-  
-The information we collect via this website may include:
+ The information we collect via this website may include:
 
 1\. Any personal details you type in and submit, such as name, address, email address, etc.
 
@@ -15,44 +14,42 @@ The information we collect via this website may include:
 
 3\. Your IP address (this is your computer’s individual identification number) which is automatically logged by our web server. This is used to note your interest in our website.
 
-4\. Your preferences and use of email updates, recorded by emails we send you (if you select to receive email updates on products and offers).
+4\. Your preferences and use of email updates, recorded by emails we send you (if you select to receive email updates on products and offers). 
 
-### WHAT WE DO WITH YOUR INFORMATION
+## What We Do With Your Information
 
 Any personal information we collect from you will be used in accordance with the Data Protection Act 1998 and other applicable laws. The details we collect will be used:-
 
-1\. to process your order, to maintain guarantee records and to provide after-sales service (we may pass your details to another organisation to supply/deliver products or services you have purchased and/or to provide after-sales service);
+1\. To process your order, to maintain guarantee records and to provide after-sales service (we may pass your details to another organisation to supply/deliver products or services you have purchased and/or to provide after-sales service);
 
-2\. to carry out security checks (this may involve passing your details to credit reference agencies, who will check details we give them against public and private databases and may keep a record of that check to use in future security checks - this helps to protect you and us from fraudulent transactions);
+2\. To carry out security checks (this may involve passing your details to credit reference agencies, who will check details we give them against public and private databases and may keep a record of that check to use in future security checks - this helps to protect you and us from fraudulent transactions);
 
-3\. to comply with legal requirements  
+3\. To comply with legal requirements  
 We may use third parties to carry out certain activities, such as processing and sorting data, monitoring how customers use our site and issuing our emails for us.
 
-We would also like to inform you of various promotions, goods and services that may be of interest to you. You may be contacted by post, email, telephone, SMS or such other means as we regard as appropriate, including new technology. If you wish to receive these communications, please tick the "Yes" box when entering your personal details. You may unsubscribe at a later date, if you wish - see "Your rights" section below.
+We would also like to inform you of various promotions, goods and services that may be of interest to you. You may be contacted by post, email, telephone, SMS or such other means as we regard as appropriate, including new technology. If you wish to receive these communications, please tick the "Yes" box when entering your personal details. You may unsubscribe at a later date, if you wish - see "Your rights" section below. 
 
-### YOUR RIGHTS
+## Your Rights
 
-1\. You can ask us to update your personal information by emailing precise details of your request to us here. Please ensure you type "update" in the subject line of your email.
+1\. You can ask us to update your personal information by emailing precise details of your request to us [here](http://support.gymshark.com/). Please ensure you type "update" in the subject line of your email.
 
-2\. You can ask us not to send you future marketing communications. To do this, simply email us here. Type "No Marketing" in the subject line and then the following in the main text:-  
+2\. You can ask us not to send you future marketing communications. To do this, simply email us [here](http://support.gymshark.com/). Type "No Marketing" in the subject line and then the following in the main text:-  
 your postal address, including postcode, your email address
 
 We will then suppress your data from all direct marketing, although we will still keep it for processing your order and fulfilling customer service and after sale obligations.
 
 Alternatively, you can post your request to the address in (3) below.
 
-3\. You also have the right to request a copy of any personal information we hold about you. To do this, simply write to us at the following address, enclosing a cheque for £10 payable to GymShark.co.uk to cover our administration costs:-
+3\. You also have the right to request a copy of any personal information we hold about you. To do this, simply write to us at the following address:
 
-GymShark.co.uk  
-Unit F2-4 Sapphire Court
+Gymshark
 
-George Road
+Unit F2-4 Sapphire Court,
 
-Bromsgrove 
+George Road,
 
-Worcestershire
+Bromsgrove,
+
+Worcestershire,
 
 B60 3ET
-
-
-
