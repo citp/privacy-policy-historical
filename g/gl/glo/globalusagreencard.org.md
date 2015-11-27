@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the globalusagreencard.org privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613143855id_/http%3A//www.globalusagreencard.org/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalusagreencard.org privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127073719id_/http%3A//www.globalusagreencard.org/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GlobalUSAGreenCard
+# Privacy Policy | Global USA Green Card™
 
-AlgoSeller respects your rights to privacy. Your ability to make informed choices about the use of your information is important to us. This Privacy Policy explains our policy regarding the collection, use, disclosure and protection of personal information we receive. If not otherwise defined in this Privacy Policy, capitalized terms have the meaning given to them in our Terms and Conditions, which you may read [here ](http://globalusagreencard.org/website/index.php/terms-and-conditions/)(the “Terms”).
+AlgoSeller respects your rights to privacy. Your ability to make informed choices about the use of your information is important to us. This Privacy Policy explains our policy regarding the collection, use, disclosure and protection of personal information we receive. If not otherwise defined in this Privacy Policy, capitalized terms have the meaning given to them in our Terms and Conditions, which you may read [here ](http://www.globalusagreencard.org/index.php/terms-and-conditions/)(the “Terms”).
 
 #### Types of Information We Collect
 
@@ -60,7 +60,7 @@ You must be at least 18 years of age In order to use the Site and/or Services. W
 
 We allow you to view the information you provided during registration and to alter any data, inaccuracies or errors. To request such access, or correct, update, or amend your personal information please contact us at the following email address, postal address or telephone number:
 
-Email address: support@globalusagreencard.org Postal Address: 180 Steuart St #192750 San Francisco, CA 94119, Po Box 192750 San Francisco, CA 94119 Telephone number: 1-415-915-4151
+Email address: support@globalusagreencard.org Postal Address: 201 Spear Street Suite 1100 San Francisco, CA 94106 Telephone number: 1-415-915-4151
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to request that we no longer use your information to provide you Services, please contact us at the email address, postal address, or telephone number listed above. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
