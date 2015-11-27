@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitz.fm privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610050758id_/http%3A//hitz.fm/Policies/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitz.fm privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127045327id_/http%3A//www.hitz.fm/Policies/Privacy-Policy) for the most accurate reproduction.*
 
 # hitz fm | Malaysia's #1 Hit Station - Privacy Policy
 
