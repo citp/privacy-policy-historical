@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devseeker.in privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422034044id_/http%3A//www.devseeker.in/Terms/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devseeker.in privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127035454id_/http%3A//www.devseeker.in/Terms/Privacy) for the most accurate reproduction.*
 
 # Devseeker
 
