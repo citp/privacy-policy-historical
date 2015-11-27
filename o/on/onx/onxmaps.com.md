@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onxmaps.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529045002id_/http%3A//www.onxmaps.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onxmaps.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127014251id_/http%3A//www.onxmaps.com/policy) for the most accurate reproduction.*
 
 # onXmaps Privacy Policy | Visualize Success
 
