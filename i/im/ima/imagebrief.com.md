@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imagebrief.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319143914id_/http%3A//www.imagebrief.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagebrief.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127174352id_/http%3A//www.imagebrief.com/privacy) for the most accurate reproduction.*
 
 # ImageBrief
 
