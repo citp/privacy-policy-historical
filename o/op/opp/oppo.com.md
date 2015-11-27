@@ -1,36 +1,17 @@
-> *The following text is extracted and transformed from the oppo.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229115730id_/http%3A//www1.oppo.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oppo.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127035842id_/http%3A//www.oppodigital.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# :::OPPO:::
+# OPPO Digital
 
-**Your Privacy**  
-Your privacy is of great importance to us. As a user of this web site (the "Site"), you are valued by us and we will take appropriate measures to protect the information provided by and collected from you on the Site in connection with the functions, facilities, products and services offered on our Site (the "OPPO Services"). As our business changes and grows, so will this policy. Please check back periodically for additions and changes. 
+Updated September 1, 2015
 
-**Information We Collect and How we use it**  
-We only request and use information absolutely essential to respond to your requests for information on our products or services and to inform you of services we think may be of interest to you. Our site uses your IP address (an IP address identifies the type of browser you are using i.e. Netscape; Internet Explorer by assigning a unique number) for general system administration to serve you better by diagnosing problems with our server.
+At OPPO, we understand your concerns regarding the privacy of the information you share with us. We are firmly committed to your privacy. We will not sell, rent, or share any of your personal information to others that is in any way different than what is described in this privacy policy. We encourage you to take a moment to read the following policy that describes how we handle and use your personal information.
 
-**Cookies**  
-At times, we may use a feature of your browser to send your computer a "cookie". Cookies are used by thousands of web sites in order to enhance your web experience. A cookie is a small data file that assigns a unique anonymous number to your browser from a web server and is stored on your computer's hard drive. Cookies can not damage or read information stored on your hard drive. Cookies make your web experience more enjoyable by storing passwords and preferences. You can adjust your browser settings to refuse all cookies or to inform you when a cookie is being placed on your hard drive. However, your election not to accept cookies may diminish your experience with the Site because of additional time needed to repeatedly enter information. 
+The personal information we collect from you is used for the processing of your order. This information is needed for security purposes when processing your credit card and for shipping purposes so we know where to send your order to. On occasion, OPPO may choose to keep you up to date with the latest product announcements, special offers, and any other information we think may be of interest to you. If you would like to opt out of being kept updated, please let us know and we will update our records accordingly. It is also OPPO's policy not to share any personal information with any partners or third parties.
 
-**Disclosure of Personal Information**  
-We will not disclose, sell, trade, or rent Personal Information without your prior consent, except to the extent necessary to provide you with a requested OPPO Service. In certain rare circumstances, we may be compelled by law to disclose your Personal Information, such as in connection with a lawsuit or other legal proceeding. In the event disclosure is required, we will use reasonable commercial efforts to try to secure confidential treatment of the disclosed Personal Information, including prohibiting use of the information for any commercial purpose.
+Our customers' personal information is safeguarded via electronic, physical and managerial procedures. The OPPO Digital Store uses Secure Sockets Layer (SSL) to protect your information as it travels from your computer to our server. Furthermore, your credit card information is collected by PayPal's secure servers; we do not collect nor store any credit card information on our servers.
 
-In addition, we reserve the right to disclose certain information when, in its sole discretion, it determines that such disclosure is necessary to protect OPPO or its employees, their rights or property, or to protect the physical safety or health of employees of OPPO or a member of the general public. 
+Our online store employs a web technology called "cookies", which is used to facilitate shopping on the store and process your orders. These cookies do not contain any personal information about you.
 
-Any submissions that you make to any public areas of the Site such as bulletin boards ("Public Areas") will be public and will not be considered Personal Information. We do not control, and are not responsible for, the actions of other users of the Site or of Clients with respect to any information you post in Public Areas. In addition, information that you submit to Public Areas may be collected and used by others to send you unsolicited messages and for other purposes.
+Our website also uses Google Analytics, which also uses cookies to help analyze how users use our site. Google Analytics stores information about which pages users visit, how long users are on the site, how users find or visit our site, and the links users click on our site. This Analytics data is collected via a JavaScript tag in the pages of our site, and is not connected to any of your personally identifiable information. We therefore do not use any of this data to collect or store your personal information (e.g. your name or address), so this information cannot be used to identify who you are or connect it to your IP address. We have activated Google Analytics Demographics and Interest Reporting, which categorizes visitors on our site for age, gender, and interest data if such data have been made available to Google. We use this information to create content and advertisements relevant to our users. If you would prefer not to be tracked by Google Analytics, you may [opt out](https://tools.google.com/dlpage/gaoptout) by installing a plugin for your browser that keeps Google Analytics from tracking you further.
 
-**Links to Third Party Sites**   
-You may be able to access third party web sites through links available on this Site. You understand and agree that your use of such third party sites, including other OPPO sites, will be governed by the privacy policies of those sites and not by this Privacy Statement.
-
-**Children's Personal Information**  
-The OPPO Services and this Site are not intended for children under the age of 13 years age. We will not knowingly collect information from children under the age of 13. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Statement by instructing their children to never provide information on this Site without their permission.
-
-**User Access to Personal Information**  
-If you desire access to your own Personal Information, to correct existing Personal Information, or to remove your Personal Information, please contact us using the contact information provided below. If you request removal of Personal Information, you acknowledge that residual Personal Information may continue to reside in OPPO's records and archives, but OPPO will not use that information for a commercial purpose. OPPO reserves the right to maintain your Personal Information if OPPO has suspended, limited, or terminated your access to the Site for violating the OPPO Terms of Use.
-
-**Protection of Information**  
-OPPO will maintain the confidentiality of the information it collects. We maintain internal practices that help protect the security and confidentiality of this information by limiting employee access to and use of this information.
-
-**About OPPO Group**  
-Each company within the OPPO Group is an independent legal entity. OPPO Group is not a legal entity. OPPO Group is a term to conveniently refer to a group of companies that are tied together by their corporate history. Therefore, please do not mistake the companies by their use of the similar name OPPO. In particular, no company within the OPPO Group can accept or receive service of process on behalf of another. No company within the OPPO Group is legally liable for another unless specifically agreed to in writing to assume such liabilities. This site does not establish any nexus between any of the companies such that you can assume that they can be sued jointly or severally on behalf of another.
-
-If you have any questions regarding this policy, please contact the Legal Department at +86 769 86076688.
+Our privacy policy is subject to change from time to time. We encourage you to visit this page for any updates.
