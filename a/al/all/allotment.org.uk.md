@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allotment.org.uk privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609002438id_/http%3A//www.allotment-garden.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allotment.org.uk privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127034936id_/http%3A//www.allotment-garden.org/privacy.php) for the most accurate reproduction.*
 
 # Your Privacy
 
@@ -35,6 +35,8 @@ Some information is held and processed by our Internet service provider (ISP) bu
 Information provided on the forums, such as email addresses, are available to administrators and moderators of the forum who are volunteers and not associated with WebOneUK Limited.
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+
+Allotment Garden is a participant in the Amazon EU Associates Programme, an affiliate advertising programme designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.co.uk
 
 ### Protection of personal information
 
