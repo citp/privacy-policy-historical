@@ -1,898 +1,1166 @@
-<!--The following is the downloaded HTML source of the rugs-direct.com privacy policy that was archived on 2015-04-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150410024309id_/http%3A//www.rugs-direct.com/Content/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rugs-direct.com privacy policy that was archived on 2015-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151127112335id_/http%3A//www.rugs-direct.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1">
-    <!-- Sidecar main JS script -->
-    <script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/443295933636581794/bc.vms4/vms.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://d3v27wwd40f0xu.cloudfront.net/js/tracking/sidecar_rugsdirect.js" type="text/javascript"></script>
-    <script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push([
-        '_setAccount', 'UA-16132790-1'
-        ]);
-        _gaq.push(['_trackPageview']);
-        (function () {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-    </script>
-    <meta name="application-name" content="&nbsp;"><meta name="verify-v1" content="+k1MltEcHNVkY1Ql4OgUEHMIBwb9zvTJQT4q09iCPSk=">
-    <meta name="DESCRIPTION" content="Over 75,000 rugs available online.  Free shipping available.  110% Price Match Guarantee and 30 Day In-Home Trial.">
-    
-    
+<!DOCTYPE html><html lang="en"><head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
 
-    <!-- commenting out canonical refs until Drew Fixes. GLC 5/6/2014 
-    ViewData[RugsDirect.Data.Constants.ViewData.CANONICAL] -->
+		<title>Privacy Policy | Rugs Direct</title>
 
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-            <link type="text/css" rel="Stylesheet" href="/HttpCombiner.ashx?s=Set_Master_1_CSS&amp;t=text/css&amp;v=028">
-    
+		<!-- Font Awesome -->
+		<link href="/userfiles/content/themes/rugs-direct/assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
-        <script type="text/javascript" src="/HttpCombiner.ashx?s=Set_Master_JS&amp;t=type/javascript&amp;v=028"></script>
+		<!-- Fonts for this template -->
+		<link href="/userfiles/content/themes/rugs-direct/assets/css/fonts.css" rel="stylesheet" type="text/css">
+        <!-- Inserted Support for SLI Search -->
+		<link rel="stylesheet" type="text/css" href="//rugs-direct.resultspage.com/autocomplete/sli-rac.css">
+		<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NJTBPJ"></script><script type="text/javascript">
+		    function returnSizeKey(keyword) {
+		        sizes = keyword.replace(/\s/g, '').replace('by', 'x').replace(/foot|feet/gi, '\'').replace(/inches|inch/gi, '"').toLowerCase().split('x');
 
-    
+		        if (sizes[1] == undefined || isNaN(parseInt(sizes[0])) || isNaN(parseInt(sizes[1])))
+		            return;
 
-        <style type="text/css">
-            #content1 .p1_title h2, #leftcolumn .p2_title h2,#leftcolumn .p3_title h2, #leftcolumn .p4_title h2 {
-                margin: 11px 0 6px;
-                width: 400px;
-                word-spacing: 0;
-            }
+		        width = sizes[0].split('\'');
+		        num1 = parseInt(width[0]) * (width[0].indexOf('"') > -1 ? 1 : 12);
+		        if (width[1] != undefined && !isNaN(parseInt(width[1])))
+		            num1 += parseInt(width[1]);
 
-        </style> 
-    <title>
-	
-    Privacy Policy
+		        length = sizes[1].split('\'');
+		        num2 = parseInt(length[0]) * (length[0].indexOf('"') > -1 ? 1 : 12);
+		        if (length[1] != undefined && !isNaN(parseInt(length[1])))
+		            num2 += parseInt(length[1]);
 
-</title>
-
-
-    <script type="text/javascript">
-        $(document).ready(function() {
-            $("#dialogRecentlyViewed").dialog({ autoOpen: false, width: 550 });
-            $("#updatingcontent").jqm({ modal: true });
-            $("#dialogMessaging").dialog({ autoOpen: false, width: 600 });
-            //$("#updatingcontent").dialog({ autoOpen: false, width: 550, modal: true, resizable: false });
-        });
-
-
-        function showMessagingDialog(msg) {
-            document.getElementById("messaging_text").innerHTML = msg;
-
-            $("#dialogMessaging").dialog("open");
-            return false;
-        }
-
-        function showRecentlyViewedDialog() {
-            $("#dialogRecentlyViewed").dialog("open");
-            return false;
-        }
-        function showWaiting() {
-            $("#updatingcontent").jqmShow();
-            return false;
-        }
-        function hideWaiting() {
-            $("#updatingcontent").jqmHide();
-            return false;
-        }
-
-        //********Confirm Checkout form dialog********
-        $(function () {
-            var httpsRoute = $("#hdnHTTPS_ROUTE");
-
-            $("#confirmCheckoutDialog").dialog({
-                bgiframe: true,
-                autoOpen: false,
-                height: 275,
-                width: 450,
-                modal: true,
-                buttons: {
-                    'Sign In': function () {
-                        changePage(httpsRoute.val() + '/Account/CheckOutLogOn');
-                    },
-                    'Register': function () {
-                        changePage(httpsRoute.val() + '/Account/Register/?ReturnUrl=/Cart/PurchaseInformation');
-                    },
-                    'Continue as Guest': function () {
-                        changePage('/Cart/PurchaseInformation');
-                    }
-                },
-                close: function () {
-
-                }
-            });
-
-
-            $('.confirm_checkout').click(function () {
-                var isCountDown = $("#hdnHAS_COUNT_DOWN_ITEMS").val();
-                //if there are any countdown items on this order we need to make sure that the qty is still available
-                //to the customer before allowing them to enter the checkout.
-                if (isCountDown == "true") {
-                    validateCountDownCart();
-                }
-                else {
-                    $('#confirmCheckoutDialog').dialog('open');
-                }
-            })
-
-	        .hover(
-	        function () {
-	            $(this).addClass("ui-state-hover");
-	        },
-	        function () {
-	            $(this).removeClass("ui-state-hover");
-	        }
-	        ).mousedown(function () {
-	            $(this).addClass("ui-state-active");
-	        })
-	        .mouseup(function () {
-	            $(this).removeClass("ui-state-active");
-	        });
-	    });
-
-	    function ReOpenConfirmCheckout() {
-	        $("#dialogMessaging").dialog("close");
-	        $('#confirmCheckoutDialog').dialog('open');
-	    }
-
-	    function ConfirmCheckout(url) {
-
-	        //set the hdnConfirmCheckoutUrl and hdnShowConfirmDialog so that that the json return will know where to go.
-	        $("#hdnConfirmCheckoutUrl").val(url);
-	        $("#hdnShowConfirmDialog").val('true');
-
-	        var isCountDown = $("#hdnHAS_COUNT_DOWN_ITEMS").val();
-	        //if there are any countdown items on this order we need to make sure that the qty is still available
-	        //to the customer before allowing them to enter the checkout.
-	        if (isCountDown == "true") {
-	            validateCountDownCart();
-	        }
-	        else {
-	            changePage(url);
-	        }
-	    }
-
-
-	    function validateCountDownCart() {
-	        showWaiting();
-
-	        var param = "";
-	        $.post("/Cart/IsValidCountDownCart/cart", { value: param }, function (data) {
-	            processJSONreturnCountDown(data);
-	        }, "json");
-
-	    }
-
-
-	    function processJSONreturnCountDown(data) {
-
-	        if (data.toString() != "") {
-	            hideWaiting();
-	            showMessagingDialog(data.toString());
-	        }
-	        else {
-
-	            hideWaiting();
-
-	            if ($('#hdnShowConfirmDialog').val() == "true") {
-	                changePage($('#hdnConfirmCheckoutUrl').val());
-	            }
-	            else {
-	                $('#confirmCheckoutDialog').dialog('open');
-	            }
-	        }
-	    }
-
-	    function changePage(url) {
-	        window.location = url;
-	    }
-          
-    </script>
-<link rel="stylesheet" type="text/css" href="//assets.resultspage.com/js/rac/sli-rac.1.6.css"><link rel="stylesheet" type="text/css" href="//rugs-direct.resultspage.com/rac/sli-rac.css">
-<script type="text/javascript">
-    function returnSizeKey(keyword) {
-        sizes = keyword.replace(/\s/g, '').replace('by', 'x').replace(/foot|feet/gi, '\'').replace(/inches|inch/gi, '"').toLowerCase().split('x');
-
-        if (sizes[1] == undefined || isNaN(parseInt(sizes[0])) || isNaN(parseInt(sizes[1])))
-            return;
-
-        width = sizes[0].split('\'');
-        num1 = parseInt(width[0]) * (width[0].indexOf('"') > -1 ? 1 : 12);
-        if (width[1] != undefined && !isNaN(parseInt(width[1])))
-            num1 += parseInt(width[1]);
-
-        length = sizes[1].split('\'');
-        num2 = parseInt(length[0]) * (length[0].indexOf('"') > -1 ? 1 : 12);
-        if (length[1] != undefined && !isNaN(parseInt(length[1])))
-            num2 += parseInt(length[1]);
-
-        return num1 < num2 ? num1 + 'x' + num2 : num2 + 'x' + num1;
-    } 
+		        return num1 < num2 ? num1 + 'x' + num2 : num2 + 'x' + num1;
+		    }
 
 
 
-    function ajaxsearchsubmit(form) {
-        var search = encodeURIComponent(form.w.value);
-        if (search == "" || search == null)
-            return false;
-        document.activeElement.blur();
-        sizeKey = returnSizeKey(form.w.value);
-        window.location = "http://shop.rugs-direct.com/search#w=" + search + (sizeKey == undefined ? '' : "&sizekey=" + sizeKey);
-        return false;
-    } 
+		    function ajaxsearchsubmit(form) {
+		        var search = encodeURIComponent(form.w.value);
+		        if (search == "" || search == null)
+		            return false;
+		        document.activeElement.blur();
+		        sizeKey = returnSizeKey(form.w.value);
+		        window.location = "http://www.rugs-direct.com/Store/search#w=" + search + (sizeKey == undefined ? '' : "&sizekey=" + sizeKey);
+		        return false;
+		    }
 
-</script>
+		</script>
+        <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.sync.bootstrap.min.js"></script>
 
-    
-    <style type="text/css">
-        a
-        {
-            color: #000000;
-        }
-        p
-        {
-            padding-bottom: 8px;
-        }
-    </style>
-</head>
-<body>
-    
-    
-    <!-- BEGIN OMNITURE SUPPORT -->
-    <!-- SiteCatalyst code version: H.14.
-Copyright 1997-2008 Omniture, Inc. More info available at
-http://www.omniture.com -->
-<script language="javascript" type="text/javascript">
-<!--
-    var s_account = "rugsprod"
--->
-</script>
-
-    <script src="/Scripts/s_code.js" type="text/javascript"></script>
-
-    <script language="javascript" type="text/javascript">
-<!--
-    /* Copyright 1997-2004 Omniture, Inc. */
-    s.pageName = "BAC:Content:Privacy Policy"
-    s.prop1 = ""
-    s.prop2 = ""
-    s.prop6 = "Internal"
-    s.campaign = ""
-    s.events = ""
-    s.products = ""
-    s.pageType = ""
-    s.channel = ""
-    s.eVar1 = ""
-    s.eVar2 = ""
-    s.eVar3 = ""
-    s.eVar4 = ""
-    s.eVar5 = ""
-    s.eVar6 = ""
-    s.eVar7 = ""
-    s.eVar8 = ""
-    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-    var s_code = s.t(); if (s_code) document.write(s_code)
-    //--></script>
-<!-- END OMNITURE SUPPORT -->
-
-    
-
-    <input id="hdnConfirmCheckoutUrl" name="hdnConfirmCheckoutUrl" type="hidden" value="">
-    <input id="hdnShowConfirmDialog" name="hdnShowConfirmDialog" type="hidden" value="false">
-
-    <div id="wrapper1">
-        <div id="shadow-container">
-            <div class="shadow1">
-                <div class="shadow2">
-                    <div class="shadow3">
-                        <div class="shadow4">
-                            <div class="shadow5">
-                                <div class="shadow6">
-                                    <div class="container">
-                                        <div id="main1">
-                                            <!-- content -->
-                                            <div id="content1">
-                                                
-    
-<script type="text/javascript">
-    function highlightOn(a) {
-        a.style.background = "#6CA8C3";
-        a.style.color = "#FFFFFF";
-
-        if (a.id == "Nav_Accessories") {
-            $("#dropdownarrow").attr("src", "/Content/Images/nav/nav_downarrowwhite.png");
-        }
-    }
-    function highlightOff(a) {
-        a.style.background = "#F1F6F9";
-        if (a.id == "Nav_outlet" || a.id == "Nav_dealoftheday") {
-            a.style.color = "Red";
-        } else {
-            a.style.color = "#296784";
-        }
-
-
-        if (a.id == "Nav_Accessories") {
-            $("#dropdownarrow").attr("src", "/Content/Images/nav/nav_downarrow.png");
-        }
-    }
-</script>
-<div class="navBarTop">
-    <div id="CategoryWatcher" style="display: none;">
-        </div>
- 
-    <ul>
-        <li id="Li1" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = 'http://shop.rugs-direct.com/nav/Area-Rugs+e/'" style="width: 95px;" alt="Rugs Home" title="Rugs Home">Rugs</li>
-        <li id="Li2" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Luxury-Area-Rugs'" style="width: 133px;" alt="Luxury Rugs" title="Luxury Rugs">Luxury Rugs</li>
-        <li id="Li3" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = 'http://shop.rugs-direct.com/nav/Special-Buys+e/'" style="width: 130px;" alt="Special Buys" title="Special Buys">Special Buys</li>
-        <li id="Li4" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = 'http://shop.rugs-direct.com/nav/PreCut-Pad+e/'" style="width: 113px;" alt="Rug Pads" title="Rug Pads">Rug Pads</li>
-        <li id="Li5" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = 'http://shop.rugs-direct.com/nav/One-of-a-Kind-Rugs+e/'" style="width: 163px;" alt="One-of-a-Kind Rugs" title="One-of-a-Kind Rugs">One-of-a-Kind
-            Rugs</li>
-        <li id="Li6" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" style="width: 163px;" alt="Accessories" title="Accessories">Accessories
-            <img id="Img1" src="/Content/Images/nav/nav_downarrow.png">
-            <ul>
-                <!--<li id="Li7" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)"
-                    onclick="window.location = 'http://www.rugs-direct.com/Shop/Navigate/framedart'" alt="Art" title="Art">Art</li>-->
-                <li id="Li11" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = 'http://www.quickartdirect.com/'" alt="Art" title="Art">Art</li>
-                <li id="Li8" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = 'http://shop.rugs-direct.com/nav/Furniture+e/'" alt="Furniture" title="Furniture">
-                    Furniture</li>
-                <li id="Li9" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = 'http://shop.rugs-direct.com/nav/Pillows+e/'" alt="Pillows" title="Pillows">
-                    Pillows</li>
-            </ul>
-        </li>
-        <li id="Li10" class="nav_main" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = 'http://shop.rugs-direct.com/nav/Clearance+e/'" style="width: 157px; color: Red;
-            border-right: none;" alt="Clearance Outlet" title="Clearance Outlet">Clearance Outlet</li>
-    </ul>
-
-</div>
-
-                                                <div class="product">
-                                                    <!--main content-->
-                                                    
-    
-    <div class="bcWrap">
-        <div class="bc">
-            <span style="color: #333333">Currently Viewing: </span>
-            <a href="/">Home</a>&nbsp;&gt;&nbsp;Privacy Policy
-        </div>
+        <!-- End Inserted Support for SLI Search -->
+        <meta property="og:image" content="">
+		<meta property="og:image:secure_url" content="">
         
+<!-- This site is optimized with the Yoast SEO plugin v2.3.4 - https://yoast.com/wordpress/plugins/seo/ -->
 
-        <div class="bcRight">
-            
+<meta name="description" content="Rugs Direct understands your concerns regarding Internet privacy and security. We know these are very important and that is why we take special care to saf">
+<link rel="canonical" href="http://www.rugs-direct.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy | Rugs Direct">
+<meta property="og:description" content="Rugs Direct understands your concerns regarding Internet privacy and security. We know these are very important and that is why we take special care to saf">
+<meta property="og:url" content="http://www.rugs-direct.com/privacy-policy/">
+<meta property="og:site_name" content="Rugs Direct">
+<!-- / Yoast SEO plugin. -->
+
+<link rel="stylesheet" id="mmm_mega_main_menu-css" href="/userfiles/content/plugins/mega_main_menu/src/css/cache.skin.css?ver=1418070028" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-min-css" href="/userfiles/content/themes/rugs-direct/assets/css/bootstrap.min.css?ver=4.1.8" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-select-css" href="/userfiles/content/themes/rugs-direct/assets/css/bootstrap-select.min.css?ver=4.1.8" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-validator-css" href="/userfiles/content/themes/rugs-direct/assets/css/bootstrapValidator.min.css?ver=4.1.8" type="text/css" media="all">
+<link rel="stylesheet" id="fonts-css" href="/userfiles/content/themes/rugs-direct/assets/css/fonts.css?ver=4.1.8" type="text/css" media="all">
+<link rel="stylesheet" id="custom-style-css" href="/userfiles/content/themes/rugs-direct/assets/css/customs.min.css?ver=4.1.8" type="text/css" media="all">
+<link rel="stylesheet" id="mm_icomoon-css" href="/userfiles/content/plugins/mega_main_menu/src/css/external/icomoon.css?ver=2.0.2" type="text/css" media="all">
+<link rel="stylesheet" id="mm_font-awesome-css" href="/userfiles/content/plugins/mega_main_menu/src/css/external/font-awesome.css?ver=2.0.2" type="text/css" media="all">
+<!-- HTML5 elements and media queries Support for IE8 : HTML5 shim and Respond.js -->
+    <!--[if lt IE 9]>
+        <script src="http://image1.rugs-direct.com/userfiles/content/themes/rugs-direct/assets/js/html5shiv.js"></script>
+        <script src="http://image1.rugs-direct.com/userfiles/content/themes/rugs-direct/assets/js/respond.min.js"></script>
+    <![endif]-->
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+
+<!--[if gte IE 9]>
+
+	<style type="text/css">
+
+		.#mega_main_menu,
+
+		.#mega_main_menu *
+
+		{
+
+			filter: none;
+
+		}
+
+	</style>
+
+<![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="/content/css/Internal.min.css?v=20151019121707"></head>
+	<body class="page page-id-27 page-template-default mmm mega_main_menu-2-0-2 has-js" style="">
+        <noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-NJTBPJ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NJTBPJ');</script><header>
+            <div id="top-section">
+                <div class="container">
+                                        <ul class="nav-user">
+                                                
+                        
+                        <li><a href="/Account/LogIn">Log In</a></li>
+                                                <li><a href="/Cart/ViewCart" class="cart"><i class="fa fa-shopping-cart"></i>Cart<span class="chart-counter">0</span></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div id="headers-section">
+                <div class="container">
+                    <div class="navbar navbar-custom navbar-static-top" role="navigation">
+                        <div class="navbar-header">
+                            <div class="row">
+                                <div class="col-md-5">
+                                                                        <a class="navbar-brand" href="http://www.rugs-direct.com/"><img src="http://image1.rugs-direct.com/userfiles/content/uploads/2014/11/logo.png" alt="Rugs Direct - The Nation's Leading Source for Area Rugs"></a>
+                                </div>
+                                <div class="col-md-7">
+                                    <div class="phone-number"><p>Toll-Free: 888.464.1447</p></div>
+                                    <!-- search box starts here -->
+                                    <form name="searchform" action="http://www.rugs-direct.com/Store/search" method="get" onsubmit="return ajaxsearchsubmit(this);">
+                                        <input id="sli_search_view" type="hidden" name="view" value="grid">
+                                        <input class="txt-search" name="w" value="" placeholder="Search by rug style, color, name or description here" onfocus="this.value=''" id="sli_search_1" autocomplete="off" data-provide="rac">
+                                        <input class="btn-search" type="submit" value="">
+                                    </form>
+                                    <!-- search box ends here -->
+                                    <div class="nav-header">
+										<p><a href="/benefits"><span style="color: #f4634b;">Free Shipping</span></a>&nbsp; |&nbsp; <a href="/benefits">Risk-Free In-Home Trial</a>&nbsp; |&nbsp; <a href="/benefits">110% Price Match</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                        </div>
+			
+<div id="mega_main_menu" class="primary primary_style-flat icons-disable_globally first-lvl-align-justify first-lvl-separator-none direction-horizontal fullwidth-enable mobile_minimized-enable dropdowns_animation-anim_2 no-logo no-search no-woo_cart no-buddypress responsive-enable coercive_styles-disable coercive_styles-disable indefinite_location_mode-disable language_direction-ltr version-2-0-2 mega_main mega_main_menu" style="z-index: 4990;">
+	<div class="menu_holder">
+	<div class="mmm_fullwidth_container" style="width:1366px;left: -113px;right:auto;"></div>
+		<div class="menu_inner">
+			<span class="nav_logo">
+					<span class="mobile_button">
+						Menu &nbsp;
+						<span class="symbol_menu">≡</span>
+						<span class="symbol_cross">╳</span>
+					</span>
+				
+			</span>
+				<ul id="mega_main_menu_ul" class="mega_main_menu_ul">
+<li id="menu-item-59" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-59 multicolumn_dropdown  drop_to_left submenu_full_width columns5">
+	<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/" class="item_link  disable_icon" tabindex="0">
+			Shop Rugs
+			
+		
+	</a>
+	<ul class="mega_dropdown">
+	<li id="menu-item-64" class="section-head non-link menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-64 default_dropdown  drop_to_right submenu_default_width columns1" style="width: 19%;">
+		<a class="item_link  disable_icon" tabindex="0">
+				Style / Theme
+				
+			
+		</a>
+		<ul class="mega_dropdown">
+		<li id="menu-item-97" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Animals-Animal-Skins+s/">
+					Animal/Animal Skins
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-2079" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2079 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Beach-Nautical+s/">
+					Beach/Nautical
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-98" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Braided-Country+s/">
+					Braided/Country
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-99" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-99 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Casual+s/">
+					Casual
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-100" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Children's-Kids+s/">
+					Children’s/Kids
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-101" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-101 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Contemporary+s/">
+					Contemporary
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Floral-Botanical+s/">
+					Floral/Botanical
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Natural-Fiber+s/">
+					Natural Fiber
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Novelty-Seasonal-Sports+s/">
+					Novelty/Seasonal/Sports
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-105 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Outdoor-Indoor+s/">
+					Outdoor/Indoor
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-251" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-251 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Shag+s/">
+					Shag
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Solid+s/">
+					Solid
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Southwestern-Lodge+s/">
+					Southwestern/Lodge
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-108" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Traditional-Oriental+s/">
+					Traditional/Oriental
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-109" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-109 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Transitional+s/">
+					Transitional
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-115" class="section-head non-link menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-115 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a class="item_link  disable_icon" tabindex="0">
+					Color
+					
+				
+			</a>
+			<ul class="mega_dropdown">
+			<li id="menu-item-116" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Blacks-Greys+c/">
+						Blacks &amp; Greys
+						
+					
+				</a>
+			</li>
+			<li id="menu-item-117" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Blues+c/">
+						Blues
+						
+					
+				</a>
+			</li>
+			<li id="menu-item-118" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-118 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Browns+c/">
+						Browns
+						
+					
+				</a>
+			</li>
+			<li id="menu-item-119" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Burgundys+c/">
+						Burgundys
+						
+					
+				</a>
+			</li>
+			<li id="menu-item-120" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-120 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Greens+c/">
+						Greens
+						
+					
+				</a>
+			</li>
+			<li id="menu-item-121" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-121 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Oranges+c/">
+						Oranges
+						
+					
+				</a>
+			</li>
+			<li id="menu-item-122" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-122 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Purples+c/">
+						Purples
+						
+					
+				</a>
+			</li>
+			<li id="menu-item-123" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-123 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Reds-Pinks+c/">
+						Reds &amp; Pinks
+						
+					
+				</a>
+			</li>
+			<li id="menu-item-124" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-124 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Tans-Ivories+c/">
+						Tans &amp; Ivories
+						
+					
+				</a>
+			</li>
+			<li id="menu-item-125" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-125 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Whites+c/">
+						Whites
+						
+					
+				</a>
+			</li>
+			<li id="menu-item-126" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-126 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Yellows-Golds+c/">
+						Yellows &amp; Golds
+						
+					
+				</a>
+			</li>
+			</ul>
+		</li>
+		</ul>
+	</li>
+	<li id="menu-item-170" class="section-head non-link menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-170 default_dropdown  drop_to_right submenu_default_width columns1" style="width: 19%;">
+		<a class="item_link  disable_icon" tabindex="0">
+				Shape
+				
+			
+		</a>
+		<ul class="mega_dropdown">
+		<li id="menu-item-1355" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1355 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Runners+x/" class="item_link  disable_icon" tabindex="0">
+					Rug Runners
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-171 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Rectangular+o/">
+					Rectangular
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-172 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Square+o/">
+					Square
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-173" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-173 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Round+o/">
+					Round
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-275" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-275 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Oval+o/">
+					Oval
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-276" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-276 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Octagon+o/">
+					Octagon
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-277" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-277 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Other+o/">
+					Other
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-278" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-278 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Sample+o/">
+					Sample
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-65" class="section-head non-link menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-65 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a class="item_link  disable_icon" tabindex="0">
+					Type
+					
+				
+			</a>
+			<ul class="mega_dropdown">
+			<li id="menu-item-110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-110 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Braided+t/">
+						Braided
+						
+					
+				</a>
+			</li>
+			<li id="menu-item-111" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/FlatWoven+t/">
+						Flat-Woven
+						
+					
+				</a>
+			</li>
+			<li id="menu-item-2061" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2061 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/HandKnotted+t/">
+						Hand-Knotted
+						
+					
+				</a>
+			</li>
+			<li id="menu-item-2062" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2062 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/HandLoomed+t/">
+						Hand-Loomed
+						
+					
+				</a>
+			</li>
+			<li id="menu-item-2063" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2063 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/HandTufted+t/">
+						Hand-Tufted
+						
+					
+				</a>
+			</li>
+			<li id="menu-item-2064" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2064 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Handwoven+t/">
+						Handwoven
+						
+					
+				</a>
+			</li>
+			<li id="menu-item-113" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-113 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/LoopHooked+t/">
+						Loop-Hooked
+						
+					
+				</a>
+			</li>
+			<li id="menu-item-114" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-114 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/MachineMade+t/">
+						Machine-Made
+						
+					
+				</a>
+			</li>
+			<li id="menu-item-134" class="section-head non-link menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-134 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a class="item_link  disable_icon" tabindex="0">
+						Price
+						
+					
+				</a>
+				<ul class="mega_dropdown">
+				<li id="menu-item-135" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-135 default_dropdown  drop_to_right submenu_default_width columns1">
+					<a href="http://www.rugs-direct.com/Store/search?p=Q&amp;lbc=rugs-direct&amp;uid=617636454&amp;ts=custom&amp;w=*&amp;isort=score&amp;method=and&amp;view=grid&amp;af=p:under200%20e:arearugs">
+							Under $200
+							
+						
+					</a>
+				</li>
+				<li id="menu-item-136" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-136 default_dropdown  drop_to_right submenu_default_width columns1">
+					<a href="http://www.rugs-direct.com/Store/search?p=Q&amp;lbc=rugs-direct&amp;uid=617636454&amp;ts=custom&amp;w=*&amp;isort=score&amp;method=and&amp;view=grid&amp;af=p:200to399%20e:arearugs">
+							$200 to $399
+							
+						
+					</a>
+				</li>
+				<li id="menu-item-137" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-137 default_dropdown  drop_to_right submenu_default_width columns1">
+					<a href="http://www.rugs-direct.com/Store/search?p=Q&amp;lbc=rugs-direct&amp;uid=617636454&amp;ts=custom&amp;w=*&amp;isort=score&amp;method=and&amp;view=grid&amp;af=p:400to599%20e:arearugs">
+							$400 to $599
+							
+						
+					</a>
+				</li>
+				<li id="menu-item-254" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-254 default_dropdown  drop_to_right submenu_default_width columns1">
+					<a href="http://www.rugs-direct.com/Store/search?p=Q&amp;lbc=rugs-direct&amp;uid=617636454&amp;ts=custom&amp;w=*&amp;isort=score&amp;method=and&amp;view=grid&amp;af=p:600to1000%20e:arearugs">
+							$600 to $1000
+							
+						
+					</a>
+				</li>
+				<li id="menu-item-255" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-255 default_dropdown  drop_to_right submenu_default_width columns1">
+					<a href="http://www.rugs-direct.com/Store/search?p=Q&amp;lbc=rugs-direct&amp;uid=617636454&amp;ts=custom&amp;w=*&amp;isort=score&amp;method=and&amp;view=grid&amp;af=p:over1000%20e:arearugs">
+							Over $1000
+							
+						
+					</a>
+				</li>
+				</ul>
+			</li>
+			</ul>
+		</li>
+		</ul>
+	</li>
+	<li id="menu-item-138" class="section-head non-link menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-138 default_dropdown  drop_to_right submenu_default_width columns1" style="width: 19%;">
+		<a class="item_link  disable_icon" tabindex="0">
+				Material
+				
+			
+		</a>
+		<ul class="mega_dropdown">
+		<li id="menu-item-139" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-139 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Acrylic+m/">
+					Acrylic
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-140" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-140 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Bamboo+m/">
+					Bamboo
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-141 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Chenille+m/">
+					Chenille
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-142" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-142 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Cotton+m/">
+					Cotton
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-143 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Cowhide+m/">
+					Cowhide
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-144" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-144 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Hemp+m/">
+					Hemp
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-145 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Jute+m/">
+					Jute
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-146" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-146 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Leather+m/">
+					Leather
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-147" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-147 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Nylon+m/">
+					Nylon
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-149" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-149 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Polyester+m/">
+					Polyester
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-150" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-150 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Rayon+m/">
+					Rayon
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-151" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Recycled-Paper+m/">
+					Recycled Paper
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-152" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-152 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Rubber+m/">
+					Rubber
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-153" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-153 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Sari-Silk+m/">
+					Sari Silk
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-154" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-154 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Seagrass+m/">
+					Seagrass
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-155" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-155 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Silk+m/">
+					Silk
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-156" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Sisal+m/">
+					Sisal
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-157" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-157 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Synthetic+m/">
+					Synthetic
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-158" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-158 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Synthetic-olefinpolypropylene+m/">
+					Synthetic (olefin/polypropylene)
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-159" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-159 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Viscose+m/">
+					Viscose
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-160" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-160 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Wool+m/">
+					Wool
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-2392" class="section-head non-link menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2392 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a class="item_link  disable_icon" tabindex="0">
+					Thickness
+					
+				
+			</a>
+			<ul class="mega_dropdown">
+			<li id="menu-item-2393" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2393 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Flat+h/">
+						Flat (1/4″ and under)
+						
+					
+				</a>
+			</li>
+			<li id="menu-item-2394" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2394 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Low+h/">
+						Low (3/8″ to 1/2″)
+						
+					
+				</a>
+			</li>
+			<li id="menu-item-2395" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2395 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Medium+h/">
+						Medium (5/8″ to 1″)
+						
+					
+				</a>
+			</li>
+			<li id="menu-item-2396" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2396 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/High+h/">
+						High (over 1″)
+						
+					
+				</a>
+			</li>
+			</ul>
+		</li>
+		</ul>
+	</li>
+	<li id="menu-item-161" class="section-head-orange menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-161 default_dropdown  drop_to_right submenu_default_width columns1" style="width: 19%;">
+		<a href="http://www.rugs-direct.com/Store/nav/Clearance+e/" class="item_link  disable_icon" tabindex="0">
+				CLEARANCE OUTLET
+				
+			
+		</a>
+		<ul class="mega_dropdown">
+		<li id="menu-item-165" class="section-head-orange menu-item menu-item-type-custom menu-item-object-custom menu-item-165 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/One-of-a-Kind-Rugs+e/" class="item_link  disable_icon" tabindex="0">
+					ONE-OF-A-KIND RUGS
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-362" class="section-head-orange menu-item menu-item-type-custom menu-item-object-custom menu-item-362 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a href="http://www.rugs-direct.com/Store/nav/Special-Buys+e/" class="item_link  disable_icon" tabindex="0">
+					SPECIAL BUYS
+					
+				
+			</a>
+		</li>
+		<li id="menu-item-611" class="section-head non-link menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-611 default_dropdown  drop_to_right submenu_default_width columns1">
+			<a class="item_link  disable_icon" tabindex="0">
+					Special Categories
+					
+				
+			</a>
+			<ul class="mega_dropdown">
+			<li id="menu-item-164" class="menu-flag menu-item menu-item-type-custom menu-item-object-custom menu-item-164 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Made-In-USA+s/" class="item_link  disable_icon" tabindex="0">
+						Made in USA
+						
+					
+				</a>
+			</li>
+			<li id="menu-item-361" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-361 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/Custom-Sizes+x/" class="item_link  disable_icon" tabindex="0">
+						Custom Size Rugs
+						
+					
+				</a>
+			</li>
+			<li id="menu-item-166" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-166 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/New-Arrivals+s/" class="item_link  disable_icon" tabindex="0">
+						New Arrivals
+						
+					
+				</a>
+			</li>
+			<li id="menu-item-167" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/Store/nav/Area-Rugs+e/" class="item_link  disable_icon" tabindex="0">
+						Top Sellers
+						
+					
+				</a>
+			</li>
+			<li id="menu-item-2681" class="section-head menu-item menu-item-type-post_type menu-item-object-page menu-item-2681 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/decorating-trends/" class="item_link  disable_icon" tabindex="0">
+						Decorating Trends
+						
+					
+				</a>
+			</li>
+			<li id="menu-item-360" class="section-head menu-item menu-item-type-post_type menu-item-object-page menu-item-360 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/designer-showcase/" class="item_link  disable_icon" tabindex="0">
+						Designer Showcase
+						
+					
+				</a>
+			</li>
+			<li id="menu-item-353" class="section-head menu-item menu-item-type-post_type menu-item-object-page menu-item-353 default_dropdown  drop_to_right submenu_default_width columns1">
+				<a href="http://www.rugs-direct.com/shop-by-brand/" class="item_link  disable_icon" tabindex="0">
+						Shop by Brand
+						
+					
+				</a>
+			</li>
+			</ul>
+		</li>
+		</ul>
+	</li>
+	<li id="menu-item-279" class="featured-widget menu-item menu-item-type-custom menu-item-object-custom menu-item-279 default_dropdown  drop_to_right submenu_default_width columns1" style="width: 19%;"><div class="featured-menu"><div class="image"><a href="/black-friday-pre-sale"><img src="http://image1.rugs-direct.com/userfiles/content/uploads/2015/11/PreBlackFriday217W.jpg" alt=""></a></div><h3><i class="red"></i></h3><p></p><p class="text-center"><a href="/black-friday-pre-sale" class="btn btn-blue-sky">Click Here</a></p><div class="clearfix"></div></div></li>
+	</ul>
+</li>
+<li id="menu-item-2436" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2436 default_dropdown  drop_to_right submenu_default_width columns1">
+	<a href="http://www.rugs-direct.com/black-friday-pre-sale/" class="item_link  disable_icon" tabindex="0">
+			Black Friday Sale
+			
+		
+	</a>
+</li>
+<li id="menu-item-280" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-280 default_dropdown  drop_to_right submenu_default_width columns1">
+	<a href="http://www.rugs-direct.com/Store/nav/Framed-Art+Furniture+Pillows+PreCut-Pad+e/" class="item_link  disable_icon" tabindex="0">
+			Shop Accessories
+			
+		
+	</a>
+	<ul class="mega_dropdown">
+	<li id="menu-item-2843" class="section-head menu-item menu-item-type-custom menu-item-object-custom menu-item-2843 default_dropdown  drop_to_right submenu_default_width columns1">
+		<a href="http://www.quickartdirect.com/" class="item_link  disable_icon" tabindex="0">
+				Artwork
+				
+			
+		</a>
+	</li>
+	<li id="menu-item-385" class="section-head menu-item menu-item-type-custom menu-item-object-custom menu-item-385 default_dropdown  drop_to_right submenu_default_width columns1">
+		<a href="http://www.rugs-direct.com/Store/nav/Pillows+e/" class="item_link  disable_icon" tabindex="0">
+				Designer Pillows
+				
+			
+		</a>
+	</li>
+	<li id="menu-item-384" class="section-head menu-item menu-item-type-custom menu-item-object-custom menu-item-384 default_dropdown  drop_to_right submenu_default_width columns1">
+		<a href="http://www.rugs-direct.com/Store/nav/Furniture+e/" class="item_link  disable_icon" tabindex="0">
+				Furniture
+				
+			
+		</a>
+	</li>
+	<li id="menu-item-386" class="section-head menu-item menu-item-type-custom menu-item-object-custom menu-item-386 default_dropdown  drop_to_right submenu_default_width columns1">
+		<a href="http://www.rugs-direct.com/Store/nav/PreCut-Pad+e/" class="item_link  disable_icon" tabindex="0">
+				Rug Pads
+				
+			
+		</a>
+	</li>
+	<li id="menu-item-387" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-387 default_dropdown  drop_to_right submenu_default_width columns1">
+		<a href="http://www.rugs-direct.com/Details/Premium-Rug-Pads-20YearWarranty/89881/141090" class="item_link  disable_icon" tabindex="0">
+				Best – 20-Year Warranty
+				
+			
+		</a>
+	</li>
+	<li id="menu-item-388" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-388 default_dropdown  drop_to_right submenu_default_width columns1">
+		<a href="http://www.rugs-direct.com/Details/Premium-Rug-Pads-15YearWarranty/89880/141089" class="item_link  disable_icon" tabindex="0">
+				Better – 15-Year Warranty
+				
+			
+		</a>
+	</li>
+	<li id="menu-item-389" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-389 default_dropdown  drop_to_right submenu_default_width columns1">
+		<a href="http://www.rugs-direct.com/Details/Premium-Rug-Pads-5YearWarranty/89879/141088" class="item_link  disable_icon" tabindex="0">
+				Good – 5-Year Warranty
+				
+			
+		</a>
+	</li>
+	<li id="menu-item-390" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-390 default_dropdown  drop_to_right submenu_default_width columns1">
+		<a href="http://www.rugs-direct.com/Details/Premium-Rug-Pads-Outdoor/92897/145606" class="item_link  disable_icon" tabindex="0">
+				Outdoor Pad
+				
+			
+		</a>
+	</li>
+	</ul>
+</li>
+<li id="menu-item-281" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-281 widgets_dropdown  drop_to_right submenu_default_width columns1">
+	<a href="#" class="item_link  disable_icon" tabindex="0">
+			Social Media
+			
+		
+	</a>
+	<ul class="mega_dropdown"><div id="social_media_menu_widget-2" class="widget widget_social_media_menu_widget"><ul id="social-media-menu">
+<li><a href="http://www.rugs-direct.com/blog/" target="_blank"><i class="fa fa-rss"></i> TRENDCenter Blog</a></li>
+<li><a href="https://www.facebook.com/rugsdirect.com" target="_blank"><i class="fa fa-facebook"></i> FACEBOOK</a></li>
+<li><a href="http://www.twitter.com/rugsdirect" target="_blank"><i class="fa fa-twitter"></i> TWITTER</a></li>
+<li><a href="https://www.pinterest.com/rugsdirect/" target="_blank"><i class="fa fa-pinterest"></i> PINTEREST</a></li>
+<li><a href="http://instagram.com/rugs_direct" target="_blank"><i class="fa fa-instagram"></i> INSTAGRAM</a></li>
+<li><a href="http://www.youtube.com/user/RugsDirect" target="_blank"><i class="fa fa-youtube-play"></i> YOUTUBE</a></li>
+</ul>
+<a href="https://www.facebook.com/rugsdirect.com/app_194975693850063" target="_blank"><img src="http://image1.rugs-direct.com/userfiles/content/uploads/2015/05/Rugs_FB_imageA.jpg" alt="Rugs Direct Facebook Offer"></a>
+</div>
+	</ul>
+</li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282 default_dropdown  drop_to_right submenu_default_width columns1">
+	<a href="http://www.rugs-direct.com/about-us/" class="item_link  disable_icon" tabindex="0">
+			About Us
+			
+		
+	</a>
+</li>
+<li id="menu-item-283" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-283 default_dropdown  drop_to_right submenu_default_width columns1">
+	<a href="http://www.rugs-direct.com/contact-us/" class="item_link  disable_icon" tabindex="0">
+			Contact Us
+			
+		
+	</a>
+</li></ul>
+		</div>
+	</div>
+</div>                                                <div id="featured-widget" data-image="http://image1.rugs-direct.com/userfiles/content/uploads/2015/11/PreBlackFriday217W.jpg" data-title="<i class='red'></i>" data-text="" data-btn="Click Here" data-link="/black-friday-pre-sale"></div>
+                                            </div>
+                </div>
+            </div>
+            <div class="red_bar"></div>
+        </header><div id="contents">
+    <div class="container">
+        <div class="page_title">
+            <h1>Privacy Policy</h1>
         </div>
-    </div>
-    <div style="margin-top: 11px;">
-        <h3>Privacy Policy</h3>
-<p>Rugs Direct understands your concerns regarding Internet privacy and security. We know these are very important and that is why we take special care to safeguard the confidentiality and security of your information. We encrypt all of your personal information including credit card number, name, and address, so that it cannot be read as the information travels over the Internet.</p>
+        <hr class="line-blue">
+        <p>Rugs Direct understands your concerns regarding Internet privacy and security. We know these are very important and that is why we take special care to safeguard the confidentiality and security of your information. We encrypt all of your personal information including credit card number, name, and address, so that it cannot be read as the information travels over the Internet.</p>
 <p><strong>How does our secure server work?</strong></p>
 <ol>
-    <li>Starting Your Order<br>
-    Every order you place with us is secure. All data submitted via the checkout form is encrypted using SSL (Secure Sockets Layer) encryption.</li>
-    <li>Making a Positive ID<br>
-    After you've selected items to purchase, you'll be prompted to "proceed to checkout." At this point, your browser looks for a site certificate to confirm that it is communicating with our store. Once a positive ID is made, your order continues.</li>
-    <li>Entering Secure Mode<br>
-    At this point, your computer and our server begin communicating in secure mode, sending data back and forth in an encrypted format. We are ready to ask you for your credit card information. The encryption features of browser software are exceptionally powerful and ensure the security of this data as it is transmitted to our server.</li>
-    <li>Your Order Is Complete<br>
-    Next, your credit card numbers are placed in a database on the secure web server. A user must have login privileges on the web server (requiring a password) to be able to access the database, which also requires a password.</li>
+<li>Starting Your Order<br>
+Every order you place with us is secure. All data submitted via the checkout form is encrypted using SSL (Secure Sockets Layer) encryption.</li>
+<li>Making a Positive ID<br>
+After you’ve selected items to purchase, you’ll be prompted to “proceed to checkout.” At this point, your browser looks for a site certificate to confirm that it is communicating with our store. Once a positive ID is made, your order continues.</li>
+<li>Entering Secure Mode<br>
+At this point, your computer and our server begin communicating in secure mode, sending data back and forth in an encrypted format. We are ready to ask you for your credit card information. The encryption features of browser software are exceptionally powerful and ensure the security of this data as it is transmitted to our server.</li>
+<li>Your Order Is Complete<br>
+Next, your credit card numbers are placed in a database on the secure web server. A user must have login privileges on the web server (requiring a password) to be able to access the database, which also requires a password.</li>
 </ol>
-<p>Order information, including the credit card numbers, is retrieved through a web interface. This interface challenges the user for a password twice, and then "expires" the session after ten minutes, requiring the user to login again. All communications during these sessions are encrypted again using SSL. No credit card numbers are ever sent via e-mail, due to the fact that most e-mail is not secure.</p>
+<p>Order information, including the credit card numbers, is retrieved through a web interface. This interface challenges the user for a password twice, and then “expires” the session after ten minutes, requiring the user to login again. All communications during these sessions are encrypted again using SSL. No credit card numbers are ever sent via e-mail, due to the fact that most e-mail is not secure.</p>
 <p><strong>How can you tell if you are in secure mode?</strong><br>
-Standard, unsecured URL address begin with "http://". When you enter secure mode, the beginning of the URL address will change to "https://"; the "s" stands for secure. Most browsers in secure mode also display a blue line along the top of the browser window. Some browsers display a broken key or open padlock symbol in the lower corner of your browser window when you are not viewing a secure page of a site. This key will become solid or the lock will close when you enter secure mode.</p>
+Standard, unsecured URL address begin with “http://”. When you enter secure mode, the beginning of the URL address will change to “https://”; the “s” stands for secure. Most browsers in secure mode also display a blue line along the top of the browser window. Some browsers display a broken key or open padlock symbol in the lower corner of your browser window when you are not viewing a secure page of a site. This key will become solid or the lock will close when you enter secure mode.</p>
 <p><strong>How do we protect the information you provide?</strong><br>
-We use industry-standard Secure Sockets Layer (SSL) encryption to safeguard all sensitive data transmitted to us. This means that your personal information - including credit card number, name, expiration date, and billing information - is encrypted so that it cannot be read by anyone else.</p>
+We use industry-standard Secure Sockets Layer (SSL) encryption to safeguard all sensitive data transmitted to us. This means that your personal information – including credit card number, name, expiration date, and billing information – is encrypted so that it cannot be read by anyone else.</p>
 <p>We also offer an extra layer of security when you use a shared computer in a corporate or public area. Even if you select the auto-login feature on a machine that third parties might have access to, your password and your credit card information will NOT be displayed. Unlike other auto-login programs, our system will require that you type in your password every time, thus making sure it is really you who has signed in, and not someone else using the same computer. Rugs Direct(Dev) is a VeriSign Secure Site. The VeriSign seal at the bottom of any page allows you to confirm that we are who we say we are and that all the information you provide will be protected every time you use our service.</p>
 <p><strong>What information do we collect?</strong><br>
-When you visit our site, our server automatically collects non-personally identifiable information - your internet service provider address and information on the pages you access on our site. In addition, we store information you provide when you make a purchase or enter your e-mail address. We also collect information when you volunteer to complete a survey.</p>
+When you visit our site, our server automatically collects non-personally identifiable information – your internet service provider address and information on the pages you access on our site. In addition, we store information you provide when you make a purchase or enter your e-mail address. We also collect information when you volunteer to complete a survey.</p>
 <p><strong>How do we collect the information?</strong><br>
-Like many Internet sites, we use "cookies" to recognize returning customers. Cookies are small pieces of information that are stored by your browser on your computer's hard drive. We use the cookies to recognize your preferences and to keep track of items you've added to your shopping cart.</p>
+Like many Internet sites, we use “cookies” to recognize returning customers. Cookies are small pieces of information that are stored by your browser on your computer’s hard drive. We use the cookies to recognize your preferences and to keep track of items you’ve added to your shopping cart.</p>
 <p><strong>What do we do with the information we collect?</strong></p>
 <ol>
-    <li>By evaluating how customers use our site, we can offer better content, easier navigation, and better checkout services.</li>
-    <li>If you join our e-mail list, we will offer you updates about new products and services, discounts and special promotions. You can join or leave our mailing list at any time. Customers who supply us with a telephone number will only receive calls from us pertaining to orders they have placed.</li>
-    <li>We use customer information in processing transactions both within our company and with third party vendors. Our third party vendors are, by contract, restricted from using your information in any way, except to help us provide the products and services we offer you on our site.</li>
-    <li>We may provide customer information (but not credit card information) to affiliate companies, partners or organizations from time to time.</li>
+<li>By evaluating how customers use our site, we can offer better content, easier navigation, and better checkout services.</li>
+<li>If you join our e-mail list, we will offer you updates about new products and services, discounts and special promotions. You can join or leave our mailing list at any time. Customers who supply us with a telephone number will only receive calls from us pertaining to orders they have placed.</li>
+<li>We use customer information in processing transactions both within our company and with third party vendors. Our third party vendors are, by contract, restricted from using your information in any way, except to help us provide the products and services we offer you on our site.</li>
+<li>We may provide customer information (but not credit card information) to affiliate companies, partners or organizations from time to time.</li>
 </ol>
 <p><strong>Ad Servers</strong><br>
 We do not partner with or have special relationships with any ad server companies.</p>
 <p><strong>Changes in Our Privacy Policy</strong><br>
-We suggest that you review our privacy policy periodically, as we may update it from time to time. If our information practices change, we will post the policy change to our website. This policy was last updated on May 17, 2010.</p></div>
-
-        
-
-<!-- recently viewed dialog -->
-
-                                                    <!--end main content-->
-                                                </div>
-                                                <!-- navigation -->
-                                                
-    <div class="NavWrap">
-        <div id="LeftNav" class="NavMerch">
-            
-<script language="javascript" type="text/javascript">
-    function omniture_call_fb() {
-        s.pageName = "BAC:EXT:Facebook";
-        var s_code = s.t(); if (s_code) document.write(s_code);
-    }
-
-    function omniture_call_twitter() {
-        s.pageName = "BAC:EXT:Twitter";
-        var s_code = s.t(); if (s_code) document.write(s_code);
-    }
-
-    function omniture_call_youtube() {
-        s.pageName = "BAC:EXT:YouTube";
-        var s_code = s.t(); if (s_code) document.write(s_code);
-    }
-                    
-</script>
-<h3>
-    Connect With Us</h3>
-<div class="socialmedialinks">
-    <!--<a href="http://www.facebook.com/pages/Rugs-Direct/261737700079" target="_blank" onclick="omniture_call_fb();"><img src="/Content/Images/facebook.gif" alt="Find us on Facebook" height="24" width="24" /></a> <a href="http://www.facebook.com/pages/Rugs-Direct/261737700079" target="_blank" onclick="omniture_call_fb();">Find us on Facebook</a><br />
-                <a href="http://www.twitter.com/Rugology" target="_blank" onclick="omniture_call_twitter();"><img src="/Content/Images/twitter.gif" alt="Follow us on Twitter" height="24" width="24" /></a> <a href="http://www.twitter.com/Rugology" target="_blank" onclick="omniture_call_twitter();">Follow us on Twitter</a><br />
-                <a href="http://www.youtube.com/user/RugsDirect?feature=mhum" target="_blank" onclick="omniture_call_youtube();"><img src="/Content/Images/you_tube.gif" alt="Watch us on YouTube" height="24" width="24" /></a> <a href="http://www.youtube.com/user/RugsDirect?feature=mhum" target="_blank" onclick="omniture_call_youtube();">Watch us on YouTube</a>-->
-    <a href="http://www.facebook.com/pages/Rugs-Direct/261737700079" target="_blank" onclick="omniture_call_fb();">
-        <img style="padding: 0;" src="/Content/Images/leftnavlikeus.gif"></a>
-</div>
-<h4>
-    FREE Shipping <span>on most orders.</span></h4>
-
-        </div>
-               
+We suggest that you review our privacy policy periodically, as we may update it from time to time. If our information practices change, we will post the policy change to our website. This policy was last updated on May 17, 2010.</p>
     </div>
-
-
-                                                <!-- end navigation -->
-                                            </div>
-                                            <div id="updatingcontent" class="jqmWindow">
-                                                <table style="width: auto; font-size: large;">
-                                                    <tbody><tr>
-                                                        <td>
-                                                            <img src="/Content/Images/updatingmain.gif" alt="Please Wait...">
-                                                        </td>
-                                                        <td>
-                                                            We are processing<br>
-                                                            your request.
-                                                        </td>
-                                                    </tr>
-                                                </tbody></table>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+</div>
+        <footer>
+            <div id="footers">
+                <div class="container">
+                    <div class="col-md-9">
+                        <div class="row">
+                                                        <div class="col-sm-3">
+                                <ul class="nav-footer">
+                                    <li><h3>Company</h3></li>
+                                                                        <li><a href="http://www.rugs-direct.com/about-us/">About Us</a></li>
+                                                                        <li><a href="http://www.rugs-direct.com/benefits/">Why Buy from Us?</a></li>
+                                                                        <li><a href="http://www.rugs-direct.com/testimonials/">Testimonials</a></li>
+                                                                        <li><a href="http://www.rugs-direct.com/privacy-policy/">Privacy Policy</a></li>
+                                                                        <li><a href="http://www.rugs-direct.com/terms-of-use/">Terms of Use</a></li>
+                                                                        <li><a href="http://www.rugs-direct.com/site-map/">Site Map</a></li>
+                                                                    </ul>
                             </div>
+                                                        <div class="col-sm-3">
+                                <ul class="nav-footer">
+                                    <li><h3>FAQs</h3></li>
+                                                                        <li><a href="http://www.rugs-direct.com/cleaninginfo/">Rug Cleaning</a></li>
+                                                                        <li><a href="http://www.rugs-direct.com/faqs/manufacturers-warranty/">Warranties</a></li>
+                                                                        <li><a href="http://www.rugs-direct.com/faqs/guarantees/">Guarantees</a></li>
+                                                                        <li><a href="http://www.rugs-direct.com/faqs/shipping-information/">Shipping</a></li>
+                                                                        <li><a href="http://www.rugs-direct.com/sales-tax/">Sales Tax</a></li>
+                                                                        <li><a href="http://www.rugs-direct.com/faqs/">All FAQs</a></li>
+                                                                    </ul>
+                            </div>
+                                                        <div class="col-sm-3">
+                                <ul class="nav-footer">
+                                    <li><h3>Customer Service</h3></li>
+                                                                        <li><a href="http://www.rugs-direct.com/contact-us/">Contact Us</a></li>
+                                                                        <li><a href="http://www.rugs-direct.com/rugs-direct-delivery/">Delivery Service</a></li>
+                                                                        <li><a href="/ROW">Returns</a></li>
+                                                                        <li><a href="http://www.rugs-direct.com/shipping-to-canada/">Shipping to Canada</a></li>
+                                                                        <li><a href="http://www.rugs-direct.com/available-rebates-2/">Available Rebates</a></li>
+                                                                        <li><a href="http://www.rugs-direct.com/rug-style-guides/">Rug Style Guides</a></li>
+                                                                    </ul>
+                            </div>
+                                                        <div class="col-sm-3">
+                                <ul class="nav-footer">
+                                    <li><h3>My Account</h3></li>
+                                                                        <li><a href="/Account">Log In</a></li>
+                                                                        <li><a href="/Account/Settings">Edit Profile</a></li>
+                                                                        <li><a href="/Wishlist">Wish List</a></li>
+                                                                        <li><a href="/ProPartner">Professional Partner Program</a></li>
+                                                                    </ul>
+                            </div>
+                                                    </div>
+                    </div>
+                    <div class="col-md-3">
+                                                <div class="address-footer">
+                            <h3>Rugs Direct Outlet</h3>
+                            <p>116 Featherbed Lane <br>
+Winchester, VA 22601</p>
+                            <p>Monday - Saturday<br>10:00 a.m. - 6:00 p.m.</p>
+                            <a href="/winchester-outlet" class="italic book"><i>INFO &amp; DIRECTIONS &gt;&gt;</i></a>
                         </div>
+                                            </div>
+                </div>
+            </div>
+            <div id="bottom_section">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="copyright">
+                                <span class="cards"><img src="http://image1.rugs-direct.com/userfiles/content/themes/rugs-direct/assets/img/cards.png" alt=""></span>Copyright © <span id="copyright_date">2015</span> Rugs Direct                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                                                        <div class="social-footer">
+                                                                <a href="http://www.rugs-direct.com/blog/" title="TRENDCenter Blog" target="_blank"><i class="fa fa-rss"></i></a>
+                                                                <a href="https://www.facebook.com/rugsdirect.com" title="FACEBOOK" target="_blank"><i class="fa fa-facebook"></i></a>
+                                                                <a href="http://www.twitter.com/rugsdirect" title="TWITTER" target="_blank"><i class="fa fa-twitter"></i></a>
+                                                                <a href="https://www.pinterest.com/rugsdirect/" title="PINTEREST" target="_blank"><i class="fa fa-pinterest"></i></a>
+                                                                <a href="http://instagram.com/rugs_direct" title="INSTAGRAM" target="_blank"><i class="fa fa-instagram"></i></a>
+                                                                <a href="http://www.youtube.com/user/RugsDirect" title="YOUTUBE" target="_blank"><i class="fa fa-youtube-play"></i></a>
+                                                            </div>
+                                                    </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <!-- header -->
-        
-
-<style type="text/css">
-.gsc-completion-container table{background:White;}
-</style>
-
-<div id="header">
-    <input id="hdnHAS_COUNT_DOWN_ITEMS" name="hdnHAS_COUNT_DOWN_ITEMS" type="hidden" value="false">
-    <div style="display: block;">
-        <!-- logo -->
-        <strong><a href="http://www.rugs-direct.com" alt="Rugs Direct Home Page" title="Rugs Direct Home Page"></a></strong>
-
-         <!-- Cart Information -->
-        <div id="cartinfo">
-
-            <div class="float_right">
-                
-                    <span onclick="window.location='/cart/viewcart'" style="cursor: pointer;">Items:
-                        0
-                        | Total:
-                        $0.00
-                    </span>
-
-                    <ul>
-                        <li class="bold">
-                            <a href="/Cart/ViewCart">Cart</a>&nbsp;|</li>
-                        <li class="bold">
-                            
-                            Checkout
-                            </li>
-                    </ul>
-                
+            <div id="fixed_chat_box">
+                <img src="http://image1.rugs-direct.com/userfiles/content/themes/rugs-direct/assets/img/btn-chat.png" alt="Chat" class="open_chat">
+                <div class="body_chat">
+                    <!-- BoldChat Live Chat Button HTML v4.00 (Type=Web,ChatButton=RD Clickzy Slide-out,Website=Rugs Direct - Clikzy) -->
+                    <div style="text-align: center; white-space: nowrap;">
+                        <a href="https://livechat.boldchat.com/aid/443295933636581794/bc.chat?resize=true&amp;cbdid=1899421577956585687&amp;wdid=3434058626408909397" target="_blank" onclick="window.open((window.pageViewer &amp;&amp; pageViewer.link || function(link){return link;})(this.href + (this.href.indexOf('?')>=0 ? '&amp;' : '?') + 'url=' + escape(document.location.href)), 'Chat2994574266129748983', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');return false;">
+                            <div><script language="JavaScript" type="text/javascript"> var bccbId = Math.random(); document.write(unescape('%3Cimg nopin="nopin" alt="Live chat by BoldChat" src="' + (('https:' == document.location.protocol) ? 'https:' : 'http:') + '//cbi.boldchat.com/aid/443295933636581794/bc.cbi?cbdid=1899421577956585687&amp;wdid=3434058626408909397" style="margin-left: -20px;" border="0" id=' + bccbId + ' /%3E')); var bccb = {id: bccbId, bdid: '1899421577956585687', rdid: null, type: 'chat'}; var _bcvma = _bcvma || []; if(window.pageViewer && pageViewer.addButton) pageViewer.addButton(button); else _bcvma.push(['addButton', bccb]);</script><img nopin="nopin" alt="Live chat by BoldChat" src="https://cbi.boldchat.com/aid/443295933636581794/bc.cbi?cbdid=1899421577956585687&amp;wdid=3434058626408909397" style="margin-left: -20px;" border="0" id="0.5762307027299696"></div>
+                        </a>
+                    </div>
+                    <!-- /BoldChat Live Chat Button HTML v4.00 -->
+                </div>
             </div>
+        </footer>
+        <script type="text/javascript" src="/userfiles/content/themes/rugs-direct/assets/js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="/userfiles/content/themes/rugs-direct/assets/js/jquery-ui-1.10.4.custom.min.js"></script>
+<script type="text/javascript" src="/userfiles/content/themes/rugs-direct/assets/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/userfiles/content/themes/rugs-direct/assets/js/bootstrap-select.min.js"></script>
+<script type="text/javascript" src="/userfiles/content/themes/rugs-direct/assets/js/bootstrapValidator.min.js"></script>
+<script type="text/javascript" src="/content/js/custom.js"></script>
+<script type="text/javascript" src="/userfiles/content/themes/rugs-direct/assets/js/main.js"></script>
+<script type="text/javascript" src="/userfiles/content/plugins/mega_main_menu/src/js/frontend/menu_functions.js"></script>
+        <script>
+        $(document).ready(function(){
+            var el = $('#featured-widget'),
+            image = el.attr('data-image'),
+            title = el.attr('data-title'),
+            text = el.attr('data-text'),
+            btn = el.attr('data-btn'),
+            link = el.attr('data-link');
 
-            
-                    <address class="phone">
-                    <abbr>Order toll-free:</abbr>
-                    888-464-1447
-                    </address>
-                
+            var html =  '<div class="featured-menu">';
+            html +=         '<div class="image"><a href="'+link+'"><img src="'+image+'" alt=""></a></div>';
+            html +=         '<h3>'+title+'</h3>';
+            html +=         '<p>'+text+'</p>';
+            html +=         '<p class="text-center"><a href="'+link+'" class="btn btn-blue-sky">'+btn+'</a></p>';
+            html +=         '<div class="clearfix"></div>';
+            html +=     '</div>';
 
-                <address class="canada">
-                    <a href="#" class="canadian_details">
-                        <img src="/Content/Images/icons/canada.png" width="15" height="15" alt="Information for Canadian Customers" title="Information for Canadian Customers">
-                    </a>
+            $('.navbar .featured-widget').html(html);
 
-                    <a href="#" class="canadian_details" alt="Information for Canadian Customers" title="Information for Canadian Customers">
-                        <b>Shipping to Canada</b>
-                    </a>
-                </address>
-            
-        </div>
-
-
-        <!-- My Account, Search, and Social -->
-        
-
-            <!-- search-form / My Account -->
-            <div id="header_middle">
-                <div id="header_middle_top">
-                    
-
-<script language="javacsript" type="text/javascript">
-
-    //$.ui.dialog.defaults.bgiframe = false;
-    //$.ui.dialog.defaults.draggable = false;
-    //$.ui.dialog.defaults.modal = true;
-
-    //********My Account form dialog********
-    $(function () {
-        var httpsRoute = $("#hdnHTTPS_ROUTE");
-
-        var username = $("#txtusername"),
-			password = $("#txtpassword"),
-			allFields = $([]).add(username).add(password),
-            tips = $("#validateTips");
-
-        function updateTips(t) {
-            tips.text(t)
-
-            //the effect portion causes a javascript error.
-            //tips.text(t).effect("highlight", {}, 1500);
-        }
-
-        function checkLength(o, n, min, max) {
-
-            if (o.val().length > max || o.val().length < min) {
-                o.addClass('ui-state-error');
-                if (o.val().length == 0)
-                    updateTips("Please enter your " + n + ".");
-                else
-                    updateTips("Length of " + n + " must be between " + min + " and " + max + ".");
-                return false;
-            } else {
-                return true;
-            }
-
-        }
-
-        function checkRegexp(o, regexp, n) {
-
-            if (!(regexp.test(o.val()))) {
-                o.addClass('ui-state-error');
-                updateTips(n);
-                return false;
-            } else {
-                return true;
-            }
-
-        }
-
-        $("#frmMyAccount").submit(function (e) {
-            e.preventDefault();
-            $.post($(this).attr("action"), $(this).serialize(), function (data) { MyAccountJSONreturn(data); }, "json");
+            $('.columns5').children('.mega_dropdown').children('.columns1').css('width', '19%');
         });
 
-        /*$("#MyAccountDialog").dialog({
-            bgiframe: true,
-            autoOpen: false,
-            height: 300,
-            width: 400,
-            modal: true,
-            buttons: {
-                'Sign In': function () {
-                    var bValid = true;
-                    allFields.removeClass('ui-state-error');
 
-                    bValid = bValid && checkLength(username, "E-Mail Address", 1, 50);
 
-                    //password is not required for internal users.
-                    if ($("#hdnIsInternal").val() == "false") {
-                        bValid = bValid && checkLength(password, "Password", 8, 15);
-                    }
+        var VALID_EMAIL = /^((([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*)|((\x22)((((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(([\x01-\x08\x0b\x0c\x0e-\x1f\x7f]|\x21|[\x23-\x5b]|[\x5d-\x7e]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(\\([\x01-\x09\x0b\x0c\x0d-\x7f]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))))*(((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(\x22)))@((([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.)+(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.?$/i;
+        var SEL_SIGNUP_BTN = "#SaleAlertSubmit";
 
-                    bValid = bValid && checkRegexp(username, /^((([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*)|((\x22)((((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(([\x01-\x08\x0b\x0c\x0e-\x1f\x7f]|\x21|[\x23-\x5b]|[\x5d-\x7e]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(\\([\x01-\x09\x0b\x0c\x0d-\x7f]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))))*(((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(\x22)))@((([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.)+(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.?$/i, "Invalid Email Format");
+        $(document).ready(function signupInit()
+        {
+            $(SEL_SIGNUP_BTN).attr('disabled', 'disabled');
+            $("#emailSaleAlertInput").bind('input propertychange', inputChange);
+        });
 
-                    if (bValid) {
-                        $("#frmMyAccount").submit();
-                    }
+        function inputChange()
+        {
+            var valid = evaluateEmail();
+            enableSignup(valid);
+        }
+
+        function enableSignup(enabled)
+        {
+            if (enabled)
+            {
+                $(SEL_SIGNUP_BTN).removeAttr('disabled');
+            }
+            else
+            {
+                // Indicate bad email?
+                $(SEL_SIGNUP_BTN).attr('disabled', 'disabled');
+            }
+        }
+
+        function evaluateEmail()
+        {
+            var email = $('#emailSaleAlertInput').val();
+            return VALID_EMAIL.test(email);
+        }
+
+		function showEmailDialog(target, data) {
+			if (target == 'success') {
+				$("#email_promo_code").text(data);
+                enableSignup(false);
+				$("#emailSuccessDialog").modal('show');
+			}
+			if (target == 'failure') {
+				$("#emailFailureDialog").modal('show');
+                enableSignup(true);
+			}
+		}
+
+        function submitEmail() {
+            var email = $('#emailSaleAlertInput').val();
+			var urlText = '/email/salealertsignup';
+			$.ajax({
+				url: urlText,
+                contentType:"application/json; charset=utf-8",
+				dataType: 'json',
+				data: { 'email': email },
+				success: function (data) {
+                    $('#emailSaleAlertInput').val('');
+					showEmailDialog('success', data.result);
+				},
+
+                error: function(data) {
+                    showEmailDialog('failure', '');
                 },
-                Cancel: function () {
-                    $(this).dialog('close');
-                }
-            },
-            close: function () {
-                allFields.val('').removeClass('ui-state-error');
-            },
-            open: function () {
-                updateTips("");
-            }
+			});
+		}
+
+        $('.navbar-toggle').click(function(){
+            $(this).closest('.navbar').find('.nav_logo').toggleClass('mobile_menu_active');;
         });
+        </script>
 
-        function MyAccountJSONreturn(data) {
-            if (data != "") {
-                updateTips(data);
-            }
-            else {
-                $("#MyAccountDialog").dialog('close');
-                changePage(httpsRoute.val() + '/MyAccount/Index/');
-            }
-        }
-
-
-        $('.my-account').click(function () {
-            $('#MyAccountDialog').dialog('open');
-        })*/
-    });
-
-
-
-    function changePage(url) {
-        window.location = url;
-    }
-    
-</script>
-
-<style type="text/css">
-        #validateTips{ background-color:Yellow; }
-</style>
-
-
-<div id="MyAccount">
-     
-           
-            <b><span><a href="/Account/LogOn">My Account</a> |
-            <a href="/Account/LogOn">Sign In</a></span></b>
-    
-</div>
-
-
-
-
-                </div>
-
-                <div id="header_middle_middle">
-                    <!-- search box starts here -->
-
- 
-               <form name="searchform" action="http://shop.rugs-direct.com/search" method="get" onsubmit="return ajaxsearchsubmit(this);">
-                <input id="sli_search_view" type="hidden" name="view" value="grid">
-                <input class="txt-search" name="w" value="" placeholder="Search by rug style, color, name or description here" onfocus="this.value=''" id="sli_search_1" autocomplete="off">
-                <input class="btn-search" type="submit" value="search">
-</form>
-
-
-                    <!-- search box ends here -->
-                </div>
-
-                <div id="header_middle_bottom">
-                    <div id="header_middle_bottom_right">
-                        <a target="_blank" href="http://pinterest.com/rugsdirect/">
-                            <img src="/Content/Images/Buttons/btn_pinterest.png" alt="Pinterest" title="Pinterest"></a>
-                        <a target="_blank" href="https://www.facebook.com/rugsdirect.com">
-                            <img src="/Content/Images/Buttons/btn_facebook.png" alt="Facebook" title="Facebook"></a>
-                        <a target="_blank" href="http://www.twitter.com/rugsdirect">
-                            <img src="/Content/Images/Buttons/btn_twitter.png" alt="Twitter" title="Twitter"></a>
-                        <a target="_blank" href="http://www.youtube.com/user/RugsDirect">
-                            <img src="/Content/Images/Buttons/btn_youtube.png" alt="YouTube" title="YouTube"></a>
-                        <a target="_blank" href="http://instagram.com/rugs_direct">
-                            <img src="/Content/Images/Buttons/btn_instagram.png" alt="Instagram" title="Instagram"></a>
-                    </div>
-
-                    <div id="header_middle_bottom_left">
-                        <a target="_blank" href="http://www.rugs-direct.com/blog">
-                            <img src="/Content/Images/Buttons/btn_trendcenter.png" alt="Trend Center Home Décor Blog" title="Trend Center Home Décor Blog"></a>
-                    </div>
-                </div>
-            </div>
-        
-    </div>
-
-
-    <div id="dialog_canadian" title="<img src='/Content/Images/canadian.gif' width='27' height='19' alt='Canadian Flag' />&nbsp;&nbsp;Information for Canadian Customers" style="display: none;">
-        Get discounted shipping and pay no extra fees when you buy from
-        Rugs Direct. Your purchase price includes:
-        <ul>
-            <li>Shipping with a 40% discount</li>
-            <li>Customs Duties</li>
-            <li>Applicable Taxes</li>
-            <li>Brokerage Fees</li>
-        </ul>
-        If you have any questions, please contact Customer Service toll-free at
-        888-464-1447.</div>
-</div>
-
-
-<script language="javacsript" type="text/javascript">
-
-    $(function () {
-
-        $('.canadian_details').click(function () {
-            $('#dialog_canadian').dialog('open');
-        })
-
-        $("#dialog_canadian").dialog({
-            bgiframe: true,
-            autoOpen: false,
-            height: 200,
-            width: 410,
-            modal: true
-        });
-
-    });
-
-
-
-</script>
-        <!-- footer -->
-        
-
-<div id="footer"><!--<div class="copyright" style="text-align: left;"></div>-->
-    <div class="more-footer">
-        <div class="copyright">
-            <ul>
-                <li style="background: none;"><a href="http://www.rugs-direct.com/Content/AboutUs">
-                    About Us</a></li>
-                <li><a href="http://www.rugs-direct.com/Content/ContactUs">
-                    Contact Us</a></li>
-                <li><a href="http://www.rugs-direct.com/Content/FAQs">
-                    FAQs</a></li>
-                <!--<li><a href="http://www.rugs-direct.com/sitemap">
-                    Site Map</a></li>-->
-                    
-                
-                    <li><a href="http://www.rugs-direct.com/ROW/Index">
-                    Returns</a></li>
-                
-                <li><a href="http://www.rugs-direct.com/Content/TermsOfUse">
-                    Terms of Use</a></li>
-                <li><a href="http://www.rugs-direct.com/Content/PrivacyPolicy">
-                    Privacy Policy</a></li>
-                    
-
-                <li><a href="http://www.rugs-direct.com/Content/ProPartner">
-                    Pro Partner Login</a></li>
-                <li><a href="http://www.rugs-direct.com/Content/StoreLocations">
-                    Store Locations</a></li>
-                <li><a href="/blog" target="_blank">Trend Center</a></li>
-                <li><a href="http://shop.rugs-direct.com">Popular Searches</a></li>
-                
-            </ul>
-        </div>
-        <div class="banners">
-            <ul>
-                <li>
-                    <img src="/Content/Images/icon_visa.gif" alt="visa"></li>
-                <li>
-                    <img src="/Content/Images/icon_mc.gif" alt="mastercard"></li>
-                <li>
-                    <img src="/Content/Images/icon_amex.gif" alt="amex"></li>
-                <li>
-                    <img src="/Content/Images/icon_disc.gif" alt="discover"></li>
-                
-            </ul>
-        </div>
-        <div class="copyright">
-            <p>
-                Copyright © 2015 Rugs Direct All Rights Reserved.</p>
-            
-        </div>
-    </div>
-</div>
-
-
-<!-- BoldChat Visitor Monitor HTML v4.00 (Website=Rugs Direct,ChatButton=My Chat Button,ChatInvitation=My Invite Ruleset) -->
-<script type="text/javascript">
-    var _bcvma = _bcvma || [];
-    _bcvma.push(["setAccountID", "443295933636581794"]);
-    _bcvma.push(["setParameter", "WebsiteDefID", "3255710282044424975"]);
-    _bcvma.push(["setParameter", "InvitationDefID", "439313774279470781"]);
-    _bcvma.push(["addFloat", { type: "chat", id: "439313774460296377"}]);
-    _bcvma.push(["pageViewed"]);
-    (function () {
-        var vms = document.createElement("script"); vms.type = "text/javascript"; vms.async = true;
-        vms.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + "vmss.boldchat.com/aid/443295933636581794/bc.vms4/vms.js";
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vms, s);
-    })();
-</script>
-<noscript>
-<a href="http://www.boldchat.com" title="Live Chat" target="_blank"><img alt="Live Chat" src="https://vms.boldchat.com/aid/443295933636581794/bc.vmi?wdid=3255710282044424975" border="0" width="1" height="1" /></a>
-</noscript>
-<!-- /BoldChat Visitor Monitor HTML v4.00 -->
-
-    <!-- BEGIN: Google Trusted Store --> 
-    <!-- END: Google Trusted Store -->
-    <!-- BEGIN: Google Code for Rugs Direct Remarketing Test Remarketing List -->
-    <script type="text/javascript">
-    /* <![CDATA[ */
-    var google_conversion_id = 1072023829;
-    var google_conversion_language = "en";
-    var google_conversion_format = "3";
-    var google_conversion_color = "ffffff";
-    var google_conversion_label = "411ECLPY1gIQlZKX_wM";
-    var google_conversion_value = 0;
-    /* ]]> */
-    </script>
-    <script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
-    </script>
-    <noscript>
-    <div style="display:inline;">
-    <img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1072023829/?label=411ECLPY1gIQlZKX_wM&amp;guid=ON&amp;script=0"/>
-    </div>
-    </noscript>
-    <!-- END: Google Code for Rugs Direct Remarketing Test Remarketing List -->
-
-    <!-- BEGIN Google Code for Dynamic Remarketing Smart Pixel Remarketing List -->
-    
-    <script type="text/javascript">
-    /* <![CDATA[ */
-    var google_conversion_id = 1072023829;
-    var google_conversion_language = "en";
-    var google_conversion_format = "3";
-    var google_conversion_color = "ffffff";
-    var google_conversion_label = "tEsJCLOt_wIQlZKX_wM";
-    var google_conversion_value = 0;
-    var google_custom_params = {
-    prodid: 0,
-    pagetype: 'UNDEFINED'
-    };
-    var google_remarketing_only = true
-    /* ]]> */
-    </script>
-    <script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
-    </script>
-    <noscript>
-    <div style="display:inline;">
-    <img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1072023829/?value=0&amp;label=tEsJCLOt_wIQlZKX_wM&amp;guid=ON&amp;script=0"/>
-    </div>
-    </noscript>
-    <!-- END Google Code for Dynamic Remarketing Smart Pixel Remarketing List -->
-
-    <!-- Begin Criteo Tracker Implementation -->
-
-    
-     
-    <!-- End Criteo Tracker Implementation -->
-
-
-
-    
-    </div>
-
-    <!----div for the confirm checkout dialog---->
-    <div id="confirmCheckoutDialog" title="Proceed to Checkout">
-        <input id="hdnHTTPS_ROUTE" name="hdnHTTPS_ROUTE" type="hidden" value="https://www.rugs-direct.com">
-        <br>
-        <p>
-            If you have a shopping account with us, please sign in before
-            proceeding to checkout.  
-        </p>
-        <br>
-        <p>If you do not have an account, we encourage you to register.  This
-        will speed up checkouts and allow you to take advantage of our website's
-        advanced features.</p>
-        <br>
-        <p>Or you may continue without registering by clicking on the Continue
-        as Guest button.</p>
-    </div>
-
-    <!--div for the messaging dialog-->
-    <div id="dialogMessaging" title="Attention">
-        <div id="messaging_text_row">
-            <label id="messaging_text"></label>
-        </div>
-    </div>
-<script type="text/javascript" src="//rugs-direct.resultspage.com/rac/sli-rac.config.js"></script>
-
-
+	
 </body></html>
