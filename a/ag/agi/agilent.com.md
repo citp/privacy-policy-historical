@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agilent.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517021846id_/https%3A//www.agilent.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agilent.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127135632id_/https%3A//www.agilent.com/home/privacy-policy) for the most accurate reproduction.*
 
-# Agilent | Chemical Analysis, Life Sciences, and Diagnostics
+# Agilent | Chemical Analysis , Life Sciences, and Diagnostics
 
 _This Privacy Statement was last revised on August 1, 2014._
 
@@ -75,7 +75,7 @@ To the extent permitted by applicable laws, we may send you periodic messages fr
 
 We will also provide you the opportunity to let us know if you wish to opt out at any time of other contacts from Agilent and without any negative effect to your relationship with Agilent, and we will do everything we can to honor such requests. This choice may be offered at the bottom of our online or offline communications to you as well as on our web registration pages.
 
-If you have any difficulty exercising your choices or feel that choices you made on particular websites have not been taken into account, please use this Unsubscribe form [<http://www.agilent.com/agilent/globaloptout.jspx>].
+If you have any difficulty exercising your choices or feel that choices you made on particular websites have not been taken into account, please use this Unsubscribe form [<http://www.agilent.com/cs/agilent/en-us/globaloptout/form>].
 
 Except as provided in Section 3, “Onward Transfer”, your permission will always be secured first, should we ever decide to share your personal information with third parties that are not acting on our behalf and governed by our Privacy Statement. 
 
