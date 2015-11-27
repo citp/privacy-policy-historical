@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the capgemini.com privacy policy that was archived on 2015-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150403181453id_/https%3A//www.capgemini.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capgemini.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127040453id_/https%3A//www.capgemini.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Capgemini Worldwide
 
-Capgemini believes that the establishment of trust and privacy is instrumental to the continued growth of the Internet.  We also believe that the efficient collection, use and transfer of information serve to enhance the development of the Internet and electronic commerce, provided that such information is handled in a fair and responsible manner. 
+Capgemini believes that the establishment of trust and privacy is instrumental to the continued growth of the Internet.  We also believe that the efficient collection, use and transfer of information serve to enhance the development of the Internet and electronic commerce, provided that such information is handled in a fair and responsible manner.
 
 ##  Introduction
 
@@ -27,14 +27,11 @@ Generally, you can visit Capgemini websites without providing any Personal Data 
 
 When providing Personal Data on this website, you acknowledge that you have the necessary authorization and consent to disclose Personal Data to be used by Capgemini as described in this Policy.
 
-  
-
-
 ##  Cookies 
 
 Cookies are used on this website. By using our website, you agree that cookies are to be placed on your device as further explained below.
 
-  Cookies are small pieces of data that a website sends to your computer's web browser while you are navigating through it. They have many different purposes, but mainly, cookies enable you to navigate between pages easily, to remember your preferences, and eventually to improve the user experience. These cookies may then be stored on your machine to identify your computer.
+Cookies are small pieces of data that a website sends to your computer's web browser while you are navigating through it. They have many different purposes, but mainly, cookies enable you to navigate between pages easily, to remember your preferences, and eventually to improve the user experience. These cookies may then be stored on your machine to identify your computer.
 
   Cookies used on this website can be either set up by our website or by a third-party website. Moreover, these cookies can be “session” or “persistent” cookies: a session cookie is a cookie that is automatically deleted when the user closes the browser, whereas a persistent cookie is a cookie that remains stored in the user’s terminal device until it reaches a defined expiration date. Cookies used on Capgemini website have a maximum lifetime of 12 months.
 
@@ -152,10 +149,14 @@ Global organization
 
 Capgemini is a global organization. Whilst we have distinct legal entities (e.g., country subsidiaries) in many parts of the world, our internal processes and infrastructure are international in scope and nature and generally cross country borders. Accordingly, you should be aware that we may share your Personal Data inside Capgemini and transfer it to countries in the world where we have data centers or otherwise do business, including those located outside the European Union (EU). In these instances, Capgemini will process your Personal Data in the manner described by this Policy and in accordance with applicable law.
 
+Capgemini is taking into account the invalidation by the Court of Justice of the European Union of the Safe Harbor program for its personal data transfers to the United States. The impact of this decision on Capgemini is limited since none of the US Capgemini entities is Safe Harbor certified (other than IGATE). For personal data transfers from its EU to its US entities, Capgemini signs EU Standard Model Clauses. 
+
 ##    
 Third-party suppliers
 
 Like many organizations, we use third-party suppliers to collect, use and otherwise process Personal Data on our behalf. Our practice is to require such third parties to handle Personal Data in accordance with Capgemini’s Privacy Policy.
+
+After the Safe Harbor invalidation by the Court of Justice of the European Union, Capgemini is asking its US third-party suppliers to sign the EU Standard Model Clauses. 
 
 ##    
 Business reorganizations
