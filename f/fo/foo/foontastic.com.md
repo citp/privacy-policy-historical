@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foontastic.com privacy policy that was archived on 2015-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150211105010id_/http%3A//www.foontastic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foontastic.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127031211id_/http%3A//foontastic.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
