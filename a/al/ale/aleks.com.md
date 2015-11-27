@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the aleks.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317154605id_/http%3A//www.aleks.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aleks.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127095435id_/https%3A//www.aleks.com/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
-(Last Updated 7/7/2010)
+(Last Updated 6/24/2015)
 
-This privacy statement provides important information about the privacy practices of ALEKS Corporation ("ALEKS") for our website: [www.aleks.com](http://www.aleks.com/) (the "ALEKS Website"). If you are under 18 years of age, please be sure to read this privacy statement with a parent or guardian and ask questions about anything you don’t understand.
+This privacy statement provides important information about the privacy practices of ALEKS Corporation ("ALEKS") for our website: [www.aleks.com](https://www.aleks.com/) (the "ALEKS Website"). If you are under 18 years of age, please be sure to read this privacy statement with a parent or guardian and ask questions about anything you don’t understand.
 
-**I** **mportant Note:** **The privacy practices described below** **apply to all ALEKS use except for ALEKS use through a K-12 school. (The privacy practices discussed below do not apply to use of ALEKS through K-12 schools.) To see ALEKS privacy practices  that apply to use of ALEKS through a K-12 school, please click [here](http://www.aleks.com/privacy_statement_k12)** **.**
+**I** **mportant Note:** **The privacy practices described below** **apply to all ALEKS use except for ALEKS use through a K-12 school. (The privacy practices discussed below do not apply to use of ALEKS through K-12 schools.) To see ALEKS privacy practices  that apply to use of ALEKS through a K-12 school, please click [here](https://www.aleks.com/privacy_statement_k12)** **.**
 
 ALEKS is the sole owner of the information collected on the ALEKS Website. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. ALEKS collects information from our users at several different points on our website, including information about the knowledge of users of our services in order to provide instructional services suitable to their needs.
 
@@ -23,7 +23,7 @@ ALEKS is the sole owner of the information collected on the ALEKS Website. We 
 
 
 
-If you have any questions of any kind or feel that we are not abiding by our posted privacy policy, you should contact our Director of Customer Support at: [http://support.aleks.com/contact](http://support.aleks.com/contact?subject=Question%20about%20privacy%20statement).
+If you have any questions of any kind or feel that we are not abiding by our posted privacy policy, you should contact our Director of Customer Support at: [http://support.aleks.com/contact](https://www.aleks.com/support/form/contact?subject=Question%20about%20privacy%20statement).
 
 **Registration**
 
@@ -35,11 +35,18 @@ We request information from the user or the parent or guardian of the user on ou
 
 Website Operator
 
-The ALEKS Website is operated by [ALEKS Corporation](http://www.aleks.com/) 15460 Laguna Canyon Road; Irvine, California 92618; phone: 714.245.7191; e-mail: contact us at [http://support.aleks.com](http://support.aleks.com/contact?subject=Website%20operator).
+The ALEKS Website is operated by [ALEKS Corporation](https://www.aleks.com/) 15460 Laguna Canyon Road; Irvine, California 92618; phone: 714.245.7191; e-mail: contact us at [http://support.aleks.com](https://www.aleks.com/support/form/contact?subject=Website%20operator).
 
 **Plug-ins and Cookies:**
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. A plug-in is software which the user downloads and is installed into the user's web browser that enables certain web software to operate. Cookies enable us to protect confidential data, and track and target the interests of our users to enhance the experience on the ALEKS Website. In order to use the ALEKS Website, a user must accept the installation of one or more ALEKS plug-ins into the user's browser. Cookies and the ALEKS plug-in are not linked to any personally identifiable information.
+A cookie is a piece of data stored on the user's hard drive containing information about the user. A plug-in is software which the user downloads and is installed into the user's web browser that enables certain web software to operate. Cookies enable us to protect confidential data, and track and target the interests of our users to enhance the experience on the ALEKS Website. We may also use cookies to track your actions on commercial pages of our website. This information may be used by third-party vendors, including Google, to show you ads about our products or services when you visit other sites across the Internet. If you wish to opt out of the use of data collected on our site to send you targeted advertising during your visits to other websites, go to:
+
+  * [Google Ads Settings](http://www.google.com/settings/ads)
+  * [Third-Party Cookie Usage](http://www.networkadvertising.org/choices/)
+
+
+
+In order to use the ALEKS Website, a user must accept the installation of one or more ALEKS plug-ins into the user's browser. Cookies and the ALEKS plug-in are not linked to any personally identifiable information.
 
 **Log Files**
 
@@ -93,7 +100,7 @@ When our registration/order form asks users to enter financially sensitive infor
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the financially sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.
 
-If you have any questions about the security at our website, you can contact us at [http://support.aleks.com/security](http://support.aleks.com/security?subject=Security).
+If you have any questions about the security at our website, you can contact us at [http://support.aleks.com/security](https://www.aleks.com/support/form/security?subject=Security).
 
 **Special Offers**
 
@@ -111,7 +118,7 @@ If a user's personally identifiable information changes (such as your zip code),
 
 Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our billing information form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their e-mail address off of our lists.
 
-Users who do not wish to receive certain communications, such as newsletters or promotional materials from ALEKS or our partners may opt-out of receiving these communications by clicking on the opt-out link on the bottom of e-mail communications, or by notifying us in regard to other communications at [http://support.aleks.com](http://support.aleks.com/?support_issue=other&other_subject=opt%20out).
+Users who do not wish to receive certain communications, such as newsletters or promotional materials from ALEKS or our partners may opt-out of receiving these communications by clicking on the opt-out link on the bottom of e-mail communications, or by notifying us in regard to other communications at [http://support.aleks.com](https://www.aleks.com/support/form/?support_issue=other&other_subject=opt%20out).
 
 In the event that in the future we offer services that require outside parties, users of our site will be notified when their information is being collected by any outside parties. We would do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
 
@@ -135,4 +142,4 @@ ALEKS reserves the right to change this Privacy Statement, or any other ALEKS po
 
 **Contact Us**
 
-Privacy and security are important to us all. We welcome your feedback and thoughts on privacy and security. If you have any questions, or feel that we are not abiding by this Privacy Statement, please contact us by e-mailing our Director of Customer Support at [http://support.aleks.com/contact](http://support.aleks.com/contact?subject=Question%20about%20privacy%20statement).
+Privacy and security are important to us all. We welcome your feedback and thoughts on privacy and security. If you have any questions, or feel that we are not abiding by this Privacy Statement, please contact us by e-mailing our Director of Customer Support at [http://support.aleks.com/contact](https://www.aleks.com/support/form/contact?subject=Question%20about%20privacy%20statement).
