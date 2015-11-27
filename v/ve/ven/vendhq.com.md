@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vendhq.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611100027id_/https%3A//secure.vendhq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vendhq.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127064425id_/https%3A//secure.vendhq.com/privacy) for the most accurate reproduction.*
 
 # Vend / vend
 
