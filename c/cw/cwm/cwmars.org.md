@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cwmars.org privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615152136id_/http%3A//www.cwmars.org/content/privacy-policy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwmars.org privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127030111id_/http%3A//www.cwmars.org/content/privacy-policy-0) for the most accurate reproduction.*
 
 # Privacy Policy | C/W MARS, Inc.
 
