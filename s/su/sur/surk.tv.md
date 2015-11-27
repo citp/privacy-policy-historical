@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surk.tv privacy policy that was archived on 2014-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140906024957id_/http%3A//surk.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surk.tv privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127040744id_/http%3A//surk.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Your #1 Source for Movies & TV Shows in DVD, Blu-ray & Instant Videos!
 
