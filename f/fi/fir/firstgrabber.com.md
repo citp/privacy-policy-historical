@@ -1,115 +1,66 @@
-> *The following text is extracted and transformed from the firstgrabber.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415072242id_/http%3A//www.firstgrabber.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstgrabber.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127020128id_/http%3A//www.gearbest.com/about/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | GearBest.com
 
-## Privacy Policy
+#### What information do we collect? 
 
-### Firstgrabber
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or respond to a survey. 
 
-This Private Policy was last modified and officially goes into effect on August 12, 2014.
+When ordering or registering on our site, as appropriate, you may be asked to enter the following: your name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
-Firstgrabber.com ("Firstgrabber," "we," or "us") knows how much you care about your personal information. We respect your privacy and take your online safety seriously. 
+#### What do we use your information for? 
 
-In this Privacy Policy, we'd like to give clear and direct explanations about:  
-\- what personally identifiable information ("Personal Information") will be collected by Firstgrabber when you use our Website and related Services  
-\- how Personal Information will be collected, used, shared and stored  
-\- how you can control the collection, correction or deletion of Personal Information.  
-\- how to contact us regarding our Privacy Policy or practices 
+Any of the information we collect from you may be used in one of the following ways: 
 
-This Privacy Policy should be read along with our [Terms of Use](https://web.archive.org/firstgrabber.com/terms) where you can find the definition of terms we used in this Policy.
+  * • To personalize your experience  
+(your information helps us to better respond to your individual needs)
+  * • To improve our website and your shopping experience   
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * • To improve customer service   
+(your information helps us to more effectively respond to your customer service requests and support needs)
+  * • To process transactions  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  * • To administer a contest, special promotion, survey, activity or other site feature
+  * • To send periodic emails  
+The email address you provide for order processing, may be used to send you important information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
-### Mobile Privacy
 
-You may be able to connect with our Website and use our Services via a mobile device. The provisions of this Privacy Policy apply to all such mobile access and use of mobile devices.
 
-### What Personal Information do we collect?
+#### How do we protect your information? 
 
-We collect the following Personal Information automatically when you create an account on Firstgrabber and interact with our basic Services (such as submitting contents and requesting information):  
-\- Your account name  
-\- Your email address  
-\- Your password  
-\- Your Facebook information if you are signing up via Facebook connect (This will authenticate your identity and link your   
-Facebook Profile information, such as your name and email address to your Firstgrabber account. You will have the option to post information about your activities on Firstgrabber to your profile page to share with others within your network. You can disconnect your account from Facebook under your Firstgrabber account settings page.)
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
 
-When you pre-order a product, you may need to provide:  
-\- Your name  
-\- Shipping information (such as mailing address, post code etc.)  
-\- Your telephone number  
-\- Your billing name and address   
-\- Your PayPal e-mail address 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-*** Firstgrabber protects the privacy of young children. Therefore, we do not knowingly collect Personal Information from anyone under the age of 13 or knowingly allow them to register. If you are under 13, please do not send any Personal Information about yourself to us. If you believe we might have collected Personal Information from a child under age 13, please contact us and we'll delete that information as soon as possible.**
+Our servers and website are security scanned and fully verified externally by McAfee Secure from Symantec on a daily basis to protect you online. Click on the certificated seal to learn more. For more information, please visit our [Secure Shopping](http://www.gearbest.com/about/secure-shopping.html) page.
 
-### How we collect your personal information
+#### Do we use cookies? 
 
-**About Cookies**  
-Cookies are small pieces of information that a site or its service provider transfers to your computer through your web browser. It will store and sometimes track information about your using experience. 
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you have allowed it via your settings. This enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-Firstgrabber uses cookies to recognize you as a repeat visitor, to understand and save your preferences for providing customized services and aggregate data about site traffic and site interaction. When you enter our Website, our web server sends a cookie to your computer or device which allows us to recognize your browser or device. Most web browsers automatically accept cookies but you can change the preference on your browser settings to notify you whenever a cookie is set or turn it off. Please note that blocking cookies may cause some of our Services to function improperly.
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools for you in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us directly conduct and improve our business.
 
-### What's Private
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting [Customer Service.](http://support.gearbest.com/)
 
-The following information will not be publicly viewable:  
-\- any payment information you provide  
-\- your password details  
-\- your IP address  
-\- any shipping information (including your address and your phone number)  
-\- e-mails you send to us 
+#### Do we disclose any information to outside parties? 
 
-We will not give your personal information to any third-party services, except when it's necessary to provide our Service (like when we partner with payment processors and delivery).   
-We do reserve the right to disclose personal information when we believe that is reasonably necessary as required by law, to prevent fraud or abuse, or to protect your safety and Firstgrabber's legal rights.
+Absolutely not. We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-### What's Only Share with the Manufacturers
+#### Third party links 
 
-We do not exchange, rent or sell your Personal Information to third parties for marketing, advertising or other uses. However, we will share your personal information with manufacturers only in the ways that are described in this privacy policy. 
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-We may share your name, email, telephone numbers and shipping address with the manufacturers for delivery and offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to you and are obligated to keep your information confidential. 
+#### Terms and Conditions 
 
-### What's Public
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms and Conditions ](http://www.gearbest.com/about/terms-and-conditions.html)
 
-When you register on Firstgrabber, our system will create a basic profile page for you, containing your account name, a list of products you have pre-ordered, and your reviews. Whenever your account name appears on the site (for instance, when you post comments or pre-order an item), people can click your account name to see your profile. The profile is not searchable on Firstgrabber or via search engines like Google. Here are some of the things that will be publicly displayed on your profile, or elsewhere on the site:  
-\- the account name  
-\- the day you joined Firstgrabber  
-\- your referral rank, trophies and badges  
-\- any information you choose to add to your profile (like a picture or your location)  
-\- products you've pre-ordered 
+#### Terms and Conditions 
 
-The profile you create on our site will be publicly visible. You may change the visibility settings of your pre-order history on your account settings page.
+By using our site, you consent to our online privacy policy.
 
-Please note that each product page lists the name of the first pre-order and the most current pre-order. When you've successfully referred a friend to pre-order a product, your name will be on their pre-order list page. When you are referred by someone, your name will be on their list of referrals page. 
+#### Changes to our Privacy Policy 
 
-We may display users' comments posted on our site in newsletters or related emails.
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
-### How We Use Your Personal Information
-
-We use your Personal Information to maintain, improve and customize our Service and conduct our business. For example (and not limited to):  
-\- Register as a member and to identify you when you sign-in to your account  
-\- Administer your account and your pre-orders  
-\- Analyze the use of the Service and conduct research to improve our and Services and product selection  
-\- Present products to you which we believe will meet your interest based on your geographic location and usage patterns  
-\- To process transactions and fulfill your orders  
-\- Notify you of your registration and order processing  
-\- Send you weekly newsletters, monthly news, pre-order updates or other promotional communications  
-\- Enable us to contact you to respond to your inquiries, customer service requests, complaints etc.
-
-### How We Store and Protect Your Personal Information
-
-We take your online security seriously and we implement the latest encryption technology to maintain the safety of your Personal Information whenever you submit information and pre-orders.
-
-All sensitive personal information (including your e-mail, password and credit information) will be encrypted via Security Sockets Layer (SSL) technology into our payment gateway providers database. Such systems cannot be accessible without special access rights. After the transaction, your payment information will not be stored on our servers or database.
-
-To protect the personal information submitted to us, we follow generally accepted standards and our servers and website security are scanned and fully verified by McAfee Secure from Symantec on a daily basis. And all employees that we hired have to sign a confidentiality agreement that forbids them from disclosing any information to other individuals or entities. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. 
-
-### Notification and Opt-Out
-
-Sending Service-related notices via your e-mail address will be set as default. You may not opt out of some Service-related communications such as notifications of pre-order processing or any notices required by law.
-
-You may opt-out to receive periodic e-mails from us, including weekly newsletter, monthly news, update of certain products and other promotion messages under your account settings page. Opting out may prevent you from receiving latest news of great products, improvements of our Services, or other special offers.
-
-### Changes to Our Privacy Policy
-
-We may change this Privacy Policy from time to time in order to improve our Services. We will post a notice of those changes on this page with modification date, and/or notify you by email to keep you aware of the latest changes about the collection, use and disclosure of your Personal Information, prior to the change becoming effective. If you use the Services after any changes to the Privacy Policy have been posted, that means you agree to all of the changes. Therefore, we suggest you to periodically review this page for the latest information on our Privacy Policy.
-
-### Contact us
-
-If you have questions or thoughts regarding our privacy policy or practices, please feel free to contact us at: [privacy@firstgrabber.com](mailto:privacy@firstgrabber.com). 
+http://www.gearbest.com  
+support@gearbest.com
