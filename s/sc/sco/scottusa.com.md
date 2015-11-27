@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scottusa.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626060207id_/http%3A//www.scottusa.com/us/en/company/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottusa.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127185146id_/http%3A//www.scottusa.com/us/en/company/policy) for the most accurate reproduction.*
 
 # SCOTT Sports - Privacy Policy
 
