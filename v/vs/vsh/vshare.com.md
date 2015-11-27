@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vshare.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428140505id_/http%3A//www.vshare.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vshare.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127011654id_/http%3A//www.vshare.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - vShare.com
 
