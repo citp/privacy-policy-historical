@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidesocialgames.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627121602id_/http%3A//www.adweek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidesocialgames.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127154238id_/http%3A//www.adweek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Adweek
 
