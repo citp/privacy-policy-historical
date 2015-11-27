@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propelmedia.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512062936id_/http%3A//www.propelmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propelmedia.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127160231id_/http%3A//propelmedia.com/privacy) for the most accurate reproduction.*
 
 # Propel Media - Privacy Policy
 
