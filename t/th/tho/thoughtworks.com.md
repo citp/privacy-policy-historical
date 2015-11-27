@@ -1,22 +1,89 @@
-> *The following text is extracted and transformed from the thoughtworks.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629095138id_/http%3A//www.thoughtworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thoughtworks.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127055936id_/https%3A//www.thoughtworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ThoughtWorks
 
+[ ](https://privacy.truste.com/privacy-seal/validation?rid=4ed72623-6278-4b71-b59f-1c3be3fba16d "TRUSTe Privacy Certification")
+
+**Last updated on 17 November 2015**
+
+## A) ThoughtWorks' commitment to privacy
+
+This website is administered by ThoughtWorks, Inc. ("ThoughtWorks US") and its affiliated companies (collectively “ThoughtWorks” or “we”). ThoughtWorks wants you to feel secure when visiting our website or using our services, and is committed to maintaining your privacy. This Privacy Policy applies to data collected by ThoughtWorks through its website [www.thoughtworks.com](http://www.thoughtworks.com/) or by other means during the course of its business. Please read this ThoughtWorks Privacy Policy very carefully.
+
+## B) Why ThoughtWorks collects personal information
+
+During the course of carrying out our business and performing our services, ThoughtWorks collect personal information in order to conduct our business, to provide and market our services, and to meet our legal obligations. Sometimes, our clients may also require us to collect information on their behalf in connection with their services or products to you. We may also collect data for other purposes, which we would describe in more detail to you at the point we collect the information. 
+
+You may refuse to provide us with some or all of your personal information; however, this may limit the ways in which we can interact with you, including providing you with our services.
+
+## C) The kinds of information we collect
+
+We usually collect the following kinds of personal information:
+
+  * Name, address, occupation, and contact information (if it is for IT project research purposes, we may anonymise the information upon your request if it is practical to do so);  
+
+  * Interests in our services or events, or that of our clients;  
+
+  * Information about people’s dealings with us or our clients; and  
+
+  * Your opinion or comments on certain matters (e.g., process, systems and IT services).  
+
+
+
+
+## D) How information is collected
+
+ThoughtWorks gathers information in two ways:
+
+  * Indirectly (through our site's technology or through other third parties who collect information on our behalf or have the right to share your information with us); and  
+
+  * Directly (when you provide information to us by way of paper or online forms or questionnaires filled out by you, face-to-face meetings, interviews, business cards or telephone conversations).  
+
+
+
+
 One example of information we collect indirectly is information collected through our Internet access logs. When you access our website, your Internet address is automatically collected and is placed in our Internet access logs. We may also record the URLs of the websites and pages you visit (before, during and after your visit to any ThoughtWorks website), the times and dates of such visits, information about the computer hardware and software you use and other information that may be available.
 
-Additionally, we may collect information from you through the use of cookies. Cookies and their use on our website are explained in greater detail in the Cookies section in this policy.
+Additionally, we may collect information from you through the use of cookies. Cookies and their use on our website are explained in greater detail in the Tracking Technologies section in this policy.
 
 We also collect information directly when you voluntarily provide it to us. For example, we may provide the opportunity to sign up for a periodic email newsletter by entering your email address. It is completely up to you whether or not you want to provide it. Additionally, we collect personal information when you apply online for a job opening at ThoughtWorks.
 
+## E) How does ThoughtWorks use this information?
+
 We hold, use and may disclose your personal information for the purposes as set out in this Privacy Policy or as otherwise disclosed at the time of collection. We generally use and disclose your personal information for the following purposes:
+
+  * to provide our services to you or our clients  
+
+  * to manage our relationships with you or our clients  
+
+  * to improve ThoughtWorks or its client’s services  
+
+  * to provide professional advice to our clients relating to the performance of IT system and procedures  
+
+  * to review and assess your job applications  
+
+  * to answer your inquiry  
+
+  * to direct-market products and services, advise you of news and industry updates, trends and events  
+
+  * to share with trusted third parties (e.g., our contracted service providers or advisers) whom we have engaged to provide services to you or help us meet our contractual or legal obligations.   
+
+
+
+
+## F) Sending information overseas and sharing information with other parties
 
 Information that we collect may be stored and processed in and transferred between any of the countries in which ThoughtWorks, its respective partners, affiliates or contractors, have offices in order to enable ThoughtWorks to use the information as set out in this Privacy Policy. If you are in the European Union, Canada or Australia, information which you provide may be transferred to countries (including the United States) which do not have data protection laws equivalent to those in force in the European Union, Canada or Australia. By submitting your information to ThoughtWorks website or any of our products or services, you expressly agree to such transfer in accordance with this Privacy Policy. 
 
-We will respect and protect your privacy as set out in this Privacy Policy. We will share your personal information with third parties only in the ways that are described in this privacy policy. And won’t sell individual information. You agree ThoughtWorks may share your personal information with non-ThoughtWorks parties with your consent (express, constructive of implied), or as required by law or to protect ThoughtWorks, its customers, or the public. You agree that ThoughtWorks may share your personal information with organisations or persons that help us fulfil our obligations or provide our services to you. ThoughtWorks will make efforts to ensure these parties have appropriate measures in place to protect your information and meet our obligations under the applicable privacy rules. 
+We will respect and protect your privacy as set out in this Privacy Policy. We will share your personal information with third parties only in the ways that are described in this privacy policy. And won’t sell individual information. You agree ThoughtWorks may share your personal information with non-ThoughtWorks parties with your consent (express, constructive of implied), or as required by law such as to comply with subpoena, bankruptcy proceedings, or similar legal process when we believe in good faith that disclosure is necessary to protect ThoughtWorks, its customers, the public, investigate fraud, or respond to a government request. You agree that ThoughtWorks may share your personal information with organizations or persons that help us fulfill our obligations or provide our services to you. ThoughtWorks will make efforts to ensure these parties have appropriate measures in place to protect your information and meet our obligations under the applicable privacy rules. 
 
 We reserve the right to disclose any information that we obtain through any ThoughtWorks website to appropriate governmental or regulatory authorities, if required by law or any governmental agency. 
 
 If ThoughtWorks is involved in a merger, acquisition, or sale of all or a portion of its assets, we may need to share your personal information with the acquiring entity. In that event you will be notified via a notice on our website of any change in ownership or uses of your personal information as well as any choices you may have regarding your personal information.
+
+ _ **Frames**_
+
+Some of our pages utilize framing techniques to serve content to/from our partners while preserving the look and feel of our website. Please be aware that you are providing your personal information to these third parties and not to ThoughtWorks.
 
 ## G) How does ThoughtWorks protect sensitive personal information?
 
@@ -24,13 +91,13 @@ Other than the information you provide when you apply for an employment position
 
 ## H) Access, update and deletion of personal information
 
-You are entitled to know whether we hold information about you and, if we do, the type of information, the purposes for which we hold it, the possible recipients or types of recipients, and to have access to that information and require it to be corrected if it is inaccurate. You can do this by sending us an e-mail at [privacyofficer@thoughtworks.com](mailto:privacyofficer@thoughtworks.com). Upon written request and within 30 days we will correct, delete and/or block personal information from further processing. We will retain your information as needed to provide you services and will retain and use your information as necessary to comply with our legal obligations, resolve disputes and/or enforce our agreements.
+You are entitled to know whether we hold information about you and, if we do, the type of information, the purposes for which we hold it, the possible recipients or types of recipients, and to have access to that information and require it to be corrected if it is inaccurate. You can do this by sending us an e-mail at [privacyofficer@thoughtworks.com](mailto:privacyofficer@thoughtworks.com). Upon written request and within a reasonable time frame we will correct, delete and/or block personal information from further processing. We will retain your information as needed to provide you services and will retain and use your information as necessary to comply with our legal obligations, resolve disputes and/or enforce our agreements.
 
 ## I) What is ThoughtWorks practice regarding data security?
 
 We take appropriate steps to maintain the security and integrity of your information/data, including the use of encryption, password, physical security (e.g., lock and access control) and other security measures. As for information provided or collected online, you should understand that the open nature of the Internet is such that information/data may flow over networks without security measures and may be accessed and used by people other than those for whom the information/data is intended. We recommend that you always log out after each session and close the browser when done, especially when accessing the service from public terminals.
 
-## J) Cookies
+## J) Tracking Technologies
 
 Our collection and use of cookies will be managed in accordance with this Privacy Policy.
 
@@ -76,15 +143,25 @@ Cookies allow web analytics services to recognise your browser or device and, fo
 
 Web analytics data and cookies cannot be used to identify you – they do not contain personal information such as your name or email address.
 
-### Flash LSOs
+### Log Files
 
-We use local storage objects (LSOs) to store content information and preferences [or – other uses].
+As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
 
-Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use LSOs to collect and store information.
+We do not link this automatically collected data to other information we collect about you. 
+
+We and our partners (e.g., marketing partners, affiliates, or analytics providers) use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the website, tracking users’ movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.
+
+Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited.
+
+We use local storage objects (LSOs), such as HTML5, to store content information and preferences.
+
+Third parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, also may use Flash cookies or HTML5 to collect and store information.
 
 Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: 
 
 [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
+
+The use of cookies by our partners, tracking utility company, or service providers (if any) is not covered by our privacy policy. For example, when we include content from other sites (e.g., Google Analytics, Marketo, etc.) these sites may also set their own cookies and we do not have access or control over these cookies. We suggest you go to the relevant third party’s website to find out more information about their cookie use. Google Analytics -http://www.google.com/policies/privacy/ or Marketo (Marketo munckin cookie is utilized on our site) - http://eu.marketo.com/trust/privacy.php.
 
 ### Analytics - Display Advertising
 
@@ -94,13 +171,7 @@ If you would like to opt-out of Google Analytics for display advertising you may
 
 There is also a Google Analytics opt-out browser add on that you can download at <https://tools.google.com/dlpage/gaoptout/>.
 
-### AdRoll
-
-As you browse ThoughtWorks.com, advertising cookies will be placed on your computer so that we can understand what you are interested in. One of our display advertising partners, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with ThoughtWorks.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit this page -<http://www.networkadvertising.org/choices/> \- to opt out of AdRoll and their partners’ targeted advertising.
-
-### Third party cookies
-
-The use of cookies by our partners, tracking utility company, or service providers (if any) is not covered by our privacy policy. For example, when we include content from other sites (e.g., Google Analytics, Marketo, etc.) these sites may also set their own cookies and we do not have access or control over these cookies. We suggest you go to the relevant third party’s website to find out more information about their cookie use. Google Analytics -<http://www.google.com/policies/privacy/> or Marketo (Marketo munckin cookie is utilized on our site) - <http://eu.marketo.com/trust/privacy.php>.
+#### We may partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here - [http://preferences-mgr.truste.com/](https://web.archive.org/web/20151127055936id_/https%3A//www.thoughtworks.com/We%20may%20partner%20with%20a%20third%20party%20to%20either%20display%20advertising%20on%20our%20website%20or%20to%20manage%20our%20advertising%20on%20other%20sites.%20Our%20third%20party%20partner%20may%20use%20technologies%20such%20as%20cookies%20to%20gather%20information%20about%20your%20activities%20on%20this%20website%20and%20other%20sites%20in%20order%20to%20provide%20you%20advertising%20based%20upon%20your%20browsing%20activities%20and%20interests.%20If%20you%20wish%20to%20not%20have%20this%20information%20used%20for%20the%20purpose%20of%20serving%20you%20interest-based%20ads,%20you%20may%20opt-out%20by%20clicking%20here%20-%20http://preferences-mgr.truste.com/%20\(or%20if%20located%20in%20the%20European%20Union%20click%20here%20-%20http://www.youronlinechoices.eu/) (or if located in the European Union click here - [http://www.youronlinechoices.eu/](https://web.archive.org/web/20151127055936id_/https%3A//www.thoughtworks.com/We%20may%20partner%20with%20a%20third%20party%20to%20either%20display%20advertising%20on%20our%20website%20or%20to%20manage%20our%20advertising%20on%20other%20sites.%20Our%20third%20party%20partner%20may%20use%20technologies%20such%20as%20cookies%20to%20gather%20information%20about%20your%20activities%20on%20this%20website%20and%20other%20sites%20in%20order%20to%20provide%20you%20advertising%20based%20upon%20your%20browsing%20activities%20and%20interests.%20If%20you%20wish%20to%20not%20have%20this%20information%20used%20for%20the%20purpose%20of%20serving%20you%20interest-based%20ads,%20you%20may%20opt-out%20by%20clicking%20here%20-%20http://preferences-mgr.truste.com/%20\(or%20if%20located%20in%20the%20European%20Union%20click%20here%20-%20http://www.youronlinechoices.eu/) 
 
 ## K) Web beacons
 
@@ -134,7 +205,14 @@ You can log in to our site using sign-in services such as Facebook Connect or an
 
 ## M) TRUSTe’s Certification and Safe Harbor Framework
 
-ThoughtWorks Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements The TRUSTe program does not cover information that may be collected through downloadable software. The Truste Program covers only information that is collected through this website, www.thoughtworks.com If you have questions or complaints regarding our privacy policy or practices, please contact us at:
+The TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the website.
+
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.  
+
+
+Please click here for fax and postal mail information. TRUSTe's Dispute Resolution process is only available in English. 
+
+If you have questions or complaints regarding our privacy policy or practices, please contact us at:
 
 ThoughtWorks, Inc.   
 200 E Randolph St   
@@ -148,8 +226,6 @@ Email: [privacyofficer@thoughtworks.com](mailto:privacyofficer@thoughtworks.com
 If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 ThoughtWorks Inc. complies with the U.S. - EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. ThoughtWorks US has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view ThoughtWorks US’ certification, please visit <http://www.export.gov/safeharbor/>.
-
-As part of our [participation](http://export.gov/safeharbor/) in the Safe Harbor Framework, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](http://watchdog.truste.com/pvr.php?page=complaint), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about-TRUSTe/contact-us). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](http://www.truste.com/products-and-services/dispute-resolution-services/) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities.
 
 ## N) Notification of privacy policy changes
 
