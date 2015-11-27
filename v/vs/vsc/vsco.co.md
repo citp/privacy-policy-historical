@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the vsco.co privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001411id_/http%3A//vsco.co/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vsco.co privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127070032id_/http%3A//vsco.co/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Visual Supply Co
-
-Close [ ](http://vsco.co/)
-
-  * [FEED](http://grid.vsco.co/feed#/signup)
-  * [GRID](http://grid.vsco.co/)
-  * [JOURNAL](http://vsco.co/journal)
-  * [STORE](http://vsco.co/store)
-
-
+# Privacy Policy | VSCO
 
 ## PRIVACY POLICY
 
@@ -107,23 +98,10 @@ We collect the following types of information about you:
 >     1 (925) 413-8250
 >     
 
+> Please note that we do not offer phone support, but if you have questions regarding our products or your order, please visit our [Support page](http://support.vsco.co/), or you may contact our Support team at [support@vsco.co](mailto:support@vsco.co).
+
 #### 8\. CHANGES TO OUR PRIVACY POLICY
 
 > VSCO may, in its sole discretion, modify or update this Privacy Policy from time to time, and so you should review this page periodically. When we change the policy in a material manner, we will update the ‘last modified’ date at the bottom of this page.
 
-> This Privacy Policy was last modified on September 25, 2014.
-
-  * [Company](http://vsco.co/company)
-  * [Careers](http://vsco.co/careers)
-  * [Support](http://support.vsco.co/)
-
-
-  * [Initiative](http://vsco.co/initiative)
-  * [Newsletter](http://vsco.co/newsletter)
-  * [Privacy](http://vsco.co/privacy_policy)
-
-
-  * [Terms](http://vsco.co/terms_of_use)
-  * [Disclosures](http://vsco.co/material_connection_disclosure)
-
-
+> This Privacy Policy was last modified on August 6, 2015.
