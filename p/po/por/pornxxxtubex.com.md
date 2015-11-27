@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornxxxtubex.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530074202id_/http%3A//www.pornxxxtubex.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornxxxtubex.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127160042id_/http%3A//www.pornxxxtubex.com/terms.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,4 +46,4 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 **YOUR RIGHTS**
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please [write to us](mailto:abuse@pornxxxtubex.com).
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us: 
