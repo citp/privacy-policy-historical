@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krajee.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618055600id_/http%3A//krajee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krajee.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127041847id_/http%3A//krajee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Krajee
 
