@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sharenator.com privacy policy that was archived on 2015-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150215194101id_/http%3A//www.sharenator.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharenator.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127133737id_/http%3A//www.sharenator.com/privacy.html) for the most accurate reproduction.*
 
-# Sharenator.com
+# Sharenator
 
 **What information do we collect?**
 
@@ -58,6 +58,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 This policy was last modified on 09 Sep 2010 
 
-<http://www.sharenator.com/contact.html>
+<http://www.sharenator.com/contacts.html>
 
 Privacy Policy Created by [Free Privacy Policy](http://www.freeprivacypolicy.com/)
