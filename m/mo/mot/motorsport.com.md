@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the motorsport.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627165817id_/http%3A//www.motorsport.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorsport.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127202648id_/http%3A//www.motorsport.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Corporate info | Motorsport.com
 
-**PLEASE READ THIS PRIVACY POLICY (THIS "PRIVACY POLICY") CAREFULLY BEFORE USING OUR WEBSITE, APPLICATIONS OR ANY OTHER MOTORSPORT.COM, LLC PRODUCT OR SERVICE.**
+**PLEASE READ THIS PRIVACY POLICY (THIS "PRIVACY POLICY") CAREFULLY BEFORE USING OUR WEBSITE, APPLICATIONS OR ANY OTHER MOTORSPORT.COM, INC., PRODUCT OR SERVICE.**
 
-Motorsport.com, LLC produces and publishes the Motorsport.com Website (this "Website"), downloadable mobile applications available from third party application storefronts ("Application(s)"). This Privacy Policy is applicable to this Website and the Application, both of which will be called "Services" throughout this Privacy Policy, and describes what information we collect, how we may use that information and the choices we offer for you to manage the information we collect related to your use of our Services.
+Motorsport.com, Inc., produces and publishes the Motorsport.com Website (this "Website"), downloadable mobile applications available from third party application storefronts ("Application(s)"). This Privacy Policy is applicable to this Website and the Application, both of which will be called "Services" throughout this Privacy Policy, and describes what information we collect, how we may use that information and the choices we offer for you to manage the information we collect related to your use of our Services.
 
   1. Personal Information Collected Via Our Services
   2. How We Use and Share Your Personal Information
@@ -97,7 +97,7 @@ We may share aggregated demographic information with third parties. This informa
 
 
 
-As time passes, Motorsport.com, LLC may be sold along with its assets, or other corporate transactions may occur. In such a case, our customer information may be one of the business assets we transfer.
+As time passes, Motorsport.com, INC., may be sold along with its assets, or other corporate transactions may occur. In such a case, our customer information may be one of the business assets we transfer.
 
   * _Disclosure for Legal Purposes._
 
@@ -107,7 +107,7 @@ We may be required to share your personal and non-personal information pursuant 
 
 ### 7\. Managing Your Information
 
-You may choose and control what information you provide about yourself and certain information which is automatically collected via our Services. If you do not wish to provide certain information necessary for enhanced functionality or content on our Services, please do not use such functionality or content. If you have registered for an account through our Services, you may review and revise certain of your account information by [clicking here](https://web.archive.org/login) to log in, and then navigating the left-hand menu options. You may modify your subscriptions to our various promotional email communications and newsletters by accessing the "Email Subscriptions" section within your Website account.
+You may choose and control what information you provide about yourself and certain information which is automatically collected via our Services. If you do not wish to provide certain information necessary for enhanced functionality or content on our Services, please do not use such functionality or content. If you have registered for an account through our Services, you may review and revise certain of your account information by [clicking here](https://web.archive.org/login/) to log in, and then navigating the left-hand menu options. You may modify your subscriptions to our various promotional email communications and newsletters by accessing the "Email Subscriptions" section within your Website account.
 
 If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows a user to accept or reject most cookies. Certain cookies that are set when some video products are accessed on our Website, called local shared objects or Flash cookies, may not be managed using the settings in your web browser. Information on managing, accepting and rejecting these cookies is available from Adobe on the [Adobe website](http://www.adobe.com/). If you set your browser or Adobe Flash options _not_ to accept cookies or local shared objects, you may not be able to take advantage of certain Services.
 
@@ -133,13 +133,13 @@ The account information associated with any of our Services is password protecte
 
 
 
-Our Services contain links to other websites and products produced by Motorsport.com, LLC and to websites and products operated by unrelated third parties. In addition, if you click on an advertisement within our Services, you may be directed to a web page within our Services or to a third-party website or product. We are not responsible for the privacy practices of third party websites or products, and we encourage you to read the privacy policies of every website and product that collects personally identifiable information from you. This Privacy Policy applies only to our Services, unless you are notified otherwise upon accessing any third party website or product, in which case the terms and conditions set forth in such notification will apply.
+Our Services contain links to other websites and products produced by Motorsport.com, Inc., and to websites and products operated by unrelated third parties. In addition, if you click on an advertisement within our Services, you may be directed to a web page within our Services or to a third-party website or product. We are not responsible for the privacy practices of third party websites or products, and we encourage you to read the privacy policies of every website and product that collects personally identifiable information from you. This Privacy Policy applies only to our Services, unless you are notified otherwise upon accessing any third party website or product, in which case the terms and conditions set forth in such notification will apply.
 
   * _Your California Privacy Rights._
 
 
 
-If you are a resident of California, pursuant to California Civil Code Section 1798.83, you may request information regarding our disclosure of your personal information to a third party for that party's direct marketing purposes. Any such disclosure made to a third party by us would be otherwise in accordance with the terms of this Privacy Policy. To make such a request please send an email to [privacy@motorsport.com](mailto:privacy@motorsport.com) or write to us at: Motorsport.com, LLC, Privacy Administrator, 4100 NE 2nd Avenue, suite 302, Miami Design District, FL 33137, USA..
+If you are a resident of California, pursuant to California Civil Code Section 1798.83, you may request information regarding our disclosure of your personal information to a third party for that party's direct marketing purposes. Any such disclosure made to a third party by us would be otherwise in accordance with the terms of this Privacy Policy. To make such a request please send an email to [privacy@motorsport.com](mailto:privacy@motorsport.com) or write to us at: Motorsport.com, Inc., Privacy Administrator, 4100 NE 2nd Avenue, suite 302, Miami Design District, FL 33137, USA..
 
   * _Special Rules For Children._
 
