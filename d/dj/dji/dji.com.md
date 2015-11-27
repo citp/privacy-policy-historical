@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dji.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315195150id_/http%3A//www.dji.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dji.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127152743id_/http%3A//www.dji.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy | DJI
+# DJI - The World Leader in Camera Drones/Quadcopters for Aerial Photography
 
 ### GENERAL
 
@@ -26,6 +26,8 @@ We will not sell, rent, lease or make available your personal information, maili
 We also rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other third parties companies. Our affiliates are all required to preserve the confidentiality of any personal information they may access.
 
 Also, please note that we may store and process your personal information in systems located outside of your home country. However, regardless of where storage and processing may occur, we take appropriate steps to ensure that your information is protected, consistent with the principles set forth under this Privacy Agreement.
+
+* * *
 
 ### COLLECTION OF PERSONAL DATA
 
