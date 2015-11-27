@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the u4uvoice.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616031550id_/http%3A//u4uvoice.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the u4uvoice.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127010859id_/http%3A//u4uvoice.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - U4Uvoice
+# Privacy Policy - U4UVoice
 
 **Welcome to U4UVoice**
 
