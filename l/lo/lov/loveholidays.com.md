@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the loveholidays.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510123128id_/http%3A//www.loveholidays.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveholidays.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128002645id_/http%3A//www.loveholidays.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - loveholidays.com
 
-## loveholidays.com takes your privacy seriously
+#### loveholidays.com takes your privacy seriously
 
 Loveholidays.com understands and respects the importance of your privacy and we are committed to safeguarding your personal information. 
 
@@ -14,19 +14,19 @@ Where your holiday is outside the European Economic Area (EEA), controls on data
 
 Usually your tour operator or other principal will pass this information onto their suppliers once we have provided it to them. The tour operator or other principal's use of your information is subject to their policy, both in respect of your booking and any future marketing, and is their responsibility. Please ask either us or them for a copy of this if you would like to see it. 
 
-## CREDIT & DEBIT CARD DETAILS
+#### CREDIT & DEBIT CARD DETAILS
 
 All credit card information and personal information is encrypted as it is passed between your browser and our website. When you make a booking your initial payment is cleared using the information you provide. Your credit card number is not held in our database. All encryption is performed using at least 128 bits making it virtually impossible to decrypt without the necessary decryption key. 
 
-## MONITORING
+#### MONITORING
 
 To ensure that we carry out your instructions accurately, to help improve our service and in the interest of security, we may monitor and/or record: (1) your telephone calls; (2) customer activities using CCTV recording equipment in and around our premises; and (3) customer transactions and activities on our website. All recordings are and shall remain our sole property. 
 
-## OTHER WEBSITES
+#### OTHER WEBSITES
 
 Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site you should note that we do not have any control over that other web site. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this Privacy Statement. You should exercise caution and look at the Privacy Statement applicable to the website in question. 
 
-## WHAT CAN I DO?
+#### WHAT CAN I DO?
 
 You are entitled to a copy of your information held by us. If you would like to see this please ask us. [We may make a small charge for providing this to you]. 
 
@@ -36,11 +36,11 @@ In accordance with the Data Protection Act 1998, you may ask us in writing for a
 
 You can also choose not to provide us with some of the information we request, however as a result we may not be able to complete your booking. 
 
-## OPT-OUT POLICY
+#### OPT-OUT POLICY
 
 Subscribers can opt out of receiving further information from us at any time. You will also be given a fast and easy option of opting out on all communications. Email us at [insert e-mail address] to unsubscribe. 
 
-## COOKIES
+#### COOKIES
 
 Please note that in order for us to provide you with optimum service, we use ‘Cookies’ on our website. 
 
@@ -60,32 +60,32 @@ Cookies allow us to obtain information regarding users of our site which essenti
 We use the following types of cookies on our website:  
 
 
-### Category 1: strictly necessary cookies 
+#### Category 1: strictly necessary cookies 
 
 These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided. 
 
-### Category 2: performance cookies 
+#### Category 2: performance cookies 
 
 These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works. 
 
-### Category 3: Functionality Cookies 
+#### Category 3: Functionality Cookies 
 
 These cookies are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region). 
 
-### Category 4: Targeting or Advertising Cookies 
+#### Category 4: Targeting or Advertising Cookies 
 
 These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with our permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation. 
 
 **By using our website, you agree that we can place these types of cookies on your device.**  
-**Further information:** to find out more information about cookies, please visit [www.allaboutcookies.org](https://web.archive.org/web/20150510123128id_/http%3A//www.loveholidays.com/www.allaboutcookies.org). 
+**Further information:** to find out more information about cookies, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
 
-## UPDATES & CHANGES 
+#### UPDATES & CHANGES 
 
 As our privacy statement may change due to developments in the law we encourage you to re read this from time to time so you are aware of any changes in how we gather and use your personal information. Any changes to this Policy will be either posted on our website, brochure and/or made available on request. 
 
 Last Updated: March 2015 
 
-### WEBSITE TERMS OF USE
+#### WEBSITE TERMS OF USE
 
 This website is owned and operated by Loveholidays.com (“the Company”). Access to and use of any information on this website is conditional on your acceptance of these website terms and conditions (“the Conditions”). We recommend you read them carefully and print out and keep a copy of them for your future reference. If you do not wish to accept any part of these Conditions then you may not use our website. 
 
