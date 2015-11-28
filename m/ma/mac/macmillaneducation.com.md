@@ -1,88 +1,171 @@
-> *The following text is extracted and transformed from the macmillaneducation.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619180440id_/http%3A//www.macmillaneducation.com/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D1616) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macmillaneducation.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128112706id_/http%3A//www.macmillanenglish.com/privacy-policy) for the most accurate reproduction.*
 
-# About Us
+# Our Privacy Policy - Macmillan English
 
-We want to protect the privacy of visitors to our website and that of our customers, and other individuals. Please read the following policy; it will help you to understand how we use your personal data. We may change our privacy policy at any time without giving you notice, so please check it each time you visit this website. 
-
-Whenever you give us personal data, you are consenting to its collection and use in accordance with this privacy policy, including our use of cookies as explained below. 
-
-IMPORTANT NOTE: If you are sixteen or under, you must obtain your parent's or guardian's permission before you send us any personal data. 
-
-## What personal information do we collect?
-
-We log your Internet Protocol (IP) address in order to receive and send information from and to you over the internet. 
-
-When you register on our website, register for our newsletter, make an enquiry, submit material for inclusion on our website, enter a competition, or order products or services from us, you may be asked to provide some personal data such as your name, address, email address, credit or debit card number and interests. 
-
-Bear in mind that if you include any personal data in any material you submit for inclusion on our website, it may be seen by anyone visiting this website anywhere in the world. Please do not submit any personal data that you do not want to be made public in this way, and please do not send us any personal data about anyone else without their permission. 
-
-We also automatically collect data about visitors to our website (for example on browsing patterns) by using cookies. We collect data relating to the routing, duration and time of communications (traffic data), such as records of the parts of our website you have visited, services you have used, and your location. We retain traffic data for three years.  
+This Online Privacy Notice describes the types of personal information we collect on the Site, how we may use the information, with whom we may share it and the choices available to you regarding our use of the information. We also describe the measures we take to safeguard the information and tell you how to contact us about our privacy practices **.**  
+ Click on one of the links below to jump to the listed section:  
 
 
-## Cookies
-
-A cookie is a small piece of data or message that is sent from a web server to your browser and is stored on your hard drive. A cookie can't read data off your hard disk or read cookie files created by other sites. Cookies do not damage your system. 
-
-You can reset your browser so as to refuse any cookie or to alert you to when a cookie is being sent. If you choose not to accept our cookies, some of the features of our site may not work as well as we intend. 
-
-We use cookies for the purposes of system administration of our website, to give us information about the number of visitors to different parts of our website, and to enhance your visit to our site.  
-How do we use your personal data? 
-
-We use your personal data to: answer your queries, run any competition you may have entered, to process and fulfil your orders, to notify you of your order's status and to contact you if there is a problem with your order. 
-
-We use the information you supply about subject interests in order to shape our future publishing and marketing strategy and also so that we may send you targeted information about new products and services from Macmillan Publishers Limited, and to inform you about changes and improvements to our website, and for direct marketing purposes (but we do give you the option to opt out of this). 
-
-We may also use your personal data to monitor the use of our website, to record traffic flows and to carry out research about our visitors' and customers' demographics, interests and behaviour. We do this to understand our visitors, customers and potential customers better. 
-
-We use traffic data (see above) to help us understand which areas of our website are most popular so that we might better develop the design and structure of our site, and to market our own electronic communications services and to provide you with value added services, such as targeted information about our products, promotions such as competitions, or new author signings. You may withdraw your consent to our use of these data at any time. 
-
-If you wish to do this, please contact: [macmillaneducation@macmillan.com ](mailto:macmillaneducation@macmillan.com)
-
-When you give us personal data, those data may be sent electronically to servers anywhere in the world and may be used, stored and processed anywhere in the world, including countries outside the European Economic Area. (Bear in mind that many countries outside the European Economic Area do not adequately protect your rights as a data subject). 
-
-Whenever and wherever we collect, process or use personal data, we take steps to ensure that it is treated securely and in accordance with our privacy policy.  
+_Information We Collect_  
+  _How We Use Information We Collect_  
+  _Online Tracking  
+ _ _Information We Share_  
+  _Links To Other Websites_  
+  _Children’s Privacy_ _ ___  
+  _How We Protect Personal Information_  
+  _Your Choices_  
+  _Notice to California Residents_  
+  _Access and Correction_ ****  
+  _Data Transfers_ _ ___  
+  _Updates To Our Online Privacy Notice_  
+  _How To Contact Us_  
 
 
-## To whom might we disclose your personal data?
+ **Information We Collect** ****  
 
-We may pass your personal data to anyone who needs those data in order to fulfil your requests for our goods and services, or to validate any payment details you give to us. Some of these people may be located outside the European Economic Area. 
 
-We may pass your personal data to our group or associated companies and to our data processors. Some of these may be located outside the European Economic Area. 
+We may obtain certain personal information (such as name and other contact details) when you choose to provide them through our Site. The types of personal information we may collect include: ****  
 
-We may also provide your personal data to businesses (which may or may not be companies in our group) which may be located outside the European Economic Area and who may use the data to send you information about other products or services. However, you may opt out of your personal data being used in this way when we collect your personal data. 
 
-We may also provide your personal data to anyone who buys our business or business assets. Except as set out above, we will not disclose your personal information unless we are obliged to do so or allowed to do so by law, or where we need to do so in order to run our business (for instance where we outsource services or other people process data for us).
+ 
+  * contact information, such as your name, postal address, e-mail address and telephone number
+ 
+  * date of birth 
+ 
+  * username and password
+ 
+  * personal information in content you provide on our Site
+ 
+  * educational information, such as your school and grades
+ 
+  * employment information, such as your work experience
+ 
+  * information concerning your interests and product preferences
 
- **Direct Marketing**
 
-We may contact you by email to market our goods and services, but you may at any time request us to stop using your personal data for direct marketing purposes. If you wish to do this please contact: [help@macmillan.com](mailto:help@macmillan.com). 
 
-**Links**
+In addition, when you visit our Site, we may collect certain information by automated means, such as cookies and web beacons. The information we collect in this manner includes IP address, browser characteristics, device characteristics, operating system, language preferences, referring URLs, information on actions taken on our site, and dates and times of website visits.   
+ A “cookie” is a text file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. On this Site, we use two kinds of cookies: session cookies and persistent cookies. Session cookies exist only for as long as your browser remains open. Once you close your browser, they are deleted. Persistent cookies, in contrast, last beyond each visit to the Site and remain on your hard drive after you close your browser. The cookies used on the Site include those that are strictly necessary cookies for access and navigation, cookies that track usage (performance cookies) and remember your choices (functionality cookies), and cookies that provide you with targeted content or advertising.  
+We may use the information we obtain from your use of our cookies for the following purposes:  
 
-Our website contains links to other websites. We are not responsible for the privacy practices of other sites. We encourage our visitors to be aware when they leave our website, and to read the privacy policy of other sites that collect or use personal data. This privacy policy applies only to personal data collected by Macmillan Publishers Limited.
 
- **Security**
+ 
+  * to recognize your computer when you visit the Site __
+ 
+  * to track you as you navigate the Site, and to enable the use of e-commerce capabilities __
+ 
+  * to improve the Site’s usability __
+ 
+  * to analyze use of the Site __
+ 
+  * to manage the Site __
+ 
+  * to personalize the Site , including targeted advertisements that may be of particular interest to you. __
 
-We give you the option of using a secure server whenever you make payment over the internet or provide details of any credit or debit card. 
 
-We use the industry standard, Secure Socket Layer (SSL) encryption, to ensure our online ordering facility is secure for credit and debit card transactions. Your credit or debit card details will be transmitted to us securely ONLY if you are using a secure connection (SSL) aware browser. 
 
-Unfortunately, no data transmission over the internet or any other network is 100 per cent secure, but we take appropriate steps to try to protect the security of your personal data.
+We also may use “web beacons” on our Site. A web beacon, also known as a pixel tag or clear GIF, may be used to transmit information collected through cookies to our service providers’ servers, such as the server of Google Adwords. These web beacons enable our service providers to compile anonymous information about your browsing activity on the Site. For more information, see the section on “Online Tracking” below.  
+ Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. Please note, however, that without cookies you may not be able to use all of the features of our Site.  
 
- **Contacts**
 
-This website is operated by Macmillan Publishers Limited, trading as Macmillan Education. Macmillan Publishing Limited is a company registered in England. Our registered number is 00785998. 
+ **How We** **Use The Information We Collect**  
 
-**Our registered office is at:**
 
-Brunel Road  
-Houndmills  
-Basingstoke  
-Hampshire  
-RG21 6XS 
+We may use the information we obtain through the Site to:  
 
-Individuals have certain rights of access to their personal data. If you wish to request any information about your personal data, please contact: [help@macmillan.com](mailto:help@macmillan.com)
 
- **Inaccuracies and Corrections**
+  * create and manage your account; 
+  * offer and provide products, services and information to you, including newsletters;
+  * permit you to participate in blogs, forums, and discussion groups;
+  * communicate with you about, and administer your participation in, special events, programs, surveys, contests, sweepstakes, and other offers or promotions, to the extent permitted by law;
+  * display content on our Site, such as stories, product reviews and photos;
+  * respond to and communicate with you about your requests, questions and comments;
+  * process claims we receive in connection with our products and services;
+  * operate, evaluate and improve our business (including developing new products and services; managing our communications; determining the effectiveness of our sales, marketing and advertising; analyzing and enhancing our products, services and Site; and performing accounting, auditing, billing, reconciliation and collection activities); 
+  * perform data analyses and other processing (including market and consumer research, trend analysis), 
+  * protect against, identify and prevent fraud and other criminal activity, claims and other liabilities; and
+  * comply with and enforce applicable legal requirements, relevant industry standards and our policies.
 
-We would like to keep your personal data accurate and up to date. If you become aware of any errors or inaccuracies please let us know by contacting [help@macmillan.com](mailto:help@macmillan.com). 
+
+
+In addition, we use information collected online through cookies, web beacons and other automated means for purposes such as (i) recognizing your computer when you visit the Site, (ii) tracking you as you navigate the Site, and enabling the use of e-commerce capabilities, (iii) improving the Site’s usability, (iv) analyzing use of the Site, (v) managing the Site, and (vi) personalizing the Site , including targeted content and advertisements that may be of particular interest to you. We also use this information to help diagnose technical and service problems, administer our Site, identify users of our Site, and gather demographic information about our users. We use clickstream data to determine how much time users spend on web pages of our Site, how users navigate through our Site, and how we may tailor our Site to better meet the needs of our users.  
+ We also may use the information we obtain about you in other ways for which we provide specific notice at the time of collection. ****  
+
+
+ **Online Tracking**  
+
+
+We may use third-party web analytics services on our Site, such as Google Analytics. These service providers help us analyze how users use our Site. The information collected for this purpose (including your IP address and other information collected by automated means) will be disclosed to or collected directly by these service providers. These service providers may retain and use anonymised, aggregated data collected from users of our Site in connection with their own businesses, including in order to improve their products and services. To learn more about opting out of data collection through Google Analytics, click the link below:   
+ [Google Analytics](http://tools.google.com/dlpage/gaoptout)
+
+  On the Site, we may collect information about your online activities for use in providing you with advertising about products and services tailored to your individual interests. This section of our Online Privacy Notice provides details and explains how to exercise your choices.  
+ You may see certain ads on other websites based on your visits to our Site because we participate in advertising networks administered by third-party vendors, such as Google Adwords. Ad networks allow us to target our messaging to users considering demographic data, users’ inferred interests and browsing context. These networks track your online activities over time by collecting information through automated means, including through the use of cookies, web server logs and web beacons. The networks use this information to show you advertisements that are tailored to your individual interests, to track your browser across multiple websites, and to build a profile of your web browsing. The information our ad network vendors collect includes information about your visits to websites that participate in the vendors’ advertising networks, such as the pages or advertisements you view and the actions you take on the websites. This data collection takes place both on our Site and on third-party websites that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts.   
+ We may use features of Google Analytics for Display Advertisers. That includes obtaining specific visitor cookie data, such as the source, medium and keywords used to visit our Site.  
+ To learn more about how to opt out of ad network interest-based advertising, [click here](http://www.aboutads.info/choices).   
+ This Site is not designed to respond to “do not track” signals received from browsers.
+
+ **Information We Share**   
+
+
+We may share the information you provide with companies that are related to Macmillan through common ownership.  We may also share the personal information we obtain with our publishing partners.
+
+  In addition, if you agree, we share personal information with third parties who perform services on our behalf. For example, when you make a purchase we may share information about you and your transaction with other companies for the purpose of processing your transaction. In addition, we may retain third party service providers to manage our customer databases or distribute e-mail offerings. ****  
+  Our Site may feature blogs, forums and discussion groups. Please be aware that some or all of the information you provide (including personal information) in connection with these activities may be made publicly available.   
+ We also may disclose information about you (i) if we are required to do so by law, regulation or legal process (such as a court order or subpoena), (ii) in response to requests by government agencies, such as law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation). ****
+
+**Links To Other Websites**  
+
+
+Our Site may contain links to other websites for your convenience and information. These may include, for example, some of the blogs and forums you may access through this Site. These websites may be operated by companies not affiliated with us. Linked websites may have their own privacy policies or notices, which we strongly suggest you review if you visit any linked websites. We are not responsible for the content of any websites that are not affiliated with **** Macmillan Education, any use of those websites, or the privacy practices of those websites.  
+
+
+ **Children’s Privacy**  
+
+
+Our Site is not directed to children under the age of 13 and we do not knowingly collect personal information from children under the age of 13 on our Site. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen on our Site, we will delete the information from our records.  
+
+
+ **How We Protect Personal Information**   
+
+
+We maintain administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.  
+
+
+ **Your Choices**  
+
+
+We give you the option of requesting that we not use your information for marketing purposes, or share your information with related companies for their own marketing purposes. [_Click here_](mailto:internetmarketing@macmillanusa.com) to send us an e-mail with your name and e-mail address, if you do not want us to use your information for marketing purposes, or share your information with related companies for their own marketing purposes. 
+
+  Please be aware that we are able to process an opt-out request only for a specific e-mail address.  So, if you have more than one e-mail address or if you have changed your e-mail address, your opt-out request may not be processed properly. If you believe you have opted out, but continue to receive e-mails from us, please contact us by one of the means listed under “How to Contact Us” below, and we will endeavor to resolve the issue.
+
+ **Notice to California Residents**  
+
+
+California’s "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the business' practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. In the alternative, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has opted out of such information-sharing. We have such a policy in place. As discussed above in the section entitled “Your Choices”, if you wish to opt-out of our sharing of your information with third parties for the third parties’ direct marketing purposes, please follow the appropriate opt-out link in that section. ****  
+
+
+ **Access and Correction**  
+
+
+Subject to applicable law, you may (i) have the right to access certain personal information we maintain about you and obtain a copy of that information, (ii) update or correct inaccuracies in that information, (iii) object to our use of your personal information, and (iv) delete your personal information from our database. To exercise these rights, please contact us as indicated in the How To Contact Us section of this Online Privacy Notice. To help protect your privacy and maintain security, we may take steps to verify your identity before granting you access to the information. If you are resident in the EU, a charge may be applicable before we provide a copy to you of any of your personal information that we maintain. ****  
+
+
+**Data Transfers**  
+
+
+We may transfer the personal information we collect about you to countries other than the country in which the information originally was collected. Those countries may not have the same data protection laws as the country in which you initially provided the information.   
+ When we transfer your information to other countries, we will protect that information as described in this Online Privacy Notice and in accordance with applicable law. Where your personal information is collected in the EEA and we then transfer it outside the EEA, we will ensure that an adequate level of protection is in place to protect your personal information.  
+
+
+ **Updates To Our Online Privacy Notice**  
+
+
+Changes to this Online Privacy Notice will become effective when those changes are posted to the Site. Your continued use of the Site subsequent to any change to this Online Privacy Notice constitutes your acceptance of the change. Please review this statement periodically to ensure you are aware of any changes or updates to this Online Privacy Notice.  We indicate the effective date of this Online Privacy Notice (and any updates) at the top of the Notice.   
+
+
+**How To Contact Us**  
+
+
+If you have any questions about this Online Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by:  
+ E-mailing us at **help@macmillan.com**  
+
