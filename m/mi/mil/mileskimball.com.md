@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mileskimball.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516041454id_/http%3A//www.mileskimball.com/mileskimball/customerservice/faq.aspx%23SecurityandPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mileskimball.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128134851id_/http%3A//www.mileskimball.com/mileskimball/customerservice/faq.aspx%23SecurityandPrivacy) for the most accurate reproduction.*
 
 # Frequently Asked Questions - Miles Kimball
 
