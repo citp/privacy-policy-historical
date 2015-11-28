@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cutcabletoday.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529175905id_/http%3A//www.cutcabletoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutcabletoday.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128083954id_/http%3A//www.cutcabletoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CutCableToday
 
-If you’re visiting cutcabletoday.com, know that I value your personal privacy. My privacy policy summarizes the types of information that’s collected on our site, as well as how it may be used.
+If you’re visiting CutCableToday.com, know that I value your personal privacy. My privacy policy summarizes the types of information that’s collected on our site, as well as how it may be used.
 
 ### **Log Files**
 
