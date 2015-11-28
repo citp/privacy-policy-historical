@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsalr.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626154529id_/http%3A//gsalr.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsalr.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128205500id_/http%3A//gsalr.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | gsalr.com
 
