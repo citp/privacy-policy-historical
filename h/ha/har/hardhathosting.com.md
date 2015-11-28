@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the hardhathosting.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609025307id_/http%3A//www.hardhathosting.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardhathosting.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128104100id_/http%3A//www.hardhathosting.com/about/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Hard Hat Hosting – Managed VPS Hosting | Managed Dedicated Servers
-
-**U.S.-EU Safe Harbor Framework Compliance  
-**
-
-Hardhat, Inc. complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  Hardhat, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  We will respond to your request for access to modify or delete your information within thirty (30) days. To learn more about the Safe Harbor program, and to view Hardhat, Inc.’s certification, please visit [http://www.export.gov/safeharbor](http://www.export.gov/safeharbor/ "U.S.-EU Safe Harbor")
 
 **Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
@@ -26,7 +21,7 @@ You may alter your account information or opt out of receiving communications fr
 1\. You may send an email to support@hardhathosting.com  
 2\. You may visit your account manager by clicking login in our sites main menu.  
 3\. You may send mail to Hardhat, Inc. at the following postal address:  
-1627 Main St Ste 300, Kansas City, MO 64108  
+1627 Main St Ste 602, Kansas City, MO 64108  
 4\. You may call us at: (816) 471-7688  
 5\. You may fax us at (816) 303-4447
 
@@ -96,4 +91,4 @@ Hardhat, Inc.
 Kansas City, MO 64108  
 Web site URL: [http://www.hardhathosting.com](http://www.hardhathosting.com/)
 
-Last updated: 04/18/14
+Last updated: 06/26/15
