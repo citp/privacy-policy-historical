@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tunngle.net privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326104704id_/http%3A//www.tunngle.net/en/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tunngle.net privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128055250id_/http%3A//www.tunngle.net/en/legal/privacy) for the most accurate reproduction.*
 
 # Tunngle - Privacy Policy
 
