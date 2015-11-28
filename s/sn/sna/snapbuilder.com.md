@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapbuilder.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531005441id_/http%3A//snapbuilder.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapbuilder.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128193318id_/http%3A//snapbuilder.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Snap Builder Web Productions Privacy Policy
 
@@ -49,7 +49,7 @@ We will not send you promotional e-mails without your permission. You may choose
 
   * __**Contacting us and Deleting or Updating Personal Information**. 
 
-You may always contact a Snap Builder representative at [our helpdesk](http://snapbuilder.com/short/@helpdesk) to request that we:   
+You may always contact a Snap Builder representative at [our helpdesk](https://snapbuilder.com/helpdesk/) to request that we:   
 (i) delete your personal information from SnapBuilder.com systems;   
 (ii) update your personal information; or,   
 (iii) change your preferences with respect to marketing contacts. When personal information has been provided to a Affiliate/Partners or other third party, you must also contact those entities concerning deletion or updating your personal information from their database. 
@@ -62,4 +62,4 @@ We may update this Privacy Policy at any time, and such updated Privacy Policy s
 
 
   
-Last updated: October, 20, 2014
+Last updated: July, 10, 2015
