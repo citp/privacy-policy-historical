@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the usednanaimo.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531084857id_/http%3A//www.usednanaimo.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usednanaimo.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128184605id_/http%3A//www.usednanaimo.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Used stuff in Nanaimo for sale - UsedNanaimo.com - buy and sell free classified ads
 
-This Policy was last modified on September 2, 2014.
+This Policy was last modified on June 11, 2015.
 
 * ### Introduction
 
-Welcome to UsedEverywhere.com, a division of Black Press Group Ltd. We are committed to providing a positive, friendly, informative and safe experience for all our users.
+Welcome to Used.ca, a division of Black Press Group Ltd. We are committed to providing a positive, friendly, informative and safe experience for all our users.
 
 This Policy explains how we collect, use, disclose and protect your Personal Information when providing our Services to you.
 
@@ -15,7 +15,7 @@ This Policy explains how we collect, use, disclose and protect your Personal Inf
 Throughout this policy:
 
   1. "Personal Information" means information that can be used to identify you as an individual but does not include business contact information or information that has been made anonymous. 
-  2. “Services” includes any of our [local UsedEverywhere.com websites](http://www.usedeverywhere.com/sites/) and our related services, tools, or applications, including applications for mobile devices.
+  2. “Services” includes any of our [local Used.ca websites](http://www.used.ca/sites/) and our related services, tools, or applications, including applications for mobile devices.
   3. “we” “us” or “our” refers to Black Press Group Ltd. and its divisions, subsidiaries, or assigns.
 
 
@@ -98,7 +98,7 @@ There are times when we disclose your Personal Information to other persons or o
 
 * ### Cookies
 
-Cookies are small files placed on your computer when you visit websites. Most websites use cookies to improve their functionality and we are no exception. We may use data from cookies stored on your computer for such purposes as:
+Cookies, web beacons and similar technologies ("Cookies") are small files placed on your computer to record information when you visit or interact with a website. Most websites use Cookies to improve web functionality and we are no exception. We may use data from Cookies stored on your computer for such purposes as:
 
   1. Analyzing our website traffic;
   2. Identifying returning users or account holders and ensuring account security;
@@ -108,9 +108,11 @@ Cookies are small files placed on your computer when you visit websites. Most we
 
 
 
-We may contract with certain third parties, such as DoubleClick or Google Analytics, to place cookies or similar files on our websites, but we do not permit them to collect your Personal Information. Such third parties assist us in operating our websites and they may provide you with additional products and services.
+We may contract with certain third parties, such as DoubleClick or Google Analytics, to place Cookies on our websites, but we do not permit them to collect your Personal Information. Such third parties assist us in operating our websites and they may provide you with additional products and services.
 
-By visiting our websites or using our Services, you consent to our use of cookies as explained above. If you do not wish for us to use cookies, you can delete cookies from your hard drive and disable cookies in your browser at any time. Please note that disabling cookies may affect the functionality of our Services.
+By visiting our websites or using our Services, you consent to our use of Cookies as explained above. If you do not wish for us to use Cookies, you can delete Cookies from your hard drive and disable Cookies in your browser at any time. Please note that disabling Cookies may affect the functionality of our Services.
+
+You may also opt out of specific networks being able to provide personalized advertising by going to [http://www.networkadvertising.org/managing/opt_out.asp.](http://www.networkadvertising.org/managing/opt_out.asp)
 
 * ### Protecting and Retaining Your Personal Information
 
@@ -136,7 +138,7 @@ From time to time, we may make changes to this Policy. When we do so, we will pl
 
 If you have questions about your privacy or this Policy, or if you have a complaint about our collection, use or disclosure of your Information, please contact our Privacy Office:
 
-UsedEverywhere.com  
+Used.ca  
 818 Broughton St.  
 Victoria, BC  
 V8W 1E4 
