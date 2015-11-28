@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holivine.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502054730id_/http%3A//holivine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holivine.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128123403id_/http%3A//holivine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Holivine
 
