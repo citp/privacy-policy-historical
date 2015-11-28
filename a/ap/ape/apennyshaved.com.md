@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apennyshaved.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627010325id_/http%3A//www.apennyshaved.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apennyshaved.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128200249id_/http%3A//www.apennyshaved.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | A Penny Shaved
 
@@ -8,15 +8,15 @@ If you require any more information or have any questions about our privacy poli
 
 At apennyshaved.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by apennyshaved.com and how it is used.
 
+**Amazon  Associates Program**
+
+Apennyshaved.com is a participant in the [Amazon](http://www.amazon.com/) Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [Amazon.com](http://amazon.com/).
+
 **Log Files**  
 Like many other Web sites, apennyshaved.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 **Cookies and Web Beacons**  
 apennyshaved does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
-
-**Amazon  Associates Program**
-
-Apennyshaved.com is a participant in the [Amazon](http://www.amazon.com/) Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [Amazon.com](http://amazon.com/).
 
 **DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on apennyshaved.com.  
