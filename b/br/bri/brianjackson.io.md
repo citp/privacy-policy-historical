@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the brianjackson.io privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620234629id_/http%3A//brianjackson.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brianjackson.io privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128093524id_/http%3A//brianjackson.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Brian Jackson
+
+[__  Home](http://brianjackson.io/) > Privacy Policy
 
 ## Privacy Policy for brianjackson.io
 
