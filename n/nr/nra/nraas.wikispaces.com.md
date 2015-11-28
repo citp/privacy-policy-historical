@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nraas.wikispaces.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510053413id_/http%3A//www.wikispaces.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nraas.wikispaces.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128194644id_/http%3A//www.wikispaces.com/privacy) for the most accurate reproduction.*
 
-# Wikispaces - Privacy
+# Wikispaces by TES - Privacy
 
 Last Updated 17 November 2014 (General refresh and safe harbor details)
 
