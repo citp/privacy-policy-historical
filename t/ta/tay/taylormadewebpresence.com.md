@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the taylormadewebpresence.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430142729id_/http%3A//taylormadewebpresence.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylormadewebpresence.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128064051id_/http%3A//taylormadewebpresence.com/privacy) for the most accurate reproduction.*
 
-# TaylorMade Web Presence Privacy PolicyTaylorMade Web Presence
+# TaylorMade Web Presence Privacy Policy | TaylorMade Web Presence
 
 [ ](http://taylormadewebpresence.com/)
 
