@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the embedtubes.com privacy policy that was archived on 2014-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140826003449id_/http%3A//www.embedtubes.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embedtubes.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128031510id_/http%3A//www.embedtubes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# PRIVACY POLICY | Adult Embed Videos - Best Porn Videos And Images
 
-[](https://web.archive.org/ "Embed Tube l Best Amateuer Videos")
+[](http://www.embedtubes.com/ "Adult Embed Videos – Best Porn  Videos And Images")
 
-###  PRIVACY POLICY
+### PRIVACY POLICY
 
   1. General 
     1. The operative parties referred to in this policy are Company and You, the User of this site. 
@@ -15,8 +15,8 @@
     1. We reserve the right to revise, amend, or modify this Policy and Our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this web page and using the “refresh” button on Your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the “last modified” date remains unchanged after You have clicked the “refresh” button on Your browser, You may presume that no changes have been made since the last reading of the Policy. A changed “last modified” dates indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting.
   3. Personal Information that We Collect 
     1. Visitors to Our Site and services will have multiple manners of interactivity with Us. Depending upon Your level of interaction, We will collect different information about You. The type of information collected is as follows: 
-      1. **Members** \- Members are those Users who interact with Our services in a way which requires registration, such as by uploading content to the Site. Members will be prompted to provide a valid e-mail address in the process of registering a username.
-      2. **Browsers** \- Browsers are visitors to the Site who never enter into any active data collection pages. Browsers may, however, view content uploaded by Members. Any information gathered from Browsers is also gathered from Members. This information is restricted to cookies, IP Addresses and Referral URLs, and other passive information gathering devices (explained below).
+      1. **Members** – Members are those Users who interact with Our services in a way which requires registration, such as by uploading content to the Site. Members will be prompted to provide a valid e-mail address in the process of registering a username.
+      2. **Browsers** – Browsers are visitors to the Site who never enter into any active data collection pages. Browsers may, however, view content uploaded by Members. Any information gathered from Browsers is also gathered from Members. This information is restricted to cookies, IP Addresses and Referral URLs, and other passive information gathering devices (explained below).
   4. How We Collect Information from You 
     1. **Passive Collection** – We use cookies to collect information about You in order to enhance Your experience on the Site. The information collected in Our cookies includes, but is not limited to, Your User IP address, geographic location and other session data.
     2. **Active Collection** – We collect information from You, such as Your name, e-mail address and credit card information, if applicable, when You complete registration forms to sign up for Your membership on Our Site. Locations for such collection are registration or personal profile pages, but We reserve the right to add additional information collection portals.
@@ -43,34 +43,5 @@ We also use Your information for the obvious purpose of providing Your User prof
     1. We may offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, please refer to Your account settings page or the profile editing page.
   11. Where to Direct Questions About Our Privacy Policy 
     1. If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at admin@embedtubes.com
-
-
-
-### Celebs Videos From Our Friends
-
-  * [ ](http://www.celebsnudeworld.com/2193/emmanuelle-1974-sylvia-kristel/ "emmanuelle 1974 sylvia kristel")
-
-##### emmanuelle 1974 sylvia kristel
-
-  * [ ](http://www.celebsnudeworld.com/1183/emilia-clarke-game-of-thrones/ "emilia clarke game of thrones nude")
-
-##### emilia clarke game of thrones nude
-
-  * [ ](http://www.celebsnudeworld.com/2638/zoe-saldana-topless-hot-scene/ "zoe saldana topless hot scene")
-
-##### zoe saldana topless hot scene
-
-  * [ ](http://www.celebsnudeworld.com/2543/teanna-kai/ "teanna kai")
-
-##### teanna kai
-
-  * [ ](http://www.celebsnudeworld.com/2636/celeb-brigitte-nielsen-masturbating/ "celeb brigitte nielsen masturbating")
-
-##### celeb brigitte nielsen masturbating
-
-  * [ ](http://www.celebsnudeworld.com/2430/nicole-eggert-02/ "nicole eggert")
-
-##### nicole eggert
-
 
 
