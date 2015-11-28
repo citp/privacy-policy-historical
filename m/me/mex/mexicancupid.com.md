@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mexicancupid.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509032734id_/http%3A//www.mexicancupid.com/en/general/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mexicancupid.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128030312id_/http%3A//www.mexicancupid.com/en/general/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement | MexicanCupid.com
 
