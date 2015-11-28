@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sonicelectronix.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613065314id_/https%3A//www.sonicelectronix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonicelectronix.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128140511id_/https%3A//www.sonicelectronix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sonic Electronix
+
+## Privacy Policy
 
 We value the trust you place in Sonic Electronix, and we want you to be aware of the safeguards we have in place to respect your privacy. The below policy tells you about the information we gather about you and how we use it. If you have any questions or concerns about our privacy policy, please [contact us.](https://web.archive.org/contact)
 
@@ -49,7 +51,7 @@ If you have any concerns about leaving cookies on your computer for extended per
 
 **Our Business Partners**
 
-We may involve third-party companies as a necessary means to fulfill your order. These third parties may be involved with order delivery, e-mail transfer, marketing, and credit processing, among other tasks. Third parties will only be granted restricted access to your personal information for carrying out order related purposes and will not be allowed to use this information for soliciting unrelated services. 
+We may involve third-party companies as a necessary means to fulfill your order. These third parties may be involved with order delivery, e-mail transfer, marketing, and credit processing, among other tasks. Third parties will only be granted restricted access to your personal information for carrying out order related purposes and will not be allowed to use this information for soliciting unrelated services.
 
 **Security**
 
