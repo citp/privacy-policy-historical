@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comsol.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415092241id_/http%3A//www.comsol.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comsol.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128060734id_/http%3A//www.comsol.com/company/privacy) for the most accurate reproduction.*
 
 # Online Privacy Policy
 
@@ -25,7 +25,8 @@ You have the right to access and correct your personal information and privacy p
 COMSOL AB   
 Tegnérgatan 23   
 SE-111 40 Stockholm   
-SWEDEN 
+SWEDEN   
+Attention Sales and Marketing Manager
 
 Please include your e-mail address when you contact us.
 
