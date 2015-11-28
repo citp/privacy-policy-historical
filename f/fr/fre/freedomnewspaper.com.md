@@ -1,47 +1,35 @@
-> *The following text is extracted and transformed from the freedomnewspaper.com privacy policy that was archived on 2007-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070423140915id_/http%3A//www.freedomnewspaper.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedomnewspaper.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128185900id_/http%3A//www.freedomnewspaper.com/freedom-np/privacy-policy) for the most accurate reproduction.*
 
-# Welcome to Freedom Newspaper Online
+# Privacy Policy - Freedom Newspaper
 
-Freedom Newspaper is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Freedom Newspaper Web site and governs data collection and usage. By using the Freedom Newspaper website, you consent to the data practices described in this statement.
+We will collect no personal information about you when you visit our website unless you choose to provide that information to us.
 
-Collection of your Personal Information
+**Information Collected and Stored Automatically**
 
-Freedom Newspaper collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Freedom Newspaper also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+If you do nothing during your visit but browse through the website (Freedomnewspaper.com), read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit:
 
-There is also information about your computer hardware and software that is automatically collected by Freedom Newspaper. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Freedom Newspaper for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Freedom Newspaper Web site.
+The internet domain name (for example, “xcompany.com” if you use a private Internet access account, or “yourschool.edu” if you connect from a university’s domain) and IP address ( an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website.  
+The type of browser and the type of computer operating system used to access our website;  
+The date and time you access our website;  
+The pages you visit;  
+If you linked to this website from another website, the address of that other website.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Freedom Newspaper public message boards, this information may be collected and used by others. Note: Freedom Newspaper does not read any of your private online communications.
+**If You Send Us Personal Information**
 
-Freedom Newspaper encourages you to review the privacy statements of Web sites you choose to link to from Freedom Newspaper so that you can understand how those Web sites collect, use and share your information. Freedom Newspaper is not responsible for the privacy statements or other content on Web sites outside of the Freedom Newspaper and Freedom Newspaper family of Web sites.
+If you choose to provide us with personal information by sending an e-mail to us, or by filling out a form with your personal information and submitting it through our website, we use that information to respond to your message, to help us get the information you have requested and to facilitate the communication between you and other members of Freedom Newspaper. we will not intentionally sell, share, or distribute your personal information to third parties, except as required by law.
 
-Use of your Personal Information
+**Information Collected for Tracking and Customization (Cookies)**
 
-Freedom Newspaper collects and uses your personal information to operate the Freedom Newspaper Web site and deliver the services you have requested. Freedom Newspaper also uses your personally identifiable information to inform you of other products or services available from Freedom Newspaper and its affiliates. Freedom Newspaper may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+A cookie is a small file that a website transfers to your computer to allow it to remember specific information about your session while you are connected. Your computer will only share the information in the cookie with the website that provided it, and no other website can request it. There are two types of cookies, session and persistent. Session cookies last only as long as your web browser is open. Once you close your browser, the cookie disappears. Persistent cookies store information on your computer for longer periods of time.
 
-Freedom Newspaper does not sell, rent or lease its customer lists to third parties. Freedom Newspaper may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Freedom Newspaper may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Freedom Newspaper, and they are required to maintain the confidentiality of your information.
+Freedom Newspaper websites may use session cookies for technical purposes such as to enable better navigation through the site, or to allow you to customize your preferences for interacting with the site as well as advertisement according to your geo location.
 
-Freedom Newspaper does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+Freedom Newspaper websites may also make use of persistent cookies to remember you between visits so, for example, you can save your customized preference settings for future visits. Each Freedom Newspaper site using persistent cookies identifies itself as doing so.
 
-Freedom Newspaper keeps track of the Web sites and pages our customers visit within Freedom Newspaper, in order to determine what Freedom Newspaper services are the most popular. This data is used to deliver customized content and advertising within Freedom Newspaper to customers whose behavior indicates that they are interested in a particular subject area.
+At no time is your private information, whether stored in persistent cookies or elsewhere, shared with third parties who have no right to that information. If you do not wish to have session or persistent cookies stored on your machine, you can turn them off in your browser. However, this may affect the functioning of some functioning and operational abilities of the website.
 
-Freedom Newspaper Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Freedom Newspaper or the site; (b) protect and defend the rights or property of Freedom Newspaper; and, (c) act under exigent circumstances to protect the personal safety of users of Freedom Newspaper, or the public.
+Freedom Newspaper Web Sites may contain links to other web sites. Freedom Newspaper makes no representations whatsoever about any other web sites which you may access through this Web Site. When you access a non-Freedom Newspaper web site through this Web Site, please understand that it is independent from Freedom Newspaper, and that Freedom Newspaper has no control over the content on that web site. In addition, a link to a non-Freedom Newspaper Web site does not mean that Freedom Newspaper endorses or accepts any responsibility for the content, or the use, of such web site.
 
-Use of Cookies
+Freedomnewspaper.com does not give any representation regarding the quality, safety, suitability, security or reliability of any external Web sites or any of the content or materials contained in them. It is important for users to take necessary precautions, especially to ensure appropriate safety from viruses, worms, Trojan horses and other potentially destructive items.
 
-The Freedom Newspaper Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
-
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Freedom Newspaper pages, or register with Freedom Newspaper site or services, a cookie helps Freedom Newspaper to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Freedom Newspaper Web site, the information you previously provided can be retrieved, so you can easily use the Freedom Newspaper features that you customized.
-
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Freedom Newspaper services or Web sites you visit.
-
-Security of your Personal Information
-
-Freedom Newspaper secures your personal information from unauthorized access, use or disclosure. Freedom Newspaper secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
-
-Changes to this Statement
-
-Freedom Newspaper will occasionally update this Statement of Privacy to reflect company and customer feedback. Freedom Newspaper encourages you to periodically review this Statement to be informed of how Freedom Newspaper is protecting your information.
-
-Contact Information
-
-Freedom Newspaper welcomes your comments regarding this Statement of Privacy. If you believe that Freedom Newspaper has not adhered to this Statement, please contact Freedom Newspaper at [abuse@pointclicktech.com](mailto:abuse@pointclicktech.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+When visiting external Web sites, users should review those Websites’ privacy policies and other terms of use to learn more about, what, why and how they collect and use any personally identifiable information.
