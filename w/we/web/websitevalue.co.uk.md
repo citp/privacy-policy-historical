@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitevalue.co.uk privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516042621id_/http%3A//www.websitevalue.co.uk/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitevalue.co.uk privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128123702id_/http%3A//www.websitevalue.co.uk/policy.php) for the most accurate reproduction.*
 
 # Web Site Value Calculator and Website Valuation Tool
 
