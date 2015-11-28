@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windowsxlive.net privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610033850id_/http%3A//www.windowsxlive.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsxlive.net privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128061900id_/http%3A//www.windowsxlive.net/privacy) for the most accurate reproduction.*
 
 # Privacy | Windows X's Live
 
