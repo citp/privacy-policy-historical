@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bytecolumn.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618155318id_/http%3A//www.bytecolumn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bytecolumn.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128051840id_/http%3A//www.bytecolumn.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Byte Column
+# Privacy Policy | Byte Column
 
 This privacy policy sets out how bytecolumn.com uses and protects any information that you  
 give bytecolumn.com when you use this website.  
@@ -71,4 +71,4 @@ If you believe that any information we are holding on you is incorrect or incomp
 write to or email us as soon as possible, at the above address. We will promptly correct any  
 information found to be incorrect.
 
-### Share and Enjoy
+## Hottest Stories around the world
