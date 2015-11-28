@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfunlife.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611023107id_/http%3A//myfunlife.com/legal/%3Ftype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfunlife.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128011839id_/http%3A//myfunlife.com/legal/%3Ftype%3Dprivacy) for the most accurate reproduction.*
 
 # None
 
