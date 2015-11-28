@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imonomy.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416233223id_/http%3A//imonomy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imonomy.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128044846id_/http%3A//imonomy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Imonomy
+# Privacy Policy - Imonomy
 
 This Privacy Policy (the “Policy“) explains how imonomy may collect and use certain personal information obtained  
 through this Website.
