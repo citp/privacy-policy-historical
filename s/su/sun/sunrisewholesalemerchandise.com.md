@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunrisewholesalemerchandise.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407120727id_/http%3A//www.sunrisewholesalemerchandise.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunrisewholesalemerchandise.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128193226id_/http%3A//sunrisewholesalemerchandise.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Sunrise Wholesale - Drop Ship Wholesale Products, Dropship Company, Dropshipping Suppliers
 
@@ -228,7 +228,7 @@ Last Edited on 2014-10-16
 [Testimonials](http://sunrisewholesalemerchandise.com/wholesalegifts-testimonials.php)   
 [Get A Website](http://sunrisewholesalemerchandise.com/getYourOwnWebsite.php)   
 [Get Domain Name](http://www.sunrisewholesaledomains.com/)   
-[Accept Credit Cards](http://reseller.authorize.net/application/?id=5556734)   
+[Accept Credit Cards](http://reseller.authorize.net/application?resellerId=21742)   
 [Become a Supplier](https://web.archive.org/openMarketProgramSignup.php)   
 [FAQ](http://sunrisewholesalemerchandise.com/faq.php)   
 [Contact Us](http://sunrisewholesalemerchandise.com/contactinfo.php) | 
