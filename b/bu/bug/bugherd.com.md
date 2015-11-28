@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bugherd.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329041301id_/http%3A//bugherd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bugherd.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128022111id_/http%3A//bugherd.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security Policy | BugHerd
 
