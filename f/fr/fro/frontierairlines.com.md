@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frontierairlines.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608010444id_/http%3A//content.flyfrontier.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontierairlines.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128095658id_/http%3A//content.flyfrontier.com/privacy) for the most accurate reproduction.*
 
-# 
+# Frontier Airlines Privacy Policy
 
 #### **Your privacy is important to us.**  
 
