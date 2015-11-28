@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebodyshop-usa.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509083109id_/http%3A//www.thebodyshop-usa.com/about-us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebodyshop-usa.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128195945id_/http%3A//www.thebodyshop-usa.com/about-us/privacy.aspx) for the most accurate reproduction.*
 
 # The Body Shop - Privacy Policy
 
