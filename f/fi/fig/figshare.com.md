@@ -1,54 +1,118 @@
-> *The following text is extracted and transformed from the figshare.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025000636id_/http%3A//figshare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the figshare.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128150524id_/http%3A//figshare.com/privacy) for the most accurate reproduction.*
 
 # None
 
-We at FigShare LLP. (“FigShare” “Company,” “we,” “us,” “our”) know that our users (“you,” “your”) care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting the Site or using the Service in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy and you hereby consent that we will collect, use, and share your information in the following ways. Any capitalized terms used herein without definition shall have the meaning given to them in the Company’s Terms of Use http:// figshare.com/terms
+We at **figshare LLP ("figshare")** respect your concerns about privacy and value the relationship we have with you. This Online Privacy Notice applies to personal information we collect on this website (the “Site”).
 
-1\. What Does This Privacy Policy Cover? This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using our Service, including without limitation access to the Service by or through the figshare.com website, any third party integration of the Service, and any software owned, operated or licensed by us. This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage. We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for the Service (as that term is defined in our Terms of Use http://figshare.com/terms. If you are under 13, please do not attempt to register for the Service or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to us or on the Service. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at support@figshare.com
+This Online Privacy Notice describes the types of personal information we collect on the Site, how we may use the information, with whom we may share it and the choices available to you regarding our use of the information. We also describe the measures we take to safeguard the information and tell you how to contact us about our privacy practices.
 
-2\. What Information Do We Collect? We gather various types of Personal Information from our users, as explained more fully below. We may use this Personal Information to personalize and improve our services, to allow our users to set up a user account and profile, to contact users, to fulfill your requests for certain products and services, to analyze how users utilize the Site, and as otherwise set forth in this Privacy Policy. We may share certain types of Personal Information with third parties (described in this Section and in Section 3 below). We collect the following types of information:
+Click on one of the links below to jump to the listed section:
 
-A. Information You Provide to Us. We receive and store any information you knowingly provide to us. For example, we collect Personal Information such as your name, email address, job title and institutional or organizational affiliation. If we provide Services for which payment is required and you elect to receive such services, we may also receive and store Personal Information necessary to collect payment from you, including your credit card number and billing information. We also receive and store information you provide us that is contained in User Submissions, including without limitation articles you Submit to the Service. You can choose not to provide us with certain information, but then you may not be able to register with us or to take advantage of some or all of the Service features. In addition, we may anonymize your Personal Information so that you cannot be individually identified, and provide that information to our partners, investors, Content providers or other third parties.
+  * Information We Collect
+  * How We Use The Information We Collect
+  * Online Tracking
+  * Information We Share
+  * Links To Other Websites
+  * Children's Privacy
+  * How We Protect Personal Information
+  * Your Choices
+  * Notice to California Residents
+  * Access and Correction
+  * Data Transfers
+  * Updates To Our Online Privacy Notice
+  * How To Contact Us
 
-B. Information Collected Automatically. Whenever you interact with our Site, we automatically receive and record information on our server logs from your browser including your IP address, browser information, “cookie” information, and the page you requested. “Cookies” are identifiers we transfer to your computer or mobile device that allow us to recognize your browser or mobile device and tell us how and when pages in our Site are visited and by how many people. You may be able to change the preferences on your browser or mobile device to prevent or limit your computer or device’s acceptance of cookies, but this may prevent you from taking advantage of some or all of the Service features. If you access the Service through a third party website, that third party website may also transmit cookies to your computer or device. In addition, our advertising partners, if any, or those of a third party website, may also transmit cookies to your computer or device. This Privacy Policy does not cover the use of cookies by any third parties. When we collect usage information (such as the numbers and frequency of visitors to the Site), we only use this data in aggregate form, and not in a manner that would identify you personally. For example, this aggregate data tells us how often users use parts of the Site, so that we can make the Site or Service appealing to as many users as possible. We may also provide this aggregate information to our partners; our partners may use such information to understand how often and in what ways people use our Service, so that they, too, can provide you with an optimal experience. We never disclose aggregate information to a partner in a manner that would identify you personally.
 
-C. E-mail and Other Communications. We may contact you, by email or other means; for example, we may send you promotional offers on behalf of other businesses, or communicate with you about your use of the Service. Also, we may receive a confirmation when you open an email from us. This confirmation helps us make emails more interesting and improve our service. If you do not want to receive email or other mail from us, please indicate your preference by clicking the unsubscribe option at the base of any emails that you receive from us. Please note that if you do not want to receive legal notices from us, those legal notices will still govern your use of the Service, and you are responsible for reviewing such legal notices for changes.
 
-3\. Will We Share Any of the Personal Information we Receive? We neither rent nor sell your Personal Information in personally identifiable form to anyone. We share your Personal Information in personally identifiable form with third parties as described below.
+We may obtain certain personal information (such as name, email address, orcid id) when you choose to provide them through our Site. The types of personal information we may collect include:
 
-A. Advertisers. We allow advertisers and/or merchant partners (“Advertisers”) to choose the demographic information of users who will see their advertisements and/or promotional offers and you agree that we may provide any of the information we have collected from you in non- personally identifiable form to an Advertiser, in order for that Advertiser to select the appropriate audience for those advertisements and/or offers. For example, we might use the fact you are located in San Francisco to show you ads or offers for San Francisco businesses, but we will not tell such businesses who you are.
+  * Contact information, such as your name, location, email address, social media profiles
+  * Username and password
+  * Personal information in content you provide on our Site
+  * Department and institutional affiliations
 
-B. Affiliated Businesses and Third Party Websites We Do Not Control. In certain situations, businesses or third party websites we’re affiliated with may sell items or provide services to you through the Service (either alone or jointly with us). You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information with that affiliated business only to the extent that it is related to such transaction or service. In addition, we may send your information to third parties when you elect to use certain features of the Service. While we neither solicit nor knowingly collect Personal Information in this context, we have no control over the content you Submit nor over the policies and practices of third parties as to privacy or anything else related to the content you Submit.
 
-C. Agents. We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us.
 
-D. Other Persons Whom You Elect to Receive Your Personal Information. You may request that certain information, including your name, email address, and any of your User Submissions, be displayed or provided to other persons by or through the Service (e.g., if you make your research publicly available). We have no control over the policies and practices of third parties as to privacy or anything else related to the information you request us to display or provide to other persons.
+In addition, when you visit our Site, we may collect certain information by automated means, such as cookies.
 
-E. Business Transfers. We may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. Also, if we (or substantially all of our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information would be one of the assets transferred to or acquired by a third party.
+The information we collect in this manner includes IP address, browser characteristics, device characteristics, operating system, language preferences, referring URLs, information on actions taken on our site, and dates and times of website visits.
 
-F. Protection of Company and Others. We reserve the right to access, read, preserve, and disclose any information that we reasonably believe is necessary to comply with law or court order; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Company, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+A "cookie" is a text file that websites send to a visitor's computer or other Internet-connected device to uniquely identify the visitor's browser or to store information or settings in the browser. On this Site, we use two kinds of cookies: session cookies and persistent cookies. Session cookies exist only for as long as your browser remains open. Once you close your browser, they are deleted. Persistent cookies, in contrast, last beyond each visit to the Site and remain on your hard drive after you close your browser. The cookies used on the Site include those that are strictly necessary cookies for access and navigation, cookies that track usage (performance cookies) and remember your choices (functionality cookies).
 
-G. With Your Consent. Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
+We may use the information we obtain from your use of our cookies for the following purposes:
 
-4\. Is Personal Information About Me Secure? Your account is protected by a password for your privacy and security. You must prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account. We endeavor to protect the privacy of your account and other Personal Information we hold in our records, but we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
+  * to recognize your computer when you visit the Site
+  * to track you as you navigate the Site
+  * to improve the Site’s usability
+  * to analyze use of the Site
+  * to manage the Site
+  * to personalize the Site
 
-The Site may contain links to other sites, or you may be allowed to access the Service from other sites. We are not responsible for the privacy policies and/or practices on other sites. When following a link to another site you should read that site’s privacy policy.
 
-5\. What personal information can I access? By accessing the Account and Profile-Settings, you may access and edit the following information you’ve provided to us:
 
-name  
-email address  
-employer or institutional affiliation  
-credit card information, if provided  
-user names and passwords  
-biographical information
+Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. Please note, however, that without cookies you may not be able to use all of the features of our Site.
 
-The information you can view and edit may change as the Site or Service changes. If you have any questions about viewing or updating information we have on file about you, please contact us at support@figshare com.
+We may use the information we obtain through the Site to:
 
-6\. What Choices Do I Have? You can always opt not to disclose information we use, but keep in mind some information may be needed to register with us or to take advantage of some or all of the Service’s features.
+  * Create and manage your account;
+  * Offer and provide products, services and information to you, including newsletters;
+  * Permit you to participate in blogs, forums, and discussion groups;
+  * Communicate with you about, and administer your participation in, special events, programs, surveys, contests, sweepstakes, and other offers or promotions
+  * Display content on our Site, such as stories, product reviews and photos;
+  * Respond to and communicate with you about your requests, questions and comments
+  * Operate, evaluate and improve our business (including developing new products and services; managing our communications; determining the effectiveness of our sales, marketing and advertising; analyzing and enhancing our products, services and Site; and performing accounting, auditing, billing, reconciliation and collection activities);
+  * Perform data analyses and other processing (including market and consumer research and trend analysis
+  * Protect against, identify and prevent fraud and other criminal activity, claims and other liabilities; and
+  * Comply with and enforce applicable legal requirements, relevant industry standards and our policies.
 
-You can access and edit certain information as explained in Section 5 above. When you update information, however, we may maintain a copy of the unrevised information in our records. You may request deletion of your account by writing to support@figshare.com. Please note that some information may remain in our private records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally.
 
-7\. Changes to this Privacy Policy. We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting a notice on the Site, on or through the Service, or by sending an email to the email address associated with your account. You are bound by any changes to the Privacy Policy when you use the Service after such changes have been first posted.
 
-8\. Questions, CONCERNS AND DISPUTE RESOLUTION. If you have any questions or concerns regarding our privacy policies, please send us a detailed message to support@figshare.com. We will make every effort to resolve your concerns. Any disputes arising from this Privacy Policy, or from the use or processing of any Personal Information we obtain from you in connection with the Service, shall be handled in accordance with the Dispute Resolution terms set forth in Section 14 of Company’s Terms of Use, available at http://figshare.com/terms
+In addition, we use information collected online through cookies and other automated means for purposes such as (i) recognizing your computer when you visit the Site, (ii) tracking you as you navigate the Site (iii) improving the Site’s usability, (iv) analyzing use of the Site, (v) managing the Site, and (vi) personalizing the Site , including targeted content and advertisements that may be of particular interest to you. We also use this information to help diagnose technical and service problems, administer our Site, identify users of our Site, and gather demographic information about our users. We use clickstream data to determine how much time users spend on web pages of our Site, how users navigate through our Site, and how we may tailor our Site to better meet the needs of our users.
+
+We also may use the information we obtain about you in other ways for which we provide specific notice at the time of collection.
+
+We may use third-party web analytics services on our Site, such as Google Analytics. These service providers help us analyze how users use our Site. The information collected for this purpose (including your IP address and other information collected by automated means) will be disclosed to or collected directly by these service providers. These service providers may retain and use anonymised, aggregated data collected from users of our Site in connection with their own businesses, including in order to improve their products and services. To learn more about opting out of data collection through Google Analytics, click the link below:  
+[Google Analytics](http://tools.google.com/dlpage/gaoptout)
+
+This Site is not designed to respond to “do not track” signals received from browsers.
+
+We may share the information you provide with companies that are related to Macmillan through common ownership. We may also share the personal information we obtain with our publishing partners.
+
+We may share information about you with non-affiliated joint marketing partners and/or third parties whose products or services may be of interest to you. These third parties may contact you directly about their products and services. We will not share your information with these third parties for their own marketing purposes if you request that we not do so. We may, however, engage in joint marketing activities with selected third parties and may share personal information about our Site visitors with them.
+
+We share personal information with third parties who perform services on our behalf. For example, when you make a purchase we may share information about you and your transaction with other companies for the purpose of processing your transaction. In addition, we may retain third party service providers to manage our customer databases or distribute e-mail offerings.
+
+Our Site may feature blogs, forums and discussion groups. Please be aware that some or all of the information you provide (including personal information) in connection with these activities may be made publicly available.
+
+We also may disclose information about you (i) if we are required to do so by law, regulation or legal process (such as a court order or subpoena), (ii) in response to requests by government agencies, such as law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation).
+
+Our Site may contain links to other websites for your convenience and information. These may include, for example, some of the blogs and forums you may access through this Site. These websites may be operated by companies not affiliated with us. Linked websites may have their own privacy policies or notices, which we strongly suggest you review if you visit any linked websites. We are not responsible for the content of any websites that are not affiliated with figshare , any use of those websites, or the privacy practices of those websites.
+
+Our Site is not directed to children under the age of 13 and we do not knowingly collect personal information from children under the age of 13 on our Site. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen on our Site, we will delete the information from our records.
+
+We maintain administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
+
+We give you the option of requesting that we not use your information for marketing purposes. Send us an email at info@figshare.com with your name and e-mail address, if you do not want us to use your information for marketing purposes.
+
+Please be aware that we are able to process an opt-out request only for a specific e-mail address. So, if you have more than one e-mail address or if you have changed your e-mail address, your opt-out request may not be processed properly. If you believe you have opted out, but continue to receive e-mails from us, please contact us by one of the means listed under “How to Contact Us” below, and we will endeavor to resolve the issue.
+
+California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the business' practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. In the alternative, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has opted out of such information-sharing. We have such a policy in place. As discussed above in the section entitled “Your Choices”, if you wish to opt-out of our sharing of your information with third parties for the third parties’ direct marketing purposes, please follow the appropriate opt-out link in that section.
+
+Subject to applicable law, you may (i) have the right to access certain personal information we maintain about you and obtain a copy of that information, (ii) update or correct inaccuracies in that information, (iii) object to our use of your personal information, and (iv) delete your personal information from our database. To exercise these rights, please contact us as indicated in the How To Contact Us section of this Online Privacy Notice. To help protect your privacy and maintain security, we may take steps to verify your identity before granting you access to the information. If you are resident in the EU, a charge may be applicable before we provide a copy to you of any of your personal information that we maintain.
+
+We may transfer the personal information we collect about you to countries other than the country in which the information originally was collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this Online Privacy Notice and in accordance with applicable law. Where your personal information is collected in the EEA and we then transfer it outside the EEA, we will ensure that an adequate level of protection is in place to protect your personal information.
+
+Changes to this Online Privacy Notice will become effective when those changes are posted to the Site. Your continued use of the Site subsequent to any change to this Online Privacy Notice constitutes your acceptance of the change. Please review this statement periodically to ensure you are aware of any changes or updates to this Online Privacy Notice. We indicate the effective date of this Online Privacy Notice (and any updates) at the top of the Notice.
+
+If you have any questions about this Online Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by:
+
+E-mailing us at info@figshare.com; **or**  
+Calling us at +44 (0) 20 7418 5573; **or**  
+Writing to us at:  
+**figshare llp  
+Digital Science  
+Macmillan Glasshouse Building  
+2 Trematon Walk  
+Wharfdale Road  
+London  
+NW1 9SR **
