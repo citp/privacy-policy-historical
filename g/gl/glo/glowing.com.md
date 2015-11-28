@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glowing.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529014801id_/https%3A//glowing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glowing.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128013713id_/http%3A//glowing.com/privacy) for the most accurate reproduction.*
 
 # Glow - Privacy
 
@@ -6,7 +6,7 @@ Please read this Privacy Policy carefully, it is a material part of the contract
 
 ##  Changes to the Privacy Policy. 
 
-We may amend this Privacy Policy from time to time. Such amendments shall become effective once we have posted a revised copy to this website or to through Glow or Glow Nurture (the “Glow Apps”), and you will be deemed to have agreed to it if you continue to use our Website or the Glow Apps after that date. If we make what we consider to be material changes to this Policy, we will alert you through a notice on the Glow Apps, on our Website, through an email, or through some other mechanism we believe is reasonable. Regardless of whether you receive such a notice, you will be bound by any revisions to the Policy and it is your responsibility to read and understand any new terms of this Policy. 
+We may amend this Privacy Policy from time to time. Such amendments shall become effective once we have posted a revised copy to this website or to through Eve (Eve by Glow), Glow or Glow Nurture (the “Glow Apps”), and you will be deemed to have agreed to it if you continue to use our Website or the Glow Apps after that date. If we make what we consider to be material changes to this Policy, we will alert you through a notice on the Glow Apps, on our Website, through an email, or through some other mechanism we believe is reasonable. Regardless of whether you receive such a notice, you will be bound by any revisions to the Policy and it is your responsibility to read and understand any new terms of this Policy. 
 
 Your privacy is important to us and, as described in this Privacy Policy, we have designed the Services to protect information about you from unauthorized disclosure to others. This Privacy Policy explains how we collect, use and, in certain circumstances, share your personally identifying information. Please read this Privacy Policy carefully, and if you have any questions, feel free to contact us. 
 
@@ -85,9 +85,10 @@ You can terminate your account at any time which will remove your profile and ot
 
 You may instruct us to share certain of your information with systems such as Apple’s Healthkit or Google Fit, and to access information from those systems which we will use to improve the services we provide to you and, we hope, make our information more accurate for you as an individual. Before you tell us to share your information with another system, however, you should review the applicable privacy policy of that system, since any information you have instructed us to share will become subject to those policies (Apple’s policy can be found at https://www.apple.com/privacy/privacy-policy/) and Google’s Privacy Policy can be found at http://www.google.com/intl/en_us/policies/privacy/). In addition, in the event that you use one of those services, you should be careful about allowing other applications, services or people to access your information through that service. While much information collected by those services is innocuous, people who see Glow data may be able to determine a variety of personal information, such as that you are trying to become pregnant or when you are likely to be having your period. 
 
-  * Glow does not use information gained through the use of the HealthKit framework or Google Fit for advertising or similar services.
-  * We do not disclose any of your information, including information gained through HealthKit or Google Fit, to any third party without your express permission (other than in anonymized and aggregated format). 
+  * Glow does not use or disclose to third parties user data or other information gained through the use of the HealthKit framework or Google Fit for advertising, other use- based data mining purposes or similar services, other than for purposes of improving health or for purposes of health or medical research.
+  * We do not disclose any of your information, to any third party without your express permission (other than in anonymized and aggregated format), and in the case of information gained through HealthKit or Google Fit such sharing will only be for purposes of enabling the third party to provide health and/or fitness services or for medical research.
   * We do not sell any of your information, including information gained through HealthKit or Google Fit, to advertising platforms, data brokers or information resellers.
+  * We do not use any of the information obtained through HealthKit or Google Fit for any purpose other than providing health and/or fitness services in connection with the Glow Apps.
 
 
 
