@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fittodo.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504153224id_/http%3A//fittodo.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fittodo.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128171908id_/http%3A//www.fittodo.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # FitToDo : Privacy Policy
 
@@ -72,5 +72,5 @@ Melbourne Beach, FL 32951
 
 [Information@Fittodo.com](mailto:Information@Fittodo.com)
 
-|  [](http://stores.pearlevision.com/21058960/totowa-nj-totowa-nj "Click to go to totowa store location")  
+|  [](http://stores.pearlevision.com/21060155/paramus-nj-paramus "Click to go to paramus store location")  
 ---|---
