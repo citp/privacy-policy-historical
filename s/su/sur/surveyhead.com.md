@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the surveyhead.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608003357id_/http%3A//www.surveyhead.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyhead.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128164231id_/http%3A//www.surveyhead.com/privacy_policy.php) for the most accurate reproduction.*
 
-# iPoll.com Privacy Policy
+# iPoll Privacy Policy | Take Paid Online and Mobile Surveys to Earn Money
 
 iPoll Privacy Policy  
 Last updated: May 20, 2015
