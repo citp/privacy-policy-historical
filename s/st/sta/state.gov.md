@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.gov privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620041803id_/http%3A//www.state.gov/misc/415.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.gov privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128085152id_/http%3A//www.state.gov/misc/415.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@ Generally, the information requested by the Department will be used to respond t
 
 Many of our programs and websites allow you to send us an email. We will use the information you provide to respond to your inquiry. We will only send you general information via email. You should be reminded that email may not necessarily be secure against interception. Therefore, we suggest that you do not send sensitive personal data (such as your Social Security number) to us via email. If your intended email communication is very sensitive, or includes information such as your bank account, charge card, or Social Security number, you should instead send it by U.S. mail. Another alternative may be submission of data through a secure web page, if available.
 
-Electronic mail messages that meet the definition of records in the [Federal Records Act](http://www.archives.gov/records-mgmt/laws/) (44 U.S.C. 3101 et seq.) are covered under the same disposition schedule as all other Federal records. This means that emails you send us will be preserved and maintained for varying periods of time if those emails meet the definition of Federal records. Electronic messages that are not records are deleted when no longer needed.
+Electronic mail messages that meet the definition of records in the [Federal Records Act](http://foia.state.gov/Learn/SORN.aspx) (44 U.S.C. 3101 et seq.) are covered under the same disposition schedule as all other Federal records. This means that emails you send us will be preserved and maintained for varying periods of time if those emails meet the definition of Federal records. Electronic messages that are not records are deleted when no longer needed.
 
 Categories of information the Department collects on its websites are further described below.
 
@@ -39,7 +39,7 @@ We collect and temporarily store certain information about your visit for use in
 
 
 
-We may share the above information with our employees or representatives with a “need-to-know” in the performance of their official duties, other Federal agencies, or other named representatives as needed to quickly process your request or transaction. This information is only used to help us make our site more useful for you. Raw data logs are retained temporarily as required for security and site management purposes only. More information about how we share information can be found in our [Privacy Act Systems of Records Notices.](http://www.state.gov/m/a/ips/c25533.htm)
+We may share the above information with our employees or representatives with a “need-to-know” in the performance of their official duties, other Federal agencies, or other named representatives as needed to quickly process your request or transaction. This information is only used to help us make our site more useful for you. Raw data logs are retained temporarily as required for security and site management purposes only. More information about how we share information can be found in our [Privacy Act Systems of Records Notices.](http://foia.state.gov/Learn/SORN.aspx)
 
 **Third-Party Websites and Applications**
 
@@ -49,7 +49,6 @@ The Department uses various types of online surveys to collect opinions and feed
 
 The Department retains the data from the ACSI survey results as long as needed to support the mission of the state.gov website.
 
-  
 **Information Collected for Tracking and Customization (Cookies)**
 
 A cookie is a small file that a website transfers to your computer to allow it to remember specific information about your session while you are connected. Your computer will only share the information in the cookie with the website that provided it, and no other website can request it. There are two types of cookies:
@@ -59,7 +58,7 @@ A cookie is a small file that a website transfers to your computer to allow it t
 
 
 
-If you do not wish to have session or persistent cookies stored on your machine, you can [turn cookies off ](http://www.usa.gov/optout_instructions.shtml)in your browser. You will still have access to all information and resources at Department websites. However, turning off cookies may affect the functioning of some Department websites. Be aware that disabling cookies in your browser will affect cookie usage at all other websites you visit as well.
+If you do not wish to have session or persistent cookies stored on your machine, you can [turn cookies off ](https://www.usa.gov/optout-instructions)in your browser. You will still have access to all information and resources at Department websites. However, turning off cookies may affect the functioning of some Department websites. Be aware that disabling cookies in your browser will affect cookie usage at all other websites you visit as well.
 
 **Security**
 
@@ -93,7 +92,7 @@ Our website contains links to international agencies, private organizations, and
 
 **Privacy Policy Contact Information**
 
-We welcome feedback if you have any questions regarding our privacy policy or the use of your information. The Department’s privacy compliance materials are available at [Privacy Impact Assessments](http://www.state.gov/m/a/ips/c24223.htm) (PIA) and [Systems of Records Notices ](http://www.state.gov/m/a/ips/c25533.htm)(SORN). For additional information about our Privacy Policy, please contact us at [privacy@state.gov](mailto:privacy@state.gov?subject=Privacy%20Policy%20) or mail us at:
+We welcome feedback if you have any questions regarding our privacy policy or the use of your information. The Department’s privacy compliance materials are available at [Privacy Impact Assessments](http://foia.state.gov/Learn/PIA.aspx) (PIA) and [Systems of Records Notices ](http://foia.state.gov/Learn/SORN.aspx)(SORN). For additional information about our Privacy Policy, please contact us at [privacy@state.gov](mailto:privacy@state.gov?subject=Privacy%20Policy%20) or mail us at:
 
 Office of Information Programs and Services  
 Privacy Division - A/GIS/IPS/PRV  
