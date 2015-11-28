@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamedek.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703182838id_/http%3A//www.greatdaygames.com/helppages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamedek.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128203549id_/http%3A//www.greatdaygames.com/helppages/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Help - Play Free Online Games on Great Day Games
 
@@ -83,7 +83,7 @@ As a convenience to our visitors, this website currently contains links to a num
 
 To be removed from our contact lists, please write to the Company at the following address:   
 Arkadium, Inc.   
-920 Broadway, 2nd Floor  
+40 W 25th St, 4th Floor  
 New York, NY 10010  
 Attn: Kenny Rosenblatt  
 
