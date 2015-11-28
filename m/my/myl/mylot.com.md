@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mylot.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408082354id_/http%3A//www.mylot.com/mylot/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylot.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128023201id_/http%3A//www.mylot.com/mylot/privacy) for the most accurate reproduction.*
 
 # myLot / Privacy
 
-(last updated April 2, 2013) 
+(last updated July 18, 2015) 
 
 ##  About myLot Privacy 
 
@@ -24,7 +24,7 @@ User Profile information such as name, username and location is displayed to myL
 
 From time to time, myLot or a partner of myLot, may sponsor a promotion, sweepstakes, or contest on myLot.com. Users may be asked to provide personal information including name, email address, home address, and/or answer certain questions in order to participate. We may transfer personal information to certain ad partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply. 
 
-myLot is a very public community, and any information you provide in your profile or in a post is publicly viewable. Therefore, it is important that you think carefully before submitting any information on myLot. You will be able to edit or delete your submissions at any time, and cancelling your myLot account will remove all information provided from the website. 
+myLot is a very public community, and any information you provide in your profile or in a discussion is publicly viewable. Therefore, it is important that you think carefully before submitting any information on myLot. You will be able to edit or delete your submissions at any time, and cancelling your myLot account will remove all information provided from the website. 
 
 ##  myLot Messages 
 
@@ -36,16 +36,16 @@ myLot is not responsible for the privacy policies and/or practices on other site
 
 ##  Cookies 
 
-What is a cookie?  
+**What is a cookie?**  
 A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web site's computers and stored on your computer's hard drive. Each web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. 
 
-Choices about Cookies  
+**Choices about Cookies**  
 You can configure your browser to accept or reject all cookies, or notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences). In order to take advantage of myLot.com and to use most functions on myLot.com, you must enable cookies from myLot.com. 
 
-Why does myLot.com use cookies?  
+**Why does myLot.com use cookies?**  
 myLot uses its own cookies for a number of reasons. myLot uses cookies to store members' preferences and to record session information, for purposes including ensuring that members are not repeatedly offered the same advertisements and to customize newsletter, advertising, and Web page content based on browser type and user profile information. myLot can access your information when you "sign in," so that we can provide you with a customized content. myLot can estimate and report our total audience size and traffic and conduct research to improve myLot's content and services. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
 
-Third Party Advertisers and cookies  
+**Third Party Advertisers and cookies**  
 myLot uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this website, other Web sites, and other forms of media in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/choices/). 
 
 ##  Changes in Our Privacy Policy 
