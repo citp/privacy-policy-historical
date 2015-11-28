@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the intralinks.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421053146id_/https%3A//www.intralinks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intralinks.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128062836id_/https%3A//www.intralinks.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Intralinks
+# Privacy Policy | Intralinks®
 
 This privacy policy  (the “Privacy Policy”) describes how we treat information you may provide to us, including how we may use such information, how we protect the security of such information, and how you may change or request that we remove such information from our systems. This includes any information associated directly with you (such as your name, title, email address or phone number) that is supplied to us in conjunction with your use or potential use of our website and/or Intralinks’ permission-based online workspaces, known as the Intralinks® platform or Intralinks® Exchanges (the “Service”). 
 
@@ -83,14 +83,7 @@ You can find more information about the individual cookies we use and the purpos
 
 **COOKIE/NAME** |  **PURPOSE**  
 ---|---  
-**Cookie** : ELOQUA, ELQSTATUS (www. Eloqua.com domain)
-
- **Name** : Eloqua 
-
-|  These functional cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
-
-For more information on Eloqua Cookies, read Eloqua’s Privacy Policy at <http://www.eloqua.com/trust/privacy-policy.html>.   
-  
+  |     
 **Cookie** : _UTMA, _UTMB, _UTMC, _UTMZ
 
  **Name** : Google Analytics 
@@ -98,10 +91,20 @@ For more information on Eloqua Cookies, read Eloqua’s Privacy Policy at <http:
 |  _UTMA: Used to distinguish users and sessions. The cookie is created when the JavaScript library executes and no existing __utma cookies exists. The cookie is updated every time data is sent to Google Analytics.  
 _UTMB: Used to determine new sessions/visits. The cookie is created when the JavaScript library executes and no existing __utmb cookies exists. The cookie is updated every time data is sent to Google Analytics.  
 _UTMC: Not used in ga.js. Set for interoperability with urchin.js. Historically, this cookie operated in conjunction with the __utmb cookie to determine whether the user was in a new session/visit.  
-_UTMZ: Stores the traffic source or campaign that explains how the user reached your site. The cookie is created when the JavaScript library executes and is updated every time data is sent to Google Analytics.
+_UTMZ: Stores the traffic source or campaign that explains how the user reached your site. The cookie is created when the JavaScript library executes and is updated every time data is sent to Google Analytics. 
+
+Google Analytics Advertising Features* implemented include: 
+
+  * Remarketing with Google Analytics 
+  * Google Display Network Impression Reporting 
+  * Google Analytics Demographics and Interest Reporting 
+  * Integrated services that require Google Analytics to collect data via advertising cookies and anonymous identifiers 
+
+
+
+*You may opt-out of such use by changing your Ads Settings, Ad Settings for mobile apps, through NAI’s consumer opt-out, or using Google Analytics Opt-Out Browser Add-on (<https://tools.google.com/dlpage/gaoptout/>).
 
 For more information on Google Analytics Cookies, read Google’s Cookie Policy at <http://www.google.com/policies/technologies/cookies/>, for Developer information, read Google’s Developer information at <https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage>.   
-  
 **Cookie** : SESS7bc09c6e72096f569322a3aae0c966d9
 
  **Name** : Drupal - Session 
@@ -119,6 +122,16 @@ SnapABugVisit: detects a new session of the “Chat With Sales” functionality.
 
 For more information on SnapEngage’s cookies, read <http://help.snapengage.com/what-cookies-does-snapengage-set-on-the-visitors-computer/>. For SnapEngage’s Privacy Policy, read <http://snapengage.com/privacy-policy/>.   
   
+**Cookie** :visitor_idXXXXX, pi_opt_in
+
+ **Name** : Pardot 
+
+|  These functional cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  
+Visitor Cookie: The visitor cookie includes the name “visitor_id” plus the unique identifier for your account, which is derived from the tracking code placed on your site. The value stored is the unique ID for the visitor. For example, cookie name “visitor_id12345″ stores the visitor value “123456789,” where 12345 is the account identifier and 123456789 represents the visitor ID. This cookie is set by our tracking code on visitors and prospects.  
+Opt In Cookie: The persistent cookie named “pi_opt_in” is what we use to stay in compliance with the “Do Not Track” initiative. For more information on this initiative, see the FAQs section of this article below.  
+For more information on Pardot’s Cookies, please see:  
+<http://www.pardot.com/faqs/prospects/pardot-track-activities/>  
+<http://www.pardot.com/company/legal/permission-based-marketing-policy/>  
 **Cookie** : has_js
 
  **Name** : Drupal – JavaScript Feature Detection 
