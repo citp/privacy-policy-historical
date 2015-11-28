@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theartofjoomla.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618051549id_/http%3A//theartofjoomla.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theartofjoomla.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128212558id_/http%3A//theartofjoomla.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy & Disclosure Policy – Eddify.me
 
