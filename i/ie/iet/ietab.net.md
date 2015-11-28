@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ietab.net privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218054736id_/http%3A//www.ietab.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ietab.net privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128142914id_/http%3A//www.ietab.net/privacy-policy) for the most accurate reproduction.*
 
-# IETab.net - The home of IE Tab
-
-## IETab.Net Privacy Policy
+# IE Tab - Run Internet Explorer in Chrome
 
 #### Privacy Policy for ietab.net
 
