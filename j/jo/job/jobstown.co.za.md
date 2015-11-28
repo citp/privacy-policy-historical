@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobstown.co.za privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623192137id_/http%3A//jobstown.co.za/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobstown.co.za privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128112606id_/http%3A//jobstown.co.za/privacy) for the most accurate reproduction.*
 
 # Privacy
 
