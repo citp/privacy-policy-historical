@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twelveskip.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316163309id_/http%3A//www.twelveskip.com/pages/site/1135/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twelveskip.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128030201id_/http%3A//www.twelveskip.com/pages/site/1135/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TWELVESKIP
 
@@ -83,5 +83,3 @@ If there are any questions regarding this privacy policy you may contact us usin
   * admin@twelveskip.com
 
 
-
-Sponsors
