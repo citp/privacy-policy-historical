@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toyota-global.com privacy policy that was archived on 2015-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150222025754id_/http%3A//www.toyota-global.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota-global.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128040428id_/http%3A//www.toyota-global.com/privacy_statement) for the most accurate reproduction.*
 
 # Toyota Global Site | Privacy Policy
 
@@ -20,8 +20,8 @@ We will never use any Personal Information obtained pursuant to the Clause 1. ab
 The Personal Information that the Company has obtained shall be used for the following purposes only;
 
   1. When introducing in a commercial manner any and all goods, services, etc. that the Company provides
-  2. When conducting a survey through questionnaire for enabling the Company to plan and develop any goods, and/or to study any measure to improve customer satisfaction, etc.
-  3. When conducting any and all things needed to respond to any enquiries received from any customer, to provide prompt service, etc.
+  2. When conducting a survey through questionnaire for enabling the Company to conduct planning, research and development, quality improvement and/or developing any measure to improve customer satisfaction, etc.
+  3. When conducting planning, research and development, quality improvement and/or failure diagnosis, etc.
   4. For any other purposes identified when obtaining the relevant Personal Information
   5. When required to comply with any provisions in any applicable laws and regulations or follow any governmental notification and/or guidelines, etc.  
 When the Company should provide information with any customers through Toyota's dealer, the Company will provide such Toyota's dealer with any relevant Personal Information.
