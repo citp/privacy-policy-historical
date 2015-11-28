@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ask-angels.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410213325id_/http%3A//www.ask-angels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ask-angels.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128075506id_/http%3A//www.ask-angels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ask-Angels.com
 
-Ask-Angels is committed to protecting your privacy. This Privacy Policy applies to the Ask-Angels.com website and governs data collection and usage. This Privacy Policy, together with our [Terms of Use](http://www.ask-angels.com/terms-of-use/), provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you. By using the Ask-Angels.com website, you consent to the data practices described in this policy.
+Ask-Angels is committed to protecting your privacy. This Privacy Policy applies to the Ask-Angels.com website and governs data collection and usage. This Privacy Policy, together with our Terms of Use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you. By using the Ask-Angels.com website, you consent to the data practices described in this policy.
 
 **COLLECTION OF YOUR PERSONAL INFORMATION**
 
