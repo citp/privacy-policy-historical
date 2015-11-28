@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the govtjobsblog.in privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508100920id_/http%3A//www.govtjobsblog.in/p/privacy-policy-we-collect-but-do-not.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtjobsblog.in privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128164957id_/http%3A//www.govtjobsblog.in/p/privacy-policy-we-collect-but-do-not.html) for the most accurate reproduction.*
 
-# Privacy Policy | Latest Govt (Government) Jobs 2015 for Bank, Railway Jobs
+# Privacy Policy
 
 Privacy Policy
 
