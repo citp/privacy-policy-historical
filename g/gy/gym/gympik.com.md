@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gympik.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608024552id_/http%3A//www.gympik.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gympik.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128021708id_/http%3A//www.gympik.com/privacy) for the most accurate reproduction.*
 
 # Find the best fitness centres and professionals in bangalore
 
