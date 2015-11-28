@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wellhello.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409132843id_/http%3A//wellhello.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellhello.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128114822id_/http%3A//wellhello.com/privacy) for the most accurate reproduction.*
 
-# Well Hello - Sex Dating, Hookup and Swingers Site
+# WellHello | Privacy Info
 
 **Our Commitment to Privacy**
 
