@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activityvillage.co.uk privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507170905id_/http%3A//www.activityvillage.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activityvillage.co.uk privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128165628id_/http%3A//www.activityvillage.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -86,6 +86,8 @@ We make use of a tool from Google called Google Analytics. The Google Analytics 
 
 Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies.
 
+There is more information about Cookies below.
+
 ## IP Addresses
 
 IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as traffic data so that data (such as the web pages you request) can be sent to you.
@@ -110,7 +112,7 @@ It is easy for newsletter subscribers to unsubscribe from our newsletter at any 
 
 ## A Special Note About Children
 
-Children are not eligible to use our services unsupervised and we ask that children (under the age of 14) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with permission and guidance from your parents or guardians.
+ActivityVillage.co.uk is not aimed at children, but rather their parents, carers and teachers. Children are not eligible to use our services unsupervised and we ask that children (under the age of 13) do not submit any personal information to us. If you are under the age of 13, you can use this service only in conjunction with permission and guidance from your parents or guardians.
 
 ## Acquisition or Changes in Ownership
 
@@ -118,4 +120,6 @@ In the event that the web site (or a substantial portion of its assets) is acqui
 
 ## Policy Modifications
 
-We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we may email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we may email users who have given us permission to do so. We will post any changes here, so you may want to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+
+## More About Cookies
