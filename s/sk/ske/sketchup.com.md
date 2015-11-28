@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the sketchup.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330002916id_/http%3A//www.trimble.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sketchup.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128131045id_/http%3A//www.trimble.com/privacy.aspx) for the most accurate reproduction.*
 
 # Online Privacy
+
+### Trimble's Commitment to Online Privacy 
+
+Last updated: November 18, 2014 
 
 Your right to privacy is important. At Trimble we believe that personal information you choose to furnish online should only be used to help us provide you with the highest quality of products, services and support. We display this Privacy Statement to make you aware of the information practices for Trimble websites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. We may update our Privacy Statement from time to time to stay current with changes in our business and to better serve you. We encourage you to visit this page frequently to inform yourself of any changes.
 
@@ -18,7 +22,7 @@ There are times, however, when we or our business partners (such as our external
 
 For example, you may choose to give us personal information when you: 
 
-  * Access or register for access on some of our websites, for example, [http://www.gpspathfinderexpress.com](http://www.gpspathfinderexpress.com/), [http://www.knet.trimble.com](http://www.knet.trimble.com/), or [http://trimble.training.learn.com](http://trimble.training.learn.com/).
+  * Access or register for access on some of our websites, for example, [http://www.gpspathfinderexpress.com](http://www.gpspathfinderexpress.com/) or [http://learn.trimble.com](http://learn.trimble.com/).
   * Purchase products or services 
   * Register as a user of Trimble products 
   * Make requests for materials, customer and other services, and product support, repairs and upgrades 
