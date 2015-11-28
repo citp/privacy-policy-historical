@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbonads.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608023823id_/http%3A//carbonads.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonads.net privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128132718id_/http%3A//carbonads.net/privacy.php) for the most accurate reproduction.*
 
 # Carbon Ads
 
@@ -50,8 +50,8 @@ In your browser’s settings, there should be an option to remove cookies. The d
 
 Questions or Comments:
 
-If you have any questions or comments regarding this Privacy Policy, please contact us by e-mail at hello@carbonads.net or by U.S. mail to 186 South Street, Boston, MA 02111.
+If you have any questions or comments regarding this Privacy Policy, please contact us by e-mail at hello@carbonads.net or by U.S. mail to 745 Atlantic Avenue, 8th Floor, Boston, MA 02111.
 
-Date last updated: September 10, 2014
+Date last updated: July 21, 2015
 
 – End –
