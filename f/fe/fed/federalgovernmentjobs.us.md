@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the federalgovernmentjobs.us privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504122735id_/http%3A//federalgovernmentjobs.us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federalgovernmentjobs.us privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128182317id_/http%3A//federalgovernmentjobs.us/privacy.html) for the most accurate reproduction.*
 
 # Federal Government Jobs Privacy Policy and Terms and Conditions of Use
 
