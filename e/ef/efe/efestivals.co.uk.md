@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the efestivals.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607151228id_/http%3A//www.efestivals.co.uk/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efestivals.co.uk privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128210727id_/http%3A//www.efestivals.co.uk/about/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - eFestivals.co.uk
-
-_published_ : Mon 23rd Jul 2012
 
 We take the privacy of registered members very seriously and observe strict compliance with the Data Protection Act 1998 - your personal details are fully protected.
 
@@ -21,6 +19,5 @@ To adjust your cookie use on eFestivals please [see here.](https://web.archive.o
 
 If you have any queries regarding the personal information we may hold, please e-mail [webmaster@efestivals.co.uk](mailto:webmaster@efestivals.co.uk). 
 
-  
   
 
