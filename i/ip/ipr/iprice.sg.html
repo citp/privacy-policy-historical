@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the iprice.sg privacy policy that was archived on 2015-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150531083911id_/http%3A//iprice.sg/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iprice.sg privacy policy that was archived on 2015-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151129041026id_/http%3A//iprice.sg/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N5KTR9"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYEV1NQCBAIXFBQAgQC"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
 
         <title>Privacy Policy | iprice Singapore</title>
         <meta name="description" content="">
@@ -14,50 +14,55 @@
         <meta property="og:description" content="">
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-        <meta name="audisto-confirm" content="eee6a9639a7484b7d5902791e432a0f0dfb7e926">
 
         <link rel="canonical" href="http://iprice.sg/privacy-policy/">
-                                                                                                
-        <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png?v=1">
-        <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png?v=1">
-        <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png?v=1">
-        <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png?v=1">
-        <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png?v=1">
-        <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png?v=1">
-        <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png?v=1">
-        <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png?v=1">
-        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png?v=1">
-        <link rel="icon" type="image/png" href="/favicon-32x32.png?v=1" sizes="32x32">
-        <link rel="icon" type="image/png" href="/favicon-194x194.png?v=1" sizes="194x194">
-        <link rel="icon" type="image/png" href="/favicon-96x96.png?v=1" sizes="96x96">
-        <link rel="icon" type="image/png" href="/android-chrome-192x192.png?v=1" sizes="192x192">
-        <link rel="icon" type="image/png" href="/favicon-16x16.png?v=1" sizes="16x16">
-        <link rel="manifest" href="/manifest.json?v=1">
-        <link rel="shortcut icon" href="/favicon.ico?v=1">
+                                                        <link rel="alternate" hreflang="en-hk" href="http://iprice.hk/http://iprice.hk/privacy-policy//">
+                                                                <link rel="alternate" hreflang="id-id" href="http://iprice.co.id/http://iprice.co.id/privacy-policy//">
+                                                                <link rel="alternate" hreflang="en-my" href="http://iprice.my/http://iprice.my/privacy-policy//">
+                                                                <link rel="alternate" hreflang="en-ph" href="http://iprice.ph/http://iprice.ph/privacy-policy//">
+                                                                <link rel="alternate" hreflang="en-sg" href="http://iprice.sg/http://iprice.sg/privacy-policy//">
+                                                                <link rel="alternate" hreflang="th-th" href="http://ipricethailand.com/http://ipricethailand.com/privacy-policy//">
+                                                                <link rel="alternate" hreflang="vi-vn" href="http://iprice.vn/http://iprice.vn/privacy-policy//">
+                                                        <link rel="alternate" hreflang="x-default" href="http://iprice.my/http://iprice.my/privacy-policy//">
+                    
+        <link rel="apple-touch-icon" sizes="57x57" href="http://iprice.sg/apple-touch-icon-57x57.png?v=1">
+        <link rel="apple-touch-icon" sizes="60x60" href="http://iprice.sg/apple-touch-icon-60x60.png?v=1">
+        <link rel="apple-touch-icon" sizes="72x72" href="http://iprice.sg/apple-touch-icon-72x72.png?v=1">
+        <link rel="apple-touch-icon" sizes="76x76" href="http://iprice.sg/apple-touch-icon-76x76.png?v=1">
+        <link rel="apple-touch-icon" sizes="114x114" href="http://iprice.sg/apple-touch-icon-114x114.png?v=1">
+        <link rel="apple-touch-icon" sizes="120x120" href="http://iprice.sg/apple-touch-icon-120x120.png?v=1">
+        <link rel="apple-touch-icon" sizes="144x144" href="http://iprice.sg/apple-touch-icon-144x144.png?v=1">
+        <link rel="apple-touch-icon" sizes="152x152" href="http://iprice.sg/apple-touch-icon-152x152.png?v=1">
+        <link rel="apple-touch-icon" sizes="180x180" href="http://iprice.sg/apple-touch-icon-180x180.png?v=1">
+        <link rel="icon" type="image/png" href="http://iprice.sg/favicon-32x32.png?v=1" sizes="32x32">
+        <link rel="icon" type="image/png" href="http://iprice.sg/favicon-194x194.png?v=1" sizes="194x194">
+        <link rel="icon" type="image/png" href="http://iprice.sg/favicon-96x96.png?v=1" sizes="96x96">
+        <link rel="icon" type="image/png" href="http://iprice.sg/android-chrome-192x192.png?v=1" sizes="192x192">
+        <link rel="icon" type="image/png" href="http://iprice.sg/favicon-16x16.png?v=1" sizes="16x16">
+        <link rel="manifest" href="http://iprice.sg/manifest.json?v=1">
+        <link rel="shortcut icon" href="http://iprice.sg/favicon.ico?v=1">
         <meta name="msapplication-TileColor" content="#00aba9">
-        <meta name="msapplication-TileImage" content="/mstile-144x144.png?v=1">
+        <meta name="msapplication-TileImage" content="http://iprice.sg/mstile-144x144.png?v=1">
         <meta name="theme-color" content="#48c1c4">
 
-        <style type="text/css">
-                                                            article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display:block}html{cursor:default;overflow-y:scroll;-webkit-tap-highlight-color:transparent;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body,button,form,input,select,textarea{font-size:100%;margin:0}a,a:active,a:hover{outline:0}a:focus{outline:dotted thin}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:700}dfn{font-style:italic}mark{background:#FF0;color:#000}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}pre{white-space:pre;white-space:pre-wrap;word-wrap:break-word}q{quotes:none}q:after,q:before{content:'';content:none}small,sub,sup{font-size:75%}sub,sup{line-height:0;position:relative;vertical-align:baseline}sup{top:-.5em}sub{bottom:-.25em}nav ul{list-style:none}audio[controls],canvas,video{display:inline-block}audio{display:none}audio[controls]{display:inline-block}img{-ms-interpolation-mode:bicubic}svg:not(:root){overflow:hidden}button,input,select,textarea{-webkit-appearance:none;border-radius:0;vertical-align:baseline}button,input{line-height:normal}button,input[type=button],input[type=reset],input[type=submit]{overflow:visible}input[type=checkbox],input[type=radio]{box-sizing:border-box}input[type=search]{-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}input[type=search]::-webkit-search-decoration{-webkit-appearance:none}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}textarea{overflow:auto;vertical-align:top}table{border-collapse:collapse;border-spacing:0}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:400;src:local("Noto Sans"),local("NotoSans"),url(http://fonts.gstatic.com/s/notosans/v6/t7L2us6ALmxGh9c3UK_d2ALUuEpTyoUstqEm5AMlJo4.woff2) format("woff2")}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:400;src:local("Noto Sans"),local("NotoSans"),url(http://fonts.gstatic.com/s/notosans/v6/mTzVK0-EJOCaJiOPeaz-h4X0hVgzZQUfRDuZrPvH3D8.woff2) format("woff2");unicode-range:U+0102-0103,U+1EA0-1EF1,U+20AB}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:400;src:local("Noto Sans"),local("NotoSans"),url(http://fonts.gstatic.com/s/notosans/v6/erE3KsIWUumgD1j_Ca-V-4X0hVgzZQUfRDuZrPvH3D8.woff2) format("woff2");unicode-range:U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:400;src:local("Noto Sans"),local("NotoSans"),url(http://fonts.gstatic.com/s/notosans/v6/LeFlHvsZjXu2c3ZRgBq9nJBw1xU1rKptJj_0jans920.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215,U+E0FF,U+EFFD,U+F000}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:700;src:local("Noto Sans Bold"),local("NotoSans-Bold"),url(http://fonts.gstatic.com/s/notosans/v6/PIbvSEyHEdL91QLOQRnZ1wzyDMXhdD8sAj6OAJTFsBI.woff2) format("woff2")}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:700;src:local("Noto Sans Bold"),local("NotoSans-Bold"),url(http://fonts.gstatic.com/s/notosans/v6/PIbvSEyHEdL91QLOQRnZ1_grLsWo7Jk1KvZser0olKY.woff2) format("woff2");unicode-range:U+0102-0103,U+1EA0-1EF1,U+20AB}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:700;src:local("Noto Sans Bold"),local("NotoSans-Bold"),url(http://fonts.gstatic.com/s/notosans/v6/PIbvSEyHEdL91QLOQRnZ14joYw3YTyktCCer_ilOlhE.woff2) format("woff2");unicode-range:U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:700;src:local("Noto Sans Bold"),local("NotoSans-Bold"),url(http://fonts.gstatic.com/s/notosans/v6/PIbvSEyHEdL91QLOQRnZ1xampu5_7CjHW5spxoeN3Vs.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215,U+E0FF,U+EFFD,U+F000}@font-face{src:url(/font/NotoSansThai.eot?#iefix) format("embedded-opentype"),url(/font/NotoSansThai.woff) format("woff"),url(/font/NotoSansThai.ttf) format("truetype"),url("/font/NotoSansThai.svg#Noto Sans Thai") format("svg");font-family:'Noto Sans Thai';font-weight:400;font-style:normal}@font-face{src:url(/font/NotoSansThai-Bold.eot?#iefix) format("embedded-opentype"),url(/font/NotoSansThai-Bold.woff) format("woff"),url(/font/NotoSansThai-Bold.ttf) format("truetype"),url("/font/NotoSansThai-Bold.svg#Noto Sans Thai") format("svg");font-family:'Noto Sans Thai';font-weight:700;font-style:normal}@media (min-width:640px){.hide-mobile{display:block!important}}@media (min-width:840px){.hide-tablet{display:block!important}}.hidden,.hide-mobile,.hide-tablet{display:none}.wrapper{position:relative;clear:both;max-width:1200px;margin:0 auto;padding:0 20px;overflow:hidden;text-overflow:ellipsis}.space{clear:both}.title{display:inline-block;margin:0 20px 20px 0;padding:0;font-size:20pt;line-height:21pt;color:#086a86}.title a{color:#086a86}.subtitle{display:inline-block;margin:0 5px 5px 0;padding:0;font-size:17px;line-height:20px;color:#086a86}body{overflow-x:hidden}*,:after,:before{box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box}body,button,div,h1,h2,h3,h4,h5,h6,html,input,p,span{margin:0;padding:0;font-size:13px;font-weight:400;font-family:"Noto Sans","Noto Sans Thai",sans-serif}body,html,li,p{color:#333}a{text-decoration:none;color:#333}a:hover{text-decoration:underline}button,input{-webkit-appearance:none;box-shadow:none;-webkit-box-shadow:none;-moz-box-shadow:none;outline:0;border:none;border-radius:0;height:30px;width:80px}input[type=text]{padding:0 10px}img{border:none}.table-cell{display:table-cell;vertical-align:top}.go:hover{text-decoration:underline;cursor:pointer;border:none}.popup{position:fixed;width:100%;height:100%;top:0;left:0;opacity:1;z-index:1000;background-color:rgba(255,255,255,.8);transition:z-index 0s,opacity .5s ease-in;-webkit-transition:z-index 0s,opacity .5s ease-in;-moz-transition:z-index 0s,opacity .5s ease-in;-ms-transition:z-index 0s,opacity .5s ease-in;-o-transition:z-index 0s,opacity .5s ease-in}.popup.closed{opacity:0;z-index:-1;transition:all .5s ease-out;-webkit-transition:all .5s ease-out;-moz-transition:all .5s ease-out;-ms-transition:all .5s ease-out;-o-transition:all .5s ease-out}.popup .inner{margin:10% auto 0;z-index:1001;color:#fff}#breadcrumb{height:16px}#banner{background:url(/img/header.png) #3cc;padding-top:15px;text-align:center}#banner .wrapper{overflow:visible!important}@media (min-width:640px){#banner{height:100px}}#banner a{color:#fff}#banner #logo img{height:66px;width:214px}@media (min-width:640px){#banner #logo{margin-right:40px;margin-bottom:15px;float:left}}#banner #search{min-width:260px;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-flex-basis:340px;-moz-flex-basis:340px;-ms-flex-basis:340px;-o-flex-basis:340px;flex-basis:340px;-webkit-flex-grow:1;-moz-flex-grow:1;-ms-flex-grow:1;-o-flex-grow:1;flex-grow:1;padding:20px 0}@media (min-width:640px){#banner #search{padding:20px 40px}}#banner #search .ui-widget,#banner #search form{position:relative;width:100%}#banner #search input{width:100%;height:32px;font-size:11px;line-height:20px;border:1px solid #3cc}#banner #search input:focus{border:1px solid #086a86}#banner #search button:hover{background-color:#f2f2f2}#banner #search button{position:absolute;width:30px;right:1px;top:1px;background-color:#fff;background-image:url(/img/search.png);background-repeat:no-repeat;background-size:16px 16px;background-position:4px 6px}#banner #networks{float:left;margin-top:5px}#banner #networks a{display:inline-block;margin-right:20px;margin-top:26px}#banner #news-button{float:right;margin-top:17px}#banner #news-button button{padding-left:40px;width:140px;height:auto;background:url(/img/signup_button.png) no-repeat;font-weight:700;color:#f2f2f2;cursor:pointer;font-size:17px;line-height:20px}#menu{background-color:#f2f2f2;height:30px;position:relative}#menu li,#menu ul{list-style:none;margin:0;padding:0}#menu .wrapper{overflow:visible;white-space:nowrap}#menu #menu-more{float:right;padding-left:10px;margin-right:-20px;padding-right:20px;background-color:#f2f2f2;z-index:200;position:relative}#menu #menu-more>li{display:inline-block}#menu #menu-more>li>a{display:inline-block;height:30px;padding:5px 10px;color:#5e6568}#menu #menu-more>#menu-coupons:hover>a{background-color:#f63;background-image:url(/img/coupon_white.png);color:#fff;text-decoration:none}#menu #menu-more>#menu-coupons:hover>ul{display:block}#menu #menu-more>#menu-coupons>a{color:#f63;padding-left:30px;background-image:url(/img/coupon.png);background-position:10px 6px;background-repeat:no-repeat;background-size:17px}#menu #menu-more>#menu-coupons>ul{display:none;position:absolute;z-index:100;right:21px;background-color:#f63;padding:20px}#menu #menu-more>#menu-coupons>ul a{color:#fff;line-height:25px}#menu #navigation{overflow-x:hidden}#menu #navigation>ul>li{display:inline-block}#menu #navigation>ul>li>a{display:inline-block;height:30px;padding:5px 10px;color:#5e6568}#menu #navigation>ul>li:hover>a{background-color:#086a86;color:#fff;text-decoration:none}#menu #navigation>ul>li>ul{display:none;position:absolute;z-index:100;background-color:#086a86;padding:20px}#menu #navigation>ul>li:hover>ul{display:block}#menu #navigation>li>ul li,#menu #navigation>ul>li>ul a{color:#fff;font-size:11px;line-height:20px}#menu #navigation>ul>li>ul a:hover{text-decoration:underline}#menu #navigation>ul>li>ul>li{display:inline-block;vertical-align:top;padding-right:40px}#menu #navigation>ul>li>ul.last>li{display:block}#menu #navigation>ul>li>ul>li>a{font-size:17px;line-height:20px}#menu #navigation>ul>li>ul.last>li>a{font-size:13px;font-weight:400;line-height:25px}.ui-widget-content{font-family:"Noto Sans","Noto Sans Thai",sans-serif!important;font-size:13px!important;background-color:#fff;border:1px solid #086a86;border-top:none}.ui-widget-content .ui-autocomplete-category{padding:3px 1em 3px .4em;font-weight:400;text-transform:capitalize;color:#086a86}.ui-widget-content .ui-autocomplete-category:not(:first-child){margin-top:10px}.ui-widget-content .ui-state-focus{background-image:none!important;background-color:#f2f2f2!important;margin:inherit!important;font-weight:300!important;color:inherit!important;border:none!important}.ui-widget-content .ui-menu-item em{font-style:normal;font-weight:700}.men{background-color:#3cc;color:#fff}.women{background-color:#f63;color:#fff;cursor:pointer}.men:hover,.women:hover{cursor:pointer;text-decoration:underline}.news-error{color:#f63}#news-slider{height:40px;padding-top:5px;overflow:hidden;transition:all .5s cubic-bezier(0,1,.5,1);-webkit-transition:all .5s cubic-bezier(0,1,.5,1);-moz-transition:all .5s cubic-bezier(0,1,.5,1);-ms-transition:all .5s cubic-bezier(0,1,.5,1);-o-transition:all .5s cubic-bezier(0,1,.5,1);text-align:center;background-color:#086a86;background-image:url(/img/newsletter.png);color:#fff}#news-slider form{display:inline-block}#news-slider input{width:88px;margin-left:1px}#news-slider .news-email{width:180px}#news-slider .news-close{float:right;font-size:11px;line-height:20px;color:#fff;padding-top:5px;padding-right:20px}#news-slider .news-text{display:inline-block;width:250px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}@media (min-width:840px){#news-slider .news-text{width:auto}}#news-slider.closed{height:0}#news-popup .inner{width:600px;height:380px;padding:10px;text-align:center;background-color:#086a86;background-image:url(/img/newsletter.png)}#news-popup form{margin:10px 0}#news-popup .news-header{font-size:17pt;line-height:18pt;padding:40px 60px 0}#news-popup .news-slogan{font-size:35px;line-height:40px;font-weight:400;padding:20px 40px}#news-popup .news-text{text-transform:uppercase;margin-top:20px}#news-popup #news-popup input,#news-popup .news-button{margin:4px 0}#news-popup a{color:#fff}#news-popup .news-email{width:300px;height:40px}#news-popup .button{width:100px;height:40px}#news-popup .news-close{display:block;margin-top:40px;font-size:11px;line-height:20px}#news-footer{background-color:#086a86;background-image:url(/img/newsletter.png)}#news-footer .wrapper{margin:0 auto;padding:40px 0;display:table}#news-footer .news-signup{font-size:35px;line-height:40px;font-weight:400;color:#fff}#news-footer .news-slogan{font-size:17px;line-height:20px;color:#fff;margin-bottom:10px}#news-footer .news-email{width:380px}#filter>div{padding-right:40px}#filter{width:200px}#filter #price-range-filter{height:55px}#filter #price-range-filter .max{float:right}#filter #price-range-filter .max,#filter #price-range-filter .min{font-size:11px;line-height:20px}#filter #price-range-filter .ui-slider-horizontal{border:none;background-color:#f2f2f2;background-image:none;border-radius:0;height:10px}#filter #price-range-filter .ui-slider-range{background-color:#086a86;background-image:none;border-radius:0;height:10px}#filter #price-range-filter .ui-slider-handle{border-radius:0;border:1px solid #086a86;background-image:none;background-color:#e6e6e6}#filter #price-range-filter .ui-slider-handle:hover{cursor:pointer}#filter #price-range-filter .ui-slider-handle:nth-child(2){margin-left:0}#filter #price-range-filter .ui-slider-handle:nth-child(3){margin-left:-1.2em}.filter-item{margin-bottom:20px}.filter-item li,.filter-item ul{list-style:none;margin:0;padding:0}.filter-item .list-container,.filter-item button,.filter-item input{width:160px}.filter-item .title{font-size:17px;line-height:20px;color:#086a86}.filter-item input{background-color:#f2f2f2;height:25px;background-image:url(/img/search2.png);background-repeat:no-repeat;background-position:140px}.filter-item input:focus{border:1px solid #086a86}.filter-item li{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.filter-item .clear:hover,.filter-item li:hover{cursor:pointer;text-decoration:underline}.filter-item .clear{font-size:11px;line-height:20px;background-image:url(/img/clear.png);background-repeat:no-repeat;background-position:center right}.dropdown{position:relative}.dropdown .list-container{display:none;position:absolute;background-color:#fff;z-index:1000;border:1px solid #f2f2f2;right:0}.dropdown .list-container li{height:25px;padding:5px 10px}.dropdown .list-container li:hover{background-color:#f2f2f2;cursor:pointer;text-decoration:none}.dropdown button{background-color:#f2f2f2;background-image:url(/img/dropdown.png);background-repeat:no-repeat;background-position:140px 10px;border:1px solid #f2f2f2;text-align:left;height:25px;padding:1px 10px}.dropdown button:hover{cursor:pointer;border:1px solid #086a86}#products-header{margin-bottom:15px}#products-header .nproducts{font-size:11px;line-height:20px;padding-bottom:5px;text-align:right}#products-header #sort{float:right}#products-header #sort .filter-item{margin-bottom:0}#products-header img{vertical-align:top}#products-header h1{margin-bottom:0}#products{width:100%}.product-list{margin-left:-20px;margin-right:-20px}.product-list .product{float:left;width:50%;padding:10px 20px;cursor:pointer}@media (min-width:480px){.product-list .product{width:33%}}@media (min-width:800px){.product-list .product{width:25%}}@media (min-width:1025px){.product-list .product{width:20%}}.product-list .product a{display:inline-block;width:100%}.product-list .product a:hover{text-decoration:none}.product-list .product img{width:100%;height:auto;max-width:190px;max-height:253px}.product-list .iwrapper{width:100%;position:relative}.product-list .ibadge,.product-list .psale{color:#f63}.product-list .ibadge{position:absolute;right:14px;top:11px;padding:2px 8px 2px 0;text-align:center;height:21px;width:35px;background-image:url(/img/badge.png);background-repeat:no-repeat;font-size:8px;font-weight:400}.product-list .ioverlay{visibility:hidden;position:absolute;width:100%;height:100%;padding-top:45%;padding-left:5px;padding-right:5px;background-color:rgba(8,106,134,.7);color:#fff;text-align:center}.product-list .istore{font-size:20pt;line-height:21pt}.product-list .iwrapper:hover .ioverlay{visibility:visible}.product-list .old{text-decoration:line-through}.product-list .old span:nth-child(2){display:none}.product-list .pprice{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.product-list .ptitle{height:41px}.product-list .pbrand{font-weight:700}.product-list .not-found{margin:0 20px}#pagination{text-align:center;padding-top:20px;clear:both}#pagination li,#pagination ul{display:inline-block;list-style:none;margin:0;padding:0}#pagination li{padding:0 3px}#pagination li div,#pagination li span{display:inline-block;height:30px;line-height:30px;min-width:25px;padding:0 10px;text-decoration:none;background-color:#f2f2f2}#pagination div:hover,#pagination li span.selected{color:#f63;border:1px solid #f63}#pagination div:hover{cursor:pointer}#coupon{display:table;width:100%}#coupon .cbtn{display:inline-block;width:180px;height:30px;padding:5px 15px;text-align:left;color:#fff;background-color:#f63;background-image:url(/img/arrow.png);background-repeat:no-repeat;background-origin:content-box;background-position:center right}#coupon .cbtn a{color:#fff}#coupon .cbtn:hover{text-decoration:none;cursor:pointer}#coupon .coupon .cbtn{background-image:url(/img/code.png);background-repeat:no-repeat;background-origin:padding-box;background-position:right top}#coupon .offer .cbtn{background-color:#086a86}#coupon .expired .cbtn{background-color:#f2f2f2}#sidebar{width:220px;padding-left:40px}#sidebar li,#sidebar ul{list-style:none;margin:0;padding:0}#sidebar .coupons li{margin-bottom:5px}#sidebar ul{padding-bottom:20px}#coupon-header{margin-bottom:20px}#coupon-header .simage{border:1px solid #f2f2f2;float:left;margin-right:20px;padding:10px}#coupon-header .simage img{height:70px;width:auto}#coupon-header .scount{float:right;font-size:11px;line-height:20px;margin-top:20px}#coupon-header .snumber{font-size:48px;line-height:40px;font-weight:400;color:#086a86;text-align:center}#coupon-header h1.title{padding-bottom:5px;margin-bottom:0;display:block}#coupon-header .stitle{padding-top:5px}.coupon-list{margin-left:-10px;margin-right:-10px;clear:both}.coupon-list .title{margin:0 10px;padding-top:20px;display:block}.item{float:left;width:100%;padding:10px;text-align:center}@media (min-width:440px){.item{width:50%}}@media (min-width:920px){.item{width:33%}}@media (min-width:1140px){.item{width:25%}}.item .cborder{padding:20px 10px}.item .cexpires{color:#c8c8c8;display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.item hr{margin:10px 20px;height:1px;border:none;background-color:#c8c8c8}.item .cname{height:78px;overflow:hidden;margin:20px 0 0}.item .cname a{color:#086a86;font-size:17pt;line-height:18pt}.item .ctext{padding:0 10px;height:121px;text-align:left;display:block}.item .ctext p{font-size:10px;line-height:16px}.item img{height:75px;width:auto;opacity:.6}.item .cbtn{width:100%!important}.item .cget{margin:10px 10px 0}.item .call{font-size:8px;font-weight:400;text-align:left;margin:10px 10px 0}.active .cborder{border:1px solid #f63}.offer .cborder{border:1px solid #086a86}.expired .cborder{border:1px solid #c8c8c8}.expired .call a,.expired .cname,.expired .cname a,.expired .ctext p{color:#c8c8c8}.expired img{opacity:.3}#coupon-popup .coupon-news,#coupon-popup .inner{width:600px}#coupon-popup .inner{margin-top:10%;padding:40px;background-color:#086a86}#coupon-popup .coupon-news{margin-top:0;padding:20px 40px;background-color:#3cc}#coupon-popup .coupon-popup-name{font-size:17px;line-height:20px;font-weight:700;margin-bottom:10px}#coupon-popup .coupon-popup-text p{margin-bottom:20px;color:#fff}#coupon-popup .coupon-popup-code-panel,#coupon-popup .coupon-popup-nocode-panel{margin-bottom:10px}#coupon-popup .coupon-popup-code{width:120px}#coupon-popup .coupon-popup-code-copy{background-color:#3cc;color:#fff;width:100px}#coupon-popup .news-signup{font-size:17px;line-height:20px;font-weight:700;color:#fff}#coupon-popup .news-slogan{color:#fff;margin-bottom:10px}#coupon-popup .news-email{width:300px}#coupon-popup .men{background-color:#086a86}#coupon-popup .coupon-close{font-size:11px;line-height:20px;color:#fff}#content{padding:20px 0}#text{background-color:#f2f2f2;padding:10px;margin-top:40px;overflow:hidden}@media (min-width:640px){#text{padding:20px 40px}}@media (min-width:840px){#text{padding:40px 60px;background-color:#f2f2f2}}#text h1{font-size:17pt;line-height:18pt;margin-bottom:10px}#text h2{line-height:20px;font-size:15px;margin-bottom:5px}#text h3,#text h4,#text h5,#text h6{font-size:13px;font-weight:400;font-weight:700}#text a{text-decoration:underline!important}#text strong{font-weight:700}#text p{margin-bottom:10px}#text.top{margin-top:0;padding:0;width:100%;background:0 0;color:#086a86}#text.top *{color:#086a86!important}#text.collapsed{max-height:115px}#text.collapsed h1,#text.collapsed h2,#text.collapsed h3,#text.collapsed iframe,#text.collapsed img,#text.collapsed p{display:none!important}#text.collapsed p:nth-of-type(1){display:block!important}#text-more{float:right;font-size:11px;line-height:20px;cursor:pointer}#text-more:hover{text-decoration:underline}#page h1{display:inline-block;margin:0 20px 20px 0;padding:0;font-size:20pt;line-height:21pt;color:#086a86}#page h2{font-size:17px;line-height:20px;margin-top:10px}#page a{color:#086a86}#page ul{padding-left:20px}#page p{padding:5px 0}.popular{margin-top:40px}.popular ul{-webkit-column-count:3;-moz-column-count:3;column-count:3;-webkit-column-gap:40px;-moz-column-gap:40px;column-gap:40px}.popular li,.popular ul{display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;line-height:20px;list-style:none;margin:0;padding:0}@media (max-width:639px){.popular li{height:30px}}#stores img,.popular img{height:75px;width:auto;border:1px solid #f2f2f2;display:inline-block;margin-right:10px;margin-top:10px}@media (min-width:840px){.popular.columns{-webkit-column-count:2;-moz-column-count:2;column-count:2}}#categories>ul{-webkit-column-count:2;-moz-column-count:2;column-count:2;-webkit-column-gap:40px;-moz-column-gap:40px;column-gap:40px}@media (min-width:640px){#categories>ul{-webkit-column-count:3;-moz-column-count:3;column-count:3}}@media (min-width:840px){#categories>ul{-webkit-column-count:4;-moz-column-count:4;column-count:4}}#categories>ul li{margin-bottom:20px}#categories>ul li>a{font-size:17pt;line-height:18pt;color:#086a86}#categories>ul li>ul>li{margin-bottom:0}#categories>ul li>ul>li>a{font-size:13px;font-weight:400;line-height:16px;color:#333}#categories>ul li>ul>li>ul>li{margin-bottom:0}#categories>ul li>ul>li>ul>li>a{font-size:11px;line-height:20px;line-height:12px;color:#333}#brands li,#brands ul,#categories li,#categories ul{list-style:none;margin:0;padding:0}#brands .letters{padding-bottom:20px}#brands .letters li{display:inline-block}#brands .letters li:first-child:before{content:''}#brands .letters li:before{content:' / '}#brands .letter{font-size:17pt;line-height:18pt;color:#086a86}#brands .items{margin:10px 0}#brands .items li{display:inline-block;text-decoration:none;padding-right:10px;width:189px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}#links{background-color:#3cc;background-image:url(/img/logo-crop.png);background-position:left bottom;background-repeat:no-repeat}#links li,#links ul{list-style:none;margin:0;padding:0}#links .wrapper{padding:40px 0 40px 40px}#links .wrapper>div{display:inline-block;float:left;margin-left:135px;margin-bottom:20px}#links .wrapper>div div{margin-bottom:10px;color:#fff;font-size:17px;line-height:20px}#links .wrapper>div a{color:#fff}@media (max-width:639px){#links li{height:30px}}#links #international a,#links #social a{padding-left:25px;background-repeat:no-repeat;background-position:0 2px}#links #social .facebook{background-image:url(/img/facebook.png)}#links #social .google-plus{background-image:url(/img/google-plus.png)}#links #social .pinterest{background-image:url(/img/pinterest.png)}#links #social .twitter{background-image:url(/img/twitter.png)}#links #international .malaysia{background-image:url(/img/malaysia.png)}#links #international .singapore{background-image:url(/img/singapore.png)}#links #international .indonesia{background-image:url(/img/indonesia.png)}#links #international .philippines{background-image:url(/img/philippines.png)}#links #international .hong-kong{background-image:url(/img/hong-kong.png)}#links #international .thailand{background-image:url(/img/thailand.png)}#links #international .vietnam{background-image:url(/img/vietnam.png)}#disclaimer{background-color:#f2f2f2;padding:20px 10px}#disclaimer div{font-size:11px;line-height:20px}#disclaimer div:nth-of-type(1){padding-bottom:5px}@media (min-width:640px){#disclaimer div:nth-of-type(2){margin-left:147px}}#disclaimer img{float:left;padding-right:20px;width:147px;height:38px}.ui-helper-hidden{display:none}.ui-helper-hidden-accessible{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.ui-helper-reset{margin:0;padding:0;border:0;outline:0;line-height:1.3;text-decoration:none;font-size:100%;list-style:none}.ui-helper-clearfix:after,.ui-helper-clearfix:before{content:"";display:table;border-collapse:collapse}.ui-helper-clearfix:after{clear:both}.ui-helper-clearfix{min-height:0}.ui-helper-zfix{width:100%;height:100%;top:0;left:0;position:absolute;opacity:0;filter:Alpha(Opacity=0)}.ui-front{z-index:100}.ui-state-disabled{cursor:default!important}.ui-icon{display:block;text-indent:-99999px;overflow:hidden;background-repeat:no-repeat}.ui-widget-overlay{position:fixed;top:0;left:0;width:100%;height:100%}.ui-autocomplete{position:absolute;top:0;left:0;cursor:default}.ui-menu{list-style:none;padding:0;margin:0;display:block;outline:0}.ui-menu .ui-menu{position:absolute}.ui-menu .ui-menu-item{position:relative;margin:0;padding:3px 1em 3px .4em;cursor:pointer;min-height:0;list-style-image:url(data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)}.ui-menu .ui-menu-divider{margin:5px 0;height:0;font-size:0;line-height:0;border-width:1px 0 0}.ui-menu .ui-state-active,.ui-menu .ui-state-focus{margin:-1px}.ui-menu-icons{position:relative}.ui-menu-icons .ui-menu-item{padding-left:2em}.ui-menu .ui-icon{position:absolute;top:0;bottom:0;left:.2em;margin:auto 0}.ui-menu .ui-menu-icon{left:auto;right:0}.ui-slider{position:relative;text-align:left}.ui-slider .ui-slider-handle{position:absolute;z-index:2;width:1.2em;height:1.2em;cursor:default;-ms-touch-action:none;touch-action:none}.ui-slider .ui-slider-range{position:absolute;z-index:1;font-size:.7em;display:block;border:0;background-position:0 0}.ui-slider.ui-state-disabled .ui-slider-handle,.ui-slider.ui-state-disabled .ui-slider-range{filter:inherit}.ui-slider-horizontal{height:.8em}.ui-slider-horizontal .ui-slider-handle{top:-.3em;margin-left:-.6em}.ui-slider-horizontal .ui-slider-range{top:0;height:100%}.ui-slider-horizontal .ui-slider-range-min{left:0}.ui-slider-horizontal .ui-slider-range-max{right:0}.ui-slider-vertical{width:.8em;height:100px}.ui-slider-vertical .ui-slider-handle{left:-.3em;margin-left:0;margin-bottom:-.6em}.ui-slider-vertical .ui-slider-range{left:0;width:100%}.ui-slider-vertical .ui-slider-range-min{bottom:0}.ui-slider-vertical .ui-slider-range-max{top:0}                                    </style>
-
+                                            <link href="http://iprice.sg/css/iprice-min.css" type="text/css" rel="stylesheet">
+                    
         
         <link href="https://plus.google.com/115299899631681528189" rel="publisher">
 
             </head>
     <body>
         <!-- Google Tag Manager -->
-        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N5KTR9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-        <script src="https://script.crazyegg.com/pages/scripts/0031/9065.js?439027" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N5KTR9"></script><script>    dataLayer = [{
-        'gaContentGroup': 'page'
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N5KTR9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>    dataLayer = [{
+        'gaContentGroup': 'static'
     }];
 (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-N5KTR9');</script>
-        <!-- end -->
-
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-N5KTR9');</script>
+<!-- end -->
         <!-- Facebook Like JS -->
         <div id="fb-root"></div>
         <script>(function(d, s, id) {
@@ -78,7 +83,7 @@
                     <input type="text" class="news-email" name="news-email" placeholder="Enter Your Email Here">
                     <input type="button" class="button women" value="Women" onclick="iprice.newsletter.subscribePopup('women')">
                     <input type="button" class="button men" value="Men" onclick="iprice.newsletter.subscribePopup('men')">
-                    <input type="hidden" name="_token" value="XbrigjFQ5MZEdM05UB49pfVB7X8N9zWyBQ6ZW17S">
+                    <input type="hidden" name="_token" value="utiYmuNSTukFDVw9v2BIWniOEFnpjD5gikQRIOl4">
                     <input type="hidden" name="_source">
                     <div class="news-error"></div>
                 </form>
@@ -86,29 +91,13 @@
             </div>
         </div>
 
-        <div id="news-slider" class="closed hide-mobile -ce-capture">
-            <span class="news-text">Sign up for our newsletter and never miss the latest offers and promotions:</span>
-            <form>
-                <input type="text" class="news-email" name="news-email" placeholder="Enter Your Email Here">
-                <input type="button" class="button women" value="Women" onclick="iprice.newsletter.subscribeSlider('women')">
-                <input type="button" class="button men" value="Men" onclick="iprice.newsletter.subscribeSlider('men')">
-                <input type="hidden" name="_token" value="XbrigjFQ5MZEdM05UB49pfVB7X8N9zWyBQ6ZW17S">
-                <span class="news-error"></span>
-            </form>
-            <a href="#" class="news-close" onclick="iprice.newsletter.toggleSlider();" rel="nofollow">hide</a>
-        </div>
-
         <header>
             <div id="banner">
                 <div class="wrapper">
-                    <div id="logo" class="-ce-capture"><a href="/"><img src="http://iprice.sg/img/logo.png" alt="iprice Logo"></a></div>
+                    <div id="logo" class="-ce-capture"><a href="http://iprice.sg/"><img src="http://iprice.sg/img/logo.png" alt="iprice Logo"></a></div>
 
                     <div id="news-button" class="hide-tablet -ce-capture">
-                        <button onclick="iprice.newsletter.togglePopup()">Newsletter Sign Up</button>
-                    </div>
-
-                    <div id="networks" class="hide-tablet -ce-capture">
-                        <div class="fb-like" data-href="http://www.facebook.com/iPriceSingapore" data-layout="box_count" data-action="like" data-show-faces="false" data-share="false"></div>
+                        <button class="manual-optin-trigger" data-optin-slug="irsvbfcpcorcfagr">Newsletter Sign Up</button>
                     </div>
 
                     <div id="search" class="-ce-capture">
@@ -116,6 +105,89 @@
                             <input type="text" name="term" id="term" autocomplete="off" placeholder="Search for products, coupons or brands...">
                             <button type="submit"></button>
                         </form>
+                        <div class="popular-searches">
+                            <div class="sitem">
+                                <ul>
+                                    <li class="stitle"><a>Popular&nbsp;:&nbsp;</a></li>
+                                                                                                                        <li>
+                                                <a onclick="iprice.util.filter(&quot;search/&quot;, {&quot;term&quot;:&quot;adidas&quot;})">
+                                                    adidas
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a onclick="iprice.util.filter(&quot;search/&quot;, {&quot;term&quot;:&quot;backpack&quot;})">
+                                                    backpack
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a onclick="iprice.util.filter(&quot;search/&quot;, {&quot;term&quot;:&quot;havaianas&quot;})">
+                                                    havaianas
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a onclick="iprice.util.filter(&quot;search/&quot;, {&quot;term&quot;:&quot;Wallet&quot;})">
+                                                    Wallet
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a onclick="iprice.util.filter(&quot;search/&quot;, {&quot;term&quot;:&quot;Longchamp&quot;})">
+                                                    Longchamp
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a onclick="iprice.util.filter(&quot;search/&quot;, {&quot;term&quot;:&quot;Nike&quot;})">
+                                                    Nike
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a onclick="iprice.util.filter(&quot;search/&quot;, {&quot;term&quot;:&quot;handbags&quot;})">
+                                                    handbags
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a onclick="iprice.util.filter(&quot;search/&quot;, {&quot;term&quot;:&quot;Shoes&quot;})">
+                                                    Shoes
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a onclick="iprice.util.filter(&quot;search/&quot;, {&quot;term&quot;:&quot;Bag&quot;})">
+                                                    Bag
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a onclick="iprice.util.filter(&quot;search/&quot;, {&quot;term&quot;:&quot;Prada&quot;})">
+                                                    Prada
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a onclick="iprice.util.filter(&quot;search/&quot;, {&quot;term&quot;:&quot;tote%20bag&quot;})">
+                                                    tote bag
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a onclick="iprice.util.filter(&quot;search/&quot;, {&quot;term&quot;:&quot;Belt&quot;})">
+                                                    Belt
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a onclick="iprice.util.filter(&quot;search/&quot;, {&quot;term&quot;:&quot;Coach&quot;})">
+                                                    Coach
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a onclick="iprice.util.filter(&quot;search/&quot;, {&quot;term&quot;:&quot;Fossil&quot;})">
+                                                    Fossil
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a onclick="iprice.util.filter(&quot;search/&quot;, {&quot;term&quot;:&quot;Adidas&quot;})">
+                                                    Adidas
+                                                </a>
+                                            </li>
+                                                                                                            </ul>
+                            </div>
+                            <div class="more"><ul><li><a onclick="iprice.util.filter(&quot;keywords/&quot;, [])" "="">+ More</a></li></ul></div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -124,82 +196,87 @@
                 <div class="wrapper">
                     <ul id="menu-more">
                         <li>
-                            <a href="/categories/">+ More</a>
+                            <a href="http://iprice.sg/categories/">+ More</a>
                         </li>
                         <li id="menu-coupons">
-                            <a href="/coupons/">Coupons</a>
+                            <a href="http://iprice.sg/coupons/">Coupons</a>
                                                             <ul>
                                                                         <li>
-                                        <a href="/coupons/agoda/">
+                                        <a href="http://iprice.sg/coupons/agoda/">
                                             Agoda
                                         </a>
                                     </li>
                                                                         <li>
-                                        <a href="/coupons/amazoncom/">
-                                            Amazon.com
+                                        <a href="http://iprice.sg/coupons/expedia/">
+                                            Expedia
                                         </a>
                                     </li>
                                                                         <li>
-                                        <a href="/coupons/foodpanda/">
+                                        <a href="http://iprice.sg/coupons/foodpanda/">
                                             foodpanda
                                         </a>
                                     </li>
                                                                         <li>
-                                        <a href="/coupons/groupon/">
+                                        <a href="http://iprice.sg/coupons/groupon/">
                                             Groupon
                                         </a>
                                     </li>
                                                                         <li>
-                                        <a href="/coupons/hotelscom/">
+                                        <a href="http://iprice.sg/coupons/hotelscom/">
                                             Hotels.com
                                         </a>
                                     </li>
                                                                         <li>
-                                        <a href="/coupons/lazada/">
+                                        <a href="http://iprice.sg/coupons/lazada/">
                                             Lazada
                                         </a>
                                     </li>
                                                                         <li>
-                                        <a href="/coupons/luxola/">
+                                        <a href="http://iprice.sg/coupons/lushprotein/">
+                                            LushProtein
+                                        </a>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://iprice.sg/coupons/luxola/">
                                             Luxola
                                         </a>
                                     </li>
                                                                         <li>
-                                        <a href="/coupons/melissa/">
+                                        <a href="http://iprice.sg/coupons/melissa/">
                                             Melissa
                                         </a>
                                     </li>
                                                                         <li>
-                                        <a href="/coupons/rakuten/">
+                                        <a href="http://iprice.sg/coupons/rakuten/">
                                             Rakuten
                                         </a>
                                     </li>
                                                                         <li>
-                                        <a href="/coupons/redmart/">
+                                        <a href="http://iprice.sg/coupons/redmart/">
                                             Redmart
                                         </a>
                                     </li>
                                                                         <li>
-                                        <a href="/coupons/smartbuyglassescom/">
+                                        <a href="http://iprice.sg/coupons/smartbuyglassescom/">
                                             SmartBuyGlasses.com
                                         </a>
                                     </li>
                                                                         <li>
-                                        <a href="/coupons/yoox/">
+                                        <a href="http://iprice.sg/coupons/yoox/">
                                             Yoox
                                         </a>
                                     </li>
                                                                         <li>
-                                        <a href="/coupons/zalora/">
+                                        <a href="http://iprice.sg/coupons/zalora/">
                                             Zalora
                                         </a>
                                     </li>
                                                                         <li>
-                                        <a href="/coupons/zuji/">
+                                        <a href="http://iprice.sg/coupons/zuji/">
                                             Zuji
                                         </a>
                                     </li>
-                                                                        <li class="more"><a href="/stores/">+ More</a></li>
+                                                                        <li class="more"><a href="http://iprice.sg/stores/">+ More</a></li>
                                 </ul>
                                                     </li>
                     </ul>
@@ -207,40 +284,34 @@
                     <div id="navigation">
                                             <ul class="navigation">
         <li>
-    	    	        <a href="/electronics/">Electronics</a>
+        <a href="http://iprice.sg/electronics/" data-category="electronics">Electronics</a>
             </li>
         <li>
-    	    	        <a href="/clothing/">Clothing</a>
+        <a href="http://iprice.sg/clothing/" data-category="clothing">Clothing</a>
             </li>
         <li>
-    	    	        <a href="/shoes/">Shoes</a>
+        <a href="http://iprice.sg/shoes/" data-category="shoes">Shoes</a>
             </li>
         <li>
-    	    	        <a href="/bags/">Bags</a>
+        <a href="http://iprice.sg/bags/" data-category="bags">Bags</a>
             </li>
         <li>
-    	    	        <a href="/watches/">Watches</a>
+        <a href="http://iprice.sg/watches/" data-category="watches">Watches</a>
             </li>
         <li>
-    	    	        <a href="/jewellery/">Jewellery</a>
+        <a href="http://iprice.sg/jewellery/" data-category="jewellery">Jewellery</a>
             </li>
         <li>
-    	    	        <a href="/kids-toys/">Kids &amp; Toys</a>
+        <a href="http://iprice.sg/kids-toys/" data-category="kids-toys">Kids &amp; Toys</a>
             </li>
         <li>
-    	    	        <a href="/sports-outdoors/">Sports &amp; Outdoors</a>
+        <a href="http://iprice.sg/sports-outdoors/" data-category="sports-outdoors">Sports &amp; Outdoors</a>
             </li>
         <li>
-    	    	        <a href="/home-living/">Home &amp; Living</a>
+        <a href="http://iprice.sg/home-living/" data-category="home-living">Home &amp; Living</a>
             </li>
         <li>
-    	    	        <a href="/beauty-health/">Beauty &amp; Health</a>
-            </li>
-        <li>
-    	    	        <a href="/media-books/">Media &amp; Books</a>
-            </li>
-        <li>
-    	    	        <a href="/automotive/">Automotive</a>
+        <a href="http://iprice.sg/health-beauty/" data-category="health-beauty">Health &amp; Beauty</a>
             </li>
     </ul>
                                         </div>
@@ -294,19 +365,7 @@
         </div>
 
         <footer>
-            <div id="news-footer" class="hide-mobile -ce-capture">
-                <div class="wrapper">
-                    <div class="news-signup">Sign Up For Our Newsletter</div>
-                    <div class="news-slogan">Never miss the latest offers and promotions</div>
-                    <form>
-                        <input type="text" class="news-email" name="news-email" placeholder="Enter Your Email Here">
-                        <input type="button" class="button women" value="Women" onclick="iprice.newsletter.subscribeFooter('women')">
-                        <input type="button" class="button men" value="Men" onclick="iprice.newsletter.subscribeFooter('men')">
-                        <input type="hidden" name="_token" value="XbrigjFQ5MZEdM05UB49pfVB7X8N9zWyBQ6ZW17S">
-                        <div class="news-error"></div>
-                    </form>
-                </div>
-            </div>
+            <div id="om-f5zkhincfa9kgrv3-holder"></div>
 
             <div id="links">
                 <div class="wrapper">
@@ -314,22 +373,39 @@
                         <div>iprice group</div>
                         <ul>
                             <li>
-                                <a href="/about-us/">About Us</a>
+                                <a href="http://ipricegroup.com/" target="_blank">
+                                    About Us
+                                </a>
                             </li>
                             <li>
-                                <a href="/contact/">Contact Us</a>
+                                <a href="http://iprice.sg/blog/">
+                                    Blog
+                                </a>
                             </li>
                             <li>
-                                <a href="/careers/">Careers</a>
+                                <a href="http://ipricegroup.com/contact.html" target="_blank">
+                                    Contact Us
+                                </a>
                             </li>
                             <li>
-                                <a href="/partner/">Partners</a>
+                                <a href="http://ipricegroup.com/career.html" target="_blank">
+                                    Careers
+                                </a>
                             </li>
                             <li>
-                                <a href="/privacy-policy/">Privacy Policy</a>
+                                <a href="http://ipricegroup.com/partner.html" target="_blank">
+                                    Partners
+                                </a>
                             </li>
                             <li>
-                                <a href="/terms-of-use/">Terms of Use</a>
+                                <a href="http://iprice.sg/privacy-policy/">
+                                    Privacy Policy
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://iprice.sg/terms-of-use/">
+                                    Terms of Use
+                                </a>
                             </li>
                         </ul>
                     </div>
@@ -338,16 +414,16 @@
                         <div>Social</div>
                         <ul>
                                                     <li>
-                                <a href="http://www.facebook.com/iPriceSingapore" class="facebook" target="_blank">Facebook</a>
+                                <a href="https://www.facebook.com/ipriceSingapore" class="facebook" target="_blank">Facebook</a>
                             </li>
                                                                             <li>
-                                <a href="http://www.pinterest.com/ipricesg" class="pinterest" target="_blank">Pinterest</a>
+                                <a href="https://www.pinterest.com/ipricesg" class="pinterest" target="_blank">Pinterest</a>
                             </li>
                                                                             <li>
-                                <a href="http://twitter.com/iPriceSG" class="twitter" target="_blank">Twitter</a>
+                                <a href="https://twitter.com/iPriceSG" class="twitter" target="_blank">Twitter</a>
                             </li>
                                                                             <li>
-                                <a href="http://plus.google.com/109805765228918963403" class="google-plus" target="_blank">Google+</a>
+                                <a href="http://plus.google.com/+Ipricegroup/about" class="google-plus" target="_blank">Google+</a>
                             </li>
                                                 </ul>
                     </div>
@@ -356,25 +432,25 @@
                         <div>International</div>
                         <ul>
                             <li>
-                                <a href="http://iprice.sg" class="singapore">Singapore</a>
+                                <a href="http://iprice.sg/" class="singapore">Singapore</a>
                             </li>
                             <li>
-                                <a href="http://iprice.my" class="malaysia">Malaysia</a>
+                                <a href="http://iprice.my/" class="malaysia">Malaysia</a>
                             </li>
                             <li>
-                                <a href="http://iprice.co.id" class="indonesia">Indonesia</a>
+                                <a href="http://iprice.co.id/" class="indonesia">Indonesia</a>
                             </li>
                             <li>
-                                <a href="http://iprice.ph" class="philippines">Philippines</a>
+                                <a href="http://iprice.ph/" class="philippines">Philippines</a>
                             </li>
                             <li>
-                                <a href="http://iprice.hk" class="hong-kong">Hong Kong</a>
+                                <a href="http://iprice.hk/" class="hong-kong">Hong Kong</a>
                             </li>
                             <li>
-                                <a href="http://ipricethailand.com" class="thailand">Thailand</a>
+                                <a href="http://ipricethailand.com/" class="thailand">Thailand</a>
                             </li>
                             <li>
-                                <a href="http://iprice.vn" class="vietnam">Vietnam</a>
+                                <a href="http://iprice.vn/" class="vietnam">Vietnam</a>
                             </li>
                         </ul>
                     </div>
@@ -391,16 +467,8 @@
 
                     </footer>
 
-        <script type="text/javascript" async="" defer="" src="https://apis.google.com/js/platform.js?publisherid=115299899631681528189"></script>
-        <script type="text/javascript">
-            setTimeout(function(){var a=document.createElement("script");
-            var b=document.getElementsByTagName("script")[0];
-            a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0031/9065.js?"+Math.floor(new Date().getTime()/3600000);
-            a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-        </script>
-
                 <script type="text/javascript" async="" defer="" src="http://iprice.sg/js/iprice-min.js"></script>
         
-            
+            <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"8dda9b4e7b","applicationID":"8812555","transactionName":"bwEAbUcCDxFQB0AMV1ZLI1pBCg4MHi1EF1FbAT56Wg0VEF4IWABKZCcNV0EGDxZyC1oRSlcIDlxHIwwLQhddC191ARZRWgc=","queueTime":0,"applicationTime":33,"atts":"Q0YDGw8YHB8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
 
 </body></html>
