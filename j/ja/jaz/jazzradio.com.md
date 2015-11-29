@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jazzradio.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330014207id_/http%3A//www.jazzradio.com/member/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jazzradio.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129014155id_/http%3A//www.jazzradio.com/member/privacy) for the most accurate reproduction.*
 
 # JAZZRADIO.com - enjoy great jazz music
 
-We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to the JAZZRADIO.com website ("Website") produced and maintained by Radiotunes, LLC (collectively "Company" or "we", "us", or "our").
+We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to the JAZZRADIO.com website ("Website") produced and maintained by Radio World, LLC (collectively "Company" or "we", "us", or "our").
 
 The policies below are applicable to the Website (however accessed and/or used), whether via personal computers, mobile devices or otherwise, and other interactive features, applications or downloads that are operated by us that are made available by us. We have established this privacy policy ("Privacy Policy") to let you know the kinds of personal information we may gather during your visit to the Website, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.
 
@@ -64,8 +64,10 @@ We are committed to maintaining its position as a leading Website on the interne
 
 You may always opt out of receiving future e-mail messages and newsletters from Company. We provide you with the opportunity to opt-out of receiving communications from us at the point where we request information about you. We also give you access to a broad range of information about your account to permit you to correct or update Personal Information that you have previously provided to us. To do so, send an email to policies@jazzradio.com.
 
+You may also visit the Network Advertising Initiative opt-out tool [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices) in order to opt out of Internet-Based Advertising from participating companies.
+
 California Civil Code Section 1798.83 permits customers of Company who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, send an email to policies@jazzradio.com.
 
 The Data Controller for the website and any services provided is:
 
-Radiotunes, LLC PO Box 343 Pearland, TX 77588 USA
+Radio World, LLC PO Box 434 Pearland, TX 77588 USA
