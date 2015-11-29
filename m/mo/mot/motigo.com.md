@@ -1,163 +1,92 @@
-> *The following text is extracted and transformed from the motigo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060935id_/http%3A//motigo.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motigo.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129081912id_/http%3A//www.motigo.com/en_US/legal/privacy) for the most accurate reproduction.*
 
-# free tools for your website | Motigo
+# Motigo
 
-## Privacy Policy
+In this data privacy statement we, Motigo GmbH & Co KG ("Motigo"), should like to explain to you how we process your personal data. We are very conscious of the importance of handling with care all personal data, which the user has passed to us and accordingly comply with all the relevant legal provisions for data protection. Our highest priority is that personal privacy should be protected. Therefore we comply with the legal provisions for data protection as a matter of course.
 
-Motigo is a trade name (Alias) used of Web Measurement Services B.V., Hogehilweg 15, NL-1101 CB Amsterdam, Netherlands
+## Responsible authority / contact
 
-### Introduction
+The responsible authority within the meaning of the data protection laws is: Motigo GmbH & Co KG, Rotdornweg 6, 52355 Düren, Germany. Should you have questions or suggestions concerning data protection, do not hesitate to contact us at support@motigo.com.
 
-We, Web Measurement Services B.V. ('WMS'), acknowledge and respect an individual's right to privacy. In this Privacy Policy, we will try to explain as clearly as possible how WMS handles your Personal Data. For the definitions of the terms used in this Privacy Policy, we refer to the definitions set out below.
+## Meaning
 
-In the 'Privacy Policy for Visitors' section of this Privacy Policy, we explain how we handle the Personal Data of the Visitors to this web site and of the web sites of our Clients (to the extent that the web sites of our Clients are measured by means of a service or by means of the software of WMS). In the 'Privacy Policy for Clients' section, we explain how we handle the Personal Data of our Clients and further explain how we use Personal Data collected from Visitors to their web sites on their behalf. In that section we also provide our Clients with information on the Applicable Privacy Legislation.
+Personal data are all the information concerning personal and factual relationships of an identified or identifiable person. This includes, for example, information and details such as your name, address or other postal address, your telephone number and your e-mail address.
 
-### Privacy Policy for Visitors
+## Intended purposes
 
-#### The services and software of WMS
+We collect personal data only when you have provided us with them and only to the extent and for the purpose for which you sent them to us, e.g. as part of the registration process or to process the contractual relationship with our company. Therefore we use and store your personal data only when you have expressly given us your informed consent and only to the extent, to which you have given you express permission, for example in accordance with the contractual relationship with our company. These details are stored by us on a specially protected server in Germany, and all the information on your identity are collected together by us only when you have expressly provided them to us.
 
-On the instruction of its Clients, WMS Processes Measuring Data on the visits to web sites of its Clients, by means of its services and software. WMS also Processes some of those Measuring Data for its own purposes (see below) and Processes Measuring Data on the visits to its own web site.
+## Data protection
 
-WMS Processes Measuring Data from its Clients' web sites or from its own web site by means of software that runs on one of WMS's servers.
+We have put in place a comprehensive range of technical and organisational measures to protect your data against possible risks, such as unauthorised access or seizure, unauthorised cognisance, modification or distribution, as well as against loss, destruction or mis-use. In order to protect your personal data from unauthorised access by third parties, when the data are being transferred, we secure data transfers , where necessary by means of SSL encryption. This is a standardised encryption procedure for on-line services, in particular for the Web.
 
-Clients may also Process Measuring Data themselves by means of locally installed software (i.e. software that runs on the Clients' own servers), in which case WMS will not handle any of the Personal Data, and
+  1. “Motigo” does not collect or process any personal data in contracts for purely advertising purposes (e.g. by showing advertising on a website) Only non-personal data - such as details of the servers, through which the user has entered the Internet, the browser used and whether the respective user has clicked on the advertising - are logged anonymously. There is no reference to a person.
+  2. “Motigo” media collects and processes personal data by means of various advertising media (pop-ups, pop-unders, banners). In this process the scope and type of data depends on the respective information, which the user enters by filling out the respective input fields and forwards to “Motigo” by sending this information. If a contractual relationship exists between “Motigo” media and the Internet user (for example in a request for a newsletter), “Motigo” media shall process and use the data collected from the user to fulfil its obligations towards the user, insofar as this is necessary for this purpose.
+  3. “Motigo” media shall collect, process and use data for purposes going beyond the transaction and fulfilment of contractual relationships or relationships resembling contractual relationships, only where it has the express informed consent of the user and only to the extent permitted by this consent. Such purposes for the most part concern marketing and use the collected data inter alia as content for market research, customer acquisition, product information or developing the company's services.
+  4. “Motigo” media relies on the double opt-in solution: the user, who has given his informed consent to the use of his data for the stated purposes, confirms this consent in a second step. In this way “Motigo” media ensures that it is this user alone who is entering the data and who is releasing the data for use by “Motigo” media. In this way “Motigo” media respects the user's right to informational self-determination.
 
-Visitors should consult the Client's own Privacy Policy in such cases.
 
-#### Collection of Measuring Data
 
-##### Personal Data
+## Cookies
 
-On the instruction of its Clients, WMS can Process Personal Data (see 'IP Addresses', and 'Cookies'). WMS does without individual permission by the visitor not Process Personal Data for its own purposes, save for the following set out below.
+“Motigo” media uses what are known as "cookies" to optimise the use of the Internet by the reducing the number of repetitions of advertising and increasing the proportion of content relevant to the user. Cookies are text files, which are stored on your computer and which can be used for various purposes, such as for the user-friendly configuration of the offer. However, it is not absolutely necessary that “Motigo” media uses cookies. The user can, therefore, adjust the setting of his Internet browser at any time to deactivate the cookies function or log in and out of the “Motigo” network on the following link: http://www.motigo.com. You can basically prevent cookies from being stored on your computer by adjusting the settings on your Internet browser to prevent the storage of such text files on your computer. In addition, you can delete cookies stored on your computer at any time. You will find support at the contact address above. Cookies are not used to collect personal data.
 
-##### IP Addresses
+## Log files
 
-WMS does Process IP Addresses. By means of additional information (for instance provided by an Internet Service Provider or the Visitor himself), entire IP Addresses can be linked to a person and can be regarded as Personal Data. WMS does not use the IP Addresses that it collects either on this web site or on its Clients' web sites to make such links and to personally identify Visitors. The IP Addresses are converted into anonymous statistical information. WMS provides IP Addresses to its Clients in the context of the services that it offers. WMS also uses this information itself (whether obtained from this web site or from its Clients' web sites) for internal research, for promotional purposes and for commercial purposes, and may disclose it in anonymous and aggregated form to third parties.
+Every time you visit your Internet pages usage data are transmitted by the your Internet browser and stored in log files, known as server log files. The data sets stored in this way contain the following data:
 
-##### Anonymous Data
+* domain from which the user accessed the website
+* date and time of access
+* IP address of the computer accessing the site
+* website(s), which the user visited in the context of the offer
+* quantity of date transferred, browser type and version
+* operating system used
+* name of the Internet service provider
+* message, as to whether the access was successful
 
-WMS Processes Anonymous Data (such as pages visited, referring pages and browser types) on this web site and also on its Clients' web sites. WMS provides such information from its Clients' web sites to its Clients in the context of the services that it provides. WMS uses this information itself for internal research, for promotional purposes and for commercial purposes, and may disclose it in aggregated form to third parties.
+These log file datasets are analysed in an anonymised form, in order to improve the offer and to make it more user-friendly, to find and remove errors and to manage the capacity utilisation of servers.
 
-#### Cookies
+## Social Networks
 
-You may be confronted with Cookies in two different ways by visiting the WMS website. The traffic at the WMS web site is measured by means of Cookie. WMS uses Cookies to measure the effectiveness of its web site. WMS uses Personal Data obtained from Cookies for targeting purposes and information storage over a longer period, and may disclose it to third parties in anonymous and aggregated form.
+On our website we use plug-ins for various social networks.
 
-##### AD Servers
+### Facebook
 
-WMS uses the services of ad serving companies and media agencies for placing banners on the statistics pages of Motigo. These media agencies use Cookies. The first time you see a banner, they place a Cookie on your PC. This is done, for instance, to ensure that you do not see certain banners too often and to measure the effectiveness of the banner. WMS cannot control those Cookies. By adjusting the settings of your browser, you may opt to accept Cookies, to be informed when a Cookie is being placed on your PC, or to reject Cookies. Please consult the manual for your browser.
+This website uses the following social plug-ins for the Facebook social network:
 
-##### Storage
+  * Like button
+  * Share button
 
-The Measuring Data will be stored in a central database, controlled by WMS's administrative staff. In the case of data in relation to which WMS is the Data Controller, WMS will keep the information for no longer than is necessary and/or appropriate, depending on the purpose for which it is held.
 
-#### Access by third parties
 
-Our Clients themselves manage the access to the Measuring Data.
+Facebook is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA and can be accessed on www.facebook.de. This individual social plug-ins are identified by one of the Facebook logos or with the endorsement, "Facebook social plug-in". A list showing appearance and functions of the individual plug-ins can be viewed here: developers.facebook.com/docs/plugins. When a site containing one of these social plug-ins accesses our website, a direct link is created between the browser used by you and the Facebook servers. The content of the social plug-in is transmitted directly to your browser by Facebook and linked by it into the website. Therefore, we have no influence on the extent of data collected by Facebook by means of the social plug-in and thus we can inform you only to the level of our state of knowledge: By virtue of the integration of the social plug-ins Facebook is notified that you have visited the relevant page on our website, even if you are not a registered user of Facebook and are not currently logged in to Facebook. This information, together with your IP address is transmitted from your browser to a Facebook server in the USA and stored there. According to Facebook only the anonymised IP address of non-registered users in Germany is stored. If you are logged on to Facebook, Facebook can transfer your access to our website directly to your Facebook account. Facebook receives the information about your visit to our website irrespective of whether you interact with the social plug-ins or not. If you interact with the social plug-ins, for example you activate the "Like" button or give a commentary, the relevant information will be transmitted from your browser directly to Facebook. The information is published on Facebook and displayed to your Facebook friends. The purpose and scope of data collection and the further processing and use of the data by Facebook as well as your rights in this regard and browser setting possibilities to protect your personal privacy can be found on www.facebook.com/about/privacy. If you are a registered user of Facebook and do not wish Facebook to collect data about you via our website and to connect it to your membership data stored with Facebook, you must log out of Facebook prior to visiting our website. Furthermore it is possible to use add-ons for your browser to block the social plug-ins, such as Facebook Blocker, webgraph.com/resources/facebookblocker
 
-#### Privacy legislation
+### Google +
 
-##### Clients of WMS
+The +1 plug-in from Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA is integrated into this website; it can be identified by the +1 symbol on a white or coloured background. If you access one of the pages of our website containing this plug-in, your browser constructs a direct link to the Google servers, whereupon the content of the plug-in is transmitted to your browser and integrated by this into the website. We have no influence on the scope of content of the data, which is collected by this Google plug-in. According to information from Google, unless you click on the plug-in, no personal data can be collected. Data of this kind are collected and processed solely from logged-on Google+ members. If you are logged on to Google+ through your personal account with Google+, Google can assign your access to our website directly to this account. When you interact with plug-ins, click buttons or leave a commentary, this information is transmitted directly to Google and stored there. Furthermore, we cannot exclude that other Google services, which are integrated on our website, connect your data with your Google profile. If you wish to prevent such transmission of your data, you must log out of your Google+ or Google account prior to visiting our website. The purpose and scope of data collection and the further processing and use of the data by Google as well as your rights in this regard and browser setting possibilities to protect your personal privacy can be found on the data protection information from Google concerning the +1 plug-in on www.google.com/intl/de/+/policy/+1button.html and from the FAQ, which can be accessed on http://www.google.com/intl/de/+1/button
 
-Our Clients enter into an agreement with us, in which WMS undertakes to Process Measuring Data on the instruction of its Clients by means of its services and software (such as Motigo). Since our Clients are free to determine for what purposes those Personal Data will be used, they may be regarded as the Data Controller within the meaning of the Applicable Privacy Legislation. WMS acts only as a Processor for its Clients. WMS therefore cannot warrant the manner in which its Clients handle the Personal Data that it provides and does not accept any liability in that respect.
+### Twitter
 
-WMS advises its Clients to observe the Applicable Privacy Legislation and to carefully inform the visitors to their web sites, by means of a privacy policy, of the way in which the Clients handle Personal Data. WMS also advises the Visitors to those web sites to read the privacy policy if they wish to know how their Personal Data are handled.
+This website uses the buttons of the Twitter service, operated by Twitter Inc., 1355 Market St, Suite 900, San Francisco, CA 94103, USA. These plug-ins can be identified by means of expressions such as "twitter" or "tweet" and by the Twitter logo. They make it possible inter alia to share an article or a page from this website on Twitter. When a user accesses a website with this kind of button, his browser constructs a direct link with the Twitter servers. The content of the Twitter buttons is directly transmitted from Twitter to the user's browser. We have, therefore, no influence on the scope of the data collected by Twitter by means of this plug-in and thus can inform the user only based on the state of our knowledge. Thereafter log-on data , such as the IP address of the user , the previously accessed website etc. is transmitted. Further information on this can be found in the Twitter data privacy statement on twitter.com/privacy.
 
-##### WMS
+## External servers
 
-In so far as WMS processes Personal Data for its own purposes (as set out in this Privacy Policy), WMS itself may be regarded as the Data Controller within the meaning of the Applicable Privacy Legislation. We will Process the Personal Data (if any) only in accordance with this Privacy Policy and the Applicable Privacy Legislation.
+If “Motigo” media uses external servers or service providers to store user data, “Motigo” media ensures that these are under at least the same obligations as “Motigo” media itself. “Motigo” media's employees are obliged to protect data secrecy and to observe data protection provisions. This obligation includes inter alia the fact that the employees may process and use the data only insofar as it is required as part of contractual relationships or relationships, which resemble contractual relationships or to the extent that the customer has given his informed consent to the use of his data for the respective purposes. Personal data, which are no longer needed on the part of “Motigo” media to fulfil the purposes of the contract and/or for which there is no (further) informed consent for further processing and use by “Motigo” media, are deleted in a manner, which excludes any possible mis-use.
 
-#### Contact
+## Contractual and cooperation partners
 
-WMS aims at explaining its privacy policy as clearly as possible. If you nevertheless have questions or complaints concerning WMS's privacy policy, or if you wish to exercise your right of access or to rectify your Personal Data or to oppose the Processing thereof, please send an e-mail to info@motigo.com. WMS can also be reached at the following address: Webmeasurement Services B.V., Hogehilweg 15, NL-1101 CB Amsterdam, Netherlands.
+“Motigo” also collects, processes and use personal data on behalf of contractual and cooperation partners (e.g. website operators, advertising customers, agencies) for example for the purpose of generating addresses for subscription to a newsletter, product information, order etc. If “Motigo” media collects data on the basis of such a mandate, the cooperation partner is clearly identifiable at any time.
 
-#### Amendments to this Privacy Policy
+The user can in this case assert his rights solely against “Motigo” media's cooperation partner.
 
-WMS reserves the right to amend from time to time the content of this Privacy Policy. If WMS changes the policy to increase our rights to use your Personal Data, you will be notified on our web site of such changes and we will only apply such wider uses to Personal Data we obtain after the date that the policy was changed.
+If “Motigo” media collects data on behalf of cooperation partners and processes and uses these data, the cooperation partner is responsible for compliance with the provisions of data protection law. In this case “Motigo” media is not responsible to the user for compliance by the cooperation partner with the provisions of data protection law. No rights or duties of any kind whatsoever arise for “Motigo” media, arising from contracts or relationships resembling contracts, which the user has concluded with a cooperation partner. “Motigo” media may have no influence, either direct or indirect, on these contracts. In this case “Motigo” media is bound by directives as regards its cooperation partner.
 
-### Privacy Policy for Clients
+## Other services
 
-If you as a Client use our services and software, WMS will Process the data described below on your instruction. However, WMS will Process some data for its own purposes as well, as described in more detail in this Privacy Policy.
+Of course, “Motigo” media endeavours to work only with those cooperation partners, which comply in the same way as “Motigo” media with the principles concerning data protection law set out in this statement, or which at least guarantee the standards applicable by virtue of the EU Data Protection Directive.
 
-#### Processing of data
+## Deletion, revocation
 
-##### Types of data
+As regards “Motigo” media or its cooperation partners the user has rights to information regarding the data stored concerning the user and to the deletion and blocking of these data. These rights must be asserted against “Motigo” media , if “Motigo” media has collected, processed and used the user's data; these rights must be asserted against the cooperation partner, if this partner has collected, processed or used the user's data through “Motigo” media. If you should have questions on our principles concerning the provisions of data protection law or if you wish to make use of your rights concerning information on, deletion or blocking of your data, please contact us on support@motigo.com
 
-WMS Processes two types of data:
-
-##### Measuring Data
-
-These are the data on your web site that WMS has collected on your instruction. WMS Processes the data into accessible reports. These may be Anonymous Data or Personal Data (such as, in certain cases, IP Addresses); and
-
-##### Your Personal Data
-
-WMS requests these data from you in order to provide you with our services and to contact you and inform you about services and software of WMS. It is always possible to inspect your Personal Data and to amend them if necessary. For that purpose, please send an e-mail to info @ motigo.com.
-
-#### Publication of aggregated data
-
-WMS combines Measuring Data from all of the web sites measured. Those data are presented as a larger unit and cannot be traced to a specific web site. WMS uses those data itself for internal research, for promotional purposes and for commercial purposes, and may disclose the data to third parties. WMS will never publish Personal Data or Measuring Data that relate to your web site in particular without your permission.
-
-#### Cookies and IP Addresses
-
-You may be confronted with Cookies and IP Addresses in three different ways:
-
-##### Via your statistics pages
-
-WMS measures your statistics pages by means of Cookies. If you visit your statistics pages, Motigo places a Cookie on your PC and measures your IP number. WMS does so in order to improve Motigo and to make it more user-friendly.
-
-##### Via the Motigo web site
-
-The Motigo web site is measured by means of Cookie . WMS does so in order to measure the effectiveness of its web site.
-
-##### AD Servers
-
-WMS uses the services of ad serving companies and media agencies for placing banners on the statistics pages of Motigo. These media agencies use Cookies. The first time you see a banner, they place a Cookie on your PC. This is done, for instance, to ensure that you do not see certain banners too often and to measure the effectiveness of the banner. WMS cannot control those Cookies.
-
-#### Privacy Legislation
-
-As a Client of WMS, you yourself are responsible for complying with the Applicable Privacy Legislation. In that context, you will have to inform your Visitors, for instance by means of a privacy policy, about the way in which you handle Personal Data (if any) collected by you. WMS can only advise you to carefully explain to your Visitors, among others, who you are, what Personal Data you Process, for what purposes, and how they can access and rectify their Personal Data and oppose the use thereof.
-
-We would note that, before Processing Personal Data, you may have to file a declaration with the authority that is authorised under the Applicable Privacy Legislation to supervise its enforcement. In some cases, notably in the case of sensitive information such as that relating to a Visitor's health, ethnic origin or disability, you may also need a Visitor's prior approval to Process his or her Personal Data.
-
-In view of the above, we therefore advise you to obtain legal advice on the way in which you may use Personal Data.
-
-#### The safety of your Measuring Data
-
-Your Measuring Data and Personal Data are handled with due care. Your Measuring Data are protected by means of usernames and passwords, known only to you, as the Client. The technical and organisational measures taken by WMS to prevent loss or abuse of and unauthorised access to the data meet industry standards.
-
-#### Request for information from third parties
-
-WMS may be requested to disclose the identity of Clients. WMS will always refuse such requests, unless it is required by law to comply.
-
-#### Contact
-
-WMS aims at explaining its privacy policy as clearly as possible. If you nevertheless have questions or complaints concerning WMS's privacy policy, or if you wish to exercise your right of access or to rectify your Personal Data or to oppose the Processing thereof, please send an e-mail to info @ motigo.com . WMS can also be reached at the following address: Webmeasurement Services B.V., Hogehilweg 15, NL-1101 CB Amsterdam, Netherlands
-
-#### Amendments to this Privacy Policy
-
-WMS reserves the right to amend from time to time the content of this Privacy Policy. If WMS changes the policy to increase our rights to use your Personal Data, you will be notified on our web site of such changes and we will only apply such wider uses to Personal Data we obtain after the date that the policy was changed.
-
-### Definitions
-
-#### Anonymous Data
-
-Anonymous Data are data that cannot be traced to an identifiable or identified person. Examples are: data on the visiting behaviour at web sites, but also on domain names and on the browsers used.
-
-#### Applicable Privacy Legislation
-
-In the Europe Union, the Processing of Personal Data is governed by Directives No 95/46/EC and 2002/58/EC.
-
-That Directive underlies the legislation of the countries of the European Union. For the Netherlands, that is the "Wet bescherming persoonsgegevens" (Law protection personal data) of 6 July 2000 (the 'Law').
-
-The Law governs the Processing of Personal Data and sets out obligations imposed on the Data Controller. Since the Client of WMS enters into an agreement by which WMS undertakes to Process Measuring Data by means of installed software and the Client itself determines the purposes for which it will use those data, the Client is regarded as the Data Controller within the meaning of the Law. The Client must therefore observe the obligations under the Law, and under any applicable legislation.
-
-Insofar as WMS itself can be regarded as the Data Controller, WMS will also observe the obligations under the Law, that WMS is required to observe.
-
-#### Clients
-
-Clients are parties that use a service or software of WMS in order to measure the traffic at their web sites.
-
-#### Cookie
-
-A Cookie is an information file that is sent to your browser by a web server and is then placed on your PC. Cookies make it easier to surf the Internet, because your preferences are stored when you visit a web site. That makes it possible to adjust the web site to your needs.
-
-By changing the settings of your browser, you may opt to accept Cookies, to be informed when a Cookie is placed on your PC, or to reject Cookies. Please consult the manual for your browser.
+Dated: 28.04.2015
