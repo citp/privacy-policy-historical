@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the annmariegianni.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615014937id_/http%3A//www.annmariegianni.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annmariegianni.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129053439id_/http%3A//www.annmariegianni.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Organic Skin Care Products | Annmarie Gianni Skin CareOrganic Skin Care Products | Annmarie Gianni Skin Care
+# Privacy Policy | Annmarie Gianni Skin Care
 
 **What information do we collect?**
 
@@ -34,7 +34,7 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway provider’s database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
@@ -79,8 +79,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://www.annmariegianni.com  
-2532 Durant Ave, Suite 105 / 107  
-Berkeley, CA 94704  
+821 Bancroft Way  
+Berkeley, CA 94710  
 USA  
-info@annmariegianni.com  
+ask@annmariegianni.com  
 1-866-729-9434
