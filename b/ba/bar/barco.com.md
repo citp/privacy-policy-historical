@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barco.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616130501id_/http%3A//barco.com/en/AboutBarco/Privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barco.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129173639id_/http%3A//www.barco.com/en/AboutBarco/Privacy%2520policy) for the most accurate reproduction.*
 
 # About Barco | Privacy policy | Barco
 
@@ -7,6 +7,23 @@ Barco appreciates your interest in the company and wants to thank you for browsi
 Barco collects personally identifiable information from web visitors and customers with the purpose of providing a better, more personal experience and delivering better targeted services and information. Barco respects and protects the privacy of the individuals who visit the Barco website and personally identifiable information is not willfully disclosed to any third party without your permission as explained in this privacy policy. Your personally identifiable data are processed by Barco nv, with registered office at President Kennedypark 35, 8500 Kortrijk, Belgium. 
 
 This privacy policy covers www.barco.com and all sites residing under this top domain.
+
+  * How do we use your information?
+  * What information do we collect and for which purposes?
+  * Cookies
+  * With whom does Barco share information?
+  * How long will Barco keep my personal information?
+  * Links to other sites
+  * Newsletters & emails
+  * Legal disclosures
+  * Your passwords
+  * Data security
+  * Your rights
+  * Consent
+  * Changes to the privacy policy
+  * Questions
+
+
 
 ## How do we use your information?
 
@@ -56,13 +73,17 @@ Information supplied by cookies can help us to analyze the profile of our visito
 
 Please note that during your visits to Barco websites you may notice some cookies that are not related to Barco. When you visit a page with content embedded from, for example, YouTube or Flickr, you may be presented with cookies from these websites. Barco does not control the dissemination or use of these cookies. You should check the third party websites for more information about these.
 
-## With whom does Barco share information? 
-
 Barco will not actively sell or make personally identifiable information available to parties other than Barco’s affiliates. We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide services to you or in order to do their jobs.
 
 ## How long will Barco keep my personal information?
 
 We will hold your personal information on our systems for as long as is necessary for the relevant activity, or as long as is set out in any relevant contract you have with Barco. If you cancel your registration or delete your Barco account, the account is flagged so that we no longer use the personal information. However, the information stays on the system for a maximum of 5 years after your last interaction with any member of the Barco group of companies.
+
+## Newsletters & emails
+
+Barco may send you email communications and/or newsletters, based on your subscriptions or your business relation with Barco.   
+We will only use your name and email address in order to inform you and/or to send you our newsletters.   
+If you no longer wish to receive such communications, you can follow the unsubscribe instructions contained in each of the communications you receive. 
 
 ## Links to other sites 
 
