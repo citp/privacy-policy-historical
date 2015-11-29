@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jiffstore.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623055735id_/http%3A//www.jiffstore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiffstore.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129182203id_/http%3A//www.jiffstore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
