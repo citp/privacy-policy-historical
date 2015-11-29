@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logoopenstock.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612195045id_/http%3A//www.logoopenstock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logoopenstock.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129224700id_/http%3A//www.logoopenstock.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Logo Open Stock
 
