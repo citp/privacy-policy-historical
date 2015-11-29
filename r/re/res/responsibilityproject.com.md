@@ -1,64 +1,102 @@
-> *The following text is extracted and transformed from the responsibilityproject.com privacy policy that was archived on 2015-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150222034955id_/http%3A//responsibility-project.libertymutual.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsibilityproject.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129182727id_/http%3A//www.libertymutualgroup.com/omapps/ContentServer%3Fpagename%3DLMGroup/Views/lmgDisclosure%26cid%3D1138362980102) for the most accurate reproduction.*
 
-# | The Responsibility Project by Liberty Mutual
+# Liberty Mutual
 
-For use of http://responsibility-project.libertymutual.com Last modified on: Tue, 09/10/2013 - 17:04
+**Internet Privacy Policy  
+**At Liberty Mutual Insurance we are dedicated to "Helping People Live Safer, More Secure Lives", our commitment to this message is carried through by "securing" your privacy on the web. Please read the following Internet Privacy Policy which explains how we at Liberty Mutual Insurance endeavor to build your trust and security through our web policies.
 
-At Liberty Mutual we are dedicated to “Helping People Live Safer, More Secure Lives”, our commitment to this message is carried through by “securing” your privacy on the web. Please read the following Internet Privacy Policy which explains how we at Liberty Mutual endeavor to build your trust and security through our web policies.
+This Internet Privacy Policy applies to your visit to our web site [www.libertymutual.com](http://www.libertymutual.com/) and its affiliated sites. If you are an individual who has purchased an automobile, homeowners, or life insurance product from Liberty Mutual, or if you are a claimant under a disability policy, you or your employer have received or will be receiving in the mail a copy of Liberty Mutual's Privacy Disclosure Statement which contains important additional information about our privacy practices.
 
-### Information Gathering
+**  
+Information Gathering**
 
-The level of information gathered by Liberty Mutual varies depending upon your request. Here are some examples of the types of information the responsibilityproject.com web site collects if you choose to provide it:
+The level of information gathered by Liberty Mutual varies depending upon your request. The gathering of this information is designed with you in mind so that we can better service the products we offer you. Here are some examples of the types of information the Liberty Mutual web site collects if you choose to provide it:
 
-  * “Contact Us” & Other Email Forms — Name & Email Address
-  * Request for Information Forms — Name & Mailing Address and/or Email Address
-  * Submissions to the website Blog (which are also subject to the [Comment Submission Guidelines](http://responsibility-project.libertymutual.com/content/comment-submission-guidelines))
-  * Polls and surveys you may complete on the website
-  * Zip code you may enter in quoting application
-  * Information you may enter in connection with a promotion
+  * "Contact Us" & Other Email Forms - Name & Email Address
+  * Request for Information Forms - Name & Mailing Address and/or Email Address
+  * Event Registration Forms - Name, Email Address, Mailing Address, Company, Title & Phone Number
+  * Newsletter Subscriptions - Name, Email Address, Mailing Address, Company, Title & Phone Number
+  * Resume Builder - Name, Address, Phone Number, Education, Certifications & Work Experience
+  * Auto Quoting Application - Name, Email Address, Mailing Address, Phone Number, Household and Driver information, Date of Birth, Vehicle and Coverage information, Discount eligibility information, Social Security Number, Consumer Reporting and Department of Motor Vehicle information
+  * Home Quoting Application - Name, Email Address, Mailing Address, Phone Number, Date of Birth, Property Address and Coverage information, Discount eligibility information, Social Security Number and Consumer Reporting information.
+  * Life Quoting Tool – Name, Email Address, Phone Number, Resident State, Date of Birth, Gender, Tobacco Use, Health and Other Personal Information for Estimated Underwriting Classification, Quoted Coverage Type, Amount and Premium
+  * Claims Service Online Reporting - Name, Address, Date of Birth, Policy Number, Phone, information about the claim or accident, information about the occupants of the other vehicle(s) (if applicable), the names of witnesses & other contact information
+  * Disability claim or Leave of Absence Online Reporting - Name, Address, Date of Birth, Phone, Employer, information about the claim or leave
+  * Safety & Health Online Catalog Order Form - Name, Email Address, Mailing Address, Company, Title, Phone Number
+  * Risk Strategies Library Registration - Name, Email Address, Mailing Address, Company, Title, Phone Number
+  * Online Customer Service - Name, Address, Phone Number, Policy Number, last 4 digits of your social security number and date of birth, nature of request.
+  * Liberty Mutual Rewards - Name, Mailing Address, Email Address, Gender, Customer Status.
+  * eBilling - Name, Address, Phone Number, Email address, Banking information, Credit Card number if provided.
+  * Play Positive™ - Name, Mailing Address, Email address, Phone number, Favorite sport, Affiliated youth sport partner, Organization information (Name, Nickname, Website, Facebook page, Twitter handle, Type, Ages Served, Address)
+  * Social networking websites - You may choose to utilize your social media profile from select social networking sites such as Facebook, Twitter, Google+ and other like-type social media sites to access content on our websites. By doing so, you specifically grant permission and authorize us to collect, store and use authorized personal information from these sites as indicated during the use and authorization process
 
 
 
-### Using Information Gathered
+**Using Information Gathered**  
+The information Liberty Mutual collects is used to provide policy quotes when requested, administer insurance policies, answer questions or concerns, register participants for Liberty Mutual sponsored events, Liberty Mutual Rewards, content and provide information requested in a timely manner.
 
-The information Liberty Mutual collects via the responsibilityproject.com website is used to answer questions or concerns, register participants for the website, and provide information requested in a timely manner.
+We also collect information from prospective employees who are interested in applying for a position with Liberty Mutual. We may transfer, process, and store information you provided in the United States and other countries, some of which may have less protective data protection laws than the region in which you reside. Where this is the case, we will take appropriate measures to protect your personal information in accordance with this Privacy Policy. Liberty Mutual complies with the U.S.–EU Safe Harbor frameworks.  
+ 
 
 By using our website, Liberty Mutual is able to log general statistical information (from log files) such as: the domain name, IP address and browser type of our web site visitors. With the information gathered, we are better able to create a customized experience for your visit to our web site. The log file information does not contain personally identifiable information, such as name, address, phone, etc. and is used only in the aggregate.
 
-### Cookies
-
+**Cookies**  
 What is a cookie? Cookies are sets of information that our web server assigns to you when you visit our web site. Cookies are used in a few areas of our site only for maintaining information between pages. They are not used for storing or tracking personal information from our customers. These cookies simply carry forward information that you submitted on one screen to the next screen, eliminating the need for redundant entry. These cookies do not gather any other personal information from you or your computer. You do have a choice whether or not to accept the cookie, however, if you reject the cookie or if cookies are disabled on your web browser, some parts of the web site will not be operable.
 
-### About Pixel Tags and DoubleClick Spotlight Tags
+**About Pixel Tags and DoubleClick Spotlight tags**  
+We use pixels tags, or transparent GIF files, and Google/DoubleClick Spotlight Tags to help manage our online advertising and promotions. These tags collect anonymous (not personally identifiable) information about which advertisements and promotions bring users to our Web site. The Spotlight Tags enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn how users respond to our online advertisements and promotions. With both cookie and tag technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about Google/DoubleClick, including information about how to opt out of the Spotlight Tags, please go to <http://www.google.com/intl/en/policies/technologies/ads/>
 
-We use pixels tags, or transparent GIF files, and DoubleClick Spotlight Tags to help manage our online advertising and promotions. These tags collect anonymous (not personally identifiable) information about which advertisements and promotions bring users to our Web site. The Spotlight Tags enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn how users respond to our online advertisements and promotions. With both cookie and tag technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of the Spotlight Tags, please go to[ http://www.doubleclick.com/](http://www.doubleclick.com/privacy/index.aspx "http://www.doubleclick.com/privacy/index.aspx").
+**Behavioral Advertising Compliance Disclosure**  
+Liberty Mutual and/or our partners may use data collected on this site to customize ads to you on other web sites as you browse the Web. If you do not want your browsing behavior used for online behavioral advertising purposes, [CLICK HERE](http://www.aboutads.info/choices/) to opt-out from Liberty Mutual and/or [CLICK HERE ](http://www.aboutads.info/choices/)to opt-out of our third party partners.
 
-### Non Liberty Mutual Web Sites
+**DAA Compliance Disclosure**  
+Liberty Mutual uses the Evidon assurance service to comply with the cross-industry Self-Regulatory Program for Online Behavioral Advertising managed by the Digital Advertising Alliance (DAA) ([http://www.aboutads.info](http://www.aboutads.info/)). As part of this service, Liberty Mutual’s online advertisements and Web sites are sometimes delivered with icons that help consumers understand how their data is being used and provide choice options to consumers that want more control.
 
-Liberty Mutual is not responsible for the privacy practices or the content of any other web sites on the Internet that may be linked to the responsibilityproject.com web site. Please note that when you click on links to web sites outside of[http://www.responsibilityproject.com](http://www.responsibilityproject.com/), you are transferred to another web site that may not be under Liberty Mutual’s control. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours.
+**Non Liberty Mutual Web Sites**    
+Liberty Mutual is not responsible for the privacy practices or the content of any other web sites on the Internet that may be linked to the Liberty Mutual web site. Please note that when you click on links to web sites outside of [www.libertymutual.com](http://www.libertymutual.com/), you are transferred to another web site that may not be under Liberty Mutual's control. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours.
 
-### Sharing Information Gathered
+**Sharing Information Gathered  
+**The Liberty Mutual web site is designed to give our customers, prospective customers, and visitors a confidential means of gathering information about our Company, services and products and for doing business with us over the Internet. Our site will only collect information that you voluntarily provide in order for us to service your request. If you have provided personal information on our web site in order to obtain a policy quote, administer your insurance policies, ask us a question, or register for a Liberty Mutual sponsored event, we may need to share that information with authorized third parties, if necessary to service your request. We may also share your information with companies that perform marketing and communications services on our behalf. We do not sell any customer information to mailing list companies or telemarketing companies.
 
-Our site will only collect information that you voluntarily provide in order for us to service your request or for you to participate with ResponsibilityProject.com (i.e., creating a profile, submitting information to the Blog). We do not sell any personal information you provide to mailing list companies or telemarketing companies.
+**Protecting Information Gathered and Security**  
+Personal information you have provided is limited to employees and agents of Liberty Mutual who need to know that information in order to service your request. Liberty Mutual maintains physical, electronic, and procedural safeguards that comply with applicable regulations to guard your personal information. Liberty Mutual retains the information collected for as long as required or permitted by law or regulation.
 
-### Protecting Information Gathered and Security
+**Notification of Changes**  
+Liberty Mutual reserves the right to change this Privacy Policy from time to time, and such changes will be effective immediately upon posting to this Web site. Under certain circumstances (for example, in connection with certain material changes, including changes to our Online Behavioral Advertising data collection use policies and practices), we may also elect to notify you of changes or updates to our Privacy Policy, or to request your consent for such changes, by additional means, such as posting a notice on the front of our Web site and sending you an e-mail.
 
-Personal information you have provided is limited to employees and agents of Liberty Mutual who need to know that information in order to service your request and/or facilitate the operation of the responsibilityproject.com website. Liberty Mutual maintains physical, electronic, and procedural safeguards that comply with applicable regulations to guard your personal information. Liberty Mutual retains the information collected for as long as required or permitted by law or regulation.
+  
+**This Internet Privacy Policy applies to the following Liberty Mutual Subsidiaries and Affiliates**  
+Liberty Mutual Insurance Company  
+Liberty Mutual Fire Insurance Company  
+Liberty Mutual Mid-Atlantic Insurance Company  
+Liberty Insurance Corporation  
+LM Insurance Corporation  
+The First Liberty Insurance Corporation  
+Liberty Insurance Company of America  
+Helmsman Management Services, Inc.  
+Helmsman Insurance Agency, Inc.  
+Liberty Life Assurance Company of Boston  
+Liberty Lloyds of Texas Insurance  
+Employers Insurance Company of Wausau  
+Wausau Business Insurance Company  
+Wausau General Insurance Company  
+Wausau Underwriters Insurance Company  
+Liberty Northwest Insurance Corporation  
+Liberty County Mutual Insurance Company (Texas only)  
+LM Property and Casualty Insurance Company  
+Liberty Mutual Personal Insurance Company  
+Liberty Personal Insurance Company,   
+LM General Insurance Company,   
+American States Preferred Insurance Company,  
+Consolidated Insurance Company **  
+**
 
-### Notification of Changes
-
-This Internet Privacy Policy may be modified from time to time. If we change our Internet Privacy Policy, we will post those changes on this web site[http://www.responsibilityproject.com](http://www.responsibilityproject.com/). You may wish to visit this page periodically to review the most recent Internet Privacy Policy.
-
-Contact Information  
+  
+**Contact Information**  
 Communications Department  
 175 Berkeley Street  
 Boston, MA 02116  
-e-mail:[corporateinfo@libertymutual.com](mailto:corporateinfo@libertymutual.com)
+e-mail: [corporateinfo@libertymutual.com](mailto:corporateinfo@libertymutual.com)
 
-Last modified on: June 30, 2010
-
-#### Find More
-
-Whether you have questions or comments about the Project, or you’d like to learn more about Liberty Mutual, we’d love to hear from you.
-
-[Contact us](http://responsibility-project.libertymutual.com/about/contact);or visit us atLibertyMutual.com.
+  
+Last modified on: October 05, 2015.
