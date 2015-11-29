@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the platformpurple.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502021617id_/http%3A//platformpurple.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platformpurple.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129055024id_/http%3A//platformpurple.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | platformpurple.com
 
-## Notice
-
-**Platform Purple, Inc. is committed to clearly and readily disclosing its data collection practices so that you can make informed decisions about your activities in the System.**
-
 Platform Purple, Inc. takes your privacy seriously. We do not rent, sell, or share personal information about you with any third party, person or company, except as listed below.
 
-This Privacy Policy (“Policy”) uses and protects any information that you give Platform Purple, Inc. when you use this web site and the platform:purple (collectively, the “System”).
+This Privacy Policy (“Policy”) uses and protects any information that you give Platform Purple, Inc. when you use this website and the Purple platform (collectively, the “System”).
 
 Platform Purple, Inc. is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using our System, you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -16,23 +12,23 @@ Platform Purple, Inc. may change this policy from time to time by updating this 
 
   * ###  Access 
 
-Platform Purple, Inc. provides you with the opportunity to review, modify, and delete any personally identifiable information that you have previously provided. To review the information we have for you, or to have us delete any of your information, in accordance with the Data Protection Act 1998, please contact us with the form below or by emailing techsupport@platformpurple.com. 
+Platform Purple, Inc. provides you with the opportunity to review, modify, and delete any personally identifiable information that you have previously provided. To review the information we have for you, or to have us delete any of your information, in accordance with the Data Protection Act 1998, please contact us. 
 
   * ###  Security 
 
-Platform Purple, Inc. has taken proactive measures to protect against the loss, misuse, or alteration of data that it collects and stores. Platform Purple, Inc.’ network infrastructure utilizes leading technology, including Secure Sockets Layer (SSL) software which encrypts information, to protect data at each point of transfer. Platform Purple, Inc.’ server facilities utilize up to date physical and electronic security procedures to limit access to the data so that any access is consistent with this Policy. 
+Platform Purple, Inc. has taken proactive measures to protect against the loss, misuse, or alteration of data that it collects and stores. Platform Purple, Inc.’s network infrastructure utilizes leading technology, including Secure Sockets Layer (SSL) software which encrypts information, to protect data at each point of transfer. Platform Purple, Inc.’ server facilities utilize up to date physical and electronic security procedures to limit access to the data so that any access is consistent with this Policy. 
 
   * ###  Information Collected 
 
-So that we can provide the best possible service and improve our customer experience, Platform Purple, Inc. may collect customer details you provide us, which may include first and last name, email address, shipping and billing address, phone number and company name. Payment information is collected, where necessary, through our secure checkout process, however Platform Purple, Inc. does not store payment information. 
+So that we can provide the best possible service and improve our customer experience, Platform Purple, Inc. may collect customer details you provide us, which may include first and last name, email address, shipping and billing address, phone number and company name. 
 
   * ###  Cookies 
 
-When you visit platformpurple.com, we may send one or more cookies (small file containing characters which identify your browser). Most browsers are set to accept cookies but you can modify your browser’s settings to reject or delete cookies from some or all websites, including platformpurple.com. 
+When you visit platformpurple.com, we may send one or more cookies (small files containing characters which identify your browser). Most browsers are set to accept cookies but you can modify your browser’s settings to reject or delete cookies from some or all websites, including platformpurple.com. 
 
   * ###  User Communication 
 
-If you send an email or other communication to Platform Purple, Inc., we may retain those communications and the personal information you provide in order to fulfill your request of us. We will not use return email addresses for any other use without your consent. 
+If you send an email or other communication to Platform Purple, Inc., we may retain those communications and the personal information you provide in order to fulfill your request of us. We will not use return email addresses for any other use without your explicit prior consent. 
 
   * ###  Affiliated Websites 
 
@@ -66,10 +62,8 @@ Beginning on January 1, 2005, California Civil Code Section 1798.83 permits thos
 
 ## Contact Information
 
-If users have any questions or suggestions regarding this Policy, please contact Platform Purple, Inc. using the form below or by emailing [support@platformpurple.com](mailto:support@platformpurple.com?subject=Privacy-Policy).
+If users have any questions or suggestions regarding this Policy, please contact Platform Purple by clicking [here](http://platformpurple.com/contact/).
 
 Platform Purple, Inc., Inc reserves the right to update this policy without notice.
-
-EFFECTIVE DATE July 14, 2011
 
 privacy policy01.20.2009
