@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iprice.sg privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531083911id_/http%3A//iprice.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iprice.sg privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129041026id_/http%3A//iprice.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iprice Singapore
 
