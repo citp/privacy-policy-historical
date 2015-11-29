@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cockyboys.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608091208id_/http%3A//cockyboys.com/fancyPage/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cockyboys.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129224450id_/http%3A//cockyboys.com/pages.php%3Fid%3Dprivacy-notice) for the most accurate reproduction.*
 
-# CockyBoys Privacy Notice
+# Privacy Notice
+
+### Privacy Notice
 
 Cockyboys.com (“Website”) has created this privacy policy ("Policy") in order to demonstrate our company's commitment to privacy. The following discloses our information gathering and disseminating practices. This Policy also instructs you on what procedures to take if you do not want to receive communications from us other than those required for account maintenance.
 
