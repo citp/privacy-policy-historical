@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the westwood.edu privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612015003id_/http%3A//www.westwood.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westwood.edu privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129010813id_/http%3A//www.westwood.edu/privacy-policy) for the most accurate reproduction.*
 
-# Westwood College Privacy Policy
+# Westwood > Privacy Policy
 
 ### General
 
