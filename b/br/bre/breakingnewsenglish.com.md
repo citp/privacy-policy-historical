@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breakingnewsenglish.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315072726id_/http%3A//breakingnewsenglish.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakingnewsenglish.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129013549id_/http%3A//www.breakingnewsenglish.com/privacy.html) for the most accurate reproduction.*
 
 # Breaking News English - Privacy Policy
 
