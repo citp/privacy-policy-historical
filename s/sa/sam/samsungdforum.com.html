@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the samsungdforum.com privacy policy that was archived on 2015-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150613035048id_/http%3A//www.samsungdforum.com/Main/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the samsungdforum.com privacy policy that was archived on 2015-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151129123059id_/http%3A//www.samsungdforum.com/Main/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -47,11 +47,13 @@
 	
 		<link rel="stylesheet" type="text/css" href="/content/css/sub.css">
 	
-	<script type="text/javascript" src="/content/js/gnbnav.js"></script>
+	<script type="text/javascript" src="/content/js/gnbnav.js?version=150923"></script>
     <script type="text/javascript" src="/content/js/design.js"></script>
 
     <!--숫자입력관련-->
     <script type="text/javascript" src="/Content/Scripts/jQuery/jquery.alphanumeric.pack.js"></script>
+
+    
 
     <!--Layer 컨펌창 -->
 	<link rel="stylesheet" type="text/css" href="/Content/css/confirm.css">
@@ -62,11 +64,9 @@
     <script src="/Content/Scripts/jQuery/json2.js" type="text/javascript"></script>
     <script src="/Content/Scripts/InputTools.js?version=20150527" type="text/javascript"></script>	
 
-    <!-- 리뉴얼 css(2013.10.25)-백주현-->
-    
-    <link rel="stylesheet" type="text/css" href="/content/css/layout.css?version=20150604">
-    <link rel="stylesheet" type="text/css" href="/content/css/mainStyle.css?version=20150520">
-    <link rel="stylesheet" type="text/css" href="/content/css/subStyle.css?version=20150604">
+     <link rel="stylesheet" type="text/css" href="/content/css/layout.css?version=20151107">
+    <link rel="stylesheet" type="text/css" href="/content/css/mainStyle.css?version=20150923">
+    <link rel="stylesheet" type="text/css" href="/content/css/subStyle.css?version=20151007">
 
     <!-- 2011.08.08 추가 -->
     <script language="javascript">
@@ -125,7 +125,7 @@
 	<div id="TopUpDownMenuLayer" role="navigation"></div>
 	<div class="wrap_area" id="wrap" role="main">
 		<!-- top -->
-		<div class="header_wrap" style="height: 97px;">
+		<div class="header_wrap" style="height: 96px;">
 			
 
 	<script type="text/javascript">
@@ -257,29 +257,59 @@
 			}
 			else if(pType == "Register")
 			{
-				document.frmSignOnMaster.action="https://account.samsung.com/account/check.do";
-				document.frmSignOnMaster.returnURL.value = returnURL;
-				document.frmSignOnMaster.target="_self";
-				document.frmSignOnMaster.actionID.value = "SignupAP";
+                var xhr = new XMLHttpRequest();
+                xhr.open("POST", "/Main/CheckKoreaIP", true);
+                xhr.onreadystatechange = function(e){
+                    if(xhr.readyState == 4){
+                        if(xhr.status = 200){                            
+                            if(xhr.responseText == "True"){
+                                document.getElementById("termsURL").value = "http://www.samsungdforum.com/Html/Sso/TermKOR.txt"
+                                document.getElementById("privacyPolicyURL").value = "http://www.samsungdforum.com/Html/Sso/privacyKOR.txt"
+                            }
+
+                            document.frmSignOnMaster.action="https://account.samsung.com/account/check.do";
+				            document.frmSignOnMaster.returnURL.value = returnURL;
+				            document.frmSignOnMaster.target="_self";
+				            document.frmSignOnMaster.actionID.value = "SignupAP";
 				
-				document.frmSignOnMaster.submit();
+				            document.frmSignOnMaster.submit();
+                        }else{
+                            console.log("Error check Korea IP");
+                        }
+                    }
+                };
+
+                xhr.send();
 			}
 			else if(pType == "SignUpMerge")
 			{
 			    document.location.href = "/Sso/SignUpMerge";
 			}
+
+            //상단 SiteMap 추가 kju.lee
+			else if(pType == "Sitemap")
+			{			
+				document.location.href = "/Main/sitemap";
+			
+			}
+            //상단 Seller 추가 kju.lee
+			else if(pType == "Seller")
+			{			
+				document.location.href = "http://seller.samsungapps.com";
+			
+			}
 		}	
 				
-		//통합 검색 
+		//통합검색
     	function fnTopSearchGoGo()
     	{
-            if(trim($("#_TopSearchText").val()).length == 1)
+            if(trim($("#_TopSearchText").val()).length <= 1)
             {
                 alert("Please, enter more than 2 characters.");
                 $("#_TopSearchText").val("");                
             }
             else{
-                document.location.href = "/Search/UnifiedSearchAll?schoption=&schloc=SCH_TOP&hdnSchText=" + encodeURIComponent($("#_TopSearchText").val());
+                document.location.href = "/Search/UnifiedSearch?schoption=ALLCATEGORY&hdnSchText=" + encodeURIComponent($("#_TopSearchText").val());
             }
     		
     	}
@@ -334,8 +364,8 @@
 		<input type="hidden" name="signInURL" value="">
 		<input type="hidden" name="signUpURL" value="https://www.samsungdforum.com/Sso/SignUp">
 		<input type="hidden" name="profileUpdateURL" value="https://www.samsungdforum.com/Sso/SignUp">
-		<input type="hidden" name="termsURL" value="http://www.samsungdforum.com/Html/Sso/Term{CountryCode}.txt">
-		<input type="hidden" name="privacyPolicyURL" value="http://www.samsungdforum.com/Html/Sso/privacy{CountryCode}.txt">
+        <input type="hidden" id="termsURL" name="termsURL" value="http://www.samsungdforum.com/Html/Sso/Term.txt">
+        <input type="hidden" id="privacyPolicyURL" name="privacyPolicyURL" value="http://www.samsungdforum.com/Html/Sso/privacy.txt">
 		<input type="hidden" name="returnURL" value="http://www.samsungdforum.com">
 		<input type="hidden" name="registURL" value="https://www.samsungdforum.com/Sso/Regist">
 		<input type="hidden" name="emailActivationURL" value="">
@@ -349,23 +379,14 @@
             <!-- top menu area -->
             <div class="top_menu_area">
                 <ul class="top_area">
-                    <li><a href="javascript:SignInOutMaster('Home');">Samsung Smart TV Apps Developer Forum</a></li>
+                     <!-- Home 링크 SiteMap 링크로 변경  -->
+					<li><a href="javascript:SignInOutMaster('Sitemap');">Sitemap</a></li>
+                    <li><a href="https://seller.samsungapps.com/tv" target="_blank">Seller Office</a></li>
                 
                     <li><a href="javascript:SignInOutMaster('SignInTop');">Sign In</a></li>
                     <li class="regist"><a href="javascript:SignInOutMaster('Register');">Register</a></li>
 
                    
-                       
-                  <li class="mywork">
-						<a href="javascript:myWorkClick();">My Work <img src="/Content/images/Rev6/header/arrow_mywork.jpg" alt=""></a>
-								
-						<ul class="mywork_link_list" style="display:none">
-							<li><a href="javascript:SignInOutMaster('SignIn', 'http://www.samsungdforum.com/MyWork/index');">My Note</a></li>
-							<li><a href="javascript:SignInOutMaster('SignIn', 'http://www.samsungdforum.com/MyWork/DmMyToDoList');">My Application</a></li>
-							<li><a href="javascript:SignInOutMaster('SignIn', 'http://www.samsungdforum.com/MyWork/MyContest');">My Contest</a></li>
-							<li><a href="javascript:SignInOutMaster('SignIn', 'http://www.samsungdforum.com/MyWork/MyProfile');">My Profile</a></li>
-						</ul>
-					</li>             
                 
                     <li class="sns">
                         <ul class="new_sns_list">
@@ -383,26 +404,17 @@
                 <h2 class="blind">gnb</h2>
                 <!-- gnb -->
                 <ul class="gnb_menu_area" id="gnb">
-
-                    <li>
-                        <a href="javascript:void(0);">NEWS &amp; EVENT </a>
-
-                        <ul class="gnb_menu gnb_menu01">
-                            <li><a href="/SamsungDForum/NewsList">News</a></li>
-                            <li><a href="/Event/Contest">Event</a></li>
-                        </ul>
-                    </li>
                     <li>
 						<a href="javascript:void(0);">SMART TV FEATURES</a>
 
 						<div class="sdk_menu sdk_menu_tizen">
-							<p class="sdk_menu_title">Tizen-based Samsung TV</p>
+							<p class="sdk_menu_title">Samsung Tizen TV</p>
 
 							<ul class="gnb_menu gnb_menu_sdk">
-								<li><a href="/Features/TizenTVIntroduction">Introduction</a></li>
-								<li><a href="/Tizen/Spec">Spec &amp; Features</a></li>
-							    <li><a href="/Features/MultiScreen">MultiScreen</a></li>
-                                <li><a href="/Features/TizenGame">Games</a></li>
+								<li><a href="/TizenIntroduction" id="Tizen-Introduction">Introduction</a></li>
+								<li><a href="/Tizen/Spec" id="Tizen-Spec-Features">Spec &amp; Features</a></li>
+							    <li><a href="/Features/MultiScreen" id="MultiScreen">MultiScreen</a></li>
+                                <li><a href="/Features/TizenGame" id="Games">Games</a></li>
 									   
 							</ul>
 						</div>
@@ -411,9 +423,10 @@
 							<p class="sdk_menu_title">Samsung Smart TV</p>
 
 							<ul class="gnb_menu gnb_menu_sdk">
-								<li><a href="/Features/Introduction">Introduction</a></li>
-								<li><a href="/Features/SmartGame">Games</a></li>
-								<li><a href="/Features/Policy">Policy</a></li>
+								<li><a href="/Features/Introduction" id="SmartTV-Introduction">Introduction</a></li>
+                              <!--이동 kju.lee-->  <li><a href="/Features/Spec" id="SmartTV-Spec-Features">Spec &amp; Features</a></li>
+								<li><a href="/Features/SmartGame" id="SmartTV-Games">Games</a></li>
+								<li><a href="/Features/Policy" id="Policy">Policy</a></li>
 								
 							</ul>
 						</div>
@@ -422,13 +435,13 @@
                         <a href="javascript:void(0);">DOWNLOAD</a>
 
                           <div class="sdk_menu sdk_menu_tizen">
-                            <p class="sdk_menu_title">Tizen-based Samsung TV </p>
+                            <p class="sdk_menu_title">Samsung Tizen TV </p>
 
                             <ul class="gnb_menu gnb_menu_sdk">
-                                <li><a href="/TizenDevtools/SdkDownload">SDK Download</a></li>
-                                <li><a href="/TizenDevtools/SdkReleaseNote">SDK Release Note</a></li>
-                                   <li><a href="/TizenDevtools/SdkArchive">SDK Archives	</a></li>
-                                 <li><a href="/AddLibrary/TizenAddLibindex">Additional Libraries</a></li>
+                                <li><a href="/TizenDevtools/SdkDownload" id="Tizen-SDK-Download">SDK Download</a></li>
+                                <li><a href="/TizenDevtools/SdkReleaseNote" id="Tizen-SDK-Release-Note">SDK Release Note</a></li>
+                                   <li><a href="/TizenDevtools/SdkArchive" id="Tizen-SDK-Archives">SDK Archives	</a></li>
+                                 <li><a href="/AddLibrary/TizenAddLibindex" id="Tizen-Additional-Libraries">Additional Libraries</a></li>
                                  
                                
                             </ul>
@@ -438,11 +451,10 @@
                             <p class="sdk_menu_title">Samsung Smart TV </p>
 
                             <ul class="gnb_menu gnb_menu_sdk">
-                                <li><a href="/Devtools/SdkDownload">SDK Download</a></li>
-                                <li><a href="/Devtools/Spec">Spec &amp; Features</a></li>
-                                <li><a href="/Devtools/SdkReleaseNote">SDK Release Note</a></li>
-                                <li><a href="/Devtools/SdkArchive">SDK Archives</a></li>
-                                <li><a href="/AddLibrary/SmartAddLibindex">Additional Libraries</a></li>
+                                <li><a href="/Devtools/SdkDownload" id="SmartTV-SDK-Download">SDK Download</a></li>
+                                <li><a href="/Devtools/SdkReleaseNote" id="SmartTV-SDK-Release-Note">SDK Release Note</a></li>
+                                <li><a href="/Devtools/SdkArchive" id="SmartTV-SDK-Archives">SDK Archives</a></li>
+                                <li><a href="/AddLibrary/SmartAddLibindex" id="SmartTV-Additional-Libraries">Additional Libraries</a></li>
                             </ul>
                         </div>
 
@@ -454,129 +466,110 @@
                       <a href="javascript:void(0);">GUIDE</a>
                       
                       <div class="sdk_menu sdk_menu_tizen">
-                            <p class="sdk_menu_title">Tizen-based Samsung TV</p>
+                            <p class="sdk_menu_title">Samsung Tizen TV</p>
 
                             <ul class="gnb_menu gnb_menu_sdk">
-                                <li><a href="/Support/Overview">Overview</a></li>
-                                <li><a href="/TizenUxGuide">UX Guideline</a></li>
-                                <li><a href="/TizenGuide">Development Guide</a></li>                                
-                                <li><a href="/TizenApiGuide">API Reference</a></li>
-                                <li><a href="/TizenSampleGuide">Sample</a></li>
-                                <li><a href="/Support/Distribution">Distribution Guide</a></li>
-                               
+                                <li><a href="/TizenOverview" id="Brief-Guide">Brief Guide</a></li>
+                                <li><a href="/TizenUxGuide" id="Tizen-UX-Guideline">UX Guideline</a></li>
+                                <li><a href="/TizenGuide" id="Tizen-Development-Guide">Development Guide</a></li>                                
+                                <li><a href="/TizenApiGuide" id="API-Reference">API Reference</a></li>
+                                <li><a href="/TizenSampleGuide" id="Sample">Sample</a></li>                               
                             </ul>
                         </div>
                           <div class="sdk_menu" id="guide">
                             <p class="sdk_menu_title">Samsung Smart TV</p>
 
                             <ul class="gnb_menu gnb_menu_sdk">
-                                <li><a href="/Support/BeginningforSmartTv">Beginning for Smart TV</a></li>
-                                <li><a href="/UxGuide">UX Guideline</a></li>
-                                <li><a href="/Guide">Development Guide</a></li>                                
-                                <li><a href="/Support/TVAppsSecurity">TV Apps Security</a></li>
+                                <li><a href="/Support/BeginningforSmartTv" id="Beginning-for-Smart-TV">Beginning for Smart TV</a></li>
+                                <li><a href="/UxGuide" id="SmartTV-UX-Guideline">UX Guideline</a></li>
+                                <li><a href="/Guide" id="SmartTV-Development-Guide">Development Guide</a></li>                                
+                                <li><a href="/Support/TVAppsSecurity" id="TV-Apps-Security">TV Apps Security</a></li>
                             </ul>
                         </div>
 
                       
                     </li>
                     <li>
-                        <a href="javascript:void(0);">COMMUNITY</a>
 
-                        <div class="sdk_menu sdk_menu_tizen">
-									<p class="sdk_menu_title">Tizen-based Samsung TV</p>
-
-									<ul class="gnb_menu gnb_menu_sdk">
-										
-                                         <li><a href="/SamsungDForum/ForumList/9562347f8a9ffdf5">Caph</a></li>
-<li><a href="/SamsungDForum/ForumList/d0ffc04b53a41026">Games</a></li>
-<li><a href="/SamsungDForum/ForumList/9d322f0f492a38d7">HTML and JavaScript</a></li>
-<li><a href="/SamsungDForum/ForumList/2f9bd59b947b17bc">Streaming and Playing AV</a></li>
-<li><a href="/SamsungDForum/ForumList/3ad8bd6023af18a7">Others</a></li>
-<li><a href="/SamsungDForum/BlogList/5fa7b7f4a2a1cf2e">Developer's Blog</a></li>
-
-									</ul>
-					   </div>
-
-                       <div class="sdk_menu" id="Div2">
-									<p class="sdk_menu_title">Samsung Smart TV</p>
-
-									<ul class="gnb_menu gnb_menu_sdk">
-									  <li><a href="/SamsungDForum/ForumDashBoard/c305cb96c72a9e5b">English Forum</a></li>
-<li><a href="/SamsungDForum/ForumDashBoard/7e2b7fa90012098b">Korean Forum</a></li>
-<li><a href="/SamsungDForum/ForumDashBoard/fc9db838bc1a1dd3">Chinese Forum</a></li>
-<li><a href="/SamsungDForum/ForumDashBoard/f0cd8ea6961d50c3">Russian Forum</a></li>
-
-									</ul>
-								</div>
-                      
-                      
-                        
+                      <a href="javascript:void(0);">DISTRIBUTION</a>
+                        <div class="sdk_menu sdk_menu_tizen" style="margin-left: 573px;">
+                            <ul class="gnb_menu gnb_menu_sdk">
+                                <li><a href="/Support/Distribution" id="Distribution-Guide">Distribution Guide</a></li>                  
+                            </ul>
+                        </div>
                       
                     </li>
                     <li>
-                        <a href="javascript:void(0);">SUPPORT</a>
+                        <a href="javascript:void(0);">COMMUNITY</a>
 
-                        <ul class="gnb_menu gnb_menu06">
-                        <li><a href="/Support/Appsubmisson">App Submission</a></li>
-<li><a href="/Support/ActivityPolicy">Activity Policy</a></li>
-<li><a href="/Support/FaqList">FAQ</a></li>
+                        <div class="sdk_menu sdk_menu_tizen" style="margin-left: 490px;">
+									
 
-                        </ul>
-                    </li>
-               
+									<ul class="gnb_menu gnb_menu_sdk">
+                                        <li><a href="/SamsungDForum/NewsList" id="News">News</a></li>
+                                        <li><a href="/SamsungDForum/ForumDashBoard/cd10341507013d28" id="Tizen-Forum">Tizen Forum</a></li>
+                                        <li><a href="/SamsungDForum/ForumDashBoard/c305cb96c72a9e5b" id="SmartTV-Forum">Smart TV Forum</a></li>
+                                        <li><a href="/Support/FaqList" id="FAQ">FAQ</a></li>                
+									</ul>
+					   </div>
+                    </li>               
                 </ul>
                 <!-- //gnb -->
 
                 <div class="header_search">
                     <label for="search_input" class="blind">Search</label>
-                    <input type="text" maxlength="30" id="_TopSearchText" onkeydown="javascript:if (event.keyCode == 13) { fnTopSearchGoGo(); }" class="new_search_input"><input type="button" class="search_btn" id="_search_btn">
+                    <input type="text" id="_TopSearchText" onkeydown="javascript:if (event.keyCode == 13) { fnTopSearchGoGo(); }" class="new_search_input" value=""><input type="button" class="search_btn" id="_search_btn">
                 </div>
             </div>
             <!-- //gnb, search -->
         </div>
     </div>	
     <script type="text/javascript">
-		
-         var index = ""
+        var selectedGNBId = '';
+
+        if(!!selectedGNBId){
+            $("#" + selectedGNBId).css("color", "#fa7027");
+        }
+
+         var index = "";
          var IndexModified = 0;
          var toplink;
          
-         if( index == "" || index =="6")
+         if( index == "" )
          {
-           $(".header_wrap").css({ "height": "97px" });
-            
+           $(".header_wrap").css({ "height": "96px" });
             IndexModified = 0;
-         }
-         else if( index =="0" || index =="5" )
+         }else if(index == "7")
          {
               $(".header_wrap").css({ "height": "126px" });
-              IndexModified = parseInt(index);
-
-               defaultMenuItem =  $("#gnb > li").eq(IndexModified).find("ul");
-         
+              
+              IndexModified = 3;
+              index = "4";
+              
+              defaultMenuItem =  $("#gnb > li").eq(IndexModified).find("div");            
+         }else if(index == "0" || index == "5" || index =="4")
+         {
+              $(".header_wrap").css({ "height": "126px" });
+              
+              IndexModified = 4;
+              index = "5";
+              
+              defaultMenuItem =  $("#gnb > li").eq(IndexModified).find("div");            
          }else
          {
               $(".header_wrap").css({ "height": "155px" });
-              IndexModified = parseInt(index);
+              index = index;
+              IndexModified = parseInt(index) - 1;
 
-              defaultMenuItem =  $("#gnb > li").eq(IndexModified).find("div");
-
-            
+              defaultMenuItem =  $("#gnb > li").eq(IndexModified).find("div");            
          }
 
         
          toplink = $("#gnb > li").eq(IndexModified).find("a").eq(0);
 
 
-         if( index !="" && (index =="0" || index =="5"))
-         {
-             toplink.addClass("on");   
-             defaultMenuItem.css("display", "block");
-             toplink.addClass("on");
-
-         }else if( index != "" && (index =="1" || index =="2" || index =="3" || index =="4"))
-         {
-               
+         if( index != "" && (index =="1" || index =="2" || index =="3" || index =="4" || index =="5"))
+         {               
             defaultMenuItem.css("display", "block");
          
             defaultMenuItem.find("ul").css("display", "block");
@@ -585,6 +578,7 @@
 
         
 	</script>
+
 		</div>
 		<!-- //top -->
 
@@ -593,12 +587,6 @@
          
             
                 <div class="sub_wrap">
-                <h2 class="sub_top_title">Privacy Policy</h2>
-
-				<ul class="hierarchy">
-               
-                    <li><a href="/"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/icon/icon_home.jpg" alt="Home"></a></li><li><a href="/Main/privacypolicy">Privacy Policy</a></li>					
-				</ul>		
                  <div class="sub_contents">	  
 		    <div class="sub_contents">
                 
@@ -784,8 +772,6 @@
 		function fnFooterBarToggle(tID)
 		{
 			if ($("#" + tID).is(':hidden')) {
-
-				$("#_FooterSearch").hide();
 				$("#_FooterFeedBack").hide();
 				$("#_FooterForumDirect").hide();
 
@@ -810,16 +796,8 @@
 						fnFooterForumCateListData();
 					}
 				}
-				$("#_FooterSearchText").val("");
 		    
-            		    
-				$("#" + tID).show();
-		    
-				if (tID == "_FooterSearch") {		        
-					$("#_FooterSearchText").focus();
-				}
-		    
-		    
+				$("#" + tID).show();		    		    
 			} else {
 
 				$("#" + tID).hide();
@@ -830,20 +808,7 @@
             fnFooterFeedbackUrl();
 
 		}
-
-
-		function fnFooterSeachGoGo()
-		{
-            if(trim($("#_FooterSearchText").val()).length == 1)
-            {
-                alert("Please, enter more than 2 characters.");
-                $("#_FooterSearchText").val("");                
-            }
-            else{
-                document.location.href = "/Search/UnifiedSearchAll?schoption=&schloc=SCH_TOP&hdnSchText=" + encodeURIComponent($("#_FooterSearchText").val());
-            }
-		}
-
+        
 		var _FooterForumFocusValue = "Forum Title";
 		function fnFooterForumFocus()
 		{
@@ -1103,31 +1068,7 @@
         
 		}
 
-		function fnFooterChangeForumCateSub(subSelectID, cateID) {
-			var subSelect = document.getElementsByName(subSelectID)[0];
-        
-			subSelect.options[0] = new Option("Select Category", "");
-			if (cateID != "") {
-				$.ajax({
-					type: "POST",
-					url: "/SamsungDForum/GetForumBoardListByCategory/" + cateID,
-					dataType: "text",
-					success: function (result) {
-						var r = JSON.parse(result);
 
-						subSelect.options.length = r.length;
-						for (var i = 0; i < r.length; i++) {
-                          if(r[i].C_FORUM_BOARD_NAME.indexOf("Blog") < 0) {
-							var option_obj = new Option(r[i].C_FORUM_BOARD_NAME, r[i].C_FORUM_BOARD_ID_Encode);
-							subSelect.options[i+1] = option_obj;
-                            }
-						}
-					}, cache: false
-				});
-			} else {
-				subSelect.options.length = 1;
-			}
-		}
 		function fnFooterForumCateListData() {
 
 			var mainSelect = document.getElementsByName("_FooterDdlForumCateListCommon")[0];
@@ -1168,95 +1109,6 @@
 
 		}
 
-		function fnFooterForumSubmit() 
-		{        
-			if (objLoginService.IsLogin == false) 
-			{
-				SignInOutMaster('SignIn', document.location.href);
-			} 
-			else 
-			{        
-                var _FooterFrm = document.footerfrm;
-
-				var _FooterForumTitle = document.getElementById("_FooterForumTitle").value.replace(/(^\s*)|(\s*$)/g, "");
-				var _FooterForumBody = document.getElementById("_FooterForumContents").value.replace(/(^\s*)|(\s*$)/g, "");
-            
-				var _FooterForumCate = document.getElementById("_FooterDdlForumCateListCommon").value;
-				var _FooterForumBoard = document.getElementById("_FooterDdlForumBoardListByCategoryCommon").value;
-
-                $.ajax({
-                    type: "POST", 
-                    url: "/SamsungDForum/GetBlockedNoWrite/" + _FooterForumBoard,
-                    dataType: "text",
-                    success: function(result){
-                        if (result == "false"){
-                            
-
-				            if ($('#_FooterForumUrl').html() == "") 
-				            {
-					            $("#_FooterRelateUrl").val("");
-				            } 
-				            else 
-				            {
-					            $("#_FooterRelateUrl").val(document.location.href);
-				            }
-
-				            var menuForFriends = $("#_FooterDdlForumCateListCommon option:selected").text() + " > " + $("#_FooterDdlForumBoardListByCategoryCommon option:selected").text();
-            
-				            $("#_FooterForumMenuForFriends").val(menuForFriends);
-
-				            //필수항목 입력 체크
-				            if (_FooterForumTitle.length == 0 || _FooterForumTitle == _FooterForumFocusValue) 
-				            {
-					            alert("Please write your post title, contents and select forum category before submit.", function() {
-						            document.getElementById("_FooterForumTitle").focus();
-					            });
-					            return;
-				            } 
-				            else if (document.getElementById("_FooterForumTitle").value.length > 50 ) 
-				            {
-					            alert("“Title” the length exceeds the maximum input.", function() {
-						            document.getElementById("_FooterForumTitle").focus();
-					            });
-					            return;
-				            } 
-				            else if (_FooterForumBody.length == 0 || _FooterForumBody == _FooterForumContentsFocusValue) 
-				            {
-					            alert("Please write your post title, contents and select forum category before submit.", function() {
-						            document.getElementById("_FooterForumContents").focus();
-					            });
-					            return;
-				            } 
-				            else if (_FooterForumCate == "") 
-				            {
-					            alert("Please write your post title, contents and select forum category before submit.", function() {
-						            document.getElementById("_FooterDdlForumCateListCommon").focus();
-					            });
-					            return;
-				            } 
-				            else if (_FooterForumBoard == "") 
-				            {
-					            alert("Please write your post title, contents and select forum category before submit.", function() {
-						            document.getElementById("_FooterDdlForumBoardListByCategoryCommon").focus();
-					            });
-					            return;
-				            }
-            
-				            _FooterFrm.target = "_FooterUploadIFrame";
-				            _FooterFrm.action = "/SamsungDForum/ForumWriteByFooterProc/" + _FooterForumBoard;
-				            _FooterFrm.submit();
-                        } else {
-                            var boartNM = $("#_FooterDdlForumBoardListByCategoryCommon option:selected").text();
-                            var msg = "Sorry, You are in [board block] Status in this [boardName] board. To unblock, contact admin. [AdminEMail]";
-                            msg = msg.replace("[boardName]", boartNM);
-                            msg = msg.replace("[AdminEMail]", "noreply@samsungdforum.com");
-                            alert(msg);
-                        }
-                    } , cache: false
-                });
-				
-			}
-		}
     
     
 
@@ -1310,7 +1162,8 @@
                 fnFooterFeedbackUrl();
 
                 close_foot("FooterForum");
-                close_foot("FooterSearch");
+
+                //alert("detail_feedback_open"+$(".detail_feedback_open").css("display"));
 
                 if ($(".detail_feedback_open").css("display") == "none") {
                     $(".detail_feedback .on").addClass('detail_feedback_on');
@@ -1325,77 +1178,14 @@
                 }
             });
 
-            $(".write_forum > a").live('click', function (e) {
-                e.preventDefault();
-
-                close_foot("FooterFeedback");
-                close_foot("FooterSearch");
-
-                if ($(".write_forum_open").css("display") == "none") {
-                    if (objLoginService.IsLogin == false) {
-						SignInOutMaster('SignIn', document.location.href);
-					} else {
-						$("#_FooterForumUrl").html((document.location.href.length > 88) ? document.location.href.substr(0, 88) + "..." : document.location.href);
-						$("#_FooterForumTitle").val(_FooterForumFocusValue);
-						$("#_FooterForumContents").val(_FooterForumContentsFocusValue);
-						$("#_FooterForumFileView").val("");
-						$("#_FooterForumTitleRemain").val("50");
-
-						if ($.browser.msie) {
-							$("#_FooterForumFile").replaceWith($("#_FooterForumFile").clone(true));
-						} else {
-							$("#_FooterForumFile").val("");
-						}
-
-						$('select[name=_FooterDdlForumBoardListByCategoryCommon] option:not(option:eq(0))').remove();
-
-						fnFooterForumCateListData();
-
-                        $(".write_forum_open").show().attr('tabindex','0').focus();
-                        $(".write_forum .on").addClass('write_forum_on');
-                        $(".write_forum .on img").attr('src', 'http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/footer/icon_arrow_up.jpg');                            
-					}                    
-                }
-                else {
-                    $(".write_forum .on").removeClass('write_forum_on');
-                    $(".write_forum_open").hide().attr('tabindex','-1').focus();
-                    $(".write_forum .on img").attr('src', 'http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/footer/icon_arrow_down.jpg');
-                }
-            });
-            
-
-            $(".foot_search > a").live('click', function (e) {
-                e.preventDefault();
-
-                close_foot("FooterFeedback");
-                close_foot("FooterForum");
-
-                if ($(".search_open").css("display") == "none") {
-                    $(".foot_search .on").addClass('foot_search_on');
-                    $(".search_open").show().attr('tabindex','0').focus();
-                    
-                    $("#_FooterSearchText").val("");
-                    $("#_FooterSearchText").focus();
-
-                    $(".foot_search .on img").attr('src', 'http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/footer/icon_arrow_up.jpg');
-
-                    $(".search_open").focus();
-                }
-                else {
-                    $(".foot_search .on").removeClass('foot_search_on');
-                    $(".search_open").hide().attr('tabindex','-1').focus();
-                    $(".foot_search .on img").attr('src', 'http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/footer/icon_arrow_down.jpg');
-                }
-            });
-
             $(".detail_feedback > a").live('keypress', function (e) {
+                
                 e.preventDefault();
 
                 fnFooterFeedbackInit();
                 fnFooterFeedbackUrl();
 
                 close_foot("FooterForum");
-                close_foot("FooterSearch");
 
                 if ($(".detail_feedback_open").css("display") == "none") {
                     $(".detail_feedback .on").addClass('detail_feedback_on');
@@ -1410,74 +1200,11 @@
                 }
             });
 
-            $(".write_forum > a").live('keypress', function (e) {
-                e.preventDefault();
-
-                close_foot("FooterFeedback");
-                close_foot("FooterSearch");
-
-                if ($(".write_forum_open").css("display") == "none") {
-                    if (objLoginService.IsLogin == false) {
-						SignInOutMaster('SignIn', document.location.href);
-					} else {
-						$("#_FooterForumUrl").html((document.location.href.length > 88) ? document.location.href.substr(0, 88) + "..." : document.location.href);
-						$("#_FooterForumTitle").val(_FooterForumFocusValue);
-						$("#_FooterForumContents").val(_FooterForumContentsFocusValue);
-						$("#_FooterForumFileView").val("");
-						$("#_FooterForumTitleRemain").val("50");
-
-						if ($.browser.msie) {
-							$("#_FooterForumFile").replaceWith($("#_FooterForumFile").clone(true));
-						} else {
-							$("#_FooterForumFile").val("");
-						}
-
-						$('select[name=_FooterDdlForumBoardListByCategoryCommon] option:not(option:eq(0))').remove();
-
-						fnFooterForumCateListData();
-
-                        $(".write_forum_open").show().attr('tabindex','0').focus();
-                        $(".write_forum .on").addClass('write_forum_on');
-                        $(".write_forum .on img").attr('src', 'http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/footer/icon_arrow_up.jpg');                            
-					}                    
-                }
-                else {
-                    $(".write_forum .on").removeClass('write_forum_on');
-                    $(".write_forum_open").hide().attr('tabindex','-1').focus();
-                    $(".write_forum .on img").attr('src', 'http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/footer/icon_arrow_down.jpg');
-                }
-            });
-            
-
-            $(".foot_search > a").live('keypress', function (e) {
-                e.preventDefault();
-
-                close_foot("FooterFeedback");
-                close_foot("FooterForum");
-
-                if ($(".search_open").css("display") == "none") {
-                    $(".foot_search .on").addClass('foot_search_on');
-                    $(".search_open").show().attr('tabindex','0').focus();
-                    
-                    $("#_FooterSearchText").val("");
-                    $("#_FooterSearchText").focus();
-
-                    $(".foot_search .on img").attr('src', 'http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/footer/icon_arrow_up.jpg');
-
-                    $(".search_open").focus();
-                }
-                else {
-                    $(".foot_search .on").removeClass('foot_search_on');
-                    $(".search_open").hide().attr('tabindex','-1').focus();
-                    $(".foot_search .on img").attr('src', 'http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/footer/icon_arrow_down.jpg');
-                }
-            });
             /* //하단 footer 메뉴 */            
 
             $(".btn_foot_search").click(function() {
                 fnFooterSeachGoGo();
             });         
-
         });
 
         function close_foot(tid)
@@ -1494,13 +1221,6 @@
                 $(".write_forum_open").hide();
                 $(".write_forum .on").removeClass('write_forum_on');                
                 $(".write_forum .on img").attr('src', 'http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/footer/icon_arrow_down.jpg');
-                
-            }
-            else if(tid=="FooterSearch")
-            {                
-                $(".search_open").hide();
-                $(".foot_search .on").removeClass('foot_search_on');                
-                $(".foot_search .on img").attr('src', 'http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/footer/icon_arrow_down.jpg');
                 
             }
         }
@@ -1522,30 +1242,18 @@
         
         <h2 class="blind">footer</h2>
 		<!-- 평점, Detail feedback, write on forum, search -->
-		<div class="appraisal_tool_menu">
-			<div class="appraisal_area">
-                <p class="footer_tooltip">Rating this page will help us to provide better service.</p>
-				<p class="appraisal_check">
-					<a href="javascript:fnFooterBarFeedBackSelect('_FooterBarFeedBackSelect_1');"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/footer/icon_appraisal_off.jpg" alt="Bad" id="_FooterBarFeedBackSelect_1"></a>
-					<a href="javascript:fnFooterBarFeedBackSelect('_FooterBarFeedBackSelect_2');"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/footer/icon_appraisal_off.jpg" alt="Not Bad" id="_FooterBarFeedBackSelect_2"></a>
-					<a href="javascript:fnFooterBarFeedBackSelect('_FooterBarFeedBackSelect_3');"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/footer/icon_appraisal_off.jpg" alt="Good" id="_FooterBarFeedBackSelect_3"></a>
-					<a href="javascript:fnFooterBarFeedBackSelect('_FooterBarFeedBackSelect_4');"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/footer/icon_appraisal_off.jpg" alt="Very Good" id="_FooterBarFeedBackSelect_4"></a>
-					<a href="javascript:fnFooterBarFeedBackSelect('_FooterBarFeedBackSelect_5');"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/footer/icon_appraisal_off.jpg" alt="Excellent" id="_FooterBarFeedBackSelect_5"></a>
-				</p>
-				<p class="check_text" id="FooterBarFBText">Rate This Page</p>
-                <div id="fb_rank_text" class="btn_appraisal_submit" style="display:none;">
-                    <span class="rank_submit"><a href="javascript:fnFooterGoTransperAjax('FooterFeedback');">submit</a></span>
-                </div>				
-			</div>
 
-			<div class="tool_menu_area">
-				<ul class="tool_menu_list">
-					<!-- Detail Feedback -->
-					<li class="detail_feedback">
-						<a href="#_FooterFeedBack" class="on">Detail feedback <img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/footer/icon_arrow_down.jpg" alt=""></a>
+        <div class="footer_layout">
+			<p class="footer_logo_img"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/footer/footer_logo.jpg" alt="Samsung logo"></p>
 
-						<!-- detail feedback open -->
-						<div class="detail_feedback_open" style="display:none;" id="_FooterFeedBack">
+			<ul class="other_f_menu">
+				<li><a href="/Main/terms">Terms and Conditions</a></li>
+				<li><a href="/Main/privacypolicy">Privacy Policy</a></li>
+                <li>&lt; <a href="/Main/privacypolicy?lang=kr">개인정보 취급(처리)방침</a>&gt;</li>
+                <!--li class="policy_info"><a href="/Main/privacypolicy?lang=kr">개인정보처리방침</a>&gt;</li-->
+				<li><a href="/Main/sitemap">Sitemap</a></li>
+                <li class="detail_feedback"><a href="#_FooterFeedBack">Report a Site Bug</a>
+                <div class="detail_feedback_open" style="display:none;" id="_FooterFeedBack">
 							<h3 class="foot_title"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/footer/title_detail_feedback.jpg" alt="Detail Feedback"></h3>
 
 							<!-- url -->
@@ -1594,258 +1302,7 @@
 
 							<p class="close_foot"><a href="javascript:close_foot('FooterFeedback');"><img src="../../content/images/Rev5/footer/close_footer.jpg" alt="Detail Feedback Close"></a></p>
 						</div>
-						<!-- //detail feedback open -->
-					</li>
-					<!-- //Detail Feedback -->
-						
-					<!-- Write Forum -->
-					<li class="write_forum">
-						<a href="#_FooterForumDirect" class="on">Write on forum <img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/footer/icon_arrow_down.jpg" alt=""></a>
- 
-						<div class="write_forum_open" style="display:none;" id="_FooterForumDirect">
-							<h3 class="foot_title"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/footer/title_write_forum.jpg" alt="Write about this page on the forum"></h3>
-
-							<!-- url -->
-							<p class="footer_url_area">
-								<a id="_FooterForumUrl"></a>
-								<span class="btn_url_clear"><a href="javascript:fnFooterForumUrl();"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/footer/btn_url_clear.jpg" alt="URL Clear" id="_FooterForumUrlBtn"></a></span>
-							</p>
-							<!-- //url -->
-
-							<div class="foot_input_area">
-								<!-- forum title -->
-								<p class="foot_forum_title">
-									<input type="text" value="Forum Title" id="_FooterForumTitle" maxlength="50" name="_FooterForumTitle" onfocus="fnFooterForumFocus();" onblur="fnFooterForumBlur();" onkeyup="javascript:fnFooterForumTitleChange(this);">
-									<span><span id="_FooterForumTitleRemain" style="display:inline;">50</span> characters remaining</span>
-								</p>
-								<!-- //forum title -->
-
-								<!-- forum textfield -->
-								<p class="forum_content_input">
-									<textarea id="_FooterForumContents" name="_FooterForumContents" onfocus="fnFooterContentsForumFocus();" onblur="fnFooterContentsForumBlur();" rows="" cols="">Forum to leave a comment on this page</textarea>
-								</p>
-								<!-- //forum textfield -->
-
-								<!-- 첨부파일 -->
-								<div class="file_field_area">
-									<input id="fileName" class="file_input_textbox" readonly="">
-									<div class="file_input_div">
-										<input type="button" value="File" class="file_input_button">
-										<input type="file" id="_FooterForumFile" name="_FooterForumFile" class="file_input_hidden" onchange="javascript:fnFooterForumChangeFileSearch(this);">
-									</div>
-								</div>
-								<!-- //첨부파일 -->
-
-								<!-- category select -->
-								<div class="foot_category_area">
-									<p class="category_select">
-										<select id="_FooterDdlForumCateListCommon" name="_FooterDdlForumCateListCommon" onchange="javascript:fnFooterChangeForumCateSub('_FooterDdlForumBoardListByCategoryCommon', this.value);">
-											<option value="">Select Forum</option>
-										</select>
-										<select id="_FooterDdlForumBoardListByCategoryCommon" name="_FooterDdlForumBoardListByCategoryCommon">
-											<option value="">Select Category</option>
-										</select>
-									</p>
-									<p class="forum_submit_btn"><a href="javascript:fnFooterForumSubmit();"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/footer/btn_submit.jpg" alt="Submit"></a></p>
-								</div>
-                                <input type="hidden" id="_FooterRelateUrl" name="_FooterRelateUrl" value="">
-                                <input type="hidden" id="_FooterForumMenuForFriends" name="_FooterForumMenuForFriends" value="">
-                                <iframe id="_FooterUploadIFrame" name="_FooterUploadIFrame" title="" style="display:none;" src="about:blank"></iframe>
-								<!-- //category select -->
-							</div>
-
-							<p class="close_foot"><a href="javascript:close_foot('FooterForum');"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/footer/close_footer.jpg" alt="Search this page Close"></a></p>
-						</div>
-					</li>
-					<!-- //Write Forum -->
-
-					<!-- Search -->
-					<li class="foot_search">
-						<a href="#_FooterSearch" class="on">Search <img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/footer/icon_arrow_down.jpg" alt=""></a>
-
-						<!-- Search on -->
-						<div class="search_open" style="display:none" id="_FooterSearch">
-							<h3 class="foot_title"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/footer/title_search_page.jpg" alt="Search this page"></h3>
-
-							<p class="foot_search_input">
-								<input type="text" class="foot_input" id="_FooterSearchText" onkeydown="javascript:if (event.keyCode == 13) { fnFooterSeachGoGo(); }"><input type="button" class="btn_foot_search" value="Search">
-							</p>
-
-							<p class="close_foot"><a href="javascript:close_foot('FooterSearch');"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/footer/close_footer.jpg" alt="Search this page Close"></a></p>
-						</div>
-						<!-- //Search on -->
-					</li>
-					<!-- //Search -->
-				</ul>
-                
-				<ul class="f_sns_list">
-					<li><a href="javascript:goFacebook();"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/header/btn_facebook.jpg" alt="Facebook"></a></li>
-					<li><a href="javascript:goTwitter();"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/header/btn_twitter.jpg" alt="Twitter"></a></li>
-				</ul>
-                
-			</div>
-		</div>
-		<!-- //평점, Detail feedback, write on forum, search -->	
-
-        <!-- all menu -->
-		<div class="f_all_menu">
-			<h2 class="blind">all menu</h2>
-			<div class="allmenu_line_up">
-
-				<div class="f_menu_area">
-					<h3 class="f_menu_title"><a href="javascript:void(0);">News &amp; Event</a></h3>
-
-					<ul class="f_menu_list">
-						<li><a href="/SamsungDForum/NewsList">News</a></li>
-						<li><a href="/Event/Contest">Event</a></li>
-					</ul>
-				</div>
-
-                <div class="f_menu_area">
-						<h3 class="f_menu_title"><a href="#">Smart TV Features</a></h3>
-						
-						<div>
-							<h4 class="f_menu_subtitle">Tizen-based Samsung TV</h4>
-
-							<ul class="f_menu_list">
-								<li><a href="/Features/TizenTVIntroduction">Introduction</a></li>
-								<li><a href="/Tizen/Spec">Spec &amp; Features</a></li>
-								<li><a href="/Features/MultiScreen">MultiScreen</a></li>
-                                <li><a href="/Features/TizenGame">Games</a></li>
-							</ul>
-						</div>
-
-						<div class="f_samsung">
-							<h4 class="f_menu_subtitle">Samsung Smart TV</h4>
-
-							<ul class="f_menu_list">
-								<li><a href="/Features/Introduction">Introduction</a></li>
-								<li><a href="/Features/SmartGame">Games</a></li>
-								<li><a href="/Features/Policy">Policy</a></li>
-							</ul>
-						</div>						
-					</div>
-					
-				<div class="f_menu_area">
-						<h3 class="f_menu_title"><a href="javascript:void(0);">Download</a></h3>
-						
-						<div>
-							<h4 class="f_menu_subtitle">Tizen-based Samsung TV</h4>
-
-							<ul class="f_menu_list">
-								<li><a href="/TizenDevtools/SdkDownload">SDK Download</a></li>
-								<li><a href="/TizenDevtools/SdkReleaseNote">SDK Release Note</a></li>
-                                   <li><a href="/TizenDevtools/SdkArchive">SDK Archives	</a></li>
-								<li><a href="/AddLibrary/TizenAddLibindex">Additional Libraries</a></li>
-							</ul>
-						</div>
-
-						<div class="f_samsung">
-							<h4 class="f_menu_subtitle">Samsung Smart TV</h4>
-
-							<ul class="f_menu_list">
-								<li><a href="/Devtools/SdkDownload">SDK Download</a></li>
-								<li><a href="/Devtools/Spec">Spec &amp; Features</a></li>
-								<li><a href="/Devtools/SdkReleaseNote">SDK Release Note</a></li>
-								<li><a href="/Devtools/SdkArchive">SDK Archives</a></li>
-								<li><a href="/AddLibrary/SmartAddLibindex">Additional Libraries</a></li>
-							</ul>
-						</div>						
-					</div>
-
-                    <div class="f_menu_area">
-						<h3 class="f_menu_title"><a href="#">Guide</a></h3>
-						
-						<div>
-							<h4 class="f_menu_subtitle">Tizen-based Samsung TV</h4>
-
-							<ul class="f_menu_list">
-							 <li><a href="/Support/Overview">Overview</a></li>
-                               <li><a href="/TizenUxGuide">UX Guideline</a></li>
-                                <li><a href="/TizenGuide">Development Guide</a></li>                              
-                                <li><a href="/TizenApiGuide">API Reference</a></li>
-                                <li><a href="/TizenSampleGuide">Sample</a></li>
-                                <li><a href="/Support/Distrubution">Distribution Guide</a></li>
-							</ul>
-						</div>
-
-						<div class="f_samsung">
-							<h4 class="f_menu_subtitle">Samsung Smart TV</h4>
-
-							<ul class="f_menu_list">
-							   <li><a href="/Support/BeginningforSmartTv">Beginning for Smart TV</a></li>
-                               <li><a href="/UxGuide">UX Guideline</a></li>
-                                <li><a href="/Guide">Development Guide</a></li>                                
-                                <li><a href="/Support/TVAppsSecurity">TV Apps Security</a></li>
-							</ul>
-						</div>
-					</div>
-
-				<div class="f_menu_area">
-						<h3 class="f_menu_title"><a href="javascript:void(0)">Community</a></h3>
-						
-						<div>
-							<h4 class="f_menu_subtitle">Tizen-based Samsung TV</h4>
-
-							<ul class="f_menu_list">
-								<li><a href="/SamsungDForum/ForumList/9562347f8a9ffdf5">Caph</a></li>
-<li><a href="/SamsungDForum/ForumList/d0ffc04b53a41026">Games</a></li>
-<li><a href="/SamsungDForum/ForumList/9d322f0f492a38d7">HTML and JavaScript</a></li>
-<li><a href="/SamsungDForum/ForumList/2f9bd59b947b17bc">Streaming and Playing AV</a></li>
-<li><a href="/SamsungDForum/ForumList/3ad8bd6023af18a7">Others</a></li>
-<li><a href="/SamsungDForum/BlogList/5fa7b7f4a2a1cf2e">Developer's Blog</a></li>
-
-							</ul>
-						</div>
-
-						<div class="f_samsung">
-							<h4 class="f_menu_subtitle">Samsung Smart TV</h4>
-
-							<ul class="f_menu_list">
-								 <li><a href="/SamsungDForum/ForumDashBoard/c305cb96c72a9e5b">English Forum</a></li>
-<li><a href="/SamsungDForum/ForumDashBoard/7e2b7fa90012098b">Korean Forum</a></li>
-<li><a href="/SamsungDForum/ForumDashBoard/fc9db838bc1a1dd3">Chinese Forum</a></li>
-<li><a href="/SamsungDForum/ForumDashBoard/f0cd8ea6961d50c3">Russian Forum</a></li>
-
-							</ul>
-						</div>
-					</div>
-
-				<div class="f_menu_area">
-					<h3 class="f_menu_title"><a href="javascript:void(0)">Support</a></h3>
-
-					<ul class="f_menu_list">
-                    
-					 <li><a href="/Support/Appsubmisson">App Submission</a></li>
-<li><a href="/Support/ActivityPolicy">Activity Policy</a></li>
-<li><a href="/Support/FaqList">FAQ</a></li>
-
-					</ul>
-				</div>
-				<div class="f_menu_area">
-					<h3 class="f_menu_title"><a href="javascript:SignInOutMaster('SignIn', 'http://www.samsungdforum.com//MyWork/index');">My Work</a></h3>
-
-					<ul class="f_menu_list">
-                        <li><a href="javascript:SignInOutMaster('SignIn', 'http://www.samsungdforum.com/MyWork/index');">My Note</a></li>
-						<li><a href="javascript:SignInOutMaster('SignIn', 'http://www.samsungdforum.com/MyWork/DmMyToDoList');">My Application</a></li>
-						<li><a href="javascript:SignInOutMaster('SignIn', 'http://www.samsungdforum.com/MyWork/MyContest');">My Contest</a></li>
-						<li><a href="javascript:SignInOutMaster('SignIn', 'http://www.samsungdforum.com/MyWork/MyProfile');">My Profile</a></li>
-					</ul>
-				</div>
-
-			</div>
-		</div>
-		<!-- //all menu -->
-
-        <div class="footer_layout">
-			<p class="footer_logo_img"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/footer/footer_logo.jpg" alt="Samsung logo"></p>
-
-			<ul class="other_f_menu">
-				<li><a href="/Main/terms">Terms and Conditions</a></li>
-				<li><a href="/Main/privacypolicy">Privacy Policy</a></li>
-                <li>&lt; <a href="/Main/privacypolicy?lang=kr">개인정보 취급(처리)방침</a>&gt;</li>
-                <!--li class="policy_info"><a href="/Main/privacypolicy?lang=kr">개인정보처리방침</a>&gt;</li-->
-				<li><a href="/Main/sitemap">Sitemap</a></li>
+                </li>
 			</ul>
 
 			<p class="copyright">All contents copyright © Samsung Electronics Co., Ltd.</p>
@@ -1857,7 +1314,7 @@
                     <option value="http://www.samsung.com/">Samsung.com</option>
 					<option value="http://seller.samsungapps.com/">Samsung Apps</option>
 					<option value="http://developer.samsung.com/">Samsung Developers</option>					
-					<option value="http://www.samsungadhub.com/">Samsung AdHub</option>
+					<option value="https://developer.tizen.org/">Tizen Developers</option>
 				</select>
                 <a href="javascript:GoFamily();"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/Rev5/btn/btn_family_go.jpg" alt="Go"></a>
 				
