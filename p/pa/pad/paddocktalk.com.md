@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the paddocktalk.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122162904id_/http%3A//paddocktalk.com/news/html/index.php%3Fmodule%3DStatic_Docs%26func%3Dview%26f%3Dprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paddocktalk.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130150855id_/http%3A//paddocktalk.com/news/html/story-285125.html) for the most accurate reproduction.*
 
-# PaddockTalk :: F1, Formula 1, NASCAR, IndyCar, MotoGP, Le Mans, And More!
+# Privacy Policy :: PaddockTalk :: F1, Formula 1, NASCAR, IndyCar, MotoGP, Le Mans, And More!
 
-What is a Privacy Policy? 
-
-PaddockTalk LLC created a privacy policy to show our dedication and commitment to the privacy of the users of our website. Please read the following to gain an understanding of our privacy policy. If you have any questions whatsoever regarding this policy, please send us an email inquiry at admin@paddocktalk.com. A PaddockTalk LLC representative will respond to your query as soon as possible. 
-
+  
 What information do we collect from users and how is it used? 
 
 At PaddockTalk.com we do not collect any personal information whatsoever, unless you choose to share such information. Examples of such information that you might provide us are your name and email address for purposes of our TalkBack(Send & Ask Qs), (ie. Letters to the Editor) 
@@ -35,3 +32,5 @@ This privacy policy only addresses the use and disclosure of information we coll
 How will I know about changes in the Privacy Policy? 
 
 PaddockTalk LLC reserves the right to update this privacy policy from time to time. Please visit this page periodically so that you will be apprised of any changes. However, we will only use Personally Identifiable Information in accordance with the Privacy Policy that was in effect at the time the information was collected. If at any point we should decide to use that information differently, we will notify users by way of E-mail so that users can approve or disapprove of such use. 
+
+**PaddockTalk Perspective**
