@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the konami.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607044221id_/http%3A//www.konami.co.jp/en/siteinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the konami.net privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130074022id_/http%3A//www.konami.co.jp/en/siteinfo/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - KONAMI
+# Privacy Policy - KONAMI HOLDINGS CORPORATION
 
 There are cases that this website asks for personal information such as user's name or e-mail address to improve and enrich the service. 
 
