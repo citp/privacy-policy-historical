@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tatacommunications.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626073905id_/http%3A//www.tatacommunications.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatacommunications.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201002133id_/http%3A//www.tatacommunications.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tata Communications
 
