@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the real-debrid.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407120909id_/http%3A//real-debrid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the real-debrid.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130095413id_/http%3A//real-debrid.com/privacy) for the most accurate reproduction.*
 
 # Real-Debrid | Quality Unrestricted Downloaders
 
@@ -6,6 +6,13 @@
 
   
 More informations about those icons [here](http://www.azarask.in/blog/post/privacy-icons/).
+
+The Site © Real-Debrid is edited by the company
+
+ **XT Network SARL** _(Siret 53012531900018)_ ,  
+39 Rue des Granges Galand,  
+37550 Saint Avertin,  
+FRANCE.
 
 This privacy policy may be changed at any time.
 
