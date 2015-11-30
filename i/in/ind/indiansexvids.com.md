@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiansexvids.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601003228id_/http%3A//www.indiansexvids.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiansexvids.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130070809id_/http%3A//www.indiansexvids.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
