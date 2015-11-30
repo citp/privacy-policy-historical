@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ligonier.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627202128id_/http%3A//www.ligonier.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ligonier.org privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130024100id_/http%3A//www.ligonier.org/privacy-policy) for the most accurate reproduction.*
 
 # Ligonier Ministries
 
 ### Privacy Statement
 
-Ligonier Ministries is committed to respecting the privacy rights of all visitors to our web site. The following outlines our privacy policy and details the measures we have taken to safeguard and protect your privacy. Information you provide to us is understood to be in agreement with the policies detailed below.
+Ligonier Ministries is committed to respecting the privacy rights of all parties who interact with the ministry, including donors. The following outlines our privacy policy and details the measures we have taken to safeguard and protect your privacy. Information you provide to us is understood to be in agreement with the policies detailed below.
 
 ### What information does Ligonier Ministries collect?
 
@@ -18,7 +18,7 @@ Your information is used to process orders, accept gifts, and communicate with y
 
 ### Does Ligonier Ministries share any personal information it collects with outside parties?
 
-Ligonier Ministries does not sell or share any personal information to third parties.
+Ligonier Ministries does not trade, sell or share any personal information to third parties, nor send donor mailings on behalf of other organizations.
 
 ### Does Ligonier Ministries safeguard my personal information?
 
@@ -61,6 +61,14 @@ To browse without cookies, you can configure your browser to reject all cookies 
 To have your email address removed from our list of addresses that receive information about new resources, services, sales, and promotions, simply click on the "Unsubscribe" link that appears at the bottom of any email you've received from us and follow the simple instructions.
 
 You may remove your personal information from our direct mail list by contacting us in writing at, Ligonier Ministries 421 Ligonier Court Sanford, FL 32771, by emailing us at [service@ligonier.org](mailto:service@ligonier.org), or by calling 800.435.4343.
+
+### What is the privacy policy for offline donors?
+
+The same privacy terms outlined above applies to offline donors. Ligonier Ministries collects and stores your personal contact information only when you supply it to us. This is ordinarily for the purpose of creating an account, processing a transaction, or requesting to receive updates.
+
+We do not store your credit card information. Your information is used to process orders, accept gifts, and communicate with you. Your personal information is stored behind a secure network and is only accessible by designated staff, and is used for the purpose for which you provided the information.
+
+Ligonier Ministries does not trade, sell or share any personal information to third parties, nor send donor mailings on behalf of other organizations.
 
 ### Your Consent
 
