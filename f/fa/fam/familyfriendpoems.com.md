@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the familyfriendpoems.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628003145id_/http%3A//www.familyfriendpoems.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyfriendpoems.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130021844id_/http%3A//www.familyfriendpoems.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Family Friends Poems
+# Privacy Policy Family Friends Poems
 
 Family Friend Poems is committed to protecting your privacy and developing features that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Family Friend Poems Web Site and governs data collection and usage. By using the Family Friend Poems website, you consent to the data practices described in this statement.
 
@@ -33,6 +33,6 @@ We serve ads from third-party advertising companies who may collect information 
 
 ## Contact Information
 
-Family Friend Poems welcomes your comments regarding this Statement of Privacy. If you believe that Family Friend Poems has not adhered to this Statement, please contact Family Friend Poems using our [Contact Us Form](https://web.archive.org/about-us/contact-us/?subject=Privacy). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Family Friend Poems welcomes your comments regarding this Statement of Privacy. If you believe that Family Friend Poems has not adhered to this Statement, please contact Family Friend PoemsFamily Friend Poems using our [Contact Us Form](https://web.archive.org/about-us/contact-us/?subject=Privacy). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
 
 Back to Top
