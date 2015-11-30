@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gottadeal.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615003648id_/http%3A//www.gottadeal.com/Article/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gottadeal.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130183728id_/http%3A//www.gottadeal.com/Article/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GottaDeal.com
 
@@ -56,7 +56,11 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 Should you have other questions or concerns about these privacy policies, please call us at (414) 375-2359 or contact us using the form available here on the site. 
 
-|  |  | 
+|  | 
+
+[](http://www.gottadeal.com/CyberMonday)
+
+| 
 
 [](http://deals.gd/amazondotd "Check out the Amazon.com Gold Box Deals of the Day")
 
@@ -70,25 +74,25 @@ Should you have other questions or concerns about these privacy policies, please
 
 | 
 
-[](http://deals.gd/bbdotd15 "Check out the BestBuy.com Deals of the Day")  
+[](http://deals.gd/targetdeal "Check out the Target Deals of the Day")  
   
 [](http://deals.gd/wootcom "Check out the woot.com Deal of the Day")
 
 | 
 
-[](http://deals.gd/kohlsdotd "Check out the Kohl's Deals for Today")  
+[](http://deals.gd/Kohlscom "Check out the Kohl's Deals for Today")  
   
-[](http://deals.gd/DailyStealscom "Check out the DailySteals.com Daily Deals")
+[](http://deals.gd/SamsDOTD "Check out the SamsClub.com Shocking Values")
 
 | 
 
 [](http://deals.gd/hddotd "Check out the Home Depot Deal of the Day")  
   
-[](http://deals.gd/staplesdotd "Check out the Staples.com Daily Deals")
+[](http://deals.gd/staplesdaily "Check out the Staples.com Daily Deals")
 
 | 
 
-[](http://deals.gd/trudotd "Check out the ToysRUs.com Deals of the Day")  
+[](http://deals.gd/dotdbestbuy "Check out the BestBuy.com Deals of the Day")  
   
 [](http://deals.gd/6pmcom "Check out the 6pm.com Deals of the Day")
 
@@ -96,32 +100,32 @@ Should you have other questions or concerns about these privacy policies, please
 
 [](http://deals.gd/MidnightBoxcom "Check out the MidnightBox Deals of the Day")  
   
-[](http://deals.gd/Tangacom "Check out the Tanga.com Deals of the Day")
+[](http://deals.gd/searsdotd "Check out the Sears.com Daily Deal")
 
 | 
 
-[](http://deals.gd/targetdotd "Check out the Target Deals of the Day")  
+[](http://deals.gd/reideal "Check out the REI Outlet Deal of the Day")  
   
-[](http://deals.gd/reidotd "Check out the REI Outlet Deal of the Day")
+[](http://deals.gd/CowBoomcom "Check out the CowBoom Deal of the Day")
 
 | 
 
-[](http://deals.gd/searsdotd "Check out the Sears.com Daily Deal")  
+[](http://deals.gd/osdotd "Check out the Overstock.com Flash Deals")  
   
-[](http://deals.gd/osdotd "Check out the Overstock.com Flash Deals")
-
-| 
-
-[](http://deals.gd/CowBoomcom "Check out the CowBoom Deal of the Day")  
-  
-[](http://deals.gd/grpn2 "Check out the Groupon Deals for Your Area")
+[](http://deals.gd/grpn16 "Check out the Groupon Deals for Your Area")
 
 | 
 
 [](http://deals.gd/lsref "Check out the LivingSocial.com Daily Deals")  
   
-[](http://deals.gd/giltdotd "Check out the Gilt Groupe Daily Deals")
+[](http://deals.gd/dailysale "Check out the DailySale Daily Deals")
 
 | 
 
-[](http://deals.gd/zulilyref "Check out the zulily Daily Deals")
+[](http://deals.gd/zulilyref "Check out the zulily Daily Deals")  
+  
+[](http://deals.gd/giltref "Check out the Gilt Daily Deals")
+
+| 
+
+[](http://deals.gd/trudeals "Check out the Toys R Us Daily Deals")
