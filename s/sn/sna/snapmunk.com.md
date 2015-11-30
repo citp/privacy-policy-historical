@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the snapmunk.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622154254id_/http%3A//snapmunk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapmunk.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130015608id_/http%3A//www.snapmunk.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SnapMunk
+# Privacy Policy - SnapMunk
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:privacy@snapmunk.com).
+## 
+
+## **Privacy Policy for Snapmunk**
+
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:contact@snapmunk.com).
 
 At www.snapmunk.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.snapmunk.com and how we use it.
 
@@ -58,6 +62,8 @@ This policy does not apply to any information collected offline or via channels 
 By using our website, you hereby consent to our privacy policy and agree to its terms.
 
 **Update**  
-This Privacy Policy was last updated on: Friday, March 27th, 2015.  
-[](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
+This Privacy Policy was last updated on: Friday, March 27th, 2015.
+
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+
+[](http://www.snapmunk.com/wp-content/uploads/2015/03/privacypolicyonline-seal.png)
