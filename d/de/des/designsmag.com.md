@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the designsmag.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627221155id_/http%3A//www.designsmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designsmag.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130231704id_/http%3A//www.designsmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Designsmag (Designs Magazine)
+
+## Privacy Policy
 
 When you reached Designsmag.com, the privacy of our respected visitors is of great importance to us. This privacy policy document outlines the types of personal information is received and collected by Designsmag and how it is used.
 
