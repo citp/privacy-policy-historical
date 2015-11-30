@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hidglobal.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626174809id_/http%3A//www.hidglobal.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hidglobal.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130100747id_/http%3A//www.hidglobal.com/about/privacy) for the most accurate reproduction.*
 
 # HID Global Corporation Privacy Policy
 
@@ -10,7 +10,7 @@ HID Global Corporation ("HID Global" or "we" or "us"), an ASSA ABLOY group compa
 
 ## Privacy policy updates
 
-Due to the Internet's rapidly evolving nature, HID GLOBAL may need to update this Privacy Policy from time to time. If so, HID GLOBAL will post our updated Privacy Policy on the Site located at the following URL: [http://www.hidglobal.com/about/privacy](https://web.archive.org/web/20150626174809id_/http%3A//www.hidglobal.com/about/privacy "HID Global Privacy Policy"), and post notice of the change so it is visible when users log-on for the first time after the change is posted. HID GLOBAL encourages you to review this Privacy Policy regularly for any changes. Your continued use of the Site, services on the Site and/or continued provision of personally identifiable information to us will be subject to the terms of the then-current Privacy Policy.
+Due to the Internet's rapidly evolving nature, HID GLOBAL may need to update this Privacy Policy from time to time. If so, HID GLOBAL will post our updated Privacy Policy on the Site located at the following URL: [http://www.hidglobal.com/about/privacy](https://www.hidglobal.com/about/privacy "HID Global Privacy Policy"), and post notice of the change so it is visible when users log-on for the first time after the change is posted. HID GLOBAL encourages you to review this Privacy Policy regularly for any changes. Your continued use of the Site, services on the Site and/or continued provision of personally identifiable information to us will be subject to the terms of the then-current Privacy Policy.
 
 ## Information collection and use
 
