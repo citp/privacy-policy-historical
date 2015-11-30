@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveandoliveoil.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609102806id_/http%3A//www.loveandoliveoil.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveandoliveoil.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130021424id_/http%3A//www.loveandoliveoil.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Love and Olive Oil
 
@@ -18,11 +18,11 @@ As with most other websites, we collect and use the data contained in log files.
 
 Cookies are small pieces of text information created by websites and stored on your computer. We only use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-We also use third party advertisements on **LoveAndOliveOil.com** to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+We also use third party advertisements on **LoveAndOliveOil.com** to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
 #### Notice Regarding Online behavioral Advertising
 
-We allow third party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice visit the NAI at http://www.networkadvertising.org. To opt-out of this type of advertising, you can visit http://www.aboutads.info/choices. 
+We allow third party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, please visit <http://www.networkadvertising.org/choices/>
 
 #### DoubleClick DART cookies
 
@@ -46,4 +46,4 @@ If you have any questions regarding this Policy, or your dealings with our web s
 
 ===================
 
-Updated October 19, 2011.
+Updated August 12, 2015.
