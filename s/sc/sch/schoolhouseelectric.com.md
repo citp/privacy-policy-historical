@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolhouseelectric.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206171109id_/http%3A//www.schoolhouseelectric.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolhouseelectric.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130040005id_/http%3A//www.schoolhouseelectric.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ While Schoolhouse Electric & Supply Co. will work hard to keep your personal inf
 
 Schoolhouse Electric & Supply Co. does not intend to collect or maintain personally-identifiable information from children under the age of eighteen. If a child does submit this type of information to Schoolhouse Electric & Supply Co., a parent or guardian should contact us using the contact information provided at the bottom of this page.
 
-If you would like to remove your information from our database, change your information, or opt out of receiving communication from Schoolhouse Electric & Supply Co., you may contact us using the contact information provided at the bottom of this page.
+If you would like to remove your information from our database, change your information, or opt out of receiving communication from Schoolhouse Electric & Supply Co., you may contact us using the contact information provided at the top of this page.
 
 ## OTHER INFORMATION AND “COOKIES”
 
