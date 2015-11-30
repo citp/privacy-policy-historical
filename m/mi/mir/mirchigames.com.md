@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mirchigames.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602072709id_/http%3A//www.mirchigames.com/page/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirchigames.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130233939id_/http%3A//www.mirchigames.com/page/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - Mirchi Games - Only BEST Free Online Games Every Day!
+# Privacy Policy - Mirchi Games - Escape Games, Cool math games, Puzzle Game
 
 This Privacy Policy governs the manner in which Mirchigames collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.mirchigames.com](http://www.generateprivacypolicy.com/account/policies/edit/www.mirchigames.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Mirchigames.
 
@@ -28,6 +28,8 @@ We may use information in the aggregate to understand how our Users as a group u
 We may use feedback you provide to improve our products and services.
   *  _\- To send periodic emails_  
 We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
+  * MirchiGames.com uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address email, address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, go to <http://www.networkadvertising.org/managing/opt_out.asp>.   
+
 
 
 
@@ -37,6 +39,14 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 Our Site is in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
 
+Chat rules
+
+No spamming: posting unrelated links, posting one link repeatedly or posting a line of text repeatedly.
+
+Spamming is not allowed in chat. Chat is to help other gamer by sharing game hints, tips, walk-through.
+
+Posting other links is prohibited.
+
  **Sharing your personal information**
 
 We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
@@ -44,6 +54,10 @@ We do not sell, trade, or rent Users personal identification information to othe
  **Third party websites**
 
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+
+Game-play Monetization
+
+You cannot make any commercial use of game-play video like monetizing in youtube, vimeo, daily motion and other video sharing websites. Recording game-play video and monetizing in any network is strictly prohibited. If you upload videos of the game to video sharing and streaming sites we have right to raise complaint against your channel.
 
  **Advertising**
 
@@ -61,10 +75,14 @@ Mirchigames has the discretion to update this privacy policy at any time. When w
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
+Game Removal Rules
+
+We are ready to remove the game developed by you from our website on your request.
+
  **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-www.[Mirchigames](http://www.generateprivacypolicy.com/account/policies/edit/www.mirchigames.com).com  
+www.mirchigames.com   
 admin@mirchigames.com
 
-This document was last updated on January 09, 2015
+This document was last updated on September 01, 2015
