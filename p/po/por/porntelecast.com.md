@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the porntelecast.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619000628id_/http%3A//www.porntelecast.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porntelecast.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130203507id_/http%3A//www.porntelecast.com/privacy) for the most accurate reproduction.*
 
-# Porntelecast.com - Terms of Use
+# Porntelecast Privacy
 
 ### Terms of Use / Privacy Policy
 
@@ -37,9 +37,9 @@ This site expressly and strictly limits its membership and/or viewing privliges 
 
 #### DISCLOSURE OF INFORMATION
 
-  * if under duty to do so Porntelecast.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of Porntelecast.com or our subscribers or others. This includes exchanging information with other companies and organisations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is Porntelecast.coma€™s policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party. 
+  * if under duty to do so Porntelecast.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of Porntelecast.com or our subscribers or others. This includes exchanging information with other companies and organisations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is Porntelecast.coma�™s policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party. 
   * Should you deliberatlly upload any illegal material PormHub.com shall forward all available information to all relevant authrities and this without notice.   
-A»We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
+A�We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
 
   
 
@@ -51,4 +51,4 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 #### YOUR RIGHTS
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please [contact us](http://www.porntelecast.com/support.php).
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please [contact us](http://www.porntelecast.com/support).
