@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the starnostar.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629232522id_/http%3A//www.starnostar.com/Legal-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starnostar.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130081213id_/http%3A//www.starnostar.com/Legal-Privacy-Policy) for the most accurate reproduction.*
 
 # StarNoStar | StarNoStar Legal | StarNoStar Privacy Policy | StarNoStar Disclaimer
 
-Date: 06-29-2015
+Date: 11-30-2015
 
 ## Privacy Policy, Terms & Conditions :
 
@@ -53,6 +53,10 @@ We collect your personal information in order to:
 
 ### Online Submissions
 
+As of 9/15/2015 there has been a change made for online submissions. Follow us on 2 social sites listed bellow and send us a request/message via one of the following social media accounts you want to be added to StarNoStar site (including names of 2 social sites you have selected to follow).
+
+[](http://www.facebook.com/pages/StarNoStar/235653233178441)        [](https://plus.google.com/113497226414755191392/)        [](https://twitter.com/StarNoStarMedia)        [](http://vk.com/id160280568)        [](http://www.stumbleupon.com/stumbler/StarNoStarMedia)        [](https://www.pinterest.com/starnostargplus/)
+
 Visitors "registered and non registered members" may submit new profiles at anytime. When submitting a new profile we review every submission in order to eliminate any fake or inappropriate images, text or any other materials in the submission. Any unlawful information will be submitted to the proper law authorities in order to protect our users and visitors. By using our submission form you knowledge that the information provided is correct to your knowledge. Images uploaded to [www.starnostar.com](http://www.starnostar.com/) using our submission form is credited to its rightful owners.
 
 *Registered or non-registered members submitting a new profile agree to the following terms.  
@@ -68,10 +72,6 @@ Visitors "registered and non registered members" may submit new profiles at anyt
 ** You are fully responsible for any content ( Images and/or Text ) you upload to [www.starnostar.com](http://www.starnostar.com/)
 
 Visitors and Members uploading images to star no star are the rightful owners of the images and or have permission, courtesy to use these images. Rightful owners of images posted on [www.starnostar.com](http://www.starnostar.com/) retain the right to request any or all images to be removed from our servers.
-
-### How to become a Star no Star member
-
-Visitors my register and become members of star no star. You must provide a real email in order for you to activate your account after registering with Star no Star. Please keep all login and password information safe to assure maximum security of your profile. You are responsible for your any information uploaded and posted under your account.
 
 Membership Cancellation:
 
@@ -133,7 +133,7 @@ All users, visitors, members are free to use [www.starnostar.com](http://www.sta
 
 ### Changes to This Privacy Policy
 
-Star no star reserves the right to change the terms of this policy at any time. If changes are made to our Privacy Policy, Terms and Conditions, we may or may not notify you by sending you an email. We encourage you to review this policy whenever you visit. The date posted above is the current policy and terms in affect. Star no star has created a specific email for all your Legal Statements comments, questions and concerns. As well as any abuse of any type you may need to report. Please use [legal@starnostar.com](mailto:legal@starnostar.com) and we will reply as soon as possible.
+Star no star reserves the right to change the terms of this policy at any time. If changes are made to our Privacy Policy, Terms and Conditions, we may or may not notify you by sending you an email. We encourage you to review this policy whenever you visit. The date posted above is the current policy and terms in affect. Star no star has created a specific email for all your Legal Statements comments, questions and concerns. As well as any abuse of any type you may need to report. Please use [starnostargplus@gmail.com](mailto:starnostargplus@gmail.com) and we will reply as soon as possible.
 
   
 Thank you,   
