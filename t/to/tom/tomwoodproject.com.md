@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tomwoodproject.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429233814id_/http%3A//www.tomwoodproject.com/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomwoodproject.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130020143id_/http%3A//www.tomwoodproject.com/pages/privacy-statement) for the most accurate reproduction.*
 
-# Privacy statement – Tom Wood
+# Privacy statement – Tom Wood AS
 
 By using our services you are providing certain personal data to us. We only retain and use the personal data provided directly by you or for which it is clear that it has been supplied to us to be processed. Your privacy is of great importance to us. Therefor we process your personal data with the utmost care and in compliance with the requirements laid down by the Norwegian Personal Data Protection Act (DPDA). We will not provide any personal data to third parties without your permission.
 
