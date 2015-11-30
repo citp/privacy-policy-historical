@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloggs.co.uk privacy policy that was archived on 2014-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140805070923id_/http%3A//www.cloggs.co.uk/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloggs.co.uk privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130211346id_/http%3A//www.cloggs.co.uk/page/privacy) for the most accurate reproduction.*
 
 # Privacy at Cloggs
 
@@ -19,7 +19,7 @@ We collect information about you for three main reasons:
 We will use the information you provide to enable us to process your orders and to provide you with the services and information offered through our website and which you request.  
 The type of information we will collect about you includes:- your name, your address, your shoe size, your e-mail address, your age, your phone number and your sex. Please note that some of these fields are optional. Further, we will use the information you provide to: 
 
-  * \- Adminster your account with us;
+  * \- Administer your account with us;
   * \- Verify and carry out financial transactions in relation to payments;
   * \- Improve the layout and/or content of the pages of our website and customise them for users;
   * \- Identify visitors to our website;
@@ -27,7 +27,7 @@ The type of information we will collect about you includes:- your name, your add
   * \- With your consent upon registering with us, send you information we think you may find useful or which you have requested from us, including information about our products and services (or those of carefully selected third parties), provided you have indicated that you do not object to being contacted for these purposes.
 
   
-Subject to obtaining your consent we may contact you by calling or texting you on the telephone numbers you have provided or by email with details of other products, and services or competitions or charitable fundraising. If you prefer not to receive any marketing communications from us, you can opt out at any time. 
+Subject to obtaining your consent we may contact you by telephone or text on the telephone numbers you have provided or by email with details of other products, and services or competitions or charitable fundraising. If you prefer not to receive any marketing communications from us, you can opt out at any time. 
 
 At any stage you also have the right to ask us to stop using your personal data for direct marketing purposes. You can opt-out any time by emailing our customer service team at customerservices@cloggs.co.uk; or by following the instructions at [www.cloggs.co.uk/page/newsletterunsubscribe](https://web.archive.org/page/newsletterunsubscribe)
 
@@ -52,9 +52,9 @@ If you do not want to hear about Cloggs product offers, sales or promotions that
 
 ## Automatic Customer Tracking
 
-We use technology to track the patterns of behaviour of our visitors to our site and e-mail communications so that we can provide relevant content and messagaing, speed up the payment procedure for you, deliver the appropriate products and special offers to you, in the most easy to use and personalised way.
+We use technology to track the patterns of behaviour of our visitors to our site and e-mail communications so that we can provide relevant content and messaging, speed up the payment procedure for you, deliver the appropriate products and special offers to you, in the most easy to use and personalised way.
 
-A cookie is a small amount of data sent from our server and stored on your computer's hard drive. We have several cookies which are essential to the operation of the site, they are strickly necessary for the sale of products requested by you. A list of such cookies can be found below:
+A cookie is a small amount of data sent from our server and stored on your computer's hard drive. We have several cookies which are essential to the operation of the site, they are strictly necessary for the sale of products requested by you. A list of such cookies can be found below:
 
 SID | First page viewed | Contains information about the session. | Never  
 ---|---|---|---  
@@ -79,20 +79,20 @@ lang | All | Records the user's language preference. | Never
 httprefer | First page viewed | Referral data to track sites that link to Venda. | 2 days  
 device | First page viewed | Stores the device preference. | End of session  
   
-We also use Cookies to enhance the structure of site and, as such, your experience whilst on Cloggs.co.uk. We use cookies to establish who has seen our adverts and vitisted our. Details of these style of Cookies can be found below:
+We also use Cookies to enhance the structure of site and, as such, your experience whilst on Cloggs.co.uk. We use cookies to establish who has seen our adverts and visited our site. Details of these style of Cookies can be found below:
 
 Company | Host | Description | Duration  
 ---|---|---|---  
 MyThings | 3rd Party | Used to create personalised banner advertising after you have left our site. For more information click the "i" on the banners. | Up to 30 days  
-Quantcast | 3rd Party | Generates information about consumer behaviour in order to serve relevant adertising to other potential customers. | Up to 90 days  
-Affiliate Window & Webgains | 3rd Party | These cookies provide information on who directed you to our site. Occasionally we may reward these referers.  | Up to 30 days  
+Quantcast | 3rd Party | Generates information about consumer behaviour in order to serve relevant advertising to other potential customers. | Up to 90 days  
+Affiliate Window | 3rd Party | These cookies provide information on who directed you to our site. Occasionally we may reward these referers.  | Up to 30 days  
   
-We also use Facebook and Google Analytics, which are detialed below:
+We also use Facebook and Google Analytics, which are detailed below:
 
 Cloggs.co.uk uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States . Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
 If you’re logged in to Facebook and visit Cloggs.co.uk which has the Like button, your browser sends Facebook information about your visit. It’s important to note that Facebook is not retrieving this information. Rather, since the Like button is a little piece of Facebook embedded on Cloggs.co.uk, the browser is sending information about the request to load Facebook content on that page. Facebook record some of this information for a limited amount of time to help show you a personalized experience on Cloggs.co.uk and to improve our products. For example, when you go to a product page on Cloggs.co.uk with a Like button, Facebook need to know who you are in order to show you what your Facebook friends have liked on Cloggs.co.uk. The data Facebook receive includes your user ID, the website you're visiting, the date and time, and other browser-related information.   
-Regardless of whether you are logged in or not, Facebook do not use the information we receive when you visit Cloggs.co.uk to create a profile of your browsing behavior on third-party sites or to show you ads, although Facebook may use anonymous or aggregate data to improve ads generally. Facebook delete or anonymize the information they receive within 90 days, and they don't sell it to advertisers or share it without your permission.
+Regardless of whether you are logged in or not, Facebook do not use the information we receive when you visit Cloggs.co.uk to create a profile of your browsing behavior on third-party sites or to show you ads, although Facebook may use anonymous or aggregate data to improve ads generally. Facebook delete or anonymise the information they receive within 90 days, and they don't sell it to advertisers or share it without your permission.
 
 If you have any questions/comments about privacy, please feel free to contact us at customerservices@cloggs.co.uk or in writing at the above address, for more information.
 
