@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 24hourwristbands.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315060003id_/http%3A//24hourwristbands.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24hourwristbands.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130025038id_/http%3A//24hourwristbands.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 24HourWristbands.Com
 
@@ -48,7 +48,7 @@ NetBrands offers you a means to choose how we may use information you provided. 
 
 ## CORRECTING AND UPDATING YOUR INFORMATION
 
-To update or change registration information, to update billing information, or to discontinue the Services, log on to the Services at a NetBrands Web site, click the Setup tab, and click links to these tasks. You can also correct and update information by e-mailing [help@24hourwristbands.com](mailto:help@24hourwristbands.com) or by calling 1-877-508-4569.
+To update or change registration information, to update billing information, or to discontinue the Services, log on to the Services at a NetBrands Web site, click the Setup tab, and click links to these tasks. You can also correct and update information by e-mailing [help@imprint.com](mailto:help@imprint.com) or by calling 1-877-508-4569.
 
 ## ADDITIONAL INFORMATION
 
