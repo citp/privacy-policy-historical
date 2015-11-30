@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheerluxe.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516024413id_/http%3A//sheerluxe.com/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheerluxe.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130024913id_/http%3A//sheerluxe.com/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | sheerluxe.com
 
@@ -83,13 +83,13 @@ By using the SheerLuxe Site, you confirm your agreement to the terms and conditi
 
 **12\. Unsubscribing, Correction and Deletion of Personally Identifiable Information**
 
-If you would like to have your personally identifiable information on our database amended or deleted, please contact us at  [customerservice@sheerluxe.com](mailto://customerservice@sheerluxe.com "Email Customer Service"), and we will use commercially reasonable efforts to comply with your request in accordance with the provisions of this Privacy Policy. (We may need to contact you or verify who you are in order to be sure that we are deleting or changing the appropriate information).
+If you would like to have your personally identifiable information on our database amended or deleted, please contact us at  [info@sheerluxe.com](mailto://customerservice@sheerluxe.com "Email Customer Service"), and we will use commercially reasonable efforts to comply with your request in accordance with the provisions of this Privacy Policy. (We may need to contact you or verify who you are in order to be sure that we are deleting or changing the appropriate information).
 
-To unsubscribe from Newsletters (SheerLuxe and / or The Brief Daily), please click the relevant link at the bottom of the most recent email received or email [customerservice@sheerluxe.com](mailto://customerservice@sheerluxe.com "Email Customer Service"). To unsubscribe altogether from our database, please contact [customerservice@sheerluxe.com](mailto://customerservice@sheerluxe.com "Email Customer Service")
+To unsubscribe from Newsletters (SheerLuxe and / or The Brief Daily), please click the relevant link at the bottom of the most recent email received or email [info@sheerluxe.com](mailto://customerservice@sheerluxe.com "Email Customer Service"). To unsubscribe altogether from our database, please contact [info@sheerluxe.com](mailto://customerservice@sheerluxe.com "Email Customer Service")
 
 When requesting that personally identifiable information be amended or deleted, please keep in mind that there will be residual information that will remain within our databases, access logs and other records, which may or may not contain such personally identifiable information. The residual information  
 will not be used for commercial purposes. However, we may use that information, from time to time, to recontact former members or visitors to the SheerLuxe Site in certain limited circumstances - for instance, if required to do so by law.
 
 **13\. Queries**
 
-If you have any queries about this privacy policy, please email us at [customerservice@sheerluxe.com ](mailto://customerservice@sheerluxe.com%20 "Email Customer Service")
+If you have any queries about this privacy policy, please email us at [info@sheerluxe.com ](mailto://customerservice@sheerluxe.com%20 "Email Customer Service")
