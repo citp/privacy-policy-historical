@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixsy.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408024309id_/http%3A//www.pixsy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixsy.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130022953id_/http%3A//www.pixsy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PIXSY
 
@@ -25,6 +25,8 @@ PIXSY may share data with trusted partners to help perform statistical analysis,
 PIXSY may keep track of the websites and pages our users visit within PIXSY, in order to determine what PIXSY services are the most popular. This data is used to deliver customized content and advertising within PIXSY to customers whose behavior indicates that they are interested in a particular subject area.
 
 PIXSY will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on PIXSY or the site; (b) protect and defend the rights or property of PIXSY; and, (c) act under exigent circumstances to protect the personal safety of users of PIXSY, or the public.
+
+PIXSY may also use your personal information and information you submit to us to help resolve submissions to our Super Hero Licensing Program. Please refer to the PIXSY Super Hero Licensing Agreement for more details.
 
 #### Use of Cookies
 
@@ -59,6 +61,6 @@ WALNUT, CA
 91789  
 UNITED STATES  
 Email Address:  
-info@pixsy.com 
+info@pixsy.com 
 
 **Effective as of September 08, 2014**
