@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pegperego.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628180842id_/http%3A//pegperegousa.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pegperego.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130032741id_/http%3A//us.pegperego.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Italian-made baby products and riding toys | Peg Perego
 
