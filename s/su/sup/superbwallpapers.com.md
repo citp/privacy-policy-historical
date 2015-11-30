@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the superbwallpapers.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628180816id_/http%3A//www.superbwallpapers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbwallpapers.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130035528id_/http%3A//www.superbwallpapers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 | 
 
-Last updated: 12/9/2012
+Last updated: 2015-08-01
 
 Superbwallpapers.com respects the privacy of the visitors to this web site and any co-branded, mirrored, or successor sites (the "Website") and are committed to protecting their privacy. superbwallpapers.com has established this Privacy Policy Statement to inform you of our policies and practices regarding how we collect personal identifiable information from you, how we use and disclose it, and your rights with respect to such information. By using this Website, you acknowledge and agree to the terms and conditions of this superbwallpapers.com Privacy Policy Statement ("Privacy Policy"). If you do not agree to these terms and conditions, please do not use this Website.
 
