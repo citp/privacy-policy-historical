@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ski-lifts.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407123418id_/http%3A//www.ski-lifts.com/AdditionalInformation/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ski-lifts.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130162940id_/http%3A//www.ski-lifts.com/AdditionalInformation/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Ski-Lifts
 
@@ -30,7 +30,7 @@ You may contact us by e-mail at info@ski-lifts.com. You may call us at +44208819
 
 **Additional Information**
 
-This policy is valid until 30 June 2015 at 12:00:00 CEST.
+This policy is valid until 30 June 2016 at 12:00:00 CEST.
 
 **Data Collection**
 
