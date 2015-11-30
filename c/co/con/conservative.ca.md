@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the conservative.ca privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627105904id_/http%3A//www.conservative.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservative.ca privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130191603id_/http%3A//cpcp.cc/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Conservative Party of Canada
+# Privacy Policy | Conservative Party of Canada - Protect our Economy
 
 **Our Commitment to Protecting Your Privacy**
 
@@ -54,3 +54,5 @@ Conservative Party of Canada
 Ottawa, ON K1P 5G4
 
 If you no longer wish to receive phone calls or mail from the Conservative Party, you may contact us at servicedesk@conservative.ca. Please include your name, address and phone number so we can accurately deal with your request.
+
+#### Are you Ready to Get involved?
