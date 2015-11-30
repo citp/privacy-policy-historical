@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lasership.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193611id_/http%3A//www.lasership.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasership.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130022406id_/http%3A//lasership.com/privacy) for the most accurate reproduction.*
 
-# LaserShip, Last Mile Delivery! - Privacy
+# LaserShip, Last Mile Solutions! - Privacy
 
 LaserShip takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
