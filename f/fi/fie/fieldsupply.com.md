@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fieldsupply.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611010336id_/http%3A//www.fieldsupply.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fieldsupply.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130235001id_/http%3A//www.fieldsupply.com/privacy) for the most accurate reproduction.*
 
 # Field Supply - Privacy Policy | Field Supply
 
