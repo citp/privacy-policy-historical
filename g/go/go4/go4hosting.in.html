@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the go4hosting.in privacy policy that was archived on 2015-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629014938id_/http%3A//www.go4hosting.in/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the go4hosting.in privacy policy that was archived on 2015-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151130093859id_/http%3A//www.go4hosting.in/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -16,8 +16,9 @@ document.getElementsByTagName('head')[0].appendChild(metanode);
 <meta name="description" content="Please carefully read the mentioned Privacy Policy of Go4hosting TM ">
 <meta name="keywords" content="privacy policy">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="icon" type="image/ico" href="http://www.go4hosting.in/images/faviconew.ico">
 <link href="http://www.go4hosting.in/css/bootstrap.css" rel="stylesheet">
-<link href="http://www.go4hosting.in/css/style.css" rel="stylesheet">
+<link href="http://www.go4hosting.in/css/style.css?i=9" rel="stylesheet">
 <link href="http://www.go4hosting.in/css/dropdownmenu.css" rel="stylesheet">
 
 <!--[if lt IE 9]>
@@ -70,6 +71,8 @@ document.getElementsByTagName('head')[0].appendChild(metanode);
                     }
                 });
             });
+			
+			
             function showcallnumber() {
                 var elmObj = document.getElementById('calltab').style;
                 if (elmObj.display == '' || elmObj.display == "none") {
@@ -106,8 +109,7 @@ document.getElementsByTagName('head')[0].appendChild(metanode);
     <!--<link rel="stylesheet" type="text/css" href="http://www.go4hosting.in/css/homeslider.css" />-->
     <link rel="stylesheet" type="text/css" href="http://www.go4hosting.in/css/dropdownmenu.css">
     <link rel="stylesheet" type="text/css" href="http://www.go4hosting.in/css/testimonials.css">
-    <link rel="icon" type="image/ico" href="http://www.go4hosting.in/images/favicon.ico">
-    <link rel="icon" href="http://www.go4hosting.in/images/favicon.png" type="image/png">
+  
     <link rel="stylesheet" type="text/css" href="http://www.go4hosting.in/css/elastislide.css">
     <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="http://www.go4hosting.in/css/ie7.css" />
@@ -399,24 +401,178 @@ input[type='text'].inactive, input[type='number'].inactive, input[type='email'].
             }
         </script>
 <script type="text/javascript">
-            function dispnone() {
+         function dispnone() {
                 document.getElementById('bgoverlap1').style.display = 'none';
                 document.getElementById('popupwin').style.display = 'none';
-            }
-            function showpopup()
-            {
+         }
+         function showpopup()
+          {
                 setTimeout(function() {
                     document.getElementById('bgoverlap1').style.display = 'block';
                     document.getElementById('popupwin').style.display = 'block';
                 }, 20000)
             }
+         function validatePopup()
+		 {
+			if (document.getElementById('txtemail').value != '' || document.getElementById('txtphone').value != '' || document.getElementById('txtcaptcha').value != ''){
+				
+				if(document.getElementById('txtemail').value != ''){
+				   if(document.getElementById('txtemail').value.trim() != ''){
+					if (!(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(document.getElementById('txtemail').value))){
+							$("#ajaxrespnse").html("<span>*Invalid Email</span><br>");
+							confirmbox();
+							return false;
+					}
+				   }
+				   else{
+					   		$("#ajaxrespnse").html("<span>*Invalid Email</span><br>");
+							confirmbox();
+							return false;
+				   }
+				}
+				
+				if(document.getElementById('txtphone').value != ''){
+					if(document.getElementById('txtphone').value.trim() != ''){
+						if(isNaN(document.getElementById('txtphone').value)){
+							$("#ajaxrespnse").html("<span>*Invalid Phone Number</span><br>");
+							confirmbox();
+							return false;
+						}
+						if (document.getElementById('txtphone').value.length<10){
+							$("#ajaxrespnse").html("<span>*Please enter atleast 10 digits in phone field</span><br>");
+							confirmbox();
+							return false;
+							
+						}
+						if (document.getElementById('txtphone').value.length>10){
+							$("#ajaxrespnse").html("<span>*Max 10 digits allowed</span><br>");
+							confirmbox();
+							return false;
+							
+						}
+					}
+					else{
+						    $("#ajaxrespnse").html("<span>*Invalid Phone</span><br>");
+							confirmbox();
+							return false;
+					}
+				}
+				
+					
+				return true;
+			}
+			else{
+				$("#ajaxrespnse").html("<span>*Please Enter Email or Phone Number or Captcha</span><br>");
+				document.getElementById('txtemail').focus();
+				confirmbox();
+				return false;
+				
+				
+			}
+		}
 
 
-        </script>
+</script>
 <link rel="stylesheet" href="http://www.go4hosting.in/css/flexslider.css" type="text/css" media="screen">
+
+ <script type="text/javascript">
+ var timeout = null;
+ var submit_clicked = false;
+ $(function () {
+	$('button[type=submit]').click(function (e) {
+		window.onbeforeunload = null;
+	});
+});
+ 
+ function confirmbox(){
+  $("#registerbox").css("display","none");
+  $(".black_overlay").css("display","block");
+  $("#confirmboxnew").css("display","block");
+ 
+ }
+ function closePopBox(){
+	  document.body.style.overflow = 'auto';
+	  $("#registerbox").css("display","block");
+      $(".black_overlay").css("display","none");
+      $("#confirmboxnew").css("display","none");
+ }
+ function showconfirm(){
+	  //setTimeout("confirmbox();",20000);
+ }
+
+
+
+$(document).on('mousemove', function() {
+    if(timeout == null){
+		timeout = setTimeout(function() {
+			confirmbox();
+		 }, 30000);
+	}
+});
+
+function offthealert() {
+	submit_clicked = true;
+}
+$(document).ready(function () {
+	
+    $(window).on('beforeunload', function(){
+        if (submit_clicked || displayMessage==false)
+		return;
+	  
+		document.body.style.overflow = 'hidden';
+		$("#registerbox").css("display","block");
+		$(".black_overlay").css("display","block");
+		$("#confirmboxnew").css("display","block");
+		return 'We are offering special discounts for all this month on most of our products! Please enter your Email or Phone number to Request Callback!';
+    });
+    $(document).on("submit", "form", function(event){
+        $(window).off('beforeunload');
+    });
+	
+	$("#refresh").click(function() {
+		$("#captchaimage").attr("src","http://www.go4hosting.in/captchapopup.php");
+	});
+});
+
+$('*').hover(
+	function(){displayMessage = false;},
+	function(){displayMessage = true;}	
+);	
+
+</script>
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body onload="lazyLoadCaller();
-            showpopup()">
+            showpopup();showconfirm();">
+ <!--NEW POP START HERE-->
+<div style="display: none; padding: 0px;" id="confirmboxnew" class="popupbluebg">
+<div style="position:relative;">
+<a href="javascript:void(0)" onclick="closePopBox();" class="rgtclosebtn"><img width="18" height="18" src="http://cdn.go4hosting.in/btn-close.png" data-src="http://cdn.go4hosting.in/btn-close.png" alt=""></a>
+<h2>Can’t Seem to Find What<br> You Are Looking For?</h2>
+<div class="yellowtxt">Request A Call Back</div>
+<form method="post" id="popupreq" onsubmit="return validatePopup();">
+<div class="popuperrormessage">
+<span id="ajaxrespnse">
+        </span></div>
+<div class="clear"></div>
+<div class="emailinputbg"><input name="txtemail" id="txtemail" placeholder="Enter your E-mail" value=""> </div>
+<div class="phoneinputbg"><input name="txtphone" id="txtphone" placeholder="Enter your phone number" value=""> </div>
+<div class="clear" style="height:15px;"></div>
+<div class="captchabg"><input name="txtcaptcha" id="txtcaptcha" placeholder="Enter captcha code" value=""> </div>
+<div class="captchaimg"><img src="http://www.go4hosting.in/captchapopup.php" id="captchaimage" alt=""><input type="button" id="refresh"> </div>
+<div class="clear"></div>
+<div class="formoffertxt">We are offering special discounts for all this month on most of our products</div>
+<div class="btnfieldbox" style="margin-top:-10px;"><input type="submit" value="Get Yours Now !" class="btnsubmit" name="submitpop"></div>
+</form>
+<div class="popupbotwhitebox">
+	<div class="fl"><img width="26" height="26" src="http://cdn.go4hosting.in/icon-call.png" data-src="http://cdn.go4hosting.in/icon-call.png" alt=""> <span>Call Toll Free:</span> 1-800-212-2022 (IND) / 1-888-288-3570 (INT) </div>
+    <div class="fr"><img width="26" height="27" src="http://cdn.go4hosting.in/iconemail2.png" data-src="http://cdn.go4hosting.in/iconemail2.png" alt=""> <a href="mailto:sales@go4hosting.in">sales@go4hosting.in</a> </div>
+</div>
+</div>
+
+</div>
+<div class="black_overlay" id="fade" style="display: none;"></div>
+<!--NEW POPUP END HERE-->       
+        
 <div class="bottombar">
   <div class="calltab" id="calltab" style="height: 200px;margin-top:-199px; background-color:#FFF;  position:relative; box-shadow:0 0 5px #888888;">
     <div class="calltabtexthead"> NEED SOME HELP<br>
@@ -506,12 +662,13 @@ input[type='text'].inactive, input[type='number'].inactive, input[type='email'].
 <!--Popup design end here-->
 <div class="container-fluid" style="padding-left:0px; padding-right:0px;">
 
+
   <div class="row">
     <div class="container headerpadlrnone">
       <div class="col-sm-3 col-md-3 headerlogo"><a title="Data Center Web Hosting Company in India" href="http://www.go4hosting.in/"><img width="181" height="72" src="http://cdn.go4hosting.in/logo.jpg" data-src="http://cdn.go4hosting.in/logo.jpg" alt=""> </a></div>
         <div class="col-sm-12 col-md-9 col-xs-12">
       <div class="headerright">
-        <div class="headertopnav"><a href="http://www.go4hosting.in/corporate-overview/about">About Us</a> | <a href="http://www.go4hosting.in/partners" title="Go4Hosting Partner Program for Individuals and SMBs">Become Partner</a> | <a href="http://www.go4hosting.in/blog" title="Blog " target="_blank">Blog</a> | <a href="http://www.go4hosting.in/resource-library">Resource Library </a> | <a href="http://www.go4hosting.in/contact">Contact Us </a> | <a href="mailto:sales@go4hosting.in"><img width="14" height="17" src="http://cdn.go4hosting.in/icon-mail.jpg" data-src="http://cdn.go4hosting.in/icon-mail.jpg" alt=""><strong>Mail Us</strong></a> | <a href="http://ws.go4hosting.com/client.php"><img width="11" height="17" src="http://cdn.go4hosting.in/icon-user.jpg" data-src="http://cdn.go4hosting.in/icon-user.jpg" alt=""> <strong>Client Login</strong></a> | <a href="#" onclick="javascript:getLiveChat()"><img width="14" height="17" src="http://cdn.go4hosting.in/icon-chat-img.jpg" data-src="http://cdn.go4hosting.in/icon-chat-img.jpg" alt=""><strong>Chat</strong></a> </div>
+        <div class="headertopnav"><a href="http://www.go4hosting.in/corporate-overview/about">About Us</a> | <a href="http://www.go4hosting.in/partners" title="Go4Hosting Partner Program for Individuals and SMBs">Become Partner</a> | <a href="http://www.go4hosting.in/blog" title="Blog " target="_blank">Blog</a> | <a href="http://www.go4hosting.in/resource-library">Resource Library </a> | <a href="http://www.go4hosting.in/contact">Contact Us </a> | <a href="mailto:sales@go4hosting.in"><img width="14" height="17" src="http://cdn.go4hosting.in/icon-mail.jpg" data-src="http://cdn.go4hosting.in/icon-mail.jpg" alt=""><strong>Mail Us</strong></a> | <a href="http://ws.go4hosting.com/clientarea.php"><img width="11" height="17" src="http://cdn.go4hosting.in/icon-user.jpg" data-src="http://cdn.go4hosting.in/icon-user.jpg" alt=""> <strong>Client Login</strong></a> | <a href="#" onclick="javascript:getLiveChat()"><img width="14" height="17" src="http://cdn.go4hosting.in/icon-chat-img.jpg" data-src="http://cdn.go4hosting.in/icon-chat-img.jpg" alt=""><strong>Chat</strong></a> </div>
         <div class="headerrghtbottom">
           <ul>
             <li> Support: <span>0120-666-7718</span></li>
@@ -587,7 +744,7 @@ input[type='text'].inactive, input[type='number'].inactive, input[type='email'].
             </ul>
           </li>
           <!--VPS HOSTING Menu end here -->
-          <li> <a title="Cloud Hosting" href="http://www.go4hosting.in/services/cloud/public/overview" class="menuiconthree">Cloud <br>
+          <li> <a title="Cloud Hosting" href="http://www.go4hosting.in/services/cloud-hosting-india" class="menuiconthree">Cloud <br>
             Hosting</a>
 
             <ul style="width:670px !important; height:425px !important;">
@@ -634,6 +791,90 @@ input[type='text'].inactive, input[type='number'].inactive, input[type='email'].
                 <span>Latest Updates, News and Info on VPS Hosting</span></a></li>
             </ul>
           </li>
+          
+          <li> <a title="Web Hosting " href="http://www.go4hosting.in/services/web-hosting" class="menuiconsix">Web<br>
+            Hosting </a>
+          <!--  <ul>
+              <li><a title="Web Server Hosting Benefits" href="http://www.go4hosting.in/services/dedicated-server-hosting/web-server-benefits">Web Server Hosting Benefits<br />
+                <span>Host your critical websites on cutting-edge web servers</span></a></li>
+              <li><a title="Managed Server Hosting" href="http://www.go4hosting.in/services/dedicated-server-hosting/managed-server-hosting">Managed Server Hosting<br />
+                <span>Grow faster with minimal IT load</span></a></li>
+              <li><a title="Reseller Server Hosting" href="http://www.go4hosting.in/services/dedicated-server-hosting/reseller-server">Reseller Server Hosting<br />
+                <span>Build your business as a brand</span></a></li>
+              <li><a title="Web Hosting India Advantage" href="http://www.go4hosting.in/advantages/web-hosting-India-advantages">Web Hosting India Advantage<br />
+                <span>Build your business as a brand</span></a></li>
+
+              <li class="lastnav"><a title="Web Hosting Blog" href="http://www.go4hosting.in/blog/category/web-hosting-services" style="background:none;">Web Hosting Blog<br />
+                <span>Latest Updates, News and Info on Web Hosting</span></a></li>
+            </ul>-->
+            
+              <ul style="width:490px !important; height:425px !important;">
+              <li style="width:215px;"><a title="Web Server Hosting Benifits" href="http://www.go4hosting.in/services/dedicated-server-hosting/web-server-benefits">Web Server Hosting Benifits<br>
+                <span>Host your critical websites on cutting-<br>edge web servers</span></a></li>
+                
+                <li style="width:215px;float:right;"><a title="Web Hosting India Advantages" href="http://www.go4hosting.in/advantages/web-hosting-India-advantages">Web Hosting India Advantages<br>
+                <span>Build your business as a brand</span></a></li>
+                
+                <li style="width:215px;float:left;clear:left;"><a title="CMS Hosting" href="http://www.go4hosting.in/cms-hosting">CMS Hosting<br>
+                <span>Platform that aids your business growth</span></a></li>
+                
+                <li style="width:215px;float:right;"><a title="Wordpress Hosting" href="http://www.go4hosting.in/wordpress-hosting">Wordpress Hosting<br>
+                <span>Epitomize your Business Functionality</span></a></li>
+                
+                
+                <li style="width:215px;"><a title="Joomla Hosting" href="http://www.go4hosting.in/joomla-hosting">Joomla Hosting<br>
+                <span>Perfect blend of expertise &amp; technology</span></a></li>
+                
+                <li style="width:215px;float:right;"><a title="Drupal Hosting" href="http://www.go4hosting.in/drupal-hosting">Drupal Hosting<br>
+                <span>Catering to all your business objectives</span></a></li>
+                
+                <li style="width:215px;"><a title="Ecommerce Hosting" href="http://www.go4hosting.in/ecommerce-hosting">Ecommerce Hosting<br>
+                <span>Ensuring Business Excellence</span></a></li>
+                
+                <li style="width:215px;float:right;"><a title="Magento Hosting" href="http://www.go4hosting.in/magento-hosting">Magento Hosting<br>
+                <span>Up-to-the-minute technology &amp; support</span></a></li>
+                
+                
+                <li style="width:215px;"><a title="Managed Server Hosting" href="http://www.go4hosting.in/services/managed-server-hosting">Managed Server Hosting<br>
+                <span>Grow faster with minimal IT load</span></a></li>
+                
+                
+                <li style="width:215px;float:right;"><a title="Reseller Server Hosting" href="http://www.go4hosting.in/services/dedicated-server-hosting/reseller-server">Reseller Server Hosting<br>
+                <span>Build your business as a brand</span></a></li>
+                
+                
+                <li class="lastnav" style="width:450px;"><a title="Web Hosting Blog" href="http://www.go4hosting.in/blog/category/web-hosting-services" style="background:none;">Web Hosting Blog<br>
+                <span>Latest Updates, News and Info on Web Hosting</span></a></li>
+                
+                
+                
+                
+              <!--<li style="width:280px; margin-left:29px;"><a title="Cloud Server Hosting" href="http://www.go4hosting.in/services/cloud/cloud-server-hosting">Cloud Server Hosting<br />
+                <span>Enjoy fast, secure & scalable cloud hosting</span></a></li>
+              <li style="width:280px;"><a title="Private Cloud Hosting" href="http://www.go4hosting.in/services/cloud/private">Private Cloud Hosting<br />
+                <span>Robust, scalable & secured private cloud </span></a></li>
+              <li style="width:280px; margin-left:29px;"><a title="Windows Cloud Server" href="http://www.go4hosting.in/services/cloud/windows-cloud-servers">Windows Cloud Server<br />
+                <span>Efficiently manage data storage needs</span></a></li>
+              <li style="width:280px;"><a title="Hybrid Cloud Hosting" href="http://www.go4hosting.in/services/cloud/hybrid">Hybrid Cloud Hosting<br />
+                <span>Build agile & secured Hybrid Cloud</span></a></li>
+              <li style="width:280px; margin-left:29px;"><a title="Cloud email hosting" href="http://www.go4hosting.in/services/cloud/cloud-email-hosting">Cloud email hosting<br />
+                <span>Expand business horizon with cloud email hosting</span></a></li>
+
+              <li style="width:280px;"><a title="Cloud Storage" href="http://www.go4hosting.in/services/cloud/storage">Cloud Storage<br />
+                <span>Store & share your files easily</span></a></li>
+              <li style="width:280px; margin-left:29px;"><a title="Cloud CDN" href="http://www.go4hosting.in/services/cloud/cdn">Cloud CDN<br />
+                <span>Deliver your content at fastest speed</span></a></li>
+              <li style="width:280px;"><a title="Linux Cloud Serverss" href="http://www.go4hosting.in/services/cloud/linux-cloud-servers">Linux Cloud Servers<br />
+                <span>Highly elastic & efficient cloud servers </span></a></li>
+              <li style="width:280px; margin-left:29px;"><a title="Linux Shared hosting" href="http://www.go4hosting.in/services/cloud/enterprise-cloud">Enterprise Cloud Hosting<br />
+                <span>Unleash true potential of cloud with us </span></a></li>
+              <li style="width:280px;"><a title="White Labeled Cloud" href="http://www.go4hosting.in/services/cloud/white-labelled-cloud">White Labeled Cloud <br />
+                <span>Maximize your business potential</span></a></li>
+              <li class="lastnav" style="width:300px; margin-left:29px;"><a title="Cloud Hosting Blog" href="http://www.go4hosting.in/blog/category/cloud-hosting" style="background:none;">Cloud Hosting Blog<br />
+                <span>Latest Updates, News and Info on Cloud Hosting</span></a></li>-->
+            </ul>
+          </li>
+          
           <li> <a title="Go4hosting Data Center" href="http://www.go4hosting.in/services/data-center-india" class="menuiconfive">Data<br>
             Center</a>
             <ul>
@@ -653,21 +894,7 @@ input[type='text'].inactive, input[type='number'].inactive, input[type='email'].
                 <span>Latest Updates, News and Info on &gt;Data Center</span></a></li>
             </ul>
           </li>
-          <li> <a title="Web Hosting " href="http://www.go4hosting.in/services/web-hosting" class="menuiconsix">Web<br>
-            Hosting </a>
-            <ul>
-              <li><a title="Web Server Hosting Benefits" href="http://www.go4hosting.in/services/dedicated-server-hosting/web-server-benefits">Web Server Hosting Benefits<br>
-                <span>Host your critical websites on cutting-edge web servers</span></a></li>
-              <li><a title="Managed Server Hosting" href="http://www.go4hosting.in/services/dedicated-server-hosting/managed-server-hosting">Managed Server Hosting<br>
-                <span>Grow faster with minimal IT load</span></a></li>
-              <li><a title="Reseller Server Hosting" href="http://www.go4hosting.in/services/dedicated-server-hosting/reseller-server">Reseller Server Hosting<br>
-                <span>Build your business as a brand</span></a></li>
-              <li><a title="Web Hosting India Advantage" href="http://www.go4hosting.in/advantages/web-hosting-India-advantages">Web Hosting India Advantage<br>
-                <span>Build your business as a brand</span></a></li>
-              <li class="lastnav"><a title="Web Hosting Blog" href="http://www.go4hosting.in/blog/category/web-hosting-services" style="background:none;">Web Hosting Blog<br>
-                <span>Latest Updates, News and Info on Web Hosting</span></a></li>
-            </ul>
-          </li>
+          
           <li> <a title="Email Server Hosting" href="http://www.go4hosting.in/services/email-server-hosting" class="menuiconseven">Email<br>
             Hosting </a>
             <ul>
@@ -715,7 +942,7 @@ input[type='text'].inactive, input[type='number'].inactive, input[type='email'].
       <div class="col-sm-3"><a title="Data Center Web Hosting Company in India" href="http://www.go4hosting.in/"><img width="181" height="72" src="http://cdn.go4hosting.in/logo.jpg" data-src="http://cdn.go4hosting.in/logo.jpg" alt=""> </a></div>
     
     <div class="mobilemenu"> <a class="toggleMenu" href="#"></a>
-          <ul class="nav">
+          <ul class="nav" style="margin-top:70px;">
             <li class="test"> <a href="http://www.go4hosting.in/services/dedicated-server-hosting">Dedicated Hosting</a>
             
             <ul>
@@ -747,7 +974,7 @@ input[type='text'].inactive, input[type='number'].inactive, input[type='email'].
             
             
             
-              <li><a href="http://www.go4hosting.in/services/cloud/public/overview" title="Cloud Hosting">Cloud Hosting</a>
+              <li><a href="http://www.go4hosting.in/services/cloud-hosting-india" title="Cloud Hosting">Cloud Hosting</a>
             <ul>
 			  <li><a href="http://www.go4hosting.in/services/cloud/public/pricing" title="Public Cloud Hosting">Public Cloud Hosting</a></li>
               <li><a href="http://www.go4hosting.in/services/cloud/cloud-server-hosting" title="Cloud Server Hosting">Cloud Server Hosting</a></li>
@@ -774,6 +1001,24 @@ input[type='text'].inactive, input[type='number'].inactive, input[type='email'].
            </ul>
             </li>
             
+               
+            <li><a href="http://www.go4hosting.in/services/web-hosting" title="Web Hosting " target="_blank">Web Hosting </a>
+            <ul>
+			  <li><a href="http://www.go4hosting.in/services/dedicated-server-hosting/web-server-benefits" title="Web Server Hosting Benefits">Web Server Hosting Benefits</a></li>
+              <li><a href="http://www.go4hosting.in/advantages/web-hosting-India-advantages" title="Web Hosting India Advantage">Web Hosting India Advantage</a></li>
+              <li><a href="http://www.go4hosting.in/cms-hosting" title="CMS Hosting">CMS Hosting</a></li>
+              <li><a href="http://www.go4hosting.in/wordpress-hosting" title="Wordpress Hosting">Wordpress Hosting</a></li>
+              <li><a href="http://www.go4hosting.in/joomla-hosting" title="Joomla Hosting">Joomla Hosting</a></li>
+              <li><a href="http://www.go4hosting.in/drupal-hosting" title="Drupal Hosting">Drupal Hosting</a></li>
+              <li><a href="http://www.go4hosting.in/ecommerce-hosting" title="Ecommerce Hosting">Ecommerce Hosting</a></li>
+              <li><a href="http://www.go4hosting.in/magento-hosting" title="Magento Hosting">Magento Hosting</a></li>
+              <li><a href="http://www.go4hosting.in/services/managed-server-hosting" title="Managed Server Hosting">Managed Server Hosting</a></li>
+              <li><a href="http://www.go4hosting.in/services/dedicated-server-hosting/reseller-server" title="Reseller Server Hosting">Reseller Server Hosting</a></li>
+              
+              <li><a href="http://www.go4hosting.in/blog/category/web-hosting-services" title="Web Hosting Blog">Web Hosting Blog</a></li>
+           </ul>
+            </li>
+            
             
             <li><a href="http://www.go4hosting.in/services/data-center-india" title="Go4hosting Data Center">Data Center</a>
             <ul>
@@ -783,20 +1028,12 @@ input[type='text'].inactive, input[type='number'].inactive, input[type='email'].
               <li><a href="http://www.go4hosting.in/disaster-recovery-services" title="Disaster Recovery Services">Disaster Recovery Services</a></li>
               <li><a href="http://www.go4hosting.in/services/two-factor-authentication" title="two-factor-authentication">Two-factor-authentication</a></li>
               <li><a href="http://www.go4hosting.in/advantages/tier-3-data-center-india" title="tier-3-data-center-india">Tier-3-data-center-india</a></li>
+
               <li><a href="http://www.go4hosting.in/blog/category/data-center" title="Blog">Data Center Blog</a></li>
            </ul>
             </li>
             
-            
-            <li><a href="http://www.go4hosting.in/services/web-hosting" title="Web Hosting " target="_blank">Web Hosting </a>
-            <ul>
-			  <li><a href="http://www.go4hosting.in/services/dedicated-server-hosting/web-server-benefits" title="Web Server Hosting Benefits">Web Server Hosting Benefits</a></li>
-              <li><a href="http://www.go4hosting.in/services/dedicated-server-hosting/managed-server-hosting" title="Managed Server Hosting">Managed Server Hosting</a></li>
-              <li><a href="http://www.go4hosting.in/services/dedicated-server-hosting/reseller-server" title="Reseller Server Hosting">Reseller Server Hosting</a></li>
-              <li><a href="http://www.go4hosting.in/advantages/web-hosting-India-advantages" title="Web Hosting India Advantage">Web Hosting India Advantage</a></li>
-              <li><a href="http://www.go4hosting.in/blog/category/web-hosting-services" title="Web Hosting Blog">Web Hosting Blog</a></li>
-           </ul>
-            </li>
+         
             
             
              
@@ -991,20 +1228,20 @@ input[type='text'].inactive, input[type='number'].inactive, input[type='email'].
         
    <div class="container">
        <div class="row footersupport">
-        <div class="col-xs-12 col-sm-6 col-md-8 footerbottomlink"><a href="http://www.go4hosting.in/privacy-policy" title="Go4Hosting's Privacy Policy">Privacy Policy</a> | <a href="http://www.go4hosting.in/terms-and-conditions" title="Terms and Condition of Go4Hosting">Terms &amp; Conditions</a> | <a href="#" title="Refund Policy of Go4Hosting">Refund Policy</a> | <a href="#" title="Go4Hosting's Disclaimer">Disclaimer</a> | <a href="http://www.go4hosting.in/sitemap" title="Take an Overview of Our Services">Sitemap</a> | <a href="http://www.go4hosting.in/sitemap.xml">XML</a> | <a href="http://www.go4hosting.in/wiki/Welcome" title="Go4Hosting's Wiki Initiative Helps You to Understand Core Technical Aspects of Web Hosting">Wiki</a> | <a href="http://www.go4hosting.in/knowledgebase/" title="Go4Hosting's Wiki Initiative Helps You to Understand Core Technical Aspects of Web Hosting"> Knowledgebase</a> | <a href="http://www.go4hosting.in/forum/" title="Forum">Forum</a><br>
+        <div class="col-xs-12 col-sm-6 col-md-9 footerbottomlink"><a href="http://www.go4hosting.in/privacy-policy" title="Go4Hosting's Privacy Policy">Privacy Policy</a> | <a href="http://www.go4hosting.in/terms-and-conditions" title="Terms and Condition of Go4Hosting">Terms &amp; Conditions</a> | <a href="#" title="Refund Policy of Go4Hosting">Refund Policy</a> | <a href="#" title="Go4Hosting's Disclaimer">Disclaimer</a> | <a href="http://www.go4hosting.in/sitemap" title="Take an Overview of Our Services">Sitemap</a> | <a href="http://www.go4hosting.in/sitemap.xml">XML</a> | <a href="http://www.go4hosting.in/wiki/Welcome" title="Go4Hosting's Wiki Initiative Helps You to Understand Core Technical Aspects of Web Hosting">Wiki</a> | <a href="http://www.go4hosting.in/knowledgebase/" title="Go4Hosting's Wiki Initiative Helps You to Understand Core Technical Aspects of Web Hosting"> Knowledgebase</a> | <a href="http://www.go4hosting.in/forum/" title="Forum">Forum</a><br>
 <div style="float:left;">
-            © 2014 Go4hosting.in. All Rights Reserved. <br>
+            © 2015 Go4hosting.in. All Rights Reserved. <br>
    <div class="paymentsection" style="clear:both;float:left;margin-left:0px;width:100%;margin-bottom:10px;"> <img width="228" height="24" src="http://cdn.go4hosting.in/payment.jpg" data-src="http://cdn.go4hosting.in/payment.jpg" alt=""><br>
             <label id="_2_weaccptcrdchq">We accept cards, cheques and online transfer </label>
   </div><br> <div style="margin-top:10px;" class="textfooterimg-right"><span xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review-aggregate">
                 <span property="v:itemreviewed">Go4Hosting.in</span>
                 <span rel="v:rating">is rated
                                 <span typeof="v:Rating">
-                                                <span property="v:average">8.4</span> /
+                                                <span property="v:average">8.5</span> /
                                                 <span property="v:best">10</span>
                                 </span>
                 </span>in
-                <span property="v:count">6</span> reviews on <a rel="nofollow" href="https://www.trustpilot.com/review/www.go4hosting.in" target="_blank">Trust Pilot</a>.
+                <span property="v:count">7</span> reviews on <a rel="nofollow" href="https://www.trustpilot.com/review/www.go4hosting.in" target="_blank">Trust Pilot</a>.
 </span>
 </div>
 
@@ -1013,13 +1250,13 @@ input[type='text'].inactive, input[type='number'].inactive, input[type='email'].
  
       
 
-        <div class="col-xs-12 col-sm-6 col-md-4 footersociallink">
+        <div class="col-xs-12 col-sm-6 col-md-3 footersociallink">
             <ul>
                 <li><img width="59" height="17" src="http://cdn.go4hosting.in/followusimg.jpg" data-src="http://cdn.go4hosting.in/followusimg.jpg" alt=""></li>
                 <li><a href="https://twitter.com/go4hosting" target="_blank"><img width="23" height="22" src="http://cdn.go4hosting.in/twitter.jpg" data-src="http://cdn.go4hosting.in/twitter.jpg" alt=""></a></li>
                 <li><a href="https://www.facebook.com/go4hostingofficial" target="_blank"><img width="22" height="22" src="http://cdn.go4hosting.in/fbicon.jpg" data-src="http://cdn.go4hosting.in/fbicon.jpg" alt=""></a></li>
                 <li><a href="http://www.go4hosting.in/blog" target="_blank"><img width="22" height="22" src="http://cdn.go4hosting.in/blog.jpg" data-src="http://cdn.go4hosting.in/blog.jpg" alt=""></a></li>
-                <li><a href="https://www.linkedin.com/company/go4hosting" target="_blank"><img width="22" height="22" src="http://cdn.go4hosting.in/linkedin.jpg" data-src="http://cdn.go4hosting.in/linkedin.jpg" alt=""></a></li>
+                
                 <li><a href="https://plus.google.com/+Go4hostingIn/posts " target="_blank"><img width="22" height="22" src="http://cdn.go4hosting.in/googleplusicon.png" data-src="http://cdn.go4hosting.in/googleplusicon.png" alt=""></a></li>
             </ul>
         </div>
