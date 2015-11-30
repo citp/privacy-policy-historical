@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the smspup.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315014446id_/http%3A//smspup.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smspup.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130113653id_/http%3A//smspup.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Effective 28 February 2014.
 
-The smspup.com Website ("Site") and service ("Service") is owned and operated by Empowered Communications Pty Ltd A.B.N. 36 096 918 08 (referred to hereafter as "SMSPUP"). This privacy policy should be read in conjunction with our Terms of Service. This policy explains what information smspup.com collects about Members of the Site and how we use this information in compliance with the Privacy Amendment (Enhancing Privacy Protection) Act 2012. 
+The smspup.com Website ("Site") and service ("Service") is owned and operated by APD Performance Pty Ltd A.B.N. 36 096 918 08 (referred to hereafter as "SMSPUP"). This privacy policy should be read in conjunction with our Terms of Service. This policy explains what information smspup.com collects about Members of the Site and how we use this information in compliance with the Privacy Amendment (Enhancing Privacy Protection) Act 2012. 
 
   1. ### Collection and Use of Personally Identifiable Information
 
@@ -89,7 +89,7 @@ SMSPUP reserves the right to update this policy from time to time, in part or in
 You may access your personal information held in our databases by writing to us using the contact information below. For more information regarding this policy please contact us at:
 
 SMSPUP Privacy Officer   
-C/- Empowered Communications Pty Ltd   
+C/- APD Performance Pty Ltd   
 Level 3, Building 10, 658 Church Street   
 Richmond VIC 3121, Australia   
 Support Hotline: 1300 784 477   
