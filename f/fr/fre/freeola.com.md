@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeola.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315020528id_/http%3A//freeola.com/legal/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeola.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130212812id_/http%3A//freeola.com/legal/privacy_policy.php) for the most accurate reproduction.*
 
 # Freeola Privacy Policy
 
@@ -39,6 +39,6 @@ UK
 **Fax:** 0871 210 9988  
 **E-mail:**  Send a [Support Request](https://secure.freeola.com/support/request/). 
 
-Calls are charged at 10 pence per minute from a BT landline, charges may vary from other networks or mobiles. 
+Calls are charged at 13 pence per minute, plus your phone company's access charge. 
 
 Company registered in England number 5335999. VAT reference 859 1100 32 
