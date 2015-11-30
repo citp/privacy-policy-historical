@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxcm.co.uk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610062912id_/http%3A//www.fxcm.com/uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcm.co.uk privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130035855id_/http%3A//www.fxcm.com/uk/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, Security Info for Clients and Applicants - FXCM
 
@@ -54,3 +54,11 @@ Northern & Shell Building
 10 Lower Thames Street, 8th Floor  
 London EC3R 6AD  
 United Kingdom
+
+### Information about the UK data controller
+
+For the purpose of the Data Protection Act 1998 (the Act), the data controller Forex Capital Markets Limited of Northern & Shell Building, 10 Lower Thames Street, 8th Floor, London EC3R 6AD
+
+### Changes to our privacy policy
+
+Any changes we may make to our privacy policy in the future will be posted on this page. Please check back frequently to see any updates or changes to our privacy policy.
