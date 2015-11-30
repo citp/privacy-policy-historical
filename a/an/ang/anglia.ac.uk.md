@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anglia.ac.uk privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612153545id_/http%3A//ww2.anglia.ac.uk/ruskin/en/home/tools/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anglia.ac.uk privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130081034id_/http%3A//ww2.anglia.ac.uk/ruskin/en/home/tools/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - Anglia Ruskin University
 
@@ -183,7 +183,7 @@ We also link to other external services to enhance the functionality of our Site
 
   * [International enquiry form](http://www.angliaruskin.enquiries.uk.com/ "Visit the international enquiry form - opens in a new browser window"): provided by Hobsons Plc, this service is used to facilitate sending your enquiry to us. Cookies set by this service will fall under [Hobsons cookie policy](http://www.hobsons.com/europe/cookies.php "Read Hobsons cookie policy - opens in a new browser window").
   * YouTube: we use this to provide videos on our site which showcase our University. We've opted to use YouTube's enhanced privacy mode which limits the use of cookies. Cookies set by this service will fall under [Google's privacy policy](http://www.google.co.uk/intl/en/policies/privacy/ "Read Google's privacy policy - opens in a new browser window").
-  * Issuu: we use this to provide interactive versions of some of our publications. Cookies set by this service will fall under [Issuu's privacy policy](http://issuu.com/about/privacy "Read Issuu's privacy policy - opens in a new browser window").
+  * Issuu: we use this to provide interactive versions of some of our publications. Cookies set by this service will fall under [Issuu's privacy policy](http://issuu.com/legal/privacy "Read Issuu's privacy policy - opens in a new browser window").
   * Facebook: we use this to include news feeds from some of our Facebook Pages. Cookies set by this service will fall under [Facebook's data use policy](http://www.facebook.com/about/privacy/ "Read Facebook's data use policy - opens in a new browser window").
   * Twitter: we use this to include feeds from some of our Twitter accounts. Cookies set by this service will fall under [Twitter's privacy policy](https://twitter.com/privacy "Read Twitter's privacy policy - opens in a new browser window").
   * Soundcloud: we use this to include audio material showcasing the work of our students/staff. Cookies set by this service will fall under [SoundCloud's privacy policy](http://soundcloud.com/pages/privacy "Read SoundClouds's privacy policy - opens in a new browser window").
