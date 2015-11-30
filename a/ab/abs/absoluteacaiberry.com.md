@@ -1,56 +1,116 @@
-> *The following text is extracted and transformed from the absoluteacaiberry.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630025712id_/http%3A//www.absoluteacaiberry.com/frontend/join/privacy/site/4314) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absoluteacaiberry.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130060351id_/http%3A//www.caoh.org/privacy-policy.html) for the most accurate reproduction.*
 
-# Free AcaiBerry! Get Your Free Order Trial Now!
+# California Academy of Health Privacy Policy
 
-## Privacy Policy in accordance with the UK Data Privacy Act of 2005
+Effective on January 12, 2010
 
-Your private financial information is secure. Viv3Labs will never divulge your personal, private financial information to anyone for any reason.  
-What This Privacy Policy Covers
+This privacy statement describes how California Academy of Health collects and uses the personal information you provide on our Web site: [www.caoh.org ](http://www.caoh.org/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-  1. This policy covers how Viv3Labs treats personal information that Viv3Labs collects and receives, including information related to your past use of Viv3Labs products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
-  2. This policy does not apply to the practices of companies that Viv3Labs does not own or control, or to people that Viv3Labs does not employ or manage. In addition, certain Viv3Labs associated companies such as Visa, MasterCard and Telecom providers which have their own privacy policies.
+## Collection and Use of Personal Information
 
+We collect the following personal information from you
 
-
-## Information Collection and Use
-
-### General
-
-  1. Viv3Labs collects personal information when you register with Viv3Labs, when you use Viv3Labs products or services, when you visit Viv3Labs pages or the pages of certain Viv3Labs partners, and when you enter promotions or sweepstakes. Viv3Labs may combine information about you that we have with information we obtain from business partners or other companies.
-  2. When you register we ask for information such as your name, email address, birth date, gender, zip code, occupation, industry and we may also ask for your address, national identification number, and information about your assets. Once you register with Viv3Labs and sign in to our services, you are not anonymous to us.
-  3. Viv3Labs collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.
-  4. Viv3Labs automatically receives and records information on our server logs from your browser, including your IP address, Viv3Labs cookie information, and the page you request.
-  5. Viv3Labs uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+  * Contact Information such as name, email address, mailing address, phone number
+  * Billing Information such as credit card number, and billing address
+  * Financial Information such as bank or brokerage account numbers, types of investments
 
 
 
-### Information Sharing and Disclosure
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
-  1. Viv3Labs does not rent, sell, or share personal information about you with other people or nonaffiliated companies. Viv3Labs Privacy Policy Your privacy is our first priority. about you with other people or nonaffiliated companies.
+We use this information to
 
-
-
-## Your Ability to Edit and Delete Your Account Information and Preferences
-
-### General
-
-  1. You can edit your Viv3Labs Account Information at any time.
-  2. New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
-  3. We reserve the right to send you certain communications relating to the Viv3Labs service, such as service announcements, administrative messages and the Viv3Labs Newsletter, that are considered part of your Viv3Labs account
-  4. You can delete your Viv3Labs account by visiting our User Administration page.
-
-
-
-### Confidentiality and Security
-
-  1. We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
-  2. We have physical, electronic, and procedural safeguards that comply with regulations to protect personal information about you.
-  3. To learn more about security, including the security steps we have taken and security steps you can take, please read Security at Viv3Labs.
+  * Fulfill your order
+  * Send you an order confirmation
+  * Send you requested product or service information
+  * Send product updates or warranty information
+  * Respond to customer service requests
+  * Send you a catalog
+  * Send you a newsletter
+  * Send you marketing communications
+  * Respond to your questions and concerns
+  * Improve our Web site and marketing efforts
+  * Facilitate your transactions with other users
 
 
 
-## Changes to this Privacy Policy
+**Choice/Opt-Out**
 
-  1. Viv3Labs may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Viv3Labs account or by placing a prominent notice on our site. 
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [info@caoh.com ](mailto:info@caoh.com).
+
+**Information Obtained from Third Parties**
+
+If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+
+## Information Sharing
+
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+
+We may also disclose your personal information
+
+  * as required by law such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * if California Academy of Health is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
+  * to any other third party with your prior consent to do so.
 
 
+
+We make your contact information available to other users that you transact with on this site to help complete the transaction.
+
+_PayPal_
+
+If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal Web site.
+
+_Yahoo! Merchant Solutions_
+
+This site is hosted by Yahoo! Merchant Solutions. Yahoo! hosts the store pages, ordering system, and collects your billing information directly from you for the purpose of processing that information on our behalf. If you accessed [www.caoh.org ](http://www.caoh.org/)through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience to allows us better understand who visits the site. Please see the [Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information.
+
+Yahoo! Merchant Solutions uses cookies and log files to track visitors to our site. The statistics collected provide us information about Web site usage.
+
+## Cookies and Other Tracking Technologies
+
+We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+
+We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
+
+_Web beacons_
+
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+
+Our Web pages may also contain electronic images known as Web beacons (sometimes called single-pixel gifs) that are set by our third party partners. Web beacons are used along with cookies enabling our partners to compile aggregated statistics to analyze how our site is used.
+
+We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
+
+_Links to Other Web Sites_
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of California Academy of Health. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+
+## Security
+
+When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [info@caoh.com](mailto:info@caoh.com)
+
+In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing your information.
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [info@caoh.com](mailto:info@caoh.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+## Additional Policy Information
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+
+**Correcting and Updating Your Personal Information**
+
+To review and update your personal information to ensure it is accurate, contact us at [info@caoh.com ](mailto:info@caoh.com).
+
+**Notification of Privacy Statement Changes**
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+You can contact us about this privacy statement by writing or email us at the address below:
+
+California Academy of Health
+
+31915 Rancho California Road, Ste 200-423
+
+Temecula, CA, United States 9259
+
+Phone: 800-643-7188
