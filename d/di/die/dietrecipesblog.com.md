@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dietrecipesblog.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507232357id_/http%3A//dietrecipesblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietrecipesblog.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130055724id_/http%3A//dietrecipesblog.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Diet Recipes Blog
 
