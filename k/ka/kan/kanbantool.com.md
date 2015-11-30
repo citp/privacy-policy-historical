@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kanbantool.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325000954id_/https%3A//kanbantool.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanbantool.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130075818id_/http%3A//kanbantool.com/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kanban Tool – Online Kanban Board | Visual Management Software
 
