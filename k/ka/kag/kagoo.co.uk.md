@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kagoo.co.uk privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602022221id_/http%3A//www.kagoo.co.uk/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kagoo.co.uk privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130233724id_/http%3A//www.kagoo.co.uk/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Kagoo
 
@@ -29,15 +29,15 @@ We do not provide your personal email address or telephone number to other users
 
 1.4 We recognise the importance of protecting the privacy of information collected about visitors to our sites, in particular information that is capable of identifying an individual ("personal information"). This Internet Privacy Policy governs the manner in which your personal information, obtained through the web site, will be dealt with. This Internet Privacy Policy should be reviewed periodically so that you are updated on any changes.
 
-### 2 Personal Information
+### 2 Personal information
 
 2.1 Personal information about visitors to our sites is collected only when knowingly and voluntarily submitted. For example, we may need to collect such information to provide you with further services or to answer or forward any requests or enquiries. It is our intention that this policy will protect your personal information from being dealt with in any way that is inconsistent with applicable privacy laws in the United Kingdom. 
 
-### 3 Use of Information
+### 3 Use of information
 
 3.1 Our Data Controller will use your information together with other information for administration (including providing any goods, services or information you have requested), marketing, customer services and profiling your preferences. We will disclose your information to our service providers and agents solely for these purposes.
 
-3.2 If you wish to opt out of receiving any marketing materials from us or our service providers and agents, you may unsubscribe at any time from our communications by emailing info[at]kagoo.co.uk 
+3.2 If you wish to opt out of receiving any marketing materials from us or our service providers and agents, you may unsubscribe at any time from our communications by emailing info[at]kagoo.com 
 
 3.3 Copies of correspondence sent from the web site, that may contain personal information, are stored as archives for record-keeping and back-up purposes only. We may keep your information for a reasonable period.
 
@@ -63,14 +63,14 @@ We do not provide your personal email address or telephone number to other users
 
 6.1 Cookies are data that a web site transfers to an individual's hard drive for record-keeping purposes. Cookies, which are industry standard and are used by most web sites, including those operated by us, can facilitate a user's ongoing access to and use of a site. They allow us to customise the web site to your needs. If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature. However, you should note that Cookies may be necessary to provide you with some features of our on-line services.
 
-### 7 Links to Other Sites
+### 7 Links to other sites
 
 7.1 We provide links to web sites outside of our web site, as well as to third party web sites. These linked sites are not under our control, and we cannot accept responsibility for the conduct of companies linked to our web site. Before disclosing your personal information on any other web site, we advise you to examine the terms and conditions of using that web site and its privacy statement.
 
-### 8 Problems or Questions
+### 8 Problems or questions
 
 8.1 If we become aware of any ongoing concerns or problems with our web site, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please contact us.
 
-### 9 Further Data Protection Information
+### 9 Further data protection information
 
 9.1 For more information about data protection issues in the United Kingdom and protecting your privacy, visit the website of the Information Commissioner's office at www.ico.gov.uk.
