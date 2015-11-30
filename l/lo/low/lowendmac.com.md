@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627095804id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130032755id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
 
 # Low End Mac Privacy Policy
 
@@ -37,8 +37,8 @@ Low End Mac is an independent publication and has not been authorized, sponsored
   [PRIVACY](https://web.archive.org/privacy.html): We don't collect personal information unless you explicitly provide it, and we don't share the information we have with others. For more details, see our [Terms of Use.](https://web.archive.org/terms.html)
 
 | 
-* Mac of the Day: [Macintosh 512K Fat Mac](https://web.archive.org/1984/mac-512k-fat-mac/), introduced 1984.09.10. The first Mac with enough memory for serious work.
-* List of the Day: [Old Mac MP](http://lowendmac.com/lists/oldmacmp.html) covers 604-based multiprocessor Macs and clones.  
+* Mac of the Day: [110 MHz Power Mac 8100](https://web.archive.org/1994/power-mac-8100/), introduced 1994.11.03. The first Mac to go past the 100 MHz mark.
+* List of the Day: [LEM Swap](http://lowendmac.com/lists/swap.html) is where users can buy, sell, and swap Mac-related goods.  
 
  **Channels**  
  [Power Macs](https://web.archive.org/2005/power-mac-index/)  
