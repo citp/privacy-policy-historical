@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kaizentemplate.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410053432id_/http%3A//www.kaizentemplate.com/p/blog-page_6732.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaizentemplate.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201071930id_/http%3A//www.kaizentemplate.com/p/blog-page_6732.html) for the most accurate reproduction.*
 
-# Privacy Policy | Kaizentemplate - Rebuild Another Awesome Blogger Template
+# Privacy Policy - Kaizentemplate - Rebuild Another Awesome Blogger Templates
 
 **Privacy** is important to us, and maintaining your trust and confidence is one of our highest priorities. We respect your right to keep your personal information confidential and understand your desire to avoid unwanted solicitations. A recent law change requires us (along with banks, brokerage houses, and other financial institutions) to disclose our Privacy Policy to you – which we are more than happy to do. We hope that by taking a few minutes to read it, you will have a better understanding of what we do with the information you provide us and how we keep it private and secure.
 
@@ -14,6 +14,8 @@ Like many other Web sites, **www.kaizentemplate.com** makes use of log files. Th
 B.Cookies and Web Beacons
 
 **www.kaizentemplate.com** does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+
+This site uses cookies from Google to deliver its services, to personalize ads and to analyze traffic. Information about your use of this site is shared with Google. By using this site, you agree to its use of cookies. 
 
 C.DoubleClick DART Cookie
 
