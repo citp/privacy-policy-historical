@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the killersalesvideo.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407145124id_/http%3A//killersalesvideo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killersalesvideo.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201025635id_/http%3A//killersalesvideo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Killer Sales Video
-
-## Privacy Guarantee
 
 Our Privacy Guarantee is really quite simple: We respect yours.
 
