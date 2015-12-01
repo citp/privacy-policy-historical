@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cam4.ca privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521235051id_/http%3A//cam4.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cam4.ca privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201035141id_/http%3A//www.cam4.ca/privacy) for the most accurate reproduction.*
 
 # CAM4 Privacy Policy
 
@@ -34,7 +34,7 @@ Cam4 contacts you by email when we need to discuss your Cam4 account and any act
 
 **Google Analytics**
 
-Cam4.com makes use of Google Analytics Demographics and Interest Reporting. The the Cam4 site may also make use of other Google Analytics for Display Advertising features, including Remarketing, Google Display Network Impression Reporting and/or the DoubleClick Campaign Manager integration. We are required by Google to disclose the following information to you in our Privacy Statement in connection with our use of any Google Analytics for Display Advertising features on the Cam4 site:
+Cam4.com makes use of Google Analytics Demographics and Interest Reporting. The Cam4 site may also make use of other Google Analytics for Display Advertising features, including Remarketing, Google Display Network Impression Reporting and/or the DoubleClick Campaign Manager integration. We are required by Google to disclose the following information to you in our Privacy Statement in connection with our use of any Google Analytics for Display Advertising features on the Cam4 site:
 
   * You may opt out of Google Analytics for Display Advertising or customize Google Display Network ads by using the Google Ads Settings page. You may also prevent your data from being collected and used by Google Analytics by opting out through the use of the Google Analytics Opt-out Browser Add-on.
   * If the Cam4 site makes use of the Google Analytics for Display Advertising Remarketing feature, Cam4 will use such Remarketing feature to advertise online and third party vendors, including Google, and may show Cam4 ads on sites across the Internet.
@@ -42,6 +42,16 @@ Cam4.com makes use of Google Analytics Demographics and Interest Reporting. The 
   * Data from Google Analytics Demographics and Interest Reporting may be utilized by Cam4 to help recognize and understand user preferences, to make improvements to the Cam4 site, to choose content and advertising to display to you, and for other business purposes that will allow Cam4 to better serve you.
 
 
+
+**Legal and Regulatory Requirements.**
+
+We may disclose your personal information as necessary to meet legal, regulatory, insurance, audit, and security requirements, and as otherwise with your consent or as permitted or required by law. This may include lawful requirements to disclose personal information to government authorities domestically and in foreign countries. Government authorities may, without your consent (or our consent), communicate information to other authorities, including the police forces if there is reasonable cause to believe that a criminal or penal offence has been committed or is about to be committed. 
+
+**Your Consent.**
+
+By providing your personal information to us, you indicate that you agree and consent that we may collect, use, and disclose your personal information in accordance with this Privacy Statement. In addition, from time to time and where appropriate, we may request your specific authorization or consent for the collection, use and disclosure of your personal information for the purposes specified in our request. You may withdraw your consent to our collection, use and disclosure of personal information at any time, subject to contractual and legal restrictions and reasonable notice. If you withdraw your consent to certain uses of your personal information, we may no longer be able to provide certain of our products or services.
+
+Where we have provided or are providing services to you, your consent will be valid for so long as necessary to fulfill the purposes described in this Privacy Statement or otherwise at the time of collection, and you may not be permitted to withdraw consent to certain necessary uses and disclosures (for example, but not limited to, maintaining reasonable business and transaction records, disclosures to domestic and foreign government entities as required to comply with laws). We may also be required or permitted under statute or regulation to collect, use or disclose personal information without your consent, for example to comply with a court order, to comply with local or federal regulations or a legally permitted inquiry by a government agency, or to collect a debt owed to us.
 
 **Changing or Deleting Personal Information; Business Transfers.**
 
