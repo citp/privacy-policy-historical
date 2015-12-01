@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the catertrax.com privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411062229id_/http%3A//catertrax.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catertrax.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201071921id_/http%3A//catertrax.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CaterTrax | Web Based Catering Management Software and Online Ordering Solutions for Hospitality Professionals
 
-## CaterTrax Cares About Your Privacy
+## CaterTrax Respects Your Right to Privacy
 
-This Privacy Policy applies exclusively to the information practices related to our website, www.catertrax.com. Although this website contains links to other websites, please be aware that we are not responsible for the privacy practices of those, or any other sites. If you follow a link to another website you should carefully read their privacy policy.
+This Privacy Policy applies exclusively to the information practices related to our website, [catertrax.com](http://catertrax.com/). Further, if you use our website ([catertrax.com](http://catertrax.com/), which is the site you’re reading this on at this very moment), then this page is for you. Among other things, it talks about what constitutes a legitimate use of our website.Although this website contains links to other websites, please be aware that we are not responsible for the privacy practices of those, or any other sites. If you follow a link to another website you should carefully read their privacy policy.
 
 ## Personally Identifiable Information
 
@@ -24,4 +24,4 @@ CaterTrax reserves the right to change, modify, add, or remove portions of this 
 
 ## Contact Us
 
-If you have any questions about this privacy policy please contact us at (585) 427-8190 or visit our contact page to email a question immediately. Alternatively, you may contact us at the mailing address below:
+If you have any questions about this privacy policy please contact us at 1.800.975.8729 or visit our [Contact Us page](http://catertrax.com/get-to-know-us/contact-us/) to email a question immediately.
