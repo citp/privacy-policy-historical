@@ -1,56 +1,90 @@
-> *The following text is extracted and transformed from the liveschoolinc.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531005107id_/http%3A//whyliveschool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveschoolinc.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201074344id_/http%3A//whyliveschool.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Liveschool
 
 LiveSchool Privacy Policy
 
-Last Updated: May 5th, 2014
+Effective Date: July 6, 2015
 
-We recognize that your privacy is important and take it seriously. This Privacy Policy describes LiveSchool’s policies and procedures on the collection, use, and disclosure of your information when you access the LiveSchool website and blog (“Website”).   By accessing the Website, you consent to the practices outlined in this Privacy Policy. LiveSchool reserves the right to amend this Privacy Policy, and if we do, any such changes will be included on this page so current privacy information will always be available to you. The Privacy Policy will also note the date on which it was last changed.
+Who We Are
 
-Personal Information
+LiveSchool, Inc. (“LiveSchool”) is a developer and provider of an award-winning classroom management and student motivation application (the “LiveSchool Service” or “Service”). Our mission is to help schools work together to improve culture and create great environments for students to learn.
 
-The only personal information collected by LiveSchool is personal information that is voluntarily provided by users. We don't collect personal information without your knowledge. We don’t sell your personal information to third parties. We will use your personal information to fulfill requests made by you and for other business purposes of LiveSchool and any of its successors. We may also use your personal information to send you marketing materials or other information about LiveSchool and its products and services, or LiveSchool’s partners, advertisers, and other parties, goods, or services that may be of interest to you.
+LiveSchool partners with schools to help teams work together to track and improve behavior through a school-wide behavior points and rewards system. Using any tablet, laptop, desktop, smartboard, or mobile device, teachers and administrators can award or deduct points, leave and view comments, print weekly “paycheck” reports, and withdraw points when students redeem points for teacher-designated incentives.  The LiveSchool Service also includes a Parent Application and a Student Application for parents and students respectively to view teacher comments and check the status of points awarded and redeemed.
 
-An example of how we may collect personal information is in connection with signing up for an account. The information you provide in registering for an account will be used by us to give you the information or service you are requesting. We may also use your name, phone number, email address, or home address to send you marketing materials and other information about LiveSchool and its products and services, or LiveSchool’s partners, advertisers, and other parties, goods or services that may be of interest to you. You may opt-out of receiving any additional information by following the clear instructions at the bottom of each email to opt out of future emails.
+LiveSchool recognizes that user privacy and student privacy are important and we take them both seriously. This Privacy Policy describes LiveSchool’s policies and procedures regarding the collection, use, and disclosure of your information when you access the LiveSchool website www.whyliveschool.com (“Website”) and the LiveSchool Service. This Privacy Policy applies to our Website, our web-based LiveSchool Service, and our mobile application-based LiveSchool Service.
 
-Transactional emails for the purposes of maintaining your account are not communication of which you can opt out. If you would like to delete your account and stop receiving emails pertaining to your LiveSchool account, email support@liveschoolinc.com with the subject line “Cancel Account.”
+Collection of Personal Information
 
-Children’s Privacy
+The Website and the Service may collect the following categories of personal information from you: first and last name, email address, school name and address (if you are a teacher), gender (as indicated by your voluntary selection of Mr., Ms., etc.), and telephone number (“Personal Information”).  We only collect Personal Information when you provide it voluntarily to us. We don't collect Personal Information without your knowledge. We don’t sell your Personal Information to third parties.
 
-Protecting the privacy of children is especially important. Our website is not intended for children under 13 years of age. LiveSchool does not knowingly collect or solicit personal information from children under the age of 13 or knowingly allow such persons to register to use our Services. If you learn that our Services are being used by a child under the age of 13, please contact us at support@LiveSchool.com. If we become aware that we have collected personal information from a child under age 13 without verification of parental consent, we take steps to remove that information.
+Collection of Non-Personal Information
 
-Your California Privacy Rights
+We automatically collect and store certain non-personal information concerning the traffic to our Website and the use of our Service, including, for example: the browser software you use and your operating system; the date and time you access our Website or the Service; and the internet protocol (IP) address of the website from which you linked to our Website or the Service. We use this information as anonymous aggregate data for business purposes such as to determine the number of visitors to different sections of our Website or our Service, to ensure our Website or our Service is working properly, and to help us make our Website or our Service more useful for our users.
 
-California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personally identifiable information (if any) for their direct marketing purposes in the prior calendar year, as well as the types of personally identifiable information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to support@LiveSchool.com.
+ _Cookies  
+_  
+From time to time, we may place cookies on your computer to collect anonymous data related to your use of the Website or your use of the Service. Generally speaking, "cookies" are text files that are placed in your device's browser that can be used to help recognize your browser across different web pages, websites, and browsing sessions.  LiveSchool uses cookies to provide certain features of our Website and of the LiveSchool Service. You have the ability to accept or decline cookies.  Most web browsers automatically accept cookies, but you can usually modify your browser’s setting to decline cookies if you prefer. If you choose to decline cookies, certain features of our Website and of the LiveSchool Service may not function properly.
 
-Traffic Data and Other Non-Personal Information
+ _Mobile Device Identifiers   _
 
-We automatically collect and store certain non-personal information concerning the traffic to our website and web applications, including, for example: the browser software you use and your operating system; the date and time you access our sites; and the internet address of the site from which you linked to our website or web application. We use this information as anonymous aggregate data for business purposes such as to determine the number of visitors to different sections of a website, to ensure the site is working properly, and to help us make the website more useful. We also use this information to see where leads are generated from in an attempt to better optimize our ongoing internet marketing efforts.
+Many mobile devices have identifiers (“Device IDs”) that are accessible by mobile applications and which can be passed to LiveSchool with an advertisement request. Device IDs do not enable LiveSchool to identify individuals, but rather, may be used for administrative advertising purposes.  For example, Device IDs may be used to limit the number of times a specific advertisement is presented to the same device, or to show that a device interacted with an advertisement (i.e. “clicked” on it, watched a video advertisement, or downloaded an application as a result of an advertisement).  If LiveSchool stores a Device ID, it would be for these administrative advertising purposes only.
 
-At this time, our website does not use persistent “cookies” or other tracking mechanisms that collect personally identifying information. We use session cookies to anonymously collect the date and time of the visit. Accepting session cookies on our site is voluntary; you may still use the site if you decline cookies.
+ _Location-Based Data_
 
-You may also provide us with other non-personal information. For example, you may provide us with information regarding how you learned about us, or you may provide us with information regarding why you are interested in our products or services. This information may be used by our marketing and product personnel to better optimize our ongoing marketing and product development efforts.
+We do not collect any information that would allow us to track your location. However, from time to time, we may collect geo-location information, such as IP addresses, in order to detect your time zone or to detect when a new LiveSchool Service account may be affiliated with an existing LiveSchool Service account.  We do not use your IP address to identify you directly.
 
-Contests, Sweepstakes or Special Offers
+Use of Personal Information
 
-We may offer promotions, contests, or sweepstakes that may require that you enter contact information to qualify for entry. Collected data from promotions, contests, or sweepstakes may be used to process entries, send promotional materials, notify entrants, and may be shared with other companies in connection with these activities.
+We use the Personal Information you voluntarily provide to us, or that we collect, to operate and enhance the LiveSchool Service, including personalizing the Service for you and for other users. For example, if a teacher creates a new LiveSchool account and that teacher is affiliated with a school that has an existing LiveSchool account, then we may use Personal Information to connect these users who are affiliated with the same school. By way of another example, the information you provide in registering for an account will be used by us to give you the information or service you are requesting. From time to time, LiveSchool may use the school address associated with a teacher or school administrator in order to send tangible reward packs to a school for use with the LiveSchool Service.
+
+We use your Personal Information to fulfill requests made by you and for other internal business purposes of LiveSchool and any of its successors. If you are a teacher, we may also use your Personal Information to send you emails about LiveSchool and its products and services. You may opt-out of receiving these emails by following the clear instructions at the bottom of each email to opt-out of future emails.
+
+Please note however, that transactional emails, such as those emails sent for the purpose of maintaining your account, are not communications of which you can opt-out. If you would like to delete your account and stop receiving emails pertaining to your LiveSchool account, email [support@liveschoolinc.com](mailto:support@liveschoolinc.com?subject=Cancel%20Account) with the subject line “Cancel Account.”
+
+Disclosure of Your Information
+
+We do not rent, sell, or provide Personal Information to third parties for their marketing purposes. However, we may share certain Personal Information and non-personal information we collect or receive with third parties who assist us in understanding your use of the Service. From time to time, these third parties may assist us by sending you an email regarding your use of the Service or regarding certain attributes of the Service that you may find useful given the products and services you have requested.
+
+In addition, there may be instances when LiveSchool may access or disclose your Personal Information or your non-personal information in order to:(i) protect the safety, security, and privacy of users of the Website or the Service or members of the public including under exigent circumstances; (ii) protect or defend the legal rights or property of LiveSchool; or (iii) comply with applicable law or legal process.
+
+From time to time, we may allow certain third party analytics service providers to include web beacons within the pages of our Website, giving them limited access to your non-personal information. Except for third party service providers who help us understand your use of the Service and assist us in sending email notifications to you regarding your use of the Service, none of the Personal Information that you provide to us is shared with our third party analytics service providers as part of our analytics program.
+
+Children’s Privacy Rights
+
+Although the LiveSchool mission is to help schools work together to improve culture and create great environments for students to learn, the LiveSchool Website is a general audience website and is not intended for children under the age of 13.  However, when a school or teacher uses the LiveSchool Service, we will not require any student, regardless of age, to disclose any more personal information than is reasonably necessary for that student to use the Service.
+
+Parents and legal guardians, if your child is under the age of 13 and his or her school or teacher uses the LiveSchool Service, you have the right to request: (i) a description of the type of personal information about your child that is collected through the Service; (ii) a review and copies of that personal information; (iii) modifications of and deletions to that personal information; and (iv) the prevention of further use or collection of your child's personal information. If you wish to make any of these requests, please contact the administrator at your child’s school.  Please be aware however, that, depending on your child’s school's policies, if you request that your child’s personal information not be collected or used through the LiveSchool Service, your child may no longer be eligible to participate in our Service, including participation in the awarding of points, the redemption of points, and the distribution of rewards.
+
+California Privacy Rights
+
+California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their Personal Information (if any) for their direct marketing purposes in the prior calendar year, as well as the types of Personal Information disclosed to those parties.  Although we do not disclose your Personal Information to any third parties for their direct marketing purposes, if you are a California resident and would like to request this information, please submit your request in an email to [support@liveschoolinc.com](mailto:support@liveschoolinc.com).
+
+California Privacy Rights for Users Under Age 18
+
+LiveSchool does not knowingly use, disclose, compile, or allow a third party to use, disclose, or compile, the Personal Information of a user under the age of 18 who resides in California (a “Minor”) for the purpose of marketing or advertising any of the products or services prohibited by the Privacy Rights for California Minors in the Digital World Act. In addition, any Minor who is a registered user of our Website or the LiveSchool Service may, at any time, remove or request and obtain removal of content or information about them that they themselves posted on our Website or on our Service. This provision, however, does not apply to the following content or information: (i) content or information posted by a third party; (ii) anonymized or de-identified content or information; or (iii) content or information for which a Minor was compensated to post.
 
 Links to Other Websites
 
-Our website and web applications may contain links to other websites and may provide opportunities to publish certain information to third party websites or social media platforms. LiveSchool is not responsible for the content or privacy practices of that website, platform, or any other linked services. We encourage our users to be aware when they leave our website and web applications, and to read the privacy policies of each and every website that collects or publishes personal information. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website's own rules and policies.
+Our Website and the LiveSchool Service may contain links to other websites and may provide opportunities to publish certain information to third party websites or social media platforms. LiveSchool is not responsible for the content or privacy practices of those websites, platforms, or any other linked services. We encourage our users when they leave our Website or the LiveSchool Service to read the privacy policies of each and every website that collects or publishes personal information. Your browsing and interaction on any other website, including those that may have a link on our Website or the Service, is subject to that website's own rules and policies.
 
-Third Party Service Providers
+International Users
 
-LiveSchool works with certain third parties to provide our Services. These third parties may collect personal and non-personal information from users of our Services. For example, monetary transactions may be facilitated by a third party payment processor, in which case you and/or LiveSchool would share your information, including information about your financial accounts, with the processor, for this purpose. We encourage our users to read the privacy policies of any third parties. LiveSchool is not responsible for the content or privacy practices of any third parties. If you have questions about what third parties are involved with our Services, please contact us at support@LiveSchool.com.
+Our Website, the LiveSchool Service, and the information collected through those channels, are hosted in the United States.  For international users, please note that it may be necessary to transfer your information internationally and, in particular, your information may be transferred to and processed in the United States. For residents of the European Union, the data protection and other laws of countries outside of the European Union may not be as comprehensive as those of the European Union. Please be assured that we take steps to ensure that the privacy of our international users is protected as described in this Privacy Policy. By using our Website, the web-based LiveSchool Service, or the mobile application-based LiveSchool Service, you agree to have your information transferred to and used in the United States as set forth in this Privacy Policy.
 
 Security
 
-When you submit information via our Services we take efforts to protect your information both online and offline. Please keep in mind, however, that whenever you give out personal information online, such information is not always secure in transit. While we strive to protect your privacy and secure your information, we cannot guarantee the security of information sent over the internet, and you disclose such information at your own risk.
+LiveSchool uses commercially reasonable administrative, technical, personnel, and physical security measures designed to safeguard your Personal Information in our possession against loss, theft, unauthorized use, disclosure, and modification. Please keep in mind, however, that whenever you give out personal information online, such information is not always secure in transit. While we strive to protect your privacy and secure your Personal Information, we cannot guarantee the security of information sent over the Internet or through a mobile application, and you disclose such information at your own risk.
+
+Changes to this Privacy Policy
+
+From time to time, we may modify this Privacy Policy to reflect industry initiatives, changes in the law, changes in our information collection and use practices, or changes in the features of the Website or the LiveSchool Service, and such modifications shall be effective upon posting by LiveSchool on this Website.
+
+If we make a material change to this Privacy Policy, we will notify you by email (as listed in your account profile). If LiveSchool materially changes its practices regarding its collection or its use of Personal Information, our collection and use of your Personal Information will continue to be governed by the Privacy Policy under which it was collected, unless you have been provided notice of, and have not objected to, the change.
 
 Questions
 
-If you have any questions about our practices or this privacy policy, please contact us at support@LiveSchool.com, or send mail to:  
+If you have any questions about our practices or this privacy policy, please contact us at privacy@LiveSchool.com, or send mail to:  
 
 LiveSchool, Inc   
 Attn: Privacy   
