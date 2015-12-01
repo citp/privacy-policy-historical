@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsshoes.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612051558id_/http%3A//www.sportsshoes.com/support/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsshoes.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201103630id_/http%3A//www.sportsshoes.com/support/privacy) for the most accurate reproduction.*
 
 # Support, Help & Advice | SportsShoes.com
 
