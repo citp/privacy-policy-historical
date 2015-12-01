@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoedazzle.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175451id_/http%3A//www.shoedazzle.com/index.cfm%3Faction%3Dhome.privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoedazzle.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201174001id_/http%3A//www.shoedazzle.com/index.cfm%3Faction%3Dhome.privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | ShoeDazzle
 
@@ -41,7 +41,7 @@ _Children Under 13:_ Children under 13 may view this Site, but they cannot make 
 
 _Exclusion to this Privacy Policy:_ This Privacy Policy shall not apply to any unsolicited information you provide to ShoeDazzle through this Site or through any other means. This includes, but is not limited to, information posted to any public areas of the Site, such as review sections and forums (collectively, "Public Areas"), any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, "Unsolicited Information"). All Unsolicited Information shall be deemed to be non-confidential and ShoeDazzle shall be free to reproduce, use, disclose, distribute and exploit such Unsolicited Information without limitation or attribution.
 
-_California Residents:_ If you are a California resident and have an established business relationship with us, you can request a notice disclosing the categories of personal information we have shared with third parties, for the third parties’ direct marketing purposes, during the preceding calendar year. To request a notice, please submit your request to Just Fabulous, Inc., Attn: ShoeDazzle Legal Department, California Shine the Light Inquiry, 800 Apollo Drive, El Segundo, CA 90245.
+_California Residents:_ If you are a California resident and have an established business relationship with us, you can request a notice disclosing the categories of personal information we have shared with third parties, for the third parties’ direct marketing purposes, during the preceding calendar year. To request a notice, please submit your request to Just Fabulous, Inc., Attn: ShoeDazzle Legal Department, California Shine the Light Inquiry, 800 Apollo St., El Segundo, CA 90245.
 
 _Amendments or Modifications to this Policy:_ We reserve the right to amend this policy at any time without prior notice. Notice of any change will be posted on this Site. Please check this page periodically for changes. Your continued use of the Site after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
 
@@ -49,6 +49,6 @@ _Contact Us:_ If you have any questions regarding the use of our site or privacy
 
 JustFab  
 Attn: ShoeDazzle Legal Department/Privacy  
-800 Apollo Drive  
+800 Apollo St.  
 El Segundo, CA 90245  
 Or 1-888-508-1888 
