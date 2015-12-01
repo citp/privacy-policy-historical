@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the sikhphilosophy.net privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030030723id_/http%3A//www.sikhphilosophy.net/faq.php%3Ffaq%3Drulesregulations%23faq_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sikhphilosophy.net privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201090323id_/http%3A//www.sikhphilosophy.net/link-forums/privacy-policy.498) for the most accurate reproduction.*
 
-# Sikh Philosophy Network - Help Center: Rules & Regulations
+# Privacy Policy | Sikh Philosophy Network
 
+[ ](http://www.sikhphilosophy.net/)
+
+  
 **Privacy Policy**
 
 **We respect your Privacy!**
