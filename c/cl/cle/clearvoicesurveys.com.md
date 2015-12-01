@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearvoicesurveys.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193427id_/http%3A//clearvoicesurveys.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearvoicesurveys.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202002202id_/http%3A//www.clearvoicesurveys.com/Privacy.aspx) for the most accurate reproduction.*
 
 # ClearVoice Surveys - Privacy Policy
 
