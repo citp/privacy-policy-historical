@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classiccars.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607143017id_/http%3A//classiccars.com/legal.aspx%23PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classiccars.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201032456id_/http%3A//classiccars.com/legal.aspx%23PrivacyPolicy) for the most accurate reproduction.*
 
 # Legal
 
@@ -134,13 +134,16 @@ If you have any questions or suggestions regarding our privacy policy, please co
 
 Back to top
 
-Welcome to ClassicCars.com! By accessing this website (the "Site"), you agree to be bound by the Terms and Conditions appearing in this document. Please read the following terms and conditions carefully. Your use of the services provided by the Site or any of its subsidiaries (the "Service") is specifically conditioned upon your agreement to the Terms and Conditions contained in this Terms and Conditions Agreement (the "Agreement"). By using the Service, you are agreeing to all of the terms contained in this Agreement. 
+Welcome to ClassicCars.com! By accessing this website (the "Site") or by making an offer on a vehicle listed on ClassicCars.com, you agree to be bound by the Terms and Conditions appearing in this document. Please read the following terms and conditions carefully. Your use of the services provided by the Site or any of its subsidiaries (the "Service") is specifically conditioned upon your agreement to the Terms and Conditions contained in this Terms and Conditions Agreement (the "Agreement"). By using the Service, you are agreeing to all of the terms contained in this Agreement. 
 
 **Definitions**  
 Throughout this Agreement, the words "we," "us," "our", and "ours" refer to Collector Car Network, Inc. an Arizona corporation, its officers, employees, consultants, and subsidiaries. The words "you," "your," and "yours" refer to you, a user of the Service. 
 
 **Modifications to Agreement**  
 We may at any time, and without notice, modify, update, or otherwise change the terms of this Agreement, and you agree to be bound by such changes. Accordingly, we encourage you to visit the Site from time to time to review the current Terms and Conditions. 
+
+**ClassicCars.com**  
+ClassicCars.com is a vehicle listing, information service and auction website that brings together buyers and sellers. ClassicCars.com is not an automobile broker or dealer and does not sell, exchange, buy, or offer for sale, negotiate or attempt to negotiate, a sale or exchange of an interest in any vehicle listed for sale on our service. ClassicCars.com does not hold or possess title for any vehicle listed for sale on our service. ClassicCars.com is not a party to any vehicle sale contract between vehicle buyers and sellers that originates on or through the Service, and ClassicCars.com does not offer other ancillary products and services such as vehicle financing, service contracts, mechanical breakdown insurance, vehicle registration/titling, and vehicle transfer escrow services. 
 
 **Ownership**  
 Any and all intellectual property rights associated with the Service and the Network and its affiliates—including without limitation any inventive concepts, know-how, publicity rights, trademarks, trade dress, trade secrets, and copyrights—are the sole property of Collector Car Network, Inc., and may not be copied, reproduced, modified, uploaded, transmitted, or distributed in any way without our written permission. Except as provided herein, we do not grant to you any express or implied rights to our intellectual property. Any rights associated with content that is transmitted, downloaded, or otherwise processed by the Service shall be retained by the content owner, if any, and may be protected by applicable copyright, trademark, or other laws. For the purposes of this Agreement, the term "Content" refers to any of the various information, files, data, and media types which can be sent, received, or processed by the Service in accordance with a variety of protocols, including, without limitation, text, graphics, video, audio, streaming media, e-mail, chat, HTML, instant messaging, and the like. This Agreement gives you no rights in and to such Content. To the extent that you own any rights in Content that you provide to us, you hereby grant to us a non-exclusive, irrevocable, royalty-free, paid-up license to use, copy, publish, distribute, publicly perform, publicly display, create derivative works or otherwise exploit any Content that is provided during your use of the Service. 
@@ -168,6 +171,17 @@ You explicitly agree not to:
   * Use the Service with the intent to defraud us, any user of the Service, or any other party, including, but not limited to, using the Service to solicit sales fraudulently or using the Service to engage another party in a fraudulent transaction.
 
 
+
+**Sellers and Buyers**  
+ClassicCars.com is not responsible for incorrect information given by buyers or sellers, including title and other information regarding vehicles, including but not limited to, vehicle mileage, history, condition, and photos of the vehicle. We do not guarantee nor provide warranty regarding vehicles available from our Site. The sale of vehicle(s) is between the legal owner and the buyer only. ClassicCars.com does not own, verify, buy or sell any vehicles listed for sale on our Site. ClassicCars.com does not possess title, nor hold title for any vehicle for sale on our Site. Vehicle information or inspection reports provided by sellers is provided for informational purposes only. ClassicCars.com is not responsible for any incorrect information or mistakes. 
+
+**Make an Offer Option**  
+From time to time ClassicCars.com may offer for sale a vehicle under a program which permits prospective buyers to “make an offer” using facilities made available for that purpose on the Site. Buyer activity for vehicles offered under this program are subject to additional terms and conditions as defined herein. 
+
+When described as a “make an offer” sale, the buyer agrees that any and all offers made pursuant to this program are binding and cannot be cancelled by the buyer. Buyers agree to pay the full amount of the agreed-upon sales price to the seller in full within five (5) business days upon agreement of a sales price. Unless agreed to beforehand in writing, buyers agree the seller is not responsible for any shipping or delivery fee. Buyer agrees to pay a buyer's fee to ClassicCars.com. The buyer’s fee is five percent (5%) of the total agreed-upon sales price and is not included in the final offer price. Buyer agrees to pay all applicable government fees and taxes for the vehicle. 
+
+**Vehicle Pricing**  
+The prices listed by sellers on ClassicCars.com exclude government fees and taxes, registration and titling fees, regulatory and electronic processing charges, inspection charges, emission testing charges, and any other fees required by law, any or all of which may be added to the listed price to arrive at the final sale price of a particular vehicle. All dollar amounts listed on the website are in U.S. funds. 
 
 **No Liability**  
 We assume no responsibility for Content downloaded, uploaded, stored, or otherwise processed by the Service. Accordingly, if you choose to use the Service, you do so at your own risk. For example, you acknowledge that: 
