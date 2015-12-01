@@ -1,8 +1,18 @@
-<!--The following is the downloaded HTML source of the voylla.com privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627042326id_/http%3A//www.voylla.com/policy/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the voylla.com privacy policy that was archived on 2015-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151201021345id_/http%3A//www.voylla.com/policy/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#" version="HTML+RDFa 1.1"><head data-hook="inside_head">
-    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+      <script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-29059432-1', 'auto');
+    ga('require', 'ec');
+    ga('set', '&cu', 'INR');
+    ga('send', 'pageview');
+  </script>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
 <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
 <link rel="canonical" href="http://www.voylla.com/policy/privacy">
 <meta name="language" content="english">
@@ -36,10 +46,10 @@
         <meta name="keywords" content="fashion jewellery,sterling silver,imitation jewellery,traditional jewellery,buy designer jewellery,buy jewellery india online">
 <meta name="robots" content="">
 <link rel="shortcut icon" href="http://images.voylla.com/favicon.ico">
-<link href="/assets/application-25b11141d92ac4682c572159dda117f4.css" media="screen" rel="stylesheet" type="text/css">
+<link href="//assetproduction.s3.amazonaws.com/assets/application-9946a709ff8215a4a546ae05fcdedeb7.css" media="screen" rel="stylesheet" type="text/css">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="qxb8IETfr1RtgviFfADkYEjD+7n7gEJNC7TTsBFRCHo=" name="csrf-token">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="/assets/application-5e33a0d9c3991ff3517ebf3b2993fb2e.js" type="text/javascript"></script>
+<meta content="zpxz5zo3mw8SzUP2993gbeIoTLYv4SkwaruXpbI477o=" name="csrf-token">
+<script src="//assetproduction.s3.amazonaws.com/assets/application-5e33a0d9c3991ff3517ebf3b2993fb2e.js" type="text/javascript"></script>
 
 <!-- Facebook Custom Audience Pixel -->
 <script>(function() {
@@ -60,38 +70,175 @@
 <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1430231173914773&amp;ev=NoScript" /></noscript>
 
 
-<script>
-  var user_id = "**********";
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','google_analytics');
 
-  google_analytics('create', 'UA-29059432-1', {'userId': user_id});
-  var clientId = '';
-    google_analytics(function (tracker) {
-        clientId = tracker.get('clientId');
-        console.log(clientId);
-        google_analytics('create', 'UA-29059432-1', {'clientId': clientId});
-        google_analytics('require', 'displayfeatures');
-        google_analytics('set', 'dimension1',clientId);     
-    });
-  google_analytics('set', 'dimension2', user_id);
-  google_analytics('require', 'ec');
-  google_analytics('set', '&cu', 'INR');
-  google_analytics('send', 'pageview');
 
+<script type="text/javascript">
+  // traffic_source_tracking pixel
+  (function(cookieName, domain){
+    var traffic_source_COOKIE_TOKEN_SEPARATOR = ">>"; //separating between concatenated lead source
+    var traffic_source_date_SEPARATOR = "|>";
+    var traffic_source_cookie_validity = 30;
+    var NONE = "(none)";
+
+    domain = domain || window.location.hostname;
+    function getCookie(cookieName){
+        var name = cookieName + "=";
+        var cookieArray = document.cookie.split(';'); //break cookie into array
+        for(var i = 0; i < cookieArray.length; i++){
+          var cookie = cookieArray[i].replace(/^\s+|\s+$/g, ''); //replace all space with '' = delete it
+          if (cookie.indexOf(name)==0){
+             return cookie.substring(name.length,cookie.length); //
+          }
+        }
+        return null;
+    }
+
+    /*
+       Checks whether a certain parameter exist in the current browser URL. If it does, it returns its name. 
+     It will receive "src" later in the main function
+    */
+
+    function getURLParameter(param){
+        var pageURL = window.location.search.substring(1); //get the query string parameters without the "?"
+        var URLVariables = pageURL.split('&'); //break the parameters and values attached together to an array
+        for (var i = 0; i < URLVariables.length; i++) {
+            var parameterName = URLVariables[i].split('='); //break the parameters from the values
+            if (parameterName[0] == param) {
+                return parameterName[1];
+            }
+        }
+        return null;
+    }
+
+    /*
+       Gets the first (latest) token from a cookie: THIS__ONE>>NOT__THIS__ONE>>AND__NOT__THIS__ONE
+    */
+  
+    function getFirstTokenFromCookie(cookie){
+        var result = "";
+        var firstSeparatorIndex = cookie.indexOf(traffic_source_COOKIE_TOKEN_SEPARATOR);
+        result = firstSeparatorIndex !== -1 ? cookie.substring(0, firstSeparatorIndex) : cookie; //if there is a separator, provide the newest value no the cookie  
+        return result;
+    }
+
+    /*
+       Set the cookie if it doesn't exist.
+    */
+
+    setCookie = function(c_name,value,exdays){
+      var exdate=new Date();
+      exdate.setDate(exdate.getDate() + exdays);
+      var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+      document.cookie=c_name + "=" + c_value + ";path=/";
+    }
+  
+    /*
+       Boolean, whether or not it's not NULL or Empty
+    */
+  
+    function isNotNullOrEmpty(string){
+        return string !== null && string !== "";
+    }
+  
+    /*
+       Remove the protocol for the referral token
+    */
+    function removeProtocol(href) {
+        return href.replace(/.*?:\/\//g, "");
+    }
+
+    /*
+       Find lead source by checking cookie, url param "src" or referrer(that order) and set new cookie traffic_source.
+       Do this only if cookie do not exist. This value will be used for contact form.
+       If cookie exist add url "src" param on the beginning of the cookie if it exists and it is not already at the beginning of the cookie.
+       This way "tokens" are made in traffic_source cookie. Token separator is ">>" (see above traffic_source_COOKIE_TOKEN_SEPARATOR)
+    */
+
+    var urlParamSRC = getURLParameter("utm_source"); //take the SRC value
+    if(document.cookie.indexOf(cookieName) === -1) { // if there is no cookie traffic_source set yet, check if there is an existing UTMZ campaign name.
+        var traffic_source = ""; //reset lead source value
+        var utmzCookie = getCookie("__utmz"); //get GA cookie
+        var cookieCampaignName = "";  //reset lead source value
+        if(utmzCookie != null) {
+            var UTMSRC = "utmccn=";
+            var start = utmzCookie.indexOf(UTMSRC);
+            var end = utmzCookie.indexOf("|", start); 
+            if(start > -1) {
+                if(end === -1) {
+                    end = utmzCookie.length; 
+                }
+                cookieCampaignName = "utmz:" + utmzCookie.substring((start + UTMSRC.length), end); //get the value of the UTMZ, without the parameter name
+            }
+        }
+        if(cookieCampaignName != "" && isNotNullOrEmpty(urlParamSRC)){ //if there is a campaign name AND there is SRC value
+             traffic_source = urlParamSRC; // + traffic_source_COOKIE_TOKEN_SEPARATOR + cookieCampaignName; //concateane the SRC with the existing campaign name
+             // traffic_source = urlParamSRC + currTime() + traffic_source_COOKIE_TOKEN_SEPARATOR + cookieCampaignName; // Optional: add the session time
+        } else if(cookieCampaignName != ""){ //if there is campaign name
+             traffic_source = cookieCampaignName;  //just use it for the new cookie
+        } else if(urlParamSRC != null) { //if there is not campaign name but we have SRC
+            traffic_source = decodeURI(urlParamSRC); // decode URI of the SRC parameter
+            // traffic_source = decodeURI(urlParamSRC) + currTime(); //  Optional: add the session time
+        } else if(document.referrer != ""){ //if there is not campaign, and no src, check if there is a referrer,
+            var referrerHostName = removeProtocol(document.referrer);
+            var GOOGLE = /www.google/; 
+            var YAHOO = /search.yahoo/; 
+            var BING = /www.bing/; 
+            if(GOOGLE.test(referrerHostName)){
+                traffic_source = "Google Search";
+                //traffic_source = "Google Search" + currTime(); // + Optional: Add the current session time. Choose one of them.
+            } else if(YAHOO.test(referrerHostName)){
+                traffic_source = "Yahoo Search";
+                //traffic_source = "Yahoo Search" + currTime();
+            } else if(BING.test(referrerHostName)){
+                traffic_source = "Bing Search";
+                //traffic_source = "Bing Search" + currTime();
+            } else {
+                traffic_source = referrerHostName;
+                //traffic_source = referrerHostName + currTime();
+            }
+        } else {
+            traffic_source = NONE;
+        }
+        setCookie(cookieName, traffic_source, traffic_source_cookie_validity); //set the cookie
+    
+    } else if(isNotNullOrEmpty(urlParamSRC)){ //if there is a cookie, add the SRC to the cookie, unless the same src already exists as the first token.
+        var firstToken = getFirstTokenFromCookie(getCookie(cookieName));
+        if(firstToken !== "" && urlParamSRC !== firstToken) {
+            var newTrafficSourceCookie = urlParamSRC; //+ traffic_source_COOKIE_TOKEN_SEPARATOR + getCookie(cookieName); //concetenate new SRC with old cookie values
+            // var newTrafficSourceCookie = urlParamSRC + currTime() + traffic_source_COOKIE_TOKEN_SEPARATOR + getCookie(cookieName); // Optional: add the time of current session
+            setCookie(cookieName, newTrafficSourceCookie, traffic_source_cookie_validity);
+        }
+    }
+
+  })("traffic_source", "");
 </script>
-
-  <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<style>
+  li.mcl_menu_li_boutique {
+    width: 200px !important;
+    border: 1px solid rgba(1,110,110,0.1);
+    margin-left: 10px !important;
+    margin-top: 15px !important;
+    background: rgb(236, 249, 248);
+    height: 108px !important;
+    /*background: #EECB82;*/
+}
+</style>
+  </head>
   <body class="one-col" id="default" data-hook="body"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
-    <div id="header" data-hook="">
+    <style type="text/css">
+  div.header_links span.seperator, div.header_links a{padding-right: 5px !important;}
+</style>
+<div id="header" data-hook="">
   <div class="header_links">
       <a href="/policy/shipping" rel="nofollow">24-hr dispatch</a> <span class="seperator">|</span>
         <a href="/help/payment" rel="nofollow">cash on delivery</a> <span class="seperator">|</span>
       <a href="/policy/returns" rel="nofollow">easy 30-day returns</a> 
         <span class="seperator">|</span>
         <a href="/gift_vouchers">gift vouchers</a>
+        <span class="seperator">|</span>
+        <a href="/gifts">gifts</a>
+        <span class="seperator">|</span>
+        <a href="/campaign/Rakhi">rakhis</a>
       <!-- <span class="seperator">|</span><a href="/gosf">GOSF</a> -->
       <!--
       <div style="float:right; margin-right:215px;">
@@ -155,12 +302,20 @@
         }
       </script>
     </div>
+        <div class="header_links login_header_link">
+      <a style="padding-left: 10px; padding-right: 2px;" href="/login">SIGN UP</a> <span style="padding-right: 2px;" class="seperator">|</span>
+      <a style="padding-right: 5px;" href="/login">SIGN IN</a>
+    </div>
 
-  
+    <!-- 
     <div class="header_links login_header_link">
       <a style="padding-left: 10px; padding-right: 2px;" href="/login">SIGN UP</a> <span style="padding-right: 2px;" class="seperator">|</span>
       <a style="padding-right: 5px;" href="/login">SIGN IN</a>
     </div>
+    <div class="header_links login_header_link" style="width: 75px; margin-left: 132px !important;">
+      <a style="padding-left: 6px; padding-right: 0px;" href="/user/logout">SIGN OUT</a>
+    </div>
+     -->
  
     <div class="phone_number" style="float: right; width: 195px; height: 35px; text-transform: uppercase; text-align: right; margin-right: 15px;">
       <img width="16" style="margin-bottom: -8px;" height="22" title="" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAYAAADJqhx8AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wLHggyILYzQkgAAAI4SURBVDjLjZRNSFRRGIaf94yW0RSBRlGt0+sQ0dZok7QKXLWMIMdJbJmL0FGh9OrGaFME6VVqFURtCiKKSGobtMnRIGrXjxhIMNaM93wtulNjmTPf8pzvPHw/73sgiSCM+DsyE7PUFe3jMwC0jU03BWF0KgijIDMxu6ceiAOQlArCaFLSKnDXzLq8958A3gyc3RyQmZh13vv7QL8kk4Sk7QCto1ONtap3ZrYPOJo8VnK+A2BxOFeuB5CWtFWSzMySlpwkgjDaVgvQAFjy0CqHZtYMvC7ks6s1KwCKkn4kEJnZA+99XyGfPbLRav+pwMxKwPekBcxsZHE49y0IIwr5bE2AK5fLX8ysoF+BpDYA51xdGnLvLvWZpGUzIwHcqGf/64QEXKEyTbNdQRhdTXRQE6AqL3yUtBfwwLL3PrMw1LNUbwUA5ysyAHZLugBw8PJNWken1nmibWx6fQVBGBHHsVKp1AtJHZW7OI5PLA7nnlaZrn9tbe3e25FzH9rHZ5gf7P7TQpLQ4b2fc86lkqEWgE7v/apzbsJ73yvpM3C4kM8urZtBhRiE0RngVqJsAStAE/AEeAwMAC1mdjGO42u/Z1AqlQCYH+y+DfSamRKD7ZS0RdJJM5s0sx5J7yVNNjY2HkpVAF+fPwTgTsMBFoZ6XrUc7yoDnVUORVIKOA1cB56Z2UtttqIgjDLAnKTmRCeVq7FisTiSTqftv4DW0SkWh3OVtR1zzu0HVuYHux9V59SM6p1v9AH/BMvj/32cTiztAAAAAElFTkSuQmCC"><span style="font-size: 22px;">0 76761 11022</span><br><span style="margin-left:35px; display: block;">(9:30 AM to 9:00 PM IST)</span>
@@ -207,12 +362,12 @@ $('#search-text').on('keydown keyup change', function(){
     <div class="menu_outer_shadow">
 <div class="nav_menu">      
   <ul id="mega-menu-1">
-    <li class="rootnav"><a class="mcl_root_menu mcl_root_menu_women">women</a><ul class="mcl_submenu subnav"><div class="mcl_menu_div mcl_menu_div_Jewellery heading"><a href="/jewellery" data-uri="menu_Jewellery"> Jewellery </a><li class="mcl_menu_li mcl_menu_li_Anklets submenu"><span class="menu_image_box menu_image_box_Anklets"><a href="/jewellery/anklets" data-uri="menu_Anklets" class="menu_image_rollover"> Anklets </a></span><ul class="mcl_menu_ul mcl_menu_ul_Anklets submenu" data-uri="submenu_Anklets" data-image-uri="http://images0.voylla.com/menu/jewellery_anklets.jpg"><li class="mcl_link_li mcl_link_li_Beaded childlinks"><a href="/jewellery/anklets/beaded" data-image-uri="http://images0.voylla.com/menu/jewellery_anklets_beaded.jpg"> Beaded</a></li><li class="mcl_link_li mcl_link_li_Links childlinks"><a href="/jewellery/anklets/links" data-image-uri="http://images0.voylla.com/menu/jewellery_anklets_links.jpg"> Links</a></li><li class="mcl_link_li mcl_link_li_Hasli childlinks"><a href="/jewellery/anklets/hasli" data-image-uri="http://images0.voylla.com/menu/jewellery_anklets_hasli.jpg"> Hasli</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Necklace Sets submenu"><span class="menu_image_box menu_image_box_Necklace Sets"><a href="/jewellery/necklace-sets" data-uri="menu_Necklace Sets" class="menu_image_rollover"> Necklace Sets </a></span><ul class="mcl_menu_ul mcl_menu_ul_Necklace Sets submenu" data-uri="submenu_Necklace Sets" data-image-uri="http://images0.voylla.com/menu/jewellery_necklace-sets.jpg"><li class="mcl_link_li mcl_link_li_Short childlinks"><a href="/jewellery/necklace-sets/short" data-image-uri="http://images0.voylla.com/menu/jewellery_necklace-sets_short.jpg"> Short</a></li><li class="mcl_link_li mcl_link_li_Medium childlinks"><a href="/jewellery/necklace-sets/medium" data-image-uri="http://images0.voylla.com/menu/jewellery_necklace-sets_medium.jpg"> Medium</a></li><li class="mcl_link_li mcl_link_li_Long childlinks"><a href="/jewellery/necklace-sets/long" data-image-uri="http://images0.voylla.com/menu/jewellery_necklace-sets_long.jpg"> Long</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Maang Tika Sets submenu"><span class="menu_image_box menu_image_box_Maang Tika Sets"><a href="/jewellery/maang-tika-sets" data-uri="menu_Maang Tika Sets" class="menu_image_rollover"> Maang Tika Sets </a></span><ul class="mcl_menu_ul mcl_menu_ul_Maang Tika Sets submenu" data-uri="submenu_Maang Tika Sets" data-image-uri="http://images0.voylla.com/menu/jewellery_maang-tika-sets.jpg"><li class="mcl_link_li mcl_link_li_Short childlinks"><a href="/jewellery/maang-tika-sets/short" data-image-uri="http://images0.voylla.com/menu/jewellery_maang-tika-sets_short.jpg"> Short</a></li><li class="mcl_link_li mcl_link_li_Medium childlinks"><a href="/jewellery/maang-tika-sets/medium" data-image-uri="http://images0.voylla.com/menu/jewellery_maang-tika-sets_medium.jpg"> Medium</a></li><li class="mcl_link_li mcl_link_li_Long childlinks"><a href="/jewellery/maang-tika-sets/long" data-image-uri="http://images0.voylla.com/menu/jewellery_maang-tika-sets_long.jpg"> Long</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Pendant Sets submenu"><span class="menu_image_box menu_image_box_Pendant Sets"><a href="/jewellery/pendant-sets" data-uri="menu_Pendant Sets" class="menu_image_rollover"> Pendant Sets </a></span><ul class="mcl_menu_ul mcl_menu_ul_Pendant Sets submenu" data-uri="submenu_Pendant Sets" data-image-uri="http://images0.voylla.com/menu/jewellery_pendant-sets.jpg"><li class="mcl_link_li mcl_link_li_With Chain childlinks"><a href="/jewellery/pendant-sets/with-chain" data-image-uri="http://images0.voylla.com/menu/jewellery_pendant-sets_with-chain.jpg"> With Chain</a></li><li class="mcl_link_li mcl_link_li_Without Chain childlinks"><a href="/jewellery/pendant-sets/without-chain" data-image-uri="http://images0.voylla.com/menu/jewellery_pendant-sets_without-chain.jpg"> Without Chain</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Maang Tika submenu"><span class="menu_image_box menu_image_box_Maang Tika"><a href="/jewellery/maang-tika" data-uri="menu_Maang Tika" class="menu_image_rollover"> Maang Tika </a></span><ul class="mcl_menu_ul mcl_menu_ul_Maang Tika submenu" data-uri="submenu_Maang Tika" data-image-uri="http://images0.voylla.com/menu/jewellery_maang-tika.jpg"><li class="mcl_link_li mcl_link_li_Borla childlinks"><a href="/jewellery/maang-tika/borla" data-image-uri="http://images0.voylla.com/menu/jewellery_maang-tika_borla.jpg"> Borla</a></li><li class="mcl_link_li mcl_link_li_Tikaa childlinks"><a href="/jewellery/maang-tika/tikaa" data-image-uri="http://images0.voylla.com/menu/jewellery_maang-tika_tikaa.jpg"> Tikaa</a></li><li class="mcl_link_li mcl_link_li_Matha patti childlinks"><a href="/jewellery/maang-tika/matha-patti" data-image-uri="http://images0.voylla.com/menu/jewellery_maang-tika_matha-patti.jpg"> Matha patti</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Mangalsutras submenu"><span class="menu_image_box menu_image_box_Mangalsutras"><a href="/jewellery/mangalsutras" data-uri="menu_Mangalsutras" class="menu_image_rollover"> Mangalsutras </a></span><ul class="mcl_menu_ul mcl_menu_ul_Mangalsutras submenu" data-uri="submenu_Mangalsutras" data-image-uri="http://images0.voylla.com/menu/jewellery_mangalsutras.jpg"><li class="mcl_link_li mcl_link_li_Single Chain childlinks"><a href="/jewellery/mangalsutras/single-chain" data-image-uri="http://images0.voylla.com/menu/jewellery_mangalsutras_single-chain.jpg"> Single Chain</a></li><li class="mcl_link_li mcl_link_li_Double Chain childlinks"><a href="/jewellery/mangalsutras/double-chain" data-image-uri="http://images0.voylla.com/menu/jewellery_mangalsutras_double-chain.jpg"> Double Chain</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Necklaces submenu"><span class="menu_image_box menu_image_box_Necklaces"><a href="/jewellery/necklaces" data-uri="menu_Necklaces" class="menu_image_rollover"> Necklaces </a></span><ul class="mcl_menu_ul mcl_menu_ul_Necklaces submenu" data-uri="submenu_Necklaces" data-image-uri="http://images0.voylla.com/menu/jewellery_necklaces.jpg"><li class="mcl_link_li mcl_link_li_Short childlinks"><a href="/jewellery/necklaces/short" data-image-uri="http://images0.voylla.com/menu/jewellery_necklaces_short.jpg"> Short</a></li><li class="mcl_link_li mcl_link_li_Medium childlinks"><a href="/jewellery/necklaces/medium" data-image-uri="http://images0.voylla.com/menu/jewellery_necklaces_medium.jpg"> Medium</a></li><li class="mcl_link_li mcl_link_li_Long childlinks"><a href="/jewellery/necklaces/long" data-image-uri="http://images0.voylla.com/menu/jewellery_necklaces_long.jpg"> Long</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Bracelets submenu"><span class="menu_image_box menu_image_box_Bracelets"><a href="/jewellery/bracelets" data-uri="menu_Bracelets" class="menu_image_rollover"> Bracelets </a></span><ul class="mcl_menu_ul mcl_menu_ul_Bracelets submenu" data-uri="submenu_Bracelets" data-image-uri="http://images0.voylla.com/menu/jewellery_bracelets.jpg"><li class="mcl_link_li mcl_link_li_Beaded childlinks"><a href="/jewellery/bracelets/beaded" data-image-uri="http://images0.voylla.com/menu/jewellery_bracelets_beaded.jpg"> Beaded</a></li><li class="mcl_link_li mcl_link_li_Links childlinks"><a href="/jewellery/bracelets/links" data-image-uri="http://images0.voylla.com/menu/jewellery_bracelets_links.jpg"> Links</a></li><li class="mcl_link_li mcl_link_li_Cuffs childlinks"><a href="/jewellery/bracelets/cuffs" data-image-uri="http://images0.voylla.com/menu/jewellery_bracelets_cuffs.jpg"> Cuffs</a></li><li class="mcl_link_li mcl_link_li_Kada childlinks"><a href="/jewellery/bracelets/kada" data-image-uri="http://images0.voylla.com/menu/jewellery_bracelets_kada.jpg"> Kada</a></li><li class="mcl_link_li mcl_link_li_Bangles childlinks"><a href="/jewellery/bracelets/bangles" data-image-uri="http://images0.voylla.com/menu/jewellery_bracelets_bangles.jpg"> Bangles</a></li><li class="mcl_link_li mcl_link_li_Tennis childlinks"><a href="/jewellery/bracelets/tennis" data-image-uri="http://images0.voylla.com/menu/jewellery_bracelets_tennis.jpg"> Tennis</a></li><li class="mcl_link_li mcl_link_li_Strand childlinks"><a href="/jewellery/bracelets/strand" data-image-uri="http://images0.voylla.com/menu/jewellery_bracelets_strand.jpg"> Strand</a></li><li class="mcl_link_li mcl_link_li_Slave childlinks"><a href="/jewellery/bracelets/slave" data-image-uri="http://images0.voylla.com/menu/jewellery_bracelets_slave.jpg"> Slave</a></li><li class="mcl_link_li mcl_link_li_Bands childlinks"><a href="/jewellery/bracelets/bands" data-image-uri="http://images0.voylla.com/menu/jewellery_bracelets_bands.jpg"> Bands</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Earrings submenu"><span class="menu_image_box menu_image_box_Earrings"><a href="/jewellery/earrings" data-uri="menu_Earrings" class="menu_image_rollover"> Earrings </a></span><ul class="mcl_menu_ul mcl_menu_ul_Earrings submenu" data-uri="submenu_Earrings" data-image-uri="http://images0.voylla.com/menu/jewellery_earrings.jpg"><li class="mcl_link_li mcl_link_li_Jhumkis childlinks"><a href="/jewellery/earrings/jhumkis" data-image-uri="http://images0.voylla.com/menu/jewellery_earrings_jhumkis.jpg"> Jhumkis</a></li><li class="mcl_link_li mcl_link_li_Danglers childlinks"><a href="/jewellery/earrings/danglers" data-image-uri="http://images0.voylla.com/menu/jewellery_earrings_danglers.jpg"> Danglers</a></li><li class="mcl_link_li mcl_link_li_Studs childlinks"><a href="/jewellery/earrings/studs" data-image-uri="http://images0.voylla.com/menu/jewellery_earrings_studs.jpg"> Studs</a></li><li class="mcl_link_li mcl_link_li_Ear Cuffs childlinks"><a href="/jewellery/earrings/ear-cuffs" data-image-uri="http://images0.voylla.com/menu/jewellery_earrings_ear-cuffs.jpg"> Ear Cuffs</a></li><li class="mcl_link_li mcl_link_li_Hoops childlinks"><a href="/jewellery/earrings/hoops" data-image-uri="http://images0.voylla.com/menu/jewellery_earrings_hoops.jpg"> Hoops</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Rings submenu"><span class="menu_image_box menu_image_box_Rings"><a href="/jewellery/rings" data-uri="menu_Rings" class="menu_image_rollover"> Rings </a></span><ul class="mcl_menu_ul mcl_menu_ul_Rings submenu" data-uri="submenu_Rings" data-image-uri="http://images0.voylla.com/menu/jewellery_rings.jpg"><li class="mcl_link_li mcl_link_li_Cocktail childlinks"><a href="/jewellery/rings/cocktail" data-image-uri="http://images0.voylla.com/menu/jewellery_rings_cocktail.jpg"> Cocktail</a></li><li class="mcl_link_li mcl_link_li_Bands childlinks"><a href="/jewellery/rings/bands" data-image-uri="http://images0.voylla.com/menu/jewellery_rings_bands.jpg"> Bands</a></li><li class="mcl_link_li mcl_link_li_Clusters childlinks"><a href="/jewellery/rings/clusters" data-image-uri="http://images0.voylla.com/menu/jewellery_rings_clusters.jpg"> Clusters</a></li><li class="mcl_link_li mcl_link_li_Solitaire childlinks"><a href="/jewellery/rings/solitaire" data-image-uri="http://images0.voylla.com/menu/jewellery_rings_solitaire.jpg"> Solitaire</a></li><li class="mcl_link_li mcl_link_li_Statement childlinks"><a href="/jewellery/rings/statement" data-image-uri="http://images0.voylla.com/menu/jewellery_rings_statement.jpg"> Statement</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Others submenu"><span class="menu_image_rollover"> Others </span><ul class="mcl_menu_ul mcl_menu_ul_Others submenu" data-uri="submenu_Others" data-image-uri="http://images0.voylla.com/menu/jewellery_others.jpg"><li class="mcl_link_li mcl_link_li_Saree Clips childlinks"><a href="/jewellery/saree-clips" data-image-uri="http://images0.voylla.com/menu/jewellery_others_saree-clips.jpg"> Saree Clips</a></li><li class="mcl_link_li mcl_link_li_Hath Phool childlinks"><a href="/jewellery/hath-phool" data-image-uri="http://images0.voylla.com/menu/jewellery_others_hath-phool.jpg"> Hath Phool</a></li><li class="mcl_link_li mcl_link_li_Saree Pins childlinks"><a href="/jewellery/saree-pins" data-image-uri="http://images0.voylla.com/menu/jewellery_others_saree-pins.jpg"> Saree Pins</a></li><li class="mcl_link_li mcl_link_li_Juda Pins childlinks"><a href="/jewellery/juda-pins" data-image-uri="http://images0.voylla.com/menu/jewellery_others_juda-pins.jpg"> Juda Pins</a></li><li class="mcl_link_li mcl_link_li_Bridal Sets childlinks"><a href="/jewellery/bridal-sets" data-image-uri="http://images0.voylla.com/menu/jewellery_others_bridal-sets.jpg"> Bridal Sets</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Pendants submenu"><span class="menu_image_box menu_image_box_Pendants"><a href="/jewellery/pendants" data-uri="menu_Pendants" class="menu_image_rollover"> Pendants </a></span><ul class="mcl_menu_ul mcl_menu_ul_Pendants submenu" data-uri="submenu_Pendants" data-image-uri="http://images0.voylla.com/menu/jewellery_pendants.jpg"><li class="mcl_link_li mcl_link_li_With Chain childlinks"><a href="/jewellery/pendants/with-chain" data-image-uri="http://images0.voylla.com/menu/jewellery_pendants_with-chain.jpg"> With Chain</a></li><li class="mcl_link_li mcl_link_li_Without Chain childlinks"><a href="/jewellery/pendants/without-chain" data-image-uri="http://images0.voylla.com/menu/jewellery_pendants_without-chain.jpg"> Without Chain</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Toe Rings submenu"><span class="menu_image_box menu_image_box_Toe Rings"><a href="/jewellery/toe-rings" data-uri="menu_Toe Rings" class="menu_image_rollover"> Toe Rings </a></span><ul class="mcl_menu_ul mcl_menu_ul_Toe Rings submenu" data-uri="submenu_Toe Rings" data-image-uri="http://images0.voylla.com/menu/jewellery_toe-rings.jpg"><li class="mcl_link_li mcl_link_li_With Gemstone childlinks"><a href="/jewellery/toe-rings/with-gemstone" data-image-uri="http://images0.voylla.com/menu/jewellery_toe-rings_with-gemstone.jpg"> With Gemstone</a></li><li class="mcl_link_li mcl_link_li_W/o Gemstone childlinks"><a href="/jewellery/toe-rings/without-gemstone" data-image-uri="http://images0.voylla.com/menu/jewellery_toe-rings_w/o-gemstone.jpg"> W/o Gemstone</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Nose Pins submenu"><span class="menu_image_box menu_image_box_Nose Pins"><a href="/jewellery/nose-pins" data-uri="menu_Nose Pins" class="menu_image_rollover"> Nose Pins </a></span><ul class="mcl_menu_ul mcl_menu_ul_Nose Pins submenu" data-uri="submenu_Nose Pins" data-image-uri="http://images0.voylla.com/menu/jewellery_nose-pins.jpg"><li class="mcl_link_li mcl_link_li_Clip Ons childlinks"><a href="/jewellery/nose-pins/clip-ons" data-image-uri="http://images0.voylla.com/menu/jewellery_nose-pins_clip-ons.jpg"> Clip Ons</a></li><li class="mcl_link_li mcl_link_li_Rings childlinks"><a href="/jewellery/nose-pins/rings" data-image-uri="http://images0.voylla.com/menu/jewellery_nose-pins_rings.jpg"> Rings</a></li><li class="mcl_link_li mcl_link_li_Pins childlinks"><a href="/jewellery/nose-pins/pins" data-image-uri="http://images0.voylla.com/menu/jewellery_nose-pins_pins.jpg"> Pins</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Armlets submenu"><span class="menu_image_box menu_image_box_Armlets"><a href="/jewellery/armlets" data-uri="menu_Armlets" class="menu_image_rollover"> Armlets </a></span><ul class="mcl_menu_ul mcl_menu_ul_Armlets submenu" data-uri="submenu_Armlets" data-image-uri="http://images0.voylla.com/menu/jewellery_armlets.jpg"><li class="mcl_link_li mcl_link_li_Kada childlinks"><a href="/jewellery/armlets/kada" data-image-uri="http://images0.voylla.com/menu/jewellery_armlets_kada.jpg"> Kada</a></li><li class="mcl_link_li mcl_link_li_Links childlinks"><a href="/jewellery/armlets/links" data-image-uri="http://images0.voylla.com/menu/jewellery_armlets_links.jpg"> Links</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Kamarband submenu"><span class="menu_image_box menu_image_box_Kamarband"><a href="/jewellery/kamarband" data-uri="menu_Kamarband" class="menu_image_rollover"> Kamarband </a></span><ul class="mcl_menu_ul mcl_menu_ul_Kamarband submenu" data-uri="submenu_Kamarband" data-image-uri="http://images0.voylla.com/menu/jewellery_kamarband.jpg"><li class="mcl_link_li mcl_link_li_Links childlinks"><a href="/jewellery/kamarband/links" data-image-uri="http://images0.voylla.com/menu/jewellery_kamarband_links.jpg"> Links</a></li></ul></li></div><div class="mcl_menu_div mcl_menu_div_Accessories heading"><a href="/accessories" data-uri="menu_Accessories"> Accessories </a><li class="mcl_menu_li mcl_menu_li_Bags &amp; Wallets submenu"><span class="menu_image_box menu_image_box_Bags &amp; Wallets"><a href="/accessories/bags-and-wallets" data-uri="menu_Bags &amp; Wallets" class="menu_image_rollover"> Bags &amp; Wallets </a></span><ul class="mcl_menu_ul mcl_menu_ul_Bags &amp; Wallets submenu" data-uri="submenu_Bags &amp; Wallets" data-image-uri="http://images0.voylla.com/menu/accessories_bags-&amp;-wallets.jpg"><li class="mcl_link_li mcl_link_li_Handbags childlinks"><a href="/accessories/bags-and-wallets/handbags" data-image-uri="http://images0.voylla.com/menu/accessories_bags-&amp;-wallets_handbags.jpg"> Handbags</a></li><li class="mcl_link_li mcl_link_li_Sling Bags childlinks"><a href="/accessories/bags-and-wallets/sling-bags" data-image-uri="http://images0.voylla.com/menu/accessories_bags-&amp;-wallets_sling-bags.jpg"> Sling Bags</a></li><li class="mcl_link_li mcl_link_li_Totes childlinks"><a href="/accessories/bags-and-wallets/totes" data-image-uri="http://images0.voylla.com/menu/accessories_bags-&amp;-wallets_totes.jpg"> Totes</a></li><li class="mcl_link_li mcl_link_li_Wallets childlinks"><a href="/accessories/bags-and-wallets/wallets" data-image-uri="http://images0.voylla.com/menu/accessories_bags-&amp;-wallets_wallets.jpg"> Wallets</a></li><li class="mcl_link_li mcl_link_li_Clutches childlinks"><a href="/accessories/bags-and-wallets/clutches" data-image-uri="http://images0.voylla.com/menu/accessories_bags-&amp;-wallets_clutches.jpg"> Clutches</a></li><li class="mcl_link_li mcl_link_li_Backpacks childlinks"><a href="/accessories/bags-and-wallets/backpacks" data-image-uri="http://images0.voylla.com/menu/accessories_bags-&amp;-wallets_backpacks.jpg"> Backpacks</a></li><li class="mcl_link_li mcl_link_li_Potli Bags childlinks"><a href="/accessories/bags-and-wallets/potli-bags" data-image-uri="http://images0.voylla.com/menu/accessories_bags-&amp;-wallets_potli-bags.jpg"> Potli Bags</a></li><li class="mcl_link_li mcl_link_li_Envelopes childlinks"><a href="/accessories/bags-and-wallets/envelopes" data-image-uri="http://images0.voylla.com/menu/accessories_bags-&amp;-wallets_envelopes.jpg"> Envelopes</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Belts submenu"><span class="menu_image_box menu_image_box_Belts"><a href="/accessories/belts" data-uri="menu_Belts" class="menu_image_rollover"> Belts </a></span><ul class="mcl_menu_ul mcl_menu_ul_Belts submenu" data-uri="submenu_Belts" data-image-uri="http://images0.voylla.com/menu/accessories_belts.jpg"><li class="mcl_link_li mcl_link_li_Chains childlinks"><a href="/accessories/belts/chains" data-image-uri="http://images0.voylla.com/menu/accessories_belts_chains.jpg"> Chains</a></li><li class="mcl_link_li mcl_link_li_Braided childlinks"><a href="/accessories/belts/braided" data-image-uri="http://images0.voylla.com/menu/accessories_belts_braided.jpg"> Braided</a></li><li class="mcl_link_li mcl_link_li_Embellished childlinks"><a href="/accessories/belts/embellished" data-image-uri="http://images0.voylla.com/menu/accessories_belts_embellished.jpg"> Embellished</a></li></ul></li></div></ul></li> 
-    <li class="rootnav"><a class="mcl_root_menu mcl_root_menu_kids">kids</a><ul class="mcl_submenu subnav"><div class="mcl_menu_div mcl_menu_div_kids Jewellery heading"><a href="/kids-jewellery" data-uri="menu_kids Jewellery">  Jewellery </a><li class="mcl_menu_li mcl_menu_li_kids Earrings submenu"><span class="menu_image_box menu_image_box_kids Earrings"><a href="/kids-jewellery/kids-earrings" data-uri="menu_kids Earrings" class="menu_image_rollover">  Earrings </a></span><ul class="mcl_menu_ul mcl_menu_ul_kids Earrings submenu" data-uri="submenu_kids Earrings" data-image-uri="http://images0.voylla.com/menu/kids-jewellery_kids-earrings.jpg"><li class="mcl_link_li mcl_link_li_kids Studs childlinks"><a href="/kids-jewellery/kids-earrings/studs" data-image-uri="http://images0.voylla.com/menu/kids-jewellery_kids-earrings_kids-studs.jpg">  Studs</a></li><li class="mcl_link_li mcl_link_li_kids Hoops childlinks"><a href="/kids-jewellery/kids-earrings/hoops" data-image-uri="http://images0.voylla.com/menu/kids-jewellery_kids-earrings_kids-hoops.jpg">  Hoops</a></li><li class="mcl_link_li mcl_link_li_kids Danglers childlinks"><a href="/kids-jewellery/kids-earrings/danglers" data-image-uri="http://images0.voylla.com/menu/kids-jewellery_kids-earrings_kids-danglers.jpg">  Danglers</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_kids Pendants submenu"><span class="menu_image_box menu_image_box_kids Pendants"><a href="/kids-jewellery/kids-pendants" data-uri="menu_kids Pendants" class="menu_image_rollover">  Pendants </a></span><ul class="mcl_menu_ul mcl_menu_ul_kids Pendants submenu" data-uri="submenu_kids Pendants" data-image-uri="http://images0.voylla.com/menu/kids-jewellery_kids-pendants.jpg"><li class="mcl_link_li mcl_link_li_kids With Chain childlinks"><a href="/kids-jewellery/kids-pendants/with-chain" data-image-uri="http://images0.voylla.com/menu/kids-jewellery_kids-pendants_kids-with-chain.jpg">  With Chain</a></li><li class="mcl_link_li mcl_link_li_kids Without Chain childlinks"><a href="/kids-jewellery/kids-pendants/without-chain" data-image-uri="http://images0.voylla.com/menu/kids-jewellery_kids-pendants_kids-without-chain.jpg">  Without Chain</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_kids Bangles &amp; Bracelets submenu"><span class="menu_image_box menu_image_box_kids Bangles &amp; Bracelets"><a href="/kids-jewellery/kids-bangles-and-bracelets" data-uri="menu_kids Bangles &amp; Bracelets" class="menu_image_rollover">  Bangles &amp; Bracelets </a></span><ul class="mcl_menu_ul mcl_menu_ul_kids Bangles &amp; Bracelets submenu" data-uri="submenu_kids Bangles &amp; Bracelets" data-image-uri="http://images0.voylla.com/menu/kids-jewellery_kids-bangles-&amp;-bracelets.jpg"><li class="mcl_link_li mcl_link_li_kids Links childlinks"><a href="/kids-jewellery/kids-bangles-and-bracelets/links" data-image-uri="http://images0.voylla.com/menu/kids-jewellery_kids-bangles-&amp;-bracelets_kids-links.jpg">  Links</a></li><li class="mcl_link_li mcl_link_li_kids Kada childlinks"><a href="/kids-jewellery/kids-bangles-and-bracelets/kada" data-image-uri="http://images0.voylla.com/menu/kids-jewellery_kids-bangles-&amp;-bracelets_kids-kada.jpg">  Kada</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_kids Anklets submenu"><span class="menu_image_box menu_image_box_kids Anklets"><a href="/kids-jewellery/kids-anklets" data-uri="menu_kids Anklets" class="menu_image_rollover">  Anklets </a></span><ul class="mcl_menu_ul mcl_menu_ul_kids Anklets submenu" data-uri="submenu_kids Anklets" data-image-uri="http://images0.voylla.com/menu/kids-jewellery_kids-anklets.jpg"><li class="mcl_link_li mcl_link_li_kids Links childlinks"><a href="/kids-jewellery/kids-anklets/links" data-image-uri="http://images0.voylla.com/menu/kids-jewellery_kids-anklets_kids-links.jpg">  Links</a></li></ul></li></div></ul></li>
-    <li class="rootnav"><a class="mcl_root_menu mcl_root_menu_men">men</a><ul class="mcl_submenu subnav"><div class="mcl_menu_div mcl_menu_div_mens Jewellery heading"><a href="/mens-jewellery" data-uri="menu_mens Jewellery">  Jewellery </a><li class="mcl_menu_li mcl_menu_li_mens Pendants submenu"><span class="menu_image_box menu_image_box_mens Pendants"><a href="/mens-jewellery/mens-pendants" data-uri="menu_mens Pendants" class="menu_image_rollover">  Pendants </a></span><ul class="mcl_menu_ul mcl_menu_ul_mens Pendants submenu" data-uri="submenu_mens Pendants" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-pendants.jpg"><li class="mcl_link_li mcl_link_li_mens With Chain childlinks"><a href="/mens-jewellery/mens-pendants/with-chain" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-pendants_mens-with-chain.jpg">  With Chain</a></li><li class="mcl_link_li mcl_link_li_mens Without Chain childlinks"><a href="/mens-jewellery/mens-pendants/without-chain" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-pendants_mens-without-chain.jpg">  Without Chain</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_mens Bracelets submenu"><span class="menu_image_box menu_image_box_mens Bracelets"><a href="/mens-jewellery/mens-bracelets" data-uri="menu_mens Bracelets" class="menu_image_rollover">  Bracelets </a></span><ul class="mcl_menu_ul mcl_menu_ul_mens Bracelets submenu" data-uri="submenu_mens Bracelets" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-bracelets.jpg"><li class="mcl_link_li mcl_link_li_mens Links childlinks"><a href="/mens-jewellery/mens-bracelets/links" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-bracelets_mens-links.jpg">  Links</a></li><li class="mcl_link_li mcl_link_li_mens Bands childlinks"><a href="/mens-jewellery/mens-bracelets/bands" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-bracelets_mens-bands.jpg">  Bands</a></li><li class="mcl_link_li mcl_link_li_mens Cuffs childlinks"><a href="/mens-jewellery/mens-bracelets/cuffs" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-bracelets_mens-cuffs.jpg">  Cuffs</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_mens Chains submenu"><span class="menu_image_box menu_image_box_mens Chains"><a href="/mens-jewellery/mens-chains" data-uri="menu_mens Chains" class="menu_image_rollover">  Chains </a></span><ul class="mcl_menu_ul mcl_menu_ul_mens Chains submenu" data-uri="submenu_mens Chains" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-chains.jpg"><li class="mcl_link_li mcl_link_li_mens Short childlinks"><a href="/mens-jewellery/mens-chains/short" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-chains_mens-short.jpg">  Short</a></li><li class="mcl_link_li mcl_link_li_mens Medium childlinks"><a href="/mens-jewellery/mens-chains/medium" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-chains_mens-medium.jpg">  Medium</a></li><li class="mcl_link_li mcl_link_li_mens Long childlinks"><a href="/mens-jewellery/mens-chains/long" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-chains_mens-long.jpg">  Long</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_mens Rings submenu"><span class="menu_image_box menu_image_box_mens Rings"><a href="/mens-jewellery/mens-rings" data-uri="menu_mens Rings" class="menu_image_rollover">  Rings </a></span><ul class="mcl_menu_ul mcl_menu_ul_mens Rings submenu" data-uri="submenu_mens Rings" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-rings.jpg"><li class="mcl_link_li mcl_link_li_mens Bands childlinks"><a href="/mens-jewellery/mens-rings/bands" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-rings_mens-bands.jpg">  Bands</a></li><li class="mcl_link_li mcl_link_li_mens Solitaire childlinks"><a href="/mens-jewellery/mens-rings/solitaire" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-rings_mens-solitaire.jpg">  Solitaire</a></li><li class="mcl_link_li mcl_link_li_mens Clusters childlinks"><a href="/mens-jewellery/mens-rings/clusters" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-rings_mens-clusters.jpg">  Clusters</a></li><li class="mcl_link_li mcl_link_li_mens Statement childlinks"><a href="/mens-jewellery/mens-rings/statement" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-rings_mens-statement.jpg">  Statement</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_mens Kada submenu"><span class="menu_image_box menu_image_box_mens Kada"><a href="/mens-jewellery/mens-kada" data-uri="menu_mens Kada" class="menu_image_rollover">  Kada </a></span><ul class="mcl_menu_ul mcl_menu_ul_mens Kada submenu" data-uri="submenu_mens Kada" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-kada.jpg"><li class="mcl_link_li mcl_link_li_mens Kada childlinks"><a href="/mens-jewellery/mens-kada/kada" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-kada_mens-kada.jpg">  Kada</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_mens Earrings submenu"><span class="menu_image_box menu_image_box_mens Earrings"><a href="/mens-jewellery/mens-earrings" data-uri="menu_mens Earrings" class="menu_image_rollover">  Earrings </a></span><ul class="mcl_menu_ul mcl_menu_ul_mens Earrings submenu" data-uri="submenu_mens Earrings" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-earrings.jpg"><li class="mcl_link_li mcl_link_li_mens Studs childlinks"><a href="/mens-jewellery/mens-earrings/studs" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-earrings_mens-studs.jpg">  Studs</a></li><li class="mcl_link_li mcl_link_li_mens Hoops childlinks"><a href="/mens-jewellery/mens-earrings/hoops" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-earrings_mens-hoops.jpg">  Hoops</a></li></ul></li></div><div class="mcl_menu_div mcl_menu_div_Accessories heading"><a href="/mens-accessories" data-uri="menu_Accessories"> Accessories </a><li class="mcl_menu_li mcl_menu_li_mens Cufflinks submenu"><span class="menu_image_box menu_image_box_mens Cufflinks"><a href="/mens-accessories/mens-cufflinks" data-uri="menu_mens Cufflinks" class="menu_image_rollover">  Cufflinks </a></span><ul class="mcl_menu_ul mcl_menu_ul_mens Cufflinks submenu" data-uri="submenu_mens Cufflinks" data-image-uri="http://images0.voylla.com/menu/accessories_mens-cufflinks.jpg"><li class="mcl_link_li mcl_link_li_mens Swivel Bar childlinks"><a href="/mens-accessories/mens-cufflinks/swivel-bar" data-image-uri="http://images0.voylla.com/menu/accessories_mens-cufflinks_mens-swivel-bar.jpg">  Swivel Bar</a></li><li class="mcl_link_li mcl_link_li_mens Double Panel childlinks"><a href="/mens-accessories/mens-cufflinks/double-panel" data-image-uri="http://images0.voylla.com/menu/accessories_mens-cufflinks_mens-double-panel.jpg">  Double Panel</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_mens Bags &amp; Wallets submenu"><span class="menu_image_box menu_image_box_mens Bags &amp; Wallets"><a href="/mens-accessories/mens-bags-and-wallets" data-uri="menu_mens Bags &amp; Wallets" class="menu_image_rollover">  Bags &amp; Wallets </a></span><ul class="mcl_menu_ul mcl_menu_ul_mens Bags &amp; Wallets submenu" data-uri="submenu_mens Bags &amp; Wallets" data-image-uri="http://images0.voylla.com/menu/accessories_mens-bags-&amp;-wallets.jpg"><li class="mcl_link_li mcl_link_li_mens Messenger Bags childlinks"><a href="/mens-accessories/mens-bags-and-wallets/messenger-bags" data-image-uri="http://images0.voylla.com/menu/accessories_mens-bags-&amp;-wallets_mens-messenger-bags.jpg">  Messenger Bags</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_mens Buttons submenu"><span class="menu_image_box menu_image_box_mens Buttons"><a href="/mens-accessories/mens-buttons" data-uri="menu_mens Buttons" class="menu_image_rollover">  Buttons </a></span><ul class="mcl_menu_ul mcl_menu_ul_mens Buttons submenu" data-uri="submenu_mens Buttons" data-image-uri="http://images0.voylla.com/menu/accessories_mens-buttons.jpg"><li class="mcl_link_li mcl_link_li_mens Kurta childlinks"><a href="/mens-accessories/mens-buttons/kurta" data-image-uri="http://images0.voylla.com/menu/accessories_mens-buttons_mens-kurta.jpg">  Kurta</a></li><li class="mcl_link_li mcl_link_li_mens Sherwani childlinks"><a href="/mens-accessories/mens-buttons/sherwani" data-image-uri="http://images0.voylla.com/menu/accessories_mens-buttons_mens-sherwani.jpg">  Sherwani</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_mens Pens submenu"><span class="menu_image_box menu_image_box_mens Pens"><a href="/mens-accessories/mens-pens" data-uri="menu_mens Pens" class="menu_image_rollover">  Pens </a></span><ul class="mcl_menu_ul mcl_menu_ul_mens Pens submenu" data-uri="submenu_mens Pens" data-image-uri="http://images0.voylla.com/menu/accessories_mens-pens.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_mens Brooches submenu"><span class="menu_image_box menu_image_box_mens Brooches"><a href="/mens-accessories/mens-brooches" data-uri="menu_mens Brooches" class="menu_image_rollover">  Brooches </a></span><ul class="mcl_menu_ul mcl_menu_ul_mens Brooches submenu" data-uri="submenu_mens Brooches" data-image-uri="http://images0.voylla.com/menu/accessories_mens-brooches.jpg"></ul></li></div></ul></li>
+    <li class="rootnav"><a class="mcl_root_menu mcl_root_menu_women">women</a><ul class="mcl_submenu subnav"><div class="mcl_menu_div mcl_menu_div_Jewellery heading"><a href="/jewellery" data-uri="menu_Jewellery"> Jewellery </a><li class="mcl_menu_li mcl_menu_li_Anklets submenu"><span class="menu_image_box menu_image_box_Anklets"><a href="/jewellery/anklets" data-uri="menu_Anklets" class="menu_image_rollover"> Anklets </a></span><ul class="mcl_menu_ul mcl_menu_ul_Anklets submenu" data-uri="submenu_Anklets" data-image-uri="http://images0.voylla.com/menu/jewellery_anklets.jpg"><li class="mcl_link_li mcl_link_li_Beaded childlinks"><a href="/jewellery/anklets/beaded" data-image-uri="http://images0.voylla.com/menu/jewellery_anklets_beaded.jpg"> Beaded</a></li><li class="mcl_link_li mcl_link_li_Links childlinks"><a href="/jewellery/anklets/links" data-image-uri="http://images0.voylla.com/menu/jewellery_anklets_links.jpg"> Links</a></li><li class="mcl_link_li mcl_link_li_Hasli childlinks"><a href="/jewellery/anklets/hasli" data-image-uri="http://images0.voylla.com/menu/jewellery_anklets_hasli.jpg"> Hasli</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Necklace Sets submenu"><span class="menu_image_box menu_image_box_Necklace Sets"><a href="/jewellery/necklace-sets" data-uri="menu_Necklace Sets" class="menu_image_rollover"> Necklace Sets </a></span><ul class="mcl_menu_ul mcl_menu_ul_Necklace Sets submenu" data-uri="submenu_Necklace Sets" data-image-uri="http://images0.voylla.com/menu/jewellery_necklace-sets.jpg"><li class="mcl_link_li mcl_link_li_Short childlinks"><a href="/jewellery/necklace-sets/short" data-image-uri="http://images0.voylla.com/menu/jewellery_necklace-sets_short.jpg"> Short</a></li><li class="mcl_link_li mcl_link_li_Medium childlinks"><a href="/jewellery/necklace-sets/medium" data-image-uri="http://images0.voylla.com/menu/jewellery_necklace-sets_medium.jpg"> Medium</a></li><li class="mcl_link_li mcl_link_li_Long childlinks"><a href="/jewellery/necklace-sets/long" data-image-uri="http://images0.voylla.com/menu/jewellery_necklace-sets_long.jpg"> Long</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Maang Tika Sets submenu"><span class="menu_image_box menu_image_box_Maang Tika Sets"><a href="/jewellery/maang-tika-sets" data-uri="menu_Maang Tika Sets" class="menu_image_rollover"> Maang Tika Sets </a></span><ul class="mcl_menu_ul mcl_menu_ul_Maang Tika Sets submenu" data-uri="submenu_Maang Tika Sets" data-image-uri="http://images0.voylla.com/menu/jewellery_maang-tika-sets.jpg"><li class="mcl_link_li mcl_link_li_Short childlinks"><a href="/jewellery/maang-tika-sets/short" data-image-uri="http://images0.voylla.com/menu/jewellery_maang-tika-sets_short.jpg"> Short</a></li><li class="mcl_link_li mcl_link_li_Medium childlinks"><a href="/jewellery/maang-tika-sets/medium" data-image-uri="http://images0.voylla.com/menu/jewellery_maang-tika-sets_medium.jpg"> Medium</a></li><li class="mcl_link_li mcl_link_li_Long childlinks"><a href="/jewellery/maang-tika-sets/long" data-image-uri="http://images0.voylla.com/menu/jewellery_maang-tika-sets_long.jpg"> Long</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Pendant Sets submenu"><span class="menu_image_box menu_image_box_Pendant Sets"><a href="/jewellery/pendant-sets" data-uri="menu_Pendant Sets" class="menu_image_rollover"> Pendant Sets </a></span><ul class="mcl_menu_ul mcl_menu_ul_Pendant Sets submenu" data-uri="submenu_Pendant Sets" data-image-uri="http://images0.voylla.com/menu/jewellery_pendant-sets.jpg"><li class="mcl_link_li mcl_link_li_With Chain childlinks"><a href="/jewellery/pendant-sets/with-chain" data-image-uri="http://images0.voylla.com/menu/jewellery_pendant-sets_with-chain.jpg"> With Chain</a></li><li class="mcl_link_li mcl_link_li_Without Chain childlinks"><a href="/jewellery/pendant-sets/without-chain" data-image-uri="http://images0.voylla.com/menu/jewellery_pendant-sets_without-chain.jpg"> Without Chain</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Necklaces submenu"><span class="menu_image_box menu_image_box_Necklaces"><a href="/jewellery/necklaces" data-uri="menu_Necklaces" class="menu_image_rollover"> Necklaces </a></span><ul class="mcl_menu_ul mcl_menu_ul_Necklaces submenu" data-uri="submenu_Necklaces" data-image-uri="http://images0.voylla.com/menu/jewellery_necklaces.jpg"><li class="mcl_link_li mcl_link_li_Short childlinks"><a href="/jewellery/necklaces/short" data-image-uri="http://images0.voylla.com/menu/jewellery_necklaces_short.jpg"> Short</a></li><li class="mcl_link_li mcl_link_li_Medium childlinks"><a href="/jewellery/necklaces/medium" data-image-uri="http://images0.voylla.com/menu/jewellery_necklaces_medium.jpg"> Medium</a></li><li class="mcl_link_li mcl_link_li_Long childlinks"><a href="/jewellery/necklaces/long" data-image-uri="http://images0.voylla.com/menu/jewellery_necklaces_long.jpg"> Long</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Mangalsutras submenu"><span class="menu_image_box menu_image_box_Mangalsutras"><a href="/jewellery/mangalsutras" data-uri="menu_Mangalsutras" class="menu_image_rollover"> Mangalsutras </a></span><ul class="mcl_menu_ul mcl_menu_ul_Mangalsutras submenu" data-uri="submenu_Mangalsutras" data-image-uri="http://images0.voylla.com/menu/jewellery_mangalsutras.jpg"><li class="mcl_link_li mcl_link_li_Single Chain childlinks"><a href="/jewellery/mangalsutras/single-chain" data-image-uri="http://images0.voylla.com/menu/jewellery_mangalsutras_single-chain.jpg"> Single Chain</a></li><li class="mcl_link_li mcl_link_li_Double Chain childlinks"><a href="/jewellery/mangalsutras/double-chain" data-image-uri="http://images0.voylla.com/menu/jewellery_mangalsutras_double-chain.jpg"> Double Chain</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Nose Pins submenu"><span class="menu_image_box menu_image_box_Nose Pins"><a href="/jewellery/nose-pins" data-uri="menu_Nose Pins" class="menu_image_rollover"> Nose Pins </a></span><ul class="mcl_menu_ul mcl_menu_ul_Nose Pins submenu" data-uri="submenu_Nose Pins" data-image-uri="http://images0.voylla.com/menu/jewellery_nose-pins.jpg"><li class="mcl_link_li mcl_link_li_Clip Ons childlinks"><a href="/jewellery/nose-pins/clip-ons" data-image-uri="http://images0.voylla.com/menu/jewellery_nose-pins_clip-ons.jpg"> Clip Ons</a></li><li class="mcl_link_li mcl_link_li_Rings childlinks"><a href="/jewellery/nose-pins/rings" data-image-uri="http://images0.voylla.com/menu/jewellery_nose-pins_rings.jpg"> Rings</a></li><li class="mcl_link_li mcl_link_li_Pins childlinks"><a href="/jewellery/nose-pins/pins" data-image-uri="http://images0.voylla.com/menu/jewellery_nose-pins_pins.jpg"> Pins</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Bracelets submenu"><span class="menu_image_box menu_image_box_Bracelets"><a href="/jewellery/bracelets" data-uri="menu_Bracelets" class="menu_image_rollover"> Bracelets </a></span><ul class="mcl_menu_ul mcl_menu_ul_Bracelets submenu" data-uri="submenu_Bracelets" data-image-uri="http://images0.voylla.com/menu/jewellery_bracelets.jpg"><li class="mcl_link_li mcl_link_li_Beaded childlinks"><a href="/jewellery/bracelets/beaded" data-image-uri="http://images0.voylla.com/menu/jewellery_bracelets_beaded.jpg"> Beaded</a></li><li class="mcl_link_li mcl_link_li_Links childlinks"><a href="/jewellery/bracelets/links" data-image-uri="http://images0.voylla.com/menu/jewellery_bracelets_links.jpg"> Links</a></li><li class="mcl_link_li mcl_link_li_Cuffs childlinks"><a href="/jewellery/bracelets/cuffs" data-image-uri="http://images0.voylla.com/menu/jewellery_bracelets_cuffs.jpg"> Cuffs</a></li><li class="mcl_link_li mcl_link_li_Kada childlinks"><a href="/jewellery/bracelets/kada" data-image-uri="http://images0.voylla.com/menu/jewellery_bracelets_kada.jpg"> Kada</a></li><li class="mcl_link_li mcl_link_li_Bangles childlinks"><a href="/jewellery/bracelets/bangles" data-image-uri="http://images0.voylla.com/menu/jewellery_bracelets_bangles.jpg"> Bangles</a></li><li class="mcl_link_li mcl_link_li_Tennis childlinks"><a href="/jewellery/bracelets/tennis" data-image-uri="http://images0.voylla.com/menu/jewellery_bracelets_tennis.jpg"> Tennis</a></li><li class="mcl_link_li mcl_link_li_Strand childlinks"><a href="/jewellery/bracelets/strand" data-image-uri="http://images0.voylla.com/menu/jewellery_bracelets_strand.jpg"> Strand</a></li><li class="mcl_link_li mcl_link_li_Slave childlinks"><a href="/jewellery/bracelets/slave" data-image-uri="http://images0.voylla.com/menu/jewellery_bracelets_slave.jpg"> Slave</a></li><li class="mcl_link_li mcl_link_li_Bands childlinks"><a href="/jewellery/bracelets/bands" data-image-uri="http://images0.voylla.com/menu/jewellery_bracelets_bands.jpg"> Bands</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Earrings submenu"><span class="menu_image_box menu_image_box_Earrings"><a href="/jewellery/earrings" data-uri="menu_Earrings" class="menu_image_rollover"> Earrings </a></span><ul class="mcl_menu_ul mcl_menu_ul_Earrings submenu" data-uri="submenu_Earrings" data-image-uri="http://images0.voylla.com/menu/jewellery_earrings.jpg"><li class="mcl_link_li mcl_link_li_Jhumkis childlinks"><a href="/jewellery/earrings/jhumkis" data-image-uri="http://images0.voylla.com/menu/jewellery_earrings_jhumkis.jpg"> Jhumkis</a></li><li class="mcl_link_li mcl_link_li_Danglers childlinks"><a href="/jewellery/earrings/danglers" data-image-uri="http://images0.voylla.com/menu/jewellery_earrings_danglers.jpg"> Danglers</a></li><li class="mcl_link_li mcl_link_li_Studs childlinks"><a href="/jewellery/earrings/studs" data-image-uri="http://images0.voylla.com/menu/jewellery_earrings_studs.jpg"> Studs</a></li><li class="mcl_link_li mcl_link_li_Ear Cuffs childlinks"><a href="/jewellery/earrings/ear-cuffs" data-image-uri="http://images0.voylla.com/menu/jewellery_earrings_ear-cuffs.jpg"> Ear Cuffs</a></li><li class="mcl_link_li mcl_link_li_Hoops childlinks"><a href="/jewellery/earrings/hoops" data-image-uri="http://images0.voylla.com/menu/jewellery_earrings_hoops.jpg"> Hoops</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Rings submenu"><span class="menu_image_box menu_image_box_Rings"><a href="/jewellery/rings" data-uri="menu_Rings" class="menu_image_rollover"> Rings </a></span><ul class="mcl_menu_ul mcl_menu_ul_Rings submenu" data-uri="submenu_Rings" data-image-uri="http://images0.voylla.com/menu/jewellery_rings.jpg"><li class="mcl_link_li mcl_link_li_Cocktail childlinks"><a href="/jewellery/rings/cocktail" data-image-uri="http://images0.voylla.com/menu/jewellery_rings_cocktail.jpg"> Cocktail</a></li><li class="mcl_link_li mcl_link_li_Bands childlinks"><a href="/jewellery/rings/bands" data-image-uri="http://images0.voylla.com/menu/jewellery_rings_bands.jpg"> Bands</a></li><li class="mcl_link_li mcl_link_li_Clusters childlinks"><a href="/jewellery/rings/clusters" data-image-uri="http://images0.voylla.com/menu/jewellery_rings_clusters.jpg"> Clusters</a></li><li class="mcl_link_li mcl_link_li_Solitaire childlinks"><a href="/jewellery/rings/solitaire" data-image-uri="http://images0.voylla.com/menu/jewellery_rings_solitaire.jpg"> Solitaire</a></li><li class="mcl_link_li mcl_link_li_Statement childlinks"><a href="/jewellery/rings/statement" data-image-uri="http://images0.voylla.com/menu/jewellery_rings_statement.jpg"> Statement</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Others submenu"><span class="menu_image_rollover"> Others </span><ul class="mcl_menu_ul mcl_menu_ul_Others submenu" data-uri="submenu_Others" data-image-uri="http://images0.voylla.com/menu/jewellery_others.jpg"><li class="mcl_link_li mcl_link_li_Saree Clips childlinks"><a href="/jewellery/saree-clips" data-image-uri="http://images0.voylla.com/menu/jewellery_others_saree-clips.jpg"> Saree Clips</a></li><li class="mcl_link_li mcl_link_li_Hath Phool childlinks"><a href="/jewellery/hath-phool" data-image-uri="http://images0.voylla.com/menu/jewellery_others_hath-phool.jpg"> Hath Phool</a></li><li class="mcl_link_li mcl_link_li_Saree Pins childlinks"><a href="/jewellery/saree-pins" data-image-uri="http://images0.voylla.com/menu/jewellery_others_saree-pins.jpg"> Saree Pins</a></li><li class="mcl_link_li mcl_link_li_Juda Pins childlinks"><a href="/jewellery/juda-pins" data-image-uri="http://images0.voylla.com/menu/jewellery_others_juda-pins.jpg"> Juda Pins</a></li><li class="mcl_link_li mcl_link_li_Bridal Sets childlinks"><a href="/jewellery/bridal-sets" data-image-uri="http://images0.voylla.com/menu/jewellery_others_bridal-sets.jpg"> Bridal Sets</a></li><li class="mcl_link_li mcl_link_li_Body Chains childlinks"><a href="/jewellery/body-chains" data-image-uri="http://images0.voylla.com/menu/jewellery_others_body-chains.jpg"> Body Chains</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Maang Tika submenu"><span class="menu_image_box menu_image_box_Maang Tika"><a href="/jewellery/maang-tika" data-uri="menu_Maang Tika" class="menu_image_rollover"> Maang Tika </a></span><ul class="mcl_menu_ul mcl_menu_ul_Maang Tika submenu" data-uri="submenu_Maang Tika" data-image-uri="http://images0.voylla.com/menu/jewellery_maang-tika.jpg"><li class="mcl_link_li mcl_link_li_Borla childlinks"><a href="/jewellery/maang-tika/borla" data-image-uri="http://images0.voylla.com/menu/jewellery_maang-tika_borla.jpg"> Borla</a></li><li class="mcl_link_li mcl_link_li_Tikaa childlinks"><a href="/jewellery/maang-tika/tikaa" data-image-uri="http://images0.voylla.com/menu/jewellery_maang-tika_tikaa.jpg"> Tikaa</a></li><li class="mcl_link_li mcl_link_li_Matha patti childlinks"><a href="/jewellery/maang-tika/matha-patti" data-image-uri="http://images0.voylla.com/menu/jewellery_maang-tika_matha-patti.jpg"> Matha patti</a></li><li class="mcl_link_li mcl_link_li_Passa childlinks"><a href="/jewellery/maang-tika/passa" data-image-uri="http://images0.voylla.com/menu/jewellery_maang-tika_passa.jpg"> Passa</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Pendants submenu"><span class="menu_image_box menu_image_box_Pendants"><a href="/jewellery/pendants" data-uri="menu_Pendants" class="menu_image_rollover"> Pendants </a></span><ul class="mcl_menu_ul mcl_menu_ul_Pendants submenu" data-uri="submenu_Pendants" data-image-uri="http://images0.voylla.com/menu/jewellery_pendants.jpg"><li class="mcl_link_li mcl_link_li_With Chain childlinks"><a href="/jewellery/pendants/with-chain" data-image-uri="http://images0.voylla.com/menu/jewellery_pendants_with-chain.jpg"> With Chain</a></li><li class="mcl_link_li mcl_link_li_Without Chain childlinks"><a href="/jewellery/pendants/without-chain" data-image-uri="http://images0.voylla.com/menu/jewellery_pendants_without-chain.jpg"> Without Chain</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Toe Rings submenu"><span class="menu_image_box menu_image_box_Toe Rings"><a href="/jewellery/toe-rings" data-uri="menu_Toe Rings" class="menu_image_rollover"> Toe Rings </a></span><ul class="mcl_menu_ul mcl_menu_ul_Toe Rings submenu" data-uri="submenu_Toe Rings" data-image-uri="http://images0.voylla.com/menu/jewellery_toe-rings.jpg"><li class="mcl_link_li mcl_link_li_With Gemstone childlinks"><a href="/jewellery/toe-rings/with-gemstone" data-image-uri="http://images0.voylla.com/menu/jewellery_toe-rings_with-gemstone.jpg"> With Gemstone</a></li><li class="mcl_link_li mcl_link_li_W/o Gemstone childlinks"><a href="/jewellery/toe-rings/without-gemstone" data-image-uri="http://images0.voylla.com/menu/jewellery_toe-rings_w/o-gemstone.jpg"> W/o Gemstone</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Armlets submenu"><span class="menu_image_box menu_image_box_Armlets"><a href="/jewellery/armlets" data-uri="menu_Armlets" class="menu_image_rollover"> Armlets </a></span><ul class="mcl_menu_ul mcl_menu_ul_Armlets submenu" data-uri="submenu_Armlets" data-image-uri="http://images0.voylla.com/menu/jewellery_armlets.jpg"><li class="mcl_link_li mcl_link_li_Kada childlinks"><a href="/jewellery/armlets/kada" data-image-uri="http://images0.voylla.com/menu/jewellery_armlets_kada.jpg"> Kada</a></li><li class="mcl_link_li mcl_link_li_Links childlinks"><a href="/jewellery/armlets/links" data-image-uri="http://images0.voylla.com/menu/jewellery_armlets_links.jpg"> Links</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Kamarband submenu"><span class="menu_image_box menu_image_box_Kamarband"><a href="/jewellery/kamarband" data-uri="menu_Kamarband" class="menu_image_rollover"> Kamarband </a></span><ul class="mcl_menu_ul mcl_menu_ul_Kamarband submenu" data-uri="submenu_Kamarband" data-image-uri="http://images0.voylla.com/menu/jewellery_kamarband.jpg"><li class="mcl_link_li mcl_link_li_Links childlinks"><a href="/jewellery/kamarband/links" data-image-uri="http://images0.voylla.com/menu/jewellery_kamarband_links.jpg"> Links</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Rakhis submenu"><span class="menu_image_box menu_image_box_Rakhis"><a href="/jewellery/rakhis" data-uri="menu_Rakhis" class="menu_image_rollover"> Rakhis </a></span><ul class="mcl_menu_ul mcl_menu_ul_Rakhis submenu" data-uri="submenu_Rakhis" data-image-uri="http://images0.voylla.com/menu/jewellery_rakhis.jpg"><li class="mcl_link_li mcl_link_li_Thread childlinks"><a href="/jewellery/rakhis/thread" data-image-uri="http://images0.voylla.com/menu/jewellery_rakhis_thread.jpg"> Thread</a></li><li class="mcl_link_li mcl_link_li_Links childlinks"><a href="/jewellery/rakhis/links" data-image-uri="http://images0.voylla.com/menu/jewellery_rakhis_links.jpg"> Links</a></li></ul></li></div><div class="mcl_menu_div mcl_menu_div_Accessories heading"><a href="/accessories" data-uri="menu_Accessories"> Accessories </a><li class="mcl_menu_li mcl_menu_li_Bags &amp; Wallets submenu"><span class="menu_image_box menu_image_box_Bags &amp; Wallets"><a href="/accessories/bags-and-wallets" data-uri="menu_Bags &amp; Wallets" class="menu_image_rollover"> Bags &amp; Wallets </a></span><ul class="mcl_menu_ul mcl_menu_ul_Bags &amp; Wallets submenu" data-uri="submenu_Bags &amp; Wallets" data-image-uri="http://images0.voylla.com/menu/accessories_bags-&amp;-wallets.jpg"><li class="mcl_link_li mcl_link_li_Handbags childlinks"><a href="/accessories/bags-and-wallets/handbags" data-image-uri="http://images0.voylla.com/menu/accessories_bags-&amp;-wallets_handbags.jpg"> Handbags</a></li><li class="mcl_link_li mcl_link_li_Sling Bags childlinks"><a href="/accessories/bags-and-wallets/sling-bags" data-image-uri="http://images0.voylla.com/menu/accessories_bags-&amp;-wallets_sling-bags.jpg"> Sling Bags</a></li><li class="mcl_link_li mcl_link_li_Totes childlinks"><a href="/accessories/bags-and-wallets/totes" data-image-uri="http://images0.voylla.com/menu/accessories_bags-&amp;-wallets_totes.jpg"> Totes</a></li><li class="mcl_link_li mcl_link_li_Wallets childlinks"><a href="/accessories/bags-and-wallets/wallets" data-image-uri="http://images0.voylla.com/menu/accessories_bags-&amp;-wallets_wallets.jpg"> Wallets</a></li><li class="mcl_link_li mcl_link_li_Clutches childlinks"><a href="/accessories/bags-and-wallets/clutches" data-image-uri="http://images0.voylla.com/menu/accessories_bags-&amp;-wallets_clutches.jpg"> Clutches</a></li><li class="mcl_link_li mcl_link_li_Backpacks childlinks"><a href="/accessories/bags-and-wallets/backpacks" data-image-uri="http://images0.voylla.com/menu/accessories_bags-&amp;-wallets_backpacks.jpg"> Backpacks</a></li><li class="mcl_link_li mcl_link_li_Potli Bags childlinks"><a href="/accessories/bags-and-wallets/potli-bags" data-image-uri="http://images0.voylla.com/menu/accessories_bags-&amp;-wallets_potli-bags.jpg"> Potli Bags</a></li><li class="mcl_link_li mcl_link_li_Envelopes childlinks"><a href="/accessories/bags-and-wallets/envelopes" data-image-uri="http://images0.voylla.com/menu/accessories_bags-&amp;-wallets_envelopes.jpg"> Envelopes</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Watches submenu"><span class="menu_image_box menu_image_box_Watches"><a href="/accessories/watches" data-uri="menu_Watches" class="menu_image_rollover"> Watches </a></span><ul class="mcl_menu_ul mcl_menu_ul_Watches submenu" data-uri="submenu_Watches" data-image-uri="http://images0.voylla.com/menu/accessories_watches.jpg"><li class="mcl_link_li mcl_link_li_Kundan childlinks"><a href="/accessories/watches/kundan" data-image-uri="http://images0.voylla.com/menu/accessories_watches_kundan.jpg"> Kundan</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Belts submenu"><span class="menu_image_box menu_image_box_Belts"><a href="/accessories/belts" data-uri="menu_Belts" class="menu_image_rollover"> Belts </a></span><ul class="mcl_menu_ul mcl_menu_ul_Belts submenu" data-uri="submenu_Belts" data-image-uri="http://images0.voylla.com/menu/accessories_belts.jpg"><li class="mcl_link_li mcl_link_li_Chains childlinks"><a href="/accessories/belts/chains" data-image-uri="http://images0.voylla.com/menu/accessories_belts_chains.jpg"> Chains</a></li><li class="mcl_link_li mcl_link_li_Braided childlinks"><a href="/accessories/belts/braided" data-image-uri="http://images0.voylla.com/menu/accessories_belts_braided.jpg"> Braided</a></li><li class="mcl_link_li mcl_link_li_Embellished childlinks"><a href="/accessories/belts/embellished" data-image-uri="http://images0.voylla.com/menu/accessories_belts_embellished.jpg"> Embellished</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_Hair Accessories submenu"><span class="menu_image_box menu_image_box_Hair Accessories"><a href="/accessories/hair-accessories" data-uri="menu_Hair Accessories" class="menu_image_rollover"> Hair Accessories </a></span><ul class="mcl_menu_ul mcl_menu_ul_Hair Accessories submenu" data-uri="submenu_Hair Accessories" data-image-uri="http://images0.voylla.com/menu/accessories_hair-accessories.jpg"><li class="mcl_link_li mcl_link_li_Pins childlinks"><a href="/accessories/hair-accessories/pins" data-image-uri="http://images0.voylla.com/menu/accessories_hair-accessories_pins.jpg"> Pins</a></li><li class="mcl_link_li mcl_link_li_French Combs childlinks"><a href="/accessories/hair-accessories/french-combs" data-image-uri="http://images0.voylla.com/menu/accessories_hair-accessories_french-combs.jpg"> French Combs</a></li><li class="mcl_link_li mcl_link_li_Head Bands childlinks"><a href="/accessories/hair-accessories/head-bands" data-image-uri="http://images0.voylla.com/menu/accessories_hair-accessories_head-bands.jpg"> Head Bands</a></li><li class="mcl_link_li mcl_link_li_Head Gear with Combs childlinks"><a href="/accessories/hair-accessories/head-gear-with-combs" data-image-uri="http://images0.voylla.com/menu/accessories_hair-accessories_head-gear-with-combs.jpg"> Head Gear with Combs</a></li><li class="mcl_link_li mcl_link_li_Head Gear with Clips childlinks"><a href="/accessories/hair-accessories/head-gear-with-clips" data-image-uri="http://images0.voylla.com/menu/accessories_hair-accessories_head-gear-with-clips.jpg"> Head Gear with Clips</a></li></ul></li></div></ul></li> 
+    <li class="rootnav"><a class="mcl_root_menu mcl_root_menu_kids">kids</a><ul class="mcl_submenu subnav"><div class="mcl_menu_div mcl_menu_div_kids Jewellery heading"><a href="/kids-jewellery" data-uri="menu_kids Jewellery">  Jewellery </a><li class="mcl_menu_li mcl_menu_li_kids Earrings submenu"><span class="menu_image_box menu_image_box_kids Earrings"><a href="/kids-jewellery/kids-earrings" data-uri="menu_kids Earrings" class="menu_image_rollover">  Earrings </a></span><ul class="mcl_menu_ul mcl_menu_ul_kids Earrings submenu" data-uri="submenu_kids Earrings" data-image-uri="http://images0.voylla.com/menu/kids-jewellery_kids-earrings.jpg"><li class="mcl_link_li mcl_link_li_kids Studs childlinks"><a href="/kids-jewellery/kids-earrings/studs" data-image-uri="http://images0.voylla.com/menu/kids-jewellery_kids-earrings_kids-studs.jpg">  Studs</a></li><li class="mcl_link_li mcl_link_li_kids Hoops childlinks"><a href="/kids-jewellery/kids-earrings/hoops" data-image-uri="http://images0.voylla.com/menu/kids-jewellery_kids-earrings_kids-hoops.jpg">  Hoops</a></li><li class="mcl_link_li mcl_link_li_kids Danglers childlinks"><a href="/kids-jewellery/kids-earrings/danglers" data-image-uri="http://images0.voylla.com/menu/kids-jewellery_kids-earrings_kids-danglers.jpg">  Danglers</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_kids Pendants submenu"><span class="menu_image_box menu_image_box_kids Pendants"><a href="/kids-jewellery/kids-pendants" data-uri="menu_kids Pendants" class="menu_image_rollover">  Pendants </a></span><ul class="mcl_menu_ul mcl_menu_ul_kids Pendants submenu" data-uri="submenu_kids Pendants" data-image-uri="http://images0.voylla.com/menu/kids-jewellery_kids-pendants.jpg"><li class="mcl_link_li mcl_link_li_kids With Chain childlinks"><a href="/kids-jewellery/kids-pendants/with-chain" data-image-uri="http://images0.voylla.com/menu/kids-jewellery_kids-pendants_kids-with-chain.jpg">  With Chain</a></li><li class="mcl_link_li mcl_link_li_kids Without Chain childlinks"><a href="/kids-jewellery/kids-pendants/without-chain" data-image-uri="http://images0.voylla.com/menu/kids-jewellery_kids-pendants_kids-without-chain.jpg">  Without Chain</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_kids Bangles &amp; Bracelets submenu"><span class="menu_image_box menu_image_box_kids Bangles &amp; Bracelets"><a href="/kids-jewellery/kids-bangles-and-bracelets" data-uri="menu_kids Bangles &amp; Bracelets" class="menu_image_rollover">  Bangles &amp; Bracelets </a></span><ul class="mcl_menu_ul mcl_menu_ul_kids Bangles &amp; Bracelets submenu" data-uri="submenu_kids Bangles &amp; Bracelets" data-image-uri="http://images0.voylla.com/menu/kids-jewellery_kids-bangles-&amp;-bracelets.jpg"><li class="mcl_link_li mcl_link_li_kids Links childlinks"><a href="/kids-jewellery/kids-bangles-and-bracelets/links" data-image-uri="http://images0.voylla.com/menu/kids-jewellery_kids-bangles-&amp;-bracelets_kids-links.jpg">  Links</a></li><li class="mcl_link_li mcl_link_li_kids Kada childlinks"><a href="/kids-jewellery/kids-bangles-and-bracelets/kada" data-image-uri="http://images0.voylla.com/menu/kids-jewellery_kids-bangles-&amp;-bracelets_kids-kada.jpg">  Kada</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_kids Anklets submenu"><span class="menu_image_box menu_image_box_kids Anklets"><a href="/kids-jewellery/kids-anklets" data-uri="menu_kids Anklets" class="menu_image_rollover">  Anklets </a></span><ul class="mcl_menu_ul mcl_menu_ul_kids Anklets submenu" data-uri="submenu_kids Anklets" data-image-uri="http://images0.voylla.com/menu/kids-jewellery_kids-anklets.jpg"><li class="mcl_link_li mcl_link_li_kids Links childlinks"><a href="/kids-jewellery/kids-anklets/links" data-image-uri="http://images0.voylla.com/menu/kids-jewellery_kids-anklets_kids-links.jpg">  Links</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_kids Chains submenu"><span class="menu_image_box menu_image_box_kids Chains"><a href="/kids-jewellery/kids-chains" data-uri="menu_kids Chains" class="menu_image_rollover">  Chains </a></span><ul class="mcl_menu_ul mcl_menu_ul_kids Chains submenu" data-uri="submenu_kids Chains" data-image-uri="http://images0.voylla.com/menu/kids-jewellery_kids-chains.jpg"><li class="mcl_link_li mcl_link_li_kids Medium childlinks"><a href="/kids-jewellery/kids-chains/medium" data-image-uri="http://images0.voylla.com/menu/kids-jewellery_kids-chains_kids-medium.jpg">  Medium</a></li></ul></li></div></ul></li>
+    <li class="rootnav"><a class="mcl_root_menu mcl_root_menu_men">men</a><ul class="mcl_submenu subnav"><div class="mcl_menu_div mcl_menu_div_mens Jewellery heading"><a href="/mens-jewellery" data-uri="menu_mens Jewellery">  Jewellery </a><li class="mcl_menu_li mcl_menu_li_mens Pendants submenu"><span class="menu_image_box menu_image_box_mens Pendants"><a href="/mens-jewellery/mens-pendants" data-uri="menu_mens Pendants" class="menu_image_rollover">  Pendants </a></span><ul class="mcl_menu_ul mcl_menu_ul_mens Pendants submenu" data-uri="submenu_mens Pendants" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-pendants.jpg"><li class="mcl_link_li mcl_link_li_mens With Chain childlinks"><a href="/mens-jewellery/mens-pendants/with-chain" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-pendants_mens-with-chain.jpg">  With Chain</a></li><li class="mcl_link_li mcl_link_li_mens Without Chain childlinks"><a href="/mens-jewellery/mens-pendants/without-chain" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-pendants_mens-without-chain.jpg">  Without Chain</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_mens Bracelets submenu"><span class="menu_image_box menu_image_box_mens Bracelets"><a href="/mens-jewellery/mens-bracelets" data-uri="menu_mens Bracelets" class="menu_image_rollover">  Bracelets </a></span><ul class="mcl_menu_ul mcl_menu_ul_mens Bracelets submenu" data-uri="submenu_mens Bracelets" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-bracelets.jpg"><li class="mcl_link_li mcl_link_li_mens Links childlinks"><a href="/mens-jewellery/mens-bracelets/links" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-bracelets_mens-links.jpg">  Links</a></li><li class="mcl_link_li mcl_link_li_mens Bands childlinks"><a href="/mens-jewellery/mens-bracelets/bands" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-bracelets_mens-bands.jpg">  Bands</a></li><li class="mcl_link_li mcl_link_li_mens Cuffs childlinks"><a href="/mens-jewellery/mens-bracelets/cuffs" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-bracelets_mens-cuffs.jpg">  Cuffs</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_mens Chains submenu"><span class="menu_image_box menu_image_box_mens Chains"><a href="/mens-jewellery/mens-chains" data-uri="menu_mens Chains" class="menu_image_rollover">  Chains </a></span><ul class="mcl_menu_ul mcl_menu_ul_mens Chains submenu" data-uri="submenu_mens Chains" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-chains.jpg"><li class="mcl_link_li mcl_link_li_mens Short childlinks"><a href="/mens-jewellery/mens-chains/short" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-chains_mens-short.jpg">  Short</a></li><li class="mcl_link_li mcl_link_li_mens Medium childlinks"><a href="/mens-jewellery/mens-chains/medium" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-chains_mens-medium.jpg">  Medium</a></li><li class="mcl_link_li mcl_link_li_mens Long childlinks"><a href="/mens-jewellery/mens-chains/long" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-chains_mens-long.jpg">  Long</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_mens Rings submenu"><span class="menu_image_box menu_image_box_mens Rings"><a href="/mens-jewellery/mens-rings" data-uri="menu_mens Rings" class="menu_image_rollover">  Rings </a></span><ul class="mcl_menu_ul mcl_menu_ul_mens Rings submenu" data-uri="submenu_mens Rings" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-rings.jpg"><li class="mcl_link_li mcl_link_li_mens Bands childlinks"><a href="/mens-jewellery/mens-rings/bands" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-rings_mens-bands.jpg">  Bands</a></li><li class="mcl_link_li mcl_link_li_mens Solitaire childlinks"><a href="/mens-jewellery/mens-rings/solitaire" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-rings_mens-solitaire.jpg">  Solitaire</a></li><li class="mcl_link_li mcl_link_li_mens Clusters childlinks"><a href="/mens-jewellery/mens-rings/clusters" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-rings_mens-clusters.jpg">  Clusters</a></li><li class="mcl_link_li mcl_link_li_mens Statement childlinks"><a href="/mens-jewellery/mens-rings/statement" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-rings_mens-statement.jpg">  Statement</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_mens Kada submenu"><span class="menu_image_box menu_image_box_mens Kada"><a href="/mens-jewellery/mens-kada" data-uri="menu_mens Kada" class="menu_image_rollover">  Kada </a></span><ul class="mcl_menu_ul mcl_menu_ul_mens Kada submenu" data-uri="submenu_mens Kada" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-kada.jpg"><li class="mcl_link_li mcl_link_li_mens Kada childlinks"><a href="/mens-jewellery/mens-kada/kada" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-kada_mens-kada.jpg">  Kada</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_mens Earrings submenu"><span class="menu_image_box menu_image_box_mens Earrings"><a href="/mens-jewellery/mens-earrings" data-uri="menu_mens Earrings" class="menu_image_rollover">  Earrings </a></span><ul class="mcl_menu_ul mcl_menu_ul_mens Earrings submenu" data-uri="submenu_mens Earrings" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-earrings.jpg"><li class="mcl_link_li mcl_link_li_mens Studs childlinks"><a href="/mens-jewellery/mens-earrings/studs" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-earrings_mens-studs.jpg">  Studs</a></li><li class="mcl_link_li mcl_link_li_mens Hoops childlinks"><a href="/mens-jewellery/mens-earrings/hoops" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-earrings_mens-hoops.jpg">  Hoops</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_mens Rakhis submenu"><span class="menu_image_box menu_image_box_mens Rakhis"><a href="/mens-jewellery/mens-rakhis" data-uri="menu_mens Rakhis" class="menu_image_rollover">  Rakhis </a></span><ul class="mcl_menu_ul mcl_menu_ul_mens Rakhis submenu" data-uri="submenu_mens Rakhis" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-rakhis.jpg"><li class="mcl_link_li mcl_link_li_mens Thread childlinks"><a href="/mens-jewellery/mens-rakhis/thread" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-rakhis_mens-thread.jpg">  Thread</a></li><li class="mcl_link_li mcl_link_li_mens Links childlinks"><a href="/mens-jewellery/mens-rakhis/links" data-image-uri="http://images0.voylla.com/menu/mens-jewellery_mens-rakhis_mens-links.jpg">  Links</a></li></ul></li></div><div class="mcl_menu_div mcl_menu_div_Accessories heading"><a href="/mens-accessories" data-uri="menu_Accessories"> Accessories </a><li class="mcl_menu_li mcl_menu_li_mens Cufflinks submenu"><span class="menu_image_box menu_image_box_mens Cufflinks"><a href="/mens-accessories/mens-cufflinks" data-uri="menu_mens Cufflinks" class="menu_image_rollover">  Cufflinks </a></span><ul class="mcl_menu_ul mcl_menu_ul_mens Cufflinks submenu" data-uri="submenu_mens Cufflinks" data-image-uri="http://images0.voylla.com/menu/accessories_mens-cufflinks.jpg"><li class="mcl_link_li mcl_link_li_mens Swivel Bar childlinks"><a href="/mens-accessories/mens-cufflinks/swivel-bar" data-image-uri="http://images0.voylla.com/menu/accessories_mens-cufflinks_mens-swivel-bar.jpg">  Swivel Bar</a></li><li class="mcl_link_li mcl_link_li_mens Double Panel childlinks"><a href="/mens-accessories/mens-cufflinks/double-panel" data-image-uri="http://images0.voylla.com/menu/accessories_mens-cufflinks_mens-double-panel.jpg">  Double Panel</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_mens Bags &amp; Wallets submenu"><span class="menu_image_box menu_image_box_mens Bags &amp; Wallets"><a href="/mens-accessories/mens-bags-and-wallets" data-uri="menu_mens Bags &amp; Wallets" class="menu_image_rollover">  Bags &amp; Wallets </a></span><ul class="mcl_menu_ul mcl_menu_ul_mens Bags &amp; Wallets submenu" data-uri="submenu_mens Bags &amp; Wallets" data-image-uri="http://images0.voylla.com/menu/accessories_mens-bags-&amp;-wallets.jpg"><li class="mcl_link_li mcl_link_li_mens Messenger Bags childlinks"><a href="/mens-accessories/mens-bags-and-wallets/messenger-bags" data-image-uri="http://images0.voylla.com/menu/accessories_mens-bags-&amp;-wallets_mens-messenger-bags.jpg">  Messenger Bags</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_mens Buttons submenu"><span class="menu_image_box menu_image_box_mens Buttons"><a href="/mens-accessories/mens-buttons" data-uri="menu_mens Buttons" class="menu_image_rollover">  Buttons </a></span><ul class="mcl_menu_ul mcl_menu_ul_mens Buttons submenu" data-uri="submenu_mens Buttons" data-image-uri="http://images0.voylla.com/menu/accessories_mens-buttons.jpg"><li class="mcl_link_li mcl_link_li_mens Kurta childlinks"><a href="/mens-accessories/mens-buttons/kurta" data-image-uri="http://images0.voylla.com/menu/accessories_mens-buttons_mens-kurta.jpg">  Kurta</a></li><li class="mcl_link_li mcl_link_li_mens Sherwani childlinks"><a href="/mens-accessories/mens-buttons/sherwani" data-image-uri="http://images0.voylla.com/menu/accessories_mens-buttons_mens-sherwani.jpg">  Sherwani</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_mens Brooches submenu"><span class="menu_image_box menu_image_box_mens Brooches"><a href="/mens-accessories/mens-brooches" data-uri="menu_mens Brooches" class="menu_image_rollover">  Brooches </a></span><ul class="mcl_menu_ul mcl_menu_ul_mens Brooches submenu" data-uri="submenu_mens Brooches" data-image-uri="http://images0.voylla.com/menu/accessories_mens-brooches.jpg"><li class="mcl_link_li mcl_link_li_mens Pins childlinks"><a href="/mens-accessories/mens-brooches/kurta" data-image-uri="http://images0.voylla.com/menu/accessories_mens-brooches_mens-pins.jpg">  Pins</a></li><li class="mcl_link_li mcl_link_li_mens Clips childlinks"><a href="/mens-accessories/mens-brooches/clips" data-image-uri="http://images0.voylla.com/menu/accessories_mens-brooches_mens-clips.jpg">  Clips</a></li></ul></li><li class="mcl_menu_li mcl_menu_li_mens Pens submenu"><span class="menu_image_box menu_image_box_mens Pens"><a href="/mens-accessories/mens-pens" data-uri="menu_mens Pens" class="menu_image_rollover">  Pens </a></span><ul class="mcl_menu_ul mcl_menu_ul_mens Pens submenu" data-uri="submenu_mens Pens" data-image-uri="http://images0.voylla.com/menu/accessories_mens-pens.jpg"></ul></li></div></ul></li>
     <li class="rootnav"><a class="mcl_root_menu mcl_root_menu_silver">silver</a><ul class="mcl_submenu subnav"><div class="mcl_menu_div mcl_menu_div_Silver Jewellery heading"><a href="/silverjewellery" data-uri="menu_Silver Jewellery">  Jewellery </a><li class="mcl_menu_li mcl_menu_li_Silver Earrings submenu"><span class="menu_image_box menu_image_box_Silver Earrings"><a href="/silver/silver-earrings" data-uri="menu_Silver Earrings" class="menu_image_rollover">  Earrings </a></span><ul class="mcl_menu_ul mcl_menu_ul_Silver Earrings submenu" data-uri="submenu_Silver Earrings" data-image-uri="http://images0.voylla.com/menu/silver-jewellery_silver-earrings.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_Silver Bracelets submenu"><span class="menu_image_box menu_image_box_Silver Bracelets"><a href="/silver/silver-bracelets" data-uri="menu_Silver Bracelets" class="menu_image_rollover">  Bracelets </a></span><ul class="mcl_menu_ul mcl_menu_ul_Silver Bracelets submenu" data-uri="submenu_Silver Bracelets" data-image-uri="http://images0.voylla.com/menu/silver-jewellery_silver-bracelets.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_Silver Necklaces submenu"><span class="menu_image_box menu_image_box_Silver Necklaces"><a href="/silver/silver-necklaces" data-uri="menu_Silver Necklaces" class="menu_image_rollover">  Necklaces </a></span><ul class="mcl_menu_ul mcl_menu_ul_Silver Necklaces submenu" data-uri="submenu_Silver Necklaces" data-image-uri="http://images0.voylla.com/menu/silver-jewellery_silver-necklaces.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_Silver Rings submenu"><span class="menu_image_box menu_image_box_Silver Rings"><a href="/silver/silver-rings" data-uri="menu_Silver Rings" class="menu_image_rollover">  Rings </a></span><ul class="mcl_menu_ul mcl_menu_ul_Silver Rings submenu" data-uri="submenu_Silver Rings" data-image-uri="http://images0.voylla.com/menu/silver-jewellery_silver-rings.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_Silver Pendants submenu"><span class="menu_image_box menu_image_box_Silver Pendants"><a href="/silver/silver-pendants" data-uri="menu_Silver Pendants" class="menu_image_rollover">  Pendants </a></span><ul class="mcl_menu_ul mcl_menu_ul_Silver Pendants submenu" data-uri="submenu_Silver Pendants" data-image-uri="http://images0.voylla.com/menu/silver-jewellery_silver-pendants.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_Silver Nose Pins submenu"><span class="menu_image_box menu_image_box_Silver Nose Pins"><a href="/silver/silver-nose-pins" data-uri="menu_Silver Nose Pins" class="menu_image_rollover">  Nose Pins </a></span><ul class="mcl_menu_ul mcl_menu_ul_Silver Nose Pins submenu" data-uri="submenu_Silver Nose Pins" data-image-uri="http://images0.voylla.com/menu/silver-jewellery_silver-nose-pins.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_Silver Pendant Sets submenu"><span class="menu_image_box menu_image_box_Silver Pendant Sets"><a href="/silver/silver-pendant-sets" data-uri="menu_Silver Pendant Sets" class="menu_image_rollover">  Pendant Sets </a></span><ul class="mcl_menu_ul mcl_menu_ul_Silver Pendant Sets submenu" data-uri="submenu_Silver Pendant Sets" data-image-uri="http://images0.voylla.com/menu/silver-jewellery_silver-pendant-sets.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_Silver Toe Rings submenu"><span class="menu_image_box menu_image_box_Silver Toe Rings"><a href="/silver/silver-toe-rings" data-uri="menu_Silver Toe Rings" class="menu_image_rollover">  Toe Rings </a></span><ul class="mcl_menu_ul mcl_menu_ul_Silver Toe Rings submenu" data-uri="submenu_Silver Toe Rings" data-image-uri="http://images0.voylla.com/menu/silver-jewellery_silver-toe-rings.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_Silver Anklets submenu"><span class="menu_image_box menu_image_box_Silver Anklets"><a href="/silver/silver-anklets" data-uri="menu_Silver Anklets" class="menu_image_rollover">  Anklets </a></span><ul class="mcl_menu_ul mcl_menu_ul_Silver Anklets submenu" data-uri="submenu_Silver Anklets" data-image-uri="http://images0.voylla.com/menu/silver-jewellery_silver-anklets.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_Silver Kids Bangles and Bracelets submenu"><span class="menu_image_box menu_image_box_Silver Kids Bangles and Bracelets"><a href="/silver/silver-kids-bangles-and-bracelets" data-uri="menu_Silver Kids Bangles and Bracelets" class="menu_image_rollover">  Kids Bangles and Bracelets </a></span><ul class="mcl_menu_ul mcl_menu_ul_Silver Kids Bangles and Bracelets submenu" data-uri="submenu_Silver Kids Bangles and Bracelets" data-image-uri="http://images0.voylla.com/menu/silver-jewellery_silver-kids-bangles-and-bracelets.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_Silver Kids Earrings submenu"><span class="menu_image_box menu_image_box_Silver Kids Earrings"><a href="/silver/silver-kids-earrings" data-uri="menu_Silver Kids Earrings" class="menu_image_rollover">  Kids Earrings </a></span><ul class="mcl_menu_ul mcl_menu_ul_Silver Kids Earrings submenu" data-uri="submenu_Silver Kids Earrings" data-image-uri="http://images0.voylla.com/menu/silver-jewellery_silver-kids-earrings.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_Silver Mens Chains submenu"><span class="menu_image_box menu_image_box_Silver Mens Chains"><a href="/silver/silver-mens-chains" data-uri="menu_Silver Mens Chains" class="menu_image_rollover">  Mens Chains </a></span><ul class="mcl_menu_ul mcl_menu_ul_Silver Mens Chains submenu" data-uri="submenu_Silver Mens Chains" data-image-uri="http://images0.voylla.com/menu/silver-jewellery_silver-mens-chains.jpg"></ul></li></div><div class="mcl_menu_div mcl_menu_div_Silver heading"><a href="/silver" data-uri="menu_Silver">  </a><li class="mcl_menu_li mcl_menu_li_Silver Mens Kada submenu"><span class="menu_image_box menu_image_box_Silver Mens Kada"><a href="/silver/silver-mens-kada" data-uri="menu_Silver Mens Kada" class="menu_image_rollover">  Mens Kada </a></span><ul class="mcl_menu_ul mcl_menu_ul_Silver Mens Kada submenu" data-uri="submenu_Silver Mens Kada" data-image-uri="http://images0.voylla.com/menu/silver_silver-mens-kada.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_Silver Mens Bracelets submenu"><span class="menu_image_box menu_image_box_Silver Mens Bracelets"><a href="/silver/silver-mens-bracelets" data-uri="menu_Silver Mens Bracelets" class="menu_image_rollover">  Mens Bracelets </a></span><ul class="mcl_menu_ul mcl_menu_ul_Silver Mens Bracelets submenu" data-uri="submenu_Silver Mens Bracelets" data-image-uri="http://images0.voylla.com/menu/silver_silver-mens-bracelets.jpg"></ul></li></div></ul></li>
-    <li class="rootnav"><a class="mcl_root_menu mcl_root_menu_ratnas">ratnas</a><ul class="mcl_submenu subnav"><div class="mcl_menu_div mcl_menu_div_Rashi Ratnas heading"><a href="/rashiratnas" data-uri="menu_Rashi Ratnas"> Rashi Ratnas </a><li class="mcl_menu_li mcl_menu_li_ratnas Pukhraj submenu"><span class="menu_image_box menu_image_box_ratnas Pukhraj"><a href="/ratnas/pukhraj" data-uri="menu_ratnas Pukhraj" class="menu_image_rollover">  Pukhraj </a></span><ul class="mcl_menu_ul mcl_menu_ul_ratnas Pukhraj submenu" data-uri="submenu_ratnas Pukhraj" data-image-uri="http://images0.voylla.com/menu/rashi-ratnas_ratnas-pukhraj.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_ratnas Neelam submenu"><span class="menu_image_box menu_image_box_ratnas Neelam"><a href="/ratnas/neelam" data-uri="menu_ratnas Neelam" class="menu_image_rollover">  Neelam </a></span><ul class="mcl_menu_ul mcl_menu_ul_ratnas Neelam submenu" data-uri="submenu_ratnas Neelam" data-image-uri="http://images0.voylla.com/menu/rashi-ratnas_ratnas-neelam.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_ratnas Panna submenu"><span class="menu_image_box menu_image_box_ratnas Panna"><a href="/ratnas/panna" data-uri="menu_ratnas Panna" class="menu_image_rollover">  Panna </a></span><ul class="mcl_menu_ul mcl_menu_ul_ratnas Panna submenu" data-uri="submenu_ratnas Panna" data-image-uri="http://images0.voylla.com/menu/rashi-ratnas_ratnas-panna.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_ratnas Moonga submenu"><span class="menu_image_box menu_image_box_ratnas Moonga"><a href="/ratnas/moonga" data-uri="menu_ratnas Moonga" class="menu_image_rollover">  Moonga </a></span><ul class="mcl_menu_ul mcl_menu_ul_ratnas Moonga submenu" data-uri="submenu_ratnas Moonga" data-image-uri="http://images0.voylla.com/menu/rashi-ratnas_ratnas-moonga.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_ratnas Gomed submenu"><span class="menu_image_box menu_image_box_ratnas Gomed"><a href="/ratnas/gomed" data-uri="menu_ratnas Gomed" class="menu_image_rollover">  Gomed </a></span><ul class="mcl_menu_ul mcl_menu_ul_ratnas Gomed submenu" data-uri="submenu_ratnas Gomed" data-image-uri="http://images0.voylla.com/menu/rashi-ratnas_ratnas-gomed.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_ratnas Lahsuniya submenu"><span class="menu_image_box menu_image_box_ratnas Lahsuniya"><a href="/ratnas/lahsuniya" data-uri="menu_ratnas Lahsuniya" class="menu_image_rollover">  Lahsuniya </a></span><ul class="mcl_menu_ul mcl_menu_ul_ratnas Lahsuniya submenu" data-uri="submenu_ratnas Lahsuniya" data-image-uri="http://images0.voylla.com/menu/rashi-ratnas_ratnas-lahsuniya.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_ratnas Manik submenu"><span class="menu_image_box menu_image_box_ratnas Manik"><a href="/ratnas/manik" data-uri="menu_ratnas Manik" class="menu_image_rollover">  Manik </a></span><ul class="mcl_menu_ul mcl_menu_ul_ratnas Manik submenu" data-uri="submenu_ratnas Manik" data-image-uri="http://images0.voylla.com/menu/rashi-ratnas_ratnas-manik.jpg"></ul></li></div><div class="mcl_menu_div mcl_menu_div_ratnas heading"><li class="mcl_menu_li mcl_menu_li_ratnas rightmost_image submenu"><span class="menu_image_rollover">   </span><ul class="mcl_menu_ul mcl_menu_ul_ratnas rightmost_image submenu" data-uri="submenu_ratnas rightmost_image" data-image-uri="http://images0.voylla.com/menu/ratnas_ratnas-rightmost_image.jpg"></ul></li></div></ul></li>
-    <li class="rootnav"><a class="mcl_root_menu mcl_root_menu_boutique">boutique</a><ul class="mcl_submenu subnav"><div class="mcl_menu_div mcl_menu_div_Boutique Collection heading"><a href="/boutiquejewellery" data-uri="menu_Boutique Collection"> Boutique Collection </a><li class="mcl_menu_li mcl_menu_li_boutique Bracelets submenu"><span class="menu_image_box menu_image_box_boutique Bracelets"><a href="/boutique/boutique-bracelets" data-uri="menu_boutique Bracelets" class="menu_image_rollover">  Bracelets </a></span><ul class="mcl_menu_ul mcl_menu_ul_boutique Bracelets submenu" data-uri="submenu_boutique Bracelets" data-image-uri="http://images0.voylla.com/menu/boutique-collection_boutique-bracelets.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_boutique Earrings submenu"><span class="menu_image_box menu_image_box_boutique Earrings"><a href="/boutique/boutique-earrings" data-uri="menu_boutique Earrings" class="menu_image_rollover">  Earrings </a></span><ul class="mcl_menu_ul mcl_menu_ul_boutique Earrings submenu" data-uri="submenu_boutique Earrings" data-image-uri="http://images0.voylla.com/menu/boutique-collection_boutique-earrings.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_boutique Necklaces submenu"><span class="menu_image_box menu_image_box_boutique Necklaces"><a href="/boutique/boutique-necklaces" data-uri="menu_boutique Necklaces" class="menu_image_rollover">  Necklaces </a></span><ul class="mcl_menu_ul mcl_menu_ul_boutique Necklaces submenu" data-uri="submenu_boutique Necklaces" data-image-uri="http://images0.voylla.com/menu/boutique-collection_boutique-necklaces.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_boutique Rings submenu"><span class="menu_image_box menu_image_box_boutique Rings"><a href="/boutique/boutique-rings" data-uri="menu_boutique Rings" class="menu_image_rollover">  Rings </a></span><ul class="mcl_menu_ul mcl_menu_ul_boutique Rings submenu" data-uri="submenu_boutique Rings" data-image-uri="http://images0.voylla.com/menu/boutique-collection_boutique-rings.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_boutique Pendant-Sets submenu"><span class="menu_image_box menu_image_box_boutique Pendant-Sets"><a href="/boutique/boutique-pendant-sets" data-uri="menu_boutique Pendant-Sets" class="menu_image_rollover">  Pendant-Sets </a></span><ul class="mcl_menu_ul mcl_menu_ul_boutique Pendant-Sets submenu" data-uri="submenu_boutique Pendant-Sets" data-image-uri="http://images0.voylla.com/menu/boutique-collection_boutique-pendant-sets.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_boutique Mens-Rings submenu"><span class="menu_image_box menu_image_box_boutique Mens-Rings"><a href="/boutique/boutique-mens-rings" data-uri="menu_boutique Mens-Rings" class="menu_image_rollover">  Mens-Rings </a></span><ul class="mcl_menu_ul mcl_menu_ul_boutique Mens-Rings submenu" data-uri="submenu_boutique Mens-Rings" data-image-uri="http://images0.voylla.com/menu/boutique-collection_boutique-mens-rings.jpg"></ul></li></div><div class="mcl_menu_div mcl_menu_div_boutique heading"><li class="mcl_menu_li mcl_menu_li_boutique rightmost_image submenu"><span class="menu_image_rollover">   </span><ul class="mcl_menu_ul mcl_menu_ul_boutique rightmost_image submenu" data-uri="submenu_boutique rightmost_image" data-image-uri="http://images0.voylla.com/menu/boutique_boutique-rightmost_image.jpg"></ul></li></div></ul></li>
+    
+    <li class="rootnav"><a class="mcl_root_menu mcl_root_menu_boutique">boutique</a><ul class="mcl_submenu subnav"><div class="mcl_menu_div mcl_menu_div_View by Category heading"><a href="/boutiquejewellery" data-uri="menu_View by Category"> View by Category </a><li class="mcl_menu_li mcl_menu_li_boutique Earrings submenu"><span class="menu_image_box menu_image_box_boutique Earrings"><a href="/boutique/boutique-earrings" data-uri="menu_boutique Earrings" class="menu_image_rollover">  Earrings </a></span><ul class="mcl_menu_ul mcl_menu_ul_boutique Earrings submenu" data-uri="submenu_boutique Earrings" data-image-uri="http://images0.voylla.com/menu/view-by-category_boutique-earrings.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_boutique Necklaces submenu"><span class="menu_image_box menu_image_box_boutique Necklaces"><a href="/boutique/boutique-necklaces" data-uri="menu_boutique Necklaces" class="menu_image_rollover">  Necklaces </a></span><ul class="mcl_menu_ul mcl_menu_ul_boutique Necklaces submenu" data-uri="submenu_boutique Necklaces" data-image-uri="http://images0.voylla.com/menu/view-by-category_boutique-necklaces.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_boutique Rings submenu"><span class="menu_image_box menu_image_box_boutique Rings"><a href="/boutique/boutique-rings" data-uri="menu_boutique Rings" class="menu_image_rollover">  Rings </a></span><ul class="mcl_menu_ul mcl_menu_ul_boutique Rings submenu" data-uri="submenu_boutique Rings" data-image-uri="http://images0.voylla.com/menu/view-by-category_boutique-rings.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_boutique Necklace Sets submenu"><span class="menu_image_box menu_image_box_boutique Necklace Sets"><a href="/boutique/neckalce-sets" data-uri="menu_boutique Necklace Sets" class="menu_image_rollover">  Necklace Sets </a></span><ul class="mcl_menu_ul mcl_menu_ul_boutique Necklace Sets submenu" data-uri="submenu_boutique Necklace Sets" data-image-uri="http://images0.voylla.com/menu/view-by-category_boutique-necklace-sets.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_boutique Pendant-Sets submenu"><span class="menu_image_box menu_image_box_boutique Pendant-Sets"><a href="/boutique/boutique-pendant-sets" data-uri="menu_boutique Pendant-Sets" class="menu_image_rollover">  Pendant-Sets </a></span><ul class="mcl_menu_ul mcl_menu_ul_boutique Pendant-Sets submenu" data-uri="submenu_boutique Pendant-Sets" data-image-uri="http://images0.voylla.com/menu/view-by-category_boutique-pendant-sets.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_boutique Mens-Rings submenu"><span class="menu_image_box menu_image_box_boutique Mens-Rings"><a href="/boutique/boutique-mens-rings" data-uri="menu_boutique Mens-Rings" class="menu_image_rollover">  Mens-Rings </a></span><ul class="mcl_menu_ul mcl_menu_ul_boutique Mens-Rings submenu" data-uri="submenu_boutique Mens-Rings" data-image-uri="http://images0.voylla.com/menu/view-by-category_boutique-mens-rings.jpg"></ul></li></div><div class="mcl_menu_div mcl_menu_div_View by Collection heading"><a href="/boutiquecollection" data-uri="menu_View by Collection"> View by Collection </a><li class="mcl_menu_li mcl_menu_li_boutique Bold Gold submenu"><span class="menu_image_box menu_image_box_boutique Bold Gold"><a href="/campaign/bold-gold" data-uri="menu_boutique Bold Gold" class="menu_image_rollover">  Bold Gold </a></span><ul class="mcl_menu_ul mcl_menu_ul_boutique Bold Gold submenu" data-uri="submenu_boutique Bold Gold" data-image-uri="http://images0.voylla.com/menu/view-by-collection_boutique-bold-gold.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_boutique Color Burst submenu"><span class="menu_image_box menu_image_box_boutique Color Burst"><a href="/campaign/color-burst" data-uri="menu_boutique Color Burst" class="menu_image_rollover">  Color Burst </a></span><ul class="mcl_menu_ul mcl_menu_ul_boutique Color Burst submenu" data-uri="submenu_boutique Color Burst" data-image-uri="http://images0.voylla.com/menu/view-by-collection_boutique-color-burst.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_boutique Fantasy Art submenu"><span class="menu_image_box menu_image_box_boutique Fantasy Art"><a href="/campaign/fantasy-art" data-uri="menu_boutique Fantasy Art" class="menu_image_rollover">  Fantasy Art </a></span><ul class="mcl_menu_ul mcl_menu_ul_boutique Fantasy Art submenu" data-uri="submenu_boutique Fantasy Art" data-image-uri="http://images0.voylla.com/menu/view-by-collection_boutique-fantasy-art.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_boutique Gem Palace submenu"><span class="menu_image_box menu_image_box_boutique Gem Palace"><a href="/campaign/gem-palace" data-uri="menu_boutique Gem Palace" class="menu_image_rollover">  Gem Palace </a></span><ul class="mcl_menu_ul mcl_menu_ul_boutique Gem Palace submenu" data-uri="submenu_boutique Gem Palace" data-image-uri="http://images0.voylla.com/menu/view-by-collection_boutique-gem-palace.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_boutique Tiny Treasures submenu"><span class="menu_image_box menu_image_box_boutique Tiny Treasures"><a href="/campaign/tiny_treasures" data-uri="menu_boutique Tiny Treasures" class="menu_image_rollover">  Tiny Treasures </a></span><ul class="mcl_menu_ul mcl_menu_ul_boutique Tiny Treasures submenu" data-uri="submenu_boutique Tiny Treasures" data-image-uri="http://images0.voylla.com/menu/view-by-collection_boutique-tiny-treasures.jpg"></ul></li></div></ul></li>
     <li class="rootnav"><a class="mcl_root_menu mcl_root_menu_precious">precious</a><ul class="mcl_submenu subnav"><div class="mcl_menu_div mcl_menu_div_Precious Jewellery heading"><a href="/preciousjewellery" data-uri="menu_Precious Jewellery">  Jewellery </a><li class="mcl_menu_li mcl_menu_li_Precious Nose Pins submenu"><span class="menu_image_box menu_image_box_Precious Nose Pins"><a href="/precious/precious-nose-pins" data-uri="menu_Precious Nose Pins" class="menu_image_rollover">  Nose Pins </a></span><ul class="mcl_menu_ul mcl_menu_ul_Precious Nose Pins submenu" data-uri="submenu_Precious Nose Pins" data-image-uri="http://images0.voylla.com/menu/precious-jewellery_precious-nose-pins.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_Precious Gold Earrings submenu"><span class="menu_image_box menu_image_box_Precious Gold Earrings"><a href="/precious/precious-earrings/gold" data-uri="menu_Precious Gold Earrings" class="menu_image_rollover">  Gold Earrings </a></span><ul class="mcl_menu_ul mcl_menu_ul_Precious Gold Earrings submenu" data-uri="submenu_Precious Gold Earrings" data-image-uri="http://images0.voylla.com/menu/precious-jewellery_precious-gold-earrings.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_Precious Pendants submenu"><span class="menu_image_box menu_image_box_Precious Pendants"><a href="/precious/precious-pendants" data-uri="menu_Precious Pendants" class="menu_image_rollover">  Pendants </a></span><ul class="mcl_menu_ul mcl_menu_ul_Precious Pendants submenu" data-uri="submenu_Precious Pendants" data-image-uri="http://images0.voylla.com/menu/precious-jewellery_precious-pendants.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_Precious Necklaces submenu"><span class="menu_image_box menu_image_box_Precious Necklaces"><a href="/precious/precious-necklaces" data-uri="menu_Precious Necklaces" class="menu_image_rollover">  Necklaces </a></span><ul class="mcl_menu_ul mcl_menu_ul_Precious Necklaces submenu" data-uri="submenu_Precious Necklaces" data-image-uri="http://images0.voylla.com/menu/precious-jewellery_precious-necklaces.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_Precious Rings submenu"><span class="menu_image_box menu_image_box_Precious Rings"><a href="/precious/precious-rings" data-uri="menu_Precious Rings" class="menu_image_rollover">  Rings </a></span><ul class="mcl_menu_ul mcl_menu_ul_Precious Rings submenu" data-uri="submenu_Precious Rings" data-image-uri="http://images0.voylla.com/menu/precious-jewellery_precious-rings.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_Precious Diamond Earrings submenu"><span class="menu_image_box menu_image_box_Precious Diamond Earrings"><a href="/precious/precious-earrings/diamond" data-uri="menu_Precious Diamond Earrings" class="menu_image_rollover">  Diamond Earrings </a></span><ul class="mcl_menu_ul mcl_menu_ul_Precious Diamond Earrings submenu" data-uri="submenu_Precious Diamond Earrings" data-image-uri="http://images0.voylla.com/menu/precious-jewellery_precious-diamond-earrings.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_Precious Artifacts submenu"><span class="menu_image_box menu_image_box_Precious Artifacts"><a href="/artifacts" data-uri="menu_Precious Artifacts" class="menu_image_rollover">  Artifacts </a></span><ul class="mcl_menu_ul mcl_menu_ul_Precious Artifacts submenu" data-uri="submenu_Precious Artifacts" data-image-uri="http://images0.voylla.com/menu/precious-jewellery_precious-artifacts.jpg"></ul></li><li class="mcl_menu_li mcl_menu_li_Precious Coins submenu"><span class="menu_image_box menu_image_box_Precious Coins"><a href="/coins" data-uri="menu_Precious Coins" class="menu_image_rollover">  Coins </a></span><ul class="mcl_menu_ul mcl_menu_ul_Precious Coins submenu" data-uri="submenu_Precious Coins" data-image-uri="http://images0.voylla.com/menu/precious-jewellery_precious-coins.jpg"></ul></li></div><div class="mcl_menu_div mcl_menu_div_Precious heading"><li class="mcl_menu_li mcl_menu_li_Precious rightmost_image submenu"><span class="menu_image_rollover">   </span><ul class="mcl_menu_ul mcl_menu_ul_Precious rightmost_image submenu" data-uri="submenu_Precious rightmost_image" data-image-uri="http://images0.voylla.com/menu/precious_precious-rightmost_image.jpg"></ul></li></div></ul></li>
     <li class="menu_image_rollover menu_cart" style="margin-top: -10px;">
     <div class="cart_left">
@@ -252,7 +407,7 @@ $('#search-text').on('keydown keyup change', function(){
 <script>
   $(".nav_menu").append("<div class='floating_cart'></div>");
   $("div.floating_cart").hide();
-    $(".floating_cart").empty().append("<table style=\"margin-bottom:0px;\">\n	<tr>\n		<td colspan=\"2\" style=\"padding-bottom: 0px;\"><span style=\"border: 1px solid;border-color: #ccc;padding: 5px;font-size: 20px;margin-left: 25px;float:left;margin-top:10px;\">CART: (0)<\/span><span style=\"float:right;margin-top:8px;\">Total: Rs. 0<\/td>\n	<\/tr>\n	<tr><td colspan=\'2\' style=\"padding: 0px;\"><hr style=\"display: block;margin-top: -1px;margin-bottom: 0px;\"><\/td><\/tr>\n		<tr><td colspan=\'2\'>\n		<div style=\"font-size: 20px;padding-left: 25px;\">Your Bag is empty!<\/div>\n		<\/td><\/tr>\n	<tr><td colspan=\'2\' style=\"padding: 0px;\"><hr style=\"display: block;margin-bottom: 10px;\"><\/td><\/tr>\n	<tr>\n		<td style=\"float:left;padding-left: 2.8%;margin-bottom: 10px;\"><div onclick=\'$(\"div.floating_cart\").hide();\' unselectable=\'on\' onselectstart=\'return false;\' class=\"floating_cart_iconed_button\" style=\"width:155px;\"><div style=\"float:left;\">\n<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAJCAYAAAAPU20uAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NTc5RjJEMTc2NzQ5MTFFNDlBOTI4QTVGNDU1RDE4NkEiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NTc5RjJEMTg2NzQ5MTFFNDlBOTI4QTVGNDU1RDE4NkEiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo1NzlGMkQxNTY3NDkxMUU0OUE5MjhBNUY0NTVEMTg2QSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo1NzlGMkQxNjY3NDkxMUU0OUE5MjhBNUY0NTVEMTg2QSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PlZ2qE8AAABZSURBVHjaYvj//z8DEuYG4kf/EcAVWZIDiO8gSQaAxGGS7EB8HUkyBqYRRLAC8RkkyRRka0HEdCTJM2hugptwDklRMroCbG6IRFcAwpxovvBHV4A1HAACDADpWvQiNbpoPQAAAABJRU5ErkJggg==\"/>\n\n<\/div><div style=\"float:right;\">Continue Shopping<\/div><\/div><\/td>\n		<td style=\"float:right;padding-right: 3%;\"><div onclick=\"window.location.href = \'/cart\';\" unselectable=\'on\' onselectstart=\'return false;\' class=\"floating_cart_iconed_button\" style=\"width:100px;\"><div style=\"float:left;\">View Cart<\/div><div style=\"float:right;\">\n<img style=\"padding-top: 7px;\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAARCAYAAAAsT9czAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MUNDQUE3MjE2NzQ5MTFFNEI1NTlBOTY1MUI5RkJCMzUiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MUNDQUE3MjI2NzQ5MTFFNEI1NTlBOTY1MUI5RkJCMzUiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDoxQ0NBQTcxRjY3NDkxMUU0QjU1OUE5NjUxQjlGQkIzNSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDoxQ0NBQTcyMDY3NDkxMUU0QjU1OUE5NjUxQjlGQkIzNSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PqDmB84AAAHJSURBVHjanJVLKERRGMfvjDEPj5iVaUpYsJCVLCyUhRUWahY0C0rsWZBkZ6WUhZKykGxtLNhJys5G0iiPrDyaKHklz+v/6X/yOc3MHfOv373n3/nO+zv3Oq7rNoMUGAc+MEjfCPxgHeyDMIiAA7AGikArY/uB44U8tPpU+QQMKb8AlpSXyT0rH2SntWAXnIFj9iOT7ZLKCQbvgRKwQp8EZaoz6aRa+SgYZnmDA/ncHPL9LM9xKsC986sQeGXZB8LghT7A94fypjwGZlneBLegiG3n7X2dJmaWy2CAPkbfQJ8Ac6CcPqIWsZntzAydKngGTCmf5L4bJawdkvaLypd6DRZTwZKhTcrHwSjLkn1VIE3fw/MzmsyVjZook8T4INPf+JAVb/yWGsyfbbCA81d3PNB2vs/5rgOPIA3KQRW4Bk+gF3SwfTf4crLIZKORdPTgFCaZSCxXgN/D/0ctXgH2ykRxUA9ueIdqeM+0PsEleAaV3O6rQgYzKgVv4D1H+2KPes9tky/GFg//TR2+liSIy/oUCOY1WoYUbc7wWbNjtq36kXy++plWdmH5owwxh5Y/LXRlQhvYAavWJTcU83cjv4+xfFYlfAswAK3jZAQDuRg+AAAAAElFTkSuQmCC\"/>\n\n<\/div><\/div><\/td>\n		\n	<\/tr>\n<\/table>\n<script>\nfunction isNumberKey(evt){\n    var charCode = (evt.which) ? evt.which : event.keyCode\n    if (charCode > 31 && (charCode < 48 || charCode > 57))\n        return false;\n    return true;\n}    \n<\/script>\n<script>\n$(document).ready(function(){\n    $(\'form#update-floating-cart a.delete_button\').show().live(\'click\', function(e){\n      $(this).closest(\'td\').find(\'input.line_item_quantity\').val(0);\n      $(this).closest(\'td\').find(\'div.deleting_from_cart\').css(\'display\',\'inline-block\');\n      e.preventDefault();\n      $.ajax({\n        url: \'/cart\',\n        type: \'put\',\n        data: $(this).parents(\'form\').serialize(),\n        success: function(data){\n        	$.ajax({\n	          type: \"GET\",\n	          url: \"/refresh_floating_cart\",\n	          dataType: \"script\"\n	        });\n        }\n      });\n    });\n\n    $(\'form#update-floating-cart a.edit_button\').show().live(\'click\', function(e){\n      $(this).closest(\'td\').find(\'.line_item_unedit\').css(\'display\',\'none\');\n      $(this).closest(\'td\').find(\'input.line_item_quantity\').css(\'display\',\'inline-block\');\n      $(this).closest(\'td\').find(\'#update-qty-button\').css(\'display\',\'inline-block\');\n    });\n\n    $(\'form#update-floating-cart #update-qty-button\').live(\'click\', function(e){\n      e.preventDefault();\n      $.ajax({\n        url: \'/cart\',\n        type: \'put\',\n        data: $(this).parents(\'form\').serialize(),\n        success: function(data){\n        	$.ajax({\n	          type: \"GET\",\n	          url: \"/refresh_floating_cart\",\n	          dataType: \"script\"\n	        });\n        }\n      });\n    });\n  });\n<\/script>\n<script>\nfunction removing_item(product_sku,product_name,product_quantity,productprice){\nconsole.log(product_sku);\nconsole.log(product_name);\nconsole.log(product_quantity);\nconsole.log(productprice);\nif(typeof google_analytics != \"undefined\"){\n                google_analytics(\'ec:addProduct\', {            // Provide product details in an impressionFieldObject.\n                  \'id\': \'product_sku\',\n                  \'name\': \'product_name\',             \n                  \'quantity\': \'product_quantity\',\n                  \'price\': \'productprice\'\n                });\n                google_analytics(\'ec:setAction\', \'remove\');\n                google_analytics(\'send\', \'event\', \'UX\', \'click\', \'add to cart\'); \n                google_analytics(\'send\', \'pageview\');\n              }\n}\n<\/script>");
+    $(".floating_cart").empty().append("<table style=\"margin-bottom:0px;\">\n	<tr>\n		<td colspan=\"2\" style=\"padding-bottom: 0px;\"><span style=\"border: 1px solid;border-color: #ccc;padding: 5px;font-size: 20px;margin-left: 25px;float:left;margin-top:10px;\">CART: (0)<\/span><span style=\"float:right;margin-top:8px;\">Total: Rs. 0<\/td>\n	<\/tr>\n	<tr><td colspan=\'2\' style=\"padding: 0px;\"><hr style=\"display: block;margin-top: -1px;margin-bottom: 0px;\"><\/td><\/tr>\n		<tr><td colspan=\'2\'>\n		<div style=\"font-size: 20px;padding-left: 25px;\">Your Bag is empty!<\/div>\n		<\/td><\/tr>\n	<tr><td colspan=\'2\' style=\"padding: 0px;\"><hr style=\"display: block;margin-bottom: 10px;\"><\/td><\/tr>\n	<tr>\n		<td style=\"float:left;padding-left: 2.8%;margin-bottom: 10px;\"><div onclick=\'$(\"div.floating_cart\").hide();\' unselectable=\'on\' onselectstart=\'return false;\' class=\"floating_cart_iconed_button\" style=\"width:155px;\"><div style=\"float:left;\">\n<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAJCAYAAAAPU20uAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NTc5RjJEMTc2NzQ5MTFFNDlBOTI4QTVGNDU1RDE4NkEiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NTc5RjJEMTg2NzQ5MTFFNDlBOTI4QTVGNDU1RDE4NkEiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo1NzlGMkQxNTY3NDkxMUU0OUE5MjhBNUY0NTVEMTg2QSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo1NzlGMkQxNjY3NDkxMUU0OUE5MjhBNUY0NTVEMTg2QSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PlZ2qE8AAABZSURBVHjaYvj//z8DEuYG4kf/EcAVWZIDiO8gSQaAxGGS7EB8HUkyBqYRRLAC8RkkyRRka0HEdCTJM2hugptwDklRMroCbG6IRFcAwpxovvBHV4A1HAACDADpWvQiNbpoPQAAAABJRU5ErkJggg==\"/>\n\n<\/div><div style=\"float:right;\">Continue Shopping<\/div><\/div><\/td>\n		<td style=\"float:right;padding-right: 3%;\"><div onclick=\"window.location.href = \'/cart\';\" unselectable=\'on\' onselectstart=\'return false;\' class=\"floating_cart_iconed_button\" style=\"width:100px;\"><div style=\"float:left;\">View Cart<\/div><div style=\"float:right;\">\n<img style=\"padding-top: 7px;\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAARCAYAAAAsT9czAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MUNDQUE3MjE2NzQ5MTFFNEI1NTlBOTY1MUI5RkJCMzUiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MUNDQUE3MjI2NzQ5MTFFNEI1NTlBOTY1MUI5RkJCMzUiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDoxQ0NBQTcxRjY3NDkxMUU0QjU1OUE5NjUxQjlGQkIzNSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDoxQ0NBQTcyMDY3NDkxMUU0QjU1OUE5NjUxQjlGQkIzNSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PqDmB84AAAHJSURBVHjanJVLKERRGMfvjDEPj5iVaUpYsJCVLCyUhRUWahY0C0rsWZBkZ6WUhZKykGxtLNhJys5G0iiPrDyaKHklz+v/6X/yOc3MHfOv373n3/nO+zv3Oq7rNoMUGAc+MEjfCPxgHeyDMIiAA7AGikArY/uB44U8tPpU+QQMKb8AlpSXyT0rH2SntWAXnIFj9iOT7ZLKCQbvgRKwQp8EZaoz6aRa+SgYZnmDA/ncHPL9LM9xKsC986sQeGXZB8LghT7A94fypjwGZlneBLegiG3n7X2dJmaWy2CAPkbfQJ8Ac6CcPqIWsZntzAydKngGTCmf5L4bJawdkvaLypd6DRZTwZKhTcrHwSjLkn1VIE3fw/MzmsyVjZook8T4INPf+JAVb/yWGsyfbbCA81d3PNB2vs/5rgOPIA3KQRW4Bk+gF3SwfTf4crLIZKORdPTgFCaZSCxXgN/D/0ctXgH2ykRxUA9ueIdqeM+0PsEleAaV3O6rQgYzKgVv4D1H+2KPes9tky/GFg//TR2+liSIy/oUCOY1WoYUbc7wWbNjtq36kXy++plWdmH5owwxh5Y/LXRlQhvYAavWJTcU83cjv4+xfFYlfAswAK3jZAQDuRg+AAAAAElFTkSuQmCC\"/>\n\n<\/div><\/div><\/td>\n		\n	<\/tr>\n<\/table>\n<script>\nfunction isNumberKey(evt){\n    var charCode = (evt.which) ? evt.which : event.keyCode\n    if (charCode > 31 && (charCode < 48 || charCode > 57))\n        return false;\n    return true;\n}    \n<\/script>\n<script>\n$(document).ready(function(){\n    $(\'form#update-floating-cart a.delete_button\').show().live(\'click\', function(e){\n      $(this).closest(\'td\').find(\'input.line_item_quantity\').val(0);\n      $(this).closest(\'td\').find(\'div.deleting_from_cart\').css(\'display\',\'inline-block\');\n      e.preventDefault();\n      $.ajax({\n        url: \'/cart\',\n        type: \'put\',\n        data: $(this).parents(\'form\').serialize(),\n        success: function(data){\n        	$.ajax({\n	          type: \"GET\",\n	          url: \"/refresh_floating_cart\",\n	          dataType: \"script\"\n	        });\n        }\n      });\n    });\n\n    $(\'form#update-floating-cart a.edit_button\').show().live(\'click\', function(e){\n      $(this).closest(\'td\').find(\'.line_item_unedit\').css(\'display\',\'none\');\n      $(this).closest(\'td\').find(\'input.line_item_quantity\').css(\'display\',\'inline-block\');\n      $(this).closest(\'td\').find(\'#update-qty-button\').css(\'display\',\'inline-block\');\n    });\n\n    $(\'form#update-floating-cart #update-qty-button\').live(\'click\', function(e){\n      e.preventDefault();\n      $.ajax({\n        url: \'/cart\',\n        type: \'put\',\n        data: $(this).parents(\'form\').serialize(),\n        success: function(data){\n        	$.ajax({\n	          type: \"GET\",\n	          url: \"/refresh_floating_cart\",\n	          dataType: \"script\"\n	        });\n        }\n      });\n    });\n  });\n<\/script>\n<script>\nfunction removing_item(product_sku,product_name,product_quantity,productprice){\nconsole.log(product_sku);\nconsole.log(product_name);\nconsole.log(product_quantity);\nconsole.log(productprice);\nif(typeof ga != \"undefined\"){\n                ga(\'ec:addProduct\', {            // Provide product details in an impressionFieldObject.\n                  \'id\': \'product_sku\',\n                  \'name\': \'product_name\',             \n                  \'quantity\': \'product_quantity\',\n                  \'price\': \'productprice\'\n                });\n                ga(\'ec:setAction\', \'remove\');\n                ga(\'send\', \'event\', \'UX\', \'click\', \'add to cart\'); \n                ga(\'send\', \'pageview\');\n              }\n}\n<\/script>");
     var render_floating_cart_through_ajax = true;
   $("document").ready(function(){
     $(".cart_left").hover(
@@ -431,7 +586,31 @@ $(".mcl_submenu").mouseenter(function(){
 });
 
 </script>
-
+<script>
+  $(".mcl_menu_div_category,.Category").wrapAll("<div class='boutique_category' style='display:block;width:100%;padding-left:50px;'></div>");
+  $(".mcl_menu_div_collection,.Collection").wrapAll("<div class='boutique_collection' style='margin-top:0px;'></div>");
+  $(".Category,.Collection").css({'margin-top':'45px','float':'left'});
+  $(".mcl_menu_div_category,.mcl_menu_div_collection").css({'width':'24%','float':'right'});
+  $('.mcl_menu_div_category,.mcl_menu_div_collection').find('a').remove();
+  $(".boutique_collection").css({'margin-left':'0px','background':'#fff'});
+  $(".menu_image_box_boutique").find('a').css("padding","2px 5px");
+</script>
+<script>
+  $(".boutique_collection,.boutique_category").wrapAll("<div class='Boutique_out_div' ></div>");
+  $(".Boutique_out_div").css({'display': '-webkit-inline-flex',
+'display': '-ms-inline-flexbox',
+'display': 'inline-flex'});
+</script>
+        <div class="voylla-deal-share"> <!-- This will appear at right edge of screen -->
+          <a href="/#deal"><img src="http://images.voylla.com/homepage/deal_icon.png"></a>
+        </div>
+          <script>
+           $("a[href='#deal']").click(function() 
+            {
+            $('html, body').animate({scrollTop:$("div#deal").offset().top}, 'slow');
+             return false;
+            });   
+          </script>
 
     <div id="wrapper" data-hook="">
     <div id="content" data-hook="">
@@ -528,6 +707,184 @@ ecomm_totalvalue: '',
 	<div class="reviews_slider_outer">
 	<div id="reviews_slider">
 		<ul class="reviews_list">
+				<li>
+					I have received my parcel.Thank you, for such a lovely wrap. I like the
+product very much, upto my expectations.
+					<br>
+					<div class="review_by">
+						- Chimpi Sarmah
+					</div>
+				</li>
+				<li>
+					I like the product 317234 as it is very good in quality and unique in design. 
+					<br>
+					<div class="review_by">
+						- Thota Raju
+					</div>
+				</li>
+				<li>
+					Hi thanks for sending good product am out of station but my family like the product very and hope ull get more orders from my side I had referred ur app for all my family and friends. 
+Thank you
+					<br>
+					<div class="review_by">
+						- Mohammed Azam
+					</div>
+				</li>
+				<li>
+					I am very happy with the service as well as the product..... hence I have repeated the purchase this year too from Voylla...
+					<br>
+					<div class="review_by">
+						- Veera Ghosh
+					</div>
+				</li>
+				<li>
+					Your product is awesome really I was admired, beyond my expectation,thank you 😊 
+					<br>
+					<div class="review_by">
+						- MURALA VENKATESH
+					</div>
+				</li>
+				<li>
+					I, Manasi  Desai is first time customer of Voylla. I have ordered two earring pairs from Voylla.com. My order number is R731825758 and order date is 16-Oct-15. I am satisfied with timely delivery and what I received was in a good condition in neatly packed black box. I am very much thankful for the same.
+					<br>
+					<div class="review_by">
+						- Manasi Desai
+					</div>
+				</li>
+				<li>
+					I bought bracelet from your Voylla.com. I got it within 5 days and your service &amp; Product quality are really fantastic.awesome. I enjoyed lot. Keep it up.
+					<br>
+					<div class="review_by">
+						- Michael Raj S
+					</div>
+				</li>
+				<li>
+					Awesome experience shopping with u
+					<br>
+					<div class="review_by">
+						- Dharamveer Singh Sengar
+					</div>
+				</li>
+				<li>
+					Dear Voylla, Received the parcel this afternoon.  Thank you for the replacement.
+					<br>
+					<div class="review_by">
+						- Leelavathi
+					</div>
+				</li>
+				<li>
+					I got my jewellery yesterday. Lovely it was. Thanks for that lovely earrings.
+					<br>
+					<div class="review_by">
+						- Usha
+					</div>
+				</li>
+				<li>
+					This is a special note to thank Voylla, as you delivered me the product in time &amp; I could carry the mangalautra with me while leaving India... Thank you soooooooooo soooooo soooooo much...
+					<br>
+					<div class="review_by">
+						- Pooja C Janawad
+					</div>
+				</li>
+				<li>
+					Thank you so much for your priceless customer service :)
+					<br>
+					<div class="review_by">
+						- Tilak Singh Panwar
+					</div>
+				</li>
+				<li>
+					Dear Voylla, Am very pleased by your seamless service..The products are up to the mark as well.Thank you.Keep up the good work!! N I have already placed my 2nd order with you..Looking forward to increasing the number!! :) :)
+					<br>
+					<div class="review_by">
+						- Deepali Bhatia
+					</div>
+				</li>
+				<li>
+					Dear Team, thank you so much, today I have received a new piece of my order.
+					<br>
+					<div class="review_by">
+						- Priya Trivedi
+					</div>
+				</li>
+				<li>
+					I just received the mangalsutra!! It's really good !! And I just want to thank you guys for being so patience and you guys are awesome at the customer service.
+Totally going to order more. Cheers. Thanks a ton
+					<br>
+					<div class="review_by">
+						- Manisha Shetty
+					</div>
+				</li>
+				<li>
+					Thanks. I received my product, It's beautiful.
+					<br>
+					<div class="review_by">
+						- Patel Neha
+					</div>
+				</li>
+				<li>
+					Received the order! Thank you! Loved the products :)
+					<br>
+					<div class="review_by">
+						- Rashi
+					</div>
+				</li>
+				<li>
+					Just wanted to say that the package arrived today and thank you. Everything looks perfect.
+					<br>
+					<div class="review_by">
+						- Sudha Ramakrishnan
+					</div>
+				</li>
+				<li>
+					All products are super and good time deliver. Thanks Voylla.com
+					<br>
+					<div class="review_by">
+						- Renu Chauarasia
+					</div>
+				</li>
+				<li>
+					This is regarding a big appreciation to VOYLLA TEAM. I have rev'd my courier today and  I love the way you packed  the product. Would like to say also that Jhumkis are very beautiful and well suited to me as well:).Will soon give you chance to serve again.Your Happy customer:)
+					<br>
+					<div class="review_by">
+						- Sneha Kalia
+					</div>
+				</li>
+				<li>
+					Yesterday evening I had collected which I was ordered through  your voylla.com, all items are very nice and so pretty. Definitely I will refer my friends circulation also.
+					<br>
+					<div class="review_by">
+						- S.Selvi
+					</div>
+				</li>
+				<li>
+					Dear Team, Good day. I want to share my happiness with you. really I am satisfied my shopping with you. Since nice collection, good communication and also very good customer service provided on online. Really great full and thanks to your team members.
+					<br>
+					<div class="review_by">
+						- K.Ponraj
+					</div>
+				</li>
+				<li>
+					I receive my order thanks for it... its really very Nice. Thank you for delivery on time...!!!!!!
+					<br>
+					<div class="review_by">
+						- N.Gokula Krishnan
+					</div>
+				</li>
+				<li>
+					Yesterday evening we have received the order. It's very nice materials.and very good packed.. We like it. Thanks a lot for immediate replacement.
+					<br>
+					<div class="review_by">
+						- Vanadevi Devi
+					</div>
+				</li>
+				<li>
+					Many thanks, I received the product. Thanks for the excellent service, I will recommend you into my circles.
+					<br>
+					<div class="review_by">
+						- Anil Nair
+					</div>
+				</li>
 				<li>
 					For Superb service and Response, I m happy to recommend your site,also product quality is very Good. I want to buy again and again products.
 					<br>
@@ -708,182 +1065,6 @@ I appreciate your customer assistance and your easy replacement :)
 						- Ashmitha
 					</div>
 				</li>
-				<li>
-					Loved all the toe rings, they are prettier than in the pictures. It's hard to get such good designs and the buy 1 and get 1 free was a great offer! I had also bought a mangalsutra set it is great.But overall,lovely service, great products!Keep the good work going.
-					<br>
-					<div class="review_by">
-						- Ashmitha
-					</div>
-				</li>
-				<li>
-					I have got the packet and the Mangalsutras are just awesome. Thanks a lot!
-					<br>
-					<div class="review_by">
-						- Lakshmi Menon
-					</div>
-				</li>
-				<li>
-					To day we received the product in good condition. Product is virtually same as shown in picture. I am very satisfied with the product. I am also impressed by your international delivery system. Thank you for listing good product and fast shipment.
-					<br>
-					<div class="review_by">
-						- Swethaveeresha
-					</div>
-				</li>
-				<li>
-					Thanks so much for the prompt shipping - I received the order today. Love the jewelry!
-					<br>
-					<div class="review_by">
-						- Sumithra
-					</div>
-				</li>
-				<li>
-					Hi,I bought 2 Mangalsutra Sets from your site and everybody appreciated these mangalsutra sets, they were worth the price.
-Thanks Neena
-					<br>
-					<div class="review_by">
-						- NEENA
-					</div>
-				</li>
-				<li>
-					I WOULD LOVE TO WEAR THESE RADHA KRISHNA EARRINGS.“LOVELY CREATION"
-					<br>
-					<div class="review_by">
-						- BHAMA VARADARAJAN 
-					</div>
-				</li>
-				<li>
-					The item is fantastic... my wife is very happy with the product quality... I will surely recommend Voylla to all my near and dear ones... I salute the customer care team, they are very caring. One more thing I want to mention is that ''The packing of the product is mind-blowing... it looks elegant." Thank You.
-					<br>
-					<div class="review_by">
-						- Rituraj Kakoti
-					</div>
-				</li>
-				<li>
-					"I got my order of mangalsutras and it's just awesome"
-					<br>
-					<div class="review_by">
-						- SARBANI NAHA
-					</div>
-				</li>
-				<li>
-					"Hey all earrings are looking awesome"-
-					<br>
-					<div class="review_by">
-						- Priyadarshini Dixit from odisha
-					</div>
-				</li>
-				<li>
-					"Just now i received the products(mangalsutra sets),they are so beautiful,i'm so happy about these products,thanks to Voylla for providing good products to the customers"....
-					<br>
-					<div class="review_by">
-						- Sathwika 
-					</div>
-				</li>
-				<li>
-					"Voylla products are really good and I like it. My shipment was delivered on time. Good Service and will shop more. "
-					<br>
-					<div class="review_by">
-						- Reena Nag
-					</div>
-				</li>
-				<li>
-					Thanks alot... The product (bangles) that i ordered as superb.. I have no words. I am just loving it.
-					<br>
-					<div class="review_by">
-						- Farzana
-					</div>
-				</li>
-				<li>
-					Thanks! My product is been received. Happy with your care you put forward. Thank you.
-					<br>
-					<div class="review_by">
-						- Sindhuja
-					</div>
-				</li>
-				<li>
-					Thank you as I received the order in time. Would love to shop more as I can trust the site now as earlier I was not aware of it. Keep some more interesting and  stuff.
-					<br>
-					<div class="review_by">
-						- Aditi
-					</div>
-				</li>
-				<li>
-					I received the product today.  Thanx a lot.  Would like to congratulate you on your venture and say that your stuff is both classy and truly affordable!
-					<br>
-					<div class="review_by">
-						- Kavita
-					</div>
-				</li>
-				<li>
-					I would like to thanks the VOYLLA staff for updating the correct size, prompt action in executing the order. I have received the said order, the material quality is very charming and appreciable. In this era where Precious metals are out of reach you are providing the goods which looks more precious than the real one.
-					<br>
-					<div class="review_by">
-						- Dr.Akrishna
-					</div>
-				</li>
-				<li>
-					Thank you very much for your prompt reply.
-					<br>
-					<div class="review_by">
-						- Hema
-					</div>
-				</li>
-				<li>
-					I am very much impressed with the services you give, best customer support and and last but not the least bestest products.
-					<br>
-					<div class="review_by">
-						- Aakriti
-					</div>
-				</li>
-				<li>
-					This is to inform you that I have received the product today at 3.00 pm and the product is very attractive. Thank you so much for the prompt service and also for the product.
-					<br>
-					<div class="review_by">
-						- Sailaja
-					</div>
-				</li>
-				<li>
-					My name is Zakiya kousar, I had ordered for mangalsutra  21st September, 2013 back. I am really happy and satisfied by the product I got.I am really looking forward to shop more in near future.
-					<br>
-					<div class="review_by">
-						- Zakiya
-					</div>
-				</li>
-				<li>
-					Just receive both parcels. ....earrings are too cute. .....Thank you. ....
-					<br>
-					<div class="review_by">
-						- Gita
-					</div>
-				</li>
-				<li>
-					I have received this shipment today. The sets are beautiful.
-					<br>
-					<div class="review_by">
-						- Divya
-					</div>
-				</li>
-				<li>
-					Thanks.Your team is quite customer-satisfaction-oriented. Well, recently I came to know about service standards delivered by Voylla, I was very happy about the quality of product and packaging offered by you. Overall you are ten on ten. Keep the standard. Thanks, again!
-					<br>
-					<div class="review_by">
-						- Prateek
-					</div>
-				</li>
-				<li>
-					This is Vaishali from Chhindwara, I got my order that is soooo beautiful above my expectation. thanks so much.
-					<br>
-					<div class="review_by">
-						- Mrs. Vaishali
-					</div>
-				</li>
-				<li>
-					I have just received the products and wanted you to know that the product as well as packaging were far better my expectation. The delivery time was great too. Overall shopping experience - EXCELLENT I will recommend the website to my other friends as well
-					<br>
-					<div class="review_by">
-						- Sneha
-					</div>
-				</li>
 		</ul>
 	</div>	
 	</div>
@@ -935,13 +1116,14 @@ Thanks Neena
 	});
 </script>
 
-    
-    <script type="text/javascript">var showButton = true;</script>
-    <script type="text/javascript">var apiKey = "6ba3af5d7b2790e73f0de32e5c8c1798";</script>
-    <script type="text/javascript" src="//rfer.co/api/v1/js/all.js"></script>
-
 
     
+<script>
+    var pattern = /(\/cart)|(\/checkout)|(\/orders\/populate)|(\/products)/;
+    if(!(pattern.test(window.location.href))){
+        setCookie("PT",window.location.href,730);
+    }
+</script>
 <div class="top_footer">
 <div id="footer" data-hook="" class="footer">
       <div class="footer_voylla_links">
@@ -964,6 +1146,7 @@ Thanks Neena
                 <li><a href="/media" rel="nofollow">In The Media</a></li>
                 <li><a rel="nofollow" target="_blank" href="http://blog.voylla.com/stylista">Partner With Us</a></li>
                 <li><a rel="nofollow" target="_blank" href="http://blog.voylla.com/">V-STYLE - Blog</a></li>
+                <li><a rel="nofollow" target="_blank" href="/unsubscribe">Unsubscribe</a></li>
             </ul>
         </div>
         <div id="footerCentre" class="footerSection">
@@ -1048,26 +1231,9 @@ window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https
 olark.identify('2789-840-10-5220');/*]]>{/literal}*/</script><!-- end olark code -->
 
    
-      <script type="text/javascript">
-        /* adroll stuff */
-        adroll_adv_id = "UHK7LPILABFSPA67JIN6NA";
-        adroll_pix_id = "Y5UO6RXLUNC3LPCQPA5QUS";
-        (function () {
-        var oldonload = window.onload;
-        window.onload = function(){
-           __adroll_loaded=true;
-           var scr = document.createElement("script");
-           var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-           scr.setAttribute('async', 'true');
-           scr.type = "text/javascript";
-           scr.src = host + "/j/roundtrip.js";
-           ((document.getElementsByTagName('head') || [null])[0] ||
-            document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-           if(oldonload){oldonload()}};
-        }());
 
-      </script>
     
+      <img src="https://sp.analytics.yahoo.com/spp.pl?a=10001920012101&amp;.yp=428728">
 
     <!-- Google Remarketing tag snippet -->
     <script type="text/javascript">
