@@ -1,104 +1,288 @@
-> *The following text is extracted and transformed from the hibu.co.uk privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505020522id_/https%3A//business.yell.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hibu.co.uk privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201052941id_/http%3A//marketing.hibu.co.uk/legal/privacy-policy-for-advertisers) for the most accurate reproduction.*
 
-# Privacy
+# Privacy policy for advertisers » hibu business
 
-Print [Download](https://web.archive.org/~/media/files/shared/footer/hibu_globalprivacypolicy.pdf "download")
+In this privacy policy, we will refer to hibu (UK) Limited using the terms ‘hibu’, ‘us’, ‘we’ and ‘our’. If we use the term ‘hibu group’ (“Our Group”), this means us and our subsidiaries, and our ultimate holding company and its subsidiaries, as defined in section 1159 of the Companies Act 2006. Yell Business Account (“Yell Business”) means our website for customers which can be accessed via the log-in function at [business.yell.com](http://business.yell.com/). Yell SiteAnalyser means our web based tool for analysing third parties use of your website which can be found at <http://siteanalyser.yellgroup.com/auth>.
 
-This global privacy policy (the **"Privacy Policy"** ) describes our practices in connection with the personal data that you provide to any company in our Group (a **"Group Company"** ) or allow a Group Company to access through: (i) a website which is operated (as indicated in its conditions of use) by a Group Company (the **"Website"** ); and/or (ii) any other means, such as during a telephone call or by email - which includes whilst contracting with us for, or using, our goods and/or services, etc (the **"Personal Data"** ). An updated list of our Group Companies is available [here](http://corporate.hibu.com/en/about-us/trading-entities).
+We are committed to protecting and respecting your privacy. This privacy policy is about the way we use the personal information of our advertisers. If you advertise with us, this privacy policy applies to you. The policy explains:
 
-Our products and service may have particular privacy terms and conditions attaching to them, which will prevail in the event of any discrepancy with this Privacy Policy (the **"Particular Privacy Terms"** ). Any Particular Privacy Terms applicable to a product or service you wish to purchase or use will be highlighted to you at the time you request such product or service.
-
-The third parties' websites you access through the Website fall outside of our control and are not covered by this Privacy Policy but governed by the privacy policies of these third parties' websites that are neither reviewed nor endorsed by us.
-
-  1. ## Updates to this Privacy Policy
-
-We may change this Privacy Policy. If we decide to change our privacy policy, we will post those changes on this page. Please take a look at the "Last updated" legend at the bottom of this page to see when this Privacy Policy was last revised. The processing of your Personal Data will be governed by the Privacy Policy in force at the time your Personal Data are collected unless otherwise agreed by you or allowed under applicable law. 
-
-  2. ## What categories of Personal Data are collected?
-
-When you register with us, we will collect Personal Data such as your name, street address, email address, telephone number. If you contract to purchase goods or services from us or through this Website, we will collect Personal Data such as payment information, including credit card data. In addition, we collect certain information through cookies and similar electronic devices, as further described in the  Cookies  section below. We will ask for your consent if we wish to use your data for a purpose materially different than that for which it was collected.
-
-  3. ## Who determines which Personal Data are collected, how and for which purposes (the data controller)?
-
-The data controller ( **"us", "we",** and **"our"** ) will be:
-
-    * For products or services contracted offline: the Group Company that contracts with you, as identified in the terms and conditions applicable to the purchase or use of the relevant product or service. 
-    * For products and services contracted online: 
-      1. in all events, the Group Company that operates the relevant Website, as identified in its conditions of use; and 
-      2. if you are interested in a specific online product or service (other than mere browsing), the Group Company that contracts with you, as identified in the relevant terms and conditions applicable to the purchase or use of the relevant product or service.
-
-All terms and conditions of our products and service (unless expressly provided for therein), including this Privacy Policy, may be assigned to any third party.
-
-Note: The Group companies include, among others, the US company hibu Inc. hibu Inc. in the US complies with the US-EU Safe Harbor Framework and has certified that it adheres to EU/U.S. Safe Harbor Principles (notice, choice, onward transfer, security, data integrity, access and enforcement) with respect to Personal Data transferred from the European Union by Yellowbook Inc.'s clients, customers and affiliates. More information about the Safe Harbor program can be found at <http://export.gov/safeharbor>
-
-  4. ## How is your Personal Data collected?
-
-    * Directly from you, when you are interacting with a Group Company, _for example information you give us as requested by phone, email or detailed in the forms you may be asked to complete and also information we collect from your use of our products and services such as online searches you conduct or your interaction with adverts that we place on websites or other media._
-    * Directly from third parties: if allowed by law, for example, if you are in the process of contracting for a product or service for which we need to evaluate your financial solvency (e.g., contracts that entail a deferred payment of the price or the provision of a service involving periodic billing), we may check your credit rating or credit score by consulting financial solvency files held by third parties, we may also be passed your data by third parties for one of the purposes specified below. If you reside in the United States, please review the following: [A Summary of Your Rights Under the Fair Credit and Reporting Act.](http://www.consumer.ftc.gov/articles/pdf-0096-fair-credit-reporting-act.pdf)
-  5. ## Which Personal Data and for which purposes are they used by us?
-
-We collect Personal Data (as detailed in the forms you will be asked to complete) as required to perform the following purposes:
-
-    1. **To evaluate an application regarding the contracting of our products or services.** For example, depending on the product or service, this may include verifying whether you are eligible to enter into a competition or to check your credit rating or credit score in credit and solvency files managed by third parties, etc.
-
-    2. **To provide you with a product or service you have requested.** For example, to answer your questions or respond to comments submitted to us; to send you information you have requested; to perform and enforce the terms and conditions that govern the product or service (which may include, depending on the product or service, the recording of calls between us and you to evidence the rendering of the product or service or the identification of activities that are prohibited under the terms and conditions that govern the product or service, for accounting, billing and payment verification purposes, to collect debts, to serve notice of unpaid, due and enforceable debts to solvency files which payment has been requested from you); to award a prize if you are the winner of a competition, to post content you have submitted for publication, such as ratings and reviews; to share your Personal Data with payment processing organizations, etc.
-
-If the product or service rendered by us requires us to access or otherwise process on your behalf (e.g, developing, testing, hosting and providing maintenance services for your website) personal data controlled by you (e.g. via your online store or advertising website that we create for you), please refer to its **Particular Privacy Terms** regarding your and our specific responsibilities.
-
-    3. **To comply with our legal obligations or defend our interests in judicial or administrative proceedings.** For example, this includes responding to the requests of governmental and judicial orders of any competent jurisdiction or sharing the Personal Data with other enforcement agencies regarding any mandatory requirement.
-
-    4. **To carry out any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock.** For example, this includes a sale of our assets such as our databases, in connection with a bankruptcy proceeding or an intra-group corporate or business reorganization. 
-
-    5. **To analyse how our products and service are used by our customers and to improve our business.** For example, this includes the analysis of statistical information on the use of our websites by visitors as well as of any feedback on our business or testimonials that you may provide. We may (but we are not obliged to) publish any feedback or testimonials (online or offline) and your name in order to promote our business (your user ID may be published, but your e-mail address and other contact details will not be). 
-
-    6. **To honour your preferences on direct marketing and for advert targeting purposes.** We (or other third parties, including our affiliates) may send you direct marketing communications in accordance with applicable privacy laws, which may or may not be personalised for you (i.e., tailored to your profile), by any means (e.g., post, phone call, email, text message or other electronic means) and carry out advert targeting. For example, whenever you provide us with any Personal Data (e.g., when you ask for our products or services), we will ask you for your preferences in this respect and provide you with information on the kind of direct marketing available and on whether third party data controllers may send you such direct marketing or carry out the advert targeting. We will not share any Personal Data with affiliates or other third parties for these purposes without meeting the requirements of privacy laws. To discontinue direct marketing or advert targeting, you may send a request as explained in section 9. Furthermore, and regarding direct marketing by electronic means, we will inform you in each of our communications how to unsubscribe in a straightforward way and at no cost (save that related to transmission of your request). We will answer your request as soon as reasonably practicable, and in any case, within the term legally determined (if there is one). 
-
-Please note that if you do opt-out of receiving marketing-related messages from us, we will still send messages as necessary to fulfill other purposes (such as administrative messages relating to the operation of the product or service).
-
-  6. ## Which Personal Data and for which purposes are they shared with third parties?
-
-Personal Data may be used or shared with third parties (including Group Companies) if:
-
-    1. it is necessary for the following purposes mentioned in section 5 above: (1) to evaluate an application regarding the contracting of our products or services, (2) to provide you with a product or service you have requested, (3) to comply with our legal obligations or defend our interests in judicial or administrative proceedings; (4) to carry out any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock; **and** (5) to analyse how our products or services are used by our customers and to improve our business;
-    2. it is necessary (6) to honour your preferences on direct marketing and for advert targeting purposes (mentioned in section 5 above), i.e., if you have agreed to receiving marketing and targeted adverts from us and/or certain third parties; or 
-    3. these third parties are service providers and work on our behalf to support us in performing any of the abovementioned purposes (e.g., cloud services providers that provide IT infrastructure used by us to provide you with a product or service).
-
-The third party recipients under (i), (ii) or (iii) may be located world-wide, including outside of the European Economic Area (EEA) (such as the US) these countries may provide personal data protection standards that are not necessarily equivalent to those applicable in the EEA (in which case, specific safeguards are adopted by us for Personal Data originating in the EEA, such as ensuring the third party complies with the Safe Harbor Principles, is subject to another adequacy finding or enters into a written agreement with us requiring that the third party provide at least the same level of privacy protection as is required within the EEA.
-
-  7. ## How we keep your Personal Data secure
-
-We take the security of your Personal Data very seriously. We have put in place technology and security policies which are designed to protect the personal information that we hold about you. These cover storing, using and releasing any Personal Data you have provided, and preventing unauthorized access or use. We have put in place technical and organizational measures designed to prevent unauthorized or unlawful processing of Personal Data and designed to prevent accidental access, disclosure, alteration, loss or destruction of, or damage to, Personal Data. These include internal reviews or our data collection, storage, processing and destruction practices. We take steps designed to ensure the reliability of our personnel and subcontractors.  
-We use an internal self-assessment program to verify that this Privacy Policy is accurate, comprehensive, prominently displayed, implemented and accessible. The self-assessment program is also used to indicate whether or not this Privacy Policy adheres to the Safe Harbor Principles and aims to ensure that we have in place procedures for training employees regarding implementation and discipline for failure to comply, as well as and periodically conducting objective reviews of compliance with the foregoing.
-
-  8. ## Cookies 
-
-We and our business partners collect information about your use of our Websites through cookies. Cookies are information files stored on your computer that help websites remember who you are and information about your visit. In those Websites where cookies are used, you will find a cookie policy which provides detailed information on which cookies are used therein (our cookies and/or third parties' cookies . Without prejudice to other deactivation means that might be made available in each Website, if any, if you do not want a website to create a cookie on your computer, the option to disable it may be activated in your browser (some browsers just completely allow or disallow cookies so you either benefit from them or not; others can also be set to prompt you for a YES or NO response whenever a site tries to send a cookie and newer browsers give more control in selecting which sites can or cannot send cookies). If you want to know more about how cookies work and how to manage or delete them, visit the [All About Cookies website](http://www.allaboutcookies.org/manage-cookies/) or the [Interactive Advertising Bureau's website.](http://www.youronlinechoices.com/)
-
-  9. ## Your responsibilities when you provide us with or allow us access to your Personal Data
-
-You must provide accurate Personal Data and do so only when you are 18 years of age or over and you agree to keep such data up-to-date. You must comply with any data protection and privacy legal requirements applicable to you. You must comply with and not disable any security measure of a Website. If you are acting as a (legal or de facto) representative of any legal entity, you must only provide your professional contact details in respect of that legal entity (and never your private contact details).
-
-  10. ## Use of the Website by Minors
-
-The Website is not directed to individuals under the age of eighteen (18), and we request that these individuals do not provide Personal Data through the Website.
-
-  11. ## Managing your rights regarding your Personal Data held by us as data controller
-
-You may contact us at [privacy.officer@hibu.com](mailto:privacy.officer@hibu.com) with written proof of your identity, such as a copy of your photo ID, with signature) (i) to request a copy of your Personal Data; or (ii) to request that your Personal Data be corrected, amended, rectified or deleted if they are inaccurate or incomplete; or (iii) to object to the processing of your Personal Data for certain purposes (such as direct marketing). If you are a registered user of one or more of our Websites, (i) and (ii) may also be managed directly by you in your account management/your profile section. We will answer your request as soon as reasonably practicable, and in any case, within the term legally determined (if there is one) and will comply except where the burden or expense of providing access would be disproportionate to the risk to you, or compliance could result in someone else's rights being violated.
-
-  12. ## What to do if you have a complaint or concern
-
-We are committed to resolving any privacy concerns that you may have. If you have any concerns or complaints about the way we’ve handled your personal information, please contact us at [privacy.officer@hibu.com](mailto:privacy.officer@hibu.com). Should you have a complaint against our US Group Company, we’ll try to resolve the complaint directly with you; however, if we are unable to resolve your dispute and you reside in the US, our US Group Company has selected the International Dispute Resolution Center as the independent recourse mechanism to resolve the dispute via arbitration. Additionally, our US Group Company is also subject to the jurisdiction of the U.S. Federal Trade Commission. Individuals who are unable to resolve a US Group Company-related complaint through the aforementioned complaint process may contact the Federal Trade Commission:
-
-Federal Trade Commission   
-Attn: Consumer Response Center   
-600 Pennsylvania Avenue NW   
-Washington, DC 20580   
-[consumerline@ftc.gov](mailto:consumerline@ftc.gov)  
-[www.ftc.gov](http://www.ftc.gov/)
+  * 1 The information we collect about you and how we do it, including
+  * 1a how we collect information about you
+  * 1b how we will use information we collect about you
+  * 1c what information we collect
+  * 1d why we need your email address
+  * 1e using cookies
+  * 1f if recording your calls
+  * 2 How we will use your information, including:
+  * 2a when you use Yell Business
+  * 2b when you use our Keyword Search Tool
+  * 2c when you use Yell SiteAnalyser
+  * 2d website customisation and advert targeting
+  * 2e tracking how our websites are used
+  * 2f when you order our products or services
+  * 2g testimonials
+  * 2h direct marketing
+  * 2i customer surveys
+  * 3 when we will contact you
+  * 4 direct marketing and how you can manage your marketing preferences
+  * 5 who we may share your personal information with
+  * 6 where we process your personal information
+  * 7 how to keep your information up to date
+  * 8 how we keep your information secure
+  * 9 why we link to other websites
+  * 10 using cookies on our websites and how you can reject them
+  * 11 what rights you have in your personal information and how can you use them
+  * 12 how we can make changes to this privacy policy
+  * 13 what privacy organisations we belong to
+  * 14 how to contact us about this privacy policy
+  * If you use our services to find businesses (we call these people ‘users’) we will also collect information about you. If you want to know how we use the personal information of users, please read our [privacy policy for users](http://www.yell.com/legal/privacy/user.html "privacy policy for users").
 
 
 
+## 1 The information we collect about you and how we do it
 
-Last updated 7 March 2013  
-© hibu (UK) Limited, March 2013
+To provide you with the advertising services you have ordered, we need information about you.
+
+If you use Yell Business or any of our other advertiser-focussed websites, you are in control of what information we collect about you, but if you choose not to share your information, you may not be able to access or use some areas of our websites.
+
+### 1a How we collect information about you
+
+We will collect information about you when you:
+
+  * use our online services;
+  * advertise with us;
+  * ask for Your Profile (a listing of your business details which we will include in our services for free);
+  * order directories or any of our other products and services;
+  * apply for credit with us;
+  * register to use Yell Business or any of our other advertiser-focussed websites;
+  * register for, or attend, a SiteMaker Webinar or any other seminar, conference, workshop, training course or networking event we advertise and/ or provide;
+  * set up, look at, or change your profile or account with us;
+  * ask for information from us;
+  * give us a testimonial or other feedback;
+  * enter competitions, prize draws or other special promotions;
+  * fill in surveys.
+
+
+
+### 1b How we will use information we collect about you
+
+We may use credit reference (CRA) and fraud prevention (FPA) agencies to help us make decisions before we provide credit to you to allow you to buy advertising. We also buy business information from other organisations. so we may get information about you from those organisations.
+
+A condensed guide to how we, CRA’s and FPA’s will use your information is detailed below. If you would like to see more information about this please call 0800 555 444 and we will send you a leaflet.
+
+  * We may search a CRA and FPA for information on you and your financial associates. If you give us false or inaccurate information and we identify fraud, details may be passed to CRA’s and FPA’s.
+  * We may use the information provided to us by CRA’s and FPA’s to help make credit or credit related decisions, to verify your identity, for the prevention and detection of fraud and/ or money laundering, and to manage accounts. We may use scoring methods, which may be automated, to do this. If you borrow for us and do not make payments you owe us, we may trace your whereabouts and recover debts.
+  * When CRA’s receive a search from us they will place a search “footprint” on your credit file whether or not your application proceeds.
+  * The information which we and other organisations provide to the CRA’s and FPA’s may be supplied by CRA’s to other organisations and used by them to perform similar checks.
+
+
+
+You can contact the 3 CRA’s currently operating in the UK; the information they hold may not be the same so it is worth contacting them all. They will charge you a small statutory fee:
+
+CallCredit Consumer Services Team, PO Box 491, Leeds, LS3 1WZ or call 0870 060 1414
+
+Equifax PLC, Credit File Advice Centre, PO Box 1140, Bradford, BD1 5US or call 0844 335 0550
+
+Experian Consumer Help Service, PO Box 8000, Nottingham, NG80 7WF or call 0844 841 8000
+
+### 1c What information we collect
+
+The information we collect and hold about you may include your:
+
+  * name (first and last name);
+  * business name;
+  * job title;
+  * business address;
+  * phone and/or mobile phone numbers;
+  * email address;
+  * Yell account number (sometimes we call this your SAP number);
+  * bank account, debit card and/or credit card details;
+  * date of birth;
+  * credit history, credit rating or credit score;
+  * password details, answers to security questions (for example your mother’s maiden name) or both; and
+  * any other information you may give us when you write to us or contact us in other ways.
+
+
+
+### 1d Why we need your email address
+
+When you register on Yell Business or any of our other advertiser-focussed websites, we collect your email address. We may use it for account administration and for added security. We may use your email address to send you a confirmation of any order or booking you make, if you ask for our products or services and to confirm any profile or account changes you make. We might also use your email address to bring you news such as changes to the way you can use Yell Business or any of our other advertiser-focussed websites or new services and special offers we think you might be interested in. For more information on direct marketing and how to change your preferences, please read section 4 – Direct marketing and how you can change your marketing preferences.
+
+### 1e Using Cookies
+
+Cookies are information files stored on your computer that help websites remember you. We and our business partners collect information about your use of our websites through cookies. For more information on how we use cookies and how to opt out of using them, please read our [Cookie Policy](http://www.yell.com/legal/cookiepolicy/home.html).
+
+### 1f Recording your calls
+
+We may record or monitor calls that you receive from us, or make to us. We do this for security and training purposes and to improve the service we provide to you.
+
+## 2 How we will use information we collect about you
+
+Whenever you give us your personal information, legally we have to use it in accordance with the terms of various privacy laws, including the Data Protection Act 1998 (we refer to these laws in this privacy policy as the ‘privacy laws’).
+
+### 2a When you use Yell Business or any of our other advertiser-focussed websites
+
+When you give us information while using Yell Business or any of our other advertiser-focussed websites, we will use it for the purposes set out in this privacy policy, on the data entry forms, in any relevant terms or conditions and on pages or emails which link to the data entry forms.
+
+### 2b When you use our Keyword Search Tool
+
+Our Keyword Search Tool allows you to search for keywords being used to find businesses on Yell.com and the number of searches being made against different keywords. When you use our Keyword Search Tool, we will store your email address and will use this information to identify any activities that are prohibited under our [online services conditions of use](http://www.yell.com/legal/home.html#oscouAnchor). We collect this information from everyone that uses the Keyword Search Tool.
+
+### 2c When you use Yell SiteAnalyser
+
+If you use Yell SiteAnalyser, we will track the usage of your website or other online advertising. We will aggregate information about the use of your website or other online advertising with that of our other customers. We will remove all personally identifying information before aggregating this data.
+
+### 2d Website customisation and advert targeting
+
+We may use the information you give us about yourself when you register on Yell Business or any of our other advertiser-focussed websites to build up a picture of your interests. We may then use this information to try to make sure that when you visit our websites, you don’t miss offers and information that might interest you. This is called advert targeting.
+
+### 2e Tracking how our websites are used
+
+We may collect information about activity on Yell Business or any of our other advertiser-focussed websites, or we may use other organisations to collect the information and to share the results with us. We use this information to:
+
+  * analyse statistics;
+  * track pages and paths used by visitors to our websites;
+  * target the banner adverts on our websites and on the websites of other organisations; and
+  * track the use of our internet banner adverts and other links from our marketing partners’ websites to our websites.
+
+
+
+For these purposes, we and the other organisations we use keep information on the path you take to get to our websites and on some of the pages you visit on our websites, using cookies and web beacons. You cannot be personally identified from the information that we or these other organisations collect. For information about web beacons, or the organisation we use (including how to decline their cookies), please read our [Cookie Policy](http://www.yell.com/legal/cookiepolicy/home.html).
+
+### 2f When you order our products or services
+
+If you advertise with us, ask for a Your Profile listing, order our directories or any other products and services, register for or attend one of our events, apply for credit with us, set up, look at or change your account details or contact our customer services team, we will record your personal details. Your information will be used in the first place to provide the products, services or information you have asked for. We keep the information you provide and may use it for several purposes, including:
+
+  * accounting, billing and audit;
+  * credit checking or screening;
+  * credit, debit or other payment card verification and screening;
+  * debt collection;
+  * safety, security, health, administrative and legal purposes;
+  * analysing statistics, the market and marketing information;
+  * developing, testing and maintaining systems;
+  * studies, research and development;
+  * advertiser or user surveys; and
+  * customer services and to help us in any future dealings with you, for example by identifying your requirements and preferences.
+
+
+
+For these purposes we may disclose your information to one or more of the other organisations listed in section 5 – Who we may share your personal information with.
+
+### 2g Testimonials
+
+If you give us feedback, we may use it to improve our products and services and we may publish it online or offline to promote our business, products and services. We will ask for your permission before we publish it.
+
+### 2i Customer surveys
+
+Every now and again, we may ask you how we are performing or for your opinion on our products and services. When we do surveys we may use cookies and combine the information collected by those cookies with your answers. We will make sure that the survey results do not identify you, or anyone else who fills in our surveys.
+
+## 3 When we will contact you
+
+We may contact you:
+
+  * about any product or service you have asked for or ordered, in order to provide you with that product or service;
+  * about any free line entry you have asked for, in order to process your request;
+  * about information you have asked for, in order to answer your request;
+  * if you have given us feedback, to discuss that feedback or ask your permission to publish it;
+  * if you have chosen to receive further information from us;
+  * to invite you to take part in surveys about our products and services (it is always up to you whether you want to take part); and
+  * for marketing purposes, unless you tell us to stop (for more information, please read section 4 – Direct marketing and how you can change your marketing preferences).
+
+
+
+## 4 Direct marketing and how you can manage your marketing preferences
+
+We offer you the chance to receive important news from Our Group and information about our products and services, such as changes to the way you can use Yell Business or any of our other advertiser-focussed websites and new services and special offers you might be interested in. We may use your order history to send you information we think you may be interested in.
+
+Unless you tell us otherwise, when you sign up for Your Profile listing or register or attend one of our events, we will contact you every now and again to see if you are interested in buying any advertising from us. If you order any of our products and services, we will contact you every now and again with news from Our Group, with information about our products and services and to see if you would like to renew or buy more advertising from us. We will ask you if you want to receive direct marketing if you:
+
+  * register for Yell Business or any of our other advertiser-focussed websites;
+  * register or attend a SiteMaker Webinar event or any other seminar, conference, workshop, training course or networking event we advertise and/ or provide; or
+  * enter a competition, prize draw or register for a promotion with any company in Our Group.
+
+
+
+Unless you tell us otherwise, we may contact you by phone, post, email, text message or any other way (electronic or otherwise). We will normally send you direct marketing by email if we have your email address.
+
+If you would like us to stop sending direct marketing to you, we offer simple ways for you to tell us to stop. Whenever you receive direct marketing from us, we will tell you how to unsubscribe. Also, if you are registered on Yell Direct, you can change your marketing preferences at any time by logging on and changing the marketing preferences in “Your Profile”. If you prefer, you can also change your marketing preference by phoning or writing to our customer services team using the address or phone number below.
+
+Customer Services, hibu (UK) Limited, One Reading Central, Forbury Road, Reading, RG1 3YL. 
+
+Freephone  0800 555 444 (Monday to Thursday 8.30am to 6pm and 8.30am to 5.30pm on Friday, excluding bank holidays)
+
+If you tell us that you do not want to receive direct marketing, we will still contact you in order to confirm and carry out any requests or orders you make with us and for administration purposes.
+
+If you previously chose not to receive direct marketing, but you have changed your mind and would now like to receive news, information and special offers from us, you can sign up again at any time through Yell Business. Simply log on to Yell Business and change the marketing preferences in “Your Profile”. If you prefer, you can also change your marketing preference by contacting our customer services team using the details above.
+
+## 5 Who we may share your personal information with
+
+We may need to share your information with other organisations to provide you with the products, services or information you ask for. We may pass your information to one or more of the following organisations:
+
+  * other companies in Our Group;
+  * credit checking or screening service providers;
+  * payment processing organisations (such as PayPal);
+  * debt collection agencies;
+  * data processing companies;
+  * mailing houses working on our behalf;
+  * research students, universities and other research and development organisations;
+  * government and enforcement agencies, such as Trading Standards, and the police.
+
+
+
+Occasionally, this may involve sending your information outside the European Economic Area. For more information, please read section 6 – Where we process your personal information.
+
+Unless you ask us not to at the time we collect your personal details, we will pass them to third parties, who may use them for marketing or sell them to other organisations for marketing purposes. If you do not want to receive direct marketing from these organisations, you should tell us when we ask.
+
+If you advertise with us, we may share any business address you give us with your customers on a case by case basis if there is a genuine consumer dispute, whether or not your address is published in your advertising and whether or not you agree for us to share it.
+
+Every now and again, we receive requests for information from government departments, the police and other enforcement agencies. If this happens, and there is a proper legal basis for providing your personal information, we will provide it to the organisation asking for it.
+
+## 6 Where we process your personal information
+
+When we use your information as described in section 2 – How we will use information we collect about you, this may occasionally involve sending your information outside the European Economic Area (EEA). Where we do this, we make sure that appropriate steps are taken to protect your personal information and your rights. By providing us with your personal information, you agree that we may transfer, store and process your information outside the EEA.
+
+## 7 How to keep your information up to date
+
+You can view and update your personal details quickly and easily by logging onto Yell Business.
+
+If you prefer, you can also update the personal details we hold by phoning or writing to our customer services team using the address or phone number below.
+
+Customer Services, hibu (UK) Limited, One Reading Central, Forbury Road, Reading,  RG1 3YL. 
+
+Freephone  0800 555 444 (Monday to Thursday 8.30am to 6pm and 8.30am to 5.30pm on Friday, excluding bank holidays)
+
+If you write to us, we may phone you to check the details that you have given us.
+
+## 8 How we keep your information secure
+
+We take the security of your personal information very seriously. We have put in place technology and security policies which are designed to protect the personal information that we hold about you. We also follow the strict security procedures that privacy laws require. These cover storing, using and releasing any information you have provided, and preventing unauthorised access or use.
+
+## 9 Why we link to other websites
+
+Our websites contain hyperlinks to websites that are owned and operated by other organisations. These websites have their own privacy and cookie policies, and we urge you to read them. They control how your personal information is used when you give it to these other organisations or they collect it with cookies. We do not approve any other websites and we are not responsible for any information, material, products or services that are on or accessible through those websites or for the privacy practices of websites run by other organisations. If you use these other websites you do it at your own risk.
+
+## 10 Using cookies on our websites and how you can reject them
+
+## 11 What rights you have in your personal information and how you can use them
+
+You have the right to ask us not to use your personal information for marketing purposes. We will usually tell you when we collect your personal details if we are planning to use them for marketing purposes or if we plan to pass them to any other organisation for marketing purposes. For more information, please read section 4 – Direct Marketing and how you can manage your marketing preferences.
+
+You have the right to see information we hold about you (with some exceptions, which are described in the privacy laws). If you would like a copy of your personal information, you should contact our [data protection officer](mailto:privacy.officer@yellgroup.com). You will need to pay a processing fee of £10.
+
+You have the right to review and update your personal details. You can do this quickly and easily through Yell Business.
+
+If you prefer, you can also change the personal details we hold by contacting our customer services team using the address or phone number below.
+
+Customer Services, hibu (UK) Limited, One Reading Central, Forbury Road, Reading, RG1 3YL.
+
+Freephone  0800 555 444 (Monday to Thursday 8.30am to 6pm and 8.30am to 5.30pm on Friday, excluding bank holidays)
+
+##  12 How we can make changes to this privacy policy
+
+We may update this privacy policy from time to time so you may want to check it each time you give us personal information or look at or change your personal details on our websites.
+
+## 13 How to contact us about this privacy policy
+
+We welcome your questions, comments and requests about this privacy policy. Please contact our [data protection officer](mailto:privacy.officer@yellgroup.com).
+
+Updated on 27 November 2014
