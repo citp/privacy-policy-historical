@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeonsmash.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630034949id_/http%3A//freeonsmash.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeonsmash.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201060335id_/http%3A//freeonsmash.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OnSMASH
 
@@ -72,8 +72,8 @@ If there are any questions regarding this privacy policy you may contact us at [
 
 _Last Updated: January 7, 2011_
 
-  * [__](http://twitter.com/home?status=Privacy+Policy+http%3A%2F%2Ffreeonsmash.com%2F%3Fp%3D63112+via+%40OnSMASH)
-  * [__](http://www.facebook.com/sharer.php?u=http%3A%2F%2Ffreeonsmash.com%2F%3Fp%3D63112&t=Privacy+Policy)
-  * [__](https://plus.google.com/share?url=http%3A%2F%2Ffreeonsmash.com%2F%3Fp%3D63112)
+  * [__](http://twitter.com/home?status=Privacy+Policy+http%3A%2F%2Fonsma.sh%2Fuu517+via+%40OnSMASH)
+  * [__](http://www.facebook.com/sharer.php?u=http%3A%2F%2Fonsma.sh%2Fuu517&t=Privacy+Policy)
+  * [__](https://plus.google.com/share?url=http%3A%2F%2Fonsma.sh%2Fuu517)
 
 
