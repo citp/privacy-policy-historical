@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yn.lt privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064331id_/http%3A//xtgem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yn.lt privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201195721id_/http%3A//xtgem.com/privacy) for the most accurate reproduction.*
 
-# Política de Privacidad - XtGem.com — Herramienta de construcción de sitios móviles visuales
+# Privacy Policy - XtGem.com — Visual mobile site building tool
 
 XTGEM Service Provider aims to ensure the protection of XTGEM website visitors’ and service users’ privacy. This privacy policy is applied only to XTGEM website.
 
@@ -21,4 +21,4 @@ XTGEM service user understands and agrees that the risks related to the submissi
 
 Also the log in name of an XTGEM service user may be shown to other XTGEM service users when the user sends or uploads information on XTGEM website and so other service users who receive this information may contact the user by writing messages or using XTGEM services.
 
-© 2014 xtgem.com 
+© 2015 xtgem.com 
