@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airdroid.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324002203id_/https%3A//www.airdroid.com/en/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airdroid.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201195618id_/https%3A//www.airdroid.com/en/legal/privacy.html) for the most accurate reproduction.*
 
 # AirDroid | Delight Your Multi-Screen Life
 
@@ -39,7 +39,7 @@ We offer the use of a secure server. All supplied sensitive/credit information i
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-## Do we use cookies? 
+## Do we use cookies?
 
 Yes, Cookies are small files that a site or software or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the site or softwares or service providers systems to recognize your browser and capture and remember certain information.
 
