@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keywordcountry.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523094835id_/http%3A//www.keywordcountry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordcountry.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201034716id_/http%3A//www.keywordcountry.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy, Keyword Country | www.keywordcountry.com
 
@@ -13,7 +13,7 @@ The terms "we" and "us" refer to Keyword Country.
 
 This notice applies to all the information collected on the Keyword Country website or submitted to Keyword Country at any time.
 
-Personally Identifiable Information—When visiting Keyword Country and signing up for or using Keyword Country services, you may choose to supply Keyword Country with information that identifies you personally. For End-Users, this information may include your name and contact information, gender, birth date, occupation and industry, shipping and billing information, credit card numbers and other payment information, behavior patterns, purchase history, and other information. For Clients, this information may include the Client's name and contact information, the Client's website information (name, URL, visitors per day, page views per month, description, categorization), payment information, and user comments.
+Personally Identifiable Informationâ€”When visiting Keyword Country and signing up for or using Keyword Country services, you may choose to supply Keyword Country with information that identifies you personally. For End-Users, this information may include your name and contact information, gender, birth date, occupation and industry, shipping and billing information, credit card numbers and other payment information, behavior patterns, purchase history, and other information. For Clients, this information may include the Client's name and contact information, the Client's website information (name, URL, visitors per day, page views per month, description, categorization), payment information, and user comments.
 
 ## The Way We Use Information
 
