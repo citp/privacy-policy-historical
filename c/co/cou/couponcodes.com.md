@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponcodes.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626201909id_/http%3A//www.couponcodes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponcodes.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201094925id_/http%3A//www.couponcodes.com/privacy) for the most accurate reproduction.*
 
 # CouponCodes.com Privacy Policy - CouponCodes.com
 
