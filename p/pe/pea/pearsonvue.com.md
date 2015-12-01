@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearsonvue.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511095924id_/http%3A//home.pearsonvue.com/Legal/Privacy-and-cookies-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonvue.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201055823id_/http%3A//home.pearsonvue.com/Legal/Privacy-and-cookies-policy.aspx) for the most accurate reproduction.*
 
 # Privacy and cookies policy :: Pearson VUE
 
@@ -35,6 +35,8 @@ We are a global organization who complies with all laws and regulations in the a
 
 These rights and responsibilities in our Privacy Policy do not cover third party websites that may be linked to our Site(s) or referred to on this Site(s). These third party websites have their own privacy policies and we encourage you to read them.
 
+* * *
+
 ## YOUR RIGHTS & RESPONSIBILITIES
 
 You agree that by visiting and/or providing, transmitting, or having another party you have authorized transmit your personal information to us on any of our Sites, you are accepting the practices described in this Privacy Policy and any updates made to this Privacy Policy. It is your responsibility to read this Privacy Policy and check for updates on a regular basis. By continuing to use our Site, products or services after such updates have been made you are agreeing to be bound by any changes to this Privacy Policy.
@@ -49,15 +51,21 @@ You have the right to see, correct, access, modify, and amend your personal info
 
 If you have concerns with these Rights and Responsibilities or our compliance with them, you may contact us at [PearsonVUEContracts@pearson.com](mailto:PearsonVUEContracts@pearson.com). You may also contact us at +1 (952) 681-3918.
 
+* * *
+
 ## OUR RIGHTS & RESPONSIBILITIES
 
 We will provide you access to these Rights and Responsibilities and any subsequent updates.
 
 We reserve the right to modify the terms of this Privacy Policy at any time, without notice. Modifications may be posted here, and you are deemed to be apprised of and bound by any changes. We encourage you to review this Privacy Policy periodically for any modifications or updates.
 
+* * *
+
 ## SAFE HARBOR AND DATA COLLECTION IN THE EUROPEAN UNION MEMBER STATES AND OTHER COUNTRIES WITH SIMILAR LEGISTLATIVE REQUIREMENTS
 
 We comply with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland to permit the legal transfer of data to the U.S. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. As such, we use reasonable precautions to protect personal information from unauthorized use, access, disclosure, alteration or destruction. These precautions include appropriate physical, electronic and managerial procedures. To learn more about the Safe Harbor program and to view NCS Pearson, Inc.’s certification please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor). This means that we are dedicated to provide privacy protection, as defined by European Community law and Swiss law, for this information. We are also committed to compliance with the decisions of local data protection authorities in collecting and handling this information. Unless we provide specific notice and obtain your consent, we do not collect or process any sensitive information, as defined by the Safe Harbor scheme.
+
+* * *
 
 ## CERTIFICATION, LICENSURE, AND ACADEMIC ADMISSION TEST SERVICES
 
@@ -77,6 +85,8 @@ In the event that you submit a request for an accommodation for your certificati
 
 Certain certification, credentialing, licensure, and academic admission tests are administered through independent authorized testing centers. These authorized testing centers are required to use any data collected in compliance with this Privacy Policy. If you have unaddressed concerns about an independent testing center relating to certification, credentialing, licensure, or academic admission services supplied by NCS Pearson, please contact us at [PearsonVUEContracts@pearson.com](mailto:PearsonVUEContracts@pearson.com) or call 1 (952) 681-3918.
 
+* * *
+
 ## REMOTE PROCTORING TEST SERVICES
 
 ### Description of Remote Proctoring Test Services
@@ -86,6 +96,8 @@ If a test sponsor offers their test outside of a Pearson VUE authorized testing 
 ### Personal Information Collected for Remote Proctoring Test Services
 
 All of the same personal information that we collect or receive as described above applies to you when you register to take a test sponsor’s remote proctored test. Prior to the start of your remote proctored test you may be required to hold up your ID documentation, (for example your driver license, passport or other approved ID that the sponsor designates), to be recorded on the video for the purpose of identity verification. The collection of such data is optional, but necessary if you choose to use the remote proctoring function. You understand that the audio- and video-tapes of your testing session will be supplied to the relevant test sponsor and any of their appointed agents to assist with their management of your test.
+
+* * *
 
 ## NCS PEARSON AS A TEST SPONSOR
 
@@ -153,6 +165,8 @@ To access and correct any information supplied in a Test Center Application, ple
 
 If you have any questions or concerns about your Test Center Application or how we handle the data supplied in a Test Center Application, please contact us at [PVAmericasChannelSales@pearson.com](mailto:PVAmericasChannelSales@pearson.com).
 
+* * *
+
 ## INFORMATION POLICY RELATING TO BUSINESS INFORMATION SUBMISSION
 
 Through the “Contact Business Development” submission form on this site, you may provide your contact information to be contacted by the Pearson VUE Business Development team to receive more information on the services provided by Pearson VUE. Providing your information is completely voluntary. The personal information that we collect or receive through this submission form include: name, email address, phone number, company, title, primary place of business, and information about your testing program. We will use the information you submit to evaluate your needs and provide you information on services you may be interested in. After submission, you may be contacted by a member of our Business Development team to discuss your information.
@@ -160,6 +174,8 @@ Through the “Contact Business Development” submission form on this site, you
 ### Information Access and Corrections
 
 To access and correct any information supplied in the Contact Business Development form, please contact us at [pvamericassales@pearson.com](mailto:pvamericassales@pearson.com) or call (888)-627-7357.
+
+* * *
 
 ## E-COMMERCE
 
@@ -177,6 +193,8 @@ We clearly identify what information must be provided by you in order for us to 
 
 
 
+* * *
+
 ## CREDENTIALING SERVICES
 
 ### Description of Credentialing Services
@@ -187,13 +205,19 @@ We provide credentialing services as a service provider on behalf of credentiali
 
 The personal information that we collect or receive in registering you for credentialing services include: name, address, email address, phone number, fax number, credit/debit card information, company and title. We may also collect or receive the following additional information at registration or in the testing process, as necessary or appropriate, including but not limited to: language, date of birth, social security number, sponsor identification number, employment information, testing history, education information, and source of financing for your tests. For candidate verification and identification purposes, we may collect all or part of a government-issued identification number and mother’s maiden name.
 
+* * *
+
 ## THIRD PARTY WEBSITES AND SOCIAL MEDIA
 
 We may also collect information via third party websites such as Google, or via social media such as Twitter and Facebook. This information may include your name, address, username, email address, website visited, content posted, IP address, nationality, language, and other publicly available demographics. This information is used to improve the products and services that we offer, to identify and resolve customer service issues, and to provide the information and services you request.
 
+* * *
+
 ## INFORMATION RECEIVED FROM INTERNET SERVICE PROVIDERS THROUGH THIS SITE
 
 This Site receives information that is automatically generated by a user’s Internet service provider (ISP), browser or mobile device. This information may include the IP address, the associated URLs, domain names, the browser type, the approximate location of the ISP’s servers, the pages of our Site that the user views, and any search terms entered on this Site. This information may be collected for system administration purposes, to gather broad demographic information and to monitor the level of activity on the Site. We reserve the right to link this information to your personal information in order to protect the integrity of our system and for security purposes.
+
+* * *
 
 ## TRANSFER OF INFORMATION
 
@@ -207,29 +231,43 @@ By registering for a test through us, purchasing services or products from one o
 
 We may disclose personal information in the following situations: (a) in response to a subpoena, court order or legal process, to the extent permitted and required by law; (b) to protect your security, or the security of other persons, consistent with applicable law; (c) to address actual or suspected fraud or other illegal activities; (d) in connection with a sale, joint venture or other transfer of some or all of the assets of NCS Pearson, Inc.; and (e) to our contractors or agents, including independent testing centers and fulfillment vendors, who are committed or obliged to protect your privacy in a manner consistent with this Privacy Policy. For the purposes of test integrity, quality and security we may supply audio- and video-tapes of test candidates in a testing center at a particular time to any test sponsor whose test was being administered at that time in such test center. By registering for a test through us, you give your consent for your personal information to be transmitted in the situations outlined above.
 
+* * *
+
 ## INFORMATION FROM CHILDREN
 
 We recognize the importance of protecting privacy where children are involved. We are committed to protecting children's privacy and we comply fully with the Children's Online Privacy Protection Act (COPPA) and similar laws and regulations. Except in the case of the IC3 Exam, we do not knowingly collect personal information from children under the age of 16. If a child under the age of 16 has provided us with personal information, we ask that a parent or guardian contact us at [PearsonVUEContracts@pearson.com](mailto:PearsonVUEContracts@pearson.com) or 1 (952) 681-3918. If you are under 18, please be sure to read this Privacy Policy with your parent(s) or legal guardian(s) and ask questions about things you do not understand.
+
+* * *
 
 ## AGGREGATION OF NON-PERSON-SPECIFIC DATA
 
 We may statistically aggregate in non-person-specific form test responses and other information collected in the certification, credentialing, licensure, and academic admission test registration and delivery process and transfer this information to test sponsors and to independent testing centers. Such aggregated non-person-specific information may be used for quality control, operations management, security and marketing purposes and to enhance develop or improve certification, credentialing, licensure, and academic admission testing processes, testing services, tests and related products and services. By registering for a test through us, you give to us your consent to this non-person-specific data aggregation and the use and transmission of this aggregated statistical data as outlined herein.
 
+* * *
+
 ## EMAIL NEWSLETTERS
 
 We may use your email address to send you email newsletters about certification, credentialing, licensure, or academic admission testing. You may opt out of receiving the newsletter at any time by notifying us by email at [PVMarketing@pearson.com](mailto:PVMarketing@pearson.com) or following the opt-out instructions provided in the email newsletter.
+
+* * *
 
 ## INFORMATION ACCESS AND CORRECTIONS
 
 To access and correct the personal information that we have collected under this Privacy Policy, please contact our Call Center or send us an email at [PearsonVUEContracts@pearson.com](mailto:PearsonVUEContracts@pearson.com). To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making alterations.
 
+* * *
+
 ## PROTECTION OF CREDIT CARD INFORMATION
 
 We provide a secured transmission method for the electronic transmission of credit/debit card information.
 
+* * *
+
 ## RESOLUTION OF CONCERNS
 
 If you have questions or concerns about this Privacy Policy or how we handle personal information, please contact us at [PearsonVUEContracts@pearson.com](mailto:PearsonVUEContracts@pearson.com) or call 1 (952) 681-3918. If we are unable to satisfactorily address your concerns, you should contact the Data Protection Authority or other relevant organization in your area.
+
+* * *
 
 ## COOKIES AND WEB BEACONS
 
@@ -263,9 +301,13 @@ By using this Site, you agree to the our use of the cookies as described above a
 
 **_Do Not Track Signals._** This Site does not respond to web browser “do not track” signals or comparable signals or mechanisms.
 
+* * *
+
 ## CHANGES TO THIS PRIVACY POLICY
 
 We reserve the right to change the terms of this Privacy Policy from time to time by posting an updated Privacy Policy. We encourage you to review this Privacy Policy periodically for any changes or updates.
+
+* * *
 
 ## HOW TO CONTACT US
 
