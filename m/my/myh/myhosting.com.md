@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhosting.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629160025id_/http%3A//myhosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhosting.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201021802id_/http%3A//myhosting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | myhosting.com
 
@@ -39,7 +39,7 @@ The use of cookies by our service providers is not covered by our privacy policy
 
 Our third party affiliate partners employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs). Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information, but share only information such Order ID, total value of the shopping cart, and the website from which you linked to our Sites. 
 
-To learn more about our affiliate company’s use of clear gifs, please visit the [Commission Junction Privacy Policy](http://www.cj.com/privacy_member.html) or the [ShareASale Privacy Policy](http://www.shareasale.com/agreement.cfm). 
+To learn more about our affiliate company’s use of clear gifs, please visit the [ShareASale Privacy Policy](http://www.shareasale.com/agreement.cfm). 
 
 We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see the section Access and Consent. 
 
