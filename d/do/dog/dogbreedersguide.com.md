@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dogbreedersguide.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530190141id_/http%3A//dogbreedersguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogbreedersguide.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201080621id_/http%3A//dogbreedersguide.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy PolicyDog Breeders Guide, Pictures, Videos and Polls | Dog Breeders Guide, Pictures, Videos and Polls
+# Privacy Policy
 
-Welcome to [http://dogbreedersguide.com](http://dogbreedersguide.com/) (the "Site").We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by dogbreedersguide.com (collectively, "Services") ("Authorized Customers").
+Welcome to http://dogbreedersguide.com (the “Site”).We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by dogbreedersguide.com (collectively, “Services”) (“Authorized Customers”).
 
-"Personally Identifiable Information" 
+“Personally Identifiable Information” 
 
 refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
 
@@ -22,7 +22,7 @@ We use Personally Identifiable Information to customize the Site, to make approp
 
 With whom may the information may be shared?
 
-Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf.
+Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to “opt out” of receiving information or being contacted by us or by any agency acting on our behalf.
 
 How is Personally Identifiable Information stored?
 
@@ -38,7 +38,7 @@ Cookies are used for a variety of reasons. We use Cookies to obtain information 
 
 How does dogbreedersguide.com use login information? 
 
-dogbreedersguide.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
+dogbreedersguide.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
 
 What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?
 
@@ -50,11 +50,11 @@ All of our employees are familiar with our security policy and practices. The Pe
 
 How can Visitors correct any inaccuracies in Personally Identifiable Information?
 
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [admin@dogbreedersguide.com](mailto:admin@dogbreedersguide.com)
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at admin@dogbreedersguide.com
 
 Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?
 
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting . However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting . However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
 
 What happens if the Privacy Policy Changes?
 
@@ -62,4 +62,4 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 
 Links:
 
-[http://dogbreedersguide.com](http://dogbreedersguide.com/) contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
+http://dogbreedersguide.com contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
