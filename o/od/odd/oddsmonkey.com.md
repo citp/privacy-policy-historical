@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oddsmonkey.com privacy policy that was archived on 2014-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140817202402id_/http%3A//www.oddsmonkey.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oddsmonkey.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201065813id_/http%3A//www.oddsmonkey.com/privacy.aspx) for the most accurate reproduction.*
 
-# Oddsmonkey - Home
+# Oddsmonkey | Make Money Matched Betting | Free Bets | Arbitrage
 
 Odds Monkey is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Odds Monkey Web site and governs data collection and usage. By using the Odds Monkey website, you consent to the data practices described in this statement.
 
