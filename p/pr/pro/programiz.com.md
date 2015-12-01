@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the programiz.com privacy policy that was archived on 2015-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150108035619id_/http%3A//www.programiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the programiz.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201184859id_/http%3A//www.programiz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for programiz.com | Programming Tutorials, Articles and Examples
+# Privacy Policy for programiz.com - Programiz
 
 The following statements describes the privacy practices for programiz.com:
 
-  * We ourself do not collect any personal information from our users.
+  * We do not collect any personal information from our users.
   * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
   * Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
   * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings.
