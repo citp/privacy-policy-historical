@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the medstarhealth.org privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622105902id_/http%3A//www.medstarhealth.org/mhs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medstarhealth.org privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201063958id_/http%3A//www.medstarhealth.org/mhs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MedStar Health System
 
 Our Notice of Privacy Practices is available in the following languages:
 
-  * [Amharic](http://ct1.medstarhealth.org/content/uploads/sites/16/2015/02/nopp_amharic.pdf)
-  * [Arabic](http://ct1.medstarhealth.org/content/uploads/sites/16/2015/02/nopp_arabic.pdf)
-  * [Chinese](http://ct1.medstarhealth.org/content/uploads/sites/16/2015/02/nopp_chinese.pdf)
-  * [Korean](http://ct1.medstarhealth.org/content/uploads/sites/16/2015/02/nopp_korean.pdf)
-  * [Russian](http://ct1.medstarhealth.org/content/uploads/sites/16/2015/02/nopp_russian.pdf)
-  * [Spanish](http://ct1.medstarhealth.org/content/uploads/sites/16/2015/02/nopp_spanish.pdf)
-  * [Vietnamese](http://ct1.medstarhealth.org/content/uploads/sites/16/2015/02/nopp_vietnamese.pdf)
+  * [Amharic](http://ct1.medstarhealth.org/content/uploads/sites/16/2015/07/Privacy_Brochure_Amharic.pdf)
+  * [Arabic](http://ct1.medstarhealth.org/content/uploads/sites/16/2015/07/Privacy_Brochure_Arabic.pdf)
+  * [Chinese](http://ct1.medstarhealth.org/content/uploads/sites/16/2015/07/Privacy_Brochure_Chinese.pdf)
+  * [Korean](http://ct1.medstarhealth.org/content/uploads/sites/16/2015/07/Privacy_Brochure_Korean.pdf)
+  * [Russian](http://ct1.medstarhealth.org/content/uploads/sites/16/2015/07/Privacy_Brochure_Russian.pdf)
+  * [Spanish](http://ct1.medstarhealth.org/content/uploads/sites/16/2015/09/Privacy-Brochure-Spanish.pdf)
+  * [Vietnamese](http://ct1.medstarhealth.org/content/uploads/sites/16/2015/07/Privacy_Brochure_Vietnamese.pdf)
 
 
 
