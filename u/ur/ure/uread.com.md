@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uread.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623111520id_/http%3A//www.uread.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uread.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201105311id_/http%3A//www.uread.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # uRead.com: Buy Books Online: Bookstore in India: Highest Discount
 
