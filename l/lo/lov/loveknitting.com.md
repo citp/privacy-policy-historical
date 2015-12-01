@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveknitting.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611083752id_/http%3A//www.loveknitting.com/us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveknitting.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201225340id_/http%3A//www.loveknitting.com/us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -76,7 +76,7 @@ We may disclose your personal information to third parties:
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
   * if required to do so by law, or in order to enforce or apply our terms of use, or if we believe that such action is necessary to protect the rights, property, or safety of Lovecrafts, our customers, or others. This includes exchanging information with other licenced companies and organisations for the purposes of fraud protection and credit risk reduction. Information held about you by these agencies may be linked to records relating to other people living at the same address with whom you are financially linked. If you need details of fraud prevention or credit agencies from which we obtain and with which we record information about you, please write to us at   
 6th Floor Corinthian House, 279 Tottenham Court Road, London, W1T 7RJ
-  * We do not sell or otherwise pass your details to third parties for marketing purposes. Marketing communications you subscribe to will only be sent directly from [loveknitting.com](https://web.archive.org/web/20150611083752id_/http%3A//www.loveknitting.com/us/www.loveknitting.com) or lovecrochet.com. We will not disclose your personal data to any third party except in accordance with this Privacy Policy.
+  * We do not sell or otherwise pass your details to third parties for marketing purposes. Marketing communications you subscribe to will only be sent directly from [loveknitting.com](https://web.archive.org/web/20151201225340id_/http%3A//www.loveknitting.com/us/www.loveknitting.com) or lovecrochet.com. We will not disclose your personal data to any third party except in accordance with this Privacy Policy.
 
 
 
