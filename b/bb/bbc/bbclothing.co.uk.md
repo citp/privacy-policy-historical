@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the bbclothing.co.uk privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206083017id_/http%3A//www.bbclothing.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbclothing.co.uk privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201070413id_/http%3A//www.bbclothing.co.uk/en-gb/terms/privacy) for the most accurate reproduction.*
 
-# Brown Bag Clothing Privacy Policy
+# Privacy Policy
+
+**FREE Next Day UK Delivery** \- on all orders over £100
+
+ **FREE UK Returns** \- from 2,500 drop off locations
+
+ **7 Days a Week** \- now delivering on Sundays
 
 ## Privacy Statement
 
@@ -23,7 +29,7 @@ We use your information for a number of purposes including:
 
 ## Supplying goods to you
 
-  * We may use your information: 
+  * We may use your information:
   * To identify and maintain records of your purchases with us
   * To ensure that the goods and services we offer to you are appropriate for your needs
   * To respond to any query you may raise with us about our goods
@@ -58,7 +64,7 @@ We will endeavor to protect your data against unauthorised use.
 
 ## Right to access your personal information
 
-The Data Protection Act 1998 gives you the right to access information held about you. You can obtain access to your personal information held by us by putting your request in writing and sending a cheque for £10 (to cover administration costs for collating this information), made payable to Clothingsites.co.uk Ltd, Unit 18, Adlington Industrial Estate, Macclesfield, Cheshire, SK10 4NL. If you have any questions about Clothingsites.co.uk Ltd's Data Protection Policy please write to our Data Protection Officer or e-mail us at dataprivacy@clothingsites.co.uk
+The Data Protection Act 1998 gives you the right to access information held about you. You can obtain access to your personal information held by us by putting your request in writing and sending a cheque for £10 (to cover administration costs for collating this information), made payable to Clothingsites.co.uk LtdThe Studios, Dallimore Road, Roundthorn Industrial Estate, MANCHESTER, M23 9NX. If you have any questions about Clothingsites.co.uk Ltd's Data Protection Policy please write to our Data Protection Officer or e-mail us at dataprivacy@clothingsites.co.uk
 
 ## Cookies
 
@@ -68,7 +74,9 @@ As part of ensuring the proper operation of our site and to maximise your enjoym
 ---|---  
 Essential | We use cookies to keep track of what you have in your basket, and to remember you when you return to our site. Without cookies, the site would forget which items you placed in your basket and you wouldn't be able to buy anything.  
 Analytics | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. [**More information on Google Analytics**](http://www.google.com/analytics/learn/privacy.html)  
-Third Party | We work with third party companies for marketing and advertising purposes. These cookies allow us to make more informed decisions about what our customers want from us. Any information that they collect is anonymous. Because of how cookies work, we cannot access these cookies, nor can the third parties access the data in cookies used by us.
+Third Party | 
+
+We work with third party companies for marketing and advertising purposes. These cookies allow us to make more informed decisions about what our customers want from us. Any information that they collect is anonymous. Because of how cookies work, we cannot access these cookies, nor can the third parties access the data in cookies used by us.
 
 **Third parties we work with and why**
 
@@ -78,24 +86,18 @@ AdWords uses cookies to anonymously identify traffic and conversions from paid s
 **Webgains**  
 Webgains use cookies to anonymously record that a user has clicked on an Webgains link that referred the user to our site. This information is collected in order to enable us to pay a commission to Webgains and its affiliates for any sales they may drive on our site. Webgains cookies remain active for a period of 30 days.
 
-**VE Interactive**  
-VE Interactive cookies collect information about customers who used the basket and checkout process but then did not complete their purchase. This allows us to email those customers and make sure that there was not a technical problem or other issue which prevented them from completing their purchase.
-
-**PredictiveIntent**  
-PredictiveIntent dynamically personalise and suggest products which may be of interest based on the products that have been previously viewed or interacted with by you and other visitors/customers. Cookies are used by PredictiveIntent for the purpose of monitoring and analysing your preferences – this allows us to then provide you with tailored information.
-
 **AddThis**  
 AddThis use cookies to record when you have interacted with their widget. When you share a product using the social media sharing button on our site, the social network that has created the button will record that you have done this.
 
 **Struq**  
 Struq places anonymous cookies which collect details of pages and products you viewed. This information is then used to better direct advertisements shown to you on 3rd party websites to make sure that those adverts include products that are of interest to you.
 
-**Yieldify**  
-Yieldify's unique technology monitors user behaviour patterns and detects when you about to leave our site. Once detected, a personalised overlay message invites you to leave your contact information. Yieldify uses cookies to anonymously identify you and record the frequency of visits to our site.
-
 **VisualDNA**  
-We use a tag of a third-party service provider, VisualDNA, to anonymously collect information about users' browsing activity on our website (this does not include names, addresses or any other personal information). This information is linked to a cookie that VisualDNA sets in your browser. This information allows us and VisualDNA to build a profile so that your online experience can be made more relevant to your specific interests. You have the right to opt out from VisualDNA's service by clicking [here](http://my.visualdna.com/) and choosing the 'Cookie Settings' option.  
-VisualDNA does not store or share personally identifiable information with any third party, other than in anonymised, aggregated form. To learn more, visit VisualDNA's privacy policy at [http://www.visualdna.com/privacy-policy](http://www.visualdna.com/privacy-policy/) and VisualDNA's cookie policy at [http://www.visualdna.com/cookie-policy](http://www.visualdna.com/cookie-policy/).   
+We use a tag of a third-party service provider, VisualDNA, to anonymously collect information about users' browsing activity on our website (this does not include names, addresses or any other personal information). This information is linked to a cookie that VisualDNA sets in your browser. This information allows us and VisualDNA to build a profile so that your online experience can be made more relevant to your specific interests. You have the right to opt out from VisualDNA's service by clicking [here](http://my.visualdna.com/) and choosing the 'Cookie Settings' option.
+
+VisualDNA does not store or share personally identifiable information with any third party, other than in anonymised, aggregated form.
+
+To learn more, visit VisualDNA's privacy policy at [http://www.visualdna.com/privacy-policy](http://www.visualdna.com/privacy-policy/) and VisualDNA's cookie policy at [http://www.visualdna.com/cookie-policy](http://www.visualdna.com/cookie-policy/).  
   
 If you want to manage your cookies then you can do this via your browser or alternatively please visit [**www.aboutcookies.org**](http://www.aboutcookies.org/) for up to date information about cookie management. All modern browsers allow you to change your cookie settings. These settings will typically be found in the 'options' or 'preferences' menu of your browser. In order to understand these settings, see the 'Help' option in your browser for more details.
 
