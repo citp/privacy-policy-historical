@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stingray.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415231007id_/http%3A//legal.stingray.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stingray.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201044312id_/http%3A//www.stingray.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | legal
+# Privacy Policy
 
 **STINGRAY PRIVACY POLICY**
 
