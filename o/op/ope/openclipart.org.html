@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the openclipart.org privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627170507id_/https%3A//openclipart.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the openclipart.org privacy policy that was archived on 2015-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151201202905id_/https%3A//openclipart.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" style="" class=" js flexbox flexboxlegacy webgl no-touch draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio svg svgclippaths"><head>
 <meta charset="utf-8">
@@ -153,7 +153,7 @@ Should our privacy policy ever be changed, updated, or expanded, any revisions t
         
         $('#' + clipartID + '_fav_num').html(fav_count);
         
-        $.post('/assets/post.php', JSON.stringify({function: 'add_favorite', id: clipartID}));
+        $.post('/post-2015.php', JSON.stringify({func: 'add_favorite', id: clipartID}));
         return true;                
     }
 
@@ -165,7 +165,7 @@ Should our privacy policy ever be changed, updated, or expanded, any revisions t
         $("." + decLoveID).addClass("glyphicon-heart-empty");
         
         $('#' + clipartID + '_fav_num').html(fav_count);
-        $.post('/assets/post.php', JSON.stringify({function: 'remove_favorite', id: clipartID}));
+        $.post('/post-2015.php', JSON.stringify({func: 'remove_favorite', id: clipartID}));
         return true;
     }
 
