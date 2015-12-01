@@ -1,84 +1,83 @@
-> *The following text is extracted and transformed from the mercent.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521185241id_/http%3A//www.mercent.com/company-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercent.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201040457id_/http%3A//www.commercehub.com/privacy-policy) for the most accurate reproduction.*
 
-# Company - Privacy Policy - Mercent
+# Privacy Policy - CommerceHub
 
-**Introduction**
+### Introduction.
 
-Mercent Corporation is committed to consumer privacy. This Privacy Policy is written to document Mercent's consumer privacy commitment and explain how Mercent collects and uses consumer information.
+At Commerce Technologies, Inc. dba CommerceHub (“CommerceHub”, “We”, “Us”, or “Our”), one of our most important responsibilities is protecting our users’ privacy. To that end We will not trade, sell, or disclose to any third party Your personally identifiable information without Your consent, including information derived from registration and use of any of the services available through Our Website, except as stated below. Please note that this privacy policy applies only to Websites owned and operated by CommerceHub, or Our wholly owned subsidiaries, including CommerceHub (UK) Ltd. (collectively “Our Site”).
 
-**Information Mercent Collects and How it is Used**
+### Acceptance of these Terms.
 
-Mercent collects information to measure the effectiveness of online product advertising activities performed by our retail customers. This information is used by Mercent's retail customers to understand which products to advertise and where to advertise in order to best present their products and services to consumers. Mercent also collects similar information for use in operating and improving our corporate Web site, www.mercent.com.
+By registering or by using Our Site, You the user (“You” or “Your”) explicitly accept, without limitation or qualification, the collection, use and transfer of the personal information provided by You in the manner described in this Privacy Policy. Please read this Privacy Policy carefully as it affects Your rights and liabilities under law. If You disagree with the way We collect and process personal information from Our Site, please do not use it.  
+Non-Personally Identifiable Information.
 
- **How Mercent Helps Retailers Understand their Advertising Effectiveness**
+You may visit Our Site without registering, however, some of the specific tools and services on Our Site do require registration. If You use Our Site without registering, the only information We collect will be non-personal information that will be collected automatically through the use of tracking technology such as cookies. The type of non-personal information We collect includes the areas of Our Site that You visit, what services You access, and information about Your computer hardware and software including Your IP address, geolocation, browser and operating system type, domain names, access times and referring web site addresses. This information is used for analyzing the use of resources and improving Our services.
 
-Mercent collects performance information by assigning a unique Uniform Resource Locator (URL) for each retailer advertisement on a Mercent-support online channel. These URLs link to Mercent's hosted software systems. Mercent notes the referring (source) Web site for each consumer referred through these URLs and places a small text file or 'cookie' on the consumer's computer. Cookies are also placed on the consumer's computer after a consumer has been successfully referred to a retailer's Web site. The cookie associates the consumer's visit with the product offered by the retail advertiser. This allows Mercent to report on the retailer's online advertising effectiveness. Mercent only collects anonymous and non-personally identifiable consumer data to help retailers improve advertising effectiveness. At no time is personally identifiable consumer information gathered or used by Mercent.
+### Registration Information.
 
- **More About Cookies**
+If You choose to register with Our Site We require You to submit certain personally identifiable information such as name and company name, work address and telephone number, as well as certain demographic and company information, including city, state, country, zip code, and information systems information. Depending on the service You have selected to use within Our Site, We may also collect additional personally identifiable information. All such information is provided voluntarily by You. You are responsible for ensuring the accuracy of all personally identifiable information You submit to Our Site. Inaccurate information will affect the information You receive when using Our Site and Our ability to contact You as described in this Privacy Policy.  
+Registration Information is collected so that We can (i) process Your registration and provide You with Your requested services (ii) contact You if there is a problem in the future, and (iii) conduct market research. We do not sell, rent or lease such information to third parties. In the event that We are unable to provide You with Your requested services, We may forward Your registration information to one or more of Our third party partners that We believe could handle your request. We may also occasionally send You product surveys or promotional mailings to inform You of other products or services available from Us. We may combine the information You submit during Your registration with information we obtain from third parties.
 
-When you visit a Mercent Web site, Mercent may place one or more cookies on your computer. A cookie is a small text file placed on your computer's hard drive by a Web server. Some cookies are used to assist you with your session on Mercent Web sites. Depending on the cookie, the cookie may expire at the end of your browsing session or may stay on your computer until the expiration date specified in the cookie is in the past. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies can only be accessed or read by the Internet domain (generally a Web site) that placed them. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use certain features of Mercent Web sites that depend on the your Web browser accepting cookies.
+### Fulfillment Information.
 
- **Mercent Request Information Form**
+Our retailer customers and their suppliers, and the third-party providers and marketplaces they work with provide Us with information regarding orders received from their customers, including sufficient personal data to ship product to the customers. We organize that data and transmit it to manufacturers and suppliers so that they can fulfill those orders. We make no other use of this personal data. We do not sell, rent or lease this data, and we do not disclose or transmit it to any third parties other than the retailer We received it from and the suppliers who fulfill the orders
 
-If you fill out the Mercent Request Information Form, you will enter certain personal information such as name and company name, work address and telephone number, as well as certain demographic and company information, including city, state, country, zip code, Channel information and information systems information. Mercent uses this information to communicate with you. All such information is provided voluntarily by you. Mercent does not sell, rent or lease such information to third parties. Mercent may also occasionally send you product surveys or promotional mailings to inform you of other products or services available from Mercent.
+### More About Cookies
 
- **No Information from Minors**
+When You visit Our Site, We may place one or more cookies or other similar tracking technology on Your computer. A cookie is a small text file placed on Your computer’s hard drive by a Web server. Some cookies are used to assist You with Your session on the Site. Depending on the cookie, the cookie may expire at the end of Your browsing session or may stay on Your computer until the expiration date specified in the cookie is in the past. Cookies cannot be used to run programs or deliver viruses to Your computer. Cookies can only be accessed or read by the Internet domain (generally a Web site) that placed them. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but You can usually modify Your browser setting to decline cookies if You prefer. If You choose to decline cookies, You may not be able to sign in or use certain features of Our Site that depend on the Your Web browser accepting cookies.
 
-Mercent Corporation does not and has no intention of collecting personal information from children. If you would like more information about privacy and the Internet, you may refer to http://www.ftc.gov/bcp on the Federal Trade Commission's Web site.
+### No Information from Minors
 
- **Use of IP Addresses**
+We do not and have no intention of collecting personal information from children. If You would like more information about privacy and the Internet, You may refer to <http://www.ftc.gov/bcp> on the Federal Trade Commission’s Web site.
 
-Your use of Mercent software or services including visiting Mercent's Web sites involves the transmission of your Internet protocol address ("IP Address") to Mercent's servers. This IP address is necessary for communication with you via the Internet and may be used and stored on our servers. With the cooperation of your Internet service provider, it may be possible for your IP address to be used to identify you personally. However, Mercent agrees that it will not use your IP address for this purpose, unless required by law. Mercent does use IP addresses to determine the general geographic locations of our users, but this does not involve the collection of any personally identifiable information.
+### Information Disclosure
 
- **Information Disclosure**
+We may disclose the information We collect as reasonably necessary to comply with law, regulation or other governmental authority. We may also disclose Your information upon a transfer or sale to another entity of all or substantially all of Our stock or assets in the line of business to which this Privacy Policy relates or upon any other corporate reorganization.
 
-Mercent may disclose the information we collect as reasonably necessary to comply with law, regulation or other governmental authority. Mercent may also disclose your information upon a transfer or sale to another entity of all or substantially all of Mercent's stock or assets in Mercent's line of business to which this Privacy Policy relates or upon any other corporate reorganization.
+### Data Integrity
 
- **Control of Your Personal Information**
+We take reasonable steps to ensure that (i) We collect only personal information that is relevant to providing Our services, (ii) We process Your personal information in a manner that is compatible with the purposes for which it was collected and (iii) Your personal information is reliable for its intended purpose and remains accurate, complete and current.  
+Accessing and Updating Your Personal Information You may review Your personal information sent to or otherwise collected by Us by sending Us a request that identifies the Site You visited and other relevant information deemed necessary to retrieve the information. We will work with You to facilitate this review. If You contact Us with a request for access to Your personal information We will endeavor to respond within 30 days.
 
-Mercent offers you choices for the collection, use and sharing of any personal information that you have voluntarily provided to us. You may choose not to receive marketing materials from Mercent, and you may also stop the delivery of future promotional e-mail from Mercent by following the specific instructions in the e-mail you receive. These communications choices do not apply to mandatory service communications that are considered part of certain Mercent services, which you may receive periodically unless you cancel the service. You may have the ability to view or edit your personal information by writing to sales@mercent.com.
+Your request should be sent to: [privacyquestions@commercehub.com](mailto:privacyquestions@commercehub.com) or by mail to Attn: Privacy Questions., Commerce Technologies, Inc., 255 Fuller Road, Suite 327, Albany, NY 12203.
 
- **Security of your Personal Information**
+### Choice and Onward Transfer
 
-Mercent is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities. When we transmit over the Internet or store highly confidential information (such as a credit card number or password), we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+We offer You choices for the collection, use and sharing of any personal information that You have voluntarily provided to Us. You may choose not to receive marketing materials from Us. You may also stop the delivery of future promotional e-mail from Us, and You may stop Us from forwarding Your personal information to Our third party partners who might be able to fulfill your request. To exercise Your choices, write to Us at [privacyquestions@commercehub.com](mailto:privacyquestions@commercehub.com) or by mail to Attn: Privacy Policy Dept., Commerce Technologies, Inc., 255 Fuller Road, Suite 327, Albany, NY 12203 and follow the specific instructions set out in the e-mail You receive back from us. These communications choices do not apply to mandatory service communications that are considered part of Our services, which You may receive periodically unless You cancel the service.
 
-Information on our SSL Keys
+### Security of Your Personal Information
 
-Secure Web site   
+We are committed to protecting the security of Your personal information. We use a variety of security technologies and procedures to help protect Your personal information from unauthorized access, use, or disclosure. For example, We store the personal information You provide on computer systems with limited access, which are located in controlled facilities. When We transmit over the Internet or transfer highly confidential information off-site, We protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
+### Sharing Information
 
-Web Services 
+We do report aggregated information regarding the use of Our services to Our third party partners. These statistics never include personally identifying consumer information. In the event that We are unable to provide You with Your requested services, We may forward Your registration information to one or more of Our third party partners that We believe could handle your request. We only share personal data Our retailer customers provide Us regarding their customers with manufacturers and suppliers so they can fulfill orders.
 
-    
-Link (Tracking)
+### Links to Third Party Web Sites and their Privacy Policies
 
-Some Channels pass credit card information through our system to the retail merchant (seller-of-record) for processing. To facilitate secure data transfer, Mercent encrypts the credit card information as it enters our system. Mercent does not possess the key required to decrypt this information. Only the merchant has this key. Once the merchant has confirmed receipt of the information, we remove it from our system to ensure compliance with the PCI Data Security Standard. More information regarding this standard is available at:http://usa.visa.com/merchants/risk_management/cisp.html
+A link on Our Site to a third-party Website does not imply Our endorsement of that Website, advertiser or product. We do not control the Websites to which We may link and We assume no responsibility for their content or privacy policies. This privacy policy applies solely to information collected by Us on Our Site. Any information that You provide to linked Web sites or other third parties is provided directly to such third party and is subject to that third party’s privacy policy. Therefore, You should carefully review the privacy policies that apply to any Web sites You access.
 
- **Sharing Information**
+### U.S.-E.U. Safe Harbor and U.S.-Swiss Safe Harbor
 
-Mercent does report aggregated information regarding the use of our services to our Merchant partners. These statistics never include personally identifying consumer information.
+We comply with the U.S.-E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from E.U. member countries and Switzerland as a data processor of this information. We comply with the Safe Harbor Privacy Principles of notice, choice, onward transfer, data security and integrity, access, and enforcement of all affected information We process through Our website and with regard to data we receive from our clients who are data controllers. To learn more about the Safe Harbor program please visit the [Department of Commerce Safe Harbor](http://export.gov/safeharbor/) website. You may view Our Safe Harbor certification by [clicking here](https://safeharbor.export.gov/list.aspx).
 
- **Links to non-Mercent Web Sites and their Privacy Policies**
+### Questions or Concerns
 
-A link on the Mercent Web site to a non-Mercent Web site does not imply Mercent's endorsement of that Web site, advertiser or product. Mercent does not control the Web sites to which we may link and assumes no responsibility for their content or privacy policies.  
-This privacy policy applies solely to information collected by Mercent. Any information that you provide to linked Web sites or other third parties is provided directly to such third party and is subject to that third party's privacy policy. Therefore, you should carefully review the privacy policies that apply to any Web sites you access.
+If You have any concerns or complaints about Our use of Your personal information or our compliance with the Safe Harbor program, including our compliance with any of its privacy principles, You should first contact us by email at [eusafeharbor@commercehub.com](mailto:eusafeharbor@commercehub.com) or Attn: Privacy Questions, Commerce Technologies, Inc., 255 Fuller Road, Suite 327, Albany, NY 12203. We have agreed to participate in a third-party dispute resolution program as part of Our participation in the Safe Harbor program. If contacting us does not resolve Your complaint, You may lodge a complaint with TRUSTe by contacting them [online](https://feedback-form.truste.com/watchdog/request). Please click [here](http://www.truste.com/about-TRUSTe/contact-us) for fax and postal mail information. TRUSTe’s Dispute Resolution process is only available in English. If You are mailing Your complaint, You must include the following information: The name of Our company, the alleged privacy violations, Your contact information, and whether You would like the allegations in Your complaint shared with Our company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, visit the [TRUSTe feedback page](http://www.truste.com/consumer-privacy/dispute-resolution/) or request this information from TRUSTe by fax or mail as explained above.
 
- **Mercent Changes**
+### Changes to This Policy
 
-Mercent reserves the right to change the provisions of this privacy policy at any time. Mercent will post changes on the privacy policy page of the Mercent Web site located at http://www.mercent.com/about-mercent/privacy-policy. Your use of Mercent software or services following the posting of such changes to the Mercent Privacy Policy will constitute your acceptance of any such changes. We encourage you to review our privacy policy frequently to make sure that you understand how Mercent uses and discloses information.
+We reserve the right to change the provisions of this privacy policy at any time. We will post changes on the privacy policy page of the Our Site located at <http://www.commercehub.com/privacy-policy>. Your use of Our Site following the posting of such changes to Our Privacy Policy will constitute Your acceptance of any such changes. We encourage You to review Our privacy policy frequently to make sure that You understand how We use and discloses information.
 
- **Contact Us**
+### Contact Us
 
-If you have any questions about the Mercent software, our Web site, company or service, you should first consult our Web site http://www.mercent.com/. This site includes links to company information, answers to frequently asked questions, and all of Mercent's current policies. 
+If You have any questions about Our company or service, You should first consult Our Site, which includes links to company information, answers to frequently asked questions, and all of Our current policies.
 
-If you have further questions or concerns, please contact us at http://www.mercent.com/contact/info, or write to
+If You have further questions or concerns, please contact us at <http://www.commercehub.com/contact-us>, or write to:
 
- Mercent Support 
+General Inquiries  
+Commerce Technologies, Inc.  
+255 Fuller Road, Suite 327  
+Albany, NY 12203
 
-1633 Westlake Ave N, 
-
-Suite 200 
-
-Seattle, WA 98109.
-
-Last revised March 31, 2006
+Last revised April 23, 2015
