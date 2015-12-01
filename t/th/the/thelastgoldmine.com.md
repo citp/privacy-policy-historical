@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelastgoldmine.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601232839id_/http%3A//www.thelastgoldmine.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelastgoldmine.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201041359id_/http%3A//www.thelastgoldmine.com/privacy.php) for the most accurate reproduction.*
 
 # The Last Goldmine
 
@@ -74,7 +74,7 @@ support@thelastgoldmine.com **
   
 Need To Access Your Membership?
 
-Please enter your email address and your Last Goldmine password to access your account. If you did not get your password by email after signing up, click the " Password " tab above and we will send it to you right now!
+Please enter your email address to access your account. 
 
 | [](http://jamielewis.553.clicksurecpa.com/)  
 This is an advertisement.  
