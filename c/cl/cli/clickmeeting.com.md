@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickmeeting.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624083523id_/http%3A//www.clickmeeting.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickmeeting.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202002537id_/http%3A//www.clickmeeting.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Video Conferencing, Web Conference - Privacy Policy - ClickMeeting
 
@@ -24,7 +24,7 @@ GetResponse collects personal information from Users who visit this Site and reg
 
 We may also ask Users to provide additional personal information such as (i) company name, (ii) title, (iii) educational institution and (iv) other company and (v) personal details that the User may opt out of by not entering data when asked. GetResponse uses the User's registration information to authenticate Users and provide access to the Service. GetResponse also uses the email addresses used in the registration information to communicate with our Users. From time to time, GetResponse may contact the User via email to notify them of changes to its Service and scheduled maintenance.
 
-The User agrees and acknowledges that their information collected through our websites and related Services may be transferred across national boundaries and stored and processed in any of the countries around the world in which GetResponse maintains offices and data centers, including the United States. As for the countries from outside of the European Economic Area, GetResponse shall cooperate with only such entities that have joined the U.S.-EU Safe Harbor program.
+The User agrees and acknowledges that their information collected through our websites and related Services may be transferred across national boundaries and stored and processed in any of the countries around the world in which GetResponse maintains offices and data centers, including the United States. As for the countries from outside of the European Economic Area, GetResponse shall cooperate only with entities from countries which ensure an adequate level of personal data protection. 
 
 Information that is provided by meeting organizers such as: User name, email address and any other business contact and meeting subject contact are considered confidential to the User. When the Participant registers with one of our Users for an online transmission, that information is provided to the User. GetResponse may store that information to fulfill our obligations to our Users. GetResponse will not use the information to send marketing information for GetResponse services or third party offers to the Participants. The User and Participants should be aware that any personal information they submit while in-session and chatting can be read, collected or used by the User and other Participants. GetResponse will not view information except as necessary to appropriately support the Service.
 
@@ -46,7 +46,7 @@ Participants data processing may be outsourced as regards email address and othe
 
 Further passing of the job of data processing may take place only within the limits, and for the purpose of proper provision, of the Service.
 
-As for the countries from outside of the European Economic Area, GetResponse shall cooperate with only such entities that have joined the U.S.-EU Safe Harbor program.
+As for the countries from outside of the European Economic Area, GetResponse shall cooperate only with entities from countries which ensure an adequate level of personal data protection.
 
 GetResponse declares that it provides security measures protecting the databases as defined in Articles 36– 39 of the Act, and meets the technical and organizational requirements specified in the provisions of Article 39a of the Act.
 
