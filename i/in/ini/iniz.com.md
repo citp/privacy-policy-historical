@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iniz.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123716id_/http%3A//iniz.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iniz.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201095541id_/https%3A//iniz.com/privacypolicy.html) for the most accurate reproduction.*
 
 # INIZ - Privacy Policy
 
@@ -54,10 +54,12 @@ As part of the California Online Privacy Protection Act, all users of our site m
 **This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 **Terms and Conditions  
-**Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [here](https://web.archive.org/web/20140625123716id_/http%3A//iniz.com/terms.html).
+**Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [here](https://web.archive.org/web/20151201095541id_/https%3A//iniz.com/terms.html).
 
 **Your Consent  
 **By using our site, you consent to our privacy policy.
 
 **Changes to our Privacy Policy  
 **If we decide to change our privacy policy, we will update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
+
+Last modified: Thursday 3rd July 2014 - 23:17 BST
