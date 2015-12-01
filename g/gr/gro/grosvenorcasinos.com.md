@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grosvenorcasinos.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414224453id_/http%3A//www.grosvenorcasinos.com/static/termsandconditions/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grosvenorcasinos.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201185546id_/http%3A//www.grosvenorcasinos.com/static/termsandconditions/%23privacy) for the most accurate reproduction.*
 
 # grosvenorcasinos.com Terms and Conditions
 
@@ -62,11 +62,19 @@ We may make changes to our Terms of Use at any time. We will make reasonable eff
 
 3.3 We may refuse services, terminate your account, forfeit the balance of your account and recover any affected payouts, bonuses or winnings if, at any time, you are in breach of applicable laws, the Terms of Use or any other applicable terms and conditions, guidelines or policies.
 
-4\. **Proof of your age and identity**
+**4\. Proof of your age and identity**
 
 4.1 To register with us you must be at least 18 years of age and above the legal age for gambling in the jurisdiction in which you live (the “Appropriate Age”), as underage gambling is an offence. We may request proof of age and residency documentation from you at any time which you agree to provide to us promptly. If you are subsequently found to be under the Appropriate Age at the time you placed transactions with us (or we are unable to verify your age for any reason) your account will be closed, all transactions placed whilst you were under the Appropriate Age will be voided and all related funds deposited will be returned. However we shall not be obliged to pay any winnings which might otherwise have been payable.
 
 4.2 We are also required to comply with anti-money laundering legislation and we may request proof of identity information from you from time to time, which you agree to provide to us promptly. In particular, we may undertake a search with Experian for the purpose of verifying your identity. To do so Experian may check the details you supply against any particulars on any database (public or otherwise) to which they have access. They may also use your details in the future to assist other companies for verification purposes. A record of the search will be retained.
+
+4.3 You may sometimes be asked to provide background information about yourself and the source of the funds used to play on our websites. We may be required to obtain this information because:
+
+  a)We seek to ensure that our customers enjoy their play and do so within their means.  This is a part of our “Keep it Fun” responsible gambling policy.  
+
+  b)If customers regularly spend higher amounts with us, like all operators we have a legal obligation to show that the money being spent is legitimate.  This does not mean that we are suspicious about you personally. 
+
+4.4 By registering with this site, you agree to provide any appropriate information needed to meet the requirements mentioned above
 
 5\. **Geographical restrictions**
 
@@ -84,7 +92,7 @@ If any of your personal account details or financial information relevant to you
 
 7\. **Your use of our website**
 
-7.1 We may refuse to register you and/or to suspend and/or terminate your account at any time and/or to refuse to accept any wager or transaction. We shall not be liable to you in any way for any loss or damages that may result from any such action. In addition, we reserve the right to refund to you or withhold any payment of monies from or into your account if there is manipulation of our financial system or evidence thereof of a breach of any applicable law, regulation or any of the Terms of Use.
+7.1 We may refuse to register you and/or to suspend and/or terminate your account at any time and/or to refuse to accept any wager or transaction. We shall not be liable to you in any way for any loss or damages that may result from any such action. In addition, we reserve the right to refund to you or withhold any payment of monies from or into your account if there is suspicion or evidence of any of the following: manipulation of our financial system, a breach of any applicable law, regulation or any of the Terms of Use.
 
 7.2 Use of your account otherwise than in accordance with the Terms of Use or any other abuse of your account is strictly prohibited.
 
@@ -180,7 +188,7 @@ We do not accept any liability for errors on any of the websites or software or 
 
 14.1 If you wish to take an enforced break from gaming, you can request that we prevent you from accessing your account. If you choose to do this, it will be a minimum of six months before you may apply for reinstatement.
 
-14.2 You may make such a request by contacting our customer services through any of the methods listed in section 1 above. Please include your full name, address, username and date of birth in your contact with us and please also tell us the reason why you wish to self-exclude from our website.
+14.2 You may make such a request by contacting our customer services through any of the methods listed in section 1 above or by utilising our website feature for self-exclusion. Please include your full name, address, username and date of birth in your contact with us and please also tell us the reason why you wish to self-exclude from our website.
 
 14.3 Use of this opt-out facility will result in your account being blocked for a minimum of six months. We will return any withdrawable balance of your account to you and we will not accept wagers from your account during this period. During the period in which you are excluded, you must not attempt to re-open your account or try to open new accounts.
 
@@ -219,22 +227,23 @@ We do not accept any liability for errors on any of the websites or software or 
 
 17.4 You can find more information about the complaints process on our website.
 
-17.5 Customers who are dissatisfied with the outcome of a complaint may raise the matter with the Alderney Gambling Control Commission in accordance with the provisions of this section 17.
+17.5 Customers who are dissatisfied with the outcome of a complaint may raise the matter with the Independent Betting Adjudication Service in accordance with the provisions of this section 17.
 
-17.6 We have appointed the Alderney Gambling Control Commission (AGCC) for Alternative Dispute Resolution (ADR). You have free right of access to the ADR function. AGCC may be contacted in this respect at info@agcc.gg.
+17.6 We have appointed the Independent Betting Adjudication Service (IBAS) for Alternative Dispute Resolution (ADR). You have free right of access to the ADR function. IBAS may be contacted in this respect at www.ibas-uk.com.
 
-17.7 You accept that AGCC will not arbitrate on matters already or that during the arbitration become, subject to court action, or on matters which in AGCC’s opinion are more properly referred to the regulator as breaches of regulation.
+17.7 You accept that IBAS will not arbitrate on matters already or that during the arbitration become, subject to court action, or on matters which in IBAS’s opinion are more properly referred to the regulator as breaches of regulation.
 
-17.8 The AGCC will only arbitrate on a dispute if you:
+17.8 The IBAS will only arbitrate on a dispute if you:
 
-  * 17.8.1 have previously raised the dispute with us and documented in writing the substance of the dispute;
-  * 17.8.2 promptly make available to AGCC, on request, all records on the subject of the dispute and the relevant activity and all relevant correspondence;
-  * 17.8.3 consent to the sharing by us of your personal data with AGCC for this purpose;
-  * 17.8.4 agree to be bound by the ruling of AGCC, save that appeal against a ruling may be made to the Executive Director of AGCC but only on the grounds that the dispute has been so seriously mishandled by AGCC’s ADR team as to result in manifest unfairness.
+    17.8.1 have previously raised the dispute with us and documented in writing the substance of the dispute;
 
+    17.8.2 promptly make available to IBAS, on request, all records on the subject of the dispute and the relevant activity and all relevant correspondence;
 
+    17.8.3 consent to the sharing by us of your personal data with IBAS for this purpose;
 
-17.9 You accept and agree that AGCC will incur no liability of any sort arising out of or in connection with its role as ADR.
+    17.8.4 agree to be bound by the ruling of IBAS, save that appeal against a ruling may be made to the Chief Executive of IBAS but only on the grounds that the dispute has been so seriously mishandled by IBAS’s ADR team as to result in manifest unfairness.
+
+17.9 You accept and agree that IBAS will incur no liability of any sort arising out of or in connection with its role as ADR.
 
 18\. **Software**
 
@@ -260,7 +269,7 @@ Unless we have expressly stated otherwise, nothing in the Terms of Use shall cre
 
 The Terms of Use are governed by, and shall be interpreted in accordance with, the laws of Alderney and you submit to the non-exclusive jurisdiction of the courts of Alderney.
 
-Last updated on: 22 December 2014
+Last updated on: 8th July 2015
 
 * * *
 
@@ -410,4 +419,4 @@ Telephone number: 0800 083 1990
 
 E-mail: [support@grosvenorcasinos.com](mailto:support@grosvenorcasinos.com)
 
-Last updated on: 30 September 2014
+Last updated on: 7th June 2015
