@@ -1,37 +1,26 @@
-> *The following text is extracted and transformed from the shop601.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426124815id_/http%3A//www.shop601.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop601.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201155617id_/http%3A//shop601.com/privacy-policy) for the most accurate reproduction.*
 
-# Melissa Shoes | Privacy | Shop601.com
+# Privacy Policy
 
-**PRIVACY POLICY** _(Last updated November 22, 2011)_
+**PRIVACY POLICY**
 
 SHOP 601 and its parent, subsidiaries and affiliates (collectively, “SHOP 601,” “we,” or “us”) are committed to providing you with the best service. In order to do so, we must gather, use and share certain personal information. We recognize the importance of our customers’ privacy, and take a number of steps to protect that privacy.
 
-This privacy statement discloses the privacy practices for **www.SHOP601.COM,** and establishes obligations and expectations in respect to your use of the site. We want you to be aware of the information we collect, how we use it and with whom we share it. This Policy applies only to the Site and does not apply to our partnered sites or our off-line collection of information. We encourage our users who visit external sites from links within shop601.com to read the privacy statements of those sites, as their privacy practices may differ from ours.
+This privacy statement discloses the privacy practices for  **www.SHOP601.COM,  **and establishes obligations and expectations in respect to your use of the site. We want you to be aware of the information we collect, how we use it and with whom we share it. This Policy applies only to the Site and does not apply to our partnered sites or our off-line collection of information. We encourage our users who visit external sites from links within shop601.com to read the privacy statements of those sites, as their privacy practices may differ from ours.
 
-We reserve the right to revise or make changes to this Policy at any time. We will communicate any such changes on this page. The date of the latest Policy revision can be found on the top of this page. It is a good idea to bookmark this page and review it periodically to ensure familiarity with the most current version of this Policy. Your continual use of the Site subsequent to any changes to this Policy will mean that you accept such changes. At any point should you wish to remove any portion of your personal information from our database, please notify us at [SUPPORT@SHOP601.com](mailto:SUPPORT@SHOP601.com).
+We reserve the right to revise or make changes to this Policy at any time. We will communicate any such changes on this page. The date of the latest Policy revision can be found on the top of this page. It is a good idea to bookmark this page and review it periodically to ensure familiarity with the most current version of this Policy. Your continual use of the Site subsequent to any changes to this Policy will mean that you accept such changes. At any point should you wish to remove any portion of your personal information from our database, please notify us at [SUPPORT@SHOP601.com](mailto:SUPPORT@SHOP601.com).
 
 BY VISITING THE SITE YOU CONSENT TO OUR USE OF ANY INFORMATION PROVIDED TO US OR THAT WE COLLECT, IN ACCORDANCE WITH THIS POLICY AND THE TERMS OF USE. IF YOU DO NOT AGREE TO THIS POLICY AND THE TERMS OF USE, DO NOT VISIT OR USE THE SITE.
 
-If you have questions or concerns regarding this statement, you should first contact us via e-mail at [SUPPORT@SHOP601.COM](mailto:SUPPORT@SHOP601.COM). If you prefer to write us our postal address is below.
+If you have questions or concerns regarding this statement, you should first contact us via e-mail at [SUPPORT@SHOP601.COM](mailto:SUPPORT@SHOP601.COM). If you prefer to write us our postal address is below.
 
 **520 W 27TH STREET, SUITE 601, NEW YORK, NEW YORK, 10018 USA**
 
 **PHONE: (646) 395-8479**
 
   
-We want you to be aware of the information we collect, how we use it and with whom we share it. SHOP 601’S privacy/security policy will inform you about:
+We want you to be aware of the information we collect, how we use it and with whom we share it. SHOP 601’S privacy/security policy will inform you about the following 
 
-  * What personal information is being collected?
-  * How is your personal information being used?
-  * With whom do we share your personal information?
-  * How do I access, update, or delete my personal information?
-  * What information will be disclosed if required by law?
-  * What choices are available to you regarding the collection, use and distribution of the information and how you can correct and inaccuracies in information?
-  * What kind of security procedures are in place to protect the loss, misuse or alteration of information under our control?
-
-
-
-  
 **_What personal information is being collected?_**
 
 When you visit the SHOP601.com web site, in order for us to provide you with the products or services that you have requested, you may be asked to provide us with some personally identifiable information. We collect and retain two types of information from site visitors: (i) personal information voluntarily provided by individual visitors when interacting on the site, or on certain other occasions, such as via forms or in emails; and (ii) tracking data, which is automatically collected from every site visitor and recorded on our log files.. For example, when you order a product, we may ask you to become a registered user of our site, during which you will be asked for your name, shipping and billing addresses, your date of birth, your e-mail address, and your credit card number or other payment-related information. In addition, we may keep a record of any correspondence, including any Information contained therein.  
@@ -39,7 +28,7 @@ You may decline to provide any personal information, but this may prohibit regis
 
 In an effort to improve our site we may collect non-personal information about how users navigate through the site. Without limitation, we may collect information regarding the number and frequency of visits to the site, viewed and/or purchased items, information on websites accessed prior to and following your visit to the site, the software used to access the site, your IP address and Internet service provider-related information, however, that information typically does not contain any personally identifiable information about you. The tracking data we record may include the location of your computer.
 
-_Cookies._ We use cookies to enhance your experience while using the Site. "Cookies" are small pieces of information that a website transfers to your computer's hard drive for record-keeping purposes. Cookies facilitate web browsing by performing certain functions, such as saving passwords and personal preferences, in connection with your use of a particular website. Your browser is most likely set to accept cookies, but you are always free to decline our cookies if your browser permits. If you choose to set your browser to prohibit cookies, it is possible that some of the Services provided on the Site will not function properly.
+_Cookies._  We use cookies to enhance your experience while using the Site. "Cookies" are small pieces of information that a website transfers to your computer's hard drive for record-keeping purposes. Cookies facilitate web browsing by performing certain functions, such as saving passwords and personal preferences, in connection with your use of a particular website. Your browser is most likely set to accept cookies, but you are always free to decline our cookies if your browser permits. If you choose to set your browser to prohibit cookies, it is possible that some of the Services provided on the Site will not function properly.
 
 **_How is your personal information being used?_**
 
@@ -56,34 +45,36 @@ CLIENT.com may make certain Information, including, but not limited to, your nam
 
 **_How do I access, update, or delete my personal information?_**
 
-If you are a registered user of the web site, you can manage many aspects of your registration information. For security reasons, however, some parts of your personal information may not be changed online and may require you to call or write to us in order to verify your identity before such changes can be made. The online registration area will also permit you to exercise control over the use of your e-mail address, allowing you to opt-out of future e-mail messages from this web site. Unfortunately, due to various legal and recordkeeping requirements, we may be required to maintain records about your purchases or other activities on this website. However, you will always be permitted to opt-out of any marketing uses of information stored about you. If you prefer to manage your personal information via other means, you may contact us by postal mail at: 
+If you are a registered user of the web site, you can manage many aspects of your registration information. For security reasons, however, some parts of your personal information may not be changed online and may require you to call or write to us in order to verify your identity before such changes can be made. The online registration area will also permit you to exercise control over the use of your e-mail address, allowing you to opt-out of future e-mail messages from this web site. Unfortunately, due to various legal and recordkeeping requirements, we may be required to maintain records about your purchases or other activities on this website. However, you will always be permitted to opt-out of any marketing uses of information stored about you. If you prefer to manage your personal information via other means, you may contact us by postal mail at: 
 
 SHOP 601  
 520 W 27TH STREET, SUITE 601  
 NEW YORK, NEW YORK, 10018  
 USA
 
-or by [SUPPORT@SHOP601.COM](mailto:SUPPORT@SHOP601.COM) e-mailing us. 
+or by [SUPPORT@SHOP601.COM](mailto:SUPPORT@SHOP601.COM) e-mailing us. 
 
-**_What information will be disclosed if required by law?_**
+ ** _What information will be disclosed if required by law?_**
 
-If required by law, we may provide any and all information we have about you to law enforcement or other government agencies, pursuant to a subpoena, warrant, or other order by a court of competent jurisdiction. In all cases, we will require written documentation of the request, proof of the identity of the law enforcement official making the request, and we will take steps to authenticate the validity of the request. Any law enforcement or government agency request submitted with less than a court-issued order will be evaluated on a case-by-case basis according to the need and urgency, as well as the particular law enforcement agency making the request. 
+If required by law, we may provide any and all information we have about you to law enforcement or other government agencies, pursuant to a subpoena, warrant, or other order by a court of competent jurisdiction. In all cases, we will require written documentation of the request, proof of the identity of the law enforcement official making the request, and we will take steps to authenticate the validity of the request. Any law enforcement or government agency request submitted with less than a court-issued order will be evaluated on a case-by-case basis according to the need and urgency, as well as the particular law enforcement agency making the request. 
 
-**_What choices are available to you regarding the collection, use and distribution of the information and how you can correct any inaccuracies in information?_** **  
-** If you do not want to receive e-mail from us in the future, please let us know by calling, sending an e-mail, or by writing to us at the above postal address and telling us that you do not want to receive e-mail from our company. 
+ ** _What choices are available to you regarding the collection, use and distribution of the information and how you can correct any inaccuracies in information?_** **  
+**If you do not want to receive e-mail from us in the future, please let us know by calling, sending an e-mail, or by writing to us at the above postal address and telling us that you do not want to receive e-mail from our company.  
 
-**_What kind of security procedures are in place to protect the loss, misuse or alteration of information under our control?_  
+ ** _What kind of security procedures are in place to protect the loss, misuse or alteration of information under our control?_  
 **  
-_Secure Ordering Process  
+ _Secure Ordering Process    
 _  
-Any credit card information you enter on our site is strongly encrypted by industry-standard protocol, SSL (Secure Sockets Layer). The SHOP601.com site uses SSL to communicate with secure browsers like Netscape and Internet Explorer. These browsers encrypt your credit card and personal information in a way that makes it extremely difficult for anyone to intercept and misuse while being transmitted between your computer and our server. 
+Any credit card information you enter on our site is strongly encrypted by industry-standard protocol, SSL (Secure Sockets Layer). The SHOP601.com site uses SSL to communicate with secure browsers like Netscape and Internet Explorer. These browsers encrypt your credit card and personal information in a way that makes it extremely difficult for anyone to intercept and misuse while being transmitted between your computer and our server. 
 
-If you are still unsure of giving your credit card over the Internet, please feel free to phone, fax, or mail your order to us. 
+If you are still unsure of giving your credit card over the Internet, please feel free to phone, fax, or mail your order to us. 
 
-_Children  
+ _Children    
 _  
-In accordance with federal law, we do not knowingly collect personally identifiable information from children under age 13 without the verifiable permission of a parent or guardian. If you are under age 13, you are welcome to browse our web site. However you are not permitted to use any of the features of our site that require the collection of any personally identifiable information. If we determine that we have erroneously collected a child's information, we will immediately undertake to delete that data from our records. 
+In accordance with federal law, we do not knowingly collect personally identifiable information from children under age 13 without the verifiable permission of a parent or guardian. If you are under age 13, you are welcome to browse our web site. However you are not permitted to use any of the features of our site that require the collection of any personally identifiable information. If we determine that we have erroneously collected a child's information, we will immediately undertake to delete that data from our records. 
 
-_Changes in this Privacy Statement  
+ _Changes in this Privacy Statement    
 _  
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+
+_This policy was revised on  November 22, 2011._
