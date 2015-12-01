@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rainmakerplatform.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623050932id_/http%3A//my.newrainmaker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainmakerplatform.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201221127id_/http%3A//rainmakerplatform.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Rainmaker Platform
 
 The NewRainmaker.com Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. New Rainmaker is a service offering of Copyblogger Media LLC (“Copyblogger Media”), and references in this document to “us,” “our,” and “we” refer to Copyblogger Media.
 
