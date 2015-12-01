@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the temando.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615060430id_/http%3A//temando.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the temando.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201151652id_/http%3A//temando.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | temando
+# Privacy Policy | Temando
 
 [](https://privacy.truste.com/privacy-seal/Temando/validation?rid=97cff6d5-e7d5-470f-a5f7-e0f371c25efb "TRUSTe online privacy certification")
 
