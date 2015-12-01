@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rcn.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410053556id_/http%3A//www.rcn.com/new-york/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcn.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201064704id_/http%3A//www.rcn.com/hub/about-rcn/policies-and-disclaimers/privacy-policy) for the most accurate reproduction.*
 
-# RCN New York City | Policies & Disclaimers | Privacy Policy
+# RCN Privacy Policy
 
 ### RCN Privacy Policy 
 
@@ -10,7 +10,7 @@ RCN understands how important personal privacy is to you and we are committed to
 **As a customer of RCN, you are agreeing to the terms of this Privacy Policy, and revisions made to the Privacy Policy from time to time (see VI. Revision of This Policy), unless and until you terminate your RCN services.  
 **
 
-Summary  |  Personal Information Defined  |  Collection of Information  |  Privacy and Use of Information  |  Customer Agreement  |  Links to Other Web Sites  |  Revision of this Policy 
+[Summary ](http://www.rcn.com/hub/about-rcn/policies-and-disclaimers/privacy-policy/#Summary) |  [Personal Information Defined ](http://www.rcn.com/hub/about-rcn/policies-and-disclaimers/privacy-policy/#PersonalInfo) |  [Collection of Information ](http://www.rcn.com/hub/about-rcn/policies-and-disclaimers/privacy-policy/#CollOfInfo) |  [Privacy and Use of Information ](http://www.rcn.com/hub/about-rcn/policies-and-disclaimers/privacy-policy/#UseOfInfo) |  [Customer Agreement ](http://www.rcn.com/hub/about-rcn/policies-and-disclaimers/privacy-policy/#CustomerAgreement) |  [Links to Other Web Sites ](http://www.rcn.com/hub/about-rcn/policies-and-disclaimers/privacy-policy/#Links) |  [Revision of this Policy ](http://www.rcn.com/hub/about-rcn/policies-and-disclaimers/privacy-policy/#Revision)
 
 **Summary**
 
