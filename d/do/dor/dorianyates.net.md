@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dorianyates.net privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422014553id_/http%3A//www.dorianyatesnutrition.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dorianyates.net privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201015927id_/http%3A//www.dorianyatesnutrition.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at Dorian Yates Nutrition
+
+### PRIVACY POLICY
 
 Dorian Yates Nutrition respects the privacy of every individual who visits its Web Site. From time to time Dorian Yates Nutrition may collect data from you such as your name, postal address, e-mail address, telephone number, comments and the like.
 
@@ -20,7 +22,7 @@ If you have submitted information to Dorian Yates Nutrition through its Web Site
 
 †These statements have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat or prevent any disease. Dorian Yates Nutrition does not condone the use of illegal anabolic steroids.
 
-## Cookie Policy
+### COOKIE POLICY
 
 Cookies are tiny text files stored on your computer when you visit certain web pages. We use cookies to enable the smooth use of our website, in some cases keep track of whats in your basket and track your visit using Google Analytics.
 
@@ -47,7 +49,7 @@ __utma
 __utmb  
 __utmc  
 __utmv  
-__utmx  | This cookie enable the function of [Google Analytics Software](http://www.google.com/analytics/). This helps us take and analyse visitor information such as browser usage, new visitor numbers, response to marketing activity and visiting times. That information helps us to improve the website and your website experience, and to make our marketing campaigns relevant.
+__utmx | This cookie enable the function of [Google Analytics Software](http://www.google.com/analytics/). This helps us take and analyse visitor information such as browser usage, new visitor numbers, response to marketing activity and visiting times. That information helps us to improve the website and your website experience, and to make our marketing campaigns relevant.
 
 The data stored by these cookies can be seen only by our team and Google and **does not show or collect** any confidential information. For more information on Google Cookies, please see the [Google site](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies#cookiesSet)  
   
