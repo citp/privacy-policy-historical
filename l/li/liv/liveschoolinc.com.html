@@ -1,19 +1,71 @@
-<!--The following is the downloaded HTML source of the liveschoolinc.com privacy policy that was archived on 2015-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150531005107id_/http%3A//whyliveschool.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the liveschoolinc.com privacy policy that was archived on 2015-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151201074344id_/http%3A//whyliveschool.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html data-wf-site="5280bc2f2b403ef048000105" data-wf-page="546d545a37615cec2ba305fa"><head><meta charset="utf-8"><title>Privacy Policy - Liveschool</title><meta name="description" content="A free app that helps your team work together, get rid of classroom management paperwork, and motivate students with consistent feedback and positive rewards."><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="generator" content="Webflow"><link rel="stylesheet" type="text/css" href="https://daks2k3a4ib2z.cloudfront.net/5280bc2f2b403ef048000105/css/liveschool.webflow.4ca9ccc36.css"><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0018/7108.js?439006" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script><script>WebFont.load({
+<!DOCTYPE html><html data-wf-site="55a6e15e6c45ad5f144d7901" data-wf-page="55a6e15e6c45ad5f144d7905"><head><meta charset="utf-8"><title>Privacy Policy - Liveschool</title><meta name="description" content="A free app that helps your team work together, get rid of classroom management paperwork, and motivate students with consistent feedback and positive rewards."><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="generator" content="Webflow"><link rel="stylesheet" type="text/css" href="https://daks2k3a4ib2z.cloudfront.net/55a6e15e6c45ad5f144d7901/css/liveschool15104030.webflow.7b1df2683.css"><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0018/7108.js?439006" async="" type="text/javascript"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script><script>WebFont.load({
   google: {
-    families: ["Merriweather:300,400,700,900","Open Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic","Montserrat:400,700","Oswald:300,400,700","Changa One:400,400italic","Bitter:400,700,400italic","Varela Round:400"]
+    families: ["Open Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic","Oswald:300,400,700","Montserrat:400,700","Changa One:400,400italic","Bitter:400,700,400italic","Open Sans Condensed:300,300italic,700"]
   }
 });</script><script type="text/javascript" src="https://use.typekit.net/viy1qpe.js"></script><script type="text/javascript">try{Typekit.load();}catch(e){}
-</script><script type="text/javascript" src="https://daks2k3a4ib2z.cloudfront.net/0globals/modernizr-2.7.1.js"></script><link rel="shortcut icon" type="image/x-icon" href="https://y7v4p6k4.ssl.hwcdn.net/placeholder/favicon.ico"><link rel="apple-touch-icon" href="https://daks2k3a4ib2z.cloudfront.net/img/webclip.png"><meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, user-scalable=0">
+</script><script type="text/javascript" src="https://daks2k3a4ib2z.cloudfront.net/0globals/modernizr-2.7.1.js"></script><link rel="shortcut icon" type="image/x-icon" href="https://daks2k3a4ib2z.cloudfront.net/55a6e15e6c45ad5f144d7901/55d7fdb9b95698262f3508ec_LiveSchool%20Favicon_32.png"><link rel="apple-touch-icon" href="https://daks2k3a4ib2z.cloudfront.net/55a6e15e6c45ad5f144d7901/55d7fdbeb95698262f3508ed_LiveSchool%20Favicon_256.png"><meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, user-scalable=0">
 <script charset="ISO-8859-1" src="//fast.wistia.com/assets/external/popover-v1.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script charset="ISO-8859-1" src="//fast.wistia.com/assets/external/E-v1.js"></script>
-<script src="http://www.schoolculturecentral.com/CTA.js"></script>
+<script src="http://schoolculturecentral.com/lsimatt2/CTA.js"></script>
 
 <script>
+$(document).ready(function(){
+    if($("#redirect").length==1)
+    {
+        window.location.assign("http://www.whyliveschool.com");
+    }
+    
+    if($("#videoHolder").length==1)
+    {
+                $.getScript("http://www.schoolculturecentral.com/VideoHP.js");
+                $(window).resize(function(){
+        	            centerPlayer();
+        	            //alert();
+                    });   
+    }
+    
+            if($("#page")=="404")
+            {
+                window.location.assign("http://www.whyliveschool.com"); 
+            }
+            
+            if($("#page").text()=="pricing")
+            {
+                window.location.assign("http://schools.whyliveschool.com");  
+                //console.log("redirect");
+            }
 
+      var query = location.search.substr(1);
+      var result = {};
+      query.split("&").forEach(function(part) {
+        var item = part.split("=");
+        result[item[0]] = decodeURIComponent(item[1]);
+      });
+		
+    	if(result.a)
+    	{
+            mixpanel.track("page viewed", {
+                "page":"home",
+                "a":result.a
+            });        	
+    	}
+    	else{
+    	   mixpanel.track("page viewed", {
+            "page":"home"
+             });
+    	}
+
+
+
+
+
+
+
+});
 function createCookie(name,value,days) {
 	if (days) {
 		var date = new Date();
@@ -38,12 +90,12 @@ function readCookie(name) {
 function eraseCookie(name) {
 	createCookie(name,"",-1);
 }
-
+/*
 (function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
 for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
 mixpanel.init("79723aa3a9d04a8f196a271f14d5a99a");
 
-
+*/
 
 
 
@@ -298,182 +350,11 @@ mixpanel.init("79723aa3a9d04a8f196a271f14d5a99a");
                     
                 }
                 
-              function testSp()
-                {
-                    if($("#page").text()!="home")
-                    {
-                        mixpanel.track('page viewed', {
-                        'page name' : document.title,
-                        'pageID' : $("#page").text(),
-                        'affiliate' : getQueryVariable("a") || 0,
-                        'url' : window.location.pathname});
-                        
-                        mixpanel.register({'affiliate' : getQueryVariable("a") || 0});
-                        
-                        mixpanel.people.set({
-                            '$affiliate':getQueryVariable("a") || 0
-                        });
-                        mixpanel.identify();
-                        
-                    }
-                    if($("#page").text()=="home")
-                    {
-                        mixpanel.track('splitter');
-                        
-                        var affiliate = getQueryVariable("a") || 0;
-                        
-                        var aURL = "http://www.whyliveschool.com/homepage/?a=" + affiliate;
-                        var bURL = "http://www.whyliveschool.com/2b/?a=" + affiliate;
-                        var x = readCookie('version');
-                        if(x)
-                        {
-                            if(x=="0002A")
-                            {
-                               var goToURL = aURL;
-                            }
-                            else if(x=="0002B")
-                            {
-                               var goToURL = bURL;
-                            }
-                            else
-                            {
-                                eraseCookie('version');
-                            }
-                            
-                        }
-                        if (!x){
-                            var randomNumber = Math.random();
-                            var version = "0001";
-                            if(randomNumber < .5)
-                            {
-                                version += "A";
-                                createCookie('version','0002A',21); 
-                                var goToURL = aURL;
-
-                            }
-                            else{
-                                version += "B";
-                                createCookie('version','0002B',21);  
-                                 var goToURL = bURL;
-                                
-                            }
-                                                       
-                        }
-                        
-                        setTimeout(function(){window.location.assign(goToURL)}, 200);
-                    }
-                }       
-    
-         function doOnLoad(){
-             
-
-             
-            testSp(); 
-            
-            if($("#page").text()=="0002A" || $("#page").text()=="0002B")
-            {
-                $.getScript("http://www.schoolculturecentral.com/VideoHP.js");
-                $(window).resize(function(){
-        	            centerPlayer();
-        	            //alert();
-                    });
-
-            }
-            
-            if($("#page")=="404")
-            {
-                window.location.assign("http://www.whyliveschool.com"); 
-            }
-            
-            if($("#page").text()=="home-main" || $("#page").text()=="0001B")
-            {
-                setTimeout(function(){
-                    showAd();
-                },7500);
-                
-                
-                $("#adOverlay").css("display","none");   
-                $("#pilotAd").css("display","none"); 
-                
-
-                
-            }
-            
-            if($("#page").text()=="pricing")
-            {
-                window.location.assign("http://schools.whyliveschool.com");  
-                //console.log("redirect");
-            }
-             
-            if($("#page").text()=="home-main" || $("#page").text()=="0001B")
-            //home-main
-            
-            {
-               mixpanel.track('Pricing Visit');
-               
-          /* hide for development
-                $(window).keydown(function(evt) {
-                      if (evt.which == 50) { // ctrl
-                       pilotClick(true);
-                      }
-                    }); */
-                    
-                    //initialize styles
-	    			$("#overlay").css("display","none");
-	    			$("#pilotOffer").css("display","none");      
-	    			
-	    		/*
-	    			$("#pilotStep2").css("color","#ccc");
-	    			$("#pilotLink2").css("color","#bbb");
-	    			$("#pilotStep3").css("color","#ccc");
-	    			$("#pilotLink3").css("color","#bbb");	    			
-	    			$("#pilotLink4").css("color","#bbb");
-	    		*/	
-	    			
-	    			$("#pilotForm1").css("display","none");
-	    			$("#pilotForm2").css("display","none");	    			
-	    			$("#pilotForm3").css("display","none");	    
-	    		
-	    		//	deActivateButton("#pilotForm0Button");
-                    deActivateButton("#pilotForm1Button");
-                    deActivateButton("#pilotForm2Button");                    
-                    
-                    //add form 1 listeners
-                    $("#pilotFname").on("keyup", function(){validateForm1()});
-                    $("#pilotLname").on("keyup", function(){validateForm1()}); 
-                    $("#pilotEmail").on("keyup", function(){validateForm1()});                     
-                    $("#pilotRole").on("change", function(){validateForm1()});
-                    $("#pilotSource").on("change", function(){validateForm1()});
-
-                    //add form 2 listeners
-                    $("#pilotSchoolName").on("keyup", function(){validateForm2()});
-                    $("#pilotAddress").on("keyup", function(){validateForm2()}); 
-                    $("#pilotCity").on("keyup", function(){validateForm2()});                     
-                    $("#pilotState").on("change", function(){validateForm2()});
-                    $("#pilotZip").on("keyup", function(){validateForm2()});
-           
-            }
-             
-             //$("#TEST-CTA-explanation").text('Test message here');
-             var docWidth = $( document ).width();
-             
-             if(docWidth < 481)
-             {
-         
-                 $("#main-CTA-button").css( "display", "none" );
-                 $("#Mobile-Signup-Info").css( "display", "block" );
-             }
-             
-             if(document.getElementById("signal"))
-             {
-                //stuff for video load
-             }
-             
-         }
+      
 
 
 
-</script><script async="" type="text/javascript" src="//trackcmp.net/visit?actid=251537859&amp;e=&amp;r=&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150531005107id_%2Fhttp%253A%2F%2Fwhyliveschool.com%2Fprivacy-policy"></script>
+</script>
 <style>
 
 
@@ -524,93 +405,187 @@ mixpanel.init("79723aa3a9d04a8f196a271f14d5a99a");
             margin: 0;
         }
             
-        </style></head><body><div class="w-container"><div class="eula-paragraph headline" data-ix="ease-from-left">LiveSchool Privacy Policy</div><div class="eula-paragraph bold" data-ix="ease-from-left">Last Updated: May 5th, 2014</div><div class="eula-paragraph" data-ix="ease-from-left">We recognize that your privacy is important and take it
-seriously. This Privacy Policy describes LiveSchool’s policies and procedures
-on the collection, use, and disclosure of your information when you access the
-LiveSchool website and blog (“Website”). 
-&nbsp;
-By accessing the Website, you consent to the practices outlined
-in this Privacy Policy. LiveSchool reserves the right to amend this Privacy
-Policy, and if we do, any such changes will be included on this page so current
-privacy information will always be available to you. The Privacy Policy will
-also note the date on which it was last changed.</div><div class="eula-paragraph bold" data-ix="ease-from-left">Personal Information</div><div class="eula-paragraph" data-ix="ease-from-left">The only personal information collected by LiveSchool is
-personal information that is voluntarily provided by users. We don't collect
-personal information without your knowledge. We don’t sell your personal
-information to third parties. We will use your personal information to fulfill
-requests made by you and for other business purposes of LiveSchool and any of
-its successors. We may also use your personal information to send you marketing
-materials or other information about LiveSchool and its products and services,
-or LiveSchool’s partners, advertisers, and other parties, goods, or services
-that may be of interest to you.</div><div class="eula-paragraph" data-ix="ease-from-left">An example of how we may collect personal information is in
-connection with signing up for an account. The information you provide in
+        </style></head><body><div class="w-container"><div class="eula-paragraph headline">LiveSchool Privacy Policy</div><div class="eula-paragraph bold">Effective Date: July 6, 2015</div><div class="eula-paragraph bold">Who We Are</div><div class="eula-paragraph">LiveSchool, Inc. (“LiveSchool”) is a
+developer and provider of an award-winning classroom management and student
+motivation application (the “LiveSchool Service” or “Service”). Our mission is
+to help schools work together to improve culture and create great environments
+for students to learn.</div><div class="eula-paragraph">LiveSchool partners with schools to
+help teams work together to track and improve behavior through a school-wide
+behavior points and rewards system. Using any tablet, laptop, desktop, smartboard,
+or mobile device, teachers and administrators can award or deduct points, leave
+and view comments, print weekly “paycheck” reports, and withdraw points when
+students redeem points for teacher-designated incentives. &nbsp;The LiveSchool Service also includes a Parent
+Application and a Student Application for parents and students respectively to
+view teacher comments and check the status of points awarded and redeemed.</div><div class="eula-paragraph">LiveSchool recognizes that user
+privacy and student privacy are important and we take them both seriously. This
+Privacy Policy describes LiveSchool’s policies and procedures regarding the
+collection, use, and disclosure of your information when you access the
+LiveSchool website <a href="#">www.whyliveschool.com</a> (“Website”) and the LiveSchool
+Service. This Privacy Policy applies to our Website, our web-based LiveSchool
+Service, and our mobile application-based LiveSchool Service.</div><div class="eula-paragraph bold">Collection of Personal Information</div><div class="eula-paragraph">The Website and the Service may
+collect the following categories of personal information from you: first and
+last name, email address, school name and address (if you are a teacher), gender
+(as indicated by your voluntary selection of Mr., Ms., etc.), and telephone number (“Personal Information”).&nbsp; We only collect Personal Information when you provide it
+voluntarily to us. We don't collect Personal Information without your
+knowledge. We don’t sell your Personal Information to third parties.</div><div class="eula-paragraph bold">Collection of Non-Personal
+Information</div><div class="eula-paragraph">We automatically collect and store
+certain non-personal information concerning the traffic to our Website and the use
+of our Service, including, for example: the browser software you use and your
+operating system; the date and time you access our Website or the Service; and
+the internet protocol (IP) address of the website from which you linked to our
+Website or the Service. We use this information as anonymous aggregate data for
+business purposes such as to determine the number of visitors to different
+sections of our Website or our Service, to ensure our Website or our Service is
+working properly, and to help us make our Website or our Service more useful
+for our users.</div><div class="eula-paragraph indent"><em>Cookies<br></em><br>From time to time, we may place cookies on
+your computer to collect anonymous data related to your use of the Website or your
+use of the Service. Generally speaking, "cookies" are text files that
+are placed in your device's browser that can be used to help recognize your
+browser across different web pages, websites, and browsing sessions. &nbsp;LiveSchool uses cookies to provide certain
+features of our Website and of the LiveSchool Service. You have the ability to
+accept or decline cookies. &nbsp;Most web
+browsers automatically accept cookies, but you can usually modify your
+browser’s setting to decline cookies if you prefer. If you choose to decline
+cookies, certain features of our Website and of the LiveSchool Service may not
+function properly.</div><div class="eula-paragraph indent"><em>Mobile
+Device Identifiers &nbsp;
+</em><br><br>
+Many mobile devices have identifiers
+(“Device IDs”) that are accessible by mobile applications and which can be
+passed to LiveSchool with an advertisement request. Device IDs do not enable
+LiveSchool to identify individuals, but rather, may be used for administrative
+advertising purposes. &nbsp;For example,
+Device IDs may be used to limit the number of times a specific advertisement is
+presented to the same device, or to show that a device interacted with an advertisement
+(i.e. “clicked” on it, watched a video advertisement, or downloaded an
+application as a result of an advertisement). &nbsp;If LiveSchool stores a Device ID, it would be
+for these administrative advertising purposes only.</div><div class="eula-paragraph indent"><em>Location-Based
+Data </em><br><br>
+We do not collect any information
+that would allow us to track your location. However, from time to time, we may
+collect geo-location information, such as IP addresses, in order to detect your
+time zone or to detect when a new LiveSchool Service account may be affiliated
+with an existing LiveSchool Service account.&nbsp;
+We do not use your IP address to identify you directly.</div><div class="eula-paragraph bold">Use
+of Personal Information</div><div class="eula-paragraph">We use the Personal Information you
+voluntarily provide to us, or that we collect, to operate and enhance the
+LiveSchool Service, including personalizing the Service for you and for other
+users. For example, if a teacher creates a new LiveSchool account and that teacher
+is affiliated with a school that has an existing LiveSchool account, then we
+may use Personal Information to connect these users who are affiliated with the
+same school. By way of another example, the information you provide in
 registering for an account will be used by us to give you the information or
-service you are requesting. We may also use your name, phone number, email
-address, or home address to send you marketing materials and other information
-about LiveSchool and its products and services, or LiveSchool’s partners,
-advertisers, and other parties, goods or services that may be of interest to
-you. You may opt-out of receiving any additional information by following the
-clear instructions at the bottom of each email to opt out of future emails.</div><div class="eula-paragraph" data-ix="ease-from-left">Transactional emails for the purposes of maintaining your
-account are not communication of which you can opt out. If you would like to
-delete your account and stop receiving emails pertaining to your LiveSchool
-account, email support@liveschoolinc.com with the subject line “Cancel Account.”</div><div class="eula-paragraph bold" data-ix="ease-from-left">Children’s Privacy</div><div class="eula-paragraph" data-ix="ease-from-left">Protecting the privacy of children is especially important. Our
-website is not intended for children under 13 years of age. LiveSchool does not
-knowingly collect or solicit personal information from children under the age
-of 13 or knowingly allow such persons to register to use our Services. If you
-learn that our Services are being used by a child under the age of 13, please contact
-us at support@LiveSchool.com. If we become aware that we have collected
-personal information from a child under age 13 without verification of parental
-consent, we take steps to remove that information.</div><div class="eula-paragraph bold" data-ix="ease-from-left">Your California Privacy Rights</div><div class="eula-paragraph" data-ix="ease-from-left">California law permits users who are California residents to
-request and obtain from us once a year, free of charge, a list of the third
-parties to whom we have disclosed their personally identifiable information (if
-any) for their direct marketing purposes in the prior calendar year, as well as
-the types of personally identifiable information disclosed to those parties. If
-you are a California resident and would like to request this information,
-please submit your request in an email to support@LiveSchool.com.</div><div class="eula-paragraph bold" data-ix="ease-from-left">Traffic Data and Other Non-Personal Information</div><div class="eula-paragraph" data-ix="ease-from-left">We automatically collect and store certain non-personal
-information concerning the traffic to our website and web applications,
-including, for example: the browser software you use and your operating system;
-the date and time you access our sites; and the internet address of the site
-from which you linked to our website or web application. We use this
-information as anonymous aggregate data for business purposes such as to
-determine the number of visitors to different sections of a website, to ensure
-the site is working properly, and to help us make the website more useful. We
-also use this information to see where leads are generated from in an attempt
-to better optimize our ongoing internet marketing efforts.</div><div class="eula-paragraph" data-ix="ease-from-left">At this time, our website does not use persistent “cookies” or
-other tracking mechanisms that collect personally identifying information. We
-use session cookies to anonymously collect the date and time of the visit.
-Accepting session cookies on our site is voluntary; you may still use the site
-if you decline cookies.</div><div class="eula-paragraph" data-ix="ease-from-left">You may also provide us with other non-personal information. For
-example, you may provide us with information regarding how you learned about
-us, or you may provide us with information regarding why you are interested in
-our products or services. This information may be used by our marketing and
-product personnel to better optimize our ongoing marketing and product
-development efforts.</div><div class="eula-paragraph bold" data-ix="ease-from-left">Contests, Sweepstakes or Special Offers</div><div class="eula-paragraph" data-ix="ease-from-left">We may offer promotions, contests, or sweepstakes that may
-require that you enter contact information to qualify for entry. Collected data
-from promotions, contests, or sweepstakes may be used to process entries, send
-promotional materials, notify entrants, and may be shared with other companies
-in connection with these activities.</div><div class="eula-paragraph bold" data-ix="ease-from-left">Links to Other Websites</div><div class="eula-paragraph" data-ix="ease-from-left">Our website and web applications may contain links to other
-websites and may provide opportunities to publish certain information to third
-party websites or social media platforms. LiveSchool is not responsible for the
-content or privacy practices of that website, platform, or any other linked
-services. We encourage our users to be aware when they leave our website and
-web applications, and to read the privacy policies of each and every website
-that collects or publishes personal information. Your browsing and interaction
-on any other website, including those that have a link on our website, is
-subject to that website's own rules and policies.</div><div class="eula-paragraph bold" data-ix="ease-from-left">Third Party Service Providers</div><div class="eula-paragraph" data-ix="ease-from-left">LiveSchool works with certain third parties to provide our
-Services. These third parties may collect personal and non-personal information
-from users of our Services. For example, monetary transactions may be
-facilitated by a third party payment processor, in which case you and/or
-LiveSchool would share your information, including information about your
-financial accounts, with the processor, for this purpose. We encourage our
-users to read the privacy policies of any third parties. LiveSchool is not responsible
-for the content or privacy practices of any third parties. If you have
-questions about what third parties are involved with our Services, please
-contact us at support@LiveSchool.com.</div><div class="eula-paragraph bold" data-ix="ease-from-left">Security</div><div class="eula-paragraph" data-ix="ease-from-left">When you submit information via our Services we take efforts to
-protect your information both online and offline. Please keep in mind, however,
-that whenever you give out personal information online, such information is not
-always secure in transit. While we strive to protect your privacy and secure
-your information, we cannot guarantee the security of information sent over the
-internet, and you disclose such information at your own risk.</div><div class="eula-paragraph bold" data-ix="ease-from-left">Questions</div><div class="eula-paragraph" data-ix="ease-from-left">If you have any questions about our practices or this privacy
-policy, please contact us at support@LiveSchool.com, or send mail to:
+service you are requesting. From time to time, LiveSchool may use the school
+address associated with a teacher or school administrator in order to send
+tangible reward packs to a school for use with the LiveSchool Service.</div><div class="eula-paragraph">We use your Personal Information to
+fulfill requests made by you and for other internal business purposes of
+LiveSchool and any of its successors. If you are a teacher, we may also use
+your Personal Information to send you emails about LiveSchool and its products
+and services. You may opt-out of receiving these emails by following the clear
+instructions at the bottom of each email to opt-out of future emails.</div><div class="eula-paragraph">Please note however, that
+transactional emails, such as those emails sent for the purpose of maintaining
+your account, are not communications of which you can opt-out. If you would
+like to delete your account and stop receiving emails pertaining to your
+LiveSchool account, email <a href="mailto:support@liveschoolinc.com?subject=Cancel%20Account">support@liveschoolinc.com</a> with the subject line “Cancel
+Account.”</div><div class="eula-paragraph bold">Disclosure
+of Your Information</div><div class="eula-paragraph">We do not rent, sell, or provide Personal
+Information to third parties for their marketing purposes. However, we may
+share certain Personal Information and non-personal information we collect or
+receive with third parties who assist us in understanding your use of the
+Service. From time to time, these third parties may assist us by sending you an
+email regarding your use of the Service or regarding certain attributes of the
+Service that you may find useful given the products and services you have
+requested.</div><div class="eula-paragraph">In addition, there may be instances
+when LiveSchool may access or disclose your Personal Information or your
+non-personal information in order to:(i) protect the safety, security, and
+privacy of users of the Website or the Service or members of the public
+including under exigent circumstances; (ii) protect or defend the legal rights
+or property of LiveSchool; or (iii) comply with applicable law or legal
+process.</div><div class="eula-paragraph">From time to time, we may allow
+certain third party analytics service providers to include web beacons within
+the pages of our Website, giving them limited access to your non-personal information.
+Except for third party service providers who help us understand your use of the
+Service and assist us in sending email notifications to you regarding your use
+of the Service, none of the Personal Information that you provide to us is
+shared with our third party analytics service providers as part of our
+analytics program.</div><div class="eula-paragraph bold">Children’s Privacy Rights</div><div class="eula-paragraph">Although the LiveSchool mission is to help
+schools work together to improve culture and create great environments for
+students to learn, the LiveSchool Website is a general audience website and is
+not intended for children under the age of 13.&nbsp;
+However, when a school or teacher uses the LiveSchool Service, we will
+not require any student, regardless of age, to disclose any more personal information
+than is reasonably necessary for that student to use the Service.</div><div class="eula-paragraph">Parents and legal guardians, if your child is
+under the age of 13 and his or her school or teacher uses the LiveSchool
+Service, you have the right to request: (i) a description of the type of
+personal information about your child that is collected through the Service;
+(ii) a review and copies of that personal information; (iii) modifications of
+and deletions to that personal information; and (iv) the prevention of further
+use or collection of your child's personal information. If you wish to make any
+of these requests, please contact the administrator at your child’s
+school.&nbsp; Please be aware however, that, depending on your
+child’s school's policies, if you request that your child’s personal
+information not be collected or used through the LiveSchool Service, your child
+may no longer be eligible to participate in our Service, including participation
+in the awarding of points, the redemption of points, and the distribution of
+rewards.</div><div class="eula-paragraph bold">California Privacy Rights</div><div class="eula-paragraph">California law permits users who are
+California residents to request and obtain from us once a year, free of charge,
+a list of the third parties to whom we have disclosed their Personal Information
+(if any) for their direct marketing purposes in the prior calendar year, as
+well as the types of Personal Information disclosed to those parties. &nbsp;Although we do not disclose your Personal
+Information to any third parties for their direct marketing purposes, if you
+are a California resident and would like to request this information, please
+submit your request in an email to <a href="mailto:support@liveschoolinc.com">support@liveschoolinc.com</a>.</div><div class="eula-paragraph bold">California Privacy Rights for Users Under Age 18</div><div class="eula-paragraph">LiveSchool does not knowingly use, disclose,
+compile, or allow a third party to use, disclose, or compile, the Personal Information
+of a user under the age of 18 who resides in California (a “Minor”) for the
+purpose of marketing or advertising any of the products or services prohibited
+by the Privacy Rights for California Minors in the Digital World Act. In
+addition, any Minor who is a registered user of our Website or the LiveSchool Service
+may, at any time, remove or request and obtain removal of content or
+information about them that they themselves posted on our Website or on our
+Service. This provision, however, does not apply to the following content or information:
+(i) content or information posted by a third party; (ii) anonymized or
+de-identified content or information; or (iii) content or information for which
+a Minor was compensated to post.</div><div class="eula-paragraph bold">Links to Other Websites</div><div class="eula-paragraph">Our Website and the LiveSchool Service
+may contain links to other websites and may provide opportunities to publish
+certain information to third party websites or social media platforms.
+LiveSchool is not responsible for the content or privacy practices of those
+websites, platforms, or any other linked services. We encourage our users when
+they leave our Website or the LiveSchool Service to read the privacy policies
+of each and every website that collects or publishes personal information. Your
+browsing and interaction on any other website, including those that may have a
+link on our Website or the Service, is subject to that website's own rules and
+policies.</div><div class="eula-paragraph bold">International Users</div><div class="eula-paragraph">Our
+Website, the LiveSchool Service, and the information collected through those channels,
+are hosted in the United States.&nbsp; For
+international users, please note that it may be necessary to transfer your
+information internationally and, in particular, your information may be
+transferred to and processed in the United States. For residents of the
+European Union, the data protection and other laws of countries outside of the
+European Union may not be as comprehensive as those of the European Union.
+Please be assured that we take steps to ensure that the privacy of our international
+users is protected as described in this Privacy Policy. By using our Website, the
+web-based LiveSchool Service, or the mobile application-based LiveSchool
+Service, you agree to have your information transferred to and used in the
+United States as set forth in this Privacy Policy.</div><div class="eula-paragraph bold">Security</div><div class="eula-paragraph">LiveSchool uses commercially
+reasonable administrative, technical, personnel, and physical security measures
+designed to safeguard your Personal Information in our possession against loss,
+theft, unauthorized use, disclosure, and modification. Please keep in mind,
+however, that whenever you give out personal information online, such
+information is not always secure in transit. While we strive to protect your
+privacy and secure your Personal Information, we cannot guarantee the security
+of information sent over the Internet or through a mobile application, and you
+disclose such information at your own risk.</div><div class="eula-paragraph bold">Changes to this Privacy Policy</div><div class="eula-paragraph">From time
+to time, we may modify this Privacy Policy to reflect industry initiatives,
+changes in the law, changes in our information collection and use practices, or
+changes in the features of the Website or the LiveSchool Service, and such modifications
+shall be effective upon posting by LiveSchool on this Website.</div><div class="eula-paragraph">If we make
+a material change to this Privacy Policy, we will notify you by email (as listed
+in your account profile). If LiveSchool materially changes its practices
+regarding its collection or its use of Personal Information, our collection and
+use of your Personal Information will continue to be governed by the Privacy
+Policy under which it was collected, unless you have been provided notice of,
+and have not objected to, the change.</div><div class="eula-paragraph bold">Questions</div><div class="eula-paragraph">If you have any questions about our practices or this privacy
+policy, please contact us at privacy@LiveSchool.com, or send mail to:
 &nbsp;
 <br><br>
 LiveSchool, Inc <br>
@@ -619,7 +594,7 @@ Attn: Privacy <br>
 <br>
 Nashville, TN 37206</div></div>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script type="text/javascript" src="https://daks2k3a4ib2z.cloudfront.net/5280bc2f2b403ef048000105/js/webflow.f43c95cf7.js"></script>
+<script type="text/javascript" src="https://daks2k3a4ib2z.cloudfront.net/55a6e15e6c45ad5f144d7901/js/webflow.1828144f9.js"></script>
 <!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]--><script type="text/javascript">
 $('.extraclass').each(function() {
 this.className = this.className + ' ' + 'wistia-popover[height=392,playerColor=3b6fc8,width=724]';
@@ -652,6 +627,13 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 $('a.wistia-button').each(function() {
 this.className = this.className + ' ' + 'wistia-popover[height=360,playerColor=7b796a,width=640]';
 });
+
+
+
+// var newOffSet = ($(document).width() / 2) - ($("#midLink").width() / 2);
+
+// $("#midLink").offset({left: newOffSet});
+
 
     $( function()
 {
