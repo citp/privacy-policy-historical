@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the excellentesl4u.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409044346id_/http%3A//www.excellentesl4u.com/privacy_policy_and_disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excellentesl4u.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201022121id_/http%3A//www.excellentesl4u.com/privacy_policy_and_disclaimer.html) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer
 
@@ -25,6 +25,9 @@ You have the ability to accept or decline cookies by modifying your Web browser;
 A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a web site.
 
 I may serve third-party advertisements that use cookies and web beacons in the course of ads being served on this web site to ascertain how many times you've seen an advertisement. No personally identifiable information you give me is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on my web site.
+
+As you browse this website, Google Analytics and advertising cookies will be placed on your computer to collect demographic and interest information, but we do not tie the cookie to any personal information that you provide to us. If you do not wish your data to be collected via Google Analytics, you may use their [opt-out tool](https://tools.google.com/dlpage/gaoptout/).  
+
 
 Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/technologies/ads/).
 
