@@ -1,107 +1,142 @@
-> *The following text is extracted and transformed from the aramark.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230135758id_/http%3A//www.aramark.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aramark.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202050628id_/http%3A//www.aramark.com/other/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Aramark
 
-Effective August 1, 2012
+Aramark believes in the importance of privacy and wants you to be familiar with how we collect, store, use, and disclose information about you.  This Privacy Policy describes our practices in connection with the information about you that we or our service providers may collect through this website.  By accessing or using this website, you are agreeing to the collection of data and practices described in this Policy.
 
-ARAMARK is committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this Web site.
+**Click on one of the links below to go to the listed section:**
 
-  * Information Collected 
-  * Use of Collected Information 
-  * Links to Other Sites 
-  * Security of Collected Information 
-  * Access to Collected Information 
-  * Contacting Us 
-  * Changes to this Policy 
-  * Candidate Data Privacy Protection 
-
-
-
-## Information Collected
-
-In general, you can visit this Web site without telling us who you are or revealing any information about yourself. Our web servers collect the domain names, not the e-mail addresses, of visitors. Our web servers also seek (as many Web sites do) to place a "cookie" (a small data file) on your computer's hard drive which allows the server to determine the computer when it visits again, in order to track statistical information about navigation to and throughout certain areas of our site, and to ARAMARK services on other sites. This cookie is not used to obtain your name or any personal data, and the information that is tracked is used only for internal purposes, such as to improve site navigation and to measure the effectiveness of our promotional placements, and is not shared with anyone other than ARAMARK affiliates and contractors who assist ARAMARK in these efforts and are bound to confidentiality. However, if you prefer not to accept cookies, you can set your browser to reject them or to alert you before one is placed.
-
-In addition, there are portions of this Web site where we may need to collect personal information from you for a specific purpose, such as to provide you with certain information you request. The information collected from you may include your name, address, telephone, fax number, or e-mail address. For our supplier diversity area, we necessarily collect information about gender and ethnicity, such as whether your business is female-owned.
-
-Information obtained from our Careers Section will be used solely for the purpose of accepting and evaluating your submission for possible employment and the related purposes described on our jobs site. In the event you provide us with any information requested in the Careers section of this Web Site, your submission will be governed by our Candidate Data Protection Standard, a copy of which is available by clicking [here](https://web.archive.org/Careers/CorporateStandards.aspx "here"). 
-
-We do not partner with or have special relationships with any ad server companies. From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
-
-This Web site is not intended for persons under 13 years of age. We do not knowingly solicit or collect personal information from or about children, and we do not knowingly market our products or services to children.
-
-return to top ^ 
-
-## Use of Collected Information
-
-Domain name information that we collect is not used to personally identify you and instead is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. We use this information to measure the use of our site and to improve the content of our site.
-
-When other information is collected from you, such as your name and e-mail address, we generally let you know at the time of collection how we will use the personal information, such as the Careers section of our Web Site. Usually, we use the personal information you provide only to respond to your inquiry or to process your request (such as to receive electronic annual reports, to be added to our supplier diversity database or to process your request for employment). This information may be shared with other ARAMARK businesses, but only if necessary to fulfill your request or for related purposes.
-
-We may share the personal information you provide with other companies we have hired to provide services for us. These companies - our vendors - are contractually bound to use personal information we share with them only to perform the services we have hired them to provide. We do not share, sell, or lease personal information about you to any third-parties for their marketing use. We will release information about you if you direct us to do so, if we are required by law to do so, or in other legally limited circumstances.
-
-If you register with one of ARAMARK's business units online, they may use this information to provide you with custom information about ARAMARK offerings in support of your business needs. They may also seek to place a "cookie" (small data file) as discussed above in order to provide you with tailored information. You should review the privacy policy associated with that ARAMARK business' Web site for further information on privacy practices.
-
-return to top ^ 
-
-## Links to Other Sites
-
-ARAMARK's Web site may contain links to other sites. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content, security, or privacy practices employed by other sites.
-
-## Security of Collected Information
-
-We maintain strict physical, electronic, and administrative safeguards to protect your personal information from unauthorized or inappropriate access. We restrict access to information about you to those ARAMARK workers who need to know the information to respond to your inquiry or request. Workers who misuse personal information are subject to disciplinary action.
-
-## Access to Collected Information
-
-You may review and update the information that you provide to us through this Web site by contacting us as described below.
-
-## Contacting Us
-
-If you have any questions about this privacy policy, please use the Contact page. We welcome your questions and suggestions about our privacy policy.
-
-## Changes to this Policy
-
-Please check this privacy policy periodically to inform yourself of any changes. Although we reserve the right to modify or supplement this privacy policy, we will provide notice to you on this Web site of any major changes for at least 30 days following the change.
-
-return to top ^ 
-
-## Candidate Data Privacy Protection
-
-**I. OBJECTIVE**  
-
-The objective of these Candidate Data Protection Standards (“Standards”) is to provide adequate and consistent safeguards for the handling of candidate data by ARAMARK entities. These Standards are designed with the intention of defining ARAMARK’s protection of Candidate Data. ARAMARK is committed to fair information practices that are in compliance with applicable, local law.
-
-The identifiable information about yourself that you or someone else provides (on your or ARAMARK’s behalf) to an ARAMARK entity will be used for recruitment purposes and the Candidate Data will be protected in accordance with ARAMARK’s Standards outlined below and applicable law.
-
-By submitting your Candidate Data, you confirm and agree that:
-
-  * You have reviewed ARAMARK’s Standards and Privacy Policy;
-  * ARAMARK and/or its third party service providers may process the Candidate Data according to the recruitment purposes set out in the Standards;
-  * The Candidate Data may be transferred to other ARAMARK entities consistent with ARAMARK’s Standards; and
-  * Your consent is required in order to complete the submittal process. If you do not agree to abide by these terms and conditions do not use the site.
+  * **Information We May Collect**
+  * **Use of Information We Collect**
+  * **Information Sharing**
+  * **Your Choices**
+  * **California Privacy Rights**
+  * **Access and Correction**
+  * I **nternational Users** **** **** **** **** **** ****
+  * **Protection of Personal Information**
+  * **Links To Other Websites**
+  * **************Privacy** **Policy Updates** **** **** ****
+  * **[Contact Us](http://aramark.com/other/contact-us)**
 
 
 
-ARAMARK may periodically collect further information with your consent or in accordance with applicable laws. For example, ARAMARK may require additional information to perform background checks or obtain approvals which may be a condition to employment. In addition, ARAMARK may collect your feedback and opinions (e.g., surveys) for business purposes, such as improving processes.
+### Information We May Collect
 
-**II. PURPOSES AND ACCESS FOR CANDIDATE DATA PROCESSING**  
+We may obtain the following information in connection with your use of this website: 
 
-ARAMARK and ARAMARK entities process Candidate Data for legitimate human resources purposes. Such processing will be conducted within such purpose limitations and in accordance with applicable law.
+  * Your contact information (such as name, postal or e-mail address, or phone number)
+  * Any content you may share with us by interacting with this website using social media
+  * Other information you may provide when you communicate with us or participate in our surveys or promotions 
+  * We may also rely on automated means to collect information in connection with your use of this website, including: 
+    * Information about your computer, mobile, or other device that you use to access this website, such as the device type, unique device identifier, IP address, geolocation information, operating system information, browser type, browser language, and similar information.
+    * Information on actions taken by you on this website (such as page views and website navigation patterns)  
+    * URLs that refer you to this website or that you visit before or after visiting this website
+    * Dates and times of your visits to this website
+  * For Employment Applicants: In addition to the other information described in this Policy, the user name and password you provide to create an account to apply for employment.
+  * For Potential Suppliers: In addition to the other information described in this Policy,
 
-**III. SECURITY AND CONFIDENTIALITY**  
 
-ARAMARK entities are committed to taking appropriate technical, physical, and organizational measures to protect Candidate Data against unauthorized access, unlawful processing, accidental loss or damage, and unauthorized destruction.
 
-**Equipment and Information Security**  
+    * Demographic information you wish to provide (such as gender, ethnicity, or language preference); and
+    * The Tax Identification Number under which you would act as a supplier (which may be your Social Security Number).
 
-To safeguard against unauthorized access to Candidate Data by third parties outside ARAMARK, all electronic Candidate Data held by ARAMARK entities are maintained on systems that are protected by secure network architectures that contain firewalls and intrusion detection devices. The servers are stored in facilities with comprehensive security and fire detection and response systems.
 
-**Access Security**  
 
-ARAMARK entities limit access to internal systems that hold Candidate Data to a select group of authorized users who are given access to such systems through the use of a unique identifier and password. Access to Candidate Data is limited to and provided to individuals for the purpose of performing their job duties (e.g., a human resources manager may need access to a Candidate’s contact information for the purposes of setting up an interview).
+The automated means we may use to collect this information may include cookies and web beacons. A “cookie” is a text file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, is used to transmit information back to a web server. We may use other technologies for automated data collection as they become available. 
 
-**IV. DIRECT MARKETING**  
+> **_Online Behavioral Advertising and Data Collection by Third Parties_**
+> 
+> You may see certain advertisements on this and other websites because we may participate in online behavioral advertising, also known as interest-based advertising, through advertising networks. Advertising networks may include third-party advertising servers, advertising agencies, advertising technology vendors, and research firms. We may also engage with analytics providers. These third parties track your online activities over time across third-party websites or online services during your visits to this and other websites. We are not responsible for the privacy practices of these third parties. 
+> 
+> **_Do Not Track Policy_**
+> 
+> Some web browsers have a “do not track” feature that allows you to inform websites that you do not want to have you online activities tracked.  At this time, this website does not respond to web browser-based “do-not-track” signals.However, the ad networks and analytics providers that operate on this site may offer certain privacy choices, as we explain in the Your Choices [hyperlink] section of this Policy.
+> 
+> **_Children’s Personal Information_**
+> 
+> This website is not directed to individuals who are younger than 13 years old. If you are younger than 13 years old, please do not provide any personal information through this website.
 
-ARAMARK entities will not disclose Candidate Data outside ARAMARK to offer any products or services to a Candidate for personal or familial consumption (“direct marketing”) without his or her prior consent. The restrictions in this section apply only to contact data obtained in the context of applying for a position with ARAMARK and not, for example, to data obtained in the context of a customer relationship.
+### Use of Information We Collect
 
-return to top ^ 
+We may use the information we obtain to:
+
+  * Respond to your questions and comments about products, services, or this website and provide customer support
+  * Communicate with you about products, services, offers, events, promotions or our relationship with you regarding this website.  We may also communicate with you to offer you products and services we believe may be of interest to you, and manage your participation in our events
+  * Enable you to communicate with the website through blogs, social networks and other interactive media
+  * Analyze and enhance our marketing communications and strategies (including by identifying when emails sent to you have been received and read), and trends and statistics regarding visitors’ use of the website
+  * Operate, evaluate, and improve our business and the products and services we offer and this website
+  * Protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure, including by identifying potential hackers and other unauthorized users
+  * Enforce the Website Terms of Use
+  * Comply with applicable legal requirements and industry standards and our policies
+  * For Employment Applicants: 
+    * To register you for an account to apply for employment opportunities and manage and maintain that account; and
+    * To review and evaluate your candidacy for employment.
+
+
+
+We also may use the information we obtain about you in other ways with your consent.
+
+We may use and disclose information that is not in personally identifiable form for any lawful purpose.  If we combine information that is not in personally identifiable form with information that is, we will treat the combined information as personal information for so long as it is combined.  
+
+### Information Sharing
+
+We do not disclose personal information about you that we collect on this website, except as described in this Policy. We may share the information we obtain: 
+
+  * With our service providers that perform services on our behalf. Our service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. Examples of such services may include web hosting providers, analytics providers, marketing providers, and talent management portal providers. 
+  * With our parent, affiliate and subsidiary companies for the purposes described in this Policy
+  * Other third parties, pursuant to your request or consent
+
+
+
+We also may disclose information about you (i) if we are required to do so by law or legal process, (ii) in response to a request by law enforcement authorities, (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity, (iv) to enforce our terms and conditions, (v) to protect our rights, privacy, safety, or property or that our affiliates, you, or others.  We also reserve the right to transfer personal information we have about you in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition or combination of all or any portion of our business, assets, or stock (including in connection with any bankruptcy or similar proceeding). Following any such event, you may contact the entity to which we transferred your personal information with any inquiries concerning the processing of that information.  We may retain copies of that transferred information. 
+
+### Your Choices
+
+We offer you certain choices about what information we collect from you on this website, how we use and disclose the information, and how we communicate with you.
+
+Here are the choices we offer:
+
+**_Cookies_**
+
+Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Please note, however, that without cookies you may not be able to take full advantage of all of this website’s features. In addition, disabling cookies may cancel opt-outs that rely on cookies, such as web analytics.
+
+**_Geolocation Information_**  
+You may choose not to share the geolocation details of your mobile device with us by adjusting the device’s location services settings. For instructions on changing the relevant settings, please contact your service provider or device manufacturer.
+
+**_Online Behavioral Advertising_**  
+The advertising networks in which we participate may be members of self-regulatory organizations or programs that manage the privacy choices these advertising networks offer consumers. For example, some of our ad networks may manage their privacy choices through the [Network Advertising Initiative](http://www.networkadvertising.org/choices/). Please note that we also may work with ad networks that offer their own opt-out mechanisms and may not participate in organizations such as the Network Advertising Initiative. You can learn more about additional online advertising opt-out options by clicking [here](http://www.aboutads.info/).  
+
+_**Web Analytics**_  
+You may direct our website analytics vendor to not use the data about your visits to this website for our website analytics purposes. To opt out, you may install a plug-in available [here](https://tools.google.com/dlpage/gaoptout?sim=lvforh3rab9cf984tt8ssh9qc4). Please note that this plug-in is being provided by our vendor, and we are not responsible for your use of this plug-in or its effectiveness.
+
+### California Privacy Rights
+
+If you are a California resident, you may request that we provide to you (i) a list of the categories of personal information about you that we have disclosed to third parties for the third parties’ direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed, if known to us, sufficient to give you a reasonable indication of the nature of the third parties’ business. To submit your request, please contact us through the [Contact Us](https://web.archive.org/other/contact-us) page and include "California Privacy" in the subject line and your request in the body of the communication.
+
+### Access and Correction
+
+You may access and correct certain information you have provided on this website by contacting us through the [Contact Us](http://aramark.com/other/contact-us) page.
+
+### International Users and Data Transfers
+
+This is a U.S. website that is governed by U.S. laws, including those governing the privacy and security of your information. If you use this website, you are transferring your information to Aramark and its service providers in the United States. By using this website or providing your information to us through this website, you consent to the transfer of your personal information to the United States, and our handling of your information in accordance with applicable U.S. requirements and this Policy. 
+
+Your personal information may be transferred to, stored, and processed in any country where we or the parties with whom we share your personal information (as described above) have facilities, which may include countries other than your country of residence. These other countries may have different data protection laws than your country of residence. By using this website or providing your information to us through this website, you consent to the transfer, storage, and processing of your personal information as described above.
+
+### Protection of Personal Information 
+
+We maintain administrative, technical, and physical measures designed to safeguard the security of personal information we collect on this website.  Despite such efforts, however, please note that no company can fully eliminate risks or guarantee the security of personal information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of information about you at any time, and we bear no liability for uses or disclosures of personal information or other data arising in connection with theft of the information or other malicious actions. We ask website users to be aware of security risks when using the Internet and to help us safeguard their information, including by establishing unique login credentials for this website that are not shared with any other website or service, and safeguarding their website login credentials.
+
+### Links To Other Websites
+
+This website may contain web property (e.g., any application) or provide links to other websites for your convenience and information.  These websites or web properties may operate independently from Aramark. Linked sites and web properties may have their own privacy notices or policies, which we strongly suggest you review if you visit any such websites or use any such web properties.  To the extent any linked websites you visit or web properties you use are not owned or controlled by Aramark, we are not responsible for the website’s or web property’s content, any use of the website or web property, or the privacy practices of the website or web property.  The availability of, or inclusion of a link to, any such website or web property does not imply endorsement of it by us.
+
+### Privacy Policy Updates
+
+This Privacy Policy may be changed or updated. We will post a prominent notice on this website to notify you of any significant changes to our Privacy Policy and indicate at the bottom of the notice when it was most recently updated.  Any changes to this Policy will become effective when we post a revised policy that reflects such changes on this website.  Your use of this website following this posting of a revised policy means you accept the revised policy. 
+
+### Contact Us 
+
+If you have any questions, comments or concerns about this Policy, please contact us by visiting our [Contact Us](https://web.archive.org/other/contact-us) page.
+
+**Effective Date** : May 11, 2015
