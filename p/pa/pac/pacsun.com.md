@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pacsun.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429053753id_/http%3A//www.pacsun.com/company/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacsun.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202040122id_/http%3A//www.pacsun.com/company/privacy-policy.html) for the most accurate reproduction.*
 
 # PacSun's Privacy Policy
 
@@ -10,7 +10,7 @@ PLEASE READ THIS PRIVACY POLICY BEFORE USING THE PACSUN SERVICES.
 
 ## OVERVIEW
 
-We value our relationship with you and your privacy is important to us. Below we describe information that we may receive for in connection with your use of the PacSun Services (as defined in our [Terms of Use](http://www.pacsun.com/company/terms-and-conditions.html)), how and why we receive it, your options, and the efforts we make to safeguard it all.
+We value our relationship with you and your privacy is important to us. Below we describe information that we may receive for in connection with your use of the PacSun Services (as defined in our [Terms of Use](http://www.pacsun.com/on/demandware.store/Sites-pacsun-Site/default/Page-Show?cid=terms-and-conditions)), how and why we receive it, your options, and the efforts we make to safeguard it all.
 
 By using the PacSun Services, you are consenting to the manner in which PacSun will receive, use, disclose and otherwise manage your information, as set forth below in this Privacy Policy. Additionally, when you provide information to PacSun, you agree to provide only true, accurate, current, and complete information.
 
