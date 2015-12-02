@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the triviahive.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423175302id_/http%3A//triviahive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triviahive.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202081747id_/http%3A//triviahive.com/privacy) for the most accurate reproduction.*
 
 # TriviaHive | Privacy Policy
 
 #### Updated April 5, 2011
 
-TriviaHive.com ("TriviaHive") takes your privacy very seriously and has created this Privacy Policy in order to disclose its use of consumer data collected about you. You may contact TriviaHive at 1608 S. Ashland Ave., Suite #70956 Chicago, IL 60608-2013 or via our [contact form](https://web.archive.org/contact).
+TriviaHive.com ("TriviaHive") takes your privacy very seriously and has created this Privacy Policy in order to disclose its use of consumer data collected about you. You may contact TriviaHive at 14102 Red Hill Ave, Suite #132, Tustin, CA 92780 or via our [contact form](https://web.archive.org/contact).
 
 By using the TriviaHive website, or submitting information to us by other means, you are subjecting your information to the practices outlined in this Privacy Policy. This Privacy Policy covers TriviaHive's treatment of personal information that we collect when you are on TriviaHive's website and when you use TriviaHive's services. This policy does not apply to the practices of third parties that TriviaHive does not own or control, including websites that we may link to, or to individuals that TriviaHive does not employ or manage.
 
@@ -64,6 +64,6 @@ If you have questions about this Privacy Policy, you can [contact us.](https://w
 
 #### Contact Information
 
-1608 S. Ashland Ave., Suite   
-#70956   
-Chicago, IL 60608-2013
+14102 Red Hill Ave., Suite   
+#132   
+Tustin, CA 92780 
