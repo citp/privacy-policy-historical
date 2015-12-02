@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the 1800recycling.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407233633id_/http%3A//www.1800recycling.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800recycling.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202102816id_/http%3A//recyclenation.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 1800Recycling.com
+# Privacy Policy | RecycleNation
 
 _Last Updated: March 23, 2010_
 
 **1\. INTRODUCTION**
 
-AGREEMENT AND PARTIES. Electronic Recyclers International, Inc., a Delaware corporation (“Company,” “us,” or “we”) respects the privacy of the visitors to the Company’s website located at http://www.1800recycling.com (“website” or “site”) and users of the Company’s technology on third party websites (the “Service”). This privacy policy (“privacy policy” or “policy”) is an agreement between Company and you, as the user of the website and/or Service (“you”). This agreement tells you when this policy is effective, what information we collect from you, how we might use it, how you can review or change the personal information you provided to us, how we may change this policy, and the steps we take to ensure that your personal information is protected. 
+AGREEMENT AND PARTIES. Electronic Recyclers International, Inc., a Delaware corporation (“Company,” “us,” or “we”) respects the privacy of the visitors to the Company’s website located at http://www.RecycleNation.com (“website” or “site”) and users of the Company’s technology on third party websites (the “Service”). This privacy policy (“privacy policy” or “policy”) is an agreement between Company and you, as the user of the website and/or Service (“you”). This agreement tells you when this policy is effective, what information we collect from you, how we might use it, how you can review or change the personal information you provided to us, how we may change this policy, and the steps we take to ensure that your personal information is protected. 
 
 **2\. AGREEMENT TO TERMS OF PRIVACY POLICY AND TERMS OF USE**
 
-AGREEMENT TO TERMS. All activities in which you may engage on this website or on third party websites through use of the Service are voluntary. You are not required to provide any personal information to us unless you choose to access features on this site or through the Service which require personal information. If you do not agree with the terms of this policy or other terms of use on this website, then you should immediately exit this website and discontinue using the site and Service. If you do not agree with the terms of our privacy policy and our terms of use posted at [Terms of Use](http://1800recycling.com/terms-of-use/), please do not provide us with personal information, leave this website and discontinue use of the Service. The terms of use of this site are expressly incorporated herein by reference and made a part of this policy. By using Company’s website and/or Service, you signify that you agree to the terms of this privacy policy as well as to our terms of use. 
+AGREEMENT TO TERMS. All activities in which you may engage on this website or on third party websites through use of the Service are voluntary. You are not required to provide any personal information to us unless you choose to access features on this site or through the Service which require personal information. If you do not agree with the terms of this policy or other terms of use on this website, then you should immediately exit this website and discontinue using the site and Service. If you do not agree with the terms of our privacy policy and our terms of use posted at [Terms of Use](http://recyclenation.com/terms-of-use/), please do not provide us with personal information, leave this website and discontinue use of the Service. The terms of use of this site are expressly incorporated herein by reference and made a part of this policy. By using Company’s website and/or Service, you signify that you agree to the terms of this privacy policy as well as to our terms of use. 
 
 **3\. EFFECTIVE DATE OF AND CHANGES TO PRIVACY POLICY**
 
@@ -92,4 +92,4 @@ CHANGING YOUR INFORMATION. You may cancel your registration at any time, and you
 
 **13\. QUESTIONS OR COMMENTS**
 
-CONTACT INFORMATION. If you have any questions or comments relating to our website or the privacy policy, send an e-mail to privacy@1800recycling.com or write Attn: Privacy Compliance Officer, P.O. Box 2428, Fresno, California 93745.
+CONTACT INFORMATION. If you have any questions or comments relating to our website or the privacy policy, send an e-mail to privacy@RecycleNation.com or write Attn: Privacy Compliance Officer, P.O. Box 2428, Fresno, California 93745.
