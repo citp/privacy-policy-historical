@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamerclick.com privacy policy that was archived on 2015-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150222090455id_/http%3A//gamerclick.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerclick.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202100704id_/http%3A//www.gamerclick.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
