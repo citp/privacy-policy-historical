@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the persistencemarketresearch.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226004524id_/http%3A//www.persistencemarketresearch.com/page/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the persistencemarketresearch.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202073801id_/http%3A//www.persistencemarketresearch.com/page/privacy-policy.asp) for the most accurate reproduction.*
 
-# Persistence Market Research’s Privacy Policy
+# Persistence Market Researchâ€™s Privacy Policy
+
+[Send An Enquiry](http://www.persistencemarketresearch.com/contact-us.asp)
 
 At Persistence Market Research (PMR), we take utmost care to keep client information secure. We respect your need for privacy, and your information is treated as confidential.  PMR does not share this information with a third party or make it public unless we have your express permission to do so.
 
