@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zahitvstation.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405014132id_/http%3A//www.zahitvstation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zahitvstation.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202173911id_/http%3A//www.zahitvstation.com/privacy.php) for the most accurate reproduction.*
 
 # Zahistation - Privacy
 
