@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the radiologyinfo.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074654id_/http%3A//www.radiologyinfo.org/en/about/index.cfm%3Fpg%3Dabt_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiologyinfo.org privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202052237id_/http%3A//www.radiologyinfo.org/en/info.cfm%3Fpg%3Dabout-privacy) for the most accurate reproduction.*
 
 # Privacy
-
-## _RadiologyInfo.org_ Privacy Policy
 
 ### Information we gather about your visit
 
@@ -21,7 +19,7 @@ We are currently using Google Analytics to analyze the audience of the website a
 
 ### Information that you provide voluntarily
 
-This information is collected if you voluntarily submit feedback or subscribe to our News and Updates list. The information is stored in a database at RSNA headquarters in Oak Brook, Illinois. Only RSNA and ACR staff and _RadiologyInfo.org_ committee members responsible for developing and maintaining the website have access to this information. By volunteering this information, you consent to your information being collected, used, disclosed and stored by us as described in this policy.
+This information is collected if you voluntarily submit feedback or subscribe to our News and Updates list. The information is stored in a database at RSNA headquarters in Oak Brook, Illinois. Only RSNA and ACR staff and _Radiologyinfo.org_ committee members responsible for developing and maintaining the website have access to this information. By volunteering this information, you consent to your information being collected, used, disclosed and stored by us as described in this policy.
 
   * #### Contact Us and Feedback forms
 
@@ -36,12 +34,8 @@ Contact information submitted via the "News and Updates" subscription form is us
 
 ### Email 
 
-Email that you send to _radiologyinfo@rsna.org_ may be shared with RSNA or ACR staff or website committee members who are most able to address specific feedback. If we respond to your email, it then will be deleted or archived depending on the topic. Email is not a secure means of communication so we recommend that you do not send personal or confidential information via email.
+Email that you send to _radiologyinfo@rsna.org_ may be shared with RSNA or ACR staff or website committee members who are most able to address your inquiry. After we have responded to your email, it will be deleted or archived depending on the nature of the inquiry. Email is not a secure means of communication so we recommend that you do not send personal or confidential information via email.
 
 ### Disclosure
 
 ACR and RSNA will not disclose, give, sell, or transfer any personal information about your visit unless required to do so by US federal or state law.
-
-Last update: February 24, 2015 
-
-top of page
