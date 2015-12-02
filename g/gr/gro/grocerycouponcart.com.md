@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the grocerycouponcart.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625004840id_/http%3A//www.grocerycouponcart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grocerycouponcart.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202082735id_/http%3A//www.grocerycouponcart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grocery Coupon Cart
 
-Last Updated:  October 29, 2014
+Last Updated:  September 24th, 2015
 
 This is the Privacy Policy of GroceryCouponCart.com (“us”, “we”, or “our” ) for your use of all pages and services provided on our website (collectively, the “Site”). 
 
@@ -16,7 +16,7 @@ If this Privacy Policy changes, we will post all changes in an amended version w
 
 We collect two types of information from you. The first type is personal information that you actively choose to disclose (“Active Information”) and the second type is anonymous aggregate information collected in a manner not visible to you or others visiting the Site (“Passive Information”).
 
-**a. Active Information** **.** Examples of personally identifiable information that you provide to us may include your first and last name, address, email address and telephone number. In providing Active Information, you consent and agree to being contacted with information related to your inquiry and/or information regarding our or third parties’ products and services. If you provide personally identifiable information to us, you may later elect to have that information deleted from our files, or kept from being used by us for purposes other than for the service requested, by following the opt-out procedures set forth below.
+**a. Active Information** **.** Examples of personally identifiable information that you provide to us may include your first and last name, date of birth, address, and email address. In providing Active Information, you consent and agree to being contacted with information related to your inquiry and/or information regarding our or third parties’ products and services. If you provide personally identifiable information to us, you may later elect to have that information deleted from our files, or kept from being used by us for purposes other than for the service requested, by following the opt-out procedures set forth below.
 
 **b. Passive Information** **.** We record information relating to your use of the Site, such as the information you click on, your browser type, IP address, referring URL, and timestamp information. We use this type of information to administer the Site and provide the highest possible level of service to you. We may also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the Site.
 
@@ -27,6 +27,8 @@ We may share or sell your Active and/or Passive Information to our marketing par
 **4\. USE OF COOKIES** ****
 
 We use cookies to store users’ preferences and to record session information, for purposes including ensuring that users are not repeatedly offered the same material and to customize any newsletter, advertising, and Web page content based on browser type and user profile information. We may share, sell, or license cookies collected from your browser and hard drive to third-party advertisers. These authorized third parties may link your name, address, and e-mail address to other information which they collect, such as past online/offline purchase information and Web usage from other sites. To learn more about this practice click here: <http://www.networkadvertising.org/managing/opt_out.asp>. You may disable cookies by adjusting the settings on your Web browser. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set. Each browser is different, so you may wish to review the “Help” menu of your browser to learn how to change your cookie preferences. Note, however, that you may be required to enable cookies in order to use certain functions on our Site.
+
+Additionally, emails we send may contain a bit of code known as a “web beacon.” This code allows us to understand the time and date of when a user has opened an email and when he/she has utilized a link within the email to visit a website. Our web beacons do not collect personally identifiable information. Users wishing to disable our web beacons should do so by turning images “off” in their email client (e.g., Outlook, Outlook Express). Please see your email client for more information.”
 
 5\. DO-NOT-TRACK POLICY FOR CALIFORNIA USERS
 
@@ -42,7 +44,7 @@ If you no longer wish to receive newsletter or promotional communications from u
 
 8\. ACCESS/ACCURACY
 
-To the extent that you do provide us with certain personally identifiable information, we strive to maintain the accuracy of this information. Our goal is to provide a means to contact us should you need to review, update or correct your information. If for any reason those means are unavailable or inaccessible through the Site, you may send your request to review, update or correct your personally identifiable information to [insert email address] and we will make reasonable efforts to comply as soon as possible.
+To the extent that you do provide us with certain personally identifiable information, we strive to maintain the accuracy of this information. Our goal is to provide a means to contact us should you need to review, update or correct your information. If for any reason those means are unavailable or inaccessible through the Site, you may send your request to review, update or correct your personally identifiable information to Team@grocerycouponcart.com and we will make reasonable efforts to comply as soon as possible.
 
 9\. SECURITY OF INFORMATION
 
