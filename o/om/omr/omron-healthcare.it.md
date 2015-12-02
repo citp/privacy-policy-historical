@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the omron-healthcare.it privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607030336id_/http%3A//www.omron-healthcare.com/eu/en/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omron-healthcare.it privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202043451id_/http%3A//www.omron-healthcare.com/en/privacy-and-cookie-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Omron Healthcare
-
-## Privacy and Cookie Policy
-
-Omron Healthcare Europe B.V. and its affiliated companies within the EMEA region (“we” or “Omron”) are committed to protecting and respecting the privacy of any person who makes use of the Website (“you”). This policy (together with our [terms of use ](https://web.archive.org/eu/en/disclaimer) and any other documents referred to in it) sets out what (kind of) information we collect from you or that you provide to us, how it is handled, with whom it may be shared and what choices you have regarding the use of your information. By accessing any part of any of the Omron websites (“Website”) you shall be deemed to have accepted and consented to the terms of this privacy and cookie policy in full.
+# Privacy and cookie policy
 
 #### What information we may collect from you
 
@@ -100,5 +96,3 @@ This privacy and cookie policy shall be governed by and construed in accordance 
 #### Contact
 
 Questions, comments and requests regarding this privacy and cookie policy are welcomed and should be sent by regular mail to: Omron Healthcare Europe B.V., Marketing and Communication Department, Scorpius 33, 2132LR, Hoofddorp, The Netherlands.
-
-Issue date : January 2013
