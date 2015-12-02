@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reefclubcasino.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425100823id_/http%3A//www.reefclubcasino.com/securityprivacy/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reefclubcasino.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203003349id_/http%3A//www.reefclubcasino.com/securityprivacy/privacy-policy.htm) for the most accurate reproduction.*
 
 # Security & Privacy | Privacy Policy for Users
 
