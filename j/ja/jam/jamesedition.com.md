@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamesedition.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628201428id_/http%3A//www.jamesedition.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesedition.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202082857id_/http%3A//www.jamesedition.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Buy, Sell & Charter Yachts, Watches, Private Jets, Boats, Cars, Motorcycles & Helicopters on JamesEdition.com
 
@@ -24,7 +24,6 @@ We may collect and store the following personal information:
   * \- Information from other companies, such as demographic and traffic data; and
   * \- Other supplemental information from third parties (for example, if you incur a debt to JamesEdition, we will generally conduct a credit check by obtaining additional information about you from a credit bureau, as permitted by law; or if the information you provide cannot be verified, we may ask you to send us additional information, such as your driver license, credit card statement, or a recent utility bill or other information confirming your address, or to answer additional questions online to help verify your information).
 
-  
 
 
 ## 3\. Marketing
