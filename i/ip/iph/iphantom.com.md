@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the iphantom.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624110551id_/http%3A//iboss.com/company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphantom.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202113807id_/http%3A//www.iboss.com/privacy-policy) for the most accurate reproduction.*
 
-# iboss Cybersecurity – Web Security, Mobile Security, and Advanced Threat and Data Protection for today’s borderless network
+# iboss Privacy Policy
 
-Last updated: 10/10/2013
+_Last updated: 10/10/2013_
 
 Welcome to the online Privacy Statement page for the iboss.com website. We take your privacy seriously and are committed to protecting your personal information while using our website.
 
 We encourage you to review the privacy policies described below in this Privacy Statement. By visiting this website, you are consenting to the personal information practices described in this Privacy Statement.
 
-### **Contact Information**
+## Contact Information
 
 This is the web site of **iboss Cybersecurity**
 
-Our postal address is:   
-**9950 Summers Ridge Road, Suite 160  
+Our postal address is:  
+ **4110 Campus Point Court  
 San Diego, CA 92121**
 
-We can be reached via email:    
+We can be reached via email: [sales@iboss.com](mailto:sales@iboss.com)  
 or you can reach us by telephone at 1-877-742-6832 ext. 1
 
-### **Providing Users With Anonymous Access**
+## Providing Users With Anonymous Access
 
 You can access our Web site home page and browse our site without disclosing your personal data.
 
-### **Collection of your Personal Information**
+## Collection of your Personal Information
 
 For each visitor to our web page, our web server automatically recognizes no information regarding the domain or email address.
 
@@ -35,7 +35,7 @@ We collect the email addresses of those who communicate with us via email, infor
 
 If you choose to use our referral service to tell a friend about our products, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit our site for more information regarding the products. The email will include a purchase code that may be used to receive a discount through the referral program. iboss Cybersecurity does not store the names or email addresses acquired through this referral program. The name and email addresses are used for the sole purpose of sending this one-time email. The email will include a unique code that is used for receiving the referral discount and for tracking the success of our referral program.
 
-### **Use of Your Personal Information**
+## Use of Your Personal Information
 
 We use personal information for order processing and customer support.
 
@@ -47,7 +47,7 @@ This site utilizes a third party to process and authorize credit card informatio
 
 We reserve the right to disclose your personally identifiable information if required by law and/or when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our web site.
 
-### **Access to Your Personal Information**
+## Access to Your Personal Information
 
 Upon request we provide site visitors with access to financial information (e.g., credit card account information) that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., emails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them, and a description of information that we maintain about them.
 
@@ -57,24 +57,24 @@ Upon request we offer visitors the ability to have inaccuracies corrected in con
 
 Consumers can have this information corrected by sending us email at the above address, calling us at the above telephone number, or writing to us at the above address. Consumers can expect a response to such a request within 10 working days.
 
-### **Security of Your Personal Information**
+## Security of Your Personal Information
 
 We use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have placed appropriate security measures in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-### **Use of Cookies**
+## Use of Cookies
 
 We use cookies to record session information, such as items that consumers add to their shopping cart.
 
 We do not use cookies to store personal data nor do we link non-personal information stored in cookies with personal data about specific individuals.
 
-### **Collection of Children's Personal Information**
+## Collection of Children's Personal Information
 
 We do not knowingly collect or store any personal information from children.
 
-### **Enforcement of This Privacy Policy**
+## Enforcement of This Privacy Policy
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
-### **Changes to This Statement**
+## Changes to This Statement
 
-We may occasionally update or make changes to this privacy statement. We take your privacy seriously and will not adjust our policy to intentionally compromise your personal information. The "last updated" date at the top of the statement will reflect the last date at which the changes were made. Additionally, we may post notices regarding policy changes on the homepage or other pages on our website. We encourage you to check back periodically to review any changes to the policy that may have been made. 
+We may occasionally update or make changes to this privacy statement. We take your privacy seriously and will not adjust our policy to intentionally compromise your personal information. The "last updated" date at the top of the statement will reflect the last date at which the changes were made. Additionally, we may post notices regarding policy changes on the homepage or other pages on our website. We encourage you to check back periodically to review any changes to the policy that may have been made.
