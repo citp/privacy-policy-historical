@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockyou.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624054332id_/http%3A//rockyou.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockyou.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202080426id_/https%3A//rockyou.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RockYou
 
@@ -173,5 +173,5 @@ Please contact RockYou with any questions or comments about this Privacy Policy 
 RockYou, Inc.
 
 303 2nd St.  
-South Tower, Suite 200  
+South Tower, Suite 600  
 San Francisco, CA 94107
