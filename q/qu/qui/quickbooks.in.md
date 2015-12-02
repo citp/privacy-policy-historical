@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickbooks.in privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121081453id_/http%3A//www.quickbooks.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickbooks.in privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202232606id_/http%3A//www.quickbooks.in/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Intuit QuickBooks® India
 
