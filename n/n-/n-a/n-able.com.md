@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the n-able.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524053556id_/http%3A//www.n-able.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n-able.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202022342id_/http%3A//www.n-able.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | N-able Technologies | Remote Network Monitoring & Desktop Management
 
-  
-
+ 
 
 ## Please Read Carefully Prior To Using This Website
 
@@ -15,7 +14,7 @@ User should be aware that portions of this Website contain functions for collect
 
 2\. Entry by User/Update.
 
-Certain areas of this Website will require entry by the User of certain personal information as indicated above. Company requires that the actual User input such information and that such information be the most recent available and accurate. Please inform Company of any change of name, address, or other information. In addition, User may request that Company update, modify, or delete User’s registered information by sending an email to webmaster@n-able.com with the words “UPDATE USER INFORMATION” in the subject line.
+Certain areas of this Website will require entry by the User of certain personal information as indicated above. Company requires that the actual User input such information and that such information be the most recent available and accurate. Please inform Company of any change of name, address, or other information. In addition, User may request that Company update, modify, or delete User’s registered information by sending an email to n-able-webdev@solarwinds.com with the words “UPDATE USER INFORMATION” in the subject line.
 
 3\. Use of User Information.
 
@@ -23,7 +22,7 @@ Company reserves the right to compile, save, use within the scope of Company’s
 
 4\. Choice/Opt-Out.
 
-Company may periodically send User information regarding Company and its products. If User has been receiving such information and does not wish to continue receiving such information, please contact Company at webmaster@n-able.com, and let Company know that User no longer wishes to receive such information. Alternatively, User can simply reply to an email from Company and type “REMOVE” in the subject line.
+Company may periodically send User information regarding Company and its products. If User has been receiving such information and does not wish to continue receiving such information, please contact Company at n-able-webdev@solarwinds.com, and let Company know that User no longer wishes to receive such information. Alternatively, User can simply reply to an email from Company and type “REMOVE” in the subject line.
 
 5\. Disclosure of User Information.
 
@@ -45,5 +44,7 @@ Company uses reasonable security measures to safeguard information concerning, a
 
 This Privacy Statement and the Terms of Use of the Company Website constitute the complete agreement between the parties with respect to their subject matter and supersede any prior agreement or communication. Company reserves the right to modify this Privacy Statement without prior notice. In the event Company updates or modifies this Privacy Statement, Company shall endeavor to post such updates or modifications on this Website following any such modifications. Therefore, User is advised to review this Privacy Statement occasionally, or at least every thirty (30) days. User’s continued use of this Website subsequent to Company’s notice of modification of this Privacy Statement shall constitute User’s acceptance of the modified Privacy Statement.
 
-© 2013 N-able Technologies, Inc. All Rights Reserved.   
+ 
+
+© 2015 N-able Technologies, Inc. All Rights Reserved.  
 Last Updated 2013
