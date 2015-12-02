@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitamintalent.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511045444id_/http%3A//vitamintalent.com/company/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitamintalent.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202234935id_/http%3A//vitamintalent.com/company/privacy-policy.htm) for the most accurate reproduction.*
 
 # Creative Staffing Solutions | Privacy Policy
 
@@ -24,11 +24,11 @@ Aquent may provide links to the websites of a limited number of third parties. T
 
 ### Notice
 
-In the course of conducting its business and to comply with government regulations, Aquent collects certain Personal Data. Personal Data is information related to an identified or identifiable person. Names, home addresses, email addresses, personnel file and benefits information are all examples of Personal Data.
+In the course of conducting its business and to comply with government regulations, Aquent collects certain Personal Data. Personal Data is information related to an identified or identifiable person. Names, home addresses, email addresses, credit card information, personnel file and benefits information are all examples of Personal Data.
 
 ### Use
 
-Aquent uses this information for the purpose of identifying individuals personally and communicating with them. In the case of Aquent Employees Aquent also uses the information for the purpose of complying with human resource requirements, complying with government regulations, and providing employee benefits. Aquent may request employees, applicants, customers and registered users of the Aquent website to complete questionnaires or surveys regarding their experience with Aquent or their use of the website. Responses are used by Aquent solely to assist it in improving services or the navigation features and functionality of the website. Participation in such surveys is voluntary.
+Aquent uses this information for the purpose of identifying individuals personally, communicating with them, and for billing and payment. In the case of Aquent Employees Aquent also uses the information for the purpose of complying with human resource requirements, complying with government regulations, and providing employee benefits. Aquent may request employees, applicants, customers and registered users of the Aquent website to complete questionnaires or surveys regarding their experience with Aquent or their use of the website. Responses are used by Aquent solely to assist it in improving services or the navigation features and functionality of the website. Participation in such surveys is voluntary.
 
 Certain additional information also is collected from users of this website in an aggregate form and used solely in connection with improving the performance and responsiveness of our services and website. This information includes a users originating domain, time of visit, connection speed, domain names, and Internet service provider. This information is not personally identifiable information and Aquent makes no attempt to correlate such information to an individual user.
 
@@ -88,4 +88,4 @@ For questions regarding our website security, email us at [questions@vitamintale
 
 Questions or concerns regarding this Privacy Policy can be directed to the Site Coordinator by email at [privacy@vitamintalent.com](mailto:privacy@vitamintalent.com "privacy@vitamintalent.com").
 
-_Effective Date: 29 July 2013_
+_Updated: 8 July 2015_
