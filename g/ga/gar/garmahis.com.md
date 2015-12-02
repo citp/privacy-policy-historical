@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the garmahis.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630034429id_/http%3A//garmahis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garmahis.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202144034id_/http%3A//garmahis.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Garmahis Design MagazineGarmahis Design Magazine
+# Privacy Policy - Garmahis Design Magazine
 
 The privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Garmahis.com and how it is used.
 
