@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gemselect.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610005123id_/http%3A//www.gemselect.com/help/security-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemselect.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202175912id_/http%3A//www.gemselect.com/help/security-privacy.php) for the most accurate reproduction.*
 
 # Security and Privacy at GemSelect
 
 ## Security & Privacy
 
-GemSelect is concerned about the safety and security of our customers. We ensure that our transaction process is extremely safe and that our customer's information is secure.
+GemSelect is concerned about the safety and security of our customers. We ensure that our transaction process is extremely safe and that our customer's information is secure. 
 
 Payments
 
