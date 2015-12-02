@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masterpass.com privacy policy that was archived on 2015-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150212032405id_/https%3A//masterpass.com/SP/Merchant/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterpass.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202095019id_/https%3A//masterpass.com/SP/Merchant/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Notice
 
