@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whatswithjeff.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408182711id_/http%3A//whatswithjeff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatswithjeff.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202074837id_/http%3A//whatswithjeff.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Whatswithjeff
+# Privacy Policy - Whatswithjeff Tech News
 
 Privacy Policy for http://whatswithjeff.com – Life of a PC Enthusiast and Anime Fanatic V2.0
 
