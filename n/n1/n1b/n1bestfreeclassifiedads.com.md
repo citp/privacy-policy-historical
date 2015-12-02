@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the n1bestfreeclassifiedads.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609233937id_/http%3A//www.n1bestfreeclassifiedads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n1bestfreeclassifiedads.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202044223id_/http%3A//www.n1bestfreeclassifiedads.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
-# Qtellwholesale Limited Private Policy and Cookie Policy Ireland for all webdesign, eCommerce plus all classifieds web sites
+# N1best Free Classified Ads Free Classifiedads Free Advertising Free ad Services Free Classified Trading Free Marketing Classifiedad
 
   
 1\. Introduction
