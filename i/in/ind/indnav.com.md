@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indnav.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509103425id_/http%3A//www.indnav.com/home/tosandprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indnav.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202101634id_/http%3A//www.indnav.com/home/tosandprivacy) for the most accurate reproduction.*
 
 # Indnav.com Terms of Service And Privacy Policy
 
