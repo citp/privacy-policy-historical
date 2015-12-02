@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galgotiasuniversity.edu.in privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419061143id_/http%3A//galgotiasuniversity.edu.in/privacy.aspx%3Fmpgid%3D84%26pgid%3D84) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galgotiasuniversity.edu.in privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202110753id_/http%3A//galgotiasuniversity.edu.in/privacy.aspx%3Fmpgid%3D84%26pgid%3D84) for the most accurate reproduction.*
 
 # Privacy policy
 
