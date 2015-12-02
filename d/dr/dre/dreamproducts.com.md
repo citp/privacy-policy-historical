@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamproducts.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602051608id_/http%3A//www.dreamproducts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamproducts.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203003854id_/http%3A//www.dreamproducts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,8 +7,8 @@ Privacy Policy
 This is the web site of **Dream Products, Inc.**
 
 Our postal address is   
- **9754 Deering Ave.  
-Chatsworth, CA 91311**
+ **412 Dream Lane  **  
+ **Van Nuys, CA 91496**
 
 We can be reached [via e-mail](https://www.dreamproducts.com/contacts/index) or you can reach us by telephone at (800) 410-2153
 
