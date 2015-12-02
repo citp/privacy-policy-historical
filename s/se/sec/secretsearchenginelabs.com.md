@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secretsearchenginelabs.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601043905id_/http%3A//www.secretsearchenginelabs.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretsearchenginelabs.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202062425id_/http%3A//www.secretsearchenginelabs.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Terms and Conditions - Secret Search Engine Labs
 
@@ -14,11 +14,15 @@ If you would like more information about this practice and to know your choices 
 
 ### Cookies
 
-We use cookies for keeping track if internal data as well as to remember your settings from one visit to the next. You can disable cookies in your browers settings. 
+We use cookies for keeping track if internal data as well as to remember your settings from one visit to the next. 
+
+We also use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners. 
+
+You can disable cookies in your browsers settings. 
 
 ### Collecting Statistics
 
-We collect statistics about user visits to our website. We collect information such as IP address and what web browers and screen resolutin was used. 
+We collect statistics about user visits to our website. We collect information such as IP address and what web browsers and screen resolution was used. 
 
 We do not collect personal information such as name, email address or phone number automatically. 
 
@@ -29,4 +33,4 @@ When you submit peronal information, such as your name and email address, to our
 We will however provide your peronal information to our subcontractors for the sole purpose of doing for us what we would have othervise done ourself with your information. i.e. we can have a reliable third party send out our email to you. 
 
 Copyright (C) 2007 - 2015 Text Ad King and SecretSearchEngineLabs.com. All Rights Reserved.   
-[Terms and Conditions](https://web.archive.org/terms-and-conditions.php) \- [Privacy Policy](https://web.archive.org/privacy-policy.php) \- [About Us](https://web.archive.org/about.php) \- [Search Engine Blog](https://web.archive.org/blog) \- [Login](https://web.archive.org/login.php)
+[Terms and Conditions](https://web.archive.org/terms-and-conditions.php) \- [Privacy Policy](https://web.archive.org/privacy-policy.php) \- [Advertising](https://web.archive.org/web/20151202062425id_/http%3A//www.secretsearchenginelabs.com/advertise.php) \- [About Us](https://web.archive.org/about.php) \- [Login](https://web.archive.org/login.php)
