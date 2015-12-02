@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pinalove.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318163238id_/https%3A//www.pinalove.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinalove.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202233621id_/https%3A//www.pinalove.com/privacy.php) for the most accurate reproduction.*
 
-# Thai dating | Biggest free site in Thailand หาแฟนต่างชาติ หาแฟนฝรั่ง
+# Filipina dating | Biggest free site in Thailand หา�?ฟนต่างชาติ หา�?ฟน�?รั่ง
 
 Privacy statement
 
