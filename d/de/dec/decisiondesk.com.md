@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decisiondesk.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509021307id_/http%3A//www.decisiondesk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decisiondesk.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202074125id_/http%3A//www.decisiondesk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DecisionDesk
 
@@ -8,7 +8,7 @@ It is the policy of DecisionDesk Inc. to respect the privacy of each person or e
 
 ### CHILDREN’S PRIVACY
 
-The Website only collects, uses and/or discloses the personally identifiable information that can be used to contact or identify minors under the age of 13 after obtaining verifiable consent from a parent or guardian. If you are under age 13, or if you are the parent or guardian of person under age 13 whose personal information may be provided to DecisionDesk through the Website, please review the notices and disclosures located at <http://decisiondesk.com/privacy-policy-underage/>
+The Website only collects, uses and/or discloses the personally identifiable information that can be used to contact or identify minors under the age of 13 after obtaining verifiable consent from a parent or guardian.
 
 We require those who are age 13 or over, but under the age of majority, obtain permission from a parent or guardian before utilizing the Website and we further recommend such minors obtain permission from a parent or guardian before sending any information about themselves to anyone over the Internet.
 
