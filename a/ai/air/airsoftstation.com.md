@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the airsoftstation.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928110956id_/http%3A//www.airsoftstation.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airsoftstation.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202043111id_/http%3A//www.airsoftstation.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - AirsoftStation.com
-
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
-
-03/21/07
-
-Airsoftstation.com
-
-Our Commitment To Your Privacy
+# Airsoft Station Privacy Policy
 
 Your privacy is important to us. To better protect your privacy the following notice explains the information we collect, how it is used, how it is safeguarded, and how to contact us if you have any concerns.
 
@@ -34,6 +26,4 @@ Remember The Risks Whenever You Use The Internet While we do our best to protect
 
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
-Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
-
-For any other information [send us a message.](https://web.archive.org/web/20140928110956id_/http%3A//www.airsoftstation.com/contact-form.html)
+Newsletter Subscription:  We will send semi-weekly marketing emails to users who sign up for our newsletter.  Each newsletter contains an unsubscribe link should you no longer wish to receive our emails.  Unsubscribing will remove your email from our list within 72 hours.
