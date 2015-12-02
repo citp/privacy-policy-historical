@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hopscotch.in privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506055209id_/http%3A//www.hopscotch.in/about/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hopscotch.in privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202094930id_/http%3A//www.hopscotch.in/about/Privacy) for the most accurate reproduction.*
 
 # Hopscotch - Privacy terms
 
@@ -131,4 +131,4 @@ This Privacy Notice may be updated periodically and without prior notice to you 
 
 ## How to Contact Us
 
-If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by email at [privacy@hopscotch.in](mailto:privacy@hopscotch.in?subject=). If you notice any discrepancies in the information provided to us or have any grievance against us, you may contact our Grievance Officer. The details of the Grievance Officer are as follows: [kennedy@hopscotch.in](mailto:kennedy@hopscotch.in?subject=)
+If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by email at [privacy@hopscotch.in](mailto:privacy@hopscotch.in?subject=). If you notice any discrepancies in the information provided to us or have any grievance against us, you may contact our Grievance Officer. The details of the Grievance Officer are as follows: [pkx.thomas@hopscotch.in](mailto:pkx.thomas@hopscotch.in?subject=)
