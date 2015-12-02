@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrdonn.org privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407124436id_/http%3A//www.mrdonn.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrdonn.org privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202095610id_/http%3A//www.mrdonn.org/privacypolicy.html) for the most accurate reproduction.*
 
 # MrDonn.org - Privacy Policy
 
