@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltechfeed.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607011710id_/http%3A//alltechfeed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltechfeed.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202214340id_/http%3A//www.alltechfeed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - All Tech Feed
 
@@ -32,4 +32,4 @@ AllTechFeed may update this Privacy Policy from time to time. We will notify yo
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy, please contact us. – See more at: http://alltechfeed.com/privacy-policy.
+If you have any questions about this Privacy Policy, please [contact us](http://www.alltechfeed.com/contact-us/).
