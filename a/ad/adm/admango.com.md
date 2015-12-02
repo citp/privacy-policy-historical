@@ -1,56 +1,38 @@
-> *The following text is extracted and transformed from the admango.com privacy policy that was archived on 2001-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010414005356id_/http%3A//www.admango.com/home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admango.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202182633id_/http%3A//www.admango.com/admanGo%2520Data%2520Privacy%2520Statement.pdf) for the most accurate reproduction.*
 
-# admanGo.com
+# admanGo
 
-|    
----  
-admanGo.com Limited Privacy Statement  
-  
-Your privacy on the Internet is of the utmost importance to us. We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: admanGo.com.  
-  
-  
-  
-  
-  
-  
-|   
----  
-| 
-
-Disclosure of Information  
-We do not give, sell or rent your personal information to any third parties. However, we may give, sell or rent aggregated (anonymous) information about our users generally. If you create a personal profile, corporate profile, submit your work to our showcase or submit your job posting, you agree that we may disclose your personal information that you submitted in the registration process to other visitors of admanGo.com. Your personal information will be viewable by other visitors of admanGo.com and such visitors may contact you directly based on this information. 
-
-Disclosure of Information We do not give, sell or rent your personal information to any third parties. However, we may give, sell or rent aggregated (anonymous) information about our users generally. If you create a personal profile, corporate profile, submit your work to our showcase or submit your job posting, you agree that we may disclose your personal information that you submitted in the registration process to other visitors of admanGo.com. Your personal information will be viewable by other visitors of admanGo.com and such visitors may contact you directly based on this information.
-
-|   
-  
-  
-  
-  
-  
-  
-  
-|   
----  
-| 
-
-Opt-Out and Deletion of Information  
-You may opt out of receiving email messages from us about products and services that may be of interest to you at any time by sending an email to us at [info@admango.com](mailto:info@admango.com). If you provide us with your personal information during your use of the web site, you may delete such information by submitting a request to us at :
-
-admanGo.com Limited  
-31st Floor, 133 Wanchai Road  
-Wanchai, Hong Kong
-
-Tel: 852 2836 6775   
-Fax: 852 2882 3943   
-E-mail: [info@admango.com](mailto:info@admango.com)
-
-|   
-  
-  
-  
-  
-  
-  
-   
- 
+                                           admanGo’s Data Privacy Statement
+   This Statement is made by admanGo.com Limited in accordance with the Personal Data (Privacy) Ordinance of the
+   Hong Kong Special Administrative Region ("the Ordinance"). The Statement is intended to notify you why personal
+   data is collected, how it will be used and to whom data access requests are to be addressed.
+1. Personal data will only be collected for a lawful purpose, and by lawful and fair means. The purpose for which your
+   personal data and other information may be used include:
+   a.   the provision and daily operation (including without limitation, maintenance and administration) of the online
+        application and data services provided to you;
+   b.   incorporation into our database, analysis, research and auditing;
+   c.   prevention or detection of crime and copyright infringement;
+   d.   legal proceedings; and
+   e.   other purposes directly relating to the activities identified above.
+2. Personal data provided by you will not be kept longer than is necessary for the fulfilment of the purpose for which it
+   is collected. As a general rule the maximum retention period is 7 years.
+3. Personal data supplied to admanGo will reside in admanGo servers which are protected to the maximum possible
+   extent against unauthorized or accidental access, processing, erasure or other illegitimate manipulation. admanGo
+   servers are, to the maximum possible extent, protected against security attacks over the Internet by means of
+   system securities set up and the "Firewalls". A well-organized and safe system of backups is in place.
+4. All reasonably practicable steps will be taken to ensure that personal data held are protected against unauthorized
+   or accidental access, processing, erasure or other use.
+5. Your personal data and other information shall be kept confidential. admanGo may, at its sole discretion and for
+   the purpose(s) mentioned above, provide your personal data and other information to:
+   a.   any person under a duty of confidentiality to admanGo or who has given to admanGo an undertaking of
+        confidentiality; and
+   b.   any person or regulatory or other authority to whom we are under an obligation or duty to make disclosure
+        pursuant to any relevant laws, rules, regulations, codes or guidelines binding on admanGO.
+6. Under and in accordance with the terms of the Ordinance, you have the right to:
+   a.   check whether admanGo holds your personal data and right of access to such data;
+   b.   require admanGo to correct any data relating to you which is inaccurate; and
+   c.   ascertain admanGo’s policies and procedures in relation to data and to be informed of the kind of personal
+        data held by admanGo.
+7. You have the right to access and update your information and contact us. If you have any question about our
+   Privacy Policy Statement, please write to us at:
+   admanGo Limited, 1101, 50 Gloucester Road, Wanchai, Hong Kong
