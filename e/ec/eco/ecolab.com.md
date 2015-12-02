@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecolab.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623143434id_/http%3A//www.ecolab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecolab.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202033928id_/http%3A//www.ecolab.com/privacy-policy) for the most accurate reproduction.*
 
 # Ecolab Privacy Policy | Ecolab
 
@@ -21,8 +21,8 @@ Ecolab is committed to the goal of adhering to these Privacy Principles in all p
 **Onward Transfer (Transfer to Third Parties):** The Notice and Choice Principles defined in these principles shall be applied to all onward transfers of personal data. Ecolab will not transfer Personal Data to a Third Party without notice unless one of the following applies:
 
   * Ecolab can ensure the Third Party is in compliance with EU Safe Harbor Principles; 
-  * The Third Party is subject to the EU Data Protection Directive;
-  * The Third Party has certified via agreement that it provides a level of protection equivalent to the Safe Harbor Principles.
+  * The Third Party is subject to the EU Data Protection Directive; 
+  * The Third Party has certified via agreement that it provides a level of protection equivalent to the Safe Harbor Principles. 
 
 
 
@@ -42,10 +42,10 @@ Ecolab is committed to maintaining all reasonable precautions to assure the priv
 
 Ecolab’s website is intended to be used by Ecolab customers, commercial visitors, business associates, investors, and other interested parties for business purposes. Personal Data collected by Ecolab through its website or by other means is used in support of our commercial relationship with you, including, but not limited to, the processing of customer orders, managing accounts, learning about customers’ needs, responding to inquiries, and providing access to information. Also, in compliance with the laws and regulations of the relevant jurisdiction to support our relationship with you:
 
-  * we may share Personal Data with our worldwide affiliates to better understand your business needs and how we can improve our products and services;
-  * we may use third party service providers to assist us in collecting, assembling or processing Personal Data in connection with services related to our business relationship;
-  * we (or a third party on our behalf) may use Personal Data to contact you about a Ecolab offer in support of your business needs or to conduct online surveys to understand better our customers’ needs; and
-  * we may use Personal Data for marketing and promotional activities.
+  * we may share Personal Data with our worldwide affiliates to better understand your business needs and how we can improve our products and services; 
+  * we may use third party service providers to assist us in collecting, assembling or processing Personal Data in connection with services related to our business relationship; 
+  * we (or a third party on our behalf) may use Personal Data to contact you about a Ecolab offer in support of your business needs or to conduct online surveys to understand better our customers’ needs; and 
+  * we may use Personal Data for marketing and promotional activities. 
 
 
 
@@ -55,12 +55,12 @@ If you choose not to have your Personal Data used to support our customer relati
 
 Ecolab is the commercial operator of its website and uses service providers to assist in hosting, and providing software and content for our sites and providing other services. Ecolab may disclose Personal Data supplied by you to these Third Parties who provide such services under contract to protect your Personal Data. In addition, where consistent with the laws and regulations of the relevant jurisdiction, Ecolab may disclose Personal Data if such disclosure:
 
-  * is a use of the Personal Data for an additional purpose that is directly related to the original purpose for which the Personal Data was collected;
-  * is necessary to prepare, negotiate and perform a contract with you;
-  * is required by law or the competent governmental or judicial authorities;
-  * is necessary to establish or preserve a legal claim or defense;
-  * is part of a corporate restructuring, sale of assets, merger or divestiture; or,
-  * is necessary to prevent fraud or other illegal activities, such as willful attacks on Ecolab information technology systems.
+  * is a use of the Personal Data for an additional purpose that is directly related to the original purpose for which the Personal Data was collected; 
+  * is necessary to prepare, negotiate and perform a contract with you; 
+  * is required by law or the competent governmental or judicial authorities; 
+  * is necessary to establish or preserve a legal claim or defense; 
+  * is part of a corporate restructuring, sale of assets, merger or divestiture; or, 
+  * is necessary to prevent fraud or other illegal activities, such as willful attacks on Ecolab information technology systems. 
 
 
 
@@ -98,7 +98,7 @@ In general, Ecolab will retain Personal Data for as there is a need for the data
 
 Upon request, Ecolab will grant individuals reasonable access to Personal Data that it holds about them. In addition, Ecolab will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. Ecolab also relies upon each individual to assist in providing accurate updates of his or her Personal Data. In order to access, correct, amend, or delete the Personal Data Ecolab holds about an individual, the individual should contact the following:
 
-**PHONE:** (630) 305-2940 | **EMAIL:** [dataprivacy@ecolab.com](mailto:dataprivacy@ecolab.com)
+**PHONE:**  +1-844-880-8355 | **EMAIL:** [dataprivacy@ecolab.com](mailto:dataprivacy@ecolab.com)
 
 ## N. U.S. – EU and U.S – Switzerland Safe Harbor Participation
 
@@ -110,7 +110,7 @@ More information about Safe Harbor program and Ecolab’s certification can be f
 
 If you have any questions about our Safe Harbor participation or this Statement as it relates to any jurisdiction or country, or if you have any concerns regarding your Personal Data, please contact:
 
-**PHONE:** (630) 305-2940 | **EMAIL:** [dataprivacy@ecolab.com](mailto:dataprivacy@ecolab.com)
+**PHONE:**  +1-844-880-8355 | **EMAIL:** [dataprivacy@ecolab.com](mailto:dataprivacy@ecolab.com)
 
 You may also seek independent recourse outside of Ecolab through the following means:
 
@@ -123,6 +123,10 @@ You may also seek independent recourse outside of Ecolab through the following m
 
 Ecolab reserves the right to modify this Statement from time to time in order that it accurately reflects the regulatory environment and our data collection principles. When material changes are made to this Statement, Ecolab will post the revised Statement on our website.
 
-## P. Questions and Comments
+## P. Ecolab Employee Data Privacy Compliance Manual
 
-If you have any questions or comments about this Statement (e.g. to review and update, or remove your Personal Data from our database) please contact (630) 305-2940 or [dataprivacy@ecolab.com](mailto:dataprivacy@ecolab.com) 
+More information on the Ecolab Employee Data Privacy Policy can be found here: <http://www.ecolab.com/epp>.
+
+## Q. Questions and Comments
+
+If you have any questions or comments about this Statement (e.g. to review and update, or remove your Personal Data from our database) please contact +1-844-880-8355 or [dataprivacy@ecolab.com](mailto:dataprivacy@ecolab.com) 
