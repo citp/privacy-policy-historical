@@ -1,0 +1,473 @@
+<!--The following is the downloaded HTML source of the locallife.co.uk privacy policy that was archived on 2015-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151202035209id_/http%3A//www.locallife.co.uk/privacy.asp) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<title>Privacy Statement | locallife.co.uk</title>
+<meta name="description" content="the UK's local information network">
+<meta name="keywords" content="locallife,local,local life,business, community, education, entertainment, health, beauty, home, family, news, travel, weather, shopping, sport, leisure,uk, england, wales, scotland, northern ireland">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- <link rel="stylesheet/less" href="/css/responsive.less" type="text/css"> --><link rel="stylesheet" href="/css/responsive.css" type="text/css">
+<!-- <link rel="stylesheet" href="/css/jquery.mobile-1.4.5.min.css"> -->
+<link rel="stylesheet" href="/css/jquery-ui.css">  
+<link href="https://fonts.googleapis.com/css?family=symbola" rel="stylesheet" type="text/css">
+<style>
+ul.ui-autocomplete.ui-menu{width:auto;border-width: 0px 1px 1px 1px; border-color:#666666}
+</style> 
+
+<script src="/js/jquery-1.9.0.js"></script>  
+<script src="/js/jquery-ui.js"></script>
+<!-- <script src="/js/jquery.mobile-1.4.5.min.js"></script> -->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDnTvL861jVR0-kcoPd7Eqf3pSFm11dRh0&amp;sensor=false"></script>
+<script src="/js/allheaders.js"></script>
+
+
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<script src="https://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<!-- <script src="/css/less.min.js" type="text/javascript"></script> -->
+
+</head>
+
+
+<body id="top" style="zoom: 1;">
+
+<div class="outer_cont">
+ 
+<div class="inner_cont" id="sitehead_cont">
+ <div id="sitehead">
+   <a href="/" title="locallife.co.uk"><img id="logo" src="/images/headers/logo.png"></a>
+   <div id="dom" onclick="document.location.href='/';"><span>locallife</span>.co.uk</div>
+   <div id="searchbut" onclick="javascript:searchtog();"><div id="magnifying-glass"></div></div>
+ </div>
+</div> 
+<div class="inner_cont" id="sitetitle_cont">
+ <div id="ptitle">
+  <h1>Privacy Statement</h1>
+  <h3>Things to do, Shopping, Restaurants, Doctors, Banks, Hair Salons, Schools, Hotels, Solicitors and much more in your local area...</h3>
+  <img name="stats" src="/blk.gif" border="0" height="1" width="1" style="display:none;">
+ </div> 
+</div>
+
+
+<script language="javascript">
+
+var postdist = ""
+
+var geocoder = new google.maps.Geocoder(); 
+
+function submitsearch_link(p3title){
+document.searchform.catsearch.value = p3title
+document.searchform.loc.value = "UK town or postcode"
+submitsearch('link')
+}
+
+function submitsearch(mode){
+var errors = ""
+
+if(document.searchform.loc.value==""||document.searchform.loc.value=="UK town or postcode"||document.searchform.loc.value=="please enter a location"){
+document.searchform.loc.value = "please enter a location"
+document.getElementById('loc').style.color = "red"
+errors = "yes"
+}
+
+if(errors==""){
+var parameters = "loc=" + escape(document.searchform.loc.value)
+xmlhttp=new XMLHttpRequest()
+xmlhttp.onreadystatechange=function(){
+
+  if (xmlhttp.readyState==4){
+  
+  	if(xmlhttp.status==200){
+ 	  	
+  		if(xmlhttp.responseText!=""){
+  		var latlong = xmlhttp.responseText
+  		var i = latlong.indexOf(":")
+  			if(i==-1){
+  			document.searchform.region_folder.value = xmlhttp.responseText
+  			check_cat()
+  			}else{
+ 				document.searchform.latitude.value = latlong.substr(0, i)
+				document.searchform.longitude.value = latlong.substr(i + 1, latlong.length - i)
+				nearest_site(mode) 	
+				}	
+			}else{
+			var location = document.searchform.loc.value + ", UK"
+    	var geocoderRequest = { address: location };
+			geocoder.geocode(geocoderRequest,
+			function(results, status) {
+				if (status == google.maps.GeocoderStatus.OK) {
+				var point =  results[0].geometry.location
+				document.searchform.latitude.value = point.lat()
+				document.searchform.longitude.value = point.lng()
+				nearest_site(mode)
+				}else{
+				document.searchform.loc.value = "we cannot find this location"
+				document.getElementById('loc').style.color = "red"
+				}
+			})
+		}	
+
+
+  	}
+  }
+}
+
+xmlhttp.open("GET","/check_loc.asp?" + parameters,true);
+xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+xmlhttp.setRequestHeader("Content-length", parameters.length);
+xmlhttp.setRequestHeader("Connection", "close");
+xmlhttp.send(null)
+}else{
+//document.getElementById("error_line").style.display = "inline"
+}
+}
+
+function nearest_site(mode){
+var parameters = "latitude=" + escape(document.searchform.latitude.value)
+parameters = parameters + "&longitude=" + escape(document.searchform.longitude.value)
+parameters = parameters + "&loc=" + escape(document.searchform.loc.value)
+xmlhttp=new XMLHttpRequest()
+xmlhttp.onreadystatechange=function(){
+
+  if (xmlhttp.readyState==4){
+  
+  	if(xmlhttp.status==200){  	
+  		if(document.searchform.catcomp.value!=""&&document.searchform.catcomp.value!="e.g. plumbers, florists or company name"){
+   		document.searchform.action = "/" + xmlhttp.responseText + "/sitesearch.asp"
+  		document.searchform.submit() 		
+  		}else{
+  		document.searchform.action = "/" + xmlhttp.responseText + "/index.asp"
+  	  document.searchform.submit()
+  		}  		
+  	}
+  	
+  }
+}
+xmlhttp.open("GET","/nearest_site.asp?" + parameters,true);
+xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+xmlhttp.setRequestHeader("Content-length", parameters.length);
+xmlhttp.setRequestHeader("Connection", "close");
+xmlhttp.send(null)
+}
+
+function check_cat(){
+var parameters = "cat=" + escape(document.searchform.catcomp.value)
+xmlhttp=new XMLHttpRequest()
+xmlhttp.onreadystatechange=function(){
+
+  if (xmlhttp.readyState==4){
+  	if(xmlhttp.status==200){ 
+  	 	if(document.searchform.catcomp.value==""||document.searchform.catcomp.value=="e.g. plumbers, florists or company name"){
+  	 	document.searchform.action = "/" + document.searchform.region_folder.value + "/index.asp"
+  		}else if(xmlhttp.responseText!=""){
+  		document.searchform.action = "/" + document.searchform.region_folder.value + "/" + xmlhttp.responseText + ".asp"
+  		}else{
+  		document.searchform.action = "/" + document.searchform.region_folder.value + "/sitesearch.asp"
+  		}  		
+  	document.searchform.submit()		
+  	}
+  }
+}
+xmlhttp.open("GET","/valid_cat.asp?" + parameters,true);
+xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+xmlhttp.setRequestHeader("Content-length", parameters.length);
+xmlhttp.setRequestHeader("Connection", "close");
+xmlhttp.send(null)
+}
+
+$(function() {  
+$("#catcomp").autocomplete({
+minLength: 2,
+source: "/ssi/catcompsearch.asp?loc=" + escape(document.searchform.loc.value)
+}).focus(function () {
+   if(document.searchform.catcomp.value=="e.g. plumbers, florists or company name"||document.searchform.catcomp.value=="please enter a search term"){
+   document.searchform.catcomp.value=""
+   }
+document.getElementById("catcomp").style.color=""
+//$(this).autocomplete("search");
+})  
+$("#loc").autocomplete({
+minLength: 2,
+source: "/ssi/locsearch.asp?lat=&long="
+}).focus(function () {
+   if(document.searchform.loc.value=="UK town or postcode"||document.searchform.loc.value=="please enter a location"||document.searchform.loc.value=="we cannot find this location") {
+   document.searchform.loc.value=""
+   } 
+document.getElementById("loc").style.color=""
+//$(this).autocomplete("search");
+}); 
+});
+
+function init_search(){
+$('#loc').keydown(function(e) {
+    if(e.keyCode == 13) {
+    	submitsearch()
+			return false; 
+        }
+});
+$('#catcomp').keydown(function(e) {
+    if(e.keyCode == 13) {
+    	submitsearch()
+			return false; 
+        }
+});
+document.getElementById('catcomp').blur()
+
+}
+
+function set_dft(){
+
+   if(document.searchform.loc.value==""){
+   document.getElementById('loc').style.color = "gray"
+   document.getElementById('loc').value="UK town or postcode"
+   //document.searchform.loc.value="UK town or postcode"
+   } 
+
+   if(document.searchform.catcomp.value==""){
+   document.getElementById('catcomp').style.color = "gray"
+   document.searchform.catcomp.value="e.g. plumbers, florists or company name"
+   }
+}
+
+</script>
+
+
+<div id="searchunit">
+ <div id="sform"> 
+  <form name="searchform" method="post">
+  <div id="looking">I'm looking for</div> 
+  <input type="hidden" name="catsearch">
+  <input type="hidden" name="latitude" id="latitude">
+  <input type="hidden" name="longitude">
+  <input type="hidden" name="site" id="site">
+  <input type="hidden" name="region_folder">
+  <div id="scat"><input type="text" name="catcomp" id="catcomp" value="e.g. plumbers, florists or company name" onblur="javascript:set_dft()" style="color:gray;"></div>
+  <div id="in">in</div> 
+  <div id="sloc"><input type="text" name="loc" id="loc" value="UK town or postcode" onblur="javascript:set_dft()" style=";color:gray"></div>
+  <div id="but"><a href="javascript:submitsearch('');">Search</a></div>
+  </form>
+ </div> 
+</div>
+
+
+<script>
+
+function menutog () {
+
+if ($('#morenav').hasClass('open')) {
+	$('#morenav').removeClass('open')
+	$('#more').html("more")	
+} else {
+	$('#morenav').addClass('open')
+	$('#more').html("Close")
+}
+
+}
+
+function searchtog () {
+
+if ($('#searchunit').hasClass('open')) {
+	$('#searchunit').removeClass('open')
+} else {
+	$('#searchunit').addClass('open')
+}
+
+}
+
+function showMemOpts () {
+
+   if ($('#memnav_arrow').hasClass('show')) {
+		$('#memnav_arrow').removeClass('show');
+		$('#memnav').removeClass('show');		
+	}	else {
+		$('#memnav_arrow').addClass('show');		
+		$('#memnav').addClass('show');				
+	}
+}
+
+</script>
+
+<div id="topnav">
+
+ <div id="navleft"><ul>
+
+  <li id="regnav" onclick="document.location.href='/create-account.asp'">Sign Up</li>
+  <li onclick="document.location.href='/signin.asp'"><a href="#">Log In</a></li>
+ 	
+  <li class="bignav"><a href="/">Home Page</a></li>
+
+  <li class="bignav"><a href="/store-finder">Store Finder</a></li>  
+ 
+ </ul></div>
+ <div id="menu_outer" onclick="javascript:menutog();"><div id="menu_lines"></div><div id="more">more</div></div>
+ 
+</div> 
+ 
+<div id="memopt_con"> 
+ <div id="memnav_arrow"></div>
+ <ul id="memnav">
+  <li onclick="document.location.href='/my';">View</li>	
+  <li onclick="document.location.href='/my/update_profile';">Update</li>
+  <li onclick="document.location.href='/my/?show=reviews';">My Reviews</li>
+  <li onclick="document.location.href='/my/update_photo';">Change Picture</li>
+ </ul>
+</div> 
+ 
+ <div id="morenav"><ul>
+ 
+  <li class="smallnav"><a href="/">Home Page</a></li>
+   
+  <li class="smallnav"><a href="/store-finder">Store Finder</a></li>
+
+  <li><a href="https://business.locallife.co.uk">Business Members</a></li>
+
+  <li><a href="/southend/linktous.asp">Link to Us</a></li>
+<li><a href="/s/select-a-category.asp">Select a Category</a></li>
+  <li><a href="/regionindex.asp">Region Index</a></li>
+
+  <li><a href="/llcontact.asp">Contact Us</a></li>  
+     
+  </ul></div>
+
+
+
+
+<div id="backto">
+ <div>back to: <a href="/">home page</a></div>
+</div>
+
+<div class="inner_cont">
+
+ <div class="leftcol">
+
+  <h2>Locallife.co.uk Privacy Statement</h2>
+  <div class="para"><div class="ttl">About us</div>The website at <a href="http://www.locallife.co.uk" target="_blank"><u>www.locallife.co.uk</u></a> ("<b>the Site</b>") is operated by Promote Local Limited, a company registered in England with registered number 8043542 whose trading office is Elmer Approach, Southend-on-Sea, SS1 1LW("<b>we</b>" or "<b>us</b>").<br><br>If you have any questions, comments or suggestions about the way in which we use your personal information or if any of your personal information changes, please write to us at the above address or email us at <a href="mailto:privacy@locallife.co.uk"><u>privacy@locallife.co.uk</u></a>.<br><br>Your privacy is very important to you and us.  We depend on the trust of our customers.  We shall therefore only use your name and other information relating to you that we collect on the Site in the manner set out in this Privacy Statement.  We will only use your personal information in a way that is fair to you.  We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you.<br><br>We will only keep your information for as long as we are either required to by law, or as is relevant for the purposes for which it was collected.</div>
+  <div class="para"><div class="ttl">Data that we collect</div>We may ask you to supply us with various information about yourself during your use of the Site or when you order a service from us.  We use that information to process your orders and to give you a service that suits your preferences.<br><br>We may collect the following information when you order a service (such as linking services) from us: your name, the name of your company, your position in the company, your e-mail address, postal address, telephone numbers, fax number and payment card details. We may also issue you with a user name and password.  We need this information in order to decide whether to go ahead with your request for services, to process and deliver the service which you order, to collect payment from you for the services, to give you access to your own log-in section on the Site, to detect any fraud or Site abuses, to send you information relevant to the services, in case there is any servicing required in respect of the service and in case we have any queries.<br><br>We may also collect some of the above information and also the nature of your enquiry when you submit an enquiry to us.  We use that information for responding to your enquiry.<br><br>You must only submit to us or the Site information which is accurate and not misleading and you must keep it up to date and inform us of changes.</div>
+  <div class="para"><div class="ttl">Other uses of your personal information</div>We may also use the contact details which you give to us to send you our newsletters, publications and other information about us, the Site, our products and services (including new or updated products or services and sales promotions), our events, anything relating to our business partners or anything in which you show an interest.  If you would prefer not to receive this information relating to our business partners, please send us an appropriate e-mail explaining this to <a href="mailto:privacy@locallife.co.uk"><u>privacy@locallife.co.uk</u></a>, write to us at the above address or fax us on 01702 391040.  Alternatively, if you would prefer not to receive this information relating to either us or our business partners, then please contact us in the same way explaining this.<br><br>We may also use your personal information for the purposes of billing, customer services, customer surveys and improving our service.</div>
+  <div class="para"><div class="ttl">Third Parties and Links</div>We may pass your details to our agents and subcontractors to help us with any of our uses of your data set out in our Privacy Statement.  For example, we may use third parties to assist with delivering services to you, to enable us to collect payments from you, to analyse data and to provide us with marketing or customer service assistance.<br><br>We may exchange information with third parties for the purposes of fraud protection and credit risk reduction.<br><br>We may transfer our databases containing your personal information if we sell our business or part of it.<br><br>Other than as set out in this Privacy Statement, we shall NOT sell or disclose your personal data to third parties without obtaining your prior consent unless this is necessary for the purposes set out in this Privacy Statement or unless we are required to do so by law.<br><br>The Site may contain advertising of third parties and links to other sites or frames of other sites.  Please be aware that we are not responsible for the privacy practices or content of those third parties or other sites, nor for any third party to whom we transfer your data in accordance with our Privacy Statement.</div>
+  <div class="para"><div class="ttl">Security</div>We have in place appropriate technical and security measures to prevent unauthorized or unlawful access to or accidental loss of or destruction or damage to your information.  <br><br>We store your personal details on a secure server.  We use firewalls on our servers.  When we collect payment card details electronically, we use encryption by using Secure Site Certificate technology.  Whilst we are unable to guarantee 100% security, this makes it hard for a hacker to decrypt your details.  We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of your information.</div>
+  <div id="cookies_para" class="para"><div class="ttl">Cookies</div>This Site uses cookies. Cookies are files which identify your computer to the server of websites as a unique user and they are stored by your Internet browser on your computer's hard drive. We use cookies when you become a consumer member so that you do not need to sign in every time you visit the site.<br><br>This site also uses cookies from Google to deliver its services, to personalise ads and to analyse traffic. Information about your use of this site is shared with Google. <a href="https://www.google.com/policies/technologies/cookies/" target="_blank"><u>Learn More.</u></a><br><br>By using this site, you agree to its use of cookies.</div>
+  <div class="para"><div class="ttl">Changes</div>Any material changes to the way in which we use your data will be described in future versions of this Privacy Statement.  Each time you enter the Site or order products or services from us, you agree that the Privacy Statement current at that time shall apply to all information which we hold about you. </div>
+  <div class="para"><div class="ttl">Consent</div>By submitting data to us and using the Site, you consent to our use of your data in the manner set out in this Privacy Statement (as amended).</div>
+
+ </div>
+
+ <div class="rightcol">
+
+<div class="showdatetime">Wed 2 December 2015 | Local Time: 4:52am</div>
+
+<div class="section_header right">Latest Reviews</div>
+<div id="reviews">
+
+<div><span class="head">
+<img src="/images/layout/star-off.png"><img src="/images/layout/star-off.png"><img src="/images/layout/star-off.png"><img src="/images/layout/star-off.png"><img src="/images/layout/star-on.png"><a href="/c-c/alivin-place-property-management-london.asp?dispmode=reviewlist">Alivin Place Property Management</a></span>
+<a class="cat" href="/camden/estate-management.asp">Estate Management</a>
+<span class="detail">"completely useless if not even harmful in performing their 'no duties'. they are just mere office slaves between a tenants and a landlords. advice to .." <a href="/c-c/alivin-place-property-management-london.asp?dispmode=reviewlist">see more...</a></span>
+<span class="by">Review by <a href="/members/?id=18843">filippob</a> | 10/10/2015</span></div>
+<div><span class="head">
+<img src="/images/layout/star-on.png"><img src="/images/layout/star-on.png"><img src="/images/layout/star-on.png"><img src="/images/layout/star-on.png"><img src="/images/layout/star-on.png"><a href="/c-s/fair-cleaning-london.asp?dispmode=reviewlist">Fair Cleaning</a></span>
+<a class="cat" href="/southwark/cleaning-contractors.asp">Cleaning Contractors</a>
+<span class="detail">"We are very satisfied with Fair Cleaning - the quality cleaning, reliability and professionalism means the upkeep to our property is carefree. Incompa.." <a href="/c-s/fair-cleaning-london.asp?dispmode=reviewlist">see more...</a></span>
+<span class="by">Review by <a href="/members/?id=18812">beckycles</a> | 08/10/2015</span></div>
+<div><span class="head">
+<img src="/images/layout/star-on.png"><img src="/images/layout/star-on.png"><img src="/images/layout/star-on.png"><img src="/images/layout/star-on.png"><img src="/images/layout/star-on.png"><a href="/c-b/frans-mobile-hair-service-groomsport.asp?dispmode=reviewlist">Fran's Mobile Hair Service</a></span>
+<a class="cat" href="/bangor/mobile-hairdressers.asp">Mobile Hairdressers</a>
+<span class="detail">"Had my hair coloured in the comfort of my own home what a difference not to have to go out. My hair is mostly grey and the colour never really worked..." <a href="/c-b/frans-mobile-hair-service-groomsport.asp?dispmode=reviewlist">see more...</a></span>
+<span class="by">Review by <a href="/members/?id=18723">Val</a> | 06/10/2015</span></div>
+</div>
+
+<div id="content_feed">
+
+
+<div class="section_header right">Related News Headlines</div>
+<div id="latestnews">
+
+
+
+ <div><span class="headline"><a href="http://www.bbc.co.uk/news/uk-politics-34980504#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" target="_blank">Commons to vote on Syria bombing</a><span class="date">Wed, 02 Dec 2015 01:44:43 GMT</span></span><span class="detail">MPs will decide later whether to authorise UK air strikes against Islamic State in Syria at the end of what is expected to be a mammoth 10-hour debate.</span></div>
+
+
+
+ <div><span class="headline"><a href="http://www.bbc.co.uk/news/uk-34979910#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" target="_blank">'Go forward' response to terror attack</a><span class="date">Wed, 02 Dec 2015 01:46:10 GMT</span></span><span class="detail">Firearms officers might have to "walk over casualties" in the event of a Paris-style UK attack to deal with the threat, a senior officer says.</span></div>
+
+
+
+ <div><span class="headline"><a href="http://www.bbc.co.uk/sport/0/athletics/34979158" target="_blank"><img src="http://c.files.bbci.co.uk/17546/production/_86985559_lord_coe_getty.jpg" border="0"></a><a href="http://www.bbc.co.uk/sport/0/athletics/34979158" target="_blank">MPs to quiz Lord Coe on blood doping</a><span class="date">Tue, 01 Dec 2015 23:55:04 GMT</span></span><span class="detail">IAAF president Lord Coe is to be questioned by the culture, media and sport select committee about blood doping in athletics.</span></div>
+
+
+
+ <div><span class="headline"><a href="http://www.bbc.co.uk/news/uk-34961217#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" target="_blank">Cocaine users urged to consider impact</a><span class="date">Wed, 02 Dec 2015 00:01:59 GMT</span></span><span class="detail">A UK campaign to highlight the harm caused by the production and distribution of cocaine is launched by the National Crime Agency.</span></div>
+
+
+
+ <div><span class="headline"><a href="http://www.bbc.co.uk/news/uk-england-tyne-34975316#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" target="_blank"><img src="http://c.files.bbci.co.uk/6F83/production/_86974582_fire4.jpg" border="0"></a><a href="http://www.bbc.co.uk/news/uk-england-tyne-34975316#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" target="_blank">One person feared dead in shop blaze</a><span class="date">Tue, 01 Dec 2015 17:55:57 GMT</span></span><span class="detail">One person is feared dead after a large blaze in Newcastle city centre which took fire crews more than five hours to bring under control.</span></div>
+
+
+
+</div>
+<div class="content_feed">Content provided by the BBC</div>
+
+</div>
+
+ </div> 
+  
+</div> 
+
+
+
+<div class="inner_cont">
+ <div id="footacr">
+  <div><b>Featured locations</b><a title="Essex" href="/essex">Essex</a><a title="London" href="/london">London</a><a title="Devon" href="/devon">Devon</a><a title="Cornwall" href="/cornwall">Cornwall</a><a title="Ayrshire" href="/ayrshire">Ayrshire</a></div>
+  <div><b>All Areas</b><a href="/regionindex.asp">Region A to Z</a></div>
+ </div> 
+</div>
+
+
+
+
+<div class="inner_cont"><div id="footer_sep"></div></div>
+<div class="inner_cont" id="footer_back"><a href="#top">back to top</a></div>
+<div class="inner_cont" id="footer_cont">
+ <div id="footer_links">
+  <ul>
+   <li><a href="/termsofuse.asp">terms of use</a></li>
+	<li><a href="/privacy.asp">privacy statement</a></li>
+	<li><a href="/aboutus.asp">about locallife.co.uk</a></li>
+	<li><a href="/llcontact.asp">contact us</a></li>
+	<li><a href="http://www.locallife.co.fr">locallife.co.fr</a></li><li><a href="http://www.locallife.co.nz">locallife.co.nz</a></li>
+  </ul>
+ </div> 
+ <div id="footer_copy">© 2015 Promote Local Limited. &nbsp; All rights reserved.</div>
+</div>
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11914980-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+<script type="text/javascript">
+/* Open Close */
+$(document).ready(function(){
+$('#cookieclose').click( function() { $('#cookies').hide('slow'); });
+/* Final Close */
+});
+</script>
+
+<div id="cookies"><img src="/images/layout/888888.gif" id="cookieclose">We use cookies to improve your online experience. Learn more about what we use them for <a href="/privacy.asp#cookies_para">here</a>.</div>
+
+
+</div> <!-- end outer_cont -->
+
+
+
+
+</body></html>
