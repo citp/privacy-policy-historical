@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltipsfinder.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603025606id_/http%3A//alltipsfinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltipsfinder.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203003309id_/http%3A//alltipsfinder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | all tips finder
 
