@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freegameszonetab.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315012549id_/http%3A//www.freegameszonetab.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegameszonetab.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202100850id_/http%3A//freegameszonetab.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-FreeGamesZone, a product distributed to Bandoo Media Inc., ("FreeGamesZone ") takes your privacy very seriously. Please read the following to learn more about FreeGamesZone's Privacy Policy ("Policy"). This Policy details how FreeGamesZone receives, collects and uses information in connection with our website and software provided on the FreeGamesZonetab.com website (the website and software collectively referred to herein as "Site").
+FreeGamesZone, a product distributed to INMIND INC., ("FreeGamesZone ") takes your privacy very seriously. Please read the following to learn more about FreeGamesZone's Privacy Policy ("Policy"). This Policy details how FreeGamesZone receives, collects and uses information in connection with our website and software provided on the FreeGamesZonetab.com website (the website and software collectively referred to herein as "Site").
 
 **Collection and Use of Information**
 
