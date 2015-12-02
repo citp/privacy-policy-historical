@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelaudience.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625020508id_/http%3A//travelaudience.com/taresources/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelaudience.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202090136id_/http%3A//travelaudience.com/taresources/privacy.html) for the most accurate reproduction.*
 
 # privacy policy
 
