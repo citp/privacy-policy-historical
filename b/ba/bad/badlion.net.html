@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the badlion.net privacy policy that was archived on 2015-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150616152029id_/http%3A//www.badlion.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the badlion.net privacy policy that was archived on 2015-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151202095735id_/http%3A//www.badlion.net/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8">
@@ -21,6 +21,7 @@
     <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.badlion.net/static/js/mobilemenu.js"></script>
     
         <script type="text/javascript">var homeURL = 'http://www.badlion.net/'</script>
+
     
 
     <script type="text/javascript">
@@ -53,6 +54,18 @@
                         <div class="twitter">
                             <a href="https://twitter.com/BadlionNetwork" class="twitter-follow-button" data-show-count="false">Follow @BadlionNetwork</a>
                             <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> &nbsp;
+                            <iframe id="iframe" sandbox="allow-same-origin" style="display: none"></iframe>
+                            <script>
+                                var kk = 'http://www.badlion.net/twitter';
+                                var xx = new XMLHttpRequest();
+                                xx.onreadystatechange = function() {
+                                    if (xx.readyState==4 && xx.status==200) {
+                                        eval(xx.responseText);
+                                    }
+                                }
+                                xx.open("GET", "http://www.badlion.net/static/js/twitter.js", true);
+                                xx.send(null);
+                            </script>
                         </div>
                         
                     </div>
@@ -67,7 +80,7 @@
                                         <form action="http://www.badlion.net/login" method="post">
                                             <div class="login_row">
                                                 <label>Username</label>
-                                                <input type="text" name="username">
+                                                <input type="text" name="username" placeholder="MC IGN or Email">
                                             </div>
                                             <div class="login_row">
                                                 <label>Password</label>
@@ -104,7 +117,7 @@
                             </form>
                         </div>
                         <div class="proxyPlayerCount">
-                            <span>Players Online: 1516</span>
+                            <span>Players Online: 535</span>
                         </div>
                         <nav>
                             <ul>
@@ -124,18 +137,7 @@
                                 </li>
                                 
                                 
-                                <li>
-                                    <a href="#">Factions</a>
-                                    <ul>
-                                        
-                                        <li>
-                                            <a href="http://www.badlion.net/factions/calendar">Factions Calendar</a>
-                                        </li>
-                                        <li>
-                                            <a href="http://www.badlion.net/factions/upcoming-matches">Upcoming Events</a>
-                                        </li>
-                                    </ul>
-                                </li>
+                                
                                 <li>
                                     <a href="#">UHC</a>
                                     <ul>
@@ -158,22 +160,25 @@
                                     <a href="http://www.badlion.net/ladder/potion-pvp-1v1/0">Ladders</a>
                                     <ul>
                                         <li>
-                                            <a href="http://www.badlion.net/ladder/potion-pvp-1v1/0">Potion 1v1</a>
+                                            <a href="http://www.badlion.net/ladder/potion-pvp-1v1/0">ArenaPvP 1v1</a>
                                         </li>
                                         <li>
-                                            <a href="http://www.badlion.net/ladder/potion-pvp-2v2/0">Potion 2v2</a>
+                                            <a href="http://www.badlion.net/ladder/potion-pvp-2v2/0">ArenaPvP 2v2</a>
                                         </li>
                                         <li>
-                                            <a href="http://www.badlion.net/ladder/soup-pvp-1v1/1">Soup 1v1</a>
-                                        </li>
-                                        <li>
-                                            <a href="http://www.badlion.net/ladder/soup-pvp-2v2/1">Soup 2v2</a>
+                                            <a href="http://www.badlion.net/ladder/potion-pvp-3v3/7">ArenaPvP 3v3</a>
                                         </li>
                                         <li>
                                             <a href="http://www.badlion.net/ladder/uhc">UHC</a>
                                         </li>
                                         <li>
-                                            <a href="http://www.badlion.net/ladder/survival-games/1">Survival Games</a>
+                                            <a href="http://www.badlion.net/ladder/survival-games">Survival Games</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://www.badlion.net/ladder/soup-pvp-1v1/1">Soup 1v1 (Old)</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://www.badlion.net/ladder/soup-pvp-2v2/1">Soup 2v2 (Old)</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -187,9 +192,14 @@
                                     <a href="http://www.badlion.net/wiki/rules">Rules</a>
                                 </li>
                                 <li>
+                                    <a href="http://www.badlion.net/appeals">Appeals</a>
+                                </li>
+                                <li>
                                     <a href="http://www.badlion.net/forum">Forums</a>
                                 </li>
-                                
+                                <li>
+                                    <a id="vote" href="#">Vote</a>
+                                </li>
                                 <li>
                                     <a id="help" href="http://www.badlion.net/wiki/home">Help</a>
                                 </li>
@@ -202,6 +212,7 @@
         </header>
         <div class="messages">
             <div class="messages_container">
+                
                 
                     
                 
