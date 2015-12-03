@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naughtywebcams.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220044900id_/http%3A//www.naughtywebcams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naughtywebcams.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203144533id_/http%3A//www.naughtywebcams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # NaughtyWebcams - Privacy Policy
 
@@ -50,4 +50,4 @@ The address for correspondence by post is
 ICF Technology, Inc.  
 PO Box 21508  
 Seattle, WA 98111  
-USA 
+USA
