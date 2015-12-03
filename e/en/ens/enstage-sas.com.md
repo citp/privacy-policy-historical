@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enstage-sas.com privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813042132id_/http%3A//www.enstage.com/0/html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enstage-sas.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203224942id_/http%3A//www.enstage.com/0/html/privacy.htm) for the most accurate reproduction.*
 
 # enStage:: Privacy policy
 
