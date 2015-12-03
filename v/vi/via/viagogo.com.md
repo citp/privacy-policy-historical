@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viagogo.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319053642id_/http%3A//www.viagogo.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viagogo.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203130925id_/http%3A//www.viagogo.com/help/privacy) for the most accurate reproduction.*
 
 # viagogo - Buy & Sell Concert, Sport & Theater Tickets
 
@@ -8,7 +8,7 @@ Please review this Privacy Policy, which sets out our policies regarding the col
 
 Please note that when browsing our site, the provision of any personal information is not required unless and until you choose to make a purchase or sign up for one of our email newsletters or other services as described below. Children (persons under the age of 18) are not eligible to use the Site unsupervised and we ask that children do not submit any personal information to us. If you are under the age of 18, you may only use this Site in conjunction with and under the supervision of your parents or guardians. 
 
-In order to purchase tickets and related services through our site, essential personal information such as your name, your telephone number, your email address, and any additional information required for authenticating a purchase is required. If you are purchasing multiple tickets or buying tickets on behalf of others, please ensure that each of these other customers agrees, in advance, to the disclosure of their personal information to us. 
+In order to purchase tickets and related services through our site, essential personal information such as your name, your telephone number, your email address, and any additional information required for authenticating a purchase is required. If you are purchasing multiple tickets or buying tickets on behalf of others, please ensure that each of these other customers agrees, in advance, to the disclosure of their personal information to us.
 
 If you purchase ticket(s), your name and address may be provided to another user for the sole purpose of delivering the specific purchased product(s). The other user agrees to not use this information for any other purpose, either in connection with such shipment(s) or separately from such shipment(s). The other user also agrees not to separately contact you at any time for any reason. 
 
