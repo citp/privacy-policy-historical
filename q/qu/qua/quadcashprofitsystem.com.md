@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quadcashprofitsystem.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122073501id_/http%3A//keithdougherty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quadcashprofitsystem.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203195901id_/http%3A//keithdougherty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | keithdougherty.com
 
