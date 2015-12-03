@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justweddingtips.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515121826id_/http%3A//justweddingtips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justweddingtips.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203114431id_/http%3A//justweddingtips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JustWeddingTips.com
 
