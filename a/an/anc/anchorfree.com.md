@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anchorfree.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613023724id_/http%3A//www.anchorfree.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anchorfree.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203200828id_/http%3A//www.anchorfree.com/privacy.php) for the most accurate reproduction.*
 
 # AnchorFree Hotspot Shield Privacy & Security Policy - Get behind the Shield
 
@@ -11,7 +11,7 @@ Welcome, and thank you for your interest in AnchorFree, Inc and AnchorFree GmbH 
 
 This Notice generally describes the information that we gather from you on the Service, the ways in which we use and disclose this information, and the steps we take to protect this information. By using the Service, you consent to the privacy practices described in this Notice.
 
-This Notice is incorporated into and is subject to the AnchorFree [Terms of Use](https://web.archive.org/web/20150613023724id_/http%3A//www.anchorfree.com/terms). Capitalized terms used but not defined in this Notice have the meaning given to them in the AnchorFree Terms of Use.
+This Notice is incorporated into and is subject to the AnchorFree [Terms of Use](https://web.archive.org/web/20151203200828id_/http%3A//www.anchorfree.com/terms). Capitalized terms used but not defined in this Notice have the meaning given to them in the AnchorFree Terms of Use.
 
 #### Our Commitment to User Privacy:
 
@@ -31,7 +31,7 @@ Please note that the Service does not protect your computer from viruses or malw
 
 **_Cookies_**. When you use our Service, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer. We use both session cookies and persistent cookies. A persistent cookie remains after you close your browser and may be used by your browser on subsequent use of our Service. These persistent types of cookies can be removed, but each web browser is a little different, so please look through your browser "Help" file to learn the correct way to modify your cookies set-up.
 
-**_"Automatically Collected" Information_**. When you use our Service, we may automatically record certain information from your web browser by using different types of proprietary technology (such as cookies), which may include your IP address or unique device ID. For example, we may collect your IP address when you commence your use of the Service; we do not, however, store logs associating your IP address with your online activities that take place when you are using of the Service. The automatically-collected information is used by AnchorFree only in the aggregate, in truncated form, or in order to generate a “hashed” or “virtual” IP Address. AnchorFree may use automatically-collected information to identify your general location, improve the Service, or optimize advertisements displayed through the Service.
+**_"Automatically Collected" Information_**.When you use our Service, we may automatically record certain information by using different types of proprietary technology (such as cookies), which may include your IP address, unique device ID, or application information installed on your device. For example, we may collect your IP address when you commence your use of the Service; we do not, however, store logs associating your IP address with your online activities that take place when you are using of the Service. The automatically-collected information is used by AnchorFree only in the aggregate, in truncated form, or in order to generate a “hashed” or “virtual” IP Address. AnchorFree may use automatically-collected information to identify your general location, improve the Service, or optimize advertisements displayed through the Service.
 
 #### The Way AnchorFree Uses Information:
 
