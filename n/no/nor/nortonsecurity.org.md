@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nortonsecurity.org privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411093206id_/http%3A//www.nortonsecurity.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nortonsecurity.org privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203092648id_/http%3A//www.nortonsecurity.org/privacy-policy) for the most accurate reproduction.*
 
 # Norton Security – Privacy Policy
 
