@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the caymanchem.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119231650id_/http%3A//www.caymanchem.com/app/template/Privacy.vm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caymanchem.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203230502id_/https%3A//www.caymanchem.com/app/template/Privacy.vm%3Bjsessionid%3DC046E5A1B8F2F02ED42639AD725EAEB6) for the most accurate reproduction.*
 
-# Privacy Statement || Cayman Chemical
+# Privacy Statement || Cayman Chemical | Supplier
 
 ## Introduction
 
@@ -16,27 +16,28 @@ This privacy statement covers the sites
 
 
 
-operated by Cayman Chemical Company, hereafter refererred to as "Cayman sites." Because Cayman wants to demonstrate its commitment to user privacy, it has agreed to disclose its information practices. This policy details: 
+operated by Cayman Chemical Company, hereafter referred to as "Cayman sites." Because Cayman wants to demonstrate its commitment to user privacy, it has agreed to disclose its information practices. This policy details: 
 
   1. What personally identifiable information Cayman collects.
-  2. The fact that no third parties collect any information.
-  3. What organization collects the information. 
-  4. How Cayman uses the information.
-  5. With whom Cayman may share user information. 
-  6. What choices are available to users regarding collection, use and distribution of the information. 
-  7. What types of security procedures are in place to protect the loss, misuse or alteration of information under Cayman control. 
-  8. How users can correct any inaccuracies in the information.
+  2. What organizations collect the information. 
+  3. How Cayman uses the information.
+  4. With whom Cayman may share user information. 
+  5. What choices are available to users regarding collection, use and distribution of the information. 
+  6. What types of security procedures are in place to protect the loss, misuse or alteration of information under Cayman control. 
+  7. How users can correct any inaccuracies in the information.
 
 
 
 The key points of this policy are: 
 
-  * Cayman collects lots of fine-grained information about the use of our web sites. 
+  * Cayman collects fine-grained information about the use of our web sites. 
   * Cayman doesn't share personally identifiable information outside the company. 
 
 
 
-If users have questions or concerns regarding this statement, they should contact Cayman staff: [Website Feedback](https://web.archive.org/web/20111119231650id_/http%3A//www.caymanchem.com/app/template/Webmaster.vm). 
+If users have questions or concerns regarding this statement, they should contact Cayman staff: [Website Feedback](https://www.caymanchem.com/app/template/Contact.vm;jsessionid=A717CD8E5F19AF36C3320A2B73EE13C3). 
+
+Cayman Chemical Company complies with the U.S.- EU Safe Harbor Framework and U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Cayman Chemical Company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Cayman Chemical Company’s certification, please visit <http://www.export.gov/safeharbor/>. Cayman Chemical Company also has a separate policy that applies to certain personal data that Cayman receives in the United States from the European Union and Switzerland, called the Cayman Chemical Safe Harbor Privacy Statement which can be reached [here](https://www.caymanchem.com/app/template/PrivacySafeHarbor.vm;jsessionid=A717CD8E5F19AF36C3320A2B73EE13C3). 
 
 ## Information Collection and Use
 
@@ -44,9 +45,13 @@ If users have questions or concerns regarding this statement, they should contac
 
 Cayman Chemical Company is the sole owner of the information collected on the Cayman sites. Cayman Chemical Company collects information from our users at several different points on the Cayman sites. 
 
+#### Website Analytics
+
+Information specific to the use of the Cayman sites, including which pages are visited, what technology is used (operating system, browser, etc.), and user demographic data, is collected through Google Analytics, which uses cookies to identify and track website visits. Customer demographics, including age, gender, and interests, are collected with Google Analytics Demographics and Interest Reporting. Any information gathered with regard to the use of our website (either by registered Cayman sites users or by anonymous users) is used solely to improve Cayman sites and to better serve our customers and online visitors. 
+
 #### Registration
 
-In order to use some features this site, a user must first register with us via phone or web. During registration a user is required to give contact information (such as name and email address). We use this information to contact the user about services on our site for which he has expressed interest. 
+In order to use some features this site, a user must first register with us via phone or web. During registration a user is required to give contact information (such as name and email address). We use this information to contact the user about services on our site for which he or she has expressed interest. 
 
 #### Order
 
@@ -129,9 +134,9 @@ This site takes reasonable precautions to protect our users' information. When u
 
 ### Online
 
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just 'surfing'. 
+When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked, or open, when users are just 'surfing'. 
 
-This sensitive information moves between the web server and Cayman's corporate network via a Virtual Private Network tunnel. This means that a high level of security, comparable to that protecting data between the user's computer and the Cayman web server. 
+This sensitive information moves between the web server and Cayman's corporate network via a Virtual Private Network tunnel. This means a high level of security, comparable to that protecting data between the user's computer and the Cayman web server. 
 
 Cayman's internal network is protected by reasonable security systems and practices. 
 
@@ -139,11 +144,13 @@ Cayman's internal network is protected by reasonable security systems and practi
 
 While we use SSL and VPN technology to protect sensitive information online, we also take precautions to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is stored in facilities with restricted access. 
 
-If users have any questions about the security at our site, users can contact Cayman staff: [Website Feedback](https://web.archive.org/web/20111119231650id_/http%3A//www.caymanchem.com/app/template/Webmaster.vm)
+If users have any questions about the security at our site, users can contact Cayman staff: [Website Feedback](https://www.caymanchem.com/app/template/Contact.vm;jsessionid=A717CD8E5F19AF36C3320A2B73EE13C3)
 
 ## Correcting, Updating, Deleting, or Deactivating Personal Information
 
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done by contacting [customer service](https://web.archive.org/web/20111119231650id_/http%3A//www.caymanchem.com/app/template/Marketing.vm/mode/customerservice). 
+If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done by contacting [customer service](https://www.caymanchem.com/app/template/account%2CHome.vm;jsessionid=A717CD8E5F19AF36C3320A2B73EE13C3). 
+
+If users would like to opt out of Google Analytics tracking, they can do so with the [Google Analytics Opt-out Browser Add-on.](https://tools.google.com/dlpage/gaoptout/)
 
 ## Notification of Changes
 
@@ -151,4 +158,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 ## Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please contact us: [Website Feedback](https://web.archive.org/web/20111119231650id_/http%3A//www.caymanchem.com/app/template/Webmaster.vm). 
+If users have any questions or suggestions regarding our privacy policy, please contact us: [Website Feedback](https://www.caymanchem.com/app/template/Contact.vm;jsessionid=A717CD8E5F19AF36C3320A2B73EE13C3). 
