@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the incent.ly privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216154110id_/http%3A//incent.ly/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incent.ly privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203223329id_/http%3A//peerfly.com/privacy.php) for the most accurate reproduction.*
 
-# incent.ly - Privacy Policy
+# PeerFly - Privacy Policy
 
-incent.ly (the "Website") is an Internet property of PeerFly, Inc. ("us" or "we"). We provide this privacy policy ("Privacy Policy") so that we may inform you about how our technology ("Technology") processes information on behalf of the online advertisers, website owners and other businesses that use our services. This Privacy Policy also outlines our privacy practices on our corporate website ("Website") located at [incent.ly](http://incent.ly/). If you have any questions about this Privacy Policy, please feel free to contact us at [privacy@incent.ly](mailto:privacy@incent.ly). You agree to this Privacy Policy, in its entirety, when you: (1) access or use the Website; and/or (2) apply for the publisher ("Publisher") and/or advertiser ("Advertiser" and together with the Publishers, "Clients") services available through the Website ("Services"). If you do not agree with the terms and conditions of our Privacy Policy, please do not use or access the Website or apply for the Services.
+## PeerFly's Privacy Policy
+
+PeerFly.com (the "Website") is an Internet property of PeerFly, Inc. ("us" or "we"). We provide this privacy policy ("Privacy Policy") so that we may inform you about how our technology ("Technology") processes information on behalf of the online advertisers, website owners and other businesses that use our services. This Privacy Policy also outlines our privacy practices on our corporate website ("Website") located at [PeerFly.com](http://peerfly.com/). If you have any questions about this Privacy Policy, please feel free to contact us at [privacy@peerfly.com](mailto:privacy@peerfly.com). You agree to this Privacy Policy, in its entirety, when you: (1) access or use the Website; and/or (2) apply for the publisher ("Publisher") and/or advertiser ("Advertiser" and together with the Publishers, "Clients") services available through the Website ("Services"). If you do not agree with the terms and conditions of our Privacy Policy, please do not use or access the Website or apply for the Services.
 
 **Personally Identifiable Information**
 
@@ -10,7 +12,7 @@ We collect Personally Identifiable Information ("PII") from this Website when yo
 
 **Information Sharing**
 
-incent.ly will not sell, share or rent your PII to or with others. Your PII is not shared with any third parties, except: (a) where necessary to conduct business, such as invoicing Clients in connection with the Services or making payments to, or collecting money from, a Client; (b) in the case of a breach of any agreement between Client and incent.ly; (c) where required by law, or requested by a court of competent jurisdiction; (d) (c) in the event of incent.ly bankruptcy, or if incent.ly is sold or acquired; or (e) where incent.ly determines, in its sole discretion, that such disclosure is necessary to protect the rights of incent.ly and/or a third party, or necessary to protect incent.ly from liability of any kind. 
+PeerFly will not sell, share or rent your PII to or with others. Your PII is not shared with any third parties, except: (a) where necessary to conduct business, such as invoicing Clients in connection with the Services or making payments to, or collecting money from, a Client; (b) in the case of a breach of any agreement between Client and PeerFly; (c) where required by law, or requested by a court of competent jurisdiction; (d) (c) in the event of PeerFly bankruptcy, or if PeerFly is sold or acquired; or (e) where PeerFly determines, in its sole discretion, that such disclosure is necessary to protect the rights of PeerFly and/or a third party, or necessary to protect PeerFly from liability of any kind. 
 
 **Non-Personally Identifiable Information**
 
@@ -22,11 +24,11 @@ We use "cookies" and web beacons to help us manage our Website. Cookies are smal
 
 **Third Party Websites**
 
-This Website may contain links to and advertisements for websites operated by third parties whose privacy practices may differ from those of incent.ly. While we endeavor to associate only with reputable entities, incent.ly cannot be responsible for the privacy practices of third party websites. We encourage you to check the privacy policies of all websites that you visit. 
+This Website may contain links to and advertisements for websites operated by third parties whose privacy practices may differ from those of PeerFly. While we endeavor to associate only with reputable entities, PeerFly cannot be responsible for the privacy practices of third party websites. We encourage you to check the privacy policies of all websites that you visit. 
 
 **Minors**
 
-This Website is not intended for visitors that are under eighteen (18) years of age. incent.ly does not knowingly solicit or collect information from individuals under the age of eighteen (18). If we determine that we have inadvertently collected PII from someone under eighteen (18) years of age, we will take reasonable steps to purge this information from our database. We encourage parents and guardians to spend time online with their children and to participate and monitor the Internet activities of their children. 
+This Website is not intended for visitors that are under eighteen (18) years of age. PeerFly does not knowingly solicit or collect information from individuals under the age of eighteen (18). If we determine that we have inadvertently collected PII from someone under eighteen (18) years of age, we will take reasonable steps to purge this information from our database. We encourage parents and guardians to spend time online with their children and to participate and monitor the Internet activities of their children. 
 
 **Security**
 
@@ -36,16 +38,16 @@ Once we receive the transmission of your PII, we make reasonable efforts to ensu
 
 **Changes to this Privacy Policy & Notification of Changes**
 
-incent.ly reserves the right to change or update this Privacy Policy at any time by posting a clear and conspicuous notice on the Website explaining that we are changing our Privacy Policy. All Privacy Policy changes will take effect immediately upon their posting on the Website. Please check the Website periodically for any changes. Your continued use of the Website and/or acceptance of our e-mail communications following the posting of changes to this Privacy Policy will constitute your acceptance of any and all changes. 
+PeerFly reserves the right to change or update this Privacy Policy at any time by posting a clear and conspicuous notice on the Website explaining that we are changing our Privacy Policy. All Privacy Policy changes will take effect immediately upon their posting on the Website. Please check the Website periodically for any changes. Your continued use of the Website and/or acceptance of our e-mail communications following the posting of changes to this Privacy Policy will constitute your acceptance of any and all changes. 
 
 **Deleting your PII**
 
-If you'd like us to delete any PII that you have provided to us on our Website, please send your request to us at [privacy@incent.ly](mailto:privacy@incent.ly) and we will process your request, where possible and subject to the terms and conditions contained herein, within a reasonable period of time after receipt. 
+If you'd like us to delete any PII that you have provided to us on our Website, please send your request to us at [privacy@peerfly.com](mailto:privacy@peerfly.com) and we will process your request, where possible and subject to the terms and conditions contained herein, within a reasonable period of time after receipt. 
 
 **Contacting the Website**
 
-If you have any questions about this Privacy Policy or the practices of incent.ly, please feel free to contact us at [privacy@incent.ly](mailto:privacy@incent.ly), or via postal mail at:
+If you have any questions about this Privacy Policy or the practices of PeerFly, please feel free to contact us at [privacy@peerfly.com](mailto:privacy@peerfly.com), or via postal mail at:
 
-PeerFly, Inc. d/b/a incent.ly  
+PeerFly, Inc.  
 14690 NW 151st Blvd, Suite 10  
 Alachua, Florida 32615 
