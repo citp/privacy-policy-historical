@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coupon-lady.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006231937id_/http%3A//www.coupon-lady.com/coupons/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupon-lady.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203145114id_/http%3A//www.coupon-lady.com/coupons/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Printable Grocery Coupons
 
@@ -23,7 +23,7 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Googleâ
 
 Any of the information we collect from you may be used in one of the following ways:
 
-\- To personalize your experience  
+â€“ To personalize your experience  
 (your information helps us to better respond to your individual needs)
 
 -To send periodic emails
