@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the just-eat.ca privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607215202id_/http%3A//www.just-eat.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the just-eat.ca privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203063045id_/http%3A//www.just-eat.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Terms & Conditions for Just-Eat.ca
 
@@ -106,7 +106,7 @@ By accessing any part of the Website, you indicate that you accept these Website
 
 ### 6\. CUSTOMER CARE
 
-6.1. **General:** If you are having any problems with your Order, we recommend that you try to contact the Restaurant directly in the first instance to discuss the issue. Our experience indicates that this is likely to be the most efficient way of resolving the problem. Notwithstanding the foregoing, customer care is extremely important to us. Accordingly, as described further in this paragraph 6 and subject to paragraphs 6.5 and 11, our Customer Care team will therefore try to assist you where possible (subject to resource availability) if you have any problems contacting or resolving your issue directly with the Restaurant. You can contact our Customer Care team by clicking or selecting the ["Need help?"](http://messenger.providesupport.com/messenger/justeatca.html), "Help" or similar button or by calling the telephone number shown on the Website. 
+6.1. **General:** If you are having any problems with your Order, we recommend that you try to contact the Restaurant directly in the first instance to discuss the issue. Our experience indicates that this is likely to be the most efficient way of resolving the problem. Notwithstanding the foregoing, customer care is extremely important to us. Accordingly, as described further in this paragraph 6 and subject to paragraphs 6.5 and 11, our Customer Care team will therefore try to assist you where possible (subject to resource availability) if you have any problems contacting or resolving your issue directly with the Restaurant. You can contact our Customer Care team by clicking or selecting the ["Need help?"](http://v2.zopim.com/widget/livechat.html?key=2nocZmlPwLMbUEhvFgVGS2jKA8w6sJAw&lang=en), "Help" or similar button or by calling the telephone number shown on the Website. 
 
 6.2. **Questions about your Order:** If your Order is taking longer than expected or you have any other problems with your Order that you are unable to resolve directly with the Restaurant, you can contact our Customer Care Team as described above and one of our Customer Care Advisers will attempt to contact the Restaurant in order to follow up on your query. 
 
