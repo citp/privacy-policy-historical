@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chefslives.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602042638id_/http%3A//chefslives.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chefslives.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203195901id_/http%3A//chefslives.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Chefs' Lives
+# Privacy Policy | Chefs' Lives
 
 We at CHEFS LIVES.com (“CHEFS LIVES,” “we,” “us,” “our”) know that our users (“you,” “your”) care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using the Website or Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. Any capitalized terms used herein without definition shall have the meaning given to them in the [CHEFS LIVES Terms of Service](http://chefslives.com/terms-of-service/).
 
