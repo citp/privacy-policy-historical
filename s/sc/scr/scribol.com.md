@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the scribol.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623172805id_/http%3A//scribol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribol.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203183739id_/http%3A//scribol.com/privacy-policy) for the most accurate reproduction.*
 
 # Scribol.com: Privacy Policy
+
+Our website uses cookies. By continuing we assume your permission to use cookies as detailed in our [privacy policy](http://www.scribol.com/privacy-policy).
 
 We are committed to safeguarding the privacy of visitors to the Scribol website (the “Site”); this policy sets out how we will treat your personal information.
 
