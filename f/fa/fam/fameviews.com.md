@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fameviews.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506005343id_/http%3A//www.fameviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fameviews.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203102200id_/http%3A//www.fameviews.com/privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy - Fameviews.com
+# Privacy Policy | Get YouTube Views - Fameviews.com
 
 This Privacy Policy governs the manner in which Fame views collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.fameviews.com](http://www.fameviews.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Fame views.
 
