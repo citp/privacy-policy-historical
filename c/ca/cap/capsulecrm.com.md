@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capsulecrm.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616073054id_/https%3A//capsulecrm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capsulecrm.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203070249id_/https%3A//capsulecrm.com/privacy) for the most accurate reproduction.*
 
 # Capsule
 
