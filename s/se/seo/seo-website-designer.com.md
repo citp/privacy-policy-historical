@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the seo-website-designer.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319172826id_/https%3A//websiteadvantage.com.au/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo-website-designer.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203020852id_/https%3A//websiteadvantage.com.au/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy - Web Site Advantage
+# Privacy Policy for Web Site Advantage
+
+.
 
 Protecting your privacy is important to us. We hope the following statement will help you understand how Web Site Advantage collects, uses and safeguards the personal information you provide to us on our site. 
 
@@ -18,7 +20,7 @@ This website uses Google Analytics for Display Advertisers to collect visitor da
 
 Web Site Advantage may use the available information from the cookies to advertise to you on other websites that are part of the Google Display Network. This is called remarketing. 
 
-You can opt out of Google Analytics for Display Advertisers and opt out of customized Google Display Network ads by visiting the [Ads Preferences Manager](http://www.google.com/settings/ads/onweb/?sig=ACi0TCiRDcnrXrdffABE6Nifr9QppTwHkj_NTB8gd0FaMd9YV_wg5YIp3OvYIp-y-pdTWNhIhLjQXh6TyIek2jcL233J8XokduMKuR1N-zHOJP2Ls6zIAM_wKkwTu-xTmML-Aucg-KSrCOB6oLAL11n-sPX9rEefGBMsmC7iVBTJsDKZmWkr3jnzCeVGR-wzwiV8cGO96yfR&hl=en) . There is also a [Google Analytics Opt-out Browser Add-on](http://tools.google.com/dlpage/gaoptout/) . 
+You can opt out of Google Analytics for Display Advertisers and opt out of customized Google Display Network ads by visiting the [Ads Preferences Manager](http://www.google.com/settings/ads/onweb/?sig=ACi0TCiRDcnrXrdffABE6Nifr9QppTwHkj_NTB8gd0FaMd9YV_wg5YIp3OvYIp-y-pdTWNhIhLjQXh6TyIek2jcL233J8XokduMKuR1N-zHOJP2Ls6zIAM_wKkwTu-xTmML-Aucg-KSrCOB6oLAL11n-sPX9rEefGBMsmC7iVBTJsDKZmWkr3jnzCeVGR-wzwiV8cGO96yfR&hl=en) . There is also a [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/) . 
 
 ##  Changes to this privacy policy
 
