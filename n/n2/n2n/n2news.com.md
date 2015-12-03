@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the n2news.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417212831id_/http%3A//n2news.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n2news.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203174222id_/http%3A//www.n2news.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - N2News Unofficial Android TV, FTA, Kodi (XBMC) Addons, & Repos
+# Privacy Policy - N2News - Free or Affordable TV and Movies
 
 ##  [ Privacy Policy](http://n2news.com/privacy)
 
- **PRIVACY POLICY**
+**PRIVACY POLICY**
 
 YOUR PRIVACY IS VERY IMPORTANT TO US. ACCORDINGLY, WE HAVE DEVELOPED THIS POLICY IN ORDER FOR YOU TO UNDERSTAND HOW WE COLLECT, USE, COMMUNICATE AND DISCLOSE AND MAKE USE OF PERSONAL INFORMATION. THE FOLLOWING OUTLINES OUR PRIVACY POLICY.
 
