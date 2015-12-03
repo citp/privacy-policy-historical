@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ymca.net privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610022540id_/http%3A//www.ymca.net/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ymca.net privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203150821id_/http%3A//www.ymca.net/privacy-policy/index.html) for the most accurate reproduction.*
 
 # the Y: Privacy Policy
 
 ## Overview
 
-This privacy policy will advise you about our guidelines concerning the use of your personal information, including, without limitation, the reasonable efforts we make to protect your personal information in accordance with these guidelines, and about what choices you have concerning our use of such information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our Site. We will post those changes here so that you will always know our policies regarding what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this policy regularly.
+This privacy policy will advise you about our guidelines concerning the use of your personal information, including, without limitation, the reasonable efforts we make to protect your personal information in accordance with these guidelines, and about what choices you have concerning our use of such information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our Site. We will post those changes here so that you will always know our policies regarding what information we gather, how we might use that information and whether we will disclose that information to anyone. Please refer back to this policy regularly.
 
 We keep your private information private by:
 
@@ -27,7 +27,7 @@ This policy applies to your use of this site. This policy does not apply to your
 
 ## Personal Identification Information
 
-We may request personal identification information from you (such as your last name, age, city and state) in connection with your use of, or participation in registration for surveys, forums, content submissions, chats, bulletin boards, discussion groups, requests for suggestions, or additional information, and in connection with other activities, services or resources we make available on any of our Sites. In all of these cases, we will collect personal identification information from you only if you voluntarily submit such information to us. Except as otherwise provided in this policy, we reasonably endeavor to ensure that we never intentionally disclose any personal identification information about you as an individual user to any third party without having received your permission (through opt-in or similar procedures) except as provided for herein or otherwise as permitted or required under law. Further, YMCA of the USA may contact you based on the information you provide online whether in connection with your registration or in such places as the above described forums.
+We may request personal identification information from you (such as your last name, age, city and state) in connection with your use of, or participation in registration for surveys, forums, content submissions, chats, bulletin boards, discussion groups, requests for suggestions, or additional information and in connection with other activities, services or resources we make available on any of our Sites. In all of these cases, we will collect personal identification information from you only if you voluntarily submit such information to us. Except as otherwise provided in this policy, we reasonably endeavor to ensure that we never intentionally disclose any personal identification information about you as an individual user to any third party without having received your permission (through opt-in or similar procedures) except as provided for herein or otherwise as permitted or required under law. Further, YMCA of the USA may contact you based on the information you provide online whether in connection with your registration or in such places as the above described forums.
 
 If you do provide us with personal information for any of these activities, we may use it to conduct the activity.
 
@@ -53,7 +53,7 @@ We are mindful that young people need special safeguards and privacy protection.
 
 ## Community Guidelines
 
-Guidelines for participants in our social media, blogs, and forums are available at <http://www.ymca.net/guidelines>.
+Guidelines for participants in our social media, blogs and forums are available at <http://www.ymca.net/guidelines>.
 
 ## Donations
 
