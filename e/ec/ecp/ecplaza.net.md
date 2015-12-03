@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecplaza.net privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508015330id_/http%3A//www.ecplaza.net/f.to/help/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecplaza.net privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203224630id_/http%3A//www.ecplaza.net/f.to/help/privacy_policy.html) for the most accurate reproduction.*
 
 # ECPlaza Help
 
