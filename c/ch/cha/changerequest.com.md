@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the changerequest.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509215301id_/http%3A//www.changerequest.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the changerequest.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203023830id_/http%3A//changerequest.com/privacy-policy.php) for the most accurate reproduction.*
 
 # | ChangeRequest.com
 
