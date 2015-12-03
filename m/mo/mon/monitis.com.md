@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monitis.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618065911id_/http%3A//www.monitis.com/privacy-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monitis.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203195151id_/http%3A//www.monitis.com/privacy-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy – Monitis
 
@@ -62,8 +62,8 @@ expandcollapse | [www.monitis.com ](http://www.monitis.com/) | Keep user prefere
 userId | [www.monitis.com ](http://www.monitis.com/) | Unique user id to keep user login state  
 activeTabId  | [www.monitis.com ](http://www.monitis.com/) | Last active tab id, to select that tab after login  
 recentlyVisitedTabs  | [www.monitis.com ](http://www.monitis.com/) | tab names recently visited to use for tab search  
-adv | Various | ADV number to track Marketing Compains   
-loc | Various | LOC number to track Marketing Compains  
+adv | Various | ADV number to track Marketing campaigns  
+loc | Various | LOC number to track Marketing campaigns  
 Referrer | Various | To track referrers   
   
 If you register with us or if you continue to use our website, you agree to our use of cookies. You can refuse to accept cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.   
@@ -91,11 +91,15 @@ Monitis uses KissMetrics to track Monitis users' visits to Monitis web interface
 
 ### Information you provide to us
 
-We may collect and use the following information that you provide to us:   
-Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, subscribing to our services, posting material or requesting further services or information. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Website.  
-Records and copies of your correspondence (including e-mail addresses), if you contact us.  
-Your responses to surveys that we might ask you to complete for research purposes, although you do not have to respond to them.  
-Details of transactions you carry out through our Website and of the fulfilment of your orders. You may be required to provide financial information before placing an order through our Website. 
+We may collect and use the following information that you provide to us: 
+
+  * Information that you provide by filling in forms on our Website. This includes: information provided at the time of registering to use our Website, subscribing to our services, posting material or requesting further services or information.
+  * We may also ask you for information when you enter a contest or promotion sponsored by us or when you report a problem with our Website.
+  * Records and copies of your correspondence (including e-mail addresses), if you contact us.
+  * Your responses to surveys that we might ask you to complete for research purposes, although you do not have to respond to them.
+  * Details of transactions you carry out through our Website and of the fulfilment of your orders. (You may be required to provide financial information before placing an order through our Website.)
+
+
 
 ### Uses made of the information
 
