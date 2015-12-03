@@ -1,28 +1,35 @@
-> *The following text is extracted and transformed from the dailyviralupdates.com privacy policy that was archived on 2015-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150219045241id_/http%3A//www.dailyviralupdates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyviralupdates.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203140241id_/http%3A//www.dailyviralupdates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DailyViralUpdates
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us.
+Your privacy is very important to us at DailyViralUpdates, and so we have a few fundamental principles that we follow in order to protect it:
 
-At www.dailyviralupdates.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.dailyviralupdates.com and how it is used.
+  * We don’t ask you for personal information unless we truly need it.
+  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
+  * We don’t store personal information on our servers unless required for the on-going operation of our site.
 
-**Log Files**  
-Like many other Web sites, www.dailyviralupdates.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses and other such information are not linked to any information that is personally identifiable.
 
-**Cookies and Web Beacons**  
+
+This Privacy Policy describes the policies and procedures DailyViralUpdates (“we”, “our” or “us”) uses regarding the collection, use and disclosure of any information that you give us when you use www.dailyviralupdates.com (the “Website”) and the services, features, content or applications we offer (collectively with the Website, the “Services”). We are committed to ensuring that your privacy is protected. When we ask you to provide certain information when using the Website, you can be assured that it will only be used in accordance with this privacy policy. By using this Website, you agree to this privacy policy.
+
+We may change this policy from time to time by posting changes to this page. You can occasionally check to make sure that you are happy with any changes.
+
+**What Information Do We Collect?**
+
+We collect information from you when you register on our site, subscribe to our newsletter (from which you can unsubscribe at any time), respond to a survey or fill out a form. You may be asked to enter your name or e-mail address. You may always, however, visit our site anonymously.
+
+**Your Information Is Protected:  **
+
+We are committed to ensuring that your personal information is secure. In order to prevent unauthorized access or disclosure we have put in place a variety of physical, electronic and managerial security measures to safeguard and secure the information we collect online.
+
+**Cookies and Web Beacons**
+
 www.dailyviralupdates.com does not use cookies.
 
-**DoubleClick DART Cookie**  
-Google, as a third party vendor, uses cookies to serve ads on www.dailyviralupdates.com.  
-Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.dailyviralupdates.com and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+**Third Party Vendors:**
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partner is Google Adsense.
+Third party vendors, including Google, use cookies to serve ads to you based on a your prior web site visits to DailyViralUpdates and/or other websites. You may opt out of the use of the Google cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.dailyviralupdates.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+**Links To Third Party Websites:**
 
-www.dailyviralupdates.com has no access to or control over these cookies that are used by third-party advertisers.
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.dailyviralupdates.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+We may sometimes include on our website links to other websites that may be of interest to you. You should note that these third party sites have separate and independent privacy policies, and that we do not have any control over those other websites. Therefore, we have no responsibility or liability for the protection and privacy of any information which you provide while visiting such sites, or for the content and activities of those sites. You should exercise caution and review the privacy policies applicable to the website in question.
