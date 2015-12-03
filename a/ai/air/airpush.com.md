@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airpush.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627151040id_/http%3A//www.airpush.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airpush.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203190917id_/http%3A//www.airpush.com/privacypolicy) for the most accurate reproduction.*
 
 # Airpush.com Privacy Policy
 
@@ -78,7 +78,7 @@ Airpush takes reasonable precautions to safeguard the information we collect thr
 
 ### **Safe Harbor Privacy Principles**
 
-We comply with the U.S.-EU Safe Harbor Framework and the U.S. Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  We have certified that Airpush adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
+We comply with the U.S.-EU Safe Harbor Framework and the U.S. Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  We have certified that Airpush adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
 
 ### **Access to Your Information and Your Choices Regarding Our Site**
 
