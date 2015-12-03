@@ -1,172 +1,338 @@
-> *The following text is extracted and transformed from the epals.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203143613id_/http%3A//www.corp.epals.com/company/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epals.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203200847id_/http%3A//www.cricketmedia.com/privacy) for the most accurate reproduction.*
 
-# ePals Corporate Site | corp.epals.com
+# Privacy Policy - Cricket Media
 
-[I. PRIVACY NOTICE FOR CHILDREN UNDER 13](https://web.archive.org/company/privacy-policy.php#under13)
+#### CRICKET MEDIA’S PRIVACY POLICY
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&companyName=Epals,%20Inc.&sealid=105&ctv_group=Epals) [](http://clicktoverify.truste.com/pvr.php?page=validate&companyName=Epals,%20Inc.&sealid=102&ctv_group=Epals)
+**EFFECTIVE DATE:**  June 22, 2015, Last Updated Date: October 29, 2015  
+ 
 
-  * [Parental Consent](https://web.archive.org/company/privacy-policy.php#consent)
-  * [What Information Do We Collect From Children?](https://web.archive.org/company/privacy-policy.php#collect)
-  * [How Do We Use the Information We Collect From Children?](https://web.archive.org/company/privacy-policy.php#use)
-  * [Will ePals Share My Child's Personal Information with Third Parties?](https://web.archive.org/company/privacy-policy.php#share)
-  * [How Can I Review, Change or Delete the Personal Information ePals has Collected From My Child?](https://web.archive.org/company/privacy-policy.php#personal)
+#### PURPOSE OF THIS PRIVACY POLICY:
 
+This privacy policy addresses the online privacy practices of Cricket Media, Inc., formerly known as ePals, Inc., and its affiliated entities, including its subsidiary, Carus Publishing Company, for the website services and/or products indicated herein (“Cricket”). Cricket is committed to protecting the privacy of children, students, parents, and educators, while providing students and schools with a dynamic learning and teaching environment made possible by the Internet and made available through its ePals® global learning community (hereinafter “ePals).  
+ 
 
+The cricketmedia.com site includes an e-commerce section at [shop.cricketmedia.com](http://shop.cricketmedia.com/) for conducting sales of Cricket magazine subscriptions and products to customers 18 years of age or older, where customer accounts may be established. This e-commerce section is intended for use by visitors 18 years of age or older. By ordering a Product from at [shop.cricketmedia.com](http://shop.cricketmedia.com/), a customer is representing himself or herself as 18 years of age or older.  
+ 
 
-[II. INFORMATION THAT WE COLLECT FROM INDIVIDUALS 13 YEARS OLD AND OVER](https://web.archive.org/company/privacy-policy.php#over13)
+This Privacy Policy explains how Cricket collects and uses information from Users of its websites, products and services, including ePals, Challenges and/or similar contests involving or related to ePals or Cricket’s magazines, and in2Books (collectively, “Services”), and in connection with its sale of Cricket’s magazine subscriptions and related products (collectively “Products”), including our treatment of personally identifiable information.  
+ 
 
-  * [What Information Do We Collect From Individuals 13 Years Old and Over?](https://web.archive.org/company/privacy-policy.php#collect2)
-  * [How Do We Use Information that We Collect From Individuals Over the Age of 13?](https://web.archive.org/company/privacy-policy.php#use2)
-  * [Will ePals Share Teens' and Adults' Personal Information with Third Parties?](https://web.archive.org/company/privacy-policy.php#share2)
+If you are not of legal age to form a binding contract (in many jurisdictions, this age is 18), you may only use the Services and disclose information to us with your parent’s (or guardian’s) express consent. Review this Privacy Policy with your parent (or guardian). (We recommend that you do the same with the privacy policies of all websites you visit or mobile applications you use). You may only order Products if you are 18 years of age or older, and have a valid credit card to purchase.  
+ 
 
+##### This policy does not apply to websites, offerings or practices of companies that Cricket does not own or control.
 
+#### IF YOU USE THE SERVICES, THE PRIVACY POLICY APPLIES TO YOU.
 
-[III. LINKS TO THIRD PARTY WEB SITES](https://web.archive.org/company/privacy-policy.php#links)
+As you will see from reviewing this Privacy Policy, we take your privacy seriously. By accessing or using the Services (including via mobile devices) or accessing [shop.cricketmedia.com](http://shop.cricketmedia.com/) and ordering Products, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. Remember that your use of the Services is at all times subject to the [Terms of Use](http://www.cricketmedia.com/terms/), which incorporates this Privacy Policy. Any capitalized terms we use here without defining them have the definitions provided in the [Terms of Use](http://www.cricketmedia.com/terms/).  
+ 
 
-[IV. COOKIES](https://web.archive.org/company/privacy-policy.php#cookies)
+If you have questions or concerns regarding the Privacy Policy, you should contact us at support@cricketmedia.com. Note if you are reading a hard copy of this Privacy Policy, the email address for Cricket Support is: [support@cricketmedia.com](mailto:support@cricketmedia.com).  
+ 
 
-[V. SECURITY PRACTICES](https://web.archive.org/company/privacy-policy.php#security)
-
-[VI. NOTICE OF CHANGES TO THIS POLICY](https://web.archive.org/company/privacy-policy.php#changes)
-
-[VII. FOR MORE INFORMATION](https://web.archive.org/company/privacy-policy.php#information)
-
-EFFECTIVE DATE: July 15, 2009
-
-ePals, Inc. ("ePals") is committed to protecting the privacy of students, parents, and educators, while providing students and schools with a dynamic learning and teaching environment made possible by the Internet. This privacy policy addresses the online privacy practices of ePals. 
-
-ePals offers the following products and services: 
-
-  * In2Books® is a research-proven, curriculum-based product for classroom and home use. The program fosters reading, writing, and critical thinking skills across the curriculum. Through the pairing of learners with mentor pen pals, In2Books® produces real dialogue and real learning.
-  * ePals' SchoolMail® is the leading school-safe email product, enabling learners around the world to connect and collaborate.
-  * The ePals Global Community™ is the largest online community of K-12 learners, enabling more than 120,000 classrooms across 191 countries to safely connect, exchange ideas, and collaborate.
+[](https://privo.com/privo-site-validation/?company=681)  
 
 
+#### PRIVO-Cert™ Safe Harbor Certification Program
 
-The privacy policy is divided into two sections - the first addressing information collected from users who are under 13 years of age; the second addressing information collected from all other users. While many of ePals' products and services are intended for students, these products and services also include significant involvement by parents, teachers, and other adults as well. This policy is applicable to all ePals products and services. 
+Cricketmedia.com, In2books and the Folklorist Challenge (owned and operated by Cricket Media Inc.) are Members of the PRIVO’s PRIVO-Cert™ Safe Harbor Certification Program (“the Program”). As a participating member in the Program, Cricket Media Inc. adheres to the strict information collection, use and disclosure requirements set forth by the Program. PRIVO is an independent, third-party organization committed to safeguarding children’s personal information collected online. PRIVO aims to help parents and their children exercise control over personal information while exploring the Internet. The PRIVO certification seal posted on this page indicates that Cricket Media Inc. has established COPPA compliant privacy practices and has agreed to submit to PRIVO’s oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at (703) 885-3400 or [support@cricketmedia.com](mailto:support@cricketmedia.com). If you have further concerns after you have contacted us, you can contact PRIVO directly at [privacy@privo.com](mailto:privacy@privo.com).
 
-### I. PRIVACY NOTICE FOR CHILDREN UNDER 13
+#### USERS UNDER THE AGE OF THIRTEEN ARE TREATED DIFFERENTLY:
 
-It is ePals' policy to limit the collection of personal information from children to only that which is necessary to obtain parental consent or to participate in an ePals program or activity after we have obtained parental consent. Children under 13 years old are not allowed to subscribe or create an account without a parent, guardian, or teacher's permission and in most cases the adult creates the account for the child.
+This Privacy Policy covers all users and is applicable to all of the Services and Product purchases. The Privacy Policy is divided into several sections. Section I specifically addresses information collected from users of the Services who are under 13 years of age; Section II specifically addresses information collected from individuals 13 years of age and older, and addresses information collected in connection with the e-commerce section, [shop.cricketmedia.com](http://shop.cricketmedia.com/), for users 18 years of age and older in connection with ordering Products.  
+ 
 
-#### Parental Consent
+When we use the term “Personal Information” in this Privacy Policy, we are referring to personally identifiable information. When we refer to “Child Related Personal Information,” we mean personally identifiable information of minors (i.e. persons under the age of 18). General references to “information” are to information that does not and could not reasonably be used by us to identify an individual.  
+ 
 
-We require a parent or guardian to consent before a child under the age of 13 can become a member of ePals or to use any of ePals products or services. In addition, during the registration process, we collect only enough personal information (i.e., parent's name and email address) necessary to obtain a parent's permission for his/her child to become a member of ePals. 
+#### I. PRIVACY NOTICE FOR CHILDREN UNDER 13
 
-For some ePals' products and services, teachers and school administrators may provide consent on behalf of parents. Parents should consult the school's Acceptable Use Policy for more information about the school's policies and practices for protecting children on the Internet. 
+Cricket limits the collection of personal information from children to only that which is necessary to obtain parental consent or to participate in a Cricket program or activity after we have obtained parental consent. If you are under age 13, you are not allowed to subscribe to any of the Services or create an account without the permission of your parent, guardian, or teacher. In addition to the required consent, it is a good idea to request assistance from your parent or legal guardian in setting up your account, or your teacher with respect to setting up your account for ePals®.  
+ 
 
-Parents can provide consent by email, fax, or postal mail for their children to use the following ePals products and services: SchoolMail® and the Global Community™. Complete email instructions are provided in the parental consent form available at [www.epals.com/privacy/forms](http://en.community.epals.com/epals/support/m/support-resources/325401.aspx).
+##### Parental Consent (and Teacher and Guardian Consent)
 
-To provide consent by fax or post, parents should fill out the parental consent form, sign it and either fax it toll free from North America to 1-309-412-0018 or mail it to: 
+We require a parent or guardian to consent before a child under the age of 13 can become a member of Cricket or to use any of the Services. In addition, during any such registration process, we only collect limited personal information (i.e., parent’s name and email address) for the purposes of obtaining a parent’s permission for his/her child to participate in the particular Service or become a member of Cricket.  
+ 
 
-ePals Legal Department  
+For some Cricket Services, such as ePals®, teachers and school administrators may provide consent on behalf of parents. As a parent, you should consult your school’s acceptable use policy for more information about your child’s school’s policies and practices for protecting children on the Internet. As a teacher or school administrator, you should confirm that you have authority to consent on behalf of your student’s parents, by reviewing your school’s acceptable use policy and any express consents provided by parents or guardians to students’ online activities, together with Cricket’s Privacy Policy and Terms of Use.  
+ 
+
+Parents can provide consent by email, fax, or postal mail for their children to use ePals®.  Complete email instructions are provided in the parental consent form available at the following link: [Consent Form Link](http://en.community.epals.com/epals/support/m/support-resources/325401.aspx). (See also verifiable consent via a child’s teacher, below).  
+ 
+
+To provide consent by fax or post, parents should fill out the parental consent form, sign it and either fax it from North America to 1-703-885-3490 or mail it to:  
+ 
+
+Cricket Media, Inc.  
 13625-A Dulles Technology Drive  
-Herndon, VA 20171   
-USA 
+Herndon, VA 20171 (USA)  
+Attn: ePals Consent Form  
+ 
 
-If we receive consent from a parent, teacher or school administrator, an authorized ePals Administrator will activate the child's membership.
+Teachers may provide consent electronically when creating accounts for their students, provided they confirm their authority to consent, and affirmatively indicate consent, on behalf of a parent or guardian of each such student to the collection of personal information from that student by Cricket and to the use and disclosure of such personal information by Cricket under the terms of this Privacy Policy and _Privacy Notice for Children Under 13_.  
+ 
 
-We will seek consent from parents for their children to use In2Books® products and services through use of a credit card verification during the registration process, or parents will receive an email from ePals/In2Books® asking for their consent. Parents will be asked to provide consent by email, or fax. If a parent provides email consent, ePals will follow up with a confirmatory email to the parent.
+If we receive consent from a parent, teacher or school administrator, your child’s ePals® membership will be activated.  
+ 
 
-#### What Information Do We Collect From Children? 
+In2books verifies the teacher who has created the account for the school by receiving written consent from the school principal.  
+ 
 
-For all ePals products and services (i.e., SchoolMail®, In2Books®, and the Global Community™): we may collect the following types of personally identifiable information directly from children: first name; last name; date of birth; email address; ePals email address; password; nickname; IP address; grade level; mailing address; and parent's name and email address. We may also generate a login ID for the child that is different than the child's actual name. 
+If you are a student under 13, please do not send any personal information about yourself to us unless (and until) you have first obtained consent from your parent, guardian or authorized teacher, and please do not send any personal information other than the limited information we request from you in connection with the Services.  
+ 
 
-We may also passively collect any personally identifiable information that children choose to post on our online forums as well as cookies from children's computers. [Click here for more about cookies](https://web.archive.org/company/privacy-policy.php#cookies).
+##### What Information Do We Collect From Children?
 
-Non-Personally Identifiable Information: We may collect certain non-personally identifiable information from visitors to our site, such as the date and time of their visit, the type of browser used (e.g., Netscape, Internet Explorer), the type of operating system used (e.g., Windows 2000 or Mac OS), the ISP from which the visitor receives Internet access, and aggregate information regarding what pages users of the site access or visit. 
+###### Personally Identifiable Information
 
-We may also collect non-personally identifiable information from registered members (such as the member's favorite pet or favorite book) and match it to personally identifiable information (such as the member's name) in our database. Such combined information is kept in our internal database under the member's user name. 
+We may collect the following types of personal information directly from children: date of birth and parent email address in order to notify the parent or the teacher and obtain consent. We may collect the following information from parents or teachers about a child: first name, last name, password, nickname, IP address, grade level, mailing address and parent’s name and email address. We also collect the IP addresses of child user’s computers, which may be considered in some circumstances to be personally identifiable information.  
+ 
 
-#### How Do We Use the Information We Collect From Children? 
+We may also passively collect, through Users’ computers, mobile phones or other wireless devices and we also collect personally identifiable information through cookies from children’s computers. In connection with activities such as contests/Challenges, we do collect and share children’s images, audio and video submitted through such contest or Challenge but only after full parental consent has been obtained. Children are able to post on forums but such content is moderated and any personally identifiable information and removed and deleted before posting.  
+ 
 
-We may use the personally identifiable information that we collect from a child to determine whether he or she is eligible to use our site, to obtain consent from his or her parent, teacher or school administrator for him or her to use the service, to provide an interactive online experience, to send newsletters, to make reading recommendations, to provide educational content that we believe that the child may be interested in or would benefit from, and to fulfill requests for products or services. 
+###### Non-Personally Identifiable Information
 
-We may use non-personally identifiable information such as cookies and Web surfing habits associated with IP addresses to improve the design, content and performance of our site. We also may use this information in the aggregate to analyze site usage and the popularity of our Web pages. 
+We may collect certain non-personally identifiable information from visitors to our site, such as the date and time of their visit, the type of browser used ( _e.g.,_ Netscape, Internet Explorer), the type of operating system used ( _e.g.,_ Windows Server 2003 or Mac OS X), the ISP from which the visitor receives Internet access, and aggregate information regarding what pages users of the site access or visit.  
+ 
 
-We may also collect non-personally identifiable information from registered members (such as the member's favorite pet or favorite book) and match it to personally identifiable information (such as the member's name) in our database. Such combined information is kept in our internal database under the member's user name. We do not share such information with third parties, but we may use it for statistical purposes later, such as to say, 25 percent of In2Books® third-graders have goldfish! 
+We may also collect non-personally identifiable information from registered members of certain Services (such as the member’s favorite pet or favorite book) and match it to personally identifiable information (such as the member’s name) in our database. Such combined information is kept in our internal database under the member’s user name.  
+ 
 
-#### Will ePals Share My Child's Personal Information with Third Parties? 
+###### How Do We Use the Information We Collect From Children?
 
-Yes, but only in limited circumstances. We may disclose personally identifiable and/or non-personally identifiable (i.e., aggregate, anonymous) information obtained from children for educational research purposes. In addition, we may share such information with affiliates, trusted technology partners, and third party vendors who generate educational content, provide customer service or billing services, process parental consents, and/or monitor online forums and chatrooms. These third parties have agreed to maintain the confidentiality, security and integrity of personally identifiable information, and the information is not shared with any of these third party technology partners or vendors for their marketing purposes.
+_Use of Personally Identifiable Information:_  
+We may use the personally identifiable information that we collect from a child: (1) to determine whether he or she is eligible to use the Services; (2) to obtain consent from his or her parent, teacher or school administrator, as applicable, for the child to use the Services; (3) to provide an interactive online experience; (4) to provide customization and content recommendations; (5) to provide educational content that we believe that the child may be interested in or would benefit from; (6) to fulfill requests for products or services.  
+ 
 
-We may disclose personally identifiable and non-personally identifiable information in response to legal process--for example, in response to a court order or a subpoena. We also may disclose such information where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. In addition, we may transfer personally identifiable information if we are acquired by or merged with another company, or as part of a bankruptcy proceeding. 
+_Use of Non-Personally Identifiable Information:_  
+We may use non-personally identifiable information (such as cookies and Web surfing habits associated with IP addresses) to improve the design, content and performance of the Services. We also may use this information in the aggregate to analyze site usage and the popularity of the Services (individually or collectively).  
+ 
 
-Here is how the consent process works: 
+_Combined Information:_  
+We may collect certain non-personally identifiable information from registered users (such as the member’s favorite pet or favorite book) and match it to personally identifiable information (such as the member’s name) in our database. Such combined information is kept in our internal database under the member’s user name. We do not share such information with third parties, but we may use it for statistical purposes later, such as to say, 25 percent of In2Books® third-graders have goldfish!  
+ 
 
-  * For the ePals' Global Community™, SchoolMail® , teachers and/or school administrators will provide consent on behalf of the parents whose children attend school in those districts. 
-  * For In2Books® programs, consent will be obtained from parents, who have been notified about our information collection practices, and parents will be required to use a credit card to register a child for the program, or parents will receive an email from ePals/In2Books® asking for their consent. Parents will be asked to provide consent by email, or fax. If a parent provides email consent, ePals will follow up with a confirmatory email to the parent. 
+##### Will Cricket Share My Child’s Personal Information with Third Parties?
+
+We may disclose personally identifiable and/or non-personally identifiable information in certain limited circumstances, as set forth in Section III below.  
+ 
+
+We moderate all user generated content to remove any personally identifiable information unless we have parent permission to share this publicly. However, while we take all reasonable steps to ensure that children do not share their personal information no system is foolproof.  
+ 
+
+##### Can I Review, Change or Delete the Child Related Personal Information Cricket has Collected from My Child?
+
+Yes, you can. You can review the Child Related Personal Information related to your child by making a request, as described below, at any time. You can also have the Child Related Personal Information related to your child deleted as described below and end authorization for further collection of such information by us. If you wish to view, delete or modify information:
+
+  * _For ePals ®_ _:_ Members of ePals can review or edit, any Child Related Personal Information related to their child (such as the child’s name, phone number, email or postal address) by logging in to ePals and going to the preferences or settings page. Parents can also request that a child’s account be deleted at any time by emailing [support@cricketmedia.com](mailto:support@cricketmedia.com).
+  * _For In2Books_ _®_ _:_ Memberscan log into their accounts on [www.In2Books.com](http://www.in2books.com/), click the “Manage Account” button in the navigation bar, and then click on the “Personal Information and Security” link under the My Children column. To protect your student’s personal information, you will be required to enter a user name and password and answer an account security question. For more information, or if you need assistance, send an email to [support@cricketmedia.com](mailto:support@cricketmedia.com).
 
 
 
-Please note that by their very nature email accounts, greeting cards, chatrooms, blogs, message boards, and other interactive services allow children to disclose personally identifiable information (such as their real names, addresses or phone numbers) about themselves or others. We strive to prevent children from disclosing personally identifiable information through our products and services. For example, we caution children not to disclose this information while using our products and services, and we endeavor to monitor our online forums and use filters, among other things, in order to prevent this information from appearing in public areas such as blogs and chatrooms on the sites when we see it. However, these methods are not foolproof, and children may nevertheless still sometimes disclose personally identifiable information with their correspondents (e.g., in their exchange of letters in the In2Books® programs), and in our online forums. Parents and teachers should advise their children and students not to share any personally identifiable or contact information online, even if such personal information is provided in correspondence only between individuals.
+We will endeavor to respond to your request for access to your child’s personal information within thirty (30) days.  
+ 
 
-#### How Can I Review, Change or Delete the Personal Information ePals has Collected From My Child? 
+##### Third Parties
 
-You can review your child's personal information at any time. You can also have your child's personal information deleted and refuse to permit further collection of such information by us. If you wish to view, delete or modify this information: 
+   
+We work with third party analytics provider Google Analytics to understand the use of our services and improve it. Google Analytics is not allowed to share user data with any other third parties. For more information on Google Analytics click here: <https://www.google.com/intl/en/policies/privacy/>  
+ 
 
-  * For ePals' Global Community™, SchoolMail® : Members (including parents) can review, edit, or delete any personal information (such as their name, phone number, email or postal address) by logging in to the Global Community™, SchoolMail™ and going to the preferences or settings page. Parents can also request that a child's account be deleted at any time by emailing [ePals Support](mailto:gcsupport@corp.epals.com?Subject=ePals%20Support) or by going to our [Support Page](http://en.community.epals.com/epals/support/default.aspx).
-  * For In2Books®: Members (including parents) can log into their accounts on www.In2Books.com, click the "Manage Account" button in the navigation bar, and then click on the "Personal Information and Security" link under the My Children column. To protect your child's personal information, you will be required to enter a user name and password and answer an account security question. For more information, or if you need assistance, [submit your questions to customer support](http://in2books.epals.com/support/feedback.aspx).
+We do not share personal information with unaffiliated third parties for their own marketing purposes.  
+ 
 
+#### II. INFORMATION THAT WE COLLECT FROM INDIVIDUALS 13 YEARS OLD AND OVER
 
+Our privacy practices for data that we collect online from individuals 13 years old and over are generally similar to those for information that we collect from users under 13 years old, with specific collection practices, if any, identified in the case of purchasers of Products in the e-commerce section, [shop.cricketmedia.com](http://shop.cricketmedia.com/), (who must be 18 years of age or older, with a valid credit card).  
+ 
 
-### II. INFORMATION THAT WE COLLECT FROM INDIVIDUALS 13 YEARS OLD AND OVER
+##### What Information Do We Collect From Individuals 13 Years Old and Over? What Information Do We Collect from Individuals Ordering Products through [shop.cricketmedia.com](http://shop.cricketmedia.com/)—those individuals 18 Years Old and Over?
 
-Our privacy practices for data that we collect online from individuals 13 years old and over are generally similar to those for information that we collect from users under 13 years old. 
+##### For all Crickets services or products (i.e., In2Books®, ePals®)
 
-#### What Information Do We Collect From Individuals 13 Years Old and Over? 
+We may collect personally identifiable and non-personally identifiable information including, but not limited to: first and last name, date of birth, credit card information, security question and answer, nickname, information related to hobbies and preferences, email address, unique login name and password, home street address and/or telephone number, grade level, school name and address, and school telephone number. Teachers who register for ePals® may create and post an online profile, with fields for class- and school-specific information, and brief description of their class (es) for matching purposes. A Teacher can elect to suppress his or her profile so that it does not surface during class-matching (in the Find Classroom area), provided, however, that the profile would be accessible if such teacher asks to join another teacher’s project or submits a project to the Join Project listing.  
+ 
 
-For all ePals' products (i.e., SchoolMail® In2Books®, and the Global Community™): We may collect personally identifiable and non-personally identifiable information including, but not limited to: first and last name, date of birth, credit card information, security question and answer, nickname, information related to hobbies and preferences, email address, unique login name and password, home street address and/or telephone number, grade level, school name and address, and school telephone number. We may also generate a unique login ID for use on the ePals site. 
+It is our policy not to create profiles for any user identified by our system as being under 13 years old or identified as a student.  
+ 
 
-Teachers who register on our site may create and post an online profile, with fields for name, school name, school URL (optional), grade level taught, range of ages of students, languages spoken, total number of students in the class, any additional communication capabilities (optional), school street address, and a brief description of their class(es) for matching purposes. The profile can be viewed by any visitor to the site, though only registered ePals members can attempt to make contact with the teacher who created the profile. It is our policy not to create profiles for any user identified by our system as being under 13 years old or identified as a student. 
+##### For orders of Cricket Products:
 
-We may allow ePals' members 13 years old and over to refer friends to the site. If this feature is used, we will ask the member for the friend's name and email address. ePals will automatically send the friend a one-time email inviting them to visit the site. If the recipient chooses not to register, he or she may [contact ePals](mailto:gcsupport@corp.epals.com?Subject=ePals%20Support) and ask us to remove his or her name and email address from our database. 
+We may collect personally identifiable and non-personally identification information in connection with such purchases. We need to collect and share some personally identifiable information from you in order for us, or our third party support and distributor vendor, CDS, acting as our agent, to process your order and which hosts the ecommerce portion of our site—[shop.cricketmedia.com](http://shop.cricketmedia.com/) When an individual puts an item in a shopping cart or places an order, we collect information associated with the transaction, may include the customer’s name, email, mailing address, products ordered, shipping address, and credit card information, as well as ship-to information (if Products are intended for someone other than the purchasing customer.)  Customers have the option of registering certain information for future orders while completing the online order at [shop.cricketmedia.com](http://shop.cricketmedia.com/). For customers who choose to register, we will capture login name, password, name and mailing address, billing address, alternate ship-to addresses, and credit card information. We, or our trusted service provider, CDS, will retain your registration information, including your credit card information, so we can process your request.  
+ 
 
-Non-Personally Identifiable Information: We may use non-personally identifiable information that we collect from users over 13 years old to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage. 
+For more information on CDS click here <http://www.cds-global.com/about/privacy-policy/>.  
+ 
 
-We may also collect non-personally identifiable information from registered members (such as the member's music tastes or hobbies) and match it to personally identifiable information (such as the member's name) in our database. Such combined information is kept in our internal database under the member's user name. We do not share such information with third parties, but we may use it for statistical purposes. 
+When registered customers return to [shop.cricketmedia.com](http://shop.cricketmedia.com/) to place subsequent orders, they can identify themselves with their login name and passwords.  
+ 
 
-#### How Do We Use Information that We Collect From Individuals Over the Age of 13? 
+When a customer places an order online, we will send a confirming email message. We may also send an occasional email featuring a special promotion or product that may be of interest to Product customers. Any customer who prefers not to receive an online order confirmation or promotional email may indicate this preference on the online store order form. If you do receive commercial emails from us that you would rather not receive, simply follow the “unsubscribe” instructions included in each message.  
+ 
 
-We may use the personally identifiable information that we collect online from users over the age of 13 to obtain parental, teacher or school administrator consent for children to use the service, to provide an interactive online experience (including interactive features such as greeting cards and chatrooms), to send newsletters, to make reading recommendations, to facilitate collaborative projects, to provide educational content that we believe that the child may be interested in or would benefit from, to collect, fulfill, and bill for books, products or services, and to post testimonials. We receive permission before testimonials are posted on our site. 
+##### Non-Personally Identifiable Information:
 
-#### Will ePals Share Teens' and Adults' Personal Information with Third Parties? 
+We may use non-personally identifiable information that we collect from users at least 13 years old to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage.  
+ 
 
-Yes, but only in very limited circumstances. We may disclose personally identifiable and/or non-personally identifiable (i.e., aggregate, anonymous) information for educational research purposes. In addition, we may share such information with affiliates, trusted technology partners, and third party vendors who generate educational content, provide customer service or billing functions, process parental consents, and/or monitor online forums/chatrooms. These third parties have agreed to maintain the confidentiality, security and integrity of personally identifiable information. 
+We may also collect non-personally identifiable information from registered users (such as the member’s music tastes or hobbies) and match it to personally identifiable information (such as the member’s name) in our database. Such combined information is kept in our internal database under the member’s user name. We do not share such information with third parties, but we may use it for statistical purposes.  
+ 
 
-### III. LINKS TO THIRD PARTY WEB SITES
+##### How Do We Use Information that We Collect From Individuals Ages 13 and Over? How Do We Use Information that We Collect from Individuals Ordering Products-those Individuals 18 and Over?
 
-For the benefit of our members, our site links to other sites. We are not responsible for the data collection practices on those other sites. We advise you to carefully review those sites' privacy policies before submitting personal information there. 
+We may use the personally identifiable information that we collect online from Users who are at least 13 years old to obtain parental, teacher or school administrator consent, as applicable, for children to use the Service, to provide an interactive online experience (including interactive features such as greeting cards and chatrooms), to send newsletters, to make reading recommendations, to facilitate collaborative projects, to provide educational content that we believe that the child may be interested in or would benefit from, to collect, fulfill, and bill for books, products or services, and, with permission from the applicable User, to post testimonials.  
+ 
 
-### IV. COOKIES
+As indicated previously, personally identifiable information collected for customers ordering Products is used by CDS, our service provider for order fulfillment (and the entity hosting [shop.cricketmedia.com](http://shop.cricketmedia.com/)), to process and fulfill Product orders. We ask such service provider to maintain the confidentiality of your personally identifiable information and not to use for any reason except to carry out the purpose(s) for which we hired them. In addition, if you, an individual 18+ initiates a purchase of a Product but do not complete the transaction, we may use the email address you provide to send you email for the purpose of requesting feedback on your purchase experience. You are not obligated to respond to such email, but if you do, we may use your feedback to improve the ordering experience.  
+ 
 
-Cookies are small data files that a Web site writes to your computer hard drive for record-keeping purposes. Cookies identify you as a unique customer and store your personal preferences, as well as technical information (including click through and click stream data). Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). 
+##### What does Cricket use my information for?
 
-We may write "cookies" to your computer, primarily to personalize the site and to make it easier to use during each session, for example by keeping track of your preferences, such as what language you use. We may also use cookies to record session information, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, or to customize site content based on visitors' browser type or other information that the visitor sends. If you choose to furnish the site with personally identifiable information, this information can be stored in or linked to other data stored in the cookies. 
+##### Generally
 
-You may adjust your browser to reject cookies from us or from any other Web site. If you just wish to browse our site without logging in or registering as a member, you can set your browser not to accept cookies. Please consult the "Help" section of your browser for more information. However, there are certain features on our site that can be accessed only in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of those features. 
+When you use the Services, you may set up your personal profile, send messages, perform searches and queries, and transmit information through various channels, depending upon what category of User you are registered as (e.g., student, parent or teacher) (“User Category”), and as permitted by the functionality of the Services. The information we gather from users enables us to personalize and improve the Services, and allows Users to set up a User account and profile through particular Services, such as ePals.  
+ 
 
-### V. SECURITY PRACTICES
+##### Your email address
 
-We strive to protect the confidentiality, security and integrity of the personal information we collect from children and adults. We have put in place physical, electronic and administrative procedures to safeguard and to help prevent unauthorized access to and maintain the security of personally identifiable information collected through this site. This information is maintained on secure servers and is accessible to authorized personnel only on a "need to know" basis. 
+If you provide us your email address, we may send you email communications. Web beacons may also be used in some of our emails to let us know which emails (and which links within those emails) have been opened by recipients. This allows us to gauge the effectiveness of our customer communications. If you are a student, we will only use your email address to send you Notifications. To opt out of receiving emails from us with regard to our Services, please contact us at [support@cricketmedia.com](mailto:support@cricketmedia.com) with regard to Product customers, please contact us at [support@cricketmedia.com](mailto:support@cricketmedia.com). Please note that your ability to opt-out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our website. Please note that if you do not want to receive even legal notices from us via email, such as changes to this Privacy Policy, those legal notices will still govern your use of the Services and/or ordering Products, and you are responsible for visiting this Privacy Policy from time to time to review any changes.  
+ 
 
-### VI. NOTICE OF CHANGES TO THIS POLICY
+##### Your friend’s email address
 
-If we make changes to this Policy, we will post the changes here with a new effective date at the top. Please check back to this page periodically and look at the effective date at the top of this privacy policy to see if it has changed so that you can always know what information we collect, how we use it, and to whom we disclose it. 
+If you are a teacher and you provide us with another teacher’s name and email address, we may send that teacher an email inviting him or her to visit the Services. We store this information for the sole purpose of sending such email (and, if applicable, subsequent “reminder” emails) and tracking the success of our referral program. The referred teacher may contact us at [support@cricketmedia.com](mailto:support@cricketmedia.com) to request that we remove this information with regard to ePals and/or in2Books from our database.  
+ 
 
-If we intend to use or disclose members' personal information in a manner materially different from that stated at the time of collection we will notify members via email. Members age 13 and over will have a choice as to whether or not we can use their personal information in this different manner. If members opt out of receiving any communications from ePals, or have deleted/deactivated their account, then we will honor that request within a reasonable time. 
+##### Usage Information
 
-### VII. FOR MORE INFORMATION
+Cricket uses certain aggregate data, standard web traffic and behavior analytics, to enable us to figure out how often users use parts of the Services, so that we can make the Services more appealing and relevant to users, and customize and improve the Services and/or Products. As part of our use of information, we may provide aggregate information to our partners (in a non-personally-identifiable format) about how our users use our site. We may share this type of statistical data so that our partners also understand how often people use our partners’ services and the Services — to help us improve the Services (including by having great partner content and services). We may link usage information to Personal Information and Child Related Personal Information that we collect through the Services, but we will only use this linked information internally (for example, to customize your experience), and will not disclose it in linked format to third parties (unless such third parties are acting solely as our agents). Additionally, certain usage-related information may be viewable in your user profile that may be displayed to other users, depending on your User Category; for example, certain “badges” may displayed in your profile ( _g.,_ indicating successful completion of certain activities).  
+ 
 
-Please let us know if you have any questions or comments regarding our privacy policy. You can contact us at: 
+##### Mobile Usage Information
 
-ePals Legal Department  
+The type of usage data described above, when collected from a mobile device is used to determine the device capabilities and usage trends which allows us to better understand which devices we should support and what features are most frequently used.  
+ 
+
+#### III. INFORMATION SHARED WITH THIRD PARTIES
+
+We may disclose personally identifiable and/or non-personally identifiable information with third parties in certain limited circumstances, as set forth below:  
+ 
+
+##### Businesses We Do Not Control
+
+In certain situations, we may share such information with affiliates, partners, and third party vendors who may offer or sell items or provide services to you through the Services (either alone or jointly with us). We may, for example, work jointly with other businesses to offer or sell products or provide services, or we may work with third party websites to enhance your online experience. These transactions or services may or may not be commercial in nature. We will share your Personal Information or Child Related Personal Information that you provide with that business only to the extent that it is related to such transaction or service. Such services may include the ability for you to automatically transmit information you input on the Services to your profile or account on a third party website, or to automatically transmit information you input on a third party website to your Services profile. These third parties have agreed to maintain the confidentiality, security and integrity of any personally identifiable information provided to them through the Services. However, as we noted above, we have no control over the policies and practices of third party websites (or other offerings) as to privacy or anything else, so please review all third party websites’ policies before disclosing any Personal Information or Child Related Personal Information or other content on the Services or on any third party website (via the automatic transmissions discussed above or otherwise). Cricket is not in a position to, and is not responsible for, reviewing or verifying the accuracy of any third party’s data collection or use policies, or their compliance with such policies. If you have any concerns regarding any third party (e.g., if you would like a third party to cease contacting you or delete any of your information), please contact such third party directly. We sometimes make our list of the names and addresses of customers purchasing Products available to other carefully selected companies whose products and services we believe might be of interest to you. Be assured this does not involve sharing Children’s Personal Information for marketing. If you do not want to receive offers from these other companies, you, the purchaser of a Cricket Product, can opt out of these third party offers at any time in your account management section of the ecommerce portion of the Site, at [shop.cricketmedia.com](http://shop.cricketmedia.com/).  
+ 
+
+##### Agents
+
+We engage certain other companies and people to perform tasks on our behalf and sometimes need to share your information with them to provide products or services to you. Examples may include sending email, analyzing data, processing payments, providing user services, providing customer service, processing parental consents, and/or monitoring online forums and chatrooms. These third parties: (a) have agreed to maintain the confidentiality, security and integrity of personally identifiable information; and (b) do not have any right to use the Personal Information or Child Related Personal Information we share with them except as necessary to assist us.  
+ 
+
+##### Service Provider, Sub-Processors / Onward Transfer
+
+We may transfer such information to these third party companies that help us provide our service (for example, in the case of Product purchases on the e-commerce portion of the Site). Transfers to subsequent third parties are covered by: (a) the provisions in this Privacy Policy, (b) our applicable service agreements with such third party companies, and (c) our service providers’ respective privacy policies.  
+ 
+
+##### Business Transfers
+
+If Cricket, or some or all of its assets, were acquired or otherwise transferred, or in the unlikely event that Cricket goes out of business or enters bankruptcy, user information may be transferred to or acquired by a third party.  
+ 
+
+##### Protection of Cricket and Others
+
+We may release Personal Information or Child Related Personal Information when we believe in good faith that such release is necessary to comply with the law (such as to comply with a court order or subpoena), enforce or apply our [Terms of Use](http://www.cricketmedia.com/terms/) and other agreements, or protect the rights, property, or safety of ePals, our employees, our users, or others. (For example, we may disclose such information where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, or situations involving potential threats to the physical safety of any person). We will try to give you notice if we release information for these reasons, but please understand that we reserve the right not to, as it may not be practical, legal, or safe to do so.  
+ 
+
+If you have any inquiries regarding our partner’s privacy practices or how they use your child’s personal information, please contact us directly at [support@cricketmedia.com](mailto:support@cricketmedia.com).  
+ 
+
+#### LINKS TO THIRD PARTY WEB SITES
+
+For the benefit of our members, our sites link to other websites. We are not responsible for the data collection practices on those other sites. We recommend that you to carefully review those sites’ privacy policies before submitting personal information there.  
+ 
+
+#### COOKIES
+
+##### Cookies and Website Information
+
+Like most commercial websites, we use “cookie” technology and web server logs to collect information about how our website is used.  
+ 
+
+Cookies are small data files that a Website writes to your computer hard drive for record-keeping purposes. Cookies identify you as a unique customer and store your personal preferences, as well as technical information (including click through and click stream data). Cookies can either be permanent ( _i.e.,_  they remain on your computer until you delete them) or temporary ( _i.e.,_  they last only until you close your browser).  
+ 
+
+The cookies allow our web servers to recognize the computers used to access our websites. Cookies facilitate delivery of certain content to users as they move from page to page on our websites, including by remembering the information about the session.  
+ 
+
+We may write “cookies” to your computer, primarily to personalize Services and to make our sites easier to use during each session, for example by keeping track of your preferences, such as what language you use. We may also use cookies to record session information, record user-specific information on what pages users access or visit, , record past activity at our Site in order to provide better service when visitors return to our site, or to customize a Site view based on visitors’ browser type or other information that the visitor sends. Information gathered through cookies and by our web server logs may include the date and time of visits, the pages viewed, time spent on the Site, and the URL of websites visited just before and just after our Site in aggregate. If you choose to furnish personally identifiable information while using the Services, this information can be stored in or linked to other data stored in the cookies.  
+ 
+
+Certain of our partners and/or service providers may use cookies (to help us understand our users, to tailor what content is delivered, to help with shopping cart functionality, etc). The use of cookies by our partners, and service providers is covered by our privacy policy, but we do not necessarily have access to or control over these cookies.  
+ 
+
+You may adjust your browser to reject cookies from us or from any other Web site. If you just wish to browse our site without logging in or registering as a member, you can set your browser not to accept cookies. Please consult the “Help” section of your browser for more information. There are, however, certain features of the Services that can be accessed only in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of those features.  
+ 
+
+Our Site includes Social Media icons representing certain social media entities. These Social Media entities may collect your IP address, which page you are visiting on our Sit, and may set a cookie to function properly. Social Media entities are hosted by a third party. In each case, your interactions with these social media entities are governed by the privacy policy of the respective social media entity providing such services, and not this Privacy Policy.  
+ 
+
+In addition, we also use technology to collect information automatically, like your Internet Protocol (“IP”) address (which is the automatic number assigned to your computer by your Internet service provider when you surf the Web, or unique device identifier (“UDID”), international mobile equipment identity (“IMEI”), mobile equipment identifier (“MEID”) or media access control (“MAC”) address; computer operating system (e.g. Microsoft Windows, MAC OS); your browser (e.g. Internet Explorer, Firefox); websites visited before or after your visit our site; and pages viewed and activities at our site.  
+ 
+
+#### VI. DELETION OF ACCOUNTS AND RETENTION OF CERTAIN INFORMATION
+
+You may revise or request deletion of your Cricket account, by sending a request to [support@cricketmedia.com](mailto:support@cricketmedia.com) (for ePals). Purchasers of Products utilizing our e-commerce section, [shop.cricketmedia.com](http://shop.cricketmedia.com/), should send a request to [support@cricketmedia.com](mailto:support@cricketmedia.com). Such request should clearly identify your Account and specify that you are requesting deletion of your Account. You should also provide contact information so that we may, if we deem appropriate, verify the authenticity of your request. Please note that some unrevised information may remain in our records after revision of such information, and some information may remain after deletion of your account, or in cached and archived pages. Deletion of your Account will not affect our use of any aggregated data derived from or incorporating the Personal Information you previously provided to us.  
+ 
+
+We will retain your Personal Information or Child Related Personal Information for as long as your account is active or as long as needed to provide you the Services; we also may retain and use your information as we deem it necessary to comply with our legal obligations, resolve disputes, and to enforce our agreements.  
+ 
+
+#### VII. SECURITY PRACTICES
+
+We strive to protect the confidentiality, security and integrity of the personal information we collect from children and adults. We have put in place physical, electronic and administrative procedures to safeguard and to help prevent unauthorized access to and maintain the security of personally identifiable information collected through this site. This information is maintained on secure servers and is accessible to authorized personnel only on a “need to know” basis.  
+ 
+
+Your Cricket account Personal Information or Child Related Personal Information is protected by a password for your privacy and security. We also use coding practices which take steps to prevent attack on our Services from web browsers and malicious scripts.  
+ 
+
+You may help protect against unauthorized access to your account and Personal Information or Child Related Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.  
+ 
+
+When you enter sensitive information (such as a credit card number) in our Credit purchasing process, we or in the case of Product orders utilizing [shop.cricketmedia.com](http://shop.cricketmedia.com/), CDS, encrypt the transmission of that information using secure socket layer technology (SSL).  
+ 
+
+Cricket endeavors to keep your information private; however, we cannot guarantee security. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information. For additional information about the security measures we use in connection with the Services, please contact us at [support@cricketmedia.com](mailto:support@cricketmedia.com).  
+ 
+
+The Services contain links to other sites. We are not responsible for security on other sites. (We recommend that you read all third parties’ privacy policies to ensure you understand them). This Privacy Policy only governs information collected by Cricket on the Services.  
+ 
+
+#### VIII. CHANGES TO THIS POLICY
+
+We may make changes to this Privacy Policy from time to time for any reason. Use of information we collect is subject to the Privacy Policy in effect at the time such information is collected.  
+ 
+
+If we make changes to this Policy, we will post the revised Policy here with a new effective date at the top. Please check back to this page periodically. One way to know that the Policy has changed is to look at the effective date at the top of this privacy policy to see if it has changed.  
+ 
+
+If we make material changes in the way we collect, use or disclose Personal Information or Child Related Personal Information, we will notify you either: (i) via email prior to the effective date of the change; or (ii) by posting an announcement on the Services with two (2) weeks’ notice prior to the effective date of the change.  
+ 
+
+#### IX. USERS OUTSIDE THE UNITED STATES
+
+When you use the Services or order Products, the information we collect about you, including personal information, will be processed in the United States, as Cricket’s servers are all located in the United States. The data protection and other privacy laws of the United States may not afford the same level of protection as the laws of certain other countries. By providing personal information to Cricket from outside the United States, whether directly or indirectly though the Services or otherwise, you expressly consent to the transfer of your information to the United States, in accordance with the measures of protection described in this Privacy Policy.  
+ 
+
+#### X. FOR MORE INFORMATION
+
+Please let us know if you have any questions or comments regarding our privacy policy. You can contact us at:  
+ 
+
+Cricket Media Legal Department  
 13625-A Dulles Technology Drive  
 Herndon, VA 20171  
-Phone: (703) 885-3401  
-[Contact ePals](https://web.archive.org/company/contact-us.php)
-
-ePals, Inc. is a Participant in the TRUSTe Children's Online Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe. This privacy statement covers the site www.in2books.com and www.ePals.com.
-
-If you have questions or concerns regarding this statement, you should first contact us at [http://www.epalscorp.com/company/contact-us.php](https://web.archive.org/company/contact-us.php). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+Phone: (703) 885-3400  
+[support@cricketmedia.com](mailto:support@cricketmedia.com)
