@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the shopwithmemama.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405020112id_/http%3A//shopwithmemama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopwithmemama.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203083115id_/http%3A//shopwithmemama.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Shop With Me Mama
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fshopwithmemama.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
 
 This Privacy Policy governs the manner in which Shop with Me Mama collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.shopwithmemama.com](http://www.shopwithmemama.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Shop with Me Mama.
 
@@ -22,15 +20,15 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Shop with Me Mama collects and uses Users personal information for the following purposes:
 
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Your information helps us to more effectively respond to your customer service requests and support needs.
-  * _\- To administer a content, promotion, survey or other Site feature_  
+  * _– To administer a content, promotion, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
 
 
