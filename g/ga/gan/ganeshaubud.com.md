@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ganeshaubud.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514084431id_/http%3A//ganeshaubud.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ganeshaubud.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203132709id_/http%3A//ganeshaubud.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Ganeshaubud.com - Social Bookmarking Site | Ganeshaubud.com - PR 4 New Social Bookmarking Site
 
