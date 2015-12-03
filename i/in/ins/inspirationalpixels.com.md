@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspirationalpixels.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185345id_/http%3A//inspirationalpixels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspirationalpixels.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203215055id_/http%3A//inspirationalpixels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Inspirational Pixels
 
