@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnmichaelmarketing.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622055902id_/http%3A//johnmichaelmarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnmichaelmarketing.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204002838id_/http%3A//johnmichaelmarketing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | John Michael Marketing
 
