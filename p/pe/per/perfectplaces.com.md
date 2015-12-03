@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectplaces.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318023018id_/http%3A//www.perfectplaces.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectplaces.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203164801id_/http%3A//www.perfectplaces.com/privacy.cfm) for the most accurate reproduction.*
 
 # Perfect Places Privacy Notice | PerfectPlaces.com
 
