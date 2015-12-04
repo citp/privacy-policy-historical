@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ascentive.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617104435id_/http%3A//www.ascentive.com/trust/ascentive) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ascentive.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204191451id_/http%3A//www.ascentive.com/trust/ascentive) for the most accurate reproduction.*
 
 # Ascentive's Privacy Policy | By Ascentive
 
