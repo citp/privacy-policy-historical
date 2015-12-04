@@ -1,1331 +1,2450 @@
-<!--The following is the downloaded HTML source of the countryoutfitter.com privacy policy that was archived on 2015-04-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150424160718id_/https%3A//www.countryoutfitter.com/page/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the countryoutfitter.com privacy policy that was archived on 2015-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151204231606id_/http%3A//www.countryoutfitter.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=158842137505394"></script><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-ZHHW"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"300d975dc5","applicationID":"346342","transactionName":"dg5fRkENVQoAFEsVAlIEQh1AClYR","queueTime":0,"applicationTime":44,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-632.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgUPVEVQDAUDUFM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
-<meta charset="utf-8">
-<script>
-  //<![CDATA[
-    window.enable_mobile_templates = true;
-    window.request_device_type = "";
-    window.request_device_preference = "";
-    window.session_device_template = "desktop";
-    window.mobile_layout = false;
-  //]]>
-</script>
+<!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 
-<title>Privacy Policy - </title>
-<meta content="Thanks for visiting!  We want to assure you that your privacy is safe with us at Country Outfitter.   This Privacy Policy covers our treatment of personal information that this site gathers when you access or  use our online store. For details, ..." name="description">
-<meta content="Country Outfitter, Privacy Policy" name="keywords">
 
-<meta content="eo4wFtj0Mr_jOVSLhT_itzjskVogtX9XzSuNDvNfXNQ" name="google-site-verification">
-<meta content="321470779" property="twitter:account_id">
-<meta content="" name="bitly-verification">
-<meta content="width=975" name="viewport">
 
-<meta content="158842137505394" property="fb:app_id">
 
-<meta content="authenticity_token" name="csrf-param">
-<meta content="iSU96qXmjjXbCA3RGb4CajHbHIq3ppifcCix2ndawFE=" name="csrf-token">
-<script>
-  //<![CDATA[
-    var HE = HE ? HE : {};
-    HE.Config = HE.Config || {};
-  //]]>
-</script>
-<link href="//fonts.googleapis.com/css?family=Montserrat" media="screen" rel="stylesheet" type="text/css">
-<link href="/assets/countryoutfitter/application-f7b1114b52d4c4cf33c7d91ca4b265b1.css" media="screen" rel="stylesheet" type="text/css">
-<!-- / IE Hacks -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta charset="UTF-8">
+
+<title>Privacy Policy | County Outfitter</title>
+
+<link href="http://demandware.edgesuite.net/aayu_prd/on/demandware.static/Sites-CO-Site/-/default/dwb86d11e4/images/favicon.ico" rel="shortcut icon">
+<meta name="description" content="  Country Outfitter">
+<meta name="keywords" content=" Privacy Policy Country Outfitter">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700,800" rel="stylesheet" type="text/css">
+<link href="http://demandware.edgesuite.net/aayu_prd/on/demandware.static/Sites-CO-Site/-/default/v1449222106458/css/co.css" type="text/css" rel="stylesheet">
+<!--[if gte IE 9 | !IE]><!-->
+<script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/455305447569541840/bc.vms4/vms.js"></script><script type="text/javascript" async="" src="https://www.bluecore.com/triggermail.js/country_outfitter.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5TPQT2"></script><script src="http://demandware.edgesuite.net/aayu_prd/on/demandware.static/Sites-CO-Site/-/default/v1449222106458/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<!--<![endif]-->
 <!--[if lte IE 8]>
-<link href="/assets/base/ie8-ddec9769091c329b4f9dfd61dcc9a97d.css" media="screen" rel="stylesheet" type="text/css" />
-<script src="//html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+<script src="http://demandware.edgesuite.net/aayu_prd/on/demandware.static/Sites-CO-Site/-/default/v1449222106458/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
 <![endif]-->
-<!-- Start header bottom -->
+<!--[if lte IE 8]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js" type="text/javascript"></script>
+<script src="https://cdn.rawgit.com/chuckcarpenter/REM-unit-polyfill/master/js/rem.min.js" type="text/javascript"></script>
+<![endif]-->
+</head><body><input type="hidden" name="GAEventLabel" id="GAEventLabel" value="http://www.countryoutfitter.com/on/demandware.store/Sites-CO-Site/default/Page-Show?cid=privacy-policy">
 
-<!-- Stop header bottom -->
+<link href="http://demandware.edgesuite.net/aayu_prd/on/demandware.static/Sites-CO-Site/-/default/v1449222106458/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<!--[if lt IE 9]>
+<script src="http://demandware.edgesuite.net/aayu_prd/on/demandware.static/Sites-CO-Site/-/default/v1449222106458/js/lib/html5.js"></script>
+<![endif]-->
+<script type="text/javascript" src="http://demandware.edgesuite.net/aayu_prd/on/demandware.static/Sites-CO-Site/-/default/v1449222106458/internal/jscript/dwac-14.8.js"></script>
+
+
+
+<script src="http://demandware.edgesuite.net/aayu_prd/on/demandware.static/Sites-CO-Site/-/default/v1449222106458/js/gAnalytics_Events.js"></script>
+
+
+<meta name="google-site-verification" content="eo4wFtj0Mr_jOVSLhT_itzjskVogtX9XzSuNDvNfXNQ">
+
+
+
+
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+
+
+<script type="text/javascript">
+if (window.jQuery) {
+jQuery(document).ready(function(){
+if(screen.width < 768){
+jQuery('#footer').append('<a href="/homepage" class="full-site-link">View Full Site</a>');
+jQuery('.full-site-link')
+.attr('href', '/on/demandware.store/Sites-CO-Site/default/Home-FullSite')
+.click(function(e) {
+e.preventDefault();
+jQuery.ajax({
+url: '/on/demandware.store/Sites-CO-Site/default/Home-FullSite',
+success: function(){
+window.location.reload();
+}
+});
+}
+);
+}
+});
+}
+</script>
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+dataLayer=[];
+</script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5TPQT2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5TPQT2');</script>
+<!-- End Google Tag Manager -->
+<div id="wrapper" class="pt_content">
+
+
+
+<div id="browser-check">
+<noscript>
+<div class="browser-compatibility-alert">
+<p class="browser-error"> <i class="fa fa-exclamation-circle"></i>Your browser's Javascript functionality is turned off. Please turn it on so that you experience the sites full capabilities.</p>
+</div>
+</noscript>
+</div>
+
+
+
+<script type="text/javascript" src="//display.ugc.bazaarvoice.com/static/country-outfitter//bvapi.js"></script>
+<script type="text/javascript" language="javascript">
+	var configData = {};
+	
+    
+	
+    $BV.configure("global", configData);
+</script>
+<div id="header">
+<div class="content-wrapper">
+<!-- utility user menu -->
+<ul class="menu-utility-user show-desktop">
+
+
+<li class="user-info">
+
+<a class="user-login" id="menuLink1" href="https://www.countryoutfitter.com/account" title="Login">
+<span>Login</span>
+<span>/</span>
+<span>Register</span>
+</a>
+
+</li>
+
+<li class="wish-list">
+<a href="https://www.countryoutfitter.com/wishlist" title="Wish List">
+<span>Wish List</span>
+</a>
+</li>
+<li class="order-status">
+<a href="https://www.countryoutfitter.com/order-status" title="Order Status">
+<span>Order Status</span>
+</a>
+</li>
+</ul>
+<div class="top-banner" role="banner">
+<button class="menu-toggle">
+<i class="menu-icon fa fa-close show-on-trigger visually-hidden"></i>
+<img src="http://demandware.edgesuite.net/aayu_prd/on/demandware.static/Sites-CO-Site/-/default/dw90ab6a04/images/menu-search-icon_2x.png" class="ham-search-icon">
+<span class="visually-hidden">Menu</span>
+</button>
+<div class="primary-logo">
+<a href="http://www.countryoutfitter.com" title="Country Outfitter Home">
+<img class="show-desktop" src="http://demandware.edgesuite.net/aayu_prd/on/demandware.static/Sites-CO-Site/-/default/dw44607ae1/images/header/country-outfitter-logo@2x.png" alt="Country Outfitter">
+<img class="show-mobile" src="http://demandware.edgesuite.net/aayu_prd/on/demandware.static/Sites-CO-Site/-/default/dwfaf302f5/images/header/country-outfitter-mobile-logo@2x.png" alt="Country Outfitter">
+<span class="visually-hidden">Country Outfitter</span>
+</a>
+</div>
+<div class="print-logo">
+<img src="http://demandware.edgesuite.net/aayu_prd/on/demandware.static/Sites-CO-Site/-/default/dwa9ac1f02/images/header/print_logo.png" alt="Country Outfitter">
+</div>
+<div class="header-search show-desktop">
+
+<form role="search" action="/search" method="get" name="simpleSearch">
+<fieldset>
+<legend class="visually-hidden">Search Catalog</legend>
+<label class="fa fa-search orange-vertical-button" for="q"><span class="visually-hidden">Search</span></label>
+<input type="text" id="q" name="q" value="" placeholder="Search for all things country...">
+</fieldset>
+</form>
+
+</div>
+<div class="header-banner show-desktop">
+
+	 
+
+
+	
+
+<div class="html-slot-container">
+
+
+<div class="banner-container">
+    <a href="http://www.countryoutfitter.com/cyber-deals/?=header-banner"><img id="holidayBannerShipping" alt="Free Shipping. Free Exchanges." src="http://demandware.edgesuite.net/aayu_prd/on/demandware.static/-/Sites/default/dw914da80a/images/2015-11-29/cyber-week-deals-header-banner.png" title=""></a>
+</div>
 <style>
-  /*<![CDATA[*/
-    #utilityBlackFriday {
-      color:white;
-      font-size: 11px;
-      font-weight: bold;
-      left: 38%;
-      letter-spacing: 0.04em;
-      margin: 0 auto 0 -250px;
-      padding: 2px 0 0;
-      position: absolute;
-      text-align: center;
-      text-transform: uppercase;
-      width: 500px;
-    }
-    #utilityBlackFriday mark {
-      background:none;
-      color: #fcdeb3;
-      font-style: normal;
-      margin-left: 0.5em;
-    }
-    #utilityBlackFriday mark:after {
-      content: ">";
-      font-weight: normal;
-      margin-left: 0.25em;
-      vertical-align: top;
-    }
-    #utilityBlackFriday:hover {
-      text-decoration:none;
-    }
-  /*]]>*/
+.banner-container {max-width:310px;max-height:40px;}
+#holidayBannerShipping {width:100%;height:auto;}
+@media screen and (max-width: 1019px) and (min-width: 768px) {
+    .banner-container {max-width:290px;}
+}
 </style>
 
-</head>
-<body class="path-page-privacy-policy-html c-pages a-show quicklook-enabled boldchat-offline paginating page-privacy-policy">
-<div id="fb-root"></div>
 
-<div id="top_bg">&nbsp;</div>
-<header role="banner">
-<nav class="topMenu">
-<div class="wrapper" style="position:relative">
-<ul class="horizontal">
-<li class="gift-cards"><a href="/products/3657-GIFTCARD">Gift Cards</a></li>
-<li class="order-status"><a href="/order-status">Order Status</a></li>
-<li class="my_account"><a href="http://www.countryoutfitter.com/account" rel="nofollow">My Account</a></li>
-</ul>
-<a href="/corral/boots/sale?page_ref=topnav" id="utilityBlackFriday">CORRAL SALE! UP TO 30% OFF<mark>Save Now</mark></a>
+
+	 
+
+	
+</div> 
+	
 </div>
+<nav id="navigation" role="navigation">
+<div class="header-search show-mobile">
+
+<form role="search" action="/search" method="get" name="simpleSearch">
+<fieldset>
+<legend class="visually-hidden">Search Catalog</legend>
+<label class="fa fa-search orange-vertical-button" for="q"><span class="visually-hidden">Search</span></label>
+<input type="text" id="q" name="q" value="" placeholder="Search for all things country...">
+</fieldset>
+</form>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="menu-category level-1">
+
+
+
+<li class="first ">
+
+
+
+<i class="menu-item-toggle fa fa-plus"></i>
+
+
+<a class="has-sub-menu" href="http://www.countryoutfitter.com/womens/">
+Womens
+</a>
+
+
+
+
+
+<div class="level-2 mainmenu-horizontal">
+<ul class="menu-horizontal">
+
+
+<li>
+
+<i class="menu-item-toggle fa fa-plus"></i>
+
+<a href="http://www.countryoutfitter.com/womens/featured/">
+Featured
+</a>
+
+
+<ul class="level-3">
+
+
+<li>
+<a href="http://www.countryoutfitter.com/new-footwear/womens/">
+New Footwear
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/new-clothing/womens/">
+New Clothing
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/new-accessories/womens/">
+New Accessories
+</a>
+</li>
+
+
+</ul>
+
+</li>
+
+
+
+<li>
+
+<i class="menu-item-toggle fa fa-plus"></i>
+
+<a href="http://www.countryoutfitter.com/footwear/womens/">
+Footwear
+</a>
+
+
+<ul class="level-3">
+
+
+<li>
+<a href="http://www.countryoutfitter.com/cowboy-boots/womens/">
+Cowboy Boots
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/riding-boots/womens/">
+Riding Boots
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/casual-boots/womens/">
+Casual Boots
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/outdoor-boots/womens/">
+Outdoor Boots
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/booties/womens/">
+Booties
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/shoe-boots/womens/">
+Shoe Boots
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/exotic-boots/womens/">
+Exotic Boots
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/wide-calf-boots/womens/">
+Wide Calf Cowboy Boots
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/womens/work-boots/">
+Work Boots
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/boots/womens/">
+Boots
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/shoes/womens/">
+Shoes
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/slippers/womens/">
+Slippers
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/boot-accessories/womens/">
+Boot Accessories
+</a>
+</li>
+
+
+</ul>
+
+</li>
+
+
+
+<li>
+
+<i class="menu-item-toggle fa fa-plus"></i>
+
+<a href="http://www.countryoutfitter.com/clothing/womens/">
+Clothing
+</a>
+
+
+<ul class="level-3">
+
+
+<li>
+<a href="http://www.countryoutfitter.com/womens/clothing/blouses-shirts/">
+Blouses &amp; Shirts
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/sweaters/womens/">
+Sweaters
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/graphic-tees/womens/">
+Graphic Tees
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/tee-tanks/womens/">
+Tees &amp; Tanks
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/jeans/womens/">
+Jeans
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/pants/womens/">
+Pants
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/dresses/womens/">
+Dresses
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/womens/clothing/skirts/">
+Skirts
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/jackets-and-outerwear/womens/">
+Jackets &amp; Outerwear
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/socks/womens/">
+Socks
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/leggings/womens/">
+Leggings
+</a>
+</li>
+
+
+</ul>
+
+</li>
+
+
+
+<li>
+
+<i class="menu-item-toggle fa fa-plus"></i>
+
+<a href="http://www.countryoutfitter.com/accessories/womens/">
+Accessories
+</a>
+
+
+<ul class="level-3">
+
+
+<li>
+<a href="http://www.countryoutfitter.com/jewelry/womens/">
+Jewelry
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/handbags/womens/">
+Handbags
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/headwear/womens/">
+Headwear
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/belts/womens/">
+Belts
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/belt-buckles/womens/">
+Belt Buckles
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/scarves/womens/">
+Scarves
+</a>
+</li>
+
+
+</ul>
+
+</li>
+
+
+</ul>
+
+</div>
+
+
+</li>
+
+
+
+<li class="">
+
+
+
+<i class="menu-item-toggle fa fa-plus"></i>
+
+
+<a class="has-sub-menu" href="http://www.countryoutfitter.com/mens/">
+Mens
+</a>
+
+
+
+
+
+<div class="level-2 mainmenu-horizontal">
+<ul class="menu-horizontal">
+
+
+<li>
+
+<i class="menu-item-toggle fa fa-plus"></i>
+
+<a href="http://www.countryoutfitter.com/mens/featured/">
+Featured
+</a>
+
+
+<ul class="level-3">
+
+
+<li>
+<a href="http://www.countryoutfitter.com/new-footwear/mens/">
+New Footwear
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/new-clothing/mens/">
+New Clothing
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/new-accessories/mens/">
+New Accessories
+</a>
+</li>
+
+
+</ul>
+
+</li>
+
+
+
+<li>
+
+<i class="menu-item-toggle fa fa-plus"></i>
+
+<a href="http://www.countryoutfitter.com/footwear/mens/">
+Footwear
+</a>
+
+
+<ul class="level-3">
+
+
+<li>
+<a href="http://www.countryoutfitter.com/cowboy-boots/mens/">
+Cowboy Boots
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/mens/work-boots/">
+Work Boots
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/casual-boots/mens/">
+Casual Boots
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/exotic-boots/mens/">
+Exotic Boots
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/mens/outdoors/">
+Outdoor Boots
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/mens/shoes/">
+Shoes
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/harness-boots/mens/">
+Harness Boots
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/boot-care/mens/">
+Boot Care
+</a>
+</li>
+
+
+</ul>
+
+</li>
+
+
+
+<li>
+
+<i class="menu-item-toggle fa fa-plus"></i>
+
+<a href="http://www.countryoutfitter.com/clothing/mens/">
+Clothing
+</a>
+
+
+<ul class="level-3">
+
+
+<li>
+<a href="http://www.countryoutfitter.com/short-sleeve/shirts/mens/">
+Short Sleeve
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/long-sleeve/shirts/mens/">
+Long Sleeve
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/button-downs/mens/">
+Button-downs
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/graphic-tees/mens/">
+Graphic Tees
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/mens/tank-top/">
+Tank Tops
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/jeans/mens/">
+Jeans
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/mens/pants/">
+Pants
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/mens/shorts/">
+Shorts
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/mens/outerwear/">
+Jackets &amp; Outerwear
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/mens-clothing-socks/">
+Socks
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/big-and-tall/mens/">
+Big and Tall
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/mens/work-wear/">
+Work Wear
+</a>
+</li>
+
+
+</ul>
+
+</li>
+
+
+
+<li>
+
+<i class="menu-item-toggle fa fa-plus"></i>
+
+<a href="http://www.countryoutfitter.com/accessories/mens/">
+Accessories
+</a>
+
+
+<ul class="level-3">
+
+
+<li>
+<a href="http://www.countryoutfitter.com/cowboy-hats/mens/">
+Cowboy Hats
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/ball-caps/mens/">
+Ball Caps
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/belts/mens/">
+Belts
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/belt-buckles/mens/">
+Belt Buckles
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/bags-and-cases/mens/">
+Bags and Cases
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/wallets/mens/">
+Wallets
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/jewelry/mens/">
+Jewelry
+</a>
+</li>
+
+
+</ul>
+
+</li>
+
+
+</ul>
+
+</div>
+
+
+</li>
+
+
+
+<li class="">
+
+
+
+<i class="menu-item-toggle fa fa-plus"></i>
+
+
+<a class="has-sub-menu" href="http://www.countryoutfitter.com/kids/">
+Kids
+</a>
+
+
+
+
+
+<div class="level-2 mainmenu-horizontal">
+<ul class="menu-horizontal">
+
+
+<li>
+
+<i class="menu-item-toggle fa fa-plus"></i>
+
+<a href="http://www.countryoutfitter.com/kids/footwear/">
+Footwear
+</a>
+
+
+<ul class="level-3">
+
+
+<li>
+<a href="http://www.countryoutfitter.com/cowboy-boots/kids/">
+Cowboy Boots
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/kids/footwear/outdoor-boots/">
+Outdoor Boots
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/kids/footwear/shoes/">
+Shoes
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/kids/footwear/casual-boots/">
+Casual Boots
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/kids/footwear/work-boots/">
+Work Boots
+</a>
+</li>
+
+
+</ul>
+
+</li>
+
+
+
+<li>
+
+<i class="menu-item-toggle fa fa-plus"></i>
+
+<a href="http://www.countryoutfitter.com/kids-clothing/">
+Clothing
+</a>
+
+
+<ul class="level-3">
+
+
+<li>
+<a href="http://www.countryoutfitter.com/kids/clothing/tops/">
+Tops
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/kids/clothing/bottoms/">
+Bottoms
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/kids/clothing/dresses/">
+Dresses
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/kids/clothing/jackets-outerwear/">
+Jackets &amp; Outerwear
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/kids/clothing/socks/">
+Socks
+</a>
+</li>
+
+
+</ul>
+
+</li>
+
+
+
+<li>
+
+<i class="menu-item-toggle fa fa-plus"></i>
+
+<a href="http://www.countryoutfitter.com/kids/accessories/">
+Accessories
+</a>
+
+
+<ul class="level-3">
+
+
+<li>
+<a href="http://www.countryoutfitter.com/kids/accessories/belt-buckles/">
+Belt Buckles
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/kids/accessories/belts/">
+Belts
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/kids/accessories/headwear/">
+Headwear
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/kids/accessories/jewelry/">
+Jewelry
+</a>
+</li>
+
+
+</ul>
+
+</li>
+
+
+</ul>
+
+</div>
+
+
+</li>
+
+
+
+<li class="">
+
+
+
+<i class="menu-item-toggle fa fa-plus"></i>
+
+
+<a class="has-sub-menu" href="http://www.countryoutfitter.com/home/">
+Home
+</a>
+
+
+
+
+
+<div class="level-2 mainmenu-horizontal">
+<ul class="menu-horizontal">
+
+
+<li>
+
+<i class="menu-item-toggle fa fa-plus"></i>
+
+<a href="http://www.countryoutfitter.com/home/home-accents/">
+Home Accents
+</a>
+
+
+<ul class="level-3">
+
+
+<li>
+<a href="http://www.countryoutfitter.com/home/home-accents/throws/">
+Throws
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/decorative-pillows/">
+Decorative Pillows
+</a>
+</li>
+
+
+</ul>
+
+</li>
+
+
+
+<li>
+
+<i class="menu-item-toggle fa fa-plus"></i>
+
+<a href="http://www.countryoutfitter.com/bedding/">
+Bedding
+</a>
+
+
+<ul class="level-3">
+
+
+<li>
+<a href="http://www.countryoutfitter.com/home/bedding/bedding-sets/">
+Bedding Sets
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/home/bedding/shams/">
+Shams
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/home/bedding/quilts/">
+Quilts
+</a>
+</li>
+
+
+</ul>
+
+</li>
+
+
+</ul>
+
+</div>
+
+
+</li>
+
+
+
+<li class="without_menu">
+
+
+
+<a class="" href="http://www.countryoutfitter.com/work/">
+Work
+</a>
+
+
+
+
+
+
+</li>
+
+
+
+<li class="">
+
+
+
+<i class="menu-item-toggle fa fa-plus"></i>
+
+
+<a class="has-sub-menu" href="http://www.countryoutfitter.com/brands/">
+Brands
+</a>
+
+
+
+
+
+<div class="level-2 mainmenu-horizontal">
+<ul class="menu-horizontal">
+
+
+<li>
+
+<i class="menu-item-toggle fa fa-plus"></i>
+
+<a href="http://www.countryoutfitter.com/brands/">
+Featured Brands
+</a>
+
+
+<ul class="level-3">
+
+
+<li>
+<a href="http://www.countryoutfitter.com/american-rebel-boot-company/">
+American Rebel Boot Company
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/ariat/">
+Ariat
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/carhartt/">
+Carhartt
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/chippewa/">
+Chippewa
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/corral/">
+Corral
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/dan-post/">
+Dan Post
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/dickies/">
+Dickies
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/eight-second-angel/">
+Eight Second Angel
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/frye/">
+Frye
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/independent-boot-company/">
+Independent Boots
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/justin/">
+Justin
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/lucchese/">
+Lucchese Boots
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/redneck-riviera/">
+Redneck Riviera
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/roper/">
+Roper
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/ugg/">
+Ugg
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/wrangler/">
+Wrangler
+</a>
+</li>
+
+
+</ul>
+
+</li>
+
+
+</ul>
+
+</div>
+
+
+</li>
+
+
+
+<li class="without_menu">
+
+
+
+<a class="" href="http://www.countryoutfitter.com/sale/">
+Sale
+</a>
+
+
+
+
+
+
+</li>
+
+
+
+<li class="">
+
+
+
+<i class="menu-item-toggle fa fa-plus"></i>
+
+
+<a class="has-sub-menu" href="http://www.countryoutfitter.com/2015-Holiday-Gift-Guide.html">
+Gift Guide
+</a>
+
+
+
+
+
+<div class="level-2 mainmenu-vertical">
+<ul class="menu-vertical">
+
+
+<li>
+
+<i class="menu-item-toggle fa fa-plus"></i>
+
+<a href="http://www.countryoutfitter.com/gift-guide/gifts-for-her/">
+Gifts for Her
+</a>
+
+
+<ul class="level-3">
+
+
+<li>
+<a href="http://www.countryoutfitter.com/gift-guide/gifts-for-her/best-of-boots/">
+Best of Boots
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/gift-guide/gifts-for-her/layer-up/">
+Layer Up
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/gift-guide/gifts-for-her/womens-gifts-under-%2425/">
+Womens Gifts Under $25
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/gift-guide/gifts-for-her/womens-gifts-under-%2450/">
+Womens Gifts Under $50
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/gift-guide/gifts-for-her/womens-gifts-under-%24100/">
+Womens Gifts Under $100
+</a>
+</li>
+
+
+</ul>
+
+</li>
+
+
+
+<li>
+
+<i class="menu-item-toggle fa fa-plus"></i>
+
+<a href="http://www.countryoutfitter.com/gift-guide/gifts-for-him/">
+Gifts for Him
+</a>
+
+
+<ul class="level-3">
+
+
+<li>
+<a href="http://www.countryoutfitter.com/gift-guide/gifts-for-him/most-wanted-boots/">
+Most Wanted Boots
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/gift-guide/gifts-for-him/menswear-collection/">
+Menswear Collection
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/gift-guide/gifts-for-him/leather-goods/">
+Leather Goods
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/gift-guide/gifts-for-him/mens-gifts-under-%2425/">
+Mens Gifts Under $25
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/gift-guide/gifts-for-him/mens-gifts-under-%2450/">
+Mens Gifts Under $50
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/gift-guide/gifts-for-him/mens-gifts-under-%24100/">
+Mens Gifts Under $100
+</a>
+</li>
+
+
+</ul>
+
+</li>
+
+
+
+<li>
+
+<i class="menu-item-toggle fa fa-plus"></i>
+
+<a href="http://www.countryoutfitter.com/gift-guide/gifts-for-the-family/">
+Gifts for the Family
+</a>
+
+
+<ul class="level-3">
+
+
+<li>
+<a href="http://www.countryoutfitter.com/gift-guide/gifts-for-the-family/stocking-stuffers/">
+Stocking Stuffers
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.countryoutfitter.com/gourmet/">
+Gourmet
+</a>
+</li>
+
+
+</ul>
+
+</li>
+
+
+</ul>
+
+</div>
+
+
+</li>
+
+</ul>
+
+
+<div class="my-account-heading">My Account</div>
+<ul class="menu-utility-user show-mobile">
+
+
+<li class="user-info">
+
+<a class="user-login" id="menuLink1" href="https://www.countryoutfitter.com/account" title="Login">
+<span>Login</span>
+<span>/</span>
+<span>Register</span>
+</a>
+
+</li>
+
+<li class="wish-list">
+<a href="https://www.countryoutfitter.com/wishlist" title="Wish List">
+<span>Wish List</span>
+</a>
+</li>
+<li class="">
+
+	<!-- BoldChat Live Chat Button HTML v5.00 (Type=Web,ChatButton=CO Demandware Mobile Checkout,Website=CO Demandware) -->
+	<div class="mobile_livechat">
+		<div style="text-align: center; white-space: nowrap;">
+			<script type="text/javascript">
+			  var bccbId = Math.random(); document.write(unescape('%3Cdiv id=' + bccbId + '%3E%3C/div%3E'));
+			  window._bcvma = window._bcvma || [];
+			  _bcvma.push(["setAccountID", "455305447569541840"]);
+			  _bcvma.push(["setParameter", "WebsiteID", "3505589486857830916"]);
+			  _bcvma.push(["setParameter", "CustomUrl", ""])
+			  _bcvma.push(["setParameter", "WindowParameters", "vr=&vi=&ve=&vp=&vn=&lc="])
+			  _bcvma.push(["addStatic", {type: "chat", bdid: "542537519629727390", id: bccbId}]);
+			  var bcLoad = function(){
+			    if(window.bcLoaded) return; window.bcLoaded = true;
+			    var vms = document.createElement("script"); vms.type = "text/javascript"; vms.async = true;
+			    vms.src = ('https:'==document.location.protocol?'https://':'http://') + "vmss.boldchat.com/aid/455305447569541840/bc.vms4/vms.js";
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vms, s);
+			  };
+			  if(window.pageViewer && pageViewer.load) pageViewer.load();
+			  else if(document.readyState=="complete") bcLoad();
+			  else if(window.addEventListener) window.addEventListener('load', bcLoad, false);
+			  else window.attachEvent('onload', bcLoad);
+			</script><div id="0.47594727116506075"></div>
+		 	
+		</div>
+	</div>
+	<!-- /BoldChat Live Chat Button HTML v5.00 -->
+
+	<div class="pdpChatbottom">
+		<div id="pdpchat"></div>
+			<script type="text/javascript">
+					var bccbId = "pdpchat"; 
+						window._bcvma = window._bcvma || [];
+			_bcvma.push(["setAccountID", "455305447569541840"]);
+					_bcvma.push(["setParameter", "WebsiteID", "3505589486857830916"]);
+					_bcvma.push(["setParameter", "CustomUrl", ""])
+					_bcvma.push(["setParameter", "WindowParameters", "vr=&vi=&ve=&vp=&vn=&lc="])
+					_bcvma.push(["addStatic", {type: "chat", bdid: "2278967936267615710", id: bccbId}]);
+					var bcLoad = function(){
+						if(window.bcLoaded) return; window.bcLoaded = true;
+						var vms = document.createElement("script"); vms.type = "text/javascript"; vms.async = true;
+						vms.src = ('https:'==document.location.protocol?'https://':'http://') + "vmss.boldchat.com/aid/455305447569541840/bc.vms4/vms.js";
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vms, s);
+					};
+					if(window.pageViewer && pageViewer.load) pageViewer.load();
+					else if(document.readyState=="complete") bcLoad();
+					else if(window.addEventListener) window.addEventListener('load', bcLoad, false);
+					else window.attachEvent('onload', bcLoad);
+					$('.pdpChatTopContent a').html($('.pdpChatbottom').find('#pdpchat a').html());
+			$('.pdpChatTopContent a ').on('click',function(e){
+			e.preventDefault();
+			$('#pdpchat a img').trigger('click');
+			});
+			</script>
+	</div>
+
+</li>
+</ul>
+
+
+
 </nav>
+<div id="mini-cart">
 
-<div class="header-content wrapper">
-<div class="header-top clearfix" role="banner">
-<div class="logowrapper">
-<a href="http://www.countryoutfitter.com/" class="storeLogoNew" title="Welcome to Country Outfitter"><em>Cowboy Boots and Western Wear</em></a>
-</div>
-<div class="header-menu-top">
-<div class="clearfix">
-<form action="/search" id="top-search" method="get" role="search" autocomplete="off">
-<input name="q" placeholder="SEARCH FOR ALL THINGS COUNTRY..." tabindex="1" type="search" autocomplete="off">
-<button class="search with-arrow" tabindex="2" type="submit">
-<span>Search</span>
-</button>
-<div id="swifgestions" style="display: none;"><h3>Recommended Products</h3><ul></ul></div></form>
-<div class="freeshipping">
-<p>Limited Time - Everything Ships Free</p>
-<img alt="Limited Time - Everything Ships Free" src="/assets/free-shipping-promo-a3c460c1ecb76eabb24ba04bc57ff160.png">
-</div>
-<div class="viewCart" id="view_cart_link">
-<a href="http://www.countryoutfitter.com/bag#viewcart" data-cart-item-count="0"><span class="cart-title">Cart</span>
-</a></div>
-</div>
-</div>
-</div>
-<nav class="store-nav header-menu-bottom">
-<ul class="horizontal dropdown wrapper clearfix">
-<li class="drophover"><a href="/womens">Women</a>
-<div class="dropdown-wrapper">
-<div class="menu-column">
-<ul class="dropdown-menu">
-<li>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/cowboy-boots/womens"><strong>Cowgirl Boots</strong>
-</a></li>
-<li><a href="/short-boots/womens">Short Boots</a></li>
-<li><a href="/exotic-boots/womens">Exotic Boots</a></li>
-<li><a href="/cowboy-boots/wide-calf-boots/womens">Wide-Calf Cowgirl Boots</a></li>
-<li><a href="/cowboy-boots/new-arrivals/womens">New Arrivals</a></li>
-<li>
-<a href="/cowboy-boots/womens">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/boot-accessories"><strong>Boot Accessories</strong>
-</a></li>
-<li><a href="/boot-jewelry">Boot Jewelry</a></li>
-<li><a href="/fashion-boot-socks/womens">Boot Socks</a></li>
-<li><a href="/boot-cuffs">Boot Cuffs</a></li>
-<li>
-<a href="/boot-accessories">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-</li>
-<li>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/boots/womens"><strong>Women's Boots</strong>
-</a></li>
-<li><a href="/riding-boots/womens">Riding Boots</a></li>
-<li><a href="/boots/harness-boots/womens">Harness Boots</a></li>
-<li><a href="/booties/womens">Booties</a></li>
-<li><a href="/casual-boots/womens">Casual Boots</a></li>
-<li><a href="/womens/work-boots">Work Boots</a></li>
-<li><a href="/hiking-boots/womens">Hiking Boots</a></li>
-<li><a href="/boots/new-arrivals/womens">New Arrivals</a></li>
-<li>
-<a href="/boots/womens">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/boot-care"><strong>Boot, Shoe &amp; Leather Care</strong>
-</a></li>
-<li>
-<a href="/boot-care">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-</li>
-<li>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/shoes/womens"><strong>Women's Shoes</strong>
-</a></li>
-<li><a href="/moccasins/womens">Moccasins</a></li>
-<li><a href="/flats/womens">Flats</a></li>
-<li><a href="/sandals/womens">Sandals</a></li>
-<li><a href="/flip-flops/womens">Flip Flops</a></li>
-<li><a href="/slippers/womens">Slippers</a></li>
-<li><a href="/shoe-boots/womens">Shoe Boots</a></li>
-<li><a href="/clogs/womens">Clogs &amp; Mules</a></li>
-<li><a href="/new-arrivals/shoes/womens">New Shoes</a></li>
-<li>
-<a href="/shoes/womens">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-</li>
-</ul>
-</div>
-<div class="menu-column">
-<ul class="dropdown-menu">
-<li>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/apparel/womens"><strong>Women's Clothing</strong>
-</a></li>
-<li><a href="/shirts/womens">Shirts</a></li>
-<li><a href="/t-shirt/womens">T-Shirts</a></li>
-<li><a href="/tank-top/womens">Tank Tops</a></li>
-<li><a href="/button-downs/womens">Button-Downs</a></li>
-<li><a href="/sweaters/womens">Sweaters</a></li>
-<li><a href="/pants/womens">Pants</a></li>
-<li><a href="/jeans/womens">Jeans</a></li>
-<li><a href="/leggings/womens">Leggings</a></li>
-<li><a href="/dresses-and-skirts/womens">Dresses &amp; Skirts</a></li>
-<li><a href="/shorts/womens">Shorts</a></li>
-<li><a href="/fashion-boot-socks/womens">Boot Socks</a></li>
-<li><a href="/socks/womens">Socks</a></li>
-<li><a href="/apparel/new-arrivals/womens">New Arrivals</a></li>
-<li>
-<a href="/apparel/womens">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-</li>
-<li>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/outerwear/womens"><strong>Women's Outerwear</strong>
-</a></li>
-<li><a href="/jackets/womens">Jackets</a></li>
-<li><a href="/hoodies/womens">Hoodies</a></li>
-<li><a href="/sweatshirts/womens">Sweatshirts</a></li>
-<li><a href="/vests/womens">Vests</a></li>
-<li><a href="/new-arrivals/outerwear/womens">New Arrivals</a></li>
-<li>
-<a href="/outerwear/womens">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-</li>
-</ul>
-</div>
-<div class="menu-column">
-<ul class="dropdown-menu">
-<li>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/accessories/womens"><strong>Women's Accessories</strong>
-</a></li>
-<li><a href="/jewelry/womens">Jewelry</a></li>
-<li><a href="/handbags/womens">Handbags</a></li>
-<li><a href="/cowboy-hats/womens">Cowgirl Hats</a></li>
-<li><a href="/headwear/womens">Headwear</a></li>
-<li><a href="/belts/womens">Belts</a></li>
-<li><a href="/belt-buckles/womens">Belt Buckles</a></li>
-<li><a href="/gloves/womens">Gloves</a></li>
-<li><a href="/arm-warmers">Arm Warmers</a></li>
-<li><a href="/scarves/womens">Scarves</a></li>
-<li><a href="/health-and-beauty/womens">Health &amp; Beauty</a></li>
-<li><a href="/accessories/new-arrivals/womens">New Arrivals</a></li>
-<li>
-<a href="/accessories/womens">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-</li>
-</ul>
-</div>
-<div class="menu-column">
-<header>Collections</header>
-<ul class="dropdown-menu">
-<li>
-<ul class="dropdown-menu-column">
-<li><a href="/country-wedding">Wedding Shop</a></li>
-<li><a href="/apparel/plus-size/womens">Plus-Size Women's Apparel</a></li>
-<li><a href="/miranda">Miranda Lambert</a></li>
-<li><a href="/colt-ford-collection/cowboy-boots/womens">Colt Ford Collection for Women</a></li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-</li>
-<li class="drophover"><a href="/mens">Men</a>
-<div class="dropdown-wrapper">
-<div class="menu-column">
-<ul class="dropdown-menu">
-<li>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/cowboy-boots/mens"><strong>Cowboy Boots</strong>
-</a></li>
-<li><a href="/cowboy-boots/mens">All Cowboy Boots</a></li>
-<li><a href="/cowboy-boots/mens/work">Cowboy Boots for Work</a></li>
-<li><a href="/exotic-boots/mens">Exotic Boots</a></li>
-<li><a href="/cowboy-boots/mens/ropers">Ropers</a></li>
-<li><a href="/cowboy-boots/mens/steel-toe">Steel Toe Cowboy Boots</a></li>
-<li><a href="/cowboy-boots/mens/new-arrivals">New Arrivals</a></li>
-<li>
-<a href="/cowboy-boots/mens">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-</li>
-<li>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/boots/mens"><strong>Men's Boots</strong>
-</a></li>
-<li><a href="/mens/work-boots">Work Boots</a></li>
-<li><a href="/hunting-boots/mens">Hunting Boots</a></li>
-<li><a href="/boots/harness-boots/mens">Harness Boots</a></li>
-<li><a href="/casual-boots/mens">Casual Boots</a></li>
-<li><a href="/hiking-boots/mens">Hiking Boots</a></li>
-<li><a href="/boots/mens/steel-toe">Steel Toe Boots</a></li>
-<li><a href="/boots/mens/new-arrivals">New Arrivals</a></li>
-<li>
-<a href="/boots/mens">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/boot-care"><strong>Boot, Shoe &amp; Leather Care</strong>
-</a></li>
-<li>
-<a href="/boot-care">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-</li>
-<li>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/mens/shoes"><strong>Men's Shoes</strong>
-</a></li>
-<li><a href="/mens/moccasins">Moccasins</a></li>
-<li><a href="/loafers/mens">Loafers</a></li>
-<li><a href="/mens/sandals">Sandals</a></li>
-<li><a href="/mens/slippers">Slippers</a></li>
-<li><a href="/mens/oxford">Oxfords</a></li>
-<li><a href="/boat-shoes/mens">Boat Shoes</a></li>
-<li><a href="/mens/new-arrivals/shoes">New Arrivals</a></li>
-<li>
-<a href="/mens/shoes">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-</li>
-</ul>
-</div>
-<div class="menu-column">
-<ul class="dropdown-menu">
-<li>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/apparel/mens"><strong>Men's Clothing</strong>
-</a></li>
-<li><a href="/mens/shirts">Shirts</a></li>
-<li><a href="/mens/t-shirt">T-Shirts</a></li>
-<li><a href="/mens/tank-top">Tank Tops</a></li>
-<li><a href="/button-downs/mens">Button-Downs</a></li>
-<li><a href="/mens/sweaters">Sweaters</a></li>
-<li><a href="/mens/pants">Pants</a></li>
-<li><a href="/jeans/mens">Jeans</a></li>
-<li><a href="/mens/shorts">Shorts</a></li>
-<li><a href="/boot-socks/mens">Boot Socks</a></li>
-<li><a href="/mens/socks">Socks</a></li>
-<li><a href="/apparel/new-arrivals/mens">New Arrivals</a></li>
-<li>
-<a href="/apparel/mens">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-</li>
-<li>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/mens/outerwear"><strong>Men's Outerwear</strong>
-</a></li>
-<li><a href="/jackets/mens">Jackets</a></li>
-<li><a href="/mens/overalls">Overalls</a></li>
-<li><a href="/coveralls/mens">Coveralls</a></li>
-<li><a href="/hoodies/mens">Hoodies</a></li>
-<li><a href="/mens/sweatshirts">Sweatshirts</a></li>
-<li><a href="/mens/vests">Vests</a></li>
-<li><a href="/new-arrivals/outerwear/mens">New Arrivals</a></li>
-<li>
-<a href="/mens/outerwear">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-</li>
-</ul>
-</div>
-<div class="menu-column">
-<ul class="dropdown-menu">
-<li>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/accessories/mens"><strong>Men's Accessories</strong>
-</a></li>
-<li><a href="/jewelry/mens">Jewelry</a></li>
-<li><a href="/handbags/mens">Bags &amp; Wallets</a></li>
-<li><a href="/bags/mens">Backpacks &amp; Travel</a></li>
-<li><a href="/cowboy-hats/mens">Cowboy Hats</a></li>
-<li><a href="/headwear/mens">Headwear</a></li>
-<li><a href="/belts/mens">Belts</a></li>
-<li><a href="/belt-buckles/mens">Belt Buckles</a></li>
-<li><a href="/gloves/mens">Gloves</a></li>
-<li><a href="/accessories/new-arrivals/mens">New Arrivals</a></li>
-<li>
-<a href="/accessories/mens">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-</li>
-</ul>
-</div>
-<div class="menu-column">
-<header>Men's Shops</header>
-<ul class="dropdown-menu">
-<li>
-<ul class="dropdown-menu-column">
-<li><a href="/big-and-tall/mens">Big and Tall Clothing</a></li>
-<li><a href="/colt-ford-collection/cowboy-boots/mens">Colt Ford Boots for Men</a></li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-</li>
-<li class="drophover"><a href="/kids">Kids</a>
-<div class="dropdown-wrapper">
-<div class="menu-column">
-<ul class="dropdown-menu">
-<li>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/boots/girls"><strong>Girls' Boots</strong>
-</a></li>
-<li><a href="/boots/girls/infant">Infant</a></li>
-<li><a href="/boots/girls/toddler">Toddler</a></li>
-<li><a href="/boots/girls/youth">Youth</a></li>
-<li><a href="/boots/girls/new-arrivals">New Arrivals</a></li>
-<li>
-<a href="/boots/girls">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/accessories/girls"><strong>Girls' Accessories</strong>
-</a></li>
-<li><a href="/cowboy-hats/girls">Cowboy Hats</a></li>
-<li><a href="/belts/girls">Belts</a></li>
-<li><a href="/girls/jewelry">Jewelry</a></li>
-<li><a href="/chaps/girls">Chaps</a></li>
-<li>
-<a href="/accessories/girls">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-</li>
-<li>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/girls/shoes"><strong>Girls' Shoes</strong>
-</a></li>
-<li><a href="/flip-flops/girls">Flip Flops</a></li>
-<li><a href="/girls/slippers">Slippers</a></li>
-<li><a href="/girls/moccasins">Moccasins</a></li>
-<li>
-<a href="/girls/shoes">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-</li>
-<li>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/apparel/girls"><strong>Girls' Clothing</strong>
-</a></li>
-<li><a href="/girls/shirts">Shirts</a></li>
-<li><a href="/girls/jeans">Jeans</a></li>
-<li><a href="/girls/pants">Pants</a></li>
-<li><a href="/dresses-and-skirts/girls">Dresses &amp; Skirts</a></li>
-<li><a href="/girls/jackets">Jackets</a></li>
-<li><a href="/girls/shorts">Shorts</a></li>
-<li><a href="/girls/socks">Socks</a></li>
-<li><a href="/girls/hoodies">Hoodies</a></li>
-<li><a href="/girls/sweatshirts">Sweatshirts</a></li>
-<li><a href="/apparel/girls/new-arrivals">New Arrivals</a></li>
-<li>
-<a href="/apparel/girls">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-</li>
-<li>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/boots/boys"><strong>Boys' Boots</strong>
-</a></li>
-<li><a href="/boots/boys/infant">Infant</a></li>
-<li><a href="/boots/boys/toddler">Toddler</a></li>
-<li><a href="/boots/boys/youth">Youth</a></li>
-<li><a href="/boots/boys/new-arrivals">New Arrivals</a></li>
-<li>
-<a href="/boots/boys">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/accessories/boys"><strong>Boys' Accessories</strong>
-</a></li>
-<li><a href="/boys/cowboy-hats">Cowboy Hats</a></li>
-<li><a href="/belts/boys">Belts</a></li>
-<li>
-<a href="/accessories/boys">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-</li>
-<li>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/boys/shoes"><strong>Boys' Shoes</strong>
-</a></li>
-<li><a href="/boys/flip-flops">Flip Flops</a></li>
-<li><a href="/boys/slippers">Slippers</a></li>
-<li><a href="/boys/moccasins">Moccasins</a></li>
-<li>
-<a href="/boys/shoes">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-</li>
-<li>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/apparel/boys"><strong>Boys' Clothing</strong>
-</a></li>
-<li><a href="/boys/shirts">Shirts</a></li>
-<li><a href="/boys/jeans">Jeans</a></li>
-<li><a href="/boys/pants">Pants</a></li>
-<li><a href="/boys/jackets">Jackets</a></li>
-<li><a href="/boys/shorts">Shorts</a></li>
-<li><a href="/boys/socks">Socks</a></li>
-<li><a href="/boys/hoodies">Hoodies</a></li>
-<li><a href="/boys/sweatshirts">Sweatshirts</a></li>
-<li><a href="/apparel/boys/new-arrivals">New Arrivals</a></li>
-<li>
-<a href="/apparel/boys">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-</li>
-<li class="drophover"><a href="/home">Home</a>
-<div class="dropdown-wrapper">
-<div class="menu-column">
-<ul class="dropdown-menu">
-<li>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/decor"><strong>Decor</strong>
-</a></li>
-<li><a href="/wall-decor">Wall Decor</a></li>
-<li><a href="/signs">Signs</a></li>
-<li><a href="/wall-art">Wall Art</a></li>
-<li><a href="/wall-hangings">Wall Hangings</a></li>
-<li><a href="/wall-hooks">Wall Hooks</a></li>
-<li><a href="/horseshoe-decor">Horseshoe Decor</a></li>
-<li><a href="/home-accents">Home Accents</a></li>
-<li><a href="/picture-frames">Picture Frames</a></li>
-<li><a href="/decorative-pillows">Pillows</a></li>
-<li><a href="/candles-and-candleholders">Candles &amp; Candle Holders</a></li>
-<li><a href="/seasonal-decor">Seasonal Decor</a></li>
-<li><a href="/kids-room-decor">Kid's Room Decor</a></li>
-<li><a href="/decor/new-arrivals">New Arrivals</a></li>
-<li>
-<a href="/decor">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-</li>
-<li>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/kitchen-and-dining"><strong>Kitchen &amp; Dining</strong>
-</a></li>
-<li><a href="/kitchen-accents">Kitchen Accents</a></li>
-<li><a href="/kitchen-tools-and-accessories">Kitchen Tools &amp; Accessories</a></li>
-<li><a href="/kitchen-storage-and-organization">Kitchen Storage &amp; Organization</a></li>
-<li><a href="/drinkware">Drinkware</a></li>
-<li><a href="/serveware">Serveware</a></li>
-<li><a href="/flatware">Flatware</a></li>
-<li><a href="/table-linens">Table Linens</a></li>
-<li><a href="/kitchen-and-dining/new-arrivals">New Arrivals</a></li>
-<li>
-<a href="/kitchen-and-dining">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-</li>
-<li>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/bed-and-bath"><strong>Bed &amp; Bath</strong>
-</a></li>
-<li><a href="/bedding">Bedding</a></li>
-<li><a href="/bath-accessories">Bath Accessories</a></li>
-<li><a href="/bed-and-bath/new-arrivals">New Arrivals</a></li>
-<li>
-<a href="/bed-and-bath">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-</li>
-<li>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/home"><strong>More…</strong>
-</a></li>
-<li><a href="/country-wedding">Wedding</a></li>
-<li><a href="/furniture">Furniture</a></li>
-<li><a href="/lighting">Lighting</a></li>
-<li><a href="/outdoor">Outdoor Living</a></li>
-<li><a href="/storage-and-organization">Storage &amp; Organization</a></li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-</li>
-<li class="drophover"><a href="/work">Work</a>
-<div class="dropdown-wrapper">
-<div class="menu-column">
-<ul class="dropdown-menu">
-<li>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/work-boots"><strong>Work Boots</strong>
-</a></li>
-<li><a href="/steel-toe/work-boots">Steel-Toe Boots</a></li>
-<li><a href="/metatarsal-guard/work-boots">Metatarsal Guard Boots</a></li>
-<li><a href="/electrical-hazard/work-boots">Electrical Hazard Boots</a></li>
-<li><a href="/waterproof/work-boots">Waterproof Boots</a></li>
-<li><a href="/logger/work-boots">Logger Boots</a></li>
-<li><a href="/wellington-boots/work-boots">Wellingtons</a></li>
-<li><a href="/gore-tex/work-boots">GORE-TEX ®</a></li>
-<li><a href="/work-shoes">Work Shoes</a></li>
-<li>
-<a href="/work-boots">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-</li>
-</ul>
-</div>
-<div class="menu-column">
-<ul class="dropdown-menu">
-<li>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/work-wear"><strong>Work Clothing</strong>
-</a></li>
-<li><a href="/work-shirts">Shirts</a></li>
-<li><a href="/work-pants">Pants</a></li>
-<li><a href="/work-jeans">Jeans</a></li>
-<li><a href="/work-shorts">Shorts</a></li>
-<li><a href="/work-jackets">Jackets</a></li>
-<li><a href="/work-vests">Vests</a></li>
-<li><a href="/work-overalls">Overalls</a></li>
-<li><a href="/work-coveralls">Coveralls</a></li>
-<li>
-<a href="/work-wear">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-</li>
-<li>
-<ul class="dropdown-menu-column">
-<li>
-<a href="/accessories/work"><strong>Work Gear</strong>
-</a></li>
-<li><a href="/work-bags">Work Bags</a></li>
-<li><a href="/field-bags">Field Bags</a></li>
-<li><a href="/ball-caps/work">Ball Caps</a></li>
-<li><a href="/work-gloves">Work Gloves</a></li>
-<li>
-<a href="/accessories/work">View All
-<i class="fa fa-angle-right"></i>
-</a></li>
-</ul>
-</li>
-</ul>
-</div>
-<div class="menu-column">
-<header>Work Brands</header>
-<ul class="dropdown-menu">
-<li>
-<ul class="dropdown-menu-column">
-<li><a href="/justin-original-workboots/work-boots">Justin Original Workboots</a></li>
-<li><a href="/ariat/work-boots">Ariat</a></li>
-<li><a href="/carhartt">Carhartt</a></li>
-<li><a href="/dickies">Dickies</a></li>
-<li><a href="/chippewa">Chippewa</a></li>
-<li><a href="/danner-boots/work-boots">Danner Boots</a></li>
-<li><a href="/georgia/work-boots">Georgia Boots</a></li>
-<li><a href="/wolverine/work-boots">Wolverine</a></li>
-<li><a href="/twisted-x-boots/work-boots">Twisted X Boots</a></li>
-<li><a href="/timberland-pro/work-boots">Timberland Pro</a></li>
-<li><a href="/rocky/work-boots">Rocky</a></li>
-<li><a href="/john-deere/work">John Deere</a></li>
-<li><a href="/tony-lama/work-boots">Tony Lama</a></li>
-<li><a href="/carhartt-footwear/boots">Carhartt Boots</a></li>
-<li><a href="/caterpillar/work-boots">Caterpillar</a></li>
-<li><a href="/muck-boots">Muck Boot</a></li>
-<li><a href="/lacrosse/work-boots">Lacrosse</a></li>
-<li><a href="/riggs/mens">Riggs Workwear</a></li>
-<li><a href="/walls/apparel">Walls</a></li>
-</ul>
-</li>
-</ul>
-</div>
-<div class="menu-column">
-<header>Work Collections</header>
-<ul class="dropdown-menu">
-<li>
-<ul class="dropdown-menu-column">
-<li><a href="/flame-resistant">Flame-Resistant Workwear</a></li>
-<li><a href="/painters-wear">Painter's Clothing</a></li>
-<li><a href="/high-visibility">High-Visibility Workwear</a></li>
-<li><a href="/welding">Welding Gear</a></li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-</li>
-<li class="drophover"><a href="/brands">Brands</a>
-<div class="dropdown-wrapper">
-<div class="menu-column">
-<ul class="dropdown-menu">
-<li>
-<ul class="dropdown-menu-column">
-<li><a href="/rebel">American Rebel Boot Company</a></li>
-<li><a href="/american-west/handbags">American West Handbags</a></li>
-<li><a href="/ariat">Ariat</a></li>
-<li><a href="/carhartt">Carhartt</a></li>
-<li><a href="/colt-ford-collection">Colt Ford Collection</a></li>
-<li><a href="/corral">Corral</a></li>
-<li><a href="/dan-post">Dan Post</a></li>
-<li><a href="/durango">Durango</a></li>
-<li><a href="/eight-second-angel">Eight Second Angel</a></li>
-<li><a href="/filson">Filson</a></li>
-</ul>
-</li>
-<li>
-<ul class="dropdown-menu-column">
-<li><a href="/frye">Frye</a></li>
-<li><a href="/independent-boot-company/boots">Independent Boot Company</a></li>
-<li><a href="/justin">Justin</a></li>
-<li><a href="/justin-original-workboots/work-boots">Justin Original Workboots</a></li>
-<li><a href="/laredo/boots">Laredo</a></li>
-<li><a href="/levis">Levi's</a></li>
-<li><a href="/lucchese">Lucchese</a></li>
-<li><a href="/miranda">Miranda Lambert</a></li>
-<li><a href="/montana-silversmiths/accessories">Montana Silversmiths</a></li>
-</ul>
-</li>
-<li>
-<ul class="dropdown-menu-column">
-<li><a href="/nocona">Nocona</a></li>
-<li><a href="/old-gringo">Old Gringo</a></li>
-<li><a href="/stetson-boots">Stetson Boots</a></li>
-<li><a href="/redneck-riviera">Redneck Riviera</a></li>
-<li><a href="/tony-lama">Tony Lama</a></li>
-<li><a href="/twisted-x-boots">Twisted X</a></li>
-<li><a href="/ugg">Ugg</a></li>
-<li><a href="/under-armour">Under Armour</a></li>
-<li><a href="/wrangler">Wrangler</a></li>
-<li>
-<a href="/brands"><strong>
-All Brands
-<i class="fa fa-angle-right"></i>
-</strong>
-</a></li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-</li>
-<li class="sale-link"><a href="/sale">Sale</a></li>
-<li><a href="/marketplace">Marketplace</a></li>
-<li class="bordered_sides"><a href="http://www.countryoutfitter.com/style/fashion">Style Blog</a></li>
-<li class="navright boldchat-hide-while-offline">
-<a href="#chat" class="boldchat-chatlink">Chat with us</a>
-</li>
-</ul>
-</nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Report any requested source code -->
+
+<!-- Report the active source code -->
+
+
+
+<div class="mini-cart-total">
+
+<a class="mini-cart-link mini-cart-empty" href="https://www.countryoutfitter.com/cart" title="View Cart">
+<span class="mini-cart-text">Cart</span>
+<i class="fa fa-shopping-cart"></i>
+<span class="minicart-quantity"></span>
+</a>
+
+<div class="polycon-shape"></div>
 </div>
 
 
 
 
-</header>
-<div class="pages show" id="page">
-<a href="http://www.countryoutfitter.com/" class="storeLogo" title="Welcome to Country Outfitter"><em>Cowboy Boots and Western Wear</em></a>
-<section id="content">
 
 
-<div class="page page-privacy-policy" id="view">
-<h1>Privacy Policy</h1>
-<p>Thanks for visiting!  We want to assure you that your privacy is safe with us at Country Outfitter.  
-This Privacy Policy covers our treatment of personal information that this site gathers when you access or 
-use our online store. For details, continue reading:</p>
+
+
+
+</div>
+</div><!-- /top banner -->
+</div><!-- /content wrapper -->
+</div><!-- /header -->
+
+	<!-- BoldChat Live Chat Button HTML v5.00 (Type=Web,ChatButton=CO Demandware Mobile Checkout,Website=CO Demandware) -->
+	<div class="mobile_livechat">
+		<div style="text-align: center; white-space: nowrap;">
+			<script type="text/javascript">
+			  var bccbId = Math.random(); document.write(unescape('%3Cdiv id=' + bccbId + '%3E%3C/div%3E'));
+			  window._bcvma = window._bcvma || [];
+			  _bcvma.push(["setAccountID", "455305447569541840"]);
+			  _bcvma.push(["setParameter", "WebsiteID", "3505589486857830916"]);
+			  _bcvma.push(["setParameter", "CustomUrl", ""])
+			  _bcvma.push(["setParameter", "WindowParameters", "vr=&vi=&ve=&vp=&vn=&lc="])
+			  _bcvma.push(["addStatic", {type: "chat", bdid: "542537519629727390", id: bccbId}]);
+			  var bcLoad = function(){
+			    if(window.bcLoaded) return; window.bcLoaded = true;
+			    var vms = document.createElement("script"); vms.type = "text/javascript"; vms.async = true;
+			    vms.src = ('https:'==document.location.protocol?'https://':'http://') + "vmss.boldchat.com/aid/455305447569541840/bc.vms4/vms.js";
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vms, s);
+			  };
+			  if(window.pageViewer && pageViewer.load) pageViewer.load();
+			  else if(document.readyState=="complete") bcLoad();
+			  else if(window.addEventListener) window.addEventListener('load', bcLoad, false);
+			  else window.attachEvent('onload', bcLoad);
+			</script><div id="0.11183439398388995"></div>
+		 	
+		</div>
+	</div>
+	<!-- /BoldChat Live Chat Button HTML v5.00 -->
+
+	<div class="pdpChatbottom">
+		<div id="pdpchat"></div>
+			<script type="text/javascript">
+					var bccbId = "pdpchat"; 
+						window._bcvma = window._bcvma || [];
+			_bcvma.push(["setAccountID", "455305447569541840"]);
+					_bcvma.push(["setParameter", "WebsiteID", "3505589486857830916"]);
+					_bcvma.push(["setParameter", "CustomUrl", ""])
+					_bcvma.push(["setParameter", "WindowParameters", "vr=&vi=&ve=&vp=&vn=&lc="])
+					_bcvma.push(["addStatic", {type: "chat", bdid: "2278967936267615710", id: bccbId}]);
+					var bcLoad = function(){
+						if(window.bcLoaded) return; window.bcLoaded = true;
+						var vms = document.createElement("script"); vms.type = "text/javascript"; vms.async = true;
+						vms.src = ('https:'==document.location.protocol?'https://':'http://') + "vmss.boldchat.com/aid/455305447569541840/bc.vms4/vms.js";
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vms, s);
+					};
+					if(window.pageViewer && pageViewer.load) pageViewer.load();
+					else if(document.readyState=="complete") bcLoad();
+					else if(window.addEventListener) window.addEventListener('load', bcLoad, false);
+					else window.attachEvent('onload', bcLoad);
+					$('.pdpChatTopContent a').html($('.pdpChatbottom').find('#pdpchat a').html());
+			$('.pdpChatTopContent a ').on('click',function(e){
+			e.preventDefault();
+			$('#pdpchat a img').trigger('click');
+			});
+			</script>
+	</div>
+
+
+
+		<!-- BoldChat Live Chat Button HTML v5.00 (Type=Web,ChatButton=CO Demandware Persistant Right,Website=CO Demandware) -->
+			<div class="desktop_livechat">
+				<div style="text-align: center; white-space: nowrap;">
+				<script type="text/javascript">
+				  var bccbId = Math.random(); document.write(unescape('%3Cdiv id=' + bccbId + '%3E%3C/div%3E'));
+				  window._bcvma = window._bcvma || [];
+				  _bcvma.push(["setAccountID", "455305447569541840"]);
+				  _bcvma.push(["setParameter", "WebsiteID", "3505589486857830916"]);
+				  _bcvma.push(["setParameter", "CustomUrl", ""])
+				  _bcvma.push(["setParameter", "WindowParameters", "vr=&vi=&ve=&vp=&vn=&lc="])
+				  _bcvma.push(["addStatic", {type: "chat", bdid: "1754246747909354289", id: bccbId}]);
+				  var bcLoad = function(){
+				    if(window.bcLoaded) return; window.bcLoaded = true;
+				    var vms = document.createElement("script"); vms.type = "text/javascript"; vms.async = true;
+				    vms.src = ('https:'==document.location.protocol?'https://':'http://') + "vmss.boldchat.com/aid/455305447569541840/bc.vms4/vms.js";
+				    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vms, s);
+				  };
+				  if(window.pageViewer && pageViewer.load) pageViewer.load();
+				  else if(document.readyState=="complete") bcLoad();
+				  else if(window.addEventListener) window.addEventListener('load', bcLoad, false);
+				  else window.attachEvent('onload', bcLoad);
+				</script><div id="0.31811852270633323"></div>
+				
+				</div>
+				<!-- /BoldChat Live Chat Button HTML v5.00 -->
+			</div>
+
+		<div style="display:none" class="pdpChatbottom">
+		<div id="pdpchat"></div>
+		<script type="text/javascript">
+ 				var bccbId = "pdpchat"; 
+  				window._bcvma = window._bcvma || [];
+			_bcvma.push(["setAccountID", "455305447569541840"]);
+ 				_bcvma.push(["setParameter", "WebsiteID", "3505589486857830916"]);
+ 				_bcvma.push(["setParameter", "CustomUrl", ""])
+ 				_bcvma.push(["setParameter", "WindowParameters", "vr=&vi=&ve=&vp=&vn=&lc="])
+ 				_bcvma.push(["addStatic", {type: "chat", bdid: "2278967936267615710", id: bccbId}]);
+ 				var bcLoad = function(){
+   			if(window.bcLoaded) return; window.bcLoaded = true;
+   			var vms = document.createElement("script"); vms.type = "text/javascript"; vms.async = true;
+   			vms.src = ('https:'==document.location.protocol?'https://':'http://') + "vmss.boldchat.com/aid/455305447569541840/bc.vms4/vms.js";
+   			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vms, s);
+ 				};
+ 				if(window.pageViewer && pageViewer.load) pageViewer.load();
+ 				else if(document.readyState=="complete") bcLoad();
+ 				else if(window.addEventListener) window.addEventListener('load', bcLoad, false);
+ 				else window.attachEvent('onload', bcLoad);
+ 				$('.pdpChatTopContent a').html($('.pdpChatbottom').find('#pdpchat a').html());
+			$('.pdpChatTopContent a ').on('click',function(e){
+			e.preventDefault();
+			$('#pdpchat a img').trigger('click');
+			});
+		</script>
+		</div>
+
+
+<input type="hidden" name="isToggleMincartEnabled" id="isToggleMincartEnabled" value="0">
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-21434623-1', 'auto');
+
+ga('send', 'pageview');
+</script>
+
+
+
+
+<div id="main" role="main" class="page-content full-width clearfix">
+<div class="content-wrapper ">
+
+<div class="breadcrumb">
+<a href="http://www.countryoutfitter.com" class="breadcrumb-element" title="Home">Home</a>
+
+<a class="breadcrumb-element" title="Privacy Policy">Privacy Policy</a>
+
+</div><!-- END: breadcrumb -->
+
+
+<div id="primary" class="primary-content">
+
+
+
+
+
+
+
+
+<div class="content-asset"><!-- dwMarker="content" dwContentID="bcNQoiaaideMgaaadmQgI6mr5l" -->
+<h1 class="content-header privacy-policy">Privacy Policy</h1>
+
+<p>Thanks for visiting! We want to assure you that your privacy is safe with us at Country Outfitter. This Privacy Policy covers our treatment of personal information that this site gathers when you access or use our online store. For details, continue reading:</p>
 
 <h2>Information We Collect</h2>
+<span class="sub-header">Our visitors - Automatic Data Collection</span>
 
-<h3>Our visitors - Automatic Data Collection</h3>
+<p>The countryoutfitter.com website is operated by Acumen Brands, Inc. Like most websites, countryoutfitter.com collects non-personally identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Our purpose in collecting non-personally-identifying information is to better understand how our visitors use this website. From time to time, we may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of this website.</p>
 
-<p>The countryoutfitter.com website is operated by Acumen Brands, Inc. Like most websites, countryoutfitter.com collects non-personally identifying information of the sort that web browsers 
-and servers typically make available, such as the browser type, language preference, referring site, and the date and 
-time of each visitor request. Our purpose in collecting non-personally-identifying information is to better 
-understand how our visitors use this website. From time to time, we may release non-personally-identifying 
-information in the aggregate, e.g., by publishing a report on trends in the usage of this website.</p>
+<p>Country Outfitter also collects potentially personally-identifying-information like Internet Protocol (IP) addresses. We do not use such information to identify our visitors, however, and do not disclose such information, other than under the same circumstances that we use and disclose personally-identifying information, as described below.</p>
 
-<p>Country Outfitter also collects potentially personally-identifying-information like Internet Protocol (IP) 
-addresses. We do not use such information to identify our visitors, however, and do not 
-disclose such information, other than under the same circumstances that we use and disclose 
-personally-identifying information, as described below.</p>
+<h2>Our Customers - Information You Provide to Us</h2>
 
-<h3>Our Customers - Information You Provide to Us</h3>
+<p>Certain actions on our website do require us to collect personally-identifying information. Purchasers are asked to provide additional information, including as necessary the personal and financial information required to process transactions. In each case, Country Outfitter collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with our company. We will never disclose personally-identifying information other than as described below.</p>
 
-<p>Certain actions on our website do require us to collect personally-identifying information.  Purchasers 
-are asked to provide additional information, including as necessary the personal and financial information 
-required to process transactions. In each case, Country Outfitter collects such information only insofar as is 
-necessary or appropriate to fulfill the purpose of the visitor's interaction with our company. We will never 
-disclose personally-identifying information other than as described below. </p>
+<h2>Aggregated Statistics</h2>
 
-<h3>Aggregated Statistics</h3>
+<p>Country Outfitter may collect statistics about the behavior of visitors to its websites. For instance, Country Outfitter may monitor the most popular sections or products on our site. Country Outfitter may display this non-personally-identifying information publicly or provide it to others. However, Country Outfitter does not disclose personally-identifying information other than as described below.</p>
 
-<p>Country Outfitter may collect statistics about the behavior of visitors to its websites. For instance, Country Outfitter may monitor 
-the most popular sections or products on our site.  Country Outfitter may display this non-personally-identifying information 
-publicly or provide it to others. However, Country Outfitter does not disclose personally-identifying information other than as 
-described below.</p>
+<h2>Protection of Certain Personally-Identifying-Information</h2>
 
-<h3>Protection of Certain Personally-Identifying-Information</h3>
+<p>Country Outfitter discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors, and affiliated organizations that (i) need to know that information in order to process it on our behalf, or to provide services requested by the customer, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors, and affiliated organizations may be located outside of your home country; by using CountryOutfitter.com, you consent to the transfer of such information to them. Country Outfitter will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Country Outfitter discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when we believe in good faith that disclosure is reasonably necessary to protect the property or rights of Country Outfitter, third parties or the public at large. Country Outfitter takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.</p>
 
-<p>Country Outfitter discloses potentially personally-identifying and personally-identifying information only to those of its employees, 
-contractors, and affiliated organizations that (i) need to know that information in order to process it on our behalf, or to provide services requested by the customer, and (ii) that have agreed not to disclose it to others. Some of those 
-employees, contractors, and affiliated organizations may be located outside of your home country; by using CountryOutfitter.com, 
-you consent to the transfer of such information to them. <strong>Country Outfitter will not rent or sell potentially personally-identifying and 
-personally-identifying information to anyone.</strong> Other than to its employees, contractors and affiliated organizations, as described 
-above, Country Outfitter discloses potentially personally-identifying and personally-identifying information only when required to do so 
-by law, or when we believe in good faith that disclosure is reasonably necessary to protect the property or rights of 
-Country Outfitter, third parties or the public at large. Country Outfitter takes all measures reasonably necessary to protect against the unauthorized 
-access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.</p>
+<h2>Cookies</h2>
 
-<h3>Cookies</h3>
+<p>A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Without cookies, Country Outfitter can't keep track of the items you've placed in your cart or perform other crucial ecommerce capabilities. We do not use cookies to intrude in your privacy or do anything other than match you up with your information on our site.</p>
 
-<p>A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser 
-provides to the website each time the visitor returns. Without cookies, Country Outfitter can't keep track of the items you've placed in your cart
-or perform other crucial ecommerce capabilities.  We do not use cookies to intrude in your privacy or do anything other than match you up with 
-your information on our site.</p>
-
-<a name="nospam"></a>
 <h2>Communications</h2>
 
-<h3>Email Privacy Policy</h3>
+<h2>Email Privacy Policy</h2>
 
 <p>We have created this email privacy policy to demonstrate our firm commitment to your privacy and the protection of your information.</p>
 
-<h3>Why did you receive an email from us?</h3>
+<h2>Why did you receive an email from us?</h2>
 
 <p>If you received a mailing from us, (a) your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future ("opt-in"), or (b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings.</p>
 
-<h3>How we protect your privacy</h3>
+<h2>How we protect your privacy</h2>
 
-<p>We use security measures to protect against the loss, misuse, and alteration of data used by our system.<br></p>
+<p>We use security measures to protect against the loss, misuse, and alteration of data used by our system.</p>
 
-<h3>Sharing and Usage</h3>
-<p>We will never share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information and to contracted service providers for purposes of providing services relating to our communications with you.</p>
+<h2>Sharing and Usage</h2>
 
-<h3>How can you stop receiving email from us?</h3>
-<p>Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the instructions at the end of any email. You can also send the word UNSUBSCRIBE via email to reply@reply.countryoutfitter.com and you will immediately be removed from all related email lists.<br></p><p>If you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to info@countryoutfitter.com for review.</p>
+<p>We may share the information we collect with our affiliate and subsidiary companies, vendors and their participants, and other third parties, including to inform you about products and services that we believe may be of interest to you. We will never sell or rent individual personal information to outside parties without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information and to contracted service providers for purposes of providing services relating to our communications with you.</p>
+
+<h2>How can you stop receiving email from us?</h2>
+
+<p>Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the instructions at the end of any email. You can also send the word UNSUBSCRIBE via email to reply@reply.countryoutfitter.com and you will immediately be removed from all related email lists.</p>
+
+<p>If you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to info@countryoutfitter.com for review.</p>
 
 <h2>Conditions of Use</h2>
 
-<p>If you decide to visit the Country Outfitter website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our 
-Terms of Use, including limitations on damages, arbitration of disputes, and application of Arkansas state law.</p>
+<p>If you decide to visit the Country Outfitter website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of Arkansas state law.</p>
 
 <h2>Privacy Policy Changes</h2>
 
-<p>Although most changes are likely to be minor and infrequent, Country Outfitter may change its Privacy Policy from time to time, 
-and in our sole discretion. We encourage visitors to frequently check this page for any changes to its Privacy Policy. Your 
-continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.</p>
+<p>Although most changes are likely to be minor and infrequent, Country Outfitter may change its Privacy Policy from time to time, and in our sole discretion. We encourage visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.</p>
 
 <h2>Questions</h2>
 
-<p>Our full contact information, including location, may be found on our Contact page at <a href="http://countryoutfitter.com/contact">http://countryoutfitter.com/contact</a>.</p>
+<p>Our full contact information, including location, may be found on our Contact page at <a class="static-link" href="https://www.countryoutfitter.com/contact">http://countryoutfitter.com/contact.</a></p>
 
 <h2>Creative Commons</h2>
-<p>
-<a href="http://creativecommons.org/licenses/by-sa/2.5/" rel="license">
-<img border="0" align="left" style="padding: 3px 10px 10px 0pt;" valign="top" src="http://creativecommons.org/images/public/somerights20.png" alt="Creative Commons License">
-</a>
-This work (the Privacy Policy) is licensed under a Creative Commons Attribution-ShareAlike 2.5 License. (Thanks to <a href="http://www.opendns.com/privacy/">OpenDNS</a> 
-and <a href="http://automattic.com/privacy/">Automattic</a> )
-</p>
+
+<p><span class="some_rights"><a href="http://creativecommons.org/licenses/by-sa/2.5/"><img alt="" src="http://demandware.edgesuite.net/aayu_prd/on/demandware.static/-/Library-Sites-COSharedLibrary/default/dw1d406fd8/images/somerights20.png" title=""></a></span><span class="creative_commons">This work (the Privacy Policy) is licensed under a Creative Commons Attribution-ShareAlike 2.5 License. (Thanks <a href="https://www.opendns.com/privacy-policy/" class="static-link">toOpenDNS</a> and <a href="https://automattic.com/privacy/" class="static-link">Automattic</a> )</span></p>
 
 <h2>Effective Date of this Privacy Policy</h2>
 
 <p>This Privacy Policy is effective as of March 1st, 2008. Last updated August 26th, 2012.</p>
+</div> <!-- End content-asset -->
+
+
+
 
 </div>
-<aside><nav>
-<h5>Country Outfitter</h5>
-<ul>
-<li><a href="/page/about-us.html">About Us</a></li>
-<li><a href="/page/embroidery.html">Custom Embroidery</a></li>
-<li><a href="/contact">Contact Us</a></li>
-</ul>
-</nav>
+
+<div id="secondary" class="nav">
 <nav>
-<h6>Customer Service</h6>
+<h1 class="visually-hidden">Secondary Navigation</h1>
+<div class="secondary-navigation">
+
+
+
+
+<span class="toggle first ">Shipping<i class="fa fa-angle-down"></i></span>
 <ul>
-<li><a href="/page/shipping.html">Shipping Information</a></li>
-<li><a href="/page/returns-and-exchanges.html">Returns &amp; Exchanges</a></li>
-<li><a href="/page/privacy-policy.html">Privacy Policy</a></li>
-<li><a href="/page/terms-and-conditions.html">Terms &amp; Conditions</a></li>
-</ul>
-</nav>
 
-</aside>
-
-<div class="clearfix"></div>
-</section>
-</div>
-<div id="subFooter">
-<div class="wrapper">
-<div class="footerPromo">
-<h5 class="freeshipping">
-<strong>Free Shipping</strong>
-in contiguous USA on all orders
-</h5>
-</div>
-</div>
-</div>
-<div id="footerBg">
-<footer>
-<ul class="storeLinks vertical popularsearch">
-<li class="header nolink">Popular Boot Searches</li>
-<li><a href="/cowboy-boots/ropers">Roper Boots</a></li>
-<li><a href="/cowboy-boots/leather">Leather Boots</a></li>
-<li><a href="/cowboy-boots/square-toe">Square Toe Boots</a></li>
-<li><a href="/cowboy-boots/ostrich">Ostrich Boots</a></li>
-<li><a href="/mens/work-boots">Men's Work Boots</a></li>
-<li><a href="/coupons?page_ref=footer">Country Outfitter Coupons</a></li>
-<li><a href="/ariat/fatbaby">Ariat Fatbaby</a></li>
-<li><a href="/ariat/rambler">Ariat Rambler</a></li>
-<li><a href="/justin/gypsy">Justin Gypsy</a></li>
-</ul>
-<ul class="storeLinks vertical popularapparel">
-<li class="header nolink">Popular Apparel</li>
-<li><a href="/wrangler/jeans">Wrangler Jeans</a></li>
-<li><a href="/cinch/jeans">Cinch Jeans</a></li>
-<li><a href="/carhartt/jeans">Carhartt Jeans</a></li>
-<li><a href="/dickies/pants">Dickies Pants</a></li>
-<li><a href="/cowboy-hats">Cowboy Hats</a></li>
-<li><a href="/shirts">Western Shirts</a></li>
-<li><a href="/carhartt/overalls">Carhartt Overalls</a></li>
-<li><a href="/carhartt/jackets">Carhartt Jackets</a></li>
-</ul>
-<ul class="storeLinks vertical brands">
-<li class="header nolink">Brands</li>
-<li><a href="/ariat">Ariat Boots</a></li>
-<li><a href="/justin">Justin Boots</a></li>
-<li><a href="/corral">Corral Boots</a></li>
-<li><a href="/lucchese">Lucchese Boots</a></li>
-<li><a href="/durango">Durango Boots</a></li>
-<li><a href="/tony-lama">Tony Lama Boots</a></li>
-<li><a href="/dan-post">Dan Post Boots</a></li>
-<li><a href="/chippewa">Chippewa Boots</a></li>
-<li><a href="/carhartt">Carhartt</a></li>
-<li><a href="/dickies">Dickies</a></li>
-<li><a href="/wrangler">Wrangler</a></li>
-<li><a href="/montana-silversmiths">Montana Silversmiths</a></li>
-<li><a href="/brands">See all brands</a></li>
-</ul>
-<ul class="storeLinks vertical ourcompany">
-<li class="header nolink">Our Company</li>
-<li><a href="https://acumenholdings.recruiterbox.com/" target="_blank">Careers</a></li>
-<li><a href="/style/">Blog</a></li>
-<li><a href="/page/customer-service.html">Help</a></li>
-<li><a href="/products/3657-GIFTCARD">Gift Cards</a></li>
-<li><a href="/page/shipping.html">Shipping Information</a></li>
-<li><a href="/page/returns-and-exchanges.html">Returns &amp; Exchanges</a></li>
-<li><a href="/page/FAQ.html">FAQ</a></li>
-<li><a href="/page/privacy-policy.html">Privacy Policy</a></li>
-<li><a href="/contact">Contact Us</a></li>
-<li><a href="/page/about-us.html">About Country Outfitter</a></li>
-</ul>
-<ul class="storeLinks vertical newsletter">
-<li class="header nolink">Become Part of Our Family...</li>
-<li class="blurb">To get exclusive deals &amp; discounts, new product news, and more...</li>
 <li>
-<form class="newsletter_ajax_form">
-<div class="newsletter_ajax_notice"></div>
-<p>
-<label class="nl_email" for="user_email">Email</label>
-<input class="nl_email" id="user_email" placeholder="Email">
-</p>
-<p>
-<input class="nl_subscribe" type="submit" value="Subscribe">
-</p>
-</form>
+
+<a href="/shipping.html" title="About Our Shipping">
+About Our Shipping
+</a>
 
 </li>
+
 </ul>
-<div class="footerLinks clearfix">
-<div class="guarantee"></div>
-<div class="footerGuarantee">
-<ul class="storeInfo horizontal" itemscope="" itemtype="http://schema.org/Organization">
-<li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
-<span itemprop="streetAddress">2041 R North Shiloh Dr &nbsp;</span>
-<span itemprop="addressLocality">Fayetteville, </span>
-<span itemprop="addressRegion">AR </span>
-<span itemprop="postalCode">72704</span>
-</li>
-<li itemprop="telephone">1 (866) 824-7970</li>
-<li class="footer-chat-layout boldchat-hide-while-offline">
-<a class="boldchat-chatlink iconic-chatbubble" href="#chat">
-Need help?
-<b>Chat with us</b>
-<i class="fa fa-angle-right"></i>
+
+<span class="toggle">Returns<i class="fa fa-angle-down"></i></span>
+<ul>
+
+</ul>
+
+<span class="toggle">Terms &amp; Conditions<i class="fa fa-angle-down"></i></span>
+<ul>
+
+<li>
+
+<a href="/terms.html" title="Giveaway Terms &amp; Conditions">
+Giveaway Terms &amp; Conditions
 </a>
+
+</li>
+
+</ul>
+
+<span class="toggle">Privacy &amp; Security<i class="fa fa-angle-down"></i></span>
+<ul>
+
+<li>
+
+<a href="/privacy-policy.html" title="Privacy Policy">
+Privacy Policy
+</a>
+
+</li>
+
+</ul>
+
+
+</div>
+</nav>
+</div>
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="footer" role="contentinfo">
+
+<script type="text/javascript">
+var triggermail=triggermail||[];
+triggermail.load=function(a)
+{
+var b=document.createElement("script");
+b.type="text/javascript";
+b.async=!0;
+b.src=("https:"===document.location.protocol?"https://":"http://")+"www.bluecore.com/triggermail.js/"+a+".js";
+a=document.getElementsByTagName("script")[0];
+a.parentNode.insertBefore(b,a)
+};
+triggermail.load("country_outfitter");
+window.triggermail=triggermail;
+
+</script>
+
+<div class="content-wrapper">
+<footer>
+<div class="footer-container">
+<div class="footer-item our-company">
+
+	 
+
+
+	
+
+
+
+<div class="sec-header">Our Company</div>
+
+<div class="footer-list">
+<ul>
+                <li>
+                <ul>
+                                <li><a href="https://www.countryoutfitter.com/account?=footer">My Account</a></li>
+                                <li><a href="http://www.countryoutfitter.com/order-status?=footer">Check Order</a></li>
+                                <li><a href="http://www.countryoutfitter.com/customerservice?=footer">Help</a></li>
+                                <li><a href="https://www.countryoutfitter.com/contact?=footer">Contact Us</a></li>
+                                <li><a href="http://www.countryoutfitter.com/about-us.html?=footer">About Us</a></li>
+                                <li><a href="http://www.countryoutfitter.com/shipping.html?=footer">Shipping</a></li>
+                                <li><a href="http://www.countryoutfitter.com/returns.html?=footer">Returns</a></li>
+                                <li><a href="http://www.countryoutfitter.com/faqs.html?=footer">FAQ</a></li>
+                </ul>
+                </li>
+                <li>
+                <ul>
+                                <li><a href="http://www.countryoutfitter.com/terms.html?=footer">Terms</a></li>
+                                <li><a href="http://www.countryoutfitter.com/privacy-policy.html?=footer">Privacy</a></li>
+                                <li><a href="http://www.countryoutfitter.com/site-map?=footer">Site Map</a></li>
+                                <li><a href="https://acumenholdings.recruiterbox.com/" target="_blank">Jobs</a></li>
+                                <li><a href="https://www.countryoutfitter.com/gift-cards?=footer">Gift Cards</a></li>
+                                <li><a target="_blank" href="http://countryoutfitter.life/fashion/">Style Blog</a></li>
+                </ul>
+                </li>
+</ul>
+</div>
+
+ 
+	
+</div>
+<div class="footer-item popular-search">
+
+
+
+
+
+
+<div class="content-asset"><!-- dwMarker="content" dwContentID="bcNSIiaaid5vcaaadmP2E6mr5l" -->
+<div class="sec-header">Popular Boot Searches</div>
+
+<div class="footer-list">
+<ul>
+                <li>
+                <ul>
+                                <li><a href="http://www.countryoutfitter.com/exotic-boots/mens/ostrich/?=footer">Men's Ostrich Boots</a></li>
+                                <li><a href="http://www.countryoutfitter.com/wide-calf-boots/womens/?=footer">Wide Calf Boots</a></li>
+                                <li><a href="http://www.countryoutfitter.com/cowboy-boots/womens/fringe/?=footer">Fringe Boots</a></li>
+                                <li><a href="http://www.countryoutfitter.com/work-boots/mens/steel-toe/?=footer">Men's Steel Toe Work Boots</a></li>                                
+                                <li><a href="http://www.countryoutfitter.com/twisted-x-boots/?=footer">Twisted X Boots</a></li>
+                </ul>
+                </li>
+                <li>
+                <ul>
+                                <li><a href="http://www.countryoutfitter.com/justin/gypsy/?=footer">Justin Gypsy</a></li>                                
+                                <li><a href="http://www.countryoutfitter.com/ariat/rambler/?=footer">Ariat Rambler</a></li>
+                                <li><a href="http://www.countryoutfitter.com/ariat/fatbaby/?=footer">Ariat Fatbaby</a></li>
+                                <li><a href="http://www.countryoutfitter.com/cowboy-boots/square-toe/?=footer">Square Toe Boots</a></li>
+                                <li><a href="http://www.countryoutfitter.com/american-flag-boots/?=footer">American Flag Boots</a></li>
+                </ul>
+                </li>
+</ul>
+</div>
+</div> <!-- End content-asset -->
+
+
+
+
+
+</div>
+<div class="footer-item popular-apparel">
+
+
+
+
+
+
+<div class="content-asset"><!-- dwMarker="content" dwContentID="bcaOIiaaidK4oaaadmTME6mr5l" -->
+<div class="sec-header">Popular Searches</div>
+
+<div class="footer-list">
+<ul>
+   <li>
+     <ul>
+                 <li><a href="http://www.countryoutfitter.com/fashion-boot-socks/womens/?=footer">Women's Boot Socks</a></li>
+                 <li><a href="http://www.countryoutfitter.com/carhartt/jackets/mens/?=footer">Men's Carhartt Jackets</a></li>
+                 <li><a href="http://www.countryoutfitter.com/cowboy-hats/mens/?=footer">Cowboy Hats</a></li>
+                 <li><a href="http://www.countryoutfitter.com/cowboy-hats/womens/?=footer">Cowgirl Hats</a></li>
+                 <li><a href="http://www.countryoutfitter.com/wrangler/jeans/mens/?=footer">Men's Wrangler Jeans</a></li>
+     </ul>
+   </li>
+<li>
+   <ul>
+                 <li><a href="http://www.countryoutfitter.com/instagram/?=footer">Products on Instagram</a></li>
+                 <li><a href="http://www.countryoutfitter.com/justin/gypsy/?=footer">Durango Boots</a></li>
+                 <li><a href="http://www.countryoutfitter.com/coupons.html?=footer">Country Outfitter Coupons</a></li>
+                 <li><a href="http://www.countryoutfitter.com/plus-size/clothing/?=footer">Plus Size Clothing</a></li>
+                 <li><a href="http://www.countryoutfitter.com/big-and-tall/mens/?=footer">Big and Tall</a></li>
+   </ul>
 </li>
 </ul>
-<p class="copyright">
-© 2015 Country Outfitter - <a href="/">Cowboy Boots and Western Wear</a>
-</p>
-<p>Country Outfitter is dedicated to giving our thousands of customers the best possible service when you order your products over the Internet. This includes safe and secure processing of your sensitive credit card information using the highest data encryption available today. We offer a 100% money back guarantee within 30 days. See our Shipping &amp; Returns page for details, including necessary exceptions.</p>
+</div>
+</div> <!-- End content-asset -->
+
+
+
+
+
+</div>
+<div class="footer-item email-search">
+
+
+
+
+
+
+<div class="content-asset"><!-- dwMarker="content" dwContentID="bclsYiaaidtssaaadmOME6mr5l" -->
+<div class="sec-header">Become part of our family</div>
+
+<p>To get exclusive deals &amp; discounts, new product news, and more...</p>
+
+<form action="#" id="email-alert-signup" class="email-alert-signup" method="post">
+<input class="input-text email required email-alert-address" id="email-alert-address" placeholder="Enter Email Address" type="text" value="">
+
+<button class="fa fa-chevron-right" name="home-email" title="Submit" type="submit" value="Submit"></button>
+<span class="subsuccess"></span>
+</form>
+</div> <!-- End content-asset -->
+
+
+
+
+
 </div>
 </div>
+
+
+
+
+
+
+<div class="content-asset"><!-- dwMarker="content" dwContentID="bcQJaiaaidcNEaaadmRgE6mr5l" -->
+<div class="footer-bottom-sec">
+<div class="guarentee-left"><img alt="" src="http://demandware.edgesuite.net/aayu_prd/on/demandware.static/-/Library-Sites-COSharedLibrary/default/dwba5ca3b0/images/homepage/trusted_guarentee.png" title="trust"></div>
+
+<div class="guarentee-right">
+<p class="footer-address show-desktop">2041 R North Shiloh Dr.&nbsp; Fayetteville, AR 72704</p>
+
+<p class="copyrights show-desktop">© 2015 Country Outfitter<span class="dot-breaker">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;</span> Cowboy Boots and Western Wear</p>
+
+<p class="footer-descri">Country Outfitter is dedicated to giving our thousands of customers the best possible service when you order products over the Internet. This includes safe and secure processing of your sensitive credit card information using the highest data encryption available today. We offer a 100% money back guarantee within 30 days. See our Shipping &amp; Returns page for details, including necessary exceptions.</p>
+
+<p class="footer-address show-mobile">2041 R North Shilloh Dr. Fayetteville, AR 72704</p>
+
+<p class="copyrights show-mobile">© 2015 Country Outfitter <br> Cowboy Boots and Western Wear</p>
+</div>
+</div>
+</div> <!-- End content-asset -->
+
+
+
+
+
 </footer>
 </div>
+</div><!-- /footer -->
 
 
-<div class="jsmodal" id="quicklookmodal"></div>
-<script id="minicart_template" type="text/template">
-<article class="minicart-items-scroller">
-  <ul class="minicart-items">
-    <li class="empty-message">YOUR CART IS EMPTY</li>
-  </ul>
-</article>
+
+<!--[if lte IE 8]>
+<script src="//cdn.rawgit.com/weblinc/media-match/master/media.match.min.js" type="text/javascript"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/3.4.0/es5-shim.min.js"></script>
+<![endif]-->
+<!--[if IE 9]>
+<script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.js" type="text/javascript"></script>
+<script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.addListener.js" type="text/javascript"></script>
+<![endif]-->
+<script type="text/javascript">
+
+(function(){
+window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE"};
+window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No Thanks","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Couldn't Load Address","BONUS_PRODUCT":"Bonus Product","SELECT_ORDER_PROMOTION_PRODUCTS":"Select Order Promotion Products","SELECT_PRODUCT_PROMOTION_PRODUCTS":"Select Product Promotion Products","BONUS_PRODUCTS":"Bonus Product(s)","SELECT_BONUS_PRODUCTS":"Select Bonus Product(s)","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products have been selected.  Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search for all things country...","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please Enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_PHONE":"Please specify a valid phone number.","INVALID_EMAIL":"The email address is invalid.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added to compare.  Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid Gift Certificate Code","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 25 and maximum of 500","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number.  Please enter the name of the credit card owner.","COUPON_CODE_MISSING":"Please Enter a Coupon Code","COOKIES_DISABLED":"<i class=\"fa fa-exclamation-circle\"></i>Your browser is not currently set to accept cookies or check to see if you have another program set  to block cookies?","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter Zip Code","INVALID_ZIP":"Please enter a valid Zip Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Less Stores","QUICK_VIEW":"Quick View","GA_CATEGORY_ADD_BOLDCHAT":"Chat","GA_CATEGORY_ADD_CAMPAIGNS":"Campaigns","GA_CATEGORY_CART":"Product Detail Page","GA_CATEGORY_PDP_PAGE":"Product Detail Page","GA_CATEGORY_ADD_CATEGORY_PAGE":"Category Page","GA_CATEGORY_ADD_GENERAL":"General","GA_CATEGORY_ADD_CARTPAGE":"Cart","GA_CATEGORY_ADD_WISHLIST":"Wishlist","GA_ACTION_CAMPAIGNS":"Source Code Used","GA_ACTION_BOLDCHAT":"Chat Requested","GA_ACTION_CONTINUE_TO_CHECKOUT":"Continue to Checkout","GA_ACTION_CONTINUE_SHOPPING":"Continue Shopping","GA_ACTION_CART_REMOVE_PRODUCT":"Remove Product ","GA_ACTION_CART_EDIT_PRODUCT":"Edit Product","GA_ACTION_WISHLIST_FIND":"Find","GA_ACTION_WISHLIST_REMOVE":"Remove","GA_ACTION_WISHLIST_QUANTITY":"Quantity","GA_ACTION_WISHLIST_ADDTOCART":"Add to Cart","GA_ACTION_GENERAL_SUBSCRIBE":"Subscribe","GA_ACTION_GENERAL_PAGE_BOUNCE":"Page Bounce","GA_ACTION_GENERAL_MYACCOUNT":"My Account","GA_ACTION_PAGENOTFOUND":"404","GA_ACTION_CATEGORYPAGE_PRODUCTSPERPAGESELECTOR":"Products per page selector","GA_ACTION_CATEGORYPAGE_SUBSCRIBE":"Subscribe","GA_ACTION_CATEGORYPAGE_SORTED_CATEGORY":"Sorted Category","GA_ACTION_CATEGORYPAGE_FACETED_SEARCH":"Faceted Search","GA_ACTION_CATEGORYPAGE_CATEGORYLINK":"Category Link","GA_ACTION_CAMPAIGNS_SOURCECODE":"Source Code Used","GA_ACTION_PDP_ALTERNATE_IMAGE":"Views Alternate Image","GA_ACTION_PDP_RECOMMENDED_PRODUCT":"Recommended Product View ","GA_ACTION_PDP_RECOMMENDED_PRODUCT_SCROLL":"Recommended Product Scroll ","GA_ACTION_PDP_RECOMMENDED_QUICK_LOOK":"Recommended Product Quicklook","GA_ACTION_PDP_BRAND_INFO":"Brand Info","GA_ACTION_PDP_SHIPPING_RETURNS":"Shipping & Returns ","GA_ACTION_PDP_QA":"Q&A ","GA_ACTION_PDP_REVIEWS":"Reviews ","GA_ACTION_PDP_SHARE":"Share","GA_ACTION_PDP_QUANTITY":"Quantity","GA_ACTION_PDP_FITGUIDE":"Fit Guide  ","GA_ACTION_PDP_WISHLIST":"Add to Wishlist","GA_ACTION_REMOVEPRODUCT":"DELETE PRODUCT","GA_ACTION_UPDATEPRODUCT":"UPDATE CART","GA_ACTION_SEARCH":"SEARCH RESULTS","GA_ACTION_ADDPRODUCTPV":"Adds to Cart","GA_ACTION_ADDPRODUCTQV":"Quickview","GA_CATEGORY_MINICART":"MINI CART","GA_CATEGORY_SEARCHSUGGESTION":"SEARCH","GA_ACTION_MINICART":"OPEN","GA_ACTION_SEARCHBUTTON":"Search Button","GA_ACTION_SEARCHSUGGESTIONLIST":"Search Suggestion List","GA_ACTION_QUICKVIEW":"QUICK VIEW","GA_CATEGORY_QUICKVIEW":"PRODUCT","GA_ACTION_SIGNIN":"Login","GA_CATEGORY_USER":"USER","GA_ACTION_ADDPRODUCT":"Adds to Cart ","GA_ACTION_ADDALLPRODUCT":"Adds to Cart","GA_ACTION_ADDALLPRODUCTQV":"Quickview","GA_ACTION_ADDALLPRODUCTPV":"Adds to Cart","GA_CATEGORY_NAVIGATION":"NAVIGATION","GA_ACTION_CATEGORY":"CATEGORY","GA_ACTION_LOGOUT":"NOT X?","GA_ACTION_LOGIN":"Login","GA_CATEGORY_PROMOTION":"PROMOTION","GA_ACTION_REMOVEPROMOTION":"REMOVE COUPON","GA_CATEGORY_PDPVIEW":"PDP VIEW","GA_ACTION_PDPVIEW":"PRODUCT","SIGNUPFAIL":"Email Subscribtion failed.","SIGNUPSUCCESS":"Email Subscribed.","SIGNUPINVALID":"Inavalid email.","EMAILNOTIFICATIONSUCCESS":"bisn.notificationsuccess","EMAILNOTIFICATIONFAIL":"bisn.notificationfail","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) In Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back Order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
+window.Urls = {"appResources":"/on/demandware.store/Sites-CO-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-CO-Site/default/Page-Include","continueUrl":"http://www.countryoutfitter.com/on/demandware.store/Sites-CO-Site/default/Page-Show/C826379744","staticPath":"http://demandware.edgesuite.net/aayu_prd/on/demandware.static/Sites-CO-Site/-/default/v1449222106458/","addGiftCert":"/gift-cards","minicartGC":"/on/demandware.store/Sites-CO-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-CO-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-CO-Site/default/Cart-MiniAddProduct","cartShow":"/cart","cartShowSecure":"https://www.countryoutfitter.com/cart","giftRegAdd":"https://www.countryoutfitter.com/on/demandware.store/Sites-CO-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.countryoutfitter.com/payments","addressesList":"https://www.countryoutfitter.com/addresses","wishlistAddress":"https://www.countryoutfitter.com/on/demandware.store/Sites-CO-Site/default/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-CO-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-CO-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-CO-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-CO-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-CO-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-CO-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-CO-Site/default/Product-GetAvailability","removeImg":"http://demandware.edgesuite.net/aayu_prd/on/demandware.static/Sites-CO-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-CO-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-CO-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-CO-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.countryoutfitter.com/on/demandware.store/Sites-CO-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.countryoutfitter.com/on/demandware.store/Sites-CO-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.countryoutfitter.com/on/demandware.store/Sites-CO-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.countryoutfitter.com/on/demandware.store/Sites-CO-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.countryoutfitter.com/on/demandware.store/Sites-CO-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.countryoutfitter.com/on/demandware.store/Sites-CO-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-CO-Site/default/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-CO-Site/default/Compare-Show","compareAdd":"/on/demandware.store/Sites-CO-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-CO-Site/default/Compare-RemoveProduct","compareEmptyImage":"http://demandware.edgesuite.net/aayu_prd/on/demandware.static/Sites-CO-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.countryoutfitter.com/on/demandware.store/Sites-CO-Site/default/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.countryoutfitter.com/on/demandware.store/Sites-CO-Site/default/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.countryoutfitter.com/on/demandware.store/Sites-CO-Site/default/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-CO-Site/default/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-CO-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-CO-Site/default/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-CO-Site/default/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-CO-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-CO-Site/default/StoreInventory-GetZipCode","billing":"/on/demandware.store/Sites-CO-Site/default/COOnePage-Start","currencyConverter":"/on/demandware.store/Sites-CO-Site/default/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-CO-Site/default/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-CO-Site/default/Page-Include?cid=cookie_hint","customerInfo":"/on/demandware.store/Sites-CO-Site/default/Home-IncludeHeaderCustomerInfo","emailNotification":"/on/demandware.store/Sites-CO-Site/default/BISNSave-Bisn","multiShippingSelectSM":"https://www.countryoutfitter.com/on/demandware.store/Sites-CO-Site/default/COShippingMultiple-SelectShippingMethod","ioProduct":"http://www.countryoutfitter.com/on/demandware.store/Sites-CO-Site/default/IO-Product","ioCart":"https://www.countryoutfitter.com/on/demandware.store/Sites-CO-Site/default/IO-Cart","emailSubscription":"/on/demandware.store/Sites-CO-Site/default/emailSubscription-Start","resetPassword":"/password-reset"};
+window.SitePreferences = {"LISTING_INFINITE_SCROLL":false,"LISTING_REFINE_SORT":true,"LISTING_SEARCHSUGGEST_LEGACY":false,"STORE_PICKUP":true,"COOKIE_HINT":false};
+window.User = {"zip":null,"storeId":null};
+//PREVAIL-Window Properties
+window.isPayPalEnabled = true;
+window.isCyberSourceEnabled = true;
+window.isEventTrackingEnabled = true;
+window.isGoogleAnalyticsEnabled = true;
+}());
 </script>
-<script id="minicart_header_template" type="text/template">
-Your Cart
-<% if (item_count) { %>
-(<%= item_count %>)
-<% } %>
-<a href='/bag#viewcart'>Edit Cart</a>
+<script src="http://demandware.edgesuite.net/aayu_prd/on/demandware.static/Sites-CO-Site/-/default/v1449222106458/js/co.js"></script>
+
+
+
+<script>pageContext = {};</script>
+<script>
+var meta = "";
+var keywords = "Privacy Policy";
 </script>
-<script id="minicart_item_template" type="text/template">
-<a href='<%= url %>'>
-  <img src="<%= img %>"/>
-  <dl>
-    <dt><%= name %></dt>
-    <dd>Price: <%= price %> x <%= quantity %></dd>
-    <% _.each(attrs, function(val, key) { %>
-      <dd><%= key %>: <%= val %></dd>
-    <% }); %>
-  </dl>
-</a>
-<a class="remove" rel="nofollow" title="Remove Item">X</a>
-</script>
-<script id="minicart_footer_template" type="text/template">
-<button class='purchase-action witharrow' <% if(!item_count) {%>
-  disabled="disabled"
-<% } %>>
-  <span>BEGIN CHECKOUT</span>
-</button>
-<% if( free_shipping_deficit === 0 ) {%>
-<p class="minicart-ship-notice">
-  Your purchase qualifies for <mark>Free Shipping!</mark>
-</p>
-<% } %>
-</script>
+
+
+
+</div>
+
+<!-- BoldChat Conversion Tracking HTML v5.10 (Website=CO Demandware,ConversionCode=CO Demandware Conversion) -->
+<script type="text/javascript">
+window._bcvma = window._bcvma || [];
+_bcvma.push(["setAccountID", "455305447569541840"]);
+_bcvma.push(["addConversion", {
+VisitName: "",
+VisitPhone: "",
+VisitEmail: "",
+VisitRef: "",
+VisitInfo: "",
+CustomUrl: "",
+ConversionAmount: null,
+ConversionRef: "",
+ConversionInfo: "",
+WebsiteID: "3505589486857830916",
+ConversionCodeID: "5577567958670399672"
+}]);
+var bcLoad = function(){
+if(window.bcLoaded) return; window.bcLoaded = true;
+var vms = document.createElement("script"); vms.type = "text/javascript"; vms.async = true;
+vms.src = ('https:'==document.location.protocol?'https://':'http://') + "vmss.boldchat.com/aid/455305447569541840/bc.vms4/vms.js";
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vms, s);
+};
+if(window.pageViewer && pageViewer.load) pageViewer.load();
+else bcLoad();</script>
 <noscript>
-<div id='noscript'>
-<h3>Country Outfitter uses Javascript to provide a better shopping experience.</h3>
-<p>For best results, please set your browser to support Javascript.</p>
-</div>
+<a href="http://www.boldchat.com" title="Live Chat Software" target="_blank"><img alt="Live Chat Software" src="https://vms.boldchat.com/aid/455305447569541840/bc.vci?wdid=3505589486857830916&amp;ccid=5577567958670399672&amp;vr=&amp;vi=&amp;vn=&amp;vp=&amp;ve=&amp;ca=&amp;cr=&amp;ci=" border="0" width="1" height="1" /></a>
 </noscript>
-<script>
-  //<![CDATA[
-    !function(){var a="data-cart-item-count",b="; "+document.cookie,c=b.split("; cic="),d="0",e=document.querySelectorAll("["+a+"]");2==c.length&&(d=c.pop().split(";").shift());for(var f=0,g=e.length;g>f;f++)e[f].setAttribute(a,d)}();
-  //]]>
-</script>
-<script src="/assets/base-75e9f0d5291c72bf0da4cda69a4f4fce.js" type="text/javascript"></script><div class="modal-wrapper-outer"><div class="modal-wrapper-middle"><div class="modal-wrapper-inner"><div class="modal"><div class="modal-content clearfix"></div><a class="closebox"></a><div style="display: none;"><div class="loading" id="modal-placeholder"></div></div></div></div></div></div><div class="notifications"></div>
-<a href="#livechat" class="boldchat-chatlink chatlink-window-edge">Live Chat</a>
-<script>
-  //<![CDATA[
-    window.bt_chatAvailable = window.bt_chatAvailable || false;
-  //]]>
-</script>
+<!-- /BoldChat Conversion Tracking HTML v5.10 -->
 
-<script>
-  //<![CDATA[
-    function loadSocials(d)
-    {
-      var s = d.getElementsByTagName('script')[0];
-      HE.fbAppId = '158842137505394';
-    
-    $(function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=158842137505394";
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
-    
-    window.fbAsyncInit = function() {
-      FB.init({
-        appId  : '158842137505394',
-        channelUrl : 'http://www.countryoutfitter.com/channel.html',
-        status : true,
-        cookie : true,
-        xfbml  : true
-      });
-    
-      // Track Like button clicks and un-clicks
-      FB.Event.subscribe('edge.create', function(targetUrl) {
-        HE.Event.Publish("tracking:datalayer", ['_trackPageview', {'event':'fb-edge-create', 'targetUrl':targetUrl}]);
-      });
-      FB.Event.subscribe('edge.remove', function(targetUrl) {
-        HE.Event.Publish("tracking:datalayer", ['_trackPageview', {'event':'fb-edge-remove', 'targetUrl':targetUrl}]);
-      });
-      FB.Event.subscribe('message.send', function(targetUrl) {
-        HE.Event.Publish("tracking:datalayer", ['_trackPageview', {'event':'fb-message-send', 'targetUrl':targetUrl}]);
-      });
-    };
-    
-    
-    
-    }
-  //]]>
+<!-- Demandware Analytics code 1.0 -->
+<script type="text/javascript" src="http://demandware.edgesuite.net/aayu_prd/on/demandware.static/Sites-CO-Site/-/default/v1449222106458/internal/jscript/dwanalytics.js"></script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+try{
+  var trackingUrl = "http://www.countryoutfitter.com/on/demandware.store/Sites-CO-Site/default/__Analytics-Tracking";
+  var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
+  if (typeof dw.ac == "undefined") { 
+     dwAnalytics.trackPageView();
+  } else {        
+     dw.ac.setDWAnalytics(dwAnalytics);
+  } 
+}catch(err) {};
+/* ]]> */
+// -->
 </script>
 
-<script>
-  //<![CDATA[
-    HE.Newsletter = { message: "", code: "" };
-    HE.quicklook = true;
-    HE.swiftypePublicKey = "QaRkF98AnGuyjUjSGgzY"
-    
-    HE.productImageHost = "//images.countryoutfitter.com" || "/system";
-  //]]>
-</script>
-
-<script>
-  //<![CDATA[
-    $(document).ready(window.bootstrapSearchDropdown);
-    $(document).ready(function() {
-    
-      HE.Event.Publish('tracking:datalayer', {"event":"fireRemarketingTag","google_tag_params":{"ecomm_pagetype":"privacy-policy","ecomm_prodid":[],"ecomm_totalvalue":"0.00"}});
-    (function(){
-      var updateBoldChatLinks = function() {
-        if(window.bt_chatAvailable) {
-          $('body').removeClass('boldchat-offline').addClass('boldchat-online');
-        }
-      };
-    
-      var getBoldChatStatus = function(callback) {
-        var bcScript = document.createElement('script');
-        bcScript.async = true;
-        bcScript.src = '//cbi.boldchat.com/aid/455305447569541840/bc.cbhs?0&wdid=4516763759623574222';
-        bcScript.onload = callback;
-        document.body.appendChild(bcScript);
-      }
-    
-      $('body').on('click', '.boldchat-chatlink', function(e) {
-        e.preventDefault();
-        var boldchatHref = "https://livechat.boldchat.com/aid/455305447569541840/bc.chat?resize=true&cwdid=451081325090275181&rdid=2955293990358454969&wdid=4516763759623574222&url=" + window.location.href;
-        HE.Event.Publish('tracking:datalayer', {"event":"boldchat-chat-request"});
-        window.open((boldchatHref), 'Chat367233609785093432', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=510');
-      });
-    
-      getBoldChatStatus(updateBoldChatLinks);
-    })();
-    
-    
-    });
-    
-    $(window).load(function() {
-      loadSocials(document);
-    });
-  //]]>
-</script>
-
-
-<script>
-  //<![CDATA[
-    var loadGTM = function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-      '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    };
-    
-    if (window.parent === window) {
-      loadGTM(window,document,'script','dataLayer','GTM-ZHHW');
-    } else {
-      var dataLayer = [];
-    }
-  //]]>
-</script>
-
-
-<div id="modal_referral">
-<article class="tab" id="referral_send">
-<h1>
-Invite your friends and you’ll both get
-<mark>$20</mark>
-to spend on Country Outfitter!
-</h1>
-<p>
-Tell your friends about Country Outfitter.  You’ll get $20 for each friend
-that joins and makes a first purchase of $99 or more.
-Your friend will save $20 and we will credit your account 30 days after their order ships.
-<a href="#" class="referral_show_terms">Terms &amp; Conditions
-</a></p>
-<div class="account_login">
-<h1>Sign in to your account</h1>
-<p>If you do not have an account, one will be created for you.</p>
-<form accept-charset="UTF-8" action="/page/privacy-policy.html" class="signin sideBySide" id="referral_signin_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="iSU96qXmjjXbCA3RGb4CajHbHIq3ppifcCix2ndawFE="></div><p id="referral_errors"></p>
-<p>
-<label for="email">Email</label>
-<input class="easyinput" id="email" name="email" placeholder="EMAIL" type="email">
-</p>
-<p>
-<label for="password">Password</label>
-<input class="easyinput" id="password" name="password" placeholder="PASSWORD" type="password">
-</p>
-<p class="actions">
-<input class="mediumbutton" id="referral_login_submit" name="commit" type="submit" value="Sign in">
-</p>
-</form>
-
-</div>
-
-<div class="share_link" style="display: none">
-<p>Share, tweet, pin, post or text the link below for all of your friends or followers to see.</p>
-<dl>
-<dt>Your personal invite link:</dt>
-<dd id="personal_link"></dd>
-</dl>
-<ul id="referral_sharing">
-<li>
-<a href="" class="facebook_referral facebook" target="blank" title="SHARE"><i class="fa fa-facebook-square"></i></a>
-</li>
-<li>
-<a href="" class="twitter_referral twitter" target="blank" title="TWEET"><i class="fa fa-twitter-square"></i></a>
-</li>
-</ul>
-<p>Or, use this form to send invites via email:</p>
-<form accept-charset="UTF-8" action="/invite_links" id="referral_submission" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="iSU96qXmjjXbCA3RGb4CajHbHIq3ppifcCix2ndawFE="></div>
-<fieldset>
-<p>List your name as you would like it to appear at the bottom of the referral email.</p>
-<p>
-<label>First Name</label>
-<input id="referral_first_name" name="first_name" placeholder="FIRST NAME" type="text" value="">
-<label>Last Name</label>
-<input id="referral_last_name" name="last_name" placeholder="LAST NAME" type="text" value="">
-</p>
-<label>
-<strong>To:</strong>
-Separate email addresses with a comma, i.e. john.doe@domain.com, jessie@friend.com
-</label>
-<textarea cols="80" id="referral_emails" name="invitee_emails" placeholder="ENTER EMAILS HERE" rows="4"></textarea>
-</fieldset>
-<fieldset class="actions">
-<input name="commit" type="submit" value="Submit">
-<p>Your name will appear in the signature of this message by default.</p>
-</fieldset>
-</form>
-
-</div>
-
-</article>
-<div class="tab" id="referral_terms">
-<a href="#" class="referral_hide_terms">Back</a>
-<div id="referral_terms_content">
-<h1>ABOUT OUR REFERRAL PROGRAM:</h1>
-<p>We believe that our friends and family are the best endorsement for our quality products and excellent customer service. When you spread the word about Country Outfitter, we want to show our appreciation with something more than a simple “thank you.” The promises we make to our friends mean something and we believe that we should treat our friends even better than they treat us (which is pretty good)!</p>
-<p>When you put your word on the line for us, we take it seriously and we appreciate it greatly. So, from now on when you do that for us, we are going to give you $20 in Country Outfitter credit and we’ll give your friend $20 off their first purchase of $99 or more. This means we have to work a little harder to keep up our end of the deal, which is delivering you a carefully crafted and cared for product AND excellent service. But, it’s worth it to us and we hope you appreciate it.</p>
-<p>Not everyone can win our giveaways, but you always win when you refer friends to Country Outfitter!</p>
-<h1>EARNING REFERRAL CREDITS:</h1>
-<p>For each person that teams up with Country Outfitter by following your unique referral invitation link and makes a purchase of $99 or more, we'll credit your account with $20 in Country Outfitter credit 30 days after their first order ships (sorry about the wait, we just want to be sure they love their items as much as we do).</p>
-<p>Referral credits will only be issued to you when you invite someone to join Country Outfitter who hasn’t purchased anything from us before. So, if your friends receive our emails but haven’t purchased something, you can earn credit for referring them. If your friend has purchased in the past, they are not eligible. Your friend receives a coupon for $20 off their first purchase when you send them an invitation.</p>
-<p>Remember, each new friend you refer must make a first purchase of $99 or more in order for you to earn the $20 credit.</p>
-<p>We really love boots and sharing that love with others, so the number of referral credits you can earn is unlimited. You can track your referral credits by visiting the Invite History page in your account.</p>
-<p>However, there are a few restrictions. We will only issue one referral credit per friend. Friends who register using multiple accounts or email addresses will have any referral credit associated with fraudulent email addresses revoked. You may not spam others or send unsolicited emails to people or groups you don't personally know to get referrals. You may not solicit referrals through push ads or paid search, unsolicited texts or similar online and mobile activities.</p>
-<p>Country Outfitter has the right in its sole discretion to deny, revoke or suspend any and all referral credits from your use of any of these prohibited referral solicitation actions.</p>
-<h1>SPENDING REFERRAL CREDITS (We call this “Getting a Deal”):</h1>
-<p>Referral credits expire 6 months after they are issued. We will send you reminder emails, but we doubt you’ll need them! You may use your referral credits only on merchandise.</p>
-<p>Credits cannot be used towards any shipping, handling, or other applicable transaction costs on the site. Certain items may be excluded at our discretion.</p>
-<p>Unfortunately, you may not use referral credits to buy Country Outfitter Gift Cards.</p>
-<p>Referral credits may be used in conjunction with other credit issued to your account but may not be used with promotional codes or other offers. We will let you choose to use a coupon or referral credits, if available, at checkout.</p>
-<p>Referral credits have no stand-alone cash value; they can only be used with purchase of items from Country Outfitter.</p>
-<p>You may earn multiple referral credits and apply them all at the same time. There is not a minimum purchase required to use your referral credits. If you work hard, you get a no-strings-attached reward. This is our sincere way of thanking you for inviting others join in on all this boot love! We appreciate you.</p>
-</div>
-</div>
-
-
-</div>
-
-
-
-
-
-<script async="" src="//cbi.boldchat.com/aid/455305447569541840/bc.cbhs?0&amp;wdid=4516763759623574222"></script></body></html>
+</body></html>
