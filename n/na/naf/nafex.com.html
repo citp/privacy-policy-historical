@@ -1,331 +1,436 @@
-<!--The following is the downloaded HTML source of the nafex.com privacy policy that was archived on 2015-04-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150417011037id_/http%3A//www.nafex.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nafex.com privacy policy that was archived on 2015-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151204205113id_/http%3A//www.nafex.com/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-        <meta charset="utf-8">
-        <title>Nafex.com | Online Currency Exchange | Best Forex Rates | Dollar Exchange Dealers</title>
-        <link rel="shortcut icon" type="image/x-icon" href="http://nafex.co/assets/images/favicon.ico">
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-        <meta name="Description" content="nafex.com , Team with 14 years of experience in Foreign Exchange BEST FOREX RATES GUARANTEED">
-        <meta name="keywords" content="nafex.com, nafex, online currency exchange, best forex rates, dollar exchange, exchange rates, currency exchange, currency rates, currency services, currency traders, currency trading, currency transfers, best exchange rates, rates, convert, currencies, currency, forex, forex news, forex terms, commerce, discount, efficient, foreign exchange, foreign exchange payment, save money, save time, free, fx, guaranteed, trade currency, accurate rates, forex markets">
-        <link rel="stylesheet" media="all" href="http://www.nafex.com/assets/css/webcore.css?v=1.04">
-<script type="text/javascript" src="http://www.nafex.com/assets/js/lib/jquery1.9.1.min.js"></script>
-<link rel="stylesheet" href="http://www.nafex.com/assets/css/lib/jquery.toast.min.css?v=1.0">
-<script type="text/javascript" src="http://www.nafex.com/assets/js/nafex.js?v=1.0"></script>    </head>
-    <body>
-        <div id="mainCont" class="mainContainer transition300 abtUs">
-           <div id="header" class="header">
-    <div id="mMenuBtn" class="menuBtn fLeft mtransition cPointer" onclick="showHomeMenu()"></div>
-    <a href="http://www.nafex.com/"><div class="logoHolder fLeft"></div></a>
-    <a href="tel:+91 9111111119" class="cFF showHide"> <div class="numberHolder fRight cFF fmRoboto font16 showHide">+91 91 111 111 19</div></a>
-    <div class="headrTab fRight cFF fmRoboto font14 cPointer showHide transition100" onclick="showLoginTrack(true)">SIGN IN</div>
-    <div class="headrTab fRight cFF fmRoboto font14 cPointer transition100 showHide" onclick="showLoginTrack(false)">TRACK YOUR ORDER</div>
-</div>
-<div id="loginTrack" class="login_Track fLeft lTrackTransit transition300">
-    <div id="signInDiv" class="forSignIn fLeft transition300 fieldsopacity dn signPtop">
-        <center>
-            <div id="sign1" class="fLeft w100 transition300 fieldsopacity">  
-                <form id="loginForm" name="loginForm" method="post">
-                    <div class="enqInputs">
-                        <input type="text" id="tf_mobile" name="tf_mobile" autocomplete="off" class="txtInput  fmRoboto font14" placeholder="Email or Mobile Number">
-                    </div>
-                    <div class="enqInputs">
-                        <input type="password" id="tf_pass" name="tf_pass" autocomplete="off" class="txtInput  fmRoboto font14" placeholder="Password" onkeypress="eSubmit(event,'signInBtn')">
-                    </div>
-                    <div id="signInBtn" class="enqSubmitBtn  transition300 fmRoboto textCenter cFF cPointer font14" onclick="validateLogin()">
-                        <span>SIGN IN</span>
-                    </div>
-                    <div class="enqInputs forgotTxt txtUpper cLgray fmRoboto font14 cPointer transition300" onclick="showForgetDiv()">Forgot Password?</div>
-                </form>
-            </div>
-            <div id="sign2" class="fLeft w100 transition300 dn fieldsopacity">
-                <div class="enqInputs">
-                    <input type="text" id="tf_frgEmail" name="tf_frgEmail" autocomplete="off" class="txtInput  fmRoboto font14" placeholder="Email Address" onkeypress="eSubmit(event,'resetBtn')">
-                </div>
-                <div id="resetBtn" class="enqSubmitBtn retrieve transition300 fmRoboto textCenter cFF cPointer font14" onclick="getPass()">
-                    <span>RESET PASSWORD</span>
-                </div>
-            </div>    
-        </center>                                   
-    </div>    
-    <div id="trackDiv" class="forSignIn fLeft transition300 fieldsopacity dn">
-        <center>
-            <span class="fmRobotoL c666 font24 tStatus">Need the status of your enquiry?</span>
-            <div class="enqInputs">
-                <input type="tel" id="txt_mobNo" name="txt_mobNo" maxlength="10" autocomplete="off" class="txtInput  fmRoboto font14" placeholder="Mobile Number" onkeypress="return isNumberKey(event)">
-            </div>
-            <div class="enqInputs">
-                <input type="text" id="txt_reqNo" name="txt_reqNo" autocomplete="off" class="txtInput  fmRoboto font14" placeholder="NBC Number" onkeypress="eSubmit(event,'trackBtn')">
-            </div>
-            <div id="trackBtn" class="enqSubmitBtn  transition300 fmRoboto textCenter cFF cPointer font14" onclick="validateTrack();">
-                <span>TRACK</span>
-            </div>
-        </center>
-    </div>
-    <div id="loginCloseBtn" class="fieldsopacity loginClose fRight cPointer" onclick="closeTopPanel()"></div>
-</div>
-<div class="mSignInTab fLeft">
-    <a href="tel:+91 9111111119" class="cFF"><div class="headrTab fRight cFF fmRoboto font14 cPointer transition100">+91 91 111 111 19</div></a>
-    <div class="headrTab fRight cFF fmRoboto font14 cPointer transition100" onclick="showLoginTrack(false)">TRACK YOUR ORDER</div>
-</div>
-<script>
-    function validateTrack(){
-       var mob=$("#txt_mobNo").val();
-        var nbc=$("#txt_reqNo").val();
-        if((mob!="")&&(nbc!="")){
-            var path=global.webPath()+"enquiry/trackValidate/"+mob+"/"+nbc;
-            global.getData(path, callBackValidateTrack);
-        } 
-    }
-    
-    function callBackValidateTrack(res){
-        if(res=="success")
-        {
-            var mob=$("#txt_mobNo").val();
-            var nbc=$("#txt_reqNo").val();
-            if((mob!="")&&(nbc!="")){
-                var path=global.webPath()+"track/"+mob+"/"+nbc;
-                global.redirect(path);
-            }
-        }else{
-            global.msg("danger","Invalid mobile no and nbc");
-        }
-    }
-    
-    function getPass(){
-        var email=$("#tf_email").val();
-        if(email != ""){
-            var path=global.webPath()+"login/resetPassword/"+global.encodeMsg(email);
-            if(path!=""){
-                global.getData(path, callBackGetPass);
-            }        
-        }else{
-            alert("invalid email id");
-        }
-    }
-
-    function callBackGetPass(res){
-        alert(res);
-    }
-</script>            <div class="innerContainer fLeft">
-                <div class="font50 fmRobotoL cFF innerTitle">PRIVACY POLICY</div>
-                <div class="privacyContent fLeft cFF fmRoboto ">
-                    <div class="font16 prcTExt">We at NAFEX.com understand the importance of your privacy. We will never willfully disclose individually identifiable information about our customers to any third party without first receiving your permission. You can be rest-assured that your information is safe with us. Your visit to this Site is subject to this "Privacy Policy" and our Terms of Use, as may be amended from time to time.</div>
-                    <div class="font20 fmRobotoL cFF questions fLeft">WE WILL BE COLLECTING YOUR PERSONAL DETAILS WHEN:</div>
-                    <ul class="p03 fLeft cFF fmRoboto font15">
-                        <li>You post a lead or respond to a lead on our website or through our customer service team - by email/ phone/ mobile application. The personal information collected is primarily used where it is necessary to process your lead posted on portal, enquiry for any reasons.</li>
-                        <li>You take part in surveys or provide us with your feedback.</li>
-                        <li>Personal information may be used internally for research, analysis and auditing.</li>
-                    </ul>
-                </div> 
-            </div>
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.nafex.com/tools/img/common/favicon.ico">
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="http://www.nafex.com/tools/css/jquery.toast.min.css?v=3.26">
+            <link rel="stylesheet" href="http://www.nafex.com/tools/css/home.css?v=3.26">
+        <link rel="stylesheet" href="http://www.nafex.com/tools/css/footer.css?v=3.26">
+        <link rel="stylesheet" href="http://www.nafex.com/tools/css/currencyFlags.css?v=3.26">
+					<title>Privacy Policy | Nafex.com</title>
+				<meta name="title" content="Privacy Policy | Nafex.com">
+				<meta name="description" content="Nafex will never will fully disclose individually identifiable information about our customers to any third party without first receiving your permission.">
+				<meta name="keywords" content="Nafex Privacy Policy, Foreign Exchange Policy, Foreign Exchange Policy in India, Forex Privacy Policy, Online Foreign Exchange Privacy Policy, Foreign Money Exchange Policy, Currency Exchange, Dollar Exchange Privacy Policy">
+				<link rel="stylesheet" href="http://www.nafex.com/tools/css/currency.css?v=3.26">
+				<link rel="stylesheet" href="http://www.nafex.com/tools/css/headInner.css?v=3.26">
+			    <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+        var WEBROOT = 'http://www.nafex.com/';
+		var a = '';
+		var onloadPG = 'utils';
+		var nbc = '';
+		var mob = '';
+		var tmp_mob = '';
+		var track_page = '';
+		var city = '';
+		var DEFAULT_CITY = 'Bangalore';
+		var DEFAULT_STAX = '100000';
+		var mmtVal = '0';
+    </script>
+</head>
+    <body id="body" class="transition100">   
+        <div class="innerHead">
+    <div id="headerCont" class="innerHeaderNafex fmUbuntuR transition300">
+        <a href="http://www.nafex.com/" alt="Nafex.com" title="Nafex.com" class="fLeft"><div class="innerLogo fLeft"></div></a>
+        <div class="showHide">
+            <div class="innerHText fRight  fmUbuntuL"><span class="font14">Foreign Exchange</span><span class="font30">Simplified!</span></div>
+            <div class="innerhMobile fmUbuntuR fRight">+91 91 111 111 19</div>
         </div>
-        <div id="mOverlay" class="mOverlay transition300 dn mHeaderTransit"></div>
-<div id="mMenu" class="mobileMenuDiv fmRoboto fLeft transition300 c666 font14 dn mHeaderTransit">
-    <div class="mbHeader fLeft"><div class="menuClose fRight cPointer" onclick="closeHomeMenu()"></div></div>
-    <div class="mbMenuTab fLeft transition100 hideShow" onclick="showLoginTrack(true)">SIGN IN</div>
-    <a href="about_us"><div class="mbMenuTab fLeft transition100">ABOUT US</div></a>
-    <a href="faqs"><div class="mbMenuTab fLeft transition100">FAQs</div></a>
-    <a href="privacy_policy"><div class="mbMenuTab fLeft transition100">PRIVACY POLICY</div></a>
-    <a href="disclaimer"><div class="mbMenuTab fLeft transition100">DISCLAIMER</div></a>
-    <a href="terms_and_conditions"><div class="mbMenuTab fLeft transition100">TERMS &amp; CONDITIONS</div></a>
-    <a href="contact_us"><div class="mbMenuTab fLeft transition100">CONTACT US</div></a>
-    
-    
-    <a href="mailto:info@nafex.com" target="_blank" class="social fLeft transition300"><figure class="figureImg"><img src="assets/images/icons/socialMail.svg" width="35" height="35" alt=""></figure></a>
-    <a href="http://www.linkedin.com/company/nafex-com" target="_blank" class="social fLeft transition300"><figure class="figureImg"><img src="assets/images/icons/socialLinkedin.svg" width="35" height="35" alt=""></figure></a>
-    <a href="https://www.facebook.com/nafexbureau" target="_blank" class="social fLeft transition300"><figure class="figureImg"><img src="assets/images/icons/socialFacebook.svg" width="35" height="35" alt=""></figure></a>
-    <a href="https://twitter.com/nafexbureau" target="_blank" class="social fLeft transition300"><figure class="figureImg"><img src="assets/images/icons/socialTwitter.svg" width="35" height="35" alt=""></figure></a>
-    
-    <div class="fLeft footerDiv">
-        <div class="fmRoboto transition100 font12 cLgray  w100 txtCenter">© 2015 All Rights Reserved. </div>
-        <a href="http://xelpmoc.co/" target="_blank" class="allRights"><div class="fmRoboto transition100 font12 cLgray  w100 txtCenter">Designed by XELPMOC DESIGN &amp; TECH</div></a>
     </div>
-</div>
-
-<script>
-    function showHomeMenu() {
-        var pw=$(window).width();
-        if (pw < 960) {
-            $('.msunRisers,.whyNfx').addClass('dn');
-        }
-        $('#mOverlay').removeClass('dn');
-        $('#mMenu').removeClass('dn');
-        $('#mMenuBtn').addClass('menuBtnTransit');
-        setTimeout(function () {
-            $('#mOverlay').removeClass('mHeaderTransit');
-            $('#mMenu').removeClass('mHeaderTransit');
-            $('body').animate({scrollTop: 0}, 300);
-        }, 100);
-        setTimeout(function () {
-            $('.mainContainer').addClass('pFixed mainContTransit');
-        }, 300);
-    }
-
-    function closeHomeMenu() {
-        $('.mainContainer').removeClass('mainContTransit');
-        setTimeout(function () {
-            $('#mMenu').addClass('mHeaderTransit');
-            $('#mOverlay').addClass('mHeaderTransit');
-            setTimeout(function () {
-                $('.mainContainer').removeClass('pFixed');
-                $('#mMenu').addClass('dn');
-                $('#mOverlay').addClass('dn');
-            }, 300);
-            setTimeout(function () {
-                if (pw < 960) {
-                    $('.msunRisers,.whyNfx').removeClass('dn');
-                }
-                $('body').animate({scrollTop: 0}, 100);
-            }, 350);
-            $('#mMenuBtn').removeClass('menuBtnTransit');
-        }, 200);
+</div>        <div class="currencyHeader mTop0">
+            <div class="currencyHeaderCont">
+                <h2 class="fmUbuntuL m0 cFF">PRIVACY POLICY</h2>
+            </div>
+        </div> 
+        <div class="wrapper fLeft">
+            <div class=" currency_maindiv transition300">
+                <div class="currency_details_div">
+                    <div class="currency_details_left">
+                        <h2 class="currency_title fmUbuntuL">PRIVACY POLICY</h2>
+                        <div class="currency_history fmUbuntuR">
+                            <div class="fmUbuntuR">We at NAFEX.com understand the importance of your privacy. 
+                                We will never willfully disclose individually identifiable information about our customers to 
+                                any third party without first receiving your permission. You can be rest-assured that your information is safe with us. 
+                                Your visit to this Site is subject to this "Privacy Policy" and our Terms of Use, as may be amended from time to time.
+                            </div>
+                            <h2 class="currency_title fmUbuntuL">WE WILL BE COLLECTING YOUR PERSONAL DETAILS WHEN:</h2>
+                            <ul class="ppList fmUbuntuR fLeft">
+                                <li>You post a lead or respond to a lead on our website or through our customer service team - by email/ phone/ 
+                                    mobile application. The personal information collected is primarily used where it is necessary to process your
+                                    lead posted on portal, enquiry for any reasons.
+                                </li>
+                                <li>You take part in surveys or provide us with your feedback.</li>
+                                <li>Personal information may be used internally for research, analysis and auditing.</li>
+                            </ul>
+                        </div> 
+                    </div>
+                </div>
+                <div class="currency_widget">                   
+	<h2 class="currency_title fmUbuntuL">Top Currencies</h2>
+					<a href="http://www.nafex.com/KRW-Korean-Won" alt="KRW - Korean Won" title="KRW - Korean Won">
+				<div class="curNameCont">
+					<div class="flag krwS"></div>
+					<h2 class="curName transition300">KRW - Korean Won</h2>
+				</div>
+			</a>
+					<a href="http://www.nafex.com/CNY-Chinese-Yuan" alt="CNY - Chinese Yuan" title="CNY - Chinese Yuan">
+				<div class="curNameCont">
+					<div class="flag cnyS"></div>
+					<h2 class="curName transition300">CNY - Chinese Yuan</h2>
+				</div>
+			</a>
+					<a href="http://www.nafex.com/NZD-New-Zealand-Dollar" alt="NZD - New Zealand Dollar" title="NZD - New Zealand Dollar">
+				<div class="curNameCont">
+					<div class="flag nzdS"></div>
+					<h2 class="curName transition300">NZD - New Zealand Dollar</h2>
+				</div>
+			</a>
+					<a href="http://www.nafex.com/PKR-Pakistani-Rupee" alt="PKR - Pakistani Rupee" title="PKR - Pakistani Rupee">
+				<div class="curNameCont">
+					<div class="flag pkrS"></div>
+					<h2 class="curName transition300">PKR - Pakistani Rupee</h2>
+				</div>
+			</a>
+					<a href="http://www.nafex.com/AUD-Australian-Dollar" alt="AUD - Australian Dollar" title="AUD - Australian Dollar">
+				<div class="curNameCont">
+					<div class="flag audS"></div>
+					<h2 class="curName transition300">AUD - Australian Dollar</h2>
+				</div>
+			</a>
+					<a href="http://www.nafex.com/SEK-Swedish-Kroner" alt="SEK - Swedish Kroner" title="SEK - Swedish Kroner">
+				<div class="curNameCont">
+					<div class="flag sekS"></div>
+					<h2 class="curName transition300">SEK - Swedish Kroner</h2>
+				</div>
+			</a>
+					<a href="http://www.nafex.com/BDT-Bangladeshi-Taka" alt="BDT - Bangladeshi Taka" title="BDT - Bangladeshi Taka">
+				<div class="curNameCont">
+					<div class="flag bdtS"></div>
+					<h2 class="curName transition300">BDT - Bangladeshi Taka</h2>
+				</div>
+			</a>
+					<a href="http://www.nafex.com/BRL-Brazilian-Real" alt="BRL - Brazilian Real" title="BRL - Brazilian Real">
+				<div class="curNameCont">
+					<div class="flag brlS"></div>
+					<h2 class="curName transition300">BRL - Brazilian Real</h2>
+				</div>
+			</a>
+					<a href="http://www.nafex.com/TWD-Taiwan-Dollar" alt="TWD - Taiwan Dollar" title="TWD - Taiwan Dollar">
+				<div class="curNameCont">
+					<div class="flag twdS"></div>
+					<h2 class="curName transition300">TWD - Taiwan Dollar</h2>
+				</div>
+			</a>
+					<a href="http://www.nafex.com/KWD-Kuwaiti-Dinar" alt="KWD - Kuwaiti Dinar" title="KWD - Kuwaiti Dinar">
+				<div class="curNameCont">
+					<div class="flag kwdS"></div>
+					<h2 class="curName transition300">KWD - Kuwaiti Dinar</h2>
+				</div>
+			</a>
+					<a href="http://www.nafex.com/ARS-Argentine-Peso" alt="ARS - Argentine Peso" title="ARS - Argentine Peso">
+				<div class="curNameCont">
+					<div class="flag arsS"></div>
+					<h2 class="curName transition300">ARS - Argentine Peso</h2>
+				</div>
+			</a>
+					<a href="http://www.nafex.com/BND-Brunei-Dollar" alt="BND - Brunei Dollar" title="BND - Brunei Dollar">
+				<div class="curNameCont">
+					<div class="flag bndS"></div>
+					<h2 class="curName transition300">BND - Brunei Dollar</h2>
+				</div>
+			</a>
+					<a href="http://www.nafex.com/CAD-Canadian-Dollar" alt="CAD - Canadian Dollar" title="CAD - Canadian Dollar">
+				<div class="curNameCont">
+					<div class="flag cadS"></div>
+					<h2 class="curName transition300">CAD - Canadian Dollar</h2>
+				</div>
+			</a>
+					<a href="http://www.nafex.com/QAR-Qatari-Riyal" alt="QAR - Qatari Riyal" title="QAR - Qatari Riyal">
+				<div class="curNameCont">
+					<div class="flag qarS"></div>
+					<h2 class="curName transition300">QAR - Qatari Riyal</h2>
+				</div>
+			</a>
+					<a href="http://www.nafex.com/MYR-Malaysian-Ringgit" alt="MYR - Malaysian Ringgit" title="MYR - Malaysian Ringgit">
+				<div class="curNameCont">
+					<div class="flag myrS"></div>
+					<h2 class="curName transition300">MYR - Malaysian Ringgit</h2>
+				</div>
+			</a>
+					<a href="http://www.nafex.com/MUR-Mauritian-Rupee" alt="MUR - Mauritian Rupee" title="MUR - Mauritian Rupee">
+				<div class="curNameCont">
+					<div class="flag murS"></div>
+					<h2 class="curName transition300">MUR - Mauritian Rupee</h2>
+				</div>
+			</a>
+					<a href="http://www.nafex.com/CHF-Swiss-Franc" alt="CHF - Swiss Franc" title="CHF - Swiss Franc">
+				<div class="curNameCont">
+					<div class="flag chfS"></div>
+					<h2 class="curName transition300">CHF - Swiss Franc</h2>
+				</div>
+			</a>
+					<a href="http://www.nafex.com/SAR-Saudi-Arabian-Riyal" alt="SAR - Saudi Arabian Riyal" title="SAR - Saudi Arabian Riyal">
+				<div class="curNameCont">
+					<div class="flag sarS"></div>
+					<h2 class="curName transition300">SAR - Saudi Arabian Riyal</h2>
+				</div>
+			</a>
+					<a href="http://www.nafex.com/HKD-Hong-Kong-Dollar" alt="HKD - Hong Kong Dollar" title="HKD - Hong Kong Dollar">
+				<div class="curNameCont">
+					<div class="flag hkdS"></div>
+					<h2 class="curName transition300">HKD - Hong Kong Dollar</h2>
+				</div>
+			</a>
+					<a href="http://www.nafex.com/DKK-Danish-Kroner" alt="DKK - Danish Kroner" title="DKK - Danish Kroner">
+				<div class="curNameCont">
+					<div class="flag dkkS"></div>
+					<h2 class="curName transition300">DKK - Danish Kroner</h2>
+				</div>
+			</a>
+		</div>            </div>
+        </div>    
         
-    }
-
-    var signFlag = true;
-    var trackFlag = true;
-    function showLoginTrack(flag) {
-        $('#loginTrack').removeClass('lTrackTransit');
-        $('#sign1').removeClass('dn fieldsopacity');
-        $('#sign2').addClass('dn fieldsopacity');
-        if (flag) {
-            if (!trackFlag) {
-                trackFlag = true;
-                $('#trackDiv').addClass('fieldsopacity');
-                setTimeout(function () {
-                    $('#trackDiv').addClass('dn');
-                    $('#signInDiv').removeClass('dn');
-                    setTimeout(function () {
-                        
-                        $('#signInDiv').removeClass('fieldsopacity');
-                    }, 100);
-                }, 300);
-            } else {
-                $('#signInDiv').removeClass('dn');
-                setTimeout(function () {
-                    $('#signInDiv').removeClass('fieldsopacity');
-                }, 250);
-            }
-            signFlag = false;
-        } else {
-            trackFlag = false;
-            if (!signFlag) {
-                signFlag = true;
-                $('#signInDiv').addClass('fieldsopacity');
-                setTimeout(function () {
-                    $('#signInDiv').addClass('dn');
-                    $('#trackDiv').removeClass('dn');
-                    setTimeout(function () {
-                        $('#trackDiv').removeClass('fieldsopacity');
-                    }, 100);
-                }, 300);
-
-            } else {
-                $('#trackDiv').removeClass('dn');
-                setTimeout(function () {
-                    $('#trackDiv').removeClass('fieldsopacity');
-                }, 250);
-            }
-        }
-        if (pw < 960) {
-            closeHomeMenu();
-            $('.mainContainer').addClass('pFixed');
-        }
-
-        setTimeout(function () {
-            $('#loginCloseBtn').removeClass('fieldsopacity');
-        }, 150);
-    }
-    function closeTopPanel() {
-        if (!signFlag) {
-            signFlag = true;
-            $('#signInDiv').addClass('fieldsopacity');
-            setTimeout(function () {
-                $('#signInDiv').addClass('dn');
-                $('#loginCloseBtn').addClass('fieldsopacity');
-                $('#loginTrack').addClass('lTrackTransit');
-            }, 350);
-        } else {
-            trackFlag = true;
-            $('#trackDiv').addClass('fieldsopacity');
-            setTimeout(function () {
-                $('#trackDiv').addClass('dn');
-                $('#loginCloseBtn').addClass('fieldsopacity');
-                $('#loginTrack').addClass('lTrackTransit');
-            }, 350);
-        }
-
-        if (pw < 960) {
-            $('.mainContainer').removeClass('pFixed');
-        }
-    }
-
-    function showForgetDiv() {
-        $('#sign1').addClass('fieldsopacity');
-        $('#sign2').removeClass('dn');
-        setTimeout(function () {
-            $('#sign1').addClass('dn');
-            $('#sign2').removeClass('fieldsopacity');
-
-        }, 350);
-    }
+<div class="partnerFooter">
+	<center>
+		<div class="pLogoHolder"><img src="http://www.nafex.com/tools/img/common/sunrisers_logo.png" alt="Sunrisers"></div>
+		<div class="pLogoHolder"><img src="http://www.nafex.com/tools/img/common/kxi.png" alt="Kings XI Punjab"></div>
+	</center>
+</div>
+<div class="pageLinks">
+	<center>
+	   <a href="http://www.nafex.com/About-Us" alt="About Us" title="About Us"><div class="lowerFooterTab transition100">ABOUT US</div></a>
+	   <a href="http://www.nafex.com/Testimonials" alt="Testimonials" title="Testimonials"><div class="lowerFooterTab transition100">TESTIMONIALS</div></a>
+	   <a href="http://www.nafex.com/Careers" alt="Careers" title="Careers"><div class="lowerFooterTab transition100">CAREERS</div></a>
+	   <a href="http://www.nafex.com/FAQs" alt="FAQs" title="FAQs"><div class="lowerFooterTab transition100">FAQs</div></a>
+	   <a href="http://www.nafex.com/Privacy-Policy" alt="Privacy Policy" title="Privacy Policy"><div class="lowerFooterTab transition100">PRIVACY POLICY</div></a>
+	   <a href="http://www.nafex.com/Disclaimer" alt="Disclaimer" title="Disclaimer"><div class="lowerFooterTab transition100">DISCLAIMER</div></a>
+	   <a href="http://www.nafex.com/Terms-And-Conditions" alt="Terms And Conditions" title="Terms And Conditions"><div class="lowerFooterTab transition100">TERMS &amp; CONDITIONS</div></a>
+	   <a href="http://www.nafex.com/Contact-Us" alt="Contact Us" title="Contact Us"><div class="lowerFooterTab transition100">CONTACT US</div></a>
+	</center>
+</div>
+<div class="commfooterDiv fLeft">
+	<div class="footerContainer">
+		<div class="footer-apps fLeft">
+			<div class="footer-heading fmUbuntuL cGreen">Download App</div>
+			<a href="https://play.google.com/store/apps/details?id=com.nafex" alt="Download Nafex APP at Play Store" title="Download Nafex APP at Play Store"><div class="appLinkDiv"></div></a>
+			<div class="videoCont fLeft">
+                            <div class="player-heading fmUbuntuL">Watch leading cricketer's tell us why they use Nafex</div>
+                            <div id="fplCont" class="footplayerCont op02">
+                                    <div class="playerCont ">
+                                            <div id="ftplayer" class="playerDiv"></div>
+                                    </div>
+                            </div>
+			</div>
+		</div>
+		<div class="currency-links fLeft">
+			<div class="footer-heading fmUbuntuL cGreen">Top  Currencies</div>
+								<a href="http://www.nafex.com/AUD-Australian-Dollar" alt="AUD - Australian Dollar" title="AUD - Australian Dollar">
+						<div class="curNameCont">
+							<div class="flag audS"></div>
+							<h2 class="curName transition300">AUD - Australian Dollar</h2>
+						</div>
+					</a>
+										<a href="http://www.nafex.com/GBP-British-Pound-Sterling" alt="GBP - British Pound Sterling" title="GBP - British Pound Sterling">
+						<div class="curNameCont">
+							<div class="flag gbpS"></div>
+							<h2 class="curName transition300">GBP - British Pound Sterling</h2>
+						</div>
+					</a>
+										<a href="http://www.nafex.com/EUR-European-Euro" alt="EUR - European Euro" title="EUR - European Euro">
+						<div class="curNameCont">
+							<div class="flag eurS"></div>
+							<h2 class="curName transition300">EUR - European Euro</h2>
+						</div>
+					</a>
+										<a href="http://www.nafex.com/MYR-Malaysian-Ringgit" alt="MYR - Malaysian Ringgit" title="MYR - Malaysian Ringgit">
+						<div class="curNameCont">
+							<div class="flag myrS"></div>
+							<h2 class="curName transition300">MYR - Malaysian Ringgit</h2>
+						</div>
+					</a>
+										<a href="http://www.nafex.com/SGD-Singapore-Dollar" alt="SGD - Singapore Dollar" title="SGD - Singapore Dollar">
+						<div class="curNameCont">
+							<div class="flag sgdS"></div>
+							<h2 class="curName transition300">SGD - Singapore Dollar</h2>
+						</div>
+					</a>
+										<a href="http://www.nafex.com/THB-Thai-Baht" alt="THB - Thai Baht" title="THB - Thai Baht">
+						<div class="curNameCont">
+							<div class="flag thbS"></div>
+							<h2 class="curName transition300">THB - Thai Baht</h2>
+						</div>
+					</a>
+										<a href="http://www.nafex.com/AED-UAE-Dirham" alt="AED - UAE Dirham" title="AED - UAE Dirham">
+						<div class="curNameCont">
+							<div class="flag aedS"></div>
+							<h2 class="curName transition300">AED - UAE Dirham</h2>
+						</div>
+					</a>
+										<a href="http://www.nafex.com/USD-US-Dollar" alt="USD - US Dollar" title="USD - US Dollar">
+						<div class="curNameCont">
+							<div class="flag usdS"></div>
+							<h2 class="curName transition300">USD - US Dollar</h2>
+						</div>
+					</a>
+								<div class="viewAllBtn fmUbuntuR font12 transition100"><a href="http://www.nafex.com/List-of-Currencies" alt="View List of Currencies" title="View List of Currencies">LIST ALL CURRENCIES</a></div>
+		</div>
 
 
-    function validateLogin() {
-        var email = $('#tf_mobile').val();
-        var pass = $('#tf_pass').val();
-        if (email == "") {
-            global.msg("danger", "Please enter valid email or mobile number.");
-            return false;
-        }
-        if (pass == "") {
-            global.msg("danger", "Please enter your password.");
-            return false;
-        }
+		<div class="city-links fLeft">
+			<div class="footer-heading fmUbuntuL cGreen">Top Cities</div>
+			<a href="http://www.nafex.com/Bangalore" alt="Bangalore" title="Bangalore">
+				<div class="curNameCont">
+					<h2 class="curName transition300">Bangalore</h2>
+				</div>
+			</a>
+			
+			<a href="http://www.nafex.com/Delhi" alt="Delhi" title="Delhi">
+				<div class="curNameCont">
+					<h2 class="curName transition300">Delhi</h2>
+				</div>
+			</a>
 
-        if ((email != "") && (pass !== "")) {
-            if (isNaN($("#tf_mobile").val())) {
-                flag = common.validateEmail("tf_mobile");
-            } else {
-                flag = common.validateMobileNo("tf_mobile");
-            }
-            if (flag) {
-                var actionPath = global.webPath() + "login/verify";
-                global.postDataLoader("#loginForm", actionPath, loading, loginCallBack);
-            }
-            return false;
-        }
-    }
+			<a href="http://www.nafex.com/Mumbai" alt="Mumbai" title="Mumbai">
+				<div class="curNameCont">
+					<h2 class="curName transition300">Mumbai</h2>
+				</div>
+			</a>
 
-    function loginCallBack(res) {
-        if (res == "success") {
-            global.redirect(global.webPath() + "signup2");
-        } else {
-            global.msg("danger", "The password you entered is incorrect.");
-        }
-    }
+			<a href="http://www.nafex.com/Chennai" alt="Chennai" title="Chennai">
+				<div class="curNameCont">
+					<h2 class="curName transition300">Chennai</h2>
+				</div>
+			</a>
 
-    function getPass() {
-        var email = $("#tf_frgEmail").val();
-        if (email !== "") {
-            var flag = common.validateEmail("tf_frgEmail");
-            if (flag) {
-                var path = global.webPath() + "login/resetPassword/" + global.encodeMsg(email);
-                if (path != "") {
-                    global.getData(path, callBackGetPass);
-                }
-            }
-        } else {
-            global.msg("danger", "Please enter  email id");
-            return false;
-        }
-    }
+			<a href="http://www.nafex.com/Hyderabad" alt="Hyderabad" title="Hyderabad">
+				<div class="curNameCont">
+					<h2 class="curName transition300">Hyderabad</h2>
+				</div>
+			</a>
 
-    function callBackGetPass(res) {
-        console.log(res);
-    }
+			<a href="http://www.nafex.com/Ahmedabad" alt="Ahmedabad" title="Ahmedabad">
+				<div class="curNameCont">
+					<h2 class="curName transition300">Ahmedabad</h2>
+				</div>
+			</a>
+			<a href="http://www.nafex.com/Kolkata" alt="Kolkata" title="Kolkata">
+				<div class="curNameCont">
+					<h2 class="curName transition300">Kolkata</h2>
+				</div>
+			</a>
 
-</script>    
+                        <a href="http://www.nafex.com/Pune" alt="Pune" title="Pune">
+				<div class="curNameCont">
+					<h2 class="curName transition300">Pune</h2>
+				</div>
+			</a>
+			<a href="http://www.nafex.com/Chandigarh" alt="Chandigarh" title="Chandigarh">
+				<div class="curNameCont">
+					<h2 class="curName transition300">Chandigarh</h2>
+				</div>
+			</a>
+			<a href="http://www.nafex.com/List-of-Cities" alt="List of Cities" title="List of Cities">
+				<div class="curNameCont">
+					<h2 class="curName transition300">Others</h2>
+				</div>
+			</a>
+<!--                    <div class="viewAllBtn fmUbuntuR font12 cFF">VIEW ALL CITIES</div>-->
+
+			<div class="footer-heading fmUbuntuL cGreen mTop15 fLeft w100">Countries</div>
+			<a href="http://www.nafex.com/UAE" alt="UAE" title="UAE">
+				<div class="curNameCont">
+					<h2 class="curName transition300">UAE</h2>
+				</div>
+			</a>
+			<a href="http://www.nafex.com/Thailand" alt="Thailand" title="Thailand">
+				<div class="curNameCont">
+					<h2 class="curName transition300">Thailand</h2>
+				</div>
+			</a>
+			<a href="http://www.nafex.com/Hong-Kong" alt="Hong Kong" title="Hong Kong">
+				<div class="curNameCont">
+					<h2 class="curName transition300">Hong Kong</h2>
+				</div>
+			</a>
+			<a href="http://www.nafex.com/Phillipines" alt="Phillipines" title="Phillipines">
+				<div class="curNameCont">
+					<h2 class="curName transition300">Phillipines</h2>
+				</div>
+			</a>
+			<a href="http://www.nafex.com/Malaysia" alt="Malaysia" title="Malaysia">
+				<div class="curNameCont">
+                    <h2 class="curName transition300">Malaysia</h2>
+				</div>
+			</a>
+
+			<a href="http://www.nafex.com/Australia" alt="Australia" title="Australia">
+				<div class="curNameCont">
+					<h2 class="curName transition300">Australia</h2>
+				</div>
+			</a>
+
+			<a href="http://www.nafex.com/New-Zealand" alt="New Zealand" title="New Zealand">
+				<div class="curNameCont">
+					<h2 class="curName transition300">New Zealand</h2>
+				</div>
+			</a>
+
+			<a href="http://www.nafex.com/Singapore" alt="Singapore" title="Singapore">
+				<div class="curNameCont">
+					<h2 class="curName transition300">Singapore</h2>
+				</div>
+			</a>
+
+			<a href="http://www.nafex.com/Indonesia" alt="Indonesia" title="Indonesia">
+				<div class="curNameCont">
+					<h2 class="curName transition300">Indonesia</h2>
+				</div>
+			</a>
+
+			<a href="http://www.nafex.com/South-Africa" alt="South Africa" title="South Africa">
+				<div class="curNameCont">
+					<h2 class="curName transition300">South Africa</h2>
+				</div>
+			</a>
+
+			<a href="http://www.nafex.com/Sri-Lanka" alt="Sri Lanka" title="Sri Lanka">
+				<div class="curNameCont">
+					<h2 class="curName transition300">Sri Lanka</h2>
+				</div>
+			</a>
+		</div>
+		<div class="footer-links fLeft cFF fmUbuntuR font14">
+			<div class="footer-heading fmUbuntuL cGreen">Contact Us</div>
+			<a href="tel:+919111111119" class="cFF" alt="Call us at +919111111119" title="Call us at +919111111119"><div class="fmUbuntuR font18">+91 91 111 111 19</div></a>
+			<a href="mailto:info@nafex.com" class="cFF" target="_blank" alt="Email us at info@nafex.com" title="Email us at info@nafex.com"><div class="fmUbuntuR font18 mTop15">info@nafex.com</div></a>
+			
+			<div class="footer-heading fmUbuntuL cGreen mTop25">Find us on</div>
+			<a href="https://twitter.com/nafexbureau" rel="nofollow" target="_blank" class="cFF " alt="Follow us @nafexbureau" title="Follow us @nafexbureau"><div class="socialCommon iconTwitter transition300 ripplelink poR">Follow@nafexbureau</div></a>
+			<a href="https://www.facebook.com/nafexbureau" rel="nofollow" target="_blank" class="cFF" alt="Like us on facebook.com" title="Like us on facebook.com"><div class="socialCommon iconFacebook transition300 ripplelink poR">Like us on facebook.com</div></a>
+			<a href="http://www.linkedin.com/company/nafex-com" rel="nofollow" target="_blank" class="cFF" alt="Follow us on Linkedin" title="Follow us on Linkedin"><div class="socialCommon iconLinkedin transition300 ripplelink poR">Follow us on Linkedin</div></a>
+		</div>
+	</div>
+</div>
+<div class="crLinks fmUbuntuR">Copyrights 2014-15. <strong>Nafex.com</strong> All Rights Reserved. <a href="http://www.nafex.com/Privacy-Policy" alt="Privacy Policy" title="Privacy Policy">Privacy</a> | <a href="http://www.nafex.com/Terms-And-Conditions" alt="Terms And Conditions" title="Terms And Conditions">Terms</a></div>
+<input type="hidden" id="areaid" value="">
+<input type="hidden" id="cur1id" value="">
+<input type="hidden" id="cur2id" value="38">
+<input type="hidden" id="mul_nbc" value="">		<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-54431976-1', 'auto');
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
+		<script src="http://www.nafex.com/tools/js/lib/jquery.js"></script>
+		<script src="http://www.nafex.com/tools/js/yout.js?v=3.26"></script>
+    
 </body></html>
