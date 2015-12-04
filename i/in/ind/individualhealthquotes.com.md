@@ -1,49 +1,39 @@
-> *The following text is extracted and transformed from the individualhealthquotes.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614072841id_/http%3A//www.individualhealthquotes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the individualhealthquotes.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204193636id_/http%3A//www.individualhealthquotes.com/privacy.html) for the most accurate reproduction.*
 
 # Individual Health Quotes Privacy Policy - Any Quote. Anytime.
 
-This website is owned and operated by the IndividualHealthQuotes network. IndividualHealthQuotes is a leading online source of information for people seeking to learn more about their insurance options. IndividualHealthQuotes also matches people in need of insurance services with insurance professionals who can provide those services. The use of our matching service (hereinafter "Service" or "Services") is free for consumers.
+**Effective Date: 07/09/2015**
 
-IndividualHealthQuotes believes it is important for you to know and understand how websites collect and use your information, and the steps we take we to protect your privacy. Please read this privacy policy carefully.
+IndividualHealthQuotes.com, collectively, "IndividualHealthQuotes," "We," "Us," or "Our," believes it is important for you to know and understand how our website collects and uses your information, and the steps we take to protect your privacy. Please read this privacy policy carefully. 
 
-Please note that this privacy policy only applies to this website. Other websites in the IndividualHealthQuotes network may have different privacy policies.
+Please note that this privacy policy only applies to this website, http://www.IndividualHealthQuotes.com. By accessing this website and/or using our service, you agree to abide by this Privacy Policy and our Terms and Conditions. 
 
-By accessing this website and/or using our Service, you agree to abide by this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20150614072841id_/http%3A//www.individualhealthquotes.com/terms.html).
+### Information You Provide and How We Use It
 
-### Services Offered By IndividualHealthQuotes
+IndividualHealthQuotes.com uses this website to collect two (2) kinds of information: personally-identifiable information and non-personally-identifiable information. 
 
-IndividualHealthQuotes works with a nationwide network of insurance professionals. When you use our Service, we will attempt to match you with professionals who are qualified to provide you with the insurance information you have expressed interest in. The professionals you are matched with may contact you with information and offers for the services you have expressed interest in. Please note that you have no obligation to accept any offer.
+### Personally-identifiable information:
 
-IndividualHealthQuotes is not an insurance agency. We are solely a referral service for connecting consumers with qualified professionals.
-
-### Information Collected By IndividualHealthQuotes
-
-IndividualHealthQuotes uses this website to collect two (2) kinds of information: **personally-identifiable information** and **non-personally-identifiable information**.
-
-**Personally-identifiable information:**
-
-When you use our Service you are authorizing the sharing of your inquiry and your personal information with other businesses who provide services that match your inquiry. The personal information we collect may include, but is not limited to:
+When you use our Service, you are authorizing the sharing of your inquiry and your personally-identifiable information with other businesses that provide services that match your inquiry or may provide other valuable services to you. The personally-identifiable information we collect may include, but is not limited to: 
 
   * Name
   * Address
   * Email address
   * Phone number
   * Demographic information
-  * Credit information 
+  * Credit information
   * Health information
   * Other financial information
 
 
 
-Please note that insurance institutions and other services who subscribe to our system compete for the opportunity to provide insurance products and services that match your inquiry. By submitting your information to us, you are also authorizing these businesses to contact you directly by e-mail and telephone with information about insurance products or services they offer that match your inquiry. You expressly consent to receive phone calls and email regardless of whether you are on any Federal or state DNC (“Do Not Call”) and/or DNE (“Do Not Email”) list or registry.
+### Non-personally-identifiable information:
 
-**Non-personally-identifiable information:**
-
-While you are visiting this website, our hosting service will automatically track information that may include:
+While you are visiting this website, our hosting service will automatically track information that may include but is not limited to: 
 
   * IP addresses
-  * Referral information 
-  * Browser details 
+  * Referral information
+  * Browser details
   * Number of page views
   * Number of repeat visits
   * Internet Service Provider
@@ -51,106 +41,76 @@ While you are visiting this website, our hosting service will automatically trac
 
 
 
-### How Information Is Collected
+When you provide your information, you consent to be contacted via automatic telephone dialing system, by artificial/pre-recorded message, by text message at the telephone number you provide, and/or by receiving mail and email at the mailing and email addresses you provide from or on behalf of IndividualHealthQuotes, insurance carriers or their agents, and partner companies. Your cellular carrier's message and data rates may apply. IndividualHealthQuotes does not charge you for sending or receiving text messages. 
 
-**Personally-identifiable information:**  
-We only collect your personally-identifiable information when you choose to share it with us. We will not collect any personally-identifiable information without your consent. 
+Please note that insurance institutions and other services who subscribe to our system may provide insurance products and other services. By submitting your information to us, you are also authorizing these businesses to contact you directly by mail, email, telephone, or text message with information about insurance products or other services they offer. 
 
-The information you choose to share with us may be collected through this website, another website in the IndividualHealthQuotes network, or a website owned by of one of our third-party partners. Information may also be collected over the phone by one of our Customer Service Representative, or by a Customer Service Representative working for one of our third-party partners.
+**You expressly consent to receive phone calls and email regardless of whether you are on any Federal or state DNC ("Do Not Call") and/or DNE ("Do Not Email") list or registry.**
 
-By agreeing to the Terms of Use of this privacy policy, you are consenting to share your information you supply to us, and, you are authorizing the sharing of your inquiry information and your personal information with other businesses that provide insurance products or services that match your inquiry. By submitting your information to us, you are also authorizing these businesses to contact you directly by e-mail and telephone with information about insurance products or services they offer that match your inquiry, as well as other services and offers you may be interested in. 
+If you provide your information and we contact you, or you contact us, we may keep a record, including but not limited to telephone recordings, email logs, and chat logs, of your interaction with us. 
 
-**Non-personally-identifiable information:**  
-While you are visiting this website, at least, the following information will be automatically tracked: IP addresses, referral information, browser details, operating system information, information about your Internet Service Provider, geographic location, and other non-personally-identifiable information. We may use cookies, web beacons/pixels, tracking scripts, and other monitoring technologies to gather non-personally-identifiable information. 
+You may also provide personal information about other people in your household, such as their name, date of birth, and gender. This information is only used for the sole purpose of completing your request. 
 
-### How Information Is Used
+### Opting Out
 
-**Personally-identifiable information:**
+You may revoke your consent for us to contact you at any time. If you no longer wish to receive communications from IndividualHealthQuotes.com or our affiliated marketing partners, you may opt-out of receiving them by following the instructions included in each newsletter or communication, or by emailing us at customerservice@IndividualHealthQuotes.com or calling us at 1-888-250-2309 or writing to the address below: 
 
-          **Consumers:**  
-If you choose to give us personally-identifiable information, we may share this information with our network of insurance professionals to help answer your questions or fulfill your request, as well as other third parties. The professionals we match you with may contact you by phone, email, or mail to fulfill your inquiry and provide you with other offers you may be interested in.
+IndividualHealthQuotes.com  
+220 W. Huron Street  
+Chicago, IL 60654  
 
-The professionals in our network may include, but are not limited to, insurance agents, discount program representatives, and other financial services brokers. 
 
-In addition, you may be contacted by IndividualHealthQuotes's Consumer Protection or Quality Assurance departments in order to verify information you submitted or to collect additional information from you about your experience using our Service.
+If your personal information changes and you wish to correct, update, amend, or remove your personal information, please contact us. We may retain portions or all of your information as needed to provide you services, comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-You should be aware that we have no control over how other businesses with which we share your information, may use it, or whether they will sell or share your information with third parties. Consequently, these businesses may have direct access to your information. 
+### Tracking Technologies
 
-If you choose to send us an email, we may forward your request on to third parties if we cannot answer your question. We may also respond to your email with correspondence or offers which we believe may be relevant to your request.
+Technologies such as: cookies, beacons, tags, and scripts are used by IndividualHealthQuotes.com and our partners, affiliates, or analytics and service providers. These technologies are used in analyzing trends, administering the site, tracking usersâ€™ movements around the site, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
 
-In addition, we may provide you with a free subscription to one of our newsletters. You may unsubscribe to these newsletters and any other correspondence or offer from IndividualHealthQuotes at any time.
+Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
-In the event that we cannot match you with a member of our network of insurance professionals, your information may be shared with other third-party networks of professionals. Any contact or communication you have with members of these third-party networks is not covered by the terms of this privacy policy. 
+As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. 
 
-Please note that we have no control over and cannot be held responsible or liable for the privacy policies, if any, of our third-party partners. This includes third-party websites that link to IndividualHealthQuotes, third-party websites linked from IndividualHealthQuotes, any insurance agent or financial professional in our network that we match you with, any third-party network to whom we forward your information, or any member of such third-party network.
+We may combine this automatically-collected log information with other information we collect about you. We do this to improve and market goods and services we offer you, analytics, or site functionality. 
 
-Finally, your agreement with our privacy policy also allows that we may share your information with All Inbox, LLC only for purposes of providing you via email with special offers or services in which you may be interested from IndividualHealthQuote-email.com or other third parties as we determine at our sole discretion. You may unsubscribe at any time.
+### How We Protect and Secure Your Information
 
-We reserve the right to use the data you choose to share with us for any legally permissible purpose. 
+The security of your personal information is important to us. When you enter sensitive information (such as a health and financial information) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). 
 
-**Prospective business partners and affiliates:**  
-The information you submit to IndividualHealthQuotes's affiliate and/or referral program may be used to qualify you for participation in affiliate and/or referral programs. 
+### California Residents Privacy Rights
 
-**Non-personally-identifiable information:**  
-Our website development team uses non-personally-identifiable metrics to improve the content, layout, navigation, and overall site experience for all visitors. We may analyze traffic patterns and statistics to improve this site, provide additional services,  and better serve our visitors.
+Companies that collect personally-identifiable information from California residents and disclose such information to Third Parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided, or (2) provide a mechanism by which a consumer may opt-out of having their information shared with Third Parties. 
 
-### Your Consent
+IndividualHealthQuotes.com has elected the second option, and you may request that your personally-identifiable information not be shared with third parties by sending your request, including your full name, email address, and postal address to: 
 
-By visiting, agreeing with and accepting this privacy policy, and then sharing your information with this website, you consent to the collection and use of your information by our site development team. In so doing, you agree to abide by this Privacy Policy, this site's Terms of Use, and this site's disclaimer.
+IndividualHealthQuotes.com  
+220 W. Huron Street  
+Chicago, IL 60654  
 
-You further acknowledge that this website's Privacy Policy and Terms of Use constitute the only understanding and agreement between you and IndividualHealthQuotes, and that this understanding and agreement supersedes any and all previous understandings and agreements. 
 
-You further acknowledge that you agree to be contacted by insurance professionals, the IndividualHealthQuotes Consumer Protection and/or Quality Assurance departments, and other third party partners of IndividualHealthQuotes, regardless of the presence of your telephone number on any state or Federal DNC (“Do Not Call”) of DNE (“Do Not Email”) list or registry.
-
-You further agree to receive quotes, policy updates, and other customized content to your wireless phone. In addition to any fee of which you are notified, your provider's standard messaging rates apply to our confirmation and all subsequent SMS correspondence. GoHealth does not charge you for sending or receiving text messages. You may opt-out and remove your SMS information by sending "STOP", "END", "QUIT" to the SMS text message you have received.
-
-### California Residents Privacy Rights 
-
-Companies that collect personally-identifiable information from California residents and disclose such information to Third Parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided, or (2) provide a mechanism by which a consumer may opt-out of having their information shared with Third Parties.
-
-IndividualHealthQuotes has elected the second option, and you may request that your personally-identifiable information not be shared with third parties by sending your request, including your full name, email address and postal address to:
-
-IndividualHealthQuotes  
-40 E. Chicago Avenue  
-Suite 176  
-Chicago, IL 60611
-
-In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov.
+In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov. 
 
 ### CAN-SPAM Compliance
 
-IndividualHealthQuotes is committed to be compliant with all Federal regulations, including the Federal CAN-SPAM Act of 2003.
+IndividualHealthQuotes.com is committed to be compliant with all Federal regulations, including the Federal CAN-SPAM Act of 2003. 
 
-IndividualHealthQuotes only sends email to those of our visitors who have “opted in” to receive these communications. Individuals “opt in” to our email communications by voluntarily providing us with their email address and submitting a form that acknowledges their agreement with our Terms of Use and Privacy Policy.
+IndividualHealthQuotes.com only sends email to those of our visitors who have "opted in" to receive these communications. Individuals "opt in" to our email communications by voluntarily providing us with their email address and submitting a form that acknowledges their agreement with our Terms of Use and Privacy Policy. 
 
-You may “opt-out” of any communication from IndividualHealthQuotes at any time. Use the “unsubscribe” link at the bottom of any email you receive from IndividualHealthQuotes, and we will remove you from our mailing list. In addition, you may contact us at the address above and request to be removed from our mailing list.
+You may "opt-out" of any communication from IndividualHealthQuotes.com at any time. Use the "unsubscribe" link at the bottom of any email you receive from IndividualHealthQuotes.com, and we will remove you from our mailing list. In addition, you may contact us at the address above and request to be removed from our mailing list. 
 
-Occasionally IndividualHealthQuotes.com will partner with a third party email server who may provide additional relevant email advertisements to our consumer’s requests.
+Occasionally, IndividualHealthQuotes.com will partner with a third party who may provide additional relevant email advertisements to our consumerâ€™s requests. 
 
-Unsubscribing from communications from IndividualHealthQuotes does not guarantee that you will no longer receive communications from our third party partners.
+Unsubscribing from communications from IndividualHealthQuotes.com does not guarantee that you will no longer receive communications from our third party partners; you must contact that third party directly. 
 
 Be advised that we cannot control the policies of our third party partners, nor can we guarantee or represent their compliance with the CAN-SPAM Act or any other state or Federal law. 
 
 ### Links to Other Websites
 
-This website may feature links to other websites owned and operated by third parties. Be advised that IndividualHealthQuotes is not responsible for the content or services of these third party sites. Privacy Policies and Terms of Use, if any, of these third party sites may differ from IndividualHealthQuotes's Privacy Policy and Terms of Use. We encourage you to read the Privacy Policies and Terms of Use of any website you visit.
+This website may feature links to other websites owned and operated by third parties. Be advised that IndividualHealthQuotes.com is not responsible for the content or services of these third party sites. Privacy Policies and Terms of Use, if any, of these third party sites may differ from IndividualHealthQuotes.com's Privacy Policy and Terms of Use. We encourage you to read the Privacy Policies and Terms of Use of any website you visit. 
 
-### Information from Minors
+### Information From Minors
 
-IndividualHealthQuotes does not knowingly solicit or collect information from anyone under the age of 13.
-
-### Contacting Us
-
-If you have any questions about IndividualHealthQuotes, this website, our service, or this Privacy Policy, you may contact us at:
-
-IndividualHealthQuotes  
-220 W. Huron  
-Chicago, IL 60654
-
-1-888-250-2309
+IndividualHealthQuotes.com does not knowingly solicit or collect information from anyone under the age of 13. 
 
 ### Changes to This Policy
 
-IndividualHealthQuotes reserves the right to make changes and updates to this Privacy Policy at any time. It is your sole responsibility to remain aware of any such changes. In the event that there is a change to this privacy policy, such updates will be immediately reflected on this page. An updated copy of this Privacy Policy will be clearly posted and accessible on this website at all times.
-
-Last updated: January 19, 2012
+IndividualHealthQuotes.com reserves the right to modify this privacy policy at any time, so please review it frequently. An updated copy of this Privacy Policy will be clearly posted and accessible on this website at all times. 
