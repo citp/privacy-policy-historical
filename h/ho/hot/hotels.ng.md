@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotels.ng privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624034301id_/http%3A//hotels.ng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotels.ng privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204160507id_/http%3A//hotels.ng/privacy) for the most accurate reproduction.*
 
-# Privacy Hotels.ng
+# Privacy | Hotels.ng
 
 ## Privacy Policy
 
