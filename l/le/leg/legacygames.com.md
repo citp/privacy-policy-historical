@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legacygames.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001926id_/http%3A//legacygames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legacygames.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204162624id_/http%3A//www.legacygames.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Legacy Games
 
@@ -8,7 +8,7 @@ This privacy policy describes Legacy Games, www.LegacyGames.com's, and Legacy Ga
 
 Notification of Changes to This Policy
 
-This policy was last updated on January 23, 2014.
+This policy was last updated on June 3, 2015.
 
 Overview
 
@@ -69,9 +69,9 @@ Notice to California Residents
 Under California civil code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the address written below.
 
 Legacy Games  
-2684 Lacy Street  
-Suite 208  
-Los Angeles, Ca 90031
+1933 S. Broadway  
+Suite 1162  
+Los Angeles, CA 90007
 
 Definitions
 
@@ -92,6 +92,6 @@ Questions About Our Privacy Policy
 If you have any questions about this privacy policy or concerns about the way Legacy Games processes your personal data, please email us at customerservice@legacygames.com or mail us at:
 
 Legacy Games  
-2684 Lacy Street  
-Suite 208  
-Los Angeles, Ca 90031
+1933 S. Broadway  
+Suite 1162  
+Los Angeles, CA 90007
