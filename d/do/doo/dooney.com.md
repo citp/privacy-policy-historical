@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dooney.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602064640id_/http%3A//www.dooney.com/customer-service/privacy-security/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dooney.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204080033id_/http%3A//www.dooney.com/customer-service/privacy-security/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+EFFECTIVE June 5, 2015
 
 Dooney & Bourke, Inc. and its affiliated companies (collectively “Dooney”) have created this privacy policy in order to assist you in understanding how we collect and use personal information you provide to us and to assist you in making informed decisions when using our Web Site.
 
@@ -73,7 +75,7 @@ Dooney.com uses the services of independent companies to provide certain service
 
 Occasionally, we make our postal or email mailing list (names and addresses only) and general shopping activity available to select companies whose products we believe will be of interest to you or complementary to our product lines. 
 
-We may also disclose your personal information as is necessary to: (a) comply with a subpoena or court order; (b) cooperate with law enforcement or other government agency; (c) establish or exercise our legal rights; (d) protect the property or safety of our company and employees, contractors, vendors, and suppliers; (e) defend against legal claims; (f) help with internal and external investigations; or (g) as otherwise required by law or permitted by law. We may disclose your information in connection with the sale or merger of Dooney or any transaction that involves the sale or assignment of some or all of our assets. 
+We may also disclose your personal information as is necessary to: (a) comply with a subpoena or court order; (b) cooperate with law enforcement or other government agency; (c) establish or exercise our legal rights; (d) protect the property or safety of our company and employees, contractors, vendors, and suppliers; (e) defend against legal claims; (f) help with internal and external investigations, including protecting against fraud; or (g) as otherwise required by law or permitted by law. We may disclose your information in connection with the sale or merger of Dooney or any transaction that involves the sale or assignment of some or all of our assets. 
 
 We may use a third-party network advertiser to serve the advertisements on the Web Site or may use a traffic measurement service to analyze the traffic on the Web Site. Network advertisers are third parties that display advertisements based on your visits to this Web Site and other websites you have visited. Third-party ad serving enables us to target advertisements to you for products or websites you might be interested in. Audience and Traffic Measurement Services allow us to collect anonymous traffic and behavior information from the Web Site by monitoring anonymous visitor activity.
 
