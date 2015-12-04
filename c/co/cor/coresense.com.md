@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coresense.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503103239id_/http%3A//www.coresense.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coresense.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204131056id_/http%3A//www.coresense.com/privacy.html) for the most accurate reproduction.*
 
 # CORESense Privacy Policy
 
