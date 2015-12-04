@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the venus.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507140057id_/http%3A//www.venus.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venus.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204234353id_/http%3A//www.venus.com/privacy.aspx) for the most accurate reproduction.*
 
-# Venus.com Privacy Policy - Terms of Use
+# VENUS.com Privacy Policy - Website Terms of Use
 
 Venus has created this privacy statement in order to demonstrate our firm commitment to your privacy and security. This document describes Venus’ practices with respect to the collection of user information from this Web site. This document only applies to the Venus site [ www.Venus.com](http://www.venus.com/). We have taken extra steps to make sure your online shopping experience is the best and is safe and secure. 
 
