@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the msi.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608091322id_/http%3A//www.msi.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msi.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204205622id_/http%3A//msi.com/page/privacy-policy) for the most accurate reproduction.*
 
-# MSI Global - The best gaming gear maker in the world
+# MSI Global
 
 MSI takes your privacy seriously. Please read the following to learn more about our privacy policy and how we treat personal information that we collect and receive. MSI reserves the right to change the Privacy Policy from time to time at its sole discretion.
 
