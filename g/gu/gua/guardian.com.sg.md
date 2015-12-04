@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guardian.com.sg privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607215036id_/http%3A//www.guardian.com.sg/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardian.com.sg privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204194625id_/http%3A//www.guardian.com.sg/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Guardian Health & Beauty | Guardian
 
@@ -79,7 +79,7 @@ We take your privacy seriously and we will only collect and use personal data as
 
 ### _5\. Access request; Withdrawal of consent; Updating of personal data_
 
-5.1 You may contact us via email ([GDDPO@guardian.com.sg](mailto:GDDPO@guardian.com.sg)) or by telephone (1800 891 8100)to (a) request for access to your personal data, (b) withdraw your consent to our use or disclosure of your personal data, or (c) terminate your online account with us.
+5.1 You may contact us via email ([GDDPO@guardian.com.sg](mailto:GDDPO@guardian.com.sg)) or by telephone (1800 891 81001800 891 8100)to (a) request for access to your personal data, (b) withdraw your consent to our use or disclosure of your personal data, or (c) terminate your online account with us.
 
 5.2 Requests to withdraw your consent to use or disclose your personal data may result in delays or failure to provide you with the products or services purchased from us.
 
@@ -107,6 +107,6 @@ We take your privacy seriously and we will only collect and use personal data as
 
 ### _8\. Contact Us_
 
-8.1 If you have any questions about our data protection policy or practices, you may contact our Data Protection Officer via email ([GDDPO@guardian.com.sg](mailto:GDDPO@guardian.com.sg)) or by telephone (1800 891 8100).
+8.1 If you have any questions about our data protection policy or practices, you may contact our Data Protection Officer via email ([GDDPO@guardian.com.sg](mailto:GDDPO@guardian.com.sg)) or by telephone (1800 891 81001800 891 8100).
 
 8.2 All our emails will contain a link to this privacy policy and the physical, summonable address of our company: 21, Tampines North Drive 2 #03-01 Singapore 528765
