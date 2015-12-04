@@ -1,81 +1,75 @@
-> *The following text is extracted and transformed from the backlinko.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429125029id_/http%3A//backlinko.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinko.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204183631id_/http%3A//backlinko.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Backlinko
 
-## Effective Date: September, 2014
+**Privacy Policy**
 
-The following Privacy Policy governs the online information collection practices of BACKLINKO.COM ”we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the backlinko.com website (the “Site”), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
+Thank you for visiting either Backlinko.com or SeoThatWorks.com (hereinafter known as “Provider,” “us” or “we” or “the Site”). To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we’ll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
+We are committed to protecting your privacy and committed to developing technology that gives you the most powerful and secure online experience.
 
-Backlinko.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. “Period.”
+Billing and personal information is encrypted whenever transmitted or received online. Personal information is accessible only to staff, agents, or contractors of Provider.
 
- **How we Collect and Use Email Addresses and Other Personally Identifiable Information**
+This privacy statement applies to all Provider-owned web sites and domains. This privacy statement covers personally identifiable information, anonymous data collection and aggregate reporting. Personally identifiable information is any information that is associated with your name or personal identity.
 
-Like many websites, Backlinko.com offers users the ability to sign up for an email newsletter. Your email is held within a trusted email service provider (Aweber Inc. and Campaign Monitor). You can unsubscribe from email communications at any time using the email service provider’s “unsubscribe” button. You can also email brian (at) backlinko (dot) com if you’d prefer to be manually removed from the email list.
+ **What we collect**
 
-We will occasionally email you about consulting service offers, new content and special events happening with the Backlinko community. Your email is never, rented sold or shared with any 3rd party.
+During either a Login / Registration or Checkout process, the types of personal information you provide to us may include, but are not limited to, name, address, phone, fax, email address, social security number, license number, date of birth, username and password, billing information, transaction, and credit card information.
 
-If you have questions about how we manage your email address and other personally identifiable information, feel free to contact
+When you browse our web site, you do so anonymously. We may log your IP address (the Internet address of your computer) to give us an idea of which part of our web site you visit and how long you spend there. But we will not link your IP address to any personal information unless you have logged in to our web site. Like many other commercial web sites, the Provider web site may use a standard technology called a “cookie” to collect information about how you use the site. Please go to “Use of Cookies” below for more information.
 
-brian (at) backlinko (dot) com
+ **How we use it**
 
-Or send a letter to:
+We may use your personal information for the following purposes:
 
-Brian Dean/Backlinko LLC  
-35 Piedmont st.Cranston, RI 0291  
-USA
-
- **How we gather information from users**
-
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in surveys, sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, Backlinko.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
-
- **Google Analytics Tracking**
-
-We’ve implemented a tracking code in order to collect demographic information in Google Anayltics. You can opt-out of this program anytime by adjusting your [Ads Settings](https://www.google.com/settings/ads). You may also wish to review other [available opt-outs](https://tools.google.com/dlpage/gaoptout/).
-
- **What we do with the information we collect**
-
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
-
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually. Although we use remarketing, we don’t collect or store personally identifiable information, including demographic information. We also don’t send Google any precise information (ie. location) without your consent. In terms of Remarketing, Google reserves the right to display to users which remarketing lists they’re on, along with the corresponding domain name.
-
-We may use Personally Identifiable Information collected on Backlinko.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by Backlinko.com and other topics we think you might find of interest.
-
-Personally Identifiable Information collected by Backlinko.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
-
- **Affiliated sites, linked sites and advertisements**
-
-Backlinko.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on Backlinko.com pages, certain content that is actually created or hosted by a third party. Also, through Backlinko.com you may be introduced to, or be able to access, information, surveys, Web sites, features, contests or sweepstakes offered by other parties Backlinko.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
-
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. Backlinko.com does not control the use of this technology by third parties or the resulting information, and are not responsible for any actions or policies of such third parties.
-
-Third parties may use cookies, web beacons, and similar technologies to collect or receive information from your website and elsewhere on the internet and use that information to provide measurement services and target ads. Users can ow users can opt-out of the collection and use of information for ad targeting by sending an email to brian (at) backlinko (dot) com.
-
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Backlinko.com and this policy.
-
- **Children’s Privacy Statement**
-
-This children’s privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.
-
-  * This Site is not directed to children under the age of thirteen and we do NOT knowingly collect personally identifiable information from children under the age of thirteen as part of the Site. We screen users who wish to provide personal information in order to prevent users under the age of thirteen from providing such information. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Site, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Site.
-  * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we also do NOT knowingly distribute such information to third parties.
-  * We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information through the Site.
-  * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we do NOT condition the participation of a child under thirteen in the Site’s online activities on providing personally identifiable information.
+  * To make the site easier for you to use by not making you enter your personal information more than once.
+  * To deliver services that you request or purchase.
+  * To help us create and publish content most relevant to you.
+  * To alert you of product upgrades, special offers, updated information and other new services provided from Provider.
+  * To provide feedback in an online survey.
+  * To participate in promotional offers.
+  * To request assistance or fill out support requests.
 
 
 
-We can be reached by contacting:  
-Email: brian –at– backlinko (dot) com
+ **Who we share it with**
 
- **Changes to this Policy  
-**  
-Backlinko.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+We never sell or rent your personal information. Provider may disclose your personal information if required to do so by law (for example, a subpoena) or regulation, or in good faith to (a) comply with legal processes served on the site, or (b) protect the rights and property of Provider, or (c) where our records indicate fraudulent activity or other deceptive practices that a governmental agency should be made aware of, or (d) where your communication suggests possible harm to others.
 
- **Governing law  
-**  
-This policy and the use of these Sites are governed by New York law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: New York. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
+Provider may transfer information about Users if Provider is acquired by or merged with another company. Provider is not responsible for notifying User of such changes.
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: New York, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
+Provider will not share your information with third parties without your permission, other than what is mentioned in this Privacy Policy. It will only be used for the purposes stated above. We use personal information to reply to inquiries, handle complaints, provide operational notices, keep records up to date to notify you via periodic e-mails of technical service issues, specials, or other related product/service information. Your information may be shared with agents or contractors of Provider for the purpose of performing service for Provider.
 
-Backlinko.com is controlled, operated and administered entirely within New York. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+ **Internet Commerce**
+
+The online registration at Provider is designed to give you options concerning the privacy of your credit card information, name, address, e-mail and any other information you provide us. Provider is committed to data security with respect to information collected on our site. We offer the industry standard security measures available through your browser called SSL encryption.
+
+ **Security of your Personal Information**
+
+Provider strictly protects the security of your personal information. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
+
+Your personal information is never shared outside the company without your permission, except as stated herein. Inside the company, data is stored in password-controlled servers with limited access.
+
+You also have a significant role in protecting your information. No one can see or edit your personal information without knowing your username and password, so do not share these with others.
+
+We use SSL encryption when collecting or transferring sensitive data such as credit card and personal information. Credit card numbers are only used for processing payment and are not used for other purposes. Our efforts to protect credit card fraud help protect your financial data security
+
+ **Access to your Personal Information**
+
+We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time by logging into your account.
+
+To protect your privacy and security, we will also take reasonable steps to verify your identity, such as password and username, before granting access to your data.
+
+ **Use of Cookies**
+
+Our web sites are not setup to track, collect or distribute personal information. Our site may generate certain kinds of non-identifying site usage data, such as number of hits and visits to our sites. This information is used for internal purposes only. The statistics contain no personal information and cannot be used to gather such information.
+
+Provider Web sites may use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Provider services or Web sites you visit.
+
+ **Links**
+
+This website may contain links to other sites. Please be aware that we are not responsible for the content or privacy of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
+
+ **Problems or complaints with Provider’s Privacy Policy**
+
+We value your comments and opinions. If you have questions, comments or a complaint about compliance with this privacy policy you may _[contact us](http://backlinko.com/contact)_.
