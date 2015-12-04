@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nickatnite.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415031436id_/http%3A//www.nickatnite.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickatnite.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204220549id_/http%3A//www.nickatnite.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy (Last updated: 04/09/2015) | Nick @ Nite
 
@@ -6,7 +6,7 @@ Nickelodeon - Universal Privacy Policy
 
 **THE NICKELODEON GROUP PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**
 
-**LAST UPDATED:** 04/09/2015
+**LAST UPDATED:** 11/18/2015
 
 Click here to learn about the most recent significant updates.
 
@@ -165,7 +165,7 @@ We may request or collect certain information when you visit the Nickelodeon Sit
 
 **A.   Registration Information**:  The information required to register varies by Site, but may include: (a) birth date; (b) gender; (c) country; (d) state; (e) zip code; (f) user name and password; (g) wireless telephone number; (h) email address; and (i) other profile information such as avatar preferences, communications preferences, and interests. If the Site either is directed to children under 13 or has actual knowledge that a user is under 13 years old, the child may be asked to provide his or her parent's or guardian's email address. For certain countries, visitors or their parents/guardians will receive an activation email and must follow the procedures or otherwise agree to the terms within the activation email within a certain time period to activate the account; accounts not activated within that time period will be deleted.
 
-Registration information is used to enable visitors to take advantage of site offerings; respond to visitor’s requests for products, services, and information; manage games; serve appropriate material; customize the content you see when you visit the Nickelodeon Sites; and offer visitors special offers and promotions from Nickelodeon Sites and the “Viacom family of companies” (which comprises Viacom International Inc. and its subsidiaries and affiliates), as well as on behalf of selected third parties offering products, programs or services, that we believe may be of interest to you. 
+Registration information is used to enable visitors to log into their accounts across different devices and platforms; take advantage of site offerings; respond to visitor’s requests for products, services, and information; send communications to users in connection with their account; manage games; serve appropriate material; customize the content you see when you visit the Nickelodeon Sites; and offer visitors special offers and promotions from Nickelodeon Sites and the “Viacom family of companies” (which comprises Viacom International Inc. and its subsidiaries and affiliates), as well as on behalf of selected third parties offering products, programs or services, that we believe may be of interest to you. 
 
 Certain non-child-directed Sites may offer visitors opportunities to apply for certain programs or other employment, training or internship opportunities. In order to submit an application for any one of these opportunities, the applicant may be required to supply other pertinent personal information including, without limitation, full name, postal address, telephone number(s) and email address. Additional personal information and other information may be requested during the application process (but may not be required). Such submissions are also subject to the policies regarding such respective programs. 
 
@@ -221,11 +221,11 @@ You should be aware that different rules might apply to the collection, use or d
 
 With respect to the Tracking Technologies set by Third Party Advertising Service Providers and advertisers (and outside the control of the Nickelodeon Sites), you have a number of options:
 
-  * You can opt-out of the use of information for these advertising purposes by two such Third Party Advertising Service Providers, Adobe and DoubleClick by using those Providers’ opt-out tools.  You can access Adobe’s tool at <http://www.donottarget.com/> and DoubleClick’s at <http://www.google.com/intl/en/policies/technologies/ads/>.  We also may from time to time permit other Third Party Advertising Service Providers and Advertisers to collect Information on the Nickelodeon Sites.  Some of these Providers and Advertisers may participate in the Network [Advertising Initiative’s Opt-Out Tool](http://www.networkadvertising.org/managing/opt_out.asp) and/or the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices/) Please click on the links to these tools to learn more about your choices. 
+  * You can opt-out of the use of information for these advertising purposes by two such Third Party Advertising Service Providers, Adobe and DoubleClick by using those Providers’ opt-out tools.  You can access Adobe’s tool at <http://www.donottarget.com/> and DoubleClick's at <http://www.google.com/intl/en/policies/technologies/ads/>.  We also may from time to time permit other Third Party Advertising Service Providers and Advertisers to collect Information on the Nickelodeon Sites.  Some of these Providers and Advertisers may participate in the Network [Advertising Initiative’s Opt-Out Tool](http://www.networkadvertising.org/managing/opt_out.asp) and/or the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices/) Please click on the links to these tools to learn more about your choices.
 
 
 
-  * **_Nielsen Measurement:_** Â  The player on this website may feature Nielsen’s proprietary measurement software which will collect and use certain video viewing metrics and other information, in accordance with Nielsen’s digital measurement privacy policy.Â  For more information about Nielsen’s measurement software, see <http://www.nielsen.com/digitalprivacy> and see the “Choices” section of that digital measurement privacy policy to learn about your choices with respect to Nielsen’s measurement, including your opt-out options if you do not wish to participate in such measurement and the scope of any opt-out options. 
+  * **_Nielsen Measurement:_** Â  The player on this website may feature Nielsen's proprietary measurement software which will collect and use certain video viewing metrics and other information, in accordance with Nielsen's digital measurement privacy policy.Â  For more information about Nielsen's measurement software, see <http://www.nielsen.com/digitalprivacy> and see the "Choices" section of that digital measurement privacy policy to learn about your choices with respect to Nielsen's measurement, including your opt-out options if you do not wish to participate in such measurement and the scope of any opt-out options. 
 
 
   * Please note the following with respect to opting out of Tracking Technologies set by Third Party Advertising Service Providers and advertisers:
@@ -397,11 +397,11 @@ Nickelodeon Online
 
 New York, New York 10036
 
-This document is the sole statement of the Nickelodeon Sites' Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid. In interpreting this Agreement, the English version governs the interpretation and meaning of the obligation set forth herein. To the extent there is an ambiguity or conflict with the Privacy Policy in other languages, the Privacy Policy in English governs.
+This document is the sole statement of the Nickelodeon Sites' Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid. In interpreting this Agreement, the English version governs the interpretation and meaning of the obligation set forth herein. To the extent there is an ambiguity or conflict with the PrivacyÂ Policy in other languages, the Privacy Policy in English governs. 
 
 **IX. CONTACT US**
 
-If you have any other questions about our information handling practices, including our practices with respect to children's personal information, please contact us at:
+If you have any other questions about our information handling practices, including our practices with respect toÂ childrenâs personal information, please contact us at:
 
 Nick.com CA Privacy Coordinator
 
