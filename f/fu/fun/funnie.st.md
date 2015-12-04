@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnie.st privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623041638id_/http%3A//funnie.st/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnie.st privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204225155id_/http%3A//funnie.st/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Funnie.st
 
@@ -15,7 +15,7 @@ funnie.st does use cookies to store information about visitors preferences, reco
 **DoubleClick DART Cookie**  
 • Google, as a third party vendor, uses cookies to serve ads on funnie.st.  
 • Google’s use of the DART cookie enables it to serve ads to our users based on their visit to funnie.st and other sites on the Internet.  
-• Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL -<http://google.com/privacy_ads.html>
+• Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL –<http://google.com/privacy_ads.html>
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:  
 Google Adsense  
