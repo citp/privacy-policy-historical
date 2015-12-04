@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the century21.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502232803id_/http%3A//www.century21.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the century21.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205005558id_/http%3A//www.century21.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CENTURY 21
 
@@ -6,7 +6,7 @@
 
 ##  PRIVACY STATEMENT
 
-**Last modified July 3, 2008**
+**Last modified May 27, 2015**
 
 ##  Introduction
 
@@ -64,11 +64,11 @@ If you want to prevent a third-party ad server from sending and reading cookies 
 
 ##  3\. Use of Information
 
-We use the Personal Information and the Non-Personal Information we collect on the Site (A) to provide you with the services that you ask to receive through the Site, including saving searches and, if you request it, sending you updates about those searches; (B) to receive, if you choose, to receive periodic industry updates; (C) to answer your questions or complaints; (D) to refer you to Franchisees and sales associates about finding or listing a property or to locate a sale associate; (E) to refer a listing to a friend; and (F) inquiries about franchising opportunities. and (G) for analytical purposes to help us improve the Site and for our business generally.
+We use the Personal Information and the Non-Personal Information we collect on the Site (A) to provide you with the services that you ask to receive through the Site, including saving searches and, if you request it, sending you updates about those searches; (B) to receive, if you choose, to receive periodic industry updates; (C) to answer your questions or complaints; (D) to refer you to Franchisees and sales associates about finding or listing a property or to locate a sale associate; (E) to refer a listing to a friend; and (F) inquiries about franchising opportunities. and (G) for analytical purposes to help us improve the Site and for our business generally. We may also use the Personal Information to inform you about other services and products that may be available through us, our family of companies, our franchisees and/or companies with which we have a marketing relationship, and to provide you a customer survey to assess your satisfaction with our services and products.
 
 ##  4\. Sharing Your Information
 
-We do not rent, sell, or share with third parties the Personal Information we collect from you on this Site except (i) to provide information or services that you have requested, (ii) with your permission, or (iii) under the following circumstances:
+We reserve the right to share your Personal Information with our affiliated companies and marketing partners, as permitted by law, in order to fulfill our commitment of providing you with full service real estate brokerage services. We do share your Personal Information under the following circumstances:
 
 **A.** Third party vendors we engage to provide services on our behalf, such as hosting, web-site development, and support, have access to Personal Information, but they have agreed not to disclose the Personal Information or to use it for any purpose other than providing the requested services.
 
