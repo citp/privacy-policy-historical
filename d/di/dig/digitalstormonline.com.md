@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalstormonline.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330174948id_/http%3A//www.digitalstormonline.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalstormonline.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204134444id_/http%3A//www.digitalstorm.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Storm
 
@@ -6,7 +6,7 @@ We believe your right to privacy and data security is our high priority.
 
 This statement discloses the privacy guidelines for the entire Digital Storm website.
 
-For more information about our privacy or information usage guidelines, please contact Digital Storm at sales@digitalstormonline.com and put "Privacy" in the subject line.
+For more information about our privacy or information usage guidelines, please contact Digital Storm at sales@digitalstorm.com and put "Privacy" in the subject line.
 
 Digital Storm only asks for specific types of personal information which will allow us to fully process your order(s).
 
@@ -26,4 +26,4 @@ Information regarding you (such as name, address and phone number) or your order
 
 Digital Storm wants to help you keep your personal information secure.
 
-You can request the individual information that Digital Storm has collected about you via the Internet at sales@digitalstormonline.com or dial 1-866-81-STORM.
+You can request the individual information that Digital Storm has collected about you via the Internet at sales@digitalstorm.com or dial 1-866-81-STORM.
