@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the quinnstheprinters.com privacy policy that was archived on 2015-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150406014017id_/http%3A//quinnstheprinters.com/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the quinnstheprinters.com privacy policy that was archived on 2015-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151204011545id_/http%3A//quinnstheprinters.com/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -25,14 +25,16 @@
 <meta http-equiv="refresh" content="0; URL=enable_script.php" />
 </noscript>
 <link rel="shortcut icon" type="image/x-icon" href="http://quinnstheprinters.com/images/favicon.ico">
-<link href="http://quinnstheprinters.com/css/style.css" rel="stylesheet" type="text/css">
+<link href="http://quinnstheprinters.com/css/style.css?version=9" rel="stylesheet" type="text/css">
 <link href="http://quinnstheprinters.com/themes/default/default.css" media="screen" rel="stylesheet" type="text/css">
 <link href="http://quinnstheprinters.com/slider/nivo-slider.css" media="screen" rel="stylesheet" type="text/css">
 <link href="http://quinnstheprinters.com/slider/style.css" media="screen" rel="stylesheet" type="text/css">
 <link href="http://quinnstheprinters.com/script/coda-slider.css" media="screen" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="http://quinnstheprinters.com/css/thickbox.css" type="text/css">
+<link href="http://quinnstheprinters.com/customer/assets/css/font-awesome.css" rel="stylesheet" type="text/css">
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://quinnstheprinters.com/js/jquery-1.7.2.min.js"></script>
+
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://quinnstheprinters.com/js/jquery-1.7.2.min.js"></script>
 <!--<script type="text/javascript" src="http://quinnstheprinters.com/js/jquery.min.js"></script>-->
 <script type="text/javascript" src="http://quinnstheprinters.com/js/jquery.easing.1.3.js"></script>
 <script type="text/javascript" src="http://quinnstheprinters.com/js/mega_menu.js"></script>
@@ -43,6 +45,35 @@
 <script type="text/javascript" src="http://quinnstheprinters.com/js/jquery.validate.js"></script>
 
 <script type="text/javascript">
+    $(document).ready(function() {
+        /*--------Check SVG format support-------*/
+        if (!(document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#BasicStructure", "1.1"))) {
+            $(".svg-image").addClass('no-svg');
+        }
+        /*--------/Check SVG format support-------*/
+
+    });
+
+	function loginFormShowHidden()
+	{
+		if ($(".login_block").is(":hidden")) {
+			loginFormShow()
+		} else {
+			loginFormHidden()
+		}
+	}
+
+    function loginFormShow()
+    {
+        $(".login_block").slideDown(500);
+        $("#login_form_on").addClass("active");
+    }
+    function loginFormHidden()
+    {
+        $(".login_block").slideUp(400);
+        $("#login_form_on").removeClass("active");
+    }
+
 function showForm()
 {
 	if(document.getElementById("changeCustomer").style.display == 'none')
@@ -94,13 +125,12 @@ function goto_top() {
 	goto_top_itv = setInterval('goto_top_timer()', 25);
 	}
 }
-
 </script>
 
 </head>
 
 <body>
-<a href="http://quinnstheprinters.com/JobStatus" class="backTo_prev"></a> 
+<a href="http://quinnstheprinters.com/JobStatus" class="backTo_prev"></a>
 <div id="contact"></div>
 <div class="clear"></div>
   
@@ -109,111 +139,279 @@ function goto_top() {
 <div class="pageContainer">
 <!--Header start-->
 <div class="header">
-
     <div class="header_top">
-      <div class="logo_area">
-      	<a href="#"><img src="http://quinnstheprinters.com/images/quinns_printers.png" alt="Quinns Print Management System-Complete Printing Services"></a>
-      </div>
-      <div class="header_right">
-        <div class="header_box">
-          <div id="partner_login"><div id="partner_icon"></div> &nbsp;&nbsp; <a href="http://quinnstheprinters.com/PartnerLogin/?Process=Now&amp;p=1">Partner Login</a></div>
-          <div class="cart_item">
-          	<span> <a style="color:#FFFFFF; font-size:12px" href="http://quinnstheprinters.com/order/cart/?OrderPro=YC03-G_mQsryKGlXBkZWvBhNlCkbWMeiwcLbfZ6AaoI" class="toplinks" title="Shopping cart">Shopping Cart </a></span>
-          </div>
-        </div>
-        <div class="live_help_area">
-          <div class="live_help">           
-          <a href="http://www.quinnsprint.com/chat/client.php?locale=en&amp;style=simplicity&amp;group=1" target="_blank" onclick="if(navigator.userAgent.toLowerCase().indexOf('opera') != -1 &amp;&amp; window.event.preventDefault) window.event.preventDefault();this.newWindow = window.open('http://www.quinnsprint.com/chat/client.php?locale=en&amp;style=simplicity&amp;group=1&amp;url='+escape(document.location.href)+'&amp;referrer='+escape(document.referrer), 'webim', 'toolbar=0,scrollbars=0,location=0,status=1,menubar=0,width=640,height=480,resizable=1');this.newWindow.focus();this.newWindow.opener=window;return false;"><img src="http://www.quinnsprint.com/chat/b1.php?i=beta&amp;lang=en&amp;group=1" border="0" alt=""></a>
-          </div>
-        </div>
-        
-      </div>
-      <div class="delivery_van" align="center" style="width:155px;">
-      	<a href="http://quinnstheprinters.com/Partner-Registration-New"><img src="http://quinnstheprinters.com/images/partner_login.png" height="79" width="146" border="0"></a>
-      </div>
-      <div class="delivery_van" align="center" style="width:155px;">
-        	<a href="http://quinnstheprinters.com/UploadArtwork"><img src="http://quinnstheprinters.com/images/upload_your_artwork.png" border="0" alt="Printers Belfast artwork upload"></a>
-        </div>
+		<div class="header_background"></div>
+		<div class="logo_area">
+			<a href="http://quinnstheprinters.com/"><div class="logo svg-image" role="img" aria-label="Quinns Print Management System-Complete Printing Services"></div></a>
+		</div>
+					<div class="delivery_van" align="center" style="border-right:0;">
+				<a href="#" id="login_form_on" onclick="loginFormShowHidden()">
+					<div>
+						<div class="login svg-image" role="img"></div>
+						<div style="padding-left: 10px">
+							<div class="delivery_van_header" style="position: relative; margin-right: 15px">
+								Login								<span class="login_icon"><div class="caret-down"></div></span>
+							</div>
+						</div>
+						<span class="login_bottom_triangle"><div class="caret-down"></div></span>
+					</div>
+				</a>
+				<div class="login_block">
+					<div class="login_block_close" style="cursor: pointer;" onclick="loginFormHidden()"><i class="icon-remove"></i></div>
+					<form action="http://quinnstheprinters.com/PartnerLogin/?process=Now" method="post" name="logfrm" id="logfrm">
+						<div class="login_block_form_header">
+							<h2>Partner Login</h2>
+							<a class="login_block_registration" href="http://quinnstheprinters.com/Customer-Registration-New">Registration</a>
+						</div>
+						<label for="username">Username</label><input class="login_block_input" name="username" type="text" value="">
+						<label for="password">Password</label><input class="login_block_input" name="password" type="password" value="">
+						<div class="login_forg_submit">
+							<button name="submit" id="submit">Login</button>
+							<div class="login_block_forg_pass"><a href="/forgotpwd">Forgot password?</a></div>
+						</div>
+					</form>
+											<form class="login_form_guest" action="http://quinnstheprinters.com/GuestLogin/?process=Now" method="post">
+							<button name="guestbtn" id="guestbtn">Sign In As A Guest</button>
+						</form>
+										</div>
+			</div>
+					<div class="delivery_van" align="center">
+						<a href="http://quinnstheprinters.com/order/cart/?OrderPro=Om9a0G3PIhDS-JJWy-SxoH5enyX-D0cOlADj-bI1foM" class="toplinks" title="Shopping cart">
+				<div>
+					<div class="cart svg-image" role="img" aria-label="Printers Belfast artwork upload"></div>
+					<div><div class="delivery_van_header">Shopping Cart</div></div>
+				</div>
+			</a>
+		</div>
+		<div class="delivery_van" align="center">
+			<a href="http://quinnstheprinters.com/UploadArtwork">
+				<div>
+					<div class="artwork svg-image" role="img" aria-label="Printers Belfast artwork upload"></div>
+					<div><div class="delivery_van_header">Artwork Uploade</div></div>
+				</div>
+			</a>
+		</div>
+		<div class="delivery_van" align="center">
+			<a href="http://quinnsprint.com/chat/client.php?locale=en&amp;style=simplicity&amp;group=1" target="_blank" onclick="if(navigator.userAgent.toLowerCase().indexOf('opera') != -1 &amp;&amp; window.event.preventDefault) window.event.preventDefault();this.newWindow = window.open('http://quinnsprint.com/chat/client.php?locale=en&amp;style=simplicity&amp;group=1&amp;url='+escape(document.location.href)+'&amp;referrer='+escape(document.referrer), 'webim', 'toolbar=0,scrollbars=0,location=0,status=1,menubar=0,width=640,height=480,resizable=1');this.newWindow.focus();this.newWindow.opener=window;return false;">
+				<div style="padding: 37px 35px 37px;">
+					<div class="help svg-image" role="img" aria-label="Printers Belfast artwork upload"></div>
+					<div><div class="delivery_van_header">Live Help</div></div>
+				</div>
+			</a>
+		</div>
     </div>
-<div class="header_bottom">
-
-<!--Browse Products start-->
-<div class="browse_products">
-    <ul id="ldd_menu" class="ldd_menu">
-        <li> <span><a href="#"></a></span>
-            <div class="ldd_submenu">
-                <div class="submenu_content">
-                    <div class="menu_row1">
-                        <div class="mid">
-                                                        <div class="popularPro"><a title="Business Stationery" href="http://quinnstheprinters.com/Products/Business-Stationery"><span class="title">Business Stationery</span><span class="thumb"><span class="freeArtwork_small"></span><img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-1.jpg"></span></a></div>
-                            <div class="vert"></div>
-                                                        <div class="popularPro"><a title="Leaflets" href="http://quinnstheprinters.com/Products/Leaflets"><span class="title">Leaflets</span><span class="thumb"><span class="freeArtwork_small"></span><img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-2.jpg"></span></a></div>
-                            <div class="vert"></div>
-                                                        <div class="popularPro"><a title="Flyers" href="http://quinnstheprinters.com/Products/Flyers"><span class="title">Flyers</span><span class="thumb"><span class="freeArtwork_small"></span><img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-3.jpg"></span></a></div>
-                            <div class="vert"></div>
-                                                        <div class="popularPro"><a title="Promo Cards" href="http://quinnstheprinters.com/Products/PromoCards"><span class="title">Promo Cards</span><span class="thumb"><span class="freeArtwork_small"></span><img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-4.jpg"></span></a></div>
-                            <div class="vert"></div>
-                                                        <div class="popularPro"><a title="Posters" href="http://quinnstheprinters.com/Products/Posters"><span class="title">Posters</span><span class="thumb"><span class="freeArtwork_small"></span><img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-5.jpg"></span></a></div>
-                            <div class="horiz"></div>
-                                                        <div class="popularPro"><a title="Postcards" href="http://quinnstheprinters.com/Products/Postcards"><span class="title">Postcards</span><span class="thumb"><span class="freeArtwork_small"></span><img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-6.jpg"></span></a></div>
-                            <div class="vert"></div>
-                                                        <div class="popularPro"><a title="Presentation Folders" href="http://quinnstheprinters.com/Products/Presentation-Folders"><span class="title">Presentation Folders</span><span class="thumb"><span class="freeArtwork_small"></span><img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-7.jpg"></span></a></div>
-                            <div class="vert"></div>
-                                                        <div class="popularPro"><a title="A5 Booklets" href="http://quinnstheprinters.com/Products/A5-Booklets"><span class="title">A5 Booklets</span><span class="thumb"><span class="freeArtwork_small"></span><img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-8.jpg"></span></a></div>
-                            <div class="vert"></div>
-                                                        <div class="popularPro"><a title="A4 Booklets" href="http://quinnstheprinters.com/Products/A4-Booklets"><span class="title">A4 Booklets</span><span class="thumb"><span class="freeArtwork_small"></span><img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-9.jpg"></span></a></div>
-                            <div class="vert"></div>
-                                                        <div class="popularPro"><a title="Digital Leaflets" href="http://quinnstheprinters.com/Products/Digital-Leaflets"><span class="title">Digital Leaflets</span><span class="thumb"><span class="freeArtwork_small"></span><img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-10.jpg"></span></a></div>
-                            <div class="horiz"></div>
-                                                        <div class="popularPro"><a title="A5 Digital Booklets" href="http://quinnstheprinters.com/Products/A5-Digital-Booklets"><span class="title">A5 Digital Booklets</span><span class="thumb"><span class="freeArtwork_small"></span><img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-11.jpg"></span></a></div>
-                            <div class="vert"></div>
-                                                        <div class="popularPro"><a title="A4 Digital Booklets" href="http://quinnstheprinters.com/Products/A4-Digital-Booklets"><span class="title">A4 Digital Booklets</span><span class="thumb"><span class="freeArtwork_small"></span><img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-12.jpg"></span></a></div>
-                            <div class="vert"></div>
-                                                        <div class="popularPro"><a title="Banners" href="http://quinnstheprinters.com/Products/Banners"><span class="title">Banners</span><span class="thumb"><span class="freeArtwork_small"></span><img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-13.jpg"></span></a></div>
-                            <div class="vert"></div>
-                               
-                        </div>
-                    <a class="button view_allProducts" href="http://quinnstheprinters.com/Products"> View All Products</a>
-                    </div>
-                	<div class="ldd_subfoot"></div>
-                   </div> 
-            </div>
-        </li>
-    </ul>
-</div>
-<!--Browse Products end-->
-
-<!--Menu area start-->
-<div class="menu_area">
-    <ul id="nav">
-        <li><a href="http://quinnstheprinters.com/">Home</a></li>
-        <li><a href="http://quinnstheprinters.com/About-Us">About Us</a>  </li>
-        <li><a href="#">Artwork Guide</a>
-            <ul>
-                <li><a href="http://quinnstheprinters.com/Artwork-Guide">Technical</a></li>
-                <li><a href="http://quinnstheprinters.com/UploadArtwork">Upload Artwork</a></li>
+    <div class="header_bottom">
+        <div class="header_bottom_background"></div>
+        <!--Browse Products start-->
+        <div class="browse_products">
+			<ul id="ldd_menu" class="ldd_menu">
+				<li> <span><a href="#">Browse Products <div class="caret-down"></div></a></span>
+					<div class="ldd_submenu">
+						<div class="submenu_content">
+							<div class="menu_row1">
+								<div class="mid">
+																		<div class="popularPro">
+										<a title="Business Stationery" href="http://quinnstheprinters.com/Products/Business-Stationery">
+											<div class="products_hover"></div>
+											<span class="title">Business Stationery</span>
+											<span class="thumb">
+												<span class="freeArtwork_small"></span>
+												<img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-1.jpg">
+											</span>
+										</a>
+									</div>
+									<div class="vert"></div>
+																		<div class="popularPro">
+										<a title="Leaflets" href="http://quinnstheprinters.com/Products/Leaflets">
+											<div class="products_hover"></div>
+											<span class="title">Leaflets</span>
+											<span class="thumb">
+												<span class="freeArtwork_small"></span>
+												<img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-2.jpg">
+											</span>
+										</a>
+									</div>
+									<div class="vert"></div>
+																		<div class="popularPro">
+										<a title="Flyers" href="http://quinnstheprinters.com/Products/Flyers">
+											<div class="products_hover"></div>
+											<span class="title">Flyers</span>
+											<span class="thumb">
+												<span class="freeArtwork_small"></span>
+												<img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-3.jpg">
+											</span>
+										</a>
+									</div>
+									<div class="vert"></div>
+																		<div class="popularPro">
+										<a title="Promo Cards" href="http://quinnstheprinters.com/Products/PromoCards">
+											<div class="products_hover"></div>
+											<span class="title">Promo Cards</span>
+											<span class="thumb">
+												<span class="freeArtwork_small"></span>
+												<img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-4.jpg">
+											</span>
+										</a>
+									</div>
+									<div class="vert"></div>
+																		<div class="popularPro">
+										<a title="Posters" href="http://quinnstheprinters.com/Products/Posters">
+											<div class="products_hover"></div>
+											<span class="title">Posters</span>
+											<span class="thumb">
+												<span class="freeArtwork_small"></span>
+												<img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-5.jpg">
+											</span>
+										</a>
+									</div>
+									<div class="horiz"></div>
+																		<div class="popularPro">
+										<a title="Postcards" href="http://quinnstheprinters.com/Products/Postcards">
+											<div class="products_hover"></div>
+											<span class="title">Postcards</span>
+											<span class="thumb">
+												<span class="freeArtwork_small"></span>
+												<img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-6.jpg">
+											</span>
+										</a>
+									</div>
+									<div class="vert"></div>
+																		<div class="popularPro">
+										<a title="Presentation Folders" href="http://quinnstheprinters.com/Products/Presentation-Folders">
+											<div class="products_hover"></div>
+											<span class="title">Presentation Folders</span>
+											<span class="thumb">
+												<span class="freeArtwork_small"></span>
+												<img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-7.jpg">
+											</span>
+										</a>
+									</div>
+									<div class="vert"></div>
+																		<div class="popularPro">
+										<a title="A5 Booklets" href="http://quinnstheprinters.com/Products/A5-Booklets">
+											<div class="products_hover"></div>
+											<span class="title">A5 Booklets</span>
+											<span class="thumb">
+												<span class="freeArtwork_small"></span>
+												<img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-8.jpg">
+											</span>
+										</a>
+									</div>
+									<div class="vert"></div>
+																		<div class="popularPro">
+										<a title="A4 Booklets" href="http://quinnstheprinters.com/Products/A4-Booklets">
+											<div class="products_hover"></div>
+											<span class="title">A4 Booklets</span>
+											<span class="thumb">
+												<span class="freeArtwork_small"></span>
+												<img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-9.jpg">
+											</span>
+										</a>
+									</div>
+									<div class="vert"></div>
+																		<div class="popularPro">
+										<a title="Digital Leaflets" href="http://quinnstheprinters.com/Products/Digital-Leaflets">
+											<div class="products_hover"></div>
+											<span class="title">Digital Leaflets</span>
+											<span class="thumb">
+												<span class="freeArtwork_small"></span>
+												<img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-10.jpg">
+											</span>
+										</a>
+									</div>
+									<div class="horiz"></div>
+																		<div class="popularPro">
+										<a title="A5 Digital Booklets" href="http://quinnstheprinters.com/Products/A5-Digital-Booklets">
+											<div class="products_hover"></div>
+											<span class="title">A5 Digital Booklets</span>
+											<span class="thumb">
+												<span class="freeArtwork_small"></span>
+												<img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-11.jpg">
+											</span>
+										</a>
+									</div>
+									<div class="vert"></div>
+																		<div class="popularPro">
+										<a title="A4 Digital Booklets" href="http://quinnstheprinters.com/Products/A4-Digital-Booklets">
+											<div class="products_hover"></div>
+											<span class="title">A4 Digital Booklets</span>
+											<span class="thumb">
+												<span class="freeArtwork_small"></span>
+												<img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-12.jpg">
+											</span>
+										</a>
+									</div>
+									<div class="vert"></div>
+																		<div class="popularPro">
+										<a title="Banners" href="http://quinnstheprinters.com/Products/Banners">
+											<div class="products_hover"></div>
+											<span class="title">Banners</span>
+											<span class="thumb">
+												<span class="freeArtwork_small"></span>
+												<img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-13.jpg">
+											</span>
+										</a>
+									</div>
+									<div class="vert"></div>
+																		<div class="popularPro">
+										<a title="Greeting Cards" href="http://quinnstheprinters.com/Products/GreetingCards">
+											<div class="products_hover"></div>
+											<span class="title">Greeting Cards</span>
+											<span class="thumb">
+												<span class="freeArtwork_small"></span>
+												<img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-14.jpg">
+											</span>
+										</a>
+									</div>
+									<div class="vert"></div>
+																		<div class="popularPro">
+										<a title="Calendars" href="http://quinnstheprinters.com/Products/Calendars">
+											<div class="products_hover"></div>
+											<span class="title">Calendars</span>
+											<span class="thumb">
+												<span class="freeArtwork_small"></span>
+												<img width="170" height="125" src="http://quinnstheprinters.com/images/browse/img-15.jpg">
+											</span>
+										</a>
+									</div>
+									<div class="horiz"></div>
+																	</div>
+							<a class="button view_allProducts" href="http://quinnstheprinters.com/Products"> View All Products</a>
+							</div>
+						</div>
+				   </div>
+				</li>
+			</ul>
+		</div>
+        <!--Browse Products end-->
+        <!--Menu area start-->
+        <div class="menu_area">
+            <ul id="nav">
+                <li><a href="http://quinnstheprinters.com/About-Us">About Us</a>  </li>
+                <li><a href="#">Artwork Guide</a>
+                    <ul>
+                        <li><a href="http://quinnstheprinters.com/Artwork-Guide">Technical</a></li>
+                        <li><a href="http://quinnstheprinters.com/UploadArtwork">Upload Artwork</a></li>
+                    </ul>
+                </li>
+                <li><a href="http://quinnstheprinters.com/SamplePacks">Sample Packs</a></li>
+                <li><a href="http://quinnstheprinters.com/Quotation">Quotation</a></li>
+                <li><a href="http://quinnstheprinters.com/Quinns-FAQ">FAQ</a></li>
+                <!--<li><a href="sitemap.html">Site Map</a></li>-->
+                <li><a href="#">Legal</a>
+                    <ul>
+                        <li><a href="http://quinnstheprinters.com/Quinns-Delivery-Info">Delivery</a></li>
+                        <li><a href="http://quinnstheprinters.com/Payment-Info">Payment</a></li>
+                        <li><a href="http://quinnstheprinters.com/Privacy-Policy">Privacy Policy</a></li>
+                        <li><a href="http://quinnstheprinters.com/Cancellation-Policy">Cancellation Policy</a></li>
+                        <li><a href="http://quinnstheprinters.com/Refunds-Policy">Proof approval and Return policy</a></li>
+                    </ul>
+                </li>
+                <li><a href="http://quinnstheprinters.com/Contact-Us">Contact</a></li>
             </ul>
-        </li>
-        <li><a href="http://quinnstheprinters.com/SamplePacks">Sample Packs</a></li>
-        <li><a href="http://quinnstheprinters.com/Quotation">Quotation</a></li>
-        <li><a href="http://quinnstheprinters.com/Quinns-FAQ">FAQ</a></li>
-        <li><a href="sitemap.html">Site Map</a></li>
-        <li><a href="#">Legal</a>
-            <ul>
-                <li><a href="http://quinnstheprinters.com/Quinns-Delivery-Info">Delivery</a></li>
-                <li><a href="http://quinnstheprinters.com/Payment-Info">Payment</a></li>
-                <li><a href="http://quinnstheprinters.com/Privacy-Policy">Privacy Policy</a></li>
-                <li><a href="http://quinnstheprinters.com/Cancellation-Policy">Cancellation Policy</a></li>
-                <li><a href="http://quinnstheprinters.com/Refunds-Policy">Proof approval and Return policy</a></li>
-            </ul>
-        </li>
-        <li><a href="http://quinnstheprinters.com/Contact-Us">Contact</a></li>
-    </ul>
-</div>
-<!--Menu area end-->    
-
-</div>
-
+        </div>
+        <!--Menu area end-->
+    </div>
 </div>
 <!--Header end-->  <!--Main Content Starts-->
 <div class="content_area">
@@ -234,7 +432,7 @@ function goto_top() {
 <a style="cursor:default"><img src="http://quinnstheprinters.com/images/pre_payBanner.jpg" alt="Free delevery Uk, Ireland" title="Pre Pay"></a>
 </div>
 <div class="left_BarBanner">
-<a href="Specials"><img src="http://quinnstheprinters.com/images/on_accountBanner.jpg" alt="Become a partner" title="On Account"></a>
+<a style="cursor:default"><img src="http://quinnstheprinters.com/images/on_accountBanner.jpg" alt="Become a partner" title="On Account"></a>
 </div>
 </div>
 
@@ -256,110 +454,78 @@ function goto_top() {
 </div>
 <div class="clear"></div>
 
-  <div class="footer">
-
-  <div class="footer_top">
-    <div class="footerContainer">
-      <div id="payment_methods">
-      <div id="feedback_corner"><a href="http://quinnstheprinters.com/Feedback"><img src="http://quinnstheprinters.com/images/feedback_new.png" height="43" width="164" border="0"></a></div>
-        <h4>Secured Payment</h4>
-		<div class="visa"><span>VISA</span></div>
-        <div class="master_card"><span>Master Card</span></div>
-        <div class="american_express"><span>American Express</span></div>
-        <div class="discover"><span>Discover</span></div>
-        <div class="paypal"><span>Paypal</span></div>
-        <div class="hsbc"><span>HSBC</span></div>
-             </div>
-      <div class="social_networks">
-        <h4>Get connected with us</h4>
-        <div class="social_icons">
-         <a href="https://www.facebook.com/Quinnstheprinteruk" target="_blank"> <div class="facebook"><span>Facebook</span></div> </a> 
-         <a href="http://pinterest.com/printingbelfast/" target="_blank"> <div class="flickr"><span>Pinterest</span></div>  </a> 
-         <a href="https://twitter.com/irelandprinting" target="_blank"> <div class="twitter"><span>Twitter</span></div> </a>
-         <a href="http://lnkd.in/aym3jW" target="_blank"> <div class="linkedin"><span>Linkedin</span></div> </a> 
+<div class="footer">
+    <div class="footer_top">
+        <div class="footerContainer">
+            <div class="ftNav">
+                <div class="company_infoLink">
+                    <h3>Quick Links</h3>
+                    <ul>
+                        <li><a title="Products" href="http://quinnstheprinters.com/Products">Products</a></li>
+                        <li><a title="About Us" href="http://quinnstheprinters.com/About-Us">About Us</a></li>
+                        <li><a title="Cutting Formes" href="http://quinnstheprinters.com/CuttingFormes">Cutting Formes</a></li>
+                        <li><a title="Become A Partner" href="http://quinnstheprinters.com/Partner-Special">Become A Partner</a></li>
+                                            </ul>
+                    <ul>
+                        <li><a title="Artwork Guide" href="http://quinnstheprinters.com/Artwork-Guide">Artwork Guide</a></li>
+                        <li><a title="Sample Packs" href="http://quinnstheprinters.com/SamplePacks">Sample Packs</a></li>
+                        <li><a title="Quotation" href="http://quinnstheprinters.com/Quotation">Quotation</a></li>
+                        <li><a title="FAQ" href="http://quinnstheprinters.com/Quinns-FAQ">FAQ</a></li>
+                        <li><a title="Terms &amp; Conditions" href="http://quinnstheprinters.com/Terms-and-Conditions">Terms &amp; Conditions</a></li>
+                    </ul>
+                </div>
+                <div class="quick_contactLink">
+                    <h3>Get In Touch</h3>
+                    <ul>
+                        <li class="map_link"><a title="View Map" href="http://quinnstheprinters.com/Contact-Us"><div class="map-icon"></div><div class="company-address">Units 1-8 RJ Hall Industrial Estate, Wilson Street, Belfast BT13 2GA, N.Ireland</div></a></li>
+                        <li class="phone_link"><a href="tel:028 9032 3552">028 9032 3552</a></li>
+                        <li class="mail_link"><a title="Mail" href="mailto:quotes@quinnstheprinters.com"> quotes@quinnstheprinters.com </a></li>
+                    </ul>
+                </div>
+                <div class="quick_socialLink">
+                    <h3>Get Social</h3>
+                    <div class="social_icons">
+                        <a href="http://pinterest.com/printingbelfast/" target="_blank"><i class="icon-pinterest"></i></a>
+                        <a href="https://twitter.com/irelandprinting" target="_blank"><i class="icon-twitter"></i></a>
+                        <a href="http://lnkd.in/aym3jW" target="_blank"><i class="icon-linkedin"></i></a>
+                    </div>
+                    <div class="certification">
+                        <img src="http://quinnstheprinters.com/images/new/iso.png" height="72">
+                        <img src="http://quinnstheprinters.com/images/new/euro.png" height="72">
+                    </div>
+                </div>
+            </div>
         </div>
-      </div>
     </div>
-  </div>
-    
-
-
-    
-  <div class="footer_mid">
-    <div class="footerContainer">
-      <div class="ftNav">
-      <div class="company_infoLink">
-        <h3>Company Information</h3>            
-        <ul>
-          <li><a title="About Us" href="http://quinnstheprinters.com/About-Us">About Us</a></li>
-          <li><a title="Cutting Formes" href="http://quinnstheprinters.com/CuttingFormes">Cutting Formes</a></li>
-          <li><a title="Become A Partner" href="http://quinnstheprinters.com/Partner-Special">Become A Partner</a></li>  
-          <!--<li><a title="Site Map" href="sitemap.html">Site Map</a></li>-->  
-          <li><a title="Web Design" href="#">Web Design</a></li>        
-        </ul>
+    <div class="footer_mid">
+        <div class="footerContainer">
+            <div class="ftNav">
+                <div class="payments_method">
+                    <div id="feedback_corner"><a href="http://quinnstheprinters.com/Feedback"><img src="http://quinnstheprinters.com/images/feedback_new.png" height="43" width="164" border="0"></a></div>
+                    <div class="visa"><span>VISA</span></div>
+                    <div class="master_card"><span>Master Card</span></div>
+                    <div class="american_express"><span>American Express</span></div>
+                    <div class="discover"><span>Discover</span></div>
+                    <div class="paypal"><span>Paypal</span></div>
+                    <div class="hsbc"><span>HSBC</span></div>
+                </div>
+                <div class="certification_icons">
+                    <div class="site_safe"></div>
+                    <div class="bbb"></div>
+                    <div class="McAfee"></div>
+                </div>
+            </div>
         </div>
-        
-        
-        <div class="contact_usLink">
-        <h3>Contact Us</h3>            
-        <ul>
-          <li>
-          <strong>Quinn's Belfast</strong><br> 
-          	Units 1-8 RJ Hall Industrial Estate, Wilson Street, Belfast BT13 2GA, N.Ireland</li>            
-        </ul>
-        </div>
-        
-        
-        <div class="quick_contactLink">                  
-        <ul>
-          <li class="phone_link"><a style="cursor:default">028 9032 3552</a></li>
-          <li class="mail_link"><a title="Mail" href="mailto:quotes@quinnstheprinters.com"> quotes@quinnstheprinters.com </a></li>
-          <li class="map_link"><a title="View Map" href="http://quinnstheprinters.com/Contact-Us">View Map</a></li>    
-                    
-        </ul>
-        </div>  
-      </div>
-     
-      
-      <div class="certification">
-      <img src="http://quinnstheprinters.com/images/competitive_logo_jpeg.jpg" height="115">
-      <img src="http://quinnstheprinters.com/images/Seal_4c.jpg" height="115">
-      <!--<h3>Shop with Confidence</h3>
-      <div class="certification_icons">
-      <div class="site_safe"></div>
-      <div class="bbb"></div>
-      <div class="McAfee"></div>
-      </div>-->
-      </div>
-      
-      
     </div>
-  </div>
-  
-  
-  <div class="footer_bottom">
-  <div class="footerContainer">  
-  <div class="ftNotice_left">
-  <div class="ftNotice_leftNav">
-  <a href="http://quinnstheprinters.com/Artwork-Guide" title="Artwork Guide">  Artwork Guide</a> |   <a href="http://quinnstheprinters.com/Products" title="Products"> Products </a> |  <!--<a href="good_fo_print.html" title="Good For Print"> Good For Print </a> |-->  <a href="http://quinnstheprinters.com/Terms-and-Conditions" title="Terms &amp; Conditions"> Terms &amp; Conditions </a>
-  </div>
-  <div class="AllRights_Reserved"><!--&copy; Copyright of <a href="http://quinnstheprinters.com/" style="color:#666;">Quinn&rsquo;s the Printers</a> 2015. All Rights Reserved--> </div>          
-  </div>  
-  
-  <div class="ftNotice_right">
-  <!--<div class="ftLogo"><img src="images/ftLogo.png" title="Printing Service Quinns" alt="Printing Service Quinns" /></div>-->
-  <div class="certification_icons">
-      <div class="site_safe"></div>
-      <div class="bbb"></div>
-      <div class="McAfee"></div>
-      </div>
-  <!--<div class="ftright_Bottom">Powered by <a href="http://progressivecybernetics.com/" target="_blank" title="PCPL"> Progressive Cybernetics Pvt Ltd.</a></div>-->
-  </div>   
-  
-  </div>
-  </div>
-  
+    <div class="footer_bottom">
+        <div class="footerContainer">
+            <div class="footer-copyright">
+                www.quinnstheprinters.com © 2015 All Rights Reserved
+            </div>
+        </div>
+    </div>
 </div>
+
 
 
 
@@ -375,77 +541,79 @@ jQuery(document).ready(function($){
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-41965672-1', 'quinnstheprinters.com');
+//  ga('create', 'UA-41965672-1', 'quinnstheprinters.com');
+//  ga('send', 'pageview');
+  ga('create', 'UA-67263890-1', 'auto');
   ga('send', 'pageview');
 
 </script>
 
 <!-- 4 testimonials display // 19-11-2013 -->
-<div class="panel">
-	<h1>Testimonials</h1>
-    <marquee behavior="scroll" direction="up" scrollamount="2">
+<div class="panel" style="height: 80%;">
+	<p>Testimonials</p>
+    <marquee behavior="scroll" direction="up" scrollamount="2" style="height: 98%;position: relative;">
         <p>Many thanks, the job arrived a day early. We remain very happy with your service.</p>
     <a class="author">Client ( Fife )</a><br><br>
-    <a class="author" style="color:#999; margin-top:-15px;">25-07-2013</a><br><br>
+    <!--<a class="author" style="color:#999; margin-top:-15px;">25-07-2013</a>--><br><br>
     <hr size="1" color="#CCCCCC">
         <p>best service out there</p>
     <a class="author">Client ( Down )</a><br><br>
-    <a class="author" style="color:#999; margin-top:-15px;">06-01-2014</a><br><br>
+    <!--<a class="author" style="color:#999; margin-top:-15px;">06-01-2014</a>--><br><br>
     <hr size="1" color="#CCCCCC">
         <p>Excellent Quality as usual, Very Pleased.
 
 Thanks Quinns</p>
     <a class="author">Client ( Derry/Londonderry )</a><br><br>
-    <a class="author" style="color:#999; margin-top:-15px;">07-01-2014</a><br><br>
+    <!--<a class="author" style="color:#999; margin-top:-15px;">07-01-2014</a>--><br><br>
     <hr size="1" color="#CCCCCC">
         <p>My promo cards arrived today (Tuesday) and I wasn\'t expecting them until the end of the week.  Brilliant service and great quality.  Many thanks, will use again.</p>
     <a class="author">Client ( Tyrone )</a><br><br>
-    <a class="author" style="color:#999; margin-top:-15px;">07-01-2014</a><br><br>
+   <!-- <a class="author" style="color:#999; margin-top:-15px;">07-01-2014</a>--><br><br>
     <hr size="1" color="#CCCCCC">
         <p>Good clean job</p>
     <a class="author">Client ( Cheshire )</a><br><br>
-    <a class="author" style="color:#999; margin-top:-15px;">14-01-2014</a><br><br>
+    <!--<a class="author" style="color:#999; margin-top:-15px;">14-01-2014</a>--><br><br>
     <hr size="1" color="#CCCCCC">
         <p>Very prompt and efficient service, thank you very much</p>
     <a class="author">Client ( Denbighshire )</a><br><br>
-    <a class="author" style="color:#999; margin-top:-15px;">20-01-2014</a><br><br>
+    <!--<a class="author" style="color:#999; margin-top:-15px;">20-01-2014</a>--><br><br>
     <hr size="1" color="#CCCCCC">
         <p>Delivered ahead of schedule after we requested it. Thanks.</p>
     <a class="author">Client ( Dublin )</a><br><br>
-    <a class="author" style="color:#999; margin-top:-15px;">24-01-2014</a><br><br>
+   <!-- <a class="author" style="color:#999; margin-top:-15px;">24-01-2014</a>--><br><br>
     <hr size="1" color="#CCCCCC">
         <p>Clean Job</p>
     <a class="author">Client ( Cheshire )</a><br><br>
-    <a class="author" style="color:#999; margin-top:-15px;">27-01-2014</a><br><br>
+   <!-- <a class="author" style="color:#999; margin-top:-15px;">27-01-2014</a>--><br><br>
     <hr size="1" color="#CCCCCC">
         <p>Clean job</p>
     <a class="author">Client ( Cheshire )</a><br><br>
-    <a class="author" style="color:#999; margin-top:-15px;">30-01-2014</a><br><br>
+    <!--<a class="author" style="color:#999; margin-top:-15px;">30-01-2014</a>--><br><br>
     <hr size="1" color="#CCCCCC">
         <p>Great as ever!</p>
     <a class="author">Client ( Antrim )</a><br><br>
-    <a class="author" style="color:#999; margin-top:-15px;">30-01-2014</a><br><br>
+    <!--<a class="author" style="color:#999; margin-top:-15px;">30-01-2014</a>--><br><br>
     <hr size="1" color="#CCCCCC">
         <p>Thanks again for a quality job at a brilliant price</p>
     <a class="author">Client ( South Yorkshire )</a><br><br>
-    <a class="author" style="color:#999; margin-top:-15px;">31-01-2014</a><br><br>
+    <!--<a class="author" style="color:#999; margin-top:-15px;">31-01-2014</a>--><br><br>
     <hr size="1" color="#CCCCCC">
         <p>Delivered as scheduled as always. Many thanks.</p>
     <a class="author">Client ( Durham )</a><br><br>
-    <a class="author" style="color:#999; margin-top:-15px;">31-01-2014</a><br><br>
+    <!--<a class="author" style="color:#999; margin-top:-15px;">31-01-2014</a>--><br><br>
     <hr size="1" color="#CCCCCC">
         <p>Quality of job excellent once again and arrived early.
 Thank you</p>
     <a class="author">Client ( Armagh )</a><br><br>
-    <a class="author" style="color:#999; margin-top:-15px;">17-02-2014</a><br><br>
+   <!-- <a class="author" style="color:#999; margin-top:-15px;">17-02-2014</a>--><br><br>
     <hr size="1" color="#CCCCCC">
         <p>Clean job</p>
     <a class="author">Client ( Cheshire )</a><br><br>
-    <a class="author" style="color:#999; margin-top:-15px;">18-02-2014</a><br><br>
+    <!--<a class="author" style="color:#999; margin-top:-15px;">18-02-2014</a>--><br><br>
     <hr size="1" color="#CCCCCC">
         <p>Excellent service</p>
     <a class="author">Client ( Longford )</a><br><br>
-    <a class="author" style="color:#999; margin-top:-15px;">21-02-2014</a><br><br>
+    <!--<a class="author" style="color:#999; margin-top:-15px;">21-02-2014</a>--><br><br>
     <hr size="1" color="#CCCCCC">
         </marquee>
 </div>
@@ -466,14 +634,14 @@ $(function () {
     $('.slider-arrow').click(function () {
         if ($(this).hasClass('show')) {
             $(".slider-arrow, .panel").animate({
-                left: "-=190"
+                left: "-=192"
             }, 700, function () {
                 // Animation complete.
             });
             $(this).html('Testimonial').removeClass('show').addClass('hide');
         } else {
             $(".slider-arrow, .panel").animate({
-                left: "+=190"
+                left: "+=192"
             }, 700, function () {
                 // Animation complete.
             });
