@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralcommissions.net privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407072609id_/http%3A//viralcommissions.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralcommissions.net privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204203416id_/http%3A//viralcommissions.net/privacy.php) for the most accurate reproduction.*
 
 # Viral Commissions! Free Traffic Exchange | Free Advertising Free Web Traffic
 
@@ -38,5 +38,5 @@ Links: This web site contains links to other web sites. Please note that when yo
 
 © Copyright Viral Commissions All Rights Reserved 
 
-[Support](https://web.archive.org/support.php) |[Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [Spam Policy](https://web.archive.org/spam.php) | [Privacy Policy](https://web.archive.org/privacy.php) | [_Recommended Site of The Day_](https://web.archive.org/recommends.php) | [Founding Members](https://web.archive.org/founders.php)   
+[Support](http://support.viralcommissions.net/) | | [Terms & Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [Spam Policy](https://web.archive.org/spam.php) | [Privacy Policy](https://web.archive.org/privacy.php) | [_Site of The Day_](https://web.archive.org/recommends.php) | [Free Webinars](https://web.archive.org/webinars.php) | [Founding Members](https://web.archive.org/founders.php)   
 
