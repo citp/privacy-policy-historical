@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketbis.net privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627230602id_/http%3A//www.ticketbis.net/information/privacidad) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketbis.net privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204141350id_/http%3A//www.ticketbis.net/information/privacidad) for the most accurate reproduction.*
 
 # Privacy Policy | Ticketbis United Kingdom
 
