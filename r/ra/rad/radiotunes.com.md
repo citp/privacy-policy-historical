@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiotunes.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624220428id_/http%3A//www.radiotunes.com/member/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiotunes.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204121431id_/http%3A//www.radiotunes.com/member/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RadioTunes | Enjoy amazing Free Internet Radio stations
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to the [RadioTunes.com](http://www.radiotunes.com/) website ("Website") produced and maintained by SKY FM, LLC (collectively "Company" or "we", "us", or "our").
+We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to the [RadioTunes.com](http://www.radiotunes.com/) website ("Website") produced and maintained by Radio Now, LLC (collectively "Company" or "we", "us", or "our").
 
 The policies below are applicable to the Website (however accessed and/or used), whether via personal computers, mobile devices or otherwise, and other interactive features, applications or downloads that are operated by us that are made available by us. We have established this privacy policy ("Privacy Policy") to let you know the kinds of personal information we may gather during your visit to the Website, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.
 
@@ -96,4 +96,4 @@ California Civil Code Section 1798.83 permits customers of Company who are Calif
 
 The Data Controller for the website and any services provided is:
 
-SKY FM, LLC PO Box 971 Denver, CO 80201, USA
+Radio Now, LLC PO Box 971 Denver, CO 80201, USA
