@@ -1,43 +1,53 @@
-<!--The following is the downloaded HTML source of the v2cigs.com privacy policy that was archived on 2015-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150622052943id_/http%3A//www.v2cigs.com/ecigs/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the v2cigs.com privacy policy that was archived on 2015-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151205001418id_/https%3A//www.v2cigs.com/ecigs/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xml:lang="en" lang="en" class="no-js" dir="ltr"><!--<![endif]--><head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<meta charset="utf-8">
+<meta http-equiv="X-Frame-Options" content="sameorigin">
+<meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K9DMWG"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYDWVZbGwcJVFZaBw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:22,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Buy electronic cigarette kits from V2 Cigs today and receive our commitment to your privacy. ">
 <meta name="keywords" content="Privacy Policy">
 <meta name="author" content="">
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K9DMWG"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+
 <title>Privacy Policy |  V2 Cigs</title>
 
 <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-<link rel="apple-touch-icon" sizes="76x76" href="http://www.v2cigs.com/apple-favicon-76x76.png">
-<link rel="apple-touch-icon" sizes="120x120" href="http://www.v2cigs.com/apple-favicon-120x120.png">
-<link rel="apple-touch-icon" sizes="152x152" href="http://www.v2cigs.com/apple-favicon-152x152.png">
-<link rel="apple-touch-icon" sizes="180x180" href="http://www.v2cigs.com/apple-favicon-180x180.png">
-<link rel="shortcut icon" href="http://www.v2cigs.com/favicon.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.v2cigs.com/apple-favicon-76x76.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.v2cigs.com/apple-favicon-120x120.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.v2cigs.com/apple-favicon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.v2cigs.com/apple-favicon-180x180.png">
+<link rel="shortcut icon" href="https://www.v2cigs.com/favicon.png">
+
 
 <!-- Edit Add Canonical Tag --><!-- End Edit Add Canonical Tag -->
 <!-- Remove Block -->
 <script src="//cdn.optimizely.com/js/2371173421.js"></script>
+<base href="https://www.v2cigs.com/ecigs/privacy-policy/">
+<link rel="alternate" href="https://www.v2cigs.com/ecigs/privacy-policy" hreflang="en-US">
+
 <!-- End Remove Block -->
 
 
 
-<link rel="stylesheet" href="/dist/assets/css/main.f5278780.css">
+<link rel="stylesheet" href="/dist/assets/css/main.a7e87d0a.css">
 <!-- HTML5 Shiv must execute before the <body> -->
-<script src="/dist/assets/js/modernizr.d28c470b.js"></script>
+<script src="/dist/assets/js/modernizr.339920c3.js"></script>
+
+<script>
+  var globalObj = {"shopPath" : "https://www.v2cigs.com"};
+</script>
 
 <!-- Respond.js for IE8 support of HTML5 elements and media queries Note: Need to add proxy if loading css from cdn or external domain -->
 
   <!--[if lt IE 9]>
-  <script src="/dist/assets/js/respond.2e384c40.js"></script>
+  <script src="/dist/assets/js/respond.ccdc1269.js"></script>
   <![endif]-->
 
 
  <!-- Tell the browsers about our RSS feeds -->
+
 
 
 
@@ -57,16 +67,17 @@
         <span class="sr-only">Toggle navigation</span>
         <span class="icon icon-menu"></span>
       </button>
-      <a class="navbar-brand active" href="http://www.v2cigs.com">
-        <span class="icon icon-v2"></span>
+      <a class="navbar-brand active" href="https://www.v2cigs.com">
+        <span class="icon icon-v2 hidden-xs hidden-sm visible-md visible-lg"></span>
+        <img width="90" src="/images/v2-xmas-mobile-logo-2015.png" alt="V2 Christmas" class="img-responsive holiday-logo visible-xs visible-sm hidden-lg hidden-md" style="position:relative;top:-15px;">
       </a>
-      <a class="navbar-brand " href="http://www.v2cigs.com/v2pro-series">
+      <a class="navbar-brand " href="https://www.v2cigs.com/v2pro-series">
         <span class="icon icon-v2pro"></span>
       </a>
-      <a class="navbar-brand hidden-xs" href="http://www.vaporcouture.com">
+      <a class="navbar-brand hidden-xs" href="http://www.vaporcouture.com" rel="nofollow">
         <span class="icon icon-vc"></span>
       </a>
-      <a class="navbar-secondary-link hidden-xs hidden-sm text-center" href="http://www.v2cigs.com/ecigs/shipping-options">
+      <a class="navbar-secondary-link hidden-xs hidden-sm text-center" href="https://www.v2cigs.com/ecigs/shipping-options">
         Free domestic shipping<br>on orders over $50
       </a>
       <div class="navbar-secondary-text hidden-xs hidden-sm text-center">
@@ -78,64 +89,67 @@
         </div>
         <a class="navbar-secondary-link store-locator-link visible-xs visible-sm hidden-md" tooltip-placement="bottom" tooltip="Store Locator" target="_blank" href="http://locator.v2cigs.com"><span class="icon icon-room"></span></a>
         <a class="navbar-secondary-link store-locator-link visible-md visible-lg" tooltip-placement="bottom" tooltip="Store Locator" target="_blank" href="http://www.v2cigs.com/ecigs/store-locator"><span class="icon icon-room"></span></a>
-        <a href="http://www.v2cigs.com/account.php" class="navbar-secondary-link hidden-xs account-link">Account</a>
-        <a href="http://www.v2cigs.com/login.php" class="navbar-secondary-link hidden-xs login-link">Login</a>
-        <a href="http://www.v2cigs.com/cart.php" class="cart-btn" aria-label="Shopping Cart">
+        <a href="https://www.v2cigs.com/account.php" class="navbar-secondary-link hidden-xs account-link">Account</a>
+        <a href="https://www.v2cigs.com/login.php" class="navbar-secondary-link hidden-xs login-link">Login</a>
+        <a href="https://www.v2cigs.com/cart.php" class="cart-btn" aria-label="Shopping Cart">
           <span ng-mouseover="showDropdownCart()" class="icon icon-cart" aria-hidden="true"></span>
           <span class="item-count">0</span>
         </a>
         <div class="CartLink" ng-bind-html="dropdownResponse" compile-template="" style="display:none;"></div>
       </div>
     </div>
+    <div class="hidden-md hidden-lg">
+      <div class="product-added-alert text-center" style="display:none;">Your selection was added to your shopping cart</div>
+    </div>
   </div><!-- /.container -->
 </nav><!-- /.navbar -->
 <div id="shelf-1" snap-drawer="" ng-cloak="">
   <div class="shelf-contents">
       <div class="account-link">
-        <a href="http://www.v2cigs.com/account.php">MY ACCOUNT</a>
+        <a href="https://www.v2cigs.com/account.php">MY ACCOUNT</a>
       </div>
       <div class="side-nav">
         <div class="side-nav-section">
             <div class="list-group-title">OUR PRODUCTS</div>
-            <ul class="list-group"><li class="list-group-item"><a href="/v2pro-series">Vape Pens</a></li><li class="list-group-item  ">
-	<a href="http://www.v2cigs.com/categories/electronic-cigarette-starter-kits">
+            <ul class="list-group"><li class="list-group-item"><a href="/ecigs/v2-vaporizers">Vape Pens</a></li><li class="list-group-item  ">
+	<a href="https://www.v2cigs.com/categories/electronic-cigarette-starter-kits">
 		Starter Kits
 	</a>
 
 	
 </li><li class="list-group-item  ">
-	<a href="http://www.v2cigs.com/categories/electronic-cigarette-cartridges">
+	<a href="https://www.v2cigs.com/categories/electronic-cigarette-cartridges">
 		Cartridges
 	</a>
 
 	
 </li><li class="list-group-item  ">
-	<a href="http://www.v2cigs.com/categories/e-cigarette-liquid">
+	<a href="https://www.v2cigs.com/categories/e-cigarette-liquid">
 		E-Liquids
 	</a>
 
 	
 </li><li class="list-group-item  ">
-	<a href="http://www.v2cigs.com/categories/e-cig-batteries">
+	<a href="https://www.v2cigs.com/categories/e-cig-batteries">
 		Batteries
 	</a>
 
 	
 </li><li class="list-group-item  ">
-	<a href="http://www.v2cigs.com/categories/e-cig-accessories">
+	<a href="https://www.v2cigs.com/categories/e-cig-accessories">
 		Accessories
 	</a>
 
 	
 </li><li class="list-group-item  ">
-	<a href="http://www.v2cigs.com/categories/disposable-electronic-cigarettes">
+	<a href="https://www.v2cigs.com/categories/disposable-electronic-cigarettes">
 		Disposables
 	</a>
 
 	
 </li><li class="list-group-item last ">
-	<a href="http://www.v2cigs.com/categories/e-cigarette-sale">
-		Sale
+	<a href="https://www.v2cigs.com/categories/holiday">
+		Holiday
 	</a>
 
 	
@@ -144,16 +158,17 @@
         <div class="side-nav-section">
             <div class="list-group-title">OUR BRANDS</div>
             <ul class="list-group">
-              <li class="list-group-item"><a href="http://www.v2cigs.com/v2pro-series">V2 Pro</a></li>
-              <li class="list-group-item"><a href="http://www.vaporcouture.com">Vapour Couture</a></li>
+              <li class="list-group-item"><a href="https://www.v2cigs.com/ecigs/v2pro-series">V2 Pro</a></li>
+              <li class="list-group-item"><a href="http://www.vaporcouture.com" rel="nofollow">Vapour Couture</a></li>
             </ul>
         </div>
         <div class="side-nav-section">
             <div class="list-group-title">CUSTOMER SERVICE</div>
             <ul class="list-group">
-              <li class="list-group-item"><a href="http://www.v2cigs.com/ecigs/shipping-options">Shipping Options</a></li>
-              <li class="list-group-item"><a href="http://www.v2cigs.com/ecigs/return-policy">Return Policy</a></li>
-              <li class="list-group-item"><a href="http://www.v2cigs.com/ecigs/faq">FAQ</a></li>
+              <li class="list-group-item"><a href="https://www.v2cigs.com/ecigs/order-status">Order Status</a></li>
+              <li class="list-group-item"><a href="https://www.v2cigs.com/ecigs/shipping-options">Shipping Options</a></li>
+              <li class="list-group-item"><a href="https://www.v2cigs.com/ecigs/return-policy">Return Policy</a></li>
+              <li class="list-group-item"><a href="https://www.v2cigs.com/ecigs/faq">FAQ</a></li>
             </ul>
         </div>
         <div class="side-nav-section">
@@ -186,20 +201,21 @@
         </div>
     </div>
     <div class="row text-center navbar-footer visible-xs visible-sm">
-        <div class="col-xs-6 col-sm-6">18+ to purchase</div>
+        <div class="col-xs-6 col-sm-6 minors">18+ to purchase</div>
         <div class="col-xs-6 col-sm-6 free-shipping">Free domestic shipping<br>on orders over $50</div>
     </div>
     <div class="row">
         
 <div class="holiday-messaging span-24 last paper-effect hide">
-    <a href="#" style="text-decoration:none;"><div class="msg" style="background-color:;padding:7px 15px"><p style="color:"></p></div></a>
+    <div class="msg" style="background-color:;padding:7px 15px"><p style="color:"></p></div>
 </div>
   </div>
 </div>
 <div class="container">
     <div class="row hidden-xs hidden-sm desktop-branding header-bottom-border no-margin no-gutter">
         <div class="col-md-2 col-lg-2">
-            <a href="http://www.v2cigs.com" class="logo-link"><span class="icon icon-v2"></span></a>
+            <!-- <a href="https://www.v2cigs.com" class="logo-link"><span class="icon icon-v2"></span></a> -->
+            <a href="https://www.v2cigs.com" class="logo-link"><img src="/images/v2-xmas-logo-2015.png" alt="V2 Christmas" class="img-responsive"></a>
         </div>
         <div class="col-md-10 col-lg-10">
             <div class="row vertical-align-center">
@@ -238,7 +254,10 @@
                                 <li>
                                     <a href="/ecigs/contact">Contact</a>
                                 </li>
-
+                                <li>
+                                    <a href="/ecigs/order-status">Order Status</a>
+                                </li>
+                            
                                 <li>
                                     <a href="/ecigs/shipping-options">Shipping</a>
                                 </li>
@@ -248,6 +267,13 @@
 
                                 <li>
                                     <a href="/ecigs/warranty">Warranty </a>
+                                </li>
+                                 <li>
+                                    <a href="/ecigs/batch-testing">Batch Testing</a>
+                                </li>
+                                
+                                <li>
+                                    <a href="/ecigs/vape-4-free">Vape 4 Free</a>
                                 </li>
 
                                 <li>
@@ -270,37 +296,35 @@
                                 <span class="caret"></span>
                               </button>
                               <ul class="dropdown-menu" role="menu">
-                                <li>
-                                    <a href="/ecigs/electronic-cigarette-flavors">Flavors</a>
-                                </li>
 
                                 <li>
                                     <a href="/ecigs/critic-reviews">Industry Reviews</a>
                                 </li>
                                 <li>
+                                    <a href="/ecigs/electronic-cigarette-flavors">Flavors</a>
+                                </li>
+                                <li>
                                     <a href="/ecigs/product-reviews">Customer Reviews</a>
                                 </li>
-
                                 <li>
-                                    <a href="/ecigs/batch-testing">Quality/Batch Testing</a>
+                                    <a href="http://www.v2cigs.com/blog/" rel="nofollow">Blog</a>
                                 </li>
-
                                 <li>
-                                    <a href="/ecigs/vape-4-free">Vape 4 Free</a>
+                                    <a href="http://forum.v2cigs.com/" rel="nofollow">Forum</a>
+                                </li>
+                                <li>
+                                    <a href="/ecigs/v2-news">V2 News</a>
+                                </li>
+                                <li>
+                                    <a href="http://money.v2profit.com/" rel="nofollow">Affiliate Program</a>
+                                </li>
+                                <li>
+                                    <a href="/ecigs/business-to-business">Retail &amp; Wholesale</a>
                                 </li>
 
                                 <li>
                                     <a href="/ecigs/vs-tobacco-cigarettes">Compare to Tobacco Cigs</a>
                                 </li>
-
-                                <li>
-                                    <a href="/ecigs/partner-with-us">Partner With Us</a>
-                                </li>
-
-                                <li>
-                                    <a href="/ecigs/connect-with-us">Connect</a>
-                                </li>
-
                               </ul>
                             </div>
                         </li>
@@ -308,38 +332,38 @@
                         <li>
                             <div class="dropdown" dropdown="">
                               <button class="btn btn-default dropdown-toggle" type="button" aria-expanded="true" dropdown-toggle="">
-                                <img src="http://www.v2cigs.com/images/flags/us.gif" class="flag"> 
+                                <img src="https://www.v2cigs.com/images/flags/us.gif" class="flag"> 
                                 <span class="caret"></span>
                               </button>
                               <ul class="dropdown-menu" role="menu">
                                 <li>
-                                    <a href="http://www.v2cigs.com"><img src="http://www.v2cigs.com/images/flags/us.gif" class="flag">US: $</a>
+                                    <a href="https://www.v2cigs.com"><img src="https://www.v2cigs.com/images/flags/us.gif" class="flag">US: $</a>
                                     <ul>
-                                        <li><a href="http://www.v2cigs.com">English</a></li>
+                                        <li><a href="https://www.v2cigs.com">English</a></li>
                                     </ul>
                                 </li>
 
                                 <li>
-                                    <a href="http://www.vapour2.eu" target="_blank"><img src="http://www.v2cigs.com/images/flags/europeanunion.gif" class="flag">EU: €</a>
+                                    <a href="http://www.vapour2.eu" rel="nofollow" target="_blank"><img src="https://www.v2cigs.com/images/flags/europeanunion.gif" class="flag">EU: €</a>
                                     <ul>
-                                        <li><a href="http://fr.vapour2.eu" target="_blank">Français</a></li>
-                                        <li><a href="http://de.vapour2.eu" target="_blank">Deutsch</a></li>
-                                        <li><a href="http://www.vapour2.eu" target="_blank">English</a></li>
+                                        <li><a href="http://fr.vapour2.eu" rel="nofollow" target="_blank">Français</a></li>
+                                        <li><a href="http://de.vapour2.eu" rel="nofollow" target="_blank">Deutsch</a></li>
+                                        <li><a href="http://www.vapour2.eu" rel="nofollow" target="_blank">English</a></li>
                                     </ul>
                                 </li>
 
                                 <li>
-                                    <a href="http://www.buyv2cigs.co.uk"><img src="http://www.v2cigs.com/images/flags/gb.gif" class="flag">UK: £</a>
+                                    <a href="http://www.buyv2cigs.co.uk" rel="nofollow"><img src="https://www.v2cigs.com/images/flags/gb.gif" class="flag">UK: £</a>
                                     <ul>
-                                        <li><a href="http://www.buyv2cigs.co.uk" target="_blank">English</a></li>
+                                        <li><a href="http://www.buyv2cigs.co.uk" target="_blank" rel="nofollow">English</a></li>
                                     </ul>
                                 </li>
 
                                 <li>
-                                    <a href="http://www.vapour2.cz" target="_blank"><img src="http://www.v2cigs.com/images/flags/cz.gif" class="flag">CZ: Kč</a>
+                                    <a href="http://www.vapour2.cz" target="_blank" rel="nofollow"><img src="https://www.v2cigs.com/images/flags/cz.gif" class="flag">CZ: Kč</a>
                                     <ul>
-                                        <li><a href="http://www.vapour2.cz" target="_blank">Czech</a></li>
-                                        <li><a href="http://en.vapour2.cz" target="_blank">English</a></li>
+                                        <li><a href="http://www.vapour2.cz" target="_blank" rel="nofollow">Czech</a></li>
+                                        <li><a href="http://en.vapour2.cz" target="_blank" rel="nofollow">English</a></li>
                                     </ul>
                                 </li>
                               </ul>
@@ -353,45 +377,45 @@
     <div class="hidden-xs hidden-sm col-md-10 col-lg-10">
         <div class="row top-nav no-gutter">
             <div class="col-md-12 col-lg-12">
-                <ul class="list-group"><li class="list-group-item"><a href="/v2pro-series">Vape Pens</a></li><li class="list-group-item  ">
-	<a href="http://www.v2cigs.com/categories/electronic-cigarette-starter-kits">
+                <ul class="list-group"><li class="list-group-item"><a href="/ecigs/v2-vaporizers">Vape Pens</a></li><li class="list-group-item  ">
+	<a href="https://www.v2cigs.com/categories/electronic-cigarette-starter-kits">
 		Starter Kits
 	</a>
 
 	
 </li><li class="list-group-item  ">
-	<a href="http://www.v2cigs.com/categories/electronic-cigarette-cartridges">
+	<a href="https://www.v2cigs.com/categories/electronic-cigarette-cartridges">
 		Cartridges
 	</a>
 
 	
 </li><li class="list-group-item  ">
-	<a href="http://www.v2cigs.com/categories/e-cigarette-liquid">
+	<a href="https://www.v2cigs.com/categories/e-cigarette-liquid">
 		E-Liquids
 	</a>
 
 	
 </li><li class="list-group-item  ">
-	<a href="http://www.v2cigs.com/categories/e-cig-batteries">
+	<a href="https://www.v2cigs.com/categories/e-cig-batteries">
 		Batteries
 	</a>
 
 	
 </li><li class="list-group-item  ">
-	<a href="http://www.v2cigs.com/categories/e-cig-accessories">
+	<a href="https://www.v2cigs.com/categories/e-cig-accessories">
 		Accessories
 	</a>
 
 	
 </li><li class="list-group-item  ">
-	<a href="http://www.v2cigs.com/categories/disposable-electronic-cigarettes">
+	<a href="https://www.v2cigs.com/categories/disposable-electronic-cigarettes">
 		Disposables
 	</a>
 
 	
 </li><li class="list-group-item last ">
-	<a href="http://www.v2cigs.com/categories/e-cigarette-sale">
-		Sale
+	<a href="https://www.v2cigs.com/categories/holiday">
+		Holiday
 	</a>
 
 	
@@ -420,8 +444,8 @@
         <div class="container">
           <div class="hidden-xs hidden-sm"><div class="">
 	<ul class="breadcrumb">
-		<li><a href="http://www.v2cigs.com/">V2 Cigs</a></li>
-		<li><a href="http://www.v2cigs.com/ecigs/contact">Customer Service</a></li><li>Privacy Policy</li>
+		<li><a href="https://www.v2cigs.com/">V2 Cigs</a></li>
+		<li><a href="https://www.v2cigs.com/ecigs/contact">Customer Service</a></li><li>Privacy Policy</li>
 	</ul>
 </div></div>
           <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -489,12 +513,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                    <div class="social-media">
+                    <div class="social-media hidden-xs">
                         <div class="icons">
                             <div class="white-bg">
                                 <a href="https://www.facebook.com/V2Cigs" alt="V2Cigs Faceboook Page" rel="nofollow"><span class="icon icon-facebook"></span></a>
                                 <a href="http://www.twitter.com/v2cigs" alt="V2Cis Twitter Feed" rel="nofollow"><span class="icon icon-twitter"></span></a>
-                                <a href="http://www.pintrest.com/v2cigs" alt="V2Cigs Pinterest Page" rel="nofollow"><span class="icon icon-pinterest"></span></a>
+                                <a href="https://www.pinterest.com/v2cigs/" alt="V2Cigs Pinterest Page" rel="nofollow"><span class="icon icon-pinterest"></span></a>
                                 <a href="http://www.youtube.com/user/V2cigsvideos" alt="V2Cigs Youtube Page" rel="nofollow"><span class="icon icon-youtube-btn"></span></a>
                             </div>
                         </div>
@@ -506,6 +530,7 @@
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                     <p>YOU MUST BE OF LEGAL SMOKING AGE TO BUY AND/OR USE ANY V2 CIGS PRODUCT.</p>
                     <p class="hidden-xs">V2 Cigs products are not for use by persons under legal smoking age. Keep out of reach of children and pets. If swallowed, this product can present a choking hazard. Nicotine is addictive and can be toxic if inhaled or ingested and may cause irritation if it comes into contact with your eyes or skin. Wash immediately with soap and water upon contact. Like other products with nicotine, you should not use this product if you are pregnant or breastfeeding, have or are at risk of heart disease, high blood pressure, diabetes, if you are taking medicines for depression or asthma or if you are allergic to nicotine, propylene glycol, or any combination of inhalants. Discontinue use and consult a physician if you experience symptoms of nicotine misuse such as nausea, vomiting, dizziness, diarrhea, weakness or rapid heartbeat. This product does not treat, diagnose or cure any disease, physical ailment or condition. This product is not marketed for use as a smoking cessation product and is not intended for use by non-smokers. This product and the statements made herein have not been evaluated by the FDA, or any other health or regulatory authority. WARNING: V2 Cigs products with nicotine contain a chemical known to the state of California to cause birth defects or other reproductive harm.  </p>
+                    <p class="text-center" style="font-size: 14px;">WARNING: Using this product will expose the user to chemicals, including nicotine, known to the State of California to cause cancer and birth defects or other reproductive harm.</p>
                 </div>
             </div>
             <div class="row hidden-xs desktop-footer">
@@ -520,39 +545,42 @@
                                 <nav class="accordion-content" role="navigation">
                                     <ul class="list-unstyled">
                                         <li class="childLinks">
-                                            <a href="http://www.v2cigs.com/ecigs/how-v2-works">Learn About V2</a>
+                                            <a href="https://www.v2cigs.com/ecigs/how-v2-works">Learn About V2</a>
                                         </li>
                                         <li class="childLinks">
-                                            <a href="http://www.v2cigs.com/ecigs/vs-tobacco-cigarettes">E Cig Comparisons</a>
+                                            <a href="https://www.v2cigs.com/ecigs/vs-tobacco-cigarettes">E Cig Comparisons</a>
                                         </li>
                                         <li class="childLinks">
-                                            <a href="http://www.v2cigs.com/ecigs/connect-with-us">The V2 Community</a>
+                                            <a href="https://www.v2cigs.com/ecigs/connect-with-us">The V2 Community</a>
                                         </li>
                                         <li class="childLinks">
-                                            <a href="http://www.v2cigs.com/ecigs/shipping-options">Shipping Options</a>
+                                            <a href="https://www.v2cigs.com/ecigs/shipping-options">Shipping Options</a>
                                         </li>
                                         <li class="childLinks">
-                                            <a href="http://www.v2cigs.com/ecigs/contact">Customer Service</a>
+                                            <a href="https://www.v2cigs.com/ecigs/contact">Customer Service</a>
                                         </li>
                                         <li class="childLinks">
-                                            <a href="http://www.v2cigs.com/ecigs/store-locator">Store Locator</a>
+                                            <a href="https://www.v2cigs.com/ecigs/store-locator">Store Locator</a>
                                         </li>
                                     </ul>
                                     <ul class="list-unstyled">
                                         <li class="childLinks">
-                                            <a href="http://www.v2cigs.com/ecigs/warranty">Lifetime Warranty</a>
+                                            <a href="https://www.v2cigs.com/ecigs/warranty">Lifetime Warranty</a>
                                         </li>
                                         <li class="childLinks">
-                                            <a href="http://money.v2cigs.com/" target="_blank" rel="nofollow">Affiliate Program</a>
+                                            <a href="https://www.v2cigs.com/ecigs/business-to-business">Retail &amp; Wholesale</a>
                                         </li>
                                         <li class="childLinks">
-                                            <a href="http://www.v2cigs.com/ecigs/privacy-policy">Privacy Policy</a>
+                                            <a href="http://money.v2profit.com/" target="_blank" rel="nofollow">Affiliate Program</a>
                                         </li>
                                         <li class="childLinks">
-                                            <a href="http://www.v2cigs.com/ecigs/terms-of-use">Terms of Use</a>
+                                            <a href="https://www.v2cigs.com/ecigs/privacy-policy">Privacy Policy</a>
                                         </li>
                                         <li class="childLinks">
-                                            <a href="http://www.v2cigs.com/sitemap">Sitemap</a>
+                                            <a href="https://www.v2cigs.com/ecigs/terms-of-use">Terms of Use</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2cigs.com/sitemap">Sitemap</a>
                                         </li>
                                     </ul>
                                 </nav>
@@ -564,19 +592,19 @@
                                 <nav class="accordion-content" role="navigation">
                                     <ul class="list-unstyled">
                                             <li class="childLinks">
-                                                <a href="http://www.v2cigs.com/categories/electronic-cigarette-starter-kits">Starter Kits</a>
+                                                <a href="https://www.v2cigs.com/categories/electronic-cigarette-starter-kits">Starter Kits</a>
                                             </li>
                                             <li class="childLinks">
-                                                <a href="http://www.v2cigs.com/categories/electronic-cigarette-cartridges">Cartridges</a>
+                                                <a href="https://www.v2cigs.com/categories/electronic-cigarette-cartridges">Cartridges</a>
                                             </li>
                                             <li class="childLinks">
-                                                <a href="http://www.v2cigs.com/categories/e-cig-batteries">Batteries</a>
+                                                <a href="https://www.v2cigs.com/categories/e-cig-batteries">Batteries</a>
                                             </li>
                                             <li class="childLinks">
-                                                <a href="http://www.v2cigs.com/categories/e-cig-accessories">Accessories</a>
+                                                <a href="https://www.v2cigs.com/categories/e-cig-accessories">Accessories</a>
                                             </li>
                                             <li class="childLinks">
-                                                <a href="http://www.v2cigs.com/giftcertificates.php">e-Gift Certificates</a>
+                                                <a href="https://www.v2cigs.com/giftcertificates.php">e-Gift Certificates</a>
                                             </li>
                                     </ul>
                                 </nav>
@@ -586,7 +614,7 @@
                                     <h4 class="accordion-label">PAYMENTS / SHIPPING</h4>
                                 </div>
                                 <nav class="accordion-content" role="navigation">
-                                    <img style="margin-top:0;" width="165" height="76" src="http://www.v2cigs.com/templates/v2v3/images/grey/shipping-options-new.jpg" alt="Shipping Options">
+                                    <img style="margin-top:0;" width="165" height="76" src="https://www.v2cigs.com/images/shipping-options-new.jpg" alt="Shipping Options">
                                 </nav>
                             </div>
                             <div class="col-sm-2 col-md-2 accordion-item">
@@ -596,7 +624,7 @@
                                 <nav class="accordion-content" role="navigation">
                                     <!-- Remove Block -->
                                     <div id="footer_btm_security" class="span-3">
-                                        <iframe style="width:120px;" src="http://www.v2cigs.com/security-icons.html"></iframe>
+                                        <iframe style="width:120px;" src="https://www.v2cigs.com/security-icons.html"></iframe>
                                     </div>
                                     <!-- End Remove Block -->
                                 </nav>
@@ -609,7 +637,7 @@
                                     <div id="footer_btm_sfata" class="span-4 last" style="margin-left:10px;">
                                         <div style="margin:5px 0 0; text-align:center;">
                                             <a href="http://www.sfata.org" target="_blank">
-                                                <img src="http://www.v2cigs.com/templates/v2v3/images/grey/sfata-seal.png" width="100" height="84" alt="SFATA" border="0">
+                                                <img src="https://www.v2cigs.com/images/sfata-seal.png" width="100" height="84" alt="SFATA" border="0">
                                             </a>
                                         </div>
                                     </div>
@@ -632,19 +660,19 @@
                             <nav class="accordion-content" role="navigation">
                                 <ul class="list-unstyled">
                                         <li class="childLinks">
-                                            <a href="http://www.v2cigs.com/ecigs/how-v2-works">Learn About V2</a>
+                                            <a href="https://www.v2cigs.com/ecigs/how-v2-works">Learn About V2</a>
                                         </li>
                                         <li class="childLinks">
-                                            <a href="http://www.v2cigs.com/ecigs/vs-tobacco-cigarettes">E Cig Comparisons</a>
+                                            <a href="https://www.v2cigs.com/ecigs/vs-tobacco-cigarettes">E Cig Comparisons</a>
                                         </li>
                                         <li class="childLinks">
-                                            <a href="http://www.v2cigs.com/ecigs/connect-with-us">The V2 Community</a>
+                                            <a href="https://www.v2cigs.com/ecigs/connect-with-us">The V2 Community</a>
                                         </li>
                                         <li class="childLinks">
-                                            <a href="http://www.v2cigs.com/ecigs/shipping-options">Shipping Options</a>
+                                            <a href="https://www.v2cigs.com/ecigs/shipping-options">Shipping Options</a>
                                         </li>
                                         <li class="childLinks">
-                                            <a href="http://www.v2cigs.com/ecigs/contact">Customer Service</a>
+                                            <a href="https://www.v2cigs.com/ecigs/contact">Customer Service</a>
                                         </li>
                                         <li class="childLinks">
                                             <a href="http://locator.v2cigs.com" target="_blank">Store Locator</a>
@@ -652,19 +680,22 @@
                                     </ul>
                                     <ul class="list-unstyled">
                                         <li class="childLinks">
-                                            <a href="http://www.v2cigs.com/ecigs/warranty">Lifetime Warranty</a>
+                                            <a href="https://www.v2cigs.com/ecigs/warranty">Lifetime Warranty</a>
                                         </li>
                                         <li class="childLinks">
-                                            <a href="http://money.v2cigs.com/" target="_blank" rel="nofollow">Affiliate Program</a>
+                                            <a href="https://www.v2cigs.com/ecigs/business-to-business">Retail &amp; Wholesale</a>
                                         </li>
                                         <li class="childLinks">
-                                            <a href="http://www.v2cigs.com/ecigs/privacy-policy">Privacy Policy</a>
+                                            <a href="http://money.v2profit.com/" target="_blank" rel="nofollow">Affiliate Program</a>
                                         </li>
                                         <li class="childLinks">
-                                            <a href="http://www.v2cigs.com/ecigs/terms-of-use">Terms of Use</a>
+                                            <a href="https://www.v2cigs.com/ecigs/privacy-policy">Privacy Policy</a>
                                         </li>
                                         <li class="childLinks">
-                                            <a href="http://www.v2cigs.com/sitemap">Sitemap</a>
+                                            <a href="https://www.v2cigs.com/ecigs/terms-of-use">Terms of Use</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2cigs.com/sitemap">Sitemap</a>
                                         </li>
                                     </ul>
                             </nav>
@@ -678,19 +709,19 @@
                             <nav class="accordion-content" role="navigation">
                                     <ul class="list-unstyled">
                                             <li class="childLinks">
-                                                <a href="http://www.v2cigs.com/categories/electronic-cigarette-starter-kits">Starter Kits</a>
+                                                <a href="https://www.v2cigs.com/categories/electronic-cigarette-starter-kits">Starter Kits</a>
                                             </li>
                                             <li class="childLinks">
-                                                <a href="http://www.v2cigs.com/categories/electronic-cigarette-cartridges">Cartridges</a>
+                                                <a href="https://www.v2cigs.com/categories/electronic-cigarette-cartridges">Cartridges</a>
                                             </li>
                                             <li class="childLinks">
-                                                <a href="http://www.v2cigs.com/categories/e-cig-batteries">Batteries</a>
+                                                <a href="https://www.v2cigs.com/categories/e-cig-batteries">Batteries</a>
                                             </li>
                                             <li class="childLinks">
-                                                <a href="http://www.v2cigs.com/categories/e-cig-accessories">Accessories</a>
+                                                <a href="https://www.v2cigs.com/categories/e-cig-accessories">Accessories</a>
                                             </li>
                                             <li class="childLinks">
-                                                <a href="http://www.v2cigs.com/giftcertificates.php">e-Gift Certificates</a>
+                                                <a href="https://www.v2cigs.com/giftcertificates.php">e-Gift Certificates</a>
                                             </li>
                                     </ul>
                                 </nav>                      
@@ -704,7 +735,7 @@
                             <nav class="accordion-content" role="navigation">
                                 <!-- Remove Block -->
                                 <div id="footer_btm_security" class="span-3">
-                                    <iframe style="width:120px;" src="http://www.v2cigs.com/security-icons.html"></iframe>
+                                    <iframe style="width:120px;" src="https://www.v2cigs.com/security-icons.html"></iframe>
                                 </div>
                                 <!-- End Remove Block -->
                             </nav>
@@ -763,9 +794,30 @@
     <!--! .footer-copyright -->
 
 </footer>
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "V2",
+  "url" : "https://www.v2cigs.com/",
+  "sameAs" : [
+    "https://www.facebook.com/V2Cigs",
+    "https://twitter.com/v2cigs",
+    "https://www.pinterest.com/v2cigs/",
+    "https://www.youtube.com/user/V2cigsvideos"
+  ]
+}
+</script>
       </div>
-      <!-- Placed at the end of the document so the pages load faster -->
-<script src="/dist/assets/js/main.39889358.js"></script>
+      <div id="detect-breakpoints">
+    <div class="breakpoint device-xs visible-xs"></div>
+    <div class="breakpoint device-sm visible-sm"></div>
+    <div class="breakpoint device-md visible-md"></div>
+    <div class="breakpoint device-lg visible-lg"></div>
+</div>
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="/dist/assets/js/main.8d6aa220.js"></script>
+<!-- Remove Block -->
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-K9DMWG"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -776,27 +828,23 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-K9DMWG');</script>
 <!-- End Google Tag Manager -->
+<!-- End Remove Block -->
+<script src="https://www.google.com/recaptcha/api.js?onload=vcRecaptchaApiLoaded&amp;render=explicit" async="" defer=""></script>
 <!-- Remove Block -->
-<iframe style="width:1px;" height="1px" src="https://money.v2cigs.com/track.php"></iframe>
+<iframe style="width:1px;" height="1px" src="https://money.v2profit.com/track.php"></iframe>
 <!-- End Remove Block -->
 <!--  -->
 <br class="Clear">
-<!-- REMOTE_ADDR............192.168.100.1
-HTTP_TRUE_CLIENT_IP....207.241.226.204  -->
+<!-- REMOTE_ADDR............198.63.196.224
+HTTP_TRUE_CLIENT_IP....207.241.225.195  -->
 <!-- Include visitor tracking code (if any) -->
-<!-- Remove Block --><script type="text/javascript" src="http://www.v2cigs.com/index.php?action=tracking_script"></script><!-- End Remove Block --><!-- Start Tracking Code for analytics_googleanalytics -->
+<!-- Remove Block --><script async="true" type="text/javascript" src="https://www.v2cigs.com/index.php?action=tracking_script"></script><!-- End Remove Block --><!-- Start Tracking Code for analytics_googleanalytics -->
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-</script>
+ 
 
 <!-- End Tracking Code for analytics_googleanalytics -->
 
-<script>ga('create', 'UA-16173922-1', 'auto'); ga('send', 'pageview');
-				  </script>
+
 
 
 
@@ -809,6 +857,6 @@ HTTP_TRUE_CLIENT_IP....207.241.226.204  -->
 
 <!-- Remove Block -->
 <script>$( document ).ready(function() {var whosOnLoad = function() {if(typeof sWOTrackPage=='function'){sWOTrackPage();customWhoson();}};$.cachedScript('//v2cigs.whoson.com/include.js?domain=www.v2cigs.com').done(whosOnLoad);});</script>
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-6.newrelic.com","e8d3a289f4","490780","blEDYRQCDxIEUEcNClcbIkAVFw4MSkNSAwBKGw==",0,225,new Date().getTime(),"","","","",""]);</script>
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e8d3a289f4","applicationID":"490780","transactionName":"blEDYRQCDxIEUEcNClcbIkAVFw4MSkNSAwBKGw==","queueTime":0,"applicationTime":170,"atts":"QhYAF1wYHBw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
+</body></html>
