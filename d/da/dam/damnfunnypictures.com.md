@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the damnfunnypictures.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502165815id_/http%3A//www.damnfunnypictures.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damnfunnypictures.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204153218id_/http%3A//www.damnfunnypictures.com/privacy.html) for the most accurate reproduction.*
 
 # damnfunnypictures.com | Privacy Policy
 
