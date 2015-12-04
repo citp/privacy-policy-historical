@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the worthofblog.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408101432id_/http%3A//www.worthofblog.com/privacy-policy-of-worthofblog) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worthofblog.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204055020id_/http%3A//www.worthofblog.com/privacy) for the most accurate reproduction.*
 
-# privacy policy | Worth of BLog
+# Privacy
 
-At [**worthofblogdotcom**](http://www.worthofblog.com/ "Home"), the privacy of our readers is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by worthofblogdotcom and how we make use of it.
+At **worthofblogdotcom** , the privacy of our readers is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by worthofblogdotcom and how we make use of it.
 
-Our privacy policy governs the manner in which worthofblogdotcom collects, uses, maintain information. you can view our about page to know more [about us](http://www.worthofblog.com/worth-of-blog-about-page/ "About us - come close").
+Our privacy policy governs the manner in which worthofblogdotcom collects, uses, maintain information. you can view our about page to know more about us.
 
 **Web browser cookies**
 
@@ -29,4 +29,4 @@ Worthofblogdotcom may collect and use Users personal information for the followi
 
 Worthofblogdotcom has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [worthofblog@gmail.com](mailto:worthofblog@gmail.com) or via our [contact page](http://www.worthofblog.com/contact/ "contact us").
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [worthofblog@gmail.com](mailto:worthofblog@gmail.com) or via our [contact page](http://www.worthofblog.com/contact/).
