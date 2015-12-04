@@ -1,14 +1,17 @@
-> *The following text is extracted and transformed from the sparkletowels.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504052834id_/http%3A//gp.com/Footer/Legal/Privacy-Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkletowels.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204121931id_/http%3A//gp.com/Footer/Legal/Privacy-Notice) for the most accurate reproduction.*
 
 # Georgia-Pacific Privacy Notice
 
-[Privacy Notice in Spanish](https://web.archive.org/Footer/Legal/Privacy-Notice-Spanish)
+UPDATED JUNE 19, 2015
+
+[Privacy Notice In Spanish](https://web.archive.org/Footer/Legal/Privacy-Notice-Spanish)
 
 #### Navigation links:
 
   * How We Collect Information
   * How We Use Your Information
   * Your California Privacy Rights
+  * Your Choices 
   * Safe Harbor Privacy Notice
   * Targeted Advertising Opt-Out
 
@@ -24,7 +27,7 @@ Your privacy is important to us. This Privacy Notice details how we, Georgia-Pac
 
 
 
-The following sections summarize our practices. You may click the links in each section for a more complete description. Please also review our [Terms of Use,](https://web.archive.org/Footer/Legal/Terms-of-Use)which govern your use of our Internet services. If there is a conflict between this Privacy Notice and terms or practices posted for a specific service, the additional terms or practices apply to your use of that service.
+The following sections summarize our practices. You may click the links in each section for a more complete description. Please also review our [Terms of Use,](https://web.archive.org/Footer/Legal/Terms-of-Use) which govern your use of our Internet services. If there is a conflict between this Privacy Notice and terms or practices posted for a specific service, the additional terms or practices apply to your use of that service.
 
 #### Information we collect
 
@@ -42,11 +45,7 @@ We collect both personal information, that is, information that identifies you, 
 
 We use your information to communicate with you about our products, services, and promotions, including via online advertising, to get your feedback on our products and services, to manage and improve our business and our online presence, and for other purposes we describe in the Privacy Notice. We may share your information with certain service providers and marketing partners, if we are required to provide the data by law, or as part of the sale of any portion of our company. We do not share your personal information with third parties except as described in this Privacy Notice. Please click here for more information.
 
-**
-
 #### Your choices
-
-**
 
 We offer you certain choices about how we collect, use, and share information about you and how we communicate with you, including choices regarding:
 
@@ -57,13 +56,11 @@ We offer you certain choices about how we collect, use, and share information ab
 
 
 
-Please click here for more information.
-
 ### Information Practices
 
 #### How We Collect Information
 
-We may collect information about you from various sources and by various means. Specifically, we may obtain information about you: 
+We may collect information about you from various sources and by various means. Specifically, we may obtain information about you:
 
   * On our websites (e.g., when you submit requests for product information or product samples, sign up for business alerts, or participate in our online contests, sweepstakes, and other promotions) 
   * When you contact us by email, phone, or other means 
@@ -76,7 +73,7 @@ We may collect information about you from various sources and by various means. 
 
 
 
-In addition to the information you provide directly to us and the data we obtain from third parties, our Internet services use a variety of technologies to automatically collect the usage information described in the "Information We Collect" section below. We collect usage information through:
+In addition to the information you provide directly to us and the data we obtain from third parties, our Internet services use a variety of technologies to automatically collect usage information, such as:
 
   * _Cookies._ Our websites may place "cookies" on your device and access these cookies during subsequent uses. Furthermore, our websites may allow third parties to place and access cookies on your device. Our websites may also identify cookies of third parties that are present on your computer. Cookies enable us and third parties to identify your specific device on subsequent visits to our sites and third party sites. By identifying returning visitors, we can obtain more precise usage data, provide customized versions of our sites, and store your preferences. Our sites may also set and access cookies that retain personal information, such as your login credentials for our sites. 
   * _Referrer headers._ We may record referrer headers when you follow links to our web services. A web browser sends a referrer header to a destination site when the user clicks on a link to that site. The header contains the Internet address or URL of the site linking to the destination site. The referrer header may provide information about your interaction with the linking site. For example, if you follow a link to one of our web services from a search engine, we may be able to determine and store the search query that you used to find our site. We use this information to improve our web services and increase their accessibility to search engines. We also use referrer information to monitor our advertising campaigns, as described more fully below. 
@@ -90,21 +87,22 @@ We may ask for, and you may choose to provide personal information that could be
 
   * Your contact information (such as name, social media screen name, handle or other identifier, postal and email address, or telephone number) 
   * Personal information you share pursuant to your social media privacy settings 
-  * Demographic information (such as age, date of birth and gender) 
-  * Location information, such as the real-time geographic location of the device you are using to access the Georgia-Pacific provided service, if you allow your device to provide it automatically 
+  * Demographic information (such as age, date of birth and gender)
+  * Information relating to your interests based on your online behavior including information you disclose on social media
+  * Location information, such as the real-time geographic location of the device you are using to access the Georgia-Pacific-provided service, if you allow your device to provide it automatically 
   * Payment details (including payment card number, security code, expiration date, cardholder name and billing address) 
   * Contact information of friends or other people you like us to contact 
   * Other details that you may submit to us or that may be included in the information provided to us by third parties 
 
 
 
-We also collect usage information, that is, information about how our Internet services, such as websites, social media sites and mobile applications, are used and accessed, and information about the device you are using to access the service. This usage information may include:
+We also collect usage information, that is, information about how our users interact with our Internet services, such as websites, social media sites and mobile applications, and with other, third party, websites over time. This usage information may include:
 
-  * Pages you view, links you click, and selections you make, if the service is a website 
+  * Pages you view, links you click or hover over, and selections you make on our and third-party websites 
   * Your browser's HTTP referrer header, in the case of a website 
   * Features you use, preferences you set, and selections you make, if the service is provided through a mobile application 
   * Your web browser type and version, if the service is a website 
-  * The operating system type and version of the device you are using to access the service 
+  * The operating system type and version of the device you are using to access the service 
   * The Internet protocol (IP) address of the device you are using to access the Georgia-Pacific provided service 
 
 
@@ -121,13 +119,13 @@ We may use the information we obtain about you to:
   * Manage your participation in our events, sweepstakes, and other promotions (including by sending e-Cards, sharing information found on our websites with others, and sending email invitations) 
   * Facilitate your involvement in our charity programs and community activities 
   * Manage your participation in our procurement auctions 
-  * Operate secure portals for business customers 
-  * Process payment card transactions 
+  * Operate secure portals for business customers
+  * Process payment card transactions
   * Operate, evaluate, and improve our business 
   * Gather your feedback about and improve our products, services, programs, and Internet services 
   * Analyze and enhance our marketing communications and strategies, and trends and statistics regarding use of our Internet services 
   * Protect against and prevent fraud, unauthorized transactions, claims, and other liabilities, and manage risk exposure, including by identifying potential hackers and other unauthorized users 
-  * Comply with applicable legal requirements and industry standards and with our policies 
+  * Comply with applicable legal requirements and industry standards and with our policies
 
 
 
@@ -135,30 +133,40 @@ We may combine information we collect from various sources, such as third party 
 
 #### How We Share Your Information
 
-We will not provide any of your personal information to any third parties without your specific consent except as described in this notice, or as otherwise described on the individual Georgia-Pacific site or other Internet service that requests your personal information. We may also share your information as disclosed at the time you provide it, as otherwise set forth in this notice, and in the following circumstances: 
+We will not provide any of your personal information to any third parties without your specific consent except as described in this Privacy Notice, or as otherwise described on the individual Georgia-Pacific site or other Internet service that requests your personal information. We may also share your information as disclosed at the time you provide it, as otherwise set forth in this Privacy Notice, and in the following circumstances: 
 
   * _Third party service providers._ In order to carry out your requests, to make various features, services and materials available to you through the services, to respond to your inquiries, and for other purposes described in the "How We Use Your Information" section of this Privacy Notice, we may share your personal information or usage information with third parties that perform functions on our behalf (or on behalf of our partners), such as companies or individuals that: host or operate our sites; analyze data; provide customer service; mail product samples or manage payments; advertisers; sponsors or other third parties that participate in or administer our promotions or provide marketing or promotional assistance (such as in connection with winner selection, prize fulfillment, and as required by law, such as on a winners list). 
   * _Sharing with your consent._ Our services may present you with the opportunity to opt in to receive information or marketing offers from third parties or to otherwise consent to the sharing of your information with third parties. If you agree to have your personal information shared, your personal information will be disclosed to the third party subject to the privacy notice and business practices of that third party. 
-  * _Marketing partners._ In some cases, we may permit certain network advertising companies and publishers to collect personal information on our sites. In addition, our business partners may access personal information about you that we have combined with such business partners' data. We may collaborate with our business partners to jointly send tailored promotional communications to you using the combined set of information. If you prefer not to receive these joint communications, you can opt out by following the instructions included in any such communication. 
+  * _Marketing partners.  _In some cases, we may permit certain network advertising companies and publishers to collect personal information on our sites. In addition, our business partners may access personal information about you that we have combined with such business partners' data. We may collaborate with our business partners to jointly send tailored promotional communications to you using the combined set of information. If you prefer not to receive these joint communications, you can opt out by following the instructions included in any such communication. 
   * _Non-personal information._ We may share non-personal information, such as aggregate user statistics, demographic information, and usage information with third parties. 
-  * _Business transfers._ We may disclose your personal information, usage information, and other information about you to parties acquiring part or all of our assets, as well as to attorneys and consultants. If we transfer your information to an acquirer, we will use reasonable efforts to direct the acquirer to use your information in a manner that is consistent with this notice. Also, if any bankruptcy or reorganization proceeding is brought by or against us, your information may be considered a company asset that may be sold or transferred to third parties. 
+  * _Business transfers._ We may disclose your personal information, usage information, and other information about you to parties acquiring part or all of our assets, as well as to attorneys and consultants. If we transfer your information to an acquirer, we will use reasonable efforts to direct the acquirer to use your information in a manner that is consistent with this Privacy Notice. Also, if any bankruptcy or reorganization proceeding is brought by or against us, your information may be considered a company asset that may be sold or transferred to third parties. 
   * _Disclosures required by law._ We may transfer and disclose your information to third parties (i) to comply with a legal obligation, (ii) when we believe in good faith that the law requires it, (iii) at the request of governmental authorities conducting an investigation, (iv) to verify or enforce our policies, (v) to respond to an emergency, or (vi) otherwise to protect the rights, property, safety, or security of third parties, users of our services or the public. 
 
 
 
-#### Online Advertising
+#### Online Advertising & Tracking
 
-We license technology to serve advertisements on our services and within our content as it may appear elsewhere on the Internet. In addition, we may use third party network advertisers to serve advertisements and third party analytics vendors to evaluate and provide us with information about how our services are used and how our content is viewed. We do not share personal information with these third parties, but ad network providers, advertisers, sponsors, and analytics providers may set and access their own cookies, beacons and similar technologies on your device and they may otherwise collect or have access to information about you, including usage information, by tracking your online activities over time and across third-party websites or online services. These ad network providers, advertisers, sponsors, and analytics providers may use the information they collect for their own purposes. We and our network advertisers may target advertisements for products and services in which you might be interested based on your visits to both our services and other Internet services. We may use a variety of companies to serve advertisements. You may configure your browser to reject cookies from our sites and cookies from third parties. However, rejecting cookies may affect your user experience and you may not be able to access certain features of our sites.
+On our websites, we may collect information about your online activities to provide you with advertising about products and services tailored to your individual interests. For example, we may use the advertising features provided by Google as well as the remarketing features of Google AdWords in order to track our website visitors across different Internet sites while providing them with ads from us. 
+
+You may receive interest-based ads from us and from our ad providers that are specifically tailored to your interests. These ads have been selected based on your use of our websites, services and/or products as well as other information obtained by us and our ad providers. It is also possible that such interest-based advertising has been tailored to the interests that advertisers have inferred from your browsing of our websites, or from your use of other websites or applications with which a third-party has partnered, in order to provide advertising. 
+
+Our websites may use Google Analytics, a web analysis service provided by Google, in order to better understand your use of our websites and how we can improve them. Google Analytics collects information such as how often users visit a website, what pages you visit when you do so, and what other websites you used prior to coming to such website. Google Analytics collects only the IP address assigned to you on the date you visit a website, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with your personal information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit a website, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to the Georgia-Pacific websites is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) and the [Google Privacy Policy](http://www.google.com/privacypolicy.html). Google utilizes the data collected to track and examine the use of the Georgia-Pacific websites, to prepare reports on its activities and share them with other Google services. Google may use the data collected on the Georgia-Pacific websites to contextualize and personalize the ads of its own advertising network. To more fully understand how Google may use the data it collects on the Georgia-Pacific websites, please review “How Google uses data when you use our partners' sites or apps,” (located [here](http://www.google.com/policies/privacy/partners/) or any successor URL). 
+
+Our websites also use marketing automation cookies provided by one of our third party service providers that track user behavior between our websites and marketing emails. We also deploy cookies provided by a third party service provider that track and score user behavior on the Georgia-Pacific websites. Such data help us create deeper and more personalized engagements for our website visitors. Additionally, we use a third-party service provider that deploys tracking cookies to users who submit product reviews or comments relating to our websites, products and services. Such cookies can track users who visit websites with which this third party is affiliated, and may place ads unrelated to us.
+
+We also engage with third-party advertising networks. Ad networks may include third-party ad servers, ad agencies, sponsors, ad technology vendors and research firms. We do not share personal information with these third parties, but ad networks may set and access their own cookies, beacons and similar technologies on your device and they may otherwise collect or have access to information about you, including usage information, by tracking your online activities over time and across third-party websites or online services. We are not responsible for the privacy practices of these third parties. These ad networks may use the information they collect for their own purposes. We and our network advertisers may target advertisements for products and services in which you might be interested based on your visits to both our services and other websites and Internet services. Such cookies track users who visit websites with which they are affiliated and place ads unrelated to us.
 
 #### User-Generated Content
 
 Some of our services and social networking features enable you to submit your own content for public posting. Information you post in this fashion becomes public information and is not subject to this Privacy Notice. We cannot control how others may use publicly-posted information.
 
+Any information, communications, or material of any type or nature that you submit to our websites or mobile applications (including, but not limited to any Georgia-Pacific website contained on a social media platform or website such as Facebook or Twitter) by e-mail, posting, messaging, uploading, downloading, or otherwise (collectively, a “Submission”), is done at your own risk and without any expectation of privacy.  Georgia-Pacific cannot control the actions of other users of any social media platform or website, and Georgia-Pacific is therefore not responsible for any content or Submissions contained on such sites and platforms. 
+
 #### Your Choices
 
 We offer you certain choices about what information we collect from you, how we use and share the information, and how we communicate with you. We do not charge for opt out service. To help protect your privacy and security, we may take reasonable steps to verify your identity, such as requiring a password and user ID.
 
-You may opt out of (i) sharing your personal information with third parties for those parties' own purposes, (ii) using your personal information to provide you with information or offers; and (iii) receiving newsletters, emails or other communications by clicking [here](https://web.archive.org/Footer/Privacy_Form) or writing to:
+You may opt out of (i) sharing your personal information with third parties for those parties' own purposes, (ii) using your personal information to provide you with information or offers; and (iii) receiving newsletters, emails or other communications by clicking [here](https://web.archive.org/Footer/Privacy_Form) or writing to:
 
 Georgia-Pacific LLC  
 Attention: Privacy Office  
@@ -168,18 +176,20 @@ USA
 
 In addition, you have the following specific opt out choices:
 
-  * Marketing communications. You may also opt out of specific communications (such as marketing email communication we send jointly with our business partners) by following the opt out instructions contained in the communication. 
+  * Marketing communications. You may also opt out of specific communications (such as marketing email communication we send jointly with our business partners) by following the opt out instructions contained in the communication. Even if you opt out, you may continue to receive service-related communications, such as responses to your inquiries, or information about your orders or changes in our terms or policies, and we may maintain the information we have about you for record keeping, analysis or other reasons.
   * _Cookies._ Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. However, rejecting cookies may affect your user experience and you may not be able to access certain features of our sites. In addition, disabling cookies may invalidate opt outs that rely on cookies, such as web analytics or targeted advertising opt outs. 
-  * _Targeted advertising._ If you prefer to not receive targeted advertising, you can opt out of some network advertising programs that use your information. To do so please visit [the Network Advertising Initiative's ("NAI") Opt Out Page.](http://www.networkadvertising.org/managing/opt_out.asp) Please note that even if you choose to opt out, you may still see advertisements while browsing, but the advertisements you see may be non-specific. Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. NAI opt out may not be effective for mobile applications. The NAI Opt Out Page provides a tool that identifies its member companies that have cookies on your browser and provides links to those companies. 
-  * _Geographic location._ When you use our application on your mobile device, you may choose not to share your geo-location details with us by adjusting the device's location services settings. For instructions on changing the relevant settings, please contact your service provider or device manufacturer. 
+  * _Targeted advertising & tracking._ If you prefer to not receive targeted advertising, you can opt out of some network advertising programs that use your information, such as Google Analytics and Google AdWords. To do so please visit [the Network Advertising Initiative's ("NAI") Opt Out Page.](http://www.networkadvertising.org/managing/opt_out.asp)  Please note that even if you choose to opt out, you may still see advertisements while browsing, but the advertisements you see may be non-specific. Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. NAI opt out may not be effective for mobile applications. The NAI Opt Out Page provides a tool that identifies its member companies that have cookies on your browser and provides links to those companies. Please note that we may also engage with ad networks that do not participate in the NAI Opt Out. Those networks may offer their own opt-out choices.
+  * _Geographic location.  _When you use our application on your mobile device, you may choose not to share your geo-location details with us by adjusting the device's location services settings. For instructions on changing the relevant settings, please contact your service provider or device manufacturer. 
 
 
 
-While we will take all reasonable steps to honor your choices with respect to your personal information, you should be aware that it is not always possible to delete all of your information for technical reasons. For example, we may store personal information in long-term archives or backups or retain an identifier to honor your opt out choices. We will continue to send you service-related communications and we may need to keep the information we have collected about you for record keeping, analysis or other reasons, to the extent permitted by law. In addition, we may delete records containing personal information from time to time and we disclaim any liability arising out of, or related to, the deletion of personal information.
+Please note that even if you opt-out as described above, Georgia-Pacific will retain your personal information for analytical purposes and other internal purposes including an ability to reconnect you with such personal information if you later opt-in to any of the data sharing, use or communications set forth above.
 
-#### California Residents
+####  California Residents and Do-Not-Track Disclosure
 
 If you are a California resident, you may ask us to refrain from sharing your information (whether collected online or offline) with our affiliates for their marketing purposes, if the affiliates are separate legal entities. Please tell us your preference by contacting us as indicated in the "How to Contact Us" section of this Privacy Notice.
+
+Because there is not yet a consensus on how companies should respond to web browser-based or other do-not-track ("DNT") mechanisms, Georgia-Pacific websites do not respond to web browser-based DNT signals.   
 
 #### Privacy Practices of Third Parties
 
@@ -195,17 +205,17 @@ If you are located in the European Economic Area, please visit our [Safe Harbor
 
 The following Georgia-Pacific subsidiaries and affiliates are certified under the U.S. Commerce Department's Safe Harbor privacy framework for the collection, storage, transfer, use and other processing of consumer, customer, supplier, and other personal information transferred from the European Economic Area and Switzerland to the United States:
 
-  * Georgia-Pacific LLC 
-  * Georgia-Pacific Building Products LLC 
-  * Georgia-Pacific Chemicals LLC 
-  * Georgia-Pacific Gypsum LLC 
-  * Georgia-Pacific Wood Products LLC 
-  * Georgia-Pacific Packaging LLC 
-  * Georgia-Pacific Containerboard LLC 
-  * Georgia-Pacific Consumer Products LP 
-  * Dixie Consumer Products LLC 
-  * GP Cellulose, LLC 
-  * GP Harmon Recycling LLC 
+  * Georgia-Pacific LLC 
+  * Georgia-Pacific Building Products LLC 
+  * Georgia-Pacific Chemicals LLC 
+  * Georgia-Pacific Gypsum LLC 
+  * Georgia-Pacific Wood Products LLC 
+  * Georgia-Pacific Corrugated LLC 
+  * Georgia-Pacific Containerboard LLC 
+  * Georgia-Pacific Consumer Products LP 
+  * Dixie Consumer Products LLC 
+  * GP Cellulose, LLC 
+  * GP Harmon Recycling LLC
 
 
 
@@ -229,11 +239,11 @@ If you wish to view, verify, correct, or update any of your personal information
 
 #### Changes
 
-Please review our privacy notice periodically, as we may change it at any time and without prior notice to you. Any changes will be effective immediately upon the posting unless otherwise indicated. We will post a notice on the services to notify you of any significant changes to this notice. The date below indicates when this notice was last changed.
+Please review our Privacy Notice periodically, as we may change it at any time and without prior notice to you. Any changes will be effective immediately upon the posting unless otherwise indicated. We will post a notice on the GP.com home page to notify you of any significant changes to this Privacy Notice. The date below indicates when this Privacy Notice was last changed.
 
 #### How to Contact Us
 
-If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by clicking [here](https://web.archive.org/Footer/Privacy_Form) or writing to: 
+If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by clicking [here ](https://web.archive.org/Footer/Privacy_Form)or writing to: 
 
 Georgia-Pacific LLC  
 Attention: Privacy Office  
@@ -241,4 +251,4 @@ P.O. Box 105605
 Atlanta, GA 30348  
 USA
 
-Last updated: April 02, 2014
+Last updated: May 14, 2015
