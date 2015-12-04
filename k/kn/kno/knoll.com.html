@@ -1,14 +1,19 @@
-<!--The following is the downloaded HTML source of the knoll.com privacy policy that was archived on 2015-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150601021948id_/http%3A//www.knoll.com/privacy-policy/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the knoll.com privacy policy that was archived on 2015-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151204081141id_/http%3A//www.knoll.com/privacy-policy/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="stylish-select"><head>
 <title>Knoll</title>
 <!--<meta http-equiv="X-UA-Compatible" content="IE=edge">-->
 <!--<meta http-equiv="Content-Type" content="text/html; charset=us-ascii" />-->
-<meta name="viewport" content="width=1130">	
+<!-- meta name="viewport" content="width=1130" / -->
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">	
 <!-- Added By Knoll to bypass fastfonts 4/23 -->
-<link rel="stylesheet" href="//www.knoll.com/static_resources/css/fast.fonts.async.css" type="text/css">
+<link rel="stylesheet" href="https://www.knoll.com/static_resources/css/fast.fonts.async.css" type="text/css">
 <link href="/css/fonts/font.css" type="text/css" rel="stylesheet">
+<!-- Bootstrap -->
+<!-- link href="/css/bootstrap.min.css" type="text/css" rel="stylesheet" / -->
 <link href="/css/style.css" type="text/css" rel="stylesheet">
 <link href="/css/style3.css" type="text/css" rel="stylesheet">	
 <link href="/css/reset.css" type="text/css" rel="stylesheet">
@@ -20,7 +25,11 @@
 <link href="/css/jquery.lightbox-0.51.css" type="text/css" rel="stylesheet">
 <link href="/css/base/jquery.ui.all.css" type="text/css" rel="stylesheet">
 <link href="/css/planning_ideas_widget_style.css" type="text/css" rel="stylesheet">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NP5BWZ"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/js/jquery/jquery-1.11.0.min.js"></script>
+<link href="/css/advanced_textile_search_style.css" rel="stylesheet" type="text/css">
+<link href="/css/advanced_textile_search_thumbs.css" rel="stylesheet" type="text/css">
+<link href="/css/jquery-ui-1.11.2-themes_smoothness.css" rel="stylesheet" type="text/css">
+<link href="/css/dp_inspiration_style.css" rel="stylesheet" type="text/css">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NP5BWZ"></script><script type="text/javascript" src="/js/jquery/jquery-1.11.0.min.js"></script>
 <script type="text/javascript">
 jQuery.browser = {};
 (function () {
@@ -31,6 +40,24 @@ jQuery.browser.msie = true;
 jQuery.browser.version = RegExp.$1;
 }
 })();
+/* Returns browser name and version */
+function getBrowserInfo(){
+var ua=navigator.userAgent,tem,M=ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || []; 
+if(/trident/i.test(M[1])){
+tem=/\brv[ :]+(\d+)/g.exec(ua) || []; 
+return {name:'IE',version:(tem[1]||'')};
+} 
+if(M[1]==='Chrome'){
+tem=ua.match(/\bOPR\/(\d+)/)
+if(tem!=null) {return {name:'Opera', version:tem[1]};}
+} 
+M=M[2]? [M[1], M[2]]: [navigator.appName, navigator.appVersion, '-?'];
+if((tem=ua.match(/version\/(\d+)/i))!=null) {M.splice(1,1,tem[1]);}
+return {
+name: M[0],
+version: M[1]
+};
+}
 </script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <!-- script type="text/javascript" src="/js/bootstrap.min.js"></script -->
@@ -42,16 +69,16 @@ jQuery.browser.version = RegExp.$1;
 <script type="text/javascript" src="/js/jquery/jquery.routes.bbqhashchange-min.js"></script>
 <script type="text/javascript" src="/js/plugins/jquery.fitvids.js"></script>
 <script type="text/javascript" src="/js/jquery/jquery.bxSlider.js"></script>
-<script type="text/javascript" src="/js/plugins/scroll-top.js"></script>
+<!-- <script type="text/javascript" src="/js/plugins/scroll-top.js"></script> -->
 <script type="text/javascript" src="/js/jquery/style_inputs.js"></script><style type="text/css">input.styled { display: none; } select.styled { position: relative; width: 190px; opacity: 0; filter: alpha(opacity=0); z-index: 5; } .disabled { opacity: 0.4; filter: alpha(opacity=50); }</style>
 <script type="text/javascript" src="/js/jquery/custom.js"></script>
 <script type="text/javascript" src="/js/jquery/custom2.js"></script>
 <script type="text/javascript" src="/js/plugins/jquery.lightbox-0.5.js"></script> 
 <script type="text/javascript" src="/js/plugins/jquery.lightbox-0.51.js"></script> 
 <script type="text/javascript" src="/js/jquery/jquery.tablesorter.js"></script>
-<script type="text/javascript" src="/js/jquery/home1.js?ts=20150429093600"></script>
+<script type="text/javascript" src="/js/jquery/home1.js"></script>
 <script type="text/javascript" src="/js/jquery/jquery.stylish-select.js"></script>
-<script type="text/javascript" src="/js/plugins/jwplayer/jwplayer.js"></script>
+<script type="text/javascript" src="/js/jwplayer/jwplayer.js"></script>
 <script type="text/javascript" src="/js/jquery/jquery.viewport.mini.js"></script>
 <script type="text/javascript" src="/js/jquery/stickyfloat.min.js"></script>
 <script type="text/javascript" src="/js/jquery/jquery.textchange.min.js"></script>
@@ -66,19 +93,19 @@ jQuery.browser.version = RegExp.$1;
 <script type="text/javascript" src="/js/jquery/jquery-contained-sticky-scroll-min.js"></script>
 <script type="text/javascript" src="/js/jquery/shoppingCartCommon.js"></script>
 <script type="text/javascript" src="/js/jquery/iscroll.min.js"></script>
-<!-- <script type="text/javascript" src="/js/jquery/advanced_textile_search_filterBuilder.js"></script>
-<script type="text/javascript" src="/js/jquery/advanced_textile_search.js"></script> -->
+<script type="text/javascript" src="/js/jquery/advanced_textile_search_filterBuilder.js"></script>
+<script type="text/javascript" src="/js/jquery/advanced_textile_search.js"></script>
 <script type="text/javascript" src="/js/jquery/cross_site_scripting.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.contenthover.min.js"></script>
+<script type="text/javascript" src="/js/jquery/dp_inspiration.js"></script>
+<script type="text/javascript">jwplayer.key="fd9XkSjSO49qlXrz9lwiGAnRZ252JSU8TYNUiQ==";</script>
 <script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-1219454-1']);
-_gaq.push(['_trackPageview']);
-_gaq.push(['_setDomainName', 'knoll.com']);
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
+var popupWidth = 0;
+var popupLeft = 0;
+var modalContentSectionWidth = 0;
+var modalBannerWidth = 0;
+var playerInstance = null;
+var playerButton = null;
 $(function(){
 //stylish select
 $('#my-dropdown').sSelect(); 
@@ -113,6 +140,34 @@ $('.overlay_swatch, .fileDownloadModal, .imagePopup').fadeIn();
 var thumbDetails = $(this).closest(".swatch").children(".thumbDetails").html();
 $(".currentPopup").html(thumbDetails);
 $('.body_container').addClass('popupActive'); 
+if ( $(this).closest(".swatch").children(".thumbDetails").length ) {
+// Reset imagePopup and child widths 
+if ( popupWidth > 0 ) {
+$('.fileDownloadModal .currentPopup .downloadModalBanner').width( modalBannerWidth );
+$('.fileDownloadModal .currentPopup .downloadModalContentSection').width( modalContentSectionWidth );
+$('.fileDownloadModal .currentPopup').parent().width( popupWidth );
+$('.fileDownloadModal .currentPopup').parent().css( 'left', popupLeft );
+}
+if ( $('.fileDownloadModal .currentPopup .searchvideoblock').length	) {
+embedVideo();
+var downloadModalContentSectionWidth = $( ".currentPopup" ).find( 'div.downloadModalContentSection' ).width();
+var imagePopupWidth = $( ".currentPopup" ).parent().width();
+var imagePopupLeft = $( ".currentPopup" ).parent().position().left;
+if ( popupWidth == 0 ) {
+popupWidth = imagePopupWidth;
+popupLeft = imagePopupLeft;
+}
+if ( downloadModalContentSectionWidth > imagePopupWidth ) {
+var leftShift = (downloadModalContentSectionWidth - imagePopupWidth) / 2;
+$( ".currentPopup" ).parent().width( downloadModalContentSectionWidth );
+$( ".currentPopup" ).parent().css( 'left', (imagePopupLeft - leftShift) );
+} else if ( downloadModalContentSectionWidth < imagePopupWidth ) {
+var leftShift = (imagePopupWidth - downloadModalContentSectionWidth) / 2;
+$( ".currentPopup" ).parent().width( downloadModalContentSectionWidth );
+$( ".currentPopup" ).parent().css( 'left', (imagePopupLeft + leftShift) );
+}
+}
+}
 return false;
 });
 }
@@ -123,6 +178,16 @@ $('.body_container').addClass('popupActive');
 return false;
 });
 $('.overlay_swatch, #closePopup, #closePopup1').click(function(){
+// Special handling for jwPlayer
+if ( playerInstance != null ) {
+//window.console && console.log( 'Removing player button: '+ playerButton );
+jwplayer().removeButton( playerButton );
+//window.console && console.log( 'Removing player instance: '+ playerInstance.id );
+//window.console && console.log( playerInstance );
+jwplayer().remove();
+playerInstance = null;
+playerButton = null;
+}
 $('.overlay_swatch, .fileDownloadModal, .imagePopup').fadeOut();
 $(".currentPopup").html("");
 $(".slideShow_popup").fadeOut();
@@ -223,22 +288,96 @@ document.getElementById("requestHiresForm").submit();
 var addthis_config = {
 image_include: "at_image"	
 };
+function embedVideo() {
+$('.fileDownloadModal .currentPopup .searchvideoblock').each(function() { 
+var getVideo = $('>div',this);
+var videoId = getVideo.attr( 'id' )+'_1';
+getVideo.attr( 'id', videoId );
+//window.console && console.log(getVideo);
+var videofile={id: getVideo.attr('id'), url:getVideo.attr('data-videoUrl'), height:getVideo.attr('data-videoHeight'),width:getVideo.attr('data-videoWidth'),image:getVideo.attr('data-videoImage')};
+//window.console && console.log(videofile); 
+playerInstance = jwplayer(videofile.id);
+playerButton = "download_" + getVideo.attr('data-videoid');
+var defaultWidth = 407;
+if(videofile.height=="" || videofile.height==null || !videofile.height) videofile.height = 281;
+if(videofile.width =="" || videofile.width==null || !videofile.width) videofile.width = defaultWidth;
+if(videofile.image =="" || videofile.image==null || !videofile.image) {
+playerInstance.setup({
+file: videofile.url,
+height:videofile.height,
+width: videofile.width 
+});
+} else {
+playerInstance.setup({
+file: videofile.url,
+height:videofile.height,
+width: videofile.width, 
+image: videofile.image
+});	
+}
+playerInstance.addButton(
+//This portion is what designates the graphic used for the button
+"/images/download_arrow.png",
+//This portion determines the text that appears as a tooltip
+"Download Video", 
+//This portion designates the functionality of the button itself
+function() {
+//With the below code, we're grabbing the file that's currently playing
+//window.open( jwplayer().getPlaylistItem()['file'] );
+var file = jwplayer().getPlaylistItem()['file'];
+file = file.substr( file.lastIndexOf( '/' ) + 1 );
+var link = document.createElement( "a" );
+link.download = file;
+link.href = jwplayer().getPlaylistItem()['file'];
+link.click();
+},
+//And finally, here we set the unique ID of the button itself.
+playerButton
+);
+/* SITEWORK-65: Correct Videos on Product Pages.
+* Subtract default video width from current video width
+* If result > 0 add result to width of the following
+* parent div.downloadModalBanner
+* parent div.downloadModalContentSection
+*/
+var videoParent = $( this ).parent(); // div.downloadModalBanner
+var videoGrandParent = videoParent.parent(); // div.downloadModalContentSection
+var addWidth = (videofile.width - defaultWidth);
+if (addWidth > 0) {
+if ( modalContentSectionWidth == 0 ) {
+modalContentSectionWidth = videoGrandParent.width();
+modalBannerWidth = videoParent.width();
+}
+var	downloadModalContentSectionWidth = videoGrandParent.width();
+var	downloadModalBannerWidth = videoParent.width();
+videoGrandParent.width( downloadModalContentSectionWidth + addWidth );
+videoParent.width( downloadModalBannerWidth + addWidth );
+}
+if ( getBrowserInfo().name == 'Chrome' ) {
+$( '#videoNote' ).hide();
+} else {
+$( 'a.downloadVideo' ).attr( 'href', videofile.url );	
+$( 'a.downloadVideo' ).attr( 'target', '_blank' );	
+}
+});
+//*** video embed 
+}
 </script>
 <!--[if lt IE 9]>
 <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
-<!--[if gt IE 10]-->
+<!--[if gt IE 10]>
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=knolladdthis"></script>
-<!--[endif]-->
-<!--[if !IE]-->
+<![endif--]>
+<!--[if !IE]>
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=knolladdthis"></script>
-<!--[endif]-->
+<![endif]-->
 <script>
 dataLayer = [];
 </script>
-<script type="text/javascript" src="https://web.archive.org/web/20131013084546/http://www.athenahealth.com/foresee/foresee-surveydef.js"></script></head>
-<body>
+<script type="text/javascript" src="/foresee/foresee-surveydef.js?build=2"></script></head>
+<body style="">
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NP5BWZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
@@ -299,6 +438,9 @@ dataLayer = [];
 </ul>
 <ul class="span6">
 <li>
+<a href="/shop/by-category/gift-guide">Holiday Gift Guide</a>
+</li>
+<li>
 <a href="/shop/by-category/accessories">Accessories</a>
 </li>
 <li>
@@ -351,6 +493,9 @@ dataLayer = [];
 </li>
 <li>
 <a href="/shop/by-room/outdoor">Outdoor</a>
+</li>
+<li>
+<a href="/myknollgallery" target="_self">#myknoll Gallery</a>
 </li>
 </ul>
 </section>
@@ -411,10 +556,10 @@ dataLayer = [];
 <a href="/shop/by-designer/suzanne-huguenin">Suzanne Huguenin</a> 
 </li>
 <li>
-<a href="/shop/by-designer/jehslaub">Jehs+Laub</a> 
+<a href="/shop/by-designer/florence-knoll">Florence Knoll</a> 
 </li>
 <li>
-<a href="/shop/by-designer/florence-knoll">Florence Knoll</a> 
+<a href="/shop/by-designer/jehslaub">Jehs+Laub</a> 
 </li>
 <li>
 <a href="/shop/by-designer/marc-krusin">Marc Krusin</a> 
@@ -467,10 +612,10 @@ dataLayer = [];
 <a href="/shop/by-designer/rodarte">Rodarte</a>
 </li>
 <li>
-<a href="/shop/by-designer/richard-sapper">Richard Sapper</a>
+<a href="/shop/by-designer/Eero-Saarinen">Eero Saarinen</a>
 </li>
 <li>
-<a href="/shop/by-designer/Eero-Saarinen">Eero Saarinen</a>
+<a href="/shop/by-designer/richard-sapper">Richard Sapper</a>
 </li>
 <li>
 <a href="/shop/by-designer/ruth-adler-schnee">Ruth Adler Schnee</a>
@@ -494,7 +639,7 @@ dataLayer = [];
 </section>
 </li>
 <li> 
-<a href="/shop/knolltextiles">KnollTextiles</a> 
+<a href="/shop/knolltextiles">KnollTextiles </a> 
 <section class="sub_menu_level3">	
 <ul class="span6">
 <li>
@@ -515,11 +660,11 @@ dataLayer = [];
 <li>
 <a href="/shop/knolltextiles/healthcare">Healthcare</a> 
 </li>
+<li>
+<a href="/shop/knolltextiles/environmental-fabrics">Environmental Fabrics</a> 
+</li>
 </ul>
 <ul class="span6">
-<li>
-<a href="/shop/knolltextiles/environmental-fabrics">Environmental Fabrics</a>
-</li>
 <li>
 <a href="/shop/knolltextiles/best-picks-for-the-home">Best Picks For The Home</a>
 </li>
@@ -535,6 +680,9 @@ dataLayer = [];
 <li>
 <a href="/shop/knolltextiles/last-call-knolltextiles">Last Call KnollTextiles</a>
 </li>
+<li>
+<a href="/shop/knolltextiles/the-adjaye-collection-by-david-adjaye-for-knolltextiles">The Adjaye Collection</a>
+</li>
 </ul>
 </section>
 </li>
@@ -549,41 +697,8 @@ dataLayer = [];
 <section class="sub_menu">
 <ul>
 <li> 
-<a href="/design-plan/planning">Planning</a> 
-<section class="sub_menu_level3">	
-<ul class="span6">
-<li>
-<a href="/design-plan/planning/revolution-workplace">r/evolution workplace™</a> 
-</li>
-<li>
-<a href="/design-plan/planning/open-plan">Open Plan</a> 
-</li>
-<li>
-<a href="/design-plan/planning/private-offices">Private Office</a> 
-</li>
-<li>
-<a href="/design-plan/planning/activity-spaces">Activity Spaces</a> 
-</li>
-</ul>
-<ul class="span6">
-<li>
-<a href="/design-plan/planning/office-seating">Office Seating</a>
-</li>
-<li>
-<a href="/design-plan/planning/ergonomics">Workplace Ergonomics</a>
-</li>
-<li>
-<a href="/design-plan/planning/knoll-residential">Residential </a>
-</li>
-<li>
-<a href="/Typicals/search" target="_self">Planning Ideas Library</a>
-</li>
-</ul>
-</section>
-</li>
-<li> 
 <a href="/design-plan/products">Products</a> 
-<section class="sub_menu_level3 superNav">	
+<section class="sub_menu_level3 superNav superNav4c">	
 <ul class="span6">
 <li class="superNav3">By Category</li>
 <li class="superNav4"> 
@@ -608,7 +723,7 @@ dataLayer = [];
 <a href="/design-plan/products/by-category/tables">Tables</a> 
 </li>
 <li class="superNav4"> 
-<a href="/design-plan/products/by-category/height-adjustable-tables/height-adjustable-desks">Height-Adjustable Tables + Desks</a> 
+<a href="/design-plan/products/by-category/height-adjustable-tables/height-adjustable-desks">Adjustable Height Tables + Desks</a> 
 </li>
 <li class="superNav4"> 
 <a href="/design-plan/products/by-category/desks">Desks</a> 
@@ -722,67 +837,93 @@ dataLayer = [];
 </section>
 </li>
 <li> 
+<a href="/design-plan/planning-and-markets">Planning + Market Focus</a> 
+<section class="sub_menu_level3 superNav superNav2c">	
+<ul class="span6">
+<li class="superNav3">Planning</li>
+<li class="superNav4"> 
+<a href="/design-plan/planning/revolution-workplace">r/evolution workplace™</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/planning/open-plan">Open Plan</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/planning/private-offices">Private Office</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/planning/activity-spaces">Activity Spaces</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/planning/office-seating">Office Seating</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/planning/ergonomics">Workplace Ergonomics</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/planning/knoll-residential">Residential </a> 
+</li>
+<li class="superNav4"> 
+<a href="/Typicals/search" target="_self">Planning Ideas Library</a>
+</li>
+</ul>
+<ul class="span6">
+<li class="superNav3">Market Focus </li>
+<li class="superNav4"> 
+<a href="/design-plan/market-focus/knoll-healthcare-solutions">Healthcare</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/market-focus/small-business-and-startups">Small Business and Startups</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/market-focus/higher-education">Higher Education</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/market-focus/knoll-for-government">Government/GSA</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/market-focus/canadian-federal-government">Canadian Federal Government</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/market-focus/knoll-for-legal">Legal</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/market-focus/knoll-global-business-division">Global Business Division</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/market-focus/knoll-residential">Residential </a> 
+</li>
+</ul>
+</section>
+</li>
+<li> 
 <a href="/design-plan/resources/research" target="_self">Research</a>
 <section class="sub_menu_level3">	
 <ul class="span6">
 <li> 
-<a href="/design-plan/resources/research?tp=Case+Studies%3B" target="_self">Case Studies</a>
+<a href="/design-plan/resources/research?tp=Benchmarking%3B&amp;typ=&amp;ind=" target="_self">Benchmarking</a>
 </li>
 <li> 
-<a href="/design-plan/resources/research?tp=Ergonomics%3B" target="_self">Ergonomics</a>
+<a href="/design-plan/resources/research?tp=Change+Management%3B&amp;typ=&amp;ind=" target="_self">Change Management</a>
 </li>
 <li> 
-<a href="/design-plan/resources/research?tp=Industry+Sectors%3B" target="_self">Industry Sectors</a>
+<a href="/design-plan/resources/research?tp=&amp;typ=Case+Studies%3B&amp;ind=" target="_self">Case Studies</a>
 </li>
 <li> 
-<a href="/design-plan/resources/research?tp=Infographics%3B" target="_self">Infographics</a>
+<a href="/design-plan/resources/research?tp=Design+%2B+Planning%3B&amp;typ=&amp;ind=" target="_self">Design + Planning</a>
 </li>
 </ul>
 <ul class="span6">
 <li>
-<a href="/design-plan/resources/research?tp=Managing+Change%3B" target="_self">Managing Change</a>
+<a href="/design-plan/resources/research?tp=Ergonomics+%2B+Well-Being%3B&amp;typ=&amp;ind=" target="_self">Ergonomics + Well-Being</a>
+</li>
+<li>
+<a href="/design-plan/resources/research?searchtext=visual+summary" target="_self">Infographics</a>
 </li>
 <li>
 <a href="/design-plan/resources/research?tp=Products%3B" target="_self">Products</a>
 </li>
 <li>
 <a href="/design-plan/resources/research?tp=Work+Trends%3B" target="_self">Work Trends</a>
-</li>
-<li>
-<a href="/design-plan/resources/research?tp=Workplace+Design%3B" target="_self">Workplace Design</a>
-</li>
-</ul>
-</section>
-</li>
-<li> 
-<a href="/design-plan/market-focus">Market Focus </a> 
-<section class="sub_menu_level3">	
-<ul class="span6">
-<li>
-<a href="/design-plan/market-focus/knoll-healthcare-solutions">Healthcare</a> 
-</li>
-<li>
-<a href="/design-plan/market-focus/small-business-and-startups">Small Business and Startups</a> 
-</li>
-<li>
-<a href="/design-plan/market-focus/higher-education">Higher Education</a> 
-</li>
-<li>
-<a href="/design-plan/market-focus/knoll-for-government">Government/GSA</a> 
-</li>
-</ul>
-<ul class="span6">
-<li>
-<a href="/design-plan/market-focus/canadian-federal-government">Canadian Federal Government</a>
-</li>
-<li>
-<a href="/design-plan/market-focus/knoll-for-legal">Legal</a>
-</li>
-<li>
-<a href="/design-plan/market-focus/knoll-global-business-division">Global Business Division</a>
-</li>
-<li>
-<a href="/design-plan/market-focus/knoll-residential">Residential </a>
 </li>
 </ul>
 </section>
@@ -806,11 +947,11 @@ dataLayer = [];
 <li>
 <a href="/design-plan/resources/brochures">Brochures</a> 
 </li>
+<li>
+<a href="/design-plan/resources/price-lists">Price Lists</a> 
+</li>
 </ul>
 <ul class="span6">
-<li>
-<a href="/design-plan/resources/price-lists">Price Lists</a>
-</li>
 <li>
 <a href="/design-plan/resources/furniture-symbols">Furniture Symbols</a>
 </li>
@@ -821,13 +962,16 @@ dataLayer = [];
 <a href="/design-plan/resources/environment">Environment </a>
 </li>
 <li>
-<a href="/design-plan/resources/knoll-at-neocon-2014">NeoCon 2014</a>
+<a href="/design-plan/resources/knoll-at-neocon-2015">NeoCon 2015</a>
+</li>
+<li>
+<a href="/design-plan/teams">Teams</a>
 </li>
 </ul>
 </section>
 </li>
 <li> 
-<a href="/design-plan/teams">Teams</a> 
+<a href="/design-plan/inspiration">Inspiration</a> 
 </li>
 <li> 
 <a href="/design-plan/knoll-essentials">Knoll Essentials 2015</a> 
@@ -905,35 +1049,49 @@ dataLayer = [];
 </ul>
 </section>
 <script type="text/javascript">
+if (!String.prototype.startsWith) {
+String.prototype.startsWith = function(searchString, position) {
+position = position || 0;
+return this.lastIndexOf(searchString, position) === position;
+};
+}	
 $( document ).ready(function () {
 var url = location.pathname;
 window.console && console.log( url );
+var shopAndBrowse = "";
 if( url.indexOf( 'textile-search-results' ) > 0 ) {
-window.console && console.log( "Selecting Shop & Browse for KnollTextiles Search Results" );
-$( 'section#navigation ul li:first-child' ).addClass( "active" );
+shopAndBrowse = "KnollTextiles Search Results";
 } else if( url.indexOf( 'cart' ) > 0 ) {
-window.console && console.log( "Selecting Shop & Browse for Shopping Cart" );
-$( 'section#navigation ul li:first-child' ).addClass( "active" );
+shopAndBrowse = "Shopping Cart";
 } else if( url.indexOf( '/knolltextileproductdetail' ) >= 0 ) {
-window.console && console.log( "Selecting Shop & Browse for Textiles" );
-$( 'section#navigation ul li:first-child' ).addClass( "active" );
+shopAndBrowse = "Textiles";
 } else if( url.indexOf( '/myknollgallery' ) >= 0 ) {
-window.console && console.log( "Selecting myknollgallery" );
-$( 'section#navigation ul li:first-child' ).addClass( "active" );
+shopAndBrowse = "myknollgallery";
 } else if( url.indexOf( '/Typicals' ) >= 0 ) {
 window.console && console.log( "Selecting Design & Plan for Typicals" );
+$( 'section#navigation ul li.active' ).removeClass( "active" );
 $( 'section#navigation ul li:first-child + li' ).addClass( "active" );
 } else {
-window.console && console.log( "Selecting Shop & Browse for KnollTextiles Search Results" );
-var pathArray = url.split( "/" );
-var path = pathArray.length - 1;
-$( 'li[data-urlPath=' + path + ']' ).addClass( "active" );
+$( 'section#navigation ul li[data-urlPath]' ).each( function() {
+var urlPath = $( this ).attr( 'data-urlPath' );
+if ( url.startsWith ( urlPath ) ) {
+$( 'section#navigation ul li.active' ).removeClass( "active" );
+$( this ).addClass( "active" );
+var sectionName = $( this ).find( 'a' ).first().html();
+window.console && console.log( "Selecting "+sectionName+" for "+url );
+}
+});
+}
+if (shopAndBrowse.length > 0) {
+window.console && console.log( "Selecting Shop & Browse for "+shopAndBrowse );
+$( 'section#navigation ul li.active' ).removeClass( "active" );
+$( 'section#navigation ul li:first-child' ).addClass( "active" );
 }
 });
 </script>
 </section>
 <section class="right_header">
-<form action="/" method="POST" id="logout"><input type="HIDDEN" name="_authkey_" value="90661871F1ADEC9CD2819CD60FA6A68DC29E6F89493A961BA1643C41D85221C91DC542A227ADF7C2EA5A52561A7FE219">
+<form action="/" method="POST" id="logout"><input type="HIDDEN" name="_authkey_" value="CB5DF0D38DCE7CD5DBB3A01F60B57BCD0FD23225E0E4273C42EA1B31C4BDF8BE8E2E7552800B4C5EB2B85C02263114DB">
 <input type="hidden" name="logout" value="true">
 <input type="hidden" name="c" value="Page">
 <input type="hidden" name="childpagename" value="Knoll/Knoll_SplashPageLayout">
@@ -1005,14 +1163,75 @@ document.cookie = name + "=" + value+expires + "; path=/" + domain;
 </ul>
 </section>
 <section class="search">
+<style>
+.no-close .ui-dialog-titlebar-close {
+display: none;
+}
+.ui-dialog {
+background: none repeat scroll 0 0 transparent;
+border: 0 none;
+outline: 0 none;
+}
+.ui-dialog .ui-dialog-content {
+background: none repeat scroll 0 0 transparent;
+border: 0 none;
+overflow: auto;
+}
+.ui-widget-overlay.override { 
+background: repeat-x scroll 50% 50% #ffffff; 
+opacity:0.8; 
+filter:Alpha(Opacity=80); 
+}
+#waitForIt {
+display: none;
+}
+#waitForIt div {
+width: 90%;
+text-align: center;
+}
+#waitForIt img {
+display: block;
+margin: 0 auto;
+}
+</style>
+<script type="text/javascript" src="/js/jquery/jquery.ui.mouse.min.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.ui.position.min.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.ui.draggable.min.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.ui.resizable.min.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.ui.button.min.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.ui.dialog.min.js"></script>
+<div id="waitForIt">
+<div>
+<img src="/images/ajax_loader.gif">
+</div>
+</div>
+<script type="text/javascript">	
+// Display 'Please wait...' dialog
+function pleaseWaitForSearch() {
+$( "#waitForIt" ).dialog({
+dialogClass: "no-close",
+autoOpen:false,
+height: 80,
+width: 120,
+modal: true,
+draggable: false,
+closeOnEscape: false,
+position: { my: "center", at: "center", of: window },
+open: function (event, ui) {
+$('.ui-widget-overlay').addClass('override');
+}
+}).parents(".ui-dialog").find(".ui-dialog-titlebar").remove(); 
+$( "#waitForIt" ).dialog("open");
+}
+</script>
 <script type="text/javascript">
 function validateGlobalSearchForm() {
 var x=document.getElementById( 'search-input' ).value;
-x = negateCrossSiteScripting( x );
-$( '#search-input' ).val( x );
 if( !x || x == null ) { 
 return false;
 } else {
+x = negateCrossSiteScripting( x );
+$( '#search-input' ).val( x );
 x = x.replace( /\s+/g, '' );	
 if( x == "" ) {
 return false
@@ -1071,18 +1290,32 @@ if( "typicals" == x ) {
 location.href = "/Typicals/search";
 return false;
 }
+if( "6x6" == x ) {
+location.href = "/Typicals/search";
+return false;
+}
+if( "6x8" == x ) {
+location.href = "/Typicals/search";
+return false;
+}
+if( "8x8" == x ) {
+location.href = "/Typicals/search";
+return false;
+}
 if( "bim" == x ) {
-location.href = "/design-plan/resources/furniture-symbols/showcase-symbols";
+location.href = "/design-plan/resources/furniture-symbols";
 return false;
 }
 if( "revit" == x ) {
-location.href = "/design-plan/resources/furniture-symbols/showcase-symbols";
+location.href = "/design-plan/resources/furniture-symbols";
 return false;
 }
 if( "sketchup" == x ) {
-location.href = "/design-plan/resources/furniture-symbols/showcase-symbols";
+location.href = "/design-plan/resources/furniture-symbols";
 return false;
 }
+// Display please wait...
+//pleaseWaitForSearch();
 }
 </script>
 <form action="/search-results" method="GET" onsubmit="return validateGlobalSearchForm()" id="globalSearchForm"> 
@@ -1100,17 +1333,44 @@ return false;
 </header>
 <section class="body_container">
 <div class="allbody-wrapper">
-<a class="top pos01" href="#top"></a>
+<!-- <a class="top pos01" href="#top"></a> -->
 <!--page sec starts-->
 <br>
 <section class="wrapper">
 <section id="page" class="pad"> 
 <article class="bodyBlock">
 <h1 class="heading">Privacy Policy</h1>
-<ul class="front_back">
-<li class="first"><a href="http://www.addthis.com/bookmark.php?v=300&amp;pubid=knolladdthis" class="addthis_button">share</a></li>
-<li class="last"><a href="#" class="printMe" onclick="window.print(); return false;">print</a></li>
-</ul>
+<div class="right" style="margin-top:6px;">
+<div id="addThisToolbox" class="row form_controls at-share-tbx-element addthis_16x16_style addthis-smartlayers animated at4-show"></div>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=knolladdthis"></script>
+<script>
+function renderAddThisToolbox() {
+if( typeof addthis !== 'undefined' ) {
+var addthis_config = {
+image_include: "at_image"
+};
+var tbx = $( "#addThisToolbox" ),
+svcs = {twitter: '', facebook: '', pinterest_share: '', linkedin: '', reddit: '', tumblr: '', email: '', print: ''};
+tbx.addClass( 'addthis_default_style' );
+tbx.attr( 'addthis:url', window.location );
+tbx.attr( 'addthis:title', 'Privacy Policy' );
+tbx.attr( 'addthis:description', '' );
+for( var s in svcs ) {
+var addThisButton = $( '<a/>' );
+addThisButton.addClass( 'addthis_button_' + s );
+tbx.append( addThisButton );
+}
+addthis.toolbox( "#addThisToolbox" );
+}
+}
+$(window).load(function() {
+// Make sure we haven't already rendered the AddThis toolbox on this page via a separate call to renderAddThisToolbox()
+//if ($('#addThisToolbox').children('div.atclear').size() < 1) {
+renderAddThisToolbox();
+//}
+});
+</script>
+</div>
 <p>This Privacy Policy explains Knoll®'s policy regarding the privacy of information supplied by users or collected by us from users of this Knoll Web Site. Because we want to build users trust and confidence in this web site, we want to disclose our privacy practices.</p>
 <h3 style="padding-bottom:10px">Modifications</h3>
 <p>Since this policy may change over time as we modify or expand our services, we suggest that you check back from time to time in order to understand how we treat your information.</p>
@@ -1215,7 +1475,7 @@ East Greenville, PA 18041<br>
 <a href="/shop/by-brand/knoll-kids"><img src="/media/68/631/knollkids_logo.jpg"></a>
 </li>
 <li class="">
-<a href="/design-plan/products/by-brand/spinneybeck-design"><img src="/media/242/562/Spinneybeck_logo,0.jpg"></a>
+<a href="/design-plan/products/by-brand/spinneybeck-design"><img src="/media/826/567/Spinneybeck_logo.png"></a>
 </li>
 <li class="last">
 <a href="/design-plan/products/by-brand/filzfelt-design"><img src="/media/485/35/filzfelt_logo,0.jpg"></a>
@@ -1262,20 +1522,7 @@ _ltk.SCA.CaptureEmail('shipToEmail');
 _ltk.SCA.CaptureEmail('billToEmail');
 });
 </script>
-<!-- Google Anylytics 
-<script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-1219454-1']);
-_gaq.push(['_setDomainName', 'knoll.com']); 
-_gaq.push(['_trackPageview']);
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-</script>
--->
 
 
 
-<div id="topcontrol" title="Scroll Back to Top" style="position: fixed; bottom: 5px; right: 5px; opacity: 0; cursor: pointer;"></div></body></html>
+</body></html>
