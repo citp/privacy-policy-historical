@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotornot.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607183243id_/http%3A//hotornot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotornot.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204155336id_/https%3A//hotornot.com/privacy) for the most accurate reproduction.*
 
-# Hot or Not - Privacy Policy
+# Hot or Not's Privacy Policy
 
 This policy and any dispute or claim arising out of or in connection with it or its subject matter (including non-contractual disputes or claims) shall be governed by and construed in accordance with English law. In the event there is a discrepancy between this English language version and any translated copies of the Privacy Policy, the English version shall prevail. 
 
@@ -66,6 +66,8 @@ When you post information about yourself or use the messaging, the amount of per
 Hot or Not offers you the opportunity to stay in touch with the friends and contacts you’ve made no matter where you are. You can do this by using your mobile phone. 
 
 When you use your mobile app, we will collect information about WiFi access points as well as other location information about your longitude and latitude. That information helps us identify your physical location so that it can be displayed and shared with other members choosing to view “nearby” posts. 
+
+We use third parties such as Foursquare to provide data on which the location information on Hot or Not is based. When doing so, we receive and use data of Foursquare's users, and we share data with Foursquare for use by Foursquare for its own purposes. For more information on how Foursquare treat data, please see <https://foursquare.com/legal/privacy/>
 
 #### Can Hot or Not collect information about me from other sites I use, such as Facebook? 
 
@@ -162,9 +164,11 @@ Not at all. We do not sell or rent out any personal information about you to any
 
 #### Does Hot or Not disclose my information to other parties? 
 
-We may share aggregated information that includes your personal information (but which doesn’t identify you directly), together with other information including log data with third parties for industry analysis and demographic profiling and to deliver targeted advertising about other products and services. 
+We may share aggregated information with such parties as Foursquare that includes your personal information (but which doesn’t identify you directly), together with other information including log data with third parties for industry analysis and demographic profiling and to deliver targeted advertising about other products and services. 
 
 In particular, in relation to targeted advertising, we may use third-party advertising companies to serve ads when you visit our app or website. These companies may use information about your visits to this and other apps and websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [this page](http://networkadvertising.org/managing/opt_out.asp).
+
+If you choose to, we may share your information with vendors, service providers, and other carefully selected third parties to improve our services to you, such as by facilitating payments. We ensure these parties must adhere to strict data protection and confidentiality provisions that are consistent with this Privacy Policy.
 
 Hot or Not also wishes to maintain a healthy community, and we will cooperate with all law enforcement inquiries and with all third parties to enforce their intellectual property or other rights. We may also disclose your personal information to government or law enforcement agencies, or private parties, as required by law when/or, in our sole discretion, we believe that disclosure is necessary to protect our legal rights, or those of third parties and/or to comply with a judicial proceeding, court order, or legal process served on us. 
 
@@ -233,4 +237,4 @@ You might also want to take a look at the following pages:
 
 
 
-This Privacy Policy was last updated on 30 September 2014.
+This Privacy Policy was last updated on 8 June 2015.
