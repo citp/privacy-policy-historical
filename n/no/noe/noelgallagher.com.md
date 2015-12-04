@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noelgallagher.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315012258id_/http%3A//www.noelgallagher.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noelgallagher.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204090201id_/http%3A//www.noelgallagher.com/privacy-policy) for the most accurate reproduction.*
 
 # Noel Gallagher - Privacy Policy
 
