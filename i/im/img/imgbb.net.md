@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgbb.net privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610053254id_/http%3A//imgbb.net/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgbb.net privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204075621id_/http%3A//imgbb.net/policy) for the most accurate reproduction.*
 
 # ImgBB - Free, fast and reliable imagehost
 
@@ -73,4 +73,4 @@ You understand and agree that Imgbb.com stores and processes your information on
 
 ### 8\. How to Contact Us
 
-If you have any questions regarding this privacy policy or information that you have submitted to us you can contact us at: support[@]imgbb.com
+If you have any questions regarding this privacy policy or information that you have submitted to us you can contact us at: contact[@]imgbb.net
