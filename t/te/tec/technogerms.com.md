@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technogerms.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624065205id_/http%3A//technogerms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technogerms.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204075750id_/http%3A//technogerms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TechnoGerms
 
