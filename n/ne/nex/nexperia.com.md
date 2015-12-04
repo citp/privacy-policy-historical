@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nexperia.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215063708id_/http%3A//www.nxp.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexperia.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204151356id_/http%3A//www.nxp.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy :: NXP Semiconductors
 
@@ -63,3 +63,28 @@ You may contact us through this contact form if you would like to:
   * opt-out from receiving any future personalized offers or information from NXP.
 
 
+
+### German privacy law
+
+In accordance with Germany privacy law the data privacy officer hereby informs you on data privacy procedures of NXP legal entities located in Germany. You can download the public record of procedures here:
+
+  * [For NXP Semiconductors Germany GmbH](http://www.nxp.com/wcm_documents/privacy-policy/verfahrensverzeichnis_germany_GmbH.doc) (German/Deutsch)
+  * [For NXP Semiconductors GA GmbH](http://www.nxp.com/wcm_documents/privacy-policy/verfahrensverzeichnis_germany_GA_GmbH.doc) (German/Deutsch)
+
+
+
+### This website is provided for you by:
+
+ _NXP Semiconductors Netherlands B.V._
+
+_High Tech Campus 60_
+
+_5656 AG Eindhoven_
+
+_The Netherlands_
+
+_Trade register number: 17070621_
+
+_VAT number: NL800009782B01_
+
+_For any remarks in relation to this web site please contact our Webmaster._
