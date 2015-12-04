@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sawtoothsoftware.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516150330id_/http%3A//www.sawtoothsoftware.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sawtoothsoftware.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204184621id_/http%3A//www.sawtoothsoftware.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Survey Software & Conjoint Analysis - Privacy Policy
 
@@ -12,6 +12,6 @@ Sawtooth Software uses Secure Socket Layer (SSL) when collecting credit card inf
 
 Sawtooth Software periodically sends out E-News and other promotional posts regarding training events. Recipients of E-News or other promotional collateral may opt out of these mailings by return email post with a simple request (or email us with a simple request at [support@sawtoothsoftware.com](mailto:support@sawtoothsoftware.com)).
 
-Sawtooth Software communicates with license administrators and users regarding bugs and software upgrades. These communications are critical to ensure proper functionality of our tools, and license administrators receive these notices even if they have opted out of E-News and promotional communications. We do not sell or rent our lists.
+Sawtooth Software communicates with subscription administrators and users regarding bugs and software upgrades. These communications are critical to ensure proper functionality of our tools, and subscription administrators receive these notices even if they have opted out of E-News and promotional communications. We do not sell or rent our lists.
 
 Our survey hosting service also collects information from customers and respondents. Please see the Hosting Services Agreement for more information.
