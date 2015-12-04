@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the platform161.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502073245id_/http%3A//platform161.com/cookie-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platform161.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204234725id_/http%3A//platform161.com/cookie-and-privacy-policy) for the most accurate reproduction.*
 
 # Cookie and Privacy Policy | Platform161
 
