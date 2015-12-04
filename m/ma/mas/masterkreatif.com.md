@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masterkreatif.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502133710id_/http%3A//www.masterkreatif.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterkreatif.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204170658id_/http%3A//www.masterkreatif.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Policy | MASTERkreatif
 
@@ -25,14 +25,6 @@ Many of our advertisers use cookies to determine how many times you’ve seen an
 **TRAFFIC REPORTS**
 
 masterkreatif.com will records IP addresses, Internet service provider information, referrer strings, browser types and the date and time the page is loaded. We use this information in the aggregate only to provide traffic statistics to advertisers and to figure out which features and editorials are most popular.
-
-**THE LEGAL PROCESS**
-
-We will make every effort to preserve user privacy, but if necessary with a legitimate reason, masterkreatif.com may need to disclose information.
-
-**BUSINESS TRANSITIONS**
-
-If masterkreatif.com acquired by or merged with another company, our web assets, including personal information, will likely be transferred to the new company.
 
 **LINKS**
 
