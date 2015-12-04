@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the mirillis.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322061813id_/https%3A//mirillis.com/en/company/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirillis.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204104451id_/https%3A//mirillis.com/en/company/privacypolicy.html) for the most accurate reproduction.*
 
 # Mirillis - Privacy Policy
 
-Last updated: **04/05/2012**
+Last updated: **27/04/2015**
 
-_Please read this information carefully before using this website. When using this website, you acknowledge and agree to the terms of Mirillis Privacy Policy._
+_Please read this information carefully before using Mirillis websites or/and creating Mirillis account. When creating Mirillis account or using Mirillis website, you acknowledge and agree to the terms of Mirillis Privacy Policy._
 
 ## What personal information is collected and when
 
-Mirillis Ltd. does not collect any personal information, this means no information such as name, address or telephone number is collected and stored online by Mirillis Ltd. E-mail contact information is collected: during product purchase, forum registration process, during download of selected products. By providing e-mail address during purchase of Mirillis products or download of Splash Lite you automatically accept to subscribe Mirillis Newsletter. To unsubscribe please use [ this ](https://web.archive.org/web/20150322061813id_/https%3A//mirillis.com/en/company/newsletter.html) page. 
+Mirillis Ltd. does not collect any personal information, this means no information such as name, address or telephone number is collected and stored online by Mirillis Ltd. E-mail contact information is collected: during product purchase, forum registration process, during download of selected products and when creating Mirillis account. By providing e-mail address during purchase of Mirillis products or download of Splash Lite you automatically accept to subscribe Mirillis Newsletter. To unsubscribe please use [ this ](https://web.archive.org/web/20151204104451id_/https%3A//mirillis.com/en/company/newsletter.html) page. 
 
 We use Google Analytics, Google AdWords Conversion tracker, other Google services and Mirillis services that place cookies on a browser across the website. Mirillis services and other 3rd party services help us increase the website's usability for our visitors and customers. Cookies are set and read by Google services and Mirillis website. You can opt out of Google tracking by visiting [ this ](http://www.google.com/privacy/ads/) page. 
 
