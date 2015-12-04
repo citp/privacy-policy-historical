@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the pixersize.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613131944id_/http%3A//pixersize.com/terms-of-use%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixersize.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204170233id_/http%3A//pixersize.com/terms-of-use%23privacy) for the most accurate reproduction.*
 
 # Terms of Use • pixersize.com
 
-  1. The operator of the PIXERSIZE's website is GREEN CAPITAL LTD is based in St. Vincent (Grenadines)
-  2. All relations under the Agreement between GREEN CAPITAL LTD ( **Offerer** ") and its **Customer** are the subject to general commercial terms and conditions. Any possible exemptions shall be considered only if previously confirmed between GREEN CAPITAL LTD and the Customer in writing or if explicitly specified in these general commercial terms and conditions. Any oral commitments of the Offerer.
+  1. The operator of the PIXERSIZE's website is GREEN CAPITAL LTD is based in Saint Vincent and the Grenadines.
+  2. All relations under the Agreement between GREEN CAPITAL LTD ( **Offerer** ) and its **Customer** are the subject to general commercial terms and conditions. Any possible exemptions shall be considered only if previously confirmed between GREEN CAPITAL LTD and the Customer in writing or if explicitly specified in these general commercial terms and conditions. Any oral commitments of the Offerer.
   3. The Customer undertakes to provide complete and true data (name, address, etc.) in the form of order. In the event of providing false data, the Customer shall bear liability for any damage resulting from it.
   4. If any of the provisions of these general commercial terms and conditions becomes or shall become invalid, the remaining provisions shall remain in force
   5. GREEN CAPITAL LTD is responsible for the printing service of products ordered in PIXERS.
@@ -42,7 +42,7 @@
 
 
 
-  1. The operator of the PIXERSIZE's website is GREEN CAPITAL LTD is based in St. Vincent (Grenadines)
+  1. The operator of the PIXERSIZE's website is GREEN CAPITAL LTD is based in Saint Vincent and the Grenadines.
   2. Images and other products presented by GREEN CAPITAL LTD in the internet or in other media are not an offer of sale, but merely an invitation to submit customer bids (invitatio ad offerendum). Requests can be submitted online via order forms prepared by GREEN CAPITAL LTD.
   3. The products offered are just model motives. Therefore, the Customer does not receive the original image, but a digital copy consistent with the motif displayed on the website.
   4. Every ordered service must be customized by the customer according to her/his wishes. Please familiarize yourself with all the possibilities of customization and take into consideration the final price. All prices are always gross.
