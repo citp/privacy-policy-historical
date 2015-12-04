@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sundancecatalog.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628151412id_/http%3A//www.sundancecatalog.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sundancecatalog.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204152804id_/http%3A//www.sundancecatalog.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy and Security | Robert Redford's Sundance Catalog
 
