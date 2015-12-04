@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beet.tv privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629000220id_/http%3A//www.beet.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beet.tv privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204174412id_/http%3A//www.beet.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Beet.TV
 
