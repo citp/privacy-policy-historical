@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the guff.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510152527id_/http%3A//guff.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guff.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204121811id_/http%3A//guff.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Guff
+
+X
+
+Subscribe &  
+get the latest GUFF  
+delivered to your mailbox 
+
+X
+
+#### Search #TAGS or KEYWORDS
+
+DELETE or ESC to clear.
+
+Results will load here
 
 _Updated: June 16, 2014_
 
