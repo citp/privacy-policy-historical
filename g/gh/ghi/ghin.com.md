@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the ghin.com privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401034824id_/http%3A//www.usga.org/general_info/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghin.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204210832id_/http%3A//www.usga.org/general_info/Privacy-Policy) for the most accurate reproduction.*
 
-# USGA: Privacy Policy
-
-Date of Last Revision:  **December 18, 2013**
+# Privacy Policy
 
 The United States Golf Association (the “USGA” or “we” or “us” or “our”) recognizes the importance its visitors to its websites and users of its mobile device applications place on the privacy of their information.  We created this privacy policy statement (“Privacy Policy”) to demonstrate our firm commitment to protecting the privacy of our users and to ensure that our users understand the privacy policies and procedures of the USGA.
 
-This Privacy Policy governs the privacy practices and procedures of the USGA with respect to the data it collects from visitors via the USGA web sites listed in the USGA’s [Terms of Use](https://web.archive.org/general_info/Terms-and-Conditions/ "Terms of Use")  (the “Web Sites” or the “USGA Web Sites”) and from users of the USGA mobile device applications (the “Apps”)(the Web Sites and the Apps collectively referredto herein as the “Services”).  Neither the Privacy Policy nor the Terms of Use apply to data collected by any other means, including any offline means.
+This Privacy Policy governs the privacy practices and procedures of the USGA with respect to the data it collects from visitors via the USGA web sites listed in the USGA’s [Terms of Use](https://web.archive.org/content/usga/home-page/terms-and-conditions.html "Terms of Use")  (the “Web Sites” or the “USGA Web Sites”) and from users of the USGA mobile device applications (the “Apps”)(the Web Sites and the Apps collectively referredto herein as the “Services”).  Neither the Privacy Policy nor the Terms of Use apply to data collected by any other means, including any offline means.
 
- By using the Web Sites, or downloading an App, as applicable, you are consenting to the practices and procedures described in this Privacy Policy and in the USGA’s [Terms of Use](https://web.archive.org/general_info/Terms-and-Conditions/ "Terms of Use") into which this Privacy Policy is incorporated. If you do not agree with the practices and procedures described in this Privacy Policy or in the Terms of Use, please discontinue using all of the Services and follow the applicable procedures described in the Opt-Out section of this Privacy Policy.
+ By using the Web Sites, or downloading an App, as applicable, you are consenting to the practices and procedures described in this Privacy Policy and in the USGA’s [Terms of Use](https://web.archive.org/content/usga/home-page/terms-and-conditions.html "Terms of Use") into which this Privacy Policy is incorporated. If you do not agree with the practices and procedures described in this Privacy Policy or in the Terms of Use, please discontinue using all of the Services and follow the applicable procedures described in the Opt-Out section of this Privacy Policy.
 
 Third parties, such as ad networks, web analytics companies and social networking platforms, may collect personally identifiable information about your online activities over time and across our Services. These companies may use information about your visits to this and other web sites, and general geographic information derived from your IP address, in order to provide advertisements about goods and services of interest to you. These advertisements may appear on this Web Site and on other web sites. These companies may employ cookies, clear GIFs and other tracking technologies to cause relevant ads to be displayed to you. Some advertisements may display icons that consumers can click on for more information about their advertising choices.
 
@@ -28,7 +26,7 @@ What Information Does the USGA Collect?
 
 How Does the USGA Use My Information?
 
-Sharing with Third Parties 
+Sharing with Third Parties
 
 Third Party Advertisers
 
@@ -50,7 +48,7 @@ Contact Us
 
 **Policy Changes**
 
-We suggest that you review this Privacy Policy and the Terms of Use periodically as we may modify it from time to time as our Services evolve.  Your continued use of the Services after the posting of a revised Privacy Policy signifies your acceptance of the revised terms.  Under certain circumstances, we may also elect to notify you of changes or updates to our Privacy Policy by additional means, such as posting a notice on the front page of the affected Web Sites or sending you an e-mail. 
+We suggest that you review this Privacy Policy and the Terms of Use periodically as we may modify it from time to time as our Services evolve.  Your continued use of the Services after the posting of a revised Privacy Policy signifies your acceptance of the revised terms.  Under certain circumstances, we may also elect to notify you of changes or updates to our Privacy Policy by additional means, such as posting a notice on the front page of the affected Web Sites or sending you an e-mail.
 
 **What Information Does the USGA Collect?**
 
@@ -126,11 +124,11 @@ This Privacy Policy applies solely to information collected by the USGA via its 
 
 **Children**
 
-Children under the age of 13 years may not provide any Personal Information, including name, physical and e-mail address, telephone number, or any other information that allows others to contact them physically or electronically, to the USGA via any of the Services without verifiable parental consent.  The USGA does not knowingly collect or solicit Personal Information from anyone under the age of 13 or knowingly allow such persons to register for use of any of the Services. In the event the USGA learns that we have collected Personal Information from a child under age 13 without verification of parental consent, we will delete such information as quickly as possible. 
+Children under the age of 13 years may not provide any Personal Information, including name, physical and e-mail address, telephone number, or any other information that allows others to contact them physically or electronically, to the USGA via any of the Services without verifiable parental consent.  The USGA does not knowingly collect or solicit Personal Information from anyone under the age of 13 or knowingly allow such persons to register for use of any of the Services. In the event the USGA learns that we have collected Personal Information from a child under age 13 without verification of parental consent, we will delete such information as quickly as possible.
 
 **Consent to Worldwide Transfer and Processing of Personal Information**
 
-When you give your personally identifiable information to the USGA through the Services, it may be collected and used by the USGA and its affiliates for the purposes of, for example, providing you services and sending you correspondence, and additionally may be transferred to entities other than the USGA's affiliates, which entities may be located in countries outside the EEA, including the United States. Each of these countries has different privacy laws that afford varying levels of protection for your personally identifiable information, and such laws may not be as comprehensive as those that exist in the European Economic Area ("EEA"). By registering on the Services or otherwise using their services, you consent to the USGA's and its affiliates' transmission to, and collection and processing of your information in, any jurisdiction, in accordance with its Privacy Policy. You can obtain details of the companies and countries in which your data has been collected and to which your data has been transferred by contacting us at: 
+When you give your personally identifiable information to the USGA through the Services, it may be collected and used by the USGA and its affiliates for the purposes of, for example, providing you services and sending you correspondence, and additionally may be transferred to entities other than the USGA's affiliates, which entities may be located in countries outside the EEA, including the United States. Each of these countries has different privacy laws that afford varying levels of protection for your personally identifiable information, and such laws may not be as comprehensive as those that exist in the European Economic Area ("EEA"). By registering on the Services or otherwise using their services, you consent to the USGA's and its affiliates' transmission to, and collection and processing of your information in, any jurisdiction, in accordance with its Privacy Policy. You can obtain details of the companies and countries in which your data has been collected and to which your data has been transferred by contacting us at:
 
 United States Golf Association  
 P.O. Box 708  
@@ -140,13 +138,13 @@ Fax: 908-234-9687.
 
 **Change Information**
 
-You can access, view and change your preferences, profile, and other information by visiting [www.usga.org](https://web.archive.org/) or emailing [membership@usga.org](mailto:membership@usga.org "membership@usga.org"), calling us at (908) 234-2300, or writing us at the United States Golf Association, P.O. Box 746, Far Hills, New Jersey 07931.  You may also inform us of such changes by following the procedures described in the Contact Us section of this Privacy Policy, and the USGA will take reasonable steps to correct any information about you that is incorrect.
+You can access, view and change your preferences, profile, and other information by visiting [www.usga.org](http://www.usga.org/) or emailing [membership@usga.org](mailto:membership@usga.org "membership@usga.org"), calling us at (908) 234-2300, or writing us at the United States Golf Association, P.O. Box 746, Far Hills, New Jersey 07931.  You may also inform us of such changes by following the procedures described in the Contact Us section of this Privacy Policy, and the USGA will take reasonable steps to correct any information about you that is incorrect.
 
 **Opt Out**
 
-You can opt out of sharing your Personal Information with the USGA, being contacted by the USGA for promotional purposes, or having your Personal Information disclosed to third parties for such third parties’ marketing use.  To exercise your choice to opt out, simply check or un-check the appropriate box on the form or web page on which you are providing your Personal Information, or you may always update your opt-out preferences in your Web Site account (if any and if applicable) or by contacting the USGA by following the instructions set forth in the Contact Us section of this Privacy Policy below.  From each of its promotional e-mails, the USGA also enables you to opt-out of receiving future promotional emails from the USGA. 
+You can opt out of sharing your Personal Information with the USGA, being contacted by the USGA for promotional purposes, or having your Personal Information disclosed to third parties for such third parties’ marketing use.  To exercise your choice to opt out, simply check or un-check the appropriate box on the form or web page on which you are providing your Personal Information, or you may always update your opt-out preferences in your Web Site account (if any and if applicable) or by contacting the USGA by following the instructions set forth in the Contact Us section of this Privacy Policy below.  From each of its promotional e-mails, the USGA also enables you to opt-out of receiving future promotional emails from the USGA.
 
-Please understand that if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us.  Also, a request to have us stop sharing your Personal Information with other entities for marketing purposes will only apply as of the date of your request, and we will not be responsible for any communications that you may receive from entities that received your Personal Information prior to such request.  In these cases, please contact that entity directly. 
+Please understand that if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us.  Also, a request to have us stop sharing your Personal Information with other entities for marketing purposes will only apply as of the date of your request, and we will not be responsible for any communications that you may receive from entities that received your Personal Information prior to such request.  In these cases, please contact that entity directly.
 
 Please note that your choice to change your information or opt out may affect the USGA’s ability to provide you with the requested product or service.  If you change your mind at a later time, you can contact the USGA about your preferences by following the procedures in the Contact Us section of this Privacy Policy.
 
