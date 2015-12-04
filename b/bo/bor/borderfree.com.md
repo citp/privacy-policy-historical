@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the borderfree.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507223726id_/http%3A//www.borderfree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the borderfree.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204084333id_/http%3A//www.borderfree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Borderfree
 
-**Last Updated:** February 12, 2015
+**Last Updated:** June 19, 2015
 
 This Privacy Policy is for Borderfree, Inc. (f/k/a FiftyOne, Inc. dba FiftyOne Global Ecommerce) and its subsidiaries, including BoxHop LLC (for the purposes of this Policy, collectively "Borderfree"). Borderfree understands how important your privacy is to you. Rest assured that your privacy and trust are also very important to us.
 
@@ -97,7 +97,7 @@ We may use a third party service provider to conduct these questionnaires, panel
 
 #### Has a Third Party Reviewed This Privacy Policy?
 
-We have been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through the Borderfree Websites. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or concerns regarding this Privacy Policy, you should first contact Ari Staiman, General Counsel, Borderfree at safeharbor@borderfree.com or via postal mail at 292 Madison Avenue, 5th Floor, New York, NY 10017. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+We have been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through the Borderfree Websites. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or concerns regarding this Privacy Policy, you should first contact us at safeharbor@borderfree.com or via postal mail at 292 Madison Avenue, 5th Floor, New York, NY 10017. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 #### Is Borderfree Both EU & Swiss Safe Harbor Compliant?
 
