@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the crucial.com privacy policy that was archived on 2015-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609185245id_/http%3A//www.crucial.com/usa/en/company-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crucial.com privacy policy that was archived on 2015-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151204051934id_/http%3A//www.crucial.com/usa/en/company-privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:wairole="http://www.w3.org/2005/01/wai-rdf/GUIRoleTaxonomy#" xmlns:waistate="http://www.w3.org/2005/07/aaa" lang="en" xml:lang="en"><head>
 		<meta http-equiv="x-ua-compatible" content="IE=Edge">
@@ -11,7 +11,7 @@
 				
 		
 
-<link rel="stylesheet" href="http://assets.crucial.com/wcsstore/CrucialSAS/css/ext/styles.css?v=2015051118">
+<link rel="stylesheet" href="http://assets.crucial.com/wcsstore/CrucialSAS/css/ext/styles.css?v=2015120110">
 <!-- Include script files -->
 		<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-RS3G"></script><script type="text/javascript" src="http://assets.crucial.com/wcsstore/customdojosmall/dojo/dojo.js" djconfig="baseUrl: '/wcsstore/dojo18/dojo/', parseOnLoad: true, isDebug: false,  modulePaths: {storetext: '/wcsstore/CrucialSAS/', ext: '/wcsstore/CrucialSAS/javascript/ext'}, useCommentedJson: true,locale: 'en-us' "></script>
 		<!-- BEGIN CommonJSToInclude.jspf -->
@@ -186,6 +186,93 @@
 	}
 	
 	/**
+	* Displays the progress bar dialog to indicate a request is currently running.
+	* There are certain cases where displaying the progress bar causes problems in Opera,
+	* the optional parameter "checkForOpera" is passed to specifically check if the browser used is Opera,
+	* if so, do not display the progress bar in these cases.
+	*
+	* @param {boolean} checkForOpera Indicates whether to check if the browser is Opera or not.
+	*/
+	function cursor_wait(checkForOpera) {
+		var showPopup = true;	
+	
+		//Since dijit does not support Opera
+		//Some progress bar dialog will be blocked in Opera to avoid error
+		if(checkForOpera == true){
+			if(dojo.isOpera > 0){
+				showPopup = false;
+			}
+		}
+		
+		//For all other browsers and pages that work with Opera
+		//Display the progress bar dialog
+		if(showPopup){
+			//Delay the progress bar from showing up
+			setTimeout('showProgressBar()',500);
+		}
+	}
+
+	/**
+	* Helper method for cursor_wait() to display the progress bar pop-up.
+	* Displays progress bar, next to the element if the element id was specified in currentId,
+	* or defaults to the center of the page if currentId is empty.
+	* Progress bar will only be displayed if the submitted request has not been completed.
+	* This method is only called implicitly by the cursor_wait() method, which is triggered before a request is submitted.
+	*/
+	function showProgressBar(){
+		//After the delay, if the request is still not finished
+		//Then continue and show the progress bar
+		//Otherwise, do not execute the following code
+		if(!requestSubmitted){
+			return;
+		}
+		
+		displayProgressBar();
+		
+	}
+
+
+	/**
+	* Helper method for showProgressBar() to display the progress bar pop-up.
+	* It can also be forced to show the progress bar directly in special cases.
+	* The function also displays the progress bar next to the element if the element id was specified in currentId,
+	* or defaults to the center of the page if currentId is empty.
+	* This method can be called implicitly by the cursor_wait() method or explicitly by itself.
+	*/
+	function displayProgressBar(){
+		var dialog = dijit.byId('progress_bar_dialog');
+		
+		//Make sure the dialog is created
+		if(dialog != null){
+				
+			//Hide the header for the close button
+			dialog.closeButtonNode.style.display='none';		
+			
+			var progressBar = document.getElementById('progress_bar');
+			progressBar.style.display = 'block';	
+					
+			//Check whether or not an element ID is provided
+			//If yes, point the progress bar to this element
+			//Otherwise, show the progress bar in a dialog
+			if(this.currentId != ""){
+				var element = document.getElementById(this.currentId);	
+				var pos = dijit.placeOnScreenAroundElement(progressBar,element,{'TR':'TL'});	
+			} else {
+				dialog.containerNode.innerHTML == "";
+				progressBar.style.left = '';
+				progressBar.style.top = '';
+				dialog.containerNode.appendChild(progressBar);
+				dialog.show();		
+			}
+			
+			//Make sure the progress bar dialog goes away after 30 minutes
+			//and does not hang if server calls does not return
+			//Assuming the longest server calls return before 30 minutes
+			setTimeout("cursor_clear()",1800000);
+		}
+	}
+
+	/**
 	 * Hides the progress bar dialog when the submitted request has completed.
 	 * Set the visibility of the progress bar dialog to hide from the page.
 	 */
@@ -219,6 +306,10 @@
 		}
 		return false;
 	}
+	
+	function resetRequest() {
+	requestSubmitted = false;
+}
 
 	/**
 	 * This function store a error key in the cookie. The error key will be used to retrieve error messages. 
@@ -261,9 +352,32 @@
 		}
 		return false;
 	}
+	
+	/**
+	* Validates if the input value is a non-negative integer using regular expression.
+	*
+	* @param {String} value The value to validate.
+	* 
+	* @return {Boolean} Indicates if the given value is a non-negative integer. 
+	*/
+	function isNonNegativeInteger(value){
+		var regExpTester = new RegExp(/^\d*$/);
+		return (value != null && value != "" && regExpTester.test(value));
+	}
+	
+	/**
+	* Validates if the input value is a positive integer.
+	*
+	* @param {String} value The value to validate.
+	* 
+	* @return {Boolean} Indicates if the given value is a positive integer. 
+	*/
+	function isPositiveInteger(value){
+		return (isNonNegativeInteger(value) && value != 0);
+	}
 </script>
 
-<script type="text/javascript" src="http://assets.crucial.com/wcsstore/CrucialSAS/javascript/Common/CrucialCommonScriptContentPage.js?v=2015051118"></script>
+<script type="text/javascript" src="http://assets.crucial.com/wcsstore/CrucialSAS/javascript/Common/CrucialCommonScriptContentPage.js?v=2015120110"></script>
 
 
 
@@ -307,6 +421,7 @@
                                         <script type="text/javascript">
                                                 cmSetupNormalization("krypto-_-krypto");
                                                 cmSetClientID ("50330000|crucial.com", true, "data.coremetrics.com", "crucial.com");
+                                                cmSetupOther({"cm_TrackImpressions":""});
                                         </script>
                                 <!-- END CommonJSToInclude.jspf -->
 	</head>		
@@ -455,6 +570,9 @@ function updateMiniWLTitle() {
 						
 						<span value="http://it.crucial.com/webapp/wcs/stores/servlet/StoreView?storeId=10155&amp;catalogId=10155&amp;langId=-4">Italiano (Euros)</span>
 					
+						
+						<span value="http://www.crucial.de/webapp/wcs/stores/servlet/StoreView?storeId=11152&amp;catalogId=11152&amp;langId=-3">Germany (EURO)</span>
+					
 						<span value="http://www.crucial.cn/">中国 (亚洲)</span>
 					
 				</div>
@@ -493,7 +611,7 @@ function updateMiniWLTitle() {
 				dojo.addOnLoad(function(){
 					SearchJS.init();
 					SearchJS.setCachedSuggestionsURL('SearchComponentCachedSuggestionsView?langId=-1&amp;storeId=10151&amp;catalogId=10151');
-					SearchJS.setAutoSuggestURL('SearchComponentAutoSuggestView?coreName=MC_10001_CatalogEntry_en_US&amp;serverURL=http%3a%2f%2fsolr.micron.com%3a3737%2fsolr%2fMC_10001_CatalogEntry_en_US&amp;langId=-1&amp;storeId=10151&amp;catalogId=10151');
+					SearchJS.setAutoSuggestURL('SearchComponentAutoSuggestView?coreName=MC_10001_CatalogEntry_en_US&amp;serverURL=http%3a%2f%2flocalhost%3a3737%2fsolr%2fMC_10001_CatalogEntry_en_US&amp;langId=-1&amp;storeId=10151&amp;catalogId=10151');
 					SearchJS.setViewAllURL('http://www.crucial.com/SearchDisplay?searchFor=Articles&storeId=10151&urlLangId=-1&urlRequestType=Base&sType=SimpleSearch&langId=-1&catalogId=10151');
 				});
 
@@ -602,67 +720,68 @@ function updateMiniWLTitle() {
 </div>
 <!-- End: Header --><!-- Main Menu as Espot-->
 <div>
-	<!-- BEGIN ContentRecommendation.jsp --><!--  us-header-menu  -->
+	<!-- BEGIN ContentRecommendation.jsp --><!-- us-header-menu -->
+
 <div id="menuWrap" class="center">
 <ul id="menu" class="branded">
 <!-- store nav -->
 <li class="nav1">
-	<a href="/usa/en">store</a>
+	<a href="/usa/en?cm_re=top-nav-_-flyout-store-_-us-store">store</a>
 	<div class="menuContent store-content">
 		<div class="tools-wide">
 			<img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/guarantee-badge.png" class="compatible-badge">
 			<h1>Compatible upgrades. Guaranteed.</h1>
-			<span class="action"><a href="/usa/en/advisor" class="btnGray">advisor tool</a><a href="/usa/en/systemscanner" class="btnGray">system scanner</a></span>
+			<span class="action"><a href="/usa/en/advisor?cm_re=top-nav-_-flyout-store-_-us-store-advisor" class="btnGray">advisor tool</a><a href="/usa/en/systemscanner?cm_re=top-nav-_-flyout-store-_-us-store-scanner" class="btnGray">system scanner</a></span>
 		</div>
 		<div class="menuColumn">
             <div class="sectionThumb">
-            	<a href="/usa/en/memory">
+            	<a href="/usa/en/memory?cm_re=top-nav-_-flyout-store-_-us-store-memory">
                 	<span class="menu-title">memory</span>
                     <img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/menu/menu-store-memory.png">
                 </a>
             </div>
             <div class="clear"></div>
 			<ul>
-				<li><a href="/usa/en/memory/DDR4">DDR4</a></li>
-                <li><a href="/usa/en/memory/DDR3">DDR3</a></li>
-				<li><a href="/usa/en/memory/DDR2">DDR2</a></li>
-				<li><a href="/usa/en/memory/DDR">DDR</a></li>
+				<li><a href="/usa/en/memory/DDR4?cm_re=top-nav-_-flyout-store-_-us-store-memory-ddr4">DDR4</a></li>
+                <li><a href="/usa/en/memory/DDR3?cm_re=top-nav-_-flyout-store-_-us-store-memory-ddr3">DDR3</a></li>
+				<li><a href="/usa/en/memory/DDR2?cm_re=top-nav-_-flyout-store-_-us-store-memory-ddr2">DDR2</a></li>
+				<li><a href="/usa/en/memory/DDR?cm_re=top-nav-_-flyout-store-_-us-store-memory-ddr">DDR</a></li>
             </ul>
             <ul>
-				<li><a href="/usa/en/memory/crucial">Crucial memory</a></li>
-                <li><a href="/usa/en/memory/ballistix%20sport--ballistix%20tactical--ballistix%20elite">Ballistix memory</a></li>
-                <li><a href="/usa/en/memory/ecc--rdimm--fbdimm--lrdimm--udimm--sodimm">server memory</a></li>
-				<li><a href="/usa/en/apple-memory">memory for Mac</a></li> <!-- don't really have a filter for these -->
+				<li><a href="/usa/en/memory/crucial?cm_re=top-nav-_-flyout-store-_-us-store-memory-crucial">Crucial memory</a></li>
+                <li><a href="/usa/en/memory/ballistix%20sport--ballistix%20tactical--ballistix%20elite?cm_re=top-nav-_-flyout-store-_-us-store-memory-bx">Ballistix memory</a></li>
+                <li><a href="/usa/en/memory/ecc--rdimm--fbdimm--lrdimm--udimm--sodimm?cm_re=top-nav-_-flyout-store-_-us-store-memory-server">server memory</a></li>
+				<li><a href="/usa/en/apple-memory?cm_re=top-nav-_-flyout-store-_-us-store-memory-mac">memory for Mac</a></li> <!-- don't really have a filter for these -->
 			</ul>
 		</div>
 		<div class="menuColumn">
             <div class="sectionThumb">
-            	<a href="/usa/en/ssd">
+            	<a href="/usa/en/ssd?cm_re=top-nav-_-flyout-store-_-us-store-ssd">
                 	<span class="menu-title">solid state drives</span>
                     <img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/menu/menu-store-ssd.png">
                 </a>
             </div>
             <div class="clear"></div>
 			<ul>
-				<li><a href="/usa/en/ssd/series/MX200">MX200 SSD</a></li>
-				<li><a href="/usa/en/ssd/series/MX100">MX100 SSD</a></li>
-				<li><a href="/usa/en/ssd/series/BX100">BX100 SSD</a></li>
-				<li><a href="/usa/en/store-ssd-factory-recertified">factory recertified SSD</a></li>
+				<li><a href="/usa/en/ssd/series/MX200?cm_re=top-nav-_-flyout-store-_-us-store-ssd-mx200">MX200 SSD</a></li>
+                <li><a href="/usa/en/ssd/series/BX200?cm_re=top-nav-_-flyout-store-_-us-store-ssd-bx100">BX200 SSD</a></li>
+				<li><a href="/usa/en/ssd/series/BX100?cm_re=top-nav-_-flyout-store-_-us-store-ssd-bx100">BX100 SSD</a></li>
+				<li><a href="/usa/en/store-ssd-factory-recertified?cm_re=top-nav-_-flyout-store-_-us-store-ssd-recertified">factory recertified SSD</a></li>
 			</ul>
 		</div>
 		<div class="menuColumn">
             <div class="sectionThumb">
-            	<a href="/usa/en/accessories">
+            	<a href="/usa/en/accessories?cm_re=top-nav-_-flyout-store-_-us-store-accessories">
                 	<span class="menu-title">accessories</span>
                     <img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/menu/menu-accessories.png">
                 </a>
             </div>
             <div class="clear"></div>
 			<ul>
-				<li><a href="/usa/en/upgrade-tools">upgrade tools</a></li>
-				<li><a href="/usa/en/computer-components">computer components</a></li>
-				<li><a href="/usa/en/usb-flash-drives">USB flash drives</a></li>
-				<li><a href="/usa/en/miscellaneous">miscellaneous</a></li>
+				<li><a href="/usa/en/upgrade-tools?cm_re=top-nav-_-flyout-store-_-us-store-accessories-upgrade-tools">upgrade tools</a></li>
+				<li><a href="/usa/en/computer-components?cm_re=top-nav-_-flyout-store-_-us-store-accessories-computer-components">computer components</a></li>
+				<li><a href="/usa/en/usb-flash-drives?cm_re=top-nav-_-flyout-store-_-us-store-accessories-usb-drives">USB flash drives</a></li>
+				<li><a href="/usa/en/miscellaneous?cm_re=top-nav-_-flyout-store-_-us-store-accessories-miscellaneous">miscellaneous</a></li>
 			</ul>
 		</div>
 		<div class="menuColumn">
@@ -672,73 +791,73 @@ function updateMiniWLTitle() {
             </div>
             <div class="clear"></div>
             <ul>
-                <li><a href="/usa/en/acer-memory">Acer</a></li>
-                <li><a href="/usa/en/apple-memory">Apple</a></li>
-                <li><a href="/usa/en/asus-memory">Asus</a></li>
-                <li><a href="/usa/en/dell-memory">Dell</a></li>
+                <li><a href="/usa/en/acer-memory?cm_re=top-nav-_-flyout-store-_-us-store-manufacturer-acer">Acer</a></li>
+                <li><a href="/usa/en/apple-memory?cm_re=top-nav-_-flyout-store-_-us-store-manufacturer-apple">Apple</a></li>
+                <li><a href="/usa/en/asus-memory?cm_re=top-nav-_-flyout-store-_-us-store-manufacturer-asus">Asus</a></li>
+                <li><a href="/usa/en/dell-memory?cm_re=top-nav-_-flyout-store-_-us-store-manufacturer-dell">Dell</a></li>
             </ul>
             <ul>
-                <li><a href="/usa/en/gateway-memory">Gateway</a></li>
-                <li><a href="/usa/en/hp-memory">HP</a></li>
-                <li><a href="/usa/en/lenovo-memory">Lenovo</a></li>
-                <li><a href="/usa/en/toshiba-memory">Toshiba</a></li>
+                <li><a href="/usa/en/gateway-memory?cm_re=top-nav-_-flyout-store-_-us-store-manufacturer-gateway">Gateway</a></li>
+                <li><a href="/usa/en/hp-memory?cm_re=top-nav-_-flyout-store-_-us-store-manufacturer-hp">HP</a></li>
+                <li><a href="/usa/en/lenovo-memory?cm_re=top-nav-_-flyout-store-_-us-store-manufacturer-lenovo">Lenovo</a></li>
+                <li><a href="/usa/en/toshiba-memory?cm_re=top-nav-_-flyout-store-_-us-store-manufacturer-toshiba">Toshiba</a></li>
             </ul>
 	</div>
     </div>
 </li>
 <!-- memory nav -->
 <li class="nav2">
-	<a href="/usa/en/memory-info">memory</a>
+	<a href="/usa/en/memory-info?cm_re=top-nav-_-flyout-memory-_-us-memory">memory</a>
 	<div class="menuContent store-content">
 		<div class="menuColumn one-half">
-			<a href="/usa/en/memory"><h2 class="tools"> shop for memory</h2></a>
+			<a href="/usa/en/memory?cm_re=top-nav-_-flyout-memory-_-us-memory-shop-for-memory"><h2 class="tools"> shop for memory</h2></a>
             <div class="tools-wide">
                 <img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/guarantee-badge.png" class="compatible-badge">
                 <h3>Compatibility tools</h3>
-                <span class="action"><a href="/usa/en/advisor" class="btnGray">advisor tool</a><a href="/usa/en/systemscanner" class="btnGray">system scanner</a></span>
+                <span class="action"><a href="/usa/en/advisor?cm_re=top-nav-_-flyout-memory-_-us-memory-advisor" class="btnGray">advisor tool</a><a href="/usa/en/systemscanner?cm_re=top-nav-_-flyout-memory-_-us-memory-scanner" class="btnGray">system scanner</a></span>
             </div>
 			<ul><h4>category</h4>
-				<li><a href="/usa/en/memory/DDR4">DDR4</a></li>
-                <li><a href="/usa/en/memory/DDR3">DDR3</a></li>
-				<li><a href="/usa/en/memory/DDR2">DDR2</a></li>
-				<li><a href="/usa/en/memory/DDR">DDR</a></li>
+				<li><a href="/usa/en/memory/DDR4?cm_re=top-nav-_-flyout-memory-_-us-memory-shop-for-ddr4">DDR4</a></li>
+                <li><a href="/usa/en/memory/DDR3?cm_re=top-nav-_-flyout-memory-_-us-memory-shop-for-ddr3">DDR3</a></li>
+				<li><a href="/usa/en/memory/DDR2?cm_re=top-nav-_-flyout-memory-_-us-memory-shop-for-ddr2">DDR2</a></li>
+				<li><a href="/usa/en/memory/DDR?cm_re=top-nav-_-flyout-memory-_-us-memory-shop-for-ddr">DDR</a></li>
 			</ul>
             <ul><h4>series</h4>
-                <li><a href="/usa/en/memory/crucial">Crucial</a></li>
-                <li><a href="/usa/en/memory/ballistix sport">Ballistix Sport</a></li>
-                <li><a href="/usa/en/memory/ballistix tactical">Ballistix Tactical</a></li>
-                <li><a href="/usa/en/memory/ballistix elite">Ballistix Elite</a></li>
+                <li><a href="/usa/en/memory/crucial?cm_re=top-nav-_-flyout-memory-_-us-memory-shop-for-crucial">Crucial</a></li>
+                <li><a href="/usa/en/memory/ballistix sport?cm_re=top-nav-_-flyout-memory-_-us-memory-shop-for-bx-sport">Ballistix Sport</a></li>
+                <li><a href="/usa/en/memory/ballistix tactical?cm_re=top-nav-_-flyout-memory-_-us-memory-shop-for-bx-tactical">Ballistix Tactical</a></li>
+                <li><a href="/usa/en/memory/ballistix elite?cm_re=top-nav-_-flyout-memory-_-us-memory-shop-for-bx-elite">Ballistix Elite</a></li>
             </ul>
             <ul><h4>manufacturer</h4>
-                <li><a href="/usa/en/acer-memory">Acer</a></li>
-                <li><a href="/usa/en/apple-memory">Apple</a></li>
-                <li><a href="/usa/en/asus-memory">Asus</a></li>
-                <li><a href="/usa/en/dell-memory">Dell</a></li>
-                <li><a href="/usa/en/gateway-memory">Gateway</a></li>
-                <li><a href="/usa/en/hp-memory">HP</a></li>
-                <li><a href="/usa/en/lenovo-memory">Lenovo</a></li>
-                <li><a href="/usa/en/toshiba-memory">Toshiba</a></li>
+                <li><a href="/usa/en/acer-memory?cm_re=top-nav-_-flyout-memory-_-us-memory-shop-for-acer">Acer</a></li>
+                <li><a href="/usa/en/apple-memory?cm_re=top-nav-_-flyout-memory-_-us-memory-shop-for-apple">Apple</a></li>
+                <li><a href="/usa/en/asus-memory?cm_re=top-nav-_-flyout-memory-_-us-memory-shop-for-asus">Asus</a></li>
+                <li><a href="/usa/en/dell-memory?cm_re=top-nav-_-flyout-memory-_-us-memory-shop-for-dell">Dell</a></li>
+                <li><a href="/usa/en/gateway-memory?cm_re=top-nav-_-flyout-memory-_-us-memory-shop-for-gateway">Gateway</a></li>
+                <li><a href="/usa/en/hp-memory?cm_re=top-nav-_-flyout-memory-_-us-memory-shop-for-hp">HP</a></li>
+                <li><a href="/usa/en/lenovo-memory?cm_re=top-nav-_-flyout-memory-_-us-memory-shop-for-lenovo">Lenovo</a></li>
+                <li><a href="/usa/en/toshiba-memory?cm_re=top-nav-_-flyout-memory-_-us-memory-shop-for-toshiba">Toshiba</a></li>
             </ul>
 		</div>
 		<div class="menuColumn one-half">
-			<a href="/usa/en/memory-info"><h2> learn about memory</h2></a>
-			<ul><a href="/usa/en/memory-premium"><h4>Crucial memory</h4></a>
-				<li><a href="/usa/en/memory-desktop">for desktops</a></li>
-				<li><a href="/usa/en/memory-laptop">for laptops</a></li>
-                <li><a href="/usa/en/memory-server">for servers</a></li>
-                <li><a href="/usa/en/memory-mac-apple">for Mac systems</a></li>
-                <li><a href="/usa/en/memory-dram-comparison"><strong>compare all</strong></a></li>
+			<a href="/usa/en/memory-info?cm_re=top-nav-_-flyout-memory-_-us-memory-learn-about-memory"><h2> learn about memory</h2></a>
+			<ul><a href="/usa/en/memory-premium?cm_re=top-nav-_-flyout-memory-_-us-memory-learn-about-premium"><h4>Crucial memory</h4></a>
+				<li><a href="/usa/en/memory-desktop?cm_re=top-nav-_-flyout-memory-_-us-memory-learn-about-desktop">for desktops</a></li>
+				<li><a href="/usa/en/memory-laptop?cm_re=top-nav-_-flyout-memory-_-us-memory-learn-about-laptop">for laptops</a></li>
+                <li><a href="/usa/en/memory-server?cm_re=top-nav-_-flyout-memory-_-us-memory-learn-about-server">for servers</a></li>
+                <li><a href="/usa/en/memory-mac-apple?cm_re=top-nav-_-flyout-memory-_-us-memory-learn-about-mac">for Mac systems</a></li>
+                <li><a href="/usa/en/memory-dram-comparison?cm_re=top-nav-_-flyout-memory-_-us-memory-learn-about-compare"><strong>compare all</strong></a></li>
             </ul>
-			<ul><a href="/usa/en/memory-ballistix"><h4>Ballistix<sup>®</sup> memory</h4></a>
-				<li><a href="/usa/en/memory-ballistix-elite">Elite</a></li>
-				<li><a href="/usa/en/memory-ballistix-tactical-tracer">Tactical Tracer</a></li>
-				<li><a href="/usa/en/memory-ballistix-tactical">Tactical</a></li>
-				<li><a href="/usa/en/memory-ballistix-sport">Sport</a></li>
-			</ul>
+			<ul><a href="/usa/en/memory-ballistix?cm_re=top-nav-_-flyout-memory-_-us-memory-learn-about-bx"><h4>Ballistix<sup>®</sup> memory</h4></a>
+				<li><a href="/usa/en/memory-ballistix-elite?cm_re=top-nav-_-flyout-memory-_-us-memory-learn-about-bx-elite">Elite</a></li>
+				<li><a href="/usa/en/memory-ballistix-tactical?cm_re=top-nav-_-flyout-memory-_-us-memory-learn-about-bx-tactical">Tactical</a></li>
+				<li><a href="/usa/en/memory-ballistix-sport?cm_re=top-nav-_-flyout-memory-_-us-memory-learn-about-bx-sport">Sport</a></li>
+                <li><a href="/usa/en/memory-ballistix-comparison?cm_re=top-nav-_-flyout-memory-_-us-memory-learn-about-compare-bx"><strong>compare Ballistix</strong></a></li>
+            </ul>
             <ul><h4>resources</h4>
-				<li><a href="/usa/en/memory-ddr4-info">DDR4 overview</a></li>            
-				<li><a href="/usa/en/memory-buying-guide">buying guide</a></li>
-                <li><a href="/usa/en/memory-ballistix-mod-utility">Ballistix MOD utility</a></li>            
+				<li><a href="/usa/en/memory-ddr4-info?cm_re=top-nav-_-flyout-memory-_-us-memory-learn-about-ddr4">DDR4 overview</a></li>            
+				<li><a href="/usa/en/memory-buying-guide?cm_re=top-nav-_-flyout-memory-_-us-memory-learn-about-buying-guide">buying guide</a></li>
+                <li><a href="/usa/en/memory-ballistix-mod-utility?cm_re=top-nav-_-flyout-memory-_-us-memory-learn-about-bx-mod-utility">Ballistix MOD utility</a></li>            
             </ul>
 
 		</div>
@@ -746,59 +865,60 @@ function updateMiniWLTitle() {
 </li>
 <!-- solid state drives nav -->
 <li class="nav3">
-	<a href="/usa/en/storage-info">solid state drives</a>
+	<a href="/usa/en/storage-info?cm_re=top-nav-_-flyout-ssd-_-us-ssd">solid state drives</a>
 	<div class="menuContent store-content">
 		<div class="menuColumn one-half">
-			<a href="/usa/en/ssd"><h2 class="tools"> shop for ssds</h2></a>
+			<a href="/usa/en/ssd?cm_re=top-nav-_-flyout-ssd-_-us-ssd-shop-for-ssd"><h2 class="tools"> shop for ssds</h2></a>
             <div class="tools-wide">
                 <img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/guarantee-badge.png" class="compatible-badge">
                 <h3>Compatibility tools</h3>
-                <span class="action"><a href="/usa/en/advisor" class="btnGray">advisor tool</a><a href="/usa/en/systemscanner" class="btnGray">system scanner</a></span>
+                <span class="action"><a href="/usa/en/advisor?cm_re=top-nav-_-flyout-ssd-_-us-ssd-advisor" class="btnGray">advisor tool</a><a href="/usa/en/systemscanner?cm_re=top-nav-_-flyout-ssd-_-us-ssd-scanner" class="btnGray">system scanner</a></span>
             </div>
-			<ul><a href="/usa/en/storage/ssd"><h4>solid state drives</h4></a>
-				<li><a href="/usa/en/ssd/series/MX200">MX200 SSD</a></li>
-                <li><a href="/usa/en/ssd/series/MX100">MX100 SSD</a></li>
-				<li><a href="/usa/en/ssd/series/BX100">BX100 SSD</a></li>
-                <li><a href="/usa/en/store-ssd-factory-recertified">factory recertified</a></li>
+			<ul><a href="/usa/en/storage/ssd?cm_re=top-nav-_-flyout-ssd-_-us-ssd-shop-for-storage-ssd"><h4>solid state drives</h4></a>
+				<li><a href="/usa/en/ssd/series/MX200?cm_re=top-nav-_-flyout-ssd-_-us-ssd-shop-for-mx200">MX200 SSD</a></li>
+                <li><a href="/usa/en/ssd/series/BX200?cm_re=top-nav-_-flyout-ssd-_-us-ssd-shop-for-bx200">BX200 SSD</a></li>
+                <li><a href="/usa/en/ssd/series/BX100?cm_re=top-nav-_-flyout-ssd-_-us-ssd-shop-for-bx100">BX100 SSD</a></li>
+                <li><a href="/usa/en/store-ssd-factory-recertified?cm_re=top-nav-_-flyout-ssd-_-us-ssd-shop-for-recertified">factory recertified</a></li>
 			</ul>
             <ul><h4>manufacturer</h4>
-                <li><a href="/usa/en/acer-memory">Acer</a></li>
-                <li><a href="/usa/en/apple-memory">Apple</a></li>
-                <li><a href="/usa/en/asus-memory">Asus</a></li>
-                <li><a href="/usa/en/dell-memory">Dell</a></li>
-                <li><a href="/usa/en/gateway-memory">Gateway</a></li>
-                <li><a href="/usa/en/hp-memory">HP</a></li>
-                <li><a href="/usa/en/lenovo-memory">Lenovo</a></li>
-                <li><a href="/usa/en/toshiba-memory">Toshiba</a></li>
+                <li><a href="/usa/en/acer-memory?cm_re=top-nav-_-flyout-ssd-_-us-ssd-shop-for-acer">Acer</a></li>
+                <li><a href="/usa/en/apple-memory?cm_re=top-nav-_-flyout-ssd-_-us-ssd-shop-for-apple">Apple</a></li>
+                <li><a href="/usa/en/asus-memory?cm_re=top-nav-_-flyout-ssd-_-us-ssd-shop-for-asus">Asus</a></li>
+                <li><a href="/usa/en/dell-memory?cm_re=top-nav-_-flyout-ssd-_-us-ssd-shop-for-dell">Dell</a></li>
+                <li><a href="/usa/en/gateway-memory?cm_re=top-nav-_-flyout-ssd-_-us-ssd-shop-for-gateway">Gateway</a></li>
+                <li><a href="/usa/en/hp-memory?cm_re=top-nav-_-flyout-ssd-_-us-ssd-shop-for-hp">HP</a></li>
+                <li><a href="/usa/en/lenovo-memory?cm_re=top-nav-_-flyout-ssd-_-us-ssd-shop-for-lenovo">Lenovo</a></li>
+                <li><a href="/usa/en/toshiba-memory?cm_re=top-nav-_-flyout-ssd-_-us-ssd-shop-for-toshiba">Toshiba</a></li>
             </ul>
 		</div>
 		<div class="menuColumn one-half">
-			<a href="/usa/en/storage-info"><h2> learn about ssds</h2></a>
-			<ul><a href="/usa/en/storage-info"><h4>solid state drives</h4></a>
-				<li><a href="/usa/en/storage-ssd-mx200">Crucial MX200 SSD</a></li>
-				<li><a href="/usa/en/storage-ssd-mx100">Crucial MX100 SSD</a></li>
-				<li><a href="/usa/en/storage-ssd-bx100">Crucial BX100 SSD</a></li>
-                <li><a href="/usa/en/storage-ssd-comparison"><strong>compare all</strong></a></li>
+			<a href="/usa/en/storage-info?cm_re=top-nav-_-flyout-ssd-_-us-ssd-learn-about-ssd"><h2> learn about ssds</h2></a>
+			<ul><a href="/usa/en/storage-info?cm_re=top-nav-_-flyout-ssd-_-us-ssd-learn-about-storage-ssd"><h4>solid state drives</h4></a>
+				<li><a href="/usa/en/storage-ssd-mx200?cm_re=top-nav-_-flyout-ssd-_-us-ssd-learn-about-mx200">Crucial MX200 SSD</a></li>
+                <li><a href="/usa/en/storage-ssd-bx200?cm_re=top-nav-_-flyout-ssd-_-us-ssd-learn-about-bx200">Crucial BX200 SSD</a></li>
+                <li><a href="/usa/en/storage-ssd-comparison?cm_re=top-nav-_-flyout-ssd-_-us-ssd-learn-about-compare"><strong>compare</strong></a></li>
 				<li>&nbsp;</li>
-				<li><a href="/usa/en/storage-ssd-m550">Crucial M550 SSD</a></li>
-                <li><a href="/usa/en/storage-ssd-m500">Crucial M500 SSD</a></li>
+				<li><a href="/usa/en/storage-ssd-bx100?cm_re=top-nav-_-flyout-ssd-_-us-ssd-learn-about-bx100">Crucial BX100 SSD</a></li>
+                <li><a href="/usa/en/storage-ssd-mx100?cm_re=top-nav-_-flyout-ssd-_-us-ssd-learn-about-mx100">Crucial MX100 SSD</a></li>
+                <li><a href="/usa/en/storage-ssd-m550?cm_re=top-nav-_-flyout-ssd-_-us-ssd-learn-about-m550">Crucial M550 SSD</a></li>
+                <li><a href="/usa/en/storage-ssd-m500?cm_re=top-nav-_-flyout-ssd-_-us-ssd-learn-about-m500">Crucial M500 SSD</a></li>
 			</ul>
             <ul style="width: 32%;"><h4>resources</h4>
-                <li><a href="/usa/en/storage-ssd-buying-guide">SSD buying guide</a></li>
-            	<li><a href="/usa/en/support-ssd">SSD support</a></li>
-                <li><a href="/usa/en/support-ssd">SSD firmware updates</a></li>
-                <li><a href="/usa/en/support-storage-executive">Crucial&nbsp;Storage&nbsp;Executive</a></li>
+                <li><a href="/usa/en/storage-ssd-buying-guide?cm_re=top-nav-_-flyout-ssd-_-us-ssd-learn-about-buying-guide">SSD buying guide</a></li>
+            	<li><a href="/usa/en/support-ssd?cm_re=top-nav-_-flyout-ssd-_-us-ssd-learn-about-support">SSD support</a></li>
+                <li><a href="/usa/en/support-ssd?cm_re=top-nav-_-flyout-ssd-_-us-ssd-learn-about-firmware">SSD firmware updates</a></li>
+                <li><a href="/usa/en/support-storage-executive?cm_re=top-nav-_-flyout-ssd-_-us-ssd-learn-about-storage-executive">Crucial&nbsp;Storage&nbsp;Executive</a></li>
             </ul>
 		</div>
 	</div>
 </li>
 <!-- community nav -->
 <li class="nav4">
-	<a href="http://forum.crucial.com/crucial/">community</a>
+	<a href="http://forum.crucial.com/crucial/?cm_re=top-nav-_-flyout-community-_-us-community">community</a>
 	<div class="menuContent">
 		<div class="menuColumn">
 			<div class="sectionThumb">
-            	<a href="http://forum.crucial.com/crucial/">
+            	<a href="http://forum.crucial.com/crucial/?cm_re=top-nav-_-flyout-community-_-us-community-forum">
                 	<span class="menu-title">community forum</span>
                     <img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/menu/menu-forums.png">
                  </a>
@@ -806,71 +926,71 @@ function updateMiniWLTitle() {
 		</div>
 		<div class="menuColumn">
 			<div class="sectionThumb">
-            	<a href="http://forum.crucial.com/t5/tkb/communitypage">
+            	<a href="http://forum.crucial.com/t5/tkb/communitypage?cm_re=top-nav-_-flyout-community-_-us-community-tkb">
                 	<span class="menu-title">knowledge base</span>
                     <img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/menu/menu-kb.png">
                 </a>
             </div>
 			<ul>
-				<li><a href="http://forum.crucial.com/t5/Standard-DRAM-Memory-Knowledge/tkb-p/dram%40tkb">memory</a></li>
-				<li><a href="http://forum.crucial.com/t5/Solid-State-Drives-SSD-Knowledge/tkb-p/ssd%40tkb">solid state drives</a></li>
-				<li><a href="http://forum.crucial.com/t5/Installation-troubleshooting/tkb-p/install%40tkb">crucial videos</a></li>
-				<li><a href="http://forum.crucial.com/t5/tkb/communitypage">more from crucial</a></li>
+				<li><a href="http://forum.crucial.com/t5/Standard-DRAM-Memory-Knowledge/tkb-p/dram%40tkb?cm_re=top-nav-_-flyout-community-_-us-community-tkb-memory">memory</a></li>
+				<li><a href="http://forum.crucial.com/t5/Solid-State-Drives-SSD-Knowledge/tkb-p/ssd%40tkb?cm_re=top-nav-_-flyout-community-_-us-community-tkb-ssd">solid state drives</a></li>
+				<li><a href="http://forum.crucial.com/t5/Installation-troubleshooting/tkb-p/install%40tkb?cm_re=top-nav-_-flyout-community-_-us-community-tkb-videos">crucial videos</a></li>
+				<li><a href="http://forum.crucial.com/t5/tkb/communitypage?cm_re=top-nav-_-flyout-community-_-us-community-tkb-more-crucial">more from crucial</a></li>
 			</ul>
 		</div>
 		<div class="menuColumn">
-			<div class="sectionThumb"><a href="https://www.facebook.com/CrucialMemory"><span class="menu-title">social</span><img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/menu/menu-social.png"></a></div>
+			<div class="sectionThumb"><a href="https://www.facebook.com/CrucialMemory?cm_re=top-nav-_-flyout-community-_-us-community-social"><span class="menu-title">social</span><img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/menu/menu-social.png"></a></div>
 			<ul>
-				<li><a href="https://www.facebook.com/CrucialMemory">facebook</a></li>
-				<li><a href="https://twitter.com/CrucialMemory">twitter</a></li>
-				<li><a href="http://www.youtube.com/user/CrucialMemory">youtube</a></li>
-			<li><a href="https://plus.google.com/+crucial">google+</a></li>
+				<li><a href="https://www.facebook.com/CrucialMemory?cm_re=top-nav-_-flyout-community-_-us-community-social-facebook">facebook</a></li>
+				<li><a href="https://twitter.com/CrucialMemory?cm_re=top-nav-_-flyout-community-_-us-community-social-twitter">twitter</a></li>
+				<li><a href="http://www.youtube.com/user/CrucialMemory?cm_re=top-nav-_-flyout-community-_-us-community-social-youtube">youtube</a></li>
+			<li><a href="https://plus.google.com/+crucial?cm_re=top-nav-_-flyout-community-_-us-community-social-google-plus">google+</a></li>
 			</ul>
 		</div>
 	</div>
 </li>
 <!-- support nav -->
 <li class="nav5">
-	<a href="/usa/en/support">support</a>
+	<a href="/usa/en/support?cm_re=top-nav-_-flyout-support-_-us-support">support</a>
 	<div class="menuContent">
 	<div class="menuColumn">
-			<div class="sectionThumb"><a href="/usa/en/support"><span class="menu-title">product support</span><img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/menu/menu-product-support.png">
+			<div class="sectionThumb"><a href="/usa/en/support?cm_re=top-nav-_-flyout-support-_-us-support-product-support"><span class="menu-title">product support</span><img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/menu/menu-product-support.png">
 </a></div>
 			<ul>
-				<li><a href="/usa/en/support-memory">memory support</a></li>
-                <li><a href="/usa/en/support-ssd">SSD support</a></li>
+				<li><a href="/usa/en/support-memory?cm_re=top-nav-_-flyout-support-_-us-support-product-support-memory">memory support</a></li>
+                <li><a href="/usa/en/support-ssd?cm_re=top-nav-_-flyout-support-_-us-support-product-support-ssd">SSD support</a></li>
 			</ul>
 		</div>
 		<div class="menuColumn">
 
-			<div class="sectionThumb"><a href="/usa/en/support-contact"><span class="menu-title">store help</span><img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/menu/menu-support.png"></a></div>
+			<div class="sectionThumb"><a href="/usa/en/support-contact?cm_re=top-nav-_-flyout-support-_-us-support-store-help"><span class="menu-title">store help</span><img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/menu/menu-support.png"></a></div>
 			<ul>
-			<li><a href="/webapp/wcs/stores/servlet/OrderHistoryDisplayView?catalogId=10151&amp;langId=-1&amp;storeId=10151&amp;krypto=b3HCyB87Xyx7wthwdxl0BQ%3D%3D&amp;ddkey=http:OrderHistoryDisplayView">order status</a></li>
-            <li><a href="/usa/en/support-contact">customer service</a></li>
-            <li><a href="/usa/en/returns">returns</a></li>
-            <li><a href="/usa/en/store-payment">payment options</a></li>
-            <li><a href="/usa/en/store-shipping">shipping policy</a></li>
-            <li><a href="/usa/en/company-terms-of-sale">terms of sale</a></li>
-            <li><a href="/usa/en/store-partners-where-to-buy">Crucial partners</a></li>
+			<li><a href="/webapp/wcs/stores/servlet/OrderHistoryDisplayView?catalogId=10151&amp;langId=-1&amp;storeId=10151&amp;krypto=b3HCyB87Xyx7wthwdxl0BQ%3D%3D&amp;ddkey=http:OrderHistoryDisplayView&amp;cm_re=top-nav-_-flyout-support-_-us-support-store-help-order-status">order status</a></li>
+            <li><a href="/usa/en/support-contact?cm_re=top-nav-_-flyout-support-_-us-support-store-help-customer-service">customer service</a></li>
+            <li><a href="/usa/en/returns?cm_re=top-nav-_-flyout-support-_-us-support-store-help-returns">returns</a></li>
+            <li><a href="/usa/en/store-payment?cm_re=top-nav-_-flyout-support-_-us-support-store-help-payment-options">payment options</a></li>
+            <li><a href="/usa/en/store-shipping?cm_re=top-nav-_-flyout-support-_-us-support-store-help-shipping-options">shipping policy</a></li>
+            <li><a href="/usa/en/company-terms-of-sale?cm_re=top-nav-_-flyout-support-_-us-support-store-help-terms-of-sale">terms of sale</a></li>
+            <li><a href="/usa/en/store-partners-where-to-buy?cm_re=top-nav-_-flyout-support-_-us-support-store-help-where-to-buy">Crucial partners</a></li>
 			</ul>
 		</div>
 		<div class="menuColumn">
-			<div class="sectionThumb"><a href="http://forum.crucial.com/"><span class="menu-title">learn</span><img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/menu/menu-kb.png"></a></div>
+			<div class="sectionThumb"><a href="http://forum.crucial.com/?cm_re=top-nav-_-flyout-support-_-us-support-learn"><span class="menu-title">learn</span><img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/menu/menu-kb.png"></a></div>
 			<ul>
-			<li><a href="http://forum.crucial.com/">community forum</a></li>
-            <li><a href="http://forum.crucial.com/t5/tkb/communitypage">knowledge base</a></li>
-            <li><a href="/usa/en/memory-buying-guide">memory guide</a></li>
-            <li><a href="/usa/en/storage-ssd-buying-guide">solid state drive guide</a></li>
-            <li><a href="/usa/en/store-partners-business-resellers">business solutions</a></li>
-            <li><a href="/usa/en/store-partners-gov-ed">gov-ed solutions</a></li>
+			<li><a href="http://forum.crucial.com/?cm_re=top-nav-_-flyout-support-_-us-support-learn-community-forum">community forum</a></li>
+            <li><a href="http://forum.crucial.com/t5/tkb/communitypage?cm_re=top-nav-_-flyout-support-_-us-support-learn-knowledge-base">knowledge base</a></li>
+            <li><a href="/usa/en/memory-buying-guide?cm_re=top-nav-_-flyout-support-_-us-support-learn-memory-guide">memory guide</a></li>
+            <li><a href="/usa/en/storage-ssd-buying-guide?cm_re=top-nav-_-flyout-support-_-us-support-learn-ssd-guide">solid state drive guide</a></li>
+            <li><a href="/usa/en/store-partners-business-resellers?cm_re=top-nav-_-flyout-support-_-us-support-learn-business">business solutions</a></li>
+            <li><a href="/usa/en/store-partners-gov-ed?cm_re=top-nav-_-flyout-support-_-us-support-learn-gov-ed">gov-ed solutions</a></li>
 			</ul>
 		</div>
 		<div class="menuColumn">
-			<div class="sectionThumb"><a href="/usa/en/support-contact"><span class="menu-title">contact us</span><img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/menu/menu-contact.png"></a></div>
+			<div class="sectionThumb"><a href="/usa/en/support-contact?cm_re=top-nav-_-flyout-support-_-us-support-contact"><span class="menu-title">contact us</span><img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/menu/menu-contact.png"></a></div>
 			<ul>
-				<li><a href="/usa/en/support-contact">email</a></li>
-            	<li><a href="/usa/en/support-contact">chat</a></li>
-            	<li><a href="/usa/en/support-contact">phone</a></li>
+				<li><a href="/usa/en/support-contact?cm_re=top-nav-_-flyout-support-_-us-support-contact-email">email</a></li>
+            	<li><a href="/usa/en/support-contact?cm_re=top-nav-_-flyout-support-_-us-support-chat">chat</a></li>
+            	<li><a href="/usa/en/support-contact?cm_re=top-nav-_-flyout-support-_-us-support-contact-phone">phone</a></li>
 			</ul>
 		</div>
 	</div>
@@ -1187,8 +1307,9 @@ Valid Page Name:
 				}
 				dataLayer = [{						
 					'transactionId': '',
-					'transactionTotalUSD': '0',
 					
+							'transactionTotalUSD': '0',
+						
 							'Visitoremail':  '',
 							'transactionCurrency': 'USD',
 							'transactionquantity':  '0',
@@ -1240,7 +1361,7 @@ Valid Page Name:
 			</script>
 		<!-- End Search Agency --><script type="text/JavaScript">
 <!--
-cmCreatePageviewTag("US:Content:privacy", "privacy", null, null, "NO");
+cmCreatePageviewTag("US:Content:privacy", "Content:48529", null, null, "NO");
 //-->
 </script>
 
