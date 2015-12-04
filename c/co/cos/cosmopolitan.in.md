@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cosmopolitan.in privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507120428id_/http%3A//specials.indiatoday.com/common/privacypolicy/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmopolitan.in privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204134845id_/http%3A//www.cosmopolitan.in/privacy-policy) for the most accurate reproduction.*
 
-# INDIA TODAY GROUP | India Today , Business Today, Aaj Tak, Care Today, Today, Cosmopolitan, Reader's Digest, India Today Conclave
+# Privacy Policy
 
-India Today Group Online is committed to protecting the privacy of Internet users. This statement discloses the privacy practices for India Today Group Online, located at [www.intoday.in](http://www.intoday.in/)
+India Today Group Online is committed to protecting the privacy of Internet users. This statement discloses the privacy practices for India Today Group Online, located at [www.intoday.in](http://www.intoday.in/)
 
-Questions regarding this statement should be directed to India Today Group Online at [itgo@intoday.com](mailto:itgo@intoday.com) or by contacting India Today Group Online, A-61, Sector 57, Noida \- 201 301 or by calling our main number at (91) 0120-4078000.
+Questions regarding this statement should be directed to India Today Group Online at [itgo@intoday.com](mailto:itgo@intoday.com) or by contacting India Today Group Online, A-61, Sector 57, Noida - 201 301 or by calling our main number at (91) 0120-4078000.
 
 The information gathered by India Today Group Online falls into two categories: (1) information voluntarily supplied by visitors to our websites through optional registration and (2) tracking information gathered as visitors navigate through our sites.
 
@@ -20,7 +20,7 @@ Our web servers automatically collect limited information about your computer's 
 
 India Today Group Online includes links to other websites whose privacy policies we do not control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information.
 
-When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our websites \-- it is usually in the form of aggregated statistics on traffic to various pages within our sites. If you do register with India Today Group Online, we may, from time to time, contact you about content and features that we believe may be of interest to you.
+When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our websites -- it is usually in the form of aggregated statistics on traffic to various pages within our sites. If you do register with India Today Group Online, we may, from time to time, contact you about content and features that we believe may be of interest to you.
 
 All information gathered on India Today Group Online is securely stored within the India Today Group Online-controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access.
 
