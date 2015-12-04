@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesmartesthouse.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513102248id_/http%3A//thesmartesthouse.com/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesmartesthouse.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205005942id_/http%3A//www.thesmartesthouse.com/pages/privacy-statement) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT - The Smartest House
 
