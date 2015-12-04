@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the underarmour.co.uk privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102181731id_/http%3A//www.underarmour.co.uk/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the underarmour.co.uk privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204085129id_/http%3A//www.underarmour.co.uk/en-gb/privacy-policy.html) for the most accurate reproduction.*
 
 # Under Armour | Privacy Policy
 
@@ -18,7 +18,7 @@ Under Armour, Inc. is located at: 1020 Hull Street Baltimore, Maryland USA 21230
 
 Under Armour Europe BV and Under Armour, Inc. (hereinafter collectively referred to as: “Under Armour”) have jointly notified the Dutch Personal Data Authority regarding their processing of personal data.
 
-You can jump to specific areas of our Privacy Policy by clicking on the links below or you can read on for our full Privacy Policy. For more information about our use of cookies and similar technology, please refer to our **[Cookie Policy](http://www.underarmour.co.uk/en/cookie-policy.html)**.
+You can jump to specific areas of our Privacy Policy by clicking on the links below or you can read on for our full Privacy Policy. For more information about our use of cookies and similar technology, please refer to our **[Cookie Policy](http://www.underarmour.co.uk/en-gb/cookie-policy.html)**.
 
 ## SECURITY AND REGISTRATION POLICIES
 
@@ -38,7 +38,7 @@ If you choose to register an account with us, we will collect, store and use inf
 
 If you place an order with us, we will collect, store and use your name, billing address, shipping address, payment information, email address and phone number. [www.underarmour.co.uk](http://www.underarmour.co.uk/) then keeps a record of this information. For more information about how credit and debit card details are stored and used by [www.underarmour.co.uk](http://www.underarmour.co.uk/), please see “ ** _Security and Registration Policies_** ”.
 
-**Automatic Information:** When you visit our website, we receive and store certain types of information through automatic data collection tools, including cookies, pixel tags, web beacons, embedded web links, and other commonly used information gathering tools. These tools collect certain standard information that your browser sends to our website such as your browser type and language, access times, IP-address, user-agent string and click stream behavior (i.e., the pages you view; the links you click; and other actions you take in connection with our website). Please see our **[Cookie Policy](http://www.underarmour.co.uk/en/cookie-policy.html)** for more information about our use of cookies and pixel tags.
+**Automatic Information:** When you visit our website, we receive and store certain types of information through automatic data collection tools, including cookies, pixel tags, web beacons, embedded web links, and other commonly used information gathering tools. These tools collect certain standard information that your browser sends to our website such as your browser type and language, access times, IP-address, user-agent string and click stream behavior (i.e., the pages you view; the links you click; and other actions you take in connection with our website). Please see our **[Cookie Policy](http://www.underarmour.co.uk/en-gb/cookie-policy.html)** for more information about our use of cookies and pixel tags.
 
 **Information From Other Sources:** If you have registered an account with us or placed an order through our website, to help us customize shopping for you, improve our communication with you, and improve our business overall, we may obtain certain demographic information about you from reputable third party sources. For example, in the event we determine that you live in a geographical area where the climate is usually cold and you have subscribed to receive email communications from us, we would be more likely to send you communications highlighting our ColdGear® product line rather than our HotGear® product line.
 
@@ -88,7 +88,7 @@ Credit and debit card information is used only for payment processing and fraud 
 
 ## WHY DOES UNDER ARMOUR COLLECT INFORMATION FROM EMAIL?
 
-To help us make email communication more useful and interesting, we may receive a confirmation when you open email messages from [_www.underarmour.co.uk_](http://www.underarmour.com/shop/uk/en) if your computer supports such capabilities. We also compare our customer list to lists received from other companies in an effort to avoid sending unnecessary messages to our customers. For more information, please see our **[Cookie Policy](http://www.underarmour.co.uk/en/cookie-policy.html). **
+To help us make email communication more useful and interesting, we may receive a confirmation when you open email messages from [_www.underarmour.co.uk_](http://www.underarmour.com/shop/uk/en) if your computer supports such capabilities. We also compare our customer list to lists received from other companies in an effort to avoid sending unnecessary messages to our customers. For more information, please see our **[Cookie Policy](http://www.underarmour.co.uk/en-gb/cookie-policy.html). **
 
 If you do _not_ want to receive email messages or other mail from us, please see **_How Does Under Armour Use my Information for Direct Marketing?_** for information about how to unsubscribe from our mailing list.
 
@@ -121,9 +121,9 @@ Information about our customers is an important part of our business. Under Armo
 
 ## CAN I ACCESS AND UPDATE MY PERSONAL INFORMATION?
 
-You have a right to access your personal information. If you are a registered customer, you may exercise this right by visiting the " **[My Account](http://www.underarmour.co.uk/en/my-account)** " section of our website. From this link, you can view, update or delete certain of your personal information from our database.
+You have a right to access your personal information. If you are a registered customer, you may exercise this right by visiting the " **[My Account](http://www.underarmour.co.uk/en-gb/my-account)** " section of our website. From this link, you can view, update or delete certain of your personal information from our database.
 
-If you wish to edit personal information but are unable to do so by visiting the " **[My Account](http://www.underarmour.co.uk/en/my-account)** " section of our website, please visit 
+If you wish to edit personal information but are unable to do so by visiting the " **[My Account](http://www.underarmour.co.uk/en-gb/my-account)** " section of our website, please visit 
 
 [_www.underarmour.co.uk_](http://www.underarmour.com/shop/uk/en)
 
@@ -160,7 +160,7 @@ Under Armour takes the privacy of children seriously. Our website is not directe
 ## SAFE HARBOR CERTIFICATION OF UNDER ARMOUR, INC.
 
 If you choose to provide us with personal contact information, **_you consent_** to the transfer, processing and storage of that information on Under Armour, Inc’s servers located in the United States.  
-Under Armour, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Under Armour, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+Under Armour, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The Safe Harbor certification is specific to Under Armour, Inc., other Under Armour subsidiaries and affiliates are not covered by this certification (e.g., MapMyFitness, Inc.). Under Armour, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
 
 To learn more about the Safe Harbor program, and to view Under Armour, Inc.’s certification, please visit [**www.export.gov/safeharbor**](http://www.export.gov/safeharbor) ** _._**
 
