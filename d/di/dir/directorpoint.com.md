@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the directorpoint.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418091013id_/http%3A//directorpoint.com/landing-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directorpoint.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204190712id_/http%3A//directorpoint.com/landing-privacy) for the most accurate reproduction.*
 
 # Privacy | Directorpoint
 
 We understand and respect the importance of personal identity and information.
 
-Directorpoint LLC (“Directorpoint”) Privacy Policy Last Updated: January 14, 2013
+Directorpoint LLC (“Directorpoint”) Privacy Policy:
 
 The following discloses our information gathering and dissemination practices for www.directorpoint.com and our mobile application. The statement does not apply to our practices on other websites or offline. If you have questions or complaints regarding our privacy policy or practices, please contact us.
 
@@ -32,4 +32,4 @@ We will retain your information for as long as your account is active or as need
 
 We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information.
 
-We may update this privacy statement to reflect changes to our information practices. We encourage you to periodically review this page for the latest information on our privacy practices. If you have any questions about this privacy and security statement, the practices of this website, or your dealings with this website, please contact us via email or mail us at Directorpoint LLC, 2100B SouthBridge Parkway, Suite 240, Birmingham, AL 35209.
+We may update this privacy statement to reflect changes to our information practices. We encourage you to periodically review this page for the latest information on our privacy practices. If you have any questions about this privacy and security statement, the practices of this website, or your dealings with this website, please contact us via email or mail us at Directorpoint LLC, 1500 First Avenue North, #66, Birmingham, AL 35203.
