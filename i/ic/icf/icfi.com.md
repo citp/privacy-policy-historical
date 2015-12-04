@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the icfi.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609062518id_/http%3A//www.icfi.com/global/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icfi.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204090728id_/http%3A//www.icfi.com/global/privacy-policy) for the most accurate reproduction.*
 
-# Website Privacy Policy » ICF Intl
-
-* * *
+# Website Privacy Policy
 
 ICF International, Inc., ("ICF International" or "ICF") is committed to protecting the privacy and security of your Personal Information. Except as described below, ICF International does not sell, rent, or share Personal Information provided to us through our suite of websites. "Personal Information" is information that would allow someone to identify or contact you, including, for example, your full name, address, telephone number, or email address. 
 
-By accessing ICFi.com, [highlights.icfi.com](http://highlights.icfi.com/), [products.icfi.com](http://products.icfi.com/), [ICFi.com.br](http://www.icfi.com.br/), [olson.com](http://olson.com/), [olson1to1.com](http://olson1to1.com/), [olsonengage.com](http://olsonengage.com/), [ca.olson.com](http://ca.olson.com/), [pulsepointgroup.com](http://pulsepointgroup.com/), [citytechinc.com](http://www.citytechinc.com/us/en.html), [ecommerceaccel.com](http://www.ecommerceaccel.com/), [mostra.com](http://www.mostra.com/), [icfi.com/canada](https://web.archive.org/sitecore/content/international/canada), or [icfi.com/china](https://web.archive.org/sitecore/content/international/china), you consent to the collection, usage, and storage of your Personal Information by us in the manner described below. If you have questions regarding this Website Privacy Policy, please [contact us](https://web.archive.org/contact-us). Because the Internet is an evolving medium, we reserve the right to amend this policy at any time by posting the amended version on our website and updating the Effective Date of the policy to reflect the date of the changes. By continuing to use this website after we post any such changes, you accept the Website Privacy Policy as modified. We encourage you to learn as much as you can about your privacy on the Internet. This Website Privacy Policy covers the following issues and information: 
+By accessing ICFi.com, [products.icfi.com](http://products.icfi.com/), [ICFi.com.br](http://www.icfi.com.br/), [olson.com](http://olson.com/), [olson1to1.com](http://olson1to1.com/), [olsonengage.com](http://olsonengage.com/), [ca.olson.com](http://ca.olson.com/), [pulsepointgroup.com](http://pulsepointgroup.com/), [citytechinc.com](http://www.citytechinc.com/us/en.html), [ecommerceaccel.com](http://www.ecommerceaccel.com/), [mostra.com](http://www.mostra.com/), [icfi.com/canada](https://web.archive.org/sitecore/content/international/canada), or [icfi.com/china](https://web.archive.org/sitecore/content/international/china), you consent to the collection, usage, and storage of your Personal Information by us in the manner described below. If you have questions regarding this Website Privacy Policy, please [contact us](https://web.archive.org/contact-us). Because the Internet is an evolving medium, we reserve the right to amend this policy at any time by posting the amended version on our website and updating the Effective Date of the policy to reflect the date of the changes. By continuing to use this website after we post any such changes, you accept the Website Privacy Policy as modified. We encourage you to learn as much as you can about your privacy on the Internet. This Website Privacy Policy covers the following issues and information: 
 
   * How Personal Information is Collected and Used
     * Information You Voluntarily Provide to Us
@@ -403,6 +401,6 @@ E-mail: [info@icfi.com](mailto:info@icfi.com) **
 
 * * *
 
-Copyright ©2014 ICF International, Inc. All rights reserved.
+Copyright ©2015 ICF International, Inc. All rights reserved.
 
 _Effective Date: November 5, 2014_
