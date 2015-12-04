@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porncalm.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420051428id_/http%3A//porncalm.com/legal/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porncalm.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204083833id_/http%3A//porncalm.com/legal/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
