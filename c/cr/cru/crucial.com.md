@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crucial.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609185245id_/http%3A//www.crucial.com/usa/en/company-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crucial.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204051934id_/http%3A//www.crucial.com/usa/en/company-privacy) for the most accurate reproduction.*
 
 # Crucial.com - Crucial's privacy policy
 
