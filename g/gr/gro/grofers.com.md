@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the grofers.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627191048id_/http%3A//www.grofers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grofers.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204161045id_/http%3A//grofers.com/privacy) for the most accurate reproduction.*
 
 # Grofers - Privacy Policy
 
 ### Personal Information
 
-#### “Grofers” is the registered trademark of Locodel Solutions Private Limited, a company incorporated under the Companies Act, 1956 with its registered office at In Front of UCO Bank, Zero Mile, Bhagalpur, Bihar 813210 (Company). The domain name [www.grofers.com](http://grofers.com/) is owned by the Company.
+#### “Grofers” is a trademark of Grofers India Private Limited, a company incorporated under the Companies Act, 2013 with its corporate office at Plot 81, Sector 32, Gurgaon 122001 in the course of its business. The domain name [www.grofers.com](http://grofers.com/) is owned by the Company.
 
 The Company respects your privacy and values the trust you place in it. Set out below is the Company’s ‘Privacy Policy’ which details the manner in which information relating to you is collected, used and disclosed.
 
@@ -70,7 +70,7 @@ In the event of loss of access to the Site, you may contact the Company by sendi
 
 In the event you wish to report a breach of the Privacy Policy, you may contact the designated Grievance Officer of the Company at:
 
-**Locodel Solutions Private Limited**  
+**Grofers India Private Limited**  
 Plot 64H, Sector 18,  
 Gurgaon, Haryana - 122015  
 Email address: [info@grofers.com](mailto:info@grofers.com)
