@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamefree.la privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508181446id_/http%3A//gamefree.la/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefree.la privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204081849id_/http%3A//gamefree.la/privacy) for the most accurate reproduction.*
 
 # Gamefree.LA- Best Free Online Games
 
