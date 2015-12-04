@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggingwithamy.com privacy policy that was archived on 2014-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140224132515id_/http%3A//bloggingwithamy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingwithamy.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204161438id_/http%3A//amylynnandrews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Amy Lynn Andrews
 
@@ -79,5 +79,3 @@ If you have any questions about this Privacy Policy, the practices of this site,
 AmyLynnAndrews@gmail.com
 
 This document was last updated on October 9, 2013
-
-[](https://twitter.com/share?url=http%3A%2F%2Famylynnandrews.com%2Fprivacy-policy%2F&text=Privacy+Policy&via=AmyLynnAndrews)[](https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Famylynnandrews.com%2Fprivacy-policy%2F&t=Privacy+Policy)[](https://plusone.google.com/_/+1/confirm?hl=en&url=http%3A%2F%2Famylynnandrews.com%2Fprivacy-policy%2F&title=Privacy+Policy)[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Famylynnandrews.com%2Fprivacy-policy%2F&media=&description=Privacy+Policy)[](http://bufferapp.com/add?url=http%3A%2F%2Famylynnandrews.com%2Fprivacy-policy%2F&text=Privacy+Policy&via=AmyLynnAndrews)[](mailto:?subject=Privacy%20Policy&body=http://amylynnandrews.com/privacy-policy/)[ ](https://www.linksalpha.com/social/mobile)
