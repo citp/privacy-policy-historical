@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filesisland.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152745id_/http%3A//filesisland.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filesisland.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204020023id_/http%3A//filesisland.com/privacy.html) for the most accurate reproduction.*
 
-# FilesIsland - Make Money Sharing Files
+# FilesIsland | Keep your files and data safe Forever
 
 ### Privacy Policy 
 
