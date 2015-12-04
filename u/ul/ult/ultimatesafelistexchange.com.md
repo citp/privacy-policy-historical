@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatesafelistexchange.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527204334id_/http%3A//www.ultimatesafelistexchange.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatesafelistexchange.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204221425id_/http%3A//www.ultimatesafelistexchange.com/privacy.php) for the most accurate reproduction.*
 
 # Ultimate Safelist Exchange Solo List Email System
 
