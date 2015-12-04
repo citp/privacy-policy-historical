@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 2createawebsite.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504121837id_/http%3A//www.2createawebsite.com/other/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2createawebsite.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204204947id_/http%3A//www.2createawebsite.com/other/privacy.html) for the most accurate reproduction.*
 
 # 2CreateAWebSite.com Privacy Policy
 
-[Home](https://web.archive.org/web/20150504121837id_/http%3A//www.2createawebsite.com/index.html) >> Privacy Policy
+[Home](https://web.archive.org/web/20151204204947id_/http%3A//www.2createawebsite.com/index.html) >> Privacy Policy
 
 The privacy of the visitors to 2CreateAWebSite.com is important to us. 
 
