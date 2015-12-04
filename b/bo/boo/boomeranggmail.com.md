@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boomeranggmail.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504121610id_/http%3A//www.boomeranggmail.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomeranggmail.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204211439id_/http%3A//www.boomeranggmail.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Boomerang for Gmail
 
