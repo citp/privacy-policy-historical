@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationaleatingdisorders.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627184130id_/http%3A//www.nationaleatingdisorders.org/privacy-policy-nationaleatingdisordersorg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaleatingdisorders.org privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204015210id_/http%3A//www.nationaleatingdisorders.org/privacy-policy-nationaleatingdisordersorg) for the most accurate reproduction.*
 
 # Privacy Policy: NationalEatingDisorders.org | National Eating Disorders Association
 
