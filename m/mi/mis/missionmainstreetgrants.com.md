@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the missionmainstreetgrants.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622052554id_/https%3A//www.missionmainstreetgrants.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missionmainstreetgrants.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204235938id_/https%3A//www.missionmainstreetgrants.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Mission Main Street Grants® 2015 | Mission Main Street Grants ®
 
