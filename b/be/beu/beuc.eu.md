@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beuc.eu privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318012852id_/http%3A//beuc.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beuc.eu privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204111042id_/http%3A//www.beuc.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | www.beuc.eu
 
@@ -18,9 +18,7 @@ We do not rent or sell your information. Your email address is used to only send
 
 ### Updating or removing your information
 
-You may choose to correct, update, or delete the information you have submitted to us by sending an email to [consumers@beuc.eu](mailto:consumers@beuc.eu) or [ [communications@beuc.eu](mailto:communications@beuc.eu)](mailto:communications@beuc.org)
-
-requesting changes to your subscription. You can also get a copy of your data without cost. You can remove your subscription at any time by clicking on the unsubscribe link at the bottom of mailings. You can choose to unsubscribe from receiving one or all of our material. We will ensure your information is deleted and no longer used for any purpose.  
+You may choose to correct, update, or delete the information you have submitted to us by sending an email to [consumers@beuc.eu](mailto:consumers@beuc.eu) or [communications@beuc.eu](mailto:communications@beuc.eu) requesting changes to your subscription. You can also get a copy of your data without cost. You can remove your subscription at any time by clicking on the unsubscribe link at the bottom of mailings. You can choose to unsubscribe from receiving one or all of our material. We will ensure your information is deleted and no longer used for any purpose.  
 
 ### Cookies
 
@@ -30,7 +28,7 @@ Our intention is to allow only those cookies which are strictly necessary or tha
 
 We also use the services of third parties to analyse the use of our website and to monitor when, where and how people access information so that we can adapt the site to better suit our users' needs. For this service we selected the company PIWIK because it monitors and analyses the traffic we receive on our website in a way which fully respects your privacy. For example, it uses AnonymizeIP, which removes the last octet of the IP addresses, so we will never know your full IP address.
 
-You can find more information on the cookies we use, and how to delete them in this [link] section.
+You can find more information on the cookies we use, and how to delete them, on our [Cookie Policy](http://www.beuc.eu/cookie-policy) page.
 
 ### Updates & contact
 
