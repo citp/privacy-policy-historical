@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadeaid.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408013620id_/http%3A//www.42entertainment.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadeaid.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204064149id_/http%3A//www.42entertainment.com/privacy) for the most accurate reproduction.*
 
 # 42 Entertainment
 
