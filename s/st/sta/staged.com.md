@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the staged.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610043419id_/http%3A//www.staged.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staged.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204153548id_/http%3A//www.staged.com/policy/privacy) for the most accurate reproduction.*
 
-# None
+# Staged - Social Engagement Marketing
 
-This Privacy Policy governs the manner in which STAGED MEDIA INC. collects, uses, maintains and discloses information collected from users (each, a "User") of the www.staged.media website ("Site"). This privacy policy applies to the Site and all products and services offered by STAGED.
+This Privacy Policy governs the manner in which STAGED MEDIA INC. collects, uses, maintains and discloses information collected from users (each, a "User") of the www.staged.com website ("Site"). This privacy policy applies to the Site and all products and services offered by STAGED.
 
 ### PERSONAL IDENTIFICATION INFORMATION
 
@@ -59,8 +59,8 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 In the event that the user needs to contact STAGED for purposes related to these terms and conditions, the following contact details may be used:
 
 STAGED Media Inc.  
-c/o BeTotal, LLC  
-3251 N. 37th Street | Hollywood, FL. 33021  
-Phone: 954.774.3929  
-Skype: R.Meirovich  
-E-Mail: r.meirovich@gmail.com
+278 Anderton Rd.  
+Comox, British Columbia   
+Canada  
+Web: www.staged.com  
+E-Mail: support@staged.com
