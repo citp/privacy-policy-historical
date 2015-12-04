@@ -1,126 +1,149 @@
-> *The following text is extracted and transformed from the hostexcellence.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608001223id_/https%3A//www.hostexcellence.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostexcellence.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204223348id_/http%3A//www.hostexcellence.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Web Hosting Privacy Policy | Host Excellence
 
 Privacy Policy
 
-**(v1.2, Effective March 25, 2013)**
-
-The following privacy policy must be agreed to and abided by for use of our services. Please read it carefully and contact us in case of any questions.
-
-A TRUSTe Privacy Program Member
-
-Ecommerce Corporation has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the web site  www.hostexcellence.com.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@ecommerce.com](mailto:info@ecommerce.com). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
+**(v. 1.3, Effective October 29, 2015)**
 
 [](http://www.hostexcellence.com/privacy-policy#top)
 
 I. Privacy
 
-Ecommerce Corporation (dba Host Excellence) has created this privacy statement to declare its forthright commitment to the privacy of its customers and users of this website. This Privacy Policy governs the manner in which Ecommerce Corporation (Ecommerce) uses, maintains and discloses information collected from its customers and users of its websites. 
+This privacy policy applies to [ixwebhosting.com](http://www.ixwebhosting.com/), [hostexcellence.com](http://www.hostexcellence.com/) and [cloudbyix.com](http://www.cloudbyix.com/), websites owned and operated by Ecommerce, LLC (Ecommerce). This privacy policy describes how Ecommerce collects and uses the personally identifiable information you provide on our websites. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
 
 [](http://www.hostexcellence.com/privacy-policy#top)
 
 II. Information We Collect
 
-Ecommerce may request or collect personal information from online users in a variety of ways, including through online forms for ordering products and services, and other instances where users are invited to volunteer such information. 
+Ecommerce may request or collect personally identifiable information from online users in a variety of ways, including through online forms for ordering products and services, and other instances where users are invited to volunteer such information.
 
-The data we collect is information that identifies you personally, such as: name, e-mail address, mailing address, telephone numbers, website URLs, credit card information and other billing information. This information is used for billing and service purposes for the products or services you. With this information, you can expect to receive billing notices, renewal reminders and important service related correspondence. If you do not wish to provide us with this information or do not wish to receive communications from us, do not signup. 
+The data we collect is information that identifies you personally, some examples (but not all) being: name, e-mail address, mailing address, telephone numbers, website URLs, credit card information, and other billing information. This information is used for billing, marketing and service purposes for the products or services you purchase. With this information, you can expect to receive billing notices, renewal reminders, informational and marketing emails, and important service related correspondence. If you do not wish to provide us with this information or do not wish to receive communications from us, do not sign up.
 
-Ecommerce may also collect information about how users access the website using a tracking ID unique to each user through the use of cookies. This information is for internal use only and does not personally identify you in any way. 
+When you create a helpdesk account, we also request to collect your gender and date of birth under the My Profile tab. This information is used in generalized demographic information, and not reported externally with any personally identifying information.
 
-Cookies may also be used by third party affiliate sites to verify any purchase you might make so that they make rightfully earn their duly earned commissions. The affiliate tracking cookies only tag your purchase from their referral site to ours and do not personally identify you in any way to the third party. At no point in time will any third party obtain any personally identifiable information. 
+Ecommerce may also collect information about how users access the website using a tracking ID unique to each user through the use of cookies. This information is for internal use only and does not personally identify you in any way.
 
-There are no third-party advertisements or services on our sites. Information collected on our site is only collected by us and no one else. 
+Cookies may also be used by third party affiliate sites to verify any purchase you make so that they track their earned commissions. The affiliate tracking cookies only tag your purchase from their referral site to ours and do not personally identify you in any way to the third party.
 
 [](http://www.hostexcellence.com/privacy-policy#top)
 
 III. What are Cookies?
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. We may use both session ID cookies and persistent cookies. For session ID cookies, once you close your browser or log out, the cookie terminates and is erased. A persistent cookie is a small text file stored on your computer’s hard drive for an extended period of time. Your browser’s help file contains information and instructions for removing persistent cookies. Session ID cookies may be used by Ecommerce to track user preferences while the user is visiting the website. They also help to minimize load times and save on server processing. Persistent cookies may be used by Ecommerce to store whether, for example, you want your password remembered or not, and other information. We do not link the information we store in cookies to any personally identifiable information you submit while on our site 
+Technologies such as: cookies, beacons, tags and scripts are used by Ecommerce and our marketing partners, affiliates, third-party providers, or analytics or service providers such as google analytics. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole, not individual consumers. We, however, may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-Some of our business partners (e.g., HumanClick) use cookies on our site.  We have no access to or control over these cookies. 
-
-This privacy statement covers the use of cookies by HumanClick (Domain: server.iad.liverperson.net, our Live Chat application) only and does not cover the use of cookies by any advertisers. 
+We use cookies to remember user settings such as language preference, for authentication, and within our shopping cart. Users can control the use of cookies at their individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 [](http://www.hostexcellence.com/privacy-policy#top)
 
 IV. Log Files
 
-Like most standard websites, we use log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. None of the information stored in the log files is linked to personally identifiable information. 
+Like most standard websites, we use log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. None of the information stored in the log files is linked to personally identifiable information.
+
+**Behavioral Targeting/Re-Targeting**
+
+We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.
 
 [](http://www.hostexcellence.com/privacy-policy#top)
 
 V. How we use this information
 
-Ecommerce may use the personally identifiable information collected by Ecommerce to contact customers regarding products and services offered by Ecommerce and, to the extent the user has agreed to it, by its trusted affiliates, independent contractors and business partners. We may also use this information for research purposes regarding the effectiveness of our website services, marketing, advertising and sales efforts. Ecommerce will not in any way share this information with a third party either for free or by selling it, unless you specifically authorize such disclosures. 
-
-You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party. No information will be collected or provided to third parties without your prior knowledge. 
+Ecommerce may use the personally identifiable information collected by Ecommerce to contact customers regarding products and services offered by Ecommerce, its trusted affiliates, independent contractors, and business partners. We may also share some of this information with our agents/service providers of products and services that you purchase from Ecommerce. We may also use this information for research purposes regarding the effectiveness of our website services, marketing, advertising and sales efforts.
 
 [](http://www.hostexcellence.com/privacy-policy#top)
 
 VI. Disclosure of Information
 
-Ecommerce may also disclose aggregate, anonymous data based on information collected from users to investors and potential partners. In such cases, only statistical information will be disclosed and personally identifiable data will be kept strictly confidential. In case Ecommerce is sold, the information collected from users may be transferred to the new owners. 
+Ecommerce may also disclose aggregated, anonymous data based on information collected from users to investors and potential partners. In such cases, only statistical information will be disclosed and personally identifiable data will be kept strictly confidential. In the event of a merger, acquisition or sale of all or a portion of our assets, your personally identifiable information may be transferred as part of the transaction.
 
-Ecommerce may from time to time engage third parties, including its own subsidiaries and affiliated companies, to preserve, analyze or otherwise store or manipulate data received by Ecommerce from its customers. In all such cases, third party service providers will be required to treat all such data with the same degree of care as Ecommerce and they will be prohibited from disclosing such data to any other person or party, except as otherwise provided for in this Privacy Policy. 
+Purchase of some products or services offered by agents/service providers of Ecommerce implies consent to share necessary customer information with these agents/service providers. Upon purchase of these products or services you will be bound by the agents/service providers Privacy Policies as linked below: 
 
-We use various credit card processing companies to bill you for our services. These companies do not retain, share, store or use personally identifiable information for any other purposes. No other third party services are used to provide the services you purchase from us, thusly no personally identifiable information is provided beyond our service. 
+  * Domain Registrations:
+    * TuCows (<https://opensrs.com/privacy-policy/>)
+    * Enom (<http://www.enom.com/terms/privacy.aspx>)
+  * SSL Certificates: Comodo (<https://www.comodo.com/repository/privacy-policy.php>)
+  * SiteLock (<https://www.sitelock.com/privacy-policy.php>)
+  * Website Builder: Yola (<https://www.yola.com/privacy-policy>)
+  * Merchant Services: 2Checkout (<https://www.2checkout.com/policies/privacy-policy>)
 
-We have implemented and use Display Advertising (e.g., Remarketing) to advertise online. You can opt-out of Google Analytics for Display Advertising using the Ads Preferences Manager. Third-party vendors, including Google, may show our ads on sites across the Internet using first & third party cookies. 
+
+
+Ecommerce may, from time to time, engage third parties, including its own subsidiaries and affiliated companies, to back-up, analyze or otherwise store or manipulate data received by Ecommerce from its customers. In all such cases, third party service providers will be required to treat all such data with the same degree of care as Ecommerce and they will be prohibited from disclosing such data to any other person or party, except as otherwise provided for in this Privacy Policy.
+
+We use various credit card processing companies (Paypal, Alipay, and Authorize.net) to bill you for our services. These companies do not retain, share, store or use personally identifiable information for any other purposes. No other third party services are used to provide the services you purchase from us, thusly no personally identifiable information is provided beyond our service.
+
+Ecommerce will only share personally identifiable information with third parties in ways that are described in this privacy policy.
 
 [](http://www.hostexcellence.com/privacy-policy#top)
 
 VII. Special Offers and Updates
 
-Our customers and users will occasionally receive newsletters or e-mails with information on products, services, or special offers. Out of respect for the privacy of our users, Ecommerce gives them the opportunity to opt-out from receiving these types of communications. 
+Our customers and users will occasionally receive newsletters or e-mails with information on products, services, or special offers.
 
-If do not wish to receive our newsletter, promotional communications or any other non-service related communication, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or you may contact us at +1 (614) 534-1961 or via written mail by sending a letter to 1774 Dividend Drive, Columbus, OH 43228, to opt-out. 
-
-On some occasions, it may be necessary to send out service-related announcements. In most cases, users may not opt-out of these communications. If you do not wish to receive them, you have the option to deactivate your account. You may deactivate your account by creating a cancellation request ticket in your hosting control panel, or by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or by contacting us at +1 (614) 534-1961 or via written mail by sending a letter to 1774 Dividend Drive, Columbus, OH 43228, to opt-out. 
+On some occasions, it may also be necessary to send out service-related announcements. In most cases, users may not opt-out of these communications. If you do not wish to receive them, you have the option to deactivate your account. You may deactivate your account by creating a cancellation request ticket in your hosting control panel, by contacting us via live chat or at +1 (614) 534-1961.
 
 [](http://www.hostexcellence.com/privacy-policy#top)
 
 VIII. Legal Disclaimer
 
-Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law, if we have a good-faith belief that such action is necessary and required to comply with a current judicial proceeding, a court order, subpoena or other legal process served on Ecommerce. 
+Though we make every effort to preserve your privacy, we may need to disclose personally identifiable information when required by law, if we have a good-faith belief that such action is necessary and required to comply with a current judicial proceeding, a court order, subpoena or other legal process served on Ecommerce.
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. 
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
-The Ecommerce website contains links to other sites. Please be aware that Ecommerce is not responsible for the privacy practices of such other sites. We encourage you to read the privacy statements of each and every website that collects personally identifiable information. The Ecommerce Privacy Policy as described herein applies solely to information collected by Ecommerce. 
+We may disclose your personal information if Ecommerce is involved in a merger, acquisition, or sale of all or a portion of its assets. We may also disclose it to any other third party with your prior consent to do so.
+
+The Ecommerce website contains links to other sites. Please be aware that Ecommerce is not responsible for the privacy practices of other sites. We encourage you to read the privacy policies of each and every website that collects personally identifiable information. The Ecommerce Privacy Policy, as described herein, applies solely to information collected by Ecommerce.
 
 [](http://www.hostexcellence.com/privacy-policy#top)
 
 IX. Maintenance and Security of Information
 
-The information provided to Ecommerce is saved and may be stored on one or more databases directly or indirectly maintained by Ecommerce. Ecommerce employs industry-standard security measures and is CISP certified to protect the confidentiality of the information. Machines that store sensitive customer information are kept in compliance with CISP regulations. These machines are heavily secured and firewalled, protected on an internal network. Backups are kept physically protected in secure locations. 
+The information provided to Ecommerce is saved and may be stored on one or more databases directly or indirectly maintained by Ecommerce. Ecommerce employs industry-standard security measures as outlined in the Account Information Security (AIS) program to protect the confidentiality of the information. Machines that store sensitive customer information are kept in compliance with Payment Card Industry Data Security Standards (PCI-DSS). These machines are heavily secured and firewalled, protected on an internal network, and backups are kept physically protected in secure locations.
 
-While we cannot guarantee that loss, misuse or alteration of data will not occur; we make every effort to prevent such occurrences. Any other particularly sensitive information, such as credit card numbers collected for commercial transactions, is encrypted prior to transmission by you to Ecommerce. 
+While we cannot guarantee that loss, misuse or alteration of data will not occur; we make every effort to prevent such occurrences. Any other particularly sensitive information, such as credit card numbers collected for commercial transactions, is encrypted prior to transmission by you to Ecommerce.
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).  To learn more about SSL, follow this link:  
-<http://en.wikipedia.org/wiki/Ssl>
+The security of your personally identifiable information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using transport layer security (TLS). To learn more about TLS, follow this link: <https://tools.ietf.org/html/rfc5246>
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
+We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can send email us at [info@ecommerce.com](mailto:info@ecommerce.com). 
+If you have any questions about security on our Web site, you can contact us by ticket in your hosting control panel, by live chat, or by calling us at +1 (614) 534-1961.
 
 [](http://www.hostexcellence.com/privacy-policy#top)
 
 X. Access to Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by making the changes within your user control panel. Alternatively, you may inform us of any changes by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or by contacting us by telephone at +1 (614) 534-1961 or via postal mail at 1774 Dividend Drive, Columbus, OH 43228. 
+If your personally identifiable information changes, you may update it by making the changes within your user control panel. Alternatively, you may inform us of any changes by contacting us by ticket in your hosting control panel, by live chat, or by calling us at +1 (614) 534-1961.
+
+**Blog**
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us by ticket in your hosting control panel, by live chat, or by calling us at +1 (614) 534-1961. In some cases, we may not be able to remove your personal information, in which case we will let you know that we are unable to do so and why.
+
+**Testimonials**
+
+We display personal customer testimonials on our site in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us by ticket in your hosting control panel, by live chat, or by calling us at +1 (614) 534-1961.
+
+**Affiliate Program**
+
+If you choose to use our affiliate program, we will ask you for your name, email, website, name on check, full address, phone number, company name, W9/W8 form and SSN/TAXID. Ecommerce stores this information for the purpose of tracking the success of our affiliate program, and arranging payment to affiliates.
+
+**Single Sign-On**
+
+You can log in to our site using sign-in services such as Twitter, Facebook Connect, LinkedIn, Google and Kaixin. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+
+**Social Media Widgets**
+
+Our Web site includes Social Media Features, such as the Facebook Like button, the Google recommend button, and the Tweet button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 [](http://www.hostexcellence.com/privacy-policy#top)
 
 XI. Your Responsibility
 
-You are responsible for the security of your Customer ID and passwords. Make sure you keep them in a safe place and do not share them with others. Always remember to log out after your session ends to ensure that others cannot access your private personal information. You should take this precaution even if you are not using a public computer, such as at a library or internet café, but even when using your private computer in your home. 
+You are responsible for the security of your login usernames and passwords. Make sure you keep them in a safe place and do not share them with others. Always remember to logout after your session ends to ensure that others cannot access your private personally identifiable information. You should take this precaution even if you are not using a public computer, such as at a library or internet café, and even when using a private computer in your home.
 
 [](http://www.hostexcellence.com/privacy-policy#top)
 
 XII. Changes to this Policy
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, your user control panel and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
-
-We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page or within your user control panel. 
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 [](http://www.hostexcellence.com/privacy-policy#top)
