@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the metart.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512172930id_/http%3A//guests.met-art.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metart.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204081444id_/https%3A//metart.com/privacy) for the most accurate reproduction.*
 
-# MetArt Privacy Policy
+# MetArt - Privacy
 
-**Hydentra Privacy Policy**
+**Company Privacy Policy**  
+  
+**Last Changes to Privacy Policy: Sept 10, 2015**
 
-**Last Changes to Privacy Policy: July 24th, 2013**
-
-We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to the Hydentra family of websites located at sexart.com; metart.com; errotica-archives.com; eroticbeauty.com; thelifeerotic.com; metcams.com; live.tv and any other web sites that display this Privacy Policy (however accessed and/or used), whether via personal computers, mobile devices or otherwise, and other interactive features, applications or downloads that are operated by us that are available through these websites and post this Privacy Policy (collectively "Website") produced and maintained by Hydentra, LP ("Company" or "we", "us", or "our"). We have established this privacy policy ("Privacy Policy") to let you know the kinds of personal information we may gather during your visit to the Website, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.
+We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to the family of websites located at sexart.com; metart.com; errotica-archives.com; eroticbeauty.com; thelifeerotic.com; metcams.com; live.tv and any other web sites that display this Privacy Policy (however accessed and/or used), whether via personal computers, mobile devices or otherwise, and other interactive features, applications or downloads that are operated by us that are available through these websites and post this Privacy Policy (collectively "Website") produced and maintained by ICF Technology, Inc. ("Company" or "we", "us", or "our"). We have established this privacy policy ("Privacy Policy") to let you know the kinds of personal information we may gather during your visit to the Website, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.
 
 Please be advised that the practices described in this Privacy Policy apply to information gathered online at our Website and offline through your interactions with us outside of the Website. It does not apply to information collected by websites maintained by other companies or organizations to which we may link.
 
 By visiting our Website, you are accepting the practices described in our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Website. We reserve the right to modify or amend the terms of our Privacy Policy from time to time without notice. Your continued use of our Website and our affiliate sites following the posting of changes to these terms will mean you accept those changes. If we intend to apply the modifications or amendments to this Privacy Policy retroactively, we will provide you with notice of the modifications or amendments.
 
-If you have any questions about this Privacy Policy or don't see your concerns addressed here, you should contact us by email at [support@met-art.com](mailto:support@met-art.com).
+If you have any questions about this Privacy Policy or don't see your concerns addressed here, you should contact us by email at [support@metart.com](mailto:support@metart.com).
 
 **Controllers of Personal Information**
 
 Any personal information provided to or to be gathered by Company is controlled primarily by 18034 Ventura Blvd, Suite 181, Encino, CA, 91316.
 
-What Information About Me Is Collected and Stored?
+**What Information About Me Is Collected and Stored?**
 
 Company adheres to the highest standards of ethical practices in all of our operations and is dedicated to protecting the privacy of all visitors to our Website. Our privacy policy is simple: Except as disclosed below, we don't sell, barter, give away, or rent your personal information to any company outside of Company.
 
@@ -100,8 +100,9 @@ We are committed to maintaining our position as a premier Website on the Interne
 
 **How Do I Opt-Out or Correct Information About Me**
 
-You may always opt-out of receiving future e-mail messages and newsletters from Company. We provide you with the opportunity to opt-out of receiving communications from us at the point where we request information about you. We also give you access to a broad range of information about your account to permit you to correct or update Personal Information that you have previously provided to us. To do so, you can send us a message at [support@met-art.com](mailto:support@met-art.com).
+You may always opt-out of receiving future e-mail messages and newsletters from Company. We provide you with the opportunity to opt-out of receiving communications from us at the point where we request information about you. We also give you access to a broad range of information about your account to permit you to correct or update Personal Information that you have previously provided to us. To do so, you can send us a message at [support@metart.com](mailto:support@metart.com).
 
 **Your California Privacy Rights**
 
-California Civil Code Section 1798.83 permits customers of Company who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [support@met-art.com](mailto:support@met-art.com).
+California Civil Code Section 1798.83 permits customers of Company who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [support@metart.com](mailto:support@metart.com).  
+
