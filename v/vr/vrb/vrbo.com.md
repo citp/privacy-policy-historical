@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vrbo.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623212644id_/http%3A//www.vrbo.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vrbo.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204064534id_/http%3A//www.vrbo.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - VRBO Vacation Rentals by Owner
 
@@ -6,17 +6,13 @@ _Last updated: May 1, 2015_
 
 We are serious about protecting the privacy of our users.  This Privacy Policy describes how we use and protect your personal data.  It applies to HomeAway.com, VRBO.com, VacationRentals.com, software.homeaway.com, any subdomains thereof and any other websites where this policy is linked to in the footer of the page and any mobile application of such websites (which we have collectively called the “Site” in this policy).
 
-The Site is operated by HomeAway.com, Inc., which is part of the HomeAway group.  You can find details of the HomeAway group and the companies in it in HomeAway, Inc.’s initial, annual and quarterly filings made with the United States Securities and Exchange Commission on Forms S-1, 10-K and 10-Q, which can be accessed here: 
-
-[_http://investors.homeaway.com/sec.cfm_](http://investors.homeaway.com/sec.cfm)
-
-.
+The Site is operated by HomeAway.com, Inc., which is part of the HomeAway group.  You can find details of the HomeAway group and the companies in it in HomeAway, Inc.’s initial, annual and quarterly filings made with the United States Securities and Exchange Commission on Forms S-1, 10-K and 10-Q, which can be accessed here: <http://investors.homeaway.com/Financial-Information/sec-filings/default.aspx>.
 
 The terms “users” or “you” as used in this Privacy Policy, refer to travelers, who use the Site to look for properties to rent, members who list their properties for rent on the Site and other users who use software or other tools or services we provide on a Site.  It also applies to other visitors to our site - for example our investors or those applying for a job through the Site.
 
 We use information collected about you as explained in this Privacy Policy. The Site may contain links to third parties' websites. We're not responsible for the privacy practices or the content of those websites. The Site may also contain links to terms and conditions and privacy policies of third party providers who provide tools or services on a Site. Therefore, please read carefully any privacy policies on those links or websites before either agreeing to their terms or using those tools, services or websites.  Unless we explain otherwise in this policy, the words and phrases used in this policy have the same meaning as in the Terms and Conditions - available at 
 
-[_Terms & Conditions_](http://www.homeaway.com/info/about-us/legal/terms-conditions)
+[_Terms & Conditions_](https://www.homeaway.com/info/about-us/legal/terms-conditions)
 
 .
 
@@ -134,7 +130,7 @@ Web beacons may be used to track the traffic patterns of users from one page to 
 
 If you receive an unsolicited email that appears to be from us or one of our members that requests personal information (such as your credit card, login, or password), or that asks you to verify or confirm your account or other personal information by clicking on a link, that email was likely to have been sent by someone trying to unlawfully obtain your information, sometimes referred to as a "phisher" or "spoofer." We do not ask for this type of information in an email. Do not provide the information or click on the link.  Please contact us at 
 
-[_Customer Support_](http://support.homeaway.com/)
+[_Customer Support_](http://help.homeaway.com/)
 
 if you get an email like this.
 
@@ -154,13 +150,13 @@ We will contact you from time to time for marketing purposes. Unless you have op
 You may opt-out of receiving marketing communications from us by the following means:  
 1.    Contact us at 
 
-[_Customer Support_](http://support.homeaway.com/)
+[_Customer Support_](http://help.homeaway.com/)
 
 ;  
 2.    Follow the instructions included in each communication or newsletter;  
 3.    Use the 
 
-[_Unsubscribe function_](http://www.homeaway.com/newsletter/subscribe)
+[_Unsubscribe function_](https://www.homeaway.com/newsletter/subscribe)
 
 ; or  
 4.    Mail the request to us at 1011 W. Fifth Street, Suite 300 Austin, Texas 78703.
@@ -175,6 +171,6 @@ We will retain your personal data only as long as is necessary for the purposes 
 
 If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, we encourage you to contact us at 
 
-[_Customer Support_](http://support.homeaway.com/)
+[_Customer Support_](http://help.homeaway.com/)
 
 . In the unlikely event you still have an unresolved complaint, if your data was transferred to the US from the EU or Switzerland under Safe Harbor, you can also contact our dispute resolution service operated by NIPC, an independent arbitration service based in the EU.  Customer Support can give you the details for this service.
