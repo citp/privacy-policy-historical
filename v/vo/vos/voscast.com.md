@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voscast.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504111357id_/http%3A//voscast.com/terms/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voscast.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204221451id_/http%3A//voscast.com/terms/%23privacy) for the most accurate reproduction.*
 
 # VosCast - SHOUTcast Hosting
 
