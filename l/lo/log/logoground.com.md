@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logoground.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611082806id_/http%3A//www.logoground.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logoground.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204092647id_/http%3A//www.logoground.com/privacy.php) for the most accurate reproduction.*
 
 # LogoGround Privacy Policy
 
