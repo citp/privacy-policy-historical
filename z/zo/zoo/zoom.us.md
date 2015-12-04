@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoom.us privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520212808id_/http%3A//zoom.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoom.us privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204134945id_/http%3A//zoom.us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Zoom
 
@@ -128,3 +128,5 @@ Should you have any privacy-related questions or comments related to this privac
 Policy updates
 
 Zoom may amend this privacy statement from time to time, and at any time. We will post a notice whenever this privacy statement is materially changed. Your continued use of the Zoom website or Products after any change will signify and confirm your assent to those changes.
+
+[](http://www.etrust.org/cert/362363.html)
