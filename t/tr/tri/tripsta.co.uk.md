@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripsta.co.uk privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224101911id_/http%3A//www.tripsta.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripsta.co.uk privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204220131id_/http%3A//www.tripsta.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | tripsta.co.uk
 
@@ -160,7 +160,7 @@ We want you to feel confident about using this website to make travel arrangemen
 
 We are committed to providing you with relevant content and information. To do this, we may, through cookies and other technologies, collect information about your travel-related searches. We use this information, together with other information we have collected about you, to serve you with ads, on our website or elsewhere online, that match your apparent interests. Please note that we do not combine the information we collect about your travel-related searches on this website with personal information (such as email address) to serve you with ads across other websites. We also do not share your personal information with third parties so they can serve you with advertisements.
 
-If you wish us to stop sending you newsletters or details of other offers and promotions (opt out) please automatically subscribe through the unsubscribe link in our emails or email us at service@tripsta.co.uk.
+If you wish us to stop sending you newsletters or details of other offers and promotions (opt out) please automatically subscribe through the unsubscribe link in our emails or please, [contact us](http://www.tripsta.co.uk/contact-form).
 
 G. Transfer of information
 
