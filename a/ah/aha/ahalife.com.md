@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahalife.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611095531id_/http%3A//www.ahalife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahalife.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204202505id_/http%3A//www.ahalife.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AHAlife
 
@@ -118,5 +118,5 @@ If you have any questions regarding our Policy or privacy practices, please
 . 
 
 AHAlife Holdings Inc.   
-45 Bond Street, 6th Floor   
-New York, NY 10012 
+65 Pearl Street   
+Brooklyn, NY 11201 
