@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freesharewaredepot.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628135756id_/http%3A//www.freesharewaredepot.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesharewaredepot.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204205940id_/http%3A//www.freesharewaredepot.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy FreeSharewareDepot
 
