@@ -1,17 +1,21 @@
-> *The following text is extracted and transformed from the learnamericanenglishonline.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508030352id_/http%3A//www.learnamericanenglishonline.com/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnamericanenglishonline.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204082259id_/http%3A//www.learnamericanenglishonline.com/Privacy%2520Policy.html) for the most accurate reproduction.*
 
 # privacy policy
 
 LearnAmericanEnglishOnline.com Privacy Statement
 
-LearnAmericanEnglishOnline.com has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Privacy on the LearnAmericanEnglishOnline.com web site (the "Site") is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement at any time, so please visit LearnAmericanEnglishOnline.com regularly to review our privacy statement.
+A friendly reminder from your teacher: 
 
-If you have questions or concerns regarding this statement, you should contact the operator of this website at [paul@learnamericanenglishonline.com](mailto:paul@learnamericanenglishonline.com) and enter the word "privacy concerns" in the subject field. 
+Your privacy is extremely important. LearnAmericanEnglishOnline.com has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Privacy on the LearnAmericanEnglishOnline.com web site (the "Site") is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement at any time, so please visit LearnAmericanEnglishOnline.com regularly to review our privacy statement.
+
+If you have questions or concerns regarding this statement, you should contact the operator of this website at [paul@learnamericanenglishonline.com](mailto:paul@learnamericanenglishonline.com) and enter the words "privacy concerns" in the subject field. 
 
   
 Collected Information
 
 Learn American English Online is committed to keeping information gathered from subscribers strictly confidential. Email addresses will not be sold or shared with anyone. Also, as a Google publisher, Learn American English Online.com wants you to know that Google uses cookies and/or web beacons to collect data in the ad serving process. 
+
+We use cookies to personalize content and ads, to provide social media features and to analyze our traffic. We also share information about your use of our site with our social media, advertising and analytics partners. 
 
 Subscriber email addresses and any personal information will not be distributed or shared with third parties. Subscribers are also asked to provide an email address when registering for the Service, in order to receive updates, lessons, and newsletters. 
 
@@ -61,4 +65,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
   
 Contact 
 
-If you have any questions or suggestions regarding our privacy policy, please contact us by emailing paul@learnamericanenglishonline.com 
+If you have any questions or suggestions regarding our privacy policy, please contact us by emailing paul@learnamericanenglishonline.com. In the subject field, enter the words "privacy concerns." 
