@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecannabist.co privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629075620id_/http%3A//www.denverpost.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecannabist.co privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204204621id_/http%3A//www.denverpost.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - The Denver Post
 
@@ -75,4 +75,4 @@ If at any time you wish to stop receiving email from us, please follow the remov
 
 Your use of this Site and any materials available on or through this Site is governed by the Terms of Use Agreement for this Site, which you may view at: [http://www.DenverPost.com/Termsofuse](http://www.denverpost.com/Termsofuse).
 
-**[See also The MediaNews Group Privacy Policy.](http://www.denverpost.com/portlet/layout/html/privacypolicy/privacypolicy.jsp?siteId=36)**
+**[See also The Digital First Media Privacy Policy.](http://www.digitalfirstmedia.com/privacy-policy/)**
