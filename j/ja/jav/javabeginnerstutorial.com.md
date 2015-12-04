@@ -1,37 +1,59 @@
-> *The following text is extracted and transformed from the javabeginnerstutorial.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121073811id_/http%3A//javabeginnerstutorial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javabeginnerstutorial.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204182511id_/http%3A//javabeginnerstutorial.com/privacy-policy) for the most accurate reproduction.*
 
-# Java Beginners TutorialPrivacy Policy - Java Beginners Tutorial
+# Privacy Policy - Java Beginners Tutorial
 
-At javabeginnerstutorial.com, we know that you care how information about you is stored, used and shared. We do our best to keep your trust by using the information about you carefully and sensibly. This privacy notice explains our privacy policy. By visiting javabeginnerstutorial.com, you are accepting this privacy policy and our Terms & Conditions.
+### What information do we collect?
 
-If you have any questions about this Privacy Policy, please feel free to Contact Us @ admin@javabeginnerstutorial.com.
+We collect information from you when you register on our site, subscribe to our newsletter, fill out a form or comment on the site. When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or website URL. You may, however, visit our site anonymously.
 
- **How do we use the information we gather?**
+### What do we use your information for?
 
-Javabeginnerstutorial.com is a free community site and we publish almost all information we gather in this site. We do not share or sell your personal information to any third parties . But all personal information you submit as part of your public profile will be publicly accessible in our site, except the email address. We try not to publish your email address to avoid spam, but it is possible that in certain cases your email address may be exposed to public.
+Any of the information we collect from you may be used in one of the following ways:
 
- **What kind of information we gather?**
+  * To personalize your experience : (your information helps us to better respond to your individual needs)
+  * To improve our website : (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To send periodic emails : The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
-We store any information you submit to our site. This includes, but not limited to, the profile you create at the time of registration. If you prefer not to publish any information, you may not submit it in the site. By doing so, you may be restricted from taking advantage of certain features of the site.
 
- **General visitor information**
 
-For statistical purposes, we gather and store general visitor information like IP Address, Browser version, Visiting time, Duration etc.
+### How do we protect your information?
 
- **Cookies**
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
 
-Cookies are small pieces of information stored in your computer. When you login to Javabeginnerstutorial.com, we store small cookies in your computer, to provide a better browsing experience for you.
+### Do we use cookies?
 
- **Compliance with Children’s Online Privacy Protection Act**
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
- **Changes to This Privacy Policy**
+### Do we disclose any information to outside parties?
 
-www.javabeginnerstutorial.com has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
- **Contact Us**
+### Third party links
 
-If you would like to contact us about any information or privacy policy you can If you need to contact the webmaster of Javabeginnerstutorial.com, please **  Write to Us @ admin@javabeginnerstutorial.com**
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
- **Admin (Jayshree Singh)**
+### Online Privacy Policy Only
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+### Terms and Conditions
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms & Condition.](http://javabeginnerstutorial.com/disclaimer/)
+
+### Your Consent
+
+By using our site, you consent to our online privacy policy.
+
+### Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+This policy was last modified on 08/03/2014
+
+### Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below. Or [@](http://javabeginnerstutorial.com/contact/)
+
+admin@javabeginnerstutorial.com
