@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4wheelparts.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522124532id_/http%3A//www.4wheelparts.com/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4wheelparts.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204171136id_/http%3A//www.4wheelparts.com/info/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,7 +46,7 @@ Although every effort is made to keep our catalog and website error free, mistak
 
 To be removed from your Catalog Mailing List: You can contact us by mail at the address listed above and let us know which specific catalog you wish to stop receiving. We will make every effort to implement any choice you make as soon as possible, but you should allow approximately three months for mailing change requests to be fully implemented.
 
-To unsubscribe from an E-Mail List: Simply send an email to [webmaster](mailto:KRourke@4wheelparts.com), subject line: REMOVE.
+To unsubscribe from an E-Mail List: Simply send an email to [webmaster](mailto:simonc@transamericanautoparts.com), subject line: REMOVE.
 
 ## Internet Security: How 4WheelParts.com Protects Your Information
 
