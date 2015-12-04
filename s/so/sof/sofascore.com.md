@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sofascore.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626094655id_/http%3A//www.sofascore.com/news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sofascore.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204205847id_/http%3A//www.sofascore.com/news/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - SofaScore News
+
+### 
 
 ### Privacy Policy of  **www.sofascore.com**
 
@@ -168,3 +170,17 @@ Notice to European Users: this privacy statement has been prepared in fulfillmen
 This privacy policy is solely about this Application.
 
 Latest update: April 02, 2014
+
+### Social Plugins
+
+**Social Plugin** | **Operator of the online social network** | **Data protection declaration of the online social network**  
+---|---|---  
+**Facebook Like / Share Button** | Facebook, Inc.,1601 South California AvenuePalo Alto,CA 94304, USA | [facebook.com/  
+about/privacy/](http://www.facebook.com/about/privacy/)  
+**Twitter Tweet This Button** | Twitter, Inc.,795 Folsom St., Suite 600, San Francisco,CA 94107, USA | [twitter.com/privacy](http://twitter.com/privacy)  
+**Google Plus Button** | Google Inc., Amphitheatre Parkway, Mountain View, CA 94043, USA | [google.com/intl/  
+policies/privacy/](http://www.google.com/intl/en/policies/privacy/)  
+  
+### Facebook Native Ads
+
+This app serves Facebook Native ads. More information about this type of advertising are available on this link: <https://m.facebook.com/ads/ad_choices>
