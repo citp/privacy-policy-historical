@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toon10.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607184624id_/http%3A//www.toon10.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toon10.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205235722id_/http%3A//www.toon10.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Toon 10
 
