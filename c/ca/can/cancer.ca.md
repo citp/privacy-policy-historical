@@ -1,134 +1,149 @@
-> *The following text is extracted and transformed from the cancer.ca privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605124547id_/http%3A//www.cancer.ca/ccs/internet/standard/0%2C%2C3172_15196__langId-en%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancer.ca privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205020757id_/http%3A//www.cancer.ca/en/about-our-site/privacy-policy/%3Fregion%3Don) for the most accurate reproduction.*
 
-# Our privacy policy
+# Privacy policy - Canadian Cancer Society
 
-| 
+At the Canadian Cancer Society (the “Society”), we recognize the importance of privacy and are committed to maintaining the accuracy, confidentiality, and security of your personal information. This privacy policy describes the personal information that the Society collects, how we manage that information and the circumstances under which we may disclose that information.
 
-Our privacy policy
+The Society’s privacy policy is based upon the _Canadian Centre for Philanthropy’s Ethical Fundraising and Financial Accountability Code_ , the _Canadian Standards Association’s Model Code for the Protection of Personal Information_ as well as the requirements of applicable privacy legislation. As this policy is subject to change due to legal and regulatory requirements, we encourage you to periodically check our website or call our Privacy Office at 1 800 268-8874, ext. 2257 for updates to this policy.
 
-Thank you for visiting cancer.ca and for reviewing our privacy policy. By visiting the Canadian Cancer Society online at [www.cancer.ca](http://www.cancer.ca/) _,_ you are accepting the practices described in this privacy notice.
+### What is personal information? 
 
-The Canadian Cancer Society reserves the right to change this policy at any time. Our privacy policy will be kept up-to-date and posted on our website.
+Personal information is any information about an identifiable individual, other than an individual’s business title or business contact information. Personal information (e.g. name, address, age, credit card information, banking information) does not include information that cannot be associated with or tracked back to a specific individual. Information that is publicly available, such as a telephone directory listing, is also not considered to be personal information.
 
-In order to improve our site on an ongoing basis, we use cookies to track your visit. The Canadian Cancer Society also uses cookies to provide users with certain features (for example, customized delivery of information based on your choice of language and your preferred province/territory) available our website.
+### What information does the Society collect?
 
-A cookie is a small amount of data that is transferred to your browser by a web server and can only be read by the website that gave it to you. It functions as your identification card. It is not a program and cannot be executed as code or deliver viruses.
+**_1) Personally identifying information_**
 
-Cookies can also customize the site to your particular interests or store your personal information – like passwords or user IDs. If a site ever greets you with your name, chances are it’s using a cookie to do so.
+The Society only collects personally identifying information about donors, clients, volunteers and event participants for fundraising, public education and advocacy purposes, program and service delivery, as well as to establish, maintain and manage our relationship with you.
 
-Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie – this gives you the chance to decide whether to accept it. To learn more about cookies and how to change your settings, please use the help function in your browser. The alerts will be quite frequent, however, and may eventually become annoying.
+**Your provision of personal information to the Society means that you agree and consent that we may collect, use and disclose your personal information in accordance with this privacy policy. If you do not agree with these terms, please do not provide any personal information to the Society. Failure to provide your personal information to the Society may prevent us from offering you the services and/or programs you have requested. We will discuss the impacts of withdrawal of consent with you at that time.**
 
-You can use the Canadian Cancer Society website without cookies, but you may have to re-enter information each time you visit.
+The information the Society collects is the minimum amount we need to establish and maintain a service, volunteer, participant, donor or program relationship with you. This includes but is not limited to:
 
-Two types of information are collected from our website:
+  * contact and identification information, such as your name, address, telephone number and e-mail address
+  * donation information such as date of gift, amount of gift, the campaign you contributed to, name of spouse or partner if it was a joint gift
+  * financial information such as your payment methods and preferences, billing and banking information (credit card number and expiry date or chequing account transit numbers, in order to process your donation); for online financial transactions such as donations and event registrations, we process standard credit card information (card number, card type and expiration date) via a secure, 128-bit encrypted Secure Sockets Layer (SSL) session. SSL is the proven standard for secure web transactions.
 
-  1. Personal or "individually identifiable" information you provide to us.
 
 
-  2. Aggregate information regarding overall website traffic patterns. Normally, web servers collect this type of standard web server/visitor traffic information as part of their web log processes. We do not report on individual user sessions.
+We may be required by law to collect certain information about you. For example, some of the information the Society collects is needed in order to satisfy the requirements of the Canada Revenue Agency (CRA) (e.g. processing income tax receipts).
 
+The Society generally collects your personal information directly from you and only with your consent. However, if the individual who has a relationship with the Society is a minor, information may be collected from a parent or legal guardian. In general, the Society will not collect or use personal information about you from a third party without your consent. The Society will usually obtain your consent at the time that we collect your personal information. If your personal information will be used or disclosed for any additional purposes that are not outlined in this policy, the Society will advise you of these new purposes before such use or disclosure.
 
+**_(2) Website practices on cancer.ca_**
 
-## 1\. Personal information
+_Usage tracking_
 
-You do not need to give personal information to receive information from this site.
+Our websites may automatically record some general information about your visit using Google Analytics which we use for statistical analysis to help make sure our sites are more useful to visitors and make the most efficient use of donor dollars in our marketing efforts through targeted advertising.  **This information does not allow us to identify you individually.** This information might include the: 
 
-There are instances online, however, when the Canadian Cancer Society requests individually identifiable information from you. Please note that we do give our web visitors options wherever necessary and practical. Such choices include:
+  * Internet domain for your Internet service provider, such as “company.com” or “service.ca” and the IP address of the computer accessing the website, such as “ppp-55”;
+  * Type of browser you are using, such as Internet Explorer or Chrome;
+  * Type of operating system you are using such as Windows or Macintosh;
+  * Date and time of the visit to our site,  the pages of our site that were visited, and the address of the previous website you were visiting if you linked to us from another website
+  * Age category, gender, and affinity interests as determined by Google Analytics Demographic and Interest reports
 
-  * Opting not to provide certain personal information when completing donation or registration features.
-  * Opting not to receive further communications from the Canadian Cancer Society.
 
 
+If you wish, you may opt out of being tracked by Google Analytics by disabling or refusing the cookies; by disabling JavaScript within your browser; or by using the [Google Analytics Opt-Out Browser Add-On](https://tools.google.com/dlpage/gaoptout?hl=en).
 
-### Online donations
+Data collected for Web analytics purposes goes outside of Canada to Google servers and may be processed in any country where Google operates servers. Data may be subject to the governing legislation of that country. For further information about Google Analytics, please refer to the [Google Analytics terms of service](http://www.google.ca/analytics/terms/us.html).
 
-When you choose to make an online donation through the Canadian Cancer Society website, we may request the following information:
+_Cookies_
 
-  1. **Contact information:** first and last name, street address, city, province or state, postal or zip code, country, telephone number, e-mail address and other contact information. _This information is used to process your donation and your tax receipt._
+We also use "cookies" that identify you as a return visitor and which can help us tailor information to suit your individual preferences. A cookie is a piece of data that a website can send to your browser, which may then store the cookie on your hard drive. The goal is to save you time and provide you with a more meaningful visit and to measure website activity. Cookies do not contain any personally identifying information. Many browsers, however, allow you to disable cookie collection if you wish, or inform you when a cookie is being stored on your hard drive.
 
-  2. **Credit card information** : for donations to any province with the exception of Alberta, we process standard credit card information (card number, card type and expiration date) via a secure, 128-bit encrypted Secure Sockets Layer (SSL) session. SSL is the proven standard for secure web transactions. Please note that donations using the Alberta online donations for are processed by e-mail.
+_Targeted_ ****_advertising_ ****
 
-_This information is only used to process the payment of your donation. We do not store credit card information._
+As you interact with Canadian Cancer Society websites, third party advertising partners may use cookies that we place on your computer, tracking pixels, web beacons and similar technologies to identify you as a visitor to our websites, and present you with targeted ads to help us promote the Society. You can opt-out of the use of your information for select ad targeting by visiting this site: <http://youradchoices.ca/choices>, and also by setting up “Do Not Track” options available through your browser. We also occasionally provide your personal information to trusted advertising partners for the purpose of presenting you with targeted ads on behalf of the Society. You can request that your personal information not be shared with our advertising partners by contacting [privacy@ontario.cancer.ca](mailto:privacy@ontario.cancer.ca)
 
-  3. **In Memoriam and In Honour contributions** : in the case of memorial contributions and honour contributions, a personalized acknowledgement card is sent to a designated recipient, usually the family member of the deceased or the honouree. Therefore, we will request the name, address, city, province or state, postal or zip code, country and telephone number for your designated acknowledgement card recipient.
+_Online transactions_
 
-_This information is only used for the purpose of sending the acknowledgement card._
+We protect the security of your transactions on our website by using SSL (Secure Sockets Layer) web server certificates that offer secure communications by encrypting all data going to and from the Canadian Cancer Society websites.
 
+_External Links_
 
+This policy discloses the privacy practices for our websites.   The Society provides links to other websites which the Society believes may be of interest to you. As the Society has no control over the content of any of these websites, these links may be updated or deleted as the Society deems appropriate.
 
+Please be aware that the Society is not responsible for the privacy practices of other websites that we link to. We encourage you to read the privacy statements of each and every website that requests personal information from you.
 
-### Volunteer information forms
+_Third-Party Social Media_
 
-Potential volunteers who complete the online application form are assured of confidentiality. Your information is secure and will not be shared with any other organization. When you choose to submit a volunteer information/application form through the our website, we may request the following information:
+The Canadian Cancer Society’s use of social media serves as an extension of its presence on the internet. Social media account(s) are public and are not hosted on Canadian Cancer Society servers. Users who choose to interact with the Canadian Cancer Society via social media should read the terms of service and privacy policies of these third-party service providers and those of any applications used to access them.
 
-  1. **Contact information:** first and last name, street address, city, province or state, postal or zip code, country, telephone number, e-mail address and other contact information.
 
-_This information is used to process your volunteer application_. 
 
-  2. **Personal information:** information about your particular area of interest and your personal references.
 
-_This information is used to process your volunteer application._
+### How does the Society use your personal information?
 
+As explained above, the Society uses your personal information, to process donations, to respond to your requests for services and information, to keep you informed about Society activities, and for fundraising. For example, if you have expressed an interest in participating in a fundraising event, such as Relay for Life, we may send you information about other opportunities to support or participate in the Society’s activities.
 
+The Society makes every attempt to use anonymous or aggregate information whenever possible. We may also use information that doesn’t personally identify you in the following ways:
 
+  * to assist in the development of new programs, events, and services
+  * to provide donation recipients with summary or aggregate information about our donations, programs and services
+  * for internal research purposes
+  * to develop advertising based on donor preferences
 
-### Relay For Life online registration
 
-When you choose to register for the Canadian Cancer Society _Relay For Life_ through our website, we may request the following information. Please note, this online option is currently available for the provinces of Alberta, Ontario and Saskatchewan only.
 
-  1. **Participant registration information** : includes name, address and other contact information, including e-mail address and the particular event location you’ve registered for.
 
-_This information is used to process your registration and to contact you shortly after your registration to provide additional information you will need for the event._
+### When does the Society disclose your personal information?
 
-  2. **Volunteer registration information** : includes name, address and other contact information, including e-mail address, the particular event location you’ve registered for and the volunteer areas you are interested in.
+The Society shares your personal information only with employees and/or volunteers who require such information to establish, manage and maintain our relationship with you. We may also disclose your personal information to third party service providers whom we engage to fundraise, process your donation, deliver a support service, support your volunteer activities,  or answer your inquiry. These third party providers only have access to personal information that is needed to perform their services and may not use it for any other purpose. They are bound by agreements that obligate them to protect your personal information. Note that in working with our service providers, your personal information may be accessible in, or transferred to, a foreign jurisdiction. Such information may be provided to law enforcement or national security authorities of that jurisdiction in order to comply with foreign laws.
 
-_This information is used only to help us process your application and find the role that is right for you._
+There are circumstances where the use and/or disclosure of personal information is justified or permitted without consent. These circumstances may include:
 
-  3. **Pledge information** : includes name, address and other contact information for the person making the donation by pledging a participant, as well as information required to process a tax-receipt.
+  * where required by law or by order or requirement of a court, administrative agency or other governmental tribunal
+  * where the Society believes, upon reasonable grounds, that it is necessary to protect the rights, privacy, safety or property of an identifiable person or group
+  * where the information is public
 
-_This information is used to process your donation and provide your receipt. The specific participant that you pledge will also be provided with your name and the amount of your pledge._
 
-  4. **Luminary information** : includes name, address and other contact information for the person purchasing the luminary or luminaries. When you purchase a luminary, you also have the option of providing the name and a personalized message that will appear on the luminary bag.
 
-_This information is used only for the purpose of creating the message labels for the luminary bags and is not stored for future use._
+Fundraising helps to ensure the on-going stability and quality of the services and programs the Society provides to individuals living with cancer. As part of our fundraising initiatives, we may exchange donor information with other registered charities. If you do not wish the Society to trade your name in this manner, or if you do not want to receive any marketing or fundraising materials from the Society, you can contact our Privacy Office at [privacy@ontario.cancer.ca](mailto:privacy@ontario.cancer.ca), at 1 800 268-8874 extension 2257, or write us at Privacy Office, Canadian Cancer Society – Ontario Division, 55 St. Clair Avenue West, Suite 500, Toronto, Ontario M4V 2Y7. Please allow up to 12 weeks for your request to be processed, as campaigns may already be in progress.
 
-  5. **Survivors’ Victory Lap registration** : includes name, address and other contact information, including e-mail address, as well as the particular event location you’ve registered for. Cancer survivors are invited to walk the first lap of the _Relay For Life_ to celebrate their survivorship. Survivors’ names are announced at the event, along with the length of time you’ve been a cancer survivor.
+### Accuracy of information
 
-_Your personal information is used only for the purpose of announcing your name and length of survivorship during the event, but only if you are comfortable with this. This is optional. You are not required to provide this information, and if you prefer not to have your name announced, simply check the box indicate this. We respect your privacy. The information is not used in any other way, and will never be shared with any other organization._
+The Society aims to ensure that any personal information provided is accurate, complete and current as required for the purposes for which the information is used.
 
-  6. **Personal account information** : in order to use our online registration application, you will need to provide your e-mail address and a password. This information will remain confidential.
+### Safeguarding your personal information
 
-_Your personal account information will provide you will access to information about your personal registration details as well as information about your pledge status. Your password is store in our database and you may change it at any time by logging in to your account._
+The Society takes reasonable measures to ensure that personal information is kept safe from loss or theft, unauthorized access, use, copying, disclosure or modification. Safeguards include physical, organizational and technical measures, including but not limited to:
 
-  7. **Invitations** : Participants who have registered online have the option through our online registration application, to send e-mail to family, friends and co-workers to invite them to join a team or pledge them for the event. In this case, you are asked to provide e-mail addresses for your contacts.
+  * Security card access to premises
+  * Restriction of access to files on a “need to know” basis;
+  * Confidentiality undertakings by all employees;
+  * Locking up personal information and never leaving it unattended and in plain view;
+  * Firewalls, anti-virus, strong passwords and software solutions for technical security; and
+  * Regular reviews of privacy compliance initiatives. 
 
-_This information is used only for the purpose of sending the e-mail invitations. We do not store these e-mail addresses._
 
-  8. **Credit card information** : we process standard credit card information (card number, card type and expiration date) via a secure, 128-bit encrypted Secure Sockets Layer (SSL) session. SSL is the proven standard for secure web transactions.
 
-_This information is used to process your financial transaction only and is not stored._
+The Society trains all staff on privacy best practices and ensures that employees are aware of the importance of safeguarding any personal information that they are privy to.
 
+### Retention of personal information
 
+The Society keeps personal information only as long as it is required for the reasons it was collected. The length of time we retain information varies, depending on the program, service or event and the nature of the information, for example we keep financial information for 6 years, in accordance with CRA rules and regulations. The retention period may extend beyond your relationship with us. When your personal information is no longer required for Society purposes, the information is either physically destroyed or deleted.
 
+### Inquiries and requests for access
 
-### E-mail inquiries
+If you have any questions about this privacy policy, or would like to access your personal information, please contact our Privacy Officer. Please note that as we cannot guarantee the security of Internet mail, all formal requests to access personal information should be made in writing.
 
-Our website contains several e-mail links that allow web visitors to easily send an e-mail inquiry or feedback to the Canadian Cancer Society. Examples include e-mail inquiries to the Society’s Cancer Information Service, to the webmaster, or to specific staff in specific departments across the country. When you use the e-mail links, your e-mail address and the subject of your inquiry are provided to the Society.
+Privacy Officer
 
-_We only use this information to respond to your inquiries and track the service we provide. This information helps us improve our website, provide more relevant information to our site visitors and update our site as need be._
+Canadian Cancer Society – Ontario Division
 
-#### Canada Customs and Revenue Agency requirements relating to donations
+55 St. Clair Avenue West, Suite 500
 
-In order to satisfy the requirements of the Canada Customs and Revenue Agency (CCRA), we maintain records of all contributions to the Canadian Cancer Society. Personal information is private and confidential. Additionally, all information is stored in a secure location accessible only by authorized staff and volunteers.
+Toronto, Ontario
 
-#### Future contact with the Canadian Cancer Society
+M4V 2Y7
 
-The Canadian Cancer Society may contact online donors or event participants with further communications on a variety of topics. Donors may be contacted by mail, telephone or e-mail. If you do not wish to be contacted, we will honour this request. Simply contact [your local Canadian Cancer Society office](https://web.archive.org/ccs/internet/standard/0,2939,3172_12935__langId-en,00.html). You can also restrict the use of your contact information by contacting your local Canadian Cancer Society office.
+Telephone: (416) 488-5402; extension 2257
 
-Occasionally, the Canadian Cancer Society may contact individuals who have provided their individually identifiable information through the website, and have agreed to be contacted, specifically in order to conduct surveys seeking feedback. These surveys are used to improve our level of service to you. While aggregate information about survey results may be publicized, individual data from these surveys will not be shared with other organizations.
+Toll free: 1 800 268-8874; extension 2257
 
-The Canadian Cancer Society has links to other websites that are not under its control. The Canadian Cancer Society is not responsible for the contents of any linked website, any link contained in a linked website or any changes or updates to such websites. The inclusion of any link does not mean that the Canadian Cancer Society endorses that website.
+Fax: (416) 488-2872
 
-Please be aware that the Canadian Cancer Society is not responsible for the privacy practices of other websites that we link to. We encourage you to read the privacy statements of each and every website that requests personal information from you.
+E-mail: [privacy@ontario.cancer.ca](mailto:privacy@ontario.cancer.ca)
 
-Last updated on: 14 December 2002 
+Please note that a fee may apply in processing access requests depending on the type and volume of information requested.
