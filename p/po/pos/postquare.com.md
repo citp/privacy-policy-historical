@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postquare.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222214308id_/http%3A//www.postquare.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postquare.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205071314id_/http%3A//www.postquare.com/privacy.html) for the most accurate reproduction.*
 
 # Postquare - Privacy
 
