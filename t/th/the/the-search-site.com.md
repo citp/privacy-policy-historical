@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the the-search-site.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022831id_/http%3A//the-search-site.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-search-site.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205075803id_/http%3A//www.the-search-site.com/privacy) for the most accurate reproduction.*
 
 # Privacy « Directory – Worldwide
 
-This Privacy Policy governs the manner in which The-Search-Site.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [ http://the-search-site.com](http://the-search-sitel.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by The-Search-Site.com.
+This Privacy Policy governs the manner in which The-Search-Site.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [ http://www.the-search-site.com](http://the-search-sitel.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by The-Search-Site.com.
 
 **Personal identification information**
 
@@ -67,15 +67,13 @@ The-Search-Site.com has the discretion to update this privacy policy at any time
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://the-search-site.com/terms/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](http://www.the-search-site.com/terms/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[http://the-search-site.com](http://the-search-site.com/)   
+[http://www.the-search-site.com](http://www.the-search-site.com/)   
 Suite 3 – 6 32 Gibson Square London United Kingdom N1 0RD  
 enquiries@directory-local.com
 
 This document was last updated on July 23, 2013
-
-Rating: 0.0/ **10** (0 votes cast)
