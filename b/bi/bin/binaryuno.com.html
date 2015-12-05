@@ -1,36 +1,50 @@
-<!--The following is the downloaded HTML source of the binaryuno.com privacy policy that was archived on 2015-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609065953id_/http%3A//www.binaryuno.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the binaryuno.com privacy policy that was archived on 2015-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151205094130id_/http%3A//www.binaryuno.com/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
+<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=2"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MT4RVR"></script><script type="text/javascript" async="" src="//storage.googleapis.com/code.snapengage.com/js/8f4605cc-9a7b-428d-b742-5947aabf95de.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+/*
+var _rollbarConfig = {
+    accessToken: "50d471c748244060953182e9c96cb0d1",
+    captureUncaught: true,
+    payload: {
+        environment: "production"
+    }
+};
+!function(r){function t(e){if(o[e])return o[e].exports;var n=o[e]={exports:{},id:e,loaded:!1};return r[e].call(n.exports,n,n.exports,t),n.loaded=!0,n.exports}var o={};return t.m=r,t.c=o,t.p="",t(0)}([function(r,t,o){"use strict";var e=o(1).Rollbar,n=o(2),a="http://d37gvrvc0wt4s1.cloudfront.net/js/v1.4/rollbar.min.js";_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||a;var i=e.init(window,_rollbarConfig),l=n(i,_rollbarConfig);i.loadFull(window,document,!1,_rollbarConfig,l)},function(r,t){"use strict";function o(){var r=window.console;r&&"function"==typeof r.log&&r.log.apply(r,arguments)}function e(r){this.shimId=++u,this.notifier=null,this.parentShim=r,this.logger=o,this._rollbarOldOnError=null}function n(r,t,o){window._rollbarWrappedError&&(o[4]||(o[4]=window._rollbarWrappedError),o[5]||(o[5]=window._rollbarWrappedError._rollbarContext),window._rollbarWrappedError=null),r.uncaughtError.apply(r,o),t&&t.apply(window,o)}function a(r){var t=e;return l(function(){if(this.notifier)return this.notifier[r].apply(this.notifier,arguments);var o=this,e="scope"===r;e&&(o=new t(this));var n=Array.prototype.slice.call(arguments,0),a={shim:o,method:r,args:n,ts:new Date};return window._rollbarShimQueue.push(a),e?o:void 0})}function i(r,t){if(t.hasOwnProperty&&t.hasOwnProperty("addEventListener")){var o=t.addEventListener;t.addEventListener=function(t,e,n){o.call(this,t,r.wrap(e),n)};var e=t.removeEventListener;t.removeEventListener=function(r,t,o){e.call(this,r,t&&t._wrapped?t._wrapped:t,o)}}}function l(r,t){return t=t||o,function(){try{return r.apply(this,arguments)}catch(o){t("Rollbar internal error:",o)}}}var u=0;e.init=function(r,t){var o=t.globalAlias||"Rollbar";if("object"==typeof r[o])return r[o];r._rollbarShimQueue=[],r._rollbarWrappedError=null,t=t||{};var a=new e;return l(function(){if(a.configure(t),t.captureUncaught){a._rollbarOldOnError=r.onerror,r.onerror=function(){var r=Array.prototype.slice.call(arguments,0);n(a,a._rollbarOldOnError,r)};var e,l,u="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(e=0;e<u.length;++e)l=u[e],r[l]&&r[l].prototype&&i(a,r[l].prototype)}return r[o]=a,a},a.logger)()},e.prototype.loadFull=function(r,t,o,e,n){var a=function(){var t;if(void 0===r._rollbarPayloadQueue){var o,e,a,i;for(t=new Error("rollbar.js did not load");o=r._rollbarShimQueue.shift();)for(a=o.args,i=0;i<a.length;++i)if(e=a[i],"function"==typeof e){e(t);break}}"function"==typeof n&&n(t)},i=t.createElement("script"),u=t.getElementsByTagName("script")[0];i.src=e.rollbarJsUrl,i.async=!o,i.onload=l(a,this.logger),u.parentNode.insertBefore(i,u)},e.prototype.wrap=function(r,t){try{var o;if(o="function"==typeof t?t:function(){return t||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._wrapped){r._wrapped=function(){try{return r.apply(this,arguments)}catch(t){throw t._rollbarContext=o()||{},t._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=t,t}},r._wrapped._isWrap=!0;for(var e in r)r.hasOwnProperty(e)&&(r._wrapped[e]=r[e])}return r._wrapped}catch(n){return r}};for(var s="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError".split(","),p=0;p<s.length;++p)e.prototype[s[p]]=a(s[p]);r.exports={Rollbar:e,_rollbarWindowOnError:n}},function(r,t){"use strict";r.exports=function(r,t){return function(o){if(!o&&!window._rollbarInitialized){var e=window.RollbarNotifier,n=t||{},a=n.globalAlias||"Rollbar",i=window.Rollbar.init(n,r);i._processShimQueue(window._rollbarShimQueue||[]),window[a]=i,window._rollbarInitialized=!0,e.processPayloads()}}}}]);
+*/
+</script>
+
 <meta charset="UTF-8">
-<title>Privacy Policy - BinaryUno</title>
+<title>Binary Uno: Privacy Policy</title>
 
 <link rel="stylesheet" href="http://www.binaryuno.com/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=3.1.6" type="text/css" media="all">
 
 
 <!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="The privacy of our clients is one of our main concerns, therefore Binary Uno is committed to safeguard all personal information of its valued online traders.">
 <link rel="canonical" href="http://www.binaryuno.com/legal/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Policy - BinaryUno">
-<meta property="og:description" content="No matter if you are a former or an existing client or just a visitor on our website, the privacy of our users is one of our main concerns, therefore the company is committed to safeguard all personal information collected from our valued clients. 1.&nbsp;&nbsp;&nbsp; By providing to the company your personal information such as …">
+<meta property="og:title" content="Binary Uno: Privacy Policy">
+<meta property="og:description" content="The privacy of our clients is one of our main concerns, therefore Binary Uno is committed to safeguard all personal information of its valued online traders.">
 <meta property="og:url" content="http://www.binaryuno.com/legal/privacy-policy/">
-<meta property="og:site_name" content="BinaryUno">
+<meta property="og:site_name" content="Binary Uno">
 <!-- / Yoast WordPress SEO plugin. -->
 
-<link rel="stylesheet" id="socialite-css-css" href="http://www.binaryuno.com/wp-content/plugins/wpsocialite/lib/wpsocialite.css?ver=4.0.5" type="text/css" media="all">
+<link rel="stylesheet" id="socialite-css-css" href="http://www.binaryuno.com/wp-content/plugins/wpsocialite/lib/wpsocialite.css?ver=4.0.8" type="text/css" media="all">
 <link rel="stylesheet" id="contact-form-7-css" href="http://www.binaryuno.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.9.3" type="text/css" media="all">
-<link rel="stylesheet" id="datepicker-css" href="http://www.binaryuno.com/wp-content/plugins/spotoption-platform/css/jdpicker.css?ver=4.0.5" type="text/css" media="all">
-<link rel="stylesheet" id="chosen-css" href="http://www.binaryuno.com/wp-content/plugins/spotoption-platform/css/chosen.css?ver=4.0.5" type="text/css" media="all">
+<link rel="stylesheet" id="datepicker-css" href="http://www.binaryuno.com/wp-content/plugins/spotoption-platform/css/jdpicker.css?ver=4.0.8" type="text/css" media="all">
+<link rel="stylesheet" id="chosen-css" href="http://www.binaryuno.com/wp-content/plugins/spotoption-platform/css/chosen.css?ver=4.0.8" type="text/css" media="all">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.binaryuno.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.binaryuno.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.0.5">
+<meta name="generator" content="WordPress 4.0.8">
 <link rel="shortlink" href="http://www.binaryuno.com/?p=255">
 <meta name="generator" content="WPML ver:3.1.6 stt:1,47,5;0">
 
 <style type="text/css">											
 </style>
-<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=2"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MT4RVR"></script><script type="text/javascript" async="" src="//storage.googleapis.com/code.snapengage.com/js/8f4605cc-9a7b-428d-b742-5947aabf95de.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
 <script src="http://www.binaryuno.com/wp-content/themes/BinaryUno/js/functions.js?v=3"></script>
 
 <script>
@@ -43,15 +57,16 @@ var fontsinactive = false;
    	inactive: function() {
    	 	 fontsinactive = true;
    	},    google: {
-      families: ['Dosis:300,400,500,600,700,800']
+      families: ['Dosis:300,400,500,600,700,800','Lato:400,700']
     },
      	 timeout: 2000 // Set the timeout to two seconds
   });
 </script>
 
 <link rel="stylesheet" href="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/reset.css" type="text/css" media="all">
-<link rel="stylesheet" href="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/style.css?v=255" type="text/css" media="all">
-<link rel="stylesheet" href="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/css/templates.css?v=11" type="text/css" media="all">
+<link rel="stylesheet" href="http://www.binaryuno.com/wp-content/themes/BinaryUno/style.css?v=261" type="text/css" media="all">
+<link rel="stylesheet" href="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/css/templates.css?v=22" type="text/css" media="all">
+
 
 
 
@@ -78,52 +93,59 @@ var fontsinactive = false;
     })(window,document);
 </script><script async="" src="//static.hotjar.com/c/hotjar-34388.js?sv=4"></script>
 
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+</head>
 
 <body class="page page-id-255 page-child parent-pageid-52 page-template-default wpsocialite-scroll page-en">
 
 <style>
-@import url('http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/css/platform-overrides.css?v=15');
+@import url('http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/css/platform-overrides.css?v=18');
 </style>
 
 	<div id="site-wrapper">
-		<div id="loader"><div id="loadimg"></div></div>
-				
-	
-    <div id="login-bar">
-        <div class="inner-wrapper">
-            
-			  		<div id="items">
-						<span class="item login-item">Login</span>
-						<span class="item support-item" onclick="return SnapEngage.startLink();">Support Chat</span>
-						<span class="item language-menu last">
-								<img class="lang-flag" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/flags/us.png">English						</span>
-					</div>
-					<div class="clear" style="height:1px;"></div>
-
-					<div id="lang-popup" style="display:none;">	
-      				</div>
-
-										<div id="login-form" class="login-popup">
-                    <div id="userSection">
-					<div id="login-loader"></div>
-					<form id="userLoginForm" class="loginForm bu-form placeholder-form" method="post" action="https://spotplatform.binaryuno.com/login/login/1">
-                    	<div id="logintooltip"><div class="arrow-right"></div>Incorrect Username or Password</div>
-						<input type="hidden" name="extRedir" value="http://www.binaryuno.com/legal/privacy-policy/">
-                        <input type="text" id="email" name="email" placeholder="Email">
-						<input type="password" id="password" name="password" placeholder="Password">
-						<div class="clear" style="height:4px;"></div>
-						<div id="login-links">
-							<a id="forgot-pw-link" href="http://www.binaryuno.com/forgot-password/">Forgot Password?</a>
-							<a id="new-acc-link" href="http://www.binaryuno.com/register/">New member? Sign up</a>
-						</div>
-						<input type="submit" id="submit" class="submit butt blu-butt" value="Login">
-						<div class="clear"></div>
-					</form>
+		<div id="loader">
+			<div class="loader_container">
+				<div id="loadimg"></div>
+				<div id="processing" style="color: #909090; text-align: center; top: 50%; position: relative;">
+					PROCESSING, PLEASE WAIT.<br>
+					<span class="red"><strong>DO NOT</strong></span> CLOSE THIS WINDOW				</div>
+			</div>
+		</div>		
+		
+		      
+<div id="login-bar">
+    <div class="inner-wrapper">
+                <div id="items">
+            <span class="item login-item">Login</span>
+            <span class="item support-item" onclick="return SnapEngage.startLink();">Support Chat</span>
+            <span class="item language-menu last">
+                <img class="lang-flag" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/flags/us.png">English            </span>
+        </div>
+        <div class="clear"></div>
+        <div id="lang-popup" style="display:none;">    
+        </div>
+                <div id="login-form" class="login-popup">
+            <div id="userSection">
+                <div id="login-loader"></div>
+                <form id="userLoginForm" class="loginForm bu-form placeholder-form" method="post" action="https://spotplatform.binaryuno.com/login/login/1">
+                    <div id="logintooltip"><div class="arrow-right"></div>
+                        Incorrect Username or Password                    </div>
+                    <input type="hidden" name="extRedir" value="http://www.binaryuno.com/legal/privacy-policy/">
+                    <input type="text" id="email" name="email" placeholder="Email">
+                    <input type="password" id="password" name="password" placeholder="Password">
+                    <div class="clear" style="height:4px;"></div>
+                    <div id="login-links">
+                        <a id="forgot-pw-link" href="http://www.binaryuno.com/forgot-password/">Forgot Password?</a>
+                        <a id="new-acc-link" href="http://www.binaryuno.com/register/">New member? Sign up</a>
                     </div>
-					</div>
-								  </div>	
-	</div>		<div id="contact-sidebar-wrapper">
+                    <input type="submit" id="submit" class="submit butt blu-butt" value="Login">
+                    <div class="clear"></div>
+                </form>
+            </div>
+        </div>
+            </div>  
+</div>
+
+		<div id="contact-sidebar-wrapper">
 	<a id="live-chat-icon" href="#" onclick="return SnapEngage.startLink();">
 		<img src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/sidebar/live-chat-icon-en.png" alt="contact icon">    
 	</a>    
@@ -139,16 +161,19 @@ var fontsinactive = false;
 			<div id="logo-area">
 			 <div class="inner-wrapper">
 
-		  			 <a href="http://www.binaryuno.com"><img id="logo" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/logos/logo-213x52.png" alt="BinaryUno"></a>
+			 					  			 		<a href="http://www.binaryuno.com"><img id="logo" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/logos/logo-213x52.png" alt="BinaryUno"></a>
+		  			 	
+		  			 
 		
 
 				<div id="site-time">
 					<span id="calendar">
-                    Tuesday, 09-06-15                    </span><span id="clock" class="blue">06:59:52 GMT</span>
+                    Saturday, 05-12-15                    </span><span id="clock" class="blue">09:41:29 GMT</span>
 				</div>
 				<div class="clear" style="height:1px;"></div>
 			</div>
 		</div> <!--logo area -->
+    <span id="systemClock" style="display:none"></span>
 		<div id="main-menu">
 				<div class="inner-wrapper">
 					<div id="top-menu-wrapper">
@@ -163,6 +188,7 @@ var fontsinactive = false;
 	<li id="menu-item-992" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-992"><a href="/education/?active_tab=stgbin">Binary Strategies</a></li>
 	<li id="menu-item-993" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-993"><a href="/education/?active_tab=abin">Advanced Course</a></li>
 	<li id="menu-item-994" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-994"><a href="/education/?active_tab=bbktab">Binary E-Book</a></li>
+	<li id="menu-item-1299" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1299"><a href="http://www.binaryuno.com/library/">Library</a></li>
 </ul>
 </li>
 <li id="menu-item-851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-851"><a href="http://www.binaryuno.com/trading-tools/">Trading Tools</a>
@@ -196,10 +222,10 @@ var fontsinactive = false;
 			<div class="inner-wrapper clearfix">
 				<div class="alignleft left-side">
 					<div class="shadow-wrapper">
-						<div class="content-title">Privacy Policy</div>
+						<div class="content-title"><h1>Privacy Policy</h1></div>
          				<div id="general-page">
-         				
-                     		<p>No matter if you are a former or an existing client or just a visitor on our website, the privacy of our users is one of our main concerns, therefore the company is committed to safeguard all personal information collected from our valued clients.</p>
+
+                            <p>No matter if you are a former or an existing client or just a visitor on our website, the privacy of our users is one of our main concerns, therefore the company is committed to safeguard all personal information collected from our valued clients.</p>
 <p>1.&nbsp;&nbsp;&nbsp; By providing to the company your personal information such as Full Name, Mailing Address, ID number, Passport Number etc., you are providing the company with full consent to gather, utilize, store and protect the information provided in the manner described below.</p>
 <p>2.&nbsp;&nbsp;&nbsp; The Company will collect personal information from clients under the below circumstances:</p>
 <ul>
@@ -255,27 +281,14 @@ var fontsinactive = false;
 <!-- using cached data --><div id="top5" style="cursor:pointer">
   	<div class="top-trade">
 		<div class="top-area">
-      			<img class="top5-flag" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/flags/ru.png">
-			<span class="top5-name">С. Г.</span>
+      			<img class="top5-flag" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/flags/ca.png">
+			<span class="top5-name">E. D.</span>
 		</div>
 		<div class="bottom-area">
 			<span style="float:left">#1 rank</span>
-			<span style="float:right">Followers: 167</span>
+			<span style="float:right">Followers: 11</span>
 			<div class="clear"></div>
-			<div style="float:left;">Trader Win Amount: <span class="top5-return">$28,832.00</span></div>
-      <div class="clear"></div>
-		</div>
-	</div>
-  	<div class="top-trade">
-		<div class="top-area">
-      			<img class="top5-flag" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/flags/kz.png">
-			<span class="top5-name">А. С.</span>
-		</div>
-		<div class="bottom-area">
-			<span style="float:left">#2 rank</span>
-			<span style="float:right">Followers: 21</span>
-			<div class="clear"></div>
-			<div style="float:left;">Trader Win Amount: <span class="top5-return">$872.50</span></div>
+			<div style="float:left;">Trader Win Amount: <span class="top5-return">$10,818.25</span></div>
       <div class="clear"></div>
 		</div>
 	</div>
@@ -285,36 +298,49 @@ var fontsinactive = false;
 			<span class="top5-name">F. N.</span>
 		</div>
 		<div class="bottom-area">
-			<span style="float:left">#3 rank</span>
-			<span style="float:right">Followers: 73</span>
+			<span style="float:left">#2 rank</span>
+			<span style="float:right">Followers: 598</span>
 			<div class="clear"></div>
-			<div style="float:left;">Trader Win Amount: <span class="top5-return">$51,973.65</span></div>
+			<div style="float:left;">Trader Win Amount: <span class="top5-return">$42,178.00</span></div>
       <div class="clear"></div>
 		</div>
 	</div>
   	<div class="top-trade">
 		<div class="top-area">
-      			<img class="top5-flag" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/flags/hu.png">
-			<span class="top5-name">H. W.</span>
+      			<img class="top5-flag" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/flags/dk.png">
+			<span class="top5-name">P. A.</span>
+		</div>
+		<div class="bottom-area">
+			<span style="float:left">#3 rank</span>
+			<span style="float:right">Followers: 141</span>
+			<div class="clear"></div>
+			<div style="float:left;">Trader Win Amount: <span class="top5-return">$35,193.33</span></div>
+      <div class="clear"></div>
+		</div>
+	</div>
+  	<div class="top-trade">
+		<div class="top-area">
+      			<img class="top5-flag" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/flags/lt.png">
+			<span class="top5-name">A. I.</span>
 		</div>
 		<div class="bottom-area">
 			<span style="float:left">#4 rank</span>
-			<span style="float:right">Followers: 26</span>
+			<span style="float:right">Followers: 37</span>
 			<div class="clear"></div>
-			<div style="float:left;">Trader Win Amount: <span class="top5-return">$19,065.36</span></div>
+			<div style="float:left;">Trader Win Amount: <span class="top5-return">$68,530.66</span></div>
       <div class="clear"></div>
 		</div>
 	</div>
   	<div class="top-trade">
 		<div class="top-area">
-      			<img class="top5-flag" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/flags/sa.png">
-			<span class="top5-name">ع. س.</span>
+      			<img class="top5-flag" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/flags/gb.png">
+			<span class="top5-name">A. L.</span>
 		</div>
 		<div class="bottom-area">
 			<span style="float:left">#5 rank</span>
-			<span style="float:right">Followers: 26</span>
+			<span style="float:right">Followers: 16</span>
 			<div class="clear"></div>
-			<div style="float:left;">Trader Win Amount: <span class="top5-return">$6,313.65</span></div>
+			<div style="float:left;">Trader Win Amount: <span class="top5-return">$49,766.91</span></div>
       <div class="clear"></div>
 		</div>
 	</div>
@@ -349,32 +375,31 @@ var fontsinactive = false;
 
 
 <div class="inner-wrapper">
-<div id="trusts-m">
-	<div id="trust-marquee" style="width:100%;padding-top:2px;" behavior="scroll" scrollamount="1" direction="left" width="100%">
-		<img src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/footer-seal-icons/footer_payments_caruasel_new.png">
-	</div>
+    <div id="trusts-m">
+         
+       <div id="trust-marquee" style="width:100%;padding-top:2px;" behavior="scroll" scrollamount="1" direction="left" width="100%">
+            <img src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/footer-seal-icons/footer_payments_caruasel_new_05.png">
+        </div> 
+            <!--  <img src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/whitespaceseals.png" /> -->
+    </div>
 </div>
-</div>
-
 <div id="footer-menu">
-	<div class="inner-wrapper">
-		<div id="footer-nav"><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a href="http://www.binaryuno.com/register/">Open Account</a></li>
+    <div class="inner-wrapper">
+        <div id="footer-nav"><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a href="http://www.binaryuno.com/register/">Open Account</a></li>
 <li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a href="http://www.binaryuno.com/trading/">Trade Now</a></li>
 <li id="menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684"><a href="http://www.binaryuno.com/education/">Education</a></li>
 <li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a href="http://www.binaryuno.com/faq/">Help</a></li>
 <li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="http://www.binaryuno.com/about/">About Us</a></li>
 <li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="http://www.binaryuno.com/contact/">Contact Us</a></li>
 </ul></div></div>
-		
-		<div id="social">
-		<ul class="wpsocialite social-buttons small"><li><a href="http://www.facebook.com/sharer.php?u=http://www.binaryuno.com/legal/privacy-policy/&amp;locale=en_US&amp;t=Privacy Policy" class="socialite facebook-like" data-lang="en_US" data-href="http://www.binaryuno.com/legal/privacy-policy/" data-send="false" data-layout="button_count" data-width="60" data-show-faces="false" rel="nofollow" target="_blank"><span class="vhidden">Share on Facebook.</span></a></li><li><a href="http://twitter.com/share" class="socialite twitter-share" data-text="Privacy Policy" data-url="http://www.binaryuno.com/legal/privacy-policy/" data-count="horizontal" data-lang="en_US" data-via="" rel="nofollow" target="_blank"><span class="vhidden">Share on Twitter.</span></a></li><li><a href="https://plus.google.com/share?url=http://www.binaryuno.com/legal/privacy-policy/" class="socialite googleplus-one" data-size="medium" data-href="http://www.binaryuno.com/legal/privacy-policy/" rel="nofollow" target="_blank"><span class="vhidden">Share on Google+</span></a></li><li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.binaryuno.com/legal/privacy-policy/&amp;title=Privacy Policy" class="socialite linkedin-share" data-url="http://www.binaryuno.com/legal/privacy-policy/" data-counter="right" rel="nofollow" target="_blank"><span class="vhidden">Share on LinkedIn</span></a></li></ul>		</div>	
-		<div style="clear:both;height:1px;"></div>	
-	</div>
+        <div id="social">
+            <ul class="wpsocialite social-buttons small"><li><a href="http://www.facebook.com/sharer.php?u=http://www.binaryuno.com/legal/privacy-policy/&amp;locale=en_US&amp;t=Privacy Policy" class="socialite facebook-like" data-lang="en_US" data-href="http://www.binaryuno.com/legal/privacy-policy/" data-send="false" data-layout="button_count" data-width="60" data-show-faces="false" rel="nofollow" target="_blank"><span class="vhidden">Share on Facebook.</span></a></li><li><a href="http://twitter.com/share" class="socialite twitter-share" data-text="Privacy Policy" data-url="http://www.binaryuno.com/legal/privacy-policy/" data-count="horizontal" data-lang="en_US" data-via="" rel="nofollow" target="_blank"><span class="vhidden">Share on Twitter.</span></a></li><li><a href="https://plus.google.com/share?url=http://www.binaryuno.com/legal/privacy-policy/" class="socialite googleplus-one" data-size="medium" data-href="http://www.binaryuno.com/legal/privacy-policy/" rel="nofollow" target="_blank"><span class="vhidden">Share on Google+</span></a></li><li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.binaryuno.com/legal/privacy-policy/&amp;title=Privacy Policy" class="socialite linkedin-share" data-url="http://www.binaryuno.com/legal/privacy-policy/" data-counter="right" rel="nofollow" target="_blank"><span class="vhidden">Share on LinkedIn</span></a></li></ul>        </div>
+        <div style="clear:both;height:1px;"></div>
+    </div>
 </div>
-
 <div id="lower-footer">
-	<div class="inner-wrapper">
-		<div class="lower-footer-menu lower-left lowerfooter1"><div class="menu-name">Company</div><div id="lower-footer" class="lowerfooter1-container"><div class="menu-company-container"><ul id="menu-company" class="menu"><li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="http://www.binaryuno.com/about/">About Us</a></li>
+    <div class="inner-wrapper">
+        <div class="lower-footer-menu lower-left lowerfooter1"><div class="menu-name">Company</div><div id="lower-footer" class="lowerfooter1-container"><div class="menu-company-container"><ul id="menu-company" class="menu"><li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="http://www.binaryuno.com/about/">About Us</a></li>
 <li id="menu-item-306" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-306"><a href="http://www.binaryuno.com/faq/">FAQ</a></li>
 <li id="menu-item-551" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-551"><a target="_blank" href="https://www.facebook.com/pages/Binary-Uno/932866606728082">Facebook</a></li>
 <li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a href="http://www.binaryuno.com/contact/">Contact Us</a></li>
@@ -386,46 +411,40 @@ var fontsinactive = false;
 <li id="menu-item-310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-310"><a href="http://www.binaryuno.com/legal/expiry-rates-rules/">Expiry Rates Rules</a></li>
 <li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-333"><a href="http://www.binaryuno.com/legal/withdrawal-policy/">Withdrawal Policy</a></li>
 <li id="menu-item-312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-312"><a href="http://www.binaryuno.com/legal/payment-methods/">Payment Methods</a></li>
-</ul></div><div id="legal-menu-2"><ul id="menu-legal-2"></ul></div></div></div><div class="sep"></div>
-		
-
-		
-
-		<div class="lower-footer-menu lower-left">
-			<div class="menu-name">Contact Us</div>
-			<img style="margin-top:-4px;" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/contact/binaryOne_contactUs_footer2.png">
-			<!--<ul>
-				<li>Company Title</li>
-				<li>Company Address</li>
-				<li>Company Phone</li>
-
-
-
-			</ul>-->
-		</div>
-
-		<div id="footer-buttons">
-			<div class="butt green-submit opCBtn"><a href="http://www.binaryuno.com/trading/">Start Trading</a></div>
-			<div class="butt blue-submit opCBtn" onclick="return SnapEngage.startLink();"><a href="#">Live Chat</a></div>
-			<div class="butt grey-submit opCBtn"><a href="https://www.binaryuno.com/account/?active_tab=documents">Upload Documents</a></div>
-		</div>
-
-	<div class="clear"></div>
-
-	<div id="disclaimer">
-	<div id="dsclmr"><img src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/disclaimer4.png"></div>
-	<div class="clear" style="height:6px;"></div>
-
-	
-Binary options trading involves significant risk. We strongly advise that you read our Terms &amp; Conditions. Although the risk when trading binary options is fixed for each individual trade, the trades are live and it is possible to lose an initial investment, particularly if a trader chooses to place his entire investment to a single live trade. It is highly recommended that traders choose a proper money management strategy which limits the total consecutive trades or total outstanding investment. 
-	</div>
-
-	</div>
+</ul></div><div id="legal-menu-2"><ul id="menu-legal-2"></ul></div></div></div><div class="sep"></div>        <div class="lower-footer-menu lower-left">
+            <div class="menu-name">Contact Us</div>
+            <img src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/contact/binaryOne_contactUs_footer2.png">
+<!--<ul>
+<li>Company Title</li>
+<li>Company Address</li>
+<li>Company Phone</li>
+</ul>-->
+</div>
+<div id="footer-buttons">
+    <div class="butt green-submit opCBtn">
+        <a href="http://www.binaryuno.com/trading/">
+            Start Trading        </a>
+    </div>
+    <div class="butt blue-submit opCBtn" onclick="return SnapEngage.startLink();">
+        <a href="#">Live Chat        </a>
+    </div>
+    <div class="butt grey-submit opCBtn"><a href="https://www.binaryuno.com/account/?active_tab=documents">
+        Upload Documents    </a>
+</div>
+</div>
+<div class="clear"></div>
+<div id="disclaimer">
+    <div id="dsclmr">
+             </div>   
+    <div class="clear" style="height:6px;"></div>
+    
+Binary options trading involves significant risk. We strongly advise that you read our Terms &amp; Conditions. Although the risk when trading binary options is fixed for each individual trade, the trades are live and it is possible to lose an initial investment, particularly if a trader chooses to place his entire investment to a single live trade. It is highly recommended that traders choose a proper money management strategy which limits the total consecutive trades or total outstanding investment. Binary Uno is not operated from the UK and our services may not be used by UK residents. 
+</div>
+</div>
 </div>
 <div class="clear">&nbsp;</div>
-
 </div> <!-- Site Wrapper -->
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js?ver=4.0.5"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js?ver=4.0.8"></script>
 <script type="text/javascript" src="http://www.binaryuno.com/wp-content/plugins/wpsocialite/Socialite/socialite.min.js?ver=2.0"></script>
 <script type="text/javascript" src="http://www.binaryuno.com/wp-content/plugins/wpsocialite/wpsocialite.js?ver=1.0"></script>
 <script type="text/javascript" src="http://www.binaryuno.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
@@ -440,20 +459,23 @@ var _wpcf7 = {"loaderUrl":"http:\/\/www.binaryuno.com\/wp-content\/plugins\/cont
 var soload = {"lang":"en","dir":"LTR","cookieOptions":{"domain":""},"packages":{"Clock":{}},"googleFonts":{"families":["Roboto+Condensed:400,300,700:latin,latin-ext,cyrillic"]}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//spotplatform.binaryuno.com/SpotOptionPlugin.js?ver=398286"></script>
+<script type="text/javascript" src="//spotplatform.binaryuno.com/SpotOptionPlugin.js?ver=402585"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var SiteSettings = {"Streamer":"spotplug","ajaxUrl":"http:\/\/www.binaryuno.com\/wp-admin\/admin-ajax.php","timeZoneOffset":"0","ajaxCallBack":"spotplatform.binaryuno.com","platformParams":"","openAccountUrl":"","openAccountThankYouUrl":"","depositThankYouUrl":"","withdrawalThankYouUrl":"","mainSite":"http:\/\/www.binaryuno.com","FBAppScript":"","terms":{"apiLoginOnError":"Communication error","apiLoginOnFail":"Unable to login!: ","openAccountFirstName":"Please enter your firstname","openAccountLastName":"Please enter your lastname","openAccountEmail":"Please enter a valid email address","openAccountPasswordRequired":"Please provide a password","openAccountPasswordMinlength":"Your password must be at least 5 characters long","openAccountRepeatPasswordRequired":"Please provide a password","openAccountRepeatPasswordMinlength":"Your password must be at least 5 characters long","openAccountRepeatPasswordEqualTo":"Passwords must match","openAccountAcceptTerms":"Please accept our Terms","depositAmount":"Enter Deposit Amount Of At Least ","depositFirstName":"Enter First Name","depositLastName":"Enter Last Name","depositCity":"Enter City","depositAddress":"Enter Address","depositCVV2Required":"Enter a valid CVV CODE","depositCVV2Minlength":"CVV should be at list 3 numbers","depositPostCodeRequired":"Enter a valid POST CODE","depositCardNumMinlength":"Enter credit card number","depositCardNumRequired":"Credit card number should be at list 8 numbers","depositConfirm":"Are you sure you want to delete ?","depositSubmitHandlerError":"an error has occoured, please contact our support","leadBoxFirstName":"Please enter your First name","leadBoxLastName":"Please enter your Last name","leadBoxEmail":"Please enter a valid email address","personalinfoPhoneRequired":"You must enter your Phone Number","personalinfoPhoneMinlength":"Your password must be at least 6 characters long","personalinfoEmailRequired":"You must enter email address","personalinfoEmail":"Email address is invalid","personalinfoSubmitHandler":"Your information changed successfully","personalinfoOldPassword":"You must enter your password","personalinfoPasswordRequired":"You must enter a password","personalinfoPasswordMinlength":"Your password must be at least 6 characters long","personalinfoRepeatPasswordRequired":"You must enter a password","personalinfoRepeatPasswordMinlength":"Your password must be at least 6 characters long","personalinfoRepeatPasswordEqualTo":"Passwords does not match"}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.binaryuno.com/wp-content/plugins/spotoption-platform/js/api.js?ver=4.0.5"></script>
+<script type="text/javascript" src="http://www.binaryuno.com/wp-content/plugins/spotoption-platform/js/api.js?ver=4.0.8"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var icl_vars = {"current_language":"en","icl_home":"http:\/\/www.binaryuno.com\/"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.binaryuno.com/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js?ver=4.0.5"></script>
+<script type="text/javascript" src="http://www.binaryuno.com/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js?ver=4.0.8"></script>
 <script type="text/javascript">Socialite.setup({facebook:{lang:'en_US',appId:null},twitter:{lang:'en'},googleplus:{lang:'en'},vkontakte:{apiId:''}});</script>
+
+
+
 <script type="text/javascript"> 
     var platformLang = 'en';
     var platDir = 'LTR';
@@ -470,7 +492,7 @@ var icl_vars = {"current_language":"en","icl_home":"http:\/\/www.binaryuno.com\/
         }
     });
     } catch(err) {
-        $('.platformwrap').html('<img style="width:740px;" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/maintenance.jpg');
+        $('.platformwrap').html('<img style="width:740px;" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/maintenance.jpg" />');
     }
 
     complianceDocURL = 'http://www.binaryuno.com/compliance-identification-documents-upload/';
@@ -482,7 +504,6 @@ var icl_vars = {"current_language":"en","icl_home":"http:\/\/www.binaryuno.com\/
 
 
 <script type="text/javascript">
-
 $(function(){ 
     $('#reutersTicker').vTicker({ 
         speed: 500,
@@ -496,26 +517,39 @@ $(function(){
 
 $(window).load(function() {
     /* Footer Trust Icons - create loop and Marquee */
-    var trusts = $('#trust-marquee').html();
-    for(i = 0;i <= 3;i++) {
-        $('#trust-marquee').append(trusts);
+    if ($('#trust-marquee').length) {
+        var trusts = $('#trust-marquee').html();
+        for(i = 0;i <= 3;i++) {
+            $('#trust-marquee').append(trusts);
+        }
+        $('#trust-marquee').marquee({
+            //speed in milliseconds of the marquee
+            duration: 65000,
+            delayBeforeStart:0
+        });
+        $('#trust-marquee img').css('position','relative');
+        $('#trust-marquee img').css('left','-1000px');
     }
-    $('#trust-marquee').marquee({
-        //speed in milliseconds of the marquee
-        duration: 65000,
-        delayBeforeStart:0
-    });
-    $('#trust-marquee img').css('position','relative');
-    $('#trust-marquee img').css('left','-1000px');
 
 });
 
+function updateClock() {
+    var currentTime = $('#systemClock').html();
+    if (currentTime != '') {
+        var timeSplit = currentTime.split(' ');
+        $('#clock').html(timeSplit[0]+' GMT');
+    }
+}
 function initclock() {
+    /*
     var localTime  = Date.now();
-    var serverTime = 1.43383319281E+12;
+    var serverTime = 1.44930848952E+12;
     var timeDiff = serverTime - localTime;
     runMiniClock(timeDiff);
+    */
+    window.setInterval(updateClock, 500);
 }
+/*
 function runMiniClock(timeDiff) {
     var miliseconds = Date.now() - timeDiff;
     var time = new Date(miliseconds);
@@ -532,6 +566,7 @@ function runMiniClock(timeDiff) {
     document.getElementById('clock').innerHTML = clock;
     timer = setTimeout("runMiniClock("+timeDiff+")",1000);
 }
+*/
 initclock();
 
 /* Clock Scripts */
@@ -571,14 +606,15 @@ $('#submit').click(function() {
     return (false);
 });
 */
-/* Logout */
-$('.logout-butt').click(function() {
-    document.cookie = 'loggedin=; expires=Thu, 01 Jan 1970 00:00:01 GMT;path=/';
-    location.reload();
-    return (false);      
-});
-</script>
 
+// I.S - 1/7/2015 - BU-554 - code is causing malfunction of logout process in IE
+/* Logout */
+    // $('.logout-butt').click(function() {
+    //     document.cookie = 'loggedin=; expires=Thu, 01 Jan 1970 00:00:01 GMT;path=/';
+    //     location.reload();
+    //     return (false);      
+// });
+</script>
 
 <script type="text/javascript">
   (function() {
@@ -593,6 +629,7 @@ $('.logout-butt').click(function() {
     };
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(se, s);
   })();
+
 </script>
 
 <script>
@@ -625,6 +662,7 @@ $('.logout-butt').click(function() {
                     data: {
                         action:'get_call_back_form',
                         formlang:'en',
+                        eventid:''
                     }, 
                     success: function(result) {
                         //location.reload();
@@ -640,7 +678,66 @@ $('.logout-butt').click(function() {
 $('#top5').click(function(){
     $('#top5form').submit();
 });
-</script><style>
+</script>
+
+
+
+<script>
+    jQuery(document).ajaxSend(function(event, jqxhr, settings) {
+    var sourceArray = settings['url'].split('?');
+    if (sourceArray[0] == 'http://spotplatform.binaryuno.com/Login/login/1' || 
+        sourceArray[0] == 'https://spotplatform.binaryuno.com/Login/login/1') {
+
+        var loginSource;
+        if (jQuery('.loginPopupSubmit').size() == 1) {
+            loginSource ='popup'
+            postdata = {
+                action: 'checklog',
+                user_email: jQuery('.emailTr input[name="email"]').val(),
+                user_pass: jQuery('.passwordTr input[name="password"]').val()
+            };
+        } else {
+            loginSource ='header'
+            postdata = {
+                action: 'checklog',
+                user_email: jQuery('#email').val(),
+                user_pass: jQuery('#password').val()
+            };
+        }
+        jQuery.ajax({
+            type: 'POST',
+            url: 'http://www.binaryuno.com/wp-content/themes/BinaryUno/includes/ajax-handler.php',
+            data: postdata,
+            success: function(result) {
+                console.log(loginSource+': '+result);
+                //***get_pending_status BU-568 Shulga D
+                if (result == "pending") {
+                // SO.
+                $('#userSection form.loginForm').submit(event,function(){
+                    event.preventDefault();
+                });
+                    var popupWidth = $('#userLoginForm').outerWidth();
+                    var popupTopOffset = $('#userSection').outerHeight() + 35;
+                    var html = "<div class='popup-close'></div><p class='line1'>Your account has been temporarily suspended.</p><p class='line2'>For inquires write to:  <a href='mailto:support@binaryuno.com'>support@binaryuno.com</a></p><button  class='popup-ok-close'>OK</button>";
+                    showCleanPopup(html, popupWidth, 0, 0, 'blocked');
+                    $('.popup-blocked > .popup-inner').css({'top':popupTopOffset});
+                } else if(result == "logged_in") {
+                     if (loginSource == 'popup') {
+                         //location.reload();
+                         setTimeout(function(){ location.reload(); }, 1000); 
+                     }
+                } else {
+                     $('#logintooltip').show('slow');
+                }
+                //***
+            },
+        });
+    }
+});
+</script>
+
+
+<style>
 #mark{display:block;width:68px;height:68px;float:left;background:url('http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com//images/mark.png') center center no-repeat;}
 #popuptext{float: left;font-weight: 600;line-height: 18px;width: 437px;margin-left: 25px}
 #upload_documents{margin-right: -25px;margin-top: 25px;margin-bottom:10px;color: #171511;text-decoration: none;background: #0aca13 url('http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/buttons/button_uploadDocs.png') no-repeat center center;height: 37px;width: 247px;display:block;text-align:center;text-transform: uppercase;line-height: 38px;font-size: 24px;float:right;}
@@ -663,25 +760,356 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 
 
+
+
 <script type="text/javascript">
-adroll_adv_id = "KRPNWPETKNG6PAK4LNIO2B";
-adroll_pix_id = "TCIBBWDJ5FCYXHCMPJPZGA";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
+/**
+ * todo:
+ * - add status icons and knob triggering
+ * - add max rows condition
+ * - add php hook for multilang strings
+ * - rebuild script in more OOP way
+ */
+
+// statusIcon.removeClass('nok').addClass('ok');
+// statusIcon.removeClass('ok').addClass('nok');
+
+
+(function($) {
+
+
+
+    function doCreateUploadsModal() {
+        //console.log('doCreateUploadsModal: creating modal with upload form...');
+        var onclickinfo = "window.open('http://www.binaryuno.com/compliance-identification-documents-upload/', 'mywin', 'left=20,top=20,width=860,height=" + aHeight + ",toolbar=0,resizable=0,scrollbars=1')";
+        showUploadDocPopup('Upload Compliance & Identification Documents', '<div id="file_uploader" style="display:none"></div><form method="post" id="file-uploads" class="bu-form upload-form" action="javascript:void(0);"><table><tr><td class="propName">Upload File<br/><div><a id="upload-info" href="javascript:void(0);">Which documents do I need to upload?</a></div></td><td class="inputTd uploadTd"><input accept="image/*,.doc,.pdf,.docx" type="file" id="my-file1" name="my-file1"><input accept="image/*,.doc,.pdf,.docx" type="file" id="my-file2" name="my-file2"><input accept="image/*,.doc,.pdf,.docx" type="file" id="my-file3" name="my-file3"></td></tr><tr><td></td><td><a id="add-upload-option" href="javascript:void(0)">Add another file</a></td></tr><tr><td class="propName"></td><td class="submitTd"><input id="upload-files" class="btn btn-large btn-primary submit green-submit butt" value="Upload" type="submit"></td></tr></table><input type="hidden" name="file_upload" value="1"></form>', '50', true);
+        initUploadForm($('#file-uploads'));
+    }
+
+
+    function doKnobChange(knobElement, newVal) {
+        //console.log('doKnobChange: changing knob value (to: ' + newVal + ')...');
+
+        // init knob plugin
+        knobElement.knob({
+            'width': 126,
+            'height': 126,
+            'fgColor': 'rgba(11,188,19,0.9)',
+            'bgColor': 'rgba(255,255,255,0)',
+            'value': newVal,
+            'min': 0,
+            'max': 100,
+            'font': '"Dosis", sans-serif',
+            'inputColor': '#000000',
+            "readOnly": true,
+            "thickness": .33,
+            'dynamicDraw': true,
+            "displayInput": true,
+            'format': function(value) {
+                return value + '%';
+            }
+        });
+
+        // animate knob
+        $({
+            value: 0
+        }).animate({
+            value: newVal
+        }, {
+            duration: 1000,
+            easing: 'swing',
+            progress: function() {
+                knobElement.val(Math.ceil(this.value)).trigger('change');
+            }
+        });
+    }
+
+    function doKnobTest(knobElement) {
+        //console.log('doKnobTest: changing knob...');
+        setTimeout(function() {
+            doKnobChange(knobElement, 33.33);
+        }, 1500);
+        setTimeout(function() {
+            doKnobChange(knobElement, 66.66);
+        }, 3000);
+    }
+
+    function doFileValidation(fileInput, fileRemoveBtn, fileUploadBtn) {
+
+        var filename = fileInput.val().split('\\').pop();
+        var filenameExt = fileInput.val().split('.').pop().toLowerCase();
+
+        // check strings
+        if (filename === '' || filenameExt === '') {
+            //console.log('doFileValidation: error during file validation (empty)');
+
+            // disable buttons
+            fileRemoveBtn.prop('disabled', true);
+            fileUploadBtn.prop('disabled', true);
+            //console.log(fileUploadBtn.prop('disabled'));
+            return false;
+
+            // check extension
+        } else if ($.inArray(filenameExt, ['gif', 'png', 'jpg', 'jpeg', 'pdf', 'doc', 'docx']) == -1) {
+
+            //console.log('doFileValidation: error during file validation (invalid extension)');
+
+            // enable buttons
+            fileRemoveBtn.prop('disabled', true);
+            fileUploadBtn.prop('disabled', true);
+            //console.log(fileUploadBtn.prop('disabled'));
+            return false;
+
+            // then pass successfuly
+        } else {
+            //console.log('doFileValidation: file validation successful...');
+
+            // enable buttons
+            fileRemoveBtn.prop('disabled', false);
+            fileUploadBtn.prop('disabled', false);
+            return true;
+        }
+    }
+
+    function doFileUpload(fileInput, fileUploadBtn, knobElement, statusIcon) {
+        //console.log('doFileUpload: uploading file...');
+        fileUploadBtn.addClass('loading');
+        var data = new FormData();
+        data.append('file_upload', true);
+        data.append('file', $('input[name=' + fileInput.attr('name') + ']')[0].files[0]);
+
+        var uploadAction = $.ajax({
+            url: "http://www.binaryuno.com/wp-content/themes/BinaryUno/includes/file-upload.php",
+            type: 'POST',
+            data: data,
+            cache: false,
+            contentType: false,
+            processData: false,
+            xhr: function() {
+                var myXhr = $.ajaxSettings.xhr();
+                return myXhr;
+            }
+        });
+
+        uploadAction.done(function(msg) {
+            // upload done
+            //console.log('doFileUpload: upload successful');
+            fileUploadBtn.removeClass('loading');
+            fileUploadBtn.prop('disabled', true);
+
+
+
+
+       
+
+            // update status icon for section
+            if (statusIcon.attr('class') == 'bu-icon nok') {
+                statusIcon.removeClass('nok').addClass('ok');
+            }
+
+            // update knob status
+            if (!knobElement) {
+                var knobElement = $('.status-knob');
+            }
+
+            var percentsCompleted = $('.bu-icon.ok').length * 33.3333;
+            doKnobChange(knobElement, percentsCompleted);
+
+        });
+
+        uploadAction.fail(function(jqXHR, textStatus) {
+            // if upload failed
+            //console.log('doFileUpload: upload failed!');
+            fileUploadBtn.removeClass('loading');
+        });
+    }
+
+    function initFileSelect(fileInput, fileNameInput, fileChooseBtn, fileRemoveBtn, fileUploadBtn) {
+
+        // on Click
+        fileChooseBtn.click(function() {
+            //console.log('initFileSelect: selecting file...');
+            fileInput.trigger('click');
+        });
+
+        // on Change
+        fileInput.change(function() {
+            // not sure about this line
+            // var fileInput = $(this);
+            //console.log('initFileSelect: file selected, checking file...');
+
+            if (doFileValidation(fileInput, fileRemoveBtn, fileUploadBtn) == true) {
+                // validation is ok -> pass filename
+                //console.log('initFileSelect: validation passed, initializing file field...');
+                var filename = fileInput.val().split('\\').pop();
+                fileNameInput.val(filename);
+
+            } else {
+                // raise error
+                //console.log('initFileSelect: validation not passed, error');
+            }
+        });
+    }
+
+    function initFileRemove(fileRemoveBtn, uploadRow) {
+
+        // on click
+        fileRemoveBtn.click(function() {
+
+            //console.log('initFileRemove: resetting elements...');
+            // resetting inputs
+            uploadRow.children('input').each(function() {
+                $(this).after($(this).val('').clone()).remove();
+            });
+
+            // resetting buttons
+            uploadRow.children('button, a').each(function() {
+                $(this).after($(this).clone()).remove();
+            });
+
+            //console.log('initFileRemove: reinitializing row scripts...');
+            // reinitializing row scripts
+            initUploadRow(uploadRow);
+
+        });
+    }
+
+
+
+    function initFileUpload(fileInput, fileUploadBtn, knobElement, statusIcon) {
+        // on click
+        fileUploadBtn.click(function() {
+            // launch upload action
+            //console.log('initFileUpload: launching upload...');
+            doFileUpload(fileInput, fileUploadBtn, knobElement, statusIcon);
+        });
+    }
+
+    function initRowAdd(uploadRow, rowAddBtn) {
+
+        // upload row template
+        var uploadRowHtml = '<div class="row-upload">' +
+            '<input type="file" name="file1" class="hidden upload_unput" accept="image/*,.doc,.pdf,.docx">' +
+            '<input class="file_name" readonly>' +
+            '<button type="button" class="narrow_button choose_file"><span>Choose File</span></button>' +
+            '<button type="button" class="narrow_button upload_file"><span>Upload File</span></button>' +
+            '<button type="button" class="narrow_button remove_file"><span>Remove File</span></button>' +
+            '<a href="javascript:void(0);" class="add_upload_row">Add row</a>' +
+            '<a href="javascript:void(0);" class="remove_upload_row">Remove row</a>' +
+            '</div>';
+
+        //on Click
+        rowAddBtn.click(function() {
+            var totalUploadRows = rowAddBtn.parent().siblings('.row-upload').length + 1;
+            // max 3 fields
+            if (totalUploadRows < 3) {
+                // adding row...
+                //console.log('initRowAdd: adding new row...');
+                uploadRow.after(uploadRowHtml);
+                initUploadRow(uploadRow.next());
+            }
+        });
+    }
+
+    function initRowRemove(uploadRow, rowRemoveBtn) {
+
+        //on Click
+        rowRemoveBtn.click(function() {
+            var totalUploadRows = rowRemoveBtn.parent().siblings('.row-upload').length + 1;
+            // min 1 fields
+            if (totalUploadRows > 1) {
+                // removing row...
+                //console.log('initRowAdd: adding new row...');
+                uploadRow.remove();
+            }
+        });
+    }
+
+
+    function initUploadRow(uploadRow, knobElement) {
+        var statusIcon = uploadRow.parents('li').first().children('.bu-acc-label').children('.bu-icon:first'),
+            fileInput = uploadRow.children('input:file'),
+            fileNameInput = uploadRow.children('.file_name'),
+            fileChooseBtn = uploadRow.children('.choose_file'),
+            fileRemoveBtn = uploadRow.children('.remove_file').prop('disabled', true),
+            fileUploadBtn = uploadRow.children('.upload_file').prop('disabled', true),
+            rowAddBtn = uploadRow.children('.add_upload_row'),
+            rowRemoveBtn = uploadRow.children('.remove_upload_row');
+
+        // init elements
+        //console.log('initUploadRow: initializing row elements...');
+        initFileSelect(fileInput, fileNameInput, fileChooseBtn, fileRemoveBtn, fileUploadBtn);
+        initFileRemove(fileRemoveBtn, uploadRow);
+        initFileUpload(fileInput, fileUploadBtn, knobElement, statusIcon);
+        initRowAdd(uploadRow, rowAddBtn);
+        initRowRemove(uploadRow, rowRemoveBtn);
+    }
+
+    function initUploadForm(uploadForm, uploadRowHtml) {
+
+        var accordion = uploadForm.find('.bu-acc'),
+            knobElement = uploadForm.find('.status-knob');
+
+        //console.log('initUploadForm: initializing accordion...');
+        //accordion.jsAccordion();
+
+        //console.log('initUploadForm: accordion ready, initializing knob...');
+        //doKnobChange(knobElement, 0);
+        //doKnobTest(knobElement);
+
+        //console.log('initUploadForm: knob ready, initializing first "upload row"...');
+        $(".row-upload").each(function() {
+            initUploadRow($(this), knobElement);
+        });
+        //console.log('initUploadForm: "upload row" ready...');
+    }
+
+    function initUploadModalButton() {
+
+        var uploadForm = $('#file-uploads');
+        var uploadModalButton = $('.open-files-modal');
+
+        //console.log('initUploadModalButton: initializing upload modal button...');
+        //console.log(uploadForm.length);
+        // if one upload form exists
+        if (uploadForm.length > 0) {
+
+            // initialize upload form
+            initUploadForm(uploadForm);
+
+            // on Click
+            uploadModalButton.click(function() {
+                
+                var uploadTab = $('#upload');
+                if (uploadTab) {
+
+                    // activate uload form tab
+                    uploadTab.trigger('click');
+                }
+
+                // scroll to existing form
+                $("html, body").animate({scrollTop: 200}, "slow");
+
+                //console.log('initUploadModalButton: scrolling to existing upload form...');
+                return false;
+            });
+            // if there are no upload forms
+        } else if (uploadForm.length === 0) {
+             
+            // on Click
+            uploadModalButton.on('click', function() {
+
+                // create modal with upload form
+                doCreateUploadsModal();
+            });
+        }
+    }
+    $(initUploadModalButton);
+
+})(jQuery);
+
+
 </script>
-
-
 <script type="text/javascript">
 //<![CDATA[
 (function() {
