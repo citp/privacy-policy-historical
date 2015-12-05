@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spineuniverse.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607124534id_/http%3A//www.spineuniverse.com/policy/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spineuniverse.com privacy policy that was archived on 2015-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151205175200id_/http%3A//www.spineuniverse.com/policy/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -17,15 +17,15 @@
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link type="text/css" rel="stylesheet" media="all" href="http://static.spineuniverse.com/sites/default/files/css/css_49481dc3334fba3061565aa498ba6020-static.css">
-<link type="text/css" rel="stylesheet" media="print" href="http://static.spineuniverse.com/sites/default/files/css/css_a2dfc8b826b93836cb36e723c9ebcaeb-static.css">
-<link type="text/css" rel="stylesheet" media="only screen and (max-width: 976px), only screen and (max-device-width: 965px)" href="http://static.spineuniverse.com/sites/default/files/css/css_4e7cfd9b65277a3ff3784ecb0a4c95a6-static.css">
-<link type="text/css" rel="stylesheet" media="only screen and (max-width: 767px), only screen and (max-device-width: 767px)" href="http://static.spineuniverse.com/sites/default/files/css/css_573ed8f8b5fb8f71a8a8b36ed1d955e8-static.css">
-<link type="text/css" rel="stylesheet" media="only screen and (max-width: 500px), only screen and (max-device-width: 500px)" href="http://static.spineuniverse.com/sites/default/files/css/css_72025a1799c218c478c3b19194c04dce-static.css">
+  <link type="text/css" rel="stylesheet" media="all" href="http://static.spineuniverse.com/sites/default/files/css/css_16e1b9104c404365c6e09ef468e5f3cf-static.css">
+<link type="text/css" rel="stylesheet" media="print" href="http://static.spineuniverse.com/sites/default/files/css/css_62d42c5255d4d4f4ef51c10d56fb8abc-static.css">
+<link type="text/css" rel="stylesheet" media="only screen and (max-width: 976px), only screen and (max-device-width: 965px)" href="http://static.spineuniverse.com/sites/default/files/css/css_b50199914db438ffcc11e2f1f7b6105c-static.css">
+<link type="text/css" rel="stylesheet" media="only screen and (max-width: 767px), only screen and (max-device-width: 767px)" href="http://static.spineuniverse.com/sites/default/files/css/css_108d0e39511e5f14bfb007d839711057-static.css">
+<link type="text/css" rel="stylesheet" media="only screen and (max-width: 500px), only screen and (max-device-width: 500px)" href="http://static.spineuniverse.com/sites/default/files/css/css_23c3c3d6701d49b36d27277678369b1b-static.css">
   <!--[if IE]>
 <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/spineuniverse/ie.css?5" />
 <![endif]-->
-  <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="/sites/default/files/js/js_b27ef8c8028811c58280fac4ded54c27.js"></script>
+  <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="/sites/default/files/js/js_7d0e5384da7ba32f9d0759b95fc27a56.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, { "basePath": "/", "fb_connect": { "front_url": "/", "fbu": 0, "uid": 0 }, "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip" }, "jcarousel": { "ajaxPath": "/jcarousel/ajax/views" }, "nice_menus_options": { "delay": "10", "speed": "2" }, "nid": "4714" });
@@ -37,7 +37,7 @@ window.google_analytics_uacct = "UA-471098-1";
 //--><!]]>
 </script>
 
-  <link href="fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic" rel="stylesheet" type="text/css">
+  <link href="//fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic,300,300italic|Hind:400,700" rel="stylesheet" type="text/css">
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <script type="text/javascript"> </script>
     <!------ OAS SETUP begin ------>
@@ -72,6 +72,41 @@ function setMobilePos(listpos) {
   }
   return listpos;
 }
+function getOASSearchTerm() {
+  var OAS_ref = document.referrer;
+  if(OAS_ref.search('google') != -1) {
+    return '&terms=ref_google';
+  } else if(OAS_ref.search('bing') != -1)  {
+    return '&terms=ref_bing';
+  } else if(OAS_ref.search('yahoo') != -1) {
+    return '&terms=ref_yahoo';
+  } else {
+    return '';
+  }
+}
+var OAS_searchterm = getOASSearchTerm();
+function getParameterByName(name) {
+  var match = RegExp('[?&]' + name + '=([^&]*)').exec(window.location.search);
+  return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
+}
+function getOASCampaigns() {
+  var output = '';
+  var OAS_source = getParameterByName('utm_source');
+  var OAS_medium = getParameterByName('utm_medium');
+  var OAS_campaign = getParameterByName('utm_campaign');
+  if(OAS_source != null) {
+    output += '&terms=utm_source_'+OAS_source;
+  }
+  if(OAS_medium != null) {
+    output += '&terms=utm_medium_'+OAS_medium;
+  }
+  if(OAS_campaign != null) {
+    output += '&terms=utm_campaign_'+OAS_campaign;
+  }
+  return output;
+}
+OAS_searchterm += getOASCampaigns();
+
     <!--
     //configuration
     OAS_url = 'http://oascentral.spineuniverse.com/RealMedia/ads/';
@@ -81,7 +116,7 @@ function setMobilePos(listpos) {
 		SPU_rn = new String (Math.random());
 		SPU_rns = SPU_rn.substring (2, 11);
 		/* end random OAS-EDH number */
-				OAS_query = '?_RM_HTML_RANDNUM_=' + SPU_rns;
+				OAS_query = '?_RM_HTML_RANDNUM_=' + SPU_rns + OAS_searchterm;
 		    OAS_target = '_top';
     OAS_new = OAS_url + 'adstream_sx.ads/' + OAS_sitepage;
     //end of configuration
@@ -111,7 +146,7 @@ function setMobilePos(listpos) {
     if (OAS_version >= 11)
     document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
     //-->
-  </script><script language="JavaScript1.1" src="http://oascentral.spineuniverse.com/RealMedia/ads/adstream_mjx.ads/spu.com/patient/policy/n4714/1578375626@Right1??_RM_HTML_RANDNUM_=010272875"></script>
+  </script><script language="JavaScript1.1" src="http://oascentral.spineuniverse.com/RealMedia/ads/adstream_mjx.ads/spu.com/patient/policy/n4714/1295042491@Right1??_RM_HTML_RANDNUM_=784220588"></script>
   <script language="JavaScript">
     <!--
     document.write('');
@@ -127,7 +162,6 @@ function setMobilePos(listpos) {
 </head>
 <body class="not-logged-in node-type-page one-sidebar sidebar-right layout-neutral node-4714">
 <div id="pagewrap">
-     
     <!-- Page Header -->
     <div id="header"><div id="header-inner" class="clear-block">
         
@@ -145,14 +179,12 @@ function setMobilePos(listpos) {
 <div class="form-item" id="edit-query-wrapper">
  <input type="text" maxlength="128" name="query" id="edit-query" size="15" value="" title="Enter the terms you wish to search for." class="form-text">
 </div>
-<div class="cssbutton spu small"><input type="submit" name="op" id="edit-sa" value="Search" class="form-submit">
-</div><input type="hidden" name="form_build_id" id="form-cjr-VFgfsrgv4j7rWm3R2tKQzEO8yFtmL30S-GW2ZPA" value="form-cjr-VFgfsrgv4j7rWm3R2tKQzEO8yFtmL30S-GW2ZPA">
+<input type="submit" name="op" id="edit-sa" value="Search" class="form-submit">
+<input type="hidden" name="form_build_id" id="form-QyuK8j7ER-pN2NVWNAktveeLnuRxCJJDm73m8ZhQgyg" value="form-QyuK8j7ER-pN2NVWNAktveeLnuRxCJJDm73m8ZhQgyg">
 <input type="hidden" name="form_id" id="edit-google-cse-searchbox-form" value="google_cse_searchbox_form">
 
 </div></form>
 </div>    <div class="search-links clear-block clear">
-    <a href="/locate/specialists" class="link">Find a specialist</a>
-    <a href="/videos/all" class="link">Search videos</a>
     </div>
  	</div>
  
@@ -164,18 +196,14 @@ function setMobilePos(listpos) {
 <div class="block block-block header-right"><div class="block-inner">
       <div class="title">Connect with Others:</div>
       <div class="links">
-        <span class="link"><a href="https://www.spineuniverse.com/user?destination=policy%2Fprivacy">Log In</a> or <a href="/register">Sign Up</a> Now!</span>
+        <a href="https://www.spineuniverse.com/user?destination=policy%2Fprivacy">Log In</a> or <a href="/register">Sign Up</a> Now!
     	</div>
-    	<div class="social-links">
-  <a class="google" target="_blank" href="https://plus.google.com/u/0/101386529784681867195">Google+</a>
-  <a class="twitter" target="_blank" href="https://twitter.com/intent/user?screen_name=spineuniverse&amp;related=PPMChronicPain,DLDiabetes">Twitter</a>
-  <a class="facebook" target="_blank" href="http://facebook.com/spineuniverse">Facebook</a>
-</div>
-<div class="edit"></div></div>
+    	<div class="edit"></div></div>
 </div>            
-            
+      
     </div></div> <!-- /#header-inner, /#header -->
-
+      
+     
   <div id="page">
 		<div class="main-wrapper">
     	<div id="main" class="fold-standard clear-block"><div id="main-inner">
@@ -319,24 +347,15 @@ google_ad_height = 250;
     </div></div> <!-- /#main-inner, /#main -->
 
 
-    
-    
-    </div></div><!-- /#page -->
-    </div><!-- /#pagewrap -->
-
-
-    <div id="mobilenav"><div id="mobilenav-inner"><div class="top-opener"><i class="fa fa-arrow-circle-o-up"></i> SHOW MAIN MENU</div><div class="top-closer"><i class="fa fa-arrow-circle-o-down"></i> SHOW SUB MENU</div><div class="mobile-nav-area"></div></div></div>
-	
-       
+    </div>
       <div id="footer"><div id="footer-inner" class="region-footer">
         <div id="patient-footer" class="block block-spu_sections ieFloatFix">
   
   <div class="disclaimer">
-       <div id="hon-logo"><a href="http://www.hon.ch/HONcode/Conduct.html?HONConduct714920" target="_blank"><img src="http://www.HONcode.ch/HONcode/Seal/HONConduct714920.jpg" border="0"></a></div>
-    <div class="legal"> <strong>© 1999-2015 <a href="http://www.verticalhealth.com" target="_blank">Vertical Health, LLC</a></strong><br>
+  <div class="legal"> <strong>© 1999-2015 <a href="http://www.verticalhealth.com" target="_blank">Vertical Health, LLC</a></strong><br>
     This information is not designed to replace a physician's independent judgment about the appropriateness or risks of a procedure for a given patient. Always consult your doctor about your medical conditions or back problem. SpineUniverse does not provide medical advice, diagnosis or treatment. Use of the SpineUniverse.com site is conditional upon your acceptance of our <a href="/policy/terms">User Agreement</a> 
     
-         <div id="vh-logo"><img src="http://static.spineuniverse.com/sites/all/themes/spineuniverse/images/vh-small.gif" width="110" height="20" alt="Vertical Health, LLC" border="0"></div>
+         <div id="vh-logo"><img src="/sites/all/themes/spineuniverse/images/vh_logo_new.png" alt="Vertical Health, LLC" border="0"></div>
           </div>
     <div class="clear"></div>
     </div>
@@ -350,13 +369,22 @@ google_ad_height = 250;
 
 <div class="clear"></div>
 </div></div> <!-- /#footer-inner, /#footer -->
-        
+    
+    
+    
+    </div><!-- /#page -->
+    </div><!-- /#pagewrap -->
+
+
+    <div id="mobilenav"><div id="mobilenav-inner"><div class="top-opener"><i class="fa fa-arrow-circle-o-up"></i> SHOW MAIN MENU</div><div class="top-closer"><i class="fa fa-arrow-circle-o-down"></i> SHOW SUB MENU</div><div class="mobile-nav-area"></div></div></div>
+	
+   
 				
 				  
 		<div id="fb-root"></div>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-  jQuery.extend(Drupal.settings, {"fb":{"base_url":"http:\/\/www.spineuniverse.com","ajax_event_url":"http:\/\/www.spineuniverse.com\/fb\/ajax","is_anonymous":true,"label":"spineuniverse","namespace":"","perms":"offline_access,email","get_login_status_test":true,"reload_url":"http:\/\/www.spineuniverse.com\/policy\/privacy","fb_init_settings":{"xfbml":false,"status":false,"oauth":1,"cookie":true,"appId":"148686835200845","channelUrl":"http:\/\/www.spineuniverse.com\/fb\/channel"},"test_login_status":true,"get_login_status":false,"controls":"","js_sdk_url":"http:\/\/connect.facebook.net\/en_US\/all.js"}});
+  jQuery.extend(Drupal.settings, {"fb":{"base_url":"http:\/\/www.spineuniverse.com","ajax_event_url":"http:\/\/www.spineuniverse.com\/fb\/ajax","is_anonymous":true,"label":"spineuniverse","namespace":"","perms":"offline_access,email","get_login_status_test":true,"reload_url":"http:\/\/www.spineuniverse.com\/policy\/privacy","fb_init_settings":{"xfbml":false,"status":false,"oauth":1,"cookie":true,"appId":"148686835200845","channelUrl":"http:\/\/www.spineuniverse.com\/fb\/channel"},"test_login_status":0,"get_login_status":1,"controls":"","js_sdk_url":"http:\/\/connect.facebook.net\/en_US\/all.js"}});
 
 if (typeof(FB) == 'undefined') {
   var e = document.createElement('script');
@@ -375,7 +403,7 @@ if (typeof(FB) == 'undefined') {
     <div class="buttons">
       <div class="no simplemodal-close">Cancel</div><div class="yes">Delete</div>
     </div>
-</div><script type="text/javascript" src="http://static.spineuniverse.com/sites/default/files/js/js_61bd7d541a8261615fb63126549429ad.js"></script>
+</div><script type="text/javascript" src="http://static.spineuniverse.com/sites/default/files/js/js_a792ef660ab83fb90fd5a3892ec63000.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, { "googleCSE": { "language": "en" } });
@@ -410,5 +438,5 @@ if(Drupal.settings.vh_blogs && Drupal.settings.vh_blogs.ga_code){
     _ga.trackSocial();
   </script>
   
-<!-- Page cached by Boost @ 2015-06-04 12:38:22, expires @ 2015-06-07 12:38:22 -->
+<!-- Page cached by Boost @ 2015-12-04 02:51:34, expires @ 2015-12-07 02:51:34 -->
 </body></html>
