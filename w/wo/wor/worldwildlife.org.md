@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwildlife.org privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527064342id_/http%3A//www.worldwildlife.org/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwildlife.org privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205153952id_/http%3A//www.worldwildlife.org/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pages | WWF
 
@@ -117,6 +117,11 @@ We seek to use reasonable organizational, technical, and administrative measures
 **Cross-Border Transfer**
 
 The Sites are controlled and operated by us from the United States and are not intended to subject us to the laws or jurisdiction of any state, country, or territory other than that of the United States. Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and, by using the Sites, you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than those of your country.
+
+**Additional Websites Subject to the Privacy Policy**
+
+This Privacy Policy shall apply to the following websites and all associated subdomains:  
+• www.wwfclimatecrowd.org
 
 ### **Questions/Contact Information**
 
