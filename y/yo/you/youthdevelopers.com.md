@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the youthdevelopers.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607215036id_/http%3A//youthdevelopers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthdevelopers.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205013539id_/http%3A//youthdevelopers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Youth Developers
 
 **What information do we collect?**
 
-We collect information from you when you subscribe to our blog or newsletter. When registering or subscribing to our website or blog, as appropriate, you may be asked to enter your full name and your email id or mailing address. You may, however, visit our blog anonymously. 
+We collect information from you when you subscribe to our blog or newsletter. When registering or subscribing to our website or blog, as appropriate, you may be asked to enter your full name and your email id or mailing address. You may, however, visit our blog anonymously.
 
 Google and other ad publisher, as a third party vendor, uses cookies to serve or publish their advertisements on our website or blog. Google and other ad publisher use of the DART cookie enables it to serve different kinds of advertisements to your users and it is based on the visit of users to your website and also other sites on the internet. Any user or visitor may opt out of the DART cookie by clicking or visiting the Google advertisement and may collect your information, if any user fill up the contact form or any kind of leads provided by them.
 
