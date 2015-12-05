@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jspacenews.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072729id_/http%3A//www.jspacenews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jspacenews.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205232232id_/http%3A//www.jspacenews.com/privacy) for the most accurate reproduction.*
 
-# Jspace News Privacy Policy
+# Jspace News Privacy Policy | Jspace News
 
 Thank you for visiting Jspace News website (the “Site”). Your privacy is important to us. This privacy policy (the “Policy”) explains our policy regarding the collection, use, disclosure and protection of your information. This Policy applies to information provided or collected through this Site and in connection with Jspace News’s various services and products (collectively, “Services”). If you have any questions about this Privacy Policy, please feel free to contact us via the Contact page.
 
