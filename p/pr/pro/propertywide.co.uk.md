@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertywide.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185824id_/http%3A//www.propertywide.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertywide.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206000004id_/http%3A//www.propertywide.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Propertywide.co.uk
 
@@ -18,7 +18,7 @@ In most circumstances the information collected about you will be used for the f
 Who we are
     
 
-'We' are Countrywide Group. Registered in England No. 08340090. Registered Office: 17 Duke Street, Chelmsford, Essex CM1 1HP. VAT No. 212551112.
+'We' are Countrywide Group. Registered in England No. 08340090. Registered Office: County House, Ground Floor, 100 New London Road, Chelmsford, Essex, United Kingdom CM2 0RG. VAT No. 212551112.
 
 Propertywide.co.uk is owned by Countrywide Group. Countrywide is widely acknowledged as the leading provider of all services relating to residential property in the UK including Estate Agency, Mortgage and related Financial Services, Lettings, Conveyancing and Surveying. For more information read more [about us](https://web.archive.org/about/ "About Propertywide.co.uk").
 
