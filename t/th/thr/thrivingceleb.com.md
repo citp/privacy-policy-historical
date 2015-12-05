@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thrivingceleb.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609114532id_/http%3A//thrivingceleb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrivingceleb.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205083823id_/http%3A//thrivingceleb.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
