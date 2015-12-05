@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapfinger.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607194756id_/http%3A//www.snapfinger.com/Info/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapfinger.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206000015id_/http%3A//www.snapfinger.com/Info/PrivacyPolicy) for the most accurate reproduction.*
 
 # Snapfinger Privacy Policy
 
@@ -18,7 +18,7 @@ In some instances, our website may include various location-based features, such
 
 Snapfinger will not disclose your personal information to any person or entity except (i) Snapfinger will send your personal and other order information to the restaurants you order from using our system, (ii) Snapfinger may provide personal information to our vendors and suppliers when necessary, (iii) Snapfinger may share certain personal information with our affiliates in order to complete transactions, (iv) Snapfinger may transfer personal information to any successor in connection with a sale of all or substantially all of our business or assets (whether by way of stock sale, asset sale, merger, business combination, reorganization or otherwise), (v) Snapfinger may disclose your personal information if it is necessary in order to provide products or services to you, including purchaser verification, authentication, geolocation and authorization for any orders (and contacting you when necessary), and (vi) Snapfinger may release personal information to comply with law, enforce or apply the terms of any user agreement, or to protect the rights, property or safety of Snapfinger, customers and clients, or others. Restaurants may use your personal information to contact you concerning products, services and promotions which may be of interest to you. Upon receiving your permission, we may share your personal information with such third parties to advise you of products, services and promotions. The use of your personal information provided to such third parties is governed by their privacy policies. We are not responsible for the privacy practices of our clients or for their collection or use of your personal information. We encourage you to read the privacy policies and statements of those restaurants which are posted on the site from where you placed your order. This Privacy Policy applies solely to information collected by Snapfinger. Therefore, we disclaim any liability for any third party's use of your personal information in a manner in conflict with this or their own privacy policy.
 
-If you are a California resident, you may ask us to refrain from sharing your information (whether collected online or offline) with third parties for their marketing purposes. Please tell us your preference by contacting us at [support@snapfinger.com](mailto:support@snapfinger.com).
+If you are a California resident, you may ask us to refrain from sharing your information (whether collected online or offline) with third parties for their marketing purposes. Please tell us your preference by contacting us at [snapfingersupport@tillster.com](mailto:snapfingersupport@tillster.com).
 
   4. Safeguards.
 
@@ -42,7 +42,7 @@ We will not send you promotional e-mails without your permission. You may choose
 
   9. Contacting us and Deleting or Updating Personal Information.
 
-You may always contact Snapfinger at [support@snapfinger.com](mailto:support@snapfinger.com) to request that we (i) delete your personal information from Snapfinger's systems; (ii) update your personal information; or (iii) change your preferences with respect to marketing contacts. When personal information has been provided to a restaurant or other third party, you must also contact those entities concerning deletion or updating your personal information.
+You may always contact Snapfinger at [snapfingersupport@tillster.com](mailto:snapfingersupport@tillster.com) to request that we (i) delete your personal information from Snapfinger's systems; (ii) update your personal information; or (iii) change your preferences with respect to marketing contacts. When personal information has been provided to a restaurant or other third party, you must also contact those entities concerning deletion or updating your personal information.
 
   10. Updates to this Policy.
 
