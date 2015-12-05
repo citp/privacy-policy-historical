@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seobraintrust.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316120722id_/https%3A//marketersbraintrust.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seobraintrust.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205050653id_/https%3A//marketersbraintrust.com/privacy-policy) for the most accurate reproduction.*
 
 # SEO Brain, LLC. (The SEO Brain Trust) Privacy Policy - Marketers Braintrust - Proven Methods to Grow Traffic, Sales, and Profit
 
