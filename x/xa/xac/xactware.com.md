@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xactware.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624115607id_/http%3A//www.xactware.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xactware.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205013036id_/http%3A//www.xactware.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Xactware
 
@@ -21,7 +21,7 @@ Xactware Solutions, Inc. (“Xactware”) respects your concerns about privacy. 
 
 ### Information We Obtain and How We Use It
 
-You may choose to provide personal information including, but not limited to your first and last name, physical address, -e-mail address, or telephone number through the Site. Here are ways you may provide the information and the types of information you may submit. We also describe how we may use the information you provide to us.
+You may choose to provide personal information including, but not limited to your first and last name, physical address, e-mail address, or telephone number through the Site. Here are ways you may provide the information and the types of information you may submit. We also describe how we may use the information you provide to us.
 
 **_Information We Obtain_**
 
@@ -86,7 +86,9 @@ If you have any questions or comments about this Online Privacy Notice or to any
   * Emailing us at [safeharbor@xactware.com](mailto:safeharbor@xactware.com)
 
 
-  * Writing to us at 
+    * Writing to us at
+
+
 
 Xactware  
 Attn: Safe Harbor Coordinator  
@@ -99,6 +101,3 @@ Attn: Safe Harbor Coordinator
 1100 West Traverse Parkway  
 Lehi, UT 84043  
 USA
-
-
-
