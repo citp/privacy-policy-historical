@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the outspokenmedia.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626110852id_/http%3A//outspokenmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outspokenmedia.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205181010id_/http%3A//outspokenmedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Outspoken Media
 
 This is the web site of Outspoken Media.
 
 415 River Street, Suite 201  
-Troy, NY 12180  
-United States
+Troy, NY 12180 United States
 
 We can be reached via e-mail at info@outspokenmedia.com
 
