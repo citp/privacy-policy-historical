@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whats-theword.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022534id_/http%3A//whats-theword.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whats-theword.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205110330id_/http%3A//whats-theword.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 4 Pics 1 Word - What's The Word Answers
 
