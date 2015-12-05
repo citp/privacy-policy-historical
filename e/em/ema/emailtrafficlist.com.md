@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the emailtrafficlist.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407073532id_/http%3A//emailtrafficlist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailtrafficlist.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205183458id_/http%3A//emailtrafficlist.com/privacy.php) for the most accurate reproduction.*
 
 # Email Traffic List - Marketing & Advertising - Mailing List Builder
 
-[](http://emailtrafficlist.com/bannerclick.php?id=22802)  
+[](http://emailtrafficlist.com/bannerclick.php?id=25345)  
 
 
 Email Traffic List Privacy Policy
