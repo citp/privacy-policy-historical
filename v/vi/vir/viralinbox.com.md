@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralinbox.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213181706id_/http%3A//viralinbox.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralinbox.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205035411id_/http%3A//viralinbox.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -46,13 +46,13 @@ When you visit a website of Colin Klinkert Dot Com LTD or Add2it.com Marketing P
 
 **Email Usage**
 
-While we take care that the personal information you give us on our websites is protected, the Internet is not a secure environment. If you send us information, including your email address, it is sent at your own risk. Our websites do not capture email addresses without your permission. If, however, you provide your email address to us, it may be used by Colin Klinkert Dot Com LTD or Add2it.com Marketing Pty Ltd to send you information relating to our and related products and services. If we send you an email which you do not wish to receive in the future, please use the unsubscribe link or follow the unsubscribe instructions at the bottom of that email or [notify us](https://reply2colin.com/) and your email address will be removed from our system. Also, note that as a ViralinBox.com member you have agreed to receive emails from other members. Those members don't have access to your email address, they use our system to send you those emails.
+While we take care that the personal information you give us on our websites is protected, the Internet is not a secure environment. If you send us information, including your email address, it is sent at your own risk. Our websites do not capture email addresses without your permission. If, however, you provide your email address to us, it may be used by Colin Klinkert Dot Com LTD or Add2it.com Marketing Pty Ltd to send you information relating to our and related products and services. If we send you an email which you do not wish to receive in the future, please use the unsubscribe link or follow the unsubscribe instructions at the bottom of that email or [notify us](http://reply2frank.com/) and your email address will be removed from our system. Also, note that as a ViralinBox.com member you have agreed to receive emails from other members. Those members don't have access to your email address, they use our system to send you those emails.
 
 ^ back to top
 
 **Private Information Security**
 
-Colin Klinkert Dot Com LTD and Add2it.com Marketing Pty Ltd take all reasonable security measures to protect personal information from loss, unauthorised access, destruction, misuse, modification or disclosure. For your safety and protection, your credit card information is not stored on our servers.  Our payment gateway provider, PayPal, AlertPay and 2Checkout, keep this information encrypted and secure on your behalf. We do not, however, accept any responsibility for the unauthorised access of personal information held by Colin Klinkert Dot Com LTD or Add2it.com Marketing Pty Ltd. You may be able to access external websites by clicking on links we have provided. Those other websites are not subject to the privacy standards of Colin Klinkert Dot Com LTD and Add2it.com Marketing Pty Ltd and we are not responsible for their privacy practices or the content of such other websites. You should contact those websites directly to ascertain their privacy standards, policies and procedures.
+Colin Klinkert Dot Com LTD and Add2it.com Marketing Pty Ltd take all reasonable security measures to protect personal information from loss, unauthorised access, destruction, misuse, modification or disclosure. For your safety and protection, your credit card information is not stored on our servers.  Our payment gateway provider, PayPal, PayZa and 2Checkout, keep this information encrypted and secure on your behalf. We do not, however, accept any responsibility for the unauthorised access of personal information held by Colin Klinkert Dot Com LTD or Add2it.com Marketing Pty Ltd. You may be able to access external websites by clicking on links we have provided. Those other websites are not subject to the privacy standards of Colin Klinkert Dot Com LTD and Add2it.com Marketing Pty Ltd and we are not responsible for their privacy practices or the content of such other websites. You should contact those websites directly to ascertain their privacy standards, policies and procedures.
 
 **3rd Party Disclosure**
 
@@ -68,10 +68,17 @@ P.O. Box 620
 Sydney NSW 2001  
 Australia  
 Phone: +1-702-997-2024  
-Support: [http://Reply2Colin.com](https://reply2colin.com/)
+Support: [http://Reply2Frank.com](http://reply2frank.com/)
+
+**2Checkout.com Ohio, USA is authorized reseller for:**
+
+Colin Klinkert Dot Com LTD  
+1 Blvd du Jardin Exotique  
+98000 Monaco  
+Monaco
 
 **Changes to this privacy statement**
 
-This privacy statement has been adopted by Colin Klinkert Dot Com LTD and Add2it.com Marketing Pty Ltd to be consistent with the National Privacy Principles (NPPs) as set out in the Privacy Act 1988 (Cth). The NPPs can be found at [www.privacy.gov.au](https://www.privacy.gov.au/). We may change our privacy policies from time to time to comply with new laws or industry codes of practice which are developed. It is your responsibility to refer to our privacy policies from time to time to familiarise yourself with any changes.
+This privacy statement has been adopted by Colin Klinkert Dot Com LTD and Add2it.com Marketing Pty Ltd to be consistent with the National Privacy Principles (NPPs) as set out in the Privacy Act 1988 (Cth). The NPPs can be found at [www.privacy.gov.au](http://www.privacy.gov.au/). We may change our privacy policies from time to time to comply with new laws or industry codes of practice which are developed. It is your responsibility to refer to our privacy policies from time to time to familiarise yourself with any changes.
 
 ^ back to top
