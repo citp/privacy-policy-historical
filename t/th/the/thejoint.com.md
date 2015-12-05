@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thejoint.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607005813id_/http%3A//www.thejoint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejoint.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205112044id_/http%3A//www.thejoint.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | The Joint Chiropractic
 
 Your privacy is important to us. At The Joint, we want you to better understand how we collect, use, communicate, disclose, share and protect information about you. By interacting with The Joint, you consent to use of information that is collected or submitted as described in this privacy policy. The following outlines our privacy policy:
 
