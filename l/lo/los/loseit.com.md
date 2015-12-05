@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loseit.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074038id_/http%3A//www.loseit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loseit.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205232908id_/http%3A//www.loseit.com/privacy) for the most accurate reproduction.*
 
 # Lose It! -
 
