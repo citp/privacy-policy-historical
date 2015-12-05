@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hawkee.com privacy policy that was archived on 2015-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150407084337id_/http%3A//hawkee.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hawkee.com privacy policy that was archived on 2015-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151205201044id_/http%3A//hawkee.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -15,11 +15,13 @@
 <link rel="stylesheet" href="/styles/animations.css">
 
 <link type="text/css" href="/min/index.php?f=/theme/jquery-ui.css,/styles/easybox/easybox.min.css,/codemirror/lib/codemirror.css,/codemirror/theme/mdn-like.css,/styles/style.css,/styles/media-queries.css,/styles/icomoon.css" rel="StyleSheet">
-<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,400italic,600,800|Droid+Sans+Mono|Bree+Serif" rel="stylesheet">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,400italic,600,800|Droid+Sans+Mono|Bree+Serif|Lato" rel="stylesheet">
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script type="text/javascript" src="/min/index.php?f=/codemirror/lib/codemirror.js,/codemirror/mode/clike/clike.js"></script>
 <script type="text/javascript" src="/min/index.php?f=/javascript/jquery-ui.js,/javascript/jquery-ui.elastic.js,/javascript/jquery-ui.triggeredAutocomplete.js,/javascript/easybox.min.js,/javascript/site.js,/javascript/jquery-ui.scrollAppend.js"></script>
+
+<script src="/javascript/chart.js/Chart.js"></script>
 
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
 
@@ -66,8 +68,8 @@
 		</div>
 		<ul class="nav navmenu-nav">
 			<li><a href="/profile//">View profile</a></li>
+			<li><a href="/profile//?a=post&amp;tt=snippet_id">My Pages</a></li>
 			<li><a href="/account">Account</a></li>
-			<li><a href="/statistics/">Statistics</a></li>
 			<li><a href="/profile//following/">Following</a></li>
 			<li><a href="/follow/finder/">People you Know</a></li>
 			<li><a href="/logout">Sign out</a></li>
@@ -167,6 +169,21 @@ Click "Subscribe" to resume notices pertaining to this post.
 </div>
 
 
+
+<div id="statistics-modal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+				<h1>Pageviews</h1>
+			</div>
+			<div class="modal-body"></div>
+			<div class="modal-footer">
+				<button class="btn btn-default" data-dismiss="modal" aria-hidden="true">Close</button>
+			</div>
+		</div>
+	</div>
+</div>
 
 
 <div id="code_template" class="code_block" style="display: none;">
