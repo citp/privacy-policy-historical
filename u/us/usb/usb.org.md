@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usb.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627110444id_/http%3A//www.usb.org/about/statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usb.org privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205121430id_/http%3A//www.usb.org/about/statement) for the most accurate reproduction.*
 
 # USB.org - Privacy Statement
 
@@ -65,9 +65,8 @@ _3855 SW 153rd Drive, Beaverton, OR   97003, USA_
 If we decide to change our privacy policy, we will post those changes on our web site so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
 **Contacting the Web Site**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
-
-_Martha Keizur  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  
+_  
 USB Implementers Forum, Inc.  
 Kavi Corporation  
 225 SE Main Street, Second Floor  
