@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the phishcheck.me privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607014027id_/http%3A//www.phishcheck.me/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the phishcheck.me privacy policy that was archived on 2015-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151205224246id_/http%3A//phishcheck.me/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -156,10 +156,10 @@
         </div>
         <div class="navbar-collapse collapse">
           <form id="formCheck" class="navbar-form navbar-left" action="/check/" method="post" enctype="application/x-www-form-urlencoded">
-              <input type="hidden" name="csrfmiddlewaretoken" value="TrTxY7fZacWRtdKsOin4fgMjCplzDKgy">
+              <input type="hidden" name="csrfmiddlewaretoken" value="Dx4uU3pYl71vGRaRrPW9azKeCW2hQ70L">
               <div class="form-group">
                 <div class="input-group">
-                  <input name="url" type="text" class="form-control url_form" placeholder="Enter an URL to check" value="">
+                  <input name="url" type="text" id="url_check" class="form-control url_form" placeholder="Enter an URL to check" value="">
                   <span class="input-group-btn">
                     <button type="submit" id="btnCheck" class="btn btn-default">Check</button>
                   </span>
@@ -171,11 +171,12 @@
             <li><a href="#advanced" data-toggle="modal" data-target="#advanced">Advanced</a></li>
           </ul>
           <ul class="nav navbar-nav navbar-right">
-              <li><a href="/firehose/">Firehose</a></li>
-              <li><a href="/#about">About</a></li>
+              <li><a href="/search/">Search</a></li>
               <li class="dropdown">
                 <a href="#help" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="glyphicon glyphicon-question-sign"></span></a>
                 <ul class="dropdown-menu" role="menu">
+                  <li><a href="/firehose/">Firehose</a></li>
+                   <li><a href="/#about">About</a></li>
                   <li><a href="/#support">Support</a></li>
                   <li><a href="/terms-of-service/">Terms of Service</a></li>
                   <li><a href="/privacy-policy/">Privacy Policy</a></li>
@@ -324,7 +325,7 @@
         </div>
         <div class="modal-body">
           <form id="formCheckAdvanced">
-              <!--<input type='hidden' name='csrfmiddlewaretoken' value='TrTxY7fZacWRtdKsOin4fgMjCplzDKgy' />-->
+              <!--<input type='hidden' name='csrfmiddlewaretoken' value='Dx4uU3pYl71vGRaRrPW9azKeCW2hQ70L' />-->
               
           <div class="form-group">
             <h5>Change User-Agent</h5>
@@ -364,6 +365,7 @@
   </div><!-- /.modal -->
   <script type="text/javascript">
       $(document).ready(function() {
+        $("#url_check").focus();
          $("#advFormSubmit").click(function() {
            $('#advanced').modal('hide');
            
