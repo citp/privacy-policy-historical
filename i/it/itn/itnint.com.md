@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itnint.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314231656id_/http%3A//www.itnint.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itnint.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205055519id_/http%3A//itnint.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # ITN International — Cloud-based Event- and Lead-management Applications and Analytics
 
@@ -6,7 +6,7 @@
 
 ITN International is committed to respecting the privacy rights of our customers and all visitors to our website, offices and events. We take this matter seriously and have instituted many policies and procedures to insure that your privacy rights as stated herein are not violated. The following outlines our privacy policy and details the measures we have taken to safeguard and protect your privacy.
 
-All Personally Identified Information gathered on this website is in accordance with the Privacy Policy.  ITN International’s policy maintains that we will not collect or maintain information from anyone under the age of 18. This policy came into effect on the 6 of April 1999, and was last updated on the 20th December 2011.
+All Personally Identified Information gathered on this website is in accordance with the Privacy Policy.  ITN International’s policy maintains that we will not collect or maintain information from anyone under the age of 18. This policy came into effect on the 6 of April 1999, and was last updated on the 20th December 2014.
 
 ### Collection and Use of Information
 
