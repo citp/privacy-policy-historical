@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the randomenthusiasm.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407143351id_/http%3A//randomenthusiasm.com/privacyandcontact) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randomenthusiasm.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205200742id_/http%3A//randomenthusiasm.com/privacyandcontact) for the most accurate reproduction.*
 
 # Random Enthusiasm Privacy and Contact
 
-To remove Random Enthusiasm from your Facebook:  
-Click here: [Remove Random Enthusiasm](http://www.facebook.com/settings/?tab=applications) and click the x to the right of Random Enthusiasm.
+To remove LOLSpotsfrom your Facebook:  
+Click here: [Remove LOLSpots](http://www.facebook.com/settings/?tab=applications) and click the x to the right of LOLSpots.
 
-By using the Facebook application service provided by Random Enthusiasm, you consent to the collection and use of your personal information as outlined in this Privacy Policy. Please check this page periodically to be aware of any changes to this policy.
+By using the Facebook application service provided by LOLSpots, you consent to the collection and use of your personal information as outlined in this Privacy Policy. Please check this page periodically to be aware of any changes to this policy.
 
 What We Collect
 
-When you install an Random Enthusiasm Facebook application, Random Enthusiasm will collect your Facebook ID so we can identify you as a unique user of the app and allow you to interact with the app on Facebook. If you choose to share your email, we will store that as well. We may also collect basic information about you such as gender, age and location. 
+When you install an LOLSpots Facebook application, LOLSpots will collect your Facebook ID so we can identify you as a unique user of the app and allow you to interact with the app on Facebook. If you choose to share your email, we will store that as well. We may also collect basic information about you such as gender, age and location. 
 
 How We Use Your Information
 
@@ -17,8 +17,8 @@ If you have shared your email address with us, we will use it to send you notifi
 
 Content
 
-All of our content is uploaded by our users or comes from sites that allow the embedding of images into the webpage (eg. imgur) and is in accordance with the DMCA. If there is any content on the site that should be removed please contact us at randomenthusiasm@gmail.com. 
+All of our content is uploaded by our users or comes from sites that allow the embedding of images into the webpage (eg. imgur) and is in accordance with the DMCA. If there is any content on the site that should be removed please contact us at business@lolspots.com. 
 
 Contact
 
-If you have any further questions about this Privacy Policy, please email us at randomenthusiasm@gmail.com. 
+If you have any further questions about this Privacy Policy, please email us at business@lolspots.com. 
