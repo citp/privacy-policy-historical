@@ -1,570 +1,229 @@
-<!--The following is the downloaded HTML source of the goldenpalace.com privacy policy that was archived on 2013-09-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130907102347id_/http%3A//www.goldenpalace.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goldenpalace.com privacy policy that was archived on 2015-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151205170907id_/http%3A//www.goldenpalace.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7,IE=EmulateIE9">
-	<title>Online Casino - Play Free Online Casino Games at GoldenPalace.com - Internet Casinos</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<meta name="description" content="The Golden Palace online casino is one of the most trusted Internet casinos. Play free online casino games like Blackjack, Roulette, Craps, Video Poker and Slots at GoldenPalace.com.">
-	<meta name="keywords" content="Play Free Online Casino Games, Play Free Casino Games, Internet Gambling Sites, Internet Gambling Site, Red Dog Poker, Pai Gow Poker, Video Poker, Caribbean Poker, Slot Machines, Online Slots, Online Casino, Internet Casinos, Internet Casino, Online Casinos, Golden Palace, Blackjack, Roulette, Craps, Baccarat, Sic-Bo, Keno">
-	
-<meta name="robots" content="all">	<meta http-equiv="cache-control" content="no-cache">
-	<meta name="Pragma" content="no-cache">
-	<link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
-	<link rel="icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
-	<link rel="stylesheet" href="/style_v4.php?sec=&amp;langPrefix=" type="text/css">
-	<link rel="stylesheet" href="/global/_v3/js/nivo-slider.css" type="text/css" media="screen">
-	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-	<script type="text/javascript" src="/js-v4/js.php?sec=&amp;langPrefix="></script>
-	<script type="text/javascript">
-	var jackpotTotal = 5492303.1;
-	var jackpotStep = 1.72;
-	<!--
-// cookie functions
-function setCookie(name, value, days, path, domain, secure) {
-	if (days) {
-		var date = new Date();
-		date.setTime(date.getTime()+(days*24*60*60*1000));
-		var expires = "; expires="+date.toGMTString();
-	}
-	else var expires = "";
-	
-	var curCookie = name + "=" + escape(value) + expires +
-		((path) ? "; path=" + path : "") +
-		((domain) ? "; domain=" + domain : "") +
-		((secure) ? "; secure" : "");
-	document.cookie = curCookie;
-}
-
-function getCookie(name) {
-	var nameEQ = name + "=";
-	var ca = document.cookie.split(';');
-	for (var i=0;i < ca.length;i++){
-		var c = ca[i];
-		while (c.charAt(0)==' ') c = c.substring(1,c.length);
-		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-	}
-	return null;
-}
-
-//------[ start click tracking ]------//
-
-function addOnclickToAllAnchors() {
-	// this function needs to be run either onLoad or at the very bottom of the page...
-	// typically "onLoad" includes loading of images - for our purposes we'd rather call this in the
-	// html after the </body> tag :)
-	
-	var anchors = document.getElementsByTagName("a");
-    for (var i in anchors){
-    	if (anchors[i].onclick) anchors[i].onclick_ = anchors[i].onclick;
-     	if (anchors[i].href && anchors[i].innerHTML){
-   			anchors[i].onclick = function(){ return trackClickEvents(this); };
-	   	}
-    }
-}
-
-function trackClickEvents(objAnchor){
-	
-	// if there was an inline onClick event, call it
-	if (objAnchor.onclick_) objAnchor.onclick_();
-	
-	var linkDest = objAnchor.href;
-	
-	// grab the name of the image or the text on the link
-	if (objAnchor.childNodes[0].tagName == "IMG"){
-		var clickedLink = objAnchor.childNodes[0].src.substring(objAnchor.childNodes[0].src.lastIndexOf('/')+1);
-	}else{
-		var clickedLink = objAnchor.innerHTML;
-	}
-	
-	// record the link
-	recordLinkClick(linkDest,clickedLink);
-
-	// if it's a download link, call the download function that'll call the EXE and swap to the download help page,
-	// then return false to kill the href of the link
-	// if ((linkDest.indexOf('playnow.php') != -1) || (linkDest.indexOf('playnow_download.php') != -1) || (linkDest.indexOf('playnow_help.php') != -1) || (linkDest.indexOf('ConfirmDownload()') != -1)){
-	if ((linkDest.indexOf('playnow.php') != -1) || (linkDest.indexOf('playnow_download.php') != -1) || (linkDest.indexOf('playnow_help.php') != -1)){
-		downloadCasinoV2();
-		return false;
-	}
-	
-	return true;
-}
-
-function downloadCasinoV2(strLinkName){
-	// call any custome tracking pixels
-	callCustomDownloadPixels();
-	
-	// if we've been passed "strLinkName" then record the click
-	if (strLinkName) recordLinkClick('/global/gateway.php?game=downloadcasino&lang=',strLinkName);
-	
-	// start the download
-	document.location='/global/gateway.php?game=downloadcasino&lang=';
-	
-		
-	// in 2 seconds, once the download is started, go to the download page
-	setTimeout(redirToDownloadHelpPage,4000);
-}
-
-function redirToDownloadHelpPage(){
-	location.href='/global/gateway.php?game=downloadcasino&action=help&lang=';
-}
-
-function recordLinkClick(linkDest,clickedLink){
-	delete myPic;
-	var myPic = new Image();
-	myPic.src = '/global/tx/pixel.php?action=click&site=1&member=&profile=&item='+escape(clickedLink)+'&dest='+escape(linkDest)+'&r='+Math.random();
-	
-	//var dest = '/global/tx/pixel.php?action=click&site=1&member=&profile=&item='+escape(clickedLink)+'&dest='+escape(linkDest)+'&r='+Math.random();
-	//try{ xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject("Microsoft.XMLHTTP"); }
-	//catch (e){ /* do nothing */ }
-	////xmlhttp.onreadystatechange = triggered;
-	//xmlhttp.open("GET", dest, false);
-	//xmlhttp.send(null);
-}
-
-function callCustomDownloadPixels() {
-	// do nothing for now...
-}
-
-//------[ end click tracking ]------//
-
-function popFlashGames(){
-	var url = '/global/gateway.php?game=flashcasino&lang=';
-	var WindowWidth = 800;
-	var WindowHeight = 600;
-	var WindowTop = (screen.availHeight/2) - (WindowHeight/2);
-	var WindowLeft = (screen.availWidth/2) - (WindowWidth/2);
-	var WindowProps = 'toolbar=0,location=0,status=0,menubar=0,scrollbars=no,resizable,width='+WindowWidth+',height='+WindowHeight+',left='+WindowLeft+',top='+WindowTop+',screenx='+WindowLeft+',screeny='+WindowTop;
-	PoppedFlashGames = window.open(url,"PoppedFlashGames",WindowProps);
-	PoppedFlashGames.focus();
-	return;
-}
-
-
-//------[ begin jackpot ticker ]------//
-function updateJackpotTicker(initialize) {
-	if (!initialize) {
-		jackpotTotal = Math.round( (jackpotTotal + jackpotStep) * 100) / 100;
-	}		
-	//var ticker = jackpotTotal.toFixed(2);
-	if(jackpotTotal>9999999){
-		ticker = number_format(jackpotTotal, 0, "p", "c");
-	}else{
-		ticker = number_format(jackpotTotal, 2, "p", "c");
-	}
-	for (i = 0; i < ticker.length; i++) {
-		var ch = ticker.charAt(i);
-					$('#jackpot_ticker #jackpot_digit'+i).attr('src', '/images-v4/jackpotTicker-'+ch+'.gif');
-			}
-}
-    
-function number_format( number, decimals, dec_point, thousands_sep ) {
-    var n = number, c = isNaN(decimals = Math.abs(decimals)) ? 2 : decimals;
-    var d = dec_point == undefined ? "," : dec_point;
-    var t = thousands_sep == undefined ? "." : thousands_sep, s = n < 0 ? "-" : "";
-    var i = parseInt(n = Math.abs(+n || 0).toFixed(c)) + "", j = (j = i.length) > 3 ? j % 3 : 0;     
-    return s + (j ? i.substr(0, j) + t : "") + i.substr(j).replace(/(\d{3})(?=\d)/g, "$1" + t) + (c ? d + Math.abs(n - i).toFixed(c).slice(2) : "");
-}
-//------[ end jackpot ticker ]------//  
-
-
-//-->	</script>
-	<!--[if lt IE 7]>
-	<script type="text/javascript">
-	var disableSlider = true;
-	</script>
-	<![endif]-->
-	<!--[if lte IE 7]>
-	<script type="text/javascript" src="/global/_v3/js/DD_belatedPNG_0.0.8a-min.js"></script>
-	<script type="text/javascript">
-		var disableProblemAnim = true;
-	  DD_belatedPNG.fix('.png');
-	</script>
-	<![endif]-->
-	<!--[if IE 7]>
-		<script type="text/javascript">
-		$(document).ready(function(){
-			$('#button_download a').append('<img src="/images-v4/spacer.gif" style="width: 374px;height: 124px;" />');
-			$('#button_instant a').append('<img src="/images-v4/spacer.gif" style="width: 374px;height: 94px;" />');
-			$('#button_download_inside a').append('<img src="/images-v4/spacer.gif" style="width: 234px;height: 81px;" />');
-			$('#button_instant_inside a').append('<img src="/images-v4/spacer.gif" style="width: 234px;height: 62px;" />');
-			$('#welcome_bonus>a').append('<img src="/images-v4/spacer.gif" class="abs" style="width: 287px;height: 123px;" />');
-			$('#welcome_bonus_currency a').append('<img src="/images-v4/spacer.gif" class="abs" style="width: 61px;height: 80px;" />');
-			$('#language_options a').append('<img src="/images-v4/spacer.gif" style="width: 154px;height: 39px;" />');
-			$('#GP_logo a').append('<img src="/images-v4/spacer.gif" class="abs" style="width: 287px;height: 142px;" />');
-			$('#GP_tagline a').append('<img src="/images-v4/spacer.gif" class="abs" style="width: 242px;height: 24px;" />');
-		});
-		</script>
-	<![endif]-->
-	<!--[if IE 8]>
-	<script type="text/javascript">
-		var disableProblemAnim = true;
-	</script>
-	<![endif]-->
-<script type="text/javascript" charset="iso-8859-1" src="http://server.iad.liveperson.net/hcp/html/mTag.js?site=31612713"></script></head>
-<body id="sec_">
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-
-	
-	<div id="exitNetLeft" style="position:absolute; top:0px; left:0px; width:50px; height:50px; z-index:98; text-align: center;"><a href="#" style="cursor:default;"><img src="/global/exitV2/images/spacer.gif" width="50" height="50" border="0" alt="" onmouseover="showDHTMLExitPop();"></a></div>
-	<div id="exitNetRight" style="position:absolute; top:0px; right:0px; width:50px; height:50px; z-index:98; text-align: center;"><a href="#" style="cursor:default;"><img src="/global/exitV2/images/spacer.gif" width="50" height="50" border="0" alt="" onmouseover="showDHTMLExitPop();"></a></div>
-	<div id="exitNetCenter" style="position: absolute; top: 0px; left: 0px; right: 50px; height: 10px; z-index: 98; text-align: center; overflow: hidden;"><a href="#" style="cursor:default;"><img src="/global/exitV2/images/spacer.gif" width="700" height="10" border="0" alt="" onmouseover="showDHTMLExitPop();"></a></div>
-	<div id="dhtmlExitOverlay" style="position:absolute; top:0px; left:0px; right:0px; height:500px; z-index:99; display: none; background-color:#000; filter:alpha(opacity=90);-moz-opacity:.90;opacity:.90;"></div>
-	<div id="dhtmlExit" style="position:absolute; top:0px; left:0px; z-index:100; display: none;"><a href="javascript:hideDHTMLExitPop();"><img src="/global/exitV2/images/x.gif" alt="" border="0" style="display: block;"></a>
-<script type="text/javascript">
-
-if (document.images) {
-	img1 = new Image();
-	img1.src = "/global/exitV2/imagesPawnUp/tob-back.jpg";
-}
-
-function validatePawnUpForm(){
-	var emailRegEx = /^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}$/i;
-	
-	if (document.getElementById('PawnUpFormFullName').value == ''){
-		alert('Please enter your name.');
-		return false;
-	}
-	
-	if (document.getElementById('PawnUpFormEmail').value.search(emailRegEx) == -1){
-		alert('Please enter a valid email address.');
-		return false;
-	}
-	
-	if (!document.getElementById('PawnUpFormAgree').checked){
-		alert('You must agree to the contest terms and conditions to enter.');
-		return false;
-	}
-	
-	return true;
-}
-</script>
-<div style="background-image: url(/global/exitV2/imagesPawnUp/tob-back.jpg); width: 840px; height: 396px; overflow: hidden; position: relative;">
-	<div style="position: absolute; top: 0px; left: 0px; width: 595px; height: 396px; overflow: hidden;"><a href="http://www.pawnup.com?tmode=camp&amp;tid1=GPExit" style="display: block; width: 595px; height: 396px; overflow: hidden; padding: 400px 0 0 0;">Online Pawn Shop</a></div>
-	<div style="position: absolute; top: 0px; right: 0px; width: 245px; height: 175px; overflow: hidden;"><a href="http://www.pawnup.com?tmode=camp&amp;tid1=GPExit" style="display: block; width: 245px; height: 175px; overflow: hidden; padding: 250px 0 0 0;">Pawn Shop Online</a></div>
-	<div style="position: absolute; top: 0px; right: 0px; width: 245px; height: 175px; overflow: hidden;"><a href="http://www.pawnup.com?tmode=camp&amp;tid1=GPExit" style="display: block; width: 245px; height: 175px; overflow: hidden; padding: 180px 0 0 0;">Pawn Shop Online</a></div>
-	<div style="position: absolute; bottom: 0px; right: 0px; width: 245px; height: 75px; overflow: hidden;"><a href="http://www.pawnup.com?tmode=camp&amp;tid1=GPExit" style="display: block; width: 245px; height: 75px; overflow: hidden; padding: 80px 0 0 0;">Bad Credit Loan</a></div>
-	<div style="position: absolute; bottom: 75px; right: 0px; width: 70px; height: 146px; overflow: hidden;"><a href="http://www.pawnup.com?tmode=camp&amp;tid1=GPExit" style="display: block; width: 70px; height: 146px; overflow: hidden; padding: 150px 0 0 0;">No Credit Check Loan</a></div>
-	<div style="position: absolute; top: 263px; left: 629px; width: 128px; height: 15px; overflow: hidden;"><a href="http://www.pawnup.com/ipad-mini-contest-terms.php?tmode=camp&amp;tid1=GPExit" target="_blank" rel="nofollow" style="display: block; width: 128px; height: 15px; overflow: hidden; padding: 20px 0 0 0;">Contest Terms and Conditions</a></div>
-	<div style="position: absolute; top: 282px; left: 602px; width: 158px; height: 36px; overflow: hidden;"><a href="javascript:if(validatePawnUpForm())document.getElementById('PawnUpContestForm').submit();" style="display: block; width: 158px; height: 36px; overflow: hidden; padding: 40px 0 0 0;">Enter Contest!</a></div>
-	<form style="margin: 0; padding: 0;" id="PawnUpContestForm" method="post" action="http://www.pawnup.com/ipad-mini-contest.php" onsubmit="return validatePawnUpForm();">
-	<div style="position: absolute; top: 182px; left: 599px; width: 166px; height: 19px; padding: 0; margin: 0p; overflow: hidden"><input type="text" name="fullName" id="PawnUpFormFullName" style="border: none; padding: 0; margin: 0; width: 166px; font-family: arial, helvetica, sans-serif; font-size: 12px; line-height: 110%; font-weight: bold; color: #5e87a0; background: transparent;"></div>
-	<div style="position: absolute; top: 225px; left: 599px; width: 166px; height: 19px; padding: 0; margin: 0p; overflow: hidden"><input type="text" name="email" id="PawnUpFormEmail" style="border: none; padding: 0; margin: 0; width: 166px; font-family: arial, helvetica, sans-serif; font-size: 12px; line-height: 110%; font-weight: bold; color: #5e87a0; background: transparent;"></div>
-	<div style="position: absolute; top: 250px; left: 597px; width: 10px; height: 10px; padding: 0; margin: 0p;"><input type="checkbox" name="iAgree" id="PawnUpFormAgree" style="border: none; padding: 0; margin: 0;"></div>
-	<input type="submit" value="Enter Contest!" style="display: none;">
-	<input type="hidden" name="tmode" value="camp">
-	<input type="hidden" name="tid1" value="GPExit">
-	</form>
-</div>
-<div><a href="http://www.pawnup.com?tmode=camp&amp;tid1=GPExit"><img src="/global/exitV2/imagesPawnUp/bottom.gif" alt="" border="0"></a></div>
-</div>
-	
-	<script type="text/javascript">
-	
-	var doExit = false;
-	
-	function getBodySize(){
-		if (document.body.scrollHeight>document.body.offsetHeight) return {x:document.body.scrollWidth,y:document.body.scrollHeight}; // all but Explorer Mac
-		return {x:document.body.offsetWidth,y:document.body.offsetHeight}; // Explorer Mac;
-	}
-	
-	function getPageScroll(){
-		var offsetX=0, offsetY=0;
-		if(!window.pageYOffset){
-			if(!(document.documentElement.scrollTop == 0)){
-				offsetY = document.documentElement.scrollTop;
-				offsetX = document.documentElement.scrollLeft;
-			}else{
-				offsetY = document.body.scrollTop;
-				offsetX = document.body.scrollLeft;
-			}
-		}else{
-			offsetX = window.pageXOffset;
-			offsetY = window.pageYOffset;
-		}
-		return {x:offsetX,y:offsetY};
-	}
-	
-	function getWindowSize() {
-		var myWidth=0, myHeight=0;
-		if(typeof(window.innerWidth) == 'number'){
-			myWidth = window.innerWidth;
-			myHeight = window.innerHeight;
-		} else if(document.documentElement && (document.documentElement.clientWidth || document.documentElement.clientHeight)){
-			myWidth = document.documentElement.clientWidth;
-			myHeight = document.documentElement.clientHeight;
-		} else if(document.body && (document.body.clientWidth || document.body.clientHeight)){
-			myWidth = document.body.clientWidth;
-			myHeight = document.body.clientHeight;
-		}
-		return {x:myWidth,y:myHeight};
-	}
-	
-	function showDHTMLExitPop(){
-				if (doExit==true){
-			var objExitOverlay = document.getElementById('dhtmlExitOverlay');
-			var objExit = document.getElementById('dhtmlExit');
-	
-			if ((getCookie('tx_unique_flash') != 1) && (getCookie('tx_unique_dl') != 1) && (getCookie('tx_unique_dhtmlexit') != 1)){
-				// no flash click, download click, and previous dhtml exit pop - don't but our customers :)
-				setCookie('tx_unique_dhtmlexit','1',1);
-				var winSize = getWindowSize();
-				var pageScroll = getPageScroll();
-				var bodySize = getBodySize();
-				var totalPageHeight = bodySize.y;
-				if (winSize.y > totalPageHeight) totalPageHeight = winSize.y;
-				if (pageScroll.y > 0) totalPageHeight = totalPageHeight + pageScroll.y;
-				objExitOverlay.style.height = totalPageHeight+'px';
-				objExitOverlay.style.display = '';
-				objExit.style.display = '';
-				objExit.style.top = (winSize.y / 2) - (objExit.offsetHeight / 2) + pageScroll.y +'px';
-				objExit.style.left = (winSize.x / 2) - (objExit.offsetWidth / 2)+'px';
-			}
-		}
-	}
-	
-	function hideDHTMLExitPop(){
-		document.getElementById('dhtmlExitOverlay').style.display = 'none';
-		document.getElementById('dhtmlExit').style.display = 'none';
-	}
-	
-	function updateExitNets(){
-		if (document.getElementById('exitNetLeft') && document.getElementById('exitNetRight') && document.getElementById('exitNetCenter')){
-			var pageScroll = getPageScroll();
-			var winSize = getWindowSize();
-			
-			var objNetLeft = document.getElementById('exitNetLeft');
-			var objNetRight = document.getElementById('exitNetRight');
-			var objNetCenter = document.getElementById('exitNetCenter');
-			
-			objNetLeft.style.left = '0px';
-			objNetLeft.style.top = pageScroll.y +'px';
-			objNetRight.style.right = '0px';
-			objNetRight.style.top = pageScroll.y +'px';
-			objNetCenter.style.left = '0px';
-			objNetCenter.style.top = pageScroll.y +'px';
-		}
-		setTimeout(updateExitNets,100);
-	}
-	
-	function setCookie(name, value, days, path, domain, secure) {
-		if (days) {
-			var date = new Date();
-			date.setTime(date.getTime()+(days*24*60*60*1000));
-			var expires = "; expires="+date.toGMTString();
-		}
-		else var expires = "";
-		
-		var curCookie = name + "=" + escape(value) + expires +
-			((path) ? "; path=" + path : "") +
-			((domain) ? "; domain=" + domain : "") +
-			((secure) ? "; secure" : "");
-		document.cookie = curCookie;
-	}
-	
-	function getCookie(name) {
-		var nameEQ = name + "=";
-		var ca = document.cookie.split(';');
-		for (var i=0;i < ca.length;i++){
-			var c = ca[i];
-			while (c.charAt(0)==' ') c = c.substring(1,c.length);
-			if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-		}
-		return null;
-	}
-	
-	function allowExit(){
-		
-		doExit = true;		
-	}
-	
-	setTimeout("allowExit()",10000);
-	updateExitNets();
-	
-	</script>
-
-		
-	<div id="wrapper">
-		
-		<div id="nav">
-			<a id="nav_download" href="/playnow.php">DOWNLOAD</a>
-			<a id="nav_promotions" href="/promotions.php">Promotions</a>
-			<a id="nav_cashier" href="/cashier.php">Cashier</a>
-			<a id="nav_winners" href="/winners.php">Winners</a>
-			<a id="nav_preview" href="/preview.php">Preview</a>
-			<a id="nav_faq" href="/support_faq.php">FAQ</a>
-			<a id="nav_contact" href="/support.php">24hr Support</a>
-						<span id="nav_buffer"></span>
-			<a id="nav_currency" href="/cashier.php">€ £ $ A$ R</a>
-		</div> <!-- /#nav -->
-		
-				<div id="socialBox"><div class="fb-like" data-href="http://www.facebook.com/GoldenPalaceOnlineCasino" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false"></div></div>
-
-		<div id="content_container">
-			
-			<div id="GP_logo_inside">
-				<a href="/"><img src="/images-v4/GoldenPalace_logo_small.png" width="248" height="122" class="png" alt=""></a>
+<!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head>
+<meta charset="utf-8">
+<title>GoldenPalace.com Privacy Policy</title>
+<meta name="description" content="GoldenPalace.com respects your privacy and protects your account information with state of the art encryption and security.">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link href="/css/bootstrap.css" rel="stylesheet">
+<link href="/css/font-awesome.min.css" rel="stylesheet">
+<link href="/css/prettyPhoto.css" rel="stylesheet" type="text/css" media="all">
+<link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Raleway:400,700,800&amp;subsetting=all" rel="stylesheet" type="text/css">
+<link href="/plugins/owl.carousel.2.0.0-beta.2.4/assets/owl.carousel.css" rel="stylesheet">
+<link href="/plugins/owl.carousel.2.0.0-beta.2.4/animate.css" rel="stylesheet">
+<link href="/css/style.css" rel="stylesheet">
+<link href="/css/custom.css" rel="stylesheet">
+<!--[if lt IE 9]><script src="/js/html5shiv.js"></script><script src="/js/respond.js"></script><![endif]-->
+<link rel="icon" type="image/x-icon" href="/favicon.ico?ver=1.0">
+</head>
+<body data-spy="scroll" data-target=".navigation">
+<header id="header">
+	<nav class="navbar navbar-inverse navbar-fixed-top scroll-fixed-navbar" role="navigation">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+				<a class="navbar-brand text-logo" href="/"><img src="/images/logo-nav.png"></a>
 			</div>
-			
-			
-<div id="language_picker">
-	<ul id="language_options">
-		<li><a href="/fr/" onclick="document.location='http://www.goldenpalace.com/fr/privacy.php'; return false;"><img src="/images-v4/language_option_fr.png" width="122" height="30" class="png" alt=""></a></li><li><a href="/es/" onclick="document.location='http://www.goldenpalace.com/es/privacy.php'; return false;"><img src="/images-v4/language_option_es.png" width="122" height="30" class="png" alt=""></a></li><li><a href="/it/" onclick="document.location='http://www.goldenpalace.com/it/privacy.php'; return false;"><img src="/images-v4/language_option_it.png" width="122" height="30" class="png" alt=""></a></li><li><a href="/de/" onclick="document.location='http://www.goldenpalace.com/de/privacy.php'; return false;"><img src="/images-v4/language_option_de.png" width="122" height="30" class="png" alt=""></a></li><li><a href="/fi/" onclick="document.location='http://www.goldenpalace.com/fi/privacy.php'; return false;"><img src="/images-v4/language_option_fi.png" width="122" height="30" class="png" alt=""></a></li><li><a href="/pt/" onclick="document.location=''; return false;"><img src="/images-v4/language_option_pt.png" width="122" height="30" class="png" alt=""></a></li><li><a href="/sv/" onclick="document.location='http://www.goldenpalace.com/sv/privacy.php'; return false;"><img src="/images-v4/language_option_sv.png" width="122" height="30" class="png" alt=""></a></li>	</ul>
-	<div id="language_current">
-		<img src="/images-v4/language_option_en.png" width="122" height="30" class="png" alt="">
-		<img src="/images-v4/language_bottom.png" width="122" height="8" class="png" alt="">
-		<img src="/images-v4/language_arrow_open.png" width="10" height="9" class="png" id="language_arrow" alt="">
-	</div>
-</div> <!-- /#language_picker -->			
-			<div id="sidebar">
-			
-								
-				<div id="welcome_bonus">
-					<a href="/playnow.php"><img src="/images-v4/welcomebonus.png" width="261" height="115" class="png" alt=""></a>
-					<ul id="welcome_bonus_currency">
-						<li><a href="/playnow.php"><img src="/images-v4/welcomebonus_currency_gbp.png" width="62" height="73" class="png" alt=""></a></li><li><a href="/playnow.php"><img src="/images-v4/welcomebonus_currency_euro.png" width="62" height="73" class="png" alt=""></a></li><li><a href="/playnow.php"><img src="/images-v4/welcomebonus_currency_usd.png" width="62" height="73" class="png" alt=""></a></li>					</ul>
-				</div> <!-- /#welcome_bonus -->
-				
-								<div id="button_download_inside" class="fancybutton">
-					<div class="anim">
-						<img src="/images-v4/button_download_anim.png" width="374" height="355" alt="">
-					</div>
-					<img src="/images-v4/button_download_hover_inside.png" width="234" height="81" class="hover png" alt="">
-					<img src="/images-v4/button_download_border_inside.png" width="234" height="81" class="png" alt="">
-					<a href="/playnow.php"><img src="/images-v4/button_download_text_inside.png" width="234" height="81" class="png" alt=""></a>
-				</div> <!-- /#button_download -->
-				
-				<div id="button_instant_inside" class="fancybutton">
-					<div class="anim">
-						<img src="/images-v4/button_instant_anim.png" width="374" height="355" alt="">
-					</div>
-					<img src="/images-v4/button_instant_hover_inside.png" width="234" height="62" class="hover png" alt="">
-					<img src="/images-v4/button_instant_border_inside.png" width="234" height="62" class="png" alt="">
-					<a href="javascript:popFlashGames();"><img src="/images-v4/button_instant_text_inside.png" width="234" height="62" class="png" alt=""></a>
-				</div> <!-- /#button_instant -->
-								
-								
-				<div id="sidebar_outer">
-					<div id="sidebar_middle">
-						<div id="sidebar_inner">
-							<ul>
-								<li><a href="/promotions.php"><img src="/images-v4/feature_promotions_hover.jpg" width="225" height="96" class="hover" alt=""><img src="/images-v4/feature_promotions.jpg" width="225" height="96" class="blur" alt=""></a></li>
-								<li><a href="/promotions.php"><img src="/images-v4/feature_vip_hover.jpg" width="225" height="96" class="hover" alt=""><img src="/images-v4/feature_vip.jpg" width="225" height="96" class="blur" alt=""></a></li>
-								<li><a href="/preview.php"><img src="/images-v4/feature_livedealers_hover.jpg" width="225" height="96" class="hover" alt=""><img src="/images-v4/feature_livedealers.jpg" width="225" height="96" class="blur" alt=""></a></li>
-								<li><a href="/preview.php"><img src="/images-v4/feature_hottestgames_hover.jpg" width="225" height="96" class="hover" alt=""><img src="/images-v4/feature_hottestgames.jpg" width="225" height="96" class="blur" alt=""></a></li>
-								<li><!-- BEGIN LivePerson Button Code --><a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/31612713/?cmd=file&amp;file=visitorWantsToChat&amp;site=31612713&amp;byhref=1&amp;SESSIONVAR!skill=website&amp;imageUrl=http://server.iad.liveperson.net" target="chat31612713" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/31612713/?cmd=file&amp;file=visitorWantsToChat&amp;site=31612713&amp;SESSIONVAR!skill=website&amp;imageUrl=http://server.iad.liveperson.net&amp;referrer='+escape(document.location),'chat31612713','width=475,height=400,resizable=yes');return false;"><img src="/images-v4/feature_accessibility_hover.jpg" width="225" height="96" class="hover" alt=""><img src="/images-v4/feature_accessibility.jpg" width="225" height="96" class="blur" alt=""></a><!-- END LivePerson Button code --></li>
-								<li><a href="/promo_annanicole.php"><img src="/images-v4/feature_events_hover.jpg" width="225" height="96" class="hover" alt=""><img src="/images-v4/feature_events.jpg" width="225" height="96" class="blur" alt=""></a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div> <!-- /#sidebar -->
-			
-			<div id="content">
-								
+			<div class="navigation navbar-collapse collapse">
+				<ul class="nav navbar-nav menu-right">
+					<li><a href="/casino/register" target="_blank">Login / Sign-Up</a></li>
+					<li><a href="/games.php">Games</a></li>
+					<li><a href="/progressive-jackpots.php">Jackpots</a></li>					<li><a href="/mobile-games.php">Mobile</a></li>
+					<li><a href="/promotions.php">Promotions</a></li>				</ul>
+			</div>
+						<div class="navInfoMessage hideInMobile">
+				<a id="newLiveChatButton" href="#" onclick="newLiveChatButtonClick()">LIVE CHAT <i class="fa fa-comment"></i></a>				<a href="/contact-us.php">24/7 SUPPORT <i class="fa fa-question-circle"></i></a>
+				<a href="/about-us.php">SAFE &amp; SECURE <i class="fa fa-lock"></i></a>
+			</div>
+		</div>
+	</nav>
+</header>
 
-			<span class="subtitle2">Golden Palace Online Casino Privacy Statement</span><br><br>
-			Effective November 1, 2004<br><br>
-			This Golden Palace Online Casino Privacy Statement discloses the information privacy practices for Golden Palace Online Casino's Web site, www.GoldenPalace.com<br><br>
-			<br><br><span class="bold">Our commitment</span><br>Your online privacy is important to us here at Golden Palace Online Casino. To better protect your privacy we explain here our information practices about the way your information is collected and used. This statement is available via a link from our home page ( http://www.GoldenPalace.com ) and is available directly at ( http://www.GoldenPalace.com/privacy.php ).<br><br>
-			<br><br><span class="bold">Information Collected about you</span><br>Golden Palace Online Casino collects two forms of personally identifiable information ('PII') online:  Web Server log file analysis information ('Traffic Analysis') and Web visitor registration information ('User Information') voluntarily provided to Golden Palace Online Casino by visitors who log onto the site. User Information includes information that can identify you as a specific individual, such as your name, phone number, or e-mail address. Although you are required to register as a player at Golden Palace Online Casino in order to use our online gaming software, participate in the contests, and complete transactions, many areas of Golden Palace Online Casino can be accessed without providing any User Information.<br><br>
-			<ol type="i">
-			<li>
-				Traffic Analysis<br><br>
-				Golden Palace Online Casino routinely gathers Information on Site activity, such as data on how many people visit the Site, the pages they visit, where they come from, how long they stay, which banner they have clicked onto arrive at our site, etc.<br><br>
-				Such Traffic Analysis is:
-				<ul>
-				<li>collected on an aggregate, anonymous basis, which means no PII is associated with this data, unless such user arrives from an affiliate, in which case we must track PII to compensate our affiliate;</li>
-				<li>gathered through the use of web server logs and cookies. A web server log is a file where web site activity is stored. A cookie is a small piece of information that a web site sends to a visitor's computer and which is then stored on the visitor's hard drive. Golden Palace Online Casino uses cookies to track repeat visits to its Site. Although Golden Palace Online Casino assigns a cookie to a visitor's computer, it does not know who that visitor is unless that person specifically tells us by becoming a registered user.</li>
-				<li>used to better design our Site, improve how we provide you with information on our products, customer service and to share with advertisers/affiliates to create targeted marketing.</li>
-				</ul>
-				Golden Palace Online Casino collects certain technical information from your computer each time you request a page during a visit. This information is collected from your computer's Web browser to enhance your experience on our site and may include your IP address, operating system, Web browser software (e.g. Internet Explorer), screen resolution, and referrer Web site.
-				<br><br>
-			</li>
-			<li>
-				User Information<br><br>
-				PII is also collected on certain pages of the Golden Palace Online Casino. If you decide to contact Golden Palace Online Casino to ask a question, learn more about how to start playing at Golden Palace Online Casino, learn how to participate in the contest at Golden Palace Online Casino, how to download our software, registering for your free/real playing account, minimum system requirements, how many games we have, how frequently a winner is chosen, you will find that our customer service representatives can be contacted 24 hours a day, seven days a week at Tollfree: 00-800-0704-4507, such PII will assist us in complying with these requests. <br><br>
-				Golden Palace Online Casino may ask you to provide User Information, to register for an account or participate in the contest. The information requested may include your name, address, e-mail address, shipping information, phone number, credit card and/or debit card information and your comments. User Information may be forwarded to our Management Company or Partner Company that is equipped to handle your order, inquiry or feedback.<br><br>
-				Personally Identifiable Information is collected by means of online registration forms within our site or via our downloaded software. This Information is also collected to personalize and customize your experience on Golden Palace Online Casino.<br><br>
-				User Information is gathered as part of any entry for a sweepstakes or other promotion. If you choose to enter a sweepstakes or other promotion we conduct, you will be required to submit certain personal information, such as your name, e-mail address, street address and phone number, and we will also ask for certain additional information, which is optional and is not required to enter the promotion. We will use the required personal information you submit to us for promotion administration purposes, such as notification of winners.<br><br>
-				User Information is collected only when Site visitors voluntarily provide it. It is not necessary to provide any User Information in order to simply browse the Site.<br><br>
-			</li>
-			</ol>
-			<br><br><span class="bold">How We Use Your Information</span><br>We use the Information you provide about yourself when registering and to provide you with information about other partner's similar products and promotions that may be of interest to you. Your Information may be shared with our employees, independent contractors, agents or other related entities and/or business partners acting on our behalf to fulfill an award or promotion; conduct surveys; collect payments or to provide a product or service you have requested. We do not share this information with non-partner companies except to the extent necessary to complete your transaction (such as with NetTeller, your bank, your Credit Card company) and, when we do share it, it is subject to their agreement to treat it as confidential business information and with the understanding that it may not be used for any purpose other than to perform their function. <br><br>
-			We use return email addresses to answer the email we receive as well as to provide you with customer support, special promotions and offers.<br><br>
-			In the course of growing or restructuring our business, we may purchase the assets of another company or sell the assets of our company. During these transactions, information about customers is frequently considered a business asset that is the subject of such a purchase or sale. Also, in the unlikely event that Golden Palace Online Casino, or substantially all of its assets are either acquired or subject to liquidation in bankruptcy, Information may be transferred as well.<br><br>
-			Golden Palace Online Casino may contain hyperlinks to and from other Internet sites, including other partner sites. These sites may have different privacy practices from the ones described here. Since this Statement applies solely to this Site, please remember to read the privacy statements of the other sites you visit. <br><br>
-			We release Information when we believe release is appropriate to comply with law, to enforce or apply our <a href="javascript:MM_openBrWindow('terms.php','terms','scrollbars=yes,resizable=yes,width=387,height=420')">Terms and Conditions</a> and other agreements, or to protect the rights, property, or safety Golden Palace Online Casino, Site users or others. This includes exchanging Information with other companies and organizations for fraud protection and credit risk reduction.<br><br>
-			<br><br><span class="bold">Requests for Additional Information</span><br>Golden Palace Online Casino may from time to time, contact the user directly to acquire more information in order to validate an online transaction or to disburse promotional monies.<br><br>
-			<br><br><span class="bold">Marketing notifications</span><br>As a registered user, you may receive e-mails from us about special promotions, surveys, contests, sweepstakes, newsletters about Golden Palace Online Casino and its marketing partners. We may also use your e-mail address or telephone number to contact you about changes to your account. To assess the effectiveness of these e-mails, we may attach a trackable URL (on an image within the email) that provides confirmation when you open an e-mail. This only occurs if your computer supports such technology. To protect your right not to provide us with this information, e-mail clients, such as Outlook, only send this tracking information to us when you have enabled such a feature, as it is disabled by default, in your mail client tool options.<br><br>
-			You may also receive telephone calls about special promotions, surveys, contests, sweepstakes, on Golden Palace Online Casino and its marketing partners. E-mail or telephone marketing notifications containing offers for our marketing partners will be sent by Golden Palace Online Casino. <br><br>
-			You may also receive postal mail notifications from us about special promotions, surveys, contests, sweepstakes, about Golden Palace Online Casino and its marketing partners. Postal marketing notifications containing offers for our marketing partners will be sent by Golden Palace Online Casino directly.<br><br>
-			<br><br><span class="bold">Data Security</span><br>Golden Palace Online Casino works hard to ensure that our systems are secure and that they meet industry standards. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the Information we collect online. All transactions pass through Secure Socket Layer 3.0 technology to ensure your data is protected. The security of personal information you may submit in connection with a promotion entry, survey response, online facilities and/or registration for any feature on the Site is of the utmost concern to us, and we strive to ensure its security through encryption on our systems. However, no data transmission over the Internet can be guaranteed to be completely secure, we cannot guarantee the security of any information you transmit to us, and you transmit such information at your own risk. We will continue to assess new technology to evaluate its ability to provide additional protection of your Information.<br><br>
-			<br><br><span class="bold">Protecting Children from Online Gambling</span><br>At Golden Palace Online Casino Protecting the privacy of the very young is especially important. Golden Palace Online Casino will not allow Children under the age of majority (minors) to participate in contests or open real money accounts. In the event of a registration where we receive notice afterwards that a member submitted an inaccurate birth date at registration and is actually under 18 years of age/Age of Majority, we will immediately close their account and delete their personal information.<br><br>
-			Golden Palace Online Casino encourages parents and guardians to spend time online with their children and to participate with them in the various interactive activities available on the Internet and on our Web Site in particular.<br><br>
-			<br><br><span class="bold">Sharing and Control Over Your Information</span><br>Golden Palace Online Casino does not and shall not sell your User Information to anyone. Our parent management company may share your information between other sites that it manages, but will never provide your User Information to a third party for sale or rental.  Within our gaming software, the user may update their personal information.  <br><br>
-			<br><br><span class="bold">Right to Change Internet Privacy Statement:</span><br>Golden Palace Online Casino reserves the right to change this privacy statement at any time. Changes will be effective immediately upon posting.<br><br>
-					</div> <!-- /#content -->
-			
-		</div> <!-- /#content_container -->
-		
-		<div id="footer">
-			
-						<img src="/images-v4/hr_footer.gif" width="925" height="3" class="hr" alt=""><br>	
-						<div id="badges">
-				<a href="/cashier.php"><img src="/global/_v3/images/2011/footer_cashier.gif" width="960" height="31" alt=""></a>
-				
-								<img src="/global/_v3/images/2011/88x31_playtech_gp.gif" alt="" width="88" height="31" class="pad">
-				<img src="/global/_v3/images/2011/88x31_icra.gif" width="88" height="31" alt="" class="pad">
-				<a href="http://www.gamblersanonymous.org/" target="_blank"><img src="/global/_v3/images/2011/88x31_ga.gif" width="88" height="31" alt="" class="pad"></a>
-				<a href="/global/_v3/playtech_rng_certification_letter_casino_games_en.pdf" target="_blank"><img src="/global/_v3/images/2011/88x31_tst_gp.gif" alt="" width="88" height="31" class="pad"></a>				<a href="/responsible-gambling.php" target="_blank"><img src="/global/_v3/images/2011/88x31_ResponsibleGaming_gp.gif" alt="" width="88" height="31" class="pad"></a>
-				<img src="/global/_v3/images/2011/88x31_hgn_gp.gif" alt="" width="88" height="31" class="pad">
-				<a href="http://www.ciga.an/" target="_blank"><img src="/global/_v3/images/2011/88x31_ciga_gp.gif" alt="" width="88" height="31" class="pad"></a>
-				<a href="http://www.tsunamirelief.com" target="_blank"><img src="/global/_v3/images/2011/88x31_tsunamirelief.gif" alt="" width="88" height="31" class="pad"></a>
-							</div> <!-- /#badges -->
-			
-						<img src="/images-v4/hr_footer.gif" width="925" height="3" class="hr" alt="">	<br>		
-			<a href="/blackjack/">Blackjack</a> | <a href="/craps/">Craps</a> | <a href="/slots/">Slots</a> | <a href="/roulette/">Roulette</a> | <a href="/baccarat/">Baccarat</a> | <a href="/sic-bo/">Sic-Bo</a> | <a href="/pai_gow/">Pai Gow</a> | <a href="/keno/">Keno</a> | <a href="/red_dog/">Red Dog Poker</a> | <a href="/video_poker/">Video Poker</a> | <a href="/caribbean-poker/">Caribbean Poker</a>						
-			<img src="/images-v4/hr_footer.gif" width="925" height="3" class="hr" alt=""><br>		
-			<span class="copyright">Copyright ® 2013 Golden Palace Online Casino  , remember to join our <a class="copyright" href="http://adv.goldenpalaceaffiliates.com/index.php?" target="_blank" rel="nofollow">Casino Affiliate Program</a>! Read our <a class="copyright" href="/privacy.php" rel="nofollow">Privacy Statement</a>.</span> <a href="/about.php">About Us</a>.<br><span class="copyright"><a href="javascript:MM_openBrWindow('/terms.php','','scrollbars=yes,resizable=yes,width=500,height=420');">Terms of Use</a></span>
-<script language="javascript">
-<!--
-document.write('<img width=1 height=1 border=0 hspace=0 '+'vspace=0 src="/global/tx/pixel.php?site=1&lang=&action=page&ref=' + escape(document.referrer) + '">');
-//-->
-</script><img width="1" height="1" border="0" hspace="0" vspace="0" src="/global/tx/pixel.php?site=1&amp;lang=&amp;action=page&amp;ref=">
-<noscript><img width=1 height=1 border=0 hspace=0 vspace=0 src="/global/tx/pixel.php?site=1&lang=&action=page"></noscript>
 
-		</div> <!-- /#footer -->
-		
-	</div> <!-- /#wrapper -->
+<div class="container pageWrapper">
+
 	
+	<div class="row rosWrapper">
+		<div class="col-lg-9 col-md-8 col-sm-8">
+	
+	<div class="content-area">
+<h1>Privacy Policy</h1>
+<h4>I. Privacy</h4>
+<ol>
+<li>ProgressPlay Limited (the "<b>Company</b>") is committed to protecting Your privacy and Your personally identifiable information (“<b>Personal Information</b>”).</li>
+<li>The Company has created this Privacy Policy to let You know what information the Company (or others on its behalf) collect from You when You use the Company's services via its online or mobile offerings (the "<b>Services</b>"), how this information is collected and how is it used.</li>
+<li>This Privacy Policy is part of and should be read in conjunction with the <a href="http://www.goldenpalace.com/terms.php">Terms and Conditions</a>. When You access or use the Company's offering and/or Services, You agree that the Company (or others on its behalf) may collect, use and disclose Your information (including Personal Information) in accordance with the terms of this Privacy Policy.</li>
+</ol>
+<h4>II. Collection of Information</h4>
+<ol start="4">
+<li>The Company (or others on its behalf) collects Personal Information from You, including without limitation, Your name, date of birth, credit card information, home or other physical address, email address, phone number and other contact information. The Company (or others on its behalf) also collects an activity log unique to You that collects certain administrative and traffic information including without limitation source IP address, time of access, date of access, web and mobile page(s) visited, language use, software crash reports and type of browser used.</li>
+<li>The Company (or others on its behalf) collects the aforesaid information when You use the Services or when You provide it to the Company, and also in Your communications with the Company.</li>
+<li>You are responsible for ensuring the accuracy of Your Personal Information and all other information You submit to The Company (or others on its behalf). Inaccurate information will affect the information You receive when using the Services and the Company's ability to contact You as contemplated in this Privacy Policy. You may update Your Personal Information by logging into Your Account and update Your personal information or by e-mailing customer support at <a href="mailto:customersupport@instantgamesupport.com">customersupport@instantgamesupport.com</a>.</li>
+</ol>
+<h4>III. Use of Information</h4>
+<ol start="7">
+<li>The Company uses the Personal Information and other information the Company (or others on its behalf) collect from or about You to deliver the Services, to provide customer support, to undertake necessary security and identity verification checks, to process any of Your online or mobile transactions, meet certain business and/or regulatory requirements and for any other purpose related to the operation of the Services. The Company may disclose Your Personal Information (and any other information) to any third parties that provide services to the Company in order to allow, enable or improve the provision of the Services to You. Without derogating from the above, Your Personal Information will be disclosed to employees and staff members of the Company for the purpose of providing support services, credit management services and fraud prevention services, to the Company's accountants and auditors for accounting and auditing purposes and to the Company's partners for the purpose of payment processing, Your Personal Information may also be used by the Company to provide You with promotional offers and information regarding the Services as well as products and services from third parties carefully selected by the Company, and in order for us to improve the Company's offering of a range of products and services and improved customer support; provided, however, that the Personal Information will be provided to such third parties (providing information about their products and services) solely on Your opt-in basis. The Company may also use the aforesaid information to track Your use of the Services and for other internal purposes, such as evaluating, providing, and improving the Services.</li>
+<li>The Company may disclose Your Personal Information and other information the Company (or others on its behalf) collect from or about You if required to do so by law, or if the Company believes in good faith that such action is necessary to comply with a current judicial proceeding, a court order or legal process, or to protect and defend the Company's rights or property, the personal safety of users of the Services or the public. The Company reserves the right to share the aforesaid information with other online gaming sites, banks, credit card companies, and appropriate agencies and/or regulators, if the Company determines in its sole discretion that You have cheated or attempted to defraud the Company, or if the Company suspects You of committing any fraudulent activity (including fraudulent payment), or any other prohibited transaction.</li>
+<li>The Company may transfer any information (including Personal Information) outside Your country of residence and outside the European Union and store it in other countries; the data protection and other laws of these countries may not be as comprehensive as those in the European Union - in these instances the Company will take steps to ensure that a sufficient level of protection is given to Your Personal Information.</li>
+</ol>
+<h4>IV. Retention of Information</h4>
+<ol start="10">
+<li>The Company will retain all of Your Personal Information for the time set by applicable legislation and the directives of Malta Gaming Authority and/or of the UK Gambling Commission, as applicable. While You may request from the Company to erase any and all of Your Personal Information, the request will be answered only as long as it is compliant with applicable legislation and the directives of Malta Gaming Authority and/or of the UK Gambling Commission, as applicable.</li>
+</ol>
+<h4>V. Choice / Opt-Out</h4>
+<ol start="11">
+<li>You may opt-out from receiving communications from the Company by sending a blank e-mail with the word “Remove” to <a href="mailto:customersupport@instantgamesupport.com">customersupport@instantgamesupport.com</a>; If You have any questions relating to opting-out, please contact our customer support.</li>
+</ol>
+<h4>VI. Cookies</h4>
+<ol start="12">
+<li>The Company (or others on its behalf) use a browser feature known as cookies, which are small text files which are placed on Your computer or equipment when You visit certain online or mobile pages, to track Your activities, record Your preferences, and make the Services more responsive to Your needs by delivering a better and more personalized experience to You. The cookies are stored on Your computer and/or equipment and are used by the Company to help track Your activity and pass information as You use the Services. Cookies can allow the Company to associate navigational information from browsing visits with personal information you provide to the Company.</li>
+</ol>
+<h4>VII. Security</h4>
+<ol start="13">
+<li>The Company has implemented suitable security policies, rules and technical measures to protect and safeguard the Personal Information under its control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. All of the Company's employees and data processors that have access to, and are associated with the processing of Your Personal Information, are obliged to respect the confidentiality of Your information.</li>
+</ol>
+<h4>VIII. Links to Other Sites</h4>
+<ol start="14">
+<li>The Company's website, mobile site and mobile application may contain links to other websites, mobile sites and mobile applications. Other websites, mobile sites and mobile applications may also reference or link to the Company's website, mobile site and/or mobile application. The Company is not responsible for the privacy practices or the content of such other websites, mobile sites and mobile applications, and any information collected by these third party websites, mobile sites and mobile applications is not governed by this Privacy Policy, and the Company assumes no responsibility or liability whatsoever for the policies (including privacy policies), practices, actions or omissions of such third parties.</li>
+</ol>
+<h4>IX. Transfer</h4>
+<ol start="15">
+<li>In the event that the Company sells, assigns or transfers some or all of its business or assets to a successor or acquirer, or if the Company is acquired by or merge with a third party, or if the Company files for bankruptcy or become insolvent, the Company may sell, assign or transfer all of Your Personal Information and other information provided by You or about You, regardless of Your opt status, to such successor or acquirer, provided the Company obtains Your consent.</li>
+</ol>
+<h4>X. Disclaimer</h4>
+<ol start="16">
+<li>The transmission of information via the internet is not completely secure. Although the Company does its best to protect Your Personal Information, the Company cannot guarantee the security of the data transmitted to the Company's website, mobile site and/or mobile application; transmission is at Your own risk. Accordingly, the Company (including its directors, officers, shareholders, suppliers, advisors, contractors and affiliates) will not be liable for any indirect, incidental, consequential or punitive damages relating to the use or release of Personal Information resulting from events outside of our control.</li>
+</ol>
+<h4>XI. Your Acceptance of this Policy</h4>
+<ol start="17">
+<li>By agreeing to the Terms and Conditions during the registration process on the Company's website, mobile site and/or mobile application, or by continued use of the Services, You agree to this Privacy Policy, and to any changes the Company may make to this Privacy Policy from time to time. The Company will notify You of any such changes to the Privacy Policy by posting the changes on the Company's website, mobile site and/or mobile application, and You will be required to confirm such changes. Failure to confirm such change will prevent You from continuing using the Services. Your only remedy in case in which You do not wish to be bound by such change is to stop using the Services, and to close Your Account.</li>
+</ol>
+<h4>XII. General</h4>
+<ol start="18">
+<li>You have the right to see personal data (as defined in the Data Protection Act 1998) that the Company keeps about you, upon receipt of a written request and payment of a £10 fee. If You are concerned that any of the information we hold about You is incorrect please contact our customer support team at <a href="mailto:customersupport@instantgamesupport.com">customersupport@instantgamesupport.com</a></li>
+</ol>
+<p>Version 1.1.2 - 23/9/14, Valid until further notice</p>
+</div>	
+		</div>
+		<div class="col-lg-3 col-md-4 col-sm-4" id="sidebar">
+						<div id="sidebarContent" style="width: 262px;">
+								<div id="sidebarPromosCarousel" class="owl-carousel owl-theme owl-loaded"><div class="owl-stage-outer"><div class="owl-stage" style="width: 3156px; transform: translate3d(-526px, 0px, 0px); transition: all 0s ease 0s;"><div class="owl-item cloned" style="width: 263px; margin-right: 0px;"><div class="item"><a href="/promotions.php#SpinTheSlots"><img src="https://data.progressplay.net/images/promotions/big/SpinTheSlots.jpg" alt=""></a></div></div><div class="owl-item cloned" style="width: 263px; margin-right: 0px;"><div class="item"><a href="/promotions.php#WeekendRace"><img src="https://data.progressplay.net/images/promotions/big/WeekendRace.jpg" alt=""></a></div></div><div class="owl-item active" style="width: 263px; margin-right: 0px;"><div class="item"><a href="/promotions.php#Welcome"><img src="https://data.progressplay.net/images/promotions/big/welcome.jpg" alt=""></a></div></div><div class="owl-item" style="width: 263px; margin-right: 0px;"><div class="item"><a href="/promotions.php#Christmas"><img src="https://data.progressplay.net/images/promotions/big/xmas_header.jpg" alt=""></a></div></div><div class="owl-item" style="width: 263px; margin-right: 0px;"><div class="item"><a href="/promotions.php#MondayMadness"><img src="https://data.progressplay.net/images/promotions/big/MondayMadness.jpg" alt=""></a></div></div><div class="owl-item" style="width: 263px; margin-right: 0px;"><div class="item"><a href="/promotions.php#WeeklyBonus"><img src="https://data.progressplay.net/images/promotions/big/WeeklyBonus.jpg" alt=""></a></div></div><div class="owl-item" style="width: 263px; margin-right: 0px;"><div class="item"><a href="/promotions.php#GameOfTheDay"><img src="https://data.progressplay.net/images/promotions/big/GameOfTheDay.jpg" alt=""></a></div></div><div class="owl-item" style="width: 263px; margin-right: 0px;"><div class="item"><a href="/promotions.php#cashback"><img src="https://data.progressplay.net/images/promotions/big/cashback.jpg" alt=""></a></div></div><div class="owl-item" style="width: 263px; margin-right: 0px;"><div class="item"><a href="/promotions.php#SpinTheSlots"><img src="https://data.progressplay.net/images/promotions/big/SpinTheSlots.jpg" alt=""></a></div></div><div class="owl-item" style="width: 263px; margin-right: 0px;"><div class="item"><a href="/promotions.php#WeekendRace"><img src="https://data.progressplay.net/images/promotions/big/WeekendRace.jpg" alt=""></a></div></div><div class="owl-item cloned" style="width: 263px; margin-right: 0px;"><div class="item"><a href="/promotions.php#Welcome"><img src="https://data.progressplay.net/images/promotions/big/welcome.jpg" alt=""></a></div></div><div class="owl-item cloned" style="width: 263px; margin-right: 0px;"><div class="item"><a href="/promotions.php#Christmas"><img src="https://data.progressplay.net/images/promotions/big/xmas_header.jpg" alt=""></a></div></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style="display: none;">prev</div><div class="owl-next" style="display: none;">next</div></div><div class="owl-dots" style="display: none;"></div></div></div>
+				<br>
+				<div id="sidebarJackpotsCarousel" class="owl-carousel owl-theme owl-loaded">
+									<div class="owl-stage-outer"><div class="owl-stage" style="width: 2893px; transform: translate3d(-526px, 0px, 0px); transition: all 0s ease 0s;"><div class="owl-item cloned" style="width: 263px; margin-right: 0px;"><div class="item"><a href="/casino/?ServerGameID=FruitFiesta&amp;GameType=Jackpots" target="_blank" rel="nofollow"><img class="progressivePic" alt="" src="/images/gamesV3/fruit-fiesta-3-reel.png"></a><div class="progressiveValue"><a href="/casino/?ServerGameID=FruitFiesta&amp;GameType=Jackpots" target="_blank" rel="nofollow"><span class="progTicker" data-val="1790002" data-step="1" data-curr="€">€17,900.03</span></a></div></div></div><div class="owl-item cloned" style="width: 263px; margin-right: 0px;"><div class="item"><a href="/casino/?ServerGameID=LotsALoot5Reel&amp;GameType=Jackpots" target="_blank" rel="nofollow"><img class="progressivePic" alt="" src="/images/gamesV3/lotsaloot5reel.png"></a><div class="progressiveValue"><a href="/casino/?ServerGameID=LotsALoot5Reel&amp;GameType=Jackpots" target="_blank" rel="nofollow"><span class="progTicker" data-val="540423" data-step="1" data-curr="€">€5,404.24</span></a></div></div></div><div class="owl-item active" style="width: 263px; margin-right: 0px;"><div class="item"><a href="/casino/?ServerGameID=KingCashalot&amp;GameType=Jackpots" target="_blank" rel="nofollow"><img class="progressivePic" alt="" src="/images/gamesV3/king-cashalot.png"></a><div class="progressiveValue"><a href="/casino/?ServerGameID=KingCashalot&amp;GameType=Jackpots" target="_blank" rel="nofollow"><span class="progTicker" data-val="67581850" data-step="1" data-curr="€">€675,818.51</span></a></div></div></div><div class="owl-item" style="width: 263px; margin-right: 0px;"><div class="item"><a href="/casino/?ServerGameID=TreasureNile&amp;GameType=Jackpots" target="_blank" rel="nofollow"><img class="progressivePic" alt="" src="/images/gamesV3/treasure-nile.png"></a><div class="progressiveValue"><a href="/casino/?ServerGameID=TreasureNile&amp;GameType=Jackpots" target="_blank" rel="nofollow"><span class="progTicker" data-val="7222174" data-step="1" data-curr="€">€72,221.75</span></a></div></div></div><div class="owl-item" style="width: 263px; margin-right: 0px;"><div class="item"><a href="/casino/?ServerGameID=Tunzamunni&amp;GameType=Jackpots" target="_blank" rel="nofollow"><img class="progressivePic" alt="" src="/images/gamesV3/tunzamunni.png"></a><div class="progressiveValue"><a href="/casino/?ServerGameID=Tunzamunni&amp;GameType=Jackpots" target="_blank" rel="nofollow"><span class="progTicker" data-val="4190486" data-step="1" data-curr="€">€41,904.87</span></a></div></div></div><div class="owl-item" style="width: 263px; margin-right: 0px;"><div class="item"><a href="/casino/?ServerGameID=CashSplash&amp;GameType=Jackpots" target="_blank" rel="nofollow"><img class="progressivePic" alt="" src="/images/gamesV3/cash-splash-3-reel.png"></a><div class="progressiveValue"><a href="/casino/?ServerGameID=CashSplash&amp;GameType=Jackpots" target="_blank" rel="nofollow"><span class="progTicker" data-val="3110736" data-step="4" data-curr="€">€31,107.40</span></a></div></div></div><div class="owl-item" style="width: 263px; margin-right: 0px;"><div class="item"><a href="/casino/?ServerGameID=CashSplash5Reel&amp;GameType=Jackpots" target="_blank" rel="nofollow"><img class="progressivePic" alt="" src="/images/gamesV3/cash-splash-5-reel.png"></a><div class="progressiveValue"><a href="/casino/?ServerGameID=CashSplash5Reel&amp;GameType=Jackpots" target="_blank" rel="nofollow"><span class="progTicker" data-val="3110736" data-step="4" data-curr="€">€31,107.40</span></a></div></div></div><div class="owl-item" style="width: 263px; margin-right: 0px;"><div class="item"><a href="/casino/?ServerGameID=FruitFiesta&amp;GameType=Jackpots" target="_blank" rel="nofollow"><img class="progressivePic" alt="" src="/images/gamesV3/fruit-fiesta-3-reel.png"></a><div class="progressiveValue"><a href="/casino/?ServerGameID=FruitFiesta&amp;GameType=Jackpots" target="_blank" rel="nofollow"><span class="progTicker" data-val="1790002" data-step="1" data-curr="€">€17,900.03</span></a></div></div></div><div class="owl-item" style="width: 263px; margin-right: 0px;"><div class="item"><a href="/casino/?ServerGameID=LotsALoot5Reel&amp;GameType=Jackpots" target="_blank" rel="nofollow"><img class="progressivePic" alt="" src="/images/gamesV3/lotsaloot5reel.png"></a><div class="progressiveValue"><a href="/casino/?ServerGameID=LotsALoot5Reel&amp;GameType=Jackpots" target="_blank" rel="nofollow"><span class="progTicker" data-val="540423" data-step="1" data-curr="€">€5,404.24</span></a></div></div></div><div class="owl-item cloned" style="width: 263px; margin-right: 0px;"><div class="item"><a href="/casino/?ServerGameID=KingCashalot&amp;GameType=Jackpots" target="_blank" rel="nofollow"><img class="progressivePic" alt="" src="/images/gamesV3/king-cashalot.png"></a><div class="progressiveValue"><a href="/casino/?ServerGameID=KingCashalot&amp;GameType=Jackpots" target="_blank" rel="nofollow"><span class="progTicker" data-val="67581850" data-step="1" data-curr="€">€675,818.51</span></a></div></div></div><div class="owl-item cloned" style="width: 263px; margin-right: 0px;"><div class="item"><a href="/casino/?ServerGameID=TreasureNile&amp;GameType=Jackpots" target="_blank" rel="nofollow"><img class="progressivePic" alt="" src="/images/gamesV3/treasure-nile.png"></a><div class="progressiveValue"><a href="/casino/?ServerGameID=TreasureNile&amp;GameType=Jackpots" target="_blank" rel="nofollow"><span class="progTicker" data-val="7222174" data-step="1" data-curr="€">€72,221.75</span></a></div></div></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style="display: none;">prev</div><div class="owl-next" style="display: none;">next</div></div><div class="owl-dots" style="display: none;"></div></div></div>
+				<div id="sidebarDebug"></div>
+			</div>
+					</div>
+	</div>
+	
+	
+	<section class="section paymentmethods-bg">
+		<div class="container">
+			<ul class="list-inline paymentMethods margin-bottom-50 owl-carousel owl-theme owl-responsive-1200 owl-loaded">
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			<div class="owl-stage-outer"><div class="owl-stage" style="width: 3876px; transform: translate3d(-1140px, 0px, 0px); transition: all 0s ease 0s;"><div class="owl-item cloned" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="/deposit-methods.php"><img src="/images/logos-neteller.png" alt=""></a></li></div><div class="owl-item cloned" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="/deposit-methods.php"><img src="/images/logos-ukash.png" alt=""></a></li></div><div class="owl-item cloned" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="http://www.microgaming.co.uk/" target="_blank" rel="nofollow"><img src="/images/logos-microgaming.png" alt=""></a></li></div><div class="owl-item cloned" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="/responsible-gaming.php"><img src="/images/logos-18plus.png" alt=""></a></li></div><div class="owl-item cloned" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="http://www.progressplay.com/" target="_blank" rel="nofollow"><img src="/images/logos-progressplay.png" alt=""></a></li></div><div class="owl-item cloned" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="http://www.gambleaware.co.uk/" target="_blank" rel="nofollow"><img src="/images/logos-gambleaware.png" alt=""></a></li></div><div class="owl-item cloned" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="http://www.thawte.com/" target="_blank" rel="nofollow"><img src="/images/logos-thawte.png" alt=""></a></li></div><div class="owl-item cloned" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="http://www.ideal.nl/en/" target="_blank" rel="nofollow"><img src="/images/logos-ideal.png" alt=""></a></li></div><div class="owl-item cloned" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="/deposit-methods.php"><img src="/images/logos-pay-by-phone.png" alt=""></a></li></div><div class="owl-item cloned" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="http://www.paysafecard.com/" target="_blank" rel="nofollow"><img src="/images/logos-paysafecard.jpg" alt=""></a></li></div><div class="owl-item active" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="/deposit-methods.php"><img src="/images/logos-visa.png" alt=""></a></li></div><div class="owl-item active" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="/deposit-methods.php"><img src="/images/logos-mastercard.png" alt=""></a></li></div><div class="owl-item active" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="/deposit-methods.php"><img src="/images/logos-maestro.png" alt=""></a></li></div><div class="owl-item active" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="/deposit-methods.php"><img src="/images/logos-skrill-moneybookers.png" alt=""></a></li></div><div class="owl-item active" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="/deposit-methods.php"><img src="/images/logos-neteller.png" alt=""></a></li></div><div class="owl-item active" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="/deposit-methods.php"><img src="/images/logos-ukash.png" alt=""></a></li></div><div class="owl-item active" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="http://www.microgaming.co.uk/" target="_blank" rel="nofollow"><img src="/images/logos-microgaming.png" alt=""></a></li></div><div class="owl-item active" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="/responsible-gaming.php"><img src="/images/logos-18plus.png" alt=""></a></li></div><div class="owl-item active" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="http://www.progressplay.com/" target="_blank" rel="nofollow"><img src="/images/logos-progressplay.png" alt=""></a></li></div><div class="owl-item active" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="http://www.gambleaware.co.uk/" target="_blank" rel="nofollow"><img src="/images/logos-gambleaware.png" alt=""></a></li></div><div class="owl-item" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="http://www.thawte.com/" target="_blank" rel="nofollow"><img src="/images/logos-thawte.png" alt=""></a></li></div><div class="owl-item" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="http://www.ideal.nl/en/" target="_blank" rel="nofollow"><img src="/images/logos-ideal.png" alt=""></a></li></div><div class="owl-item" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="/deposit-methods.php"><img src="/images/logos-pay-by-phone.png" alt=""></a></li></div><div class="owl-item" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="http://www.paysafecard.com/" target="_blank" rel="nofollow"><img src="/images/logos-paysafecard.jpg" alt=""></a></li></div><div class="owl-item cloned" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="/deposit-methods.php"><img src="/images/logos-visa.png" alt=""></a></li></div><div class="owl-item cloned" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="/deposit-methods.php"><img src="/images/logos-mastercard.png" alt=""></a></li></div><div class="owl-item cloned" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="/deposit-methods.php"><img src="/images/logos-maestro.png" alt=""></a></li></div><div class="owl-item cloned" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="/deposit-methods.php"><img src="/images/logos-skrill-moneybookers.png" alt=""></a></li></div><div class="owl-item cloned" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="/deposit-methods.php"><img src="/images/logos-neteller.png" alt=""></a></li></div><div class="owl-item cloned" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="/deposit-methods.php"><img src="/images/logos-ukash.png" alt=""></a></li></div><div class="owl-item cloned" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="http://www.microgaming.co.uk/" target="_blank" rel="nofollow"><img src="/images/logos-microgaming.png" alt=""></a></li></div><div class="owl-item cloned" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="/responsible-gaming.php"><img src="/images/logos-18plus.png" alt=""></a></li></div><div class="owl-item cloned" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="http://www.progressplay.com/" target="_blank" rel="nofollow"><img src="/images/logos-progressplay.png" alt=""></a></li></div><div class="owl-item cloned" style="width: 114px; margin-right: 0px;"><li class="owl-carousel-item"><a href="http://www.gambleaware.co.uk/" target="_blank" rel="nofollow"><img src="/images/logos-gambleaware.png" alt=""></a></li></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style="display: none;">prev</div><div class="owl-next" style="display: none;">next</div></div><div class="owl-dots" style="display: none;"></div></div></ul>
+		</div>
+	</section>
+	
+</div>
+
+<footer id="footer" class="section nopadding-bottom">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-3 col-sm-6 bottomBox"><h4>Games</h4><ul class="quick-links"><li><a href="/casino/?ServerGameID=110009&amp;GameType=Featured" target="_blank" rel="nofollow">Taco Brothers</a></li><li><a href="/casino/?ServerGameID=70146&amp;GameType=Featured" target="_blank" rel="nofollow">Starmania</a></li><li><a href="/casino/?ServerGameID=RugbyStar&amp;GameType=Featured" target="_blank" rel="nofollow">Rugby Star</a></li><li><a href="/casino/?ServerGameID=70041&amp;GameType=Featured" target="_blank" rel="nofollow">Jackpot Jester 50000</a></li><li><a href="/casino/?ServerGameID=HotAsHades&amp;GameType=Featured" target="_blank" rel="nofollow">Hot as Hades</a></li><li><a href="/casino/?ServerGameID=Bridesmaids&amp;GameType=Featured" target="_blank" rel="nofollow">Bridesmaids</a></li><li><a href="/casino/?ServerGameID=70107&amp;GameType=Featured" target="_blank" rel="nofollow">The Spin Lab</a></li><li><a href="/casino/?ServerGameID=70090&amp;GameType=Featured" target="_blank" rel="nofollow">Gorilla Go Wild</a></li><li><a href="/casino/?ServerGameID=RubyMultiClassicBlackjackGold&amp;GameType=Featured" target="_blank" rel="nofollow">Multi-Hand Classic Blackjack Gold</a></li><li><a href="/casino/?ServerGameID=70001&amp;GameType=Featured" target="_blank" rel="nofollow">Volcano Eruption</a></li><li><a href="/casino/?ServerGameID=ForsakenKingdom&amp;GameType=Featured" target="_blank" rel="nofollow">Forsaken Kingdom</a></li><li><a href="/casino/?ServerGameID=LuckyLeprechaun&amp;GameType=Featured" target="_blank" rel="nofollow">Lucky Leprechaun</a></li><li><a href="/casino/?ServerGameID=110007&amp;GameType=Featured" target="_blank" rel="nofollow">Electric Sam</a></li></ul></div>			
+						<div class="col-md-3 col-sm-6 bottomBox">
+				<h4>Promotions</h4>
+				<ul class="quick-links">
+					<li><a href="/vip-club.php">VIP Club</a></li>
+					<li><a href="/promotions.php#Welcome">Welcome Bonus</a></li><li><a href="/promotions.php#Christmas">Christmas Giveaway!</a></li><li><a href="/promotions.php#MondayMadness">Monday Madness</a></li><li><a href="/promotions.php#WeeklyBonus">Weekly Bonus</a></li><li><a href="/promotions.php#GameOfTheDay">Game of the Day</a></li><li><a href="/promotions.php#cashback">Cash Back Day</a></li><li><a href="/promotions.php#SpinTheSlots">Spin the Slots</a></li><li><a href="/promotions.php#WeekendRace">Weekend Race</a></li>				</ul>
+			</div>
+						<div class="col-md-3 col-sm-6 bottomBox">
+				<h4>Company</h4>
+				<ul class="quick-links">
+					<li><a href="/about-us.php">About Us</a></li>
+					<li><a href="/contact-us.php">Contact Us</a></li>
+					<li><a href="/cashing-out.php">Cashing Out</a></li>
+					<li><a href="/withdrawal-methods.php">Withdrawal Methods</a></li>
+					<li><a href="/withdrawal-policy.php">Withdrawal Policy</a></li>
+					<li><a href="/self-limitation.php">Self-Limitation</a></li>
+					<li><a href="/responsible-gaming.php">Responsible Gaming</a></li>
+					<li><a href="/bonuses-policy.php">Bonuses Policy</a></li>
+					<li><a href="/terms.php">Terms &amp; Conditions</a></li>
+					<li><a href="/privacy.php">Privacy Policy</a></li>
+					<li><a href="/depositing.php">How to Deposit</a></li>
+					<li><a href="/deposit-methods.php">Depositing Methods</a></li>
+					<li><a href="/game-payouts.php">Game Payouts (RTP)</a></li>
+				</ul>
+			</div>
+			<div class="col-md-3 col-sm-6 bottomBox">
+				<iframe src="https://www.authorisation.mga.org.mt/handlers/seal-of-authorisation.aspx?company=703df3e2-8758-49e6-8804-158981f71761&amp;lang=en&amp;fullDetails=0&amp;size=20" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:125px; height:72px; display: inline-block;" allowtransparency="true"></iframe><a href="https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39335" target="_blank" rel="nofollow"><img src="/images/gclogowhitebg.jpg" width="140" height="47" alt=""></a><br>
+				<p class="footerBlurb">
+					GoldenPalace.com is operated by ProgressPlay Limited of Suite 1258, 28/19 Vincenti Buildings, Strait Street – Valletta VLT1432 – Malta. ProgressPlay is a limited liability company registered in Malta (C58305), that operates under a Class 1 on 4 license [number MGA/CL1/857/2012 issued on 16th April 2013] &amp; [number MGA/CL1/957/2014] issued on 19th April 2014 issued by Malta Gaming Authority and is licensed and regulated by the <a href="http://www.gamblingcommission.gov.uk/" target="_blank">UK Gambling Commission</a> , License Number 000-039335-R-319313-001. UK persons wagering via the website are doing so in reliance on the license issued by the UK Gambling Commission. Gambling can be addictive. Play responsibly.				</p>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row footer-bottom">
+			<div class="col-lg-6 col-sm-6">
+				<p>© 2015 <a href="http://goldenpalace.com/">GoldenPalace.com</a></p>
+			</div>
+			<div class="col-lg-6 col-sm-6">
+				<p class="copyright">Website by <a href="http://config3.com/">Config3</a></p>
+			</div>
+		</div>
+	</div>
+</footer>
+<a href="#" class="scroll-up" style="display: none;"><i class="fa fa-arrow-up"></i></a>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/jquery-2.1.0.min.js" type="text/javascript"></script>
+<script src="/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="/js/modernizr.min.js" type="text/javascript"></script>
+<script src="/js/jquery.prettyPhoto.js" type="text/javascript"></script>
+<script src="/plugins/owl.carousel.2.0.0-beta.2.4/owl.carousel.min.js" type="text/javascript"></script>
+<script src="/js/jquerySimpleCaptcha/jquery.simpleCaptcha.js"></script>
+<script src="/js/custom.js" type="text/javascript"></script>
 
 
+	<!-- BEGIN LivePerson Button Code -->
+	<div id="lpButDivID-1432123177" style="display:none"></div>
+	<script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/55738640/?cmd=mTagRepstate&amp;site=55738640&amp;buttonID=65&amp;divID=lpButDivID-1432123177&amp;bt=1&amp;c=1"></script>
+	<!-- END LivePerson Button code -->
+	<script>
+	function newLiveChatButtonClick(){
+		$('#lpButDivID-1432123177').find('a').first().click();
+	}
+	$(document).ready(function() {
+		//livehelp online/offline detection
+		var t = $("#lpButDivID-1432123177").find("a").first().attr("title");
+		if(!t) return;
+		if(t.indexOf("to chat live")==-1) $("#newLiveChatButton").hide(500); //Click here to chat live with an online representative
+		else $("#newLiveChatButton").show(500);	
+	});
+	</script>
 
-
-<!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "31612713",'lpProtocol' : "http"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
-<!-- BEGIN Monitor Tracking Variables  -->
-<script language="JavaScript1.2">
-if (typeof(lpMTagConfig.sessionVar) == "undefined"){ lpMTagConfig.sessionVar = new Array();}
-lpMTagConfig.sessionVar[lpMTagConfig.sessionVar.length] = 'skill=website';
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-68888686-1', 'auto');
+  ga('send', 'pageview');
 </script>
-<!-- End Monitor Tracking Variables  -->
 
 
 
-
-<script language="JavaScript">
-<!--
-addOnclickToAllAnchors();
-//-->
-</script></body></html>
+</body></html>
