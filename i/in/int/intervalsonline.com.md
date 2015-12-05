@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intervalsonline.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607030515id_/http%3A//www.myintervals.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intervalsonline.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205143031id_/http%3A//www.myintervals.com/privacy.php) for the most accurate reproduction.*
 
 # Intervals Privacy Policy
 
@@ -66,10 +66,10 @@ Pelago offers you a means to choose how we may use information you provided. If,
 
 ##  Additional Information
 
-Questions regarding this Privacy Policy should be directed to Pelago by emailing such questions to support@myintervals.com or by U.S. mail to Pelago, 414 E. Haley St, Santa Barbara, CA 93101.
+Questions regarding this Privacy Policy should be directed to Pelago by emailing such questions to support@myintervals.com or by U.S. mail to Pelago, 412 E. Haley St. Studio #5, Santa Barbara, CA 93101.
 
 ##  Last Update
 
-This Privacy Policy was last updated on July 15, 2014, and became effective on the same date.
+This Privacy Policy was last updated on July 16, 2015, and became effective on the same date.
 
 » Top of page
