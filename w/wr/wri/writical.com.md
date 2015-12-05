@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writical.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407141745id_/http%3A//writical.com/sample-page-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writical.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205013254id_/http%3A//writical.com/sample-page-2) for the most accurate reproduction.*
 
 # Privacy Policy - Writical
 
@@ -35,5 +35,3 @@
 
 
 ##### Links to other websites Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-##### [privacy@demolink.org](https://writical.com/privacy.php#)
