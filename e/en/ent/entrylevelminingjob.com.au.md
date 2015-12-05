@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the entrylevelminingjob.com.au privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107013544id_/http%3A//www.entrylevelminingjob.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entrylevelminingjob.com.au privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205045240id_/http%3A//www.entrylevelminingjob.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Jobs in Mining
+# Privacy Policy - Jobs in Mining
 
 ##### Privacy Policy
 
