@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the wamu.org privacy policy that was archived on 2015-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628230847id_/http%3A//wamu.org/about/website/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wamu.org privacy policy that was archived on 2015-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151205022147id_/http%3A//wamu.org/about/website/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"><!-- BEGIN --><head profile="http://www.w3.org/1999/xhtml/vocab">
 
-  <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0013/2071.js?439034" async="" type="text/javascript"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//stream.publicbroadcasting.net/analytics/aajm.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="/sites/all/modules/wamu_custom/wamu_timestamp.php?lang=js&amp;type=timestamp&amp;var=wamuServerTimestamp">
+  <script src="https://script.crazyegg.com/pages/scripts/0013/2071.js?439034" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//stream.publicbroadcasting.net/analytics/aajm.js"></script><script src="/sites/wamu.org/modules/wamu_custom/wamu_timestamp.php?lang=js&amp;type=timestamp&amp;var=wamuServerTimestamp">
     /* Returns server timestamp in JS (for On Now updater) as: var [query string var name]=########### */
   </script>
   <script type="text/javascript">
@@ -11,7 +11,7 @@
   </script>
 
   <script type="text/javascript">
-    var $wamu_MobileRedirectURL = window.location.protocol + "//m." + window.location.hostname + (window.location.port ? ":" + window.location.port : "") + window.location.pathname;
+    var $wamu_MobileRedirectURL = "http://m." + window.location.hostname + (window.location.port ? ":" + window.location.port : "") + window.location.pathname;
     /*
     //////////////////////////////////////////////////////////////////////////////////
     // Enable for iOS and Android only due to problems with BlackBerry
@@ -33,15 +33,20 @@
     // Redirect mobile users to mobile site
     function wamu_MobileRedirect(){
       var userAgent = navigator.userAgent;
+      console.log(userAgent);
       var agentChecker_obj = {
         iphone: userAgent.match(/(iPhone|iPod)/i),
         // blackberry: userAgent.match(/BlackBerry/i),
         android: userAgent.match(/Android.+mobile/i) // "mobile" specifies phones, however, some tablets still report mobile
+       ,silk: ['KFARWI', 'KFASWI','KFJWI','KFOT','KINDLE','KFSOWI','KFSOWI','KFTHWI','KFTT','SD4930UR','KTU84P'].some(function(i){return (new RegExp('\\b'+i+'\\b')).test(userAgent);}) 
+
       };
       
-      if (agentChecker_obj.android || agentChecker_obj.iphone) {
+      if (agentChecker_obj.android || agentChecker_obj.iphone || agentChecker_obj.silk) {
         if (window.location.href != $wamu_MobileRedirectURL) {
-          window.location.replace($wamu_MobileRedirectURL);
+          if ( window.location.hostname.indexOf( "m" ) != 0 ) {
+            window.location.replace($wamu_MobileRedirectURL);
+          }
         }
       }
     }
@@ -54,7 +59,6 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta property="og:url" content="http://wamu.org/privacy_policy">
 <meta property="og:site_name" content="WAMU 88.5">
-<meta content="Privacy Policy" about="/privacy_policy" property="dc:title">
 <link rel="shortcut icon" href="http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/favicon.ico" type="image/vnd.microsoft.icon">
 <meta property="og:type" content="article">
 <meta property="og:description" content="&amp;amp;nbsp;
@@ -62,85 +66,76 @@ Protecting  your privacy begins with a complete understanding of what
  information can be  collected from you and how that information is 
 used. Should you have any  questions regarding your">
 <meta name="Generator" content="Drupal 7 (http://drupal.org)">
-<!-- Facebook Conversion Code for wamu-keypageviews -->
-<script>(function() {
-  var _fbq = window._fbq || (window._fbq = []);
-  if (!_fbq.loaded) {
-    var fbds = document.createElement('script');
-    fbds.async = true;
-    fbds.src = '//connect.facebook.net/en_US/fbds.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(fbds, s);
-    _fbq.loaded = true;
-  }
-})();
-window._fbq = window._fbq || [];
-window._fbq.push(['track', '6017049243534', {'value':'0.00','currency':'USD'}]);
-</script>
-<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6017049243534&amp;cd[value]=0.00&amp;cd[currency]=USD&amp;noscript=1" /></noscript><link rel="shortlink" href="/node/18506">
+<link rel="shortlink" href="/node/18506">
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:image" content="http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/dh/images/footer_wamu_logo.jpg">
   <title>Privacy Policy | WAMU 88.5 - American University Radio</title>
-  <style type="text/css" media="all">@import url("http://wamu.org/modules/system/system.base.css?nqmvn1");
-@import url("http://wamu.org/modules/system/system.menus.css?nqmvn1");
-@import url("http://wamu.org/modules/system/system.messages.css?nqmvn1");
-@import url("http://wamu.org/modules/system/system.theme.css?nqmvn1");</style>
-<style type="text/css" media="all">@import url("http://wamu.org/modules/aggregator/aggregator.css?nqmvn1");
-@import url("http://wamu.org/sites/all/modules/date/date_api/date.css?nqmvn1");
-@import url("http://wamu.org/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?nqmvn1");
-@import url("http://wamu.org/sites/all/modules/date/date_repeat_field/date_repeat_field.css?nqmvn1");
-@import url("http://wamu.org/modules/field/theme/field.css?nqmvn1");
-@import url("http://wamu.org/sites/all/modules/google_cse/google_cse.css?nqmvn1");
-@import url("http://wamu.org/modules/node/node.css?nqmvn1");
-@import url("http://wamu.org/modules/search/search.css?nqmvn1");
-@import url("http://wamu.org/modules/user/user.css?nqmvn1");
-@import url("http://wamu.org/sites/all/modules/views/css/views.css?nqmvn1");</style>
-<style type="text/css" media="all">@import url("http://wamu.org/sites/all/modules/amazon/amazon.css?nqmvn1");
-@import url("http://wamu.org/sites/all/modules/ctools/css/ctools.css?nqmvn1");
-@import url("http://wamu.org/sites/all/modules/panels/css/panels.css?nqmvn1");
-@import url("http://wamu.org/sites/all/modules/wamu_jcarousel_skins/skins/wamu_promo_sidebar/jcarousel-wamu_promo_sidebar.css?nqmvn1");
-@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/panels/layouts/wamu_twocol_bricks_1/wamu_twocol_bricks_1.css?nqmvn1");
-@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/ds_layouts/ds_wamu/ds_wamu.css?nqmvn1");
-@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/dh/css/dropbutton.css?nqmvn1");
-@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/dh/css/colorbox_wamu_style.css?nqmvn1");</style>
-<style type="text/css" media="all">@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/dh/css/reset.css?nqmvn1");
-@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/css/wireframes.css?nqmvn1");
-@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/css/page-backgrounds.css?nqmvn1");
-@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/css/tabs.css?nqmvn1");
-@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/css/pages.css?nqmvn1");
-@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/css/blocks.css?nqmvn1");
-@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/css/navigation.css?nqmvn1");
-@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/css/views-styles.css?nqmvn1");
-@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/css/nodes.css?nqmvn1");
-@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/css/comments.css?nqmvn1");
-@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/css/forms.css?nqmvn1");
-@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/css/fields.css?nqmvn1");
-@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/dh/css/text.css?nqmvn1");
-@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/dh/css/990_15_0_16.css?nqmvn1");
-@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/dh/css/wamu_modifier.css?nqmvn1");
-@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/css/base.css?nqmvn1");
-@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/dh/css/audio.css?nqmvn1");</style>
-<style type="text/css" media="print">@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/css/print.css?nqmvn1");</style>
+  <style type="text/css" media="all">
+@import url("http://wamu.org/modules/system/system.base.css?nyuq74");
+@import url("http://wamu.org/modules/system/system.menus.css?nyuq74");
+@import url("http://wamu.org/modules/system/system.messages.css?nyuq74");
+@import url("http://wamu.org/modules/system/system.theme.css?nyuq74");
+</style>
+<style type="text/css" media="all">
+@import url("http://wamu.org/modules/aggregator/aggregator.css?nyuq74");
+@import url("http://wamu.org/sites/all/modules/date/date_api/date.css?nyuq74");
+@import url("http://wamu.org/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?nyuq74");
+@import url("http://wamu.org/sites/all/modules/date/date_repeat_field/date_repeat_field.css?nyuq74");
+@import url("http://wamu.org/modules/field/theme/field.css?nyuq74");
+@import url("http://wamu.org/sites/wamu.org/modules/google_cse/google_cse.css?nyuq74");
+@import url("http://wamu.org/modules/node/node.css?nyuq74");
+@import url("http://wamu.org/modules/search/search.css?nyuq74");
+@import url("http://wamu.org/modules/user/user.css?nyuq74");
+@import url("http://wamu.org/sites/all/modules/views/css/views.css?nyuq74");
+</style>
+<style type="text/css" media="all">
+@import url("http://wamu.org/sites/all/modules/amazon/amazon.css?nyuq74");
+@import url("http://wamu.org/sites/all/modules/ctools/css/ctools.css?nyuq74");
+@import url("http://wamu.org/sites/all/modules/panels/css/panels.css?nyuq74");
+@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/panels/layouts/wamu_twocol_bricks_1/wamu_twocol_bricks_1.css?nyuq74");
+@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/ds_layouts/ds_wamu/ds_wamu.css?nyuq74");
+@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/dh/css/dropbutton.css?nyuq74");
+@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/dh/css/colorbox_wamu_style.css?nyuq74");
+</style>
+<style type="text/css" media="all">
+@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/css/base.css?nyuq74");
+@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/dh/css/topnews_styles.css?nyuq74");
+@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/dh/css/990_15_0_16.css?nyuq74");
+@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/dh/css/wamu_modifier.css?nyuq74");
+@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/dh/css/text.css?nyuq74");
+@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/dh/css/audio.css?nyuq74");
+</style>
+<style type="text/css" media="print">
+@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/css/print.css?nyuq74");
+</style>
 
 <!--[if lte IE 7]>
-<style type="text/css" media="all">@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/css/ie7.css?nqmvn1");</style>
+<style type="text/css" media="all">
+@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/css/ie7.css?nyuq74");
+</style>
 <![endif]-->
 
 <!--[if lte IE 6]>
-<style type="text/css" media="all">@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/css/ie6.css?nqmvn1");</style>
+<style type="text/css" media="all">
+@import url("http://wamu.org/sites/wamu.org/themes/wamu_dh_zen/css/ie6.css?nyuq74");
+</style>
 <![endif]-->
-  <script type="text/javascript" src="http://wamu.org/sites/wamu.org/files/js/js_zzcIWOou_jnX0ZWAIA4sb6Xy_p5a8FZNA0GySvuWjPU.js"></script>
-<script type="text/javascript" src="http://wamu.org/sites/wamu.org/files/js/js_hTnpWsg72zG1WdVt6qt6VjpmrzFp19PFIZmXujrNmH8.js"></script>
-<script type="text/javascript" src="http://wamu.org/sites/wamu.org/files/js/js_cKguc76qMNcT-cAUN8OsdBCbfNiOuTUoezZ-H0orNEE.js"></script>
-<script type="text/javascript" src="http://wamu.org/sites/wamu.org/files/js/js_R4qzBaITGcHjZ37K6toOIuNsuojtxWSoTJcrHi0q7h4.js"></script>
+  <script type="text/javascript" src="http://wamu.org/sites/wamu.org/files/js/js_mj8--jUKjR2GqRpB2rxGEcuQTBbR480BEkLzP0vXCws.js"></script>
+<script type="text/javascript" src="http://wamu.org/sites/wamu.org/files/js/js_qJvBIgNqDJw_oLjQAXZL9SXxJfHdR3uMjtfogBFs7Ao.js"></script>
+<script type="text/javascript" src="http://wamu.org/sites/wamu.org/files/js/js_UHrzLh7UCWuEW6vnLN5kpqrk1HJstE0VcMHXCOb8vgg.js"></script>
+<script type="text/javascript" src="http://wamu.org/sites/wamu.org/files/js/js_J5QXEGefLrNxaYs8hmDhKZEQY4yuL9eg69X_jlNxJM0.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"wamu_dh_zen","theme_token":"BqCGPLZfTcu-qGN6kQ1F877UJ2AGonegm902GUCuJT4","js":{"sites\/all\/modules\/google_cse\/google_cse_results.js":1,"https:\/\/www.google.com\/afsonline\/show_afs_search.js":1,"0":1,"1":1,"http:\/\/s7.addthis.com\/js\/250\/addthis_widget.js#pubid=wamu885\u0026async=1":1,"2":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.5\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"sites\/all\/modules\/panels\/js\/panels.js":1,"sites\/all\/modules\/jcarousel\/js\/jquery.jcarousel.min.js":1,"sites\/all\/modules\/jcarousel\/js\/jcarousel.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.ui.tabs.min.js":1,"sites\/all\/modules\/ctools\/js\/dropbutton.js":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/js\/wamu_main.js":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/js\/moment.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/amazon\/amazon.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/wamu_jcarousel_skins\/skins\/wamu_promo_sidebar\/jcarousel-wamu_promo_sidebar.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/panels\/layouts\/wamu_twocol_bricks_1\/wamu_twocol_bricks_1.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/ds_layouts\/ds_wamu\/ds_wamu.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/dh\/css\/dropbutton.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/dh\/css\/colorbox_wamu_style.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/dh\/css\/reset.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/css\/wireframes.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/css\/page-backgrounds.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/css\/tabs.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/css\/pages.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/css\/blocks.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/css\/navigation.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/css\/views-styles.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/css\/nodes.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/css\/comments.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/css\/forms.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/css\/fields.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/dh\/css\/text.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/dh\/css\/990_15_0_16.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/dh\/css\/wamu_modifier.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/dh\/css\/skin.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/css\/base.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/dh\/css\/audio.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/css\/print.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/css\/ie7.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/css\/ie6.css":1}},"googleCSE":{"cx":"006045162988948360930:t_tgmnvrftw","language":"","resultsWidth":600,"domain":"www.google.com"},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views","carousels":{"jcarousel-dom-1":{"view_options":{"view_args":"18506","view_path":"node\/18506","view_base_path":null,"view_display_id":"block_1","view_name":"carousel","jcarousel_dom_id":1},"skin":"wamu_promo_sidebar","visible":1,"scroll":1,"autoPause":1,"start":1,"selector":".jcarousel-dom-1"}}}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"wamu_dh_zen","theme_token":"u7Jk0O6Hshf1tP71WeTbuC6Lh5PCnj_NcBitxkri9aM","js":{"sites\/wamu.org\/modules\/google_cse\/google_cse_results.js":1,"sites\/wamu.org\/modules\/google_cse\/show_afs_search.js":1,"0":1,"1":1,"\/\/s7.addthis.com\/js\/250\/addthis_widget.js#pubid=wamu885\u0026async=1":1,"2":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/wamu.org\/modules\/google_cse\/google_cse.js":1,"sites\/wamu.org\/modules\/wamu_custom\/js\/newswell.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/ctools\/js\/dropbutton.js":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/js\/homepage_updates.js":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/js\/wamu_main.js":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/js\/moment.min.js":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/js\/jquery.scrolldepth.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/wamu.org\/modules\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/amazon\/amazon.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/panels\/layouts\/wamu_twocol_bricks_1\/wamu_twocol_bricks_1.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/ds_layouts\/ds_wamu\/ds_wamu.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/dh\/css\/dropbutton.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/dh\/css\/colorbox_wamu_style.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/css\/base.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/dh\/css\/topnews_styles.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/dh\/css\/990_15_0_16.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/dh\/css\/wamu_modifier.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/dh\/css\/text.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/dh\/css\/audio.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/css\/print.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/css\/ie7.css":1,"sites\/wamu.org\/themes\/wamu_dh_zen\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"googleCSE":{"cx":"006045162988948360930:t_tgmnvrftw","language":"","resultsWidth":600,"domain":"www.google.com"},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"}});
 //--><!]]>
 </script>
+  <meta name="google-site-verification" content="8AyE7rFVyUE7ZiqFGJ29mxnUk_L6YMXe4KHsLRUvvmQ">
+  <script type="text/javascript" src="/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js"></script>
+  <script type="text/javascript" src="/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js"></script>
+  <script type="text/javascript" src="/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.tabs.min.js"></script>
   
 
-	<script type="text/javascript" src="http://use.typekit.com/onq8fhg.js"></script>
+	<script type="text/javascript" src="//use.typekit.com/onq8fhg.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
     
   <link rel="apple-touch-icon" href="/sites/wamu.org/themes/wamu_dh_zen/dh/images/touch-icon-iphone.png">
@@ -151,7 +146,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
 
 	
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+<script type="text/javascript" src="//partner.googleadservices.com/gampad/google_service.js"></script>
 <script type="text/javascript">
   GS_googleAddAdSenseService("ca-pub-2940228711927482");
   GS_googleEnableAllServices();
@@ -163,15 +158,40 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <script type="text/javascript">
   GA_googleFetchAds();
 </script>
-	<style type="text/css">
-		.ui-tabs-hide {
-		  display: none;
-		}
-  </style>
-   <script type="text/javascript">(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = '//stream.publicbroadcasting.net/analytics/aajm.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script>
-<meta name="google-site-verification" content="8AyE7rFVyUE7ZiqFGJ29mxnUk_L6YMXe4KHsLRUvvmQ">
-<script type="text/javascript" async="" src="//static.getclicky.com/js"></script><script async="" type="text/javascript" src="http://wamudotorg.disqus.com/count.js"></script></head>
-<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-18506 node-type-article section-privacy-policy">
+<script type="text/javascript">(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = '//stream.publicbroadcasting.net/analytics/aajm.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script>
+
+
+<!--******************************************BEGIN GA**********************************************-->
+<script type="text/javascript">
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+
+<script type="text/javascript">
+var slot1 = googletag.defineSlot('/1050810/WAMU_news-well_300x250', [300, 250], 'div-gpt-ad-1386877665748-0').addService(googletag.pubads());
+
+var slot2 = googletag.defineSlot('/1050810/WAMU_site_300x250', [300, 250], 'div-gpt-ad-1386877688844-0').addService(googletag.pubads());
+
+googletag.pubads().enableAsyncRendering();
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+
+window.refreshNewswellAd = function() {
+	googletag.pubads().refresh([slot1]); 
+}
+
+</script>
+
+
+
+<!--******************************************END GA**********************************************-->
+
+<script async="" type="text/javascript" src="//wamudotorg.disqus.com/count.js"></script></head>
+<body class="html not-front not-logged-in two-sidebars page-node page-node- page-node-18506 node-type-article section-privacy-policy">
   <div id="skip-link">
     <a href="#main-menu" class="element-invisible element-focusable">Jump to Navigation</a>
   </div>
@@ -230,7 +250,6 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 	  background-color:rgb(255,255,255);
 	  z-index:998; /* below admin menu */
 	  margin-left: -10px;
-	  display:none;
 	}
 </style>
           <div id="nowPlayingHeader">
@@ -249,37 +268,28 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                 <li class="channel2 ui-state-default ui-corner-top"> 
                   <a id="stationSelector_885_2" href="#stationInfoArea-2">Bluegrass Country</a> 
                 </li> 
+               
               </ul> 
                 
                 </div>
                <div class="listenbtn">
 
-                    <a class="mainplay newWindow" href="/audio-player" rel="nofollow" target="popUp">Listen Live</a>
+                    <a class="mainplay newWindow" href="/audio-player" "rel="nofollow" target="popUp">Listen Live</a>
                
                   <div align="center" style="clear: both;">
-                   <a href="/programs/schedule/" class="linksmall">Full Schedule</a>
+                   <a href="/listen" class="linksmall">Other ways to listen</a>
                   </div>
                
                </div>
                <div class="stationtimes">
                 <div id="stationInfoArea-1">
-                  <div class="view view-now-playing view-id-now_playing view-display-id-headerwidget onNowStationTab-1 view-dom-id-4497b981b588a916f7f2fab11069be72">
+                  <div class="view view-now-playing view-id-now_playing view-display-id-headerwidget onNowStationTab-1 view-dom-id-1f1a264c2f998c7c13a712a3a780e4ae">
         
   
   
       <div class="view-content">
       
 <!-- BEGIN -->
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -292,7 +302,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                                            </div>
                     
                     <span class="wamuOnNowText-1">
-                      <a href="/programs/all_things_considered">All Things Considered</a>                    </span>
+                      <a href="/programs/the_moth">The Moth</a>                    </span>
                     
                   </div>
                   <div id="playerMiddle">
@@ -300,13 +310,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                   <div id="playerRight">
                   <div class="stationInfoNextOn later">
                     <span class="wamuOnNowText-2">
-                    6 PM - 7 PM<br><a href="/programs/climate_one_radio">Climate One Radio</a>                    </span>
+                    10 PM - 11 PM<br><a href="/programs/q_with_jian_ghomeshi">Q</a>                    </span>
                   </div>
                   </div>
 				
 <script type="text/javascript">
   // Setup JSON output for this station. This will associate with the tab numbers from the station selector (shifted by 1 due to 0 initial index in array).
-  var thisOnNowStationsJSON = [{"field_prog_sched_time_start":"00:00","title":"<a href=\"\/programs\/the_newsroom\">The Newsroom<\/a>","field_day_prog_sched":"7","field_prog_sched_time_end":"00:29","field_prog_status":"20","field_start_timestamp":"1435464000","field_start_timestamp_weight":"-61708","field_end_timestamp":"1435465740","field_end_timestamp_weight":"-59968"},{"field_prog_sched_time_start":"00:30","title":"<a href=\"\/programs\/the_why_factor\">The Why Factor<\/a>","field_teaser":"<p>Why do we do the things we do? Mike Williams searches for the extraordinary and hidden histories behind everyday objects and actions to inform us about the way we live in the 21st Century.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"00:50","field_prog_status":"20","field_start_timestamp":"1435465800","field_start_timestamp_weight":"-59908","field_end_timestamp":"1435467000","field_end_timestamp_weight":"-58708"},{"field_prog_sched_time_start":"00:30","title":"<a href=\"\/programs\/health_check\">Health Check<\/a>","field_teaser":"<p>This program looks at discoveries and solutions in health care, tackles issues on conditions where there are no easy answers, and examines the choices to be made by individuals or organizations trying to deliver a healthier world.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"00:59","field_prog_status":"20","field_start_timestamp":1435467060,"field_start_timestamp_weight":"-59908","field_end_timestamp":"1435467540","field_end_timestamp_weight":"-58168","interrupt":true},{"field_prog_sched_time_start":"01:00","title":"<a href=\"\/programs\/weekend\">Weekend<\/a>","field_teaser":"<p>Latest national and international news, with reports from BBC correspondents worldwide.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"03:29","field_prog_status":"20","field_start_timestamp":"1435467600","field_start_timestamp_weight":"-58108","field_end_timestamp":"1435476540","field_end_timestamp_weight":"-49168"},{"field_prog_sched_time_start":"03:30","title":"<a href=\"\/programs\/outlook_weekend\">Outlook Weekend<\/a>","field_day_prog_sched":"7","field_prog_sched_time_end":"03:59","field_prog_status":"20","field_start_timestamp":"1435476600","field_start_timestamp_weight":"-49108","field_end_timestamp":"1435478340","field_end_timestamp_weight":"-47368"},{"field_prog_sched_time_start":"04:00","title":"<a href=\"\/programs\/the_history_hour\">The History Hour<\/a>","field_teaser":"<p>An hour of historical reporting told by the people who were there.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"04:59","field_prog_status":"20","field_start_timestamp":"1435478400","field_start_timestamp_weight":"-47308","field_end_timestamp":"1435481940","field_end_timestamp_weight":"-43768"},{"field_prog_sched_time_start":"04:00","title":"<a href=\"\/programs\/from_our_own_correspondent\">From Our Own Correspondent<\/a>","field_teaser":"<p>Each week, <em>From Our Own Correspondent<\/em> asks BBC reporters around the world to give a personal perspective on news events in their area. It's a program that combines expert analysis with insight and anecdote from an informed, personal point of view.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"04:29","field_prog_status":"20","field_start_timestamp":"1435478400","field_start_timestamp_weight":"-47308","field_end_timestamp":"1435480140","field_end_timestamp_weight":"-45568","interrupt":true},{"field_prog_sched_time_start":"04:00","title":"<a href=\"\/programs\/the_history_hour\">The History Hour<\/a>","field_teaser":"<p>An hour of historical reporting told by the people who were there.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"04:59","field_prog_status":"20","field_start_timestamp":1435480200,"field_start_timestamp_weight":"-47308","field_end_timestamp":"1435481940","field_end_timestamp_weight":"-43768","interrupt":true},{"field_prog_sched_time_start":"05:00","title":"<a href=\"\/programs\/interfaith_voices\">Interfaith Voices<\/a>","field_teaser":"<p>Host Maureen Fiedler provides engaging and informative discussion on the key public issues of our day through the lenses of many different faith perspectives.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"05:59","field_prog_status":"20","field_start_timestamp":"1435482000","field_start_timestamp_weight":"-43708","field_end_timestamp":"1435485540","field_end_timestamp_weight":"-40168"},{"field_prog_sched_time_start":"06:00","title":"<a href=\"\/programs\/krista_tippett_on_being\">On Being with Krista Tippett<\/a>","field_teaser":"<p>On Being With Krista Tippett &nbsp;is public radio's conversation about religion, meaning, ethics, and ideas.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"06:59","field_prog_status":"20","field_start_timestamp":"1435485600","field_start_timestamp_weight":"-40108","field_end_timestamp":"1435489140","field_end_timestamp_weight":"-36568"},{"field_prog_sched_time_start":"07:00","title":"<a href=\"\/programs\/marketplace_money\">Marketplace Weekend<\/a>","field_teaser":"<p><em>Marketplace Weekend<\/em> brings the week\u2019s economic headlines home by looking at those matters with wit and wisdom. The weekly, hour-long program offers a mix of feature stories and segments to help people better understand the economic world around them.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"07:59","field_prog_status":"20","field_start_timestamp":"1435489200","field_start_timestamp_weight":"-36508","field_end_timestamp":"1435492740","field_end_timestamp_weight":"-32968"},{"field_prog_sched_time_start":"08:00","title":"<a href=\"\/programs\/weekend_edition_sunday\">Weekend Edition Sunday<\/a>","field_teaser":"<p>This program has covered newsmakers and artists, scientists and politicians, music makers of all kinds, writers, thinkers, theologians and all manner of news events since 1987.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"09:59","field_prog_status":"20","field_start_timestamp":"1435492800","field_start_timestamp_weight":"-32908","field_end_timestamp":"1435499940","field_end_timestamp_weight":"-25768"},{"field_prog_sched_time_start":"10:00","title":"<a href=\"\/programs\/wait_waitdont_tell_me\">Wait Wait...Don&#039;t Tell Me!<\/a>","field_teaser":"<p>Peter Sagal hosts this weekly news quiz show. Each week you can test your knowledge against some of the best and brightest in the news and entertainment world while figuring out what's real news and what's made up.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"10:59","field_prog_status":"20","field_start_timestamp":"1435500000","field_start_timestamp_weight":"-25708","field_end_timestamp":"1435503540","field_end_timestamp_weight":"-22168"},{"field_prog_sched_time_start":"11:00","title":"<a href=\"\/programs\/ted_radio_hour\">TED Radio Hour<\/a>","field_teaser":"<p>TED Radio Hour, a new program from NPR and TED, is a journey through fascinating ideas, astonishing inventions, and new ways to think and create.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"11:59","field_prog_status":"20","field_start_timestamp":"1435503600","field_start_timestamp_weight":"-22108","field_end_timestamp":"1435507140","field_end_timestamp_weight":"-18568"},{"field_prog_sched_time_start":"12:00","title":"<a href=\"\/programs\/radiolab\">Radiolab<\/a>","field_teaser":"<p>Radiolab is a show where sound illuminates ideas, and the boundaries between science, philosophy and human experience are blurred.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"12:59","field_prog_status":"20","field_start_timestamp":"1435507200","field_start_timestamp_weight":"-18508","field_end_timestamp":"1435510740","field_end_timestamp_weight":"-14968"},{"field_prog_sched_time_start":"13:00","title":"<a href=\"\/programs\/snap_judgment\">Snap Judgment<\/a>","field_teaser":"<p><em>Snap Judgment<\/em> is a themed, weekly NPR storytelling show. We focus on presenting compelling personal stories - mixing tall tales with killer beats to produce cinematic, dramatic radio.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"13:59","field_prog_status":"20","field_start_timestamp":"1435510800","field_start_timestamp_weight":"-14908","field_end_timestamp":"1435514340","field_end_timestamp_weight":"-11368"},{"field_prog_sched_time_start":"14:00","title":"<a href=\"\/programs\/backstory\">BackStory<\/a>","field_teaser":"<p><em>BackStory&nbsp;<\/em>is a public radio program that brings historical perspective to the events happening around us today.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"14:59","field_prog_status":"20","field_start_timestamp":"1435514400","field_start_timestamp_weight":"-11308","field_end_timestamp":"1435517940","field_end_timestamp_weight":"-7768"},{"field_prog_sched_time_start":"15:00","title":"<a href=\"\/programs\/on_the_media\">On The Media<\/a>","field_teaser":"<p>This compelling show examines the impact the media has on our lives.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"15:59","field_prog_status":"20","field_start_timestamp":"1435518000","field_start_timestamp_weight":"-7708","field_end_timestamp":"1435521540","field_end_timestamp_weight":"-4168"},{"field_prog_sched_time_start":"16:00","title":"<a href=\"\/programs\/interfaith_voices\">Interfaith Voices<\/a>","field_teaser":"<p>Host Maureen Fiedler provides engaging and informative discussion on the key public issues of our day through the lenses of many different faith perspectives.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"16:59","field_prog_status":"20","field_start_timestamp":"1435521600","field_start_timestamp_weight":"-4108","field_end_timestamp":"1435525140","field_end_timestamp_weight":"-568"},{"field_prog_sched_time_start":"17:00","title":"<a href=\"\/programs\/all_things_considered\">All Things Considered<\/a>","field_teaser":"<p>For two hours every weekday, <em>All Things Considered<\/em> hosts Robert Siegel, Audie Cornish and Melissa Block present the program's trademark mix of news, interviews, commentaries, reviews and offbeat features.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"17:59","field_prog_status":"20","field_start_timestamp":"1435525200","field_start_timestamp_weight":"-508","field_end_timestamp":"1435528740","field_end_timestamp_weight":"3032"},{"field_prog_sched_time_start":"18:00","title":"<a href=\"\/programs\/climate_one_radio\">Climate One Radio<\/a>","field_teaser":"<p>Each month, <a href=\"http:\/\/climate-one.org\/\">Climate One<\/a> presents three conversations \nrecorded with top thinkers and doers from business, \ngovernment, academia and advocacy groups to advance the discussion about\n a clean energy future. <\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"18:59","field_prog_status":"10","field_start_timestamp":"1435528800","field_start_timestamp_weight":"3092","field_end_timestamp":"1435532340","field_end_timestamp_weight":"6632"},{"field_prog_sched_time_start":"19:00","title":"<a href=\"\/programs\/the_big_broadcast\">The Big Broadcast<\/a>","field_teaser":"<p>Legendary radio personality Ed Walker offers listeners priceless recordings of popular radio programs from the '30s, '40s and '50s.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"22:59","field_prog_status":"20","field_start_timestamp":"1435532400","field_start_timestamp_weight":"6692","field_end_timestamp":"1435546740","field_end_timestamp_weight":"21032"},{"field_prog_sched_time_start":"23:00","title":"<a href=\"\/programs\/bullseye\">Bullseye<\/a>","field_teaser":"<p><em>Bullseye<\/em>&nbsp;is a public radio show about things that are awesome. Each week on the show, host Jesse Thorn hosts in-depth discussions with personalities from the world of entertainment and the arts.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"23:59","field_prog_status":"20","field_start_timestamp":"1435546800","field_start_timestamp_weight":"21092","field_end_timestamp":"1435550340","field_end_timestamp_weight":"24632"},{"field_prog_sched_time_start":"00:00","title":"<a href=\"\/programs\/newsday\">Newsday<\/a>","field_teaser":"<p>Live from London and Singapore, the latest international news from the BBC.<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"01:59","field_prog_status":"20","field_start_timestamp":"1435550400","field_start_timestamp_weight":"24692","field_end_timestamp":"1435557540","field_end_timestamp_weight":"31832"},{"field_prog_sched_time_start":"01:50","title":"<a href=\"\/programs\/more_or_less\">More Or Less<\/a>","field_day_prog_sched":"1","field_prog_sched_time_end":"01:59","field_prog_status":"20","field_start_timestamp":"1435557000","field_start_timestamp_weight":"31292","field_end_timestamp":"1435557540","field_end_timestamp_weight":"31832","interrupt":true},{"field_prog_sched_time_start":"02:00","title":"<a href=\"\/programs\/the_arts_hour\">The Arts Hour<\/a>","field_day_prog_sched":"1","field_prog_sched_time_end":"02:59","field_prog_status":"20","field_start_timestamp":"1435557600","field_start_timestamp_weight":"31892","field_end_timestamp":"1435561140","field_end_timestamp_weight":"35432"},{"field_prog_sched_time_start":"03:00","title":"<a href=\"\/programs\/newsday\">Newsday<\/a>","field_teaser":"<p>Live from London and Singapore, the latest international news from the BBC.<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"03:29","field_prog_status":"20","field_start_timestamp":"1435561200","field_start_timestamp_weight":"35492","field_end_timestamp":"1435562940","field_end_timestamp_weight":"37232"},{"field_prog_sched_time_start":"03:30","title":"<a href=\"\/programs\/global_business\">Global Business<\/a>","field_teaser":"<p>This weekly business program for a general audience reports on major business and workplace issues, emerging trends, and significant personalities in global business, from many different countries and cultures around the world.<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"03:59","field_prog_status":"20","field_start_timestamp":"1435563000","field_start_timestamp_weight":"37292","field_end_timestamp":"1435564740","field_end_timestamp_weight":"39032"},{"field_prog_sched_time_start":"04:00","title":"<a href=\"\/programs\/hardtalk\">HARDtalk<\/a>","field_teaser":"<p>HARDtalk interviews newsmakers and personalities from across the globe.<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"04:29","field_prog_status":"20","field_start_timestamp":"1435564800","field_start_timestamp_weight":"39092","field_end_timestamp":"1435566540","field_end_timestamp_weight":"40832"},{"field_prog_sched_time_start":"04:30","title":"<a href=\"\/programs\/business_daily\">Business Daily<\/a>","field_teaser":"<p>With a broader agenda than <em>World Business Report,<\/em> <em>Business Daily<\/em> brings more context to the big stories in business and economics. It includes interviews with newsmakers, key global players, and those at the cutting edge of new ideas, plus topics such as technology and innovation, business ethics, the environment and management.<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"04:49","field_prog_status":"20","field_start_timestamp":"1435566600","field_start_timestamp_weight":"40892","field_end_timestamp":"1435567740","field_end_timestamp_weight":"42032"},{"field_prog_sched_time_start":"04:50","title":"<a href=\"\/programs\/witness\">Witness<\/a>","field_teaser":"<p><em>Witness<\/em> - history as told by the people who were there. Five days a week we will be talking to people who lived through moments of history to bring you a personal perspective on world events.<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"04:59","field_prog_status":"20","field_start_timestamp":"1435567800","field_start_timestamp_weight":"42092","field_end_timestamp":"1435568340","field_end_timestamp_weight":"42632"},{"field_prog_sched_time_start":"05:00","title":"<a href=\"\/programs\/morning_edition\">Morning Edition<\/a>","field_teaser":"<p>Ren\u00e9e Montagne and Steve Inskeep host NPR's morning news magazine.<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"05:49","field_prog_status":"20","field_start_timestamp":"1435568400","field_start_timestamp_weight":"42692","field_end_timestamp":"1435571340","field_end_timestamp_weight":"45632"},{"field_prog_sched_time_start":"05:50","title":"<a href=\"\/programs\/marketplace_morning_report\">Marketplace Morning Report<\/a>","field_teaser":"<p>Morning business news from American Public Media.<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"05:59","field_prog_status":"20","field_start_timestamp":"1435571400","field_start_timestamp_weight":"45692","field_end_timestamp":"1435571940","field_end_timestamp_weight":"46232"},{"field_prog_sched_time_start":"06:00","title":"<a href=\"\/programs\/morning_edition\">Morning Edition<\/a>","field_teaser":"<p>Ren\u00e9e Montagne and Steve Inskeep host NPR's morning news magazine.<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"06:44","field_prog_status":"20","field_start_timestamp":"1435572000","field_start_timestamp_weight":"46292","field_end_timestamp":"1435574640","field_end_timestamp_weight":"48932"},{"field_prog_sched_time_start":"06:45","title":"<a href=\"\/programs\/the_writers_almanac\">The Writer&#039;s Almanac<\/a>","field_teaser":"<p>Garrison Keillor recounts the highlights of the day in history and reads a short poem or two.<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"06:49","field_prog_status":"20","field_start_timestamp":"1435574700","field_start_timestamp_weight":"48992","field_end_timestamp":"1435574940","field_end_timestamp_weight":"49232"},{"field_prog_sched_time_start":"06:50","title":"<a href=\"\/programs\/morning_edition\">Morning Edition<\/a>","field_teaser":"<p>Ren\u00e9e Montagne and Steve Inskeep host NPR's morning news magazine.<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"07:49","field_prog_status":"20","field_start_timestamp":"1435575000","field_start_timestamp_weight":"49292","field_end_timestamp":"1435578540","field_end_timestamp_weight":"52832"},{"field_prog_sched_time_start":"07:51","title":"<a href=\"\/programs\/marketplace_morning_report\">Marketplace Morning Report<\/a>","field_teaser":"<p>Morning business news from American Public Media.<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"07:59","field_prog_status":"20","field_start_timestamp":"1435578660","field_start_timestamp_weight":"52952","field_end_timestamp":"1435579140","field_end_timestamp_weight":"53432"},{"field_prog_sched_time_start":"08:00","title":"<a href=\"\/programs\/morning_edition\">Morning Edition<\/a>","field_teaser":"<p>Ren\u00e9e Montagne and Steve Inskeep host NPR's morning news magazine.<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"08:59","field_prog_status":"20","field_start_timestamp":"1435579200","field_start_timestamp_weight":"53492","field_end_timestamp":"1435582740","field_end_timestamp_weight":"57032"},{"field_prog_sched_time_start":"09:00","title":"<a href=\"\/programs\/bbc_newshour\">BBC Newshour<\/a>","field_day_prog_sched":"1","field_prog_sched_time_end":"09:59","field_prog_status":"20","field_start_timestamp":"1435582800","field_start_timestamp_weight":"57092","field_end_timestamp":"1435586340","field_end_timestamp_weight":"60632"},{"field_prog_sched_time_start":"10:00","title":"<a href=\"\/programs\/the_diane_rehm_show\">The Diane Rehm Show<\/a>","field_teaser":"<p>For more than 25 years, <em>The Diane Rehm Show<\/em> has offered listeners thoughtful and lively conversations on an array of topics with many of the most distinguished people of our times. The Friday edition includes Diane's two-hour \"News Round-up.\"<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"11:59","field_prog_status":"20","field_start_timestamp":"1435586400","field_start_timestamp_weight":"60692","field_end_timestamp":"1435593540","field_end_timestamp_weight":"67832"},{"field_prog_sched_time_start":"12:00","title":"<a href=\"\/programs\/the_kojo_nnamdi_show\">The Kojo Nnamdi Show<\/a>","field_teaser":"<p>Kojo Nnamdi's live two-hour magazine program highlights news, political issues, and social trends of the day. The Friday edition of the show includes \"Politics Hour.\"<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"13:59","field_prog_status":"20","field_start_timestamp":"1435593600","field_start_timestamp_weight":"67892","field_end_timestamp":"1435600740","field_end_timestamp_weight":"75032"},{"field_prog_sched_time_start":"14:00","title":"<a href=\"\/programs\/fresh_air_from_whyy\">Fresh Air<\/a>","field_teaser":"<p>Host Terry Gross opens the window on contemporary arts and issues with guests from worlds as diverse as literature and economics.<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"14:59","field_prog_status":"20","field_start_timestamp":"1435600800","field_start_timestamp_weight":"75092","field_end_timestamp":"1435604340","field_end_timestamp_weight":"78632"},{"field_prog_sched_time_start":"15:00","title":"<a href=\"\/programs\/here_and_now\">Here And Now<\/a>","field_day_prog_sched":"1","field_prog_sched_time_end":"15:59","field_prog_status":"20","field_start_timestamp":"1435604400","field_start_timestamp_weight":"78692","field_end_timestamp":"1435607940","field_end_timestamp_weight":"82232"},{"field_prog_sched_time_start":"16:00","title":"<a href=\"\/programs\/all_things_considered\">All Things Considered<\/a>","field_teaser":"<p>For two hours every weekday, <em>All Things Considered<\/em> hosts Robert Siegel, Audie Cornish and Melissa Block present the program's trademark mix of news, interviews, commentaries, reviews and offbeat features.<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"17:59","field_prog_status":"20","field_start_timestamp":"1435608000","field_start_timestamp_weight":"82292","field_end_timestamp":"1435615140","field_end_timestamp_weight":"89432"},{"field_prog_sched_time_start":"18:00","title":"<a href=\"\/programs\/marketplace\">Marketplace<\/a>","field_teaser":"<p>Kai Ryssdal hosts this award-winning, daily magazine on business and economics news \"for the rest of us.\" <\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"18:29","field_prog_status":"20","field_start_timestamp":"1435615200","field_start_timestamp_weight":"89492","field_end_timestamp":"1435616940","field_end_timestamp_weight":"91232"},{"field_prog_sched_time_start":"18:30","title":"<a href=\"\/programs\/all_things_considered\">All Things Considered<\/a>","field_teaser":"<p>For two hours every weekday, <em>All Things Considered<\/em> hosts Robert Siegel, Audie Cornish and Melissa Block present the program's trademark mix of news, interviews, commentaries, reviews and offbeat features.<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"19:59","field_prog_status":"20","field_start_timestamp":"1435617000","field_start_timestamp_weight":"91292","field_end_timestamp":"1435622340","field_end_timestamp_weight":"96632"},{"field_prog_sched_time_start":"20:00","title":"<a href=\"\/programs\/the_world\">The World<\/a>","field_teaser":"<p>Host Marco Werman take an in-depth look at the international news agenda and the issues behind the headlines from BBC correspondents across the world.<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"20:59","field_prog_status":"20","field_start_timestamp":"1435622400","field_start_timestamp_weight":"96692","field_end_timestamp":"1435625940","field_end_timestamp_weight":"100232"},{"field_prog_sched_time_start":"21:00","title":"<a href=\"\/programs\/on_point\">On Point<\/a>","field_teaser":"<p>A hybrid of a talk program and a news-magazine, <em>On Point<\/em> puts each day's news into context and provides a lively forum for discussion and debate.<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"21:59","field_prog_status":"20","field_start_timestamp":"1435626000","field_start_timestamp_weight":"100292","field_end_timestamp":"1435629540","field_end_timestamp_weight":"103832"},{"field_prog_sched_time_start":"22:00","title":"<a href=\"\/programs\/q_with_jian_ghomeshi\">Q<\/a>","field_teaser":"<p>\"Q\" is an energetic daily arts, culture and entertainment magazine that takes you on a smart and surprising ride, interviewing personalities and tackling the cultural issues that matter.<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"22:59","field_prog_status":"20","field_start_timestamp":"1435629600","field_start_timestamp_weight":"103892","field_end_timestamp":"1435633140","field_end_timestamp_weight":"107432"},{"field_prog_sched_time_start":"23:00","title":"<a href=\"\/programs\/as_it_happens\">As It Happens<\/a>","field_teaser":"<p>This informative and irreverent current affairs program calls and interviews newsmakers.<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"23:59","field_prog_status":"20","field_start_timestamp":"1435633200","field_start_timestamp_weight":"107492","field_end_timestamp":"1435636740","field_end_timestamp_weight":"111032"}];
+  var thisOnNowStationsJSON = [{"field_prog_sched_time_start":"00:00","title":"<a href=\"\/programs\/newsday\">Newsday<\/a>","field_teaser":"<p>Live from London and Singapore, the latest international news from the BBC.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"01:59","field_prog_status":"20","field_start_timestamp":"1449205200","field_start_timestamp_weight":"-76907","field_end_timestamp":"1449212340","field_end_timestamp_weight":"-69767"},{"field_prog_sched_time_start":"01:00","title":"<a href=\"\/programs\/outlook\">Outlook<\/a>","field_teaser":"<p><em>Outlook<\/em> with host Matthew Bannister is a daily half-hour human-interest current affairs program about individuals and their extraordinary stories.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"01:59","field_prog_status":"20","field_start_timestamp":"1449208800","field_start_timestamp_weight":"-73307","field_end_timestamp":"1449212340","field_end_timestamp_weight":"-69767","interrupt":true},{"field_prog_sched_time_start":"02:00","title":"<a href=\"\/programs\/outlook_arts\">outlook arts<\/a>","field_day_prog_sched":"5","field_prog_sched_time_end":"02:59","field_prog_status":"20","field_start_timestamp":"1449212400","field_start_timestamp_weight":"-69707","field_end_timestamp":"1449215940","field_end_timestamp_weight":"-66167"},{"field_prog_sched_time_start":"03:00","title":"<a href=\"\/programs\/newsday\">Newsday<\/a>","field_teaser":"<p>Live from London and Singapore, the latest international news from the BBC.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"03:29","field_prog_status":"20","field_start_timestamp":"1449216000","field_start_timestamp_weight":"-66107","field_end_timestamp":"1449217740","field_end_timestamp_weight":"-64367"},{"field_prog_sched_time_start":"03:30","title":"<a href=\"\/programs\/assignment\">Assignment<\/a>","field_teaser":"<p>This weekly current affairs program reports from locations around the world, examining topical issues from a global perspective for a global audience. This is the program where the BBC's correspondents report first-hand and in-depth on events shaping the world.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"03:59","field_prog_status":"20","field_start_timestamp":"1449217800","field_start_timestamp_weight":"-64307","field_end_timestamp":"1449219540","field_end_timestamp_weight":"-62567"},{"field_prog_sched_time_start":"04:00","title":"<a href=\"\/programs\/hardtalk\">HARDtalk<\/a>","field_teaser":"<p>HARDtalk interviews newsmakers and personalities from across the globe.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"04:29","field_prog_status":"20","field_start_timestamp":"1449219600","field_start_timestamp_weight":"-62507","field_end_timestamp":"1449221340","field_end_timestamp_weight":"-60767"},{"field_prog_sched_time_start":"04:30","title":"<a href=\"\/programs\/science_in_action\">Science in Action<\/a>","field_teaser":"<p>From outer space to the inner workings of the human body, <em>Science in Action<\/em> tells listeners what's happening and why it matters.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"04:49","field_prog_status":"20","field_start_timestamp":"1449221400","field_start_timestamp_weight":"-60707","field_end_timestamp":"1449222540","field_end_timestamp_weight":"-59567"},{"field_prog_sched_time_start":"04:50","title":"<a href=\"\/programs\/witness\">Witness<\/a>","field_teaser":"<p><em>Witness<\/em> - history as told by the people who were there. Five days a week we will be talking to people who lived through moments of history to bring you a personal perspective on world events.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"04:59","field_prog_status":"20","field_start_timestamp":"1449222600","field_start_timestamp_weight":"-59507","field_end_timestamp":"1449223140","field_end_timestamp_weight":"-58967"},{"field_prog_sched_time_start":"05:00","title":"<a href=\"\/programs\/morning_edition\">Morning Edition<\/a>","field_teaser":"<p>Ren\u00e9e Montagne and Steve Inskeep host NPR's morning news magazine.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"05:49","field_prog_status":"20","field_start_timestamp":"1449223200","field_start_timestamp_weight":"-58907","field_end_timestamp":"1449226140","field_end_timestamp_weight":"-55967"},{"field_prog_sched_time_start":"05:50","title":"<a href=\"\/programs\/marketplace_morning_report\">Marketplace Morning Report<\/a>","field_teaser":"<p>Morning business news from American Public Media.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"05:59","field_prog_status":"20","field_start_timestamp":"1449226200","field_start_timestamp_weight":"-55907","field_end_timestamp":"1449226740","field_end_timestamp_weight":"-55367"},{"field_prog_sched_time_start":"06:00","title":"<a href=\"\/programs\/morning_edition\">Morning Edition<\/a>","field_teaser":"<p>Ren\u00e9e Montagne and Steve Inskeep host NPR's morning news magazine.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"06:44","field_prog_status":"20","field_start_timestamp":"1449226800","field_start_timestamp_weight":"-55307","field_end_timestamp":"1449229440","field_end_timestamp_weight":"-52667"},{"field_prog_sched_time_start":"06:45","title":"<a href=\"\/programs\/the_writers_almanac\">The Writer&#039;s Almanac<\/a>","field_teaser":"<p>Garrison Keillor recounts the highlights of the day in history and reads a short poem or two.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"06:49","field_prog_status":"20","field_start_timestamp":"1449229500","field_start_timestamp_weight":"-52607","field_end_timestamp":"1449229740","field_end_timestamp_weight":"-52367"},{"field_prog_sched_time_start":"06:50","title":"<a href=\"\/programs\/morning_edition\">Morning Edition<\/a>","field_teaser":"<p>Ren\u00e9e Montagne and Steve Inskeep host NPR's morning news magazine.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"07:49","field_prog_status":"20","field_start_timestamp":"1449229800","field_start_timestamp_weight":"-52307","field_end_timestamp":"1449233340","field_end_timestamp_weight":"-48767"},{"field_prog_sched_time_start":"07:51","title":"<a href=\"\/programs\/marketplace_morning_report\">Marketplace Morning Report<\/a>","field_teaser":"<p>Morning business news from American Public Media.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"07:59","field_prog_status":"20","field_start_timestamp":"1449233460","field_start_timestamp_weight":"-48647","field_end_timestamp":"1449233940","field_end_timestamp_weight":"-48167"},{"field_prog_sched_time_start":"08:00","title":"<a href=\"\/programs\/morning_edition\">Morning Edition<\/a>","field_teaser":"<p>Ren\u00e9e Montagne and Steve Inskeep host NPR's morning news magazine.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"08:59","field_prog_status":"20","field_start_timestamp":"1449234000","field_start_timestamp_weight":"-48107","field_end_timestamp":"1449237540","field_end_timestamp_weight":"-44567"},{"field_prog_sched_time_start":"09:00","title":"<a href=\"\/programs\/bbc_newshour\">BBC Newshour<\/a>","field_day_prog_sched":"5","field_prog_sched_time_end":"09:59","field_prog_status":"20","field_start_timestamp":"1449237600","field_start_timestamp_weight":"-44507","field_end_timestamp":"1449241140","field_end_timestamp_weight":"-40967"},{"field_prog_sched_time_start":"10:00","title":"<a href=\"\/programs\/the_diane_rehm_show\">The Diane Rehm Show<\/a>","field_teaser":"<p>For more than 25 years, <em>The Diane Rehm Show<\/em> has offered listeners thoughtful and lively conversations on an array of topics with many of the most distinguished people of our times. The Friday edition includes Diane's two-hour \"News Round-up.\"<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"11:59","field_prog_status":"20","field_start_timestamp":"1449241200","field_start_timestamp_weight":"-40907","field_end_timestamp":"1449248340","field_end_timestamp_weight":"-33767"},{"field_prog_sched_time_start":"12:00","title":"<a href=\"\/programs\/the_politics_hour\">The Politics Hour<\/a>","field_teaser":"<p>Every Friday at noon, <em>The Politics Hour<\/em> connects you to your community -- interviewing news-makers and delving beyond the headlines to help you understand how government actions affect your life.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"12:59","field_prog_status":"20","field_start_timestamp":"1449248400","field_start_timestamp_weight":"-33707","field_end_timestamp":"1449251940","field_end_timestamp_weight":"-30167"},{"field_prog_sched_time_start":"14:00","title":"<a href=\"\/programs\/science_friday\">Science Friday<\/a>","field_teaser":"<p>Ira Flatow hosts this science-focused call-in show every Friday afternoon.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"15:59","field_prog_status":"20","field_start_timestamp":"1449255600","field_start_timestamp_weight":"-26507","field_end_timestamp":"1449262740","field_end_timestamp_weight":"-19367"},{"field_prog_sched_time_start":"16:00","title":"<a href=\"\/programs\/all_things_considered\">All Things Considered<\/a>","field_teaser":"<p>Every weekday, <em>All Things Considered<\/em> hosts Audie Cornish, Kelly McEvers, Ari Shapiro, and Robert Siegel present the program's trademark mix of news, interviews, commentaries, reviews and offbeat features.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"17:59","field_prog_status":"20","field_start_timestamp":"1449262800","field_start_timestamp_weight":"-19307","field_end_timestamp":"1449269940","field_end_timestamp_weight":"-12167"},{"field_prog_sched_time_start":"18:00","title":"<a href=\"\/programs\/marketplace\">Marketplace<\/a>","field_teaser":"<p>Kai Ryssdal hosts this award-winning, daily magazine on business and economics news \"for the rest of us.\" <\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"18:29","field_prog_status":"20","field_start_timestamp":"1449270000","field_start_timestamp_weight":"-12107","field_end_timestamp":"1449271740","field_end_timestamp_weight":"-10367"},{"field_prog_sched_time_start":"18:30","title":"<a href=\"\/programs\/all_things_considered\">All Things Considered<\/a>","field_teaser":"<p>Every weekday, <em>All Things Considered<\/em> hosts Audie Cornish, Kelly McEvers, Ari Shapiro, and Robert Siegel present the program's trademark mix of news, interviews, commentaries, reviews and offbeat features.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"19:59","field_prog_status":"20","field_start_timestamp":"1449271800","field_start_timestamp_weight":"-10307","field_end_timestamp":"1449277140","field_end_timestamp_weight":"-4967"},{"field_prog_sched_time_start":"20:00","title":"<a href=\"\/programs\/the_world\">The World<\/a>","field_teaser":"<p>Host Marco Werman take an in-depth look at the international news agenda and the issues behind the headlines from BBC correspondents across the world.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"20:59","field_prog_status":"20","field_start_timestamp":"1449277200","field_start_timestamp_weight":"-4907","field_end_timestamp":"1449280740","field_end_timestamp_weight":"-1367"},{"field_prog_sched_time_start":"21:00","title":"<a href=\"\/programs\/the_moth\">The Moth<\/a>","field_teaser":"<p>True stories that dissolve socio-economic barriers, expose vulnerabilities, and quietly suggest ways to overcome challenges and see with new eyes.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"21:59","field_prog_status":"20","field_start_timestamp":"1449280800","field_start_timestamp_weight":"-1307","field_end_timestamp":"1449284340","field_end_timestamp_weight":"2233"},{"field_prog_sched_time_start":"22:00","title":"<a href=\"\/programs\/q_with_jian_ghomeshi\">Q<\/a>","field_teaser":"<p>\"Q\" is an energetic daily arts, culture and entertainment magazine that takes you on a smart and surprising ride, interviewing personalities and tackling the cultural issues that matter.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"22:59","field_prog_status":"20","field_start_timestamp":"1449284400","field_start_timestamp_weight":"2293","field_end_timestamp":"1449287940","field_end_timestamp_weight":"5833"},{"field_prog_sched_time_start":"23:00","title":"<a href=\"\/programs\/as_it_happens\">As It Happens<\/a>","field_teaser":"<p>This informative and irreverent current affairs program calls and interviews newsmakers.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"23:59","field_prog_status":"20","field_start_timestamp":"1449288000","field_start_timestamp_weight":"5893","field_end_timestamp":"1449291540","field_end_timestamp_weight":"9433"},{"field_prog_sched_time_start":"00:00","title":"<a href=\"\/programs\/the_newsroom\">The Newsroom<\/a>","field_day_prog_sched":"6","field_prog_sched_time_end":"00:29","field_prog_status":"20","field_start_timestamp":"1449291600","field_start_timestamp_weight":"9493","field_end_timestamp":"1449293340","field_end_timestamp_weight":"11233"},{"field_prog_sched_time_start":"00:30","title":"<a href=\"\/programs\/the_food_chain\">The Food Chain<\/a>","field_day_prog_sched":"6","field_prog_sched_time_end":"00:59","field_prog_status":"20","field_start_timestamp":"1449293400","field_start_timestamp_weight":"11293","field_end_timestamp":"1449295140","field_end_timestamp_weight":"13033"},{"field_prog_sched_time_start":"01:00","title":"<a href=\"\/programs\/weekend\">Weekend<\/a>","field_teaser":"<p>Latest national and international news, with reports from BBC correspondents worldwide.<\/p>","field_day_prog_sched":"6","field_prog_sched_time_end":"03:29","field_prog_status":"20","field_start_timestamp":"1449295200","field_start_timestamp_weight":"13093","field_end_timestamp":"1449304140","field_end_timestamp_weight":"22033"},{"field_prog_sched_time_start":"04:00","title":"<a href=\"\/programs\/outlook\">Outlook<\/a>","field_teaser":"<p><em>Outlook<\/em> with host Matthew Bannister is a daily half-hour human-interest current affairs program about individuals and their extraordinary stories.<\/p>","field_day_prog_sched":"6","field_prog_sched_time_end":"04:49","field_prog_status":"20","field_start_timestamp":"1449306000","field_start_timestamp_weight":"23893","field_end_timestamp":"1449308940","field_end_timestamp_weight":"26833"},{"field_prog_sched_time_start":"05:00","title":"<a href=\"\/programs\/with_good_reason\">With Good Reason<\/a>","field_teaser":"<p><em>With Good Reason<\/em> features in-depth interviews with leading scholars from Virgina's public universities about topics from the expanding universe to winemaking, and everything else in between.<\/p>","field_day_prog_sched":"6","field_prog_sched_time_end":"05:59","field_prog_status":"20","field_start_timestamp":"1449309600","field_start_timestamp_weight":"27493","field_end_timestamp":"1449313140","field_end_timestamp_weight":"31033"},{"field_prog_sched_time_start":"06:00","title":"<a href=\"\/programs\/latino_usa_0\">Latino USA<\/a>","field_day_prog_sched":"6","field_prog_sched_time_end":"06:59","field_prog_status":"20","field_start_timestamp":"1449313200","field_start_timestamp_weight":"31093","field_end_timestamp":"1449316740","field_end_timestamp_weight":"34633"},{"field_prog_sched_time_start":"08:00","title":"<a href=\"\/programs\/weekend_edition_saturday\">Weekend Edition Saturday<\/a>","field_teaser":"<p>Scott Simon hosts NPR's weekend morning newsmagazine.<\/p>","field_day_prog_sched":"6","field_prog_sched_time_end":"09:59","field_prog_status":"20","field_start_timestamp":"1449320400","field_start_timestamp_weight":"38293","field_end_timestamp":"1449327540","field_end_timestamp_weight":"45433"},{"field_prog_sched_time_start":"10:00","title":"<a href=\"\/programs\/car_talk\">Best Of Car Talk<\/a>","field_teaser":"<p>This irreverent talk show hosted by Tom &amp; Ray Magliozzi is about much more than car maintenance.<\/p>","field_day_prog_sched":"6","field_prog_sched_time_end":"10:59","field_prog_status":"20","field_start_timestamp":"1449327600","field_start_timestamp_weight":"45493","field_end_timestamp":"1449331140","field_end_timestamp_weight":"49033"},{"field_prog_sched_time_start":"11:00","title":"<a href=\"\/programs\/wait_waitdont_tell_me\">Wait Wait...Don&#039;t Tell Me!<\/a>","field_teaser":"<p>Peter Sagal hosts this weekly news quiz show. Each week you can test your knowledge against some of the best and brightest in the news and entertainment world while figuring out what's real news and what's made up.<\/p>","field_day_prog_sched":"6","field_prog_sched_time_end":"11:59","field_prog_status":"20","field_start_timestamp":"1449331200","field_start_timestamp_weight":"49093","field_end_timestamp":"1449334740","field_end_timestamp_weight":"52633"},{"field_prog_sched_time_start":"12:00","title":"<a href=\"\/programs\/the_dinner_party_download_0\">The Dinner Party Download<\/a>","field_day_prog_sched":"6","field_prog_sched_time_end":"12:59","field_prog_status":"20","field_start_timestamp":"1449334800","field_start_timestamp_weight":"52693","field_end_timestamp":"1449338340","field_end_timestamp_weight":"56233"},{"field_prog_sched_time_start":"13:00","title":"<a href=\"\/programs\/this_american_life\">This American Life<\/a>","field_teaser":"<p>Ira Glass hosts this show that features documentary-like stories about everyday life.<\/p>","field_day_prog_sched":"6","field_prog_sched_time_end":"13:59","field_prog_status":"20","field_start_timestamp":"1449338400","field_start_timestamp_weight":"56293","field_end_timestamp":"1449341940","field_end_timestamp_weight":"59833"},{"field_prog_sched_time_start":"14:00","title":"<a href=\"\/programs\/studio_360\">Studio 360<\/a>","field_teaser":"<p>Host Kurt Andersen takes a look at arts and culture.<\/p>","field_day_prog_sched":"6","field_prog_sched_time_end":"14:59","field_prog_status":"20","field_start_timestamp":"1449342000","field_start_timestamp_weight":"59893","field_end_timestamp":"1449345540","field_end_timestamp_weight":"63433"},{"field_prog_sched_time_start":"15:00","title":"<a href=\"\/programs\/the_splendid_table\">The Splendid Table<\/a>","field_teaser":"<p><em>The Splendid Table<\/em> is a culinary, culture, and lifestyle one-hour program that celebrates food and its ability to touch the lives and feed the souls of everyone.<\/p>","field_day_prog_sched":"6","field_prog_sched_time_end":"15:59","field_prog_status":"20","field_start_timestamp":"1449345600","field_start_timestamp_weight":"63493","field_end_timestamp":"1449349140","field_end_timestamp_weight":"67033"},{"field_prog_sched_time_start":"16:00","title":"<a href=\"\/programs\/day_6\">Day 6<\/a>","field_teaser":"<p>A weekly news magazine offering a wrap up of the week's news, pop culture, and entertainment from different perspectives.&nbsp;<\/p>","field_day_prog_sched":"6","field_prog_sched_time_end":"16:59","field_prog_status":"20","field_start_timestamp":"1449349200","field_start_timestamp_weight":"67093","field_end_timestamp":"1449352740","field_end_timestamp_weight":"70633"},{"field_prog_sched_time_start":"17:00","title":"<a href=\"\/programs\/all_things_considered\">All Things Considered<\/a>","field_teaser":"<p>Every weekday, <em>All Things Considered<\/em> hosts Audie Cornish, Kelly McEvers, Ari Shapiro, and Robert Siegel present the program's trademark mix of news, interviews, commentaries, reviews and offbeat features.<\/p>","field_day_prog_sched":"6","field_prog_sched_time_end":"17:59","field_prog_status":"20","field_start_timestamp":"1449352800","field_start_timestamp_weight":"70693","field_end_timestamp":"1449356340","field_end_timestamp_weight":"74233"},{"field_prog_sched_time_start":"18:00","title":"<a href=\"\/programs\/a_prairie_home_companion\">A Prairie Home Companion<\/a>","field_teaser":"<p>The only live music and variety show aired nationwide today.<\/p>","field_day_prog_sched":"6","field_prog_sched_time_end":"19:59","field_prog_status":"20","field_start_timestamp":"1449356400","field_start_timestamp_weight":"74293","field_end_timestamp":"1449363540","field_end_timestamp_weight":"81433"},{"field_prog_sched_time_start":"20:00","title":"<a href=\"\/programs\/hot_jazz_saturday_night\">Hot Jazz Saturday Night<\/a>","field_teaser":"<p>From 8 until 11 p.m., the air is filled with vintage jazz, swing, and big band recordings as host Rob Bamberger spotlights music from the '20s, '30s, and '40s.<\/p>","field_day_prog_sched":"6","field_prog_sched_time_end":"22:59","field_prog_status":"20","field_start_timestamp":"1449363600","field_start_timestamp_weight":"81493","field_end_timestamp":"1449374340","field_end_timestamp_weight":"92233"},{"field_prog_sched_time_start":"23:00","title":"<a href=\"\/programs\/jazz_inspired\">Judy Carmichael&#039;s Jazz Inspired<\/a>","field_day_prog_sched":"6","field_prog_sched_time_end":"23:59","field_prog_status":"20","field_start_timestamp":"1449374400","field_start_timestamp_weight":"92293","field_end_timestamp":"1449377940","field_end_timestamp_weight":"95833"}];
   wamu_onNowStationsJSON_ary.push(thisOnNowStationsJSON);
 </script>
 
@@ -322,24 +332,14 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   
 </div>                </div>
   
-                <div id="stationInfoArea-2" class="ui-tabs-hide">
-                  <div class="view view-now-playing view-id-now_playing view-display-id-headerwidget_885_2 onNowStationTab-2 view-dom-id-475589fe7554e9a5b5cdd700dc24bd00">
+                <div id="stationInfoArea-2">
+                  <div class="view view-now-playing view-id-now_playing view-display-id-headerwidget_885_2 onNowStationTab-2 view-dom-id-835aa5d2aa19fcbcef181634c5001318">
         
   
   
       <div class="view-content">
       
 <!-- BEGIN -->
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -352,7 +352,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                                            </div>
                     
                     <span class="wamuOnNowText-1">
-                      <a href="/programs/mountain_stage">Mountain Stage</a>                    </span>
+                      <a href="/programs/open_mic">Open Mic</a>                    </span>
                     
                   </div>
                   <div id="playerMiddle">
@@ -360,13 +360,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                   <div id="playerRight">
                   <div class="stationInfoNextOn later">
                     <span class="wamuOnNowText-2">
-                    7 PM - 9 PM<br><a href="/programs/home_town_special">Home Town Special</a>                    </span>
+                    10 PM - 1 AM<br><a href="/programs/vintage_programming">Vintage Programming</a>                    </span>
                   </div>
                   </div>
 				
 <script type="text/javascript">
   // Setup JSON output for this station. This will associate with the tab numbers from the station selector (shifted by 1 due to 0 initial index in array).
-  var thisOnNowStationsJSON = [{"field_prog_sched_time_start":"00:00","title":"<a href=\"\/programs\/the_dick_spottswood_show\">The Dick Spottswood Show<\/a>","field_teaser":"<p>Dick Spottswood highlights the many facets of folk culture in the United States on his two hour show.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"01:59","field_prog_status":"20","field_start_timestamp":"1435464000","field_start_timestamp_weight":"-61708","field_end_timestamp":"1435471140","field_end_timestamp_weight":"-54568"},{"field_prog_sched_time_start":"02:00","title":"<a href=\"\/programs\/fosters_corner\">Foster&#039;s Corner<\/a>","field_day_prog_sched":"7","field_prog_sched_time_end":"04:59","field_prog_status":"20","field_start_timestamp":"1435471200","field_start_timestamp_weight":"-54508","field_end_timestamp":"1435481940","field_end_timestamp_weight":"-43768"},{"field_prog_sched_time_start":"05:00","title":"<a href=\"\/programs\/editors_picks\">Editor&#039;s Picks<\/a>","field_teaser":"<p>Each week, WAMU's Bluegrass Country brings you exciting and diverse programs that highlight a particular artist or aspect of bluegrass.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"05:59","field_prog_status":"20","field_start_timestamp":"1435482000","field_start_timestamp_weight":"-43708","field_end_timestamp":"1435485540","field_end_timestamp_weight":"-40168"},{"field_prog_sched_time_start":"06:00","title":"<a href=\"\/programs\/stained_glass_bluegrass\">Stained Glass Bluegrass<\/a>","field_teaser":"<p>Host Gary Henderson presents your favorite bluegrass gospel numbers in the professional and dignified manner they deserve.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"09:59","field_prog_status":"20","field_start_timestamp":"1435485600","field_start_timestamp_weight":"-40108","field_end_timestamp":"1435499940","field_end_timestamp_weight":"-25768"},{"field_prog_sched_time_start":"10:00","title":"<a href=\"\/programs\/music_from_foggy_hollow\">Music From Foggy Hollow<\/a>","field_teaser":"<p>Every week Mike Kear broadcasts his show, <em>Music From Foggy Hollow,<\/em> on Sydney's Hawkesbury Radio and then packages it up and ships it to us.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"12:59","field_prog_status":"20","field_start_timestamp":"1435500000","field_start_timestamp_weight":"-25708","field_end_timestamp":"1435510740","field_end_timestamp_weight":"-14968"},{"field_prog_sched_time_start":"13:00","title":"<a href=\"\/programs\/a_prairie_home_companion\">A Prairie Home Companion<\/a>","field_teaser":"<p>The only live music and variety show aired nationwide today.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"14:59","field_prog_status":"20","field_start_timestamp":"1435510800","field_start_timestamp_weight":"-14908","field_end_timestamp":"1435517940","field_end_timestamp_weight":"-7768"},{"field_prog_sched_time_start":"15:00","title":"<a href=\"\/programs\/the_dick_spottswood_show\">The Dick Spottswood Show<\/a>","field_teaser":"<p>Dick Spottswood highlights the many facets of folk culture in the United States on his two hour show.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"16:59","field_prog_status":"20","field_start_timestamp":"1435518000","field_start_timestamp_weight":"-7708","field_end_timestamp":"1435525140","field_end_timestamp_weight":"-568"},{"field_prog_sched_time_start":"17:00","title":"<a href=\"\/programs\/mountain_stage\">Mountain Stage<\/a>","field_teaser":"<em>Mountain Stage<\/em> is an internationally-distributed weekly, two-hour live performance music radio program produced by West Virginia Public Broadcasting featuring some of the world\u2019s greatest artists in an intimate and relaxed atmosphere with a live-broadcast edge. Mountain Stage blends studio quality with live performance before a theater audience. Each program features four or five guests.","field_day_prog_sched":"7","field_prog_sched_time_end":"18:59","field_prog_status":"20","field_start_timestamp":"1435525200","field_start_timestamp_weight":"-508","field_end_timestamp":"1435532340","field_end_timestamp_weight":"6632"},{"field_prog_sched_time_start":"19:00","title":"<a href=\"\/programs\/home_town_special\">Home Town Special<\/a>","field_teaser":"<p>Hometown Special focuses on music from the late 1940s through to the early 1960s including everything from blues to bluegrass as well as R&amp;B, vocal groups, country, rockabilly, gospel quartets and more. Whatever it takes to trace songs, performers, and record companies backwards and forwards through this dynamic period in American musical history.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"20:59","field_prog_status":"20","field_start_timestamp":"1435532400","field_start_timestamp_weight":"6692","field_end_timestamp":"1435539540","field_end_timestamp_weight":"13832"},{"field_prog_sched_time_start":"22:00","title":"<a href=\"\/programs\/american_routes\">American Routes<\/a>","field_teaser":"<p>Produced in New Orleans, <em>American Routes<\/em> explores the shared stylistic and cultural threads of our nation's music and how they are distinguished, including blues and jazz, gospel and soul, old-time country and rockabilly, Cajun and zydeco, Tejano and Latin, roots rock and pop, avant-garde and classical.<\/p>","field_day_prog_sched":"7","field_prog_sched_time_end":"23:59","field_prog_status":"20","field_start_timestamp":"1435543200","field_start_timestamp_weight":"17492","field_end_timestamp":"1435550340","field_end_timestamp_weight":"24632"},{"field_prog_sched_time_start":"00:00","title":"<a href=\"\/programs\/editors_picks\">Editor&#039;s Picks<\/a>","field_teaser":"<p>Each week, WAMU's Bluegrass Country brings you exciting and diverse programs that highlight a particular artist or aspect of bluegrass.<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"00:59","field_prog_status":"20","field_start_timestamp":"1435550400","field_start_timestamp_weight":"24692","field_end_timestamp":"1435553940","field_end_timestamp_weight":"28232"},{"field_prog_sched_time_start":"01:00","title":"<a href=\"\/programs\/the_katy_daley_show\">The Katy Daley Show<\/a>","field_teaser":"<p>Katy brings more than 25 years of radio experience to celebrate the music through interviews and features such as Musician's Tips and Gems of Bluegrass.<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"02:59","field_prog_status":"20","field_start_timestamp":"1435554000","field_start_timestamp_weight":"28292","field_end_timestamp":"1435561140","field_end_timestamp_weight":"35432"},{"field_prog_sched_time_start":"03:00","title":"<a href=\"\/programs\/the_lee_michael_demsey_show\">The Lee Michael Demsey Show<\/a>","field_teaser":"<p>Lee has hosted bluegrass programs on WAMU 88.5's airwaves for over 25 years. He continues his tradition of spinning contemporary bluegrass for you, live in the studio, each weekday. His Saturday program focuses on the great singer\/songwriters in bluegrass and acoustic music.<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"06:59","field_prog_status":"20","field_start_timestamp":"1435561200","field_start_timestamp_weight":"35492","field_end_timestamp":"1435575540","field_end_timestamp_weight":"49832"},{"field_prog_sched_time_start":"07:00","title":"<a href=\"\/programs\/the_katy_daley_show\">The Katy Daley Show<\/a>","field_teaser":"<p>Katy brings more than 25 years of radio experience to celebrate the music through interviews and features such as Musician's Tips and Gems of Bluegrass.<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"09:59","field_prog_status":"20","field_start_timestamp":"1435575600","field_start_timestamp_weight":"49892","field_end_timestamp":"1435586340","field_end_timestamp_weight":"60632"},{"field_prog_sched_time_start":"10:00","title":"<a href=\"\/programs\/bluegrass_breakdown\">Bluegrass Breakdown<\/a>","field_teaser":"<p>Dave Higgs brings listeners an emotionally charged, heartrending, paint-peeling, splinter-kicking one hour bluegrass show.<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"10:59","field_prog_status":"20","field_start_timestamp":"1435586400","field_start_timestamp_weight":"60692","field_end_timestamp":"1435589940","field_end_timestamp_weight":"64232"},{"field_prog_sched_time_start":"11:00","title":"<a href=\"\/programs\/bluegrass_signal\">Bluegrass Signal<\/a>","field_teaser":"<p>Produced in Oakland, Cal., Peter Thompson brings you an hour-long themed show filled with classic as well as recent bluegrass releases, background information and lots of music from the \"left coast.\"<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"11:59","field_prog_status":"20","field_start_timestamp":"1435590000","field_start_timestamp_weight":"64292","field_end_timestamp":"1435593540","field_end_timestamp_weight":"67832"},{"field_prog_sched_time_start":"12:00","title":"<a href=\"\/programs\/the_gary_henderson_show\">The Gary Henderson Show<\/a>","field_teaser":"<p>Gary Henderson, 1999 IBMA \"Broadcast Personality of the Year\" and co-founder of <em>Bluegrass Unlimited<\/em> magazine, has been involved in bluegrass programming at WAMU since 1967.<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"14:59","field_prog_status":"20","field_start_timestamp":"1435593600","field_start_timestamp_weight":"67892","field_end_timestamp":"1435604340","field_end_timestamp_weight":"78632"},{"field_prog_sched_time_start":"15:00","title":"<a href=\"\/programs\/the_lee_michael_demsey_show\">The Lee Michael Demsey Show<\/a>","field_teaser":"<p>Lee has hosted bluegrass programs on WAMU 88.5's airwaves for over 25 years. He continues his tradition of spinning contemporary bluegrass for you, live in the studio, each weekday. His Saturday program focuses on the great singer\/songwriters in bluegrass and acoustic music.<\/p>","field_day_prog_sched":"1","field_prog_sched_time_end":"18:59","field_prog_status":"20","field_start_timestamp":"1435604400","field_start_timestamp_weight":"78692","field_end_timestamp":"1435618740","field_end_timestamp_weight":"93032"},{"field_prog_sched_time_start":"19:00","title":"<a href=\"\/programs\/fosters_corner\">Foster&#039;s Corner<\/a>","field_day_prog_sched":"1","field_prog_sched_time_end":"21:59","field_prog_status":"20","field_start_timestamp":"1435618800","field_start_timestamp_weight":"93092","field_end_timestamp":"1435629540","field_end_timestamp_weight":"103832"},{"field_prog_sched_time_start":"22:00","title":"<a href=\"\/programs\/vintage_programming\">Vintage Programming<\/a>","field_day_prog_sched":"1","field_prog_sched_time_end":"00:59","field_prog_status":"20","field_start_timestamp":"1435629600","field_start_timestamp_weight":"103892","field_end_timestamp":"1435640340","field_end_timestamp_weight":"114632"}];
+  var thisOnNowStationsJSON = [{"field_prog_sched_time_start":"01:00","title":"<a href=\"\/programs\/the_katy_daley_show\">The Katy Daley Show<\/a>","field_teaser":"<p>Katy brings more than 25 years of radio experience to celebrate the music through interviews and features such as Musician's Tips and Gems of Bluegrass.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"02:59","field_prog_status":"20","field_start_timestamp":"1449208800","field_start_timestamp_weight":"-73307","field_end_timestamp":"1449215940","field_end_timestamp_weight":"-66167"},{"field_prog_sched_time_start":"03:00","title":"<a href=\"\/programs\/the_lee_michael_demsey_show\">The Lee Michael Demsey Show<\/a>","field_teaser":"<p>Lee has hosted bluegrass programs on WAMU 88.5's airwaves for over 25 years. He continues his tradition of spinning contemporary bluegrass for you, live in the studio, each weekday. His Saturday program focuses on the great singer\/songwriters in bluegrass and acoustic music.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"06:59","field_prog_status":"20","field_start_timestamp":"1449216000","field_start_timestamp_weight":"-66107","field_end_timestamp":"1449230340","field_end_timestamp_weight":"-51767"},{"field_prog_sched_time_start":"07:00","title":"<a href=\"\/programs\/the_katy_daley_show\">The Katy Daley Show<\/a>","field_teaser":"<p>Katy brings more than 25 years of radio experience to celebrate the music through interviews and features such as Musician's Tips and Gems of Bluegrass.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"09:59","field_prog_status":"20","field_start_timestamp":"1449230400","field_start_timestamp_weight":"-51707","field_end_timestamp":"1449241140","field_end_timestamp_weight":"-40967"},{"field_prog_sched_time_start":"10:00","title":"<a href=\"\/programs\/bluegrass_breakdown\">Bluegrass Breakdown<\/a>","field_teaser":"<p>Dave Higgs brings listeners an emotionally charged, heartrending, paint-peeling, splinter-kicking one hour bluegrass show.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"10:59","field_prog_status":"20","field_start_timestamp":"1449241200","field_start_timestamp_weight":"-40907","field_end_timestamp":"1449244740","field_end_timestamp_weight":"-37367"},{"field_prog_sched_time_start":"11:00","title":"<a href=\"\/programs\/bluegrass_signal\">Bluegrass Signal<\/a>","field_teaser":"<p>Produced in Oakland, Cal., Peter Thompson brings you an hour-long themed show filled with classic as well as recent bluegrass releases, background information and lots of music from the \"left coast.\"<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"11:59","field_prog_status":"20","field_start_timestamp":"1449244800","field_start_timestamp_weight":"-37307","field_end_timestamp":"1449248340","field_end_timestamp_weight":"-33767"},{"field_prog_sched_time_start":"12:00","title":"<a href=\"\/programs\/old_time_jam\">Old Time Jam<\/a>","field_teaser":"<p>Banjo player and old time enthusiast Rosemarie Nielsen highlights the genre that preceded bluegrass; old time.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"14:59","field_prog_status":"20","field_start_timestamp":"1449248400","field_start_timestamp_weight":"-33707","field_end_timestamp":"1449259140","field_end_timestamp_weight":"-22967"},{"field_prog_sched_time_start":"15:00","title":"<a href=\"\/programs\/the_lee_michael_demsey_show\">The Lee Michael Demsey Show<\/a>","field_teaser":"<p>Lee has hosted bluegrass programs on WAMU 88.5's airwaves for over 25 years. He continues his tradition of spinning contemporary bluegrass for you, live in the studio, each weekday. His Saturday program focuses on the great singer\/songwriters in bluegrass and acoustic music.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"18:59","field_prog_status":"20","field_start_timestamp":"1449259200","field_start_timestamp_weight":"-22907","field_end_timestamp":"1449273540","field_end_timestamp_weight":"-8567"},{"field_prog_sched_time_start":"19:00","title":"<a href=\"\/programs\/editors_picks\">Editor&#039;s Picks<\/a>","field_teaser":"<p>Each week, WAMU's Bluegrass Country brings you exciting and diverse programs that highlight a particular artist or aspect of bluegrass.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"19:59","field_prog_status":"20","field_start_timestamp":"1449273600","field_start_timestamp_weight":"-8507","field_end_timestamp":"1449277140","field_end_timestamp_weight":"-4967"},{"field_prog_sched_time_start":"20:00","title":"<a href=\"\/programs\/open_mic\">Open Mic<\/a>","field_teaser":"<p>This Bluegrass Country show features a rotating cast of hosts and themes.<\/p>","field_day_prog_sched":"5","field_prog_sched_time_end":"21:59","field_prog_status":"20","field_start_timestamp":"1449277200","field_start_timestamp_weight":"-4907","field_end_timestamp":"1449284340","field_end_timestamp_weight":"2233"},{"field_prog_sched_time_start":"22:00","title":"<a href=\"\/programs\/vintage_programming\">Vintage Programming<\/a>","field_day_prog_sched":"5","field_prog_sched_time_end":"00:59","field_prog_status":"20","field_start_timestamp":"1449284400","field_start_timestamp_weight":"2293","field_end_timestamp":"1449295140","field_end_timestamp_weight":"13033"},{"field_prog_sched_time_start":"01:00","title":"<a href=\"\/programs\/american_routes\">American Routes<\/a>","field_teaser":"<p>Produced in New Orleans, <em>American Routes<\/em> explores the shared stylistic and cultural threads of our nation's music and how they are distinguished, including blues and jazz, gospel and soul, old-time country and rockabilly, Cajun and zydeco, Tejano and Latin, roots rock and pop, avant-garde and classical.<\/p>","field_day_prog_sched":"6","field_prog_sched_time_end":"02:59","field_prog_status":"20","field_start_timestamp":"1449295200","field_start_timestamp_weight":"13093","field_end_timestamp":"1449302340","field_end_timestamp_weight":"20233"},{"field_prog_sched_time_start":"03:00","title":"<a href=\"\/programs\/the_al_steiner_show\">The Al Steiner Show<\/a>","field_teaser":"<p>Each week, host Al Steiner brings us three hours and a great mix of bluegrass, country and American roots music.<\/p>","field_day_prog_sched":"6","field_prog_sched_time_end":"05:59","field_prog_status":"20","field_start_timestamp":"1449302400","field_start_timestamp_weight":"20293","field_end_timestamp":"1449313140","field_end_timestamp_weight":"31033"},{"field_prog_sched_time_start":"06:00","title":"<a href=\"\/programs\/open_mic\">Open Mic<\/a>","field_teaser":"<p>This Bluegrass Country show features a rotating cast of hosts and themes.<\/p>","field_day_prog_sched":"6","field_prog_sched_time_end":"07:59","field_prog_status":"20","field_start_timestamp":"1449313200","field_start_timestamp_weight":"31093","field_end_timestamp":"1449320340","field_end_timestamp_weight":"38233"},{"field_prog_sched_time_start":"08:00","title":"<a href=\"\/programs\/the_gary_henderson_show\">The Gary Henderson Show<\/a>","field_teaser":"<p>Gary Henderson, 1999 IBMA \"Broadcast Personality of the Year\" and co-founder of <em>Bluegrass Unlimited<\/em> magazine, has been involved in bluegrass programming at WAMU since 1967.<\/p>","field_day_prog_sched":"6","field_prog_sched_time_end":"10:59","field_prog_status":"20","field_start_timestamp":"1449320400","field_start_timestamp_weight":"38293","field_end_timestamp":"1449331140","field_end_timestamp_weight":"49033"},{"field_prog_sched_time_start":"11:00","title":"<a href=\"\/programs\/stiles_of_bluegrass\">Stiles Of Bluegrass<\/a>","field_day_prog_sched":"6","field_prog_sched_time_end":"13:59","field_prog_status":"20","field_start_timestamp":"1449331200","field_start_timestamp_weight":"49093","field_end_timestamp":"1449341940","field_end_timestamp_weight":"59833"},{"field_prog_sched_time_start":"14:00","title":"<a href=\"\/programs\/the_ramona_martinez_show\">The Ramona Martinez Show<\/a>","field_day_prog_sched":"6","field_prog_sched_time_end":"15:59","field_prog_status":"20","field_start_timestamp":"1449342000","field_start_timestamp_weight":"59893","field_end_timestamp":"1449349140","field_end_timestamp_weight":"67033"},{"field_prog_sched_time_start":"16:00","title":"<a href=\"\/programs\/the_trail_ride_with_texas_fred_carter\">The Trail Ride With Texas Fred Carter<\/a>","field_day_prog_sched":"6","field_prog_sched_time_end":"17:59","field_prog_status":"20","field_start_timestamp":"1449349200","field_start_timestamp_weight":"67093","field_end_timestamp":"1449356340","field_end_timestamp_weight":"74233"},{"field_prog_sched_time_start":"18:00","title":"<a href=\"\/programs\/the_thistle_and_shamrock\">The Thistle and Shamrock<\/a>","field_teaser":"<p>Fiona Ritchie hosts this celtic music program.<\/p>","field_day_prog_sched":"6","field_prog_sched_time_end":"18:59","field_prog_status":"20","field_start_timestamp":"1449356400","field_start_timestamp_weight":"74293","field_end_timestamp":"1449359940","field_end_timestamp_weight":"77833"},{"field_prog_sched_time_start":"19:00","title":"<a href=\"\/programs\/editors_picks\">Editor&#039;s Picks<\/a>","field_teaser":"<p>Each week, WAMU's Bluegrass Country brings you exciting and diverse programs that highlight a particular artist or aspect of bluegrass.<\/p>","field_day_prog_sched":"6","field_prog_sched_time_end":"19:59","field_prog_status":"20","field_start_timestamp":"1449360000","field_start_timestamp_weight":"77893","field_end_timestamp":"1449363540","field_end_timestamp_weight":"81433"},{"field_prog_sched_time_start":"20:00","title":"<a href=\"\/programs\/bluegrass_review\">Bluegrass Review<\/a>","field_teaser":"<p>Hosted by Phil Nusbaum, the <em>Bluegrass Review<\/em> presents bluegrass in an engaging, entertaining and informative package.<\/p>","field_day_prog_sched":"6","field_prog_sched_time_end":"20:59","field_prog_status":"20","field_start_timestamp":"1449363600","field_start_timestamp_weight":"81493","field_end_timestamp":"1449367140","field_end_timestamp_weight":"85033"},{"field_prog_sched_time_start":"21:00","title":"<a href=\"\/programs\/the_brad_kolodner_show\">The Brad Kolodner Show<\/a>","field_day_prog_sched":"6","field_prog_sched_time_end":"23:59","field_prog_status":"20","field_start_timestamp":"1449367200","field_start_timestamp_weight":"85093","field_end_timestamp":"1449377940","field_end_timestamp_weight":"95833"}];
   wamu_onNowStationsJSON_ary.push(thisOnNowStationsJSON);
 </script>
 
@@ -381,7 +381,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   
   
 </div>                </div>
-
+  
                </div>
               </div>
  
@@ -404,7 +404,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   <div class="region region-navigation">
     
 <!-- BEGIN [module=block] [block=17] -->
-<div id="block-block-17" class="block block-block first odd">
+<div id="block-block-17" class="block block-block first last odd">
 
       
   <div class="content">
@@ -422,9 +422,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 								<img class="content-section-host-img" src="/sites/wamu.org/themes/wamu_dh_zen/dh/images/rehm.jpg">
 								<div class="programs-section-latest-shows-wrap">
 									<span class="latest-shows-title">Latest Shows</span>
-									<div class="item-list"><ul><li class="first"><a href="http://feeds.wamu.org/~r/WAMU885DianeRehm/~3/gPtC4KYeIe8/friday-news-roundup-international">Friday News Roundup - International</a>
+									<div class="item-list"><ul><li class="first"><a href="http://feeds.wamu.org/~r/WAMU885DianeRehm/~3/ZTWIMSQRXxs/friday-news-roundup-international">Friday News Roundup - International</a>
 </li>
-<li class="last"><a href="http://feeds.wamu.org/~r/WAMU885DianeRehm/~3/8x899EImWes/friday-news-roundup-domestic">Friday News Roundup - Domestic</a>
+<li class="last"><a href="http://feeds.wamu.org/~r/WAMU885DianeRehm/~3/qXxH96ok8mk/friday-news-roundup-domestic">Friday News Roundup - Domestic</a>
 </li>
 </ul></div><div class="more-link"><a href="/aggregator/sources/4" title="View this feed's recent news.">More</a></div>	
 								</div>
@@ -438,9 +438,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 								<img class="content-section-host-img" src="/sites/wamu.org/themes/wamu_dh_zen/dh/images/kojo_orange.jpg">
 								<div class="programs-section-latest-shows-wrap">
 									<span class="latest-shows-title">Latest Shows</span>
-									<div class="item-list"><ul><li class="first"><a href="http://thekojonnamdishow.org/shows/2015-06-26/the-politics-hour-june-26-2015">The Politics Hour - June 26, 2015</a>
+									<div class="item-list"><ul><li class="first"><a href="http://thekojonnamdishow.org/shows/2015-12-04/the-politics-hour-december-4-2015">The Politics Hour - December 4, 2015</a>
 </li>
-<li class="last"><a href="http://thekojonnamdishow.org/shows/2015-06-25/redesigning-the-ten-dollar-bill">A Woman on the $10 Bill?</a>
+<li class="last"><a href="http://thekojonnamdishow.org/shows/2015-12-03/ta-nehisi-coates-on-race-justice-and-finding-a-voice-in-local-d-c-rebroadcast">Ta-Nehisi Coates On Race, Justice And Finding A Voice In Local D.C. (Rebroadcast)</a>
 </li>
 </ul></div><div class="more-link"><a href="/aggregator/sources/5" title="View this feed's recent news.">More</a></div>	
 								</div>
@@ -575,7 +575,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 											<a class="dropdown-link second-list-link" href="https://twitter.com/wamu885"><img src="/sites/wamu.org/themes/wamu_dh_zen/dh/images/comm_tw.png" border="0" class="commicon">Twitter</a>
 										</li>
 										<li class="content-section-program-list-item second-list-item">
-											<a class="dropdown-link second-list-link" href="http://www.flickr.com/photos/wamu885/"><img src="/sites/wamu.org/themes/wamu_dh_zen/dh/images/comm_fl.png" border="0" class="commicon">Flicker</a>
+											<a class="dropdown-link second-list-link" href="http://www.flickr.com/photos/wamu885/"><img src="/sites/wamu.org/themes/wamu_dh_zen/dh/images/comm_fl.png" border="0" class="commicon">Flickr</a>
 										</li>
 									
 									</ul>
@@ -638,41 +638,45 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 </div><!-- /.block -->
 
 <!-- END [module=block] [block=17] -->
+  </div><!-- /.region -->
 
+<!-- END -->
+    </div><!-- end .grid_15 -->
+    <div class="grid_10 z-index1 clearfix">
+      <div id="content" class="column">
+        <div class="section clearfix">
+          
+<!-- BEGIN -->
+
+  <div class="region region-highlighted">
+    
 <!-- BEGIN [module=views] [block=quick_links-block] -->
-<div id="block-views-quick-links-block" class="block block-views last even">
+<div id="block-views-quick-links-block" class="block block-views first last odd">
 
       
   <div class="content">
-    <div class="view view-quick-links view-id-quick_links view-display-id-block quicklinks view-dom-id-beb1f780dd8322293fa5ec5fcab72eec">
+    <div class="view view-quick-links view-id-quick_links view-display-id-block quicklinks view-dom-id-8fa63c33dbc064567a232bf2f22e0f47">
             <div class="view-header">
-      <div class="quicklinkslabel">QUICK LINKS:</div>    </div>
+      <div class="quicklinkslabel">Quick Links</div>    </div>
   
   
   
       <div class="view-content">
       <div class="quicklinksLeft">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
-          <a href="/programs/the_big_broadcast">Big Broadcast</a>  </li>
+          <a href="/programs/metro_connection/15/12/04/this_week_on_metro_connection_dec_4_2015">Metro Connection: Dec. 4</a>  </li>
           <li class="views-row views-row-2 views-row-even">  
+          <a href="/programs/the_big_broadcast">Big Broadcast</a>  </li>
+          <li class="views-row views-row-3 views-row-odd">  
           <a href="/programs/hot_jazz_saturday_night">Hot Jazz</a>  </li>
-          <li class="views-row views-row-3 views-row-odd views-row-last">  
+          <li class="views-row views-row-4 views-row-even">  
+          <a href="/news/15/10/28/saying_goodbye_to_ed_walker">Ed Walker</a>  </li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
           <a href="/news/15/03/27/wamus_bandwidth">Bandwidth.fm</a>  </li>
       </ul></div>    </div>
   
   
   
   
-      <div class="view-footer">
-      
-<!-- BEGIN: Views: Quick Links: Footer -->
-
-        <div class="quicklinksRight">
-        	<a href="/weather" title="Weather"><img src="/sites/wamu.org/themes/wamu_dh_zen/dh/images/icon_weather.jpg" border="0" alt="Weather"></a><a href="http://wamu.fm/wamutraffic" target="_blank" title="Traffic"><img src="/sites/wamu.org/themes/wamu_dh_zen/dh/images/icon_traffic.jpg" border="0" alt="Traffic"></a><a href="http://wamu.fm/wamuwmatastatus" target="_blank" title="Metro"><img src="/sites/wamu.org/themes/wamu_dh_zen/dh/images/icon_metro.jpg" border="0" alt="Metro"></a>
-        </div>
-
-
-<!-- END: Views: Quick Links: Footer -->
-    </div>
   
   
 </div>  </div>
@@ -683,11 +687,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   </div><!-- /.region -->
 
 <!-- END -->
-    </div><!-- end .grid_15 -->
-    <div class="grid_10 z-index1 clearfix">
-      <div id="content" class="column">
-        <div class="section clearfix">
-                    <a id="main-content"></a>
+          <a id="main-content"></a>
                               <!-- <h1 class="title" id="page-title">Privacy Policy</h1> -->
                                                             
 
@@ -757,11 +757,11 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 			<div class="listenbarRight">
 				<div class="addthis_toolbox addthis_default_style" style="text-align: right;">
 	      <a class="addthis_button_google_plusone" g:plusone:size="medium" g:plusone:count="false" style="width: 33px;"></a>
-	      <a class="addthis_button_facebook"><img src="http://cache.addthiscdn.com/icons/v1/thumbs/32x32/facebook.png" border="0" width="21" height="21"></a>
-	      <a class="addthis_button_twitter"><img src="http://cache.addthiscdn.com/icons/v1/thumbs/32x32/twitter.png" border="0" width="21" height="21"></a>
-	      <a class="addthis_button_email"><img src="http://cache.addthiscdn.com/icons/v1/thumbs/32x32/email.png" border="0" width="21" height="21"></a>
-	      <a class="addthis_button_print"><img src="http://cache.addthiscdn.com/icons/v1/thumbs/32x32/print.png" border="0" width="21" height="21"></a>
-				<a class="addthis_button_compact"><img src="http://cache.addthiscdn.com/icons/v1/thumbs/32x32/menu.png" border="0" width="21" height="21"></a>
+	      <a class="addthis_button_facebook"><img src="//cache.addthiscdn.com/icons/v1/thumbs/32x32/facebook.png" border="0" width="21" height="21"></a>
+	      <a class="addthis_button_twitter"><img src="//cache.addthiscdn.com/icons/v1/thumbs/32x32/twitter.png" border="0" width="21" height="21"></a>
+	      <a class="addthis_button_email"><img src="//cache.addthiscdn.com/icons/v1/thumbs/32x32/email.png" border="0" width="21" height="21"></a>
+	      <a class="addthis_button_print"><img src="//cache.addthiscdn.com/icons/v1/thumbs/32x32/print.png" border="0" width="21" height="21"></a>
+				<a class="addthis_button_compact"><img src="//cache.addthiscdn.com/icons/v1/thumbs/32x32/menu.png" border="0" width="21" height="21"></a>
 	    </div>			</div>
 	        		  </div>
       </div>
@@ -924,7 +924,7 @@ feedback@wamu.org.<br>
 
 
 
-<div class="view view-article-follow-up view-id-article_follow_up view-display-id-block view-dom-id-3575a91ede63a6a176a60c1e8651809c">
+<div class="view view-article-follow-up view-id-article_follow_up view-display-id-block view-dom-id-b475149d77b83ba87ef4c9fe9fba24b5">
       <div class="view-content">
       <div class="minigenblock">
         <div class="blockheader">
@@ -943,8 +943,8 @@ feedback@wamu.org.<br>
 
 <!-- END -->
     
-          <h3 class="field-content"><a href="/programs/weekend_edition_sunday/15/06/28/where_theres_a_will_theres_a_way_to_solve_this_puzzle">Where There's A Will There's A Way To Solve This Puzzle</a></h3>    
-          For every word provided (all starting with the letter "W"), give a proverb or saying that contains that word.    </div>
+          <h3 class="field-content"><a href="/programs/all_things_considered/15/12/04/nbc_raises_its_musical_game_with_the_wiz_live">NBC Raises Its Musical Game With 'The Wiz Live'</a></h3>    
+          NPR TV critic Eric Deggans says NBC's production of <em>The Wiz </em>was "fully and fearlessly filled with blackness."    </div>
       </div>
     </div>
   </div>
@@ -965,7 +965,7 @@ feedback@wamu.org.<br>
 
 
 
-<div class="view view-article-follow-up view-id-article_follow_up view-display-id-block_2 view-dom-id-d1663e2296f61a9de95cad24fda1b95a">
+<div class="view view-article-follow-up view-id-article_follow_up view-display-id-block_2 view-dom-id-d8a8e9f998b93f62a776b8073791e133">
       <div class="view-content">
       <div class="minigenblock">
         <div class="blockheader">
@@ -984,8 +984,8 @@ feedback@wamu.org.<br>
 
 <!-- END -->
     
-          <h3 class="field-content"><a href="/programs/weekend_edition_sunday/15/06/28/do_try_this_at_home_hacking_ribs_in_the_pressure_cooker">Do Try This At Home: Hacking Ribs — In The Pressure Cooker</a></h3>    
-          Tender, smoky, fall-off-the-bone ribs can take three or four hours to make the traditional way. But Baltimore chef Shirlé Koslowski uses a pressure cooker to get all that flavor in only an hour.    </div>
+          <h3 class="field-content"><a href="/news/15/12/04/nprreads_jihadist_culture_turkish_delight_and_a_christian_abortion_provider">#NPRreads: Jihadist Culture, Turkish Delight And A Christian Abortion Provider</a></h3>    
+          Also this week: How classic video games are teaching computers to learn.    </div>
       </div>
     </div>
   </div>
@@ -1010,7 +1010,7 @@ feedback@wamu.org.<br>
 
 
 
-<div class="view view-article-follow-up view-id-article_follow_up view-display-id-block_1 view-dom-id-31ed419aa451cd03806f2cfb4659d55d">
+<div class="view view-article-follow-up view-id-article_follow_up view-display-id-block_1 view-dom-id-5a3a5ca7d60caeacd1d2dd436cd2fab6">
       <div class="view-content">
       <div class="minigenblock">
         <div class="blockheader">
@@ -1023,14 +1023,15 @@ feedback@wamu.org.<br>
 
 <!-- BEGIN -->
 
-          	<div class="supertitle">NPR</div>    
+          	<div class="supertitle">WAMU 88.5</div>    
 <!-- END -->
 
 
 <!-- END -->
     
-          <h3 class="field-content"><a href="/news/15/06/28/texas_defends_a_womans_right_to_take_her_placenta_home">Texas Defends A Woman's Right To Take Her Placenta Home</a></h3>    
-          Texas now explicitly allows the placenta to be taken home after giving birth in a hospital. It came about at the urging of people who feel consuming dried and encapsulated placenta helps new mothers.    </div>
+          <h3 class="field-content"><a href="/news/15/12/04/dc_officials_criticize_rand_paul_s_attempt_to_legalize_concealed_weapons_in_the_capital">D.C. Officials Criticize Rand Paul’s Attempt To Legalize Concealed Weapons In The Capital</a></h3>    
+          <div class="field-content tn"><a href="/news/15/12/04/dc_officials_criticize_rand_paul_s_attempt_to_legalize_concealed_weapons_in_the_capital"><img typeof="foaf:Image" src="http://wamu.org/sites/wamu.org/files/styles/thumbnail/public/images/attach/rand-paul-ap.png?itok=xPuni5XL" width="64" height="64" alt=""></a></div>    
+          Republican Sen. Rand Paul of Kentucky introduced a bill to let people carry concealed handguns around the city. The proposal would gut D.C.'s tough gun laws. "Sen. Rand Paul's hypocrisy apparently knows no bounds," says D.C. Delegate Eleanor Holmes Norton.    </div>
       </div>
     </div>
   </div>
@@ -1051,7 +1052,7 @@ feedback@wamu.org.<br>
 
 
 
-<div class="view view-article-follow-up view-id-article_follow_up view-display-id-block_3 view-dom-id-74bb0a8c54a59e1bf04d3d53724d5713">
+<div class="view view-article-follow-up view-id-article_follow_up view-display-id-block_3 view-dom-id-7f7285fcdb6e0509bd6b813d1c573958">
       <div class="view-content">
       <div class="minigenblock">
         <div class="blockheader">
@@ -1070,8 +1071,8 @@ feedback@wamu.org.<br>
 
 <!-- END -->
     
-          <h3 class="field-content"><a href="/news/15/06/28/when_it_comes_to_learning_for_the_deaf_its_a_3_d_language">When It Comes To Learning For The Deaf, 'It's A 3-D Language'</a></h3>    
-          English nursery rhymes don't translate well to ASL, a visual language. One team is merging high tech with cognitive research to improve language learning for deaf and hard of hearing children.    </div>
+          <h3 class="field-content"><a href="/news/15/12/04/nprreads_jihadist_culture_turkish_delight_and_a_christian_abortion_provider">#NPRreads: Jihadist Culture, Turkish Delight And A Christian Abortion Provider</a></h3>    
+          Also this week: How classic video games are teaching computers to learn.    </div>
       </div>
     </div>
   </div>
@@ -1129,8 +1130,37 @@ feedback@wamu.org.<br>
 
   <div class="region region-sidebar-first column sidebar"><div class="section">
     
+<!-- BEGIN [module=block] [block=52] -->
+<div id="block-block-52" class="block block-block first odd">
+
+      
+  <div class="content">
+    
+<div class="sidebar-top-links clearfix weather-traffic-metro">
+
+        <a class="sidebar-top-link" href="/weather" title="Weather">
+                 <span class="weather-information condition-code">
+                            6                 </span>
+                 <span class="weather-information temperature">
+                            36°
+                 </span>
+                 <span class="weather-information weather">Weather</span>
+
+        </a>
+
+        <!--a class="sidebar-top-link text-link" href="/traffic" target="_blank" title="Traffic">Traffic</a-->
+
+        <a class="sidebar-top-link text-link" href="/metro-alerts" title="Metro Alerts">Metro Alerts</a>
+
+</div>
+  </div>
+
+</div><!-- /.block -->
+
+<!-- END [module=block] [block=52] -->
+
 <!-- BEGIN [module=block] [block=28] -->
-<div id="block-block-28" class="block block-block first odd">
+<div id="block-block-28" class="block block-block even">
 
       
   <div class="content">
@@ -1161,7 +1191,7 @@ feedback@wamu.org.<br>
   <label for="edit-query">Enter your keywords </label>
  <input type="text" id="edit-query" name="query" value="" size="40" maxlength="128" class="form-text">
 </div>
-<input type="submit" id="edit-sa" name="op" value="Search" class="form-submit"><input type="hidden" name="form_build_id" value="form-u5YsysCsTvlBQKmzERiIXUf1XAcxjedhggoutYogG0c">
+<input type="submit" id="edit-sa" name="op" value="Search" class="form-submit"><input type="hidden" name="form_build_id" value="form-zh9uF3Y4hqsMLJ-7R2mUXDAVIDxy6u1s5vz4dFZY0Y8">
 <input type="hidden" name="form_id" value="google_cse_results_searchbox_form">
 </div></form>
 <div id="google-cse-results">
@@ -1175,92 +1205,61 @@ feedback@wamu.org.<br>
 
 <!-- END [module=block] [block=28] -->
 
-<!-- BEGIN [module=views] [block=carousel-block_1] -->
-<div id="block-views-carousel-block-1" class="block block-views even">
+<!-- BEGIN [module=block] [block=53] -->
+<div id="block-block-53" class="block block-block odd">
 
       
   <div class="content">
-    <div class="view view-carousel view-id-carousel view-display-id-block_1 sidebarContainer wamu-promo-sidebar view-dom-id-501098e6d23030750181a57a74d0a530">
-        
+    <!-- Underwriting 300x250 Ad -->
+<div class="sidebarContainer">
+  <div class="supportbanner">Support for WAMU 88.5 is provided by</div>
+
+
+<!-- WAMU_site_300x250 -->
+<div id="div-gpt-ad-1386877688844-0" style="width:300px; height:250px;">
+<script type="text/javascript">
+googletag.display('div-gpt-ad-1386877688844-0');
+</script>
+</div>
+
+
+<div style="height: 10px; clear:both;">&nbsp;</div>
+<div class="sponsorlink"><a href="http://wamu.org/support/underwriting">Become a corporate sponsor</a></div>
+
+</div>
+  </div>
+
+</div><!-- /.block -->
+
+<!-- END [module=block] [block=53] -->
+
+<!-- BEGIN [module=views] [block=sidebar_top_news-block] -->
+<div id="block-views-sidebar-top-news-block" class="block block-views even">
+
+      
+  <div class="content">
+    <div class="view view-sidebar-top-news view-id-sidebar_top_news view-display-id-block view-dom-id-b1c30203fa1d2ceab42bc695fbd86ae2">
+            <div class="view-header">
+      <h4 class="sidebar">TOP NEWS</h4>    </div>
+  
   
   
       <div class="view-content">
-      <ul class="jcarousel jcarousel-view--carousel--block-1 jcarousel-dom-1 jcarousel-skin-wamu_promo_sidebar">
-      <li class="jcarousel-item-1 odd">  
-          <div class="field-content tn"><a href="/programs/metro_connection/15/06/12/the_long_hot_summer_ahead_for_dcs_homeless_children"><img typeof="foaf:Image" src="http://wamu.org/sites/wamu.org/files/styles/thumbnail/public/images/attach/delonna_0.jpg?itok=JH2eQF40" width="64" height="64" alt=""></a></div>    
-          <h2><a href="/programs/metro_connection/15/06/12/the_long_hot_summer_ahead_for_dcs_homeless_children">Summer For Homeless Kids</a></h2>    
-          As many as a third of students at Ketcham Elementary are homeless, making for a very different, much more...    
-          <a href="/programs/metro_connection/15/06/12/the_long_hot_summer_ahead_for_dcs_homeless_children"> more&nbsp;&gt;&gt;</a>  </li>
-      <li class="jcarousel-item-2 even">  
-          <div class="field-content tn"><a href="/programs/metro_connection/15/06/19/this_week_on_metro_connection_solutions"><img typeof="foaf:Image" src="http://wamu.org/sites/wamu.org/files/styles/thumbnail/public/images/attach/flickr-puzzle.jpg?itok=_NHKc3EB" width="64" height="64" alt=""></a></div>    
-          <h2><a href="/programs/metro_connection/15/06/19/this_week_on_metro_connection_solutions">Metro Connection: Solutions</a></h2>    
-          We'll explore some of our region's trickiest problems — and meet people working to find solutions to those...    
-          <a href="/programs/metro_connection/15/06/19/this_week_on_metro_connection_solutions"> more&nbsp;&gt;&gt;</a>  </li>
-      <li class="jcarousel-item-3 odd">  
-          <div class="field-content tn"><a href="/news/13/06/03/beating_the_odds"><img typeof="foaf:Image" src="http://wamu.org/sites/wamu.org/files/styles/thumbnail/public/images/attach/bto.jpg?itok=xQfgp5wZ" width="64" height="64" alt=""></a></div>    
-          <h2><a href="/news/13/06/03/beating_the_odds">Beating The Odds</a></h2>    
-          Beating the Odds is an annual series that features remarkable students seem destined to succeed despite...    
-          <a href="/news/13/06/03/beating_the_odds"> more&nbsp;&gt;&gt;</a>  </li>
-      <li class="jcarousel-item-4 even">  
-          <div class="field-content tn"><a href="/news/15/05/15/assault_on_justice"><img typeof="foaf:Image" src="http://wamu.org/sites/wamu.org/files/styles/thumbnail/public/images/attach/5081761936_7a309b91b0_o.jpg?itok=4sUDUQwR" width="64" height="64" alt=""></a></div>    
-          <h2><a href="/news/15/05/15/assault_on_justice">Assault On Justice</a></h2>    
-          Patrick Madden examines how D.C. uses — and potentially misuses — the charge of "assaulting a police officer."    
-          <a href="/news/15/05/15/assault_on_justice"> more&nbsp;&gt;&gt;</a>  </li>
-      <li class="jcarousel-item-5 odd">  
-          <div class="field-content tn"><a href="/house-flipping"><img typeof="foaf:Image" src="http://wamu.org/sites/wamu.org/files/styles/thumbnail/public/images/attach/flipped_mainstage.jpg?itok=JdeIqfeH" width="64" height="64" alt=""></a></div>    
-          <h2><a href="/house-flipping">Flipped Off</a></h2>    
-           Martin Austermuhle's three-part series on house flipping in the nation's capital.    
-          <a href="/house-flipping"> more&nbsp;&gt;&gt;</a>  </li>
-      <li class="jcarousel-item-6 even">  
-          <div class="field-content tn"><a href="/news/15/03/27/kojo_in_anacostia"><img typeof="foaf:Image" src="http://wamu.org/sites/wamu.org/files/styles/thumbnail/public/images/attach/header_anacostia_final.jpg?itok=o0AnpNbs" width="64" height="64" alt=""></a></div>    
-          <h2><a href="/news/15/03/27/kojo_in_anacostia">Kojo In Anacostia</a></h2>    
-          The Kojo Nnamdi Show broadcasted a series of shows live from the Southeast D.C. neighborhood. Hear them all...    
-          <a href="/news/15/03/27/kojo_in_anacostia"> more&nbsp;&gt;&gt;</a>  </li>
-      <li class="jcarousel-item-7 odd">  
-          <div class="field-content tn"><a href="/support/volunteer/volunteers_of_the_year"><img typeof="foaf:Image" src="http://wamu.org/sites/wamu.org/files/styles/thumbnail/public/images/attach/andyandmary.jpg?itok=mCtPBsjD" width="64" height="64" alt=""></a></div>    
-          <h2><a href="/support/volunteer/volunteers_of_the_year">Volunteer Recognition</a></h2>    
-          The volunteer of the year award and special projects award are given to a WAMU 88.5 volunteer each year for...    
-          <a href="/support/volunteer/volunteers_of_the_year"> more&nbsp;&gt;&gt;</a>  </li>
-      <li class="jcarousel-item-8 even">  
-          <div class="field-content tn"><a href="/about/the_kojo_nnamdi_show/15/02/01/kojo_at_the_capitol"><img typeof="foaf:Image" src="http://wamu.org/sites/wamu.org/files/styles/thumbnail/public/images/attach/kojo.jpg?itok=3yFi4xmi" width="64" height="64" alt=""></a></div>    
-          <h2><a href="/about/the_kojo_nnamdi_show/15/02/01/kojo_at_the_capitol">Kojo At The Capitol</a></h2>    
-          For a full week, Kojo broadcast from the Folger, just across from the Capitol. Miss a show? Listen here.    
-          <a href="/about/the_kojo_nnamdi_show/15/02/01/kojo_at_the_capitol"> more&nbsp;&gt;&gt;</a>  </li>
-      <li class="jcarousel-item-9 odd">  
-          <div class="field-content tn"><a href="/news/14/10/14/wamu_investigates"><img typeof="foaf:Image" src="http://wamu.org/sites/wamu.org/files/styles/thumbnail/public/images/attach/money_12.jpg?itok=k65-fI6v" width="64" height="64" alt=""></a></div>    
-          <h2><a href="/news/14/10/14/wamu_investigates">Pay-to-Play in D.C.?</a></h2>    
-          Explore our interactive database of campaign contributions to D.C. officials and contracts awarded.    
-          <a href="/news/14/10/14/wamu_investigates"> more&nbsp;&gt;&gt;</a>  </li>
-      <li class="jcarousel-item-10 even">  
-          <div class="field-content tn"><a href="/news/14/09/15/breaking_ground_military_children"><img typeof="foaf:Image" src="http://wamu.org/sites/wamu.org/files/styles/thumbnail/public/images/attach/milkids.jpg?itok=aNTzmzFY" width="64" height="64" alt=""></a></div>    
-          <h2><a href="/news/14/09/15/breaking_ground_military_children">Military Children</a></h2>    
-          What can we learn from the education of military children in the U.S.? Kavitha Cardoza explores in a four-...    
-          <a href="/news/14/09/15/breaking_ground_military_children"> more&nbsp;&gt;&gt;</a>  </li>
-      <li class="jcarousel-item-11 odd">  
-          <div class="field-content tn"><a href="/programs/breaking_ground/13/09/12/yesterdays_dropouts"><img typeof="foaf:Image" src="http://wamu.org/sites/wamu.org/files/styles/thumbnail/public/images/attach/breakingground120.jpg?itok=Fpdy4Pd2" width="64" height="64" alt=""></a></div>    
-          <h2><a href="/programs/breaking_ground/13/09/12/yesterdays_dropouts">Yesterday's Dropouts</a></h2>    
-          We explore the struggles adults face after they leave school without a diploma in the debut series of WAMU's...    
-          <a href="/programs/breaking_ground/13/09/12/yesterdays_dropouts"> more&nbsp;&gt;&gt;</a>  </li>
-      <li class="jcarousel-item-12 even">  
-          <div class="field-content tn"><a href="/news/14/01/27/crack_the_drug_that_consumed_the_nations_capital_0"><img typeof="foaf:Image" src="http://wamu.org/sites/wamu.org/files/styles/thumbnail/public/images/attach/dc_crack_header.jpg?itok=LjnIEjv9" width="64" height="64" alt=""></a></div>    
-          <h2><a href="/news/14/01/27/crack_the_drug_that_consumed_the_nations_capital_0">When Crack Came to D.C.</a></h2>    
-          A five-part series that explores the legacy of D.C.'s crack era and how The District continues to grapple...    
-          <a href="/news/14/01/27/crack_the_drug_that_consumed_the_nations_capital_0"> more&nbsp;&gt;&gt;</a>  </li>
-      <li class="jcarousel-item-13 odd">  
-          <div class="field-content tn"><a href="/news/14/07/08/51_things_everyone_should_experience_at_least_once_in_dc"><img typeof="foaf:Image" src="http://wamu.org/sites/wamu.org/files/styles/thumbnail/public/images/attach/dcskyline.jpg.jpg?itok=D11xS3wE" width="64" height="64" alt=""></a></div>    
-          <h2><a href="/news/14/07/08/51_things_everyone_should_experience_at_least_once_in_dc">D.C. Bucket List</a></h2>    
-          D.C. was created on July 16, 1790. To celebrate the city's 224th birthday, here's 51 things you need to do...    
-          <a href="/news/14/07/08/51_things_everyone_should_experience_at_least_once_in_dc"> more&nbsp;&gt;&gt;</a>  </li>
-      <li class="jcarousel-item-14 even">  
-          <div class="field-content tn"><a href="/about/11/10/07/public_insight_network"><img typeof="foaf:Image" src="http://wamu.org/sites/wamu.org/files/styles/thumbnail/public/images/attach/02.20.12news-flickr-watergate-edit.jpg?itok=2nOu6xWP" width="64" height="64" alt=""></a></div>    
-          <h2><a href="/about/11/10/07/public_insight_network">Public Insight</a></h2>    
-          Share your knowledge and insights about timely issues with journalists from WAMU 88.5    
-          <a href="/about/11/10/07/public_insight_network"> more&nbsp;&gt;&gt;</a>  </li>
-      <li class="jcarousel-item-15 odd">  
-          <h2><a href="/support/volunteer/food_donors">In-Kind Donation Program</a></h2>    
-          By providing an in-kind donation, you may be eligible for a tax deduction, without a cash commitment, and...    
-          <a href="/support/volunteer/food_donors"> more&nbsp;&gt;&gt;</a>  </li>
-  </ul>
+        <div class="sidebarEvent">
+      
+  <div class="views-field views-field-field-image-attach">        <div class="field-content"><a href="http://wamu.org/news/15/12/01/a_festival_that_celebrates_dc_music_and_not_just_out_of_local_pride" class="track-event-sidebar-topnews"></a><a href="/news/15/12/01/a_festival_that_celebrates_dc_music_and_not_just_out_of_local_pride"><img typeof="foaf:Image" src="http://wamu.org/sites/wamu.org/files/styles/thumbnail/public/images/attach/iota-900x598.jpg?itok=CMgtFLR-" width="64" height="64" alt=""></a></div>  </div>  
+  <h5>        <div><a href="http://wamu.org/news/15/12/01/a_festival_that_celebrates_dc_music_and_not_just_out_of_local_pride" class="track-event-sidebar-topnews">A Festival That Celebrates D.C. Music — And Not Just Out Of Local Pride</a></div>  </h5>  
+  <div class="views-field views-field-field-teaser-short">        <div class="field-content"><p>To&nbsp;Ryan Walker, there’s something unsavory&nbsp;about the term “local music.”...</p></div>  </div>  </div>
+  <div class="sidebarEvent">
+      
+  <div class="views-field views-field-field-image-attach">        <div class="field-content"><a href="http://wamu.org/news/15/12/04/does_metro_need_to_be_kinder_board_of_directors_weighs_in" class="track-event-sidebar-topnews"></a><a href="/news/15/12/04/does_metro_need_to_be_kinder_board_of_directors_weighs_in"><img typeof="foaf:Image" src="http://wamu.org/sites/wamu.org/files/styles/thumbnail/public/images/attach/flickr-station-manager.jpg?itok=sisgQd7v" width="64" height="64" alt=""></a></div>  </div>  
+  <h5>        <div><a href="http://wamu.org/news/15/12/04/does_metro_need_to_be_kinder_board_of_directors_weighs_in" class="track-event-sidebar-topnews">Does Metro Need To Be Kinder? Board Of Directors Weighs In</a></div>  </h5>  
+  <div class="views-field views-field-field-teaser-short">        <div class="field-content">At a meeting of the Metro board of directors Thursday, several members questioned whether Metro...</div>  </div>  </div>
+  <div class="sidebarEvent">
+      
+  <div class="views-field views-field-field-image-attach">        <div class="field-content"><a href="http://wamu.org/programs/all_things_considered/15/12/03/dick_cheneys_bust_unveiled_at_the_capitol_as_hes_lightly_roasted" class="track-event-sidebar-topnews"></a><a href="/programs/all_things_considered/15/12/03/dick_cheneys_bust_unveiled_at_the_capitol_as_hes_lightly_roasted"><img typeof="foaf:Image" src="http://wamu.org/sites/wamu.org/files/styles/thumbnail/public/images/attach/ap-cheney.jpg?itok=5HK4JtXI" width="64" height="64" alt=""></a></div>  </div>  
+  <h5>        <div><a href="http://wamu.org/programs/all_things_considered/15/12/03/dick_cheneys_bust_unveiled_at_the_capitol_as_hes_lightly_roasted" class="track-event-sidebar-topnews">Dick Cheney's Bust Unveiled At The Capitol, As He's Lightly Roasted</a></div>  </h5>  
+  <div class="views-field views-field-field-teaser-short">        <div class="field-content">Former Vice President Dick Cheney returned to the U.S. Capitol on Thursday for a ceremony honoring...</div>  </div>  </div>
     </div>
   
   
@@ -1272,113 +1271,45 @@ feedback@wamu.org.<br>
 
 </div><!-- /.block -->
 
-<!-- END [module=views] [block=carousel-block_1] -->
+<!-- END [module=views] [block=sidebar_top_news-block] -->
 
-<!-- BEGIN [module=block] [block=3] -->
-<div id="block-block-3" class="block block-block odd">
+<!-- BEGIN [module=block] [block=54] -->
+<div id="block-block-54" class="block block-block last odd">
 
       
   <div class="content">
-    <!-- Underwriting 300x250 Ad -->
-<div class="sidebarContainer">
-  <div class="supportbanner">Support for WAMU 88.5 is provided by</div>
-<!-- WAMU_site_300x250 -->
-<div style="width: 300px; height: 250px;">
-  <script type="text/javascript">
-  GA_googleFillSlot("WAMU_site_300x250");
-  </script>
+    <div class="frequencies-block">
+<h4 class="sidebar">Subscribe to Frequencies</h4>
+  <div class="sidebarNewsletter">The WAMU 88.5 email newsletter</div>
+
+  <form id="newsletter-form" onsubmit="jQuery(&quot;#newsletter-form&quot;).submit();" action="http://wamu.convio.net/site/Survey" method="POST">
+    <input type="hidden" value="t" id="cons_info_component" name="cons_info_component">
+    <input type="hidden" value="true" name="cons_email_opt_in_requested" id="cons_email_opt_in_requested">
+    <input type="hidden" value="1302" id="SURVEY_ID" name="SURVEY_ID">
+
+    <div class="sidebarNewsletter"><input type="text" style="color:#515151; background-image: url(/sites/wamu.org/themes/wamu_dh_zen/dh/images/signupbg.jpg); background-repeat: no-repeat; border: 0px; width: 205px; height: 26px; padding: 0 5px;" size="40" maxlength="255" value="Enter your email address" id="cons_email" name="cons_email">
+  
+        <input type="submit" style="background-color: #000000; border: 0 none; color: #FFFFFF; float: right; height: 26px; width: 75px;" id="ACTION_SUBMIT_SURVEY_RESPONSE" name="ACTION_SUBMIT_SURVEY_RESPONSE" value="Submit" class="form-submit">
+
 </div>
-<div style="height: 10px; clear:both;">&nbsp;</div>
-<div class="sponsorlink"><a href="http://wamu.org/support/underwriting">Become a corporate sponsor</a></div>
 
-</div>  </div>
+<script type="text/javascript">
+jQuery("#cons_email").clearInput();
+</script>
 
-</div><!-- /.block -->
-
-<!-- END [module=block] [block=3] -->
-
-<!-- BEGIN [module=block] [block=7] -->
-<div id="block-block-7" class="block block-block last even">
-
-      
-  <div class="content">
-                    <!-- Most Popular Block -->
-        <div class="sidebarContainer">
-
-
-
-            <div id="popularSidebarTabs" class="ui-tabs">
-              <ul>
-                <li>
-                  <a href="#popularSidebarTabs-1">Most Shared</a>
-                </li>
-                <li>
-                  <a href="#popularSidebarTabs-2">Most Clicked</a>
-                </li>
-              </ul>
-              <div id="popularSidebarTabs-1">
-
-		            <!----------------------------MOST VIEWED STORIES CONTAINER---------------------------->
-		            <div class="mostviewedContainer">
-		                <!--------------------END TOP OF MOST POPULAR STORIES-------------------->
-		              <div class="mostpopularcontainerMiddle">
-		                <div class="listcontent">
-                                   <div class="item-list"><ul><li class="first"><a href="http://wamu.org/author/armando_trull#at_pco=cfd-1.0">Armando Trull</a>
-</li>
-<li><a href="http://wamu.org/programs/the_moth/15/05/10/the_moth_mothers_day_special_2015#at_pco=cfd-1.0">The Moth - Mother's Day Special 2015</a>
-</li>
-<li><a href="http://wamu.org/programs/metro_connection/14/04/11/the_secretive_couple_behind_dcs_folger_shakespeare_library#at_pco=cfd-1.0">The Secretive Couple Behind D.C.'s Folger Shakespeare Library</a>
-</li>
-<li><a href="http://wamu.org/programs/weekend_edition_saturday/15/06/27/bishop_opposed_to_marriage_ruling_on_impact_on_religious_institutions#at_pco=cfd-1.0">Bishop Opposed To Marriage Ruling On Impact On Religious Institutions</a>
-</li>
-<li class="last"><a href="http://wamu.org/news/15/06/09/dc_restricts_pop_ups_in_residential_neighborhoods#at_pco=cfd-1.0">Popped: D.C. Restricts Pop-Ups, Condo Conversions In Residential Neighborhoods</a>
-</li>
-</ul></div><div class="more-link"><a href="/aggregator/sources/1" title="View this feed's recent news.">More</a></div>		                </div>
-		              </div>
-		              <!--------------------------------------MOST POPULAR CONTAINER BOTTOM----------------------------------->
-		              <div class="mostpopularcontainerBottom"></div>
-		              <!--------------------------------------MOST POPULAR CONTAINER BOTTOM ENDS----------------------------------->
-		          </div><!-- END mostviewedContainer -->
-
-            </div>
-              <div id="popularSidebarTabs-2" class="ui-tabs-hide">
-                <!----------------------------MOST VIEWED STORIES CONTAINER---------------------------->
-                <div class="mostemailedContainer">
-                  <div class="mostpopularcontainerMiddle">
-                    <div class="listcontent">
-                                   <div class="item-list"><ul><li class="first"><a href="http://wamu.org/author/armando_trull#at_pco=cfd-1.0">Armando Trull</a>
-</li>
-<li><a href="http://wamu.org/programs/metro_connection/14/04/11/the_secretive_couple_behind_dcs_folger_shakespeare_library#at_pco=cfd-1.0">The Secretive Couple Behind D.C.'s Folger Shakespeare Library</a>
-</li>
-<li><a href="http://wamu.org/programs/the_moth/15/05/10/the_moth_mothers_day_special_2015#at_pco=cfd-1.0">The Moth - Mother's Day Special 2015</a>
-</li>
-<li><a href="http://wamu.org/news/15/06/09/dc_restricts_pop_ups_in_residential_neighborhoods#at_pco=cfd-1.0">Popped: D.C. Restricts Pop-Ups, Condo Conversions In Residential Neighborhoods</a>
-</li>
-<li class="last"><a href="http://wamu.org/programs/weekend_edition_saturday/15/06/27/bishop_opposed_to_marriage_ruling_on_impact_on_religious_institutions#at_pco=cfd-1.0">Bishop Opposed To Marriage Ruling On Impact On Religious Institutions</a>
-</li>
-</ul></div><div class="more-link"><a href="/aggregator/sources/2" title="View this feed's recent news.">More</a></div>                    </div>
-                  </div>
-                  <!--------------------------------------MOST POPULAR CONTAINER BOTTOM----------------------------------->
-                  <div class="mostpopularcontainerBottom"></div>
-                  <!--------------------------------------MOST POPULAR CONTAINER BOTTOM ENDS----------------------------------->
-              </div><!-- END mostviewedContainer -->
-
-              </div>
-            </div>
-          </div><!-- END sidebarContainer -->
-          <!----------------------------------------MOST VIEWED STORIES CONTAINER ENDS------------------------------------------------->
-
+  </form>
+</div>
   </div>
 
 </div><!-- /.block -->
 
-<!-- END [module=block] [block=7] -->
+<!-- END [module=block] [block=54] -->
   </div></div><!-- /.section, /.region -->
 
 
 <!-- END -->
       </div>
-      
+			
     </div><!-- end .grid_5 -->
   </div>
 </div><!-- end .container_15 --><!--******************************************BEGIN FOOTER**********************************************-->
@@ -1461,7 +1392,7 @@ Washington, DC 20016-8082</td>
         <a id="toggleThemeLink_desktop" href="javascript: submitToggleThemeForm();"> Mobile Site </a>
         <!-- End Toggle Theme -->
     
-        
+				
       </div>
       <div class="footerRightCol">
         <a href="/topic/politics">Politics</a>
@@ -1568,10 +1499,10 @@ Washington, DC 20016-8082</td>
         <h2 class="block-title">Theme</h2>
     
   <div class="content">
-    <form action="/sites/wamu.org/themes/wamu_dh_zen/dh/images/kojo_orange.jpg" method="post" id="switchtheme-switch-form" accept-charset="UTF-8"><div><div class="container-inline form-wrapper" id="edit-widget"><div class="form-item form-type-select form-item-theme">
- <select id="edit-theme" name="theme" class="form-select required"><option value="bartikwamu">WAMU Bartik Sub-Theme</option><option value="wamu_dh_zen" selected="selected">WAMU DH Zen Sub-theme</option><option value="wamu_omega">WAMU Omega HTML 5</option><option value="wamu_out_zen">WAMU Outsource Zen</option></select>
+    <form action="/news/local/www.inspiredteaching.org?page=993" method="post" id="switchtheme-switch-form" accept-charset="UTF-8"><div><div class="container-inline form-wrapper" id="edit-widget"><div class="form-item form-type-select form-item-theme">
+ <select id="edit-theme" name="theme" class="form-select required"><option value="bartikwamu">WAMU Bartik Sub-Theme</option><option value="wamu_dh_zen" selected="selected">WAMU DH Zen Sub-theme</option><option value="wamu_omega">WAMU Omega HTML 5</option></select>
 </div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="switchtheme-submit" name="op" value="Switch" class="form-submit"></div></div><input type="hidden" name="form_build_id" value="form--zYXZjzDAFz5e7FVzkWB-SBQT_Va-tq_rAu-WHwYi1U">
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="switchtheme-submit" name="op" value="Switch" class="form-submit"></div></div><input type="hidden" name="form_build_id" value="form-K0_2yrQFg_sbyXbtV6xNaJo7OixtXxDesy0zzuNL6PA">
 <input type="hidden" name="form_id" value="switchtheme_switch_form">
 </div></form>  </div>
 
@@ -1593,30 +1524,8 @@ Washington, DC 20016-8082</td>
 
   <div class="region region-bottom">
     
-<!-- BEGIN [module=block] [block=26] -->
-<div id="block-block-26" class="block block-block first odd">
-
-      
-  <div class="content">
-    <script type="text/javascript">
-var clicky_site_ids = clicky_site_ids || [];
-clicky_site_ids.push(66385205);
-(function() {
-  var s = document.createElement('script');
-  s.type = 'text/javascript';
-  s.async = true;
-  s.src = '//static.getclicky.com/js';
-  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
-})();
-</script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66385205ns.gif" /></p></noscript>  </div>
-
-</div><!-- /.block -->
-
-<!-- END [module=block] [block=26] -->
-
 <!-- BEGIN [module=block] [block=30] -->
-<div id="block-block-30" class="block block-block even">
+<div id="block-block-30" class="block block-block first odd">
 
       
   <div class="content">
@@ -1648,7 +1557,7 @@ _qevents.push( { qacct:"p-ddp0lUMk-U5Xs"} );
 <!-- END [module=block] [block=30] -->
 
 <!-- BEGIN [module=block] [block=25] -->
-<div id="block-block-25" class="block block-block odd">
+<div id="block-block-25" class="block block-block even">
 
       
   <div class="content">
@@ -1669,7 +1578,7 @@ _qevents.push( { qacct:"p-ddp0lUMk-U5Xs"} );
 <!-- END [module=block] [block=25] -->
 
 <!-- BEGIN [module=block] [block=16] -->
-<div id="block-block-16" class="block block-block even">
+<div id="block-block-16" class="block block-block odd">
 
       
   <div class="content">
@@ -1683,26 +1592,6 @@ _qevents.push( { qacct:"p-ddp0lUMk-U5Xs"} );
 </div><!-- /.block -->
 
 <!-- END [module=block] [block=16] -->
-
-<!-- BEGIN [module=block] [block=47] -->
-<div id="block-block-47" class="block block-block odd">
-
-      
-  <div class="content">
-    <script type="text/javascript">
-<!--//--><![CDATA[// ><!--
-
-setTimeout(function(){var a=document.createElement("script");
-var b=document.getElementsByTagName("script")[0];
-a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0013/2071.js?"+Math.floor(new Date().getTime()/3600000);
-a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-
-//--><!]]>
-</script>  </div>
-
-</div><!-- /.block -->
-
-<!-- END [module=block] [block=47] -->
 
 <!-- BEGIN [module=wamu_custom] [block=wamu_splash_page_handler] -->
 <div id="block-wamu-custom-wamu-splash-page-handler" class="block block-wamu-custom last even">
@@ -1719,28 +1608,43 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <!-- END -->
 <script type="text/javascript">
     // Comment Count Script - added below... 
-  // Solution found at: http://docs.disqus.com/developers/universal/#comment-count and http://drupal.org/node/1209070
-  /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+	// Solution found at: http://docs.disqus.com/developers/universal/#comment-count and http://drupal.org/node/1209070
+	/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
     var disqus_shortname = 'wamudotorg'; // required: replace example with your forum shortname
 
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function () {
         var s = document.createElement('script'); s.async = true;
         s.type = 'text/javascript';
-        s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
         (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
     }());
 </script>
+<!-- Facebook Conversion Code for wamu-keypageviews -->
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', '6017049243534', {'value':'0.00','currency':'USD'}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6017049243534&amp;cd[value]=0.00&amp;cd[currency]=USD&amp;noscript=1" /></noscript>
 
 <!-- END -->
 
 
 <!-- END -->
-  <script type="text/javascript" src="http://wamu.org/sites/wamu.org/files/js/js_Q1k2EyBsIzOdr5OEL59tAKR0qiJpMOvkAUqchqqUz2A.js"></script>
-<script type="text/javascript" src="https://www.google.com/afsonline/show_afs_search.js"></script>
+  <script type="text/javascript" src="http://wamu.org/sites/wamu.org/files/js/js_aKlvWayAGH8DLbh_rY1J-pZcstr1s-0kAEX_dTaAAxc.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery(function(){jQuery("#popularSidebarTabs").tabs();});
+setTimeout(function(){var a=document.createElement("script"); var b=document.getElementsByTagName("script")[0]; a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0013/2071.js?"+Math.floor(new Date().getTime()/3600000); a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 //--><!]]>
 </script>
 <script type="text/javascript">
@@ -1748,7 +1652,7 @@ jQuery(function(){jQuery("#popularSidebarTabs").tabs();});
 var addthis_share = { "url": "http://wamu.org/privacy_policy", "title": "Privacy Policy" }; var addthis_config = { "data_track_clickback": true };
 //--><!]]>
 </script>
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=wamu885&amp;async=1"></script>
+<script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=wamu885&amp;async=1"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 function initAddThis(){ addthis.init() } jQuery(document).ready(function(){ initAddThis(); });
