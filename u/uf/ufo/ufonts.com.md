@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ufonts.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607232651id_/http%3A//www.ufonts.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufonts.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206003040id_/http%3A//ufonts.com/legal/privacy) for the most accurate reproduction.*
 
 # µfonts Privacy Statement
 
@@ -20,12 +20,7 @@ Whenever a user views a page located on this website, certain information is log
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Also please note when posting to an online forum or submitting data through any of the scripts located on this site, such as image validation sequences, your IP address may be stored along with this information. 
 
-  
-
-
-"Cookies" are pieces of information that a web site transfers to an individual's hard drive for record-keeping purposes. Cookies allow the web site to remember important information that will make your use of the site more convenient. Like most web sites, ufonts.com uses cookies to operate our security systems and specific content to download files. We associate your account information with a cookie file in these instances. 
-
-Use the options in your web browser if you do not wish to receive a cookie or if you wish to set your browser to notify you when you receive a cookie. Click on the "Help" section of your browser to learn how to change your cookie preferences. If you disable all cookies, you may not be able to take advantage of all the features of this web site.
+To make this website work properly, we place cookies on your device. Most big websites do this. Read the [cookie policy](https://web.archive.org/legal/cookies) for more details.
 
 ufonts.com makes use of chat rooms, and message boards, Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
