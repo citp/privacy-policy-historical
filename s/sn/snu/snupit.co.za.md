@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snupit.co.za privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607033900id_/http%3A//www.snupit.co.za/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snupit.co.za privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205142851id_/http%3A//www.snupit.co.za/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
