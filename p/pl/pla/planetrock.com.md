@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetrock.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627115233id_/http%3A//www.planetrock.com/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetrock.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206001525id_/http%3A//www.planetrock.com/general/privacy-policy) for the most accurate reproduction.*
 
 # Bauer Media Group - Privacy Policy
 
@@ -30,6 +30,8 @@ The Bauer Media Group collects both Personal Data and Anonymous Data when you se
 
 Our servers are protected using HTTP and SSL technology, so whilst your data is in our care we know it's as secure as it can be. Our staff are trained in data security, and our staff policies and procedures help our staff to understand what is required of them under their obligations to us, and also their responsibilities under the Data Protection Act 1998 and other privacy legislation. 
 
+When we ask another organisation to provide a service for us, we ensure that they have appropriate security measures in place. If we or our service providers transfer any information out of the European Economic Area (EEA), it will only be transferred with the correct protection in place, as stated UK law. 
+
 The internet is not a totally secure medium and you acknowledge and agree that Bauer Media Group shall not be responsible for unauthorised use, distribution, damage or destruction of personal data, except to the extent that we are required to accept such responsibility under the Data Protection Act 1998. 
 
 * ### How do we collect and use your Personal Data?
@@ -52,7 +54,7 @@ We use this information for reporting purposes and to advertise online. Third-pa
 
 * ### Do we share that data with any other companies?
 
-Except as otherwise stated in this Privacy Policy or in the data collection statements that will always be visible when we collect your information and where we give you the opportunity to select your preferences, we may release your data to external companies that we use to process your orders, or charge your credit card, for instance. Every supplier we use has to go through a rigorous up-front process to ensure that their processes are at least as good as our own, and they are required to sign a contract that defines what their responsibilities and liabilities are. We make site visits regularly whether our suppliers are in the UK, the European Economic Area or outside the EEA, where we require an EU approved model contract to be signed. 
+Except as otherwise stated in this Privacy Policy or in the data collection statements that will always be visible when we collect your information and where we give you the opportunity to select your preferences, we may release your data to external companies that we use to process your orders, or charge your credit card, run our SMS services, for instance. Every supplier we use has to go through a rigorous up-front process to ensure that their processes are at least as good as our own, and they are required to sign a contract that defines what their responsibilities and liabilities are. We make site visits regularly whether our suppliers are in the UK, the EEA or outside the EEA, where we require an EU approved model contract to be signed. 
 
 However, you expressly consent to the sharing of your Personal Data with those suppliers with whom we contract in order to provide services to you, otherwise we may not be able to provide the level of service that we know you'll require. 
 
@@ -70,7 +72,7 @@ Sometimes we may offer you the chance to invite a family member or a friend to e
 
 * ### Leaving our website and moving on to third party websites
 
-When you click on advertisements or links on any of our sites, you will leave that site and go to a third party site which is outside of our control. When we place an advertisement on one of our sites, it does not signify that we are endorsing that advertiser's product or service. We do not accept responsibility for content, have no control over and our Privacy Policy does not apply to these companies, sites or content and if such third party sites collect Personal Data, we cannot control how this data is processed, stored or used. We advise that you read their data collection statements which accompany any registration and their Privacy Policies before you submit your personal information. 
+When you click on advertisements or links on any of our sites, you will leave that site and go to a third party site, which is outside of our control. When we place an advertisement on one of our sites, it does not signify that we are endorsing that advertiser's product or service. We do not accept responsibility for content, have no control over and our Privacy Policy does not apply to these companies, sites or content and if such third party sites collect Personal Data, we cannot control how this data is processed, stored or used. We advise that you read their data collection statements, which accompany any registration and their Privacy Policies before you submit your personal information. 
 
 * ### Cookies and how we use them
 
@@ -91,6 +93,8 @@ PE2 6EA
 
 We will require that you satisfactorily identify yourself to demonstrate your entitlement to view this data, and we reserve the right to charge the statutory fee of £10 to provide this information. 
 
+* If you login to our sites using a Facebook login or a Google login, you are granting permission to Facebook and or Google login to share your user details with Bauer Media Group. This will include your name, email address, date of birth and location which will then be used to form a Bauer Media Group identity. This will also allow Bauer Media Group and Facebook and/or Google login to share your networks, user ID and any other information you choose to share according to your Facebook and/or Google account settings. If you remove the Bauer Media Group app from your Facebook and or Google settings, we will no longer have access to this information. 
+
 * ### Marketing to Children
 
 We do not knowingly collect personal information from children under the age of 16 for marketing purposes. 
@@ -109,4 +113,4 @@ This Privacy Policy will be amended from time-to-time if we make any important c
 
 Any changes will be effective immediately. 
 
-This Privacy Policy was last revised in February 2014. 
+This Privacy Policy was last revised in October 2015. 
