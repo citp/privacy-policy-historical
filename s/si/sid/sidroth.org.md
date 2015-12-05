@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sidroth.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607205927id_/http%3A//sidroth.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sidroth.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206001909id_/http%3A//sidroth.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sid Roth - It's Supernatural
 
