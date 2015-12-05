@@ -1,95 +1,190 @@
-> *The following text is extracted and transformed from the zirtual.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323095824id_/https%3A//www.zirtual.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zirtual.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205150916id_/https%3A//www.zirtual.com/privacy-policy) for the most accurate reproduction.*
 
 # Zirtual · Privacy Policy.
 
-_Last modified on November 10th, 2014_
+_Last modified on April 9th, 2015 (for our previous policy,[ click here ](https://www.zirtual.com/privacy-policy/previous/)) _
+
+####  Purpose 
+
+The purpose of this Privacy Policy is to describe how Zirtual ("Company") collects, uses and shares information about you through our US websites owned and controlled by us, including [http://www.zirtual.com](https://web.archive.org/) (collectively referred to herein as the "Site"), and through any other medium you use to communicate with us. Please read this notice carefully to understand what we do. If you do not understand any aspects of our Privacy Policy, please feel free to Contact Us as described at the end of this Policy. 
+
+Our Privacy Policy explains: 
+
+  * Information We Collect And Why We Collect It 
+  * How We Use and Share Your Information 
+  * Access To Your Information And Choices 
+  * Security Of Your Information 
+  * California Privacy Rights 
+  * Consent To Data Processing In United States 
+  * Changes To Our Privacy Policy 
+  * Questions And How To Contact Us 
 
   
 
 
-####  What information do we collect? 
+####  Scope; Third Party Sites 
 
-We collect information from you when you place an order, subscribe to our newsletter or fill out a form. 
-
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, e-mail address or credit card information. You may, however, visit our site anonymously. 
+This Privacy Policy applies to information we collect at and through the Site and to information you provide us through any other medium, including, for example, email, text messages, telephone, letters, or otherwise. Our Site also contains links to third party sites that are not owned or controlled by Company. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of each and every website that collects personal information. 
 
   
 
 
-####  What do we use your information for? 
+####  Terms Of Use 
 
-Any of the information we collect from you may be used in one of the following ways: 
-
-  * To personalize your experience (your information helps us to better respond to your individual needs). 
-  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you). 
-  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs). 
-  * To process transactions your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever without your consent, other than for the express purpose of delivering the purchased product or service requested. 
-  * To send periodic emails, the email address you provide for order processing will only be used to send you information and updates pertaining to your order. 
+Please note that your use of our Site is also subject to our [Terms of Service](https://web.archive.org/terms-of-service). 
 
   
 
 
-####  How do we protect your information? 
+####  Information You Provide To Us 
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+Types of personal information we collect when you communicate with us include: 
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology. It is then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
-
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers. 
-
-  
-
-
-####  Do we use cookies? 
-
-Zirtual partners with third-party publishers across the web, including Google, to deliver personalized targeted advertising, or "retargeting." Our goal is to deliver highly relevant ads based on a user's activity during prior visits to our site. These third-party publishers, including Google, use cookies to accomplish this retargeting; however, no personally identifiable information (PII) is stored within these cookies, and clients may opt-out of receiving these cookies by changing the settings on their browser, or by visiting Google's [Ads Settings](https://www.google.com/settings/u/0/ads). 
-
-  
+  * Name 
+  * Address 
+  * Billing address 
+  * Email address 
+  * Telephone number 
+  * Credit card number (solely for payment purposes) 
 
 
-####  Do we disclose any information to outside parties? 
 
-We do not sell, trade, or otherwise transfer to outside parties, your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+We may also collect certain other information necessary to fulfill the service that you have requested, including, for example, loyalty program cards numbers, addresses to deliver items you ask us to order on your behalf, and your passport number and other travel document information. We advise you to not share any sensitive personal information that you do not feel comfortable disclosing to strangers, such as information that relates to medical facts, racial or ethnic origins, political or religious beliefs or sexuality. 
+
+We may also collect and analyze information from the content of communications you have with us (including text messages and emails) using automated systems. 
 
   
 
 
-####  California Online Privacy Protection Act Compliance 
+####  Information Collected Through Google Analytics 
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. 
+We use Google Analytics, a web analytics service provided by Google, Inc. ("Google") to collect certain information relating to your use of the Site. Google Analytics uses "cookies," which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and Internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of our website. By using our website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. For more information regarding Google Analytics please visit Google's website, and pages that describe Google Analytics, such as [www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html). 
 
   
 
 
-####  Children's Online Privacy Protection Act Compliance 
+####  Information Collected Through Cookies And Similar Technologies 
 
-We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
+We and our service providers use cookies, web beacons, and other technologies to receive and store certain types of information whenever you interact with our website through your computer or mobile device. A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies may store unique identifiers, user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. We use cookies to improve the quality of our service, including for storing user preferences, tracking user trends, and providing relevant advertising to you (see "Advertising" section below). 
+
+  
+
+
+####  No Information From Children Under Age 13 
+
+If you are under the age of 13, please do not attempt to register with us at this Site or provide any personal information about yourself to us. If we learn that we have collected personal information from a child under the age of 13, we will promptly delete that information. If you believe we have collected personal information from a child under the age of 13, please Contact Us or call us at 1 (800) 997-9714. If you are over the age of 13, you may provide us with whatever information about yourself or a child under the age of 13 that is necessary to perform the services you request, and we will only use this information pursuant to this Privacy Policy. 
+
+  
+
+
+####  To Provide Products, Services, and Information. 
+
+As described above, we collect information from you so that we can provide products and services that you request, and provide information that you request from us. We use your personal information to: 
+
+  * Contact you about your service requests 
+  * Perform the services you requested 
+  * Process credit card / debit card transactions necessary for the services you requested 
+  * Personalize your experience 
+  * Improve our services 
+  * To process your membership fees 
+
+
+
+We may also use your information to send you information about products, services, and new offerings offered by us or by a Zirtual partner through email or through text messages to your mobile phone (if provided). We may also contact you through email when new partners join the Zirtual network and for new offers by Zirtual partners. 
+
+  
+
+
+####  Third Party Access 
+
+We may provide information to third party service providers that help us fulfill services that you request from us. We may also use third parties to help host our Site, send out email updates about the Site, provide marketing, analytic, and advertising services for us, remove repetitive information from our user lists, and process payments. These service providers will have access to your personal information in order to provide these services, but when this occurs we implement reasonable contractual and technical protections to limit their use of that information to helping us provide the service. 
+
+  
+
+
+####  Advertising 
+
+We may use how you browse in order to show you ads for Zirtual or Zirtual partners that are relevant to your interests and individual needs. We may use cookies and other information to provide relevant interest-based advertising to you. Interest-based ads are ads presented to you based on your browsing behavior in order to provide you with ads more tailored to your interests. These interest-based ads may be presented to you while you are browsing our site or third-party sites not owned by Zirtual. 
+
+We belong to ad networks that may use your browsing history across participating websites to show you interest-based advertisements on those websites. You can opt-out of receiving interest-based ads from us by changing the settings on your browsers or by visiting Google's Ads Settings at [www.google.com/settings/u/0/ads](https://www.google.com/settings/u/0/ads). Please note that if you choose to opt out, you will continue to see ads on our Site, but they will not be based on how you browse and shop. 
+
+Currently, our Site does not recognize if your browser sends a "do not track" signal or similar mechanism to indicate you do not wish to be tracked or receive interest-based ads. We allow third-party publishers across the web to collect information stored in cookies on your computer about your online activities when you leave this Site. To learn more about interest-based advertisements and your opt-out rights and options, visit the Digital Advertising Alliance and the Network Advertising Initiative websites ([www.aboutads.info](http://www.aboutads.info/) and [www.networkadvertising.org](http://www.networkadvertising.org/)). Please note that if you opt-out of receiving interest based advertising, you will still receive ads that will not necessarily be tailored to your interests. 
+
+  
+
+
+####  Feedback 
+
+Your feedback and suggestions you submit, including feedback or suggestions submitted through online forms, social media sites, or through email, will be considered non-confidential and non-proprietary to the extent permitted by law. We may use any of your feedback or suggestions to improve our services or for marketing purposes on our website or on any of our social media sites without any obligation to you. 
+
+  
+
+
+####  Statistical Analysis 
+
+We may use your information you provide to us through any medium (including emails you delegate us to process on your behalf), combined with other information we may obtain from other sources, to perform statistical, demographic, and marketing analyses of the users of the Zirtual services, their service requests patterns, improve our understanding of our customers and potential customers, improve our service, and to improve customer relationships. 
+
+  
+
+
+####  Third Party Advertising And Marketing 
+
+From time to time with your consent, we may disclose information with Zirtual partners who may offer you products and services of interest. You may opt-out of this sharing by Contacting Us. The information we may share with Zirtual partners includes your name, address, email address, telephone number, and information about types of services you have requested. We require Zirtual partners to agree to reasonable contractual and technical protections to limit their use of that information to their own advertising, and to not further share or distribute your information to non-partner third parties without your consent. If you have consented to our sharing your personal information with these third parties, you may subsequently opt-out by Contacting Us. 
+
+  
+
+
+####  Delegation Of Your Inbox And Calendar 
+
+In the event you authorize us to access your email or calendar accounts, we will not share their contents with third parties without your consent except as necessary to perform the services requested and as required for Legal Proceedings as described below. We reserve the right to turn over any information related to any potentially illegal activity contained in these accounts to law enforcement for civil and/or criminal penalties. It is solely your responsibility to notify any senders of email or meeting invitations or responses that you have delegated your email and calendar to us and that their emails may be observed by us on your behalf. 
+
+  
+
+
+####  Legal Proceedings 
+
+We will share personal information with third party companies, organizations or individuals outside of Company if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
+
+  * Meet any applicable law, regulation, subpoena, legal process or enforceable governmental request 
+  * Enforce applicable Terms of Use, including investigation of potential violations 
+  * Detect, prevent, or otherwise address fraud, illegal activity, network security or technical issues concerning our service 
+  * Protect against harm to the rights, property or safety of Company, our users (including you), customers or the public as required or permitted by law 
+  * Detect, prevent, or otherwise address risks to national security or other important public interests 
 
   
 
 
 ####  Your Consent 
 
-By using our site, you consent to our online privacy policy. 
+In addition to the sharing described elsewhere in this Policy, we will share personal information with companies, organizations or individuals outside of Zirtual when we have your express consent to do so. 
 
   
 
 
-####  Changes to our Privacy Policy 
+####  Transfer In The Event Of Sale Or Change Of Control 
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date above. 
+We do not sell, trade, or transfer your personally identifiable information to third parties except as follows: if the ownership of all or substantially all of our business changes or we otherwise transfer assets relating to our business or the Site to a third party, such as by merger, acquisition, bankruptcy proceeding or otherwise, we may share, transfer, or sell your personal information to the new owner. In such a case, unless permitted otherwise by applicable law, your information would remain subject to the promises made in the applicable privacy policy unless you agree differently. In addition, if Zirtual acquires another entity, Zirtual may share your information with our new corporate affiliate. 
 
-  
+If you have questions about personal information we have about you or need to update your information, you can Contact Us or call us at 1 (800) 997-9714. While we are happy to provide you the categories of information we have about you, to protect the security of your information we cannot provide you with certain information you may have provided to us, including, for example, passwords, frequent flyer numbers, credit card information, and other account numbers. You may request that we remove any information we have about you by Contacting Us. You can opt-out of receiving marketing and promotional e-mails from Company by Contacting Us. 
 
+You may close your account as described in our [Terms of Service.](https://web.archive.org/terms-of-service) If you close your account, we will no longer use your online account information or share it with third parties. We will delete your information if you specifically request us to do so. We may, however, retain a copy of the information for archival purposes, and to avoid identity theft or fraud. 
 
-####  Contacting Us 
+We use industry standard physical, technical and administrative security measures and safeguards to protect the confidentiality and security of your personal information. However, since the Internet is not a 100% secure environment, we cannot guarantee, ensure, or warrant the security of any information you transmit to us. Although we use industry standard practices to protect your information stored on our servers, there is no guarantee that information, including sensitive personal information, may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information. Please note that e-mails and other communications you send to us through our Site are not encrypted, and we strongly advise you not to communicate any confidential information through these means. 
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+Under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2015 will receive information regarding 2014 sharing activities). 
+
+To obtain this information, please send an email message to [privacy@zirtual.com](mailto:privacy@zirtual.com) with "Request for California Privacy Information" on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response. Please be aware that not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response. 
+
+Our Site is operated and managed on servers located and operated within the United States. By using and accessing our Site, residents and citizens of countries and jurisdictions outside of the United States agree and consent to the transfer to and processing of personal information on servers located in the United States, and that the protection of such information may be different than required under the laws of your residence or location. 
+
+Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your consent in accordance with applicable law. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review. 
+
+If you have any questions, concerns, complaints or suggestions regarding our Privacy Policy or otherwise need to contact us, please email us at [privacy@zirtual.com](mailto:privacy@zirtual.com), call us at 1 (800) 997-9714 or contact us by US postal mail at the following address: 
 
 > **Zirtual Inc.**   
 >  150 Las Vegas Blvd. N.   
->  Suite 1607   
+>  Suite 2304   
 >  Las Vegas, NV 89101 
 > 
-> [ happiness@zirtual.com ](mailto:happiness@zirtual.com)   
+> [ privacy@zirtual.com ](mailto:privacy@zirtual.com)   
 >  1 (800) 997-9714 
