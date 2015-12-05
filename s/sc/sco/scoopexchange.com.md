@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoopexchange.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628013813id_/http%3A//www.scoopexchange.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoopexchange.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205111552id_/http%3A//www.scoopexchange.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
