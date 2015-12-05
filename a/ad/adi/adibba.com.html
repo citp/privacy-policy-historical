@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adibba.com privacy policy that was archived on 2015-04-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150429103924id_/http%3A//www.adibba.com/adibba%2520privacy%2520policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adibba.com privacy policy that was archived on 2015-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151205083018id_/http%3A//www.adibba.com/adibba%2520privacy%2520policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en"><head>
 <meta charset="UTF-8">
@@ -10,6 +10,7 @@
 <link href="http://adibba2.adibba.netdna-cdn.com/image/data/A-banners/favicon.png" rel="icon">
 <link rel="stylesheet" type="text/css" href="http://adibba2.adibba.netdna-cdn.com/catalog/view/theme/bt_optronics/stylesheet/stylesheet.css">
 <link rel="stylesheet" type="text/css" href="http://adibba2.adibba.netdna-cdn.com/catalog/view/theme/bt_optronics/stylesheet/boss_add_cart.css">
+<link rel="stylesheet" type="text/css" href="http://adibba2.adibba.netdna-cdn.com/catalog/view/theme/bt_optronics/stylesheet/shopbycolor.css">
 <link rel="stylesheet" type="text/css" href="http://adibba2.adibba.netdna-cdn.com/catalog/view/theme/bt_optronics/stylesheet/suggestsearch.css" media="screen">
 <link rel="stylesheet" type="text/css" href="http://adibba2.adibba.netdna-cdn.com/catalog/view/theme/bt_optronics/stylesheet/skeleton.css">
 <link rel="stylesheet" type="text/css" href="http://adibba2.adibba.netdna-cdn.com/catalog/view/theme/bt_optronics/stylesheet/responsive.css">
@@ -48,13 +49,100 @@ DD_belatedPNG.fix('#logo img');
   ga('create', 'UA-43676159-1', 'adibba.com');
   ga('send', 'pageview');
 
-</script>          
+</script>
+<link href="/index.php?route=feed/latest_products_rss&amp;currency=NGN" rel="alternate" type="application/rss+xml">
+<style id="out-of-stock" type="text/css"><!--
+input.button-grey {
+        cursor: pointer;
+        color: #FFFFFF;
+        line-height: 12px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        font-weight: bold;  
+        background: url('catalog/view/theme/default/image/button-grey.png') top left repeat-x;
+        -webkit-border-radius: 7px 7px 7px 7px;
+        -moz-border-radius: 7px 7px 7px 7px;
+        -khtml-border-radius: 7px 7px 7px 7px;
+        border-radius: 7px 7px 7px 7px;
+        -webkit-box-shadow: 0px 2px 2px #DDDDDD;
+        -moz-box-shadow: 0px 2px 2px #DDDDDD;
+        box-shadow: 0px 2px 2px #DDDDDD;    
+        margin: 0;
+        border: 0;
+        height: 24px;
+        padding: 0px 12px 0px 12px;
+}
+--></style>
+          
 				<script type="text/javascript" src="http://adibba2.adibba.netdna-cdn.com/catalog/view/javascript/jquery/popup.js"></script>
 		<link rel="stylesheet" type="text/css" href="http://adibba2.adibba.netdna-cdn.com/catalog/view/theme/default/stylesheet/popup.css">
 				
 			
+
+				
+<script type="text/javascript">
+// Fixed Header
+$(document).ready(function(){
+	// Copy our header id and place it in the headerFixed id
+	var header = "<div id='logoFixed'>"+$("#header").find("#logo").html()+"</div>";
+	header += "<div class='links'>"+$("#header").find(".links").html()+"</div>";
+	header += "<div id='cartFixed'><h4>"+$("#header").find(".heading > h4").html()+"</h4> - "+$("#header").find(".heading > a").html()+"</div>";
+	$("#fixedHeader").html("<div>"+header+"</div>");
+	
+	// Set our click for cart
+	$("#cartFixed").on('click', function(){
+		//window.location.href ="index.php?route=checkout/cart";
+	});
+	
+	//Set our transistion type
+	$("#fixedHeader #cart-total").attr('id','cart-total-fh');
+	var showFixedHeader = function (trans, scrollValue){
+	$('#cart-total-fh').html($('#cart-total').html());
+		var elem = $("#fixedHeader");
+		if(trans == "fade"){
+			elem.fadeIn();
+		}else if(trans == "animate"){
+			elem.show();
+			elem.stop().animate({top: "0"}, 250);
+		}else{
+			elem.show();
+		}
+	}
+	
+	var hideFixedHeader = function (trans){
+		var elem = $("#fixedHeader");
+		if(trans == "fade"){
+			elem.fadeOut();
+		}else if(trans == "animate"){
+			elem.stop().animate({top: "-50px"}, 250);
+		}else{
+			elem.hide();
+		}
+	}
+	
+	// Show our fixed header
+	var position = $("#header").position();
+	var height = $("#header").height();
+	var scrollValue = height+position.top;
+	$(window).scroll(function() {
+		if ($(this).scrollTop() > scrollValue) {
+			showFixedHeader("animate");
+		} else {
+			hideFixedHeader("animate");
+		}
+	});
+	
+	$("#cartFixed").on("click", function(){
+		window.location.replace('index.php?route=checkout/cart');
+	});
+});
+</script>
+<link rel="stylesheet" type="text/css" href="http://adibba2.adibba.netdna-cdn.com/catalog/view/theme/bt_optronics/stylesheet/fixedHeader.css">
 </head>
-<body class="other_page">
+<body class="other_page"><div id="fixedHeader"></div>
+				
+			
+
 <div id="fb-root"></div>
 
 <script>(function(d, s, id) {
@@ -75,11 +163,11 @@ DD_belatedPNG.fix('#logo img');
 		<div class="button-search" title="Search"></div>
 	</div>
 	
-	
-	
-	<div class="response-cat"><div><img src="catalog/view/theme/bt_optronics/image/menu2.png"></div><select onchange="location = this.value"><option></option><option value="http://www.adibba.com/">Home</option><option value="http://www.adibba.com/adibba-vendors">Adibba</option><option value="http://www.adibba.com/adibba-vendors/avon"> --- Avon</option><option value="http://www.adibba.com/adibba-vendors/Back-to-School"> --- Back to School</option><option value="http://www.adibba.com/adibba-vendors/Bella-Donna"> --- Bella Donna</option><option value="http://www.adibba.com/adibba-vendors/Christmas"> --- Christmas</option><option value="http://www.adibba.com/adibba-vendors/Clearance"> --- Clearance</option><option value="http://www.adibba.com/adibba-vendors/Deal-of-the-Day"> --- Deal of the Day</option><option value="http://www.adibba.com/adibba-vendors/Independent"> --- Independent</option><option value="http://www.adibba.com/adibba-vendors/Jumbo-Sport"> --- Jumbo Sport</option><option value="http://www.adibba.com/adibba-vendors/Kola-Kuddus"> --- Kola Kuddus</option><option value="http://www.adibba.com/adibba-vendors/Lace"> --- Lace Boutiques</option><option value="http://www.adibba.com/adibba-vendors/MegaSales"> --- MegaSales</option><option value="http://www.adibba.com/adibba-vendors/NatureGentleTouch"> --- Natures Gentle Touch</option><option value="http://www.adibba.com/adibba-vendors/Paga-Discount"> --- Paga Discount</option><option value="http://www.adibba.com/adibba-vendors/Skywalk"> --- Skywalk</option><option value="http://www.adibba.com/adibba-vendors/Smile-4G"> --- Smile 4G</option><option value="http://www.adibba.com/adibba-vendors/top-link"> --- Top-Link</option><option value="http://www.adibba.com/adibba-vendors/Vitafoam-adibba"> --- Vitafoam</option><option value="http://www.adibba.com/adibba-vendors/Adibba-Bundles"> --- Adibba Bundles</option><option value="http://www.adibba.com/adibba-vendors/trendyfeet"> --- Trendy Feet</option><option value="http://www.adibba.com/adibba-vendors/quaternion "> --- Quaternion</option><option value="http://www.adibba.com/adibba-vendors/icegate"> --- Icegate</option><option value="http://www.adibba.com/adibba-vendors/newmor"> --- Newmor</option><option value="http://www.adibba.com/Beauty-Personal-Care">Beauty Personal Care</option><option value="http://www.adibba.com/Beauty-Personal-Care/ fragrance"> ---  Fragrance</option><option value="http://www.adibba.com/Beauty-Personal-Care/beauty-make-up"> --- Make Up</option><option value="http://www.adibba.com/Beauty-Personal-Care/Body-Skin-Care"> --- Body and Skin Care</option><option value="http://www.adibba.com/Beauty-Personal-Care/Feminine-Care"> --- Feminine Care</option><option value="http://www.adibba.com/Beauty-Personal-Care/hair-center"> --- Hair Centre</option><option value="http://www.adibba.com/Beauty-Personal-Care/Fragances"> --- Fragrance</option><option value="http://www.adibba.com/Beauty-Personal-Care/Couple-Pregnancy "> --- Couple &amp; Pregnancy </option><option value="http://www.adibba.com/books-Stationery">Books &amp; Stationery</option><option value="http://www.adibba.com/books-Stationery/Book-Stationery-Diary-Domino-Product"> --- Diary &gt;Domino Product</option><option value="http://www.adibba.com/books-Stationery/Education-Learning"> --- Education &amp; Learning</option><option value="http://www.adibba.com/books-Stationery/Stationery"> --- STATIONERY</option><option value="http://www.adibba.com/books-Stationery/GREAT-AFRICAN-AUTHORS-BOOKS-AND-STATIONERIES"> --- GREAT AFRICAN AUTHORS</option><option value="http://www.adibba.com/books-Stationery/Books"> --- BOOKS</option><option value="http://www.adibba.com/Computers-and-Accessories">Computers and Accessories</option><option value="http://www.adibba.com/Computers-and-Accessories/Computer"> --- COMPUTER</option><option value="http://www.adibba.com/Computers-and-Accessories/Tablets-Ipad"> --- Tablets &amp; Ipad</option><option value="http://www.adibba.com/Computers-and-Accessories/WIRELESS-DEVICE-GAMES"> --- WIRELESS DEVICE &amp; GAMES</option><option value="http://www.adibba.com/Computers-and-Accessories/Computer-Accessories"> --- ACCESSORIES</option><option value="http://www.adibba.com/Electronics">Electronics</option><option value="http://www.adibba.com/Electronics/Home-Theater-DVD-Cameras"> --- Home Theater, DVD &amp; Cameras</option><option value="http://www.adibba.com/Electronics/Television-Home-appliance"> --- Television</option><option value="http://www.adibba.com/Event-and-ticket">Event and ticket</option><option value="http://www.adibba.com/Fashion">Fashion</option><option value="http://www.adibba.com/Fashion/Ankara-Styles-Fashion"> --- ANKARA STYLES</option><option value="http://www.adibba.com/Fashion/MEN-ACCESSORIES"> --- MEN ACCESSORIES</option><option value="http://www.adibba.com/Fashion/WOMEN-CLOTHING"> --- WOMEN CLOTHING</option><option value="http://www.adibba.com/Fashion/Men-Clothing"> --- MEN CLOTHING</option><option value="http://www.adibba.com/Fashion/Shoes"> --- FOOTWEARS</option><option value="http://www.adibba.com/Fashion/WOMEN-ACCESSORIES"> --- WOMEN ACCESSORIES</option><option value="http://www.adibba.com/Fashion/men-women-Sunglasses"> --- SUNGLASSES</option><option value="http://www.adibba.com/Fashion/Men-women-Watch"> --- WATCH</option><option value="http://www.adibba.com/food-drinks">food &amp; drinks</option><option value="http://www.adibba.com/food-drinks/BreakFast"> --- BreakFast</option><option value="http://www.adibba.com/food-drinks/Food"> --- FOOD</option><option value="http://www.adibba.com/food-drinks/Grains-Meals"> --- Grains &amp;  Meals</option><option value="http://www.adibba.com/food-drinks/Beverage-non-alcoholic"> --- Beverages</option><option value="http://www.adibba.com/food-drinks/BUNDLE-ITEMS"> --- BUNDLE ITEMS</option><option value="http://www.adibba.com/food-drinks/DRINK"> --- DRINK</option><option value="http://www.adibba.com/food-drinks/Flour-Grains"> --- Flour &amp; Grains</option><option value="http://www.adibba.com/food-drinks/Snacks-Candy"> --- Snacks &amp; Candy</option><option value="http://www.adibba.com/food-drinks/Canned-Foods"> --- Canned Foods</option><option value="http://www.adibba.com/food-drinks/Condiments-Spices"> --- Condiments &amp; Spices</option><option value="http://www.adibba.com/Home-Living">Home and Living</option><option value="http://www.adibba.com/Home-Living/HOBBIES-CRAFTS"> --- HOBBIES &amp; CRAFTS</option><option value="http://www.adibba.com/Home-Living/KITCHEN-DINNING"> --- KITCHEN &amp; DINNING</option><option value="http://www.adibba.com/Home-Living/Bathroom-Bedding"> --- Bathroom &amp; Bedding</option><option value="http://www.adibba.com/Home-Living/Furniture-home-living"> --- FURNITURE</option><option value="http://www.adibba.com/Home-Living/Home Appliances"> --- HOME APPLIANCES</option><option value="http://www.adibba.com/Home-Living/Home Décor"> --- HOME DECOR</option><option value="http://www.adibba.com/Home-Living/HOME-SAFETY"> --- HOME SAFETY</option><option value="http://www.adibba.com/Home-Living/KITCHEN-APPLIANCES"> --- KITCHEN APPLIANCES</option><option value="http://www.adibba.com/Home-Living/Laundry-and-Cleaning"> --- LAUNDRY AND CLEANING</option><option value="http://www.adibba.com/Kiddies-Mother-Care">Kiddies &amp; Mother Care</option><option value="http://www.adibba.com/Kiddies-Mother-Care/Boys-Games-Toys-Kids"> --- BOYS</option><option value="http://www.adibba.com/Kiddies-Mother-Care/Mother-Care"> --- Mother Care</option><option value="http://www.adibba.com/Kiddies-Mother-Care/Girls-Games-Toys-Kids"> --- GIRLS</option><option value="http://www.adibba.com/Kiddies-Mother-Care/Games-toys-kids"> --- GAMES</option><option value="http://www.adibba.com/Kiddies-Mother-Care/School-Items-game-toy-kids"> --- School Items</option><option value="http://www.adibba.com/Kiddies-Mother-Care/Movie-Others"> --- Movie &amp; Others</option><option value="http://www.adibba.com/Lighting">Lighting</option><option value="http://www.adibba.com/Mobile-and-Internet-Recharge">Mobile and Internet Recharge</option><option value="http://www.adibba.com/Mobile-and-Internet-Recharge/Smile-4g"> --- Smile 4g</option><option value="http://www.adibba.com/quickteller/list">Mobile Recharge</option><option value="http://www.adibba.com/PERFUME-BRAND">PERFUME BRAND</option><option value="http://www.adibba.com/PERFUME-BRAND/calvin-klein"> --- calvin klein</option><option value="http://www.adibba.com/PERFUME-BRAND/Cerruti"> --- Cerruti</option><option value="http://www.adibba.com/phones">Phones</option><option value="http://www.adibba.com/phones/Mobile-Phone"> --- MOBILE BRANDS</option><option value="http://www.adibba.com/phones/Office-Phones"> --- OFFICE DEVICE</option><option value="http://www.adibba.com/phones/ACCESSORIES"> --- ACCESSORIES</option><option value="http://www.adibba.com/Power-Solutions-Industrial">Power Solutions &amp; Industrial</option><option value="http://www.adibba.com/Power-Solutions-Industrial/Inverters-Power-backups-installation"> --- INVERTERS</option><option value="http://www.adibba.com/Power-Solutions-Industrial/UPS-Surge-Proctector-Others"> --- UPS, Surge Protector &amp; Others</option><option value="http://www.adibba.com/Power-Solutions-Industrial/Inverter-Battery"> --- Inverter Battery</option><option value="http://www.adibba.com/Power-Solutions-Industrial/Automotive-Industrial"> --- Automotive &amp; Industrial</option><option value="http://www.adibba.com/Power-Solutions-Industrial/Solar-Solutions"> --- Solar Solutions</option><option value="http://www.adibba.com/Sports-Fitness-Health">Sports, Fitness &amp; Health</option><option value="http://www.adibba.com/Sports-Fitness-Health/Health-Fitness-sport"> --- HEALTH &amp; FITNESS</option><option value="http://www.adibba.com/Sports-Fitness-Health/Health Accessories"> --- Health Accessories</option><option value="http://www.adibba.com/Sports-Fitness-Health/SPORT-WEAR-FITNESS-HEALTH"> --- JERSEYS</option></select></div>	
-	
-	
+	<div id=""><div class="response-cat"><div><span class="response-cat-text">Categories</span>
+    				<img class="response-cat-img" src="catalog/view/theme/bt_optronics/image/menu2.png"></div>
+    				<select onchange="location = this.value"><option>Cancel</option>
+    				<option value="http://www.adibba.com/">Home</option><option value="http://www.adibba.com/adibba-vendors">Adibba</option><option value="http://www.adibba.com/adibba-vendors/avon"> --- Avon</option><option value="http://www.adibba.com/adibba-vendors/Back-to-School"> --- Back to School</option><option value="http://www.adibba.com/adibba-vendors/Bella-Donna"> --- Bella Donna</option><option value="http://www.adibba.com/adibba-vendors/Christmas"> --- Christmas</option><option value="http://www.adibba.com/adibba-vendors/Clearance"> --- Clearance</option><option value="http://www.adibba.com/adibba-vendors/Deal-of-the-Day"> --- Deal of the Day</option><option value="http://www.adibba.com/adibba-vendors/Independent"> --- Independent</option><option value="http://www.adibba.com/adibba-vendors/Jumbo-Sport"> --- Jumbo Sport</option><option value="http://www.adibba.com/adibba-vendors/Kola-Kuddus"> --- Kola Kuddus</option><option value="http://www.adibba.com/adibba-vendors/Lace"> --- Lace Boutiques</option><option value="http://www.adibba.com/adibba-vendors/MegaSales"> --- MegaSales</option><option value="http://www.adibba.com/adibba-vendors/NatureGentleTouch"> --- Natures Gentle Touch</option><option value="http://www.adibba.com/adibba-vendors/Paga-Discount"> --- Paga Discount</option><option value="http://www.adibba.com/adibba-vendors/Skywalk"> --- Skywalk</option><option value="http://www.adibba.com/adibba-vendors/Smile-4G"> --- Smile 4G</option><option value="http://www.adibba.com/adibba-vendors/top-link"> --- Top-Link</option><option value="http://www.adibba.com/adibba-vendors/Vitafoam-adibba"> --- Vitafoam</option><option value="http://www.adibba.com/adibba-vendors/Adibba-Bundles"> --- Adibba Bundles</option><option value="http://www.adibba.com/adibba-vendors/trendyfeet"> --- Trendy Feet</option><option value="http://www.adibba.com/adibba-vendors/quaternion "> --- Quaternion</option><option value="http://www.adibba.com/adibba-vendors/icegate"> --- Icegate</option><option value="http://www.adibba.com/adibba-vendors/newmor"> --- Newmor</option><option value="http://www.adibba.com/Beauty-Personal-Care">Beauty Personal Care</option><option value="http://www.adibba.com/Beauty-Personal-Care/ fragrance"> ---  Fragrance</option><option value="http://www.adibba.com/Beauty-Personal-Care/beauty-make-up"> --- Make Up</option><option value="http://www.adibba.com/Beauty-Personal-Care/Body-Skin-Care"> --- Body and Skin Care</option><option value="http://www.adibba.com/Beauty-Personal-Care/Feminine-Care"> --- Feminine Care</option><option value="http://www.adibba.com/Beauty-Personal-Care/hair-center"> --- Hair Centre</option><option value="http://www.adibba.com/Beauty-Personal-Care/Fragances"> --- Fragrance</option><option value="http://www.adibba.com/Beauty-Personal-Care/Couple-Pregnancy "> --- Couple &amp; Pregnancy </option><option value="http://www.adibba.com/books-Stationery">Books &amp; Stationery</option><option value="http://www.adibba.com/books-Stationery/Book-Stationery-Diary-Domino-Product"> --- Diary &gt;Domino Product</option><option value="http://www.adibba.com/books-Stationery/Education-Learning"> --- Education &amp; Learning</option><option value="http://www.adibba.com/books-Stationery/Stationery"> --- STATIONERY</option><option value="http://www.adibba.com/books-Stationery/GREAT-AFRICAN-AUTHORS-BOOKS-AND-STATIONERIES"> --- GREAT AFRICAN AUTHORS</option><option value="http://www.adibba.com/books-Stationery/Books"> --- BOOKS</option><option value="http://www.adibba.com/Computers-and-Accessories">Computers and Accessories</option><option value="http://www.adibba.com/Computers-and-Accessories/Computer"> --- COMPUTER</option><option value="http://www.adibba.com/Computers-and-Accessories/Tablets-Ipad"> --- Tablets &amp; Ipad</option><option value="http://www.adibba.com/Computers-and-Accessories/WIRELESS-DEVICE-GAMES"> --- WIRELESS DEVICE &amp; GAMES</option><option value="http://www.adibba.com/Computers-and-Accessories/Computer-Accessories"> --- ACCESSORIES</option><option value="http://www.adibba.com/Electronics-Musical-Instruments">Electronics &amp; Musical Instruments</option><option value="http://www.adibba.com/Electronics-Musical-Instruments/Home-Theater-DVD-Cameras"> --- Home Theater, DVD &amp; Cameras</option><option value="http://www.adibba.com/Electronics-Musical-Instruments/Musical-Instruments-electronics"> --- Musical Instruments</option><option value="http://www.adibba.com/Electronics-Musical-Instruments/Television-Home-appliance"> --- Television</option><option value="http://www.adibba.com/Event-and-ticket">Event and ticket</option><option value="http://www.adibba.com/Fashion">Fashion</option><option value="http://www.adibba.com/Fashion/Ankara-Styles-Fashion"> --- ANKARA STYLES</option><option value="http://www.adibba.com/Fashion/MEN-ACCESSORIES"> --- MEN ACCESSORIES</option><option value="http://www.adibba.com/Fashion/WOMEN-CLOTHING"> --- WOMEN CLOTHING</option><option value="http://www.adibba.com/Fashion/Men-Clothing"> --- MEN CLOTHING</option><option value="http://www.adibba.com/Fashion/Shoes"> --- FOOTWEARS</option><option value="http://www.adibba.com/Fashion/WOMEN-ACCESSORIES"> --- WOMEN ACCESSORIES</option><option value="http://www.adibba.com/Fashion/men-women-Sunglasses"> --- SUNGLASSES</option><option value="http://www.adibba.com/Fashion/Men-women-Watch"> --- WATCH</option><option value="http://www.adibba.com/food-drinks">food &amp; drinks</option><option value="http://www.adibba.com/food-drinks/BreakFast"> --- BreakFast</option><option value="http://www.adibba.com/food-drinks/Food"> --- FOOD</option><option value="http://www.adibba.com/food-drinks/Grains-Meals"> --- Grains &amp;  Meals</option><option value="http://www.adibba.com/food-drinks/Beverage-non-alcoholic"> --- Beverages</option><option value="http://www.adibba.com/food-drinks/BUNDLE-ITEMS"> --- BUNDLE ITEMS</option><option value="http://www.adibba.com/food-drinks/DRINK"> --- DRINK</option><option value="http://www.adibba.com/food-drinks/Flour-Grains"> --- Flour &amp; Grains</option><option value="http://www.adibba.com/food-drinks/Snacks-Candy"> --- Snacks &amp; Candy</option><option value="http://www.adibba.com/food-drinks/Canned-Foods"> --- Canned Foods</option><option value="http://www.adibba.com/food-drinks/Condiments-Spices"> --- Condiments &amp; Spices</option><option value="http://www.adibba.com/Home-Living">Home and Living</option><option value="http://www.adibba.com/Home-Living/HOBBIES-CRAFTS"> --- HOBBIES &amp; CRAFTS</option><option value="http://www.adibba.com/Home-Living/KITCHEN-DINNING"> --- KITCHEN &amp; DINNING</option><option value="http://www.adibba.com/Home-Living/Bathroom-Bedding"> --- Bathroom &amp; Bedding</option><option value="http://www.adibba.com/Home-Living/Furniture-home-living"> --- FURNITURE</option><option value="http://www.adibba.com/Home-Living/Home Appliances"> --- HOME APPLIANCES</option><option value="http://www.adibba.com/Home-Living/Home Décor"> --- HOME DECOR</option><option value="http://www.adibba.com/Home-Living/HOME-SAFETY"> --- HOME SAFETY</option><option value="http://www.adibba.com/Home-Living/KITCHEN-APPLIANCES"> --- KITCHEN APPLIANCES</option><option value="http://www.adibba.com/Home-Living/Laundry-and-Cleaning"> --- LAUNDRY AND CLEANING</option><option value="http://www.adibba.com/Kiddies-Mother-Care">Kiddies &amp; Mother Care</option><option value="http://www.adibba.com/Kiddies-Mother-Care/Boys-Games-Toys-Kids"> --- BOYS</option><option value="http://www.adibba.com/Kiddies-Mother-Care/Mother-Care"> --- Mother Care</option><option value="http://www.adibba.com/Kiddies-Mother-Care/Girls-Games-Toys-Kids"> --- GIRLS</option><option value="http://www.adibba.com/Kiddies-Mother-Care/Games-toys-kids"> --- GAMES</option><option value="http://www.adibba.com/Kiddies-Mother-Care/School-Items-game-toy-kids"> --- School Items</option><option value="http://www.adibba.com/Kiddies-Mother-Care/Movie-Others"> --- Movie &amp; Others</option><option value="http://www.adibba.com/Lighting">Lighting</option><option value="http://www.adibba.com/Mobile-and-Internet-Recharge">Mobile and Internet Recharge</option><option value="http://www.adibba.com/Mobile-and-Internet-Recharge/Smile-4g"> --- Smile 4g</option><option value="http://www.adibba.com/quickteller/list">Mobile Recharge</option><option value="http://www.adibba.com/PERFUME-BRAND">PERFUME BRAND</option><option value="http://www.adibba.com/PERFUME-BRAND/calvin-klein"> --- calvin klein</option><option value="http://www.adibba.com/PERFUME-BRAND/Cerruti"> --- Cerruti</option><option value="http://www.adibba.com/phones">Phones</option><option value="http://www.adibba.com/phones/Mobile-Phone"> --- MOBILE BRANDS</option><option value="http://www.adibba.com/phones/Office-Phones"> --- OFFICE DEVICE</option><option value="http://www.adibba.com/phones/ACCESSORIES"> --- ACCESSORIES</option><option value="http://www.adibba.com/Power-Solutions-Industrial">Power Solutions &amp; Industrial</option><option value="http://www.adibba.com/Power-Solutions-Industrial/Inverters-Power-backups-installation"> --- INVERTERS</option><option value="http://www.adibba.com/Power-Solutions-Industrial/UPS-Surge-Proctector-Others"> --- UPS, Surge Protector &amp; Others</option><option value="http://www.adibba.com/Power-Solutions-Industrial/Inverter-Battery"> --- Inverter Battery</option><option value="http://www.adibba.com/Power-Solutions-Industrial/Automotive-Industrial"> --- Automotive &amp; Industrial</option><option value="http://www.adibba.com/Power-Solutions-Industrial/Solar-Solutions"> --- Solar Solutions</option><option value="http://www.adibba.com/Sports-Fitness-Health">Sports, Fitness &amp; Health</option><option value="http://www.adibba.com/Sports-Fitness-Health/Health-Fitness-sport"> --- HEALTH &amp; FITNESS</option><option value="http://www.adibba.com/Sports-Fitness-Health/Health Accessories"> --- Health Accessories</option><option value="http://www.adibba.com/Sports-Fitness-Health/SPORT-WEAR-FITNESS-HEALTH"> --- JERSEYS</option></select>	
+    				</div></div>
 	
 	<div id="mb-login"></div>
 	<div id="mb-cart"></div>
@@ -133,13 +221,14 @@ DD_belatedPNG.fix('#logo img');
 		<div id="pc-links"><div class="links"><a href="http://www.adibba.com/account/wishlist" id="wishlist-total">Wish List (0)</a><a class="no-need" href="http://www.adibba.com/account/account">My Account</a><a class="no-need" href="http://www.adibba.com/checkout/checkout">Checkout</a></div></div>
 	</div>
 	<div class="header-middle">		
-				<div id="logo"><a href="http://www.adibba.com/"><img src="http://adibba2.adibba.netdna-cdn.com/image/data/A-banners/adiba-logo-200x40.png" title="Adibba Online Shopping Limited" alt="Adibba Online Shopping Limited"></a></div>
+				<div id="logo"><a href="http://www.adibba.com/"><img src="http://adibba2.adibba.netdna-cdn.com/image/data/A-banners/adiba-logo-200x40.png" title="Adibba Online Shopping Limited" alt="Adibba Online Shopping Limited"></a>  	</div>
 				
 <div id="static-header-top">
 
   
   <style type="text/css">a {
-    font-size:8px;
+    
+    font-size: 9px;font-family: verdana, arial, sans-serif;
 }
   
   
@@ -163,42 +252,27 @@ a:active {
 }
 </style>
 <div class="static-header-top">
-<div class="static-header static-1"><a href="#"><img alt="Phone" src="http://adibba2.adibba.netdna-cdn.com/image/data/bt_optronics/Mobile-Phone.png" style="width: 32px; height: 32px;font-family: verdana, arial, sans-serif" title="Phone"></a>
-<div class="static-content">
-<h6 style="font-size: 8px;font-weight: bold;font-family: verdana, arial, sans-serif">Need Help?</h6>
-
-<h6>Call: <span style="font-size: 8px;font-weight: normal;font-family: verdana, arial, sans-serif">08093704688 or 01-4607080</span></h6>
-</div>
+<div class="static-header static-1"><a href="/index.php?route=feed/latest_products_rss"><span><img alt="Adibba Latest Products feed" src="http://adibba.com/image/data/feeds/adibba-rss-feed.png" style="font-family: verdana, arial, sans-serif;margin:2px;" title="Adibba latest products feed"></span></a> <span><a href="/index.php?route=feed/latest_products_rss">Subscribe<br>
+Latest Products</a></span>
+<div class="static-content">&nbsp;</div>
 </div>
 
-<div class="static-header static-2"><a href="http://adibba2.adibba.netdna-cdn.com/adibba%20return%20policy"><img alt="Return" src="http://adibba2.adibba.netdna-cdn.com/image/data/bt_optronics/Returns.png" style="width: 32px; height: 32px;margin-right: 5px;" title="Return"></a>
+<div class="static-header static-1"><a href="#"><img alt="Phone" src="http://adibba.com/image/data/bt_optronics/Mobile-Phone.png" style="width: 32px; height: 32px;font-family: verdana, arial, sans-serif" title="Phone"></a>
 
-<div class="static-content">
-<h6 style="font-size:8px;font-weight: bold;font-family: verdana, arial, sans-serif;line-height: 0px;margin-bottom:0px;"><a href="http://adibba2.adibba.netdna-cdn.com/adibba%20return%20policy">100% on Return</a></h6>
-&nbsp;
-
-<h6 style="font-size:8px;font-weight: normal;font-family: verdana, arial, sans-serif"><a href="http://adibba2.adibba.netdna-cdn.com/adibba%20return%20policy">7 Days Return Policy</a></h6>
-</div>
+<div class="static-content"><span style="font-size: 9px;font-weight: bold;font-family: verdana, arial, sans-serif">Need Help?</span><br>
+<span style="font-size: 9px;font-weight: normal;font-family: verdana, arial, sans-serif">Call:08093704688 or 01-4607080</span></div>
 </div>
 
-<div class="static-header static-3"><a href="#"><img alt="For Orders above N5,000" src="http://adibba2.adibba.netdna-cdn.com/image/data/bt_optronics/Payment.png" style="width: 32px; height: 32px;margin-right: 5px;" title="For Orders above N5,000"></a>
+<div class="static-header static-2"><a href="http://adibba2.adibba.netdna-cdn.com/adibba%20return%20policy"><img alt="Return" src="http://adibba.com/image/data/bt_optronics/Returns.png" style="width: 32px; height: 32px;margin-right: 5px;" title="Return"></a>
 
-<div class="static-content">
-<h6 style="font-size:8px;font-weight: bold;font-family: verdana, arial, sans-serif;line-height: 0px;margin-bottom:0px;">Pay on Delivery</h6>
-&nbsp;
-
-<h6 style="font-size:8px;font-weight: normal;font-family: verdana, arial, sans-serif;line-height: 0px;margin-bottom:0px;">Pay by Cash or POS</h6>
-</div>
+<div class="static-content"><span style="font-size:8px;font-weight: bold;font-family: verdana, arial, sans-serif;line-height: 0px;margin-bottom:0px;"><a href="http://adibba2.adibba.netdna-cdn.com/adibba%20return%20policy">100% on Return</a></span><br>
+<span style="font-size:8px;font-weight: normal;font-family: verdana, arial, sans-serif"><a href="http://adibba2.adibba.netdna-cdn.com/adibba%20return%20policy">7 Days Return Policy</a></span></div>
 </div>
 
-<div class="static-header static-3"><a href="http://adibba2.adibba.netdna-cdn.com/MegaSales"><img alt="Return" src="http://adibba2.adibba.netdna-cdn.com/image/data/bt_optronics/MegaSales.png" style="width: 32px; height: 32px;font-family: verdana, arial, sans-serif" title="MegaSales"></a>
+<div class="static-header static-3"><a href="#"><img alt="For Orders above N5,000" src="http://adibba.com/image/data/bt_optronics/Payment.png" style="width: 32px; height: 32px;margin-right: 5px;" title="For Orders above N5,000"></a>
 
-<div class="static-content">
-<h6 style="font-size:8px;font-weight: bold;font-family: verdana, arial, sans-serif;margin-bottom: 0px;line-height: 0px;"><a href="http://adibba.com/MegaSales">MegaSales</a></h6>
-&nbsp;
-
-<h6 style="font-size:8px;font-weight: normal;font-family: verdana, arial, sans-serif"><a href="http://adibba.com/MegaSales">Click Here</a></h6>
-</div>
+<div class="static-content"><span style="font-size:9px;font-weight: bold;font-family: verdana, arial, sans-serif;line-height: 0px;margin-bottom:0px;">Pay on Delivery</span><br>
+<span style="font-size:9px;font-weight: normal;font-family: verdana, arial, sans-serif;line-height: 0px;margin-bottom:0px;">Pay by Cash or POS</span></div>
 </div>
 </div>
 
@@ -219,13 +293,13 @@ a:active {
 
 	
 	
-	<li class="even"><a href="http://www.adibba.com/phones">Phones</a>
+	<li class="even"><a href="http://www.adibba.com/Home-Living">Home and Living</a>
 
 		
-		<div style="width: 600px; color: white;" class="dropdown">
+		<div style="width: 800px; color: white;" class="dropdown">
 
 			
-			<div style="width: 200px; float: left" class="option">
+			<div style="width: 114.28571428571px; float: left" class="option">
 
 				<!-- manufacturer -->
 
@@ -234,23 +308,23 @@ a:active {
 
 				
 					
-						<a href="http://www.adibba.com/Mobile-Phone" class="parent">
+						<a href="http://www.adibba.com/Home Appliances" class="parent">
 
 							
-							MOBILE BRANDS
+							HOME APPLIANCES
 						</a>
 
 					
 					
-						<ul style="display: table-cell; width: 200px" class="column category">
+						<ul style="display: table-cell; width: 114.28571428571px" class="column category">
 
 						  
 						  
 							  
-								<li><a href="http://www.adibba.com/Blackberry-Phones">
+								<li><a href="http://www.adibba.com/Freezers">
 
 									
-									<span>Blackberry</span>
+									<span>Freezers</span>
 
 								</a>
 
@@ -260,10 +334,10 @@ a:active {
 							  
 						  
 							  
-								<li><a href="http://www.adibba.com/Elephone">
+								<li><a href="http://www.adibba.com/Home-Accessories">
 
 									
-									<span>Elephone</span>
+									<span>Home Accessories</span>
 
 								</a>
 
@@ -273,10 +347,10 @@ a:active {
 							  
 						  
 							  
-								<li><a href="http://www.adibba.com/Apple-Phones">
+								<li><a href="http://www.adibba.com/Rechargeable-Fans-Air-Cooler">
 
 									
-									<span>Apple</span>
+									<span>Rechargeable Fans &amp; Air Cooler</span>
 
 								</a>
 
@@ -286,10 +360,23 @@ a:active {
 							  
 						  
 							  
-								<li><a href="http://www.adibba.com/Samsung">
+								<li><a href="http://www.adibba.com/Air-Conditioners">
 
 									
-									<span>Samsung</span>
+									<span>Air Conditioners</span>
+
+								</a>
+
+								<div class="sub_menu"><ul><li><a href="http://www.adibba.com/Air-Conditioners/Hisense-air-conditioner">Hisense</a></li><li><a href="http://www.adibba.com/Air-Conditioners/LG-Air-Conditioner">LG</a></li><li><a href="http://www.adibba.com/Air-Conditioners/Panasonic-ac">Panasonic</a></li><li><a href="http://www.adibba.com/Air-Conditioners/Polystar-Air-Conditioner">Polystar</a></li><li><a href="http://www.adibba.com/Air-Conditioners/samsung-air-conditioner">Samsung</a></li><li><a href="http://www.adibba.com/Air-Conditioners/Buy-Scanfrost-Air-Cooler">Scanfrost </a></li><li><a href="http://www.adibba.com/Air-Conditioners/Chigo- air- conditioner">Chigo</a></li><li><a href="http://www.adibba.com/Air-Conditioners/Frigidaire-air-conditioner">Frigidaire</a></li></ul></div>
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Ceiling-Standing-Wall-Fans">
+
+									
+									<span>Ceiling, Standing &amp; Wall Fans</span>
 
 								</a>
 
@@ -299,7 +386,456 @@ a:active {
 							  
 						  
 							  
-								<li><a href="http://www.adibba.com/LG-Phones">
+								<li><a href="http://www.adibba.com/Antennas">
+
+									
+									<span>Antennas</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Iron-&amp;Steamers">
+
+									
+									<span>Iron &amp;Steamers</span>
+
+								</a>
+
+								<div class="sub_menu"><ul><li><a href="http://www.adibba.com/Iron-&amp;Steamers/Panasonic-Iron&amp;Steamer">Panasonic</a></li></ul></div>
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Refrigerators">
+
+									
+									<span>Refrigerators</span>
+
+								</a>
+
+								<div class="sub_menu"><ul><li><a href="http://www.adibba.com/Refrigerators/LG-Refrigerator">LG</a></li><li><a href="http://www.adibba.com/Refrigerators/Samsung-refrigerator">Samsung</a></li><li><a href="http://www.adibba.com/Refrigerators/Haier-Thermocool">Haier Thermocool</a></li><li><a href="http://www.adibba.com/Refrigerators/Royal">Royal</a></li><li><a href="http://www.adibba.com/Refrigerators/Ignis">Ignis</a></li><li><a href="http://www.adibba.com/Refrigerators/Daewoo-refrigerators">Daewoo</a></li><li><a href="http://www.adibba.com/Refrigerators/Hisense">Hisense</a></li><li><a href="http://www.adibba.com/Refrigerators/Polystar-Refrigerator">Polystar</a></li></ul></div>
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Vacuum-Cleaners">
+
+									
+									<span>Vacuum Cleaners</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Washing-Machines-Dryers">
+
+									
+									<span>Washing Machines &amp; Dryers</span>
+
+								</a>
+
+								<div class="sub_menu"><ul><li><a href="http://www.adibba.com/Washing-Machines-Dryers/Haier-Thermocool">Haier Thermocool</a></li><li><a href="http://www.adibba.com/Washing-Machines-Dryers/LG-washing-machine">LG</a></li><li><a href="http://www.adibba.com/Washing-Machines-Dryers/Samsung-washing-manchine">Samsung</a></li><li><a href="http://www.adibba.com/Washing-Machines-Dryers/Royal-washing-machine">Royal</a></li><li><a href="http://www.adibba.com/Washing-Machines-Dryers/Scanfrost">Scanfrost</a></li><li><a href="http://www.adibba.com/Washing-Machines-Dryers/Ignis-Indesit-Hisense">Ignis, Indesit &amp; Hisense</a></li><li><a href="http://www.adibba.com/Washing-Machines-Dryers/Frigidaire-washing-Machine">Frigidaire</a></li><li><a href="http://www.adibba.com/Washing-Machines-Dryers/Icegate-washing-manchine">Icegate</a></li></ul></div>
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Water-Dispensers">
+
+									
+									<span>Water Dispensers</span>
+
+								</a>
+
+								<div class="sub_menu"><ul><li><a href="http://www.adibba.com/Water-Dispensers/CWAY-water-dispenser">CWAY DISPENSER</a></li></ul></div>
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+			<div style="width: 114.28571428571px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/KITCHEN-APPLIANCES" class="parent">
+
+							
+							KITCHEN APPLIANCES
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 114.28571428571px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/Blender-Juicers-Mixers">
+
+									
+									<span>Blender, Juicers &amp; Mixers</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Coffee-Shawama-Machines">
+
+									
+									<span>Coffee &amp; Shawama Machines</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Deep-Air-Fryers">
+
+									
+									<span>Deep &amp; Air Fryers</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Dish-Washers">
+
+									
+									<span>Dish Washers</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Gas-Cooker-Oven-Hood-Hobs">
+
+									
+									<span>Gas Cooker, Oven, Hood &amp; Hobs</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Kettles">
+
+									
+									<span>Kettles</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Kitchen-Accessories">
+
+									
+									<span>Kitchen Accessories</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Microwaves-Steamer">
+
+									
+									<span>Microwaves &amp; Steamer</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Pan-Pot-Bakewares-Spoon">
+
+									
+									<span>Pan, Pot, Bakewares &amp; Spoon</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Rice-Pressure-Cookers">
+
+									
+									<span>Rice &amp; Pressure Cookers</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Toasters">
+
+									
+									<span>Toasters</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+			<div style="width: 114.28571428571px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/Furniture-home-living" class="parent">
+
+							
+							FURNITURE
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 114.28571428571px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/Dinning-">
+
+									
+									<span>Dinning </span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Kitchen-Furnitures">
+
+									
+									<span>Kitchen Furnitures</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Office-Furnitures">
+
+									
+									<span>Office Furnitures</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/School-Furnitures">
+
+									
+									<span>School Furnitures</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Vitafoam">
+
+									
+									<span>Vitafoam</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/product/category&amp;path=358">
+
+									
+									<span>Bedroom</span>
+
+								</a>
+
+								<div class="sub_menu"><ul><li><a href="http://www.adibba.com/Home and Living-Bedroom-Mattress">Mattress</a></li></ul></div>
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Bedding-Section-furniture">
+
+									
+									<span>Bedding Section</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Living-Room-furniture">
+
+									
+									<span>Living Room</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+			<div style="width: 114.28571428571px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/Television-Home-appliance" class="parent">
+
+							
+							Television
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 114.28571428571px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/JVC-television">
+
+									
+									<span>JVC</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/LG Television">
 
 									
 									<span>LG</span>
@@ -312,10 +848,10 @@ a:active {
 							  
 						  
 							  
-								<li><a href="http://www.adibba.com/Nokia-Phones">
+								<li><a href="http://www.adibba.com/Panasonic Television">
 
 									
-									<span>Nokia</span>
+									<span>Panasonic</span>
 
 								</a>
 
@@ -325,10 +861,10 @@ a:active {
 							  
 						  
 							  
-								<li><a href="http://www.adibba.com/HTC-Phones">
+								<li><a href="http://www.adibba.com/Polystar Television">
 
 									
-									<span>HTC</span>
+									<span>Polystar</span>
 
 								</a>
 
@@ -338,10 +874,10 @@ a:active {
 							  
 						  
 							  
-								<li><a href="http://www.adibba.com/Huwai-Phones">
+								<li><a href="http://www.adibba.com/Samsung Television">
 
 									
-									<span>Huawei</span>
+									<span>Samsung</span>
 
 								</a>
 
@@ -351,62 +887,10 @@ a:active {
 							  
 						  
 							  
-								<li><a href="http://www.adibba.com/Lenovo-Phones">
+								<li><a href="http://www.adibba.com/Hisense">
 
 									
-									<span>Lenovo</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Tecno-Phones">
-
-									
-									<span>Tecno</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/infinix-smartphones">
-
-									
-									<span>Infinix</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Sony-mobile-brands">
-
-									
-									<span>Sony </span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Others-smartphones-gionee-innjoo">
-
-									
-									<span>Others</span>
+									<span>Hisense</span>
 
 								</a>
 
@@ -431,7 +915,7 @@ a:active {
 			</div>
 
 			
-			<div style="width: 200px; float: left" class="option">
+			<div style="width: 114.28571428571px; float: left" class="option">
 
 				<!-- manufacturer -->
 
@@ -440,23 +924,23 @@ a:active {
 
 				
 					
-						<a href="http://www.adibba.com/ACCESSORIES" class="parent">
+						<a href="http://www.adibba.com/KITCHEN-DINNING" class="parent">
 
 							
-							ACCESSORIES
+							KITCHEN &amp; DINNING
 						</a>
 
 					
 					
-						<ul style="display: table-cell; width: 200px" class="column category">
+						<ul style="display: table-cell; width: 114.28571428571px" class="column category">
 
 						  
 						  
 							  
-								<li><a href="http://www.adibba.com/Batteries">
+								<li><a href="http://www.adibba.com/Cups">
 
 									
-									<span>Batteries</span>
+									<span>Cups</span>
 
 								</a>
 
@@ -466,10 +950,10 @@ a:active {
 							  
 						  
 							  
-								<li><a href="http://www.adibba.com/Chargers-Power-Bank">
+								<li><a href="http://www.adibba.com/Dining">
 
 									
-									<span>Chargers &amp; Power Bank</span>
+									<span>Dinning</span>
 
 								</a>
 
@@ -479,10 +963,10 @@ a:active {
 							  
 						  
 							  
-								<li><a href="http://www.adibba.com/HeadPhones-Cases-Stands">
+								<li><a href="http://www.adibba.com/Kitchen-Tools-Utensils">
 
 									
-									<span>HeadPhones, Cases &amp; Stands</span>
+									<span>Kitchen Tools &amp; Utensils</span>
 
 								</a>
 
@@ -492,10 +976,10 @@ a:active {
 							  
 						  
 							  
-								<li><a href="http://www.adibba.com/Screen-Covers">
+								<li><a href="http://www.adibba.com/Wine-Openers">
 
 									
-									<span>Screen Covers</span>
+									<span>Wine Openers</span>
 
 								</a>
 
@@ -520,7 +1004,7 @@ a:active {
 			</div>
 
 			
-			<div style="width: 200px; float: left" class="option">
+			<div style="width: 114.28571428571px; float: left" class="option">
 
 				<!-- manufacturer -->
 
@@ -529,23 +1013,23 @@ a:active {
 
 				
 					
-						<a href="http://www.adibba.com/Office-Phones" class="parent">
+						<a href="http://www.adibba.com/HOME-SAFETY" class="parent">
 
 							
-							OFFICE DEVICE
+							HOME SAFETY
 						</a>
 
 					
 					
-						<ul style="display: table-cell; width: 200px" class="column category">
+						<ul style="display: table-cell; width: 114.28571428571px" class="column category">
 
 						  
 						  
 							  
-								<li><a href="http://www.adibba.com/analogue-handsets-office-phones">
+								<li><a href="http://www.adibba.com/Security-Cameras">
 
 									
-									<span>Analogue Handsets</span>
+									<span>Security Cameras</span>
 
 								</a>
 
@@ -555,10 +1039,60 @@ a:active {
 							  
 						  
 							  
-								<li><a href="http://www.adibba.com/gigaset-office-phones">
+								<li><a href="http://www.adibba.com/Smoke-Alarms">
 
 									
-									<span>Gigaset</span>
+									<span>Smoke Alarms</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+			<div style="width: 114.28571428571px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/Home Décor" class="parent">
+
+							
+							HOME DECOR
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 114.28571428571px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/Clock">
+
+									
+									<span>Clock</span>
 
 								</a>
 
@@ -568,10 +1102,10 @@ a:active {
 							  
 						  
 							  
-								<li><a href="http://www.adibba.com/OfficeServ-7030-OFFICE-DEVICE">
+								<li><a href="http://www.adibba.com/Fragrances-Air-fresheners">
 
 									
-									<span>OfficeServ 7030</span>
+									<span>Fragrances &amp; Air fresheners</span>
 
 								</a>
 
@@ -581,10 +1115,10 @@ a:active {
 							  
 						  
 							  
-								<li><a href="http://www.adibba.com/Samsung-Digital-Keysets">
+								<li><a href="http://www.adibba.com/Throw-Pillows">
 
 									
-									<span>Samsung Digital Keysets</span>
+									<span>Throw Pillows</span>
 
 								</a>
 
@@ -594,10 +1128,10 @@ a:active {
 							  
 						  
 							  
-								<li><a href="http://www.adibba.com/samsung.0ficce">
+								<li><a href="http://www.adibba.com/Wall-Paintings-Stickers">
 
 									
-									<span>Samsung IP Handsets</span>
+									<span>Wall Paintings &amp; Stickers</span>
 
 								</a>
 
@@ -607,10 +1141,10 @@ a:active {
 							  
 						  
 							  
-								<li><a href="http://www.adibba.com/Wireless">
+								<li><a href="http://www.adibba.com/Bedside-Center-Rugs">
 
 									
-									<span>Wireless</span>
+									<span>Bedside &amp; Center Rugs</span>
 
 								</a>
 
@@ -620,10 +1154,543 @@ a:active {
 							  
 						  
 							  
-								<li><a href="http://www.adibba.com/OfficeServ-7100-device">
+								<li><a href="http://www.adibba.com/Light-&amp;-Fittings">
 
 									
-									<span>OfficeServ 7100</span>
+									<span>Light &amp; Fittings</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+			<div style="width: 114.28571428571px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/Laundry-and-Cleaning" class="parent">
+
+							
+							LAUNDRY AND CLEANING
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 114.28571428571px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/Cleaning-Tools">
+
+									
+									<span>Cleaning Tools</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Soap">
+
+									
+									<span>Soap</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/LAUNDRY-Accessories">
+
+									
+									<span>LAUNDRY Accessories</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+			<div style="width: 114.28571428571px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/HOBBIES-CRAFTS" class="parent">
+
+							
+							HOBBIES &amp; CRAFTS
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 114.28571428571px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/Sewing-Tools-Accessories">
+
+									
+									<span>Sewing Tools &amp; Accessories</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+			<div style="width: 114.28571428571px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/Bathroom-Bedding" class="parent">
+
+							
+							Bathroom &amp; Bedding
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 114.28571428571px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/Bathroom">
+
+									
+									<span>Bathroom</span>
+
+								</a>
+
+								<div class="sub_menu"><ul><li><a href="http://www.adibba.com/Bathroom/Bathroom-Accessories">Bathroom Accessories</a></li><li><a href="http://www.adibba.com/Bathroom/Hardwares">Hardwares</a></li><li><a href="http://www.adibba.com/Bathroom/Shower-Curtains">Shower Curtains</a></li><li><a href="http://www.adibba.com/Bathroom/Towel-Bathropes">Towel &amp; Bathropes</a></li></ul></div>
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Bedding">
+
+									
+									<span>Bedding</span>
+
+								</a>
+
+								<div class="sub_menu"><ul><li><a href="http://www.adibba.com/Bedding/BedSheet-&amp;-Pillows">BedSheet &amp; Pillows</a></li><li><a href="http://www.adibba.com/Bedding/Duvet-Cover-&amp;-Quilts-">Duvet Cover &amp; Quilts </a></li></ul></div>
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+		</div>
+
+		
+	</li>
+
+  
+	<li class="odd"><a href="http://www.adibba.com/Electronics-Musical-Instruments">Electronics &amp; Musical Instruments</a>
+
+		
+		<div style="width: 400px; color: white;" class="dropdown">
+
+			
+			<div style="width: 133.33333333333px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/Television-Home-appliance" class="parent">
+
+							
+							Television
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 133.33333333333px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/JVC-television">
+
+									
+									<span>JVC</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/LG Television">
+
+									
+									<span>LG</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Panasonic Television">
+
+									
+									<span>Panasonic</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Polystar Television">
+
+									
+									<span>Polystar</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Samsung Television">
+
+									
+									<span>Samsung</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Hisense">
+
+									
+									<span>Hisense</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+			<div style="width: 133.33333333333px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/Home-Theater-DVD-Cameras" class="parent">
+
+							
+							Home Theater, DVD &amp; Cameras
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 133.33333333333px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/Camera-Video-Recorders">
+
+									
+									<span>Camera &amp; Video Recorders</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Car-Radio-Stereo">
+
+									
+									<span>Car Radio - Stereo</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/DVD-Players">
+
+									
+									<span>DVD Players</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Home-Theatre">
+
+									
+									<span>Home Theatre</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/ipod-MP3-Player">
+
+									
+									<span>ipod &amp; MP3 Player</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/SPEAKERS-electronics">
+
+									
+									<span>SPEAKERS</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Audio-System">
+
+									
+									<span>Audio System</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+			<div style="width: 133.33333333333px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/Musical-Instruments-electronics" class="parent">
+
+							
+							Musical Instruments
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 133.33333333333px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/Amplifiers">
+
+									
+									<span>Amplifiers</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Electronic-Drums">
+
+									
+									<span>Electronic Drums</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Equalizers">
+
+									
+									<span>Equalizers</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Mixers">
+
+									
+									<span>Mixers</span>
 
 								</a>
 
@@ -654,7 +1721,1307 @@ a:active {
 	</li>
 
   
-	<li class="odd"><a href="http://www.adibba.com/Fashion">Fashion</a>
+	<li class="even"><a href="http://www.adibba.com/Computers-and-Accessories">Computers &amp; Accessories</a>
+
+		
+		<div style="width: 600px; color: white;" class="dropdown">
+
+			
+			<div style="width: 120px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/Computer" class="parent">
+
+							
+							COMPUTER
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 120px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/Printers-Scanners-Accessories">
+
+									
+									<span>Printers, Scanners &amp; Accessories</span>
+
+								</a>
+
+								<div class="sub_menu"><ul><li><a href="http://www.adibba.com/Printers-Scanners-Accessories/inks-toners-cartridges">inks-toners-cartridges</a></li></ul></div>
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Laptops">
+
+									
+									<span>Laptops</span>
+
+								</a>
+
+								<div class="sub_menu"><ul><li><a href="http://www.adibba.com/Laptops/Acer Laptop">Acer</a></li><li><a href="http://www.adibba.com/Laptops/Apple Laptop">Apple</a></li><li><a href="http://www.adibba.com/Laptops/ASUS">ASUS</a></li><li><a href="http://www.adibba.com/Laptops/Dell laptop">Dell</a></li><li><a href="http://www.adibba.com/Laptops/HP-Laptop">HP</a></li><li><a href="http://www.adibba.com/Laptops/Lenovo Laptop">Lenovo</a></li><li><a href="http://www.adibba.com/Laptops/LG">LG</a></li><li><a href="http://www.adibba.com/Laptops/Samsung-laptops">Samsung</a></li><li><a href="http://www.adibba.com/Laptops/Toshiba-Laptops">Toshiba</a></li></ul></div>
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Desktop-Monitors">
+
+									
+									<span>Desktop &amp; Monitors</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Security-Cameras">
+
+									
+									<span>Security Cameras</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+			<div style="width: 120px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/Tablets-Ipad" class="parent">
+
+							
+							Tablets &amp; Ipad
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 120px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/Apple Tablet">
+
+									
+									<span>Apple</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/ASUS-Tablet">
+
+									
+									<span>ASUS</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Lenovo-Tablet">
+
+									
+									<span>Lenovo</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Acer Tablet">
+
+									
+									<span>Acer</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/LG Tablet">
+
+									
+									<span>LG</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Microsoft">
+
+									
+									<span>Microsoft</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Bryte-Tablet">
+
+									
+									<span>Bryte</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Samsung-Galaxy-Tab">
+
+									
+									<span>Samsung</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/bamboo-D700-tablet">
+
+									
+									<span>Bamboo</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+			<div style="width: 120px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/WIRELESS-DEVICE-GAMES" class="parent">
+
+							
+							WIRELESS DEVICE &amp; GAMES
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 120px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/Games-Consoles-Movies">
+
+									
+									<span>Games, Consoles &amp; Movies</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Rack-&amp;-Switches">
+
+									
+									<span>Rack &amp; Switches</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Wireless-electronics-comp">
+
+									
+									<span>Wireless</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Wlan-adapter">
+
+									
+									<span>WLAN Adapter</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+			<div style="width: 120px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/Computer-Accessories" class="parent">
+
+							
+							ACCESSORIES
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 120px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/Computer-Accessories">
+
+									
+									<span>Computer Accessories</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Projector">
+
+									
+									<span>Projector</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Headphone-Speakers-computer-accessories">
+
+									
+									<span>Headphone, Webcams &amp; Speakers</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/ANTI">
+
+									
+									<span>ANTI-VIRUS</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/iPod-Tablet-accessories">
+
+									
+									<span>iPod &amp;Tablet-accessories</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Memory-card-computer">
+
+									
+									<span>Memory Card</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+			<div style="width: 120px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+					<div class="staticblock"><p><img alt="" src="http://adibba.adibba.netdna-cdn.com/image/data/computer/MD772.jpg" style="width: 80px; height: 80px;"></p>
+</div>
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+		</div>
+
+		
+	</li>
+
+  
+	<li class="odd"><a href="http://www.adibba.com/Power-Solutions-Industrial">Power Solutions &amp; Industrial</a>
+
+		
+		<div style="width: 800px; color: white;" class="dropdown">
+
+			
+			<div style="width: 133.33333333333px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/Inverters-Power-backups-installation" class="parent">
+
+							
+							INVERTERS
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 133.33333333333px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/Kevin">
+
+									
+									<span>Kevin</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Su-kam-inverter">
+
+									
+									<span>Su-kam</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Threshold">
+
+									
+									<span>Threshold</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+			<div style="width: 133.33333333333px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/Inverter-Battery" class="parent">
+
+							
+							Inverter Battery
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 133.33333333333px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/Ritar-inverter">
+
+									
+									<span>Ritar</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Trojan-batteries">
+
+									
+									<span>Trojan</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Su-kam">
+
+									
+									<span>Su-kam</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Mercury-inverters">
+
+									
+									<span>Mercury</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+			<div style="width: 133.33333333333px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/Solar-Solutions" class="parent">
+
+							
+							Solar Solutions
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 133.33333333333px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/PV-Modules-solar-solutions">
+
+									
+									<span>PV Modules</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Solar-Panel">
+
+									
+									<span>Solar Panel</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Inverter-and-Controllers">
+
+									
+									<span>Inverter &amp; Controllers</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Solar-Batteries-solutions">
+
+									
+									<span>Solar Batteries</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Appliance-solar-solution">
+
+									
+									<span>Appliance</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Accessories-solar-solutions">
+
+									
+									<span>Accessories</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+			<div style="width: 133.33333333333px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/UPS-Surge-Proctector-Others" class="parent">
+
+							
+							UPS, Surge Protector &amp; Others
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 133.33333333333px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/LIGHTING">
+
+									
+									<span>LIGHTING</span>
+
+								</a>
+
+								<div class="sub_menu"><ul><li><a href="http://www.adibba.com/LIGHTING/Bulbs">Bulbs</a></li><li><a href="http://www.adibba.com/LIGHTING/LED-light">LED light</a></li></ul></div>
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Surge-Protectors-Others">
+
+									
+									<span>Surge Protectors &amp; Others</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/UPS">
+
+									
+									<span>UPS</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Stabilizer-Step-down">
+
+									
+									<span>Stabilizer and Step-down</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+			<div style="width: 133.33333333333px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/Automotive-Industrial" class="parent">
+
+							
+							Automotive &amp; Industrial
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 133.33333333333px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/Car-Accessories">
+
+									
+									<span>Car Accessories</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Generator-Power-Supply">
+
+									
+									<span>GENERATOR &amp; POWER SUPPLY</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/CCTV-Camera">
+
+									
+									<span>CCTV Camera</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Car-Battery">
+
+									
+									<span>Car Battery</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Industrial Safety Equipment">
+
+									
+									<span>Industrial Safety Equipment</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Tools">
+
+									
+									<span>TOOLS</span>
+
+								</a>
+
+								<div class="sub_menu"><ul><li><a href="http://www.adibba.com/Tools/Bolts, Knots &amp; More">Bolts, Knots &amp; More</a></li><li><a href="http://www.adibba.com/Tools/Hammer">Hammer</a></li><li><a href="http://www.adibba.com/Tools/Plier">Plier</a></li><li><a href="http://www.adibba.com/Tools/Screw-Driver">Screw Driver</a></li></ul></div>
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+		</div>
+
+		
+	</li>
+
+  
+	<li class="even"><a href="http://www.adibba.com/Games-Consoles-Movies">Games, Consoles &amp; Movies</a>
+
+		
+		<div style="width: 400px; color: white;" class="dropdown">
+
+			
+			<div style="width: 200px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/Games-toys-kids" class="parent">
+
+							
+							GAMES
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 200px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/PS4-Games">
+
+									
+									<span>PS4 Games</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/PS3">
+
+									
+									<span>PS3</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/PSVITA-games">
+
+									
+									<span>PSVITA</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Game-Console">
+
+									
+									<span>Game Console</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/XBOX-360">
+
+									
+									<span>XBOX 360</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Game-Accessories">
+
+									
+									<span>Game Accessories</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+			<div style="width: 200px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/Movie-Others" class="parent">
+
+							
+							Movie &amp; Others
+						</a>
+
+					
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+		</div>
+
+		
+	</li>
+
+  
+	<li class="odd"><a href="http://www.adibba.com/Sports-Fitness-Health">Sports, Fitness &amp; Health</a>
+
+		
+		<div style="width: 400px; color: white;" class="dropdown">
+
+			
+			<div style="width: 133.33333333333px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/SPORT-WEAR-FITNESS-HEALTH" class="parent">
+
+							
+							JERSEYS
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 133.33333333333px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/Men-sport-wear">
+
+									
+									<span>Men</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Women-sport-wear">
+
+									
+									<span>Women </span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+			<div style="width: 133.33333333333px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/Health-Fitness-sport" class="parent">
+
+							
+							HEALTH &amp; FITNESS
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 133.33333333333px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/Health-Supplements">
+
+									
+									<span>Health Supplements</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Body-Massagers-Health-Fitness">
+
+									
+									<span>Body Massagers</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Cycling">
+
+									
+									<span>Cycling</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Fitness-Equipment-Health">
+
+									
+									<span>Fitness Equipment</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+		</div>
+
+		
+	</li>
+
+  
+	<li class="even"><a href="http://www.adibba.com/Fashion">Fashion</a>
 
 		
 		<div style="width: 700px; color: white;" class="dropdown">
@@ -738,6 +3105,19 @@ a:active {
 
 									
 									<span>Trousers</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Towel-Bathrope-women">
+
+									
+									<span>Towel &amp; Bathrope</span>
 
 								</a>
 
@@ -1046,6 +3426,19 @@ a:active {
 
 									
 									<span>Men Islamic Clothing</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Bathrope-Towel-men">
+
+									
+									<span>Bathrope &amp; Towel</span>
 
 								</a>
 
@@ -1463,6 +3856,428 @@ a:active {
 
 									
 									<span>Women </span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+		</div>
+
+		
+	</li>
+
+  
+	<li class="odd"><a href="http://www.adibba.com/phones">Phones</a>
+
+		
+		<div style="width: 600px; color: white;" class="dropdown">
+
+			
+			<div style="width: 200px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/Mobile-Phone" class="parent">
+
+							
+							MOBILE BRANDS
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 200px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/Blackberry-Phones">
+
+									
+									<span>Blackberry</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Apple-Phones">
+
+									
+									<span>Apple</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Samsung">
+
+									
+									<span>Samsung</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/LG-Phones">
+
+									
+									<span>LG</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Nokia-Phones">
+
+									
+									<span>Nokia</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/HTC-Phones">
+
+									
+									<span>HTC</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Huwai-Phones">
+
+									
+									<span>Huawei</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Lenovo-Phones">
+
+									
+									<span>Lenovo</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Tecno-Phones">
+
+									
+									<span>Tecno</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/infinix-smartphones">
+
+									
+									<span>Infinix</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Sony-mobile-brands">
+
+									
+									<span>Sony </span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Others-smartphones-gionee-innjoo">
+
+									
+									<span>Others</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+			<div style="width: 200px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/ACCESSORIES" class="parent">
+
+							
+							ACCESSORIES
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 200px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/Batteries">
+
+									
+									<span>Batteries</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Chargers-Power-Bank">
+
+									
+									<span>Chargers &amp; Power Bank</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/HeadPhones-Cases-Stands">
+
+									
+									<span>HeadPhones, Cases &amp; Stands</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Screen-Covers">
+
+									
+									<span>Screen Covers</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+			<div style="width: 200px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/Office-Phones" class="parent">
+
+							
+							OFFICE DEVICE
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 200px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/analogue-handsets-office-phones">
+
+									
+									<span>Analogue Handsets</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/gigaset-office-phones">
+
+									
+									<span>Gigaset</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/OfficeServ-7030-OFFICE-DEVICE">
+
+									
+									<span>OfficeServ 7030</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Samsung-Digital-Keysets">
+
+									
+									<span>Samsung Digital Keysets</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/samsung.0ficce">
+
+									
+									<span>Samsung IP Handsets</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Wireless">
+
+									
+									<span>Wireless</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/OfficeServ-7100-device">
+
+									
+									<span>OfficeServ 7100</span>
 
 								</a>
 
@@ -1987,2595 +4802,6 @@ a:active {
 
 									
 									<span>Cerruti</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-		</div>
-
-		
-	</li>
-
-  
-	<li class="odd"><a href="http://www.adibba.com/Kiddies-Mother-Care">Kiddies &amp; Mother Care</a>
-
-		
-		<div style="width: 600px; color: white;" class="dropdown">
-
-			
-			<div style="width: 150px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/Girls-Games-Toys-Kids" class="parent">
-
-							
-							GIRLS
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 150px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/Baby-0-24Months-girls-games-toys">
-
-									
-									<span>Baby 0-24Months</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Todder-Girls-1-5years-games-girls-toys">
-
-									
-									<span>Toddler Girls 1-5years</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Older-Girls-5-15years">
-
-									
-									<span>Older Girls 5-15years</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Shoes-Accessories">
-
-									
-									<span>Shoes &amp; Accessories</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-			<div style="width: 150px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/Boys-Games-Toys-Kids" class="parent">
-
-							
-							BOYS
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 150px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/Baby-0-24Months-games">
-
-									
-									<span>Baby 0-24Months</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Underwear">
-
-									
-									<span>Underwear</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Todder-Boys-1-5years-games">
-
-									
-									<span>Toddler Boys 1-5years</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Older-Boys-6-16years">
-
-									
-									<span>Older Boys 6-16years</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Boys-Shoes-Accessories">
-
-									
-									<span>Boys Shoes &amp; Accessories</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-			<div style="width: 150px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/Mother-Care" class="parent">
-
-							
-							Mother Care
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 150px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/BABY-FOOD-essential-game">
-
-									
-									<span>BABY FOODS</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/FEEDING-Nursing">
-
-									
-									<span>FEEDING &amp; Nursing</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Skin-Grooming-">
-
-									
-									<span>Skin &amp; Grooming </span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Toys-games">
-
-									
-									<span>TOYS</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Wipes">
-
-									
-									<span>Wipes</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/TOILETRIES-bathing-baby-essentials">
-
-									
-									<span>Toiletries &amp; Bathing</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Diapers-Potty">
-
-									
-									<span>Diapers &amp; Potty</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/BEDDING-baby-essentials">
-
-									
-									<span>BEDDING</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-			<div style="width: 150px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/School-Items-game-toy-kids" class="parent">
-
-							
-							School Items
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 150px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/School-Accessories-items">
-
-									
-									<span>School Accessories</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/School-Bags-items">
-
-									
-									<span>School Bags</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Lunch-Boxers-school-items">
-
-									
-									<span>Lunch Boxes</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-		</div>
-
-		
-	</li>
-
-  
-	<li class="even"><a href="http://www.adibba.com/Computers-and-Accessories">Computers &amp; Accessories</a>
-
-		
-		<div style="width: 600px; color: white;" class="dropdown">
-
-			
-			<div style="width: 120px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/Computer" class="parent">
-
-							
-							COMPUTER
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 120px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/Printers-Scanners-Accessories">
-
-									
-									<span>Printers, Scanners &amp; Accessories</span>
-
-								</a>
-
-								<div class="sub_menu"><ul><li><a href="http://www.adibba.com/Printers-Scanners-Accessories/inks-toners-cartridges">inks-toners-cartridges</a></li></ul></div>
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Laptops">
-
-									
-									<span>Laptops</span>
-
-								</a>
-
-								<div class="sub_menu"><ul><li><a href="http://www.adibba.com/Laptops/Acer Laptop">Acer</a></li><li><a href="http://www.adibba.com/Laptops/Apple Laptop">Apple</a></li><li><a href="http://www.adibba.com/Laptops/ASUS">ASUS</a></li><li><a href="http://www.adibba.com/Laptops/Dell laptop">Dell</a></li><li><a href="http://www.adibba.com/Laptops/HP-Laptop">HP</a></li><li><a href="http://www.adibba.com/Laptops/Lenovo Laptop">Lenovo</a></li><li><a href="http://www.adibba.com/Laptops/LG">LG</a></li><li><a href="http://www.adibba.com/Laptops/Samsung-laptops">Samsung</a></li><li><a href="http://www.adibba.com/Laptops/Toshiba-Laptops">Toshiba</a></li></ul></div>
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Desktop-Monitors">
-
-									
-									<span>Desktop &amp; Monitors</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Security-Cameras">
-
-									
-									<span>Security Cameras</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-			<div style="width: 120px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/Tablets-Ipad" class="parent">
-
-							
-							Tablets &amp; Ipad
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 120px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/Apple Tablet">
-
-									
-									<span>Apple</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/ASUS-Tablet">
-
-									
-									<span>ASUS</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Lenovo-Tablet">
-
-									
-									<span>Lenovo</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Acer Tablet">
-
-									
-									<span>Acer</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/LG Tablet">
-
-									
-									<span>LG</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Microsoft">
-
-									
-									<span>Microsoft</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Bryte-Tablet">
-
-									
-									<span>Bryte</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Samsung-Galaxy-Tab">
-
-									
-									<span>Samsung</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/bamboo-D700-tablet">
-
-									
-									<span>Bamboo</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-			<div style="width: 120px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/WIRELESS-DEVICE-GAMES" class="parent">
-
-							
-							WIRELESS DEVICE &amp; GAMES
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 120px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/Games-Consoles-Movies">
-
-									
-									<span>Games, Consoles &amp; Movies</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Rack-&amp;-Switches">
-
-									
-									<span>Rack &amp; Switches</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Wireless-electronics-comp">
-
-									
-									<span>Wireless</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Wlan-adapter">
-
-									
-									<span>WLAN Adapter</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-			<div style="width: 120px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/Computer-Accessories" class="parent">
-
-							
-							ACCESSORIES
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 120px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/Computer-Accessories">
-
-									
-									<span>Computer Accessories</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Projector">
-
-									
-									<span>Projector</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Headphone-Speakers-computer-accessories">
-
-									
-									<span>Headphone, Webcams &amp; Speakers</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/ANTI">
-
-									
-									<span>ANTI-VIRUS</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/iPod-Tablet-accessories">
-
-									
-									<span>iPod &amp;Tablet-accessories</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Memory-card-computer">
-
-									
-									<span>Memory Card</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-			<div style="width: 120px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-					<div class="staticblock"><p><img alt="" src="http://adibba.adibba.netdna-cdn.com/image/data/computer/MD772.jpg" style="width: 80px; height: 80px;"></p>
-</div>
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-		</div>
-
-		
-	</li>
-
-  
-	<li class="odd"><a href="http://www.adibba.com/Electronics">Electronics</a>
-
-		
-		<div style="width: 400px; color: white;" class="dropdown">
-
-			
-			<div style="width: 200px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/Television-Home-appliance" class="parent">
-
-							
-							Television
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 200px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/HISENSE">
-
-									
-									<span>HISENSE</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/JVC-television">
-
-									
-									<span>JVC</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/LG Television">
-
-									
-									<span>LG</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Panasonic Television">
-
-									
-									<span>Panasonic</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Polystar Television">
-
-									
-									<span>Polystar</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Samsung Television">
-
-									
-									<span>Samsung</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-			<div style="width: 200px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/Home-Theater-DVD-Cameras" class="parent">
-
-							
-							Home Theater, DVD &amp; Cameras
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 200px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/Camera-Video-Recorders">
-
-									
-									<span>Camera &amp; Video Recorders</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Car-Radio-Stereo">
-
-									
-									<span>Car Radio - Stereo</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/DVD-Players">
-
-									
-									<span>DVD Players</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Home-Theatre">
-
-									
-									<span>Home Theatre</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/ipod-MP3-Player">
-
-									
-									<span>ipod &amp; MP3 Player</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/SPEAKERS-electronics">
-
-									
-									<span>SPEAKERS</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Audio-System">
-
-									
-									<span>Audio System</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-		</div>
-
-		
-	</li>
-
-  
-	<li class="even"><a href="http://www.adibba.com/Games-Consoles-Movies">Games, Consoles &amp; Movies</a>
-
-		
-		<div style="width: 400px; color: white;" class="dropdown">
-
-			
-			<div style="width: 200px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/Games-toys-kids" class="parent">
-
-							
-							GAMES
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 200px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/PS4-Games">
-
-									
-									<span>PS4 Games</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/PS3">
-
-									
-									<span>PS3</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/PSVITA-games">
-
-									
-									<span>PSVITA</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Game-Console">
-
-									
-									<span>Game Console</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/XBOX-360">
-
-									
-									<span>XBOX 360</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Game-Accessories">
-
-									
-									<span>Game Accessories</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-			<div style="width: 200px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/Movie-Others" class="parent">
-
-							
-							Movie &amp; Others
-						</a>
-
-					
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-		</div>
-
-		
-	</li>
-
-  
-	<li class="odd"><a href="http://www.adibba.com/Home-Living">Home and Living</a>
-
-		
-		<div style="width: 800px; color: white;" class="dropdown">
-
-			
-			<div style="width: 114.28571428571px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/Home Appliances" class="parent">
-
-							
-							HOME APPLIANCES
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 114.28571428571px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/Freezers">
-
-									
-									<span>Freezers</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Home-Accessories">
-
-									
-									<span>Home Accessories</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Rechargeable-Fans">
-
-									
-									<span>Rechargeable Fans</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Air-Conditioners">
-
-									
-									<span>Air Conditioners</span>
-
-								</a>
-
-								<div class="sub_menu"><ul><li><a href="http://www.adibba.com/Air-Conditioners/LG-Air-Conditioner">LG</a></li><li><a href="http://www.adibba.com/Air-Conditioners/Polystar-Air-Conditioner">Polystar</a></li><li><a href="http://www.adibba.com/Air-Conditioners/samsung-air-conditioner">Samsung</a></li><li><a href="http://www.adibba.com/Air-Conditioners/Buy-Scanfrost-Air-Cooler">Scanfrost </a></li></ul></div>
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Ceiling-Standing-Wall-Fans">
-
-									
-									<span>Ceiling, Standing &amp; Wall Fans</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Antennas">
-
-									
-									<span>Antennas</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Iron-&amp;Steamers">
-
-									
-									<span>Iron &amp;Steamers</span>
-
-								</a>
-
-								<div class="sub_menu"><ul><li><a href="http://www.adibba.com/Iron-&amp;Steamers/Panasonic-Iron&amp;Steamer">Panasonic</a></li></ul></div>
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Refrigerators">
-
-									
-									<span>Refrigerators</span>
-
-								</a>
-
-								<div class="sub_menu"><ul><li><a href="http://www.adibba.com/Refrigerators/Haier-Thermocool-Refrigerator">Haier Thermocool</a></li><li><a href="http://www.adibba.com/Refrigerators/LG-Refrigerator">LG</a></li><li><a href="http://www.adibba.com/Refrigerators/Polystar-Refrigerator">Polystar</a></li><li><a href="http://www.adibba.com/Refrigerators/Samsung-refrigerator">Samsung</a></li></ul></div>
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Vacuum-Cleaners">
-
-									
-									<span>Vacuum Cleaners</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Washing-Machines-Dryers">
-
-									
-									<span>Washing Machines &amp; Dryers</span>
-
-								</a>
-
-								<div class="sub_menu"><ul><li><a href="http://www.adibba.com/Washing-Machines-Dryers/Icegate-washing-manchine">Icegate</a></li><li><a href="http://www.adibba.com/Washing-Machines-Dryers/Ignis">Ignis</a></li><li><a href="http://www.adibba.com/Washing-Machines-Dryers/LG-washing-machine">LG</a></li><li><a href="http://www.adibba.com/Washing-Machines-Dryers/Samsung-washing-manchine">Samsung</a></li></ul></div>
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Water-Dispensers">
-
-									
-									<span>Water Dispensers</span>
-
-								</a>
-
-								<div class="sub_menu"><ul><li><a href="http://www.adibba.com/Water-Dispensers/CWAY-water-dispenser">CWAY DISPENSER</a></li></ul></div>
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-			<div style="width: 114.28571428571px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/KITCHEN-APPLIANCES" class="parent">
-
-							
-							KITCHEN APPLIANCES
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 114.28571428571px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/Bakewares">
-
-									
-									<span>Bakewares</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Blender-Juicers-Mixers">
-
-									
-									<span>Blender, Juicers &amp; Mixers</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Coffee-Machines">
-
-									
-									<span>Coffee Machines</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Deep-Fryers">
-
-									
-									<span>Deep Fryers</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Dish-Washers">
-
-									
-									<span>Dish Washers</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Gas-Cooker-Oven-Hood-Hobs">
-
-									
-									<span>Gas Cooker, Oven, Hood &amp; Hobs</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Kettles">
-
-									
-									<span>Kettles</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Kitchen-Accessories">
-
-									
-									<span>Kitchen Accessories</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Microwaves">
-
-									
-									<span>Microwaves</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Pressure-Cooker">
-
-									
-									<span>Pressure Cooker</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Rice-Cookers">
-
-									
-									<span>Rice Cookers</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Shawarma-Machines">
-
-									
-									<span>Shawarma Machines</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Toasters">
-
-									
-									<span>Toasters</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-			<div style="width: 114.28571428571px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/Furniture-home-living" class="parent">
-
-							
-							FURNITURE
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 114.28571428571px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/Dinning-">
-
-									
-									<span>Dinning </span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Kitchen-Furnitures">
-
-									
-									<span>Kitchen Furnitures</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Office-Furnitures">
-
-									
-									<span>Office Furnitures</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/School-Furnitures">
-
-									
-									<span>School Furnitures</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Vitafoam">
-
-									
-									<span>Vitafoam</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/product/category&amp;path=358">
-
-									
-									<span>Bedroom</span>
-
-								</a>
-
-								<div class="sub_menu"><ul><li><a href="http://www.adibba.com/Home and Living-Bedroom-Mattress">Mattress</a></li></ul></div>
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Bedding-Section-furniture">
-
-									
-									<span>Bedding Section</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Living-Room-furniture">
-
-									
-									<span>Living Room</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-			<div style="width: 114.28571428571px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/Television-Home-appliance" class="parent">
-
-							
-							Television
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 114.28571428571px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/HISENSE">
-
-									
-									<span>HISENSE</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/JVC-television">
-
-									
-									<span>JVC</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/LG Television">
-
-									
-									<span>LG</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Panasonic Television">
-
-									
-									<span>Panasonic</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Polystar Television">
-
-									
-									<span>Polystar</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Samsung Television">
-
-									
-									<span>Samsung</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-			<div style="width: 114.28571428571px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/KITCHEN-DINNING" class="parent">
-
-							
-							KITCHEN &amp; DINNING
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 114.28571428571px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/Cups">
-
-									
-									<span>Cups</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Dining">
-
-									
-									<span>Dinning</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Kitchen-Tools-Utensils">
-
-									
-									<span>Kitchen Tools &amp; Utensils</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Wine-Openers">
-
-									
-									<span>Wine Openers</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-			<div style="width: 114.28571428571px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/HOME-SAFETY" class="parent">
-
-							
-							HOME SAFETY
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 114.28571428571px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/Security-Cameras">
-
-									
-									<span>Security Cameras</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Smoke-Alarms">
-
-									
-									<span>Smoke Alarms</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-			<div style="width: 114.28571428571px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/Home Décor" class="parent">
-
-							
-							HOME DECOR
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 114.28571428571px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/Clock">
-
-									
-									<span>Clock</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Fragrances-Air-fresheners">
-
-									
-									<span>Fragrances &amp; Air fresheners</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Throw-Pillows">
-
-									
-									<span>Throw Pillows</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Wall-Paintings-Stickers">
-
-									
-									<span>Wall Paintings &amp; Stickers</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Bedside-Center-Rugs">
-
-									
-									<span>Bedside &amp; Center Rugs</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Light-&amp;-Fittings">
-
-									
-									<span>Light &amp; Fittings</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-			<div style="width: 114.28571428571px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/Laundry-and-Cleaning" class="parent">
-
-							
-							LAUNDRY AND CLEANING
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 114.28571428571px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/Cleaning-Tools">
-
-									
-									<span>Cleaning Tools</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Soap">
-
-									
-									<span>Soap</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/LAUNDRY-Accessories">
-
-									
-									<span>LAUNDRY Accessories</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-			<div style="width: 114.28571428571px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/HOBBIES-CRAFTS" class="parent">
-
-							
-							HOBBIES &amp; CRAFTS
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 114.28571428571px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/Sewing-Tools-Accessories">
-
-									
-									<span>Sewing Tools &amp; Accessories</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-			<div style="width: 114.28571428571px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/Bathroom-Bedding" class="parent">
-
-							
-							Bathroom &amp; Bedding
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 114.28571428571px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/Bathroom">
-
-									
-									<span>Bathroom</span>
-
-								</a>
-
-								<div class="sub_menu"><ul><li><a href="http://www.adibba.com/Bathroom/Bathroom-Accessories">Bathroom Accessories</a></li><li><a href="http://www.adibba.com/Bathroom/Hardwares">Hardwares</a></li><li><a href="http://www.adibba.com/Bathroom/Shower-Curtains">Shower Curtains</a></li><li><a href="http://www.adibba.com/Bathroom/Towel-Bathropes">Towel &amp; Bathropes</a></li></ul></div>
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Bedding">
-
-									
-									<span>Bedding</span>
-
-								</a>
-
-								<div class="sub_menu"><ul><li><a href="http://www.adibba.com/Bedding/BedSheet-&amp;-Pillows">BedSheet &amp; Pillows</a></li><li><a href="http://www.adibba.com/Bedding/Duvet-Cover-&amp;-Quilts-">Duvet Cover &amp; Quilts </a></li></ul></div>
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-		</div>
-
-		
-	</li>
-
-  
-	<li class="even"><a href="http://www.adibba.com/Sports-Fitness-Health">Sports, Fitness &amp; Health</a>
-
-		
-		<div style="width: 400px; color: white;" class="dropdown">
-
-			
-			<div style="width: 133.33333333333px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/SPORT-WEAR-FITNESS-HEALTH" class="parent">
-
-							
-							JERSEYS
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 133.33333333333px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/Men-sport-wear">
-
-									
-									<span>Men</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Women-sport-wear">
-
-									
-									<span>Women </span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-			<div style="width: 133.33333333333px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/Health-Fitness-sport" class="parent">
-
-							
-							HEALTH &amp; FITNESS
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 133.33333333333px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/Health-Supplements">
-
-									
-									<span>Health Supplements</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Body-Massagers-Health-Fitness">
-
-									
-									<span>Body Massagers</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Cycling">
-
-									
-									<span>Cycling</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Fitness-Equipment-Health">
-
-									
-									<span>Fitness Equipment</span>
 
 								</a>
 
@@ -5219,7 +5445,427 @@ a:active {
 	</li>
 
   
-	<li class="even"><a href="http://www.adibba.com/books-Stationery">Books &amp; Stationery</a>
+	<li class="even"><a href="http://www.adibba.com/Kiddies-Mother-Care">Kiddies &amp; Mother Care</a>
+
+		
+		<div style="width: 600px; color: white;" class="dropdown">
+
+			
+			<div style="width: 150px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/Girls-Games-Toys-Kids" class="parent">
+
+							
+							GIRLS
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 150px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/Baby-0-24Months-girls-games-toys">
+
+									
+									<span>Baby 0-24Months</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Todder-Girls-1-5years-games-girls-toys">
+
+									
+									<span>Toddler Girls 1-5years</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Older-Girls-5-15years">
+
+									
+									<span>Older Girls 5-15years</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Shoes-Accessories">
+
+									
+									<span>Shoes &amp; Accessories</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+			<div style="width: 150px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/Boys-Games-Toys-Kids" class="parent">
+
+							
+							BOYS
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 150px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/Baby-0-24Months-games">
+
+									
+									<span>Baby 0-24Months</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Underwear">
+
+									
+									<span>Underwear</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Todder-Boys-1-5years-games">
+
+									
+									<span>Toddler Boys 1-5years</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Older-Boys-6-16years">
+
+									
+									<span>Older Boys 6-16years</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Boys-Shoes-Accessories">
+
+									
+									<span>Boys Shoes &amp; Accessories</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+			<div style="width: 150px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/Mother-Care" class="parent">
+
+							
+							Mother Care
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 150px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/BABY-FOOD-essential-game">
+
+									
+									<span>BABY FOODS</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/FEEDING-Nursing">
+
+									
+									<span>FEEDING &amp; Nursing</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Skin-Grooming-">
+
+									
+									<span>Skin &amp; Grooming </span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Toys-games">
+
+									
+									<span>TOYS</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Wipes">
+
+									
+									<span>Wipes</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/TOILETRIES-bathing-baby-essentials">
+
+									
+									<span>Toiletries &amp; Bathing</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Diapers-Potty">
+
+									
+									<span>Diapers &amp; Potty</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/BEDDING-baby-essentials">
+
+									
+									<span>BEDDING</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+			<div style="width: 150px; float: left" class="option">
+
+				<!-- manufacturer -->
+
+				
+				<!-- category -->
+
+				
+					
+						<a href="http://www.adibba.com/School-Items-game-toy-kids" class="parent">
+
+							
+							School Items
+						</a>
+
+					
+					
+						<ul style="display: table-cell; width: 150px" class="column category">
+
+						  
+						  
+							  
+								<li><a href="http://www.adibba.com/School-Accessories-items">
+
+									
+									<span>School Accessories</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/School-Bags-items">
+
+									
+									<span>School Bags</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+							  
+								<li><a href="http://www.adibba.com/Lunch-Boxers-school-items">
+
+									
+									<span>Lunch Boxes</span>
+
+								</a>
+
+								
+								</li>
+
+							  
+						  
+						</ul>
+
+					
+				
+				<!-- information -->
+
+				
+				<!-- static block -->
+
+				
+				<!-- product -->
+
+				
+			</div>
+
+			
+		</div>
+
+		
+	</li>
+
+  
+	<li class="odd"><a href="http://www.adibba.com/books-Stationery">Books &amp; Stationery</a>
 
 		
 		<div style="width: 600px; color: white;" class="dropdown">
@@ -5397,6 +6043,19 @@ a:active {
 						<ul style="display: table-cell; width: 150px" class="column category">
 
 						  
+						  
+							  
+								<li><a href="http://www.adibba.com/Emmanuel-C-Mbakwe">
+
+									
+									<span>Emmanuel C. Mbakwe</span>
+
+								</a>
+
+								
+								</li>
+
+							  
 						  
 							  
 								<li><a href="http://www.adibba.com/Nelson-Mandela">
@@ -5639,502 +6298,6 @@ a:active {
 	</li>
 
   
-	<li class="odd"><a href="http://www.adibba.com/Power-Solutions-Industrial">Power Solutions &amp; Industrial</a>
-
-		
-		<div style="width: 800px; color: white;" class="dropdown">
-
-			
-			<div style="width: 133.33333333333px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/Inverters-Power-backups-installation" class="parent">
-
-							
-							INVERTERS
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 133.33333333333px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/Kevin">
-
-									
-									<span>Kevin</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Su-kam-inverter">
-
-									
-									<span>Su-kam</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Threshold">
-
-									
-									<span>Threshold</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-			<div style="width: 133.33333333333px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/Inverter-Battery" class="parent">
-
-							
-							Inverter Battery
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 133.33333333333px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/Ritar-inverter">
-
-									
-									<span>Ritar</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Trojan-batteries">
-
-									
-									<span>Trojan</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Su-kam">
-
-									
-									<span>Su-kam</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Mercury-inverters">
-
-									
-									<span>Mercury</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-			<div style="width: 133.33333333333px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/Solar-Solutions" class="parent">
-
-							
-							Solar Solutions
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 133.33333333333px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/PV-Modules-solar-solutions">
-
-									
-									<span>PV Modules</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Solar-Panel">
-
-									
-									<span>Solar Panel</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Inverter-and-Controllers">
-
-									
-									<span>Inverter &amp; Controllers</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Solar-Batteries-solutions">
-
-									
-									<span>Solar Batteries</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Appliance-solar-solution">
-
-									
-									<span>Appliance</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Accessories-solar-solutions">
-
-									
-									<span>Accessories</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-			<div style="width: 133.33333333333px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/UPS-Surge-Proctector-Others" class="parent">
-
-							
-							UPS, Surge Protector &amp; Others
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 133.33333333333px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/LIGHTING">
-
-									
-									<span>LIGHTING</span>
-
-								</a>
-
-								<div class="sub_menu"><ul><li><a href="http://www.adibba.com/LIGHTING/Bulbs">Bulbs</a></li><li><a href="http://www.adibba.com/LIGHTING/LED-light">LED light</a></li></ul></div>
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Surge-Protectors-Others">
-
-									
-									<span>Surge Protectors &amp; Others</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/UPS">
-
-									
-									<span>UPS</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Stabilizer-Step-down">
-
-									
-									<span>Stabilizer and Step-down</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-			<div style="width: 133.33333333333px; float: left" class="option">
-
-				<!-- manufacturer -->
-
-				
-				<!-- category -->
-
-				
-					
-						<a href="http://www.adibba.com/Automotive-Industrial" class="parent">
-
-							
-							Automotive &amp; Industrial
-						</a>
-
-					
-					
-						<ul style="display: table-cell; width: 133.33333333333px" class="column category">
-
-						  
-						  
-							  
-								<li><a href="http://www.adibba.com/Car-Accessories">
-
-									
-									<span>Car Accessories</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Generator-Power-Supply">
-
-									
-									<span>GENERATOR &amp; POWER SUPPLY</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/CCTV-Camera">
-
-									
-									<span>CCTV Camera</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Car-Battery">
-
-									
-									<span>Car Battery</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Industrial Safety Equipment">
-
-									
-									<span>Industrial Safety Equipment</span>
-
-								</a>
-
-								
-								</li>
-
-							  
-						  
-							  
-								<li><a href="http://www.adibba.com/Tools">
-
-									
-									<span>TOOLS</span>
-
-								</a>
-
-								<div class="sub_menu"><ul><li><a href="http://www.adibba.com/Tools/Bolts, Knots &amp; More">Bolts, Knots &amp; More</a></li><li><a href="http://www.adibba.com/Tools/Hammer">Hammer</a></li><li><a href="http://www.adibba.com/Tools/Plier">Plier</a></li><li><a href="http://www.adibba.com/Tools/Screw-Driver">Screw Driver</a></li></ul></div>
-								</li>
-
-							  
-						  
-						</ul>
-
-					
-				
-				<!-- information -->
-
-				
-				<!-- static block -->
-
-				
-				<!-- product -->
-
-				
-			</div>
-
-			
-		</div>
-
-		
-	</li>
-
-  
 	<li class="even last"><a href="http://www.adibba.com/quickteller/list">Mobile Recharge</a>
 
 		
@@ -6158,12 +6321,8 @@ a:active {
 																			<option value="606">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Christmas</option>
 																		<option value="736">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Christmas Decorations</option>
 																			<option value="472">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Food &amp; Drinks</option>
-																			<option value="476">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Food Ingredients </option>
 																			<option value="475">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hampers</option>
 																			<option value="737">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Home &amp; Kitchen </option>
-																			<option value="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mega Bundle Items</option>
-																			<option value="739">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phones &amp; Gadgets</option>
-																			<option value="738">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Xmas Fashion</option>
 																				<option value="595">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clearance</option>
 																			<option value="650">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deal of the Day</option>
 																			<option value="710">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Independent</option>
@@ -6234,7 +6393,8 @@ a:active {
 																		<option value="420">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pen &amp; Pencils</option>
 																			<option value="419">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;School &amp; Office Supplies</option>
 																				<option value="438">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GREAT AFRICAN AUTHORS</option>
-																		<option value="480">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nelson Mandela</option>
+																		<option value="766">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Emmanuel C. Mbakwe</option>
+																			<option value="480">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nelson Mandela</option>
 																			<option value="471">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sam Adeyemi</option>
 																			<option value="439">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wole Soyinka</option>
 																			<option value="440">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chinua Achebe</option>
@@ -6277,7 +6437,7 @@ a:active {
 																			<option value="698">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ANTI-VIRUS</option>
 																			<option value="511">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iPod &amp;Tablet-accessories</option>
 																			<option value="453">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Memory Card</option>
-												        						<option value="699">Electronics</option>
+												        						<option value="699">Electronics &amp; Musical Instruments</option>
 														<option value="700">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Home Theater, DVD &amp; Cameras</option>
 																		<option value="115">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Camera &amp; Video Recorders</option>
 																			<option value="119">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Car Radio - Stereo</option>
@@ -6286,13 +6446,18 @@ a:active {
 																			<option value="120">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ipod &amp; MP3 Player</option>
 																			<option value="510">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SPEAKERS</option>
 																			<option value="118">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Audio System</option>
+																				<option value="757">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Musical Instruments</option>
+																		<option value="758">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Amplifiers</option>
+																			<option value="760">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Electronic Drums</option>
+																			<option value="761">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Equalizers</option>
+																			<option value="759">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mixers</option>
 																				<option value="322">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
-																		<option value="746">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HISENSE</option>
-																			<option value="550">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JVC</option>
+																		<option value="550">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JVC</option>
 																			<option value="324">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LG</option>
 																			<option value="326">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Panasonic</option>
 																			<option value="327">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Polystar</option>
 																			<option value="325">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Samsung</option>
+																			<option value="746">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hisense</option>
 												        						<option value="515">Event and ticket</option>
 						        						<option value="194">Fashion</option>
 														<option value="381">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ANKARA STYLES</option>
@@ -6308,6 +6473,7 @@ a:active {
 																			<option value="688">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Skirts</option>
 																			<option value="681">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tops</option>
 																			<option value="682">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trousers</option>
+																			<option value="752">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Towel &amp; Bathrope</option>
 																			<option value="201">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Women Islamic Materials</option>
 																				<option value="202">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MEN CLOTHING</option>
 																		<option value="577">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blazers &amp; Cardigan</option>
@@ -6320,6 +6486,7 @@ a:active {
 																			<option value="204">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Polo Shirts</option>
 																			<option value="210">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trousers</option>
 																			<option value="211">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Men Islamic Clothing</option>
+																			<option value="753">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bathrope &amp; Towel</option>
 																				<option value="223">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FOOTWEARS</option>
 																		<option value="611">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bag &amp; Shoe Set</option>
 																			<option value="224">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Men footwears</option>
@@ -6398,7 +6565,7 @@ a:active {
 																				<option value="70">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HOME APPLIANCES</option>
 																		<option value="79">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Freezers</option>
 																			<option value="733">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Home Accessories</option>
-																			<option value="559">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rechargeable Fans</option>
+																			<option value="559">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rechargeable Fans &amp; Air Cooler</option>
 																			<option value="77">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Air Conditioners</option>
 																			<option value="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ceiling, Standing &amp; Wall Fans</option>
 																			<option value="459">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Antennas</option>
@@ -6418,18 +6585,16 @@ a:active {
 																		<option value="433">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Security Cameras</option>
 																			<option value="431">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Smoke Alarms</option>
 																				<option value="82">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KITCHEN APPLIANCES</option>
-																		<option value="293">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bakewares</option>
-																			<option value="83">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blender, Juicers &amp; Mixers</option>
-																			<option value="299">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Coffee Machines</option>
-																			<option value="88">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deep Fryers</option>
+																		<option value="83">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blender, Juicers &amp; Mixers</option>
+																			<option value="299">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Coffee &amp; Shawama Machines</option>
+																			<option value="88">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deep &amp; Air Fryers</option>
 																			<option value="85">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dish Washers</option>
 																			<option value="87">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gas Cooker, Oven, Hood &amp; Hobs</option>
 																			<option value="457">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kettles</option>
 																			<option value="731">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kitchen Accessories</option>
-																			<option value="84">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microwaves</option>
-																			<option value="747">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pressure Cooker</option>
-																			<option value="86">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rice Cookers</option>
-																			<option value="589">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shawarma Machines</option>
+																			<option value="84">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microwaves &amp; Steamer</option>
+																			<option value="293">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pan, Pot, Bakewares &amp; Spoon</option>
+																			<option value="86">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rice &amp; Pressure Cookers</option>
 																			<option value="456">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toasters</option>
 																				<option value="91">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LAUNDRY AND CLEANING</option>
 																		<option value="93">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cleaning Tools</option>
@@ -6478,7 +6643,6 @@ a:active {
 											        						<option value="59">Phones</option>
 														<option value="386">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MOBILE BRANDS</option>
 																		<option value="60">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blackberry</option>
-																			<option value="741">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Elephone</option>
 																			<option value="62">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apple</option>
 																			<option value="63">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Samsung</option>
 																			<option value="66">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LG</option>
@@ -6602,6 +6766,12 @@ $(document).ready(function() {
 
 	</div>
 </div>
+
+
+
+
+
+
 <script type="text/javascript">
 		$(document).ready(function() {
 			boss_header_move_mobile();
@@ -6820,11 +6990,11 @@ Third Parties and Links</p>
 <h3>Connect with Us</h3>
 
 <ul>
-	<li><a href="https://plus.google.com/u/1/s/adibba online" target="_blank"><img alt="Google plus" src="http://adibba2.adibba.netdna-cdn.com/image/data/bt_optronics/googleplus-revised.png" style="width: 32px; height: 32px;" title="Google plus"></a><a href="https://plus.google.com/u/1/s/adibba%20online" style="font-size: 13px; text-decoration:none;" target="_blank">Google plus</a></li>
-	<li><a href="https://twitter.com/adibbaonline" target="_blank"><img alt="Twitter" src="http://adibba2.adibba.netdna-cdn.com/image/data/bt_optronics/twitter.png" style="width: 32px; height: 32px;" title="Twitter"></a><a href="https://twitter.com/adibbaonline" style="font-size: 13px; text-decoration:none" target="_blank">Twitter</a></li>
-	<li><a href="https://www.facebook.com/Adibbaonline" target="_blank"><img alt="Facebook" src="http://adibba2.adibba.netdna-cdn.com/image/data/bt_optronics/facebook500.png" style="width: 32px; height: 32px; text-decoration: none;" title="Facebook">Facebook</a></li>
+	<li><a href="https://plus.google.com/u/1/s/adibba online" target="_blank"><img alt="Google plus" src="http://adibba.com/image/data/bt_optronics/googleplus-revised.png" style="width: 32px; height: 32px;" title="Google plus"></a><a href="https://plus.google.com/u/1/s/adibba%20online" style="font-size: 13px; text-decoration:none;" target="_blank">Google plus</a></li>
+	<li><a href="https://twitter.com/adibbaonline" target="_blank"><img alt="Twitter" src="http://adibba.com/image/data/bt_optronics/twitter.png" style="width: 32px; height: 32px;" title="Twitter"></a><a href="https://twitter.com/adibbaonline" style="font-size: 13px; text-decoration:none" target="_blank">Twitter</a></li>
+	<li><a href="https://www.facebook.com/Adibbaonline" target="_blank"><img alt="Facebook" src="http://adibba.com/image/data/bt_optronics/facebook500.png" style="width: 32px; height: 32px; text-decoration: none;" title="Facebook">Facebook</a></li>
 	<li>
-	<div class="fb-like" data-action="like" data-colorscheme="light" data-height="The pixel height of the plugin" data-href="https://www.facebook.com/Adibbaonline" data-layout="standard" data-send="false" data-show-faces="true" data-width="150">&nbsp;</div>
+	<div class="fb-like" data-action="like" data-colorscheme="light" data-height="The pixel height of the plugin" data-href="https://www.facebook.com/Adibbaonline" data-layout="standard" data-send="false" data-show-faces="true" data-width="85">&nbsp;</div>
 	</li>
 	<li>
 	<div><a class="twitter-follow-button" data-show-count="false" href="https://twitter.com/adibbaonline">Follow @adibbaonline</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div>
@@ -6832,17 +7002,25 @@ Third Parties and Links</p>
 </ul>
 </div>
 
-    <p>&nbsp;</p>
+    <div class="static-footer-3 column">
+<div id="webutation-badge"><script type="text/javascript">
+(function() {
+window.domain = 'adibba.com';
+function async_load(){
+ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+ var p = ('https:' == document.location.protocol ? 'https://' : 'http://');
+ s.src = p+'www.webutation.net/js/load_badge.js';
+ var x = document.getElementById('webutation-link'); x.parentNode.insertBefore(s, x); }
+if (window.attachEvent) window.attachEvent('onload', async_load); else window.addEventListener('load', async_load, false);
+})();
+</script><script type="text/javascript" async="" src="https://www.webutation.net/js/load_badge.js"></script><a href="http://www.webutations.info" id="webutation-link" rel="nofollow">Webutation</a></div>
 
-<div class="static-footer-3 column"><!--<h3>Reward Program</h3>
-<a href="#"><img alt="Reward" src="http://demo.bossthemes.com/optronics/image/data/bt_optronics/reward_01.jpg" title="Reward" /></a>
+<p><a><img border="0" height="69" src="http://adibba.com/image/data/adibba_footer/adibba-price-check-logo.png" width="135"></a></p>
+</div>
 
-<p>About Rewards Program</p>
-
-<p>Rewards / Points Dashboard</p>
---></div>
-
-<p><a><img border="0" height="69" src="http://images.pricecheck.co.za/other/Trusted%20Shop_Sml.jpg" width="135"></a></p>
+    <div class="static-footer-4 column">
+<p><a href="http://www.alexa.com/siteinfo/adibba.com"><script type="text/javascript" src="http://xslt.alexa.com/site_stats/js/t/a?url=adibba.com"></script></a></p>
+</div>
 
     <p style="margin-left: 40px;">&nbsp;</p>
 
@@ -6850,14 +7028,14 @@ Third Parties and Links</p>
 <h3>Payment Methods</h3>
 
 <ul>
-	<li><a href="#"><img alt="Visa" src="http://demo.bossthemes.com/optronics/image/data/bt_optronics/partner_02.png" style="width: 60px; height: 35px;" title="Visa"></a></li>
-	<li><a href="#"><img alt="MasterCard" src="http://demo.bossthemes.com/optronics/image/data/bt_optronics/partner_03.png" style="width: 42px; height: 35px;" title="MasterCard"></a></li>
-	<li><a href="#"><img alt="Interswitch" src="http://adibba2.adibba.netdna-cdn.com/image/data/bt_optronics/interswitch.png" style="width: 70px; height: 25px;" title="Interswitch"></a></li>
-	<li><a href="#"><img alt="etransact" src="http://adibba2.adibba.netdna-cdn.com/image/data/bt_optronics/etransact.png" style="width: 75px; height: 25px;" title="etransact"></a></li>
-	<li><a href="#"><img alt="Diamond" src="http://adibba2.adibba.netdna-cdn.com/image/data/bt_optronics/diamond.png" style="width: 75px; height: 25px;" title="Diamond"></a></li>
-	<li><img alt="" src="http://adibba2.adibba.netdna-cdn.com/image/data/bt_optronics/zenith_bank.jpg" style="width: 44px; height: 35px;" title="Zenith Bank"></li>
-	<li><img alt="" src="http://adibba2.adibba.netdna-cdn.com/image/data/bt_optronics/gtbank.jpg" style="width: 44px; height: 35px;" title=" GTBank"></li>
-	<li><img alt="" src="http://adibba2.adibba.netdna-cdn.com/image/data/bt_optronics/paga.jpg" style="width: 80px; height: 22px;"></li>
+	<li><a href="#"><img alt="Visa" src="http://adibba.com/image/data/adibba_footer/adibba-visa.png" style="" title="Visa"></a></li>
+	<li><a href="#"><img alt="MasterCard" src="http://adibba.com/image/data/adibba_footer/adibba-master-card.png" style="" title="MasterCard"></a></li>
+	<li><a href="#"><img alt="Interswitch" src="http://adibba.com/image/data/adibba_footer/adibba-interswitch.png" style="" title="Interswitch"></a></li>
+	<li><img alt="etransact" src="http://adibba.com/image/data/adibba_footer/adibba_etranzact.png" style="width: 35px; height: 35px;" title="etransact"></li>
+	<li><img alt="" src="http://adibba.com/image/data/adibba_footer/adibba-diamond-bank.png" style="" title="Diamond Bank"></li>
+	<li><img alt="" src="http://adibba.com/image/data/adibba_footer/adibba-zenith-bank.png" style="" title="Zenith Bank"></li>
+	<li><img alt="" src="http://adibba.com/image/data/adibba_footer/adibba-gt-bank.png" style="" title=" GTBank"></li>
+	<li><img alt="" src="http://adibba.com/image/data/adibba_footer/adibba-paga.png" style=""></li>
 </ul>
 </div>
 
@@ -6912,6 +7090,7 @@ Third Parties and Links</p>
 </div>
  
 </div>
+
 <!--
 OpenCart is open source software and you are free to remove the powered by OpenCart if you want, but its generally accepted practise to make a small donation.
 Please donate via PayPal to donate@opencart.com
