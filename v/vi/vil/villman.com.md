@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the villman.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607232334id_/http%3A//www.villman.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villman.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206003021id_/http%3A//villman.com/Privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | VillMan Computers
 
