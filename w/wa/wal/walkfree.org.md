@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the walkfree.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607002626id_/http%3A//www.walkfree.org/walk-free-privacy-policy-and-legal-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walkfree.org privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205114029id_/http%3A//www.walkfree.org/walk-free-privacy-policy-and-legal-terms) for the most accurate reproduction.*
 
-# Walk Free Privacy Policy and Legal Terms - Walk Free
+# Privacy Policy and Legal Terms - Walk Free - Walk Free
 
 ### Introduction
 
