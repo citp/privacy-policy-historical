@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shemaleyum.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607044100id_/http%3A//www.shemaleyum.com/compliance/privacypolicy.php%3Fsite%3Dshemaleyum.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shemaleyum.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205141050id_/http%3A//www.shemaleyum.com/compliance/privacypolicy.php%3Fsite%3Dshemaleyum.com) for the most accurate reproduction.*
 
 # shemaleyum.com - Privacy Policy
 
