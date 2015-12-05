@@ -1,553 +1,742 @@
-<!--The following is the downloaded HTML source of the syncfusion.com privacy policy that was archived on 2014-03-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140327060313id_/http%3A//www.syncfusion.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the syncfusion.com privacy policy that was archived on 2015-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151205235944id_/http%3A//www.syncfusion.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Header1">
-<meta name="verify-v1" content="IL/CbLrfaZd8dG6yRBxpEcby0Eh9lDgM24Mm3DjkTpQ=">
-<meta name="googlebot" content="FOLLOW, INDEX"> 
-<meta name="GOOGLE" content="POSITION, #1"> 
-<meta name="ROBOTS" content="INDEX, FOLLOW">
-
-
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
+<!DOCTYPE html><html><head>
+    <meta name="verify-v1" content="IL/CbLrfaZd8dG6yRBxpEcby0Eh9lDgM24Mm3DjkTpQ=">
+    <meta name="googlebot" content="FOLLOW, INDEX">
+    <meta name="GOOGLE" content="POSITION, #1">
+    <meta name="ROBOTS" content="INDEX, FOLLOW">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
 
     <title>
-        
- Privacy Policy : Syncfusion
-    </title>   
-     <link href="/MvcResourceHandler.axd?k=css&amp;r=['1974332286','-876568359']&amp;minify=False" rel="stylesheet"><link href="/MvcResourceHandler.axd?k=css&amp;r=['-1832067733','494396602','-524325245']&amp;minify=False" rel="stylesheet"><link href="/MvcResourceHandler.axd?k=css&amp;r=['2060857021']&amp;minify=False" rel="stylesheet"><link href="/MvcResourceHandler.axd?k=css&amp;r=['1683997275','1172044994']&amp;minify=False" rel="stylesheet"><link href="/MvcResourceHandler.axd?k=css&amp;r=['-920372136']&amp;minify=False" rel="stylesheet">
-
-    <link rel="stylesheet" type="text/css" media="screen" href="/bundles/styles/homecss">
-        
-    
-    <link rel="stylesheet" type="text/css" media="screen" href="content/Stylesheets/Modules/Root.css">
+    Privacy Policy : Syncfusion
+</title>
+    <link href="//cdn.syncfusion.com/content/stylesheets/components/bootstrap/bootstrap.min.css" rel="stylesheet">
+<link href="/bundles/styles/bootstraplayoutcss?v=EzzG2mK8YO-bmLTaKT1yOAh3gccZR9fZmY3U4gpOC941" rel="stylesheet">
 
     
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-	<script>!window.jQuery && document.write(unescape('%3Cscript src="/Scripts/Common/jquery-1.8.3.min.js"%3E%3C/script%3E'))</script><script src="/Scripts/Common/jquery-1.8.3.min.js"></script>
-    <script type="text/javascript" src="/bundles/scripts/microsoftajaxjs"></script>
-
-     <script type="text/javascript">
-         $(document).ready(function () {
-             if ($('#keyword_actextbox').is(':visible')) {
-                      $(document).click(function (event) {
-                         if (!$(event.target).closest("#keyword_actextbox,.header-option-search").length) {
-                             document.getElementById("keyword_actextbox").style.display = '';
-                             $('#searchbtn').fadeOut("fast");
-                             $('#keyword_actextbox').animate({ width: "0px" }, 400);
-                             $('#keyword_suggestion_wrapper').hide();
-                    }
-                 });
-             }
-         });
-         $(document).ready(function () {
-
-             $('.header-option-search').click(function () {
-
-                 $('#searchbtn').fadeIn("fast");
-                 $('#keyword_actextbox').children().val("");
-                 $('#keyword_actextbox').animate({ width: "125px" }, 400, function () {
-                     $(this).children().focus();
-                     $('#keyword_suggestion_wrapper').show();
-                 });
-                
-             });
-
-         });
-            
-
-         $(document).ready(function () {
-             $('.header-options-call').click(function () {
-                 $('.phone_popup').css('display', 'block');
-             });
-
-             $('.phone_popup .exit').click(function () {
-                 $('.phone_popup').css('display', 'none');
-             });
-
-         });
-        </script>
-
-        <script type="text/javascript">
-        //Autocomplete textbox client side OnLoad event
-            function ClientSideOnLoad(sender, args) {
-                $(".master-footer").after($(" #keyword_suggestion_wrapper"));
-            }  
-                 
-          </script>	 
-
-    <script type="text/javascript" language="javascript">
-        $(document).ready(function() {
+    <link href="/bundles/styles/privacypolicycss?v=IuSUXb_41dn2rB3WA78L1UfCMNK2mkdqdBHK0NUQHlg1" rel="stylesheet">
 
 
-            $("div.twitter").click(function () {
-                window.open("http://twitter.com/#!/Syncfusion");
-            });
 
-            $("div.linkedin").click(function () {
-                window.open("http://www.linkedin.com/company/Syncfusion");
-            });
-
-
-            if ($.browser.msie && $.browser.version < 7) {
-                //alert("For best viewing of our site in IE, please try with IE7 or higher version of IE");
-                $('#master-main-section').after("<div id='IEVersion'></div");
-                $('#IEVersion').load('/home/IEVersion');
-            }
-            
-        });        
-    function MainsearchFunc(inst, args) {        
-        var keyword = args.get_Value();
-        if (keyword != null && keyword != "") {
-            var url = "/search/" + keyword + "/1/website";
-            window.location = url;
-        }
-    }   
-    function maintestResults(formelement) {
-        var key = $('#keyword').val();
-        if (key == null || key == "Search site" || key == "") {
-            return false;
-        }
-        else
-            return true;
-    } 
-    </script>                           
-  
-
-    
-
-
-    
+   
 </head>
 <body>
+    <div id="menu-wrapper">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+                    <div class="syncfusion-logo">
+                        <a href="/">
+                            <span id="logo"></span>
 
-<div class="master-header-wrapper">
-    <div class="master-header">
-        <div class="master-header-left">
-            <a href="/">
-                <img id="header-syncfusion-logo" style="border-style: none" alt="Syncfusion Logo" src="Content/en-US/Home/Images/syncfusion-logo.png">
+                        </a>
+                    </div>
+                    
+    <div class="menu-with-search">
+    <div class="syncfusion-menu">
+        <nav class="navbar-inverse navbar-default" role="navigation">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse syncfusion-menu-items" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav menu-list">
+                    <li class="dropdown sub-menu-list products">
+                        <a href="#" class="menu-item dropdown-toggle" data-toggle="dropdown">PRODUCTS <b class="caret"></b></a>
+                        <ul class="sub-menu-container dropdown-menu container">
+                            <div class="row">
+                                <div class="col-lg-2">
+                                    <ul class="multi-column-dropdown">
+                                        <li class="sub-menu-title">ESSENTIAL STUDIO</li>
+                                        <li class="sub-menu-item"><a href="/downloads/evaluation">Download Trial</a></li>
+                                        <li class="sub-menu-item"><a href="http://samples.syncfusion.com/">Live Demo</a></li>
+                                        <li class="sub-menu-item"><a href="/products/whatsnew">What’s New </a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 sub-menu-segment-border">
+                                    <div class="row">
+                                        <div class="col-lg-3">
+                                            <ul class="multi-column-dropdown">
+                                                <li class="sub-menu-title">WEB</li>
+                                                <li class="sub-menu-item"><a href="/products/aspnetmvc">ASP.NET MVC </a></li>
+                                                <li class="sub-menu-item"><a href="/products/aspnet">ASP.NET Web Forms</a></li>
+                                                <li class="sub-menu-item"><a href="/products/javascript">HTML5/JavaScript</a></li>
+                                                <li class="sub-menu-item"><a href="/products/lightswitch">LightSwitch</a></li>
+                                                <li class="sub-menu-item"><a href="/products/silverlight">Silverlight</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-lg-3">
+                                            <ul class="multi-column-dropdown">
+                                                <li class="sub-menu-title">DESKTOP</li>
+                                                <li class="sub-menu-item"><a href="/products/windows-forms">Windows Forms </a></li>
+                                                <li class="sub-menu-item"><a href="/products/wpf">WPF</a></li>
+                                                <li class="sub-menu-item"><a href="/products/uwp">UWP</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-lg-3">
+                                            <ul class="multi-column-dropdown">
+                                                <li class="sub-menu-title">MOBILE</li>
+                                                <li class="sub-menu-item"><a href="/products/ios">iOS</a></li>
+                                                <li class="sub-menu-item"><a href="/products/android">Android</a></li>
+                                                <li class="sub-menu-item"><a href="/products/windows-phone">Windows Phone</a></li>
+                                                <li class="sub-menu-item"><a href="/products/winrt">WinRT</a></li>
+                                                <li class="sub-menu-item"><a href="/products/xamarin">Xamarin</a></li>
+                                                <li class="sub-menu-item"><a href="/products/javascript">HTML5/JavaScript</a></li>
+                                                <li class="sub-menu-item"><a href="/products/orubase">Orubase</a></li>
+                                                <li class="sub-menu-item"><a href="/products/uwp">UWP</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-lg-3">
+                                            <ul class="multi-column-dropdown">
+                                                <li class="sub-menu-title">FILE FORMATS</li>
+                                                <li class="sub-menu-item"><a href="/products/file-formats/xlsio">Excel </a></li>
+                                                <li class="sub-menu-item"><a href="/products/file-formats/pdf">PDF</a></li>
+                                                <li class="sub-menu-item"><a href="/products/file-formats/docio">Word</a></li>
+                                                <li class="sub-menu-item"><a href="/products/file-formats/presentation">PowerPoint</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 sub-menu-segment">
+                                    <ul class="multi-column-dropdown">
+                                        <li class="sub-menu-title">DATA SCIENCE</li>
+                                        <li class="sub-menu-item"><a href="/products/big-data">Big Data Platform</a></li>
+                                        <li class="sub-menu-item"><a href="/products/data-science/predictive-analytics">Predictive Analytics</a></li>
+                                        <li class="sub-menu-title">ENTERPRISE SOLUTIONS</li>
+                                        <li class="sub-menu-item"><a href="/products/dashboard">Dashboard Platform</a></li>
+                                        <li class="sub-menu-item"><a href="/products/report-server">Report Server</a></li>
+                                        <li class="sub-menu-title">SYNCFUSION PLUS</li>
+                                        <li class="sub-menu-item"><a href="/products/syncfusion-plus">Plus Benefits</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-2">
+                                    <ul class="multi-column-dropdown">
+                                        <li class="sub-menu-title">RESOURCES</li>
+                                        <li class="sub-menu-item"><a href="/resources/techportal/ebooks">E-Books</a></li>
+                                        <li class="sub-menu-item"><a href="/resources/techportal/whitepapers">White Papers</a></li>
+                                        <li class="sub-menu-item"><a href="/downloads/case-studies">Case Studies</a></li>
+                                        <li class="sub-menu-item"><a href="/faq">.NET FAQ</a></li>
+                                        <li class="sub-menu-title">FREE ICONS</li>
+                                        <li class="sub-menu-item"><a href="/downloads/metrostudio">Metro Studio</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </ul>
+                    </li>
+                    <li class="sub-menu-list"> <a class="menu-item" href="/products/consulting">CONSULTING</a></li>
+                    <li class="support-menu dropdown sub-menu-list">
+                        <a href="#" class="menu-item dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">SUPPORT <span class="caret"></span></a>
+                        <ul class="support-menu-container dropdown-menu" role="menu">
+                            <li class="sub-menu-item"><a href="/support/directtrac">DIRECT-TRAC SUPPORT SYSTEM</a></li>
+                            <li class="sub-menu-item"><a href="/support/forums">COMMUNITY FORUMS</a></li>
+                            <li class="sub-menu-item"><a href="/support/kb">KNOWLEDGE BASE</a></li>
+                            <li class="sub-menu-item"><a href="/support/online-documentation">ONLINE DOCUMENTATION</a></li>
+                        </ul>
+                    </li>
+                    <li class="sub-menu-list"> <a class="menu-item" href="/sales/products">PURCHASE</a></li>
+                    <li class="sub-menu-list">  <a class="menu-item" href="/downloads">FREE TRIALS</a></li>
+                    <li class="company-menu dropdown sub-menu-list">
+                        <a href="#" class="menu-item dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">COMPANY <span class="caret"></span></a>
+                        <ul class="company-menu-container dropdown-menu" role="menu">
+                            <li class="sub-menu-item"><a href="/company/about-us">ABOUT US</a></li>
+                            <li class="sub-menu-item"><a href="/company/news-press-release">PRESS RELEASE</a></li>
+                            <li class="sub-menu-item"><a href="/blogs">BLOG</a></li>
+                            <li class="sub-menu-item"><a href="/company/careers">CAREERS</a></li>
+                            <li class="sub-menu-item"><a href="/company/contact-us">CONTACT US</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div><!-- /.navbar-collapse -->
+
+        </nav>
+    </div>
+    <div class="others">
+        <div class="search-bar">
+            <div id="search-icon" class="search-icon"></div>
+        </div>
+        <div id="menu-signin" class="">
+            <a href="/account/login" id="login-btn-menu" class="login-button default-btn">SIGN IN</a>
+        </div>
+
+
+        <div id="cart-logo">
+            <a href="/sales/cart" class="cart-navigation">
+                <span id="cart-count" class="content-small disable-count">0</span>
             </a>
         </div>
-        <div class="master-header-menusection">
-           
-
-
-<div id="master-menu">
-    <div id="SyncfusionMenu_sfMenuContainer" name="SyncfusionMenu" tabindex="100"><ul class="sf-menu syncmenu" id="SyncfusionMenu"><li id="1"><a href="/products">Products<span class="arrows"></span></a><ul><li id="7"><a href="/products/aspnet">ASP.NET</a></li><li id="8"><a href="/products/aspnet-mvc">ASP.NET MVC</a></li><li id="88"><a href="/products/javascript">JavaScript</a></li><li id="88"><a href="/products/lightswitch">LightSwitch</a></li><li id="9"><a href="/products/mobile-mvc">Mobile MVC</a></li><li id="10"><a href="/products/silverlight">Silverlight</a></li><li id="11"><a href="/products/windows-forms">Windows Forms</a></li><li id="12"><a href="/products/windows-phone">Windows Phone</a></li><li id="13"><a href="/products/winrt">WinRT (XAML)</a></li><li id="14"><a href="/products/wpf">WPF</a></li><li id="15"><a href="http://www.orubase.com">Orubase Studio</a></li><li id="16"><a href="/downloads/metrostudio">Metro Studio</a></li><li id="17"><a href="/products/whatsnew">What's New<span class="arrows"></span></a><ul><li id="23"><a href="/products/whatsnew/aspnet-mvc">ASP.NET MVC</a></li><li id="89"><a href="/products/whatsnew/javascript">JavaScript</a></li><li id="20"><a href="/products/whatsnew/silverlight">Silverlight</a></li><li id="21"><a href="/products/whatsnew/windows-forms">Windows Forms</a></li><li id="22"><a href="/products/whatsnew/windows-phone">Windows Phone</a></li><li id="18"><a href="/products/whatsnew/winrt">WinRT (XAML)</a></li><li id="19"><a href="/products/whatsnew/wpf">WPF</a></li></ul></li><li id="26"><a href="/products/roadmap">Road Map</a></li></ul></li><li id="2"><a href="/solutions">Solutions</a></li><li id="3"><a href="/support">Support<span class="arrows"></span></a><ul><li id="35"><a href="/support/directtrac">Direct-Trac Support System</a></li><li id="36"><a href="/support/forums">Community Forums</a></li><li id="37"><a href="/support/kb">Knowledge Base</a></li><li id="38"><a href="/support/online-documentation">Online Documentation</a></li></ul></li><li id="4"><a href="/sales/products">Purchase</a></li><li id="5"><a href="/downloads">Downloads<span class="arrows"></span></a><ul><li id="52"><a href="/downloads/evaluation">Evaluation</a></li><li id="83"><a href="/resources/techportal/ebooks">Free E-Books</a></li><li id="60"><a href="/resources/techportal/whitepapers">White Papers</a></li><li id="57"><a href="/resources/brochures-datasheets">Brochures &amp; Datasheets</a></li><li id="73"><a href="/downloads/case-studies">Case Studies</a></li><li id="87"><a href="/downloads/metrostudio">Metro Studio</a></li><li id="53"><a href="/downloads/latest-version">Latest Version</a></li><li id="54"><a href="/downloads/version-history">Version History</a></li></ul></li><li id="6"><a href="/company">Company<span class="arrows"></span></a><ul><li id="61"><a href="/company/about-us">About Us<span class="arrows"></span></a><ul><li id="69"><a href="/company/about-us/management">Management</a></li><li id="70"><a href="/company/about-us/news">News &amp; Events</a></li><li id="71"><a href="/company/about-us/customer-quotes">Customer Quotes</a></li><li id="72"><a href="/company/about-us/customerlist">Customer List</a></li><li id="74"><a href="/company/about-us/awards">Awards</a></li><li id="75"><a href="/company/about-us/media-kit">Media Kit</a></li></ul></li><li id="62"><a href="/blogs/category/Company.aspx">Company Blog</a></li><li id="78"><a href="/blogs/category/Development.aspx">Technical Team Blog</a></li><li id="63"><a href="/company/newsletters/newsletter">Newsletter</a></li><li id="64"><a href="/company/partners">Partners<span class="arrows"></span></a><ul><li id="78"><a href="/company/partners/technology-partners">Technology Partners</a></li><li id="79"><a href="/company/partners/training-partners">Training Partners</a></li><li id="80"><a href="/company/partners/consulting-partners">Consulting Partners</a></li></ul></li><li id="65"><a href="/company/locations">Locations<span class="arrows"></span></a><ul><li id="76"><a href="/company/locations/rdu">Morrisville, North Carolina, USA</a></li><li id="77"><a href="/company/locations/chennai">Chennai, India</a></li></ul></li><li id="66"><a href="/company/contact-us">Contact Us</a></li><li id="67"><a href="/company/careers">Careers</a></li></ul></li></ul></div>
+    </div>
 </div>
-<div class="header-options">
-    <div class="header-options-login">
-          <a href="/account" id="Login_link_popup">Log In</a>
 
-    </div>
-    <div class="header-options-cart">
-        <div class="cartborder"></div>
-        <a class="cart-img" href="/sales/cart">
-            <span class="header-cart-img">&nbsp;</span>
-        </a>
-        <div class="cartborder"></div>
-    </div>
-    <div class="header-options-call">
-        <span class="header-call-img">&nbsp;</span>        
-   </div>
-    <div class="phone_popup">
-          <div class="content">
-            <div class="arrow">&nbsp;</div>
-              <div class="heading">
-                <span>Sales</span>
-              </div>
-              <span class="exit" href="#">&nbsp;</span>
-            <div class="number">1-888-9DOTNET</div>
-          </div>
+
+
+                </div>
+                <div class="row" id="login-section">
+    <div class="col-xl-4 col-xl-offset-4 col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-6 col-sm-offset-3 col-xs-12 col-xs-offset-0">
+        <div class="content-big heading">SIGN IN </div>
+        <div id="error-message" class="content-medium">
+            <img id="error-img" src="//cdn.syncfusion.com/content/images/common/error-icon.png" alt="">
+            <p>Sorry, an error occurred while attempting to log in.</p>
         </div>
-         <div class="header-option-search">
-        <div class="cartborder">
+        <div class="form-group">
+            <label class="placeholder" for="Email">Email Address</label>
+            <input class="form-control content-small" id="Email" name="Email" placeholder="Email address" tabindex="1" type="email" value="">
+            <span id="emailValidationError" class="error content-small"></span>
         </div>
-        <span class="header-search-img">&nbsp;</span>
-    </div>
-    <form id="searchformaction" action="/Search" method="post" onsubmit="return maintestResults(this.form)">
-    <div id="menu-search">
-        <div class=" sf-core sf-autocomplete Office2007Blue Autocomplete_Wrapper" id="keyword_actextbox" style="width:0px"><input autocomplete="off" id="keyword" name="keyword"></div>
-        <input type="hidden" name="val" value="website">
-        <button type="submit" name="searchbtn" id="searchbtn">
-        </button>
-    </div>
-    </form>
-</div>
-<div class="master_link">
-    <a class="evaluation-link" href="/downloads/evaluation">Download</a>
-    <div class="cartborder"></div>
-    <a class="demo-link" href="/demo">Live Demo </a>
-</div>
-
-
-
+        <div class="form-group">
+            <a class="content-small forgot" href="/account/forgotpassword">Forgot password?</a>
+            <label class="placeholder" for="Password">Password</label>
+            <input class="form-control content-small" id="Password" name="Password" placeholder="Password" tabindex="2" type="password" value="">
+            <span id="passwordValidationError" class="error content-small"></span>
+        </div>
+        <div id="remember">
+            <label>
+                <input id="Rememberme" name="Rememberme" type="checkbox" value="true"><input name="Rememberme" type="hidden" value="false">
+                <span class="content-small">Keep me logged in</span>
+            </label>
+        </div>
+        <div class="User-login">
+            <button type="submit" id="login" class="content-big" tabindex="3">SIGN IN</button>
+        </div>
+        <div class="new-user content-medium">
+            Don’t have an account? <a href="/account/register">SIGN UP FOR FREE</a>
         </div>
     </div>
 </div>
 
-<div id="master-breadcrumb-wrapper"> 
+<div id="logout-section">
+    <div class="container">
+        <div class="column">
+            <div class="customerimage">
+                    <a href="/account/editaccount">  <img id="cus-image" src="//cdn.syncfusion.com/content/images/home/default-profile.png" alt="default picture"></a>
+            </div>
+            <div class="Customerinformation">
+                <div class="customer-section">
+                    <div class="content-medium "><a class="customername" href="/account/editaccount"></a></div>
 
-                         
-        <div id="master-breadcrumb">
-            <div id="master-navigation-two">
-                <div id="breadcrumb">
-                    
-<div class="bread-crumb"><a href="/">Home</a></div>
-
-<div class="bread-crumb-separator"><img src="/../content/en-US/Home/Images/seperator.png"></div>
-
-<div class="bread-crumb-last">Privacy Policy</div>
-                 
-                        <!--
-                        
-                        
-                        --> 
+                </div>
+                <div class="content-section">
+                    <div class="dashboard"><a href="/support/directtrac/incidents" class="content-medium">My dashboard</a></div>
+                    <div class="support-ticket"><a href="/support/directtrac/incidents/newincident" class="content-medium">Create a support incident</a></div>
+                    <div><a href="/account/logoff" class="small-btn">SIGN OUT</a></div>
                 </div>
             </div>
         </div>
-               
-
-</div>                
-
-  
-        
+    </div>
+</div>
 
 
-<div id="shadow-wrapper" class="clearFix">
-<div id="master-wrapper" class="clearFix">
-                             
-        <div id="master-main-section" class="clearFix">
-                
-<meta name="verify-v1" content="IL/CbLrfaZd8dG6yRBxpEcby0Eh9lDgM24Mm3DjkTpQ=">
- 
-     <div class="pagetitle">
-        Privacy Policy
-    </div>  
-    <div class="clearFix"><div><p></p><div class="privacypolicy"><div><div class="updateddate">Last Updated on: April 24,2012</div><div>Your privacy is very important to us, therefore our policy is to respect and protect your privacy to the extent that you share information with us.  This Syncfusion Online Privacy Policy summarizes our policies with regard to privacy and your use of our website.  If you have objections to this Privacy Policy, you should not access or use our website.  You can browse through most of our website without giving us any information about yourself, but there are certain areas of our site, for example the online technical support area, for which we do need information from you.  Therefore, we strongly encourage you take a moment to read this online Privacy Policy. 
-</div><div class="heading">Does Syncfusion ask for personal information?</div><div>
-We do not ask for personal information if you simply choose to browse our website, but we do ask for such information if you request information from us.  Personal information may include your name, mailing address, and/or email address.  We will ask for additional personal information in the event that you download our products, request services, or contact sales support.  Such other personal information may include your company name, job title and department, telephone and facsimile numbers.  When ordering products or services, you may be asked to provide a credit card number. 
-</div><div>
-Syncfusion collects your personal information in order to record and support your participation in the activities you select.  If you subscribe to a service or register a product, for example, the information is used to register your rights, if any, to technical support or other benefits that may be made available to registered users.  As another example, if you enter a contest, information is collected to qualify your entry and so that we may contact you regarding the contest or prize awards.  Your personal information is also used to keep you informed about product upgrades, special offers, and other products and services of Syncfusion.
-</div><div class="heading">Will Syncfusion disclose any of my personal information?</div><div>
-Syncfusion will not disclose any of your personal information, except as described below, or when we believe in good faith that the law requires it, or to protect the rights or property of Syncfusion or others.  If compelled by law to divulge your personal information to comply with laws or regulations of a governmental or regulatory body or in response to a valid subpoena, warrant, or order or to protect the rights of Syncfusion or others, Syncfusion will use its best business judgment to minimize such compelled disclosures. 
-</div><div>
-Syncfusion does disclose aggregated user statistics and demographic information (for example, the geographic spread of our customer inquiries) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes.  If and/or when we do match user information, we endeavor to keep personal information confidential from those third parties. 
-</div><div>
-Syncfusion collects your information in order to record and support your participation in the activities you select. If you subscribe to a service or register a product, for example, the information is used to register your rights, if any, to technical support or other benefits that may be made available to registered users. As another example, if you enter a contest, information is collected to qualify the entry and contact you regarding the contest or prize awards. Your Personal Information is also used to keep you informed about product upgrades, special offers, and other products and services of Syncfusion.</div><div>
-Additionally, if you make a purchase from our website, the information obtained during your visit to these parts of our website, and the information that you give such as your credit card number and contact information, is provided to our credit card service provider.  Our credit card service provider has its own separate privacy and data collection policy, and Syncfusion has no responsibility or liability for such third party policies. 
- </div><div class="heading">How does Syncfusion use my personal information?</div><div>Syncfusion’s goal in collecting personal information is to provide you, the user, with a personalized web experience, and our business partners with an efficient means to reach the right audience.  By knowing a little about you, Syncfusion is able to deliver more relevant website content, and hence better service, to you.</div><div>Syncfusion uses your personal information to: </div><div><ul><li>Make it easier for you to use the areas of our site, like the technical support area.  </li><li>Enable you to track the status of your technical support incidents. </li><li>Enable you to post messages in our technical support forums. </li><li>Help us maintain and retrieve information regarding the status of your product or subscription. </li><li>Send you information regarding product updates and special offers. Note that by initially providing us with your personal information, you are agreeing to receive such information.  You do have the option of unsubscribing from receiving further information.  </li><li>
-Send you information on product updates (if you are a customer). If you use our support system we will send you e-mail updates when your incident has been updated by our support personnel.
-</li></ul></div><div>
- Personal Information that you provide resides on a secure server and is only accessible to selected Syncfusion personnel and contractors via password.  Since this information is not accessible by you, you will not be asked to select a password in order to view or modify such information.  In the interest of providing better service to its customers, Syncfusion uses resellers and other partners to provide certain marketing, sales, and support services to our customers.  By submitting your personal information to Syncfusion, you understand and agree that Syncfusion may allow its resellers and other partners to access a portion of your personal information (contact information only) for the purpose of providing you with marketing, sales, and support services.  Syncfusion will not share any demographic or payment information with any third party. 
- </div><div>
- The personal information that you provide in connection with registering yourself as a user of Syncfusion products or services or registering a Syncfusion product is classified as Registration Information.  Registration Information is protected in several ways.  Access by you to your Registration Information is available through a password and unique customer ID selected by you.  This password is encrypted.  We recommend that you do not divulge your password to anyone.  In addition, your Registration Information resides on a secure server that only selected Syncfusion personnel and contractors have access to via password.  Syncfusion encrypts your Personal Information and thereby strives to prevent unauthorized parties from viewing such information when it is transmitted to Syncfusion. 
- </div><div class="heading">How do I update or change my privacy preferences?</div><div>
- You may access and correct your personal information and privacy preferences at any time.  This may be done by logging in to our support system at <a href="http://www.syncfusion.com/support/">http://www.syncfusion.com/support/</a> and selecting the 'Edit My Account' option. 
- </div><div class="heading">Will Syncfusion use my information for direct mailing or email mailings? </div><div>
- You may browse our website as you wish, and you will <b>remain an anonymous user until you fill out one of our lead capture forms or otherwise provide your email address to us</b>.  We may send you promotional emails about our various products and services, or other products and services we feel may be of interest to you.  Unless you specifically opt-out of receiving promotional emails from our business partners (see paragraph above), you may receive mailings from our business partners as well.  Each such mailing, whether direct or by email, will include instructions for removing your name from this distribution list.  In the case of email mailings, this means a link in the email that you can use to opt-out of future mailings.  All such mailings will originate from Syncfusion or one of Syncfusion’s business partners, and each such mailing will clearly identify the source of the mailing.  Emails sent from Syncfusion include a link allowing you to unsubscribe from receiving further emails. 
- </div><div class="heading">Does Syncfusion use cookies and IP addresses?</div><div>
-Yes.  Syncfusion uses cookies in various ways to track your visit to our website, but this information is not used to identify you personally.  
-</div><div><ul><li>We use cookies to determine which of our visitors are interested in our products.  <b>You will remain an anonymous user until you fill out one of our lead capture forms, at which time your information will be used by our marketing department.  Our lead capture form is clearly identified as such</b>.  </li><li>We also use cookies to be reminded of who you are and to access your account information (stored on our computers) in order to deliver to you better and more personalized service by presenting information that we believe you may be interested in.  This cookie is created by your web browser when you register with us at our website.</li><li>Cookies may also used to estimate the size of our visitor base.  Each web browser that accesses our website is given a unique cookie which is then used to determine repeat usage versus initial usage. </li><li>We use <b>Google Analytics</b> to conduct anonymous web traffic analysis for our website.  While Google Analytics makes use of cookies, no personal information is ever collected or analyzed by this service. </li><li>We collect IP addresses for the purposes of system administration and security only.  Our web servers automatically log the IP/Internet address of your computer, but this information is not used to identify you personally. 
- </li></ul></div><div class="heading">What else should I know about my privacy? </div><div> 
-Please keep in mind that whenever you voluntarily disclose personal information online, such as in a discussion forum or through email or in a chat room, that information can be collected and used by others.  In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.  Please note that any information you post to a public bulletin board or chat room, such as the Syncfusion User to User Forums (the "Forums"), is available to all persons accessing that location.  Your e-mail address would then be available to all persons accessing the Forums.  The content of these messages and posts do not constitute the opinions of Syncfusion, but are expressly those of the online community members and their guests.  Syncfusion makes no claims of agreement or disagreement with the opinions expressed online.  We seek to maintain a dignified and business-like environment in these discussion areas, and will remove those posts that we deem to be unacceptable.
-</div><div>
-Furthermore, while we strive to protect your personal information, Syncfusion cannot ensure or warrant the security of any information you transmit to us.  Therefore, you agree that you do so at your own risk and you assume any associated liabilities.  In addition, if you access any third party website through a link from our website, the privacy and data collection practices of those third parties will apply and Syncfusion assumes and has no responsibility or liability for the policies and practices of such third parties.  We tell you this to make it clear that you are solely responsible for maintaining the secrecy of your passwords and any account or personal information when you visit any website.  Syncfusion stands behind its privacy policies and practices, but does not make any representations or warranties regarding our website or any third party websites. 
-</div><div>
- Syncfusion reserves the right to revise this Privacy Policy from time to time without direct notice to you; however, we will post the most recent revision date in connection with this Privacy Policy.   
- </div><div>
- If you believe that Syncfusion has not complied with this Online Privacy Policy with respect to your personal information, or you have other related inquiries or concerns, you may write to Syncfusion at <a href="mailto:privacy@syncfusion.com">privacy@syncfusion.com.</a> , or you may contact us in writing or by telephone at:
- </div><div>
-Syncfusion, Inc.<br>2501 Aerial Center Parkway, Suite 200<br>Morrisville, NC 27560<br>(919) 481-1974
-</div></div></div><p></p></div></div>
-            </div>
-            
+                <div id="search-container" class="row">
+
+<form action="/search" method="get" role="form">        <div class="col-xl-6 col-xl-offset-4 col-lg-6 col-lg-offset-4 col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
+            <input id="search" placeholder="Search" name="keyword" value="">
+            <button type="submit" class="btn search-btn "></button>
         </div>
+</form></div>
 
- </div>
-        
-        
-        
+            </div>
+        </div>
+    </div>
+
     
-              
-       
-  <div class="master-footer">
-            <div class="footer-follow-us">
-                <div id="inner_content">
-                    <div class="toll_free_number">
-                        <div class="toll_free">Call Toll Free</div>
-                        <div class="number">1-888-9DOTNET</div>
-                     </div>
-                     <div class="follow">
-                      <ul id="footer_icon">
 
-                         <li>
-                           <a id="footer_icon_twitter" href="http://twitter.com/#!/Syncfusion" target="_blank"></a>
-                         </li>
+    
 
-                         <li>
-                           <a id="footer_icon_linkedin" href="http://www.linkedin.com/company/Syncfusion" target="_blank"></a>
-                         </li>
-
-                         <li>
-                           <a id="footer_icon_youtube" href="http://www.youtube.com/syncfusioninc" target="_blank"></a>
-                         </li>
-
-                         <li>
-                           <a id="footer_icon_facebook" href="https://www.facebook.com/Syncfusion" target="_blank"></a>
-                         </li>
-
-                         <li>
-                           <a id="footer_icon_blog" href="/blogs"></a>
-                         </li>
-                          <li>
-                           <a id="footer_icon_google" href="https://google.com/+SyncfusionIncMorrisville" rel="publisher" target="_blank"></a>
-                         </li>
-                       </ul>
-
-
-                     </div>
-                </div>
-                </div>
-            <div id="footer-master" class="">   
-                 <div class="wrapper">
-
-                 <div>
-
-                 <div class="products links">
-                 <div class="heading">Products</div>
-                 <ul>
-                   <li><a href="/products">Essential Studio</a></li>
-                   <li><a href="http://www.orubase.com/" target="_blank">Orubase Studio</a></li>
-                   <li><a href="/downloads/metrostudio">Metro Studio</a></li>
-                   <li><a href="/products/whatsnew">What's New</a></li>
-                   <li><a href="/products/roadmap">Road Map</a></li>                   
-                 </ul>
-                 </div>
-
-
-                 <div class="support links">
-                    <a id="solutions" class="heading" href="/solutions">Solutions</a>
-                     <ul>
-                        <li><a href="/solutions/visualization">Visualization</a></li>
-                        <li><a href="/solutions/businessintelligence">Business Intelligence</a></li>
-                        <li><a href="/solutions/reporting">Enterprise Reporting</a></li>
-                        <li><a href="/solutions/mobility">Enterprise Mobility</a></li>
-                     </ul>
-                    <div class="heading">Support</div>
-                     <ul>
-                        <li><a href="/support/directtrac">Direct-Trac Support System</a></li>
-                        <li><a href="/support/forums">Community Forums</a></li>
-                        <li><a href="/support/kb">Knowledge Base</a></li>
-                        <li><a href="/support/online-documentation">Online Documentation</a></li>
-                     
-                     </ul>
-                 </div>
-                 
-                  <div class="sales links">
-                      <div class="heading">Sales</div>
-                      <ul>
-                        <li><a href="/sales/list">Order Online</a></li>
-                        <li>
-                          <a href="/sales/price-list">Price List</a>
-                        </li>
-                        <li>
-                          <a href="/sales/studio-comparisons">Studio Comparisons</a>
-                        </li>
-                        <li>
-                          <a href="/sales/resellers">Resellers</a>
-                        </li>
-                        <li><a href="/sales/contact">Contact Sales</a></li>
-                        <li>
-                          <a href="/sales/fax-orders">Fax Orders</a>
-                        </li>
-                        <li>
-                          <a href="/sales/licensing">Licensing</a>
-                        </li>
-                        <li>
-                          <a href="/sales/faq">FAQ</a>
-                        </li>
-                        <li>
-                          <a href="/sales/speciallicensingprograms">Special Licensing</a>
-                        </li>
-
-                    </ul>
-                  </div>
-
-                  <div class="downloads links">
-                        <div class="heading">Downloads</div>
-                        <ul>
-                            <li><a href="/downloads/evaluation">Evaluation</a></li>
-                            <li><a href="/resources/techportal/ebooks">Free E-Books</a></li>
-                            <li><a href="/resources/techportal/whitepapers">White Papers</a></li>
-                            <li><a href="/resources/brochures-datasheets">Brochures &amp; Datasheets</a></li>
-							<li><a href="/downloads/case-studies">Case Studies</a></li>
-                            <li><a href="/downloads/latest-version">Latest Version</a></li>
-                            <li><a href="/downloads/version-history">Version History</a></li>
-                        </ul>
-                  </div>
-                  <div class="Company links">
-                      <div class="heading">Company</div>
-                      <ul>
-                        <li><a href="/company/about-us">About Us</a></li>
-                        <li>
-                          <a href="/company/about-us/news">News &amp; Events</a>
-                        </li>
-                        <li>
-                          <a href="/company/about-us/media-kit">Media Kit</a>
-                        </li>
-                        <li>
-                          <a href="/blogs">Blog</a>
-                        </li>
-                        <li>
-                          <a href="/company/newsletters/newsletter">Newsletter</a>
-                        </li>
-                        <li>
-                          <a href="/company/partners">Partners</a>
-                        </li>
-
-                        <li>
-                          <a href="/company/locations">Locations</a>
-                        </li>
-                        <li>
-                          <a href="/company/contact-us">Contact Us</a>
-                        </li>
-                        <li><a href="/company/careers">Careers</a></li> 
-                       </ul>
-                  </div>
-                  <div class="faq_call_us"> 
-                      <div class="heading">Call us</div>
-                        <ul class="faq">
-                        <li>Toll Free: 1-888-9DOTNET</li>
-                        <li>Fax: +1 919.573.0306</li>
-                        <li>US: +1 919.481.1974</li>
-                        <li>UK: +44 20 7084 6215</li>
-                       </ul>
-                        <div class="heading">Sales</div>
-                      <ul><li><a href="/sales/contact">sales@syncfusion.com</a></li></ul>
-                        </div>
-                 
-                     
-                    </div>
-
-               
-
-                     <div class="about_us">
-                         <p class="heading">About Syncfusion</p>
-                         <p class="description">
-                             Founded by industry experts in 2001, Syncfusion, Inc. provides the broadest range of enterprise-class software components and tools for the Microsoft .NET platform. With Syncfusion, developers can move beyond simply coding applications to delivering real business innovation—the elegant user interfaces, business intelligence dashboards, and sophisticated reporting that today's business users need, in the formats they demand.
-                         </p>
-
-
-                     </div>
-       </div> 
+    <div id="feedbackButton" class="hide">
+        <img src="//cdn.syncfusion.com/content/images/common/feedback-form.png">
     </div>
-            <div class="global-links">
-            <div class="wrapper_links">
-            <div class="copyrights">
-            <a class="global-info-links" href="/copyright">Copyright © 2001 - 2014 Syncfusion Inc. All Rights Reserved</a>
+    <div id="feedbacks-dialogue" class="hide"></div>
+
+    
+    <div id="PrivacyPolicy">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+                    <h3 id="privacy-policy">Privacy Policy</h3>
+
+<p>Last Updated on: April 24,2012</p>
+
+<p>Your privacy is very important to us, therefore our policy is to respect and protect your privacy to the extent that you share 
+information with us. This Syncfusion Online Privacy Policy summarizes our policies with regard to privacy and your use of our 
+website. If you have objections to this Privacy Policy, you should not access or use our website. You can browse through most of 
+our website without giving us any information about yourself, but there are certain areas of our site, for example the online 
+technical support area, for which we do need information from you. Therefore, we strongly encourage you take a moment to read 
+this online Privacy Policy.</p>
+
+<h4 id="does-syncfusion-ask-for-personal-information">Does Syncfusion ask for personal information?</h4>
+
+<p>We do not ask for personal information if you simply choose to browse our website, but we do ask for such information if you 
+request information from us. Personal information may include your name, mailing address, and/or email address. We will ask for 
+additional personal information in the event that you download our products, request services, or contact sales support. Such 
+other personal information may include your company name, job title and department, telephone and facsimile numbers. When 
+ordering products or services, you may be asked to provide a credit card number. 
+Syncfusion collects your personal information in order to record and support your participation in the activities you select. If you 
+subscribe to a service or register a product, for example, the information is used to register your rights, if any, to technical support 
+or other benefits that may be made available to registered users. As another example, if you enter a contest, information is 
+collected to qualify your entry and so that we may contact you regarding the contest or prize awards. Your personal information is 
+also used to keep you informed about product upgrades, special offers, and other products and services of Syncfusion.</p>
+
+<h4 id="will-syncfusion-disclose-any-of-my-personal-information">Will Syncfusion disclose any of my personal information?</h4>
+
+<p>Syncfusion will not disclose any of your personal information, except as described below, or when we believe in good faith that the 
+law requires it, or to protect the rights or property of Syncfusion or others. If compelled by law to divulge your personal 
+information to comply with laws or regulations of a governmental or regulatory body or in response to a valid subpoena, warrant, 
+or order or to protect the rights of Syncfusion or others, Syncfusion will use its best business judgment to minimize such 
+compelled disclosures. 
+Syncfusion does disclose aggregated user statistics and demographic information (for example, the geographic spread of our 
+customer inquiries) in order to describe our services to prospective partners, advertisers, and other third parties, and for other 
+lawful purposes. If and/or when we do match user information, we endeavor to keep personal information confidential from those 
+third parties. 
+Syncfusion collects your information in order to record and support your participation in the activities you select. If you subscribe 
+to a service or register a product, for example, the information is used to register your rights, if any, to technical support or other 
+benefits that may be made available to registered users. As another example, if you enter a contest, information is collected to 
+qualify the entry and contact you regarding the contest or prize awards. Your Personal Information is also used to keep you 
+informed about product upgrades, special offers, and other products and services of Syncfusion. 
+Additionally, if you make a purchase from our website, the information obtained during your visit to these parts of our website, 
+and the information that you give such as your credit card number and contact information, is provided to our credit card service 
+provider. Our credit card service provider has its own separate privacy and data collection policy, and Syncfusion has no 
+responsibility or liability for such third party policies.</p>
+
+<h4 id="how-does-syncfusion-use-my-personal-information">How does Syncfusion use my personal information?</h4>
+
+<p>Syncfusion’s goal in collecting personal information is to provide you, the user, with a personalized web experience, and our 
+business partners with an efficient means to reach the right audience. By knowing a little about you, Syncfusion is able to deliver 
+more relevant website content, and hence better service, to you.
+Syncfusion uses your personal information to:</p>
+<ul type="square">
+<li>
+Make it easier for you to use the areas of our site, like the technical support area.</li>
+</ul>
+<ul type="square">
+<li>
+Enable you to track the status of your technical support incidents.</li>
+</ul>
+<ul type="square">
+<li>
+Enable you to post messages in our technical support forums.</li>
+</ul>
+<ul type="square">
+<li>
+Help us maintain and retrieve information regarding the status of your product or subscription.</li>
+</ul>
+<ul type="square">
+<li>
+Send you information regarding product updates and special offers. Note that by initially providing us with your personal information, you are agreeing to receive such information. You do have the option of unsubscribing from receiving further information.</li>
+</ul>
+<ul type="square">
+<li>
+Send you information on product updates (if you are a customer). If you use our support system we will send you e-mail updates when your incident has been updated by our support personnel.
+</li>
+</ul>
+
+<p>Personal Information that you provide resides on a secure server and is only accessible to selected Syncfusion personnel and 
+contractors via password. Since this information is not accessible by you, you will not be asked to select a password in order to 
+view or modify such information. In the interest of providing better service to its customers, Syncfusion uses resellers and other 
+partners to provide certain marketing, sales, and support services to our customers. By submitting your personal information to 
+Syncfusion, you understand and agree that Syncfusion may allow its resellers and other partners to access a portion of your 
+personal information (contact information only) for the purpose of providing you with marketing, sales, and support services. 
+Syncfusion will not share any demographic or payment information with any third party. 
+The personal information that you provide in connection with 
+registering yourself as a user of Syncfusion products or services or registering a Syncfusion product is classified as Registration Information. Registration Information is protected in several ways. 
+Access by you to your Registration Information is available through a password and unique customer ID selected by you. This 
+password is encrypted. We recommend that you do not divulge your password to anyone. In addition, your Registration 
+Information resides on a secure server that only selected Syncfusion personnel and contractors have access to via password. 
+Syncfusion encrypts your Personal Information and thereby strives to prevent unauthorized parties from viewing such information 
+when it is transmitted to Syncfusion.</p>
+
+<h4 id="how-do-i-update-or-change-my-privacy-preferences">How do I update or change my privacy preferences?</h4>
+
+<p>You may access and correct your personal information and privacy preferences at any time. This may be done by logging in to our 
+support system at <a href="http://www.syncfusion.com/support/">http://www.syncfusion.com/support/</a> and selecting the ‘Edit My Account’ option.</p>
+
+<h4 id="will-syncfusion-use-my-information-for-direct-mailing-or-email-mailings">Will Syncfusion use my information for direct mailing or email mailings?</h4>
+<p>You may browse our website as you wish, and you will remain an anonymous user until you fill out one of our lead capture 
+forms or otherwise provide your email address to us. We may send you promotional emails about our various products and 
+services, or other products and services we feel may be of interest to you. Unless you specifically opt-out of receiving promotional 
+emails from our business partners (see paragraph above), you may receive mailings from our business partners as well. Each such 
+mailing, whether direct or by email, will include instructions for removing your name from this distribution list. In the case of email 
+mailings, this means a link in the email that you can use to opt-out of future mailings. All such mailings will originate from 
+Syncfusion or one of Syncfusion’s business partners, and each such mailing will clearly identify the source of the mailing. Emails 
+sent from Syncfusion include a link allowing you to unsubscribe from receiving further emails.</p>
+
+<h4 id="does-syncfusion-use-cookies-and-ip-addresses">Does Syncfusion use cookies and IP addresses?</h4>
+<p>Yes. Syncfusion uses cookies in various ways to track your visit to our website, but this information is not used to identify you 
+personally.</p>
+
+<ul type="square">
+<li>
+We use cookies to determine which of our visitors are interested in our products. You will remain an anonymous user until 
+you fill out one of our lead capture forms, at which time your information will be used by our marketing department. 
+Our lead capture form is clearly identified as such.</li>
+</ul>
+<ul type="square">
+<li>
+We also use cookies to be reminded of who you are and to access your account information (stored on our computers) in order 
+to deliver to you better and more personalized service by presenting information that we believe you may be interested in. This 
+cookie is created by your web browser when you register with us at our website.</li>
+</ul>
+<ul type="square">
+<li>
+Cookies may also used to estimate the size of our visitor base. Each web browser that accesses our website is given a unique 
+cookie which is then used to determine repeat usage versus initial usage.</li>
+</ul>
+<ul type="square">
+<li>
+We use Google Analytics to conduct anonymous web traffic analysis for our website. While Google Analytics makes use of 
+cookies, no personal information is ever collected or analyzed by this service.</li>
+</ul>
+<ul type="square">
+<li>
+We collect IP addresses for the purposes of system administration and security only. Our web servers automatically log the 
+IP/Internet address of your computer, but this information is not used to identify you personally.</li>
+</ul>
+
+<h4 id="what-else-should-i-know-about-my-privacy">What else should I know about my privacy?</h4>
+
+<p>Please keep in mind that whenever you voluntarily disclose personal information online, such as in a discussion forum or through 
+email or in a chat room, that information can be collected and used by others. In short, if you post personal information online 
+that is accessible to the public, you may receive unsolicited messages from other parties in return. Please note that any information 
+you post to a public bulletin board or chat room, such as the Syncfusion User to User Forums (the “Forums”), is available to all 
+persons accessing that location. Your e-mail address would then be available to all persons accessing the Forums. The content of 
+these messages and posts do not constitute the opinions of Syncfusion, but are expressly those of the online community members 
+and their guests. Syncfusion makes no claims of agreement or disagreement with the opinions expressed online. We seek to 
+maintain a dignified and business-like environment in these discussion areas, and will remove those posts that we deem to be 
+unacceptable. 
+Furthermore, while we strive to protect your personal information, Syncfusion cannot ensure or warrant the security of any 
+information you transmit to us. Therefore, you agree that you do so at your own risk and you assume any associated liabilities. In 
+addition, if you access any third party website through a link from our website, the privacy and data collection practices of those 
+third parties will apply and Syncfusion assumes and has no responsibility or liability for the policies and practices of such third 
+parties. We tell you this to make it clear that you are solely responsible for maintaining the secrecy of your passwords and any 
+account or personal information when you visit any website. Syncfusion stands behind its privacy policies and practices, but does 
+not make any representations or warranties regarding our website or any third party websites. 
+Syncfusion reserves the right to revise this Privacy Policy from time to time without direct notice to you; however, we will post the 
+most recent revision date in connection with this Privacy Policy. 
+If you believe that Syncfusion has not complied with this Online Privacy Policy with respect to your personal information, or you 
+have other related inquiries or concerns, you may write to Syncfusion at <a href="mailto:privacy@syncfusion.com">privacy@syncfusion.com</a>. , or you may contact us in 
+writing or by telephone at:</p>
+
+<p>Syncfusion, Inc.</p>
+
+<p>2501 Aerial Center Parkway,</p>
+
+<p>Suite 200</p>
+
+<p>Morrisville, NC 27560</p>
+
+<p>(919) 481-1974</p>
+
+                </div>
             </div>
-            <div class="sitemap">
-           
-            <a class="global-info-links" href="/privacy">Privacy Policy</a>
-            <span class="global-link-separator">|</span>
-            <a class="global-info-links" href="/company/contact-us">Contact Us</a>
-            <span class="global-link-separator">|</span>
-            <a class="global-info-links" href="/sitemap">Sitemap</a>
-            
-            </div>
-            </div>
-            
-            </div>
-
-  </div>
+        </div>
+    </div>
 
 
+    
 
-
-
-
-     
-        <script src="Scripts/Common/ga.js" type="text/javascript"></script>
-        <script src="Scripts/Common/urchin.js" type="text/javascript"></script>
-
-
-<script type="text/javascript">
-    try {
-        var pageTracker = _gat._getTracker("UA-233131-1");
-        pageTracker._trackPageview();
-    } catch (err) { }</script>
-
-
-<script type="text/javascript">
-    $(document).ready(function () {
-        _uacct = "UA-XXXXX-X";
-        urchinTracker();
-    });
-</script>
-
-
-        
+    
+<div id="footer-warpper" class="segment">
+    <div class="container">
+            <div class=" col-lg-2 col-md-3 col-sm-3 col-xs-12 hidden-xs content-list ">
                 
+                        <div class="top-content content-medium">WEB</div>
+                        <ul class="list-unstyled">
+                                <li class="content-small"><a href="/products/aspnetmvc"> ASP.NET MVC</a></li>
+                                <li class="content-small"><a href="/products/aspnet"> ASP.NET Web Forms</a></li>
+                                <li class="content-small"><a href="/products/javascript">HTML5/JavaScript</a></li>
+                                <li class="content-small"><a href="/products/lightswitch">LightSwitch</a></li>
+                                <li class="content-small"><a href="/products/silverlight">Silverlight</a></li>
+                        </ul>
+                        <div class="inner-content content-medium">DESKTOP</div>
+                        <ul class="list-unstyled">
+                                <li class="content-small"><a href="/products/windows-forms">Windows Forms</a></li>
+                                <li class="content-small"><a href="/products/wpf">WPF</a></li>
+                                <li class="content-small"><a href="/products/uwp">UWP</a></li>
+                        </ul>
+                        <div class="inner-content content-medium">FREE ICONS</div>
+                        <ul class="list-unstyled">
+                                <li class="content-small"><a href="/downloads/metrostudio">Metro Studio</a></li>
+                        </ul>
+            </div>
+            <div class=" col-lg-2 col-md-3 col-sm-3 col-xs-12 hidden-xs content-list ">
+                
+                        <div class="top-content content-medium">MOBILE</div>
+                        <ul class="list-unstyled">
+                                <li class="content-small"><a href="/products/ios">iOS</a></li>
+                                <li class="content-small"><a href="/products/android">Android</a></li>
+                                <li class="content-small"><a href="/products/windows-phone"> Windows Phone</a></li>
+                                <li class="content-small"><a href="/products/winrt">WinRT</a></li>
+                                <li class="content-small"><a href="/products/xamarin">Xamarin</a></li>
+                                <li class="content-small"><a href="/products/javascript">HTML5/JavaScript</a></li>
+                                <li class="content-small"><a href="/products/orubase">Orubase</a></li>
+                                <li class="content-small"><a href="/products/uwp">UWP</a></li>
+                        </ul>
+                        <div class="inner-content content-medium">FILE FORMATS</div>
+                        <ul class="list-unstyled">
+                                <li class="content-small"><a href="/products/file-formats/xlsio">Excel</a></li>
+                                <li class="content-small"><a href="/products/file-formats/pdf">PDF</a></li>
+                                <li class="content-small"><a href="/products/file-formats/docio">Word</a></li>
+                                <li class="content-small"><a href="/products/file-formats/presentation">PowerPoint</a></li>
+                        </ul>
+            </div>
+            <div class=" col-lg-2 col-md-3 col-sm-3 col-xs-12 hidden-xs content-list ">
+                
+                        <div class="top-content content-medium">DATA SCIENCE</div>
+                        <ul class="list-unstyled">
+                                <li class="content-small"><a href="/products/big-data">Big Data Platform</a></li>
+                                <li class="content-small"><a href="/products/data-science/predictive-analytics">Predictive Analytics</a></li>
+                        </ul>
+                        <div class="inner-content content-medium">ENTERPRISE SOLUTIONS</div>
+                        <ul class="list-unstyled">
+                                <li class="content-small"><a href="/products/dashboard">Dashboard Platform</a></li>
+                                <li class="content-small"><a href="/products/report-server">Report Server</a></li>
+                        </ul>
+                        <div class="inner-content content-medium">SUPPORT</div>
+                        <ul class="list-unstyled">
+                                <li class="content-small"><a href="/support/directtrac/incidents/newincident">Create Support Incident</a></li>
+                                <li class="content-small"><a href="/forums">Forums</a></li>
+                                <li class="content-small"><a href="/kb">Knowledge Base</a></li>
+                                <li class="content-small"><a href="http://help.syncfusion.com/" target="_blank">Online Documentation</a></li>
+                        </ul>
+            </div>
+            <div class=" col-lg-2 col-md-3 col-sm-3 col-xs-12 hidden-xs content-list ">
+                
+                        <div class="top-content content-medium">COMPANY</div>
+                        <ul class="list-unstyled">
+                                <li class="content-small"><a href="/company/about-us">About Us</a></li>
+                                <li class="content-small"><a href="/company/news-press-release">News &amp; Events</a></li>
+                                <li class="content-small"><a href="/blogs">Blog</a></li>
+                                <li class="content-small"><a href="/company/careers">Careers</a></li>
+                                <li class="content-small"><a href="/company/contact-us">Contact Us</a></li>
+                        </ul>
+                        <div class="inner-content content-medium">RESOURCES</div>
+                        <ul class="list-unstyled">
+                                <li class="content-small"><a href="/resources/techportal/ebooks">E-Books</a></li>
+                                <li class="content-small"><a href="/resources/techportal/whitepapers">White Papers</a></li>
+                                <li class="content-small"><a href="/downloads/case-studies">Case Studies</a></li>
+                                <li class="content-small"><a href="/faq">.NET FAQ</a></li>
+                        </ul>
+                        <div class="inner-content content-medium">SYNCFUSION PLUS</div>
+                        <ul class="list-unstyled">
+                                <li class="content-small"><a href="/products/syncfusion-plus">Plus Benefits</a></li>
+                        </ul>
+            </div>
+            <div class="contact col-lg-3 col-md-3 col-sm-8 col-xs-12  content-list ">
+                
+                        <div class=" content-medium">CONTACT US</div>
+                        <ul class="list-unstyled">
+                                <li class="content-small">Toll Free: 1-888-9DOTNET</li>
+                                <li class="content-small">Fax: +1 919.573.0306</li>
+                                <li class="content-small">US: +1 919.481.1974</li>
+                                <li class="content-small">UK: +44 20 7084 6215</li>
+                        </ul>
+                        <ul class="list-unstyled">
+                                <li class="content-small"><a href="mailto:sales@syncfusion.com">sales@syncfusion.com</a></li>
+                        </ul>
+            </div>
+    </div>
+</div>
+
+<div id="footer-bottom">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-7 col-xs-12 content-small hidden-xs">
+                <div class="link">
+                    <a class="social-link" href="/privacy">Privacy Policy</a> |
+                    <a class="social-link" href="/company/contact-us">Contact Us</a> |
+                    <a class="social-link" href="/sitemap">Sitemap</a>
+                </div>
+
+                <div id="copyright">
+                    <a class="social-link" href="/copyright">Copyright © 2001 - 2015 Syncfusion Inc. All Rights Reserved</a>
+                </div>
+            </div>
+
+            <div class="col-lg-6 col-md-6 col-sm-5 col-xs-12 visible-xs">
+                <div class="col-lg-offset-6 col-md-offset-3 col-sm-offset-0 col-xs-offset-1 visible-xs">
+                    <ul id="footer-icon">
+                        <li>
+                            <a class="social-icon footerSpriteAll" id="footer_icon_twitter" target="_blank" href="https://twitter.com/Syncfusion">
+                                <span class="footerDummyImage"></span>                                
+                                <img class="footerSprite s1" src="//cdn.syncfusion.com/content/images/common/common-icons-05.png" alt="">
+                                </a>
+                        </li>
+                        <li>
+                            <a class="social-icon footerSpriteAll" id="footer_icon_facebook" target="_blank" href="https://www.facebook.com/Syncfusion">
+                                <span class="footerDummyImage"></span>                                
+                                <img class="footerSprite s2" src="//cdn.syncfusion.com/content/images/common/common-icons-03.png" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a class="social-icon footerSpriteAll" id="footer_icon_linkedin" target="_blank" href="https://www.linkedin.com/company/syncfusion?trk=top_nav_home">
+                                <span class="footerDummyImage"></span>
+                                <img class="footerSprite s3" src="//cdn.syncfusion.com/content/images/common/common-icons-03.png" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a class="social-icon footerSpriteAll" id="footer_icon_youtube" target="_blank" href="http://www.youtube.com/syncfusioninc">
+                                <span class="footerDummyImage"></span>                                
+                                <img class="footerSprite s4" src="//cdn.syncfusion.com/content/images/common/common-icons-03.png" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a class="social-icon footerSpriteAll" id="footer_icon_google" target="_blank" rel="publisher" href="https://google.com/+SyncfusionIncMorrisville">
+                                <span class="footerDummyImage"></span>
+                                <img class="footerSprite s5" src="//cdn.syncfusion.com/content/images/common/common-icons-05.png" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a class="social-icon footerSpriteAll" id="footer_icon_geeklt" target="_blank" rel="publisher" href="https://geekli.st/Syncfusion">
+                                <span class="footerDummyImage"></span>
+                                <img class="footerSprite s6" src="//cdn.syncfusion.com/content/images/common/common-icons-03.png" alt="">
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-lg-6 col-md-6 col-sm-5 col-xs-12 hidden-xs">
+                <div class="col-lg-offset-6 col-md-offset-3 col-sm-offset-0 col-xs-offset-1 hidden-xs">
+                    <ul id="footer-icon">
+                        <li>
+                            <a class="social-icon footerSpriteAll" id="footer_icon_twitter" target="_blank" href="https://twitter.com/Syncfusion">
+                                <span class="footerDummyImage"></span>                                
+                                <img class="footerSprite s1" src="//cdn.syncfusion.com/content/images/common/common-icons-05.png" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a class="social-icon footerSpriteAll" id="footer_icon_facebook" target="_blank" href="https://www.facebook.com/Syncfusion">
+                                <span class="footerDummyImage"></span>                                
+                                <img class="footerSprite s2" src="//cdn.syncfusion.com/content/images/common/common-icons-03.png" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a class="social-icon footerSpriteAll" id="footer_icon_linkedin" target="_blank" href="https://www.linkedin.com/company/syncfusion?trk=top_nav_home">
+                                <span class="footerDummyImage"></span>
+                                <img class="footerSprite s3" src="//cdn.syncfusion.com/content/images/common/common-icons-03.png" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a class="social-icon footerSpriteAll" id="footer_icon_youtube" target="_blank" href="http://www.youtube.com/syncfusioninc">
+                                <span class="footerDummyImage"></span>                               
+                                <img class="footerSprite s4" src="//cdn.syncfusion.com/content/images/common/common-icons-03.png" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a class="social-icon footerSpriteAll" id="footer_icon_google" target="_blank" rel="publisher" href="https://google.com/+SyncfusionIncMorrisville">
+                                <span class="footerDummyImage"></span>                                
+                                <img class="footerSprite s5" src="//cdn.syncfusion.com/content/images/common/common-icons-05.png" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a class="social-icon footerSpriteAll" id="footer_icon_geeklt" target="_blank" rel="publisher" href="https://geekli.st/Syncfusion">
+                                <span class="footerDummyImage"></span>
+                                <img class="footerSprite s6" src="//cdn.syncfusion.com/content/images/common/common-icons-03.png" alt="">
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-lg-6 col-md-6 col-sm-5 col-xs-12 content-small visible-xs">
+                <div class="link">
+                    <a class="social-link" href="/privacy">Privacy Policy</a> |
+                    <a class="social-link" href="/company/contact-us">Contact Us</a> |
+                    <a class="social-link" href="/sitemap">Sitemap</a>
+                </div>
+
+                <div id="copyright">
+                    <a class="social-link" href="/copyright">Copyright © 2001 - 2015 Syncfusion Inc. All Rights Reserved</a>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
 
 
 
+    <div class="IE-notifiyPopup" id="upgradeIE">
+        <div class="container popuptext">
+            <div>
+                <p>
+                    <span id="warningicon">
+                        <img src="http://cdn.syncfusion.com/content/images/home/warning.png">
+                    </span>You are using an outdated version of Internet Explorer that may not display all features of this and other websites. Upgrade to Internet Explorer 8 or newer for a better experience.<a class="closepopup" href="#"><img src="http://cdn.syncfusion.com/content/images/home/close.png"></a>
+                </p>
+            </div>
+        </div>
+    </div>
 
-		 
-<script type="text/javascript">
-if(typeof jQuery!='undefined'){ $(function(){
-window.mvcResourceManger = new MvcResourceManger();window.mvcResourceManger.scriptPrefixUrl="/MvcResourceHandler.axd?k=js&r=";window.mvcResourceManger.cssPrefixUrl="/MvcResourceHandler.axd?k=css&r=";window.mvcResourceManger.minify="&minify=False";
-})}
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+    var User_Ip = '204.236.226.210';
 
-</script>
-
-<script type="text/javascript" src="/MvcResourceHandler.axd?k=js&amp;r=['1679733852','-1557533528','695765907','630699320','1754341322','1704896997','-24220587']&amp;minify=False"></script>
-
-<script type="text/javascript">
-if(typeof jQuery!='undefined'){ $(function(){
-window.mvcResourceManger = new MvcResourceManger();window.mvcResourceManger.scriptPrefixUrl="/MvcResourceHandler.axd?k=js&r=";window.mvcResourceManger.cssPrefixUrl="/MvcResourceHandler.axd?k=css&r=";window.mvcResourceManger.minify="&minify=False";window.mvcResourceManger.registerCSS(['1974332286','-876568359','-1832067733','494396602','-524325245','2060857021','1683997275','1172044994'],false);window.mvcResourceManger.registerScripts({scripts:['1679733852','-1557533528','695765907','630699320','1754341322','1704896997','-24220587']},false);
-})}
-
-</script>
-
-
-<script type="text/javascript">
-if(typeof jQuery!='undefined'){ $(function(){
-var obj = $find('SyncfusionMenu'); if(obj!=null){ obj.dispose(); obj = null; }$create(Syncfusion.MVC.Tools.Menu, {"ContextTargetId":null,"CssClass":"syncmenu","DivWrapper":"SyncfusionMenu_sfMenuContainer","Height":0,"HideAnim":"none","HideSpeed":10,"ID":"SyncfusionMenu","ItemCollection":"[{\"Value\":\"1\",\"Text\":\"Products\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Products\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Products\"}],\"UrlMapper\":\"/products\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[{\"Value\":\"7\",\"Text\":\"ASP.NET\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#ASP.NET\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#ASP.NET\"}],\"UrlMapper\":\"/products/aspnet\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"8\",\"Text\":\"ASP.NET MVC\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#ASP.NET MVC\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#ASP.NET MVC\"}],\"UrlMapper\":\"/products/aspnet-mvc\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"88\",\"Text\":\"JavaScript\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#JavaScript\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#JavaScript\"}],\"UrlMapper\":\"/products/javascript\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"88\",\"Text\":\"LightSwitch\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#LightSwitch\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#LightSwitch\"}],\"UrlMapper\":\"/products/lightswitch\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"9\",\"Text\":\"Mobile MVC\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Mobile MVC\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Mobile MVC\"}],\"UrlMapper\":\"/products/mobile-mvc\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"10\",\"Text\":\"Silverlight\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Silverlight\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Silverlight\"}],\"UrlMapper\":\"/products/silverlight\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"11\",\"Text\":\"Windows Forms\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Windows Forms\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Windows Forms\"}],\"UrlMapper\":\"/products/windows-forms\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"12\",\"Text\":\"Windows Phone\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Windows Phone\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Windows Phone\"}],\"UrlMapper\":\"/products/windows-phone\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"13\",\"Text\":\"WinRT (XAML)\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#WinRT (XAML)\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#WinRT (XAML)\"}],\"UrlMapper\":\"/products/winrt\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"14\",\"Text\":\"WPF\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#WPF\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#WPF\"}],\"UrlMapper\":\"/products/wpf\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"15\",\"Text\":\"Orubase Studio\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Orubase Studio\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Orubase Studio\"}],\"UrlMapper\":\"http://www.orubase.com\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"16\",\"Text\":\"Metro Studio\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Metro Studio\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Metro Studio\"}],\"UrlMapper\":\"/downloads/metrostudio\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"17\",\"Text\":\"What\\u0027s New\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#What\\u0027s New\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#What\\u0027s New\"}],\"UrlMapper\":\"/products/whatsnew\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[{\"Value\":\"23\",\"Text\":\"ASP.NET MVC\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#ASP.NET MVC\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#ASP.NET MVC\"}],\"UrlMapper\":\"/products/whatsnew/aspnet-mvc\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"89\",\"Text\":\"JavaScript\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#JavaScript\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#JavaScript\"}],\"UrlMapper\":\"/products/whatsnew/javascript\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"20\",\"Text\":\"Silverlight\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Silverlight\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Silverlight\"}],\"UrlMapper\":\"/products/whatsnew/silverlight\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"21\",\"Text\":\"Windows Forms\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Windows Forms\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Windows Forms\"}],\"UrlMapper\":\"/products/whatsnew/windows-forms\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"22\",\"Text\":\"Windows Phone\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Windows Phone\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Windows Phone\"}],\"UrlMapper\":\"/products/whatsnew/windows-phone\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"18\",\"Text\":\"WinRT (XAML)\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#WinRT (XAML)\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#WinRT (XAML)\"}],\"UrlMapper\":\"/products/whatsnew/winrt\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"19\",\"Text\":\"WPF\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#WPF\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#WPF\"}],\"UrlMapper\":\"/products/whatsnew/wpf\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false}],\"IsChecked\":false},{\"Value\":\"26\",\"Text\":\"Road Map\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Road Map\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Road Map\"}],\"UrlMapper\":\"/products/roadmap\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false}],\"IsChecked\":false},{\"Value\":\"2\",\"Text\":\"Solutions\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Solutions\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Solutions\"}],\"UrlMapper\":\"/solutions\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"3\",\"Text\":\"Support\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Support\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Support\"}],\"UrlMapper\":\"/support\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[{\"Value\":\"35\",\"Text\":\"Direct-Trac Support System\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Direct-Trac Support System\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Direct-Trac Support System\"}],\"UrlMapper\":\"/support/directtrac\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"36\",\"Text\":\"Community Forums\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Community Forums\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Community Forums\"}],\"UrlMapper\":\"/support/forums\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"37\",\"Text\":\"Knowledge Base\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Knowledge Base\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Knowledge Base\"}],\"UrlMapper\":\"/support/kb\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"38\",\"Text\":\"Online Documentation\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Online Documentation\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Online Documentation\"}],\"UrlMapper\":\"/support/online-documentation\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false}],\"IsChecked\":false},{\"Value\":\"4\",\"Text\":\"Purchase\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Purchase\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Purchase\"}],\"UrlMapper\":\"/sales/products\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"5\",\"Text\":\"Downloads\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Downloads\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Downloads\"}],\"UrlMapper\":\"/downloads\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[{\"Value\":\"52\",\"Text\":\"Evaluation\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Evaluation\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Evaluation\"}],\"UrlMapper\":\"/downloads/evaluation\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"83\",\"Text\":\"Free E-Books\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Free E-Books\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Free E-Books\"}],\"UrlMapper\":\"/resources/techportal/ebooks\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"60\",\"Text\":\"White Papers\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#White Papers\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#White Papers\"}],\"UrlMapper\":\"/resources/techportal/whitepapers\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"57\",\"Text\":\"Brochures \\u0026 Datasheets\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Brochures \\u0026 Datasheets\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Brochures \\u0026 Datasheets\"}],\"UrlMapper\":\"/resources/brochures-datasheets\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"73\",\"Text\":\"Case Studies\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Case Studies\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Case Studies\"}],\"UrlMapper\":\"/downloads/case-studies\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"87\",\"Text\":\"Metro Studio\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Metro Studio\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Metro Studio\"}],\"UrlMapper\":\"/downloads/metrostudio\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"53\",\"Text\":\"Latest Version\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Latest Version\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Latest Version\"}],\"UrlMapper\":\"/downloads/latest-version\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"54\",\"Text\":\"Version History\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Version History\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Version History\"}],\"UrlMapper\":\"/downloads/version-history\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false}],\"IsChecked\":false},{\"Value\":\"6\",\"Text\":\"Company\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Company\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Company\"}],\"UrlMapper\":\"/company\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[{\"Value\":\"61\",\"Text\":\"About Us\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#About Us\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#About Us\"}],\"UrlMapper\":\"/company/about-us\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[{\"Value\":\"69\",\"Text\":\"Management\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Management\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Management\"}],\"UrlMapper\":\"/company/about-us/management\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"70\",\"Text\":\"News \\u0026 Events\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#News \\u0026 Events\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#News \\u0026 Events\"}],\"UrlMapper\":\"/company/about-us/news\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"71\",\"Text\":\"Customer Quotes\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Customer Quotes\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Customer Quotes\"}],\"UrlMapper\":\"/company/about-us/customer-quotes\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"72\",\"Text\":\"Customer List\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Customer List\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Customer List\"}],\"UrlMapper\":\"/company/about-us/customerlist\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"74\",\"Text\":\"Awards\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Awards\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Awards\"}],\"UrlMapper\":\"/company/about-us/awards\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"75\",\"Text\":\"Media Kit\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Media Kit\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Media Kit\"}],\"UrlMapper\":\"/company/about-us/media-kit\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false}],\"IsChecked\":false},{\"Value\":\"62\",\"Text\":\"Company Blog\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Company Blog\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Company Blog\"}],\"UrlMapper\":\"/blogs/category/Company.aspx\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"78\",\"Text\":\"Technical Team Blog\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Technical Team Blog\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Technical Team Blog\"}],\"UrlMapper\":\"/blogs/category/Development.aspx\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"63\",\"Text\":\"Newsletter\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Newsletter\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Newsletter\"}],\"UrlMapper\":\"/company/newsletters/newsletter\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"64\",\"Text\":\"Partners\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Partners\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Partners\"}],\"UrlMapper\":\"/company/partners\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[{\"Value\":\"78\",\"Text\":\"Technology Partners\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Technology Partners\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Technology Partners\"}],\"UrlMapper\":\"/company/partners/technology-partners\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"79\",\"Text\":\"Training Partners\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Training Partners\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Training Partners\"}],\"UrlMapper\":\"/company/partners/training-partners\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"80\",\"Text\":\"Consulting Partners\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Consulting Partners\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Consulting Partners\"}],\"UrlMapper\":\"/company/partners/consulting-partners\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false}],\"IsChecked\":false},{\"Value\":\"65\",\"Text\":\"Locations\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Locations\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Locations\"}],\"UrlMapper\":\"/company/locations\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[{\"Value\":\"76\",\"Text\":\"Morrisville, North Carolina, USA\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Morrisville, North Carolina, USA\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Morrisville, North Carolina, USA\"}],\"UrlMapper\":\"/company/locations/rdu\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"77\",\"Text\":\"Chennai, India\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Chennai, India\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Chennai, India\"}],\"UrlMapper\":\"/company/locations/chennai\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false}],\"IsChecked\":false},{\"Value\":\"66\",\"Text\":\"Contact Us\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Contact Us\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Contact Us\"}],\"UrlMapper\":\"/company/contact-us\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false},{\"Value\":\"67\",\"Text\":\"Careers\",\"TooltipText\":null,\"linkAttributesInternal\":[{\"Key\":\"href\",\"Value\":\"#Careers\"}],\"LinkAttributes\":[{\"Key\":\"href\",\"Value\":\"#Careers\"}],\"UrlMapper\":\"/company/careers\",\"ImageUrl\":\"\",\"ImageAttributesInternal\":[],\"SpriteAttributesInternal\":null,\"ImageAttributes\":[],\"SpriteCSS\":\"\",\"Selected\":false,\"HasChildren\":false,\"htmlAttributesInternal\":[],\"HtmlAttributes\":[],\"ChildItems\":[],\"IsChecked\":false}],\"IsChecked\":false}]","MenuType":"NormalMenu","OpenOnClick":false,"Orientation":0,"ShowAnim":"none","ShowArrow":true,"ShowSpeed":10,"Width":0,"isItemCollection":true}, null, null, $get("SyncfusionMenu"));
-var obj = $find('keyword'); if(obj!=null){ obj.dispose(); obj = null; }$create(Syncfusion.Mvc.Shared.AutocompleteTextBox, {"AllowCache":true,"AutoFill":false,"CaseSensitive":false,"ClientSideTemplate":"","CssClass":"sf-autocomplete Office2007Blue","DataFetch":0,"DataSource":null,"Delay":500,"Delimiter":null,"Disable":false,"DropDown":false,"Error":false,"FillOnMouseOver":false,"FilterType":"StartsWith","Hide":false,"HighlightItemIndex":0,"HighlightTextCss":null,"HighlightTypedString":false,"ID":"keyword","JSONMode":true,"ListHeight":"","ListSize":0,"ListWidth":"","ListXPosition":-1,"ListYPosition":-1,"LoadingImage":true,"MinCharacter":1,"Mode":0,"NoSuggestionText":null,"RequestMapper":"/search/getdata","RightToLeft":false,"ShowNoSuggestion":false,"Value":"","WaterMark":""}, {"ClientSideOnLoad":ClientSideOnLoad,"ClientSideOnSelect":MainsearchFunc}, null, $get("keyword"));
-
-})}
-
-</script>
-
-		 
-		<script type="text/javascript">
-        Sys.Application.add_init(function() {
-        var RTE = $find("Description");
-            if (RTE)
-                $("#Description").attr("style", "visibility:visible");
-            
-            RTE = $find("UpdateTxtBx");
-            if (RTE)
-                $("#UpdateTxtBx").attr("style", "visibility:visible");           
-   
-        });            
     </script>
- <!-- Google Code for Remarketing tag -->
+
+    <script src="//cdn.syncfusion.com/scripts/jquery/jqueryall.js"></script>
+<script src="//cdn.syncfusion.com/scripts/bootstrap/bootstrap.min.js"></script>
+<script src="/bundles/scripts/bootstraplayoutjs?v=wyJdOLLDymvaGjHcwI7NUXVokHf8CEFC00fLnicaTMA1"></script>
+<script src="//d2g29cya9iq7ip.cloudfront.net/scripts/components/essentialjs/ej.core.min.js"></script>
+<script src="//cdn.syncfusion.com/scripts/components/essentialjs/ej.scroller.min.js"></script>
+<script src="//cdn.syncfusion.com/scripts/components/essentialjs/ej.dialog.min.js"></script>
+
+    <script type="text/javascript" src="//cdn.syncfusion.com/scripts/jquery/MicrosoftMvcAjax.js" defer=""></script>
+
+    <script type="text/javascript" src="/bundles/scripts/feedbackjs?v=n-Ktcd-Ai5PS9W1-X_7UmB8N2OmMqYZWqiCmc8kqS4U1" defer=""></script>
+
+ 
+            <script type="text/javascript">
+
+                var _gaq = _gaq || [];
+                _gaq.push(['_setAccount', 'UA-233131-1']);
+                _gaq.push(['_trackPageview']);
+
+                (function () {
+                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                })();
+
+            </script>
+        <!-- Google Code for Remarketing tag -->
         <script type="text/javascript">
             var google_conversion_id = 1072678817;
             var google_conversion_label = "q7eHCJ7eiwQQoY-__wM";
             var google_custom_params = window.google_tag_params;
             var google_remarketing_only = true;
-
         </script>
-        <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
-         <noscript>
+        <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"> </script>
+        <noscript>
             <div style="display: inline;">
                 <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072678817/?value=0&amp;label=q7eHCJ7eiwQQoY-__wM&amp;guid=ON&amp;script=0" />
             </div>
         </noscript>
-    
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('a').each(function () {
+                var a = new RegExp('/' + window.location.host + '/');
+                if (!a.test(this.href)) {
+                    $(this).click(function (event) {
+                        event.preventDefault();
+                        event.stopPropagation();
+                        window.open(this.href, '_blank');
+                    });
+                }
+            });
+        });
+    </script>
+
     
 
 
