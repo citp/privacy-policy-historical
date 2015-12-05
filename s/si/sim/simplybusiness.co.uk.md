@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplybusiness.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607234543id_/http%3A//www.simplybusiness.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplybusiness.co.uk privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205141032id_/http%3A//www.simplybusiness.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Simply Business
 
@@ -90,15 +90,9 @@ Home 3 insurance
 
 #### Other Partners
 
-Confused.com – Introducing partner
-
 Gocompare.com – Introducing partner
 
-Tescocompare.com – Introducing partner
-
 Moneysupermarket.com – Introducing partner
-
-The Insurance Octopus – if we can’t help you with your insurance request, The Insurance Octopus may offer to assist you.
 
 Feefo.com – your email, name and policy number may be shared with feefo.com (new partner May 2012)- they offer a review service
 
