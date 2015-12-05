@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tradeplusonline.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409052027id_/http%3A//www.tradeplusonline.com/Tradeplus-Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeplusonline.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205225655id_/https%3A//www.tradeplusonline.com/Tradeplus-Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Welcome to Tradeplus
+# Navia Commodities Broker Pvt. Ltd.
 
 Your privacy is critically important to us. Below we explain how we use your information.
 
