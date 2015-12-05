@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safestyle-windows.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200310id_/http%3A//www.safestyle-windows.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safestyle-windows.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206001441id_/http%3A//www.safestyle-windows.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Safestyle UK
 
@@ -44,8 +44,6 @@ You do not need to accept cookies and may alter the configuration of your browse
 
 By uploading text or images to our [Customer Review](https://web.archive.org/customer-care/reviews/ "Reviews") section you affirm that we may use both the text and images as part of our Customer Review section of this website.
 
-For full usage and removal information, please click here.
-
 ### Security
 
 We employ security measures to protect the information provided by you from access by unauthorised persons and against unlawful processing, accidental loss, destruction or damage.
@@ -60,4 +58,4 @@ We will only perform the activities outlined above to the extent that such activ
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [customerservices@safestyle.co.uk](mailto:customerservices@safestyle.co.uk) or Customer Services, Safestyle UK, Style House, Eldon Place, Bradford BD1 3AZ.
 
-**Last revised 20th February 2014**
+**Last revised 8th September 2015**
