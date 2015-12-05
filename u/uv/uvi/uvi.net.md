@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uvi.net privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110160411id_/http%3A//www.uvi.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uvi.net privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205104638id_/http%3A//www.uvi.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - UVI
 
