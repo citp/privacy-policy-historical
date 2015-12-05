@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mantisadnetwork.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407073513id_/http%3A//www.mantisadnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mantisadnetwork.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205071315id_/http%3A//www.mantisadnetwork.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MANTIS®
+# Privacy Policy - MANTIS Ad Network
 
 MANTIS Ad Network, LLC (“MANTIS”), and its wholly-owned subsidiaries (collectively MANTIS or we/us/our) respect and value your privacy. As such, this Privacy Policy (“Policy”) covers the collection and use of information from any device used to access or connect to MANTIS branded websites, services, and software, as well as many websites owned by or affiliated with MANTIS and operating under different names and explains how your information is collected, used and shared by MANTIS. MantisAdNetwork.com (“Site”) is designed for business clients and prospective business clients. The website is not directed to consumers generally.
 
