@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficmatico.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630071416id_/https%3A//www.udemy.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficmatico.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205223153id_/https%3A//www.udemy.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Udemy
 
