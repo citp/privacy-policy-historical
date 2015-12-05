@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panelplace.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610064008id_/http%3A//www.panelplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panelplace.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205172013id_/http%3A//www.panelplace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PanelPlace
 
@@ -94,9 +94,9 @@ Feedback
 
 You can contact us about this privacy statement by writing or email us at the address below:
 
-PanelPlace LLP  
-111 North Bridge Road #27-01 Peninsula Plaza  
-Singapore, 179098
+PanelPlace  
+261 Waterloo Street #03-32 Waterloo Centre  
+Singapore, 180261
 
 Email: [support@panelplace.com](mailto:support@panelplace.com)  
 Phone: +65.6507 4432
