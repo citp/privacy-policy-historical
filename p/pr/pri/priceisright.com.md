@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priceisright.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185608id_/http%3A//www.priceisright.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceisright.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205235632id_/http%3A//www.priceisright.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Price is Right
 
@@ -6,7 +6,7 @@
 
 **Data Protection Statement**
 
-**www.priceisright.com**  (the “ **Site** ”), the official website for the PRICE IS RIGHT®, is provided by FremantleMedia North America, Inc. (“ **FMNA** ”, “us”, “we” or “our”).  This Privacy Policy describes the type of information we may collect from you, how we may use such information, who we may share it with, and how you can correct or change such information.
+**www.priceisright.com**  (the “ **Site** ”), the official website for the THE PRICE IS RIGHT®, is provided by FremantleMedia North America, Inc. (“ **FMNA** ”, “us”, “we” or “our”).  This Privacy Policy describes the type of information we may collect from you, how we may use such information, who we may share it with, and how you can correct or change such information.
 
 If you have any requests concerning your personal information or any queries with regard to these practices please contact the FMNA Privacy Officer by e-mail at:[ privacy.officer@fremantlemedia.com](mailto:privacy.officer@fremantlemedia.com).
 
