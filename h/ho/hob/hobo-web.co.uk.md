@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobo-web.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072417id_/http%3A//www.hobo-web.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobo-web.co.uk privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205225845id_/http%3A//www.hobo-web.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - hobo
 
