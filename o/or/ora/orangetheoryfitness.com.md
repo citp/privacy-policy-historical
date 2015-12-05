@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orangetheoryfitness.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601023543id_/http%3A//www.orangetheoryfitness.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orangetheoryfitness.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205222608id_/http%3A//www.orangetheoryfitness.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Orangetheory Fitness > Privacy Policy
 
