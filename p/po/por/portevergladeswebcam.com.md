@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portevergladeswebcam.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201029id_/http%3A//www.ptztv.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portevergladeswebcam.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206001504id_/http%3A//www.ptztv.com/about-us/privacy) for the most accurate reproduction.*
 
 # PTZtv - Scenic Webcam Solutions - Privacy
 
