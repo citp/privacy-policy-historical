@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbbs.org privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528060316id_/http%3A//www.bbbs.org/site/c.9iILI3NGKhK6F/b.5960971/k.D130/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbbs.org privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205142117id_/http%3A//www.bbbs.org/site/c.9iILI3NGKhK6F/b.5960971/k.D130/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy - Big Brothers Big Sisters
 
@@ -28,7 +28,7 @@ The "help" portion of the toolbar on most browsers will tell you how to stop acc
 
 **Participate in Contests and Sweepstakes.** When you sign up to participate in one of our contests or sweepstakes, you may provide us with information such as your name or email address. We may use the information to enter you in the contest or sweepstakes and contact you if you win. Also, unless you previously asked us not to send you our newsletter, we will add your email address to our newsletter list. If you do not want to receive information about BBBS, you may choose not to participate in our contests and sweepstakes.
 
-**Donations.** You also give us contact information and credit card or checking information so we can process your donation. We use this information for that purpose and to customize our communication with you.
+**Donations.** You also give us contact information and credit card or checking information so we can process your donation. We use this information for that purpose and to customize our communication with you. Big Brothers Big Sisters of America will not share or sell a donor's personal information with anyone else, nor send donor mailings on behalf of other organizations.
 
 **Other Ways We May Use Information to Provide Services.** You may provide us with survey information to help us learn more about your preferences. We maintain information you provide to us in our database to provide you with the information, goods or services you have requested.
 
