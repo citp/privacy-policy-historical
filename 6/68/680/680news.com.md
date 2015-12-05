@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 680news.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626124316id_/http%3A//www.rogerspublishing.ca/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 680news.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205222032id_/http%3A//www.rogerspublishing.ca/privacy.shtml) for the most accurate reproduction.*
 
 # Rogers Media Privacy FAQ - Rogers Media Inc.
 
