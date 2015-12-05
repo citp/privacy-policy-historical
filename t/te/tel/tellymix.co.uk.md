@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tellymix.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607002430id_/http%3A//www.tellymix.co.uk/about/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellymix.co.uk privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205035149id_/http%3A//www.tellymix.co.uk/about/privacy-and-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | Telly Mix
 
 **Last revised: 26th May 2012**
 
-This policy explains in detail how TellyMix (hereinafter “tellymix”, “us”, “we”, “our”) use any information collected during any visit by you (hereinafter “your”, “visitor”, “user”)
+This policy explains in detail how TellyMix (hereinafter "tellymix", "us", "we", "our") use any information collected during any visit by you (hereinafter "your", "visitor", "user")
 
 ### Sites covered by this Privacy Policy
 
@@ -34,7 +34,7 @@ A cookie is a small text file that is stored on your computer
 
 #### What are they used for?
 
-Cookies allow us to permanently store information about your visit to enable a better experience when you return in the future and browse other pages. For example, a cookie may store the contents of your shopping basket or whether you’ve disabled the mobile website.
+Cookies allow us to permanently store information about your visit to enable a better experience when you return in the future and browse other pages. For example, a cookie may store the contents of your shopping basket or whether you've disabled the mobile website.
 
 Generally cookies are used to enable the website to function correctly, by storing where you are in a particular transaction or part of the site, so that the next page you visit can be tailored to your needs.
 
@@ -80,7 +80,7 @@ Your browsing software will allow you to change how our website and others set a
 
 Naturally, disabling certain cookies may cause certain parts of the website to stop functioning.
 
-None the less, find out how to change the cookie settings in your browser below…
+None the less, find out how to change the cookie settings in your browser below...
 
  **Internet Explorer**  
 <http://support.microsoft.com/kb/196955>
