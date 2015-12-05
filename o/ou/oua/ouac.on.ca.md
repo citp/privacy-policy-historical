@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ouac.on.ca privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607035822id_/http%3A//www.ouac.on.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ouac.on.ca privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205140850id_/http%3A//www.ouac.on.ca/privacy) for the most accurate reproduction.*
 
 # Privacy | Ontario Universities' Application Centre
 
@@ -6,12 +6,12 @@ The Ontario Universities’ Application Centre (OUAC) is committed to protecting
 
 ## Declaration and Notice of Collection, Use, Disclosure and Treatment of Your Personal Information (Division-specific)
 
-  * [101](https://web.archive.org/web/20150607035822id_/http://www.ouac.on.ca/privacy/101-declaration) (Current Ontario High School Students [101])
-  * [105](https://web.archive.org/web/20150607035822id_/http://www.ouac.on.ca/privacy/105-declaration) (All Other Undergraduate Applicants [105])
-  * [OLSAS](https://web.archive.org/web/20150607035822id_/http://www.ouac.on.ca/privacy/olsas-declaration) (Ontario Law School Application Service)
-  * [OMSAS](https://web.archive.org/web/20150607035822id_/http://www.ouac.on.ca/privacy/omsas-declaration) (Ontario Medical School Application Service)
-  * [ORPAS](https://web.archive.org/web/20150607035822id_/http://www.ouac.on.ca/privacy/orpas-declaration) (Ontario Rehabilitation Sciences Programs Application Service)
-  * [TEAS](https://web.archive.org/web/20150607035822id_/http://www.ouac.on.ca/privacy/teas-declaration) (Teacher Education Application Service)
+  * [101](https://web.archive.org/web/20151205140850id_/http://www.ouac.on.ca/privacy/101-declaration) (Current Ontario High School Students [101])
+  * [105](https://web.archive.org/web/20151205140850id_/http://www.ouac.on.ca/privacy/105-declaration) (All Other Undergraduate Applicants [105])
+  * [OLSAS](https://web.archive.org/web/20151205140850id_/http://www.ouac.on.ca/privacy/olsas-declaration) (Ontario Law School Application Service)
+  * [OMSAS](https://web.archive.org/web/20151205140850id_/http://www.ouac.on.ca/privacy/omsas-declaration) (Ontario Medical School Application Service)
+  * [ORPAS](https://web.archive.org/web/20151205140850id_/http://www.ouac.on.ca/privacy/orpas-declaration) (Ontario Rehabilitation Sciences Programs Application Service)
+  * [TEAS](https://web.archive.org/web/20151205140850id_/http://www.ouac.on.ca/privacy/teas-declaration) (Teacher Education Application Service)
 
 
 
@@ -60,8 +60,9 @@ The OUAC may collect personal information about other individuals on your behalf
 
 ### Surveys
 
-Sometimes the OUAC conducts a survey of university graduates, students or applicants. Your personal information is used to advise you of the survey. If you agree to complete the survey, your personal information is used only to process the survey responses. The information obtained from the survey is used only in aggregate and non-identifiable form.  
-Optional Information
+Sometimes the OUAC conducts a survey of university graduates, students or applicants. Your personal information is used to advise you of the survey. If you agree to complete the survey, your personal information is used only to process the survey responses. The information obtained from the survey is used only in aggregate and non-identifiable form.
+
+### Optional Information
 
 Sometimes the OUAC asks for personal information that you are not required to provide, but you may provide if you wish. For example, we may request certain personal information that allows you to take advantage of special programs, such as scholarships or other forms of financial assistance. You are not required to provide this personal information to apply for admission to a university or to complete a survey. We explain why we request this optional personal information in privacy notices for the applicable university programs. These notices also explain how your personal information will be used.
 
@@ -130,8 +131,9 @@ Although we take appropriate measures to safeguard the personal information in o
 
 To provide you with an increased level of security online, access to your personal information on our website will be protected with a password you select. We strongly recommend that you do not disclose your password to anyone. We will never ask you for your password in any unsolicited communication.
 
-The OUAC is dedicated to using a high level of security during the transfer of application data. All files transferred to or from the OUAC use a Secure Socket Shell (SSH) protocol that requires a password to transfer the file and encrypts the file as it is being sent through the internet. Files that contain personal information have an additional layer of encryption called Pretty Good Protection (PGP). To use PGP, the sender and recipient must use public and private “keys”. These keys are an enhanced form of password protection in which the sender and recipient share public keys with each other but they keep their private keys to themselves. The sender encrypts a file with the sender’s private key and the recipient’s public key. The recipient will decrypt that file with the recipient’s private key and the sender’s public key. Therefore the OUAC has taken steps to ensure that an unauthorized third party cannot decrypt the file.  
-Accessing and Correcting Your Personal Information
+The OUAC is dedicated to using a high level of security during the transfer of application data. All files transferred to or from the OUAC use a Secure Socket Shell (SSH) protocol that requires a password to transfer the file and encrypts the file as it is being sent through the internet. Files that contain personal information have an additional layer of encryption called Pretty Good Protection (PGP). To use PGP, the sender and recipient must use public and private “keys”. These keys are an enhanced form of password protection in which the sender and recipient share public keys with each other but they keep their private keys to themselves. The sender encrypts a file with the sender’s private key and the recipient’s public key. The recipient will decrypt that file with the recipient’s private key and the sender’s public key. Therefore the OUAC has taken steps to ensure that an unauthorized third party cannot decrypt the file.
+
+### Accessing and Correcting Your Personal Information
 
 We will keep your personal information as accurate and up-to-date as reasonably possible. We retain your electronically stored personal information in identifiable form until all processing and reporting has been completed. During an application cycle, you are able to access your personal information online and, in most cases, make corrections online where required. In some circumstances (e.g., after deadlines have passed for medical school, law school or rehabilitation sciences applications) changes to your personal information must be done by electronic notification via secure applicant messaging. To protect your privacy, we will take reasonable steps to help verify your identity before granting access or making corrections to your personal information.
 
