@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thisistrue.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607203021id_/http%3A//www.thisistrue.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisistrue.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206001742id_/http%3A//www.thisistrue.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy and Security Statement: Randy Cassingham's Weird News
+# Privacy, Security, & eCommerce Policies: Randy Cassingham's Weird News
 
 "My policy is simply to treat my customers the way I wish to be treated."   
 \-- _This is True_ Founder Randy Cassingham
@@ -20,7 +20,7 @@ We further protect your privacy and e-mail security in general by requiring that
 
 **Underage Subscribers:** _This is True_ is designed for adults and well-educated, older teens. Kids under 13 will not likely get the humor or irony, and we do not knowingly accept subscriptions for pre-teens. Any pre-teens discovered on our distribution will be deleted. Any particularly brainy kids that want to read _True_ should ask a parent to subscribe, and then ask to read their parent's copy.
 
-**Cookies:** The site -- and the advertisers who make this free service possible -- may use cookies or "web beacons" to get statistics on who sees what ads, whether you click on the ads, etc.
+**Cookies:** The site — and the advertisers who make this free service possible — may use cookies or "web beacons" to get statistics on who sees what ads, whether you click on the ads, etc.
 
 We use third-party advertising companies to serve ads. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of specific interest to you.
 
@@ -34,9 +34,11 @@ If you don't want to have this DART cookie on your computer, you can [opt out](h
 
 **Refund Policy:** All actual products (such as printed materials) have a 30-day return policy if defective. If you find a problem with a product, explain the problem via our [Contact Form](http://www.thisistrue.com/contact.html) on this site. We do not offer refunds if you simply change your mind, or get mad when we tell the truth about an event.
 
-**Note Regarding Online Credit Card Security:** All credit card data entered by customers, including account numbers, are processed immediately _and are not kept_ on file by us for _any_ length of time. We _cannot_ "look up your number" even if you ask us to. We are _quite_ serious about the security of your data, and use the best methods available to us. We simply use what _we_ expect from the online merchants we buy things from.
+**Note Regarding Online Credit Card Security:** All credit card data entered by customers, including account numbers, are processed immediately _and are not kept_ on file by us for _any_ length of time. We _cannot_ "look up your number" to process a renewal for you even if you give us permission. We are _quite_ serious about the security of your data, and use the best methods available to us. We simply use what _we_ expect from the online merchants we buy things from.
 
 ### Affiliate Relationships
 
-You should assume that any links on this site, or in our e-mails, is to a site that has an affiliate relationship and/or another material connection to the providers of goods and services mentioned, and the owners of this site may be compensated when you purchase from such a provider. You should always perform due diligence before buying goods or services from anyone -- via the Internet or offline.  
+You should assume that any links on this site, or in our e-mails, is to a site that has an affiliate relationship and/or another material connection to the providers of goods and services mentioned, and the owners of this site may be compensated when you purchase from such a provider. You should always perform due diligence before buying goods or services from anyone — via the Internet or offline.
+
+_Updated page title to reflect content of page._  
 
