@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the npg.org.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626114811id_/http%3A//www.npg.org.uk/footer/privacy-cookies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npg.org.uk privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205192207id_/http%3A//www.npg.org.uk/footer/privacy-cookies.php) for the most accurate reproduction.*
 
-# National Portrait Gallery - Privacy & cookies
+# Privacy & cookies - National Portrait Gallery
 
 Cookies are small data files that a website can transfer to an individual’s computer hard drive for record keeping. Cookies can make websites easier to use by storing information about your preferences on a particular website. The information may remain on your computer after the Internet session finishes and you leave the website but you can delete them using some browsers, manually or using system utilities. Most internet browsers are pre-set to accept cookies.
 
