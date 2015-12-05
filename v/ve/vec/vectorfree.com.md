@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vectorfree.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607135903id_/http%3A//www.vectorfree.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vectorfree.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205181502id_/http%3A//www.vectorfree.com/privacy.html) for the most accurate reproduction.*
 
 # Vector Free - Privacy Policy
 
