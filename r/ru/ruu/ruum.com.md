@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruum.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505191753id_/http%3A//www.ruum.com/privacy-policy---1202) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruum.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205212927id_/http%3A//www.ruum.com/privacy-policy---1202) for the most accurate reproduction.*
 
 # RUUM - Privacy Policy
 
