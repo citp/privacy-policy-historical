@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nau.edu privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074038id_/http%3A//nau.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nau.edu privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206000600id_/http%3A//nau.edu/privacy) for the most accurate reproduction.*
 
 # Privacy - Web Privacy Statement - Northern Arizona University
 
@@ -38,7 +38,7 @@ University and Arizona Board of Regents policies protect the confidentiality of 
 
 ###  **Student records**
 
-Student records are protected by the federal Family Educational Rights and Privacy Act (FERPA), Arizona law, and university policy. Information about student access to education records and protection of education records is available at <http://home.nau.edu/enrollmentservices/ferpa.asp>. This policy also provides information on a student's right to limit access to otherwise public directory information Chat rooms, forums, message boards, and news groups. NAU may retain logs and copies of chat room sessions for various courses. Normal, non-class news group postings or other forums are operated without archives but are subject to the backup policies on the machine hosting the service. Some class materials are treated as confidential educational records. Other class materials are available to the public in general (many course syllabi and most usenet news course discussions, for example). 
+Student records are protected by the federal Family Educational Rights and Privacy Act (FERPA), Arizona law, and university policy. Information about student access to education records and protection of education records is available at <https://nau.edu/registrar/ferpa/info/>. This policy also provides information on a student's right to limit access to otherwise public directory information Chat rooms, forums, message boards, and news groups. NAU may retain logs and copies of chat room sessions for various courses. Normal, non-class news group postings or other forums are operated without archives but are subject to the backup policies on the machine hosting the service. Some class materials are treated as confidential educational records. Other class materials are available to the public in general (many course syllabi and most usenet news course discussions, for example). 
 
 ###  **Employee records**
 
