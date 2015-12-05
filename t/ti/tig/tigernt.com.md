@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigernt.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407083004id_/http%3A//tigernt.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigernt.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205195907id_/http%3A//tigernt.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -33,14 +33,6 @@ This site contains links to other sites. **TigerNT** is not responsible for the 
 ####  Public Forums 
 
 This site may makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
-####  Choice/Opt-Out 
-
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us . 
-
-  1. You can visit the following URL: [ http://www.tigernt.com/deals/remove.cgi ](http://www.tigernt.com/deals/remove.cgi)
-
-
 
 ##  Contacting the Web Site 
 
