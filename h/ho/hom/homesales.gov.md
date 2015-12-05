@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesales.gov privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630132819id_/http%3A//www.usda.gov/wps/portal/%21ut/p/_s.7_0_A/7_0_1OB%3Fnavtype%3DFT%26navid%3DPRIVACY_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesales.gov privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205143140id_/http%3A//www.usda.gov/wps/portal/%21ut/p/_s.7_0_A/7_0_1OB%3Fnavtype%3DFT%26navid%3DPRIVACY_POLICY) for the most accurate reproduction.*
 
 # Privacy Policy | USDA
 
@@ -56,7 +56,7 @@ Cookies are small files that web servers place on a user's hard drive that helps
 
 USDA may use both types of cookies to improve our on-line services to you. 
 
-You can [disable cookies](http://www.usa.gov/optout-instructions.shtml "Opens in new window.") by adjusting the setting on your web browser.   
+You can [disable cookies](https://www.usa.gov/optout-instructions "Opens in new window.") by adjusting the setting on your web browser.   
   
 | You Send Us Personal Information  
   
@@ -114,6 +114,6 @@ Please note that these third-party services supplement USDA's traditional commun
 
 The purpose of the USDA's new media communication forums, such as USDA blogs, collaborative tools, and other sites, is to share news and information regarding the activities, policies, and programs of USDA and its employees. We encourage discussion and comments on posts. Your insights are important to ensure Americans nationwide are informed and can be a part of the USDA's work, every day. 
 
-If you have any comments or questions about the information presented here, please forward your concerns to the USDA Privacy Officer, Ray Payton at [ray.payton@ocio.usda.gov](mailto:ray.payton@ocio.usda.gov) or [Privacy@ocio.usda.gov](mailto:Privacy@ocio.usda.gov).   
+If you have any comments or questions about the information presented here, please forward your concerns to the USDA Chief Privacy Officer, Kelvin Fairfax at [Kelvin.Fairfax@ocio.usda.gov](mailto:Kelvin.Fairfax@ocio.usda.gov) or [USDAPrivacy@ocio.usda.gov](mailto:USDAPrivacy@ocio.usda.gov).   
   
  
