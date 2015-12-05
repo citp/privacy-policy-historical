@@ -1,9 +1,12 @@
-<!--The following is the downloaded HTML source of the todayfm.com privacy policy that was archived on 2015-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150407145119id_/http%3A//www.todayfm.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the todayfm.com privacy policy that was archived on 2015-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151205013540id_/http%3A//www.todayfm.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	
-	<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>
+			
+	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+			
+	<script>
 		(function(f,b,g){
 		var xo=g.prototype.open,xs=g.prototype.send,c;
 		f.hj=f.hj||function(){(f.hj.q=f.hj.q||[]).push(arguments)};
@@ -28,6 +31,8 @@
 	<meta property="og:title" content="Privacy Policy">
 	<meta property="og:type" content="article">
 	<meta property="og:image" content="http://www.todayfm.com/assets/graphics/holder328x250.png">
+	<meta property="og:image:width" content="588">
+	<meta property="og:image:height" content="448">	
 	<meta property="og:description" content="Privacy Policy">
 		
 	<link rel="shortcut icon" href="favicon.ico">
@@ -57,47 +62,135 @@
     <script class="rs-file" src="/assets/royalslider/jquery.royalslider.min.js"></script>
     <link class="rs-file" href="/assets/royalslider/royalslider.css" rel="stylesheet">
     <link class="rs-file" href="/assets/royalslider/skins/default/rs-default.css" rel="stylesheet">
-    <script type="text/javascript">
-var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
-(function() {
-var gads = document.createElement('script');
-gads.async = true;
-gads.type = 'text/javascript';
-var useSSL = 'https:' == document.location.protocol;
-gads.src = (useSSL ? 'https:' : 'http:') + 
-'//www.googletagservices.com/tag/js/gpt.js';
-var node = document.getElementsByTagName('script')[0];
-node.parentNode.insertBefore(gads, node);
-})();
-</script>
-
+    
+    
+		
 <script type="text/javascript">
-googletag.cmd.push(function() {
-	googletag.defineSlot('/27435881/TodayFMBillboard', [[1, 1], [970, 250]], 'div-gpt-ad-1422361743555-0-billboard').addService(googletag.pubads());
-	googletag.defineSlot('/27435881/TodayFMInternalATF', [300, 250], 'div-gpt-ad-1422361881403-0-mpu-int-1').addService(googletag.pubads());
-	googletag.defineSlot('/27435881/TodayFMInternalHalfPage', [[1, 1], [300, 600]], 'div-gpt-ad-1422439333109-0-mpu-int-half').addService(googletag.pubads());
-	googletag.defineSlot('/27435881/TodayFMInternalBTF', [300, 250], 'div-gpt-ad-1422361881403-0-mpu-int-2').addService(googletag.pubads());
-	googletag.pubads().enableSingleRequest();
-	googletag.enableServices();
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+			
+		
+	<script type="text/javascript">
+
+	var gptAdSlots = []; // This declares the responsive GPT slots array of ad units
+
+	googletag.cmd.push(function() {
+	 
+	// Var 'mapping[ maps the ad sizes to browser sizes. The first parameter to addSize is a viewport size, while the second is a list of allowed ad sizes.
+	 
+	var mapping = googletag.sizeMapping(). // This is for the header area / landscape or 'NT_Head' ad unit
+	addSize([0, 0], []).
+	addSize([320, 300], [[320, 100], [320, 50]]). // Mobile, allow a 320x100 or 320x50 only
+	addSize([750, 300], [728, 90]). // Landscape tablet, allow a LB
+	addSize([990, 300], [[970, 250], [970,90], [728,90]]).build(); // Desktop, allow a Billboard / Masthead, Super LB or LB 
+		
+		
+	var mapping1 = googletag.sizeMapping(). // This is for the primary side bar position, or NT_Side_1 ad unit
+	addSize([0, 0], [300, 250]). // Shows nothing until viewport reaches 990px wide (i.e. desktop only)
+	addSize([990, 300], [300, 250]).build(); // Allows these sizes on Desktop only
+	
+	var mapping2 = googletag.sizeMapping(). // This is for the sticky 2nd MPU, or NT_Side_2 ad unit
+	addSize([0, 0], []). // Shows nothing until viewport reaches 990px wide (i.e. desktop only)
+	addSize([990, 300], [[300, 250], [300, 600]]).build(); // Allows this size on Desktop view only.
+	var mapping3 = googletag.sizeMapping(). // This is for the mid editorial MPU or Newstalk_InternalMobileSite ad unit
+	addSize([0, 0], []).
+	addSize([320, 300], [300, 250]). // From 320 to 750px wide, allow an MPU
+	addSize([750, 300], []).build(); // Suppress ad on desktop and landscape tablet
+	 
+	// Define the GPT slots
+	gptAdSlots[0] = googletag.defineSlot('/27435881/TDFM_Head', [320, 50], 'div-gpt-ad-1446562461113-0'). // the div-gpt names can be your own, but ensure they mirror ad units in body
+	defineSizeMapping(mapping). // Implements the mapping.
+	addService(googletag.pubads());
+
+	gptAdSlots[1] = googletag.defineSlot('/27435881/TDFM_Side_1', [300, 250], 'div-gpt-ad-1446562553511-0'). //Default ad unit size 300x250 to serve that fits any browser size if none of the other sizes match browser
+	defineSizeMapping(mapping1).
+	addService(googletag.pubads());
+	 
+	gptAdSlots[2] = googletag.defineSlot('/27435881/TDFM_Side_2', [300, 250], 'div-gpt-ad-1446562591189-0'). // This is the sticky MPU
+	defineSizeMapping(mapping2).
+	addService(googletag.pubads());
+			
+	gptAdSlots[3] = googletag.defineOutOfPageSlot('/27435881/TDFM_Out-Of-Page', 'div-gpt-ad-1446562631773-0').addService(googletag.pubads());
+	 
+		
+
+	googletag.pubads().enableSingleRequest(); // Calls all of the ads on a page at once in the header of your content. Needed for roadblocks.
+	googletag.pubads().collapseEmptyDivs(); // Collapses all ad units on page when no ad in queue / available to render
+	googletag.pubads().setTargeting('tdsection', ['']); // This is page level custom targeting. All ad units on page inherit these.
+		googletag.pubads().setTargeting('articleID', ['66']);
+		
+googletag.enableServices(); // Start ad fetching
 });
 </script>
+		
+		
+			
+<script type="text/javascript">var slug='privacy';</script>
+<script type="text/javascript">
+	
+	
+	(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){
+	
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	
+	})(window,document,"script","//www.google-analytics.com/analytics.js","ga");
+	
+	ga("create", "UA-3864919-1", "todayfm.com");
+		
+	if (typeof slug === "undefined") {
+		ga("send", "pageview");
+	}
+	else{
+		ga("send", "pageview", slug);
+	}
+	
+	</script>
 <script async="" src="//static.hotjar.com/c/hotjar-8665.js?sv=2"></script></head>
 <body class="blue_gradient gradient">
-	<div style="margin: 0 auto; width: 970px;">
-					<!-- TodayFMBillboard -->
-					<div id="div-gpt-ad-1422361743555-0-billboard">
+	
+				
+				 <!-- /27435881/TDFM_Head -->
+				<div id="leaderboard">
+					<div id="div-gpt-ad-1446562461113-0">
 					<script type="text/javascript">
-					googletag.cmd.push(function() { googletag.display("div-gpt-ad-1422361743555-0-billboard"); });
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1446562461113-0'); });
 					</script>
-					</div></div>	<div class="wrapper">
+					</div>	  
+				</div>
+				
+							   
+						   	
+				
+		
+				<!-- /27435881/TDFM_Out-Of-Page -->
+				<div id="div-gpt-ad-1446562631773-0">
+				<script type="text/javascript">
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-1446562631773-0'); });
+				</script>
+				</div>
+		
+		
+					<div class="wrapper">
 		<div class="wrap">
 		
 			
 	<div class="social_nav">
 		<ul>
 			<li><a class="register_link" href="/mytoday/">REGISTER</a></li>
-			<li><a href="https://twitter.com/todayfmofficial" target="_blank"><span class="twitter"></span>twitter</a></li>
+			<li><a href="https://twitter.com/todayfm" target="_blank"><span class="twitter"></span>twitter</a></li>
 			<li><a href="https://facebook.com/todayfm" target="_blank"><span class="face"></span>facebook</a></li></ul>				
 	</div><!-- /social -->		
 			
@@ -106,11 +199,11 @@ googletag.cmd.push(function() {
 			
 			<span class="on_air_box yellow_bg">on air now</span>
 			<a href="http://www.todayfm.com/player/" target="_blank" class="play_bt" alt="Launch Player" title="Listen Live"></a>		
-			<img width="300" src="/content/005/images/000023/30916_70_pages_05_6309_300x229.jpg" alt="Current Show" title="Louise Duffy">					
+			<img width="300" src="/content/005/images/000026/34969_70_pages_05_18191_300x229.jpg" alt="Current Show" title="Overnight">					
 			<div class="on_air_content black_opacity">
 				
-				<h1>LOUISE DUFFY</h1>
-				<span>14:30 - 16:30</span>
+				<h1>OVERNIGHT</h1>
+				<span>01:00 - 07:00</span>
 			</div><!-- /on_air_content -->
 			
 		</div><!-- /on_air -->
@@ -120,65 +213,58 @@ googletag.cmd.push(function() {
 		<div class="show_item">
 			<div class="show_item_content">
 				<span>00:00 - 01:00</span>
-				<h1>Chill</h1>
+				<h1>Friday Night 90s</h1>
 			</div><!-- /</div> -->
-			<div class="show_item_image box_style"><img src="/content/005/images/000001/1691_70_pages_05_10_128x98.jpg" width="64"></div>
+			<div class="show_item_image box_style"><img src="/content/005/images/000025/33257_70_pages_05_6467_128x98.jpg" width="64"></div>
 		</div><!-- /show_item -->
 		<div class="show_item">
 			<div class="show_item_content">
-				<span>05:00 - 07:00</span>
-				<h1>Early Breakfast</h1>
+				<span>01:00 - 07:00</span>
+				<h1>Overnight</h1>
 			</div><!-- /</div> -->
-			<div class="show_item_image box_style"><img src="/content/005/images/000023/31218_70_pages_05_6303_128x98.jpg" width="64"></div>
+			<div class="show_item_image box_style"><img src="/content/005/images/000026/34969_70_pages_05_18191_128x98.jpg" width="64"></div>
 		</div><!-- /show_item -->
 		<div class="show_item">
 			<div class="show_item_content">
-				<span>07:00 - 09:00</span>
-				<h1>The Ian Dempsey Breakfast Show</h1>
-			</div><!-- /</div> -->
-			<div class="show_item_image box_style"><img src="/content/005/images/000023/30917_70_pages_05_3_128x98.jpg" width="64"></div>
-		</div><!-- /show_item -->
-		<div class="show_item">
-			<div class="show_item_content">
-				<span>09:00 - 12:00</span>
-				<h1>The Anton Savage Show</h1>
-			</div><!-- /</div> -->
-			<div class="show_item_image box_style"><img src="/content/005/images/000023/30920_70_pages_05_13751_128x98.jpg" width="64"></div>
-		</div><!-- /show_item -->
-		<div class="show_item">
-			<div class="show_item_content">
-				<span>12:00 - 14:30</span>
-				<h1>Dermot and Dave</h1>
-			</div><!-- /</div> -->
-			<div class="show_item_image box_style"><img src="/content/005/images/000023/30919_70_pages_05_9627_128x98.jpg" width="64"></div>
-		</div><!-- /show_item -->
-		<div class="show_item">
-			<div class="show_item_content">
-				<span>14:30 - 16:30</span>
-				<h1>Louise Duffy</h1>
-			</div><!-- /</div> -->
-			<div class="show_item_image box_style"><img src="/content/005/images/000023/30916_70_pages_05_6309_128x98.jpg" width="64"></div>
-		</div><!-- /show_item -->
-		<div class="show_item">
-			<div class="show_item_content">
-				<span>16:30 - 19:00</span>
+				<span>07:00 - 08:00</span>
 				<h1>The Last Word with Matt Cooper</h1>
 			</div><!-- /</div> -->
 			<div class="show_item_image box_style"><img src="/content/005/images/000023/30918_70_pages_05_7_128x98.jpg" width="64"></div>
 		</div><!-- /show_item -->
 		<div class="show_item">
 			<div class="show_item_content">
-				<span>19:00 - 21:00</span>
-				<h1>The Mix-Up</h1>
+				<span>08:00 - 11:00</span>
+				<h1>Saturday Breakfast with Alison Curtis</h1>
 			</div><!-- /</div> -->
-			<div class="show_item_image box_style"><img src="/content/005/images/000023/31220_70_pages_05_8_128x98.jpg" width="64"></div>
+			<div class="show_item_image box_style"><img src="/content/005/images/000025/33264_70_pages_05_14_128x98.jpg" width="64"></div>
 		</div><!-- /show_item -->
 		<div class="show_item">
 			<div class="show_item_content">
-				<span>21:00 - 00:00</span>
-				<h1>Paul McLoone</h1>
+				<span>11:00 - 14:00</span>
+				<h1>Phil Cawley</h1>
 			</div><!-- /</div> -->
-			<div class="show_item_image box_style"><img src="/content/005/images/000023/31219_70_pages_05_9_128x98.jpg" width="64"></div>
+			<div class="show_item_image box_style"><img src="/content/005/images/000025/33262_70_pages_05_16_128x98.jpg" width="64"></div>
+		</div><!-- /show_item -->
+		<div class="show_item">
+			<div class="show_item_content">
+				<span>14:00 - 18:00</span>
+				<h1>Premier League Live</h1>
+			</div><!-- /</div> -->
+			<div class="show_item_image box_style"><img src="/content/005/images/000029/38492_70_pages_05_20236_128x98.jpg" width="64"></div>
+		</div><!-- /show_item -->
+		<div class="show_item">
+			<div class="show_item_content">
+				<span>18:00 - 21:00</span>
+				<h1>Saturday Hits</h1>
+			</div><!-- /</div> -->
+			<div class="show_item_image box_style"><img src="/content/005/images/000024/31553_70_pages_05_6469_128x98.jpg" width="64"></div>
+		</div><!-- /show_item -->
+		<div class="show_item">
+			<div class="show_item_content">
+				<span>21:00 - 23:59</span>
+				<h1>The Beat Goes On</h1>
+			</div><!-- /</div> -->
+			<div class="show_item_image box_style"><img src="/content/005/images/000025/33256_70_pages_05_6486_128x98.jpg" width="64"></div>
 		</div><!-- /show_item -->
 		</div><!-- /show -->
 		
@@ -208,7 +294,7 @@ googletag.cmd.push(function() {
 					<a href="/music">music</a></li><li>
 					<a href="/news">news</a></li><li>
 					<a href="/sport">sport</a></li><li>
-					<a href="/blog">blog</a></li><li>
+					<a href="/craic">craic</a></li><li>
 					<a href="/horse">HORSE</a></li><li>
 					<a href="/mytoday/">my</a></li>
 			</ul>
@@ -319,25 +405,52 @@ googletag.cmd.push(function() {
 <p><strong>Contact us</strong></p>
 <p>If you contact us, we may keep a record of that correspondence;</p>
 <p>Any other information provided by you pursuant to your use of the Today FM Application.</p>
-<p>If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us <a href="http://www.todayfm.com/contact-us" target="_blank">here</a>.</p><hr class="ends"></div><!-- /content_box -->				</div><!-- /left -->
+<p>If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us <a href="http://www.todayfm.com/contact-us" target="_blank">here</a>.</p><hr class="ends"><div id="contentclick17854"><script type="text/javascript" src="https://api.contentclick.co.uk/pub_serve.php?pub_id=7084&amp;w_id=17854&amp;pw=24f177d74d2364&amp;cbust=1582553769936" async=""></script></div>
+<script type="text/javascript">
+    (function() {
+        var data =
+        {
+            pub_id: "7084",w_id: "17854",pw: "24f177d74d2364", cbust: (new Date()).getTime()
+        };
+	if (typeof widgetCheck17854 === 'undefined')   {
+        var u="";
+        for(var key in data){u+=key+"="+data[key]+"&"}
+        u=u.substring(0,u.length-1);		
+        var a = document.createElement("script");
+        a.type= 'text/javascript';
+        a.src = "https://api.contentclick.co.uk/pub_serve.php?" + u;
+        a.async = true;		
+        document.getElementById("contentclick17854").appendChild(a);
+	window.widgetCheck17854 = "set";
+	}
+    })();		
+</script>
+	
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- TDFMResponsive -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9696167602134335" data-ad-slot="1243079202" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>		
+			</div><!-- /content_box -->				</div><!-- /left -->
 
 				<div class="right_side">
 				
 					<div id="searchContainer">
 						<form name="search" method="get" action="/search.php">
-		<input onfocus="blank(this)" onblur="unblank(this)" autocomplete="off" class="searchBox" type="text" name="search_term" value="Search...">
+		<input autocomplete="off" class="searchBox" type="text" name="search_term" value="">
 		<input alt="search" type="image" class="searchButton" onmouseover="this.src='/assets/graphics/search_active.png';" onmouseout="this.src='/assets/graphics/search.png';" src="/assets/graphics/search.png" name="submit">
 	</form>					</div><!-- /searchContainer -->
 					
 					<div class="mpu box_style">
 						
-						<!-- TodayFMInternalMPU -->
-						<div class="dfp-ad" id="div-gpt-ad-1422361881403-0-mpu-int-1">
-						<script type="text/javascript">
-						googletag.cmd.push(function() { googletag.display('div-gpt-ad-1422361881403-0-mpu-int-1'); });
-						</script>
-						</div>
-								</div><!-- /mpu -->
+							<!-- /27435881/TDFM_Side_1 -->
+							<div id="div-gpt-ad-1446562553511-0">
+							<script type="text/javascript">
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1446562553511-0'); });
+							</script>
+							</div>
+												</div><!-- /mpu -->
 					
 					
 	<div class="nav_right box_style">
@@ -352,71 +465,64 @@ googletag.cmd.push(function() {
 	 	<li>
 			
 		<div class="tile box_style">
-			<a class="tile_link" href="/r/Ollie-helps-seize-cocaine-at-Shannon-Airport-"></a>
-			<img alt="Today FM image" title="Ollie helps seize cocaine at Shannon Airport " src="/content/005/images/000024/31306_54_pages_05_16067_128x98.jpg" width="104" height="79">
-			<h3>Ollie helps seize cocaine at Shannon Airport</h3>
+			<a class="tile_link" href="/r/Appeal-for-information-over-Hit-and-Run-in-Dublin-"></a>
+			<img alt="Today FM image" title="Appeal for information over Hit and Run in Dublin " src="/content/000/images/000126/129802_54_news_hub_120860_128x98.jpg" width="104" height="79">
+			<h3>Appeal for information over Hit and Run in Dublin</h3>
 		</div><!-- /tile -->
 		<div class="tile box_style">
-			<a class="tile_link" href="/r/Celebrating-10-Years-ofthe-Meteor-Choice-Music-Prize"></a>
-			<img alt="Today FM image" title="Celebrating 10 Years of…the Meteor Choice Music Prize" src="/content/000/images/000090/92615_54_news_hub_88111_128x98.jpg" width="104" height="79">
-			<h3>Celebrating 10 Years of…the Meteor Choice Music Prize</h3>
+			<a class="tile_link" href="/r/Mass-shooting-in-California-being-treated-as-an-act-of-terrorism"></a>
+			<img alt="Today FM image" title="Mass shooting in California being treated as an &amp;#34;act of terrorism&amp;#34;" src="/content/000/images/000132/135871_54_news_hub_125410_128x98.jpg" width="104" height="79">
+			<h3>Mass shooting in California being treated as an "act of...</h3>
 		</div><!-- /tile -->
 		<div class="tile box_style">
-			<a class="tile_link" href="/r/Garda-Ombudsman-to-investigate-Cavan-road-crash"></a>
-			<img alt="Today FM image" title="Garda Ombudsman to investigate Cavan road crash" src="/content/000/images/000035/37377_54_news_hub_31992_128x98.jpg" width="104" height="79">
-			<h3>Garda Ombudsman to investigate Cavan road crash</h3>
+			<a class="tile_link" href="/r/Gardai-renew-appeal-for-information-over-tiger-kidnapping-"></a>
+			<img alt="Today FM image" title="Gardai renew appeal for information over tiger kidnapping " src="/content/000/images/000133/136934_54_news_hub_126633_128x98.jpg" width="104" height="79">
+			<h3>Gardai renew appeal for information over tiger kidnapping</h3>
 		</div><!-- /tile -->
 		<div class="tile box_style">
-			<a class="tile_link" href="/r/Man-dies-in-plane-crash-in-Co-Down"></a>
-			<img alt="Today FM image" title="Man dies in plane crash in Co Down" src="/content/000/images/000089/91896_54_news_hub_87462_128x98.jpg" width="104" height="79">
-			<h3>Man dies in plane crash in Co Down</h3>
+			<a class="tile_link" href="/r/Some-flights-have-been-cancelled-as-Storm-Desmond-hits"></a>
+			<img alt="Today FM image" title="Storm Desmond makes landfall " src="/content/000/images/000129/133378_54_news_hub_123635_128x98.jpg" width="104" height="79">
+			<h3>Storm Desmond makes landfall</h3>
 		</div><!-- /tile -->	
 		</li>
 	 	
 	 	<li>
 			
 		<div class="tile box_style">
-			<a class="tile_link" href="/s/Johnny-McEvoy--Hurling-Cult-Hero-at-68"></a>
-			<img alt="Today FM image" title="Johnny McEvoy - Hurling Cult Hero at 68!" src="/content/000/images/000090/93281_54_news_hub_88653_128x98.jpg" width="104" height="79">
-			<h3>Johnny McEvoy - Hurling Cult Hero at 68!</h3>
+			<a class="tile_link" href="/r/Dogs--Confession-Notes--Adorable"></a>
+			<img alt="Today FM image" title="Dogs + Confession Notes = Adorable" src="/content/005/images/000035/45571_54_pages_05_24363_128x98.jpg" width="104" height="79">
+			<h3>Dogs + Confession Notes = Adorable</h3>
 		</div><!-- /tile -->
 		<div class="tile box_style">
-			<a class="tile_link" href="/s/Nadia-Forde-In-Studio"></a>
-			<img alt="Today FM image" title="Nadia Forde In Studio..." src="/content/005/images/000024/31283_54_pages_05_16054_128x98.JPG" width="104" height="79">
-			<h3>Nadia Forde In Studio...</h3>
+			<a class="tile_link" href="/r/New-rent-controls-passed-into-law"></a>
+			<img alt="Today FM image" title="New rent controls passed into law" src="/content/005/images/000034/45488_54_pages_05_24318_128x98.png" width="104" height="79">
+			<h3>New rent controls passed into law</h3>
 		</div><!-- /tile -->
 		<div class="tile box_style">
-			<a class="tile_link" href="/r/Fatal-Car-Crash-In-Cork-"></a>
-			<img alt="Today FM image" title="Fatal Car Crash In Cork " src="/content/000/images/000089/91926_54_news_hub_87486_128x98.jpg" width="104" height="79">
-			<h3>Fatal Car Crash In Cork</h3>
+			<a class="tile_link" href="/r/Gift4Templestreet"></a>
+			<img alt="Today FM image" title="Gift For Temple Street" src="/content/000/images/000131/135198_54_news_hub_124919_128x98.png" width="104" height="79">
+			<h3>Gift For Temple Street</h3>
 		</div><!-- /tile -->
 		<div class="tile box_style">
-			<a class="tile_link" href="/s/Sinead-OConnor-Singing-At-8:45am-Sounds-Majestic-"></a>
-			<img alt="Today FM image" title="Sinead O&amp;#39;Connor Singing At 8:45am Sounds Majestic! " src="/content/005/images/000023/31175_54_pages_05_15991_128x98.jpg" width="104" height="79">
-			<h3>Sinead O'Connor Singing At 8:45am Sounds Majestic!</h3>
+			<a class="tile_link" href="/r/Today-FMs-Whole-Lotta-Live-Album-"></a>
+			<img alt="Today FM image" title="Today FM&amp;#39;s Whole Lotta Live Album Released This Friday" src="/content/005/images/000034/44237_54_pages_05_23628_128x98.jpg" width="104" height="79">
+			<h3>Today FM's Whole Lotta Live Album Released This Friday</h3>
 		</div><!-- /tile -->
 		</li>
 	</ul>					
 										<div class="mpu2 box_style">
 						
-						<!-- TodayFMInternalHalfPage -->
-						<div class="dfp-ad" id="div-gpt-ad-1422439333109-0-mpu-int-half">
-						<script type="text/javascript">
-						googletag.cmd.push(function() { googletag.display('div-gpt-ad-1422439333109-0-mpu-int-half'); });
-						</script>
-						</div>
-								</div><!-- /mpu -->
+							<!-- /27435881/TDFM_Side_2 -->
+							<div id="div-gpt-ad-1446562591189-0">
+							<script type="text/javascript">
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1446562591189-0'); });
+							</script>
+							</div>
+							
+												</div><!-- /mpu -->
 										
 					
-					<div class="mpu box_style">
-						
-						<!-- TodayFMInternalMPU -->
-						<div class="dfp-ad" id="div-gpt-ad-1422361881403-0-mpu-int-2">
-						<script type="text/javascript">
-						googletag.cmd.push(function() { googletag.display('div-gpt-ad-1422361881403-0-mpu-int-2'); });
-						</script>
-						</div>
-								</div><!-- /mpu -->
+					
 					
 					
 				</div><!-- /right -->
@@ -431,7 +537,7 @@ googletag.cmd.push(function() {
 
 	</div><!-- /wrapper -->
 
-	<script type="text/javascript">var slug='privacy';</script>
+	
 	
 	<div class="footer">
 		<div class="wrap">
@@ -440,39 +546,41 @@ googletag.cmd.push(function() {
 			<p>
 			Copyright © 2015 <strong>TODAY FM</strong>, Radio Ireland Limited T/A Today FM <br>
 			Registered Address: Marconi House, Digges Lane, Dublin 2 <br>
-			Registered Number: 2305277<br></p>
+			Registered Number: 2305277<br><br><a href="/index.php?del_cookie=1" class="white">Mobile Site</a><br><br></p>
 		</div><!-- /footer_copyright -->
 		
 		<div class="footer_right">
 			
-			<a href="http://www.communicorpone.ie">Advertise with us</a><br> <a href="/sponsorshippromotions">Sponsorships &amp; Promos</a> 
+			<a href="http://www.communicorpone.ie/contact/" target="_blank">Advertise with us</a>
+			<br> <a href="http://www.communicorpone.ie/contact/" target="_blank">Sponsorships &amp; Promos</a> 
 		</div><!-- /footer_right -->
 		
 		
 		</div><!-- /wrap -->
-	</div><!-- /footer -->
-					
-	<script type="text/javascript">
-	
-	
-  (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){
+	</div><!-- /footer -->				<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
 
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
 
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+_qevents.push({
+qacct:"p-jN0y3t-S03qsc"
+});
+</script>
 
-  })(window,document,"script","//www.google-analytics.com/analytics.js","ga");
-	
-	ga("create", "UA-3864919-1", "todayfm.com");
-
-	if (typeof slug === "undefined") {
-	   ga("send", "pageview");
-	}
-	else{
-	   ga("send", "pageview", slug);       
-    }	
-	
-	</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-jN0y3t-S03qsc.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
 	<script type="text/javascript">
 	
 	$( document ).ready(function() {
@@ -490,7 +598,7 @@ googletag.cmd.push(function() {
 		    moveSlides: 1,
 		    controls: true,
 		    pager: false,		  
-			startSlide: 5,
+			startSlide: 1,
 			infiniteLoop: false,
 			hideControlOnEnd: true
 		  });
@@ -536,5 +644,22 @@ googletag.cmd.push(function() {
 
 	    </script>
     
+    
+    <script type="text/javascript">
+  var _sf_async_config = { uid: 60992, domain: 'todayfm.com', useCanonical: true };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
+      document.body.appendChild(e);
+    };
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
 
-</body></html>
+<script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
