@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fubles.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511163756id_/https%3A//www.fubles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fubles.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205201040id_/http%3A//www.fubles.com/privacy) for the most accurate reproduction.*
 
 # Fubles.com - Take the field!
 
@@ -188,45 +188,6 @@ Personal Data collected: Various types of Data.
   * ### Further information on public profiles
 
 In addition to the information already mentioned, Fubles publishes on Users' profile the link of their Facebook profile, if Facebook is connected with the User account. 
-
-
-
-
-## Information about Cookies
-
-  * ### Strictly required Cookies
-
-These Cookies are required for the Application to work properly and are used to store sessions and preferences. 
-
-#### _locale
-
-Used to store preferences on the Application.
-
-#### FUBLESSESSID
-
-Used to store the User session and keep the User logged in.
-
-  * ### Analytics Cookies
-
-These Cookies are required for the Analytics services, described in the respective section, to work. 
-
-#### _ut*
-
-Google Analytics Cookies.
-
-  * ### Other Cookies
-
-#### _gads
-
-Google AdWords Cookie.
-
-#### fbm_*, fbsr_*
-
-Facebook Cookie.
-
-#### uvts, uvf
-
-Uservoice Widget Cookie.
 
 
 
