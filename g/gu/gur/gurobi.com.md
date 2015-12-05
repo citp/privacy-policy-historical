@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gurobi.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022113id_/http%3A//www.gurobi.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurobi.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205181410id_/http%3A//www.gurobi.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -98,8 +98,6 @@ Gurobi Optimization will only use your information for marketing or sales purpos
 
 * * *
 
-## 7\. Will Gurobi Optimization share my personal information with anyone else?
-
 We will keep your information confidential except where disclosure is required or permitted by law (for example to government bodies and law enforcement agencies). Generally, we will only use your information within Gurobi Optimization or within sales and support offices of subsidiaries or exclusive distributors located near you, such as Gurobi GmbH in Europe, Gurobi Korea, or October Sky in Japan. However, sometimes Gurobi Optimization uses third parties to process your information on our behalf. Gurobi Optimization requires these third parties keep the information confidential and secure, and that they do not use your personal information for their own business purposes, unless you have explicitly consented to the use of your personal information in this way.
 
 * * *
@@ -157,8 +155,6 @@ Gurobi Optimization, Inc., Gurobi, and the Gurobi logo and design are registered
 This Privacy Policy may be updated from time to time so you may wish to check it each time you submit personal information to Gurobi Optimization. The date of the most recent revisions will appear on this page. If you do not agree to these changes, please do not continue to use Gurobi Optimization website or submit personal information to Gurobi Optimization.
 
 * * *
-
-## 14\. Contacting Gurobi Optimization about this Privacy Policy
 
 If you any questions or comments about this Privacy Policy please contact:
 
