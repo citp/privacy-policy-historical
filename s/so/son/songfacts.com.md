@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the songfacts.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627200443id_/http%3A//www.songfacts.com/blog/pages/songfacts_privacy_policy_and_legal_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songfacts.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205070609id_/http%3A//www.songfacts.com/blog/pages/songfacts_privacy_policy_and_legal_notice) for the most accurate reproduction.*
 
 # Songfacts Privacy Policy and Legal Notice : Songfacts Pages
 
@@ -68,6 +68,10 @@ Personal Information collected by our Website is stored in secure operating envi
 **What Happens When I Link To or From Another Web Site?**
 
 This Website may contain links to other websites operated by affiliates of Songfacts or third parties. Please be advised that the practices described in this Privacy Policy do not apply to information gathered through these other websites. These other sites may also send their own cookies to you, collect your data or solicit your Personal Information. Always be aware of where you end up. We are not responsible for the actions and privacy policies of third parties and other Websites. We encourage you to be aware of when you leave this Website and read the privacy policies of each and every Website that you visit.
+
+**Google Analytics**
+
+To get anonymous demographic data so we can better understand the interests of our audience, we have implemented the Google analytics demographics and interest reporting features. This allows us to review anonymous data about age, gender and interests of visitors. This information is collected through your Google ad settings, and not in a format that is personally-identifiable by us. This means we cannot identify what information is about you, and we will make no effort to find out. You can [opt-out](https://tools.google.com/dlpage/gaoptout/) of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings. In addition, you can use the [Google Analytics Opt-Out Browser Add-on](https://tools.google.com/dlpage/gaoptout/) to disable tracking by Google Analytics.
 
 **Public Areas, Message Boards**
 
