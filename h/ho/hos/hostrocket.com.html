@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hostrocket.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607015538id_/http%3A//www.hostrocket.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hostrocket.com privacy policy that was archived on 2015-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151205175205id_/http%3A//www.hostrocket.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -43,7 +43,13 @@ $(document).ready(function () {
     
 	$('#slider-price-box').tooltip({});
     		
-		
+	 $('.launch-live-chat').click(function(e){
+        e.preventDefault();
+        $zopim(function() {
+            $zopim.livechat.window.show();
+        }); 
+        return false;
+    });  	
 });
 </script>
 
@@ -193,7 +199,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </li></ul>
                  </div>
                  <div class="grid-2">
-                    <a href="http://support.hostrocket.com/contact.php" id="need-help">Need Help? <span>1.866.519.7079</span></a>
+                    <a href="support.html" id="need-help">Need Help? <span>1.866.519.7079</span></a>
                     <div id="legal"><a href="http://tos.hostrocket.com/">Terms</a> | <a href="privacy_policy.html">Privacy</a> | <a href="sitemap.html">Sitemap</a></div>
                  </div>
             </div>
