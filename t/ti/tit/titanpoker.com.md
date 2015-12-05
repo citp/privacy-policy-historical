@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titanpoker.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506125927id_/http%3A//www.titanpoker.com/about-us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titanpoker.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205211658id_/http%3A//www.titanpoker.com/about-us/privacy.html) for the most accurate reproduction.*
 
 # Information about the Privacy Policy of Titan Poker
 
@@ -54,7 +54,7 @@ We process your personal information for the purposes of:
   * (g) our general regulatory compliance, crime prevention and prosecution of offenders including, where appropriate, dealing with requests for information by authorised entities for the sharing of information;
   * (h) carrying out market research campaigns;
   * (i) providing you with information about and support for products and services;
-  * (j) marketing our services or products or those of other entities within our group of companies; and
+  * (j) offer additional or similar products, services or promotions relevant to you; and
   * (k) supporting any of the intended purposes specifically stated at the time at which you provided the personal information.
 
 
