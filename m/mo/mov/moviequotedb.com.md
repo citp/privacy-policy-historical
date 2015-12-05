@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviequotedb.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610005840id_/http%3A//www.moviequotedb.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviequotedb.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205192619id_/http%3A//www.moviequotedb.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy ... Movie Quotes Database
 
