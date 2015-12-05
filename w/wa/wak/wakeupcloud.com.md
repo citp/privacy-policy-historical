@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wakeupcloud.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607050741id_/http%3A//www.wakeupcloud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakeupcloud.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205125234id_/http%3A//www.wakeupcloud.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
