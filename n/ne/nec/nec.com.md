@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the nec.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513210733id_/http%3A//www.nec.com/en/global/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nec.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205025840id_/http%3A//www.nec.com/en/global/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | NEC
 
-Updated: September 25, 2012
+Updated: December 4, 2015
 
 ## About our privacy practices
 
 **NEC Privacy Policy**
 
 By offering various Internet-related products, services, and solutions, NEC Corporation ("NEC") contributes to society as a global leading company which realizes an "information society friendly to humans and the earth" through innovation.  
-In working toward the realization of such a society, NEC recognizes that the protection of personal information is its social responsibility, and has established a policy for the protection of personal information. Efforts are constantly being made to implement and maintain the policy. This privacy policy sets forth our principles as follows (note that the original is in Japanese): 
+In working toward the realization of such a society, NEC recognizes that the protection of personal information, including social security and tax number ("Personal Information") is its social responsibility, and has established a policy for the protection of Personal Information. Efforts are constantly being made to implement and maintain the policy. This privacy policy sets forth our principles as follows (note that the original is in Japanese): 
 
-  1. NEC obtains, uses and provides personal information properly based on Japanese Industrial Standard's "Personal Information Protection Management Systems - Requirements (JISQ 15001:2006)". NEC assigns a person in charge of protecting personal information at each of its relevant divisions, taking account of its organizational structure. Among other things, NEC takes appropriate measures not to handle personal information other than for the specified purposes.
-  2. NEC abides by the laws, regulations and guidelines of Japan pertaining to the protection of personal information.
-  3. NEC makes efforts to implement, through the adoption of necessary and appropriate security measures, the security control of personal information handled by NEC, including protection from disclosure, loss or damage.
-  4. NEC appropriately responds to complaints and requests for consultation with respect to NEC's handling of personal information and its personal information protection management system. Please contact the designated person or place for inquiries.
-  5. NEC makes efforts to continuously improve its personal information protection management system, including this policy.
+  1. NEC obtains uses and provides Personal Information properly based on Japanese Industrial Standard's "Personal Information Protection Management Systems - Requirements (JISQ 15001:2006)". NEC assigns a person in charge of protecting Personal Information at each of its relevant divisions, taking account of its organizational structure. Among other things, NEC takes appropriate measures not to handle Personal Information other than for the specified purposes.
+  2. NEC abides by the laws, regulations and guidelines of Japan pertaining to the protection of Personal Information.
+  3. NEC makes efforts to implement, through the adoption of necessary and appropriate security measures, the security control of Personal Information handled by NEC, including protection from disclosure, loss or damage.
+  4. NEC appropriately responds to complaints and requests for consultation with respect to NEC's handling of Personal Information and its Personal Information protection management system. Please contact the designated person or place for inquiries.
+  5. NEC makes efforts to continuously improve its Personal Information protection management system, including this policy.
 
 
 
@@ -30,19 +30,19 @@ On NEC's sites, there are some Website links that direct the user to NEC Group c
 
 When switching to those sites, users leave NEC's sites.
 
-Some Websites linked to NEC may have an NEC mark (logo). However, NEC is not responsible for the contents of these sites, or for the protection of the said user's personal information on any Websites linked to NEC's Websites.
+Some Websites linked to NEC may have an NEC mark (logo). However, NEC is not responsible for the contents of these sites, or for the protection of the said user's Personal Information on any Websites linked to NEC's Websites.
 
-Those Websites may issue cookies, collect data, or gather personal information according to their own privacy policies. NEC's privacy policy does not apply to Websites linked to NEC's Websites. Therefore, NEC recommends that visitors to Websites linked to NEC's Websites read their privacy policies before providing personal information.
+Those Websites may issue cookies, collect data, or gather Personal Information according to their own privacy policies. NEC's privacy policy does not apply to Websites linked to NEC's Websites. Therefore, NEC recommends that visitors to Websites linked to NEC's Websites read their privacy policies before providing Personal Information.
 
 ## Notice for those under 16 years of age
 
-If you are under the age of 16, please make sure that you provide us with your personal information only after obtaining parental consent.
+If you are under the age of 16, please make sure that you provide us with your Personal Information only after obtaining parental consent.
 
-## Inquiry contact regarding personal information/contact for complaints
+## Inquiry contact regarding Personal Information/contact for complaints
 
-For personal information handling, please get in touch with the contacts described at the time of registration.
+For Personal Information handling, please get in touch with the contacts described at the time of registration.
 
-If you do not know whom to contact, please get in touch with [the inquiry contact regarding personal information](https://contact.nec.com/cgi-bin/contact/select_qc.cgi). NEC will respond after confirming the details.
+If you do not know whom to contact, please get in touch with [the inquiry contact regarding Personal Information](https://contact.nec.com/cgi-bin/contact/select_qc.cgi). NEC will respond after confirming the details.
 
 ## Notice regarding this website
 
@@ -50,7 +50,7 @@ If you do not know whom to contact, please get in touch with [the inquiry contac
 
 On NEC's Websites, there are pages where a technology called "cookies" is used so that visitors may use the site more conveniently when they return to it.
 
-"Cookies" is an industry standard technology by which a Web server identifies the computer of the visitor. While a cookie enables a Web server to identify the computer of a visitor, it cannot identify the visitor unless they input their personal information. Depending on the browser used, a visitor may change the settings to turn off the cookies. However, if the visitor does so, all or part of the services on the site may become unavailable.
+"Cookies" is an industry standard technology by which a Web server identifies the computer of the visitor. While a cookie enables a Web server to identify the computer of a visitor, it cannot identify the visitor unless they input their Personal Information. Depending on the browser used, a visitor may change the settings to turn off the cookies. However, if the visitor does so, all or part of the services on the site may become unavailable.
 
 ### Web beacons
 
@@ -71,9 +71,9 @@ Web beacons usually work in conjunction with cookies. These beacons may be place
 
 ## About privacy mark
 
-NEC Corporation is certified by the Japan Information Processing Development Center (JIPDEC) for granting the Privacy Mark to be granted to enterprisers which conduct proper handling of the personal information.
+NEC Corporation is certified by the Japan Information Processing Development Center (JIPDEC) for granting the Privacy Mark to be granted to enterprisers which conduct proper handling of the Personal Information.
 
-For more details of the Privacy Mark, please visit the Privacy Mark page of JIPDEC website by clicking the follwoing image.
+For more details of the Privacy Mark, please visit the Privacy Mark page of JIPDEC website by clicking the following image.
 
 [](http://privacymark.org/)
 
