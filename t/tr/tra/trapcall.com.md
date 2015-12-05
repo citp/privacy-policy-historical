@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trapcall.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607033811id_/http%3A//www.trapcall.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trapcall.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205141204id_/http%3A//www.trapcall.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TrapCall
 
@@ -48,6 +48,10 @@ Trapcall.com does not sell products for purchase by children. We sell products f
 TrapCall is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information You provide on computer systems with limited access, which are located in controlled facilities. When we transmit highly confidential information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
 
 When you register for TrapCall we ask for information such as your name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card. 
+
+### NOTICE OF CHANGE:
+
+From July 30th, 2015 forward, TrapCall will be cooperating with a third party team trying to identify and eliminate unwanted and potentially illegal robocalls. If this Research & Development (R&D) test is successful, we may in the future offer this service to our subscribers. During the test period, TrapCall will continue to send calls that you reject to your TrapCall voicemail. At the same time, the software installed on our server will be automatically analyzing voicemails to determine whether it is a human or robocall. The service relies on the analysis of the first few seconds of each voicemail to determine whether it is a human or robocall. Recordings of voicemails that are identified as robocalls will be used by the third party team to refine its algorithms and during part of the test period will be forwarded to another third party as part of the R&D effort. In the case of any voicemail that we determine to be left by a robocaller, just the audio recording and the caller ID of the robocaller will be shared with the third party for purposes of R&D. No other personally identifiable information will be shared. IF YOU USE TRAPCALL AFTER JULY 30TH YOU AGREE TO THIS CHANGE TO OUR PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS CHANGE TO OUR PRIVACY POLICY, EMAIL US PRIOR TO JULY 30TH AT [SUPPPORT@TRAPCALL.COM](https://web.archive.org/web/20151205141204id_/http%3A//www.trapcall.com/SUPPPORT@TRAPCALL.COM) AND WE WILL MAKE SURE YOUR ACCOUNT IS NOT EFFECTED. 
 
 ### Conclusion
 
