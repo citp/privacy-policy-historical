@@ -1,124 +1,100 @@
-> *The following text is extracted and transformed from the act.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121002626id_/http%3A//na.sage.com/Sage-NA/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the act.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206002657id_/http%3A//swiftpage.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Swiftpage | Privacy Policy
 
-Sage is committed to the security and privacy of our customer’s data. This Privacy Policy explains our commitment to safeguarding our customers’ data and serves as our agreement with our customers and other parties about our data handling practices. This policy lists the types of data we collect, explains how we use and protect that data, and discloses our key procedures surrounding privacy.
+Swiftpage is dedicated to the privacy and rights of our customers. The privacy of our customers and affiliates is important to us. Therefore:
 
-Sage is part of a group of affiliated companies collectively referred to as the "Sage Companies" with each such affiliated company being directly or indirectly wholly owned by The Sage Group plc (The Sage Group).  This Privacy Policy applies only to Sage in North America.  All other Sage Companies are governed by their own respective policies.
-
-This privacy policy is a binding agreement between you and Sage. By accessing any of our product or company websites (the “Sites”), you signify that you agree with the terms of this Privacy Policy. We may change this Privacy Policy from time to time by posting a new version here, and the new version will become effective immediately. 
-
-The privacy of our customers and affiliates is important to us. Therefore:
-
-  * We do not sell or rent personally identifiable information 
-  * We do not spam, and our policies forbid use of our Services for spam
+  * We do not sell or rent personally identifiable information
+  * We do not spam, and our policies forbid use of our Services for spam. You may also want to read our [Anti-Spam Policy](http://swiftpage.com/anti-spam-policy).
 
 
 
-The following sections make up our Privacy Policy. For immediate access to specific details, click on the applicable heading.
+This policy describes the types of information we may collect from you or that you may provide when you visit any Swiftpage company websites (“Websites”), including but not limited to [www.swiftpage.com](http://www.swiftpage.com/), [act.com](http://act.com/), [saleslogix.com](http://saleslogix.com/), [swiftpageconnect.com](http://swiftpageconnect.com/), or use any Swiftpage products or applications, and our practices for collecting, using, maintaining, protecting and disclosing that information. Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Websites. By accessing or using our products or company websites, you agree to this privacy policy. This policy may change from time to time. Your continued use of the Websites after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
-  * Public Forums
-  * Statement Regarding Children
-  * Job Seekers
-  * Business Information Collection and Use By Sage
-  * Disclosure of Your Business Information
-  * How Sage Protects Your Privacy Internally
-  * Your Privacy Choices
-  * Correcting or Updating Your Business Information and Contacting Sage
-  * Linked Sites
-  * Consent to Transfer
-  * Changes to this Privacy Policy
+This policy applies to information we collect:
+
+  * On the Websites.
+  * In e-mail, text and other electronic messages between you and the Websites.
+  * Through mobile and desktop applications you download from the Websites.
+  * When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.
 
 
 
-#### **  
-Public Forums**
+It does not apply to information collected by any third party, including through any application or content (including advertising) that may link to or be accessible from or on the Websites.
 
-Please remember that any information (including personal and business information) that you submit, post or otherwise reveal in a public forum (such as a bulletin board, chat room, blog or product discussion forum) is not subject to this Privacy Policy, will be seen by third parties not related to us and may be used by them or us to contact you for any purpose.
+**Information You Provide to Us.**
 
-#### **  
-Statement Regarding Children**
+The information we collect on or through the Websites may include:
 
-Sage's products and services are not designed to appeal to children under the age of 13. As such, the Sites are not directed at children under the age of 13 nor do we knowingly collect or maintain information from children under the age of 13 on the Sites.
-
-#### **  
-Job Seekers**  
-
-We will use the personal information you submit in our online job application to fill the specific position you apply for. After this position is filled, we will retain the information submitted for the time required by applicable law or in accordance with our standard practice, whichever is longer.
-
-We will not release information submitted in online job applications to third parties except to appropriate governmental entities and/or our service providers as necessary in connection with recruiting, employment, corporate governance, acquisitions, and legal or regulatory requirements. We require that our service providers keep your personal information confidential as well. In addition, to prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate procedures to safeguard the information we collect online. You may submit requests or concerns about this policy or use of your personal information by email to [RecruitingNA@sage.com](mailto:RecruitingNA@sage.com).
-
-#### **  
-Business Information Collection and Use By Sage**
-
-We collect the Business Information necessary to enable us to respond to your requests for our products and services and to send you information regarding our products and services from time to time. Since most of the users of our products and Sites are doing so in their capacity as employees or companies, most Business Information we collect will be in that capacity (rather than information about you individually, such as your personal tastes, etc.). For these purposes, we have defined "Business Information" as any information that identifies or may identify a company or an individual contact at a company or that allows others to contact a company or an individual contact at a company. When you visit the Sites, you may be asked to submit information such as email address, company name, address, phone number, your product version, and/or areas of interest. We may also ask you where you heard about our company or products, or for other information that will help us understand more about your needs or help us process your requests for information. In addition, we collect credit card and related payment information when you order products, services, or support plans online. Our information collection and use practices are described in more detail below:
-
-  * **Product Registration.** You may be asked, on behalf of your company, to complete registration/activation form(s) on the Sites or from within the products, with contact information for use by us in accordance with this policy. Registration or activation information may include the name of your company, contact information, product information, customer ID, network and operating system, and other relevant information. 
-  * **Customer Profile.** We also collect Business Information when you create a customer profile or Passport account on some of the Sites, which is required in order to access certain areas of the Sites, purchase support plans and products, to obtain software downloads and certain online support services, and to request information from us about our products and services. This information includes company name and contact information and other information about your company (for example, size, revenue, and number of employees), the products you may have licensed, and other non-Sage products you may currently use. We use this information in accordance with this policy to identify you, process your requests, and administer your Sage account(s).
-  * **Support.** We offer certain limited online support services at the Sites. If you access online support on any of the Sites, you may be asked for information such as customer ID, product name, product version, and other information to help us determine what the technical issues are and how best to help you resolve them. In addition, certain products allow you to submit support-related questions directly from the product. If you access online support services from a product, information about your network, operating system, printer, data and program path, product type, version, customer ID, the product's technical support information sheet, product serial number, and other similar information will be automatically pre-populated for submission to our customer support representatives to assist them in answering your questions. 
-  * **Newsletters.** When you subscribe or sign up to receive newsletters published or offered via the Sites, we will ask you for information necessary to enable us to process your request and to send you information regarding our products and services. 
-  * **Cookies.** We also use Cookies to enhance the user experience, deliver personalized content, and collect information about the use of the Sites. "Cookies" are small computer files that we transfer to your computer's hard drive. Cookies allow us to statistically monitor how many people are using the Sites and for what purposes, how often someone visits the Sites, and the length of their stay. This information helps us dynamically generate advertising and information specifically designed for your interests. We also use Cookies to prevent you from having to re-enter your identification and password information each time you visit our Sites. Cookies are not designed to retrieve personal or business data from your hard drive, your email, or any other personal information. Most browsers are initially set to accept Cookies, but users can change the setting to refuse Cookies or to be alerted when Cookies are being sent. Although refusal of Cookies will not interfere with the ability to interact with most of the Sites, you will need to accept Cookies in order to access information and use certain functions. For example, Cookies are required to be accepted for access to our web-based services or desktop products with online features. The Cookies are renewed each time a user logs on to one of the Sites that uses Cookies. 
-
-Although the majority of the online advertisements on the Sites are displayed by Sage, we also from time to time allow third-party vendors, such as Google, to display advertisements on the Sites. These third-party vendors may assign a different cookie to you. These cookies may be used to select which ads you see on the Sites and determine the effectiveness of this advertising. You may choose to decline cookies from third-party ad servers, which we do not control. If you would like to opt out from receiving these third-party targeted advertisements, you can [read the instructions](http://www.networkadvertising.org/managing/opt_out.asp). 
-
-  * **Product-Related Information Collection.** We collect certain additional information in connection with your use of our services or desktop products with online features. For instance: 
-  * **Product Updates.** Some products provide you with the ability to download and register product and/or tax updates as they become available. During the download and registration process, we collect Business Information, including customer ID number and product version, type, and serial number, in order to authorize your access and provide you with the appropriate update, and to update our records as to the product and products updates you have downloaded or installed. 
-  * **Account Set-Up and Access.** Upon subscribing to our services, we collect Business Information which may include information such as product serial number, customer ID, and your customer profile information, in order to identify you and authorize your access and use of the services and provide you with your relevant account information. Certain products provide you with the ability to access your account in order to obtain information such as your support plan status, service subscriptions, registrations, and order history.  
-  * **Online Product/Account Application.** Certain products and services are subject to an application and enrollment process, which may be completed on paper or online. Information requested may include federal ID numbers, bank account, payroll, credit card, and contact information. This information is used to process your enrollment request and, if approved, to set up and administer your account. 
-  * **Web-based Services.** In connection with certain of our web-based services we collect certain additional information, including IP address, browser, connection speed, domain, referring URL, and other environment-related information to enable us to provide a secure environment for the use of the services, to pre-populate forms, and calculate aggregate statistical information about the customers using these services. 
-  * **Sage Products & Services.** In addition to the uses set forth above, we may use your Business Information to: 1) inform you of product upgrades and updates and subscription renewals; 2) inform you of tax, regulatory, and other compliance issues with your software product or service; 3) notify you of products and services that we think may be of interest to you; 4) offer you discounts or other promotions with respect to Sage products and services that we think may interest you; and 5) contact you for survey purposes to determine how we can better service you or provide better products to meet your needs.  
-  * **Other Sage Company Products & Services.** Your Business Information may be provided to one or more other Sage Companies to enable them to market products and services to you. In that case, the use of your Business Information would be governed by that Sage Company's privacy policy.  
-  * **Third-Party Products.** We may also use your Business Information to inform you of special discounts or offers from other companies we have carefully selected and whose products and services may be of interest to you.
+  * Information that you provide by filling in forms on our Websites. This includes information provided at the time of subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Website.
+  * Records and copies of your correspondence (including e-mail addresses), if you contact us.
+  * Your responses to surveys that we might ask you to complete for research purposes.
+  * Details of transactions you carry out through our Websites and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Websites.
+  * Information about your internet connection, the equipment you use to access our Websites and/or applications, and usage details.
 
 
 
-#### **Disclosure of Your Business Information**
+**How we use your information.**
 
-From time to time, we may be required to release Business Information: 1) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena, or court order; 2) to enforce or apply the terms of any of our service or license agreements; or 3) in special cases, such as protecting the rights, property, or safety of Sage, our customers, or others. We may also provide Business Information to government agencies and to our vendors, suppliers, authorized resellers, and other business, development, and industry partners ("Partners") to enable them to: 1) provide us with products and services to better operate and maintain the Sites; 2) provide you with a product or service requested by you; or 3) enable them to market products or services to you. We also may provide information about you that does not allow you to be identified to, or contacted by, third parties ("Aggregate Information"). For example, we might inform third parties regarding the number of users of the Sites and the activities they conduct while on the Sites. Depending on the circumstances, we may or may not charge for this Aggregate Information. We may also use this Aggregate Information as part of products or services that we provide to third parties and to improve our products, services, and the Sites.
+We use information that we collect about you or that you provide to us:
 
-  * **Partner and Government Services.**  We may engage Partners to perform functions on our behalf, which may include assisting us in processing your Business Information. Certain Partners and government agencies may collect Business Information (such as business name, address, email address, credit card information, and customer ID) directly from you and use of that information and other information provided by you to third parties is not governed by this policy even though those Partners and government agencies may share such information with us. 
-  * **Services and Product Data.** Business Information collected by us as set forth above does not include your company's data entered in the course of operating our products ("Product Data") or data provided by you while using our services ("Services Data"). We will not access your Product Data or Services Data except in the following limited circumstances: (1) to provide you with technical support, solely at your request and with your permission; (2) on a limited-access basis to install updates, produce regular backups, or restore data from backups at your request; (3) where the inherent purpose of the product or service requires us to provide the Product Data or Services Data to a third party on your behalf (for example where we makes tax filings on your behalf or initiate bank transfers on your behalf) and, (4) unless you opt-out, to utilize Aggregate Information derived from Product Data and Services Data to help us improve our products and services and in developing additional offerings. We will not provide your Product Data or Services Data to any third party or permit any third party to access your Product Data or Services Data, except by your permission or to comply with valid legal requirements such as a law, regulation, search warrant, subpoena, or court order. In addition, if at any time you decide to discontinue your use of the applicable service, your Services Data will be destroyed and removed from all servers according to terms set forth in your Service Agreement. 
-  * **Business Transfers.** In the event that all or a portion of Sage or any other Sage Company (or the assets of one of those entities), is bought or sold, Business Information will likely be included among the transferred business assets, but such information remains subject to this Privacy Policy or a Privacy Policy substantially similar to this privacy Policy.
-
-
-
-#### **  
-How Sage Protects Your Privacy Internally**
-
-We want your Business Information to remain as secure as reasonably possible. We combine industry-standard technical safeguards with a code of conduct for those employees who are permitted to access our customers' Business Information. When you purchase a product or service online, we use SSL encryption to encrypt your credit card information before it is sent to us in order to ensure the integrity and privacy of the credit card information that you provide to us via the Internet.
-
-Many of our web-based services are hosted on servers that are co-located at a third-party facility with whom we have a contract providing for security measures. For example, hosted Services Data is submitted via SSL encryption and stored on a server equipped with industry standard firewalls.
-
-Hosted data may include personally identifiable information and other information that belongs to our customers' own customers, website visitors, or other users. We will not review, share, distribute, or reference any such Customer Data except as provided in the service or license agreement, or as may be required by law. Individual records of Customer Data may be viewed or accessed by authorized Sage employees, agents or independent contractors only for the purpose of resolving a problem, support issues, or suspected violation of the service or license agreement, or as may be required by law. Sage policy requires that both employees and consultants execute a confidentiality agreement before working for and with Sage. Those employees that violate our Privacy Policy are subject to disciplinary action, up to and including termination.
-
-Despite these security measures, we do not represent or warrant that Business Information will be protected against loss, misuse, attacks, or alteration by third parties. Customers are responsible for maintaining the security and confidentiality of their usernames and passwords.
-
-#### **Your Privacy Choices**
-
-Occasionally, a Sage business unit may send you communications to provide you with information or promotions relating to products and services that may be of interest to you, including notification of important product issues and updates. You may opt out of receiving these communications as indicated below. However, please note that any election not to receive future communications applies only to promotional messages of the particular Sage business unit and you may receive promotional messages from other Sage business units until you make an opt out request with that business unit as indicated below. Additionally, we may still send you relationship or transactional messages in order to notify you of important product issues and updates, such as tax and other compliance-related matters, for the renewal of existing subscription services, to resolve specific questions or requests made by you via phone, fax, email, or the Web and in response to any activity completed on any of the Sites, including but not limited to, registration, ordering, downloads, and requests for information.
-
-  * **Sage Email Promotions.** Each email we send will contain instructions on how to unsubscribe in the event that you do not wish to receive future promotional emails from the Sage business unit that sent you the email promotion. If you choose to opt out of receiving promotional email communications from any Sage business unit, we may still periodically communicate with you via mail and telephone. Please allow 10 business days to be removed from the promotional email list of a Sage business unit. 
-  * **Third-Party Email Promotions.** If you access and/or use any of the other Sage Companies' services or our Partner's services from a link on the Sites, a Sage/Partner co-branded site or by any other means, any information you reveal in connection with such service is submitted to that other Sage Company or to our Partner and is not subject to this Privacy Policy. You should consult the privacy policy of any other Sage Company, Partner, or third-party site with respect to its treatment of any information that you may reveal in connection with such service.
+  * To present our Websites and its contents to you.
+  * To provide you with information, products or services that you request from us.
+  * To fulfill any other purpose for which you provide it.
+  * To provide you with notices about your account, including expiration and renewal notices.
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+  * To notify you about changes to our Websites or any products or services we offer or provide though it.
+  * For customer support purposes.
+  * In special cases, such as protecting the rights, property, or safety of Swiftpage, our customers, or others.
+  * In any other way we may describe when you provide the information.
+  * For any other purpose with your consent.
 
 
 
-#### **Correcting or Updating Your Business Information and Contacting Sage**
+**Disclosure to Third Parties.** We may also provide information to our vendors, suppliers, authorized resellers, and other business, development, and industry partners ("Partners") to enable them to provide you with Swiftpage products or services.
 
-You can always update the Business Information that you have provided to us and/or change your preferences with respect to marketing contacts from us by contacting the Sage business unit to which you provided your preferences. Please note that it may take up to 4 weeks to be removed from the Sage business unit’s mail lists and 10 days to be removed from email and phone lists.
+**Aggregate Information.** We also may provide information about you that does not allow you to be identified to, or contacted by, third parties ("Aggregate Information"). For example, we might inform third parties regarding the number of users of the Sites and the activities they conduct while on the Sites. Depending on the circumstances, we may or may not charge for this Aggregate Information. We may also use this Aggregate Information as part of products or services that we provide to third parties and to improve our products, services, and the Sites.
 
-#### **Linked Sites**
+**Services and product data.** Information collected by us as set forth above does not include your company's data entered in the course of operating our products ("Product Data") or data provided by you while using our services ("Services Data"). We will not access your Product Data or Services Data except in the following limited circumstances: (1) to provide you with technical support, solely at your request and with your permission; (2) on a limited-access basis to install updates, produce regular backups, or restore data from backups at your request; (3) where the inherent purpose of the product or service requires us to provide the Product Data or Services Data to a third party on your behalf (for example where we makes tax filings on your behalf or initiate bank transfers on your behalf) and, (4) unless you opt-out, to utilize Aggregate Information derived from Product Data and Services Data to help us improve our products and services and in developing additional offerings. We will not provide your Product Data or Services Data to any third party or permit any third party to access your Product Data or Services Data, except by your permission or to comply with valid legal requirements such as a law, regulation, search warrant, subpoena, or court order. In addition, if at any time you decide to discontinue your use of the applicable service, your Services Data will be destroyed and removed from all servers according to terms set forth in your Service Agreement.
 
-The Sites may contain links to third-party websites and resources (collectively, "Linked Sites"). These Linked Sites are provided solely as a convenience to you and not as an endorsement by us of the content on such Linked Sites. We make no representations or warranties regarding the correctness, accuracy, performance, or quality of any content, software, service, or application found at any Linked Site. We are not responsible for the availability of the Linked Sites or the content or activities of such sites. If you decide to access any Linked Site, you do so at your own risk. Your use of any Linked Site is subject to the policies, terms of use, and privacy policies of such Linked Site, if any.
+**Business transfers.** In the event that all or a portion of Swiftpage (or the assets of one of those entities), is bought or sold, your information will likely be included among the transferred business assets, but such information remains subject to this Privacy Policy or a Privacy Policy substantially similar to this privacy Policy.
 
-#### **Consent to Transfer**
+**U.S. Servers.** All data collected outside of the United States may be transferred and processed on servers located in the United States. Your submission of information to us constitutes your consent to this transfer. Although we will collect and use your Information only as stated in this Privacy Policy, laws generally applicable to the protection of personal data in the United States may not be as stringent as those in some users' home jurisdictions.
 
-Users located outside the United States who submit Business Information to us via the Sites should be aware that the information they submit will be transferred to our servers located in the United States. Your submission of Business Information to us constitutes your consent to this transfer. Although we will collect and use your Business Information only as stated in this Privacy Policy, laws generally applicable to the protection of personal data in the United States may not be as stringent as those in some users' home jurisdictions.
+**Children Under 13.** Swiftpage does not intentionally collect information from anyone under the age of 13.
 
-#### **Changes to this Privacy Policy**
+**Public Areas.** You also may provide information to be published or displayed (hereinafter, "posted") on public areas of the Websites, or transmitted to other users of the Website or third parties (collectively, "User Contributions"). Your User Contributions are posted on and transmitted to others at your own risk. Although we limit access to certain pages/you may set certain privacy settings for such information by logging into your account profile, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
 
-We may change this Privacy Policy at any time by posting the then current policy to the Sites. Your use of the Sites constitutes acceptance of the provisions of this Privacy Policy and your continued usage after such changes are posted constitutes acceptance of each revised Privacy Policy.
+**Your privacy choices**
 
-**Contacting Us**   
-Questions regarding this Privacy Policy or the information practices of the Company’s website should be directed to [privacy.na@sage.com](mailto:privacy.na@sage.com).
+**Email and Opt-Out.** Occasionally, Swiftpage may send you communications to provide you with information or promotions relating to products and services that may be of interest to you, including notification of important product issues and updates. You may opt out of receiving these communications as indicated below. Additionally, we may still send you relationship or transactional messages in order to notify you of important product issues and updates, such as for the renewal of existing subscription services, to resolve specific questions or requests made by you via phone, fax, email, or the Web and in response to any activity completed on any of the Sites, including but not limited to, registration, ordering, downloads, and requests for information. Each email we send will contain instructions on how to unsubscribe in the event that you do not wish to receive future promotional emails from Swiftpage. Please allow 10 business days to be removed from the promotional email list. If you receive email through the Act! emarketing system and wish to opt-out, simply click the “Leave this list” link in the footer of the email.
 
-Last revised: May 11, 2012
+**Third-party email promotions.** If you access and/or use any third party services from a link on the Sites, a Partner co-branded site or by any other means, any information you reveal in connection with such service is submitted to that third party and is not subject to this Privacy Policy. You should consult the privacy policy of the third-party site with respect to its treatment of any information that you may reveal in connection with such service.
+
+**Commitment to Safe Harbor**
+
+In accordance with our commitment to protect personal privacy, Swiftpage adheres to the U.S.-EU Safe Harbor Privacy Principles as developed by the U.S. Department of Commerce in consultation with the European Commission, as well as the U.S.-Swiss Safe Harbor Privacy Principles as developed by the U.S. Department of Commerce in consultation with the Federal Data Protection and Information Commissioner of Switzerland. The U.S.-EU and U.S.-Swiss Safe Harbor Frameworks comprise seven privacy principles and fifteen Frequently Asked Questions (FAQs) that are referred to in this policy. These principles and FAQs may be found at: <http://www.export.gov/safeharbor>. 
+
+**Website Traffic**
+
+The Swiftpage website uses analytics software to monitor traffic, but not personally identifiable information.
+
+**Updating Your Information**
+
+Business and/or user information can be updated at any time by emailing Swiftpage at CustomerCare@swiftpage.com.
+
+**Changes to Policy**
+
+Changes to the Swiftpage privacy policy will always be available at <http://www.swiftpageconnect.com/privacypolicy.htm> and can be viewed at any time. Questions relating to this policy can be sent to [CustomerCare@swiftpage.com](mailto:CustomerCare@swiftpage.com) or you can call 303.978.1000.
+
+**Swiftpage Contact Information:**
+
+You can contact Swiftpage by calling 303.978.1000 or by emailing [CustomerCare@swiftpage.com](mailto:CustomerCare@swiftpage.com).
+
+Swiftpage Physical Address:  
+621 17th Street  
+Suite 500  
+Denver, CO 80293
+
+**Privacy Policy Effective Date:**  
+The current privacy policy is effective 04/2014.
