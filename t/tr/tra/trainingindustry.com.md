@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trainingindustry.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407151807id_/http%3A//www.trainingindustry.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainingindustry.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205014332id_/http%3A//www.trainingindustry.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Training Industry
 
@@ -61,6 +61,8 @@ Training Industry, Inc. sometimes tracks and catalogs the search terms that user
 **COOKIES**
 
 We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain personal information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. The only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Training Industry, Inc. uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.
+
+Training Industry, Inc. may use third-party cookies to support remarketing, or display ads served on third-party websites based on past site visits, by vendors such as Google. To opt out of remarketing cookies, [click here](http://www.networkadvertising.org/choices/).
 
 You may refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys.
 
