@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the patentbuddy.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607022705id_/http%3A//www.patentbuddy.com/privacypolicy.jsf) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the patentbuddy.com privacy policy that was archived on 2015-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151205181511id_/http%3A//www.patentbuddy.com/privacypolicy.jsf) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 			
@@ -13,11 +13,15 @@
 		<script src="scripts/jquery/jquery-1.6.4.min.js"></script>
 			<script src="scripts/newjs/main.js"></script>
 
+
+
+
+
+	<link rel="shortcut icon" type="image/x-icon" href="http://www.patentbuddy.com/.ico">
+	
+
 </head>
 <body>
-
-
-
 
 <link rel="stylesheet" media="screen, projection" href="style/pbnewstyles/css/pbmains.css">
 <link type="text/css" href="style/pbstyle/modal/basic.css" rel="stylesheet" media="screen">
@@ -31,10 +35,82 @@
 <script src="scripts/jquery/jquery.alerts.js" type="text/javascript"></script>
 <script src="scripts/jquery/jquery-migrate-1.2.1.js" type="text/javascript"></script>
 <link href="scripts/jquery/jquery.alerts.css" rel="stylesheet" type="text/css" media="screen">
+	
+	<script type="text/javascript">
+	
+	
+	
+	/* 	  $(document).click(function(){
+			  if ($('#notification').children("ul").children("li").length > 0) {
+				  $('.noti-tab-count').click(function(e) { //button click class name is myDiv
+					  e.stopPropagation();
+					 })
+				  $('#notification').children("ul").empty();  
+			  }			  
+		  }); */
+	 
+/* 	 $('.noti-tab-count').click(function(e) {
+		  e.stopPropagation();
+	 }); */
+	 
+	$(document).ready(function ($) {
+		  			
+			var slideCount = $('#slider ul li').length;
+			var slideWidth = $('#slider ul li').width();
+			var slideHeight = $('#slider ul li').height();
+			var sliderUlWidth = slideCount * slideWidth;
+			
+			$('#slider').css({ width: slideWidth, height: slideHeight });
+			
+			$('#slider ul').css({ width: sliderUlWidth, marginLeft: - slideWidth });
+			
+		    $('#slider ul li:last-child').prependTo('#slider ul');
 
+		    function moveLeft() {
+		        $('#slider ul').animate({
+		            left: + slideWidth
+		        }, 200, function () {
+		            $('#slider ul li:last-child').prependTo('#slider ul');
+		            $('#slider ul').css('left', '');
+		        });
+		    };
 
+		    function moveRight() {
+		        $('#slider ul').animate({
+		            left: - slideWidth
+		        }, 200, function () {
+		            $('#slider ul li:first-child').appendTo('#slider ul');
+		            $('#slider ul').css('left', '');
+		        });
+		    };
+
+		    $('.not-download').live('click', '.link', function(e){
+		        e.preventDefault();                   // prevent default anchor behavior
+		        var goTo = this.getAttribute("href"); // store anchor href
+		        setTimeout(function(){
+		             window.location = goTo;
+		        },250);       
+		    }); 
+		    
+		    $('a.control_prev').live('click', '.link', function(){
+		    	$('#notification').children("ul").empty();
+		        moveLeft();
+		    });
+
+		    $('a.control_next').live('click', '.link', function(){
+		    	$('#notification').children("ul").empty();
+		    	moveRight();
+		    });
+
+		});    
+
+	</script>
 <script type="text/javascript">
 	var contextPath =  'http://www.patentbuddy.com/';
+	var isDashboardUser = 'false';
+	var loggedInProfile =  ''; 
+	var notificationCountClicked = 'false';
+	var notificationOtherThanExcelExists = 'false';
 	function upgradeMember(){
 		$.modal.close();
 		window.setTimeout(function() {$('#upgrade-membership-modal').modal({onShow: function (dialog) {
@@ -59,30 +135,326 @@
 	            return false; 
 	        };   
 	    });
-	    return returnKey;       
-	           
+	    return returnKey;                 
 	}
 	
-	$(document).ready(function() {
-		   
+ 	$(document).ready(function() {
+ 		if(loggedInProfile != null && loggedInProfile != "" && loggedInProfile != undefined){
+ 			showNotification();			
+ 			$(function(){
+ 			    setInterval(hideNotificationsExceptExcelReport, 120000);
+ 			});
+ 			setInterval(showNotification, 30000); 			
+ 		} 				
+	});
+	 
+	
+	
+	$(document).ready(function() {		   
 		disableOrEnablePlanFrequency();
 		disableOrEnablePlanFrequencyForFreemium();
 		var profileInTrialMode = 'false';
 		if(profileInTrialMode == "true"){
 			trialModePopUp();
-		}
+		}				
 	});
 	
+	
+	function hideNotificationsExceptExcelReport(){
+		if(notificationOtherThanExcelExists == 'true'){
+			$.ajax({
+				type : "POST",
+				dataType : "json",				
+				url : 'jsonresp?jsonObj=hideNotificationsExceptExcelReport',
+				cache : false,
+				async : true,   
+				error: function(xhr,status,error){
+					if(error != ''){
+						console.log(error);
+					}
+				},
+				success : function(allData) {
+						showNotification();						
+				},
+				complete: function(xhr){	
+					notificationOtherThanExcelExists = 'false';
+				}
+			});
+		}		
+	}
+	
+	function checkForLogIn() {
+		var loginStatus = false;
+		if(loginStatus) {
+			$.ajax({
+				type : "GET",
+				url : 'jsonresp?jsonObj=loginCheck',
+				cache : false,
+				async : false,
+				dataType : 'json',
+				success : function(data) {								
+					if(data.isUserLoggedIn) {
+						loginStatus = true;
+					} else {
+						loginStatus = false;
+					}
+				},
+				error: function(request,error) {	
+					loginStatus = false;
+				}							
+			});						
+		} else {
+			loginStatus = false;
+		}
+		return loginStatus;
+	}
+		
+	 function showNotification(){
+		if(checkForLogIn()) {
+			$.ajax({
+				type : "POST",
+				dataType : "json",				
+				url : 'jsonresp?jsonObj=showNotification',
+				cache : false,
+				async : true,   
+				error: function(xhr,status,error){
+	/* 				if(error != ''){
+						console.log(error);
+					} */
+				},
+				success : function(allData) {
+						if(allData.notifications != null && allData.notifications != undefined && allData.notifications.length > 0){
+							$('#notifycont').css("display", "block");
+							$('section#main header h1:only-child').css("margin-top", "35px");
+							$('section#main header h1:only-child').css("padding-bottom", "0px");
+							var bcImage = $('html').css("background-image").replace(/^url\(["']?/, '').replace(/["']?\)$/, '');
+							bcImage = bcImage.substr(bcImage.indexOf("/style") + 1);
+							//jAlert(isDashboardUser);
+							if(isDashboardUser == "false"){
+								$('html').css("background", "url(images/pb_bg1.png) 0 0 repeat-x, url(images/pb_bg2.png) 0 16px repeat-x");
+								$('#nav-primary').css("margin-top",34);
+							}
+							else{
+								$('html').css("background", "url(" + contextPath +"/style/pbnewstyles/custom/images/client_bg_1.png) 0 0 repeat-x, url(" + contextPath +"/style/pbnewstyles/custom/images/client_bg_2.png) 0 86px repeat-x");
+								$('#nav-primary').css("margin-top",34);
+							}
+							
+							var excelFeeds = allData.notifications;						
+							var excelNotifications = "";//=  countLink for notification; 
+							excelNotifications = excelNotifications + "<div id='slider'><div class='col-1'>"+
+							"<a href='javascript:;' class='control_prev'></a></div>" +
+							"<div class='col-2'><ul class='feeds'>";// feeds slider
+							
+							for (ii = 0; ii < excelFeeds.length; ii++) {													
+								excelNotifications = excelNotifications + "<li>" + "<a class='noti-tab-count' href='javascript:;' onClick='showAlert(" + "\"" 
+								+ excelFeeds[ii].feeds + "\"" + ");'><span>" + 
+								excelFeeds[ii].feedCount + "</span></a>" + excelFeeds[ii].notification + "</li>";						
+							}
+							excelNotifications = excelNotifications + "</ul>"+
+							"</div>" +
+							"<div class='col-3'><a href='javascript:;' class='control_next'></a><a href='javascript:;' class='not-close' onClick='hideAllNotificationPP()';></a></div>";
+							"</div>"; 
+							$("#notification").html(excelNotifications);
+							$("#notification").slideDown("slow");
+	 	 						
+							if(allData.notifications.length < 2){
+								$('.control_prev').css("visibility", "hidden");
+								$('.control_next').css("visibility", "hidden");
+							}							
+							
+							if(allData.otherfeedsExists == true){
+								notificationOtherThanExcelExists = 'true';	
+							}
+							else{
+								notificationOtherThanExcelExists = 'false';
+							}
+						}
+						else{
+							$('#notification').slideUp("slow");
+							if(isDashboardUser == "false"){
+								$('html').css("background", "url(images/pb_bg1.png) 0 0 repeat-x, url(images/pb_bg2.png) 0 -18px repeat-x");
+								$('#nav-primary').css("margin-top",0);
+							} else{
+								$('html').css("background", "url(" + contextPath + "/style/pbnewstyles/custom/images/client_bg_1.png) 0 0 repeat-x, url(" + contextPath + "/style/pbnewstyles/custom/images/client_bg_2.png) 0 52px repeat-x");
+								$('#nav-primary').css("margin-top",0);
+							} 											
+						}								
+				},
+				complete: function(xhr){								
+				}
+			});
+			return true;
+		}
+	} 
+	 
+	 
+	 
+	 function hideNotification(userNotificationId){
+			$.ajax({
+				type : "POST",
+				dataType : "json",				
+				url : 'jsonresp?jsonObj=hideUserNotification&userNotificationId=' + userNotificationId + '&isAdmin=false',
+				cache : false,
+				async : true,   
+				error: function(xhr,status,error){
+					if(error != ''){
+						console.log(error);
+					}
+				},
+				success : function(allData) {
+					showNotification();	
+					return true;
+				},
+				complete: function(xhr){	
+					showNotification();
+				}
+			});			
+			
+		}
+	 
+	 function hideNotificationPP(hideNotfType){
+			$.ajax({
+				type : "POST",
+				dataType : "json",				
+				url : 'jsonresp?jsonObj=hideUserNotificationPP&hideNotfType=' + hideNotfType + '&isAdmin=false',
+				cache : false,
+				async : true,   
+				error: function(xhr,status,error){
+					if(error != ''){
+						console.log(error);
+					}
+				},
+				success : function(allData) {
+						showNotification();
+				},
+				complete: function(xhr){								
+				}
+			});
+		}
+	 
+	 function hideAllNotificationPP(){
+			$.ajax({
+				type : "POST",
+				dataType : "json",				
+				url : 'jsonresp?jsonObj=hideAllUserNotificationPP' + '&isAdmin=false',
+				cache : false,
+				async : true,   
+				error: function(xhr,status,error){
+					if(error != ''){
+						console.log(error);
+					}
+				},
+				success : function(allData) {
+						showNotification();
+				},
+				complete: function(xhr){								
+				}
+			});
+		}
+
+
+	
+	function showAlert(notificationFeeds) {
+		var notificationFeed = notificationFeeds.split('##@@##');
+ 		var countWidth = $('.noti-tab-count').offset().left-52;
+		//alert(countWidth);
+		
+		//countWidth = countWidth / $(window).width() * 100 + "%"; 
+		
+/* 		var notificationFeed = notificationFeeds.split('##@@##');
+		var countWidth = $('.noti-tab-count').position().left;
+		countWidth = countWidth - 1; */
+
+		var marrginCount = $('.noti-tab-count').css("margin-left");
+		var notificationLink = "<ul class='not-msg' id='msgs' style='display:block;'><li class='pointer'><label>&nbsp;</label></li>";
+		if (notificationFeed.length > 0) {
+			for (i = 0; i < notificationFeed.length; i++) {
+				var notificationParts = notificationFeed[i].split('##@@@##');
+				notificationLink = notificationLink + "<li>"
+				var feedType;
+				for (j = 0; j < notificationParts.length; j++) {
+					if (j == 0) {
+						feedType = notificationParts[j];
+					} else if (j == 1) {
+						notificationLink = notificationLink
+								+ notificationParts[j];
+					} else if (j == 2) {
+						if (feedType == "ExportToExcel") {
+							notificationLink = notificationLink
+									+ "<span style='float:right;margin-top:-2px;'><a class='not-download' href='DownloadReport?userNotificationId="
+									+ notificationParts[j]
+									+ "&reportType=exportPortfolioMattersExcel' onClick='return hideNotification("
+									+ "\"" + notificationParts[j] + "\""
+									+ ");'> Click here to Download</a>";
+						} else if (feedType == "AddToPortfolio"
+								|| feedType == "LoadPairPortfolio"
+								|| feedType == "addOwnerToPortfolio") {
+							var link = notificationParts[j].split('##@@@@##');
+							notificationLink = notificationLink
+									+ "<span style='float:right;margin-top:-2px;'><a class='not-download' href='pages/portfolio-pages/managePortfolio.jsf?userportfolioId="
+									+ link[0]
+									+ "' onClick='return hideNotification("
+									+ "\"" + link[1] + "\""
+									+ ");'> Go to Portfolio</a>";
+						} else if (feedType == "LoadPairPatent") {
+							var link = notificationParts[j].split('##@@@@##');
+							notificationLink = notificationLink
+									+ "<span style='float:right;margin-top:-2px;'><a class='not-download' href='Patent/"
+									+ link[0]
+									+ "' onClick='return hideNotification("
+									+ "\"" + link[1] + "\""
+									+ ");'> Go to Patent Profile</a>";
+						}  else if (feedType == "UnPubUploadCSVLog") {
+							notificationLink = notificationLink
+							+ "<span style='float:right;margin-top:-2px;'><a class='not-download'  target='_blank' href='DownloadReport?userNotificationId="
+							+ notificationParts[j]
+							+ "&reportType=exportUploadCsvLogExcel&unpub=true' onClick='return hideNotification("
+							+ "\"" + notificationParts[j] + "\""
+							+ ");'> Click here to Download</a>";
+						}
+
+					} else if (j == 3) {
+						if (feedType == "UploadCSVLog") {
+							notificationLink = notificationLink
+								+ "<a class='not-remove' href='javascript:;' onClick='return hideNotification("
+								+ "\"" + notificationParts[j] + "\""
+								+ ");'></a></span></li>";
+						} else if (feedType == "UnPubUploadCSVLog") {
+							notificationLink = notificationLink
+								+ "<a class='not-remove' href='javascript:;' onClick='return hideNotification("
+								+ "\"" + notificationParts[j] + "\""
+								+ ");'></a></span></li>";
+						} else if (feedType == "ExportToExcel") {
+							notificationLink = notificationLink
+							+ "<a class='not-remove' href='javascript:;' onClick='return hideNotification("
+							+ "\"" + notificationParts[j] + "\""
+							+ ");'></a></span></li>";
+						}
+					}
+				}
+			}
+		}
+		notificationLink = notificationLink + "</ul>";
+		if ($('#notification').children("ul").children("li").length > 0) {
+			$('#notification').children("ul").children("li").toggle();
+		} else {
+			var diccc = notificationLink;
+			$('#notification').append(diccc);
+			$('.not-msg').css("left", countWidth)
+		}
+	}
+
 	function disableOrEnablePlanFrequency() {
 		var subscriptionCycle = '';
 		var val = document.getElementsByName('type_radio');
 		for (ii = 0; ii < val.length; ii++) {
-			if(subscriptionCycle != "annually"){
+			if (subscriptionCycle != "annually") {
 				if (val[ii].value == "monthly") {
 					val[ii].checked = true;
 					confirmSubscriptionValue('monthly');
 				}
-			}else if(subscriptionCycle != '' && subscriptionCycle == "annually"){
+			} else if (subscriptionCycle != ''
+					&& subscriptionCycle == "annually") {
 				if (val[ii].value == "annually") {
 					val[ii].checked = true;
 					confirmSubscriptionValue('annually');
@@ -95,12 +467,13 @@
 		var subscriptionCycle = '';
 		var val = document.getElementsByName('type_radio_for_freemium');
 		for (ii = 0; ii < val.length; ii++) {
-			if(subscriptionCycle != "annually"){
+			if (subscriptionCycle != "annually") {
 				if (val[ii].value == "monthly") {
 					val[ii].checked = true;
 					confirmSubscriptionValueForFreemium('monthly');
 				}
-			}else if(subscriptionCycle != '' && subscriptionCycle == "annually"){
+			} else if (subscriptionCycle != ''
+					&& subscriptionCycle == "annually") {
 				if (val[ii].value == "annually") {
 					val[ii].checked = true;
 					confirmSubscriptionValueForFreemium('annually');
@@ -112,59 +485,89 @@
 	var currentUserPlan = '';
 	var profileInTrialMode = 'false';
 
-	function confirmSubscriptionCycleForFreemium(planValue){
-		if(currentUserPlan != '' && getPlanCostByPlanId(planArray,planValue) < getPlanCostByPlanId(planArray,currentUserPlan)){
+	function confirmSubscriptionCycleForFreemium(planValue) {
+		if (currentUserPlan != ''
+				&& getPlanCostByPlanId(planArray, planValue) < getPlanCostByPlanId(
+						planArray, currentUserPlan)) {
 			return false;
-		}else if(currentUserPlan != '' && (getPlanCostByPlanId(planArray,planValue) == getPlanCostByPlanId(planArray,currentUserPlan)) && profileInTrialMode != '' && profileInTrialMode == 'false'){
+		} else if (currentUserPlan != ''
+				&& (getPlanCostByPlanId(planArray, planValue) == getPlanCostByPlanId(
+						planArray, currentUserPlan))
+				&& profileInTrialMode != '' && profileInTrialMode == 'false') {
 			return false;
 		}
 		document.getElementById("freemiumSelectedPlan").value = planValue;
 		var paymentProfile = '';
-		if(paymentProfile != '' && paymentProfile != 'null' && paymentProfile != undefined){
+		if (paymentProfile != '' && paymentProfile != 'null'
+				&& paymentProfile != undefined) {
 			$.modal.close();
-			$('#subscription-confirmation-modal-for-freemium').modal({onShow: function (dialog) { }});
-			 return false;
+			$('#subscription-confirmation-modal-for-freemium').modal({
+				onShow : function(dialog) {
+				}
+			});
+			return false;
 		}
 		$("#freemiumHiddenUpgradeMembership").click();
 	}
 
-	function confirmSubscriptionValue(subscriptionValue){
+	function confirmSubscriptionValue(subscriptionValue) {
 		document.getElementById("hiddenSubscriptionValue").value = subscriptionValue;
 	}
 
-	function confirmSubscriptionValueForFreemium(subscriptionValue){
+	function confirmSubscriptionValueForFreemium(subscriptionValue) {
 		document.getElementById("hiddenSubscriptionValueForFreemium").value = subscriptionValue;
 	}
 
-	function confirmSubscriptionCycle(planValue){
-		if(currentUserPlan != '' && getPlanCostByPlanId(planArray,planValue) < getPlanCostByPlanId(planArray,currentUserPlan)){
+	function confirmSubscriptionCycle(planValue) {
+		if (currentUserPlan != ''
+				&& getPlanCostByPlanId(planArray, planValue) < getPlanCostByPlanId(
+						planArray, currentUserPlan)) {
 			return false;
-		}else if(currentUserPlan != '' && (getPlanCostByPlanId(planArray,planValue) == getPlanCostByPlanId(planArray,currentUserPlan)) && profileInTrialMode != '' && profileInTrialMode == 'false'){
+		} else if (currentUserPlan != ''
+				&& (getPlanCostByPlanId(planArray, planValue) == getPlanCostByPlanId(
+						planArray, currentUserPlan))
+				&& profileInTrialMode != '' && profileInTrialMode == 'false') {
 			return false;
 		}
 		document.getElementById("selectedplan").value = planValue;
 		var paymentProfile = '';
-		if(paymentProfile != '' && paymentProfile != 'null' && paymentProfile != undefined){
+		if (paymentProfile != '' && paymentProfile != 'null'
+				&& paymentProfile != undefined) {
 			$.modal.close();
-			$('#subscription-confirmation-modal').modal({onShow: function (dialog) { }});
-			 return false;
+			$('#subscription-confirmation-modal').modal({
+				onShow : function(dialog) {
+				}
+			});
+			return false;
 		}
 		$("#hiddenUpgradeMembership").click();
 	}
-	
-	function trialModePopUp(){
-		$.modal.close();
-		 window.setTimeout(function() {$('#trial-membership-modal').modal({onShow: function (dialog) {
-			 dialog.container.css("width","900px");
-			 dialog.container.css("height","620px");
-			 $("#planFeaturesContainer, #planFeaturesContainerUpgrade, #planFeaturesContainerTrial, #planFeaturesContainerFreemium").perfectScrollbar({
-					wheelSpeed: 20,
-					wheelPropagation: false,
-					minScrollbarLength : 5
-				});     
-		}})}, 250);
-	}
 
+	function trialModePopUp() {
+		$.modal.close();
+		window
+				.setTimeout(
+						function() {
+							$('#trial-membership-modal')
+									.modal(
+											{
+												onShow : function(dialog) {
+													dialog.container.css(
+															"width", "900px");
+													dialog.container.css(
+															"height", "620px");
+													$(
+															"#planFeaturesContainer, #planFeaturesContainerUpgrade, #planFeaturesContainerTrial, #planFeaturesContainerFreemium")
+															.perfectScrollbar(
+																	{
+																		wheelSpeed : 20,
+																		wheelPropagation : false,
+																		minScrollbarLength : 5
+																	});
+												}
+											})
+						}, 250);
+	}
 </script>
 
 
@@ -185,7 +588,6 @@ html {
 	
 }
 </style>
-
 <!--[if lt IE 9]>
 	<script src="scripts/newjs/html5.js"></script>
 	<link rel="stylesheet" href="style/pbnewstyles/css/ie8.css" type="text/css"/>
@@ -198,23 +600,23 @@ html {
 <![endif]-->
 
 		<div id="logo">
-			<a id="_idJsp34" name="_idJsp34" href="#">Patent Buddy</a>
-		</div><div class="quickSignUpLinks non-mobile"><div id="dad" style="width:600px;margin-top:-12px;"><a id="idOt2" name="idOt2" href="login.jsf;jsessionid=23D6FEDAA38D78DFC51FBDA7BC9FEF3F" style="color:#FFFFFF;text-align:right;float:right;">Sign In</a><span id="idOt1" style="color:#FFFFFF;text-align:right;float:right;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a id="idOt" name="idOt" href="registration;jsessionid=23D6FEDAA38D78DFC51FBDA7BC9FEF3F" style="color:#FFFFFF;text-align:right;float:right;">Join Today</a></div></div>	
+			<a id="_idJsp43" name="_idJsp43" href="#">Patent Buddy</a>
+		</div><div class="quickSignUpLinks non-mobile"><div id="dad" style="width:600px;margin-top:-12px;"><a id="idOt2" name="idOt2" href="login.jsf;jsessionid=945F6C47210AD0A54538E2590DC3FF48" style="color:#FFFFFF;text-align:right;float:right;">Sign In</a><span id="idOt1" style="color:#FFFFFF;text-align:right;float:right;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a id="idOt" name="idOt" href="registration;jsessionid=945F6C47210AD0A54538E2590DC3FF48" style="color:#FFFFFF;text-align:right;float:right;">Join Today</a></div></div>	
 		<nav id="nav-primary" role="navigation">
 			<ul id="mailUlId">
-				<li id="nav-dashboard" style="padding: 17px 15px 0 0"><a href="dashboard" style="width:115px;">UPDATE SUMMARY</a></li>
+				<li id="nav-dashboard" style="padding: 17px 0px 0 0"><a href="dashboard" style="width:115px;">UPDATE SUMMARY</a></li>
 				
-				<li id="nav-portfolio" style="padding: 17px 15px 0 0"><a href="pages/portfolio-pages/userPortfolios.jsf"><span>Portfolio(s)</span></a></li>
+				<li id="nav-portfolio" style="padding: 17px 0px 0 0"><a href="pages/portfolio-pages/userPortfolios.jsf"><span>Portfolio(s)</span></a></li>
 				
-				<li id="nav-search" style="padding: 17px 15px 0 0"><a href="pages/patentNumberSearch.jsf"><span>Search</span></a></li>
+				<li id="nav-search" style="padding: 17px 0px 0 0"><a href="pages/patentNumberSearch.jsf"><span>Search</span></a></li>
 				
-				<li id="nav-comparisons" style="padding: 17px 15px 0 0"><a href="comparisons"><span>Comparisons</span></a></li>
+				<li id="nav-comparisons" style="padding: 17px 0px 0 0"><a href="comparisons"><span>Comparisons</span></a></li>
 				
-				<li id="nav-watches" style="padding: 17px 15px 0 0"><a href="watches/newsfeed"><span>Following</span></a></li>
+				<li id="nav-watches" style="padding: 17px 0px 0 0"><a href="watches/newsfeed"><span>Following</span></a></li>
 				
-			    <li id="nav-toprated" style="padding: 17px 15px 0 0"><a href="Top500PatentOwner/All"><span>Top Rated</span></a></li>
+			    <li id="nav-toprated" style="padding: 17px 0px 0 0"><a href="Top500PatentOwner/All"><span>Top Rated</span></a></li>
 			    
-			    <li id="nav-reports" style="padding: 17px 15px 0 0"><a href="pages/userLibrary.jsfs"><span>Reports</span></a></li>
+			    <li id="nav-reports" style="padding: 17px 0px 0 0"><a href="pages/userLibrary.jsfs"><span>Reports</span></a></li>
 			   	
 			</ul>
 		</nav>
@@ -231,9 +633,9 @@ html {
                 </div>
                 <div style="margin-top: 20px;"></div>
 					</div>
-
 					</div>
-				<form id="membershipUpgradeForm" name="membershipUpgradeForm" method="post" action="/privacypolicy.jsf;jsessionid=23D6FEDAA38D78DFC51FBDA7BC9FEF3F" enctype="application/x-www-form-urlencoded" target="">
+
+<form id="membershipUpgradeForm" name="membershipUpgradeForm" method="post" action="/privacypolicy.jsf;jsessionid=945F6C47210AD0A54538E2590DC3FF48" enctype="application/x-www-form-urlencoded" target="">
 				<div id="upgrade-membership-modal" style="display:none;">
 					<div class="popup-window" style="padding:14px;">
         <div style="width: 867px; margin-top: 20px;">
@@ -478,16 +880,16 @@ html {
 					<tr>
 						<td align="left" valign="middle" height="50"><script type="text/javascript"><!--
 function oamSetHiddenInput(formname, name, value){var form = document.forms[formname];if(typeof form.elements[name]=='undefined'){var newInput = document.createElement('input');newInput.setAttribute('type','hidden');newInput.setAttribute('name',name);newInput.setAttribute('value',value);form.appendChild(newInput);}else{form.elements[name].value=value;}}function oamClearHiddenInput(formname, name, value){var form = document.forms[formname];if(typeof form.elements[name]!='undefined'){form.elements[name].value=null;}}function oamSubmitForm(formName, linkId, target, params){var clearFn = 'clearFormHiddenParams_'+formName.replace(/-/g, '\$:').replace(/:/g,'_');if(typeof eval('window.'+clearFn)!='undefined'){eval('window.'+clearFn+'(formName)');}if(typeof window.getScrolling!='undefined'){oamSetHiddenInput(formName,'autoScroll',getScrolling());}var oldTarget = '';if((typeof target!='undefined') && target != null){oldTarget=document.forms[formName].target;document.forms[formName].target=target;}if((typeof params!='undefined') && params != null){for(var i=0; i<params.length; i++){oamSetHiddenInput(formName,params[i][0], params[i][1]);}}oamSetHiddenInput(formName,formName +':'+'_idcl',linkId);if(document.forms[formName].onsubmit){var result=document.forms[formName].onsubmit();if((typeof result=='undefined')||result){document.forms[formName].submit();}}else {document.forms[formName].submit();}if(oldTarget==null) oldTarget='';document.forms[formName].target=oldTarget;if((typeof params!='undefined') && params != null){for(var i=0; i<params.length; i++){oamClearHiddenInput(formName,params[i][0], params[i][1]);}}oamClearHiddenInput(formName,formName +':'+'_idcl',linkId);return false;}
-//--></script><a href="#" onclick="if (!confirmSubscriptionCycle(1)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:upgradeMember_inc:_idJsp144');" id="membershipUpgradeForm:upgradeMember_inc:_idJsp144" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a><input type="hidden" name="autoScroll">
+//--></script><a href="#" onclick="if (!confirmSubscriptionCycle(1)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:upgradeMember_inc:_idJsp158');" id="membershipUpgradeForm:upgradeMember_inc:_idJsp158" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a><input type="hidden" name="autoScroll">
 						</td>
 						<td style="width: 5px;">&nbsp;</td>
-						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(2)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:upgradeMember_inc:_idJsp147');" id="membershipUpgradeForm:upgradeMember_inc:_idJsp147" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(2)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:upgradeMember_inc:_idJsp161');" id="membershipUpgradeForm:upgradeMember_inc:_idJsp161" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
 						</td>
 						<td style="width: 5px;">&nbsp;</td>
-						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(3)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:upgradeMember_inc:_idJsp150');" id="membershipUpgradeForm:upgradeMember_inc:_idJsp150" style="margin-left:20px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(3)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:upgradeMember_inc:_idJsp164');" id="membershipUpgradeForm:upgradeMember_inc:_idJsp164" style="margin-left:20px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
 						</td>
 						<td style="width: 5px;">&nbsp;</td>
-						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(4)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:upgradeMember_inc:_idJsp153');" id="membershipUpgradeForm:upgradeMember_inc:_idJsp153" style="margin-left:30px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(4)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:upgradeMember_inc:_idJsp167');" id="membershipUpgradeForm:upgradeMember_inc:_idJsp167" style="margin-left:30px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
 						</td>
 					</tr>
                 </tfoot>
@@ -741,16 +1143,16 @@ function oamSetHiddenInput(formname, name, value){var form = document.forms[form
                     
 					
 					<tr>
-						<td align="left" valign="middle" height="50"><a href="#" onclick="if (!confirmSubscriptionCycle(1)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:trialMode_inc:_idJsp177');" id="membershipUpgradeForm:trialMode_inc:_idJsp177" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						<td align="left" valign="middle" height="50"><a href="#" onclick="if (!confirmSubscriptionCycle(1)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:trialMode_inc:_idJsp191');" id="membershipUpgradeForm:trialMode_inc:_idJsp191" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
 						</td>
 						<td style="width: 5px;">&nbsp;</td>
-						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(2)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:trialMode_inc:_idJsp180');" id="membershipUpgradeForm:trialMode_inc:_idJsp180" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(2)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:trialMode_inc:_idJsp194');" id="membershipUpgradeForm:trialMode_inc:_idJsp194" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
 						</td>
 						<td style="width: 5px;">&nbsp;</td>
-						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(3)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:trialMode_inc:_idJsp183');" id="membershipUpgradeForm:trialMode_inc:_idJsp183" style="margin-left:20px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(3)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:trialMode_inc:_idJsp197');" id="membershipUpgradeForm:trialMode_inc:_idJsp197" style="margin-left:20px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
 						</td>
 						<td style="width: 5px;">&nbsp;</td>
-						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(4)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:trialMode_inc:_idJsp186');" id="membershipUpgradeForm:trialMode_inc:_idJsp186" style="margin-left:30px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(4)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:trialMode_inc:_idJsp200');" id="membershipUpgradeForm:trialMode_inc:_idJsp200" style="margin-left:30px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
 						</td>
 					</tr>
                 </tfoot>
@@ -763,7 +1165,7 @@ function oamSetHiddenInput(formname, name, value){var form = document.forms[form
 					<div class="popup-window" style="padding: 23px;">
 						<h1 class="port-heading" style="font-size:22px;">Please Confirm Your Upgraded Plan Purchase By Selecting Upgrade Button</h1>
 							<div id="subscriptionCycle" class="input" style="width:auto;float:left;margin: 30px 0 30px 14px;">
-									<table style="border-collapse: separate;border-spacing: 1em;" id="type_radio_for_freemium"><tbody><tr>		<td><label><input type="radio" name="type_radio_for_freemium" value="annually" onclick="confirmSubscriptionValue(this.value);" style="border-collapse: separate;border-spacing: 1em;">&nbsp;Yearly (Get 12 months for the price of 11!)</label></td>		<td><label><input type="radio" name="type_radio_for_freemium" value="monthly" onclick="confirmSubscriptionValue(this.value);" style="border-collapse: separate;border-spacing: 1em;">&nbsp;Monthly</label></td></tr></tbody></table><div><a href="#" onclick="clear_membershipUpgradeForm();if(window.getScrolling!=undefined){document.forms['membershipUpgradeForm'].elements['autoScroll'].value=getScrolling();}document.forms['membershipUpgradeForm'].elements['membershipUpgradeForm:_link_hidden_'].value='membershipUpgradeForm:subscriptionConfirm_inc:upgradePurchase';if(document.forms['membershipUpgradeForm'].onsubmit){var result=document.forms['membershipUpgradeForm'].onsubmit();  if( (typeof result == 'undefined') || result ) {document.forms['membershipUpgradeForm'].submit();}}else{document.forms['membershipUpgradeForm'].submit();}return false;" id="membershipUpgradeForm:subscriptionConfirm_inc:upgradePurchase" style="margin: 10px 10px 10px 140px;" class="button-green abc"><span style="color:white;">UPGRADE</span></a><a id="membershipUpgradeForm:subscriptionConfirm_inc:_idJsp191" name="membershipUpgradeForm:subscriptionConfirm_inc:_idJsp191" href="javascript:void(0)" style="float:right;margin:10px;" class="button-red abc simplemodal-close"><span style="color:white">CANCEL</span></a></div>
+									<table style="border-collapse: separate;border-spacing: 1em;" id="type_radio_for_freemium"><tbody><tr>		<td><label><input type="radio" name="type_radio_for_freemium" value="annually" onclick="confirmSubscriptionValue(this.value);" style="border-collapse: separate;border-spacing: 1em;">&nbsp;Yearly (Get 12 months for the price of 11!)</label></td>		<td><label><input type="radio" name="type_radio_for_freemium" value="monthly" onclick="confirmSubscriptionValue(this.value);" style="border-collapse: separate;border-spacing: 1em;">&nbsp;Monthly</label></td></tr></tbody></table><div><a href="#" onclick="clear_membershipUpgradeForm();if(window.getScrolling!=undefined){document.forms['membershipUpgradeForm'].elements['autoScroll'].value=getScrolling();}document.forms['membershipUpgradeForm'].elements['membershipUpgradeForm:_link_hidden_'].value='membershipUpgradeForm:subscriptionConfirm_inc:upgradePurchase';if(document.forms['membershipUpgradeForm'].onsubmit){var result=document.forms['membershipUpgradeForm'].onsubmit();  if( (typeof result == 'undefined') || result ) {document.forms['membershipUpgradeForm'].submit();}}else{document.forms['membershipUpgradeForm'].submit();}return false;" id="membershipUpgradeForm:subscriptionConfirm_inc:upgradePurchase" style="margin: 10px 10px 10px 140px;" class="button-green abc"><span style="color:white;">UPGRADE</span></a><a id="membershipUpgradeForm:subscriptionConfirm_inc:_idJsp205" name="membershipUpgradeForm:subscriptionConfirm_inc:_idJsp205" href="javascript:void(0)" style="float:right;margin:10px;" class="button-red abc simplemodal-close"><span style="color:white">CANCEL</span></a></div>
 							</div>
 					</div>
 				</div>
@@ -1010,16 +1412,16 @@ function oamSetHiddenInput(formname, name, value){var form = document.forms[form
                     
 					
 					<tr>
-						<td align="left" valign="middle" height="50"><a href="#" onclick="if (!confirmSubscriptionCycleForFreemium(1)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:freemiumUpgrade:_idJsp209');" id="membershipUpgradeForm:freemiumUpgrade:_idJsp209" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						<td align="left" valign="middle" height="50"><a href="#" onclick="if (!confirmSubscriptionCycleForFreemium(1)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:freemiumUpgrade:_idJsp223');" id="membershipUpgradeForm:freemiumUpgrade:_idJsp223" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
 						</td>
 						<td style="width: 5px;">&nbsp;</td>
-						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycleForFreemium(2)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:freemiumUpgrade:_idJsp212');" id="membershipUpgradeForm:freemiumUpgrade:_idJsp212" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycleForFreemium(2)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:freemiumUpgrade:_idJsp226');" id="membershipUpgradeForm:freemiumUpgrade:_idJsp226" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
 						</td>
 						<td style="width: 5px;">&nbsp;</td>
-						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycleForFreemium(3)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:freemiumUpgrade:_idJsp215');" id="membershipUpgradeForm:freemiumUpgrade:_idJsp215" style="margin-left:20px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycleForFreemium(3)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:freemiumUpgrade:_idJsp229');" id="membershipUpgradeForm:freemiumUpgrade:_idJsp229" style="margin-left:20px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
 						</td>
 						<td style="width: 5px;">&nbsp;</td>
-						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycleForFreemium(4)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:freemiumUpgrade:_idJsp218');" id="membershipUpgradeForm:freemiumUpgrade:_idJsp218" style="margin-left:30px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycleForFreemium(4)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:freemiumUpgrade:_idJsp232');" id="membershipUpgradeForm:freemiumUpgrade:_idJsp232" style="margin-left:30px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
 						</td>
 					</tr>
                 </tfoot>
@@ -1032,7 +1434,7 @@ function oamSetHiddenInput(formname, name, value){var form = document.forms[form
 					<div class="popup-window" style="padding: 23px;">
 						<h1 class="port-heading" style="font-size:22px;">Please Confirm Your Upgraded Plan Purchase By Selecting Upgrade Button</h1>
 							<div id="subscriptionCycle" class="input" style="width:auto;float:left;margin: 30px 0 30px 14px;">
-									<table style="border-collapse: separate;border-spacing: 1em;" id="type_radio"><tbody><tr>		<td><label><input type="radio" name="type_radio" value="annually" onclick="confirmSubscriptionValueForFreemium(this.value);" style="border-collapse: separate;border-spacing: 1em;">&nbsp;Yearly (Get 12 months for the price of 11!)</label></td>		<td><label><input type="radio" name="type_radio" value="monthly" onclick="confirmSubscriptionValueForFreemium(this.value);" style="border-collapse: separate;border-spacing: 1em;">&nbsp;Monthly</label></td></tr></tbody></table><div><a href="#" onclick="clear_membershipUpgradeForm();if(window.getScrolling!=undefined){document.forms['membershipUpgradeForm'].elements['autoScroll'].value=getScrolling();}document.forms['membershipUpgradeForm'].elements['membershipUpgradeForm:_link_hidden_'].value='membershipUpgradeForm:subscriptionConfirmForFreemium_inc:upgradePurchase';if(document.forms['membershipUpgradeForm'].onsubmit){var result=document.forms['membershipUpgradeForm'].onsubmit();  if( (typeof result == 'undefined') || result ) {document.forms['membershipUpgradeForm'].submit();}}else{document.forms['membershipUpgradeForm'].submit();}return false;" id="membershipUpgradeForm:subscriptionConfirmForFreemium_inc:upgradePurchase" style="margin: 10px 10px 10px 140px;" class="button-green abc"><span style="color:white;">UPGRADE</span></a><a id="membershipUpgradeForm:subscriptionConfirmForFreemium_inc:_idJsp223" name="membershipUpgradeForm:subscriptionConfirmForFreemium_inc:_idJsp223" href="javascript:void(0)" style="float:right;margin:10px;" class="button-red abc simplemodal-close"><span style="color:white">CANCEL</span></a></div>
+									<table style="border-collapse: separate;border-spacing: 1em;" id="type_radio"><tbody><tr>		<td><label><input type="radio" name="type_radio" value="annually" onclick="confirmSubscriptionValueForFreemium(this.value);" style="border-collapse: separate;border-spacing: 1em;">&nbsp;Yearly (Get 12 months for the price of 11!)</label></td>		<td><label><input type="radio" name="type_radio" value="monthly" onclick="confirmSubscriptionValueForFreemium(this.value);" style="border-collapse: separate;border-spacing: 1em;">&nbsp;Monthly</label></td></tr></tbody></table><div><a href="#" onclick="clear_membershipUpgradeForm();if(window.getScrolling!=undefined){document.forms['membershipUpgradeForm'].elements['autoScroll'].value=getScrolling();}document.forms['membershipUpgradeForm'].elements['membershipUpgradeForm:_link_hidden_'].value='membershipUpgradeForm:subscriptionConfirmForFreemium_inc:upgradePurchase';if(document.forms['membershipUpgradeForm'].onsubmit){var result=document.forms['membershipUpgradeForm'].onsubmit();  if( (typeof result == 'undefined') || result ) {document.forms['membershipUpgradeForm'].submit();}}else{document.forms['membershipUpgradeForm'].submit();}return false;" id="membershipUpgradeForm:subscriptionConfirmForFreemium_inc:upgradePurchase" style="margin: 10px 10px 10px 140px;" class="button-green abc"><span style="color:white;">UPGRADE</span></a><a id="membershipUpgradeForm:subscriptionConfirmForFreemium_inc:_idJsp237" name="membershipUpgradeForm:subscriptionConfirmForFreemium_inc:_idJsp237" href="javascript:void(0)" style="float:right;margin:10px;" class="button-red abc simplemodal-close"><span style="color:white">CANCEL</span></a></div>
 							</div>
 					</div>
 				</div>
@@ -1043,7 +1445,7 @@ function clear_membershipUpgradeForm() {
   f.target='';
 }
 clear_membershipUpgradeForm();
-//--></script><input type="hidden" name="jsf_tree_64" id="jsf_tree_64" value="H4sIAAAAAAAAAK1azW4cRRAe/4UkJEQhAQtxCARQAMF6prvnTzmFoCSOHGzFSRDywZrsjnfH2flhpsexL9y48wA8AcoT8ATc4MgNCeXKlTO9szu9u93zZScWl5G3uqq+6u6q6qpuv/jHWCty426a9ztBFnQHYSc+OQi6YSF+ZsOoG/AoTTqP8jDc5XnZ5WUePgiSoB/mH0+Jt9M4S5Mw4Xe+W//z5/v//r5srO4Z5/a7g2jYywXduL+3JSA2xhAbE4iNGYiNthA3t4xL+9361+1hUBTceHvrMDgKNoZB0t8Q/FHSF2wXpmybve+NH4zlPeON/REyFyJX9mZktp8ehl1+8zgr84mp/8dq3Pz1xY3fLv/40y/LhnGcGYbxXjEyw8i48dkI+7gz1i3N7Ax4POzcE5/tkmclfxQecy5sjnr3i8zKpDRrMFBRIiSRIlorGn3flGS7mew2k32FfHZipAXoKmhNV1Frugpb0+dwz0o6qXHL0XdNrPWy8nupWc5pvRlbUfJsKmereEC/VxE+mRLc19u/nSAJh3fztMymKujp5kqpYgsl7SZBbVWQVYQvpgRT1XSmWZPfDpFRBYBZzfvOHED32gHZRAGyzWaFti024MOmfSsLnsadXnTU+To6ms7UVQ1YbdYLHNoBE3YooI/3aHuqWDNgSfm90mqFHOnBa1FvmxMFviJqwQdU+bWq1ZFUbfBKL+gpxjua8WvKb2N+21zkygtMcl3FtV1HcQiXqZoVaE/zfZVBi9dmWzxPgfY0WzSolUZNvoZ45tUm+gudRTH53CQdm6ReP0mxFKN9LeZrcCmiJVONA9mn2mPJeJYUbc2QqKuJ2upUmg3drsJAZACVXY3hWjHRvHVBBpeCMhO/X2b9POiFO2XeHQRFeCfNd25tPvw24N1BywkTV9074tRxKCma96uBeLFZOVXzqBzQ5r4CGNXULgc8MMBMdQcpQ6wyjXLDbn8ai9IuDpLeuBSQuiDI3Az+mBlwkYQPJLRjSQ4QJHG6GW4motS5J7x5VLVfKMKhqIvDXiaq5Kk697UX7KuS81QoXB9Umh+PffdBGD8N82IQZULpjeYi7PHmN0Es6vnbQjyIkjDnxuVyVnw/SrqqR11sFwC2p/qL7SzKRA7aCO1glgNa0gAO76ilQD3gojziUnUCDvIsF/miCyWQL3poCTzkix5aG89GEuNM9JIbF0U7FwwfpL2waafVGmZZOul15E+7lU9v8jDmorE4ycL9kzDIhyczlixdEb5fDcXC7QZijBtee6cfI2wn4cOgF6XC6ytV+ejH/kGa7x+IVjGOyviUh4BvCnM+X9CzzGWqS8ph0fKA8LXD3bfUA8Kb85K/ZIjvlk+Lbh5lo4b5STAsw3o/14uZERHVB1EevyKGNZts4Ep6CdMcZsQE0URM4KXEtNUw80GoEtNrdmhiIon5jnlGwlJLbTnAkARYGzLfTc9KeMruXa19c3eS+XdmMv/o+zc3rtU890Ayn+z0pZpvwtE2dqsAHH2uZirl3erPdW6cn4bU6aKIkMq5l66NPh+0CwhCmBIQhFAlIAixlCW9DgJCVGx36kQwWbHrDbExw1aFCTc+WhD6QkKktndiuSGT9R/RgYMQ1C7L30CQomCiKJgoclIKDiJCUeholwJyAIEzBI4qMsIQuL2o6ZWMVHUaG0W2DSpJYoNamNigFiaoTiEOAncQuIPAHQTuInAXgbsI3EXgLgJH5QnxELiHwD0E7iFwH4H7CNxH4D4C9wE4NQE4NQE4NQE4NQE4NRG4hcDROUYtBG4hcAuBEwROEDhB4ASBEwSOWl1KEThqSynqeSnqeSlreb1BmVrMUZQ+KUqfFKVPitInRemT2gjcRuA2ArcRuHa3Wg9ol6tyAIGjvoqipo2ipo26CMNFE0QtGnURuIfAUSdGPQTuIXAPgaNrL+ojcFTUUx+BowKcoeqeoeqemQCcmQCcoVqeWQjcQuCoZGcWAtdewOoBgjAIUkWQKlTVMVTVMVTVMVTVMVTVMZSWGEpLDKUlhtISQ2mJobTEUFpiKC0x261bg7NxECVf1vfDM72C/mxmzHMwB1WZsIsyFr9nzr4pSiDtone11bnCXDNTbV7YTCBVajPFXKJRtAU5D5RpV3kIVT5wSQpyG3fR82XN6FmqTlSVMm/RI6xkVJtPhpI58xa9TktG9QmAoZKXeYteVGtG39R0+touLnxWQMrVZoqhwpr5GgbS6Wg6UUzDdzKN0dd0euoiaJdpzFH/6+F8VGyl/X7Y20wq0ktuvNWLiu4wiOLJ1fdExZmDNOVhLiL60+qi8jA4ZofFQecgD+LweZo/q0idW+LzJAqfPxTcI9yjyd/Zf/Ur5kMJJAAA"><input type="hidden" name="jsf_state_64" id="jsf_state_64" value="H4sIAAAAAAAAANVde3AkR3kfSSvdne6MfT4/8dk3dzK+O2ytdmdmnzLGep1PtnQSetgYkpJHOy3t+GZnRjO9p5XPB8EEcOIk2ICdgsIkISHhldcfhPDKA1IFARPKYCAhFJCQokgCVCAOr1CQ6Z7dnW+lndX27OzdZF3e613Ndn/9fb/++uuvv/76/d/l+ssWd+iVMw/K5+S4Juvr8bnVB1EBjz7+Dy//nSvsk1ovx1VMjuP6yhvcqzjy6q2X+uulPZjbt3JORZsLhoFN07Qt7iCtsoxVLX5atouzstm/5yt/+4lrHni2j+s9xQ1qhqyckgvYsKa5fbhoIbtoaErFfOmdtMYrNveSd1Ks0Pqu8OqbMQqyhl7144MPvD3xk+/0cQPT3N6i00bBUNAMt6dglHVsbWHuStqtEdKtkUVsqfr66Aw3iCoY6bZq6Dahft8Mt5c8UJbXUfXzgF2wVBNXP+05J1uqrLsfK+YvnBfmOPJpP+Z6kU5L9K2CucHTS7MzK+Nji9MTTvMjpqWekwtbpqGpha34gzbpxws8Vs8YDkWP/dvjz7xx6Ou9XM/dXP85WSujSq2z9KEz5dIqsl7//idv3P+WbzxWEwd9eYKo85v+ZNwwNCTrn+WtX/ni23/6PafqV9SqNinlV5n03S06vz3k8XbMsuStGdXGldd8/sa3flJ+uo/rmeZitvoQog1fvxkj7/Wm+5qgoQ/iYs+Kqtxtm0kTu72qxNfkArLjS44cTCqCgarID9RF3oO5A2uGVUDTyrSuoAp97FBPpfH5Hvp8r/u82z+nL7fCRgpGyTR0pOP4yhjGcqGIlEUsY3SfJZsmsibf9607L3xh7u96uV5H7CsFTbZtzB0EsJkgXzmoObSySX/i/twdI40Aq46binnO4m4xrPW4bJL24qUtlxSkxe8lJI6ruuIgcbpkapz3qjjsuXXo/IRRKhn6vIPFcUeAcVSRS6ouYwesC8g0LHxKtUpn5BK64IwJ99WE6e2KRHTavLYJpS0lQ76+ibwd8ZcG+foo/eMx8nYcc0M7uuYwc8LQ11TSurlsaRdG6l3qqFMpCu2RUOknb2I45GW6QB7mbhs6P7s17+BjzdE0Rlwz1teRM3LmkWUb+pKjvrRZRzUS6JbtC+F0JNeVjtza2JFC2bKcwbtsI2uxvOqqZWcsTGwVNNRpP/ZW9VKyS4CZD4k+sSuMPurL6HlHm8VVJSz2dmM8Yu5FvuRPe3gPqwvdGbMn/CUgb5Wc4rxlrKnh4bwbA5a8bbamrzVVgjv6DndElVObwzoFWUjZPumM6XpZxVvzzpyt40mEZVWz42uWUar+4QKZdxdW5cLZdcuxGpU8X7a0Ezbe0tCIuaqjTVq0R9SSM2/ZIyVZ1YdX14dl99dxU18/yVvIRDIervBH1RKZox1bcdSXHXtbs4NMydc1mZLvcqgz/ZjU6zEJcwI0fzbRqjO7xpenJ2p20JK8Hj81tzA7tbAycXp6ZnJlenJxp7G+iPCHJ1/35FN/+UGpj9gmmwdIU9WGYx65Ka+Y8Yo5ryhVWoPp0QaBTe6wEhSHmFVDthQyLvhbbuGPtiHR+otWfjVpjxqtvU14f7iZPEjhqe326oyqn21DAuTtzfSxtzRwrcdjSpqJKTcMnS+T+Q/ZZM0SJ+WZ6vxO0buvziOzxavOih7Kip52RyopvIthjJoORQdc4fDjZUXZcpuvsLD+t2l77wyH2VkmZh8eOn+0Jbd7hrrF5Q8ycZkU/qzK22bMba1nxASt4IkOWOxpATHtFSWvKHjFJJMMphwZREYNfCZELIoiAx/I27srtPX3dAtyXw4MORYWftplIS2GwsYUIxs/7LLxI91i47dCHbmtDSYx4yihY00shNO4pDmT+4JrCFl+xPT5c5qvPnxZvbFUwit6gzzlzfopb7xL3reS96zk1SAlvU54FoKU9b71ipJnTUi5irPmrDqDqkxsX5fc6T95sqmROj4GKD4GWPDxC8b5c+/i1NLS9Jm7Ft2m29XupPDzjvV6n8d50SsCOQtMynzEscGVkqqPyzaqq3MTWSUVY6QsGWMFB7w2feReFW02VdvsQ7LnakaW91MK/JWbr2x/xipbp8PEPW37yta3TxxjU/vnLbTm6ALd4TA7kn4UIpJSHpJSnlmQYjML+F3MgrCgk2Jkc+w00swAyPkJYzt7HMXFz62tMTblsdt1YzwfYGaoSXRfvbK0J8a0p9fTnppIeyJPe9NBGkwdnrZPedNBOlEhMogxK/oHWiv68OzJOrRiFFoxFmgtM4r8ivGppTH+3qmFxem5M3winmFXGnOMTV45tmqUnaWbwwH+XmQRZrI3+jLWBeM9urGp89O2XW6hqnybW2Rs7nJ3L4UfqzYZdESldxlR7Vm1fYqsMCnC1RZrVIrlcMCOuRs2ymrh7KK6ri+bxPth87qhD5eMVVVDHSrZh1zO0WJHM0y/qszhZPVfRynFyL8VOlgxd+OmquBiPp1ImJXRkmytq/owNsz8cFJwvmgYzX20D83cqn7rmp431Nc1PW8IY12TzlZcvu/TDIfS+IP2WtOlCuZuLRiaYeWHTtHXKEYVPCxrjpzylrpexKNrmiHjarnzCfEJ1omKIIafDmBN9bzebYoW223uJbfoq7Y56vf+cOs/k4rIPnjPm320jq/4H/XE/2go4s8xaYGjO3ylRcPG96AtHm3welnTqLvqgIXWVRtbdAu5KZrqfe8MJH/ECJLBuw1V55cMRa55CAO4sTKdu7EGvco8KyTrGS8Zz6TJenZM1rNjMp4llPUWuxnPKMp532ZZ1k6Eq7lmNm0/lU4zSfgZ8z1/3TGfPJxmxEoFAqhOF0fp4toWIyHsoyGuMjKeRZnxRJVh8RY1i8GwkYYKzlq1vlXH66g2wFgWHL6K5EshuhgzmeoccrxQtrFRGqlP/iNmjf4xXda2sFqwW8wwB9yZMymmqhNlZ9rhXxm1wyGP2XVqa2qCBV5/EyLus2zL1UdaWWkPP8wfPXG0pWOEeEPIrp1sqbZRdVa1en7ZXLdkBc0iEi1mF1XzZFN8BhmkHwmTi2w7gjc7XAzk6g/Sz4+FqIyynjLKes7MLMscT95+PRynRu/eELbZydc7QhiaCkeGX54plzwJBZjkc8mOxdLvVeZN3DlvZs95831OoGsJRT3HhNMjrXeum0LUf8nhK8YjXRHj9X6mZMsoQ79h1Htjx/La74kjRwKLq4FaniGVy4CvgRzT4OuUV07AWkA5AapJSKDMusP07mby9d8p8GVdOkRNm8uGZ6f1SmGoxjp7RVBOgDLbDPvKtrYWJmvjsIkbsNumXe9CGKZdnT1Cpbp/2PPN3cy2RBhmW+8vs25s9vxnACut944wUF/nElt0DXIMjP83lljv7aFyii00Jr7LcCNsOmVomrFJTg+E1uVUmJonmQRlAZRZIzPCssse6cKETuq92rO4WJidC5XZcDaGEzYL7sJk9pPdZzaLt7P3aBjbBzWuCgn2qBif4cmwE1JvXQiJt4065xafcw1uZDSYrTGXnlheWJg6s8TPTs2OTy0snp6e5+dnxs7wk3NTi/yZuSV+cXl+fm5hiV86Pb3In5oaW1pemIpTVwn1pltIqTrONbSGoVO94KxikDXqYwfvxhmpYyn3Yu6GsjupzJetQtFRwKcMa35seuE+GReKoK10befjINjt4IXE9t0O9kC43o+FacoIbE65s7tMPTtmXGrrFVHh7Dx5iDpgtv9mVj6Lxpx1HnGMy1qNrzbF0lGTRnubmuxATS2o+vp9Ki6eQjIuW6iV2+w6uPPiiiCfJNzH3BWrZYwNfXjdQkjn5dVCx+rsk6xbu8vzdy2MTU6BEUJMRhf9m0UVo1G/CcMXFX8VKioyTKhIsqKCyvZKEtPtniTKnzNU5UTiZFNhkt49gzm+KjZHOxCh8bZaMjVUMhRZGy5oho06FuNXGcU4MDF2ZmJqhgT4ANH5zj7XQKV0danOjCp3HEVS2h7pTr4jlH3XhyQQKYK56ebHLZenSS3xZoGK05OTU2dWJuZmZ8fOTK5Mn5lfXlpcWZxaag6OoaYk51c0VT+7UlQVBekrFT9w9TuasAxhsKLqBcxda8PDZOQUolVy/3IZrh0ecj8fa/Kk0/4pZxCX1HL1R5evVT9WCWxcd8NXG3s4FBPPUxd+857v6E8r4DSL77zaG3EScIaQSMxaOQWcIRJwpKTAyl0Cz6SALS3C3wKzLwVsbxHWA8xEEdYDnwdeAhKWeKC2cicqGvwJ/JzErl7r4mOHIgAqJ0eFVZfLZVQulzGM377LGMfvkHugmzfWeJM6SG1edSYETePrOzTsMTB9+7viGRxpekaNnBCsrfQcZXuBP1GSK2qpXDoZxF/YN9DxogOYWyJAtAgQLQIkihBxAN0SQJzEak6XwnHx9t3WFUP67kZB6o5xO4POIa162JPEDIjEaGrrUKWjJunHeoAY5u5wpyKeGNH8mqHjYZIwIM8nRcf4cXCukCPvzkdiC9E/byJiI/F5ftXQFCbTmjDpxZeKSVLbTCJkjtL321l7N3KpepcO2juWZW/fC7rSvZt3757ghsRMuJ3iyV+czyNV6A7lZFlKJhrhm9oJ313V2+EmLKAdj/nkWyCxdY452+Z0n6/Pv8wM7KPP0KUfOwOdxbZwAXN7FdWWV7VtR213+/E65pPVqML91d7xZ4zN+sJpRF3jTxwtuAbWjqP+J5InyTFbZ/Wl82uyZqPRbeuuY9XlLlm555PZRiWTpyqGmFWfbfgZC2YHu4LZe9rUykfbHpM0wrjv3uAY3UMr+KUAcMyEC8eNofMnQpqyTpJ4i92wLV4gHV9lRbV4obr10YfaBbPQEsykqvWOwNrLct4oVLBKFxmsB4OCNZW4+GBt03RoC6xSMLBK7GAVWTSvkAhf8/ZfKjCnLzKY+wKDWQyXNxu7GwJpAtJdEd+mOXmSHZUSCyrF4Kjc54fKy2uexJrn6zT1NLS3hm3reFPjQvxY04X4Yi1+weF5jYncVe4/R/z65J1YusEPilc6vbu+iaE6Tn2hjJ10Hz92zuKON8+KNotw0VD80qLVKeul2RkgFxpGxAXT7+UsVx2b1dTkrbxu6AArzVYtdAL9IfXTNB+GDQ5CVtfbNZ6DIQMcFRngnMgAp0UWuNIywFGRBeUMcGZkYRnUmQbutjTwkaVBPWnQVhr+FtSZgmX4W+Cey4K2sqCtLHCuZBPtet18nUbPhrlTnQKySEE3KMuGxIZfvD77nkDfN7rizTveOucX8aU25hZkiR3o+0KYsSlpllAwMmRvZow38WX9Z1hjnvpeyG7UfLY7kQh9xwI5YD8XpgM2A3RBBuiCDBj/GajXoD4C4zDNGiUSkgM21h331Mxu+faog+oieBdjYe0UBOhf+y7mDvrXHVdNW/0L7B1m0lCf6kIHSb1LIS1kPlFbyAy3YUHl6yZQmCtyQoC8sW2JTD4r25capNwYzbHRsQOm7+NdkpARkoS+HERC2VB9JoSArWYSOt9MQg+HLaEvdklCvxqShJ4LJCF2R8AuEvqtZhJ6vJmEntghoTd1JiGW6CYWCb0tJAn9fSAJpcPuzh80E8a7dgjjD3cKw3f1+z9k9evTK5/AmXbXwSAup74WhOvdXD1mA/p8aNp07ylyWutavGWiFYcs1VhZM6yVWgRO47rS3/obaCJgP2dPbNMnKesCad4PoG2k0+nF3AHaj5Kh46K2hbn99OMWki1tqyERTlWOjc6d2gtzL2riKaNcO4GLqh2nqfFPjjb+Jr5qWAqyhguGpsmmjfK8jUzZkjEarf7Fdrrr7nuikvfjOnf9g0gHGvn32tqvdl1OkdwW99Pe8yfuQphPCjzljc07QuZxEfGmpRYQiZ1JJo+exNxectRQ1rSt5uN4GyGPtEmI3wB05KViVJpstgN6+45DdK2SlxNr8XiN9uNkxY25PbM1GOypAsJnlPqavjiMUOPLt4Uag4GXBJFtbcDAT3fGnnajRjH3EiYtk99GWSiehhz1RdVF2fchz+FIPvonjcTcjdUIXxoXAN8k4nH2NG4HnqAYa16NPdUgXxq/+kU/Pe8Xzxt7R00yGTbJ1BESjkzqJ916v9GU9+Qvz5C3f+mYwR9i9ff0fpu+/zvlbTPm+s4jZToVv69rmwR84xrV3j4ZNN8i8LUDfkxnluY42BbxyuoHByGo8ChvDtgCOeBfhud6wYlgIZkFZef7q2pkwY0R8IgEyilQToNyBpQToAzcVzlYjwDKjmFypEbC6V1CTwVwKFlIgI4kMp2GpMY+dxF8mLFI+TBjne8H7AEiAEJNJEEZACIBQJMAYALnyIUE67HCsHyYP+zS4infkWfuf7tE1WRHVLHk4WShaqYjL18srC2gLnn5Yl+vrX9H2poh8nWtd2n8fJjLtwwpAIc6dok23OjY+xT7SrT9g7GvBpNtUrg0HkIW2XY7+C4Wcc9i7EsBZZu6NL5FFtm2jlXb6NgnGfvHaPskY58PKNts172SLGJsHdy10dybybIOe67L67Abh87XOkMWILaXZybcOK3Y12hHPhAsIGuj0dlBLxpqJLvqbjljbPoHV5FaPlr/5LuW/BGBQLZtn8K2I5YB3MuDnoPYs8fJfVXHfPzLoEnwA2D8C4luOJf7NwgLY6/uxI1MKniEvL2WxWec8PMZw7Ho5z4mrb2u/qmrLmHy+GPk7Teaj5OQfbykjjc1qrPYWyouGU+St6d8cO43a/SH4JUl7T4NoCiG7Yg9HXRodsMnKwhCK59s/9lW2ij23o0wHK/9b2P1ocT+PJjPtf+JmhDGAwuhjotw2C9dNPdr/3svmvu13+7ytH9sx7TfpgOWPd+OIGS7433jTrTyvu1CVPVWuQ4TGu2ll2y6CTh36LgACPtUa6L8J9hervrwV70upoB7GERDCyAaWgDJEwSQGEEACRCEFPAkguhjAUQfCyCqWgBR2AKI2hbS8HlAG4jyFtKgXRDlLYCocAFEXgogglMAUZsCiEAXQASnAKI8BRDNKWRgnYBOEO0ugOh1CTjEJeBRlRLwmQwoZ0E5CcoCKIugLIEy6COITBdAxLqQhc+A/oIIdwFE3AsgKl8AUQ0CiMQXsoAnOVB/DtCQAzTkQFtgd0SAuyBgd0QAuykC3KYAuykieF5s+F4CZRGUc6CcBWWvLRHwSgT8FAEGRIABEWBABBgQAcZEgDERYEwEGBMBPkXATzEHvwfPZyHNoF0gFxHITgSyFrOwHkAnwIYIxrUIxrsI9IAE9IYIEqpIQLeIQIdIQCeIQM+IoB4J1C+CeiRQvwjqkVKQZjDuQP0S6IsE+wJ0iwh0iAj0lZiGz4N+Af0jAt0lpiFOQD0gCYwIksOIIIGMCBLOiCL8LagTpPkQQfoPEaQFEUG6EBEktxFBAhxRAu1KoC2QOkSUYD2ABpDoRgSJcUSwLSkmQf1gW1IC248i2LqUwBalCHZDxSSsH8gXfC811A+fgfUADADaJLDtKYKyBGgTAc0S7KMAaBMATwTQLwH0S4C/BfwUAJ7B91LD97AtwFsB0A8W+VJDW6Dv4LcSwKQE8CaJ8BnAE4A9CWBVAtiTACYlgFsJYFIAzwjgt0LDM2BeAHQKgB4B0CkAegRIJ8Q2mJdFMOeKYC4W4RwNxw6cx+HYgXMxyNokwvkajik4p8PxBed9OKbA/C5JkDZID+BVQxnwFrQlAHoEQLMAeCWA+gXQrgD6LkjSdjcN5o64iZtzNHKIB7knHyzbWF3bwtzhkqooGiKGMV+k51iH1wzL+d/AyIImsklNZBa/9sCvMQYZHZl3VqkkbSKv6g4RJXq7EE8CCambkyTVvIH2QUEFw717KM+XycW0mqqjUYcV9DguOYfLsNAglD4WmWUPoeY3I0XN6xmleOOyjWyahqyJNOOksoEPkLe/YKTj0UhxheXy+u5Tw+buwNz19xtlq3GUFQ2VBB8Hl8+7I8WR32fkyDXTJZInT9ZxSHB9JyMB+xZRoWypeCt4m/0sm8Q0detpY5PHhqNidSwXMF9uQ/6+/sbnXH8jLYbiL0ztFubU6CdLlWRVw0Z+R8A0qsglVafydG/oXCyb5J9Z53mYT77ZqwMP0cDPuzAgaL78QP1j2lv4QldIH92d9FOqVaKHxfl5Sz0nF7b4eUNTC1vxqosz2Lh4NkqqqT+s7f5wqPmnSFHztUhRwxIsR/Tp1XUDdjqMOaQ/rICucLjBklG6+9R8M1LUfDtS1HyLEbeXLYDrXDvA63cixYX/YOTCVbX7H8IZvGEFAIfDjB8zMuPgBL3oE1n8IrLOOUuDDjjx00hx4meRoobFSCRy2TthGGfVjhZqPVFiwEBfpKjZFylq9kSKmrBSJoZDzTsiRQ1LWE/3qXkqUtS8KVLUPB4pahRG9X/gPrTKO0vngqF3MgWsR4oJ90WKmvsjRQ3LXZndp2YrUtScYxw8t88Y6zyx8O3b+Ol5XlYUC9lks0LWlQZnuLxqlDG/RXzk5OqhMkZWB4PNiBTTtEhRsxEpak53xe358glHWZObIbDBs3lADXLTsKqvwxUpP0bBeb9R7sgnOjAVKc7fFSlq7okUNbORouZljEr3jgUSVGAT8Ls3Z9/GTxiWhQqYqt0pTaX4Rz4YD7wfNbBQ348aWAhjP0qUBIb9KOdtT0/3Npf2vrQ7oNgzGGjDaGCeNd5+4NPBVddcpAbEvZGiZilS1JyMFDVh3YEWDjWJS7/HSp4s62qB/tHuzJ4QI8XcTKSouSNS1NweKWpYJjJiTxxyNybUh5Di4FcnN112sDYbjxQvDjPy4vhiUba2rw82VVzkl4qqpfDzsoU72yt4YaT4c12kqLkmUtRcFSlqDkWKmpu7MtVqS8jGqjPVqrLm+pDGlHPIGXE2KlUvgiw4SgoXLaO8XmRa+k+qZIE0ptj13deO5uZbIiUNPlLUHIsUNTcxzgA3NZpwZJVt4CKyeJIethPFH9Z1FeGw5UCkqDnIGmY7g9ZlzRnUdkGT1VJngrk8Sqzo/wFrmDVlgmGXLeSBtQN29D8fKXZ8L1LU/FegUwHQlpzo9FRA/3ejxJGBV0SKGhQpaoqRouaBSFGzGilqHooUNThS1FiscY5U582taup61QsWfGo+HylOXIgUNa+OFDWviRQ1r40UNW8NfnIulMDpgScjxY7fjRQ1T0eKmt9j3vX7fnBY5CPVdSlS1EQnbRehZphRg1zhnTVwTy42giRAIjMpnaQ0dJgzrF7bbjv/jZc6Ht7h6qteFD2m2O6dPKNrmiHjPLlHfBRkZeALSMfIGq1eM44NM59MkNQNbhoH3vnwIpovkzYX5CpazA1UUztQ9jhv+57tiEUvUOpeDZIykC25GkHLvueoZtjnd2a4x6/xfiCfDOYGVXvGWF9HyrQO/uDlykjB3B1pqd2kq9uI/RoxGeEF7XdZRtk3MygjylJMKBvfgTLZNGkiR3KjmLlsafQ2qCLGZn5kZHNzM27KZLdstawoW/GCUaL3QwWHEmHHVzoeZTGv/yC5lgSSOEkgGZeUcQVHgjkbBokzRqq3i9HPZoW3DU1V+KGpNPlvtGBohpXnh3Lj5L/GMRSjHY+x9PsHHfe7F/QVJObJJAJcDY65y2s30as6TYXS5vjz7V93jq5LE4a5ZZFwsJ2bIdVbzcgtbRf4eQrUcQrUQPFI+/47TPWfYVH/G9VbwzF3A1Dypqwoqr5O0ZlywNqhgAYPhtq/pnl/A1DFsn/dPmwyH3/PLnjZ8deiYWOQ+oAJOs93zNr9gLVgbGdhGUxGIBmgBJIBSlmoA0GCKZAkUIKJLkHiQSmTCaRHDruQpWO0NWYHKToGWdDBYjITYvr4h3lf49Mv7HMw7YZ9Yu66RsskX+dMOGMmW3GpvNV0QGePyLWtX3KOYHjbd2RdHH/QbrwQeturk3HHErdOc83UN6rZVesgSxQdNe0G72SXYnwXKfreGs0mxWyyKsWbqsljbHcBcuc2U6lbgmM53UOvYZxwM/UEEBtLuGFgsY3sJrZQMolLWakqtsPEFHeTYecNE+lLY7oyMW+YZfNE48UCYQqN1cXcv4Sskh1AZCwhlYFFltpNZH53SzOKLFMV2UHTTexjunl9uqgV38A6uKophwJIKnkxJDW8m6T87kBjk5R7cy2VlDuLkbMYy3Y3JfV2Rkntdc+HLNcGFZN99/2O7TvgeQCJqyWQuFoCCbAlkABbygVZShAW5Rp43E953KyLvuj5Uxc94awYcmIVIy/cNm+q5rAi28VuzpnMN+sOBrFy/uRijOg/DlUm6apMjvtOinNrk45wVg3ZUro4Pz7DOJqvovMjDaB0zBtFpduwAUT2/oshsveFKrJc7UaUwUe7JQ22HGbkF2+sadVm3G9Dwf4zbXGkPRYFuBDlxTuW+2UbWYvkqKzhlnkd8XpZc7Mfuj5q6h3jdUOv3fvmdO//ABrYhPOn4gAA"><input type="hidden" name="jsf_viewid" id="jsf_viewid" value="/privacypolicy.jsp"></form>
+//--></script><input type="hidden" name="jsf_tree_64" id="jsf_tree_64" value="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"><input type="hidden" name="jsf_state_64" id="jsf_state_64" value="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"><input type="hidden" name="jsf_viewid" id="jsf_viewid" value="/privacypolicy.jsp"></form>
 
 
 
@@ -1055,7 +1457,7 @@ clear_membershipUpgradeForm();
 
 	
 	
-	
+
 	     
 	
 					
@@ -1080,7 +1482,9 @@ clear_membershipUpgradeForm();
 			
 		
 	
-
+	
+		
+	
 
 
 
@@ -1098,7 +1502,7 @@ clear_membershipUpgradeForm();
 					
 				
 				
-				<!-- Confirm Follow Overlay Ends -->	
+				<!-- Confirm Follow Overlay Ends -->
 
 
 	
@@ -1317,7 +1721,7 @@ Personal information you provide will be secured with industry standard protocol
 <br>
 If you have any questions or comments please email us at 
 					
-				<a id="_idJsp252" name="_idJsp252" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a> 
+				<a id="_idJsp266" name="_idJsp266" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a> 
 
 </p><br>
 
@@ -1433,7 +1837,7 @@ You have a right to access, modify, correct and eliminate the data about you whi
 <br>
 We take your rights seriously and encourage you to use them if you deem this to be appropriate. You may exercise these rights by emailing us at 
 					
-				<a id="_idJsp341" name="_idJsp341" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a> 
+				<a id="_idJsp355" name="_idJsp355" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a> 
 </p><br>
 	
 <p style="line-height: 2;"><span style="text-decoration: underline;" class="font-bold">Uses of personal information.</span>					
@@ -1447,7 +1851,7 @@ PatentBuddy is an online service dedicated to helping all types of professionals
 <br>
 PatentBuddy will communicate with you through email and notices posted on the PatentBuddy website or through other means available through the service, including text and other forms of messaging. If we send any communications to you via the carrier service with which you have a mobile communications subscription or otherwise have access, you understand you will pay any service fees associated with any such access. These include welcome email which help inform new Users about various features of the service. Please be aware that you will always receive certain emails from PatentBuddy related to the proper functioning of your account, such as email notices when another User in your network sends you an opportunity. PatentBuddy may send you promotional information. You can change your e-mail and contact preferences at any time by logging into your 'Preferences Page' and amending your email notification choices. If you wish, you can also opt-out of receiving promotional emails, by sending a request to 
 					
-				<a id="_idJsp365" name="_idJsp365" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a>.
+				<a id="_idJsp379" name="_idJsp379" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a>.
 <br>
 
 </p><br>
@@ -1505,9 +1909,9 @@ You can review the personal information you provided us and make any desired cha
 <b>Closing Your Account</b><br>
 You can also close your account on PatentBuddy website. If you close your PatentBuddy account, your name will still show up from our publicly viewable database. We may retain certain data contributed by you if we believe it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally identifiable data, account recovery, or if required by law. To request that we close your account  from the PatentBuddy website, please send your request to 
 					
-				<a id="_idJsp421" name="_idJsp421" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a>. Please send your request using an email account that you have registered with PatentBuddy under your name. You will receive a response to requests sent to 
+				<a id="_idJsp435" name="_idJsp435" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a>. Please send your request using an email account that you have registered with PatentBuddy under your name. You will receive a response to requests sent to 
 					
-				<a id="_idJsp425" name="_idJsp425" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a> within few business days of its receipt. For more details please visit PatentBuddy's Policy and Procedure For Error Correction and Name Removal Requests 
+				<a id="_idJsp439" name="_idJsp439" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a> within few business days of its receipt. For more details please visit PatentBuddy's Policy and Procedure For Error Correction and Name Removal Requests 
 <br>
 
 </p><br>
@@ -1553,7 +1957,7 @@ In order to secure your personal information, access to your data on PatentBuddy
 <br>
 You can also contact us at 
 					
-				<a id="_idJsp459" name="_idJsp459" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a> 
+				<a id="_idJsp473" name="_idJsp473" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a> 
 <br>
 
 </p><br>
@@ -1600,7 +2004,7 @@ You can also contact us at
                 	}
                 </script>
 	Copyright 2015 PatentBuddy.</div><div style="float:right;padding-top:5px;">
-		<a target="_blank" href="help-function.html">Help</a> | <a id="disclaimer_inc:_idJsp477" name="disclaimer_inc:_idJsp477" href="pages/advertiseinfo-pages/advertiseInfo.jsf;jsessionid=23D6FEDAA38D78DFC51FBDA7BC9FEF3F">Advertise</a> | <a id="disclaimer_inc:_idJsp480" name="disclaimer_inc:_idJsp480" href="mailto:support@patentbuddy.com">Contact</a> | <a id="disclaimer_inc:_idJsp483" name="disclaimer_inc:_idJsp483" href="javascript:openTAndCPopup();">Terms</a> | <a id="disclaimer_inc:_idJsp486" name="disclaimer_inc:_idJsp486" href="privacypolicy.jsf;jsessionid=23D6FEDAA38D78DFC51FBDA7BC9FEF3F">Privacy</a> | <a id="disclaimer_inc:_idJsp489" name="disclaimer_inc:_idJsp489" href="pages/aboutUs.jsf;jsessionid=23D6FEDAA38D78DFC51FBDA7BC9FEF3F">About Us</a></div></div><span id="isLoggedIn" style="display: none;">false</span></div>
+		<a target="_blank" href="help-function.html">Help</a> | <a id="disclaimer_inc:_idJsp491" name="disclaimer_inc:_idJsp491" href="pages/advertiseinfo-pages/advertiseInfo.jsf;jsessionid=945F6C47210AD0A54538E2590DC3FF48">Advertise</a> | <a id="disclaimer_inc:_idJsp494" name="disclaimer_inc:_idJsp494" href="mailto:support@patentbuddy.com">Contact</a> | <a id="disclaimer_inc:_idJsp497" name="disclaimer_inc:_idJsp497" href="javascript:openTAndCPopup();">Terms</a> | <a id="disclaimer_inc:_idJsp500" name="disclaimer_inc:_idJsp500" href="privacypolicy.jsf;jsessionid=945F6C47210AD0A54538E2590DC3FF48">Privacy</a> | <a id="disclaimer_inc:_idJsp503" name="disclaimer_inc:_idJsp503" href="pages/aboutUs.jsf;jsessionid=945F6C47210AD0A54538E2590DC3FF48">About Us</a></div></div><span id="isLoggedIn" style="display: none;">false</span></div>
 
 
 
