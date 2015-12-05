@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the mycollegeoptions.org privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220050859id_/http%3A//www.mycollegeoptions.org/Core/SiteContent/Students/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycollegeoptions.org privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205132413id_/http%3A//www.mycollegeoptions.org/Core/SiteContent/Students/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # My College Options - PrivacyPolicy
 
-Dear Student: The most important benefit of participating in this voluntary survey and research project is the information you and your family will receive from colleges and universities. In some cases, you and your family may also receive information about educational products & services such as student loans and financial aid, college admissions and tutorial services, extra-curricular enrichment and recognition programs, career, employment and military opportunities, and camps from non-profit organizations, companies offering educational products & services, and government agencies. My College Options is a service operated by the National Research Center for College & University Admissions™(NRCCUA®). The term "My College Options" or the acronym "MCO" also mean National Research Center for College and University Admissions or NRCCUA. NRCCUA does not share your information with commercial marketers offering to sell you non-education-related products and services.
+Dear Student: The most important benefit of participating in this voluntary survey and research project is the information you and your family will receive from colleges and universities. In some cases, you and your family may also receive information about educational products & services such as student loans and financial aid, college admissions and tutorial services, extra-curricular enrichment and recognition programs, career, employment and military opportunities, and camps from non-profit organizations, companies offering educational products & services, and government agencies. My College Options is a program operated by the National Research Center for College & University Admissions™(NRCCUA®). The term "My College Options" or the acronym "MCO" also mean National Research Center for College and University Admissions or NRCCUA. NRCCUA does not share your information with commercial marketers offering to sell you non-education-related products and services.
 
 NRCCUA protects the privacy of student email addresses. We require all messages sent to the student from our database, whether on behalf of NRCCUA or its members and approved organizations, meet the established guidelines of permission-based email messaging. We do not distribute this data without provisions that allow the student to opt out. A student may choose to opt out of NRCCUA at any time by sending an email to [mrc@nrccua.org](mailto:mrc@nrccua.org) indicating the desire to be removed from future emails or mailings, or both.
 
 **Commitment to Student Privacy**  
-For 40 years, the National Research Center for College & University Admissions (NRCCUA) has built educational bridges between college-bound high school students and colleges and universities. Our mission is to create _a brighter future through a unique process that captures and shares educational and career aspirations, with integrity… **one dream at a time!**_
+For over 40 years, the National Research Center for College & University Admissions (NRCCUA) has built educational bridges between college-bound high school students and colleges and universities. Our mission is to create _a brighter future through a unique process that captures and shares educational and career aspirations, with integrity… **one dream at a time!**_
 
-NRCCUA is a non-profit organization devoted to helping students receive the information needed to assist them in selecting a college education or career path that is tailored to their interests. Through NRCCUA’s Post-Secondary Planning Survey®, nearly 5.5 million current high school students have an opportunity to identify their college and career preferences. This information is then shared with 2,000 colleges and universities. In addition, students benefit from information about financial aid and other educational organizations. Currently, 55,000 educators at 22,000 high schools have administered the survey to their students.
+NRCCUA is a non-profit organization devoted to helping students receive the information needed to assist them in selecting a college education or career path that is tailored to their interests. Through NRCCUA’s Post-Secondary Planning Survey®, nearly 5.2 million current high school students have an opportunity to identify their college and career preferences. This information is then shared with 2,000 colleges and universities. In addition, students benefit from information about financial aid and other educational organizations. Currently, 55,000 educators at 22,000 high schools have administered the survey to their students.
 
 **Privacy Protection**  
 As a holder of student information, we recognize our responsibility to protect student privacy. We have worked to promote adoption of standards within the educational community, and to inform the public about privacy issues. Working with our advisory council of education leaders, NRCCUA developed principles (see below) to protect student privacy that guide NRCCUA’s data collection and dissemination efforts. These principles are designed to assist NRCCUA in determining appropriate uses of information collected from students for educational purposes consistent with The Elementary and Secondary Education Act (ESEA), and other applicable law.
@@ -41,16 +41,16 @@ Advisory Council Members
 Mr. Reggie Felton  
 Director, Federal Relations  
 National School Boards Association |    |  Delia Pompa  
-Director of Education  
+Senior Vice President, Programs  
 National Council of La Raza  
 ---|---|---  
 Jill Cook  
-Director of Programs  
+Assistant Director  
 American School Counselor Association |    |  Harley Frankel  
 Director  
 College Match  
 Ms. Joyce Smith  
-Executive Director  
+Chief Executive Officer  
 National Association for College Admission Counseling |    |  Dr. Nicole Francis  
 Program Manager  
 NASA Research & Education Support Services (NRESS) Smart Global Solutions, LLC (JV)  
@@ -65,6 +65,8 @@ For visitors to our websites who are presented with a questionnaire, we may plac
 
 We do not intend to collect non-public personal information from children under 13 years of age. If we learn that we have collected this information from a child under the age of 13, we will promptly take all reasonable steps to delete the data from our system.
 
+We may use certain third party remarketing partners, including Google AdWords Remarketing, to advertise NRCCUA or its customers across the Internet. Remarketing allows the display of relevant ads tailored to you based on which page(s) of an NRCCUA website you have viewed by placing a third party tracing cookie on your machine. The cookie is used to indicate that you visited a certain page, therefore you may be interested in ads related to that page. This allows us to tailor NRCCUA and its customers’ marketing to better suit your needs and only display ads that are relevant to you. If you wish to opt-out of the use of cookies by third party partners please visit <http://www.networkadvertising.org/choices/>.
+
 From time to time, you may access our sites through a co-branded page of one of our marketing partners. We will try to show clearly, by placing our marketing partner's name or logo in a prominent place or otherwise, whether a page is co-branded. If you provide your information on a co-branded page, your registration information may be shared with our marketing partner. It is important to remember that, if you link to a third-party site from any of our websites, that party's privacy policy and its terms and conditions of use apply to you. We encourage you to learn about each third party's privacy policy before giving personal information to them.
 
 If you give us non-public personal information, unless prohibited by law, you may request that the non-public personal information be removed from our system by contacting us at the address indicated at the end of this policy. If you register information on our websites, you also have the right, upon reasonable notice, to view that information and correct it if necessary.
@@ -75,7 +77,7 @@ Contact Us
 
 If you have any questions or comments about this policy, please email The National Research Center for College & University Admissions at [studentprivacy@nrccua.org](mailto:studentprivacy@nrccua.org) or contact us at 816-525-2201 or write to:
 
-My College Options
+my **College** Options®
 
 c/o NRCCUA
 
