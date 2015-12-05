@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the outerspace-software.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520154355id_/http%3A//www.outerspace-software.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outerspace-software.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205111717id_/http%3A//www.outerspace-software.com/privacy) for the most accurate reproduction.*
 
-# Outerspace Software - 3D Visual Effects Software - Privacy Policy
+# Privacy policy | Outerspace Software
 
 ### Cookies
 
-Cookies are used by our gallery to store your login information. This can be turned off by unmarking the **Remember me** checkbox on the login page.
+Cookies are used by our community to store your login information. This can be turned off by unmarking the **Remember me** checkbox on the login page.
 
-### Your gallery nickname
+### Your community nickname
 
 Visitors and registered users can only see your nickname.
 
 Your real name, e-mail address and other personal information is NOT visible.
 
-### Your gallery posts
+### Your community posts
 
-At any time you can delete your own gallery articles and comments. When doing this they are HARD DELETED from the database.
+At any time you can delete your own community articles and comments. When doing this they are HARD DELETED from the database.
 
 ### Online orders
 
