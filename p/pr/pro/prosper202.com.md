@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prosper202.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314225922id_/http%3A//prosper.tracking202.com/apps/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosper202.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205104151id_/http%3A//prosper.tracking202.com/apps/about/privacy.php) for the most accurate reproduction.*
 
-# Prosper202 Self Hosted Apps
+# About Prosper202 Affiliate Tracking Software
 
 **Website Visitors**
 
