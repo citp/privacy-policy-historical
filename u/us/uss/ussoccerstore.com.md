@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ussoccerstore.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607210030id_/http%3A//www.ussoccerstore.com/safety-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ussoccerstore.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206001847id_/http%3A//www.ussoccerstore.com/safety-privacy.html) for the most accurate reproduction.*
 
 # The Official Store of U.S. Soccer - 2015 USA Jerseys, USA Apparel, USA T-Shirts, Equipment, Headwear and more
 
@@ -33,5 +33,5 @@ We may collect your telephone number when you (i) request that we contact you by
 We hope this Security and Privacy Policy statement answers your questions about how we handle the personal information you provide us.   
 top
 
-If you have any questions, please do not hesitate to contact us by email ([info@USSoccerStore.com](mailto:info@USSoccerStore.com)), or [click here](https://web.archive.org/web/20150607210030id_/http%3A//www.ussoccerstore.com/onlineinfo-contact.html) to contact us.   
+If you have any questions, please do not hesitate to contact us by email ([info@USSoccerStore.com](mailto:info@USSoccerStore.com)), or [click here](https://web.archive.org/web/20151206001847id_/http%3A//www.ussoccerstore.com/onlineinfo-contact.html) to contact us.   
 top
