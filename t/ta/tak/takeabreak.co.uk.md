@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the takeabreak.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607180229id_/http%3A//www.takeabreak.co.uk/bauer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takeabreak.co.uk privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205225609id_/http%3A//takeabreak.co.uk/bauer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Take a Break Magazine
 
@@ -37,7 +37,7 @@ You can control whether you send your personal data to us. You have a right to r
 
 The Data Protection Act 1998 applies to our use of your data. You can find out more about the Data Protection Act 1998 here [This is a link to the relevant pages of the Web Site of the Information Commissioner's Office]. Click here for more information.
 
-### [2\. FULL POLICY](https://web.archive.org/web/20150607180229id_/http%3A//www.takeabreak.co.uk/bauer/full)
+### [2\. FULL POLICY](https://web.archive.org/web/20151205225609id_/http%3A//takeabreak.co.uk/bauer/full)
 
 ##### a) This Policy
 
@@ -55,15 +55,13 @@ H Bauer Publishing ( **company number 2147090** ) whose registered office is at 
 
 The type of personally identifiable information that may be collected includes, but is not limited to: your name, address, e-mail address and telephone number. You may also be asked to provide additional (non-mandatory) pieces of information for our research purposes or choose to provide information by making a posting on a forum.
 
-In addition, we may collect anonymous information about your use of this Web Site using cookies, pixel tags and similar functionality. As part of our Google Analytics tracking we have implemented Google Analytics Demographics and Interest Reporting, allowing us to collect information on the age, gender and interests of our users. Such information will not be personally identifiable to you – you may however opt out of allowing our cookies to collect information about you. For further information please go to the 'Your choices' section below.
+We may collect anonymous information about your use of this Web Site using cookies, pixel tags and similar functionality.
 
 ##### c) Uses of your Data
 
 Some H Bauer Publishing Web Sites offer services that require you to set up an account prior to receiving such services. To create a secure account you are required to use your email address and a password.
 
 H Bauer Publishing will use the personal information you provide to us to process your orders and requests. We may also use this information to communicate with you directly, for example to notify you in the event you have won a competition or to contact you in relation to an account you hold with us.
-
-We will use the anonymous information we collect about you to analyse web usage, to compile reports and to better understand our users. We will use this non-personally identifiable information for advertising and marketing purposes and to enable us to provide a more relevant internet experience. For details on how to opt out of allowing our cookies to collect anonymous information about you please go to the 'Your choices' section below.
 
 If you send in a comment, we may post it on our site or use it as a testimonial without mentioning your full name or publishing any information that would identify you. Furthermore in some circumstances we may display some of your information such as your username and age. Others may be able to see your personal data if you post any information on bulletin boards or forums and this may be used to send you unsolicited communications over which we have no control.
 
