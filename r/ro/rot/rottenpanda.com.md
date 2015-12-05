@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rottenpanda.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074358id_/http%3A//rottenpanda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rottenpanda.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205232530id_/http%3A//rottenpanda.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,13 +46,13 @@ This privacy policy only applies to information collected by Rottenpanda.com. T
 
 **Third Party Vendors**
 
-We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: <http://www.google.com/privacypolicy.html>.
+We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: [http://www.google.com/privacypolicy.html](http://www.google.com/privacypolicy.html/).
 
 We log users' access of the site for security purposes only.
 
 Our advertisers may also send you cookies.
 
-We publish Google Adsense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour across the web using cookies. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: <http://www.google.com/ads/preferences/>. You can opt-out of the Adsense partner network cookie at: <http://www.google.com/privacy_ads.html>. However, this opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: <http://www.google.com/ads/preferences/plugin>.
+We publish Google Adsense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour across the web using cookies. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: <http://www.google.com/ads/preferences/>. You can opt-out of the Adsense partner network cookie at: [http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html/). However, this opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: [http://www.google.com/ads/preferences/plugin](http://www.google.com/ads/preferences/plugin/).
 
 Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
 
