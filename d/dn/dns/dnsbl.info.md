@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dnsbl.info privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407072458id_/http%3A//www.dnsbl.info/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnsbl.info privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205183258id_/http%3A//www.dnsbl.info/privacy-policy.php) for the most accurate reproduction.*
 
 # DNSBL Information - Privacy Policy
-
-**Privacy Policy**
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on every page of our site. 
 
