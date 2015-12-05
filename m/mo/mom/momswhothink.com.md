@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momswhothink.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510140407id_/http%3A//www.momswhothink.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momswhothink.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205140523id_/http%3A//www.momswhothink.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,9 +40,15 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
  **Advertising**
 
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, one of which is http://www.gourmetads.com. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website.These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
 
- **Links to other websites**
+This website uses PageFair advertising, which means that certain acceptable ads may be shown to you,even if you use a blocking app or extension. We have taken this step to protect our ability to continue to fund the operation of this website.
+
+We know that most people install blocks because of websites with annoying advertising that makes it hard for you to access content. We are trying hard to ensure that we don’t fall in this category.
+
+If you still object to these non-intrusive ads, you can choose to opt out of receiving them by clicking on the options in the top right-hand corner of any PageFair ad on this site. We only ask (assuming you enjoy this website) that you consider your decision carefully.
+
+**Links to other websites**
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
