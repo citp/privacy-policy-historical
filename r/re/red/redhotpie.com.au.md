@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the redhotpie.com.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607133938id_/http%3A//redhotpie.com.au/Terms/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redhotpie.com.au privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205140945id_/http%3A//www.redhotpie.com.au/Terms/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Online dating privacy policy on RedHotPie
+
+## Email Address and Consent
+
+Please ensure that your address is valid and able to accept mail. Your address will never be passed on to third parties.
+
+By joining RedHotPie you consent to RedHotPie emailing you. If you do not wish to receive emails, you can 'opt-out' of any or all of them by updating your preferences in ‘Email Notifications’.
+
+Add RedHotPie to your safe senders list ([click here](https://web.archive.org/MemberProfile/RecommendedEmailSettings.aspx) for instructions)
 
 ## Our Commitment To Privacy
 
@@ -35,7 +43,7 @@ redhotpie.com.au will not send you any messages that you have not requested. To 
 1\. All messages sent to you from RedHotPie contain an opt-out option or a link to the unsubscribe function.   
 2\. You can unsubscribe by logging into your account via Manage Account / Profile screen.   
 3\. You can at any time access the unsubscribe system to stop all messages send to an email address ([located here](https://web.archive.org/unsubscribe.aspx)).   
-4\. You can send an email, via our help system, telling us you wish to stop all messages ([located here](https://web.archive.org/web/20150607133938id_/http%3A//redhotpie.com.au/Support/SubmitTicket.aspx) or [help@redhotpie.com.au](mailto:help@redhotpie.com.au)). 
+4\. You can send an email, via our help system, telling us you wish to stop all messages ([located here](https://web.archive.org/web/20151205140945id_/http%3A//www.redhotpie.com.au/Support/SubmitTicket.aspx) or [help@redhotpie.com.au](mailto:help@redhotpie.com.au)). 
 
 ## Our Commitment To Data Security
 
