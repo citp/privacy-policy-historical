@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the whatsupcams.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415094945id_/http%3A//www.whatsupcams.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsupcams.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205140939id_/http%3A//www.whatsupcams.com/privacy-policy) for the most accurate reproduction.*
 
 # What's Up Cams - Privacy Policy
 
-## Privacy Policy
-
-* * *
-
-Last modified: July 14, 2014. 
-
-* * *
+**Last modified: July 14, 2014.**
 
 This privacy policy sets out how we deal with any personal data we collect from you while you are using our website or we are providing or discussing our services with you. It applies to S3MEA d.o.o., Mednarodni prehod 6, SI-5290 Šempeter pri Gorici, Slovenia. 
 
