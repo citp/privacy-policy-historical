@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saxontheweb.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607034957id_/http%3A//www.saxontheweb.net/Resources/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saxontheweb.net privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205141157id_/http%3A//www.saxontheweb.net/Resources/privacy.html) for the most accurate reproduction.*
 
 # Sax on the Web > Privacy Policy
 
@@ -11,6 +11,10 @@ We respect your privacy! As a rule no visitor information is collected by theÂ Â
 ### Resale or disclosure of information to third parties:
 
 Sax on the Web is a free service for saxophone players and devotees. Several individuals contribute to this service knowing that we do not sell, rent, loan, trade, or lease any personal information collected at our site.
+
+### Cookies
+
+This website uses cookies to ensure you get the best experience on our website.
 
 ### Other parties:
 
