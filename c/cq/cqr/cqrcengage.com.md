@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cqrcengage.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417000124id_/http%3A//corporate.cqrollcall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cqrcengage.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205181131id_/http%3A//cqrollcall.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CQ Roll Call
+# Privacy Policy - CQ Roll Call
 
 At CQ Roll Call, we have measures in place to protect your privacy. We want to make sure you are comfortable exploring our sites and using our information. The following explains what information we collect about you, how we use it and what choices you have regarding this information. This policy applies to all information collected from or submitted this site. Other CQ Roll Call sites and apps may be covered by their own site-specific privacy policies.
 
