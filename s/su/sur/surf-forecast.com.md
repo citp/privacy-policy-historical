@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surf-forecast.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185729id_/http%3A//www.surf-forecast.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surf-forecast.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205235707id_/http%3A//www.surf-forecast.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,3 +19,5 @@ Surf-Forecast.com uses cookies to allow its visitors access their accounts witho
 Pages of Surf-Forecast.com contain banner ads and analytics tools hosted by 3rd parties, such as Google Analytics. These companies have their own privacy policies with regard to utilizing the cookies and tracking user behavior. 
 
 Surf-Forecast.com will not share the list of users' email or postal addresses with any third parties without consent of the users, with the exception of providing postal services with information required for delivery of the products ordered by the user or awarded to the user. 
+
+New for December 2015: Use the [+][-] and arrow controls in the forecast maps to zoom right into your local area. (Dans le site de fr bientôt.) En el sitio web es pronto. (No site do pt breve.) 
