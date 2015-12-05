@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simple-press.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607030454id_/http%3A//simple-press.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simple-press.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205140846id_/http%3A//simple-press.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Simple:Press
 
@@ -6,7 +6,7 @@
 
 #### simple-press.com
 
-All references to simple-press.com in this Privacy Policy are deemed to encompass all websites and sub-domains operated by Simple:Press including, but not restricted to, codex.simple-press.com, glotpress.simple-press.com and mantis.simple-press.com.
+All references to simple-press.com in this Privacy Policy are deemed to encompass all websites and sub-domains operated by Simple:Press including, but not restricted to glotpress.simple-press.com and mantis.simple-press.com.
 
 At simple-press.com we are committed to safeguarding and preserving the privacy of our visitors. This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site. 
 
@@ -14,7 +14,7 @@ At simple-press.com we are committed to safeguarding and preserving the privacy 
 
 Registration and membership at simple-press.com is optional. For those visitors who sign up to become members of our support forum and other restricted pages, we require them to supply an email address plus their first and last names. All other information that a member may choose to supply via the support forum profile form is optionally given.
 
-Any data received from PayPal upon joining simple-press.com is held for accounting purposes only and is treated with the strictest confidence and not shared with any third party.
+Any data received from PayPal upon joining simple-press.com or making purchases in our store is held for accounting purposes only and is treated with the strictest confidence and not shared with any third party.
 
 Users may, from time to time, divulge to us further personal data items. Such data is voluntarily given. If posted on a support forum topic users must be aware that this data may be viewable and available to other users of the forums. If sent as a Private Message it is viewable only to those selected to receive it.
 
@@ -30,7 +30,7 @@ simple-press.com makes use of cookies. Cookies created by the WordPress applicat
 
 Any user can adjust the settings on their computer to decline any cookies from simple-press.com should they so wish. This in no way effects their usage of our support forum.
 
-It is possible that our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
+It is possible that any advertisers who may, from time to time pay for space on our website, may use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
 
 #### Use of Your Information
 
@@ -50,10 +50,10 @@ Our policy discloses the privacy practices for the simple-press web site. But si
 
 #### Contacting Us
 
-If you need to contact us regarding the simple-press.com website, it’s content or statements declared in this privacy policy, please use the ‘Contact Us’ email form available from our website menu.
+If you need to contact us regarding the simple-press.com website, it’s content or statements declared in this privacy policy, please use the ‘Contact Us’ email form available from our website sidebar.
 
 #### Changes to this Policy
 
 This Privacy Policy will be kept under constant review and may change from time to time. If at any time we offer new features, options or require more personal information from our users we will update this policy accordingly.
 
-January 2014
+July 2015
