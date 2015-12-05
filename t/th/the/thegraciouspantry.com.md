@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegraciouspantry.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174305id_/http%3A//www.thegraciouspantry.com/privacy-statment) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegraciouspantry.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205235127id_/http%3A//www.thegraciouspantry.com/privacy-statment) for the most accurate reproduction.*
 
 # Clean Eating Recipes
 
@@ -6,7 +6,7 @@ This is the web site of The Gracious Pantry®.
 
 **Contact**  
 Tiffany McCauley can be reached via e-mail at thegraciouspantry[at]gmail.com  
-or by US Postal mail at: P.O. Box 61 Concord, CA 94522
+or by US Postal mail at: P.O. Box 6736 Santa Rosa, CA 95406
 
 **What Information Is Collected**
 
@@ -57,5 +57,3 @@ If you feel that this site is not following its stated information policy, you m
 
 **Amazon Affiliate Links:**  
 Tiffany McCauley is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
-
-[](http://www.printfriendly.com/print?url=http%3A%2F%2Fwww.thegraciouspantry.com%2Fprivacy-statment%2F)
