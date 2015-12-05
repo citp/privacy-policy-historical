@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nelson.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607040026id_/http%3A//www.nelson.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nelson.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205141056id_/http%3A//www.nelson.com/privacy.html) for the most accurate reproduction.*
 
 # Nelson Education Ltd. - Privacy Policy
 
@@ -30,7 +30,7 @@ iii) if an Individual enters a contest or other promotion or applies for a schol
 
 iv) if an Individual applies for a position with Nelson Education Ltd., Nelson Education Ltd. will collect Personal Information contained in and generated in relation to the Individual's application, in order to evaluate the Individual's application and assess whether to offer the Individual employment, which information is kept for a reasonable period of time, and may include Personal Information collected from Third Parties acting as references for the Individual.
 
-If and when we communicate with Individuals using electronic means, such Individuals can opt out of receiving such messages by following the unsubscribe link included at the bottom of such communications or by contacting the Chief Privacy Officer - Jessica Phinn , Director, People and Engagement, Nelson Education Ltd., 1120 Birchmount Road, Toronto, ON, M1K 5G4. Any questions or concerns with respect to communications from Nelson Education Ltd. may be addressed to such Chief Privacy Officer.
+If and when we communicate with Individuals using electronic means, such Individuals can opt out of receiving such messages by following the unsubscribe link included at the bottom of such communications or by contacting the Chief Privacy Officer - Jessica Phinn , Vice President, People and Engagement, Nelson Education Ltd., 1120 Birchmount Road, Toronto, ON, M1K 5G4. Any questions or concerns with respect to communications from Nelson Education Ltd. may be addressed to such Chief Privacy Officer.
 
 **_Purposes for Disclosure of Personal Information and Transfer of Information:_**  
 Nelson Education Ltd. discloses Personal Information for the following purposes: a) to establish and maintain responsible commercial relations with Individuals and to provide ongoing services; b) to fulfill the terms of agreements between Individuals and Nelson Education Ltd. c) to understand Individuals' needs; d) to develop, enhance, market or provide products and services which we reasonably believe may be of interest to you; e) to manage and develop its business and operations, including personnel and employment matters; f) to meet legal or regulatory requirements, including to protect or defend a legal interest; and g) to review and assess an application for a Nelson Education Ltd. scholarship, or your compliance with the eligibility criteria relating thereto.
@@ -49,7 +49,7 @@ If we require new or additional Personal Information, or if we wish to use your 
 
 Note: If any Individual at any time has any questions or concerns about Nelson Education Ltd.'s Privacy Policy or privacy practices contained herein, the Individual can either:
 
-i) write to the Chief Privacy Officer - Jessica Phinn, Director, People and Engagement, Nelson Education Ltd., 1120 Birchmount Road, Toronto, ON, M1K 5G4; or
+i) write to the Chief Privacy Officer - Jessica Phinn, Vice President, People and Engagement, Nelson Education Ltd., 1120 Birchmount Road, Toronto, ON, M1K 5G4; or
 
 ii) provide information to Nelson Education Ltd. through the form on its Internet Privacy page.
 
@@ -105,7 +105,7 @@ Last updated October 2013. If Nelson Education Ltd. makes a material change to t
 **Questions or Queries**  
 If you have any questions or queries about this Privacy Policy or Nelson Education Ltd.'s handling of your personal information, please contact our Chief Privacy Officer.
 
-The Chief Privacy Officer is Jessica Phinn, Director, People and Engagement, and can be contacted at 1120 Birchmount Road, Toronto, Ontario, M1K 5G4, (416) 750-6668 or by fax at (416) 750-3880, or by email at [jessica.phinn@nelson.com](mailto:jessica.phinn@nelson.com).
+The Chief Privacy Officer is Jessica Phinn, Vice President, People and Engagement, and can be contacted at 1120 Birchmount Road, Toronto, Ontario, M1K 5G4, (416) 750-6668 or by fax at (416) 750-3880, or by email at [jessica.phinn@nelson.com](mailto:jessica.phinn@nelson.com).
 
 **B.   The PRIVACY Policy in Detail**
 
@@ -132,7 +132,7 @@ Nelson Education Ltd. is responsible for Personal Information under its control 
 
 1.1 Responsibility for ensuring compliance with the provisions of the Privacy Policy rests with the senior management of Nelson Education Ltd., which shall designate one or more persons to be accountable for compliance with the Privacy Policy. Other people within Nelson Education Ltd. may be delegated to act on behalf of the designated person(s) or to take responsibility for the day-to-day collection and processing of Personal Information.
 
-1.2 Nelson Education Ltd. has designated a Chief Privacy Officer to oversee compliance with the Privacy Policy. The Chief Privacy Officer is Jessica Phinn, Director, People and Engagement, and can be contacted at 1120 Birchmount Road, Toronto, Ontario, M1K 5G4, (416) 750-6668 or by fax at (416) 750-3880, or by email at jessica.phinn@nelson.com.
+1.2 Nelson Education Ltd. has designated a Chief Privacy Officer to oversee compliance with the Privacy Policy. The Chief Privacy Officer is Jessica Phinn, Vice President, People and Engagement, and can be contacted at 1120 Birchmount Road, Toronto, Ontario, M1K 5G4, (416) 750-6668 or by fax at (416) 750-3880, or by email at jessica.phinn@nelson.com.
 
 1.3 Nelson Education Ltd. is responsible for Personal Information in its possession or control, including information that has been transferred to a Third Party for processing. Nelson Education Ltd. shall use appropriate means to provide a comparable level of protection while information is being processed by a Third Party (see Principle 7).
 
@@ -241,7 +241,7 @@ _An Individual shall be able to address a challenge concerning compliance with t
 10.1 Nelson Education Ltd. shall maintain procedures for addressing and responding to all inquiries or complaints from Individuals about Nelson Education Ltd.'s handling of their Personal Information. If any Individual at any time has any questions or concerns about  
 Nelson Education Ltd.'s Privacy Policy or privacy practices as herein contained, the  
 Individual can either:  
-i) write to **Jessica Phinn, Director, People and Engagement, at Nelson Education  
+i) write to **Jessica Phinn, Vice President, People and Engagement, at Nelson Education  
 Ltd., 1120 Birchmount Road, Toronto, ON, M1K 5G4, or by email at  
 [jessica.phinn@nelson.com](mailto:jessica.phinn@nelson.com)**; or  
 ii) provide information to Nelson Education Ltd. through the form on its Internet Privacy  
