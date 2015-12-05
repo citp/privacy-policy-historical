@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thebudgetfashionista.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607002632id_/http%3A//www.thebudgetfashionista.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebudgetfashionista.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205020217id_/http%3A//www.thebudgetfashionista.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of the Budget Fashionista
+
+This content may contain affiliate links. Please see our disclosures for more information.
 
 Speak LLC (“us”, “we”, or “our”) operates the http://www.thebudgetfashionista.com website (the “Service”).
 
@@ -89,6 +91,8 @@ Your consent to this Privacy Policy followed by your submission of such informat
 Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 
 We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+Some of our content contains affiliate links, which means the site earns compensation if you make a purchase.
 
 ##  **Children’s Privacy**
 
