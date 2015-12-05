@@ -1,20 +1,23 @@
-<!--The following is the downloaded HTML source of the snapav.com privacy policy that was archived on 2015-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150407083933id_/http%3A//snapav.com/t-privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the snapav.com privacy policy that was archived on 2015-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151205200215id_/http%3A//www.snapav.com/t-privacypolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head id="ctl00_Head1">
+<!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head id="ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <!-- Leave the title empty, it will get populated at runtime -->
     <title>
 	PrivacyPolicy
 </title>
     <!-- Leave the description and keyword content empty, it will get populated at runtime -->
     <meta name="description" content="enter your site description here"><meta name="keywords" content="enter your site keywords here">
+	
     <!-- Include Google Analytics Header -->
-    <script type="text/javascript" defer="" async="" src="https://vapans.com/piwik.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//static.woopra.com/js/w.js"></script><script type="text/javascript">
+    <script type="text/javascript" defer="" async="" src="https://vapans.com/piwik.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WVNH6B"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//static.woopra.com/js/w.js"></script><script type="text/javascript">
             var cvPartnerLevel = 'No';
             var cvRewardsLevel = 'None';
             var cvFrequency = '0';
             var cvFirstOrderDate = '00000000';
             var cvLoggedIn = 'No';
+	    var cvCardCode ='0';
+	    
           </script><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="shortcut icon" href="/favicon.ico"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="stylesheet" href="/App_Templates/Skin_1/css/style.css?v=1"><link rel="stylesheet" href="/App_Templates/Skin_1/css/right-nav.css"><link rel="stylesheet" href="/App_Templates/Skin_1/css/liveperson.css"><link rel="stylesheet" href="/App_Templates/Skin_1/css/prod-videos.css"><link rel="stylesheet" href="/App_Templates/Skin_1/css/SupportVideos.css"><link rel="stylesheet" href="/App_Templates/Skin_1/css/FrequentPurchases.css"><link rel="stylesheet" href="/snapav/mkting/css/countdown.css">
   
 	<!-- Start Visual Website Optimizer Asynchronous Code -->
@@ -26,7 +29,7 @@ library_tolerance=2500,
 use_existing_jquery=false,
 // DO NOT EDIT BELOW THIS LINE
 f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=54184&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150407083933id_%2Fhttp%253A%2F%2Fsnapav.com%2Ft-privacypolicy.aspx&amp;r=0.3348730237058375" type="text/javascript"></script>
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=54184&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20151205200215id_%2Fhttp%253A%2F%2Fwww.snapav.com%2Ft-privacypolicy.aspx&amp;r=0.17995674440128173" type="text/javascript"></script>
 <!-- End Visual Website Optimizer Asynchronous Code -->
 
 <!-- Start of Woopra Code -->
@@ -52,8 +55,13 @@ woopra.track();
     if (cvPartnerLevel) _gaq.push(['_setCustomVar',1,'PartnerLevel',cvPartnerLevel,2]);
     if (cvRewardsLevel) _gaq.push(['_setCustomVar',2,'RewardsLevel',cvRewardsLevel,2]);
     if (cvFrequency) _gaq.push(['_setCustomVar',3,'Frequency',cvFrequency,2]);
-    if (cvFirstOrderDate) _gaq.push(['_setCustomVar',4,'FirstOrderDate',cvFirstOrderDate,2]);
+
+	_gaq.push(['_deleteCustomVar', 4]);
+	_gaq.push(['_deleteCustomVar', 5]);
+
+    if (cvLoggedIn) _gaq.push(['_setCustomVar',4,'CardCode', cvCardCode,2]);
     if (cvLoggedIn) _gaq.push(['_setCustomVar',5,'LoggedIn',cvLoggedIn,2]);
+	
     _gaq.push(['_trackPageview']);
 
     (function () {
@@ -62,13 +70,20 @@ woopra.track();
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
 
-    function recordOutboundLink(link, category, action) {
+    function recordOutboundLink(link, category, action) 
+	{
     _gat._getTrackerByName()._trackEvent(category, action);
     setTimeout('window.open("' + link.href + '")', 100);
     //setTimeout('document.location = "' + link.href + '"', 100);
     }
 
   </script>
+  
+  
+  
+ 
+  
+  
   <!-- END Google analytics -->
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
   <!--script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script-->
@@ -100,12 +115,34 @@ woopra.track();
     }).trigger('orientationchange');
   </script>
 
-</head>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body class="standard">
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WVNH6B"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WVNH6B');</script>
+<!-- End Google Tag Manager -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-178573-27', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
     
     <div id="container">
         <!-- Include Universal Header -->
-        <div id="header"><a href="/default.aspx" class="logo"><span>SnapAV</span></a><a href="http://commercial.snapav.com/default.aspx" id="siteNavigation"><span></span></a><div class="uvp"><span>Changing The Way Custom Installers Do Business.</span></div>
+        <div id="header"><a href="/default.aspx" class="logo"><span>SnapAV</span></a><a href="http://commercial.snapav.com/default.aspx" id="siteNavigation"></a><div class="uvp"><span>Changing The Way Custom Installers Do Business.</span></div>
   <div class="site">
     <div class="dealer_login">
       <div id="dealer_form" class="clearfix" style="display: none;">
@@ -135,7 +172,7 @@ woopra.track();
   <div class="account">
     <p class="welcome"><strong>Welcome</strong>&nbsp; <span class="account_username">Guest</span>!</p>
     <ul>
-      <li><a href="/snapav/dealerapplication.aspx">Become a Dealer</a></li>
+      <li><a href="/t-NewDealerExperience.aspx">Become a Dealer</a></li>
       <li><a href="/t-our%20story.aspx">Why SnapAV?</a></li>
     </ul>
   </div>
@@ -159,17 +196,18 @@ woopra.track();
             <li><a href="/c-9-amplifiers.aspx">Amplifiers</a><ul>
                 <li><a href="/c-533-amplifers.aspx">Amplifers</a></li>
                 <li><a href="/c-534-70v-amplifiers.aspx">70V Amplifiers</a></li>
+                <li><a href="/c-550-accessories.aspx">Accessories</a></li>
               </ul>
             </li>
             <li><a href="/c-13-bulk-wire.aspx">Bulk Wire</a><ul>
-                <li><a href="/c-475-audio-control-cable.aspx">Audio &amp; Control Cable</a></li>
+                <li><a href="/c-475-audio-and-control-cable.aspx">Audio and Control Cable</a></li>
                 <li><a href="/c-40-speaker-cable.aspx">Speaker Cable</a></li>
                 <li><a href="/c-41-coaxial-cable.aspx">Coaxial Cable</a></li>
                 <li><a href="/c-50-security-fire-cable.aspx">Security / Fire Cable</a></li>
                 <li><a href="/c-105-category-cable.aspx">Category Cable</a></li>
                 <li><a href="/c-43-bundled-wire.aspx">Bundled Wire</a></li>
                 <li><a href="/c-44-rgb-cable.aspx">RGB Cable</a></li>
-                <li><a href="/c-109-plenum-riser-cable.aspx">Plenum &amp; Riser Cable</a></li>
+                <li><a href="/c-109-plenum-and-riser-cable.aspx">Plenum and Riser Cable</a></li>
               </ul>
             </li>
             <li><a href="/c-1-cables.aspx">Cables</a><ul>
@@ -186,7 +224,7 @@ woopra.track();
                 <li><a href="/c-58-hdmi.aspx">HDMI</a></li>
                 <li><a href="/c-398-planet-waves153.aspx">Planet Waves™</a></li>
                 <li><a href="/c-24-adapter-cables.aspx">Adapter Cables</a></li>
-                <li><a href="/c-48-ethernet-cables-plugs.aspx">Ethernet Cables &amp; Plugs</a></li>
+                <li><a href="/c-48-ethernet-cables-and-plugs.aspx">Ethernet Cables and Plugs</a></li>
                 <li><a href="/c-403-ez-runner.aspx">EZ Runner</a></li>
                 <li><a href="/c-484-usb-cables.aspx">USB Cables</a></li>
               </ul>
@@ -201,8 +239,8 @@ woopra.track();
                 <li><a href="/c-473-problem-solvers.aspx">Problem Solvers</a></li>
               </ul>
             </li>
-            <li><a href="/c-17-connectors-adapters.aspx">Connectors &amp; Adapters</a><ul>
-                <li><a href="/c-362-rj45-rj11.aspx">RJ45 &amp; RJ11</a></li>
+            <li><a href="/c-17-connectors-and-adapters.aspx">Connectors and Adapters</a><ul>
+                <li><a href="/c-362-rj45-and-rj11.aspx">RJ45 and RJ11</a></li>
                 <li><a href="/c-359-rca-connectors.aspx">RCA Connectors</a></li>
                 <li><a href="/c-358-bnc-connectors.aspx">BNC Connectors</a></li>
                 <li><a href="/c-360-f-type-connectors.aspx">F-Type Connectors</a></li>
@@ -212,7 +250,7 @@ woopra.track();
                 <li><a href="/c-363-miscellaneous.aspx">Miscellaneous</a></li>
               </ul>
             </li>
-            <li><a href="/c-23-fans-amp-cooling.aspx">Fans &amp; Cooling</a></li>
+            <li><a href="/c-23-fans-and-cooling.aspx">Fans and Cooling</a></li>
           </ul>
         </div>
         <div class="col col2">
@@ -222,9 +260,9 @@ woopra.track();
             <li><a href="/c-19-labor-saving-devices153.aspx">Labor Saving Devices™</a></li>
             <li><a href="/c-7-media-distribution.aspx">Media Distribution</a><ul>
                 <li><a href="/c-66-switchers.aspx">Switchers</a></li>
-                <li><a href="/c-67-extenders-amp-baluns.aspx">Extenders &amp; Baluns</a></li>
-                <li><a href="/c-68-splitters-amp-converters.aspx">Splitters &amp; Converters</a></li>
-                <li><a href="/c-452-avocation-switchers.aspx">AVocation Switchers</a></li>
+                <li><a href="/c-67-extenders-and-baluns.aspx">Extenders and Baluns</a></li>
+                <li><a href="/c-68-splitters-and-converters.aspx">Splitters and Converters</a></li>
+                <li><a href="/c-561-atlona.aspx">Atlona</a></li>
               </ul>
             </li>
             <li><a href="/c-497-microphones.aspx">Microphones</a></li>
@@ -236,6 +274,7 @@ woopra.track();
                 <li><a href="/c-54-ceiling.aspx">Ceiling</a></li>
                 <li><a href="/c-457-projector.aspx">Projector</a></li>
                 <li><a href="/c-100-ipadtablet.aspx">iPad/Tablet</a></li>
+                <li><a href="/c-572-all-weather-mounts.aspx">All-Weather Mounts</a></li>
                 <li><a href="/c-55-packages.aspx">Packages</a></li>
                 <li><a href="/c-56-accessories.aspx">Accessories</a></li>
               </ul>
@@ -248,12 +287,19 @@ woopra.track();
             </li>
             <li><a href="/c-455-networking.aspx">Networking</a><ul>
                 <li><a href="/c-529-wireless-access-points.aspx">Wireless Access Points</a></li>
+                <li><a href="/c-548-routers.aspx">Routers</a></li>
+                <li><a href="/c-563-Kits.aspx">Kits</a></li>
                 <li><a href="/c-527-accessories.aspx">Accessories</a></li>
                 <li><a href="/c-525-switches.aspx">Switches</a></li>
               </ul>
             </li>
+            <li><a href="/c-566-outdoor-tvs.aspx">Outdoor TVs</a><ul>
+                <li><a href="/c-568-all-weather-mounts.aspx">All-Weather Mounts</a></li>
+                <li><a href="/c-567-tvs.aspx">TVs</a></li>
+              </ul>
+            </li>
             <li><a href="/c-8-power-products.aspx">Power Products</a><ul>
-                <li><a href="/c-93-surge-conditioning.aspx">Surge &amp; Conditioning</a></li>
+                <li><a href="/c-93-surge-and-conditioning.aspx">Surge and Conditioning</a></li>
                 <li><a href="/c-374-ip-enabled.aspx">IP Enabled</a></li>
                 <li><a href="/c-92-uninterruptible-power-ups.aspx">Uninterruptible Power (UPS)</a></li>
                 <li><a href="/c-477-power-supplies.aspx">Power Supplies</a></li>
@@ -273,18 +319,18 @@ woopra.track();
         </div>
         <div class="col col3">
           <ul>
-            <li><a href="/c-10-racks-enclosures.aspx">Racks &amp; Enclosures</a><ul>
+            <li><a href="/c-10-racks-and-enclosures.aspx">Racks and Enclosures</a><ul>
                 <li><a href="/c-110-floor-standing.aspx">Floor Standing</a></li>
                 <li><a href="/c-111-cabinet.aspx">In Cabinet</a></li>
                 <li><a href="/c-113-wall-mount.aspx">Wall Mount</a></li>
                 <li><a href="/c-420-it-datacomm.aspx">IT Datacomm</a></li>
                 <li><a href="/c-114-packages.aspx">Packages</a></li>
                 <li><a href="/c-62-accessories.aspx">Accessories &gt;&gt;</a><ul>
-                    <li><a href="/c-60-shelves-amp-drawers.aspx">Shelves &amp; Drawers</a></li>
-                    <li><a href="/c-69-panels-amp-vents.aspx">Panels &amp; Vents</a></li>
-                    <li><a href="/c-104-side-panels-doors.aspx">Side Panels &amp; Doors</a></li>
+                    <li><a href="/c-60-shelves-and-drawers.aspx">Shelves and Drawers</a></li>
+                    <li><a href="/c-69-panels-and-vents.aspx">Panels and Vents</a></li>
+                    <li><a href="/c-104-side-panels-and-doors.aspx">Side Panels and Doors</a></li>
                     <li><a href="/c-61-cable-management.aspx">Cable Management</a></li>
-                    <li><a href="/c-57-fans-amp-cooling.aspx">Fans &amp; Cooling</a></li>
+                    <li><a href="/c-57-fans-and-cooling.aspx">Fans and Cooling</a></li>
                     <li><a href="/c-64-power.aspx">Power</a></li>
                     <li><a href="/c-463-hardware.aspx">Hardware</a></li>
                   </ul>
@@ -292,22 +338,36 @@ woopra.track();
               </ul>
             </li>
             <li><a href="/c-2-speakers.aspx">Speakers</a><ul>
-                <li><a href="/c-30-subwoofers.aspx">Subwoofers</a></li>
                 <li><a href="/c-507-signature.aspx">Signature</a><ul>
+                    <li><a href="/c-509-in-wall.aspx">In-Wall</a></li>
+                    <li><a href="/c-538-accessories.aspx">Accessories</a></li>
                     <li><a href="/c-508-in-ceiling.aspx">In-Ceiling</a></li>
-                    <li><a href="/c-538-brackets.aspx">Brackets</a></li>
-                    <li><a href="/c-515-1300.aspx">1300</a></li>
+                    <li><a href="/c-545-1700.aspx">1700</a></li>
                     <li><a href="/c-516-1500.aspx">1500</a></li>
+                    <li><a href="/c-515-1300.aspx">1300</a></li>
+                  </ul>
+                </li>
+                <li><a href="/c-27-in-ceiling.aspx">In-Ceiling</a></li>
+                <li><a href="/c-28-in-wall.aspx">In-Wall</a></li>
+                <li><a href="/c-551-commercial-70v.aspx">Commercial / 70V</a><ul>
+                    <li><a href="/c-553-in-ceiling.aspx">In-Ceiling</a></li>
+                    <li><a href="/c-554-pendant.aspx">Pendant</a></li>
+                    <li><a href="/c-555-outdoor-landscape.aspx">Outdoor &amp; Landscape</a></li>
+                    <li><a href="/c-556-accessories.aspx">Accessories</a></li>
                   </ul>
                 </li>
                 <li><a href="/c-102-soundbars.aspx">Soundbars</a></li>
-                <li><a href="/c-28-in-wall.aspx">In-Wall</a></li>
-                <li><a href="/c-29-outdoor-landscape.aspx">Outdoor &amp; Landscape</a></li>
+                <li><a href="/c-30-subwoofers.aspx">Subwoofers</a></li>
                 <li><a href="/c-511-cabinet.aspx">Cabinet</a></li>
-                <li><a href="/c-512-pendant.aspx">Pendant</a></li>
-                <li><a href="/c-27-in-ceiling.aspx">In-Ceiling</a></li>
-                <li><a href="/c-513-grills.aspx">Grills</a></li>
-                <li><a href="/c-514-brackets.aspx">Brackets</a></li>
+                <li><a href="/c-29-outdoor-and-landscape.aspx">Outdoor and Landscape</a></li>
+                <li><a href="/c-552-accessories.aspx">Accessories</a><ul>
+                    <li><a href="/c-557-brackets.aspx">Brackets</a></li>
+                    <li><a href="/c-559-enclosures.aspx">Enclosures</a></li>
+                    <li><a href="/c-558-grilles.aspx">Grilles</a></li>
+                    <li><a href="/c-560-mounts.aspx">Mounts</a></li>
+                  </ul>
+                </li>
+                <li><a href="/c-544-1700.aspx">1700</a></li>
                 <li><a href="/c-531-1500.aspx">1500</a></li>
                 <li><a href="/c-532-1300.aspx">1300</a></li>
                 <li><a href="/c-518-900.aspx">900</a></li>
@@ -322,9 +382,9 @@ woopra.track();
         <div class="col col4">
           <ul>
             <li><a href="/c-5-structured-wiring-cabling.aspx">Structured Wiring / Cabling</a><ul>
-                <li><a href="/c-424-patch-panels-110-blocks.aspx">Patch Panels &amp; 110 Blocks</a></li>
+                <li><a href="/c-424-patch-panels-and-110-blocks.aspx">Patch Panels and 110 Blocks</a></li>
                 <li><a href="/c-426-keystone-inserts.aspx">Keystone Inserts</a></li>
-                <li><a href="/c-438-cables-plugs.aspx">Cables &amp; Plugs</a></li>
+                <li><a href="/c-438-cables-and-plugs.aspx">Cables and Plugs</a></li>
                 <li><a href="/c-428-wallplates.aspx">Wallplates</a><ul>
                     <li><a href="/c-442-av.aspx">A/V</a></li>
                     <li><a href="/c-444-decor.aspx">Decor</a></li>
@@ -335,11 +395,12 @@ woopra.track();
                 </li>
                 <li><a href="/c-36-enclosures.aspx">Enclosures</a></li>
                 <li><a href="/c-35-modules.aspx">Modules</a></li>
-                <li><a href="/c-384-boxes-brackets.aspx">Boxes &amp; Brackets</a></li>
+                <li><a href="/c-384-boxes-and-brackets.aspx">Boxes and Brackets</a></li>
                 <li><a href="/c-34-kits.aspx">Kits</a></li>
                 <li><a href="/c-440-accessories.aspx">Accessories</a></li>
               </ul>
             </li>
+            <li><a href="/c-565-surecall-products.aspx">SureCall Products</a></li>
             <li><a href="/c-97-surveillance.aspx">Surveillance</a><ul>
                 <li><a href="/c-388-ip-.aspx">IP &gt;&gt;</a><ul>
                     <li><a href="/c-390-cameras.aspx">Cameras</a></li>
@@ -358,15 +419,17 @@ woopra.track();
             </li>
             <li><a href="/c-14-tools.aspx">Tools</a></li>
             <li><a href="/c-489-urc-products.aspx">URC Products</a><ul>
-                <li><a href="/c-493-ccgen2.aspx">ccGEN2</a></li>
+                <li><a href="/c-542-total-control.aspx">Total Control</a></li>
+                <li><a href="/c-547-lighting.aspx">Lighting</a></li>
                 <li><a href="/c-491-complete-control.aspx">Complete Control</a></li>
+                <li><a href="/c-493-ccgen2.aspx">ccGEN2</a></li>
                 <li><a href="/c-495-accessories.aspx">Accessories</a></li>
               </ul>
             </li>
             <li><a href="/c-479-usb-products.aspx">USB Products</a></li>
-            <li><a href="/c-32-wallplates-boxes.aspx">Wallplates &amp; Boxes</a><ul>
+            <li><a href="/c-32-wallplates-and-boxes.aspx">Wallplates and Boxes</a><ul>
                 <li><a href="/c-37-av.aspx">A/V</a></li>
-                <li><a href="/c-383-boxes-brackets.aspx">Boxes &amp; Brackets</a></li>
+                <li><a href="/c-383-boxes-and-brackets.aspx">Boxes and Brackets</a></li>
                 <li><a href="/c-459-table-boxes.aspx">Table Boxes</a></li>
                 <li><a href="/c-31-keystone-inserts.aspx">Keystone Inserts</a></li>
                 <li><a href="/c-74-standard.aspx">Standard</a></li>
@@ -387,8 +450,8 @@ woopra.track();
         <li><a href="/c-13-bulk-wire.aspx">Bulk Wire</a></li>
         <li><a href="/c-1-cables.aspx">Cables</a></li>
         <li><a href="/c-465-conferencing.aspx">Conferencing</a></li>
-        <li><a href="/c-17-connectors-adapters.aspx">Connectors &amp; Adapters</a></li>
-        <li><a href="/c-23-fans-amp-cooling.aspx">Fans &amp; Cooling</a></li>
+        <li><a href="/c-17-connectors-and-adapters.aspx">Connectors and Adapters</a></li>
+        <li><a href="/c-23-fans-and-cooling.aspx">Fans and Cooling</a></li>
         <li><a href="/c-15-hardware.aspx">Hardware</a></li>
         <li><a href="/c-12-ir-products.aspx">IR Products</a></li>
         <li><a href="/c-19-labor-saving-devices153.aspx">Labor Saving Devices™</a></li>
@@ -397,16 +460,18 @@ woopra.track();
         <li><a href="/c-4-mounts.aspx">Mounts</a></li>
         <li><a href="/c-11-multi-room-audio.aspx">Multi-Room Audio</a></li>
         <li><a href="/c-455-networking.aspx">Networking</a></li>
+        <li><a href="/c-566-outdoor-tvs.aspx">Outdoor TVs</a></li>
         <li><a href="/c-8-power-products.aspx">Power Products</a></li>
         <li><a href="/c-6-projection-screens.aspx">Projection Screens</a></li>
-        <li><a href="/c-10-racks-enclosures.aspx">Racks &amp; Enclosures</a></li>
+        <li><a href="/c-10-racks-and-enclosures.aspx">Racks and Enclosures</a></li>
         <li><a href="/c-2-speakers.aspx">Speakers</a></li>
         <li><a href="/c-5-structured-wiring-cabling.aspx">Structured Wiring / Cabling</a></li>
+        <li><a href="/c-565-surecall-products.aspx">SureCall Products</a></li>
         <li><a href="/c-97-surveillance.aspx">Surveillance</a></li>
         <li><a href="/c-14-tools.aspx">Tools</a></li>
         <li><a href="/c-489-urc-products.aspx">URC Products</a></li>
         <li><a href="/c-479-usb-products.aspx">USB Products</a></li>
-        <li><a href="/c-32-wallplates-boxes.aspx">Wallplates &amp; Boxes</a></li>
+        <li><a href="/c-32-wallplates-and-boxes.aspx">Wallplates and Boxes</a></li>
         <li><a href="/c-21-wire-management.aspx">Wire Management</a></li>
       </ul>
       <ul class="featured"></ul><ul class="systemDesign"><li class="arrowLink"><a href="/snapav/systemdesigns.aspx">System Designs</a></li></ul><!----></div>
@@ -430,18 +495,19 @@ woopra.track();
   </ul>
 </div>
         <form name="aspnetForm" method="post" action="t-privacypolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE4MDQyNzY4NDAPZBYCZg9kFgwCAg9kFgICBg9kFgICAQ8PFgIeB1Zpc2libGVoZGQCBA9kFgICAQ8PFgIfAGhkZAIGD2QWAmYPFgIeBFRleHRlZAIID2QWAgIBDw8WAh8AaGRkAgoPZBYKAgEPFgIfAQUNUHJpdmFjeVBvbGljeWQCAw9kFgICAQ8PFgQeCENzc0NsYXNzBQdzdG9yZV8xHgRfIVNCAgJkFgQCAQ8WAh8BZWQCBQ8WAh8BZWQCBA9kFgICAQ8PFgIfAGhkZAIFD2QWAgIBDw8WAh8AaGRkAgYPZBYCAgEPDxYCHwBoZGQCDA9kFgICAQ8PFgIfAGhkZGSU7b05+62RhwDbmD7zHPmaGJUS2Q==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE4MDQyNzY4NDAPZBYCZg9kFgwCAg9kFgICBw9kFgICAQ8PFgIeB1Zpc2libGVoZGQCBA9kFgICAQ8PFgIfAGhkZAIGD2QWAmYPFgIeBFRleHRlZAIID2QWAgIBDw8WAh8AaGRkAgoPZBYKAgEPFgIfAQUNUHJpdmFjeVBvbGljeWQCAw9kFgICAQ8PFgQeCENzc0NsYXNzBQdzdG9yZV8xHgRfIVNCAgJkFgQCAQ8WAh8BZWQCBQ8WAh8BZWQCBA9kFgICAQ8PFgIfAGhkZAIFD2QWAgIBDw8WAh8AaGRkAgYPZBYCAgEPDxYCHwBoZGQCDA9kFgICAQ8PFgIfAGhkZGQ70oSM+FF80Xh6q2IR/JEwR3Ft8w==">
 
 
 <script src="jscripts/formvalidate.js" type="text/javascript"></script>
 <script src="jscripts/core.js" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=kauT_X7MYf-gFTNKJiTPdw9Z8-Xx-WGSteieqT9Yp_RwM7TrdKuRoNcEZ7H7OUD6CvoL-KFftNXkXUOf6B7iB4DlfbILt7OsH0qzIWQ-MYw1&amp;t=16ab2387" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=TKYtWVsnMdc3TE5-oIdUell6jLKNzvt-ckBVlbD21vj3LBgPXzvJqjWyEtSES-3JkRli-SF-rwNhgHcy8Yr1DxfdKcbSTMQ0ICsfHKko8OKBos2HqkprB49jl2PAUDeN6nSmpwvVZiUOaST7W52UPrRfifww66gBTKTKJJ2Uuna1Wq5p0&amp;t=7b689585" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
 //]]>
 </script>
 
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="021E055F">
         
         <div id="main" class="clearfix">
             <!-- Main Content -->
@@ -494,7 +560,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
       <ul>
         <li><a href="/t-dealer%20support.aspx">Resource Vault</a></li>
         <li><a href="https://www.snapav.com/snapav/myaccount.aspx#atab_3">Track an Order</a></li>
-        <li><a href="/snapav/dealerapplication.aspx">Become a Dealer</a></li>
+        <li><a href="/t-NewDealerExperience.aspx">Become a Dealer</a></li>
         <li><a href="/t-pressreleases.aspx">Press Releases</a></li>
       </ul>
       <ul>
@@ -514,8 +580,23 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
       <div class="twitter"><a href="http://twitter.com/snapav" rel="external"><img src="/App_Themes/Skin_1/images/site-foot-twitter.jpg" alt="Twitter"></a></div>
       <div class="facebook"><a class="facebook" href="http://www.facebook.com/SnapAV" rel="external"><img src="/App_Themes/Skin_1/images/site-foot-facebook.jpg" alt="Facebook"></a></div>
     </div>
-  </div>
-</div>
+  </div><script type="text/javascript">
+adroll_adv_id = "THA2S3QL6ZC7RAMEUXKI3G";
+adroll_pix_id = "RZTWQYTP2VCDFE5JPDJWQC";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script></div>
     </div>
     <!--/#container-->
     	
