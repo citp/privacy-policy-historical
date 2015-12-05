@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the slurl.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607195655id_/http%3A//secondlife.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slurl.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206000242id_/http%3A//secondlife.com/corporate/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Linden Lab
 
-### ** **
-
-### **Linden Lab Privacy Policy**
-
-Effective Date: August 1, 2013
+**Effective Date: August 1, 2013**
 
 Linden Research, Inc. and Linden Research UK, Ltd. (collectively **“Linden Lab”** ) respect the privacy of its online visitors and users of its products and services. We recognize the importance of protecting information collected from our users and have adopted this Privacy Policy to inform you about how we gather, store and use information derived from your use of our products, services and online sites in accordance with local law in the places where we operate.
 
