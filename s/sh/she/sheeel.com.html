@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sheeel.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607200335id_/http%3A//www.sheeel.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sheeel.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206001419id_/http%3A//www.sheeel.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -16,8 +16,9 @@
 <link href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=Amaranth:700" rel="stylesheet" type="text/css">
 
-<link rel="stylesheet" type="text/css" href="http://sheeel-media.r.worldssl.net/media/css/36542bf1bb13928ef5031c55afa4f9fa.1431005186.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://sheeel-media.r.worldssl.net/media/css/36542bf1bb13928ef5031c55afa4f9fa.1446810340.css" media="all">
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TBDHRF"></script><script type="text/javascript" src="http://sheeel-media.r.worldssl.net/media/js/a8b6127ad7e7542c6ea18eca91b8ec9a.1416220925.js"></script>
+<link rel="manifest" href="https://www.sheeel.com/chrome_res/">
 <!--[if lt IE 9]>
 <link rel="stylesheet" type="text/css" href="http://sheeel-media.r.worldssl.net/media/css/cc155ff1cdf576ce55702871eff36b26.1416923227.css" media="all" />
 <![endif]-->
@@ -239,8 +240,8 @@ optionalZipCountries = ["BH","KW","OM","QA","SA","AE"];
                                     </li>
 
                 
-                                <li class="my-cart-link">
-                    <a href="http://www.sheeel.com/checkout/cart/" title="My Cart"><i class="icon-shopping-cart"></i><span>My Cart</span></a>
+                                                <li class="my-cart-link">
+                    <a id="cartSwitch" href="http://www.sheeel.com/checkout/cart/" title="My Cart" class=""><i class="icon-shopping-cart"></i><span>My Cart</span></a>
                                     </li>
 
             </ul>
@@ -290,31 +291,132 @@ optionalZipCountries = ["BH","KW","OM","QA","SA","AE"];
     <ul id="nav">
         <li class="first-item ">
             <a href="http://www.sheeel.com/" title="Main Deal">
-				Main Deal            </a>
+                Main Deal            </a>
         </li>
-					<li class="level0 nav-1 first level-top"><a href="http://www.sheeel.com/under-5-kd.html" class="level-top"><span>Storage Box </span></a></li><li class="level0 nav-2 last level-top"><a href="http://www.sheeel.com/special-corner.html" class="level-top"><span>Casio</span></a></li>		    </ul>
+        <li class="more-item">
+            <a onclick="toggleContent()" class="more_toggle">More &nbsp;&nbsp;&nbsp;<span class="more-icon">+</span></a>
+            <ul class="sub-menu"></ul>
+        </li>
+                    <li class="level0 nav-1 first level-top"><a href="http://www.sheeel.com/under-5-kd.html" class="level-top"><span>Mobile Acc</span></a></li><li class="level0 nav-2 level-top"><a href="http://www.sheeel.com/special-corner.html" class="level-top"><span>Heater's</span></a></li><li class="level0 nav-3 last level-top"><a href="http://www.sheeel.com/coupons-kwt.html" class="level-top"><span>Coupons</span></a></li>        
+    </ul>
+    <div id="clone_nav" style="display:none"></div>
+
 </div>
 
-<script type="text/javascript">
-    var el = $('nav');
-    var children = el.childElements();
-    var total = children.size();
+<script type="text/javascript">    
+    var el = document.getElementById("nav");
+    localStorage.setItem("clone_nav", el.innerHTML);
+    var category_length;    
+    menu_load();
 
-    if (total < 3) {
-        var last = children[children.length -1];
-        last.setStyle({"border": "none"});
+    function menu_load(){         
+        
+        var children = el.childElements();
+        var category = el.getElementsByClassName("level0");                
+        var width = document.body.clientWidth;
+        category_length = 4;
+
+        for(var i=2; i<4; i++){
+
+            if( (el.offsetWidth/4) < (children[i].getElementsByTagName("span")[0].offsetWidth+20) ) {
+                category_length = 3;            
+            }
+        }
+
+        if(category.length>3 || width < 480 ){
+            load_sub_menu();    
+        }else{        
+            for(var i=2; i<children.length; i++){
+                if( (el.offsetWidth/4) < (children[i].getElementsByTagName("span")[0].offsetWidth+20) ){
+                    category_length = 3;                  
+                }
+            }
+
+            if(category_length == 3 ){
+                load_sub_menu();            
+            }else{
+                document.getElementsByClassName("more-item")[0].style.display = "none";
+                document.getElementsByClassName("last")[0].style.borderRight = "none";
+                
+                children.each(function(element) {
+                    element.setStyle({"width": (100/(children.length-1)-1)+'%'});
+                });     
+            }        
+        }      
     }
 
-    if (total == 1) {
+    window.addEventListener("resize", function() {   
+        el.innerHTML = localStorage.getItem("clone_nav");
+        menu_load();        
+    }, false);
+
+    function load_sub_menu(){ 
+        
+        var children = el.childElements();                    
+        var total = children.size();    
+        var j = category_length;
+        var width = document.body.clientWidth;
+        var sub_menu = document.getElementsByClassName("sub-menu")[0];             
+        var sub_children = sub_menu.childElements();
+
+        if( width < 480 ){
+            j = 2;
+        }
+
+        if (total < 3) {
+            if(category_length == 3){                
+                el.appendChild( sub_children[0]);
+            }else{
+                if( sub_children.length > 1 ){                                
+                    el.appendChild( sub_children[0]);
+                    el.appendChild( sub_children[1]);                
+                }else if(sub_children.length == 1){
+                    el.appendChild( sub_children[0]);
+                }    
+            }
+
+            var last = children[children.length -1];
+            last.setStyle({"border": "none"});            
+        }else{
+            for(var i=children.length-1; i >= j; i--){                
+                sub_menu.insertBefore( children[i], sub_menu.firstChild );                
+            }                        
+            sub_menu.childElements().each(function(element) {
+                element.setStyle({"width": '100%'});
+            });    
+        }
+
+
+
+        var children = el.childElements();             
+        var total = children.size();            
+
         children.each(function(element) {
-            element.setStyle({"width": "100%"});
-        });
+            element.setStyle({"width": (100/total-1)+'%'});
+        });    
+
+        if(total ==3 ){            
+            if(children[2].getElementsByTagName("span")[0].offsetWidth > (children[2].offsetWidth-30)){
+
+                children.each(function(element) {
+                    element.setStyle({"width": '26%'});
+                });    
+                children[2].setStyle({"width": '46%'});
+            } 
+        }
     }
 
-    if (total == 2) {
-        children.each(function(element) {
-            element.setStyle({"width": "49%"});
-        });
+    function toggleContent() {
+        // Get the DOM reference
+        var sub_menu = document.getElementsByClassName("sub-menu")[0];
+        // Toggle 
+        sub_menu.style.display == "block" ? sub_menu.style.display = "none" : 
+        sub_menu.style.display = "block"; 
+
+        var more_icon = document.getElementsByClassName("more-icon")[0];                
+        more_icon.innerHTML == "+" ? more_icon.innerHTML = "-" : more_icon.innerHTML = "+";
+        var more_item = document.getElementsByClassName("more-item")[0];
+        more_icon.innerHTML == "+" ? more_item.getElementsByTagName("a")[0].className = "more_toggle": more_item.getElementsByTagName("a")[0].className = "more-toggle";
     }
 </script>
     </div>
@@ -443,18 +545,22 @@ optionalZipCountries = ["BH","KW","OM","QA","SA","AE"];
 		<ul id="mobile-menu-bottom">
 			
 											<li style="width:49%" class="first ">
-					<a href="http://www.sheeel.com/under-5-kd.html" title="Storage Box ">
-						Storage Box 					</a>
+					<a href="http://www.sheeel.com/under-5-kd.html" title="Mobile Acc">
+						Mobile Acc					</a>
+				</li>
+															<li style="width:49%" class="">
+					<a href="http://www.sheeel.com/special-corner.html" title="Heater's">
+						Heater's					</a>
 				</li>
 															<li style="width:49%" class="last ">
-					<a href="http://www.sheeel.com/special-corner.html" title="Casio">
-						Casio					</a>
+					<a href="http://www.sheeel.com/coupons-kwt.html" title="Coupons">
+						Coupons					</a>
 				</li>
 									</ul>
 	</div>
         <div class="footer-container">
         <div class="footer-banner">
-        <p><a href="http://www.taw9eel.com" target="_blank"><img src="http://sheeel-media.r.worldssl.net/media/wysiwyg/Taw9eel/unnamed_8_.jpg" alt=""></a></p>    </div>
+        <p><a href="http://www.thouqi.com" target="_blank"><img src="http://sheeel-media.r.worldssl.net/media/wysiwyg/Thouqi/EnColors.jpg" alt=""></a></p>    </div>
         <div class="absolute-top-footer-container">
         <div class="absolute-top-footer">
             <div class="newsletter-subscribe">
@@ -479,8 +585,8 @@ optionalZipCountries = ["BH","KW","OM","QA","SA","AE"];
             <div class="customer-service">
                                 <h5>24/7 Customer Service:</h5>
                 <p><i class="icon-phone-sign"></i> <a href="tel: +965 1821010">+965 1821010</a>
-                </p>
-                <p><i class="icon-envelope-alt"></i> cs@sheeel.com</p>
+                </p>                
+                <p><a href="mailto:cs@sheeel.com"><i class="icon-envelope-alt"></i> cs@sheeel.com</a></p>
             </div>
         </div>
     </div>
@@ -547,8 +653,17 @@ optionalZipCountries = ["BH","KW","OM","QA","SA","AE"];
             <a target="_blank" class="thouqi" href="http://www.thouqi.com/?utm_source=sheeel&amp;utm_medium=website&amp;utm_content=footer&amp;utm_campaign=permanent" title="Go to Thouqi.com">Go to Thouqi.com</a>
         </div>
     </div>
-    <address>
-        ©2015 Tawseel General Trading WLL. All Rights Reserved.</address>
+    <div class="footer-bottom">
+        <div class="app_store">
+            <a target="_blank" class="apple_store" href="https://itunes.apple.com/us/app/sheeel/id911795091?mt=8" title="Download App Store for Sheeel">
+                <img src="http://sheeel-media.r.worldssl.net/skin/frontend/sheeel/default/images/app-store.svg" alt="Go to Apple store">
+            </a>
+            <!-- <a target="_blank" class="google_store" href="https://www.appannie.com/apps/google-play/app/com.wsheeeldeeel/" title="Google Play Store for Sheeel">Go to Google Store</a> -->        
+        </div>
+        <address>
+            ©2015 Tawseel General Trading WLL. All Rights Reserved.</address>
+    </div>    
+    
 </div>
         <!-- Google Code for Remarketing Tag -->
 <!--------------------------------------------------
@@ -568,7 +683,53 @@ Remarketing tags may not be associated with personally identifiable information 
 		<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/986811659/?value=0&amp;guid=ON&amp;script=0"/>
 	</div>
 </noscript>
-    </div>
+<script>
+    var WEB_SITE_PUSH_ID = 'web.com.sheeel';
+    var packageUrl = 'https://www.sheeel.com/notification/safari/package';
+
+    var isFirstRegister = "isFirstRegister";
+    var needToUpdate = false;
+    var isRegister ="isRegister"
+
+
+    
+    var checkRemotePermission = function (permissionData) {
+        if (permissionData.permission === 'default') {
+            window.safari.pushNotification.requestPermission(
+                packageUrl,
+                WEB_SITE_PUSH_ID,
+                {},
+                checkRemotePermission
+            );
+
+            try {
+                localStorage.setItem(isFirstRegister, "true");
+            }
+            catch(e) {
+                console.log("Storage failed");
+            }
+
+        } else if (permissionData.permission === 'denied') {
+            console.log('denied');
+        } else if (permissionData.permission === 'granted') {
+            if (localStorage.getItem(isFirstRegister) || needToUpdate) {
+                new Ajax.Request('http://www.sheeel.com/notification/safari/updatesubscriptionid/', {
+                    parameters: {token_id: permissionData.deviceToken, website_id: '1', store_id: '1'},
+                    onSuccess: function(response) {
+                                            }
+                });
+            }
+            localStorage.removeItem(isFirstRegister);
+        }
+    };
+
+    window.onload = function(){
+        if ('safari' in window && 'pushNotification' in window.safari) {
+            var permissionData = window.safari.pushNotification.permission(WEB_SITE_PUSH_ID);
+            checkRemotePermission(permissionData);
+        }
+    };
+</script>    </div>
 </div>
 
 </body></html>
