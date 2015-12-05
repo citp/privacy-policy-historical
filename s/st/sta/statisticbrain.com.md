@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statisticbrain.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022809id_/http%3A//www.statisticbrain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statisticbrain.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205070730id_/http%3A//www.statisticbrain.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Statistic Brain
 
@@ -11,5 +11,3 @@ Customers who purchase web hosting or register domains have their billing inform
 We do not store credit card or billing information in our system.
 
 We do not sell or solicit any customer information to third party vendors.
-
-Can't find the statistic you're looking for? Search our partner [Statista - The Statistics Portal](http://www.statista.com/)
