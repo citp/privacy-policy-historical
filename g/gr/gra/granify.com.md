@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the granify.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508231434id_/http%3A//www.granify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the granify.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205195813id_/http%3A//www.granify.com/privacy) for the most accurate reproduction.*
 
 # Granify | Privacy Statement
 
