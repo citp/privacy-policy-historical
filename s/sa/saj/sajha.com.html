@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the sajha.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607074238id_/http%3A//sajha.com/sajha/html/index.cfm%3Fprivacy%3D1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sajha.com privacy policy that was archived on 2015-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151205233118id_/http%3A//sajha.com/sajha/html/index.cfm%3Fprivacy%3D1) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:fb="http://ogp.me/ns/fb#"><head><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=162461387091"></script><script type="text/javascript">_cf_loadingtexthtml="<img alt=' ' src='/CFIDE/scripts/ajax/resources/cf/images/loading.gif'/>";
 _cf_contextpath="";
 _cf_ajaxscriptsrc="/CFIDE/scripts/ajax";
 _cf_jsonprefix='//';
-_cf_clientid='50980B343DE46BCDD178594A3B2229E5';</script><script type="text/javascript" src="/CFIDE/scripts/ajax/messages/cfmessage.js"></script>
+_cf_clientid='736A7B29C83B56325402902329BB3378';</script><script type="text/javascript" src="/CFIDE/scripts/ajax/messages/cfmessage.js"></script>
 <script type="text/javascript" src="/CFIDE/scripts/ajax/package/cfajax.js"></script>
 
 <!-- Force latest IE rendering engine or ChromeFrame if installed -->
@@ -395,7 +395,17 @@ $(function() {
     
     
     
-      <li><a href="/sajha/html/index.cfm?eventid=2608"><em><span>JUN 20 SAT</span> » MA » Party » Mirchi Moonlight Boat Praty</em></a></li> 
+      <li><a href="/sajha/html/index.cfm?eventid=2687"><em><span>DEC 5 SAT</span> » MA » Nepali Movie » Kabaddi Kabaddi</em></a></li> 
+    
+      <li><a href="/sajha/html/index.cfm?eventid=2686"><em><span>DEC 5 SAT</span> » NH » Musical Event » Ram Krishna Dhakal Solo Nite</em></a></li> 
+    
+      <li><a href="/sajha/html/index.cfm?eventid=2681"><em><span>DEC 13 SUN</span> » RI » Nepali Movie » Kabaddi Kabaddi in Providence, RI, USA</em></a></li> 
+    
+      <li><a href="/sajha/html/index.cfm?eventid=2689"><em><span>DEC 19 SAT</span> » GA » Movie » Kabaddi Kabaddi -Atlanta, GA</em></a></li> 
+    
+      <li><a href="/sajha/html/index.cfm?eventid=2688"><em><span>DEC 27 SUN</span> » MA » Celebration » Lhochhar - Boston Tamu</em></a></li> 
+    
+      <li><a href="/sajha/html/index.cfm?eventid=2680"><em><span>DEC 31 THU</span> » MA » New Years Eve Event » Bollywood Glitz | New Years Eve 2016</em></a></li> 
     
     </ul>
   </div>                        
@@ -411,6 +421,10 @@ $(function() {
 <div style="max-height:300px;height:auto !important;overflow:auto;">
 <div class="listings">
     <ul>
+    
+      <li><a href="/sajha/html/index.cfm?eventid=2685"><em><span>DEC 31 THU</span> » MA » Party, Dance » New Years Eve 2016- GloW in The darK ParTy</em></a></li> 
+    
+      <li><a href="/sajha/html/index.cfm?eventid=2684"><em><span>JAN 2 SAT</span> » WA » Northwest Gurung Lhosar 2016 Party » Seattle</em></a></li> 
     
     </ul>
   </div>                 
@@ -536,8 +550,17 @@ $(document).ready(function($){
             </li><!-- End Item -->
             
             
-      
-            
+
+			<li>
+            	<a href="#_" class="megamenu_drop" id="showloginbox">LOGIN</a>
+                
+                <div class="dropdown_fullwidth shadow" id="showloginboxdown"><!-- Begin Item container -->   
+                                <img src="/img/loader.gif">        
+                </div><!-- End Item Container -->
+                
+                
+            </li>
+           
             
             
 
@@ -551,6 +574,7 @@ $(document).ready(function($){
                     <div class="col_12">
                     
                         <ul class="list_unstyled">
+                        	<li><a href="/bookmarks">Bookmarks</a></li>
                             <li><a href="index.cfm?showforums=1">Other Discussions</a></li>
                             <li><a href="http://nepallove.com" target="_blank">Find Love / NepalLove.com</a></li>
                             <li><a href="http://chahiyo.com" target="_blank">Classifieds / Chahiyo.com</a></li>
@@ -586,7 +610,8 @@ $("#localjobs").hover(function() {
 			var ids = $('[id="' + this.id + '"]');
 			if (ids.length > 1) $('[id="' + this.id + '"]:gt(0)').remove();
 			});
-    })	
+	});
+
 
 
 var itjobsloaded = 0
@@ -600,7 +625,8 @@ $("#itjobs").hover(function() {
 			var ids = $('[id="' + this.id + '"]');
 			if (ids.length > 1) $('[id="' + this.id + '"]:gt(0)').remove();
 			});
-    })
+
+    });
 	
 	
 var roommatesloaded = 0
@@ -614,7 +640,21 @@ $("#roommates").hover(function() {
 			var ids = $('[id="' + this.id + '"]');
 			if (ids.length > 1) $('[id="' + this.id + '"]:gt(0)').remove();
 			});
-    })		
+    });
+	
+	
+var showloginboxloaded = 0
+$("#showloginbox").hover(function() {
+		if (showloginboxloaded == 0)
+		{     
+		$("#showloginboxdown").load("loginmenu.cfm");
+		showloginboxloaded = 1;
+		}
+					$('[id]').each(function (i) {
+			var ids = $('[id="' + this.id + '"]');
+			if (ids.length > 1) $('[id="' + this.id + '"]:gt(0)').remove();
+			});
+    });			
 	</script>
     <script type="text/javascript" src="include/jquery.tokeninput.js"></script>
     <link rel="stylesheet" href="include/token-input.css" type="text/css">
