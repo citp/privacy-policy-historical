@@ -1,167 +1,194 @@
-> *The following text is extracted and transformed from the trustedpsychicmediums.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074229id_/http%3A//trustedpsychicmediums.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedpsychicmediums.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205234159id_/http%3A//trustedpsychicmediums.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Trusted Psychic Mediums
 
-We are committed to safeguarding the privacy of our website visitors; this policy[2] sets out how we will treat your personal information.[3]
+_Revised as of May 27, 2015_
 
-[Our website uses cookies. [We will ask you to consent to our use of cookies in accordance with the terms of this policy when you first visit our website. / By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.][4]]
+  1. **INTRODUCTION**
 
-**(1)       Credit**
 
-This document was created using an [SEQ Legal](http://www.seqlegal.com/free-legal-documents/privacy-policy) template.
 
-**(2)       What information do we collect?**
+**__Purpose__**. The purpose of this Privacy Policy (“ ** _Policy_** ”) is to describe how TrustedPsychicMediums.com (“ ** _Company_** ,” “ ** _we_** ,” and “ ** _us_** ”) collects, shares and protects your personal information. We collect certain personal information through our websites, which as of the revision date noted above, are located at TrustedPsychicMediums.com including any associated mobile web sites and mobile applications (collectively, the “Sites”). 
 
-We may collect, store and use the following kinds of personal information:
+**PLEASE READ THIS POLICY CAREFULLY**. If you do not understand any aspects of this Policy or have any questions related to this Policy, please feel free to [contact us on-line](http://trustedpsychicmediums.com/contact-us/).
 
-[(a)    information about your computer and about your visits to and use of this website (including [your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views, website navigation and [ _details_ ]]);]
+This Policy explains:
 
-[(b)    information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services (including [ _details_ ]);]
+  * The Types of Information We Collect from You and Why We Collect It
+  * How We Use and Share Your Information
+  * Access to Your Information and Choices
+  * Security of Your Information
+  * California Privacy Rights
+  * Changes to Our Privacy Policy
+  * Questions and How to Contact Us
 
-[(c)     information that you provide to us for the purpose of registering with us (including [ _details_ ]);]
 
-[(d)    information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters (including [ _details_ ]);]
 
-[(e)    any other information that you choose to send to us; and]
+**__Notice With Regard To Third-Party Sites__**. This Policy applies only to information that we collect through our Sites. It is important that you understand that our Sites contain links to third-party sites that are not owned, operated or controlled in any way by us. Please be aware that we cannot be, and are not responsible for the privacy practices of websites that are not owned, operated or controlled by us, even if our Sites contain links through which you may choose to visit such websites.
 
-[(f)     _other information_ _._ ][5]
+Be aware that when you choose to leave our Sites to visit any website not owned or operated by us, you should always read the privacy policy of that website, since the privacy policies of that website that would govern how its owners collect and use your personal information.
 
-[Before you disclose to us the personal information of another person, you must obtain that person’s consent to both the disclosure and the processing of that personal information in accordance with the terms of this privacy policy.]
+**__Read Our Terms of Use__**. Your use of our Sites is also subject to our ‘Terms of Use,’ which describe other terms and conditions to which you are deemed to agree by your act of using our Sites. Please read our Terms of Use carefully and [contact us on-line](http://trustedpsychicmediums.com/contact-us/) or by post as described below if you have any questions or concerns or feel that you do not fully understand any part of our Terms of Use.
 
-[ **(3)      Cookies**[6]
+**IF YOU DO NOT AGREE WITH ANY PART OF THIS POLICY OR OUR TERMS OF USE, YOUR ONLY OPTION IS NOT TO USE OUR SITES**. By accessing and continuing to use our Sites, you agree to this Policy and the Terms of Use.  
+**2\. INFORMATION WE COLLECT AND WHY WE COLLECT IT**
 
-A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
+  1. _Personally Identifiable Information That You Provide To Us_. You may provide certain information to us on our Sites through various actions you might take, including:
 
-We [may] use [both] [“session” cookies] [and “persistent” cookies] on the website. [Session cookies will be deleted from your computer when you close your browser.] [Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.]
 
-[We will use the session cookies to: keep track of you whilst you navigate the website; keep track of items in your shopping basket; prevent fraud and increase website security; and [ _other uses_ ].] [We will use the persistent cookies to: enable our website to recognise you when you visit; keep track of your preferences in relation to your use of our website; and [ _other uses_ ].]
 
-[We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google’s privacy policy is available at: http://www.google.com/privacypolicy.html.] **[7]**
+(i) by signing up for a newsletter;
 
-[Our [advertisers / payment services providers] may also send you cookies.] **[8]**
+(ii) by filling out feedback forms;
 
-[We publish Google AdSense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour on our website and on other websites across the web using the DART cookie. You can view, delete or add interest categories associated with your browser using Google’s Ads Preference Manager, available at: http://www.google.com/ads/preferences/. You can opt out of the AdSense partner network cookie at: http://www.google.com/privacy/ads/ or by using the NAI’s (Network Advertising Initiative’s) multi-cookie opt-out mechanism at: http://www.networkadvertising.org/managing/opt_out.asp. However, these opt-out mechanisms use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: http://www.google.com/ads/preferences/plugin.][9]
+(iii) by filling out ‘contact us’ forms;
 
-[You can manage your preferences relating to the use of cookies on our website by visiting [ _URL_ ].]
+(iv) by filling out on-line email forms;
 
-Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer (version 9) you can refuse all cookies by clicking “Tools”, “Internet options”, “Privacy”, and selecting “Block All Cookies” using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites[, including this one].]
+(v) by submitting request for information forms;
 
-(4)      Using your personal information
+(vi) by providing user generated content, such as user comments, blog posts, “hashtags” and other social media type communications; and
 
-Personal information submitted to us via this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
+(vii) by reporting a problem to us on our Sites.
 
-We may use your personal information to:
+The information that you provide and that we collect from you could and most often does include  _personally identifiable_  information about you, such as your legal name, address, telephone number, and email address that could be used to identify, contact or locate you.
 
-[(a)    administer the website;]
+  13. _No Information From Children Under Age 13_.
 
-[(b)    improve your browsing experience by personalising the website;]
 
-[(c)     enable your use of the services available on the website;]
 
-[(d)    send you goods purchased via the website, and supply to you services purchased via the website;]
+**OUR SITES ARE NOT INTENDED FOR USE BY CHILDREN UNDER THE AGE OF 13**. If you are under the age of 13, you must get the express permission of your parents before using our Sites.
 
-[(e)    send statements and invoices to you, and collect payments from you;]
+Do not attempt to provide any personal information about yourself to us. If we learn that we have collected personal information from a child under the age of 13, we will promptly delete that information. If you believe we might have any information from a child under the age of 13, please [contact us on-line](http://trustedpsychicmediums.com/contact-us/) so that we may immediately investigate and take appropriate action as soon as practicable.
 
-[(f)     send you general (non-marketing) commercial communications;]
+  1. _Non-Personally Identifiable Information We Collect Automatically_.
 
-[(g)    send you email notifications which you have specifically requested;]
 
-[(h)    send you [our newsletter and other] marketing communications relating to our business [or the businesses of carefully-selected third parties] which we think may be of interest to you, by post or, where you have specifically agreed to this, by email or similar technology (and you can inform us at any time if you no longer require marketing communications);][10]
 
-[(i)     provide third parties with statistical information about our users – but this information will not be used to identify any individual user;]
+We also collect certain non-personally identifiable information about your use of our Sites, such as:
 
-[(j)     deal with enquiries and complaints made by or about you relating to the website;]
+(i) your IP address;
 
-[(k)    keep the website secure and prevent fraud;]
+(ii) your browser type;
 
-[(l)     verify compliance with the terms and conditions governing the use of the website [(including monitoring private messages sent through our website private messaging service)]; and]
+(iii) your computer or device type;
 
-[(m)   [ _other uses_ ].][11]
+(iv) your unique device identifiers;
 
-[Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the licence you grant to us.][12]
+(v) your Operating system version;
 
-[Your privacy settings can be used to limit the publication of your information on the website. You can adjust your privacy settings by [ _describe how_ ].]
+(vi) the last previous web page from where you navigated to our Sites;
 
-[We will not, without your express consent, provide your personal information to any third parties for the purpose of direct marketing.][13]
+(vii) the time and date of your using our Sites;
 
-[All our website financial transactions are handled through our payment services provider, [PayPal]. You can review the [PayPal] privacy policy at [www.paypal.com]. We will share information with [PayPal] only to the extent necessary for the purposes of processing payments you make via our website, refunding such payments and dealing with complaints and queries relating to such payments and refunds.][14]
+(viii) the name of your Internet service provider (ISP);
 
-**(5)      Disclosures**
+(viv) the pages on our Sites that you view;
 
-We may disclose your personal information to [any of our employees, officers, agents, suppliers or subcontractors] insofar as reasonably necessary for the purposes set out in this privacy policy.
+(x) your location / geo-location information
 
-[We may disclose your personal information to any member of our group of companies (this means our subsidiaries, our ultimate holding company and all its subsidiaries) insofar as reasonably necessary for the purposes set out in this privacy policy.]
+(xi) cookies (defined and explained below); and
 
-In addition, we may disclose your personal information:
+(xii) local shared objects (flash cookies).
 
-(a)      to the extent that we are required to do so by law;
+Non-personally identifiable information is data that cannot alone be used to identify you personally.
 
-(b)      in connection with any ongoing or prospective legal proceedings;
+  1. _Cookies_.
 
-(c)      in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);
 
-[(d)    to the purchaser (or prospective purchaser) of any business or asset that we are (or are contemplating) selling; and]
 
-[(e)    to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.]
+When you visit our Sites, we send one or more ‘cookies’ to your computer or other device. A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit our Sites again, these cookies allow us to recognize your browser.
 
-Except as provided in this privacy policy, we will not provide your information to third parties.
+Cookies may store unique identifiers, user preferences and other information. You can adjust the settings in your browser to refuse all cookies or to inform you when a cookie is being sent. However, some website features or services may not function properly without cookies. We use cookies to improve the quality of our service, including for storing your user preferences, tracking user trends and providing relevant advertising to you (subject to your opt-out rights).
 
-**(6)       International data transfers**[15]
+  1. _Device Identifiers_.
 
-Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
 
-Information which you provide may be transferred to countries [(including [the United States], [Japan], [ _other countries_ ])] which do not have data protection laws equivalent to those in force in the European Economic Area.
 
-[In addition, [personal information that you submit for publication on the website] will be published on the internet and may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.]
+When you access our Sites, we may access, collect, monitor and/or remotely store one or more “device identifiers.” Device identifiers are small data files or similar data structures stored on or associated with your computer or mobile device that uniquely identifies your device and are used by TrustedPsychicMediums.com to enhance your use of our Sites. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device’s operating system or software, or date sent to the device by TrustedPsychicMediums.com. A device identifier may convey information about how you browse our Sites. A device identifier does not collect or share any personally identifiable information about you. However, a device identifier may be used in conjunction with other information in a manner that may constitute personally identifiable information.
 
-You expressly agree to such transfers of personal information.
+  1. ___Location Data_ **.**
 
-(7)      Security of your personal information
 
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
-We will store all the personal information you provide on our secure (password- and firewall-protected) servers.[16]
+When you access our Sites, and with your express prior opt-in consent, we may access, collect, monitor and/or remotely store “location data,” which may include GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device. Location data may convey information to us about how you browse our Sites. Location data does not collect or share any personally identifiable information about you. However, location data may be used in conjunction with other information in a manner that may constitute personally identifiable information.
 
-[All electronic transactions entered into via the website will be protected by encryption technology.]
+  1. _Pixel Tags_. We may also use ‘pixel tags,’ also known as ‘web beacons,’ which are small graphic files that allow us to monitor the use of our websites.  Pixel tags are a type of technology placed on a website or within the body of an email for the purpose of tracking activity on our Sites, or to confirm when emails are opened or accessed, and are often used in combination with cookies. A pixel tag can collect information such as the IP (Internet Protocol) address of the computer that downloaded the page on which the tag appears, the URL of the page on which the pixel tag appears, the time the page containing the pixel tag was viewed, the type of browser that fetched the pixel tag, and the identification number of any cookie on the computer previously placed by that server. Typically, pixel tags are used to count users who have visited certain pages of our Sites, who have opened an email from us, and to collect other website statistics such as popularity of certain content found on our Sites and to verify system and server integrity.
 
-You acknowledge that the transmission of information over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
 
-[You are responsible for keeping your password [and other login details] confidential. We will not ask you for your password (except when you log in to the website).]
 
-(8)      Policy amendments[17]
+___Log File Information_.
 
-We may update this privacy policy from time to time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
+Log file information is automatically reported by your browser each time you access a web page. When you use our Sites, our servers automatically record certain log file information. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, data about how you interact with links on our Sites, and other such information.
 
-[We may also notify you of changes to our privacy policy by email.]
+  * _Passive Browser Information_ **.** We collect passive browser information through our web servers. We use this information to help us understand how many visitors come to our Sites and where they come from.
+  * _Scripts_.  A script is a short segment of computer code included in a web page or other content that can be used to set and access a cookie on your computer’s hard drive and to record your activity on a website. TrustedPsychicMediums.com may use scripts on our Sites, on third-party websites, or in our emails and newsletter.
 
-(9)      Your rights
 
-You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to:
 
-(a)      the payment of a fee (currently fixed at GBP 10); and
+**HOW WE USE AND SHARE YOUR INFORMATION**
 
-(b)      the supply of appropriate evidence of your identity [(for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address)].
+  1. _To Provide Products, Services, and Information (Personally Identifiable Information)_. We use the information that we collect about you or that you provide to us, including any personal information, (i) so that we can present our Sites and their contents to you, (ii) to provide you with information, products and services that you request from us, (iii) to allow you to participate in interactive or social features on our Sites, (iv) to fulfill any other purpose for which you provide information to us, (v) in any other way we may describe when you provide such information to us, and (vi) for any other purpose with your consent.
 
-We may withhold such personal information to the extent permitted by law.
 
-You may instruct us not to process your personal information for marketing purposes[, by sending an email to us]. In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt out of the use of your personal information for marketing purposes.
 
-**(10)     Third party websites**
+We may use third parties to help host our Sites, send out email updates about the Sites, provide marketing and advertising services for us, remove repetitive information from our user lists, and otherwise support our business. These service providers will have access to your personal information in order to provide these services, but when this occurs we implement reasonable contractual and technical protections to limit their use of that information to helping us provide the service. We use demographic information to better understand our customers, and improve our products and services.
 
-The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
+  1. _How We may Use Non-Personally Identifiable Information_. We use non-personally identifiable information for reasons including to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our services; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; (e) diagnose or fix technology problems reported by our users or engineers that are associated with certain IP addresses; (f) monitor and prevent fraud and abuse; (g) keep track of preferences you specify while you are using our Sites; (h) conduct research to improve or Sites; (i) monitor advertising-related metrics, in order to provide you with more helpful and relevant advertising; and (j) track user content and users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act.
 
-**(11)     Updating information**
 
-Please let us know if the personal information which we hold about you needs to be corrected or updated.
+  1. _For Advertising and Marketing_. We may use how you browse our Sites in order to show you ads for our Company or for our advertising partners that may be more relevant to your interests. We may use cookies and other information to provide relevant, interest-based advertising to you. Interest-based ads are ads presented to you based on your browsing behavior on our Sites in order to provide you with ads more tailored to your interests. These interest-based ads may be presented to you while you are browsing our Sites, or when you are browsing third-party sites not owned by Company.
 
-(12)    Contact
 
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to [ _email_ ] or by post to [ _postal address_ ].[18]
 
-**(13)     Data controller**
+We allow certain third-party companies to serve ads and/or collect certain anonymous information when you and other Internet users visit. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to our Sites and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third-party web beacon to collect this information.
 
-The data controller responsible in respect of the information collected on this website is [ _company/business name_ ].
+We belong to ad networks that may use your browsing history across participating websites (such as our Sites) to show you interest-based advertisements on those websites.
 
-###### **You must retain the SEQ Legal credit and link set out in Section 1 above. However, professional legal documents do not ordinarily include such credits and links. You can purchase the right to use this document without the credit and link here:** ** **[ http://www.website-contracts.co.uk/acatalog/privacy_policy.html](http://www.website-contracts.co.uk/acatalog/privacy_policy.html)
+You can opt-out of receiving interest-based ads from us through these third parties by following the opt-out procedures set forth at:
 
-######   **Unless you have purchased this right, it is an infringement of copyright and breach of licence to use this document without the credit and link.**
+<http://www.google.com/ads/preferences/plugin/index.html>
+
+<http://advertising.aol.com/privacy/advertisingcom/opt-out>
+
+<http://www.networkadvertising.org/choices/#completed>
+
+Please note that even if you choose to opt out of receiving interest-based ads, you will continue to see ads on our Sites, but they will not be based on how you browse our Sites.
+
+Websites you browse may also offer their own opt-out methods for interest-based advertising.
+
+  1. _Third Party Advertising & Marketing_. From time-to-time, and with your consent, we may disclose information you share with us, with companies who may wish to offer you products and services of interest. You may opt into this information sharing by emailing: [privacy@trustedpsychicmediums.com](mailto:privacy@trustedpsychicmediums.com).
+  2. _Your Consent_. We will share your personal information with companies, organizations or individuals outside of the Company only when we have your consent to do so. We require opt-in consent for the sharing of any sensitive personal information. Sensitive personal information is a particular sub-category of personal information relating to confidential medical facts, racial or ethnic origins, political or religious beliefs or sexual orientation
+  3. _Legal Requests or Requirements and to Prevent Harm_. We will share personal information with third-party companies, organizations, agencies, or individuals outside of Company if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:(i) comply with any applicable law, regulation, subpoena, legal process or enforceable governmental request;(ii) enforce applicable Terms of Use, including investigation of potential violations thereof;(iii) detect, prevent, or otherwise address fraud, security or technical issues; and(iv) protect against harm to the rights, property or safety of the Company, our users, customers or the public, as required or permitted by law
+  4. _Transfer in the Event of Sale or Change of Control_. If the ownership of all or substantially all of our business changes or we otherwise transfer assets relating to our business or the Sites to a third party, such as by merger, acquisition, bankruptcy proceeding or otherwise, we may transfer or sell your personal information to the new owner. In such a case, unless permitted otherwise by applicable law, your information would remain subject to the promises made in this Policy (as amended) unless you agree different
+
+
+
+**ACCESS TO YOUR INFORMATION AND CHOICES**
+
+You can contact us through our [contact us page](http://trustedpsychicmediums.com/contact-us/) to obtain information about the personal information we have relating to you. If you have questions about personal information we have about you or need to update your information, you can contact us through our [contact us page](http://trustedpsychicmediums.com/contact-us/). You can opt-out of receiving marketing and promotional e-mails from Company by using the opt-out or unsubscribe feature contained in those e-mails.  
+**5\. SECURITY OF YOUR INFORMATION**
+
+We use commercially reasonable measures to maintain the privacy and security of your personal information. However, since the Internet is not a 100% secure environment, we cannot guarantee, ensure, or warrant the security of any information you transmit to us. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information, if any. Please note that e-mails and other communications you send to us through our Sites are not encrypted, and we strongly advise you not to communicate any confidential information through these means.  
+**6\. CALIFORNIA PRIVACY RIGHTS**
+
+Under California’s “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once per calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses.
+
+If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2015 will receive information regarding 2014 sharing activities).
+
+To obtain this information, please send an email message to [privacy@trustedpsychicmediums.com](mailto:privacy@trustedpsychicmediums.com)
+
+with “Request for California Privacy Information” on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response.
+
+Please be aware that not all information sharing is covered by the “Shine the Light” requirements and only information on covered sharing will be included in our response.
+
+**7\. CHANGES TO OUR PRIVACY POLICY**
+
+Moguldom may modify or update this Policy at its sole discretion from time to time, and so you should review this Policy periodically. When we change the Policy in a material way, we will notify you by means of a notice on our Sites prior to the change becoming effective. Changes to this Policy are effective when they are posted on this page.
+
+Your continued access to our Sites after the Policy has been modified and posted will signify your acceptance of all such modifications.  
+The date this Policy was last revised is identified at the top of this page. You are responsible for ensuring that we have an active, up-to-date email address for you and for periodically visiting this Policy to check for any changes.
+
+**8\. QUESTIONS AND HOW CONTACT US**
+
+If you have any questions, concerns, complaints or suggestions regarding this Policy or otherwise need to contact us, please [contact us on-line](http://trustedpsychicmediums.com/contact-us/).
