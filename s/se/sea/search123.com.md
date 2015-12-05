@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the search123.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185716id_/http%3A//www.search123.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search123.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205235712id_/http%3A//www.search123.com/privacy) for the most accurate reproduction.*
 
 # Search123 | Privacy Policy
 
@@ -136,7 +136,7 @@ The purpose of this cookie policy is to inform you about the types of cookies we
 
 ### Why do we use cookies?
 
-Cookies allow the server to recognise you when you revisit. Websites are able to read and write these files, allowing them to store things like personalisation details or user preferences. They are widely used in order to make websites work, or work more efficiently, as well as to provide business and marketing information to the owners of the site. Cookies are used to improve the experience web users have when they see web advertisements and ensure that when a web user clicks on an advertisement, they are sent to the correct click-through destination. We may use Cookies to estimate the total reach of an advertising campaign, as well as frequency of display. Cookies are also used for statistical purposes to track how many individual unique users we have and how often they visit our websites and to generate statistical cookies to track advertising impressions and conversions. There is further information if you click here:[www.youronlinechoices.eu](https://web.archive.org/web/20150607185716id_/http://www.search123.com/privacy/www.youronlinechoices.eu). We will use the data that we collect through our use of these cookies to ensure that you see relevant and useful adverts when you visit our Web site and/or use our services. 
+Cookies allow the server to recognise you when you revisit. Websites are able to read and write these files, allowing them to store things like personalisation details or user preferences. They are widely used in order to make websites work, or work more efficiently, as well as to provide business and marketing information to the owners of the site. Cookies are used to improve the experience web users have when they see web advertisements and ensure that when a web user clicks on an advertisement, they are sent to the correct click-through destination. We may use Cookies to estimate the total reach of an advertising campaign, as well as frequency of display. Cookies are also used for statistical purposes to track how many individual unique users we have and how often they visit our websites and to generate statistical cookies to track advertising impressions and conversions. There is further information if you click here:[www.youronlinechoices.eu](https://web.archive.org/web/20151205235712id_/http://www.search123.com/privacy/www.youronlinechoices.eu). We will use the data that we collect through our use of these cookies to ensure that you see relevant and useful adverts when you visit our Web site and/or use our services. 
 
 ## Our Cookies Policy
 
@@ -227,14 +227,14 @@ Please consult your documentation or online help files.
 
 ### Further information about cookies
 
-If you would like to learn more about cookies please visit [www.aboutcookies.org](https://web.archive.org/web/20150607185716id_/http://www.search123.com/privacy/www.aboutcookies.org). 
+If you would like to learn more about cookies please visit [www.aboutcookies.org](https://web.archive.org/web/20151205235712id_/http://www.search123.com/privacy/www.aboutcookies.org). 
 
 ### Useful links
 
 If you would like to find out more, you may find the following links useful: 
 
-  * The IAB has provided the following website:[youronlinechoices.eu](https://web.archive.org/web/20150607185716id_/http://www.search123.com/privacy/youronlinechoices.eu)
-  * For more detailed information about cookies visit [www.allaboutcookies.org](https://web.archive.org/web/20150607185716id_/http://www.search123.com/privacy/www.allaboutcookies.org)
+  * The IAB has provided the following website:[youronlinechoices.eu](https://web.archive.org/web/20151205235712id_/http://www.search123.com/privacy/youronlinechoices.eu)
+  * For more detailed information about cookies visit [www.allaboutcookies.org](https://web.archive.org/web/20151205235712id_/http://www.search123.com/privacy/www.allaboutcookies.org)
 
 
 
