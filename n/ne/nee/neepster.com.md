@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neepster.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613073747id_/http%3A//www.neepster.com/page/2/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neepster.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205122036id_/http%3A//www.neepster.com/page/2/privacy-policy.html) for the most accurate reproduction.*
 
 # Neepster - Privacy Policy
 
