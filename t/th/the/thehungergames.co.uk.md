@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thehungergames.co.uk privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407084146id_/http%3A//www.scholastic.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehungergames.co.uk privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205200937id_/http%3A//www.scholastic.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Scholastic UK - Children's Books, Book Clubs, Book Fairs and Teacher Resources
 
-**We use cookies on our websites! To find out more about how we use cookies, go to[www.scholastic.co.uk/cookies](https://web.archive.org/web/20150407084146id_/http%3A//www.scholastic.co.uk/cookies).**
+**We use cookies on our websites! To find out more about how we use cookies, go to[www.scholastic.co.uk/cookies](https://web.archive.org/web/20151205200937id_/http%3A//www.scholastic.co.uk/cookies).**
 
 Please read the following Privacy Policy (“Privacy Policy”) carefully before submitting any details via www.scholastic.co.uk (the “Website”).
 
-The Website is owned and operated by Scholastic Limited, a limited liability company registered in England and Wales with registered number 00701339 and registered office at Westfield Road, Southam, Leamington Spa, Warwick CV74 0RA. We are registered in the UK for Data Protection purposes and our registered number is Z5371983.
+The Website is owned and operated by Scholastic Limited, a limited liability company registered in England and Wales with registered number 00701339 and registered office at Westfield Road, Southam, Warwickshire, CV47 0RA. We are registered in the UK for Data Protection purposes and our registered number is Z5371983.
 
 The terms “we”, “our”, “us” when used in this Privacy Policy means Scholastic Limited (“Scholastic”).
 
