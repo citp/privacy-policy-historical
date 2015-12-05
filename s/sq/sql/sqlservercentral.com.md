@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlservercentral.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607184601id_/http%3A//www.sqlservercentral.com/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlservercentral.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205235323id_/http%3A//www.sqlservercentral.com/About/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SQLServerCentral
 
@@ -30,9 +30,9 @@ We will use this information to:
 
 
 
-We may collect any personal information provided by you to us through this web site [or via one of our telephone operators] , or we may collect this information through your e-mail or other communications with us. Certain information is collected automatically, as described later in the privacy policy. 
+We may collect any personal information provided by you to us through this web site, or we may collect this information through your e-mail or other communications with us. Certain information is collected automatically, as described later in the privacy policy. 
 
-We may also ask you for other optional information such as what sort of [equipment/device/software] you use and what other subjects interest you. If you choose to give us this information, we will use it to help us to provide you with the best possible service that is personalised to your needs and preferences. 
+We may also ask you for other optional information such as what other subjects interest you. If you choose to give us this information, we will use it to help us to provide you with the best possible service that is personalised to your needs and preferences. 
 
 Although we do not make it compulsory to give us every item of information we ask for, the more information you volunteer (and the more accurate it its), the better we can tailor our services for you. 
 
@@ -47,6 +47,8 @@ We may also share non-personal aggregate, or summary, information regarding our 
 1.3.3 Cookies are very small text files saved to your computer used to track user navigation around a website. At [www.SQLServerCentral.com](http://www.sqlservercentral.com/), session cookies are used to identify unique users to our sites. They are not cross-referenced with any other information such that an individual person could be identified. 
 
 SQLServerCentral.com may use a third party to serve advertisements on our sites. The advertisers may use cookies to track the number of users responding to the campaign. SQLServerCentral.com does not have access to or control of cookies placed by third parties. 
+
+SQLServerCentral.com may use third-party cookies, such as those from Google and LinkedIn, in order to serve related adverts on third-party sites (remarketing). These cookies are used by third parties to identify your browsing history and serve related adverts on third-party sites where this functionality is enabled. These cookies are purely browser-based, and are in no way connected to any personal information stored on SQLServerCentral.com. You can opt out of Google's cookies by visiting [Google ad settings](http://www.google.com/settings/ads). You can opt out of cookies employed by other third parties by visiting <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
 Disabling/Enabling Cookies - users have the ability to accept or disable cookies by modifying the settings in their browser. Disabling cookies however may mean that some functionality may be affected.  
 For further directions on how to disable cookies please click here <http://www.allaboutcookies.org/manage-cookies/stop-cookies-installed.html>
