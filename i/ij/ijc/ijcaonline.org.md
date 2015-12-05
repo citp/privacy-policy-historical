@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the ijcaonline.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607073912id_/http%3A//www.ijcaonline.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D585) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijcaonline.org privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205232903id_/http%3A//www.ijcaonline.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D585) for the most accurate reproduction.*
 
 # IJCA - Privacy Policy
+
+Call for Paper - January 2016 Edition 
+
+IJCA solicits original research papers for the January 2016 Edition. Last date of manuscript submission is **December 21, 2015**. [Read More](http://www.ijcaonline.org/calls-)
+
+  
+
 
 International Journal of Computer Applications (“IJCA”) is intent on protecting your privacy. The following explains how we treat personal information that we collect and receive, including information related to your past use of IJCA products and services. 
 
