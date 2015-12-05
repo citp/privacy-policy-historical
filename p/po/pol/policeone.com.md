@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the policeone.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629052000id_/http%3A//www.policeone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the policeone.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205235300id_/http%3A//www.policeone.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,8 +19,6 @@ We are committed to maintaining your confidence and trust with respect to the in
 PoliceOne is dedicated to safeguarding your privacy online. As a policy, we will not sell or otherwise misuse your personal information. Your personal information helps us customize PoliceOne to your interests and allows us to negotiate valuable member discounts and related services. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings.
 
 This privacy policy was last updated on 05/06/2015
-
-[](https://privacy.truste.com/privacy-seal/Praetorian-Group,-Inc-/validation?rid=3946de84-0dba-4232-849b-85d0f88e7db0 "TRUSTe online privacy certification")
 
 **What personal information does PoliceOne collect from me?**
 
