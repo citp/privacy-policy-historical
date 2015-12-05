@@ -1,29 +1,25 @@
-> *The following text is extracted and transformed from the photographymad.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022608id_/http%3A//www.photographymad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photographymad.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205191841id_/http%3A//www.photographymad.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Photography Mad
 
-_If you require any more information or have any questions about this privacy policy, please feel free to[contact me](https://web.archive.org/contact)._
+If you’d like any more information or have any questions about this privacy policy, please feel free to [contact me](https://web.archive.org/contact).
 
-At PhotographyMad.com, the privacy of visitors is of extreme importance. This privacy policy document outlines the types of personal information is received and collected by PhotographyMad.com and how it is used.
+Your privacy is very important. This page describes the types of personal information that is collected by Photography Mad and how it is used.
 
-##  Log Files
+##  Log files
 
-Like many other Web sites, PhotographyMad.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyse trends, administer the site, track users' movement around the site, and gather demographic information. IP addresses and other such information are not linked to any information that is personally identifiable.
+Like most websites, Photography Mad makes use of log files. These files include information like your IP address, browser type, Internet Service Provider (ISP), date/time of visit, referring/exit pages and link clicks.
 
-##  Cookies and Web Beacons
+This information is used to help me understand how visitors use my site, analyse trends and gather demographic information. IP addresses and other such information are not linked to any information that is personally identifiable.
 
-PhotographyMad.com does not use cookies or web beacons.
+##  Cookies
 
-##  DoubleClick DART Cookie
+Photography Mad does not use cookies.
 
-Google, as a third party vendor, uses cookies to serve ads on PhotographyMad.com. Google's use of the DART cookie enables it to serve ads to users based on their visit to PhotographyMad.com and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html).
+##  Third party cookies
 
-Some of PhotographyMad.com's advertising partners may use cookies and web beacons on our site. PhotographyMad.com's advertising partners include Google Adsense.
+Photography Mad uses Google’s AdSense advertising program. This uses cookies, including the DoubleClick cookie, to serve adverts to you based on your previous visits to this and other websites.
 
-These third-party ad servers or ad networks use technology to send the advertisements and links that appear on PhotographyMad.com directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalise the advertising content that you see.
+You can opt out of using the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).
 
-PhotographyMad.com has no access to or control over these cookies that are used by third-party advertisers.
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt out of certain practices. PhotographyMad.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+Photography Mad has no access to or control over the cookies that are used by third-party advertisers.
