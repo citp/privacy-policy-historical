@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartreview.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607184542id_/http%3A//www.smartreview.com/admin/privacy2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartreview.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205235052id_/http%3A//www.smartreview.com/admin/privacy2) for the most accurate reproduction.*
 
 # Privacy | SmartReview.com
 
