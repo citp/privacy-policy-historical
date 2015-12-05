@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmannex.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614140645id_/http%3A//www.filmannex.com/pages/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmannex.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205145447id_/http%3A//www.filmannex.com/pages/about/privacy) for the most accurate reproduction.*
 
 # About Film Annex
 
@@ -6,7 +6,7 @@
 
 Effective as of May 11th, 2012
 
-We at MTI USA, Inc. d/b/a Film Annex (“Film Annex,” “we,” “us,” or “our”) have created this privacy policy (this “Privacy Policy”) because we know that you care about how information you provide to us is used and shared. This Privacy Policy relates to the information collection and use practices of Film Annex in connection with our online services (the “Services”), which are made available to you through a variety of platforms, such as through our network of websites, including, without limitation, http://www.filmannex.com (collectively, the “Websites”) and through Facebook, Twitter, and other social media (collectively, “Social Media”). The Websites and our Social Media pages are collectively referred to as the “Platforms.”
+We at MTI USA, Inc. d/b/a Film Annex (“Film Annex,” “we,” “us,” or “our”) have created this privacy policy (this “Privacy Policy”) because we know that you care about how information you provide to us is used and shared. This Privacy Policy relates to the information collection and use practices of Film Annex in connection with our online services (the “Services”), which are made available to you through a variety of platforms, such as through our network of websites, including, without limitation, http://www.Film Annex.com (collectively, the “Websites”) and through Facebook, Twitter, and other social media (collectively, “Social Media”). The Websites and our Social Media pages are collectively referred to as the “Platforms.”
 
 By visiting our Websites and/or using our Services on any of the Platforms, you are agreeing to the terms of this Privacy Policy and the accompanying Terms of Use.
 
@@ -38,7 +38,7 @@ We may share Other Information about your activity on the Platforms with third p
 
 ### Accessing and Modifying Personal Information and Communication Preferences
 
-If you have registered for the Services, you may access, review, and make changes to your Personal Information and Billing Information by (i) e-mailing us at fr@filmannex.com, or (ii) following the instructions found on the applicable Platform. In addition, you may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of any Film Annex marketing email. Registered Users cannot opt out of receiving transactional e-mails related to their account. We will use commercially reasonable efforts to process such requests in a timely manner. You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases.
+If you have registered for the Services, you may access, review, and make changes to your Personal Information and Billing Information by (i) e-mailing us at fr@Film Annex.com, or (ii) following the instructions found on the applicable Platform. In addition, you may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of any Film Annex marketing email. Registered Users cannot opt out of receiving transactional e-mails related to their account. We will use commercially reasonable efforts to process such requests in a timely manner. You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases.
 
 ### How We Use and Share the Information
 
@@ -67,7 +67,7 @@ We do not knowingly collect Personal Information from children under the age of 
 
 ### California Residents
 
-Under California Civil Code Section 1798.83, California residents who have an established business relationship with Film Annex may choose to opt out of our sharing your Personal Information with third parties for direct marketing purposes. If you are a California resident and (1) you wish to opt out; or (2) you wish to request certain information regarding our disclosure of your Personal Information to third parties for the direct marketing purposes, please send an e-mail to fr@filmannex.com or write to us at:
+Under California Civil Code Section 1798.83, California residents who have an established business relationship with Film Annex may choose to opt out of our sharing your Personal Information with third parties for direct marketing purposes. If you are a California resident and (1) you wish to opt out; or (2) you wish to request certain information regarding our disclosure of your Personal Information to third parties for the direct marketing purposes, please send an e-mail to fr@Film Annex.com or write to us at:
 
 Film Annex  
 20 West 20th Street  
@@ -84,7 +84,7 @@ This Privacy Policy is effective as of the date stated at the top of this Privac
 
 ### How to Contact Us
 
-If you have questions about this Privacy Policy, please e-mail us at fr@filmannex.com or call us at 646-485-8792 ext. 3.
+If you have questions about this Privacy Policy, please e-mail us at fr@Film Annex.com or call us at 646-485-8792 ext. 3.
 
 ### Employment
 
