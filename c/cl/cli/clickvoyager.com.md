@@ -1,26 +1,50 @@
-> *The following text is extracted and transformed from the clickvoyager.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072553id_/http%3A//www.clickvoyager.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickvoyager.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205230640id_/http%3A//www.clickvoyager.com/privacy.php) for the most accurate reproduction.*
 
-# Click Voyager - Your Quest For Traffic Begins HERE!
+# Click Voyager - The Manual Traffic Exchange
 
-  
-This is the web site of Click Voyager.
+At www.clickvoyager.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.clickvoyager.com and how we use it. 
 
-We can be reached via e-mail at contact@clickvoyager.com 
+**Log Files**  
+Like many other Web sites, www.clickvoyager.com makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
+**Cookies and Web Beacons**  
+www.clickvoyager.com uses cookies to store information about visitors' preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors' browser type or other information that the visitor sends via their browser. 
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations. 
+**DoubleClick DART Cookie**  
+→ Google, as a third party vendor, uses cookies to serve ads on www.clickvoyager.com.  
+→ Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to www.clickvoyager.com and other sites on the Internet.   
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
 
-The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site, not shared with other reputable organizations to help them contact consumers for marketing purposes, not shared with other organizations for commercial purposes.
+**Member Sites**  
+Some of the member websites that are viewed on Click Voyager may use cookies and web beacons on our site.  
 
-With respect to cookies: We use cookies to record user-specific information on what pages users access or visit, customize Web page content based on visitors' browser type or other information that the visitor sends. 
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address. 
+These third-party member sites use technology in their respective advertisements and links that appear on www.clickvoyager.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by these third-party sites to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site. 
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
+www.clickvoyager.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above. 
+**Member Site Privacy Policies**  
+You should consult the respective privacy policies of these member websites for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.clickvoyager.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
 
-Upon request we provide site visitors with access to transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them . Consumers can access this information by e-mail us at the above address. Consumers can have this information corrected by sending us e-mail at the above address. 
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
 
-If you feel that this site is not following its stated information policy, you may contact us at the above address.
+**Children's Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. www.clickvoyager.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that www.clickvoyager.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records. 
+
+**Online Privacy Policy Only**  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
+
+**Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms. 
+
+If you require any more information or have any questions about our privacy policy, please feel free to contact us [here](https://web.archive.org/web/20151205230640id_/http%3A//www.clickvoyager.com/contact.php).
+
+**Update**  
+This Privacy Policy was last updated on: Friday, June 12th, 2015. [](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
+_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+
+Earn credits for every site that you visit and exchange them for advertising on our site. You can use them for website visitors, banner ads, text ads or even use them to bid on the daily sponsor site. 
+
+At Click Voyager, we _love_ prizes. You can win bonus credits on any of the games that appear while you surf (including the ever-popular Hangman) or compete with other members in the daily Top Clicker contest and the weekly CV League. 
+
+Every Sunday, you can earn a free upgrade for your account, just by surfing in our Sunday Silver Service promotion. Join in every week and keep your upgrade for as long as you like! 
