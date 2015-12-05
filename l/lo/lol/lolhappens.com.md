@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lolhappens.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630031858id_/http%3A//www.lolhappens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolhappens.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205125900id_/http%3A//www.lolhappens.com/privacy-policy) for the most accurate reproduction.*
 
 # LOL Happens » Privacy Policy
 
@@ -15,7 +15,7 @@ www.LOLHappens.com does use cookies to store information about visitors preferen
 **DoubleClick DART Cookie**  
 • Google, as a third party vendor, uses cookies to serve ads on www.LOLHappens.com.  
 • Google’s use of the DART cookie enables it to serve ads to our users based on their visit to www.LOLHappens.com and other sites on the Internet.  
-• Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL -<http://www.google.com/privacy_ads.html>
+• Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL –<http://www.google.com/privacy_ads.html>
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:  
 Google Adsense  
