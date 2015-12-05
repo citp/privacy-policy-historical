@@ -1,41 +1,63 @@
-> *The following text is extracted and transformed from the yatedo.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607002646id_/http%3A//about.yatedo.com/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yatedo.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205173141id_/http%3A//about.yatedo.com/privacy/policy) for the most accurate reproduction.*
 
 # Policy | About Yatedo
 
-POLICY
+**1\. Data controller**
 
-The use of our services signifies your understanding of our Privacy Policy. We invite you to read it carefully.
+The person processing your personal data is:
 
-**Information you provide to us:** When you create an account on Yatedo you will provide us with personal information such as your name, email address and password. In order to fill in your public profile you can provide us with more information, such as your educational background, professional experience, links, biographies, birthday, hometown, activities, interests. You can add as much information about yourself as you want. This information besides your email address and your password are meant to be visible to anyone on your public profile. You can go to your profile to add or remove information about yourself at anytime. You should also be careful about all information that will be made public by Yatedo.
+Yatedo France, 54 rue de Paradis, 75010 Paris, France.
 
-**Information already exists:** When you use Yatedo for the first time or when you search for yourself you may find some information related to you that already exists. That information has been indexed from public free sources all-over the web and are always linked to their source. If you want to delete this information, contact directly the original source of the information. You will always be able to delete this information from your public profile on Yatedo.
+**2\. Information collected and purpose of the processing**
 
-**Other websites** : In order to verify your identity or import information, you may be asked to activate third parties website profile. You may or may not provide us with your username and password from each site. You may import personal information from these sites; that information and their use are governed by the site source privacy policy. You will always be able to make that information private or delete them from your Yatedo public profile.  
+Yatedo collects personal data made publicly available on the Internet or given by the user when he or she creates an account, for the purpose of editing a people search engine.
 
+**2.1 Information collected on the basis of information made publicly available online**
 
-**Cookies** : When you log in to Yatedo, we send one or more cookies (small file containing a string of characters), in order to uniquely identify a user’s browser. We use cookies to improve the search results, store user preferences and track user trends.
+Yatedo collects your data from information that is made publicly available on the Internet. Such information can be information displayed on publicly accessible websites or information that you have made publicly available by creating a profile or an account on a social network.
 
-Cookie Type | Purpose  
----|---  
-Essential Operational | These cookies are necessary to allow us to operate the Yatedo Services. For example, they let us recognise what type of subscriber you are and then provide you with services accordingly.  
-Performance/Analytics | We use these cookies to analyse how Yatedo is accessed, used or is performing. We use this information to maintain, operate and continually improve Yatedo. We may also obtain information from our e-mail newsletters, to learn whether you opened or forwarded the newsletter or clicked on any of the content. This information tells us about our newsletters’ effectiveness and helps us ensure that we’re delivering information that you find interesting.  
-Functional | These cookies let us operate certain functions of Yatedo in line with the choices you make. These cookies mean that when you continue to use or come back to Yatedo, we can provide you with our services as you have asked for them to be provided.  
-Targeting/advertising | We use these cookies to serve you with advertisements that may be relevant to you and your interests. The information may also be used for frequency capping purposes and to help us regulate the advertisements you receive and measure their effectiveness.  
-Third Party | We may allow our business partners to use cookies on Yatedo for the same purposes identified above. We may also use service providers acting on our behalf to use cookies for the purposes identified above.  
-  
-**User communications** : When you send email or other communication to Yatedo, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+**2.2 Information collected when you create a Yatedo account**
 
-**Google Analytics:** We use Google analytics to help us understand the use of our Services. Analytics collects the information sent by your browser as part of a web page request, including cookies and your IP address, that collect is made through Google which also receives this information and their use of it is governed by their Privacy Policy.
+The information collected when you create an account is the one that you will provide us.
 
-**Information security**  
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures.
+The account creation form specifies whether the questions are optional or compulsory. Failure to provide data specified as compulsory will deprive you from creating an account on Yatedo.
 
-We restrict access to personal information to Yatedo employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+In compliance with article 6-II of French law n°2001-575 dated 21 June 2004, and with its regulation n°2011-219 dated 25 February 2011, Yatedo will collect connection data enabling to identify the person at the origin of the contents published, such as the IP address and the connection identifier.
 
-**Links to Third Party Sites**  
-This Policy only applies to the Yatedo website and services. We do not exercise control over the sites that our service links to. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your personally identifying information, and Yatedo and its affiliates shall not be liable for wrongful use or disclosure of your personally identifying information by any third party.
+**3\. Recipients of the data collected**
 
-**Changes to this Policy**  
-We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information. If we make a change to this policy we will notify you via e-mail to the email associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
+Personal data collected by Yatedo is processed by Yatedo.
 
-If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through contact(a)yatedo.com.
+Information published on the Yatedo search engine can be seen by any person browsing the Yatedo website and likely to visit your profile.
+
+Yatedo may also transmit your data to customers, service providers and commercial partners for recruiting and marketing purposes.
+
+**4\. Right to access, rectify or object to the data processing related to the Yatedo profiles**
+
+**4.1 Right to access**
+
+As a search engine, Yatedo solely displays information that you have already made publicly available in your social networks’ profiles.
+
+You can freely and directly access your data by searching your name on the Yatedo search engine and by clicking on the corresponding profile(s).
+
+**4.2 Right to rectify**
+
+You can rectify your information by yourself through the creation of a personal account on Yatedo in order to take control of your profile(s). To prove your identification, we ask you to authenticate yourself via a social network on which you have an account.
+
+**4.3 Right to object**
+
+**4.3.1 De-listing**
+
+You can access to the de-listing request form by clicking on the following link: <http://www.yatedo.com/index/privacy>
+
+We will ask you to upload a scan of your ID in order to verify your identification.
+
+Any de-listing request must expressly specify the link(s) related to the profile(s) that have to be de-listed.
+
+As a search engine, Yatedo may re-index future links about yourself if other information about yourself becomes publicly accessible on the Internet.
+
+**4.3.2 Removal of your Yatedo profile**
+
+If you have created a personal account on Yatedo, you can remove it yourself by clicking on the link “remove my profile” available on your account settings.
+
+Any data provided to Yatedo will be removed. However, as a search engine, Yatedo may re-index links about yourself if information about yourself is still publicly accessible on the Internet.
