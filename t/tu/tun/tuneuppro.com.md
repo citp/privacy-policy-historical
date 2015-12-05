@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tuneuppro.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607032957id_/http%3A//www.tuneuppro.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuneuppro.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205122200id_/http%3A//tuneuppro.com/privacypolicy) for the most accurate reproduction.*
 
 # Tuneup Pro - Privacy Policy
 
