@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwslsoccer.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607070733id_/http%3A//www.nwslsoccer.com/home/about/789198.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwslsoccer.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205233032id_/http%3A//www.nwslsoccer.com/home/about/789198.html) for the most accurate reproduction.*
 
 # Privacy Policy - National Women's Soccer League
 
