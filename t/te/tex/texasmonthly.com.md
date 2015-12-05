@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the texasmonthly.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629042003id_/http%3A//texasmonthly.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasmonthly.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206003036id_/http%3A//www.texasmonthly.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Texas Monthly
+# Privacy Policy - Texas Monthly
 
-This privacy policy (“Privacy Policy”) describes TEXAS MONTHLY’s privacy practices for our Web site located at [www.texasmonthly.com](http://www.texasmonthly.com/) (our “Site”), including what types of information we gather and track, how we use the information, and with whom we share the information. By using the Site, you agree to be bound by the terms of this Privacy Policy and by the Terms of Use. We may change this Privacy Policy at any time by posting revisions to the Site, and your continued use of the Site indicates your agreement to the revised terms. Accordingly, we urge you to frequently review this Privacy Policy, and, if you do not agree to the terms of this or any revised policy, please exit the Site immediately.
+This privacy policy (“Privacy Policy”) describes TEXAS MONTHLY’s privacy practices for our Web site located at www.texasmonthly.com (our “Site”), including what types of information we gather and track, how we use the information, and with whom we share the information. By using the Site, you agree to be bound by the terms of this Privacy Policy and by the Terms of Use. We may change this Privacy Policy at any time by posting revisions to the Site, and your continued use of the Site indicates your agreement to the revised terms. Accordingly, we urge you to frequently review this Privacy Policy, and, if you do not agree to the terms of this or any revised policy, please exit the Site immediately.
 
 #### PRIVACY OF CHILDREN
 
@@ -10,7 +10,7 @@ Children (persons under the age of 18) are not eligible to use the Site without 
 
 #### WHAT INFORMATION IS COLLECTED
 
-TEXAS MONTHLY may collect two types of information about you: Personally Identifiable Information and Aggregate Information that is anonymous (such as your IP address - a number used to identify your computer when you are on the Internet - or the type of browser you are using).
+TEXAS MONTHLY may collect two types of information about you: Personally Identifiable Information and Aggregate Information that is anonymous (such as your IP address – a number used to identify your computer when you are on the Internet – or the type of browser you are using).
 
 Personally Identifiable Information: “Personally Identifiable Information” refers to information that lets us know the specifics of who you are and can be used to identify, contact or locate you (such as your name, address, telephone number and e-mail address). You can visit our Site without telling us who you are and without revealing any information about yourself. You may be required to register or otherwise voluntarily provide Personally Identifiable Information to have access to some features of the Site. You always may choose not to provide the Personally Identifiable Information, but this may lead to decreased functionality of the Site for you and our inability to provide you with certain products or services. We also may request you to voluntarily provide Personally Identifiable Information that is not required to access features of our site. This information enables TEXAS MONTHLY to make general improvements to the Site and better serve your specific interests.
 
