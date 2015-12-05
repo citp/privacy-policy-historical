@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultrahosting.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502025018id_/http%3A//www.ultrahosting.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultrahosting.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205150918id_/http%3A//ultrahosting.com/privacy.aspx) for the most accurate reproduction.*
 
 # VPS Hosting - Linux VPS Hosting | Windows VPS Hosting | VPS Web Hosting | Forex VPS Hosting | Canada Web Hosting | Reliable Web Hosting | Xen VPS Hosting | VPS Hosting | Small Business Web Hosting | Best VPS Hosting
 
