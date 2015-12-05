@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saveonfoods.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504001238id_/http%3A//www.saveonfoods.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveonfoods.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205111705id_/https%3A//www.saveonfoods.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | Save-On-Foods
 
