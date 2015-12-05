@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenorthwestern.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022185212id_/http%3A//static.thenorthwestern.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenorthwestern.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205144432id_/http%3A//static.thenorthwestern.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Northwestern
 
