@@ -1,35 +1,60 @@
-> *The following text is extracted and transformed from the tcelectronic.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627195314id_/http%3A//www.tcelectronic.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcelectronic.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205141622id_/http%3A//www.music-group.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Corporate | TC Electronic
+# MUSIC Group
 
-## Privacy Policy
+We respect the privacy of every individual who visits our Site.  Furthermore, we take the confidentiality of your personal information seriously. This Privacy Policy sets forth our information gathering and dissemination practices. 
 
-Protecting your privacy is important to TC companies. We strive to keep your personal information confidential. By ensuring that you are aware of and understand the TC Customer Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information.
+#### 1\. What is personal information?
 
-**Why we collect personal information**  
-TC collects and uses your personal information to give you superior customer service, to provide you with convenient access to our products and services, and to make a wider range available to you. In addition, we use your personal information to keep you up to date on the latest product announcements, software updates, special offers, and other information we think you'd like to hear about. From time to time, we may also use your personal information to contact you to participate in a market research survey, so that we can gauge customer satisfaction and develop better products.
+Personal information is any information that is used to identify a particular person, such as a name, address, telephone number, email address and so on. We will only use such information when we are legally allowed to or when you give us your express consent.
 
-Furthermore, TC websites use remarketing through Google AdWords. The information collected is completely anonymized. Still, your privacy is of the utmost importance to us. So if you would like to opt out you can do so via Google's [Ads Settings](https://www.google.com/settings/ads).
+#### 2\. Your Consent to This Privacy Policy
 
-**How we collect personal information**  
-We collect information about you in several ways. For example, we might ask for your contact information when you correspond with us, call us to make a purchase or request service, register to attend a seminar, or articipate in an online survey. In addition, when you register a new TC product or ask to be included in an email mailing list, we collect and store the information you provide in a secure database.
+By accessing, browsing or using the Site or providing us with your personal information, including but not limited to your name, address, telephone number and e-mail address, you signify that you agree to the terms of our Privacy Policy as posted in the Site. If you do not agree with any term in this Privacy Policy, please do not access, browse or use the Site or provide us with your personal information.
 
-TC works with other companies that help us provide TC products and services to you, and we may provide your personal information to these companies. For example, we give shipping companies this information so they can deliver your products efficiently. The information they receive is for shipping and delivery purposes only, and we require that the companies safeguard your personal information in accordance with TC policies.
+We may alter or remove this Privacy Policy at any time. Whenever we make any changes to this Privacy Policy, we will post the changes here. Therefore, please visit this page frequently to stay informed. When you access, browse or use the Site after the revision of this Privacy Policy, you signify that you agree to the revised Privacy Policy.
 
-At times we may be required by law or legal process to disclose your personal information. We may also disclose information about you if we believe that disclosure is necessary for the public interest. 
+#### 3\. Collection of Personal Information
 
-**How we protect your personal information**  
-TC safeguards the security of the data you send us with physical, electronic, and managerial procedures. We urge you to take every precaution to protect your personal data when you are on the Internet. The TCNOW.com Store uses industry-standard Secure Sockets Layer (SSL) encryption on all web pages where personal information is required. To make purchases from the TCNOW.com Store, you must use an SSL-enabled browser such as Netscape Navigator 3.0 or later, or Internet Explorer. This protects the confidentiality of your personal and credit card information while it is transmitted over the Internet.
+While you are accessing, browsing or using the Site, you may be asked for your personal information to allow you to participate in prize competitions, answer our questionnaires or inquiries by e-mail or through the Site, register as a MUSIC Group user, monitor MUSIC Group products, receive e-mail news services concerning the MUSIC Group products, and so on.
 
-Like many websites, TC websites uses "cookie" technology. When you first connect to our site, the cookie identifies your browser with a unique, random number. The cookies we use do not reveal any personal information about you, except perhaps your first name so we can welcome you on your next visit. Cookies help us understand which parts of our websites are the most popular, where our visitors are going, and how long they spend there. We use cookies to study traffic patterns on our site so we can make the site even better.
+We will not collect your personal information unless and until you provide such information to us voluntarily. When you provide us with your personal information, you authorize us to use such information in accordance with the terms set forth below. You may withdraw this authorization anytime by sending instructions through an email to [care@music-group.com](mailto:care@music-group.com) and we will immediately delete all your personal information. 
 
-In some of our email to you, we use a "click-through URL." When you click one of these URLs, you pass through our web server before arriving at the website that is your destination. We track click-throughs to help us determine your interest in particular topics and measure the effectiveness of our customer communications. 
+#### 4\. How we use your information
 
-**Our company wide commitment to privacy  
-** To make sure your personal information remains confidential, we communicate these privacy guidelines to every TC employee. TC companies do not knowingly solicit personal information from children or send them requests for personal information.
+When we collect your personal information, we shall specify the purpose of such collection.
 
-The TC websites contain links to other sites. TC does not share your personal information with those websites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.
+Any personal information that you provide will be used to meet your request such as forwarding brochures, magazines, etc. and offering certain services. We may also use your personal information to contact you regarding other products and services that may be of interest to you. You can send a request to [care@music-group.com](mailto:care@music-group.com) instructing us to limit our contact with you to a specific purpose.
 
-If we are going to use your personal information differently from that stated at the time of collection, we will try to contact you via email using the most recent information we have. If you have not given us permission to communicate with you, you will not be contacted, nor will we use your personal information in a new manner.
+#### 5\. Sharing of your information
 
-The TC Customer Privacy Policy is subject to change at any time. We encourage you to review the privacy policy regularly for any changes.
+We may share your personal information with the following:
+
+  * Affiliates and contractors who help with our business operations and are bound to confidentiality. They shall only use your personal information for the sole purpose of assisting MUSIC Group in providing the services you applied for.
+  * Law enforcement, judicial authorities or other governmental officials for legal proceedings, fraud prevention, investigations into illegal activities or as otherwise required by law.
+  * Other business entities, should we plan to merge with, or be acquired by that business entity.
+
+
+
+#### 6\. Security
+
+We use technical and organizational security measures to protect your personal data against accidental or unlawful destruction, loss or alteration and against unauthorized disclosure or access.
+
+#### 7\. Google AdWords
+
+We use Google AdWords Remarketing to advertise MUSIC Group across the Internet, in particular on the Google Display Network.
+
+AdWords remarketing will display ads to you based on what parts of the MUSIC Group website you have viewed by placing a cookie on your web browser.
+
+This cookie does not in any way identify you or give access to your computer or mobile device.
+
+The cookie is used to indicate to other websites that “This person visited a particular page, so show them ads relating to that page.”
+
+Google AdWords Remarketing allows us to tailor our marketing to better suit your needs and only display ads that are relevant to you.
+
+If you do not wish to see ads from MUSIC Group you can opt out in several ways:
+
+  1. Opt out of Google’s use of cookies by visiting [Google’s Ads Settings.](https://www.google.com/settings/u/0/ads/authenticated)
+  2. Opt out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out page. ](http://www.networkadvertising.org/choices/)
+
+
