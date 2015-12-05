@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopittome.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407122649id_/https%3A//www.shopittome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopittome.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205015843id_/http%3A//www.shopittome.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Shop It To Me
 
@@ -102,7 +102,7 @@ Our business changes periodically, and we may amend our Privacy Policy and Terms
 
 If you have any questions or concerns regarding this Privacy Policy, or about our practices with respect to Personal Information, or if you wish us to delete your personal information from our database, or should you wish to stop receiving communications from us, please notify us at:   
 Email: [privacy@ShopItToMe.com](mailto:privacy@ShopItToMe.com)  
-Mail: Attn: Privacy Officer, Shop It To Me, Inc. 2269 Chestnut Street #910 San Francisco, CA 94123 USA 
+Mail: Attn: Privacy Officer, Shop It To Me, Inc. 3527 Mt Diablo Blvd #393 Lafayette, CA 94549 USA 
 
 Should you contact us by any of the above means, please provide sufficient information for us to identify your account. Your privacy is important to use, and we will make every effort to resolve your concerns as soon as reasonably possible. 
 
