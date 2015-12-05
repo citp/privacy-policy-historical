@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the saathnibhanasaathiya.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607025212id_/http%3A//saathnibhanasaathiya.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saathnibhanasaathiya.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205141604id_/http%3A//saathnibhanasaathiya.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Saath Nibhana Saathiya
-
-Find the latest bookmaker offers available across all uk gambling sites [www.bets.zone](http://www.bets.zone/) Read the reviews and compare sites to quickly discover the perfect account for you. 
 
 **Personally Provided Information**
 
