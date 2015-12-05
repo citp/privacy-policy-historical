@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gomobi.info privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506123252id_/http%3A//gomobi.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomobi.info privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205194304id_/http%3A//gomobi.info/privacy-policy) for the most accurate reproduction.*
 
-# goMobi | Privacy Policy
+# Privacy Policy
 
 Last Modified: 17/05/13
 
-Afilias Technologies Limited ("we", "us" and/or "our") [dotMobi.mobi]
+Afilias Technologies Limited ("we", "us" and/or "our") 
 
 Please read this privacy statement carefully to understand our views and practices regarding your personal information and how we will treat it.
 
@@ -79,12 +79,13 @@ You have a right to be given a copy of your personal data which is held by us. W
 You also have a right to have inaccurate personal information relating to you which is held by us corrected. In certain circumstances, you may also request the deletion of your personal information held by us. To exercise this right you would generally be expected to identify some contravention of data protection law in the manner in which we process the data concerned. We will deal with any such requests within the statutory timeframe.
 
 To exercise any of these rights, please contact us using the email subject or letter subject ‘Data Protection / Legal’ at:  
-dotMobi,  
-2 La Touche House,  
+Afilias Technologies,  
+4th Floor, International House,  
+3 Harbourmaster Place,  
 IFSC,  
 Dublin 1,  
 Ireland   
-E-mail: [legal@dotmobi.com](mailto:legal@dotmobi.com?Subject=Data%20Protection%20/%20Legal)
+E-mail: dublin-legal [at} afilias.info
 
 You should include with any such request any personal identifiers which you supplied earlier via the website (e.g. name; address; phone number; e-mail address, password) or otherwise.
 
@@ -102,7 +103,7 @@ This privacy statement and all issues regarding this website are governed by Iri
 
 If you have any questions about this privacy statement, our practices relating to this website or your dealing with this website you can contact us at the following address:
 
-E-mail: [legal@dotmobi.com](mailto:legal@dotmobi.com)
+E-mail: dublin-legal [at} afilias.info
 
 ## 14\. Glossary of Technical Terms
 
