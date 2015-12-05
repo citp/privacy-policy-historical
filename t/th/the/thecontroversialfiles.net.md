@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thecontroversialfiles.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607131028id_/http%3A//www.thecontroversialfiles.net/p/your-privacy-is-of-utmost-importance-to.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecontroversialfiles.net privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205183354id_/http%3A//www.thecontroversialfiles.net/p/your-privacy-is-of-utmost-importance-to.html) for the most accurate reproduction.*
 
 # Privacy Policy | The Controversial Files
 
-Your privacy is of utmost importance to us here at The Daily Trends. Rest assured that any information you provide will only be used in acc...
+Your privacy is of utmost importance to us here at The Controversial Files. Rest assured that any information you provide will only be used...
 
-Your privacy is of utmost importance to us here at The Daily Trends. Rest assured that any information you provide will only be used in accordance with this privacy statement.
+Your privacy is of utmost importance to us here at The Controversial Files. Rest assured that any information you provide will only be used in accordance with this privacy statement.
 
 This policy may be updated or changed anytime and we encourage you to review it whenever you visit the site to make sure you understand how any personal information you provide will be used.
 
