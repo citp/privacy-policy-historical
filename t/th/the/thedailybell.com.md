@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the thedailybell.com privacy policy that was archived on 2015-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150606005526id_/http%3A//www.thedailybell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailybell.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205020213id_/http%3A//www.thedailybell.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Daily Bell
 
-This Privacy Policy was last updated on March 9, 2015
+This Privacy Policy was last updated on October 23, 2014
 
-The www.TheDailyBell.com website (the “Website”) is owned and operated by Daily Bell, LLC. In this Privacy Policy, the terms "DB", "we" and "our" refer to Daily Bell, LLC, unless otherwise indicated.
+The www.TheDailyBell.com website (the “Website”) is owned and operated by High Alert Investment Management Ltd. In this Privacy Policy, the terms "High Alert", "we" and "our" refer to High Alert Investment Management Ltd., unless otherwise indicated.
 
 We consider privacy of paramount importance to liberty and thus implement rigorous security in safeguarding user information. As a part of that commitment, we have implemented this Privacy Policy that explains our privacy practices for information we collect through our Website. Your privacy matters to us, so please do take the time to get to know our practices – and if you have any questions, contact us at [CustomerService@TheDailyBell.com](mailto:CustomerService@TheDailyBell.com) (“Service Contact”).
 
-**1\. DB’s Commitment to Privacy**
+**1\. High Alert’s Commitment to Privacy**
 
 We are committed to protecting the privacy of our members. We have and will take measures that protect the privacy of personal information held by us.
 
@@ -71,7 +71,7 @@ You acknowledge that our e-mail systems are operated in the "cloud". Cloud compu
 
 You confirm your consent to this manner of storage, and permit your online inquiry to be processed accordingly. You acknowledge that this Service Provider may be located in one or more Jurisdictions, your personal information may be processed and stored in one or more Jurisdictions and the governments, courts or law enforcement or regulatory agencies of one or more Jurisdictions may be able to obtain disclosure of your personal information through a lawful order made where the information is located.
 
-We will also disclose personal information in accordance with Section 9 below when the information is collected on-line at the Website and/or may disclose personal information without your knowledge or consent if a law, regulation, search warrant, subpoena or court order legally authorizes us or requires us to do so. We may also disclose personal information to protect the rights, property or personal safety of DB, its members, employees or other members of the public.
+We will also disclose personal information in accordance with Section 9 below when the information is collected on-line at the Website and/or may disclose personal information without your knowledge or consent if a law, regulation, search warrant, subpoena or court order legally authorizes us or requires us to do so. We may also disclose personal information to protect the rights, property or personal safety of High Alert, its members, employees or other members of the public.
 
 **6\. Accuracy**
 
@@ -93,7 +93,7 @@ In very limited circumstances, we may not be able to supply personal information
 
 Collection: We may collect personal information on-line when you visit our Website. In addition, we may collect cookie information when you browse the Website. Cookies are small files that are stored on your computer. Pixels are small blocks of code on webpages that allow another server to measure viewing of a webpage and often are used in connection with cookies. Web beacons are electronic images that allow us to count visitors visiting certain web pages, to access cookies, and to analyze whether advertising banners on our site or other sites were effective. At our Website, we may use cookies, pixels and/or beacons to help optimize your Website experience, to evaluate use of our Website and to support Website analytics. In doing so, we may collect technical information such as your IP address, your browser type, the addresses of referring Websites, and your path through our Website. Cookies help us to customize our Website for you and to better display pages according to your browser type.
 
-.
+We use a retargeting service to advertise on third party web sites to you after you have visited our Website. We, and our third party vendor(s), use cookies to inform, optimize and serve ads based on your past visits to our Website. Our retargeting service is provided by AdRoll. You can opt out of AdRoll remarketing by visiting this [AdRoll Advertising Preferences](http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false) web page. For more information on the privacy practices of AdRoll, please visit the [AdRoll Privacy Policy](http://www.adroll.com/about/privacy) web page.
 
 Use: We use personal information collected online as described above. In addition, we use personal information:
 
@@ -101,7 +101,7 @@ Use: We use personal information collected online as described above. In additio
   2. to conduct surveys and other research;
   3. to provide you with customized Website content and advertising;
   4. to detect, prevent, or otherwise address fraud, security or technical issues, or
-  5. protect against harm to the rights, property or safety of DB, its users or the public as required or permitted by law.
+  5. protect against harm to the rights, property or safety of High Alert, its users or the public as required or permitted by law.
 
 
 
@@ -117,4 +117,4 @@ We reserve the right to change this Privacy Policy at any time; however, any cha
 
 If you are not completely satisfied with or wish to submit comments concerning this Privacy Policy or its application by us, we invite you to convey your concerns or suggestions to Service Contact. We will reply as quickly as possible and inform you of the steps, if any, that has been or will be taken in order to address the concern or implement the suggestion.
 
-If you wish to be removed from DB’s databases, please send an e-mail detailing your request to [CustomerService@TheDailyBell.com](mailto:CustomerService@TheDailyBell.com).
+If you wish to be removed from High Alert’s databases, please send an e-mail detailing your request to [CustomerService@TheDailyBell.com](mailto:CustomerService@TheDailyBell.com).
