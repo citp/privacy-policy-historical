@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speaker.gov privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529230523id_/http%3A//www.speaker.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speaker.gov privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205111950id_/http%3A//www.speaker.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Speaker.gov
 
