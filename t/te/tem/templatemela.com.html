@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the templatemela.com privacy policy that was archived on 2015-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150407130721id_/http%3A//www.templatemela.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the templatemela.com privacy policy that was archived on 2015-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151205111550id_/http%3A//www.templatemela.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -30,7 +30,7 @@
     var BLANK_IMG = 'http://www.templatemela.com/skin/frontend/default/megnor/images/spacer.gif';
 //]]>
 </script>
-<link rel="stylesheet" type="text/css" href="http://www.templatemela.com/media/css/10fbb14eaecac7d80014e3c5f2187ae3.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.templatemela.com/media/css/d3d9d4ad683e7881f8bf7efd38a42936.css" media="all">
 <script type="text/javascript" src="http://www.templatemela.com/media/js/61c27bd2b5b721328fc4f14959448e3f.js"></script>
 
 <script type="text/javascript">
@@ -129,20 +129,59 @@ _gaq.push(['_trackPageview']);
                 <a href="http://www.templatemela.com/" title="TemplateMela" class="logo"><img src="http://www.templatemela.com/skin/frontend/default/megnor/images/logo.png" alt="TemplateMela"></a>
                 <div style="clear:both;"></div>
         <div class="quick-access">
-            <form id="search_mini_form" action="http://www.templatemela.com/catalogsearch/result/" method="get">
+            <script src="http://www.templatemela.com/js/magestore/instantsearch.js" type="text/javascript"></script>
+<form id="search_mini_form" action="http://www.templatemela.com/catalogsearch/result/" method="get">
     <div class="form-search">
-        <label for="search">Search:</label>
-        <input id="search" type="text" name="q" value="" class="input-text" maxlength="128">
-        <button type="submit" title="Search" class="button"><span><span></span></span></button>
-        <div id="search_autocomplete" class="search-autocomplete"></div>
-        <script type="text/javascript">
-        //<![CDATA[
-            var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search here');
-            searchForm.initAutocomplete('http://www.templatemela.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
-        //]]>
-        </script>
+		<div id="instantsearch">
+			<label for="search">Search:</label>
+			<div id="mi_header">
+			<input id="search" type="text" name="q" value="" class="input-text">
+			</div>
+			<button type="submit" title="Search" class="button"><span><span></span></span></button>
+			<div id="search_autocomplete" class="search-autocomplete"></div>
+			<script type="text/javascript">
+			//<![CDATA[
+				var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
+				searchForm.initAutocomplete('http://www.templatemela.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+			//]]>
+			</script>	
+		</div>		
     </div>
 </form>
+<div id="showProduct" style="display:none;">
+	<div id="productContainer">
+		<div class="head-notice">
+			<h3 class="title left"><span id="searchTermkeyword">Search Product Instantly</span></h3>
+			<a class="instantsearch-close right" href="javascript:void(0);" onclick="$('showProduct').hide(); return false;">Close</a>
+		</div>
+		<div id="mainProductWapper">
+			<div id="mainProduct">
+			
+			</div>
+		</div>
+		<div id="moreProductsWapper">
+			<div id="moreProducts">
+				
+			</div>
+		</div>
+	</div>	
+</div>	
+<script type="text/javascript">
+	/*var instantsearch = new Instantsearch(
+        'http://www.templatemela.com/instantsearch/index/search/',
+		'http://www.templatemela.com/instantsearch/index/loadproduct/',
+		'6',
+		'search'
+    );
+	
+	Event.observe('search', 'keyup', function(event){ 			
+		instantsearch.search();		
+	});*/
+	//instantsearch.search();
+	
+</script>
+
+
                         <ul class="links">
 	<li><a title="About" href="http://www.templatemela.com/about/">About Us</a></li>
 <li><a title="Account" href="http://www.templatemela.com/customer/account/">My Account</a></li>
@@ -378,7 +417,6 @@ Contact Number : +91-8866888222.</p>
 <li class="first"><a href="http://www.templatemela.com/terms-of-use/">Terms of Use</a></li>
 <li><a href="http://www.templatemela.com/license/">License</a></li>
 <li><a href="http://www.templatemela.com/privacy-policy/ ">Privacy Policy</a></li>
-<li><a href="http://www.templatemela.com/affiliates/">Affiliate Programs</a></li>
 <li class="last"><a href="http://www.templatemela.com/partners/">Partners</a></li>
 </ul>			
 
