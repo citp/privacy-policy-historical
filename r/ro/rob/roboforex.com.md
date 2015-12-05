@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roboforex.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074209id_/http%3A//www.roboforex.com/about/security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roboforex.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205234152id_/http%3A//www.roboforex.com/about/security-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,3 +50,7 @@ In exceptional cases, RoboForex may disclose customer’s personal information t
 ##  Refusal to Provide Information
 
 You have the right to refuse to provide information requested by our experts. In this event, we cannot give you full support and guarantee quality service for your accounts, since we have to make sure all the information you provide is absolutely accurate and inform you in timely manner of any changes in your information.
+
+##  Instructions how to opt-out
+
+You can opt-out of RoboForex email marketing, by following the instructions included in email messages. Exception applies to the messages, which are related to making payments, and the information about the latest services from RoboForex that you can not opt-out of. You can also use email to send us your requests relating to marketing materials and your right to forward these materials to third parties with marketing purposes.
