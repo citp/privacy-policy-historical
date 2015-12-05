@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoptoit.ca privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607040530id_/http%3A//www.shoptoit.ca/shop/content--name_Privacy%2BPolicy__cid_185.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoptoit.ca privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205141137id_/http%3A//www.shoptoit.ca/shop/content--name_Privacy%2BPolicy__cid_185.html) for the most accurate reproduction.*
 
 # Privacy Policy - Fashion Trends, Articles, and Sale Prices Online in Canada at Shoptoit
 
