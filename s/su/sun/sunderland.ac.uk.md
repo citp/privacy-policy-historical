@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunderland.ac.uk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629055154id_/http%3A//www.sunderland.ac.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunderland.ac.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206001358id_/http%3A//www.sunderland.ac.uk/info/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies
 
