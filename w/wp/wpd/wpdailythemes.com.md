@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpdailythemes.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175016id_/http%3A//www.wpdailythemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpdailythemes.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205145812id_/http%3A//www.wpdailythemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WP Daily Themes
 
