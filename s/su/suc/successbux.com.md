@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the successbux.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201208id_/http%3A//www.successbux.com/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successbux.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206001518id_/http%3A//www.successbux.com/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
 
 # SuccessBux.com - Privacy
 
