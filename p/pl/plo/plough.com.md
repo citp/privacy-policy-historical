@@ -1,55 +1,169 @@
-> *The following text is extracted and transformed from the plough.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022536id_/http%3A//www.plough.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plough.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205181134id_/http%3A//www.plough.com/en/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Plough Privacy Policy
 
-**Plough values the privacy of our visitors and customers** and takes reasonable measures to safeguard this information from unauthorized use. This notice describes our privacy policy. By visiting Plough.com you are accepting the practices described in this privacy policy.
+Last modified: September 1, 2015
 
-#### 1\. What information does this privacy policy cover?
+### Summary
 
-This privacy policy applies only to personally identifiable information collected on the websites where this privacy policy is posted. This privacy policy applies to use and sharing of personally identifiable information collected on the websites where this privacy policy is posted and does not apply to any other information collected by The Plough Publishing House through any other means. This privacy policy applies to use and sharing of personally identifiable information collected on and after the date that this privacy policy is posted. When this privacy policy uses the term "personally identifiable information," we mean information that identifies a particular individual, such as the individual's name, postal address, e-mail address, and telephone number. Personally identifiable information is sometimes referred to in this privacy policy as "personal information." Finally, the terms of this privacy policy are subject to all applicable laws.
+Plough ( **"Plough"** or **"We"** ) respect your privacy and are committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit the website www.plough.com (our " **Website** ") and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
-#### 2\. What types of personally identifiable information do we collect about our visitors/customers?
+We keep and use the information you provide to us, and collect some information automatically. We use this information to help us provide you with the services and experience you expect from Plough. We will never sell your email address, but may share your mailing address with others (unless you ask us not to). 
 
-We collect several types of personally identifiable information about our visitors/customers:
+The policy below describes in detail the way we collect, store, and use information, and also describes your rights with respect to your information. Please read it carefully, as we assume you agree with it if you continue to use this Website.
 
-##### Information You Provide to Us
+### Applicability
 
-Typically, this information includes your name, postal address, e-mail address and telephone number. If you purchase products from us we will also collect your credit card information, the type of product ordered or purchases, and the date of the order or purchase.
+This policy applies to information we collect on this Website and in e-mail, text, and other electronic messages between you and Plough.
 
-##### Information Collected Through Technology
+It does not apply to information collected by us offline, or by any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Website.
 
-We collect information through technology to make our site more interesting and useful to you. For instance, when you visit our site, we collect your IP address. An IP address is often associated with the portal through which you enter the Internet, like your ISP (Internet Service Provider) or your company. Standing alone, your IP address is not personally identifiable information. At times we also use IP addresses to collect information regarding the frequency with which our visitors/customers visit various parts of our site.
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time (see _Changes to our Privacy Policy_). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates. 
 
-Our website also uses "cookies." Cookies are pieces of information that a website sends to your computer while you are viewing the website. We use cookies for a variety of purposes. For instance, when you return to our site after logging in, cookies provide information to the site so that the site will remember who you are. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Safari or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your Web experience smoother, like the features mentioned above, and some of our services will not function properly.
+### Children Under the Age of 13
 
-We also use technical methods to analyze the traffic patterns on our Website, such as the frequency with which our users visit various parts of our Website, length of visits, download errors and page interaction information (such as scrolling, clicks, and mouse-overs).
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website, or provide any information about yourself to us, including your name, address, telephone number, e-mail address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please [contact us](https://web.archive.org/en/contact-us).
 
-#### 3\. Why do we collect this information?
+### Information We Collect About You and How We Collect It
 
-We collect the personally identifiable information in order to serve the needs of our visitors and customers. If you are purchasing a product from us and supply us with credit card information, we need to know who you are in order to verify the credit card information you have sent us. The non-personal information that we collect from you is used for internal purposes to make your experience with our site more enjoyable.
+We collect several types of information from and about users of our Website, including information:
 
-#### 4\. How is your information protected?
+  * by which you may be personally identified, such as name, postal address, e-mail address, telephone number, or any other identifier by which you may be contacted online or offline (" **personal information** ");
+  * that is about you but individually does not identify you, such as religious affiliation; and
+  * about your internet connection, the equipment you use to access our Website, and usage details.
 
-We use the latest in encryption technology to ensure that any sensitive information that is sent to you by us via the Internet is protected from unauthorized interception. From time to time, we review our security procedures in order to consider appropriate new technology and methods. Please be aware though that, despite our best efforts, no security measures are perfect or impenetrable.
 
-#### 5\. What choices do you have about the collection, use, and sharing of certain information collected from you?
 
-With regard to personal information that you have provided under this privacy policy, there are several opt-out choices available to you. These opt-out choices are the means by which you give us, or decline to give us, your consent to use your personal information for the purposes covered by these opt-out choices.
+We collect this information:
 
-Disabling Cookies: You have the option of disabling your computer's ability to accept or transmit cookies. This will prevent us from gathering certain nonpersonally identifiable information from your computer.
+  * Directly from you when you provide it to us.
+  * Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons, and other tracking technologies.
+  * From third parties, for example, our business partners.
 
-Third Parties: Plough will NOT share your personal information with third parties.
 
-E-mails from Plough: You may choose to opt-out of receiving e-mail notification of any new products, promotional materials or service that we are offering. 
 
-#### 6\. Children
+**Information You Provide to Us.** The information we collect on or through our Website may include:
 
-Plough does not sell products for purchase by children. If you are under 18, you may use Plough.com only with the involvement of a parent or guardian.
+  * Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, subscribing to our service, posting material, or requesting further services. We may also ask you for information when you report a problem with our Website.
+  * Records and copies of your correspondence (including e-mail addresses), if you contact us.
+  * Your responses to surveys that we might ask you to complete.
+  * Details of transactions you carry out through our Website and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Website.
 
-#### 7\. External links
 
-By selecting any external link on Plough.com, you will leave the Plough.com website and jump to an unaffiliated third party website that may offer a different privacy policy and level of security. The third party is responsible for website content and system availability. Plough does not offer, endorse, recommend, or guarantee any information, product, or service available on that entity's website.
 
-#### 8\. How will you know if we amend this privacy policy? 
+You also may provide information to be published or displayed (hereinafter, " **posted** ") on public areas of the Website (" **User Contributions** "). Your User Contributions will be publicly available and thus are posted at your own risk. 
 
-We reserve the right to amend and change this privacy policy at any time. However, if we make any material changes in the way we collect, use and/or share your personal information, we will publish the changes to our web site and post a notice on the home page that a new policy has been implemented. Should you have any questions about this privacy policy please contact us by email ([info@plough.com](mailto:info@plough.com)) with a thorough description and we will try to resolve it.
+**Information We Collect Through Automatic Data Collection Technologies.** As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including details of your visits to our Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Website, and information about your computer and internet connection, including your IP address, operating system, and browser type.
+
+The information we collect automatically may include personal information, or we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Website and to deliver a better and more personalized service, including by enabling us to estimate our audience size and usage patterns, store information about your preferences, allowing us to customize our Website according to your individual interests, and recognize you when you return to our Website.
+
+The technologies we use for this automatic data collection may include:
+
+  * **Cookies.** A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. 
+  * **Web Beacons.** Pages of our the Website and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit Plough, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). 
+
+
+
+We do not collect personal information automatically.
+
+### Third-party Use of Cookies and Other Tracking Technologies.
+
+Some content or applications on the Website are served by third-parties, including content providers and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content. 
+
+We do not control these third parties' tracking technologies or how they may be used. If you have any questions about targeted content, you should contact the responsible provider directly. 
+
+### How We Use Your Information
+
+We use information that we collect about you or that you provide to us, including any personal information:
+
+  * To present our Website and its contents to you, and to provide you with information, products, or services that you request from us.
+  * To provide you with notices about your account or subscription, including expiration and renewal notices.
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+  * To notify you about changes to our Website or any products or services we offer or provide though it.
+  * To allow you to participate in interactive features on our Website.
+  * In any other way we may describe when you provide the information.
+  * For any other purpose for which you provide it or with your consent.
+
+
+
+We may also use your information to contact you about our own and third-parties' goods and services that may be of interest to you. If you do not want us to use your information in this way, please email us at [info@plough.com](mailto:info@plough.com?subject=Privacy%20Policy%20inquiry). For more information, see _Choices About How We Use and Disclose Your Information._
+
+Plough Privacy Policy Object moved
+
+## Object moved to [here](https://web.archive.org/Error-500.aspx?aspxerrorpath=/en/subscriptions/daily-prayer/december/daily-prayer-for-december-5).
+
+id="DOYI">
+
+### Disclosure of Your Information
+
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction. 
+
+We may disclose personal information that we collect or you provide as described in this privacy policy:
+
+  * To our subsidiaries and affiliates.
+  * To contractors, service providers and other third parties we use to conduct aspects of our business.
+  * We will never share your email address with unrelated third parties. We may occasionally share other information, including your postal address, with third parties to market their products or services to you if you have not opted out of these disclosures. For more information, see Choices About How We Use and Disclose Your Information.
+  * To fulfill the purpose for which you provide it. For example, if you give us an e-mail address to use the "e-mail a friend" feature of our Website, we will transmit the contents of that e-mail and your e-mail address to the recipients.
+  * For any other purpose disclosed by us when you provide the information, or with your consent.
+
+
+
+We may also disclose your personal information:
+
+  * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
+  * To enforce or apply our terms of use, terms of sale, and other agreements, including for billing and collection purposes.
+
+
+
+### Choices About How We Use and Disclose Your Information
+
+We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with control over your information: 
+
+  * **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+  * **Promotional Offers from Plough.** If you do not wish to have your contact information used by Plough to promote our own or third parties' products or services, you can opt-out by sending us an e-mail stating your request to [info@plough.com](mailto:info@plough.com?subject=Privacy%20Policy%20Inquiry). If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions. 
+  * **Disclosure to Third Parties.** If you do not wish to have your contact information disclosed by Plough to unrelated third parties to promote their products or services, you can opt-out by sending us an e-mail stating your request to [info@plough.com](mailto:info@plough.com?subject=Privacy%20Policy%20inquiry).
+
+
+
+### Accessing and Correcting Your Information
+
+You can review and change your personal information by logging into the Website and visiting your account profile page.
+
+You may also send us an e-mail at [info@plough.com](mailto:info@plough.com?subject=Privacy%20Policy%20inquiry) to request access to, correct or delete any personal information that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+
+### Your California Privacy Rights
+
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [info@plough.com](mailto:info@plough.com?subject=Privacy%20Policy%20inquiry) or write us at: The Plough Publishing House, 151 Bowne Drive, PO Box 398, Walden, NY 12586. 
+
+Some web browsers may transmit “do-not-track” signals to our Website. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether you intend for these signals to be transmitted. Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, our Website currently does not take action in response to these signals.
+
+### Data Security
+
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on our secure servers behind firewalls. Any payment transactions will be encrypted.
+
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Website like comment threads. The information you share in public areas may be viewed by any user of the Website.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention by others of any privacy settings or security measures contained on the Website.
+
+### Changes to Our Privacy Policy
+
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users' personal information, we will notify you by e-mail to the primary e-mail address specified in your account or through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
+
+### Contact Information
+
+To ask questions or comment about this privacy policy and our privacy practices, contact us at: 
+
+The Plough Publishing House  
+151 Bowne Drive  
+PO Box 398  
+Walden, NY 12586
+
+Email: [info@plough.com](mailto:info@plough.com?subject=Privacy%20Policy%20Inquiry)
+
+or via our toll-free number: 1–800–521–8011
+
+Magazine
+
+## Plough Quarterly
+
+**Bold** , hope-filled, and down-to-earth, Plough Quarterly features thought-provoking articles, commentary, interviews, short fiction, book reviews, poetry and art. Challenge your mind, raise your spirits, strengthen your faith. Subscribe to Plough Quarterly today.
