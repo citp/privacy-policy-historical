@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homemediamagazine.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407073834id_/http%3A//www.questex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemediamagazine.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205190321id_/http%3A//www.questex.com/privacy-policy) for the most accurate reproduction.*
 
 # Questex Privacy Policy | Questex | Digital Media | Events | Business Information | Content Marketing & Media
 
