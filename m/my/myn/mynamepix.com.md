@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mynamepix.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022514id_/http%3A//mynamepix.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynamepix.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205181025id_/http%3A//mynamepix.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which MyNamePix collects, uses, maintains and discloses information collected from users (each, a "User") of the website ("[www.mynamepix.com](https://web.archive.org/web/20150607022514id_/http%3A//mynamepix.com/www.mynamepix.com)"). This privacy policy applies to the Site and all products and services offered by MyNamePix.
+This Privacy Policy governs the manner in which MyNamePix collects, uses, maintains and discloses information collected from users (each, a "User") of the website ("[www.mynamepix.com](https://web.archive.org/web/20151205181025id_/http%3A//mynamepix.com/www.mynamepix.com)"). This privacy policy applies to the Site and all products and services offered by MyNamePix.
 
 #### Personal identification information
 
