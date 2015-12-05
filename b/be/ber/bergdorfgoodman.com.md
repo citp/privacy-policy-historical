@@ -1,172 +1,155 @@
-> *The following text is extracted and transformed from the bergdorfgoodman.com privacy policy that was archived on 2009-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090213142801id_/http%3A//www.bergdorfgoodman.com/category/assistance/service/security.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bergdorfgoodman.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205121708id_/http%3A//www.bergdorfgoodman.com/assistance/assistance.jsp%3FitemId%3Dcat403606%26icid%3Dfoot_secur_priv) for the most accurate reproduction.*
 
-# Bergdorf Goodman - World-renowned fashion, plus exclusive beauty brands
+# Security & Privacy at Bergdorf Goodman
 
-| 
+#### Introduction
 
-Contact Us  
-  
-  
-  
-CALL US ANYTIME   
-1.888.774.2424  
-24 hours/7 days a week
+This website ("website") is operated by The Neiman Marcus Group, Inc., which includes Neiman Marcus stores, Neiman Marcus Direct, Horchow, and Bergdorf Goodman ("Neiman Marcus" or "we" or "us"). This privacy policy only covers information collected at this website, and does not cover any information collected offline by Neiman Marcus (unless specifically stated). All Neiman Marcus websites, including NeimanMarcus.com, BergdorfGoodman.com, Horchow.com, and LastCall.com, are currently covered by this privacy policy.
 
   
-|  |  Security & privacy information **Secure ordering**   
-Your online credit card transactions are secure with BergdorfGoodman.com. We use Secure Socket Layering (SSL), the industry-standard encryption technology that ensures safe Internet transmission of your personal information. When the letters "http" in the URL change to "https," the "s" indicates you are in a secure area employing SSL; also, your browser may give you a pop-up message that you're about to enter a secure area. 
 
-Making a credit card purchase is just as safe on our Web site as it is by telephone, but if you prefer the latter, you may purchase online merchandise by calling toll-free 1.888.774.2424 -- 24 hours a day, seven days a week. One of our customer service associates will gladly take your order. 
 
-**Privacy policy**   
-To help us achieve our goal of providing the highest quality products and services, we use information from our interactions with you and other customers, as well as from other parties. Because we respect your privacy, we have procedures to ensure that your personal information is handled in a safe, secure, and responsible manner. 
+#### Security
 
-We have posted this privacy policy to let you know what kind of information we collect, how it is handled, with whom it may be shared, what choices you have regarding our use of your information, and how you may access some of the information you provide to us. 
+Personal information provided on the website and online credit card transactions are transmitted through a secure server using Secure Socket Layering (SSL) encryption technology. When the letters "http" in the URL change to "https," the "s" indicates you are in a secure area employing SSL; also, your browser may give you a pop-up message that you're about to enter a secure area.
 
-As we continue to develop our Web site and take advantage of advances in technology, our privacy policy may change. Please refer to this page frequently for the most up-to-date information. 
+You may purchase online merchandise by calling toll-free 1.888.888.4757—24 hours a day, seven days a week. One of our customer service associates will gladly take your order.
 
-If you have a Bergdorf Goodman credit card, a separate privacy policy describes collection, use, and protection of information about you and your account. To obtain a copy of our credit card privacy policy: 
+We are committed to handling your personal information with high standards of information security. We take appropriate physical, electronic, and administrative steps to maintain the security and accuracy of personally identifiable information we collect, including limiting the number of people who have physical access to our database servers, as well as employing electronic security systems and password protections that guard against unauthorized access. Our website uses encryption technology, such as Secure Sockets Layer (SSL), to protect your personal information during data transport. SSL encrypts ordering information such as your name, address, and credit card number. Our Customer Care center and stores also operate over a private, secure network. Please note that email is not encrypted and is not considered to be a secure means of transmitting credit card information.
 
-  * Click to [review BG Credit Card policy](https://web.archive.org/category/assistance/service/shoppingOnline.jhtml;jsessionid=2YKUVLPYBF244CQAAKLBPVY#nmccuse) online
-  * Call 1.888.774.2424
-  * Write:  
-BergdorfGoodman.com  
-P.O. Box 720937  
-Dallas, TX 75372-0937 
+  
 
-This Privacy Policy has been in effect as of 8/30/2004. 
 
-**The information we collect**   
-Whenever you shop with BergdorfGoodman.com or in our store we obtain from you the information we need to complete your transaction. This may include your name, address, telephone number, driver's license number, birth date, and e-mail address. If you use a credit or debit card or pay by check, it will include your account number. 
+#### Privacy Policy
 
-When you register with us as an online customer, we may ask for additional information, such as your favorite designers. 
+To help us achieve our goal of providing the highest quality products and services, we use information from our interactions with you and other customers, as well as from other parties. Because we respect your privacy, we have implemented procedures to ensure that your personal information is handled in a safe, secure, and responsible manner.
 
-If you use one of our services, or participate in one of our promotions or sweepstakes, we may ask for additional information, such as your age, interests or product preferences. 
+We have posted this privacy policy in order to explain our information collection practices and the choices you have about the way information is collected and used.
 
-From your purchases and other interactions with us, we obtain information concerning the specific products or services you purchase or use. 
+As we continue to develop our website and take advantage of advances in technology to improve the services we offer, this privacy policy likely will change. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy.
 
-To improve our Web site, we collect non-personal information about how users navigate through the site. We may share this information with our affiliates or other outside companies. 
+This Privacy Policy was last updated on October 12, 2012. 
 
-**How we use the information we collect**   
+  
+
+
+#### The Information We Collect
+
+Generally, you may browse the website without providing any personally identifiable information. However, we may ask you to provide personally identifiable information at various times and places on this website. In some cases, if you choose not to provide us with the requested information, you may not be able to access all of this website or participate in all of its features.
+
+We receive and store any personally identifiable information you enter on the website, whenever you shop with Neiman Marcus—online, through our catalogs, or in our stores, or information you give us in any other way, such as by subscribing to our catalogs, email, or mobile messaging. For example, we may collect the following personally identifiable information: your name, address, telephone number, mobile telephone number, driver's license number, birth date, and email address. If you use a credit or debit card or pay by check, we will also include your account number.
+
+When you register with us as an online customer, we may ask for additional information, such as your favorite designers.
+
+If you use one of our services, or participate in one of our surveys, promotions, or sweepstakes, we may ask for additional information, such as your age, interests, or product preferences.
+
+From your purchases and other interactions with us, we obtain information concerning the specific products or services you purchase or use.
+
+When you visit this website, our web server automatically collects anonymous information such as log data and IP addresses, and may collect general information concerning your location. We may use the automatically collected information for a number of purposes, such as improving our site design, product assortments, customer service, and special promotions.
+
+When you visit one of our stores, if your mobile device accesses one of our wireless networks we may also automatically collect information about your geo-location based, in part, upon which wireless network has been accessed. When this happens we attempt to de-identify the information, which means that we remove or change (e.g., hash) certain pieces of information that might be used to link the data to you, or to your device. We will not attempt to re-identify geo-location information (i.e., link it to you or your device) unless you affirmatively give us permission to collect geo-location information about you. If you give us such permission, you can later decide to opt-out via the mobile app you used to opt-in. To disable geo-location on your mobile device, open your Settings app, and tap Privacy. Then, tap on Location Services. Scroll down until you see the "NM" app and tap on the toggle on the right hand side so that the toggle is no longer green. 
+
+Our mobile applications will not transmit geo-location information about you to us unless you give them permission to do so.
+
+Some web browsers and devices permit you to broadcast a preference that you not be ???tracked??? online. At this time we do not modify your experience based upon whether such a signal is broadcast. 
+
+The Information We Collect was last updated December 5, 2014.
+
+  
+
+
+#### How We Use the Information We Collect
+
 We use the information we collect for various purposes, including: 
 
-  * to complete your purchase transactions 
-  * to provide the services you request 
-  * to send you offerings by mail 
-  * to keep you informed about the status of your orders 
-  * to identify your product and service preferences, so we can notify you of new or additional products, services, and promotions that might be of interest to you 
-  * to notify you of product recalls or provide other information concerning products you have purchased 
-  * to improve our merchandise selections, customer service, and overall shopping experience 
+  * To complete your purchase transactions
+  * To provide the services you request 
+  * To send you our catalogs and other offerings by mail 
+  * To identify your product and service preferences, so we can notify you of new or additional products, services, and promotions that might be of interest to you 
+  * To notify you of product recalls or provide other information concerning products you have purchased 
+  * To improve our merchandise selections, customer service, and overall shopping experience 
+  
 
-**Others with whom we share your information**   
-The Neiman Marcus Group: We may share the information we collect with our corporate affiliates, including Neiman Marcus, Chef's, and Horchow catalogs and Web sites. 
 
-Service providers: We provide information to outside companies that help us bring you the products and services we offer. For example, we may work with an outside company to manage a database of customer information or assist us in distributing e-mails. 
 
-Other companies: We may provide your information to carefully selected outside companies when we believe their products or services may be of interest to you. 
+The Neiman Marcus Group: All of the above information that we collect, as described above, may be shared among all Neiman Marcus entities, including Horchow and Bergdorf Goodman.
 
-Business Transitions: We may transfer or share a copy of personal information about you in the event that The Neiman Marcus Group, Neiman Marcus Direct, BergdorfGoodman.com, or one of its properties, affiliates or subsidiaries, goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets. You will be notified via email or prominent notice on our web site prior to a change of ownership or control of your personal information, if your personal information will be used contrary to this policy. However, nothing in this Privacy Policy is intended to interfere with the ability of The Neiman Marcus Group, Neiman Marcus Direct, or BergdorfGoodman.com to transfer all or part of its business and/or assets to an affiliate or independent third party at any time, for any purpose, without any limitation whatsoever. The Neiman Marcus Group, Neiman Marcus Direct, or BergdorfGoodman.com specifically reserves the right to transfer or share a copy of personally identifiable information collected from its websites to the buyer of that portion of its business relating to that information. 
+Service Providers: We also may disclose information to outside companies that help us bring you the products and services we offer. For example, we may work with an outside company to: (a) manage a database of customer information; (b) assist us in distributing emails; (c) assist us with direct marketing and data collection; (d) provide us storage and analysis; (d) provide fraud prevention; and (e) provide other services designed to assist us in maximizing our business potential. We require that these outside companies agree to keep confidential all information we share with them and to use the information only to perform their obligations in our agreements with them.
 
-**Your choices regarding use of the information we collect**   
-If you do not want us to share information about you with any company or organization outside The Neiman Marcus Group, Neiman Marcus Direct, or Bergdorf Goodman: 
+Other Companies: We may provide information to carefully selected outside companies when we believe their products or services may be of interest to you.
 
-  * Call 1-800-NEIMANS (1.800.634.6267) 
-  * Write:  
-BergdorfGoodman.com  
-Marketing Management  
-P. O. Box 650589  
-Dallas, TX 75265-0589 
+Business Transitions: We may transfer or share a copy of personal information about you in the event that Neiman Marcus or one of its properties, affiliates, or subsidiaries goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets. You will be notified via email or prominent notice on our website prior to a change of ownership or control of your personal information, if your personal information will be used contrary to this policy. However, nothing in this Privacy Policy is intended to interfere with the ability of Neiman Marcus to transfer all or part of its business and/or assets to an affiliate or independent third party at any time, for any purpose, without any limitation whatsoever. Neiman Marcus specifically reserves the right to transfer or share a copy of personally identifiable information collected from its websites to the buyer of that portion of its business relating to that information.
 
-Please note that many promotions and mailings are completed well in advance, so you may continue to receive some offers after you ask us to stop sharing your information. We appreciate your patience in giving us time to carry out your request. 
+Compliance with Law: We may provide access to information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our website, to limit our legal liability, and to protect our rights or to protect the rights, property, or safety of visitors of this website or the public. 
 
-**Cookies, Web Beacons, and how we use them**
+Neiman Marcus partners with advertising companies to place our advertising on publisher websites on the Internet. These advertising companies collect anonymous information about your visits to our web site. This technology involves the use of third party cookies which allow them to develop personalized advertising so that it directly relates to offers that may be of interest to you. To choose to opt-out of this service we have with our third-party advertising partner, [click here](http://www.networkadvertising.org/choices/#completed). We may also use Neiman Marcus cookies to provide similar enhanced online marketing to you based on your interests and preferences. To opt out of these enhanced online marketing ads, please [click here](http://dtmc.neimanmarcus.com/adinfo/adchoices_fpc.html?cid=2419&cname=Neiman%20Marcus&cmagic=020bf2&clogo=neimanmarcus.jpg).
 
-A "cookie" is a small data file stored by your Web browser on your computer's hard drive. It allows us to recognize your computer (but not specifically who is using it) upon entering our site by associating the identification numbers in the cookie with other customer information you have provided us. That customer information is stored on our secured database. A "web beacon" or "pixel tag" or “clear gif” is typically a one-pixel image, used to pass information from your computer to a website.
+Your Choices Regarding Use of the Information We Collect  
+We provide you with a number of choices regarding our handling of your nonpublic personally identifiable information. 
 
-We use cookies and web beacons to keep track of what you have in your shopping cart and to remember you when you return to the Web Site as well as to identify the pages you click on during your visit to our site and the name of the Web site you visited immediately before clicking to BergdorfGoodman.com. We use this information to improve our site design, product assortments, customer service, and special promotions. You can, of course, disable cookies and web beacons on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies.
+Direct Mail or Telephone Marketing: If you shop at the Neiman Marcus or Bergdorf Goodman stores and wish to be removed from the list of customers that receive direct mail or telemarketing calls, please either: 
 
-We may contract with third parties who may use cookies and web beacons and collect information on our behalf or provide services such as credit card processing, shipping, promotional services or data management. We call them our Customer Care Partners. These third parties are prohibited by our contract with them from sharing that information with anyone other than us or our other Customer Care Partners. However, we respect your right to choose whether to be included in such services. If you would like to opt out of these services, please click here.
+  * Write to Neiman Marcus Customer Care at P.O. Box 650589, Dallas, Texas, 75265-0589
+  * or call toll-free 1-888-888-4757 
 
-**Children's privacy**   
-The Children's Online Privacy Protection Act took effect on April 21, 2000. It imposes certain requirements on Web sites directed at children under 13 that collect information on those children, and on Web sites that knowingly collect information on children under 13. 
 
-We do not knowingly collect any personal information from children under the age of 13 on our Web site, and our online sweepstakes are restricted to entrants who are at least 18 years old. 
 
-No one under the age of 15 should submit any personal information to this or any other Web site without the consent of a parent or guardian. 
+If you choose to write to us, please include your name, address, and credit card account number (if you have one), and state one of the following: 
 
-**Links to other sites**   
-While visiting BergdorfGoodman.com, you may link to Web sites operated by our business partners or other third parties. This does not mean that we endorse these Web sites. We do not make any representations or warranties about any Web site you may access through this Web site. They are independent from us, and we have no control over, or responsibility for, their information or activities. You need to make your own independent decisions regarding your interactions or communications with any other Web site. 
+  * "NO MAIL OFFERS" (if you don't want to receive offers by mail);
+  * "NO PHONE OFFERS" (if you don't want to receive offers by phone); or
+  * "NO PHONE OR MAIL OFFERS" (if you don't want to receive either).
 
-If you provide personal information at one of those sites, you are subject to the privacy policy of the operator of that site, not the Bergdorf Goodman privacy policy. We encourage you to read that policy before submitting any personal information. 
 
-**Online account registration**   
-To make online shopping faster and easier, you may register with BergdorfGoodman.com. As a registered customer, you only have to enter your shipping addresses and billing information once; they will be securely stored with us for your future use. Using your name and a password of your choice, you may access your account online at any time to add, delete, or change information. 
 
-If you are using a public computer, we strongly encourage you to LOG OUT at the conclusion of your session. Your information will still be stored with us but it will not be accessible to anyone else from that computer. 
+Because customer lists often are prepared well in advance of an offering (sometimes a few months before the offer is made), you may continue to receive some offers after you send us a request not to use your information for specified marketing purposes. We appreciate your patience and understanding in giving us time to carry out your request. 
 
-**E-mails**   
-You will receive promotional e-mails from us only if you have asked to receive them. Each time you receive an e-mail from BergdorfGoodman.com, you will be given the opportunity to "opt-out" or stop receiving them. 
+Your California Privacy Rights  
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: Neiman Marcus Customer Care, P.O.Box 650589, Dallas, Texas 75265-0589. Please allow 30 days for a response. 
 
-If you choose to "opt-out," we will stop sending you e-mails. Please note, however, that some e-mail promotions are prepared well in advance, so you may continue to receive offers after you have chosen to "opt-out." We appreciate your patience in giving us time to carry out your request. 
+Cookies, Web Beacons, and How We Use Them  
+A "cookie" is a small data file stored by your Web browser on your computer or mobile device [hard drive]. It allows us to recognize your computer (but not specifically who is using it) upon entering our site by associating the identification numbers in the cookie with other customer information you have provided us. That customer information is stored on our secured database. A "web beacon" or "pixel tag" or "clear gif" is typically a one-pixel image, used to pass information from your computer or mobile device to a website.
 
-**Any questions?**   
+We use cookies and web beacons to keep track of what you have in your shopping cart and to remember you when you return to the website as well as to identify the pages you click on during your visit to our site and the name of the website you visited immediately before clicking to NeimanMarcus.com. We use this information to improve our site design, product assortments, customer service, and special promotions. You can, of course, disable cookies and web beacons on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our website will not operate correctly if you disable cookies. We may also use web beacons, and other technologies, to help track whether our communications are reaching you, to measure their effectiveness, or to collect certain non-personal information about your computer, device, or browser in order to allow us to better design future communications to you.
+
+We may contract with third parties who may use cookies and web beacons and collect information on our behalf or provide services such as credit card processing, shipping, promotional services, or data management. We call them our Customer Care Partners. These third parties are prohibited by our contract with them from sharing that information with anyone other than us or our other Customer Care Partners. 
+
+This Cookies, Web Beacons, and How We Use Them was last updated on March 7, 2013. 
+
+Children's Privacy  
+Protecting children's privacy is important to us. Our website is a general audience site. We do not collect or maintain information from those we actually know are under 13, and no part of our website is targeted to attract anyone under 13. We also do not send email correspondence to anyone who tells us that they are under the age of 13 without their parent's consent.
+
+Children under the age of 13 should always ask their parents or guardians for permission before providing any personal information to anyone online. We urge parents and guardians to participate in their children's online activities and use parental control or other web filtering technology to supervise children's access to the web. 
+
+Links to Other Sites  
+While visiting NeimanMarcus.com, you may link to websites operated by our business partners or other third parties. This does not mean that we endorse these websites. We do not make any representations or warranties about any website you may access through this website. They are independent from us, and we have no control over, or responsibility for, their information or activities.
+
+In addition, our privacy practices may differ from those of these other sites. If you provide personal information at one of those sites, you are subject to the privacy policy of the operator of that site, not the Neiman Marcus Privacy Policy. Make sure you understand any website's privacy policies before providing personal information.
+
+Online Account Registration  
+To make online shopping faster and easier, you may register with NeimanMarcus.com. As a registered customer, you only have to enter your shipping addresses and billing information once; they will be securely stored with us for your future use. Using your name and a password of your choice, you may access your account online at any time to add, delete, or change information.
+
+If you are using a public computer, we strongly encourage you to LOG OUT at the conclusion of your session. Your information will still be stored with us but it will not be accessible to anyone else from that computer.
+
+Emails  
+You will receive promotional emails from us only if you have asked to receive them. If you do not want to receive email from Neiman Marcus or its affiliates you can click on the "Manage Your Email Preferences" link at the bottom of any email communication sent by us. Choose "Unsubscribe" at the bottom of the page that opens. Please allow us 3 business days from when the request was received to complete the removal, as some of our promotions may already have been in process before you submitted your request.
+
+Mobile Messaging  
+If you've signed up for mobile messaging (e.g., SMS and MMS) offers but later decide you no longer wish to receive them, simply follow the opt-out instructions included in the mobile message.
+
+Acceptance  
+By using this website, you accept the policies set forth in this Privacy Policy. 
+
+Any questions?
+
 We'll be happy to provide additional information or answer any questions. Please: 
 
-  * Call toll-free 1.888.774.2424 
-  * Write:  
-Customer Relations  
-P.O. Box 650589  
-Dallas, TX 75265-0589 
+**Call toll-free** 1.888.888.4757
 
-  
-Mac user advisory Macintosh users must have Internet Explorer version 5.0 or greater to place an order at BergdorfGoodman.com. Earlier versions of Internet Explorer prevent Mac users from viewing secure pages in the checkout process. BergdorfGoodman.com cannot remedy this situation without compromising the high level of security we provide for online transactions. 
+**Write:**
 
-To download the latest version of Internet Explorer at no charge, click here.
+  * Customer Care
+  * P.O. Box 650589
+  * Dallas, TX 75265-0589 
 
-Warranty informationSome items on our Web site have a manufacturer's warranty; this is noted in the product description. To obtain a written warranty for any of these items, send a specific written request to: 
 
-    BergdorfGoodman.com
-    P.O. Box 650589
-    Dallas, TX 75265-0589
-  
-Conditions of use, notices and disclaimers When you use this Web site, you are automatically agreeing that both your access to the site and your use of it are: 
-
-  * Subject to the terms and conditions in this legal notice, which may change at any time without notice. 
-  * Subject to all applicable laws. 
-  * Undertaken at your own risk. 
-
-Please refer to this page frequently to review our current terms and conditions of use. 
-
-**Copyright**   
-The following elements of this Web site are the property of BergdorfGoodman.com or our suppliers and are protected by United States and international copyright laws: 
-
-  * All text, graphics, logos, button icons, images, audio clips, digital downloads, and data compilations -- both individually and as they are compiled on the site. 
-  * All software. 
-
-**Trademarks**   
-The trademarks or trade dress of BergdorfGoodman.com and our affiliates may not be used without our written permission. Trademarks or trade dress include the Bergdorf Goodman name and logo, and other graphics, logos, page headers, button icons, scripts, and service names of Bergdorf Goodman products, services, and programs, and those of our affiliates. 
-
-All other trademarks that appear on this site are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by us or our affiliates. 
-
-**Use**   
-You have permission to electronically copy and print hard copies of pages from this Web site solely for personal, non-commercial purposes related to placing an order or shopping with BergdorfGoodman.com. Unless we give you written permission in advance, any other use of this Web site, its content and its information, including linking or framing to this Web site, are strictly prohibited. 
-
-**Errors and inaccuracies**   
-Our goal is to provide complete, accurate, up-to-date information on our Web site. Unfortunately, it is not possible to ensure that any Web site is completely free of human or technological errors. This site may contain typographical mistakes, inaccuracies, or omissions, some of which may relate to pricing and availability, and some information may not be complete or current. We reserve the right to correct any errors, inaccuracies or omissions -- including after an order has been submitted -- and to change or update information at any time without prior notice. We sincerely apologize for any inconvenience this may cause. 
-
-**Disclaimer of liability**   
-We make no representations or warranties of any kind, whether express or implied, with respect to this Web site, its content, or the information available on or through it; they are provided "as is," with all faults. Except as otherwise provided under applicable laws, we and our corporate affiliates, and the directors, officers, employees, agents, contractors, successors and assigns of each, will not be liable for any damages whatsoever arising out of or related to the use of this Web site or any other Web site linked to it. This limitation of liability applies to direct, indirect, consequential, special, punitive or other damages you or others may suffer, as well as damages for lost profits, business interruption or the loss of data or information, even if we are notified in advance of the potential for any such damages. 
-
-**No confidentiality**   
-Except for information necessary to place an order, we do not want to receive confidential or proprietary information or trade secrets through this Web site. Any information, materials, suggestions, ideas or comments sent to us will be deemed non-confidential, and by submitting it, you are granting us an irrevocable and unrestricted license to use, modify, reproduce, transmit, display and distribute it for any purpose whatsoever, with no payment or other compensation to you. However, we will not use your name unless we are required by law to identify the source of the materials, information, suggestions, ideas or comments, or unless we first obtain your permission. 
-
-**Applicable law**   
-By visiting this Web site, you agree that the laws of the state of Texas, without regard to principles of conflict of laws, will govern these Conditions of Use and any dispute of any sort that might arise between you and us or any of our affiliates. 
-
-**Disputes**   
-Any dispute relating in any way to your visit to our Web site or to products purchased here shall be submitted to confidential arbitration in Dallas, Texas. However, if you have in any manner violated or threatened to violate our intellectual property rights, we may seek injunctive or other appropriate relief in any state or federal court in the state of Texas. You consent to exclusive jurisdiction and venue in such courts. Any arbitration under this agreement shall be conducted under the prevailing rules of the American Arbitration Association. The arbitrator's award shall be binding and may be entered as a judgment in any court of competent jurisdiction. To the fullest extent permitted by applicable law, no arbitration with respect to this Web site or to products purchased here shall be joined to an arbitration involving any other party, whether through class arbitration proceedings or otherwise. 
-
-**Protecting your information**   
-As part of our ongoing commitment to ensure that your shopping experience with BergdorfGoodman.com is protected, BergdorfGoodman.com will prosecute all unauthorized or fraudulent transactions to the fullest extent allowed by law. 
-
-| 
