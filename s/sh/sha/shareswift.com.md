@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shareswift.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407145133id_/http%3A//shareswift.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareswift.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205122745id_/http%3A//shareswift.com/privacypolicy.html) for the most accurate reproduction.*
 
-# ShareSwift - ทางที่ง่ายสำหรับการแลกเปลี่ยนไฟล์
+# ShareSwift - Dosya paylaЕџД±mД±nД±n en kolay yolu
 
   
 
