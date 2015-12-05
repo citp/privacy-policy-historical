@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prince.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627085307id_/http%3A//prince.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prince.org privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205235903id_/http%3A//prince.org/privacy_policy.html) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -34,7 +34,7 @@ prince.org may amend this policy from time to time. If we make any substantial c
 
 ## Copyright
 
-See the [terms of service](https://web.archive.org/web/20150627085307id_/http%3A//prince.org/$SITEMAP\[agreement\]) for more information about copyright and other intellectual property. 
+See the [terms of service](https://web.archive.org/web/20151205235903id_/http%3A//prince.org/$SITEMAP\[agreement\]) for more information about copyright and other intellectual property. 
 
 ## Questions or Suggestions
 
