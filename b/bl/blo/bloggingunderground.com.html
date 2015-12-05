@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the bloggingunderground.com privacy policy that was archived on 2015-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150507063331id_/http%3A//www.bloggingunderground.com/bu/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bloggingunderground.com privacy policy that was archived on 2015-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151205011401id_/http%3A//www.bloggingunderground.com/bu/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Blogging Underground Privacy Policy | Blogging Underground</title>
 <meta name="robots" content="index,follow">
-<meta name="generator" content="WordPress 4.0.5">
+<meta name="generator" content="WordPress 4.0.8">
 <link rel="stylesheet" href="http://www.bloggingunderground.com/bu/wp-content/themes/x%20wordpress-blue/style.css" type="text/css" media="screen">
 <link rel="alternate" type="application/rss+xml" title="Blogging Underground RSS Feed" href="http://www.bloggingunderground.com/bu/feed/">
 <link rel="pingback" href="http://www.bloggingunderground.com/bu/xmlrpc.php">
@@ -25,14 +25,37 @@
 .WishListMember_LoginMergeCode{ }
 </style><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 (function(url){
-if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
-var wfscr = document.createElement('script');
-wfscr.type = 'text/javascript';
-wfscr.async = true;
-wfscr.src = url + '&r=' + Math.random();
-(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
-})('//www.bloggingunderground.com/bu/wp-admin/admin-ajax.php?action=wordfence_logHuman&hid=A1ED11152127D88605964FE7252BE492'); 
-</script><script type="text/javascript" async="" src="//www.bloggingunderground.com/bu/wp-admin/admin-ajax.php?action=wordfence_logHuman&amp;hid=A1ED11152127D88605964FE7252BE492&amp;r=0.23512064430914692"></script> <script type="text/javascript">
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.bloggingunderground.com/bu/?wordfence_logHuman=1&hid=E852D60B9A563086E185FF3B424B6194');
+</script> <script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-1614538-12']);
