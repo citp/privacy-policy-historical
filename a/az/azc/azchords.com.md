@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azchords.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607215351id_/http%3A//www.azchords.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azchords.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205154116id_/http%3A//www.azchords.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy. AZchords.com
 
@@ -37,5 +37,5 @@ This web site may contain copyrighted material whose use has not been specifical
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20150607215351id_/http%3A//www.azchords.com/contact.html).   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20151205154116id_/http%3A//www.azchords.com/contact.html).   
 
