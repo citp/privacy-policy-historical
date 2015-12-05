@@ -1,49 +1,25 @@
-> *The following text is extracted and transformed from the publicdesire.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607203655id_/http%3A//www.publicdesire.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicdesire.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206002108id_/http%3A//www.publicdesire.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-****
+## Personal Information
 
-**Personal Information**
+Your privacy is very important to us, and we promise never to release your personal details to anyone for mailing or marketing purposes.
 
-Your privacy is very important to us, and we promise never to release your personal details to anyone for
+When you make a purchase from www.publicdesire.co.uk any information you submit - for example: your name, email address and payment) are totally safe and secure.
 
-mailing or marketing purposes.
+Public Desire complies fully with all applicable Data Protection and consumer legislation, and we’ll treat all your personal information as fully confidential.
 
-When you make a purchase from www.publicdesire.co.uk any information you submit - for example: your
+Any data we collect is used to fulfil your order, improve our products and services along with sending you promotional emails to the email address submitted.
 
-name, email address and payment) are totally safe and secure.
+## Cookies
 
-Public Desire complies fully with all applicable Data Protection and consumer legislation, and we’ll treat all
+Cookies are files which transfer data from one hard drive to another, no personal information is collected through cookies, they are merely files in which allow us to analyse the best and worst performing parts of the website, in all to give the best shopping experience.
 
-your personal information as fully confidential.
+We use cookies to enable your shopping session to be as easy as possible, for things such as remembering your password when you come to login.
 
-Any data we collect is used to fulfil your order, improve our products and services along with sending you
+Cookies are usually automatically set as default within your browser, due to the number of websites in which they are mandatory, however you can refer to your browser for more information on deselecting the cookie option.
 
-promotional emails to the email address submitted.
+## Links to Other Sites
 
-**Cookies**
-
-Cookies are files which transfer data from one hard drive to another, no personal information is collected
-
-through cookies, they are merely files in which allow us to analyse the best and worst performing parts of the
-
-website, in all to give the best shopping experience.
-
-We use cookies to enable your shopping session to be as easy as possible, for things such as remembering your
-
-password when you come to login.
-
-Cookies are usually automatically set as default within your browser, due to the number of websites in which
-
-they are mandatory, however you can refer to your browser for more information on deselecting the cookie
-
-option.
-
-**Links to Other Sites**
-
-We may link to other sites for social purposes; however these linked sites are independent and therefore
-
-adhere to separate policies. Hence Public Desire has no responsibility or liability for content delivered on these
-
-platforms.
+We may link to other sites for social purposes; however these linked sites are independent and therefore adhere to separate policies. Hence Public Desire has no responsibility or liability for content delivered on these platforms.
