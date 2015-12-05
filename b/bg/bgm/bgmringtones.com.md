@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bgmringtones.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405022343id_/http%3A//www.bgmringtones.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bgmringtones.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205235010id_/http%3A//www.bgmringtones.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BGM RingtonesBGM Ringtones
+# Privacy Policy - BGM Ringtones
 
 **Third Party Advertising**
 
