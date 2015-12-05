@@ -1,84 +1,81 @@
-> *The following text is extracted and transformed from the onestophumour.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204002850id_/http%3A//onestophumour.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestophumour.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205232530id_/http%3A//rottenpanda.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - One Stop Humor: Funny Pictures and Videos!
+# Privacy Policy
 
-Privacy Policy
+**Privacy Policy**
 
-This Privacy Policy governs the manner in which OneStopHumour collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.onestophumour.com"](https://web.archive.org/web/20141204002850id_/http%3A//onestophumour.com/www.onestophumour.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by OnestopHumour.
+**We take your privacy very seriously.**
 
-**Personal identification information**
+Last Modified: 03 Feb 2015
 
-We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+Rottenpanda.com takes the private nature of your personal information very seriously. See below for our privacy policy standards.
 
-**Non-personal identification information**
+**Website Visitors**
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+Like most website operators, Rottenpanda.com collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Rottenpanda.com purpose in collecting non-personally identifying information is to better understand how Rottenpanda.com visitors use its website. From time to time, Rottenpanda.com may release non-personally-identifying information in the aggregate, e.g. by publishing a report on trends in the usage of its website.
 
-**Web browser cookies**
+Rottenpanda.com also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Rottenpanda.com does not use such information to identify its visitors, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+**Gathering of Personally-Identifying Information**
 
-**How we use collected information**
+Certain visitors to Rottenpanda.com websites choose to interact with Rottenpanda.com in ways that require Rottenpanda.com to gather personally-identifying information. The amount and type of information that Rottenpanda.com gathers depends on the nature of the interaction. For example, we ask visitors who sign up for Rottenpanda.com to provide a username and email address. In each case, Rottenpanda.com collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Rottenpanda.com. Rottenpanda.com does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-OneStopHumour may collect and use Users personal information for the following purposes:
+**Aggregated Statistics**
 
-  * _\- To improve customer service_  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
-We may use feedback you provide to improve our products and services.
-  * _\- To send periodic emails_  
-We may use the email address to respond to their inquiries, questions, and/or other requests. 
+Rottenpanda.com may collect statistics about the behavior of visitors to its websites. For instance, Rottenpanda.com may monitor the most popular collections on Rottenpanda.com. Rottenpanda.com may display this information publicly or provide it to others. However, Rottenpanda.com does not disclose personally-identifying information other than as described below.
 
+**Protection of Certain Personally-Identifying Information**
 
+Rottenpanda.com discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Rottenpanda.com behalf or to provide services available at Rottenpanda.com websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Rottenpanda.com websites, you consent to the transfer of such information to them. In addition, in some cases we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Rottenpanda.com or substantially all of its assets were acquired, or in the unlikely event that Rottenpanda.com goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of Rottenpanda.com may continue to use your personal and non-personal information only as set forth in this policy. Otherwise, Rottenpanda.com will not rent or sell potentially personally-identifying and personally-identifying information to anyone.
 
-**How we protect your information**
+Other than to its employees, contractors and affiliated organizations, as described above, Rottenpanda.com discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Rottenpanda.com believes in good faith that disclosure is reasonably necessary to protect the property or rights of Rottenpanda.com, third parties or the public at large. If you are a registered user of a Rottenpanda.com website and have supplied your email address, Rottenpanda.com may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Rottenpanda.com and its products. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Rottenpanda.com takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+You should also be aware that if you submit information to “chat rooms,” “forums” or “message boards” such information becomes public information, meaning that you lose any privacy rights you might have with regards to that information. Such disclosures may also increase your chances of receiving unwanted communications.
 
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+**Cookies**
 
-**Sharing your personal information**
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Rottenpanda.com uses cookies to help Rottenpanda.com identify and track visitors, their usage of Rottenpanda.com websites, and their website access preferences. Rottenpanda.com visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Rottenpanda.com websites, with the drawback that certain features of Rottenpanda.com websites may not function properly without the aid of cookies.
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+**Ads**
 
-**Third party websites**
+Ads appearing on any Rottenpanda.com websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy covers the use of cookies by Rottenpanda.com and does not cover the use of cookies by any advertisers.
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+**Links to Third Party Sites**
 
-**Advertising**
+This privacy policy only applies to information collected by Rottenpanda.com. This privacy policy does not apply to the practices of companies that Rottenpanda.com does not own or control, or employees that Rottenpanda.com does not manage. A Rottenpanda.com website may contain links to third party websites. Any information you provide to, or that is collected by, third-party sites may be subject to the privacy policies of those sites, if any. We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your personally-identifying information, and Rottenpanda.com and its affiliates shall not be liable for wrongful use or disclosure of your personally-identifying information by any third party.
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+**Third Party Vendors**
 
-**3rd Party Advertising**
+We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: <http://www.google.com/privacypolicy.html>.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/managing/opt_out.asp.
+We log users' access of the site for security purposes only.
 
-**Google Adsense**
+Our advertisers may also send you cookies.
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+We publish Google Adsense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour across the web using cookies. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: <http://www.google.com/ads/preferences/>. You can opt-out of the Adsense partner network cookie at: <http://www.google.com/privacy_ads.html>. However, this opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: <http://www.google.com/ads/preferences/plugin>.
 
-**Compliance with children's online privacy protection act**
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
 
-**Changes to this privacy policy**
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
 
-OneStopHumour has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+**Security**
 
-**Your acceptance of these terms**
+All non-personally-identifying information, potentially personally-identifying and personally identifying-information described above is stored on restricted database servers.
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20141204002850id_/http%3A//onestophumour.com/www.onestophumour.com/terms.html). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+**Choice/Opt-out**
 
-**Contacting us**
+If we ever send you information by email concerning new products, services or information that you did not expressly request, we will provide you with an email address by which you may request no further notices.?
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[One Stop Humour](https://web.archive.org/web/20141204002850id_/http%3A//onestophumour.com/www.onestophumour.com)  
-[www.onestophumour.com](https://web.archive.org/web/20141204002850id_/http%3A//onestophumour.com/www.onestophumour.com)  
-39 North Road London  
-woahhcom@gmail.com
+**Address Book Data**
 
-This document was last updated on July 01, 2013
+Any external address book data (email contacts, etc.) that a user voluntarily gives Rottenpanda.com access to will only be used for the described feature (looking up friends, etc.), and will not be stored or repurposed.
 
-**Warning** : include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in **/home/woahhcom/public_html/onestophumour.com/privacy_policy.php** on line **89**
+**Privacy Policy Changes**
+
+Although most changes are likely to be minor, Rottenpanda.com may change its privacy policy from time to time, and in Rottenpanda.com sole discretion. Rottenpanda.com encourages visitors to frequently check this page for any changes to its privacy policy. Your continued use of this site after any change in this privacy policy will constitute your acceptance of such change.
+
+**Contact Us**
+
+If you have any questions about this privacy policy or our sites in general, please contact us at: rottenpand @ gmail.com 
