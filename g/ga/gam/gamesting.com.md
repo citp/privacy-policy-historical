@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesting.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511004511id_/http%3A//www.gamesting.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesting.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205232335id_/http%3A//www.gamesting.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - gamesting.com
 
