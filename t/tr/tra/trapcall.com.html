@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trapcall.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607033811id_/http%3A//www.trapcall.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trapcall.com privacy policy that was archived on 2015-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151205141204id_/http%3A//www.trapcall.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <title>Privacy Policy - TrapCall</title>        <meta name="description" content="At TrapCall we take your privacy seriously. Read our complete privacy policy and get details about how we use your information, what information we collect and how we safeguard your information.">
@@ -11,14 +11,15 @@
         <link rel="stylesheet" href="/css/styles.css?v=1.03" type="text/css" media="screen">
         <link media="only screen and (max-device-width: 480px)" href="/css/iphone3.css?v=1.02" type="text/css" rel="stylesheet">
         <link media="only screen and (max-device-width: 640px)" href="/css/iphone4.css?v=1.02" type="text/css" rel="stylesheet">
-        <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.trapcall.com">
+        <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.trapcall.com">     
+        <link href="https://fonts.googleapis.com/css?family=Cabin:regular,bold" rel="stylesheet" type="text/css">
         <!--[if lte IE 6]>
             <link rel="stylesheet" href="/css/ie6.css" type="text/css" media="screen"/>
         <![endif]-->
         <!--[if IE 7]>
             <link rel="stylesheet" href="/css/ie7.css" type="text/css" media="screen"/>
         <![endif]-->
-        <script type="text/javascript" async="" src="//s3.amazonaws.com/ki.js/56408/ctM.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/5ddee9f07831149f22e4d9707d818b7d82f65696.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/js/jquery.js"></script>
+        <script type="text/javascript" async="" src="//s3.amazonaws.com/ki.js/56408/ctM.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/5ddee9f07831149f22e4d9707d818b7d82f65696.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/js/jquery.js"></script>
         <script type="text/javascript" src="/js/jquery-ui.js"></script>
         <script type="text/javascript" src="/js/jquery.json.js"></script>
         <script type="text/javascript" src="/js/jquery.maskedinput.js"></script>
@@ -64,23 +65,7 @@
 </script>
 
 
-<script>(function() {
-  var _fbq = window._fbq || (window._fbq = []);
-  if (!_fbq.loaded) {
-    var fbds = document.createElement('script');
-    fbds.async = true;
-    fbds.src = '//connect.facebook.net/en_US/fbds.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(fbds, s);
-    _fbq.loaded = true;
-  }
-  _fbq.push(['addPixelId', '835790729770315']);
-})();
-window._fbq = window._fbq || [];
-window._fbq.push(['track', 'PixelInitialized', {}]);
-</script>
-<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=835790729770315&amp;ev=PixelInitialized" /></noscript>
-  
+
 
 
 <script type="text/javascript">
@@ -123,12 +108,24 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 <script type="text/javascript">
     </script>
 <div id="login_overlay" class="png" style="position: absolute;"></div>
-<div id="loginPanel" class="simple_box" style="left: 513px; top: 168px;">
+<div id="loginPanel" class="simple_box" style="left: 513px; top: 200px;">
     <div style="position : relative;">
         <div class="close"><img src="/images/close.png" class="png" alt="Close"></div>
         <div id="loginTop" class="png"></div>
         <div id="loginBody">
-            <form action="https://www.trapcall.com/user/login" id="login">
+            <div id="new_site_offer" style="text-align: justify">
+                We recently launched a new, updated look. Be one of the first to try it! Don't worry, you can go back to our old site at any time.
+                <br>
+                <br>
+                <a class="greenButton" href="https://beta.trapcall.com/login">Log in to the new site</a>
+                <br style="clear: both;">
+                <br>
+                <hr>
+                <br>
+                <a class="blueButton" href="#oldsite">Log in to the current site</a>
+                <br style="clear: both;">
+            </div>
+            <form action="https://www.trapcall.com/user/login" id="login" style="display : none;">
                 <div class="notice error invalid_login" style="display : none;">Invalid Account Details.</div>
                 <div class="notice success pin_sent" style="display : none;">PIN request has been sent!</div>
                 <label>Phone Number</label>
@@ -153,7 +150,7 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
                 <input type="submit" class="png" id="loginSubmit" value="Log In">
             </form>
         </div>
-        <div id="forgotPassword">
+        <div id="forgotPassword" style="display : none;">
             <a href="#" target="remind_pin">Forgot Your PIN?</a>
             <a href="#" target="login" style="display : none;">Return to Log In</a>
         </div>
@@ -308,6 +305,10 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 		 When you register for TrapCall we ask for information such as your name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card.
 		<br>
 		<br>
+		<h3 style="padding-bottom : 0px;">NOTICE OF CHANGE:</h3>
+		From July 30th, 2015 forward, TrapCall will be cooperating with a third party team trying to identify and eliminate unwanted and potentially illegal robocalls.  If this Research &amp; Development (R&amp;D) test is successful, we may in the future offer this service to our subscribers.  During the test period, TrapCall will continue to send calls that you reject to your TrapCall voicemail. At the same time, the software installed on our server will be automatically analyzing voicemails to determine whether it is a human or robocall. The service relies on the analysis of the first few seconds of each voicemail to determine whether it is a human or robocall. Recordings of voicemails that are identified as robocalls will be used by the third party team to refine its algorithms and during part of the test period will be forwarded to another third party as part of the R&amp;D effort.  In the case of any voicemail that we determine to be left by a robocaller, just the audio recording and the caller ID of the robocaller will be shared with the third party for purposes of R&amp;D. No other personally identifiable information will be shared. IF YOU USE TRAPCALL AFTER JULY 30TH YOU AGREE TO THIS CHANGE TO OUR PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS CHANGE TO OUR PRIVACY POLICY, EMAIL US PRIOR TO JULY 30TH AT <a href="SUPPPORT@TRAPCALL.COM">SUPPPORT@TRAPCALL.COM</a> AND WE WILL MAKE SURE YOUR ACCOUNT IS NOT EFFECTED.
+		<br>
+		<br>
 		<h3 style="padding-bottom : 0px;">Conclusion</h3>
 		Trapcall.com may update this policy at any time. We will notify you 
 		about any substantive changes in the way we treat your personal 
@@ -342,6 +343,8 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
                 <a href="http://youtube.com/trapcall" class="youtube png"></a> 
                 <a href="http://twitter.com/trapcall" class="twitter png"></a> 
                 <a href="http://facebook.com/trapcall" class="facebook png"></a>
+                <a href="http://instagram.com/trapcall/" class="instagram png"></a> 
+                <a href="http://vine.co/TrapCall" class="vine png"></a>
                 <iframe id="facebookLikeButton" src="http://www.facebook.com/plugins/like.php?href=http://www.trapcall.com&amp;layout=button_count&amp;show_faces=true&amp;width=250&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:21px;" allowtransparency="true"></iframe>
                 <ul id="secondaryNav"> 
                     <li><a href="/affiliate">Affiliates</a></li>
