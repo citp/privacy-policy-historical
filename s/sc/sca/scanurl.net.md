@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scanurl.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607033536id_/http%3A//scanurl.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanurl.net privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205141117id_/http%3A//scanurl.net/privacy.html) for the most accurate reproduction.*
 
 # scanurl.net | Privacy Policy
 
