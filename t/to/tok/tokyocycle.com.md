@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokyocycle.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607184644id_/http%3A//www.tokyocycle.com/bbs/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyocycle.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205235355id_/http%3A//www.tokyocycle.com/bbs/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Tokyo Cycling Club
 
@@ -19,4 +19,4 @@ For your security, TCC only officially supports the latest version of all web br
 Published:
     Jun 14, 2013
 Page Views:
-    2,587
+    3,606
