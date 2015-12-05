@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesettlersonline.net privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407151858id_/http%3A//www.thesettlersonline.net/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesettlersonline.net privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205020107id_/http%3A//www.thesettlersonline.net/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
