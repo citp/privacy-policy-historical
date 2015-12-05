@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soloseo.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519065437id_/https%3A//www.soloseo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soloseo.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205113919id_/http%3A//soloseo.com/privacy.html) for the most accurate reproduction.*
 
 # SoloSEO - DIY SEO Tools
 
