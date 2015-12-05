@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sociallinkmart.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607035224id_/http%3A//www.sociallinkmart.com/content.php%3Fid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sociallinkmart.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205141150id_/http%3A//www.sociallinkmart.com/content.php%3Fid%3D2) for the most accurate reproduction.*
 
 # SocialLinkMart | Privacy
 
@@ -68,11 +68,11 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.sociallinkmart.com/content.php?id=1](https://web.archive.org/web/20150607035224id_/http%3A//content.php?id=1)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.sociallinkmart.com/content.php?id=1](https://web.archive.org/web/20151205141150id_/http%3A//content.php?id=1)
 
 **Your Consent**
 
-By using our site, you consent to our [privacy policy](https://web.archive.org/web/20150607035224id_/http%3A//content.php?id=2).
+By using our site, you consent to our [privacy policy](https://web.archive.org/web/20151205141150id_/http%3A//content.php?id=2).
 
 **Changes to our Privacy Policy**
 
@@ -98,14 +98,14 @@ This policy is powered by Free Privacy Policy and Rhino Support.
 
 If your question is not answered in the FAQ, please contact us.
 
-### [Contact SLM](https://web.archive.org/web/20150607035224id_/http%3A//www.sociallinkmart.com/osticket/)
+### [Contact SLM](https://web.archive.org/web/20151205141150id_/http%3A//www.sociallinkmart.com/osticket/)
 
  
 
 ## How SLM Works?
 
 You know how it works. Now find out how it really works.   
-[Learn more...](https://web.archive.org/web/20150607035224id_/http%3A//www.sociallinkmart.com/bsl_work.php)
+[Learn more...](https://web.archive.org/web/20151205141150id_/http%3A//www.sociallinkmart.com/bsl_work.php)
 
  
 
@@ -114,7 +114,7 @@ Social Links
 
 ### Advertiser - Social Link Buyers
 
-Social Link Mart only sells advertisers high quality Facebook Shares, Facebook Likes, Twitter Tweets, & Google+ shares from real social media users . We screen... [More](https://web.archive.org/web/20150607035224id_/http%3A//www.sociallinkmart.com/buy_sociallinks.php)
+Social Link Mart only sells advertisers high quality Facebook Shares, Facebook Likes, Twitter Tweets, & Google+ shares from real social media users . We screen... [More](https://web.archive.org/web/20151205141150id_/http%3A//www.sociallinkmart.com/buy_sociallinks.php)
 
    
 
@@ -123,4 +123,4 @@ Social Links
 
 ### Providers - Social Link Sellers
 
-Make money sharing great content with your social media followers! Simply do normal Facebook Shares, Facebook Likes, Twitter tweets, or Google+ ... [More](https://web.archive.org/web/20150607035224id_/http%3A//www.sociallinkmart.com/sell_sociallinks.php)
+Make money sharing great content with your social media followers! Simply do normal Facebook Shares, Facebook Likes, Twitter tweets, or Google+ ... [More](https://web.archive.org/web/20151205141150id_/http%3A//www.sociallinkmart.com/sell_sociallinks.php)
