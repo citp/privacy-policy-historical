@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the transum.org privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607074435id_/http%3A//www.transum.org/Privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the transum.org privacy policy that was archived on 2015-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151205022358id_/http%3A//www.transum.org/Privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
@@ -85,7 +85,7 @@ p {
 			option of choosing a Transum username is also available.</p>
 
 			<h2>COPPA</h2>
-			<p>The US Congress enacted the Children's Online Privacy Protection Act (COPPA) in 1998 and Transum complies by not collecting personal information from children using this site. In particular one feature of the Transum website is allowing users to claim virttual trophies for activities they complete. In order to record which trophies a person has been awarded we ask for a username (but no other information) which could be a made up unique name or an email address. For children under 13 this qualifies as an exception to obtaining prior parental consent as described in the frequently asked questions at http://business.ftc.gov/documents/Complying-with-COPPA-Frequently-Asked-Questions which states that websites may collect a child's email address to be used to authenticate the child if the website does not collect any personal information from the child other than the child's email address and the child cannot disclose any personal information on the website and the email address is altered and not used to contact the child.</p>
+			<p>The US Congress enacted the Children's Online Privacy Protection Act (COPPA) in 1998 and Transum complies by not collecting personal information from children using this site. In particular one feature of the Transum website is allowing users to claim virtual trophies for activities they complete. In order to record which trophies a person has been awarded we ask for a username (but no other information) which could be a made up unique name or an email address. For children under 13 this qualifies as an exception to obtaining prior parental consent as described in the frequently asked questions at http://business.ftc.gov/documents/Complying-with-COPPA-Frequently-Asked-Questions which states that websites may collect a child's email address to be used to authenticate the child if the website does not collect any personal information from the child other than the child's email address and the child cannot disclose any personal information on the website and the email address is altered and not used to contact the child.</p>
 	</div>
 <style type="text/css">
 div#FooterNew2012 {
@@ -125,6 +125,19 @@ div.FooterNew2012_inc_UL li{
 div.FooterNew2012_inc_UL input[type=text], div.FooterNew2012_inc_UL input[type=submit] {
 	font-size:12px;
 }
+div#FooterSearch {
+	position:absolute;
+	border:0px red solid;
+	text-align:center;
+	width:200px;
+	left:510px; 
+	top:180px;
+	height:20px; 
+}
+#FooterSearch input{
+	font-size:10px;
+}
+
 </style>
 
 
@@ -162,7 +175,12 @@ div.FooterNew2012_inc_UL input[type=text], div.FooterNew2012_inc_UL input[type=s
 	
 	<li><a title="Let the Random Student Generator pick a name at random from your class list" href="/Software/RandomStudents/">Random Names</a></li>
 	<li><a title="Some of the videos available on YouTube that may be of use in Mathematics lessons" href="/Software/SW/YouTube/">Maths on YouTube</a></li>
+	
+	<!--
 	<li><a title="Getting the best out of portable technology for pupils in Mathematics lessons" href="/Software/OnetoOne/">Laptops in Lessons</a></li>
+	-->
+	<li><a title="Some great ideas for displaying Mathematics in your classroom" href="/Maths/Display/">Maths On Display</a></li>
+	
 	<li><a title="Our online student information management system and lesson planner" href="/Software/FormativeFeedback/">Class Admin</a></li>
 	<li><a id="NC" title="The English National Curriculum for Mathematics and Thinking Skills" href="/Maths/National_Curriculum/">National Curriculum</a></li>
 </ul>
@@ -173,7 +191,7 @@ div.FooterNew2012_inc_UL input[type=text], div.FooterNew2012_inc_UL input[type=s
 
 	<li><a title="Sign in or subscribe to Transum" href="/Software/FormativeFeedback/LoginOnly.asp">Sign In</a></li>
 
-	<li><a title="Buy a licence to use Transum at your school" href="/Software/FormativeFeedback/ApplicationForm.asp">Create An Account</a></li>
+	<li><a title="Buy a licence to use Transum at your school" href="/Software/Transum_Buy.asp">Create An Account</a></li>
 	<li><a title="Our front door" href="/">Home</a></li>
 	<li><a title="What is Transum?" href="/software/Transum_About.asp">About Transum</a></li>
 	<li><a title="Find activities to go with the topic you are studying" href="/software/Transum_Topics.asp">Topics</a></li>
@@ -184,25 +202,16 @@ div.FooterNew2012_inc_UL input[type=text], div.FooterNew2012_inc_UL input[type=s
 
 
 		</div>
-		<div class="FooterNew2012_inc_UL" style="left:470px; top:200px; width:310px; border:0px aqua solid;">
-
-
-	<!--GOOGLE SEARCH BOX (Site wide search Feb 2013)-->
-	<form action="http://www.transum.org/" id="cse-search-box">
-  		<div>
-    		<input type="hidden" name="cx" value="partner-pub-3448116359683998:4996462245">
-    		<input type="hidden" name="cof" value="FORID:10">
-    		<input type="hidden" name="ie" value="UTF-8">
-    		<input type="text" name="q" size="20">
-    		<input type="submit" name="sa" value="Search">
-  		</div>
-	</form>
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.google.co.uk/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
-	<!--END GOOGLE SEARCH BOX-->
-
 	
-		</div>
 
+	<div id="FooterSearch">
+			<form method="get" action="/Search.asp">
+				<input type="text" name="q" placeholder="Search Transum" style="width:120px;">
+				<input type="submit" value="Search">
+			</form>
+	</div>
+	
+	
 		<p style="text-align:center;"><a title="Transum" style="font-family:'Courier New', Courier, monospace; color:silver; font-size:18px; font-weight:bold; text-decoration:none; position:absolute; bottom:25px; left:280px;" href="http://www.transum.org/Software">©1997-2015 WWW.TRANSUM.ORG</a></p>
 	</div>
 </div>
@@ -210,7 +219,7 @@ div.FooterNew2012_inc_UL input[type=text], div.FooterNew2012_inc_UL input[type=s
 
 
 <!-- GOOGLE ANALYTICS START -->
-<script type="text/javascript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-1403440-1']);
@@ -224,9 +233,6 @@ div.FooterNew2012_inc_UL input[type=text], div.FooterNew2012_inc_UL input[type=s
 
 </script>
 <!-- GOOGLE ANALYTICS END -->
-
-
-
 
 
 
