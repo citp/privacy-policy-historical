@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fjbex.com privacy policy that was archived on 2015-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628233657id_/http%3A//webhost4life.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fjbex.com privacy policy that was archived on 2015-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151205023622id_/http%3A//webhost4life.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="no-js"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -12,7 +12,50 @@
 <link rel="shortcut icon" href="http://images.webhost4life.com/icons/favicon_whl.ico">
 <link rel="apple-touch-icon" href="http://images.webhost4life.com/icons/apple-touch-icons/apple-touch-icon-webhost4life.png">
 <link rel="stylesheet" type="text/css" href="/xslt/elements/generic_csscomponent.css">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PPRPX8"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/generalAppC/scriptcat/87ae207201c55b84c5270851159260e1.1"></script>
+
+
+<script id="fortifi-track" src="//track.webhost4life.com/fp/init/fortifi.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PPRPX8"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+window.V = window.V || {};
+V.cart = V.cart || {
+	items: []
+};
+
+V.grammar = V.grammar || {
+	chatserver: "chatserver.webhost4life.com"
+}
+// chat script
+V.chat = {
+  initialize: function () {
+    var _this = this;
+    if (V.grammar.chatserver) {
+      // bind chat links to chat function
+      var chatLinks = document.querySelectorAll('[href="#chat"]');
+			for (var i = 0; i < chatLinks.length; i++) {
+				chatLinks[i].addEventListener('click', function (e) {
+					return _this.popUp('https://' + V.grammar.chatserver, 500, 375);
+				});
+			}
+    }
+  },
+  popUp: function (url, width, height) {
+    var id = new Date();
+
+    width = width || 900;
+    height = height || 800;
+
+    window.open(
+      url,
+      id.toString(),
+      "toolbar=no,scrollbars=yes,location=no,statusbar=no,menubar=no,resizable=no,width=" + width + ",height=" + height
+    );
+  }
+}; // end V.chat
+
+window.addEventListener('load', function() { V.chat.initialize() }, false);
+</script>
+
+
+<script src="/generalAppC/scriptcat/87ae207201c55b84c5270851159260e1.1"></script>
 
 
 
@@ -50,7 +93,11 @@
 
 
 
-<script>dataLayer = [];</script>
+
+<script>dataLayer = [{"userType":"anonymous","pageType":"","userID":"","pageClass":"","step":"","flow":""}];</script>
+
+
+
 
 
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
@@ -60,6 +107,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-PPRPX8');</script>
 
+
+
+<script type="text/javascript">
+  (function(d,s,i,u) {
+    if (d.getElementById(i)){return;}
+    var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+    n.id=i;n.src='//'+u+'/fp/init/fortifi.js';
+    e.parentNode.insertBefore(n, e);
+  })(document,"script","fortifi-track","track.webhost4life.com");
+</script>
+
+
+
+
+
+
 <div id="doc2" class="yui-t2">
 <div id="control-panel-nav"><div id="cp">
 <ul class="control-links">
@@ -67,7 +130,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li><a class="cpbar-webmail icon" href="/mail/">WebMail</a></li>
 <li><a class="cpbar-file-manager icon" href="/controlpanel/FileManager/">FileManager</a></li>
 </ul>
-<div class="login-status login-form"><form method="post" enctype="application/x-www-form-urlencoded" action="https://secure.webhost4life.com/secureLogin"><input type="hidden" name="__token_timestamp__" value="1435534618"><input type="hidden" name="__token_val__" value="70d0649eba5df032940c5cf9304b7613">
+<div class="login-status login-form"><form method="post" enctype="application/x-www-form-urlencoded" action="https://secure.webhost4life.com/secureLogin"><input type="hidden" name="__token_timestamp__" value="1449282982"><input type="hidden" name="__token_val__" value="57734f20aa5bbb2a0a82307e4414c12b">
 <input type="hidden" name="destination" value="/controlpanel/"><ul>
 <li>
 <label>Username</label><input maxlength="50" size="15" name="credential_0" class="formfield">
@@ -82,7 +145,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="hd">
 <h1><a href="/">WebHost4Life</a></h1>
 <h2>Powerful Web Hosting and Domain Names for Home and Business</h2>
-<p class="support-chat"><a href="https://server.iad.liveperson.net/hc/66651396/?cmd=file&amp;file=visitorWantsToChat&amp;site=66651396&amp;byhref=1&amp;ref=chatbubble" target="chat66651396" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/66651396/?cmd=file&amp;file=visitorWantsToChat&amp;site=66651396&amp;referrer='+escape(document.location),'chat66651396','width=472,height=320');return false;">Click here to chat with a live specialist.</a></p>
+<p class="support-chat"><a class="gtm_chat" href="#chat">Click here to chat with a live specialist.</a></p>
 <p class="support-phone"><a href="/support/contact.bml">For 24x7 Support, call 888-306-3780.</a></p>
 <p class="green-tag"><a href="/green/">Award Winning Web Hosting</a></p>
 <ul id="nav">
@@ -97,7 +160,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <div id="bd">
 <div id="navcomponent" class="yui-b">
-
 <div class="navblock">
 <h3><a href="/legal/index.bml">Terms of Service</a></h3>
 <ul>
