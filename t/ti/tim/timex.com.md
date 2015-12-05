@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timex.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619170725id_/http%3A//www.timex.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timex.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205112026id_/http%3A//www.timex.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Casual, Dress, and Sport Watches for Women & Men
 
