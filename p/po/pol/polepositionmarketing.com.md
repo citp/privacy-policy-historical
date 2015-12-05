@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polepositionmarketing.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022306id_/http%3A//www.polepositionmarketing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polepositionmarketing.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205075001id_/http%3A//www.polepositionmarketing.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Pole Position Marketing
 
@@ -67,5 +67,3 @@ You may contact us if you have questions about our privacy policy.
 Resolving Privacy Policy Disputes
 
 If you think we have not followed our privacy policy in some way, it can be resolved by [contacting us](http://www.polepositionmarketing.com/contact-us/ "Contact Us").
-
-....
