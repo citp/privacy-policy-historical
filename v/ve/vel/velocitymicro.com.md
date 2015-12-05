@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the velocitymicro.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407083910id_/http%3A//www.velocitymicro.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velocitymicro.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205200143id_/http%3A//www.velocitymicro.com/Privacy.php) for the most accurate reproduction.*
 
 # Velocity Micro | Privacy Policy
 
