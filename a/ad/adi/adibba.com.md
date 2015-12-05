@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adibba.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429103924id_/http%3A//www.adibba.com/adibba%2520privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adibba.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205083018id_/http%3A//www.adibba.com/adibba%2520privacy%2520policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
