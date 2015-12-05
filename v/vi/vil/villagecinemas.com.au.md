@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the villagecinemas.com.au privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617021310id_/http%3A//villagecinemas.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villagecinemas.com.au privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205030523id_/http%3A//villagecinemas.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Village Cinemas
 
@@ -107,15 +107,15 @@ Village may disclose Personal Information to countries outside Australia. We wil
 
 If obtaining the Customer's consent is not practical, then the information may still be transferred if, as part of the agreement for the transfer of that information, the other organisation agrees to comply with Village's privacy obligations to that Customer.
 
-**3.3 Identification**
+**3.2 Identification**
 
 Village does not use any prohibited identifiers (such as a tax file number) to identify its Customers.
 
-**3.4 Storage and Security**
+**3.3 Storage and Security**
 
 Personal Information may be stored in either hard copy form or on computer or both. Hard copy Personal Information is wherever practical, kept under locked security. Personal Information stored on computer is wherever practical, password protected. Where possible and practical, Village will endeavour to comply with recognised Australian and international standards relating to information security. Village regularly deletes and de-identifies Personal Information if the information is no longer needed by Village.
 
-**3.5 Updating Personal Information**
+**3.4 Updating Personal Information**
 
 Village regularly monitors the quality and accuracy of Personal Information that it maintains and where practical, updates that information on a regular basis. Customers can update their Personal Information at any time by contacting Village's Privacy Officer.
 
