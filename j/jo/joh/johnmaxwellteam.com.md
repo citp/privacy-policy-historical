@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the johnmaxwellteam.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229200451id_/http%3A//johnmaxwellteam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnmaxwellteam.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205111722id_/http%3A//johnmaxwellteam.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | John Maxwell Team | A Minute With Maxwell | Free Video Opt In
+# Privacy Policy | John Maxwell Team
 
 **What information do we collect?**
 
@@ -16,21 +16,21 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-\- To personalize your experience  
+– To personalize your experience  
 (your information helps us to better respond to your individual needs)
 
-\- To improve our website  
+– To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-\- To improve customer service  
+– To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
-\- To process transactions  
+– To process transactions  
 
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-\- To send periodic emails  
+– To send periodic emails  
 
 
 > The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
