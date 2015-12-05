@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tpexpress.co.uk privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607040058id_/http%3A//www.tpexpress.co.uk/footer/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tpexpress.co.uk privacy policy that was archived on 2015-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151205141050id_/http%3A//www.tpexpress.co.uk/footer/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 		<meta name="apple-itunes-app" content="app-id=460359233">
@@ -12,15 +12,20 @@
     <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
     
 
-<meta property="fb:app_id" content="105312796313942">
+<meta property="fb:app_id" content="1642174659388450">
 <meta property="og:site_name" content="First TransPennine Express Trains">
 <meta property="og:title" content="First TransPennine Express Trains – Privacy Policy ">
 	<meta property="og:image" content="http://www.tpexpress.co.uk/media/1524/wideheader_4_new.jpg">
 <meta property="og:description" content="First TransPennine Express looks after your privacy; we don’t share your information with third parties, so you can book your train tickets online though our site with peace of mind.">
+<meta property="og:url" content="http://www.tpexpress.co.uk/footer/privacy-policy/">
     
-    <link href="/cassette.axd/stylesheet/2833b995283acbd78d8b328bfb587d4ae45e4d09/desktop-core" type="text/css" rel="stylesheet">
-<link href="/cassette.axd/stylesheet/9c75f538266b1c46c4c6f5812e2a612557498b49/desktop-partials" type="text/css" rel="stylesheet">
+    
+<link href="/cassette.axd/stylesheet/3c770939c3cd59129853274793fd91ddaa795d36/desktop-core" type="text/css" rel="stylesheet">
+<link href="/cassette.axd/stylesheet/ca256a3d4af8b4c05de4a8c93737b8ff7f0cbfbe/mobile-partials" type="text/css" rel="stylesheet">
+<link href="/cassette.axd/stylesheet/fb93cf5985b8c633ecb39f741972606fec0b3895/tablet-partials" type="text/css" rel="stylesheet">
+<link href="/cassette.axd/stylesheet/0c39fad957bc59b8d66831c15ec528edf6ddc01c/desktop-partials" type="text/css" rel="stylesheet">
 <link href="/cassette.axd/stylesheet/4c4d65d6f57ebf21606afa75c793287e632cca0b/fonts" type="text/css" rel="stylesheet">
+
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 
 	var _gaq = _gaq || [];
@@ -38,7 +43,7 @@
     /* Send Google Analytic Event for Any External Links */
 
 	function _gaLt(event) {
-	    var el = event.srcElement || event.target;
+			var el = event.srcElement || event.target;
 	    /* Loop up the tree through parent elements if clicked element is not a link (eg: an image in a link) */
 	    while (el && (typeof el.tagName == 'undefined' || el.tagName.toLowerCase() != 'a' || !el.href))
 	        el = el.parentNode;
@@ -48,7 +53,15 @@
 	            _gaq.push(["_trackEvent", "Outgoing Links", el.href, document.location.pathname + document.location.search]);
 	            /* if target not set then delay opening of window by 0.5s to allow tracking */
 	            if (!el.target || el.target.match(/^(self|parent|top)$/i)) {
-	              setTimeout(Redirect, 500, el, event.defaultPrevented);
+
+	            	if (checkForIe('ie9') || checkForIe('ie8') || checkForIe('ie7')) {
+	            		setTimeout(function () {
+	            			Redirect(el, event.defaultPrevented);
+	            		}, 500);
+
+	            	} else {
+	            		setTimeout(Redirect, 500, el, event.defaultPrevented);
+	            	}
 	              /* Prevent standard click */
 	              event.preventDefault ? event.preventDefault() : event.returnValue = !1;
 	            }
@@ -56,8 +69,12 @@
 	    }
 	}
 
+	function checkForIe(className) {
+		return $('html').hasClass(className);
+	}
+
 	function Redirect(el, isPrevented) {
-    if (!isPrevented) document.location.href = el.href;
+    if (!isPrevented) window.location.href = el.href;
   }
 
 	/* Attach the event to all clicks in the document after page has loaded */
@@ -67,44 +84,27 @@
 
 
 </script>
-    <script src="/cassette.axd/script/d7f4a4aa9a13e1129366c6999b9300f8ce964070/_client/scripts/libs-priority" type="text/javascript"></script>
+    
+<script src="/cassette.axd/script/5a847585d96863425b2fffc17754c025be8f58a3/_client/scripts/libs-priority" type="text/javascript"></script>
+
 
     <!--[if (gte IE 6)&(lte IE 9)]>
-		<script src="/cassette.axd/script/991f722883f15c9f81645a48170aa6b63f83d537/_client/scripts/ie/lte_ie9" type="text/javascript"></script>
+		
+<script src="/cassette.axd/script/991f722883f15c9f81645a48170aa6b63f83d537/_client/scripts/ie/lte_ie9" type="text/javascript"></script>
+
 	<![endif]-->
 
     <!--[if (gte IE 6)&(lte IE 8)]>
-		<script src="/cassette.axd/script/bbef837c43c7dcd5d4f4d348b43b38765c61fef3/_client/scripts/ie/lte_ie8" type="text/javascript"></script>
+		
+<script src="/cassette.axd/script/bbef837c43c7dcd5d4f4d348b43b38765c61fef3/_client/scripts/ie/lte_ie8" type="text/javascript"></script>
+
 	<![endif]-->
 
     <!--[if (gte IE 6)&(lte IE 7)]>
-		<script src="/cassette.axd/script/adccfcf83e6ffb151f7853cd70b76c50028cf512/_client/scripts/ie/lte_ie7" type="text/javascript"></script>
+		
+<script src="/cassette.axd/script/adccfcf83e6ffb151f7853cd70b76c50028cf512/_client/scripts/ie/lte_ie7" type="text/javascript"></script>
+
 	<![endif]-->
-
-<script src="//dev.visualwebsiteoptimizer.com/j.php?a=36071&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150607040058id_%2Fhttp%3A%2F%2Fwww.tpexpress.co.uk%2Ffooter%2Fprivacy-policy%2F&amp;r=0.8106905388142913" type="text/javascript"></script><script src="/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head><body class="contentpage " style=""><div class="visuallyhidden">
-    <!-- Google Code for Remarketing Tag -->
-    <!--------------------------------------------------
-		Remarketing tags may not be associated with personally
-		identifiable information or placed on pages related to 
-		sensitive categories. See more information and instructions 
-		on how to setup the tag on: http://google.com/ads/remarketingsetup
-	--------------------------------------------------->
-    <script type="text/javascript">
-        /* <![CDATA[ */
-        var google_conversion_id = 1038352939;
-        var google_custom_params = window.google_tag_params;
-        var google_remarketing_only = true;
-        /* ]]> */
-    </script>
-    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-    </script>
-    <noscript>
-        <div style="display: inline;">
-            <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1038352939/?value=0&amp;guid=ON&amp;script=0" />
-        </div>
-    </noscript>
-</div>
-
 
 
     
@@ -121,27 +121,39 @@
 		// DO NOT EDIT BELOW THIS LINE
 		f = false, d = document; return { use_existing_jquery: function () { return use_existing_jquery; }, library_tolerance: function () { return library_tolerance; }, finish: function () { if (!f) { f = true; var a = d.getElementById('_vis_opt_path_hides'); if (a) a.parentNode.removeChild(a); } }, finished: function () { return f; }, load: function (a) { var b = d.createElement('script'); b.src = a; b.type = 'text/javascript'; b.innerText; b.onerror = function () { _vwo_code.finish(); }; d.getElementsByTagName('head')[0].appendChild(b); }, init: function () { settings_timer = setTimeout('_vwo_code.finish()', settings_tolerance); this.load('//dev.visualwebsiteoptimizer.com/j.php?a=' + account_id + '&u=' + encodeURIComponent(d.URL) + '&r=' + Math.random()); var a = d.createElement('style'), b = 'body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}', h = d.getElementsByTagName('head')[0]; a.setAttribute('id', '_vis_opt_path_hides'); a.setAttribute('type', 'text/css'); if (a.styleSheet) a.styleSheet.cssText = b; else a.appendChild(d.createTextNode(b)); h.appendChild(a); return settings_timer; } };
 	}()); _vwo_settings_timer = _vwo_code.init();
-</script>
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=36071&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20151205141050id_%2Fhttp%3A%2F%2Fwww.tpexpress.co.uk%2Ffooter%2Fprivacy-policy%2F&amp;r=0.8230136756015973" type="text/javascript"></script>
 <!-- End Visual Website Optimizer Asynchronous Code -->
 <script>
 	Modernizr.load('https://connect.facebook.net/en_US/all.js', function () {
-		TPE.Facebook = new TPE.App.Facebook('105312796313942', 'www.tpexpress.co.uk');
+		TPE.Facebook = new TPE.App.Facebook('1642174659388450', 'www.tpexpress.co.uk');
 	});
 </script>
-	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+	<script async="" type="text/javascript" src="/foresee/foresee-trigger.js"></script>
 
 
+
+
+<script src="/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head>
+<body class="contentpage warning" style="">
 
     <!-- Preloader -->
     
 
-
+<section class="full-wrapper warning-wrapper black-bg">
+	<div class="content-wrapper-alt mod mod-warning-banner clearfix js-warning">
+		<article class="mod-warning-inner float-left">
+			<h2>Weather disruption this weekend</h2>
+			<p>Update 1125 Saturday 05 December 2015</p>
+			<p>For more info please <a href="/warnings/weather-disruption-dec-05-06/" title="Weather disruption this weekend">click here</a></p>
+		</article>
+	</div>
+</section>
 
 
     
 
 
-<header class="site-header" style="background-image:url(/media/100120446/spring-website-cover-graphic.jpg)">
+<header class="site-header" style="background-image:url(/media/100120846/tpewebsite-header-new.jpg)">
 
 	<div class="brand-bar clearfix">
 		<a href="/" class="brand-logo ir">First Transpennine Express</a>
@@ -164,16 +176,19 @@
 			<a href="/">Home</a>
 		</li>
 			<li class="">
-				<a href="/travel-information/">Travel Information</a>
+				<a href="/your-journey/">Your Journey</a>
 			</li>
 			<li class="">
-				<a href="/train-destinations/">Destinations</a>
+				<a href="/ticket-types/">Ticket Types</a>
 			</li>
 			<li class="">
-				<a href="/tickets-offers/">Tickets &amp; Offers</a>
+				<a href="/train-destinations/">Destinations &amp; Offers</a>
 			</li>
 			<li class="">
-				<a href="/assistance/">Assistance</a>
+				<a href="/about-us/">About Us</a>
+			</li>
+			<li class="">
+				<a href="/contact-us/">Contact Us</a>
 			</li>
 	</ul>
 </nav>
@@ -400,11 +415,11 @@
 <p>&nbsp;</p>
 <p>First TransPennine Express reserves the right to revise or supplement this Privacy Policy from time to time. You should bookmark and periodically review this page to ensure that you are familiar with the most current version of this Privacy Policy and so you are aware of what information we collect, how we use it and under what circumstances we disclose it. You can determine when this Privacy Policy was last revised by checking the "Last Updated" legend at the top of the Policy.</p>
 <p>Copyright © 2008 First/Keolis TransPennine Limited. All rights reserved.</p>
-	</section>
+    	</section>
 
 					</div>
 <div class="mod mod-breadcrumb">
-	<ul class="list-unstyled clearfix">
+	<ul class="list-unstyled clearfix site-location-list">
 					<li><a href="/">Home</a></li>
 					<li><a href="/footer/">Footer</a></li>
 				<li>Privacy Policy</li>
@@ -470,7 +485,7 @@
 						</div>
 
 						<label for="OutwardsDateTime" class="visuallyhidden">Outward date:</label>
-						<input class="js-from-date hidden-datepicker" id="OutwardsDateTime" name="OutwardsDateTime" type="text" value="07/06/2015">
+						<input class="js-from-date hidden-datepicker" id="OutwardsDateTime" name="OutwardsDateTime" type="text" value="05/12/2015">
 
 					</div>
 
@@ -485,7 +500,7 @@
 <option value="2">02</option>
 <option value="3">03</option>
 <option value="4">04</option>
-<option selected="selected" value="5">05</option>
+<option value="5">05</option>
 <option value="6">06</option>
 <option value="7">07</option>
 <option value="8">08</option>
@@ -494,7 +509,7 @@
 <option value="11">11</option>
 <option value="12">12</option>
 <option value="13">13</option>
-<option value="14">14</option>
+<option selected="selected" value="14">14</option>
 <option value="15">15</option>
 <option value="16">16</option>
 <option value="17">17</option>
@@ -509,8 +524,8 @@
 
 						<div class="frow frow-select time-select time-select-minute float-left">
 							<label for="OutwardsMinute" class="visuallyhidden">Outwards Minute</label>
-							<select id="OutwardsMinute" name="OutwardsMinute"><option selected="selected" value="00">00</option>
-<option value="15">15</option>
+							<select id="OutwardsMinute" name="OutwardsMinute"><option value="00">00</option>
+<option selected="selected" value="15">15</option>
 <option value="30">30</option>
 <option value="45">45</option>
 </select>
@@ -541,7 +556,7 @@
 						</div>
 
 						<label for="ReturnDateTime" class="visuallyhidden">Return date:</label>
-						<input class="js-to-date hidden-datepicker" id="ReturnDateTime" name="ReturnDateTime" type="text" value="07/06/2015">
+						<input class="js-to-date hidden-datepicker" id="ReturnDateTime" name="ReturnDateTime" type="text" value="05/12/2015">
 
 					</div>
 
@@ -556,7 +571,7 @@
 <option value="2">02</option>
 <option value="3">03</option>
 <option value="4">04</option>
-<option selected="selected" value="5">05</option>
+<option value="5">05</option>
 <option value="6">06</option>
 <option value="7">07</option>
 <option value="8">08</option>
@@ -565,7 +580,7 @@
 <option value="11">11</option>
 <option value="12">12</option>
 <option value="13">13</option>
-<option value="14">14</option>
+<option selected="selected" value="14">14</option>
 <option value="15">15</option>
 <option value="16">16</option>
 <option value="17">17</option>
@@ -580,8 +595,8 @@
 
 						<div class="frow frow-select time-select time-select-minute float-left">
 							<label for="ReturnMinute" class="visuallyhidden">Return Minute</label>
-							<select id="ReturnMinute" name="ReturnMinute"><option selected="selected" value="00">00</option>
-<option value="15">15</option>
+							<select id="ReturnMinute" name="ReturnMinute"><option value="00">00</option>
+<option selected="selected" value="15">15</option>
 <option value="30">30</option>
 <option value="45">45</option>
 </select>
@@ -688,55 +703,7 @@
 
 			
 				<div class="sidebar-components">
-
-
-<a href="/tickets-offers/offers/collect-nectar-points/" class="wrapper-link">
-	
-		<div class="mod-nectar-promo">
-			<p><span class="largest-title">Collect</span> <span class="large-title">2 points per £1</span>everytime you buy train tickets online^</p>
-			<img src="/_client/images/global/nectar-desktop-inner.png" width="77" height="66" alt="Collect Nectar points!">
-			<p><small>^See terms &amp; conditions</small></p>
-		</div>
-
-</a>
-<div>
-	<ul class="list-unstyled js-personalised-fares">
-		<li>
-<article class=" js-fare-strip">
-	<div class="js-fare">
-		<a href="/ticketbooking/GenerateTicketBookingFromFare?fareId=36" title="Buy Tickets" data-url="/ticketbooking/GenerateTicketBookingFromFare?fareId=36" class="wrapper-link js-fare-buy">
-			<div class="fare-item fare-item-front">
-				<p class="fare-header js-equal-height-anchor"><span class="fare-header-1"><span class="js-fare-from">Manchester Stations</span> to</span><span class="fare-header-2"><span class="js-fare-to">York</span> from:</span></p>
-				<p class="fare-price">£<span class="fare-pounds js-fare-pounds">13</span>.<span class="js-fare-pence">00</span></p>
-				<p class="fare-link"><span class="link-std link-buy-now">Buy Tickets</span></p>
-					<p class="supporting-footer-item text-center js-fare-ticket-type">Single Advance*</p>
-			</div>
-		</a>
-	</div>
-</article></li>
-		<li>
-<article class=" js-fare-strip">
-	<div class="js-fare">
-		<a href="/ticketbooking/GenerateTicketBookingFromFare?fareId=1254" title="Buy Tickets" data-url="/ticketbooking/GenerateTicketBookingFromFare?fareId=1254" class="wrapper-link js-fare-buy">
-			<div class="fare-item fare-item-front">
-				<p class="fare-header js-equal-height-anchor"><span class="fare-header-1"><span class="js-fare-from">Edinburgh</span> to</span><span class="fare-header-2"><span class="js-fare-to">Manchester Airport</span> from:</span></p>
-				<p class="fare-price">£<span class="fare-pounds js-fare-pounds">19</span>.<span class="js-fare-pence">00</span></p>
-				<p class="fare-link"><span class="link-std link-buy-now">Buy Tickets</span></p>
-					<p class="supporting-footer-item text-center js-fare-ticket-type">Single Advance*</p>
-			</div>
-		</a>
-	</div>
-</article></li>
-	</ul>
-</div>
-
-<div class="pattern-bg pattern-bg-green">
-	<div class="mod-ways-to mod-ways-to-inner js-quote-container" data-quotes="[&quot;to find cheap fares...&quot;,&quot;buy off peak tickets&quot;, &quot;be flexible with dates&quot;]">	
-		<div class="bubble">
-			<p class="js-quote">to find cheap fares...</p>
-		</div>
-	</div>
-</div>					
+					
 				</div>
 			</div>
 	</div>
@@ -754,17 +721,17 @@
 						<li><a href="/footer/terms-and-conditions/">Terms and Conditions</a></li>
 						<li><a href="/footer/privacy-policy/">Privacy Policy</a></li>
 						<li><a href="/footer/accessibility/">Accessibility</a></li>
-				<li><a href="https://tickets.tpexpress.co.uk/tpe/en/account/OrderHistory">My Account</a></li>
+				<li><a href="http://tickets.tpexpress.co.uk/tpe/en/account/OrderHistory" target="_blank">My Account</a></li>
 			</ul>
 
 		<ul class="list-unstyled social-links pull-right">
 			<li class="font-italic">Chat to us:</li>
 			<li><a href="https://www.facebook.com/FirstTranspennineExpress" rel="external" class="ss-icon">facebook</a></li>
-			<li><a href="https://twitter.com/TPExpressTrains" rel="external" class="ss-icon">twitter</a></li>
-			<li><a href="http://www.youtube.com/user/TPExpressTrains" rel="external" class="ss-icon">youtube</a></li>
-			<li><a href="https://plus.google.com/+transpennineexpress/" rel="external" class="ss-icon">googleplus</a></li>
-			<li><a href="/assistance/contact-us/" rel="external" class="ss-icon">email</a></li>
-			<li><a href="http://www.pinterest.com/tpexpresstrains/" rel="external" class="ss-icon">pinterest</a></li>
+			<li><a href="https://twitter.com/TPExpressTrains" rel="js-external" class="ss-icon">twitter</a></li>
+			<li><a href="http://www.youtube.com/user/TPExpressTrains" rel="js-external" class="ss-icon">youtube</a></li>
+			<li><a href="https://plus.google.com/+transpennineexpress/" rel="js-external" class="ss-icon">googleplus</a></li>
+			<li><a href="/assistance/contact-us/" rel="js-external" class="ss-icon">email</a></li>
+			<li><a href="http://www.pinterest.com/tpexpresstrains/" rel="js-external" class="ss-icon">pinterest</a></li>
 		</ul>
 	</div>
 </div>
@@ -775,9 +742,9 @@
 			<div class="supporting-asset asset-footer-man clearfix">
 				<h3>latest Tweets From @tpexpresstrains</h3>
 				<ul class="list-unstyled clearfix">
-						<li class="col footer-tweet">INFO: Travelling <a href="https://twitter.com/search?q=%23Lockerbie&amp;src=hash">#Lockerbie</a> - <a href="https://twitter.com/search?q=%23Glasgow&amp;src=hash">#Glasgow</a> today? Buses replace trains on this route. See <a href="http://t.co/GGmzlP1kWe">bit.ly/JnyChck</a>  for more information</li>
-						<li class="col footer-tweet">INFO:Travelling <a href="https://twitter.com/search?q=%23York&amp;src=hash">#York</a> - <a href="https://twitter.com/search?q=%23ManchesterAirport&amp;src=hash">#ManchesterAirport</a> on Sunday morning? Please check here for alterations to morning services http://t.co/V80eE2HRRj</li>
-						<li class="col footer-tweet">INFO:Travelling <a href="https://twitter.com/search?q=%23Deansgate&amp;src=hash">#Deansgate</a> - <a href="https://twitter.com/search?q=%23Preston&amp;src=hash">#Preston</a> via <a href="https://twitter.com/search?q=%23Bolton&amp;src=hash">#Bolton</a> today?Buses replace trains on this route.See <a href="http://t.co/GGmzlP1kWe">bit.ly/JnyChck</a> for details <a href="https://twitter.com/search?q=%23Farnworth&amp;src=hash">#Farnworth</a></li>
+						<li class="col footer-tweet">INFO:Due to flood, trains through Oxenholme Lake District &amp; Windermere now running ok <a href="https://t.co/te50ac4FB0" target="_blank">bit.ly/1RvkBYc</a></li>
+						<li class="col footer-tweet">INFO:Due to severe weather, trains through Preston &amp; Blackpool N via Preston via Carlisle subject to delay &amp; canc <a href="https://t.co/ychmMjR2WL" target="_blank">bit.ly/1YPsSbQ</a></li>
+						<li class="col footer-tweet">INFO:Due to severe weather, trains through Carlisle &amp; Edinburgh via Preston via Carlisle subject to delay &amp; canc <a href="https://t.co/jZjgpECslX" target="_blank">bit.ly/1YPsSs4</a></li>
 				</ul>
 			</div>
 		</div>
@@ -789,17 +756,17 @@
 	<div class="content-wrapper-alt clearfix">
 			<ul class="list-unstyled site-links col pull-left">
 				<li><h3>Helpful links</h3></li>
-					 <li><a href="/travel-information/">Travel Information</a></li>
-					 <li><a href="/travel-information/changes-to-train-times/">Changes To Train Times</a></li>
-					 <li><a href="/travel-information/train-timetables/">Train Timetables</a></li>
-					 <li><a href="/assistance/contact-us/">Contact Us</a></li>
+					 <li><a href="/your-journey/">Your Journey</a></li>
+					 <li><a href="/your-journey/changes-to-train-times/">Changes To Train Times</a></li>
+					 <li><a href="/your-journey/train-timetables/">Train Timetables</a></li>
+					 <li><a href="/contact-us/">Contact Us</a></li>
 			</ul>
 			<ul class="list-unstyled site-links col pull-left">
 				<li><h3>Ticket types</h3></li>
-					 <li><a href="/tickets-offers/tickets/self-print/">Self Print</a></li>
-					 <li><a href="/tickets-offers/tickets/season-tickets/">Season Tickets</a></li>
-					 <li><a href="/tickets-offers/tickets/railcards/">Railcards</a></li>
-					 <li><a href="/tickets-offers/tickets/tickets-explained/">Tickets Explained</a></li>
+					 <li><a href="/ticket-types/self-print/">Self Print</a></li>
+					 <li><a href="/ticket-types/season-tickets/">Season Tickets</a></li>
+					 <li><a href="/ticket-types/railcards/">Railcards</a></li>
+					 <li><a href="/ticket-types/tickets-explained/">Tickets Explained</a></li>
 			</ul>
 			<ul class="list-unstyled site-links col pull-left">
 				<li><h3>Top destinations</h3></li>
@@ -812,10 +779,10 @@
 				<li><h3>About Us</h3></li>
 					 <li><a href="/about-us/">About Us</a></li>
 					 <li><a href="/about-us/careers/">Careers</a></li>
-					 <li><a href="/about-us/news/">News</a></li>
-					 <li><a href="/about-us/achievements/">Achievements</a></li>
+					 <li><a href="/about-us/news-blog/news/">News</a></li>
+					 <li><a href="/about-us/who-we-are/achievements/">Achievements</a></li>
 					 <li><a href="/communications/">Communications</a></li>
-					 <li><a href="/about-us/performance-transparency/">Performance Transparency</a></li>
+					 <li><a href="/about-us/customer/performance-transparency/">Performance Transparency</a></li>
 			</ul>
 			<div class="pull-left col email-signup">
 				
@@ -859,18 +826,17 @@
 
     <script>
     	TPE = {};
-    	
 
     	TPE.Device = 'Desktop';
 
-    	
-
-    	console.log("Screen Width: " + screen.width);
-    	console.log(TPE.Device);
+    	//console.log("Screen Width: " + screen.width);
+    	//console.log(TPE.Device);
     </script>
 
-    <script src="/cassette.axd/script/8f8cdb4d5033e8e7e46bb147033019bbdab54dca/_client/scripts/components" type="text/javascript"></script>
-<script src="/cassette.axd/script/7236fcb9e14e9edce563534ee23f8e91a0ec3c88/_client/scripts" type="text/javascript"></script>
+    
+<script src="/cassette.axd/script/5154f3599c41c7e0adb3cfa6491a893140086eb7/_client/scripts/components" type="text/javascript"></script>
+<script src="/cassette.axd/script/2f554dd9fd4a7c2863796430dba2b4ffe14dd68f/_client/scripts" type="text/javascript"></script>
+
 
     
 
@@ -884,6 +850,31 @@
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	})();
 </script>
+<div class="visuallyhidden">
+    <!-- Google Code for Remarketing Tag -->
+    <!--------------------------------------------------
+		Remarketing tags may not be associated with personally
+		identifiable information or placed on pages related to 
+		sensitive categories. See more information and instructions 
+		on how to setup the tag on: http://google.com/ads/remarketingsetup
+	--------------------------------------------------->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 1038352939;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display: inline;">
+            <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1038352939/?value=0&amp;guid=ON&amp;script=0" />
+        </div>
+    </noscript>
+</div>
+
+
 
 
 </body></html>
