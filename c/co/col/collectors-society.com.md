@@ -1,6 +1,34 @@
-> *The following text is extracted and transformed from the collectors-society.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607015159id_/http%3A//www.collectors-society.com/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectors-society.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205201744id_/http%3A//www.collectors-society.com/privacy_statement.aspx) for the most accurate reproduction.*
 
 # Privacy and Security statement for Collectors Society
+
+### Members Sign In
+
+| E-mail: |   
+---|---  
+Password: |   
+| Remember Me  
+|   
+  
+[Become a member >](https://web.archive.org/web/20151205201744id_/http%3A//www.collectors-society.com/join/join.aspx)  
+[Forgot Login / Password >](https://web.archive.org/web/20151205201744id_/http%3A//www.collectors-society.com/registry/forgotpassword.aspx)  
+[Request Support >](https://web.archive.org/web/20151205201744id_/http%3A//www.collectors-society.com/reportproblem.aspx)
+
+2015 NGC Registry Awards
+
+Thank you to all participants
+
+Winners will be announced  
+Friday, January 08, 2016
+
+### FIND MEMBERS
+
+### Recent Journals
+
+### Announcements
+
+[Message Boards Down 10am ET Tomorrow for Maintenance](http://boards.collectors-society.com/ubbthreads.php?ubb=showflat&Number=8892072#Post8892072)  
+
 
 Certified Collectibles Group (CCG) and its member companies are committed to your privacy and security. This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
@@ -20,4 +48,4 @@ This site contains links to other sites. CCG is not responsible for the privacy 
 
 **Opt-Out.** We provide members the opportunity to opt-out of receiving communications from CCG, its member companies, and third parties. You may unsubscribe from many emails by clicking the opt-out link at the bottom of the email. After becoming a member, you may also opt-out at any time by clicking the Email Preferences button in the Control Panel. 
 
-If you have any questions about this privacy and security statement, the practices of this site, or your dealings with this web site, [contact us](https://web.archive.org/web/20150607015159id_/http%3A//www.collectors-society.com/ContactUs.aspx). 
+If you have any questions about this privacy and security statement, the practices of this site, or your dealings with this web site, [contact us](https://web.archive.org/web/20151205201744id_/http%3A//www.collectors-society.com/ContactUs.aspx). 
