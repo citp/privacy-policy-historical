@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the binaryuno.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609065953id_/http%3A//www.binaryuno.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binaryuno.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205094130id_/http%3A//www.binaryuno.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BinaryUno
+# Binary Uno: Privacy Policy
 
 No matter if you are a former or an existing client or just a visitor on our website, the privacy of our users is one of our main concerns, therefore the company is committed to safeguard all personal information collected from our valued clients.
 
