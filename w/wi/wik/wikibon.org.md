@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikibon.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022825id_/http%3A//wikibon.org/wiki/v/Wikibon%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikibon.org privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205071241id_/http%3A//wikibon.org/wiki/v/Wikibon%3APrivacy_policy) for the most accurate reproduction.*
 
 # Wikibon:Privacy Policy - Wikibon
 
@@ -42,7 +42,7 @@ When you edit any page in the wiki, **you are publishing a document**. This is a
 
 ###  Identification of an author
 
-When you publish a page in the wiki, you mused be logged in. When you are logged in and make a contribugtion, you will be identified by your user name or alias, whichever you have selected in your profile. This may be your real name if you so choose, or you may choose to publish under a pseudonym, whatever user name you selected when you created your account. 
+When you publish a page in the wiki, you mused be logged in. When you are logged in and make a contribution, you will be identified by your user name or alias, whichever you have selected in your profile. This may be your real name if you so choose, or you may choose to publish under a pseudonym, whatever user name you selected when you created your account. 
 
 Wikibon has in the past allowed users to edit articles without being logged in and may choose to do so in the future. If you have not logged in and are able to make an edit for whatever reason, you will be identified by your network IP address. This is a series of four numbers which identifies the Internet address from which you are contacting the wiki. Depending on your connection, this number may be traceable only to a large Internet service provider, or specifically to your school, place of business, or home. It may be possible that the origin of this IP address could be used in conjunction with any interests you express implicitly or explicitly by editing articles to identify you even by private individuals. 
 
