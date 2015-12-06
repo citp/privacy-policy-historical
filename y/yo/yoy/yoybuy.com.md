@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoybuy.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607194021id_/http%3A//www.yoybuy.com/en/help.html%3Fcateid%3D3237176) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoybuy.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114910id_/http%3A//www.yoybuy.com/en/help.html%3Fcateid%3D3237176) for the most accurate reproduction.*
 
 # Help Center - YoyBuy.com Taobao Agent
 
@@ -55,6 +55,9 @@ Yoybuy will post any changes to this Privacy Statement on this Web Site, please 
 **Contact details**
 
 If you have any comments or questions about our Privacy Statement, please send E-mail to **service@yoybuy.com.**
+
+Company:Beijing YOYBUY Network Technology Limited Liability Co., Ltd.  
+Company registered address: 108 Di Shang #22 Building 1 District West Tiantongyuan,Changping,Beijing,China. 
 
 
 
