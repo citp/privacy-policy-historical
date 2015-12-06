@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whitecoatinvestor.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608121339id_/http%3A//whitecoatinvestor.com/contact/privacy-policy-for-the-white-coat-investor) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitecoatinvestor.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141837id_/http%3A//whitecoatinvestor.com/contact/privacy-policy-for-the-white-coat-investor) for the most accurate reproduction.*
 
-# Privacy Policy For The White Coat Investor | The White Coat Investor- Investing And Personal Finance Information For Physicians, Dentists, Residents, Students, And Other Highly-Educated Busy Professionals
+# Privacy Policy For The White Coat Investor | The White Coat Investor - Investing And Personal Finance Information For Physicians, Dentists, Residents, Students, And Other Highly-Educated Busy Professionals
 
 > _The privacy of our visitors to http://whitecoatinvestor.com is important to us.   This website recognizes that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit http://whitecoatinvestor.com, and how we safeguard your information.  We never sell your personal information to third parties._
 > 
