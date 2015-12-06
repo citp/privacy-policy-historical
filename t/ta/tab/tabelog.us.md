@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tabelog.us privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517043714id_/http%3A//www.tabelog.us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabelog.us privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206224551id_/http%3A//www.tabelog.us/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tabelog
 
