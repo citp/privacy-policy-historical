@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lynnskitchenadventures.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607130811id_/http%3A//www.lynnskitchenadventures.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lynnskitchenadventures.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206034151id_/http%3A//www.lynnskitchenadventures.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lynn's Kitchen Adventures
 
@@ -23,7 +23,7 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20150607130811id_/http%3A//www.lynnskitchenadventures.com/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
+AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20151206034151id_/http%3A//www.lynnskitchenadventures.com/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
 
 Simply cut and paste the new policy into your privacy policy on each site running Google AdSense, and you will be in compliance with the new change.
 
