@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the celebrities-galore.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144435id_/http%3A//www.celebrities-galore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrities-galore.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206163159id_/http%3A//www.celebrities-galore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Celebrities Galore has created this Privacy Statement (Policy) in order to demonstrate our firm commitment to helping our members and visitors better understand what information we collect about them and what may happen to that information.
 
 The following discloses our information gathering and dissemination practices for Celebrities Galore website.
-
-Make sure to subscribe (LIKE) to our Facebook page for future announcements.
 
 * * *
 
@@ -99,7 +97,3 @@ Celebrities Galore uses industry standard practices to safeguard the confidentia
 ## Notice
 
 We may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. All changes to this policy are effective after we provide you with at least (30) days' notice of changes by sending email to members. We provide you with (30) days' notice to allow you the opportunity to notify Celebrities Galore if you do not agree to such changes.
-
-* * *
-
-Make sure to SHARE and subscribe (LIKE) to our Facebook page for future announcements.
