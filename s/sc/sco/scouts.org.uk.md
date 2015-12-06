@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scouts.org.uk privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408030533id_/http%3A//scouts.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scouts.org.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206040322id_/http%3A//scouts.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy statement | Scouts
 
-The Scout Association and www.scouts.org.uk take the issue of privacy very seriously and we are committed to protecting and respecting our users' privacy. This Privacy Statement sets out our current data processing practices and should be read in conjunction with our terms and conditions. If you have any queries or concerns regarding these practices, you should contact us at [info.centre@scout.org.uk](mailto:info.centre@scout.org.uk).
+The Scout Association takes the issue of privacy very seriously and is committed to protecting and respecting our users' privacy online. This Privacy Statement sets out our current data processing practices and should be read in conjunction with our terms and conditions. If you have any queries or concerns regarding these practices, you should contact us at [info.centre@scout.org.uk](mailto:info.centre@scout.org.uk).
 
 **1\. The information we collect**
 
