@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cisdem.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607130344id_/http%3A//www.cisdem.com/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cisdem.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206153230id_/http%3A//www.cisdem.com/about/privacy-policy.html) for the most accurate reproduction.*
 
 # [OFFICIAL] Cisdem Privacy Policy
 
@@ -21,9 +21,3 @@ You can change the settings in your browser to prevent cookies if you do not wan
 ###  Our companywide commitment to your privacy
 
 This policy covers the Intel Corporate website and is applicable worldwide. To make sure your personal information is secure, we communicate these guidelines to Cisdem employees and strictly enforce privacy safeguards within the company.
-
-## Our Award 
-
-#### 
-
-### Cisdem PDFToolkit is my favorite with its nice, clean user interface covering most functions, including merge PDF files, split PDF files, compress PDF files, extract images and text from PDF files. If you're looking for an application that can get most of their PDF-related tasks done without many extras, then check out Cisdem PDFToolkit.
