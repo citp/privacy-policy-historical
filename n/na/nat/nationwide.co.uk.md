@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185815id_/http%3A//www.nunwood.com/sitemap/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206221513id_/http%3A//www.nunwood.com/sitemap/our-privacy-policy) for the most accurate reproduction.*
 
-# Our privacy policy - Nunwood
+# Our privacy policy - KPMG Nunwood
 
 ### KPMG Nunwood is committed to protecting the privacy of all information we collect from our clients and from research participants.
 
