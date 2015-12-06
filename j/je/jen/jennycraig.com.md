@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jennycraig.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616132825id_/http%3A//www.jennycraig.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jennycraig.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206164522id_/http%3A//www.jennycraig.com/site/privacy) for the most accurate reproduction.*
 
-# Weight Loss Programs & Diet Plans | Jenny Craig Official Site
+# Weight Loss Programs & Diet Plans | Jenny Craig® Official Site
 
 ## General
 
