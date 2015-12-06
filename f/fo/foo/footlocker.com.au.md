@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footlocker.com.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141902id_/http%3A//www.footlocker.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footlocker.com.au privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140544id_/http%3A//www.footlocker.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Foot Locker
 
@@ -100,11 +100,9 @@ The Locker members can change or correct the personal information previously pro
 
 You may seek access to, and correction of, personal information which Foot Locker holds about you and we will provide access to that information in accordance with the Act.  There are certain exemptions which may apply to the provision of that information.
 
-Requests for access to personal information held by Foot Locker should be sent to our Head Office via the ‘Other Enquiry’ contact form on the website at [www.footlocker.co.nz](http://www.footlocker.co.nz/)/contact.
+Requests for access to personal information held by Foot Locker should be sent to our Head Office via the ‘Other Enquiry’ contact form on the website at [www.footlocker.com.au/contacts](http://www.footlocker.com.au/contacts). 
 
-Foot Locker New Zealand, Inc.
-
-c/o Foot Locker Australia, Inc. ** __**
+Foot Locker Australia, Inc.
 
 Metroplex Complex, Level 1
 
