@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onrec.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607195720id_/http%3A//www.onrec.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onrec.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114933id_/http%3A//www.onrec.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Onrec.com
 
@@ -28,23 +28,23 @@
 
 #### Event diary
 
-  * The Grange City Hotel - Crown Suite
-
-London
-
-July 9 
-
-  * The Grange City Hotel
-
-London
-
-October 20 
-
   * The Grange St Pauls Hotel
 
 London
 
 March 10 
+
+  * The Grange City Hotel
+
+London
+
+July 12 
+
+  * The Grange City Hotel
+
+London
+
+October 18 
 
 
 
