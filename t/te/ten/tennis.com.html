@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tennis.com privacy policy that was archived on 2015-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628205953id_/http%3A//www.tennis.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tennis.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206141249id_/http%3A//www.tennis.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="UTF-8">
@@ -12,7 +12,8 @@
     <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1&amp;appId=250447308406315"></script><script async="" src="//d2vig74li2resi.cloudfront.net/rum/bacon.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="//use.typekit.net/eiv0nll.js"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
     <script type="text/javascript" src="http://cdn.tennis.com/statics/assets/javascript/modernizr-2.6.2-min.js"></script>
-    <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
     <script type="text/javascript" src="http://code.jquery.com/ui/1.8.20/jquery-ui.min.js"></script>
     <script type="text/javascript" src="http://cdn.tennis.com/statics/assets/javascript/selectivizr-min.js"></script>
     <script type="text/javascript" src="http://cdn.tennis.com/statics/assets/javascript/chosen.jquery.min.js"></script>
@@ -42,9 +43,7 @@ node.parentNode.insertBefore(gads, node);
 googletag.cmd.push(function() {
 
 
-  
-    googletag.defineSlot('/1020575/house_300x64', [[300, 64],[300, 90]], 'div-gpt-ad-1400022798138-0').addService(googletag.pubads());
-  
+googletag.defineSlot('/1020575/house_300x64', [[300, 64],[300, 90]], 'div-gpt-ad-1400022798138-0').addService(googletag.pubads());
 
 
 
@@ -57,7 +56,10 @@ googletag.cmd.push(function() {
 // channel_ad : news
 tr_slot = googletag.defineSlot('/1020575/news_300x250', [[300, 250],[300,600],[300,1050]], 'div-gpt-ad-right-banner-1').addService(googletag.pubads());
 tb_slot = googletag.defineSlot('/1020575/news_728x90', [[728, 90], [970, 250], [970, 60]], 'div-gpt-ad-topbanner-3').addService(googletag.pubads());
-bb_slot = googletag.defineSlot('/1020575/news_728x90_network', [728, 90], 'div-gpt-ad-bottombanner-4').addService(googletag.pubads());
+
+  
+  bb_slot = googletag.defineSlot('/1020575/news_728x90_network', [728, 90], 'div-gpt-ad-bottombanner-4').addService(googletag.pubads());
+  
 
 
 
@@ -67,7 +69,10 @@ bb_slot = googletag.defineSlot('/1020575/news_728x90_network', [728, 90], 'div-g
 
 
 
-googletag.pubads().enableSingleRequest();
+googletag.defineSlot('/1020575/940x175_subscription', [940, 175], 'div-gpt-ad-1448484658336-0').addService(googletag.pubads());
+
+googletag.pubads().enableAsyncRendering();
+// googletag.pubads().enableSingleRequest();
 googletag.pubads().setTargeting("env", "prod");
 googletag.enableServices();
 });
@@ -130,6 +135,7 @@ s.src=sc+'s.dpmsrv.com/dpm_536fb6934062440c464ca2eef82b0be8e6b36cc8.min.js';
 h.appendChild(s);
 })();
 </script><script type="text/javascript" async="" src="https://s.dpmsrv.com/dpm_536fb6934062440c464ca2eef82b0be8e6b36cc8.min.js"></script>
+    <script type="text/javascript" src="http://cdn.tennis.com/statics/assets/javascript/USTA_dil_v5.7_updated_final.js"></script>
 
     
 
@@ -198,10 +204,10 @@ h.appendChild(s);
                 <li id="players-rankings">
                     <a href="/players-rankings/"><span>Players &amp; Rankings</span></a>
                     <ul>
-                        <li><a onclick="_gaq.push(['_trackEvent','subnav', 'players-rankings', 'Players']);" href="/players/">Players</a></li>
-                        <li><a onclick="_gaq.push(['_trackEvent','subnav', 'players-rankings', 'Stats']);" href="/stats/ATP/">Stats</a></li>
-                        <li><a onclick="_gaq.push(['_trackEvent','subnav', 'players-rankings', 'Rankings']);" href="/rankings/ATP/">Rankings</a></li>
-                        <li><a onclick="_gaq.push(['_trackEvent','subnav', 'players-rankings', 'Money Leaders']);" href="/earnings/ATP/">Money Leaders</a></li>
+                        <li><a onclick="ga('send', 'event', 'subnav', 'players-rankings', 'Players');" href="/players/">Players</a></li>
+                        <li><a onclick="ga('send', 'event', 'subnav', 'players-rankings', 'Stats');" href="/stats/ATP/">Stats</a></li>
+                        <li><a onclick="ga('send', 'event', 'subnav', 'players-rankings', 'Rankings');" href="/rankings/ATP/">Rankings</a></li>
+                        <li><a onclick="ga('send', 'event', 'subnav', 'players-rankings', 'Money Leaders');" href="/earnings/ATP/">Money Leaders</a></li>
                     </ul>
                 </li>
                 <li id="your-game">
@@ -211,16 +217,16 @@ h.appendChild(s);
                 <li id="photos-video">
                     <a href="/photos-video/"><span>Multimedia</span></a>
                     <ul>
-                        <li><a onclick="_gaq.push(['_trackEvent','subnav', 'photos-video', 'Podcasts']);" href="http://www.tennis.com/podcasts/">Podcasts</a></li>
-                        <li><a onclick="_gaq.push(['_trackEvent','subnav', 'photos-video', 'Photo Galleries']);" href="http://www.tennis.com/photos-video/photo-galleries/list/">Photo Galleries</a></li>
-                        <li><a onclick="_gaq.push(['_trackEvent','subnav', 'photos-video', 'Photo Wire']);" href="/galleries/">Photo Wire</a></li>
-                        <li><a onclick="_gaq.push(['_trackEvent','subnav', 'photos-video', 'Video']);" href="http://www.tennis.com/photos-video/video/">Video</a></li>
+                        <li><a onclick="ga('send', 'event', 'subnav', 'photos-video', 'Podcasts');" href="http://www.tennis.com/podcasts/">Podcasts</a></li>
+                        <li><a onclick="ga('send', 'event', 'subnav', 'photos-video', 'Photo Galleries');" href="http://www.tennis.com/photos-video/photo-galleries/list/">Photo Galleries</a></li>
+                        <li><a onclick="ga('send', 'event', 'subnav', 'photos-video', 'Photo Wire');" href="/galleries/">Photo Wire</a></li>
+                        <li><a onclick="ga('send', 'event', 'subnav', 'photos-video', 'Video');" href="http://www.tennis.com/photos-video/video/">Video</a></li>
                     </ul>
                 </li>
                 
 
 
-  <li><a href="/special/2015wimbledon" class="highlight "><span>Wimbledon</span></a></li>
+  <li><a href="/special/my-hero" class="highlight "><span>My Hero</span></a></li>
 
 
                 <li>
@@ -336,15 +342,13 @@ h.appendChild(s);
     
 <!-- This is currently the Tennis Tuesday Ads -->
 
-  
-    <section id="div-gpt-ad-1400022798138-0" style="width:300px; min-height:64px;">
+<section id="div-gpt-ad-1400022798138-0" style="width:300px; min-height:64px;">
 
-        <script type="text/javascript">
-          googletag.cmd.push(function() { googletag.display('div-gpt-ad-1400022798138-0'); });
-        </script>
+    <script type="text/javascript">
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1400022798138-0'); });
+    </script>
 
-    </section>
-  
+</section>
 
 
 
@@ -392,24 +396,24 @@ h.appendChild(s);
 	</li>
     
 	<li>
-		<a href="/player/376/roger-federer/">
-			<img src="http://cdn.tennis.com/uploads/img/2014/06/13/federer/small.jpg">
+		<a href="/player/569/andy-murray/">
+			<img src="http://cdn.tennis.com/uploads/img/2014/06/13/murrayw/small.jpg">
 			<span class="place">2</span>
 			<div>
-				<span class="name">Roger Federer</span>
-				<abbr title="Switzerland" class="country">SUI</abbr>
+				<span class="name">Andy Murray</span>
+				<abbr title="Great Britain" class="country">GBR</abbr>
 			</div>
 		</a>
 
 	</li>
     
 	<li>
-		<a href="/player/569/andy-murray/">
-			<img src="http://cdn.tennis.com/uploads/img/2014/06/13/murrayw/small.jpg">
+		<a href="/player/376/roger-federer/">
+			<img src="http://cdn.tennis.com/uploads/img/2014/06/13/federer/small.jpg">
 			<span class="place">3</span>
 			<div>
-				<span class="name">Andy Murray</span>
-				<abbr title="Great Britain" class="country">SCT</abbr>
+				<span class="name">Roger Federer</span>
+				<abbr title="Switzerland" class="country">SUI</abbr>
 			</div>
 		</a>
 
@@ -436,12 +440,12 @@ h.appendChild(s);
 
     
 	<li>
-		<a href="/player/657/petra-kvitova/">
-			<img src="http://cdn.tennis.com/uploads/img/1201/01/01/pkvitova/small.jpg">
+		<a href="/player/687/simona-halep/">
+			<img src="http://cdn.tennis.com/uploads/img/1201/01/01/shalep/small.jpg">
 			<span class="place">2</span>
 			<div>
-				<span class="name">Petra Kvitova</span>
-				<abbr title="Czech Republic" class="country">CZE</abbr>
+				<span class="name">Simona Halep</span>
+				<abbr title="Romania" class="country">ROM</abbr>
 			</div>
 		</a>
 
@@ -449,12 +453,12 @@ h.appendChild(s);
 
     
 	<li>
-		<a href="/player/687/simona-halep/">
-			<img src="http://cdn.tennis.com/uploads/img/1201/01/01/shalep/small.jpg">
+		<a href="/player/721/garbine-muguruza/">
+			<img src="http://cdn.tennis.com/uploads/img/2014/12/12/thumbn/small.jpg">
 			<span class="place">3</span>
 			<div>
-				<span class="name">Simona Halep</span>
-				<abbr title="Romania" class="country">ROM</abbr>
+				<span class="name">Garbine Muguruza</span>
+				<abbr title="Spain" class="country">ESP</abbr>
 			</div>
 		</a>
 
@@ -527,10 +531,10 @@ h.appendChild(s);
             <li>
                 <ul>
                     <li><a href="/players-rankings/" class="title">Players &amp; Rankings</a></li>
-                    <li><a onclick="_gaq.push(['_trackEvent','subnav', 'players-rankings', 'Players']);" href="/players/">Players</a></li>
-                    <li><a onclick="_gaq.push(['_trackEvent','subnav', 'players-rankings', 'Stats']);" href="/stats/ATP/">Stats</a></li>
-                    <li><a onclick="_gaq.push(['_trackEvent','subnav', 'players-rankings', 'Rankings']);" href="/rankings/ATP/">Rankings</a></li>
-                    <li><a onclick="_gaq.push(['_trackEvent','subnav', 'players-rankings', 'Money Leaders']);" href="/earnings/ATP/">Money Leaders</a></li>
+                    <li><a onclick="ga('send', 'event', 'subnav', 'players-rankings', 'Players');" href="/players/">Players</a></li>
+                    <li><a onclick="ga('send', 'event', 'subnav', 'players-rankings', 'Stats');" href="/stats/ATP/">Stats</a></li>
+                    <li><a onclick="ga('send', 'event', 'subnav', 'players-rankings', 'Rankings');" href="/rankings/ATP/">Rankings</a></li>
+                    <li><a onclick="ga('send', 'event', 'subnav', 'players-rankings', 'Money Leaders');" href="/earnings/ATP/">Money Leaders</a></li>
                 </ul>
             </li>
             <li>
@@ -546,9 +550,9 @@ h.appendChild(s);
             <li>
                 <ul>
                     <li><a href="/photos-video/" class="title">Multimedia</a></li>
-                    <li><a onclick="_gaq.push(['_trackEvent','subnav', 'photos-video', 'Photo Galleries']);" href="/photos-video/photo-galleries/list/">Photo Galleries</a></li>
-                    <li><a onclick="_gaq.push(['_trackEvent','subnav', 'photos-video', 'Photo Wire']);" href="/photos-video/photo-galleries/list/">Photo Wire</a></li>
-                    <li><a onclick="_gaq.push(['_trackEvent','subnav', 'photos-video', 'Video']);" href="/photos-video/video/">Video</a></li>
+                    <li><a onclick="ga('send', 'event', 'subnav', 'photos-video', 'Photo Galleries');" href="/photos-video/photo-galleries/list/">Photo Galleries</a></li>
+                    <li><a onclick="ga('send', 'event', 'subnav', 'photos-video', 'Photo Wire');" href="/photos-video/photo-galleries/list/">Photo Wire</a></li>
+                    <li><a onclick="ga('send', 'event', 'subnav', 'photos-video', 'Video');" href="/photos-video/video/">Video</a></li>
                 </ul>
             </li>
             <li>
@@ -557,7 +561,7 @@ h.appendChild(s);
                     
 
 
-  <li><a href="/special/2015wimbledon" class="highlight title"><span>Wimbledon</span></a></li>
+  <li><a href="/special/my-hero" class="highlight title"><span>My Hero</span></a></li>
 
 
                 </ul>
@@ -567,7 +571,12 @@ h.appendChild(s);
 
     
     <section class="subscribe">
-        <a href="https://ssl.palmcoastd.com/10501/apps/TENSPECIALOFFER?ikey=I**PD1" target="_blank"><img src="http://cdn.tennis.com/statics/ads/Tennis_Footer_940X175_V4.jpg" alt="Subscribe to Tennis Magazine - Just $10 per year" border="0"></a>
+        <!-- /1020575/940x175_subscription -->
+        <div id="div-gpt-ad-1448484658336-0" style="height:175px; width:940px;">
+        <script type="text/javascript">
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1448484658336-0'); });
+        </script>
+        </div>
         <!--<form method="post" action="https://ssl.palmcoastd.com/10501/apps/FREE_TRIAL_DIRECT?ikey=I**FU2">
             <input type="hidden" name="ipayopt" id="ipayopt" value="Y">
             <input type="hidden" name="iccexpmo" value="">
@@ -627,10 +636,10 @@ h.appendChild(s);
     </div>
     <div class="background">
     </div>
-    <script type="text/javascript" src="http://cdn.tennis.com/statics/assets/javascript/combined-min.js?v=04172015"></script>
+    <script type="text/javascript" src="http://cdn.tennis.com/statics/assets/javascript/combined-min.js?v=08142015"></script>
     <script type="text/javascript" src="http://cdn.tennis.com/statics/js/ads.js?v=04172015"></script>
     
-    <!-- PAGE_COMPLETED: 2015-06-28 20:52:53.066054 -->
+    <!-- PAGE_COMPLETED: 2015-12-06 14:05:47.535250 -->
 
 
 </body></html>
