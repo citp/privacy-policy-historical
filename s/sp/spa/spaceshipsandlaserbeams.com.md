@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spaceshipsandlaserbeams.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607162330id_/http%3A//spaceshipsandlaserbeams.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spaceshipsandlaserbeams.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206043011id_/http%3A//spaceshipsandlaserbeams.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Spaceships and Laser Beams
+# Privacy Policy | Boy Birthday Party Ideas and Supplies - Spaceships and Laser Beams
 
 We want you to always think that Spaceships and Laser Beams is pretty cool. As a result, we take your privacy very seriously.
 
@@ -12,11 +12,11 @@ If you would like more information about this practice and to know your choices 
 
 ## Emailing Spaceships and Laser Beams
 
-If you email Spaceships and Laser Beams, you can rest assured that your information is not captured for any purpose other than to respond to your query. We hate spam. We know you do too. 
+If you email Spaceships and Laser Beams, you can rest assured that your information is not captured for any purpose other than to respond to your query. We hate spam. We know you do too.
 
 ## E-newsletter Mailing List
 
-Spaceships and Laser Beams has an opt-in email newsletter subscription. All we ask for is your email address - we do not even collect your name. The only way your email address can appear on this list is if you subscribe to our newsletter via Mail Chimp and then verify your subscription over email. We will never, ever give or sell your email address to a third party. 
+Spaceships and Laser Beams has an opt-in email newsletter subscription. All we ask for is your email address – we do not even collect your name. The only way your email address can appear on this list is if you subscribe to our newsletter via Mail Chimp and then verify your subscription over email. We will never, ever give or sell your email address to a third party.
 
 ## Inquiries
 
