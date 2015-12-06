@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentbyowner.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418102028id_/http%3A//www.rentbyowner.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentbyowner.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114204id_/http%3A//www.rentbyowner.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Rental Homes And Vacation Rental Properties | Rent By Owner
 
