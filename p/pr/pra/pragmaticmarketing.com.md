@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pragmaticmarketing.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608065434id_/https%3A//pragmaticmarketing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pragmaticmarketing.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141505id_/http%3A//pragmaticmarketing.com/privacy) for the most accurate reproduction.*
 
 # Pragmatic Marketing - Visit our site and still respect yourself in the morning
 
@@ -96,8 +96,6 @@ We may share Information about you in a variety of ways, for example:
 **Affiliates and Subsidiaries.** We may share Information with our affiliates and subsidiaries, including companies that we own or control, that own or control us, or that are under common ownership or control with us. We will require that our affiliates and subsidiaries agree to use the Information we share with them in compliance with this Policy.
 
 **Service Providers.** We may share Information we collect about you with our third party service providers that help us provide the Site and our Courses and Certifications. We require that our third party service providers agree to use the Information we share with them only to perform their obligations to us and to treat all Personal Information they receive from us in compliance with this Policy.
-
-**Other Entities.** We may share Information with third party companies and entities so that they may develop and offer additional products and services to you that we believe will be of interest to you based on the Information we collect and obtain about you. ****
 
 **Law Enforcement.** We may share Information with law enforcement agencies if we reasonably believe unlawful activities have occurred or the Information may aid in an investigation into unlawful activity. We may also share Information with law enforcement if we determine, in our sole judgment, that you have violated our agreements or policies or that the release of your Information may protect the rights, property, interests, or safety of Company or any third party.
 
