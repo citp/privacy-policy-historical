@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mistupid.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144929id_/http%3A//mistupid.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mistupid.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141513id_/http%3A//mistupid.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,7 +29,7 @@ We collect the e-mail addresses of those who post messages to our discussion boa
 
 The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site. E-mail addresses are not shared with other organizations.
 
-[Printable Page](https://web.archive.org/web/20150607144929id_/http%3A//mistupid.com/phprint.php)  [](http://www.addthis.com/bookmark.php)
+[Printable Page](https://web.archive.org/web/20151206141513id_/http%3A//mistupid.com/phprint.php)  [](http://www.addthis.com/bookmark.php)
 
 Other Links:   
-[Contact](https://web.archive.org/web/20150607144929id_/http%3A//mistupid.com/utils/contact.htm), [About](https://web.archive.org/web/20150607144929id_/http%3A//mistupid.com/about.htm)
+[Contact](https://web.archive.org/web/20151206141513id_/http%3A//mistupid.com/utils/contact.htm), [About](https://web.archive.org/web/20151206141513id_/http%3A//mistupid.com/about.htm)
