@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intokenya.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207182257id_/http%3A//www.intokenya.com/pages/Privacy_Policy.vrt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intokenya.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206204722id_/http%3A//intokenya.com/pages/Privacy_Policy.vrt) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,4 +32,4 @@ This policy may be revised over time as new features are added to the web site. 
 **How to Contact Us**  
 Central Reservations Bureau is committed to protecting your privacy. We do not and will not sell or rent your personal information to anyone. If you have any questions about this privacy statement, or would like more information about our company, please 
 
-[**Click Here**](http://www.intokenya.com/pages/Contacts.vrt)
+[**Click Here**](http://intokenya.com/pages/Contacts.vrt)
