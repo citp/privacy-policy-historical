@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workfront.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607150315id_/http%3A//www.workfront.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workfront.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206051629id_/http%3A//www.workfront.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Workfront
 
@@ -19,6 +19,22 @@ Workfront will use commercially reasonable efforts consistent with, and no less 
 **Safe Harbor.** Workfront complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Workfront has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Workfront’s certification, please visit http://www.export.gov/safeharbor.
 
 Additional information regarding disaster recovery, data backups, and Workfront On-Demand SLAs is available upon request.
+
+### Using Workfront Software
+
+By using Workfront software you acknowledge your acceptance of these terms of use. Users are not permitted to misuse Workfront software. This includes attempting to access the software or its features outside of the intended methods. Users are to use Workfront software for purposes directly related to their business processes. If it is discovered that Workfront software has been used in violation of standards in use agreements, Workfront may suspend your right to use of the software.
+
+The user is the owner of and responsible for data input into the Workfront application. These terms do not give a user ownership of all elements of the application. Users must not manipulate, remove, alter or in anyway obscure elements of the service(s) provided by Workfront. This includes pages, branding, application features/functions, etc.
+
+Administrators are responsible for setting and maintaining password policies and access controls in a customer’s environment. If a user is concerned with password security requirements or access rights, the user is to contact their Workfront administrator.
+
+If during use or interaction with the software, a user becomes aware of a security issue, please submit a ticket using our Community page.
+
+### Other Services
+
+**ProofHQ** ​Additional functionality​ is available to users​ of the Workfront platform​ ​that leverage systems and services provided by ProofHQ. Security safeguards and standards supporting the ProofHQ platform may not, in all cases, be equal to those in place on the Workfront platform. Workfront performs annual review to ensure that appropriate data protection measures are in place with all peripheral application providers (including ProofHQ). Details regarding ProofHQ security may be provided upon request.
+
+**Workfront DAM** Workfront offers the Workfront DAM software through a partner agreement with WebDAM. While Workfront owns all commitments established through Workfront DAM SLAs, it is WebDAM who provides the systems and infrastructure which make up the Workfront DAM platform. WebDAM has taken measures to secure user data as well as maintain the availability, confidentiality, and integrity of the Workfront DAM service. The following provides details related to Workfront DAM security provided by WebDAM.
 
 ### Workfront.com Website Privacy Policy
 
