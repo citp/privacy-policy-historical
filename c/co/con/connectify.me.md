@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the connectify.me privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074215id_/http%3A//www.connectify.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectify.me privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114737id_/http%3A//www.connectify.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Connectify
 
 **EFFECTIVE DATE 10/18/2009; UPDATED 1/28/2015**
 
-Nomadio, Inc. d/b/a Connectify (“Connectify,” “we,” “us”) respects your privacy, including the privacy of your information and your pictures. This Privacy Policy explains the type of information we collect through our website at www.connectify.com (the “Site”) and our Connectify software, and how we use this information to provide outstanding service to you.
+Connectify (“Connectify,” “we,” “us”) respects your privacy, including the privacy of your information and your pictures. This Privacy Policy explains the type of information we collect through our website at www.connectify.com (the “Site”) and our Connectify software, and how we use this information to provide outstanding service to you.
 
 By accessing and using the Site or other software or services owned or operated by Connectify (collectively, the “Services”), you agree to the terms and conditions of this Privacy Policy. If you do not agree to the terms and conditions of this Privacy Policy, please do not use the Services.
 
