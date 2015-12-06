@@ -1,17 +1,18 @@
-<!--The following is the downloaded HTML source of the rew.ca privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607152932id_/http%3A//www.rew.ca/news/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rew.ca privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206040727id_/http%3A//www.rew.ca/news/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html prefix="og: http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#"><head>
 <meta charset="utf-8">
-<script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-X9BN"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"0f5fa33b45","applicationID":"993290","transactionName":"JldYQUoKWFRXEBcQRQRMX1YXFUZRRANbGg==","queueTime":4,"applicationTime":94,"agent":"js-agent.newrelic.com/nr-632.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYAUFVaGwoJV1NbBw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-X9BN"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"0f5fa33b45","applicationID":"993290","transactionName":"JldYQUoKWFRXEBcQRQRMX1YXFUZRRANbGg==","queueTime":0,"applicationTime":56,"agent":"js-agent.newrelic.com/nr-768.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYAUFVaGwoJV1NbBw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+<meta content="width=device-width, initial-scale=1" name="viewport">
 <meta content="REW.CA™ has established this Privacy Policy to explain how it protects and manages the personal information that it collects from you (the customer) online" name="description">
 <meta content="website" property="og:type">
 <meta content="REW.ca" property="og:site_name">
 <meta content="Privacy Policy" property="og:title">
 <meta content="REW.CA™ has established this Privacy Policy to explain how it protects and manages the personal information that it collects from you (the customer) online" property="og:description">
 <meta content="http://www.rew.ca/privacy" property="og:url">
-<meta content="http://assets1.rew.ca/assets/logo-4c71294e9cb022a22081d04a28a43d74.png" property="og:image">
+<meta content="http://assets1.rew.ca/assets/logo-c8f1f1f785eee90e34948a68825f9cf0.png" property="og:image">
 
 <link href="http://www.rew.ca/privacy" rel="canonical">
 
@@ -21,23 +22,23 @@ Privacy Policy
 REW.ca
 </title>
 <!-- For third-generation iPad with high-resolution Retina display: -->
-<link href="http://assets1.rew.ca/assets/icons/apple-touch/icon-144x144-precomposed-9faf115165fd140b6259ed06cc57203a.png" rel="apple-touch-icon-precomposed" sizes="144x144">
+<link href="http://assets0.rew.ca/assets/icons/apple-touch/icon-144x144-precomposed-1955fdc2240b6568d96cb50f54fae5ca.png" rel="apple-touch-icon-precomposed" sizes="144x144">
 <!-- For iPhone with high-resolution Retina display: -->
-<link href="http://assets2.rew.ca/assets/icons/apple-touch/icon-114x114-precomposed-e7f18f2ba9ebb08c00846456ac7498b1.png" rel="apple-touch-icon-precomposed" sizes="114x114">
+<link href="http://assets1.rew.ca/assets/icons/apple-touch/icon-114x114-precomposed-53f36cfbde9dab220ef607c03663d8dd.png" rel="apple-touch-icon-precomposed" sizes="114x114">
 <!-- For first- and second-generation iPad: -->
-<link href="http://assets3.rew.ca/assets/icons/apple-touch/icon-72x72-precomposed-2146b4b7c2d24dbd9a1a4b8c5384eb03.png" rel="apple-touch-icon-precomposed" sizes="72x72">
+<link href="http://assets1.rew.ca/assets/icons/apple-touch/icon-72x72-precomposed-353b68a8868365a63a320ed59b3ecb10.png" rel="apple-touch-icon-precomposed" sizes="72x72">
 <!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
-<link href="http://assets0.rew.ca/assets/icons/apple-touch/icon-57x57-precomposed-bde56b392000199d5d3abf6c13aa3ce2.png" rel="apple-touch-icon-precomposed">
+<link href="http://assets0.rew.ca/assets/icons/apple-touch/icon-57x57-precomposed-5cfc8916a5387a75d9897393a5d6cce6.png" rel="apple-touch-icon-precomposed">
 
-<link href="http://assets0.rew.ca/assets/external-c1773e9e8b4fe5440b6599dba8b7b1c1.css" media="all" rel="stylesheet">
-<link href="http://assets0.rew.ca/assets/application-d98e177c6c6eea5cd4211f8832d0b5c2.css" media="all" rel="stylesheet">
+<link href="http://assets0.rew.ca/assets/external-ac2ba1d4619aa951deddf3eecba911c9.css" media="all" rel="stylesheet">
+<link href="http://assets3.rew.ca/assets/application-4a29d8491f9670ad3e2b89a13947bd1e.css" media="all" rel="stylesheet">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="oJUoTAHycCuYZdKIbScdrdntfDfce7mq90/vdba3gv0=" name="csrf-token">
+<meta content="1ZP/WxHNyoaKPeY8KAQLQnzNtboLvfRePBtyo6udRCE=" name="csrf-token">
 <script type="text/javascript" src="//use.typekit.net/djv0lke.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
 <!--[if lt IE 9]>
-<script src="http://assets1.rew.ca/assets/html5shiv-9fcca5a9fdc94a83525c8ad2feca8f7c.js"></script>
+<script src="http://assets3.rew.ca/assets/html5shiv-3c30013eb279a2882a02b23f2db2ef23.js"></script>
 <![endif]-->
 <script>
   var tcvars = {
@@ -74,7 +75,7 @@ REW.ca
 </head>
 <body class="">
 <!--[if lt IE 10]>
-<link href="http://assets1.rew.ca/assets/browserupgrade-378ab170d629a9a5dfcba7f61316171d.css" media="screen" rel="stylesheet" />
+<link href="http://assets1.rew.ca/assets/browserupgrade-44cb623022d4c53bd9ed72d321213fcb.css" media="screen" rel="stylesheet" />
 <div class="browserupgrade">
 <div class="browserupgrade-inner">
 <header class="browserupgrade-header">It appears you're using an unsupported browser</header>
@@ -115,13 +116,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-X9BN');</script>
 <!-- End Google Tag Manager -->
 
-<header class="header" id="header">
-<div class="header-wrapper">
-<div class="mainnav">
-<div class="banner-brand">
-<a class="banner-logo" href="/" title="REW.ca">REW.ca</a>
-</div>
-<ul class="mainnav-nav nav">
+<div class="offcanvas leftnav">
+<ul class="list-unstyled">
 <li><a class="" href="/">Homes for Sale</a></li>
 <li><a class="" href="/open-houses">Open Houses</a></li>
 <!-- mp_trans_remove_start -->
@@ -134,19 +130,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <!-- mp_trans_remove_end -->
 </ul>
-<div class="mainnav-right">
-<div class="banner">
-<ul class="banner-nav banner-nav-login">
+<div class="leftnav-divider">Account</div>
+<ul class="banner-nav list-unstyled">
 <!-- mp_trans_remove_start -->
-  <li class="banner-nav-login_list_item banner-nav-login_list_item-signup"><a class="banner-signup-link" href="/users/sign_up">Sign Up</a></li>
-<li class="banner-nav-login_list_item banner-nav-login_list_item-login"><a class="banner-login-link" href="/users/sign_in" id="loginLink">Log In</a></li>
+  <li class="banner-nav-login_list_item-signup"><a class="banner-signup-link" href="/users/sign_up">Sign Up</a></li>
+<li class="banner-nav-login_list_item-login"><a class="banner-login-link navbar--rew-login_link" href="/users/sign_in">Log In</a></li>
 
 <!-- mp_trans_remove_end -->
 
 </ul>
-</div>
-<div class="banner-right">
-<div class="banner-locale">
+<ul class="list-unstyled">
+<li>
 <a mporgnav="" href="http://zh.rew.ca/" onclick="return switchLanguage('zs');
 function switchLanguage(lang) {
 MP.SrcUrl=decodeURIComponent('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();
@@ -155,17 +149,59 @@ return false;
 }
 ">中文简体</a>
 
+</li>
+</ul>
 </div>
+<nav class="navbar navbar--rew navbar--rew">
+<div class="container">
+<div class="navbar-header">
+<button class="navbar-toggle" data-target=".leftnav" data-toggle="offcanvas" type="button">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand" href="/" title="REW.ca">REW.ca</a>
 </div>
-</div>
+<div class="navbar-items visible-md visible-lg">
+<ul class="nav navbar-nav navbar--rew-nav">
+<li><a class="" href="/">Homes for Sale</a></li>
+<li><a class="" href="/open-houses">Open Houses</a></li>
+<!-- mp_trans_remove_start -->
+  <li><a class="" href="/developments">Developments</a></li>
 
+<!-- mp_trans_remove_end -->
+<li><a class="" href="/agents">Agents</a></li>
+<!-- mp_trans_remove_start -->
+  <li><a class="is-active" href="/news">News</a></li>
+
+<!-- mp_trans_remove_end -->
+</ul>
+<ul class="nav navbar-nav navbar-right navbar--rew-navlast">
+<li><a mporgnav="" href="http://zh.rew.ca/" onclick="return switchLanguage('zs');
+function switchLanguage(lang) {
+MP.SrcUrl=decodeURIComponent('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();
+MP.switchLanguage(MP.UrlLang==lang?'en':lang);
+return false;
+}
+">中文简体</a>
+</li>
+</ul>
+<ul class="nav navbar-nav navbar-right navbar--rew-nav navbar--rew-navaccount banner-nav">
+<!-- mp_trans_remove_start -->
+  <li class="banner-nav-login_list_item-signup"><a class="banner-signup-link" href="/users/sign_up">Sign Up</a></li>
+<li class="banner-nav-login_list_item-login"><a class="banner-login-link navbar--rew-login_link" href="/users/sign_in">Log In</a></li>
+
+<!-- mp_trans_remove_end -->
+
+</ul>
 </div>
 </div>
-</header>
+</nav>
+
 
 <!-- mp_trans_remove_start -->
   <!-- mp_trans_remove_start -->
-  <div class="modal fade registrationform modalform" id="loginForm">
+  <div class="modal modal--rew fade registrationform modalform" id="loginForm">
 <div class="modal-dialog">
 <div class="modal-content">
 <header class="registrationform-header modal-header">
@@ -173,6 +209,7 @@ return false;
 <h3>Sign Up</h3>
 </header>
 <div class="modal-body">
+<div class="container-fluid">
 <div class="registrationform-tabs" data-title="Log In">
 <p class="registrationmodal-instructions">Create a FREE account to save searches and track your favourite homes. Already have an account? Click the Log In tab.</p>
 <ul class="nav nav-tabs">
@@ -185,29 +222,28 @@ return false;
 </ul>
 <div class="tab-content">
 <div class="tab-pane active" id="sign_up">
-<form accept-charset="UTF-8" action="/users" class="simple_form registrationform-body registrationform-modalbody" id="navbar_sign_up" method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="TCQL3VoQNboshL2R8F5wgQR44RyptEYpJUqrizWYras="></div><input class="ij4ClvR5wq" id="ij4ClvR5wq" name="ij4ClvR5wq" type="text"><input class="ij4ClvR5wq" id="email" name="email" type="text"><input class="ij4ClvR5wq" id="message" name="message" type="text">
-<div class="registrationform-errors alert alert-danger hide"></div>
+<form accept-charset="UTF-8" action="/users" class="simple_form registrationform-body registrationform-modalbody" id="navbar_sign_up" method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="1rW9KChPD+JeRA27jVMPjUxWsx6M9vp0utFCDGtzdJU="></div><div class="registrationform-errors alert alert-danger hide"></div>
 <div class="row">
-<div class="col-xs-6">
+<div class="col-xs-12 col-sm-6">
 <div class="form-group form-group-md string required user_first_name registrationform-nameinputwrapper"><div class="controls"><input aria-required="true" autofocus="autofocus" class="string required input-block-level registrationform-input form-control" id="user_first_name" name="user[first_name]" placeholder="Name" required="required" type="text"></div></div>
 </div>
-<div class="col-xs-6">
-<div class="form-group form-group-md email required user_email registrationform-emailinputwrapper"><div class="controls"><input aria-required="true" class="string email required input-block-level registrationform-input pull-right form-control" id="user_email" name="user[email]" placeholder="Email" required="required" type="email"></div></div>
+<div class="col-xs-12 col-sm-6">
+<div class="form-group form-group-md email required user_email registrationform-emailinputwrapper"><div class="controls"><input aria-required="true" class="string email required input-block-level registrationform-input registrationform-last_column_input form-control" id="user_email" name="user[email]" placeholder="Email" required="required" type="email"></div></div>
 </div>
 </div>
 <div class="row">
-<div class="col-xs-6">
+<div class="col-xs-12 col-sm-6">
 <div class="form-group form-group-md password optional user_password registrationform-passwordinputwrapper"><div class="controls"><input class="password optional input-block-level registrationform-input form-control" id="user_password" name="user[password]" placeholder="Password" type="password"></div></div>
 </div>
-<div class="col-xs-6">
-<div class="form-group form-group-md password optional user_password_confirmation registrationform-passwordinputwrapper"><div class="controls"><input class="password optional input-block-level registrationform-input pull-right form-control" id="user_password_confirmation" name="user[password_confirmation]" placeholder="Confirm Password" type="password"></div></div>
+<div class="col-xs-12 col-sm-6">
+<div class="form-group form-group-md password optional user_password_confirmation registrationform-passwordinputwrapper"><div class="controls"><input class="password optional input-block-level registrationform-input registrationform-last_column_input form-control" id="user_password_confirmation" name="user[password_confirmation]" placeholder="Confirm Password" type="password"></div></div>
 </div>
 </div>
 <div class="row">
-<div class="col-xs-5">
-<input class="btn btn-primary registrationform-submit" name="commit" type="submit" value="Sign Up">
+<div class="col-xs-12 col-sm-5">
+<input class="btn btn-primary registrationform-submit btn-block" name="commit" type="submit" value="Sign Up">
 </div>
-<div class="col-xs-6 col-xs-offset-1">
+<div class="col-xs-12 col-sm-6 col-sm-offset-1">
 <div class="checkbox">
 <label>
 <input name="user[newsletters_enabled]" type="hidden" value="0"><input class="registrationform-checkbox" id="user_newsletters_enabled" name="user[newsletters_enabled]" type="checkbox" value="1">
@@ -219,18 +255,19 @@ Receive the latest REW.ca news and offers.
 <footer>
 By sending this form you agree to <a href="/news/rew-ca-terms-of-use" target="_blank">REW Terms of Use</a> and <a href="/news/privacy" target="_blank">Privacy Policy</a>
 </footer>
+<input class="ij4ClvR5wq" id="ij4ClvR5wq" name="ij4ClvR5wq" type="text"><input class="ij4ClvR5wq" id="email" name="email" type="text"><input class="ij4ClvR5wq" id="message" name="message" type="text"><input data-ij4clvr5wq="true" id="email" name="email" type="text">
 </form>
 
 </div>
 <div class="tab-pane" id="login">
-<form accept-charset="UTF-8" action="/users/sign_in" class="simple_form registrationform-body registrationform-modalbody" id="navbar_login" method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="TCQL3VoQNboshL2R8F5wgQR44RyptEYpJUqrizWYras="></div><div class="registrationform-errors hide alert alert-danger"></div>
+<form accept-charset="UTF-8" action="/users/sign_in" class="simple_form registrationform-body registrationform-modalbody" id="navbar_login" method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="1rW9KChPD+JeRA27jVMPjUxWsx6M9vp0utFCDGtzdJU="></div><div class="registrationform-errors hide alert alert-danger"></div>
 <div class="form-group form-group-md email optional user_email registrationform-emailinputwrapper"><div class="controls"><input autofocus="autofocus" class="string email optional input-block-level registrationform-input form-control" id="user_email" name="user[email]" placeholder="Email" type="email"></div></div>
 <div class="form-group form-group-md password optional user_password registrationform-passwordinputwrapper"><div class="controls"><input class="password optional input-block-level registrationform-input form-control" id="user_password" name="user[password]" placeholder="Password" type="password"></div></div>
 <div class="row">
-<div class="col-xs-5">
+<div class="col-xs-12 col-sm-5">
 <input class="btn btn-primary registrationform-submit" name="commit" type="submit" value="Log In">
 </div>
-<div class="col-xs-6 col-xs-offset-1">
+<div class="col-xs-12 col-sm-6 col-sm-offset-1">
 <div class="checkbox">
 <label class="registrationform-checkbox">
 <input name="user[remember_me]" type="hidden" value="0"><input class="registrationform-checkbox" id="user_remember_me" name="user[remember_me]" type="checkbox" value="1">
@@ -246,7 +283,7 @@ Stay logged in
 </div>
 </div>
 <div class="hide" data-title="Forgot Your Password" id="password">
-<form accept-charset="UTF-8" action="/users/password" class="simple_form registrationform-body registrationform-modalbody" id="navbar_password" method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="TCQL3VoQNboshL2R8F5wgQR44RyptEYpJUqrizWYras="></div><p class="registrationform-instructions">Enter the email address you registered with and your password will be sent to you.</p>
+<form accept-charset="UTF-8" action="/users/password" class="simple_form registrationform-body registrationform-modalbody" id="navbar_password" method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="1rW9KChPD+JeRA27jVMPjUxWsx6M9vp0utFCDGtzdJU="></div><p class="registrationform-instructions">Enter the email address you registered with and your password will be sent to you.</p>
 <div class="registrationform-errors alert alert-danger hide">Email Address not found</div>
 <div class="registrationform-success alert alert-success hide">You will receive an email with instructions about how to reset your password in a few minutes.</div>
 <div class="form-group form-group-md email optional user_email registrationform-emailinputwrapper"><div class="controls"><input autofocus="autofocus" class="string email optional input-block-level registrationform-input form-control" id="user_email" name="user[email]" placeholder="Email" type="email"></div></div>
@@ -259,19 +296,25 @@ Stay logged in
 </div>
 </div>
 </div>
+</div>
 
 <!-- mp_trans_remove_end -->
 
 
 <!-- mp_trans_remove_end -->
 
-
-<section class="container--fixed maincontent">
-<div class="maincontent-body">
-<section class="maincontent-notifications">
+<section class="maincontent">
+<div class="maincontent-notifications">
+<section class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-10 col-sm-offset-1" data-notifications-bar="">
+</div>
+</div>
 </section>
+</div>
 <!-- mp_trans_disable_start -->
-  <div class="row">
+  <div class="container pageblock pageblock--content">
+<div class="row">
 <div class="col-xs-12">
 <div class="contentsection--homepage">
 <header>
@@ -281,59 +324,7 @@ Stay logged in
 </div>
 </div>
 <div class="row">
-<div class="col-xs-4">
-<div class="contentsection">
-<header>
-<h2 class="contentsection-heading">Contents</h2>
-</header>
-<nav class="companypagenav">
-<ul class="list-unstyled">
-<li>
-<a href="#consent_for_collection_use_and_disclosure">Consent for Collection, Use and Disclosure</a>
-</li>
-<li>
-<a href="#accountability">Accountability</a>
-</li>
-<li>
-<a href="#purposes_for_personal_information">Purposes for Collecting Personal Information</a>
-</li>
-<li>
-<a href="#limiting_collection_of_personal_information">Limiting the Collection of Personal Information</a>
-</li>
-<li>
-<a href="#disclosure_processing_and_retention">Disclosure, Processing and Retention</a>
-</li>
-<li>
-<a href="#links_to_other_websites">Links to other websites</a>
-</li>
-<li>
-<a href="#accuracy_of_personal_information">Accuracy of Personal Information</a>
-</li>
-<li>
-<a href="#security_safeguards">Security Safeguards</a>
-</li>
-<li>
-<a href="#access_to_personal_information">Access to Personal Information</a>
-</li>
-</ul>
-</nav>
-<section>
-<div class="companypagelink companypagelink--sidebar">
-<img alt="House" src="http://assets3.rew.ca/assets/icons/xxxlarge/house-1a9dbe4a4f2b4f1abe4a351e4b3c5400.png">
-<p>Learn More About Our Company</p>
-<a class="btn btn-primary" href="/about-us">About REW.ca</a>
-</div>
-
-<div class="companypagelink companypagelink--sidebar">
-<img alt="Monitor" src="http://assets0.rew.ca/assets/icons/xxxlarge/monitor-b514e8a6fe7b4978ef450440cc2da64a.png">
-<p>Have any questions? We love to talk!</p>
-<a class="btn btn-primary" href="/contact-us">Contact Us</a>
-</div>
-
-</section>
-</div>
-</div>
-<div class="col-xs-8">
+<div class="col-xs-12 col-sm-8 col-sm-push-4">
 <div class="contentsection legal">
 <header>
 <em class="pull-left">Last updated June 2014</em>
@@ -431,17 +422,67 @@ For any further information, please don’t hesitate to contact us at
 </ul>
 </div>
 </div>
+<div class="col-xs-12 col-sm-4 col-sm-pull-8">
+<div class="contentsection hidden-xs">
+<header>
+<h2 class="contentsection-heading">Contents</h2>
+</header>
+<nav class="companypagenav">
+<ul class="list-unstyled">
+<li>
+<a href="#consent_for_collection_use_and_disclosure">Consent for Collection, Use and Disclosure</a>
+</li>
+<li>
+<a href="#accountability">Accountability</a>
+</li>
+<li>
+<a href="#purposes_for_personal_information">Purposes for Collecting Personal Information</a>
+</li>
+<li>
+<a href="#limiting_collection_of_personal_information">Limiting the Collection of Personal Information</a>
+</li>
+<li>
+<a href="#disclosure_processing_and_retention">Disclosure, Processing and Retention</a>
+</li>
+<li>
+<a href="#links_to_other_websites">Links to other websites</a>
+</li>
+<li>
+<a href="#accuracy_of_personal_information">Accuracy of Personal Information</a>
+</li>
+<li>
+<a href="#security_safeguards">Security Safeguards</a>
+</li>
+<li>
+<a href="#access_to_personal_information">Access to Personal Information</a>
+</li>
+</ul>
+</nav>
+</div>
+<section>
+<div class="companypagelink companypagelink--sidebar">
+<img alt="House" class="hidden-xs" src="http://assets0.rew.ca/assets/icons/xxxlarge/house-fcdb84f6b7c0a95685e3a8e35b62dff7.png">
+<p>Learn More About Our Company</p>
+<a class="btn btn-primary" href="/about-us">About REW.ca</a>
+</div>
+
+<div class="companypagelink companypagelink--sidebar">
+<img alt="Monitor" class="hidden-xs" src="http://assets2.rew.ca/assets/icons/xxxlarge/monitor-ade62f5da4b0134865dd60fc3314ecd9.png">
+<p>Have any questions? We love to talk!</p>
+<a class="btn btn-primary" href="/contact-us">Contact Us</a>
+</div>
+
+</section>
+</div>
+</div>
 </div>
 
 <!-- mp_trans_disable_end -->
 
-</div>
 </section>
 
-
-<footer class="footer-wrapper">
-<div class="footerbody container">
-<div class="footerbody-pagecap">
+<footer>
+<div class="pageblock pageblock--content backgroundfill backgroundfill--color-offwhite container visible-md visible-lg">
 <div class="contentsection--homepage-title">
 Browse Real Estate
 </div>
@@ -452,7 +493,7 @@ Browse Real Estate
 <div class="footerpagecaplist-title">
 By City
 </div>
-<ul class="nobulletlist footerpagecaplist-list">
+<ul class="list-unstyled footerpagecaplist-list">
 <li>
 <a href="/properties/areas/abbotsford-bc">Abbotsford</a>
 </li>
@@ -486,15 +527,15 @@ By City
 <div class="footerpagecaplist-title">
 By Neighbourhood
 </div>
-<ul class="nobulletlist footerpagecaplist-list">
+<ul class="list-unstyled footerpagecaplist-list">
 <li>
-<a href="/properties/areas/brookswood-langley-langley-bc">Brookswood Langley</a>
+<a href="/properties/areas/brookswood-langley-langley-bc">Brookswood</a>
 </li>
 <li>
 <a href="/properties/areas/collingwood-vancouver-bc">Collingwood</a>
 </li>
 <li>
-<a href="/properties/areas/downtown-vancouver-west-vancouver-bc">Downtown Vancouver West</a>
+<a href="/properties/areas/downtown-vancouver-west-vancouver-bc">Downtown West</a>
 </li>
 <li>
 <a href="/properties/areas/false-creek-vancouver-bc">False Creek</a>
@@ -523,7 +564,7 @@ By Neighbourhood
 <div class="footerpagecaplist-title">
 Real Estate Agents
 </div>
-<ul class="nobulletlist footerpagecaplist-list">
+<ul class="list-unstyled footerpagecaplist-list">
 <li>
 <a href="/agents/areas/abbotsford-bc">Abbotsford</a>
 </li>
@@ -561,30 +602,30 @@ Real Estate Agents
 <div class="footerpagecaplist-title">
 Latest Developments
 </div>
-<ul class="nobulletlist footerpagecaplist-list">
+<ul class="list-unstyled footerpagecaplist-list">
 <li>
-<a href="/developments/3130/bennington-hourse-vancouver">Bennington House, Vancouver</a>
+<a href="/developments/3149/1555-west-eighth-vancouver">1555 West Eighth, Vancouver</a>
 </li>
 <li>
-<a href="/developments/3134/brooklyn-village-surrey">Brooklyn Village, Surrey</a>
+<a href="/developments/3142/cameron-burnaby">Cameron, Burnaby</a>
 </li>
 <li>
-<a href="/developments/3133/cityhomes-northgate-delta">CityHomes, Delta</a>
+<a href="/developments/3154/focal-point-surrey">Focal Point, Surrey</a>
 </li>
 <li>
-<a href="/developments/3129/hazel-coquitlam">Hazel, Coquitlam</a>
+<a href="/developments/3150/milano-burnaby">Milano, Burnaby</a>
 </li>
 <li>
-<a href="/developments/3131/novella-coquitlam">Novella, Coquitlam</a>
+<a href="/developments/3145/savile-row-burnaby">Savile Row, Burnaby</a>
 </li>
 <li>
-<a href="/developments/3132/park-metro-vancouver">Park&amp;Metro, Vancouver</a>
+<a href="/developments/3155/the-arc-vancouver">The Arc, Vancouver</a>
 </li>
 <li>
-<a href="/developments/3135/prodigy-vancouver">Prodigy, Vancouver</a>
+<a href="/developments/3148/the-leveson-vancouver">The Leveson, Vancouver</a>
 </li>
 <li>
-<a href="/developments/3136/west-five-vancouver">West Five, Vancouver</a>
+<a href="/developments/3143/west-7th-vancouver">WEST 7TH, Vancouver</a>
 </li>
 </ul>
 <a href="/sitemap/developments">View More »</a>
@@ -595,27 +636,25 @@ Latest Developments
 </div>
 </div>
 
+<div class="pageblock pageblock--footer backgroundfill backgroundfill--color-black footerlinks">
+<div class="container">
+<div class="footerlinks-inner">
+<div class="footerlinks-nav l-rowtocolumns">
+<div class="l-rowtocolumns-col1">
+<a href="/contact-us">Contact Us</a>
+<a href="/about-us">About Us</a>
+<a href="/advertise">Advertise with Us</a>
+<a href="/careers">Careers</a>
 </div>
-
-<div class="footerlinks">
-<div class="footernav">
-<div class="footernav-inner">
-<div class="container--fixed">
-<div class="footernav-top">
-<ul class="footernav-nav footernav-pages list-unstyled">
-<li><a href="/contact-us">Contact Us</a></li>
-<li><a href="/about-us">About Us</a></li>
-<li><a href="/advertise">Advertise with Us</a></li>
-<li><a href="/careers">Careers</a></li>
-<li><a href="/privacy">Privacy</a></li>
-<li><a href="/terms">Terms of Use</a></li>
-<li><a href="/sitemap">Sitemap</a></li>
-<li><a href="/users/agents/sign_in">Agent Log In</a></li>
-<li>
-<a href="/mobile/enable">Mobile Site
-</a></li>
-</ul>
-<ul class="footernav-social list-unstyled">
+<div class="l-rowtocolumns-col2">
+<a href="/privacy">Privacy</a>
+<a href="/terms">Terms of Use</a>
+<a href="/sitemap">Sitemap</a>
+<a href="/dashboard/agents">Agent Log In</a>
+</div>
+</div>
+<div class="footerlinks-social">
+<ul class="list-unstyled">
 <li>
 <a class="socialicon" data-dnt="true" data-lang="en-CA" data-show-count="false" data-show-screen-name="false" href="https://twitter.com/intent/follow?&amp;screen_name=REWca" target="_blank">
 <i class="icon-twitter"></i>
@@ -649,14 +688,10 @@ Latest Developments
 </ul>
 </div>
 </div>
-</div>
-</div>
-
-<div class="footernav footernav--muted muted small">
-<div class="footernav-inner">
-<div class="container">
+<div class="row">
+<div class="footernav small">
 <!-- mp_trans_disable_start -->
-  <ul class="footernav-nav">
+  <ul class="list-unstyled">
 <li>© 2015 Real Estate Weekly (REW.ca)</li>
 <li>
 A division of
@@ -668,10 +703,12 @@ A division of
 <!-- mp_trans_disable_end -->
 </div>
 </div>
-</div>
 
 </div>
-<div class="footerblurb">
+</div>
+
+<div class="pageblock pageblock--footer backgroundfill backgroundfill--color-charcoal footerblurb visible-md visible-lg">
+<div class="container">
 <div class="row">
 <div class="col-xs-10 col-xs-offset-1">
 <header>
@@ -679,33 +716,28 @@ Start Your Real Estate Search with REW.ca
 </header>
 <div class="footerblurb-body">
 <p>
-REW.ca is your best tool for Vancouver real estate search. You'll find both
-<a href="/properties/areas/vancouver-bc">Vancouver MLS ®</a>
-homes for sale and newly built homes and
-<a href="/developments/areas/vancouver-bc">developments</a>.
-MLS search covers the real estate boards of
+REW.ca is your best tool for real estate search in the Vancouver area. You'll find
+both MLS® homes for sale and newly built homes and developments. MLS® listing search
+covers the real estate boards of
 <a href="/sitemap/real-estate">Greater Vancouver</a>,
 the
-<a href="/sitemap/real-estate/fraser-valley">Fraser Valley, Chilliwack</a> and
-<a href="/sitemap/real-estate/whistler-squamish">Whistler</a>.
+<a href="/sitemap/real-estate/fraser-valley">Fraser Valley, Chilliwack</a>,
+<a href="/sitemap/real-estate/vancouver-island">Vancouver Island</a>,
+and <a href="/sitemap/real-estate/whistler-squamish">Whistler</a>.
 <a href="/users/sign_up">Sign up</a>
-for free to receive property alerts about new
-Vancouver MLS listings that match your searches. As
-well as searching for homes for sale, you can find the best mortgage rates
-with REW.ca's online
-<a href="/mortgage">mortgage calculator</a>,
-or locate a
-<a href="/agents/areas/vancouver-bc">Vancouver real estate agent</a>
-to buy or sell your home.  Research BC
-<a href="/news">real estate news</a>
-and find out about Vancouver neighbourhoods and local
-amenities. It's a better way to do real estate search.
-</p>
-<p>
-REW.ca is the online arm of the largest real estate market newspaper in the Lower Mainland:
-Real Estate Weekly.
+for free property alerts about new MLS® listings that match your searches.
+<!-- mp_trans_remove_start -->
+  Research BC <a href="/news">real estate news</a>
+and find out about Lower Mainland and Vancouver neighbourhoods and local
+amenities.
+
+<!-- mp_trans_remove_end -->
+It's a better way to do real estate search.
 </p>
 
+<p>REW.ca is the online arm of the largest real estate market newspaper in the Lower Mainland: Real Estate Weekly.</p>
+<p>The trademarks MLS®, Multiple Listing Service® and the associated logos are owned by CREA and identify the quality of services provided by real estate professionals who are members of CREA.</p>
+</div>
 </div>
 </div>
 </div>
@@ -713,14 +745,32 @@ Real Estate Weekly.
 
 </footer>
 
-<script src="http://assets3.rew.ca/assets/application-db2757cd0f8f1bcb85095f7ad7337349.js"></script>
+<script src="http://assets3.rew.ca/assets/application-74e1eceef2521ee13e75dc094a767c92.js"></script>
+<script>
+  $(function(){
+    $('[data-toggle=offcanvas]').each(function(index, el){
+      new REW.Offcanvas(el);
+    });
+  })
+</script>
 <script>
   $(function(){
     REW.logged_in = null;
   })
 </script>
+<script>
+  $(function(){
+    (function() {
+      var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+      po.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  
+      !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.type='text/javascript';js.async=true;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+    })();
+  })
+</script>
 
-<script src="http://assets0.rew.ca/assets/motionpoint-35b02d1cf6dff71f2aa8e78caf2c9c4f.js"></script>
+<script src="http://assets1.rew.ca/assets/motionpoint-28b7a893ceb212ceb5d9784019eefec1.js"></script>
 <script id="mpelid" src="//zh.rew.ca/mpel/mpel.js" type="text/javascript"></script>
 
 
