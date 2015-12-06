@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jotwell.us privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608014744id_/http%3A//jotwell.us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jotwell.us privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141302id_/http%3A//www.jotwell.us/privacy.html) for the most accurate reproduction.*
 
 # Jotwell Web Directory - Privacy Policy
 
