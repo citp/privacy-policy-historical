@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the c2w.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144530id_/http%3A//blog.c2w.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c2w.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141357id_/http%3A//blog.c2w.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | c2w.com - News and Updates
+# Privacy Policy | c2w.com – News and Updates
 
 1\. General Principles
 
@@ -13,11 +13,11 @@ We also cannot warrant the security of the information, which you transmit to us
 We categorise information about you (collectively referred to as “Personal Information”) as follows:
 
 *  **Profiling Information:** Information which you provide when you Subscribe or register for a Service  
-\- Information about your personal identity such as race, gender, marital status, religion, age etc.;  
-\- Your financial information such as your banking details and any information relating to your income and lifestyle levels; and  
-\- Your contact details such as your physical addresses, postal addresses, telephone and fax numbers and the like.  
-\- Payment and Account Information: Your account history with us including (without limitation) all billing information and communications, payment history etc.  
-\- We maintain this in encrypted form on secure servers.
+– Information about your personal identity such as race, gender, marital status, religion, age etc.;  
+– Your financial information such as your banking details and any information relating to your income and lifestyle levels; and  
+– Your contact details such as your physical addresses, postal addresses, telephone and fax numbers and the like.  
+– Payment and Account Information: Your account history with us including (without limitation) all billing information and communications, payment history etc.  
+– We maintain this in encrypted form on secure servers.
 
 *  **Service Usage:** Information about your navigation using our Services, for example the URLs of websites, which you visit and from which you request downloads.
 
