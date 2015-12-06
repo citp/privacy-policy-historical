@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theawesomer.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608175343id_/http%3A//theawesomer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theawesomer.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206132043id_/http%3A//theawesomer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy & Cookie Policy
 
-Please read this Privacy Policy carefully before using or proceeding to access this website. Your use of this website indicates you have read and understood this Privacy Policy and indicates your agreement to abide by the terms herein.
+Please read this Privacy & Cookie Policy carefully before using or proceeding to access this website. Your use of this website indicates you have read and understood this Privacy & Cookie Policy and indicates your agreement to abide by the terms herein.
 
 **INFORMATION GATHERED.** Awesomer Media (“Company” or “we”) collects certain anonymous data regarding the usage of the website. This information does not personally identify users, by itself or in combination with other information, and is gathered to improve the performance of the website. By way of example, we may use services such as Google Analytics and Chartbeat to collect aggregate information on unique visits, pageviews, browsers used, IP addresses, and similar information. In addition, the website uses cookies to store information about visitor preferences, record user-specific information on which pages the user accesses or visits, and customize content based on the visitor’s browser type or other information that the visitor sends via their browser.
 
@@ -11,6 +11,8 @@ Additionally, visitors who submit information via our Contact, Suggest Story, Em
 Except as described below, we will never sell or otherwise distribute your email address, IP address, or any other identifying information to outside parties unless required by law.
 
 In the event of a sponsored contest, giveaway, or other similar post, we may collect and share additional data with the sponsor. Refer to the terms and conditions on the specific contest entry form for full details.
+
+**COOKIES.**  We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners.
 
 **OTHER DISCLOSURE OF INFORMATION.  **We may disclose personally identifiable information in order to respond to a subpoena, court order or other such request. We may also provide such personally identifiable information in response to a law enforcement agency’s request or as otherwise required by law. Your personally identifiable information may be provided to a party if we file for bankruptcy, or there is a transfer of the assets or ownership of the Company in connection with proposed or consummated corporate reorganizations, such as mergers or acquisitions.
 
@@ -24,10 +26,8 @@ Our advertising partners include, but are not limited to:
   4. Technorati Media Network
   5. Amazon
   6. Digital Trends Network
-  7. Advertising.com
+  7. Sovrn
   8. SkimLinks
-  9. Sovrn
-  10. TripleLift
 
 
 
@@ -51,4 +51,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 **CORRECTIONS AND UPDATES.** If you have any questions or suggestions regarding our Privacy Policy, please contact the editor of the website in question or send an email to contact@theawesomer.com
 
-**EFFECTIVE DATE: 5/30/2015**
+**EFFECTIVE DATE: 7/30/2015**
