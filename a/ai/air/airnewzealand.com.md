@@ -1,96 +1,82 @@
-> *The following text is extracted and transformed from the airnewzealand.com privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406014252id_/http%3A//www.airnewzealand.com/privacy-policy-highlights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airnewzealand.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206062836id_/http%3A//www.airnewzealand.com/privacy-policy) for the most accurate reproduction.*
 
-# Air New Zealand′s Privacy and Security Policy Highlights - Legal - Information - Air New Zealand - United States Site
+# Air New Zealand Privacy Policy - Legal - Information - Air New Zealand
 
-This notice provides highlights of [Air New Zealand's Privacy and Security Policy](https://web.archive.org/privacy-policy), which applies to all personal information that we and our related corporations collect and use about our customers.
+### 1.1 Cookies and online tracking technologies
 
-This notice does not comprehensively set out to our customers Air New Zealand's Privacy and Security Policy and we recommend that all of our customers read Air New Zealand's Privacy and Security Policy which can be accessed by clicking on the link underneath the heading "Important Information" below.
+We use cookies and similar technology on our websites to allow us to improve site performance and enhance your online experience. 
 
-## Important Information
+Please read our [Cookie Policy](https://web.archive.org/cookie-policy) to learn about the cookies and other online tracking technologies used on Air New Zealand websites, mobile applications and mobile websites to collect personal information about you from your computer, mobile or other device.
 
-To view the complete version of Air New Zealand's Privacy and Security Policy [click here](https://web.archive.org/privacy-policy).
+If you visit an Air New Zealand website, mobile application or mobile website, we and third parties may use cookies and other online tracking technologies to collect personal information about you from your computer, mobile or device. This information may include:
 
-If you have any questions about the privacy and security of your personal information, would like to access, correct, update or remove your personal information or if you have a complaint about a breach of your privacy, please [contact us](https://web.archive.org/contact-us).
-
-## Personal Information
-
-[Additional Details](https://web.archive.org/web/20110406014252id_/http%3A//www.airnewzealand.com/privacy-policy#protection)
-
-The types of personal information we collect from you will depend on the circumstances in which that information is provided and the type of service that you have requested from us.
-
-We collect personal information about our customers through our websites and in person, over the telephone and through travel agents, the Airpoints™ programme and Koru™ membership.
-
-If you provide information to us about another person (such as a spouse, relative or travelling companion) then you are responsible for making that individual aware that you have disclosed their personal information to us and that we can use their information as set out in Air New Zealand's Privacy and Security Policy. Please direct them to the Air New Zealand's Privacy and Security Policy which can be accessed by clicking on the link underneath the heading "Important Information".
-
-We may use common internet technologies such as cookies or local shared objects on our websites and our emails. A cookie or a local shared object is information that a website puts on your hard disk so that it can remember something about you at a later time.
-
-If you choose not to provide us with your personal information then we may not be able to:
-
-  * offer our services to you;
-  * complete a transaction; or
-  * meet any special needs or requests you may have.
+  * your domain name and your IP address;
+  * your online Air New Zealand Account password information;
+  * your internet browser software and type of computer or mobile device used;
+  * your operating system and platform;
+  * your device geo-locator information (if you have downloaded our mobile application) so we can provide you with flight arrival and travel information;
+  * your preferred webpage layout and language preferences;
+  * the path you took to get to our websites;
+  * information about your online activity on our websites, such as web pages viewed, paths you used through our websites, options you selected and the search terms you used;
+  * the bookings you made on our websites and the bookings you abandoned, including the information you entered when you made or started to make a booking; and
+  * if you visit the online Airpoints Mall, information about your online activity, browsing preferences and online retailer purchases.
 
 
 
-Further, if you choose **not** to provide us with your personal information you may not be eligible for membership of our services and/or to enter into our promotions.
+### 1.2 Booking information 
 
-## Uses of Information
+We collect and use the personal information that you provide to Air New Zealand and to ‘Reservations Agents’ and the information that Reservation Agents provide to us in relation to your bookings for flights and travel related services (for example, if you make a booking or if a booking is made on your behalf). The term ‘Reservations Agents’ includes reservations agents of Air New Zealand and Air New Zealand Holidays, third party travel agents, third party online travel agents, airline customer service representatives and Airpoints representatives.
 
-[Additional Details](https://web.archive.org/web/20110406014252id_/http%3A//www.airnewzealand.com/privacy-policy#use-info)
+The personal information we may collect about you in relation to a booking includes your name, address, date of birth, nationality, passport number, credit card details, bank account details, phone numbers, email address, flight and other travel details, your special meal or special assistance requests, loyalty programme membership, the identity of persons who may be travelling with you on your booking, their personal details, if provided, and any other personal information you may volunteer (or which may be volunteered on your behalf) as part of the booking.
 
-The purposes for which your personal information will be used by us will depend on the circumstances in which that information is collected. We may use the personal information we collect:
+### 1.3 Information we receive from other sources
 
-  * to assist in providing the services you request, including flight bookings and identity verification for website access;
-  * to process any communications you request ;
-  * to administer your membership in Airpoints and/or Koru;
-  * to conduct surveys and internal research;
-  * to provide flight reminder SMS alerts and other electronic information services;
-  * to assist Customs and Immigration officials;
-  * to comply with laws and regulations in applicable jurisdictions;
-  * to identify and present offers from us or from third parties that may be of interest to you;
-  * any other use that you authorise.
+If you make a booking with us, use any of our services or use our websites, we may receive information about you from third parties. We work closely with third parties (including for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
 
+If you are an Airpoints Member or if you hold any account associated with us, you acknowledge and agree that we may collect personal social media information about you, either from you directly or from third parties (if the information is publically or commercially available). Such personal social media information will supplement our customer databases and will be processed by us for marketing and business development purposes in accordance with this Privacy Policy.
 
+### 1.4 Sensitive information
 
-If we disclose your personal information to third parties (such as data processing organisations) for any of the purposes described here, we will take reasonable steps, where we are in a position to do so, to require the third parties to strictly comply with our instructions and not use the information for any other purpose.
+We may request and collect (from you or a Reservations Agent) your ‘sensitive information’, such as information about your religious beliefs or health / dietary requirements, for the purpose of helping to fulfil your special needs requests (for example if you have requested a special meal for health or religious reasons). We may disclose ‘sensitive information’ about you to our agents and third parties (such as airports, catering companies and their business partners) for the purpose of fulfilling your special needs requests. These agents and third parties may be located outside of New Zealand or the European Economic Area in countries who may not have data protection laws that are comparable to the laws of the country in which you reside.
 
-There are some circumstances in which we will not be in a position to require third parties to comply with Air New Zealand's Privacy and Security Policy. This includes for example, where you use links on Air New Zealand's website to access other websites (as described below underneath the heading "Protection of personal information").
+Whenever you provide us with sensitive information (including information about your physical and/or mental health, race, religious and other similar beliefs and criminal records), you consent to Air New Zealand processing your sensitive information in accordance with this Privacy Policy.
 
-We may share your personal information if required to do so by law, court order, subpoena or other legal process, as requested by a governmental or law enforcement authority, or when we believe in good faith that it is in the interests of aviation security or that disclosure is otherwise necessary or advisable.
+### 1.5 Medical and other occasions
 
-Disclosures may include the transfer of your personal information between countries which is necessary for the purpose of completing the transaction and performing our services. These locations may include countries that do not have comparable laws protecting the privacy of personal information.
+We may collect and disclose personal information about Air New Zealand passengers, including sensitive details about your physical and/or mental health, race, religious and other similar beliefs and criminal records, to third party medical, safety and/or security personnel if we believe that the collection or disclosure of the information is desirable to lessen or prevent a serious threat to an individual’s life, health or safety or a serious threat to public health or public safety; or if we believe that it would be in the interests of aviation safety and security.
 
-## Your Choices
+We may collect (either directly or from third party airline carriers) personal information about passengers who exhibit disruptive behaviour onboard any aircraft. This may include the passenger’s name, flight booking details, and information about the nature of the disruptive behaviour. We may disclose this information to security personnel, law enforcement agencies and to third party airline carriers if we consider that disclosure is reasonably appropriate in the interests of aviation safety and security.
 
-[Additional Details](https://web.archive.org/web/20110406014252id_/http%3A//www.airnewzealand.com/privacy-policy#access)
+### 1.6 Koru Members
 
-  * You may access, correct or delete your personal information, at any time. If you have registered as a user on an Air New Zealand website, you may access and update your information by logging in with your username and password. Otherwise, you may contact us.
-  * You may unsubscribe from our email communications at any time by clicking on the "Unsubscribe" link in any Air New Zealand special offer email or Airpoints email you receive. If at any time you are unsure of how to access or correct your information, please contact us.
-  * If you are an Airpoints member and you do not want us to use or share your personal information for the purpose of sending you email marketing or promotional materials, please go to the "My Profile" page on our website and update your email preferences accordingly.
-  * Our website is not intended for the use of minors under the age of 18. We do not knowingly market to, or solicit data, from minors. We cannot distinguish the age of persons who access and use our websites. If a minor (according to applicable laws) has provided us with personal information without parental or guardian consent, the parent or guardian should contact us to remove the relevant personal information.
-  * If you are of the view that we have breached your privacy, please [contact us](https://web.archive.org/web/20110406014252id_/http%3A//www.airnewzealand.com/contact-us).
+If you are a Koru Member, we collect the personal information you provide us as part of your Koru membership and information about your use of Koru membership benefits, in addition to any personal information collected as part of your Airpoints membership (see section 1.7 below). This personal information may be processed for the purposes described in section 2 below.
 
+### 1.7 Airpoints Members
 
+If you are an Airpoints Member, we collect personal information about your Airpoints membership. This includes the information you provide on your Airpoints application form; your Airpoints number, your online Air New Zealand Account password information; your travel history; country of residence; information about any giftees you may register on your Gifting Register; and if you choose to complete an optional ‘Travel Profile’ on our website, we will collect this information.
 
-## Protection of personal information
+Information from social media may be collected about Airpoint Members, from third parties, in accordance with section 1.3 of this Privacy Policy.
 
-[Additional Details](https://web.archive.org/web/20110406014252id_/http%3A//www.airnewzealand.com/privacy-policy#protection)
+We also collect personal information about you from our Airpoints Partners including information about your transaction and purchase history at retail stores and online stores, where you use your Airpoints membership, and/or where you earn Airpoint Dollars and Status Points.
 
-  * When you book flights or access your Airpoints information via one of our websites, a secure server is used. We use industry standard data encryption for transmission of any personal information including credit card details you provide online.
-  * In order to protect your privacy and our databases/systems, we recommend that you not share any of your personal information, such as Airpoints membership number (PAC number) or password, with any third-party information aggregators that would allow them access to sensitive account information.
-  * Our website provides links to other websites for your convenience and assistance. If you use these links then you leave our website. Please note that these websites may have different security and privacy policies and we do not accept any responsibility and/or any liability for any information that you divulge to these sites and how these websites or the organisations that own and manage those websites may collect or use your personal information.
-  * We will take all reasonable steps to ensure that any personal information we collect is secure, accurate and up to date and is protected against loss, theft and unauthorised use or modification. Whilst we will take all reasonable steps to protect your personal information, we cannot guarantee the security of any personal information that we collect and accordingly, personal information you provide to us is provided at your own risk. Please [contact us](https://web.archive.org/web/20110406014252id_/http%3A//www.airnewzealand.com/contact-us) immediately if you believe that your personal information has not been protected.
+We may collect personal information about you from third parties to verify your identity and address.
 
+We may collect personal information about you from our third party business partners to assist in identifying suitable offers and promotions from us and our third party business partners that you might be interested in. We may also collect personal information about you that is publically available.
 
+If you are an Air New Zealand Airpoints credit card holder, OneSmart or Travelcard holder, we may collect personal information about you from our third party business partners about your membership and use of these products, including transaction history information.
 
-## Banned carriers
+If you apply for or hold an Air New Zealand Airpoints credit card, we may collect personal information from Kiwibank and MasterCard in relation to your application for and the use of your Air New Zealand Airpoints credit card, including your transaction history information.
 
-All air carriers operating in the European Union are required to bring to the attention of passengers the list of air carriers subject to an operating ban within the European Union, which is prepared by the European Commission and periodically updated. The current list and further related information can be found on the [European Commission website](http://ec.europa.eu/transport/air-ban/list_en.htm). Please be assured that any contract of carriage you enter into with us will not involve a flight with a carrier on the banned list.
+If you apply for or hold an OneSmart Account, we may collect personal information about you from BNZ and MasterCard in relation to the use of your OneSmart Account, including your transaction history information.
 
-## Changes to Air New Zealand's Privacy and Security Policy
+If you are an Airpoints Member, we may also collect, use and disclose personal information about you in accordance with the [Airpoints Terms and Conditions](https://web.archive.org/airpoints-terms-and-conditions).
 
-Air New Zealand may change its Privacy and Security Policy from time to time. If we change our Privacy and Security Policy, we will also change the date recorded below as the date on which the policy was last updated. Changes to Air New Zealand's Privacy and Security Policy will be displayed on our website.
+### 1.8 Promotions and surveys
 
-We recommend that you routinely review our Privacy and Security Policy.
+If you enter an Air New Zealand competition or promotion, we will collect the information you provide as part of your entry. If you provide us with the names and contact details of any other people that you would like to have participate in our contests or promotions, we will also collect this information, and we draw your attention to section 6 below.
 
-Last updated 12 June 2009
+If you complete a survey conducted by or on behalf of Air New Zealand, including an ‘airnzmyvoice’ survey, we will collect information about you in your survey answers, including your name, unless you choose to answer anonymously.
+
+### 1.9 Inflight entertainment and purchases
+
+If you travel on an Air New Zealand flight, we may collect information about your use of the onboard inflight entertainment system. This may include information about: your inflight purchases; your inflight entertainment setting preferences; your audio and audio-visual preferences and playlists; and your survey answers, if you choose to complete a survey using the inflight entertainment system.
