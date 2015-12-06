@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarins.com.au privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120130241id_/http%3A//www.netfleet.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarins.com.au privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206032506id_/http%3A//www.netfleet.com.au/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Buy & Sell Domains | Netfleet: Australia's No.1 Domain Name Trading Platform
 
@@ -17,7 +17,7 @@ What types of personal information do we collect?
 
   * We collect personal information about you to enable us to provide the best possible service in relation to your domain name needs. The types of personally identifiable information that we may collect include your name, address, telephonenumber number and ABN. 
 
-When we request your personal information, we will endeavour to specify which information we require for our purposes and which information may be provided at your option. You may choose not to supply any optional information requested by us but our ability to assist you may be restricted. 
+When we request your personal information, we will endeavour to specify which information we require for our purposes and which information may be provided at your option. You may choose not to supply any optional information requested by us but our ability to assist you may be restricted.
 
 
 
@@ -37,7 +37,7 @@ At any time you may opt out of receiving any communications from us. If you wish
 
 1) When explicitly instructed to do so by yourself 2) As required to effect a domain name transfer or other service where required 3) As part of a promotion you may have entered (eg expired domain report) 
 
-Otherwise, we do not disclose personal information unless we are required to do so by law or regulation. 
+Otherwise, we do not disclose personal information unless we are required to do so by law or regulation.
 
 
 
@@ -63,10 +63,12 @@ If you believe for any reason that we are holding inaccurate or incomplete data 
 
 
 
+As you browse this website and other websites, online ad networks we work with may place anonymous cookies on your computer, and use similar technologies, in order to understand your interests based on your (anonymous) online activities, and thus to tailor more relevant ads to you.   If you do not wish to receive such tailored advertising, you can visit this page to opt out of most companies that engage in such advertising.  (This will not prevent you from seeing ads; the ads simply will not be delivered through these targeting methods.) 
+
 #### How can we be contacted?
 
   
 You can make any requests relating to your personal information held by us by contacting any member of staff via our [Contact Us](https://web.archive.org/index.php?a=contact "Contact Us") form.
 
   
-
+﻿ 
