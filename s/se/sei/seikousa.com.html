@@ -1,317 +1,271 @@
-<!--The following is the downloaded HTML source of the seikousa.com privacy policy that was archived on 2013-03-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130327213324id_/http%3A//www.seikousa.com/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seikousa.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206153035id_/http%3A//seikousa.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
+<!DOCTYPE html><html><head>
+<meta charset="utf-8">	<meta name="viewport" content="width=1050">
+<title>Seiko USA / Privacy Policy</title>
+<meta name="Description" content="Copyright© 2007-2013, SEIKO WATCH CORPORATION.">
+<meta http-equiv="expires" content="Wed, 29 Jul 2014 05:00:00 GMT">
+<meta http-equiv="pragma" content="no-cache">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<link href="/css/euphemia.css" rel="stylesheet" type="text/css">	<link href="/css/global.css?v=2" rel="stylesheet" type="text/css">
+	<link href="/css/jimmie-contest.css" rel="stylesheet" type="text/css"><link type="text/css" rel="stylesheet" href="/search/templates/standard/search.css">
+<!-- suggest script -->
+<style type="text/css">@import url("/search/include/js_suggest/SuggestFramework.css");</style>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/search/include/js_suggest/SuggestFramework.js"></script>
+<script type="text/javascript">window.onload = initializeSuggestFramework;</script>
+<!-- /suggest script -->
 
-
-
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
-<meta http-equiv="content-script-type" content="text/javascript">
-
-<meta http-equiv="content-style-type" content="text/css">
-
-
-
-<meta name="keywords" content="">
-
-
-
-<meta name="description" content="">
-
-
-
-<meta name="copyright" content="Copyright(C) 2007, SEIKO WATCH CORPORATION.">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript" src="/javascript/jquery.browser.js"></script>
+<script type="text/javascript" src="/javascript/jquery.custom_rollover.js"></script>
+<script type="text/javascript" src="/javascript/jquery.easing.1.3.js"></script>
 
 
 
-<title>Privacy | SEIKO CORPORATION OF AMERICA</title>
 
+<script type="text/javascript">
+	if(!(window.console && console.log)) {
+	  console = {
+		log: function(){},
+		debug: function(){},
+		info: function(){},
+		warn: function(){},
+		error: function(){}
+	  };
+	}
+	
+$(document).ready(function() {
+	//Custom Rollover for Social Links
+	$('#facebook').custom_rollover(0,14);
+	$('#twitter').custom_rollover(-14,14);
+	$('#youtube').custom_rollover(-28,14);
+	$('#pinterest').custom_rollover(-42,14);
+	$('#instagram').custom_rollover(-56,14);
+	
+	//Product Gallery Link
+	$('.exploreGallery').custom_rollover(192,0);
+	
+	
+	//Special Contents
+		
+	// thumb_nav
+	$('.thumb_nav').mouseover(function(){
+		var sel = this.id;
+		$('.thumb_nav').each(function(index, element) {
+			if(element.id == sel){
+				$(element).find('.nav_icon').stop().animate({marginLeft:10}, 300)
+			}else{
+				$(element).find('.nav_icon').stop().animate({marginLeft:0}, 300)
+			}
+		});
+	})
+	$('.thumb_nav').mouseout(function(){
+		$('.thumb_nav').each(function(index, element) {
+				$(element).find('.nav_icon').stop().animate({marginLeft:0}, 300)
+		});
+	})
+	
+	//Left Nav Styling
+	leftNavElements = $('#leftSubNav').find('li').length-1;
+	$('#leftSubNav').find('li').each(function(index) {
+        if (index == leftNavElements) {
+			$(this).addClass('end');
+		} else {
+			$(this).addClass('branch');
+		}
+    });
+	
+	//First Paragraph
+	$('h1').next('p').css({
+		'margin-top':'20px',
+		'margin-bottom':'20px'
+	});
+	
 
-
-<link href="../common/css/default.css" rel="stylesheet" type="text/css" media="all">
-
-<link href="css/local.css" rel="stylesheet" type="text/css" media="all">
-
-
-
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="../common/js/default.js" type="text/javascript"></script>
+		
+	
+	// Search Box Text
+	$('#headerSearch').focus(function(){
+		if ($(this).val() == "Search by Name or Model Number" || $(this).val() == "" ) {
+			$(this).val('');
+		}
+	});
+	$('#headerSearch').blur(function(){
+		if ($(this).val() == "") {
+			$(this).val('Search by Name or Model Number');
+		}
+	});
+	
+});
+</script>
 <!-- Google Analytics -->
 <script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-18269598-1']);
-  _gaq.push(['_trackPageview']);
+		
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	ga('create', 'UA-18269598-1 ', 'auto', {'allowLinker': true});
+	
+	ga('require', 'linker');
+	
+	ga('linker:autoLink', ['seikousa.com ','seikowatches.com']);
+	
+	ga('require', 'displayfeatures');
+	
+	ga('send', 'pageview'); 
 
-</script>
-
-
-</head>
+</script></head>
 
 <body>
-
-
-
-<div id="wrapper">
-
-
-
-	<div id="header">
-
-	
-
-		<div id="logo">
-
+<!-- hidesearch start -->
+  	<div class="lightboxOverlayGrey" style="display:none"></div>
+    <div id="legalLightbox">
+      <div id="legalLightboxClose"><div>X</div></div>
+        <div id="rulesContainer">
+        </div>
+    	</div>
 		
-
-			<h1><a href="../index.html"><img src="../common/images/logo_seiko_130.png"></a></h1>
-
-			
-
-			
-
-			
-
-		</div><!-- #logo end -->
-
-	
-
-		<div id="globalmenu">
-
-			
-
-			<ul>
-
-				<li id="global01"><a href="../products/index.html">Products</a></li>
-
-				<li id="global02"><a href="../technology/index.html">Technology</a></li>
-
-                <li id="global03"><a href="../watchfinder/index.html">Watch Finder</a></li>
-
-				<li id="global04"><a href="../story/index.html">SEIKO Story</a></li>
-
-				<li id="global05"><a href="/storelocator/storelocator.php">Store Locator</a></li>
-
-				<li id="global06"><a href="../registration/index.html">Watch Registration</a></li>
-				<li id="global07"><a href="../support/index.html">Support</a></li>
-
-			</ul>
-
-		
-
-		</div><!-- #globalmenu end -->
-
-	
-
-		<div class="clear"></div>
-
-	
-
-	</div><!-- #header end -->
-
-
-
-	<div id="breadcrumb">
-
-		<a href="../index.html">Home</a> &gt; Privacy
-
-	</div><!-- #breadcrumb end -->
-
-
-
-	<div id="content">
-
-	
-
-		<div id="leftNavigation">
-
-			
-
-			<div id="lnaviWrapper">
-
-			
-
-				<h2>Privacy</h2>
-
-			
-
-				<ul>
-
-					<li><a href="privacy.html" class="on">Privacy</a></li>
-
-				</ul>
-
-				
-
-			</div>
-
-			
-
-		</div><!-- #leftNavigation end -->
-
-		
-
-		
-
-	
-
-	<!-- Page contents area is start here -->
-
-	
-
-		<div id="main">
-
-		
-
-			<h3 class="h3header">SCA Online Privacy Policy</h3>
-
-				
-
-				<div class="column">
-				  <p>Protecting one’s privacy is of paramount  importance to SCA. SCA has developed a policy recognizing and protecting the  privacy of consumers and retail customers who browse SCA’s <a href="http://www.seikousa.com/">www.SeikoUSA.com</a> website for its Seiko  watch brand. SCA has established the following Website Privacy Policy to  protect “customer identifiable” information consistent with applicable federal,  state and local laws. SCA Protects Online “Customer Identifiable” information  as follows” </p>
-				</div>
-
-				
-
-				<!-- Provision of Personal Information start -->
-
-				
-
-		  <h4 id="provision" class="h4headerbg">“Customer Identifiable” information.</h4>
-					<div class="column">
-                    
-                    SCA acknowledges that the growth on online services, including internet services, has created additional privacy concerns, especially for consumers. Such concerns primarily focus on the protection of “customer identifiable” information, which individual or retail customers reasonable expect to be kept private. “Customer identifiable” information is that information, which can be associated with a specific individual or entity (for example, a customer’s name, address or telephone number, email address and certain information about online activities that are directly linked to them).
-                    </div>
-<h4 id="provision" class="h4headerbg">Collection and Use. </h4>
-					
-
-					<div class="column">
-
-						We collect customer identifiable information in order to conduct business and provide products and services that interest you. SCA may collect customer identifiable information (such as name, address, telephone number etc.) at this website of in the course of responding to consumer/retailers inquires about our products and/or requests for product serving. SCA will collect and use customer identifiable information for billing purposes to anticipate and resolve problems with product servicing or to inform you of products of services that better meet your needs. While SCA may user your “customer identifiable information” together with information obtained via other sources, to market new products and services, which SCA considers may be of interest to you, SCA will not disclose your customer identifiable information to third parties who may want to market other products or services to you.  Online customers are asked to provide various identifiable information in connection with warranty registrations, sweepstakes or questionnaires, or when using the store locator. In addition, if you contact us with an inquiry, you are voluntarily releasing to us all the information with in your messages. 
-					</div>
-
-				
-
-					<div class="pagetop">
-
-					
-
-						<a href="#wrapper">Page Top</a>
-
-						
-
-					</div>
-
-					
-
-				<!-- Provision of Personal Information end -->
-
-				
-
-				
-
-				<!-- Security start -->
-
-				
-
-				<h4 id="security" class="h4headerbg">Security</h4>
-
-					
-
-					<div class="column">
-
-							SCA uses appropriate technologies to safeguard Customer Identifiable Information.
-
-					</div>
-
-					
-
-				    <br>
-			        <div class="column">
-
-			          <p>Disclosure. SCA will not sell, trade or disclose to third parties any customer identifiable information derived from a consumer or retail customers use of an SCA website without the written consent of there consumer or retail customer as the case may be (except as may be required by law, court order, or to cooperate with a law enforcement request or in connection with a lawsuit). Also, when SCA utilizes other agents, contractors or companies to perform services on its behalf, SCA will seek to ensure that the company agent will protect your customer identifiable consistent with this Policy. In the event SCA includes your name, address and any other customer identifiable information in a directory that SCA creates for its Authorized dealers, etc., SCA will give you the opportunity to have your information excluded from the directories. In order to have your information excluded from the directories you may instruct us to do so, by sending an email to SeikoInfoNetwork@seikousa.com or providing us with written notification addressed as follows: SEIKO Corporation of America, 1111 Macarthur Blvd, Mahwah, NJ 07430, Attention: Marketing Department. Business directories that SCA creates may contain information obtained other sources, such as retail stores, in addition to any information collected at our website. Please be aware the SCA cannot remove your “customer identifiable” information from any directory that has been circulated to our Authorized dealers in hard copy form. 
-
-                        <br>
-                        <br>
-
-Customer Choice. A consumer or retail customer may choose not to receive direct marketing communications for SCA either by sending and email to SeikoInfoNetwork@seikousa.com or providing us with written notification addresses as follows: SEIKO Corporation of America, 1111 Macarthur Blvd, Mahwah, NJ 07430, Attention: Marketing Department. If you opt out from receiving messages from us, SCA will not contact you directly with marketing messages. A customer may also choose not to receive such messages by telephone. If you choose to opt out from receiving information from SCA and later change your mind, simply send us an email or written notification to the email address or mailing address referred above to request inclusion of you contact information back into our database. 
-
-<br>
-<br>
-
-Changes to this Policy. SCA reserves the right to make changes to this policy in the future. If we change this Policy in any material way, we will post the revised version at this website and will include a new “last revised” date at the top of the page. We encourage you to check this page periodically to stay current on any changes to the policy.</p>
-			          <p><span class="pagetop"><a href="#wrapper">Page Top</a></span> </p>
-		  </div>
-
-		</div><!-- #main end -->
-
-		
-
-	<!-- Page contents area is end -->
-
-	
-
-	<div class="clear"></div>
-
-	
-
-	</div><!-- #content end -->
-
-
-
-	
-
-	<div id="footer">
-
-	
-
-		<div class="pagetop">
-
-		
-
-			<a href="#wrapper">Page Top</a>
-
-		
-
-		</div>
-
-		
-
-		<div id="footermenu">
-
-		
-
-			<a href="../requirement.html">System Requirement</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="privacy.html">Privacy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="../contact.html">Contact Us</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="../sitemap.html">Site Map</a>
-
-			
-
-		</div><!-- #footermenu end -->
-
-	
-
-		<div class="copyright">
-COPYRIGHT ©2007-2012 SEIKO WATCH CORPORATION<br>
-<span>Certain activities provided on this website may be covered by US Patent 5,930,474.</span>
+<div class="lightboxOverlayWhite"></div>
+<div id="headerBand"><!--headerBand-->
 </div>
+<div id="alpha">
+	<script type="text/javascript">
+		$(window).load(function() {
+			offsetLeft = $('#beta').offset().left + 30;
+			offsetRight = offsetLeft + $('#beta').outerWidth();
+			$('.promoContainer').css('left',offsetRight+'px');
+			//$('.beta').css('height','1000px');
+            $('.promo').click(function(e){
+				e.preventDefault();
+				$('.promoContainer').animate({left:offsetLeft+'px',width:'970px'},1000,
+					function(){
+						$(this).css('overflow','visible');
+				});
+			});
+			$('.promoBack').click(function(){
+				$('.promoContainer').animate({left:offsetRight+'px',width:'0px'},1000,
+					function(){
+						$(this).css('overflow','hidden');
+				});
+				e.preventDefault();
+			});
+			
+						
+        });
+	</script>            
+    
+    <!--sphider_noindex-->
+<header>
+<div id="header">
+	    <div id="logo"><a href="/"><img src="/images/logo.png" width="133" height="31" alt="Seiko"></a></div><!--/logo-->
+    
+        <div id="mainNavContainer">
+        <ul id="mainNav">
+                        <li class="singleLine"><a class="" href="/collections">Collections</a></li>
+            <li class="doubleLine"><a class="" href="/gallery">Product<br>Gallery</a></li>
+            <li class="doubleLine ambassadors"><a class="" href="/seiko-nation">Ambassadors<br><span>of the</span><br>Seiko Nation</a></li>
+            <li class="doubleLine"><a class="" href="http://store.seikowatches.com/us_en/">Store<br>Finder</a></li>
+            <li class="singleLine"><a class="" href="/boutique">Boutique</a></li>
+                    </ul><!--/mainNav-->
+    </div><!--/mainNavContainer-->
+    
+        <div id="search">
+    <form action="/search/search.php" method="GET">
+    	<button id="submit" type="submit"></button>
+        <input id="headerSearch" name="query" type="text" width="228" value="Search by Name or Model Number">
+        <input type="hidden" name="search" value="1">
+    </form></div><!--/search-->
+    
+    <div id="headerLinkWrapper">
+    	<a id="support" href="/support">Support</a>
+    	<a id="registration" href="/watch-registration">Watch Registration</a><br>
+    	    	<a id="seikoNation" href="/seiko-nation/join">Join the Seiko Nation</a>
+    </div>
+    <div id="socialLinksWrapper">
+    	<a class="socialLinks" id="facebook" href="https://www.facebook.com/Seiko" target="_blank">
+        	
+        </a>
+        <a class="socialLinks" id="twitter" href="http://twitter.com/seikowatches" target="_blank">
+        	<span class="displace">Twitter</span>
+        </a>
+        <a class="socialLinks" id="youtube" href="http://www.youtube.com/iloveSEIKO" target="_blank">
+        	<span class="displace">YouTube</span>
+        </a>
+        <a class="socialLinks" id="pinterest" href="http://pinterest.com/seikowatches/" target="_blank">
+        	<span class="displace">Pinterest</span>
+        </a>
+        <a class="socialLinks" id="instagram" href="http://instagram.com/seikowatchusa" target="_blank">
+        	<span class="displace">Instagram</span>
+        </a>
+            	
+    </div>
+    
+        <div id="breadcrumbs"><a href="/index.php">Home</a> <span class="separator">&gt;</span>Privacy Policy</div><!--/breadcrumbs-->
 
+</div><!--/header-->
+</header>
+<!--/sphider_noindex-->    
+    <div id="beta">
+
+    <div id="leftNavColumn" class="
+            equalHeights">
+    <!--sphider_noindex-->
+<!--/sphider_noindex-->	
+    </div><!--/leftNavColumn-->
+    
+<!-- hidesearch end -->   
+<div class="content  equalHeights"> <h1>SCA Online Privacy Policy</h1>
+<p>Protecting one’s privacy is of paramount importance to  SCA. SCA has developed a policy recognizing and protecting the privacy of  consumers and retail customers who browse SCA’s <u>www.SeikoUSA.com</u> website  for its Seiko watch brand. SCA has established the following Website Privacy  Policy to protect “customer identifiable” information consistent with  applicable federal, state and local laws. SCA Protects Online “Customer  Identifiable” information as follows”</p>
+<h2>“Customer  Identifiable” information.</h2>
+  SCA acknowledges that the growth on online services,  including internet services, has created additional privacy concerns,  especially for consumers. Such concerns primarily focus on the protection of  “customer identifiable” information, which individual or retail customers  reasonable expect to be kept private. “Customer identifiable” information is  that information, which can be associated with a specific individual or entity  (for example, a customer’s name, address or telephone number, email address and  certain information about online activities that are directly linked to them).<p></p>
+<h2>Collection and  Use.</h2>
+  We collect customer identifiable information in order  to conduct business and provide products and services that interest you. SCA  may collect customer identifiable information (such as name, address, telephone  number etc.) at this website of in the course of responding to  consumer/retailers inquires about our products and/or requests for product  serving. SCA will collect and use customer identifiable information for billing  purposes to anticipate and resolve problems with product servicing or to inform  you of products of services that better meet your needs. While SCA may user  your “customer identifiable information” together with information obtained via  other sources, to market new products and services, which SCA considers may be  of interest to you, SCA will not disclose your customer identifiable  information to third parties who may want to market other products or services  to you. Online customers are asked to provide various identifiable information  in connection with warranty registrations, sweepstakes or questionnaires, or  when using the store locator. In addition, if you contact us with an inquiry,  you are voluntarily releasing to us all the information with in your messages.<p></p>
+<h2>Security</h2>
+  SCA uses appropriate technologies to safeguard  Customer Identifiable Information.<p></p>
+<p>Disclosure. SCA will not sell, trade or disclose to  third parties any customer identifiable information derived from a consumer or  retail customers use of an SCA website without the written consent of there  consumer or retail customer as the case may be (except as may be required by  law, court order, or to cooperate with a law enforcement request or in  connection with a lawsuit). Also, when SCA utilizes other agents, contractors  or companies to perform services on its behalf, SCA will seek to ensure that  the company agent will protect your customer identifiable consistent with this  Policy. In the event SCA includes your name, address and any other customer  identifiable information in a directory that SCA creates for its Authorized  dealers, etc., SCA will give you the opportunity to have your information  excluded from the directories. In order to have your information excluded from  the directories you may instruct us to do so, by sending an email to  <a href="mailto:SeikoInfoNetwork@seikousa.com">SeikoInfoNetwork@seikousa.com</a> or providing us with written notification  addressed as follows: SEIKO Corporation of America, 1111 Macarthur Blvd, Mahwah,  NJ 07430, Attention: Marketing Department. Business directories that SCA  creates may contain information obtained other sources, such as retail stores,  in addition to any information collected at our website. Please be aware the  SCA cannot remove your “customer identifiable” information from any directory  that has been circulated to our Authorized dealers in hard copy form.</p>
+<p>Customer Choice. A consumer or retail customer may  choose not to receive direct marketing communications for SCA either by sending  and email to <a href="mailto:SeikoInfoNetwork@seikousa.com">SeikoInfoNetwork@seikousa.com</a> or providing us with written  notification addresses as follows: SEIKO Corporation of America, 1111 Macarthur  Blvd, Mahwah, NJ 07430, Attention: Marketing Department. If you opt out from  receiving messages from us, SCA will not contact you directly with marketing  messages. A customer may also choose not to receive such messages by telephone.  If you choose to opt out from receiving information from SCA and later change  your mind, simply send us an email or written notification to the email address  or mailing address referred above to request inclusion of you contact  information back into our database.</p>
+<p>Changes to this Policy. SCA reserves the right to make  changes to this policy in the future. If we change this Policy in any material  way, we will post the revised version at this website and will include a new  “last revised” date at the top of the page. We encourage you to check this page  periodically to stay current on any changes to the policy.</p>
+</div><!--/content-->
+<div class="clearfix"></div>
+</div><!--/beta-->
+<div id="footerWrapper">
+<!--sphider_noindex-->
+<footer>
+<div id="footer">
 	
-
-	</div><!-- div#footer end -->
-
-
-
-</div><!-- #wrapper end -->
-
-
-
-
-
-
+	    <ul id="footerNav">
+        <li><a href="/media-center">Media Center</a></li>
+        <li><a href="/corporate-gifts">Corporate Gifts</a></li>
+        <li><a href="/corporate/about-us">About Us</a></li>
+        <li><a href="/privacy">Privacy Policy</a></li>
+        <li><a href="/site-map">Site Map</a></li>
+        <li><a href="/contact-us">Contact Us</a></li>
+        <li><a href="/internet-purchase-warning">Internet Purchase Warning</a></li>
+            </ul>
+    <div id="footerCopyright">
+    Copyright© 2007-2015, SEIKO WATCH CORPORATION.
+    </div>
+</div>
+</footer>
+<!--/sphider_noindex--></div>
+</div><!--/alpha-->
+<div id="footerBand">
+<div id="footerHr"></div>
+</div><!--/footerBand-->
+<script type="text/javascript">
+	$(window).bind('load', function() {
+		//Column Adjustor 
+		//var highestCol = Math.max($('#leftNavColumn').outerHeight(),$('#content').outerHeight());
+		//alert(highestCol);
+		//$('.equalHeights').css('min-height',highestCol);
+		betaHeight = $('#beta').height();
+		$('.equalHeights').css('min-height',betaHeight);
+	});
+</script>
 
 </body></html>
