@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inboundpro.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607165814id_/http%3A//www.inboundpro.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboundpro.net privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206164020id_/http%3A//www.inboundpro.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Inbound
+# Privacy Policy | Inbound Pro
 
 Our Privacy Policy was last updated and posted on May 19, 2013. It governs the privacy terms of our Website, located at http://www.inboundpro.net. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our Terms of Service.
 
