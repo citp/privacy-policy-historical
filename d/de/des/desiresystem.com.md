@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desiresystem.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523212013id_/http%3A//desiresystem.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desiresystem.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206040402id_/http%3A//desiresystem.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -14,6 +14,6 @@ We use cookies help track a person’s session while online. By showing how and 
 
 Your email information is stored at the list server that delivers the newsletters. That information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive the newsletters.
 
-All of our newsletters sent out include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link. You can also contact us at mail@thesocialman.com to change your information at any time.
+All of our newsletters sent out include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link. You can also contact us at mail@thesocialman.com to change your information at any time.
 
 This policy may be changed at any time at our discretion. If we should update this policy, we will post the updates to this page on our Website.
