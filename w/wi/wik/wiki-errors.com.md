@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiki-errors.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519233732id_/http%3A//wiki-errors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiki-errors.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206054834id_/http%3A//wiki-errors.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy « wiki-errors.com
 
@@ -6,7 +6,31 @@ BY ACCESSING THIS SITE YOU ARE ACCEPTING THE TERMS OF THIS PRIVACY STATEMENT.
 
 WIKI-ERRORS.COM is committed to protecting your privacy. This privacy policy will detail how we will treat any and all information that you provide us with. This covers all the web properties that are owned and operated by WIKI-ERRORS.COM.
 
-Information Collected
+## Collection and Use of Personal Information
+
+We collect the following personal information from you
+
+Contact Information such as name and email address.
+
+## We use this information to
+
+Respond to customer service requests  
+Respond to your questions and concerns  
+Allow you to post blog comments
+
+We will not share your personal information with third parties, and we will not send any marketing emails.
+
+## Opt-Out and Un-Subscription
+
+Currently we do not send marketing emails.
+
+We, WIKI-ERRORS.COM only send email to you on transactional or service related,such as a confirmation email after the review posting.You can opt-out of these service related emails by emailing us at optout@wiki-errors.com or contact us through [Contact us](http://wiki-errors.com/contact-us/)
+
+## What We Do With Your Personal Data
+
+All the personal information you provide us with is used to enhance your user experience. We use personal information to help us with demographics and your information allows us to personally greet you when you revisit our site. We also use the information to know what type of advertising would best be suited for your personal needs. You can request for us to send or not send you advertising at the time of your registration.
+
+## Information Collected
 
 WIKI-ERRORS.COM may collect information from the user at various points, but that information will be kept only by WIKI-ERRORS.COM and not viewed by others.
 
@@ -55,3 +79,9 @@ WIKI-ERRORS.COM will always post any changes to the privacy policy on this page 
 ## Contact Information
 
 If you contact WIKI-ERRORS.COM through any link with personal information, that information will not be used to contact you. WIKI-ERRORS.COM will not sell or share this information with any third party.
+
+## Information Collected By Payment Processing System
+
+Clickbank is our credit card processing system. Please view Clickbank’s privacy policy for more information:
+
+ClickBank customer privacy policy <http://www.clickbank.com/customer_privacy.html>
