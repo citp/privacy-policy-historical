@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seoupdates.info privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627050311id_/http%3A//seoupdates.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoupdates.info privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206104246id_/http%3A//seoupdates.info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy : SEO Updates
 
 ### **Privacy Policy for SEOupdates.info**
 
