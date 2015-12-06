@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the lollapalooza.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607210152id_/http%3A//www.lollapalooza.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lollapalooza.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206114153id_/http%3A//www.lollapalooza.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js "><head>
         <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQIHVFJVGwEJUFJaAwY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(3),t(4),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:6,4:5,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:21,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],10:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","trackUserAction","finished","traceEvent","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:19,2:20,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-536.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:19,2:10,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],19:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-        <title>Privacy &amp; Security | Lollapalooza 2015</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Privacy &amp; Security | Lollapalooza</title>
         <meta name="viewport" content="width=device-width">
 
         <!--[if lte IE 10]>
@@ -12,14 +12,17 @@
         <![endif]-->
 
         <link rel="shortcut icon" href="http://lolp3.c3cdn.com/wp/wp-content/themes/lolla2014/img/LOL-US-16x16.gif">
-        <link rel="stylesheet" id="style-css" href="http://lolp2.c3cdn.com/wp/wp-content/themes/lolla2014/css/style.ts1433481022.css" type="text/css" media="all">
-<script type="text/javascript" src="http://lolp2.c3cdn.com/wp/wp-content/themes/lolla2014/js/vendor/modernizr.min.ts1432792225.js"></script>
+        <link rel="stylesheet" id="fonts-css" href="http://lolp1.c3cdn.com/wp/wp-content/themes/lolla2014/css/fonts.ts1443619767.css" type="text/css" media="all">
+<link rel="stylesheet" id="style-css" href="http://lolp2.c3cdn.com/wp/wp-content/themes/lolla2014/css/style.ts1444227835.css" type="text/css" media="all">
+<script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" src="http://lolp2.c3cdn.com/wp/wp-content/themes/lolla2014/js/vendor/modernizr.min.ts1432792225.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+<meta name="description" content="UPDATED: NOVEMBER 21, 2013 C3 Presents, LLC (“C3”) produces the Lollapalooza Music Festival (the “Festival”) and owns and operates the website l...">
+
 <meta property="fb:app_id" content="130507217028926">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy &amp; Security">
 <meta property="og:url" content="http://www.lollapalooza.com/privacy/">
-<meta property="og:site_name" content="Lollapalooza 2015">
+<meta property="og:site_name" content="Lollapalooza">
 <meta property="og:description" content="UPDATED: NOVEMBER 21, 2013 C3 Presents, LLC (“C3”) produces the Lollapalooza Music Festival (the “Festival”) and owns and operates the website l...">
 <meta property="og:image" content="http://lolp2.c3cdn.com/wp/wp-content/uploads/2013/12/Share_Logo.png">
 
@@ -40,356 +43,195 @@
         <![endif]-->
         <div id="page">
             <div id="header" class="header-container">
-                                                <div class="pulldown-container is-closed">
-    <div id="follow" class="pulldown is-closed">
-        <div class="site-wrapper text--center network-wrapper">
-            <div class="network-container">
-                    <a class="network" href="/connect/" title="E-mail List">
-        <img src="http://lolp2.c3cdn.com/wp/wp-content/uploads/2013/12/i-mail.png" alt="E-mail List" onmouseover="this.src='http://lolp2.c3cdn.com/wp/wp-content/uploads/2013/11/i-mail-hover.png'" onmouseout="this.src='http://lolp2.c3cdn.com/wp/wp-content/uploads/2013/12/i-mail.png'">
-    </a>
-    <a class="network" href="http://www.facebook.com/lollapalooza" target="_blank" title="Facebook">
-        <img src="http://lolp3.c3cdn.com/wp/wp-content/uploads/2013/12/i-facebook.png" alt="Facebook" onmouseover="this.src='http://lolp1.c3cdn.com/wp/wp-content/uploads/2013/11/i-facebook-hover.png'" onmouseout="this.src='http://lolp3.c3cdn.com/wp/wp-content/uploads/2013/12/i-facebook.png'">
-    </a>
-    <a class="network" href="http://twitter.com/lollapalooza" target="_blank" title="Twitter">
-        <img src="http://lolp1.c3cdn.com/wp/wp-content/uploads/2013/11/LOL-social-icons-Twitter.png" alt="Twitter" onmouseover="this.src='http://lolp2.c3cdn.com/wp/wp-content/uploads/2013/11/LOL-social-icons-Twitter-H.png'" onmouseout="this.src='http://lolp1.c3cdn.com/wp/wp-content/uploads/2013/11/LOL-social-icons-Twitter.png'">
-    </a>
-    <a class="network" href="http://www.youtube.com/lollapalooza" target="_blank" title="YouTube">
-        <img src="http://lolp1.c3cdn.com/wp/wp-content/uploads/2013/11/LOL-social-icons-YouTube.png" alt="YouTube" onmouseover="this.src='http://lolp2.c3cdn.com/wp/wp-content/uploads/2013/11/LOL-social-icons-YouTube-H.png'" onmouseout="this.src='http://lolp1.c3cdn.com/wp/wp-content/uploads/2013/11/LOL-social-icons-YouTube.png'">
-    </a>
-    <a class="network" href="http://www.instagram.com/lollapalooza" target="_blank" title="Instagram">
-        <img src="http://lolp1.c3cdn.com/wp/wp-content/uploads/2013/11/LOL-social-icons-Instagram.png" alt="Instagram" onmouseover="this.src='http://lolp2.c3cdn.com/wp/wp-content/uploads/2013/11/LOL-social-icons-Instagram-H.png'" onmouseout="this.src='http://lolp1.c3cdn.com/wp/wp-content/uploads/2013/11/LOL-social-icons-Instagram.png'">
-    </a>
-    <a class="network" href="http://lollapalooza.tumblr.com" target="_blank" title="Tumblr">
-        <img src="http://lolp1.c3cdn.com/wp/wp-content/uploads/2013/11/LOL-social-icons-Tumblr.png" alt="Tumblr" onmouseover="this.src='http://lolp1.c3cdn.com/wp/wp-content/uploads/2013/11/LOL-social-icons-Tumblr-H.png'" onmouseout="this.src='http://lolp1.c3cdn.com/wp/wp-content/uploads/2013/11/LOL-social-icons-Tumblr.png'">
-    </a>
-    <a class="network" href="https://www.flickr.com/photos/lollapalooza" target="_blank" title="Flickr">
-        <img src="http://lolp3.c3cdn.com/wp/wp-content/uploads/2013/11/LOL-social-icons-Flickr.png" alt="Flickr" onmouseover="this.src='http://lolp2.c3cdn.com/wp/wp-content/uploads/2013/11/LOL-social-icons-Flickr-H.png'" onmouseout="this.src='http://lolp3.c3cdn.com/wp/wp-content/uploads/2013/11/LOL-social-icons-Flickr.png'">
-    </a>
-    <a class="network" href="http://plus.google.com/+lollapalooza" target="_blank" title="Google+">
-        <img src="http://lolp2.c3cdn.com/wp/wp-content/uploads/2013/12/i-google-plus.png" alt="Google+" onmouseover="this.src='http://lolp3.c3cdn.com/wp/wp-content/uploads/2013/11/i-google-plus-hover.png'" onmouseout="this.src='http://lolp2.c3cdn.com/wp/wp-content/uploads/2013/12/i-google-plus.png'">
-    </a>
+                                                <header class="site-header">
+                    <div id="engagement-bar" class="c-engagement-bar ">
+    <div id="engagement-bar-wrapper" class="c-engagement-bar__wrapper">
+        <div class="c-engagement-bar__connect o-connect">
+            
+<div class="o-connect__social">
+    <ul class="clearfix">
+                                <li class="o-connect__social__network ">
+                <a href="http://www.facebook.com/lollapalooza" class="js-social-click" target="_blank" title="Facebook">
+                    <i class="o-connect__social__network__icon fa fa-facebook"></i>
+                </a>
+            </li>
+                                            <li class="o-connect__social__network ">
+                <a href="http://twitter.com/lollapalooza" class="js-social-click" target="_blank" title="Twitter">
+                    <i class="o-connect__social__network__icon fa fa-twitter"></i>
+                </a>
+            </li>
+                                            <li class="o-connect__social__network ">
+                <a href="http://www.instagram.com/lollapalooza" class="js-social-click" target="_blank" title="Instagram">
+                    <i class="o-connect__social__network__icon fa fa-instagram"></i>
+                </a>
+            </li>
+                                            <li class="o-connect__social__network u-hide--palm">
+                <a href="http://www.youtube.com/lollapalooza" class="js-social-click" target="_blank" title="YouTube">
+                    <i class="o-connect__social__network__icon fa fa-youtube"></i>
+                </a>
+            </li>
+                                                                                                            <li class="o-connect__social__network">
+            <a href="/connect/" class="js-social-click"><i class="o-connect__social__network__icon fa fa-ellipsis-h"></i></a>
+        </li>
+    </ul>
+</div>
+<div id="header-connect" class="o-connect__elist">
+    <div class="o-connect__language u-float-right--palm">
             </div>
+    <div id="mobile-elist-btn" class="o-btn o-btn--engagement-bar o-btn--red u-mb0 js-show-elist u-float-right--palm">e-list<i class="fa fa-envelope o-btn__icon--right"></i></div>
+    <i class="o-connect__elist__form__close-btn fa fa-close js-hide-elist"></i>
+    <form class="o-connect__elist__form js-connect__elist-form js-elist-form" id="1241e6509be9" action="/" method="post">
+        <input class="o-connect__elist__form__input elist__input js-elist-form" type="email" name="email" placeholder="name@domain.com"><input type="submit" class="o-connect__elist__form__submit elist__submit" value="Join">
+            </form>
+    <div class="o-connect__elist__response elist-response" data-success="Success! Thanks for subscribing."></div>
+</div>
         </div>
-    </div>
-    <div id="promo" class="pulldown is-closed">
-        <div class="site-wrapper">
+        <div class="c-engagement-bar__myfest">
+            <div class="c-engagement-bar__myfest__in" style="display:none;">
+    <div class="o-btn o-btn--blue o-btn--engagement-bar js-toggle-myfest is-closed"><i class="fa fa-user o-btn__icon--left"></i><span>MyLolla</span><i class="fa fa-caret-down myfest--caret o-btn__icon--right"></i></div>    <ul class="c-engagement-bar__myfest__options c-engagement-bar__myfest__options--hidden">
+        <li class="c-engagement-bar__myfest__option"><a href="#">MyFest Page</a></li>
+        <li class="c-engagement-bar__myfest__option"><a href="/my-account/">My Account</a></li>
+        <li class="c-engagement-bar__myfest__option"><a href="/information/#faqs-myacl">MyFest FAQs</a></li>
+        <li class="c-engagement-bar__myfest__option"><a class="js-logout">Sign Out</a></li>
+    </ul>
+</div>
+<div class="c-engagement-bar__myfest__out"><div class="o-btn o-btn--blue o-btn--engagement-bar js-login"><i class="fa fa-user fa-before o-btn__icon--left"></i>MyLolla</div></div>        </div>
+        <div class="c-engagement-bar__language">
                     </div>
-    </div>
-    <div id="country" class="pulldown is-closed">
-        <div class="site-wrapper text--center">
-                <a class="country" href="http://www.lollapaloozaar.com" target="_blank" rel="external">
-        <img class="country__image" src="http://lolp3.c3cdn.com/wp/wp-content/uploads/2013/12/country-ar.png" alt="Argentina">
-        <span class="country__name">Argentina</span>
-    </a>
-    <a class="country" href="http://www.lollapaloozabr.com" target="_blank" rel="external">
-        <img class="country__image" src="http://lolp3.c3cdn.com/wp/wp-content/uploads/2013/12/country-br.png" alt="Brazil">
-        <span class="country__name">Brazil</span>
-    </a>
-    <a class="country" href="http://www.lollapaloozacl.com" target="_blank" rel="external">
-        <img class="country__image" src="http://lolp1.c3cdn.com/wp/wp-content/uploads/2013/12/country-cl.png" alt="Chile">
-        <span class="country__name">Chile</span>
-    </a>
-    <a class="country" href="http://www.lollapaloozade.com" target="_blank" rel="external">
-        <img class="country__image" src="http://lolp2.c3cdn.com/wp/wp-content/uploads/2014/11/LOL2014-DE-flag-157x97.png" alt="Germany">
-        <span class="country__name">Germany</span>
-    </a>
-    <a class="country" href="http://www.lollapalooza.com" target="_blank" rel="external">
-        <img class="country__image" src="http://lolp1.c3cdn.com/wp/wp-content/uploads/2013/12/country-usa.png" alt="USA">
-        <span class="country__name">USA</span>
-    </a>
-        </div>
-    </div>
-    <div id="search" class="pulldown is-closed">
-        <div class="site-wrapper">
-            <div class="grid">
-    <div class="grid__item one-half">
-        <div class="search-header">
-            <form class="search-form" role="search" method="get" id="searchform" action="http://www.lollapalooza.com/">
-    <div>
-        <h3 class="search__text screen-reader-text" for="s">Search Lollapalooza:</h3>
-        <div class="search__bg"><input class="search__input" type="text" value="" name="s" id="s"></div>
-        <br>
-        <input type="submit" class="search__submit" value="Submit">
-    </div>
+        <div class="c-engagement-bar__search"><form class="search-form" role="search" method="get" id="searchform" action="http://www.lollapalooza.com/">
+    <div class="search__bg"><input class="search__input" type="text" value="" name="s" id="s"></div>
+    <button type="submit" class="search__submit"><i class="fa fa-search"></i></button>
 </form>
-        </div>
+</div>
     </div>
-    <div class="grid__item one-half">
-        <h3>Popular:</h3>
-        <ul class="popular">
-                            <li><a href="/faqs/#festival">Volunteer For Lolla</a></li>
-                                        <li><a href="/faqs/#tickets">Kids At The Fest</a></li>
-                                        <li><a href="/faqs/#festival">Allowed Items</a></li>
-                                        <li><a href="/faqs/#tickets">Change Shipping Address</a></li>
-                                        <li><a href="/faqs/#festival">ADA Accessibility</a></li>
-                                        <li><a href="/faqs/#tickets">Wristband Policy</a></li>
-                                        <li><a href="/faqs/#tickets">Craigslist &amp; StubHub</a></li>
-                                        <li><a href="/press/#apply">Press &amp; Photo Coverage</a></li>
-                                        <li><a href="/connect/#contact">Contact The Fest</a></li>
-                                        <li><a href="/faqs/#festival">Apply To Be A Vendor</a></li>
-                                        <li><a href="/faqs/#festival">Lost &amp; Found</a></li>
-                                        <li><a href="/2013/welcome-to-mylolla/">MyLolla Info</a></li>
-                            </ul>
-    </div>
-</div>        </div>
-    </div>
-</div>                <div class="site-wrapper">
-                    <header class="site-header">
-                        <div class="grid pulldown-triggers">
-    <div class="grid__item one-eighth palm-is-hidden">
-        <button class="btn btn--signin one-whole js-login">Sign In/Sign Up</button>
-    </div><!--
-    --><div class="grid__item two-tenths palm-one-whole">
-            </div><!--
-    --><div class="grid__item push--three-eighths one-tenth palm-is-hidden">
-                        <a href="#" class="pulldown__tab pulldown__tab--purple split js-pulldown" data-target="#follow"><span class="split__title">Follow</span> <i class="i--arrow"></i></a>
-                </div><!--
-    --><div class="grid__item push--three-eighths one-tenth palm-is-hidden">
-                    <a href="#" class="pulldown__tab pulldown__tab--purple split js-pulldown" data-target="#country"><span class="split__title">Country</span> <i class="i--arrow i--right"></i></a>
-                </div><!--
-    --><div class="grid__item push--three-eighths one-tenth palm-is-hidden">
-                <a href="#" class="pulldown__tab pulldown__tab--purple split js-pulldown" data-target="#search"><span class="split__title">Search</span> <i class="i--arrow i--right"></i></a>
-            </div>
-</div>                        <a href="/tickets" class="ticket-promo"><span>Buy Tickets</span></a>
-
+</div>                    <div class="c-festival-header">
                         <div class="ufo"></div>
-                        <a class="site-logo" href="/"><img src="http://lolp1.c3cdn.com/wp/wp-content/uploads/2013/12/logo.png" alt="Lollapalooza"></a>
+                        <a class="site-logo" href="/"><img src="http://lolp1.c3cdn.com/wp/wp-content/uploads/2015/12/LOL16_HomepageLogo.png" alt="Lollapalooza"></a>
 <!-- <a href="/" class="site-logo">Lollapalooza</a> -->
-<p class="site-dates">July 31-August 2, 2015 · Grant Park, Chicago</p>
-    <img class="header-character" src="http://lolp2.c3cdn.com/wp/wp-content/uploads/2013/12/tentacle.png" alt="Lollapalooza Character" style="">
-                    </header>
+            <p class="site-dates">July 28-July 31, 2016 · Grant Park, Chicago</p>
+    
+<div class="global-sign global-sign--en">
+            <a href="http://global.lollapalooza.com"></a>
+    </div>
+                    </div><!-- /.site-wrapper -->
+                </header>
 
-                    <div id="sticky-nav" class="sticky-nav">
-                        <div class="grid">
-                            <div class="grid__item one-tenth palm-is-hidden">
-                                <div id="desk-myfest-menu" class="myfest-column-wrapper">
-    <div id="desk-myfest-menu-in" class="myfest-column" style="display: none;">
-    <a href="#" class="myfest-column__link myfest-column__link--top"><img class="myfest-column__img js-myfest-img" src="http://lolp2.c3cdn.com/wp/wp-content/themes/lolla2014/img/myfest__avatar.png" alt=""> <span>MyLolla</span></a>
-    <a href="#artists" class="myfest-column__link"><i class="myfest-column__count js-myfest-type--artist">0</i> <span>Artists</span></a>
-    <a href="#schedule" class="myfest-column__link"><i class="myfest-column__count js-myfest-type--session">0</i> <span>Schedule</span></a>
-    <a href="#compare" class="myfest-column__link"><i class="myfest-column__count js-myfest-type--compare">0</i> <span>Compare</span></a>
-</div>
-    <div id="desk-myfest-menu-out" class="myfest-column">
-    <div class="myfest-column__link myfest-column__link--top js-login"><img class="myfest-column__img" src="http://lolp2.c3cdn.com/wp/wp-content/themes/lolla2014/img/myfest__avatar.png" alt=""> <span>MyLolla</span></div>
-    <div class="myfest-column__link myfest-column__link--logout"><p>CUSTOMIZE YOUR FESTIVAL, COMPARE WITH FRIENDS &amp; GET SPECIAL UPDATES</p>
-<p><a href="#" class="btn btn--yellow js-login">Sign In</a></p></div>
-</div>
-</div>                            </div><!--
-                            --><div class="grid__item eight-tenths palm-one-whole">
-                                <div class="desk-nav-primary-wrapper palm-is-hidden"><ul id="desk-menu__primary" class="nav nav--primary"><li id="menu-item-6839" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6839"><a href="/tickets/">Tickets</a>
+                                <div id="sticky-nav" class="sticky-nav">
+                    <div class="grid">
+                        <div class="grid__item one-whole">
+                            <div class="desk-nav-primary-wrapper palm-is-hidden"><ul id="desk-menu__primary" class="nav nav--primary site-wrapper"><li id="menu-item-6839" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6839"><a href="/tickets/">Tickets</a>
 <ul class="sub-menu">
 	<li id="menu-item-6853" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6853"><a href="/tickets/">General Admission</a></li>
 	<li id="menu-item-6854" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6854"><a href="/vip-platinum/">VIP &amp; Platinum</a></li>
-	<li id="menu-item-6855" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6855"><a target="_blank" href="http://www.cidentertainment.com/events/lollapalooza-2015/travel-packages/">Travel Packages</a></li>
-	<li id="menu-item-11917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11917"><a href="http://www.lollapalooza.com/hotels/">Book My Hotel</a></li>
-	<li id="menu-item-6857" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6857"><a href="/faqs/#tickets-faqs">Ticket FAQs</a></li>
+	<li id="menu-item-6857" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6857"><a href="/information/#faqs-tickets-2">Ticket FAQs</a></li>
 </ul>
 </li>
 <li id="menu-item-6838" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6838"><a href="/2015-lineup/">Lineup</a>
 <ul class="sub-menu">
 	<li id="menu-item-6858" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6858"><a href="/2015-lineup/">2015 Lineup</a></li>
-	<li id="menu-item-13272" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13272"><a href="/2015-lineup-alphabetical/">2015 Artist List</a></li>
-	<li id="menu-item-18349" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18349"><a href="/2015-schedule/">2015 Schedule</a></li>
+	<li id="menu-item-18349" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18349"><a href="http://www.lollapalooza.com/2015-schedule/#sunday-2015-08-02">2015 Schedule</a></li>
 	<li id="menu-item-18591" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18591"><a href="http://do312.com/lollaaftershows/">2015 Aftershows</a></li>
 </ul>
 </li>
-<li id="menu-item-6840" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6840"><a href="/festival/">Festival</a>
+<li id="menu-item-19167" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-19167"><a href="http://www.lollapalooza.com/experience/">Experience</a>
 <ul class="sub-menu">
-	<li id="menu-item-6862" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6862"><a href="/chow-town/">Chow Town</a></li>
-	<li id="menu-item-6865" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6865"><a href="/around-the-park/">Around The Park</a></li>
-	<li id="menu-item-8537" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8537"><a href="/farmers-market/">Farmers Market</a></li>
-	<li id="menu-item-6863" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6863"><a href="/green-street/">Green Street</a></li>
-	<li id="menu-item-6864" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6864"><a href="/lolla-cares/">Lolla Cares</a></li>
-	<li id="menu-item-6866" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6866"><a href="/kidzapalooza/">Kidzapalooza</a></li>
+	<li id="menu-item-19169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19169"><a href="http://www.lollapalooza.com/experience/">Experience Lollapalooza</a></li>
+	<li id="menu-item-6865" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6865"><a href="/around-the-park/">2015 Around The Park</a></li>
+	<li id="menu-item-6862" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6862"><a href="/chow-town/">2015 Chow Town</a></li>
+	<li id="menu-item-8537" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8537"><a href="/farmers-market/">2015 Farmers Market</a></li>
+	<li id="menu-item-6863" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6863"><a href="/green-street/">2015 Green Street</a></li>
+	<li id="menu-item-6864" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6864"><a href="/lolla-cares/">2015 Lolla Cares</a></li>
+	<li id="menu-item-6866" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-6866"><a href="/kidzapalooza/">2015 Kidzapalooza</a></li>
 </ul>
 </li>
-<li id="menu-item-6841" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6841"><a href="/faqs/">FAQS</a>
-<ul class="sub-menu">
-	<li id="menu-item-14027" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14027"><a href="/2014/lolla-cashless-all-you-need-to-know/">Register My Wristband</a></li>
-	<li id="menu-item-14093" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14093"><a href="/2014-lost-found/">Lost &amp; Found</a></li>
-	<li id="menu-item-13513" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13513"><a href="/map/">2014 Map</a></li>
-	<li id="menu-item-14094" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14094"><a href="/2014-green-initiatives/">2014 Green Initiatives</a></li>
-</ul>
-</li>
-<li id="menu-item-6842" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6842"><a href="/blog/">The Loop</a></li>
-</ul></div><div class="desk-nav-secondary-wrapper palm-is-hidden"><ul id="desk-menu__secondary" class="nav nav--secondary"><li id="menu-item-6843" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6843"><a target="_blank" href="http://store.lollapalooza.com">MERCH</a></li>
-<li id="menu-item-14604" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14604"><a href="/hotels/">BOOK MY HOTEL</a></li>
+<li id="menu-item-19159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19159"><a href="http://www.lollapalooza.com/information/">Information</a></li>
+<li id="menu-item-21056" class="desk-is-hidden menu-item menu-item-type-custom menu-item-object-custom menu-item-21056"><a href="http://global.lollapalooza.com">Lolla Is Global</a></li>
+</ul></div><div class="desk-nav-secondary-wrapper palm-is-hidden"><ul id="desk-menu__secondary" class="nav nav--secondary site-wrapper"><li id="menu-item-6843" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6843"><a target="_blank" href="http://store.lollapalooza.com">MERCH</a></li>
+<li id="menu-item-19926" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19926"><a href="http://lollapalooza.com/updates/">NEWS</a></li>
+<li id="menu-item-19165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19165"><a href="http://www.lollapalooza.com/blog/">BLOG</a></li>
+<li id="menu-item-21123" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21123"><a href="/hotels/">HOTELS</a></li>
 <li id="menu-item-14601" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14601"><a href="/connect/">CONNECT</a></li>
-</ul></div>                                            <div id="palm-nav-wrapper" class="palm-nav-wrapper lap-and-up-is-hidden">
-                <ul id="palm-menus" class="nav--palm__wrapper">
-                    <li id="palm-music" class="btn--audioplayer">
-                        <i class="i i--music-note js-music-note"></i>
-                        <div id="palm-audioplayer" class="is-closed">
-
-                        </div>
-                    </li>
-                    <li id="palm-myfest" class="btn--myfest-menu">
-                        <span class="split__title">MyLolla</span> <i class="menu__icon is-hidden">×</i>
-                        <ul class="nav--myfest is-closed">
-                            <ul id="palm-myfest-menu-out" style="display: none;" class="text--center">
-                                <li class="menu-item">
-    <p>CUSTOMIZE YOUR FESTIVAL, COMPARE WITH FRIENDS &amp; GET SPECIAL UPDATES</p>
-<p><a href="#" class="btn btn--yellow js-login">Sign In</a></p></li>                            </ul>
-                            <ul id="palm-myfest-menu-in">
-                                <li class="menu-item"><a href="#"><img class="palm-myfest__img js-myfest-img" src="http://lolp2.c3cdn.com/wp/wp-content/themes/lolla2014/img/myfest__avatar.png" alt=""> MyLolla</a></li>
-<li class="menu-item"><a href="#artists"><i class="i i--myfest-number palm-myfest__count js-myfest-type--artist">0</i> Artists</a></li>
-<li class="menu-item"><a href="#stuff"><i class="i i--myfest-number palm-myfest__count js-myfest-type--schedule">0</i> Schedule</a></li>
-<li class="menu-item"><a href="#compare"><i class="i i--myfest-number palm-myfest__count js-myfest-type--compare">0</i> Compare</a></li>
-<li class="menu-item--small"><a href="http://www.lollapalooza.com/my-account">Account</a></li>
-<li class="menu-item--small"><a href="#" class="js-logout">Sign Out</a></li>                            </ul>
-                        </ul>
-                    </li>
-                    <li id="palm-menu" class="btn--menu">
-                        <span class="split__title">Menu</span> <i class="i i--menu--white menu__icon"></i>
-                        <ul class="nav--palm is-closed">
-                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6839"><a href="/tickets/">Tickets</a>
+</ul></div>                            <div id="palm-nav-wrapper" class="palm-nav-wrapper lap-and-up-is-hidden sticky-nav--mobile">
+    <ul id="palm-menus" class="nav--palm__wrapper">
+        <li id="palm-music" class="btn--audioplayer">
+            <i class="fa fa-music js-music-note"></i>
+        </li>
+        <li id="palm-myfest" class="btn--myfest-menu">
+            <span class="split__title">MyLolla</span> <i class="fa fa-close menu__icon menu__icon is-hidden"></i>
+        </li>
+        <li id="palm-search" class="btn--search">
+            <i class="fa fa-search"></i>
+        </li>
+        <li id="palm-menu" class="btn--menu">
+            <span class="split__title">Menu</span> <i class="fa fa-bars menu__icon"></i>
+        </li>
+        <li id="palm-menu--exp" class="palm-menu--exp expandable is-closed">
+            <ul class="nav--palm">
+                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6839"><a href="/tickets/">Tickets</a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6853"><a href="/tickets/">General Admission</a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6854"><a href="/vip-platinum/">VIP &amp; Platinum</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6855"><a target="_blank" href="http://www.cidentertainment.com/events/lollapalooza-2015/travel-packages/">Travel Packages</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11917"><a href="http://www.lollapalooza.com/hotels/">Book My Hotel</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6857"><a href="/faqs/#tickets-faqs">Ticket FAQs</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6857"><a href="/information/#faqs-tickets-2">Ticket FAQs</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6838"><a href="/2015-lineup/">Lineup</a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6858"><a href="/2015-lineup/">2015 Lineup</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13272"><a href="/2015-lineup-alphabetical/">2015 Artist List</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18349"><a href="/2015-schedule/">2015 Schedule</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18349"><a href="http://www.lollapalooza.com/2015-schedule/#sunday-2015-08-02">2015 Schedule</a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18591"><a href="http://do312.com/lollaaftershows/">2015 Aftershows</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6840"><a href="/festival/">Festival</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-19167"><a href="http://www.lollapalooza.com/experience/">Experience</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6862"><a href="/chow-town/">Chow Town</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6865"><a href="/around-the-park/">Around The Park</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8537"><a href="/farmers-market/">Farmers Market</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6863"><a href="/green-street/">Green Street</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6864"><a href="/lolla-cares/">Lolla Cares</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6866"><a href="/kidzapalooza/">Kidzapalooza</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19169"><a href="http://www.lollapalooza.com/experience/">Experience Lollapalooza</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6865"><a href="/around-the-park/">2015 Around The Park</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6862"><a href="/chow-town/">2015 Chow Town</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8537"><a href="/farmers-market/">2015 Farmers Market</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6863"><a href="/green-street/">2015 Green Street</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6864"><a href="/lolla-cares/">2015 Lolla Cares</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-6866"><a href="/kidzapalooza/">2015 Kidzapalooza</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6841"><a href="/faqs/">FAQS</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14027"><a href="/2014/lolla-cashless-all-you-need-to-know/">Register My Wristband</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14093"><a href="/2014-lost-found/">Lost &amp; Found</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13513"><a href="/map/">2014 Map</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14094"><a href="/2014-green-initiatives/">2014 Green Initiatives</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6842"><a href="/blog/">The Loop</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19159"><a href="http://www.lollapalooza.com/information/">Information</a></li>
+<li class="desk-is-hidden menu-item menu-item-type-custom menu-item-object-custom menu-item-21056"><a href="http://global.lollapalooza.com">Lolla Is Global</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6843"><a target="_blank" href="http://store.lollapalooza.com">MERCH</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14604"><a href="/hotels/">BOOK MY HOTEL</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19926"><a href="http://lollapalooza.com/updates/">NEWS</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19165"><a href="http://www.lollapalooza.com/blog/">BLOG</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21123"><a href="/hotels/">HOTELS</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14601"><a href="/connect/">CONNECT</a></li>
-            <li class="menu-item">
-                <a href="#">Country</a>
-                <ul class="sub-menu">
-                                            <li class="menu-item"><a href="http://www.lollapaloozaar.com">Argentina</a></li>
-                                                <li class="menu-item"><a href="http://www.lollapaloozabr.com">Brazil</a></li>
-                                                <li class="menu-item"><a href="http://www.lollapaloozacl.com">Chile</a></li>
-                                                <li class="menu-item"><a href="http://www.lollapaloozade.com">Germany</a></li>
-                                                <li class="menu-item"><a href="http://www.lollapalooza.com">USA</a></li>
-                                        </ul>
-            </li>
-                        <li class="menu-item">
-                <a href="#">Follow</a>
-                <ul class="sub-menu">
-                                    <li class="menu-item"><a href="/connect/" rel="external" target="_blank">E-mail List</a></li>
-                                        <li class="menu-item"><a href="http://www.facebook.com/lollapalooza" rel="external" target="_blank">Facebook</a></li>
-                                        <li class="menu-item"><a href="http://twitter.com/lollapalooza" rel="external" target="_blank">Twitter</a></li>
-                                        <li class="menu-item"><a href="http://www.youtube.com/lollapalooza" rel="external" target="_blank">YouTube</a></li>
-                                        <li class="menu-item"><a href="http://www.instagram.com/lollapalooza" rel="external" target="_blank">Instagram</a></li>
-                                        <li class="menu-item"><a href="http://lollapalooza.tumblr.com" rel="external" target="_blank">Tumblr</a></li>
-                                        <li class="menu-item"><a href="https://www.flickr.com/photos/lollapalooza" rel="external" target="_blank">Flickr</a></li>
-                                        <li class="menu-item"><a href="http://plus.google.com/+lollapalooza" rel="external" target="_blank">Google+</a></li>
-                                    </ul>
-            </li>
-            
-        <li class="menu-item">
-            <a href="#">Search</a>
-            <form class="search-form--menu" role="search" method="get" id="searchform" action="http://www.lollapalooza.com/">
-                <div>
-                    <h3 class="search__text screen-reader-text" for="s">Search Lollapalooza:</h3>
-                    <div class="search__bg--menu"><input class="search__input--menu" type="text" value="" name="s" id="s--menu"></div>
-                    <input type="submit" class="search__submit--menu" value="Search">
-                </div>
-            </form>
+            </ul>
         </li>
-                                </ul>
-                    </li>
-                </ul>
-            </div>
-                                    </div><!--
-                            --><div class="grid__item one-tenth palm-is-hidden">
-                                <script>
-    (function ($) {
-        $(document).ready(function () {
-            $('.commerce-item').on('mouseenter', function () {
-                var $this = $(this),
-                    $icon = $this.find('.commerce-item__icon').first(),
-                    src   = $icon.attr('src'),
-                    hoverSrc = $icon.attr('data-hover-src');
-
-                if (hoverSrc) {
-                    $icon.attr('src', hoverSrc);
-                    $icon.attr('data-hover-src', src);
-                }
-
-            }).on('mouseleave', function () {
-                var $this = $(this),
-                    $icon = $this.find('.commerce-item__icon').first(),
-                    src   = $icon.attr('src'),
-                    hoverSrc = $icon.attr('data-hover-src');
-
-                if (hoverSrc) {
-                    $icon.attr('src', hoverSrc);
-                    $icon.attr('data-hover-src', src);
-                }
-            });
-        });
-    }(jQuery));
-</script>
-<div class="commerce-column">
-    <div class="commerce-column__banner">
-        <span class="commerce-column__pre-title">BUY</span>
-        <span class="commerce-column__title">TICKETS</span>
-    </div>
-            <div class="commerce-item commerce-item--ticket--soldout">
-                                        <span class="commerce-item__line-one">GA</span>
-                
-                                <span class="commerce-item__line-two">3-Day Pass</span>
-                
-                                    <span class="commerce-item__line-three">$275</span>
-                
-                                <span class="commerce-item__line-four">SOLD OUT</span>
-                        </div>            <div class="commerce-item commerce-item--ticket--soldout">
-                                        <span class="commerce-item__line-one">GA</span>
-                
-                                <span class="commerce-item__line-two">1-Day Pass</span>
-                
-                                    <span class="commerce-item__line-three">$110</span>
-                
-                                <span class="commerce-item__line-four">SOLD OUT</span>
-                        </div>            <div class="commerce-item commerce-item--ticket--onsale">
-                    <a href="http://www.cidentertainment.com/events/lollapalooza-2015/travel-packages/" target="_blank">
-                        
-                                <span class="commerce-item__line-two">TRAVEL PACKAGES</span>
-                
-                                                        <img class="commerce-item__icon" src="http://lolp1.c3cdn.com/wp/wp-content/uploads/2014/03/LOL-column-Travel-Red1.png" data-hover-src="http://lolp1.c3cdn.com/wp/wp-content/uploads/2014/03/LOL-column-Travel-White1.png">
-                                    
-                                <span class="commerce-item__line-four">Buy Now</span>
-                                    </a>
-        </div>    </div>
-                            </div>
-                        </div>
+        <li id="palm-search--exp" class="palm-menu--search expandable cf is-closed">
+            <form class="search-form" role="search" method="get" id="searchform" action="http://www.lollapalooza.com/">
+    <div class="search__bg"><input class="search__input" type="text" value="" name="s" id="s"></div>
+    <button type="submit" class="search__submit"><i class="fa fa-search"></i></button>
+</form>
+        </li>
+        <li id="palm-myfest--exp" class="palm-myfest--exp expandable is-closed">
+            <ul class="nav--myfest">
+                <ul id="palm-myfest-menu-out" style="display: none;" class="text--center">
+                    <li class="menu-item">
+    <p>CUSTOMIZE YOUR FESTIVAL, COMPARE WITH FRIENDS &amp; GET SPECIAL UPDATES</p>
+<p><a href="#" class="btn btn--yellow js-login">Sign In</a></p></li>                </ul>
+                <ul id="palm-myfest-menu-in">
+                    <li class="menu-item"><a class="js-column-link" href="#">MyFest</a></li>
+<li class="menu-item"><a class="js-column-link" href="http://www.lollapalooza.com/my-account">My Account</a></li>
+<li class="menu-item"><a class="js-column-link" href="/information/#faqs-myacl">MyFest FAQs</a></li>
+<li class="menu-item"><a href="#" class="js-logout">Sign Out</a></li>                </ul>
+            </ul>
+        </li>
+        <li id="palm-audioplayer" class="exp--audioplayer expandable is-closed"></li>
+    </ul>
+    <div id="back-to-top">
+    <a href="#engagement-bar" class="js-scrollto">
+        <i class="fa fa-arrow-up back-to-top-icon"></i>
+    </a>
+</div></div>                        </div>
                     </div>
-                </div><!-- /.site-wrapper -->
-            </div>
+                </div>
+                            </div>
 
     <div id="content">
-        <div class="transition-container">
-            <div class="transition-characters"></div>
-        </div>
 
         <div class="transition"></div>
 
@@ -444,9 +286,9 @@
 
 <p>C3 uses Customer Information to enhance your use of the C3 services by processing such information for various purposes, including providing information to you about C3′s products and services, formatting and displaying elements of Contact Data and Message Data to you and to those whom you send messages, delivering advertisements and related links, storing your messages, and other purposes relating to offering you C3 products and services.  C3 uses non-identifying and aggregate information to better design the Website and to share with advertisers and Festival-related affiliates and sponsors. C3 also may use IP addresses to analyze trends, administer the Site, track user movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.</p>
 
-<p>C3 may engage a third party to perform functions on C3′s behalf, such as sending newsletters, sending requested postal mail and e-mail and SMS communications, analyzing and processing data, and providing customer service. C3 requires that these parties agree to use such information in a confidential manner and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures. These third parties may have access to Personal Information needed to perform their functions, but C3 will not authorize them to use it for other purposes. For more information on third parties please see Section 7 Onward Transfer to Third Parties or <a href="/legal-test/#section-7" class="js-scrollto">click here</a>.</p>
+<p>C3 may engage a third party to perform functions on C3′s behalf, such as sending newsletters, sending requested postal mail and e-mail and SMS communications, analyzing and processing data, and providing customer service. C3 requires that these parties agree to use such information in a confidential manner and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures. These third parties may have access to Personal Information needed to perform their functions, but C3 will not authorize them to use it for other purposes. For more information on third parties please see Section 7 Onward Transfer to Third Parties or <a href="#section-7" class="js-scrollto">click here</a>.</p>
 
-<p>If C3 desires to use Personal Information for any purposes other than those described in this Privacy Policy, C3 will offer you the opportunity to opt out of such use of your Personal Information for those other purposes. For more information on how to opt out please see Section 6 Choice/Opt Out or <a href="/legal-test/#section-6" class="js-scrollto">click here</a>.</p>
+<p>If C3 desires to use Personal Information for any purposes other than those described in this Privacy Policy, C3 will offer you the opportunity to opt out of such use of your Personal Information for those other purposes. For more information on how to opt out please see Section 6 Choice/Opt Out or <a href="#section-6" class="js-scrollto">click here</a>.</p>
 
 <p></p><h3>3. PURCHASE ORDER FORM</h3><p></p>
 <p>When you make purchases on the Site, you will be directed to other C3 owned sites where you will be asked to provide information on the purchase order form, which is powered by the C3 owned sites. When you are directed to a C3 owned site, the terms of this Privacy + Security Policy apply.</p>
@@ -549,7 +391,7 @@
 	<li id="menu-item-6975" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6975"><a href="/vip-platinum/">VIP &amp; Platinum</a></li>
 	<li id="menu-item-6976" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6976"><a target="_blank" href="http://www.cidentertainment.com/events/lollapalooza-2015/travel-packages/">Travel Packages</a></li>
 	<li id="menu-item-11918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11918"><a href="http://www.lollapalooza.com/hotels/">Festival Hotels</a></li>
-	<li id="menu-item-6978" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6978"><a href="/tickets/#faqs">Ticket FAQs</a></li>
+	<li id="menu-item-6978" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6978"><a href="http://www.lollapalooza.com/information/#faqs-tickets-2">Ticket FAQs</a></li>
 </ul>
 </li>
 <li id="menu-item-6979" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6979"><a href="/2015-lineup/">LINEUP</a>
@@ -560,28 +402,20 @@
 	<li id="menu-item-18592" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18592"><a href="http://do312.com/lollaaftershows">2015 Aftershows</a></li>
 </ul>
 </li>
-<li id="menu-item-6984" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6984"><a href="/festival/">FESTIVAL</a>
+<li id="menu-item-6984" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-6984"><a href="/experience/">FESTIVAL</a>
 <ul class="sub-menu">
+	<li id="menu-item-19196" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19196"><a href="http://www.lollapalooza.com/information/">Festival Information</a></li>
 	<li id="menu-item-6985" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6985"><a href="/chow-town/">Chow Town</a></li>
 	<li id="menu-item-6987" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6987"><a href="/around-the-park/">Around The Park</a></li>
 	<li id="menu-item-8536" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8536"><a href="/farmers-market/">Farmers Market</a></li>
 	<li id="menu-item-6986" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6986"><a href="/green-street/">Green Street</a></li>
 	<li id="menu-item-6988" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6988"><a href="/lolla-cares/">Lolla Cares</a></li>
-	<li id="menu-item-6989" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6989"><a href="/kidzapalooza/">Kidzapalooza</a></li>
-</ul>
-</li>
-<li id="menu-item-6990" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6990"><a href="/faqs/">FAQS</a>
-<ul class="sub-menu">
-	<li id="menu-item-6993" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6993"><a href="/faqs/">Festival FAQs</a></li>
-	<li id="menu-item-6994" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6994"><a href="/faqs/">Ticket FAQs</a></li>
-	<li id="menu-item-9097" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9097"><a href="/faqs/#getting-here">Getting Here</a></li>
-	<li id="menu-item-9098" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9098"><a href="/faqs/#staying-here">Staying Here</a></li>
-	<li id="menu-item-13514" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13514"><a href="/map/">2014 Map</a></li>
+	<li id="menu-item-6989" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-6989"><a href="/kidzapalooza/">Kidzapalooza</a></li>
+	<li id="menu-item-13514" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13514"><a href="http://www.lollapalooza.com/information/#faq-general-19171">2015 Map</a></li>
 </ul>
 </li>
 <li id="menu-item-6995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6995"><a href="/blog/">MORE</a>
 <ul class="sub-menu">
-	<li id="menu-item-7011" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7011"><a href="/blog/">The Loop</a></li>
 	<li id="menu-item-6998" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6998"><a target="_blank" href="http://store.lollapalooza.com">Official Store</a></li>
 	<li id="menu-item-6996" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6996"><a href="/sponsors/">Sponsors</a></li>
 	<li id="menu-item-6997" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6997"><a href="/press/">Press &amp; Media</a></li>
@@ -600,6 +434,7 @@
 	<li id="menu-item-7008" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7008"><a target="_blank" href="http://lollapalooza.tumblr.com">Tumblr</a></li>
 	<li id="menu-item-7007" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7007"><a target="_blank" href="http://www.flickr.com/lollapalooza">Flickr</a></li>
 	<li id="menu-item-7009" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7009"><a target="_blank" href="http://theboard.lollapalooza.com">Forum</a></li>
+	<li id="menu-item-20972" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20972"><a href="http://www.lollapalooza.com/information/#faq-stay-connected-19024">Contact Us</a></li>
 </ul>
 </li>
 </ul>                            <p class="copyright">© Lollapalooza</p>
@@ -607,6 +442,11 @@
                         </div>
                     </div>
                 </div>
+                <div class="o-subfooter">
+    <div class="site-wrapper">
+        <p><img src="http://lolp1.c3cdn.com/wp/wp-content/themes/lolla2014/img/global-icon.png" class="o-subfooter__icon"> LOLLA. IS. GLOBAL<span class="o-subfooter__next-fest">Next Stop: Lollapalooza Brazil, March 12-13, 2016 <a class="btn o-subfooter__next-fest-btn" href="http://global.lollapalooza.com">Take The Tour <i class="fa fa-caret-right"></i></a></span></p>
+    </div>
+</div>
             </div>
         </div>
         <div id="janrainCaptureDevScript"></div>
@@ -923,14 +763,14 @@
 </script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var C3FMConfig = {"ajaxUrl":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/themes\/lolla2014\/ajax\/wp-ajax.php","alexa":{"accountId":"JyTzk1aUy1008N","domain":"lollapalooza.com"},"analytics":{"gaId":"UA-49228721-1","uaId":"UA-1835828-1","domain":"lollapalooza.com"},"themeUrl":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/themes\/lolla2014\/","defaultTrack":[],"messages":{"audioplayer":{"error":"<h3>This track is currently unavailable<\/h3>\r\n<p> Our staff has now been notified, thank you.<\/p>","timeout":"<h3>This track is currently unavailable<\/h3>\r\n<p>Your current internet connection speed is too slow to stream this track. Try again with a faster connection.<\/p>"},"janrain":{"loginError":"<h3>An Error Occured<\/h3>\r\n<p>We encountered a problem while trying to log you in. Please try again.<\/p>"},"myaccount":{"deleteAsk":"<h3>Are you sure?<\/h3>\r\n<p>You are about to delete your account. This cannot be undone.<\/p>\r\n<div class=\"text--right\"><a href=\"#\" class=\"btn btn--yellow btn--primary js-colorbox-close\">No<\/a> <a href=\"#\" class=\"btn btn--red btn--danger js-delete-confirm\">Yes<\/a><\/div>","privateAsk":"<h3>Are you sure?<\/h3>\r\n<p>You are about to make your account private, so no one will be able to view your favorites.<\/p>\r\n<div class=\"text--right\"><a href=\"#\" class=\"btn btn--yellow btn--primary js-colorbox-close\">No<\/a> <a href=\"#\" class=\"btn btn--red btn--danger js-private-confirm\">Yes<\/a><\/div>","publicAsk":"<h3>Are you sure?<\/h3>\r\n<p>You are about to make your account public, so that anyone will be able to view your favorites.<\/p>\r\n<div class=\"text--right\"><a href=\"#\" class=\"btn btn--yellow btn--primary js-colorbox-close\">No<\/a> <a href=\"#\" class=\"btn btn--red btn--danger js-public-confirm\">Yes<\/a><\/div>"}},"feedback":{"href":"mailto:info@lollapalooza.com?subject=Website Feedback"},"mailchimp":{"uuid":"da0c94b2fb2cb953b44fcc721","dc":false},"janrain":{"capture":{"appId":false,"appDomain":false,"clientId":false,"redirectUri":false},"engage":{"appDomain":false,"tokenUrl":false,"shareDomain":false},"widgetHtml":false,"language":false},"audioplayer":{"disabled":false,"clientId":"e505ebee18216dde4d168ad4926f65ed"},"colorbox":{"close":"<span class=\"close\">&times;<\/span> Close"},"l10n":{"Close":"Close","Sign In\/Sign Up":"Sign In\/Sign Up","Sign Out":"Sign Out","Add":"Add","Remove":"Remove","Listen":"Listen","Share":"Share"},"tbits":{"accountId":"7167948","apiKey":"88a70a24-8075-4f6b-999b-ef441b882fba"},"year":"2015","selectedYear":"2015","currentUser":"0","allArtistsTracks":{"i16467":[{"track__artistId":16467,"track__artist":"Toro Y Moi","track__url":"https:\/\/soundcloud.com\/carparkrecords\/toro-y-moi-empty-nesters","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/185884942","track__title":"Toro Y Moi - Empty Nesters"}],"i16514":[{"track__artistId":16514,"track__artist":"Spookyland","track__url":"https:\/\/soundcloud.com\/mondayrecords\/spookyland-rock-and-roll-weakling-1","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/164076637","track__title":"Spookyland - Rock and Roll Weakling"}],"i16492":[{"track__artistId":16492,"track__artist":"MisterWives","track__url":"https:\/\/soundcloud.com\/misterwives\/reflections-reflections-ep","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/127763690","track__title":"Reflections - REFLECTIONS EP"}],"i16524":[{"track__artistId":16524,"track__artist":"Elle King","track__url":"https:\/\/soundcloud.com\/ellekingmusic\/elle-king-exs-ohs","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/168861838","track__title":"Elle King - Ex's & Oh's"}],"i16889":[{"track__artistId":16889,"track__artist":"The Pop Ups","track__url":"https:\/\/soundcloud.com\/the-pop-ups\/02-all-these-shapes-touch?in=the-pop-ups\/sets\/appetite-for-construction-preview","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/146108211","track__title":"All These Shapes"}],"i16468":[{"track__artistId":16468,"track__artist":"ODESZA","track__url":"https:\/\/soundcloud.com\/odesza\/say_my_name?in=odesza\/sets\/in-return","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/163684297","track__title":"ODESZA - Say My Name (feat. Zyra)"}],"i16535":[{"track__artistId":16535,"track__artist":"V\u00c9RIT\u00c9","track__url":"https:\/\/soundcloud.com\/veritemusic\/weekend1?in=veritemusic\/sets\/v-rit-echo-ep","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/162056567","track__title":"Weekend"}],"i16426":[{"track__artistId":16426,"track__artist":"Bassnectar","track__url":"https:\/\/soundcloud.com\/bassnectar\/now-ft-rye-rye?in=bassnectar\/sets\/noise-vs-beauty","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/147597627","track__title":"Now Ft.  Rye Rye"}],"i16518":[{"track__artistId":16518,"track__artist":"Lion Babe","track__url":"https:\/\/soundcloud.com\/lionbabe\/jump-hi","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/173154263","track__title":"Jump Hi (ft. Childish Gambino)"}],"i16481":[{"track__artistId":16481,"track__artist":"RL Grime","track__url":"https:\/\/soundcloud.com\/rlgrime\/core-rl-grime","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/158827653","track__title":"Core - RL Grime"}],"i16439":[{"track__artistId":16439,"track__artist":"Dillon Francis","track__url":"https:\/\/soundcloud.com\/dillonfrancis\/dillon-francis-dj-snake-get?in=dillonfrancis\/sets\/money-sucks-friends-rule","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/133060071","track__title":"Dillon Francis & DJ Snake - Get Low"}],"i16489":[{"track__artistId":16489,"track__artist":"Ryn Weaver","track__url":"https:\/\/soundcloud.com\/rynweaver\/ryn-weaver-octahate","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/155798585","track__title":"OctaHate"}],"i16432":[{"track__artistId":16432,"track__artist":"Alesso","track__url":"https:\/\/soundcloud.com\/alesso\/heroes","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/164138555","track__title":"Heroes (We Could Be) ft. Tove Lo"}],"i16471":[{"track__artistId":16471,"track__artist":"Glass Animals","track__url":"https:\/\/soundcloud.com\/glassanimals\/hazey","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/165756102","track__title":"Hazey"}],"i16466":[{"track__artistId":16466,"track__artist":"Death From Above 1979","track__url":"https:\/\/soundcloud.com\/deathfromabove1979\/trainwreck-1979","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/157005310","track__title":"Trainwreck 1979"}],"i16460":[{"track__artistId":16460,"track__artist":"Banks","track__url":"https:\/\/soundcloud.com\/banksbanksbanks\/banks-beggin-for-thread","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/159712413","track__title":"BANKS - BEGGIN FOR THREAD"}],"i16445":[{"track__artistId":16445,"track__artist":"Kygo","track__url":"https:\/\/soundcloud.com\/kygo\/firestone-ft-conrad","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/179647213","track__title":"Firestone (Ft. Conrad)"}],"i16512":[{"track__artistId":16512,"track__artist":"The Wombats","track__url":"https:\/\/soundcloud.com\/thewombats\/greek-tragedy","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/186026607","track__title":"Greek Tragedy"}],"i16442":[{"track__artistId":16442,"track__artist":"G-Eazy","track__url":"https:\/\/soundcloud.com\/g-eazy\/lotta-that-ft-asap-ferg-danny-seth","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/153625454","track__title":"Lotta That ft. A$AP Ferg & Danny Seth"}],"i16530":[{"track__artistId":16530,"track__artist":"B\u00d8RNS","track__url":"https:\/\/soundcloud.com\/bornsmusic\/b-rns-10-000-emerald-pools","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/170134653","track__title":"10,000 Emerald Pools"}],"i17063":[{"track__artistId":17063,"track__artist":"Travis Scott","track__url":"https:\/\/soundcloud.com\/travisscott-2\/nothing-but-net-ft-partynextdoor-young-thug","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/188085971","track__title":"Nothing But Net Ft Partynextdoor , Young Thug"}],"i16448":[{"track__artistId":16448,"track__artist":"The War on Drugs","track__url":"https:\/\/soundcloud.com\/thewarondrugs\/red-eyes","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/123074747","track__title":"Red Eyes"}],"i16473":[{"track__artistId":16473,"track__artist":"The Chainsmokers","track__url":"https:\/\/soundcloud.com\/thechainsmokers\/let-you-go","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/192865052","track__title":"Let You Go Ft. Great Good Fine Ok"}],"i16860":[{"track__artistId":16860,"track__artist":"In The Whale","track__url":"https:\/\/soundcloud.com\/in-the-whale\/track-1-radio-aif","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/196082623","track__title":"RADIO"}],"i16472":[{"track__artistId":16472,"track__artist":"St. Paul & the Broken Bones","track__url":"https:\/\/soundcloud.com\/thirtytigers\/st-paul-the-broken-bones-call","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/133620027","track__title":"St. Paul & The Broken Bones - Call Me"}],"i16534":[{"track__artistId":16534,"track__artist":"ZEBRA KATZ","track__url":"https:\/\/soundcloud.com\/zebrakatz\/tear-the-house-up-monsieur-monsieur-remix","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/165926137","track__title":"Tear The House Up [Monsieur Monsieur Remix]"}],"i16508":[{"track__artistId":16508,"track__artist":"Catfish and the Bottlemen","track__url":"https:\/\/soundcloud.com\/communionmusic\/catfish_kathleen","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/135495195","track__title":"Catfish and the Bottlemen - Kathleen"}],"i16456":[{"track__artistId":16456,"track__artist":"Lord Huron","track__url":"https:\/\/soundcloud.com\/lord-huron\/the-world-ender","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/194566115","track__title":"The World Ender"}],"i16484":[{"track__artistId":16484,"track__artist":"BROODS","track__url":"https:\/\/soundcloud.com\/broods\/broods-mother-father","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/154903684","track__title":"BROODS - Mother & Father"}],"i16523":[{"track__artistId":16523,"track__artist":"jackLNDN","track__url":"https:\/\/soundcloud.com\/jacklndn\/george-maple-talk-talk-jacklndn-remix-2","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/175653614","track__title":"George Maple - Talk Talk (JackLNDN Remix)"}],"i16505":[{"track__artistId":16505,"track__artist":"Coasts","track__url":"https:\/\/soundcloud.com\/coastsband\/coasts-modern-love","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/193859670","track__title":"Coasts - Modern Love"}],"i16443":[{"track__artistId":16443,"track__artist":"Gary Clark Jr.","track__url":"https:\/\/soundcloud.com\/garyclarkjr\/gary-clark-jr-bright-lights-2","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/37382659","track__title":"Gary Clark Jr - Bright Lights: Live At KCRW"}],"i16546":[{"track__artistId":16546,"track__artist":"Beat Connection","track__url":"https:\/\/soundcloud.com\/beatconnexion\/another-go-round","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/167921594","track__title":"Another Go Round"}],"i16529":[{"track__artistId":16529,"track__artist":"The Lonely Biscuits","track__url":"https:\/\/soundcloud.com\/thelonelybiscuits\/circle-lines-1","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/193295902","track__title":"Circle Lines"}],"i16522":[{"track__artistId":16522,"track__artist":"Black Tiger Sex Machine","track__url":"https:\/\/soundcloud.com\/blacktigersexmachine\/the-grave","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/172116053","track__title":"Black Tiger Sex Machine x Apashe - The Grave (ft. Gabriella Hook)"}],"i16480":[{"track__artistId":16480,"track__artist":"Twin Peaks","track__url":"https:\/\/soundcloud.com\/twinpeaksdudes\/i-found-a-new-way","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/148108593","track__title":"Twin Peaks I Found A New Way"}],"i16428":[{"track__artistId":16428,"track__artist":"alt-J","track__url":"https:\/\/soundcloud.com\/alt-j\/left-hand-free","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/157635220","track__title":"Left Hand Free"}],"i16503":[{"track__artistId":16503,"track__artist":"Alison Wonderland","track__url":"https:\/\/soundcloud.com\/alisonwonderland\/alison-wonderland-i-want-u-1","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/147439062","track__title":"Alison Wonderland - I Want U"}],"i16511":[{"track__artistId":16511,"track__artist":"BADBADNOTGOOD","track__url":"https:\/\/soundcloud.com\/badbadnotgood\/cs60","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/128872956","track__title":"CS60"}],"i16521":[{"track__artistId":16521,"track__artist":"Jack Novak","track__url":"https:\/\/soundcloud.com\/jacknovak\/jack-novak-driving-blind-ft-bright-lights","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/201867767","track__title":"Jack Novak - Driving Blind (feat. Bright Lights)"}],"i16516":[{"track__artistId":16516,"track__artist":"Jessica Hernandez & The Deltas","track__url":"https:\/\/soundcloud.com\/jessicahernandezdeltas\/jessica-hernandez-the-deltas-sorry-i-stole-your-man","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/161672547","track__title":"Jessica Hernandez & The Deltas - Sorry I Stole Your Man"}],"i16476":[{"track__artistId":16476,"track__artist":"Wild Belle","track__url":"https:\/\/soundcloud.com\/wildbelle\/its-too-late","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/59765395","track__title":"It's Too Late"}],"i16474":[{"track__artistId":16474,"track__artist":"Django Django","track__url":"https:\/\/soundcloud.com\/djangodjango\/reflections","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/196295430","track__title":"Reflections"}],"i16539":[{"track__artistId":16539,"track__artist":"SirenXX","track__url":"https:\/\/soundcloud.com\/thechainsmokers\/kanye","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/161268280","track__title":"KANYE ft. SirenXX"}],"i16506":[{"track__artistId":16506,"track__artist":"DMA's","track__url":"https:\/\/soundcloud.com\/dmasmusic\/dmas-laced","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/172082186","track__title":"DMA's - Laced"}],"i16431":[{"track__artistId":16431,"track__artist":"Kaskade","track__url":"https:\/\/soundcloud.com\/kaskade\/alittlemore","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/176362690","track__title":"Kaskade & John Dahlb\u00e4ck - A Little More feat Sansa"}],"i16479":[{"track__artistId":16479,"track__artist":"LOGIC","track__url":"https:\/\/soundcloud.com\/teamvisionary\/logic-buried-alive","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/171273542","track__title":"Logic - Buried Alive"}],"i16444":[{"track__artistId":16444,"track__artist":"Nicky Romero","track__url":"https:\/\/soundcloud.com\/nickyromero\/nicky-romero-vicetone-let-me-feel-ft-when-we-are-wild-available-october-6","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/168285849","track__title":"Nicky Romero & Vicetone - Let Me Feel (ft. When We Are Wild) (OUT NOW)"}],"i17877":[{"track__artistId":17877,"track__artist":"LANY","track__url":"https:\/\/soundcloud.com\/thisislany\/ilysb","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/156783113","track__title":"ILYSB"}],"i16463":[{"track__artistId":16463,"track__artist":"Chet Faker","track__url":"https:\/\/soundcloud.com\/chet-faker\/1998a","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/144696525","track__title":"Chet Faker - 1998"}],"i16461":[{"track__artistId":16461,"track__artist":"Sylvan Esso","track__url":"https:\/\/soundcloud.com\/sylvanesso\/hey-mami","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/92170334","track__title":"Hey Mami"}],"i16455":[{"track__artistId":16455,"track__artist":"Cold War Kids","track__url":"https:\/\/soundcloud.com\/coldwarkids\/first","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/164767462","track__title":"First"}],"i16542":[{"track__artistId":16542,"track__artist":"Kyle Thornton & the Company","track__url":"https:\/\/soundcloud.com\/ktandtheco\/i-wanna-be","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/196439491","track__title":"I Wanna Be (Your Man)"}],"i16477":[{"track__artistId":16477,"track__artist":"Delta Spirit","track__url":"https:\/\/soundcloud.com\/jessicahernandezdeltas\/jessica-hernandez-the-deltas-sorry-i-stole-your-man","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/161672547","track__title":"Jessica Hernandez & The Deltas - Sorry I Stole Your Man"}],"i16495":[{"track__artistId":16495,"track__artist":"Hermitude","track__url":"https:\/\/soundcloud.com\/hermitude\/through-the-roof-1","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/186993207","track__title":"Through The Roof feat. Young Tapz"}],"i16541":[{"track__artistId":16541,"track__artist":"Daye Jack","track__url":"https:\/\/soundcloud.com\/daye-jack\/summer-day-1","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/174229540","track__title":"Summer Day"}],"i16493":[{"track__artistId":16493,"track__artist":"CAKED UP","track__url":"https:\/\/soundcloud.com\/eatdatcake\/rave-police-preview-out-on-dim-mak-feb-10th","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/187562406","track__title":"Rave Police Out Now on DIM MAK"}],"i16450":[{"track__artistId":16450,"track__artist":"Walk The Moon","track__url":"https:\/\/soundcloud.com\/walk-the-moon\/walk-the-moon-shut-up-and-dance","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/167152767","track__title":"WALK THE MOON - Shut Up and Dance"}],"i16449":[{"track__artistId":16449,"track__artist":"Father John Misty","track__url":"https:\/\/soundcloud.com\/fatherjohnmisty\/chateau-lobby-4-in-c-for-two-virgins","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/180484148","track__title":"Chateau Lobby #4 (in C for Two Virgins)"}],"i16525":[{"track__artistId":16525,"track__artist":"COIN","track__url":"https:\/\/soundcloud.com\/thisiscoin\/run","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/187536843","track__title":"Run"}],"i16494":[{"track__artistId":16494,"track__artist":"What So Not","track__url":"https:\/\/soundcloud.com\/whatsonot\/what-so-not-gemini-ft-george-maple","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/198813741","track__title":"What So Not - Gemini Ft. George Maple"}],"i16454":[{"track__artistId":16454,"track__artist":"The Tallest Man On Earth","track__url":"https:\/\/soundcloud.com\/deadoceans\/the-tallest-man-on-earth-sagres","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/191824854","track__title":"The Tallest Man On Earth - Sagres"}],"i16451":[{"track__artistId":16451,"track__artist":"Marina and The Diamonds","track__url":"https:\/\/soundcloud.com\/marina-and-the-diamonds\/marina-and-the-diamonds-charli","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/90270915","track__title":"MARINA AND THE DIAMONDS + CHARLI XCX | \u2661 JUST DESSERTS \u2661"}],"i16488":[{"track__artistId":16488,"track__artist":"MOON TAXI","track__url":"https:\/\/soundcloud.com\/moontaxi\/the-new-black","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/110063431","track__title":"The New Black"}],"i16858":[{"track__artistId":16858,"track__artist":"Gabriel Garz\u00f3n-Montano","track__url":"https:\/\/soundcloud.com\/gabriel-garzonmontano\/everything-is-everything","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/131874959","track__title":"Everything Is Everything"}],"i16440":[{"track__artistId":16440,"track__artist":"Carnage","track__url":"https:\/\/soundcloud.com\/djcarnageofficial\/carnage-like-tuh-feat-makonnen","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/192533360","track__title":"Carnage - I Like Tuh Feat. ILoveMakonnen"}],"i16536":[{"track__artistId":16536,"track__artist":"Hippo Campus","track__url":"https:\/\/soundcloud.com\/hippo-campus\/02-little-grace","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/174591793","track__title":"Little Grace"}],"i16429":[{"track__artistId":16429,"track__artist":"Alabama Shakes","track__url":"https:\/\/soundcloud.com\/alabamashakes\/always-alright-mp3","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/79795329","track__title":"Always Alright"}],"i16642":[{"track__artistId":16642,"track__artist":"Mako","track__url":"https:\/\/soundcloud.com\/wearemako\/mako-paris-simo-not-alone","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/194064352","track__title":"Mako, Paris & Simo - Not Alone [OUT NOW]"}],"i16485":[{"track__artistId":16485,"track__artist":"Strand of Oaks","track__url":"http:\/\/soundcloud.com\/deadoceans\/strand-of-oaks-shut-i-n","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/148571306","track__title":"Strand of Oaks - Shut In"}],"i16504":[{"track__artistId":16504,"track__artist":"Circa Waves","track__url":"https:\/\/soundcloud.com\/circawaves\/fossils-3","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/178388497","track__title":"Fossils"}],"i16846":[{"track__artistId":16846,"track__artist":"Mista Cookie Jar & the Chocolate Chips","track__url":"https:\/\/soundcloud.com\/mista-cookie-jar\/the-love-bubble","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/54518875","track__title":"The Love Bubble"}],"i16423":[{"track__artistId":16423,"track__artist":"Metallica","track__url":"https:\/\/soundcloud.com\/officialmetallica\/metallica-lords-of-summer","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/140274835","track__title":"Metallica - Lords of Summer (Garage Demo Version)"}],"i16533":[{"track__artistId":16533,"track__artist":"Mt. Eden","track__url":"https:\/\/soundcloud.com\/mtedenofficial\/blackmill-mt-eden-now","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/182968251","track__title":"Blackmill + Mt Eden - Now"}],"i16537":[{"track__artistId":16537,"track__artist":"Pell","track__url":"https:\/\/soundcloud.com\/pellyeah\/eleven-11","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/134081602","track__title":"Eleven:11"}],"i16446":[{"track__artistId":16446,"track__artist":"Flying Lotus","track__url":"https:\/\/soundcloud.com\/flyinglotus\/coronus-the-terminator","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/168192066","track__title":"Coronus, The Terminator"}],"i16510":[{"track__artistId":16510,"track__artist":"Skylar Spence","track__url":"https:\/\/soundcloud.com\/carparkrecords\/fionacoyne","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/157700627","track__title":"Skylar Spence - Fiona Coyne"}],"i16519":[{"track__artistId":16519,"track__artist":"Peking Duk","track__url":"https:\/\/soundcloud.com\/pekingduk\/peking-duk-high-ft-nicole","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/134684719","track__title":"Peking Duk - High (ft. Nicole Millar)"}],"i16517":[{"track__artistId":16517,"track__artist":"SNBRN","track__url":"https:\/\/soundcloud.com\/snbrn\/raindrops-feat-kerli","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/187003696","track__title":"Raindrops Feat. Kerli (Original Mix)"}],"i17698":[{"track__artistId":17698,"track__artist":"Janelle Kroll","track__url":"https:\/\/soundcloud.com\/janelle-kroll\/sunny-days-1","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/189588348","track__title":"Sunny Days"}]}};
+var C3FMConfig = {"ajaxUrl":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/themes\/lolla2014\/ajax\/wp-ajax.php","alexa":{"accountId":"JyTzk1aUy1008N","domain":"lollapalooza.com"},"analytics":{"gaId":"UA-49228721-1","uaId":"UA-1835828-1","domain":"lollapalooza.com"},"themeUrl":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/themes\/lolla2014\/","defaultTrack":[],"messages":{"audioplayer":{"error":"<h3>This track is currently unavailable<\/h3>\r\n<p> Our staff has now been notified, thank you.<\/p>","timeout":"<h3>This track is currently unavailable<\/h3>\r\n<p>Your current internet connection speed is too slow to stream this track. Try again with a faster connection.<\/p>"},"janrain":{"loginError":"<h3>An Error Occured<\/h3>\r\n<p>We encountered a problem while trying to log you in. Please try again.<\/p>"},"myaccount":{"deleteAsk":"<h3>Are you sure?<\/h3>\r\n<p>You are about to delete your account. This cannot be undone.<\/p>\r\n<div class=\"text--right\"><a href=\"#\" class=\"btn btn--yellow btn--primary js-colorbox-close\">No<\/a> <a href=\"#\" class=\"btn btn--red btn--danger js-delete-confirm\">Yes<\/a><\/div>","privateAsk":"<h3>Are you sure?<\/h3>\r\n<p>You are about to make your account private, so no one will be able to view your favorites.<\/p>\r\n<div class=\"text--right\"><a href=\"#\" class=\"btn btn--yellow btn--primary js-colorbox-close\">No<\/a> <a href=\"#\" class=\"btn btn--red btn--danger js-private-confirm\">Yes<\/a><\/div>","publicAsk":"<h3>Are you sure?<\/h3>\r\n<p>You are about to make your account public, so that anyone will be able to view your favorites.<\/p>\r\n<div class=\"text--right\"><a href=\"#\" class=\"btn btn--yellow btn--primary js-colorbox-close\">No<\/a> <a href=\"#\" class=\"btn btn--red btn--danger js-public-confirm\">Yes<\/a><\/div>"}},"feedback":{"href":"mailto:info@lollapalooza.com?subject=Website Feedback"},"mailchimp":{"uuid":"da0c94b2fb2cb953b44fcc721","dc":false},"janrain":{"capture":{"appId":false,"appDomain":false,"clientId":false,"redirectUri":false},"engage":{"appDomain":false,"tokenUrl":false,"shareDomain":false},"widgetHtml":false,"language":false},"audioplayer":{"disabled":false,"clientId":"e505ebee18216dde4d168ad4926f65ed"},"colorbox":{"close":"<span class=\"close\">&times;<\/span> Close"},"tbits":{"accountId":"7167948","apiKey":"88a70a24-8075-4f6b-999b-ef441b882fba"},"year":"2015","selectedYear":"2015","l10n":{"Close":"Close","Sign In\/Sign Up":"Sign In\/Sign Up","Sign Out":"Sign Out","Add":"Add","Remove":"Remove","Listen":"Listen","Share":"Share"},"currentUser":"0","allArtistsTracks":{"i16536":[{"track__artistId":16536,"track__artist":"Hippo Campus","track__url":"https:\/\/soundcloud.com\/hippo-campus\/02-little-grace","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-hippo-campus-1280x8001-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/174591793","track__title":"Little Grace"}],"i16506":[{"track__artistId":16506,"track__artist":"DMA's","track__url":"https:\/\/soundcloud.com\/dmasmusic\/dmas-laced","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/dmasnew-300x149.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/172082186","track__title":"DMA's - Laced"}],"i16466":[{"track__artistId":16466,"track__artist":"Death From Above 1979","track__url":"https:\/\/soundcloud.com\/deathfromabove1979\/trainwreck-1979","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-death-from-above-1979-1280x8001-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/157005310","track__title":"Trainwreck 1979"}],"i16471":[{"track__artistId":16471,"track__artist":"Glass Animals","track__url":"https:\/\/soundcloud.com\/glassanimals\/hazey","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/glass-animalsnew-300x199.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/165756102","track__title":"Hazey"}],"i16535":[{"track__artistId":16535,"track__artist":"V\u00c9RIT\u00c9","track__url":"https:\/\/soundcloud.com\/veritemusic\/weekend1?in=veritemusic\/sets\/v-rit-echo-ep","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/Verite-Press-Photonew-200x300.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/162056567","track__title":"Weekend"}],"i16442":[{"track__artistId":16442,"track__artist":"G-Eazy","track__url":"https:\/\/soundcloud.com\/g-eazy\/lotta-that-ft-asap-ferg-danny-seth","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-g-eazy-1280x8001-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/153625454","track__title":"Lotta That ft. A$AP Ferg &amp; Danny Seth"}],"i16493":[{"track__artistId":16493,"track__artist":"CAKED UP","track__url":"https:\/\/soundcloud.com\/eatdatcake\/rave-police-preview-out-on-dim-mak-feb-10th","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-caked-up-1280x8001-e1434124589791-300x176.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/187562406","track__title":"Rave Police Out Now on DIM MAK"}],"i16489":[{"track__artistId":16489,"track__artist":"Ryn Weaver","track__url":"https:\/\/soundcloud.com\/rynweaver\/ryn-weaver-octahate","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-ryn-weaver-1280x8001-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/155798585","track__title":"OctaHate"}],"i16440":[{"track__artistId":16440,"track__artist":"Carnage","track__url":"https:\/\/soundcloud.com\/djcarnageofficial\/carnage-like-tuh-feat-makonnen","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-carnage-1280x800-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/192533360","track__title":"Carnage - I Like Tuh Feat. ILoveMakonnen"}],"i16468":[{"track__artistId":16468,"track__artist":"ODESZA","track__url":"https:\/\/soundcloud.com\/odesza\/say_my_name?in=odesza\/sets\/in-return","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/odeszanew-300x185.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/163684297","track__title":"ODESZA - Say My Name (feat. Zyra)"}],"i16642":[{"track__artistId":16642,"track__artist":"Mako","track__url":"https:\/\/soundcloud.com\/wearemako\/mako-paris-simo-not-alone","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/06\/newmako-300x199.png","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/194064352","track__title":"Mako, Paris & Simo - Not Alone [OUT NOW]"}],"i16480":[{"track__artistId":16480,"track__artist":"Twin Peaks","track__url":"https:\/\/soundcloud.com\/twinpeaksdudes\/i-found-a-new-way","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-twin-peaks-1280x800-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/148108593","track__title":"Twin Peaks &quot;I Found A New Way&quot;"}],"i16446":[{"track__artistId":16446,"track__artist":"Flying Lotus","track__url":"https:\/\/soundcloud.com\/flyinglotus\/coronus-the-terminator","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-flying-lotus-1280x8001-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/168192066","track__title":"Coronus, The Terminator"}],"i16522":[{"track__artistId":16522,"track__artist":"Black Tiger Sex Machine","track__url":"https:\/\/soundcloud.com\/blacktigersexmachine\/the-grave","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-blacktiger-sexmachine-1280x8001-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/172116053","track__title":"Black Tiger Sex Machine x Apashe - The Grave (ft. Gabriella Hook)"}],"i16428":[{"track__artistId":16428,"track__artist":"alt-J","track__url":"https:\/\/soundcloud.com\/alt-j\/left-hand-free","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-alt-j-1280x800-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/157635220","track__title":"Left Hand Free"}],"i16431":[{"track__artistId":16431,"track__artist":"Kaskade","track__url":"https:\/\/soundcloud.com\/kaskade\/alittlemore","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-kaskade-1280x8001-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/176362690","track__title":"Kaskade &amp; John Dahlb\u00e4ck - A Little More feat Sansa"}],"i16455":[{"track__artistId":16455,"track__artist":"Cold War Kids","track__url":"https:\/\/soundcloud.com\/coldwarkids\/first","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/06\/newcwk-300x199.png","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/164767462","track__title":"First"}],"i16463":[{"track__artistId":16463,"track__artist":"Chet Faker","track__url":"https:\/\/soundcloud.com\/chet-faker\/1998a","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/chet-fakernew-300x200.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/144696525","track__title":"Chet Faker - 1998"}],"i16537":[{"track__artistId":16537,"track__artist":"Pell","track__url":"https:\/\/soundcloud.com\/pellyeah\/eleven-11","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-pell-1280x8001-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/134081602","track__title":"Eleven:11"}],"i16448":[{"track__artistId":16448,"track__artist":"The War on Drugs","track__url":"https:\/\/soundcloud.com\/thewarondrugs\/red-eyes","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/the-war-on-drugsnew-300x199.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/123074747","track__title":"Red Eyes"}],"i16504":[{"track__artistId":16504,"track__artist":"Circa Waves","track__url":"https:\/\/soundcloud.com\/circawaves\/fossils-3","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-circa-waves-1280x8001-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/178388497","track__title":"Fossils"}],"i16530":[{"track__artistId":16530,"track__artist":"B\u00d8RNS","track__url":"https:\/\/soundcloud.com\/bornsmusic\/b-rns-10-000-emerald-pools","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-borns-1280x800-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/170134653","track__title":"10,000 Emerald Pools"}],"i16860":[{"track__artistId":16860,"track__artist":"In The Whale","track__url":"https:\/\/soundcloud.com\/in-the-whale\/track-1-radio-aif","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/06\/newinthewhale-300x200.png","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/196082623","track__title":"RADIO"}],"i16519":[{"track__artistId":16519,"track__artist":"Peking Duk","track__url":"https:\/\/soundcloud.com\/pekingduk\/peking-duk-high-ft-nicole","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-perking-duk-1280x8001-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/134684719","track__title":"Peking Duk - High (ft. Nicole Millar)"}],"i16494":[{"track__artistId":16494,"track__artist":"What So Not","track__url":"https:\/\/soundcloud.com\/whatsonot\/what-so-not-gemini-ft-george-maple","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/whats-so-not-1280x800-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/198813741","track__title":"What So Not - Gemini Ft. George Maple"}],"i16495":[{"track__artistId":16495,"track__artist":"Hermitude","track__url":"https:\/\/soundcloud.com\/hermitude\/through-the-roof-1","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-hermitude-1280x8001-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/186993207","track__title":"Through The Roof feat. Young Tapz"}],"i16539":[{"track__artistId":16539,"track__artist":"SirenXX","track__url":"https:\/\/soundcloud.com\/thechainsmokers\/kanye","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-sirenxx-1280x8001-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/161268280","track__title":"KANYE ft. SirenXX"}],"i16454":[{"track__artistId":16454,"track__artist":"The Tallest Man On Earth","track__url":"https:\/\/soundcloud.com\/deadoceans\/the-tallest-man-on-earth-sagres","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-the-tallest-man-on-earth-1280x8001-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/191824854","track__title":"The Tallest Man On Earth - &quot;Sagres&quot;"}],"i16456":[{"track__artistId":16456,"track__artist":"Lord Huron","track__url":"https:\/\/soundcloud.com\/lord-huron\/the-world-ender","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-lord-huron-1280x800-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/194566115","track__title":"The World Ender"}],"i16533":[{"track__artistId":16533,"track__artist":"Mt. Eden","track__url":"https:\/\/soundcloud.com\/mtedenofficial\/blackmill-mt-eden-now","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-mt-eden-1280x8001-e1434124900378-300x165.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/182968251","track__title":"Blackmill + Mt Eden - Now"}],"i16461":[{"track__artistId":16461,"track__artist":"Sylvan Esso","track__url":"https:\/\/soundcloud.com\/sylvanesso\/hey-mami","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/sylvan-essonew-300x199.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/92170334","track__title":"Hey Mami"}],"i16508":[{"track__artistId":16508,"track__artist":"Catfish and the Bottlemen","track__url":"https:\/\/soundcloud.com\/communionmusic\/catfish_kathleen","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-catfish-and-the-bottlemen-1280x8001-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/135495195","track__title":"Catfish and the Bottlemen - Kathleen"}],"i16889":[{"track__artistId":16889,"track__artist":"The Pop Ups","track__url":"https:\/\/soundcloud.com\/the-pop-ups\/02-all-these-shapes-touch?in=the-pop-ups\/sets\/appetite-for-construction-preview","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/the-pop-ups-1280x800-300x187.png","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/146108211","track__title":"All These Shapes"}],"i16426":[{"track__artistId":16426,"track__artist":"Bassnectar","track__url":"https:\/\/soundcloud.com\/bassnectar\/now-ft-rye-rye?in=bassnectar\/sets\/noise-vs-beauty","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-bassnectar-1280x800-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/147597627","track__title":"Now Ft.  Rye Rye"}],"i16473":[{"track__artistId":16473,"track__artist":"The Chainsmokers","track__url":"https:\/\/soundcloud.com\/thechainsmokers\/let-you-go","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/the-chainsmokersnew-300x200.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/192865052","track__title":"Let You Go Ft. Great Good Fine Ok"}],"i16485":[{"track__artistId":16485,"track__artist":"Strand of Oaks","track__url":"http:\/\/soundcloud.com\/deadoceans\/strand-of-oaks-shut-i-n","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-strand-of-oaks-1280x8001-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/148571306","track__title":"Strand of Oaks - &quot;Shut In&quot;"}],"i16474":[{"track__artistId":16474,"track__artist":"Django Django","track__url":"https:\/\/soundcloud.com\/djangodjango\/reflections","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-django-djangod-1280x800-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/196295430","track__title":"Reflections"}],"i16490":[{"track__artistId":16490,"track__artist":"Travi$ Scott","track__url":"https:\/\/soundcloud.com\/travisscott-2\/nothing-but-net-ft-partynextdoor-young-thug","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/06\/travis-scott-199x300.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/188085971","track__title":"Nothing But Net Ft Partynextdoor , Young Thug"}],"i16846":[{"track__artistId":16846,"track__artist":"Mista Cookie Jar & the Chocolate Chips","track__url":"https:\/\/soundcloud.com\/mista-cookie-jar\/the-love-bubble","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/mista-cookie-chips-1280x800-300x187.png","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/54518875","track__title":"The Love Bubble"}],"i16472":[{"track__artistId":16472,"track__artist":"St. Paul & the Broken Bones","track__url":"https:\/\/soundcloud.com\/thirtytigers\/st-paul-the-broken-bones-call","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-st-paul-broken-bones-1280x8001-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/133620027","track__title":"St. Paul &amp; The Broken Bones - Call Me"}],"i16510":[{"track__artistId":16510,"track__artist":"Skylar Spence","track__url":"https:\/\/soundcloud.com\/carparkrecords\/fionacoyne","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-saint-pepsi-1280x8001-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/157700627","track__title":"Skylar Spence - Fiona Coyne"}],"i16450":[{"track__artistId":16450,"track__artist":"Walk The Moon","track__url":"https:\/\/soundcloud.com\/walk-the-moon\/walk-the-moon-shut-up-and-dance","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/walk-the-moonnew-300x198.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/167152767","track__title":"WALK THE MOON - Shut Up and Dance"}],"i16481":[{"track__artistId":16481,"track__artist":"RL Grime","track__url":"https:\/\/soundcloud.com\/rlgrime\/core-rl-grime","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/rl-grimenew-300x200.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/158827653","track__title":"Core - RL Grime"}],"i16517":[{"track__artistId":16517,"track__artist":"SNBRN","track__url":"https:\/\/soundcloud.com\/snbrn\/raindrops-feat-kerli","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/snbrnnew-300x199.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/187003696","track__title":"Raindrops Feat. Kerli (Original Mix)"}],"i16546":[{"track__artistId":16546,"track__artist":"Beat Connection","track__url":"https:\/\/soundcloud.com\/beatconnexion\/another-go-round","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-beat-connection-1280x800-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/167921594","track__title":"Another Go Round"}],"i17698":[{"track__artistId":17698,"track__artist":"Janelle Kroll","track__url":"https:\/\/soundcloud.com\/janelle-kroll\/sunny-days-1","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/JANELLEKROLL-lolla-photo-300x276.png","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/189588348","track__title":"Sunny Days"}],"i16476":[{"track__artistId":16476,"track__artist":"Wild Belle","track__url":"https:\/\/soundcloud.com\/wildbelle\/its-too-late","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/WildBelle-300x200.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/59765395","track__title":"It's Too Late"}],"i16516":[{"track__artistId":16516,"track__artist":"Jessica Hernandez & The Deltas","track__url":"https:\/\/soundcloud.com\/jessicahernandezdeltas\/jessica-hernandez-the-deltas-sorry-i-stole-your-man","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-jessica-and-the-deltas-1280x8001-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/161672547","track__title":"Jessica Hernandez &amp; The Deltas - Sorry I Stole Your Man"}],"i16429":[{"track__artistId":16429,"track__artist":"Alabama Shakes","track__url":"https:\/\/soundcloud.com\/alabamashakes\/always-alright-mp3","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-alabama-shakes-1280x800-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/79795329","track__title":"Always Alright"}],"i16492":[{"track__artistId":16492,"track__artist":"MisterWives","track__url":"https:\/\/soundcloud.com\/misterwives\/reflections-reflections-ep","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/mister-wivesnew-300x199.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/127763690","track__title":"Reflections - REFLECTIONS EP"}],"i16518":[{"track__artistId":16518,"track__artist":"Lion Babe","track__url":"https:\/\/soundcloud.com\/lionbabe\/jump-hi","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-lion-babe-1280x800-e1434125060228-300x157.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/173154263","track__title":"Jump Hi (ft. Childish Gambino)"}],"i16444":[{"track__artistId":16444,"track__artist":"Nicky Romero","track__url":"https:\/\/soundcloud.com\/nickyromero\/nicky-romero-vicetone-let-me-feel-ft-when-we-are-wild-available-october-6","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/nicky-romeronew-300x206.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/168285849","track__title":"Nicky Romero &amp; Vicetone - Let Me Feel (ft. When We Are Wild) (OUT NOW)"}],"i16460":[{"track__artistId":16460,"track__artist":"Banks","track__url":"https:\/\/soundcloud.com\/banksbanksbanks\/banks-beggin-for-thread","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-banks-1280x8001-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/159712413","track__title":"BANKS - BEGGIN FOR THREAD"}],"i16523":[{"track__artistId":16523,"track__artist":"jackLNDN","track__url":"https:\/\/soundcloud.com\/jacklndn\/george-maple-talk-talk-jacklndn-remix-2","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-jacklndn-1280x8001-e1434125110745-300x157.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/175653614","track__title":"George Maple - Talk Talk (JackLNDN Remix)"}],"i16505":[{"track__artistId":16505,"track__artist":"Coasts","track__url":"https:\/\/soundcloud.com\/coastsband\/coasts-modern-love","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-coasts1280x8001-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/193859670","track__title":"Coasts - Modern Love"}],"i16439":[{"track__artistId":16439,"track__artist":"Dillon Francis","track__url":"https:\/\/soundcloud.com\/dillonfrancis\/dillon-francis-dj-snake-get?in=dillonfrancis\/sets\/money-sucks-friends-rule","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-dillon-francis-1280x8001-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/133060071","track__title":"Dillon Francis &amp; DJ Snake - Get Low"}],"i16449":[{"track__artistId":16449,"track__artist":"Father John Misty","track__url":"https:\/\/soundcloud.com\/fatherjohnmisty\/chateau-lobby-4-in-c-for-two-virgins","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-father-john-misty-1280x8001-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/180484148","track__title":"Chateau Lobby #4 (in C for Two Virgins)"}],"i16521":[{"track__artistId":16521,"track__artist":"Jack Novak","track__url":"https:\/\/soundcloud.com\/jacknovak\/jack-novak-driving-blind-ft-bright-lights","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-jack-novak-1280x8001-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/201867767","track__title":"Jack Novak - Driving Blind (feat. Bright Lights)"}],"i16514":[{"track__artistId":16514,"track__artist":"Spookyland","track__url":"https:\/\/soundcloud.com\/mondayrecords\/spookyland-rock-and-roll-weakling-1","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/spookylandnew-300x199.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/164076637","track__title":"Spookyland - Rock and Roll Weakling"}],"i16477":[{"track__artistId":16477,"track__artist":"Delta Spirit","track__url":"https:\/\/soundcloud.com\/dualtone\/delta-spirit-from-now-on","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/delta-spiritnew-265x300.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/148052507","track__title":"From Now On"}],"i16503":[{"track__artistId":16503,"track__artist":"Alison Wonderland","track__url":"https:\/\/soundcloud.com\/alisonwonderland\/alison-wonderland-i-want-u-1","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-alison-wonderland-1280x800-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/147439062","track__title":"Alison Wonderland - I Want U"}],"i17877":[{"track__artistId":17877,"track__artist":"LANY","track__url":"https:\/\/soundcloud.com\/thisislany\/ilysb","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/04\/LANY-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/156783113","track__title":"ILYSB"}],"i16451":[{"track__artistId":16451,"track__artist":"Marina and The Diamonds","track__url":"https:\/\/soundcloud.com\/marina-and-the-diamonds\/marina-and-the-diamonds-charli","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-marina-and-the-diamonds-1280x800-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/90270915","track__title":"MARINA AND THE DIAMONDS + CHARLI XCX | \u2661 &quot;JUST DESSERTS&quot; \u2661"}],"i16534":[{"track__artistId":16534,"track__artist":"ZEBRA KATZ","track__url":"https:\/\/soundcloud.com\/zebrakatz\/tear-the-house-up-monsieur-monsieur-remix","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/06\/newzebrakatz-199x300.png","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/165926137","track__title":"Tear The House Up [Monsieur Monsieur Remix]"}],"i16484":[{"track__artistId":16484,"track__artist":"BROODS","track__url":"https:\/\/soundcloud.com\/broods\/broods-mother-father","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-broods-1280x8001-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/154903684","track__title":"BROODS - Mother &amp; Father"}],"i16542":[{"track__artistId":16542,"track__artist":"Kyle Thornton & the Company","track__url":"https:\/\/soundcloud.com\/ktandtheco\/i-wanna-be","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-kyle-thornton-1280x8001-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/196439491","track__title":"I Wanna Be (Your Man)"}],"i16432":[{"track__artistId":16432,"track__artist":"Alesso","track__url":"https:\/\/soundcloud.com\/alesso\/heroes","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-alesso-1280x800-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/164138555","track__title":"Heroes (We Could Be) ft. Tove Lo"}],"i16445":[{"track__artistId":16445,"track__artist":"Kygo","track__url":"https:\/\/soundcloud.com\/kygo\/firestone-ft-conrad","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/kygonew-300x200.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/179647213","track__title":"Firestone (Ft. Conrad)"}],"i16529":[{"track__artistId":16529,"track__artist":"The Lonely Biscuits","track__url":"https:\/\/soundcloud.com\/thelonelybiscuits\/circle-lines-1","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/thelonelybiscuits-300x200.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/193295902","track__title":"Circle Lines"}],"i16443":[{"track__artistId":16443,"track__artist":"Gary Clark Jr.","track__url":"https:\/\/soundcloud.com\/garyclarkjr\/gary-clark-jr-bright-lights-2","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/GCJR_IMG_9197F-300x200.jpeg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/37382659","track__title":"Gary Clark Jr - Bright Lights: Live At KCRW"}],"i16524":[{"track__artistId":16524,"track__artist":"Elle King","track__url":"https:\/\/soundcloud.com\/ellekingmusic\/elle-king-exs-ohs","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-elle-king-1280x8001-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/168861838","track__title":"Elle King - Ex&#039;s &amp; Oh&#039;s"}],"i16512":[{"track__artistId":16512,"track__artist":"The Wombats","track__url":"https:\/\/soundcloud.com\/thewombats\/greek-tragedy","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-the-wombats-1280x8001-e1434124949689-300x166.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/186026607","track__title":"Greek Tragedy"}],"i16488":[{"track__artistId":16488,"track__artist":"MOON TAXI","track__url":"https:\/\/soundcloud.com\/moontaxi\/moon-taxi-make-your-mind-up","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/moontaxi-300x300.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/215082289","track__title":"Make Your Mind Up"}],"i16479":[{"track__artistId":16479,"track__artist":"LOGIC","track__url":"https:\/\/soundcloud.com\/teamvisionary\/logic-buried-alive","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-logic-1280x800-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/171273542","track__title":"Logic - Buried Alive"}],"i16467":[{"track__artistId":16467,"track__artist":"Toro Y Moi","track__url":"https:\/\/soundcloud.com\/carparkrecords\/toro-y-moi-empty-nesters","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-toro-y-moi-1280x800-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/185884942","track__title":"Toro Y Moi - Empty Nesters"}],"i16525":[{"track__artistId":16525,"track__artist":"COIN","track__url":"https:\/\/soundcloud.com\/thisiscoin\/run","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-coin-1280x8001-e1434125159111-300x170.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/187536843","track__title":"Run"}],"i16511":[{"track__artistId":16511,"track__artist":"BADBADNOTGOOD","track__url":"https:\/\/soundcloud.com\/badbadnotgood\/cs60","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/06\/newBBNG-300x290.png","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/128872956","track__title":"CS60"}],"i16423":[{"track__artistId":16423,"track__artist":"Metallica","track__url":"https:\/\/soundcloud.com\/officialmetallica\/metallica-lords-of-summer","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-metallica-1280x800-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/140274835","track__title":"Metallica - Lords of Summer (Garage Demo Version)"}],"i16858":[{"track__artistId":16858,"track__artist":"Gabriel Garz\u00f3n-Montano","track__url":"https:\/\/soundcloud.com\/gabriel-garzonmontano\/everything-is-everything","image":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/uploads\/2015\/03\/lolla-gabriel-garzon-montano-1280x8001-300x187.jpg","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/131874959","track__title":"Everything Is Everything"}]}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://lolp1.c3cdn.com/wp/wp-content/themes/lolla2014/js/main.min.ts1433481022.js"></script>
+<script type="text/javascript" src="http://lolp2.c3cdn.com/wp/wp-content/themes/lolla2014/js/main.min.ts1444257369.js"></script>
         <div id="c3-feedback" class="feedback js-feedback-open">
             <p>FEEDBACK?</p>
         </div>
-        <!-- Seconds: 0.11871 -->
+        <!-- Seconds: 0.13572 -->
                                     <!-- Start Alexa Certify Javascript -->
                 <script type="text/javascript">
                 _atrk_opts = { atrk_acct:"JyTzk1aUy1008N", domain:"lollapalooza.com",dynamic: true};
@@ -938,6 +778,6 @@ var C3FMConfig = {"ajaxUrl":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/them
                 </script>
                 <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=JyTzk1aUy1008N" style="display:none" height="1" width="1" alt="" /></noscript>
                 <!-- End Alexa Certify Javascript -->
-                        <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"6ea70032f0","applicationID":"2943847","transactionName":"YFBbZRRRXhdXUkBcXVkaeFISWV8KGUFVUlc=","queueTime":0,"applicationTime":128,"atts":"TBdYE1xLTRk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-536.min.js"}</script>
+                        
 
-<!-- CDN Linker <https://github.com/wmark/CDN-Linker/tags> active --><script src="https://js-agent.newrelic.com/nr-536.min.js"></script></body></html>
+<!-- CDN Linker <https://github.com/wmark/CDN-Linker/tags> active --></body></html>
