@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mda.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607222007id_/http%3A//mda.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mda.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114702id_/http%3A//www.mda.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MDA
 
-Last Updated: September, 2014
+Last Updated: August 2015
 
 ### **Muscular Dystrophy Association, Inc.**  
 Privacy Policy
@@ -81,7 +81,7 @@ We do not knowingly collect information from minors under 18 years of age. No in
 
 **7\. SECURITY**
 
-While no data transmission over the Internet is 100% secure from intrusion, we maintain commercially reasonable physical, electronic and procedural safeguards to protect your Personal Information. However, regardless of our efforts and the device you use to access the Services, it is possible that third parties may unlawfully intercept or access transmissions or private communications over an unsecured transmission.
+While no data transmission over the Internet is 100% secure from intrusion, we maintain commercially reasonable physical, electronic and procedural safeguards to protect your Personal Information. Our server uses Secure Socket Layer (SSL) encryption to protect information submitted via the forms on this site. SSL is the industry standard security protocol. All credit card information is protected via strict PCI compliance. All off-line information is securely stored and is accessible only by authorized staff. However, regardless of our efforts and the device you use to access the Services, it is possible that third parties may unlawfully intercept or access transmissions or private communications over an unsecured transmission.
 
 **8\. YOUR CALIFORNIA PRIVACY RIGHTS**
 
@@ -105,7 +105,7 @@ The Services are controlled, operated and administered entirely within the Unite
 
 **13\. CONTACT US**
 
-If you have any questions about our privacy practices or any of the terms or conditions of this Privacy Policy, please feel free to contact us follows:
+If you have any questions about our privacy practices, concerns regarding misuse of personal data, or other inquiries related to the terms or conditions of this Privacy Policy, please feel free to contact us as follows:
 
 Email: [mda@mdausa.org](mailto:mda@mdausa.org)
 
@@ -127,4 +127,4 @@ This document is the sole statement of the Privacy Policy for the Services and n
 
 This Privacy Policy was last modified on the date indicated above and is effective immediately.
 
-Copyright © 2014 Muscular Dystrophy Association, Inc. All rights reserved.
+Copyright © 2015 Muscular Dystrophy Association, Inc. All rights reserved.
