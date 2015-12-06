@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the railwaygazette.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629075449id_/http%3A//www.railwaygazette.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the railwaygazette.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206113325id_/http%3A//www.railwaygazette.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@ Please contact us at any time should you require additional information or if yo
 
  **Field of application and basic principles  
 **  
-The following data protection provisions apply to the website operated by DVV Media UK Ltd under the name railwaygazette.com and to any related services. In collecting, processing and using personal data, DVV Media complies with the Data Protection Law of England and Wales and the European Union data protection regulations. We will handle all users’ data in a sensitive and responsible manner. The collection, processing and use of users’ personal data is solely for the purpose of operating this website and the services that it offers. No data is forwarded to third parties for commercial or business purposes. The registered body within the meaning of the applicable data protection laws is DVV Media UK Ltd, NINE Sutton Court Road, Sutton Surrey SM1 4SZ.
+The following data protection provisions apply to the website operated by DVV Media UK Ltd under the name railwaygazette.com and to any related services. In collecting, processing and using personal data, DVV Media complies with the Data Protection Law of England and Wales and the European Union data protection regulations. We will handle all users’ data in a sensitive and responsible manner. The collection, processing and use of users’ personal data is solely for the purpose of operating this website and the services that it offers. No data is forwarded to third parties for commercial or business purposes. The registered body within the meaning of the applicable data protection laws is DVV Media UK Ltd, Chancery House, St Nicholas Way, Sutton, Surrey SM1 1JB.
 
  **Automatic data processing**
 
@@ -55,4 +55,4 @@ Please note that we may still continue to use your data to the extent necessary 
 
 **Additional information** Your trust is very important to us. We are therefore happy to provide answers to any questions you may have regarding the processing of your personal data. Should you have questions that are not answered by this Privacy Policy or should you require more detailed information on a particular point, please refer to info(at)railwaygazette.com or write to us at the address below.   
 
-DVV Media UK Ltd,  Data Protection, NINE Sutton Court Road, Sutton Surrey SM1 4SZ England
+DVV Media UK Ltd,  Data Protection, Chancery House, St Nicholas Way,Sutton Surrey SM1 1JB England
