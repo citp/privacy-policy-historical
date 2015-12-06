@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a4academics.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174753id_/http%3A//a4academics.com/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a4academics.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206215354id_/http%3A//a4academics.com/terms-and-conditions) for the most accurate reproduction.*
 
 # Privacy Policy & Terms Of Service
 
@@ -59,6 +59,3 @@ If you have any queries about this Privacy Policy, please contact us at:
 Phone - **+91-9480369000**
 
 Email - **info@a4academics.com**
-
-#### Looking for a Job?   
-Immediate Job Openings in Top Companies
