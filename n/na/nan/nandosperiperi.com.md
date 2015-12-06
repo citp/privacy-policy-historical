@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nandosperiperi.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145218id_/http%3A//www.nandosperiperi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nandosperiperi.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141731id_/http%3A//www.nandosperiperi.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Nando’s USA
 
@@ -7,7 +7,7 @@
 1.1 Thank you for visiting the <http://www.nandosperiperi.com/> website (the "Website"). Nando’s Peri-Peri (“Nando’s) is registered as Nando’s Restaurant Group, Inc. ("we", "us" or "our") and is committed to protecting and respecting your privacy.   
  
 
-1.2 This Privacy Policy, together with our Website terms and conditions available at [www.nandosperiperi.com/terms-service](https://web.archive.org/web/20150607145218id_/http://www.nandosperiperi.com/terms-service), sets out the basis on which any personal information we collect from you, or that you provide to us, will be used, stored and processed by us ("Collect").  Please read the following carefully to understand our views and practices regarding your Personal Data (as defined below) and how we will treat it.  
+1.2 This Privacy Policy, together with our Website terms and conditions available at [www.nandosperiperi.com/terms-service](https://web.archive.org/web/20151206141731id_/http://www.nandosperiperi.com/terms-service), sets out the basis on which any personal information we collect from you, or that you provide to us, will be used, stored and processed by us ("Collect").  Please read the following carefully to understand our views and practices regarding your Personal Data (as defined below) and how we will treat it.  
  
 
 1.3 In adopting this Privacy Policy, we wish to balance our legitimate business interests and your reasonable expectation of privacy.  Accordingly, we will take reasonable steps to prevent unauthorised access to, or disclosure of your Personal Data.  However, we do not guarantee that your Personal Data shall be 100% secure.  
