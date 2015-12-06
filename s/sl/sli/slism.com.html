@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the slism.com privacy policy that was archived on 2015-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608041148id_/http%3A//slism.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the slism.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206141845id_/http%3A//slism.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html itemscope="" itemtype="http://schema.org/WebPage" dir="ltr" lang="en"><head>
 <meta charset="UTF-8">
 <title>Privacy Policy | Slism</title>
 <meta name="description" content="Privacy policy for Slism explaining how we value your privacy and personal information. Shows third party provisions. Please read before using site.">
-<link rel="stylesheet" href="http://slism.com/wpsystem/wp-content/themes/diet/style.css" type="text/css">
-<link rel="stylesheet" href="http://slism.com/wpsystem/wp-content/themes/diet/style-misc.css" type="text/css">
+<link rel="stylesheet" href="http://slism.com/wpsystem/wp-content/themes/diet/style-min.css" type="text/css">
+<link rel="stylesheet" href="http://slism.com/wpsystem/wp-content/themes/diet/style-misc-min.css" type="text/css">
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://slism.com/feed/">
 <link rel="shortcut icon" href="http://slism.com/favicon.ico">
 <script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=015430461700345413719:w3r9ofbmnkc"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js?ver=1.8.2"></script>
@@ -75,7 +75,8 @@
 </header>
 <div class="search">
 <script>
-  (function() {
+(function() {
+ var gcseCode=(function() {
     var cx = '015430461700345413719:w3r9ofbmnkc';
     var gcse = document.createElement('script');
     gcse.type = 'text/javascript';
@@ -84,7 +85,15 @@
         '//www.google.com/cse/cse.js?cx=' + cx;
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(gcse, s);
-  })();
+ });
+ var timeout=500;
+ var ua = window.navigator.userAgent.toLowerCase();
+ if (ua.indexOf('msie') != -1) {
+  $(document).ready(function(){setTimeout(gcseCode,timeout);});
+ } else {
+  gcseCode();
+ }
+})();
 </script>
 <gcse:searchbox-only></gcse:searchbox-only>
 <!-- .search end --></div>
