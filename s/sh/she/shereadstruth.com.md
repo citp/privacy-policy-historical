@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shereadstruth.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627064735id_/http%3A//shereadstruth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shereadstruth.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206111043id_/http%3A//shereadstruth.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - #SheReadsTruth | #SheReadsTruth
+# Privacy Policy - She Reads Truth : She Reads Truth
 
 The She Reads Truth Bible and Devotional App and She Reads Truth web site are owned and operated by She Reads Truth, LLC. We know you care how information about you is used and shared. We care about that stuff, too! We hope the following statements will help you understand how She Reads Truth will collect, use and protect the information you provide to us on our app.
 
