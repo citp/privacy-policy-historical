@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wilson.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608121034id_/http%3A//www.wilson.com/en-us/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilson.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141759id_/http%3A//www.wilson.com/en-us/legal) for the most accurate reproduction.*
 
 # Privacy Policy | Wilson
 
 ###  WILSON IS COMMITTED TO PROTECTING YOUR PRIVACY 
 
-Wilson is committed to protecting your privacy and complying with applicable data protection and privacy laws. We hope that this Privacy Policy ("Policy") helps you understand what kind of information we collect in connection with our products and services and how we process such information. Throughout this Policy the term "personal data" means information relating to an identified or identifiable individual (i.e. a natural person). "Wilson" refers to Wilson Sporting Goods Company in United States of America, including its affiliates and subsidiaries and Amer Sports Corporation group companies (also referred to as "we", "us", or "our"). 
+Wilson is committed to protecting your privacy and complying with applicable data protection and privacy laws. We hope that this Privacy Policy ("Policy") helps you understand what kind of information we collect in connection with our products and services and how we process such information. Throughout this Policy the term "personal data" means information relating to an identified or identifiable individual (i.e. a natural person). "Wilson" refers to Wilson Sporting Goods Co. in United States of America, including its affiliates and subsidiaries and Amer Sports Corporation group companies (also referred to as "we", "us", or "our"). 
 
 This Policy applies to personal data collected in connection with products and services offered by Wilson or from other interactions with us where a link or other reference of incorporation to this Policy is made, for example, in connection with our products and accessories, websites (also including mobile websites), applications and other types of services offered by Wilson typically in electronic form, as well as other services such as customer care and warranty services, customer events, or promotions and campaigns. 
 
@@ -48,6 +48,8 @@ We do not sell, lease, rent or otherwise disclose your personal data to third pa
 ###  Collecting the Data of Minors 
 
 Wilson does not seek to collect any information from or engage in any transactions with persons under the age of 13. Our databases may nevertheless contain personal data of children under 13 due to the fact that it is not always possible to determine precisely the age of the user. We reserve the right to block the service from any person who is under 13 years of age. Wilson's policy is to request that minors (the legal age of majority and therefore the age of minors is determined by local law where you reside) do not make purchases or engage in other legal acts on our products and services without the consent of a parent or legal guardian, unless otherwise permitted by applicable law. 
+
+California minors under 18 years old may request the removal of any information that they posted to Wilson sites by contacting domainadmin@wilson.com. Upon such request, Wilson will anonymize or remove from public view any content posted by a minor to one of its websites, unless required by law to retain such content or information. 
 
 ###  Data Quality 
 
