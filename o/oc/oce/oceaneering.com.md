@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the oceaneering.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607180033id_/http%3A//www.oceaneering.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceaneering.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206143115id_/http%3A//www.oceaneering.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Oceaneering
-
-**PRIVACY POLICY  
-Effective Date: June 7, 2011  
-Last Revision: June 7, 2011**
 
 **1\. Our Commitment To Privacy and Restrictions on Use of Our Site**
 
