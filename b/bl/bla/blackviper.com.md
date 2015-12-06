@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blackviper.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142857id_/http%3A//www.blackviper.com/home/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackviper.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140959id_/http%3A//www.blackviper.com/home/legal/%23privacy) for the most accurate reproduction.*
 
-# Legal » Black Viper | www.blackviper.com
+# Legal | Black Viper | www.blackviper.com
 
 ## Introduction
 
@@ -12,7 +12,7 @@ What you will find here is plain, easy to understand English. At least, I hope t
 
 By using this site for whatever purpose you intended, you agree to abide by the rules set forth on this page.
 
-If you do not agree, [please leave](https://www.google.com/?gws_rd=ssl) and do not access my domain again.
+If you do not agree, [please leave](https://www.google.com/) and do not access my domain again.
 
 ## Network
 
