@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jigsawplanet.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200217id_/http%3A//www.jigsawplanet.com%3Frc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jigsawplanet.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206145644id_/http%3A//www.jigsawplanet.com%3Frc%3Dprivacy) for the most accurate reproduction.*
 
 # Jigsaw Planet - Privacy Policy
 
