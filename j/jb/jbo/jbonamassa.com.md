@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jbonamassa.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607202811id_/http%3A//jbonamassa.com/about-joe/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbonamassa.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206113549id_/http%3A//jbonamassa.com/about-joe/privacy-policy-2) for the most accurate reproduction.*
 
-# Joe Bonamassa - Privacy Policy
+# Privacy Policy : Joe Bonamassa
 
 **J &R Adventures Privacy Policy**
 
