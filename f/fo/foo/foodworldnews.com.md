@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodworldnews.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628204614id_/http%3A//www.foodworldnews.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodworldnews.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114411id_/http%3A//www.foodworldnews.com/privacypolicy) for the most accurate reproduction.*
 
 # Food World News
 
@@ -175,16 +175,14 @@ Further, if you use any of the Communities features and functions made available
 
 Food Biz
 
-[](https://web.archive.org/articles/23684/20150626/starbucks-sued-for-forging-an-artwork.htm)
+[](https://web.archive.org/articles/61048/20151204/people-diabetes-twice-lose-teeth.htm)
 
-#### [Starbucks Sued For Forging Maya Hayuk's Art](https://web.archive.org/articles/23684/20150626/starbucks-sued-for-forging-an-artwork.htm)
+[](https://web.archive.org/articles/60597/20151203/target-owes-40-million-data-breach-losses.htm)
 
-Global coffee company Starbucks has received a copyright complaint from international artist Maya Hayuk regarding the presence of her artwork in the ‘Mini Frappuccino’ campaign.
+#### [Target Owes $40 Million for Data Breach Losses](https://web.archive.org/articles/60597/20151203/target-owes-40-million-data-breach-losses.htm)
+
+Target is expected to pay off about $39.4 million for a settlement with the banks. It is to make up for the losses of each financial institution after the retailer's massive data breach last 2013.
 
 Food Tech
 
-[](https://web.archive.org/articles/22289/20150617/starbucks-mobile-ordering-is-now-available-in-u-s-stores.htm)
-
-#### [Starbucks Mobile Ordering Is Now Available In U.S. Stores](https://web.archive.org/articles/22289/20150617/starbucks-mobile-ordering-is-now-available-in-u-s-stores.htm)
-
-Starbucks has successfully launched its Mobile Order & Pay program which will allow customers to make use of their smartphones to order and pay ahead of time. They can then pick up their pre-ordered drinks at any Starbucks location.
+[](https://web.archive.org/articles/60980/20151204/philippine-brandy-company-buys-fundador-spains-oldest-brandy-in-all-cash-%E2%82%AC275-million-deal.htm)
