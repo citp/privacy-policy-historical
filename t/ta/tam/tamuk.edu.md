@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamuk.edu privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141602id_/http%3A//www.tamuk.edu/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamuk.edu privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206030546id_/http%3A//www.tamuk.edu/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -57,4 +57,4 @@ Query string of the URI - Anything after the question mark in a
 
 URI Protocol - The transport protocol and version used
 
-This page was last updated on: April 30, 2010
+This page was last updated on: September 23, 2015
