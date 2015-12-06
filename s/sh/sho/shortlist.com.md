@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shortlist.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623141713id_/http%3A//www.shortlist.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shortlist.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206194723id_/http%3A//www.shortlist.com/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ShortList Magazine
 
@@ -93,4 +93,4 @@ We have installed security measures to ensure that any personal data entered on 
 
 If you have any questions or comments about this Privacy Policy or would like to cancel your Account, please contact: The Information Protection Officer, ShortList Media Ltd, 26-34 Emerald Street, London, WC1N 3QA.
 
-This Privacy Policy were last updated on 7th September, 2011.
+This Privacy Policy was last updated on 7th September, 2011.
