@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lloydsbankbusiness.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510055742id_/http%3A//www.lloydsbank.com/business/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lloydsbankbusiness.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206031243id_/http%3A//www.lloydsbank.com/business/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement | Business Banking | Lloyds Bank
 
@@ -114,7 +114,7 @@ We have systems that protect our customers and ourselves against fraud and other
     * Checking details on proposals and claims for all types of insurance.
     * Checking details of job applicants and employees.
 
-Please contact †0845 604 3740 if you want to receive details of the relevant fraud prevention agencies. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies.
+Please contact 0345 604 3740 if you want to receive details of the relevant fraud prevention agencies. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies.
 
   * ###  How we check your identity
 
