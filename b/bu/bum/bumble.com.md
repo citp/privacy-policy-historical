@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bumble.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228085345id_/http%3A//bumble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bumble.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206125515id_/http%3A//bumble.com/en-us/privacy) for the most accurate reproduction.*
 
 # Bumble - Privacy
 
-Welcome to the Bumble Privacy Policy ("Policy")! This explains how we collect, store, protect, and share your information, and with whom we share it. We suggest you read this in conjunction with our brilliant [Terms and Conditions of Use](https://web.archive.org/terms/). Whilst you're enjoying the Bumble mobile application ("App"), we collect some information about you. In addition, you may choose to use the App to share information with other Bumblers, including your friends and contacts ("Users"). We may also need to share your information sometimes. 
+Welcome to the Bumble Privacy Policy ("Policy")! This explains how we collect, store, protect, and share your information, and with whom we share it. We suggest you read this in conjunction with our brilliant [Terms and Conditions of Use](https://web.archive.org/en-us/terms). Whilst you're enjoying the Bumble mobile application ("App"), we collect some information about you. In addition, you may choose to use the App to share information with other Bumblers, including your friends and contacts ("Users"). We may also need to share your information sometimes. 
 
 By downloading and installing our App, you agree that we can collect, transfer, store, disclose and use your information as described in this Policy. Bumble is a global app, and your information will be sent to and used in the United States regardless of the country you reside in, and by downloading our App you consent to such transfer. So please read very carefully!
 
-If you have any questions or comments about this Policy, please feel free to contact us at [help@team.bumble.com](mailto:help@team.bumble.com).
+If you have any questions or comments about this Policy, please feel free to contact us at [feedback@bumble.com](mailto:feedback@bumble.com).
 
 ## 1\. COLLECTION OF INFORMATION.
 
@@ -43,7 +43,7 @@ Please be careful about posting sensitive details about yourself on your profile
 
 When you post information about yourself or use the messaging function, the amount of personal information you share is at your own risk. Please see Section 4 below for more information on who can access what you post on Bumble. If you post anything that is inconsistent with our Terms and Conditions of Use, we reserve the right to terminate your Account - we really don't want to have to do this so please play by the rules!
 
-**IF YOU PROVIDE A CELL PHONE NUMBER TO RECEIVE SMS MESSAGES FROM BUMBLE, YOU EXPRESSLY CONSENT TO RECEIVING SMS MESSAGES FROM US PROMOTING OUR SERVICES AND PRODUCTS. ALTHOUGH THERE IS NO FEE ASSOCIATED WITH THIS SERVICE, YOUR CARRIER MAY CHARGE YOU FOR EACH MESSAGE YOU RECEIVE. YOU AGREE THAT WE ARE NOT RESPONSIBLE FOR SUCH CHARGES. IF YOU DO NOT WISH TO CONTINUE TO RECEIVE ANY MESSAGES VIA YOUR MOBILE DEVICE, YOU MAY OPT-OUT AT ANY TIME BY TEXTING "STOP" IN RESPONSE TO A MARKETING SMS MESSAGE.**
+ **IF YOU PROVIDE A CELL PHONE NUMBER TO RECEIVE SMS MESSAGES FROM BUMBLE, YOU EXPRESSLY CONSENT TO RECEIVING SMS MESSAGES FROM US PROMOTING OUR SERVICES AND PRODUCTS. ALTHOUGH THERE IS NO FEE ASSOCIATED WITH THIS SERVICE, YOUR CARRIER MAY CHARGE YOU FOR EACH MESSAGE YOU RECEIVE. YOU AGREE THAT WE ARE NOT RESPONSIBLE FOR SUCH CHARGES. IF YOU DO NOT WISH TO CONTINUE TO RECEIVE ANY MESSAGES VIA YOUR MOBILE DEVICE, YOU MAY OPT-OUT AT ANY TIME BY TEXTING "STOP" IN RESPONSE TO A MARKETING SMS MESSAGE.**
 
 ### Data Storage
 
@@ -51,7 +51,7 @@ By using the App, you agree and acknowledge that Bumble is a global app operatin
 
 ### Geolocation Information
 
-If you turn these features on, we may collect your device's geolocation data and save your device's coordinates to offer certain features to you (e.g., Crossed Paths). We may also use your device's geolocation information to personalize the App and make it easier for you to interact with other Users. You can control your location information settings in your Account settings and switch them off if you really want to! Even if you have disabled location services, we may still determine your city, state, and country location based on your IP address (but not your exact location).
+If you turn these features on, we may collect your device's geolocation data and save your device's coordinates to offer certain features to you. We may also use your device's geolocation information to personalize the App and make it easier for you to interact with other Users. You can control your location information settings in your Account settings and switch them off if you really want to! Even if you have disabled location services, we may still determine your city, state, and country location based on your IP address (but not your exact location).
 
 ### Log and Usage Data
 
@@ -93,8 +93,8 @@ Our use of cookies and local storage devices, including the specific cookie name
 
 If you would like to know more about these clever and calorie free cookies, including flash cookies/local storage devices, the following websites provide useful information: 
 
-  * [www.allaboutcookies.org](https://web.archive.org/web/20141228085345id_/http%3A//bumble.com/www.allaboutcookies.org)
-  * [www.youronlinechoices.eu](https://web.archive.org/web/20141228085345id_/http%3A//bumble.com/www.youronlinechoices.eu)
+  * [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+  * [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
   * <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>
 
 
@@ -120,9 +120,9 @@ Our policy is to not disclose your Registration Information, except in the limit
 
 **Service Providers** \- We engage certain trusted third parties to perform functions and provide services to us. We may share your Registration Information with these third parties, but only for the purposes of performing these functions and providing such services.
 
-**Law and Harm** \- As we mentioned in the [Terms & Conditions](https://web.archive.org/terms/), we think it is very important that all Bumblers behave whilst using the App and we may preserve or disclose any of your information, including your Registration Information, if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect our rights or property.
+ **Law and Harm** \- As we mentioned in the [Terms & Conditions](https://web.archive.org/en-us/terms), we think it is very important that all Bumblers behave whilst using the App and we may preserve or disclose any of your information, including your Registration Information, if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect our rights or property.
 
-**Business Transfers** \- In the event that Bumble or any of our affiliates are involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction.
+ **Business Transfers** \- In the event that Bumble or any of our affiliates are involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction.
 
 **Non-Private or Non-Personal Information** \- We may share or disclose your non-private, aggregated or otherwise non-personal information with third parties for industry analysis and demographic profiling and to deliver targeted advertising about other products and services and for marketing purposes. You may opt-out of receiving marketing messages by using the opt-out mechanisms and links provided in each email.
 
@@ -130,15 +130,7 @@ Our policy is to not disclose your Registration Information, except in the limit
 
 We think our Bumblers are awesome, and we want you to share how awesome you are with the world, so we have built certain features to enable this. Our App is designed to make it easier for you to connect with other Users and to interact with them. You might share information like the photos and messages you send or upload and any metadata provided with those messages, along with any comments or information you provide in connection with your photos.
 
-When using Bumble, you should assume that **anything** you post or submit on the App may be publicly-viewable and accessible, both by Users of the App and non-Users of the App. Before you post this information, be aware that this content may be searchable by search engines – nothing gets past those guys!
-
-We want our Bumblers to be careful about posting information that will eventually be made public. For example:
-
-  * We may allow our Users to take snapshots of other Users and send them to non-Users via text messaging or email. If we learn that another User has captured a screenshot of you, we will attempt to notify you.
-  * We will collect and store the position where you have "crossed paths" with another User and display that position to the two passing Users. While we do track your geolocation in order to offer this feature to you, your geolocation is not viewable to other Users on an ongoing basis. Only the position of where you have passed with another User is displayed on the App. You can turn off the Crossed Paths feature at any time, and can block another User at any time. Blocking a User will mean that the Crossed Paths feature will not work between you and the blocked User.
-  * Our News Feed feature is open to all Users of the App. As such, please keep in mind that any interaction on Bumble could be captured and published on the News Feed, and so may be publicly viewable and accessible to any User.
-
-
+When using Bumble, you should assume that **anything** you post or submit on the App may be publicly-viewable and accessible, both by Users of the App and non-Users of the App. Before you post this information, be aware that this content may be searchable by search engines – nothing gets past those guys! We want our Bumblers to be careful about posting information that will eventually be made public.
 
 ## 5\. MODIFYING YOUR REGISTRATION INFORMATION.
 
@@ -146,21 +138,23 @@ You may access or modify the Registration Information you provided at anytime or
 
 When your Account is deactivated, we take reasonable efforts to make sure it is no longer viewable on the App. For up to 30 days it is still possible to restore your Account if it was accidentally or wrongfully deactivated. After 30 days, we begin the process of deleting your Account from our systems. We are not responsible for any information, pictures, comments, or other content that is deleted from our systems resulting from the deactivation of your Account.
 
-To prevent abuse and/or misuse of Bumble by a User following termination or deletion of a profile/Account we shall retain such information as we deem in our sole discretion may be necessary to ensure that User does not open a new Account and profile in breach of our [Terms and Conditions of Use](https://web.archive.org/terms/) and to ensure compliance with all laws and regulations.
+To prevent abuse and/or misuse of Bumble by a User following termination or deletion of a profile/Account we shall retain such information as we deem in our sole discretion may be necessary to ensure that User does not open a new Account and profile in breach of our [Terms and Conditions of Use](https://web.archive.org/en-us/terms) and to ensure compliance with all laws and regulations.
 
-**Warning** : Even after you remove information from your profile or delete your Account, copies of that information may still be viewable and/or accessed to the extent such information has been previously shared with others, or copied or stored by other Users or to the extent such information has been shared with search engines. We cannot control this, nor do we accept any liability for this. If you have given third party applications or websites access to your personal information they may retain such information to the extent permitted under their terms of service or privacy policies.
+ **Warning** : Even after you remove information from your profile or delete your Account, copies of that information may still be viewable and/or accessed to the extent such information has been previously shared with others, or copied or stored by other Users or to the extent such information has been shared with search engines. We cannot control this, nor do we accept any liability for this. If you have given third party applications or websites access to your personal information they may retain such information to the extent permitted under their terms of service or privacy policies.
 
 Removed and deleted information may persist in backup copies for up to 30 days to enable restoration, but will not be available to others in the meantime.
 
 ## 6\. OUR POLICY TOWARDS AGE.
 
-Although we want as many people as possible to enjoy our creation, you have to be at least 17 years old to use the App - sorry kids, we know Bumble is cool, but you'll have to come back when you're old enough! 
+Although we want as many people as possible to enjoy our creation, you have to be at least 15 years old to use the App - sorry kids, we know Bumble is cool, but you'll have to come back when you're old enough! 
 
-Our policy is to not market to children, minors or anyone under the age of 17. If you are less than 17 years old, we request that you do not submit information to us. If we become aware that a child, minor or anyone under the age of 17 has registered with us and provided us with personal information, we will take steps to terminate that person's registration and delete their Registration Information from Bumble. If we do delete a profile because you violated our no children rules, we may retain your email and IP address to ensure that you do not try to get around our rules by creating a new profile.
+Our policy is to not market to children, minors or anyone under the age of 15. If you are less than 15 years old, we request that you do not submit information to us. If we become aware that a child, minor or anyone under the age of 15 has registered with us and provided us with personal information, we will take steps to terminate that person's registration and delete their Registration Information from Bumble. If we do delete a profile because you violated our no children rules, we may retain your email and IP address to ensure that you do not try to get around our rules by creating a new profile.
+
+If you are between the ages of 15 - 17 years of age, you will not be able to chat or share photos with anyone outside of that age bracket. If you are 18 years old or over, we do not permit you to start new conversations or share photos with anyone younger than 18.
 
 ## 7\. CHANGES TO THIS POLICY.
 
-As Bumble evolves, we may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at [bumble.com/privacy/](https://web.archive.org/privacy/). If we make a change to this policy that, in our sole discretion, is material, we will notify you, for example, via an email to the email associated with your Account or by posting a notice within Bumble. By continuing to access or use the App after those changes become effective, you agree to be bound by the revised Privacy Policy.
+As Bumble evolves, we may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at [bumble.com/privacy/](https://web.archive.org/en-us/privacy). If we make a change to this policy that, in our sole discretion, is material, we will notify you, for example, via an email to the email associated with your Account or by posting a notice within Bumble. By continuing to access or use the App after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
 ## 8\. SECURITY.
 
@@ -192,20 +186,20 @@ We only use the APIs, OAuth Tokens, Widgets, or other means provided by the appl
 
 ## 10\. YOUR CALIFORNIA PRIVACY RIGHTS.
 
-California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. If you wish to find out about any rights you may have under California Civil Code section 1798.83, you can write to us at [help@team.bumble.com](mailto:help@team.bumble.com).
+California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. If you wish to find out about any rights you may have under California Civil Code section 1798.83, you can write to us at [feedback@bumble.com](mailto:feedback@bumble.com).
 
-From time to time we may disclose your contact information to third parties to allow them to market their products or services to you or for other marketing purposes. This may be information we received from you offline and online. If you want us to stop further sharing your email contact information with third parties (if we have your email contact information), you may notify us at [help@team.bumble.com](mailto:help@team.bumble.com). Please follow the instructions provided to you by third parties to unsubscribe from their messages. If you have opted-out as described above, and thereafter you chose to use a service or promotion that requires us to contact you or share your information with a third party, then your previous opt-out preferences will not apply to such service. 
+From time to time we may disclose your contact information to third parties to allow them to market their products or services to you or for other marketing purposes. This may be information we received from you offline and online. If you want us to stop further sharing your email contact information with third parties (if we have your email contact information), you may notify us at [feedback@bumble.com](mailto:feedback@bumble.com). Please follow the instructions provided to you by third parties to unsubscribe from their messages. If you have opted-out as described above, and thereafter you chose to use a service or promotion that requires us to contact you or share your information with a third party, then your previous opt-out preferences will not apply to such service. 
 
 In addition, under California law, operators of online services are required to disclose how they respond to "do not track" signals or other similar mechanisms that provide consumers the ability to exercise choice regarding the collection of personal information of a consumer over time and across third party online services, to the extent the operator engages in that collection. At this time, we do not track our Users' personal information over time and across third-party online services. This law also requires operators of online services to disclose whether third parties may collect personal information about their users' online activities over time and across different online services when the users use the operator's service. We do not knowingly permit third parties to collect personal information about an individual User's online activities over time and across different online services when using the App.
 
 ## 11\. ABOUT US.
 
-Your access to the App, as well as this Privacy Policy are governed and interpreted by the laws of the State of New York, other than such laws, rules, regulations and case law that would result in the application of the laws of a jurisdiction other than the State of New York. By using the App, you are consenting to the exclusive jurisdiction of the courts of the United States and the State of New York. You agree that such courts shall have in personam jurisdiction and venue and waive any objection based on inconvenient forum. You agree that you will not file or participate in a class action against us
+Your access to the App, as well as this Privacy Policy are governed and interpreted by the laws of the State of New York, other than such laws, rules, regulations and case law that would result in the application of the laws of a jurisdiction other than the State of New York. By using the App, you are consenting to the exclusive jurisdiction of the courts of the United States and the State of New York. You agree that such courts shall have in personam jurisdiction and venue and waive any objection based on inconvenient forum. You agree that you will not file or participate in a class action against us. In the event there is a discrepancy between this English language version and any translated copies of the Policy, the English version shall prevail.
 
-Moxco Inc is registered in the United States under company number 5600774. Our registered address is 1209 Orange Street, Wilmington.
+Bumble Trading Inc is registered in the United States under company number 5600774. Our registered address is 1209 Orange Street, Wilmington, Delaware, 19801.
 
 Thanks for reading, we hope we didn't drone on for too long!
 
 ### Effective date
 
-This Privacy Policy was last updated on 13 November 2014.
+This Privacy Policy was last updated on 19 November 2015.
