@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the il2sturmovik.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627171938id_/http%3A//il2sturmovik.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the il2sturmovik.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035210id_/http%3A//il2sturmovik.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy / IL-2 Sturmovik: Battle of Stalingrad
 
