@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daqri.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617231942id_/http%3A//daqri.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daqri.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206163323id_/http%3A//daqri.com/privacy-policy) for the most accurate reproduction.*
 
 # DAQRI Privacy Policy - DAQRI
 
