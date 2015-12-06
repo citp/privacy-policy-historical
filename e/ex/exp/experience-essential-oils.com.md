@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experience-essential-oils.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511141413id_/http%3A//www.experience-essential-oils.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experience-essential-oils.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206222833id_/http%3A//www.experience-essential-oils.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Experience-Essential-Oils.com
 
@@ -70,12 +70,7 @@ _**  **__**"Nan's   coaching helped me quickly change my self-sabotaging belie
 
 * * *
 
-[_**Want to Transform Stress to Success?**_](http://www.experiencestressfreeliving.com/stress-less-transforming-stress-to-success.html)
-
- _ **Read Nan's Book!  
-**_
-
-**Learn howEssential Oils and Coaching can help you _Break Through Emotional Barriers Now_! **
+**Learn how Essential Oils and Coaching can help you _Break Through Emotional Barriers Now_! **
 
 [**Listen to the Free Teleseminar Here!**](http://www.experience-essential-oils.com/breaking-through-emotional-barriers-with-essential-oils.html)  
 
