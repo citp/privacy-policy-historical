@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the themezy.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529002045id_/http%3A//themezy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themezy.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206211659id_/http%3A//www.themezy.com/privacy) for the most accurate reproduction.*
 
 # Free Website Templates & Wordpress Themes at Themezy!
 
 _A couple things we should let you know._
 
-Themezy is **the** place to share your free [Website Templates](http://www.themezy.com/free-website-templates) and free [Wordpress Templates](http://www.themezy.com/free-wordpress-themes). Here you can explore and discuss the creations of other web designers or developers from around the world, or just find that perfect little freebie for your next web project. Themezy makes it easy to explore thousands of themes created by designers from all over the globe. All the resources are free to download and, depending on the license, free to use in your projects.
-
-## Your Information
+## Last Updated: January 2010
 
 Themezy.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by Themezy.com online and does not impact information collected or used by Themezy.com or its affiliates through other means.
 
