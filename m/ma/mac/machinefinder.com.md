@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the machinefinder.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144837id_/http%3A//www.machinefinder.com/ww/en-US/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinefinder.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206045000id_/http%3A//www.machinefinder.com/ww/en-US/privacy) for the most accurate reproduction.*
 
 # John Deere Privacy and Data US Policies
 
@@ -6,6 +6,7 @@
 
   * ###  [Privacy and Data](https://web.archive.org/privacy_and_data/privacy_and_data_us.page?)
 
+    * [Personal Data Complaint Form](https://www.deere.com/privacy_and_data/docs/html/secured/english/index.html)
 
 
 
@@ -80,15 +81,14 @@ Moline, Illinois 61265-8089 USA
 Chief Privacy Officer  
 John Deere Canada ULC  
 P.O. Box 1000  
-Grimsby, Ontario, L9K 1M3
+Grimsby, Ontario, L3M 4H5
 
 For John Deere Financial: 
 
 Chief Privacy Officer  
 John Deere Financial  
-1001 Champlain Avenue  
-Suite 401  
-Burlington, Ontario L7L 5Z4 
+3430 Superior Court  
+Oakville, Ontario L6L 0C4
 
 ##  2 
 
@@ -280,10 +280,10 @@ Alternatively, you may visit the "Contact Information" tab for the contact infor
 ## Additional Privacy Statements
 
   1. [John Deere Financial United States Privacy Statement](https://web.archive.org/privacy_and_data/privacy_and_data_us_jdfinancialprivacystatement.page)
-    * [Privacy Notice - Multi-use Account](https://web.archive.org/privacy_and_data/docs/pdfs/multiuse_privacy.pdf)
-    * [Privacy Notice - Revolving Account](https://web.archive.org/privacy_and_data/docs/pdfs/jdfr_privacy.pdf)
-    * [Privacy Notice - Installment Account](https://web.archive.org/privacy_and_data/docs/pdfs/installment_privacy.pdf)
-    * [Privacy Notice - Budget Billing Account](https://web.archive.org/privacy_and_data/docs/pdfs/budgetbilling_privacy.pdf)
+    * [Consumer Privacy Notice - Multi-use Account](https://web.archive.org/privacy_and_data/docs/pdfs/multiuse_privacy.pdf)
+    * [Consumer Privacy Notice - Revolving Account](https://web.archive.org/privacy_and_data/docs/pdfs/jdfr_privacy.pdf)
+    * [Consumer Privacy Notice - Installment Account](https://web.archive.org/privacy_and_data/docs/pdfs/installment_privacy.pdf)
+    * [Consumer Privacy Notice - Budget Billing Account](https://web.archive.org/privacy_and_data/docs/pdfs/budgetbilling_privacy.pdf)
   2. Canadian Privacy Statement 
     * [English](https://web.archive.org/privacy_and_data/privacy_and_data_us_canadianprivacystatement.page)
     * [French  
@@ -317,15 +317,15 @@ and all affiliates other than John Deere Financial:
 **Chief Privacy Officer  
 John Deere Canada ULC  
 P.O. Box 1000  
-Grimsby, Ontario, L9K 1M3  
+Grimsby, Ontario, L3M 4H5  
 Phone:1-905-945-9281  
 Fax: 1-905-945-7311
 
  **For John  Deere Financial:  
 **Chief Privacy Officer  
-John Deere Financial  
-Suite 401, 1001 Champlain Avenue  
-Burlington, Ontario L7L5Z4  
+John Deere Financial   
+3430 Superior Court  
+Oakville, Ontario L6L 0C4  
 Phone: 1-800-321-3766  
 Fax: 1-888-446-1890
 
