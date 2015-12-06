@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nsoftware.com privacy policy that was archived on 2015-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623203839id_/https%3A//www.nsoftware.com/company/legal/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nsoftware.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206202602id_/http%3A//www.nsoftware.com/company/legal/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>/n software - Privacy Policy</title>
@@ -48,9 +48,17 @@
     </script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
 
+	<script type="text/javascript">
+	var page = { 'host':'oggchat3.icoa.com','cid':'c6a6ceed4444e5b0014478c7dcf31344','act':'c6a6ceed4444e5b0014478c7dcec1342', 'p': 60, 'img':'http://www.nsoftware.com/ui/img/chat.png', 'popup_margin_top':'25%', 'css':'http://www.nsoftware.com/ui/css/oggchat.css' };
+
+	function openOggChat() {			
+		window.open(encodeURI('https://oggchat3.icoa.com/cp?font=Verdana&fontsize=10pt&bgcolor=FFFFFF&cid=c6a6ceed4444e5b0014478c7dcf31344&website=www.nsoftware.com&text=_oggchat-img1-on.png&height=450&width=380&r='+document.referrer), 'cdataChat', 'toolbar=0,scrollbars=1,location=0,status=0,menubar=0,resizable=1,width=380,height=450');
+		return false;
+	}
+</script>
+
+
 	
-	<script type="text/javascript" src="https://oggchat3.icoa.com/js/monitor.js"></script>
-	<script type="text/javascript" src="/ui/js/monitor.js?031114134802"></script>
 	 
 	
 	<!--[if lt IE 7]>  <script type="text/javascript" src="/ui/js/ie-png.js"></script> <![endif]-->
@@ -168,6 +176,7 @@
 						
 						<div class="title">Web Platform Integrators</div>
 						<ul>
+							<li><a href="/ibiz/cloudstorage/">Cloud Storage Integrator</a></li>
 							<li><a href="/ibiz/google/">Google Integrator</a></li>
 							<li><a href="/ibiz/amazon/">Amazon Integrator</a></li>
 							<li><a href="/ibiz/sharepoint/">SharePoint Integrator</a></li>
@@ -614,9 +623,14 @@ $(document).ready(function(){
 				<a href="http://www.twitter.com/nsoftware/" target="_blank"><span class="icon twitter"></span></a> 
 				<a href="http://www.linkedin.com/company/n-software" target="_blank"><span class="icon linked"></span></a>			
 				<a href="/rss/" target="_blank"><span class="icon rss"></span></a>
-				
-				<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-				<div style="margin:2px 0 0 4px; float:left;"> <g:plusone size="small" count="false"></g:plusone></div>
+
+                
+				<script type="text/javascript">
+				    if (isNotZH_CN) {
+				        document.write("<script type='text\/javascript' src='https://apis.google.com/js/plusone.js'><\/script>");
+				        document.write("<div style='margin:2px 0 0 4px; float:left;'> <g:plusone size='small' count='false'><\/g:plusone><\/div>");
+				    }
+				</script><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script><div style="margin:2px 0 0 4px; float:left;"> <g:plusone size="small" count="false"></g:plusone></div>
 			</div>
 		</ul>
 		</div>
@@ -628,11 +642,14 @@ $(document).ready(function(){
 	var google_conversion_id = 1072418727;
 	var google_custom_params = window.google_tag_params;
 	var google_remarketing_only = true;
-	/* ]]> */ 
-	</script>
-	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+	    /* ]]> */
+	/*COMMENT OUT FOR CHINA*/
+	if (isNotZH_CN) {
+	    document.write("<script type='text\/javascript' src='//www.googleadservices.com/pagead/conversion.js'><\/script>");
+	}
+	</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
 	<noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072418727/?value=0&guid=ON&script=0"/></div></noscript>
-	
+
 
 
 
