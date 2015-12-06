@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tescomobile.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142926id_/http%3A//www.tescomobile.com/about-us/terms-and-conditions/general/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tescomobile.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206041741id_/http%3A//www.tescomobile.com/about-us/terms-and-conditions/general/privacy-and-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | General | Terms and Conditions | About us | Tesco Mobile
 
