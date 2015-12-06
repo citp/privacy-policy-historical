@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontdeck.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607195754id_/http%3A//fontdeck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontdeck.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206112756id_/http%3A//fontdeck.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Fontdeck
 
@@ -14,7 +14,7 @@ Like most standard web site servers we use log files. This includes internet pro
 
 ### Cookies
 
-We use unintrusive first party cookies to enable you to log in and make purchases, to customise your web site experience and via Google Analytics to provide us with aggregated (non-personal) site analytics. See our [cookies](https://web.archive.org/web/20150607195754id_/http%3A//fontdeck.com/cookies.html) page for full details.
+We use unintrusive first party cookies to enable you to log in and make purchases, to customise your web site experience and via Google Analytics to provide us with aggregated (non-personal) site analytics. See our [cookies](https://web.archive.org/web/20151206112756id_/http%3A//fontdeck.com/cookies.html) page for full details.
 
 ## Site Communications
 
