@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahm.com.au privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411185409id_/http%3A//www.ahm.com.au/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahm.com.au privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206085147id_/http%3A//www.ahm.com.au/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ahm Health Insurance
 
@@ -167,7 +167,7 @@ You may withdraw your consent to the sharing of your sensitive information betwe
 
 **ahm:** Access the Settings page within the ahm Online Member Services facility, call us on [134 246](tel:134246) or [(+61) 2 4221 8888](tel:+61242218888) Monday to Friday: 8:00am - 8:00pm or email us at [info@ahm.com.au](mailto:info@ahm.com.au)
 
-For further information about how your personal information is handled for these health-related services, please refer to Medibank Health Solutions' Privacy Policy on the website at [www.medibankhealth.com.au](http://www.medibankhealth.com.au/)
+For further information about how your personal information is handled for these health-related services, please refer to Medibank Health Solutions' Privacy Policy on the website at [www.medibankhealth.com.au](https://www.medibankhealth.com.au/)
 
 #### Do we disclose your personal information overseas?
 
@@ -205,11 +205,11 @@ If we have not responded to you within a reasonable time or if your complaint is
 
 #### Further information
 
-Further information about the application of the Privacy Act can be found at the website of the Office of the Australian Information Commissioner at [www.privacy.gov.au](http://www.privacy.gov.au/).
+Further information about the application of the Privacy Act can be found at the website of the Office of the Australian Information Commissioner at [www.privacy.gov.au](http://www.oaic.gov.au/).
 
 #### Changes to our Privacy Policy
 
-This privacy policy was last reviewed in March 2014. As this privacy policy is updated from time to time, to obtain a copy of the latest version at any time, you should visit our website at [www.medibank.com.au](http://www.medibank.com.au/) or [www.ahm.com.au](http://www.ahm.com.au/)
+This privacy policy was last reviewed in March 2014. As this privacy policy is updated from time to time, to obtain a copy of the latest version at any time, you should visit our website at [www.medibank.com.au](https://www.medibank.com.au/) or [www.ahm.com.au](http://www.ahm.com.au/)
 
 #### Countries to which personal information may be disclosed
 
