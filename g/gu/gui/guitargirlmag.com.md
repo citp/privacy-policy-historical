@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitargirlmag.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607070814id_/http%3A//www.guitargirlmag.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitargirlmag.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206113300id_/http%3A//www.guitargirlmag.com/privacypolicy) for the most accurate reproduction.*
 
 # Guitar Girl Magazine Best Female Guitarists, Girl Guitar Player Magazine & Blog » Privacy Policy
 
