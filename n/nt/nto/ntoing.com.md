@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntoing.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607232928id_/http%3A//www.ntoing.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntoing.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206235052id_/http%3A//www.ntoing.com/terms) for the most accurate reproduction.*
 
 # 
 
