@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the descriptionari.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140651id_/http%3A//www.descriptionari.com/our/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the descriptionari.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206162355id_/http%3A//www.descriptionari.com/our/privacypolicy) for the most accurate reproduction.*
 
 # Descriptionari
 
@@ -51,6 +51,12 @@ www.descriptionari.com is not intended for use by children, especially those und
 If your children disclose information about themselves in publicly accessible areas of the Website, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
 
 If you're worried about your children's activities or their privacy on our site, we encourage you to contact our Privacy Policy Coordinator as described below.
+
+### PM (Private Messages)
+
+Private messages are only private from non-privileged users of the site.  
+Privileged users (site moderators and adminstrators) have full access to the content of PM discourse.  
+PMs fall under the same moderation guidelines as the rest of the site. See [PM (Private Messages) Guidelines](https://web.archive.org/our/guidelines/) for more information.
 
 ### Privacy Policy Coordinator
 
