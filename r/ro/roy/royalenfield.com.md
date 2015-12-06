@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalenfield.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607153056id_/http%3A//royalenfield.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalenfield.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206040817id_/http%3A//royalenfield.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Royal Enfield
 
