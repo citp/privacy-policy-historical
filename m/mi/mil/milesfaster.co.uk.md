@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the milesfaster.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140106id_/http%3A//www.milesfaster.co.uk/information/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milesfaster.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206061547id_/http%3A//www.milesfaster.co.uk/information/privacy-policy.htm) for the most accurate reproduction.*
 
 # Milesfaster.co.uk privacy policy.
 
 This is the website of [www.milesfaster.co.uk](http://www.milesfaster.co.uk/)  
-We can be contacted using the form >>>[here](https://web.archive.org/web/20150607140106id_/http%3A//www.milesfaster.co.uk/form/email-milesfaster.htm)
+We can be contacted using the form >>>[here](https://web.archive.org/web/20151206061547id_/http%3A//www.milesfaster.co.uk/form/email-milesfaster.htm)
 
 At milesfaster.co.uk we take your privacy as seriously as you would yourself. Below we explain the types of information we collect, why we collect it and at what stage this information is gathered.
 
