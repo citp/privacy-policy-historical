@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the litcharts.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609052545id_/http%3A//www.litcharts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the litcharts.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206131037id_/http%3A//www.litcharts.com/privacy) for the most accurate reproduction.*
 
 # LitCharts | Privacy Policy
 
@@ -12,7 +12,7 @@ a. Automatically Collected Information. Some information is automatically receiv
 
 b. Information You Actively Submit to LitCharts.com.
 
-LitCharts collects information from users on our Contact form, PDF download form, and on various other pages on LitCharts.com. We will not knowingly publish any personally identifiable information, such as names, email addresses and other data of any correspondents without their permission. You may write to us with comments, questions, and concerns about information you submit . 
+LitCharts collects information from users on our Contact form, PDF download form, and on various other pages on LitCharts.com. We will not knowingly publish any personally identifiable information, such as names, email addresses and other data of any correspondents without their permission. You may write to us with comments, questions, and concerns about information you submit .
 
 c. Google & DoubleClick Cookie-Based Advertising
 
