@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cokeandpopcorn.ch privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507122142id_/http%3A//www.cokeandpopcorn.ch/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cokeandpopcorn.ch privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206071635id_/http%3A//www.cokeandpopcorn.ch/privacy.php) for the most accurate reproduction.*
 
 # Coke & Popcorn > Privacy Policy
 
