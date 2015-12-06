@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silversea.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141108id_/http%3A//www.silversea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silversea.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035533id_/http%3A//www.silversea.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy. Silversea Cruises
 
@@ -10,8 +10,6 @@
 ### **Overview**
 
 As a company dedicated to serving the needs of discriminating travellers, Silversea Cruises Ltd. has a long-established tradition of preserving the privacy of their guests.
-
-Read more __
 
 The following privacy policy applies only to Silversea's online information collection and use practices regarding any personal information that you provide. Please take a moment to review Silversea’s privacy statement and should you have any questions or concerns, please contact Silversea by filling out the form located **[here](https://web.archive.org/?page_id=93809 "Send an Email")**.
 
