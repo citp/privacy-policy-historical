@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the namebirthdaycakes.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523012420id_/http%3A//namebirthdaycakes.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namebirthdaycakes.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206022739id_/http%3A//namebirthdaycakes.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which NameBirthdayCakes collects, uses, maintains and discloses information collected from users (each, a "User") of the website ("[www.NameBirthdayCakes.com](https://web.archive.org/web/20150523012420id_/http%3A//namebirthdaycakes.com/www.NameBirthdayCakes.com)"). This privacy policy applies to the Site and all products and services offered by NameBirthdayCakes.
+This Privacy Policy governs the manner in which NameBirthdayCakes collects, uses, maintains and discloses information collected from users (each, a "User") of the website ("[www.NameBirthdayCakes.com](https://web.archive.org/web/20151206022739id_/http%3A//namebirthdaycakes.com/www.NameBirthdayCakes.com)"). This privacy policy applies to the Site and all products and services offered by NameBirthdayCakes.
 
 #### Personal identification information
 
