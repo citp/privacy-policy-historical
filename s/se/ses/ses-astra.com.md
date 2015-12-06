@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ses-astra.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628211252id_/http%3A//www.ses.com/4353601/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ses-astra.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035651id_/http%3A//www.ses.com/4353601/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Satellite Services - SES.com
 
@@ -14,16 +14,16 @@ In general, you can visit SES on the World Wide Web without telling us who you a
 
 On those occasions where you do provide and consent to our use of your personal information, we will only collect and use that personal information (e.g. name, address, telephone number and email) in order to:
 
-  * respond to inquiries submitted by you 
-  * process orders or applications submitted by you 
-  * allow you to access specific account information, i.e., company Extranet 
+  * respond to inquiries submitted by you
+  * process orders or applications submitted by you
+  * allow you to access specific account information, i.e., company Extranet
   * create and improve our products or services.
 
 
 
 From time to time we would like to use the personal information you supply to us for:
 
-  * market research and tracking of sales data 
+  * market research and tracking of sales data
   * informing you about our products and services
   * giving the information to our SES affiliates, which may be located outside the EEA, to enable them to send you information which may be of interest to you.
 
@@ -57,7 +57,7 @@ We have implemented technology and policies with the objective of protecting you
 
 We cannot be responsible for the privacy policies and practices of other sites even if:
 
-  * you accessed the third party site using links from our site; or 
+  * you accessed the third party site using links from our site; or
   * you linked to our site from a third party site.
 
 
