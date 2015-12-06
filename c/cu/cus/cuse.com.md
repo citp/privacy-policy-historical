@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuse.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627164730id_/https%3A//www.sidearmsports.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuse.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206234659id_/https%3A//www.sidearmsports.com/privacypolicy) for the most accurate reproduction.*
 
 # SIDEARM Sports Privacy Policy | SIDEARM Sports – The #1 Provider of College Athletics Websites
 
