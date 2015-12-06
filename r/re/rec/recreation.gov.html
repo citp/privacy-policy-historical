@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the recreation.gov privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607232004id_/http%3A//www.recreation.gov/marketing.do%3Fgoto%3D/acm/privacyPolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the recreation.gov privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206234527id_/http%3A//www.recreation.gov/marketing.do%3Fgoto%3D/acm/privacyPolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
 	  <meta http-equiv="X-UA-Compatible" content="IE=edge">	   
@@ -7,6 +7,9 @@
 			window.name="ra";
 			var _brandName_ = "NRSO";
 	  </script> 
+	  
+	  
+	  
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
       <meta http-equiv="Content-Style-Type" content="text/css">
       <meta http-equiv="Content-Script-Type" content="text/javascript">
@@ -32,6 +35,7 @@
 <script type="text/javascript" src="/js/mobileUtil.js"></script>
 <script type="text/javascript" src="/js/hammer.min.js"></script>
 <script type="text/javascript" src="/js/_usearch.js"></script>
+<script type="text/javascript" src="/modules/permit/modifyIdentifier.js"></script>
 <script type="text/javascript" src="/js/trip/trip.js"></script>
 <script type="text/javascript" src="/js/spin/spin.min.js"></script>
 
@@ -151,7 +155,9 @@
 	    <div id="socialBannerGp"><a target="_blank" href="https://plus.google.com/+RecreationGovR1S/posts"><img id="headerGooglePlus" src="/images/social/googleplus.png" width="28" height="28" alt="Recreation.gov - GooglePlus" title="Recreation.gov - GooglePlus"></a></div>
 	 </div>
 	<div id="contactUs">
-		<a href="http://support.recreation.gov" target="_blank">Contact Us</a>
+			<a href="http://support.recreation.gov" target="_blank">Need Help?</a>
+		&nbsp;|&nbsp;
+		<a href="http://support.recreation.gov/rec_contact" target="_blank">Contact Us</a>
 	</div>	
 </div>
 </div>
@@ -224,6 +230,14 @@ $j(document).ready(function(){
 	});
 	
 	$j("#alertWarningPopupDiv").modalPopLite({ openButton: '#alertwarningpopupopener', closeButton: '#alertWarningCloser', isModal: true });
+	
+	if (typeof UnifSearchEngine === "undefined")
+		UnifSearchEngine = new UnifiedSearchEngine();
+	window.setTimeout( function(){
+		if( adjustFooterAll ){
+			adjustFooterAll();
+		}
+	}, 1000 );
 });
 } catch ( err ) {
 	  // do nothing
@@ -313,8 +327,8 @@ UWPExitLink = {};
 </script>
 
 
-	  <div id="topnav" class="hidden-phone hidden-xs hidden-sm"><div class="enhancedNavBar"><ul class="tabs"><li class="first"><a href="http://www.recreation.gov/unifSearchResults.do?tti=Search" target="_top" id="Search" onclick="pageTracker._trackEvent(&quot;HomePageTopLinks_FindPlacesActivities&quot;,&quot;Click&quot;);"><span class="caption">Find Places &amp; Activities<br></span></a></li><li><a href="http://www.recreation.gov/marketing.do?goto=acm/Explore_Trip_Ideas.htm&amp;tti=Explore" target="_top" id="Explore" onclick="pageTracker._trackEvent(&quot;HomePageTopLinks_ExploreTripIdeas&quot;,&quot;Click&quot;);"><span class="caption">Explore Trip Ideas<br></span></a></li><li><a href="http://www.recreation.gov/myTrips.do?tti=Trips" target="_top" id="Trips" onclick="pageTracker._trackEvent(&quot;HomePageTopLinks_MyTrips&quot;,&quot;Click&quot;);"><span class="caption">My Trips<br></span></a></li><li><a href="http://support.recreation.gov" target="_blank" id="Help" onclick="pageTracker._trackEvent(&quot;HomePageTopLinks_HelpAndFAQ&quot;,&quot;Click&quot;);"><span class="caption">Help &amp; FAQ<br></span></a></li><li class="last"><a href="http://www.recreation.gov/marketing.do?goto=/acm/aboutUs.htm&amp;tti=About" target="_top" id="About" onclick="pageTracker._trackEvent(&quot;HomePageTopLinks_AboutUs&quot;,&quot;Click&quot;);"><span class="caption">About Us<br></span></a></li></ul></div></div></div><div id="stickySpacer"></div>
-<label for="mobiNavSelect" style="display: none">Top Navigation</label><div class="visible-phone mobi_nav"><select name="" id="mobiNavSelect" class="visible-phone mobi_nav" onchange="window.location.href = this.options[this.selectedIndex].value"><option selected="selected" value="">Top Navigation</option><option value="/unifSearchResults.do">Find Places &amp; Activities</option><option value="/marketing.do?goto=acm/Explore_Trip_Ideas.htm">Explore Trip Ideas</option><option value="/myTrips.do">My Trips</option><option value="http://support.recreation.gov">Help &amp; FAQ</option><option value="/marketing.do?goto=/acm/aboutUs.htm">About Us</option></select></div>
+	  <div id="topnav" class="hidden-phone hidden-xs hidden-sm"><div class="enhancedNavBar"><ul class="tabs"><li class="first"><a href="http://www.recreation.gov/unifSearchResults.do?tti=Search" target="_top" id="Search" onclick="pageTracker._trackEvent(&quot;HomePageTopLinks_FindPlacesActivities&quot;,&quot;Click&quot;);"><span class="caption">Find Places &amp; Activities<br></span></a></li><li><a href="http://www.recreation.gov/marketing.do?goto=acm/Explore_Trip_Ideas.htm&amp;tti=Explore" target="_top" id="Explore" onclick="pageTracker._trackEvent(&quot;HomePageTopLinks_ExploreTripIdeas&quot;,&quot;Click&quot;);"><span class="caption">Explore Trip Ideas<br></span></a></li><li><a href="http://www.recreation.gov/myTrips.do?tti=Trips" target="_top" id="Trips" onclick="pageTracker._trackEvent(&quot;HomePageTopLinks_MyTrips&quot;,&quot;Click&quot;);"><span class="caption">Build A Trip<br></span></a></li><li><a href="http://support.recreation.gov" target="_blank" id="Help" onclick="pageTracker._trackEvent(&quot;HomePageTopLinks_HelpAndFAQ&quot;,&quot;Click&quot;);"><span class="caption">Help &amp; FAQ<br></span></a></li><li class="last"><a href="http://www.recreation.gov/marketing.do?goto=/acm/aboutUs.htm&amp;tti=About" target="_top" id="About" onclick="pageTracker._trackEvent(&quot;HomePageTopLinks_AboutUs&quot;,&quot;Click&quot;);"><span class="caption">About Us<br></span></a></li></ul></div></div></div><div id="stickySpacer"></div>
+<label for="mobiNavSelect" style="display: none">Top Navigation</label><div class="visible-phone mobi_nav"><select name="" id="mobiNavSelect" class="visible-phone mobi_nav" onchange="window.location.href = this.options[this.selectedIndex].value"><option selected="selected" value="">Top Navigation</option><option value="/unifSearchResults.do">Find Places &amp; Activities</option><option value="/marketing.do?goto=acm/Explore_Trip_Ideas.htm">Explore Trip Ideas</option><option value="/myTrips.do">Build A Trip</option><option value="http://support.recreation.gov">Help &amp; FAQ</option><option value="/marketing.do?goto=/acm/aboutUs.htm">About Us</option></select></div>
 	  
 
 
@@ -370,6 +384,8 @@ UWPExitLink = {};
 	
 	<div class="clear"></div>	
 </div>	
+
+
 
 <div id="pagearea">
 
@@ -609,6 +625,17 @@ function googleTranslateElementInit() {
 
 }
 
+function isMobile(){
+    return navigator.userAgent.match('iPad') || navigator.userAgent.match('iPhone') || navigator.userAgent.match('iPod') || navigator.userAgent.match('Android');
+}
+
+(function(){
+	var o = $j("div[id*='footerall']");
+	if(isMobile()){
+		$j("div[class='leftAdds']",o).css('display','none');
+	}
+})();
+
 </script>
 
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
@@ -713,6 +740,8 @@ var s_code=s_tan.t();if(s_code)document.write(s_code);} catch(err) {}
   
   <!-- for test only -->
   
+  
+
    
 
 </div></body></html>
