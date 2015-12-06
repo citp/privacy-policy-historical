@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paramore.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607153914id_/http%3A//www.paramore.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paramore.net privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206164302id_/http%3A//www.paramore.net/privacy-policy) for the most accurate reproduction.*
 
 # Fueled By Ramen - Privacy Policy
 
@@ -93,7 +93,7 @@ We ask that you not send us, and you not disclose, any sensitive Personal Inform
 We and our third-party service providers may collect Other Information (defined above), such as:
 
   * Browser and device information
-  * Mobile App usage date
+  * Mobile App usage data
   * Server log files
   * Information collected through cookies, pixel tags and other technologies. If you are located within the EU please read our cookie policy at <http://www.wminewmedia.com/cookies_policy21062012.htm> for further details on our use of cookies.
   * Geographic location information
