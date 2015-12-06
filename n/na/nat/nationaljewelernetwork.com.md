@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationaljewelernetwork.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607215122id_/http%3A//www.nationaljeweler.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaljewelernetwork.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206115827id_/http%3A//www.nationaljeweler.com/Privacy-Policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - National Jeweler
 
