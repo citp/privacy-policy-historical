@@ -1,22 +1,25 @@
-> *The following text is extracted and transformed from the membersequitybank.com.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141713id_/http%3A//www.mebank.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the membersequitybank.com.au privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140627id_/http%3A//www.mebank.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-Members Equity Bank Ltd and its subsidiary ME Portfolio Management Limited (referred to as ME, we us or our) has implemented this Privacy and Credit Reporting Policy to provide you with information about how we collect, hold and use the personal information and credit-related personal information that you provide to us. 
+Members Equity Bank Ltd and its subsidiary ME Portfolio Management Limited (referred to as ME, we us or our) has implemented this Privacy and Credit Reporting Policy to provide you with information about how we collect, hold and use the personal information and credit-related personal information that you provide to us. 
 
 We appreciate that the protection of your personal information, which has been provided in the course of business, is of the utmost importance to you and to us, as is the need to base our relationship on mutual trust. Our management and staff are aware of the need, and are trained, to exercise the utmost discretion in handling your personal information and credit-related personal information.
 
-We will apply our privacy compliance procedures in relation to any personal information and credit-related personal information which we gather in the course of carrying on our business. These are based on privacy legislation including until 12 March 2014, the National Privacy Principles for the Fair Handling of Personal Information (NPPs), and after 12 March 2014 the Australian Privacy Principles (APPs). In addition, our procedures for handling credit-related personal information are based on the requirements for credit reporting set out in Part IIIA of the Privacy Act. We regard all the personal information we have collected from and about you as being equally sensitive and undertake to treat it all in accordance with the principles set out in this Privacy and Credit Reporting Policy.
+We will apply our privacy compliance procedures in relation to any personal information and credit-related personal information which we gather in the course of carrying on our business. These are based on privacy legislation including the Australian Privacy Principles (APPs). In addition, our procedures for handling credit-related personal information are based on the requirements for credit reporting set out in Part IIIA of the Privacy Act. We regard all the personal information we have collected from and about you as being equally sensitive and undertake to treat it all in accordance with the principles set out in this Privacy and Credit Reporting Policy.
 
+By interacting with us you consent to the collection, holding, use and disclosure of your personal information in the ways we have referred to in this Privacy and Credit Reporting Policy.
+
+  
 **1\. contacting us**
 
 If you have any general privacy or credit reporting enquiries, access and correction requests and complaints please contact us:
 
   * in writing to:  
-The Privacy Officer - ME  
-GPO 1345, Melbourne 3001; or
-  * by calling us on 13 15 63; or
-  * email us at [privacy@mebank.com.au](mailto:privacy@mebank.com.au).
+The Privacy Officer - ME
+  * GPO 1345, Melbourne 3001; or 
+  * by calling us on 13 15 63; or 
+  * email us at privacy@mebank.com.au. 
 
 
 
@@ -38,9 +41,8 @@ Personal information is information or an opinion (including information or an o
   * contact details including residential and postal address, telephone numbers (home, work and mobile), email address;
   * bank account details;
   * financial information;
-  * name of superannuation fund;
-  * contact details for authorised representatives and designated users appointed to operate business deposit account; and
-  * information provided in employment applications.
+  * superannuation fund information;
+  * contact details for authorised representatives and designated users appointed to operate business deposit account.
 
 
 
@@ -71,9 +73,8 @@ Personal information is information or an opinion (including information or an o
   * apply for our products and services;
   * request information about us, our products or our services;
   * provide feedback about our products or services;
-  * respond to surveys or enter our competitions;
-  * apply for a position with us; or
-  * contact us by telephone, fax, email, post or in person.
+  * respond to surveys or enter our competitions; or
+  * contact us by telephone, fax, email, post, social media or in person.
 
 
 
@@ -95,7 +96,7 @@ We may collect all types of credit information (including repayment history info
 
 
 
-Credit information is the basic category of personal information in the credit reporting system. It includes the following types of information collected by us that we may give to a credit reporting body, such as Veda.
+Credit information is the basic category of personal information in the credit reporting system. It includes the following types of information collected by us that we may give to a credit reporting body, such as Veda Advantage Information Services and Solutions Limited (Veda), Experian Australia Credit Services Pty (Experian) and Dun & Bradstreet Consumer Credit (Dun & Bradstreet).
 
 Credit information does not include sensitive information – eg criminal record, medical history. 
 
@@ -105,7 +106,7 @@ Credit eligibility information refers to the information disclosed by a credit r
 
 The terms credit information, credit reporting information and credit eligibility information are collectively referred to as credit-related personal information in this Policy.
 
-**2.10** We collect credit-related personal information if you apply for or have a credit product with us. We may use credit-related personal information to create a credit score for you. We also collect credit-related personal information from Veda Advantage Information Services and Solutions Limited (Veda) (see section 3.5 below)
+**2.10** We collect credit-related personal information if you apply for or have a credit product with us. We may use credit-related personal information to create a credit score for you. We also collect credit-related personal information from credit reporting bodies (see section 3.5 below)
 
 **2.11** We will:
 
@@ -131,14 +132,13 @@ The terms credit information, credit reporting information and credit eligibilit
   * verifying your identity;
   * consideration of any other application you make to us for financial products or services;
   * customer relations including management of our relationship with you and market or customer satisfaction research and product development. If you are a member of or have a product with an alliance partner (including a superannuation fund, union, insurer, the Co-op or other third party that we have arrangements with), we may also use your information for the purpose of providing benefits to you or to obtain aggregate information for statistical or research purposes;
-  * compliance with legislative and regulatory requirements (including without limitation the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 (Cth) and payment systems requirements, and where applicable, the Income Tax Assessment Act 1936 and First Home Saver Accounts Act 2008;
+  * compliance with legislative and regulatory requirements (including without limitation the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 (Cth) and payment systems requirements, and where applicable, the Income Tax Assessment Act 1936;
   * our internal operations including record keeping, risk management, auditing purposes, training, securitisation, credit scoring, file reviews and portfolio analysis;
   * information technology systems development and testing;
   * arrangements with other organisations to provide services in relation to our products and services (for example, we may arrange for mailing houses to distribute loan statements to customers);
   * to investigate, resolve and prevent complaints;
   * conducting fraud assessments;
-  * reporting and data analytics, including for regulatory, management, statistical or research purposes;
-  * to process any job application submitted by you and to establish a contract of employment; and
+  * reporting and data analytics, including for regulatory, management, statistical or research purposes; and
   * marketing, which may include pre-screening assessments by a third party service provider for marketing purposes.
 
 
@@ -173,8 +173,7 @@ The terms credit information, credit reporting information and credit eligibilit
   * debt collection agencies (for the purpose of collecting overdue payments)
   * another person or body in connection with securitisation arrangements for the purpose of purchasing, funding, managing or processing an application for credit or undertaking a credit enhancement;
   * the mortgage insurer (to assess whether to issue lenders mortgage insurance, or the risks of you defaulting on your obligations as a borrower or guarantor, or for any other purpose arising under the mortgage insurance contract), other insurers or reinsurers (in respect of home loan customers only);
-  * another Australian credit provider or enforcement body if we believe that you have committed a serious credit infringement; and
-  * employee referees, for the purpose of assessing a job application made to us.
+  * another Australian credit provider or enforcement body if we believe that you have committed a serious credit infringement.
 
 
 
@@ -186,10 +185,12 @@ The terms credit information, credit reporting information and credit eligibilit
 
 
 
-**3.5** We may also disclose your personal information and credit information to Veda Advantage Information Services and Solutions Limited (Veda) or other credit reporting bodies as set out in this Privacy and Credit Reporting Policy from time to time. A copy of Veda's Credit Reporting Policy can be obtained by contacting Veda:
+**3.5** We may also disclose your personal information and credit information to Veda, Experian and Dun & Bradstreet. Copies of their privacy policies can be obtained by contacting:
 
-  * by mail to Veda, PO Box 964, North Sydney NSW 2059; or
-  * via their website at **[www.veda.com.au/privacy](http://www.veda.com.au/privacy)**.
+  * Veda - PO Box 964, North Sydney NSW 2059 or at [veda.com.au/privacy  
+](http://www.veda.com.au/privacy%20)
+  * Experian - Level 6, 549 St Kilda Road, Melbourne VIC 3004, or click on the privacy link at [experian.com.au](http://www.experian.com.au/)
+  * Dun and Bradstreet - PO Box 7405, St Kilda Road, Melbourne VIC 3004, or click on the privacy link at [checkyourcredit.com.au](http://www.checkyourcredit.com.au/)
 
 
 
@@ -207,7 +208,7 @@ The terms credit information, credit reporting information and credit eligibilit
 
 **4.1  **We will not send your personal information outside Australia unless we are satisfied that the overseas recipient of the information has adequate data protection arrangements in place, or you have consented to the transfer of the information.
 
-**4.2** We may disclose your personal information to our third party services providers for them to help us provide banking services to you. Our third party service providers may store or access your personal information overseas, including in Canada, USA, United Kingdom, Philippines, Singapore, New Zealand and Hong Kong.
+**4.2** We may disclose your personal information to our third party services providers for them to help us provide banking services to you. Our third party service providers may store or access your personal information overseas, including in Canada, United States, United Kingdom, Philippines, Singapore, New Zealand, Hong Kong, India, Malaysia, Papua New Guinea, South Africa, France, China and Germany.
 
 **5\. marketing**
 
@@ -269,43 +270,11 @@ Where we no longer require your personal information or credit-related personal 
 
 
 
-**8.3** We are a member of the Financial Services Ombudsman (FOS). If you are not satisfied with the outcome of our investigation in relation to our handling of consumer credit-related personal information or an access or correction request you may take your complaint to FOS. A complaint relating to your personal information may ultimately be addressed to the Office of the Australian Information Commissioner.
+**8.3** We are a member of the Financial Services Ombudsman (FOS). If you are not satisfied with the outcome of our investigation in relation to our handling of consumer credit-related personal information or an access or correction request you may take your complaint to FOS. A complaint relating to your personal information may ultimately be addressed to the Office of the Australian Information Commissioner.  
+ **  
+**
 
-**9\. ME's employee personal information**
-
-We also collect personal information about our current, past and prospective management, employees and contractors. The general personal information collected from these people includes:
-
-  * Contact details – name, gender, address, telephone, email address, emergency contact name and phone number, including name of doctor name and phone number;
-  * Police checks, ASIC banned search, bankruptcy search;
-  * Payroll, overtime, leave, novated lease and MYKI information;
-  * Bank account details and tax file number;
-  * Superannuation details;
-  * Performance reviews and exit interviews.
-
-
-
-It may also include sensitive personal information:
-
-  * Union membership details – if a member of the Finance Sector Union, detail about union mediations for employment issues;
-  * Details for Workcover claims;
-  * Court orders/garnishees (if part of salary is to be paid as per a court order or garnishee notice).
-
-
-
-  
-We may use the personal information of current, past or prospective management, board members, employees, job applicants and contractors for purposes such as recruiting employees, assisting employees to perform their duties and develop in their careers, managing salary and leave entitlements, managing workers compensation and occupational health and safety issues in the workplace, contacting employees at home where necessary and dealing with employment matters generally (including without limitation, matters arising out of the ending of an employment or contractual relationship and/or disputes).
-
-In some instances, we may disclose our employee personal information to:
-
-  * MYKI for employees’ MYKI pass applications.
-  * super funds, and unions for payroll/deduction purposes.
-
-
-
-  
-We may disclose information where required to by law or at the request of law enforcement agencies.
-
-**10\. Visiting Our Website**
+**9\. Visiting Our Website**
 
 You can browse our site anonymously without identifying yourself during your visit. We will only obtain information that personally identifies you when you specifically choose to provide it.
 
@@ -319,7 +288,7 @@ For example, during your visits to our web site you may:
   
 You will then need to give us certain personal information just as you would if you were communicating with us in person, by mail or by telephone.
 
-**11\. Information collected via our website** ****
+**10\. Information collected via our website** ****
 
 When you visit and browse our website, we may collect information for statistical, reporting, maintenance, security, marketing and other purposes detailed below. We may also use advertising and tracking companies to collect this information for us. 
 
@@ -364,12 +333,12 @@ We use remarketing to show you relevant offers on external websites based on you
 DoubleClick shares anonymised demographic and interests data with us through the use of third party cookies. We use this information to better understand who is coming to our site and how we can serve them better. You can elect to opt out of this feature at any time through the [Google Analytics opt out](https://tools.google.com/dlpage/gaoptout/) add on or through updating [your Ad Settings on Google](https://www.google.com/settings/ads/onweb).
 
   
-**12\. E-mail Communications**
+**11\. E-mail Communications**
 
 If you choose to send us an e-mail message, we may retain the content of the e-mail, your e-mail address, and our response in order to service your needs.
 
-**13\. Changes**
+**12\. Changes**
 
 We may update this Privacy and Credit Reporting Policy from time to time for any reason and to ensure it continues to meet the requirements of the Privacy Act, new laws, regulations and technology. We will also post any changes to our Online Consumer Information Practices on our website, so we encourage you to check this page from time to time.
 
-Last updated 6 October 2014
+Last updated 26 November 2015
