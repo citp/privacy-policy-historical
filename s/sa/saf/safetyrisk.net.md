@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the safetyrisk.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607154024id_/http%3A//www.safetyrisk.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safetyrisk.net privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206040814id_/http%3A//www.safetyrisk.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Safety Risk
+# Privacy Policy • Safety Risk
 
 ## Our Privacy Policy
 
@@ -27,7 +27,7 @@ www.safetyrisk.net does use cookies to store information about visitors preferen
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….  
 Google Adsense
 
-These third-party ad servers or ad networks use [technology](http://www.safetyrisk.net/technology/ "technology") to the advertisements and links that appear on www.safetyrisk.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.safetyrisk.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
 www.safetyrisk.net has no access to or control over these cookies that are used by third-party advertisers.
 
@@ -37,4 +37,8 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 Privacy Policy was last modified:  May 27th, 2014 by 
 
-(Visited 977 times since 01/01/15, 9 visits today)
+Did you enjoy this article?
+
+Subscribe for Weekly Updates
+
+Join a community of over 20,000 others who enjoy discovering, thinking and learning more about how to make a positive difference in safety and risk. We promise NO SPAM and COMPLETE PRIVACY
