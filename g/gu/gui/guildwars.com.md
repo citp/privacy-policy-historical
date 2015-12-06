@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guildwars.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607070752id_/http%3A//www.guildwars.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildwars.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114229id_/http%3A//www.guildwars.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Guild Wars
 
