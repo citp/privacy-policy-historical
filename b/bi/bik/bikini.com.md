@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikini.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601235745id_/http%3A//www.bikini.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikini.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206145740id_/http%3A//www.bikini.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bikinis, Swimwear, The Bikini & Beach Lifestyle | BIKINI.COM
 
