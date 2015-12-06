@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thinkbabynames.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629023752id_/http%3A//www.thinkbabynames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkbabynames.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206062455id_/http%3A//www.thinkbabynames.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Think Baby Names
 
 [Think Baby Names](https://web.archive.org/) is a baby names site committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of ThinkBabyNames.com. This policy may change from time to time so please check back periodically. 
 
@@ -47,5 +47,3 @@ Protecting the privacy of the very young is especially important. For that reaso
 ## How To Contact Us
 
 Should you have other questions or concerns about these privacy policies, please send us an email at [webmaster@thinkbabynames.com](mailto:webmaster@thinkbabynames.com).
-
-[Top]
