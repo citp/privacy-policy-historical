@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scripttechs.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145210id_/http%3A//scripttechs.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripttechs.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141625id_/http%3A//scripttechs.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# core.privacy_policy
 
 **Our Privacy Policy  
 **   
