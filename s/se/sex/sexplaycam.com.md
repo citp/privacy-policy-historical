@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexplaycam.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607232936id_/http%3A//www.sexplaycam.com/main/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexplaycam.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206033326id_/http%3A//www.sexplaycam.com/main/privacy_policy) for the most accurate reproduction.*
 
 # SexPlayCam - The web's most unique adult fantasy playground
 
