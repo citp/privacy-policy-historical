@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imeidata.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193509id_/http%3A//imeidata.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imeidata.net privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206112619id_/http%3A//imeidata.net/privacy-policy) for the most accurate reproduction.*
 
 # IMEIData Privacy Policy
 
