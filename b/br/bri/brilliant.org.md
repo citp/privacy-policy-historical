@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brilliant.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607131022id_/http%3A//brilliant.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brilliant.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206155507id_/http%3A//brilliant.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brilliant
 
@@ -54,7 +54,7 @@ The Site may permit you to link to other websites on the Internet, and other web
 
 ### Opting out of all future emails
 
-If you would like to stop receiving email from Brilliant, simply visit the [Email" section of your Account settings](https://brilliant.org/account/email/#unsubscribe_form) and uncheck any and all boxes.
+If you would like to stop receiving email from Brilliant, simply visit the [Email section of your Account settings](https://brilliant.org/profile/opt-out-preferences/) and uncheck any and all boxes.
 
 ### Changes to this Privacy Statement
 
@@ -62,11 +62,11 @@ Brilliant may amend this Privacy Statement from time to time. Use of information
 
 ### Questions or Concerns
 
-If you have any questions or concerns regarding privacy, please send us a detailed message at bradan@brilliant.org. We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy, please send us a detailed message at support@brilliant.org. We will make every effort to resolve your concerns.
 
 _Effective Date: March 24, 2014_
 
-Bradan Litzinger  
+Tiffany Wang  
 15 Butte Place  
 San Francisco, CA 94103  
 (650) 468-2966
