@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviecli.ps privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607143832id_/http%3A//www.moviecli.ps/page/load/mclipstv-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviecli.ps privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206041522id_/http%3A//www.moviecli.ps/page/load/mclipstv-privacy-policy) for the most accurate reproduction.*
 
 # 
 
