@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newslo.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607202858id_/http%3A//www.newslo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newslo.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206125340id_/http%3A//www.newslo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Newslo
 
@@ -49,3 +49,56 @@ If we decide to change this Privacy Policy, we will post those changes here so t
 If you have any questions or comments about this policy or our use of personal information, you may send an e-mail to ag@newslo.com.
 
 We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of personal information.
+
+How we use cookies
+
+Our website uses cookies. By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
+
+About cookies
+
+Cookies consist of pieces of text, often including unique identifiers, that are sent by web servers to web browsers, and which may then be sent back to the server each time the browser requests a page from the server.
+
+Cookies can be used by web servers to identity and track users as they navigate different pages on a website and to identify users returning to a website.
+
+Cookies may be either “persistent” cookies or “session” cookies. A persistent cookie consists of a text file sent by a web server to a web browser, which will be stored by the browser and will remain valid until its set expiry date (unless deleted by the user before the expiry date). A session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
+
+Cookies on this website
+
+We use both session cookies and persistent cookies on this website.
+
+We will send to you the following cookies:
+
+Google Analytics (persistent cookie)  
+How we use cookies
+
+Cookies do not contain any information that personally identifies you, but personal information that we store about you may be linked, by us, to the information stored in and obtained from cookies.
+
+We may use the information we obtain from your use of our cookies for the following purposes:
+
+To recognise your computer when you visit our website;  
+To track you as you navigate our website;  
+To improve the website’s usability;  
+To analyse the use of our website.  
+We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google’s privacy policy is available at: http://www.google.com/privacypolicy.html.
+
+Blocking cookies
+
+Most browsers allow you to refuse to accept cookies. For example:
+
+in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector;  
+in Firefox you can block all cookies by clicking “Tools”, “Options”, and un-checking “Accept cookies from sites” in the “Privacy” box.  
+Blocking all cookies will, however, have a negative impact upon the usability of many websites.
+
+Deleting cookies
+
+You can also delete cookies already stored on your computer:
+
+in Internet Explorer, you must manually delete cookie files (you can find instructions for doing so at http://support.microsoft.com/kb/278835);  
+in Firefox, you can delete cookies by, first ensuring that cookies are to be deleted when you “clear private data” (this setting can be changed by clicking “Tools”, “Options” and “Settings” in the “Private Data” box) and then clicking “Clear private data” in the “Tools” menu.  
+Obviously, doing this may have a negative impact on the usability of many websites.
+
+Contact us
+
+This website is owned and operated by Wnets.
+
+If you have any questions about our cookies or this cookies policy, please contact us.
