@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehdroom.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630102010id_/http%3A//www.thehdroom.com/privacy-policy-terms-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehdroom.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141850id_/http%3A//www.thehdroom.com/privacy-policy-terms-use) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use - TheHDRoom
 
@@ -14,4 +14,4 @@ Original written materials and creative assets published at this website are pr
 
 If you have any questions regarding this Privacy Policy or about any other aspect of TheHDRoom and any associated practices please contact us at support @ TheHDRoom.com
 
- _Last Updated: June 23, 2014_
+_Last Updated: June 23, 2014_
