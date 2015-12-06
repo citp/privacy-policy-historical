@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intuilab.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621103448id_/http%3A//www.intuilab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intuilab.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141819id_/http%3A//www.intuilab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IntuiLab
 
@@ -32,6 +32,8 @@ We use Google remarketing codes and cookies to log when users view specific page
 With the Free Edition of Composer, the .ifx file - i.e. the XML-based text file used by IntuiFace to store the structure of an experience - is uploaded onto IntuiLab servers from time to time for internal use only, enabling investigation of usage statistics and product enhancement. IntuiFace never uploads media (such as videos, images, docs, etc.) referenced by the uploaded .ifx file.
 
 With the Pro and Enterprise Editions of Composer, neither the .ifx file nor related media are uploaded onto IntuiLab servers with one exception: the .ifx file will be uploaded when the user grants Composer permission to send a crash report to IntuiLab as an aid in troubleshooting.
+
+With IntuiFace Data Tracking an IntuiFace Composer user may choose to activate the Data Tracking feature to capture and send designated data collected from one Experience on one or more devices to an IntuiLab database server in the cloud. It is the full and unique responsibility of the IntuiFace Composer user to capture and use data resulting in accordance with the laws of the countrieswhere this IntuiFace Experience is played. IntuiLab never uses this data.
 
 ### **IntuiPad**
 
