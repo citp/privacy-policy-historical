@@ -1,22 +1,22 @@
-<!--The following is the downloaded HTML source of the intechopen.com privacy policy that was archived on 2015-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629135219id_/http%3A//www.intechopen.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the intechopen.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206114934id_/http%3A//www.intechopen.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:mml="http://www.w3.org/1998/Math/MathML"><head>
 
-                    <title>Privacy Policy | InTech</title>        
+                    <title>Privacy Policy | InTech</title>                    
         <link rel="shortcut icon" href="/assets/default/img/favicon.ico" type="image/x-icon">
 
         <meta name="keywords" content="InTech, open access, publisher, books, journals, videos, free, knowledge, science and technology, peer reviewed">
 <meta name="description" content="This privacy policy sets out how InTech uses and protects any information that you give when you use this website. InTech is committed to ensuring that your privacy is protected.">        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-        <link href="http://www.intechopen.com/minify/11a92b3cf7e077a87c1b6c6e327bba6d.css?lm=1404303149" media="screen" rel="stylesheet" type="text/css">
+        <link href="http://www.intechopen.com/minify/11a92b3cf7e077a87c1b6c6e327bba6d.css?lm=1449233607" media="screen" rel="stylesheet" type="text/css">
         
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+        <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NDD9NH"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
             //Core Init Queue
             var _que = new Array();
         </script>
 
-        <script type="text/javascript" src="http://www.intechopen.com/minify/e5afdc66681818308fd8d6d78b026f8f.js?lm=1355738917"></script>
+        <script type="text/javascript" src="http://www.intechopen.com/minify/e5afdc66681818308fd8d6d78b026f8f.js?lm=1448375042"></script>
         <!--[if lte IE 6]><meta http-equiv="imagetoolbar" content="false" /><![endif]-->
 
 		<!--[if IE]><link rel="stylesheet" type="text/css" href="/assets/default/css/intech-public-ie.css" /><![endif]-->
@@ -28,25 +28,101 @@
 
         <!--<meta name="viewport" content="width=device-width" />-->
 
-		<script type="text/javascript">
+		<script>
+                    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-			 var _gaq = _gaq || [];
-			 _gaq.push(['_setAccount', 'UA-20570189-2']);
-			 _gaq.push(['_trackPageview']);
-
-			 (function() {
-			   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-			 })();
-
-		</script>
+                    ga('create', 'UA-20570189-2', 'auto');
+                    ga('require', 'linkid');
+                    ga('send', 'pageview');
+                </script>
         
         <script src="https://www.google.com/recaptcha/api.js"></script>
+        
+        <style>
+            div.cyber-monday{
+                display: none;
+                position: fixed;
+                top: 50%;
+                left: 50%;
+                margin-top: -157.5px;
+                margin-left: -184px;
+                width: 365px;
+                height: 315px;
+                z-index: 1000;
+            }
+            div.cyber-monday-mini{
+                display: none;
+                position: fixed;
+                top: 100%;
+                left: 50%;
+                margin-top: -55px;
+                margin-left: -140px;
+                width: 280px;
+                height: 58px;
+                z-index: 1000;
+            }
+            div.cyber-monday a, div.cyber-monday a:hover, div.cyber-monday-mini a, div.cyber-monday-mini a:hover {
+                border: none;
+                color: #397890;
+            }
+            div.cyber-monday a.cyber-monday-close {
+                position: absolute;
+                font-family: Arial;
+                font-weight: bold;
+                right: 13px;
+                top: 13px;
+                border-radius: 13px;
+                padding: 5px 7px;
+            }
+        </style>
+        <script src="/assets/default/js/js.cookie.js"></script>
+        <script>
+        
+        $(document).ready(function () {
+            cyberMondayInit();
+        });
+        
+        function cyberMondayInit(){
+            var temp = Cookies.get('cyberMondayClosed');
+            if(temp == 1) {
+                $('div.cyber-monday-mini').show();
+            } else {
+                setTimeout(function(){ $('div.cyber-monday').show(); }, 3000);
+            }
+        }
+        
+        function cyberMondayClose() {
+            $("div.cyber-monday").hide();
+            $("div.cyber-monday-mini").show();
+            Cookies.set('cyberMondayClosed', 1);
+        }
+        
+        function cyberMondayGo() {
+            Cookies.set('cyberMondayClosed', 1);
+        }
+        
+        </script>
+        
 
     </head>
 
     <body>
+        
+        <!-- Google Tag Manager -->
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NDD9NH"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-NDD9NH');</script>
+        <!-- End Google Tag Manager -->
+        
+                
+                
 		<div class="skipper">
 
 		</div>
@@ -56,290 +132,131 @@
 			<!-- HEADER SITE AREA :: START -->
 
 			<header>
-				<div id="header" class="header">
-					<!-- 49 -->
-                                    					<div class="grid">
+                            <div id="header" class="header">
+                                    <!-- 49 -->
+                                                                    <div class="grid">
 
-                                            <!-- Header login form -->
-                                            <div id="logo">
-                                                    <a href="/" title="Go back to InTech homepage">InTech ‚Äö Open Access Publisher</a>
-                                                    <p id="tagline">Open Access Books &amp; Journals</p>
-                                            </div>
-                                                                                        
-                                                                                                                                                                    <div id="login-nav">
-    <!--  45 -->
-            <form id="tiny-login-form" action="/account/login" method="post">
-            <fieldset>
-                <table>
-                    <tbody><tr>
-                        <td>
-                            <label for="username" style="text-transform: none;">Author Panel Login</label>
-                        </td>
-                        <td>
-                            <!--<label for="username">Log in</label>-->
-                            <input type="text" class="input-text" name="email" id="username" value="Username" onblur="if(this.value == '') { this.value='Username'}" onfocus="if (this.value == 'Username') {this.value=''}">
-                        </td>
-                        <td>
-                            <input type="password" class="input-text" name="password" id="password" value="password" onblur="if(this.value == '') { this.value='password'}" onfocus="if (this.value == 'password') {this.value=''}">
-                        </td>
-                        <td>
-                            <input class="button" type="submit" value="Sign in">
-                        </td>
-                    </tr>
-                    <tr>
-                        <td></td>
-                        <td>
-                            <p class="forgot-password">
-                                <a href="/account/forgotpassword/">Forgot password?</a>
-                                <input id="rememberme" type="hidden" value="1" name="rememberme">
-                            </p>
-                        </td>
-                        <td></td>
-                        <td>&nbsp;</td>
-                    </tr>
-                </tbody></table>
-                <!--<p>
-                    <input id="rememberme" type="checkbox" value="1" name="rememberme"/>
-                    <label class="rememberme_main" for="rememberme" style="">Remember Me</label>
-                </p>-->
-            </fieldset>
-        </form>
-    </div>                                                                                                
-					</div>
-				</div>
+                                        <!-- Header login form -->
+                                        <div id="logo">
+                                            <a href="/" title="Go back to InTech homepage">
+                                                <img src="/assets/default/css/i/logo/intech-logo-white-new.png">
+                                            </a>
+                                        </div>
+                                        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,700" rel="stylesheet" type="text/css">
+                                        <div id="logoText">
+                                            Science, Technology and Medicine open access content.<br>Publish, read and share novel research.
+                                        </div>
+
+                                    </div>
+                            </div>
 			</header>
 
 			<!-- HEADER SITE AREA :: END -->
 
 			<!-- SITE NAVIGATION AREA :: START -->
 
-                                                        <script language="JavaScript" src="http://www.geoplugin.net/javascript.gp" type="text/javascript"></script>
-<script type="text/javascript">
-    jQuery(document).ready(function($) {
-       var country = geoplugin_countryName();
-       if (country == 'India' || country == 'Bangladesh' || country == 'Pakistan' || country == 'Sri Lanka' || country == 'Bhutan' || country == 'Nepal' || country == 'Maldives' || country == 'Iran' || country == 'Iraq' || country == 'Malaysia' || country == 'Singapore' || country == 'Thailand' || country == 'Brunei' || country == 'Indonesia' || country == 'Philippines' || country == 'Vietnam' || country == 'Cambodia' || country == 'Laos' || country == 'Myanmar') {
-           $("#hideIt").hide();
-       }
-    });
-</script>
+                                                            
+<div id="the-site-navigation" class="nav">
+    <div class="grid">
+        <div id="main-nav">
+            <ul id="mega">
+                <li><a href="/">Home</a></li>
+                <li class="drop"><a id="subject_dd" href="#">Subjects</a>
+                    <div class="mega">
+                        <div class="mega_inner">
+                            <div style="width:260px;margin-right:25px;">
+                                <h2>Physical Sciences, Engineering and Technology</h2>
 
-<!--
-<script>
-  (function() {
-    var cx = '018216608897022386018:qoerfmopdkg';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-        '//www.google.com/cse/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
-<style>
-    /*    
-    #gsc-i-id1 {
-        background: url("/assets/default/img/search_field.gif") no-repeat scroll 0 0 transparent !important;
-        height: 31px !important;
-        padding-left: 15px !important;
-        width: 195px !important;
-    }
-    
-    input.gsc-search-button.gsc-search-button-v2 {
-        background: url(/assets/default/img/search_mag.gif) no-repeat scroll 0 0 transparent !important;
-        width: 34px !important;
-        height: 31px !important;
-        border: 0 !important;
-        float: left !important;
-        cursor: pointer !important;
-        margin-top: -1px;
-        margin-left: -16px;
-    }*/
-    
-    
-    
-    #___gcse_0 {
-        margin-top: 12px;
-    }
-    
-    #gsc-i-id1 {
-        background: url("/assets/default/img/search_field.gif") no-repeat scroll 0 0 transparent !important;
-        height: 31px !important;
-        padding-left: 15px !important;
-        width: 195px !important;
-    }
-    
-    .gsib_b {
-        display: none;
-    }
-    
-    table.gsc-search-box td {
-        vertical-align: top;
-    }
-    
-    table.gsc-search-box {
-        margin-bottom: 0;
-    }
-    
-    #gsc-iw-id1 {
-        border: none !important;
-    }
-    
-    .gsib_a {
-        padding: 0px;
-    }
-    
-    .gsc-control-cse {
-        background: #f5f9fa url(/assets/default/css/i/pattern.png);
-    }
-    
-    .cse .gsc-control-cse, .gsc-control-cse {
-        padding: 0px;
-        border: none;
-    }
-    
-    form.gsc-search-box {
-        margin: 12px 0 0 0 !important;
-        padding-left: 10px !important;
-    }
-    
-    input.gsc-search-button.gsc-search-button-v2 {
-        background: url(/assets/default/img/search_mag.gif) no-repeat scroll 0 0 transparent !important;
-        width: 0px !important;
-        height: 0px !important;
-        border: 0 !important;
-        float: left !important;
-        cursor: pointer !important;
-        margin-top: -1px;
-        margin-left: -12px;
-        content: none !important;
-    }
-    
-    .cse .gsc-search-button input.gsc-search-button-v2, input.gsc-search-button-v2 {
-        padding: 15px 19px !important;
-    }
-    
-</style>
--->
-			<div id="the-site-navigation" class="nav">
-				<div class="grid">
-
-            <div id="main-nav">
-                <ul id="mega">
-
-                    <li><a href="/">Home</a></li>
-
-                    <li class="drop"><a id="subject_dd" href="#">Subjects</a>
-                             <div class="mega">
-
-
-								 <!--<div class="author-notification">
-									 <p><span>
-									All content on InTechOpen.com is available under Creative Commons 3.0 BY license. Read, share and download FREE of charge. </span>
-									</p>
-									<p class="close-button">
-										<a href="#" >[x]</a>
-									</p>
-								</div>-->
-
-								 <div class="mega_inner">
-                              <div style="width:260px;margin-right:25px;">
-                                    <h2>Physical Sciences, Engineering and Technology</h2>
-
-                                    <p>
-                                        <a href="/subjects/chemistry">Chemistry</a>
-                                        <a href="/subjects/computer-and-information-science ">Computer and Information Science </a>
-                                        <a href="/subjects/earth-and-planetary-sciences">Earth and Planetary Sciences</a>
-                                        <a href="/subjects/engineering">Engineering</a>
-                                        <a href="/subjects/materials-science">Materials Science</a>
-                                        <a href="/subjects/mathematics">Mathematics</a>
-                                        <a href="/subjects/nanotechnology-and-nanomaterials">Nanotechnology and Nanomaterials</a>
-                                        <a href="/subjects/physics">Physics</a>
-                                        <a href="/subjects/robotics">Robotics</a>
-                                        <a href="/subjects/technology">Technology</a>
-                                    </p>
-                               </div>
-                               <div style="width:260px;margin-right:25px;padding:0 24px;border-right:1px dotted #d4d4d4;border-left:1px dotted #d4d4d4;">
-
-                                    <h2>Life Sciences</h2>
-                                    <p>
-                                        <a href="/subjects/agricultural-and-biological-sciences">Agricultural and Biological Sciences</a>
-                                        <a href="/subjects/biochemistry-genetics-and-molecular-biology">Biochemistry, Genetics and Molecular Biology</a>
-                                        <a href="/subjects/environmental-sciences">Environmental Sciences </a>
-                                        <a href="/subjects/immunology-and-microbiology">Immunology and Microbiology</a>
-                                        <a href="/subjects/neuroscience">Neuroscience</a>
-                                    </p>
-
-                                    <h2>Health Sciences</h2>
-                                    <p>
-                                        <a href="/subjects/medicine">Medicine</a>
-                                        <a href="/subjects/pharmacology-toxicology-and-pharmaceutical-science">Pharmacology, Toxicology and Pharmaceutical Science</a>
-                                        <a href="/subjects/veterinary-medicine-and-science">Veterinary Medicine and Science</a>
-                                    </p>
-
-                                    </div>
-
-                                    <div style="width:190px;">
-
-                                            <h2>Social Sciences and Humanities</h2>
-                                            <p style="width: 190px;"><a href="/subjects/business-management-and-economics">Business, Management and Economics</a></p>
-                                            <p style="width: 190px;"><a href="/subjects/psychology">Psychology</a></p>
-                                            <p style="width: 190px;"><a href="/subjects/social-sciences">Social Sciences</a></p>
-
-                                            <div class="third_col_more_links" style="">
-                                                    <h2><span><a href="/books">All Books</a></span></h2>
-                                                    <h2><span><a href="/journals">All Journals</a></span></h2>
-                                                    
+                                <p>
+                                    <a href="/subjects/chemistry">Chemistry</a>
+                                    <a href="/subjects/computer-and-information-science ">Computer and Information Science </a>
+                                    <a href="/subjects/earth-and-planetary-sciences">Earth and Planetary Sciences</a>
+                                    <a href="/subjects/engineering">Engineering</a>
+                                    <a href="/subjects/materials-science">Materials Science</a>
+                                    <a href="/subjects/mathematics">Mathematics</a>
+                                    <a href="/subjects/nanotechnology-and-nanomaterials">Nanotechnology and Nanomaterials</a>
+                                    <a href="/subjects/physics">Physics</a>
+                                    <a href="/subjects/robotics">Robotics</a>
+                                    <a href="/subjects/technology">Technology</a>
+                                </p>
+                            </div>
+                            <div style="width:260px;margin-right:25px;padding:0 24px;border-right:1px dotted #d4d4d4;border-left:1px dotted #d4d4d4;">
+                                <h2>Life Sciences</h2>
+                                <p>
+                                    <a href="/subjects/agricultural-and-biological-sciences">Agricultural and Biological Sciences</a>
+                                    <a href="/subjects/biochemistry-genetics-and-molecular-biology">Biochemistry, Genetics and Molecular Biology</a>
+                                    <a href="/subjects/environmental-sciences">Environmental Sciences </a>
+                                    <a href="/subjects/immunology-and-microbiology">Immunology and Microbiology</a>
+                                    <a href="/subjects/neuroscience">Neuroscience</a>
+                                </p>
+                                <h2>Health Sciences</h2>
+                                <p>
+                                    <a href="/subjects/medicine">Medicine</a>
+                                    <a href="/subjects/pharmacology-toxicology-and-pharmaceutical-science">Pharmacology, Toxicology and Pharmaceutical Science</a>
+                                    <a href="/subjects/veterinary-medicine-and-science">Veterinary Medicine and Science</a>
+                                </p>
+                            </div>
+                            <div style="width:190px;">
+                                <h2>Social Sciences and Humanities</h2>
+                                <p style="width: 190px;"><a href="/subjects/business-management-and-economics">Business, Management and Economics</a></p>
+                                <p style="width: 190px;"><a href="/subjects/psychology">Psychology</a></p>
+                                <p style="width: 190px;"><a href="/subjects/social-sciences">Social Sciences</a></p>
+                                <div class="third_col_more_links" style="">
+                                    <h2><span><a href="/books">All Books</a></span></h2>
+                                    <h2><span><a href="/journals">All Journals</a></span></h2>
+                                </div>
+                                                                    <img src="/assets/default/css/i/publications-image.png " style="margin-top: 23px; margin-left: 10px;">
+                                                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li><a href="/books">Books</a></li>
+                <li><a href="/journals">Journals</a></li>
+                <li><a href="/about-open-access.html">About Open Access</a></li>
+                <li><a href="/publish-with-intech.html">Publish with us</a></li>
+                <li><a href="/news">News</a></li>
+                <li class="drop">
+                    <a id="login_dd" href="#">Author Panel LogIn <span class="triangle">▼</span></a>
+                    <div class="mega-login">
+                                                        <form action="/account/login" method="post">
+        <input id="rememberme" type="hidden" value="1" name="rememberme">
+        <ul>
+            <li><input type="text" class="input-text" name="email" id="username" value="Username" onblur="if(this.value == '') { this.value='Username'}" onfocus="if (this.value == 'Username') {this.value=''}"></li>
+            <li><input type="password" class="input-text" name="password" id="password" value="password" onblur="if(this.value == '') { this.value='password'}" onfocus="if (this.value == 'password') {this.value=''}"></li>
+            <li><a href="/account/forgotpassword/">Forgot password?</a></li>
+            <li style="float: left;"><input class="sighinbutton" type="submit" value="SIGN IN"></li>
+        </ul>
+    </form>
                                             </div>
-                                            <img id="hideIt" src="/assets/default/css/i/publications-image.png " style="margin-top: 23px; margin-left: 10px;">
-                                    </div>
-
-
-							 </div><!--mega inner-->
-
-
-
-                             </div>
-                    </li>
-
-                    <li><a href="/books">Books</a></li>
-                    <li><a href="/journals">Journals</a></li>
-
-                    
-                    <li><a href="/about-open-access.html">About Open Access</a></li>
-                    <li><a href="/news">News</a></li>
-                </ul>
-            </div>
-
-            <div id="search">
-                <form id="search-form" name="searchForm" accept-charset="utf-8" method="get" action="/search">
-                    <fieldset style="border:0px;">
-                        <label for="search-query">
-                        <input id="search-chapter-title" type="text" placeholder="Search publications..." value="Search publications..." name="q" onblur="if(this.value == '') { this.value='Search publications...'}" onfocus="if (this.value == 'Search publications...') {this.value=''}">
-                        </label>
-                        <input id="search-button" type="submit" value="">
-                    </fieldset>
-                </form>
-                
-                <!-- <gcse:search linkTarget=”_parent”></gcse:search> -->
-            </div>
-
-                <div id="primary-cta">
-                                            <p><a href="/publish-with-intech.html" class="button primary-button" style="font-size: 12px !important;">Publish with Us</a></p>
-                                    </div>
-
-        <!-- USER HEADER :: END -->
-        </div></div>                        
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>                        
 			<!-- SITE NAVIGATION AREA :: END -->
 
 			<!-- CONTENT AREA :: START -->
 
 			<!-- 44 -->
 			<div id="content" class="content">
-				<div class="grid">
+                                                            <div style="width: 940px; margin: 0 auto;">
+                                    <div id="search" style="float: right;">
+                                        <form id="search-form" name="searchForm" accept-charset="utf-8" method="get" action="/search">
+                                            <fieldset style="border:0px;">
+                                                <label for="search-query">
+                                                <input id="search-chapter-title" type="text" placeholder="Search publications..." value="Search publications..." name="q" onblur="if(this.value == '') { this.value='Search publications...'}" onfocus="if (this.value == 'Search publications...') {this.value=''}">
+                                                </label>
+                                                <input id="search-button" type="submit" value="">
+                                            </fieldset>
+                                        </form>
 
-					                                                
-							<!-- left column -->
+                                        <!-- <gcse:search linkTarget=”_parent”></gcse:search> -->
+                                    </div>
+                                </div>
+                                                        <div class="grid">
+
+                                    
+                                    		<!-- left column -->
              
         
 
@@ -499,7 +416,7 @@ If you have questions or comments about this Privacy Policy, please email us at&
 		</div><!-- // end main content -->
 
 
-				</div>
+                            </div>
 			</div>
 
 			<!-- CONTENT AREA :: END -->
@@ -542,6 +459,8 @@ If you have questions or comments about this Privacy Policy, please email us at&
 <ul>
 <li><a href="/about-intech.html">About InTech</a></li>
 <li><a href="/our-vision.html">Our Vision</a></li>
+<li><a href="/our-team.html">Our Team</a></li>
+<li><a href="/editorial-advisory-board.html">Editorial Advisory Board</a></li>
 <li><a href="/authors/profiles">Our Authors and Editors</a></li>
 <li><a href="/offerings.html">Offerings</a></li>
 <li><a href="/projects.html">Projects</a></li>
@@ -551,6 +470,7 @@ If you have questions or comments about this Privacy Policy, please email us at&
         <h4>Open Access</h4>
 <ul>
 <li><a href="/about-open-access.html">About Open Access</a></li>
+<li><a href="/open-access-policy.html">Open Access Policy</a></li>
 <li><a href="/intech-and-open-access.html">InTech and Open Access</a></li>
 <li><a href="/article-processing-charges.html">Article Processing Charges</a></li>
 <li><a href="/open-access-mandates.html">Open Access Mandates</a></li>
@@ -558,7 +478,7 @@ If you have questions or comments about this Privacy Policy, please email us at&
 </ul>    </div>
 
     <div class="site-section">
-        <h4>Participate</h4>
+        <h4>Work With Us</h4>
 <ul>
 <li><a href="/publish-with-intech.html">Publish with InTech</a></li>
 <li><a href="/publish-your-own-book.html">Publish Your Own Book</a></li>
@@ -572,7 +492,6 @@ If you have questions or comments about this Privacy Policy, please email us at&
 <ul>
 <li><a href="/policies.html">InTech's Policies</a></li>
 <li><a href="/our-partners.html">Publishing Standards Insurance</a></li>
-<li><a href="/editorial-advisory-board.html">Editorial Advisory Board</a></li>
 <li><a href="/customers-complaints.html">Customers Complaints</a></li>
 </ul>    </div>
 
@@ -636,6 +555,8 @@ If you have questions or comments about this Privacy Policy, please email us at&
             $('.stats-tabs').cn_tabs();
 
             _que.push("it_showSubject()");
+            
+            _que.push("it_showLogin()");
             
             _coreInit();
         });
