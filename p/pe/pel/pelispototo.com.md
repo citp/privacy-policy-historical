@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pelispototo.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408055038id_/http%3A//pelispototo.com/es/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pelispototo.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206051358id_/http%3A//pelispototo.com/es/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Online
 
