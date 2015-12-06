@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-job-interview.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142614id_/http%3A//www.best-job-interview.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-job-interview.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140900id_/http%3A//www.best-job-interview.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,22 +25,28 @@ The search box on this web site ("Search Box") is powered by Google Inc ("Google
 
 **Use of Cookies**
 
-We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site's services, a cookie enables  www.best-job-interview.com to recall your specific information on subsequent visits. 
+We use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site's services, a cookie enables  www.best-job-interview.com to recall your specific information on subsequent visits. 
 
-We also use third party advertisements on www.best-job-interview.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site.
+You have the ability to accept or decline cookies by modifying settings in your browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site. 
 
-Third-party advertising companies serve ads when you visit www.best-job-interview.com. These companies may use information (not including your name, address, email address, or telephone number) about your visits to www.best-job-interview.com and other websites in order to provide advertisements about goods and services of interest to you. 
+A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. Beacons are also referred to as web bugs. They are commonly used by sites that use third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a website. 
 
-Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to www.best-job-interview.com. 
+As you browse this website, Google Analytics and advertising cookies will be placed on your computer to collect demographic and interest information, but we do not tie the cookie to any personal information that you provide to us. If you do not wish your data to be collected via Google Analytics, you may use their opt-out tool.
 
-Google's use of the DoubleClick cookie enables it and its partners to serve ads to users based on their visit to www.best-job-interview.com and/or other sites on the Internet.
+<https://tools.google.com/dlpage/gaoptout/>. 
 
-Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Google ad and content network privacy policy](http://www.google.com/policies/technologies/ads/).
+We use third-party advertising companies to serve ads on our website. These companies use cookies and web beacons in their ads to ascertain how many times you've seen an advertisement. 
 
-You can control the use of cookies through your web browser. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to log in to services or programs, such as logging into forums or accounts. In FireFox, choose Tools > Options > Privacy to set your cookie settings. In Internet Explorer, choose Tools > Internet Options > Privacy. In other browsers, please check the documentation of that browser for how to change the cookie settings. 
+No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information from our website. 
 
-**Children's Online Privacy Protection Act**  
+Some third-party advertisements may be provided by Google, which uses the DoubleClick cookie to serve ads. This cookie enables Google to serve ads to users based on their visits to other sites on the Web.   
 
+
+You may opt out of the use of the DoubleClick cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/technologies/ads/). 
+
+Browsers can be set to accept or reject cookies automatically, or notify you when a cookie is being requested. Privacy software can be used to override web beacons. Taking either of these actions should not cause a problem with our site, should you so choose.
+
+**Children's Online Privacy Protection Act**
 
 This website is directed to adults; it is not directed to children under the age of 13. We operate our site in compliance with the Children's Online Privacy Protection Act, and will not knowingly collect or use personal information from anyone under 13 years of age.
 
