@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the terraserver.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607072300id_/http%3A//www.terraserver.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the terraserver.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206114158id_/http%3A//www.terraserver.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<title>TerraServer - Privacy Policy</title>
@@ -39,7 +39,6 @@ function outBgMnu(newtyp)
 <script type="text/javascript" src="/includes1.5/utils_error.js"></script>
 <script language="JavaScript" type="text/javascript">
 
-
 function submitSignIn()
 {  
     var form=document.SignInForm;    
@@ -48,7 +47,7 @@ function submitSignIn()
 	{
 	    window.alert("Please enter a valid User Name (email address) to continue.");
 	}
-	else if ($("#sPassword").val().length <= 1)
+	else if ($("#sPassword").val().length < 1)
 	{
 	    window.alert("Please enter a valid Password to continue.");
 	}
@@ -73,65 +72,51 @@ function submitSignIn()
                             <tbody><tr>
                                 <td valign="top">
 								
-
-									<table cellspacing="0" cellpadding="0">
+									<table cellspacing="0" cellpadding="0" class="mainWrapper">
+    <tbody>
+		<tr class="header">
+			<td valign="top">
+				<table cellspacing="0" cellpadding="0">
 					<tbody>
 						<tr>
 							<td align="left" valign="top" class="menuWrapHeader">
 								<table cellspacing="0" cellpadding="0">
 									<tbody>
 										<tr>
-                                            <td class="HeaderMenu">
+											<td class="HeaderMenu">
 												<ul>
-													<li>
-													    <a href="http://www.precisionhawk.com/" target="_blank">
-													        PRECISIONHAWK
-													    </a>
-													</li>
-													<li>
-												        <a href="https://www.datamapper.com/" target="_blank">
-												            DATAMAPPER
-												        </a>
-												    </li>
-													<li class="active">
-													    <a href="http://www.terraserver.com">
-													        TERRASERVER
-													    </a>
-													</li>
+													<li class="active"><a href="http://www.terraserver.com">TerraServer</a></li>
+													<li><a href="http://www.precisionhawk.com/" target="_blank">PrecisionHawk</a></li>
+													<li><a href="https://www.datamapper.com/" target="_blank">DataMapper</a></li>
+													<li><a href="https://www.datamapper.com/algorithms" target="_blank">Algorithm Marketplace</a></li>
+													<li><a href="http://flylatas.com/" target="_blank">LATAS</a></li>
 												</ul>	
 											</td>
 											<td class="subMenu">
 												<ul>
-													<li> 
-													    <a href="http://www.terraserver.com/help_contact.asp">
-													        <span class="glyphicon glyphicon-earphone white" aria-hidden="true"></span> 
-													        &nbsp;Toll Free: 888-963-9553 
-													    </a> 
+													<li> <a href="http://www.terraserver.com/help_contact.asp">
+													<span class="glyphicon glyphicon-earphone white" aria-hidden="true"></span> &nbsp;Toll Free: 888-963-9553 </a> 
 													</li>
-													<li>
-													    <a href="http://www.terraserver.com/help.asp">
-													        <span class="glyphicon glyphicon-info-sign white" aria-hidden="true"></span> 
-													        &nbsp;Help &amp; Support
-													    </a>
-													</li>
-													<li>
-													    <a href="http://www.terraserver.com/cart.asp">
-													        <span class="glyphicon glyphicon-shopping-cart white" aria-hidden="true"></span>
-													        &nbsp;Cart
-													        </a>
+													<li><a href="http://www.terraserver.com/help.asp">
+													<span class="glyphicon glyphicon-info-sign white" aria-hidden="true"></span> &nbsp;Help &amp; Support</a></li>
+													<li><a href="http://www.terraserver.com/cart.asp">
+													    <span class="glyphicon glyphicon-shopping-cart white" aria-hidden="true"></span>&nbsp;Cart</a>
 													</li>
 												</ul>		
 											</td>
 										</tr>
-				
+									
+							
 								
-								<tr>
+								
+							
+                            <tr>
 								<td align="left" valign="top" class="menuWrap" colspan="2">
 									<table cellspacing="0" cellpadding="0">
 										<tbody><tr>
 											<td class="mainMenu">
 												
-                                                 <ul>
+                                                <ul>
 													<li>
 													<a href="http://www.terraserver.com" class="logo">
 													<img src="/images1.5/logoPH.jpg" alt="TerraServer - The Leader In Online Imagery"></a>
@@ -140,9 +125,9 @@ function submitSignIn()
 													</li>
 													<li><a href="http://www.terraserver.com/products.asp">PRODUCTS</a></li>
 													<li><a href="http://www.terraserver.com/samples.asp">SAMPLES</a></li>
-													<li><a href="http://www.terraserver.com/solutions.asp">SOLUTIONS</a></li>
+													<li><a href="http://www.terraserver.com/industries.asp">INDUSTRIES</a></li>
 													<li><a href="http://www.terraserver.com/company.asp">COMPANY</a></li>
-													<li id="log" style="position:relative;">
+													<li id="log" style="position:relative;cursor:pointer;">
 														<a data-toggle="modal" data-target="#myModal">
 														LOGIN
 														</a>
@@ -165,6 +150,9 @@ function submitSignIn()
         </td>
     </tr>
    </tbody></table>
+
+
+
 <!-- Begins Sign In Form -->
 <form name="SignInForm" id="SignInForm" action="javascript: void(0);" method="post" autocomplete="off">
     <input type="hidden" name="rq" id="rq" value="">
@@ -190,10 +178,10 @@ function submitSignIn()
 		    </div>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-info" data-dismiss="modal">Close</button>
             <button type="button" class="btn btn-info" onclick="javascript: submitSignIn(); return false;">Sign In</button>
-            <a border="0" style="border: 0px;" href="http://www.terraserver.com/forgot.asp">Forgot Password?</a>          
-         </div>
+            <a border="0" style="border: 0px;" href="http://www.terraserver.com/forgot.asp">Forgot Password?</a>
+          </div>
         </div>
       </div>
     </div>
@@ -269,7 +257,7 @@ function submitSignIn()
                                         <td class="title">SHARING INFORMATION</td>
                                     </tr>
                                     <tr>
-                                        <td>Though we make every effort to preserve user privacy, we may disclose personal information when required by law or requested by law enforcement wherein we have a good-faith belief that such action is necessary. Personally identifiable information is not shared with any third parties. Aggregate information is not shared with any third parties. </td>
+                                        <td>We may disclose a user’s personal information to third parties without the user’s consent if we have a good faith belief  that doing so is necessary to identify, contact or bring legal action against a user who may be causing injury to or interference with our rights or property, the rights or property of our licensors including Digital Globe, or any other person. We may also disclose personal information if we have a good faith belief that such disclosure is required by law. We may also disclose personal information in connection with a corporate re-organization, a merger or amalgamation, a sale of all or substantially all of our assets or stock, including any due diligence exercise carried out in connection with such transactions, provided that the information disclosed continues to be used in accordance with this Privacy Policy.</td>
                                     </tr>
                                     <tr>
                                         <td>&nbsp;</td>
@@ -319,9 +307,8 @@ function submitSignIn()
                                             <br>
                                             TerraServer
                                             <br>
-                                            5995 Chapel Hill Rd #109
-                                            <br>
-                                            Raleigh, NC 27607
+                                            9001 Glenwood Ave. Suite 100                                            <br>
+                                            Raleigh, NC 27617
                                             <br>
                                             USA </td>
                                     </tr>
@@ -421,4 +408,4 @@ urchinTracker();
     
 
 
-</td></tr></tbody></table></div></body></html>
+</td></tr></tbody></table></td></tr></tbody></table></div></body></html>
