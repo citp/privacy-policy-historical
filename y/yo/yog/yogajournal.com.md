@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yogajournal.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608121702id_/http%3A//www.yogajournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogajournal.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206142009id_/http%3A//www.yogajournal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yoga Journal
 
@@ -29,3 +29,5 @@ We will not facilitate the merging of personally-identifiable information with n
 Children should ask their parents for permission before sending any information about themselves to us or anyone else over the Internet.
 
 [Posting comments on YogaJournal.com is subject to additional policies.](https://web.archive.org/general_customer_service/cs_privacy/cs_privacy_blogs/)
+
+Our properties may feature Nielsen proprietary measurement software which will allow you to contribute to market research, such as Nielsen TV Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the [Nielsen Digital Measurement Privacy](http://www.nielsen.com/digitalprivacy).
