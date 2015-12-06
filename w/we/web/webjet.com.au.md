@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webjet.com.au privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627155331id_/http%3A//www.webjet.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webjet.com.au privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206051800id_/http%3A//www.webjet.com.au/about/privacy) for the most accurate reproduction.*
 
 # Webjet Travel - Online airfares at cost price for all airlines - Webjet
 
@@ -15,6 +15,9 @@ You are encouraged to check this privacy policy periodically, as we may from tim
 ##  **Information We Collect About You**
 
 We collect your personal information when you provide it to become a member of Webjet to facilitate an online purchase and complete your booking. You may also choose to provide us with additional information to enable us to improve and expand our service to you such as special requirements for flights. This additional information is only collected and/or used as necessary in order to provide you with specific additional travel arrangements, such as special meals.
+
+We collect your email address when you request to be added to our mailing list or when you have purchased, to receive updated information about products and specials. You can unsubscribe at any time. In order to enter you into our mailing list, we do not require you to provide any information to us apart from an email address.  
+ 
 
 ##  **Using and Disclosing Your Personal Information**
 
@@ -34,11 +37,21 @@ We may disclose your personal information where required or authorised by law to
 
 ##  **Cookies**
 
-When you visit our website, details are recorded about your visit, such as time and date, your server address, pages accessed, time spent and type of browser. This information is used in an anonymous form for statistical purposes and as such cannot identify you individually.
+When you visit our website, details are recorded about your visit, such as time and date, your server address, pages accessed, time spent and type of browser. We may record visitor activity such as mouse clicks, mouse movement and other user experience based metrics. 
 
 We use Cookies to identify your browser so that next time you visit our website we remember your log in details. A cookie is a small file which remains on your computer and contains information enabling our website to recognise your browser. If you do not wish to use cookies, you can adjust the settings on your browser to reject cookies or notify you when they are being used.
 
-We collect your email address when you request to be added to our mailing list to receive updated information about products and specials. You can unsubscribe at any time. In order to enter you into our mailing list, we do not require you to provide any information to us apart from an email address.
+We use Google Analytics features based on Display Advertising (Remarketing and Google Analytics Demographics and Interest Reporting). These features use first-party and third-party cookies to inform, optimise and serve ads based on your past visits to our site.
+
+This allows us to report on demographics for understanding our site’s audience and display ads that relate to products and services you have viewed on our site as you browse third party sites on the Google Display Network using Remarketing.
+
+If you would like to opt-out of customised Google Display Network ads and Google Analytics for Display Advertising you can use [Ad Settings](https://www.google.com/settings/).
+
+Persistent cookies may be used to identify the sites you visit on the Webjet Network and to personalise the advertising that you see when you make future visits to that site or other sites.
+
+This information is used in an anonymous form for statistical purposes and as such cannot identify you individually.
+
+If you do not wish to use cookies, you can adjust the settings on your browser to reject cookies or notify you when they are being used.
 
 ##  **Storage And Security Of Personal Information**
 
@@ -72,4 +85,4 @@ If at any time you have any concerns or complaints in relation to privacy or the
 
 Further information may be obtained on privacy issues in Australia by visiting the Australian Federal Privacy Commissioner ’s web site at <http://www.privacy.gov.au/>.
 
-_Last updated 12 March 2014_
+_Last updated 24 November 2015_
