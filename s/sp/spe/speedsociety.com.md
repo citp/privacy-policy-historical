@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedsociety.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626043813id_/http%3A//speedsociety.com/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedsociety.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206121413id_/http%3A//speedsociety.com/privacy-policy-cookies) for the most accurate reproduction.*
 
 # Privacy Policy and Cookies - Speed Society
 
@@ -52,11 +52,9 @@ You will be able to connect your Speed Society account to third party accounts. 
 
 We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Speed Society by contacting us here:
 
-\- Web page: www.speedsociety.com
-
-\- Email: advert@speedsociety.com
-
-\- Phone: 619-890-3605
+ **Web page** : www.speedsociety.com  
+**Email** : info@speedsociety.com  
+**Phone** : (855) 271-1679
 
  **Changes to this Statement**
 
@@ -66,18 +64,12 @@ Speed Society will occasionally update this Statement of Privacy to reflect comp
 
 Speed Society welcomes your questions or comments regarding this Statement of Privacy. If you believe that Speed Society has not adhered to this Statement, please contact Speed Society at:
 
-Speed Society LLC
-
-7220 Trade St
-
+Speed Society, Inc.  
+4122 Sorrento Valley Blvd.  
+Suite 104  
 San Diego, California 92121
 
-Email Address:
+ **Email** : info@speedsociety.com  
+**Phone** : (855) 271-1679
 
-facebook@speedsociety.com
-
-Telephone number:
-
-6198903605
-
-Effective as of jan 01, 2012
+Effective as of Jan 01, 2012
