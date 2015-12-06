@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesadvertising.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429215236id_/http%3A//www.yesadvertising.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesadvertising.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206223332id_/http%3A//www.yesadvertising.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Online Advertising Network | Performance based Marketing Services | Yesadverting
 
