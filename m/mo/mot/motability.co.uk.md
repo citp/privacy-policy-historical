@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motability.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607232011id_/http%3A//www.motability.co.uk/utilities/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motability.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206235333id_/http%3A//www.motability.co.uk/utilities/privacy-and-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and cookies policy | Motability
 
@@ -91,15 +91,7 @@ howManyToShow
 product -1   
 product -2   
 product -3   
-firstSixcol   
-submit   
-lastOneDisplayed   
-0   
-1  
-2   
-3   
-4   
-new-search
+lastOneDisplayed 
 
 | This cookie enables users to view previously viewed items during a single session.  
 Car Search cookies | car_addClassDisplayedOne  
@@ -110,20 +102,46 @@ car_lastOneDisplayed
 car_last Product  
 car_product -1   
 car_product – 2  
-car_product – 3  | This cookie enables users to view previously viewed items during a single session.  
+car_product – 3 | This cookie enables users to view previously viewed items during a single session.  
 Accessibility cookie | TextSize and colControl | 
 
 This cookie stores accessibility toolbar settings, such as text size and colours.  
   
-Saving preference cookie | CarBasket
+Saving preference cookie
+
+| 
+
+CarBasket
 
 WAVBasket
+
+ScooterBasket
 
 PrintBasket
 
 SavedSearch
 
-| These cookies enable users to save information they would like to review at a later date.  
+| 
+
+These cookies enable users to save information they would like to review at a later date.  
+  
+BrowseAloud Cookie | 
+
+rwebooks-x
+
+rwebooks-y
+
+_ba_cookies_enabled
+
+_ba_user
+
+_ba_settings
+
+_ba_pdf
+
+_ba_use_pdf
+
+| These cookies enable the users to access and participate in using the website with the aid of speech, reading and translation support.  
   
 ### Updating your settings
 
