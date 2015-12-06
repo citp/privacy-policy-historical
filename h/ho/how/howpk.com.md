@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howpk.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626122022id_/http%3A//howpk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howpk.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114224id_/http%3A//howpk.com/privacy-policy) for the most accurate reproduction.*
 
 # Howpk.com-Privacy Policy | HowPk
 
@@ -44,9 +44,9 @@ We do not sell, trade, or rent Users personal identification information to othe
 
  **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](http://www.google.com/policies/privacy/ads/ "http://www.google.com/privacy_ads.html")
 
-**Changes to this privacy policy**
+ **Changes to this privacy policy**
 
 howpk has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
