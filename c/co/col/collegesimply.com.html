@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the collegesimply.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607200605id_/http%3A//www.collegesimply.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the collegesimply.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206232136id_/http%3A//www.collegesimply.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     	
@@ -32,7 +32,7 @@
 		
 		
 		
-		<script type="text/javascript" async="" src="//cdn.feedbackify.com/f.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+		<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
 		window.google_analytics_uacct = "UA-33670276-2";
 		</script>
 		
@@ -51,8 +51,33 @@
 		  setTimeout("ga('send','event','60_seconds','read')",60000);
 		  setTimeout("ga('send','event','120_seconds','read')",120000);
 		  setTimeout("ga('send','event','180_seconds','read')",180000);
-		  setTimeout("ga('send','event','300_seconds','read')",300000);
+		  setTimeout("ga('send','event','300_seconds','read')",300000);		 
 		</script>
+		
+		
+		<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<script>
+		  (adsbygoogle = window.adsbygoogle || []).push({
+		    google_ad_client: "ca-pub-0590646949033975",
+		    enable_page_level_ads: true
+		  });
+		</script>
+		
+		
+		<script>
+		/**
+		* Function that tracks a click on an outbound link in Google Analytics.
+		* This function takes a valid URL string as an argument, and uses that URL string
+		* as the event label.
+		*/
+		var trackOutboundLink = function(url,category,action,label) {
+		   ga('send', 'event', category, action, label, {'hitCallback':
+		     function () {
+		     document.location = url;
+		     }
+		   });
+		}
+		</script> 
 		
 		<!-- Quantcast Tag -->
 		<script type="text/javascript">
@@ -152,33 +177,7 @@
 			<!-- Hero ends -->
 		</div>
 		 
-		<div class="container">			
-			<div class="row">
-				<div class="col-md-8 col-sm-1"></div>
-				<div class="col-md-4 col-sm-11">
-				<div class="share-buttons">
-					 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-528a51d8320e6816" async="async"></script>
-<div class="addthis_sharing_toolbox"></div>
-
-				</div>
-				</div>
-			</div>
-		</div>
+		
 		<!-- Top Ends -->
     	
 	<!-- Blog starts -->
@@ -312,7 +311,11 @@
 						</div>
 						<div class="footer-link">
 							<h5>Applying</h5>
-							<a href="/guides/application-deadlines/">2015 Deadlines</a><br>
+							<a href="/guides/application-deadlines/">2016 Deadlines</a><br>
+						</div>
+						<div class="footer-link">
+							<h5>Reviews</h5>
+							<a href="/reviews/">Read College Reviews</a><br>
 						</div>
 					</div>
 					 
@@ -403,16 +406,39 @@
   	  	});
   		</script>
   		
-  		<script type="text/javascript">
-		var fby = fby || [];
-		fby.push(['showTab', {id: '7945', position: 'right', color: '#A5DF00'}]);
-		(function () {
-		    var f = document.createElement('script'); f.type = 'text/javascript'; f.async = true;
-		    f.src = '//cdn.feedbackify.com/f.js';
-		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(f, s);
-		})();
-		</script>
+  		
 		
+		 
+    <script> 
+      
+      window.onload = function() { 
+      
+        // Delay to allow the async Google Ads to load
+        setTimeout(function() { 
+          
+          // Get the first AdSense ad unit on the page
+          var ad = document.querySelector("ins.adsbygoogle");
+          
+          // If the ads are not loaded, track the event
+          if (ad && ad.innerHTML.replace(/\s/g, "").length == 0) {
+     
+            if (typeof ga !== 'undefined') {
+     
+                // Log an event in Universal Analytics
+                // but without affecting overall bounce rate
+                ga('send', 'event', 'Adblock', 'Yes', {'nonInteraction': 1}); 
+     
+            } else if (typeof _gaq !== 'undefined') {
+     
+                // Log a non-interactive event in old Google Analytics
+                _gaq.push(['_trackEvent', 'Adblock', 'Yes', undefined, undefined, true]);
+     
+            }
+          }
+        }, 2000); // Run ad block detection 2 seconds after page load
+      }; 
+      
+    </script>
 		
 
 
