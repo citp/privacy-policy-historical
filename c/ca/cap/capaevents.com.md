@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capaevents.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627150648id_/http%3A//centreforaviation.com/about-capa/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capaevents.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206162852id_/http%3A//centreforaviation.com/about-capa/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CAPA - Centre for Aviation
 
@@ -36,4 +36,4 @@ CAPA may provide links to third-party Web sites. Since we do not control third-p
 
 CAPA reserves the right to change this privacy policy at any time by posting revisions on this Web page. Such changes will be effective upon posting.
 
-Last Updated: June 1st, 2015
+Last Updated: October 29th, 2015
