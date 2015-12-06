@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michaelpage.co.in privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607232346id_/http%3A//www.michaelpage.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelpage.co.in privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206235210id_/http%3A//www.michaelpage.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Michael Page
 
@@ -6,11 +6,11 @@ Michael Page International Recruitment Pvt Ltd and our related companies worldwi
 
 Where you provide us with your personal data, in person, by email, through this website or through any of our other international websites or offices, we will endeavour to ensure that such information remains private and is only used in accordance with this policy. By providing us with your personal data, you also consent for us to collect, hold, use and disclose your personal data in accordance with this policy. PageGroup must comply with the applicable privacy laws and similar laws in the countries in which we operate.
 
-##  1\. Collection of Personal Data
+## 1\. Collection of Personal Data
 
 PageGroup may collect your personal information from you, including (without limitation) your name, contact details, qualifications, work history, your right to work in a particular country, languages spoken, professional memberships and accreditations, your work objectives and other information from your CV. If you are to be considered for a particular position, we may also collect references from your nominated referees. All the personal data we collect is held, used and disclosed for the purposes set out below.
 
-##  2\. Use and Disclosure of Personal Data
+## 2\. Use and Disclosure of Personal Data
 
 PageGroup holds, uses and discloses your personal data for the following purposes:  
 (a) to provide our services to you;  
@@ -26,7 +26,7 @@ PageGroup holds, uses and discloses your personal data for the following purpos
 (k) we may also release personal data to regulatory or law enforcement authorities, if they require us to do so; and  
 (l) we may also seek your consent to collect, hold, use and disclose your personal data for any other purpose not listed above.
 
-##  3\. Privacy on Our Websites
+## 3\. Privacy on Our Websites
 
 (a) Submitting Your Curriculum Vitae ("CV") and Applying for Jobs  
 You may submit your CV to PageGroup via this website, either for general consideration by our recruitment consultants for positions as they arise or to apply for a specific advertised job. Once submitted, your CV will be sent directly to the relevant PageGroup recruitment consultant who will review your details and advise you whether you are to be accepted by us for registration on our central database. This database, including your personal data, can be accessed by any of our recruitment consultants working in other offices of the PageGroup, both inside and outside Singapore. If you are accepted onto our database, our recruitment consultants should then contact you to set up an interview in person. You can update your CV at any time, simply by following the same procedure to submit a new CV via our websites.  
@@ -37,19 +37,19 @@ We gather information and statistics about all visitors to this and all of our w
 (d) Cookies  
 A cookie is a small data file which is sent from our web server to your individual web browser when your browser visits our server's website. You can find out more about the use of cookies on [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). Cookies are used on PageGroup websites to remember your login details, to track web traffic on an aggregate basis and to keep session information in cache to assist your use of our website, such as your last search (however, this information is disposed of every time you close your web browser). Most browsers allow you to turn off cookies (see the help menu on your browser), however, switching off cookies will restrict your use of our websites.
 
-##  4\. Access to Personal Data
+## 4\. Access to Personal Data
 
 You may request access to or updating of your personal data held at PageGroup by contacting the PageGroup privacy officer as set out below. We may ask to verify your identity and for more information about your request. Where we are legally permitted to do so, we may refuse your request and give you reasons for doing so. Where you request your personal data to be updated and there is a dispute about the facts, we will make a note on your personal data of such dispute. You may also request that PageGroup stops using your information and contacting you and we will comply with your request. However, if this involves a request for deletion of your file, please be aware that we may not be required or able to do so, particularly where your file also holds information about our clients. Where permitted to do so, we may charge an administrative fee for access and updating requests.
 
-##  5\. Security
+## 5\. Security
 
 PageGroup takes reasonable steps to keep personal data secure, accurate and up to date. The Internet is not always a secure method of transmitting information. Accordingly, while we seek to protect your personal data by implementing digital security systems in various parts of our website, PageGroup cannot accept responsibility for the security of information you send to or receive from us over the Internet or for any unauthorised access or use of that information. Where we have links to websites outside the PageGroup, we cannot ensure that your privacy will be protected in accordance with this policy. You should consult these other websites' privacy policies as we have no control over them and are not responsible for any information that is submitted to or collected by these third parties.
 
-##  6\. Changes to this Privacy Policy
+## 6\. Changes to this Privacy Policy
 
 PageGroup may amend this Privacy Policy from time to time. We suggest that you visit our website regularly to keep up to date with any changes.
 
-##  7\. Contact
+## 7\. Contact
 
 You can contact our Privacy Officer as follows:
 
@@ -60,4 +60,4 @@ Michael Page International Recruitment Pvt Ltd
 Maker Maxity, Bandra-Kurla Complex  
 Bandra (E), Mumbai, India 400051  
 Tel +91 (0) 22 4236 3300  
-Fax +91 (0) 22 4236 3301 
+Fax +91 (0) 22 4236 3301
