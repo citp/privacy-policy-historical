@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethicaljobs.com.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142408id_/http%3A//www.ethicaljobs.com.au/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethicaljobs.com.au privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140910id_/http%3A//www.ethicaljobs.com.au/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy – EthicalJobs.com.au
 
