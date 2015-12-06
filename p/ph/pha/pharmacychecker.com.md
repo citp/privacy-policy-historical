@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmacychecker.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141048id_/http%3A//www.pharmacychecker.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmacychecker.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035732id_/http%3A//www.pharmacychecker.com/privacy.asp) for the most accurate reproduction.*
 
 # PharmacyChecker.com: Privacy
 
@@ -19,4 +19,4 @@ For PharmacyChecker.com newsletter subscribers, we reserve the right to send sub
 
 We do evaluate site usage by analyzing user information in the aggregate, in a way that does not identify any individual user.
 
-We maintain a secure process for collection, transmission, and storage of registration information. See our [Security](https://web.archive.org/web/20150607141048id_/http%3A//www.pharmacychecker.com/Security.asp) page for more details.
+We maintain a secure process for collection, transmission, and storage of registration information. See our [Security](https://web.archive.org/web/20151206035732id_/http%3A//www.pharmacychecker.com/Security.asp) page for more details.
