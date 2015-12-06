@@ -1,108 +1,183 @@
-<!--The following is the downloaded HTML source of the helloflo.com privacy policy that was archived on 2015-02-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150206043608id_/http%3A//helloflo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the helloflo.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206162929id_/http%3A//helloflo.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" style=""><head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="http://connect.facebook.net/en_US/all.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAAAUldaGwEIVVBUAwk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<!DOCTYPE html><html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<title>Privacy Policy - Helloflo</title>
+<link rel="stylesheet" type="text/css" href="//blog.helloflo.com/wp-content/themes/helloflo/style.css">
+<link rel="stylesheet" type="text/css" href="//blog.helloflo.com/wp-content/themes/helloflo/assets/css/bootstrap.css">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=898447173541229&amp;version=v2.3"></script><script type="text/javascript" async="" src="http://static.addtoany.com/menu/page.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<!-- Latest compiled and minified JavaScript -->
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+<script src="//blog.helloflo.com/wp-content/themes/helloflo/assets/js/jquery.jpanelmenu.min.js"></script>
+<script src="//blog.helloflo.com/wp-content/themes/helloflo/assets/js/jquery.fitvids.js"></script>
+<script src="//blog.helloflo.com/wp-content/themes/helloflo/assets/js/scriptControl.js"></script>
 
-	<title>Privacy Policy | Helloflo</title>
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/favicon-128.png" sizes="128x128">
+<meta name="application-name" content="&nbsp;">
+<meta name="msapplication-TileColor" content="#FFFFFF">
+<meta name="msapplication-TileImage" content="mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="mstile-150x150.png">
+<meta name="msapplication-wide310x150logo" content="mstile-310x150.png">
+<meta name="msapplication-square310x310logo" content="mstile-310x310.png">
 
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<meta name="format-detection" content="telephone=no">
-
-  
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.3.3 - https://yoast.com/wordpress/plugins/seo/ -->
-<link rel="canonical" href="http://helloflo.com/privacy/">
+<!-- This site is optimized with the Yoast WordPress SEO plugin v2.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="//blog.helloflo.com/privacy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - Helloflo">
+<meta property="og:description" content="Your privacy, and the privacy of all users of HelloFlo is important to us. HelloFlo is committed to protecting your privacy online. Accordingly, HelloFlo has developed this privacy policy that describes the data we collect, how we use it, and with whom we share it (“Privacy Policy”). This Privacy Policy sets forth the policies and …">
+<meta property="og:url" content="http://blog.helloflo.com/privacy/">
+<meta property="og:site_name" content="Helloflo">
+<meta property="og:image" content="https://s3.amazonaws.com/helloflo-wp/app/uploads/2015/05/11145730/logo@2x.png">
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/blog.helloflo.com\/","name":"Helloflo"}</script>
 <!-- / Yoast WordPress SEO plugin. -->
 
-<link rel="dns-prefetch" href="//connect.facebook.net">
-<link rel="stylesheet" href="/app/themes/helloflo/css/styles.css?ver=ef8366dada8e9f8b788d847cc6944e1f08e8b57e5">
-<link rel="stylesheet" href="/app/themes/helloflo/assets/css/app.css?ver=ef8366dada8e9f8b788d847cc6944e1f08e8b57e5">
-<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css?ver=3.9.1">
-<link rel="stylesheet" href="/app/themes/helloflo/assets/css/jquery.selectbox.css?ver=64c2848549e90cef42796141ccce4c3e">
-<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Handlee&amp;ver=3.9.1">
-<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C800italic%2C400%2C300%2C600%2C700%2C800&amp;ver=3.9.1">
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="http://helloflo.com/app/themes/helloflo/assets/js/vendor/jquery-1.11.0.min.js"><\/script>')</script><script src="http://helloflo.com/app/themes/helloflo/assets/js/vendor/jquery-1.11.0.min.js"></script>
-<script type="text/javascript" src="/app/themes/helloflo/assets/js/vendor/modernizr-latest.js"></script>
-<meta property="og:site_name" content="Helloflo">
-<meta property="og:type" content="article">
-<meta property="og:locale" content="en_US">
-<meta property="og:url" content="http://helloflo.com/privacy/">
-<meta property="og:title" content="Privacy Policy - Helloflo">
-<meta property="og:description" content="Your privacy, and the privacy of all users of HelloFlo is important to us. HelloFlo is committed to protecting your privacy online. Accordingly, HelloFlo has developed this privacy policy that describes the data we collect, how we use it, and ... More">
+<link rel="alternate" type="application/rss+xml" title="Helloflo » Feed" href="//blog.helloflo.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Helloflo » Comments Feed" href="//blog.helloflo.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Helloflo » Privacy Policy Comments Feed" href="//blog.helloflo.com/privacy/feed/">
+<link rel="stylesheet" id="se-link-styles-css" href="//blog.helloflo.com/wp-content/plugins/search-everything/static/css/se-styles.css?ver=4.1.8" type="text/css" media="all">
+<link rel="stylesheet" id="mailchimp-for-wp-checkbox-css" href="//blog.helloflo.com/wp-content/plugins/mailchimp-for-wp/assets/css/checkbox.min.css?ver=2.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="A2A_SHARE_SAVE-css" href="//blog.helloflo.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.9" type="text/css" media="all">
+<script type="text/javascript" src="//blog.helloflo.com/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script>
+<script type="text/javascript" src="//blog.helloflo.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="//blog.helloflo.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="//blog.helloflo.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.1.8">
+<link rel="shortlink" href="//blog.helloflo.com/?p=27">
+
+<script type="text/javascript"><!--
+var a2a_config=a2a_config||{},wpa2a={done:false,html_done:false,script_ready:false,script_load:function(){var a=document.createElement('script'),s=document.getElementsByTagName('script')[0];a.type='text/javascript';a.async=true;a.src='http://static.addtoany.com/menu/page.js';s.parentNode.insertBefore(a,s);wpa2a.script_load=function(){};},script_onready:function(){if(a2a.type=='page'){wpa2a.script_ready=true;if(wpa2a.html_done)wpa2a.init();}},init:function(){for(var i=0,el,target,targets=wpa2a.targets,length=targets.length;i<length;i++){el=document.getElementById('wpa2a_'+(i+1));target=targets[i];a2a_config.linkname=target.title;a2a_config.linkurl=target.url;if(el){a2a.init('page',{target:el});el.id='';}wpa2a.done=true;}wpa2a.targets=[];}};a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.callbacks.push({ready:wpa2a.script_onready});
+//--></script>
+<meta property="fb:app_id" content="898447173541229"><script type="text/javascript">
+	window._se_plugin_version = '8.1.3';
+</script>
+
+<!-- BEGIN GADWP v4.7.5 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-33659705-1', 'auto', {'allowLinker' : true});
+  ga('require', 'linker');
+  ga('linker:autoLink', ['helloflo.com','shop.helloflo.com'] );
+  ga('send', 'pageview');
+</script>
+<!-- END GADWP Universal Tracking -->
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '519723261515459');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="//www.facebook.com/tr?id=519723261515459&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
 </head>
-<body id="wp" class="page page-id-27 privacy sass-class">
-
-	<!--[if lt IE 8]>
-		<div class="alert alert-warning">
-			You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.		</div>
-	<![endif]-->
-
-	<div class="wrapper">
-
-		<header class="header">
-			<div class="shell">
-
-				<h1 class="logo">
-					<a class="notext" href="http://helloflo.com/">Helloflo</a>
-				</h1><!-- /.logo -->
-
-				<nav class="navigation">
-					<ul id="menu-primary-navigation" class="menu"><li class="menu-care-packages"><a href="/shop/care-packages">Care Packages</a></li>
-<li class="menu-monthly-plans"><a href="/shop/chooseaplan">Monthly Plans</a></li>
-<li class="menu-ask-dr-flo"><a href="/ask-dr-flo/">Ask Dr. Flo</a></li>
-<li class="menu-blog"><a href="/blog/">Blog</a></li>
-<li class="menu-login"><a href="/shop/login">Login</a></li>
-</ul>				</nav><!-- /.navigation -->
-				<div id="signInButton"></div>
-				<!-- a href="/shop/login" class="btn">LOGIN</a -->
-			</div><!-- /.shell -->
-		</header><!-- /.header -->
-
-		<section class="nl-section">
-			<div class="shell clearfix">
-				
-                <div class="gf_browser_unknown gform_wrapper" id="gform_wrapper_1"><form method="post" enctype="multipart/form-data" id="gform_1" action="/privacy/">
-                        <div class="gform_heading">
-                            <h3 class="gform_title">Get news, deals, tips and more from our weekly newsletter</h3>
-                            <span class="gform_description"></span>
-                        </div>
-                        <div class="gform_body">
-                            <ul id="gform_fields_1" class="gform_fields top_label description_below"><li id="field_1_1" class="gfield"><label class="gfield_label" for="input_1_1">Enter Your Email</label><div class="ginput_container"><input name="input_1" id="input_1_1" type="text" value="" class="medium" tabindex="1"></div></li>
-                            </ul></div>
-        <div class="gform_footer top_label"> <input type="submit" id="gform_submit_button_1" class="button gform_button" value="Submit" tabindex="2" onclick="if(window[&quot;gf_submitting_1&quot;]){return false;}  window[&quot;gf_submitting_1&quot;]=true; ">
-            <input type="hidden" class="gform_hidden" name="is_submit_1" value="1">
-            <input type="hidden" class="gform_hidden" name="gform_submit" value="1">
-            <input type="hidden" class="gform_hidden" name="gform_unique_id" value="">
-            <input type="hidden" class="gform_hidden" name="state_1" value="WyJbXSIsImQzNDcyYTNkNGRkYWNmMDQwNzIyODE1YWU4YTIyZTU5Il0=">
-            <input type="hidden" class="gform_hidden" name="gform_target_page_number_1" id="gform_target_page_number_1" value="0">
-            <input type="hidden" class="gform_hidden" name="gform_source_page_number_1" id="gform_source_page_number_1" value="1">
-            <input type="hidden" name="gform_field_values" value="">
-            
-        </div>
-                        </form>
-                        </div><script type="text/javascript"> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [1, 1]) } ); </script>                <a href="#" class="trigger"></a>
-			</div><!-- /.shell -->
-		</section><!-- /.nl-section -->
-
-			<div class="mag container" role="document">
-			<div class="main">
-				<div class="shell">
-					
-	<article class="blog-entry">
-		<h2>Privacy Policy</h2>
-	</article>
-
-	<div class="inner-wrapper clearfix">
-
-		<div class="inner-col">
-			<section class="posts-section">
-				<article class="post">
-					<header>
-											</header>
-					<div class="entry">
-						<p style="color: #3f2c00;"><span style="color: #000000;">Your privacy, and the privacy of all users of HelloFlo is important to us. HelloFlo is committed to protecting your privacy online. Accordingly, HelloFlo has developed this privacy policy that describes the data we collect, how we use it, and with whom we share it (“Privacy Policy”). This Privacy Policy sets forth the policies and procedures of personally identifiable information received from users of the Service, including but not limited to the website at www.HelloFlo.com and the mobile applications created by HelloFlo (collectively, the “HelloFlo Service” or “Service”). This Privacy Policy is applicable to all site visitors, registered users, and all other users of the Service.</span></p>
+<body class="page page-id-27 page-template-default">
+<header id="header">
+  <div class="container">
+    <div class="row">
+      <button type="button" class="btn btn-trigger trigger-menu">Menu</button>
+      <button type="button" class="btn btn-trigger trigger-search" data-toggle="collapse" data-target="#search-bar" aria-expanded="false" aria-controls="search-bar"><span class="sr-only">Search</span><i class="icon icon-magnifying"></i></button>
+      <div class="column-logo">
+        <h1 id="logo">            
+          <a href="http://helloflo.com">
+            <span class="sr-only">HelloFlo</span>
+          </a>
+        </h1>
+      </div><!-- .column-logo -->
+      <div class="column-navigation">
+        <div class="row">
+          <div class="column-nav">
+            <div class="menu-primary-navigation-container"><ul id="menu-primary-navigation" class="menu"><li id="menu-item-1995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1995"><a href="http://shop.helloflo.com">Shop</a></li>
+<li id="menu-item-1994" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1994"><a href="http://shop.helloflo.com/collections/learn">Learn</a></li>
+<li id="menu-item-3301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3301"><a href="http://blog.helloflo.com/">The <strong>FloDown</strong></a></li>
+</ul></div>          </div><!-- .column-nav -->
+          <div class="column-login">
+            <a href="http://shop.helloflo.com/account/login" class="btn btn-default">Log In</a>
+          </div><!-- .column-login -->
+          <div class="column-social">
+            <div class="menu-social-menu-container"><ul id="menu-social-menu" class="menu"><li id="menu-item-3302" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3302"><a href="https://www.facebook.com/gohelloflo"><span class="sr-only">Facebook</span><i class="icon icon_social icon_social-facebook"></i></a></li>
+<li id="menu-item-3303" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3303"><a href="https://twitter.com/helloflo"><span class="sr-only">Twitter</span><i class="icon icon_social icon_social-twitter"></i></a></li>
+<li id="menu-item-3304" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3304"><a href="https://www.pinterest.com/gohelloflo/"><span class="sr-only">Pinterest</span><i class="icon icon_social icon_social-pinterest"></i></a></li>
+<li id="menu-item-5333" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5333"><a href="https://instagram.com/helloflo/"><span class="sr-only">Instagram</span><i class="icon icon_social icon_social-instagram"></i></a></li>
+</ul></div>          </div><!-- .column-social -->
+        </div><!-- .row -->
+      </div><!-- .column-navigation -->
+    </div><!-- .row -->
+  </div><!-- .container -->
+</header><!-- #header -->
+<div class="block block-newsletter">
+  <div class="container">
+    <div class="alert alert-dismissible fade in" role="alert">
+      <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">×</span>
+      </button>
+              <div id="advanced_text-3" class="widget widget-container advanced_text"><div class="AdvancedText"><div class="row">
+<div class="column-left">
+Get news, deals, tips and more from our weekly newsletter. 
+</div>
+<div class="column-right">
+<!-- MailChimp for WordPress v2.3.1 - https://wordpress.org/plugins/mailchimp-for-wp/ --><div id="mc4wp-form-1" class="form mc4wp-form"><form method="post" role="form"><div class="input-group">
+<input type="email" id="mc4wp_email" class="form-control" name="EMAIL" placeholder="Your email address" required="">
+<span class="input-group-btn">
+<input type="submit" value="subscribe" class="btn btn-submit">
+</span>
+</div><!-- /input-group --><input type="text" name="_mc4wp_required_but_not_really" value="" style="display: none !important;"><input type="hidden" name="_mc4wp_timestamp" value="1449418266"><input type="hidden" name="_mc4wp_form_id" value="0"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1"><input type="hidden" name="_mc4wp_form_submit" value="1"><input type="hidden" name="_mc4wp_form_nonce" value="762e3e31b2"></form></div><!-- / MailChimp for WordPress Plugin -->
+</div>
+</div></div></div>
+          </div><!-- .alert -->
+  </div><!-- .container -->
+</div><!-- .block .block-newsletter -->
+<div id="search-bar" class="block block-search collapse">
+  <div class="container">
+    <div class="row">
+      <div class="column-searchform">
+        <form role="search" method="get" class="search-form" action="//blog.helloflo.com/">
+  <div class="input-group">
+    <label for="s" class="sr-only">Search for:</label>
+    <input type="search" class="form-control search-field" placeholder="Search All Advice" value="" name="s" title="Search for:">
+    <span class="input-group-btn">
+      <button type="submit" class="btn btn-submit"><span class="sr-only">Search</span><i class="icon icon-magnifying"></i></button>
+    </span>
+  </div><!-- /input-group -->
+</form>      </div><!-- .column-searchform -->
+    </div><!-- .row -->
+  </div><!-- .container -->
+</div><!-- .block .block-search -->
+<section id="content" role="main">
+  <div class="container">
+        <article id="post-27" class="post-27 page type-page status-publish hentry">
+      <header class="header">
+        <h1 class="entry-title">Privacy Policy</h1>
+      </header>
+      <div class="row">
+        <section class="entry-content">
+                    <p style="color: #3f2c00;"><span style="color: #000000;">Your privacy, and the privacy of all users of HelloFlo is important to us. HelloFlo is committed to protecting your privacy online. Accordingly, HelloFlo has developed this privacy policy that describes the data we collect, how we use it, and with whom we share it (“Privacy Policy”). This Privacy Policy sets forth the policies and procedures of personally identifiable information received from users of the Service, including but not limited to the website at www.HelloFlo.com and the mobile applications created by HelloFlo (collectively, the “HelloFlo Service” or “Service”). This Privacy Policy is applicable to all site visitors, registered users, and all other users of the Service.</span></p>
 <p style="color: #3f2c00;"><span style="color: #000000;">The terms “We”, “Us”, and “HelloFlo” refer to the HelloFlo Service. The terms “You” and “Your” refer to you, as a visitor or user of the Service. By using the Service, you are consenting to our processing of your information as set forth in this Privacy Policy, as amended from time to time. Further, you acknowledge that this Privacy Policy is part of our Terms of Service (“TOS”), which is incorporated by reference, and by accessing or using the Service, you agree to be bound by all of its terms and conditions. If you do not agree to these terms, and the terms and conditions in our TOS, please do not access or use the Service.</span></p>
 <h3 style="color: #f06376;"><span style="color: #000000;">PERSONAL INFORMATION WE COLLECT AND USE</span></h3>
 <p style="color: #3f2c00;"><span style="color: #000000;"><strong>Personal Information:</strong>&nbsp;When registering as a user to the Service, we receive and store information you enter or provide to us in any other way. The types of personal information collected may include your name, email address, URL, phone number, Twitter, Tumblr, Google Plus and/or Facebook usernames, location, use information regarding your use of the Service, browser information, and any other data that is tied to such information (collectively, the “Personal Information”). The Personal Information you provide is used for such purposes as allowing you to set up a user account and profile, improving the content of the Service, customizing the advertising and content you see, and communicating with you about specials and new features. We may also draw upon this Personal Information in order to adapt the Services of our community to your needs, to research the effectiveness of our network and Services, and to develop new tools for the community.</span></p>
@@ -130,132 +205,87 @@
 <h3 style="color: #f06376;"><span style="color: #000000;">CHANGES TO PRIVACY POLICY</span></h3>
 <p style="color: #3f2c00;"><span style="color: #000000;">We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make material changes in the way we use Personal Information, we will notify you by posting an announcement, sending you an email, or updating the Privacy Policy on the site. You are encouraged to review the Privacy Policy from time to time in the event changes have been made. Users are bound by any changes to the Privacy Policy when they use the Service after such changes have been first posted.</span></p>
 <h3 style="color: #f06376;"><span style="color: #000000;">QUESTIONS OR CONCERNS</span></h3>
-<p style="color: #3f2c00;"><span style="color: #000000;">If you have any questions or concerns regarding privacy using the Service, please send a detailed message to: admin@HelloFlo.com.<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script> We will make every effort to resolve your concerns.</span></p>
+<p style="color: #3f2c00;"><span style="color: #000000;">If you have any questions or concerns regarding privacy using the Service, please send a detailed message to: admin@HelloFlo.com. We will make every effort to resolve your concerns.</span></p>
 <p style="color: #3f2c00;"><span style="color: #000000;"><strong>Effective as of Nov 1, 2012</strong></span></p>
-					</div><!-- /.entry -->
-				</article><!-- /.post -->
-			</section><!-- /.posts-section -->
-		</div><!-- /.left-col -->
+          <div class="entry-links"></div>
+        </section>
+      </div><!-- .row -->
+    </article>
+      </div><!-- .container -->
+</section>
+<footer id="footer" role="contentinfo">
+  <div class="footer-main">
+    <div class="container">
+      <div class="row">
+        <div class="footer-social">
+          <a href="https://www.facebook.com/gohelloflo" target="_blank" class="btn btn-circle btn-icon"><span class="sr-only">Facebook</span><i class="icon icon-facebook"></i></a> 
+          <a href="https://twitter.com/helloflo" target="_blank" class="btn btn-circle btn-icon"><span class="sr-only">Facebook</span><i class="icon icon-twitter"></i></a>
+        </div><!-- .footer-social -->
+        <div class="footer-nav">
+          <div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-35" class="hor menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://blog.helloflo.com/about-us/">About Us</a></li>
+<li id="menu-item-40" class="hor menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="http://blog.helloflo.com/terms/">Terms of Service</a></li>
+<li id="menu-item-39" class="hor menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-27 current_page_item menu-item-39"><a href="http://blog.helloflo.com/privacy/">Privacy Policy</a></li>
+<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="http://blog.helloflo.com/faq/">FAQs</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="http://blog.helloflo.com/press/">Press</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://blog.helloflo.com/contact/">Contact</a></li>
+</ul></div>        </div><!-- .footer-nav -->
+      </div><!-- .row -->
+    </div><!-- .container -->
+  </div><!-- .footer-main -->
+  <div class="footer-copyright">
+    <div class="container">
+      ©2015 Helloflo    </div><!-- .container -->
+  </div><!-- .footer-copyright -->
+</footer>
 
-					<section class="sidebar">
-				<aside class="widget carbon_text_with_image-2 carbon_text_with_image">			<a href="/shop/care-packages">
-			<h2 class="widgettitle">Shop our Kits</h2>		<img class="widget_img" src="https://d20gpja241o6nq.cloudfront.net/app/uploads/2014/06/12171907/callout-psk.jpg" alt="">
-		<div class="txt">
-			<p>First period. First baby. Off to camp. Check out our one-of-a-kind care packages.</p>
-		</div><!-- /.txt -->
-					</a>
-			</aside><aside class="widget carbon_text_with_image-3 carbon_text_with_image">			<a href="/shop/chooseaplan">
-			<h2 class="widgettitle">Subscribe</h2>		<img class="widget_img" src="https://d20gpja241o6nq.cloudfront.net/app/uploads/2014/06/12171910/callout-subscription.jpg" alt="">
-		<div class="txt">
-			<p>With our monthly plans, you'll have what you need, when you need it. Tampons. Pads. Liners.</p>
-		</div><!-- /.txt -->
-					</a>
-			</aside>			</section><!-- /.sidebar -->
-			</div><!-- /.inner-wrapper -->
-
-				</div><!-- /.shell -->
-			</div><!-- /.main -->
-		</div><!-- /.container -->
-	
-		<div class="footer-widgets">
-		<div class="shell">
-			<ul class="social-icons">
-				<li><a href="https://www.facebook.com/gohelloflo"><img src="http://helloflo.com/app/themes/helloflo/assets/img/soc-icon_fb.png" alt="" width="55" height="56"></a></li>
-				<li><a href="https://twitter.com/helloflo"><img src="http://helloflo.com/app/themes/helloflo/assets/img/soc-icon_twitter.png" alt="" width="55" height="56"></a></li>
-			</ul><!-- /.social-icons -->
-			<div class="fb-like-wrap">
-				<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fhelloflo.com&amp;width=230&amp;layout=standard&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px;width:230px;" allowtransparency="true" data-width="250"></iframe>
-			</div><!-- /.fb-like-wrap -->
-			<nav class="footer-nav">
-				<ul id="menu-footer-menu" class="menu"><li class="hor menu-about-us"><a href="/about-us/">About Us</a></li>
-<li class="hor menu-terms-of-service"><a href="/terms/">Terms of Service</a></li>
-<li class="hor active menu-privacy-policy"><a href="/privacy/">Privacy Policy</a></li>
-<li class="menu-faqs"><a href="/faq/">FAQs</a></li>
-<li class="menu-press"><a href="/press/">Press</a></li>
-<li class="menu-contact"><a href="/contact/">Contact</a></li>
-</ul>			</nav><!-- /.footer-nav -->
-		</div><!-- /.shell -->
-	</div><!-- /.footer-widgets -->
-
-	<footer class="footer">
-		<p>©2015 Helloflo</p>
-	</footer><!-- /.footer -->
-
-</div><!-- /.wrapper -->
-
-<!-- Newletter Email Capture -->
-<div id="newsletterEmailCapture" style="display:none" class="col-xs-12">
-    <div id="newsletterEmailCaptureModal">
-        <a href="javascript:void(0)" class="close"></a>
-        <form class="form col-xs-12">
-						<div class="row">
-							<p class="col-md-12">Early Access, Special Offers &amp; More</p>
-						</div>
-            <div class="row">
-							<div class="col-md-6">
-                <input class="form-control" type="text" name="fname" placeholder="First Name">
-							</div>
-							<div class="col-md-6">
-                <input class="form-control" type="text" name="lname" placeholder="Last Name">
-							</div>
-              <div class="col-md-12">
-                <input class="form-control" type="text" name="email" placeholder="Email Address">
-							</div>
-            </div>
-            <div class="error text-danger">&nbsp;</div>
-            <button type="button" id="submitNewsletterSignup" class="mainCTA medium">Join our newsletter</button>
-						<div class="clearfix"></div>
-        </form>
-    </div>
-</div>
-
-
-<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript"><!--
+wpa2a.targets=[];
+wpa2a.html_done=true;if(wpa2a.script_ready&&!wpa2a.done)wpa2a.init();wpa2a.script_load();
+//--></script>
 <script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 983187793;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/983187793/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
+			(function() {
 
+				function addSubmittedClass() {
+					var className = 'mc4wp-form-submitted';
+					(this.classList) ? this.classList.add(className) : this.className += ' ' + className;
+				}
 
+				var forms = document.querySelectorAll('.mc4wp-form');
+				for (var i = 0; i < forms.length; i++) {
+					(function(f) {
 
-<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js" async="" data-pin-hover="true" data-pin-shape="rectangle" data-pin-color="gray" data-pin-lang="eng"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"xfbml":true});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
-/* ]]> */
-</script>
-<script type="text/javascript">(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="http:\/\/connect.facebook.net\/en_US\/all.js";fjs.parentNode.insertBefore(js,fjs)}(document,"script","facebook-jssdk"));</script>
-<script type="text/javascript" src="/app/themes/helloflo/assets/js/vendor/bootstrap.min.js"></script>
-<script type="text/javascript" src="/app/themes/helloflo/assets/js/vendor/jquery.fullscreener.min.js"></script>
-<script type="text/javascript" src="/app/themes/helloflo/assets/js/vendor/jquery.selectbox-0.2.min.js"></script>
-<script type="text/javascript" src="/app/themes/helloflo/assets/js/scripts.min.js?ver=0fc6af96786d8f267c8686338a34cd38"></script>
-<script type="text/javascript" src="/app/themes/helloflo/assets/js/functions.js?ver=ef8366dada8e9f8b788d847cc6944e1f08e8b57e5"></script>
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/2.2.1/lodash.min.js?ver=3.9.1"></script>
-<script type="text/javascript" src="/app/themes/helloflo/assets/js/flo.js?ver=ef8366dada8e9f8b788d847cc6944e1f08e8b57e5"></script>
-<script>
-  (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
-  function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
-  e=o.createElement(i);r=o.getElementsByTagName(i)[0];
-  e.src='//www.google-analytics.com/analytics.js';
-  r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-  ga('create','UA-33659705-1');ga('send','pageview');
-</script>
+						// hide honeypot
+						var honeypot = f.querySelector('input[name="_mc4wp_required_but_not_really"]');
+						honeypot.style.display = 'none';
+						honeypot.style.cssText += '; display: none !important;';
 
+						// add class on submit
+						var b = f.querySelector('[type="submit"]');
+						if(b.addEventListener) {
+							b.addEventListener( 'click', addSubmittedClass.bind(f));
+						} else {
+							b.attachEvent( 'onclick', addSubmittedClass.bind(f));
+						}
+
+					})(forms[i]);
+				}
+			})();
+
+					</script><!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
 <div id="fb-root"></div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"7e49bc5d5f","applicationID":"2811648","transactionName":"MwNUNxFQV0NTAkJbXgpJYxEKHlBeVgROHEEMFg==","queueTime":0,"applicationTime":452,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=898447173541229&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
- Served from: helloflo.com @ 2015-02-06 04:36:08 by W3 Total Cache --><script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+Page Caching using disk: enhanced
+Database Caching using disk
+Object Caching 1048/1069 objects using disk
+
+ Served from: blog.helloflo.com @ 2015-12-06 11:11:06 by W3 Total Cache --></body></html>
