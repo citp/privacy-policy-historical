@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the brilliant.org privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607131022id_/http%3A//brilliant.org/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brilliant.org privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206155507id_/http%3A//brilliant.org/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us"><head>
-        <meta http-equiv="Content-type" content="text/html; charset=utf-8"><script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js"></script><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" id="cio-tracker" data-site-id="9b180e7983a5a792f198" src="https://assets.customer.io/assets/track.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://api.mixpanel.com/site_media/js/api/mixpanel.2.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQcOVFNACQMFU1RVDg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"c624bf3608","agent":"js-agent.newrelic.com/nr-632.min.js","transactionName":"NlwEYUBVCkoHWxdQVg8WIEBcVxBQCVZMW0sIVQpcU1oQFwRZEFwXB1UHQUJVA1wVAiVVWBVpB1JXYg1cEQ==","applicationID":"1057579,8782822,8782823","errorBeacon":"bam.nr-data.net","applicationTime":16}</script>
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8"><script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js"></script><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" id="cio-tracker" data-site-id="9b180e7983a5a792f198" src="https://assets.customer.io/assets/track.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://api.mixpanel.com/site_media/js/api/mixpanel.2.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQcOVFNACQMFU1RVDg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"c624bf3608","agent":"js-agent.newrelic.com/nr-768.min.js","transactionName":"NlwEYUBVCkoHWxdQVg8WIEBcVxBQCVZMW0sIVQpcU1oQFwRZEFwXB1UHQUJVA1wVAiVVWBVpB1JXYg1cEQ==","applicationID":"1057579,8782822,8782823","errorBeacon":"bam.nr-data.net","applicationTime":120}</script>
 
         <title>Privacy Policy | Brilliant</title>
         <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0">
@@ -13,7 +13,7 @@
                 <meta property="al:ios:url" content="com.brilliant.Brilliant://privacy_policy/">
                 <meta property="al:ios:app_store_id" content="913335252">
                 <meta property="al:ios:app_name" content="Brilliant.org">
-                <meta property="al:android:url" content="applinks://privacy_policy/">
+                <meta property="al:android:url" content="https://brilliant.org/privacy_policy/">
                 <meta property="al:android:package" content="org.brilliant.android">
                 <meta property="al:android:app_name" content="Brilliant">
             
@@ -24,7 +24,17 @@
             
             <link rel="alternate" href="android-app://org.brilliant.android/brillant/browse/privacy_policy/">
         
-        <link href="http://d18l82el6cdm1i.cloudfront.net/site_media/version-xWKFzhIEO0/images/brilliant-mobile-icon.png" rel="apple-touch-icon-precomposed">
+
+        
+
+        <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-72x72-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-76x76-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-114x114-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-120x120-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-144x144-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-152x152-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-180x180-precomposed.png">
 
         
     
@@ -32,11 +42,14 @@
 
         
     
-    <link rel="stylesheet" href="http://d18l82el6cdm1i.cloudfront.net/site_media/version-d9e99276d6/build/brilliant_lib.css" type="text/css" media="all">
+
+
+    <link rel="stylesheet" href="http://d18l82el6cdm1i.cloudfront.net/site_media/version-9fb1aaa12b/build/brilliant_lib.css" type="text/css" media="all">
+
     
-        <link rel="stylesheet" href="http://d18l82el6cdm1i.cloudfront.net/site_media/version-5b7f411c09/build/brilliant_common_desktop.css" type="text/css" media="all">
+        <link rel="stylesheet" href="http://d18l82el6cdm1i.cloudfront.net/site_media/version-fb567029a7/build/brilliant_common_desktop.css" type="text/css" media="all">
         
-    <link href="http://d18l82el6cdm1i.cloudfront.net/site_media/version-fcf84bba07/build/flatpages.css" type="text/css" media="all" rel="stylesheet">
+    <link href="http://d18l82el6cdm1i.cloudfront.net/site_media/version-14254722a0/build/flatpages.css" type="text/css" media="all" rel="stylesheet">
 
     
 
@@ -56,7 +69,6 @@
 
 
 
-
     <script type="text/javascript">
         (function (w, loc) {
             var u = /cdn\d\.staticbrilliant\.org|781382595\.r\.cdn77\.net|\.r\.worldssl\.net|d18l82el6cdm1i\.cloudfront\.net/;
@@ -69,13 +81,12 @@
 
     
     <script type="text/javascript">
-        var analytics_super_properties = {"account_type": "anonymous", "svg_supported_by_browser": "False", "ab_test__show_presignup_tour_native_apps_mar_2015": false, "locale": "en-us", "svg_rendering_enabled": "True", "test_account": false, "svg_enabled_for_current_browser": "False", "ab_test__show_signup_fly_in_on_logged_out_problems": false, "sessionid": "2ad535", "client": "desktop-browser", "lmnop_test_dec_2013_cio": 4, "ab_test__brilliant_square_price": true, "debug": false, "lmnop_test_june_14_nux_push_notif_experiment": 3, "identity": "aVQtTbhw7ZKg2wiyDbe6J3hAZO2iIE7P"};
+        var analytics_super_properties = {"svg_enabled_for_current_browser": "False", "account_type": "anonymous", "ab_test__brilliant_square_price": false, "svg_supported_by_browser": "False", "locale": "en", "ab_test__link_to_stats_page_on_streak": false, "svg_rendering_enabled": "True", "test_account": false, "ab_test__suppress_discounts": false, "lmnop_test_june_14_nux_push_notif_experiment": 3, "ab_test__show_popup_next_skill_paid_ios": true, "sessionid": null, "client": "desktop-browser", "lmnop_test_dec_2013_cio": 4, "ab_test__nov_2015_nux_messaging_test": false, "debug": false, "ab_test__show_popup_next_skill_paid_android": false, "ab_test__enable_quiz_steps_in_nux": false, "identity": "KTM2EJnURrHj2KYGykQNL4OH6ZNuXAuw"};
     </script>
 
     
     <script type="text/javascript">
         
-
 
 
 var _analytics = {
@@ -148,17 +159,19 @@ var _analytics = {
     
 
     _analytics.push(function () {
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-        // Switch which of these two is commented out, for localhost testing
-        ga('create', 'UA-33841253-1', 'auto');
-        // ga('create', 'UA-33841253-1', {'cookieDomain': 'none'});
+            
+            ga('create', 'UA-33841253-1', 'auto');
+            
 
-        ga('require', 'displayfeatures');
-        ga('send', 'pageview');
+            ga('require', 'displayfeatures');
+            ga('send', 'pageview');
+        
 
     });
 
@@ -235,7 +248,7 @@ var analytics = {
                 
 
                 // not sure what happens if you track a nobody
-                identify_data = {"id": "aVQtTbhw7ZKg2wiyDbe6J3hAZO2iIE7P"};
+                identify_data = {"id": "KTM2EJnURrHj2KYGykQNL4OH6ZNuXAuw"};
                 if (identify_data.created_at)
                 {
                     _cio.track(event_name, property_data);
@@ -320,7 +333,7 @@ var analytics = {
 
 
 analytics.set_super_properties(analytics_super_properties);
-analytics.identify( {"id": "aVQtTbhw7ZKg2wiyDbe6J3hAZO2iIE7P"}, {}, analytics_super_properties);
+analytics.identify( {"id": "KTM2EJnURrHj2KYGykQNL4OH6ZNuXAuw"}, {}, analytics_super_properties);
 
     </script>
 
@@ -345,7 +358,7 @@ analytics.identify( {"id": "aVQtTbhw7ZKg2wiyDbe6J3hAZO2iIE7P"}, {}, analytics_su
 
     </head>
 
-        <body class="no-js body-flatpages footer-noline fonts site-reorg" data-is-mobile="false" data-app-version="0.0.0" data-media-host="http://d18l82el6cdm1i.cloudfront.net">
+        <body class="no-js body-flatpages footer-noline fonts site-reorg guest-from-fb" data-is-mobile="false" data-app-version="0.0.0" data-user="None" data-media-host="http://d18l82el6cdm1i.cloudfront.net">
 
         
         <!-- site_is_live -->
@@ -369,50 +382,30 @@ analytics.identify( {"id": "aVQtTbhw7ZKg2wiyDbe6J3hAZO2iIE7P"}, {}, analytics_su
 
 
 
+<div id="logged-out-header">
+<div class="container clearfix">
 
+    <a href="/" class="logo" title="Solve problems in math, physics, and algorithms.">
+        <span class="pic css-sprite-logos"></span>
+        <span class="word css-sprite-logos"></span>
+    </a>
 
-<div id="logged-out-header" class="tall container clearfix">
+    <p id="tagline">
+        
+            Excel in math, science, and engineering
+        
+    </p>
 
     
-        <div class="symbols-and-planets">
-            <span class="integral"></span>
-            <span class="pi"></span>
-            <span class="sigma"></span>
-            <span class="circle"></span>
-            <span class="moon"></span>
-            <span class="planet"></span>
-        </div>
+        <a href="https://brilliant.org/account/signup/?next=/privacy_policy/" class="btn signup-btn ax-click" data-ax-id="clicked_signup_from_header" data-ax-type="button">
+                Sign up</a>
+
+        <a href="https://brilliant.org/account/login/?next=/privacy_policy/" class="login-link ax-click" data-ax-id="clicked_login_from_header" data-ax-type="link">
+                Log in</a>
     
 
-    <div id="logo">
-        <a href="/" alt="Solve problems in math, physics, and algorithms."></a>
-    </div>
-
-    <div class="buttons-container">
-        <p id="tagline">
-            
-                Use Brilliant to build your problem solving skills in 
-                <span class="highlight">math</span>
-                 and 
-                <span class="highlight">science</span>
-            
-        </p>
-
-        
-            <div class="buttons">
-                <a href="https://brilliant.org/account/signup/?next=/privacy_policy/" class="btn btn-large btn-accent ax-click" data-ax-id="clicked_signup_from_header" data-ax-type="button">
-                        Sign up!
-                </a>
-                <span class="or">or</span>
-                <a href="https://brilliant.org/account/login/?next=/privacy_policy/" class="underline ax-click" data-ax-id="clicked_login_from_header" data-ax-type="button">
-                        Log in
-                </a>
-            </div>
-        
-    </div>
 </div>
-
-
+</div>
 
                                 
                             
@@ -427,6 +420,8 @@ analytics.identify( {"id": "aVQtTbhw7ZKg2wiyDbe6J3hAZO2iIE7P"}, {}, analytics_su
             
 
             
+                
+                    
                 
             
 
@@ -450,10 +445,7 @@ analytics.identify( {"id": "aVQtTbhw7ZKg2wiyDbe6J3hAZO2iIE7P"}, {}, analytics_su
             </div>
 
 
-            <div id="wrapper" class="container clearfix">
-
-                
-                
+            <div id="wrapper" class="container clearfix" data-controller="">
 
                 
                     
@@ -461,10 +453,9 @@ analytics.identify( {"id": "aVQtTbhw7ZKg2wiyDbe6J3hAZO2iIE7P"}, {}, analytics_su
                             
                             
                                 
-
 <div class="like-us-modal" data-controller="util/sharing:likeUsModal.loggedOut">
     <h6>Waste less time on Facebook — follow Brilliant.</h6>
-    <div class="fb-like" data-href="https://www.facebook.com/brilliantorg" data-width="300" data-layout="standard" data-action="like" data-show-faces="true" data-share="false">
+    <div class="fb-like" data-href="https://www.facebook.com/brilliantorg" data-width="400" data-layout="standard" data-action="like" data-show-faces="true" data-share="false">
     </div>
     <span class="close">×</span>
 </div>
@@ -475,31 +466,24 @@ analytics.identify( {"id": "aVQtTbhw7ZKg2wiyDbe6J3hAZO2iIE7P"}, {}, analytics_su
                 
 
                 
+                    
+
+
+
+                
+
+                
     
-    <div id="main" class="container flatpage-container">
-        
-            <div class="atmospheric-bg-left"></div>
-            <div class="atmospheric-bg-right"></div>
-        
+    <div id="main" class="flatpage-container logged-out container">
         
             <div id="flatpage">
                 
-                    <div class="color-border">
-	<div class="cb0"></div>
-	<div class="cb1"></div>
-	<div class="cb2"></div>
-	<div class="cb3"></div>
-</div>
-
-
-                
-                
     
     
     
                 
 
-<div class="flatpage-left">
+<div>
     <h1>Brilliant.org Privacy Statement</h1>
 
     <p>Brilliant Worldwide, Inc. ("Brilliant") knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Statement. By using the brilliant.org website, or any of our mobile applications (such as are available via the App Store and Google Play Store), and any related services and/or features (collectively, the "Service") you acknowledge that you accept the practices and policies outlined in this Privacy Statement.</p>
@@ -554,19 +538,19 @@ analytics.identify( {"id": "aVQtTbhw7ZKg2wiyDbe6J3hAZO2iIE7P"}, {}, analytics_su
 
     <h3 id="pp-nine">Opting out of all future emails</h3>
 
-    <p>If you would like to stop receiving email from Brilliant, simply visit the <a href="https://brilliant.org/account/email/#unsubscribe_form">Email" section of your Account settings</a> and uncheck any and all boxes.</p>
-    
+    <p>If you would like to stop receiving email from Brilliant, simply visit the <a href="https://brilliant.org/profile/opt-out-preferences/">Email section of your Account settings</a> and uncheck any and all boxes.</p>
+
     <h3 id="pp-ten">Changes to this Privacy Statement</h3>
 
     <p>Brilliant may amend this Privacy Statement from time to time. Use of information we collect now is subject to the Privacy Statement in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our website, or via the Service, or sending you an email. Users are bound by any changes to the Privacy Statement when he or she uses the Service after such changes have been first posted.</p>
 
     <h3 id="pp-eleven">Questions or Concerns</h3>
 
-    <p>If you have any questions or concerns regarding privacy, please send us a detailed message at bradan@brilliant.org. We will make every effort to resolve your concerns.</p>
+    <p>If you have any questions or concerns regarding privacy, please send us a detailed message at support@brilliant.org. We will make every effort to resolve your concerns.</p>
 
     <p><em>Effective Date: March 24, 2014</em></p>
 
-    <p> Bradan Litzinger<br>
+    <p> Tiffany Wang<br>
         15 Butte Place<br>
         San Francisco, CA 94103<br>
         (650) 468-2966</p>
@@ -586,6 +570,14 @@ analytics.identify( {"id": "aVQtTbhw7ZKg2wiyDbe6J3hAZO2iIE7P"}, {}, analytics_su
     
         <div data-controller="util/mathjax_loader:controller"></div>
     
+
+    
+
+
+    <div data-controller="lib/branch:init" data-branch-key="key_live_hchs2frj8AeD0WKiFpCVunopxFc92aiU">
+    </div>
+
+
 
 </div>
 
@@ -624,15 +616,10 @@ analytics.identify( {"id": "aVQtTbhw7ZKg2wiyDbe6J3hAZO2iIE7P"}, {}, analytics_su
 
     <div class="site-footer-right">
         
-
-
 <ul class="site-footer-main unstyled">
-    <li><a href="/about/">
-        About</a></li>
-
     
-        <li><a href="/help/">
-            Help</a></li>
+        <li><a href="/about/">
+            About</a></li>
     
 
     <li><a href="/terms-of-use/">
@@ -642,22 +629,21 @@ analytics.identify( {"id": "aVQtTbhw7ZKg2wiyDbe6J3hAZO2iIE7P"}, {}, analytics_su
         Privacy</a></li>
 
     
-        <li><a href="/mobile/">
-            Mobile App</a></li>
-    
-
-    
 
     <li>
         
             © Brilliant 2015
         
     </li>
+
+    
+    
+    
 </ul>
 
-        
-<div class="apps-footer">
-    
+        <div class="apps-footer">
+    <a href="https://itunes.apple.com/app/apple-store/id913335252?pt=105095803&amp;ct=brilliant_website_footer&amp;mt=8" class="app-store-badge css-sprite-global ax-click" data-ax-id="clicked_ios_app_link_from_homepage" data-ax-type="link">
+            Practice math and science questions on the Brilliant iOS app.</a>
     <a href="https://play.google.com/store/apps/details?id=org.brilliant.android&amp;referrer=utm_source%3Dbrilliant%26utm_medium%3Dsite%26utm_campaign%3Dplaystore_full_footer_icon" class="google-play-badge css-sprite-global">
             Practice math and science questions on the Brilliant Android app.</a>
 </div>
@@ -690,18 +676,22 @@ analytics.identify( {"id": "aVQtTbhw7ZKg2wiyDbe6J3hAZO2iIE7P"}, {}, analytics_su
 
     <script type="text/javascript">
         VERSIONS = {
-            home_tab: 1,
+            quizzes_landing: 1,
+home_tab: 1,
+assessment_webview_edit_problem: 1,
 profile_summer_camp_optional_details: 1,
 friends_frictionless_invitation: 1,
 disputediscussions_publicsolvableadddisputepostmodal: 1,
 profile_profile: 1,
 contacts_newsfeed_element: 1,
-wiki_canonical_edit_summary: 1,
+newsfeed_topics_and_subtopics: 1,
 profile_minibiography: 1,
+quizzes_add_solvable_to_saved_set: 1,
 assessment_webview_scratchpad: 1,
 newsfeed_remove_feed_item: 1,
 profile_savedsets_set_listing_container: 1,
 homepage: 1,
+quizzes_navigation_component: 1,
 profile_note_in_savedset: 1,
 discussions_single: 1,
 profile_resume: 1,
@@ -709,6 +699,7 @@ solvingteams_recently_solved_by: 1,
 profile_why_are_you_passionate: 1,
 wiki_community_posts_wrapper: 1,
 assessment_webview_saved_sets: 1,
+profile_gender: 1,
 profile_problem_in_savedset_component_modal: 1,
 disputediscussions_publicsolvabledisputelist: 1,
 profile_note_in_savedset_modal: 1,
@@ -716,11 +707,14 @@ discussions_post_vote: 1,
 profile_waterlooscholarship: 1,
 index_getnotified: 1,
 profile_competitions: 1,
+quizzes_challengesolvablesolutioncomments: 1,
 newsfeed_flag_target_object: 1,
 assessment_modal_public_solvable_component_logged_out: 1,
 practicesection_webview_dispute: 1,
+quizzes_solvabledisputecomments: 1,
 sets_feed: 1,
 wiki_canonical_page: 1,
+quizzes_problemset: 1,
 wiki_canonical_start_practicing: 1,
 accountsettings_deactivate: 1,
 practicesection_subtopic_menu: 1,
@@ -728,10 +722,12 @@ practicesection_topic_landing_page_v2: 1,
 practicesection_topic_landing_page_v1: 1,
 problems_started_problems: 1,
 practicesection_earned_skills: 1,
+wiki_featured: 1,
 newsfeed_explore_container: 1,
 home_recent_community_content: 1,
 discussions_activity_feed: 1,
 profile_problem_in_your_area: 1,
+wiki_approve_all_edits: 1,
 profile_stats_sidebar: 1,
 profile_savedset_problem_details_header: 1,
 home_todays_challenges: 1,
@@ -743,20 +739,25 @@ disputediscussions_publicsolvabledisputecomments: 1,
 profile_deeply_care_about: 1,
 sets_feed_container: 1,
 profile_problem_in_savedset_component_modal_logged_out: 1,
+quizzes_challengesolvablesolutionlist: 1,
+old_home_skip_challenge: 1,
 profile_favoritequote: 1,
 solvingteams_teamproblemset: 1,
 profile_savedsets_share_to_feed: 1,
 newsfeed_user_topic_ratings: 1,
+stats_overview_in_topic: 1,
 discussions_feed: 1,
 newsfeed_mark_reshare: 1,
 profile_avatar: 1,
 wiki_show_wiki_rating: 1,
+quizzes_logged_out_quiz_component: 1,
 wiki_edit_log_entry_component: 1,
+home_tab_feeditem_usersolutionpost: 1,
 profile_who_to_follow: 1,
 solutiondiscussions_publicsolvablesolutionsubscribe: 1,
 newsfeed_create_solvable: 1,
 profile_savedsets_set_leaderboard: 1,
-wiki_staff_edit: 1,
+landingpage_friend_invite: 1,
 wiki_edits_log: 1,
 profile_following: 1,
 newsfeed_create_post: 1,
@@ -767,18 +768,21 @@ solvingteams_school_your_friends: 1,
 assessment: 1,
 problems_started_problems_container: 1,
 wiki_skill_appears_in: 1,
+quizzes_end_state_disputes_header: 1,
 newsfeed_create_wiki: 1,
 newsfeed_generic_tag: 1,
-newsfeed_topics_and_subtopics: 1,
-practicesection_logged_out_solvable_component: 1,
+wiki_canonical_edit_summary: 1,
 profile_savedsets_save_set: 1,
 solvingteams_chancestats: 1,
 newsfeed_what_you_missed: 1,
 solutiondiscussions_publicsolvablesolutionlist: 1,
 discussions_tag_discussions: 1,
+quizzes_addsolvabledisputepost: 1,
 newsfeed_topic_tags: 1,
 teacherclasses_problem_listing: 1,
+wikidiscussions_wikifeedbacklist: 1,
 profile_skills: 1,
+home_activity_feed: 1,
 friends_sidebarleaderboard: 1,
 profile_streak: 1,
 profile_home_phone_number: 1,
@@ -794,7 +798,7 @@ profile_clubs: 1,
 newsfeed_mark_reshare_special: 1,
 assessment_public_solvable_logged_in: 1,
 wiki_rate_wiki: 1,
-landingpage_friend_invite: 1,
+practicesection_chapter_menu: 1,
 assessment_webview_disputes: 1,
 my_savedsets_sidebar: 1,
 newsfeed_test_prep_disclaimers: 1,
@@ -807,9 +811,14 @@ profile_savedsets_set_listing_page: 1,
 assessment_challenge_friends: 1,
 newsfeed_header_topics: 1,
 landingpage_user_invite: 1,
+profile_newsfeed_favorites_container: 1,
+profile_about: 1,
 solvingteams_claimsolvable: 1,
 profile_savedsets_item_note: 1,
+wiki_edit_level: 1,
+profile_school_city: 1,
 stats_topic: 1,
+quizzes_solvabledisputesubscribe: 1,
 wiki_all_edit_log: 1,
 index_v4: 1,
 profile_college: 1,
@@ -819,7 +828,6 @@ profile_subscribe_to_user_wrapper: 1,
 summer_camp_signup_and_notification: 1,
 topic_feed_container: 1,
 newsfeed_feed_container: 1,
-practicesection_logged_out_skill_component: 1,
 solvingteams_city: 1,
 newsfeed_subscription: 1,
 practicesection_topic_landing_page: 1,
@@ -827,12 +835,12 @@ wiki_delete: 1,
 practicesection_topic_menu: 1,
 teacherclasses_student_stats: 1,
 sidebar: 1,
-solutiondiscussions_publicsolvableaddsolutionpost: 1,
+quizzes_addsolvabledisputepostmodal: 1,
 profile_home_postal_code: 1,
 profile_savedsets_create_set: 1,
 canonical_topic_difficulty_preference: 1,
 profile_school_address_2: 1,
-discussions_addedby: 1,
+teacherclasses_set_listing: 1,
 newsfeed_topic_tags_static: 1,
 newsfeed_feeditem_discussionpost: 1,
 profile_home_state: 1,
@@ -852,18 +860,20 @@ profile_high_school: 1,
 profile_school_address_1: 1,
 assessment_end_state_header: 1,
 discussions_comment_subscribe: 1,
-solvingteams_school_ranking_component: 1,
+solutiondiscussions_publicsolvableaddsolutionpost: 1,
 profile_solution_list: 1,
 solvingteams_school_all_members: 1,
 profile_example_question: 1,
 homepage_discussions_feed: 1,
+quizzes_challengesolvablesolutionsubscribe: 1,
 profile_savedsets_copy_to_class: 1,
-profile_gender: 1,
+quizzes_header: 1,
+quizzes_recent_solvers: 1,
 teacherclasses_student_stats_sidebar: 1,
-solvingteams_school_sidebar: 1,
+wiki_create_new_wiki: 1,
 profile_problem_in_savedset_component: 1,
 stats_overview: 1,
-teacherclasses_join: 1,
+moderationqueues_wiki: 1,
 community_tab_container_component: 1,
 newsfeed_newsfeed: 1,
 stats_first_topic: 1,
@@ -874,7 +884,6 @@ profile_nux_follow_topics: 1,
 account_selectlang: 1,
 profile_newsfeed_display_pref_selection: 1,
 newsfeed_subscribe_to_tag_wrapper: 1,
-practicesection_header: 1,
 disputediscussions_publicsolvableadddisputepost: 1,
 newsfeed_feeditem_saved_set: 1,
 newsfeed_feed: 1,
@@ -888,18 +897,22 @@ disputediscussions_publicsolvabledisputesubscribe: 1,
 problems_started_solvable_component: 1,
 discussions_add_to_saved_set: 1,
 assessment_public_solvable_logged_out: 1,
+wikidiscussions_wikifeedbackcomments: 1,
 profile_savedset_note_details_header: 1,
-practicesection_landing: 1,
+wiki_staff_edit: 1,
 discussions_add: 1,
 profile_interests: 1,
 account_personalinfo: 1,
-profile_accomplishments: 1,
+wiki_request_feedback: 1,
+solvingteams_school_solutions: 1,
+wikidiscussions_wikifeedbacksubscribe: 1,
+quizzes_end_state_header: 1,
 profile_cities: 1,
 header_coupon: 1,
 topics_tab: 1,
 profile_savedsets_share_to_class: 1,
 profile_nux_add_avatar: 1,
-solvingteams_school_solutions: 1,
+profile_accomplishments: 1,
 practicesection_skill_problemset: 1,
 community_tab: 1,
 profile_school_country: 1,
@@ -909,47 +922,50 @@ solvingteams_current_solver: 1,
 problems_feed_container: 1,
 profile_languages: 1,
 profile_school_temp_city: 1,
-wiki_create_new_wiki: 1,
+profile_savedsets_set_page_modal: 1,
 how_competitions_work: 1,
 newsfeed_explore: 1,
 teacherclasses_classlisting: 1,
 topic_subtopics_listing: 1,
-profile_newsfeed_favorites_container: 1,
+quizzes_logged_out_solvable_component: 1,
 old_homepage: 1,
 homepage_signup_form: 1,
 newsfeed_firehose: 1,
 discussions_tag_subscribe: 1,
-profile_school_city: 1,
+wikidiscussions_addwikifeedbackpost: 1,
 newsfeed_initial_feed_items: 1,
-profile_savedsets_item_set: 1,
+quizzes_challengesolvableaddsolutionpost: 1,
 discussions_discussions: 1,
 assessment_add_solvable_to_saved_set: 1,
+solvingteams_school_sidebar: 1,
 teacherclasses_class: 1,
 problems_feed: 1,
 profile_newsfeed_favorites: 1,
 newsfeed_generic_tag_container: 1,
 topic_feed_page: 1,
-profile_savedsets_set_page_modal: 1,
 savedsets_user_saved_page: 1,
 stats_leaderboard: 1,
 handle_404: 1,
 stats_redirect: 1,
 wiki_merge_wikis: 1,
-teacherclasses_set_listing: 1,
+discussions_addedby: 1,
+teacherclasses_join: 1,
 landingpage_solvingteam_invite: 1,
 profile_savedsets_setlisting_item_set: 1,
+quizzes_solvabledisputelist: 1,
 wiki_top_editors: 1,
 profile_home_city: 1,
 assessment_public_solvable_start_preloaded_attempt: 1,
 profile_savedsets_set_header: 1,
-homepage_sms_add_or_update_phone: 1,
 profile_topic_difficulty_preference: 1,
+solvingteams_school_ranking_component: 1,
 profile_status_msg: 1,
 newsfeed_feeditem_preview: 1,
 profile_school_state: 1,
 teacherclasses_student_stats_landing: 1,
 stats_summary: 1,
 solutiondiscussions_publicsolvablesolutioncomments: 1,
+home_activity_container: 1,
 flatpage_livechallengeresults: 1,
 newsfeed_firehose_container: 1,
 profile_savedset_problem_start_preloaded_attempt: 1,
@@ -972,12 +988,12 @@ teacherclasses_create: 1
 </script>
 
     
-    <script src="http://d18l82el6cdm1i.cloudfront.net/site_media/version-997hghq1hktP/build_require/lib/require.js"></script>
-    <script src="http://d18l82el6cdm1i.cloudfront.net/site_media/version-c52e110604/build_require/common.js"></script>
-    <script src="http://d18l82el6cdm1i.cloudfront.net/site_media/version-5db4046c23/build_require/brilliant_core.js"></script>
+    <script src="http://d18l82el6cdm1i.cloudfront.net/site_media/version-a6447086a3/build_require/lib/require.js"></script>
+    <script src="http://d18l82el6cdm1i.cloudfront.net/site_media/version-5a4852df44/build_require/common.js"></script>
+    <script src="http://d18l82el6cdm1i.cloudfront.net/site_media/version-deeedde926/build_require/brilliant_core.js"></script>
     
         
-            <script src="http://d18l82el6cdm1i.cloudfront.net/site_media/version-df69bcb0b9/build_require/brilliant_for_require.js"></script>
+            <script src="http://d18l82el6cdm1i.cloudfront.net/site_media/version-e7e85d3739/build_require/brilliant_for_require.js"></script>
         
     
 
@@ -1112,10 +1128,9 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
     
         
 
-
     <div class="nf-feeditem-modal" id="nf-feeditem-modal">
 
-        <div class="nf-modal-close" id="nf-modal-close">×</div>
+        <div class="nf-modal-close close" id="nf-modal-close">×</div>
 
         <div class="nf-modal-loading">
             <div class="logo"></div>
@@ -1128,7 +1143,7 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
         <div class="nf-feeditem-modal-wrapper">
             
 
-            <div class="nf-solvable-modal-content nf-modal-content solv-modal" id="cmp_assessment_modal_public_solvable_component_id"></div>
+            <div class="nf-solvable-modal-content nf-modal-content solv-modal clearfix" id="cmp_assessment_modal_public_solvable_component_id"></div>
             <div class="nf-post-modal-content nf-modal-content newdisc-single logged-out" id="cmp_discussions_modal_single_component_id"></div>
             <div class="nf-set-modal-content" id="cmp_profile_savedsets_set_page_modal_id"></div>
         </div>
