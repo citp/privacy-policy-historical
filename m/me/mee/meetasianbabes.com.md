@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetasianbabes.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230073636id_/http%3A//meetasianbabe.com/info.php%3Fsel%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetasianbabes.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035305id_/http%3A//meetasianbabe.com/info.php%3Fsel%3D3) for the most accurate reproduction.*
 
 # Terms of Use
 
@@ -47,6 +47,10 @@ Photo and Videos
 Personal likes/dislikes  
 Email messages
 
+This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to our website. THIS COOKIE DOES NOT IN ANYWAY IDENTIFY YOU OR GIVE ACCESS TO YOUR COMPUTER, and any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+
+You can set preferences for how Google advertises to you using the Google Ad Preferences page (see below), and if you want to you can opt out of interest-based advertising entirely by cookie settings or permanently using a browser plugin (see below).
+
 **The Way We Use Information:**
 
 We use the information you provide about yourself for running this web site. We do not share this information with outside parties - except when necessary to comply with legal laws and trusted thrid-parties to run, own or administer this web site.
@@ -66,9 +70,10 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 You can access all your personally identifiable information that we collect online and maintain by the Owner of this web site. We use this procedure to better safeguard your information.
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.  To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.   
+You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can  
+[opt out of interest-based advertising entirely by cookie settings](http://www.google.com/settings/ads/onweb/) or  [permanently using a browser plugin](http://www.google.com/ads/preferences/html/intl/en/plugin/).  
  
 
 **How To Contact Us**
