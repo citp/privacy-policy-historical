@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationaleducation.gov.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201535id_/http%3A//www.education.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationaleducation.gov.au privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114255id_/http%3A//www.education.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Department of Education and Training
 
@@ -10,7 +10,7 @@ We also adhere to the [Guidelines for Federal and ACT Government Websites](http:
 
 Our **privacy policy** has been developed in accordance with APP 1 and embodies our commitment to protecting personal information. The complete privacy policy can be found here:
 
-  * .
+  * [Department of Education and Training Complete Privacy Policy](http://docs.education.gov.au/node/35451)
 
 
 
@@ -29,8 +29,8 @@ The **privacy policy** provides more detailed information about:
 You should read our **privacy policy** if you are:
 
   * a student;
+  * an apprentice;
   * a parent or guardian;
-  * a child care provider;
   * a principal or teacher;
   * an academic or researcher;
   * a participant in a program or service delivered by us;
@@ -38,6 +38,7 @@ You should read our **privacy policy** if you are:
   * an applicant for a grant or a tenderer for a contract provided by us;
   * a policy stakeholder who works with us;
   * a person whose information may be given to us by a third party, including other Australian Government agencies;
+  * a Registered Training Organisation;
   * an entrant in a competition conducted by us;
   * a person seeking employment with us;
   * a current or past employee of the department; or
@@ -110,24 +111,20 @@ You also have a right under the Privacy Act to request corrections to any person
 
 The _Freedom of Information Act 1982_ also provides you with an opportunity to request access to documents in our possession. For more information about FOI please go to the [Freedom of Information](http://docs.education.gov.au/) page.
 
-For further detail, including a comparison of both access mechanisms and how you can make a request, please see our 
-
-.
+For further detail, including a comparison of both access mechanisms and how you can make a request, please see our [Guide to Accessing and Correcting Personal Information. ](http://docs.education.gov.au/node/35453)
 
 ## Complaints
 
 If you think we may have breached your privacy you may contact us to make a complaint using the contact details below. In order to ensure that we fully understand the nature of your complaint and the outcome you are seeking, we prefer that you make your complaint in writing.
 
-For further information about our complaint handling processes please see our 
-
-.
+For further information about our complaint handling processes please see our [Privacy Complaint Handling Policy.](http://docs.education.gov.au/node/35455)
 
 ## Contact Us
 
 If you have any enquiries or complaints about privacy, or if you wish to access or correct your personal information, please email us at [privacy@education.gov.au](mailto:privacy@education.gov.au) or write to:
 
 Privacy Contact Officer  
-Legal and Compliance Group  
+People, Communication and Legal Group  
 Department of Education and Training  
 GPO Box 9880  
 Canberra ACT 2601.
@@ -136,6 +133,6 @@ Canberra ACT 2601.
 
 Please note that the privacy policy may change from time to time.
 
-Last updated: 13 March 2014
+Last updated: 6 August 2015
   *[FOI]: Freedom of Information
   *[ACT]: Australian Capital Territory
