@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the review-australia.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607194829id_/http%3A//www.review-australia.com/terms-and-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the review-australia.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206022124id_/http%3A//www.review-australia.com/terms-and-privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge"><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K32CW5"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQAFUVFTGwAAXVJSBAU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-<title>Review Australia | Terms and Privacy Overview</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K32CW5"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):void(r.q&&(r.q[e]||(r.q[e]=[]),r.q[e].push(n)))}var r=e("ee").create();n.exports=t,t.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=window,f=u.document;e(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+<title>Review Australia - Terms and Privacy Overview</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-<meta name="description" content="You may not realise it, but Review Australia has been bringing you fabulous fashion for over 25 years. Founded in 1985 as a wholesale business, Review clothes were supplied to Australia’s major retailers.">
+<meta name="description" content="Review Australia has been bringing you fabulous dresses and fashion for over 25 years. Founded in 1985 as a wholesale business, Review's clothes were supplied to Australia’s major retailers.">
 <meta name="keywords" content="">
 <meta name="robots" content="INDEX,FOLLOW">
 
@@ -37,6 +37,7 @@
 <script type="text/javascript" src="http://www.review-australia.com/js/varien/menu.js"></script>
 <script type="text/javascript" src="http://www.review-australia.com/js/mage/translate.js"></script>
 <script type="text/javascript" src="http://www.review-australia.com/js/mage/cookies.js"></script>
+<script type="text/javascript" src="http://www.review-australia.com/js/google/ga.js"></script>
 <script type="text/javascript" src="http://www.review-australia.com/js/jharrisonau/majax/controller.js"></script>
 <script type="text/javascript" src="http://www.review-australia.com/js/jharrisonau/majax/dispatcher.js"></script>
 <script type="text/javascript" src="http://www.review-australia.com/js/jharrisonau/majax/handler.js"></script>
@@ -44,7 +45,7 @@
 <script type="text/javascript" src="http://www.review-australia.com/skin/frontend/pas/default/js/modernizr.js"></script>
 <script type="text/javascript" src="http://www.review-australia.com/skin/frontend/pas/default/js/enterprise/wishlist.js"></script>
 <!-- Segment Pixel - Review Australia - DO NOT MODIFY -->
-<script>(function(a){var d=document,c=d.createElement("script");c.async=!0,c.defer=!0,c.src=a,d.getElementsByTagName("head")[0].appendChild(c)})((iatDev=(window.location.href.indexOf("iatDev=1")>-1||document.cookie.indexOf("iatDev=1")>-1),"//"+(window.location.protocol=="http:"&&!iatDev?"h":"")+"j.flxpxl.com/264752.js?r="+Math.random()*1e16+"&m=0&a=264752"+(iatDev?"&d=1":"")))</script><script async="" defer="" src="//j.flxpxl.com/264752.js?r=676275361399065.8&amp;m=0&amp;a=264752"></script>
+<script>(function(a){var d=document,c=d.createElement("script");c.async=!0,c.defer=!0,c.src=a,d.getElementsByTagName("head")[0].appendChild(c)})((iatDev=(window.location.href.indexOf("iatDev=1")>-1||document.cookie.indexOf("iatDev=1")>-1),"//"+(window.location.protocol=="http:"&&!iatDev?"h":"")+"j.flxpxl.com/264752.js?r="+Math.random()*1e16+"&m=0&a=264752"+(iatDev?"&d=1":"")))</script><script async="" defer="" src="//j.flxpxl.com/264752.js?r=7401077905968898&amp;m=0&amp;a=264752"></script>
 <!-- End of Segment Pixel -->
 <script type="text/javascript">
 //<![CDATA[
@@ -83,72 +84,6 @@ Mage.Cookies.domain   = '.www.review-australia.com';
 optionalZipCountries = ["HK","IE","MO","PA"];
 //]]>
 </script>
-<!-- BEGIN GOOGLE ANALYTICS CODEs -->
-<script type="text/javascript">
-//<![CDATA[
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-    
-ga('create', 'UA-33502174-1', 'auto');
-ga('require', 'displayfeatures');
-
-ga('send', 'pageview');
-    
-
-    // Add to cart events
-    document.on('click', '#product_addtocart_form .btn-cart', function(e, el) {
-        ga('send', 'event', 'CatalogProductView', 'AddToCart');
-    });
-    document.on('click', '#product_addtocart_form_quickview .btn-cart', function(e, el) {
-        ga('send', 'event', 'CatalogProductQuickView', 'AddToCart');
-    });
-
-    // Newsletter subscribe links
-    document.on('click', '#newsletter-validate-detail .btn-primary', function(e, el) {
-        ga('send', 'event', 'Email Newsletter', 'Click', 'Registration sidebar'); // Sidebar
-    });
-    document.on('click', '.customer-account-create .btn-primary', function(e, el) {
-        if($('is_subscribed').checked == true) {
-            ga('send', 'event', 'Email Newsletter', 'Click', 'Registration checkbox'); // Register
-        }
-    });
-    document.on('click', '.newsletter-manage-index .btn-default', function(e, el) {
-        if($('subscription').checked == true) {
-            ga('send', 'event', 'Email Newsletter', 'Click', 'Registration checkbox'); // Account
-        }
-    });
-
-    // If checkout page create GA funnel page views
-    document.observe('dom:loaded', function() {
-        if(typeof Checkout !== 'undefined') {
-            // Fire billing page view on onepage URL
-            if(document.location.pathname === '/checkout/onepage/') {
-                ga('send', 'pageview', '/checkout/onepage/billing/');
-            }
-
-            // Set GA page view for each checkout step
-            Checkout.prototype.gotoSection = function(section, reloadProgressBlock) {
-                ga('send', 'pageview', '/checkout/onepage/' + section + '/');
-
-                if (reloadProgressBlock) {
-                    this.reloadProgressBlock(this.currentStep);
-                }
-                this.currentStep = section;
-                var sectionElement = $('opc-' + section);
-                sectionElement.addClassName('allow');
-                this.accordion.openSection('opc-' + section);
-                if(!reloadProgressBlock) {
-                    this.resetPreviousSteps();
-                }
-            }
-        }
-    });
-//]]>
-</script>
-<!-- END GOOGLE ANALYTICS CODE -->
 
                         <script src="//ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
                         <script>
@@ -181,7 +116,8 @@ olark.identify('2632-428-10-9603');</script><noscript><a href="https://www.olark
 <!-- end olark code -->
                     <script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
-        //]]></script><!-- Start Visual Website Optimizer Asynchronous Code -->
+        //]]></script><meta name="google-site-verification" content="N-6h5HbcYvu_62scZcsnSDqJvaQOlMMNf7oeFGQ1_nM">
+<!-- Start Visual Website Optimizer Asynchronous Code -->
 <script type="text/javascript">
 var _vwo_code=(function(){
 var account_id=118500,
@@ -190,7 +126,7 @@ library_tolerance=2500,
 use_existing_jquery=false,
 // DO NOT EDIT BELOW THIS LINE
 f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=118500&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150607194829id_%2Fhttp%3A%2F%2Fwww.review-australia.com%2Fterms-and-privacy%2Fterms-and-privacy-overview&amp;r=0.9671909419276283" type="text/javascript"></script>
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=118500&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20151206022124id_%2Fhttp%3A%2F%2Fwww.review-australia.com%2Fterms-and-privacy%2Fterms-and-privacy-overview&amp;r=0.11004193164528786" type="text/javascript"></script>
 <!-- End Visual Website Optimizer Asynchronous Code -->
 
 <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
@@ -618,6 +554,73 @@ font-weight: bold;
 /* End powered by JobAdder */
 </style></head>
 <body class=" cms-page-view cms-terms-and-privacy-overview"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+            <!-- BEGIN GOOGLE UNIVERSAL ANALYTICS CODE -->
+    <script type="text/javascript">
+        //<![CDATA[
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        
+ga('create', 'UA-33502174-1', 'auto');
+ga('require', 'displayfeatures');
+
+ga('send', 'pageview');
+        
+        // Add to cart events
+        document.on('click', '#product_addtocart_form .btn-cart', function(e, el) {
+            ga('send', 'event', 'CatalogProductView', 'AddToCart');
+        });
+        document.on('click', '#product_addtocart_form_quickview .btn-cart', function(e, el) {
+            ga('send', 'event', 'CatalogProductQuickView', 'AddToCart');
+        });
+
+        // Newsletter subscribe links
+        document.on('click', '#newsletter-validate-detail .btn-primary', function(e, el) {
+            ga('send', 'event', 'Email Newsletter', 'Click', 'Registration sidebar'); // Sidebar
+        });
+        document.on('click', '.customer-account-create .btn-primary', function(e, el) {
+            if($('is_subscribed').checked == true) {
+                ga('send', 'event', 'Email Newsletter', 'Click', 'Registration checkbox'); // Register
+            }
+        });
+        document.on('click', '.newsletter-manage-index .btn-default', function(e, el) {
+            if($('subscription').checked == true) {
+                ga('send', 'event', 'Email Newsletter', 'Click', 'Registration checkbox'); // Account
+            }
+        });
+
+        // If checkout page create GA funnel page views
+        document.observe('dom:loaded', function() {
+            if(typeof Checkout !== 'undefined') {
+                // Fire billing page view on onepage URL
+                if(document.location.pathname === '/checkout/onepage/') {
+                    ga('send', 'pageview', '/checkout/onepage/billing/');
+                }
+
+                // Set GA page view for each checkout step
+                Checkout.prototype.gotoSection = function(section, reloadProgressBlock) {
+                    ga('send', 'pageview', '/checkout/onepage/' + section + '/');
+
+                    if (reloadProgressBlock) {
+                        this.reloadProgressBlock(this.currentStep);
+                    }
+                    this.currentStep = section;
+                    var sectionElement = $('opc-' + section);
+                    sectionElement.addClassName('allow');
+                    this.accordion.openSection('opc-' + section);
+                    if(!reloadProgressBlock) {
+                        this.resetPreviousSteps();
+                    }
+                }
+            }
+        });
+
+        //]]>
+    </script>
+    <!-- END GOOGLE UNIVERSAL ANALYTICS CODE -->
+        
 
 
 
@@ -643,7 +646,7 @@ font-weight: bold;
 	            <a class="btn btn-primary navbar-btn pull-right hidden-md hidden-lg" href="https://www.review-australia.com/customer/account/">
 		            <span class="glyphicon glyphicon-user"></span>
 	            </a>
-                <p class="welcome">25% off all full price styles for a limited time only!</p>
+                <p class="welcome"></p>
             </div>
             <div id="header-navbar-menu" class="navbar-collapse collapse">
                 <div class="navbar-right">
@@ -685,7 +688,7 @@ font-weight: bold;
                 </div>
                     <div class="main-menu">
         <ul id="mobile-nav" class="nav navbar-nav">
-            <li class="level0 nav-1 first level-top"><a href="http://www.review-australia.com/new-arrivals" class="level-top">New Arrivals</a></li><li class="level0 nav-2 level-top parent dropdown"><a href="http://www.review-australia.com/shop" class="level-top" data-toggle="dropdown">Shop <b class="caret"></b></a><ul class="dropdown-menu level0"><li class="level1 nav-2-1 first"><a href="http://www.review-australia.com/shop/dresses" class="">Dresses</a></li><li class="level1 nav-2-2"><a href="http://www.review-australia.com/shop/tops" class="">Tops</a></li><li class="level1 nav-2-3"><a href="http://www.review-australia.com/shop/skirts" class="">Skirts</a></li><li class="level1 nav-2-4"><a href="http://www.review-australia.com/shop/knitwear" class="">Knitwear</a></li><li class="level1 nav-2-5"><a href="http://www.review-australia.com/shop/pants" class="">Pants</a></li><li class="level1 nav-2-6"><a href="http://www.review-australia.com/shop/jackets" class="">Jackets</a></li><li class="level1 nav-2-7"><a href="http://www.review-australia.com/shop/coats" class="">Coats</a></li><li class="level1 nav-2-8"><a href="http://www.review-australia.com/shop/sleepwear" class="">Sleepwear</a></li><li class="level1 nav-2-9"><a href="http://www.review-australia.com/shop/accessories" class="">Accessories</a></li><li class="level1 nav-2-10 last"><a href="http://www.review-australia.com/shop/hosiery" class="">Hosiery</a></li></ul></li><li class="level0 nav-3 level-top parent dropdown"><a href="http://www.review-australia.com/occasions" class="level-top" data-toggle="dropdown">Occasions <b class="caret"></b></a><ul class="dropdown-menu level0"><li class="level1 nav-3-1 first"><a href="http://www.review-australia.com/occasions/daywear" class="">Daywear</a></li><li class="level1 nav-3-2"><a href="http://www.review-australia.com/occasions/party" class="">Party</a></li><li class="level1 nav-3-3"><a href="http://www.review-australia.com/occasions/wedding" class="">Wedding</a></li><li class="level1 nav-3-4 last"><a href="http://www.review-australia.com/occasions/career" class="">Career</a></li></ul></li><li class="level0 nav-4 level-top"><a href="http://www.review-australia.com/sale" class="level-top">Sale</a></li><li class="level0 nav-5 level-top"><a href="http://www.review-australia.com/shop-the-look" class="level-top">Shop The Look</a></li><li class="level0 nav-6 level-top"><a href="http://www.review-australia.com/outlet" class="level-top">Outlet</a></li><li class="level0 nav-7 level-top"><a href="http://www.review-australia.com/blog/" class="level-top">Blog</a></li><li class="level0 nav-8 last level-top"><a href="http://www.review-australia.com/storelocator/" class="level-top">Locations</a></li>                <li class="level0 nav-1 first last customer"><a href="https://www.review-australia.com/customer/account/login/" class="customer">Log in/Register</a></li>        </ul>
+            <li class="level0 nav-1 first level-top"><a href="http://www.review-australia.com/reviewgirl" class="level-top">SHOP #REVIEWGIRL</a></li><li class="level0 nav-2 active level-top"><a href="http://www.review-australia.com/new-arrivals" class="level-top">New Arrivals</a></li><li class="level0 nav-3 level-top parent dropdown"><a href="http://www.review-australia.com/shop" class="level-top" data-toggle="dropdown">Shop <b class="caret"></b></a><ul class="dropdown-menu level0"><li class="level1 nav-3-1 first"><a href="http://www.review-australia.com/shop/dresses" class="">Dresses</a></li><li class="level1 nav-3-2"><a href="http://www.review-australia.com/shop/tops" class="">Tops</a></li><li class="level1 nav-3-3"><a href="http://www.review-australia.com/shop/skirts" class="">Skirts</a></li><li class="level1 nav-3-4"><a href="http://www.review-australia.com/shop/knitwear" class="">Knitwear</a></li><li class="level1 nav-3-5"><a href="http://www.review-australia.com/shop/pants" class="">Pants</a></li><li class="level1 nav-3-6"><a href="http://www.review-australia.com/shop/jackets" class="">Jackets</a></li><li class="level1 nav-3-7"><a href="http://www.review-australia.com/shop/coats" class="">Coats</a></li><li class="level1 nav-3-8"><a href="http://www.review-australia.com/shop/sleepwear" class="">Sleepwear</a></li><li class="level1 nav-3-9"><a href="http://www.review-australia.com/shop/accessories" class="">Accessories</a></li><li class="level1 nav-3-10"><a href="http://www.review-australia.com/shop/hosiery" class="">Hosiery</a></li><li class="level1 nav-3-11 last"><a href="http://www.review-australia.com/shop/fascinators" class="">Fascinators</a></li></ul></li><li class="level0 nav-4 level-top parent dropdown"><a href="http://www.review-australia.com/occasions" class="level-top" data-toggle="dropdown">Occasions <b class="caret"></b></a><ul class="dropdown-menu level0"><li class="level1 nav-4-1 first"><a href="http://www.review-australia.com/occasions/daywear" class="">Daywear</a></li><li class="level1 nav-4-2"><a href="http://www.review-australia.com/occasions/party" class="">Party</a></li><li class="level1 nav-4-3"><a href="http://www.review-australia.com/occasions/wedding" class="">Wedding</a></li><li class="level1 nav-4-4"><a href="http://www.review-australia.com/occasions/career" class="">Career</a></li><li class="level1 nav-4-5 last"><a href="http://www.review-australia.com/occasions/racewear" class="">Racewear</a></li></ul></li><li class="level0 nav-5 level-top"><a href="http://www.review-australia.com/sale" class="level-top">Sale</a></li><li class="level0 nav-6 level-top"><a href="http://www.review-australia.com/shop-the-look" class="level-top">Shop The Look</a></li><li class="level0 nav-7 level-top"><a href="http://www.review-australia.com/gift-edit" class="level-top">Gift Ideas</a></li><li class="level0 nav-8 level-top"><a href="http://www.review-australia.com/blog/" class="level-top">Blog</a></li><li class="level0 nav-9 last level-top"><a href="http://www.review-australia.com/storelocator/" class="level-top">Locations</a></li>                <li class="level0 nav-1 first last customer"><a href="https://www.review-australia.com/customer/account/login/" class="customer">Log in/Register</a></li>        </ul>
     </div>
             </div><!--/.nav-collapse -->
         </div>
@@ -706,7 +709,7 @@ font-weight: bold;
 </div>                <div class="main-menu panel">
         <div class="panel-body">
             <ul id="nav" class="nav">
-                <li class="level0 nav-1 first level-top"><a href="http://www.review-australia.com/new-arrivals" class=" level-top">New Arrivals</a></li><li class="level0 nav-2 level-top parent"><a href="http://www.review-australia.com/shop" class=" level-top">Shop <b class="caret"></b></a><ul id="category-node-3" class="collapse in nav level0"><li class="level1 nav-2-1 first"><a href="http://www.review-australia.com/shop/dresses">Dresses</a></li><li class="level1 nav-2-2"><a href="http://www.review-australia.com/shop/tops">Tops</a></li><li class="level1 nav-2-3"><a href="http://www.review-australia.com/shop/skirts">Skirts</a></li><li class="level1 nav-2-4"><a href="http://www.review-australia.com/shop/knitwear">Knitwear</a></li><li class="level1 nav-2-5"><a href="http://www.review-australia.com/shop/pants">Pants</a></li><li class="level1 nav-2-6"><a href="http://www.review-australia.com/shop/jackets">Jackets</a></li><li class="level1 nav-2-7"><a href="http://www.review-australia.com/shop/coats">Coats</a></li><li class="level1 nav-2-8"><a href="http://www.review-australia.com/shop/sleepwear">Sleepwear</a></li><li class="level1 nav-2-9"><a href="http://www.review-australia.com/shop/accessories">Accessories</a></li><li class="level1 nav-2-10 last"><a href="http://www.review-australia.com/shop/hosiery">Hosiery</a></li></ul></li><li class="level0 nav-3 level-top parent"><a href="http://www.review-australia.com/occasions" class="parent level-top" data-toggle="collapse" data-target="#category-node-13">Occasions <b class="caret"></b></a><ul id="category-node-13" class="collapse nav level0 "><li class="level1 nav-3-1 first"><a href="http://www.review-australia.com/occasions/daywear">Daywear</a></li><li class="level1 nav-3-2"><a href="http://www.review-australia.com/occasions/party">Party</a></li><li class="level1 nav-3-3"><a href="http://www.review-australia.com/occasions/wedding">Wedding</a></li><li class="level1 nav-3-4 last"><a href="http://www.review-australia.com/occasions/career">Career</a></li></ul></li><li class="level0 nav-4 level-top"><a href="http://www.review-australia.com/sale" class=" level-top">Sale</a></li><li class="level0 nav-5 level-top"><a href="http://www.review-australia.com/shop-the-look" class=" level-top">Shop The Look</a></li><li class="level0 nav-6 level-top"><a href="http://www.review-australia.com/outlet" class=" level-top">Outlet</a></li><li class="level0 nav-7 level-top"><a href="http://www.review-australia.com/blog/" class=" level-top">Blog</a></li><li class="level0 nav-8 last level-top"><a href="http://www.review-australia.com/storelocator/" class=" level-top">Locations</a></li>                
+                <li class="level0 nav-1 first level-top"><a href="http://www.review-australia.com/reviewgirl" class=" level-top">SHOP #REVIEWGIRL</a></li><li class="level0 nav-2 level-top"><a href="http://www.review-australia.com/new-arrivals" class=" level-top">New Arrivals</a></li><li class="level0 nav-3 level-top parent"><a href="http://www.review-australia.com/shop" class=" level-top">Shop <b class="caret"></b></a><ul id="category-node-3" class="collapse in nav level0"><li class="level1 nav-3-1 first"><a href="http://www.review-australia.com/shop/dresses">Dresses</a></li><li class="level1 nav-3-2"><a href="http://www.review-australia.com/shop/tops">Tops</a></li><li class="level1 nav-3-3"><a href="http://www.review-australia.com/shop/skirts">Skirts</a></li><li class="level1 nav-3-4"><a href="http://www.review-australia.com/shop/knitwear">Knitwear</a></li><li class="level1 nav-3-5"><a href="http://www.review-australia.com/shop/pants">Pants</a></li><li class="level1 nav-3-6"><a href="http://www.review-australia.com/shop/jackets">Jackets</a></li><li class="level1 nav-3-7"><a href="http://www.review-australia.com/shop/coats">Coats</a></li><li class="level1 nav-3-8"><a href="http://www.review-australia.com/shop/sleepwear">Sleepwear</a></li><li class="level1 nav-3-9"><a href="http://www.review-australia.com/shop/accessories">Accessories</a></li><li class="level1 nav-3-10"><a href="http://www.review-australia.com/shop/hosiery">Hosiery</a></li><li class="level1 nav-3-11 last"><a href="http://www.review-australia.com/shop/fascinators">Fascinators</a></li></ul></li><li class="level0 nav-4 level-top parent"><a href="http://www.review-australia.com/occasions" class="parent level-top" data-toggle="collapse" data-target="#category-node-13">Occasions <b class="caret"></b></a><ul id="category-node-13" class="collapse nav level0 "><li class="level1 nav-4-1 first"><a href="http://www.review-australia.com/occasions/daywear">Daywear</a></li><li class="level1 nav-4-2"><a href="http://www.review-australia.com/occasions/party">Party</a></li><li class="level1 nav-4-3"><a href="http://www.review-australia.com/occasions/wedding">Wedding</a></li><li class="level1 nav-4-4"><a href="http://www.review-australia.com/occasions/career">Career</a></li><li class="level1 nav-4-5 last"><a href="http://www.review-australia.com/occasions/racewear">Racewear</a></li></ul></li><li class="level0 nav-5 level-top"><a href="http://www.review-australia.com/sale" class=" level-top">Sale</a></li><li class="level0 nav-6 level-top"><a href="http://www.review-australia.com/shop-the-look" class=" level-top">Shop The Look</a></li><li class="level0 nav-7 level-top"><a href="http://www.review-australia.com/gift-edit" class=" level-top">Gift Ideas</a></li><li class="level0 nav-8 level-top"><a href="http://www.review-australia.com/blog/" class=" level-top">Blog</a></li><li class="level0 nav-9 last level-top"><a href="http://www.review-australia.com/storelocator/" class=" level-top">Locations</a></li>                
      <li class="level0 nav-1 first last customer"><a href="https://www.review-australia.com/customer/account/login/" class=" customer">Log in/Register</a></li> 
             </ul>
         </div>
@@ -736,106 +739,162 @@ font-weight: bold;
     <div class="page-title">
         <h1>Terms and Privacy</h1>
     </div>
-<div class="std"><p><strong>Respecting your privacy and the law</strong></p>
-<p>Review Australia Pty Ltd recognises the privacy concerns of its customers, clients, contacts and the users of our website.</p>
+<div class="std"><p><b>PRIVACY POLICY</b></p>
+<p>&nbsp;</p>
 <p>This policy outlines how we manage your personal information and applies to all your dealings with us, on line and otherwise.&nbsp; This policy is subject to Australian privacy law.</p>
-<p>Throughout this policy, we refer to your “personal information” which means information or an opinion which identifies you as an individual or from which your identity can be reasonably ascertained. &nbsp; Your name, home address, email address and home telephone number are examples of personal information.</p>
-<p>Any reference to “we”, “us” or “our” is a reference to “Review” and/or any of our related entities, where the context permits</p>
-<p><strong> Why we collect personal information</strong></p>
-<p>We collect personal information when it is reasonably necessary for a business purpose.&nbsp; This includes:</p>
+<p>Throughout this policy, we refer to your “personal information” which means information or an opinion which identifies you as an individual or from which your identity can be reasonably ascertained. Your name, home address, email address and home telephone number are examples of personal information.</p>
+<p>Any reference to “we”, “us” or “our” is a reference to Review Australia Pty Limited and/or any of our related entities, where the context permits.</p>
+<p><b>&nbsp;</b></p>
+<p>&nbsp;<b>Why we collect personal information</b></p>
+<p>&nbsp;</p>
+<p>We collect personal information when it is reasonably necessary for a business purpose. This includes for the purpose of:</p>
 <ul>
-<li><span>i) providing you with goods or services and any related information;</span></li>
-<li><span>ii) to complete transactions with you or on your behalf;</span></li>
-<li><span>iii) to provide you with offers of interest or benefit to you;</span></li>
-<li><span>iv) to better understand your requirements, preferences and feedback;</span></li>
-<li><span>v) to improve what we offer;</span></li>
-<li><span>vi) purchasing goods or services from you or your employer;</span></li>
-<li><span>vii) advertising our goods and services to you; and/or;</span></li>
-<li><span>viii) generating new insights about our business, goods, services and customers.</span></li>
+<li>providing you with goods or services and any related information;</li>
+<li>to complete transactions with you or on your behalf;</li>
+<li>to provide you with offers of interest or benefit to you;</li>
+<li>to better understand your requirements, preferences and feedback;</li>
+<li>to improve what we offer;</li>
+<li>purchasing goods or services from you or your employer;</li>
+<li>advertising our goods and services to you; and/or</li>
+<li>generating new insights about our business, goods, services and customers.</li>
 </ul>
-<p><strong> What we collect</strong></p>
+<p>&nbsp;</p>
+<p><b>What we collect</b></p>
+<p>&nbsp;</p>
 <p>The personal information we collect depends upon what, when, where and why it is collected.</p>
+<p>&nbsp;</p>
 <p>We collect information like your name, contact and/or delivery details, date of birth, occupation, interests, your likes/dislikes, job title, payment details, transaction information and your resume (if you apply for a job).</p>
-<p><strong> When we collect </strong></p>
-<p>We collect most personal information directly from you.&nbsp; For example, you might fill out a form online or in a store, or provide information to us over the phone.</p>
-<p>We also collect personal information during our relationship with you.&nbsp; For example, when you:</p>
+<p>&nbsp;</p>
+<p><b>When we collect </b></p>
+<p>&nbsp;</p>
+<p>We collect most personal information directly from you. For example, you might fill out a form online or in a store, or provide information to us over the phone.</p>
+<p>&nbsp;</p>
+<p>We also collect personal information during our relationship with you. For example, when you:</p>
+<p>&nbsp;</p>
 <ul>
-<li>i) purchase or pre order goods or services, especially when we arrange delivery;</li>
-<li>ii) join or use one of our loyalty or rewards programs;</li>
-<li>iii) use our websites or apps;</li>
-<li>iv) leave goods for repair, exchange or refund;</li>
-<li>v) use our services, for example lay-by;</li>
-<li>vi) provide feedback;</li>
-<li>vii) join, subscribe or connect to our online communities, accounts and/or other social media providers;</li>
-<li>viii) subscribe or consent to receiving information, newsletters and/or direct marketing;</li>
-<li>ix) apply for a job with us;</li>
-<li>x) contact us, including by calling us; or</li>
-<li>xi) offer or provide goods/services to us.</li>
+<li>purchase or pre order goods or services, especially when we arrange delivery;</li>
+<li>join or use one of our loyalty or rewards programs;</li>
+<li>leave goods for repair, exchange or refund;</li>
+<li>provide feedback;&nbsp;</li>
+<li>join, subscribe or connect to our online communities, accounts and/or other social media providers ;</li>
+<li>subscribe or consent to receiving information, newsletters and/or direct marketing;</li>
+<li>apply for a job with us;</li>
+<li>contact us, including by calling us; or</li>
+<li>offer or provide goods/services to us.</li>
 </ul>
-<p><strong> We collect information that is not personal</strong></p>
+<ul>
+<li>use our websites or apps;</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><b>We collect information that is not personal</b></p>
+<p>&nbsp;</p>
 <p>When you engage with us on line or walk into a store, we may collect general information that will not personally identify you, such as:</p>
 <ul>
-<li>i) using cookies;</li>
-<li>ii) Internet browser used;</li>
-<li>iii) operating system used;</li>
-<li>iv) date of visit;</li>
-<li>v) time of visit;</li>
-<li>vi) path taken through the site or store; and/or</li>
-<li>vii) number of visitor to the site or store.</li>
+<li>using cookies;</li>
+<li>Internet browser used;</li>
+<li>operating system used;</li>
+<li>date of visit;</li>
+<li>time of visit;</li>
+<li>path taken through the site or store; and/or</li>
+<li>number of visitor to the site or store.</li>
 </ul>
+<p>&nbsp;</p>
 <p>This information provides us with usage data so that we can produce anonymous statistics that we use to analyse and improve our business.</p>
-<p><strong>What we collect using cookies</strong></p>
-<p>Cookies may be used on our websites.&nbsp; A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer’s hard disk so that the website can remember who you are.&nbsp; These cookies are known as your "Unique Visitor Cookie" and identify your visit only by a random number (e.g. #12489), the name of the domain from where the cookie has come and the “lifetime” of the cookie.</p>
+<p><b>&nbsp;</b></p>
+<p><b>What we collect using cookies</b></p>
+<p>&nbsp;</p>
+<p>Cookies may be used on our websites.&nbsp; A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer’s hard disk so that the website can remember who you are. These cookies are known as your "Unique Visitor Cookie" and identify your visit only by a random number (e.g. #12489), the name of the domain from where the cookie has come and the “lifetime” of the cookie.</p>
+<p>&nbsp;</p>
 <p>You can accept or decline our cookies by adjusting the "accept cookies" setting on your browser, however this may affect the functionality of our website on your browser.&nbsp; For example, you may not be able to personalise features on our website if you decline our cookies.</p>
-<p><strong> What we collect from others</strong></p>
-<p>Other people might give us personal information about you.&nbsp; For example, we might be given your personal information by your employer if they do business with us or by your parent/guardian if you are under 18.</p>
-<p>We may also collect personal information from other companies that are able to disclose it to us, if it’s not practical to collect it from you. For example, we may obtain your personal information from various trusted sources in social media where you have indicated that you would like to buy our goods or services.</p>
+<p>&nbsp;</p>
+<p><b>What we collect from others</b></p>
+<p>&nbsp;</p>
+<p>Other people might give us personal information about you. For example, we might be given your personal information by your employer if they do business with us or by your parent/guardian if you are under 18.&nbsp;</p>
+<p>&nbsp;</p>
+<p>We may also collect personal information from other companies that are able to disclose it to us, if it’s not practical to collect it from you.&nbsp; For example, we may obtain your personal information from various trusted sources in social media where you have indicated that you would like to buy our goods or services.</p>
+<p>&nbsp;</p>
 <p>If we have received your personal information from a third party, we will take reasonable steps to make sure you know and consent to us having your personal information.</p>
-<p><strong> Using or disclosing information </strong></p>
+<p><b>Using or disclosing information </b></p>
+<p>&nbsp;</p>
 <p>We will use your personal information to meet the purpose for which it was provided and/or within the permission/consent you provided. We will use your information to provide you with our or third party goods or services, marketing materials (including direct marketing) and for use in planning, development and research.</p>
+<p>&nbsp;</p>
 <p>More specific examples of us using your information include:</p>
 <ul>
-<li>i) processing your transaction</li>
-<li>ii) processing and considering your job application</li>
-<li>iii) addressing any feedback or complaints</li>
-<li>iv) answering queries</li>
-<li>v) developing and marketing products and services</li>
-<li>vi) conducting research about products, services and our business</li>
-<li>vii) providing loyalty/reward program information and rewards</li>
-<li>viii) providing direct marketing emails/mail updates about our goods/services</li>
+<li>processing your transaction</li>
+<li>processing and considering your job application</li>
+<li>addressing any feedback or complaints</li>
+<li>answering queries</li>
+<li>developing and marketing products and services</li>
+<li>conducting research about products, services and our business</li>
+<li>providing loyalty/reward program information and rewards</li>
+<li>providing direct marketing emails/mail updates about our goods/services</li>
 </ul>
+<p>&nbsp;</p>
 <p>If you don’t provide us with your information or consent, then we may not be able to do one or more of the above.</p>
+<p>&nbsp;</p>
 <p>We may also disclose your personal information to protect the integrity of our website, goods or services or as authorised or required by or under law.</p>
+<p>&nbsp;</p>
 <p>Please note that we cannot guarantee the privacy of information that is transmitted over the internet.</p>
-<p><strong> Who we share your information with </strong></p>
-<p>We may share your information with other members of our group of companies – The PAS Group. The PAS Group includes companies that run other well-known brands including Metalicus, Review, Black Pepper, Marco Polo, Yarra Trail and Breakaway.</p>
-<p>We will often need to pass your personal details (eg name and address) to companies that perform part of our service delivery. For example, Australia Post, delivery companies, mail houses and third party fulfilment contractors. These companies and persons would only get limited access to your personal information to complete their task.</p>
-<p><strong> Overseas based service providers and access to personal information</strong></p>
+<p>&nbsp;</p>
+<p><b>Who we share your information with</b></p>
+<p>&nbsp;</p>
+<p>We may share your information with other members of our group of companies – The PAS Group. The PAS Group includes companies that run other well known brands including Metalicus, Review, Black Pepper, Marco Polo, Yarra Trail and Breakaway.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>We will often need to pass your personal details (eg name and address) to companies that perform part of our service delivery. For example, Australia Post, delivery companies, mail houses and third party fulfilment contractors. &nbsp;These companies and persons would only get limited access to your personal information to complete their task.</p>
+<p>&nbsp;</p>
+<p><b>Overseas based service providers and access to personal information</b></p>
+<p>&nbsp;</p>
 <p>We work with overseas based service providers that help us conduct our business. For example, technical support for our marketing initiatives and they do it from countries like Canada, United Kingdom and the USA. They may have access to systems that include your personal information. Without them, we would not be able to provide you value and/or levels of services that you expect from us.</p>
-<p>We take reasonable steps to ensure that any overseas recipient of personal information does not breach the Australian privacy principles.</p>
-<p><strong> Access and correction of information</strong></p>
+<p>&nbsp;</p>
+<p>We take reasonable steps to ensure that any overseas recipient of personal information does not breach the Australian privacy principles.&nbsp;</p>
+<p>&nbsp;</p>
+<p><b>Access and correction of information</b></p>
+<p>&nbsp;</p>
 <p>If you would like to access, update, correct or decide that you don’t want us to hold any of your personal information, you may do so by, if applicable, logging on to our website and changing your preferences or details, or by emailing/writing to our Privacy Officer (details provided below).</p>
+<p>&nbsp;</p>
 <p>If you do not want to receive direct marketing communications or any communications from us, then simply “opt out”, “unsubscribe” or change your details at our website.</p>
+<p>&nbsp;</p>
 <p>Otherwise, please write to our Privacy Officer.</p>
-<p><strong> Security</strong></p>
+<p>&nbsp;</p>
+<p><b>Security</b></p>
+<p>&nbsp;</p>
 <p>We will take reasonable steps to protect your information from misuse, loss, unauthorised access, modification or disclosure.</p>
-<p>Unfortunately, as no on line data transmission is ever completely secure, we cannot guarantee or warrant the security of your personal information.</p>
-<p><strong> Links to other sites</strong></p>
+<p>&nbsp;</p>
+<p>Unfortunately, as no on line data transmission is ever completely secure, we cannot guarantee or warrant the security of your personal information.&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;<b>Links to other sites</b></p>
+<p>&nbsp;</p>
 <p>You will be able to access external websites by clicking on links provided on our website or marketing initiatives. Those external websites may not be subject to this policy. We do not monitor these sites and are not responsible for their content. We strongly recommend that you contact or review those external websites directly to ascertain their respective privacy standards.</p>
+<p>&nbsp;</p>
 <p>We are not responsible for the content, policies, practices, security or the privacy obligations of any external websites, including the website to which you will be directed if you make a payment to us online.</p>
-<p><strong> Contacting our Privacy Officer</strong></p>
+<p><b>&nbsp;</b></p>
+<p><b>Contacting our Privacy Officer</b></p>
+<p>&nbsp;</p>
 <p>If you have any questions or comments about this policy or its implementation, please let us know.</p>
+<p>&nbsp;</p>
 <p>You may contact our Privacy Officer by:</p>
+<p>&nbsp;</p>
 <ul>
-<li>email at: privacy@pasco.com.au;</li>
+<li>email at: <a href="mailto:privacy@pasco.com.au">privacy@pasco.com.au</a>;</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
 <li>post at: Privacy Officer, C/- The PAS Group, 17 – 21 Hardner Rd, Mt Waverley, Victoria 3149; or</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
 <li>phone: (03) 9902 5507.</li>
 </ul>
-<p><strong> Complaints </strong></p>
+<p>&nbsp;</p>
+<p><b>Complaints</b></p>
+<p>&nbsp;</p>
 <p>Please write to our Privacy Officer if you would like to make a complaint about privacy.</p>
+<p>&nbsp;</p>
 <p>We will acknowledge receipt of your complaint and respond within a reasonable time.</p>
 <p>&nbsp;</p>
-<p><sup>Copyright © 2014 Review Australia Pty Ltd. All rights reserved.</sup></p></div>        </div>
+<p>Copyright © 2014 Review Australia Pty Limited.&nbsp; All rights reserved.</p></div>        </div>
     </div>
         
  <footer>
@@ -875,6 +934,9 @@ font-weight: bold;
 </li>
 <li><span class="widget widget-cms-hierarchy-link"><a href="http://www.review-australia.com/about-review/about-review-faqs" title="FAQs"><span>FAQs</span></a></span>
 </li>
+<li><span class="widget widget-external-link"><a href="/contacts" title="Contact Us" target="_blank">Contact Us</a></span>
+</li>
+<li><a href="http://www.review-australia.sg">Review Singapore</a></li>
 </ul>
 </li>
 <li><span class="widget widget-cms-hierarchy-link"><a href="http://www.review-australia.com/terms-and-privacy" title="Terms and Privacy"><span>Terms and Privacy</span></a></span>
@@ -887,10 +949,16 @@ font-weight: bold;
 <li><span class="widget widget-cms-hierarchy-link"><a href="http://www.review-australia.com/terms-and-privacy/accessibility" title="Accessibility"><span>Accessibility</span></a></span>
 </li>
 <li><span class="widget widget-cms-hierarchy-link"><a href="http://www.review-australia.com/terms-and-privacy/social-ethical" title="Social and Ethical Compliance"><span>Social and Ethical Compliance</span></a></span>
-
-</li></ul>
 </li>
-<li><span class="widget widget-external-link"><a href="/contacts" title="Contact Us" target="_blank">Contact Us</a></span>
+</ul>
+</li>
+<li><strong>Shop</strong>
+<ul>
+<li><a title="Review dresses online" href="http://www.review-australia.com/shop/dresses/">Dresses</a></li>
+<li><a title="Shop skirts" href="http://www.review-australia.com/shop/tops/">Tops</a></li>
+<li><a title="Shop skirts" href="http://www.review-australia.com/shop/skirts/">Skirts</a></li>
+<li><a title="Shop accessories" href="http://www.review-australia.com/shop/accessories/">Accessories</a></li>
+</ul>
 </li>
 </ul></div>
 <ul class=" nav navbar-nav social-links">
@@ -900,17 +968,21 @@ font-weight: bold;
     </ul>    
 </footer>
  
-        
+        <script type="text/javascript" src="//www.ist-track.com/ContainerJavaScript.ashx?id=1eaef26f-1712-42a6-aeeb-8fbb1bcb6199"></script>
+<noscript> 
+  <img src="//www.ist-track.com/ProcessClickImage.ashx" alt="" width="1" height="1"/>
+</noscript>
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script><script>window.jQuery||document.write('<script src="/js/jquery/jquery.js">\x3c/script>');</script><script src="/js/jquery/jquery.js"></script><script type="text/javascript" src="http://www.review-australia.com/js/jquery/jquery.swipebox.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script><script>window.jQuery||document.write('<script src="/js/jquery/jquery.js">\x3c/script>');</script><script src="/js/jquery/jquery.js"></script><script type="text/javascript" src="http://www.review-australia.com/skin/frontend/pas/default/js/photoswipe.min.js"></script>
+<script type="text/javascript" src="http://www.review-australia.com/skin/frontend/pas/default/js/photoswipe-ui-default.min.js"></script>
 <script type="text/javascript" src="http://www.review-australia.com/skin/frontend/pas/default/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="http://www.review-australia.com/skin/frontend/pas/default/js/scripts.js"></script>
+<script type="text/javascript" src="http://www.review-australia.com/skin/frontend/pas/review/js/scripts.js"></script>
 <script type="text/javascript" src="http://www.review-australia.com/skin/frontend/pas/default/js/jharrisonau/ajaxcart/dispatchers/topcart.js"></script>
 <script type="text/javascript" src="http://www.review-australia.com/skin/frontend/pas/default/js/jharrisonau/ajaxcart/handlers/widgets.js"></script>
 <script type="text/javascript" src="http://www.review-australia.com/skin/frontend/pas/default/js/jharrisonau/ajaxcart/handlers/topcart.js"></script>
 <script type="text/javascript" src="http://www.review-australia.com/skin/frontend/pas/default/js/jharrisonau/ajaxcart/handlers/messages.js"></script>
 <script type="text/javascript" src="http://www.review-australia.com/skin/frontend/pas/default/js/jharrisonau/ajaxcart/handlers/options.js"></script>
 </div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"e810e39ce5","applicationID":"3093034","transactionName":"ZlxaMkcAVxcABkJeDV8WeQVBCFYKTgZbRE1BWF8DGhdQARY=","queueTime":0,"applicationTime":454,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"c2ae610e3a","applicationID":"10980958","transactionName":"M10AMRZYDUsHBxFQXwoXIwYQUAxWSQcISh8UWQUAS08KXRE=","queueTime":0,"applicationTime":497,"atts":"HxoDR15CHkU=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+</body></html>
