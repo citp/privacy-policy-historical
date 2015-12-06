@@ -1,63 +1,31 @@
-> *The following text is extracted and transformed from the regents.ac.uk privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502072430id_/http%3A//www.regents.ac.uk/system_pages/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regents.ac.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035832id_/http%3A//www.regents.ac.uk/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Regent's University London
 
-## Privacy
+For purposes of legality the term “Regent’s University London websites” refers to the websites owned, operated and maintained by Regent’s University London.
 
-All information collected on Regent’s College London websites is for use within Regent’s College only. Information will not be passed to third parties, unless specifically highlighted on the webpage.
+Regent's University London is committed to protecting your privacy and respecting the confidentiality of information which you provide when you visit our website. At the same time, we want to ensure that you obtain full value from our website and from the services which you may want to receive via our website.      
 
-### Regent’s College Websites
+## Student Collection Notice
 
-For purposes of legality the term “Regent’s College websites” refers to the websites owned, operated and maintained by Regent’s College.
+### Submission of your information to HESA
 
-This includes the following websites
+Every year we will send some of the information we hold about you to HESA (“your HESA information”). HESA collects, and is responsible for, the database in which your HESA information is stored. HESA uses this information in its own right, for example to publish statistics about students in higher education. HESA may link information we have provided to other related datasets such as UCAS, NSS, Individual Learner Record and Student Loan Company data (“linked data”). All uses of your HESA information and linked data must comply with the Data Protection Act 1998.
 
-  * [regents.ac.uk](https://web.archive.org/) – Regent’s College London
-  * [spc.ac.uk](http://www.spc.ac.uk/) – School Of Psychotherapy & Counselling Psychology
-  * [bacl.ac.uk](http://www.bacl.ac.uk/) – Regent’s American College London
-  * [webster.ac.uk](http://www.webster.ac.uk/) – Webster American College
-  * [rbslondon.ac.uk](http://www.rbslondon.ac.uk/) – Regent’s Business School London
-  * [ebslondon.ac.uk](http://www.ebslondon.ac.uk/) – European Business School London
-  * [regents.ac.uk/lsfmp](https://web.archive.org/lsfmp) \- London School of Film, Media & Performance 
+HESA is a registered charity and operates on a not-for-profit basis. It may charge other organisations to whom it provides services and information.  
 
+[Please visit our Student Collection Notice page for further information](https://web.archive.org/privacy-and-cookies/student-collection-notice.aspx "Student Collection Notice")
 
+## Enquiries
+
+By submitting an enquiry or application you are consenting to your data being held by Hobsons PLC, on behalf of Regent's University London. Your data will be used for the purposes of dealing with your enquiry, and sending you relevant information about Regent's University London.
+
+Neither Hobsons PLC nor Regent's University London will pass your details on to any third party. If you wish to remove yourself from Regent's University London’s database please contact Hobsons PLC, IDT House, 44 Featherstone Street, London EC1Y 8RN or email [enquiries@regents.ac.uk](mailto:enquiries@regents.ac.uk). 
 
 ## Cookies
 
-Regent's College London websites store information about your visits in "cookies" (small files which are sent by our websites to your computer or other access device) which we can access when you visit our site in future.
+In common with most websites, Regent's University London websites make use of cookies to store information about visits, primarily to help us understand how people use our sites and to enable us to make improvements.
 
-If you want to stop cookies being stored on your computer in future, please refer to your browser manufacturer's instructions by clicking "Help" in your browser menu, or see this [guide to disabling cookies](http://www.aboutcookies.org/Default.aspx?page=1).
+Cookies are small files which are sent by our websites to your computer or other access device which we can access when you visit our site in future.
 
-### Anonymous Tracking Cookies (Google Analytics)
-
-For site management we use Google Analytics to collect and create summary statistics on the following information for statistical purposes:
-
-Google Analytics stores four cookies on your computer to help with this tracking;
-
-  1. _ **utma**  \- kept for 730 days  
-  2. **_utmb**  \- kept for 1 day
-  3. **_utmc**  \- kept for browser session only
-  4. **_utmz**  \- kept for 182 days
-
-
-
-Each of these cookies contains a randomly generated number which is used to track the following:
-
-  * the date and time
-  * the originating Internet Protocol (IP) address
-  * the object requested (page, image etc)
-  * the address of the web site from which you linked to our site
-  * the type of browser you use to access our web site (including operating system, screen resolution used)
-  * the completion status of the request
-
-
-
-Information collected is  **anonymous**  and there is no way Regent's College London or Google can indentify individual visitors to our sites.
-
-Page last u
-
-Page last updated: 15 January 2013
-
-"Studying International Relations at Webster Graduate School in London taught me two ways of International Relations: the academic way and the personal way...   In the academic life of International Relations, we learned and analyzed various political theories and their realization; methodologies and ways of research...   In the personal life of International Relations, we learned that it is possible for nearly all ethnicities, friends and enemies, to sit in one class-room, to listen to one professor, to share one lunch-break – suddenly we shared the same interests!  "
-
-**Bettina Lutz**
+Last updated: 16 November 2015
