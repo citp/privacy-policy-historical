@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thebigmansworld.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607195424id_/http%3A//thebigmansworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebigmansworld.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206115110id_/http%3A//thebigmansworld.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Big Man's World
+# Privacy Policy
 
 **Disclaimer-  **Please note that I do not possess any official certifications in nutrition, fitness or the health industry. This blog is used as a means to express myself and my experiences. All views are mine alone and should never be taken as medical advice. Please consult a medical practitioner or Registered dietician for matters relating to them.
 
