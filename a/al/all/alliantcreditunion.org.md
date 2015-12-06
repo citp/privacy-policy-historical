@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alliantcreditunion.org privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624235222id_/http%3A//www.alliantcreditunion.org/global/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliantcreditunion.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206174459id_/http%3A//www.alliantcreditunion.org/privacy) for the most accurate reproduction.*
 
-# Alliant Credit Union | Privacy Policy
+# Privacy
 
 Alliant, your member-owned financial institution, is committed to providing a safe place to save and borrow money at very competitive rates. Alliant is equally committed to protecting members' privacy and you can be confident that financial privacy is a priority of Alliant. Alliant gives all members this Privacy Notice to explain how Alliant collects, uses and safeguards its members' personal financial information.
 
@@ -24,10 +24,10 @@ Member Information Disclosed. Alliant may disclose all of the information collec
 If a member decides to terminate his/her membership or become an inactive member, Alliant will adhere to the privacy policies and practices as described in this notice.
 
 **How Alliant Protects Its Members' Information.**  
-Alliant restricts access to nonpublic personal information about its members to Alliant employees who have a specific business purpose in utilizing member data. Alliant employees are trained in the importance of confidentiality and member privacy by maintaining physical, electronic, and procedural safeguards that comply with federal regulations and leading industry practices to safeguard members' nonpublic personal information. 
+Alliant restricts access to nonpublic personal information about its members to Alliant employees who have a specific business purpose in utilizing member data. Alliant employees are trained in the importance of confidentiality and member privacy by maintaining physical, electronic, and procedural safeguards that comply with federal regulations and leading industry practices to safeguard members' nonpublic personal information.
 
 **What Members Can Do To Help Protect Their Privacy**.  
-While Alliant is committed to protecting the privacy of its members, you can help safeguard personal information by following these simple guidelines: 
+While Alliant is committed to protecting the privacy of its members, you can help safeguard personal information by following these simple guidelines:
 
   * Upon receipt of your VISA¨ Debit Card and/or Convenience Card, verify the information on the front and sign the back panel immediately.
   * Report a lost or stolen card(s) immediately to Alliant at 800-328-1935. After business hours, please call 866-861-5411.
@@ -51,10 +51,6 @@ Cookies are a string of data sent between a server and a web browser to help tra
 
 A pixel tag, also known as a web bug in an embedded image, is an invisible tag placed on a webpage to register when a particular computer visits that specific page. These tags and beacons are used in combination with cookies. Alliant places these on its web properties and in online advertisements to better personalize your experience with Alliant and to understand website usage and patterns.
 
-**Accepting Cookies.** Most web browsers automatically accept cookies. If you do not wish to receive cookies, refer to your browser's online help for further instructions and information on setting cookie preferences. If you turn off cookies, you may not be able to use some Alliant Online Banking features. 
+**Accepting Cookies.** Most web browsers automatically accept cookies. If you do not wish to receive cookies, refer to your browser's online help for further instructions and information on setting cookie preferences. If you turn off cookies, you may not be able to use some Alliant Online Banking features.
 
 **Third-Party Websites.** The Alliant web properties may direct you to other sites on the Internet to provide additional information or services that may be of interest to you. Third-party websites may have privacy and security policies different from Alliant Credit Union. Please review the privacy and security policies of websites reached through links from Alliant Credit Union websites.
-
-If you have any questions concerning this policy, please visit a Service Center or contact the 24/7Member Contact Center at 800-328-1935.
-
-[Privacy Notice](https://web.archive.org/pdf/membership/AlliantPrivacyPolicy_A375R0315.pdf)
