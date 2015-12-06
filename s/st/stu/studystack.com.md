@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studystack.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617144206id_/http%3A//www.studystack.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studystack.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206040322id_/http%3A//www.studystack.com/privacy.jsp) for the most accurate reproduction.*
 
 # Study Stack - Privacy
 
