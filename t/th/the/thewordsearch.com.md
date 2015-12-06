@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewordsearch.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607071641id_/http%3A//thewordsearch.com/user/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewordsearch.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114055id_/http%3A//thewordsearch.com/user/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
