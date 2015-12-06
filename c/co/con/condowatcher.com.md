@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the condowatcher.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623170317id_/http%3A//www.condowatcher.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the condowatcher.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206175524id_/http%3A//www.condowatcher.com/privacy-policy) for the most accurate reproduction.*
 
 # CondoWatcher – Privacy Policy
 
