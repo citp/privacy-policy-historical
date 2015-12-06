@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stepchange.org privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112112308id_/http%3A//www.stepchange.org/Legal/Privacyandcookiespolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stepchange.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206120302id_/http%3A//www.stepchange.org/Legal/Privacyandcookiespolicy.aspx) for the most accurate reproduction.*
 
 # Privacy & cookies policy | Legal |StepChange (CCCS) debt advice charity
 
@@ -28,7 +28,7 @@ You will be responsible for the accuracy of information transmitted by you and r
 
 Cookies are small data files that are sent to your browser. We use these to collect anonymous information about your use of the Site. Unless you have specifically set your browser not to receive cookies, your browser will automatically accept them. No personal data is collected from them.
 
-Cookies can be deleted from your computer and if you wish you may set your browser not to receive cookies in future. For more information on how to control cookies on you machine, read this guide.
+Cookies can be deleted from your computer and if you wish you may set your browser not to receive cookies in future. For more information on how to control cookies on your machine, read this guide.
 
 [www.aboutcookies.org/Default.aspx](http://www.aboutcookies.org/Default.aspx?page=1)
 
