@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the use-in-a-sentence.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319023104id_/http%3A//use-in-a-sentence.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the use-in-a-sentence.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206190931id_/http%3A//use-in-a-sentence.com/privacy-policy.html) for the most accurate reproduction.*
 
 # privacy-policy
 
@@ -31,3 +31,5 @@ www.use-in-a-sentence.com has no access to or control over these cookies that ar
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.use-in-a-sentence.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+The word usage examples above have been gathered from various free and GNU sources to reflect current and historical usage. They do not represent the opinions of use-in-a-sentence.com. 
