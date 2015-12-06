@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webbyawards.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630162540id_/http%3A//www.webbyawards.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webbyawards.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141359id_/http%3A//www.webbyawards.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Webby Awards
 
@@ -22,7 +22,7 @@ We collect information from you in the following places on our Web site for seve
 
 #### CALL FOR ENTRIES
 
-When you submit a site(s), we need to know your name, email address, phone number, mailing address, URL, company, title, client (if applicable) and credit card information (if applicable). This allows us to process and fulfill your order and to notify you if you are honored for an award.
+When you submit an entry(ies), we need to know your name, email address, phone number, mailing address, URL, company, title, client (if applicable) and credit card information (if applicable). This allows us to process and fulfill your order and to notify you if you are honored for an award.
 
 #### THE 011
 
@@ -76,6 +76,10 @@ Our search engine is hosted and provided by Atomz.com. They do not collect any p
 
 Please note that as part of the People’s Voice Voting, users will be able to write reviews directly relating to the nominated websites only. To change any aspect of your review, or to report a review that you feel is inappropriate, please contact [deniser@webbyawards.com](mailto:deniser@webbyawards.com).
 
+#### RATING REGISTRATION
+
+To avoid fraudulent ratings, and to insure the most accurate ratings for entrants, we do require that users register before rating. The Webby Awards does not sell or share your information to others. The Webby Awards will not use this info to contact you in any way.
+
 #### VOTING
 
 People’s Voice Voting is open to all Internet users. To vote, you must register at least your email address and name. Once registration is complete, you will be sent a confirmation email with your login password. You are able to submit only one vote in each category.
@@ -90,7 +94,7 @@ To review and confirm your votes in People’s Voice, please review the “Ballo
 
 ### Will The Webby Awards disclose the information it collects to outside parties?
 
-The Webby Awards does not sell or share your personal information to others. If you submit a site in our Call for Entries, we do allow our partners to provide you with news and special offers. However, we do not share your personal information with our partners and maintain control of your information at all times. If at any time you choose not to receive such notifications you may do so by sending your request to: [deniser@webbyawards.com](mailto:deniser@webbyawards.com) or simply unsubscribe from the link at the bottom of the email.
+The Webby Awards does not sell or share your personal information to others. If you submit an entry(ies) in our Call for Entries, we do allow our partners to provide you with news and special offers. However, we do not share your personal information with our partners and maintain control of your information at all times. If at any time you choose not to receive such notifications you may do so by sending your request to: [deniser@webbyawards.com](mailto:deniser@webbyawards.com) or simply unsubscribe from the link at the bottom of the email.
 
 The Webby Awards may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information.
 
