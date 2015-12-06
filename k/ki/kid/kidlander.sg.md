@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidlander.sg privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607195649id_/http%3A//sg.kidlander.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidlander.sg privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114939id_/http%3A//sg.kidlander.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Singapore guide for kids activities and kids places and kids attractions with free activities for kids and families
 
