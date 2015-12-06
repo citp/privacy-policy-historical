@@ -1,24 +1,26 @@
-> *The following text is extracted and transformed from the airportrentalcars.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142517id_/http%3A//www.airportrentalcars.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airportrentalcars.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206162802id_/http%3A//www.airportrentalcars.com/support/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AirportRentalCars.com
 
-### About AirportRentalCars.com
+* * *
+
+## About AirportRentalCars.com
 
 AirportRentalCars.com is owned and operated by Lowestfare.com. The following describes the privacy policy (as amended or otherwise changed from time to time, the "Privacy Policy") applicable to the services available through AirportRentalCars.com.
 
-### Introduction
+## Introduction
 
 Lowestfare.com is owned and operated by priceline.com Incorporated (together with its subsidiaries, "priceline.com"). The following describes the privacy policy (as amended or otherwise changed from time to time, the "Privacy Policy") applicable to the services available through the Lowestfare.com web site (the "Site") from Lowestfare.com. Certain services which you may access on the Site are provided by our third party partners, and protection of your information relating to such services will be governed by the privacy policy of such third party (see "Sharing Your Personal Data-Certain Services," below). By visiting the Site, you are accepting the Privacy Policy described herein.
 
-### Our Commitment to Your Privacy
+## Our Commitment to Your Privacy
 
 We value your trust in us and will work hard to earn your confidence so that you can enthusiastically use our services and recommend us to your friends and family.
 
-### Information We Collect
+## Information We Collect
 
 We collect personally identifiable information ("Personal Data") about you that you specifically and voluntarily provide to us while using the Site. Personal Data includes information that can identify you as a specific individual, such as your name, address, phone number, credit card number or e-mail address.
 
-### Protecting Your Personal Data
+## Protecting Your Personal Data
 
 The Personal Data you provide us is saved in a secure environment and is kept in our records to make it easier for you to use our services on return visits.
 
@@ -26,13 +28,13 @@ Information collected by Lowestfare.com is stored in a single, secure database, 
 
 To prevent unauthorized access, maintain data accuracy, and ensure correct use of information, we will employ reasonable and current Internet security methods and technologies. Lowestfare.com has created a secure environment for credit card transactions. Lowestfare.com currently uses Secure Socket Layer technology to encrypt all your personal information including credit card number, name and address to prevent your information from being read during transmission over the Internet.
 
-### How We Use the Information We Collect
+## How We Use the Information We Collect
 
 We use the Personal Data we collect to provide you with the products and services you purchase or offer to purchase from our Site, and to build features that will make the services available on the Site easier to use. This includes faster purchase requests, better customer support and timely notice of new services and special offers.
 
 From time to time, Lowestfare.com may contact you to request feedback on your experience using the Site, to assist us in improving the Site, or to offer special savings or promotions to you, as a Site user. If you would prefer not to receive notices of special savings or promotions, you may simply opt-out from receiving them by replying to Lowestfare.com using the hyperlink provided in these notices.
 
-### Sharing Your Personal Data
+## Sharing Your Personal Data
 
 Lowestfare.com does not sell or rent your Personal Data to anyone. Lowestfare.com may share your Personal Data with priceline.com (its parent corporation), its subsidiaries, and as described below:
 
@@ -56,7 +58,7 @@ We may revise this list from time to time if we decide to offer additional servi
 
  **Consent:** If none of the categories described above apply, we will notify you to obtain your consent if we believe it is necessary and appropriate to share your Personal Data with someone else. You will have the right to tell us not to share your Personal Data.
 
-### Our Policy Concerning Cookies
+## Our Policy Concerning Cookies
 
 To serve you faster and with better quality, we use "cookies" technology. Cookies are small bits of code, usually stored on a user's computer hard drive, which enable a Web site to "personalize" itself for each user. We use cookies to reduce the time it takes for you to submit purchase requests. No third party has access to the information we collect this way, but if you'd rather we didn't use cookies when you visit us, click here and we will help you turn them off.
 
@@ -64,14 +66,14 @@ We also use a third-party advertising company to serve ads when you visit our si
 
 We also permit other companies that show advertisements on some of our pages to place and access cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies and not ours. Such advertisers do not have access to our cookies.
 
-### Amendments to this Privacy Policy
+## Amendments to this Privacy Policy
 
 This Privacy Policy was posted on July 19, 2002. Lowestfare.com reserves the right to modify or amend this Privacy Policy at any time and for any reason. If there are material changes to this Privacy Policy, Lowestfare.com will abide by the terms described in this Privacy Policy at the time you provided us with your information. Lowestfare.com will also prominently post such changes prior to implementing the change.
 
-### A Special Note About Children
+## A Special Note About Children
 
 Persons under the age of 18 are not eligible to use any services on our Site.
 
-### How to Contact Us
+## How to Contact Us
 
 Should you have any questions, concerns or comments regarding Lowestfare.com privacy policy, send an e-mail.
