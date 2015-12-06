@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightingdirect.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142612id_/http%3A//www.lightingdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightingdirect.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140817id_/http%3A//www.lightingdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
 # Lighting Fixtures - Find Your Light Fixture at Lighting Direct - LightingDirect.com
 
@@ -45,17 +45,16 @@ Build.com automatically collects key information from your browser session to pr
 Because we value your right to privacy, we do not sell or otherwise share your contact information to unrelated third parties. Lighting Direct and our Network of Stores use email as one of the primary methods of communicating with our customers. The emails we send may be related to a variety of issues, including:
 
   * A direct response to an inquiry,
-  * Communication concerning an order (receipt, shipping confirmation, etc), or
-  * Promotional emails you have indicated you wish to receive.
+  * Communication concerning an order (receipt, shipping confirmation, etc), or emails on products, services or promotions
 
 
 
-From time to time, we may notify you of special offers based on your purchasing history with us. If you create a Saved Cart, or have one created by our staff, you may receive follow-up emails related to this Cart. You may unsubscribe at any time by following the simple instructions contained in the emails. Unsubscribing will not apply to any future Saved Carts that are created. If you have signed up to receive our promotional emails and wish to stop your subscription, you'll find easy-to-follow unsubscribe instructions in each promotional email. You may also change your subscription status at any time by:
+From time to time, we may notify you of special offers based on your purchasing history with us. If you create a Saved Cart, or have one created by our staff, you may receive follow-up emails related to this Cart. You may unsubscribe at any time by following the simple instructions contained in the emails. Unsubscribing will not apply to any future Saved Carts that are created. If you receive our promotional emails and wish to unsubscribe, you'll find easy-to-follow unsubscribe instructions in each promotional email. You may also change your status at any time by:
 
   * Logging into your account and editing your "Change Billing Info"
   * Sending an email to [newsletters@LightingDirect.com](mailto:newsletters@%5Bsitename%5D.com)
   * Contacting us by phone at (800) 375-3410
-  * Representatives in our call center can also alter your subscription preferences
+  * Representatives in our call center can also alter your preferences
 
 
 
@@ -70,3 +69,35 @@ Our site includes third-party advertising and links to other Web sites. Infomati
 ## Conditions of Use, Notices, and Revisions
 
 If you choose to visit LightingDirect.com, your visit and any dispute over privacy is subject to this notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at LightingDirect.com, please send a thorough description to our Customer Service team and we will try to resolve it. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. Please check our website frequently to see recent changes.
+
+## SMS Terms of Use
+
+What is LightingDirect.com SMS?
+
+LightingDirect.com provides SMS service to send order information. Order status, shipping status and delivered status. SMS will be sent if a subscriber opts in and has a mobile phone number. Standard messaging rates may apply. Message frequency will vary by user.
+
+A user may also opt-in to receive a one time message with a link to a specific product details, shopping cart items or mobile applications. MMS service is used to send messages of product photos to and from the user.
+
+What is the cost for LightingDirect.com SMS?
+
+There is no additional charge for LightingDirect.com SMS services. However, normal text messaging rates or package deductions may apply. Please check with your carrier for details on your plan.
+
+What carriers are compatible with LightingDirect.com SMS?
+
+Compatible carriers include: AT&T, T-Mobile*, Metro PCS, Verizon Wireless, Sprint, Nextel, Boost, Alltel, US Cellular and Cellular One. *T-Mobile is not liable for delayed or undelivered messages.
+
+Are there any additional charges associated with this service?
+
+Standard message rates apply to all text messages. Message rates differ from carrier to carrier, please contact your wireless service provider to inquire about the details specific to your plan.
+
+Is LightingDirect.com SMS service available to international users?
+
+Currently this service is only available to domestic service plans within the United States.
+
+How do I stop receiving SMS messages from LightingDirect.com?
+
+To discontinue SMS service from LightingDirect.com, text " **STOP** " to 40791
+
+Who do I contact for help?
+
+If you need any further assistance please contact us at 1-800-375-3410 or email CS@LightingDirect.com.
