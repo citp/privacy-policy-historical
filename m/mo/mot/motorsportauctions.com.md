@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorsportauctions.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608004744id_/http%3A//www.motorsportauctions.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorsportauctions.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035201id_/http%3A//www.motorsportauctions.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # 
 
