@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conquerclub.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193253id_/http%3A//www.conquerclub.com/public.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conquerclub.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206221922id_/http%3A//www.conquerclub.com/public.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
 # Conquer Club :: Privacy Policy - Play Risk Online Free
 
@@ -22,7 +22,7 @@ By default all registered members are added to our newsletter mailing list and w
 
 Otherwise, this information is only used to fulfil your specific request unless you give us permission to use it in another manner.
 
-If you have made personally identifiable information public on this website (for example, in a forum post, game chat comment, or in your username) and you wish to have it removed please [contact us](https://web.archive.org/web/20150607193253id_/http%3A//www.conquerclub.com/eticket/index.php).
+If you have made personally identifiable information public on this website (for example, in a forum post, game chat comment, or in your username) and you wish to have it removed please [contact us](https://web.archive.org/web/20151206221922id_/http%3A//www.conquerclub.com/eticket/index.php).
 
 ### Email and CAN-SPAM Compliance
 
