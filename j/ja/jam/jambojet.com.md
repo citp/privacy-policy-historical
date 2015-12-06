@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jambojet.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142519id_/http%3A//www.jambojet.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jambojet.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035534id_/http%3A//www.jambojet.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Jambojet.com - Privacy Policy
 
@@ -110,6 +110,11 @@ You have the right to ask for a copy of the information we hold about you (for w
 
 Please note that this policy addresses only the use and disclosure of information we collect from you. If you give your information to others, whether they are third parties that we introduce you to or third party sites that you visit by clicking on a link on one of our websites, different rules may apply to their use or disclosure of the information you give to them. We do not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others.
 
-14\. How can you contact us about privacy issues?
+14. Does this website use Google AdWords?
+
+This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the Jambojet website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.  
+You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can [opt out of interest-based advertising entirely by cookie settings](http://www.google.com/settings/ads/onweb/) or [permanently using a browser plugin](http://www.google.com/ads/preferences/html/intl/en/plugin/).
+
+15\. How can you contact us about privacy issues?
 
 You can contact us about privacy issues or comment or complain about our privacy practices by contacting us through [webmaster@jambojet.com](mailto:webmaster@jambojet.com)
