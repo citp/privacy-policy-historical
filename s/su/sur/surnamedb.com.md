@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the surnamedb.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607080107id_/https%3A//www.surnamedb.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surnamedb.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206101725id_/http%3A//www.surnamedb.com/Home/Privacy) for the most accurate reproduction.*
 
 # Surname Database: Privacy policy
 
-We take the issues surrounding customer privacy extremely seriously and this document lays out our policy and is intended to make it clear to our customers how we gather information about them, to what purposes it is used for and why we collect it. Should you have any questions or concerns relating to our use of your personal information we ask you email us at [editor@surnamedb.com](https://web.archive.org/web/20150607080107id_/https%3A//www.surnamedb.com/Home/editor@surnamedb.com). 
+We take the issues surrounding customer privacy extremely seriously and this document lays out our policy and is intended to make it clear to our customers how we gather information about them, to what purposes it is used for and why we collect it. Should you have any questions or concerns relating to our use of your personal information we ask you email us at [editor@surnamedb.com](https://web.archive.org/web/20151206101725id_/http%3A//www.surnamedb.com/Home/editor@surnamedb.com). 
 
 **Reason for collection of data on our readers**
 
