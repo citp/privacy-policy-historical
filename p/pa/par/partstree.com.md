@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partstree.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200453id_/http%3A//www.partstree.com/resources/%3Fc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partstree.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206120710id_/http%3A//www.partstree.com/resources/%3Fc%3Dprivacy) for the most accurate reproduction.*
 
 # Lawn Mower Parts, Small Engine Parts & Much More! | PartsTree.com - Briggs, MTD, Toro, Cub Cadet, Husqvarna, Troy-bilt...
 
