@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asustor.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626162506id_/http%3A//www.asustor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asustor.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206162208id_/http%3A//www.asustor.com/privacy) for the most accurate reproduction.*
 
-# Asustor Inc. 華芸科技 - Innovation Makes a Difference
+# ASUSTOR - Innovation Makes a Difference
 
 This Privacy Policy governs the manner in which ASUSTOR Inc. collects, uses, maintains and discloses information collected from users (each, a "User") of the www.asustor.com website ("Site"). This privacy policy applies to the Site and all products and services offered by ASUSTOR Inc.. 
 
