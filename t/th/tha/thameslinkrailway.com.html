@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thameslinkrailway.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607145552id_/http%3A//www.thameslinkrailway.com/contact-us/terms/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thameslinkrailway.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206040204id_/http%3A//www.thameslinkrailway.com/contact-us/terms/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js backgroundsize borderradius boxshadow cssanimations fontface" style=""><!--<![endif]--><head>
         <meta charset="utf-8">
@@ -18,14 +18,18 @@
         <link rel="apple-touch-icon" href="/apple-touch-icon-144x144-precomposed.png">
 
         <!-- Included CSS Files -->
-        <link rel="stylesheet" href="/css/styles.css?v=1429609999">
-                <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/vendor/custom.modernizr.js"></script>
-           
-    </head><body style="">
-        
+        <link rel="stylesheet" href="/css/styles.css?v=1447955877">
+        <link rel="stylesheet" href="/css/responsive-tables.css?v=1429276291">
+        <link rel="stylesheet" href="/css/ajax.css">
+        <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/vendor/custom.modernizr.js"></script>
 
+    </head><body style="">
+
+        <div class="whats-this-overlay"></div>
+
+        
         <!--ignore_perlfect_search-->
-        <!--[if lt IE 9]>
+<!--[if lt IE 9]>
 <div class="chromeframe">
     <div class="wrapper">
         <p><strong>Important:</strong> You're currently using an old browser that doesn't support all the features of this website, please upgrade your browser.</p>
@@ -39,35 +43,637 @@
     </div>
 </div>
 </noscript>
-        <script type="text/javascript">
-            function isEmpty(formName) {
-                if (document.forms[formName].sitesearch.value == '' || document.forms[formName].sitesearch.value == 'Search') {
-                    alert('No search value was entered')
-                    return false;
-                }
-            }
-        </script>
+<script type="text/javascript">
+    function isEmpty(formName) {
+        if (document.forms[formName].sitesearch.value == '' || document.forms[formName].sitesearch.value == 'Search') {
+            alert('No search value was entered')
+            return false;
+        }
+    }
+</script>
 
 <header role="banner" class="container">
     <div class="wrapper">
-        <div class="subHeader">
-            <ul class="shortcuts">
-                                                <li><a class="speak reciteme" href="#">Speak Me</a></li>
-                                                <li><a class="signin" href="https://tickets.southernrailway.com/sn/en/account/login.aspx?ForwardUrl=http%3A%2F%2Fwww.thameslinkrailway.com%2F&amp;SSORequested=1">Sign in</a></li>
-                <li><a class="register" href="https://tickets.southernrailway.com/sn/en/account/register.aspx?ForwardUrl=http%3A%2F%2Fwww.thameslinkrailway.com%2F&amp;SSORequested=1">Register</a></li>
-                                <li><a class="search" id="toggleSearch" href="#searchform">Search</a></li>
-            </ul>
+        <div class="logo">
+            <a href="/"><img src="/graphics/logo2.png" alt="Thames Links" class="fullwidth"></a>
+        </div>      
+        
+        <div class="subHeader">        
+                <div class="buy-tickets">
+                    <a title="qtt buy tickets" class="button tickets" id="toggleTickets" href="javascript:;">Buy tickets</a>
+                </div>
+                <div class="icons">
+                            <!--                <a title="sign in" class="signin" href="https://tickets.southernrailway.com/sn/en/account/login.aspx?ForwardUrl=http%3A%2F%2Fwww.thameslinkrailway.com%2F&SSORequested=1">My account</a>-->
+                <a title="sign in" class="signin" href="/your-journey/account">My account</a>
+                <a title="alerts" class="alerts" href="https://www.journeycheck.com/gtr/registration">Alerts</a>
+                
+                                 <a title="search" class="search" id="toggleSearch" href="javascript:;"></a>
+                <a title="recite me" class="reciteme" href="javascript:;"></a>
+            </div>
+             <div class="icons-mobile clearfix">
+                 <!--                <a title="sign in" class="signin-mobile" href="https://tickets.southernrailway.com/sn/en/account/login.aspx?ForwardUrl=http%3A%2F%2Fwww.thameslinkrailway.com%2F&SSORequested=1">My account</a>-->
+                <a title="sign in" class="signin-mobile" href="/your-journey/account">My account</a>
+                <a title="alerts" class="alerts-mobile" href="https://www.journeycheck.com/gtr/registration">Alerts</a>
+                                <span class="mobile-breaker">
+                <a title="search" class="search" id="toggleSearchMobile" href="javascript:;"></a>
+                <a title="recite me" class="reciteme-mobile" href="javascript:;"></a>
+                </span>
+            </div>
+            <div class="buy-tickets-mobile clearfix">
+                <a title="qtt buy tickets" class="button tickets" id="toggleTicketsMobile" href="javascript:;">Buy tickets</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="search-wrapper">
+        <div class="wrapper">
             <!-- search form -->   
-            <form method="get" name="searchForm" id="searchform" class="frm-search" action="/search-results/" onsubmit="return isEmpty('searchForm');">
-                <input type="search" name="sitesearch" placeholder="search" id="sitesearch" title="Search" value="">
-                <input type="submit" name="gobut" id="gobut" value="Go" class="btn-search" alt="Submit search">
+            <form method="get" name="searchForm" id="searchform" class="searchform" action="/search-results/" onsubmit="return isEmpty('searchForm');">
+                <input type="search" name="sitesearch" placeholder="search here" id="sitesearch" title="Search" value="">
+                <input type="submit" name="gobut" id="gobut" value="Search" class="btn-search button right" alt="Submit search">
             </form>
             <!-- end search form -->
-
         </div>
-        <div class="logo">
-            <a href="/"><img src="/graphics/logo.png" alt="Thames Links" class="fullwidth"></a>
-        </div>        
+    </div>
+
+   
+
+<div class="ticket-wrapper">
+    <div class="wrapper">
+        <div class="row">
+                        
+<form action="/otr/" method="post" class="qtt-form  buyticketsform">  
+	<div class="large-4 columns">
+		<fieldset class="box qtt-tofrom qtt-tofromnew">
+			<div class="row row-2 standard-season">
+				<a href="#" class="standard-tickets active">Standard </a>
+				<a href="#" class="season-tickets">Season </a>
+			</div>
+			<div class="row row-2">
+				<div class="label"><label class="Label" for="lcOriginOTR">From:</label></div>
+				<div class="value"><input type="text" value="" class="stationAutoCompleteOTR" id="lcOriginOTR" name="od"></div>
+			</div>
+
+			<div class="row row-2">
+				<div class="label"><label class="Label" for="lcDestinationOTR">To:</label></div>
+				<div class="value swapper">
+					<input type="text" value="" class="stationAutoCompleteOTR" id="lcDestinationOTR" name="dd">
+					<a href="" class="swap" data-from="lcOriginOTR" data-to="lcDestinationOTR">Swap stations</a>
+				</div>
+
+			</div>
+
+
+			<div class="row row-2 route-option-trigger">
+				<a href="javascript:;">travel via or avoid</a>
+			</div>
+
+			<div class="row row-2 route-option-wrapper">
+				<div class="label labelav">
+					<label class="visuallyhidden" for="lstOutwardTimeOption">Avoid or via</label>
+					<select class="avoidviaSelect" id="lstOutwardAvoidVia" name="outav">
+						<option value="via">Travel via</option>
+						<option value="avoid">Avoid</option>
+					</select>
+				</div> 
+
+				<div class="value valueav">
+					<label class="visuallyhidden" for="lcAV">Avoid or via station name </label>
+					<input type="text" value="" class="stationAutoCompleteOTR" id="lcAV" name="stationav">
+				</div>
+			</div>
+
+
+
+		</fieldset>
+	</div>
+
+	<div class="large-4 columns">
+		<fieldset class="box qtt-singlereturn qtt-standard">
+
+			<div class="row">
+				<div class="single-return-opts">
+					<input type="radio" checked="" value="n" name="ret" id="rdoOneWayOTR">
+					<label class="single-journey-label" for="rdoOneWayOTR">Single</label>
+
+					<input type="radio" value="y" name="ret" id="rdoReturnOTR">
+					<label class="return-journey-label" for="rdoReturnOTR">Return</label>
+				</div>
+
+			</div>
+
+			<div class="row">
+				<span class="outward-title">Outward journey: </span>
+			</div>
+
+			<div class="row">
+				<label for="outward-journey0" class="visuallyhidden label">Outward Journey:</label>
+				<div class="value swapper">
+					<!-- Not wanting date picker :( -->
+					<input type="text" value="" name="outward-journey" id="outward-journey0" class="date-input outward-journey">   
+					<!-- <select class="date-picker-split-day TravelTimeDay" name="outward-journey-day">
+																				<option  value='--'>--</option>
+																				<option  value='01'>01</option>
+																				<option  value='02'>02</option>
+																				<option  value='03'>03</option>
+																				<option  value='04'>04</option>
+																				<option  value='05'>05</option>
+																				<option selected value='06'>06</option>
+																				<option  value='07'>07</option>
+																				<option  value='08'>08</option>
+																				<option  value='09'>09</option>
+																				<option  value='10'>10</option>
+																				<option  value='11'>11</option>
+																				<option  value='12'>12</option>
+																				<option  value='13'>13</option>
+																				<option  value='14'>14</option>
+																				<option  value='15'>15</option>
+																				<option  value='16'>16</option>
+																				<option  value='17'>17</option>
+																				<option  value='18'>18</option>
+																				<option  value='19'>19</option>
+																				<option  value='20'>20</option>
+																				<option  value='21'>21</option>
+																				<option  value='22'>22</option>
+																				<option  value='23'>23</option>
+																				<option  value='24'>24</option>
+																				<option  value='25'>25</option>
+																				<option  value='26'>26</option>
+																				<option  value='27'>27</option>
+																				<option  value='28'>28</option>
+																				<option  value='29'>29</option>
+																				<option  value='30'>30</option>
+																				<option  value='31'>31</option>
+											</select>
+					<select class="date-picker-split-month TravelTimeMonthYear" name="outward-journey-month">
+																				<option  value='-- --'>-- --</option>
+																				<option selected value='December 2015'>December 2015</option>
+																				<option  value='January 2016'>January 2016</option>
+																				<option  value='February 2016'>February 2016</option>
+											</select>
+					<input type="hidden" class="lstOutward" /> -->
+				</div>
+			</div>
+
+
+			<div class="row row-2 TravelTimeLine">
+				<label class="visuallyhidden" for="lstOutwardTimeOption">Options</label>
+				<select class="TravelTimeOption" id="lstOutwardTimeOption" name="outda">
+					<option value="y">Depart after</option>
+					<option value="n">Arrive before</option>
+				</select>
+				<label class="visuallyhidden" for="lstOutwardHour">Hour</label>
+				<select class="TravelTimeHour" id="lstOutwardHour" name="outh">
+																	<option value="00">00</option>
+																	<option value="01">01</option>
+																	<option value="02">02</option>
+																	<option value="03">03</option>
+																	<option value="04">04</option>
+																	<option value="05">05</option>
+																	<option selected="" value="06">06</option>
+																	<option value="07">07</option>
+																	<option value="08">08</option>
+																	<option value="09">09</option>
+																	<option value="10">10</option>
+																	<option value="11">11</option>
+																	<option value="12">12</option>
+																	<option value="13">13</option>
+																	<option value="14">14</option>
+																	<option value="15">15</option>
+																	<option value="16">16</option>
+																	<option value="17">17</option>
+																	<option value="18">18</option>
+																	<option value="19">19</option>
+																	<option value="20">20</option>
+																	<option value="21">21</option>
+																	<option value="22">22</option>
+																	<option value="23">23</option>
+									</select>
+				<label class="visuallyhidden" for="lstOutwardMinute">Minutes</label>
+				<select class="TravelTimeMinute" id="lstOutwardMinute" name="outmi">
+																	<option selected="" value="00">00</option>
+																	<option value="15">15</option>
+																	<option value="30">30</option>
+																	<option value="45">45</option>
+									</select>
+			</div>
+
+
+
+
+			<div class="returnJourney">
+				<div class="row">
+					<span class="outward-title">Return journey: </span>
+				</div>
+
+				<div class="row">
+					<input type="checkbox" name="chkOpenReturn" id="chkOpenReturn">
+					<label for="chkOpenReturn">Open return (return anytime)</label>
+				</div>
+
+
+				<div class="row">
+					<label for="return-journey0" class="visuallyhidden label">Return Journey:</label>
+					<div class="value swapper">
+						<input type="text" value="" name="return-journey" id="return-journey890" class="date-input return-journey">   
+					</div>
+				</div>
+
+
+				<div class="row row-2 TravelTimeLine">
+					<label class="visuallyhidden" for="lstReturnTimeOption">Options</label>
+					<select class="TravelTimeOption" id="lstReturnTimeOption" name="retda">
+						<option value="y">Depart after</option>
+						<option value="n">Arrive before</option>
+					</select>
+
+					<!-- Hours -->
+					<label class="visuallyhidden" for="lstReturnHour">Hour</label>
+					<select class="TravelTimeHour" id="lstReturnHour" name="reth">
+																				<option value="00">00</option>
+																				<option value="01">01</option>
+																				<option value="02">02</option>
+																				<option value="03">03</option>
+																				<option value="04">04</option>
+																				<option value="05">05</option>
+																				<option value="06">06</option>
+																				<option value="07">07</option>
+																				<option selected="" value="08">08</option>
+																				<option value="09">09</option>
+																				<option value="10">10</option>
+																				<option value="11">11</option>
+																				<option value="12">12</option>
+																				<option value="13">13</option>
+																				<option value="14">14</option>
+																				<option value="15">15</option>
+																				<option value="16">16</option>
+																				<option value="17">17</option>
+																				<option value="18">18</option>
+																				<option value="19">19</option>
+																				<option value="20">20</option>
+																				<option value="21">21</option>
+																				<option value="22">22</option>
+																				<option value="23">23</option>
+											</select>
+
+					<!-- Minutes -->
+					<label class="visuallyhidden" for="lstReturnMinute">Minutes</label>
+					<select class="TravelTimeMinute" id="lstReturnMinute" name="retmi">
+																				<option selected="" value="00">00</option>
+																				<option value="15">15</option>
+																				<option value="30">30</option>
+																				<option value="45">45</option>
+											</select>
+				</div>
+			</div>
+		</fieldset>
+
+
+		<fieldset class="qtt-season box qtt-singlereturn">
+			<!-- Passenger Type -->
+			<div class="row row-2">
+				<div class="label fullwidth">
+					<label class="Label" for="passengerTypeqttform">Passenger:</label>
+				</div>
+
+				<div class="values">
+					<label for="passAdultqttform"><input type="radio" checked="" value="adult" name="passType" id="passAdultqttform">Adult</label> &nbsp;                       
+					<label for="passChildqttform"><input type="radio" value="child" name="passType" id="passChildqttform">Child (5-15)</label>
+				</div>
+			</div>
+
+
+			<div class="row">
+				<h5>Start date:</h5>
+				<label for="start-date0" class="visuallyhidden label">Start date:</label>
+				<div class="value swapper">
+					<!-- Not wanting date picker :( -->
+					<input type="text" value="" name="season-outward-journey" id="start-date0" class="date-input-season-start outward-journey">   
+					<!-- <select class="date-picker-split-day TravelTimeDay" name="season-outward-journey-day">
+																				<option  value='--'>--</option>
+																				<option  value='01'>01</option>
+																				<option  value='02'>02</option>
+																				<option  value='03'>03</option>
+																				<option  value='04'>04</option>
+																				<option  value='05'>05</option>
+																				<option selected value='06'>06</option>
+																				<option  value='07'>07</option>
+																				<option  value='08'>08</option>
+																				<option  value='09'>09</option>
+																				<option  value='10'>10</option>
+																				<option  value='11'>11</option>
+																				<option  value='12'>12</option>
+																				<option  value='13'>13</option>
+																				<option  value='14'>14</option>
+																				<option  value='15'>15</option>
+																				<option  value='16'>16</option>
+																				<option  value='17'>17</option>
+																				<option  value='18'>18</option>
+																				<option  value='19'>19</option>
+																				<option  value='20'>20</option>
+																				<option  value='21'>21</option>
+																				<option  value='22'>22</option>
+																				<option  value='23'>23</option>
+																				<option  value='24'>24</option>
+																				<option  value='25'>25</option>
+																				<option  value='26'>26</option>
+																				<option  value='27'>27</option>
+																				<option  value='28'>28</option>
+																				<option  value='29'>29</option>
+																				<option  value='30'>30</option>
+																				<option  value='31'>31</option>
+											</select>
+					<select class="date-picker-split-month TravelTimeMonthYear" name="season-outward-journey-month">
+																				<option  value='-- --'>-- --</option>
+																				<option selected value='December 2015'>December 2015</option>
+																				<option  value='January 2016'>January 2016</option>
+																				<option  value='February 2016'>February 2016</option>
+											</select>
+					<input type="hidden" class="lstOutward" /> -->
+				</div>
+			</div>
+
+		</fieldset>
+	</div>
+
+
+	<div class="large-4 columns">
+
+		<fieldset class="box qtt-passengers qtt-standard">
+			<div class="row">
+				<span class="passenger-title">Passengers </span>
+			</div>
+			<!--    <h3><a title="View passenger options" href="#" class="passenger">Passengers</a></h3> -->
+			<div class="passengersDiv passengerBox">
+				<div class="row">
+
+					<!-- Adults -->
+					<select class="TravelAdult" id="lstAdults" name="nad">
+																				<option value="0">0</option>
+																				<option selected="" value="1">1</option>
+																				<option value="2">2</option>
+																				<option value="3">3</option>
+																				<option value="4">4</option>
+																				<option value="5">5</option>
+																				<option value="6">6</option>
+																				<option value="7">7</option>
+																				<option value="8">8</option>
+																				<option value="9">9</option>
+											</select>
+					<label class="" id="lblAdults" for="lstAdults">Adults</label>
+
+					<!-- Children -->
+					<select class="TravelChildren" id="lstChildren" name="nch">
+													<option value="0">0</option>
+													<option value="1">1</option>
+													<option value="2">2</option>
+													<option value="3">3</option>
+													<option value="4">4</option>
+													<option value="5">5</option>
+													<option value="6">6</option>
+													<option value="7">7</option>
+													<option value="8">8</option>
+													<option value="9">9</option>
+											</select>
+					<label class="" id="lblChildren" for="lstChildren">Children</label>
+				</div>
+				<!--<div class="row divSmartcard">
+					<label for="chkSmartcards"> <input type="checkbox" value="1" name="sm" id="chkSmartcards">Only smartcard fares <img class="" alt="Fares only for ITSO smartcards" src="/graphics/ItsoIcon.png"></label>
+				</div>-->
+
+				<div class="row groupsave">
+					<input type="checkbox" name="groupSave" id="groupSave">
+					<label for="groupSave">Groupsave</label>
+				</div>
+
+
+				<!-- NEW RAILCARD OPTIONS-->
+				<div class="row railcardsrow railcardRowWrapper">
+											<div class="addRailcardType1 addRailcardType">
+							<div class="railcard-checkbox">
+								<input type="checkbox" name="chkRailcards1" id="chkRailcards1">
+								<label for="chkRailcards">Add Railcard</label>
+							</div>
+							<div class="railcard-type">
+								<!-- <label class="label fullwidth" for="lstRailcardDetails1">Railcard type:</label> -->
+
+								<div class="values">
+									<select class="RailcardDetails" id="lstRailcardDetails1" name="rc[]">
+																					<option value="YNG">16-25 Railcard</option>
+																					<option value="DIS">Disabled </option>
+																					<option value="FAM">Family &amp; Friends</option>
+																					<option value="NGC">Network Gold Card</option>
+																					<option value="NEW">Network Railcard</option>
+																					<option value="HMF">HM Forces</option>
+																					<option value="SRN">Senior</option>
+																					<option value="JCP">Jobcentre Plus Travel Discount</option>
+																					<option value="2TR">Two Together Railcard</option>
+																					<option value="DIC">Disabled Child</option>
+																			</select>
+									<label class="visuallyhidden" for="lstRailcardNumber1">Railcard number</label>
+									<select class="RailcardNumber" id="lstRailcardNumber1" name="rcn[]">
+																					<option value="0">0</option>
+																					<option value="1">1</option>
+																					<option value="2">2</option>
+																					<option value="3">3</option>
+																			</select>
+								</div>
+							</div>
+						</div>
+											<div class="addRailcardType2 addRailcardType">
+							<div class="railcard-checkbox">
+								<input type="checkbox" name="chkRailcards2" id="chkRailcards2">
+								<label for="chkRailcards">Add Railcard</label>
+							</div>
+							<div class="railcard-type">
+								<!-- <label class="label fullwidth" for="lstRailcardDetails2">Railcard type:</label> -->
+
+								<div class="values">
+									<select class="RailcardDetails" id="lstRailcardDetails2" name="rc[]">
+																					<option value="YNG">16-25 Railcard</option>
+																					<option value="DIS">Disabled </option>
+																					<option value="FAM">Family &amp; Friends</option>
+																					<option value="NGC">Network Gold Card</option>
+																					<option value="NEW">Network Railcard</option>
+																					<option value="HMF">HM Forces</option>
+																					<option value="SRN">Senior</option>
+																					<option value="JCP">Jobcentre Plus Travel Discount</option>
+																					<option value="2TR">Two Together Railcard</option>
+																					<option value="DIC">Disabled Child</option>
+																			</select>
+									<label class="visuallyhidden" for="lstRailcardNumber2">Railcard number</label>
+									<select class="RailcardNumber" id="lstRailcardNumber2" name="rcn[]">
+																					<option value="0">0</option>
+																					<option value="1">1</option>
+																					<option value="2">2</option>
+																					<option value="3">3</option>
+																			</select>
+								</div>
+							</div>
+						</div>
+											<div class="addRailcardType3 addRailcardType">
+							<div class="railcard-checkbox">
+								<input type="checkbox" name="chkRailcards3" id="chkRailcards3">
+								<label for="chkRailcards">Add Railcard</label>
+							</div>
+							<div class="railcard-type">
+								<!-- <label class="label fullwidth" for="lstRailcardDetails3">Railcard type:</label> -->
+
+								<div class="values">
+									<select class="RailcardDetails" id="lstRailcardDetails3" name="rc[]">
+																					<option value="YNG">16-25 Railcard</option>
+																					<option value="DIS">Disabled </option>
+																					<option value="FAM">Family &amp; Friends</option>
+																					<option value="NGC">Network Gold Card</option>
+																					<option value="NEW">Network Railcard</option>
+																					<option value="HMF">HM Forces</option>
+																					<option value="SRN">Senior</option>
+																					<option value="JCP">Jobcentre Plus Travel Discount</option>
+																					<option value="2TR">Two Together Railcard</option>
+																					<option value="DIC">Disabled Child</option>
+																			</select>
+									<label class="visuallyhidden" for="lstRailcardNumber3">Railcard number</label>
+									<select class="RailcardNumber" id="lstRailcardNumber3" name="rcn[]">
+																					<option value="0">0</option>
+																					<option value="1">1</option>
+																					<option value="2">2</option>
+																					<option value="3">3</option>
+																			</select>
+								</div>
+							</div>
+						</div>
+					
+					<div class="railcardErrors">
+						<span> 
+							Please note we're unable to accept more Railcards than passengers<br>
+							Please note we're unable to accept more than nine Railcards<br>
+						</span>
+					</div> 
+
+					<div class="railcardErrorsPassengers">
+						<span> 
+							Please note you cannot select more than 9 passengers in total.
+						</span>
+					</div>                    
+				</div>
+
+			</div>
+		</fieldset>
+
+
+		<!-- Duration -->
+		<fieldset class="qtt-season box qtt-singlereturn">
+			<div class="row row-2">
+				<div class="label fullwidth">
+					<label class="Label" for="ticketType">Duration:</label>
+				</div>
+
+				<div class="values">
+					<label for="season_weekly_" class="label-season-ticket"><input type="checkbox" value="ticketweekly" name="season_weekly" id="season_weekly_">Weekly</label> &nbsp;                       
+					<label for="season_monthly_" class="label-season-ticket"><input type="checkbox" value="ticketmonthly" name="season_monthly" id="season_monthly_">Monthly</label>
+					<label for="season_annual_" class="label-season-ticket"><input type="checkbox" value="ticketannual" name="season_annual" id="season_annual_">Annual</label> &nbsp;                       
+					<label for="season_custom_" class="label-season-ticket"><input type="checkbox" value="ticketcustom" name="season_custom" id="season_custom_">Custom</label>
+				</div>
+			</div>
+
+			<div id="end_date_row_otr">
+				<div class="row end_date_row end_date_first_row">
+					<h5>End date:</h5>
+					<label for="end-date0" class="visuallyhidden label">End date:</label>
+					<div class="swapper">
+						<!-- Not wanting date picker :( -->
+						<input type="text" value="" name="season-return-journey" id="end-date0" class="date-input-season return-journey">   
+
+						<!-- <select class="date-picker-split-day TravelTimeDay" name="season-return-journey-day">
+																							<option  value='--'>--</option>
+																							<option  value='01'>01</option>
+																							<option  value='02'>02</option>
+																							<option  value='03'>03</option>
+																							<option  value='04'>04</option>
+																							<option  value='05'>05</option>
+																							<option selected value='06'>06</option>
+																							<option  value='07'>07</option>
+																							<option  value='08'>08</option>
+																							<option  value='09'>09</option>
+																							<option  value='10'>10</option>
+																							<option  value='11'>11</option>
+																							<option  value='12'>12</option>
+																							<option  value='13'>13</option>
+																							<option  value='14'>14</option>
+																							<option  value='15'>15</option>
+																							<option  value='16'>16</option>
+																							<option  value='17'>17</option>
+																							<option  value='18'>18</option>
+																							<option  value='19'>19</option>
+																							<option  value='20'>20</option>
+																							<option  value='21'>21</option>
+																							<option  value='22'>22</option>
+																							<option  value='23'>23</option>
+																							<option  value='24'>24</option>
+																							<option  value='25'>25</option>
+																							<option  value='26'>26</option>
+																							<option  value='27'>27</option>
+																							<option  value='28'>28</option>
+																							<option  value='29'>29</option>
+																							<option  value='30'>30</option>
+																							<option  value='31'>31</option>
+													</select>
+						<select class="date-picker-split-month TravelTimeMonthYear" name="season-return-journey-month">
+																							<option  value='-- --'>-- --</option>
+																							<option selected value='December 2015'>December 2015</option>
+																							<option  value='January 2016'>January 2016</option>
+																							<option  value='February 2016'>February 2016</option>
+													</select>
+						<input type="hidden" class="lstOutward" /> -->
+					</div>
+				</div>
+
+
+				<div class="row end_date_row">
+					<div class="season_custom_message"> 
+						<p> Or for </p>
+					</div>
+					<div class="season_custom_options">
+						<select class="season_custom_months" id="season_custom_months" name="season_custom_months">
+							<option value="1">1 month</option>
+							<option value="2">2 months</option>
+							<option value="3">3 months</option>
+							<option value="4">4 months</option>
+							<option value="5">5 months</option>
+							<option value="6">6 months</option>
+							<option value="7">7 months</option>
+							<option value="8">8 months</option>
+							<option value="9">9 months</option>
+							<option value="10">10 months</option>
+							<option value="11">11 months</option>
+						</select>
+
+						<select class="season_custom_days" id="season_custom_days" name="season_custom_days">
+							<option value="1">1 day</option>
+							<option value="2">2 days </option><option value="3">3 days </option><option value="4">4 days </option><option value="5">5 days </option><option value="6">6 days </option><option value="7">7 days </option><option value="8">8 days </option><option value="9">9 days </option><option value="10">10 days </option><option value="11">11 days </option><option value="12">12 days </option><option value="13">13 days </option><option value="14">14 days </option><option value="15">15 days </option><option value="16">16 days </option><option value="17">17 days </option><option value="18">18 days </option><option value="19">19 days </option><option value="20">20 days </option><option value="21">21 days </option><option value="22">22 days </option><option value="23">23 days </option><option value="24">24 days </option><option value="25">25 days </option><option value="26">26 days </option><option value="27">27 days </option><option value="28">28 days </option><option value="29">29 days </option><option value="30">30 days </option>						</select>
+					</div>
+				</div>
+			</div>
+		</fieldset>
+		<div class="box no-border submit-box">
+			
+			<div class="row">
+
+				
+				<button type="submit" id="Search" name="Search" class="button fullwidth"><span>Find tickets</span></button>
+			</div>
+		</div>
+	</div>
+
+	<input type="hidden" name="otrSeason" id="otrSeason" value="false">
+</form>
+
+          
+        </div>
+        <div class="row">
+        </div>
+    </div>
+
     </div>
 
 </header>
@@ -81,39 +687,39 @@
             <div class="sub_nav columns-4 level-2">
                 <div class="columns">
                     <ul>
-                        <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/boredom-monster/" title="Don’t let the BOREDOM MONSTER bite">Don’t let the BOREDOM MONSTER bite</a></li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/anytime/" title="Anytime ">Anytime </a></li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/off-peak/" title="Off-Peak ">Off-Peak </a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/anytime/" title="">Anytime </a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/off-peak/" title="">Off-Peak </a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/season-tickets/" title="">Season tickets</a></li>
                     </ul>
                 </div>
                 <div class="columns">
                     <ul>
-                        <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/season-tickets/" title="Season tickets">Season tickets</a></li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/oyster/" title="Oyster">Oyster</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
+                        <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/oyster/" title="">Oyster</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
                         <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/oyster/contactless/" title="Contactless">Contactless</a></li>
                             </ul>
 </li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/railcards/" title="Railcards">Railcards</a></li>
-                    </ul>
-                </div>
-                <div class="columns">
-                    <ul>
-                        <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/student-connect/" title="Student Connect">Student Connect</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
+                        <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/railcards/" title="Contactless">Railcards</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/student-connect/" title="Contactless">Student Connect</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
                         <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/student-connect/apply/" title="Student Connect application form">Student Connect application form</a></li>
                             </ul>
 </li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/dodger/" title="Meet Derek">Meet Derek</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
-                        <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/dodger/penalty-fares/" title="Penalty fares">Penalty fares</a></li>
-                            </ul>
-</li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/groupsave/" title="GroupSave">GroupSave</a></li>
                     </ul>
                 </div>
                 <div class="columns">
                     <ul>
-                        <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/overnighter/" title="Overnighter">Overnighter</a></li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/plusbus/" title="PlusBus">PlusBus</a></li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/carnet/" title="Carnet tickets">Carnet tickets</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/groupsave/" title="Student Connect application form">GroupSave</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/plusbus/" title="Student Connect application form">PlusBus</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/off-peak/#kids2/" title="Student Connect application form">Kids for £2</a></li>
+                    </ul>
+                </div>
+                <div class="columns">
+                    <ul>
+                        <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/carnet/" title="Student Connect application form">Carnet tickets</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/dodger/" title="Student Connect application form">Dodgy Derek rides again</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
+                        <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/dodger/penalty-fares/" title="Penalty fares">Penalty fares</a></li>
+                            </ul>
+</li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/tickets-and-fares/the-key-smartcard/" title="Penalty fares">The key smartcard</a></li>
                     </ul>
                 </div>
             </div>
@@ -123,29 +729,31 @@
             <div class="sub_nav columns-5 level-2">
                 <div class="columns">
                     <ul>
-                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/strike-advice/" title="Strike suspended">Strike suspended</a></li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/live-running-great-northern/" title="Live running - Great Northern">Live running - Great Northern</a></li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/live-running-thameslink/" title="Live running - Thameslink">Live running - Thameslink</a></li>
-                    </ul>
-                </div>
-                <div class="columns">
-                    <ul>
-                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/planning/" title="Travel planning tools">Travel planning tools</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
+                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/live-travel-info/" title="Penalty fares">Live travel information</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
+                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/live-travel-info/recruiting-more-drivers/" title="Bringing in more drivers ">Bringing in more drivers </a></li>
+                            </ul>
+</li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/planning/" title="Bringing in more drivers ">Travel planning tools</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
                         <li class=""><a href="http://www.thameslinkrailway.com/your-journey/planning/app/" title="On Track app">On Track app</a></li>
                         <li class=""><a href="http://www.thameslinkrailway.com/your-journey/planning/map/" title="Our route map">Our route map</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/planning/alternative-route-maps/" title="Alternative route maps">Alternative route maps</a></li>
 <li><a href="http://www.thameslinkrailway.com/your-journey/planning/" title="Free travel alerts">Free travel alerts</a></li>
                             </ul>
 </li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/timetables/" title="Timetables">Timetables</a></li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/engineering/" title="Engineering works and changes to train times">Engineering works and changes to train times</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
-                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/engineering/advance-works/" title="Summary of planned changes">Summary of planned changes</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/timetables/" title="Free travel alerts">Timetables</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
+                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/timetables/dec-2015/" title="Timetable changes from 13 December 2015">Timetable changes from 13 December 2015</a></li>
                             </ul>
 </li>
                     </ul>
                 </div>
                 <div class="columns">
                     <ul>
-                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/car-parks/" title="Car parks">Car parks</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
+                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/engineering/" title="Timetable changes from 13 December 2015">Engineering works and changes to train times</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
+                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/engineering/advance-works/" title="Summary of planned changes">Summary of planned changes</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/engineering/christmas/" title="Christmas service summary">Christmas service summary</a></li>
+                            </ul>
+</li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/car-parks/" title="Christmas service summary">Car parks</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
                         <li class=""><a href="http://www.thameslinkrailway.com/your-journey/car-parks/charges/" title="Car park charges">Car park charges</a></li>
                         <li class=""><a href="http://www.thameslinkrailway.com/your-journey/car-parks/pay-in-advance/" title="Pay in advance">Pay in advance</a></li>
                         <li class=""><a href="http://www.thameslinkrailway.com/your-journey/car-parks/pay-on-day/" title="Pay on the day">Pay on the day</a></li>
@@ -153,30 +761,40 @@
                         <li class=""><a href="http://www.thameslinkrailway.com/your-journey/car-parks/charge-and-go/" title="Charge and Go">Charge and Go</a></li>
                             </ul>
 </li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/station-information/" title="Station information">Station information</a></li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/underground-and-bus/" title="Underground and bus connections">Underground and bus connections</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/station-information/" title="Charge and Go">Station information</a></li>
                     </ul>
                 </div>
                 <div class="columns">
                     <ul>
-                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/international/" title="International connections">International connections</a></li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/assisted-travel/" title="Assisted travel">Assisted travel</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
+                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/underground-and-bus/" title="Charge and Go">Underground and bus connections</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/international/" title="Charge and Go">International connections</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/assisted-travel/" title="Charge and Go">Assisted travel</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
                         <li class=""><a href="http://www.thameslinkrailway.com/your-journey/assisted-travel/booking/" title="Book online">Book online</a></li>
                         <li class=""><a href="http://www.thameslinkrailway.com/your-journey/assisted-travel/feedback/" title="Feedback form">Feedback form</a></li>
                         <li class=""><a href="http://www.thameslinkrailway.com/your-journey/assisted-travel/making-rail-accessible/" title="Making rail accessible">Making rail accessible</a></li>
                             </ul>
 </li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/delay-repay/" title="Delay Repay">Delay Repay</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
-                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/delay-repay/enhanced-compensation/" title="Enhanced compensation">Enhanced compensation</a></li>
-                            </ul>
-</li>
                     </ul>
                 </div>
                 <div class="columns">
                     <ul>
-                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/bike-policy/" title="Bike policy">Bike policy</a></li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/thameslink-programme/" title="Thameslink programme">Thameslink programme</a></li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/servicestransfer/" title="Thameslink services on the Catford loop">Thameslink services on the Catford loop</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/delay-repay/" title="Making rail accessible">Delay Repay</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
+                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/delay-repay/enhanced-compensation/" title="Enhanced compensation">Enhanced compensation</a></li>
+                            </ul>
+</li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/bike-policy/" title="Enhanced compensation">Bike policy</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/thameslink-programme/" title="Enhanced compensation">Thameslink programme</a></li>
+                    </ul>
+                </div>
+                <div class="columns">
+                    <ul>
+                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/servicestransfer/" title="Enhanced compensation">Thameslink services on the Catford loop</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/account/" title="Enhanced compensation">New way to buy online</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
+                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/account/help/" title="Helpful hints and tips">Helpful hints and tips</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/account/refunds-and-evouchers/" title="Refunds and eVouchers">Refunds and eVouchers</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/your-journey/account/survey-feedback/" title="Feedback">Feedback</a></li>
+                            </ul>
+</li>
                     </ul>
                 </div>
             </div>
@@ -186,7 +804,7 @@
             <div class="sub_nav columns-2 level-2">
                 <div class="columns">
                     <ul>
-                        <li class=""><a href="http://www.thameslinkrailway.com/destinations/london/" title="London">London</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
+                        <li class=""><a href="http://www.thameslinkrailway.com/destinations/london/" title="Feedback">London</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
                         <li class=""><a href="http://www.thameslinkrailway.com/destinations/london/london-sport-and-outdoors/" title="Sport and outdoors">Sport and outdoors</a></li>
                         <li class=""><a href="http://www.thameslinkrailway.com/destinations/london/london-art-and-museums/" title="Art and museums">Art and museums</a></li>
                         <li class=""><a href="http://www.thameslinkrailway.com/destinations/london/london-landmarks/" title="Landmarks">Landmarks</a></li>
@@ -194,7 +812,7 @@
                         <li class=""><a href="http://www.thameslinkrailway.com/destinations/london/london-shopping/" title="Shopping">Shopping</a></li>
                             </ul>
 </li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/destinations/brighton/" title="Brighton">Brighton</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
+                        <li class=""><a href="http://www.thameslinkrailway.com/destinations/brighton/" title="Shopping">Brighton</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
                         <li class=""><a href="http://www.thameslinkrailway.com/destinations/brighton/brighton-sport-and-outdoors/" title="Sport and outdoors">Sport and outdoors</a></li>
                         <li class=""><a href="http://www.thameslinkrailway.com/destinations/brighton/brighton-art-and-museums/" title="Art and museums">Art and museums</a></li>
                         <li class=""><a href="http://www.thameslinkrailway.com/destinations/brighton/brighton-landmarks/" title="Landmarks">Landmarks</a></li>
@@ -202,7 +820,7 @@
                         <li class=""><a href="http://www.thameslinkrailway.com/destinations/brighton/brighton-shopping/" title="Shopping">Shopping</a></li>
                             </ul>
 </li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/destinations/cambridge/" title="Cambridge">Cambridge</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
+                        <li class=""><a href="http://www.thameslinkrailway.com/destinations/cambridge/" title="Shopping">Cambridge</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
                         <li class=""><a href="http://www.thameslinkrailway.com/destinations/cambridge/cambridge-sport-and-outdoors/" title="Sport and outdoors">Sport and outdoors</a></li>
                         <li class=""><a href="http://www.thameslinkrailway.com/destinations/cambridge/cambridge-art-and-museums/" title="Art and museums">Art and museums</a></li>
                         <li class=""><a href="http://www.thameslinkrailway.com/destinations/cambridge/cambridge-landmarks/" title="Landmarks">Landmarks</a></li>
@@ -214,11 +832,20 @@
                 </div>
                 <div class="columns">
                     <ul>
-                        <li class=""><a href="http://www.thameslinkrailway.com/destinations/other/" title="Other destinations">Other destinations</a></li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/destinations/special-offers/" title="Special offers">Special offers</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
+                        <li class=""><a href="http://www.thameslinkrailway.com/destinations/other/" title="Shopping">Other destinations</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/destinations/special-offers/" title="Shopping">Special offers</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
                         <li class=""><a href="http://www.thameslinkrailway.com/destinations/special-offers/brighton-2for1/" title="Brighton 2FOR1">Brighton 2FOR1</a></li>
                         <li class=""><a href="http://www.thameslinkrailway.com/destinations/special-offers/london-2for1/" title="London 2FOR1">London 2FOR1</a></li>
                         <li class=""><a href="http://www.thameslinkrailway.com/destinations/special-offers/register/" title="Register with us">Register with us</a></li>
+                            </ul>
+</li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/destinations/books-on-the-go/" title="Register with us">Books on the go</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
+                        <li class=""><a href="http://www.thameslinkrailway.com/destinations/books-on-the-go/november-book/" title="November's book">November's book</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/destinations/books-on-the-go/october-book/" title="October's book">October's book</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/destinations/books-on-the-go/september-book/" title="September's book">September's book</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/destinations/books-on-the-go/august-adult-book/" title="Adult book for August">Adult book for August</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/destinations/books-on-the-go/august-kids/" title="Children's book for August">Children's book for August</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/destinations/books-on-the-go/july/" title="July's book">July's book</a></li>
                             </ul>
 </li>
                     </ul>
@@ -230,8 +857,8 @@
             <div class="sub_nav columns-1 level-2">
                 <div class="columns">
                     <ul>
-                        <li class=""><a href="http://www.thameslinkrailway.com/airport-travel/gatwick/" title="Gatwick Airport">Gatwick Airport</a></li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/airport-travel/luton/" title="London Luton Airport">London Luton Airport</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/airport-travel/gatwick/" title="July's book">Gatwick Airport</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/airport-travel/luton/" title="July's book">Luton Airport</a></li>
                     </ul>
                 </div>
             </div>
@@ -241,15 +868,12 @@
             <div class="sub_nav columns-3 level-2">
                 <div class="columns">
                     <ul>
-                        <li class=""><a href="http://www.thameslinkrailway.com/contact-us/frequently-asked-questions/" title="Frequently asked questions">Frequently asked questions</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
-                        <li class=""><a href="http://www.thameslinkrailway.com/contact-us/frequently-asked-questions/new-operator/" title="New train operator questions">New train operator questions</a></li>
-                            </ul>
-</li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/contact-us/lost-property/" title="Lost property">Lost property</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
+                        <li class=""><a href="http://www.thameslinkrailway.com/contact-us/frequently-asked-questions/" title="July's book">Frequently asked questions</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/contact-us/lost-property/" title="July's book">Lost property</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
                         <li class=""><a href="http://www.thameslinkrailway.com/contact-us/lost-property/report-form/" title="Report form">Report form</a></li>
                             </ul>
 </li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/contact-us/delay-repay/" title="Delay Repay">Delay Repay</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
+                        <li class=""><a href="http://www.thameslinkrailway.com/contact-us/delay-repay/" title="Report form">Delay Repay</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
                         <li class=""><a href="http://www.thameslinkrailway.com/contact-us/delay-repay/claim-form/" title="Claim online">Claim online</a></li>
                             </ul>
 </li>
@@ -257,27 +881,28 @@
                 </div>
                 <div class="columns">
                     <ul>
-                        <li class=""><a href="http://www.thameslinkrailway.com/contact-us/assisted-travel-service/" title="Assisted travel">Assisted travel</a></li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/contact-us/eyewitness/" title="Eyewitness">Eyewitness</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
+                        <li class=""><a href="http://www.thameslinkrailway.com/contact-us/assisted-travel-service/" title="Claim online">Assisted travel</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/contact-us/eyewitness/" title="Claim online">Eyewitness</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
                         <li class=""><a href="http://www.thameslinkrailway.com/contact-us/eyewitness/eyewitness-form/" title="Report form">Report form</a></li>
                             </ul>
 </li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/contact-us/get-involved/" title="Get involved">Get involved</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
+                        <li class=""><a href="http://www.thameslinkrailway.com/contact-us/get-involved/" title="Report form">Get involved</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
                         <li class=""><a href="http://www.thameslinkrailway.com/contact-us/get-involved/feedback/" title="How we act on your feedback">How we act on your feedback</a></li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/contact-us/get-involved/meet-the-managers/" title="Meet the manager dates">Meet the manager dates</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/contact-us/get-involved/meet-the-managers/" title="Meet the manager ">Meet the manager </a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/contact-us/get-involved/passenger-panel/" title="Passenger Panel">Passenger Panel</a></li>
                             </ul>
 </li>
                     </ul>
                 </div>
                 <div class="columns">
                     <ul>
-                        <li class=""><a href="http://www.thameslinkrailway.com/contact-us/priority-card/" title="Priority card">Priority card</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
+                        <li class=""><a href="http://www.thameslinkrailway.com/contact-us/priority-card/" title="Passenger Panel">Priority card</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
                         <li class=""><a href="http://www.thameslinkrailway.com/contact-us/priority-card/priority-card-terms/" title="Terms and conditions">Terms and conditions</a></li>
                         <li class=""><a href="http://www.thameslinkrailway.com/contact-us/priority-card/priority-card-faqs/" title="Frequently asked questions">Frequently asked questions</a></li>
                             </ul>
 </li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/contact-us/social-media/" title="Social media">Social media</a></li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/contact-us/terms/" title="Terms and conditions">Terms and conditions</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
+                        <li class=""><a href="http://www.thameslinkrailway.com/contact-us/social-media/" title="Frequently asked questions">Social media</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/contact-us/terms/" title="Frequently asked questions">Terms and conditions</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
                         <li class=""><a href="http://www.thameslinkrailway.com/contact-us/terms/charter/" title="Passenger's charter">Passenger's charter</a></li>
                         <li class=""><a href="http://www.thameslinkrailway.com/contact-us/terms/complaints/" title="Complaints handling procedure">Complaints handling procedure</a></li>
                         <li class=""><a href="http://www.thameslinkrailway.com/contact-us/terms/nrcoc/" title="Conditions of carriage">Conditions of carriage</a></li>
@@ -300,39 +925,48 @@
             <div class="sub_nav columns-4 level-2">
                 <div class="columns">
                     <ul>
-                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/news/" title="Latest news">Latest news</a></li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/network/" title="Our network">Our network</a></li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/improvements/" title="Improvements">Improvements</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
-                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/improvements/our-commitments/" title="Our commitments">Our commitments</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/about-us/" title="Twitter rules of engagement">About Us</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
+                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/about-us/integration/" title="Integration">Integration</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/about-us/integration-faqs/" title="Integration FAQs">Integration FAQs</a></li>
                             </ul>
 </li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/news/" title="Integration FAQs">Latest news</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/network/" title="Integration FAQs">Our network</a></li>
                     </ul>
                 </div>
                 <div class="columns">
                     <ul>
-                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/building-tomorrows-railway/" title="Building tomorrow's railway today">Building tomorrow's railway today</a></li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/performance/" title="Performance">Performance</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
+                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/improvements/" title="Integration FAQs">Improvements</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
+                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/improvements/our-commitments/" title="Our commitments">Our commitments</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/improvements/routes/" title="Improvement factsheets">Improvement factsheets</a></li>
+                            </ul>
+</li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/building-tomorrows-railway/" title="Improvement factsheets">Building tomorrow's railway today</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/performance/" title="Improvement factsheets">Performance</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
                         <li class=""><a href="http://www.thameslinkrailway.com/about-us/performance/train-service-targets/" title="Train service targets">Train service targets</a></li>
                         <li class=""><a href="http://www.thameslinkrailway.com/about-us/performance/customer-service-targets/" title="Customer service targets">Customer service targets</a></li>
                             </ul>
 </li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/connections/" title="Customer report">Customer report</a></li>
                     </ul>
                 </div>
                 <div class="columns">
                     <ul>
-                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/communities/" title="Communities">Communities</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
+                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/connections/" title="Customer service targets">Customer report</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/communities/" title="Customer service targets">Communities</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
                         <li class=""><a href="http://www.thameslinkrailway.com/about-us/communities/golearn/" title="Go-Learn">Go-Learn</a></li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/communities/golearnsurvey/" title="Go-Learn survey">Go-Learn survey</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/communities/golearnsurvey/" title="Go-Learn suvey">Go-Learn suvey</a></li>
                             </ul>
 </li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/careers/" title="Careers">Careers</a></li>
-                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/media-centre/" title="Media centre">Media centre</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/careers/" title="Go-Learn suvey">Careers</a>                          <a class="sub_link" href="#"> </a>                            <ul class="sub_nav level-3">
+                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/careers/graduate-scheme/" title="Graduate scheme">Graduate scheme</a></li>
+                            </ul>
+</li>
                     </ul>
                 </div>
                 <div class="columns">
                     <ul>
-                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/transparency/" title="Transparency">Transparency</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/media-centre/" title="Graduate scheme">Media centre</a></li>
+                        <li class=""><a href="http://www.thameslinkrailway.com/about-us/transparency/" title="Graduate scheme">Transparency</a></li>
                     </ul>
                 </div>
             </div>
@@ -341,129 +975,288 @@
 </nav>
 
         <!--/ignore_perlfect_search-->
-      
-                        <div class="wrapper">
-            <!--ignore_perlfect_search-->
-            <div class="sidebar">
-               
-                    
-<aside id="bookright" class="buytickets">     
+
+                    <div class="wrapper">
+                <!--ignore_perlfect_search-->
+                <div class="sidebar">
+
+    
+<aside id="bookright-content" class="buytickets">        
     <h2><a title="Open/Close ticket search" href="#">Book your tickets</a></h2>
-    <form method="get" id="buytickets" action="/p/buy-tickets/" class="form">
+
+    <form action="/otr/" id="buytickets" method="post" class="form form-engine-new buyticketsform" style="display: block;">
         <div id="ticketbox">
             <fieldset class="box">
-                <div class="row row-2">
-                    <div class="label"><label for="lcOrigin" class="Label">From:</label></div>
-                    <div class="value"><input name="od" id="lcOrigin" autocomplete="off" type="text" value=""></div>
+                <div class="row">
+                    <div class="labels">
+                        <label class="Label" for="lcOrigincontent">From:</label>
+                    </div>
+                    <div class="values fullwidth">
+                        <input type="text" value="" class="stationAutoCompleteOTR" id="lcOrigincontent" name="od">
+                    </div>
                 </div>
 
-                <div class="row row-2">
-                    <div class="label"><label for="lcDestination" class="Label">To:</label></div>
-                    <div class="value"><input name="dd" id="lcDestination" autocomplete="off" type="text" value=""></div>
+                <div class="row">
+                    <div class="labels">
+                        <label class="Label" for="lcDestinationcontent">To:</label>
+                    </div>
+                    <div class="values swapper">
+                        <input type="text" value="" class="stationAutoCompleteOTR" id="lcDestinationcontent" name="dd">
+                        <a href="" class="swap" data-from="lcOrigincontent" data-to="lcDestinationcontent">Swap stations</a>
+                    </div>
                 </div>
-                <div class="row  row-2">
+
+                <div class="row route-option-trigger">
+                    <a href="javascript:;">travel via or avoid</a>
+                </div>
+
+                <div class="row route-option-wrapper">
+                    <div class="label labelav">
+                        <label class="visuallyhidden" for="lstOutwardTimeOption">Avoid or via</label>
+                        <select class="TravelOption" id="lstOutwardAvoidVia" name="outav">
+                            <option value="via">Travel via</option>
+                            <option value="avoid">Avoid</option>
+                        </select>
+                    </div> 
+           
                     <div class="value">
-                        <label for="rdoOneWay"><input id="rdoOneWay" name="ret" value="n" checked="checked" type="radio">Single</label> &nbsp;     
-
-                        <label for="rdoReturn"><input id="rdoReturn" name="ret" value="y" type="radio">Return</label>
-
+                        <label class="visuallyhidden" for="lcAV">Avoid or via station name </label>
+                        <input type="text" value="" class="stationAutoCompleteOTR" id="lcAV" name="stationav">
                     </div>
                 </div>
+
+                
+
+
+                <!-- <div class="row  row-2">
+                    <div class="value">
+                        <label for="rdoOneWay"><input type="radio" checked value="n" name="ret" id="rdoOneWay">Single</label> &nbsp;                       
+                        <label for="rdoReturn"><input type="radio" value="y" name="ret" id="rdoReturn">Return</label>
+                    </div>
+                </div> -->
             </fieldset>
-            <!--
-                        <div id="MoreOptions">
-                            <ul>
-                            <li><a title="Text only version" href="https://tickets.southernrailway.com/sn/en/JourneyPlanning/Wizard/StationSelect">Text only version</a></li>
-                            <li><a href="javascript:;" class="liarrowpr"  id="tickettab1" style="cursor:pointer" title="Expand to view more options">More options</a></li>
-                            </ul>
-                            <input type="hidden" name="tickettab1_open" id="tickettab1_open" value="false" />
-                            <div id="divOptionDetails">
-                                <div class="TravelNoChanges">
-                                    <input id="chkNoChanges" name="nc" type="checkbox" />
-                                    <label for="chkNoChanges">Trains with no changes</label>
-                                </div>
-                                <label for="lstOptions" class="hidelabel">Option 1:</label>
-                                <select name="lstOptions" id="lstOptions">
-                                    <option value="0" >Avoid</option>
-                                    <option value="1" >Via</option>
-                                </select>
-                                <label for="lcOptionLocation" class="hidelabel">Option 1 location:</label>
-                                <input name="v" autocomplete="off" id="lcOptionLocation" type="text" value="" />
-                            </div>
-                        </div>
-    
-                    </div>
-                </div>
-                </fieldset>
-            -->
+
             <fieldset class="box">
                 <h3>Outward journey*:</h3>
-                <div class="row row-2 TravelDateLine">   
-                    <label class="visuallyhidden" for="lstOutwardDay">Day</label>
-                    <select name="outd" id="lstOutwardDay" class="TravelTimeDay">
-                        <option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07" selected="selected">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option>                    </select>
-                    <label class="visuallyhidden" for="lstOutwardMonthYear">Month/Year</label>   
-                    <select name="outm" id="lstOutwardMonthYear" class="TravelTimeMonthYear">
-                        <option value="06-2015" selected="selected">June 2015</option><option value="07-2015">July 2015</option><option value="08-2015">August 2015</option><option value="09-2015">September 2015</option>                    </select>
-                    <input type="hidden" name="lstOutward" class="lstOutward">
+
+                <div class="row">
+                    <label for="outward-journey1" class="visuallyhidden label">Outward Journey:</label>
+                    <div class="swapper">
+                        <!-- Not wanting date picker :( -->
+                        <input type="text" value="" name="outward-journey" id="outward-journey1" class="date-input outward-journey">   
+                        <!-- <select class="date-picker-split-day TravelTimeDay" name="outward-journey-day">
+                                                                                            <option  value='--'>--</option>
+                                                                                            <option  value='01'>01</option>
+                                                                                            <option  value='02'>02</option>
+                                                                                            <option  value='03'>03</option>
+                                                                                            <option  value='04'>04</option>
+                                                                                            <option  value='05'>05</option>
+                                                                                            <option selected value='06'>06</option>
+                                                                                            <option  value='07'>07</option>
+                                                                                            <option  value='08'>08</option>
+                                                                                            <option  value='09'>09</option>
+                                                                                            <option  value='10'>10</option>
+                                                                                            <option  value='11'>11</option>
+                                                                                            <option  value='12'>12</option>
+                                                                                            <option  value='13'>13</option>
+                                                                                            <option  value='14'>14</option>
+                                                                                            <option  value='15'>15</option>
+                                                                                            <option  value='16'>16</option>
+                                                                                            <option  value='17'>17</option>
+                                                                                            <option  value='18'>18</option>
+                                                                                            <option  value='19'>19</option>
+                                                                                            <option  value='20'>20</option>
+                                                                                            <option  value='21'>21</option>
+                                                                                            <option  value='22'>22</option>
+                                                                                            <option  value='23'>23</option>
+                                                                                            <option  value='24'>24</option>
+                                                                                            <option  value='25'>25</option>
+                                                                                            <option  value='26'>26</option>
+                                                                                            <option  value='27'>27</option>
+                                                                                            <option  value='28'>28</option>
+                                                                                            <option  value='29'>29</option>
+                                                                                            <option  value='30'>30</option>
+                                                                                            <option  value='31'>31</option>
+                                                    </select>
+                        <select class="date-picker-split-month TravelTimeMonthYear" name="outward-journey-month">
+                                                                                            <option  value='-- --'>-- --</option>
+                                                                                            <option selected value='December 2015'>December 2015</option>
+                                                                                            <option  value='January 2016'>January 2016</option>
+                                                                                            <option  value='February 2016'>February 2016</option>
+                                                    </select>
+                        <input type="hidden" class="lstOutwardContent" /> -->
+                    </div>
                 </div>
-                <div class="row row-2 TravelTimeLine">
-                    <label class="visuallyhidden" for="lstOutwardTimeOption">Options</label>
-                    <select name="outda" id="lstOutwardTimeOption" class="TravelTimeOption">
+
+                <div class="row TravelTimeLine">
+                    <label class="visuallyhidden" for="lstOutwardTimeOptioncontent">Options</label>
+                    <select class="TravelTimeOption" id="lstOutwardTimeOptioncontent" name="outda">
                         <option value="y">Depart after</option>
                         <option value="n">Arrive before</option>
                     </select>
-                    <label class="visuallyhidden" for="lstOutwardHour">Hour</label>
-                    <select name="outh" id="lstOutwardHour" class="TravelTimeHour">
-                        <option value="00">00</option><option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17" selected="selected">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option>                    </select>
-                    <label class="visuallyhidden" for="lstOutwardMinute">Minutes</label>
-                    <select name="outmi" id="lstOutwardMinute" class="TravelTimeMinute">
-                        <option value="00" selected="selected">00</option>
-                        <option value="15">15</option>
-                        <option value="30">30</option>
-                        <option value="45">45</option>
-                    </select>
+                    <label class="visuallyhidden" for="lstOutwardHourcontent">Hour</label>
+                    <select class="TravelTimeHour" id="lstOutwardHourcontent" name="outh">
+                                                                                <option value="00">00</option>
+                                                                                <option value="01">01</option>
+                                                                                <option value="02">02</option>
+                                                                                <option value="03">03</option>
+                                                                                <option value="04">04</option>
+                                                                                <option value="05">05</option>
+                                                                                <option selected="" value="06">06</option>
+                                                                                <option value="07">07</option>
+                                                                                <option value="08">08</option>
+                                                                                <option value="09">09</option>
+                                                                                <option value="10">10</option>
+                                                                                <option value="11">11</option>
+                                                                                <option value="12">12</option>
+                                                                                <option value="13">13</option>
+                                                                                <option value="14">14</option>
+                                                                                <option value="15">15</option>
+                                                                                <option value="16">16</option>
+                                                                                <option value="17">17</option>
+                                                                                <option value="18">18</option>
+                                                                                <option value="19">19</option>
+                                                                                <option value="20">20</option>
+                                                                                <option value="21">21</option>
+                                                                                <option value="22">22</option>
+                                                                                <option value="23">23</option>
+                                            </select>
+                    <label class="visuallyhidden" for="lstOutwardMinutecontent">Minutes</label>
+                    <select class="TravelTimeMinute" id="lstOutwardMinutecontent" name="outmi">
+                                                                                <option selected="" value="00">00</option>
+                                                                                <option value="15">15</option>
+                                                                                <option value="30">30</option>
+                                                                                <option value="45">45</option>
+                                            </select>
                 </div>
             </fieldset>
+
+            <fieldset class="box">
+                <div class="row">
+                    <div class="values">
+                        <!-- <label for="rdoOneWay"><input type="checkbox" checked value="n" name="ret" id="rdoOneWay">Single</label> &nbsp; -->
+                        <label class="return-journey-label" for="rdoReturncontent">
+                            
+                            <!-- <input id="check1" type="checkbox" checked > test checked -->
+                        </label>
+                        <input type="checkbox" value="y" name="ret" id="rdoReturncontent">Return Ticket
+                    </div>
+                </div>
+            </fieldset>
+
+
             <fieldset class="box returnJourney">
                 <h3>Return journey</h3>
                 <div class="row">
-                    <input id="chkOpenReturn" name="chkOpenReturn" type="checkbox">
-                    <label for="chkOpenReturn">Open Return (return anytime)</label>
+                    <input type="checkbox" name="chkOpenReturn" id="chkOpenReturncontent">
+                    <label for="chkOpenReturncontent">Open return (return anytime)</label>
                 </div>
-                <div class="row row-2 TravelDateLine">                                
-                    <label class="visuallyhidden" for="lstReturnDay">Day</label>
-                    <select name="retd" id="lstReturnDay" class="TravelTimeDay">
-                        <option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07" selected="selected">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option>                    </select>
-                    <label class="visuallyhidden" for="lstReturnMonthYear">Month/Year</label>
-                    <select name="retm" id="lstReturnMonthYear" class="TravelTimeMonthYear">
-                        <option value="06-2015" selected="selected">June 2015</option><option value="07-2015">July 2015</option><option value="08-2015">August 2015</option><option value="09-2015">September 2015</option>                    </select>
-                    <input type="hidden" name="lstReturn" class="lstReturn">
+
+
+                <div class="row">
+                    <label for="return-journey1" class="visuallyhidden label">Outward Journey:</label>
+                    <div class="swapper">
+                        <!-- Not wanting date picker :( -->
+                        <input type="text" value="" name="return-journey" id="return-journey1" class="date-input return-journey">   
+                    
+                        <!-- <select class="date-picker-split-day TravelTimeDay" name="return-journey-day">
+                                                                                            <option selected value='--'>--</option>
+                                                                                            <option  value='01'>01</option>
+                                                                                            <option  value='02'>02</option>
+                                                                                            <option  value='03'>03</option>
+                                                                                            <option  value='04'>04</option>
+                                                                                            <option  value='05'>05</option>
+                                                                                            <option  value='06'>06</option>
+                                                                                            <option  value='07'>07</option>
+                                                                                            <option  value='08'>08</option>
+                                                                                            <option  value='09'>09</option>
+                                                                                            <option  value='10'>10</option>
+                                                                                            <option  value='11'>11</option>
+                                                                                            <option  value='12'>12</option>
+                                                                                            <option  value='13'>13</option>
+                                                                                            <option  value='14'>14</option>
+                                                                                            <option  value='15'>15</option>
+                                                                                            <option  value='16'>16</option>
+                                                                                            <option  value='17'>17</option>
+                                                                                            <option  value='18'>18</option>
+                                                                                            <option  value='19'>19</option>
+                                                                                            <option  value='20'>20</option>
+                                                                                            <option  value='21'>21</option>
+                                                                                            <option  value='22'>22</option>
+                                                                                            <option  value='23'>23</option>
+                                                                                            <option  value='24'>24</option>
+                                                                                            <option  value='25'>25</option>
+                                                                                            <option  value='26'>26</option>
+                                                                                            <option  value='27'>27</option>
+                                                                                            <option  value='28'>28</option>
+                                                                                            <option  value='29'>29</option>
+                                                                                            <option  value='30'>30</option>
+                                                                                            <option  value='31'>31</option>
+                                                    </select>
+                        <select class="date-picker-split-month TravelTimeMonthYear" name="return-journey-month">
+                                                                                            <option selected value='-- --'>-- --</option>
+                                                                                            <option  value='December 2015'>December 2015</option>
+                                                                                            <option  value='January 2016'>January 2016</option>
+                                                                                            <option  value='February 2016'>February 2016</option>
+                                                    </select>
+                        <input type="hidden" class="lstReturnContent" /> -->
+                    </div>
                 </div>
-                <div class="row row-2 TravelTimeLine">
-                    <label class="visuallyhidden" for="lstReturnTimeOption">Options</label>
-                    <select name="retda" id="lstReturnTimeOption" class="TravelTimeOption">
+
+                <div class="row TravelTimeLine">
+                    <label class="visuallyhidden" for="lstReturnTimeOptioncontent">Options</label>
+                    <select class="TravelTimeOption" id="lstReturnTimeOptioncontent" name="retda">
                         <option value="y">Depart after</option>
                         <option value="n">Arrive before</option>
                     </select>
-                    <label class="visuallyhidden" for="lstReturnHour">Hour</label><select name="reth" id="lstReturnHour" class="TravelTimeHour">
-                        <option value="00">00</option><option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18" selected="selected">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option>                    </select>
+                    <label class="visuallyhidden" for="lstReturnHourcontent">Hour</label>
+                    <!-- Hours -->
+                    <label class="visuallyhidden" for="lstReturnHour">Hour</label>
+                    <select class="TravelTimeHour" id="lstReturnHour" name="reth">
+                                                                                <option value="00">00</option>
+                                                                                <option value="01">01</option>
+                                                                                <option value="02">02</option>
+                                                                                <option value="03">03</option>
+                                                                                <option value="04">04</option>
+                                                                                <option value="05">05</option>
+                                                                                <option value="06">06</option>
+                                                                                <option value="07">07</option>
+                                                                                <option selected="" value="08">08</option>
+                                                                                <option value="09">09</option>
+                                                                                <option value="10">10</option>
+                                                                                <option value="11">11</option>
+                                                                                <option value="12">12</option>
+                                                                                <option value="13">13</option>
+                                                                                <option value="14">14</option>
+                                                                                <option value="15">15</option>
+                                                                                <option value="16">16</option>
+                                                                                <option value="17">17</option>
+                                                                                <option value="18">18</option>
+                                                                                <option value="19">19</option>
+                                                                                <option value="20">20</option>
+                                                                                <option value="21">21</option>
+                                                                                <option value="22">22</option>
+                                                                                <option value="23">23</option>
+                                            </select>
+
+                    <!-- Minutes -->
                     <label class="visuallyhidden" for="lstReturnMinute">Minutes</label>
-                    <select name="retmi" id="lstReturnMinute" class="TravelTimeMinute">
-                        <option selected="selected" value="00">00</option>
-                        <option value="15">15</option>
-                        <option value="30">30</option>
-                        <option value="45">45</option>
-                    </select>
+                    <select class="TravelTimeMinute" id="lstReturnMinute" name="retmi">
+                                                                                <option selected="" value="00">00</option>
+                                                                                <option value="15">15</option>
+                                                                                <option value="30">30</option>
+                                                                                <option value="45">45</option>
+                                            </select>
                 </div>
+
             </fieldset>
             <fieldset class="box passengerBox">
                 <h3><a title="View passenger options" href="#" class="passenger">Passengers</a></h3>
                 <div class="passengersDiv">
                     <div class="row">
-                        <select name="nad" id="lstAdults" class="TravelAdult">
+                        <select class="TravelAdult" id="lstAdultscontent" name="nad">
                             <option value="0">0</option>
-                            <option selected="selected" value="1">1</option>
+                            <option value="1" selected="selected">1</option>
                             <option value="2">2</option>
                             <option value="3">3</option>
                             <option value="4">4</option>
@@ -471,10 +1264,11 @@
                             <option value="6">6</option>
                             <option value="7">7</option>
                             <option value="8">8</option>
+                            <option value="9">9</option>
                         </select>
-                        <label class="" id="lblAdults" for="lstAdults">Adults</label>
-                        <select name="nch" id="lstChildren" class="TravelChildren">
-                            <option selected="selected" value="0">0</option>
+                        <label class="lstAdults" id="lblAdults" for="lstAdultscontent">Adults</label>
+                        <select class="TravelChildren" id="lstChildrencontent" name="nch">
+                            <option value="0" selected="selected">0</option>
                             <option value="1">1</option>
                             <option value="2">2</option>
                             <option value="3">3</option>
@@ -483,95 +1277,178 @@
                             <option value="6">6</option>
                             <option value="7">7</option>
                             <option value="8">8</option>
+                            <option value="9">9</option>
                         </select>
-                        <label class="" id="lblChildren" for="lstChildren">Children</label>
-                    </div>        
+                        <label class="" id="lblChildren" for="lstChildrencontent">Children</label>
+                    </div>
                     <!--<div class="row divSmartcard">
                         <label for="chkSmartcards"> <input type="checkbox" value="1" name="sm" id="chkSmartcards">Only smartcard fares <img class="" alt="Fares only for ITSO smartcards" src="/graphics/ItsoIcon.png"></label>
                     </div>-->
-                    <div class="row">
-                        <input type="checkbox" name="chkRailcards" id="chkRailcards">
-                        <label for="chkRailcards">Add railcards</label>
+
+                     <div class="row groupsave">
+                        <input type="checkbox" name="groupSave" id="groupSave">
+                        <label for="groupSave">Groupsave</label>
                     </div>
-                    <div class="railcardDetailsDiv">
-                        <div class="row RailcardLines">
-                            <label class="label" for="lstRailcardDetails0">Railcard types*:</label>
-                            <div class="value">
-                                <select name="rc" id="lstRailcardDetails0" class="RailcardDetails" disabled="disabled">
-                                    <option value="YNG">16-25 Railcard</option>
-                                    <option value="DIS">Disabled </option>
-                                    <option value="FAM">Family &amp; Friends</option>
-                                    <option value="NGC">Network Gold Card</option>
-                                    <option value="NEW">Network Railcard</option>
-                                    <option value="HMF">HM Forces</option>
-                                    <option value="SRN">Senior</option>
-                                    <option value="JCP">Jobcentre Plus Travel Discount</option>
-                                    <option value="2TR">Two Together Railcard</option>
-                                </select>
-                                <label class="visuallyhidden" for="lstRailcardNumber0">Railcard number</label>
-                                <select name="rcn" id="lstRailcardNumber0" class="RailcardNumber" disabled="disabled">
-                                    <option value="1">1</option>
-                                    <option value="2">2</option>
-                                    <option value="3">3</option>
-                                    <option value="4">4</option>
-                                </select>
+
+
+                    <!-- NEW RAILCARD OPTIONS-->
+                    <div class="row railcardsrow railcardRowWrapper">
+                                                    <div class="addRailcardType1 addRailcardType">
+                                <div class="railcard-checkbox">
+                                    <input type="checkbox" name="chkRailcards1" id="chkRailcards1">
+                                    <label for="chkRailcards1">Add railcard</label>
+                                </div>
+                                <div class="railcard-type">
+                                    <!-- <label class="label fullwidth" for="lstRailcardDetails1">Railcard type:</label> -->
+
+                                    <div class="values">
+                                        <select class="RailcardDetails" id="lstRailcardDetails1" name="rc[]">
+                                                                                            <option value="YNG">16-25 Railcard</option>
+                                                                                            <option value="DIS">Disabled </option>
+                                                                                            <option value="FAM">Family &amp; Friends</option>
+                                                                                            <option value="NGC">Network Gold Card</option>
+                                                                                            <option value="NEW">Network Railcard</option>
+                                                                                            <option value="HMF">HM Forces</option>
+                                                                                            <option value="SRN">Senior</option>
+                                                                                            <option value="JCP">Jobcentre Plus Travel Discount</option>
+                                                                                            <option value="2TR">Two Together Railcard</option>
+                                                                                            <option value="DIC">Disabled Child</option>
+                                                                                    </select>
+                                        <label class="visuallyhidden" for="lstRailcardNumber1">Railcard number</label>
+                                        <select class="RailcardNumber" id="lstRailcardNumber1" name="rcn[]">
+                                                                                            <option value="0">0</option>
+                                                                                            <option value="1">1</option>
+                                                                                            <option value="2">2</option>
+                                                                                            <option value="3">3</option>
+                                                                                    </select>
+                                    </div>
+                                </div>
                             </div>
-                        </div>
-                        <!--                            <div class="row">Railcards must be carried on the journey with your tickets. <a title="Railcard Information (opens in new window)" target="_blank" href="#">more info</a></div>-->
+                                                    <div class="addRailcardType2 addRailcardType">
+                                <div class="railcard-checkbox">
+                                    <input type="checkbox" name="chkRailcards2" id="chkRailcards2">
+                                    <label for="chkRailcards2">Add railcard</label>
+                                </div>
+                                <div class="railcard-type">
+                                    <!-- <label class="label fullwidth" for="lstRailcardDetails2">Railcard type:</label> -->
+
+                                    <div class="values">
+                                        <select class="RailcardDetails" id="lstRailcardDetails2" name="rc[]">
+                                                                                            <option value="YNG">16-25 Railcard</option>
+                                                                                            <option value="DIS">Disabled </option>
+                                                                                            <option value="FAM">Family &amp; Friends</option>
+                                                                                            <option value="NGC">Network Gold Card</option>
+                                                                                            <option value="NEW">Network Railcard</option>
+                                                                                            <option value="HMF">HM Forces</option>
+                                                                                            <option value="SRN">Senior</option>
+                                                                                            <option value="JCP">Jobcentre Plus Travel Discount</option>
+                                                                                            <option value="2TR">Two Together Railcard</option>
+                                                                                            <option value="DIC">Disabled Child</option>
+                                                                                    </select>
+                                        <label class="visuallyhidden" for="lstRailcardNumber2">Railcard number</label>
+                                        <select class="RailcardNumber" id="lstRailcardNumber2" name="rcn[]">
+                                                                                            <option value="0">0</option>
+                                                                                            <option value="1">1</option>
+                                                                                            <option value="2">2</option>
+                                                                                            <option value="3">3</option>
+                                                                                    </select>
+                                    </div>
+                                </div>
+                            </div>
+                                                    <div class="addRailcardType3 addRailcardType">
+                                <div class="railcard-checkbox">
+                                    <input type="checkbox" name="chkRailcards3" id="chkRailcards3">
+                                    <label for="chkRailcards3">Add railcard</label>
+                                </div>
+                                <div class="railcard-type">
+                                    <!-- <label class="label fullwidth" for="lstRailcardDetails3">Railcard type:</label> -->
+
+                                    <div class="values">
+                                        <select class="RailcardDetails" id="lstRailcardDetails3" name="rc[]">
+                                                                                            <option value="YNG">16-25 Railcard</option>
+                                                                                            <option value="DIS">Disabled </option>
+                                                                                            <option value="FAM">Family &amp; Friends</option>
+                                                                                            <option value="NGC">Network Gold Card</option>
+                                                                                            <option value="NEW">Network Railcard</option>
+                                                                                            <option value="HMF">HM Forces</option>
+                                                                                            <option value="SRN">Senior</option>
+                                                                                            <option value="JCP">Jobcentre Plus Travel Discount</option>
+                                                                                            <option value="2TR">Two Together Railcard</option>
+                                                                                            <option value="DIC">Disabled Child</option>
+                                                                                    </select>
+                                        <label class="visuallyhidden" for="lstRailcardNumber3">Railcard number</label>
+                                        <select class="RailcardNumber" id="lstRailcardNumber3" name="rcn[]">
+                                                                                            <option value="0">0</option>
+                                                                                            <option value="1">1</option>
+                                                                                            <option value="2">2</option>
+                                                                                            <option value="3">3</option>
+                                                                                    </select>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        <div class="railcardErrors">                             
+                            <span class="rcerror-pass">Please note we're unable to accept more Railcards than passengers</span>
+                            <span class="rcerror-cards">Please note we're unable to accept more than nine Railcards</span>
+                        </div>  
+
+                        <div class="railcardErrorsPassengers">
+                            <span> 
+                                Please note you cannot select more than 9 passengers in total.
+                            </span>
+                        </div>   
+                        
                     </div>
+
+
+
+                   <!--  <div class="row">
+                        <input type="checkbox" name="chkRailcards" id="chkRailcards">
+                        <label for="chkRailcards">Add Railcards</label>
+                    </div> -->
+
+
                 </div>
             </fieldset>
-            <!--
-            <div class="box no-border">
-                <input id="chkSmartcards" name="sm" type="checkbox" value="1" />
-                <label for="chkSmartcards"><img src="/graphics/ItsoIcon.png" alt="Fares only for ITSO smartcards" class="right1"/>Only fares that can be &nbsp;&nbsp;&nbsp;&nbsp;loaded onto a smartcard </label>
-            </div>
-            -->
             <div class="box no-border">
                 <button type="submit" id="Search" name="Search" class="button fullwidth"><span>Find tickets</span></button>
             </div>
+
+
+            
         </div>
     </form>
+
+
+    
+
     <div class="buyticketslinks">
         <ul>
-            <li class="seasonTicket"><a title="Season Tickets" href="/tickets-and-fares/season-tickets/">Season Tickets</a></li>
-            <li class="onTrackApp"><a title="On track app" href="/your-journey/planning/app/">On track app</a></li>
-                        <li class="carPark"><a title="Pay for car parking" href="/your-journey/car-parks/">Car parking</a></li>
+            <li class="seasonTicket"><a href="/tickets-and-fares/season-tickets/" title="Buy tickets for the key">Season tickets</a></li>
+            <li class="onTrackApp"><a href="https://www.thameslinkrailway.com/your-journey/planning/app/" title="On Track app">On Track app</a></li>
+            <li class="carPark"><a href="/your-journey/car-parks/" title="Pay for car parking">Car park tickets</a></li>
         </ul>
-    </div> 
+    </div>
+
+
 </aside>
 
-<!--
 
-
-<div id="buyticketsbox">
-<form method="get" action="/external/atos.html">
-
-<div class="hed"><a href="#"><img src="/graphics/checktimeshed_closed.gif" alt="Check times &amp; buy tickets" width="228" height="36" /></a></div>
-<div id="searchbutton">
-<div class="box">
-<p><input id="radio01" name="radio" type="radio" value="radio01" checked="checked" /><label for="radio01">Check times &amp; buy tickets</label></p>
-<p><input id="radio02" name="radio" type="radio" value="radio02" /><label for="radio02">Just check times</label></p>
-<div class="button"><input type="image" name="Search" id="Search" src="/graphics/ticketsearch.gif" /></div>
-</div>
-</div>
-</form>
-</div>
-
--->
-    <div class="banners visible-desktop">
+<div class="desktop-polls visible-desktop">    
+</div>    <div class="banners visible-desktop">
         <ul class="no-bullet">
-                    <li><a href="/referrer/?id=7" target="_self"><img id="imagesidebanner1" src="/uploads/banner_uploads/6.png" alt="Thameslink On Track"></a></li>
-                    <li><a href="/referrer/?id=8" target="_self"><img id="imagesidebanner1" src="/uploads/banner_uploads/7.png" alt="Thameslink Programme"></a></li>
-                    <li><a href="/referrer/?id=5" target="_self"><img id="imagesidebanner1" src="/uploads/banner_uploads/4.png" alt="2FOR1 Offers"></a></li>
-                    <li><a href="/referrer/?id=6" target="_self"><img id="imagesidebanner1" src="/uploads/banner_uploads/5.png" alt="2FOR1 Offers"></a></li>
+                    <li><a href="/referrer/?id=7" target="_self"><img id="imagesidebanner1" src="/uploads/banner_uploads/6.jpg" alt="Thameslink On Track"></a></li>
+                    <li><a href="/referrer/?id=8" target="_self"><img id="imagesidebanner1" src="/uploads/banner_uploads/7.jpg" alt="Thameslink Programme"></a></li>
+                    <li><a href="/referrer/?id=6" target="_self"><img id="imagesidebanner1" src="/uploads/banner_uploads/5.jpg" alt="2FOR1 Offers"></a></li>
+                    <li><a href="/referrer/?id=9" target="_self"><img id="imagesidebanner1" src="/uploads/banner_uploads/8.jpg" alt="Our trains are made for Christmas"></a></li>
             </ul>
     </div>
-                    
-            </div>
-                        <!--/ignore_perlfect_search-->
-            <main role="main" class="main">
-                    <article class="content">
+    
+                </div>
+                <main role="main" class="main">
+                                            <!--/ignore_perlfect_search-->
+
+            <article class="content">
 
         <h1>
             Privacy policy        </h1>
@@ -598,18 +1475,17 @@
 <p>1.3. <u><strong>By providing us with your information you consent to our use of it in the manner set out in this policy.</strong></u></p>
 <p>1.4. For the purposes of the Data Protection Act 1998 (the “Act”), the Data Controller is:</p>
 <p><strong>Govia Thameslink Railway Limited </strong><br>
-3RD FLOOR <br>
-41-51 GREY STREET <br>
-NEWCASTLE UPON TYNE <br>
-NE1 6EE <br>
+Monument Place<br>
+24 Monument Street<br>
+London EC3R 8AJ<br>
 Company No. 07934306</p>
 <p>1.5 Our representative for the purpose of the Act is:</p>
-<p>Data Protection Officer<br>
-Internal Control Department<br>
-Hertford House<br>
-1 Cranwood Street<br>
-London <br>
-EC1V 9QS</p>
+<p>Chris Fisher<br>
+Internal Audit and Compliance Manager<br>
+1st Floor<br>
+Monument Place<br>
+24 Monument Street<br>
+London EC3R 8AJ</p>
 <p>More information about the Data Protection Act can be found on the <a title="Information Commissioners Website" href="http://www.ico.gov.uk">Information Commissioners website</a>&nbsp;</p>
 <h2><a name="section2"></a>2. Information we may collect from you</h2>
 <p>2.1. We may collect and process the following information about you:</p>
@@ -638,12 +1514,12 @@ EC1V 9QS</p>
 <h2><a name="section4"></a>4. Your rights</h2>
 <p>4.1. To prevent marketing to you: You have the right to ask us not to process your personal information for marketing purposes. We will usually&nbsp;inform you (before collecting your information) if we intend to use your information for such purposes or if we intend to disclose your&nbsp;information to any third party for such purposes. If you do not want us to use your information for marketing purposes please make sure that you&nbsp;indicate this via the tick box when you sign up or, if you have an account with us, by logging in and changing your contact preferences.</p>
 <p>4.2. To prevent all contact by us to you: Alternatively you can opt out at any time by contacting us by using the following details:</p>
-<p>Data Protection Officer<br>
-Internal Control Department<br>
-Hertford House<br>
-1 Cranwood Street<br>
-London <br>
-EC1V 9QS</p>
+<p>Chris Fisher<br>
+Internal Audit and Compliance Manager<br>
+1st Floor<br>
+Monument Place<br>
+24 Monument Street<br>
+London EC3R 8AJ</p>
 <p>More contact detail information can be found in our <a title="Contact us" href="/contact-us/">Contact Us</a> section.</p>
 <p>4.3. <strong>To request a Copy of your information: </strong>Under the Data Protection Act you can ask to see any personal information that we hold about you.</p>
 <p>Such requests are called subject access requests. To make a subject access request, please complete the <a title="Subject Access Request" href="/contact-us/frequently-asked-questions/contact-us-faqs/#c">subject access request form</a> set out&nbsp;here.  The details of the information you will be required to provide are contained in the form. A subject access request may be subject to a&nbsp;fee not exceeding £10 to meet our costs in providing you with details of the information we hold about you. Please contact our nominated&nbsp;representative for the purpose of the Act.</p>
@@ -727,51 +1603,43 @@ EC1V 9QS</p>
 <p>Our website may contain links to sites owned and operated by third parties. They have their own privacy policies, and we urge you to review them&nbsp;before browsing those sites.  We do not accept any responsibility or liability for the privacy practices of such third-party websites and your&nbsp;use of such websites is at your own risk.</p>
 <h2><a name="section11"></a>11. Changes to this Privacy Policy</h2>
 <p>11.1 We may occasionally update this statement.  Any changes that we make to our privacy policy in the future will be posted on this page, where&nbsp;appropriate Your continued use of the site will mean that you accept those revisions.</p>       </article>
-        <div class="banners hidden-desktop">
+    <div class="mobile-polls hidden-desktop"></div>    <div class="banners hidden-desktop">
         <ul class="no-bullet">
-                    <li><a href="/referrer/?id=7" target="_self"><img id="imagesidebanner1" src="/uploads/banner_uploads/6.png" alt="Thameslink On Track"></a></li>
-                    <li><a href="/referrer/?id=8" target="_self"><img id="imagesidebanner1" src="/uploads/banner_uploads/7.png" alt="Thameslink Programme"></a></li>
-                    <li><a href="/referrer/?id=5" target="_self"><img id="imagesidebanner1" src="/uploads/banner_uploads/4.png" alt="2FOR1 Offers"></a></li>
-                    <li><a href="/referrer/?id=6" target="_self"><img id="imagesidebanner1" src="/uploads/banner_uploads/5.png" alt="2FOR1 Offers"></a></li>
+                    <li><a href="/referrer/?id=7" target="_self"><img id="imagesidebanner1" src="/uploads/banner_uploads/6.jpg" alt="Thameslink On Track"></a></li>
+                    <li><a href="/referrer/?id=8" target="_self"><img id="imagesidebanner1" src="/uploads/banner_uploads/7.jpg" alt="Thameslink Programme"></a></li>
+                    <li><a href="/referrer/?id=6" target="_self"><img id="imagesidebanner1" src="/uploads/banner_uploads/5.jpg" alt="2FOR1 Offers"></a></li>
+                    <li><a href="/referrer/?id=9" target="_self"><img id="imagesidebanner1" src="/uploads/banner_uploads/8.jpg" alt="Our trains are made for Christmas"></a></li>
             </ul>
     </div>
-                      
-
-            </main><!-- end main -->
-            
-            
+                                    </main><!-- end main -->
+                    
         </div><!-- end page -->
-        
         <!--ignore_perlfect_search-->
-        
+                        
+
+
 <footer role="contentinfo" class="container">
     <div class="wrapper footerLinks">
                     <div class="columns">
-                <h2>Travel info</h2>
+                <h2>Travel information</h2>
                             <ul>
-                <li><a href="/your-journey/live-running-great-northern/">Live running - Great Northern</a></li>
-                <li><a href="/your-journey/live-running-thameslink/">Live running - Thameslink</a></li>
+                <li><a href="/your-journey/live-travel-info/">Live travel information</a></li>
                 <li><a href="/your-journey/timetables/">Timetables</a></li>
                 <li><a href="/your-journey/engineering/">Engineering works and changes to train times</a></li>
-                <li><a href="/contact-us/assisted-travel-service/">Assisted travel</a></li>
+                <li><a href="/about-us/network/">Our network</a></li>
+                <li><a href="/your-journey/station-information/">Station information</a></li>
+                <li><a href="/your-journey/thameslink-programme/jan15-jan18/">Major service changes - January 2015 to January 2018</a></li>
             </ul>
             </div>
                         <div class="columns">
-                <h2>Special offers</h2>
+                <h2>Customer service</h2>
                             <ul>
-                <li><a href="/destinations/special-offers/london-2for1/">London 2FOR1</a></li>
-                <li><a href="/destinations/special-offers/brighton-2for1/">Brighton 2FOR1</a></li>
-                <li><a href="/tickets-and-fares/groupsave/">GroupSave</a></li>
-                <li><a href="/tickets-and-fares/overnighter/">Overnighter</a></li>
-            </ul>
-            </div>
-                        <div class="columns">
-                <h2>Get in touch</h2>
-                            <ul>
-                <li><a href="/about-us/careers/">Careers</a></li>
                 <li><a href="/contact-us/form/">Comments form</a></li>
-                <li><a href="/contact-us/lost-property/">Lost property</a></li>
                 <li><a href="/contact-us/delay-repay/">Delay Repay</a></li>
+                <li><a href="/contact-us/lost-property/">Lost property</a></li>
+                <li><a href="/contact-us/eyewitness/">Eyewitness</a></li>
+                <li><a href="/about-us/careers/">Careers</a></li>
+                <li><a href="/about-us/transparency/">Transparency</a></li>
             </ul>
             </div>
                         <div class="columns">
@@ -779,39 +1647,66 @@ EC1V 9QS</p>
                             <ul>
                 <li><a href="/contact-us/terms/cookies/">Cookie policy</a></li>
                 <li><a href="/contact-us/terms/privacy-policy/">Privacy policy</a></li>
+                <li><a href="/contact-us/terms/">Terms and conditions</a></li>
                 <li><a href="/contact-us/terms/website-terms/">Website terms</a></li>
             </ul>
             </div>
-                </div>
-    <div class="wrapper copyright">
+                    <div class="columns">
+            <h2>Stay in touch</h2>
+            <ul class="social">
+                <li class="tlfacebook"><a href="http://www.facebook.com/ThamesLinkRailUK" target="_blank">Thameslink</a></li>
+                <li class="tltwitter"><a href="https://twitter.com/tlrailuk" target="_blank">@TLRailUK</a></li>
+                <br>
+                <li class="gnfacebook"><a href="http://www.facebook.com/GreatNorthernRailUK" target="_blank">Great Northern</a></li>
+                <li class="gntwitter"><a href="https://twitter.com/gnrailuk" target="_blank">@GNRailUK</a></li>
+
+            </ul>
+        </div>
+    </div>
+    <div class="row copyright">
         <div class="columns">
-<!--            <ul class="inline-list no-bullet socialMedia">
-                <li class="facebook"><a href="#">facebook</a></li>
-                <li class="twitter"><a href="#">twitter</a></li>
-            </ul>-->
-            <p>Our website uses cookies to enhance your browsing and purchasing experience. By using our site you agree to our use of cookies as outlined in our <a href="/contact-us/terms/cookies/">cookie policy.</a></p>
-            <p>Thameslink and Great Northern are trading names of Govia Thameslink Railway Ltd. <br>Registered in England under number: 7934306. <br>Registered office: 3rd Floor, 41-51 Grey Street, Newcastle upon Tyne, NE1 6EE. <br>
-            Govia Thameslink Railway Ltd is a wholly owned subsidiary of Govia Ltd.</p>
-            <p>Designed and developed by <a href="http://www.imaginet.co.uk">Imaginet</a></p>
+            <!--            <ul class="inline-list no-bullet socialMedia">
+                            <li class="facebook"><a href="#">facebook</a></li>
+                            <li class="twitter"><a href="#">twitter</a></li>
+                        </ul>-->
+            <p>Our website uses cookies to enhance your browsing and purchasing experience. By using our site you agree to our use of cookies as outlined in our cookie policy.</p>
+
+            <p>Thameslink and Great Northern are trading names of Govia Thameslink Railway Ltd.
+                Registered in England under number: 7934306.
+                Registered office: 3rd Floor, 41-51 Grey Street, Newcastle upon Tyne, NE1 6EE.
+                Govia Thameslink Railway Ltd is a wholly owned subsidiary of Govia Ltd. </p>
         </div>
         <div class="columns">
-            <img alt="Thameslink" src="/graphics/footer-thameslink-logo.png">
-            <img alt="Great Northen" src="/graphics/footer-GTR-logo.png">
+            <p>Designed and developed by <a href="http://www.imaginet.co.uk">Imaginet</a></p>
+            <!--<img alt="Thameslink" src="/graphics/footer-thameslink-logo.png">-->
+            <!--<img alt="Great Northen" src="/graphics/footer-GTR-logo.png">-->
         </div>
     </div>
 </footer>
 <script src="/js/plugins.js"></script>
 <script src="/imports/nre/nre-station-list.js"></script>
 <script src="/imports/atosorigin/atos-station-list.js"></script>
+<script src="/imports/otr/cache.js"></script>
+<script src="/js/jquery.matchHeight.js"></script>
+<script src="/js/responsive-tables.js"></script>
 <script src="/js/main.js"></script>
 <script src="/js/home.js"></script>
+<script src="/js/ajax.js"></script>
+<script src="/js/otr.js"></script>
 
-<script type="text/javascript" src="http://api.reciteme.com/asset/js?key=1581cdba24647dd6975179c223c896e269f6e153"></script>
+<script type="text/javascript" src="//api.reciteme.com/asset/js?key=1581cdba24647dd6975179c223c896e269f6e153"></script>
 <script type="text/javascript">
     Recite.load({
-        enableButton: '.reciteme'
+        enableButton: '.reciteme-mobile'       
     });
+    Recite.load({
+        enableButton: '.reciteme'       
+    });
+
 </script>
+
+
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -827,16 +1722,23 @@ EC1V 9QS</p>
     }
 </style>
 <script>
-  var versaTag = {}; versaTag.id = "1947";   versaTag.sync = 0; versaTag.dispType = "js";
-  versaTag.ptcl = "HTTP"; versaTag.bsUrl = "bs.serving-sys.com/BurstingPipe";
-  versaTag.activityParams = { "OrderID":"","Session":"","Value":"","productid":"","productinfo":"","Quantity":"" };
-  versaTag.retargetParams = {}; versaTag.dynamicRetargetParams = {};  versaTag.conditionalParams = {};
+    var versaTag = {};
+    versaTag.id = "1947";
+    versaTag.sync = 0;
+    versaTag.dispType = "js";
+    versaTag.ptcl = "HTTP";
+    versaTag.bsUrl = "bs.serving-sys.com/BurstingPipe";
+    versaTag.activityParams = {"OrderID": "", "Session": "", "Value": "", "productid": "", "productinfo": "", "Quantity": ""};
+    versaTag.retargetParams = {};
+    versaTag.dynamicRetargetParams = {};
+    versaTag.conditionalParams = {};
 </script>
-<script id="ebOneTagUrlId" src="http://ds.serving-sys.com/SemiCachedScripts/ebOneTag.js"></script>
+<script id="ebOneTagUrlId" src="https://secure-ds.serving-sys.com/SemiCachedScripts/ebOneTag.js"></script>
 <noscript>
-  <iframe src="http://bs.serving-sys.com/BurstingPipe?cn=ot&amp;onetagid=1947&amp;ns=1&amp;activityValues=$$Value=[Value]&amp;OrderID=[OrderID]&amp;Session=[Session]&amp;ProductID=[ProductID]&amp;ProductInfo=[ProductInfo]&amp;Quantity=[Quantity]$$&amp;retargetingValues=$$$$&amp;dynamicRetargetingValues=$$$$&amp;acp=$$$$&amp;" style="display:none;width:0px;height:0px"></iframe>
+<iframe src="https://secure-bs.serving-sys.com/BurstingPipe?cn=ot&amp;onetagid=1947&amp;ns=1&amp;activityValues=$$Value=[Value]&amp;OrderID=[OrderID]&amp;Session=[Session]&amp;ProductID=[ProductID]&amp;ProductInfo=[ProductInfo]&amp;Quantity=[Quantity]$$&amp;retargetingValues=$$$$&amp;dynamicRetargetingValues=$$$$&amp;acp=$$$$&amp;" style="display:none;width:0px;height:0px"></iframe>
 </noscript>
         <!--/ignore_perlfect_search-->
 
     
+
 </body></html>
