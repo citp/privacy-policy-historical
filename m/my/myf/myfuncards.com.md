@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfuncards.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607231921id_/http%3A//eula.mindspark.com/ask/pp/fwp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfuncards.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206234512id_/http%3A//eula.mindspark.com/ask/pp/fwp) for the most accurate reproduction.*
 
 # Privacy Policy Summary
 
