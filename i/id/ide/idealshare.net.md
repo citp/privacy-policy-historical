@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idealshare.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607071929id_/http%3A//www.idealshare.net/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idealshare.net privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206113611id_/http%3A//www.idealshare.net/about/privacy.html) for the most accurate reproduction.*
 
 # iDealshare Privacy Policy
 
@@ -14,11 +14,11 @@ When you place an order on our website, your full name, email address, mailing a
 
 Credit card information in encrypted during the ordering process and is deleted as soon as your order is completed. All other personal information (name, address and product ordered) is held to assist delivery of goods (if applicable), and product registration.
 
-We will never collect sensitive information about you without your explicit consent. 
+We will never collect sensitive information about you without your explicit consent.
 
 Any information collected will NOT be sold or given to any third party(ies) by any means, and will only be used for sending the registration information, product upgrades, special offers, updated information and other new services from iDealshare. If you do not want to receive the above info, you email support@idealshare.net.
 
-## About cookies 
+## About cookies
 
 In order to better understand what services are valuable to our customers, we use "cookies". A cookie is a small text file that a Website writes to your hard drive. Cookies let the web page server know that you have returned to this site. Cookies also can determine other information, such as the daily visitors to our website and the pages of the site most frequently visited. Cookies are unique and can only be read by the server that assigns them. They cannot be executed as code or deliver viruses.
 
