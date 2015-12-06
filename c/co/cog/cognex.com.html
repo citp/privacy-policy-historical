@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the cognex.com privacy policy that was archived on 2015-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610001149id_/http%3A//www.cognex.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cognex.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206081526id_/http%3A//www.cognex.com/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head id="ctl00_Head1"><script type="text/javascript" async="" src="//img03.en25.com/i/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/WorkArea/FrameworkUI/js/ektron.javascript.ashx?id=-203637752+-907017858+861986600"></script><link rel="stylesheet" type="text/css" href="/WorkArea/FrameworkUI/css/ektron.stylesheet.ashx?id=1336402157+596852847"><title>Privacy Policy</title>
+<!DOCTYPE html><html><head id="ctl00_Head1"><link rel="stylesheet" type="text/css" href="/WorkArea/FrameworkUI/css/ektron.stylesheet.ashx?id=1336402157+-1273785927+-2059428848"><script type="text/javascript" async="" src="//img03.en25.com/i/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/WorkArea/FrameworkUI/js/ektron.javascript.ashx?id=189558253+-160545197+-1399061981+1885960932+336601246"></script><title>Privacy Policy</title>
 <script type="text/javascript">
     var WRInitTime = (new Date()).getTime();
 </script>
 
 <script type="text/javascript">
     var _elqQ = _elqQ || [];
-    _elqQ.push(['elqSetSiteId', '462232510']);
+    _elqQ.push(['elqSetSiteId', '1258492888']);
     _elqQ.push(['elqTrackPageView']);
 
     (function () {
@@ -92,18 +92,58 @@
  
     <script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>
     <script type="text/javascript" src="/js/global.js"></script>
+    <script type="text/javascript" src="/js/jquery.cookie.js"></script>
 
     
+    <script language="javascript" type="text/javascript">
+        $(document).ready(function () {
+            if ($("#ctl00_Hidden_CookieEU").val() == "true") {
+                $("#EuroCookieDiv").show();
+
+                // GH's stuff displays cookie notice, now add class to make header & global nav scrollable (normal inline elements)
+                $(".header_container").addClass('static');
+                $(".topnav_container").addClass('static');
+                $(".sectionhead_container").addClass('static');
+                $(".content_container").addClass('static');
+                $(".footer_container").addClass('pbContentAdjust');
+            }
+        });
+
+        function CloseCookieEU() {
+            // onClick reset header & global nav to a fixed position
+            $(".header_container").removeClass('static').addClass('sticky');
+            $(".topnav_container").removeClass('static').addClass('stickyNav');
+            $(".sectionhead_container").removeClass('static').addClass('sticky');
+            $(".content_container").removeClass('static').addClass('sticky');
+            $(".footer_container").removeClass('pbContentAdjust').addClass('pbContentAdjustSticky');
+
+            $.cookie("eucog", "false");
+            $("#EuroCookieDiv").slideUp('100');
+        }
+		
+		function SearchNav()
+		{
+			var s = $("#ctl00_tbSearch").val();
+			if(s != "")
+			{
+				document.location = "/search/TabSearch.aspx?srch=" + s;
+				}
+		}
+		
+    </script>
+	
+
 <!-- PBContentTemplate.master -->
 </head>
-<body id="new-page">
+<body id="new-page" onload="removeCruft()">
 
-<a href="#top"></a>
 
+
+<a id="top" name="top">&nbsp;</a>
 <form method="post" action="/privacy.aspx" id="aspnetForm">
 <div class="aspNetHidden">
-<input type="hidden" name="EktronClientManager" id="EktronClientManager" value="-907017858,-203637752,861986600,1336402157,596852847">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+<input type="hidden" name="EktronClientManager" id="EktronClientManager" value="1336402157,1885960932,-1399061981,-160545197,189558253,336601246,-1273785927,-2059428848">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzExNTA2NDQ2D2QWAmYPZBYGAgEPZBYGAgQPFgIeBFRleHQFHTx0aXRsZT5Qcml2YWN5IFBvbGljeTwvdGl0bGU+ZAIFD2QWAmYPFgIeB1Zpc2libGVnZAIIDxYCHwAFSjxtZXRhIG5hbWU9ImRlc2NyaXB0aW9uIiBjb250ZW50ID0gIlByaXZhY3kgUG9saWN5IC0gQ29nbmV4IENvcnBvcmF0aW9uIi8+ZAIFEGRkFhYCAQ8WAh8ABbgBVGhpc8Kgc2l0ZcKgdXNlc8KgY29va2llc8KgdG/CoGVuaGFuY2XCoHlvdXLCoHVzZXLCoGV4cGVyaWVuY2UuwqBJZsKgeW91wqBjb250aW51ZcKgd2l0aG91dMKgY2hhbmdpbmfCoHlvdXLCoHNldHRpbmdzLMKgd2UnbGzCoGFzc3VtZcKgdGhhdMKgeW91wqBhcmXCoGhhcHB5wqB0b8KgcmVjZWl2ZcKgYWxswqBjb29raWVzLmQCAw8WAh8ABQlSZWFkIE1vcmVkAgcPFgIfAWcWAgIBDxYCHwAFMkNhbGwgQ29nbmV4IFNhbGVzOiAgIA0KODU1LTQtQ09HTkVYICg4NTUtNDI2LTQ2MzkpZAIJD2QWAgIBD2QWAmYPFgIfAAUKQ29udGFjdCB1c2QCCw8WAh8BaBYCZg9kFgJmDxAPFgYeDkRhdGFWYWx1ZUZpZWxkBQNLZXkeDURhdGFUZXh0RmllbGQFBVZhbHVlHgtfIURhdGFCb3VuZGdkEBUND0Nob29zZSBMYW5ndWFnZQdEZXV0c2NoDkVuZ2xpc2ggKFUuSy4pDkVuZ2xpc2ggKFUuUy4pCEVzcGHDsW9sCUZyYW7Dp2FpcwhJdGFsaWFubxNQb3J0dWd1ZXNlIChCcmFzaWwpHdGA0YPRgdGB0LrQuNC5ICjQoNC+0YHRgdC40Y8pCe2VnOq1reyWtAnml6XmnKzoqp4d5rGJ6K+tKOS4reWNjuS6uuawkeWFseWSjOWbvSkO5ryi6KqeKOiHuueBoykVDQEwBDEwMzEEMjA1NwQxMDMzBDEwMzQEMTAzNgQxMDQwBDEwNDYEMTA0OQQxMDQyBDEwNDEEMjA1MgQxMDI4FCsDDWdnZ2dnZ2dnZ2dnZ2cWAWZkAg0PZBYCAgEPFgIfAAUXVW5pdGVkIFN0YXRlcyB8IEVuZ2xpc2hkAhMPFgIeBXN0eWxlBTBiYWNrZ3JvdW5kLWltYWdlOnVybCgvZ2Z4L0RlZmF1bHRQYWdlQmFubmVyLmpwZykWAgIBDxYCHgNzcmMFDi9nZngvYmxhbmsuZ2lmZAIVD2QWAgIBDxYCHwAFNDxsaT48YSBocmVmPSIvIj5Ib21lPC9hPjwvbGk+PGxpPlByaXZhY3kgUG9saWN5PC9saT5kAhkPZBYEAgEPZBYCZg9kFgRmD2QWAgIDD2QWAmYPZBYCAgEPFgIeBWNsYXNzBRBkcm9wem9uZSBQQkNsZWFyZAIBD2QWAgIBD2QWAmYPZBYCAgEPZBYCAgEPFgIeC18hSXRlbUNvdW50AgEWAmYPZBYGZg8VAhMgc3R5bGU9J3dpZHRoOjEwMCUnAGQCAQ8WAh8BaGQCAw8WAh8IZmQCAw9kFgJmD2QWBGYPZBYCAgMPZBYCZg9kFgICAQ8WAh8HBRBkcm9wem9uZSBQQkNsZWFyZAIBD2QWAgIBD2QWAmYPZBYCAgEPZBYCAgEPFgIfCAIBFgJmD2QWBmYPFQIAAGQCAQ8WAh8BaGQCAw8WAh8IAgFkAhsPZBYCAgEPZBYCZg9kFgRmD2QWAgIDD2QWAmYPZBYCAgEPFgIfBwUQZHJvcHpvbmUgUEJDbGVhcmQCAQ9kFgICAQ9kFgJmD2QWAgIBD2QWAgIBDxYCHwgCARYCZg9kFgZmDxUCEyBzdHlsZT0nd2lkdGg6MTAwJScAZAIBDxYCHwFoZAIDDxYCHwhmZAIfD2QWBAIBD2QWDmYPDxYGHgVUaXRsZQUORm9vdGVyIENvbnRlbnQeE0NhdGFsb2dJY29uSW1hZ2VVcmwFLi9Xb3JrQXJlYS9pbWFnZXMvYXBwbGljYXRpb24vaWNvbl9kb2N1bWVudC5naWYeEVRpdGxlSWNvbkltYWdlVXJsZWRkAgEPFgIfAAUTVGVjaG5pY2FsIERvd25sb2Fkc2QCAg8WAh8ABQ1QYXJ0bmVyIGxvZ2luZAIDDxYCHwAFCUludmVzdG9yc2QCBA8WAh8ABQdQcml2YWN5ZAIFDxYCHwAFDkNoYW5nZSBDb3VudHJ5ZAIGDxYCHwBlZAIDDxYCHwFoZAIHD2QWBGYPFgIfAWdkAgoPFgIfAWdkGAYFKmN0bDAwJHV4Qm90dG9tQ29udGVudCRkcm9wWm9uZTIkdXhVWFN3aXRjaA8PZAIBZAUqY3RsMDAkdXhDZW50ZXJDb250ZW50JGRyb3Bab25lMyR1eFVYU3dpdGNoDw9kAgFkBWNjdGwwMCR1eENlbnRlckNvbnRlbnQkZHJvcFpvbmUzJHV4Q29sdW1uRGlzcGxheSRjdGwwMCR1eENvbnRyb2xDb2x1bW4kY3RsMDAkdXhXaWRnZXRIb3N0JHV4VVhTd2l0Y2gPD2QCAWQFK2N0bDAwJHV4V2lkZ2V0UGFnZUhvc3QkUGFnZUhvc3QxJHV4VVhTd2l0Y2gPD2QCAWQFdGN0bDAwJHV4Q2VudGVyQ29udGVudCRkcm9wWm9uZTMkdXhDb2x1bW5EaXNwbGF5JGN0bDAwJHV4Q29udHJvbENvbHVtbiRjdGwwMCR1eFdpZGdldEhvc3QkdXhXaWRnZXRIb3N0X3dpZGdldCRWaWV3U2V0Dw9kZmQFLGN0bDAwJHV4Q2VudGVyQ29udGVudCRMUGRyb3Bab25lMSR1eFVYU3dpdGNoDw9kAgFkNQ+huxa0ypfl/VvvfaSskoRClu0=">
 </div>
 
 
@@ -118,12 +158,25 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         <div class="site_container sub press">
             <div class="header_container">
                 <div class="header">
+                    <div id="EuroCookieDiv" style="display:none; height:35px; margin-bottom:7px; border-bottom:solid 1px #f9dd00; box-shadow:0px 0px 1px 0px;">
+						<div style="float:left; padding-top:7px; padding-left:15px; font-size:1.08em; width:90%;">
+                        This&nbsp;site&nbsp;uses&nbsp;cookies&nbsp;to&nbsp;enhance&nbsp;your&nbsp;user&nbsp;experience.&nbsp;If&nbsp;you&nbsp;continue&nbsp;without&nbsp;changing&nbsp;your&nbsp;settings,&nbsp;we'll&nbsp;assume&nbsp;that&nbsp;you&nbsp;are&nbsp;happy&nbsp;to&nbsp;receive&nbsp;all&nbsp;cookies.							
+						&nbsp;
+                        <a href="/privacy.aspx">Read More</a>
+						</div>
+						<div style="float:right; padding-top:7px; padding-right:10px;">						
+							<input type="button" id="euCkClose" class="leadButton" onclick="CloseCookieEU(); return false;" value="X" style="border:0px; height:16px; padding-top:2px; padding-left:6px; padding-right:6px;">
+						</div>
+						<div style="clear"></div>
+                        <input type="hidden" name="ctl00$Hidden_CookieEU" id="ctl00_Hidden_CookieEU">
+					</div>  
                     <div class="logo"><a href="/" rel="nofollow"><img src="/gfx/site/pic-global-header-logo-cognex.png" alt="Cognex"></a></div>
                     <div class="headernav">
                         <div class="headernav_contact_container">
                             <ul class="headernav_contact">
                                 
-                                    <li class="headernav_contact_sales">Call Cognex Sales: 855-4-COGNEX (855-426-4639)</li>
+                                    <li class="headernav_contact_sales">Call Cognex Sales:   
+855-4-COGNEX (855-426-4639)</li>
                                 
                                 
                                     <li class="headernav_contact_us"><a href="Home/ContactUs.aspx" id="ctl00_A1">Contact us</a></li>
@@ -217,52 +270,63 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 <span><a href="/products.aspx">Products</a></span>
                 <div class="cmm_submenu_0">
                 <div id="ctl00_Megamenu1_ParentNav_ctl01_cbPanel">
-	<ul>
-<li id="cmm_heading_main" class="cmm_heading"><a href="/products/machine-vision/">Machine Vision</a></li>
+	<ul data-role="listview" class="ui-listview">
+<li id="cmm_heading_main" data-icon="false" class="cmm_heading mobile_menu"><a href="/products/machine-vision/">Machine Vision</a></li>
 <li><a href="/products/machine-vision/in-sight-vision-systems/">In-Sight Vision Systems</a></li>
-<li><a href="/products/machine-vision/checker-industrial-vision-sensor/">Checker Vision Sensors</a></li>
+<li><a href="/programs/in-sight-2000-vision-sensor/">In-Sight Vision Sensors</a></li>
 <li><a href="/products/machine-vision/cognex-designer-vision-software/">Cognex Designer Vision Software</a></li>
 <li><a href="/products/machine-vision/visionpro-vision-software/">VisionPro Vision Software</a></li>
 <li><a href="/products/machine-vision/ds-1000-displacement-sensor-laser-profiler/">DS1000 Laser Profilers</a></li>
-<br><li id="cmm_heading_main"><a href="/image-engines.aspx">OEM Products</a></li>
+<li><a href="/products/machine-vision/checker-industrial-vision-sensor/">Checker Vision Sensors</a></li>
+<li id="cmm_heading_main" data-icon="false" class="cmm_heading mobile_menu"><a href="/image-engines.aspx">OEM Products</a></li>
 <li><a href="/products/machine-vision/advantage-100-series/">Advantage Vision and ID Systems</a></li>
 <li><a href="/products/machine-vision/ae2-advantage-vision-engines/">AE2 Image Engines</a></li>
 <li><a href="/products/machine-vision/cognex-vision-library/">Cognex Vision Library (CVL)</a></li>
 </ul>
-<ul>
-<li id="cmm_heading_main" class="cmm_heading"><a href="/products/barcode-readers-scanners/">Barcode Readers</a></li>
-<li id="cmm_heading_main"><a href="/products/barcode-readers-scanners/fixed-mount-barcode-readers/">Fixed-mount Barcode Readers</a></li>
+<ul data-role="listview" class="ui-listview">
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="/products/barcode-readers-scanners/">Barcode Readers</a></li>
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="/products/barcode-readers-scanners/fixed-mount-barcode-readers/">Fixed-mount Barcode Readers</a></li>
 <li><a href="/products/barcode-readers-scanners/dataman-50-60-compact-barcode-reader/">DataMan 50/60 Series</a></li>
 <li><a href="/products/barcode-readers-scanners/dataman-150-260-barcode-decoder/">DataMan 150/260 Series</a></li>
 <li><a href="/products/barcode-readers-scanners/dataman-100-200-barcode-decoder/">DataMan 100/200 Series</a></li>
 <li><a href="/products/barcode-readers-scanners/dataman-300-fixed-mount-DPM-barcode-reader/">DataMan 300/360 Series</a></li>
+<li><a href="/products/barcode-readers-scanners/dataman-503/">DataMan 503 Series</a></li>
 <li><a href="/products/barcode-readers-scanners/In-Sight-ID-barcode-readers/features/">In-Sight ID Series</a></li>
-<br><li id="cmm_heading_main"><a href="/products/barcode-reader-scanner/handheld-barcode-reader/">Handheld Barcode Readers</a></li>
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="/products/barcode-reader-scanner/handheld-barcode-reader/">Handheld Barcode Readers</a></li>
 <li><a href="/products/industrial-id/handheld-barcode-readers/dataman-8600-series/features/">DataMan 8600 Series</a></li>
 <li><a href="/products/barcode-readers-scanners/dataman-8050-industrial-barcode-reader/">DataMan 8050 Series</a></li>
 <li><a href="/products/barcode-readers-scanners/dataman-700-ESD-safe-barcode-reader/">DataMan 700 Series</a></li>
-<br><li id="cmm_heading_main"><a href="/products/barcode-readers-scanners/dataman-9500-handheld-barcode-reader-mobile-computer/">Mobile Computers</a></li>
-<br><li id="cmm_heading_main"><a href="/products/barcode-readers-scanners/dataman-barcode-verifiers/">Barcode Verifiers</a></li>
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="/products/barcode-readers-scanners/dataman-9500-handheld-barcode-reader-mobile-computer/">Mobile Computers</a></li>
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="/products/barcode-readers-scanners/dataman-barcode-verifiers/">Barcode Verifiers</a></li>
 </ul>
-<ul>
+<ul data-role="listview" class="ui-listview">
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a title="Leading Technology" href="/vision-technology-leader.aspx">Leading Technology</a></li>
+<li><a title="Continuous Innovation" href="/vision-technology-leader.aspx">Continuous Innovation</a></li>
+<li><a title="Part Location with PatMax" href="/pattern-matching-technology.aspx">Part Location with PatMax</a></li>
+<li><a title="Barcode Reading Technologies" href="/ID-code-reading-technologies.aspx">Barcode Reading Technologies</a></li>
+<li><a title="OCR Technology" href="/ocr-optical-character-recognition.aspx">OCR Technology</a></li>
+<li><a title="Advanced Color Tools" href="/advanced-color-applications.aspx">Advanced Color Tools</a></li>
+<li><a title="Making Vision Deployment Easy" href="/machine-vision-software.aspx">Making Vision Deployment Easy</a></li>
+<li><a title="Cognex Connect Communications Suite" href="/cognex-connect-communications.aspx">Cognex Connect Communications Suite</a></li>
+<li><a title="Cognex Explorer Control Center" href="/vision-system-maintenance-control-utility.aspx">Cognex Explorer Control Center</a></li>
+<li><a title="TestRun Validation Utility" href="/testrun-validation-utility.aspx">TestRun Validation Utility</a></li>
+<li><a title="Liquid Lens Technology" href="/liquid-lens.aspx">Liquid Lens Technology</a></li>
+<li><a title="Xpand Technology" href="/xpand-technology">Xpand Technology</a></li>
+</ul>
+<ul data-role="listview" class="ui-listview hide_on_mobile">
 <li id="cmm_heading_nolink" class="cmm_heading"><a>Industry-Specific Solutions</a></li>
 <li><a href="/data-verification-systems-in-sight.aspx">In-Sight Track &amp; Trace Software</a></li>
-<li><a href="/OmniView-Cylindrical-Product-Inspection-System.aspx">OmniView Cylindrical Inspection</a></li>
 <li><a href="/wafer-identifcation.aspx">Wafer Identifcation</a></li>
 <li><a href="/semiconductor-software.aspx">Semiconductor Software</a></li>
 <li><a href="/logistics-barcode-readers.aspx">Logistics Barcode Readers</a></li>
 <li><a href="/Cognex-Explorer-Real-Time-Monitoring.aspx">Cognex Explorer Real Time Monitoring</a></li>
 <li><a href="/pv-solar-id-reader.aspx">Solar Barcode Readers</a></li>
 <li><a href="/tire-barcode-reading.aspx">Cognex Tire Solutions</a></li>
-<br><li id="cmm_heading_main"><a href="/sisd/">Surface Vision</a></li>
-<li><a href="/web-surface-inspection-overview.aspx">SmartView Systems</a></li>
-<li><a href="/smartadvisor-web-monitoring-technology.aspx">SmartAdvisor Systems</a></li>
-<li><a href="/software-surface-inspection.aspx">Upgrades and Enhancements</a></li>
-<li><a href="/ExploreLearn/TrainingPrograms/SmartViewTrainingList.aspx">Surface Vision Training</a></li>
+<li><a href="/products/industry-solutions/airport-automatic-tag-reader-solutions/">Airport Automatic Tag Reader Solution</a></li>
 </ul>
 </div>
                 <div id="ctl00_Megamenu1_ParentNav_ctl01_cbCTA">
-	<div style="text-align: center;"><a class="cmm_subfoot" href="/products/industrial-id/handheld-barcode-readers/dataman-8600-series/features?cm_campid=34263114-9637-E411-94A3-5EF3FCDAF1B7"><img src="/uploadedImages/Home/Cognex_Mega_Menu/CTA-8600.jpg"></a></div>
+	<div style="text-align: center;"><a class="cmm_subfoot" href="/programs/in-sight-2000-vision-sensor/?locale=us&amp;langtype=1033&amp;cm_campid=CBF9EBE8-588D-E511-80D1-005056A466C7"><img alt="MenuBanner-IS2000-US" src="/uploadedImages/Home/Cognex_Mega_Menu/MenuBanner_IS2000_EN.jpg" title="MenuBanner-IS2000-US"></a></div>
 </div>
                 </div>
 		    </li>
@@ -271,47 +335,52 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 <span><a href="/manufacturing-industry-sectors.aspx">Industries</a></span>
                 <div class="cmm_submenu_1">
                 <div id="ctl00_Megamenu1_ParentNav_ctl02_cbPanel">
-	<ul>
-<li id="cmm_heading_main" class="cmm_heading"><a href="/automation-equipment.aspx">Automation Equipment</a></li>
+	<ul data-role="listview" class="ui-listview">
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="/automation-equipment.aspx">Automation Equipment</a></li>
 <li><a href="/OEM-Machine-Builders-and-Equipment-Suppliers.aspx">Machine Builders and Suppliers</a></li>
 <li><a href="/Robotic-System-Integrators.aspx">Robotic Systems Integrators</a></li>
 <li><a href="/Systems-Integrators-Line-Builders.aspx">Integrators and Line Builders</a></li>
-<br><li id="cmm_heading_main"><a title="Automotive" href="/industries/automotive/automotive-solutions/">Automotive</a></li>
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a title="Automotive" href="/industries/automotive/automotive-solutions/">Automotive</a></li>
 <li><a href="/industries/automotive/automotive-applications/">Automotive Applications</a></li>
 <li><a href="/industries/automotive/quality-and-compliance.aspx">Quality and Compliance</a></li>
 <li><a href="/industries/automotive/manufacturing-cost-reduction.aspx">Cost Reduction and <br>Process Optimization</a></li>
 <li><a href="/industries/automotive/automotive-application-videos.aspx">Automotive Videos</a></li>
-<br><li id="cmm_heading_main"><a href="/consumer-products.aspx">Consumer Products</a></li>
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="/consumer-products.aspx">Consumer Products</a></li>
 <li><a href="/consumer-product-packaging-equipment.aspx">Equipment Automation</a></li>
 <li><a href="/reduce-manufacturing-waste.aspx">Reduce Waste</a></li>
 <li><a href="/consumer-product-traceability.aspx">Traceability and Process Control</a></li>
 </ul>
-<ul>
-<li id="cmm_heading_main" class="cmm_heading"><a href="/Electronics-Manufacturing.aspx">Electronics Products</a></li>
+<ul data-role="listview" class="ui-listview">
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="/Electronics-Manufacturing.aspx">Electronics Products</a></li>
 <li><a href="/OEM-Capital-Equipment-Manufacturers.aspx">OEM Capital Equipment</a></li>
 <li><a href="/Finished-Electronic-Device-Manufacturers.aspx">Finished Device Manufacturers</a></li>
 <li><a href="/Electronics-Traceability-Brand-Protection-and-Process-Control.aspx">Traceability and Process Control</a></li>
-<br><li id="cmm_heading_main"><a href="/food-and-beverage.aspx">Food and Beverage</a></li>
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="/food-and-beverage.aspx">Food and Beverage</a></li>
 <li><a href="/allergen-management.aspx">Allergen Management</a></li>
 <li><a href="/food-traceability.aspx">Traceability and Compliance</a></li>
 <li><a href="/product-quality-assembly-verification-package-inspection.aspx">Quality and Inspection</a></li>
 <li><a href="/food-barcode-reading-demos.aspx">Food and Beverage Demo Videos</a></li>
-<br><li id="cmm_heading_main"><a href="/industries/logistics-solutions/">Logistics</a></li>
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="/industries/life-sciences-solutions/">Life Science</a></li>
+<li><a href="/industries/life-sciences-solutions/IVD-Lab-Automation/">IVD Lab Automation</a></li>
+<li><a href="/industries/life-sciences-solutions/Hospital-Automation/">Hospital Automation</a></li>
+</ul>
+<ul data-role="listview" class="ui-listview">
+<li id="cmm_heading_main" class="mobile_menu" data-icon="false"><a href="/industries/logistics-solutions/">Logistics</a></li>
 <li><a href="/industries/logistics/automated-sorting/">Automated Sorting</a></li>
 <li><a href="/industries/logistics/hand-sorting/">Hand Sorting</a></li>
 <li><a href="/industries/logistics/bulk-sorting/">Bulk Sorting</a></li>
-</ul>
-<ul>
-<li id="cmm_heading_main" class="cmm_heading"><a href="/pharmaceuticals-ID-inspection-solutions.aspx ">Pharmaceutical/Medical</a></li>
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="/pharmaceuticals-ID-inspection-solutions.aspx ">Pharmaceutical/Medical</a></li>
 <li><a href="/brand-protection-package-inspection.aspx">Package Inspection</a></li>
 <li><a href="/pharmaceuticals-inspection.aspx">Pharmaceuticals Protection</a></li>
 <li><a href="/medical-device-inspection.aspx">Medical Devices</a></li>
 <li><a href="/clinical-diagnostics.aspx">Clinical Diagnostics</a></li>
-<br><li id="cmm_heading_main"><a href="/cognex-vision-wafer-thinfilm.aspx">Semiconductor</a></li>
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="/cognex-vision-wafer-thinfilm.aspx">Semiconductor</a></li>
 <li><a href="/wafer-inspection.aspx">Wafer Challenges</a></li>
 <li><a href="/die-quality.aspx">Die Quality</a></li>
 <li><a href="/mounting-traceability.aspx">Mounting and Traceability</a></li>
-<br><li id="cmm_heading_main"><a href="/solar-cells-inspection-systems.aspx">Solar</a></li>
+</ul>
+<ul data-role="listview" class="ui-listview">
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="/solar-cells-inspection-systems.aspx">Solar</a></li>
 <li><a href="/wafer-inspection.aspx">Wafer Challenges</a></li>
 <li><a href="/cell-fabrication-cell-sorting.aspx">Cell Fabrication</a></li>
 <li><a href="/solar-module-assembly-inspection.aspx">Module Assembly and Traceability</a></li>
@@ -328,38 +397,35 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 <span><a href="/machine-vision-applications.aspx">Applications</a></span>
                 <div class="cmm_submenu_2">
                 <div id="ctl00_Megamenu1_ParentNav_ctl03_cbPanel">
-	<ul>
-<li id="cmm_heading_nolink" class="cmm_heading"><a>Industry Applications</a></li>
-<li><a href="/customer-success-stories/automotive/">Automotive</a></li>
-<li><a href="/customer-success-stories/consumerproducts/">Consumer Products</a></li>
-<li><a href="/customer-success-stories/electronics/">Electronics</a></li>
-<li><a href="/customer-success-stories/foodbeverage/">Food &amp; Beverage</a></li>
-<li><a href="/customer-success-stories/logistics/">Logistics</a></li>
-<li><a href="/customer-success-stories/medical/">Medical Devices</a></li>
-<li><a href="/customer-success-stories/pharmaceutical/">Pharmaceuticals</a></li>
-<li><a href="/customer-success-stories/packaging/">Packaging</a></li>
-<li><a href="/customer-success-stories/solar/">Solar</a></li>
-<li><a href="/customer-success-stories/webandsurface/">Web and Surface Inspection</a></li>
-<li><a href="/customer-success-stories/other/">Other Industries</a></li>
+	<ul data-role="listview" class="ui-listview">
+<li id="cmm_heading_main" data-icon="false" class="cmm_heading mobile_menu"><a href="/customer-stories/">Customer Stories</a></li>
+<li><a href="/customer-stories/customer-stories-search-results.aspx?i=2">Automotive</a></li>
+<li><a href="/customer-stories/customer-stories-search-results.aspx?i=5">Consumer Products</a></li>
+<li><a href="/customer-stories/customer-stories-search-results.aspx?i=9">Electronics</a></li>
+<li><a href="/customer-stories/customer-stories-search-results.aspx?i=11">Food &amp; Beverage</a></li>
+<li><a href="/customer-stories/customer-stories-search-results.aspx?i=15">Logistics</a></li>
+<li><a href="/customer-stories/customer-stories-search-results.aspx?i=17">Medical Devices</a></li>
+<li><a href="/customer-stories/customer-stories-search-results.aspx?i=24">Pharmaceuticals</a></li>
+<li><a href="/customer-stories/customer-stories-search-results.aspx?i=23">Packaging</a></li>
+<li><a href="/customer-stories/customer-stories-search-results.aspx?i=28">Solar</a></li>
+<li><a href="/customer-stories/customer-stories-search-results.aspx?i=31">Other Industries</a></li>
 </ul>
-<ul>
+<ul data-role="listview" class="ui-listview hide_on_mobile">
 <li id="cmm_heading_nolink" class="cmm_heading"><a>Application Types</a></li>
-<li><a href="/customer-success-stories/eliminatedefects/">Eliminate defects</a></li>
-<li><a href="/customer-success-stories/verifyassembly/">Verify Assembly</a></li>
-<li><a href="/customer-success-stories/automateproduction/">Automate Production</a></li>
-<li><a href="/customer-success-stories/identification/">Identification</a></li>
+<li><a href="/customer-stories/customer-stories-search-results.aspx?b=1">Eliminate defects</a></li>
+<li><a href="/customer-stories/customer-stories-search-results.aspx?b=4">Verify Assembly</a></li>
+<li><a href="/customer-stories/customer-stories-search-results.aspx?b=2">Automate Production</a></li>
+<li><a href="/customer-stories/customer-stories-search-results.aspx?b=3">Identification</a></li>
 <li>&nbsp;</li>
 <li id="cmm_heading_nolink"><a>Return on Investment </a></li>
 <li><a href="/Return-on-Investment.aspx">ROI: Eliminate Defects</a></li>
 <li><a href="/verify-assembly.aspx">ROI: Verify Assembly </a></li>
 <li><a href="/automate-production.aspx">ROI: Automate Production </a></li>
 <li><a href="/track-parts.aspx">ROI: Track Parts </a></li>
-<li><a href="/roi-web-surface-inspection.aspx">ROI: Web &amp; Surface Inspection</a></li>
 </ul>
-<ul>
-<li id="cmm_heading_main" class="cmm_heading"><a href="/vision-inspection-solutions.aspx">Products In Action</a></li>
+<ul data-role="listview" class="ui-listview">
+<li id="cmm_heading_main" data-icon="false" class="cmm_heading mobile_menu"><a href="/vision-inspection-solutions.aspx">Products In Action</a></li>
 <li><a href="/ExploreLearn/Products/?id=6134">Bottles</a></li>
-<li><a href="/ExploreLearn/Products/?id=6142">Cell Phones</a></li>
 <li><a href="/ExploreLearn/Products/?id=6144">Computers</a></li>
 <li><a href="/ExploreLearn/Products/?id=6138">Disc Brakes</a></li>
 <li><a href="/ExploreLearn/Products/?id=6152">Medical Devices</a></li>
@@ -368,7 +434,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 <li><a href="/ExploreLearn/Products/?id=6146">Ready Meals</a></li>
 <li><a href="/ExploreLearn/Products/?id=6150">Solar Cells</a></li>
 </ul>
-<ul>
+<ul data-role="listview" class="ui-listview hide_on_mobile">
 <li id="cmm_heading_nolink" class="cmm_heading"><a>Testimonials</a></li>
 <li><a href="/ApplicationsIndustries/Testimonials/?id=450">Return on Investment</a></li>
 <li><a href="/ApplicationsIndustries/Testimonials/?id=452">Ease of Use</a></li>
@@ -376,7 +442,6 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 <li><a href="/ApplicationsIndustries/Testimonials/?id=456">Support</a></li>
 <li><a href="/ApplicationsIndustries/Testimonials/?id=462">Technology</a></li>
 <li><a href="/ApplicationsIndustries/Testimonials/?id=458">Value</a></li>
-<li><a href="/ApplicationsIndustries/Testimonials/?id=460">Web &amp; Surface Inspection</a></li>
 </ul>
 </div>
                 <div id="ctl00_Megamenu1_ParentNav_ctl03_cbCTA">
@@ -389,42 +454,40 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 <span><a href="/support/">Support</a></span>
                 <div class="cmm_submenu_3">
                 <div id="ctl00_Megamenu1_ParentNav_ctl04_cbPanel">
-	<ul>
-<li id="cmm_heading_main" class="cmm_heading"><a href="/Support/InSight/">In-Sight Support</a></li>
+	<ul data-role="listview" class="ui-listview">
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="/Support/InSight/">In-Sight Support</a></li>
 <li><a href="/Support/InSight/Software.aspx">Software &amp; Firmware</a></li>
 <li><a href="/Support/InSight/Documentation.aspx">Documentation</a></li>
 <li><a href="/Support/InSight/training.aspx">Training Material</a></li>
-<br><li id="cmm_heading_main"><a href="/Support/VisionPro/">VisionPro Support</a></li>
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="/Support/VisionPro/">VisionPro Support</a></li>
 <li><a href="/Support/VisionPro/Software.aspx">Software</a></li>
 <li><a href="/Support/VisionPro/Documentation.aspx">Documentation</a></li>
 <li><a href="/Support/VisionPro/training.aspx">Training Material</a></li>
 </ul>
-<ul>
-<li id="cmm_heading_main" class="cmm_heading"><a href="/Support/DataMan/">DataMan Support</a></li>
+<ul data-role="listview" class="ui-listview">
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="/Support/DataMan/">DataMan Support</a></li>
 <li><a href="/Support/DataMan/Software.aspx">Software &amp; Firmware</a></li>
 <li><a href="/Support/DataMan/Documentation.aspx">Documentation</a></li>
 <li><a href="/Support/DataMan/training.aspx">Training Material</a></li>
-<br><li id="cmm_heading_main"><a href="/Support/Checker/">Checker Support</a></li>
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="/Support/Checker/">Checker Support</a></li>
 <li><a href="/Support/Checker/Software.aspx">Software &amp; Firmware</a></li>
 <li><a href="/Support/Checker/Documentation.aspx">Documentation</a></li>
 <li><a href="/Support/Checker/training.aspx">Training Material</a></li>
-<br><li id="cmm_heading_main"><a href="/support/cognex-designer/">Cognex Designer Support</a></li>
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="/support/cognex-designer/">Cognex Designer Support</a></li>
 <li><a href="/support/cognex-designer/training.aspx">Training Material</a></li>
 </ul>
-<ul>
-<li id="cmm_heading_main" class="cmm_heading"><a href="/training.aspx">Cognex Training</a></li>
+<ul data-role="listview" class="ui-listview">
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="/training.aspx">Cognex Training</a></li>
 <li><a href="/ExploreLearn/TrainingPrograms/TrainingList.aspx">Classroom Training</a></li>
 <li><a href="/on-demand-training.aspx">On-Demand Training</a></li>
 <li><a href="/training-videos.aspx">Recorded Courses</a></li>
-<li><a href="/ExploreLearn/TrainingPrograms/SmartViewTrainingList.aspx">SmartView Training</a></li>
-<br><li id="cmm_heading_main"><a href="/Support/DS1000/">DS1000 Support</a></li>
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="/Support/DS1000/">DS1000 Support</a></li>
 <li><a href="/Support/DS1000/software.aspx">Software &amp; Firmware</a></li>
 <li><a href="/Support/DS1000/Documentation.aspx">Documentation</a></li>
 <li><a href="/support/ds1000/training.aspx">Training Material</a></li>
-<br><li id="cmm_heading_main"><a href="/SmartView-support.aspx">SmartView Support</a></li>
 </ul>
-<ul>
-<li id="cmm_heading_main" class="cmm_heading"><a href="/Support/Other/">Other Product Support</a></li>
+<ul data-role="listview" class="ui-listview">
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="/Support/Other/">Other Product Support</a></li>
 <li><a href="/support/dvt/">DVT Support</a></li>
 <li><a href="/support/visionview/">VisionView Support</a></li>
 <li><a href="/support/cvl/">CVL Support</a></li>
@@ -445,12 +508,12 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 <span><a href="/howtobuy.aspx">How to Buy</a></span>
                 <div class="cmm_submenu_4">
                 <div id="ctl00_Megamenu1_ParentNav_ctl05_cbPanel">
-	<ul>
-<li id="cmm_heading_main" class="cmm_heading"><a href="/contact-sales.aspx?cm_campid=6EAA8922-E95D-E411-94A3-5EF3FCDAF1B7">Contact Sales</a></li>
-<li><a href="/contact-pricing.aspx?cm_campid=9DFA21A9-E95D-E411-94A3-5EF3FCDAF1B7">Get Product Pricing</a></li>
-<li><a href="/contact-demo.aspx?cm_campid=0226ACF6-E95D-E411-94A3-5EF3FCDAF1B7">Get a Product Demonstration</a></li>
+	<ul data-role="listview" class="ui-listview">
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="/contact-sales.aspx?cm_campid=6EAA8922-E95D-E411-94A3-5EF3FCDAF1B7">Contact Sales</a></li>
+<li class="mobile_menu" data-icon="false"><a href="/contact-pricing.aspx?cm_campid=9DFA21A9-E95D-E411-94A3-5EF3FCDAF1B7">Get Product Pricing</a></li>
+<li class="mobile_menu" data-icon="false"><a href="/contact-demo.aspx?cm_campid=0226ACF6-E95D-E411-94A3-5EF3FCDAF1B7">Get a Product Demonstration</a></li>
 </ul>
-<ul>
+<ul data-role="listview" class="ui-listview">
 <li id="cmm_heading_main" class="cmm_heading"><a>Live Events</a></li>
 <li><a href="/machine-vision-seminars.aspx">Seminars</a></li>
 <li><a href="/explorelearn/findoutmore/tradeshows/?id=88">Trade Shows</a></li>
@@ -458,7 +521,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 </ul>
 </div>
                 <div id="ctl00_Megamenu1_ParentNav_ctl05_cbCTA">
-	<div style="text-align: center;"><a class="cmm_subfoot" href="products/barcode-readers-scanners/dataman-50-60-compact-barcode-reader/"><img src="/uploadedImages/Home/Cognex_Mega_Menu/MenuBanner_DataMan5060.jpg?n=9534"></a></div>
+	<div style="text-align: center;"><a class="cmm_subfoot" href="/products/barcode-readers-scanners/dataman-50-60-compact-barcode-reader/"><img src="/uploadedImages/Home/Cognex_Mega_Menu/MenuBanner_DataMan5060.jpg?n=9534"></a></div>
 </div>
                 </div>
 		    </li>
@@ -467,16 +530,16 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 <span><a href="/resources.aspx">Resources</a></span>
                 <div class="cmm_submenu_5">
                 <div id="ctl00_Megamenu1_ParentNav_ctl06_cbPanel">
-	<ul>
+	<ul data-role="listview" class="ui-listview">
 <li id="cmm_heading_main" class="cmm_heading"><a>Videos and Literature</a></li>
-<li><a href="/videos/">Cognex Video Library</a></li>
-<li><a href="/vision-inspection-solutions.aspx">Product Demos</a></li>
-<li><a href="/ExploreLearn/FindOutMore/WhitePapersArticles/WhitePapersAndArticles.aspx">White Papers and Articles</a></li>
-<li><a href="/ExploreLearn/FindOutMore/Webinars/OnDemandWebinars.aspx">On-Demand Webinars</a></li>
-<li><a href="/training-videos.aspx">Recorded Training</a></li>
+<li class="mobile_menu" data-icon="false"><a href="/videos/">Cognex Videos</a></li>
+<li class="mobile_menu" data-icon="false"><a href="/vision-inspection-solutions.aspx">Product Demos</a></li>
+<li class="mobile_menu" data-icon="false"><a href="/ExploreLearn/FindOutMore/WhitePapersArticles/WhitePapersAndArticles.aspx">White Papers and Articles</a></li>
+<li class="mobile_menu" data-icon="false"><a href="/ExploreLearn/FindOutMore/Webinars/OnDemandWebinars.aspx">On-Demand Webinars</a></li>
+<li class="mobile_menu" data-icon="false"><a href="/training-videos.aspx">Recorded Training</a></li>
 </ul>
-<ul>
-<li id="cmm_heading_main" class="cmm_heading"><a>Events</a></li>
+<ul data-role="listview" class="ui-listview">
+<li id="cmm_heading_main" class="cmm_heading" data-icon="false"><a>Events</a></li>
 <li><a href="/machine-vision-seminars.aspx">Seminars</a></li>
 <li><a href="/ExploreLearn/FindOutMore/Tradeshows/?id=88">Tradeshows</a></li>
 <li><a href="/training.aspx">Training</a></li>
@@ -485,17 +548,17 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 <li><a href="/ExploreLearn/TrainingPrograms/PartnerWorkshopList.aspx">Workshops</a></li>
 <li><a href="/ExploreLearn/FindOutMore/Podcasts/Podcasts.aspx">Podcasts</a></li>
 </ul>
-<ul>
-<li id="cmm_heading_main"><a>Blogs</a></li>
+<ul data-role="listview" class="ui-listview">
+<li id="cmm_heading_main" class="cmm_heading"><a>Blogs</a></li>
 <li><a href="/Connect/BlogHubVision.aspx">Sensors, Systems and Software</a></li>
 <li><a href="/Connect/BloghubID.aspx">Barcode Readers</a></li>
-<br><li id="cmm_heading_main" class="cmm_heading"><a href="/symbologies/">Symbologies</a></li>
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="/symbologies/">Symbologies</a></li>
 <li><a href="/symbologies/1-d-linear-barcodes/">1-D Linear Barcodes</a></li>
 <li><a href="/symbologies/2-d-matrix-codes/">2-D Matrix Codes</a></li>
 <li><a href="/symbologies/postal-codes/">Postal Codes</a></li>
 <li><a href="/symbologies/stacked-linear-barcodes/">Stacked Linear Barcodes</a></li>
 </ul>
-<ul>
+<ul data-role="listview" class="ui-listview">
 <li id="cmm_heading_main" class="cmm_heading"><a>Interactive Tools</a></li>
 <li><a href="/ExploreLearn/UsefulTools/Costadvisor/?id=3992">Cost Saving Advisor</a></li>
 <li><a href="/ExploreLearn/UsefulTools/LensAdvisor/?id=8341">Lens Advisor</a></li>
@@ -516,36 +579,36 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 <span><a href="/corporate-overview.aspx">Company</a></span>
                 <div class="cmm_submenu_6">
                 <div id="ctl00_Megamenu1_ParentNav_ctl07_cbPanel">
-	<ul>
-<li id="cmm_heading_main" class="cmm_heading"><a href="/corporate-overview.aspx">Overview</a></li>
+	<ul data-role="listview" class="ui-listview">
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="/corporate-overview.aspx">Overview</a></li>
 <li><a href="/CognexInfo/Video.aspx?id=7889">Cognex Intro Video</a></li>
 <li><a href="/what-is-machine-vision.aspx">About Machine Vision</a></li>
 <li><a href="/CognexInfo/Video.aspx?id=7867">Vision Made Simple Video</a></li>
 <li><a href="/company-facts.aspx">Key Data</a></li>
 <li><a href="/company-history.aspx">Company History</a></li>
-<br><li id="cmm_heading_main"><a>News</a></li>
+<li id="cmm_heading_main" class="cmm_heading"><a>News</a></li>
 <li><a href="/CognexInfo/PressReleases/">Press Releases</a></li>
 <li><a href="/vision-product-news.aspx">Vision Product News</a></li>
 <li><a href="/customer-success-stories/newapps/">New Application Stories</a></li>
 <li><a href="/media-press-room.aspx">Media Resources</a></li>
 </ul>
-<ul>
-<li id="cmm_heading_main" class="cmm_heading"><a href="/careers.aspx">Careers</a></li>
+<ul data-role="listview" class="ui-listview">
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="/careers.aspx">Careers</a></li>
 <li><a href="/cognexinfo/careers/careers.aspx">Positions Available</a></li>
 <li><a href="/cognexinfo/careers/resumesubmit.aspx">Resume Submissions</a></li>
 <li><a href="/benefits.aspx">Benefits</a></li>
-<br><li id="cmm_heading_main"><a href="/philanthropy.aspx">Cognex Giving</a></li>
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="/philanthropy.aspx">Cognex Giving</a></li>
 <li><a href="/giving-guidelines.aspx">Giving Guidelines</a></li>
 <li><a href="/giving-history.aspx">Past Projects</a></li>
-<br><li id="cmm_heading_main"><a href="/environmental-policies.aspx">Environmental Policies</a></li>
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="/environmental-policies.aspx">Environmental Policies</a></li>
 <li><a href="/environment-manufacturing.aspx">How Cognex Vision Helps</a></li>
 </ul>
-<ul>
-<li id="cmm_heading_main" class="cmm_heading"><a href="http://cgnx.client.shareholder.com/" target="_blank">Investor Information</a></li>
-<br><li id="cmm_heading_main"><a>Leadership</a></li>
+<ul data-role="listview" class="ui-listview">
+<li id="cmm_heading_main" class="cmm_heading mobile_menu" data-icon="false"><a href="http://cgnx.client.shareholder.com/" target="_blank">Investor Information</a></li>
+<li id="cmm_heading_main" class="cmm_heading"><a>Leadership</a></li>
 <li><a href="/senior-management.aspx">Senior Management</a></li>
 <li><a href="/board-of-directors.aspx">Board of Directors</a></li>
-<br><li id="cmm_heading_main" class="cmm_heading"><a>Worldwide Facilities</a></li>
+<li id="cmm_heading_main" class="cmm_heading"><a>Worldwide Facilities</a></li>
 <li><a href="/facilities-americas.aspx?terms=worldwide+facilities">Americas</a></li>
 <li><a href="/facilities-europe.aspx">Europe</a></li>
 <li><a href="/facilities-asia.aspx">Asia</a></li>
@@ -566,7 +629,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 	
                         <div class="topnav_search">
                             <input name="ctl00$tbSearch" type="text" value="Search Cognex" id="ctl00_tbSearch" class="textfield clear_text_onfocus">
-                            <input type="button" name="ctl00$btnSearch" value="" onclick="javascript:__doPostBack('ctl00$btnSearch','')" id="ctl00_btnSearch" class="btnSearchImg">
+                            <input type="button" name="ctl00$btnSearch" value="" onclick="SearchNav(); return false;__doPostBack('ctl00$btnSearch','')" id="ctl00_btnSearch" class="btnSearchImg">
                         </div>
                     
 </div>
@@ -575,7 +638,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         <div id="ctl00_divSection" class="sectionhead_container sectionhead_tall" style="background-image:url(/gfx/DefaultPageBanner.jpg)"> 
             <div class="sectionhead"><img src="/gfx/blank.gif" id="ctl00_imgSectionText" class="headline"></div>
         </div>
-        <div class="content_container">
+        <div class="content_container pbContentAdjust">
             <div class="content_frame" id="content_frame_ie7">
                 <div class="content_background">
                     
@@ -590,60 +653,77 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 	                    
   
 
-    <script type="text/javascript" language="JavaScript">
+    <script type="text/javascript">
         Ektron.PBSettings = { 'dontClose': false }
     </script>
 
 
 
 
+        <div class="ektron-ux-UITheme ux-app-siteApppageBuilder-setSizeTemplate">
+            
+        </div>
+        <script id="EktronScriptBlockgnkwe" type="text/javascript">
+
+Ektron.ready(function(event, eventName){
+
+                $ektron(".ux-app-siteApppageBuilder-setSizeTemplate .ui-dialog-buttonpane a").button();
+                $ektron(".ux-app-siteApppageBuilder-setSizeTemplate .framework").accordion({
+                    heightStyle: "content",
+                    activate: function(event, ui){
+                        $ektron(ui).closest(".ui-accordion").accordion("refresh");
+                    }
+                });
+                $ektron(".ux-app-siteApppageBuilder-setSizeTemplate").draggable({ handle: "div.ui-dialog-titlebar ", containment: $ektron("body") });
+            
+});
+
+
+</script>
+        
+        
+    
 
 
 		                      
 
    
-
-<div id="ctl00_uxCenterContent_LPdropZone1_updatepanel">
+        <div id="ctl00_uxCenterContent_LPdropZone1_uxUpdatePanel" class="">
 	
-        <div id="ctl00_uxCenterContent_LPdropZone1_dzcontainer" class="dropzone PBClear">
+                <div id="ctl00_uxCenterContent_LPdropZone1_uxDropZone" data-ux-pagebuilder="DropZone">
+                    
+                            <div data-ux-pagebuilder="Column" style="width:100%">
+                                
+                                <ul>
+                                    
+                                </ul>
+                            </div>
+                        
+                </div>
             
-            
-                    <div id="ctl00_uxCenterContent_LPdropZone1_columnDisplay_ctl00_zone" class="PBViewing" style="width:100%;">
-                        <ul id="ctl00_uxCenterContent_LPdropZone1_columnDisplay_ctl00_column" class="columnwidgetlist" columnid="12" columnguid="00000000-0000-0000-0000-000000000000">
-                            
-                            
-                        </ul>
-                    </div>
-                
-        </div>
-    
 </div>
-
-
+    
 
      <!-- Header drop zone -->  
      <div id="PBLPmainContentBody">   
        
-
-<div id="ctl00_uxCenterContent_dropZone3_updatepanel">
+        <div id="ctl00_uxCenterContent_dropZone3_uxUpdatePanel" class="">
 	
-        <div id="ctl00_uxCenterContent_dropZone3_dzcontainer" class="dropzone PBClear">
-            
-            
-                    <div id="ctl00_uxCenterContent_dropZone3_columnDisplay_ctl00_zone" class="PBViewing">
-                        <ul id="ctl00_uxCenterContent_dropZone3_columnDisplay_ctl00_column" class="columnwidgetlist" columnid="0" columnguid="00000000-0000-0000-0000-000000000000">
-                            
-                            
-                                    <li class="PBItem">
-                                        <div id="ctl00_uxCenterContent_dropZone3_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_dropcontainer" class="widget">
-    <span id="ctl00_uxCenterContent_dropZone3_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_lblErrorMessage"></span>
-    <div id="ctl00_uxCenterContent_dropZone3_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_updatepanel">
+                <div id="ctl00_uxCenterContent_dropZone3_uxDropZone" data-ux-pagebuilder="DropZone">
+                    
+                            <div data-ux-pagebuilder="Column">
+                                
+                                <ul>
+                                    
+                                            <li>
+                                                
+        <div id="ctl00_uxCenterContent_dropZone3_uxColumnDisplay_ctl00_uxControlColumn_ctl00_uxWidgetHost_uxUpdatePanel">
 		
-            
-            <div class="content">
-                
-        
-        <div id="ctl00_uxCenterContent_dropZone3_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_WidgetHost_widget_CB">
+                <div data-ux-pagebuilder="Widget">
+                    
+                    <div class="widgetBody">
+                        
+        <div id="ctl00_uxCenterContent_dropZone3_uxColumnDisplay_ctl00_uxControlColumn_ctl00_uxWidgetHost_uxWidgetHost_widget_CB">
 			<h1>Privacy Policy</h1>
 <p class="subtitle">LEGAL INFORMATION: Cognex Corporation</p>
 <p><strong>© Copyright 1996 - <script type="text/javascript"><!--
@@ -665,55 +745,52 @@ document.write(new Date().getFullYear());
 <p>If you have any comments or questions regarding our privacy policy, please contact us at <a href="mailto:privacy@cognex.com">privacy@cognex.com</a>. We will address any issue to the best of our abilities.</p>
 		</div>
         
-        
-        <span id="ctl00_uxCenterContent_dropZone3_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_WidgetHost_widget_errorLb"></span>
+        <span id="ctl00_uxCenterContent_dropZone3_uxColumnDisplay_ctl00_uxControlColumn_ctl00_uxWidgetHost_uxWidgetHost_widget_errorLb"></span>
     
-            </div>
-        
-	</div>
-</div>
-                                    </li>
-                                
-                        </ul>
                     </div>
-                
-        </div>
+                </div>
+            
+	</div>
     
+                                            </li>
+                                        
+                                </ul>
+                            </div>
+                        
+                </div>
+            
 </div>
-
- 
+     
     </div>   
 
 	  
 		                    
    
-
-<div id="ctl00_uxBottomContent_dropZone2_updatepanel">
+        <div id="ctl00_uxBottomContent_dropZone2_uxUpdatePanel" class="">
 	
-        <div id="ctl00_uxBottomContent_dropZone2_dzcontainer" class="dropzone PBClear">
+                <div id="ctl00_uxBottomContent_dropZone2_uxDropZone" data-ux-pagebuilder="DropZone">
+                    
+                            <div data-ux-pagebuilder="Column" style="width:100%">
+                                
+                                <ul>
+                                    
+                                </ul>
+                            </div>
+                        
+                </div>
             
-            
-                    <div id="ctl00_uxBottomContent_dropZone2_columnDisplay_ctl00_zone" class="PBViewing" style="width:100%;">
-                        <ul id="ctl00_uxBottomContent_dropZone2_columnDisplay_ctl00_column" class="columnwidgetlist" columnid="10" columnguid="00000000-0000-0000-0000-000000000000">
-                            
-                            
-                        </ul>
-                    </div>
-                
-        </div>
-    
 </div>
-
-
+    
 	  
 	                </div>
                 </div>
             </div>
         </div>
-            
-            <div class="linkToTop"><a href="#top">^</a></div>
-            
+    <!--div class="linkToTop"><a href="#top">^</a></div-->
     </div>
+
+<!-- PBContentTemplate.master -->
+
     <span id="ctl00_LanguageAPI1"></span>
     
 <div class="footer_container">
@@ -721,6 +798,7 @@ document.write(new Date().getFullYear());
         <div id="ctl00_SiteFooter_cbFooterContent">
 	<div class="footer_col_01"><ul>
 <li class="section_title"><a href="/products.aspx">Products to Meet all Your Needs</a></li>
+<li><a href="/products/machine-vision/in-sight-vision-systems/">Vision Systems</a></li>
 <li><a href="/barcode-readers-overview.aspx">Barcode Readers</a></li>
 <li><a href="/industrial-sensor-checker.aspx">Vision Sensors</a></li>
 <li><a href="/fixed-mount-barcode-readers.aspx">Fixed Mount Readers</a></li>
@@ -728,7 +806,6 @@ document.write(new Date().getFullYear());
 <li><a href="/DPM-mobile-computer.aspx">Mobile Computers</a></li>
 <li><a href="/barcode-verifiers.aspx">Verifiers</a></li>
 <li><a href="/data-verification-systems-in-sight.aspx">Industry Focused Products</a></li>
-<li><a href="/sisd/">Surface Vision</a></li>
 </ul>
 </div>
 <div class="footer_col_02"><ul>
@@ -736,7 +813,7 @@ document.write(new Date().getFullYear());
 <li><a href="/videos/">Cognex Video Library</a></li>
 <li><a href="http://help.cognex.com" target="_blank">Knowledge Base</a></li>
 <li><a href="/training.aspx">Training</a></li>
-<li><a href="/customer-success-stories/automotive/">Customer Stories</a></li>
+<li><a href="/customer-stories/">Customer Stories</a></li>
 <li><a href="/ExploreLearn/FindOutMore/WhitePapersArticles/WhitePapersAndArticles.aspx">White Papers</a></li>
 <li><a href="/ExploreLearn/FindOutMore/Webinars/OnDemandWebinars.aspx">On-Demand Webinars</a></li>
 <li><a href="/ExploreLearn/FindOutMore/Webinars/LiveWebinars.aspx?id=6310">Upcoming Webinars</a></li>
@@ -787,6 +864,7 @@ document.write(new Date().getFullYear());
               <li><a href="http://cgnx.client.shareholder.com/" target="_blank">Investors</a></li>
               <li><a href="/privacy.aspx">Privacy</a></li>
               <li><a href="/map.aspx">Change Country</a></li>
+              <li></li>
               <li class="copyright">© 2015 Cognex Corporation</li>
             </ul>
           </div>
@@ -795,6 +873,47 @@ document.write(new Date().getFullYear());
     </div>
 </div>
 </form>
+
+<script type="text/javascript">
+    function removeCruft() {
+        // Remove empty paragraphs
+        $('p').each(function () {
+            var value = $.trim($(this).html());
+            if (value == '&nbsp;') {
+                $(this).remove();
+            }
+        });
+        // Replace <br>'s with space in H1, H2, H3 elements
+        $('h1 br').replaceWith(' ');
+        $('h2 br').replaceWith(' ');
+        $('h3 br').replaceWith(' ');
+    };
+    // Smooth scrolling...
+    $(function () {
+        $('a[href*=#]:not([href=#])').click(function () {
+            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
+                var target = $(this.hash);
+                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+                if (target.length) {
+                    $('html,body').animate({
+                        scrollTop: target.offset().top
+                    }, 1000);
+                    return false;
+                }
+            }
+        });
+    });
+    // Show #topOfPage link when necessary
+    $(document).scroll(function () {
+        var y = $(this).scrollTop();
+        if (y > 400) {
+            $('.linkToTop').fadeIn();
+        } else {
+            $('.linkToTop').fadeOut();
+        }
+    });
+</script>
+
 
     <script type="text/javascript">
     /* <![CDATA[ */
@@ -817,25 +936,24 @@ document.write(new Date().getFullYear());
 
 
 
-<script type="text/javascript">
-    var path = (("https:" == document.location.protocol) ? "https://databroker.coremotives.com/databroker.js?version=2" : "http://cdn.coremotivesmarketing.com/databroker.js");
-    document.write(unescape("%3Cscript src='" + path + "' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://databroker.coremotives.com/databroker.js?version=2" type="text/javascript"></script>
-<script type="text/javascript">  try {
-    var coreMotives = new DataBroker();
-    coreMotives.customerId = "a351b2d3-666e-4c4b-92dd-e6a408cef38b";
-    coreMotives.instanceId = 911;
-    coreMotives.trackPageView();
-  } catch (e) { }
-</script>
+
 
 
 <!-- ClickTale Bottom part -->
 <div id="ClickTaleDiv" style="display: none;"></div>
-<script src="/js/WRd.js" type="text/javascript"></script>
 <script type="text/javascript">
-    if (typeof ClickTale == 'function') ClickTale(18069, 0.7, "www14");
-</script>
+    // The ClickTale Balkan Tracking Code may be programmatically customized using hooks:
+    // 
+    //   function ClickTalePreRecordingHook() { /* place your customized code here */  }
+    //
+    // For details about ClickTale hooks, please consult the wiki page http://wiki.clicktale.com/Article/Customizing_code_version_2
+
+    document.write(unescape("%3Cscript%20src='" +
+(document.location.protocol == 'https:' ?
+"https://cdnssl.clicktale.net/www14/ptc/51f014f8-d9be-46cc-8276-4602c95714c5.js" :
+"http://cdn.clicktale.net/www14/ptc/51f014f8-d9be-46cc-8276-4602c95714c5.js") + "'%20type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://cdnssl.clicktale.net/www14/ptc/51f014f8-d9be-46cc-8276-4602c95714c5.js" type="text/javascript"></script>
+
 <!-- ClickTale end of Bottom part -->
 
 
