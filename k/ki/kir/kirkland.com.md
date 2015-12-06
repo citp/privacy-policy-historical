@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kirkland.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607212835id_/http%3A//www.kirkland.com/sitecontent.cfm%3Fcontentid%3D322) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirkland.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114433id_/http%3A//www.kirkland.com/sitecontent.cfm%3Fcontentid%3D322) for the most accurate reproduction.*
 
 # Kirkland & Ellis LLP > Privacy Policy
 
