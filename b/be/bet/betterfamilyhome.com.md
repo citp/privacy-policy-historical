@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterfamilyhome.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619190650id_/http%3A//betterfamilyhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterfamilyhome.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206153224id_/http%3A//betterfamilyhome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | betterfamilyhome.com
 
