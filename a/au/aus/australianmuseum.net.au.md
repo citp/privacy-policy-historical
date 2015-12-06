@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australianmuseum.net.au privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615100601id_/http%3A//australianmuseum.net.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australianmuseum.net.au privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141054id_/http%3A//australianmuseum.net.au/privacy) for the most accurate reproduction.*
 
 # Australian Museum Web Privacy Statement - Australian Museum
 
