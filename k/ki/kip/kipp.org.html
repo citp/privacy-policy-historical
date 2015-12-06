@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kipp.org privacy policy that was archived on 2015-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609051936id_/http%3A//www.kipp.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kipp.org privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207000328id_/http%3A//www.kipp.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -34,12 +34,16 @@
 
 
 <script type="text/javascript">
-$(document).ready(function() {$('.video').fancybox({type : 'iframe',openEffect : 'elastic', openSpeed : 'normal',closeEffect : 'elastic', closeSpeed : 'normal',autosize : false,width : 716,height : 410, padding : 6, helpers : {media : {},overlay : {showEarly : false, css : {'background' : 'rgba(50, 50, 50, 0.6)'}}}});});</script>
+$(document).ready(function() {$('.video').fancybox({type:'iframe', openEffect:'fade', openSpeed:'normal', closeEffect:'elastic', closeSpeed:'normal',autosize : false, width:720, height:405, padding:6, helpers: {media : {}, overlay: {showEarly:false, css: {'background': 'rgba(50, 50, 50, 0.6)'}}}});});</script>
+
+
+
+<script type="text/javascript">
+$(document).ready(function() {$('.video-tv').fancybox({type:'iframe', openEffect:'fade', openSpeed:'normal', closeEffect:'elastic', closeSpeed:'normal',autosize : false, width:600, height:450, padding:6, titlePosition: 'over', helpers: {media : {}, title : {type : 'inside'}, overlay: {showEarly:false, css: {'background': 'rgba(50, 50, 50, 0.6)'}}}});});</script>
 
 
 <script type="text/javascript">
 $(document).ready(function() {$('.video-kipp-tv').fancybox({type : 'iframe',openEffect : 'elastic', closeEffect : 'elastic', autosize : false,width : 553,height : 520, padding : 6, 'titleShow': 'true', helpers : {media : {}, title : {type : 'inside', 'align' : 'center'}, overlay : {showEarly : false, css : {'background' : 'rgba(50, 50, 50, 0.6)'}}}});});</script>
-
 
 
         
@@ -66,7 +70,9 @@ $(document).ready(function() {$('.video-kipp-tv').fancybox({type : 'iframe',open
     
 <div id="wrapper">
     
-    
+      
+
+
 <!-- Dropdown Menu, adapted from  http://jonraasch.com/demo/huge-dropdown-menu -->
 
 
@@ -75,6 +81,7 @@ $(document).ready(function() {$('.video-kipp-tv').fancybox({type : 'iframe',open
 	clear:both;
 	width:940px;
 	margin:0 auto;
+	background-color:#60A2D7;
 }
 #logo {
 	float:left;
@@ -103,7 +110,7 @@ $(document).ready(function() {$('.video-kipp-tv').fancybox({type : 'iframe',open
 	color:#27180e;
 	position:relative;z-index:999;
 }
-;
+
 #main-nav {
 	position: relative;
 	list-style: none;
@@ -132,7 +139,7 @@ $(document).ready(function() {$('.video-kipp-tv').fancybox({type : 'iframe',open
 
 #main-nav .main-nav-item-active .main-nav-tab {
 	color: #A7CFEE;   /*Pale Blue */
-	background-color: #60A2D7; /*Dark Blue */
+	/* background-color: #60A2D7; Dark Blue */
 }
 
 #main-nav .separator {
@@ -167,6 +174,7 @@ $(document).ready(function() {$('.video-kipp-tv').fancybox({type : 'iframe',open
 }
 
 #main-nav .main-nav-dd-column {
+	font-size: 14px;
 	min-width: 100px;
 	white-space:nowrap;
 	display: block;
@@ -211,10 +219,10 @@ $(document).ready(function() {$('.video-kipp-tv').fancybox({type : 'iframe',open
 #main-nav .main-nav-dd hr {
 	border: 1px dotted #ddd;
 }
+
+.hilite {background: #ffff66;}
+
 </style>
-
-
-
 
 
 
@@ -266,9 +274,33 @@ $(function() {
 
 
 
-<div class="menuWrapper">
+
+	<style type="text/css">
+        #main-nav {padding-top:12px;}
+        #spanish {
+            font-size: 12px;
+            font-style:italic;
+			font-weight: normal !important;
+            position:absolute;
+            top:10px;
+            right:70px; 
+            margin:0; padding:0; 
+            z-index:1000;
+        }
+        #spanish a {color:#FEDA00; font-weight: normal !important;}
+        #spanish a:hover {opacity: 0.6;}
+				
+    </style>
+    
+	  
+
+
+  <div class="menuWrapper">
     <div id="logo"><a href="/"><img width="144" height="42" border="0" src="/kippimages/logo.png"></a></div>
     <div id="menu">
+  	
+    <div id="spanish"><a href="/es">En Español</a></div>
+    
     <ul id="main-nav">
         
 
@@ -285,7 +317,7 @@ $(function() {
                         <li><a href="/press">Press Center</a></li>
                         <li><a href="/about-kipp/faq">FAQ</a></li>
                         <li><a href="/contact">Contact KIPP</a></li>
-                        <li><a href="/search">Search this site</a></li>
+                        <li><a href="/00/search">Search this site</a></li>
                     </ul>
                 </div>
             </div>
@@ -305,7 +337,8 @@ $(function() {
                         <li><a href="/our-approach/character">Character</a></li>
                         <li><a href="/our-approach/visionary-leadership">Visionary Leadership</a></li>
                         <li><a href="/our-approach/excellent-teaching">Excellent Teaching</a></li>
-                        <li><a href="/our-approach/sharing-and-collaboration">Sharing &amp; Collaboration</a></li>
+                        <li><a href="/our-approach/beyond-kipp">Beyond KIPP</a></li>
+                        <li><a href="/our-approach/kipp-school-summit">KIPP School Summit</a></li>
                     </ul>
                </div>
             </div>
@@ -381,13 +414,13 @@ $(function() {
 
         <li class="main-nav-item">
             
-            <a href="/support" class="main-nav-tab"><span>SUPPORT</span></a>
+            <a href="/support/donate" class="main-nav-tab"><span>DONATE</span></a>
         
             <div class="main-nav-dd">
                 <div class="main-nav-dd-column">
                     <ul>
-                        <li><a href="/support">Support KIPP</a></li> 
                         <li><a href="/support/donate">Donate Now</a></li>
+                        <li><a href="/support/">Support KIPP</a></li>
                         <li><a href="/support/match-your-gift">Match Your Gift</a></li>
                         <li><a href="/support/offline-giving-options">Offline Giving Options</a></li>
                         <li><a href="/support/national-partners">National Partners</a></li>
@@ -399,10 +432,11 @@ $(function() {
                
             </div>
         </li>
+       
+        
     </ul>
     </div>
-</div>
-
+  </div>
 
 
     	
@@ -416,191 +450,194 @@ $(function() {
         
         <div id="twocol_left">
             
-<div style="clear:both;"></div>
-
-
-<div style="width:185px; margin:0px 0 20px 0; border-top:#FFF solid 10px;"></div>
-
-
-
-
-
-
-
-    <div>
-        <script type="text/javascript">
-        function checkLeftSearch() {
-        if ( (document.leftSearchbox.qtemp.value == "") || (document.leftSearchbox.qtemp.value == "Search this site") ) {  
-            // no action if no search key
-            document.leftSearchbox.qtemp.value = "";
-            document.leftSearchbox.qtemp.focus();
-            return false;
-        }
-        else { // set Google key q to input value qtemp
-            document.leftSearchbox.q.value = document.leftSearchbox.qtemp.value;
-        }
-        }
-        </script>
-        
-        <form name="leftSearchbox" id="searchbox_009753908716933032626:diggkbcmlfi" action="/search" onsubmit="return checkLeftSearch()" class="leftSearch-form">
-        <input name="q" type="hidden">
-        <input type="hidden" name="cof" value="FORID:9">
-        <div id="leftSearch-button"><input type="image" src="/images/footer/transparent30x30.gif" name="sa" alt=""></div>
-        <div style="z-index:-1 !important;"><input type="text" placeholder="" value="Search this site" class="leftSearch-input" name="qtemp" style="width:120px;padding-right:0;font-size:14px;color:#666;-webkit-border-radius:0px;" onfocus="if (this.value=='Search this site'){this.value='';$(this).css('color','#666');}" onblur="if (this.value==''){this.value='Search this site';$(this).css('color', '#666');}"></div>
-        <input type="hidden" name="cx" value="009753908716933032626:diggkbcmlfi">
-        
-        </form>
-        <script type="text/javascript" src="http://google.com/coop/cse/brand?form=searchbox_009753908716933032626%3Adiggkbcmlfi"></script>
-      
-    </div>
-     
-     
-     
-    <section class="kipp-dropdown" style="margin-top:10px;">
-      <div class="wrapper-blue">
-         <div id="ddLN" class="wrapper-dropdown wrapper-dropdown-leftnav" tabindex="1">
-           <span>Find a KIPP school in ...</span>
-           <ul class="dropdownLN dropdown-leftnav" tabindex="1">
-            <li><a onclick="parent.location.href=&quot;/schools/school-directory&quot;"><span style="font-size:14px !important;">All cities</span></a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Albany&quot;">Albany, NY</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Atlanta&quot;">Atlanta, GA</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Austin&quot;">Austin, TX</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Baltimore&quot;">Baltimore, MD</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Blytheville&quot;">Blytheville, AR</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Boston&quot;">Boston, MA</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Camden&quot;">Camden, NJ</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Charlotte&quot;">Charlotte, NC</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Chicago&quot;">Chicago, IL</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Columbus&quot;">Columbus, OH</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Dallas&quot;">Dallas, TX</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Denver&quot;">Denver, CO</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Durham&quot;">Durham, NC</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=East Point&quot;">East Point, GA</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Forrest City&quot;">Forrest City, AR</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Gaston&quot;">Gaston, NC</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Helena&quot;">Helena, AR</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Houston&quot;">Houston, TX</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Indianapolis&quot;">Indianapolis, IN</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Jacksonville&quot;">Jacksonville, FL</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Kansas City&quot;">Kansas City, MO</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Los Angeles&quot;">Los Angeles, CA</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Lynn&quot;">Lynn, MA</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Memphis&quot;">Memphis, TN</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Minneapolis&quot;">Minneapolis, MN</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Nashville&quot;">Nashville, TN</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=New Orleans&quot;">New Orleans, LA</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=New York&quot;">New York, NY</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Newark&quot;">Newark, NJ</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Oakland&quot;">Oakland, CA</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Oklahoma City&quot;">Oklahoma City, OK</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Philadelphia&quot;">Philadelphia, PA</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Redwood City&quot;">Redwood City, CA</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Roanoke Rapids&quot;">Roanoke Rapids, NC</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Roxbury&quot;">Roxbury, MA</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=San Antonio&quot;">San Antonio, TX</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=San Diego&quot;">San Diego, CA</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=San Francisco&quot;">San Francisco, CA</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=San Jose&quot;">San Jose, CA</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=San Lorenzo&quot;">San Lorenzo, CA</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=St. Louis&quot;">St. Louis, MO</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Tulsa&quot;">Tulsa, OK</a></li>
-            
-            <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Washington&quot;">Washington, DC</a></li>
-            
-           </ul>
-         </div>
-      </div>
-    </section>
-        
-            
-    <script type="text/javascript">
-        
-        function DropDownLN(elLN) {
-            this.ddLN = elLN;
-            this.placeholder = this.ddLN.children('span');
-            this.opts = this.ddLN.find('ul.dropdownLN > li');
-            this.val = '';
-            this.index = -1;
-            this.initEvents();
-            this.href = this.ddLN.find('ul.dropdownLN.li > href');
-        }
-        DropDownLN.prototype = {
-            initEvents : function() {
-                var obj = this;
+    <div style="clear:both;"></div>
     
-                obj.ddLN.on('click', function(event){
-                    $(this).toggleClass('active');
+    
+    <div style="width:185px; margin:0px 0 20px 0; border-top:#FFF solid 10px;"></div>
+    
+    
+    
+    
+    
+    
+    
+        <div>
+        
+    
+            
+            <script type="text/javascript">
+            function checkLeftSearch() {
+                if ( (document.leftSearchbox.q.value == "") || (document.leftSearchbox.q.value == "Search this site") ) {  
+                    // no action if no search key
+                    document.leftSearchbox.q.value = "";
+                    document.leftSearchbox.q.focus();
                     return false;
-                });
-    
-                obj.opts.on('click',function(){
-                    var opt = $(this);
-                    obj.val = opt.text();
-                    obj.index = opt.index();
-                    obj.placeholder.text(obj.val);
-                });
-            },
-            getValue : function() {
-                return this.val;
-            },
-            getIndex : function() {
-                return this.index;
+                }
             }
-        }
+            </script>
+              <form name="leftSearchbox" id="LeftSearchBox" action="/00/search/" onsubmit="return checkLeftSearch()" class="leftSearch-form" method="get">
+                <div id="leftSearch-button"><input type="image" src="/images/footer/transparent30x30.gif" width="34" height="32" border="0" alt=""></div>
+                <div style="z-index:-1 !important;"><input type="text" value="Search this site" class="leftSearch-input" name="q" style="width:120px;padding-right:0;font-size:14px;color:#666;-webkit-border-radius:0px;" onfocus="if (this.value=='Search this site'){this.value='';$(this).css('color','#666');}" onblur="if (this.value==''){this.value='Search this site';$(this).css('color', '#666');}"></div>
+              </form>
+            
     
-        $(function() {
-            var ddLN = new DropDownLN( $('#ddLN') );
-            $(document).click(function() {
-                // all dropdowns
-                $('.wrapper-dropdown').removeClass('active');
-            });
-        });
+            
+            
+    
         
-    </script> 
-
-
+        </div>
+        
+        
+        
+        
+         
+         
+         
+        <section class="kipp-dropdown" style="margin-top:10px;">
+          <div class="wrapper-blue">
+             <div id="ddLN" class="wrapper-dropdown wrapper-dropdown-leftnav" tabindex="1">
+               <span>Find a KIPP school in ...</span>
+               <ul class="dropdownLN dropdown-leftnav" tabindex="1">
+                <li><a onclick="parent.location.href=&quot;/schools/school-directory&quot;"><span style="font-size:14px !important;">All cities</span></a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Albany&quot;">Albany, NY</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Atlanta&quot;">Atlanta, GA</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Austin&quot;">Austin, TX</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Baltimore&quot;">Baltimore, MD</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Blytheville&quot;">Blytheville, AR</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Boston&quot;">Boston, MA</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Camden&quot;">Camden, NJ</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Charlotte&quot;">Charlotte, NC</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Chicago&quot;">Chicago, IL</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Columbus&quot;">Columbus, OH</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Dallas&quot;">Dallas, TX</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Denver&quot;">Denver, CO</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Durham&quot;">Durham, NC</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=East Point&quot;">East Point, GA</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Forrest City&quot;">Forrest City, AR</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Gaston&quot;">Gaston, NC</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Helena&quot;">Helena, AR</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Houston&quot;">Houston, TX</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Indianapolis&quot;">Indianapolis, IN</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Jacksonville&quot;">Jacksonville, FL</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Kansas City&quot;">Kansas City, MO</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Los Angeles&quot;">Los Angeles, CA</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Lynn&quot;">Lynn, MA</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Memphis&quot;">Memphis, TN</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Minneapolis&quot;">Minneapolis, MN</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Nashville&quot;">Nashville, TN</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=New Orleans&quot;">New Orleans, LA</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=New York&quot;">New York, NY</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Newark&quot;">Newark, NJ</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Oakland&quot;">Oakland, CA</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Oklahoma City&quot;">Oklahoma City, OK</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Philadelphia&quot;">Philadelphia, PA</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Redwood City&quot;">Redwood City, CA</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Roanoke Rapids&quot;">Roanoke Rapids, NC</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Roxbury&quot;">Roxbury, MA</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=San Antonio&quot;">San Antonio, TX</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=San Diego&quot;">San Diego, CA</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=San Francisco&quot;">San Francisco, CA</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=San Jose&quot;">San Jose, CA</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=San Lorenzo&quot;">San Lorenzo, CA</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=St. Louis&quot;">St. Louis, MO</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Tulsa&quot;">Tulsa, OK</a></li>
+                
+                <li style="line-height:24px; margin-top:-8px;"><a onclick="parent.location.href=&quot;/schools/school-directory?City=Washington&quot;">Washington, DC</a></li>
+                
+               </ul>
+             </div>
+          </div>
+        </section>
+            
+                
+        <script type="text/javascript">
+            
+            function DropDownLN(elLN) {
+                this.ddLN = elLN;
+                this.placeholder = this.ddLN.children('span');
+                this.opts = this.ddLN.find('ul.dropdownLN > li');
+                this.val = '';
+                this.index = -1;
+                this.initEvents();
+                this.href = this.ddLN.find('ul.dropdownLN.li > href');
+            }
+            DropDownLN.prototype = {
+                initEvents : function() {
+                    var obj = this;
+        
+                    obj.ddLN.on('click', function(event){
+                        $(this).toggleClass('active');
+                        return false;
+                    });
+        
+                    obj.opts.on('click',function(){
+                        var opt = $(this);
+                        obj.val = opt.text();
+                        obj.index = opt.index();
+                        obj.placeholder.text(obj.val);
+                    });
+                },
+                getValue : function() {
+                    return this.val;
+                },
+                getIndex : function() {
+                    return this.index;
+                }
+            }
+        
+            $(function() {
+                var ddLN = new DropDownLN( $('#ddLN') );
+                $(document).click(function() {
+                    // all dropdowns
+                    $('.wrapper-dropdown').removeClass('active');
+                });
+            });
+            
+        </script> 
+    
+    
         </div>
         
         
@@ -689,6 +726,10 @@ function doSignup() {
 	});
 }
 </script>
+
+
+<script type="text/javascript">$(document).ready(function() {$(".popWebMail").fancybox({type: 'iframe', openEffect: 'elastic', closeEffect: 'elastic', autosize: false, width: 400, padding: 6});});</script>
+
 		
 <div class="left" style="height:10px;margin:-17px 0 13px 0;">
   <img src="/kippimages/footer_bar.png" align="absmiddle">
@@ -698,22 +739,23 @@ function doSignup() {
 
 
 	<div class="leftBox">
-        <div class="leftList" style="width:132px; background-color:#60A2D7">
+        <div class="leftList" style="width:132px; background-color:#60A2D7; margin-top: 1px;">
             <div class="leftHeading">FOLLOW US</div>
-            <div class="fadeLink"><a href="javascript:doSignup();"><div class="icon"><img src="/images/footer/icon_email.png" width="15" height="15"></div><div class="leftList">&nbsp;newsletter</div></a></div>
-            <div class="fadeLink"><a target="win2" href="http://blog.kipp.org"><div class="icon"><img src="/images/footer/icon_blog.png" width="15" height="15"></div><div class="leftList">&nbsp;blog</div></a></div>
-            <div class="fadeLink"><a target="win2" href="http://www.facebook.com/KIPPFoundation"><div class="icon"><img src="/images/footer/icon_facebook.png" width="15" height="15"></div><div class="leftList">&nbsp;facebook</div></a></div>
-            <div class="fadeLink"><a target="win2" href="http://www.twitter.com/KIPP"><div class="icon"><img src="/images/footer/icon_twitter.png" width="15" height="15"></div><div class="leftList">&nbsp;twitter</div></a></div>
-            <div class="fadeLink"><a target="win2" href="http://www.vimeo.com/kippfoundation"><div class="icon"><img src="/images/footer/icon_vimeo.png" width="15" height="15"></div><div class="leftList">&nbsp;vimeo</div></a></div>
-            <div class="fadeLink"><a target="win2" href="http://www.linkedin.com/company/kipp-foundation"><div class="icon"><img src="/images/footer/icon_linkedin.png" width="15" height="15"></div><div class="leftList">&nbsp;linkedin</div></a></div>
+            <div class="fadeLink"><a href="javascript:doSignup();"><div class="icon"><img src="/images/footer/icon_email.png" width="15" height="15"></div><div class="leftList">&nbsp;Newsletter</div></a></div>
+            <div class="fadeLink"><a target="win2" href="http://blog.kipp.org"><div class="icon"><img src="/images/footer/icon_blog.png" width="15" height="15"></div><div class="leftList">&nbsp;Blog</div></a></div>
+            <div class="fadeLink"><a target="win2" href="http://www.facebook.com/KIPPFoundation"><div class="icon"><img src="/images/footer/icon_facebook.png" width="15" height="15"></div><div class="leftList">&nbsp;Facebook</div></a></div>
+            <div class="fadeLink"><a target="win2" href="http://www.twitter.com/KIPP"><div class="icon"><img src="/images/footer/icon_twitter.png" width="15" height="15"></div><div class="leftList">&nbsp;Twitter</div></a></div>
+            <div class="fadeLink"><a target="win2" href="http://www.vimeo.com/kippfoundation"><div class="icon"><img src="/images/footer/icon_vimeo.png" width="15" height="15"></div><div class="leftList">&nbsp;Vimeo</div></a></div>
+            <div class="fadeLink"><a target="win2" href="http://www.linkedin.com/company/kipp-foundation"><div class="icon"><img src="/images/footer/icon_linkedin.png" width="15" height="15"></div><div class="leftList">&nbsp;Linkedin</div></a></div>
         </div>
         <div class="leftList" style="width:93px; background-color:#60A2D7">
             <div class="leftHeading">RESOURCES</div>
-            <div class="fadeLink"><a href="http://www.kipp.org/press"><div class="leftList2">press center</div></a></div>
-            <div class="fadeLink"><a href="http://www.kipp.org/privacy-policy"><div class="leftList2">privacy policy</div></a></div>
+            <div class="fadeLink"><a href="http://www.kipp.org/press"><div class="leftList2">Press Center</div></a></div>
+            <div class="fadeLink"><a href="http://www.kipp.org/privacy-policy"><div class="leftList2">Privacy Policy</div></a></div>
             <div class="fadeLink"><a href="http://www.kipp.org/faq"><div class="leftList2">FAQ</div></a></div>
-            <div class="fadeLink"><a href="http://www.kipp.org/kipp-webmail"><div class="leftList2">KIPP webmail</div></a></div>
-            <div class="fadeLink"><a href="http://www.kipp.org/contact"><div class="leftList2">contact us</div></a></div>
+            <div class="fadeLink"><a target="win2" href="https://www.kippshare.org/welcome"><div class="leftList2">KIPP Share</div></a></div>
+            <div><a class="popWebMail" href="/00/webmail2015-popup.cfm"><div class="leftList2 fadeLink">KIPP Webmail</div></a></div>
+            <div class="fadeLink"><a href="http://www.kipp.org/contact"><div class="leftList2">Contact Us</div></a></div>
         </div>
     </div>
 
@@ -724,32 +766,29 @@ function doSignup() {
     
 	
 	<div class="rightBox">
- 
-        
-		<script type="text/javascript">
+
+
+    	
+ 		<script type="text/javascript">
         function checkSearch() {
-            if ( (document.searchbox.qtemp.value == "") || (document.searchbox.qtemp.value == "Search this site") ) {  
+            if ( (document.searchbox.q.value == "") || (document.searchbox.q.value == "Search this site") ) {  
             	// no action if no search key
-                document.searchbox.qtemp.value = "";
-                document.searchbox.qtemp.focus();
+                document.searchbox.q.value = "";
+                document.searchbox.q.focus();
                 return false;
-            }
-            else { // set Google key q to input value qtemp
-                document.searchbox.q.value = document.searchbox.qtemp.value;
             }
         }
         </script>
         <div style="margin:6px 0px 16px 0;">
-          <form name="searchbox" id="searchbox_009753908716933032626:diggkbcmlfi" action="/search" onsubmit="return checkSearch()" class="search-form">
-            <input name="q" type="hidden">
-            <input type="hidden" name="cof" value="FORID:9">
-            <div id="butSubmit"><input type="image" src="/images/footer/transparent30x30.gif" width="34" height="32" border="0" name="sa" alt=""></div>
-            <div style="z-index:-1 !important;"><input type="text" placeholder="" value="Search this site" class="search-input" name="qtemp" style="width:120px;padding-right:0;font-size:14px;color:#666;-webkit-border-radius:0px;" onfocus="if (this.value=='Search this site'){this.value='';$(this).css('color','#666');}" onblur="if (this.value==''){this.value='Search this site';$(this).css('color', '#666');}"></div>
-            <input type="hidden" name="cx" value="009753908716933032626:diggkbcmlfi">
-            
+          <form name="searchbox" id="SearchBox" action="/00/search/" onsubmit="return checkSearch()" class="search-form" method="get">
+            <div id="butSubmit"><input type="image" src="/images/footer/transparent30x30.gif" width="34" height="32" border="0" alt=""></div>
+            <div style="z-index:-1 !important;"><input type="text" value="Search this site" class="search-input" name="q" style="width:120px;padding-right:0;font-size:14px;color:#666;-webkit-border-radius:0px;" onfocus="if (this.value=='Search this site'){this.value='';$(this).css('color','#666');}" onblur="if (this.value==''){this.value='Search this site';$(this).css('color', '#666');}"></div>
           </form>
-          <script type="text/javascript" src="http://google.com/coop/cse/brand?form=searchbox_009753908716933032626%3Adiggkbcmlfi"></script>
         </div>
+        
+
+
+ 		
         
         
         
@@ -916,10 +955,11 @@ function doSignup() {
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-ga('create', 'UA-908495-1', 'auto');
+ga('create', 'UA-908495-1', 'auto',{'allowLinker': true });
+ga('require', 'displayfeatures');
 ga('send', 'pageview');
 ga('require', 'linker');
-ga('linker:autoLink', ['networkforgood.org', 'matchinggifts.com','force.com']);
+ga('linker:autoLink', ['networkforgood.org', 'matchinggifts.com','kippcareers.force.com']);
 
 </script>
 
@@ -966,10 +1006,12 @@ ga('linker:autoLink', ['networkforgood.org', 'matchinggifts.com','force.com']);
 			var myDomain = href.match(getDomain);
 						
 			if ( 
-				   href.match(/.on\.kipp\.org\/Tj03rQ/i) // 2013 Report Card Download
+				   href.match(/.on\.kipp\./i) // 2013 Report Card Download
 				   || ( href.match(/^https?\:/i)   // Outbound link
 					    && !myDomain // exclude links to kipp.org
-					    && !href.match(/.player\.vimeo./i) // stops fancybox videos from opening full screen
+						&& !href.match(/youtube/i)
+						&& !href.match(/vimeo/i)
+						&& !href.match(/embed-ssl\.ted\.com/i) // TED Talks
 					    && !href.match(/^javascript:/i) // exclude javascript links
 					    ) 
 				   || href.match(/^mailto\:/i)   // Email link
@@ -1029,8 +1071,8 @@ ga('linker:autoLink', ['networkforgood.org', 'matchinggifts.com','force.com']);
     
     <br><br>
     
-    <div class="revDate">MAC 01/27/15
-	</div>
+
+	
   
 
 
