@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meyersound.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608025648id_/http%3A//meyersound.com/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meyersound.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141744id_/http%3A//www.meyersound.com/legal/%23privacy) for the most accurate reproduction.*
 
 # Legal Notices | Meyer Sound
 
@@ -100,8 +100,8 @@ The following is a partial list of additional Meyer Sound trademarks and service
 
 Meyer Sound has adopted policies regarding compliance with anti-corruption laws around the world and with the export control laws and regulations of the United States. These policies, which currently are set forth in policy documents entitled OFAC Compliance Guidelines Protocols, OFAC Compliance Manual, and FCPA Anti-Corruption Policy, can be found by following these links:
 
-  * [Meyer Sound Global Anti-Corruption Policy and Guidelines](https://web.archive.org/web/20150608025648id_/http://www.meyersound.com/legal/MeyerSoundFCPAAnti-CorruptionPolicy.pdf)
-  * [Meyer Sound OFAC Compliance Protocols](https://web.archive.org/web/20150608025648id_/http://www.meyersound.com/legal/MeyerSoundOFACComplianceGuidelinesProtocols.pdf)
-  * [Meyer Sound OFAC Compliance Policy](https://web.archive.org/web/20150608025648id_/http://www.meyersound.com/legal/MeyerSoundOFACComplianceManual.pdf)
+  * [Meyer Sound Global Anti-Corruption Policy and Guidelines](https://web.archive.org/web/20151206141744id_/http://www.meyersound.com/legal/MeyerSoundFCPAAnti-CorruptionPolicy.pdf)
+  * [Meyer Sound OFAC Compliance Protocols](https://web.archive.org/web/20151206141744id_/http://www.meyersound.com/legal/MeyerSoundOFACComplianceGuidelinesProtocols.pdf)
+  * [Meyer Sound OFAC Compliance Policy](https://web.archive.org/web/20151206141744id_/http://www.meyersound.com/legal/MeyerSoundOFACComplianceManual.pdf)
 
 
