@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiphopmakers.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423150600id_/http%3A//hiphopmakers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiphopmakers.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206063527id_/http%3A//hiphopmakers.com/privacy-policy) for the most accurate reproduction.*
 
 # Hip Hop Makers Privacy Policy
 
