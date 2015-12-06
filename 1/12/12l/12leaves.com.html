@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 12leaves.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607015144id_/http%3A//www.12leaves.com/privacy-policy-en.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 12leaves.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206185721id_/http%3A//www.12leaves.com/privacy-policy-en.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <title>Privacy Policy</title>
@@ -149,6 +149,31 @@ $(document).ready(function(){
 <![endif]-->
 
 <script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+
+// create the back to top button
+	var amountScrolled = 600;
+
+	$(window).bind('scroll', function () {
+		if ($(window).scrollTop() > amountScrolled) {
+			$('a.back-to-top').fadeIn('slow');
+		} else {
+			$('a.back-to-top').fadeOut('slow');
+		}
+	});
+
+	$('a.back-to-top').click(function() {
+		$("html, body").animate({ scrollTop: 0 }, 'fast');
+		return false;
+	});
+});
+//]]>
+</script>
+
+
+
+<script type="text/javascript">
   (function() {
     var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
     po.src = 'https://apis.google.com/js/plusone.js';
@@ -165,7 +190,10 @@ $(document).ready(function(){
 fn_register_hooks('recurring_billing', ['check_exceptions']);
 
 </script>
-<script async="" type="text/javascript" src="https://app.purechat.com/VisitorWidget/WidgetScript"></script><script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
+
+
+
+<script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
 
 <body>
 <div class="helper-container">
@@ -206,6 +234,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 
 <select name="cid" class="search-selectbox">
 	<option value="0">- All categories -</option>
+		<option value="30" title="Christmas and New Year Illustrations">Christmas and New Year Illustrations</option>
 		<option value="5" title="Zen Cart Templates">Zen Cart Templates</option>
 		<option value="6" title="CS-Cart Templates">CS-Cart Templates</option>
 		<option value="13" title="PSD Templates">PSD Templates</option>
@@ -232,6 +261,10 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 <div id="top_menu">
 <ul class="top-menu dropdown"><li class="first-level "><span><a href="/">Ecommerce Themes</a></span>
 <ul>
+			<li>
+		<a href="/christmas-new-year-vector-illustrations-xmas/">Christmas and New Year Illustrations</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
 			<li>
 		<a href="/zen-cart-templates/">Zen Cart Templates</a>
 			</li>
@@ -305,7 +338,11 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 			</li>
 		<li class="h-sep">&nbsp;</li>
 			<li>
-		<a href="/index.php?dispatch=discussion.view&amp;thread_id=16" target="_blank">Testimonials</a>
+		<a href="/index.php?dispatch=discussion.view&amp;thread_id=16">Testimonials</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li>
+		<a href="live-stores.html" target="_blank">Live Stores</a>
 			</li>
 		</ul>
 </li><li class="first-level cm-active"><span><a href="support-policy.html">Information</a></span>
@@ -334,7 +371,17 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 		<a href="/faq.html">FAQ</a>
 			</li>
 		</ul>
-</li><li class="first-level "><span><a href="http://blog.12leaves.com/">Blog</a></span></li><li class="first-level "><span><a href="contact-us.html">Contact Us</a></span></li><li class="first-level "><span><a href="downloads.html">Downloads</a></span></li></ul>
+</li><li class="first-level "><span><a href="about.html">About</a></span>
+<ul>
+			<li>
+		<a href="about.html">Meet the Team</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li>
+		<a href="/index.php?dispatch=discussion.view&amp;thread_id=16">Testimonials</a>
+			</li>
+		</ul>
+</li><li class="first-level "><span><a href="http://blog.12leaves.com/">Blog</a></span></li><li class="first-level "><span><a href="contact-us.html">Support</a></span></li><li class="first-level "><span><a href="downloads.html">Downloads</a></span></li></ul>
 </div>
 <span class="helper-block">&nbsp;</span>
 </div>
@@ -501,7 +548,11 @@ This Privacy Policy only applies to information collected by 12leaves.com. Pleas
 									
 		</div>
 									<div class="bottom clear-both">
-				<div class="footer">
+				<div class="wysiwyg-content">
+<div class="content-helper">
+	<div id="backtotop_wrapper" class="back-to-top content-helper"><a href="#" class="back-to-top"><span class="btt-txt">Back To Top</span> <i class="fa fa-chevron-up"></i></a></div>
+</div>
+</div><div class="footer">
 	<div class="content-helper"><table class="fixed-layout" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr valign="top"><td><div class="wysiwyg-content">
 <table class="t-bottom" width="100%" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr class="t-header">
@@ -549,7 +600,7 @@ This Privacy Policy only applies to information collected by 12leaves.com. Pleas
 </tr>
 </tbody></table>
 </div></td><td width="10"></td><td width="30%"><form action="/" method="post" name="subscribe_form">
-<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=103">
+<input type="hidden" name="redirect_url" value="index.php?dispatch=tags.view&amp;tag=Software">
 
 <p>Sign up for our newsletters and keep up with the latest 12leaves news, discounts and events:</p>
 	<div class="select-field">
@@ -571,8 +622,6 @@ This Privacy Policy only applies to information collected by 12leaves.com. Pleas
 <a href="http://twitter.com/12leaves" target="_blank"><span class="social-icon twitter">&nbsp;</span></a>
 <a target="_blank" href="https://plus.google.com/+12leaves"><span class="social-icon google">&nbsp;</span></a>
 </div></td></tr></tbody></table></div>
-</div><div class="wysiwyg-content">
-<script type="text/javascript" data-cfasync="false">(function () { var done = false;var script = document.createElement('script');script.async = true;script.type = 'text/javascript';script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript';document.getElementsByTagName('HEAD').item(0).appendChild(script);script.onreadystatechange = script.onload = function (e) {if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {var w = new PCWidget({ c: '231b8a44-27a4-4bd1-ab3f-90e74152051e', f: true });done = true;}};})();</script>
 </div>
 			</div>
 							</div>
@@ -627,7 +676,7 @@ $(document).ready(function(){
 			've[screen_x]': (screen.width || null),
 			've[screen_y]': (screen.height || null),
 			've[color]': (screen.colorDepth || screen.pixelDepth || null),
-			've[time_begin]': 1433641904.49
+			've[time_begin]': 1449428240.79
 		},
 		hidden: true
 	});
@@ -636,7 +685,7 @@ $(document).ready(function(){
 </script>
 
 <noscript>
-<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=http%3A%2F%2Fwww.12leaves.com%2Fprivacy-policy-en.html&amp;ve%5Btitle%5D=Privacy+Policy&amp;ve%5Breferrer%5D=&amp;ve%5Btime_begin%5D=1433641904.49" width="0" height="0"></object>
+<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=http%3A%2F%2Fwww.12leaves.com%2Fprivacy-policy-en.html&amp;ve%5Btitle%5D=Privacy+Policy&amp;ve%5Breferrer%5D=&amp;ve%5Btime_begin%5D=1449428240.79" width="0" height="0"></object>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
