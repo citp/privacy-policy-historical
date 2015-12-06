@@ -1,52 +1,81 @@
-> *The following text is extracted and transformed from the drugabuse.com privacy policy that was archived on 2004-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040803015902id_/http%3A//www.drugabuse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugabuse.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206232428id_/http%3A//drugabuse.com/privacy-policy) for the most accurate reproduction.*
 
-# drugabuse.com: DrugAbuse.com Privacy Policy
+# Privacy Policy
 
-  
+## Website Privacy Policy Statement
+
+By using this site, you agree to the terms of this Privacy Policy and the Terms of Use and Disclaimer, DrugAbuse.com collects certain information about you that you specifically and knowingly provide to us, such as your user name, email address, name or mailing address. In addition, we may track how you use this Site and relate it to the information you have provided to us. If you wish to be notified of the use of such tracking software and/or disable such software, your browser may offer this feature by means of its options or preferences menu.
+
+The above-described information (Personally-Identifying Information) may be used by DrugAbuse.com to personalize and enhance your use of this Site, including the marketing and promotion of certain products and services that might be of interest to you. Your use of this Site is consent to the foregoing use of your Personally-Identifying Information by DrugAbuse.com
+
+DrugAbuse.com also may share your Personally-Identifying Information with select companies and organizations for their own marketing and promotional use. While DrugAbuse.com seeks to share Personally-Identifying Information with companies that follow appropriate privacy policies, it does not bear any responsibility for the actions and policies of such third parties. If you wish that we not share your Personally-Identifying Information with third parties, you may “opt out” by emailing us with such request.
+
+You should be aware that any Personally-Identifying Information, such as your user name and email address, as well as any other information that you post on a bulletin board, share in a “chat room,” or otherwise specifically and knowingly disclose by use of the site, may be directly collected and used by third parties. Therefore, you may be subject to unsolicited email as a result of your disclosure of such information. You should have no expectation of privacy with respect to your communications through the forums, or profile should you choose to list this information.
+
+Modern information and communication technologies play a fundamental role in the activities of an organization like DrugAbuse.com. Based in the United States of America, our principal activity is the delivery of informational content and business listing information.
+
+Our Website Privacy Policy Statement covers DrugAbuse.com, its subsidiaries and any of its websites accessible via the primary websites listed below:
+
+  * You can access our website home page and browse our site without disclosing your personal data.
+  * We collect the personal information that you may volunteer while using our services.
+  * We do not collect information about our visitors from sources outside of DrugAbuse.com, such as public records or bodies, or private organizations.
+  * We do not collect or use personal data for any purpose other than email marketing and than that indicated on the Web pages where the information is requested or collected.
+  * If we wish to use your personal information for a new purpose, we will contact you first for permission.
+  * Except as requested by you, we do not disclose your personal information to other organizations.
 
 
-> DrugAbuse.com understands that privacy is important to our visitors. While we can never guarantee 100% privacy, we take numerous measures on our services to better protect visitor privacy. Some of these privacy measures include **limited** logging of activity and asking visitors for **minimal** personal information only when necessary. Please be sure to view this policy from time to time for updates. **We value your privacy.**
 
-  
-Service Name| Location (URL)| Information Voluntarily Collected from Visitors  
----|---|---  
-Personal Info| Email Address| Comments  
-DrugAbuse.com (main site)| [www.drugabuse.com](http://www.drugabuse.com/)| Optional| Optional| Guestbook feature.  
-DrugAbuse.com Message Boards| [boards.drugabuse.com](http://boards.drugabuse.com/)| Optional| Optional*| * Required to post.  
-DrugAbuse.com Chat Server| [chat.drugabuse.com](http://chat.drugabuse.com/)| Optional| Optional| Registered Nicks.  
-  
-**Important explainations regarding privacy and the above table:**
+## Website Security Policy
 
-First off, we do **not** know who you are unless you tell us. However, when one visits any of our services, their remote IP address is **revealed** to the respective server(s) along with other various information, such as browser type and referrer. This information may be stored in various logs on our servers and/or on third-party servers/devices, such as routers, for an extended period of time; often upwards of 30 days. Such information does **not** directly reveal a visitor's real identity to us, since IP addresses are often **dynamically allocated** so one gets a different one each time they login to their ISP or in some instaces their IP address is **shared** with numerous other on-line users. 
+** ** DrugAbuse.com is committed to complying with all federal, state, and local laws, as well as applicable regulations, standards, and guidelines established by government agencies and accepted accrediting organizations.
 
-In regards to advertisements, we maintain click-through logs of visitors who click on advertisements, such as ad banners. Click-through logs contains the remote IP address the visitor came from along with the browser type and referrer as reported by their web browser. This information is the same information the advertiser may log from their site, but we log it on our site as well for verification and marketing purposes. 
+We will provide a secure transmission method for you to send us personal information, including:
 
-Sales transactions, completed or not, made through our on-line merchants are extensively logged. We retain sales transaction data indefinitely; typically at least three years. Credit card transactions are processed via gateways by various credit card processors. The credit card gateway, credit card processors, credit card issuers, and other associated parties retain various records regarding credit card transactions done through our merchants. 
+  * Identifiers (such as social security numbers, credit card details, website password)
 
-Registration is required for posting messages on our various message board services. We require a valid and working email address during the registration process. This email address is kept on-file. The content of the message entered by the poster remains the property of the poster and thus we are **not** responsible for their message content. 
 
-Some of our services use cookies in order to give the visitor a better experience. Cookies are special headers that are embedded within some of our webpages, which a visitor's web browser may store locally on the visitor's computer for a period of time ranging from seconds to many years. Cookies set (sent) by our services are only sent back to themselves; they are not revealed to other websites other than our own. The cookies we set (send) contain little to no personal information and thus they pose little threat to one's privacy. However, visitors may choose to limit or even disable cookies in their web browser, but note that some features may not function properly. 
 
-Email sent to any DrugAbuse.com service or associated entity is retained for an indefinite period. Email shall **not** be construed as confidential, since such communications may be intercepted or altered by outside parties. In addition, we do **not** consider email privileged (we reserve the right to reveal email content to outside parties solely at our option), **unless both** the sender and the respective DrugAbuse.com services and associated entities to whom the email is addressed have all agreed in writing, **prior** to the respective email communication(s), that such email communication(s) is to be considered privileged. In summary, we retain email for an indefinite period and we may generally do whatever we wish with email we receive, including email received in error. 
+While such secure transmission methods provide reasonable protections against unauthorized access, if you have concerns regarding the transmission of sensitive information (such as contact or medical information), you should consider using non-electronic communication methods.
 
-To better protect your privacy one may find various anonymizer services such **The Anonymizer** useful. By accessing through an anonymizer service, we get their remote IP address and other information such as browser type **instead** of yours.
+We have implemented security policies, rules, and reasonable technical measures to protect the personal data that we have under our control from:
 
-A few points to keep in mind regarding privacy and the internet:
+  * Unauthorized access
+  * Improper use or disclosure
+  * Unauthorized modification
+  * Unlawful destruction or accidental loss
 
-  1. Legal jurisdiction in many instances is determined by the **physical location of the visitor** as opposed to where the server is located. Please check your local laws governing content, etc before accessing any website or related service - this is most applicable to persons accessing from locations where freedom of speech and expression are not protected.
-  2. Many ISPs maintain logs including the URLs their users visit, which **includes** URLs to SSL encrypted webpages, their dial-in port, and some also log the phone number users dial in from among other things.
-  3. Using email, or PM (personal message) services, or IRC and related chat systems will often reveal one's IP address to others. The use of remailers for email, use of anonymizer proxies for the web, use of special proxies for IRC, and encryption are all great preventative measures, but none of these measures are perfect.
 
-On a related topic, even if a website or related resource one visits does not maintain logs or is in another jurisdiction, one's privacy may still be at risk, since most ISPs log similar information. In essance the information logged by a person's ISP will often tend to **mirror** the logs of the websites and other services the person accessed. So persons who are extra concerned about their privacy may wish to consider an anonymous dial-up account or similar in addition to using anonymizer services.
 
-  4. A fair amount of internet traffic is monitored through **NAPs (network access points)** as well as in transit by various governments and intellegence gathering agencies. They are primarily scanning for military and terrorist information.
-  5. With a **lot** of effort most PGP encoded messages **can be decrypted** but certainly **not in real time** which is primarily why many governments want to control encryption. PGP is still a good idea, but is not foolproof and requires some effort on part of the persons using it to keep it secure or otherwise risk key infiltration among other things.
-  6. One should be careful with whom they correspond with and what information they reveal to them. No computer security in the world will protect one from poor judgement. A good defense is to talk in generalities in regards to one's identity and intentions. 
+All our employees and data processors who have access to, and are associated with, the processing of personal information are obliged to respect the confidentiality of our visitors’ personal information.
 
-**Bottom line, it is ultimately up to visitors to protect their privacy and understand that there is no such thing as 100% privacy on the internet nor in the real world for that matter. It all comes down to managing risk and how much one is willing to accept.**
+## Email Privacy Disclaimer
 
-* * *
+DrugAbuse.com will use reasonable means to protect the privacy of your information sent by e-mail. However, because of the risks outlined below, DrugAbuse.com cannot guarantee that email communications will be confidential. Additionally, DrugAbuse.com will not be liable in the event that you or anyone else inappropriately uses your e-mail. DrugAbuse.com will not be liable for improper disclosure of your information that is not caused by DrugAbuse.com’s intentional misconduct.
 
-  
-**[Return to DrugAbuse.com Main Menu](http://www.drugabuse.com/)**   
-This web page and related elements are for informative purposes only and thus the use of any of this information is at your risk! Copyright 1999 - 2003 Psychotropics Cornucopia, Inc. All Rights Reserved. DrugAbuse.com and the slogan "Honest Drug Abuse Information" are service marks used by Psychotropics Cornucopia, Inc. Any other trademarks, trade names, service marks, or service names used on this site are the property of their respective owners. Page updated on Dec-30-2002 19:40 ET 
+## Email Risks and Your Responsibilities
+
+At the discretion of DrugAbuse.com, its staff, physicians and agents and upon your agreement to the terms outlined within this consent form, you may use email to communicate with DrugAbuse.com. These e-mails may contain your personal health information. If you decide to use email to communicate with DrugAbuse.com, you should be aware of the following risks and/or your responsibilities:
+
+  1. As the Internet is not secure or private, unauthorized people may be able to intercept, read and possibly modify email you send or are sent by DrugAbuse.com.
+  2. You must protect your email account, password and computer against access by unauthorized people.
+  3. Since email can be used to spread viruses, some which cause email messages to be sent to people who you do not intend to send email messages to, you should install and maintain virus protection software on your PC.
+  4. Since e-mails can be copied, printed and forwarded by people to whom you send e-mails, you should be careful regarding to whom you send e-mails.
+  5. As your employer may claim ownership of, or the right to access, the email account issued to you by your e-mail, you should avoid using an employer issued email account to communicate with DrugAbuse.com.
+
+
+
+**Conditions for the Use of Email**
+
+** ** By consenting to the use of email with DrugAbuse.com, you agree that:
+
+  1. Drugabuse.com may forward emails as appropriate for treatment, and other related reasons. As such, DrugAbuse.com staff members, other than the recipient, may have access to emails that you send. Such access will only be to such persons who have a right to access your email to provide services to you. Otherwise, DrugAbuse.com will not, otherwise, forward emails to independent third parties without your prior written consent, except as authorized or required by law.
+  2. You should carefully word your email messages so the information provided clearly, yet briefly, describes the information you intend to convey.
+  3. You are responsible for correcting any unclear or incorrect information.
+  4. com reserves the right to save your email and include your email or information contained within your email in your medical record.
+  5. Emails may not be the only form of communication that DrugAbuse.com will use to communicate with you. Additionally, DrugAbuse.com may decide that it is not in your best interest to continue to communicate with you by email. In such case, DrugAbuse.com will notify that it no longer intends to communicate with you by email.
+
+
+
+## Contacting Us
+
+Should you have any questions regarding these Terms of Use, the Privacy Statement, or the collection, retention, or management of any information on this website, please contact us via our email: [contact@drugabuse.com](mailto:contact@drugabuse.com).
