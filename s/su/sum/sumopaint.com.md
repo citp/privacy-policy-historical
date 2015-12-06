@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sumopaint.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407072316id_/http%3A//www.sumopaint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumopaint.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206152904id_/http%3A//www.sumopaint.com/privacy) for the most accurate reproduction.*
 
 # sumopaint.com
 
@@ -11,6 +11,7 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
   * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
   * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
   * We will make readily available to customers information about our policies and practices relating to the management of personal information. 
+  * We use Google Analytics to gather website usage statistics, improve our service and to enable remarketing features of Google AdWords. This is done by using "cookies" - text files with anonymous technical information. Following Google Analytics Advertising Features are implemented: Remarketing with Google Analytics, Google Display Network Impression Reporting, Google Analytics Demographics and Interest Reporting. We also use Google AdWords remarketing tracking cookies. Thus our ads may be shown to you on the Google Content Network. We do not collect any identifiable information through the use of Google’s remarketing system. Google's "third-party cookie" is placed on web browsers for displaying ads based on previous visits to our website, allowing us to market our services to those who have shown interest in our website. You can opt-out of the Google Remarketing at NAI's consumer opt-out. 
 
 
 
@@ -22,4 +23,4 @@ We are committed to conducting our business in accordance with these principles 
 Ensi Linja 1, 00530 Helsinki, Finland   
 mobile: +358 4664 60971 (Finland)   
 mobile: +65 9759 9688 (Singapore)   
-email: sumo@sumoware.com 
+email: support@sumoware.com 
