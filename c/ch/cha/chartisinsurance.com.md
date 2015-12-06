@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chartisinsurance.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526044445id_/http%3A//www.aig.com/privacy_3171_448852.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chartisinsurance.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206061632id_/http%3A//www.aig.com/privacy_3171_448852.html) for the most accurate reproduction.*
 
 # Privacy - Insurance from AIG
 
-Last Updated: February 4, 2015 
+Last Updated: September 16, 2015 
 
    American International Group (“AIG”) and its subsidiaries and affiliates (each an “AIG Company”, “AIG Companies”, “we” or “us”) is committed to protecting the privacy of the individuals we encounter in conducting our business.  “Personal Information” is information that identifies and relates to you or other individuals (such as your dependents). Our aim is responsible handling of Personal Information, balancing the benefits of activities like research and data analytics with our other commitments, including transparency and non-discrimination. This Privacy Policy describes how we handle Personal Information that we collect through:  
 
@@ -64,8 +64,11 @@ Photographs or video recordings created in connection with our insurance or othe
 ** You may let us know your marketing preferences, enter a contest or prize draw or other sales promotion, or respond to a voluntary customer satisfaction survey.
   *  **Social media account and information from Apps  
 ** We may receive certain Personal Information about you when you use our Apps or Social Media Pages, including your social media account ID and profile picture.  If you elect to connect any of your other social media accounts to your account(s) on the AIG On-line Services, Personal Information from your other social media account(s) will be shared with us, which may include Personal Information that is part of you profile relating to those accounts or your friends’ profiles.
+  *  **Information from Other Sources  
+** To improve the quality of our products and services, and to carry out research and analysis, we and our service providers may supplement the Personal Information we collect with information from other sources, such as publicly available information from social media services, commercially available sources and information from our affiliates or business partners.   
+
   *   
-   
+
 
 
 
@@ -212,7 +215,7 @@ You can refuse to accept the cookies we use by adjusting your browser settings. 
 
 We use Adobe’s Omniture analytics service, which uses cookies and web beacons to help us understand more about how our website is used by consumers so we can continue to improve it. Adobe does not have the right to use the information we provide to them beyond what is necessary to assist us. For more information on Adobe’s Omniture service, including how to Opt out, go to <http://www.omniture.com/privacy/policy#optout> . 
 
-We may use behavioral advertising service providers to customize, target and report on AIG advertisements served across the web.  To do this, these service providers use cookies, pixel tags and other technologies to collect information about your and other users’ use of our Site and third-party sites.  If you would like to opt out of having your Site usage information used for these purposes, visit the self-regulatory program opt-out pages at [www.aboutads.info/choices/](http://www.aboutads.info/choices/ "www.aboutads.info/choices/") or [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp "www.networkadvertising.org/managing/opt_out.asp").  
+We may use interest-based advertising service providers to customize, target and report on AIG advertisements served across the web and mobile applications.  To do this, these service providers use cookies, pixel tags and other technologies to collect information about your and other users’ use of the AIG On-line Services and third-party sites and mobile applications.  If you would like to opt out of having your Site usage information used for these purposes, visit the self-regulatory program opt-out pages at [www.aboutads.info/choices/](http://www.aboutads.info/choices/ "www.aboutads.info/choices/") or [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp "www.networkadvertising.org/managing/opt_out.asp") to opt out in desktop and mobile web browsers.  Download the AppChoices app at [www.aboutads.info/appchoices](http://www.aboutads.info/appchoices "www.aboutads.info/appchoices") to opt out in mobile applications. 
 
   * **Using your Physical Location:** We may collect the physical location of your device by, for example, using satellite, cell phone tower or WiFi signals. We may use your device’s physical location to provide you with personalized location-based services and content. We may also share your device’s physical location, combined with information about what advertisements you viewed and other information we collect, with our marketing partners to enable them to provide you with more personalized content and to study the effectiveness of advertising campaigns. In some instances, you may be permitted to allow or deny such uses and/or sharing of your device’s location, but if you choose to deny such uses and/or sharing, we and/or our marketing partners may not be able to provide you with the applicable personalized services and content.
   *   
