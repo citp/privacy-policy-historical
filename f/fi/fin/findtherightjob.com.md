@@ -1,23 +1,32 @@
-> *The following text is extracted and transformed from the findtherightjob.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074311id_/http%3A//www.findtherightjob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findtherightjob.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206115908id_/http%3A//www.findtherightjob.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## FindTheRightJob Privacy Policy
 
-FindTheRightJob is committed to your privacy. This Privacy Policy describes the types of information we collect from and about you when you visit our website www.findtherightjob.com or any other website or online service owned or operated by CareerCo LLC that links to this Privacy Policy (the "Site"). This Privacy Policy also explains how CareerCo LLC may use and disclose such information, as well as your ability to control certain uses of it.
+Last Updated: 09/24/15
 
-[ ](https://privacy.truste.com/privacy-seal/CareerCo-LLC/validation?rid=6e3eeb64-b22d-4e4d-949b-c4839012927e "TRUSTe online privacy certification")
+This Privacy Policy describes the types of information we collect from and about you when you visit our website www.findtherightjob.com or any other website or online service owned or operated by CareerCo LLC that links to this Privacy Policy (the "Site"). This Privacy Policy also explains how CareerCo LLC may use and disclose such information, as well as your ability to control certain uses of it.
 
-Last Updated: 02/24/15
+If you have questions or complaints regarding our Privacy Policy or practices, please first contact CareerCo LLC, Compliance Department, 1200 South Ave., Staten Island, NY 10314, (718) 761-4800, [privacy@careerco.com](mailto:privacy@careerco.com).
 
-CareerCo LLC has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this website, www.findtherightjob.com, and mobile website m.findtherightjob.com, and does not cover information that may be collected through our mobile applications. 
+[](https://privacy.truste.com/privacy-seal/validation?rid=6e3eeb64-b22d-4e4d-949b-c4839012927e "TRUSTe Privacy Certification")
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please first contact CareerCo LLC, Compliance Department, 1200 South Ave., Staten Island, NY 10314, (718) 761-4800, [privacy@careerco.com](mailto:privacy@careerco.com). If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). 
+The TRUSTe certification applies to the following properties:
+
+  * http://www.myeducation.com 
+  * http://www.findtherightjob.com 
+  * http://www.jobhub.com 
+  * http://www.careerco.com 
+
+
+
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.
 
 ### INFORMATION COLLECTION
 
 **Personal Information**  
-FindTheRightJob, or a third party service provider acting on our behalf ("Service Provider"), collects personal information from you when you choose to share it with us to use our matching services, create an online account with us, order products or services from us, request information from us, sign up for newsletters or our email list, participate in a survey, or otherwise contact us. The personal information we collect may include your name, address, telephone number, email address, date of birth, education level and year of graduation, information you include on your resume, and, if you are a CareerCo LLC customer. We may combine your personal information with additional personal information and non-personal information we collect or receive about you from other online and offline sources.
+FindTheRightJob, or a third party service provider acting on our behalf ("Service Provider"), collects personal information from you when you choose to share it with us to use our matching services, create an online account with us, order products or services from us, request information from us, sign up for newsletters or our email list, participate in a survey, or otherwise contact us. The personal information we collect may include your name, address, telephone number, email address, education level and year of graduation, information you include on your resume, and, credit card information such as credit card number and security number if you are a CareerCo LLC customer. We may combine your personal information with additional personal information and non-personal information we collect or receive about you from other online and offline sources.
 
 **Information Automatically Collected**  
 As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. 
@@ -27,7 +36,7 @@ We may combine this automatically collected log information with other informati
 **Information Collected From Other Sources**  
 We may obtain information about you from other sources, including commercially available sources such as data aggregators and public databases. This information may include name, demographic information, updated contact information, interests, and publicly-observed data, such as from social media and online activity. We may combine this information with the information we collect from and about you to help us tailor our communications to you and to improve our services and products.
 
-We collect your location based information for the purpose of providing location-based products and services on FindTheRightJob. We will only share this information with our mapping provider for the sole purpose of providing you the service. If you no longer wish to allow us to track your geo-location information in the Mobile App you may turn this off at the device level.
+We may collect your location based information for the purpose of providing location-based products and services on JobHub. We will only share this information with our mapping provider for the sole purpose of providing you the service. If you no longer wish to allow us to track your geo-location information in the Mobile App you may turn this off at the device level.
 
 ### INFORMATION USE 
 
@@ -53,7 +62,7 @@ These companies are authorized to use your personal information only as necessar
 
 We may contact you via email, telephone, text message, postal mail, or any other means of communication that you provide to us as a means of contacting you.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by visiting our [opt-out](http://www.employmentnetwork.net/opt-out/) page.
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by visiting our [opt-out](http://www.careerco.com/opt-out/) page.
 
 ### INFORMATION DISCLOSURE
 
@@ -79,17 +88,17 @@ Technologies such as: cookies, beacons, tags and scripts are used by CareerCo LL
 
 We use cookies to remember users' search criteria (e.g. zip code). Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
-We use Local Storage Objects (LSOs) such as HTML5 to store [content information and preferences.] Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information.
+We use Local Storage Objects (LSOs) such as HTML5 to store. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information.
 
 Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
 ### OPTING OUT OF INTEREST-BASED ADVERTISEMENTS
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 ### PUBLIC FORUMS
 
-Any information you may disclose in our blogs, on message boards, in chat rooms when providing testimonials or product reviews, or on other public areas of the Site, becomes public information. Please exercise caution when disclosing personal information in these public areas. To request removal of your personal information from our public areas of our Site, contact us at [cbblogcomments@collegebound.net](mailto:cbblogcomments@collegebound.net). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. Alternatively, if you used a third party application to post such information, you can remove it, by either logging into the said application and removing the information or by contacting the appropriate third party application.
+Any information you may disclose in our blogs, on message boards, in chat rooms when providing testimonials or product reviews, or on other public areas of the Site, becomes public information. Please exercise caution when disclosing personal information in these public areas. To request removal of your personal information from our public areas of our Site, contact us at [blogcomments@careerco.com](mailto:blogcomments@careerco.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. Alternatively, if you used a third party application to post such information, you can remove it, by either logging into the said application and removing the information or by contacting the appropriate third party application.
 
 ### Social Media (Features) and Widgets:
 
@@ -98,6 +107,10 @@ Our Site includes Social Media Features, such as the Facebook Like button and Wi
 ### LINKS TO OTHER WEBSITES
 
 The Site may have links to third-party websites, which may have privacy policies that differ from our own. We are not responsible for the practices of such sites. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
+
+### TESTIMONIALS
+
+We display personal testimonials of satisfied customers on our website in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacy@careerco.com](mailto:privacy@careerco.com)
 
 ### OUR COMMITMENT TO CHILDREN'S PRIVACY
 
@@ -111,7 +124,7 @@ When you enter sensitive information our forms, we encrypt the transmission of t
 
 ### ACCESS TO YOUR PERSONAL INFORMATION
 
-To update your information stored by CareerCo LLC, please resubmit your new contact information along with your interests in certain employment or educational opportunities. If the Site uses an online account, you may sign in to your account and update your personal information. If you prefer that we no longer use your information to provide you with services, please visit our [opt-out](http://www.employmentnetwork.net/opt-out/) page. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+To update your information stored by CareerCo LLC, please resubmit your new contact information along with your interests in certain employment or educational opportunities. If the Site uses an online account, you may sign in to your account and update your personal information. If you prefer that we no longer use your information to provide you with services, please visit our [opt-out](http://www.careerco.com/opt-out/) page. We will respond to your request within a reasonable timeframe. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ### IF YOU HAVE QUESTIONS
 
