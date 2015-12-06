@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthjobsusa.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608054720id_/http%3A//www.healthjobsnationwide.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthjobsusa.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206235212id_/http%3A//www.healthjobsnationwide.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Healthcare Jobs & Medical Employment - Health Jobs Nationwide
 
@@ -19,7 +19,7 @@ You agree that HealthJobsNationwide.com may use your personal information to con
 
 This website is a member of the Medical Publisher Consortium (the "Consortium"), and as such has implemented various technologies for universal registration/log-in among all Consortium member websites. These technologies are managed by DMD Marketing Corp. ("DMD"), and may involve the collection, receipt, and sharing of information with DMD and among other Consortium members. If you would like to understand how this website's participation in the Consortium affects your privacy, please click here:
 
-[http://www.dmddata.com/c_host/PrivacyPolicy_v3.htm ](http://www.dmddata.com/c_host/PrivacyPolicy_v3.htm)
+<http://usersupport.dmdconnects.com/PrivacyPolicy.htm>
 
 Please note that the Consortium registration/log-in system may be different from the registration/log-in used by this website for other products and services. To the extent that anything in this privacy policy conflicts with the policy for the Consortium technologies, the conflict will be resolved in favor of policy applicable to the Consortium technologies.
 
