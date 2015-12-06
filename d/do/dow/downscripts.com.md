@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downscripts.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193645id_/http%3A//www.downscripts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downscripts.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206112706id_/http%3A//www.downscripts.com/privacy.html) for the most accurate reproduction.*
 
 # DownScripts Privacy Policy
 
