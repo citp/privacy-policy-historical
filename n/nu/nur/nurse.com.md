@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nurse.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626154603id_/http%3A//www.nurse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nurse.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206030659id_/http%3A//www.nurse.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of Nurse.com
 
-Last Updated: January 3, 2013
+Last Updated: July 13, 2015
 
 We take seriously your interest in how your information is collected and used. Please read the following to understand about our privacy practices.
 
@@ -14,12 +14,10 @@ Please read this Privacy Notice carefully. By visiting and using the Site, you a
 
 California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:
 
-Mark Faris  
 Online Privacy Coordinator  
-[ www.Nurse.com](http://www.nurse.com/)  
-Gannett Law Department  
-7950 Jones Branch Drive  
-McLean, VA 22107
+OnCourse Learning Legal Department  
+N19 W24075 Riverwood Drive, Suite 200  
+Waukesha, WI 53188
 
 ### How We Collect Information
 
@@ -99,9 +97,6 @@ Our Site also includes links to other websites and provides access to products a
 
 If you have any questions about this Privacy Notice, our privacy practices, or your dealings with us, you can contact:
 
-Mark Faris  
-Online Privacy Coordinator  
-[ www.Nurse.com](http://www.nurse.com/)  
-Gannett Law Department  
-7950 Jones Branch Drive  
-McLean, VA 22107
+OnCourse Learning Legal Department  
+N19 W24075 Riverwood Drive, Suite 200  
+Waukesha, WI 53188 
