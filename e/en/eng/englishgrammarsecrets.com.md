@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englishgrammarsecrets.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141117id_/http%3A//www.englishgrammarsecrets.com/statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishgrammarsecrets.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206162602id_/http%3A//www.englishgrammarsecrets.com/statement.htm) for the most accurate reproduction.*
 
 # 
 
@@ -45,4 +45,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 #
 
-These exercises do not work with all phones and tablets. [Go Back](https://web.archive.org/web/20150607141117id_/http%3A//index.html)
+These exercises do not work with all phones and tablets. [Go Back](https://web.archive.org/web/20151206162602id_/http%3A//index.html)
