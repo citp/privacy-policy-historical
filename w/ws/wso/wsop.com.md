@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsop.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152631id_/http%3A//www.wsop.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsop.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206054756id_/http%3A//www.wsop.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # World Series of Poker - Official Tournament Coverage and Results
 
@@ -248,6 +248,6 @@ If you are not a Total Rewards member and would prefer not to receive further em
 
 We may from time to time send promotional materials to you by direct mail. If you do not want to receive promotional materials by direct mail from us, please visit the customer service center at any Total Rewards Casino or call 1-800-CAESARS (223-7277). Your name and address will be removed from that mailing list within 30 days after your request. 
 
-[ ](https://web.archive.org/download/poker/?sr=485691&ANID=default)
+[ ](https://web.archive.org/download/poker/?sr=485691&ANID=HP2)
 
 Share & Connect   
