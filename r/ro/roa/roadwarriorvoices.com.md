@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadwarriorvoices.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145156id_/http%3A//roadwarriorvoices.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadwarriorvoices.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206040035id_/http%3A//roadwarriorvoices.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Road Warrior Voices
 
