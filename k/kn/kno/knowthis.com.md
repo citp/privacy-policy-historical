@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowthis.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607130235id_/http%3A//www.knowthis.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowthis.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206034244id_/http%3A//www.knowthis.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy - KnowThis.com
 
@@ -36,4 +36,4 @@ $30 for Print ****(420 pages)**
 
  _ **KnowThis: Marketing Basics, 2nd Edition**_ offers in-depth coverage of marketing and is ideal for the marketing novice, the marketing educator, the marketing professional and anyone else who needs to know about marketing.This book includes more than 60% new material not found on _**KnowThis.com**_.
 
-For more information including taking a look inside, [Click Here](http://www.knowthis.com/knowthis-marketing-basics-2nd-ed?id=1722).
+For more information including taking a look inside, [Click Here](http://www.knowthis.com/marketing-book).
