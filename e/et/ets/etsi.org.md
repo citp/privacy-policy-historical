@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etsi.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607065248id_/http%3A//www.etsi.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etsi.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206113321id_/http%3A//www.etsi.org/privacy) for the most accurate reproduction.*
 
 # ETSI - Privacy
 
