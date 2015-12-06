@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the write-out-loud.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152550id_/http%3A//www.write-out-loud.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the write-out-loud.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206040543id_/http%3A//www.write-out-loud.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy - write-out-loud.com
 
@@ -6,7 +6,7 @@ We recognize that your privacy is important. This document outlines the types of
 
 _write-out-loud.com_ strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.
 
-### **Personal Information**
+### Personal Information
 
 _write-out-loud.com_ collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, postal address, email address, company name and telephone number.
 
@@ -33,8 +33,6 @@ Browsers can be set to accept or reject cookies or notify you when a cookie is b
 We use Google AdSense to show you advertisements for goods and services that may be of interest to you. These advertisements are clearly identified. We do not have complete control over what products and services are advertised, and the fact that a particular product or service is advertised in this way is not an indication that we recommend or endorse that product or service. Any claim, statistic, quote or other representation should be verified with the seller, manufacturer or provider. We may receive a payment if you respond to any of these advertisements.
 
 We make a number of product and service recommendations throughout this website. We may, but in general do not, receive a payment for making these recommendations. In either case we recommend only those products and services that we believe to be suitable for the purpose, and that we would use ourselves. The views and opinions expressed on this site are those of the authors and other contributors only. Any claim, statistic, quote or other representation about a product or service should be verified with the seller, manufacturer or provider.
-
-We are happy to recommend SBI! (previously known as Site Build It!) from SiteSell to any of our visitors who would like to have their own successful website. We use this product ourselves, and believe that it represents excellent value for money. We receive no payment for recommending SBI!, but should you decide to purchase this product for yourself we may receive a commission. You are free to order from a number of sources, including SiteSell, but we would appreciate it if you would consider doing so through us. Fuller details of the product, and the opportunity to order, may be found on our [ **About Site Build It**](http://www.write-out-loud.com/site-build-it.html) page.
 
 ### Web Searching from this Site
 
