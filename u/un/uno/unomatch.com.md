@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unomatch.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122075150id_/http%3A//www.unomatch.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unomatch.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141249id_/http%3A//www.unomatch.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy , Unomatch - Get Socialized
 
