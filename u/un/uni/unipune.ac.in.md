@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the unipune.ac.in privacy policy that was archived on 2014-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140823114412id_/http%3A//unipune.ac.in/university_files/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unipune.ac.in privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206231138id_/http%3A//www.unipune.ac.in/university_files/privacy_statement.htm) for the most accurate reproduction.*
 
-# General Site Disclaimer : The University of Pune offers undergraduate, postgraduate and doctoral programs in sciences, languages, social sciences, law, management and other interdisciplinary programs.
+# General Site Disclaimer : Savitribai Phule Pune University offers undergraduate, postgraduate and doctoral programs in sciences, languages, social sciences, law, management and other interdisciplinary programs.
 
-Privacy Statement At the University of Pune we recognize that your personal privacy is a serious and important issue and we support the principle of protecting privacy on the Internet within the context of current Indian legislation.
+Privacy Statement At Savitribai Phule Pune University we recognize that your personal privacy is a serious and important issue and we support the principle of protecting privacy on the Internet within the context of current Indian legislation.
 
 This privacy policy explains how we treat your personal information. By using the University of Pune web site you consent to the collection and use of your personal information in accordance with this policy. Though the policy has been developed to take account of changes in Internet technology it is subject to change and any such changes will only be notified on this page.
 
 What information is collected?
 
-In order to use the main web site at the University of Pune, you are currently not required to register or provide any personal information about yourself. Any personal information collected from visitors to our website is on a purely voluntary basis, however by supplying the information you are consenting to the University keeping it for a reasonable period of time and using it for the purposes set out below.
+In order to use the main web site at Savitribai Phule Pune University, you are currently not required to register or provide any personal information about yourself. Any personal information collected from visitors to our website is on a purely voluntary basis, however by supplying the information you are consenting to the University keeping it for a reasonable period of time and using it for the purposes set out below.
 
 On occasions we may ask you to provide some limited personal information about yourself to participate in services such as the Alumni email directory or the University Contact Information and Online Faculty facility. This information may include your name, title, institutional affiliation, address, telephone number and email address. It may be stored electronically or manually by the University.
 
