@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getlittlebird.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145826id_/http%3A//www.getlittlebird.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getlittlebird.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206163657id_/http%3A//www.getlittlebird.com/privacy) for the most accurate reproduction.*
 
 # Little Bird - Influencer Marketing Platform - Privacy Policy
 
