@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anz.co.nz privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622223059id_/http%3A//www.anz.co.nz/auxiliary/help/help/website-security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anz.co.nz privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206042358id_/http%3A//www.anz.co.nz/auxiliary/help/help/website-security-privacy) for the most accurate reproduction.*
 
 # Website security and privacy statement | ANZ
 
@@ -24,7 +24,7 @@ ANZ understands and appreciates that you, as an ANZ website visitor, are concern
 
 As technology evolves, we will continue to strive to provide you with better, and more customised services and with a more effective website. We encourage you to review the ANZ Website Security and Privacy Statement periodically because it may change from time to time.
 
-The [ANZ Privacy Statement (PDF 60kB)](https://web.archive.org/resources/6/a/6a2db63d-6475-4935-ad5b-17e04feb1d11/Privacy-statement.pdf?MOD=AJPERES "ANZ Privacy Statement \(PDF 60kB\)") is contained in the ANZ General Terms and Conditions.It explains how ANZ generally protects your privacy and confidentiality and how ANZ treats your personal information. 
+The [ANZ Privacy Statement (PDF 36kB)](https://web.archive.org/resources/6/a/6a2db63d-6475-4935-ad5b-17e04feb1d11/Privacy-statement.pdf?MOD=AJPERES) is contained in the ANZ General Terms and Conditions.It explains how ANZ generally protects your privacy and confidentiality and how ANZ treats your personal information, including any personal information collected in accordance with this ANZ Website and Security Statement. 
 
 Back to top
 
@@ -48,11 +48,15 @@ The information that ANZ collects about you is dependent on how you use the faci
 
 If you visit an unsecure area of the ANZ website (that is, an area where you are not required to log on) to read, browse or download information, our system will record the date and time of your visit to our site, the pages viewed and any information downloaded. However, our systems will not record any personally identifiable information.
 
-The ANZ website may offer a number of interactive facilities including tools such as budget planners and home loan calculators, as well as online surveys and application forms.
+The ANZ website offers a number of interactive facilities including tools such as budget planners and calculators, as well as online surveys and application forms.
 
-If you use any of the tools such as the budget planner or home loan calculator we generally do not capture any personal information that you may enter when using these tools. An exception to this is when a tool such as a budget planner allows you to suspend or save your plan and retrieve the details at a later time. In that case the information is stored on our systems so that you may recover the information when you resume your plan. Any information stored in a suspended or saved budget planner or other similar tool will not be viewed by ANZ.
+By using an interactive facility on the ANZ website you agree that ANZ Group may collect and retain any personal information that you enter when using these interactive facilities, and that we can use that personal information to contact you about our products and services and for any other purpose set out in the ANZ Privacy Statement. You agree that this applies even if you save, suspend or cancel the interactive facility, without submitting your information to us.
 
-If you decide to complete an online application form or online survey, the information that you enter into the online form or survey will only be collected by the ANZ Group if you submit your online application or survey. If at any stage you cancel your application or log out prior to submitting your application or survey, the information you have entered up to that point will be automatically deleted. You can suspend and save online applications. If you suspend or save your application, for example because you wish to complete it at another time, the information that you have entered will be retained in our systems so that you may recover the information when you resume your application. You may only recover this information within 30 days. After this time, the information is deleted. Online applications that have been suspended or saved will not be viewed by us and are not processed by us.
+Any personal information collected from the ANZ website will be treated in accordance with the ANZ Privacy Statement.
+
+For example, the ANZ website contains a budget planner that allows you to suspend or save your plan and retrieve the details at a later time. In that case the information is stored on our systems and will not be automatically deleted. We can use any personal information you provide through that budget planner to contact you about our products and services. You may later recover the information you have entered when you resume your plan. 
+
+We will not submit online application forms or online surveys without your consent.
 
 ANZ uses Liveperson Inc. to deliver its live chat facility. If you decide to participate in a live chat, Liveperson Inc., on behalf of the ANZ Group, collects, stores, uses and discloses any personal information that you provide for quality assurance purposes and to allow ANZ to follow up with your inquiry. Liveperson Inc. is required under its arrangements with ANZ to maintain the privacy and confidentiality of that personal information.  
 
