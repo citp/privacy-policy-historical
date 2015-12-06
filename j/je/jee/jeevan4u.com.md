@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeevan4u.com privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528064128id_/http%3A//www.jeevan4u.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeevan4u.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206085647id_/http%3A//www.jeevan4u.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Jeevan4u.com Privacy Policy
 
