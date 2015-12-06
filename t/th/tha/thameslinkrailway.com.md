@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thameslinkrailway.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145552id_/http%3A//www.thameslinkrailway.com/contact-us/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thameslinkrailway.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206040204id_/http%3A//www.thameslinkrailway.com/contact-us/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy : Thameslink
 
@@ -33,20 +33,19 @@
 1.4. For the purposes of the Data Protection Act 1998 (the “Act”), the Data Controller is:
 
 **Govia Thameslink Railway Limited**  
-3RD FLOOR   
-41-51 GREY STREET   
-NEWCASTLE UPON TYNE   
-NE1 6EE   
+Monument Place  
+24 Monument Street  
+London EC3R 8AJ  
 Company No. 07934306
 
 1.5 Our representative for the purpose of the Act is:
 
-Data Protection Officer  
-Internal Control Department  
-Hertford House  
-1 Cranwood Street  
-London   
-EC1V 9QS
+Chris Fisher  
+Internal Audit and Compliance Manager  
+1st Floor  
+Monument Place  
+24 Monument Street  
+London EC3R 8AJ
 
 More information about the Data Protection Act can be found on the [Information Commissioners website](http://www.ico.gov.uk/ "Information Commissioners Website") 
 
@@ -104,12 +103,12 @@ If you are an existing customer, we will only contact you by electronic means (e
 
 4.2. To prevent all contact by us to you: Alternatively you can opt out at any time by contacting us by using the following details:
 
-Data Protection Officer  
-Internal Control Department  
-Hertford House  
-1 Cranwood Street  
-London   
-EC1V 9QS
+Chris Fisher  
+Internal Audit and Compliance Manager  
+1st Floor  
+Monument Place  
+24 Monument Street  
+London EC3R 8AJ
 
 More contact detail information can be found in our [Contact Us](https://web.archive.org/contact-us/ "Contact us") section.
 
