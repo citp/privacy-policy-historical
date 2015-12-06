@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsliner.in privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429111425id_/http%3A//newsliner.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsliner.in privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206110817id_/http%3A//newsliner.in/privacy-policy) for the most accurate reproduction.*
 
-# Newsliner- The New journalism
+# Newsliner- Citizen journalism| News Papers| Magazines
 
 Privacy Policy
 
