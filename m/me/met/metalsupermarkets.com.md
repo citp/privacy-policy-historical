@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metalsupermarkets.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607231949id_/http%3A//metalsupermarkets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metalsupermarkets.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206234405id_/http%3A//metalsupermarkets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Metal Supermarkets
 
