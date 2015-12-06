@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the government-jobs.in privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145158id_/http%3A//government-jobs.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the government-jobs.in privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206210651id_/http%3A//government-jobs.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy PolicyGovernment Jobs | Government Jobs
 
