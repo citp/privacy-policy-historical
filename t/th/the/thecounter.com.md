@@ -1,162 +1,115 @@
-> *The following text is extracted and transformed from the thecounter.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616152109id_/http%3A//www.htmlgoodies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecounter.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141841id_/http%3A//www.thecounterburger.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# The Counter : Custom Built Burgers : Privacy
 
-**LAST UPDATED** : October 22, 2010
+At The Counter®, we know that privacy is a major concern of visitors to our web site ("Site"). This policy describes the personal information we collect on our Site, how we use it, and when we share it with third parties. This policy applies only to personal information collected via this Site, and does not apply to personal information collected offline (such as information you may provide over the phone, via fax, or when visiting The Counter® restaurant or any other website).
 
-### **PRIVACY POLICY**
+By using this Site, you agree to this Privacy Policy and to the Terms and Conditions governing its use. If you have questions, comments or concerns about our Privacy Policy, please contact us at [info@thecounterburger.com](mailto:info@thecounterburger.com?subject=Questions%2FComments%2FConcerns).
 
-**QuinStreet, Inc.** is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect through the website owned and controlled by us from which you are accessing this Privacy Policy (the " **Site** "). By using our Sites, you agree to the terms and conditions of this Privacy Policy.
+Please note that the headings contained in this Privacy Policy are inserted for convenience of reference only and shall not in any way define or affect the meaning, construction, or scope of any of the provisions contained in this Privacy Policy.
 
-  
+ **Our Business Structure**  
+You know us as The Counter®. Our operating company is CB Franchise Systems, LLC. Throughout this policy and this Site we will make reference to The Counter® and/or the Company, which shall refer to CB Franchise Systems, LLC and/or one or more of their affiliated companies, as the case may be.
 
+The Counter® name, design, logos and related marks are trademarks or registered trademarks of the Company. The Counter® restaurants are owned and operated either by the Company or by independent franchisees. The Company licenses independent franchisees to provide The Counter® products and services to the public. The Counter® assumes no responsibility for the privacy practices of our franchisees in their handling of your personal information they collect from you online or offline. If you have questions or concerns about the conduct of a The Counter® franchisee, please contact that franchisee directly. If you need assistance reaching a franchisee, please contact us at [info@thecounterburger.com](mailto:info@thecounterburger.com) or see the For More Information section below.
 
-### **PERSONAL INFORMATION**
+ **Information We Collect and How We Use It**  
+You do not have to provide any personal information to us in order to use our Site. You control how much or how little personal information you submit to us. You can send us your personal information in a variety of ways. If you communicate with us by email or through an online form on this Site, we will collect your name, email address, and the additional information that you provide. Online forms permit you to, among other things, subscribe to The Counter® e-zines, provide us feedback, and ask questions. Participating in some online services may require you to register. We use this information in the following ways:  
 
-**Personal Information We Collect**
 
-“ **Personal Information** ” is information that identifies you as an individual, such as: 
+  * To provide you with the information and/or services that you have requested, such as your request to receive The Counter® e-zines or to identify The Counter® restaurant near your home.
+  * To enhance our customers' experiences in our restaurant and on our Site.
+  * To measure the effectiveness of our online and offline marketing efforts and to develop products, services, and marketing programs. This analysis may include combining personal data drawn from online and offline sources.
+  * We may use third party suppliers and service providers to facilitate our Site and may make personal information available to them to the extent necessary for them to host our Site or to provide other services to The Counter®. Whenever we do this, we require that our third party suppliers and service providers agree to maintain the confidentiality of the personal information we provide to them.
 
-  * Name
-  * Postal address
-  * Telephone number
-  * Email address
-  * Credit or debit card number 
 
 
+We do not sell or rent to third parties any of the personal information that consumers and investors provide to us online, but we may share your information with our affiliates, our The Counter® franchisees, and/or lenders to and/or investors in our company. Primarily, we share information with these third parties only to respond to your specific request or to obtain their advice on how to improve our business. We do not authorize third parties unaffiliated with The Counter® to make independent use of your information for their own purposes, such as for direct marketing.
 
-In some cases, we may collect information, such as your age, weight, health conditions, insurance type, and whether you’re a non-smoker, combined with your Personal Information. We will treat all such information as Personal Information as long as it is combined with Personal Information.
+ **Gift Cards**  
+We use a third party service provider to facilitate the gift card service that we may make available to you. The information that you submit while placing a gift card order ("Gift Card Information"), including your name, address, email address, phone number and credit card information, is collected by our third party gift card service provider. The Counter® does not collect or store your Gift Card Information and will not share this information with other third parties. We require our gift card service provider to maintain the confidentiality of the Gift Card Information that you submit and to use the Gift Card Information only for purposes related to fulfilling and tracking your order, providing you with related customer service and for reporting purposes. Please review the privacy policy on the gift card service site for specific information. We also require our gift card service provider to maintain your Gift Card Information on a secure server and to use at least industry standard encryption technology and security procedures for all payment processing. Please also see the Links to Other Sites section below.
 
-We collect Personal Information when you interact with us on the Site. We may associate Personal Information you provide through the Site with Personal Information collected from other sources. We will use the combined information in accordance with this Privacy Policy as long as it is combined.
+ **Franchise Inquiries**  
+All information submitted to The Counter® on our Request for Consideration form is used only to assist in the screening of potential franchisees and will be kept confidential.
 
-**How We Use Personal Information**
+On the Request For Consideration form, we will collect your name, address, email address, other contact information, and certain financial information and qualifications information that you must enter on the form. By submitting this information, you agree that The Counter® may retain and use the information to respond to your inquiry, to evaluate you as a potential franchisee including consenting to allow us to conduct a background check on you including but not limited to credit history, criminal record and DMV records and to help us improve our franchise marketing efforts. Information on your online form will become part of any application for a franchise that you might later submit. We may disclose your personal information to our business units, agents, affiliates and to other third parties as part of our consideration of any subsequent franchise application. We do not authorize unaffiliated third parties to use your personal information for any purpose other than consideration of your application.
 
-We may use Personal Information: 
+Company voice mail and/or electronic mail (e-mail) are to be used for legal business purposes only. The Company reserves the right to monitor voice mail messages and e-mail messages at any time to ensure compliance with this rule without notice to you. You do not have an expectation of privacy regarding your use of our voice mail system or email through our servers.
 
-  * When you request, to connect you with vendors who will provide you with information about products and services. 
-  * to respond to your inquiries and fulfill your requests, such as to send you newsletters.
-  * to send you important information regarding the Site, changes to our terms, conditions, and policies and/or other administrative information. 
-  * to send you surveys and marketing communications that we believe may be of interest to you. 
-  * to personalize your experience on the Site and our other websites by presenting advertising, products and offers tailored to you. 
-  * to allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully. 
-  * to allow you to send messages to a friend through the Site. By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address. 
-  * for our business purposes, such as data analysis, audits, developing new products, enhancing our website, improving our services, identifying usage trends and determining the effectiveness of our promotional campaigns. 
-  * if you purchase a product or service from us, to complete and fulfill your purchase, for example, to have your payments processed, communicate with you regarding your purchase and provide you with related customer service.   
+ **Contests**  
+On occasion, The Counter® may conduct contests with the opportunity to win prizes. Each contest has its own terms and conditions ("Official Contest Rules"). As part of entering a contest on-line, certain personally identifiable information (such as name, address, phone number, etc.) may be required. This information will be used as described in the applicable Official Contest Rules.
 
+ **Promotions**  
+This Site may allow you to obtain various promotions offered by The Counter® which can be redeemed at any participating location in the United States during the dates specified on the particular coupon. To take advantage of the promotion(s), you must submit your zip code or restaurant location via an online form. This information will only be used to track the number of promotions being downloaded by zip code or restaurant in order to allow The Counter® restaurants to adequately plan for promotion redemption. There is no limit to the number of promotions you can obtain from this Site, however applicable terms and conditions appear on the coupon itself.
 
+ **Job Application Information**  
+We collect employment application information through this Site. You may also fax your résumé to The Counter® restaurant near you. We protect the confidentiality of such information, but this online Privacy Policy does not apply to such faxes because they occur offline.
 
+ **Press Information**  
+If you are a member of the press, The Counter® will collect your name and contact information in order to respond to your inquiry submitted on our Press Room web page. We may store your personal information and inquiries for future reference.
 
-**How Personal Information is Disclosed**
+ **Site Usage Information**  
+Like most web sites, this Site gathers traffic patterns, site usage information and other aggregated data in order to evaluate our visitors' preferences and the effectiveness of our Site. This aggregate usage data does not identify you individually. We may share anonymous, aggregated statistics about visitors to our Site with others outside our company, or we may allow third-parties to collect aggregate data through our Site. Our Site does not use web beacons.
 
-Your Personal Information may be disclosed:
+ **Cookies**  
+Cookies are small pieces of information stored by your browser on your computer’s hard drive, which do not contain personally identifying information. Most web browsers are set up to accept cookies; you can usually change your browser settings to refuse cookies.
 
-  * to our affiliates, including but not limited to QuinStreet Media, Inc. and WorldWideLearn, Inc., for the purposes described in this Privacy Policy. QuinStreet, Inc. is the party responsible for the management of the jointly-used Personal Information.
-  * to our third party service providers who provide services such as contact information verification, payment processing, order fulfillment, customer service, website hosting, data analysis, infrastructure provision, IT services, email delivery services, auditing services and other similar services to enable them to provide services. 
-  * if you request information from vendors so that they can provide you with information about their products and services. WE ARE NOT RESPONSIBLE OR LIABLE FOR VENDORS’ USE OF YOUR PERSONAL INFORMATION. 
-  * if you choose to download a white paper, eBook, or other resource, to our clients, partners and current and future sponsors of that resource. If you do not want to be contacted by these third parties, please do not download, view or otherwise access the white papers, eBooks and other resources.
-  * if you post your resume on the Site and elect to permit it to be searched by potential employers and staffing agencies, to these potential employers and staffing agencies. We do not control the use and disclosure of Personal Information by these potential employers and staffing agencies. While it is our goal that only employers or staffing agencies will gain access to Personal Information in resumes, we cannot guarantee that no other persons or entities will gain such access. WE ARE NOT RESPONSIBLE FOR THE USE OR DISCLOSURE BY OTHERS OF ANY PERSONAL INFORMATION YOU DISCLOSE IN YOUR RESUME.
-  * to third parties to permit them to send you marketing communications, including third parties who may provide similar services as the original service about which you requested more information. 
-  * to third party sponsors of sweepstakes, contests and similar promotions. 
-  * to identify you to anyone to whom you send messages through the Site.
-  * by you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials. Please note that any information you post or disclose through these services will become public information, and may be available to visitors to the Site and to the general public. 
-  * to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
-  * as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+The Counter® may set and access cookies on your computer to enhance your shopping experience on the Site, to allow you to navigate quickly, and to keep track of items when you shop online. If you choose to disable or refuse The Counter® cookies, you may not be able to access or use certain portions of the Site.
 
+Other companies' use of their cookies is subject to their own privacy policies, not this one. Other companies do not have access to The Counter® cookies.
 
+ **Children's Privacy**  
+The Counter® recognizes the importance of protecting the privacy of children. We do not knowingly collect any personally identifiable information from children under the age of thirteen years. This Site is directed to adults at least eighteen years old, and when a user discloses personal information on this Site, the user is representing to us that he or she is an adult. If a child has provided this Site with personally identifiable information, we ask that a parent or guardian e-mail us at [info@thecounterburger.com](mailto:info@thecounterburger.com?subject=Remove%20Child%20Information), and we will promptly delete the child's information from our records.
 
-###   
-**NON-PERSONAL INFORMATION**
+ **Security of Your Personal Information**  
+The Counter® limits access to personal information about you to employees with a reasonable need to know in order to provide products or services to you.
 
-**Non-Personal Information We Collect**
+We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. We use reasonable efforts to help keep your personal information secure. Any purchases that you make through the Site are actually made after you link to the secure servers of our payment partner, and your credit card information will not be available to us. Certain browsers will not permit communication through secure servers. If this is the case, you will not be able to place an order online. You will need to download a different browser or contact us at the address set forth below.
 
-" **Non-Personal Information** " is any information that does not reveal your specific identity, such as: 
+ **Secure Shopping**  
+You can shop at TheCounterBurger.com with confidence. We have partnered with Authorize.Net, a leading payment gateway since 1996, to offer safe and secure credit card transactions for our customers.
 
-  * Browser information
-  * Information collected through cookies, pixel tags and other technologies
-  * Demographic information and other information provided by you
-  * Aggregated information
+The Authorize.Net Payment Gateway manages the complex routing of sensitive customer information through the credit card and electronic check processing networks ([see an online payments diagram](http://www.authorize.net/resources/howitworksdiagram/)). The company adheres to strict industry standards for payment processing, including:
 
+  * 128-bit Secure Sockets Layer (SSL) technology for secure Internet Protocol (IP) transactions.
+  * Industry leading encryption hardware and software methods and security protocols to protect customer information.
+  * Compliance with the Payment Card Industry (PCI) Data Security Standard.
 
 
-  
-**How We Collect Non-Personal Information**
 
-We and our third party service providers may collect Non-Personal Information from you, including your MAC address, your computer type, screen resolution, OS version, Internet browser, as well as demographic data, for example, your location, educational degree, balance on mortgage, value of real estate, income, age, weight, type of insurance, diabetic or smoking-related statistics. We also aggregate Personal Information in a manner such that the end-product does not personally identify you or any other user of the Site, for example, by using Personal Information to calculate the percentage of our users who have a particular telephone area code. We may also collect Non-Personal Information through the use of cookies, pixel tags, web beacons, and other similar technologies for example to help identify you and maintain your signed-in status or to measure the effectiveness of e-mail communications. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies. To delete any local shared objects, please visit [**http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html#117717**](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html#117717). To learn more about cookies, please visit [**http://www.allaboutcookies.org/**](http://www.allaboutcookies.org/).
+For additional information regarding the privacy of your sensitive cardholder data, please read the [Authorize.Net Privacy Policy](http://www.authorize.net/company/privacy/).
 
-**How We Use and Disclose Non-Personal Information**
+ **Changes in Our Privacy Policy**  
+We reserve the right to change our Privacy Policy from time to time — for example, by altering our policy on sharing personal information. Be sure to check this page periodically for updates.
 
-Because Non-Personal Information does not personally identify you, we may use and disclose Non-Personal Information for any purpose. In some instances, we may combine Non-Personal Information with Personal Information (such as combining your name with your geographical location). If we combine any Non-Personal Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined.
+ **Transfer of Assets or Business**  
+In the event of a transfer or sale of some or all of our business or assets, The Counter® may disclose your personal information to those involved in such a transfer or sale of business or assets.
 
-### **IP ADDRESSES**
+ **Changing Your Information**  
+Moved? Changed e-mail addresses? If you need to update or verify your Personal Information, please contact us at [info@thecounterburger.com](mailto:info@thecounterburger.com?subject=Changes%20to%20Information). Upon request, The Counter® will remove your Personal Information from our active database as soon as reasonably possible, unless we need to retain information for dispute resolution, troubleshooting and other valid legal or business reasons. Please note that we will not remove your historical usage information.
 
-Your " **IP Address"** is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). 
+ **Links to Other Sites**  
+Our Site may provide links to web sites not operated by The Counter®. The Counter® assumes no responsibility for the privacy practices of these third-party sites. We encourage you to be aware of this when you leave our Site, and we recommend that you review the privacy policies of every web site that collects personally identifiable information from you. This Privacy Policy applies only to this Site.
 
-**How We Log IP Addresses**
+Although we endeavor to open a new browser window when you click on a link to a third party site, The Counter® does not guarantee that you will receive this alert when you leave our Site. It is your responsibility to determine when you have left this Site. 
 
-An IP Address is identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice on the Internet and is done automatically by many web sites. 
+**Your California Privacy Rights**  
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of The Counter® who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [info@thecounterburger.com](mailto:info@thecounterburger.com?subject=California%20Direct%20Marketing%20Disclosure%20Request) or write us at: The Counter, 8571 Higuera Street, Culver City, CA 90232.
 
-**How We Use and Disclose IP Addresses?**
+ **Governing Law**  
+The Counter® controls and operates this Site in the United States of America. Our online privacy practices are governed by the laws of the United States and California, which may differ from privacy laws in your state or home country. By submitting your personal information to this Site, you consent to the transfer of your personal information to any country and its use and disclosure in accordance with U.S. federal and California law and with this Privacy Policy.
 
-We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, geographic mapping and administering the Site. We may also use and disclose IP Addresses for all the purposes for which we use and disclose Personal Information. Please note that we treat IP Addresses, server log files and related information as Non-Personal Information, except where we are required to do otherwise under applicable law. 
+ **Language**  
+This English-language Privacy Policy is The Counter's official statement of its online privacy practices. In case of any inconsistency between this English-language Privacy Policy and its translation into another language, this English-language document controls.
 
-### **THIRD PARTY SITES**
+ **For More Information**  
+If you have any questions regarding our Privacy Policy, please contact our agent:
 
-This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site to which this Site contains a link. The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates. 
+> **Craig Albert**   
+>  8571 Higuera Street   
+>  Culver City CA 90232   
+>  310 559 3355   
+>  [craig@thecounterburger.com](mailto:craig@thecounterburger.com)
 
-### **THIRD PARTY VENDORS**
-
-We also work with vendors and partners in operating and improving the Site. These vendors and other partners include advertisers (including both banner and text advertising), retargeters and web analytics companies. These partners and vendors use cookies, web beacons and other technologies to collect information about your online activity (e.g., the sites and pages you have visited at the Site and at times other third party sites) in order to: help manage ad campaigns, understand user interests and trends and deliver personalized content and advertising to you while you are on the Site or on other sites. You can opt out of some of our vendors' use of cookies and other technologies to tailor personalized content or advertising to you by visiting [**http://networkadvertising.org/optout_nonppii.asp**](http://networkadvertising.org/optout_nonppii.asp) and [**http://www.clicktale.net/disable.html**](http://www.clicktale.net/disable.html).
-
-PLEASE NOTE THAT WE ARE NOT RESPONSIBLE OR LIABLE FOR THE ACTS AND/OR OMISSIONS OF THIRD PARTY VENDORS. 
-
-### **SECURITY**
-
-We use reasonable organizational, technical and administrative measures to protect Personal Information under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the “ _Contacting Us_ ” section below.
-
-### **CHOICES AND ACCESS**
-
-**Your choices regarding our use and disclosure of your Personal Information**
-
-We give you choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from: 
-
-  * **Receiving electronic communications from us and our affiliates** : If you no longer want to receive marketing-related emails from us and our affiliates on a going-forward basis, you may opt-out of receiving these marketing-related emails by clicking [here](http://www.emchoice.com/unsubscribe/index.jsp?MERID=3589) and following the instructions to unsubscribe.
-  * **Our sharing of your Personal Information with unaffiliated third parties** : If you would prefer that we do not share your Personal Information on a going-forward basis with unaffiliated third parties for their marketing purposes, you may opt-out of this sharing by contacting us at as further explained in “How you can access, change or suppress your Personal Information” below and requesting that we suppress all of your Personal Information on a going-forward basis. Please note that if you opt-out of such sharing, we will not be able to remove your Personal Information from the databases of third parties with which we have already shared your Personal Information (i.e., to which we have already provided your Personal Information as of the date that we implement your opt-out request). If you wish to cease receiving marketing-related e-mails from these third parties, please contact them directly or utilize any opt-out mechanisms in their privacy policies or marketing-related e-mails.
-
-
-
-We will seek to comply with your request(s) as soon as reasonably practicable. Please note that if you do opt-out of receiving marketing-related messages from us, we may still send you important administrative messages, and you cannot opt-out from receiving administrative messages.
-
-**How you can access, change or suppress your Personal Information**
-
-If you would like to review, correct, update, suppress, delete or otherwise limit our use, on a going-forward basis, of your Personal Information that has been previously provided to us, you may do so by contacting us at [**info@quinstreet.com**](mailto:info@quinstreet.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process. For your protection, we will only implement such requests with respect to the Personal Information associated with the particular e-mail address that you use to send us your request, and we may need to verify your identity before implementing your request.
-
-In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. We will try to comply with your request as soon as reasonably practicable. 
-
-### **RETENTION PERIOD**
-
-We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law. 
-
-### **USE OF SITE BY MINORS**
-
-The Site is not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide Personal Information through the Site. 
-
-### **CROSS-BORDER TRANSFER**
-
-Your Personal Information may be stored and processed in any country where we have facilities, and by providing any PII to us, you consent to the transfer of such Personal Information to countries outside of your country of residence, including the United States, which may have different data protection rules from your country of residence.
-
-### **SENSITIVE INFORMATION**
-
-We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., Social Security number, driver’s license number, credit card number (unless necessary to make a purchase), information related to racial or ethnic origin, political opinions, religion or other beliefs, criminal background or trade union membership) on or through the Site or otherwise to us. 
-
-### **UPDATES TO THIS PRIVACY POLICY**
-
-We may change this Privacy Policy. Please take a look at the “ _LAST UPDATED_ ” legend at the top of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site. Your use of the Site following these changes means that you accept the revised Privacy Policy.
-
-### **CONTACTING US**
-
-If you have any questions about this Privacy Policy, please contact us by email at [**info@quinstreet.com**](mailto:info@quinstreet.com), or please write to the following address:
-
-     Privacy   
-     QuinStreet  
-     950 Tower Lane, 6th Floor  
-     Foster City, CA 94404
+_© 2007 The Counter®. All Rights Reserved.  
+The Counter®, The Counter® logo, and other marks and logos are the intellectual property of The Counter®._
