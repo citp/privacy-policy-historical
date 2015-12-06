@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the topsecretrecipes.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602011654id_/http%3A//www.topsecretrecipes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsecretrecipes.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206232356id_/http%3A//www.topsecretrecipes.com/privacy.html) for the most accurate reproduction.*
 
 # Top Secret Recipes | Privacy Policy
-
-## Privacy
 
 Top Secret Recipes®, Inc. (Topsecretrecipes.com) uses its best efforts to respect the privacy of its on-line visitors. Top Secret Recipes may use "cookie" technology only to obtain non-personal information from its on-line visitors in order to improve your on-line experience. For example, we track the total number of visitors to our site in the aggregate.
 
@@ -14,4 +12,4 @@ We urge parents to regularly monitor and supervise their children’s on-line ac
 
 ADVERTISEMENTS
 
-Some of the ads appearing on this Web site are delivered to you by SheKnows, our Web advertising partner. In the course of delivering an ad to you SheKnows collects certain non-personally identifiable information about your visits to this and other Web sites. This information is used to deliver tailored ads to you. During this process, MaxWorldWide may also place or recognize a unique "cookie" on your browser. MaxWorldWide has significant security measures in place in their physical facilities and in their computer systems, databases, and communications networks to strictly protect information contained within their systems from loss, misuse or alteration. If you would like to know more about the information gathering practices and "opt-out" procedures of MaxWorldWide, please [click here](http://www.doubleclick.net/privacy_policy/).
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies [click here](http://www.networkadvertising.org/managing/opt_out.asp%22).
