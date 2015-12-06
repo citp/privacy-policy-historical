@@ -1,40 +1,31 @@
-> *The following text is extracted and transformed from the dunzo.net privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408191239id_/http%3A//dunzo.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunzo.net privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206214131id_/http%3A//dunzo.net/nav/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | dunzo.net
+# 
 
-Introduction
+#### Privacy Policy
 
-This Privacy Policy describes how Voyager Media,dba of a California Corporation, doing business as dunzo.net (dunzo.net, collects and uses non-personally identifying information from users of the dunzo.net.com website at http://www.dunzo.net(along with all subdomains, collectively, the Site.
+This Privacy Policy describes the policies of Voyager Media, LLC, a Delaware limited liability company ("we", "our" or "Dunzo") on the collection, use and disclosure of your information on www.dunzo.net ("Site") and the services, features, content or applications we offer (collectively, "Services"). As a result of your visitation to the Site, we receive information about you either related to means of electronic identification, such as your IP address or cookies, as well as information that you voluntarily submit to the website (collectively "Submitted Information"). This information enables Dunzo to personalize, improve, and continue to operate the Services. 
 
-We never knowingly collect or maintain information at or on our Site from those we actually know are under 18 years old, and no part of our Site is directed at or structured to attract anyone under 18 years old. Visitors younger than 18 years of age may NOT use the Site and must LEAVE immediately.
+#### Third Party Uses of Submitted Information
 
-How we Collect and Use Non-Personally Identifying Information
+We may also receive Submitted Information from third party organizations or individuals. By your use of the Services, you are consenting to the collection, transfer, manipulation, storage, display, disclosure, and other uses of your information to third party individuals or organizations. However, this Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications that you elect to access through the Service, or to any individuals that we do not manage or employ. We collect the following types of information from our users. 
 
-As is true of most Web sites, we gather Web server log file information automatically such as your IP address, browser type, referring/exit pages, and operating system. We use this information to administer our Site, understand how visitors navigate through our Site and to enhance your experience while using our Site.
+#### IP Address Information and Cookies
 
-We use third-party advertising companies to serve ads and collect data when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
+We automatically receive and record information from your web browser when you interact with the Services, including your IP address and cookies ("Identifying Information"). This Identifying Information is used for several purposes such as determining how frequently you and other individuals visit the Site, protecting the Site from malicious activity, and collecting data related to your interaction with the Services. Through the collection of this Identifying Information, Dunzo can more efficiently design its Services to provide you with content that represents what you want to see and to improve your experience with the Site. 
 
-Cookies and Web Beacons
+#### Advertising
 
-Cookies and web beacons are very small text files that are stored on your computer when you visit certain web pages. dunzo.net collects information through cookies and web beacons about your web browsing activities such as the address of the page you are visiting, the address of the referrer page you previously visited, the time you are viewing the page, your browsing environment and your display settings. We use cookies and web beacons on our Site to:
+To support and enhance the Services, we may provide advertisements, as well as allow third parties advertisements on our Site. These advertisements may be targeted and or may come from third party advertisement companies. When your web browser requests these advertisements from the third party advertisement company's servers, these companies can view, edit, or send you their own cookies, just as if you had clicked on a website link directly from their site. By using Dunzo's services, you consent to any cookies being placed onto your web browser either by Dunzo, or by any third party advertisement company. 
 
-Understand traffic patterns and the number of visitors to the Site and other non-dunzo.net websites that we partner with;  
-Understand how you use and interact with the Site;  
-Improve the dunzo.net products and services;  
-Optimize your experience on our Site;  
-Provide anonymous individual or aggregate auditing, research, modeling and reporting for our advertisers and other partners (no personally identifiable information about you is shared with our advertisers and other partners as part of these activities);  
-Provide you relevant advertising and content; and  
-Properly manage our Site.  
-Please note that some cookies may be placed by a third party service provider who performs some of these functions for us. Other companiesâ€™ use of their cookies is subject to their own privacy policies, not this one.
+#### How we Collect and Use Non-Personally Identifying Information
 
-If you are concerned about cookies, most browsers permit individuals to decline cookies. A user refusing cookies can still fully navigate our Site.
+We use third-party advertising companies to serve ads and collect data when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp 
 
-Links to Other Web Sites
+#### California Residents
 
-This Site may contain links to other sites owned by third parties. Your use of each of those sites is at your own risk and is subject to the terms of those sites. dunzo.net has no control over sites that are not ours, and dunzo.net is not responsible for any changes to or content on them. dunzo.net assumes no responsibility for the content of or services offered by linked third-party sites, and makes no representations regarding the accuracy of materials on third-party Web sites. Statements made on third-party Web sites linked to or from this Site reflect only the views of their authors and not of dunzo.net. dunzo.netâ€™s inclusion on the Site of any third-party content or a link to a third-party site is not an endorsement of that content or third-party site.
+In California, you are entitled to ask us for a notice identifying the categories of personal information we share with any third parties for marketing purposes, as provided for in California Civil Code sections 1798.83 and 1798.84. If you are a California resident and would like a copy of this information, please submit a written request to the following: support@voyagermedianetwork.com. 
 
-Changes to this Privacy Policy.
+#### User Comments
 
-dunzo.net reserves the right to update and change, from time to time, this Privacy Policy and all documents incorporated by reference. You can find the most recent version of this Privacy Policy at http://www.dunzo.net/terms-of-use/. If dunzo.net changes this Privacy Policy in ways that affect whether and how it uses your personally identifying information, dunzo.netwill advise you of choices you may have as a result of those changes. dunzo.net will also post a notice on its home page that this Privacy Policy has changed. Use of the Site after such changes constitutes acceptance of such changes.
-
-If you have questions about this Privacy Policy or want to contact us, please send an email to support@dunzo.net
+Dunzo permits you to provide your own content to the Site, including written comments. All content submitted by you to the Services may be retained and displayed by us indefinitely, even after you terminate your account. By your use of the Site, you understand that you may also display your comments onto third party websites of which you maintain an account, such as on Facebook or Twitter. Dunzo does not control any information that you simultaneously display on third party websites through the use of Dunzo's Services. Dunzo encourages you to review the privacy policies and terms of service of any third party websites, which may also display information posted through Dunzo. Effective Date: 04-02-2014 If you have questions about this Privacy Policy or want to contact us, please send an email to support@voyagermedianetwork.com 
