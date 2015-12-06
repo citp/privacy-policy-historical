@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the semioffice.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608014320id_/http%3A//semioffice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semioffice.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206143120id_/http%3A//semioffice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SemiOffice.Com
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online website based information practices and the choices you can make about the way your information is collected and used. We collect emails in comment forms but we do not publish and sale any information to third parties. We use supposed person names, business names and addresses for protection. If any post matches someone’s information than there is no need to worry about because all personal data is supposed and mentioned here in our privacy policy.
+
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners.
 
 Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
