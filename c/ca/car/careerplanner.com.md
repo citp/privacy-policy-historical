@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerplanner.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607135746id_/http%3A//www.careerplanner.com/Support-Files/Privacy-Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerplanner.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206155608id_/http%3A//www.careerplanner.com/Support-Files/Privacy-Policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy and Credit Card Security
 
@@ -137,4 +137,4 @@ We have been accepting credit cards over the internet for more than 10 years. Th
 
 As a final comfort, most credit card companies will drop a credit card charge if you tell them you never made the charge. They have to do this to stay in business. 
 
-[Click here to see our refund policy](https://web.archive.org/web/20150607135746id_/http%3A//www.careerplanner.com/Shop/Refund-Policy.cfm)
+[Click here to see our refund policy](https://web.archive.org/web/20151206155608id_/http%3A//www.careerplanner.com/Shop/Refund-Policy.cfm)
