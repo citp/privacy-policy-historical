@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpmydirectory.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607134328id_/http%3A//www.phpmydirectory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpmydirectory.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206030533id_/http%3A//www.phpmydirectory.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - phpMyDirectory
 
@@ -18,4 +18,4 @@ With the exception of credit card information, we store the information submitte
 
 ## Information Correction or Removal
 
-If you wish to correct, update or remove any information about you that may be in our records, please [contact us](https://web.archive.org/web/20150607134328id_/http%3A//www.phpmydirectory.com/contact.html) with the details of your request.
+If you wish to correct, update or remove any information about you that may be in our records, please [contact us](https://web.archive.org/web/20151206030533id_/http%3A//www.phpmydirectory.com/contact.html) with the details of your request.
