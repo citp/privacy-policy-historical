@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the teachthought.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618085831id_/http%3A//www.teachthought.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachthought.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206162218id_/http%3A//teachthought.com/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy - TeachThought
-
-**What information do we collect?**
 
 Servers you connect to TeachThought through automatically collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form.
 
