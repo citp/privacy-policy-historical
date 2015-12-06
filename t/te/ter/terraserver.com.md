@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the terraserver.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072300id_/http%3A//www.terraserver.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terraserver.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114158id_/http%3A//www.terraserver.com/privacy.asp) for the most accurate reproduction.*
 
 # TerraServer - Privacy Policy
 
-|    
+|  |    
 ---  
 Privacy Policy  
    
@@ -27,7 +27,7 @@ TerraServer uses cookies to enhance the performance of the site, to track subscr
   
    
 SHARING INFORMATION  
-Though we make every effort to preserve user privacy, we may disclose personal information when required by law or requested by law enforcement wherein we have a good-faith belief that such action is necessary. Personally identifiable information is not shared with any third parties. Aggregate information is not shared with any third parties.   
+We may disclose a user’s personal information to third parties without the user’s consent if we have a good faith belief that doing so is necessary to identify, contact or bring legal action against a user who may be causing injury to or interference with our rights or property, the rights or property of our licensors including Digital Globe, or any other person. We may also disclose personal information if we have a good faith belief that such disclosure is required by law. We may also disclose personal information in connection with a corporate re-organization, a merger or amalgamation, a sale of all or substantially all of our assets or stock, including any due diligence exercise carried out in connection with such transactions, provided that the information disclosed continues to be used in accordance with this Privacy Policy.  
    
 DATA SECURITY  
 TerraServer has physical security in our facilities to protect against the loss, misuse, or alteration of information. Our company uses secure encryption technology (secure socket connection) for confidential and e-commerce data transmitted on our site.   
@@ -45,6 +45,8 @@ CONTACT INFORMATION
 Using the following information, you can contact us if you have questions about our privacy policy. 
 
 TerraServer   
-5995 Chapel Hill Rd #109   
-Raleigh, NC 27607   
-USA 
+9001 Glenwood Ave. Suite 100   
+Raleigh, NC 27617   
+USA   
+  
+ 
