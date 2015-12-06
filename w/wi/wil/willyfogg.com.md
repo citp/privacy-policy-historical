@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the willyfogg.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607085832id_/http%3A//willyfogg.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the willyfogg.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206115802id_/http%3A//willyfogg.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
