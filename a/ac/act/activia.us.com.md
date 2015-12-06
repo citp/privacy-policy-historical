@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activia.us.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630050211id_/http%3A//www.dannon.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activia.us.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140242id_/http%3A//www.dannon.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy | Dannon.com
 
@@ -71,7 +71,7 @@ The Dannon Company, Inc. ("Dannon"), U.S. manufacturer of DANNON® branded yogur
 > 
 > **c. Additional Terms**
 > 
-> For additional Terms of Use of Dannon Properties, [click here](https://web.archive.org/contact-us). 
+> For additional Terms of Use of Dannon Properties, [click here](https://web.archive.org/terms-of-use). 
 > 
 > **d. External Links**
 > 
