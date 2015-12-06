@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petguide.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607234925id_/http%3A//www.petguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petguide.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206034229id_/http%3A//www.petguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PetGuide
 
