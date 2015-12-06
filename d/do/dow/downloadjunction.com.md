@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadjunction.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142656id_/http%3A//www.fileflash.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadjunction.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140952id_/http%3A//www.fileflash.com/privacy) for the most accurate reproduction.*
 
 # File Flash - Your Downloads Start Here
 
