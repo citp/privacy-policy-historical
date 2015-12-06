@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the insweb.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607034802id_/http%3A//www.insweb.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insweb.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206130338id_/http%3A//www.insweb.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy and Security | InsWeb
 
 (Last updated: October 8, 2013)  
 
 
-This Privacy Policy describes how we collect, use and share information when you use our Services.  The terms “we,” “us,” or “our” mean Bankrate, Inc., a Delaware corporation, and its legal subsidiaries and affiliates.  The term “Services,” means, collectively, various websites, applications, widgets, email notifications and other mediums, or portions of such mediums, through which you have accessed this Privacy Policy.  By accessing or using our Services, you consent to the collection, transfer, manipulation, storage, disclosure and other uses of Your Information (collectively, “Use of Your Information”) as described in this Privacy Policy. 
+This Privacy Policy describes how we collect, use and share information when you use our Services.  The terms “we,” “us,” or “our” mean iQ Holdings, LLC, a Delaware limited liability company, and its legal subsidiaries and affiliates.  The term “Services,” means, collectively, various websites, applications, widgets, email notifications and other mediums, or portions of such mediums, through which you have accessed this Privacy Policy.  By accessing or using our Services, you consent to the collection, transfer, manipulation, storage, disclosure and other uses of Your Information (collectively, “Use of Your Information”) as described in this Privacy Policy. 
 
 For purposes of this Privacy Policy, “Your Information” means information about you, which may be of a confidential nature and may include personally identifying information, medical and health history information, and/or financial information.
 
@@ -132,7 +132,7 @@ We specifically and expressly reserve the right to disclose, lease, sell, assign
 
 **_Children’s Information_**
 
-  * You must be at least 13 years of age to register with or use certain portions of the Services.  The Services are not intended for children under 13 years of age.  No one under 13 years of age may provide any personal information to or on the Services.  We do not knowingly collect personal information from children under 13.  If you believe that we may have any information from or about a child, please contact us at [webmaster@bankrate.com ](mailto:webmaster@bankrate.com).
+  * You must be at least 13 years of age to register with or use certain portions of the Services.  The Services are not intended for children under 13 years of age.  No one under 13 years of age may provide any personal information to or on the Services.  We do not knowingly collect personal information from children under 13.  If you believe that we may have any information from or about a child, please contact us at [webmaster@insuranceQuotes.com ](mailto:webmaster@insuranceQuotes.com).
 
 
 
@@ -144,7 +144,7 @@ We specifically and expressly reserve the right to disclose, lease, sell, assign
 
 **_User Generated Content_**
 
-We offer publicly accessible blogs and other interactive media through our Services.  To request removal of Your Information from our blog or community forum, contact us at [webmaster@bankrate.com ](mailto:webmaster@bankrate.com).  In some cases, we may not be able to remove Your Informaion, in which case we will let you know if we are unable to do so and why.
+We offer publicly accessible blogs and other interactive media through our Services.  To request removal of Your Information from our blog or community forum, contact us at [webmaster@insuranceQuotes.com ](mailto:webmaster@insuranceQuotes.com).  In some cases, we may not be able to remove Your Informaion, in which case we will let you know if we are unable to do so and why.
 
 Some comment areas are managed by a third party application that may require you to register to post a comment.  We do not have access or control of the information posted to the blog.  You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed.  To learn how the third party application uses your information, please review their privacy policy.  
 You are responsible for any content, including personal information, that you contribute to be published or displayed (“posted”) on our Services, or that you transmit to other users of our Services (collectively, “User Generated Content”).  Your User Generated Content is posted on and transmitted to other users of our Services at your own risk.  We cannot control the actions of other users of our Services with whom you may choose to share your User Generated Content.  We are not responsible for circumvention of any privacy settings or security measures of our Services.  As a result, we cannot and do not guarantee that your User Generated Content will not be viewed by unauthorized persons.  You understand and acknowledge that, even after removal, copies of your User Generated Content may remain viewable in cached and archived pages, or might have been copied or stored by other Service users.  Proper access and use of information provided through our Services, including User Generated Content, is governed by our [Terms of Use](http://www.insweb.com/terms_of_use.html)
@@ -180,15 +180,15 @@ Our Services are operated in the United States.  If you are located in the Euro
 We reserve the right to update, amend and/or change this Privacy Policy at any time in our sole discretion. Amendments will take effect immediately upon us posting the updated Privacy Policy on our Services.  You are encouraged to revisit this Privacy Policy from time to time in order to review any changes that have been made. The date on which this Privacy Policy was last updated will be noted immediately above this Privacy Policy.  Your continued access and use of our Services following the posting of any such changes shall automatically be deemed your acceptance of all changes.
 
 **_Contacting Us_**  
-If you have questions or concerns about our privacy practices or wish to make a request regarding Your Information, please contact us at [webmaster@bankrate.com ](mailto:webmaster@bankrate.com). 
+If you have questions or concerns about our privacy practices or wish to make a request regarding Your Information, please contact us at [webmaster@insuranceQuotes.com ](mailto:webmaster@insuranceQuotes.com). 
 
   * **_Special Notification for California Residents – Your California Privacy Rights_**
 
 
 
-Individuals who are residents of California and have provided their personally identifiable information to us may request information regarding our disclosures, if any, of their personally identifiable information to third parties for direct marketing purposes.  Such requests must be submitted to us at [webmaster@bankrate.com ](mailto:webmaster@bankrate.com)or in writing at:
+Individuals who are residents of California and have provided their personally identifiable information to us may request information regarding our disclosures, if any, of their personally identifiable information to third parties for direct marketing purposes.  Such requests must be submitted to us at [webmaster@insuranceQuotes.com ](mailto:webmaster@insuranceQuotes.com)or in writing at:
 
-[webmaster@bankrate.com ](mailto:webmaster@bankrate.com)  
+[webmaster@insuranceQuotes.com ](mailto:webmaster@insuranceQuotes.com)  
 1860 Blake Street  
 Suite 900  
 Denver, CO 80202  
