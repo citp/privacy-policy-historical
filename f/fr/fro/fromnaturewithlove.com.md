@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the fromnaturewithlove.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175022id_/http%3A//fromnaturewithlove.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fromnaturewithlove.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206101933id_/http%3A//www.fromnaturewithlove.com/privacy.asp) for the most accurate reproduction.*
 
 # Your Privacy - FNWL
 
-[](http://www.addthis.com/bookmark.php?v=250&username=kibby)
+  
+
 
 Your privacy is very important to us. We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site.
 
 **Your IP Address**
 
-The abbreviation "IP" stands for "Internet Protocol." An IP address is a unique numerical address assigned to your computer when it is connected to the internet. We use your IP address to help diagnose problems with our server and your particular shopping experience here. If a problem should arise with someone frauduently using a credit card, we can use the logged IP# to go through legal channels to track the abuser. 
+The abbreviation "IP" stands for "Internet Protocol." An IP address is a unique numerical address assigned to your computer when it is connected to the internet. We use your IP address to help diagnose problems with our server and your particular shopping experience here. If a problem should arise with someone fraudulently using a credit card, we can use the logged IP# to go through legal channels to track the abuser. 
 
 **Cookies**
 
@@ -37,3 +38,6 @@ Your personal information will never be sold or shared with third parties with t
 **Contacting Us**
 
 If you have any questions about this privacy statement or our Web site practices, please contact: [web@fromnaturewithlove.com](mailto:web@fromnaturewithlove.com)
+
+|  |   
+---|---|---
