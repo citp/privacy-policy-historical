@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sensiblysara.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624084254id_/http%3A//sensiblysara.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sensiblysara.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035114id_/http%3A//sensiblysara.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - sensiblysara.com
-
-**0** Flares Filament.io **0** Flares ×
 
 This Privacy Policy governs the manner in which SensiblySara collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://sensiblysara.com](http://sensiblysara.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by SensiblySara.
 
@@ -64,4 +62,8 @@ SensiblySara@hotmail.com
 
 This document was last updated on December 02, 2013
 
-**0** Flares Twitter 0 Facebook 0 Google+ 0 StumbleUpon 0 Filament.io **0** Flares ×
+### Share and Enjoy
+
+  * []()
+
+
