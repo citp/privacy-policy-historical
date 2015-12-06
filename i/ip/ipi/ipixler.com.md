@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipixler.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140555id_/http%3A//www.ipixler.com/%3Ffile%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipixler.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035235id_/http%3A//www.ipixler.com/%3Ffile%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Photo, Picture, Image and Wallpaper Download
 
