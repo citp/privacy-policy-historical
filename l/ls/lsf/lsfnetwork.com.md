@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lsfnetwork.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217083650id_/http%3A//www.gearylsf.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsfnetwork.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206212613id_/http%3A//www.gearylsf.com/privacy-policy) for the most accurate reproduction.*
 
-# Geary LSF - Privacy Policy
+# Privacy Policy - Geary LSF | Internet Marketing Agency | Interactive Advertising Company
 
 Geary LSF Group demonstrates a solid commitment to the privacy of visitor to our website. The following discloses the information acquirement and disbursement practices for the website, [www.gearylsf.com](http://www.gearylsf.com/)
 
