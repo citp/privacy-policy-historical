@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the viso.tv privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174319id_/http%3A//bbtv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viso.tv privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206101750id_/http%3A//bbtv.com/privacy-policy) for the most accurate reproduction.*
 
-# BroadbandTV Corp.
+# Privacy Policy | BBTV
 
 ## menu
 
   * [Content Creators](https://web.archive.org/content-creators)
   * [Brands](https://web.archive.org/brands)
   * [Enterprise](https://web.archive.org/enterprise)
+  * [Technology](https://web.archive.org/technology)
+  * [Videos](https://web.archive.org/videos)
   * [About](https://web.archive.org/about)
   * [Press](https://web.archive.org/press)
   * [Careers](https://web.archive.org/careers)
@@ -80,38 +82,22 @@ We do not share Personal Information with unaffiliated third parties except as p
 
 
 
-  * To effect, administer, service, process or enforce a Service that you request or authorize.
 
+To effect, administer, service, process or enforce a Service that you request or authorize.
 
+To protect the confidentiality or security of BBTV, our records or our users.
 
-  * To protect the confidentiality or security of BBTV, our records or our users.
+To protect against or prevent fraud, unauthorized transactions, claims, or other liability.
 
+To resolve a dispute with you or an inquiry from you.
 
+To persons acting on your behalf in a fiduciary or representative capacity.
 
-  * To protect against or prevent fraud, unauthorized transactions, claims, or other liability.
+To governmental agencies, if required by law.
 
+To comply with or as permitted by applicable laws, rules and regulations.
 
-
-  * To resolve a dispute with you or an inquiry from you.
-
-
-
-  * To persons acting on your behalf in a fiduciary or representative capacity.
-
-
-
-  * To governmental agencies, if required by law.
-
-
-
-  * To comply with or as permitted by applicable laws, rules and regulations.
-
-
-
-  * To comply with a civil, criminal, or regulatory investigation, or subpoena or summons by governmental authorities.
-
-
-
+To comply with a civil, criminal, or regulatory investigation, or subpoena or summons by governmental authorities.
 
 We may also share your Personal Information with unaffiliated companies who perform services on our behalf to help with parts of our business operations, including companies providing network and other technical services to us. These service provider companies are provided only the information necessary to perform the services. In addition, we require them to protect the information in a manner that is consistent with this Privacy Policy and our security practices.
 
@@ -137,8 +123,6 @@ If you want to verify the personal information we hold about you, please contact
 
 ****6\. MODIFICATION OF THIS PRIVACY POLICY****
 
- **
-
 We may change this Privacy Policy from time to time. We will post any changes to this Privacy Policy on this web page, and if the changes are significant, we will post a more prominent notice on this page or we will directly send you a notification. You may determine when this Privacy Policy was last changed by referring to the modification date found at the beginning of this Privacy Policy. You agree that your continued use of the Services after notice of such change shall constitute your acceptance of the Privacy Policy. You agree to review this Privacy Policy regularly in order to inform yourself of the terms and conditions of this Privacy Policy and any modifications to the Privacy Policy.
 
 **7\. APPLICATION OF THIS PRIVACY POLICY**
@@ -162,6 +146,4 @@ Vancouver BC V6Z 2T3.
 
 Email: info@bbtv.com  
   
----  
-  
-**********
+---
