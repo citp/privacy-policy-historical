@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdnsun.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140140id_/http%3A//cdnsun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdnsun.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206163758id_/http%3A//cdnsun.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CDNsun
 
@@ -37,7 +37,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 ### California Online Privacy Protection Act Compliance
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. As part of the California Online Privacy Protection Act, all users of our website may make any changes to their information at anytime by logging into client section and going to the [Billing](https://web.archive.org/billing) page.
+We value your privacy and thus we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. As part of the California Online Privacy Protection Act, all users of our website may make any changes to their information at anytime by logging into client section and going to the [Billing](https://web.archive.org/billing) page.
 
 ### Online Privacy Policy Only
 
@@ -45,7 +45,7 @@ This online Privacy Policy applies only to information collected through our web
 
 ### Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/terms-and-conditions) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [cdnsun.com](http://cdnsun.com/).
+Please also visit our [Terms and Conditions](https://web.archive.org/terms-and-conditions) section establishing the use, disclaimers, and limitations of liability governing the use of our website and services.
 
 ### Changes to our Privacy Policy
 
