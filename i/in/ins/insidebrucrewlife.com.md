@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidebrucrewlife.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022322id_/http%3A//insidebrucrewlife.com/workwithme) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidebrucrewlife.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206034231id_/http%3A//insidebrucrewlife.com/workwithme) for the most accurate reproduction.*
 
 # Work With Me - Inside BruCrew Life
 
@@ -6,13 +6,13 @@
 
 Most of the recipes on my blog are unique and have been developed by me.  I would love to create fun and delicious recipes for your brand using your products.  Please contact Jocelyn to discuss rates at   **insidebrucrewlife (at) gmail.com**
 
-***Giveaways, Promotions, and Product Reviews:**
+ ***Giveaways, Promotions, and Product Reviews:**
 
 If you have a product that would be a good fit for Inside BruCrew Life, and is one that my readers would enjoy hearing about, please contact me.  I will consider all requests, but I cannot guarantee that I will accept every offer.  Please do not be offended if I pass at this time.  Contact Jocelyn at **insidebrucrewlife (at) gmail.com**
 
-***Blog Statistics and a Media Kit are available upon request.  **Contact Jocelyn at **insidebrucrewlife (at) gmail.com**
+ ***Blog Statistics and a Media Kit are available upon request.  **Contact Jocelyn at **insidebrucrewlife (at) gmail.com**
 
-***DISCLOSURE FOR MY READERS***
+ ***DISCLOSURE FOR MY READERS***
 
 This policy is valid from 26 March 2014
 
@@ -28,7 +28,7 @@ This blog does not contain any content which might present a conflict of interes
 
 To get your own policy, go to http://www.disclosurepolicy.org
 
-***PRIVACY POLICY***
+ ***PRIVACY POLICY***
 
 Privacy Policy for Inside BruCrew Life updated on March 25, 2014
 
@@ -36,17 +36,17 @@ The privacy of our visitors to www.insidebrucrewlife.com is important to us.  I
 
 At insidebrucrewlife.com, the privacy of our guests is of utmost importance to us. This privacy policy outlines the type of personal information that is received and collected by www.insidebrucrewlife.com and how it is used.
 
-**Using my Content  
+ **Using my Content  
 **
 
 I work very hard on each and every recipe and photo you see on Inside BruCrew Life. I want my readers to have the best possible content. If you would like to use one of my recipes or any of the pictures on my site, please give the proper credit to me. This can be done by linking back to my site. If you do use one of my recipes, please link back to the page where you found the recipe. Thank you!
 
 At www.insidebrucrewlife.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit www.insidebrucrewlife.com, and how we safeguard your information.  We never sell your personal information to third parties.
 
-**Log Files**  
+ **Log Files**  
 As with most other websites, we collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-**Cookies and Web Beacons**  
+ **Cookies and Web Beacons**  
 We do use cookies to store information, such as your personal preferences when you visit our site.  This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
 We also use third party advertisements on www.insidebrucrewlife.com to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
