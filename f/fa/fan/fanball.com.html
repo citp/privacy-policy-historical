@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fanball.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607203005id_/http%3A//www.cdmsports.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fanball.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206113608id_/http%3A//www.cdmsports.com/privacy.php) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -21,11 +21,56 @@ jQuery(document).ready(function() {
 	} , function() { //on hover out...
 	jQuery(this).css({ 'background' : 'none'}); //Ditch the background
 	jQuery(this).find("span").hide(); //Hide the subnav
+
 });
 	
 });
+
+function get_browser_info(){
+    var ua=navigator.userAgent,tem,M=ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || []; 
+    if(/trident/i.test(M[1])){
+        tem=/\brv[ :]+(\d+)/g.exec(ua) || []; 
+        return {name:'IE',version:(tem[1]||'')};
+        }   
+    if(M[1]==='Chrome'){
+        tem=ua.match(/\bOPR\/(\d+)/)
+        if(tem!=null)   {return {name:'Opera', version:tem[1]};}
+        }   
+    M=M[2]? [M[1], M[2]]: [navigator.appName, navigator.appVersion, '-?'];
+    if((tem=ua.match(/version\/(\d+)/i))!=null) {M.splice(1,1,tem[1]);}
+    return {
+      name: M[0],
+      version: M[1]
+    };
+ }
+
+var browser=get_browser_info();
+var showalert = false;
+
+if (browser.name == "IE" && browser.version < 11)
+{
+	showalert = true;
+}
+else if (browser.name == "MSIE" && browser.version < 11)
+{
+	showalert = true;
+}
+else if (browser.name == "Safari" && (browser.version == 5 || browser.version == 6))
+{
+	showalert = true;
+}
+
+//alert("BROWSER="+browser.name + " BROWSERVER="+browser.version);
 </script>
-</head>
+<script type="text/javascript">
+if (showalert === true)
+{
+        document.write('<div id=\"loginerror\"> <img align=\"absmiddle\" alt=\"Warning!\" src=\"/globalfiles/cdm/images/warning_icon.png\" border=\"0\" title=\"Warning!\">&nbsp; You are currently using an outdated browser.  Please <a href=\"/browserupdate.php\">click here</a> for more details on how to upgrade.</div>');
+}
+</script></head>
+
+
+
 <body><div id="mainwrap">
 
 		<div id="header"> 
@@ -105,30 +150,64 @@ jQuery(document).ready(function() {
 				<a href="http://www.cdmsports.com/baseball/">Baseball</a>
 				<span>
                                         <div id="topnav_games_module">
-                                                <a href="http://www.cdmsports.com/baseball/diamondchallenge-roto-secondseason/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/baseball/m.jpg" title="Diamond Challenge - Roto 2nd Season Fantasy Baseball" border="0"></a>
-                                                <b>Win $10,000!</b><br>
+                                                <a href="http://www.cdmsports.com/baseball/diamondchallenge-roto-playoff/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/baseball/p.jpg" title="Diamond Challenge - Roto - Playoff Fantasy Baseball" border="0"></a>
+                                                <b>Win $1,000!</b><br>
+                                                Post-season version of Diamond Challenge - Roto but without the player salaries or salary cap!
+                                                <div class="playnow_button">
+                                                        <a href="http://www.cdmsports.com/baseball/diamondchallenge-roto-playoff/">View Game</a>
+                                                </div>
+                                        </div>
+                                        <div id="topnav_games_module">
+                                                <a href="http://www.cdmsports.com/baseball/diamondchallenge-points-playoff/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/baseball/bp.jpg" title="Diamond Challenge - Points - Playoff Fantasy Baseball" border="0"></a>
+                                                <b>Win $1,000!</b><br>
+                                                Post-season version of Diamond Challenge - Points but without the player salaries or salary cap!
+                                                <div class="playnow_button">
+                                                        <a href="http://www.cdmsports.com/baseball/diamondchallenge-points-playoff/">View Game</a>
+                                                </div>
+                                        </div>
+
+                                        <div id="topnav_games_module">
+                                                <a href="http://www.cdmsports.com/baseball/budgetbaseball-playoff/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/baseball/bbp.png" title="Budget Baseball - Playoff" border="0"></a>
+                                                <b>Win $500!</b><br>
+                                                Make daily changes in Budget Baseball - Playoff! Play for only $7.50!
+                                                <div class="playnow_button">
+                                                        <a href="http://www.cdmsports.com/baseball/budgetbaseball-playoff">View Game</a>
+                                                </div>
+                                        </div>
+
+					<!--
+                                        <div id="topnav_games_module">
+                                                <a href="http://www.cdmsports.com/baseball/diamondchallenge-points-secondseason/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/baseball/mm.jpg" title="Diamond Challenge - Points 2nd Season Fantasy Baseball" border="0"/></a>
+                                                <b>Win $5,000!</b><br/>
+                                                America's favorite point-style fantasy baseball game. Starts July 17th!  $55 Mil Salary Cap
+                                                <div class="playnow_button">
+                                                        <a href="http://www.cdmsports.com/baseball/diamondchallenge-points-secondseason/">View Game</a>
+                                                </div>
+                                        </div>
+                                        <div id="topnav_games_module">
+                                                <a href="http://www.cdmsports.com/baseball/diamondchallenge-roto-secondseason/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/baseball/m.jpg" title="Diamond Challenge - Roto 2nd Season Fantasy Baseball" border="0"/></a>
+                                                <b>Win $10,000!</b><br/>
                                                 2nd Season Version of Diamond Challenge Roto Baseball.  Starts June 8th!  $28 Mil Salary Cap
                                                 <div class="playnow_button">
-                                                        <a href="http://www.cdmsports.com/baseball/diamondchallenge-roto-secondseason/">Play Now!</a>
+                                                        <a href="http://www.cdmsports.com/baseball/diamondchallenge-roto-secondseason/">View Game</a>
                                                 </div>
                                         </div>
                                         <div id="topnav_games_module">
-                                                <a href="http://www.cdmsports.com/baseball/weekendwarriors/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/baseball/wwb.png" title="Weekend Warriors" border="0"></a>
-                                                <b>Win Up To $750.00!</b><br>
-                                                Hitting Survival Game! Play for only $15.00!  Buy 2 for $25.00!
-                                                <div class="playnow_button">
-                                                        <a href="http://www.cdmsports.com/baseball/weekendwarriors/">Play Now!</a>
-                                                </div>
-                                        </div>
-                                        <div id="topnav_games_module">
-                                                <a href="http://www.cdmsports.com/baseball/diamondchallenge-roto/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/baseball/_.jpg" title="Diamond Challenge - Roto Fantasy Baseball" border="0"></a>
-                                                <b>Win $25,000!</b><br>
+                                                <a href="http://www.cdmsports.com/baseball/diamondchallenge-roto/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/baseball/_.jpg" title="Diamond Challenge - Roto Fantasy Baseball" border="0"/></a>
+                                                <b>Win $25,000!</b><br />
                                                 Granddaddy of all Rotisserie-style scoring baseball games.  BIGGER LEAGUE PRIZES!
                                                 <div class="playnow_button">
                                                         <a href="http://www.cdmsports.com/baseball/diamondchallenge-roto/">View Game</a>
                                                 </div>
                                         </div>
-					<!--
+                                        <div id="topnav_games_module">
+                                                <a href="http://www.cdmsports.com/baseball/weekendwarriors/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/baseball/wwb.png" title="Weekend Warriors" border="0"/></a>
+                                                <b>Win Up To $750.00!</b><br/>
+                                                Hitting Survival Game! Play for only $15.00!  Buy 2 for $25.00!
+                                                <div class="playnow_button">
+                                                        <a href="http://www.cdmsports.com/baseball/weekendwarriors/">Play Now!</a>
+                                                </div>
+                                        </div>
                                         <div id="topnav_games_module">
                                                 <a href="http://www.cdmsports.com/baseball/kingofthemound2/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/baseball/kht.png" title="King of the Mound 2" border="0"/></a>
                                                 <b>Win Up To $1,000!</b><br/>
@@ -170,35 +249,11 @@ jQuery(document).ready(function() {
                                                 </div>
                                         </div>
                                         <div id="topnav_games_module">
-                                                <a href="http://www.cdmsports.com/baseball/diamondchallenge-roto-playoff/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/baseball/p.jpg" title="Diamond Challenge - Roto - Playoff Fantasy Baseball" border="0"/></a>
-                                                <b>Win $3,000!</b><br/>
-                                                Post-season version of Diamond Challenge - Roto but without the player salaries or salary cap!
-                                                <div class="playnow_button">
-                                                        <a href="http://www.cdmsports.com/baseball/diamondchallenge-roto-playoff/">View Game</a>
-                                                </div>
-                                        </div>
-                                        <div id="topnav_games_module">
-                                                <a href="http://www.cdmsports.com/baseball/diamondchallenge-points-playoff/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/baseball/bp.jpg" title="Diamond Challenge - Points - Playoff Fantasy Baseball" border="0"/></a>
-                                                <b>Win $2,000!</b><br/>
-                                                Post-season version of Diamond Challenge - Points but without the player salaries or salary cap!
-                                                <div class="playnow_button">
-                                                        <a href="http://www.cdmsports.com/baseball/diamondchallenge-points-playoff/">View Game</a>
-                                                </div>
-                                        </div>
-                                        <div id="topnav_games_module">
                                                 <a href="http://www.cdmsports.com/baseball/superchallenge-playoff/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/baseball/psc.jpg" title="Super Challenge - Playoff Fantasy Baseball" border="0"/></a>
                                                 <b>Win $1,000!</b><br/>
                                                 Who's the best Playoff Fantasy Baseball owner on the planet? Grand Prize payout is $1,000!
                                                 <div class="playnow_button">
                                                         <a href="http://www.cdmsports.com/baseball/superchallenge-playoff/">View Game</a>
-                                                </div>
-                                        </div>
-                                        <div id="topnav_games_module">
-                                                <a href="http://www.cdmsports.com/baseball/diamondchallenge-points-secondseason/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/baseball/mm.jpg" title="Diamond Challenge - Points 2nd Season Fantasy Baseball" border="0"/></a>
-                                                <b>Win $5,000!</b><br/>
-                                                America's favorite point-style fantasy baseball game. Starts July 18th!  $55 Mil Salary Cap
-                                                <div class="playnow_button">
-                                                        <a href="http://www.cdmsports.com/baseball/diamondchallenge-points-secondseason/">View Game</a>
                                                 </div>
                                         </div>
                                         <div id="topnav_games_module">
@@ -238,65 +293,23 @@ jQuery(document).ready(function() {
 	            <a href="http://www.cdmsports.com/football/">Football</a>
 	            <span>
                                         <div id="topnav_games_module">
-                                                <a href="http://www.cdmsports.com/football/championshipschallenge/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/football/fcc.png" title="Football Championships Challenge" border="0"></a>
-                                                <b>Win $500!</b><br>
-                                                Play for only $5.00!  NO OTHER COSTS!  Contest begins Sunday, January 18th.
-                                                <div class="playnow_button">
-                                                        <a href="http://www.cdmsports.com/football/championshipschallenge/">View Game</a>
-                                                </div>
-                                        </div>
-
-                                        <div id="topnav_games_module">
-                                                <a href="http://www.cdmsports.com/football/footballchallenge-roto-playoff/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/football/pf.jpg" title="Football Challenge - Roto Fantasy Football" border="0"></a>
-                                                <b>Win $5,000!</b><br>
-                                                Play the playoff version of the Granddaddy of all fantasy football games!
-                                                <div class="playnow_button">
-                                                        <a href="http://www.cdmsports.com/football/footballchallenge-roto-playoff/">View Game</a>
-                                                </div>
-                                        </div>
-
-                                        <div id="topnav_games_module">
-                                                <a href="http://www.cdmsports.com/football/footballchallenge-points-playoff/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/football/xpf.jpg" title="Football Challenge - Points Fantasy Football" border="0"></a>
-                                                <b>Win $3,500!</b><br>
-                                                Play America's favorite playoff point style fantasy football game!
-                                                <div class="playnow_button">
-                                                        <a href="http://www.cdmsports.com/football/footballchallenge-points-playoff/">View Game</a>
-                                                </div>
-                                        </div>
-	            	<!--
-                                        <div id="topnav_games_module">
-                                                <a href="http://www.cdmsports.com/football/budgetfootball-playoff/"><img align="left" src="/globalfiles/rototimes/images/ads/budgetpofootball_nav_ad.png" title="Budget Playoff Football" border="0"/></a>
-                                                <b>Win $1,000!</b><br/>
-                                                Pick 8 players.  Make Changes Weekly!
-                                                This contest runs through the Championship Game on February 1st.
-                                                <div class="playnow_button">
-                                                        <a href="http://www.cdmsports.com/football/budgetfootball-playoff/">View Game</a>
-                                                </div>
-                                        </div>
-                                        <div id="topnav_games_module">
-                                        <a href="http://www.cdmsports.com/football/footballchallenge-roto-midseason/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/football/mf.jpg" title="Football Challenge - Roto - Mid Season Fantasy Football" border="0"/></a>
-                                                <b>Win $3,000!</b><br/>
+                                        <a href="http://www.cdmsports.com/football/footballchallenge-roto-midseason/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/football/mf.jpg" title="Football Challenge - Roto - Mid Season Fantasy Football" border="0"></a>
+                                                <b>Win $3,000!</b><br>
                                                 The Mid Season Version of the Granddaddy of all fantasy football games!
                                                 <div class="playnow_button">
                                                         <a href="http://www.cdmsports.com/football/footballchallenge-roto-midseason/">View Game</a>
                                                 </div>
                                         </div>
-                                        <div id="topnav_games_module">
-                                                <a href="http://www.cdmsports.com/football/footballchallenge-points-midseason/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/football/mpf.jpg" title="Football Challenge - Points - Mid Season Fantasy Football" border="0"/></a>
-                                                <b>Win $3,000!</b><br/>
-                                                Play America's favorite point style fantasy football game!
-                                                <div class="playnow_button">
-                                                        <a href="http://www.cdmsports.com/football/footballchallenge-points-midseason/">View Game</a>
-                                                </div>
-                                        </div>
                                   <div id="topnav_games_module">
-                                        <a href="http://www.cdmsports.com/football/survivor2/"><img align="left" src="/globalfiles/rototimes/images/ads/last_man_standing2_nav_ad.png" title="Football Survivor 2" border="0"/></a>
-                                        <b>$3,500.00 Total Cash Prizes!</b><br/>
+                                        <a href="http://www.cdmsports.com/football/survivor2/"><img align="left" src="/globalfiles/rototimes/images/ads/last_man_standing2_nav_ad.png" title="Football Survivor 2" border="0"></a>
+                                        <b>Over $2,000.00 in Total Cash Prizes!</b><br>
                                         Be the 'Last Man Standing' as you pick ONE player each and every week!
                                         <div class="playnow_button">
                                           <a href="http://www.cdmsports.com/football/survivor2/">View Game</a>
                                         </div>
                                   </div>
+
+	            	<!--
                                         <div id="topnav_games_module">
                                                 <a href="http://www.cdmsports.com/football/footballchallenge-roto/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/football/f.jpg" title="Football Challenge - Roto Fantasy Football" border="0"/></a>
                                                 <b>Win $20,000!</b><br/>
@@ -320,6 +333,49 @@ jQuery(document).ready(function() {
                                                 10 and 12 Team Leagues with seven levels of play offering Total Points and Head - to - Head scoring!
                                                 <div class="playnow_button">
                                                         <a href="http://www.cdmsports.com/football/draftandplay/">View Game</a>
+                                                </div>
+                                        </div>
+                                        <div id="topnav_games_module">
+                                                <a href="http://www.cdmsports.com/football/championshipschallenge/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/football/fcc.png" title="Football Championships Challenge" border="0"/></a>
+                                                <b>Win $500!</b><br/>
+                                                Play for only $5.00!  NO OTHER COSTS!  Contest begins Sunday, January 18th.
+                                                <div class="playnow_button">
+                                                        <a href="http://www.cdmsports.com/football/championshipschallenge/">View Game</a>
+                                                </div>
+                                        </div>
+
+                                        <div id="topnav_games_module">
+                                                <a href="http://www.cdmsports.com/football/footballchallenge-roto-playoff/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/football/pf.jpg" title="Football Challenge - Roto Fantasy Football" border="0"/></a>
+                                                <b>Win $5,000!</b><br/>
+                                                Play the playoff version of the Granddaddy of all fantasy football games!
+                                                <div class="playnow_button">
+                                                        <a href="http://www.cdmsports.com/football/footballchallenge-roto-playoff/">View Game</a>
+                                                </div>
+                                        </div>
+
+                                        <div id="topnav_games_module">
+                                                <a href="http://www.cdmsports.com/football/footballchallenge-points-playoff/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/football/xpf.jpg" title="Football Challenge - Points Fantasy Football" border="0"/></a>
+                                                <b>Win $3,500!</b><br/>
+                                                Play America's favorite playoff point style fantasy football game!
+                                                <div class="playnow_button">
+                                                        <a href="http://www.cdmsports.com/football/footballchallenge-points-playoff/">View Game</a>
+                                                </div>
+                                        </div>
+                                        <div id="topnav_games_module">
+                                                <a href="http://www.cdmsports.com/football/budgetfootball-playoff/"><img align="left" src="/globalfiles/rototimes/images/ads/budgetpofootball_nav_ad.png" title="Budget Playoff Football" border="0"/></a>
+                                                <b>Win $1,000!</b><br/>
+                                                Pick 8 players.  Make Changes Weekly!
+                                                This contest runs through the Championship Game on February 1st.
+                                                <div class="playnow_button">
+                                                        <a href="http://www.cdmsports.com/football/budgetfootball-playoff/">View Game</a>
+                                                </div>
+                                        </div>
+                                        <div id="topnav_games_module">
+                                                <a href="http://www.cdmsports.com/football/footballchallenge-points-midseason/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/football/mpf.jpg" title="Football Challenge - Points - Mid Season Fantasy Football" border="0"/></a>
+                                                <b>Win $3,000!</b><br/>
+                                                Play America's favorite point style fantasy football game!
+                                                <div class="playnow_button">
+                                                        <a href="http://www.cdmsports.com/football/footballchallenge-points-midseason/">View Game</a>
                                                 </div>
                                         </div>
                                         <div id="topnav_games_module">
@@ -378,22 +434,46 @@ jQuery(document).ready(function() {
 	       		<a href="http://www.cdmsports.com/basketball/">Basketball</a>
 	            <span>
                                         <div id="topnav_games_module">
-                                                <a href="http://www.cdmsports.com/basketball/basketballchallenge-playoff/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/basketball/ph.jpg" title="Basketball Challenge Playoff - Fantasy Basketball" border="0"></a>
-                                                <b>Win $2,000!</b><br>
+                                                <a href="http://www.cdmsports.com/basketball/basketballchallenge/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/basketball/b.jpg" title="Basketball Challenge - Fantasy Basketball" border="0"></a>
+                                                <b>Win $7,500!</b><br>
+                                                This Rotisserie-style fantasy basketball game starts on October 27th!
+                                                <div class="playnow_button">
+                                                        <a href="http://www.cdmsports.com/basketball/basketballchallenge/">View Game</a>
+                                                </div>
+                                        </div>
+                                        <div id="topnav_games_module">
+                                                <a href="http://www.cdmsports.com/basketball/budgetbasketball1/"><img align="left" src="/globalfiles/rototimes/images/ads/xfb_nav_ad.png" title="Budget Basketball" border="0"></a>
+                                                <b>Win $1,000!</b><br>
+                                                An easy to play point style basketball game!  Pick 10 Players.
+                                                <div class="playnow_button">
+                                                        <a href="http://www.cdmsports.com/basketball/budgetbasketball1/">View Game</a>
+                                                </div>
+                                        </div>
+                                        <div id="topnav_games_module">
+                                                <a href="http://www.cdmsports.com/basketball/draftandplay/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/basketball/dpb.jpg" title="Draft and Play Fantasy Basketball" border="0"></a>
+                                                <b>Win up to $1,250!</b><br>
+                                                10 Team Leagues with five levels of play offering Rotisserie, Total Points and Head - to - Head scoring!
+                                                <div class="playnow_button">
+                                                        <a href="http://www.cdmsports.com/basketball/draftandplay/">View Game</a>
+                                                </div>
+                                        </div>
+					<!--
+                                        <div id="topnav_games_module">
+                                                <a href="http://www.cdmsports.com/basketball/basketballchallenge-playoff/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/basketball/ph.jpg" title="Basketball Challenge Playoff - Fantasy Basketball" border="0"/></a>
+                                                <b>Win $2,000!</b><br/>
                                                 Basketball Challenge - Roto - Playoff starts on April 18th!
                                                 <div class="playnow_button">
                                                         <a href="http://www.cdmsports.com/basketball/basketballchallenge-playoff/">View Game</a>
                                                 </div>
                                         </div>
                                         <div id="topnav_games_module">
-                                                <a href="http://www.cdmsports.com/basketball/probracketchallenge-playoff/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/basketball/pbc.png" title="Pro Hoops Playoff Bracket Challenge" border="0"></a>
-                                                <b>Win $500!</b><br>
+                                                <a href="http://www.cdmsports.com/basketball/probracketchallenge-playoff/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/basketball/pbc.png" title="Pro Hoops Playoff Bracket Challenge" border="0"/></a>
+                                                <b>Win $500!</b><br/>
                                                 This Playoff Basketball Bracket game starts on April 20th!
                                                 <div class="playnow_button">
                                                         <a href="http://www.cdmsports.com/basketball/probracketchallenge-playoff/">View Game</a>
                                                 </div>
                                         </div>
-					<!--
                                         <div id="topnav_games_module">
                                                 <a href="http://www.cdmsports.com/basketball/bracketchallenge/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/basketball/hbc.png" title="College Hoops Bracket Challenge" border="0"/></a>
                                                 <b>Win $500!</b><br/>
@@ -411,35 +491,11 @@ jQuery(document).ready(function() {
                                                 </div>
                                         </div>
                                         <div id="topnav_games_module">
-                                                <a href="http://www.cdmsports.com/basketball/basketballchallenge/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/basketball/b.jpg" title="Basketball Challenge - Fantasy Basketball" border="0"/></a>
-                                                <b>Win $10,000!</b><br/>
-                                                This Rotisserie-style fantasy basketball game starts on October 28th!
-                                                <div class="playnow_button">
-                                                        <a href="http://www.cdmsports.com/basketball/basketballchallenge/">View Game</a>
-                                                </div>
-                                        </div>
-                                        <div id="topnav_games_module">
-                                                <a href="http://www.cdmsports.com/basketball/draftandplay/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/basketball/dpb.jpg" title="Draft and Play Fantasy Basketball" border="0"/></a>
-                                                <b>Win up to $1,250!</b><br/>
-                                                10 Team Leagues with five levels of play offering Rotisserie, Total Points and Head - to - Head scoring!
-                                                <div class="playnow_button">
-                                                        <a href="http://www.cdmsports.com/basketball/draftandplay/">View Game</a>
-                                                </div>
-                                        </div>
-                                        <div id="topnav_games_module">
                                                 <a href="http://www.cdmsports.com/basketball/budgetbasketball2/"><img align="left" src="/globalfiles/rototimes/images/ads/bbt_nav_ad.png" title="Budget Basketball" border="0"/></a>
                                                 <b>Win $1,000!</b><br/>
                                                 An easy to play point style basketball game!  Pick 10 Players.  Starts Jan 26th!
                                                 <div class="playnow_button">
                                                         <a href="http://www.cdmsports.com/basketball/budgetbasketball2/">View Game</a>
-                                                </div>
-                                        </div>
-                                        <div id="topnav_games_module">
-                                                <a href="http://www.cdmsports.com/basketball/budgetbasketball1/"><img align="left" src="/globalfiles/rototimes/images/ads/xfb_nav_ad.png" title="Budget Basketball" border="0"/></a>
-                                                <b>Win $1,000!</b><br/>
-                                                An easy to play point style basketball game!  Pick 10 Players.
-                                                <div class="playnow_button">
-                                                        <a href="http://www.cdmsports.com/basketball/budgetbasketball1/">View Game</a>
                                                 </div>
                                         </div>
 					-->
@@ -456,14 +512,6 @@ jQuery(document).ready(function() {
 	            <a href="http://www.cdmsports.com/hockey/">Hockey</a>
 	            <span>
                                         <div id="topnav_games_module">
-                                                <a href="http://www.cdmsports.com/hockey/hockeychallenge-playoff/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/hockey/pl.jpg" title="Hockey Challenge - Fantasy Playoff Hockey" border="0"></a>
-                                                <b>Win $1,500!</b><br>
-                                                America's favorite point-style fantasy playoff hockey game.
-                                                <div class="playnow_button">
-                                                        <a href="http://www.cdmsports.com/hockey/hockeychallenge-playoff/">View Game</a>
-                                                </div>
-                                        </div>
-                                        <div id="topnav_games_module">
                                                 <a href="http://www.cdmsports.com/hockey/hockeychallenge/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/hockey/fh.jpg" title="Hockey Challenge - Fantasy Hockey" border="0"></a>
                                                 <b>Win $7,500!</b><br>
                                                 America's favorite point-style fantasy hockey game.
@@ -473,7 +521,7 @@ jQuery(document).ready(function() {
                                         </div>
                                         <div id="topnav_games_module">
                                                 <a href="http://www.cdmsports.com/hockey/hockeypool/"><img align="left" src="/globalfiles/rototimes/images/ads/hockeypool_nav_ad.png" title="Hockey Pool" border="0"></a>
-                                                <b>Win $2,500!</b><br>
+                                                <b>Win $2,000!</b><br>
                                                 An easy to play Pick'em Hockey Game!
                                                 <div class="playnow_button">
                                                         <a href="http://www.cdmsports.com/hockey/hockeypool/">View Game</a>
@@ -481,6 +529,14 @@ jQuery(document).ready(function() {
                                         </div>
 
 					<!--
+                                        <div id="topnav_games_module">
+                                                <a href="http://www.cdmsports.com/hockey/hockeychallenge-playoff/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/hockey/pl.jpg" title="Hockey Challenge - Fantasy Playoff Hockey" border="0"/></a>
+                                                <b>Win $1,500!</b><br/>
+                                                America's favorite point-style fantasy playoff hockey game.
+                                                <div class="playnow_button">
+                                                        <a href="http://www.cdmsports.com/hockey/hockeychallenge-playoff/">View Game</a>
+                                                </div>
+                                        </div>
                                         <div id="topnav_games_module">
                                                 <a href="http://www.cdmsports.com/hockey/hockeypool-playoff/"><img align="left" src="/globalfiles/rototimes/images/ads/hpp.jpg" title="Hockey Pool - Playoff" border="0"/></a>
                                                 <b>Win $1,000!</b><br/>
@@ -502,11 +558,19 @@ jQuery(document).ready(function() {
 	        	<a href="http://www.cdmsports.com/racing/">Racing</a>
 	        	<span>
                                         <div id="topnav_games_module">
+                                                <a href="http://www.cdmsports.com/racing/fantasycup-chase/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/racing/cfc.jpg" title="Fantasy Cup - Chase Fantasy Auto Racing" border="0"></a>
+                                                <b>Win $2,000!</b><br>
+                                                Compete for 10 Weeks of racing FUN!  Contest begins September 20th.
+                                                <div class="playnow_button">
+                                                        <a href="http://www.cdmsports.com/racing/fantasycup-chase/">View Game</a>
+                                                </div>
+                                        </div>
+                                        <div id="topnav_games_module">
                                                 <a href="http://www.cdmsports.com/racing/fantasycup-circuit2/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/racing/nc.jpg" title="Fantasy Cup - Circuit 2 Fantasy Auto Racing" border="0"></a>
                                                 <b>Win $5,000!</b><br>
                                                 The Second Half of Fantasy Racing Fun Begins on July 19th!
                                                 <div class="playnow_button">
-                                                        <a href="http://www.cdmsports.com/racing/fantasycup-circuit2/">Play Now!</a>
+                                                        <a href="http://www.cdmsports.com/racing/fantasycup-circuit2/">View Game</a>
                                                 </div>
                                         </div>
                                         <div id="topnav_games_module">
@@ -514,10 +578,18 @@ jQuery(document).ready(function() {
                                                 <b>Win $1,000!</b><br>
                                                 Pick 1 Driver a week for 18 weeks!
                                                 <div class="playnow_button">
-                                                        <a href="http://www.cdmsports.com/racing/fantasycup-pickem2/">Play Now!</a>
+                                                        <a href="http://www.cdmsports.com/racing/fantasycup-pickem2/">View Game</a>
                                                 </div>
                                         </div>
 					<!--
+                                        <div id="topnav_games_module">
+                                                <a href="http://www.cdmsports.com/racing/fantasycup-eliminator2/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/racing/est.jpg" title="Fantasy Cup - Eliminator 2 Fantasy Auto Racing" border="0"/></a>
+                                                <b>Over $1,000 in prizes!</b><br/>
+                                                A Survivor Racing Contest!  Pick 3 Drivers each week.
+                                                <div class="playnow_button">
+                                                        <a href="http://www.cdmsports.com/racing/fantasycup-eliminator2/">View Game</a>
+                                                </div>
+                                        </div>
                                         <div id="topnav_games_module">
                                                 <a href="http://www.cdmsports.com/racing/fantasycup-eliminator1/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/racing/es.jpg" title="Fantasy Cup - Eliminator Fantasy Auto Racing" border="0"/></a>
                                                 <b>Win Up To $1,000!</b><br/>
@@ -551,23 +623,6 @@ jQuery(document).ready(function() {
                                                 </div>
                                         </div>
                                         <div id="topnav_games_module">
-                                                <a href="http://www.cdmsports.com/racing/fantasycup-chase/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/racing/cfc.jpg" title="Fantasy Cup - Chase Fantasy Auto Racing" border="0"/></a>
-                                                <b>Win $2,500!</b><br/>
-                                                Compete for 10 Weeks of racing FUN!  Contest begins September 14th.
-                                                <div class="playnow_button">
-                                                        <a href="http://www.cdmsports.com/racing/fantasycup-chase/">View Game</a>
-                                                </div>
-                                        </div>
-
-                                        <div id="topnav_games_module">
-                                                <a href="http://fantasycup.cdmsports.com/edge/eliminator2/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/racing/est.jpg" title="Fantasy Cup - Eliminator 2 Fantasy Auto Racing" border="0"/></a>
-                                                <b>Win Up To $1,000!</b><br/>
-                                                ALL NEW!  A Survivor Racing Contest!  Pick 3 Drivers each week.
-                                                <div class="playnow_button">
-                                                        <a href="http://fantasycup.cdmsports.com/edge/eliminator2/">View Game</a>
-                                                </div>
-                                        </div>
-                                        <div id="topnav_games_module">
                                                 <a href="http://www.cdmsports.com/racing/fantasycup-edge1/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/racing/fes.jpg" title="Fantasy Cup - Edge 1 Fantasy Auto Racing" border="0"/></a>
                                                 <b>Win $2,000!</b><br/>
                                                 Pick 8 Drivers Each Week for 5 Weeks!
@@ -589,6 +644,14 @@ jQuery(document).ready(function() {
 	        	<a href="http://www.cdmsports.com/golf/">Golf</a>
 	        	<span>
                                 <div id="topnav_games_module">
+                                    <a href="http://www.cdmsports.com/golf/tourtrade-questforthecup/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/golf/qc.jpg" title="Tour Trade - Quest For The Cup" border="0"></a>
+                                    <b>Win Up To $1,000!</b><br>
+                                    Pick 4 unique golfers for each of the 4 Playoff Tourneys.
+                                    <div class="playnow_button">
+                                            <a href="http://www.cdmsports.com/golf/tourtrade-questforthecup/">View Game</a>
+                                    </div>
+                                </div>
+                                <div id="topnav_games_module">
                                     <a href="http://www.cdmsports.com/golf/tourtrade2/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/golf/t.jpg" title="Tour Trade 2 - Fantasy Golf" border="0"></a>
                                     <b>Win $5,000!</b><br>
                                     Select 10 players within a $10,000,000 salary cap!
@@ -605,15 +668,15 @@ jQuery(document).ready(function() {
                                         	<a href="http://www.cdmsports.com/golf/tourtrade-oneanddone2/">View Game</a>
                                         </div>
                                 </div>
+					<!--
                                 <div id="topnav_games_module">
-                                    <a href="http://www.cdmsports.com/golf/tourtrade-majorschallenge/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/golf/mc.jpg" title="Tour Trade - Majors Challenge" border="0"></a>
-                                    <b>Win $1,000!</b><br>
+                                    <a href="http://www.cdmsports.com/golf/tourtrade-majorschallenge/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/golf/mc.jpg" title="Tour Trade - Majors Challenge" border="0"/></a>
+                                    <b>Win $1,000!</b><br/>
                                     Pick 4 unique golfers for each of the 5 Majors.
                                     <div class="playnow_button">
                                             <a href="http://www.cdmsports.com/golf/tourtrade-majorschallenge/">View Game</a>
                                     </div>
                                 </div>
-					<!--
                                 <div id="topnav_games_module">
                                     <a href="http://www.cdmsports.com/golf/tourtrade1/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/golf/g.jpg" title="Tour Trade 1 - Fantasy Golf" border="0"/></a>
                                     <b>Win $5,000!</b><br/>
@@ -683,23 +746,73 @@ jQuery(document).ready(function() {
 	        <li class="newnav_last">
 	        	<a href="http://www.cdmsports.com/budgetgames/">Budget Games</a>
 	        	<span>
+                                  <div id="topnav_games_module">
+                                        <a href="http://www.cdmsports.com/football/survivor2/"><img align="left" src="/globalfiles/rototimes/images/ads/last_man_standing2_nav_ad.png" title="Football Survivor 2" border="0"></a>
+                                        <b>Over $2,000.00 in Total Cash Prizes!</b><br>
+                                        Be the 'Last Man Standing' as you pick ONE player each and every week!
+                                        <div class="playnow_button">
+                                          <a href="http://www.cdmsports.com/football/survivor2/">View Game</a>
+                                        </div>
+                                  </div>
                                         <div id="topnav_games_module">
-                                                <a href="http://www.cdmsports.com/baseball/weekendwarriors/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/baseball/wwb.png" title="Weekend Warriors" border="0"></a>
-                                                <b>Win Up To $750.00!</b><br>
-                                                Hitting Survival Game! Play for only $15.00!  Buy 2 for $25.00!
+                                                <a href="http://www.cdmsports.com/basketball/budgetbasketball1/"><img align="left" src="/globalfiles/rototimes/images/ads/xfb_nav_ad.png" title="Budget Basketball" border="0"></a>
+                                                <b>Win $1,000!</b><br>
+                                                An easy to play point style basketball game!  Pick 10 Players.
                                                 <div class="playnow_button">
-                                                        <a href="http://www.cdmsports.com/baseball/weekendwarriors/">Play Now!</a>
+                                                        <a href="http://www.cdmsports.com/basketball/budgetbasketball1/">View Game</a>
+                                                </div>
+                                        </div>
+
+				<!--
+                                        <div id="topnav_games_module">
+                                                <a href="http://www.cdmsports.com/football/budgetfootball/"><img align="left" src="/globalfiles/rototimes/images/ads/budget_football_nav_ad.png" title="Budget Football" border="0"/></a>
+                                                <b>Win $5,000!</b><br/>
+                                                Pick 14 players.  Make Changes Weekly!
+                                                Prizes are based on your best 14 of 17 weeks of play!
+                                                <div class="playnow_button">
+                                                        <a href="http://www.cdmsports.com/football/budgetfootball/">View Game</a>
                                                 </div>
                                         </div>
                                         <div id="topnav_games_module">
-                                                <a href="http://www.cdmsports.com/racing/fantasycup-pickem2/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/racing/pct.jpg" title="Fantasy Cup - Pickem 2" border="0"></a>
-                                                <b>Win $1,000!</b><br>
+                                                <a href="http://www.cdmsports.com/hockey/hockeypool/"><img align="left" src="/globalfiles/rototimes/images/ads/hockeypool_nav_ad.png" title="Hockey Pool" border="0"/></a>
+                                                <b>Win $2,000!</b><br/>
+                                                An easy to play Pick'em Hockey Game!
+                                                <div class="playnow_button">
+                                                        <a href="http://www.cdmsports.com/hockey/hockeypool/">View Game</a>
+                                                </div>
+                                        </div>
+                                        <div id="topnav_games_module">
+                                                <a href="http://www.cdmsports.com/baseball/budgetbaseball-playoff/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/baseball/bbp.png" title="Budget Baseball - Playoff" border="0"/></a>
+                                                <b>Win $500!</b><br/>
+                                                Make daily changes in Budget Baseball - Playoff! Play for only $7.50!
+                                                <div class="playnow_button">
+                                                        <a href="http://www.cdmsports.com/baseball/budgetbaseball-playoff">View Game</a>
+                                                </div>
+                                        </div>
+                                        <div id="topnav_games_module">
+                                                <a href="http://www.cdmsports.com/racing/fantasycup-chase/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/racing/cfc.jpg" title="Fantasy Cup - Chase Fantasy Auto Racing" border="0"/></a>
+                                                <b>Win $2,000!</b><br/>
+                                                Compete for 10 Weeks of racing FUN!  Contest begins September 20th.
+                                                <div class="playnow_button">
+                                                        <a href="http://www.cdmsports.com/racing/fantasycup-chase/">View Game</a>
+                                                </div>
+                                        </div>
+                                        <div id="topnav_games_module">
+                                                <a href="http://www.cdmsports.com/football/survivor1/"><img align="left" src="/globalfiles/rototimes/images/ads/lms.png" title="Survivor 1 Football" border="0"/></a>
+                                                <b>Over $8,000 in Cash Prizes!</b><br/>
+                                                Be the 'Last Man Standing' as you pick ONE player each and every week!
+                                                <div class="playnow_button">
+                                                        <a href="http://www.cdmsports.com/football/survivor1/">View Game</a>
+                                                </div>
+                                        </div>
+                                        <div id="topnav_games_module">
+                                                <a href="http://www.cdmsports.com/racing/fantasycup-pickem2/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/racing/pct.jpg" title="Fantasy Cup - Pickem 2" border="0"/></a>
+                                                <b>Win $1,000!</b><br/>
                                                 Pick 1 Driver a week for 18 weeks!
                                                 <div class="playnow_button">
-                                                        <a href="http://www.cdmsports.com/racing/fantasycup-pickem2/">Play Now!</a>
+                                                        <a href="http://www.cdmsports.com/racing/fantasycup-pickem2/">View Game</a>
                                                 </div>
                                         </div>
-				<!--
                                         <div id="topnav_games_module">
                                                 <a href="http://www.cdmsports.com/baseball/kingofthemound2/"><img align="left" src="/globalfiles/cdm/images/challengegamesindex/baseball/kht.png" title="King of the Mound 2" border="0"/></a>
                                                 <b>Win Up To $1,000!</b><br/>
@@ -835,23 +948,6 @@ jQuery(document).ready(function() {
                                                 An easy to play point style basketball game!  Pick 10 Players.
                                                 <div class="playnow_button">
                                                         <a href="http://www.cdmsports.com/basketball/budgetbasketball1/">View Game</a>
-                                                </div>
-                                        </div>
-                                        <div id="topnav_games_module">
-                                                <a href="http://www.cdmsports.com/football/budgetfootball/"><img align="left" src="/globalfiles/rototimes/images/ads/budget_football_nav_ad.png" title="Budget Football" border="0"/></a>
-                                                <b>Win $5,000!</b><br/>
-                                                Pick 14 players.  Make Changes Weekly!
-                                                Prizes are based on your best 14 of 17 weeks of play!
-                                                <div class="playnow_button">
-                                                        <a href="http://www.cdmsports.com/football/budgetfootball/">View Game</a>
-                                                </div>
-                                        </div>
-                                        <div id="topnav_games_module">
-                                                <a href="http://www.cdmsports.com/football/survivor1/"><img align="left" src="/globalfiles/rototimes/images/ads/lms.png" title="Survivor 1 Football" border="0"/></a>
-                                                <b>Win Up To $10,000!</b><br/>
-                                                Be the 'Last Man Standing' as you pick ONE player each and every week!
-                                                <div class="playnow_button">
-                                                        <a href="http://www.cdmsports.com/football/survivor1/">View Game</a>
                                                 </div>
                                         </div>
                                         <div id="topnav_games_module">
@@ -1062,10 +1158,11 @@ If we decide to change our Privacy Policy, we will post those changes to this Pr
 <!--            <img src="/globalfiles/cdm/images/rss_icon.png" height="32" width="32"  border="0" alt="Blog Coming Soon!" title="Blog Coming Soon!"/>-->
 <!--            <img src="/globalfiles/cdm/images/linkedin_icon.png" height="32" width="32"  border="0" alt="LinkedIn Coming Soon!" title="LinkedIn Coming Soon!"/>-->
 <!--            <img src="/globalfiles/cdm/images/youtube_icon.png" height="32" width="32"  border="0" alt="YouTube Channel Coming Soon!" title="YouTube Channel Coming Soon!"/>-->
-            <a href="http://www.fsta.org" target="_blank"><img border="0" src="/globalfiles/cdm/images/fsta_logo.jpg" height="32" width="89" alt="Fantasy Sports Trade Association Member" title="Fantasy Sports Trade Association Member"></a>
+		<!--
+            <a href="http://www.fsta.org" target="_blank"><img border="0" src="/globalfiles/cdm/images/fsta_logo.jpg" height="32" width="89" alt="Fantasy Sports Trade Association Member" title="Fantasy Sports Trade Association Member"/></a>
+		-->
         	<img src="/globalfiles/cdm/images/stats_data_provided.png" height="32" border="0" alt="Data Provided by STATS" title="Data Provided by STATS">
         	<br> <br>
-            <a hre="http://www.paypal.com" target="_blank"><img border="1" src="/globalfiles/cdm/images/PayPal-1.png" width="51" height="32" alt="PayPal" title="PayPal"></a>
             <a hre="http://www.AmericanExpress.com" target="_blank"><img border="1" color="#ccc" src="/globalfiles/cdm/images/Amex-1.png" width="40" height="32" alt="American Express" title="American Express"></a>
             <a hre="http://www.discover.com" target="_blank"><img border="1" src="/globalfiles/cdm/images/Discover-1.png" width="51" height="32" alt="Discover" title="Discover"></a>
             <a hre="http://www.mastercard.com" target="_blank"><img border="1" src="/globalfiles/cdm/images/MasterCard-1.png" width="51" height="32" alt="Master Card" title="Master Card"></a>
