@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the finduniversity.ph privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145456id_/http%3A//www.finduniversity.ph/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finduniversity.ph privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206163426id_/http%3A//www.finduniversity.ph/privacy.aspx) for the most accurate reproduction.*
 
 # FindUniversity.ph - Privacy Policy
 
-Thank you for visiting our website www.finduniversity.ph, which is owned and operated by Find University Philippines (“FUP”). FUP takes your privacy very seriously. Please read this notice to learn more about FUP’s privacy policy. 
+Thank you for visiting our website www.finduniversity.ph, hereby “FUP”. FUP takes your privacy very seriously. Please read this notice to learn more about FUP’s privacy policy. 
 
 ### Limitations on Privacy Policy
 
@@ -10,7 +10,7 @@ For purposes of this policy, Personal Information is any information or data abo
 
 ### Information Collection and Use
 
-FUP may collect Personal Information when you use the features, information, data, and services of the website. Personal Information may also be collected when you register with FUP’s website, visit or view any of its pages, or websites or pages of the Philippine colleges and universities listed in its website. Additionally, Personal Information may be collected from you, at your option, when you sign the online form on the website which will be used when you contact your Philippine college or university of interest. If and when you register with the website or make requests to FUP, the latter may ask for certain Personal Information, such as, but not limited to, your name, email address, birth date, gender, ZIP code, educational interests, degree or educational program options, etc. FUP’s website may also automatically receive and record information and data from your computer and browser, which are not personally identifiable to you, including but not limited to your IP address, cookies, software and hardware attributes, and the page or website you are accessing. FUP may use this information to customize the content and advertisements that you see, fulfill your requests, improve its services, address your concerns, contact you, conduct research, and provide anonymous reporting for internal and external clients of FUP. 
+FUP may collect Personal Information when you use the features, information, data, and services of the website. Personal Information may also be collected when you register with FUP’s website, visit or view any of its pages, or websites or pages of the Philippine colleges and universities listed in its website. Additionally, Personal Information may be collected from you, at your option, when you sign the online form on the website which will be used when you contact your Philippine college or university of interest. If and when you register with the website or make requests to FUP, the latter may ask for certain Personal Information, such as, but not limited to, your name, email address, phone number, gender, educational interests, degree or educational program options, etc. FUP’s website may also automatically receive and record information and data from your computer and browser, which are not personally identifiable to you, including but not limited to your IP address, cookies, software and hardware attributes, and the page or website you are accessing. FUP may use this information to customize the content and advertisements that you see, fulfill your requests, improve its services, address your concerns, contact you, conduct research, and provide anonymous reporting for internal and external clients of FUP. 
 
 ### Information Sharing and Disclosure
 
@@ -34,4 +34,4 @@ FUP may update this policy from time to time. FUP will notify you about signific
 
 ### Concerns
 
-If you have any concerns about FUP’s privacy policy for the website, please send your comments/questions to contact.us AT finduniversity.ph.
+If you have any concerns about FUP’s privacy policy for the website, please send your comments/questions [here](https://web.archive.org/contact.aspx).
