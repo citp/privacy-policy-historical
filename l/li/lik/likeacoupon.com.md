@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the likeacoupon.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608025811id_/http%3A//www.likeacoupon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likeacoupon.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141814id_/http%3A//www.likeacoupon.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
