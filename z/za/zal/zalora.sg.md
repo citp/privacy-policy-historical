@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zalora.sg privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608072859id_/http%3A//www.zalora.sg/pdp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalora.sg privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206212908id_/http%3A//www.zalora.sg/pdp) for the most accurate reproduction.*
 
 # Zalora Personal Data Protection Policy
 
@@ -150,7 +150,7 @@ When you log on to the Zalora website, Zalora with the help of Google Analytics 
 
 **Contacting Us**
 
-For any questions relating to your Personal Data or about our Privacy Policy, you may contact our Data Privacy Officer at +65 3157 5555 or email at [customer@zalora.sg](mailto:customer@zalora.sg).
+For any questions relating to your Personal Data or about our Privacy Policy, you may contact our Data Privacy Officer at +65 3157 5555 or email at [customer@sg.zalora.com](mailto:customer@sg.zalora.com).
 
 **Governing Law**
 
