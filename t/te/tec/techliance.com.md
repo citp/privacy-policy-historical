@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techliance.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502093028id_/http%3A//www.techliance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techliance.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206125317id_/http%3A//www.techliance.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Techliance
 
