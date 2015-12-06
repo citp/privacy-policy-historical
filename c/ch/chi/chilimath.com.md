@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chilimath.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607044649id_/http%3A//www.chilimath.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chilimath.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206041637id_/http%3A//www.chilimath.com/privacypolicy.html) for the most accurate reproduction.*
 
 # ChiliMath - Privacy Policy
 
