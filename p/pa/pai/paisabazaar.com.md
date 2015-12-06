@@ -1,63 +1,90 @@
-> *The following text is extracted and transformed from the paisabazaar.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510045446id_/http%3A//www.paisabazaar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paisabazaar.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206112218id_/http%3A//www.paisabazaar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Paisabazaar.com
 
-By using the PaisaBazaar.com and/or registering yourself at www.PaisaBazaar.com you authorize us, our affiliates, and our associate partners to contact you via email or phone call or sms and offer you their services for the product you have opted for, imparting product knowledge, offer promotional offers running on PaisaBazaar.com and offers by associated third parties, for which reasons and your information may be collected as detailed below. Even if you have registered yourself under DND or DNC or NCPR service(s), you still authorize us to call you from PaisaBazaar and its associate partners for the above mentioned purposes till a time period that is 45-day-long from the date you register with us.
+Paisabazaar.com (‘Website’) recognizes the importance of maintaining your privacy. Paisabazaar is committed to maintain the confidentiality, integrity and security of all information of our users. This Privacy Policy describes how Paisabazaar collects and handles certain information it may collect and/or receive from you via the use of this Website. Please see below for details on what type of information we may collect from you, how that information is used in connection with the services offered through our Website and other shared with our business partners. This Privacy Policy applies to current and former visitors to our Website and to our online customers. By visiting and/or using our website, you agree to this Privacy Policy
 
-This Privacy Policy covers the PaisaBazaar.com's treatment of the information it collects when you use its services. This policy also covers how the PaisaBazaar.com shares with its associates information that can be used to identify you. This policy does not apply to the practices of companies that PaisaBazaar does not own or control, or to people that PaisaBazaar.com does not employ or manage.
+By using the PaisaBazaar.com and/or registering yourself at www.PaisaBazaar.com you authorize Paisabazaar (including it’s representatives, affiliates, and its business partners) to contact you via email or phone call or sms and offer you our services for the product you have opted for, imparting product knowledge, offer promotional offers running on PaisaBazaar.com and offers by its business partners and associated third parties, for which reasons your information may be collected in the manner as detailed under this Policy. You hereby agree that you authorize Paisabazaar to contact you for the above mentioned purposes even if you have registered yourself under DND or DNC or NCPR service(s). Your authorization, in this regard, shall be valid as long as your account is not deactivated by either you or us.
 
-PaisaBazaar.com collects your relevant personal information when you register for an account, when you use its products or services, visit its Website's pages, and when you enter promotions or sweepstakes featured in PaisaBazaar.com.
+This policy does not apply to the practices of companies that PaisaBazaar does not own or control or to people that PaisaBazaar does not employ or manage.
 
-When you register with PaisaBazaar.com, you are asked for your first name, last name, state and city of residence, email address, date of birth, and sex. Once you register at PaisaBazaar.com and sign in you are not anonymous to us.
+#### Controllers of Personal Information
+
+Your personal data will be stored and collected by Paisabazaar Marketing and Consulting Private Limited along with its parent company Etechaces Marketing and Consulting Private Limited which wholly owns Paisabazaar.
+
+#### Purposes of collection of your data 
+
+PaisaBazaar.com collects your information when you register for an account, when you use its products or services, visit its Website's pages, and when you enter promotions or sweepstakes as featured on the Website. When you register with PaisaBazaar.com, you are asked for your first name, last name, state and city of residence, email address, date of birth, and sex. Once you register at the Website and sign in you are not anonymous to us.
 
 Also, you are asked for your contact number during registration and may be sent SMSs, notifications about our services to your wireless device. Hence, by registering you authorize the PaisaBazaar.com to send texts and email alerts to you with your login details and any other service requirements, including promotional mails and SMSs.
 
-  
+#### We use your information in order to:
 
+  * respond to queries or requests submitted by you.
+  * process orders or applications submitted by you.
+  * administer or otherwise carry out our obligations in relation to any agreement with our business partners.
+  * anticipate and resolve problems with any services supplied to you.
+  * to send you information about special promotions or offers. We might also tell you about new features or products. These might be our own offers or products, or third-party offers or products with whom Paisabazaar has a tie-up.
+  * to make our website and the services offered by Paisabazaar better. We may combine information we get from you with information about you we get from third parties.
+  * to send you notices, communications, offer alerts relevant to your use of the Services offered on this Website.
+  * as otherwise provided in this Privacy Policy.
+
+
+
+Some features of this Website or our Services will require you to furnish your personally identifiable information as provided by you under your account section on our Website.
 
 #### Information Sharing and Disclosure
 
-PaisaBazaar.com will not sell or rent your personally identifiable information to anyone other than as specifically noted in the section above. Notwithstanding the foregoing, we may share, sell and/or transfer your personally identifiable information to an affiliate and/or associate partner. PaisaBazaar.com may also share, sell, and/or transfer your personally identifiable information to any successor-in-interest as a result of a sale of any part of PaisaBazaar.com's business or upon the merger, reorganization, or consolidation of PaisaBazaar with another entity on a basis that PaisaBazaar is not the surviving entity. For the purposes of this paragraph, "affiliate" means any person, company, or PaisaBazaar.com directly, or indirectly through one or more intermediaries, that controls, is controlled by or is under common control with PaisaBazaar. The term "control," as used in the preceding sentence, shall mean with respect to any person, the possession, directly or indirectly, of the power, through the exercise of voting rights, contractual rights or otherwise, to direct or cause the direction of the management or policies of the controlled person. As used in this Privacy Policy, the term "person" includes any natural person, corporation, partnership, limited liability company, trust, unincorporated association, or any other entity. 
+PaisaBazaar.com will not sell or rent your information to anyone other than as set forth in this Privacy Policy. Notwithstanding the foregoing, we may share your information to an affiliate and/or business partner. PaisaBazaar.com may also share, sell, and/or transfer your personally identifiable information to any successor-in-interest as a result of a sale of any part of PaisaBazaar.com's business or upon the merger, reorganization, or consolidation of PaisaBazaar with another entity on a basis that PaisaBazaar is not the surviving entity. For the purposes of this paragraph, "affiliate" means any person, company, or PaisaBazaar.com directly, or indirectly through one or more intermediaries, that controls, is controlled by or is under common control with PaisaBazaar. (The term "control," as used in the preceding sentence, shall mean with respect to any person, the possession, directly or indirectly, of the power, through the exercise of voting rights, contractual rights or otherwise, to direct or cause the direction of the management or policies of the controlled person. As used in this Privacy Policy, the term "person" includes any natural person, corporation, partnership, limited liability company, trust, unincorporated association, or any other entity).
 
-**If you are no longer interested in receiving e-mail announcements and other marketing information from us, or you want us to remove any PII that we have collected about you, please e-mail your request toÂ  [custcare@paisabazaar.com](mailto:custcare@paisabazaar.com).**
+We limit the collection and use of your personal information. We may make anonymous or aggregate personal information and disclose such data only in a non-personally identifiable manner. Such information does not identify you individually. Access to your Account information and any other personal identifiably information is strictly restricted and used only in accordance with specific internal procedures, in order to operate, develop or improve our Services. We may use third party service providers to enable you to provide with Our services and we require such third parties to maintain the confidentiality of the information we provide to them under our contracts with them. 
 
-  
+We may also share your information, without obtaining your prior written consent, with government agencies mandated under the law to obtain information for the purpose of verification of identity, or for prevention, detection, investigation including cyber incidents, prosecution, and punishment of offences, or where disclosure is necessary for compliance of a legal obligation. Any Information may be required to be disclosed to any third party by us by an order under the law for the time being in force.
 
+There are number of products/services such as loans, credit cards, mutual funds, offered by third Parties on the Website, such as lenders, banks, credit card issuers. If you choose to apply for these separate products or services, disclose information to these providers, then their use of your information is governed by their privacy policies. Paisabazaar.com is not responsible for their privacy policies.
 
-#### Third Party Advertising 
+#### We Collect Cookies 
 
-We may use third-party advertising companies and/or ad agencies to serve ads when you visit our Website. These companies may use information (excluding your name, address, email address, or telephone number) about your visits to this and other PaisaBazaar.com in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+A cookie is a piece of data stored on the user's computer tied to information about the user. We may use both session ID cookies and persistent cookies. For session ID cookies, once you close your browser or log out, the cookie terminates and is erased. A persistent cookie is a small text file stored on your computer’s hard drive for an extended period of time. Session ID cookies may be used by PRP to track user preferences while the user is visiting the website. They also help to minimize load times and save on server processing. Persistent cookies may be used by PRP to store whether, for example, you want your password remembered or not, and other information. Cookies used on the PRP website do not contain personally identifiable information.
 
-**We use third-party service providers to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to Website, and your interaction with our products and services. They may also use information about your visits to this and other Websites for targeted advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major Websites. No personally identifiable information is collected or used in this process. Your name, phone number, address, email address, or any personally identifying information about the user.**
+#### Log Files 
 
-**If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please click<http://www.networkadvertising.org/managing/opt_out.asp>. You can also read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiative's Website by clicking <http://www.networkadvertising.org/>.**
+Like most standard websites, we use log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer to you, to improve marketing, analytics or site functionality.
 
-  
+#### Email- Opt out 
 
+If you are no longer interested in receiving e-mail announcements and other marketing information from us, please e-mail your request at: care@paisabazaar.com. Please note that it may take about 10 days to process your request.
 
-#### Legal
+#### Security 
 
-We strictly follow the norms of non-disclosure agreement. It is our endeavor to ensure that the Websites linked to us are safe and secure. However we have no control over 3rd-party Websites. Given our legal responsibilities to legal authorities and regulators, there may be situations when we need to share your information with legal authorities, or processes or need to protect our right or comply by their terms and conditions.
+We employ appropriate technical and organizational security measures at all times to protect the information we collect from you. We use multiple electronic, procedural, and physical security measures to protect against unauthorized or unlawful use or alteration of information, and against any accidental loss, destruction, or damage to information. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. Further, you are responsible for maintaining the confidentiality and security of your login id and password, and may not provide these credentials to any third party. 
 
-  
+#### Third Party Advertising 
 
+We may use third-party advertising companies and/or ad agencies to serve ads when you visit our Website. These companies may use information (excluding your name, address, email address, or telephone number) about your visits to this Website in order to provide advertisements on this Website and other third party websites about goods and services that may be of interest to you. 
 
-#### Other Websites
+We use third-party service providers to serve ads on our behalf across the internet and sometimes on this Website. They may collect anonymous information about your visits to Website, and your interaction with our products and services. They may also use information about your visits to this and other Websites for targeted advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major Websites. No personally identifiable information is collected or used in this process.
 
-There might be affiliates or other sites linked to **PaisaBazaar.com**. Personal information that you provide to those sites are not our property. These affiliated sites may have different privacy practices and we encourage you to read their privacy policies. These sites may place their cookies or other files on your computer, collect data or solicit personal information.
+#### Links to Other Websites 
 
-  
-
+There might be affiliates or other sites linked to **PaisaBazaar.com**. Personal information that you provide to those sites are not our property. These affiliated sites may have different privacy practices and we encourage you to read their privacy policies of these website when you visit them. 
 
 #### Changes in this Privacy Policy 
 
-PaisaBazaar.com reserves the right to change this policy from time to time, at its sole discretion. **If we make any changes in the way we use your personal information we will notify you by posting the changes here on these Privacy Policy pages**.
+PaisaBazaar.com reserves the right to change this policy from time to time, at its sole discretion.We may update this privacy policy to reflect changes to our information practices. We encourage you to periodically review 
 
-  
+#### Grievance Officer 
 
+In case you have any grievances with respect to in accordance with applicablelaw on Information Technology and rules made there under, the name and contact details of the Grievance Officer are provided below:   
+Mr. Ankit Gupta 
 
-#### Our Associates 
+#### PaisaBazaar Marketing and Consulting Private Limited 
 
-**Loans and Credit Cards** \- Abhyuday Co-op Bank Ltd, ABN Amro, Allahabad Bank, American Express, Andhra Bank, Axis Bank, Bajaj Finserv, Bank of Baroda, Bank of India, Bank of Maharasthra, Bank of Rajasthan, Barclays, Canara Bank, Capital One, Catholic Syrian Bank, Central Bank of India, Citibank, Corporation bank, Dena Bank, Deutsche Bank, Dhanalakshmi Bank Ltd, DHFL, Federal Bank, Fullerton India, HDFC Bank, HDFC Limited,HSBC, ICICI Bank, IDBI Bank, India Bulls, Indian Bank, Indian Overseas Bank, ING Vysya, J and K Bank, Karnataka Bank, Karur Vysya Bank, Kotak Bank, Lakshmi Vilas bank, LIC Housing Finance, Oriental Bank of Commerce, PNB Housing Finance Ltd, Punjab and Sind bank, Punjab National Bank, Ratnakar Bank, Reliance, Saraswat Bank, South Indian Bank, Standard Chartered Bank, State Babnk of Mysore, State Bank of Bikaner and Jaipur, State Bank of Hyderabad, State Bank of India, State Bank of Indore, State Bank of Patiala, State Bank of Travancore, Syndicate Bank, Tamil Nadu Mercantile Bank, UCO Bank, Union Bank of India, United Bank of India, Vijaya Bank, Yes Bank.
+Plot No. 129,  
+Sector-44, Gurgaon-122001,  
+Haryana  
+Tel - 0124 - 4562900  
+Fax - 0124 – 4562902   
+Email : care@paisabazaar.com
 
-© Copyright 2010-2015 Paisabazaar.com. All Rights Reserved. 
+If you have questions, concerns, or suggestions regarding our Privacy Policy, we can be reached using the contact information on our Contact Us page or at care@paisabazaar.com.
