@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homedics.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200217id_/http%3A//www.homedics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedics.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206230423id_/http%3A//www.homedics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HoMedics USA
 
@@ -50,6 +50,6 @@ The HoMedics, LLC Customer Privacy Policy is subject to change at any time. We e
 
 Please contact privacy@homedics.com to report any known or suspected privacy or security breaches or to submit privacy-related questions or complaints about privacy.
 
-©2012 HoMedics, LLC. All Rights Reserved.
+©2015 HoMedics, LLC. All Rights Reserved.
 
-Last updated September 8, 2006
+Last updated October 13, 2015
