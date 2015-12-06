@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the howtoshopforfree.net privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210124800id_/http%3A//www.howtoshopforfree.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtoshopforfree.net privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206221912id_/http%3A//www.howtoshopforfree.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | How to Shop For Free with Kathy Spencer
 
 **What information do we collect?**
 
-We collect information from you when you register on our site or subscribe to our newsletter. 
+We collect information from you when you register on our site or subscribe to our newsletter.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
@@ -14,7 +14,7 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 
 **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
 To personalize your experience  
 (your information helps us to better respond to your individual needs)
@@ -30,7 +30,7 @@ The email address you provide may be used to send you information, respond to in
 
 **How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
 
 **Do we use cookies?**
 
@@ -66,14 +66,14 @@ By using our site, you consent to our [privacy policy](http://www.freeprivacypol
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
 This policy was last modified on 08/10/2011
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
-admin@howtoshopforfree.net
+kathy@howtoshopforfree.net
 
 This policy is powered by Trust Guard, the place for [website security scans](http://www.trust-guard.com/Website-Security-s/89.htm).
