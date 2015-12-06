@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typicallyspanish.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607160012id_/http%3A//www.typicallyspanish.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typicallyspanish.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206142749id_/http%3A//www.typicallyspanish.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Page - Spain news - Topsite for Spanish News in English - TypicallySpanish.com -
 
