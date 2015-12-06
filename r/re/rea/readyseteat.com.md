@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readyseteat.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132902id_/http%3A//www.conagrafoods.com/utilities/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyseteat.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141523id_/http%3A//www.conagrafoods.com/privacy-policy) for the most accurate reproduction.*
 
 # ConAgra Foods Privacy Policy | ConAgra Foods
 
@@ -6,21 +6,9 @@ ConAgra Foods, Inc., ("ConAgra Foods") recognizes that many adults and children 
 
 ## Topics:
 
-  * Gathering and Use of Information
-  * [About Our Ads and Tracking](https://web.archive.org/pdf/ConAgra_Foods_About_Our_Ads.pdf)
-  * Data Transfers
-  * Contests/Sweepstakes
-  * Cookies/IP Addresses
-  * Polls & Surveys
-  * Choice/Opt-out
-  * How to Contact Us
-  * Final Note
+## Gathering and Use of Information
 
-
-
-### Gathering and Use of Information
-
-ConAgra Foods collects personally identifiable information from visitors to our sites solely on a voluntary basis. Such personally identifiable information may include your name, postal address, e-mail address, company name and/or telephone numbers, etc., (collectively referred to herein as "Personal Information"). We will never sell, transfer or disclose any Personal Information we gather at our websites to any third parties without your prior consent, except in cases when we believe in good faith that we have a legal obligation to disclose such Personal Information. We collect Personal Information primarily for the following reasons: 1) to e-mail consumers with updates and news, 2) to notify winners of contests, games and sweepstakes, and to distribute prizes, 3) to send out brochures, etc., via regular mail to subscribers, 4) to distribute items that are part of "giveaways" that you have registered for, 5) for use in our online and off-line marketing and advertising campaigns. There may be times when we share aggregate information about our users (for example, the percent of male and female visitors to our sites) with advertisers, business partners, sponsors, and other third parties in any effort to customize or enhance the content and advertising on our sites for our users. 
+ConAgra Foods collects personally identifiable information from visitors to our sites solely on a voluntary basis. Such personally identifiable information may include your name, postal address, e-mail address, company name and/or telephone numbers, etc., (collectively referred to herein as "Personal Information"). We do not sell, transfer or disclose any Personal Information we gather at our websites to any third parties without your prior consent, except in cases when we believe in good faith that we have a legal obligation to disclose such Personal Information. However, we may share Personal Information with third-party vendors who perform services on our behalf, but they will be restricted to using such identifiable information only as necessary to perform services for ConAgra Foods and as provided in our agreements with such third-party vendors. We collect Personal Information primarily for the following reasons: 1) to e-mail consumers with updates and news, 2) to notify winners of contests, games and sweepstakes, and to distribute prizes, 3) to send out brochures, etc., via regular mail to subscribers, 4) to distribute items that are part of "giveaways" that you have registered for, 5) for use in our online and off-line marketing and advertising campaigns. There may be times when we share aggregate information about our users (for example, the percent of male and female visitors to our sites) with advertisers, business partners, sponsors, and other third parties in any effort to customize or enhance the content and advertising on our sites for our users. 
 
 We recognize there are unique issues raised about the protection of our children's privacy over the Internet. All children-directed ConAgra Foods websites are designed to comply with the requirements of the Children's Online Privacy Protection Act (COPPA) and Children's Advertising Review Unit (CARU) guidelines for websites gathering identifiable information from children (under age 13). Consistent with these requirements and guidelines, and provided that we have been given accurate information by the child when asked, we do NOT: 
 
@@ -38,15 +26,15 @@ As the new technology of the Internet evolves, and the COPPA requirements and CA
 
 Back to Top
 
-### Data Transfers
+## Data Transfers
 
-We may transfer the Personal Information we collect about you to countries other than the country in which the information was originally collected.  Those countries may not have the same data protection laws as the country in which you initially provided the information.  When we transfer your information to other countries, we will protect that information as described in this Privacy Policy.
+We may transfer the Personal Information we collect about you to countries other than the country in which the information was originally collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this Privacy Policy.
 
-If you are located in the European Economic Area (“EEA”) we comply with applicable legal requirements providing adequate protection for the transfer of Personal Information to countries outside of the EEA, including to the U.S.  ConAgra Foods is certified under the U.S.-EU Safe Harbor privacy framework as set forth by the U.S. Department of Commerce and the European Commission regarding the collection, storage, use, transfer and other processing of personal data transferred from the EEA to the U.S. [Click here](https://web.archive.org/pdf/SafeHarborPrivacyPolicy.pdf) to view our Safe Harbor Privacy Policy.
+If you are located in the European Economic Area (“EEA”) we comply with applicable legal requirements providing adequate protection for the transfer of Personal Information to countries outside of the EEA, including to the U.S. ConAgra Foods is certified under the U.S.-EU Safe Harbor privacy framework as set forth by the U.S. Department of Commerce and the European Commission regarding the collection, storage, use, transfer and other processing of personal data transferred from the EEA to the U.S. [Click here](https://web.archive.org/pdf/SafeHarborPrivacyPolicy.pdf) to view our Safe Harbor Privacy Policy.
 
 Back to Top
 
-### Contests/Sweepstakes
+## Contests/Sweepstakes
 
 We periodically run contests and sweepstakes on our sites for which we ask users/participants to provide contact information (such as their e-mail address). This information is used to contact the participant only when necessary in accordance with the rules of the contest or sweepstakes. 
 
@@ -56,7 +44,7 @@ When a participant under the age of 18 is selected as a prize-winner in a contes
 
 Back to Top
 
-### Cookies/Ip Addresses
+## Cookies/Ip Addresses
 
 Like many companies, ConAgra Foods may use "cookie" technology to track customer visits through our sites. Cookies are pieces of information that a website transfers to an individual's hard drive for record-keeping purposes. They enhance the online experience by saving your preferences while you are visiting a particular site. 
 
@@ -66,19 +54,19 @@ We use your IP address in two ways: to help diagnose problems with our server an
 
 Back to Top
 
-### Polls & Surveys
+## Polls & Surveys
 
 Information gathered from polls and surveys are only for internal use of ConAgra Foods. If sample answers to polls or surveys are posted on the website, then no identifiable Personal Information is ever included. 
 
 Back to Top
 
-### Choice/Opt-Out
+## Choice/Opt-Out
 
-Our sites will provide users the opportunity to opt out of receiving communications from us at the point where we request information about the visitor. Simply follow the procedure outlined at each site. Likewise, we will provide users with the opportunity to change any personal information previously provided, or to opt out of receiving future email communication from us. You can also control certain cookies and tracking tools. To learn more about our tracking and how to manage how we – and our vendors – use cookies and other tracking tools, please [click here](https://web.archive.org/pdf/ConAgra_Foods_About_Our_Ads.pdf). 
+Our sites will provide users the opportunity to opt out of receiving communications from us at the point where we request information about the visitor. Simply follow the procedure outlined at each site. Likewise, we will provide users with the opportunity to change any personal information previously provided, or to opt out of receiving future email communication from us. You can also control certain cookies and tracking tools. To learn more about our tracking and how to manage how we â and our vendors â use cookies and other tracking tools, please [click here](https://web.archive.org/pdf/ConAgra_Foods_About_Our_Ads.pdf). 
 
 Back to Top
 
-### How to Contact Us
+## How to Contact Us
 
 If you have any questions about this Privacy Policy, the Legal Policy, the practices of this site, your dealings with this website, or your personal information, please contact us via email, phone or mail. 
 
@@ -91,7 +79,7 @@ Email: [consumeraffairs@conagrafoods.com](mailto:consumeraffairs@conagrafoods.co
 
 Back to Top
 
-### Final Note
+## Final Note
 
 Our goal at ConAgra Foods is to provide a safe Internet environment for everyone. While children and young adults are encouraged to play our games and explore the websites, we remind them often that their parents will be notified if they give us their e-mail address and their parent's written permission is required for them to be eligible to win prizes. We urge parents to spend time with their children on our websites. Sit with them and share the experience. While ConAgra Foods does everything we can to ensure your child's privacy and safety, informed parents are the best protectors of their children. 
 
