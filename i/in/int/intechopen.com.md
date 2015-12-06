@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intechopen.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629135219id_/http%3A//www.intechopen.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intechopen.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114934id_/http%3A//www.intechopen.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | InTech
 
