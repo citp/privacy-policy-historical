@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sabhot.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608080107id_/http%3A//www.sabhot.com/p/privacy-policy_02.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabhot.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206145831id_/http%3A//www.sabhot.com/p/privacy-policy_02.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
