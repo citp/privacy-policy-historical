@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the oliviaburton.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607190754id_/http%3A//www.oliviaburton.com/privacy-policy-i4) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oliviaburton.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206114240id_/http%3A//www.oliviaburton.com/privacy-policy-i4) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Script-Type" content="text/tcl">
 <meta http-equiv="language" content="en">
 <title>Privacy Policy</title>
-<link rel="stylesheet" type="text/css" href="http://files.oliviaburton.com/media/css/site_font,layout,site_layout,hotspots,media_promo,colorbox,card_logos,footer_credit,generic,site_generic.css?cache=08052015">
+<link rel="stylesheet" type="text/css" href="http://files.oliviaburton.com/media/css/site_font,layout,site_layout,hotspots,media_promo,colorbox,card_logos,footer_credit,generic,site_generic.css?cache=07082015">
 <meta name="keywords" content="Meta Keywords Privacypolicy">
 <meta name="description" content="Meta Description Privacypolicy">
 <link rel="alternate" type="application/rss+xml" href="http://www.oliviaburton.com/rss/latest_products/en">
@@ -18,7 +18,7 @@
 //<![CDATA[
 (function (window) {
   var v = {};
-   v.setting = {};  v.setting.shop_price_inc_vat = 'true';   window.vsvar = function (k) {
+   v.setting = {};  v.setting.shop_price_inc_vat = 'true'; v.setting.site_domain = 'www.oliviaburton.com';   window.vsvar = function (k) {
     k = k || '';
     var s = k.split('.'), r = false, c = v;
     for (var i in s) {
@@ -34,7 +34,7 @@
 //]]>
 </script>
 
-<script type="text/javascript" src="http://files.oliviaburton.com/media/js/jquery,common,jquery-cookie,jquery-bgiframe,bookmark,jquery-hotspots,jquery-hotspots-settings,jquery-hoverintent,jquery-slider,vs_slider,jplayer,colorbox?cache=08052015&amp;w=1.js"></script>
+<script type="text/javascript" src="http://files.oliviaburton.com/media/js/jquery,common,jquery-cookie,jquery-bgiframe,bookmark,jquery-hotspots,jquery-hotspots-settings,jquery-hoverintent,jquery-slider,vs_slider,jplayer,colorbox?cache=07082015&amp;w=1.js"></script>
 <script type="text/javascript">
 //<![CDATA[
 $( document ).ready(function() {
@@ -45,6 +45,8 @@ $( document ).ready(function() {
 
 	<script type="text/javascript" src="//use.typekit.net/ljc2wkr.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+
 
 
 
@@ -74,6 +76,10 @@ ga('send', 'pageview');
 </script>
 
   <!-- End Google Universal Analytics -->
+
+
+
+
 
 
 
@@ -152,72 +158,93 @@ ga('send', 'pageview');
 
       -->
     </script><form method="get" action="/search/">
-<div id="top_search_bar">
-<span id="top_search_bar_span"><label for="query">Search</label><input type="text" id="query" name="query" class="textbox search_textbox" value="Search Olivia Burton..." onclick="if(this.value == 'Search Olivia Burton...') { this.value='';}"></span>
-<input type="submit" value="" class="button go_btn" alt="Go" onclick="if(document.getElementById('query').value == 'Search Olivia Burton...') { document.getElementById('query').value='';}">
+  <div id="top_search_bar">
+    <span id="top_search_bar_span"><label for="query">Search</label><input type="text" id="query" name="query" class="textbox search_textbox" value="Search Olivia Burton..." onclick="if(this.value == 'Search Olivia Burton...') { this.value='';}"></span>
+        <input type="submit" value="" class="button go_btn" alt="Go" onclick="if(document.getElementById('query').value == 'Search Olivia Burton...') { document.getElementById('query').value='';}">
+  </div>
+  <script type="text/javascript">
+    <!--
+    $('#query').on('paste', function() { if($('#query').val() == 'Search Olivia Burton...'){$ ('#query').val(''); } });
+    -->
+  </script>
+      <script type="text/javascript">
+      $('.ac_results').on('click', 'a', function(e) {
+        e.preventDefault();
+        ga('send', {
+          hitType: 'pageview',
+          page: '/search/?q=' + $('#query').val(),
+          hitCallback: function() {
+            var el = e.target;
+            while (el.nodeName !== "A") {
+              el = el.parentNode;
+            }
+            window.location = el.href;
+          }
+        });
+      });
+    </script>
+  </form>
+
+
 </div>
-<script type="text/javascript">
-<!--
-$('#query').on('paste', function() { if($('#query').val() == 'Search Olivia Burton...'){$ ('#query').val(''); } });
--->
-</script>
-</form></div>
 <div id="header_top_menu">
 <ul class="menu">
-<li class="menu_li"><a href="/" title="Home" class="header_menu_link header_menu_1"><span class="header_menu_link_span">Home</span></a></li>
+  <li class="menu_li"><a href="/" title="Home" class="header_menu_link header_menu_1"><span class="header_menu_link_span">Home</span></a></li>
 
-<li class="menu_li"><a href="/shop-all-products-c25" title="Shop" class="header_menu_link header_menu_2"><span class="header_menu_link_span">Shop</span></a>
-
-
-
-        <div class="menu-dropdown" style="width:970px;" onmouseover="$('.header_menu_2').addClass('hoverOver');" onmouseout="$('.header_menu_2').removeClass('hoverOver');">
-      <table cellpadding="0" cellspacing="0" class="menu-content">
-        <tbody><tr>
-          <td class="menu_items_td menu_items_1">
-          <span class="title">shop by dial size</span>
-          <ul class="menu-items">
-          <li><a href="/big-dial-t23" title="Big Dial">Big Dial</a></li><li><a href="/midi-dial-t24" title="Midi Dial">Midi Dial</a></li><li><a href="/mini-dial-t25" title="Mini Dial">Mini Dial</a></li>          </ul>
-          </td>
+  <li class="menu_li"><a href="/shop-all-products-c25" title="Shop" class="header_menu_link header_menu_2"><span class="header_menu_link_span">Shop</span></a>
 
 
 
-          <td class="menu_items_td menu_items_2">
-            <span class="title">shop by collection</span>
-            <ul class="menu-items">
-                        <li><a href="/big-dial-chrono-detail-c16" title="Big&nbsp;Dial&nbsp;Chrono&nbsp;Detail">Big&nbsp;Dial&nbsp;Chrono&nbsp;Detail</a></li>            <li><a href="/midi-dial-chrono-detail-c33" title="Midi&nbsp;Dial&nbsp;Chrono&nbsp;Detail">Midi&nbsp;Dial&nbsp;Chrono&nbsp;Detail</a></li>            <li><a href="/big-dial-c5" title="Big&nbsp;Dial">Big&nbsp;Dial</a></li>            <li><a href="/midi-dial-c6" title="Midi&nbsp;Dial">Midi&nbsp;Dial</a></li>            <li><a href="/timeless-c34" title="Timeless">Timeless</a></li>            <li><a href="/white-dial-c15" title="White&nbsp;Dial">White&nbsp;Dial</a></li>            <li><a href="/the-dandy-c18" title="The&nbsp;Dandy">The&nbsp;Dandy</a></li>            <li><a href="/the-hackney-c26" title="The&nbsp;Hackney">The&nbsp;Hackney</a></li>            <li><a href="/wonderland-c9" title="Wonderland">Wonderland</a></li>            <li><a href="/modern-vintage-c12" title="Modern&nbsp;Vintage">Modern&nbsp;Vintage</a></li>            <li><a href="/woodland-c7" title="Woodland">Woodland</a></li>            <li><a href="/animal-motifs-c8" title="Animal&nbsp;Motifs">Animal&nbsp;Motifs</a></li>            <li><a href="/enchanted-garden-c31" title="Enchanted&nbsp;Garden">Enchanted&nbsp;Garden</a></li>            <li><a href="/winter-garden-c10" title="Winter&nbsp;Garden">Winter&nbsp;Garden</a></li>            <li><a href="/parlour-c11" title="Parlour">Parlour</a></li>            <li><a href="/painterly-prints-c32" title="Painterly&nbsp;Prints">Painterly&nbsp;Prints</a></li>            <li><a href="/flower-show-c1" title="Flower&nbsp;Show">Flower&nbsp;Show</a></li>            <li><a href="/colour-crush-c13" title="Colour&nbsp;Crush">Colour&nbsp;Crush</a></li>            <li><a href="/personalised-c35" title="Personalised">Personalised</a></li>            <li><a href="/shop-all-products-c25" title="All Products"><strong>All Products</strong></a></li>
-            </ul>
-          </td>
+          <div class="menu-dropdown" style="width:970px;" onmouseover="$('.header_menu_2').addClass('hoverOver');" onmouseout="$('.header_menu_2').removeClass('hoverOver');">
+        <table cellpadding="0" cellspacing="0" class="menu-content">
+          <tbody><tr>
+            <td class="menu_items_td menu_items_1">
+              <span class="title">shop by dial size</span>
+              <ul class="menu-items">
+                <li><a href="/big-dial-t23" title="Big Dial">Big Dial</a></li><li><a href="/midi-dial-t24" title="Midi Dial">Midi Dial</a></li><li><a href="/mini-dial-t25" title="Mini Dial">Mini Dial</a></li>              </ul>
+            </td>
 
-          <td class="menu_items_td menu_items_3">
-            <span class="title">shop by metal colour</span>
-            <ul class="menu-items">
+
+
+            <td class="menu_items_td menu_items_2">
+              <span class="title">shop by collection</span>
+              <ul class="menu-items">
+                                  <li><a href="/big-dial-chrono-detail-c16" title="Big&nbsp;Dial&nbsp;Chrono&nbsp;Detail">Big&nbsp;Dial&nbsp;Chrono&nbsp;Detail</a></li>                  <li><a href="/midi-dial-chrono-detail-c33" title="Midi&nbsp;Dial&nbsp;Chrono&nbsp;Detail">Midi&nbsp;Dial&nbsp;Chrono&nbsp;Detail</a></li>                  <li><a href="/big-dial-c5" title="Big&nbsp;Dial">Big&nbsp;Dial</a></li>                  <li><a href="/midi-dial-c6" title="Midi&nbsp;Dial">Midi&nbsp;Dial</a></li>                  <li><a href="/timeless-c34" title="Timeless">Timeless</a></li>                  <li><a href="/white-dial-c15" title="White&nbsp;Dial">White&nbsp;Dial</a></li>                  <li><a href="/the-dandy-c18" title="The&nbsp;Dandy">The&nbsp;Dandy</a></li>                  <li><a href="/the-hackney-c26" title="The&nbsp;Hackney">The&nbsp;Hackney</a></li>                  <li><a href="/wonderland-c9" title="Wonderland">Wonderland</a></li>                  <li><a href="/modern-vintage-c12" title="Modern&nbsp;Vintage">Modern&nbsp;Vintage</a></li>                  <li><a href="/woodland-c7" title="Woodland">Woodland</a></li>                  <li><a href="/animal-motifs-c8" title="Animal&nbsp;Motifs">Animal&nbsp;Motifs</a></li>                  <li><a href="/oriental-opulence-c38" title="Oriental&nbsp;Opulence">Oriental&nbsp;Opulence</a></li>                  <li><a href="/english-rose-c40" title="English&nbsp;Rose">English&nbsp;Rose</a></li>                  <li><a href="/enchanted-garden-c31" title="Enchanted&nbsp;Garden">Enchanted&nbsp;Garden</a></li>                  <li><a href="/winter-garden-c10" title="Winter&nbsp;Garden">Winter&nbsp;Garden</a></li>                  <li><a href="/mini-dial-c13" title="Mini&nbsp;Dial">Mini&nbsp;Dial</a></li>                  <li><a href="/parlour-c11" title="Parlour">Parlour</a></li>                  <li><a href="/personalised-c35" title="Personalised">Personalised</a></li>                  <li><a href="/painterly-prints-c32" title="Painterly&nbsp;Prints">Painterly&nbsp;Prints</a></li>                  <li><a href="/straps-c39" title="Straps">Straps</a></li>                  <li><a href="/flower-show-c1" title="Flower&nbsp;Show">Flower&nbsp;Show</a></li>                  <li><a href="/paisley-design-c41" title="Paisley&nbsp;Design">Paisley&nbsp;Design</a></li>                <li><a href="/shop-all-products-c25" title="All Products"><strong>All Products</strong></a></li>
+              </ul>
+            </td>
+
+            <td class="menu_items_td menu_items_3">
+              <span class="title">shop by metal colour</span>
+              <ul class="menu-items">
                                                       <li>
-                        <a href="/gold-t27" title="Gold">
-                          Gold                        </a>
-                      </li>
-                                        <li>
-                        <a href="/rose-gold-t26" title="Rose Gold">
-                          Rose Gold                        </a>
-                      </li>
-                                        <li>
-                        <a href="/silver-t28" title="Silver">
-                          Silver                        </a>
-                      </li>
-                                            </ul>
-          </td>
+                      <a href="/gold-t27" title="Gold">
+                        Gold                      </a>
+                    </li>
+                                      <li>
+                      <a href="/rose-gold-t26" title="Rose Gold">
+                        Rose Gold                      </a>
+                    </li>
+                                      <li>
+                      <a href="/silver-t28" title="Silver">
+                        Silver                      </a>
+                    </li>
+                                                </ul>
+            </td>
 
-        </tr>
-      </tbody></table>
-                <div id="promo_unit_dropdown_promo">
+          </tr>
+        </tbody></table>
+                  
+<div id="promo_unit_dropdown_promo">
   
 
+  
+    
+    
       
     
-        
-    
-            <span class="promo_unit_dropdown_promo parallax-318-w parallax-205-h ">
+                    <span class="promo_unit_dropdown_promo parallax-318-w parallax-205-h ">
                                         <a id="promo_unit_dropdown_promo_0_link" href="new-in" title="New Arrivals" class="" name="standard">
-                    <img id="promo_unit_dropdown_promo_0" src="https://www.oliviaburton.com/images/modules/promo_units/14291103291413907278new_arrivals.jpg" class="promo_unit " width="318" height="205" alt="New Arrivals">
+                    <img id="promo_unit_dropdown_promo_0" src="//www.oliviaburton.com/images/modules/promo_units/1446747529-71788000.jpg" class="promo_unit " width="318" height="205" alt="New Arrivals">
           </a>
           
             
@@ -233,11 +260,12 @@ $('#query').on('paste', function() { if($('#query').val() == 'Search Olivia Burt
 
               </div>
       </li>
-<li class="menu_li"><a href="/about-us-i1" title="About Us" class="header_menu_link header_menu_3"><span class="header_menu_link_span">About Us</span></a></li>
-<li class="menu_li"><a href="/map/?all#stores_list_top" title="Stockists" class="header_menu_link header_menu_4"><span class="header_menu_link_span">Stockists</span></a></li>
-<li class="menu_li"><a href="/support-i35 " title="Support" class="header_menu_link header_menu_5"><span class="header_menu_link_span">Support</span></a></li>
-<li class="menu_li"><a href="/contact-us-i3 " title="Contact" class="header_menu_link header_menu_6"><span class="header_menu_link_span">Contact</span></a></li>
-<li class="menu_li"><a href="/inspiration-i37 " title="Inspiration" class="header_menu_link header_menu_7"><span class="header_menu_link_span">Inspiration</span></a></li>
+  <li class="menu_li"><a href="/about-us-i1" title="About Us" class="header_menu_link header_menu_3"><span class="header_menu_link_span">About Us</span></a></li>
+  <li class="menu_li"><a href="/map/select" title="Stockists" class="header_menu_link header_menu_4"><span class="header_menu_link_span">Stockists</span></a></li>
+  <li class="menu_li"><a href="/support-i35 " title="Support" class="header_menu_link header_menu_5"><span class="header_menu_link_span">Support</span></a></li>
+  <li class="menu_li"><a href="/contact-us-i3 " title="Contact" class="header_menu_link header_menu_6"><span class="header_menu_link_span">Contact</span></a></li>
+    <li class="menu_li"><a href="https://instagram.com/oliviaburtonwatches/" title="Inspiration" class="header_menu_link header_menu_7"><span class="header_menu_link_span">Inspiration</span></a></li>
+  
 </ul>
 </div>
 </div>
@@ -443,7 +471,7 @@ By visiting our website, you are accepting and consenting to the practices descr
 <!--
 -->
 </script>
-<!--Loaded in 0.1076 seconds, using 7.05MB of memory. Generated by vsCommerce v3-->
+<!--Loaded in 0.1254 seconds, using 8.97MB of memory. Generated by vsCommerce v3-->
 <!-- vs_status_checker: 1 -->
 <div id="preview_div"></div>
 
