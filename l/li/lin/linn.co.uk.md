@@ -1,8 +1,30 @@
-> *The following text is extracted and transformed from the linn.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607124138id_/http%3A//linn.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linn.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206034408id_/http%3A//www.linn.co.uk/privacy) for the most accurate reproduction.*
 
 # Linn — Privacy Policy
 
-### Your Information
+**This policy (together with our terms of use and any other documents referred to in it, including Legal Notice) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.**
+
+"Websites" means   
+Linn [http://www.linn.co.uk](http://www.linn.co.uk/),   
+Linn Forums [http://forums.linn.co.uk](http://forums.linn.co.uk/),   
+Linn Docs [http://docs.linn.co.uk](http://docs.linn.co.uk/),   
+Linn OSS [http://oss.linn.co.uk](http://oss.linn.co.uk/),   
+Linn News [http://news.linn.co.uk](http://news.linn.co.uk/) and   
+Linn Blogs [http://blogs.linn.co.uk](http://blogs.linn.co.uk/).
+
+"Services" means any service(s) to be provided by Linn via the Websites.
+
+Any terms not defined in this Privacy Notice shall have the same meaning as set out in the Linnstore Terms and Conditions or any other Linn Terms and Conditions.
+
+Linn adheres to the Data Protection Act of 1998 ("Act") and the EU Directive on Privacy and Electronic Communications (2002/58/EC). For the purpose of the Act the Data Controller is Linn Products Limited, Glasgow Road, Waterfoot, Eaglesham, Glasgow G76 0EQ ("Linn", "we" or "us").
+
+Our nominated representative for the purpose of the Act is the Data Protection Manager, Linn Products Limited, Glasgow Road, Waterfoot, Eaglesham, Glasgow, G76 0EQ, Scotland, United Kingdom.
+
+Any personal data that you may give us, including your e-mail address, will be stored in a database to enable us to: fulfill your information request, create and maintain your Account, process and fulfill your Order, communicate with you in relation to your Account, provide you with product updates, provide the Services, and advertise promotional offers.
+
+Information about you is an important part of our business and we are not in the business of selling or renting it to others. The information we store about you may be shared, where necessary, with our subsidiaries and authorised distributors and retailers who may need to contact you regarding your Account, new products, services and promotional offers. You will be contacted by them only if you have selected to receive such information when inputting your personal preferences in your member profile or Account.
+
+#### Your Information
 
 By registering with any of the Websites you consent to Linn storing, using and disclosing the data you provide in the manner and for the purposes described in this Privacy Policy. You agree to provide accurate, current, and complete information required to register with any Service and at other times as may be required in the course of using any Service. You further agree to maintain and update your data as required to keep it accurate, current, and complete. Linn may terminate your right to use any or all of any Service if any information you provide is false, inaccurate or incomplete as determined by Linn in its sole discretion. You agree that Linn may store and use the data you provide for use in providing any Service, including but not limited to, maintaining and collecting your Account and billing fees to your credit card (if applicable). Please note that your credit card details are not stored by Linn but are passed directly to the Royal Bank of Scotland e-Solutions payment gateway.
 
@@ -20,7 +42,7 @@ We may occasionally ask you to participate in voluntary surveys. These surveys a
 
 We do not disclose information about identifiable individuals to our advertisers. However, we may share with them aggregate survey result information about our Customers/users.
 
-### User Account and Service Security
+#### User Account and Service Security
 
 As a registered user of the Service, you may receive or establish an account ("Account"). You are solely responsible for maintaining the confidentiality and security of your Account. You should not reveal your Account information (including your password) to anyone else, and must not use, or attempt to access or use anyone else's Account. You are entirely responsible for all purchases and other activities that occur on or through your Account, and you agree to immediately notify Linn of any unauthorised use of your Account or any other breach of security. Linn shall not be responsible for any losses arising out of the unauthorised use of your Account.
 
@@ -28,7 +50,7 @@ We maintain administrative and procedural safeguards in connection with the coll
 
 You understand and agree that any material downloaded from the Websites is downloaded at your own discretion and risk and that you will be solely responsible for any damages to your computer system or loss of data that may result from any such material downloaded.
 
-### Collection and Use of Personal Data About Customers
+#### Collection and Use of Personal Data About Customers
 
 The information we learn from you helps us personalise and continually improve your shopping experience at Linn. We use this information to handle Orders, deliver Goods and Services to you, process payments, communicate with you about Orders, Goods, Services and promotional offers, to notify you about changes to our Services, update our records and generally maintain your Account with us, to deal with all issues in relation to claims or queries under any Linn warranty and/or pre or after sales service generally in respect of Linn products including dealing and exchanging information with Linn’s subsidiaries, distributors and retailers for those purposes , display content such as wish lists and customer reviews and recommend merchandise and other Linn services that might be of interest to you. We also use this information to improve our Websites, prevent or detect fraud or abuses of our Websites and enable third parties to carry out technical, logistical or other functions on our behalf. Here are the types of information we gather:
 
@@ -40,7 +62,7 @@ E-mail communications: we may receive a confirmation when you open an e-mail sen
 
 Information from other sources: we might receive information about you from sources other than the Websites eg. correspondence and telephone calls with us and add it to your Account information.
 
-### How we use Cookies and other automatic tracking systems
+#### How we use Cookies and other automatic tracking systems
 
 Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognise you.
 
@@ -56,15 +78,15 @@ We use this information, which does not track or identify individual Customers, 
 
 In some of our e-mail messages we use "click-through URLs" linked to content on our Websites. When a Customer clicks one of these URLs, they pass through our web server before arriving at the destination page. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of communications with a Customer.
 
-### Agents
+#### Agents
 
 We occasionally employ other companies and individuals to perform functions on our behalf. Examples include delivering Goods, sending postal mail and e-mail, removing repetitive information from Customer lists, analysing data, providing marketing assistance, processing credit card payments and providing customer service. They have access to your personal data needed to perform their functions, but may not use it for any other purposes. Further, they must process personal data in accordance with this Privacy Policy and in accordance with the Act.
 
-### Business transfers
+#### Business transfers
 
 As we continue to develop our business, we might sell or buy stores, subsidiaries or business units. In such transactions, Customer information generally is one of the transferred business assets but remains subject to any pre-existing Privacy Policy (unless, of course, the Customer consents otherwise). Also, in the unlikely event that Linn or substantially all of its assets are acquired by a third party, personal data held by Linn about the Customers will of course be one of the transferred assets.
 
-### Protection of Linn and others
+#### Protection of Linn and others
 
 We release your Account details and other personal data when we believe release is appropriate to comply with law, to enforce or apply our Terms and Conditions and other agreements or to protect the rights, property or safety of Linn, our users or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing or otherwise disclosing personal data for commercial purposes in a way that is contrary to this Privacy Policy.
 
@@ -72,24 +94,24 @@ Whenever we transfer personal data to countries outside of the European Economic
 
 Unfortunately, the transmission of information by the internet is not completely secure. Although we do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Website. Any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try and prevent unauthorised access.
 
-### How Secure Is Information About You?
+#### How Secure Is Information About You?
 
 We work to protect the security of your personal data during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. To purchase from the Websites you must use an SSL enabled browser, for example, version 3.0 or higher of Internet Explorer. We reveal only the last four digits of your debit/credit card numbers when confirming an Order. Please note that your credit card details are not stored by this website. They are passed directly to the Streamline bank payment gateway. Linnstore uses thawte SSL Certificates to offer secure communications by encrypting all data to and from the site.
 
-### What Information Can You Access?
+#### What Information Can You Access?
 
 Linn gives you access to a broad range of information about your Account and your interactions. This list will change as our Websites evolve.
 
-### Your Rights
+#### Your Rights
 
 Our Website may, from time to time, contain links to and from the websites of our partner networks, distributors, advertisers and affiliates. If you follow any link to any of these websites, please note that these website have their own privacy policies and that we do not accept any responsibility or liabilities for these policies. Please check these policies before you submit any personal data to these websites.
 
 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our cost in providing the details of the information we hold about you.
 
-### Changes to our Privacy Policy
+#### Changes to our Privacy Policy
 
 Any changes that we make to our Privacy Policy in the future will be posted on this webpage and, where appropriate, notified to you by e-mail.
 
-### Contact Us
+#### Contact Us
 
 If you are a registered member of any of the Websites and wish to terminate your Account with us, please send an email request to [helpline@linn.co.uk](mailto:helpline@linn.co.uk), specifying which Website Accounts you wish to be terminated.
