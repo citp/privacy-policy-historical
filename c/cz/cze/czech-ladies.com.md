@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the czech-ladies.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144305id_/http%3A//www.czech-ladies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the czech-ladies.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141130id_/http%3A//www.czech-ladies.com/privacy.html) for the most accurate reproduction.*
 
 # Czech ladies -
 
