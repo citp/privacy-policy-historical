@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the circlek.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140339id_/http%3A//www.circlek.com/privacy-policy%3Flanguage%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circlek.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206162224id_/http%3A//www.circlek.com/privacy-policy%3Flanguage%3Den) for the most accurate reproduction.*
 
 # Privacy Policy | Circle K: Convenience store chain providing quick stop services including fuel, food, snacks, drinks, cigarettes, beer and our world-famous Polar Pop
 
