@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tellyupdates.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629124341id_/http%3A//www.tellyupdates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellyupdates.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206040822id_/http%3A//www.tellyupdates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Telly Updates
 
