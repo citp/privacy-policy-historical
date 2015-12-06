@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egress.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511045056id_/http%3A//www.egress.com/privacy-statement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egress.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206212151id_/http%3A//www.egress.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Egress Switch
 
@@ -74,7 +74,7 @@ Egress Software Technologies Limited is a company registered in England and Wale
 
 **7\. COOKIES AND IP ADDRESSES**
 
-**7.1** We may store information about you in a cookie (a small file that is sent by our web server to your computer), which we can access when you make return visits to [www.egress.com](https://web.archive.org/web/20150511045056id_/http%3A//www.egress.com/cloud-confidential-appointed-egress-reseller/index.html) (the " **Website** "). Storing cookies is usual practice for any web site that needs to remember what its users' preferences are and we use cookies to keep track of your choices in the Website.
+**7.1** We may store information about you in a cookie (a small file that is sent by our web server to your computer), which we can access when you make return visits to [www.egress.com](http://www.egress.com/) (the " **Website** "). Storing cookies is usual practice for any web site that needs to remember what its users' preferences are and we use cookies to keep track of your choices in the Website.
 
 **7.2** If you would like to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that cookies are stored in. If you would like to stop cookies being stored on your computer in the future, please refer to your browser manufacturer's instructions by clicking "Help" in your browser menu. Further information about deleting or controlling cookies is available at [www.aboutcookies.org](http://www.aboutcookies.org/).
 
