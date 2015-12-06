@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wunderman.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152238id_/http%3A//wunderman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wunderman.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206142131id_/http%3A//wunderman.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Wunderman
 
-## This website is provided by Wunderman. We take very seriously the privacy of our website users and the security of their personal information.
+### This website is provided by Wunderman. We take very seriously the privacy of our website users and the security of their personal information.
 
 For your convenience, this website contains links to a number of other websites, both inside and outside our company. The privacy policies and procedures described here do not apply to those sites; we suggest contacting those sites directly for information on their data collection and distribution policies.
 
@@ -22,7 +22,7 @@ We may use the aggregate or anonymous information we collect about our customers
 
 ### Opt-out
 
-You may ask us to delete any information about you and cease further contact at any time by sending us a request marked “Privacy-Urgent,” address as follows: webmaster@wunderman.com.
+You may ask us to delete any information about you and cease further contact at any time by sending us a request marked “Privacy-Urgent,” address as follows: [webmaster@wunderman.com](mailto:webmaster@wunderman.com).
 
 ### Security
 
@@ -30,7 +30,7 @@ We have a commitment to taking reasonable steps to ensure the security of your i
 
 ### Children’s Privacy
 
-Protecting the privacy of the young, i.e., children under the age of 13, is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our Site is structured to attract anyone under 13. If a child has provided us with personal information, we ask that a parent or guardian of the child contact us at webmaster@wunderman.com if they would like the information submitted by a child deleted from our database. We will use all reasonable efforts to delete such information from our database.
+Protecting the privacy of the young, i.e., children under the age of 13, is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our Site is structured to attract anyone under 13. If a child has provided us with personal information, we ask that a parent or guardian of the child contact us at [webmaster@wunderman.com](mailto:webmaster@wunderman.com) if they would like the information submitted by a child deleted from our database. We will use all reasonable efforts to delete such information from our database.
 
 ### Privacy Precautionary Warning
 
