@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shawacademy.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607154145id_/http%3A//www.shawacademy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shawacademy.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206040813id_/http%3A//www.shawacademy.com/privacy.html) for the most accurate reproduction.*
 
 # Shaw Academy for Financial Trading | Terms and Conditions
 
