@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the dolforums.com.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607135853id_/http%3A//www.dogzonline.com.au/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dolforums.com.au privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206155527id_/http%3A//www.dogzonline.com.au/privacy-policy.asp) for the most accurate reproduction.*
 
-# Dogz Online - The Pure Breed Dog Community of Australia
-
-**Navigation** >> [Home](https://web.archive.org/) >> Privacy Policy 
+# DogzOnline: Showcasing Australia's Pure Bred Dogs
 
 These terms and conditions apply to the use of the following web sites 
 
-  * **[www.dogzonline.com.au](http://www.dogzonline.com.au/)**
-  * **[www.dolforums.com.au](http://www.dolforums.com.au/)**
+  * [www.dogzonline.com.au](http://www.dogzonline.com.au/)
+  * [www.dogzonline.co.nz](http://www.dogzonline.co.nz/)
+  * [www.dolforums.com.au](http://www.dolforums.com.au/)
 
 
 
@@ -28,7 +27,7 @@ We do use cookies to store information about visitors preferences, record user-s
 **DoubleClick DART Cookie**  
 \- Google, as a third party vendor, uses cookies to serve ads on our sites.  
 \- Google's use of the DART cookie enables it to serve ads to users based on their visit to our site and other sites on the Internet.  
-\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>  
+\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/policies/technologies/ads/>  
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
 \- Google Adsense  
 \- Amazon
@@ -59,7 +58,3 @@ For all e-commerce transactions, we use industry-standard commercial encryption 
 
 **Changes to this Privacy Policy**  
 Due to changing technological and marketing demands, we reserve the right to change our policies regarding the privacy of your personally identifiable information in the future. If that happens, we will endeavor to promptly update this Privacy Policy. We may also attempt to provide a message to our members whose e-mail addresses we have, in conformity with this Privacy Policy, advising of any such change(s). Your continued use of the web site following changes to this policy will indicate that you accept the changes. 
-
-All content copyright Dogz Online Pty Ltd © 2015  
-[Privacy Policy](https://web.archive.org/privacy-policy.asp) | [Web Site Terms and Conditions](https://web.archive.org/disclaimer.asp)  
- 
