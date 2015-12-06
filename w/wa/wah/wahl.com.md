@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wahl.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075331id_/http%3A//www.wahl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wahl.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206231310id_/http%3A//www.wahl.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -10,7 +10,7 @@ Last Updated 6/16/08
 2900 North Locust Street  
 Sterling, Illinois 61081 
 
-We can be reached via e-mail at [privacy@wahlclipper.com](mailto:privacy@wahlclipper.com) or you can reach us by telephone at [815-625-6525](https://web.archive.org/web/20150607075331id_/http%3A//www.wahl.com/+18156256525).
+We can be reached via e-mail at [privacy@wahlclipper.com](mailto:privacy@wahlclipper.com) or you can reach us by telephone at [815-625-6525](https://web.archive.org/web/20151206231310id_/http%3A//www.wahl.com/+18156256525).
 
 ##  How We Collect and Use Information
 
