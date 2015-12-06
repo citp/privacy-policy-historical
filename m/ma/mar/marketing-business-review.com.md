@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketing-business-review.com privacy policy that was archived on 2015-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150217021105id_/http%3A//www.marketing-business-review.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketing-business-review.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206112424id_/http%3A//www.marketing-business-review.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for the Make Money Online Blog www
 
