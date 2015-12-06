@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adrive.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607183329id_/http%3A//www.adrive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adrive.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206093157id_/http%3A//www.adrive.com/privacy) for the most accurate reproduction.*
 
 # ADrive | Online Storage, Online Backup, Cloud Storage | Privacy Policy
 
@@ -6,7 +6,7 @@
 
 (Updated: January 5, 2015)
 
-Your privacy is important to ADrive. This Privacy Policy discloses ADrive's information sharing practices and is incorporated into and is subject to the ADrive Terms of Service (the "Agreement"). You may access the Agreement at [www.adrive.com/terms](https://web.archive.org/terms). Capitalized words within the Privacy Policy not defined herein have the meaning given to them in the Agreement. By using ADrive Services, You expressly consent to ADrive's use and disclosure of your personal information in accordance with this Privacy Policy.
+Your privacy is important to ADrive. This Privacy Policy discloses ADrive's information sharing practices and is incorporated into and is subject to the ADrive Terms of Service (the "Agreement"). You may access the Agreement at [www.adrive.com/terms](http://www.adrive.com/terms). Capitalized words within the Privacy Policy not defined herein have the meaning given to them in the Agreement. By using ADrive Services, You expressly consent to ADrive's use and disclosure of your personal information in accordance with this Privacy Policy.
 
 ### A. Information Collection and Use
 
