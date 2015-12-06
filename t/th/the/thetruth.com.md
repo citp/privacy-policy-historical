@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thetruth.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615171221id_/http%3A//www.thetruth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruth.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206103729id_/http%3A//www.thetruth.com/privacy-policy) for the most accurate reproduction.*
 
 # truth - Privacy Policy
 
 Here comes a lot of legal mumbo jumbo. So, even if you’re bored to tears, read it and then check out the rest of our site.
 
-This is a website of the American Legacy Foundation (“Legacy”). We respect your privacy and have created this policy to explain what information we collect and how we use it. If you have any questions about this policy, please contact us at info@thetruth.com.
+This is a website of the Truth Initiative Foundation (“Truth Initiative”). We respect your privacy and have created this policy to explain what information we collect and how we use it. If you have any questions about this policy, please contact us at info@thetruth.com.
 
 ###### General User Information
 
@@ -17,7 +17,7 @@ Most browsers are initially set up to accept cookies, but you can reset your bro
 
 ###### Personal Information
 
-If you choose to create a profile or otherwise provide personal information on our site, we will use that information to customize and improve your website experience. If you choose to purchase truth apparel, you will be asked to provide personal information that will be used to fulfill your order. Neither Legacy nor its vendors will ever share your personal information with anyone else without your consent, except in limited circumstances, such as complying with legal processes or preventing fraud or imminent harm. We will never sell your personal information. If you would like to edit or delete your profile or any other information you have provided to us, please visit <http://www.thetruth.com/user/profile/> or contact us at [info@thetruth.com](mailto:info@thetruth.com)
+If you choose to create a profile or otherwise provide personal information on our site, we will use that information to customize and improve your website experience. If you choose to purchase truth apparel, you will be asked to provide personal information that will be used to fulfill your order. If you choose to sign a truth-sponsored petition with your name and email address, we may share that information with the party receiving the petition. Neither Truth Initiative nor its vendors will ever share your personal information with anyone else without your consent, except in limited circumstances, such as complying with legal processes or preventing fraud or imminent harm. We will never sell your personal information. If you would like to edit or delete your profile or any other information you have provided to us, please visit <http://www.thetruth.com/user/profile/> or contact us at [info@thetruth.com](mailto:info@thetruth.com)
 
 ###### Opting Out
 
