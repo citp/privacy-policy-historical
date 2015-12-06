@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the itch.io privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144531id_/http%3A//itch.io/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itch.io privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141304id_/http%3A//itch.io/docs/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - itch.io
+# itch.io Privacy Policy - itch.io
 
-This Privacy Policy was last modified on March 19, 2014. itch.io (“us”, “we”, or “our”) operates itch.io (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
+_This Privacy Policy was last modified on March 19, 2014._
+
+itch.io (“us”, “we”, or “our”) operates itch.io (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
 We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at itch.io.
 
@@ -34,4 +36,6 @@ itch.io has no control over, and assumes no responsibility for, the content, pri
 
 itch.io may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
 
-Contact Us If you have any questions about this Privacy Policy, please contact us.
+### Contact Us
+
+If you have any questions about this Privacy Policy, please contact us.
