@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the response-o-matic.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607133210id_/http%3A//www.response-o-matic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the response-o-matic.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206225605id_/http%3A//www.response-o-matic.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Response-o-matic
 
@@ -31,6 +31,6 @@ We take the security of our data seriously and utilize several software and hard
 This site supplements the information that you provide with information that is received from third parties. For example, we may contract with a firm which identifies geographic locale of an IP address in order to better present the site (including our advertiser messages) in the appropriate language local to a Webmaster or Web Visitor.   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-Wondermill Webworks Inc. 1199 Glen Tara Lane Victoria, BC V8Z 6Z4 Canada
+Wondermill Webworks Inc. 321 N. Verde St. Flagstaff, AZ 86001
 
-THIS STATEMENT WAS CREATED ON MAY 1ST, 2005 
+THIS STATEMENT WAS UPDATED ON NOV 30TH, 2015 
