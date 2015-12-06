@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the provogue.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152749id_/http%3A//www.provogue.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the provogue.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206040707id_/http%3A//www.provogue.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  *     * Facebook connection failed.
-
-
 
 We are Provogue.com, a service provided by Provogue (India) Ltd. from, Mumbai, India – 400 053. In this Privacy Policy, references to “you” mean any person submitting any data to us or our agent or the Site.
 
