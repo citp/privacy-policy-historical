@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nvidia.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607203621id_/http%3A//www.nvidia.co.uk/object/privacy_policy_uk.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nvidia.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206125444id_/http%3A//www.nvidia.co.uk/object/privacy_policy_uk.html) for the most accurate reproduction.*
 
-# NVIDIA Privacy Policy | NVIDIA UK
+# NVIDIA Privacy Policy|NVIDIA UK
 
 **This policy was last updated on July 15,2014.**
 
