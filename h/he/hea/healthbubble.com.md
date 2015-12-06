@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthbubble.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141753id_/http%3A//www.healthbubble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthbubble.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140541id_/http%3A//www.healthbubble.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Health Bubble
 
