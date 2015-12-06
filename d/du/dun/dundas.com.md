@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dundas.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200432id_/http%3A//www.dundas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dundas.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206120415id_/http%3A//www.dundas.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Dundas Data Visualization
+# Privacy Policy
 
 ## Philosophy Surrounding Privacy
 
