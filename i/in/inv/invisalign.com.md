@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invisalign.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607134432id_/http%3A//www.invisalign.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invisalign.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140046id_/http%3A//www.invisalign.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Contact Details | Website Information | Invisalign
 
@@ -95,7 +95,7 @@ Back to Top
 
 We may send you information about us from time to time if you have given us your consent (where required).
 
-Align provides you the opportunity to request to stop receiving electronic communications from either Align or our partners by withdrawing your consent. If you do not want to receive communications from us, please tell us when we collect your information or write us at any time [remove@aligntech.com](https://web.archive.org/web/20150607030742id_/http://www.invisalign.com/remove@aligntech.com) and make sure to include your country location. You may also use the convenient unsubscribe feature included with emails. Please allow us enough time to process your request. 
+Align provides you the opportunity to request to stop receiving electronic communications from either Align or our partners by withdrawing your consent. If you do not want to receive communications from us, please tell us when we collect your information or write us at any time [remove@aligntech.com](https://web.archive.org/web/20151206140046id_/http://www.invisalign.com/remove@aligntech.com) and make sure to include your country location. You may also use the convenient unsubscribe feature included with emails. Please allow us enough time to process your request. 
 
 Keep in mind, this withdrawal of consent does not apply to necessary communications, such as responding to an inquiry, and is revoked if you later request information from us, for example, if you sign up to receive news alerts from us.
 
@@ -107,7 +107,7 @@ User Generated Content. If you are a user of Facebook, Twitter or other social m
 
 By posting or otherwise making available any Content on a public social media platform about your Invisalign experience, and responding “yes” if we ask for your permission to re-post content on our owned channels, such as Facebook (<http://facebook.com/invisalign>), Pinterest (<http://pinterest.com/Invisalign>), Google+ (<http://google.com/+Invisalign>), YouTube (<http://youtube.com/invisalign> & <http://youtube.com/invisalignteen>), Twitter (<http://twitter.com/invisalign>), Instagram (<http://instagram.com/invisalign> & <http://instagram.com/invisalignteen>) Tumblr (<http://invisalignteen.tumblr.com/>), and others, you represent and warrant that you are thirteen (13) years of age or older and that you agree to the terms and conditions listed on our page on those websites.
 
-If a parent, guardian, or anyone else becomes aware of user generated content shared from an individual under the age of thirteen (13), please email us at [InvisalignTakedown@GoldPR.com](https://web.archive.org/web/20150607030742id_/http://www.invisalign.com/InvisalignTakedown@GoldPR.com).
+If a parent, guardian, or anyone else becomes aware of user generated content shared from an individual under the age of thirteen (13), please email us at [InvisalignTakedown@GoldPR.com](https://web.archive.org/web/20151206140046id_/http://www.invisalign.com/InvisalignTakedown@GoldPR.com).
 
 Back to Top
 
@@ -155,7 +155,7 @@ Align Technology, Inc.
 Attention: Privacy Office   
 2560 Orchard Parkway   
 San Jose, CA 95131   
-[Privacy@aligntech.com](https://web.archive.org/web/20150607030742id_/http://www.invisalign.com/Privacy@aligntech.com)
+[Privacy@aligntech.com](https://web.archive.org/web/20151206140046id_/http://www.invisalign.com/Privacy@aligntech.com)
 
 #### EU Headquarters
 
@@ -164,6 +164,6 @@ Attention: Privacy Office
 Arlandaweg 161   
 1043 HS Amsterdam   
 The Netherlands   
-[Privacy@aligntech.com](https://web.archive.org/web/20150607030742id_/http://www.invisalign.com/Privacy@aligntech.com)
+[Privacy@aligntech.com](https://web.archive.org/web/20151206140046id_/http://www.invisalign.com/Privacy@aligntech.com)
 
 You may also contact the Align local entity that is responsible for the use of your information. Details are available [here](https://web.archive.org/SiteCollectionImages/Align_Technology_Operations_2015.pdf). 
