@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hikashop.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607131147id_/http%3A//www.hikashop.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hikashop.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206034247id_/http%3A//www.hikashop.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,13 +9,12 @@
   <meta name="author" content="Super User">
   <meta name="generator" content="Joomla! - Open Source Content Management">
   <title>HikaShop - Privacy Policy</title>
-  <link href="http://www.hikashop.com/privacy-policy.html" rel="canonical">
   <link href="/templates/hikashop/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
   <link rel="stylesheet" href="/templates/hikashop/css/template.css?v3" type="text/css">
   <link rel="stylesheet" href="/templates/hikashop/css/shadowbox.css" type="text/css">
   <link rel="stylesheet" href="/plugins/system/dicaptionpopup/style.css" type="text/css">
   <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css">
-  <link rel="stylesheet" href="/media/com_hikashop/css/frontend_old.css?t=1429282125" type="text/css">
+  <link rel="stylesheet" href="/media/com_hikashop/css/frontend_old.css?t=1441801155" type="text/css">
   <link rel="stylesheet" href="/modules/mod_maximenuck/themes/css3megamenu/css/moo_maximenuhck.css" type="text/css">
   <link rel="stylesheet" href="/modules/mod_maximenuck/themes/css3megamenu/css/maximenuhck.php?monid=hikamaximenu" type="text/css">
   <link rel="stylesheet" href="/modules/mod_maximenuck/templatelayers/beez3-position1.css" type="text/css">
@@ -51,7 +50,7 @@ body {top:0 !important;}
   <script src="/media/system/js/core.js" type="text/javascript"></script>
   <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
   <script src="/media/system/js/modal.js" type="text/javascript"></script>
-  <script src="/media/com_hikashop/js/hikashop.js?v=240" type="text/javascript"></script>
+  <script src="/media/com_hikashop/js/hikashop.js?v=250" type="text/javascript"></script>
   <script src="/media/jui/js/jquery.ui.core.min.js" type="text/javascript"></script>
   <script src="/modules/mod_maximenuck/assets/maximenuck.js" type="text/javascript"></script>
   <script type="text/javascript">
@@ -116,169 +115,186 @@ var RecaptchaOptions = {theme : 'clean'};
 				parse: 'rel'
 			});
 		});
-		
-			window.hikashop.ready( function(){
-				jQuery('#postcatid').val('0');
-				jQuery('#qtypes').val('0');
-			});
-		
-			function typeSelect(value){
-				jQuery('#kpost-message').css('display','none');
-				jQuery('#postmessageform').css('display','none');
-				jQuery('#kpost-buttons').css('display','inherit');
-				jQuery('.catselect').css('display','none');
-				if(value.toLowerCase() == 'hikamarket'){
-					jQuery('#kpost-hikamarket-version').removeAttr('style');
-					jQuery('#kpost-hikaserial-version').css('display', 'none');
-					jQuery('#kpost-hikashop-version').removeAttr('style');
-					jQuery('.wrong-forum').css('display', 'none');
+		function jModalClose() {
+			SqueezeBox.close();
+		}
+window.hikashop.ready( function(){
+	jQuery('#postcatid').val('0');
+	jQuery('#qtypes').val('0');
+});
+function typeSelect(value){
+	jQuery('#kpost-message').css('display','none');
+	jQuery('#postmessageform').css('display','none');
+	jQuery('#kpost-buttons').css('display','inherit');
+	jQuery('.catselect').css('display','none');
+	if(value.toLowerCase() == 'hikamarket'){
+		jQuery('#kpost-hikamarket-version').removeAttr('style');
+		jQuery('#kpost-hikaserial-version').css('display', 'none');
+		jQuery('#kpost-hikaauction-version').css('display', 'none');
+		jQuery('#kpost-hikashop-version').removeAttr('style');
+		jQuery('.wrong-forum').css('display', 'none');
 
-					jQuery('.hikamarket-category').removeAttr('style');
+		jQuery('.hikamarket-category').removeAttr('style');
+		displayDesc('19');
+	}else if(value.toLowerCase() == 'hikaserial'){
+		jQuery('#kpost-hikaserial-version').removeAttr('style');
+		jQuery('#kpost-hikamarket-version').css('display', 'none');
+		jQuery('#kpost-hikaauction-version').css('display', 'none');
+		jQuery('#kpost-hikashop-version').removeAttr('style');
+		jQuery('.wrong-forum').css('display', 'none');
 
-					displayDesc('20');
-				}else if(value.toLowerCase() == 'hikaserial'){
-					jQuery('#kpost-hikaserial-version').removeAttr('style');
-					jQuery('#kpost-hikamarket-version').css('display', 'none');
-					jQuery('#kpost-hikashop-version').removeAttr('style');
-					jQuery('.wrong-forum').css('display', 'none');
+		jQuery('.hikaserial-category').removeAttr('style');
+		displayDesc('14');
+	}else if(value.toLowerCase() == 'hikaauction'){
+		jQuery('#kpost-hikaauction-version').removeAttr('style');
+		jQuery('#kpost-hikamarket-version').css('display', 'none');
+		jQuery('#kpost-hikaserial-version').css('display', 'none');
+		jQuery('#kpost-hikashop-version').removeAttr('style');
+		jQuery('.wrong-forum').css('display', 'none');
 
-					jQuery('.hikaserial-category').removeAttr('style');
+		jQuery('.hikaauction-category').removeAttr('style');
+		displayDesc('52');
+	}else if(value.toLowerCase() == 'hikashop'){
+		jQuery('#kpost-hikaserial-version').css('display', 'none');
+		jQuery('#kpost-hikamarket-version').css('display', 'none');
+		jQuery('#kpost-hikaauction-version').css('display', 'none');
+		jQuery('#kpost-hikashop-version').removeAttr('style');
+		jQuery('.wrong-forum').css('display', 'none');
 
-					displayDesc('15');
-				}else if(value.toLowerCase() == 'hikashop'){
-					jQuery('#kpost-hikaserial-version').css('display', 'none');
-					jQuery('#kpost-hikamarket-version').css('display', 'none');
-					jQuery('#kpost-hikashop-version').removeAttr('style');
-					jQuery('.wrong-forum').css('display', 'none');
+		jQuery('.hikashop-category').removeAttr('style');
 
-					jQuery('.hikashop-category').removeAttr('style');
+		displayDesc('25');
+	}else if(value.toLowerCase() == 'joomla'){
+		jQuery('.wrong-forum').css('display', 'block');
 
-					displayDesc('25');
-				}else if(value.toLowerCase() == 'joomla'){
-					jQuery('.wrong-forum').css('display', 'block');
+		jQuery('#kpost-hikaserial-version').css('display', 'none');
+		jQuery('#kpost-hikamarket-version').css('display', 'none');
+		jQuery('#kpost-hikashop-version').css('display', 'none');
+		jQuery('#kpost-buttons').css('display', 'none');
 
-					jQuery('#kpost-hikaserial-version').css('display', 'none');
-					jQuery('#kpost-hikamarket-version').css('display', 'none');
-					jQuery('#kpost-hikashop-version').css('display', 'none');
-					jQuery('#kpost-buttons').css('display', 'none');
-					
-					displayDesc('0');
-				}else{
-					jQuery('#kpost-messages').removeAttr('style');
-					jQuery('#postmessageform').css('display','none');
-					jQuery('.wrong-forum').css('display', 'none');
-					jQuery('#kpost-buttons').css('display', 'none');
-					jQuery('.all-category').removeAttr('style');
+		displayDesc('0');
+	}else{
+		jQuery('#kpost-messages').removeAttr('style');
+		jQuery('#postmessageform').css('display','none');
+		jQuery('.wrong-forum').css('display', 'none');
+		jQuery('#kpost-buttons').css('display', 'none');
+		jQuery('.all-category').removeAttr('style');
 
-					displayDesc('0');
-				}
+		displayDesc('0');
+	}
+}
+
+function categorySelect(value, allowedCategories){
+	allowedCategories = '['+allowedCategories+']';
+	if(jQuery.inArray( jQuery('#postcatid').val(), allowedCategories) != '-1'){
+		jQuery('#postmessageform').css('display','block');
+		jQuery('#kpost-buttons').css('display', 'none');
+		jQuery('.shop-fill').css('display','none');
+	}else{
+		jQuery('#postmessageform').css('display', 'none');
+		jQuery('#kpost-buttons').removeAttr('style');
+	}
+	displayDesc(value);
+}
+
+function displayDesc(value){			
+	jQuery('#postcatid').val(value);
+	var desc = {0:'',1:'',5:'Cette section de notre forum est dédiée au support de HikaShop en Français. Si vous avez des notions en anglais, préférez utiliser les sections anglaises qui contiendront plus d\'informations.',2:'Suggest your feature requests and ideas for HikaShop',6:'HikaShopの日本語版サポート。情報量の多い英語版サポートも、ぜひご利用ください。',3:'Please report any bugs or errors here.',4:'If you didn\'t find the answer on our documentation neither on existing posts, please ask your question here.',7:'You can talk here in German about HikaShop. Please understand that we do not speak German at HikaShop and we can\'t offer support in German.',8:'Show us what you\'re capable of with HikaShop !',9:'You can post your projects or propose your services here',10:'Coordination of translations of HikaShop',11:'You can talk here in Russian about HikaShop. Please understand that we do not speak Russian at HikaShop and we can\'t offer support in Russian.',12:'',14:'A Joomla! component for HikaShop which add new features around serials/licences and unique content assignation.',13:'You can talk here in Thai about HikaShop. Please understand that we do not speak Thai at HikaShop and we can\'t offer support in Thai.',15:'Suggest your feature requests and ideas for HikaSerial',16:'Please report any bugs or errors about HikaSerial here.',17:'If you didn\'t find the answer on our documentation neither on existing posts, please ask your question about HikaSerial here.',18:'Cette section de notre forum est dédiée au support de HikaSerial en Français. Si vous avez des notions en anglais, préférez utiliser les sections anglaises qui contiendront plus d\'informations.',19:'A Joomla! component for HikaShop which add front-end edition and multi-vendor features.',20:'Suggest your feature requests and ideas for HikaMarket',21:'Joomla! components for HikaShop: HikaMarket, HikaSerial',22:'',23:'If you didn\'t find the answer on our documentation neither on existing posts, please ask your question about HikaMarket here.',24:'',32:'If you want to know more about the different options of the product and category creation.',29:'Discussions about the different payment methods for Hikashop',26:'Questions about product and category display. You can\'t find how to make Hikashop looks incredible? The answer is here!',49:'',27:'Everything about the checkout process in Hikashop',28:'Discussions about the different shipping methods for Hikashop',30:'Informations on all the different integrations available for Hikashop',31:'If you are developping a plugin for Hikashop or customizing our component, this is the board to be.',25:'Having an installation or update issue? You will probably find some help here.',33:'How to manage your customers and their access',34:'Everything on how to handle your orders, sales and create reports',35:'You can ask here your questions about orders management',36:'All there is to know about reports and statisctics',37:'Questions about import and export will find an answer here',38:'Specific Hikashop features are discussed here',39:'Discussions related to the Affiliation system',40:'Living in Canada and having troubles configuring your taxes? Come and get some help over there',41:'Everything relative to the Hikashop wishlist feature',42:'Question about the awesome Hikashop voting system can be posted here!',43:'Everything about the nice looking Hikashop carousel',44:'Everything about the powerful Hikashop mass action tool',45:'Question about filters and search fields',46:'Increase your sales with our coupon/discount feature',47:'Categories and posts from our old forum',48:'This part of the forum is open for non English threads ',50:'Suggest your feature requests and ideas for HikaShop',51:'',52:'A Joomla! component for HikaShop which add bid/auction features.',53:'Suggest your feature requests and ideas for HikaAuction',54:'If you didn\'t find the answer on our documentation neither on existing posts, please ask your question about HikaAuction here.',55:'Please report any bugs or errors about HikaAuction here.'};
+	for(var key in desc){
+		if(key == value){
+			var val = desc[key];
+			jQuery('.category-description').html(val);					
+			if(val != ''){
+				jQuery('.category-description').css('display','block');
+			}else{
+				jQuery('.category-description').css('display','none');
 			}
+		}
+	}
+}
 
-			function categorySelect(value, allowedCategories){
-				allowedCategories = '['+allowedCategories+']';
-				if(jQuery.inArray( jQuery('#postcatid').val(), allowedCategories) != '-1'){
-					jQuery('#postmessageform').css('display','block');
-					jQuery('#kpost-buttons').css('display', 'none');
-					jQuery('.shop-fill').css('display','none');
-				}else{
-					jQuery('#postmessageform').css('display', 'none');
-					jQuery('#kpost-buttons').removeAttr('style');
-				}
-				displayDesc(value);
-			}
+function showMessage(value, div, stable, latest){
+	value = value.split('.').join('');
+	stable = stable.split('.').join('');
+	latest = latest.split('.').join('');
+	if(div == 'shop-update'){
+		if(value < stable && stable != latest){
+			jQuery('.shop-update-1').css('display','block');
+			jQuery('.shop-update-2').css('display','none');
+			jQuery('.shop-ok').css('display','none');
+			jQuery('.shop-fill').css('display','none');
+		}else if ((value < stable && stable == latest) || value < latest){
+			jQuery('.shop-update-1').css('display','none');
+			jQuery('.shop-update-2').css('display','block');
+			jQuery('.shop-ok').css('display','none');
+			jQuery('.shop-fill').css('display','none');
+		}else{
+			jQuery('.shop-update-1').css('display','none');
+			jQuery('.shop-update-2').css('display','none');
+			jQuery('.shop-ok').css('display','block');
+			jQuery('.shop-fill').css('display','none');
+		}
+	}else if(div == 'market-update'){
+		if(value < latest){
+			jQuery('.'+div).css('display','block');
+		}else{
+			jQuery('.'+div).css('display','none');
+		}
+	}else if(div == 'serial-update'){
+		if(value < latest){
+			jQuery('.'+div).css('display','block');
+		}else{
+			jQuery('.'+div).css('display','none');
+		}
+	}else if(div == 'auction-update'){
+		if(value < latest){
+			jQuery('.'+div).css('display','block');
+		}else{
+			jQuery('.'+div).css('display','none');
+		}
+	}
+}
 
-			function displayDesc(value){			
-				jQuery('#postcatid').val(value);
-				var desc = {0:'',1:'',5:'Cette section de notre forum est dédiée au support de HikaShop en Français. Si vous avez des notions en anglais, préférez utiliser les sections anglaises qui contiendront plus d\'informations.',2:'Suggest your feature requests and ideas for HikaShop',6:'HikaShopの日本語版サポート。情報量の多い英語版サポートも、ぜひご利用ください。',3:'Please report any bugs or errors here.',4:'If you didn\'t find the answer on our documentation neither on existing posts, please ask your question here.',7:'You can talk here in German about HikaShop. Please understand that we do not speak German at HikaShop and we can\'t offer support in German.',8:'Show us what you\'re capable of with HikaShop !',9:'You can post your projects or propose your services here',10:'Coordination of translations of HikaShop',11:'You can talk here in Russian about HikaShop. Please understand that we do not speak Russian at HikaShop and we can\'t offer support in Russian.',12:'',14:'A Joomla! component for HikaShop which add new features around serials/licences and unique content assignation.',13:'You can talk here in Thai about HikaShop. Please understand that we do not speak Thai at HikaShop and we can\'t offer support in Thai.',15:'Suggest your feature requests and ideas for HikaSerial',16:'Please report any bugs or errors about HikaSerial here.',17:'If you didn\'t find the answer on our documentation neither on existing posts, please ask your question about HikaSerial here.',18:'Cette section de notre forum est dédiée au support de HikaSerial en Français. Si vous avez des notions en anglais, préférez utiliser les sections anglaises qui contiendront plus d\'informations.',19:'A Joomla! component for HikaShop which add front-end edition and multi-vendor features.',20:'Suggest your feature requests and ideas for HikaMarket',21:'Joomla! components for HikaShop: HikaMarket, HikaSerial',22:'',23:'If you didn\'t find the answer on our documentation neither on existing posts, please ask your question about HikaMarket here.',24:'',32:'If you want to know more about the different options of the product and category creation.',29:'Discussions about the different payment methods for Hikashop',26:'Questions about product and category display. You can\'t find how to make Hikashop looks incredible? The answer is here!',49:'',27:'Everything about the checkout process in Hikashop',28:'Discussions about the different shipping methods for Hikashop',30:'Informations on all the different integrations available for Hikashop',31:'If you are developping a plugin for Hikashop or customizing our component, this is the board to be.',25:'Having an installation or update issue? You will probably find some help here.',33:'How to manage your customers and their access',34:'Everything on how to handle your orders, sales and create reports',35:'You can ask here your questions about orders management',36:'All there is to know about reports and statisctics',37:'Questions about import and export will find an answer here',38:'Specific Hikashop features are discussed here',39:'Discussions related to the Affiliation system',40:'Living in Canada and having troubles configuring your taxes? Come and get some help over there',41:'Everything relative to the Hikashop wishlist feature',42:'Question about the awesome Hikashop voting system can be posted here!',43:'Everything about the nice looking Hikashop carousel',44:'Everything about the powerful Hikashop mass action tool',45:'Question about filters and search fields',46:'Increase your sales with our coupon/discount feature',47:'Categories and posts from our old forum',48:'This part of the forum is open for non English threads ',50:'Suggest your feature requests and ideas for HikaShop'};
-				for(var key in desc){
-					if(key == value){
-						var val = desc[key];
-						jQuery('.category-description').html(val);					
-						if(val != ''){
-							jQuery('.category-description').css('display','block');
-						}else{
-							jQuery('.category-description').css('display','none');
-						}
-					}
-				}
-			}
-
-			function showMessage(value, div, stable, latest){
-				value = value.split('.').join('');
-				stable = stable.split('.').join('');
-				latest = latest.split('.').join('');
-				if(div == 'shop-update'){
-					if(value < stable && stable != latest){
-						jQuery('.shop-update-1').css('display','block');
-						jQuery('.shop-update-2').css('display','none');
-						jQuery('.shop-ok').css('display','none');
-						jQuery('.shop-fill').css('display','none');
-					}else if ((value < stable && stable == latest) || value < latest){
-						jQuery('.shop-update-1').css('display','none');
-						jQuery('.shop-update-2').css('display','block');
-						jQuery('.shop-ok').css('display','none');
-						jQuery('.shop-fill').css('display','none');
-					}else{
-						jQuery('.shop-update-1').css('display','none');
-						jQuery('.shop-update-2').css('display','none');
-						jQuery('.shop-ok').css('display','block');
-						jQuery('.shop-fill').css('display','none');
-					}
-				}else if(div == 'market-update'){ console.log(value);
-					if(value < latest){
-						jQuery('.'+div).css('display','block');
-					}else{
-						jQuery('.'+div).css('display','none');
-					}
-				}else if(div == 'serial-update'){
-					if(value < latest){
-						jQuery('.'+div).css('display','block');
-					}else{
-						jQuery('.'+div).css('display','none');
-					}
-				}
-			}
-
-			function displayForm(){
-				allowedCategories = '[{2},{3}]';
-				if(jQuery.inArray( jQuery('#postcatid').val(), allowedCategories) != '-1'){
-					jQuery('#postmessageform').css('display','none');
-					jQuery('.shop-fill').css('display','none');
-					jQuery('#kpost-message').removeAttr('style');
-					jQuery('#kpost-buttons').css('display','none');
-				}else{
-					if(jQuery('#kpost-hversion').val() == 'x.x.x' || jQuery('#kpost-hversion').val() == ''){
-						jQuery('.shop-fill').css('display','block');
-					}
-					if(jQuery('#postcatid').val() != '0'){
-						jQuery('#kpost-message').removeAttr('style');
-						jQuery('#kpost-buttons').css('display','none');
-					}else{
-						jQuery('#kpost-message').css('display','none');
-						jQuery('#postmessageform').css('display','block');
-					}
-				}
-			}
-			function searchResults(subject){
-				if(subject != ''){
-					jQuery('#kpost-search').removeAttr('style');
-					jQuery.ajax({
-						type: 'POST',
-						url: '', // to fill JRoute::_(index.php?option=com_kunena&view=topicmoderate&task=search&c0f5c39e6225a75e64b01d2d2320a976=1,false),
-						data: { toSearch: subject },
-						complete: function (result) {
-							jQuery('#search_result').html(result['responseText']);
-						},
-						error: function (result) {
-							jQuery('#search_result').html('No results');
-						}
-					});
-				}
-			}
+function displayForm(){
+	allowedCategories = '[{2},{3}]';
+	if(jQuery.inArray( jQuery('#postcatid').val(), allowedCategories) != '-1'){
+		jQuery('#postmessageform').css('display','none');
+		jQuery('.shop-fill').css('display','none');
+		jQuery('#kpost-message').removeAttr('style');
+		jQuery('#kpost-buttons').css('display','none');
+	}else{
+		if(jQuery('#kpost-hversion').val() == 'x.x.x' || jQuery('#kpost-hversion').val() == ''){
+			jQuery('.shop-fill').css('display','block');
+		}
+		if(jQuery('#postcatid').val() != '0'){
+			jQuery('#kpost-message').removeAttr('style');
+			jQuery('#kpost-buttons').css('display','none');
+		}else{
+			jQuery('#kpost-message').css('display','none');
+			jQuery('#postmessageform').css('display','block');
+		}
+	}
+}
+function searchResults(subject){
+	if(subject == '')
+		return;
+	jQuery('#kpost-search').removeAttr('style');
+	jQuery.ajax({
+		type: 'POST',
+		url: '', // to fill JRoute::_(index.php?option=com_kunena&view=topicmoderate&task=search&85cf455e57fd952e98b6e464e6274809=1,false),
+		data: { toSearch: subject },
+		complete: function (result) {
+			jQuery('#search_result').html(result['responseText']);
+		},
+		error: function (result) {
+			jQuery('#search_result').html('No results');
+		}
+	});
+}
 		
 jQuery(document).ready(function($){
             $('#hikamaximenu').DropdownMaxiMenu({fxtransition : 'linear',dureeIn : 0,dureeOut : 0,menuID : 'hikamaximenu',testoverflow : '0',orientation : 'horizontal',behavior : 'mouseover',opentype : 'noeffect',fxdirection : 'normal',directionoffset1 : '30',directionoffset2 : '30',showactivesubitems : '0',ismobile : 0,menuposition : '0',fxduration : 0});});
-window.setInterval(function(){var r;try{r=window.XMLHttpRequest?new XMLHttpRequest():new ActiveXObject("Microsoft.XMLHTTP")}catch(e){}if(r){r.open("GET","./",true);r.send(null)}},3600000);
+window.setInterval(function(){var r;try{r=window.XMLHttpRequest?new XMLHttpRequest():new ActiveXObject("Microsoft.XMLHTTP")}catch(e){}if(r){r.open("GET","/index.php?option=com_ajax&format=json",true);r.send(null)}},3600000);
 jQuery(document).ready(function(){
 	jQuery('.hasTooltip').tooltip({"html": true,"container": "body"});
 });
@@ -301,7 +317,7 @@ h1,h2,h3,h4,h5,h6,.site-title{
       <div class="row-fluid header">
         <div class="span6 logo">
 		<div class="moduletable">
-					
+						
 
 <div class="custom">
 	<p><a href="/index.php"><img src="/images/logo.png" alt="hikashop"></a><a href="/index.php"><img class="complete_logo" src="/images/logo_hikashop.png" alt="e-commerce"></a></p></div>
@@ -310,7 +326,7 @@ h1,h2,h3,h4,h5,h6,.site-title{
         </div>
           <div class="span6 login">
 		<div class="moduletablehikalogin">
-					<form action="/privacy-policy.html" method="post" id="login-form" class="form-inline">
+						<form action="/privacy-policy.html" method="post" id="login-form" class="form-inline">
 		<div class="userdata">
 		<div id="form-login-username" class="control-group">
 			<div class="controls">
@@ -346,12 +362,12 @@ h1,h2,h3,h4,h5,h6,.site-title{
 			</ul>-->
 				<input type="hidden" name="option" value="com_users">
 		<input type="hidden" name="task" value="user.login">
-		<input type="hidden" name="return" value="aW5kZXgucGhwP2Zvcm1hdD1odG1sJm9wdGlvbj1jb21fY29udGVudCZ2aWV3PWFydGljbGUmaWQ9MyZJdGVtaWQ9MTk1">
-		<input type="hidden" name="c0f5c39e6225a75e64b01d2d2320a976" value="1">	</div>
+		<input type="hidden" name="return" value="aHR0cDovL3d3dy5oaWthc2hvcC5jb20vcHJpdmFjeS1wb2xpY3kuaHRtbA==">
+		<input type="hidden" name="85cf455e57fd952e98b6e464e6274809" value="1">	</div>
 	</form>
 		</div>
 			<div class="moduletablelanguage">
-					<noscript>Javascript is required to use <a href="http://gtranslate.net/">GTranslate</a> <a href="http://gtranslate.net/">multilingual website</a> and <a href="http://gtranslate.net/">translation delivery network</a></noscript>
+						<noscript>Javascript is required to use <a href="http://gtranslate.net/">GTranslate</a> <a href="http://gtranslate.net/">multilingual website</a> and <a href="http://gtranslate.net/">translation delivery network</a></noscript>
 
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -374,14 +390,14 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
   <div id="mainbar" class="navbar navbar-dynamic">
     <!-- menu --> 
     <div class="navbar-inner">	  <div class="nav-small-screen">				<div class="moduletable smallscreen_menu">
-					<select class="chzn-done" onchange="window.location.href=this[this.selectedIndex].value;"><option value="/home">- Home</option><option value="/home/our-partners">-- Partners</option><option value="/home/brand">-- Brand</option><option value="/extensions">- Extensions</option><option value="/extensions/hika-essential">-- Hikashop essential 49,95€</option><option value="/extensions/hikamarket-front-end">-- Hikamarket front-edition 75€</option><option value="/extensions/hikaserial">-- Hikaserial 39,95€</option><option value="/extensions/hika-business">-- Hikashop business  99,90€</option><option value="/extensions/hikamarket-multi-vendor">-- Hikamarket multi-vendor 150€</option><option value="/extensions/hikashop-starter">-- Hikashop starter</option><option value="/extensions/compare-versions">-- Compare versions</option><option value="/extensions/upgrade-my-version">-- Essential to business</option><option value="/download">- Download</option><option value="/download/languages">-- Languages</option><option value="/download/styles-for-hikashop">-- Styles for hikashop 40€</option><option value="/download/legal-pack">-- Legal pack 75€</option><option value="/download/templates-for-hikashop">-- Templates for hikashop</option><option value="/support">- Support</option><option value="/support/documentation">-- Documentation</option><option value="/support/forum">-- Forum</option><option value="/support/faq">-- Faq</option><option value="/support/contact-us">-- Contact us</option><option value="/">- Demo</option><option value="/live-demo">-- Live demo</option><option value="/showcase">-- They use hikashop !</option><option value="/my-account">- My account</option><option value="/my-account/my-orders">-- My orders</option><option value="/my-account/your-subscriptions">-- My subscriptions</option><option value="/my-account/affiliate-program">-- Affiliate program</option></select>		</div>
+						<select class="chzn-done" onchange="window.location.href=this[this.selectedIndex].value;"><option value="/home">- Home</option><option value="/home/our-partners">-- Partners</option><option value="/home/brand">-- Brand</option><option value="/extensions">- Extensions</option><option value="/extensions/hika-essential">-- Hikashop essential 49,95€</option><option value="/extensions/hikamarket-front-end">-- Hikamarket front-edition 75€</option><option value="/extensions/hikaserial">-- Hikaserial 39,95€</option><option value="/extensions/hika-business">-- Hikashop business  99,90€</option><option value="/extensions/hikamarket-multi-vendor">-- Hikamarket multi-vendor 150€</option><option value="/extensions/hikaauction">-- Hikaauction 40€</option><option value="/extensions/hikashop-starter">-- Hikashop starter</option><option value="/extensions/compare-versions">-- Compare versions</option><option value="/extensions/upgrade-my-version">-- Essential to business</option><option value="/download">- Download</option><option value="/download/languages">-- Languages</option><option value="/download/styles-for-hikashop">-- Styles for hikashop 40€</option><option value="/download/legal-pack">-- Legal pack 75€</option><option value="/download/templates-for-hikashop">-- Templates for hikashop</option><option value="/support">- Support</option><option value="/support/documentation">-- Documentation</option><option value="/support/forum">-- Forum</option><option value="/support/faq">-- Faq</option><option value="/support/contact-us">-- Contact us</option><option value="/">- Demo</option><option value="/live-demo">-- Live demo</option><option value="/showcase">-- They use hikashop !</option><option value="/my-account">- My account</option><option value="/my-account/my-orders">-- My orders</option><option value="/my-account/your-subscriptions">-- My subscriptions</option><option value="/my-account/affiliate-program">-- Affiliate program</option></select>		</div>
 		  </div>
       <div>
         <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a>
       </div>
       <div class="nav-collapse">
 		<div class="moduletable bigscreen_menu">
-					
+						
 		<!--[if lte IE 7]>
 		<link href="/modules/mod_maximenuck/themes/css3megamenu/css/ie7.css" rel="stylesheet" type="text/css" />
 		<![endif]--><!-- debut Maximenu CK, par cedric keiflin -->
@@ -401,49 +417,50 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 	<div class="floatck" style="width:720px;"><div class="maximenuck2 first " style="width:280px;float:left;">
 	<ul class="maximenuck2"><li class="maximenuck nodropdown item194 first level2 " style="z-index : 11996;"><a class="maximenuck " href="/extensions/hika-essential.html"><img src="/images/menu/logo_hikashop.png" alt="HIKASHOP ESSENTIAL 49,95€" style="display: block; margin: 0 auto;"><span class="titreck">HIKASHOP ESSENTIAL <span class="price">49,95€</span><span class="descck">The basic version. With the main features for a little shop.</span></span> </a>
 		</li><li class="maximenuck nodropdown item188 level2 " style="z-index : 11995;"><span class="separator "><img src="/images/menu/separator.png" alt="|"></span>
-		</li><li class="maximenuck nodropdown item166 level2 " style="z-index : 11994;"><a class="maximenuck " href="/extensions/hikamarket-front-end.html"><img src="/images/menu/logo_hikamarket.png" alt="HIKAMARKET FRONT-EDITION 75€" style="display: block; margin: 0 auto;"><span class="titreck">HIKAMARKET FRONT-EDITION <span class="price">75€</span><span class="descck">Manage your shop directly via the front-end.</span></span> </a>
+		</li><li class="maximenuck nodropdown item166 level2 " style="z-index : 11994;"><a class="maximenuck " href="/extensions/hikamarket-front-end.html"><img src="/images/menu/logo_hikamarket.png" alt="HIKAMARKET FRONT-EDITION 75€" style="display: block; margin: 0 auto;"><span class="titreck">HIKAMARKET FRONT-EDITION <span class="price">75€</span><span class="descck"><span class="label label-success">Add-on</span> Manage your shop directly via the front-end.</span></span> </a>
 		</li><li class="maximenuck nodropdown item190 level2 " style="z-index : 11993;"><span class="separator "><img src="/images/menu/separator.png" alt="|"></span>
-		</li><li class="maximenuck nodropdown item167 level2 " style="z-index : 11992;"><a class="maximenuck " href="/extensions/hikaserial.html"><img src="/images/menu/logo_hikaserial.png" alt="HIKASERIAL 39,95€" style="display: block; margin: 0 auto;"><span class="titreck">HIKASERIAL <span class="price">39,95€</span><span class="descck">Create e-tickets using serial numbers to personnalize your products. </span></span> </a>
-		</li></ul><div class="clr"></div></div><div class="maximenuck2" style="width:280px;float:left;"><ul class="maximenuck2"><li class="maximenuck nodropdown item168 level2 " style="z-index : 11991;"><a class="maximenuck " href="/extensions/hika-business.html"><img src="/images/menu/logo_hikashop.png" alt="HIKASHOP BUSINESS  99,90€" style="display: block; margin: 0 auto;"><span class="titreck">HIKASHOP BUSINESS  <span class="price">99,90€</span><span class="descck">The best version for big shop online.  With all the best features.</span></span> </a>
+		</li><li class="maximenuck nodropdown item167 level2 " style="z-index : 11992;"><a class="maximenuck " href="/extensions/hikaserial.html"><img src="/images/menu/logo_hikaserial.png" alt="HIKASERIAL 39,95€" style="display: block; margin: 0 auto;"><span class="titreck">HIKASERIAL <span class="price">39,95€</span><span class="descck"><span class="label label-success">Add-on</span> Sale e-tickets, vouchers, gift certificates, serial numbers and more! </span></span> </a>
+		</li></ul><div class="clr"></div></div><div class="maximenuck2" style="width:280px;float:left;"><ul class="maximenuck2"><li class="maximenuck nodropdown item168 level2 " style="z-index : 11991;"><a class="maximenuck " href="/extensions/hika-business.html"><img src="/images/menu/logo_hikashop.png" alt="HIKASHOP BUSINESS  99,90€" style="display: block; margin: 0 auto;"><span class="titreck">HIKASHOP BUSINESS  <span class="price">99,90€</span><span class="descck">The best version for a big shop online.  With all the best features.</span></span> </a>
 		</li><li class="maximenuck nodropdown item189 level2 " style="z-index : 11990;"><span class="separator "><img src="/images/menu/separator.png" alt="|"></span>
-		</li><li class="maximenuck nodropdown item169 level2 " style="z-index : 11989;"><a class="maximenuck " href="/extensions/hikamarket-multi-vendor.html"><img src="/images/menu/logo_hikamarket.png" alt="HIKAMARKET MULTI-VENDOR 150€" style="display: block; margin: 0 auto;"><span class="titreck">HIKAMARKET MULTI-VENDOR <span class="price">150€</span><span class="descck">Create a multivendor platform. Enable many vendors on your website.</span></span> </a>
+		</li><li class="maximenuck nodropdown item169 level2 " style="z-index : 11989;"><a class="maximenuck " href="/extensions/hikamarket-multi-vendor.html"><img src="/images/menu/logo_hikamarket.png" alt="HIKAMARKET MULTI-VENDOR 150€" style="display: block; margin: 0 auto;"><span class="titreck">HIKAMARKET MULTI-VENDOR <span class="price">150€</span><span class="descck"><span class="label label-success">Add-on</span> Create a multivendor platform. Enable many vendors on your website.</span></span> </a>
 		</li><li class="maximenuck nodropdown item191 level2 " style="z-index : 11988;"><span class="separator "><img src="/images/menu/separator.png" alt="|"></span>
-		</li></ul><div class="clr"></div></div><div class="maximenuck2" style="width:160px;float:left;"><ul class="maximenuck2"><li class="maximenuck nodropdown item170 level2 " style="z-index : 11987;"><a class="maximenuck " href="/extensions/hikashop-starter.html"><span class="titreck">HIKASHOP STARTER<span class="descck">Download now !</span></span></a>
-		</li><li class="maximenuck nodropdown item171 level2 " style="z-index : 11986;"><a class="maximenuck " href="/extensions/compare-versions.html"><span class="titreck">COMPARE VERSIONS<span class="descck">See all features</span></span></a>
-		</li><li class="maximenuck nodropdown item172 last level2 " style="z-index : 11985;"><a class="maximenuck " href="/extensions/upgrade-my-version.html"><span class="titreck">ESSENTIAL TO BUSINESS<span class="descck">Upgrade now</span></span></a>
+		</li><li class="maximenuck nodropdown item608 level2 " style="z-index : 11987;"><a class="maximenuck " href="/extensions/hikaauction.html"><img src="/images/menu/logo_hikaauction.png" alt="HIKAAUCTION 40€" style="display: block; margin: 0 auto;"><span class="titreck">HIKAAUCTION <span class="price">40€</span><span class="descck"><span class="label label-success">Add-on</span> Create auctions and let your customers bid for products. </span></span> </a>
+		</li></ul><div class="clr"></div></div><div class="maximenuck2" style="width:160px;float:left;"><ul class="maximenuck2"><li class="maximenuck nodropdown item170 level2 " style="z-index : 11986;"><a class="maximenuck " href="/extensions/hikashop-starter.html"><span class="titreck">HIKASHOP STARTER<span class="descck">Download now !</span></span></a>
+		</li><li class="maximenuck nodropdown item171 level2 " style="z-index : 11985;"><a class="maximenuck " href="/extensions/compare-versions.html"><span class="titreck">COMPARE VERSIONS<span class="descck">See all features</span></span></a>
+		</li><li class="maximenuck nodropdown item172 last level2 " style="z-index : 11984;"><a class="maximenuck " href="/extensions/upgrade-my-version.html"><span class="titreck">ESSENTIAL TO BUSINESS<span class="descck">Upgrade now</span></span></a>
 	</li>
 	</ul>
 	<div class="clr"></div></div>
 	<div class="clr"></div></div>
-	</li><li class="maximenuck item103 parent level1 " style="z-index : 11984;"><a class="maximenuck " href="/download.html"><span class="titreck">Download</span></a>
+	</li><li class="maximenuck item103 parent level1 " style="z-index : 11983;"><a class="maximenuck " href="/download.html"><span class="titreck">Download</span></a>
 	<div class="floatck" style="width:250px;"><div class="maximenuck2 first " style="width:250px;float:left;">
-	<ul class="maximenuck2"><li class="maximenuck nodropdown item174 first level2 " style="z-index : 11983;"><a class="maximenuck " href="/download/languages.html"><img src="/images/menu/langue.png" alt="LANGUAGES" style="display: block; margin: 0 auto;"><span class="titreck">LANGUAGES<span class="descck">HikaShop is translated in more than 40 languages</span></span> </a>
-		</li><li class="maximenuck nodropdown item426 level2 " style="z-index : 11982;"><span class="separator "><img src="/images/menu/separator.png" alt="|"></span>
-		</li><li class="maximenuck nodropdown item176 level2 " style="z-index : 11981;"><a class="maximenuck " href="/download/styles-for-hikashop.html"><img src="/images/menu/styles.png" alt="STYLES FOR HIKASHOP 40€" style="display: block; margin: 0 auto;"><span class="titreck">STYLES FOR HIKASHOP <span class="price">40€</span><span class="descck">Change the layout of HikaShop to fit your website design</span></span> </a>
-		</li><li class="maximenuck nodropdown item427 level2 " style="z-index : 11980;"><a class="maximenuck " href="/download/legal-pack.html"><img src="/images/menu/legal_icon.png" alt="LEGAL PACK 75€" style="display: block; margin: 0 auto;"><span class="titreck">LEGAL PACK <span class="price">75€</span><span class="descck">Add a legal framework to your business</span></span> </a>
-		</li><li class="maximenuck nodropdown item184 level2 " style="z-index : 11979;"><span class="separator "><img src="/images/menu/separator.png" alt="|"></span>
-		</li><li class="maximenuck nodropdown item435 last level2 " style="z-index : 11978;"><a class="maximenuck " href="/download/templates-for-hikashop.html"><img src="/images/menu/icon_templates.png" alt="TEMPLATES FOR HIKASHOP" style="display: block; margin: 0 auto;"><span class="titreck">TEMPLATES FOR HIKASHOP<span class="descck">Joomla templates optimized for HikaShop</span></span> </a>
+	<ul class="maximenuck2"><li class="maximenuck nodropdown item174 first level2 " style="z-index : 11982;"><a class="maximenuck " href="/download/languages.html"><img src="/images/menu/langue.png" alt="LANGUAGES" style="display: block; margin: 0 auto;"><span class="titreck">LANGUAGES<span class="descck">HikaShop is translated in more than 40 languages</span></span> </a>
+		</li><li class="maximenuck nodropdown item426 level2 " style="z-index : 11981;"><span class="separator "><img src="/images/menu/separator.png" alt="|"></span>
+		</li><li class="maximenuck nodropdown item176 level2 " style="z-index : 11980;"><a class="maximenuck " href="/download/styles-for-hikashop.html"><img src="/images/menu/styles.png" alt="STYLES FOR HIKASHOP 40€" style="display: block; margin: 0 auto;"><span class="titreck">STYLES FOR HIKASHOP <span class="price">40€</span><span class="descck">Change the layout of HikaShop to fit your website design</span></span> </a>
+		</li><li class="maximenuck nodropdown item427 level2 " style="z-index : 11979;"><a class="maximenuck " href="/download/legal-pack.html"><img src="/images/menu/legal_icon.png" alt="LEGAL PACK 75€" style="display: block; margin: 0 auto;"><span class="titreck">LEGAL PACK <span class="price">75€</span><span class="descck">Add a legal framework to your business</span></span> </a>
+		</li><li class="maximenuck nodropdown item184 level2 " style="z-index : 11978;"><span class="separator "><img src="/images/menu/separator.png" alt="|"></span>
+		</li><li class="maximenuck nodropdown item435 last level2 " style="z-index : 11977;"><a class="maximenuck " href="/download/templates-for-hikashop.html"><img src="/images/menu/icon_templates.png" alt="TEMPLATES FOR HIKASHOP" style="display: block; margin: 0 auto;"><span class="titreck">TEMPLATES FOR HIKASHOP<span class="descck">Joomla templates optimized for HikaShop</span></span> </a>
 	</li>
 	</ul>
 	<div class="clr"></div></div>
 	<div class="clr"></div></div>
-	</li><li class="maximenuck item104 parent level1 " style="z-index : 11977;"><a class="maximenuck " href="/support.html"><span class="titreck">Support</span></a>
+	</li><li class="maximenuck item104 parent level1 " style="z-index : 11976;"><a class="maximenuck " href="/support.html"><span class="titreck">Support</span></a>
 	<div class="floatck" style="width:500px;"><div class="maximenuck2 first " style="width:250px;float:left;">
-	<ul class="maximenuck2"><li class="maximenuck nodropdown item177 parent first level2 " style="z-index : 11976;"><a class="maximenuck " href="/support/documentation.html"><img src="/images/menu/documentation.png" alt="DOCUMENTATION" style="display: block; margin: 0 auto;"><span class="titreck">DOCUMENTATION<span class="descck">Where everything is explained !</span></span> </a>
-		</li><li class="maximenuck nodropdown item187 first level2 " style="z-index : 11975;"><span class="separator "><img src="/images/menu/separator.png" alt="|"></span>
-		</li><li class="maximenuck nodropdown item178 level2 " style="z-index : 11974;"><a class="maximenuck " href="/support/forum.html"><img src="/images/menu/forum.png" alt="FORUM" style="display: block; margin: 0 auto;"><span class="titreck">FORUM<span class="descck">If our doc didn't answer your question</span></span> </a>
-		</li></ul><div class="clr"></div></div><div class="maximenuck2" style="width:250px;float:left;"><ul class="maximenuck2"><li class="maximenuck nodropdown item179 level2 " style="z-index : 11973;"><a class="maximenuck " href="/support/faq.html"><img src="/images/menu/faq.png" alt="FAQ" style="display: block; margin: 0 auto;"><span class="titreck">FAQ<span class="descck">Frequently Asked Questions</span></span> </a>
-		</li><li class="maximenuck nodropdown item186 level2 " style="z-index : 11972;"><span class="separator "><img src="/images/menu/separator.png" alt="|"></span>
-		</li><li class="maximenuck nodropdown item180 last level2 " style="z-index : 11971;"><a class="maximenuck " href="/support/contact-us.html"><img src="/images/menu/contact.png" alt="CONTACT US" style="display: block; margin: 0 auto;"><span class="titreck">CONTACT US<span class="descck">For specific requests only</span></span> </a>
+	<ul class="maximenuck2"><li class="maximenuck nodropdown item177 parent first level2 " style="z-index : 11975;"><a class="maximenuck " href="/support/documentation.html"><img src="/images/menu/documentation.png" alt="DOCUMENTATION" style="display: block; margin: 0 auto;"><span class="titreck">DOCUMENTATION<span class="descck">Where everything is explained !</span></span> </a>
+		</li><li class="maximenuck nodropdown item187 first level2 " style="z-index : 11974;"><span class="separator "><img src="/images/menu/separator.png" alt="|"></span>
+		</li><li class="maximenuck nodropdown item178 level2 " style="z-index : 11973;"><a class="maximenuck " href="/support/forum.html"><img src="/images/menu/forum.png" alt="FORUM" style="display: block; margin: 0 auto;"><span class="titreck">FORUM<span class="descck">If our doc didn't answer your question</span></span> </a>
+		</li></ul><div class="clr"></div></div><div class="maximenuck2" style="width:250px;float:left;"><ul class="maximenuck2"><li class="maximenuck nodropdown item179 level2 " style="z-index : 11972;"><a class="maximenuck " href="/support/faq.html"><img src="/images/menu/faq.png" alt="FAQ" style="display: block; margin: 0 auto;"><span class="titreck">FAQ<span class="descck">Frequently Asked Questions</span></span> </a>
+		</li><li class="maximenuck nodropdown item186 level2 " style="z-index : 11971;"><span class="separator "><img src="/images/menu/separator.png" alt="|"></span>
+		</li><li class="maximenuck nodropdown item180 last level2 " style="z-index : 11970;"><a class="maximenuck " href="/support/contact-us.html"><img src="/images/menu/contact.png" alt="CONTACT US" style="display: block; margin: 0 auto;"><span class="titreck">CONTACT US<span class="descck">For specific requests only</span></span> </a>
 	</li>
 	</ul>
 	<div class="clr"></div></div>
 	<div class="clr"></div></div>
-	</li><li class="maximenuck item105 parent level1 " style="z-index : 11970;"><a class="maximenuck " href="http://demo.hikashop.com" target="_blank"><span class="titreck">Demo</span></a>
+	</li><li class="maximenuck item105 parent level1 " style="z-index : 11969;"><a class="maximenuck " href="http://demo.hikashop.com" target="_blank"><span class="titreck">Demo</span></a>
 	<div class="floatck" style="width:250px;"><div class="maximenuck2 first " style="width:250px;float:left;">
-	<ul class="maximenuck2"><li class="maximenuck nodropdown item181 first level2 " style="z-index : 11969;"><a class="maximenuck " href="http://demo.hikashop.com" target="_blank"><img src="/images/menu/demo.png" alt="LIVE DEMO" style="display: block; margin: 0 auto;"><span class="titreck">LIVE DEMO<span class="descck">Test HikaShop by yourself. Front-end and Back-end.</span></span> </a>
-		</li><li class="maximenuck nodropdown item192 level2 " style="z-index : 11968;"><span class="separator "><img src="/images/menu/separator.png" alt="|"></span>
-		</li><li class="maximenuck nodropdown item182 last level2 " style="z-index : 11967;"><a class="maximenuck " href="/showcase.html"><img src="/images/menu/showcase.png" alt="THEY USE HIKASHOP !" style="display: block; margin: 0 auto;"><span class="titreck">THEY USE HIKASHOP !<span class="descck">Gallery of the best websites realized with HikaShop.</span></span> </a>
+	<ul class="maximenuck2"><li class="maximenuck nodropdown item181 first level2 " style="z-index : 11968;"><a class="maximenuck " href="http://demo.hikashop.com" target="_blank"><img src="/images/menu/demo.png" alt="LIVE DEMO" style="display: block; margin: 0 auto;"><span class="titreck">LIVE DEMO<span class="descck">Test HikaShop by yourself. Front-end and Back-end.</span></span> </a>
+		</li><li class="maximenuck nodropdown item192 level2 " style="z-index : 11967;"><span class="separator "><img src="/images/menu/separator.png" alt="|"></span>
+		</li><li class="maximenuck nodropdown item182 last level2 " style="z-index : 11966;"><a class="maximenuck " href="/showcase.html"><img src="/images/menu/showcase.png" alt="THEY USE HIKASHOP !" style="display: block; margin: 0 auto;"><span class="titreck">THEY USE HIKASHOP !<span class="descck">Gallery of the best websites realized with HikaShop.</span></span> </a>
 	</li>
 	</ul>
 	<div class="clr"></div></div>
@@ -479,10 +496,11 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
     <div>
 <div class="item-page" itemscope="" itemtype="http://schema.org/Article">
 	<meta itemprop="inLanguage" content="en-GB">
-				<div class="page-header">
+	
+		
+			<div class="page-header">
 		<h2 itemprop="name">
-												<a href="/privacy-policy.html" itemprop="url"> Privacy policy</a>
-									</h2>
+							Privacy policy					</h2>
 							</div>
 					
 	
@@ -515,19 +533,19 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 <h3>Links to other websites</h3>
 <p>Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over the other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you agree with it.</p>
 <h3>Personal Information and law requirements</h3>
-<p>The website is located in France and operated by Hikari Software, a French company and thus follow French laws. According to the law n°78-17 of the January 6th 1978 on the protection of persons concerning the processing of personal information and modified by the law n°2007-801 of the August 6th 2004 (BOEM 160* and 722), the automated gathering, recording and conservation of the personal information on this website is done following a declaration of information processing to the Commission Nationale de l'Informatique et des Libertés (CNIL). According to the article 34 and following, you have the right to ask access and rectification of your personal information by email at <span id="cloak23039"><a href="mailto:contact@hikashop.com">contact@hikashop.com</a></span><script type="text/javascript">
+<p>The website is located in France and operated by Hikari Software, a French company and thus follow French laws. According to the law n°78-17 of the January 6th 1978 on the protection of persons concerning the processing of personal information and modified by the law n°2007-801 of the August 6th 2004 (BOEM 160* and 722), the automated gathering, recording and conservation of the personal information on this website is done following a declaration of information processing to the Commission Nationale de l'Informatique et des Libertés (CNIL). According to the article 34 and following, you have the right to ask access and rectification of your personal information by email at <span id="cloak26891"><a href="mailto:contact@hikashop.com">contact@hikashop.com</a></span><script type="text/javascript">
  //<!--
- document.getElementById('cloak23039').innerHTML = '';
+ document.getElementById('cloak26891').innerHTML = '';
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy23039 = 'c&#111;nt&#97;ct' + '&#64;';
- addy23039 = addy23039 + 'h&#105;k&#97;sh&#111;p' + '&#46;' + 'c&#111;m';
- document.getElementById('cloak23039').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy23039 + '\'>' +addy23039+'<\/a>';
+ var addy26891 = 'c&#111;nt&#97;ct' + '&#64;';
+ addy26891 = addy26891 + 'h&#105;k&#97;sh&#111;p' + '&#46;' + 'c&#111;m';
+ document.getElementById('cloak26891').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy26891 + '\'>' +addy26891+'<\/a>';
  //-->
  </script></p> 	</div>
 
 	
-						 </div>
+						</div>
 
     </div>
     <!-- display content end-->
@@ -543,7 +561,7 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
       </div>
       <div class="nav2-collapse">
 		<div class="moduletable footer_menu">
-					<ul class="nav menu">
+						<ul class="nav menu">
 <li class="item-195 current active"><a href="/privacy-policy.html">Privacy Policy</a></li><li class="item-196 divider"><span class="separator">
 	|</span>
 </li><li class="item-197"><a href="/license-agreement.html">License Agreement</a></li><li class="item-198 divider"><span class="separator">
