@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cipd.co.uk privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521013647id_/http%3A//www.cipd.co.uk/site-terms/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cipd.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206091102id_/https%3A//www.cipd.co.uk/site-terms/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - Site terms - CIPD
 
@@ -6,14 +6,13 @@
 
 1.1 **"CIPD"** shall mean the Chartered Institute of Personnel and Development and its subsidiaries, including, but not limited to, CIPD Enterprises Limited and any future names by which these entities may be known.
 
-1.2 This privacy policy applies to any information acquired by and/or provided to CIPD including but not limited to:
+1.2 This privacy policy applies to any information acquired by and/or provided to CIPD including but not limited to: 
 
-  1\. This privacy policy applies to any information acquired by and/or provided to CIPD including but not limited to:   
-  2\. information acquired/provided through use of the following websites: the CIPD website (including the CIPD Professional Communities) at [www.cipd.co.uk](http://www.cipd.co.uk/) and the HR Talking Talent website at [www.hrtalkingtalent.asia](http://www.hrtalkingtalent.asia/) (together the “Websites”);   
-  3\. information acquired/provided during the course of orders, transactions and bookings;   
-  4\. information acquired/provided through enquiries or by the completion of any request and or invitation for information;   
-  5\. information acquired/provided through awards and competition entries;   
-  6\. information acquired/provided through any other source which we obtain in relation to you.
+   1\. information acquired/provided through the CIPD website (including the CIPD Professional Communities) at [www.cipd.co.uk](http://www.cipd.co.uk/) (the “Websites”);   
+   2\. information acquired/provided during the course of orders, transactions and bookings;   
+   3\. information acquired/provided through enquiries or by the completion of any request and or invitation for information;   
+   4\. information acquired/provided through awards and competition entries;   
+   5\. information acquired/provided through any other source which we obtain in relation to you.
 
 1.3 CIPD recognises that your privacy is important to you. The information you submit to CIPD will be kept confidential and secure once received. The information will be processed by CIPD or on its behalf under strictly regulated conditions in accordance with the provisions of the Data Protection Act 1998. 
 
@@ -43,7 +42,6 @@
 
 3.2 For operational reasons and/or in order to meet specific requests data may also be:
 
-  
   1\. processed on behalf of CIPD by external organisations under strictly regulated conditions in accordance with the provisions of the Data Protection Act 1998. 
 
 ### 4 Accuracy
@@ -70,7 +68,7 @@ Any modifications to the privacy practices of CIPD will be reflected first withi
 
 ### 7\. Consent
 
-By disclosing personal information to CIPD you consent to the collection, storage and processing of information in the manner described in this policy. Please note that your continued use of the Websites and/or products and services constitutes your agreement to any changes to this policy, the [CIPD Website Terms and Conditions](https://web.archive.org/site-terms/default.aspx "general content intro - Website terms and conditions") and the [HR Talking Talent Website Terms and Conditions](http://www.hrtalkingtalent.asia/p/website-terms-conditions.aspx).
+By disclosing personal information to CIPD you consent to the collection, storage and processing of information in the manner described in this policy. Please note that your continued use of the Websites and/or products and services constitutes your agreement to any changes to this policy and the [CIPD Website Terms and Conditions](https://web.archive.org/site-terms/default.aspx "general content intro - Website terms and conditions").
 
 CIPD Privacy Policy   
 May 2013
