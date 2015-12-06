@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the pollen-8.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185639id_/http%3A//www.pollen-8.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pollen-8.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206112338id_/http%3A//www.pollen-8.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Product Reviews | How to Market or Promote a New Product | Word of Mouth Marketing | Pollen-8
 
-**Effective as of January 1, 2012**  
-The operator of this website, Notaureus L.L.C. ("us" or "we") d/b/a Pollen-8, has created this Privacy Policy to explain what information we collect from individuals ("you" or "User") who access [www.pollen-8.com](http://pollen-8.com/ "Pollen-8") ("Site") and how we use that information. By using or accessing the Site, you signify your assent to our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use [www.pollen-8.com](http://pollen-8.com/ "Pollen-8"). If you have any questions about our Privacy Policy, please contact us using the information provided at the bottom of this Privacy Policy. 
+**Effective as of July 1, 2015**  
+The operator of this website, Pollen8, LLC ("us" or "we"), has created this Privacy Policy to explain what information we collect from individuals ("you" or "User") who access [www.pollen-8.com](http://pollen-8.com/ "Pollen-8") ("Site") and how we use that information. By using or accessing the Site, you signify your assent to our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use [www.pollen-8.com](http://pollen-8.com/ "Pollen-8"). If you have any questions about our Privacy Policy, please contact us using the information provided at the bottom of this Privacy Policy. 
 
 ## What information do we collect and how do we use it?
 
@@ -15,7 +15,7 @@ We may also use Personal Information to troubleshoot, resolve disputes, accompli
 
 From time-to-time, we may request Personal Information from Pollen-8 members in connection with a contest or a sweepstakes. Participation in these contests or sweepstakes is completely voluntary and the User therefore has a choice whether or not to disclose any requested Personal Information. Information requested may include contact information and supplementary information on your interests, opinions and preferences. We will use contact information to notify winners. We may publish winners' first name, last initial and city of residence on the Site and in order to comply with state law, we may be required to share: (i) winners' first name, last name and address with state agencies and (ii) winners' first name and last name with persons requesting such information via the mail.
 
-**Non-Personal Information**. Non-Personal Information is anonymous information that cannot be associated with a particular individual. We may collect Non-Personnel Information about you when you visit the Site, including IP host address, pages viewed, browser type, operating system, and other data collected from responding to a survey, entering a contest or sweepstakes, filling out a form, or posting/responding to product pitches.
+**Non-Personal Information**. Non-Personal Information is anonymous information that cannot be associated with a particular individual. We may collect Non-Personnel Information about you when you visit the Site, including IP host address, pages viewed, browser type, operating system, and other data collected from responding to a survey, entering a contest or sweepstakes, filling out a form, or posting/responding to product campaigns.
 
 We use Non-Personal Information to troubleshoot problems, administer the Site, analyze trends and demographic data, and to comply with the law and cooperate with law enforcement. We may also share Non-Personal Information with authorized third party service providers and advertisers to analyze the quality and effectiveness of our product offerings, advertising, and Site content.
 
@@ -33,11 +33,11 @@ We use cookies to understand and save your preferences for future visits and com
 
 ## Do we disclose any information to outside parties?
 
-Except as explained in this Privacy Policy, we do not sell, trade, or otherwise transfer to outside parties your Personal Information. This does not include trusted third parties who assist us in operating our Site, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. In the following circumstances, Notaureus, L.L.C. may elect to share or transfer your Personal Information to unrelated third parties: (i) to comply with a legal requirement, judicial proceeding, court order, or legal process served on Notaureus, L.L.C.; (ii) to investigate a possible crime, such as fraud or identity theft; (iii) in connection with the sale, purchase, merger, reorganization, liquidation or dissolution of Notaureus, L.L.C.; (iv) when we believe it is necessary to protect the rights, property, or safety of Notaureus, L.L.C. or other persons; or (v) as otherwise required or permitted by law. Non-Personal Information may be provided to other parties for marketing, advertising, or other uses.
+Except as explained in this Privacy Policy, we do not sell, trade, or otherwise transfer to outside parties your Personal Information. This does not include trusted third parties who assist us in operating our Site, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. In the following circumstances, Pollen8, LLC may elect to share or transfer your Personal Information to unrelated third parties: (i) to comply with a legal requirement, judicial proceeding, court order, or legal process served on Pollen8, LLC; (ii) to investigate a possible crime, such as fraud or identity theft; (iii) in connection with the sale, purchase, merger, reorganization, liquidation or dissolution of Pollen8, LLC; (iv) when we believe it is necessary to protect the rights, property, or safety of Pollen8, LLC or other persons; or (v) as otherwise required or permitted by law. Non-Personal Information may be provided to other parties for marketing, advertising, or other uses.
 
 ## Notice of Privacy Rights to California Residents
 
-Companies that collect Personal Information from California residents and disclose such information to third parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided, or (2) provide a mechanism by which a consumer may opt-out of having his or her information shared with third parties. We have elected the second option, and you may request that your Personal Information not be shared with third parties by sending your request, including your full name, email address, and postal address, to: Notaureus, LLC, 200 Highland Ave., Suite 403, Needham, MA 02494-3019, USA. California residents are also entitled to know that they may file grievances and complaints with the California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to [dca@dca.ca.gov](mailto:dca@dca.ca.gov "dca@dca.ca.gov").
+Companies that collect Personal Information from California residents and disclose such information to third parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided, or (2) provide a mechanism by which a consumer may opt-out of having his or her information shared with third parties. We have elected the second option, and you may request that your Personal Information not be shared with third parties by sending your request, including your full name, email address, and postal address, to: Pollen8, LLC, 200 S. Wilcox St. #121 Castle Rock, CO 80104, USA. California residents are also entitled to know that they may file grievances and complaints with the California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to [dca@dca.ca.gov](mailto:dca@dca.ca.gov "dca@dca.ca.gov").
 
 ## Correction/Updating Personal Information
 
@@ -53,7 +53,7 @@ This Privacy Policy applies only to information collected through our Site and n
 
 ## Links to Third Party Sites
 
-Our Site may contain links to other websites, including our affiliated or co-branded websites. Other websites may also reference or link to our Site. These "other" domains (websites) are not controlled by Notaureus, L.L.C.. We encourage our users to be aware when they leave our Site to read the privacy policies of each and every website that collects Personal Information. We do not endorse, screen or approve, and are not responsible for the privacy practices or content of such other websites. Visiting these other websites is at your own risk.
+Our Site may contain links to other websites, including our affiliated or co-branded websites. Other websites may also reference or link to our Site. These "other" domains (websites) are not controlled by Pollen8, LLC. We encourage our users to be aware when they leave our Site to read the privacy policies of each and every website that collects Personal Information. We do not endorse, screen or approve, and are not responsible for the privacy practices or content of such other websites. Visiting these other websites is at your own risk.
 
 ## Changes to our Privacy Policy
 
@@ -62,13 +62,3 @@ We reserve the right, in our sole discretion, to modify this Privacy Policy at a
 ## Contacting Us
 
 #### If there are any questions regarding this privacy policy you may contact us using the information below.
-
-Mail:  
-Notaureus, LLC  
-200 Highland Ave.  
-Suite 403  
-Needham, MA 02494-3019  
-USA
-
-Email: [contactus@pollen-8.com](mailto:contactus@pollen-8.com "contactus@pollen-8.com")  
-Phone: 800-333-4959 
