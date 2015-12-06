@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the traderush.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630232156id_/http%3A//www.traderush.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traderush.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206031447id_/http%3A//www.traderush.com/Privacy) for the most accurate reproduction.*
 
-# TradeRush - Privacy
+# TRBinaryoptions - Privacy
+
+Privacy
 
 Privacy Policy  
+
+    
 
 TradeRush does its utmost to ensure the privacy, confidentiality and security of its clients are preserved both throughout their interaction with the company and afterwards, to the fullest extent achievable by the company.
 
@@ -19,3 +23,36 @@ TradeRush does its utmost to ensure the privacy, confidentiality and security of
 6\. TradeRush does its utmost to ensure the confidentiality of its clients personal information including the implementation of data protection procedures designed to ensure client confidentiality.  TradeRush ensures that its data protection policy is regularly updated in order to ensure that client’s confidential information is continually safeguarded.
 
 7\. From time to time TradeRush may contact clients whether by phone or email for the purpose of offering them further information about TradeRush, binary options trading or financial market trading. In addition the company may, on occasion, seek to contact clients, whether by phone or by email, for the purpose of informing them of unique promotional offerings provided by TradeRush for the client. Clients consent to the receipt of such contact when they consent to our terms and conditions of use when registering with TradeRush . Any person wishing to opt out of further contact with TradeRush at anytime whatsoever is entitled to do so, simply by contacting the company whether by phone or email and requesting that no further contact on behalf of the company be made.
+
+[](https://web.archive.org/ContactUs)
+
+How To Trade? [](https://web.archive.org/HowToTrade)
+
+  *   * Binary Options
+  *   * One Touch
+  *   * 60 Seconds
+  * 
+
+
+  * 1
+
+Select an asset to trade.
+
+  * 2
+
+Click " **CALL** " if the price will rise above the current rate at the expiry, or click " **PUT** " if the price will fall below the current rate at the time the option expires.  
+|   
+---|---  
+  
+  * 3
+
+Enter the investment amount.
+
+  * 4
+
+<span calibri="" ,="" sans-serif="" ;="" color:="" rgb(15,="" 36,="" 62);="">Click " **APPLY** ".
+
+
+
+
+news by Yahoo finance 
