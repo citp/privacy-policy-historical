@@ -1,0 +1,385 @@
+<!--The following is the downloaded HTML source of the placesonline.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206134344id_/http%3A//www.paesionline.info/copyright.asp%3Fdomain%3D.com) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" style="display: block;"><head>
+<title>Privacy Policy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<link rel="image_src" href="http://www.paesionline.info/engine/images/logo_en.png">
+
+<link href="http://www.paesionline.info/engine/css/main.min.css?v=5.7" rel="stylesheet" type="text/css" media="screen">
+
+<script src="//cdn.iubenda.com/iubenda.js"></script><script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+
+<script type="text/javascript" src="http://www.paesionline.info/engine/js/functions.min.js?v=0.1"></script>
+
+<!--
+	<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
+-->
+<meta property="og:image" content="http://www.paesionline.info/engine/images/logo_en.png">
+    <meta property="og:locale" content="en_US">
+    
+	<script language="javascript" type="text/javascript">
+	/* CARICAMENTO DOM ELEMENTI DINAMICI SOCIAL */
+		$(document).ajaxComplete(function(){
+			try{
+				FB.XFBML.parse();
+				twttr.widgets.load();
+				gapi.plusone.go();
+			}catch(ex){}
+		});
+		
+		$(document).ready(function(){				
+		/* DLG SIGNUP */
+		
+		$('.dlg_userregistrationlogin_open').click(function(){$("body").append("<div id=\"dlg_userregistrationlogin\" title=\"User\'s Registration\"></div>");$("#dlg_userregistrationlogin").dialog({bgiframe:true,autoOpen:false,width:800,height:450,modal:true,draggable:false,resizable:false,position:'center',close:function(){$("#dlg_userregistrationlogin").remove()}});$("#dlg_userregistrationlogin").load("http://www.placesonline.com/frm_userregistrationlogin.asp?entity=userregistrationlogin").dialog('open');return false});
+
+		/* ADD FRIENDS */
+		$('.addtofriends').click(function(){var id_user=$(this).attr("title");$("body").append("<div id=\"dlg_addtofriends\" title=\"Friendship request\"></div>");$("#dlg_addtofriends").dialog({bgiframe:true,autoOpen:false,width:500,height:350,modal:true,draggable:false,resizable:false,close:function(){$("#dlg_addtofriends").remove()}});url="http://www.placesonline.com/frm_addtofriends_add.asp?id_user="+id_user;$("#dlg_addtofriends").load(url).dialog('open');return false});
+		/* DLG LOGIN */
+		$('.dlg_userloginregistration_open').click(function(){$("body").append("<div id=\"dlg_userloginregistration\" title=\"User\'s Registration\"></div>");$("#dlg_userloginregistration").dialog({bgiframe:true,autoOpen:false,width:800,height:450,modal:true,draggable:false,resizable:false,position:'center',close:function(){$("#dlg_userloginregistration").remove()}});$("#dlg_userloginregistration").load("http://www.placesonline.com/frm_userloginregistration.asp?entity=userloginregistration").dialog('open');return false});
+		
+		/*TROFEI*/
+		$('.game_avatar_trophies').click(function(){var url; url = "http://www.placesonline.com/engine/includes/ajax/game_ajax_trofei_utente.asp?action=trofei_utente&idu=" + $(this).attr("data-uid"); $("body").append("<div id=\"dlg_modal_trophies\" ></div>");$("#dlg_modal_trophies").dialog({bgiframe:true,autoOpen:false,width:800,height:450,modal:true,draggable:false,resizable:false,position:'center',close:function(){$("#dlg_modal_trophies").remove()}});$("#dlg_modal_trophies").load(url).dialog('open');return false});
+
+
+		/* EMAIL SHARING */
+		$('.sharebymail').click(function(){$("body").append("<div id=\"dlg_share_sendtofriend\" title=\"Recommend per email\"></div>");$("#dlg_share_sendtofriend").dialog({bgiframe:true,autoOpen:false,width:500,height:500,modal:true,draggable:false,resizable:false,close:function(){$("#dlg_share_sendtofriend").remove()}});$("#dlg_share_sendtofriend").load("http://www.placesonline.com/frm_share_sendtofriend.asp?url=http://www.placesonline.com/copyright.asp?domain=.com").dialog('open');return false});
+		/* SEND MESSAGE*/
+		$('.sendmessageuser').click(function(){$("body").append("<div id=\"sendmessagewriter_dialog\" title=\"Send private message\"></div>");$("#sendmessagewriter_dialog").dialog({bgiframe:true,autoOpen:false,width:400,height:525,modal:true,draggable:false,resizable:false,close:function(){$("#sendmessagewriter_dialog").remove()}});var id_user_to=$(this).attr("title");var url="http://www.placesonline.com/frm_sendmessagewriter_add.asp?id_user_to="+id_user_to;$("#sendmessagewriter_dialog").load(url).dialog('open')});
+		/* BECOME FAN */
+		$(".becomefan").click(function(){$.ajax({type:"GET",async:false,url:"http://www.placesonline.com/global_ajax.inc.asp",data:"action=becomefan&id_user="+$(this).attr("title"),success:function(html){$("#div_becomefan").html(html)}})});
+
+		$.validator.addMethod("customDate",function(value, element) {
+				return value.match(/^\d{1,2}\/\d{1,2}\/\d{4}$/);
+		},"Please enter a date in the right format");
+		$.datepicker.setDefaults($.datepicker.regional['en']);
+
+		
+	});
+	</script>
+    
+    
+
+<script language="javascript" type="text/javascript">
+	//GOOGLE ADMANAGER
+	//GOOGLE ADMANAGER
+	GS_googleAddAdSenseService("ca-pub-9500073444472668");
+	GS_googleEnableAllServices();
+</script>
+
+
+</head>
+<body>
+<!-- Correct fb_xd_fragment Bug Start -->
+<script>
+document.getElementsByTagName('html')[0].style.display='block';
+</script>
+<!-- Correct fb_xd_fragment Bug End -->
+<div id="page_container">
+	<div id="info_page">
+	
+   <div id="info_header">
+
+            <div id="info_logo"><span class="pl6"><a href="http://www.paesionline.info/index.asp?domain=.com"><img src="http://www.paesionline.info/engine/images/logo_info.png" alt="Places On Line"></a></span></div>
+            <div id="info_flags"><ul class="language_flags"><li><a href="http://www.paesionline.info/index.asp?domain=.it"><img src="http://www.paesionline.info/engine/images/icons/flag_it.png" class="hover" alt="italiano" width="16" height="11"></a></li><li><a href="http://www.paesionline.info/index.asp?domain=.es"><img src="http://www.paesionline.info/engine/images/icons/flag_es.png" class="hover" alt="español" width="16" height="11"></a></li><li><a href="http://www.paesionline.info/index.asp?domain=.fr"><img src="http://www.paesionline.info/engine/images/icons/flag_fr.png" class="hover" alt="français" width="16" height="11"></a></li><li><img src="http://www.paesionline.info/engine/images/icons/flag_couk_hover.png" alt="english" width="16" height="11"></li><li><a href="http://www.paesionline.info/index.asp?domain=.de"><img src="http://www.paesionline.info/engine/images/icons/flag_de.png" class="hover" alt="deutsch" width="16" height="11"></a></li><li><a href="http://www.paesionline.info/index.asp?domain=.com.br"><img src="http://www.paesionline.info/engine/images/icons/flag_combr.png" class="hover" alt="português" width="16" height="11"></a></li></ul></div>
+            <div class="clearbt"></div>
+           
+		   
+		    <div id="info_breadcrumbs" style="position:relative; height:80px">
+            	<div class="floatleft">
+		            <p class="pl6" style="padding-top:20px"><a href="http://www.placesonline.com/">PlacesOnLine.com</a>
+
+                    &gt; <a href="http://www.paesionline.info/index.asp?domain=.com">Home .info  </a> &gt; Privacy Policy
+				</p>
+			 </div>
+                 <div class="floatright w250" style="padding-top:20px">
+					<p class="pr22 pl22 strong">Our numbers</p>
+                    <ul class="xsmall pl22 mt6">
+                        <li>30.000.000 users per year</li>
+                        <li>200.000 Accommodations</li>
+                        <li>15.000 reviewed destinations</li>
+                        <li>650.000 registered users</li>
+                        <li>Thousands videos</li>
+                        <li>40.000 Photos</li>
+                    </ul>
+                 </div>
+	            <div class="clearbt"></div>
+            </div>
+        </div>
+<!--
+        <div id="info_adv"></div>
+-->
+
+        <div id="info_container">
+            <div id="info_content">
+
+
+<div>
+	<h1>Privacy Policy</h1>
+
+<br> 	
+<div style="text-align:center">
+<a href="//www.iubenda.com/privacy-policy/864354" class="iubenda-white iubenda-embed" title="Privacy Policy">Privacy Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
+</div>
+<br> 
+	
+<p><strong>1.</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>DATA  CONTROLLER</strong><br>
+By consulting the website <a href="http://www.placesonline.com/">www.placesonline.com</a> all data  concerning identified or identifiable persons may be processed.<br>
+The data Controller of the abovementioned treatment of personal data is  Paesionline S.r.l., with registered office in Rocca di Papa (RM), Via Francesco  D’Assisi 4, VAT No. 09172321003, e-mail info@paesionline.it<strong>.</strong><br>
+The data Manager is Luca Cotichini. The complete list of the  data Managers may be found at the premises of Paesionline S.r.l. and it may be  consulted upon written request sent by mail or e-mail to the abovementioned  addresses, indicating as object “Privacy – list of data Managers”.<br><br>
+<strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TYPE OF DATA TREATED</strong><br><br>
+<strong>2.1.&nbsp;&nbsp; NAVIGATION DATA</strong><br>
+When operating, the computer systems and software procedures necessary  for the correct functioning of the Site collect some personal data which are  implicitly transmitted in the use of internet communication protocols.<br>
+This information is not collected in order to be associated with  identified users, but in virtue of its nature, it may lead to their  identification.<br>
+This category of data includes IP addresses or domain names of the  computers utilized by users who connect to the Site, the URI (<em>Uniform Resource Identifier</em>) addresses  of the resources requested, the time of the request, the method used to send a  request to the server, the size of the file obtained in reply, the numeric code  indicating the state of the reply given by the server (sent, error) and other  parameters relating to the user's operating system and data processing  environment.<br>
+These data shall only be used to obtain anonymous statistical  information concerning the use of the Site and to verify its correct  functioning. The data shall also be used&nbsp;  in case it should be deemed necessary to determine the liability for any  data processing offences detrimental to the Site.<br>
+The Site does not use <em>cookies</em> for the transmission of personal information, nor does it use the so-called  persistent <em>cookies</em>, that is systems  to trace users.<br>
+The so-called session <em>cookies</em> (which are not stored persistently on the user's computer and are deleted when  closing the browser) are used for the sole transmission of the session IDs  (made up by casual numbers generated by the server) necessary to enable a  secure and efficient exploration of the site.<br><br>
+<strong>2.2.&nbsp;&nbsp;&nbsp;&nbsp; DATA PROVIDED VOLUNTARILY  BY THE USER</strong><br>
+Apart from such data, the Controller shall process the information  provided by the user when registering on the Site, such as name and surname,  date of birth, street and e-mail address, and any further data related to  video, text and photo contents (all together referred to as “Contributions”) in  order to (i) send newsletters, (ii) send via e-mail advertising and promotional  information related to the Site, to the tourist sector as well as others, (iii)  carry out market research, (iv) elaborate all data provided by the registered  user and those collected owing to the user's navigation on the Site so as to  identify the relevant commercial profile and to use the results of such  elaboration for promotional and commercial purposes, as well as (v) publish the  Contributions in compliance with the limits and conditions, (vi) offering discounts therein foreseen.<br><br>
+<strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NATURE OF THE DATA AND  CONSEQUENCES IN CASE OF REFUSAL TO REPLY</strong><br>
+In order to enable the Controller to publish the users' Contributions it  is necessary to consent the treatment of personal data. Therefore, in case of  refusal, the service shall not be supplied and relevant discounts shall not be  granted.<br>
+The user is free to provide his/her data for the remaining purposes of  the Site. However, the refusal of the abovementioned treatment shall entail the  impossibility of being informed about new marketing initiatives and of being  updated on any new services offered on the Site related to the tourist sector  and/or any further activities related to other sectors. <br><br>
+<strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MODALITIES OF THE  TREATMENT</strong><br>
+All personal data are processed by means of manual computer systems and  are automatized for the length of time necessary to achieve the objective for  which they are collected.<br>
+The Controllers follow specific security measures in order to guarantee  the treatment of the data in compliance with the personal data protection law,  with a particular attention in preventing any data loss, any illicit or  uncorrect data use, or unauthorized access to data banks.<br><br>
+<strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; THE INTERESTED PARTY'S  RIGHTS </strong><br>
+The person to whom the personal data refer has the right, in any moment,  to obtain confirmation of the existence or non-existence of any personal data  concerning him/her, and receive an intelligible communication of said data,  even if they have not been registered yet.<br><br>
+The interested party has the right to obtain information  concerning: </p>
+<ol start="1" type="1">
+  <ol start="1" type="1">
+    <li>the source of the personal data; </li>
+    <li>the purposes and the modalities of the        treatment; </li>
+    <li>the logic applied in case of treatment performed        using electronic equipment; </li>
+    <li>the data controllers' and managers' identifying        details ;</li>
+  </ol>
+</ol>
+<ol>
+  <ol>
+    <li>the parties or categories  of parties to which the personal data may be communicated, or which may be  informed about such data, as representatives appointed for that territory by  the State, or as managers or people in charge. </li>
+  </ol>
+</ol>
+<p>The  interested party has also the right to obtain: </p>
+<ol start="1" type="1">
+  <ol start="6" type="1">
+    <li>the updating, modification, that is when        interested, and integration of the data;</li>
+    <li>the deletion, transformation into anynomous form        or the blocking of any of the data processed unlawfully, including data        which do not need to be stored with regard to the purposes for which they        were collected or subsequently treated; </li>
+    <li>a declaration stating that those to whom the        data have&nbsp; been communicated are        aware of the operations referred to in paragraphs 1) and 2), including        their content, except in the case in which it is not possible to fulfil        said obligation or if it entails an involvement of means which is clearly        disproportionate as to the right protected.</li>
+  </ol>
+</ol>
+<p>The  interested party has the right to oppose, totally or partially: </p>
+<ol start="1" type="1">
+  <ol start="9" type="1">
+    <li>to the treatment of his/her personal data, for        legitimate reasons, even though pertaining to the purpose of the        collecting; </li>
+    <li>to the treatment of his/her personal data for        the sending of advertising material or the carrying out of market        research or for business communications.</li>
+  </ol>
+</ol>
+<p>In order to assert the abovementioned rights,  please write to the Controllers, sending your request to the registered office  address or to the e-mail address as mentioned in paragraph 1, indicating as  object “<em>Privacy – assertion of rights ex  art. 7 of Lgs.D. 196/2003</em>”.<br>
+  <br>
+    <strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; COMMUNICATION AND DATA  DISCLOSURE</strong><br>
+  All personal data collected on the Site shall not be disclosed, sold, or  transferred to third parties, except where required by law.<br>
+  Therefore, in any case, with the exception of communications or  disclosure of data requested, in compliance with the law, by police, judicial  authorities, information and security bodies or other public subjects with the  aim of defending and granting State security or for prevention, investigation  or repression of crimes.<br><br>
+  <strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MODIFICATIONS</strong></p>
+This  present document constitutes the Site's privacy policy which in time shall be  subject of possible modifications and/or updates.</div>
+
+	<p class="strong">Please refer italian's <a href="http://www.paesionline.info/copyright.asp?domain=.it">privacy policy</a> for more information</p>
+    
+            </div>
+            <div id="info_navigation">
+<script language="javascript" type="text/javascript">
+  	$(document).ready(function(){
+			$("ul.navigationleft li a.nav_note").addClass("nav_left_active"); 
+		    $("ul.navigationleft li ul li a[href='http://www.paesionline.info/copyright.asp?domain=.com']").addClass("nav_left_single_active"); 
+
+			
+
+
+
+					$("ul.navigationtoggle li a.nav_note").next().slideToggle('normal');
+//apre automaticamente la voce nav_pubblicita
+					$("ul.navigationtoggle li a.nav_pubblicita").next().slideDown('normal');
+					$("ul.navigationtoggle li a.nav_pubblicita").next().addClass("fixed_navigation"); 
+
+//apre automaticamente la voce nav_pubblicita
+					$("ul.navigationtoggle li a.nav_servizialleaziende").next().slideDown('normal');
+					$("ul.navigationtoggle li a.nav_servizialleaziende").next().addClass("fixed_navigation"); 
+					
+			});
+		</script>
+
+
+<div id="info_navigation">
+    <ul id="navigationleft" class="navigationleft navigationtoggle collapsible toparrow">
+        <li>
+            <a href="#" class="nav_profiloaziendale">Company Profile
+</a>
+            <ul class="navigationleft">
+                <li><a href="http://www.paesionline.info/company.asp?domain=.com">Companies
+</a></li>
+                <li><a href="http://www.paesionline.info/where_we_are.asp?domain=.com">Where we are - Contacts
+</a></li>
+                <li><a href="http://www.paesionline.info/our_staff.asp?domain=.com">Our staff
+</a></li>
+                <li><a href="http://www.paesionline.info/press_area.asp?domain=.com">Press
+</a></li>
+                <li><a href="http://www.paesionline.info/partners.asp?domain=.com">Partners
+</a></li>
+            </ul>
+		</li>
+		<li>
+            <a href="#" class="nav_pubblicita">Advertising
+</a>
+            <ul>
+                <li><a href="http://www.paesionline.info/banner.asp?domain=.com">Banner
+</a></li>
+                <li><a href="http://www.paesionline.info/text_ads.asp?domain=.com">Text Ads
+</a></li>
+                <!--<li><a href="http://www.paesionline.info/sponsorship.asp?domain=.com">Sponsorship
+</a></li>-->
+                <li><a href="http://www.paesionline.info/newsletter_advertorial.asp?domain=.com">Newsletter &amp; Dem
+</a></li>
+				<li><a href="http://www.paesionline.info/skin.asp?domain=.com">Skin
+</a></li>
+                <li><a href="http://www.paesionline.info/pdf.asp?domain=.com">Pdf
+</a></li>
+            </ul>
+		</li>
+		<li>
+            <a href="#" class="nav_servizialleaziende">Business services
+</a>
+            <ul>
+                <li><a href="http://www.paesionline.info/hotels_accommodations.asp?domain=.com">Hotels and Accomodation
+</a></li>
+                <li><a href="http://www.paesionline.info/agenzie_di_viaggi.asp?domain=.com">Olta, Travel agents and T.O.
+</a></li>
+                <li><a href="http://www.paesionline.info/tourist_services.asp?domain=.com">Rental and travel services
+</a></li>
+                <li><a href="http://www.paesionline.info/web_sites.asp?domain=.com">Websites
+</a></li>
+                <li><a href="http://www.paesionline.info/events.asp?domain=.com">Events &amp; Entertainment
+</a></li>
+
+            </ul>
+		</li>
+	
+		<li>
+            <a href="#" class="nav_contentprovider">Content Provider
+</a>
+            <ul>
+                <li><a href="http://www.paesionline.info/business_services.asp?domain=.com">Editorial projects
+</a></li>
+                <li><a href="http://www.paesionline.info/portfolio.asp?domain=.com">Our clients
+</a></li>
+            </ul>
+            
+		</li>
+		
+		<li>
+            <a href="#" class="nav_partecipaallaguida">Join the guide
+</a>
+            <ul>
+                <li><a href="http://www.paesionline.info/add_users.asp?domain=.com">Community
+</a></li>
+                
+            </ul>
+            
+		</li>
+			
+		<li>
+            <a href="#" class="nav_note">Notes
+</a>
+            <ul>
+                <li><a href="http://www.paesionline.info/legal.asp?domain=.com">Terms of use
+</a></li>
+                <li><a href="http://www.paesionline.info/editorial.asp?domain=.com">Editorial notes
+</a></li>
+                <li><a href="http://www.paesionline.info/copyright.asp?domain=.com">Privacy Policy
+</a></li>
+            </ul>
+            
+		</li>
+		<li>
+            <a href="#" class="nav_copyright">Copyright
+</a>
+            <ul>
+                <li><a href="http://www.paesionline.info/policy.asp?domain=.com">Disclaimer
+</a></li>
+            </ul>
+		</li>
+		<li>
+            
+            <a href="#" class="nav_impiego">Jobs</a>
+            <ul>
+                <li><a href="http://www.paesionline.info/job_opportunities.asp?domain=.com">Job opportunities</a></li>
+            </ul>
+		</li>
+
+
+		
+		<li>
+            
+            <a href="#" class="nav_widget">Widget</a>
+            <ul>
+                <li><a href="http://www.paesionline.info/widget_placesrank.asp?domain=.com">Places Rank</a></li>
+
+                <li><a href="http://www.paesionline.info/widget_seguicisu.asp?domain=.com">Please follow</a></li>
+
+                <li><a href="http://www.paesionline.info/logos_banners_on_your_site.asp?domain=.com">Links and Tools</a></li>
+
+                <li><a href="http://www.paesionline.info/widget_guidepdf.asp?domain=.com">PDF Guide</a></li>
+
+                <li><a href="http://www.paesionline.info/widget_scopri.asp?domain=.com">Discover and join in!</a></li>
+
+                <li><a href="http://www.paesionline.info/widget_strutture.asp?domain=.com">Hotel and tourist services</a></li>
+
+                <li><a href="http://www.paesionline.info/widget.asp?domain=.com">See all</a></li>
+            </ul>																			
+		</li>
+
+		
+			
+	</ul>
+	
+			
+		
+	
+</div>
+<script language="javascript" type="text/javascript">
+  	$(document).ready(function(){
+		    $("#info_navigation ul li a[href='http://www.paesionline.info/copyright.asp?domain=.com']").addClass("nav_left_single_active"); 
+	});
+</script>
+
+            </div>
+            <div class="clearbt"></div>
+        </div>
+        <div id="info_footer" class="mb56 mt56">
+        
+        <hr class="gray mt12 mb12">
+        
+        <span class="padding xsmall">
+Our network:<ul class="language_flags"><li><a href="http://www.paesionline.it/" rel="nofollow"><img src="http://www.paesionline.info/engine/images/icons/flag_it.png" class="hover" alt="italiano" width="16" height="11"> Viaggi e Vacanze</a></li><li><a href="http://www.placesonline.es/" rel="nofollow"><img src="http://www.paesionline.info/engine/images/icons/flag_es.png" class="hover" alt="español" width="16" height="11"> Viajes  y Vacaciones</a></li><li><a href="http://www.placesonline.fr/" rel="nofollow"><img src="http://www.paesionline.info/engine/images/icons/flag_fr.png" class="hover" alt="français" width="16" height="11"> Séjours et vacances</a></li><li><a href="http://www.placesonline.com/" rel="nofollow"><img src="http://www.paesionline.info/engine/images/icons/flag_couk.png" class="hover" alt="english" width="16" height="11"> Travel and Holidays</a></li><li><a href="http://www.placesonline.de/" rel="nofollow"><img src="http://www.paesionline.info/engine/images/icons/flag_de.png" class="hover" alt="deutsch" width="16" height="11"> Reisen und Ferien</a></li><li><a href="http://www.placesonline.com.br/" rel="nofollow"><img src="http://www.paesionline.info/engine/images/icons/flag_combr.png" class="hover" alt="português" width="16" height="11"> Viagens e Turismo</a></li></ul>
+		</span>
+
+        <p class="xsmall padding mT20">©2014 Paesionline Srl. P.IVA 09172321003</p>
+        </div>
+	</div>
+</div>
+
+		<script language="javascript" type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+		<script language="javascript" type="text/javascript">
+		try {
+		var pageTracker = _gat._getTracker("UA-2533415-7");
+		pageTracker._trackPageview();
+		} catch(err) {}</script>
+
+
+
+
+
+
+</body></html>
