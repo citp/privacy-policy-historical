@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sscrecruitmentresults.in privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041439id_/http%3A//sscrecruitmentresults.in/privacy-policy-and-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sscrecruitmentresults.in privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141935id_/http%3A//sscrecruitmentresults.in/privacy-policy-and-disclaimer) for the most accurate reproduction.*
 
 # Privacy Policy | Disclaimer
 
