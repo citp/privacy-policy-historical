@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the way2goodlife.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614001922id_/http%3A//www.way2goodlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the way2goodlife.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141601id_/http%3A//www.way2goodlife.com/privacy-policy) for the most accurate reproduction.*
 
 # ONLINE PRIVACY POLICY AGREEMENT
 
