@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the popsop.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129034908id_/http%3A//popsop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popsop.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206045438id_/http%3A//popsop.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – POPSOP | Consumer Insight, Ethical Marketing, Design & Creativity
+# Privacy Policy – POPSOP | Consumer Insight, Sustainability & Design
 
 **General Statement**
 
@@ -24,5 +24,5 @@ Popsop might provide links to third-party websites. Since we do not own or contr
 
 Popsop reserves the right to change this privacy policy at any time by publishing the changes on this page.
 
-If you have any questions regarding Popsop Privacy Policy, please contact Kate Belan at **[media@popsop.com](mailto:media@popsop.com).  
+If you have any questions regarding Popsop Privacy Policy, please contact us at **[media@popsop.com](mailto:media@popsop.com).  
 **
