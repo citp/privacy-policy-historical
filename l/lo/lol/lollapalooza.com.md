@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lollapalooza.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607210152id_/http%3A//www.lollapalooza.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lollapalooza.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114153id_/http%3A//www.lollapalooza.com/privacy) for the most accurate reproduction.*
 
-# Privacy & Security | Lollapalooza 2015
+# Privacy & Security | Lollapalooza
 
 #### UPDATED: NOVEMBER 21, 2013
 
@@ -42,9 +42,9 @@ When you register on this site, we may sell, share, or rent your personally iden
 
 C3 uses Customer Information to enhance your use of the C3 services by processing such information for various purposes, including providing information to you about C3′s products and services, formatting and displaying elements of Contact Data and Message Data to you and to those whom you send messages, delivering advertisements and related links, storing your messages, and other purposes relating to offering you C3 products and services. C3 uses non-identifying and aggregate information to better design the Website and to share with advertisers and Festival-related affiliates and sponsors. C3 also may use IP addresses to analyze trends, administer the Site, track user movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
-C3 may engage a third party to perform functions on C3′s behalf, such as sending newsletters, sending requested postal mail and e-mail and SMS communications, analyzing and processing data, and providing customer service. C3 requires that these parties agree to use such information in a confidential manner and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures. These third parties may have access to Personal Information needed to perform their functions, but C3 will not authorize them to use it for other purposes. For more information on third parties please see Section 7 Onward Transfer to Third Parties or [click here](https://web.archive.org/legal-test/#section-7).
+C3 may engage a third party to perform functions on C3′s behalf, such as sending newsletters, sending requested postal mail and e-mail and SMS communications, analyzing and processing data, and providing customer service. C3 requires that these parties agree to use such information in a confidential manner and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures. These third parties may have access to Personal Information needed to perform their functions, but C3 will not authorize them to use it for other purposes. For more information on third parties please see Section 7 Onward Transfer to Third Parties or click here.
 
-If C3 desires to use Personal Information for any purposes other than those described in this Privacy Policy, C3 will offer you the opportunity to opt out of such use of your Personal Information for those other purposes. For more information on how to opt out please see Section 6 Choice/Opt Out or [click here](https://web.archive.org/legal-test/#section-6).
+If C3 desires to use Personal Information for any purposes other than those described in this Privacy Policy, C3 will offer you the opportunity to opt out of such use of your Personal Information for those other purposes. For more information on how to opt out please see Section 6 Choice/Opt Out or click here.
 
 ### 3\. PURCHASE ORDER FORM
 
