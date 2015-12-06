@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emarketingassociation.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607042152id_/http%3A//emarketingassociation.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emarketingassociation.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206142451id_/http%3A//www.emarketingassociation.com/privacy-policy.html) for the most accurate reproduction.*
 
 # The eMarketing Association - founded in 1999
 
