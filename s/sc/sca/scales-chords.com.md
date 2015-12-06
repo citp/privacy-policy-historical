@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scales-chords.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193602id_/http%3A//www.scales-chords.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scales-chords.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206112609id_/http%3A//www.scales-chords.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Our policy is very private. Learn about the www.scales-chords.com privacy policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by using our [contact form](https://web.archive.org/web/20150607193602id_/http%3A//www.scales-chords.com/contact.php). 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by using our [contact form](https://web.archive.org/web/20151206112609id_/http%3A//www.scales-chords.com/contact.php). 
 
 At www.scales-chords.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.scales-chords.com and how it is used.
 
@@ -12,7 +12,11 @@ Like many other Web sites, www.scales-chords.com makes use of log files. The inf
 
 **Cookies and Web Beacons**
 
-www.scales-chords.com does use cookies but only on pages with forms with the sole purpose to remember earlier user inputs when the user goes back to that same form. 
+www.scales-chords.com uses cookies to personalize content, enable website memory on forms, personalize ads, integrate with social media and to record statistics about the use of our site. We share some of this information with our ads, statistics and social media partners.
+
+We use Google Products for Ads, Statistics and Social Media. You can learn more of Google's use of cookies [here](http://www.google.com/intl/en/policies/privacy/partners/)
+
+We also integrate with facebook.
 
 **DoubleClick DART Cookie**
 
