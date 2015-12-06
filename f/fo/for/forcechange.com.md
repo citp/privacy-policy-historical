@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the forcechange.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144926id_/http%3A//forcechange.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forcechange.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141413id_/http%3A//forcechange.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ForceChange
 
-Black Bear Media, a Limited Liability Company, (“the Company”, “we”, “ForceChange” or “us”) has established this privacy policy to explain to you how your information on ForceChange is protected, collected and used, which may be updated by us from time to time.
+We (“the Company”, “we”, “ForceChange”, “Black Bear Media,” “Limited Liability Company”, or “us”) are a limited liability company and have established this privacy policy to explain to you how your information on ForceChange is protected, collected and used, which may be updated by us from time to time.
 
 Protecting your privacy
 
