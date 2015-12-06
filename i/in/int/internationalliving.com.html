@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the internationalliving.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607152537id_/http%3A//internationalliving.com/about-il/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the internationalliving.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206164018id_/http%3A//internationalliving.com/about-il/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" no-js" lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><!--<![endif]--><head>
-	<meta charset="UTF-8">
+	<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script id="facebook-jssdk" src="http://connect.facebook.net/en_US/all.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WG2J9S"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAAFVlJSGwABU1FWAAU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="apple-mobile-web-app-title" content="Add to Home">
 
@@ -19,7 +19,7 @@
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="http://internationalliving.com/wp/xmlrpc.php">
 	<!-- Click to Chat -->
-<script id="facebook-jssdk" src="http://connect.facebook.net/en_US/all.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript" src="https://chat.tccmaryland.com/ilv/SightMaxAgentInterface/sightmax.smjs?aq1=20&amp;accountID=1&amp;siteID=16&amp;queueID=19&amp;jquery=True&amp;json=True&amp;v=0"></script>
+<script type="text/javascript" src="https://chat.tccmaryland.com/ilv/SightMaxAgentInterface/sightmax.smjs?aq1=20&amp;accountID=1&amp;siteID=16&amp;queueID=19&amp;jquery=True&amp;json=True&amp;v=0"></script>
 	<!-- Pingdom RUM script -->
 <script>
 var _prum = [['id', '55448671abe53de01ddaca00'],
@@ -33,7 +33,7 @@ var _prum = [['id', '55448671abe53de01ddaca00'],
 })();
 </script>
 	
-<!-- This site is optimized with the Yoast WordPress SEO Premium plugin v2.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO Premium plugin v2.3.5 - https://yoast.com/wordpress/plugins/seo/ -->
 <title>Privacy Policy - International Living Policies</title>
 <meta name="description" content="Privacy Policy; We take our commitment to protecting the privacy and security of our website users very seriously. We will never intentionally disclose ...">
 <link rel="canonical" href="http://internationalliving.com/about-il/privacy-policy/">
@@ -42,16 +42,15 @@ var _prum = [['id', '55448671abe53de01ddaca00'],
 <meta name="twitter:description" content="Privacy Policy; We take our commitment to protecting the privacy and security of our website users very seriously. We will never intentionally disclose ...">
 <meta name="twitter:title" content="Privacy Policy - International Living Policies">
 <meta name="twitter:site" content="@inliving">
-<meta name="twitter:image:src" content="http://internationalliving.com/wp-content/uploads/2011/08/ILguaranteeseal2_web.gif">
+<meta name="twitter:image" content="/wp-content/uploads/2011/08/ILguaranteeseal2_web.gif">
 <meta name="twitter:creator" content="@admin">
-<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/internationalliving.com\/","name":""}</script>
-<!-- / Yoast WordPress SEO Premium plugin. -->
+<!-- / Yoast SEO Premium plugin. -->
 
 <link rel="dns-prefetch" href="//connect.facebook.net">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/internationalliving.com\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/internationalliving.com\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
 			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://internationalliving.com/wp/wp-includes/js/wp-emoji-release.min.js?ver=4.2.2" type="text/javascript"></script>
+		</script><script src="http://internationalliving.com/wp/wp-includes/js/wp-emoji-release.min.js?ver=4.3.1" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -66,96 +65,51 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="shortcodes-css" href="http://internationalliving.com/wp-content/plugins/il-shortcodes/css/shortcodes.css?ver=4.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="myStyleSheets-css" href="http://internationalliving.com/wp-content/plugins/il-signatures/css/sigs.css?ver=4.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="mediaelement-css" href="http://internationalliving.com/wp/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.16.2" type="text/css" media="all">
-<link rel="stylesheet" id="wp-mediaelement-css" href="http://internationalliving.com/wp/wp-includes/js/mediaelement/wp-mediaelement.css?ver=4.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="cf-editable-css-css" href="http://internationalliving.com/wp-content/themes/international-living/custom.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="shortcodes-css" href="http://internationalliving.com/wp-content/plugins/il-shortcodes/css/shortcodes.css?ver=4.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="myStyleSheets-css" href="http://internationalliving.com/wp-content/plugins/il-signatures/css/sigs.css?ver=4.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="mediaelement-css" href="http://internationalliving.com/wp/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.17.0" type="text/css" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="http://internationalliving.com/wp/wp-includes/js/mediaelement/wp-mediaelement.css?ver=4.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="cf-editable-css-css" href="http://internationalliving.com/wp-content/themes/international-living/custom.css?ver=4.3.1" type="text/css" media="all">
 <link rel="stylesheet" id="fbComments_hideWpComments-css" href="http://internationalliving.com/wp-content/plugins/facebook-comments-for-wordpress/css/facebook-comments-hidewpcomments.css?ver=3.1.3" type="text/css" media="all">
-<link rel="stylesheet" id="fbc_rc_widgets-style-css" href="http://internationalliving.com/wp-content/plugins/facebook-comments-for-wordpress/css/facebook-comments-widgets.css?ver=4.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="bbp-default-css" href="http://internationalliving.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.3-5249" type="text/css" media="screen">
-<link rel="stylesheet" id="contact-form-7-css" href="http://internationalliving.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.8.1" type="text/css" media="all">
-<link rel="stylesheet" id="foobox-min-css" href="http://internationalliving.com/wp-content/plugins/fooboxV2/css/foobox.min.css?ver=2.3.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="gss_css-css" href="http://internationalliving.com/wp-content/plugins/gallery-slideshow/gss.css?ver=4.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="wpProQuiz_front_style-css" href="http://internationalliving.com/wp-content/plugins/wp-pro-quiz/css/wpProQuiz_front.min.css?ver=0.34" type="text/css" media="all">
+<link rel="stylesheet" id="fbc_rc_widgets-style-css" href="http://internationalliving.com/wp-content/plugins/facebook-comments-for-wordpress/css/facebook-comments-widgets.css?ver=4.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="bbp-default-css" href="http://internationalliving.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.8-5815" type="text/css" media="screen">
+<link rel="stylesheet" id="category-posts-css" href="http://internationalliving.com/wp-content/plugins/category-posts/cat-posts.css?ver=4.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://internationalliving.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.3" type="text/css" media="all">
+<link rel="stylesheet" id="gss_css-css" href="http://internationalliving.com/wp-content/plugins/gallery-slideshow/gss.css?ver=4.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="wpProQuiz_front_style-css" href="http://internationalliving.com/wp-content/plugins/wp-pro-quiz/css/wpProQuiz_front.min.css?ver=0.37" type="text/css" media="all">
 <link rel="stylesheet" id="styles-css" href="http://internationalliving.com/wp-content/themes/international-living/assets/css/style.css?ver=0.1" type="text/css" media="all">
 <link rel="stylesheet" id="forums-styles-css" href="http://internationalliving.com/wp-content/themes/international-living/assets/css/content.css?ver=0.1" type="text/css" media="all">
 <link rel="stylesheet" id="fancybox_styles-css" href="http://internationalliving.com/wp-content/themes/international-living/assets/js/fancybox/jquery.fancybox-1.3.4.css?ver=0.1" type="text/css" media="all">
-<script type="text/javascript" src="http://internationalliving.com/wp/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
+<link rel="stylesheet" id="compostyle-css" href="http://internationalliving.com/wp-content/plugins/il-votes/assets/css/competition.css?ver=4.3.1" type="text/css" media="all">
+<script type="text/javascript" src="http://internationalliving.com/wp/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
 <script type="text/javascript" src="http://internationalliving.com/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://internationalliving.com/?cf_action=il_js&amp;ver=4.2.2"></script>
-<script type="text/javascript" src="http://internationalliving.com/wp-content/plugins/il-mobile_pop/js/jquery-cookie/jquery.cookie.js?ver=4.2.2"></script>
-<script type="text/javascript" src="http://internationalliving.com/wp-content/plugins/powerpress/player.min.js?ver=4.2.2"></script>
-<script type="text/javascript" src="http://internationalliving.com/wp-content/plugins/powerpress/powerpress-mejs.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://internationalliving.com/?cf_action=il_js&amp;ver=4.3.1"></script>
+<script type="text/javascript" src="http://internationalliving.com/wp-content/plugins/il-mobile_pop/js/jquery-cookie/jquery.cookie.js?ver=4.3.1"></script>
+<script type="text/javascript" src="http://internationalliving.com/wp-content/plugins/powerpress/player.min.js?ver=4.3.1"></script>
 <script type="text/javascript" src="http://internationalliving.com/wp/?cfct_action=cfct_js&amp;ver=1.3.4b1"></script>
 <script type="text/javascript" src="http://internationalliving.com/wp-content/themes/international-living/carrington-build/modules/carousel/js/jquery.cycle.js?ver=1.0"></script>
 <script type="text/javascript" src="http://internationalliving.com/wp-content/plugins/gallery-slideshow/jquery.cycle2.min.js?ver=2.1.3"></script>
 <script type="text/javascript" src="http://internationalliving.com/wp-content/plugins/gallery-slideshow/jquery.cycle2.center.min.js?ver=v20140128"></script>
 <script type="text/javascript" src="http://internationalliving.com/wp-content/plugins/gallery-slideshow/jquery.cycle2.carousel.min.js?ver=v20140114"></script>
-<script type="text/javascript" src="http://internationalliving.com/wp-content/plugins/gallery-slideshow/gss.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://internationalliving.com/wp-content/plugins/gallery-slideshow/gss.js?ver=4.3.1"></script>
 <script type="text/javascript" src="http://internationalliving.com/wp-content/themes/international-living/assets/js/browser-selector.js?ver=0.1"></script>
 <script type="text/javascript" src="http://internationalliving.com/wp-content/themes/international-living/assets/js/modernizr-2.6.2.min.js?ver=0.1"></script>
 <script type="text/javascript" src="http://internationalliving.com/wp-content/themes/international-living/assets/js/jquery.placeholder.min.js?ver=0.1"></script>
 <script type="text/javascript" src="http://internationalliving.com/wp-content/themes/international-living/assets/js/fancybox/jquery.fancybox-1.3.4.js?ver=0.1"></script>
 <script type="text/javascript" src="http://internationalliving.com/wp-content/themes/international-living/assets/js/jquery.cookie.js?ver=0.1"></script>
 <script type="text/javascript" src="http://internationalliving.com/wp-content/themes/international-living/assets/js/script.js?ver=0.1"></script>
-<script type="text/javascript" src="http://internationalliving.com/wp-content/plugins/fooboxV2/js/foobox.min.js?ver=2.3.1.1"></script>
-<script type="text/javascript" src="http://internationalliving.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.4.7.3"></script>
-<meta name="generator" content="WordPress 4.2.2">
-<script type="text/javascript">/* Run FooBox (v2.3.1.1) */
-(function( FOOBOX, $, undefined ) {
-  FOOBOX.o = {theme: "fbx-dark", wordpress: { enabled: true }, deeplinking : { enabled: true, prefix: "foobox" }, hideScrollbars:false, closeOnOverlayClick:false, showCount:false, images: { showCaptions:false }, excludes:'.fbx-link,.nofoobox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }, slideshow: { enabled:false }, social: { enabled: false }};
-  FOOBOX.init = function() {
-    $(".fbx-link").removeClass("fbx-link");
-    $(".foobox, [target=\"foobox\"]").foobox(FOOBOX.o);
-    $("a:has(img[class*=wp-image-])").foobox(FOOBOX.o);
-
-  };
-}( window.FOOBOX = window.FOOBOX || {}, jQuery ));
-
-jQuery(function() {
-  //preload the foobox font
-  jQuery("body").append("<span style=\"font-family:'foobox'; color:transparent; position:absolute; top:-1000em;\">f</span>");
-  FOOBOX.init();
-  jQuery(document).trigger("foobox-after-init");
-
-});
-</script><script type="text/javascript"><!--
-function powerpress_pinw(pinw){window.open('http://internationalliving.com/?powerpress_pinw='+pinw, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
-powerpress_url = 'http://internationalliving.com/wp-content/plugins/powerpress/';
+<meta name="generator" content="WordPress 4.3.1">
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
 //-->
 </script>
-<meta property="og:type" content="website">
+<meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="fb:app_id" content="198583186843370">
 <meta property="og:url" content="http://internationalliving.com/about-il/privacy-policy/">
-<meta property="og:title" content="Privacy Policy">
-<!-- Google Analytics Tracking by Google Analyticator 6.4.7.3: http://www.videousermanuals.com/google-analyticator/ -->
-<script type="text/javascript">
-                var analyticsFileTypes = ['pdf',' mp4',' mp3',' avi'];
-                            var analyticsSnippet = 'enabled';
-                var analyticsEventTracking = 'enabled';
-            </script>
-<script type="text/javascript">
-	var _gaq = _gaq || [];
-  
-	_gaq.push(['_setAccount', 'UA-7074272-1']);
-    _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google
-	var pluginUrl = 
- '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-_gaq.push(['_setDomainName', 'internationalliving.com']);
-	_gaq.push(['_trackPageview']);
-
-	(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		                ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-                                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
-</script>
-<style type="text/css">
-.fbx-rounded .fbx-inner {border: solid 4px  #ffdd2c;}
-</style>	<!--[if IE 8]>   
+<meta property="og:title" content="Privacy Policy - International Living Policies">
+<meta property="og:description" content="Privacy Policy; We take our commitment to protecting the privacy and security of our website users very seriously. We will never intentionally disclose ...">
+	<!--[if IE 8]>   
 	<script src="/wp-content/themes/international-living/assets/js/respond.min.js" type="text/javascript"></script>
 	<![endif]-->
 		<script type="text/javascript">var switchTo5x=true;</script>
@@ -194,6 +148,15 @@ var google_remarketing_only = true;
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1069017566/?value=0&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WG2J9S"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WG2J9S');</script>
+<!-- End Google Tag Manager -->
 
 
 
@@ -211,7 +174,7 @@ var google_remarketing_only = true;
 	</ul>
 </div><!-- #font-size-controller -->
 			<div id="tertiary-nav">
-				<a id="subscribe-msg" href="http://pro1.internationalliving.com/335525" target="_blank">Subscribe Now &amp; Save Up To 36%</a>
+				<a id="subscribe-msg" href="http://pro1.internationalliving.com/335525" target="_blank">Subscribe Now &amp; Save Up To 35%</a>
 				<ul id="header-tabs">
 					<li class="active"><a href="#browse">Browse Content</a></li>
 					<li><a href="#search">Search Website</a></li>
@@ -241,6 +204,7 @@ var google_remarketing_only = true;
 							<option value="anguilla">Anguilla</option>
 							<option value="antigua">Antigua and Barbuda</option>
 							<option value="argentina">Argentina</option>
+							<option value="armenia">Armenia</option>
 							<option value="aruba">Aruba</option>
 							<option value="asia-2">Asia</option>
 							<option value="australia">Australia</option>
@@ -259,6 +223,7 @@ var google_remarketing_only = true;
 							<option value="bulgaria">Bulgaria</option>
 							<option value="burma">Burma</option>
 							<option value="cambodia">Cambodia</option>
+							<option value="canada-3">Canada</option>
 							<option value="caribbean">Caribbean</option>
 							<option value="cayman-islands">Cayman Islands</option>
 							<option value="chile">Chile</option>
@@ -365,6 +330,7 @@ var google_remarketing_only = true;
 							<option value="suriname">Suriname</option>
 							<option value="sweden">Sweden</option>
 							<option value="switzerland">Switzerland</option>
+							<option value="taiwan">Taiwan</option>
 							<option value="tanzania">Tanzania</option>
 							<option value="thailand">Thailand</option>
 							<option value="the-u-s-virgin-islands">The U.S. Virgin Islands</option>
@@ -389,7 +355,7 @@ var google_remarketing_only = true;
 					</li>
 					<li id="search">
 						<form class="clearfix searchform" id="search" action="http://internationalliving.com/" method="GET" onsubmit="location.href=this.action+'search/'+encodeURIComponent(this.s.value).replace(/%20/g, '+'); return false;">
-	<input type="text" id="s-55745e2de4eb7" class="s" name="s" value="" placeholder="Search">
+	<input type="text" id="s-5664608a40dba" class="s" name="s" value="" placeholder="Search">
 	<button type="submit" class="searchsubmit">Go</button>
 </form>					</li>
 				</ul>
@@ -440,8 +406,8 @@ var google_remarketing_only = true;
 				<div class="placeholder-login">
 					<div id="login">
 						<h1>Subscriber Login</h1>
-<p>Sign in to access your subscriptions and subscriber-only content.</p>
-<form method="post" action="http://internationalliving.com/about-il/privacy-policy/" name="member_login" class="member_login">
+<p style="min-width: 400px;">Sign in to access your subscriptions and subscriber-only content.</p>
+<form method="post" action="http://internationalliving.com/wp/wp-login.php" name="member_login" class="member_login">
 	<div>
 		<label for="log">Username</label>
 		<input type="text" name="log" id="log" value="" size="14">
@@ -452,6 +418,7 @@ var google_remarketing_only = true;
 	</div>
 	<input type="hidden" name="cf_login_action" value="login">
 	<input type="hidden" name="cf_form_name" value="main">
+	<input type="hidden" name="is_widget" value="true">
 	<input type="hidden" name="redirect_to" value="/about-il/privacy-policy/">
 	<button type="submit" class="custom">Log In</button>
 	<ul class="login_help">
@@ -484,7 +451,6 @@ var google_remarketing_only = true;
 			</div></div><div id="cfct-block-836ada5c3a4ccfd1f6d23c18059c217f" class="c9-12 cfct-block">
 			<div class="cfct-module cfct-widget-module-nav_menu">
 				<div class="cfct-mod-content"><div id="nav_menu-cfct-module-baf16d182c734c11f5f025706efd2dc9" class="widget widget_nav_menu"><h2 class="widget-title"><span>&nbsp;</span></h2><div class="menu-about-mega-menu-col-3-container"><ul id="menu-about-mega-menu-col-3" class="menu"><li id="menu-item-557602" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-159476 current_page_item menu-item-557602 page_item page-item-159476"><a href="http://internationalliving.com/about-il/privacy-policy/">Privacy Policy</a></li>
-<li id="menu-item-557604" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-557604 post_item post-item-194667"><a href="http://internationalliving.com/2010/02/syndication-2/">Syndication</a></li>
 <li id="menu-item-557605" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-557605 post_item post-item-213233"><a href="http://internationalliving.com/2010/07/social-media-forum-posting-policy/">Social Media Policy</a></li>
 <li id="menu-item-557606" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-557606 page_item page-item-240171"><a href="http://internationalliving.com/connect-to-international-living/">Follow us on Facebook and Twitter</a></li>
 <li id="menu-item-560694" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-560694 custom_item custom-item-560694"><a href="/2007/01/readers-bill-of-rights/">Reader’s Bill of Rights</a></li>
@@ -503,7 +469,7 @@ var google_remarketing_only = true;
 <p>In <i>International Living’s</i> monthly magazine, you’ll find out about everything from adventures in Panama to the best buys on the Paris property market…from how to open a bank account in your new country of residence to how to get the best deal on your next airfare…and lots more besides. </p>
 <p>We’re continually on the move in search of paradise and as a subscriber, you’ll hear about the best opportunities from around the world first.</p>
 
-<a href="http://pro1.internationalliving.com/341504" target="_blank" class="btn-gold">Get Your Subscription Now</a>
+<a href="//pro1.internationalliving.com/341504" target="_blank" class="btn-gold">Get Instant Access</a>
 </div>
 			</div></div><div id="cfct-block-8c928cfe6a7176cb607e867a3e8837be" class="c5-8 cfct-block">
 			<div class="cfct-module cf-feature-loop free-to-read">
@@ -533,19 +499,19 @@ var google_remarketing_only = true;
 			<div class="cfct-module cf-feature-loop subscribers-only">
 				<h2 class="cfct-mod-title">This Month’s Issue</h2><div class="cfct-mod-content">
 	<div class="mw-feature-loop-post clearfix cf-feature-image-left">
-<div class="mw-feature-image"><img width="55" height="29" src="http://internationalliving.com/wp-content/uploads/2015/02/Page-10-11-Gallipoli-Italy-7-55x29.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="Page-10-11-Gallipoli-Italy-"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/articles/bargain-buys-in-apulia-italys-sun-kissed-south-mag-2015-3/">Bargain Buys in Apulia, Italy’s Sun-Kissed South </a></h2>
+<div class="mw-feature-image"><img width="55" height="32" src="http://internationalliving.com/wp-content/uploads/2015/09/Page-8-Roatan-Honduras--55x32.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="Page-8---Roatan-Honduras---"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/articles/sailing-into-retirement-on-caribbean-island-mag-2015-10/">Sailing into Retirement on Caribbean Island</a></h2>
 <p class="entry-meta">
 			</p>
 </div><div class="mw-feature-loop-post clearfix cf-feature-image-left">
-<div class="mw-feature-image"><img width="55" height="36" src="http://internationalliving.com/wp-content/uploads/2015/02/Page-13-Prague-Credit-1-55x36.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="Page-13---Prague---Credit--"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/articles/a-fairy-tale-retirement-in-old-world-europe-mag-2015-3/">A Fairy-Tale Retirement in Old-World Europe</a></h2>
+<div class="mw-feature-image"><img width="55" height="37" src="http://internationalliving.com/wp-content/uploads/2015/09/Page-10-11-Amboise-France-55x37.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="Page-10-11---Amboise-France"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/articles/affordable-homes-in-frances-valley-of-the-kings-mag-2015-10/">Affordable Homes in France’s Valley of the Kings</a></h2>
 <p class="entry-meta">
 			</p>
 </div><div class="mw-feature-loop-post clearfix cf-feature-image-left">
-<div class="mw-feature-image"><img width="55" height="29" src="http://internationalliving.com/wp-content/uploads/2015/02/Page-15-Cuenca-Ecuador-1-55x29.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="Page-15---Cuenca-Ecuador---"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/articles/low-cost-and-personal-the-pleasant-truth-about-health-care-in-ecuador-mag-2015-3/">Low-Cost and Personal: The Pleasant Truth about Health Care in Ecuador</a></h2>
+<div class="mw-feature-image"><img width="55" height="37" src="http://internationalliving.com/wp-content/uploads/2015/09/Page-12-13-San-Pedro-Beli-55x37.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="Page-12-13---San-Pedro-Beli"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/articles/managing-your-money-when-you-retire-overseas-mag-2015-10/">Managing Your Money When You Retire Overseas</a></h2>
 <p class="entry-meta">
 			</p>
 </div><div class="mw-feature-loop-post clearfix cf-feature-image-left">
-<div class="mw-feature-image"><img width="55" height="41" src="http://internationalliving.com/wp-content/uploads/2015/02/Page-16-17-Pereira-Colomb1-55x41.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="Page-16-17---Pereira-Colomb"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/articles/the-stylish-pearl-of-colombias-coffee-region-mag-2015-3/">The Stylish Pearl of Colombia’s Coffee Region</a></h2>
+<div class="mw-feature-image"><img width="55" height="41" src="http://internationalliving.com/wp-content/uploads/2015/09/Page-15-Akumal-Mexico-C1-55x41.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="Page-15---Akumal-Mexico---C"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/articles/a-perfect-lifestyle-as-a-snowbird-mag-2015-10/">A Perfect Lifestyle as a Snowbird</a></h2>
 <p class="entry-meta">
 			</p>
 </div></div>
@@ -561,15 +527,15 @@ var google_remarketing_only = true;
 			<div class="cfct-module cf-feature-loop">
 				<h2 class="cfct-mod-title">International Living Postcards</h2><div class="cfct-mod-content">
 	<div class="mw-feature-loop-post clearfix cf-feature-image-left">
-<div class="mw-feature-image"><img width="55" height="41" src="http://internationalliving.com/wp-content/uploads/2015/07/coco-55x41.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="Playa del Coco"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/06/living-the-beach-life-on-the-pacific-coast-of-costa-rica/">Living the Beach Life on the Pacific Coast of Costa Rica</a></h2>
+<div class="mw-feature-image"><img width="55" height="37" src="http://internationalliving.com/wp-content/uploads/2015/12/Taipei-55x37.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="Taiwan"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/12/modernity-and-tradition-in-taipei-taiwans-capital/">Modernity and Tradition in Taipei, Taiwan's Capital</a></h2>
 <p class="entry-meta">
 			</p>
 </div><div class="mw-feature-loop-post clearfix cf-feature-image-left">
-<div class="mw-feature-image"><img width="55" height="41" src="http://internationalliving.com/wp-content/uploads/2015/06/Placencia-2-55x41.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="Placencia"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/06/a-fun-retirement-in-belizes-placencia-peninsula/">A Fun Retirement in Belize’s Placencia Peninsula</a></h2>
+<div class="mw-feature-image"><img width="55" height="41" src="http://internationalliving.com/wp-content/uploads/2015/12/Bangkok1-55x41.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="Bangkok"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/12/explore-bangkoks-vast-weekend-market/">Explore Bangkok’s Vast Weekend Market</a></h2>
 <p class="entry-meta">
 			</p>
 </div><div class="mw-feature-loop-post clearfix cf-feature-image-left">
-<div class="mw-feature-image"><img width="55" height="39" src="http://internationalliving.com/wp-content/uploads/2015/06/jaco-55x39.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="jaco"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/06/escape-the-rocking-chair-retirement-in-costa-rica/">Escape the "Rocking Chair" Retirement in Costa Rica</a></h2>
+<div class="mw-feature-image"><img width="55" height="37" src="http://internationalliving.com/wp-content/uploads/2015/12/Lubin-Poland-55x37.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="Poland"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/12/forests-and-fairytale-towns-on-polands-wild-frontier/">Forests and Fairytale Towns on Poland's Wild Frontier</a></h2>
 <p class="entry-meta">
 			</p>
 </div></div>
@@ -590,19 +556,19 @@ var google_remarketing_only = true;
 			<div class="cfct-module cf-feature-loop">
 				<h2 class="cfct-mod-title">Editor’s Choice</h2><div class="cfct-mod-content">
 	<div class="mw-feature-loop-post clearfix cf-feature-image-left">
-<div class="mw-feature-image"><img width="55" height="38" src="http://internationalliving.com/wp-content/uploads/2015/05/Matagalpa-55x38.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="Matagalpa"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/05/retire-10-years-early-to-matagalpa-nicaragua/">Retire 10 Years Early to Matagalpa, Nicaragua</a></h2>
+<div class="mw-feature-image"><img width="55" height="38" src="http://internationalliving.com/wp-content/uploads/2015/11/andalucia-55x38.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="andalucia"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/11/i-swapped-teeming-l-a-for-a-quiet-life-in-small-town-spain/">I Swapped Teeming L.A. For a Quiet Life in Small-Town Spain</a></h2>
 <p class="entry-meta">
 			</p>
 </div><div class="mw-feature-loop-post clearfix cf-feature-image-left">
-<div class="mw-feature-image"><img width="55" height="38" src="http://internationalliving.com/wp-content/uploads/2015/05/panama1-55x38.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="panama"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/05/we-can-afford-adventures-because-we-retired-to-panama/">We Can Afford Adventures Because We Retired to Panama</a></h2>
+<div class="mw-feature-image"><img width="55" height="38" src="http://internationalliving.com/wp-content/uploads/2015/11/Manta-ecuador-55x38.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="Manta,-ecuador"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/11/we-feel-right-at-home-in-this-sunny-ecuadorian-city/">We Feel Right at Home in This Sunny Ecuadorian City</a></h2>
 <p class="entry-meta">
 			</p>
 </div><div class="mw-feature-loop-post clearfix cf-feature-image-left">
-<div class="mw-feature-image"><img width="55" height="38" src="http://internationalliving.com/wp-content/uploads/2015/05/Chiang-Mai-55x38.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="Chiang-Mai"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/05/healthcare-so-good-you-wont-believe-what-it-costs/">Healthcare So Good You Won’t Believe What It Costs</a></h2>
+<div class="mw-feature-image"><img width="55" height="38" src="http://internationalliving.com/wp-content/uploads/2015/11/monza-55x38.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="monza"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/11/rent-in-this-royal-italian-city-for-650-a-month/">Rent in This Royal Italian City for $650 a Month</a></h2>
 <p class="entry-meta">
 			</p>
 </div><div class="mw-feature-loop-post clearfix cf-feature-image-left">
-<div class="mw-feature-image"><img width="55" height="38" src="http://internationalliving.com/wp-content/uploads/2015/05/Vilcabamba-55x38.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="Vilcabamba"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/05/rent-in-ecuadors-eden-vilcabamba-for-600-or-less/">Rent in Ecuador’s Eden, Vilcabamba, For $600 or Less</a></h2>
+<div class="mw-feature-image"><img width="55" height="38" src="http://internationalliving.com/wp-content/uploads/2015/11/penang-55x38.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="penang"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/11/a-low-cost-sociable-retirement-in-penang/">A Low-Cost, Sociable Retirement in Penang</a></h2>
 <p class="entry-meta">
 			</p>
 </div></div>
@@ -613,7 +579,7 @@ var google_remarketing_only = true;
 <li id="menu-item-560675" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-560675 custom_item custom-item-560675"><a href="/world-rankings/">World Rankings</a></li>
 <li id="menu-item-562206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-562206 page_item page-item-549648"><a href="http://internationalliving.com/best-places-to-retire-overseas/">Best Places to Retire Overseas</a></li>
 <li id="menu-item-582685" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-582685 category_item category-item-844"><a href="http://internationalliving.com/category/video/">Video Postcards</a></li>
-<li id="menu-item-557617" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-557617 category_item category-item-145"><a href="http://internationalliving.com/category/expat-advice/health-care/">Health Care</a></li>
+<li id="menu-item-557617" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-557617 category_item category-item-145"><a href="http://internationalliving.com/category/expat-advice/health-care/">Healthcare</a></li>
 <li id="menu-item-560674" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-560674 custom_item custom-item-560674"><a href="/international-living-profiles/">Reader Profiles</a></li>
 <li id="menu-item-561709" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-561709 custom_item custom-item-561709"><a href="/real-estate/">Real Estate</a></li>
 <li id="menu-item-582684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-582684 page_item page-item-218624"><a href="http://internationalliving.com/radio/">International Living Radio</a></li>
@@ -645,9 +611,9 @@ var google_remarketing_only = true;
 			<div class="cfct-module cfct-widget-module-nav_menu">
 				<div class="cfct-mod-content"><div id="nav_menu-cfct-module-d3f051e5a4b14e58a543a41d58815168" class="widget widget_nav_menu"><h2 class="widget-title"><span>Locations Best For…</span></h2><div class="menu-locations-mega-menu-col-3-container"><ul id="menu-locations-mega-menu-col-3" class="menu"><li id="menu-item-604200" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-604200 custom_item custom-item-604200"><a href="/2015/01/the-best-places-to-retire-2015/">2015 Global Retirement Index</a></li>
 <li id="menu-item-557674" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-557674 page_item page-item-549648"><a href="http://internationalliving.com/best-places-to-retire-overseas/">Best Places to Retire</a></li>
-<li id="menu-item-562287" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-562287 category_item category-item-145"><a href="http://internationalliving.com/category/expat-advice/health-care/">Health Care</a></li>
+<li id="menu-item-562287" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-562287 category_item category-item-145"><a href="http://internationalliving.com/category/expat-advice/health-care/">Healthcare</a></li>
 <li id="menu-item-562209" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-562209 custom_item custom-item-562209"><a href="/2015/01/the-worlds-best-climate-the-top-3-countries/">Climate</a></li>
-<li id="menu-item-557679" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-557679 post_item post-item-248961"><a href="http://internationalliving.com/2012/04/the-cheapest-places-to-retire/">Cost of Living</a></li>
+<li id="menu-item-622664" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-622664 custom_item custom-item-622664"><a href="http://internationalliving.com/2015/06/the-cheapest-places-to-retire-five-towns-where-you-can-live-better-for-less/">Cost of Living</a></li>
 </ul></div></div></div>
 			</div></div></div>
 					</div>
@@ -656,31 +622,31 @@ var google_remarketing_only = true;
 <li id="menu-item-557594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-557594 page_item page-item-159353"><a href="http://internationalliving.com/real-estate/">Real Estate</a><div class="dropdown">
 
 					<div id="cfct-build-557554" class="cfct-build">
-						<div id="cfct-row-7b0bd5795ce36c747b25bdcf92b88c05" class="row-4-4-4 row cfct-row cfct-inrow-feature-loop cfct-inrow-html"><div id="cfct-block-234d60b1842cf5fac8877d5a6b51c256" class="c1-4 cfct-block">
+						<div id="cfct-row-7b0bd5795ce36c747b25bdcf92b88c05" class="row-4-4-4 row cfct-row cfct-inrow-html cfct-inrow-feature-loop"><div id="cfct-block-234d60b1842cf5fac8877d5a6b51c256" class="c1-4 cfct-block">
+			<div class="cfct-module cfct-html">
+				<div class="cfct-mod-content"><h2 class="widget-title">Free E-Letter</h2>
+<img src="/wp-content/uploads/2015/06/yoho.jpg" class="img-border">
+
+<p>Sign up for <em>International Living's</em> Free Your Own Home Overseas e-letter and receive a free special report: <em>International Living's</em> <strong>Insider Guide to Buying Real Estate Overseas</strong>.</p>
+
+<a href="/real-estate/" class="btn-gold">Click for Free Report</a></div>
+			</div></div><div id="cfct-block-6ca4185051694f3745eb855b446dd7bf" class="c5-8 cfct-block">
 			<div class="cfct-module cf-feature-loop">
 				<h2 class="cfct-mod-title">Real Estate Articles</h2><div class="cfct-mod-content">
 	<div class="mw-feature-loop-post clearfix cf-feature-image-left">
-<div class="mw-feature-image"><img width="55" height="40" src="http://internationalliving.com/wp-content/uploads/2015/05/Las-Terrenas-55x40.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="Las-Terrenas"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/05/earn-20000-a-year-from-this-home-in-paradise/">Earn $20,000 a Year From This Home in Paradise</a></h2>
+<div class="mw-feature-image"><img width="55" height="37" src="http://internationalliving.com/wp-content/uploads/2015/11/Salinas-55x37.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="Salinas"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/11/can-you-really-bag-a-beach-home-for-78000/">Can You Really Bag a Beach Home for $78,000?</a></h2>
 <p class="entry-meta">
 			</p>
 </div><div class="mw-feature-loop-post clearfix cf-feature-image-left">
-<div class="mw-feature-image"><img width="55" height="41" src="http://internationalliving.com/wp-content/uploads/2015/05/Lisbon-55x41.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="Lisbon"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/05/now-is-the-best-time-in-a-decade-to-buy-property-in-europe/">Now is the Best Time in a Decade to Buy Property in Europe</a></h2>
+<div class="mw-feature-image"><img width="55" height="38" src="http://internationalliving.com/wp-content/uploads/2015/08/Page-8-Pedasi-Panama-Credit-Jessica-Ramesch-55x38.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="Page-8---Pedasi,-Panama---Credit--Jessica-Ramesch"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/11/panama-how-a-condo-by-the-beach-could-make-you-123000/">Panama: How a Condo by the Beach Could Make You $123,000</a></h2>
 <p class="entry-meta">
 			</p>
 </div><div class="mw-feature-loop-post clearfix cf-feature-image-left">
-<div class="mw-feature-image"><img width="55" height="37" src="http://internationalliving.com/wp-content/uploads/2015/05/15795585688_3a043b7290_k-55x37.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="Panama"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/05/property-scouts-advice-dont-let-this-happen-to-you-overseas/">Property Scout’s Advice: Don’t Let This Happen to You Overseas</a></h2>
+<div class="mw-feature-image"><img width="55" height="41" src="http://internationalliving.com/wp-content/uploads/2015/10/iStock_000014312091_Small-55x41.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="Panama"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/11/where-to-buy-in-the-hong-kong-of-the-americas/">Where to Buy in the Hong Kong of the Americas</a></h2>
 <p class="entry-meta">
 			</p>
 </div></div>
 
-			</div></div><div id="cfct-block-6ca4185051694f3745eb855b446dd7bf" class="c5-8 cfct-block">
-			<div class="cfct-module cfct-html">
-				<div class="cfct-mod-content"><h2 class="widget-title">Free Report</h2>
-<p>Looking for help finding international real estate? <em>International Living</em> has 30 years of on the ground experience in the countries that we think are the biggest spots under the sun for retiring, investing and buying global real estate right now. </p>
-
-<p>Sign up for <em>International Living's</em> free daily postcard e-letter and receive a free special report: <em>International Living's</em> <strong>Insider Guide to Buying Real Estate Overseas</strong>.</p>
-
-<a href="/real-estate/" class="btn-gold">Click for Free Report</a></div>
 			</div></div><div id="cfct-block-18b5c14ffe0e93e325a54a9b1362e29e" class="c9-12 cfct-block">
 			<div class="cfct-module cfct-html">
 				<div class="cfct-mod-content"><h2 class="widget-title">Real Estate Trend Alert</h2>
@@ -696,29 +662,27 @@ var google_remarketing_only = true;
 					<div id="cfct-build-557551" class="cfct-build">
 						<div id="cfct-row-bdb0a5684fe97fe8d56848f6d76d57df" class="row-4-4-4 row cfct-row cfct-inrow-widget-ilupcomingevents cfct-inrow-feature-loop cfct-inrow-html"><div id="cfct-block-241d66eea60c6892ff57a3b9d3dc7dec" class="c1-4 cfct-block">
 			<div class="cfct-module cfct-widget-module-ilupcomingevents">
-				<div class="cfct-mod-content"><div id="ilupcomingevents-cfct-module-231dfd112f2ca81c4f78f89efe5f946d" class="widget widget_ilupcomingevents"><h2 class="widget-title"><span>			<a href="http://internationalliving.com/events/">Upcoming Events</a>
+				<div class="cfct-mod-content"><div id="ilupcomingevents-cfct-module-231dfd112f2ca81c4f78f89efe5f946d" class="widget widget_ilupcomingevents"><h2 class="widget-title"><span>			<a href="http://internationalliving.com/events/">Upcoming Conferences</a>
 			</span></h2>			<ul>
 							<li>
-					<img width="580" height="218" src="http://internationalliving.com/wp-content/uploads/2014/09/14721607071_11e02a901d_z-2.jpg" class="attachment-post-thumbnail wp-post-image" alt="14721607071_11e02a901d_z-(2)">					<div class="event-meta">
-						<h2 class="event-title"><a href="http://internationalliving.com/events/fast-track-costa-rica-lifestyle-opportunity-conference-2015/">Fast-Track Costa Rica: Lifestyle &amp; Opportunity Conference 2015</a></h2>
+					<img width="540" height="405" src="http://internationalliving.com/wp-content/uploads/2015/07/chiangMai.png" class="attachment-post-thumbnail wp-post-image" alt="chiangMai">					<div class="event-meta">
+						<h2 class="event-title"><a href="http://internationalliving.com/events/international-livings-2016-southeast-asia-tour/">International Living’s 2016 Southeast Asia Tour</a></h2>
 												<p class="event-dates">
-														<time datetime="2015-08-03">3rd</time> – <time datetime="2015-08-05">5th</time> August, 2015													</p>
+														<time datetime="2016-01-17">17th</time> – <time datetime="2016-01-28">28th</time> January, 2016													</p>
 											</div>
 					<div class="clearfix"></div>
 				</li>
 								<li>
-					<img width="300" height="250" src="http://internationalliving.com/wp-content/uploads/2015/06/tangible-banner-300-x-250-blue-3.png" class="attachment-post-thumbnail wp-post-image" alt="tangible-banner-300-x-250-blue (3)">					<div class="event-meta">
-						<h2 class="event-title"><a href="http://internationalliving.com/events/the-tangible-assets-tour-of-northern-europe/">The Tangible Assets Tour of Northern Europe</a></h2>
+					<img width="580" height="435" src="http://internationalliving.com/wp-content/uploads/2013/03/FYL_SoldOut.png" class="attachment-post-thumbnail wp-post-image" alt="FYL_SoldOut">					<div class="event-meta">
+						<h2 class="event-title"><a href="http://internationalliving.com/events/fast-track-panama-conference-2/">Fast-Track Panama: Lifestyle and Opportunity Conference</a></h2>
 												<p class="event-dates">
-														<time datetime="2015-08-24">24th Aug</time> – <time datetime="2015-09-02">2nd Sep</time>, 2015													</p>
+														<time datetime="2016-02-12">12th</time> – <time datetime="2016-02-14">14th</time> February, 2016													</p>
 											</div>
 					<div class="clearfix"></div>
 				</li>
 								<li>
-					<img width="580" height="435" src="http://internationalliving.com/wp-content/uploads/2015/01/Retirement.jpg" class="attachment-post-thumbnail wp-post-image" alt="Retirement">					<div class="event-meta">
-						<h2 class="event-title"><a href="http://internationalliving.com/events/fast-track-your-retirement-overseas-lifestyle-and-opportunity-conference-2015/">Fast Track Your Retirement Overseas: Lifestyle and Opportunity Conference 2015</a></h2>
-												<p class="event-dates">
-														<time datetime="2015-09-25">25th</time> – <time datetime="2015-09-27">27th</time> September, 2015													</p>
+					<img width="580" height="300" src="http://internationalliving.com/wp-content/uploads/2015/09/Africa-Banner-580x300-2-2.jpg" class="attachment-post-thumbnail wp-post-image" alt="Africa Banner 580x300 2 (2)">					<div class="event-meta">
+						<h2 class="event-title"><a href="http://internationalliving.com/events/great-escape-publishings-photography-tour-tanzania-africa/">Great Escape Publishing’s Photography Tour, Tanzania, Africa</a></h2>
 											</div>
 					<div class="clearfix"></div>
 				</li>
@@ -726,20 +690,20 @@ var google_remarketing_only = true;
 		</div></div>
 			</div>
 			<div class="cfct-module cfct-html">
-				<div class="cfct-mod-content"><a href="/events/" class="btn-gold">View All Events</a></div>
+				<div class="cfct-mod-content"><a href="/events/" class="btn-gold">View All Conferences</a></div>
 			</div></div><div id="cfct-block-6713fe53266d2ebe6d39aa417febd5ba" class="c5-8 cfct-block">
 			<div class="cfct-module cf-feature-loop">
 				<h2 class="cfct-mod-title">Conference Recordings</h2><div class="cfct-mod-content">
 	<div class="mw-feature-loop-post clearfix cf-feature-image-left">
-<div class="mw-feature-image"><img width="45" height="55" src="http://internationalliving.com/wp-content/uploads/2015/04/Panama-45x55.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="Panama"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/04/2015-fast-track-panama-package/">2015 Fast Track Panama Package</a></h2>
+<div class="mw-feature-image"><img width="55" height="35" src="http://internationalliving.com/wp-content/uploads/2015/11/Panama-village-centre-55x35.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="Panama village centre"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/11/2015-fund-your-life-overseas-package/">2015 Fund Your Life Overseas Package</a></h2>
 <p class="entry-meta">
 			</p>
 </div><div class="mw-feature-loop-post clearfix cf-feature-image-left">
-<div class="mw-feature-image"><img width="55" height="24" src="http://internationalliving.com/wp-content/uploads/2015/02/Quito-55x24.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="Quito"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/02/2015-fast-track-ecuador-package/">2015 Fast Track Ecuador Package</a></h2>
+<div class="mw-feature-image"><img width="55" height="41" src="http://internationalliving.com/wp-content/uploads/2015/09/CostaRicaSunSet-55x41.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="CostaRicaSunSet"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/10/2015-fast-track-your-retirement-overseas-package/">2015 Fast Track Your Retirement Overseas Package</a></h2>
 <p class="entry-meta">
 			</p>
 </div><div class="mw-feature-loop-post clearfix cf-feature-image-left">
-<div class="mw-feature-image"><img width="55" height="41" src="http://internationalliving.com/wp-content/uploads/2014/09/14390906975_1a90a1167a_z-2rs-55x41.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="14390906975_1a90a1167a_z-(2)rs"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/02/2014-fast-track-your-retirement-overseas-package-purchase/">2014 Fast-Track Your Retirement Overseas Package</a></h2>
+<div class="mw-feature-image"><img width="55" height="37" src="http://internationalliving.com/wp-content/uploads/2015/08/Costa-Rica-Beach-55x37.jpg" class="cfct-mod-image  featured-small cf-feature-image-left wp-post-image" alt="Costa-Rica-Beach"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/08/2015-fast-track-costa-rica-package/">2015 Fast Track Costa Rica Package</a></h2>
 <p class="entry-meta">
 			</p>
 </div></div>
@@ -787,23 +751,23 @@ If you'd like to learn more about flexible, work-anywhere ways you can pay for y
 			<div class="cfct-module cf-feature-loop free-to-read">
 				<h2 class="cfct-mod-title">Editor’s Choice</h2><div class="cfct-mod-content">
 	<div class="mw-feature-loop-post clearfix">
-<div class="mw-feature-image"><img width="55" height="28" src="http://internationalliving.com/wp-content/uploads/2013/08/photography-55x28.jpg" class="cfct-mod-image  featured-small wp-post-image" alt="photography"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/05/point-shoot-and-cash-in/">Point...Shoot...and Cash In</a></h2>
+<div class="mw-feature-image"><img width="55" height="41" src="http://internationalliving.com/wp-content/uploads/2015/07/fiji-55x41.jpg" class="cfct-mod-image  featured-small wp-post-image" alt="fiji"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/07/cash-in-on-the-latest-trends-in-vacation-rentals-fyl/">Cash in on the Latest Trends in Vacation Rentals</a></h2>
 <p class="entry-meta">
 			</p>
 </div><div class="mw-feature-loop-post clearfix">
-<div class="mw-feature-image"><img width="55" height="30" src="http://internationalliving.com/wp-content/uploads/2015/05/mexico-fyl-55x30.jpg" class="cfct-mod-image  featured-small wp-post-image" alt="Mexico"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/05/a-travel-income-that-pays-while-you-sleep-fyl/">A Travel Income that Pays While You Sleep</a></h2>
+<div class="mw-feature-image"><img width="55" height="38" src="http://internationalliving.com/wp-content/uploads/2015/07/girona-55x38.jpg" class="cfct-mod-image  featured-small wp-post-image" alt="girona"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/07/renting-from-450-a-month-on-a-spanish-island-fyl/">Renting from $450 a Month on a Spanish Island</a></h2>
 <p class="entry-meta">
 			</p>
 </div><div class="mw-feature-loop-post clearfix">
-<div class="mw-feature-image"><img width="55" height="41" src="http://internationalliving.com/wp-content/uploads/2015/05/roatan-55x41.jpg" class="cfct-mod-image  featured-small wp-post-image" alt="roatan"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/05/close-the-laptop-at-lunchtime-and-head-for-the-beach-fyl/">Close the Laptop at Lunchtime and Head for the Beach</a></h2>
+<div class="mw-feature-image"><img width="55" height="41" src="http://internationalliving.com/wp-content/uploads/2015/07/Ambergris-Caye-55x41.jpg" class="cfct-mod-image  featured-small wp-post-image" alt="Ambergris-Caye"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/07/health-well-being-and-a-beach-home-in-belize-fyl/">Health, Well-being, and a Beach Home in Belize</a></h2>
 <p class="entry-meta">
 			</p>
 </div><div class="mw-feature-loop-post clearfix">
-<div class="mw-feature-image"><img width="55" height="33" src="http://internationalliving.com/wp-content/uploads/2015/05/costa-rica-55x33.jpg" class="cfct-mod-image  featured-small wp-post-image" alt="costa-rica"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/05/freedom-travel-and-a-six-figure-income-fyl/">Freedom, Travel, and a Six-Figure Income</a></h2>
+<div class="mw-feature-image"><img width="55" height="41" src="http://internationalliving.com/wp-content/uploads/2015/07/Mexico-55x41.jpg" class="cfct-mod-image  featured-small wp-post-image" alt="Mexico"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/07/flight-simulators-photography-and-other-freelancing-benefits-fyl/">Flight Simulators, Photography, and Other Freelancing Benefits</a></h2>
 <p class="entry-meta">
 			</p>
 </div><div class="mw-feature-loop-post clearfix">
-<div class="mw-feature-image"><img width="55" height="41" src="http://internationalliving.com/wp-content/uploads/2015/05/Granadna-55x41.jpg" class="cfct-mod-image  featured-small wp-post-image" alt="Granada"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/05/travel-perks-and-a-money-making-blog/">Travel, Perks, and a Money-Making Blog</a></h2>
+<div class="mw-feature-image"><img width="55" height="38" src="http://internationalliving.com/wp-content/uploads/2015/06/Tamarindo-55x38.jpg" class="cfct-mod-image  featured-small wp-post-image" alt="Tamarindo"></div><h2 class="cfct-mod-title"><a href="http://internationalliving.com/2015/06/the-secret-that-costa-ricas-expats-share-fyl/">The Secret That Costa Rica's Expats Share</a></h2>
 <p class="entry-meta">
 			</p>
 </div></div>
@@ -825,9 +789,10 @@ If you'd like to learn more about flexible, work-anywhere ways you can pay for y
 	<li class="menu-item menu-item-type-custom menu-item-loginout-link"><a rel="nofollow" href="#login" class="fancybox loginout-link">User Sign In</a></li>
 			</ul></div>			</nav>
 			<div id="postcard-wrapper">
-				<h2>Live Better - for Less - Overseas</h2>
+			<!-- Loggged in check for which openx zone to display -->
+			<h2>Live Better - for Less - Overseas</h2>
 <div id="postcard">
-	<form id="form1" name="form1" method="post" action="http://signup.internationalliving.com/Content/SaveFreeSignups">
+	<form id="form1" name="form1" method="post" action="https://signup.internationalliving.com/Content/SaveFreeSignups">
 		<input type="email" name="email" placeholder="E-Mail Address">
 		<input name="dest" value="http://signup.internationalliving.com/Content/SaveFreeSignups" type="hidden">
 		<input name="bannerid" value="445" type="hidden"><input name="zoneid" value="122" type="hidden">
@@ -840,28 +805,38 @@ If you'd like to learn more about flexible, work-anywhere ways you can pay for y
 		<button type="submit">Get My Free Report</button>
 		<span>No Spam Pledge. We Value Your Privacy</span>
 	</form>
-	<p>Each day we uncover some of the most desirable -- and cheapest -- retirement havens on earth. Sign up for our <strong>free daily Postcard e-letter</strong> and we’ll immediately send you a FREE research report to help you <strong>find your perfect place to live better, for less, overseas</strong>.</p></div><!-- #postcard --><div id="beacon_bea01f5500" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://ads.internationalliving.com/www/delivery/lg.php?bannerid=299&amp;campaignid=90&amp;zoneid=33&amp;loc=1&amp;cb=bea01f5500" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>			</div><!-- #postcard-wrapper -->
+	<p>Each day we uncover some of the most desirable -- and cheapest -- retirement havens on earth. Sign up for our <strong>free daily Postcard e-letter</strong> and we’ll immediately send you a FREE research report to help you <strong>find your perfect place to live better, for less, overseas</strong>.</p></div><!-- #postcard --><div id="beacon_3bdbf65384" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://ads.internationalliving.com/www/delivery/lg.php?bannerid=299&amp;campaignid=90&amp;zoneid=33&amp;loc=1&amp;cb=3bdbf65384" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>			</div><!-- #postcard-wrapper -->
 		</header><!-- #masthead -->
-
 
 <section id="main" class="row clearfix">
 	<div id="primary" class="c1-8 bg-white">
 		<article id="post-159476" class="post-159476 page type-page status-publish hentry category-uncategorized">
 	<div class="entry-content">
-	<h1 class="page-title">Privacy Policy</h1>			<p><img class="alignright size-full wp-image-232711" src="http://internationalliving.com/wp-content/uploads/2011/08/ILguaranteeseal2_web.gif" alt="International Living’s Ironclad Guarantee" width="141" height="142">We take our commitment to protecting the privacy and security of our website users very seriously. We will never intentionally disclose personal information about you as an individual user, but please note that the Internet as a whole is not a secure forum. Exercise caution whenever disclosing information on any website.</p>
+	<h1 class="page-title">Privacy Policy</h1>			<p><img class="alignright size-full wp-image-232711" src="/wp-content/uploads/2011/08/ILguaranteeseal2_web.gif" alt="International Living’s Ironclad Guarantee" width="141" height="142">We take our commitment to protecting the privacy and security of our website users very seriously. We will never intentionally disclose personal information about you as an individual user, but please note that the Internet as a whole is not a secure forum. Exercise caution whenever disclosing information on any website.</p>
 <p>The information you provide is captured and processed on our behalf by our parent company, Agora Inc. Agora Inc. is based in Baltimore, MD. The U.S. has no comprehensive data protection law; however, Agora Inc. offers the same level of protection for your information, including the security of the database on which your information is stored and the privacy of your information, that we offer in Ireland.</p>
 <p>Personal information will not be shared at any time without your permission and we will only collect this information on a voluntary basis. If you volunteer your personal information, we may use it to send you special offers or to contact you with answers to any questions or concerns that you may have. Users may, however, choose to subscribe to a service in order to receive future offers and information from International Living.</p>
 <p>If you subscribe, you may receive e-mails from us introducing new products and services that we think will be of interest to you. Some may be from companies other than International Living.</p>
 <h2 class="bg-pull icon-list-before">Get Your Free Report on the Top 10 Retirement Havens Now</h2>
 <p style="color: #666666;">Sign up for our&nbsp;<strong>FREE report</strong>&nbsp;on the world’s top 10 Retirement Havens.</p>
 <p style="color: #666666;">Simply enter your e-mail below to subscribe to International Living’s free daily e-letter and we’ll immediately send your free report–<strong>The World’s Top 10 Retirement Havens</strong></p>
-<div class="ilsignup" style="box-shadow: none; background-image: none;">
-<h2 class="center">Get Your Free Report Here</h2>
-<form action="http://signup.internationalliving.com/Content/SaveFreeSignups" method="post" name="form1" target="_blank"><input id="email" name="email" type="email" placeholder="E-Mail Address"><input name="source" type="hidden" value="X120R309"><button type="submit">Sign Up</button></form>
-<div class="clearfix"></div>
-<div class="spam-pledge">No spam pledge. We value your privacy.</div>
-</div>
-<p style="text-align: center;"><a class="btn-gold" href="/lp/annual-global-retirement-index-2015/" target="_blank">Find Out More About Our Top 10 Retirement Havens Report Here</a></p>
+
+			<div class="ilsignup">
+				<h2 class="center">Get Your Free Report Here</h2>
+				<form name="form1" method="post" action="https://signup.internationalliving.com/Content/SaveFreeSignups" target="_blank"> 
+					<input name="listCode" value="ILPOSTCA" type="hidden">
+					<input name="redirect" value="" type="hidden">
+					<input name="email_page" value="" type="hidden">
+					<input name="email_from" value="International Living <webeditor@internationalliving.com>" type="hidden">
+					<input name="email_subject" value="Welcome to International Living Postcards" type="hidden">
+					<input type="email" name="email" id="email" placeholder="E-Mail Address">
+					<input name="source" value="X120R309" type="hidden">				
+					<button type="submit">Sign Up</button>
+				</form>
+				<div class="clearfix"></div>
+				<div class="spam-pledge">No spam pledge. We value your privacy.</div>
+			</div><br>
+		
+<p style="text-align: center;"><a class="btn-gold" href="https://signup.internationalliving.com/337240/retirement-index-2015/retirement-index-2015" target="_blank">Find Out More About Our Top 10 Retirement Havens Report Here</a></p>
 <hr>
 We reserve the right to use, without identifying you, any questions, comments, or other information that is submitted. We guarantee that we will keep your personal identification information confidential if your information is used in books, articles, or promotions.<p></p>
 <h2>Cookie Policy</h2>
@@ -878,31 +853,39 @@ We reserve the right to use, without identifying you, any questions, comments, o
 <h2 class="bg-pull icon-list-before">Get Your Free Report on the Top 10 Retirement Havens Now</h2>
 <p style="color: #666666;">Sign up for our&nbsp;<strong>FREE report</strong>&nbsp;on the world’s top 10 Retirement Havens.</p>
 <p style="color: #666666;">Simply enter your e-mail below to subscribe to International Living’s free daily e-letter and we’ll immediately send your free report–<strong>The World’s Top 10 Retirement Havens</strong></p>
-<div class="ilsignup" style="box-shadow: none; background-image: none;">
-<h2 class="center">Get Your Free Report Here</h2>
-<form action="http://signup.internationalliving.com/Content/SaveFreeSignups" method="post" name="form1" target="_blank"><input id="email" name="email" type="email" placeholder="E-Mail Address"><input name="source" type="hidden" value="X120R309"><button type="submit">Sign Up</button></form>
-<div class="clearfix"></div>
-<div class="spam-pledge">No spam pledge. We value your privacy.</div>
-</div>
-<p style="text-align: center;"><a class="btn-gold" href="/lp/annual-global-retirement-index-2015/" target="_blank">Find Out More About Our Top 10 Retirement Havens Report Here</a></p>
+
+			<div class="ilsignup">
+				<h2 class="center">Get Your Free Report Here</h2>
+				<form name="form1" method="post" action="https://signup.internationalliving.com/Content/SaveFreeSignups" target="_blank"> 
+					<input name="listCode" value="ILPOSTCA" type="hidden">
+					<input name="redirect" value="" type="hidden">
+					<input name="email_page" value="" type="hidden">
+					<input name="email_from" value="International Living <webeditor@internationalliving.com>" type="hidden">
+					<input name="email_subject" value="Welcome to International Living Postcards" type="hidden">
+					<input type="email" name="email" id="email" placeholder="E-Mail Address">
+					<input name="source" value="X120R309" type="hidden">				
+					<button type="submit">Sign Up</button>
+				</form>
+				<div class="clearfix"></div>
+				<div class="spam-pledge">No spam pledge. We value your privacy.</div>
+			</div><br>
+		
+<p style="text-align: center;"><a class="btn-gold" href="https://signup.internationalliving.com/337240/retirement-index-2015/retirement-index-2015" target="_blank">Find Out More About Our Top 10 Retirement Havens Report Here</a></p>
 	</div><!--.entry-content-->
 </article>	</div>
 	<div id="secondary" class="c9-12">
-	<aside id="text-27" class="widget clearfix widget_text">			<div class="textwidget"><a href="http://internationalliving.com/new-to-il-start-here/" class="btn-gold">New to IL? Start Here</a></div>
-		</aside>
-<aside id="cfsnip-widget-3" class="widget clearfix cfsnip-widget"><h2 class="widget-title"><span>Free Report &amp; E-letter</span></h2>
-<div class="widget-inl-email-signup-text safety clearfix">
-	<h3>
-		Retire Overseas Now
-	</h3>
+	<aside id="cfsnip-widget-3" class="widget clearfix cfsnip-widget"><div class="widget-inl-email-signup-text safety clearfix">
+	<h2>
+		<center>Retire Overseas Now</center>
+	</h2>
 	<p>
-		Sign up for our <strong>free daily Postcard e-letter</strong> and we'll immediately send you a FREE research report on the most desirable -- and cheapest -- retirement havens available to you today.
+		Sign up for our <strong>free daily Postcard e-letter</strong> and we'll immediately send you a FREE research report on the most desirable -- and cheapest -- retirement havens available to you today.</p>
 
-Each day you'll <strong>learn about the best places to retire, travel, buy real estate and enjoy life overseas</strong>.
+<p>Each day you'll <strong>learn about the best places to retire, travel, buy real estate and enjoy life overseas</strong>.
 	</p>
 </div>
 <div class="email-signup email-signup-3">
-	<form method="post" action="http://signup.internationalliving.com/Content/SaveFreeSignups">
+	<form method="post" action="https://signup.internationalliving.com/Content/SaveFreeSignups">
                                <input name="source" value="X120J505" type="hidden">
                                <input name="listCode" value="ILPOSTCA" type="hidden">
                                <input name="redirect" value="http://internationalliving.com/mainboxes-thankyou/" type="hidden">
@@ -914,7 +897,14 @@ Each day you'll <strong>learn about the best places to retire, travel, buy real 
                            <input name="email" id="email" size="18" type="text">
                            <input type="submit" class="button-yellow" value="Sign Up" onclick="javascript: _gaq.push(['_trackPageview', '/thankyou-alpha/']);"> <br>We value your privacy</div>
 					</form>
-</div><!--/email-signup--><div id="beacon_085b851e42" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://ads.internationalliving.com/www/delivery/lg.php?bannerid=283&amp;campaignid=90&amp;zoneid=34&amp;loc=1&amp;cb=085b851e42" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></aside>
+</div><!--/email-signup--><div id="beacon_c9c2404178" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://ads.internationalliving.com/www/delivery/lg.php?bannerid=283&amp;campaignid=90&amp;zoneid=34&amp;loc=1&amp;cb=c9c2404178" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></aside>
+<aside id="text-51" class="widget clearfix widget_text"><h2 class="widget-title"><span>International Living Magazine</span></h2>
+			<div class="textwidget"><img src="/wp-content/blogs.dir/1/files/2014/05/Magazine-Banner.jpg" class="img-border">
+<p>No other magazine covers the world like <em>International Living</em></p>
+<p>Searching for your "just right" place overseas? We'll show you the world's best retirement havens for — Free</p>
+<p><em>International Living's</em> Global Retirement Index - 25 countries, compared, contrasted, ranked and rated/</p>
+<a href="https://pro1.internationalliving.com/374711" target="_blank" class="btn-gold">Get Access Today</a></div>
+		</aside>
 <aside id="nav_menu-6" class="widget clearfix widget_nav_menu"><h2 class="widget-title"><span>Most Popular Articles</span></h2>
 <div class="menu-further-reading-sidebar-menu-container"><ul id="menu-further-reading-sidebar-menu" class="menu"><li id="menu-item-558112" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-558112 custom_item custom-item-558112"><a href="/best-places-to-retire-overseas/">Best Places to Retire Overseas</a></li>
 <li id="menu-item-558111" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-558111 custom_item custom-item-558111"><a href="/2010/02/the-worlds-best-climate/">The World’s Best Climate</a></li>
@@ -934,32 +924,32 @@ Each day you'll <strong>learn about the best places to retire, travel, buy real 
 			</span></h2>
 			<ul>
 							<li>
-					<img width="580" height="218" src="http://internationalliving.com/wp-content/uploads/2014/09/14721607071_11e02a901d_z-2.jpg" class="attachment-post-thumbnail wp-post-image" alt="14721607071_11e02a901d_z-(2)">					<div class="event-meta">
-						<h2 class="event-title"><a href="http://internationalliving.com/events/fast-track-costa-rica-lifestyle-opportunity-conference-2015/">Fast-Track Costa Rica: Lifestyle &amp; Opportunity Conference 2015</a></h2>
+					<img width="540" height="405" src="http://internationalliving.com/wp-content/uploads/2015/07/chiangMai.png" class="attachment-post-thumbnail wp-post-image" alt="chiangMai">					<div class="event-meta">
+						<h2 class="event-title"><a href="http://internationalliving.com/events/international-livings-2016-southeast-asia-tour/">International Living’s 2016 Southeast Asia Tour</a></h2>
 												<p class="event-dates">
-														<time datetime="2015-08-03">3rd</time> – <time datetime="2015-08-05">5th</time> August, 2015													</p>
+														<time datetime="2016-01-17">17th</time> – <time datetime="2016-01-28">28th</time> January, 2016													</p>
 											</div>
 					<div class="clearfix"></div>
 				</li>
 								<li>
-					<img width="300" height="250" src="http://internationalliving.com/wp-content/uploads/2015/06/tangible-banner-300-x-250-blue-3.png" class="attachment-post-thumbnail wp-post-image" alt="tangible-banner-300-x-250-blue (3)">					<div class="event-meta">
-						<h2 class="event-title"><a href="http://internationalliving.com/events/the-tangible-assets-tour-of-northern-europe/">The Tangible Assets Tour of Northern Europe</a></h2>
+					<img width="580" height="435" src="http://internationalliving.com/wp-content/uploads/2013/03/FYL_SoldOut.png" class="attachment-post-thumbnail wp-post-image" alt="FYL_SoldOut">					<div class="event-meta">
+						<h2 class="event-title"><a href="http://internationalliving.com/events/fast-track-panama-conference-2/">Fast-Track Panama: Lifestyle and Opportunity Conference</a></h2>
 												<p class="event-dates">
-														<time datetime="2015-08-24">24th Aug</time> – <time datetime="2015-09-02">2nd Sep</time>, 2015													</p>
+														<time datetime="2016-02-12">12th</time> – <time datetime="2016-02-14">14th</time> February, 2016													</p>
 											</div>
 					<div class="clearfix"></div>
 				</li>
 								<li>
-					<img width="580" height="435" src="http://internationalliving.com/wp-content/uploads/2015/01/Retirement.jpg" class="attachment-post-thumbnail wp-post-image" alt="Retirement">					<div class="event-meta">
-						<h2 class="event-title"><a href="http://internationalliving.com/events/fast-track-your-retirement-overseas-lifestyle-and-opportunity-conference-2015/">Fast Track Your Retirement Overseas: Lifestyle and Opportunity Conference 2015</a></h2>
-												<p class="event-dates">
-														<time datetime="2015-09-25">25th</time> – <time datetime="2015-09-27">27th</time> September, 2015													</p>
+					<img width="580" height="300" src="http://internationalliving.com/wp-content/uploads/2015/09/Africa-Banner-580x300-2-2.jpg" class="attachment-post-thumbnail wp-post-image" alt="Africa Banner 580x300 2 (2)">					<div class="event-meta">
+						<h2 class="event-title"><a href="http://internationalliving.com/events/great-escape-publishings-photography-tour-tanzania-africa/">Great Escape Publishing’s Photography Tour, Tanzania, Africa</a></h2>
 											</div>
 					<div class="clearfix"></div>
 				</li>
 								<li>
-					<img width="580" height="300" src="http://internationalliving.com/wp-content/uploads/2014/01/Events-15-Web.jpg" class="attachment-post-thumbnail wp-post-image" alt="Values On This Stunning Caribbean Outpost Are Set To Skyrocket…">					<div class="event-meta">
-						<h2 class="event-title"><a href="http://internationalliving.com/events/mexico%e2%80%99s-caribbean/">Values on This Stunning Caribbean Outpost Are Set to Skyrocket…</a></h2>
+					<img width="580" height="435" src="http://internationalliving.com/wp-content/uploads/2015/01/Belize_FTROS_rs.png" class="attachment-post-thumbnail wp-post-image" alt="Belize_FTROS_rs">					<div class="event-meta">
+						<h2 class="event-title"><a href="http://internationalliving.com/events/fast-track-your-retirement-overseas-lifestyle-and-opportunity-conference/">Fast Track Your Retirement Overseas: Lifestyle and Opportunity Conference</a></h2>
+												<p class="event-dates">
+														<time datetime="2016-04-12">12th</time> – <time datetime="2016-04-14">14th</time> April, 2016													</p>
 											</div>
 					<div class="clearfix"></div>
 				</li>
@@ -968,8 +958,8 @@ Each day you'll <strong>learn about the best places to retire, travel, buy real 
 <aside id="ilv_testimonial_widget-7" class="widget clearfix widget_ilv_testimonial_widget"><h2 class="widget-title"><span>				Testimonial
 			</span></h2>
 
-			<p>“I just closed on a condo sale yesterday in Cuenca, Ecuador” –Brian White Just closed on a condo sale yesterday in Cuenca, Ecuador. It was an easy process and just as International Living described in their Ecuador Owners Manual. It will be available for rent in September and as soon as we get the place […]</p>
-			<!--<a href="http://internationalliving.com/testimonial/brian-white-2/">&#8220;I just closed on a condo sale yesterday in Cuenca, Ecuador&#8221; &#8211;Brian White</a>-->
+			<p>I really enjoy the articles, the first hand accounts, the tips, everything. I turn 57 in a couple months and am so interested in retiring abroad. That said, I look forward to using your magazine as a guide and exploring the globe. Looking for my perfect retirement haven!</p>
+			<!--<a href="http://internationalliving.com/testimonial/i-really-enjoy-the-articles/">I Really Enjoy the Articles</a>-->
 			<a class="btn-blue" href="http://internationalliving.com/testimonial-types/countries-testimonials/">Read More Testimonials</a>
 			</aside>
 </div><!--#secondary-->
@@ -1053,7 +1043,7 @@ Each day you'll <strong>learn about the best places to retire, travel, buy real 
 							<br>
 							<!--  Footer -->
 <h2>Sign Up For Our Free Daily Postcards</h2>
-	<form name="form1" method="post" action="http://signup.internationalliving.com/Content/SaveFreeSignups" target="_blank" id="footer-postcard"> 
+	<form name="form1" method="post" action="https://signup.internationalliving.com/Content/SaveFreeSignups" target="_blank" id="footer-postcard"> 
 	<input name="listCode" value="ILPOSTCA" type="hidden">
 	<input name="redirect" value="http://internationalliving.com/mainboxes-thankyou/" type="hidden">
 	<input name="email_page" value="_pge_SEO-where-to-retire" type="hidden">
@@ -1062,7 +1052,7 @@ Each day you'll <strong>learn about the best places to retire, travel, buy real 
 	<input type="email" name="email" placeholder="E-Mail Address">
 	<input name="source" value="X120J501" type="hidden">
 	<button type="submit">Sign Up</button>
-</form><div id="beacon_0384bf44b6" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://ads.internationalliving.com/www/delivery/lg.php?bannerid=286&amp;campaignid=90&amp;zoneid=36&amp;loc=1&amp;cb=0384bf44b6" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>						</div><!-- .c9-12 -->
+</form><div id="beacon_eb53b5f997" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://ads.internationalliving.com/www/delivery/lg.php?bannerid=286&amp;campaignid=90&amp;zoneid=36&amp;loc=1&amp;cb=eb53b5f997" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>						</div><!-- .c9-12 -->
 					</div><!-- #footer-buckets -->
 					<div class="c1-12" id="copyright">
 						<div class="copy-links"><ul id="menu-footer-copyright-links" class="menu"><li id="menu-item-562053" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-562053 custom_item custom-item-562053"><a target="_blank" href="http://pro1.internationalliving.com/308024">Subscribe to IL Magazine</a></li>
@@ -1073,51 +1063,7 @@ Each day you'll <strong>learn about the best places to retire, travel, buy real 
 			</div><!-- .grid -->
 		</div><!-- #footer-bg -->
 	</div><!-- #footer-bg-repeat -->
-<div id="popmake-604391" class="popmake responsive size-medium" data-popmake="{&quot;id&quot;:604391,&quot;slug&quot;:&quot;magazine&quot;,&quot;meta&quot;:{&quot;display&quot;:{&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;&quot;,&quot;responsive_min_width_unit&quot;:&quot;px&quot;,&quot;responsive_max_width&quot;:&quot;&quot;,&quot;responsive_max_width_unit&quot;:&quot;px&quot;,&quot;custom_width&quot;:&quot;640&quot;,&quot;custom_width_unit&quot;:&quot;px&quot;,&quot;custom_height&quot;:&quot;380&quot;,&quot;custom_height_unit&quot;:&quot;px&quot;,&quot;custom_height_auto&quot;:&quot;true&quot;,&quot;location&quot;:&quot;center top&quot;,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:&quot;true&quot;,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:&quot;998&quot;,&quot;zindex&quot;:&quot;999&quot;},&quot;close&quot;:[],&quot;click_open&quot;:{&quot;extra_selectors&quot;:&quot;&quot;},&quot;exit_intent&quot;:{&quot;enabled&quot;:&quot;true&quot;,&quot;type&quot;:&quot;soft&quot;,&quot;hard_message&quot;:&quot;Please take a moment to check out a special offer just for you!&quot;,&quot;cookie_trigger&quot;:&quot;close&quot;,&quot;cookie_time&quot;:&quot;1 day&quot;,&quot;cookie_path&quot;:&quot;\/&quot;,&quot;cookie_key&quot;:&quot;magazine&quot;,&quot;defaults_set&quot;:&quot;true&quot;}},&quot;theme_id&quot;:&quot;604321&quot;}">
-
-	
-	
-	<div class="popmake-content"><h1 align="center" style="font-size: x-large;">Wait – Don’t Miss Out:</h1>
-<h1 align="center" style="font-size: x-large;">7 Great Retirement Towns You’ve Never Heard Of…</h1>
-<p align="left" style="font-size: medium; padding-top:10px;">In the right places overseas…you have good options for safe, comfortable, affordable living (adventure built-in).</p>
-<p align="left" style="font-size: medium;">In <b>7 Great Retirement Towns You’ve Never Heard of Where You Can Live Better for Less</b> we’ll pull back the curtain and introduce you to communities where you can embrace the retirement of your dreams…and do it for less than it would cost you to stay home.</p>
-<p align="left" style="font-size: medium;">Take a look at <em>International Living</em> today and not only will you receive <b>7 Great Retirement Towns You’ve Never Heard of…Where You Can Live Better for Less</b> <u>FREE</u>, but I’ll ALSO shave nearly 30% off the regular price.</p>
-<p align="center" style="font-size: medium;">
-	<a class="button-yellow" href="http://pro1.internationalliving.com/337794" target="_blank">Get the details in your FREE report now.</a></p>
-</div><span class="popmake-close">×</span>
-	
-</div><div id="popmake-604323" class="popmake responsive size-medium" data-popmake="{&quot;id&quot;:604323,&quot;slug&quot;:&quot;postcard&quot;,&quot;meta&quot;:{&quot;display&quot;:{&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;&quot;,&quot;responsive_min_width_unit&quot;:&quot;px&quot;,&quot;responsive_max_width&quot;:&quot;&quot;,&quot;responsive_max_width_unit&quot;:&quot;px&quot;,&quot;custom_width&quot;:&quot;640&quot;,&quot;custom_width_unit&quot;:&quot;px&quot;,&quot;custom_height&quot;:&quot;380&quot;,&quot;custom_height_unit&quot;:&quot;px&quot;,&quot;custom_height_auto&quot;:&quot;true&quot;,&quot;location&quot;:&quot;center &quot;,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:&quot;true&quot;,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;500&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:&quot;998&quot;,&quot;zindex&quot;:&quot;999&quot;},&quot;close&quot;:[],&quot;click_open&quot;:{&quot;extra_selectors&quot;:&quot;&quot;},&quot;exit_intent&quot;:{&quot;enabled&quot;:&quot;true&quot;,&quot;type&quot;:&quot;soft&quot;,&quot;hard_message&quot;:&quot;Please take a moment to check out a special offer just for you!&quot;,&quot;cookie_trigger&quot;:&quot;close&quot;,&quot;cookie_time&quot;:&quot;7 days&quot;,&quot;cookie_path&quot;:&quot;\/&quot;,&quot;cookie_key&quot;:&quot;postcard&quot;,&quot;defaults_set&quot;:&quot;true&quot;}},&quot;theme_id&quot;:&quot;604321&quot;}">
-
-	
-	
-	<div class="popmake-content"><div style="margin: 6px;">
-<h1 align="center" style="font-size: x-large;">Your Last Chance to Retire Overseas Now</h1>
-<p align="left" style="font-size: medium; padding-left:5px;">Before you go <strong>sign up for our free daily Postcard e-letter</strong> and we’ll immediately send you a FREE RESEARCH REPORT on the most desirable —and cheapest— retirement havens available to you today. </p>
-<p align="left" style="font-size: medium; padding-left:5px;">Each day you’ll learn about the best places to retire, travel, buy real estate and enjoy life overseas. </p>
-<form id="form1" name="form1" method="post" action="http://signup.internationalliving.com/Content/SaveFreeSignups">
-<table width="400" border="0" align="center">
-<tbody>
-<tr>
-<td align="center" colspan="2">
-			<input type="hidden" name="source" value="X120K503">
-		</td>
-</tr>
-<tr>
-<td align="center" colspan="2"><strong><span style="font-size: medium;">Enter your E-mail Address Below</span></strong></td>
-</tr>
-<tr>
-<td align="center" width="60%"><input name="email" placeholder="Enter e-mail address" type="text" id="email" size="35" style="border:1px solid #999999;"></td>
-<td width="40%"><input type="submit" value="Send My Free Report" class="button-yellow"></td>
-</tr>
-<tr>
-<td align="center" colspan="2"><strong>We Value Your Privacy</strong><br><a href="http://internationalliving.com/about-il/privacy-policy/">Click here for our Privacy Policy</a></td>
-</tr>
-</tbody>
-</table></form>
-<p></p></div>
-</div><span class="popmake-close">×</span>
-	
-</div><!-- IL Mobile Entry Pop  		entry_pop.view -->
+<!-- IL Mobile Entry Pop  		entry_pop.view -->
 <style>
 
 	#slideUp {
@@ -1230,7 +1176,7 @@ Each day you'll <strong>learn about the best places to retire, travel, buy real 
 <p>Each day you'll learn about the best places to retire, travel, buy real estate and enjoy life overseas.</p>
 <p style="text-align: center;">Enter your E-mail Address Below</p>
 <div style="text-align: center;">
-	<form action="http://signup.internationalliving.com/Content/SaveFreeSignups" method="post" name="SimpleSignUp">
+	<form action="https://signup.internationalliving.com/Content/SaveFreeSignups" method="post" name="SimpleSignUp">
 		 <label> Email</label> <input type="email" name="email" class="emailBox"> <br>
 		 <input name="source" type="hidden" value="X120L682"> 
 		 <input name="listCode" type="hidden" value="ILPOSTCA"> 
@@ -1247,22 +1193,22 @@ Each day you'll <strong>learn about the best places to retire, travel, buy real 
 					<img class="cf-taxar-spinner-gif" alt="Loading…" src="http://internationalliving.com/wp-content/themes/international-living/plugins/build-modules/taxonomy-archive/img/spinner-32x32.gif">
 				</div>
 			</div>
-			<link rel="stylesheet" id="popup-maker-site-css" href="http://internationalliving.com/wp-content/plugins/popup-maker/assets/styles/popup-maker-site.min.css?ver=1.0" type="text/css" media="all">
-<script type="text/javascript">
+			<script type="text/javascript">
 /* <![CDATA[ */
 var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
 var _wpmejsSettings = {"pluginPath":"\/wp\/wp-includes\/js\/mediaelement\/"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://internationalliving.com/wp/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.16.2"></script>
-<script type="text/javascript" src="http://internationalliving.com/wp-content/plugins/bbpress/templates/default/js/editor.js?ver=2.5.3-5249"></script>
-<script type="text/javascript" src="http://internationalliving.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.50.0-2014.02.05"></script>
+<script type="text/javascript" src="http://internationalliving.com/wp/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.17.0"></script>
+<script type="text/javascript" src="http://internationalliving.com/wp/wp-includes/js/mediaelement/wp-mediaelement.js?ver=4.3.1"></script>
+<script type="text/javascript" src="http://internationalliving.com/wp-content/plugins/bbpress/templates/default/js/editor.js?ver=2.5.8-5815"></script>
+<script type="text/javascript" src="http://internationalliving.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var _wpcf7 = {"loaderUrl":"http:\/\/internationalliving.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://internationalliving.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.8.1"></script>
+<script type="text/javascript" src="http://internationalliving.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.3"></script>
 <script type="text/javascript" src="http://internationalliving.com/wp/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="http://internationalliving.com/wp/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="http://internationalliving.com/wp-content/plugins/popup-maker/assets/scripts//TweenMax.min.js?ver=1.15.1"></script>
@@ -1287,17 +1233,15 @@ var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_W
 /* ]]> */
 </script>
 <script type="text/javascript">(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="http:\/\/connect.facebook.net\/en_US\/all.js";fjs.parentNode.insertBefore(js,fjs)}(document,"script","facebook-jssdk"));</script>
-<script type="text/javascript" src="http://internationalliving.com/wp-content/plugins/facebook/static/js/extras/analytics/google-analytics.min.js?ver=1.1.9"></script>
-<script type="text/javascript" src="http://internationalliving.com/wp-content/plugins/popup-maker-exit-intent-popups/assets/scripts/popup-maker-exit-intent-popups-site.min.js?defer&amp;ver=1.0" defer="defer"></script>
-<script type="text/javascript">var _gaq=_gaq||[];_gaq.push(function(){if(FB_WP.queue && FB_WP.queue.add){FB_WP.queue.add(function(){FB_WP.extras.analytics.google.init()})}});</script><div id="fb-root"></div><!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div id="fb-root"></div><!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-540d64ad3f5e4012" async="async"></script>
-
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"75451929b2","applicationID":"3170474","transactionName":"ZgdVZBMDXkNUV01aXl9NYkIITVleUVFBHUFZEg==","queueTime":0,"applicationTime":24,"atts":"SkBWElsZTU0=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
 
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using memcached
-Database Caching 255/288 queries in 0.275 seconds using memcached
-Object Caching 8405/8446 objects using memcached
+Database Caching 136/173 queries in 0.292 seconds using memcached
+Object Caching 8091/8126 objects using memcached
 
- Served from: internationalliving.com @ 2015-06-07 10:07:27 by W3 Total Cache --></body></html>
+ Served from: internationalliving.com @ 2015-12-06 11:21:31 by W3 Total Cache --></body></html>
