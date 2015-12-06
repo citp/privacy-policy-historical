@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shortyawards.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607195029id_/http%3A//shortyawards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shortyawards.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206014459id_/http%3A//shortyawards.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Shorty Awards
 
@@ -40,5 +40,5 @@ The Awards are administered in the United States and are primarily intended for 
 California Civil Code Section 1798.83 permits users of the Awards who are participants in the awards to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail with "California Privacy Rights" in the heading to hello@sawhorsemedia.com or write us at: 
 
 **Sawhorse Privacy Rights**  
-560 Broadway, Suite 201  
+632 Broadway, Suite 901  
 New York, NY 10012 
