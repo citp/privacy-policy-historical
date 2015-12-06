@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gap.eu privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200231id_/http%3A//www.gap.eu/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gap.eu privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114952id_/http%3A//www.gap.eu/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
 
 # Privacy Policy | Gap
 
-_Last Updated: 2 December 2014_
+_Last Updated: 1 June 2015_
 
 Gap Inc. and our affiliates and subsidiaries in the U.S. and the European Union, including GPS (Great Britain) Limited, Gap Europe Limited, Gap (UK Holdings) Limited, Gap (France) SAS, Gap Stores (Ireland) Limited and Gap (Italy) SRL (collectively, "Gap Companies") and our brands, including Gap, Banana Republic, and other Gap Inc. brands (collectively, our "Brands") value our customers and respect your privacy. We collect information about you in our stores and through our websites connected to this policy in an effort to improve your shopping experience and to communicate with you about our products, services, contests and promotions.
 
@@ -119,6 +119,8 @@ We may combine the information we collect through cookies and pixel tags with ot
 We also work with third-party companies that use tracking technologies to serve advertisements on our behalf across the Internet. If you agree, these companies may collect information about your visits to our websites and your interaction with our advertising and other communications. We are committed to only providing you with information which is relevant to you and which you want to receive. Read more about the individual pixel tags we use and how to recognise them [here](https://web.archive.org/customerService/info.do?cid=81873).
 
 You can choose to either agree or not agree to our use of such pixel tags on our websites. If you agree to our use of pixel tags, you can withdraw your consent at any time by changing your Targeting cookie preference [here](https://web.archive.org/customerService/info.do?cid=81873). If you do not agree to our use of such pixel tags, however, certain features of our websites may not be available to you.
+
+To learn more about online behavioural advertising, or to opt out from receiving targeted ads, please visit the European Interactive Digital Advertising Alliance: [http://www.edaa.eu](http://www.edaa.eu/)/. 
 
 back to top
 
@@ -286,6 +288,8 @@ We also work with third-party companies that use tracking technologies to serve 
 
 You can choose to either agree or not agree to our use of such pixel tags on our websites. If you agree to our use of pixel tags, you can withdraw your consent at any time by changing your Targeting cookie preference [here](https://web.archive.org/customerService/info.do?cid=81873). If you do not agree to our use of such pixel tags, however, certain features of our websites may not be available to you.
 
+To learn more about online behavioural advertising, or to opt out from receiving targeted ads, please visit the European Interactive Digital Advertising Alliance: [http://www.edaa.eu](http://www.edaa.eu/)/. 
+
 back to top
 
 Your IP address is a number that is automatically assigned to your computer by your Internet Service Provider (ISP). This number may be different each time you log onto the Internet or it may remain the same. The IP address is logged automatically in our server log files whenever you visit our websites, along with the time of your visit and the pages that you visited. It is also collected by pixel tags, as described above. Collecting IP addresses is standard practice on the Internet and is done automatically by many websites.
@@ -334,7 +338,7 @@ Rugby, Warwickshire,
 CV23 0BR  
 United Kingdom
 
-_Voor het laatst herzien op 2 December 2014._
+_Voor het laatst herzien op 1 juni 2015._
 
 Bij Gap Inc. en onze filialen en dochterondernemingen in de VS en de Europese Unie, inclusief GPS (Groot-Britannië) Limited, Gap Europe Limited, Gap (UK Holdings) Limited, Gap (France) SAS, en Gap Stores (Ierland) Limited (collectief aangeduid met de naam "Gap Bedrijven") en onze Merken, waaronder Gap, Banana Republic en andere merken van Gap Inc. (collectief aangeduid als onze "Merken"), waarderen we onze klanten en respecteren we uw privacy. In onze winkels en op onze website verzamelen wij informatie over u die verband houdt met dit beleid; dit doen we om uw koopervaring te verbeteren en u berichten te sturen over producten, diensten, wedstrijden en aanbiedingen. 
 
@@ -438,6 +442,8 @@ We kunnen de via cookies en pixeltags verzamelde informatie combineren met ander
 
 We werken ook met derde bedrijven die traceringstechnologieën toepassen om in onze naam reclame te maken op het internet. Deze bedrijven kunnen informatie verzamelen over uw bezoeken aan onze websites en over uw interactie met onze reclame en andere communicatie. We stellen alles in het werk om u alleen informatie te bieden die voor u relevant is en die u wenst te ontvangen. Als u meer informatie wenst over deze praktijken of meer wilt weten over uw keuzemogelijkheden om deze informatie niet te laten gebruiken door deze bedrijven, ga naar <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
+U heeft de keuze om wel of niet in te stemmen met het gebruik van deze pixeltags op onze websites. Indien u toestemming verleent voor het gebruik van pixeltags, kunt u die toestemming op ieder moment intrekken door uw targeting cookie instellingen hier te wijzigen. Indien u ervoor kiest op geen pixeltags te gebruiken, kunnen sommige functies op onze websites mogelijk niet beschikbaar zijn voor u. Om meer te weten te komen over online behavioural advertising, of om aan te geven dat u geen gepersonaliseerde advertenties wenst te ontvangen, kunt u de website van de European Interactive Digital Advertising Alliance: <http://www.edaa.eu/raadplegen>.
+
 terug naar boven
 
 Uw IP-adres is een getal dat automatisch door uw internetprovider (ISP) aan uw computer wordt toegekend. Dit getal kan telkens u inlogt op het internet veranderen, of het kan ook hetzelfde blijven. Het IP-adres wordt automatisch vastgelegd in onze serverlogbestanden telkens als u onze websites bezoekt, samen met de tijd van uw bezoek en de pagina's die u hebt bekeken. Dit wordt ook met pixeltags verzameld, zoals hierWe kunnen IP-adressen gebruiken voor dezelfde doeleinden als waarvoor we uw persoonlijke informatie gebruiken, en ook voor het berekenen van websitegebruik, het diagnosticeren van serverproblemen en het beheren van onze websites en uw gebruik van onze websites, met inbegrip van het doen van aanbiedingen en het uitvoeren van uw verzoeken en aankopen. Behalve wanneer anders vereist door de wet, behandelen we IP-adressen, serverlogbestanden en gerelateerde informatie, als niet-persoonlijke informatie. 
@@ -464,7 +470,7 @@ _E-mail_ : [custserv@gap.eu](mailto:custserv@gap.eu)
 
 _Telefoon_ : 
 
-Bellen binnen het Verenigd Koninkrijk 0800 368 0673  
+Bellen binnen het Verenigd Koninkrijk 0800 368 0674  
 Internationale oproepen: klik [hier](https://web.archive.org/customerService/info.do?cid=7886) voor telefoonnummers buiten het Verenigd Koninkrijk. 
 
 _Post_ : 
@@ -478,7 +484,7 @@ United Kingdom
 
 terug naar boven
 
-_Letzte Aktualisierung am 2. Dezember 2014_
+_Letzte Aktualisierung am 1. Juni 2015_
 
 Gap Inc. und unsere verbundenen Unternehmen und Tochtergesellschaften in den USA und der Europäischen Union, einschließlich GPS (Great Britain) Limited, Gap Europe Limited, Gap (UK Holdings) Limited , Gap (France) SAS, Gap Stores (Ireland) Limited und Gap (Italy) SRL (gemeinsam bezeichnet als die "Gap Unternehmen") und unsere Marken, einschließlich Gap, Banana Republic und sonstige Gap Inc. Marken (gemeinsam bezeichnet als unsere "Marken") schätzen unsere Kunden und respektieren ihre Privatsphäre. Wir erfassen im Rahmen der vorliegenden Datenschutzerklärung Informationen über Sie in unseren Geschäften und über unsere Websites, um Ihr Einkaufserlebnis zu verbessern und um Sie über Produkte, Dienstleistungen, Wettbewerbe und Angebote zu informieren.
 
@@ -588,6 +594,8 @@ Darüber hinaus arbeiten wir mit Drittunternehmen zusammen, welche Verfolgungste
 
 Sie können entscheiden, ob Sie der Nutzung solcher Pixel Tags auf unserer Website zustimmen oder der Nutzung nicht zustimmen. Wenn Sie der Nutzung von Pixel Tags zustimmen, können Sie die Zustimmung jederzeit widerrufen, indem Sie ihre Targeting Cookie Einstellung hier ändern. Wenn Sie der Nutzung solcher Pixel Tags nicht zustimmen, kann es sein, dass Ihnen gewisse Inhalte unserer Website nicht zur Verfügung stehen. 
 
+Um mehr über Online Behavioural Advertising zu erfahren oder um gegen den Erhalt zielgerichteter Werbung zu optieren, besuchen Sie bitte die European Interactive Digital Advertising Alliance: [http://www.edaa.eu](http://www.edaa.eu/)
+
 Zurück zum Seitenanfang
 
 Ihre IP-Adresse ist eine Nummer, die Ihrem Computer automatisch von Ihrem Internet Service Provider (ISP) erteilt wird. Es ist möglich, dass Ihnen jedes Mal, wenn Sie das Internet betreten, eine neue Nummer zugeteilt wird; sie kann jedoch auch immer dieselbe sein. Die IP-Adresse wird neben der Dauer Ihres Besuchs und der aufgerufenen Seiten automatisch in unseren Server-Protokolldateien vermerkt, wenn Sie unsere Websites besuchen. Sie wird auch wie oben beschrieben über Pixel-Tags erfasst. Die Erfassung von IP-Adressen ist ein Standardverfahren im Internet und erfolgt auf vielen Websites automatisch.
@@ -616,7 +624,7 @@ _E-Mail_ : [custserv@gap.eu](mailto:custserv@gap.eu)
 
 _Telefon_ : 
 
-Anrufe aus Großbritannien: 0800 368 0673  
+Anrufe aus Großbritannien: 0800 368 0674  
 Aufruf international: Klicken Sie [hier](https://web.archive.org/customerService/info.do?cid=7886) für Telefonnummern außerhalb des Vereinigten Königreichs. 
 
 _Per Post_ : 
@@ -632,7 +640,7 @@ Wenn Sie keine Antwort erhalten oder Ihr Anliegen nicht zufriedenstellend bearbe
 
 Zurück zum Seitenanfang
 
-_Última Actualización: 2 de diciembre de 2014_
+_Última Actualización: 1 de junio 2015_
 
 En Gap Inc. y en nuestras filiales y subsidiarias de Estados Unidos y la Unión Europea, incluidas GPS (Gran Bretaña) Limited, Gap Europe Limited, Gap (UK Holdings) Limited, Gap (Francia) SAS, Gap Stores (Irlanda) Limited y Gap (Italy) SRL (en su conjunto, "Empresas Gap") y nuestras marcas, incluidas Gap, Banana Republic, y otras marcas de Gap Inc. (en su conjunto, nuestras "Marcas") valoramos a nuestros clientes y respetamos su privacidad. La información que recogemos de los clientes en nuestras tiendas y a través de nuestros sitios web en relación con esta política nos sirve para mejorar su experiencia de compra y la comunicación que podamos establecer con usted para informarle sobre productos, servicios, concursos y promociones.
 
@@ -738,6 +746,8 @@ Podemos combinar la información que recopilamos a través de cookies y contador
 
 También trabajamos con terceras empresas que usan tecnologías de seguimiento para proporcionar anuncios en nombre nuestro a través de Internet. Estas empresas pueden recopilar información sobre sus visitas a nuestros sitios web y su interacción con nuestra publicidad y otras comunicaciones. Nos comprometemos a proporcionarle sólo la información que pueda serle pertinente y que desee recibir. En consecuencia, si desea recibir más información sobre esta práctica y sobre las opciones con las que cuenta para impedir que estas empresas usen su información, visite <http://www.networkadvertising.org/managing/opt_out.asp>.
 
+Para más información sobre publicidad comportamental en línea o para rehusar la recepción de anuncios publicitarios personalizados, puede visitar la European Interactive Advertising Alliance: <http://www.edaa.eu/>
+
 volver al principio
 
 Su dirección IP es un número que un proveedor de servicios de Internet (ISP) asigna automáticamente a su equipo informático. Este número puede diferir cada vez que inicia sesión en Internet o puede seguir siendo el mismo. La dirección IP se registra automáticamente en los archivos de registro de nuestro servidor cada vez que visita nuestros sitios web, junto con la hora de su visita y las páginas que visitó. También la recopilan los contadores de visitas, tal y como se ha explicado arriba. La recogida de direcciones IP es una práctica estándar en Internet y muchos sitios web la realizan de forma automática. 
@@ -764,7 +774,7 @@ _Correo electrónico:[custserv@gap.eu ](mailto:custserv@gap.eu)_
 
 _Teléfono:_
 
-Llamada desde Reino Unido 0800 368 0673  
+Llamada desde Reino Unido 0800 368 0674  
 Llamada internacional: haga clic [aquí](https://web.archive.org/customerService/info.do?cid=7886) para números de teléfono fuera del Reino Unido. 
 
 _Correo_ : 
