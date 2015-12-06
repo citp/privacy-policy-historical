@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colescareers.com.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607124339id_/http%3A//www.colescareers.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colescareers.com.au privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206150600id_/http%3A//www.colescareers.com.au/privacy) for the most accurate reproduction.*
 
 # 
 
