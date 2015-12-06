@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hunterboots.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142906id_/http%3A//www.hunterboots.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hunterboots.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141009id_/http%3A//www.hunterboots.com/privacy) for the most accurate reproduction.*
 
-# Hunter Boots Official | Privacy
+# Privacy | Official Hunter Boots Site
 
 Hunter Boot Limited ("Hunter") and/or any of its international partners, subsidiaries or associated companies ("Hunter" or "we" or "us") take our relationship with all our users seriously, and this includes how we handle the data you give us. Hunter is committed to meeting the requirements of all relevant laws and codes regarding privacy, including the Data Protection Act 1998 and is registered with the Information Commission under registration no _Z997974X_ as a Data Controller.
 
@@ -21,7 +21,7 @@ We only collect personal information (such as your name and address details) if 
 
 **2\. What do we do with the information?**
 
-We will require you to provide particular personal information such as your credit card details and your billing address for the purposes of completing your order. We will only use this information for the purposes of managing your order or your usage of the Website. We will share your information with third party companies (such as couriers) for the express purpose of completing your order.
+We will require you to provide particular personal information such as your credit card details and your billing address for the purposes of completing your order. We will only use this information in relation to your order or your usage of the Website. We will share your information with third party companies (such as software providers, couriers and outsourced functions such as customer services) for the express purpose of completing your order, facilitating your experience of the Website, responding to your queries and / or to provide you with certain services such as aftercare services.
 
 Providing additional personal information is up to you. We collect personal information to enter you in contests and notify you of results, to e-mail you with updates, news and special offers, to respond to your questions or comments, or to register you for certain features on the Website.
 
