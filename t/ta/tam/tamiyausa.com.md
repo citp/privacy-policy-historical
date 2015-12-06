@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamiyausa.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145724id_/http%3A//www.tamiyausa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamiyausa.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206040305id_/http%3A//www.tamiyausa.com/privacy.php) for the most accurate reproduction.*
 
 # TamiyaUSA.com - Privacy Statement
 
