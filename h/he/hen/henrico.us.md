@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the henrico.us privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629160519id_/https%3A//henrico.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henrico.us privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035547id_/http%3A//henrico.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - County of Henrico
 
@@ -37,7 +37,7 @@ Cookies are a common part of using the web today, as is privacy. Users have the 
 
 A few parts of our websites use cookies, including but not limited to
 
-  * [Henrico Jobs](http://www.henricojobs.com/)
+  * [Henrico Jobs](http://henrico.us/services/jobs/)
   * Analytic tracking on [henrico.us](http://henrico.us/)
 
 
