@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the insidermedia.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630053441id_/http%3A//www.insidermedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidermedia.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206034240id_/http%3A//www.insidermedia.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Insider Media
-
-**Privacy Policy for Newsco Insider Limited (NIL).**
+# Privacy Policy & Cookies | Insider Media Ltd
 
 This privacy policy sets out how Newsco Insider Limited (“Newsco”) uses and protects any information that you give Newsco when you use our website, interactive services and/or any URL that directs you around, to and from www.insidermedia.com ( **our Website** ), whether as a guest or a registered member/user.
 
@@ -14,7 +12,7 @@ For the purpose of the Act, the data controller is Newsco Insider Limited of Bou
 
 Newsco may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st March 2010.
 
-**What we collect**
+### What we collect
 
 We may collect and process the following information:
 
@@ -26,11 +24,11 @@ We may collect and process the following information:
 
 Whenever you contact Newsco, we may keep a record of that correspondence.
 
-**What we do not collect**
+### What we do not collect
 
 We do not store credit/debit card information, nor do we share this information with third parties.
 
-**What we do with the information we gather**
+### What we do with the information we gather
 
 We require the Data to understand your needs and provide you with a better website and to administer, manage, promote and publicise our Website, and in particular for the following reasons:
 
@@ -59,11 +57,11 @@ We will only sell or otherwise provide the Data to third parties in order for th
 
 We may also transfer, store and process the Data to / in countries outside the EEC in connection with the processing mentioned above. The Data may therefore be proceed in countries where the rights and benefits conferred on data subjects may not be as favorable as in the United Kingdom. We will only take such action where you have agreed to this by accepting this provision when the Data was collected.
 
-**Security**
+### Security
 
 We are committed to ensuring that the Data is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the Data we collect online.
 
-**IP Addresses and Cookies**
+### IP Addresses and Cookies
 
 We may collect information about your computer, including (where available) your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
 
@@ -94,11 +92,11 @@ Our third-party suppliers that use cookies are as follows:
 
 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our Website. Please note that our advertisers may also use cookies, over which we have no control. Our Website may contain electronic images known as web beacons which allows us to count users who have visited those pages and deliver co-branded services. Web beacons are not used to access your personally identifiable information on our Website. They are a technique to compile aggregated statistics about our Website’s usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view and a description of the page on which the web beacon resides.
 
-**Links to other websites**
+### Links to other websites
 
 Our Website may contain links to other websites of interest. However, once you have used these links to leave our Website, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-**Controlling your personal information**
+### Controlling your personal information
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
