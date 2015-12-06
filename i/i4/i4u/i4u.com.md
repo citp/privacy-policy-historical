@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i4u.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629043506id_/http%3A//www.i4u.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i4u.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206130431id_/http%3A//www.i4u.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - I4U News
 
@@ -142,5 +142,9 @@ The Web Site reserves the right to change or update this Privacy Policy, or any 
 **(iv) Contact Us**
 
 If you have any questions or comments regarding our privacy practices, you may contact us at  **[support[@]i4u.com](mailto:support@i4u.com)**.
+
+ **(v) Magnetic**
+
+We partnered with Magnetic. Refer to their [privacy policy](http://www.magnetic.com/about/privacy/) as well.
 
 **Effective Date: November 30, 2012**
