@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earnhoney.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315104552id_/http%3A//ehcsupport.azurewebsites.net/2015/01/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earnhoney.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206204845id_/http%3A//support.earnhoney.com/2015/01/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Help Center
 
