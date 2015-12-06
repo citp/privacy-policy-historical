@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the virginnigeria.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630172721id_/http%3A//www.virgin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginnigeria.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206233133id_/http%3A//www.virgin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Virgin.com
-
-If you would like to go straight to our cookie information, click here.
 
 Here at Virgin.com Limited ("Virgin.com", "we" or "us"), we take your privacy seriously. We're committed to protecting the privacy of any personal information you give us. We will comply with the UK's Data Protection Act 1998 and related UK legislation. We are registered on the public register of data controllers maintained by the Information Commissioner in the UK.
 
@@ -12,73 +10,45 @@ Please take the time to read this privacy policy, which is part of our terms of 
 
 This policy may change from time to time and, if it does, the up-to-date version will always be available on the Virgin.com site. Please note that by continuing to use the Virgin.com site you are agreeing to any updated versions.
 
+## Cookie Policy
+
+We use cookies to improve your experience on our site, Virgin.com, and to recommend content that may be of interest to you. You can find out more below about what cookies are, the cookies we use and how to switch off cookies.
+
+You can indicate your acceptance of our use of cookies in accordance with this policy by clicking “OK” in the appropriate place on the banner that appears on our site. However, please note that if you do not click “OK” but you continue to browse the site you will be deemed to have accepted our use of cookies (and what we use them for) in accordance with this policy.
+
 ## What are cookies?
 
-We use "cookies" to store and collect information regarding your use of our site. Cookies are small pieces of information stored by the browser on your computer's hard drive. They send the information stored on them back to our web server when you access our site. These cookies enable us to load the site in such a way as to reflect your personal preferences (based on your previous browsing on Virgin.com as well as keywords we may be able to gather from the URLs of webpages from which you accessed Virgin.com, your IP address and any search engine used to reach Virgin.com). We use these cookies to improve your experience on our site and recommend content that may be of interest to you. You can find out more about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/) and more about the cookies we use below.
+A cookie is a text file containing small amounts of information which is downloaded to your device when you access a website. The text file is then sent back to our server each time your browser requests a page from the server. This enables us to operate the site more effectively and load the site in such a way as to reflect your personal preferences, based on your previous browsing on Virgin.com as well as keywords we may be able to gather from URLs of webpages from which you accessed Virgin.com. Cookies can also allow us to do various other things, as explained below.
 
 ## What cookies do we use?
 
-We only set a few cookies ourselves, but when we include content from other sites (like Facebook or Twitter), they also get the opportunity to set cookies, to help them serve their content better. We've broken down the main uses of cookies you'll see on the site below, and what they are used for, but we can't guarantee that we'll have listed every cookie you might get from a third party - they can change them at any time as their needs change.
+When you visit Virgin.com, the following types of cookies may be downloaded to your device:
 
-## The Virgin cookie:
+## Analytical and Performance Cookies
 
-\- Contains a random ID
+We may use analytics service providers for website traffic analysis and reporting. Analytics service providers generate statistical and other information about the use of the site by using cookies. They allow us to recognise and count the number of visitors and to see how often visitors return to the site, how long they stay and how visitors move around our site when they are using it. This helps us to improve the way our site works, for example, by ensuring that users are finding what they are looking for easily. The information generated relating to the site may be used to create reports about the use of the site and the analytics service provider will also store this information.
 
-\- This id is then used to store information about your browsing history on Virgin.com
+## Advertising and Targeting Cookies
 
-\- Uses an encrypted section of the cookie to ensure that no other user can "simulate" your cookie and impersonate you
+These cookies record your visit to our site, the pages you have visited and the links you have followed to other sites. We will use this information to try and make our site and other sites that you visit more relevant to your interests. We may also share this information with others, such as other Virgin group companies and carefully selected third parties, for this purpose.
 
-\- Has an expiry of 30 days
+We work with technology partners to support our website and to provide you with relevant information about the products and services of other Virgin group companies on our site and on affiliated sites or sites within the advertising networks we work with. We may use cookies on our site to help us to place relevant Virgin group advertising on others’ sites when you visit such sites. We do this because we value your visit to our site and hope that you will be interested in other Virgin offerings when you visit other sites. If you are not happy with this, please see the section of this policy titled “How do I turn cookies off below”.
 
-For more information please get in touch with the webmaster at the address below:
+## Functionality Cookies
 
-The Webmaster  
-Virgin.com Limited  
-c/o Virgin Management Limited  
-The Battleship Building  
-179 Harrow Road  
-London W2 6NB  
-UK
+We may use functional cookies that allow us to remember choices you have made in relation to the site so as to provide a more personalised experience and enhanced user experience by delivering content specific to your interests.  
+Strictly Necessary Cookies  
+These are cookies that are required for the administration and operation of our site. Some cookies that we use are necessary for our site to function properly and to enable you to move around the site and use its features.
 
-## Cookies for Measuring Web Traffic
+## Third Party Cookies
 
-We make use of a tool from Google called Google analytics which tells us about the way people are using Virgin.com. It uses cookies to detect that someone has been to the site before, so that we can see how often people return to the site, how long they stay, and where on Virgin.com they tend to go. We use this to try to work out what kind of experience they're having on the site, so we can make it better.
+Because Virgin (and Richard) have a strong presence on various social networks, we try and make it as easy as possible to share content and to see what content is popular on those networks. We add buttons to allow people to easily share to those networks. We also use Facebook to power the commenting functionality on the site.  
+When we include these social 'plugins', it gives those sites the flexibility to use cookies. They can't read any cookies we set from Virgin.com, and we can't read any cookies they set, but it lets them do the same kind of traffic measuring that we do on the rest of Virgin.com, and it also lets them know whether you're logged in. For example, if you're logged in to Facebook, read a post by Richard Branson and want to make a comment, you can do that straight away without having to log in again - we never know whether you're logged in or not, as you communicate directly with Facebook, through their plugins on our site.  
+Other sites and services (including, for example, advertising networks, providers of external services like web traffic analysis services and content recommendation engines) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
 
-Google Analytics sets cookies to help us accurately estimate the number of people visiting Virgin.com, and let us see how they're moving around the site. We use this when we make decisions on the type of content we create and how we structure the site. [To read Google’s privacy policy please click here. ](http://www.google.co.uk/intl/en_uk/analytics/privacyoverview.html)
+## How do I turn cookies off?
 
-## Cookies From Social Networks
-
-Because Virgin (and Richard) have a strong presence on various social networks, we try and make it as easy as possible to share content and to see what content is popular on those networks. For that reason we include recommendations from Facebook, tweets from Twitter, content from Google+ and add buttons to allow people to easily share to those networks. We also use Facebook to power the commenting functionality on the site.
-
-When we include these social 'plugins', it gives those sites the flexibility to use cookies. They can't read any cookies we set from Virgin.com, and we can't read any cookies they set, but it lets them do the same kind of traffic measuring that we do on the rest of Virgin.com, and it also lets them know whether you're logged in. For example, if you're logged in to Facebook, read a post by Richard Branson and want to make a comment, you can do that straight away without having to log in again - we never know whether you're logged in or not, as you communicate directly with Facebook, through their plugins on our site.
-
-## Facebook
-
-We use several Facebook social plugins on Virgin.com, including the Like button, Facebook comments, recommendations and connect. Facebook will access some cookies if you have been to Facebook previously. If you haven't visited Facebook, no cookies will be added. For more information about how Facebook uses cookies, please see their support site <http://www.facebook.com/help/445588775451827.>
-
-## Twitter
-
-We make use of Twitter social plugins in order to allow following our Twitter accounts easily, share content via Twitter, and to display the latest tweet for Virgin and Richard Branson. Twitter makes use of cookies to improve its own service. You can read more about how Twitter users cookies in their privacy policy  <https://twitter.com/privacy>
-
-## Add this
-
-We use ‘Add This’ on our site to enable you to easily share the content you view on Virgin.com. For more information about ’Add This’, see their privacy policy <http://www.addthis.com/privacy/privacy-policy#.UjdI8cakr6M>
-
-## Google+
-
-We include a Google+ plugin on many of our news and blog post pages to allow viewers to share links via that service. That plugin sets the following cookies, though you will get a different mix of cookies depending on whether you are logged in to Google and Google+, or not. For more information about the Google +1 button, see their privacy policy <http://www.google.com/intl/en_uk/+/policy/+1button.html>
-
-## Cookies For Adverts
-
-We have a number of spots around the site that show advertisements for companies in the Virgin Group. These are managed through a system called Google Doubleclick For Publishers. We use this for the obvious things, like the banner advertisements, but also for purposes like the logos of the Featured Companies. Doubleclick make use of cookies in order to track who has sent what adverts, in order to track which adverts are working better.
-
-## Google Doubleclick
-
-One of the ways that we link to the different Virgin companies on Virgin.com is via advertising positions. These include banner ads, but also the logos of Featured Companies on the front page. This allows us to track which adverts are doing well, and it also makes it easy for companies in the Virgin Group to give us assets to put in those slots. We use a platform called Doubleclick for Publishers, which is part of Google's advertising system. For more information about Doubleclick, privacy, and opting out of ad tracking, see this Google page on ad privacy <http://www.google.co.uk/policies/technologies/ads/>
-
-## Cookies for Content
-
-We include content from other sites in our updates, most notably YouTube videos. When we do this, YouTube may store cookies in order to track how people are watching videos from their site.
+If you do not wish us to install cookies or you don’t agree with how we use these cookies in any way, you can change the settings on your internet browser to reject cookies. For more information please consult the “Help” section of your browser or visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/). Please note that if you do set your browser to reject cookies, you may not be able to use all of the features of our site. ?
 
 ## How do we collect information from you with Facebook Connect?
 
@@ -104,11 +74,13 @@ We may also use your information for the following purposes:
 
 To help provide services to you
 
-To send you our newsletter if you have signed up to receive it.  
-To carry out surveys occasionally and to analyse our user base — ultimately we want to ensure that [www.virgin.com ](http://www.virgin.com/)provides everything that you — our audience — is looking for  
-To check whether you are eligible for a competition and to contact you if you win  
-To comply with the law  
-As we feel is necessary to prevent illegal activity or to protect our interests
+  * To send you our newsletter if you have signed up to receive it.
+  * To carry out surveys occasionally and to analyse our user base — ultimately we want to ensure that [www.virgin.com ](http://www.virgin.com/)provides everything that you — our audience — is looking for
+  * To check whether you are eligible for a competition and to contact you if you win
+  * To comply with the law
+  * As we feel is necessary to prevent illegal activity or to protect our interests
+
+
 
 And we won't keep hold of your personal information for longer than is reasonably necessary or required by law.
 
@@ -142,9 +114,7 @@ However, if you upload User Content to our site using the Facebook Connect funct
 
 Please read our Terms and Conditions for more information about posting User Content. If you register on the site, you'll need to comply with our [Terms and Conditions.](http://www.virgin.com/terms)
 
-## To read more about our cookie policy click here.
-
-If you have any concerns about User Content appearing on this site, please [Contact Us](https://web.archive.org/contact-us).
+## If you have any concerns about User Content appearing on this site, please [Contact Us](https://web.archive.org/contact-us).
 
 ## How will we make sure our site is secure?
 
