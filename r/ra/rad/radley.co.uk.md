@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radley.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607135402id_/http%3A//www.radley.co.uk/help/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radley.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206024224id_/http%3A//www.radley.co.uk/help/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy
 
@@ -15,6 +15,8 @@ We may collect and process information that you provide by filling in forms on o
 Any personal data gathered by us in your use of this site will be recorded electronically and only used in accordance with the UK Data Protection Act 1998.
 
 For the purpose of the Data Protection Act 1998, the data controller is Radley + Co Limited of McBeath House, 310 Goswell Road, London, EC1V 7LW 
+
+Some of our service providers store personal information outside of the EU. Where this is the case, we have taken steps to ensure your data will be maintained in accordance with EU standards. 
 
 ## IP Addresses and Cookies
 
@@ -44,6 +46,8 @@ We will use information held about you to carry out our obligations arising from
 
 We may use your data to provide you, via email, post, telephone or SMS with information, products or services that you request from us or which we feel may be of interest to you, or share your details with selected third parties which we believe may be of interest to you, where you have consented to be contacted for such purposes.We may use the data in accordance with the preferences expressed in your acceptance of the Radley cookie policy and terms and conditions of use of the Radley website.
 
+You may have received an email from a third party in association with Criteo, on behalf of Radley. The purpose of Criteo Email is to find visitors of Criteo advertising clients’ properties (websites, apps and newsletters) and send them personalized emails. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of Criteo Email [Click Here](https://web.archive.org/web/20151206024224id_/http://www.radley.co.uk/help/privacy-cookie-policy/%E2%80%9Dhttp://privacy.criteoemail.com/gb/privacy-policy.html%E2%80%9D).
+
 ## Security
 
 We realise how important it is to securely store any information that you provide us. The Radley transactional web site currently uses high-level Secure Socket Layer (SSL) encryption technology, the most advanced security software currently available for online transactions. You can therefore rest assured that we take the security of your payment and personal details very seriously. We may vary this in the future if we feel you will benefit from greater security whilst using our Website.
@@ -62,5 +66,5 @@ You have the right to access any information that we hold about you. Your right 
 
 ## Complaints
 
-**If you feel that Radley is not abiding by its posted privacy policy, you should first contact the**[Online Customer Service Department](http://www.radley.co.uk/contacts/) **or telephone 08450 707080. You can also write to us at:-**  
+**If you feel that Radley is not abiding by its posted privacy policy, you should first contact the**[Online Customer Service Department](http://www.radley.co.uk/contacts/) **or telephone +44 (0) 207 741 1055. You can also write to us at:-**  
 **Radley & Co, McBeath House, 310 Goswell Road, London, EC1V 7LW**
