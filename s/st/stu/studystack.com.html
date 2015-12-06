@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the studystack.com privacy policy that was archived on 2015-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150617144206id_/http%3A//www.studystack.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the studystack.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206040322id_/http%3A//www.studystack.com/privacy.jsp) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html itemscope="" itemtype="http://schema.org/"><head>
+<!DOCTYPE html><html itemscope="" itemtype="http://schema.org/" lang="en"><head>
  <!-- commonHead.jsp -->
    <meta content="IE=9" http-equiv="X-UA-Compatible">
    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -19,18 +19,10 @@
    <link href="http://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
 
 
+   
+       <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//tags-cdn.deployads.com/a/studystack.com.js" async=""></script>
+   
 
-<!-- Begin Inspectlet Embed Code -->
-<script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" id="inspectletjs">
-window.__insp = window.__insp || [];
-__insp.push(['wid', 555755717]);
-(function() {
-function __ldinsp(){var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); }
-if (window.attachEvent) window.attachEvent('onload', __ldinsp);
-else window.addEventListener('load', __ldinsp, false);
-})();
-</script>
-<!-- End Inspectlet Embed Code -->
 
 
    <title>Study Stack - Privacy</title>
@@ -54,9 +46,6 @@ else window.addEventListener('load', __ldinsp, false);
 
 
 
-
-
-      
 
 
 
@@ -115,6 +104,14 @@ else window.addEventListener('load', __ldinsp, false);
 <script type="text/javascript">
    var UTILS_JS = "" ;
    var studyStackId = 0 ;
+
+
+
+
+   
+
+
+
    var userBadges = '';
 
 </script>
@@ -123,7 +120,7 @@ else window.addEventListener('load', __ldinsp, false);
 
 
 
-<script src="http://sstk.biz/utils.js?v=21" type="text/javascript"></script>
+<script src="http://sstk.biz/utils.js?v=2" type="text/javascript"></script>
 
 
 
@@ -138,18 +135,27 @@ else window.addEventListener('load', __ldinsp, false);
 
       
 
-         <!-- linkUnitTop.jsp -->
+         <!-- linkUnitTop.jsp  -->
 
 <div id="homePageLogoX" onclick="window.location.href='/';" class="link">
-        <img src="http://sstk.biz/images/sslogo-noreflection.png?v=3" alt="StudyStack" width="265" height="114">
+        <img src="http://sstk.biz/images/sslogo-noreflection.png" alt="StudyStack" width="265" height="114">
 </div>
-
+    
         <!-- connectBox.jsp   edmodoStudent = false  edmodoUser = false edmodoTeacher = false  -->   
 <script type="text/javascript">
    function fbLogout() {
        FB.logout( function( response ) {
            window.location.href = '/Logoff.jsp';
        } );
+   }
+
+   function validateLogonForm(id) {
+       var userName = document.getElementById( id ).value ;
+       if ( userName.indexOf( '/' )>=0 || userName.indexOf( '&' )>=0 ) {
+           alert( 'invalid character in username' );
+           return false ;
+       }
+       return true ;
    }
 
 </script>
@@ -163,13 +169,15 @@ else window.addEventListener('load', __ldinsp, false);
                   <span id="withFB2">or...</span>
 
               </div>
-              <form id="logonForm" name="logonForm" autocomplete="off" method="post" action="https://www.studystack.com/nogol.jsp">
+              <form id="logonForm" name="logonForm" autocomplete="off" onsubmit="return validateLogonForm('id')" method="post" action="https://www.studystack.com/nogol.jsp">
                <div>
+                 <label for="id" style="display:none">Username</label>
                  <input type="text" name="id" id="id" value="" maxlength="100" placeholder="Username">
+                 <label for="word" style="display:none">Password</label>
                  <input type="password" name="word" id="word" value="" size="20" maxlength="15" placeholder="Password">
+                 <input id="submitLogon" class="smallbutton" onclick="document.cookie='cookietest=1';return true;" type="submit" value="Login">
                  <a href="/ForgotPassword.jsp" id="retrievePasswordLink">Reset Password</a>
                  <a href="https://www.studystack.com/signUp.jsp" id="signUpLink">Free Sign Up</a>
-                 <input id="submitLogon" class="smallbutton" onclick="document.cookie='cookietest=1';return true;" type="submit" value="Login">
                 </div>
               </form>
            </div>
@@ -184,11 +192,13 @@ else window.addEventListener('load', __ldinsp, false);
 
 
 
+    
 
 
 <div style="position:absolute; top:63px; left: 319px;" class="noprint">
       <form id="srFormTop" method="get" action="/SearchResults.jsp" enctype="multipart/form-data" accept-charset="UTF-8">
-             <input id="q" name="q" type="text" size="45" value="" style="padding:4px;">
+             <label for="q" style="display:none">Query</label>
+             <input id="q" name="q" type="text" size="45" value="" style="padding:4px;width:312px">
              <button type="submit" style="padding:4px" class="smallbutton">Search</button>
       </form><br>
 </div>
@@ -320,7 +330,6 @@ All rights reserved.<br>
 <a href="/FAQ" title="Frequently Asked Questions">FAQ</a>&nbsp;-&nbsp;
 <a href="/Terms.jsp">Terms of Service</a>&nbsp;-&nbsp;
 <a href="/privacy.jsp">Privacy Statement</a>&nbsp;-&nbsp;
-
  <a href="/SendSuggestion.jsp?studyStackId=0&amp;reference=http://www.studystack.com/privacy.jsp">Contact</a>&nbsp;-&nbsp;
 
 
@@ -340,31 +349,27 @@ All rights reserved.<br>
 
 
    <div id="bottomButtonWrapper">
-       <a href="/" id="browseOrSearchButton"></a>
+       <a title="browse or search millions of existing flashcards" href="/" id="browseOrSearchButton"></a>
 
-           <a href="editdata--1" id="createFlashcardsButton"></a>
+           <a title="create flashcards plus a dozen other activities" href="editdata--1" id="createFlashcardsButton"></a>
 
    </div>
 
 
 
- <script type="text/javascript">
-   var _gaq = _gaq || [];
-   _gaq.push(['_setAccount', 'UA-463111-1']);
-   _gaq.push(['_trackPageview']);
-    (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-   var s = document.getElementsByTagName('script')[0];
-   s.parentNode.insertBefore(ga, s);
-    })();
+ <!--  googleAnalytics.jsp  -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-463111-1', 'auto');
+  ga('send', 'pageview', {
+    page: '/privacy.jsp',
+    title: '/privacy.jsp'
+  });
 </script>
-
-
-
-
 
 
 
@@ -389,7 +394,7 @@ All rights reserved.<br>
 </script>
 
 
-     <!-- mobile=false     requestCount=6  -->
+     <!-- mobile=false     requestCount=2 adTypes: Sortable  -->
 
 
 
