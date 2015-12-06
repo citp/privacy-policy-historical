@@ -1,66 +1,55 @@
-<!--The following is the downloaded HTML source of the cabionline.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607131244id_/http%3A//www.cabionline.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cabionline.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206153156id_/http%3A//www.cabionline.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head>
 	<meta charset="UTF-8">
 	<meta http-equiv="content-type" content="text/html;charset=utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMPVFFbGwcJUFhWDwg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 	<meta name="p:domain_verify" content="3fe51f94b2f2b6532fb6130b2200139c">
 	<meta name="google-site-verification" content="PQsLgCYc7gNUQYEOv9RI2f81OHHHtyw0dNp9q2m8kzY">
 	<meta name="msvalidate.01" content="508A88DAF7D49BE7CD10CBEA3BE4F6A7">
 
 	<link rel="profile" href="http://gmpg.org/xfn/11">
-	<link rel="stylesheet" type="text/css" media="all" href="http://www.cabionline.com/wp-content/themes/cabi_fall_2013/style.css?071920141354">
-	<link rel="stylesheet" type="text/css" media="all" href="http://www.cabionline.com/wp-content/themes/cabi_fall_2013/stylesheets/responsive/desktop.css?071920141354">
-	<link rel="stylesheet" type="text/css" media="screen and (min-width: 1330px)" href="http://www.cabionline.com/wp-content/themes/cabi_fall_2013/stylesheets/responsive/desktop-large.css?071920141354">
-	<link rel="stylesheet" type="text/css" media="screen and (min-width: 768px) and (max-width: 1080px)" href="http://www.cabionline.com/wp-content/themes/cabi_fall_2013/stylesheets/responsive/landscape-tablet.css?071920141354">
-	<link rel="stylesheet" type="text/css" media="screen and (max-width: 767px)" href="http://www.cabionline.com/wp-content/themes/cabi_fall_2013/stylesheets/responsive/portrait-tablet.css?071920141354">
-	<link rel="stylesheet" type="text/css" media="screen and (max-width: 480px)" href="http://www.cabionline.com/wp-content/themes/cabi_fall_2013/stylesheets/responsive/mobile.css?071920141354">
-	<link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
-
-	<link rel="shortcut icon" href="http://www.cabionline.com/wp-content/themes/cabi_fall_2013/images/favicon.png">
-
-		<link rel="pingback" href="http://www.cabionline.com/xmlrpc.php">
-
-	<script type="text/javascript" src="http://www.cabionline.com/wp-content/themes/cabi_fall_2013/javascripts/jquery-1.9.1.min.js"></script>
-	<script>jQuery.migrateMute = true</script>
-	<script src="http://www.cabionline.com/wp-content/themes/cabi_fall_2013/javascripts/jquery-migrate-1.2.1.js"></script>
-	<script type="text/javascript" src="http://www.cabionline.com/wp-content/themes/cabi_fall_2013/javascripts/modernizr.js"></script>
-	<script type="text/javascript" src="http://www.cabionline.com/wp-content/themes/cabi_fall_2013/javascripts/html5shiv.js"></script>
-	<script type="text/javascript" src="http://www.cabionline.com/wp-content/themes/cabi_fall_2013/javascripts/main.js"></script>
-		<script type="text/javascript" src="//use.typekit.net/tci5cir.js"></script>
-		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-
-	<script type="text/javascript">
-	var SITE_URL = "//www.cabionline.com";
-	var TEMPLATE_DIR = "http://www.cabionline.com/wp-content/themes/cabi_fall_2013";
-	var AJAX_URL = SITE_URL + "/wp-admin/admin-ajax.php";
-	var PAGE_TITLE = "Privacy Policy";
-	</script>
+	<link rel="stylesheet" type="text/css" media="all" href="http://www.cabionline.com/wp-content/themes/cabi/style.css">
+	<link rel="stylesheet" type="text/css" media="all" href="http://www.cabionline.com/wp-content/themes/cabi/assets/css/main.css?1448482179">
+	<link rel="shortcut icon" href="http://media.cabionline.com/wp-content/themes/cabi/assets/images/favicon.ico">
+	<link rel="pingback" href="http://www.cabionline.com/xmlrpc.php">
 	
-<!-- This site is optimized with the Yoast WordPress SEO plugin v2.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
-<title>Privacy Policy - CAbi Spring 2015 Collection</title>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+var SITE_URL = "//www.cabionline.com";
+var TEMPLATE_DIR = "http://www.cabionline.com/wp-content/themes/cabi";
+var AJAX_URL = SITE_URL + "/wp-admin/admin-ajax.php";
+var PAGE_TITLE = "Privacy Policy";
+var FB_APP_ID = "440563599310276";
+</script>
+
+<!-- This site is optimized with the Yoast SEO plugin v2.3.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Privacy Policy - Cabi Fall 2015 Collection</title>
 <meta name="robots" content="noindex,nofollow">
 <link rel="canonical" href="http://www.cabionline.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Policy - CAbi Spring 2015 Collection">
-<meta property="og:description" content="Privacy Policy Last Updated: June 1, 2009 1. INTRODUCTION 1.1. Purpose of Policy Welcome to the CAbi, LLC family of web sites. CAbi, LLC (”us,” “we,” or “CAbi”) is committed to respecting the privacy rights of its customers, visitors, and other users of its web site (the “Web Site”). We created this Privacy Policy (this …">
+<meta property="og:title" content="Privacy Policy - Cabi Fall 2015 Collection">
+<meta property="og:description" content="Privacy Policy Last Updated: June 1, 2009 1. INTRODUCTION 1.1. Purpose of Policy Welcome to the cabi, LLC family of web sites. cabi, LLC (”us,” “we,” or “cabi”) is committed to respecting the privacy rights of its customers, visitors, and other users of its website (the “Website”). We created this Privacy Policy (this “Policy”) to …">
 <meta property="og:url" content="http://www.cabionline.com/privacy-policy/">
-<meta property="og:site_name" content="CAbi Spring 2015 Collection">
+<meta property="og:site_name" content="Cabi Fall 2015 Collection">
+<meta property="article:publisher" content="http://www.facebook.com/cabiclothing/">
 <meta property="fb:admins" content="73200629">
+<meta property="og:image" content="http://www.cabionline.com/wp-content/uploads/2015/07/cabi-generic-share.jpg">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:description" content="Privacy Policy Last Updated: June 1, 2009 1. INTRODUCTION 1.1. Purpose of Policy Welcome to the CAbi, LLC family of web sites. CAbi, LLC (”us,” “we,” or “CAbi”) is committed to respecting the privacy rights of its customers, visitors, and other users of its web site (the “Web Site”). We created this Privacy Policy (this […]">
-<meta name="twitter:title" content="Privacy Policy - CAbi Spring 2015 Collection">
-<meta name="twitter:domain" content="CAbi Spring 2015 Collection">
-<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/www.cabionline.com\/","name":"CAbi Spring 2015 Collection"}</script>
-<!-- / Yoast WordPress SEO plugin. -->
+<meta name="twitter:description" content="Privacy Policy Last Updated: June 1, 2009 1. INTRODUCTION 1.1. Purpose of Policy Welcome to the cabi, LLC family of web sites. cabi, LLC (”us,” “we,” or “cabi”) is committed to respecting the privacy rights of its customers, visitors, and other users of its website (the “Website”). We created this Privacy Policy (this “Policy”) to […]">
+<meta name="twitter:title" content="Privacy Policy - Cabi Fall 2015 Collection">
+<meta name="twitter:site" content="@cabiclothing">
+<meta name="twitter:domain" content="Cabi Fall 2015 Collection">
+<meta name="twitter:image:src" content="http://www.cabionline.com/wp-content/uploads/2015/07/cabi-generic-share.jpg">
+<meta name="twitter:creator" content="@cabiclothing">
+<!-- / Yoast SEO plugin. -->
 
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.cabionline.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.1"}};
-			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f;c.supports={simple:d("simple"),flag:d("flag")},c.supports.simple&&c.supports.flag||(f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.cabionline.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.1" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.cabionline.com\/wp-includes\/js\/wp-emoji-release.min.js?1448482179"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.cabionline.com/wp-includes/js/wp-emoji-release.min.js?1448482179" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -75,719 +64,354 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="jquery-fancyboxcss-css" href="http://www.cabionline.com/wp-content/themes/cabi_fall_2013/stylesheets/jquery.fancybox.css?ver=4.2.1" type="text/css" media="all">
-<link rel="stylesheet" id="less-init-css" href="http://media.cabionline.com/wp-content/uploads/wp-less/init-main-eeaf9325f1.css" type="text/css" media="all">
-<link rel="stylesheet" id="components-less-init-css" href="http://media.cabionline.com/wp-content/uploads/wp-less/init-653116f435.css" type="text/css" media="all">
-<link rel="stylesheet" id="simplyInstagram-css" href="http://www.cabionline.com/wp-content/plugins/simply-instagram/css/simply-instagram.css?ver=3" type="text/css" media="all">
-<link rel="stylesheet" id="prettyPhoto-css" href="http://www.cabionline.com/wp-content/plugins/simply-instagram/css/simply-instagram-prettyPhoto.css?ver=4.2.1" type="text/css" media="all">
-<script type="text/javascript" src="http://www.cabionline.com/wp-content/plugins/cabi-wishlist/cabi-wishlist.js?ver=4.2.1"></script>
-<script type="text/javascript" src="http://www.cabionline.com/wp-content/themes/cabi_fall_2013/javascripts/plugins/jquery.fancybox.js?ver=4.2.1"></script>
-<script type="text/javascript" src="http://www.cabionline.com/wp-content/plugins/simply-instagram/js/simply-instagram-jquery.prettyPhoto.js?ver=3.1.4"></script>
+<script type="text/javascript" src="http://www.cabionline.com/wp-content/themes/cabi/assets/js/dist/plugins.js?1448482179"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.cabionline.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://media.cabionline.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.2.1">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.cabionline.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.3">
 <link rel="shortlink" href="http://www.cabionline.com/?p=3372">
-
 <script type="text/javascript">
 var ajaxurl = 'http://www.cabionline.com/wp-admin/admin-ajax.php';
-//var ajaxurl = 'http://www.cabionline.com/wp-content/plugins/pod1/cabi-email.php';
 //console.log(ajaxurl);
 </script>
-<meta http-equiv="X-UA-Compatible" content="IE=8">
-<!-- BEGIN SimplyInstagram IE -->
-<!-- [if IE 9]>
-<style type="text/css">
-
-.comment-profile{
-	margin: 2px;
-	width: 45px;
-	float: left;
-}
-.comment-profile img{
-	vertical-align: top;
-}
-.comment-holder{
-	top: 0px;
-	width: 200px;
-	float: left !important;	
-}
-
-.comments-holder{
-	width: 210px;
-	float: left;
-}
-</style>
-<![endif]-->
-<!-- END SimplyInstagram IE -->
-
-<!-- Start of Simply Instagram Custom CSS -->
-<!-- Developed by Rolly G. Bueno Jr. -->
-<style type="text/css">
-.masonryItem,.masonryItem hr{width:115px; margin:0px;-webkit-box-shadow: none;
-box-shadow: none;
-border: none;
-top: 0px;
-overflow: visible
-display: inline-block !important;
-width: 33.3333333% !important;
-}
-    .masonryItem {
-      position: relative !important;
-      top: inherit !important;
-      left: inherit !important;
-      margin-bottom: 0 !important
-    }
-
-#instagram .front-photo {
-  margin: 0;
-}
-
-#masonryContainer {
-margin-bottom: 0px;
-}
-</style>
-<!-- End of Simply Instagram Custom CSS -->
-<!-- WordPress Most Popular --><script type="text/javascript">/* <![CDATA[ */ jQuery.post("http://www.cabionline.com/wp-admin/admin-ajax.php", { action: "wmp_update", id: 3372, token: "a602b733ae" }); /* ]]> */</script><!-- /WordPress Most Popular --><script type="text/javascript">
+<!-- WordPress Most Popular --><script type="text/javascript">/* <![CDATA[ */ jQuery.post("http://www.cabionline.com/wp-admin/admin-ajax.php", { action: "wmp_update", id: 3372, token: "03a6eabd71" }); /* ]]> */</script><!-- /WordPress Most Popular --><script type="text/javascript">
   var ajaxurl = 'http://www.cabionline.com/wp-admin/admin-ajax.php';
 </script>
 <meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
-<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://www.cabionline.com/wp-content/plugins/js_composer/assets/css/vc-ie8.css" media="screen"><![endif]-->			
-	<link rel="stylesheet" href="http://www.cabionline.com/wp-content/themes/cabi_fall_2013/stylesheets/print.css" type="text/css" media="print">	
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://www.cabionline.com/wp-content/plugins/js_composer/assets/css/vc-ie8.css" media="screen"><![endif]-->		<link rel="stylesheet" href="http://www.cabionline.com/wp-content/themes/cabi/assets/css/print.css" type="text/css" media="print">
 <script async="" type="text/javascript" src="//cabionline.disqus.com/count.js"></script></head>
-<body class="page page-id-3372 page-template-default no-exclusive-access wpb-js-composer js-comp-ver-4.3.4 vc_responsive tribe-theme-cabi_fall_2013 page-template-page-php">
-		<div id="header-wrapper">
-				<div id="mobile-drawer">
-			<div class="menu"><ul id="menu-mobile-drawer-menu-left" class="menu"><li id="menu-item-12627" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12627"><a href="/">Home</a></li>
-<li id="menu-item-12629" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12629"><a href="/purchase-clothing/">Find a Consultant</a></li>
-<li id="menu-item-20402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20402"><a href="/collection/clothes">Collection</a>
+
+<body class="page page-id-3372 page-template-default no-exclusive-access wpb-js-composer js-comp-ver-4.3.4 vc_responsive" data-page-id="privacy-policy" id="page-privacy-policy">
+
+	 <header id="site-header">
+    <div id="header-wrapper">
+    <!-- DESKTOP -->
+    <div id="header-logo-bar">
+      <div class="container">
+        <div id="logo-bar-wrapper">
+          <div class="logo-bar-section logo-bar-left"><a href="/mailinglist" class="btn-filter" onclick="_gaq.push(['_trackEvent', 'Content Interaction', 'Read More', 'Header: Join Mailing List btn']);">JOIN OUR EMAIL LIST</a></div>
+<div class="logo-bar-section logo-bar-center">
+	<a href="/">
+		<object type="image/svg+xml" data="http://media.cabionline.com/wp-content/themes/cabi/assets/svgs/cabilogo-black.svg">
+			<img src="http://media.cabionline.com/wp-content/themes/cabi/assets/images/global/cabi-logo-fallback.png">
+		</object>   
+	</a>
+</div>
+<div class="logo-bar-section logo-bar-right"><a href="/lead-form?lead=brand-header-bar" class="btn-filter" onclick="_gaq.push(['_trackEvent', 'Content Interaction', 'Read More', 'Header: Find a Stylist btn']);">FIND A <small class="bi">cabi</small> STYLIST</a></div> 
+        </div>
+      </div>
+    </div>
+    <!-- DESKTOP END -->
+    <div id="header-bar">
+      <div class="container">
+                <!-- MOBILE -->
+        <div id="mobile-menu">
+          <a id="mobile-menu-button" href="javascript://"><i class="fa fa-bars fa-2x"></i></a>
+          <div id="mobile-menu-logo">
+            <a href="/">
+              <img src="http://media.cabionline.com/wp-content/themes/cabi/assets/images/global/cabi-logo-fallback.png">         
+            </a>
+          </div>          
+        </div>        
+        <!-- MOBILE END -->
+        <nav id="navigation-main">
+          <div class="menu-primary">
+	<ul class="menu-main-navigation">
+		<li id="menu-collection">
+			<a href="/collection/clothes" class="archer-semibold">Collection</a>
+<div class="menu-submenu">			
+	<ul class="sub-menu"><li id="menu-item-29792" class="standout menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-29792"><a href="/collection/clothes">Clothes</a>
 <ul class="sub-menu">
-	<li id="menu-item-20408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20408"><a href="http://www.cabionline.com/clothing-collection/">Overview</a></li>
-	<li id="menu-item-12631" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12631"><a href="/collection/clothes">Browse By Item</a></li>
-	<li id="menu-item-12632" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12632"><a href="/collection/outfits">Browse By Outfit</a></li>
-	<li id="menu-item-12636" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12636"><a href="http://www.cabionline.com/clothing-collection/clothing-gallery/">Gallery</a></li>
-	<li id="menu-item-20407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20407"><a href="http://www.cabionline.com/must-have-women-clothes/">Must Haves Now</a></li>
-	<li id="menu-item-20403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20403"><a href="http://www.cabionline.com/denim-guide/">Denim Guide</a></li>
-	<li id="menu-item-20386" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20386"><a href="/collection/look-book/#">Look Book</a></li>
-	<li id="menu-item-20387" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20387"><a href="/collection/bonus-book/#">Bonus Book</a></li>
-	<li id="menu-item-20404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20404"><a href="http://www.cabionline.com/fashion-style-quiz/">Quiz</a></li>
-	<li id="menu-item-20405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20405"><a href="http://www.cabionline.com/love-carol/">Love, Carol</a></li>
-	<li id="menu-item-20406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20406"><a href="http://www.cabionline.com/fall-2014-clothing-favorites/">Fall 2014 Favorites</a></li>
-	<li id="menu-item-24881" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24881"><a href="http://www.cabionline.com/cabiclothing/">#CA<small class="bi">bi</small>Clothing</a></li>
-	<li id="menu-item-16489" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16489"><a href="http://www.cabionline.com/sneak-peek-video/">Sneak Peek Video</a></li>
+	<li id="menu-item-29793" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29793"><a href="/collection/clothes">All Clothes</a></li>
+	<li id="menu-item-29794" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-29794"><a href="http://www.cabionline.com/collection/clothes-category/womens-tops/">Tops</a></li>
+	<li id="menu-item-31084" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-31084"><a href="http://www.cabionline.com/collection/clothes-category/womens-sweaters/">Sweaters</a></li>
+	<li id="menu-item-29796" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-29796"><a href="http://www.cabionline.com/collection/clothes-category/womens-jackets/">Jackets</a></li>
+	<li id="menu-item-29797" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-29797"><a href="http://www.cabionline.com/collection/clothes-category/denim/">Denim</a></li>
+	<li id="menu-item-29798" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-29798"><a href="http://www.cabionline.com/collection/clothes-category/womens-pants/">Pants</a></li>
+	<li id="menu-item-29799" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-29799"><a href="http://www.cabionline.com/collection/clothes-category/womens-skirts-dresses/">Skirts &amp; Dresses</a></li>
+	<li id="menu-item-31481" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-31481"><a href="http://www.cabionline.com/collection/clothes-category/jewelry/">Jewelry</a></li>
+	<li id="menu-item-29800" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-29800"><a href="http://www.cabionline.com/collection/clothes-category/womens-accessories/">Accessories</a></li>
+	<li id="menu-item-33980" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-33980"><a href="http://www.cabionline.com/collection/clothes-category/welcome-joy/">Welcome Joy</a></li>
+	<li id="menu-item-33158" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-33158"><a href="http://www.cabionline.com/collection/clothes-category/welcome-warmth/">Welcome Warmth</a></li>
 </ul>
 </li>
-<li id="menu-item-12637" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12637"><a href="http://www.cabionline.com/shows/">Host a Show</a>
+<li id="menu-item-29803" class="standout menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-29803"><a href="/collection/outfits">Looks</a>
 <ul class="sub-menu">
-	<li id="menu-item-20401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20401"><a href="http://www.cabionline.com/host-a-show/">Overview</a></li>
-	<li id="menu-item-12638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12638"><a href="http://www.cabionline.com/shows/attend-a-show/">Attend a Show</a></li>
-	<li id="menu-item-12639" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12639"><a href="http://www.cabionline.com/shows/host-clothing-show/">The Show</a></li>
-	<li id="menu-item-14717" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14717"><a href="http://www.cabionline.com/shows/hostess-benefits/">Hostess Benefits</a></li>
-	<li id="menu-item-14718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14718"><a href="http://www.cabionline.com/shows/faq/">FAQS</a></li>
-	<li id="menu-item-16483" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16483"><a href="http://www.cabionline.com/shows/host-show-video/">Host a Show Video</a></li>
+	<li id="menu-item-29804" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29804"><a href="/collection/outfits">All Looks</a></li>
+	<li id="menu-item-29805" class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-29805"><a href="http://www.cabionline.com/styles/casual/">Casual</a></li>
+	<li id="menu-item-29807" class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-29807"><a href="http://www.cabionline.com/styles/dressy/">Dressy</a></li>
+	<li id="menu-item-29808" class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-29808"><a href="http://www.cabionline.com/styles/everyday/">Everyday</a></li>
+	<li id="menu-item-29810" class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-29810"><a href="http://www.cabionline.com/styles/work/">Work</a></li>
+	<li id="menu-item-29806" class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-29806"><a href="http://www.cabionline.com/styles/date-night/">Date Night</a></li>
+	<li id="menu-item-29809" class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-29809"><a href="http://www.cabionline.com/styles/special-occasion/">Special Occasion</a></li>
 </ul>
 </li>
-</ul></div>			<div class="menu"><ul id="menu-mobile-drawer-menu-right" class="menu"><li id="menu-item-12641" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12641"><a href="http://www.cabionline.com/career-in-fashion/">Join Us</a>
+<li id="menu-item-29811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-29811"><a href="http://www.cabionline.com/clothing-collection/style-and-ideas/">Style and Ideas</a>
 <ul class="sub-menu">
-	<li id="menu-item-20409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20409"><a href="http://www.cabionline.com/career-in-fashion/">Overview</a></li>
-	<li id="menu-item-12642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12642"><a href="http://www.cabionline.com/career-in-fashion/business-model/">Business Model</a></li>
-	<li id="menu-item-12644" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12644"><a href="http://www.cabionline.com/career-in-fashion/how-cabi-supports-you/">How CA<small class="bi">bi</small> Supports You</a></li>
-	<li id="menu-item-20411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20411"><a href="http://www.cabionline.com/career-in-fashion/why-cabi/">Why CA<small class="bi">bi</small>?</a></li>
-	<li id="menu-item-12646" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12646"><a href="/careers/consultants/">CA<small class="bi">bi</small> Girls</a></li>
-	<li id="menu-item-20410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20410"><a href="http://www.cabionline.com/career-in-fashion/women-purpose/">Women on Purpose</a></li>
-	<li id="menu-item-12643" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12643"><a href="/career-events">Career Events</a></li>
-	<li id="menu-item-13249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13249"><a href="http://www.cabionline.com/career-in-fashion/experience-magazine/">CA<small class="bi">bi</small> Career Book</a></li>
-	<li id="menu-item-16187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16187"><a href="http://www.cabionline.com/career-in-fashion/cabi-career-video/">Career Video</a></li>
+	<li id="menu-item-29816" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29816"><a href="http://www.cabionline.com/fall-favorites/">100 Looks To Fall For</a></li>
+	<li id="menu-item-29818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29818"><a href="http://www.cabionline.com/clothing-collection/style-and-ideas/style-tips/">Style Tips</a></li>
+	<li id="menu-item-30306" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30306"><a href="http://www.cabionline.com/spring-into-fall/">Spring Into Fall</a></li>
+	<li id="menu-item-29817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29817"><a href="http://www.cabionline.com/fashion-style-quiz/">Style Quiz</a></li>
+	<li id="menu-item-29814" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29814"><a href="http://www.cabionline.com/denim-guide/">Denim Guide</a></li>
+	<li id="menu-item-29813" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29813"><a href="http://www.cabionline.com/must-have-women-clothes/">Must Haves Now</a></li>
+	<li id="menu-item-29812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29812"><a href="http://www.cabionline.com/clothing-collection/clothing-gallery/">Gallery</a></li>
+	<li id="menu-item-29815" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29815"><a href="http://www.cabionline.com/love-carol/">Love, Carol</a></li>
+	<li id="menu-item-29821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29821"><a href="http://www.cabionline.com/cabiclothing/">#<span class="lowercase">cabi</span>clothing</a></li>
+	<li id="menu-item-29819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29819"><a href="http://www.cabionline.com/clothing-collection/look-book/">Look Book</a></li>
+	<li id="menu-item-29820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29820"><a href="http://www.cabionline.com/clothing-collection/the-notion/"><span class="lowercase">the </span>N<span class="lowercase">otion, by <span class="lowercase">cabi</span></span></a></li>
 </ul>
 </li>
-<li id="menu-item-12649" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12649"><a href="/blog">Blog</a></li>
-<li id="menu-item-12648" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12648"><a href="http://www.cabionline.com/foundation/">Foundation</a>
+<li id="menu-item-29822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-29822"><a href="/cabi-tv/">Videos</a>
 <ul class="sub-menu">
-	<li id="menu-item-20412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20412"><a href="http://www.cabionline.com/foundation/">Overview</a></li>
-	<li id="menu-item-16490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16490"><a href="http://www.cabionline.com/foundation/donate/">Give Now</a></li>
+	<li id="menu-item-31344" class="menu-item menu-item-type-post_type menu-item-object-video menu-item-31344"><a href="http://www.cabionline.com/video/fall-2015-collection-sneak-peek/">Sneak Peek</a></li>
+	<li id="menu-item-30307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30307"><a href="http://www.cabionline.com/cabi-tv/">See More</a></li>
 </ul>
 </li>
-<li id="menu-item-12650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12650"><a href="http://www.cabionline.com/what-is-cabi/">What Is CA<small class="bi">bi</small>?</a>
-<ul class="sub-menu">
-	<li id="menu-item-20413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20413"><a href="http://www.cabionline.com/what-is-cabi/">Overview</a></li>
-	<li id="menu-item-12651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12651"><a href="http://www.cabionline.com/what-is-cabi/timeline/">Timeline</a></li>
-	<li id="menu-item-20414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20414"><a href="http://www.cabionline.com/what-is-cabi/who-we-are/">Who We Are</a></li>
-	<li id="menu-item-24882" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24882"><a href="http://www.cabionline.com/cabiscoop/">#CA<small class="bi">bi</small>Scoop</a></li>
-	<li id="menu-item-18566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18566"><a href="http://www.cabionline.com/seen-on/">Seen On</a></li>
-	<li id="menu-item-18769" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18769"><a href="http://www.cabionline.com/press/">Press</a></li>
-</ul>
-</li>
-<li id="menu-item-14757" class="no-margin menu-item menu-item-type-custom menu-item-object-custom menu-item-14757"><a href="/host-a-show">Host a Show</a></li>
-<li id="menu-item-12653" class="no-margin menu-item menu-item-type-custom menu-item-object-custom menu-item-12653"><a href="/purchase-clothing">Make a Purchase</a></li>
-<li id="menu-item-14758" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14758"><a href="/become-a-consultant">Become a Consultant</a></li>
-<li id="menu-item-14423" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14423"><a href="http://www.cabionline.com/consultants/">Consultant Login</a></li>
-<li id="menu-item-14475" class="consultant-application menu-item menu-item-type-custom menu-item-object-custom menu-item-14475"><a href="https://www.cabiclio.com/backoffice/control/ConsultantApplicationAccess?partyId=">Consultant Application</a></li>
-</ul></div>			<div class="clearfix"></div>
+<li id="menu-item-29825" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29825"><a href="/lead-form?lead=main-menu">Find a <span class="lowercase"><span class="lowercase">cabi</span></span> Stylist</a></li>
+</ul>	<ul class="promotion">
+		<a href="/collection/clothes-category/welcome-joy/" onclick="_gaq.push(['_trackEvent', 'Content Interaction', 'Read More', 'Header: Collection Dropdown Promo']);"><img src="http://media.cabionline.com/wp-content/themes/cabi/assets/images/navigation/welcome-joy-collection-menu-promo.jpg?1" alt="Cold Weather Call For Hot Fashion."></a>			
+	</ul>
+</div>		
+		</li>
+		<li id="menu-host">
+			<a href="/fashion-experience/" class="archer-semibold">Host</a>		</li>
+		<li id="menu-join-us">
+			<a href="/career-in-fashion/" class="archer-semibold">Join Us</a>
+<div class="menu-submenu">			
+	<ul class="sub-menu"><li id="menu-item-29826" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29826"><a href="http://www.cabionline.com/career-in-fashion/">Overview</a></li>
+<li id="menu-item-29827" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29827"><a href="http://www.cabionline.com/career-in-fashion/business-model/">The <span class="lowercase">cabi</span> Business Model</a></li>
+<li id="menu-item-29828" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29828"><a href="http://www.cabionline.com/career-in-fashion/how-cabi-supports-you/">How <span class="lowercase">cabi</span> Supports You</a></li>
+<li id="menu-item-29829" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29829"><a href="http://www.cabionline.com/career-in-fashion/clothing-consultants/"><span class="lowercase">cabi</span> Girls</a></li>
+<li id="menu-item-29830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29830"><a href="/career-events">Career Events</a></li>
+<li id="menu-item-29831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29831"><a href="/lead-form">Join the Movement</a></li>
+</ul>	<div id="join-us-callout" class="stag-light color-pink">Discover a career without compromise<br>as a cabi Stylist</div>	
+	<ul class="promotion">
+		<a href="/career-in-fashion" onclick="_gaq.push(['_trackEvent', 'Content Interaction', 'Read More', 'Header: Join Us Dropdown Promo']);"><img src="http://media.cabionline.com/wp-content/themes/cabi/assets/images/navigation/join-us-promotion.jpg" alt=""></a>	
+	</ul>
+</div>		</li>
+		<li id="menu-cabitv" class="lowercase">
+			<a href="/cabi-tv" class="archer-semibold">cabiTV</a>		</li>
+		<li id="menu-blog">
+			<a href="/blog" class="archer-semibold">Blog</a>
+<div class="menu-submenu">			
+	<ul class="sub-menu"><li id="menu-item-29833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29833"><a href="http://www.cabionline.com/blog/">All Posts</a></li>
+<li id="menu-item-30708" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30708"><a href="http://www.cabionline.com/category/style-ideas/">Style &amp; Ideas</a></li>
+<li id="menu-item-29835" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29835"><a href="http://www.cabionline.com/category/women-on-purpose/">Women “On Purpose”</a></li>
+<li id="menu-item-30709" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30709"><a href="http://www.cabionline.com/category/press-seen-on/">Press &amp; Seen On</a></li>
+<li id="menu-item-29837" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29837"><a href="http://www.cabionline.com/category/food-drink-blog/">Food/Drink</a></li>
+<li id="menu-item-31491" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-31491"><a href="http://www.cabionline.com/category/the-notion/"><span class="lowercase">the </span>N<span class="lowercase">otion, by <span class="lowercase">cabi</span></span></a></li>
+<li id="menu-item-30112" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30112"><a href="/blog-archive/">Archive</a></li>
+</ul>	<div id="blog-callout">
+
+  <!-- RECENT FEATURED POST -->
+  		<a href="http://www.cabionline.com/2015/11/24/a-peek-at-our-spring-loves/">
+      <img src="http://media.cabionline.com/wp-content/uploads/2015/11/cabi_SneakPeek_featured.jpg">
+    </a>
+		<div class="post">
+			<p id="label">Recent Post</p>
+			<p id="title">a peek at our spring loves</p>
 		</div>
-	
-		<div id="header" class=""><div class="container tablet-full-width"><div class="row">
-			<a class="visible-phone" id="mobile-navigation-button">
-				<span>&nbsp;</span>
-			</a>
+  
+	</div>
+	<ul class="promotion">
+		<a href="/blog" onclick="_gaq.push(['_trackEvent', 'Content Interaction', 'Read More', 'Header: Blog Dropdown Promo']);"><img src="http://media.cabionline.com/wp-content/themes/cabi/assets/images/navigation/blog-promotion.jpg" alt=""></a>
+	</ul>
+</div>		</li>
+		<li id="menu-foundation">
+			<a href="/foundation" class="archer-semibold">Foundation</a>		</li>
+		<li class="lowercase">
+			<a href="/what-is-cabi" class="archer-semibold">WHAT IS <span class="lowercase">cabi</span>?</a>		</li>
+	</ul>
+</div>        </nav>
 
-			<div class="logo-wrapper">
-								<h2 id="logo"><a href="/">CAbi</a></h2>
-							</div>
+        <div id="search-form-and-wishlist">
+          <div id="help-wrapper">
+            <a href="/lead-form?lead=mobile-header" title="How Can We Help You?">
+              <i class="fa fa-question"></i>
+            </a>
+          </div>        
+          <div id="search-wrapper">
+            <i class="fa fa-search"></i>
+            <div id="search-dropdown">
+              <form action="/" method="get" id="site-search">
+    <fieldset id="site-search-form-container">
+        <input type="submit" alt="SEARCH" class="btn btn-pink" name="submit" id="site-search-submit" value="SEARCH">
+        <input autofocus="" type="text" name="s" id="site-search-input" value="" placeholder="Search the site">
+                    <input type="hidden" name="search-type" value="type_all">
+            </fieldset>
+</form>     
+            </div>
+          </div>
+          <div id="wishlist-count">
+            <a href="/clothing-collection/wish-list" title="View the Wishlist">
+              <span></span>
+            </a>
+          </div>      
+        </div>         
+        </div>      
+    </div>
+  </div>
+</header>
+	<main>
+		<div id="page">
+  <div class="container">
+  	<h1 class="h1 stag-thin">Privacy Policy</h1>
+  	<div class="entry-content">
+			<h2>Privacy Policy <em>Last Updated: June 1, 2009</em></h2>
+<h3>1. <strong>INTRODUCTION</strong></h3>
+<h4>1.1. <strong>Purpose of Policy</strong></h4>
+<p>Welcome to the cabi, LLC family of web sites. cabi, LLC (”us,” “we,” or “cabi”) is committed to respecting the privacy rights of its customers, visitors, and other users of its website (the “Website”). We created this Privacy Policy (this “Policy”) to give you confidence as you visit and use the Website, and to demonstrate our commitment to fair information practices and the protection of privacy. This Policy is only applicable to the Website, and not to any other web sites that you may be able to access from the Website, each of which may have data collection and use practices and policies that differ materially from this Policy.</p>
+<h4>1.2. <strong>Notice Concerning Children</strong></h4>
+<p>We are a general audience site, and do not direct any of our content specifically at children 13 years of age or under. We understand and are committed to respecting the sensitive nature of children’s privacy online. If we learn or have reason to suspect that a Website user is age 13 or under, we will promptly delete any personal information in that user’s account.</p>
+<h4>2. <strong>INFORMATION COLLECTION PRACTICES</strong></h4>
+<h4>2.1. <strong>What Basic Information Do We Collect?</strong></h4>
+<p>In operating the Website, we may include registration, online surveys, and other online forms that ask users to provide their names, addresses, phone numbers, e-mail addresses, date of birth, and other contact information, bank information of consultants, credit card information for purchases, as well as other user profile information, including without limitation, gender, education, occupation and images and videos you submit.</p>
+<h4>2.2. <strong>What Additional Information Do We Collect?</strong></h4>
+<p>(a) Automatic Collection. Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Website may also gather anonymous “traffic data” that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.</p>
+<p>(b) Cookies. From time to time, we may use the standard “cookies” feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Website. We do not set any personally identifiable information in cookies, nor do we employ any data capture mechanisms on our Website other than cookies. Cookies help us learn which areas of our site are useful and which areas need improvement. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at our Website may be diminished and some features may not work as they were intended.</p>
+<h4>3. <strong>USE AND SHARING OF INFORMATION</strong></h4>
+<h4>3.1. <strong>What Do We Do With Collected Information?</strong></h4>
+<p>(a) Personal Information. We will not share your personal information with any third parties without your consent, except as necessary to provide you with the services offered by us or to comply with the law. We may use your personal information to verify your identity or to follow up with transactions initiated on the Website. We may also use your contact information to inform you of any changes to the Website, to send you additional information about cabi, or to offer you other products, programs or services that we believe may be of interest to you. If you are a consultant and give your permission during the account registration process, we may share your contact information on the Website<em>.</em> We don’t give information to any partners or for any promotions. If you choose to post information on the Website in a public forum, your name, location and comment (all as entered by you) will be displayed to all users of the Website to facilitate interaction among users. General users’ email addresses are never revealed to other users; provided, however, Consultants’ have the option of revealing their email address and phone number on the Website.</p>
+<p>(b) Anonymous Information. We use anonymous information to analyze our Website traffic, but we do not examine this information for individually identifying information. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.</p>
+<p>(c) Use of Cookies. We may use cookies to deliver content specific to your interests, to save your password so you don’t have to re-enter it each time you visit our site, or for other purposes.</p>
+<p>(d) Disclosure of Personal Information. We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (i) conform to the edicts of the law or comply with legal process served on cabi or its affiliates, (ii) protect and defend the rights or property of cabi or the users of the Website, or (iii) act under exigent circumstances to protect the safety of the public or users of the Website.</p>
+<p>(e) Sale of Assets. In order to accommodate changes in our business, we may sell or buy portions of our company or other companies or assets, including the information collected through the Website. If cabi or substantially all of its assets are acquired, customer information will be one of the assets transferred to the acquirer.</p>
+<p>(f) Access to Information / Opting-Out. If you have opted to receive email from us, you may unsubscribe at any time by using the opt-out option at the bottom of the email.</p>
+<h4>4. <strong>SECURITY</strong></h4>
+<p>The Website has security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration.</p>
+<h4>5. <strong>SITE AREAS BEYOND OUR CONTROL</strong></h4>
+<h4>5.1. <strong>Public Forums</strong></h4>
+<p>The Website includes interactive forums for the exchange of information, ideas and opinions. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose personal information.</p>
+<h4>5.2. <strong>Third Party Websites</strong></h4>
+<p>The Web Site may contain links to other websites. If you choose to visit other websites, we are not responsible for the privacy practices or content of those other websites, and it is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their policies.</p>
+<h4>6. <strong>CONTACT INFORMATION AND POLICY UPDATES</strong></h4>
+<h4>6.1. <strong>Contacting Us</strong></h4>
+<p>If you have any questions about this Policy, our practices related to the Website, or if you would like to have us remove your information from our database, please feel contact us at the following email address: <a href="mailto:privacy@cabiexperience.com" target="_blank">privacy@cabiexperience.com</a>.</p>
+<h4>6.2. <strong>Updates and Changes</strong></h4>
+<p>We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Website and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Website. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.</p>
+		</div>
+  </div>
+</div>
+	</main>
+	<footer id="site-footer">
+  <div class="container">
+    <div id="footer-social-icons">
+      <ul class="list-unstyled list-inline inline-block">
+        <li class="facebook"><a href="http://www.facebook.com/CAbiClothing" target="_blank"><i class="fa fa-facebook"></i></a></li>
+        <li class="instagram"><a href="http://www.instagram.com/cabiclothing" target="_blank"><i class="fa fa-instagram"></i></a></li>
+        <li class="twitter"><a href="http://twitter.com/cabiclothing" target="_blank"><i class="fa fa-twitter"></i></a></li>
+        <li class="pinterest"><a href="http://pinterest.com/cabiclothing/" target="_blank"><i class="fa fa-pinterest"></i></a></li>
+        <li class="youtube"><a href="http://youtube.com/cabiclothing/" target="_blank"><i class="fa fa-youtube"></i></a></li>
+      </ul>
+    </div>
+  </div>
 
+  <div class="container-wide">
+    <hr>
+  </div>
 
-			<div id="navigation-main">
-				<div class="menu-primary"><ul id="menu-main-navigation" class="menu"><li id="menu-item-20390" class="standout menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20390"><a href="/collection/clothes">Collection</a>
+  <div class="container">
+    <div id="footer-menus">
+      <div class="menu-primary"><ul id="menu-main-navigation" class="menu"><li id="menu-item-20390" class="standout menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20390"><a href="/collection/clothes">Collection</a>
 <ul class="sub-menu">
-	<li id="menu-item-20389" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20389"><a href="http://www.cabionline.com/clothing-collection/">Overview</a></li>
-	<li id="menu-item-12572" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12572"><a href="/collection/clothes">Browse By Item</a>
+	<li id="menu-item-12572" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12572"><a href="/collection/clothes">Clothes</a>
 	<ul class="sub-menu">
-		<li id="menu-item-14704" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14704"><a href="/collection/clothes">All</a></li>
-		<li id="menu-item-24027" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-has-children menu-item-24027"><a href="http://www.cabionline.com/collection/clothes-category/womens-tops/">Tops</a>
-		<ul class="sub-menu">
-			<li id="menu-item-24028" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24028"><a href="http://www.cabionline.com/collection/clothes-category/womens-tanks-camis/">Tanks &amp; Camis</a></li>
-			<li id="menu-item-24029" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24029"><a href="http://www.cabionline.com/collection/clothes-category/womens-tops-tees/">Tops &amp; Tees</a></li>
-			<li id="menu-item-24031" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24031"><a href="http://www.cabionline.com/collection/clothes-category/womens-tunics/">Tunics</a></li>
-			<li id="menu-item-24032" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24032"><a href="http://www.cabionline.com/collection/clothes-category/womens-sweaters/">Sweaters</a></li>
-		</ul>
-</li>
-		<li id="menu-item-24030" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24030"><a href="http://www.cabionline.com/collection/clothes-category/womens-shirts-blouses/">Shirts &amp; Blouses</a></li>
-		<li id="menu-item-24033" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-has-children menu-item-24033"><a href="http://www.cabionline.com/collection/clothes-category/womens-jackets/">Jackets</a>
-		<ul class="sub-menu">
-			<li id="menu-item-24035" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24035"><a href="http://www.cabionline.com/collection/clothes-category/coats/">Coat</a></li>
-		</ul>
-</li>
-		<li id="menu-item-24037" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-has-children menu-item-24037"><a href="http://www.cabionline.com/collection/clothes-category/denim/">Denim</a>
-		<ul class="sub-menu">
-			<li id="menu-item-24038" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24038"><a href="http://www.cabionline.com/collection/clothes-category/denim-curvy/">Curvy</a></li>
-		</ul>
-</li>
-		<li id="menu-item-24039" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-has-children menu-item-24039"><a href="http://www.cabionline.com/collection/clothes-category/womens-pants/">Pants</a>
-		<ul class="sub-menu">
-			<li id="menu-item-24729" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24729"><a href="http://www.cabionline.com/collection/clothes-category/casual/">Casual</a></li>
-			<li id="menu-item-24730" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24730"><a href="http://www.cabionline.com/collection/clothes-category/dress/">Dress</a></li>
-			<li id="menu-item-24728" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24728"><a href="http://www.cabionline.com/collection/clothes-category/shorts/">Shorts</a></li>
-		</ul>
-</li>
-		<li id="menu-item-24041" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24041"><a href="http://www.cabionline.com/collection/clothes-category/womens-skirts-dresses/">Skirts &amp; Dresses</a></li>
+		<li id="menu-item-14704" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14704"><a href="/collection/clothes">All Clothes</a></li>
+		<li id="menu-item-24027" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24027"><a href="http://www.cabionline.com/collection/clothes-category/womens-tops/">Tops</a></li>
+		<li id="menu-item-30946" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-30946"><a href="http://www.cabionline.com/collection/clothes-category/womens-sweaters/">Sweaters</a></li>
+		<li id="menu-item-24033" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24033"><a href="http://www.cabionline.com/collection/clothes-category/womens-jackets/">Jackets</a></li>
+		<li id="menu-item-24037" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24037"><a href="http://www.cabionline.com/collection/clothes-category/denim/">Denim</a></li>
+		<li id="menu-item-24039" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24039"><a href="http://www.cabionline.com/collection/clothes-category/womens-pants/">Pants</a></li>
+		<li id="menu-item-30947" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-30947"><a href="http://www.cabionline.com/collection/clothes-category/womens-skirts-dresses/">Skirts &amp; Dresses</a></li>
 		<li id="menu-item-24042" class="hide menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24042"><a href="http://www.cabionline.com/collection/clothes-category/womens-accessories/">Accessories</a></li>
-		<li id="menu-item-25772" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-25772"><a href="http://www.cabionline.com/collection/clothes-category/jewelry/">Jewelry</a></li>
-		<li id="menu-item-26842" class="in-the-sun menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-26842"><a href="http://www.cabionline.com/collection/clothes-category/in-the-sun/">In The Sun</a></li>
-		<li id="menu-item-27726" class="off-the-map menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-27726"><a href="http://www.cabionline.com/collection/clothes-category/off-the-map/">Off The Map</a></li>
+		<li id="menu-item-33154" class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-33154"><a href="http://www.cabionline.com/collection/clothes-category/welcome-warmth/">Welcome Warmth</a></li>
 	</ul>
 </li>
-	<li id="menu-item-24460" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-24460"><a href="/collection/outfits">Browse By Outfit</a>
+	<li id="menu-item-24460" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-24460"><a href="/collection/outfits">Looks</a>
 	<ul class="sub-menu">
-		<li id="menu-item-24732" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24732"><a href="/collection/outfits">All</a></li>
-		<li id="menu-item-24462" class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-24462"><a href="http://www.cabionline.com/styles/on-the-go/">On The Go</a></li>
-		<li id="menu-item-24463" class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-24463"><a href="http://www.cabionline.com/styles/in-the-pink/">In The Pink</a></li>
-		<li id="menu-item-24461" class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-24461"><a href="http://www.cabionline.com/styles/by-the-shore/">By The Shore</a></li>
-		<li id="menu-item-24465" class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-24465"><a href="http://www.cabionline.com/styles/on-the-clock/">On The Clock</a></li>
-		<li id="menu-item-24464" class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-24464"><a href="http://www.cabionline.com/styles/on-the-move/">On The Move</a></li>
-		<li id="menu-item-24466" class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-24466"><a href="http://www.cabionline.com/styles/by-the-book/">By The Book</a></li>
-		<li id="menu-item-24467" class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-24467"><a href="http://www.cabionline.com/styles/in-the-know/">In The Know</a></li>
-		<li id="menu-item-26970" class="in-the-sun menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-26970"><a href="http://www.cabionline.com/styles/in-the-sun/">In The Sun</a></li>
-		<li id="menu-item-27727" class="off-the-map menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-27727"><a href="http://www.cabionline.com/styles/off-the-map/">Off The Map</a></li>
+		<li id="menu-item-31127" class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-31127"><a href="http://www.cabionline.com/styles/casual/">Casual</a></li>
+		<li id="menu-item-31123" class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-31123"><a href="http://www.cabionline.com/styles/date-night/">Date Night</a></li>
+		<li id="menu-item-31124" class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-31124"><a href="http://www.cabionline.com/styles/dressy/">Dressy</a></li>
+		<li id="menu-item-31122" class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-31122"><a href="http://www.cabionline.com/styles/everyday/">Everyday</a></li>
+		<li id="menu-item-31126" class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-31126"><a href="http://www.cabionline.com/styles/special-occasion/">Special Occasion</a></li>
+		<li id="menu-item-31125" class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-31125"><a href="http://www.cabionline.com/styles/work/">Work</a></li>
 	</ul>
 </li>
-	<li id="menu-item-24458" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24458"><a href="http://www.cabionline.com/clothing-collection/clothing-gallery/">Gallery</a></li>
-	<li id="menu-item-24459" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24459"><a href="http://www.cabionline.com/must-have-women-clothes/">Must Haves Now</a></li>
-	<li id="menu-item-15642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15642"><a href="http://www.cabionline.com/denim-guide/">Denim Guide</a></li>
-	<li id="menu-item-12575" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12575"><a href="http://www.cabionline.com/clothing-collection/look-book/">Look Book</a></li>
-	<li id="menu-item-12576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12576"><a href="http://www.cabionline.com/clothing-collection/bonus-book/">Bonus Book</a></li>
-	<li id="menu-item-19790" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19790"><a href="http://www.cabionline.com/fashion-style-quiz/">Quiz</a></li>
-	<li id="menu-item-19791" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19791"><a href="http://www.cabionline.com/love-carol/">Love, Carol</a></li>
-	<li id="menu-item-19792" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19792"><a href="http://www.cabionline.com/fall-2014-clothing-favorites/">Fall 2014 Favorites</a></li>
-	<li id="menu-item-24717" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24717"><a href="http://www.cabionline.com/cabiclothing/">#CA<small class="bi">bi</small>Clothing</a></li>
-	<li id="menu-item-25382" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25382"><a href="http://www.cabionline.com/spring-runway-video/">Spring 2015 Runway Video</a></li>
-	<li id="menu-item-16546" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16546"><a href="http://www.cabionline.com/sneak-peek-video/">Sneak Peek Video</a></li>
+	<li id="menu-item-28472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-28472"><a href="http://www.cabionline.com/clothing-collection/style-and-ideas/">Style &amp; Ideas</a>
+	<ul class="sub-menu">
+		<li id="menu-item-31296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31296"><a href="http://www.cabionline.com/fall-favorites/">100 Looks To Fall For</a></li>
+		<li id="menu-item-30295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30295"><a href="http://www.cabionline.com/clothing-collection/style-and-ideas/style-tips/">Style Tips</a></li>
+		<li id="menu-item-30805" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30805"><a href="http://www.cabionline.com/spring-into-fall/">Spring Into Fall</a></li>
+		<li id="menu-item-19790" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19790"><a href="http://www.cabionline.com/fashion-style-quiz/">Style Quiz</a></li>
+		<li id="menu-item-15642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15642"><a href="http://www.cabionline.com/denim-guide/">Denim Guide</a></li>
+		<li id="menu-item-24459" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24459"><a href="http://www.cabionline.com/must-have-women-clothes/">Must Haves Now</a></li>
+		<li id="menu-item-24458" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24458"><a href="http://www.cabionline.com/clothing-collection/clothing-gallery/">Gallery</a></li>
+		<li id="menu-item-19791" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19791"><a href="http://www.cabionline.com/love-carol/">Love, Carol</a></li>
+		<li id="menu-item-28438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28438"><a href="http://www.cabionline.com/cabiclothing/">#<span class="lowercase">cabi</span>clothing</a></li>
+		<li id="menu-item-12575" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12575"><a href="http://www.cabionline.com/clothing-collection/look-book/">Look Book</a></li>
+		<li id="menu-item-12576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12576"><a href="http://www.cabionline.com/clothing-collection/the-notion/">the Notion, by <span class="lowercase">cabi</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-28439" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28439"><a href="/purchase-clothing?lead=footer-menu">Make A Purchase</a></li>
+	<li id="menu-item-28440" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28440"><a href="/lead-form?lead=footer-menu">Find A Stylist</a></li>
 </ul>
 </li>
-<li id="menu-item-12620" class="standout menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12620"><a href="http://www.cabionline.com/shows/">Host a Show</a>
-<ul class="sub-menu">
-	<li id="menu-item-20393" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20393"><a href="http://www.cabionline.com/shows/">Overview</a></li>
-	<li id="menu-item-12561" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12561"><a href="http://www.cabionline.com/shows/attend-a-show/">Attend a Show</a>
-	<ul class="sub-menu">
-		<li id="menu-item-12589" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12589"><a href="http://www.cabionline.com/shows/attend-a-show/have-invite/">Have an Invite?</a></li>
-		<li id="menu-item-12588" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12588"><a href="http://www.cabionline.com/shows/attend-a-show/get-invite-home-shopping-show/">Get an Invite</a></li>
-	</ul>
-</li>
-	<li id="menu-item-12590" class="no-bottompad menu-item menu-item-type-post_type menu-item-object-page menu-item-12590"><a href="http://www.cabionline.com/shows/host-clothing-show/">The Show</a></li>
-	<li id="menu-item-14678" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14678"><a href="http://www.cabionline.com/shows/hostess-benefits/">Hostess Benefits</a></li>
-	<li id="menu-item-14673" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14673"><a href="http://www.cabionline.com/shows/faq/">FAQs</a></li>
-	<li id="menu-item-14754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14754"><a href="http://www.cabionline.com/shows/host-show-video/">Host a Show Video</a></li>
-</ul>
-</li>
+<li id="menu-item-12620" class="standout menu-item menu-item-type-post_type menu-item-object-page menu-item-12620"><a href="http://www.cabionline.com/fashion-experience/">Host <span class="hide-in-header">a Fashion Experience</span></a></li>
 <li id="menu-item-12592" class="standout menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12592"><a href="http://www.cabionline.com/career-in-fashion/">Join Us</a>
 <ul class="sub-menu">
 	<li id="menu-item-20394" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20394"><a href="http://www.cabionline.com/career-in-fashion/">Overview</a></li>
-	<li id="menu-item-12594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12594"><a href="http://www.cabionline.com/career-in-fashion/business-model/">Business Model</a></li>
-	<li id="menu-item-12597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12597"><a href="http://www.cabionline.com/career-in-fashion/how-cabi-supports-you/">How CA<small class="bi">bi</small> Supports You</a></li>
-	<li id="menu-item-15617" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15617"><a href="http://www.cabionline.com/career-in-fashion/why-cabi/">Why CA<small class="bi">bi</small>?</a></li>
-	<li id="menu-item-13030" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13030"><a href="http://www.cabionline.com/career-in-fashion/clothing-consultants/">CA<small class="bi">bi</small> Girls</a></li>
-	<li id="menu-item-20314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20314"><a href="http://www.cabionline.com/career-in-fashion/women-purpose/">Women on Purpose</a></li>
+	<li id="menu-item-12594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12594"><a href="http://www.cabionline.com/career-in-fashion/business-model/">The <span class="lowercase"><span class="lowercase">cabi</span></span> Business Model</a></li>
+	<li id="menu-item-12597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12597"><a href="http://www.cabionline.com/career-in-fashion/how-cabi-supports-you/">How <span class="lowercase"><span class="lowercase">cabi</span></span> Supports You</a></li>
+	<li id="menu-item-13030" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13030"><a href="http://www.cabionline.com/career-in-fashion/clothing-consultants/"><span class="lowercase"><span class="lowercase">cabi</span></span> Girls</a></li>
 	<li id="menu-item-12606" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12606"><a href="/career-events">Career Events</a>
 	<ul class="sub-menu">
-		<li id="menu-item-12607" class="menu-item menu-item-type-taxonomy menu-item-object-tribe_events_cat menu-item-12607"><a href="http://www.cabionline.com/career-events/category/sharing-cabi/">Sharing CA<small class="bi">bi</small></a></li>
+		<li id="menu-item-12607" class="menu-item menu-item-type-taxonomy menu-item-object-tribe_events_cat menu-item-12607"><a href="http://www.cabionline.com/career-events/category/sharing-cabi/">Sharing <span class="lowercase"><span class="lowercase">cabi</span></span></a></li>
 		<li id="menu-item-12608" class="menu-item menu-item-type-taxonomy menu-item-object-tribe_events_cat menu-item-12608"><a href="http://www.cabionline.com/career-events/category/community-career-gatherings/">Community Gatherings</a></li>
 	</ul>
 </li>
-	<li id="menu-item-13248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13248"><a href="http://www.cabionline.com/career-in-fashion/experience-magazine/">CA<small class="bi">bi</small> Career Book</a></li>
-	<li id="menu-item-16186" class="remove-item no-bottompad menu-item menu-item-type-post_type menu-item-object-page menu-item-16186"><a href="http://www.cabionline.com/career-in-fashion/cabi-career-video/">Career Video</a></li>
+	<li id="menu-item-30806" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30806"><a href="/become-a-consultant?lead=footer-menu">Join The Movement</a></li>
 </ul>
 </li>
-<li id="menu-item-12565" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12565"><a href="/blog">Blog</a></li>
-<li id="menu-item-12563" class="no-columns menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12563"><a href="http://www.cabionline.com/foundation/">Foundation</a>
+<li id="menu-item-31297" class="lowercase menu-item menu-item-type-post_type menu-item-object-page menu-item-31297"><a href="http://www.cabionline.com/cabi-tv/"><span class="lowercase"><span class="lowercase">cabi</span></span>TV</a></li>
+<li id="menu-item-12565" class="standout menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12565"><a href="/blog">Blog</a>
 <ul class="sub-menu">
-	<li id="menu-item-20395" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20395"><a href="http://www.cabionline.com/foundation/">Overview</a></li>
-	<li id="menu-item-16494" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16494"><a href="http://www.cabionline.com/foundation/donate/">Give Now</a></li>
+	<li id="menu-item-31298" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31298"><a href="/blog">All Posts</a></li>
+	<li id="menu-item-28446" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28446"><a href="/category/style-ideas">Style &amp; Ideas</a></li>
+	<li id="menu-item-28462" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28462"><a href="http://www.cabionline.com/category/women-on-purpose/">Women “On Purpose”</a></li>
+	<li id="menu-item-30808" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30808"><a href="http://www.cabionline.com/category/press-seen-on/">Press &amp; Seen On</a></li>
+	<li id="menu-item-31341" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-31341"><a href="http://www.cabionline.com/category/the-notion/">What is the Notion, by <span class="lowercase">cabi</span>?</a></li>
+	<li id="menu-item-30807" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30807"><a href="http://www.cabionline.com/category/food-drink-blog/">Food/Drink</a></li>
 </ul>
 </li>
-<li id="menu-item-12564" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12564"><a href="http://www.cabionline.com/what-is-cabi/">What Is CA<small class="bi">bi</small>?</a>
+<li id="menu-item-12563" class="no-columns standout menu-item menu-item-type-post_type menu-item-object-page menu-item-12563"><a href="http://www.cabionline.com/foundation/">Foundation</a></li>
+<li id="menu-item-12564" class="standout menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12564"><a href="http://www.cabionline.com/what-is-cabi/">What Is <span class="lowercase"><span class="lowercase">cabi</span></span>?</a>
 <ul class="sub-menu">
 	<li id="menu-item-20396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20396"><a href="http://www.cabionline.com/what-is-cabi/">Overview</a></li>
-	<li id="menu-item-12614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12614"><a href="http://www.cabionline.com/what-is-cabi/timeline/">Timeline</a></li>
-	<li id="menu-item-20145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20145"><a href="http://www.cabionline.com/what-is-cabi/who-we-are/">Who We Are</a></li>
-	<li id="menu-item-24742" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24742"><a href="http://www.cabionline.com/cabiscoop/">#CA<small class="bi">bi</small>Scoop</a></li>
-	<li id="menu-item-18565" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18565"><a href="http://www.cabionline.com/seen-on/">Seen On</a></li>
-	<li id="menu-item-18771" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18771"><a href="http://www.cabionline.com/press/">Press</a></li>
+	<li id="menu-item-24742" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24742"><a href="http://www.cabionline.com/cabiscoop/">#<span class="lowercase">cabi</span>Scoop</a></li>
 </ul>
 </li>
-</ul></div>			</div>
-
-			<div class="search-form-and-wishlist"><div class="inner">
-				<form action="/" method="get" id="site-search">
-    <div id="site-search-toggle">
-        <img src="http://www.cabionline.com/wp-content/themes/cabi_fall_2013/images/search.png">
-    </div>
-    <fieldset id="site-search-form-container">
-        <hr>
-        <input type="text" name="s" id="site-search-input" value="" placeholder="Search">
-        <input type="submit" alt="SEARCH" name="submit" id="site-search-submit" value="SEARCH">
-                    <input type="hidden" name="search-type" value="type_all">
-            </fieldset>
-</form>			
-				<div class="wishlist-count" id="wishlist-count-mobile">
-					<label>Wish list</label>
-					<a href="/clothing-collection/wish-list" title="View the Wishlist">
-						<span class="cabi_wishlist_count">0</span>
-					</a>
-				</div>			
-			</div></div>
-
-		</div></div></div>
-	</div><!-- #header-wrapper -->
-
-
-	<div id="page" class="tablet-full-width"><div class="container tablet-full-width">
-		
-				<div class="row">
-	    <div class="span2" id="region-sidebar">
-        <div id="sidebar">
-
-    <script>
-  (function($){
-    // If current menu item has children, show the mobile nav
-    if ( $("#mobile-nav-dropdown").find("li.current-menu-item").find("li").length ) {
-      $("#mobile-nav-dropdown").removeClass("hide");
-    }
-    $(document).on("click", "#mobile-nav-dropdown-selector", function(e) {
-      e.preventDefault();
-      $("#mobile-subnav").slideToggle();
-    });
-    $(document).on("click", "#mobile-subnav a", function(e) {
-      $("#mobile-subnav").slideUp();
-    });
-  })(jQuery);
-  </script>
-	<div class="menu-main-navigation-container"><ul id="menu-main-navigation-1" class="menu"><li class="standout menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20390"><a href="/collection/clothes">Collection</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20389"><a href="http://www.cabionline.com/clothing-collection/">Overview</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12572"><a href="/collection/clothes">Browse By Item</a>
-	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14704"><a href="/collection/clothes">All</a></li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-has-children menu-item-24027"><a href="http://www.cabionline.com/collection/clothes-category/womens-tops/">Tops</a>
-		<ul class="sub-menu">
-			<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24028"><a href="http://www.cabionline.com/collection/clothes-category/womens-tanks-camis/">Tanks &amp; Camis</a></li>
-			<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24029"><a href="http://www.cabionline.com/collection/clothes-category/womens-tops-tees/">Tops &amp; Tees</a></li>
-			<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24031"><a href="http://www.cabionline.com/collection/clothes-category/womens-tunics/">Tunics</a></li>
-			<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24032"><a href="http://www.cabionline.com/collection/clothes-category/womens-sweaters/">Sweaters</a></li>
-		</ul>
-</li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24030"><a href="http://www.cabionline.com/collection/clothes-category/womens-shirts-blouses/">Shirts &amp; Blouses</a></li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-has-children menu-item-24033"><a href="http://www.cabionline.com/collection/clothes-category/womens-jackets/">Jackets</a>
-		<ul class="sub-menu">
-			<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24035"><a href="http://www.cabionline.com/collection/clothes-category/coats/">Coat</a></li>
-		</ul>
-</li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-has-children menu-item-24037"><a href="http://www.cabionline.com/collection/clothes-category/denim/">Denim</a>
-		<ul class="sub-menu">
-			<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24038"><a href="http://www.cabionline.com/collection/clothes-category/denim-curvy/">Curvy</a></li>
-		</ul>
-</li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-has-children menu-item-24039"><a href="http://www.cabionline.com/collection/clothes-category/womens-pants/">Pants</a>
-		<ul class="sub-menu">
-			<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24729"><a href="http://www.cabionline.com/collection/clothes-category/casual/">Casual</a></li>
-			<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24730"><a href="http://www.cabionline.com/collection/clothes-category/dress/">Dress</a></li>
-			<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24728"><a href="http://www.cabionline.com/collection/clothes-category/shorts/">Shorts</a></li>
-		</ul>
-</li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24041"><a href="http://www.cabionline.com/collection/clothes-category/womens-skirts-dresses/">Skirts &amp; Dresses</a></li>
-		<li class="hide menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24042"><a href="http://www.cabionline.com/collection/clothes-category/womens-accessories/">Accessories</a></li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-25772"><a href="http://www.cabionline.com/collection/clothes-category/jewelry/">Jewelry</a></li>
-		<li class="in-the-sun menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-26842"><a href="http://www.cabionline.com/collection/clothes-category/in-the-sun/">In The Sun</a></li>
-		<li class="off-the-map menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-27726"><a href="http://www.cabionline.com/collection/clothes-category/off-the-map/">Off The Map</a></li>
-	</ul>
-</li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-24460"><a href="/collection/outfits">Browse By Outfit</a>
-	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24732"><a href="/collection/outfits">All</a></li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-24462"><a href="http://www.cabionline.com/styles/on-the-go/">On The Go</a></li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-24463"><a href="http://www.cabionline.com/styles/in-the-pink/">In The Pink</a></li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-24461"><a href="http://www.cabionline.com/styles/by-the-shore/">By The Shore</a></li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-24465"><a href="http://www.cabionline.com/styles/on-the-clock/">On The Clock</a></li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-24464"><a href="http://www.cabionline.com/styles/on-the-move/">On The Move</a></li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-24466"><a href="http://www.cabionline.com/styles/by-the-book/">By The Book</a></li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-24467"><a href="http://www.cabionline.com/styles/in-the-know/">In The Know</a></li>
-		<li class="in-the-sun menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-26970"><a href="http://www.cabionline.com/styles/in-the-sun/">In The Sun</a></li>
-		<li class="off-the-map menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-27727"><a href="http://www.cabionline.com/styles/off-the-map/">Off The Map</a></li>
-	</ul>
-</li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24458"><a href="http://www.cabionline.com/clothing-collection/clothing-gallery/">Gallery</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24459"><a href="http://www.cabionline.com/must-have-women-clothes/">Must Haves Now</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15642"><a href="http://www.cabionline.com/denim-guide/">Denim Guide</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12575"><a href="http://www.cabionline.com/clothing-collection/look-book/">Look Book</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12576"><a href="http://www.cabionline.com/clothing-collection/bonus-book/">Bonus Book</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19790"><a href="http://www.cabionline.com/fashion-style-quiz/">Quiz</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19791"><a href="http://www.cabionline.com/love-carol/">Love, Carol</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19792"><a href="http://www.cabionline.com/fall-2014-clothing-favorites/">Fall 2014 Favorites</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24717"><a href="http://www.cabionline.com/cabiclothing/">#CA<small class="bi">bi</small>Clothing</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25382"><a href="http://www.cabionline.com/spring-runway-video/">Spring 2015 Runway Video</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16546"><a href="http://www.cabionline.com/sneak-peek-video/">Sneak Peek Video</a></li>
-</ul>
-</li>
-<li class="standout menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12620"><a href="http://www.cabionline.com/shows/">Host a Show</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20393"><a href="http://www.cabionline.com/shows/">Overview</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12561"><a href="http://www.cabionline.com/shows/attend-a-show/">Attend a Show</a>
-	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12589"><a href="http://www.cabionline.com/shows/attend-a-show/have-invite/">Have an Invite?</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12588"><a href="http://www.cabionline.com/shows/attend-a-show/get-invite-home-shopping-show/">Get an Invite</a></li>
-	</ul>
-</li>
-	<li class="no-bottompad menu-item menu-item-type-post_type menu-item-object-page menu-item-12590"><a href="http://www.cabionline.com/shows/host-clothing-show/">The Show</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14678"><a href="http://www.cabionline.com/shows/hostess-benefits/">Hostess Benefits</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14673"><a href="http://www.cabionline.com/shows/faq/">FAQs</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14754"><a href="http://www.cabionline.com/shows/host-show-video/">Host a Show Video</a></li>
-</ul>
-</li>
-<li class="standout menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12592"><a href="http://www.cabionline.com/career-in-fashion/">Join Us</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20394"><a href="http://www.cabionline.com/career-in-fashion/">Overview</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12594"><a href="http://www.cabionline.com/career-in-fashion/business-model/">Business Model</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12597"><a href="http://www.cabionline.com/career-in-fashion/how-cabi-supports-you/">How CA<small class="bi">bi</small> Supports You</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15617"><a href="http://www.cabionline.com/career-in-fashion/why-cabi/">Why CA<small class="bi">bi</small>?</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13030"><a href="http://www.cabionline.com/career-in-fashion/clothing-consultants/">CA<small class="bi">bi</small> Girls</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20314"><a href="http://www.cabionline.com/career-in-fashion/women-purpose/">Women on Purpose</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12606"><a href="/career-events">Career Events</a>
-	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-tribe_events_cat menu-item-12607"><a href="http://www.cabionline.com/career-events/category/sharing-cabi/">Sharing CA<small class="bi">bi</small></a></li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-tribe_events_cat menu-item-12608"><a href="http://www.cabionline.com/career-events/category/community-career-gatherings/">Community Gatherings</a></li>
-	</ul>
-</li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13248"><a href="http://www.cabionline.com/career-in-fashion/experience-magazine/">CA<small class="bi">bi</small> Career Book</a></li>
-	<li class="remove-item no-bottompad menu-item menu-item-type-post_type menu-item-object-page menu-item-16186"><a href="http://www.cabionline.com/career-in-fashion/cabi-career-video/">Career Video</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12565"><a href="/blog">Blog</a></li>
-<li class="no-columns menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12563"><a href="http://www.cabionline.com/foundation/">Foundation</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20395"><a href="http://www.cabionline.com/foundation/">Overview</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16494"><a href="http://www.cabionline.com/foundation/donate/">Give Now</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12564"><a href="http://www.cabionline.com/what-is-cabi/">What Is CA<small class="bi">bi</small>?</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20396"><a href="http://www.cabionline.com/what-is-cabi/">Overview</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12614"><a href="http://www.cabionline.com/what-is-cabi/timeline/">Timeline</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20145"><a href="http://www.cabionline.com/what-is-cabi/who-we-are/">Who We Are</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24742"><a href="http://www.cabionline.com/cabiscoop/">#CA<small class="bi">bi</small>Scoop</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18565"><a href="http://www.cabionline.com/seen-on/">Seen On</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18771"><a href="http://www.cabionline.com/press/">Press</a></li>
-</ul>
-</li>
-</ul></div>  
-      <div class="hidden-phone" id="consultantLoad">
-    <ul class="consultant-links clearfix list-unstyled">
-  <li class="host">
-    <a href="/host-a-show?lead=sidebar_link" onclick="_gaq.push(['_trackEvent', 'Leads', 'form click']);" class="become">
-      Host a <strong>Show</strong>
-    </a>
-  </li>
-  <li class="purchase">
-    <a href="/purchase-clothing?lead=sidebar_link" onclick="_gaq.push(['_trackEvent', 'Leads', 'form click']);">
-      Make a <strong>Purchase</strong>
-    </a>
-  </li>
-  <li class="consultant">
-    <a href="/become-a-consultant?lead=sidebar_link" onclick="_gaq.push(['_trackEvent', 'Leads', 'form click']);" class="become">
-      Become a <strong>Consultant</strong>
-    </a>
-  </li>  
-</ul>  </div> 
-  </div>	    </div>
-	    <div class="span10 " id="region-main">
-		<div id="page-default">
-	<h1 class="title">Privacy Policy</h1>
-	<h2>Privacy Policy <em>Last Updated: June 1, 2009</em></h2>
-<h3>1. <strong>INTRODUCTION</strong></h3>
-<h4>1.1. <strong>Purpose of Policy</strong></h4>
-<p>Welcome to the CAbi, LLC family of web sites. CAbi, LLC (”us,” “we,” or “CAbi”) is committed to respecting the privacy rights of its customers, visitors, and other users of its web site (the “Web Site”). We created this Privacy Policy (this “Policy”) to give you confidence as you visit and use the Web Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Policy is only applicable to the Web Site, and not to any other web sites that you may be able to access from the Web Site, each of which may have data collection and use practices and policies that differ materially from this Policy.</p>
-<h4>1.2. <strong>Notice Concerning Children</strong></h4>
-<p>We are a general audience site, and do not direct any of our content specifically at children 13 years of age or under. We understand and are committed to respecting the sensitive nature of children’s privacy online. If we learn or have reason to suspect that a Web Site user is age 13 or under, we will promptly delete any personal information in that user’s account.</p>
-<h4>2. <strong>INFORMATION COLLECTION PRACTICES</strong></h4>
-<h4>2.1. <strong>What Basic Information Do We Collect?</strong></h4>
-<p>In operating the Web Site, we may include registration, online surveys, and other online forms that ask users to provide their names, addresses, phone numbers, e-mail addresses, date of birth, and other contact information, bank information of consultants, credit card information for purchases, as well as other user profile information, including without limitation, gender, education, occupation and images and videos you submit.</p>
-<h4>2.2. <strong>What Additional Information Do We Collect?</strong></h4>
-<p>(a) Automatic Collection. Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Web Site may also gather anonymous “traffic data” that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.</p>
-<p>(b) Cookies. From time to time, we may use the standard “cookies” feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Web Site. We do not set any personally identifiable information in cookies, nor do we employ any data capture mechanisms on our Web Site other than cookies. Cookies help us learn which areas of our site are useful and which areas need improvement. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at our Web Site may be diminished and some features may not work as they were intended.</p>
-<h4>3. <strong>USE AND SHARING OF INFORMATION</strong></h4>
-<h4>3.1. <strong>What Do We Do With Collected Information?</strong></h4>
-<p>(a) Personal Information. We will not share your personal information with any third parties without your consent, except as necessary to provide you with the services offered by us or to comply with the law. We may use your personal information to verify your identity or to follow up with transactions initiated on the Web Site. We may also use your contact information to inform you of any changes to the Web Site, to send you additional information about CAbi, or to offer you other products, programs or services that we believe may be of interest to you. If you are a consultant and give your permission during the account registration process, we may share your contact information on the Web Site<em>.</em> We don’t give information to any partners or for any promotions. If you choose to post information on the Web Site in a public forum, your name, location and comment (all as entered by you) will be displayed to all users of the Web Site to facilitate interaction among users. General users’ email addresses are never revealed to other users; provided, however, Consultants’ have the option of revealing their email address and phone number on the Web Site.</p>
-<p>(b) Anonymous Information. We use anonymous information to analyze our Web Site traffic, but we do not examine this information for individually identifying information. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.</p>
-<p>(c) Use of Cookies. We may use cookies to deliver content specific to your interests, to save your password so you don’t have to re-enter it each time you visit our site, or for other purposes.</p>
-<p>(d) Disclosure of Personal Information. We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (i) conform to the edicts of the law or comply with legal process served on CAbi or its affiliates, (ii) protect and defend the rights or property of CAbi or the users of the Web Site, or (iii) act under exigent circumstances to protect the safety of the public or users of the Web Site.</p>
-<p>(e) Sale of Assets. In order to accommodate changes in our business, we may sell or buy portions of our company or other companies or assets, including the information collected through the Web Site. If CAbi or substantially all of its assets are acquired, customer information will be one of the assets transferred to the acquirer.</p>
-<p>(f) Access to Information / Opting-Out. If you have opted to receive email from us, you may unsubscribe at any time by using the opt-out option at the bottom of the email.</p>
-<h4>4. <strong>SECURITY</strong></h4>
-<p>The Web Site has security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration.</p>
-<h4>5. <strong>SITE AREAS BEYOND OUR CONTROL</strong></h4>
-<h4>5.1. <strong>Public Forums</strong></h4>
-<p>The Web Site includes interactive forums for the exchange of information, ideas and opinions. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose personal information.</p>
-<h4>5.2. <strong>Third Party Web sites</strong></h4>
-<p>The Web Site may contain links to other web sites. If you choose to visit other web sites, we are not responsible for the privacy practices or content of those other web sites, and it is your responsibility to review the privacy policies at those web sites to confirm that you understand and agree with their policies.</p>
-<h4>6. <strong>CONTACT INFORMATION AND POLICY UPDATES</strong></h4>
-<h4>6.1. <strong>Contacting Us</strong></h4>
-<p>If you have any questions about this Policy, our practices related to the Web Site, or if you would like to have us remove your information from our database, please feel contact us at the following e-mail address: <a href="mailto:privacy@cabiexperience.com" target="_blank">privacy@cabiexperience.com</a>.</p>
-<h4>6.2. <strong>Updates and Changes</strong></h4>
-<p>We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Web Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Web Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.</p>
+</ul></div>      <div class="menu-additional">
+    <ul>
+        <li><a href="/clothing-collection/wish-list">My Wish List</a></li>
+        <li><a href="http://www.cabiclio.com/backoffice" target="_blank">Stylist Login</a></li>
+        <li><a href="http://www.cabiclio.com/backoffice" target="_blank">Fashion Experience Planner</a></li>        
+                    <li><a href="/lead-form?lead=footer-menu" target="_blank">Find a <span class="lowercase">cabi</span> Stylist</a></li>
+            </ul>
 </div>
-		</div></div><!-- .span10, .row -->
-	</div></div><!-- #page -->
-	<div class="visible-phone">
-		<ul class="consultant-links clearfix list-unstyled">
-  <li class="host">
-    <a href="/host-a-show?lead=sidebar_link" onclick="_gaq.push(['_trackEvent', 'Leads', 'form click']);" class="become">
-      Host a <strong>Show</strong>
-    </a>
-  </li>
-  <li class="purchase">
-    <a href="/purchase-clothing?lead=sidebar_link" onclick="_gaq.push(['_trackEvent', 'Leads', 'form click']);">
-      Make a <strong>Purchase</strong>
-    </a>
-  </li>
-  <li class="consultant">
-    <a href="/become-a-consultant?lead=sidebar_link" onclick="_gaq.push(['_trackEvent', 'Leads', 'form click']);" class="become">
-      Become a <strong>Consultant</strong>
-    </a>
-  </li>  
-</ul>	</div>
-	<div id="prefooter">
-		<div class="mailing-list-form">
-			<div class="container">
-				<div class="offset2 span8">
-					<div class="row">
-						<h5 class="for-seo">
-							<div class="span3">
-								<strong>Stay in the Know!</strong>
-							</div>
-							<div class="span5">
-								<p>Sign up for exclusive emails on the latest fashion tips, CA<small class="bi">bi</small> events, and collection announcements!</p>
-							</div>
-						</h5>
-					</div>
-					<div class="row for-form">
-						<div class="span6">
-							<form method="post" action="/mailinglist/">
-	<fieldset>
-		<input type="text" name="mm" placeholder="Enter Your Email" class="required email">
-		<input type="submit" name="submit" class="mailing-list-submit">
-	</fieldset>
-</form>						</div>
-						<div class="span2">
-							<a href="/privacy-policy" class="pp">Privacy Policy</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="container tablet-full-width">
-			<div class="menu-primary"><ul id="menu-main-navigation-2" class="menu"><li class="standout menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20390"><a href="/collection/clothes">Collection</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20389"><a href="http://www.cabionline.com/clothing-collection/">Overview</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12572"><a href="/collection/clothes">Browse By Item</a>
-	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14704"><a href="/collection/clothes">All</a></li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-has-children menu-item-24027"><a href="http://www.cabionline.com/collection/clothes-category/womens-tops/">Tops</a>
-		<ul class="sub-menu">
-			<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24028"><a href="http://www.cabionline.com/collection/clothes-category/womens-tanks-camis/">Tanks &amp; Camis</a></li>
-			<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24029"><a href="http://www.cabionline.com/collection/clothes-category/womens-tops-tees/">Tops &amp; Tees</a></li>
-			<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24031"><a href="http://www.cabionline.com/collection/clothes-category/womens-tunics/">Tunics</a></li>
-			<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24032"><a href="http://www.cabionline.com/collection/clothes-category/womens-sweaters/">Sweaters</a></li>
-		</ul>
-</li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24030"><a href="http://www.cabionline.com/collection/clothes-category/womens-shirts-blouses/">Shirts &amp; Blouses</a></li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-has-children menu-item-24033"><a href="http://www.cabionline.com/collection/clothes-category/womens-jackets/">Jackets</a>
-		<ul class="sub-menu">
-			<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24035"><a href="http://www.cabionline.com/collection/clothes-category/coats/">Coat</a></li>
-		</ul>
-</li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-has-children menu-item-24037"><a href="http://www.cabionline.com/collection/clothes-category/denim/">Denim</a>
-		<ul class="sub-menu">
-			<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24038"><a href="http://www.cabionline.com/collection/clothes-category/denim-curvy/">Curvy</a></li>
-		</ul>
-</li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-has-children menu-item-24039"><a href="http://www.cabionline.com/collection/clothes-category/womens-pants/">Pants</a>
-		<ul class="sub-menu">
-			<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24729"><a href="http://www.cabionline.com/collection/clothes-category/casual/">Casual</a></li>
-			<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24730"><a href="http://www.cabionline.com/collection/clothes-category/dress/">Dress</a></li>
-			<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24728"><a href="http://www.cabionline.com/collection/clothes-category/shorts/">Shorts</a></li>
-		</ul>
-</li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24041"><a href="http://www.cabionline.com/collection/clothes-category/womens-skirts-dresses/">Skirts &amp; Dresses</a></li>
-		<li class="hide menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-24042"><a href="http://www.cabionline.com/collection/clothes-category/womens-accessories/">Accessories</a></li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-25772"><a href="http://www.cabionline.com/collection/clothes-category/jewelry/">Jewelry</a></li>
-		<li class="in-the-sun menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-26842"><a href="http://www.cabionline.com/collection/clothes-category/in-the-sun/">In The Sun</a></li>
-		<li class="off-the-map menu-item menu-item-type-taxonomy menu-item-object-item_category menu-item-27726"><a href="http://www.cabionline.com/collection/clothes-category/off-the-map/">Off The Map</a></li>
-	</ul>
-</li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-24460"><a href="/collection/outfits">Browse By Outfit</a>
-	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24732"><a href="/collection/outfits">All</a></li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-24462"><a href="http://www.cabionline.com/styles/on-the-go/">On The Go</a></li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-24463"><a href="http://www.cabionline.com/styles/in-the-pink/">In The Pink</a></li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-24461"><a href="http://www.cabionline.com/styles/by-the-shore/">By The Shore</a></li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-24465"><a href="http://www.cabionline.com/styles/on-the-clock/">On The Clock</a></li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-24464"><a href="http://www.cabionline.com/styles/on-the-move/">On The Move</a></li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-24466"><a href="http://www.cabionline.com/styles/by-the-book/">By The Book</a></li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-24467"><a href="http://www.cabionline.com/styles/in-the-know/">In The Know</a></li>
-		<li class="in-the-sun menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-26970"><a href="http://www.cabionline.com/styles/in-the-sun/">In The Sun</a></li>
-		<li class="off-the-map menu-item menu-item-type-taxonomy menu-item-object-styles menu-item-27727"><a href="http://www.cabionline.com/styles/off-the-map/">Off The Map</a></li>
-	</ul>
-</li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24458"><a href="http://www.cabionline.com/clothing-collection/clothing-gallery/">Gallery</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24459"><a href="http://www.cabionline.com/must-have-women-clothes/">Must Haves Now</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15642"><a href="http://www.cabionline.com/denim-guide/">Denim Guide</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12575"><a href="http://www.cabionline.com/clothing-collection/look-book/">Look Book</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12576"><a href="http://www.cabionline.com/clothing-collection/bonus-book/">Bonus Book</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19790"><a href="http://www.cabionline.com/fashion-style-quiz/">Quiz</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19791"><a href="http://www.cabionline.com/love-carol/">Love, Carol</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19792"><a href="http://www.cabionline.com/fall-2014-clothing-favorites/">Fall 2014 Favorites</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24717"><a href="http://www.cabionline.com/cabiclothing/">#CA<small class="bi">bi</small>Clothing</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25382"><a href="http://www.cabionline.com/spring-runway-video/">Spring 2015 Runway Video</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16546"><a href="http://www.cabionline.com/sneak-peek-video/">Sneak Peek Video</a></li>
-</ul>
-</li>
-<li class="standout menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12620"><a href="http://www.cabionline.com/shows/">Host a Show</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20393"><a href="http://www.cabionline.com/shows/">Overview</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12561"><a href="http://www.cabionline.com/shows/attend-a-show/">Attend a Show</a>
-	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12589"><a href="http://www.cabionline.com/shows/attend-a-show/have-invite/">Have an Invite?</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12588"><a href="http://www.cabionline.com/shows/attend-a-show/get-invite-home-shopping-show/">Get an Invite</a></li>
-	</ul>
-</li>
-	<li class="no-bottompad menu-item menu-item-type-post_type menu-item-object-page menu-item-12590"><a href="http://www.cabionline.com/shows/host-clothing-show/">The Show</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14678"><a href="http://www.cabionline.com/shows/hostess-benefits/">Hostess Benefits</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14673"><a href="http://www.cabionline.com/shows/faq/">FAQs</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14754"><a href="http://www.cabionline.com/shows/host-show-video/">Host a Show Video</a></li>
-</ul>
-</li>
-<li class="standout menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12592"><a href="http://www.cabionline.com/career-in-fashion/">Join Us</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20394"><a href="http://www.cabionline.com/career-in-fashion/">Overview</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12594"><a href="http://www.cabionline.com/career-in-fashion/business-model/">Business Model</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12597"><a href="http://www.cabionline.com/career-in-fashion/how-cabi-supports-you/">How CA<small class="bi">bi</small> Supports You</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15617"><a href="http://www.cabionline.com/career-in-fashion/why-cabi/">Why CA<small class="bi">bi</small>?</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13030"><a href="http://www.cabionline.com/career-in-fashion/clothing-consultants/">CA<small class="bi">bi</small> Girls</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20314"><a href="http://www.cabionline.com/career-in-fashion/women-purpose/">Women on Purpose</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12606"><a href="/career-events">Career Events</a>
-	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-tribe_events_cat menu-item-12607"><a href="http://www.cabionline.com/career-events/category/sharing-cabi/">Sharing CA<small class="bi">bi</small></a></li>
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-tribe_events_cat menu-item-12608"><a href="http://www.cabionline.com/career-events/category/community-career-gatherings/">Community Gatherings</a></li>
-	</ul>
-</li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13248"><a href="http://www.cabionline.com/career-in-fashion/experience-magazine/">CA<small class="bi">bi</small> Career Book</a></li>
-	<li class="remove-item no-bottompad menu-item menu-item-type-post_type menu-item-object-page menu-item-16186"><a href="http://www.cabionline.com/career-in-fashion/cabi-career-video/">Career Video</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12565"><a href="/blog">Blog</a></li>
-<li class="no-columns menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12563"><a href="http://www.cabionline.com/foundation/">Foundation</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20395"><a href="http://www.cabionline.com/foundation/">Overview</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16494"><a href="http://www.cabionline.com/foundation/donate/">Give Now</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12564"><a href="http://www.cabionline.com/what-is-cabi/">What Is CA<small class="bi">bi</small>?</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20396"><a href="http://www.cabionline.com/what-is-cabi/">Overview</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12614"><a href="http://www.cabionline.com/what-is-cabi/timeline/">Timeline</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20145"><a href="http://www.cabionline.com/what-is-cabi/who-we-are/">Who We Are</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24742"><a href="http://www.cabionline.com/cabiscoop/">#CA<small class="bi">bi</small>Scoop</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18565"><a href="http://www.cabionline.com/seen-on/">Seen On</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18771"><a href="http://www.cabionline.com/press/">Press</a></li>
-</ul>
-</li>
-</ul></div>			<ul class="menu-additional">
-				<li><a href="/clothing-collection/wish-list">My Wish List</a></li>
-				<li><a href="http://www.cabiclio.com/backoffice" target="_blank">Consultant Login</a></li>
-				<li><a href="http://www.cabiclio.com/backoffice" target="_blank">Show Planner</a></li>
-				<li class="top-push"><a href="/host-a-show?lead=footer_link" onclick="_gaq.push(['_trackEvent', 'Leads', 'form click']);">Host a Show</a></li>
-								<li><a href="/purchase-clothing?lead=footer_link" onclick="_gaq.push(['_trackEvent', 'Leads', 'form click']);">Make a Purchase</a></li>
-				<li><a href="/become-a-consultant?lead=footer_link" onclick="_gaq.push(['_trackEvent', 'Leads', 'form click']);">Become a Consultant</a></li>
-												<li>
-					<ul class="social-icons list-unstyled clearfix">
-						<li class="twitter"><a href="http://twitter.com/cabiclothing" target="_blank">Twitter</a></li>
-						<li class="facebook"><a href="http://www.facebook.com/CAbiClothing" target="_blank">Facebook</a></li>
-						<li class="instagram"><a href="http://www.instagram.com/cabiclothing" target="_blank">Instagram</a></li>
-						<li class="pinterest"><a href="http://pinterest.com/cabiclothing/" target="_blank">Pinterest</a></li>
-						<li class="youtube"><a href="http://youtube.com/cabiclothing/" target="_blank">Youtube</a></li>
-					</ul>
-				</li>
-			</ul>
-		</div>
-	</div>
-	<div id="footer" class="tablet-full-width"><div class="container">
-		<div class="visible-phone">
-			<div class="mailing-list-form">
-				<h5 class="for-seo">
-					<strong>Stay in the Know!</strong>
-					<p>
-						Sign up for exclusive emails on the latest fashion tips, CA<small class="bi">bi</small> events, and collection announcements!
-					</p>
-				</h5>
-				<a href="/privacy-policy">Privacy Policy</a>
-				<form method="post" action="/mailinglist/">
-	<fieldset>
-		<input type="text" name="mm" placeholder="Enter Your Email" class="required email">
-		<input type="submit" name="submit" class="mailing-list-submit">
-	</fieldset>
-</form>			</div>
-			<a href="/" title="Go to homepage" id="footer-logo">
-				<img src="http://www.cabionline.com/wp-content/themes/cabi_fall_2013/images/mobile-footer-logo.gif">
-			</a>
-			<ul class="social-icons list-unstyled clearfix">
-				<li class="twitter"><a href="http://twitter.com/cabiclothing" target="_blank">Twitter</a></li>
-				<li class="facebook"><a href="http://www.facebook.com/CAbiClothing" target="_blank">Facebook</a></li>
-				<li class="instagram"><a href="http://www.instagram.com/cabiclothing" target="_blank">Instagram</a></li>
-				<li class="pinterest"><a href="http://pinterest.com/cabiclothing/" target="_blank">Pinterest</a></li>
-				<li class="youtube"><a href="http://youtube.com/cabiclothing/" target="_blank">Youtube</a></li>
-			</ul>
-		</div>
+    
+    </div>
+  </div>
 
-		<div id="legal-items">
-			<span class="copyright"><a href="/terms-conditions" class="pp">Terms and Conditions</a> | © 2015 CAbi, LLC. All Rights Reserved</span>
-		</div>
-	</div></div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"83fa317538","applicationID":"4949489","transactionName":"ZFRXN0oDCkNSB0EMV10edABMCwteHBRUAl0=","queueTime":0,"applicationTime":1797,"atts":"SBNUQQIZGU0=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+  <div class="container">
+    <div id="legal-links" class="align-center">
+      <ul class="list-inline list-unstyled">
+        <li><a href="/privacy-policy/">Privacy Policy</a></li>
+        <li><a href="/terms-conditions/">Terms &amp; Conditions</a></li>
+        <li>© 2015 cabi, LLC. All Rights Reserved.</li>
+      </ul>
+    </div>
+  </div>
+  
+</footer>
 <div id="fb-root"></div>        <script type="text/javascript">
         // <![CDATA[
         var disqus_shortname = 'cabionline';
@@ -810,7 +434,13 @@ margin-bottom: 0px;
         }());
         // ]]>
         </script>
-        <!-- Page created in 1.76 seconds from 176 queries on 06.07.15 @ 06:12:44 PDT --><script type="text/javascript">
+        <script type="text/javascript" src="http://www.cabionline.com/wp-content/themes/cabi/assets/js/dist/lib.min.js?1448482179"></script>
+<script type="text/javascript" src="http://www.cabionline.com/wp-content/themes/cabi/assets/js/dist/main.min.js?1448482179"></script>
+<script type="text/javascript" src="http://www.cabionline.com/wp-content/themes/cabi/assets/js/dist/pages.js?1448482179"></script>
+<script type="text/javascript" src="//use.typekit.net/tci5cir.js?1448482179"></script>
+<script type="text/javascript" src="http://www.cabionline.com/wp-content/themes/cabi/assets/js/plugins/jquery.fancybox.js?1448482179"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript">
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', 'UA-2054655-6']);
 	_gaq.push(['_setDomainName', 'cabionline.com']);
@@ -823,10 +453,24 @@ margin-bottom: 0px;
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	})();
 </script>
-
+<script type="application/ld+json">
+	{
+		  "@context" : "http://schema.org",
+		  "@type" : "cabi Clothing",
+		  "name" : "cabi",
+		  "url" : "http://www.cabionline.com",
+		  "sameAs" : [
+		    "http://www.facebook.com/cabiclothing/",
+		    "http://instagram.com/cabiclothing",
+		    "http://twitter.com/cabiclothing",
+			"http://www.pinterest.com/cabiclothing/",
+			"http://www.youtube.com/user/CAbiClothing"
+		  ]
+	}
+</script>
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
-Content Delivery Network via media.cabionline.com
+Page Caching using disk: enhanced
 
- Served from: www.cabionline.com @ 2015-06-07 06:12:44 by W3 Total Cache --></body></html>
+ Served from: www.cabionline.com @ 2015-11-25 13:09:39 by W3 Total Cache --></body></html>
