@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the helloflo.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206043608id_/http%3A//helloflo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helloflo.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206162929id_/http%3A//helloflo.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Helloflo
+# Privacy Policy - Helloflo
 
 Your privacy, and the privacy of all users of HelloFlo is important to us. HelloFlo is committed to protecting your privacy online. Accordingly, HelloFlo has developed this privacy policy that describes the data we collect, how we use it, and with whom we share it (“Privacy Policy”). This Privacy Policy sets forth the policies and procedures of personally identifiable information received from users of the Service, including but not limited to the website at www.HelloFlo.com and the mobile applications created by HelloFlo (collectively, the “HelloFlo Service” or “Service”). This Privacy Policy is applicable to all site visitors, registered users, and all other users of the Service.
 
