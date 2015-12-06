@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utas.edu.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142710id_/http%3A//www.utas.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utas.edu.au privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206041419id_/http%3A//www.utas.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy - UTAS - University of Tasmania, Australia
 
@@ -21,6 +21,13 @@ Certain business functions of the University of Tasmania may require you to ente
  **Blogs, surveys and online teaching**
 
 Personal information you enter when accessing and using authenticated websites and applications such as blogs, surveys and online teaching areas may also be collected by University of Tasmania and may become viewable by other users within that application. 
+
+ **Cloud Services**
+
+  * [Staff Cloud Services](http://www.utas.edu.au/service-desk/policy/staff-cloud-services)
+  * [Student Cloud Services](http://www.utas.edu.au/service-desk/policy/student-cloud-services)
+
+
 
  **Information collected while browsing the University of Tasmania web presence**
 
