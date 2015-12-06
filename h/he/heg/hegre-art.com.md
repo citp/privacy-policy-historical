@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hegre-art.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609051445id_/http%3A//hegre-art.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hegre-art.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206124449id_/http%3A//www.hegre-art.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Hegre-Art.com
 
@@ -30,4 +30,4 @@ You can access all your personally identifiable information that we collect onli
 
 ## How To Contact Us:
 
-Should you have other questions or concerns about these privacy policies, please [submit a ticket in our support system](https://web.archive.org/support/new-ticket).
+Should you have other questions or concerns about these privacy policies, please [submit a ticket in our support system](https://web.archive.org/support/new-ticket?locale=jp).
