@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsuk.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175054id_/http%3A//www.carsuk.net/privacy-policy-for-cars-uk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsuk.net privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206092302id_/http%3A//www.carsuk.net/privacy-policy-for-cars-uk) for the most accurate reproduction.*
 
 # Privacy Policy for Cars UK | Cars UK
 
