@@ -1,19 +1,21 @@
-<!--The following is the downloaded HTML source of the photonicsonline.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607140324id_/http%3A//www.photonicsonline.com/static/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the photonicsonline.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206035824id_/http%3A//www.photonicsonline.com/static/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-        <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript"> 
-            if (!window.console) 
-                console = {log: function() {}}; 
-        </script>        
-        
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+
+        if (!window.console)
+            console = {log: function() {}};
+    </script>
+    
 
 <title>Photonics Online : Privacy Statement</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
- <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0;">   <meta name="description" content="Photonics Online for display components,camera components,light sensors &amp; detectors, lasers, optical components,optical fabrication, LED, fiber optics, DPSS,laser systems">  <meta name="Title" content="Photonics Online : Privacy Statement"> 
-        <link rel="shortcut icon" href="http://vertassets.blob.core.windows.net/sites/favicons/photo-favicon.ico">
-        
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="description" content="Photonics Online for display components,camera components,light sensors &amp; detectors, lasers, optical components,optical fabrication, LED, fiber optics, DPSS,laser systems">  <meta name="Title" content="Photonics Online : Privacy Statement"> 
+    <link rel="shortcut icon" href="http://vertassets.blob.core.windows.net/sites/favicons/photo-favicon.ico">
+    
 
 <!-- Google Analytics -->
 <script>
@@ -39,86 +41,96 @@
     ga('send', 'pageview', '/static/Privacy?documenttype=&hascompany=N&hasauthor=N');
 </script>
 <!-- End Google Analytics -->
-        
-        <link href="/bundles/css/accents/default?v=6hHCTD-UIzvxKZIKY86gPeo8dqZ__knlJ9J0BfzqHOE1" rel="stylesheet">
 
-        
+    <link href="/wwwroot/css/lib.min.css?v=20218" rel="stylesheet">
+
+    <link href="/wwwroot/css/accents/default.min.css?v=20218" rel="stylesheet">
+
+
+    <!--[if lt IE 9]>
+        <script src ="/wwwroot/js/ie/ie.min.js?v=20218"></script>
+
+    <![endif]-->
+
+
+    <script type="text/javascript">
+        var OA_zones = {"1288":1288,"835":835,"186":186,"189":189,"188":188,"766":766};
+        var __vertVids = [];
+    </script>
+    
+        <script type="text/javascript" src="http://ads.vertmarkets.com/ads/delivery/spcjs.php?id=44&amp;block=1"></script>
+    
+
+    
+</head>
+<body class="">
+    <!--[if IE 8]>
         <script type="text/javascript">
-            var OA_zones = {"1288":1288,"835":835,"186":186,"189":189,"188":188,"766":766};
-            var __vertVids = [];
+            document.getElementsByTagName('body')[0].className = 'ie-8';
         </script>
-        
-            <script type="text/javascript" src="http://ads.vertmarkets.com/ads/delivery/spcjs.php?id=44&amp;block=1"></script>
-        
+    <![endif]-->
 
-        
-    </head>
-    <body class="">
-        <!--[if IE 8]>
-            <script type="text/javascript">
-                document.getElementsByTagName('body')[0].className = 'ie-8';
-            </script>
-        <![endif]-->
-        
-        <script type="text/template" id="login-template">
+    <script type="text/template" id="login-template">
     <% if(!userLoggedIn) { %>
     <a href="<%= signInUrl %>">Sign in</a> or
     <a href="<%= signUpUrl %>">Sign-up</a>
     <% } else { %>
     Welcome,
-    <strong><%= userName %></strong> (
-    <a href="<%= profileUrl %>">Profile</a> |
-    <a href="<%= signOutUrl %>">Sign Out</a>)
+    <strong><%= userName %></strong> 
+    (<a href="<%= profileUrl %>">Profile</a> |
+    <a id="sign-out-link" href="<%= signOutUrl %>">Sign Out</a>)
     <% } %>
 </script>
 
 
 <script type="text/template" id="hello-bar-template">
-    <% if(showHelloBar) { %>
-        <div id="hellobar" class="<%= helloBar.topClass %>">
-            <span class="hello-bar-text"><%= helloBar.text %></span>
-            <span class="fancy-btn-inline-block">
-                <a class="fancy-btn-default fancy-btn-variable" href="<%= helloBar.url %>">
-                    <i><span class="<%= helloBar.iconClass %> icon-white"></span></i> <%= helloBar.buttonText %>
-                </a>
-            </span>
-        </div>
-        <div id="hellobar-pusher"></div>
-    <% } %>
+    <div id="hellobar" class="<%= topClass %>">
+        <span class="hello-bar-text"><%= text %></span>
+        <span class="fancy-btn-inline-block">
+            <a class="fancy-btn-default fancy-btn-variable" href="<%= url %>">
+                <span class="fa <%= iconClass %> icon-white"></span> <%= buttonText %>
+            </a>
+        </span>
+    </div>
+    <div id="hellobar-pusher"></div>
 </script>
-        
-        <div class="hellobar-container mobile-hide"></div>
 
-        <div class="site-header">
+    <div class="hellobar-container mobile-hide noprint"></div>
+
+    <div class="site-header container">
     <div class="site-header-inner ir">
-        <a href="/"><img alt="www.photonicsonline.com" src="http://vertassets.blob.core.windows.net/sites/logos/photonicsonline/header_genesis.gif" border="0"></a>
+        <a href="/"><img alt="www.photonicsonline.com" src="http://vertassets.blob.core.windows.net/sites/logos/photo.png" border="0"></a>
         <div class="right-hand-information">
             
             <div class="user-login-indicator noprint" data-action="/user/LoginInfo"></div>
         </div>
     </div>
 </div>
-<div class="navbar">
-    <div class="navbar-inner">
-        <div class="container">
-            <a class="btn btn-navbar" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+<div class="navbar navbar-default navbar-sites noprint" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navLinks" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
-            </a>
-            <form action="/search" method="GET" class="navbar-search pull-right">
-                <input type="text" name="keyword" id="keyword" maxlength="1000"><a class="search-button" href="#"><i class="icon-search icon-white"> </i></a>
-            </form>
-            <div class="nav-collapse collapse navbar-responsive-collapse">
-                <ul class="nav">
-                        <li class="dropdown">        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-            Products <b class="caret "></b>
+            </button>
+        </div>
+        <form action="/search" method="GET" class="navbar-right" role="search">
+            <input type="text" name="keyword" id="keyword" maxlength="1000"><a class="search-button" href="#"><span class="fa fa-search icon-white" title=""> </span></a>
+        </form>
+        <div class="collapse navbar-collapse" id="navLinks">
+
+            <ul class="nav navbar-nav">
+                    <li class="dropdown">        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+            Products
+                <b class="caret "></b>
         </a>
-        <ul class="dropdown-menu">
+        <ul class="dropdown-menu ">
                 <li class="dropdown-submenu">        <a class="dropdown-toggle" data-toggle="dropdown-submenu">
-            Cameras / Imaging <b class="caret mobile-display-inline-block desktop-hide"></b>
-        </a>
-        <ul class="dropdown-menu">
+            Cameras / Imaging
+<span class="fa fa-chevron-right submenu-icon" title=""> </span>        </a>
+        <ul class="dropdown-menu dropdown-last-level">
                 <li class="">        <a href="/solution/cmos-cameras">CMOS Cameras</a>
 </li>
                 <li class="">        <a href="/solution/ccd-cameras">CCD Cameras</a>
@@ -148,9 +160,9 @@
                 <li class="">        <a href="/solution/positioning-equipment">Positioning Equipment</a>
 </li>
                 <li class="dropdown-submenu">        <a href="/solution/optical-components" class="dropdown-toggle" data-toggle="dropdown-submenu">
-            Optical Components <b class="caret mobile-display-inline-block desktop-hide"></b>
-        </a>
-        <ul class="dropdown-menu">
+            Optical Components
+<span class="fa fa-chevron-right submenu-icon" title=""> </span>        </a>
+        <ul class="dropdown-menu dropdown-last-level">
                 <li class="">        <a href="/solution/optical-filters">Optical Filters</a>
 </li>
                 <li class="">        <a href="/solution/lenses">Lenses</a>
@@ -163,31 +175,22 @@
 </li>
         </ul>
 </li>
-                        <li class="dropdown">        <a href="# " class="dropdown-toggle" data-toggle="dropdown">
-            Markets <b class="caret "></b>
+                    <li class="dropdown">        <a href="/resource/news" class="dropdown-toggle" data-toggle="dropdown">
+            News &amp; Community
+                <b class="caret "></b>
         </a>
-        <ul class="dropdown-menu">
-                <li class="">        <a href="/solution/medical">Medical</a>
-</li>
-                <li class="">        <a href="/solution/military-defense">Military &amp; Defense</a>
-</li>
-        </ul>
-</li>
-                        <li class="dropdown">        <a href="/resource/news" class="dropdown-toggle" data-toggle="dropdown">
-            News &amp; Community <b class="caret "></b>
-        </a>
-        <ul class="dropdown-menu">
+        <ul class="dropdown-menu ">
                 <li class="">        <a href="/hub/bucket/homelatestheadlines">Current Headlines</a>
 </li>
                 <li class="">        <a href="/eventscalendar/">Industry Events</a>
 </li>
         </ul>
 </li>
-                        <li class="">        <a href="/solution/photonics-west">Photonics West</a>
+                    <li class="">        <a href="/solution/photonics-west">Photonics West</a>
 </li>
-                </ul>
-            </div>
+            </ul>
         </div>
+
     </div>
 </div>
 
@@ -195,33 +198,32 @@
 
 
 
-        
-         
-    <div class="top-ads noprint">
-        <div class="top-ad-container">
+    
+     
+    <div class="container-fluid top-ads noprint">
+        <div class="top-ad-container mobile-hide">
             <div class="ad-white-canvas">
-<div class="">
+<div class="ad ">
     <script type="text/javascript">
         nZoneId = '766';
         OA_show(nZoneId);
     </script>
 </div></div>
             <div class="ad-white-canvas earpiece">
-<div class="">
+<div class="ad ">
     <script type="text/javascript">
         nZoneId = '1288';
         OA_show(nZoneId);
     </script>
 </div></div>
         </div>
-        <div class="mobile-ad-container">
+        <div class="mobile-ad-container desktop-hide">
             
         </div>
     </div>    
  
-        <div class="main-container main-container-background">
-            <div class="body-container">
-                
+    <div class="container main-container">
+        
 <div class="one-column">    
     <div id="column1">
             <h2 class="header">Privacy Statement</h2>
@@ -267,91 +269,90 @@ If you feel that this company is not abiding by its posted privacy policy, you s
 <p>VertMarkets Privacy Policy, October 2013.</p>
     </div>
 </div>
-            </div>
-        </div>
-        
-        <div class="bubblingG hide">
-    <span id="bubblingG_1"></span>
-    <span id="bubblingG_2"></span>
-    <span id="bubblingG_3"></span>
-</div>
+    </div>
+    
+    <div class="vert-footer-container noprint">
+		<div class="footer footer-row-3">
+				<div class="footer-column-3">
+						<ul class="no-bullets">
+			<li>
+								<span>Advertise Online</span>
 
-        <div class="vert-footer-container noprint">
-        <div class="vert-footer">
-            <div class="footer-colspan3">
-    <ul class="footer-col">
-            <li>
-                                <span><strong>Advertise Online</strong></span>
+					<ul class="no-bullets">
+							<li> <a href="/doc/photonics-online-media-kit-0001">Media Kit</a> </li>
+							<li> <a href="http://vertassets.blob.core.windows.net/download/b62c05de/b62c05de-29be-4d7c-b86f-99d9785c956e/2015editorialcalendarphotonicsonline.pdf">Editorial Calendar</a> </li>
+					</ul>
+			</li>
+	</ul>
 
-                    <ul>
-                            <li> <a href="/doc/photonics-online-media-kit-0001">Media Kit</a> </li>
-                            <li> <a href="http://vertassets.blob.core.windows.net/download/b62c05de/b62c05de-29be-4d7c-b86f-99d9785c956e/2015editorialcalendarphotonicsonline.pdf">Editorial Calendar</a> </li>
-                    </ul>
-            </li>
-    </ul>
-    <ul class="footer-col">
-            <li>
-                                <span><strong>Services</strong></span>
+				</div>
+				<div class="footer-column-3">
+						<ul class="no-bullets">
+			<li>
+								<span>Services</span>
 
-                    <ul>
-                            <li> <a href="/doc/pr-newswire-and-vertmarkets-special-offer-0001">Press Release Service</a> </li>
-                    </ul>
-            </li>
-    </ul>
-    <ul class="footer-col">
-            <li>
-                                <span><strong>Contact Us</strong></span>
+					<ul class="no-bullets">
+							<li> <a href="/doc/pr-newswire-and-vertmarkets-special-offer-0001">Press Release Service</a> </li>
+					</ul>
+			</li>
+	</ul>
 
-                    <ul>
-                            <li> <a href="/static/about">Contact Photonics Online</a> </li>
-                            <li> <a href="/doc/be-a-contributor-to-onlinename-0001">Be A Contributor</a> </li>
-                    </ul>
-            </li>
-    </ul>
-            </div>
-        </div>
+				</div>
+				<div class="footer-column-3">
+						<ul class="no-bullets">
+			<li>
+								<span>Contact Us</span>
 
-        <div class="ad-footer-container">
-            <div class="ad-footer-white-canvas">
-                
-<div class="">
+					<ul class="no-bullets">
+							<li> <a href="/static/about">Contact Photonics Online</a> </li>
+							<li> <a href="/doc/be-a-contributor-to-onlinename-0001">Be A Contributor</a> </li>
+					</ul>
+			</li>
+	</ul>
+
+				</div>
+		</div>
+			<div class="ad-footer-container">
+			<div class="ad-footer-white-canvas">
+				
+<div class="ad ">
     <script type="text/javascript">
         nZoneId = '186';
         OA_show(nZoneId);
     </script>
 </div><br>
-            </div>
-        </div>
-        <div class="bottom-ads-container noprint">
-            <div class="bottom-ad">
-<div class="">
+			</div>
+		</div>
+		<div class="bottom-ads-container noprint">
+			<div class="bottom-ad">
+<div class="ad ">
     <script type="text/javascript">
         nZoneId = '766';
         OA_show(nZoneId);
     </script>
 </div></div>
-            <div class="bottom-ad earpiece">
-<div class="">
+			<div class="bottom-ad earpiece">
+<div class="ad ">
     <script type="text/javascript">
         nZoneId = '1288';
         OA_show(nZoneId);
     </script>
 </div></div>
-            
-            <div class="mobile-ad-container">
-                
-            </div>
-        </div>
-    <div class="vert-copyright">
-        <a href="/static/Copyright">Copyright</a> © 1996-2015 <a href="http://www.vertmarkets.com">VertMarkets, Inc.</a> All Rights Reserved.  <a href="/static/Legal">Terms of Use</a>.  <a href="/static/Privacy">Privacy Statement</a>.
-    </div>
+
+			<div class="mobile-ad-container">
+				
+			</div>
+		</div>
+	<div class="vert-copyright">
+		<a href="/static/Copyright">Copyright</a> © 1996-2015 <a href="http://www.vertmarkets.com">VertMarkets, Inc.</a> All Rights Reserved.  <a href="/static/Legal">Terms of Use</a>.  <a href="/static/Privacy">Privacy Statement</a>.
+	</div>
 </div>
 
-        <div id="desktopMedia" class="mobile-hide" style="width:1px;height:1px;"></div>
-
-        <script src="/bundles/js/core?v=plDSG5Vu7XTimmlVVuVSexblh8heVoH78FhMWHsrq481"></script>
 
 
-        
+
+    <script src="/wwwroot/js/core/core.min.js?v=20218"></script>
+
     
+
 </body></html>
