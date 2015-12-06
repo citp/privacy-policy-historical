@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netrition.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120718id_/http%3A//www6.netrition.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netrition.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206025718id_/http%3A//www3.netrition.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement for Netrition, Inc.
 
@@ -25,13 +25,11 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 #### Choice/Opt-Out
 
-Our site provides users the opportunity to opt-out of receiving email from us from within emails sent from our mailing list. 
-
-This site gives users the option for removing an email address from our email lists. To do so, you can visit the following URL: [http://www.netrition.com/subscribe.html](https://web.archive.org/subscribe.html)
+Our site provides users the opportunity to opt-out of receiving email from us from within emails sent from our mailing list. Each email contains a link to uniquely remove the recipient's email address from the mailing list. 
 
 #### Correct/Update
 
-To modify information previously provided, visit [http://www.netrition.com/myaccount.html](https://web.archive.org/myaccount.html)
+To modify information previously provided, visit <https://service.netrition.com/myaccount.html>
 
 #### Contacting the Web Site
 
