@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miracas.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429094828id_/http%3A//miracas.com/content/11-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miracas.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206221416id_/http%3A//miracas.com/content/11-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Miracas International Limited
 
