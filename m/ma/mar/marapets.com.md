@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the marapets.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174304id_/http%3A//www.marapets.com/info.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marapets.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206211152id_/http%3A//www.marapets.com/info.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
 
 # MaraPets - Contact Us
 
 |   
 ---|---  
   
+Cookie Policy
+
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners. We also use cookies to store your account details, to keep you logged in and able to play Marapets. Marapets also uses Google services for analytics and advertising. By visiting our website, you are agreeing to [**how Google uses your data and cookies**](http://www.google.com/intl/en/policies/privacy/partners/). 
+
 Privacy Policy
 
 To ensure this website is a safe and fun place for all we ensure that all online information is secure at all times. The site has a large number of online child players and therefore we take care to make sure that the content of the site is always safe for them. Any information gathered from you through this website will never be disclosed to any third party. This is includes Marapets staff, as all personal information is kept hidden from staff. 
@@ -13,7 +17,7 @@ Children under the age of 13 do not disclose any personal information about them
 
 Marapets asks users 13 years and older to provide a valid first (and optional last name), valid e-mail address, birth date, gender, and country of location. All users can change or remove their information upon registration. 
 
-Children under 13 can only have their accounts changed to an over 13 account upon the request of their parents, informing us that they have permission to do so. In such a case, the parents need to print out a Parental Consent form ([ **click here**](https://web.archive.org/web/20150607174304id_/http%3A//www.marapets.com/coppa.html)) and fill it in. They can then scan it and email to marapets@gmail.com or fax it (fax number coming soon). 
+Children under 13 can only have their accounts changed to an over 13 account upon the request of their parents, informing us that they have permission to do so. In such a case, the parents need to print out a Parental Consent form ([ **click here**](https://web.archive.org/web/20151206211152id_/http%3A//www.marapets.com/coppa.html)) and fill it in. They can then scan it and email to marapets@gmail.com or fax it (fax number coming soon). 
 
 All information we collect and store is for gaming purposes only. Personal information of those 13 and over are, your email address for you to recover your password, your gender to identify you at the forums, date of birth to track which age groups use the site, your ip address to stop cheating with multiple accounts. 
 
@@ -21,7 +25,7 @@ For those who have verified their account via email as an over 13 year old accou
 
 Participation in the Marapets Website is not based upon information collected. 
 
-We have a strict policy against spyware and adware and popup advertisements. All of our advertising will be suitable for all ages, using Google Adsense targetted advertisements. 
+We have a strict policy against spyware and adware and popup advertisements. All of our advertising will be suitable for all ages, using third-party advertising companies. 
 
 When visitors enter the site and members sign up to the site information such as computer operating system, IP address and web browser. This is only for research purposes to ensure that the site works its best with all users. If you would like your account or information removed, simply open a Support Ticket via the Contact Us link at the bottom of every page, and a staff member will do so. 
 
@@ -34,6 +38,8 @@ We will not share information about individual users with any third party, excep
 As a parent of a player under 13 or as a member you can contact us at anytime, requesting to view all information we have stored, and you have the ability to review and control it at all times. 
 
 By using this site, you consent to the collection and use of this information by Marapets.com and Marasites.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [**click here**](http://www.networkadvertising.org/). 
 
 If you have any questions or concerns regarding our privacy policy please contact us at one of the following: Email marapets@gmail.com   
   
