@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kudzuinteractive.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607030510id_/http%3A//tillster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kudzuinteractive.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140618id_/http%3A//www.tillster.com/privacy-policy) for the most accurate reproduction.*
 
-# Tillster Privacy Policy – Your Privacy Rights | tillster
+# Tillster Privacy Policy – Your Privacy Rights : Tillster
 
 Effective Date 11/11/2013 (last updated 11/11/2013)
 
@@ -54,7 +54,7 @@ This Policy describes how we treat personal information on the websites where th
 
 #### You have certain choices about sharing and marketing practices.
 
-**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, email us at [privacy@tillster.com](mailto:privacy@tillster.com). Even if you opt out of getting marketing messages, we will still send you transactional messages. These include responses to your questions.
+**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, email us at [privacy@www.tillster.com](mailto:privacy@www.tillster.com). Even if you opt out of getting marketing messages, we will still send you transactional messages. These include responses to your questions.
 
 **You can control cookies and tracking tools.** Your browser may give you the ability to control cookies or other tracking tools. How you do so depends on the type of tool. Certain browsers can be set to reject browser cookies. To control flash cookies, which we may use on certain websites from time to time, you can go [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Why? Because flash cookies cannot be controlled through your browser settings. If you block cookies on your browser, certain features on our sites may not work. If you block or delete cookies, not all of the tracking activities we have described here will stop. Choices you make are both browser and device-specific.
 
@@ -62,7 +62,7 @@ This Policy describes how we treat personal information on the websites where th
 
 #### These Sites and children.
 
-Our sites are meant for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can [email us](mailto:privacy@tillster.com). You can also write to us at the address listed at the end of this policy. Please mark your inquiries “COPPA Information Request.” Parents, you can learn more about how to protect children’s privacy on-line [here](http://www.business.ftc.gov/privacy-and-security/childrens-privacy).
+Our sites are meant for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can [email us](mailto:privacy@www.tillster.com). You can also write to us at the address listed at the end of this policy. Please mark your inquiries “COPPA Information Request.” Parents, you can learn more about how to protect children’s privacy on-line [here](http://www.business.ftc.gov/privacy-and-security/childrens-privacy).
 
 #### We store information in the United States.
 
@@ -83,10 +83,10 @@ If you have any questions or concerns about this Privacy Policy or if you would 
 Attn: Privacy  
 10070 Mesa Rim Rd.,  
 San Diego, CA 92121  
-Email: privacy@tillster.com
+Email: privacy@www.tillster.com
 
 #### We may update this Policy.
 
 From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
-© 2013 Tillster, Inc. All rights reserved.
+© 2013 Tillster, Inc. All rights reserved. 
