@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usedcarexpert.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152939id_/http%3A//www.usedcarexpert.co.uk/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usedcarexpert.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206045553id_/http%3A//www.usedcarexpert.co.uk/terms) for the most accurate reproduction.*
 
 # Used Car Expert Disclaimer
 
