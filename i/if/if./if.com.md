@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607030757id_/http%3A//www.if.com/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206135427id_/http%3A//if.com/privacy/default.aspx) for the most accurate reproduction.*
 
 # Privacy - Intelligent Finance
 
@@ -13,8 +13,8 @@ More information on the Group can be found at [www.lloydsbankinggroup.com](http:
 Your personal information will be held securely in Lloyds Banking Group systems so that we and any other companies in our Group that you have dealings with, either now or in the future, can manage your relationship with us. This will include information you provide when you apply to us, and any additional information provided by you or others in various ways, including:
 
 (a) in applications, emails and letters, during telephone calls and conversations in branch, when registering for services, in customer surveys, when you participate in competitions and promotions, through Lloyds Banking Group company websites, and during financial reviews and interviews.  
-(b) from analysis (for example, the amount frequency, location, origin, and recipient) of your payments and other transactions, and your use of services involving other Lloyds Banking Group companies and what they know from operating your account; and   
-(c) information Lloyds Banking Group companies receive from each other, from our business partners, and from other organisations such as credit reference agencies and fraud prevention agencies.
+(b) from analysis (for example, the amount frequency, location, origin, and recipient) of your payments and other transactions, and your use of services involving other Lloyds Banking Group companies and what they know from operating your account (including the creation of profiles used to uniquely identify you when you use our online, mobile and telephony services) which are used to help us combat fraud and other illegal activity; and   
+(c) information Lloyds Banking Group companies receive from each other, from or through other organisations (for example card associations, credit reference agencies, insurance companies, retailers, comparison website, social networks, and fraud prevention agencies) whether in the course of providing products and services to you or otherwise, and from information we gather from your use of and interaction with our internet and mobile banking services and the devices you use to access them. 
 
 We will not retain your personal information for longer than is necessary for the maintenance of your account, or for legal or regulatory requirements.
 
@@ -26,16 +26,17 @@ We may share the personal information we hold about you across the Lloyds Bankin
 (b) responding to your enquiries and complaints;  
 (c) administering offers, competitions, and promotions;  
 (d) undertaking financial reviews;  
+(e) facilitating the secure access to online platforms  
 and also for the following data sharing activities:  
-(e) updating, consolidating, and improving the accuracy of our records;  
-(f) undertaking transactional analysis;  
-(g) arrears and debt recovery activities;  
-(h) testing new systems and checking upgrades to existing systems;  
-(i) crime detection, prevention, and prosecution;  
-(j) evaluating the effectiveness of marketing, and for market research and training;  
-(k) customer modelling, statistical and trend analysis, with the aim of developing and improving products and services;  
-(l) assessing lending and insurance risks across the Lloyds Banking Group;  
-(m) managing your relationship with the Lloyds Banking Group companies.
+(f) updating, consolidating, and improving the accuracy of our records;  
+(g) undertaking transactional analysis;  
+(h) arrears and debt recovery activities;  
+(i) testing new systems and checking upgrades to existing systems;  
+(j) crime detection, prevention, and prosecution;  
+(k) evaluating the effectiveness of marketing, and for market research and training;  
+(l) customer modelling, statistical and trend analysis, with the aim of developing and improving products and services;  
+(m) assessing lending and insurance risks across the Lloyds Banking Group;  
+(n) managing your relationship with the Lloyds Banking Group companies.
 
 By sharing this information it enables us, and other companies in the Lloyds Banking Group, to better understand your needs and run your accounts in the efficient way that you expect. 
 
@@ -148,7 +149,7 @@ We have systems that protect our customers and ourselves against fraud and other
 
 
 
-Please contact us on 0845 602 7174 if you want to receive details of the relevant fraud prevention agencies. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies.
+Please contact us on 0345 602 7174 if you want to receive details of the relevant fraud prevention agencies. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies.
 
 **How we check your identity**
 
