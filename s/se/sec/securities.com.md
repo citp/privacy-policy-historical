@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the securities.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608020744id_/http%3A//www.securities.com/emis/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securities.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035736id_/http%3A//www.securities.com/emis/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  
-PRIVACY STATEMENT 
 
 ## Our Privacy Commitments
 
@@ -23,9 +20,8 @@ Our principal business activities are:
 
 
 **Euromoney Institutional Investor plc Company Address:**  
-Nestor House,  
-Playhouse Yard,  
-London EC4V 5EX  
+6-8 Bouverie Street  
+London EC4Y 8DD  
 United Kingdom
 
 **Institutional Investor, Inc. Company Address:**  
