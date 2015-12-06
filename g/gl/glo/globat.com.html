@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the globat.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607154523id_/http%3A//www.globat.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globat.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206171854id_/http%3A//www.globat.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -12,7 +12,50 @@
 <meta name="rating" content="General">
 <meta name="distribution" content="Global">
 <link rel="stylesheet" href="/xslt/elements/globat_csscomponent.css">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PPRPX8"></script><script src="/generalAppC/scriptcat/87ae207201c55b84c5270851159260e1.1"></script>
+
+
+<script id="fortifi-track" src="//track.globat.com/fp/init/fortifi.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PPRPX8"></script><script>
+window.V = window.V || {};
+V.cart = V.cart || {
+	items: []
+};
+
+V.grammar = V.grammar || {
+	chatserver: "chatserver.globat.com"
+}
+// chat script
+V.chat = {
+  initialize: function () {
+    var _this = this;
+    if (V.grammar.chatserver) {
+      // bind chat links to chat function
+      var chatLinks = document.querySelectorAll('[href="#chat"]');
+			for (var i = 0; i < chatLinks.length; i++) {
+				chatLinks[i].addEventListener('click', function (e) {
+					return _this.popUp('https://' + V.grammar.chatserver, 500, 375);
+				});
+			}
+    }
+  },
+  popUp: function (url, width, height) {
+    var id = new Date();
+
+    width = width || 900;
+    height = height || 800;
+
+    window.open(
+      url,
+      id.toString(),
+      "toolbar=no,scrollbars=yes,location=no,statusbar=no,menubar=no,resizable=no,width=" + width + ",height=" + height
+    );
+  }
+}; // end V.chat
+
+window.addEventListener('load', function() { V.chat.initialize() }, false);
+</script>
+
+
+<script src="/generalAppC/scriptcat/87ae207201c55b84c5270851159260e1.1"></script>
 
 
 
@@ -33,7 +76,11 @@
 
 
 
-<script>dataLayer = [];</script>
+
+<script>dataLayer = [{"userType":"anonymous","pageType":"","userID":"","pageClass":"","step":"","flow":""}];</script>
+
+
+
 
 
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
@@ -42,6 +89,22 @@
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-PPRPX8');</script>
+
+
+
+<script type="text/javascript">
+  (function(d,s,i,u) {
+    if (d.getElementById(i)){return;}
+    var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+    n.id=i;n.src='//'+u+'/fp/init/fortifi.js';
+    e.parentNode.insertBefore(n, e);
+  })(document,"script","fortifi-track","track.globat.com");
+</script>
+
+
+
+
+
 
 <table width="100%" cellpadding="0" cellspacing="0"><tbody><tr><td align="center"><table><tbody><tr><td width="950" bgcolor="#ffffff" align="center"><div class="site_wrapper">
 <div id="hd">
@@ -53,7 +116,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="top_sub_nav"><ul>
 <li><a href="/">Home</a></li>
 <li><a href="/secure/login.bml">Log in</a></li>
-<li><a href="http://server.iad.liveperson.net/hc/66651396/?cmd=file&amp;file=visitorWantsToChat&amp;site=66651396&amp;byhref=1" target="chat66651396" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/66651396/?cmd=file&amp;file=visitorWantsToChat&amp;site=66651396&amp;referrer='+escape(document.location),'chat66651396','width=472,height=320');return false;">Live Chat</a></li>
+<li><a class="gtm_chat" href="#chat">Live Chat</a></li>
 </ul></div>
 <div id="top_nav"><table width="100%" cellpadding="0" cellspacing="0" style="position: relative;"><tbody><tr>
 <td id="top_nav_left"><img src="/images/trans.gif" width="8" height="10"></td>
@@ -86,7 +149,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="bd"><table width="100%" class="main" cellpadding="0" cellspacing="0"><tbody><tr>
 <td id="master_left_container" valign="top" align="center">
 <div id="nav_wrapper">
-
 <div class="navblock">
 <h3><a href="/legal/index.bml">Terms of Service</a></h3>
 <ul>
