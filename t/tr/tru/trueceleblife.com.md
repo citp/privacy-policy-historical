@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trueceleblife.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041334id_/http%3A//www.trueceleblife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueceleblife.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141946id_/http%3A//www.trueceleblife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TrueCelebLife
 
