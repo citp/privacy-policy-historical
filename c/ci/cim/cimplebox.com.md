@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cimplebox.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175450id_/http%3A//www.cimplebox.com/help/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cimplebox.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206102046id_/http%3A//www.cimplebox.com/help/privacypolicy.aspx) for the most accurate reproduction.*
 
 # CimpleBox - Cimplify Your Retail Business
 
