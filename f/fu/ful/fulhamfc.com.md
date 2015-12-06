@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fulhamfc.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627155046id_/http%3A//www.fulhamfc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulhamfc.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140137id_/http%3A//www.fulhamfc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fulham Football Club
 
@@ -8,7 +8,7 @@ Fulham Football Club ("FFC") is committed to maintaining your privacy in accorda
 
 At times we may request that you voluntarily supply us with personal information. Generally this information is requested when you register to use our website, purchase tickets and enter any promotions or competitions. We may gather and use information about you in the following ways:
 
-**More generally, we will use your personal details and information we obtain from other sources to provide you with our goods and services, for administration and customer services, for marketing, to analyse your purchasing preferences and to ensure that the content, services and advertising that we offer are tailored to your needs and interests. We may need to share your information with our service providers and agents for these purposes. We may disclose personal data in order to comply with a legal or regulatory obligation.**
+**More generally, we will use your personal details and information we obtain from other sources to provide you with our goods and services, for administration and customer services, for marketing, to analyse your purchasing preferences and to ensure that the content, services and advertising that we offer are tailored to your needs and interests. We may need to share your information with our service providers and agents for these purposes. We may disclose personal data in order to comply with a legal or regulatory obligation. We do not store or share financial information with third parties.**
 
 By providing us with your personal information you consent to our processing your personal data for the above purposes. You also consent to our transferring your information to countries or jurisdictions outside of the EEA which may not provide the same level of data protection as the UK, if necessary, for the above purposes.
 
