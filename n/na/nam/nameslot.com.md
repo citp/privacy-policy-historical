@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nameslot.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072242id_/http%3A//www.nameslot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nameslot.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114101id_/http%3A//www.nameslot.com/privacy.php) for the most accurate reproduction.*
 
 # Nameslot Domain Tools
 
@@ -48,4 +48,4 @@ Privacy Policy for NamesLot
 
   This Privacy Statement is a living document. NamesLot may update this policy at any time for any reason. If we significantly change how we handle personal information, we will notify the primary email address specified in your NamesLot account. We will also placing a notice on our blog and on the Privacy page at NamesLot.com/privacy.
 
-  If you have questions or suggestions please use you the feedback form or you can contact us at admin@NamesLot.com
+  If you have questions or suggestions please use you the feedback form or you can contact us at admin@NamesLot.com 
