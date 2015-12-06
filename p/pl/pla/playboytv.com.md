@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the playboytv.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174707id_/http%3A//www.playboytv.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playboytv.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206213811id_/http%3A//www.playboytv.com/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Playboy TV
 
 **  
-The following “Privacy Policy” is dated as of December 17, 2007 and is incorporated into the Terms of Service found on  [http://playboytv.com/Terms-of-Service](http://www.playboytv.com/Terms-of-Service). Please review them carefully before accessing any of the “Sites” (defined below).  
+The following “Privacy Policy” is dated as of December 17, 2007 and is incorporated into the Terms of Service found on[http://playboytv.com/Terms-of-Service](http://www.playboytv.com/Terms-of-Service). Please review them carefully before accessing any of the “Sites” (defined below).  
 **  
-This Privacy Policy (the “Policy”) applies to Playboy Entertainment Group, Inc. and PlayboyTV.com, Inc.’s (collectively, “Playboy”) family of websites (the “Sites”). These include PlayboyTV.com, PlayboyOnDemand.com, GetPlayboyTV.com; and any other sites at or on which these Terms of Service appear. It does not apply to other online or offline Playboy sites, products or services.
+This Privacy Policy (the “Policy”) applies to Playboy Entertainment Group, Inc., Playboy Plus Entertainment Inc. and PlayboyTV.com, Inc.’s (collectively, “Playboy”) family of websites (the “Sites”). These include PlayboyTV.com, PlayboyOnDemand.com, GetPlayboyTV.com; and any other sites at or on which these Terms of Service appear. It does not apply to other online or offline Playboy sites, products or services.
 
 This Policy explains what information we collect about you and what we do with it. We reserve the right to modify this Policy at any time, and we will notify you of any material changes to the Policy by posting the new Policy here and changing the “Effective Date” at the top. We encourage you to check this page periodically for any changes. By using or navigating any of the Sites, you acknowledge that you have read, understand and agree to be bound by this Policy or any modified Policy as posted. If you do not agree to these terms, please do not use or visit any of our Sites.
 
@@ -57,16 +57,16 @@ How do I unsubscribe?**
 
 All e-mails you receive from us will include specific instructions on how to unsubscribe and you may unsubscribe at any time. Additionally, we give you the following options for removing your information from our database:
 
-(1)        Send an email to [admin@PlayboyTV.com](mailto:admin@PlayboyTV.com)
+(1) Send an email to [admin@PlayboyTV.com](mailto:admin@PlayboyTV.com)
 
-(2)        Select the opt-out link at the bottom of any Playboy email and follow the instructions provided;
+(2) Select the opt-out link at the bottom of any Playboy email and follow the instructions provided;
 
-(3)        Send mail to the following address:  
+(3) Send mail to the following address:  
 DIRECTOR, NEW MEDIA, TV  
-Customer Service – PlayboyTV.com, Inc.  
-2706 Media Center Drive  
-Los Angeles, CA 90065
+Customer Service PlayboyTV.com, Inc.  
+2300 W. Empire Ave., 7th floor  
+Burbank, CA 91505
 
 **Can I update/correct my information?**
 
-Yes. You may correct or update your personal information by sending us an email at [Changes@PlayboyTV.com](mailto:Changes@PlayboyTV.com)
+Yes. You may correct or update your personal information by sending us an email at [Changes@PlayboyTV.com](mailto:Changes@PlayboyTV.com)
