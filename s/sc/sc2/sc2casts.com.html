@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sc2casts.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607183045id_/http%3A//sc2casts.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sc2casts.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206095123id_/http%3A//sc2casts.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" xml:lang="en-us"><head>
 <title>Privacy Policy - SC2Casts.com</title>
@@ -10,7 +10,7 @@
 <meta name="keywords" content="sc2, starcraft 2, starcraft II, replays, vods, vod, replay, video, videos, gaming, ios, android, iphone, ipad, tournament">
 <meta name="description" content="Keeps track of the best Starcraft 2 video casted matches from all over the Internet">
 <meta property="og:image" content="http://sc2casts.com/images/sc2casts.png">
-<link href="http://sc2casts.com/style.css" rel="stylesheet" type="text/css">
+<link href="http://sc2casts.com/style_new.css" rel="stylesheet" type="text/css">
 <link rel="shortcut icon" href="http://sc2casts.com//favicon.ico?v=3">
 <link rel="alternate" href="http://sc2casts.com/rss" title="SC2Casts's Updates" type="application/rss+xml">
 <meta name="google-site-verification" content="c86FD6mx_CKsKkzdT-KuLHXd3EtuDfd8tAplYEVF2AY">
@@ -52,9 +52,219 @@ function recordOutboundLink(link, category, action) {
 
 </script></head>
 <body><div id="teaserdiv"></div>
+<script>
+
+	function Ajax(){this.url="";this.params="";this.method="GET";this.onSuccess=null;this.onError=function(msg){alert(msg)}}
+removingElement=0;Ajax.prototype.doRequest=function(){if(!this.url){this.onError("There was no URL given. The request will be canceled.");return false;}
+if(!this.method){this.method="GET";}else{this.method=this.method.toUpperCase();}
+var _this=this;var xmlHttpRequest=getXMLHttpRequest();if(!xmlHttpRequest){alert("I couldn't create a XMLHttpRequest-Object.");return false;}
+switch(this.method){case"GET":xmlHttpRequest.open(this.method,this.url+"?"+this.params,true);xmlHttpRequest.onreadystatechange=readyStateHandler;xmlHttpRequest.send(null);break;case"POST":xmlHttpRequest.open(this.method,this.url,true);xmlHttpRequest.onreadystatechange=readyStateHandler;xmlHttpRequest.setRequestHeader('Content-Type','application/x-www-form-urlencoded');xmlHttpRequest.send(this.params);break;}
+function readyStateHandler(){if(xmlHttpRequest.readyState<4){return false;}
+if(xmlHttpRequest.status==200||xmlHttpRequest.status==304){if(_this.onSuccess){_this.onSuccess(xmlHttpRequest.responseText,xmlHttpRequest.responseXML);}}else{if(_this.onError){/*_this.onError("["+xmlHttpRequest.status+" "+xmlHttpRequest.statusText+"] There was an error with the data transfer. Please try again in a few minutes.");*/}}}}
+function getXMLHttpRequest()
+{if(window.XMLHttpRequest){return new XMLHttpRequest();}else
+if(window.ActiveXObject){try{return new ActiveXObject("Msxml2.XMLHTTP");}catch(e){try{return new ActiveXObject("Microsoft.XMLHTTP");}catch(e){return null;}}}
+return false;}
+
+	document.onkeydown = function(evt) {
+		evt = evt || window.event;
+		if (evt.keyCode == 27) {
+			document.getElementById('loginForm').style.display = "none";
+			document.getElementById('signupForm').style.display = "none";
+		}
+	};
+
+	window.onclick = function(e) {
+		var hasParent = false;
+			for(var node = e.target; node != document.html; node = node.parentNode)
+			{
+			  if(node.id == 'loginForm' || node.id == 'link2'){
+				hasParent = true;
+				break;
+			  }
+			  if(node.id == 'signupFormForm' || node.id == 'link1'){
+				hasParent = true;
+				break;
+			  }
+			}
+		  if(!hasParent && !clicked) {
+			document.getElementById('loginForm').style.display = "none";
+			document.getElementById('signupForm').style.display = "none";
+		  }
+		  clicked = 0;
+	}
+
+
+	window.addEventListener('load', function(){
+ 
+    var box1 = document.getElementById('signupForm')
+ 
+ 
+    box1.addEventListener('touchend', function(e){
+        var hasParent = false;
+			for(var node = e.target; node != document.html; node = node.parentNode)
+			{
+			  if(node.id == 'loginForm' || node.id == 'link2'){
+				hasParent = true;
+				break;
+			  }
+			  if(node.id == 'signupFormForm' || node.id == 'link1'){
+				hasParent = true;
+				break;
+			  }
+			}
+		  if(!hasParent && !clicked) {
+			document.getElementById('loginForm').style.display = "none";
+			document.getElementById('signupForm').style.display = "none";
+		  }
+		  clicked = 0;
+    }, false)
+ 
+}, false)
+
+	function signupUser() {
+		var username= document.forms.signup.username.value;
+		var pass1= encodeURIComponent(document.forms.signup.password.value);
+		var pass2= encodeURIComponent(document.forms.signup.repassword.value);
+
+		var email= document.forms.signup.email.value;
+	
+		with(new Ajax()){
+			url="http://sc2casts.com/remote/signup_regular.php";
+			params="username=" + username +"&pass1=" + pass1 +"&pass2=" + pass2 + "&email=" + email;
+			onSuccess=signupResult;
+			doRequest();
+		}
+	}
+	function signupResult(txt,xml) {
+		if(txt!= "1") {
+			//_gaq.push(['_trackEvent', 'registration popup', reason + " Error: " + txt, document.location+""]);
+			el = document.getElementById('erorr_txt');
+			el.style.display = "";
+			el.innerHTML = txt;
+		} else {
+			_gaq.push(['_trackEvent', 'registration popup', "register success!", "regular screen"]);
+			setTimeout(location.reload(), 1000);
+		}
+	}
+	var clicked = 0;
+	
+	function showSignUp() {
+		clicked = 1;
+		toggleLayer('signupForm');
+		register_pressed();
+		
+	}
+	function register_pressed() {
+	 try {
+		_gaq.push(['_trackEvent', 'registration popup', "registration window showed", document.location+""]);
+	  }catch(err){}
+	}
+
+
+	function signupUserFbFinish() {
+		var username= document.forms.signup.username.value;
+		var email = "";
+					email = document.forms.signup.email.value;
+					
+		with(new Ajax()){
+			url="http://sc2casts.com/remote/signupFbFinish.php";
+			params="username=" + username +"&fb_id=" + '' + "&email=" + email;
+			onSuccess=signupUserFbFinishResult;
+			doRequest();
+		}
+	}
+	function signupUserFbFinishResult(txt,xml) {
+		if(txt!= "1") {
+			//_gaq.push(['_trackEvent', 'registration popup', reason + " Error: " + txt, document.location+""]);
+			el = document.getElementById('erorr_txt');
+			el.style.display = "";
+			el.innerHTML = txt;
+		} else {
+			_gaq.push(['_trackEvent', 'registration popup', "register success!", "facebook screen"]);
+			setTimeout(location.reload(), 1000);
+		}
+	}
+
+	function signupUserGoogleFinish() {
+		var username= document.forms.signup.username.value;
+		var email = "";
+
+					email = document.forms.signup.email.value;
+				
+
+		with(new Ajax()){
+			url="http://sc2casts.com/remote/signupGoogleFinish.php";
+			params="username=" + username +"&g_id=" + '' + "&email=" + email;
+			onSuccess=signupUserGoogleFinishResult;
+			doRequest();
+		}
+	}
+	function signupUserGoogleFinishResult(txt,xml) {
+		if(txt!= "1") {
+			//_gaq.push(['_trackEvent', 'registration popup', reason + " Error: " + txt, document.location+""]);
+			el = document.getElementById('erorr_txt');
+			el.style.display = "";
+			el.innerHTML = txt;
+		} else {
+			_gaq.push(['_trackEvent', 'registration popup', "register success!", "google screen"]);
+			setTimeout(location.reload(), 1000);
+		}
+	}
+
+</script>
+							<div id="signupForm" style="display:none;">
+										<div id="signupFormForm">
+					<div class="headlinee">Quick Account Setup</div>
+									
+					<div id="erorr_txt" style="display:none;">err</div>
+					<form name="signup" onsubmit="javascript:signupUser(); return false;">
+					<input type="text" name="username" placeholder="username" id="register_field1">
+					<input type="password" name="password" placeholder="password" id="register_field2">
+					<input type="password" name="repassword" placeholder="password again" id="register_field3">
+					<input type="email" name="email" placeholder="email" id="register_field4">
+					<input type="submit" style="position: absolute; height: 0px; width: 0px; border: none; padding: 0px;" tabindex="-1">
+					</form>
+					<div id="buttonlink"><a href="javascript:void(0)" onclick="javascript:signupUser();" id="register_field5">Create and Sign In</a></div>
+					<div style="font-size:13px;padding-top:5px;margin-left:25px;margin-right:25px;"><div class="bordered_header"><span>&nbsp;&nbsp;or sign in with&nbsp;&nbsp;</span></div></div>
+					<div class="fb_button_reg"><a href="https://www.facebook.com/v2.2/dialog/oauth?client_id=477707638955574&amp;redirect_uri=http://sc2casts.com/remote/fblogin.php&amp;scope=email&amp;response_type=token&amp;state=ae5c9684d4daca8473621ac77e41713f" id="register_field6" title="Sign in with Facebook">&nbsp;&nbsp;&nbsp;Facebook</a></div><div class="g_button_reg"><a href="https://accounts.google.com/o/oauth2/auth?response_type=code&amp;access_type=offline&amp;scope=https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email&amp;redirect_uri=http://sc2casts.com/remote/glogin&amp;client_id=661342358815-i6cmerj10qsfam9lhd9a27ao67n6gm79.apps.googleusercontent.com&amp;state=ae5c9684d4daca8473621ac77e41713f" id="register_field6" title="Sign in with Google">&nbsp;&nbsp;&nbsp;Google</a></div>
+				</div>
+				<div id="darkShield"></div>
+				
+			</div>
+
+
 <div id="siteContent">
-<form name="filter" action="/"><div class="menu"><div style="float:left;padding-bottom: 5px;"><a href="/" title="SC2Casts"><img src="/images/sitelogo2.png" style="vertical-align:top;margin-top:-17px;padding-right:10px;padding-left:5px;" alt="SC2Casts Logo"></a><span class="buttons"><a href="/" class="selected2">recent casts</a> <a href="/top">top</a> <a href="/all">all</a> <a href="/browse">browse</a>  <a href="/premium" style="color:#FFC457;" rel="nofollow">premium</a>   <span style="margin-left:10px;color:white;">search</span>&nbsp;<input type="text" name="q" style="height: 16px;paddng-left:5px;border:0;padding:2px;padding-left:4px;"></span><a href="#" onclick="javascript:document.filter.submit();" title="Search"><img src="http://sc2casts.com/images/search_icon.png" border="0" style="vertical-align:text-top;margin-left:5px;" width="15" height="15" alt="Search"></a><span class="buttons"> <a href="/settings">settings</a> <a href="/login">login / register</a></span></div>
+<div class="menu"><form name="filter" action="/" style="width:auto;"><div style="float:left;padding-bottom: 5px;"><a href="/" title="SC2Casts"><img src="/images/sitelogo2.png" style="vertical-align:top;margin-top:-17px;padding-right:10px;padding-left:5px;" alt="SC2Casts Logo"></a><span class="buttons"><a href="/" class="selected2">recent casts</a> <a href="/top">top</a> <a href="/all">all</a> <a href="/browse">browse</a>  <a href="/premium" style="color:#FFC457;" rel="nofollow">premium</a>   <span style="margin-left:10px;color:white;">search</span>&nbsp;<input type="text" name="q" style="height: 16px;paddng-left:5px;margin-left:5px;border:0;padding:2px;padding-left:4px;padding-top:3px;padding-bottom:3px;border-radius:3px;width:235px;" placeholder="Search by Players, Casters and Events"></span><a href="#" onclick="javascript:document.filter.submit();" title="Search"><img src="http://sc2casts.com/images/search_icon.png" border="0" style="vertical-align:text-top;margin-left:5px;" width="15" height="15" alt="Search"></a><span class="buttons"> <a href="javascript:void(0)" onclick="showSignUp()">settings</a></span></div></form>
 <div style="float:right;">
+<div class="loginlinks">
+	<div id="joinlink"><a href="javascript:void(0)" onclick="showSignUp();">Join SC2Casts</a></div> <div id="signinlink"><a href="javascript:void(0)" onclick="javascript: toggleLayer('loginForm');" id="link2">Sign In</a></div>
+	<div class="loginForm" id="loginForm" style="display: none;"><form name="login" id="realloginform" method="POST" action="http://sc2casts.com/login" style="width:auto;">
+				<table cellspacing="5" border="0">
+					<tbody><tr>
+						<td align="right" style="width:70px;">username</td>
+						<td><input type="text" id="username" name="username" autofocus=""></td>
+					</tr>
+					<tr>
+						<td align="right" style="width:70px;">password</td>
+						<td><input type="password" id="password" name="password"></td>
+					</tr>
+					<tr>
+						<td colspan="2"><a href="javascript:void(0)" onclick="javascript: document.getElementById('realloginform').submit();" rel="nofollow" class="link2" style="width:308px;">Sign In</a></td>
+					</tr>
+					
+					
+					<tr>
+						<td colspan="2" style="font-size:11px;text-align:left" class="loginfooterlinks"><a href="http://sc2casts.com/forgottenpassword" style="color:#1C6593">Forgotten password</a><div style="float:right">New to SC2Casts? <a href="javascript:void(0)" style="color:#FF8335" onclick="javascript:document.getElementById('loginForm').style.display = 'none';showSignUp();">Join Now</a></div></td>
+					</tr>
+					<tr>
+						<td colspan="2"><div class="bordered_header"><span>&nbsp;&nbsp;or sign in with&nbsp;&nbsp;</span></div><div class="fb_button_reg2" style="display:inline"><a href="https://www.facebook.com/v2.2/dialog/oauth?client_id=477707638955574&amp;redirect_uri=http://sc2casts.com/remote/fblogin.php&amp;scope=email&amp;response_type=token&amp;state=ae5c9684d4daca8473621ac77e41713f" id="register_field6">&nbsp;&nbsp;&nbsp;Facebook</a></div><div class="g_button_reg2" style="display:inline"><a href="https://accounts.google.com/o/oauth2/auth?response_type=code&amp;access_type=offline&amp;scope=https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email&amp;redirect_uri=http://sc2casts.com/remote/glogin&amp;client_id=661342358815-i6cmerj10qsfam9lhd9a27ao67n6gm79.apps.googleusercontent.com&amp;state=ae5c9684d4daca8473621ac77e41713f" id="register_field6">&nbsp;&nbsp;&nbsp;Google</a></div></td>
+					</tr>
+				</tbody></table><input type="submit" style="position: absolute; height: 0px; width: 0px; border: none; padding: 0px;" tabindex="-1">
+				</form>
+				
+			  </div>
+</div>
 <div class="twitter">
 
 <a href="http://www.facebook.com/SC2Casts" title="Like us on Facebook and get notified when new series/videos are available!" onclick="recordOutboundLink(this, 'Outbound Links', 'thumb facebook');return false;">
@@ -65,7 +275,7 @@ function recordOutboundLink(link, category, action) {
 <a href="http://sc2casts.com/rss" title="Subscribe to our RSS Feeds!" onclick="recordOutboundLink(this, 'Outbound Links', 'thumb rss');return false;">
 <img src="http://sc2casts.com/images/rss.png" width="30" height="30" alt="Subscribe to SC2Casts.com RSS Feeds!" title="Subscribe to SC2Casts.com RSS Feeds!" border="0"></a>
 </div></div>
-</div></form>
+</div>
 <div id="main_container"><div class="rightWrapper"><style>
 .swap_links {
 	font-size:12px;
@@ -192,13 +402,13 @@ function handleResponse52() {
 
 <div class="streams" style="width:452px;margin-top:10px;">
 Live <!-- google_ad_section_start -->Starcraft<!-- google_ad_section_end --> 2 Streams <span style="float:right;color:#cccccc;font-size: 10px;">checked every 5 minutes</span><br><br>
-<span style="color:green">Online</span>: <a href="/stream/MorroW" onclick="recordOutboundLink(this, 'stream clicked', 'MorroW');return false;" title="489 viewers"><b>MorroW</b></a><br><span style="color:brown">Offline</span>: <span class="offlinelinks"><a href="/stream/TLO" onclick="recordOutboundLink(this, 'stream clicked', 'TLO');return false;" title="Last online: 21 hours ago"><b>TLO</b></a>, <a href="/stream/iNcontroL" onclick="recordOutboundLink(this, 'stream clicked', 'iNcontroL');return false;" title="Last online: 1 day ago"><b>iNcontroL</b></a>, <a href="/stream/Jaedong" onclick="recordOutboundLink(this, 'stream clicked', 'Jaedong');return false;" title="Last online: 11 days ago"><b>Jaedong</b></a>, <a href="/stream/HuK" onclick="recordOutboundLink(this, 'stream clicked', 'HuK');return false;" title="Last online: 18 hours ago"><b>HuK</b></a>, <a href="/stream/Tyler" onclick="recordOutboundLink(this, 'stream clicked', 'Tyler');return false;" title="Last online: 15 days ago"><b>Tyler</b></a>, <a href="/stream/CatZ" onclick="recordOutboundLink(this, 'stream clicked', 'CatZ');return false;" title="Last online: 2 days ago"><b>CatZ</b></a>, <a href="/stream/WhiteRa" onclick="recordOutboundLink(this, 'stream clicked', 'WhiteRa');return false;" title="Last online: 18 days ago"><b>WhiteRa</b></a>, <a href="/stream/Destiny" onclick="recordOutboundLink(this, 'stream clicked', 'Destiny');return false;" title="Last online: 1 month and 28 days ago"><b>Destiny</b></a>, <a href="/stream/qxc" onclick="recordOutboundLink(this, 'stream clicked', 'qxc');return false;" title="Last online: 19 days ago"><b>qxc</b></a>, <a href="/stream/Dimaga" onclick="recordOutboundLink(this, 'stream clicked', 'Dimaga');return false;" title="Last online: 1 hour ago"><b>Dimaga</b></a>, <a href="/stream/SeleCT" onclick="recordOutboundLink(this, 'stream clicked', 'SeleCT');return false;" title="Last online: 1 month and 24 days ago"><b>SeleCT</b></a>, <a href="/stream/DeMuslim" onclick="recordOutboundLink(this, 'stream clicked', 'DeMuslim');return false;" title="Last online: 1 day ago"><b>DeMuslim</b></a>, <a href="/stream/LiquidHero" onclick="recordOutboundLink(this, 'stream clicked', 'LiquidHero');return false;" title="Last online: 3 days ago"><b>LiquidHero</b></a>, <a href="/stream/Bomber" onclick="recordOutboundLink(this, 'stream clicked', 'Bomber');return false;" title="Last online: 9 days ago"><b>Bomber</b></a>, <a href="/stream/ForGG" onclick="recordOutboundLink(this, 'stream clicked', 'ForGG');return false;" title="Last online: 1 hour ago"><b>ForGG</b></a>, <a href="/stream/Naniwa" onclick="recordOutboundLink(this, 'stream clicked', 'Naniwa');return false;" title="Last online: 16 hours ago"><b>Naniwa</b></a>, <a href="/stream/Dragon" onclick="recordOutboundLink(this, 'stream clicked', 'Dragon');return false;" title="Last online: 6 hours ago"><b>Dragon</b></a>, <a href="/stream/MC" onclick="recordOutboundLink(this, 'stream clicked', 'MC');return false;" title="Last online: 3 days ago"><b>MC</b></a>, <a href="/stream/Snute" onclick="recordOutboundLink(this, 'stream clicked', 'Snute');return false;" title="Last online: 4 days ago"><b>Snute</b></a>, <a href="/stream/ViBE" onclick="recordOutboundLink(this, 'stream clicked', 'ViBE');return false;" title="Last online: 1 day ago"><b>ViBE</b></a>, <a href="/stream/TheStC" onclick="recordOutboundLink(this, 'stream clicked', 'TheStC');return false;" title="Last online: 8 days ago"><b>TheStC</b></a>, <a href="/stream/Wolf" onclick="recordOutboundLink(this, 'stream clicked', 'Wolf');return false;" title="Last online: 10 days ago"><b>Wolf</b></a>, <a href="/stream/TOP" onclick="recordOutboundLink(this, 'stream clicked', 'TOP');return false;" title="Last online: 10 days ago"><b>TOP</b></a>, <a href="/stream/TaeJa" onclick="recordOutboundLink(this, 'stream clicked', 'TaeJa');return false;" title="Last online: 15 days ago"><b>TaeJa</b></a>, <a href="/stream/KawaiiRice" onclick="recordOutboundLink(this, 'stream clicked', 'KawaiiRice');return false;" title="Last online: 1 month and 6 days ago"><b>KawaiiRice</b></a>, <a href="/stream/Crank" onclick="recordOutboundLink(this, 'stream clicked', 'Crank');return false;" title="Last online: 1 day ago"><b>Crank</b></a>, <a href="/stream/Creator" onclick="recordOutboundLink(this, 'stream clicked', 'Creator');return false;" title="Last online: 10 days ago"><b>Creator</b></a>, <a href="/stream/RotterdaM" onclick="recordOutboundLink(this, 'stream clicked', 'RotterdaM');return false;" title="Last online: 2 days ago"><b>RotterdaM</b></a></span>
-</div><div style="clear:both"></div><div style="margin-left:0px;margin-bottom:10px;"><div style="float:right;border-bottom:2px solid white;margin-bottom:10px;"><a href="/premium" title="Check Out SC2Casts Premium" onclick="recordOutboundLink(this, 'Outbound Links', 'premium banner');"><img src="/images/premium/premium_a.png" width="130" height="278" alt="SC2Casts Premium" border="0"></a></div><div id="bt2_img"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<span style="color:green">Online</span>: <a href="/stream/WinterStarcraft" onclick="recordOutboundLink(this, 'stream clicked', 'WinterStarcraft');return false;" title="2602 viewers"><b>WinterStarcraft</b></a>, <a href="/stream/CatZ" onclick="recordOutboundLink(this, 'stream clicked', 'CatZ');return false;" title="407 viewers"><b>CatZ</b></a>, <a href="/stream/MC" onclick="recordOutboundLink(this, 'stream clicked', 'MC');return false;" title="197 viewers"><b>MC</b></a><br><span style="color:brown">Offline</span>: <span class="offlinelinks"><a href="/stream/TLO" onclick="recordOutboundLink(this, 'stream clicked', 'TLO');return false;" title="Last online: 17 hours ago"><b>TLO</b></a>, <a href="/stream/iNcontroL" onclick="recordOutboundLink(this, 'stream clicked', 'iNcontroL');return false;" title="Last online: 2 days ago"><b>iNcontroL</b></a>, <a href="/stream/HuK" onclick="recordOutboundLink(this, 'stream clicked', 'HuK');return false;" title="Last online: 6 hours ago"><b>HuK</b></a>, <a href="/stream/Tyler" onclick="recordOutboundLink(this, 'stream clicked', 'Tyler');return false;" title="Last online: 3 days ago"><b>Tyler</b></a>, <a href="/stream/WhiteRa" onclick="recordOutboundLink(this, 'stream clicked', 'WhiteRa');return false;" title="Last online: 4 days ago"><b>WhiteRa</b></a>, <a href="/stream/Destiny" onclick="recordOutboundLink(this, 'stream clicked', 'Destiny');return false;" title="Last online: 3 hours ago"><b>Destiny</b></a>, <a href="/stream/Stephano" onclick="recordOutboundLink(this, 'stream clicked', 'Stephano');return false;" title="Last online: 16 days ago"><b>Stephano</b></a>, <a href="/stream/Minigun" onclick="recordOutboundLink(this, 'stream clicked', 'Minigun');return false;" title="Last online: 7 hours ago"><b>Minigun</b></a>, <a href="/stream/qxc" onclick="recordOutboundLink(this, 'stream clicked', 'qxc');return false;" title="Last online: 1 day ago"><b>qxc</b></a>, <a href="/stream/SeleCT" onclick="recordOutboundLink(this, 'stream clicked', 'SeleCT');return false;" title="Last online: 2 days ago"><b>SeleCT</b></a>, <a href="/stream/DeMuslim" onclick="recordOutboundLink(this, 'stream clicked', 'DeMuslim');return false;" title="Last online: 1 day ago"><b>DeMuslim</b></a>, <a href="/stream/LiquidHero" onclick="recordOutboundLink(this, 'stream clicked', 'LiquidHero');return false;" title="Last online: 7 days ago"><b>LiquidHero</b></a>, <a href="/stream/Bomber" onclick="recordOutboundLink(this, 'stream clicked', 'Bomber');return false;" title="Last online: 1 day ago"><b>Bomber</b></a>, <a href="/stream/ForGG" onclick="recordOutboundLink(this, 'stream clicked', 'ForGG');return false;" title="Last online: 7 hours ago"><b>ForGG</b></a>, <a href="/stream/Naniwa" onclick="recordOutboundLink(this, 'stream clicked', 'Naniwa');return false;" title="Last online: 1 month and 6 days ago"><b>Naniwa</b></a>, <a href="/stream/Polt" onclick="recordOutboundLink(this, 'stream clicked', 'Polt');return false;" title="Last online: 2 hours ago"><b>Polt</b></a>, <a href="/stream/Dragon" onclick="recordOutboundLink(this, 'stream clicked', 'Dragon');return false;" title="Last online: 1 day ago"><b>Dragon</b></a>, <a href="/stream/MorroW" onclick="recordOutboundLink(this, 'stream clicked', 'MorroW');return false;" title="Last online: 4 days ago"><b>MorroW</b></a>, <a href="/stream/Machine" onclick="recordOutboundLink(this, 'stream clicked', 'Machine');return false;" title="Last online: 25 days ago"><b>Machine</b></a>, <a href="/stream/DongRaeGu" onclick="recordOutboundLink(this, 'stream clicked', 'DongRaeGu');return false;" title="Last online: 19 days ago"><b>DongRaeGu</b></a>, <a href="/stream/Snute" onclick="recordOutboundLink(this, 'stream clicked', 'Snute');return false;" title="Last online: 1 month and 5 days ago"><b>Snute</b></a>, <a href="/stream/ViBE" onclick="recordOutboundLink(this, 'stream clicked', 'ViBE');return false;" title="Last online: 3 days ago"><b>ViBE</b></a>, <a href="/stream/Wolf" onclick="recordOutboundLink(this, 'stream clicked', 'Wolf');return false;" title="Last online: 1 month and 7 days ago"><b>Wolf</b></a>, <a href="/stream/TOP" onclick="recordOutboundLink(this, 'stream clicked', 'TOP');return false;" title="Last online: 1 month and 7 days ago"><b>TOP</b></a>, <a href="/stream/KawaiiRice" onclick="recordOutboundLink(this, 'stream clicked', 'KawaiiRice');return false;" title="Last online: 15 days ago"><b>KawaiiRice</b></a>, <a href="/stream/Crank" onclick="recordOutboundLink(this, 'stream clicked', 'Crank');return false;" title="Last online: 5 hours ago"><b>Crank</b></a></span>
+</div><div style="clear:both"></div><div style="margin-left:0px;margin-bottom:10px;"><div style="float:right;border-bottom:2px solid white;margin-bottom:10px;"><a href="/premium" title="Check Out SC2Casts Premium" onclick="recordOutboundLink(this, 'Outbound Links', 'premium banner');"><img src="/images/premium/premium_a.png" width="130" height="278" alt="SC2Casts Premium" border="0"></a></div><div id="jRjNe"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-7960311693239380" data-ad-slot="5955904554"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
-</script></div></div><div class="forums" style="width:452px;margin-top:0px;">Top Rated Series<div style="float:right" id="topRatedHrefs" class="swap_links"><span>24h</span> | <a href="javascript:void(0)" onclick="javascript:toogleRateTab(2)">Week</a> | <a href="javascript:void(0)" onclick="javascript:toogleRateTab(3)">Month</a> | <a href="javascript:void(0)" onclick="javascript:toogleRateTab(4)">Ever</a></div><br><br><div id="topRated" style="font-size: 12px;line-height: 16px;"><a href="/cast18177-CJ_HerO-vs-Dream-Best-of-7-2015-StarLeague-S2-Semi-Finals" title="PvT from the semi finals of 2015 StarLeague S2"><b>CJ_HerO</b> vs <b>Dream</b>&nbsp;(Best of 7)</a> by: <span class="caster_name">Brendan &amp; mOOnGLaDe</span><br><a href="/cast18174-SKT1-vs-KT-Rolster-Best-of-5-2015-Proleague-Round-3" title=" from the round 3 of 2015 Proleague"><b>SKT1</b> vs <b>KT Rolster</b>&nbsp;(Best of 5)</a> by: <span class="caster_name">Wolf &amp; mOOnGLaDe</span><br><a href="/cast18154-Snute-vs-WelMu-Best-of-3-Jord-Invitational-Group-Stage" title="ZvP from the group stage of Jord Invitational"><b>Snute</b> vs <b>WelMu</b>&nbsp;(Best of 3)</a> by: <span class="caster_name">Rifkin &amp; ZombieGrub</span><br><a href="/cast18168-Jaedong-vs-elfi-Best-of-3-All-in-1-video-2015-WCS-Season-2-Group-Stage" title="ZvP from the group stage of 2015 WCS Season 2"><b>Jaedong</b> vs <b>elfi</b>&nbsp;(BO3 in 1 Video)</a> by: <span class="caster_name">Rotterdam &amp; Kaelaris</span><br><a href="/cast18134-Polt-vs-TLO-Best-of-3-All-in-1-video-2015-WCS-Season-2-Group-Stage" title="TvZ from the group stage of 2015 WCS Season 2"><b>Polt</b> vs <b>TLO</b>&nbsp;(BO3 in 1 Video)</a> by: <span class="caster_name">Rotterdam &amp; Kaelaris</span><br></div></div>
-<div class="forums" style="width:472px;margin-top:10px;border-color:#9c3021;font-size:11px;margin-bottom:0px;padding-bottom:0px;padding-top:0px;padding-left:0px;padding-right:0px;"><a href="http://heroescasts.com" style="display:block;height:35px;color:black"><img src="/images/heroes_promo.png" width="35" height="35" style="vertical-align:middle;margin-right:5px;">You into Heroes of the Storm? Visit our sister VOD site <span style="color:#393371;font-weight:bold;">HeroesCasts.com</span></a></div><div class="forums" style="width:452px;margin-top:10px;">Most Commented Series<div style="float:right" id="topCommentedHrefs" class="swap_links"><a href="javascript:void(0)" onclick="javascript:toogleCommentTab(1)">24h</a> | <span>Week</span> | <a href="javascript:void(0)" onclick="javascript:toogleCommentTab(3)">Month</a> | <a href="javascript:void(0)" onclick="javascript:toogleCommentTab(4)">Ever</a></div><br><br><div id="topCommented" style="font-size: 12px;line-height: 18px;"><a href="/cast18168-Jaedong-vs-elfi-Best-of-3-All-in-1-video-2015-WCS-Season-2-Group-Stage" title="ZvP from the group stage of 2015 WCS Season 2"><b>Jaedong</b> vs <b>elfi</b>&nbsp;(BO3 in 1 Video)</a> by: <span class="caster_name">Rotterdam &amp; Kaelaris</span><br><a href="/cast18177-CJ_HerO-vs-Dream-Best-of-7-2015-StarLeague-S2-Semi-Finals" title="PvT from the semi finals of 2015 StarLeague S2"><b>CJ_HerO</b> vs <b>Dream</b>&nbsp;(Best of 7)</a> by: <span class="caster_name">Brendan &amp; mOOnGLaDe</span><br><a href="/cast18173-MVP-vs-SBENU-Best-of-5-2015-Proleague-Round-3" title=" from the round 3 of 2015 Proleague"><b>MVP</b> vs <b>SBENU</b>&nbsp;(Best of 5)</a> by: <span class="caster_name">Brendan &amp; mOOnGLaDe</span><br></div></div><div style="clear:both"></div>
+</script></div></div><div class="forums" style="width:452px;margin-top:0px;">Top Rated Series<div style="float:right" id="topRatedHrefs" class="swap_links"><span>24h</span> | <a href="javascript:void(0)" onclick="javascript:toogleRateTab(2)">Week</a> | <a href="javascript:void(0)" onclick="javascript:toogleRateTab(3)">Month</a> | <a href="javascript:void(0)" onclick="javascript:toogleRateTab(4)">Ever</a></div><br><br><div id="topRated" style="font-size: 12px;line-height: 16px;"><a href="/cast18892-Life-and-Zest-vs-Maru-and-Sos-Best-of-3-2015-IeSF-KeSPA-Archon-Showmatch" title="TvZ from the kespa archon showmatch of 2015 IeSF"><b>Life and Zest</b> vs <b>Maru and Sos</b>&nbsp;(Best of 3)</a> by: <span class="caster_name">Artosis &amp; State</span><br><a href="/cast18891-Solar-vs-PartinG-Best-of-7-All-in-1-video-DreamHack-ROCCAT-LotV-Finals" title="ZvP from the finals of DreamHack ROCCAT LotV"><b>Solar</b> vs <b>PartinG</b>&nbsp;(BO7 in 1 Video)</a> by: <span class="caster_name">Apollo &amp; Snute</span><br><a href="/cast18886-TY-vs-PartinG-Best-of-5-All-in-1-video-DreamHack-ROCCAT-LotV-Losers-Round-3" title="TvP from the losers round 3 of DreamHack ROCCAT LotV"><b>TY</b> vs <b>PartinG</b>&nbsp;(BO5 in 1 Video)</a> by: <span class="caster_name">Apollo &amp; Demuslim</span><br><a href="/cast18840-Life-vs-Sos-Best-of-7-All-in-1-video-2015-WCS-Global-Finals-Finals" title="ZvP from the finals of 2015 WCS Global Finals"><b>Life</b> vs <b>Sos</b>&nbsp;(BO7 in 1 Video)</a> by: <span class="caster_name">Artosis &amp; tasteless</span><br><a href="/cast18835-Innovation-vs-Life-Best-of-5-All-in-1-video-2015-WCS-Global-Finals-Quarter-Finals" title="TvZ from the quarter finals of 2015 WCS Global Finals"><b>Innovation</b> vs <b>Life</b>&nbsp;(BO5 in 1 Video)</a> by: <span class="caster_name">Artosis &amp; tasteless</span><br></div></div>
+<div class="forums" style="width:472px;margin-top:10px;border-color:#9c3021;font-size:11px;margin-bottom:0px;padding-bottom:0px;padding-top:0px;padding-left:0px;padding-right:0px;"><a href="http://heroescasts.com" style="display:block;height:35px;color:black"><img src="/images/heroes_promo.png" width="35" height="35" style="vertical-align:middle;margin-right:5px;">You into Heroes of the Storm? Visit our sister VOD site <span style="color:#393371;font-weight:bold;">HeroesCasts.com</span></a></div><div class="forums" style="width:452px;margin-top:10px;">Most Commented Series<div style="float:right" id="topCommentedHrefs" class="swap_links"><a href="javascript:void(0)" onclick="javascript:toogleCommentTab(1)">24h</a> | <span>Week</span> | <a href="javascript:void(0)" onclick="javascript:toogleCommentTab(3)">Month</a> | <a href="javascript:void(0)" onclick="javascript:toogleCommentTab(4)">Ever</a></div><br><br><div id="topCommented" style="font-size: 12px;line-height: 18px;"><a href="/cast18889-PartinG-vs-ShowTime-Best-of-5-All-in-1-video-DreamHack-ROCCAT-LotV-Losers-Round-4" title="PvP from the losers round 4 of DreamHack ROCCAT LotV"><b>PartinG</b> vs <b>ShowTime</b>&nbsp;(BO5 in 1 Video)</a> by: <span class="caster_name">Apollo &amp; Demuslim</span><br><a href="/cast18886-TY-vs-PartinG-Best-of-5-All-in-1-video-DreamHack-ROCCAT-LotV-Losers-Round-3" title="TvP from the losers round 3 of DreamHack ROCCAT LotV"><b>TY</b> vs <b>PartinG</b>&nbsp;(BO5 in 1 Video)</a> by: <span class="caster_name">Apollo &amp; Demuslim</span><br><a href="/cast18891-Solar-vs-PartinG-Best-of-7-All-in-1-video-DreamHack-ROCCAT-LotV-Finals" title="ZvP from the finals of DreamHack ROCCAT LotV"><b>Solar</b> vs <b>PartinG</b>&nbsp;(BO7 in 1 Video)</a> by: <span class="caster_name">Apollo &amp; Snute</span><br></div></div><div style="clear:both"></div>
 <div class="promo" style="width:452px;margin-top:10px;background-color: #ffffff">
 <img src="http://sc2casts.com/images/icon_100x100.png" width="50" height="50" align="left" style="padding-right:5px;" alt="SC2Casts on Mobile">
 <b>SC2Casts Mobile Apps</b> now available!<br>Search for "SC2Casts" from your device, or<br>
@@ -253,10 +463,11 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: <a href="http://sc2casts.com/contact" style="color:brown">Contact SC2Casts</a>
 <br><br><br>
 <div style="font-size:10px;color:gray;">This document was last updated on November 03, 2013</div>
+
 </div>
 </div>
 </div>
-<div style="clear:both"></div><br><div style="font-size: 11px;padding-bottom:10px;line-height:11px;width:850px;" class="footer"><table width="100%"><tbody><tr><td width="1%"><div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=223665374342918&amp;xfbml=1"></script><fb:like href="http://www.facebook.com/SC2Casts" layout="box_count" width="50" show_faces="false" font="verdana"></fb:like></td><td width="1%"><g:plusone size="tall" count="true" href="http://sc2casts.com"></g:plusone></td><td valign="top" style="padding-left: 10px;">"Like Us" on <strong>Facebook</strong> and "+1" us on <strong>Google</strong> to support <strong>SC2Casts</strong>.<br><br>For more Starcraft 2 Stuff, visit <a href="http://www.reddit.com/r/starcraft">reddit.com/r/starcraft</a> or <a href="http://www.teamliquid.net/">teamliquid.net</a>. <br><br>If you're into TV Shows - <strong>Next Episode</strong> is there to <a href="http://next-episode.net">keep track</a> of them.</td><td norwrap="" valign="top" align="right" width="280">© 2010-2015 SC2Casts.com | <a href="/privacy" style="color:#666666">privacy</a> | <a href="/contact" style="color:#666666">contact</a></td></tr></tbody></table>
+<div style="clear:both"></div><br><div style="font-size: 11px;padding-bottom:10px;line-height:11px;width:850px;" class="footer"><table width="100%" id="f_table"><tbody><tr><td width="1%"><div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=223665374342918&amp;xfbml=1"></script><fb:like href="http://www.facebook.com/SC2Casts" layout="box_count" width="50" show_faces="false" font="verdana"></fb:like></td><td width="1%"><g:plusone size="tall" count="true" href="http://sc2casts.com"></g:plusone></td><td valign="top" style="padding-left: 10px;">"Like Us" on <strong>Facebook</strong> and "+1" us on <strong>Google</strong> to support <strong>SC2Casts</strong>.<br><br>For more Starcraft 2 Stuff, visit <a href="http://www.reddit.com/r/starcraft">reddit.com/r/starcraft</a> or <a href="http://www.teamliquid.net/">teamliquid.net</a>. <br><br>If you're into TV Shows - <strong>Next Episode</strong> is there to <a href="http://next-episode.net">keep track</a> of them.</td><td norwrap="" valign="top" align="right" width="280">© 2010-2015 SC2Casts.com | <a href="/privacy" style="color:#666666">privacy</a> | <a href="/contact" style="color:#666666">contact</a></td></tr></tbody></table>
 
 
 </div>
@@ -264,8 +475,8 @@ If you have any questions about this Privacy Policy, the practices of this site,
 <script>
 
 function doElement(el,w,h) {
-  if(document.getElementById(el+'_img')) {
-	  em = document.getElementById(el+'_img');
+  if(document.getElementById(el)) {
+	  em = document.getElementById(el);
 	  em.style.width = w + "px";
 	  em.style.height = h + "px";
 	  em.style.align = "center";
@@ -276,22 +487,109 @@ function doElement(el,w,h) {
 	  em.onclick = function() { 
 		  location.href='http://sc2casts.com/premium';
 	  };
-	  em.style.background = "url('http://sc2casts.com/images/" + el + ".png')"; 
+	  em.style.background = "url('http://sc2casts.com/images/bt.png')";
+	  return 1;
   }
+  return 0;
+}
+function doElement2(el,w,h) {
+  if(document.getElementById(el)) {
+	  em = document.getElementById(el);
+	  em.style.width = w + "px";
+	  em.style.height = h + "px";
+	  em.style.align = "center";
+	  if(w != 336) {
+		em.style.margin = "auto auto";
+	  }
+	  em.style.cursor = "pointer";
+	  em.onclick = function() { 
+		  location.href='http://sc2casts.com/premium';
+	  };
+	  em.style.background = "url('http://sc2casts.com/images/bt2.png')";
+	  return 1;
+  }
+  return 0;
 }
 
 if(window.canRunAds != true){
   //alert(1);
-  doElement("bt",728,90);
-  doElement("bt2",336,280);
-  httpa1 = createRequestObject(); 
-  httpa1.open('get', "tt/record.php");
-  httpa1.onreadystatechange = null;
-  httpa1.send(null);
+  if(doElement("McsqR",728,90) || doElement2("jRjNe",336,280)) {
+  	  httpa1 = createRequestObject(); 
+	  httpa1.open('get', "tt/record.php");
+	  httpa1.onreadystatechange = null;
+	  httpa1.send(null);
+  }
   
 }
 </script>
+<div style="display:none" id="pzEZt">
+	<div class="CjesD"><div class="jlkFF"><!--<div style="color:red;vertical-align:middle;font-size:16px;margin-left:25px;">If SC2Casts looks broken, functionality doesn't work or it doesn't stop loading - it's because of your adblock!</div>--><div class="headline"><div style="display:inline-block;float:right;color:#ccc" id="ccd">[5]</div><br><div style="font-size:14px;">You are getting this popup because you're using AdBlock (or something similar)</div></div><br><br><!--Hey there. This is Santah - the single developer who created SC2Casts (more than 5 years ago).<br><br>Ever since then I'm working daily on supporting and improving the site, while keeping it clean and functional.<br><br>During those 5 years, I haven't missed a single day of updating the site for daily VODs - even on my wedding or when my kids were born! :D I will keep SC2Casts running for many more years and will update it with the best content available, but I need your help guys.<br><br>-->For ads-free experience, please <!--consider trying (for free!)--> check out <a href="/premium" style="color:#FF8335">SC2Casts Premium</a> - for the price of 2 movie tickets a year this will remove the ads and will give you awesome new functionality which will only get better<!-- (and more expensive for new members)-->.<br><br>Another option is to simply whitelist SC2Casts in your Adblock - <a href="http://blog.tordeu.com/?p=4" target="_blank" style="color:brown">see how here</a>. Make sure you whitelist in all your adblock extensions.<br><br>Thank you!<br><br><div style="color:#666;text-align:right">If you believe you're getting this in error - please <a href="mailto:info@sc2casts.com" style="color:brown">get in touch</a> and we'll solve this right away!</div></div></div><div class="aDkTO"></div>
+</div>
 
 
 
-</body></html>
+
+<style>
+
+.aDkTO {
+	width:100%;
+	position:fixed;
+	top:0;left:0;
+	height:100%;
+	opacity: .55; /* Standard: FF gt 1.5, Opera, Safari, CSS3 */
+    filter: alpha(opacity=55); /* IE lt 8 */
+    -ms-filter: "alpha(opacity=55)"; /* IE 8 */
+    -khtml-opacity: .55; /* Safari 1.x */
+    -moz-opacity: .55; /* FF lt 1.5, Netscape */
+	background-color:black;
+	display:table-cell;
+	z-index:11;
+}
+.headline {
+	font-size: 15px;
+	display: inline-block;
+	color: #ff8335;
+	margin-top:5px;
+	width:100%;
+	border-bottom: 1px solid #E6E4E4;
+	margin-bottom:10px;
+}
+
+.CjesD {
+	z-index:12;
+	position: fixed;
+	display: block;
+	width:100%;
+	left:0;
+	top:50%;
+	margin-top:-225px;
+
+
+}
+.jlkFF {
+	width:700px;
+	background-color:white;
+	padding:20px;
+	padding-top:10px;
+	margin-top:auto;
+	margin-bottom:auto;
+	margin-left: auto;
+    margin-right: auto;
+	text-align:left;
+	font-size:14px;
+	vertical-align:middle;
+	border-radius: 5px;
+	border: 0px solid #fff;
+}
+
+
+
+</style><script>
+
+function restoreOverflow() {
+	_gaq.push(['_trackEvent', 'adblock popup', "close popup", document.location+""]);
+}
+console.log(document.getElementById("McsqR").innerHTML.length);
+console.log(document.getElementById("jRjNe").innerHTML.length);
+	
+</script></body></html>
