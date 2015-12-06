@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripomatic.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607034842id_/http%3A//www.tripomatic.com/lp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripomatic.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206025706id_/http%3A//www.tripomatic.com/lp/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -23,7 +23,7 @@ Submitting your personal information is voluntary. Should you decide not to prov
 
 Tripomatic may use Facebook integration. If you allow Facebook application, the app may access all information provided by Facebook, including, but not limited to your name, your e-mail address, your friends list or your likes. Use of Facebook integration is on a voluntary basis. For details, consult Facebook Data Use Policy <https://www.facebook.com/about/privacy/>. 
 
-Tripomatic may use Google+ integration. If you allow Google+ integration, the app may access all information provided by Google, including, but not limited to your name and your e-mail address. Use of Google+ integration is on a voluntary basis. For details, consult Google Privacy Policy <https://www.google.com/intl/en/policies/privacy/>. 
+Tripomatic may use Google Account or Google Plus integration. If you allow this integration, the app may access all information provided by Google, including, but not limited to your name and your e-mail address. Use of Google+ integration is on a voluntary basis. For details, consult Google Privacy Policy <https://www.google.com/intl/en/policies/privacy/>. 
 
 Tripomatic enables users to plan trips. It is therefore essential to collect information related to travel, such as destination, dates and places that the user wants to visit. 
 
@@ -51,11 +51,15 @@ We never use cookies to save or track personal information. If you do not want o
 
 ## Third party access to information obtained by Tripomatic
 
-Only aggregated, anonymized data is periodically transmitted to external services to help us improve Tripomatic and our service. We will share your information with third parties only in the ways that are described in this privacy statement. 
+Data is periodically transmitted to external services using their SDKs to help us improve Tripomatic and our service. We will share your information with third parties only in the ways that are described in this privacy statement. 
 
-Google Analytics in particular is used to help us understand how the apps are used. Consult Google Analytics privacy policy for more information at <http://www.google.com/analytics/learn/privacy.html>. 
+Mixpanel is used to help us understand how the apps are used and also to help us detect important events and send out push notifications or e-mail messages. Consult Mixpanel privacy policy for more information at <https://mixpanel.com/privacy/>. You can also opt out from Mixpanel data collection. 
+
+Google Analytics is used to help us understand how the apps are used. Consult Google Analytics privacy policy for more information at <http://www.google.com/analytics/learn/privacy.html>. 
 
 Google AdSense is used to serve ads on Tripomatic website. Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Privacy Policy for Google Ads and Advertising Services](http://www.google.com/privacy/ads/privacy-policy.html). 
+
+Facebook Audience Network is used to serve ads in Tripomatic mobile apps. Learn about facebook privacy policy and data collection at <https://www.facebook.com/policy.php>. 
 
 Tripomatic may use data and code from other vendors that may collect information governed by their own privacy policy. These vendors include, but are not limited to [booking.com](http://www.booking.com/), [rentalcars.com](http://www.rentalcars.com/), [city-discovery.com](http://www.city-discovery.com/), [viator.com](http://www.viator.com/), [whichairline.com](http://www.whichairline.com/). 
 
@@ -121,4 +125,4 @@ Czech Republic / EU
 
 This privacy policy is based on an awesome template provided by docracy.com <https://www.docracy.com/6016/mobile-privacy-policy>
 
-Last updated: July 01, 2014
+Last updated: August 13, 2015
