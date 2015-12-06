@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allyoucanbooks.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626055514id_/http%3A//www.allyoucanbooks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allyoucanbooks.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206021247id_/http%3A//www.allyoucanbooks.com/privacy-policy) for the most accurate reproduction.*
 
 # ALL YOU CAN BOOKS PRIVACY POLICY | All You Can Books | AllYouCanBooks.com
 
