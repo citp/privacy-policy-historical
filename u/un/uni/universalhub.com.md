@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universalhub.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608095518id_/http%3A//www.universalhub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalhub.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206163719id_/http%3A//www.universalhub.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy for Universal Hub, Boston Online and Boston Blogs | Universal Hub
 
@@ -8,7 +8,7 @@ At Universal Hub, we value your privacy. What follows is a description of how we
 
 ### **Your name and e-mail address**
 
-You do not need to register to read posts or replies on Universal Hub, or to post replies on the site. However, if you wish to post an article yoursefl, or if you wish to have the system keep track of messages for you - you will need to create a free account. To do so, you'll be asked for a user name and an e-mail address. Optionally, you can also add additional information that will be displayed to other users who click on your user name at the top of a posting or comment you make. Once you create an account, you can have the system send you e-mail notifications when people reply to your posts or when people post new messages in specific forums.
+You do not need to register to read posts or replies on Universal Hub, or to post replies on the site. However, if you wish to post an article yourself, or if you wish to have the system keep track of messages for you - you will need to create a free account. To do so, you'll be asked for a user name and an e-mail address. Optionally, you can also add additional information that will be displayed to other users who click on your user name at the top of a posting or comment you make. Once you create an account, you can have the system send you e-mail notifications when people reply to your posts or when people post new messages in specific forums.
 
 Universal Hub never makes your address public - although you can let other users contact you, it is done through a "proxy" system on our site - another user fills out a form, which our server then mails to you without revealing your address to the other person.
 
