@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesweetscience.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629073024id_/http%3A//www.thesweetscience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesweetscience.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035632id_/http%3A//www.thesweetscience.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -69,26 +69,26 @@ This document was last updated on March 20, 2014
 
 ### Latest Articles
 
-[](http://www.thesweetscience.com/news/articles-frontpage/21064-bradley-beat-vargas-and-theres-no-controversy)
+[](http://www.thesweetscience.com/news/articles-frontpage/21843-chimpa-gonzalez-scores-another-ko-win-in-la)
 
-[](http://www.thesweetscience.com/news/articles-frontpage/21063-avila-ringside-tim-bradley-survives-again-at-stubhub)
+[](http://www.thesweetscience.com/news/tss-press-releases/21842-daniel-jacobs-vs-peter-quillin-official-weights-)
 
-[](http://www.thesweetscience.com/news/articles-frontpage/21062-bradley-an-ace-till-late-in-12th-weird-ending-mars-hbo-main-event)
+[](http://www.thesweetscience.com/news/tss-press-releases/21841-daniel-jacobs-vs-peter-quillin-final-press-conference-quotes)
 
-[](http://www.thesweetscience.com/news/articles/21061-oscar-valdez-looks-solid-in-ud10-w-over-tamayo)
+[](http://www.thesweetscience.com/news/articles-frontpage/21840-backus-is-always-canastotas-own-but-he-is-still-without-a-hall-pass)
 
-[](http://www.thesweetscience.com/news/articles/21060-jailhouse-rock)
+[](http://www.thesweetscience.com/news/articles-frontpage/21839-lets-see-roachs-worth-training-pascal-for-kovalev-rematch)
 
-[](http://www.thesweetscience.com/news/articles-frontpage/21059-congrats-hbo-crew-on-your-1000th-fight)
+[](http://www.thesweetscience.com/news/articles/21838-jacobs-vs-quillin-brooklyn-media-workout-quotes)
 
-[](http://www.thesweetscience.com/news/articles-frontpage/21058-devon-alexander-lobbies-for-adam-and-eve-over-adam-and-steve)
+[](http://www.thesweetscience.com/news/tss-press-releases/21837-jacobs-vs-quillin-cuellar-vs-oquendo-fight-week-highlights)
 
-[](http://www.thesweetscience.com/news/articles/21057-dominic-wade-beats-sam-solimon-on-qshoboxq)
+[](http://www.thesweetscience.com/news/articles-frontpage/21836-would-prime-klitschko-have-beaten-fury-)
 
-[](http://www.thesweetscience.com/news/articles/21056-gato-roman-wins-by-decision-in-ontario-calif)
+[](http://www.thesweetscience.com/news/tss-press-releases/21835-media-a-top-fighters-give-their-predictions-on-jacobs-vs-quillin-world-title-)
 
-[](http://www.thesweetscience.com/news/articles-frontpage/21055-diego-magdaleno-wins-on-7th-rd-body-shot)
+[](http://www.thesweetscience.com/news/articles-frontpage/21834-female-fight-chatter-hardy-lauren-and-others)
 
 #### Latest Videos on [BoxingChannel.tv](http://www.boxingchannel.tv/)
 
-Prediction:
+Who wins the WBO Middleweight title fight Dec. 19th? 
