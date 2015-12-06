@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lipstiq.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616050221id_/http%3A//www.lipstiq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lipstiq.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206151815id_/http%3A//www.lipstiq.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Lipstiq.com | Malaysia Female Lifestyle Community
+# Privacy Policy | Lipstiq.com
 
 **This Agreement was last revised on 28th of July, 2011.**  
 Welcome to Lipstiq.com, the website and online service of Lowyat Networks (“Company” “we,” or “us”). Lipstiq.com knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Company when you use Lipstiq.com and related services (the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy.
@@ -45,6 +45,8 @@ In the event that personal information is compromised as a result of a breach of
 
 **Your Choices About Your Information**  
 You may, of course, decline to submit personally identifiable information through Company, in which case Company may not be able to provide certain services to you.  
+****
+
 ****
 
 **Children’s Privacy**  
