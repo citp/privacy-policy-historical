@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jmwant.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616131811id_/http%3A//www.jmwant.com/front_privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jmwant.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206052712id_/http%3A//www.jmwant.com/front_privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy – JMWant
 
@@ -32,4 +32,4 @@ Our site may contain links to and from the websites of our partner networks, adv
 
 **Checking your Details**
 
-If you wish to verify the details you have submitted to JMWant, you may do so by [contacting us](https://web.archive.org/web/20150616131811id_/http%3A//www.jmwant.com/front_contactUs.html). Our security procedures mean that we may request proof of identity before we reveal information. This proof of identity will take the form of your e-mail address and password submitted upon registration. You must therefore keep this information safe as you will be responsible for any action which we take in response to a request from someone using your e-mail and password. We would strongly recommend that you do not use the browser's password memory function as that would permit other people using your terminal to access your personal information. 
+If you wish to verify the details you have submitted to JMWant, you may do so by [contacting us](https://web.archive.org/web/20151206052712id_/http%3A//www.jmwant.com/front_contactUs.html). Our security procedures mean that we may request proof of identity before we reveal information. This proof of identity will take the form of your e-mail address and password submitted upon registration. You must therefore keep this information safe as you will be responsible for any action which we take in response to a request from someone using your e-mail and password. We would strongly recommend that you do not use the browser's password memory function as that would permit other people using your terminal to access your personal information. 
