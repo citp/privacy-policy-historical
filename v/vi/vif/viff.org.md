@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viff.org privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608042108id_/http%3A//www.viff.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viff.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206112207id_/http%3A//www.viff.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vancouver International Film Festival
 
@@ -14,7 +14,7 @@ VIFF is a membership-based organization. This means that we must collect persona
 
 ## Collection
 
-The personal information that you voluntarily provide to the Greater Vancouver International Film Festival Society is protected under the provisions of British Columbia’s _Personal Information Protection Act_. Depending on the nature of the transaction, VIFF generally collects, your name, address (post and electronic), telephone number and payment information related to ticket purchases, passes and package purchases, donations, newsletters and information mailings. The Greater Vancouver International Film Festival Society may collect demographic information such as your date of birth, gender and language preference for marketing and fundraising purposes.
+The personal information that you voluntarily provide to the Greater Vancouver International Film Festival Society is protected under the provisions of British Columbia’s _Personal Information Protection Act_. Depending on the nature of the transaction, VIFF generally collects, your name, address (post and electronic), telephone number and payment information related to ticket purchases, passes and package purchases, donations, newsletters and information mailings. The Greater Vancouver International Film Festival Society may collect demographic information such as your date of birth, gender and language preference for marketing and fundraising purposes. 
 
 ## Use
 
