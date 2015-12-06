@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctelia.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607150642id_/http%3A//www.auctelia.com/en/home/confident) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctelia.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206163536id_/http%3A//www.auctelia.com/en/home/confident) for the most accurate reproduction.*
 
 # Auctelia
 
@@ -49,4 +49,4 @@ Auctelia reserves the right to amend or update the terms of this Privacy Policy 
 ###### By your continued use of this Website you will be deemed to have accepted the terms and conditions detailed in this Privacy Policy. We will also make the assumption that you consent to providing Auctelia with personal information in accordance with this Privacy Policy. Furthermore, you will be deemed to consent to Auctelia’s use and processing of your personal data. 
 
   
-Copyright © 2009-2014 Auctelia SA 
+Copyright © 2009-2015 Auctelia SA 
