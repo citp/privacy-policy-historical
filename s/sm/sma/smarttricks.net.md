@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smarttricks.net privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622062519id_/http%3A//www.smarttricks.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarttricks.net privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206213113id_/http%3A//www.smarttricks.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Smart Tricks
+# Smart Tricks: Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@smarttricks.net
 
