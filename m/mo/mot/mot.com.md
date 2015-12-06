@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mot.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225101358id_/http%3A//www.motorola.ca/consumers/About_Motorola-Legal-Privacy_Policy/About_Motorola-Legal-Privacy_Policy%2Cen_CA%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mot.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206113247id_/http%3A//www.motorola.ca/consumers/about-motorola-ca-en/About_Motorola-Legal-Privacy_Policy/About_Motorola-Legal-Privacy_Policy.html) for the most accurate reproduction.*
 
 # 
 
