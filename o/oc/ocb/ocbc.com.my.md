@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocbc.com.my privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424021735id_/http%3A//www.ocbc.com.my/personal-banking/security-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocbc.com.my privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206204832id_/http%3A//www.ocbc.com.my/personal-banking/security-privacy.html) for the most accurate reproduction.*
 
 # OCBC - Security & Privacy
 
@@ -121,7 +121,7 @@ The Bank will keep your personal data for the duration of time to carry out the 
 
 **8) How to contact the Bank**
 
-We will attempt to keep customer records complete, accurate and up-to-date. If you have any reason to believe that your records with us are inaccurate, incomplete or not updated, please write in to us, upon which we will promptly rectify. Alternatively, you can call us at 1300-88-5000 or access the "Locate" button on our website.
+We will attempt to keep customer records complete, accurate and up-to-date. If you have any reason to believe that your records with us are inaccurate, incomplete or not updated, please write in to us, upon which we will promptly rectify. Alternatively, you can call us at 03 8317 5000 or access the "Locate" button on our website.
 
 You may address any queries, concerns or complaints relating to handling of your personal information by accessing the "Help & Support" button on our website.
 
@@ -288,7 +288,7 @@ Bank akan menyimpan data peribadi anda bagi tempoh masa untuk menjalankan tujuan
 
 **8) Bagaimana untuk menghubungi Bank**
 
-Kami akan pastikan bahawa rekod pelanggan adalah lengkap, tepat dan terkini. Sekiranya tuan berpendapat bahawa rekod-rekod tuan adalah tidak lengkap, tidak tepat dan tidak terkini, sila kemukakan respon kepada kami, kami akan perbetulkan dengan kadar segera. Tuan juga boleh menghubungi kami ditalian 1300-88-5000 atau akses “Locate Us” melalui laman web rasmi kami.
+Kami akan pastikan bahawa rekod pelanggan adalah lengkap, tepat dan terkini. Sekiranya tuan berpendapat bahawa rekod-rekod tuan adalah tidak lengkap, tidak tepat dan tidak terkini, sila kemukakan respon kepada kami, kami akan perbetulkan dengan kadar segera. Tuan juga boleh menghubungi kami ditalian 03 8317 5000 atau akses “Locate Us” melalui laman web rasmi kami.
 
 Sebarang pertanyaan, isu atau aduan berkenaan Dasar Privasi, tuan boleh mengakses “Help & Support” melalui laman web rasmi kami.
 
