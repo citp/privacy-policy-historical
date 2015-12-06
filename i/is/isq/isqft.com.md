@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isqft.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530094116id_/http%3A//www.isqft.com/start/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isqft.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206232408id_/http%3A//www.isqft.com/start/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iSqFt
 
