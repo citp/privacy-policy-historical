@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remakingjunecleaver.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140348id_/http%3A//www.remakingjunecleaver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remakingjunecleaver.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035232id_/http%3A//www.remakingjunecleaver.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Remaking June
 
