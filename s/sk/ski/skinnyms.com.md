@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinnyms.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629145117id_/http%3A//skinnyms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinnyms.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206020338id_/http%3A//skinnyms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Skinny Ms.
 
@@ -52,4 +52,4 @@ When Skinny Ms. LLC transfers and receives certain types of sensitive informatio
 
 All purchases made through Skinny Ms. LLC shopping cart are processed through a shopping cart hosted at Mal’s eCommerce, and all payments are processed through PayPal.
 
-If you feel that this site is not following its stated information policy, you may contact Skinny Ms. LLC at the above email.
+If you feel that this site is not following its stated information policy, you may contact Skinny Ms. LLC at the above email. 
