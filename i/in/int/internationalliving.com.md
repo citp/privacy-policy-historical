@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationalliving.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152537id_/http%3A//internationalliving.com/about-il/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalliving.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206164018id_/http%3A//internationalliving.com/about-il/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - International Living Policies
 
@@ -20,7 +20,7 @@ Simply enter your e-mail below to subscribe to International Living’s free dai
 
 No spam pledge. We value your privacy.
 
-[Find Out More About Our Top 10 Retirement Havens Report Here](https://web.archive.org/lp/annual-global-retirement-index-2015/)
+[Find Out More About Our Top 10 Retirement Havens Report Here](https://signup.internationalliving.com/337240/retirement-index-2015/retirement-index-2015)
 
 * * *
 
@@ -58,4 +58,4 @@ Simply enter your e-mail below to subscribe to International Living’s free dai
 
 No spam pledge. We value your privacy.
 
-[Find Out More About Our Top 10 Retirement Havens Report Here](https://web.archive.org/lp/annual-global-retirement-index-2015/)
+[Find Out More About Our Top 10 Retirement Havens Report Here](https://signup.internationalliving.com/337240/retirement-index-2015/retirement-index-2015)
