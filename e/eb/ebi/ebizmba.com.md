@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebizmba.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628155746id_/http%3A//www.ebizmba.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebizmba.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206135743id_/http%3A//www.ebizmba.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | eBizMBA
 
@@ -36,7 +36,7 @@ You provide us with information when you buy or communicate with customer servic
 
 ## eMail Communications
 
-To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from eBizMBA.com, if your computer supports such capabilities. If you do not want to receive e-mail or other mail from us, please [contact us](https://web.archive.org/web/20150628155746id_/http%3A//www.ebizmba.com/contact). 
+To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from eBizMBA.com, if your computer supports such capabilities. If you do not want to receive e-mail or other mail from us, please [contact us](https://web.archive.org/web/20151206135743id_/http%3A//www.ebizmba.com/contact). 
 
 ## Information From Other Sources
 
