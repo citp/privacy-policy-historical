@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the beachfrontmedia.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625035045id_/http%3A//www.beachfrontmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beachfrontmedia.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206162121id_/http%3A//beachfrontmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# How We Protect Your Privacy
+# Privacy Policy
 
-**It’s worth knowing what we will and won’t do with your information**  
 Beachfront Media, LLC, (“BFM”, “we”, or “us’), is committed to protecting your privacy when you use our products and services. The following Privacy Policy was prepared to inform you of the information we collect about you, how that information is used, whether and to whom we disclose it, and the choices you have regarding your personal information. BFM is committed to transparency and accountability in our privacy practices. The following statement describes our Privacy Policy as it relates to the collection, use and disclosure of information we receive from users of our video platform services (“Services”). The purpose of this Privacy Policy is to inform you of the following:
 
 Who we are and the services we provide so that you can understand how our business may impact your privacy,  
@@ -40,14 +39,12 @@ Persistent Cookies for Customers Use of Our Site. For our customers who login to
 
 Session Cookies to Help Ad Delivery and Accounting. We utilize session ID cookies to enable certain features of the Services, to better understand how you interact with the Services, and to monitor aggregate usage by our users and Web traffic routing on the Services. Unlike persistent cookies, session cookies are deleted from your computer when you close your browser.
 
-User Data Cookies for Ad Targeting. We utilize cookies to store user data that can aid in targeting of advertisements. This data is usually collected by our Customers and used to deliver advertisements that are more relevant to a user’s interests.
-
+User Data Cookies for Ad Targeting. We utilize cookies to store user data that can aid in targeting of advertisements. This data is usually collected by our Customers and used to deliver advertisements that are more relevant to a user’s interests.  
 Use of Cookies By Others. Also, the Web publisher or advertiser with whom we partner may use cookies, action tags, GIFs, or Web beacons to collect information when you are visiting their websites. The information they collect is governed by their individual privacy policies, not ours. You are encouraged to read the privacy policies or statements of the other websites that you visit. You can learn more about how cookies and related technologies are used in connection with online advertising and analytics by visiting: <http://www.aboutads.info/how-interest-based-ads-work>.
 
 **Opt-Out Procedure and Cookie Control**
 
-Should you wish to opt-out of us placing a cookie on your browser, you can [click here](http://www.networkadvertising.org/managing/opt_out.asp) to deploy an “opt-out” cookie on your browser. This cookie, when installed on your browser, will prevent us from placing a new cookie on that browser and from collecting data on that browser. The NAI’s opt-out tool also allows you to opt-out of the data collection and targeted ad programs of other NAI members. You may access the NAI opt-out [tool here](http://www.networkadvertising.org/managing/opt_out.asp).
-
+Should you wish to opt-out of us placing a cookie on your browser, you can [click here](http://www.networkadvertising.org/managing/opt_out.asp) to deploy an “opt-out” cookie on your browser. This cookie, when installed on your browser, will prevent us from placing a new cookie on that browser and from collecting data on that browser. The NAI’s opt-out tool also allows you to opt-out of the data collection and targeted ad programs of other NAI members. You may access the NAI opt-out [tool here](http://www.networkadvertising.org/managing/opt_out.asp).  
 Our opt-out tool and the NAI opt-out tool, are cookie-based. Both opt-out tools only prevent us from collecting data pertaining to you on the browser on which they are installed, and will only function if your browser is set to accept third-party cookies. If you delete an opt-out cookie from a browser’s cookie files, we may collect data and place a new cookie unless an opt-out cookie is reset on that browser. If you block third-party cookies from being set on your browser, you may not be able to enjoy some features or functionality, and you may see the same content and advertisements repeatedly on some websites.
 
 **Opt-Out Procedure for mobile internet-based or mobile device advertising**
