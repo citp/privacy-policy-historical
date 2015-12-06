@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplycast.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607202848id_/http%3A//www.simplycast.com/interactive-marketing-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplycast.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206233232id_/http%3A//www.simplycast.com/interactive-marketing-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -93,7 +93,7 @@ In the log-in portion of the Website, site administrators will have permission t
 
 
 
-  1. _Accountability_ - SimplyCast is responsible for personal information under its control and to this end SimplyCast has appointed a privacy officer who is accountable for SimplyCast’s compliance with this Privacy Policy and applicable privacy laws. The contact information for the Privacy Officer is outlined in section “R” of this Privacy Policy.
+  1. _Accountability_ – SimplyCast is responsible for personal information under its control and to this end SimplyCast has appointed a privacy officer who is accountable for SimplyCast’s compliance with this Privacy Policy and applicable privacy laws. The contact information for the Privacy Officer is outlined in section “R” of this Privacy Policy.
 
 
 
