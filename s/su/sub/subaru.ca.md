@@ -1,15 +1,9 @@
-> *The following text is extracted and transformed from the subaru.ca privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607035124id_/http%3A//www.subaru.ca/Content/7907/Media/en-ca/LegalText/Corporate/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subaru.ca privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206031516id_/http%3A//www.subaru.ca/Content/7907/Media/en-ca/LegalText/Corporate/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Subaru Canada, Inc.
 
-|   |  SUBARU CANADA, INC. PERSONAL INFORMATION PRIVACY POLICY FOR CUSTOMERS, SUPPLIERS, DEALERS AND PARTNERS OUR PRIVACY COMMITMENT  |   
----|---|---  
-  |  | 
+Last revised: June 23, 2014
 
-Last revised: June 23, 2014  
-  
----  
-  
 OUR PRIVACY COMMITMENT   
 Subaru Canada, Inc. ("Subaru") values its relationship with you, our existing or potential customers, suppliers, employment applicants, dealers and partners, and is committed to maintaining the security, confidentiality and privacy of your personal information. Subaru has developed a **Personal Information Privacy Policy** incorporating the principles set out below, to reflect its on-going commitment to you. Subaru has ensured that its Privacy Policy is in compliance with Canadian privacy laws which apply to the collection, use and disclosure of personal information. 
 
@@ -23,30 +17,32 @@ Subaru will be responsible for personal information in its possession or custody
   
 In general, Subaru has collected, and will continue to collect, use and disclose personal information for purposes authorized or required by law, as well as for the following purposes: 
 
-    * to administer your transaction; 
-    * to provide to you with products and services related to your current and future vehicles; 
-    * to assist you to finance or lease vehicles; 
-    * to administer customer notification programs; 
-    * to evaluate your satisfaction with their products and services;
-    * in accordance a consent you have provided us or our dealer on our behalf
-    * to maintain accurate customer records to satisfy legal and industry-wide regulatory obligations
-    * to make annual filings and reports with regulatory bodies, shareholders and creditors
-    * to respond to your inquiries;
-    * to distribute _Six Star Review, The Magazine for Canadian Subaru Owners_ and similar Subaru magazines and publications
-    * to permit carefully selected third party providers of products and services related to your current and future vehicles to provide their goods and services to you, such as roadside assistance providers or satellite radio providers
-    * to permit Subaru, our dealers and/or carefully selected third parties to contact you by mail, email, text, cell/telephone, or other means of telecommunication to provide you with news, information, updates, advertising, and promotions about products and services that may be of interest to you
-    * to analyse the operations of dealers, suppliers and business partners
-    * to allow you to participate in Subaru vehicle test drives
-    * to share some of your information under strictly limited and confidential circumstances with our affiliates, dealers, representatives, suppliers and Subaru business partners such as the Canadian Automobile Association (CAA) who assist us in providing products and services and allow us to more effectively carry on our business
-    * to establish, administer and document training, development and educational requirements and programs 
-    * to establish, administer and document incentive programs 
-    * to evaluate potential suppliers and their staff, make decisions about entering into product and/or supply relationships with them, and to monitor, assess and address these relationships 
-    * to evaluate potential dealers and their staff, make decisions about entering into dealer relationships with them, and to monitor, assess and address these relationships 
-    * to evaluate potential partners and/or co-suppliers and their staff, make decisions about entering into relationships with them, and to monitor, assess and address these relationships 
-    * to implement and manage security programs and internal controls (including computer monitoring and video surveillance) 
-    * to protect Subaru, and its customers, suppliers, dealers and partners, from theft, fraud and similar risks 
-    * to assist dealers in carrying on their business and related products and services, such as warranty and non-warranty services for vehicles, vehicle parts, extended warranty arrangements and financing of vehicle purchases
-    * if we engage a third party to provide services to us (such as marketing, IT or storage services)
+  * to administer your transaction; 
+  * to provide to you with products and services related to your current and future vehicles; 
+  * to assist you to finance or lease vehicles; 
+  * to administer customer notification programs; 
+  * to evaluate your satisfaction with their products and services;
+  * in accordance a consent you have provided us or our dealer on our behalf
+  * to maintain accurate customer records to satisfy legal and industry-wide regulatory obligations
+  * to make annual filings and reports with regulatory bodies, shareholders and creditors
+  * to respond to your inquiries;
+  * to distribute _Six Star Review, The Magazine for Canadian Subaru Owners_ and similar Subaru magazines and publications
+  * to permit carefully selected third party providers of products and services related to your current and future vehicles to provide their goods and services to you, such as roadside assistance providers or satellite radio providers
+  * to permit Subaru, our dealers and/or carefully selected third parties to contact you by mail, email, text, cell/telephone, or other means of telecommunication to provide you with news, information, updates, advertising, and promotions about products and services that may be of interest to you
+  * to analyse the operations of dealers, suppliers and business partners
+  * to allow you to participate in Subaru vehicle test drives
+  * to share some of your information under strictly limited and confidential circumstances with our affiliates, dealers, representatives, suppliers and Subaru business partners such as the Canadian Automobile Association (CAA) who assist us in providing products and services and allow us to more effectively carry on our business
+  * to establish, administer and document training, development and educational requirements and programs 
+  * to establish, administer and document incentive programs 
+  * to evaluate potential suppliers and their staff, make decisions about entering into product and/or supply relationships with them, and to monitor, assess and address these relationships 
+  * to evaluate potential dealers and their staff, make decisions about entering into dealer relationships with them, and to monitor, assess and address these relationships 
+  * to evaluate potential partners and/or co-suppliers and their staff, make decisions about entering into relationships with them, and to monitor, assess and address these relationships 
+  * to implement and manage security programs and internal controls (including computer monitoring and video surveillance) 
+  * to protect Subaru, and its customers, suppliers, dealers and partners, from theft, fraud and similar risks 
+  * to assist dealers in carrying on their business and related products and services, such as warranty and non-warranty services for vehicles, vehicle parts, extended warranty arrangements and financing of vehicle purchases
+  * if we engage a third party to provide services to us (such as marketing, IT or storage services)
+
+
 
   
 The way in which Subaru obtains your consent to collecting, using or disclosing your personal information will vary depending upon its sensitivity and legal requirements. We may ask for your consent or our dealer may obtain a consent on our behalf. Your consent also may be implied or implicit through your conduct when it is reasonable and legally permissible for us to do so. 
@@ -99,6 +95,3 @@ Mississauga, Ontario, L5R 4J7
 e-mail at: [privacy.mysubaru.ca](http://privacy.mysubaru.ca/)  
 Telephone: 1-800-894-4212  
 Fax: 905-568-8087
-
-
-
