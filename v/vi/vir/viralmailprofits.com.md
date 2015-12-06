@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralmailprofits.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201118id_/http%3A//www.viralmailprofits.com/privacy.php%3Freferer%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralmailprofits.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206124528id_/http%3A//www.viralmailprofits.com/privacy.php%3Freferer%3D) for the most accurate reproduction.*
 
 # Viral Mail Profits | Mail To The Max!
 
