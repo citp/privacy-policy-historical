@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xtribune.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627211810id_/http%3A//xtribune.com/privacy-policy-terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtribune.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206163830id_/http%3A//xtribune.com/privacy-policy-terms-conditions) for the most accurate reproduction.*
 
-# Privacy Policy ⋆ X TRIBUNE
+# Privacy Policy ⋆ X Tribune
 
 At Xtribune.com, the privacy of our visitors is of extreme importance to us. This Privacy Policy governs the manner in which this website collects, uses, maintains and discloses information collected from users (each, a “User”) of the Xtribune.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Xtribune.com.
 
