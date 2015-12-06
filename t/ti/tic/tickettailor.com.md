@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tickettailor.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201101id_/https%3A//www.tickettailor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickettailor.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206232151id_/http%3A//www.tickettailor.com/privacy-policy) for the most accurate reproduction.*
 
 # Ticket Tailor - Sell tickets online - No booking fees
 
