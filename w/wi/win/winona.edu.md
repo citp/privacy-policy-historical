@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winona.edu privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142337id_/http%3A//www.winona.edu/disclaimer.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winona.edu privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206041501id_/http%3A//www.winona.edu/disclaimer.asp) for the most accurate reproduction.*
 
 # Disclaimer - Winona State University
 
