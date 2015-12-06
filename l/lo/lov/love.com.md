@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the love.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610000507id_/http%3A//privacy.aol.ca/full_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the love.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140415id_/http%3A//privacy.aol.ca/full_policy) for the most accurate reproduction.*
 
 # Privacy Policy - AOL Privacy CA
 
