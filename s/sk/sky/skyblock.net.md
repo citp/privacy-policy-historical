@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyblock.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140316id_/http%3A//skyblock.net/pages/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyblock.net privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035239id_/http%3A//skyblock.net/pages/PrivacyPolicy) for the most accurate reproduction.*
 
 # Skyblock's Privacy Policy | Skyblock Forums
 
