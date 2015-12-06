@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvinsider.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628225904id_/http%3A//www.tvinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvinsider.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206032418id_/http%3A//www.tvinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TV Insider
 
@@ -6,11 +6,11 @@ Last modified: December 18, 2014
 
 1\. Introduction
 
-We at TV Insider (“Company” or “We”) respect your privacy and are committed to protecting it through our compliance with this policy.
+We at TV Insider ("Company" or "We") respect your privacy and are committed to protecting it through our compliance with this policy.
 
 This policy describes:
 
-The types of information we may collect from you or that you may provide when you use our TVInsider.com website and mobile applications (“Website”).  
+The types of information we may collect from you or that you may provide when you use our TVInsider.com website and mobile applications ("Website").  
 Our practices for collecting, using, maintaining, protecting and disclosing that information.  
 Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. BY ACCESSING OR USING THIS WEBSITE, YOU AGREE TO THIS PRIVACY POLICY. This policy may change from time to time, and will be updated here. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
@@ -40,7 +40,7 @@ If we learn we have collected or received personal information from a child unde
 
 We collect several types of information from and about users of our Website, including information:
 
-By which you may be personally identified, such as name, postal address, e-mail address, telephone number, any other identifier by which you may be contacted online or offline (“personal information”).  
+By which you may be personally identified, such as name, postal address, e-mail address, telephone number, any other identifier by which you may be contacted online or offline ("personal information").  
 That is about you but individually does not identify you, such as age, date of birth, gender, job information, zip code, and other demographic information.  
 For a public profile, including interests, the address of your website, and a profile picture.  
 About your internet connection, the equipment you use to access our Website and usage details.  
@@ -56,7 +56,7 @@ Information that you provide in surveys or other feedback regarding your experie
 Records and copies of your correspondence (including e-mail addresses), if you contact us.  
 Your responses to surveys that we might ask you to complete for research purposes.  
 Your search queries on the Website.  
-You also may provide information to be published or displayed (hereinafter, “posted”) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, “User Contributions”). Your User Contributions are posted on and transmitted to others at your own risk. Although we may limit access to certain pages, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
+You also may provide information to be published or displayed (hereinafter, "posted") on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, "User Contributions"). Your User Contributions are posted on and transmitted to others at your own risk. Although we may limit access to certain pages, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
 
 As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including:
 
@@ -81,7 +81,7 @@ We do not collect personal Information automatically, but we may tie this inform
 
 Some content or applications, including advertisements, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers and application providers. These third parties may use cookies, alone or in conjunction with web beacons or other tracking technologies, to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
-We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
+We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
 6\. How We Use Your Information
 
@@ -99,9 +99,9 @@ In any other way we may describe when you provide the information.
 For any other purpose with your consent.  
 We may edit, rewrite, use, and reuse User Contributions, including your name, likeness, photograph, and biographical information you provide, with or without attribution, including publication in the Magazines, and in trade media, and advertising.
 
-We may also use your information to contact you about our own and third-parties’ goods and services that may be of interest to you.
+We may also use your information to contact you about our own and third-parties' goods and services that may be of interest to you.
 
-We may use the information we have collected from you to enable us to display advertisements to our advertisers’ target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
+We may use the information we have collected from you to enable us to display advertisements to our advertisers' target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
 
 7\. Disclosure of Your Information
 
@@ -111,7 +111,7 @@ We may disclose personal information that we collect or you provide as described
 
 To our subsidiaries and affiliates.  
 To contractors, service providers and other third parties we use to support our business.  
-To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of TV Insider’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by TV Insider about our Website users is among the assets transferred.  
+To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of TV Insider's assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by TV Insider about our Website users is among the assets transferred.  
 To third parties to market their products or services to you.  
 To fulfill the purpose for which you provide it. For example, if you give us an e-mail address to refer a friend to our Website, we will transmit the contents of that e-mail and your e-mail address to the recipients.  
 For any other purpose disclosed by us when you provide the information.  
@@ -123,7 +123,7 @@ To enforce or apply our terms of use and other agreements, including for billing
 If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of TV Insider, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.  
 8\. Third Party Collection
 
-We do not control third parties’ collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way.
+We do not control third parties' collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way.
 
 9\. Accessing and Correcting Your Information
 
@@ -149,7 +149,7 @@ If you are located outside of the United States, please note that the informatio
 
 13\. Changes to Our Privacy Policy
 
-It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you by e-mail to the e-mail address specified in your account or through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users' personal information, we will notify you by e-mail to the e-mail address specified in your account or through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
 
 14\. Contact Information
 
