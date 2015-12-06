@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rip.ie privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607070702id_/http%3A//rip.ie/article.php%3FAID%3D91) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rip.ie privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206113321id_/http%3A//rip.ie/article.php%3FAID%3D91) for the most accurate reproduction.*
 
 # RIP.IE PRIVACY POLICY
 
@@ -124,7 +124,7 @@ We may collect information about your computer, including where available your I
 
 **COOKIES**
 
-Please see our [cookie policy](https://web.archive.org/web/20150607070702id_/http%3A//rip.ie/rip.ie/article.php?AID=92) for information on how we use cookies.
+Please see our [cookie policy](https://web.archive.org/web/20151206113321id_/http%3A//rip.ie/rip.ie/article.php?AID=92) for information on how we use cookies.
 
 **WHERE WE STORE YOUR PERSONAL DATA**
 
