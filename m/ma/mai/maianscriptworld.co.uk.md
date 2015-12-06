@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the maianscriptworld.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607033757id_/http%3A//www.maianscriptworld.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maianscriptworld.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140443id_/http%3A//www.maianscriptworld.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Maian Script World
-
-## Privacy Policy
+# Privacy Policy: MSWorld - Maian Script World - Free PHP Software for Personal or Business Use - PHP / MySQL / HTML5
 
 This policy covers how I use your personal information. I take your privacy seriously and will take all measures to protect your personal information.
 
@@ -16,6 +14,6 @@ My website may contain links to other websites of interest. However, once you ha
 
 **COOKIES**
 
-This website does not set cookies.
+This website does not set tracking cookies or use any analytic code or ads which do use cookies.
 
-Any questions, please contact me
+Any questions, please [contact me](http://www.maianscriptworld.co.uk/contact). 
