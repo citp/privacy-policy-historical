@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camscanner.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607033858id_/https%3A//www.camscanner.com/app/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camscanner.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206030708id_/https%3A//www.camscanner.com/app/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
