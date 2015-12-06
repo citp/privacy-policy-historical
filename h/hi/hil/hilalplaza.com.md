@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hilalplaza.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140046id_/http%3A//www.hilalplaza.com/hilalplaza_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hilalplaza.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206043422id_/http%3A//www.hilalplaza.com/hilalplaza_privacy_policy.html) for the most accurate reproduction.*
 
 # Islamic Online Education and Online Degree Programs - Graduate, Masters. Doctorate, PhD
 
