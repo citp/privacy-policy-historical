@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the prettydesigns.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141533id_/http%3A//www.prettydesigns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prettydesigns.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206030531id_/http%3A//www.prettydesigns.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pretty Designs
-
-[Home](http://www.prettydesigns.com/ "Go to Pretty Designs.") > Privacy Policy
 
 Prettydesigns.com is committed to protecting your privacy online. Please take a moment to read our policy explaining our use of the personal information that you provide and the choices you can make about the collection and use of your information by Prettydesigns.com.
 
