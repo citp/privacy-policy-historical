@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the motability.co.uk privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607232011id_/http%3A//www.motability.co.uk/utilities/privacy-and-cookies-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the motability.co.uk privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206235333id_/http%3A//www.motability.co.uk/utilities/privacy-and-cookies-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js flexbox flexboxlegacy no-touch geolocation hashchange rgba hsla boxshadow textshadow opacity cssanimations cssgradients csstransitions localstorage sessionstorage" lang="en" style=""><!--<![endif]--><head><meta charset="utf-8">	
+<!DOCTYPE html><html class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" style=""><!--<![endif]--><head><meta charset="utf-8">	
 
 	 
 		<title>Privacy and cookies policy | Motability</title>
@@ -18,16 +18,20 @@
 	<!--Link paths and types maximum-scale=1.0, user-scalable=0 -->
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
-	
-
 		<!--Global CSS -->
 		<link rel="stylesheet" href="/cs/MO_Common/css/jquery-ui-1.10.0.custom.css" type="text/css">
-		<link rel="stylesheet" href="/cs/MO_Common/css/main.min_14.0.4.css" type="text/css">
-		<link rel="stylesheet" href="/cs/MO_Common/css/print.min_14.0.4.css" type="text/css">
+		<link rel="stylesheet" href="/cs/MO_Common/css/main.min_14.3.1.css" type="text/css">
+
+		
+		<!--[if IE 9]>
+		<link rel="stylesheet" href="/cs/MO_Common/css/style.css" type="text/css">
+		<![endif]-->
+
+		<link rel="stylesheet" href="/cs/MO_Common/css/print.min_14.3.1.css" type="text/css">
 		<link rel="stylesheet" href="/cs/MO_Common/css/vag.css" type="text/css">
 	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-DDHK"></script><script></script>
 
-	<script src="/cs/MO_Common/scripts/js/lib/modernizr-2.6.2.js"></script>
+	<script src="/cs/MO_Common/scripts/js/lib/modernizr-2.8.3.js"></script>
 
 	<script type="text/javascript">
 		var modules = [], _gaq = _gaq || [];
@@ -38,9 +42,24 @@
 
 	<!--IE specifics scripts -->
 	<!--[if lt IE 9]>
-			<link rel="stylesheet" href="/cs/MO_Common/css/ie.min_14.0.4.css" media="screen">
+			<link rel="stylesheet" href="/cs/MO_Common/css/ie.min_14.3.1.css" media="screen">
 	<![endif]-->
 
+	<!-- Schema.org Search Box -->
+	<script type="application/ld+json">
+		{
+			"@context": "http://schema.org",
+			"@type": "WebSite",
+			"url": "http://www.motability.co.uk",
+			"potentialAction": {
+				"@type": "SearchAction",
+				"target": "http://www.motability.co.uk/searchresults/?{search_term_string}",
+				"query-input": "required name=search_term_string"
+			}
+		}
+	</script>
+	
+	
 
   
   <!--TEMPORARY style fix for Site Studio css conflicts-->
@@ -109,6 +128,11 @@
 								<!--[if !IE 7]><!-->
 									
 								<!--<![endif]-->
+								<!--[if lte IE 9]>
+									<div id="no-text-to-speech-message" class="browser-message">
+									<p>We have noticed that your browser does not support our text-to-speech feature. To listen to our website please <a onclick="_gaq.push(['_trackEvent','External link','Header - DF_HEADER','download a newer version of Internet Explorer'])"   href="http://www.microsoft.com/uk/windows/internet-explorer/worldwide-sites.aspx" target="_blank">download a newer version of Internet Explorer</a>&nbsp;<a onclick="_gaq.push(['_trackEvent','Update','Header - DF_HEADER','Close'])"   data-dismiss-browser-message="no-text-to-speech-message">[Close]</a></p>
+									</div>
+								<![endif]-->
 							<span class="access">The following are accessibility options</span>
 							<div class="eightcol">
 								<a onclick="_gaq.push(['_trackEvent','Internal link','Header - DF_HEADER','Skip to content'])" class="access skip" href="#content">Skip to content</a>
@@ -123,8 +147,12 @@
 								   <a onclick="_gaq.push(['_trackEvent','Update','Header - DF_HEADER','This site uses cookies, find out why'])" class=" cookies" href="/utilities/privacy-and-cookies-policy">This site uses cookies, find out why</a>   
 				
 								<ul class="access-options">
-									<li><script type="text/javascript">var _baLocale = 'uk', _baUseCookies = true, _baMode = 'Listen to our website', _baHiddenMode = false, _baHideOnLoad = false;</script>
-									<!--<script type="text/javascript" src="http://www.browsealoud.com/plus/scripts/ba.js"></script>--></li>
+									<li>
+										<!--[if (gt IE 9)|(!IE)]><!-->
+										<script type="text/javascript">var _baLocale = 'uk', _baUseCookies = true, _baMode = 'Listen to our website', _baHiddenMode = false, _baHideOnLoad = false;</script>
+										<script type="text/javascript" src="http://www.browsealoud.com/plus/scripts/ba.js"></script>
+										<!--<![endif]-->
+									</li>
 								</ul>
 							</div>
 							<div class="fourcol last">
@@ -180,7 +208,7 @@
 									<div class="pad">
 										<p>Personal Independence Payment</p>
 										<ol>
-							<li class="theme-colour"><a onclick="_gaq.push(['_trackEvent','Internal link','Header - DF_HEADER','PIP and Motability'])" href="/understanding-the-scheme/pip-and-motability/">PIP and Motability</a></li>
+							<li class="theme-colour"><a onclick="_gaq.push(['_trackEvent','Internal link','Header - DF_HEADER','Personal Independence Payment (PIP) and Motability'])" href="/understanding-the-scheme/personal-independence-payment-and-motability/">Personal Independence Payment (PIP) and Motability</a></li>
 								</ol>
 							</div>
 						</div>
@@ -273,7 +301,7 @@
 						
 			
 								<span class="main-link">
-									<li> <a onclick="_gaq.push(['_trackEvent','Internal link','Header - DF_HEADER','Visit customer area'])" class=" secondary" href="/cars-and-wavs/customer-area/">Visit customer area</a> </li>
+									<li> <a onclick="_gaq.push(['_trackEvent','Internal link','Header - DF_HEADER','Visit customer area'])" class=" button secondary" href="/cars-and-wavs/customer-area/">Visit customer area</a> </li>
 								</span>
 							</ol>
 						</div>
@@ -350,7 +378,7 @@
 	
 						
 			
-								<li> <a onclick="_gaq.push(['_trackEvent','Internal link','Header - DF_HEADER','Scooter Highway Code'])" class=" mmlinks" href="/scooters-and-powered-wheelchairs/scooter-highway-code">Scooter Highway Code</a> </li><li> <a onclick="_gaq.push(['_trackEvent','Internal link','Header - DF_HEADER','Getting your next product'])" class=" mmlinks" href="/scooters-and-powered-wheelchairs/getting-your-next-motability-product">Getting your next product</a> </li><li> <a onclick="_gaq.push(['_trackEvent','Internal link','Header - DF_HEADER','Insurance cover'])" class=" mmlinks" href="/scooters-and-powered-wheelchairs/your-insurance-cover-details-scooters">Insurance cover</a> </li><li> <a onclick="_gaq.push(['_trackEvent','Internal link','Header - DF_HEADER','Breakdown cover'])" class=" mmlinks" href="/scooters-and-powered-wheelchairs/breakdown-assistance-and-cover-scooters">Breakdown cover</a> </li><li> <a onclick="_gaq.push(['_trackEvent','Internal link','Header - DF_HEADER','Useful contacts'])" class=" mmlinks" href="/scooters-and-powered-wheelchairs/scooters-useful-contacts">Useful contacts</a> </li>
+								<li> <a onclick="_gaq.push(['_trackEvent','Internal link','Header - DF_HEADER','Scooter Highway Code'])" class=" mmlinks" href="/scooters-and-powered-wheelchairs/customer-area/scooter-highway-code">Scooter Highway Code</a> </li><li> <a onclick="_gaq.push(['_trackEvent','Internal link','Header - DF_HEADER','Getting your next product'])" class=" mmlinks" href="/scooters-and-powered-wheelchairs/customer-area/getting-your-next-motability-product">Getting your next product</a> </li><li> <a onclick="_gaq.push(['_trackEvent','Internal link','Header - DF_HEADER','Insurance cover'])" class=" mmlinks" href="/scooters-and-powered-wheelchairs/customer-area/your-insurance-cover-details-scooters">Insurance cover</a> </li><li> <a onclick="_gaq.push(['_trackEvent','Internal link','Header - DF_HEADER','Breakdown cover'])" class=" mmlinks" href="/scooters-and-powered-wheelchairs/customer-area/breakdown-assistance-and-cover-scooters">Breakdown cover</a> </li><li> <a onclick="_gaq.push(['_trackEvent','Internal link','Header - DF_HEADER','Useful contacts'])" class=" mmlinks" href="/scooters-and-powered-wheelchairs/customer-area/scooters-useful-contacts">Useful contacts</a> </li>
 				
 				
 			
@@ -359,7 +387,7 @@
 						
 			
 								<span class="main-link">
-									<li> <a onclick="_gaq.push(['_trackEvent','Internal link','Header - DF_HEADER','Visit customer area'])" class=" secondary" href="/scooters-and-powered-wheelchairs/customer-area/">Visit customer area</a> </li>
+									<li> <a onclick="_gaq.push(['_trackEvent','Internal link','Header - DF_HEADER','Visit customer area'])" class=" button secondary" href="/scooters-and-powered-wheelchairs/customer-area/">Visit customer area</a> </li>
 								</span>
 							</ol>
 						</div>
@@ -406,6 +434,10 @@
 			 
 			<li class="theme-colour"><a onclick="_gaq.push(['_trackEvent','Internal link','Header - DF_HEADER','Contact us about fundraising'])" href="/whats-on-and-get-involved/fundraise-and-support-us/contact-us-about-fundraising/">Contact us about fundraising</a></li>
 			 
+			<li class="theme-colour"><a onclick="_gaq.push(['_trackEvent','Internal link','Header - DF_HEADER','Motabilitys Christmas Appeal'])" href="/whats-on-and-get-involved/fundraise-and-support-us/motabilitys-christmas-appeal/">Motability's Christmas Appeal</a></li>
+			 
+			<li class="theme-colour"><a onclick="_gaq.push(['_trackEvent','Internal link','Header - DF_HEADER','Sign up to fundraising emails'])" href="/whats-on-and-get-involved/fundraise-and-support-us/sign-up-to-fundraising-emails/ ">Sign up to fundraising emails</a></li>
+			 
 							</ol>
 						</div>
 					</div>
@@ -439,7 +471,6 @@
 							<li class="theme-colour"><a onclick="_gaq.push(['_trackEvent','Internal link','Header - DF_HEADER','Useful downloads'])" href="/about-us/useful-downloads/">Useful downloads</a></li>
 							<li class="theme-colour"><a onclick="_gaq.push(['_trackEvent','Internal link','Header - DF_HEADER','Image and video gallery'])" href="/about-us/image-video-gallery/">Image and video gallery</a></li>
 							<li class="theme-colour"><a onclick="_gaq.push(['_trackEvent','Internal link','Header - DF_HEADER','Lifestyle magazine'])" href="/about-us/lifestyle-magazine/">Lifestyle magazine</a></li>
-							<li class="theme-colour"><a onclick="_gaq.push(['_trackEvent','Internal link','Header - DF_HEADER','Useful contacts'])" href="/about-us/useful-contacts/">Useful contacts</a></li>
 							<li class="theme-colour"><a onclick="_gaq.push(['_trackEvent','Internal link','Header - DF_HEADER','Contact us'])" href="/about-us/contact-us/">Contact us</a></li>
 								</ol>
 							</div>
@@ -562,7 +593,7 @@
 			
 			 
 		<div class="wysiwyg">
-			 <h2>Privacy</h2> <h3>What we collect &nbsp;</h3> <p>We collect the following information from visitors to our website:</p> <ul>     <li>IP addresses</li>     <li>Information regarding what pages are accessed and when.</li> </ul> <h4><strong>Personal information</strong></h4> <p>The personal information we collect about you is made up of the information you give us during your use of the website and our communications with you.</p> <p>You can access and browse the majority of our website without disclosing your personal data with the exception of the use of the email forms.</p> <h4><strong>Email forms</strong></h4> <p>Our website uses email forms for visitors to request information on services and policy information. We collect visitor contact information (i.e. email and postal address) and unique identifiers (i.e. customer reference number or vehicle registration mark).</p><h3>What we do with the information we gather</h3> <p>We use your information as for the following purposes:</p> <ul>     <li>to provide you with our website</li>     <li>to send information to our visitors as specifically requested by them</li>     <li>to verify the user’s identity in our record system</li>     <li>for internal analysis and research</li>     <li>to send publications, event information and marketing communications about our products and services which we think may interest you.</li> </ul> <p>Our website does not enable our visitors to communicate with others or to post information to be accessed by others.</p> <p>Visitors contact information and unique identifiers will not be shared with third parties other than to our Scheme partners to enable us to deal with your request.</p> <h3>Security</h3> <p>We place great importance on the security of all personally identifiable information associated with our visitors. We have security measures in place to protect against the loss, misuse and alteration of personal data under our control. We have organisational and technical security measures in place to safeguard your personal information, and we are registered as data controllers under the Data Protection Act 1998.</p> <h2>Information about cookies</h2> <p>Cookies are small text files that are placed on your computer by websites that you visit. They are stored on your computer to collect information about the general use of the site in order to make the website work, or work more efficiently and to provide statistical data about users' browsing actions and patterns.</p> <h3>What types of cookies does the website use?</h3> <p>We use cookies to:</p> <ul>     <li>remember your browsing preferences when you visit the site that can give you a better experience</li>     <li>to collect anonymous statistical information 	about the way you use the website so that we can improve the way the website works.</li> </ul> <p>These cookies are non-intrusive and are used on most web sites. None of your personal details are held in these cookies. The table below sets out details about the cookies we use and why.</p> <table width="400" cellspacing="1" cellpadding="1" border="1" align="left">     <thead>         <tr>             <th scope="col">Cookie</th>             <th scope="col">Name</th>             <th scope="col">Purpose</th>         </tr>     </thead>     <tbody>         <tr>             <td>Google analytics</td>             <td>_utma<br>             _utmb<br>             _utmc<br>             _utmz <br>             &nbsp;</td>             <td>These cookies are used to collect information about how visitors use the website. We use the information to compile reports to help us improve the website. The cookies collect information in an anonymous form, including the number of visitors to the website, where visitors have come to the site from and the pages visited. Please visit Google for further details on  <a onclick="_gaq.push(['_trackEvent','External link','Main Region - Privacy and cookies policy','Cookies &amp; Google Analytics'])" title="Opens in new window" class="external" target="_blank" href="https://developers.google.com/analytics/resources/concepts/gaConceptsCookies">Cookies &amp; Google Analytics<span class="access">Opens in new window</span><span></span></a>  .</td>         </tr>         <tr>             <td><p>Content management system cookie</p>             <p>&nbsp;</p></td>             <td><p>CFID<br>             CFTOKEN<br>             JSESSION ID<br>             &nbsp;</p></td>             <td>This cookie is set by our content management system on a small number or browsers, upon arrival to the website. These cookies are used to store user specific information and maintain a session state for you. This allows us to remember your preferences when you view the site. Some functions of the website depend on these cookies and may not properly work, or at all, if they are disabled.</td>         </tr>         <tr>             <td>Session ID</td>             <td>ASP.Net_Sessionid</td>             <td>This cookie is used to enable users to view and submit any of the online forms within the website.</td>         </tr>         <tr>             <td>Homepage alert bar cookie</td>             <td>Alert</td>             <td>If the user closes the alert box, this cookie is used to store that record.</td>         </tr>         <tr>             <td>Scooter and wheelchair cookie</td>             <td><p>addClassDisplayedOne<br>             addClassDisplayedTwo<br>             addClassDisplayedThree<br>             howManyToShow             <br>             product -1                         <br>             product -2                       <br>             product -3 <br>             firstSixcol                          <br>             submit                               <br>             lastOneDisplayed             <br>             0                                       <br>             1<br>             2 <br>             3                                       <br>             4                                       <br>             new-search</p></td>             <td>This cookie enables users to view previously viewed items during a single session.</td>         </tr><tr>             <td>Car Search cookies</td>             <td>car_addClassDisplayedOne<br>car_addClassDisplayedTwo<br>car_addClassDisplayedThree<br>car_howManyToShow   <br>car_lastOneDisplayed<br>car_last Product<br>car_product -1 <br>                        car_product – 2<br>                       car_product – 3             </td>             <td>This cookie enables users to view previously viewed items during a single session.</td>         </tr>         <tr>             <td>Accessibility cookie</td>             <td>TextSize and colControl</td>             <td><p>This cookie stores accessibility toolbar settings, such as text size and colours.</p>             <p>&nbsp;</p></td>         </tr>         <tr>             <td>Saving preference cookie</td>             <td>CarBasket<br><br>WAVBasket<br><br>PrintBasket<br><br>SavedSearch<br>&nbsp;</td>             <td>These cookies enable users to save information they would like to review at a later date.</td>         </tr>     </tbody> </table> <h3>Updating your settings</h3> <p>You do not need to allow your browser to accept cookies in order to browse much of our website. If cookies are disabled then although the core features of the website will work some of the functionality of the website may be affected.</p> <p>To disable cookies select ‘Tools / Internet Options / Privacy /Advanced’ from your internet browser then select the ‘override automatic handling’ option from the advanced settings dialogue box.</p> <p>To find out more about the way cookies work, how to see what cookies have been set and how to manage and delete them, visit  <a onclick="_gaq.push(['_trackEvent','External link','Main Region - Privacy and cookies policy','www.allaboutcookies.org'])" title="Opens in new window" class="external" href="http://www.allaboutcookies.org" target="_blank">www.allaboutcookies.org<span class="access">Opens in new window</span><span></span></a>  &nbsp;</p> <h2>Updates</h2> <p>Any changes we may make to our privacy and cookies policy in the future will be posted on this page. If we make a change to this policy, the change will take effect on the date that we post it on this page.&nbsp;&nbsp;</p> <h2>How to contact us about privacy policy</h2> <p>Questions, comments and requests regarding this privacy and cookies policy are welcomed and should be addressed to the <a onclick="_gaq.push(['_trackEvent','Internal link','Main Region - Privacy and cookies policy','feedback form'])" href="https://www.motability.co.uk/about-us/contact-us/feedback-form">feedback form</a> .  You have the legal right to a copy of all the personal information about you held by us. You also have the right to correct any errors in that information.</p> 
+			 <h2>Privacy</h2> <h3>What we collect &nbsp;</h3> <p>We collect the following information from visitors to our website:</p> <ul>     <li>IP addresses</li>     <li>Information regarding what pages are accessed and when.</li> </ul> <h4><strong>Personal information</strong></h4> <p>The personal information we collect about you is made up of the information you give us during your use of the website and our communications with you.</p> <p>You can access and browse the majority of our website without disclosing your personal data with the exception of the use of the email forms.</p> <h4><strong>Email forms</strong></h4> <p>Our website uses email forms for visitors to request information on services and policy information. We collect visitor contact information (i.e. email and postal address) and unique identifiers (i.e. customer reference number or vehicle registration mark).</p><h3>What we do with the information we gather</h3> <p>We use your information as for the following purposes:</p> <ul>     <li>to provide you with our website</li>     <li>to send information to our visitors as specifically requested by them</li>     <li>to verify the user’s identity in our record system</li>     <li>for internal analysis and research</li>     <li>to send publications, event information and marketing communications about our products and services which we think may interest you.</li> </ul> <p>Our website does not enable our visitors to communicate with others or to post information to be accessed by others.</p> <p>Visitors contact information and unique identifiers will not be shared with third parties other than to our Scheme partners to enable us to deal with your request.</p> <h3>Security</h3> <p>We place great importance on the security of all personally identifiable information associated with our visitors. We have security measures in place to protect against the loss, misuse and alteration of personal data under our control. We have organisational and technical security measures in place to safeguard your personal information, and we are registered as data controllers under the Data Protection Act 1998.</p> <h2>Information about cookies</h2> <p>Cookies are small text files that are placed on your computer by websites that you visit. They are stored on your computer to collect information about the general use of the site in order to make the website work, or work more efficiently and to provide statistical data about users' browsing actions and patterns.</p> <h3>What types of cookies does the website use?</h3> <p>We use cookies to:</p> <ul>     <li>remember your browsing preferences when you visit the site that can give you a better experience</li>     <li>to collect anonymous statistical information 	about the way you use the website so that we can improve the way the website works.</li> </ul> <p>These cookies are non-intrusive and are used on most web sites. None of your personal details are held in these cookies. The table below sets out details about the cookies we use and why.</p> <table width="400" cellspacing="1" cellpadding="1" border="1" align="left">     <thead>         <tr>             <th scope="col">Cookie</th>             <th scope="col">Name</th>             <th scope="col">Purpose</th>         </tr>     </thead>     <tbody>         <tr>             <td>Google analytics</td>             <td>_utma<br>             _utmb<br>             _utmc<br>             _utmz <br>             &nbsp;</td>             <td>These cookies are used to collect information about how visitors use the website. We use the information to compile reports to help us improve the website. The cookies collect information in an anonymous form, including the number of visitors to the website, where visitors have come to the site from and the pages visited. Please visit Google for further details on  <a onclick="_gaq.push(['_trackEvent','External link','Main Region - Privacy and cookies policy','Cookies &amp; Google Analytics'])" title="Opens in new window" class="external" target="_blank" href="https://developers.google.com/analytics/resources/concepts/gaConceptsCookies">Cookies &amp; Google Analytics<span class="access">Opens in new window</span><span></span></a>  .</td>         </tr>         <tr>             <td><p>Content management system cookie</p>             <p>&nbsp;</p></td>             <td><p>CFID<br>             CFTOKEN<br>             JSESSION ID<br>             &nbsp;</p></td>             <td>This cookie is set by our content management system on a small number or browsers, upon arrival to the website. These cookies are used to store user specific information and maintain a session state for you. This allows us to remember your preferences when you view the site. Some functions of the website depend on these cookies and may not properly work, or at all, if they are disabled.</td>         </tr>         <tr>             <td>Session ID</td>             <td>ASP.Net_Sessionid</td>             <td>This cookie is used to enable users to view and submit any of the online forms within the website.</td>         </tr>         <tr>             <td>Homepage alert bar cookie</td>             <td>Alert</td>             <td>If the user closes the alert box, this cookie is used to store that record.</td>         </tr>         <tr>             <td>Scooter and wheelchair cookie</td>             <td><p>addClassDisplayedOne<br>             addClassDisplayedTwo<br>             addClassDisplayedThree<br>             howManyToShow             <br>             product -1                         <br>             product -2                       <br>             product -3 <br>             lastOneDisplayed </p></td>             <td>This cookie enables users to view previously viewed items during a single session.</td>         </tr><tr>             <td>Car Search cookies</td>             <td>car_addClassDisplayedOne<br>car_addClassDisplayedTwo<br>car_addClassDisplayedThree<br>car_howManyToShow   <br>car_lastOneDisplayed<br>car_last Product<br>car_product -1 <br>                        car_product – 2<br>                       car_product – 3</td>             <td>This cookie enables users to view previously viewed items during a single session.</td>         </tr>         <tr>             <td>Accessibility cookie</td>             <td>TextSize and colControl</td>             <td><p>This cookie stores accessibility toolbar settings, such as text size and colours.</p>             <p>&nbsp;</p></td>         </tr>         <tr>             <td><p>Saving preference cookie</p></td>             <td><p>CarBasket</p><p>WAVBasket</p><p>ScooterBasket<br><br>PrintBasket<br><br>SavedSearch<br>&nbsp;</p></td>             <td><p>These cookies enable users to save information they would like to review at a later date.</p></td>         </tr><tr>             <td>BrowseAloud Cookie</td>             <td><p>rwebooks-x</p><p>rwebooks-y</p><p>_ba_cookies_enabled</p><p>_ba_user</p><p>_ba_settings</p><p>_ba_pdf</p><p>_ba_use_pdf</p></td>             <td>These cookies enable the users to access and participate in using the website with the aid of speech, reading and translation support.</td>         </tr>     </tbody> </table> <h3>Updating your settings</h3> <p>You do not need to allow your browser to accept cookies in order to browse much of our website. If cookies are disabled then although the core features of the website will work some of the functionality of the website may be affected.</p> <p>To disable cookies select ‘Tools / Internet Options / Privacy /Advanced’ from your internet browser then select the ‘override automatic handling’ option from the advanced settings dialogue box.</p> <p>To find out more about the way cookies work, how to see what cookies have been set and how to manage and delete them, visit  <a onclick="_gaq.push(['_trackEvent','External link','Main Region - Privacy and cookies policy','www.allaboutcookies.org'])" title="Opens in new window" class="external" href="http://www.allaboutcookies.org" target="_blank">www.allaboutcookies.org<span class="access">Opens in new window</span><span></span></a>  &nbsp;</p> <h2>Updates</h2> <p>Any changes we may make to our privacy and cookies policy in the future will be posted on this page. If we make a change to this policy, the change will take effect on the date that we post it on this page.&nbsp;&nbsp;</p> <h2>How to contact us about privacy policy</h2> <p>Questions, comments and requests regarding this privacy and cookies policy are welcomed and should be addressed to the <a onclick="_gaq.push(['_trackEvent','Internal link','Main Region - Privacy and cookies policy','feedback form'])" href="https://www.motability.co.uk/about-us/contact-us/feedback-form">feedback form</a> .  You have the legal right to a copy of all the personal information about you held by us. You also have the right to correct any errors in that information.</p> 
 		</div>
 	
 		<script>
@@ -632,7 +663,7 @@
 						
 			
 		<ul class="">
-			<li> <a onclick="_gaq.push(['_trackEvent','Internal link','Right Block 1 - VRS RB1','More about connecting to a BSL interpreter'])" class=" secondary" href="/about-us/contact-us/british-sign-language-service">More about connecting to a BSL interpreter</a> </li>
+			<li> <a onclick="_gaq.push(['_trackEvent','Internal link','Right Block 1 - VRS RB1','More about connecting to a BSL interpreter'])" class=" button secondary" href="/about-us/contact-us/british-sign-language-service">More about connecting to a BSL interpreter</a> </li>
 		</ul>
 	</div>
 	</div>
@@ -872,7 +903,7 @@
 							<!--<div class="expandables">-->
 							<div class="widget widget-related-faq">
 								<div class="head">									
-									<h3onclick="_gaq.push(['_trackevent', 'faq',="" 'right="" block="" 2="" -="" st_related_faqs',="" 'will="" motability="" help="" me="" financially="" towards="" my="" preferred="" choice="" of="" car?']);"=""><a onclick="_gaq.push(['_trackEvent','Internal link','Right Block 2 - ST_RELATED_FAQS','Will Motability help me financially towards my preferred choice of car?'])" href="/about-us/faqs/will-motability-help-me-financially-towards-my-preferred-choice-of-car">Will Motability help me financially towards my preferred choice of car?</a>									
+									<h3onclick="_gaq.push(['_trackevent', 'faq',="" 'right="" block="" 2="" -="" st_related_faqs',="" 'will="" motability="" help="" me="" financially="" towards="" my="" choice="" of="" car?']);"=""><a onclick="_gaq.push(['_trackEvent','Internal link','Right Block 2 - ST_RELATED_FAQS','Will Motability help me financially towards my choice of car?'])" href="/about-us/faqs/will-motability-help-me-financially-towards-my-choice-of-car">Will Motability help me financially towards my choice of car?</a>									
 								</h3onclick="_gaq.push(['_trackevent',></div>
 								<!--
 								<div class="body">
@@ -889,9 +920,15 @@
 	
 						
 			
+	
+			
+				
+	
+						
+			
 		 
 		<div class="wysiwyg">
-			 <p>You can choose from an extensive range of vehicles on the Scheme. You can use our online <a onclick="_gaq.push(['_trackEvent','Internal link','Right Block 2 - ST_RELATED_FAQS','Car Search'])"     href="/cars-and-wavs/search/">Car Search</a> to help to select suitable vehicles according to your needs. Financial help is not offered towards vehicles where there are alternative, lower cost models, which are suitable for your basic mobility needs.</p><p>To ensure our limited funds go only to those in most need, we means-test all applications and any help we give can only be towards your basic mobility needs. This means that if you are successful in your application, you will not necessarily receive help towards your preferred solution if a better-value alternative is available on the Scheme.</p><p>Find out more about <a onclick="_gaq.push(['_trackEvent','Internal link','Right Block 2 - ST_RELATED_FAQS','financial help'])"    href="/understanding-the-scheme/financial-help/" >financial help</a> .</p> 
+			 <p>You can choose from an extensive range of vehicles on the Scheme. You can use our online <a onclick="_gaq.push(['_trackEvent','Internal link','Right Block 2 - ST_RELATED_FAQS','Car Search'])"    href="/cars-and-wavs/search/" >Car Search</a> to help to select suitable vehicles according to your needs. <a onclick="_gaq.push(['_trackEvent','Internal link','Right Block 2 - ST_RELATED_FAQS','Financial help'])"    href="/understanding-the-scheme/financial-help/" >Financial help</a> is not offered towards vehicles where there are alternative, lower cost models, which are suitable for your basic mobility needs.</p><p>To ensure our limited funds go only to those in most need, we means-test all applications and any help we give can only be towards your basic mobility needs. This means that if you are successful in your application, you will not necessarily receive help towards your preferred solution if a better-value alternative is available on the Scheme.</p><p>Find out more about <a onclick="_gaq.push(['_trackEvent','Internal link','Right Block 2 - ST_RELATED_FAQS','financial help'])"     href="/understanding-the-scheme/financial-help/">financial help</a> .</p> 
 		</div>
 																		
 								</div>
@@ -913,24 +950,34 @@
 					</div>
 					<ul class="list-links">
 							<li>
-								<a onclick="_gaq.push(['_trackEvent','External link','Right Block 3 - ST_RELATED_DOWNLOADS','Customer Introduction Guide Will download a resource (PDF 374KB) '])" class="download" href="/FINAL_6802_Introduction_Leaflet_lo-res.pdf" target="_blank">Customer Introduction Guide
-									<span class="access">Will download a resource</span>
-									<span>(PDF 374KB)</span></a>
-							</li>
-							<li>
-								<a onclick="_gaq.push(['_trackEvent','External link','Right Block 3 - ST_RELATED_DOWNLOADS','DRUK PIP Guide to making a claim Will download a resource (PDF 1MB) '])" class="download" href="/DRUK_PIP_Guide_to_making__a_claim_2013.pdf" target="_blank">DRUK PIP Guide to making  a claim
+								<a onclick="_gaq.push(['_trackEvent','External link','Right Block 3 - ST_RELATED_DOWNLOADS','DRUK PIP Guide to making a claim Will download a resource (PDF 1MB) '])" class="download" href="/DRUK-PIP-2013.pdf" target="_blank">DRUK PIP Guide to making  a claim
 									<span class="access">Will download a resource</span>
 									<span>(PDF 1MB)</span></a>
 							</li>
 							<li>
-								<a onclick="_gaq.push(['_trackEvent','External link','Right Block 3 - ST_RELATED_DOWNLOADS','Annual Report and Accounts 2010.pdf Will download a resource (PDF 1MB) '])" class="download" href="/Annual_Report_and_Accounts_2010.pdf" target="_blank">Annual Report and Accounts 2010.pdf
+								<a onclick="_gaq.push(['_trackEvent','External link','Right Block 3 - ST_RELATED_DOWNLOADS','Customer Introduction Guide Will download a resource (PDF 416KB) '])" class="download" href="/customer-introduction-mar2015.pdf" target="_blank">Customer Introduction Guide
+									<span class="access">Will download a resource</span>
+									<span>(PDF 416KB)</span></a>
+							</li>
+							<li>
+								<a onclick="_gaq.push(['_trackEvent','External link','Right Block 3 - ST_RELATED_DOWNLOADS','Annual Report and Accounts 2004-2005 Will download a resource (PDF 388KB) '])" class="download" href="/Annual_Accounts2004-05.pdf" target="_blank">Annual Report and Accounts 2004-2005
+									<span class="access">Will download a resource</span>
+									<span>(PDF 388KB)</span></a>
+							</li>
+							<li>
+								<a onclick="_gaq.push(['_trackEvent','External link','Right Block 3 - ST_RELATED_DOWNLOADS','Annual Report and Accounts 2009-2010 Will download a resource (PDF 1MB) '])" class="download" href="http://internal-moprd-internal-2123654692.eu-west-1.elb.amazonaws.com/corporate/Annual_Report_and_Accounts_2010.pdf?ssSourceSiteId=motability" target="_blank">Annual Report and Accounts 2009-2010
 									<span class="access">Will download a resource</span>
 									<span>(PDF 1MB)</span></a>
 							</li>
 							<li>
-								<a onclick="_gaq.push(['_trackEvent','External link','Right Block 3 - ST_RELATED_DOWNLOADS','Annual_Report_Accounts_2011-12 Will download a resource (PDF 1MB) '])" class="download" href="/Annual_Report_Accounts_2011-12.pdf" target="_blank">Annual_Report_Accounts_2011-12
+								<a onclick="_gaq.push(['_trackEvent','External link','Right Block 3 - ST_RELATED_DOWNLOADS','Annual Report and Accounts 2011-2012 Will download a resource (PDF 1MB) '])" class="download" href="/Annual_Report_Accounts_2011-12.pdf" target="_blank">Annual Report and Accounts 2011-2012
 									<span class="access">Will download a resource</span>
 									<span>(PDF 1MB)</span></a>
+							</li>
+							<li>
+								<a onclick="_gaq.push(['_trackEvent','External link','Right Block 3 - ST_RELATED_DOWNLOADS','Annual Report and Accounts 2003-2004 Will download a resource (PDF 447KB) '])" class="download" href="/Accounts_2003-2004.pdf" target="_blank">Annual Report and Accounts 2003-2004
+									<span class="access">Will download a resource</span>
+									<span>(PDF 447KB)</span></a>
 							</li>
 							<li>
 								<a onclick="_gaq.push(['_trackEvent','External link','Right Block 3 - ST_RELATED_DOWNLOADS','Motability Annual Report 08 Will download a resource (PDF 1MB) '])" class="download" href="/Motability_Annual_Report_08.pdf" target="_blank">Motability Annual Report 08
@@ -938,19 +985,9 @@
 									<span>(PDF 1MB)</span></a>
 							</li>
 							<li>
-								<a onclick="_gaq.push(['_trackEvent','External link','Right Block 3 - ST_RELATED_DOWNLOADS','Annual_Report_2006-2007 Will download a resource (PDF 2MB) '])" class="download" href="/Annual_Report_2006-2007.pdf" target="_blank">Annual_Report_2006-2007
+								<a onclick="_gaq.push(['_trackEvent','External link','Right Block 3 - ST_RELATED_DOWNLOADS','Annual Report and Accounts 2006-2007 Will download a resource (PDF 2MB) '])" class="download" href="/Annual_Report_2006-2007.pdf" target="_blank">Annual Report and Accounts 2006-2007
 									<span class="access">Will download a resource</span>
 									<span>(PDF 2MB)</span></a>
-							</li>
-							<li>
-								<a onclick="_gaq.push(['_trackEvent','External link','Right Block 3 - ST_RELATED_DOWNLOADS','Annual Report and Accounts 2010 Will download a resource (PDF 1MB) '])" class="download" href="/Annual_Report_and_Accounts_2010.pdf" target="_blank">Annual Report and Accounts 2010
-									<span class="access">Will download a resource</span>
-									<span>(PDF 1MB)</span></a>
-							</li>
-							<li>
-								<a onclick="_gaq.push(['_trackEvent','External link','Right Block 3 - ST_RELATED_DOWNLOADS','Accounts_2003-2004 Will download a resource (PDF 447KB) '])" class="download" href="/Accounts_2003-2004.pdf" target="_blank">Accounts_2003-2004
-									<span class="access">Will download a resource</span>
-									<span>(PDF 447KB)</span></a>
 							</li>
 					</ul>
 				</div>
@@ -987,7 +1024,7 @@
 						
 			
 		<ul class="">
-			<li> <a onclick="_gaq.push(['_trackEvent','Internal link','Right Block 5 - Car and scooters search RHB','Search cars or Wheelchair Accessible Vehicles'])" class=" secondary" href="/cars-and-wavs/search/">Search cars or Wheelchair Accessible Vehicles</a> </li><li> <a onclick="_gaq.push(['_trackEvent','Internal link','Right Block 5 - Car and scooters search RHB','Search scooters or powered wheelchairs'])" class=" secondary" href="/scooters-and-powered-wheelchairs/search-scooters-and-powered-wheelchairs/">Search scooters or powered wheelchairs</a> </li>
+			<li> <a onclick="_gaq.push(['_trackEvent','Internal link','Right Block 5 - Car and scooters search RHB','Search cars or Wheelchair Accessible Vehicles'])" class=" button secondary" href="/cars-and-wavs/search/">Search cars or Wheelchair Accessible Vehicles</a> </li><li> <a onclick="_gaq.push(['_trackEvent','Internal link','Right Block 5 - Car and scooters search RHB','Search scooters or powered wheelchairs'])" class=" button secondary" href="/scooters-and-powered-wheelchairs/search-scooters-and-powered-wheelchairs/">Search scooters or powered wheelchairs</a> </li>
 		</ul>
 	</div>
 	</div>
@@ -1027,11 +1064,13 @@
 	
 		
 		
-					
-		<div class="global-footer container">
-			<div class="row">
-				<footer>
-					<ul>
+						
+		<div id="mega-footer">
+			<div class="footer-nav">
+				<div class="row">
+					<div class="fourcol">
+								<h3><a onclick="_gaq.push(['_trackEvent','Internal link','Footer - New footer data file MO','Sitemap'])" href="/sitemap/">Sitemap</a></h3>
+								<ul>
 				
 	
 			
@@ -1039,7 +1078,6 @@
 	
 						
 			
-							<li>  <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - Footer Datafile','FAQs'])" href="/about-us/faqs/">FAQs</a>  </li>	
 				
 	
 			
@@ -1047,7 +1085,7 @@
 	
 						
 			
-							<li>  <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - Footer Datafile','Contact us'])" href="/about-us/contact-us/">Contact us</a>  </li>	
+								<li>  <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - New footer data file MO','Home'])" href="/">Home</a>  </li>	
 				
 	
 			
@@ -1055,7 +1093,7 @@
 	
 						
 			
-							<li>  <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - Footer Datafile','Useful links'])" href="/utilities/useful-links">Useful links</a>  </li>	
+								<li>  <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - New footer data file MO','About the Scheme'])" href="/understanding-the-scheme/">About the Scheme</a>  </li>	
 				
 	
 			
@@ -1063,7 +1101,7 @@
 	
 						
 			
-							<li>  <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - Footer Datafile','Press and media'])" href="http://www.motability.co.uk/about-us/press-and-media/">Press and media</a>  </li>	
+								<li>  <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - New footer data file MO','Search Cars and WAV s'])" href="/cars-and-wavs/search/">Search Cars and <abbr title="Wheelchair Accessible Vehicle">WAV</abbr>s</a>  </li>	
 				
 	
 			
@@ -1071,7 +1109,7 @@
 	
 						
 			
-							<li>  <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - Footer Datafile','Terms and Conditions'])" href="/utilities/terms-and-conditions">Terms and Conditions</a>  </li>	
+								<li>  <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - New footer data file MO','Search scooters and powered wheelchairs'])" href="/scooters-and-powered-wheelchairs/search-scooters-and-powered-wheelchairs/">Search scooters and powered wheelchairs</a>  </li>	
 				
 	
 			
@@ -1079,7 +1117,7 @@
 	
 						
 			
-							<li>  <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - Footer Datafile','Motability Operations'])" href="http://www.motabilityoperations.co.uk">Motability Operations</a>  </li>	
+								<li>  <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - New footer data file MO','Whats on and get involved'])" href="/whats-on-and-get-involved/">What's on and get involved</a>  </li>	
 				
 	
 			
@@ -1087,7 +1125,19 @@
 	
 						
 			
-							<li>  <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - Footer Datafile','Accessibility'])" href="/utilities/accessibility">Accessibility</a>  </li>	
+								<li>  <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - New footer data file MO','Contact us'])" href="/about-us/contact-us/">Contact us</a>  </li>	
+								</ul>
+						
+					</div>
+					<div class="fourcol">
+						
+								<h3>Quick links</h3>
+								<ul>
+				
+	
+				
+								<li> <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - New footer data file MO','Who we are '])" href="/about-us/who-we-are/">Who we are<br></a> </li>	
+								
 				
 	
 			
@@ -1095,7 +1145,8 @@
 	
 						
 			
-							<li>  <a onclick="_gaq.push(['_trackEvent','Update','Footer - Footer Datafile','Privacy'])" href="/utilities/privacy-and-cookies-policy">Privacy</a>  </li>	
+								<li>  <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - New footer data file MO','Frequently asked questions&nbsp;'])" href="/about-us/faqs/">Frequently asked questions&nbsp;</a>  </li>	
+								
 				
 	
 			
@@ -1103,7 +1154,8 @@
 	
 						
 			
-							<li>  <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - Footer Datafile','Glossary'])" href="/utilities/glossary">Glossary</a>  </li>	
+								<li>  <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - New footer data file MO','Information for healthcare professionals'])" href="/understanding-the-scheme/info-for-professionals/">Information for healthcare professionals</a>  </li>	
+								
 				
 	
 			
@@ -1111,7 +1163,8 @@
 	
 						
 			
-							<li>  <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - Footer Datafile','Careers'])" href="/about-us/working-for-us/">Careers</a>  </li>	
+								<li>  <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - New footer data file MO','Fundraise and support us'])" href="/whats-on-and-get-involved/fundraise-and-support-us/">Fundraise and support us</a>  </li>	
+								
 				
 	
 			
@@ -1119,7 +1172,23 @@
 	
 						
 			
-							<li>  <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - Footer Datafile','Dealers'])" href="/utilities/dealers-original">Dealers</a>  </li>	
+								<li>  <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - New footer data file MO','Press and media'])" href="/about-us/press-and-media/">Press and media</a>  </li>	
+								
+				
+	
+			
+				
+	
+								
+									
+								
+							
+						
+								
+						
+			
+								<li>   <a onclick="_gaq.push(['_trackEvent','External link','Footer - New footer data file MO','Investors'])" title="Opens in new window" class="external" href="http://www.motabilityoperations.co.uk/investors/" target="_blank">Investors<span class="access">Opens in new window</span><span></span></a>   </li>	
+								
 				
 	
 			
@@ -1127,32 +1196,89 @@
 	
 						
 			
-							<li>  <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - Footer Datafile','Sitemap'])" href="/sitemap/">Sitemap</a>  </li>	
+								<li>  <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - New footer data file MO','Careers'])" href="/about-us/working-for-us/">Careers</a>  </li>	
+								
+								</ul>
 						
-					</ul>
-					<p style="text-align: center;">Motability Registered Charity in England and Wales 299745</p><p style="text-align: center;">Motability Operations Limited is authorised and regulated by the Financial Conduct Authority under Interim Permission Number 067977. Please see our <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - Footer Datafile','Terms and Conditions'])" href="/utilities/terms-and-conditions">Terms and Conditions</a> for more information.</p>
-				</footer> 
+					</div>
+					<div class="fourcol last">
+						
+								<h3>Terms</h3>
+								<ul>
+				
+	
+				
+	
+			
+				
+	
+						
+			
+								<li>  <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - New footer data file MO','Terms and Conditions'])" href="/utilities/terms-and-conditions">Terms and Conditions</a>  </li>	
+								
+				
+	
+			
+				
+	
+						
+			
+								<li>  <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - New footer data file MO','Accessibility'])" href="/utilities/accessibility">Accessibility</a>  </li>	
+								
+				
+	
+			
+				
+	
+						
+			
+								<li>  <a onclick="_gaq.push(['_trackEvent','Update','Footer - New footer data file MO','Privacy and cookies'])" href="/utilities/privacy-and-cookies-policy">Privacy and cookies</a>  </li>	
+								
+				
+	
+			
+				
+	
+						
+			
+								<li>  <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - New footer data file MO','Glossary'])" href="/utilities/glossary">Glossary</a>  </li>	
+								
+								</ul>
+						
+					</div>
+				</div>
 			</div>
-			<div class="acceskey-links">
-				<a onclick="_gaq.push(['_trackEvent','Internal link','Footer - Footer Datafile','Skip navigation'])" accesskey="S" href="#content">Skip navigation</a>
-				<a onclick="_gaq.push(['_trackEvent','Internal link','Footer - Footer Datafile','Home Page'])" accesskey="1" href="/">Home Page</a>
-				<a onclick="_gaq.push(['_trackEvent','Internal link','Footer - Footer Datafile','Sitemap'])" accesskey="3" href="/sitemap/">Sitemap</a>
-				<a onclick="_gaq.push(['_trackEvent','Internal link','Footer - Footer Datafile','FAQs'])" accesskey="5" href="/utilities/faqs/">FAQs</a>
-				<a onclick="_gaq.push(['_trackEvent','Internal link','Footer - Footer Datafile','Terms and Conditions'])" accesskey="8" href="/utilities/terms-and-conditions">Terms and Conditions</a>
-				<a onclick="_gaq.push(['_trackEvent','Internal link','Footer - Footer Datafile','Feedback form'])" accesskey="9" href="/about-us/contact-us/feedback-form">Feedback form</a>
+			<div class="copy">
+				<div class="row">
+					<div class="ninecol">
+						<p>Motability is a Registered Charity in England and Wales 299745.<br>Motability Operations Limited is authorised and regulated by the Financial Conduct Authority under Interim Permission Number 067977.<br>Please see our <a onclick="_gaq.push(['_trackEvent','Internal link','Footer - New footer data file MO','Terms and Conditions'])" href="/utilities/terms-and-conditions">Terms and Conditions</a> for more information.</p>
+					</div>
+					
+						<div class="threecol last">
+						<ul class="social-links">
+						</ul>
+                </div>
 			</div>
 		</div>
+		<div class="acceskey-links">
+			<a onclick="_gaq.push(['_trackEvent','Internal link','Footer - New footer data file MO','Skip navigation'])" accesskey="S" href="#content">Skip navigation</a>
+			<a onclick="_gaq.push(['_trackEvent','Internal link','Footer - New footer data file MO','Home Page'])" accesskey="1" href="/">Home Page</a>
+			<a onclick="_gaq.push(['_trackEvent','Internal link','Footer - New footer data file MO','Sitemap'])" accesskey="3" href="/sitemap/">Sitemap</a>
+			<a onclick="_gaq.push(['_trackEvent','Internal link','Footer - New footer data file MO','FAQs'])" accesskey="5" href="/utilities/faqs/">FAQs</a>
+			<a onclick="_gaq.push(['_trackEvent','Internal link','Footer - New footer data file MO','Terms and Conditions'])" accesskey="8" href="/utilities/terms-and-conditions">Terms and Conditions</a>
+			<a onclick="_gaq.push(['_trackEvent','Internal link','Footer - New footer data file MO','Feedback form'])" accesskey="9" href="/about-us/contact-us/feedback-form">Feedback form</a>
+		</div>
  
-			
+	
 		
 		<!-- All scripts -->
-		<script src="/cs/MO_Common/scripts/js/lib/lib.min_14.0.4.js"></script>
+		<script src="/cs/MO_Common/scripts/js/lib/lib.min_14.3.1.js"></script>
 
 		<!--[if lt IE 9]>
 			<script src="/cs/MO_Common/scripts/js/lib/css3-mediaqueries.js"></script>
 		<![endif]-->
 		
-		<script src="/cs/MO_Common/scripts/js/main.min_14.0.4.js"></script>
+		<script src="/cs/MO_Common/scripts/js/main.min_14.3.1.js"></script>
 
 
 		<script src="/cs/MO_Common/scripts/js/lib/jwplayer.js"></script>
@@ -1161,4 +1287,4 @@
 
 	 
 
-</body></html>
+</div></body></html>
