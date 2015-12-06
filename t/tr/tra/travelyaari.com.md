@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the travelyaari.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507121335id_/http%3A//www.travelyaari.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelyaari.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206115743id_/http%3A//www.travelyaari.com/privacy) for the most accurate reproduction.*
 
-# Travelyaari.com - Privacy Policy
+# Privacy Policy - Travelyaari.com
 
-Travelyaari respects your privacy and recognizes the need to protect the personally identifiable information (any information by which you can be identified, such as name, address, and telephone number) you share with us. We would like to assure you that we follow appropriate standards when it comes to protecting your privacy on our web sites. In general, you can visit Travelyaari website without telling us who you are or revealing any personal information about yourself. We track the Internet address of the domains from which people visit us and analyze this data for trends and statistics, but the individual user remains anonymous. 
+Travelyaari respects your privacy and recognizes the need to protect the personally identifiable information (any information by which you can be identified, such as name, address, and telephone number) you share with us. We would like to assure you that we follow appropriate standards when it comes to protecting your privacy on our web sites. In general, you can visit Travelyaari website without telling us who you are or revealing any personal information about yourself. We track the Internet address of the domains from which people visit us and analyze this data for trends and statistics, but the individual user remains anonymous.
 
-There are times when we have to collect personal information from you such as name, physical address or telephone number. It is our intent to inform you before we do that and to tell you what we intend to do with the information. You can choose not to provide the information that we requested and still visit the Travelyaari website, but you may be unable to access certain options, offers and services. 
+There are times when we have to collect personal information from you such as name, physical address or telephone number. It is our intent to inform you before we do that and to tell you what we intend to do with the information. You can choose not to provide the information that we requested and still visit the Travelyaari website, but you may be unable to access certain options, offers and services.
 
-Travelyaari will take appropriate steps to protect the information you share with us. We have implemented technology and security features and strict policy guidelines to safeguard the privacy of your personally identifiable information from unauthorized access and improper use or disclosure. Travelyaari will continue to enhance our security procedures as new technology becomes available. 
+Travelyaari will take appropriate steps to protect the information you share with us. We have implemented technology and security features and strict policy guidelines to safeguard the privacy of your personally identifiable information from unauthorized access and improper use or disclosure. Travelyaari will continue to enhance our security procedures as new technology becomes available.
 
-If our privacy policy changes in the future, it will be posted here and a new effective date will be shown. You should access our privacy policy regularly to ensure you understand our current policies. Please reference the privacy policy in your subject line. Travelyaari will attempt to respond to all reasonable concerns or inquiries within five business days of receipt. 
+If our privacy policy changes in the future, it will be posted here and a new effective date will be shown. You should access our privacy policy regularly to ensure you understand our current policies. Please reference the privacy policy in your subject line. Travelyaari will attempt to respond to all reasonable concerns or inquiries within five business days of receipt.
 
-Thank you for using Travelyaari! 
+Thank you for using Travelyaari!
 
-We appreciate your business
+Travel Assured!
