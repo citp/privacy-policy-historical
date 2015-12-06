@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the republicoftea.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619014628id_/http%3A//www.republicoftea.com/Privacy-Policy/a/CS3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the republicoftea.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206235155id_/http%3A//republicoftea.com/privacy-policy/a/cs3) for the most accurate reproduction.*
 
 # Privacy Policy | The Republic of Tea
 
@@ -7,13 +7,13 @@
 
 
 
-**Effective July 27, 2014**
+**Effective August 27, 2015**
 
-[](http://privacy.truste.com/privacy-seal/The-Republic-of-Tea/validation?rid=ddb376b1-fe2f-4010-8409-60243ef46076 "TRUSTe European Safe Harbor certification")
+[](http://privacy.truste.com/privacy-seal/The-Republic-of-Tea/validation?rid=d3a16283-bfc7-4235-b3b4-fa5d93d7ca54 "TRUSTe Privacy Certification")
 
 This privacy policy describes how The Republic of Tea collects and uses the personal information you provide on our Web site: www.republicoftea.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This policy was last updated in August, 2014. 
 
-The Republic of Tea has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, www.republicoftea.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at citizenhelp@republicoftea.com or via phone at 800-298-4832. If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). 
+The TRUSTe program covers information collected through this Web site, www.republicoftea.com. In order to view our relationship with TRUSTe, please visit the validation page by clicking on the TRUSTe Seal. If you have questions or complaints regarding our privacy policy or practices, please contact us at citizen help@republicoftea.com or via phone at 800-298-4832. If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). 
 
 The Republic of Tea complies with the U.S. -E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. The Republic of Tea has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforement. To learn more about the Safe Harbor program, and to view The Republic of Tea's certification, please visit [here.](http://www.export.gov/safeharbor/)
 
@@ -47,7 +47,7 @@ We use this information to:
 
 
 
-If you choose to send a product to a different recipient, we will also collect that person’s name, shipping address, phone number and email address. We [store/ do not store] this information for the sole purpose of completing your order and will not use this collected third party information for any other purpose. Your friend may contact us at citizenhelp@republicoftea.com to request that we remove this information from our database. 
+If you choose to send a product to a different recipient, we will also collect that person’s name, shipping address, phone number and email address. We store this information for the sole purpose of completing your order and will not use this collected third party information for any other purpose. Your friend may contact us at citizenhelp@republicoftea.com to request that we remove this information from our database. 
 
 **Information Sharing**
 
@@ -61,7 +61,7 @@ The Republic of Tea has implemented a variety of security measures to maintain t
 
 **Security**
 
-Our website is secured by Verisign. Click the seal below to find out more info. 
+Our website is secured by Norton Secure. Click the seal below to find out more info. 
 
 **Does The Republic of Tea provide a way to update or remove personal information?**
 
@@ -77,12 +77,18 @@ If you would rather not receive this information, or would like to opt-out of re
 
 A cookie is a small piece of information sent by a web site that is saved on your hard disk by your computer's browser. The cookie holds information a site may need to personalize your experience and to gather web site statistical data, such as which pages are visited, the internet provider's domain name and country that our visitors come from (e.g. "aol.com" or "msn.com") and the addresses of the sites visited immediately before coming to and immediately after leaving The Republic of Tea.com. However, none of this information is associated with you as an individual. It is measured anonymously and only in the aggregate. The information in the cookies lets us trace your "clickstream" activity (i.e., the paths take by visitors to our site as they move from page to page). Cookies do not capture your individual email address or any private information about you. 
 
-The Republic of Tea may use third-party companies to provide tracking and analysis of information and data collected from visitors to our web site. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous and The Republic of Tea reserves the right to provide that information and data to these third parties.   
+The Republic of Tea may use third-party companies to provide tracking and analysis of information and data collected from visitors to our web site. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous and The Republic of Tea reserves the right to provide that information and data to these third parties. The Republic of Tea also may also use Local Storage, such as HTML5, to store content information and preferences. Various browsers may offer their own management tools for removing HTML5.   
 The use of cookies and action tags by these third-party companies is covered by our privacy policy. We do not have access or control over these cookies. To browse without cookies, you can configure your browser to reject all cookies, or to notify you when a cookie is set. Each browser is different so check the "Help" menu of your browser to learn how to change your cookie preferences. Even without accepting a cookie, you can still access most of the features on The Republic of Tea. 
 
 **Behavioral Targeting/Re-Targeting**
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking Here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/)(or if located in the European Union, click [here](http://www.youronlinechoices.eu/)). . Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
+
+**First and Third Party Scripts**
+
+We use technologies such as scripts in analyzing trends, administering the website, tracking users’ movements around the site, and gathering demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis. 
+
+We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as scripts to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. 
 
 **Widgets**
 
