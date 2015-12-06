@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the s1jobs.com privacy policy that was archived on 2015-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608040812id_/http%3A//www.s1jobs.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the s1jobs.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206141845id_/http%3A//www.s1jobs.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" async="" src="//s3.amazonaws.com/ki.js/47210/d6F.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//a1.vdna-assets.com/analytics.js" async=""></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" async="" src="//s3.amazonaws.com/ki.js/47210/d6F.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//a1.vdna-assets.com/analytics.js" async=""></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="alternate" media="only screen and (max-width: 640px)" href="http://mobile.s1jobs.com/privacy">
@@ -12,6 +12,7 @@
 <![endif]-->
 
 <link href="/ui/css/s1jobs-print.min.css" rel="stylesheet" type="text/css" media="print">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css">
 <link href="/ui/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <script type="text/javascript" src="/s1js/libs/jquery-1.6.min.js"></script>
@@ -27,7 +28,7 @@
 <script src="//cdn.optimizely.com/js/2558911166.js"></script>
 
 
-<script type="text/javascript" src="https://rtax.criteo.com/delivery/rta/rta.js?netId=2740&amp;cookieName=crtg_newsquest2&amp;rnd=30858826185&amp;varName=crtg_content" async=""></script></head>
+<script type="text/javascript" src="https://rtax.criteo.com/delivery/rta/rta.js?netId=2740&amp;cookieName=crtg_newsquest2&amp;rnd=53719666414&amp;varName=crtg_content" async=""></script></head>
 
 <body id="search">
 <div id="wrapper">
@@ -148,8 +149,8 @@
                 <li class="recruiters-nav"><a href="/recruiters/" class="current" title="recruiters">recruiters</a></li>
             </ul>
             <ul id="sub-menu">
-                <li><a href="/recruiterprofiles.html">recruiter profiles</a></li>
-                <li><a href="/myaccount/career-profile/select/" rel="nofollow">create a cv/career profile</a></li>
+                <li><a href="/company_profiles/">company profiles</a></li>
+                <li><a href="myaccount/career-profile/select/" id="create-cv" rel="nofollow">create a cv/career profile</a></li>
             </ul>
         <div id="message-bar">
 			<p style="margin:0; line-height:28px; display:none" id="crm-message"></p>
@@ -283,7 +284,7 @@ twttr.conversion.trackPid('l63uj',
  </script>
 
  <script type="text/javascript">
- var s_account="newsquests1jobsdesktopprod,newsquests1jobsprod,newsquests1groupprod,newsquestgroupprod";
+	var s_account="newsquests1groupprod,newsquestgroupprod";
  </script>
  <script type="text/javascript" src="/omniture_s1.js"></script>
  <script language="JavaScript" type="text/javascript"><!--
@@ -391,30 +392,28 @@ if(getCookie('mys1_eid')){
     s.prop44 = myk;
  }
 
-/* var myTest = "<tmpl_var name=query_string>";
- if (myTest.length > 0 && (! myTest.match(/tmpl_var/))) {
-    if (myTest.match(/location=([^&]+)/)) {
-       var myLoc = unescape(RegExp.$1);
- 	    myLoc     = myLoc.replace(/^.+--[ -]*([^-]+)$/, "$1");
-    }else{
-    	// If there is no location set send default as perl strips location from the
-    	// query string if user selects anyhwere in scotland
-    	myLoc = "Default";
-    }
-     s.prop46  = myLoc;
- }*/
-
-/*
- * 	CF Replace s.prop46 data from the rs1 cookie (as this is always available, unlike query string)
- */
+/* Extract Location data from RS1 cookie for reporting variable*/
 if(getCookie('rs1')){
-	var cookieData = decodeURI(getCookie('rs1')).split("|");
-	cookieData = cookieData[1].split("in ");
-	cookieData = cookieData[1].split(" containing");
-	cookieDataLocation = cookieData[0].replace("%2F", "/");
-	s.prop46 = cookieDataLocation;
+	var cookieData = decodeURI(getCookie('rs1')).replace("%2F", "/").split("|"),
+		cookieDataLocation = "";
+	
+	if(cookieData[1].match(/\s+(in)\s+/)){
+		cookieData = cookieData[1].split("in ");
+		cookieDataLocation = cookieData[1];
+		
+		if(cookieData[1].match(/\s+(containing)\s+/)){
+			cookieData = cookieData[1].split(" containing");
+			cookieDataLocation = cookieData[0];
+		}
+		
+		s.prop46 = cookieDataLocation;
+	}else{
+		s.prop46 = "Default";
+	}
+}else{
+	s.prop46 = "Default";
 }
-
+ 
 if(unescape("<tmpl_var name=summary>")){
 	myk_tmp = unescape("<tmpl_var name=summary>");
 	myk_frags = myk_tmp.split(" jobs ");
@@ -559,25 +558,29 @@ var google_remarketing_only = true;
 </noscript>
 <!-- /Google Code for Remarketing Tag -->
 
-<!-- Facebook Custom Audience Sensor Tag -->
-<script>(function() {
-var _fbq = window._fbq || (window._fbq = []);
-if (!_fbq.loaded) {
-var fbds = document.createElement('script');
-fbds.async = true;
-fbds.src = '//connect.facebook.net/en_US/fbds.js';
-var s = document.getElementsByTagName('script')[0];
-s.parentNode.insertBefore(fbds, s);
-_fbq.loaded = true;
-}
-_fbq.push(['addPixelId', '973878949318811']);
-})();
-window._fbq = window._fbq || [];
-window._fbq.push(['track', 'PixelInitialized', {}]);
-</script>
-<noscript><img height="1" width="1" alt="" style="display:none" src="http://www.facebook.com/tr?id=973878949318811&amp;ev=PixelInitialized" /></noscript>
-<!-- /Facebook Custom Audience Sensor Tag -->
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
 
+fbq('init', '1244031462289460');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1244031462289460&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<script>
+function trackConversionEvent2(val, cny) {		
+	var cd = {};		
+	cd.value = val;		
+	cd.currency = cny;		
+	_fbq.push(['track', '6026432601311', cd]);		
+}
+</script>
 <div id="skyscraper-target"></div>
    
 <script type="text/javascript" src="http://c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
@@ -752,6 +755,22 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
     	//an array is valid
     	targeting.qcSegments = qcParts;
 	}
+	
+	if(getCookie("mys1_eid")){
+		targeting.userLoggedIn = "1";
+	}
+	
+	$.ajax({
+		method: "GET",
+		url: "/user-has-cv.cgi",
+		async: false,
+		dataType:'json',
+		success: function(data){
+			if(data[0]["has_cv"] == "1"){
+				targeting.userHasCV = "1";
+			}
+		}
+	});
 
 	var googlePath = '/' + path[6];
 	var googleId = '/'+googleNetworkCode+'/'+googleSiteName+googlePath;
