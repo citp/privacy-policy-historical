@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihispano.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144624id_/http%3A//www.ihispano.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihispano.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206145757id_/http%3A//www.ihispano.com/privacy-policy) for the most accurate reproduction.*
 
 # iHispano.com | Privacy Policy | Latino Professional Networking and Job Search
 
