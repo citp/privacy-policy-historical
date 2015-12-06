@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the westernu.edu privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608034853id_/https%3A//www.westernu.edu/westernu-resources/westernu-policy-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westernu.edu privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206040311id_/https%3A//www.westernu.edu/westernu-resources/westernu-policy-privacy) for the most accurate reproduction.*
 
 # Resources – Western University of Health Sciences » Privacy Policy
+
+### Privacy Policy
 
 Western University reserves the right to use and implement cookies or allow its affiliated entities to do so. The University does not control, nor have any access to, the cookie information affiliated entities may collect. If a Web visitor chooses not to accept these cookies, the browsing experience on some sections of the University’s site and its related sites may be diminished, and some features may not work as intended.
 
