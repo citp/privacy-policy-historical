@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guildedage.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144831id_/http%3A//guildedage.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildedage.net privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206163218id_/http%3A//guildedage.net/privacy-policy) for the most accurate reproduction.*
 
 # Guilded Age » Privacy Policy
 
