@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volunteerhub.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607170409id_/http%3A//www.volunteerhub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volunteerhub.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206040852id_/http%3A//www.volunteerhub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - VolunteerHub Protects Volunteer Organizations
 
@@ -73,7 +73,7 @@ To find other contact details for VolunteerHub, see [www.volunteerhub.com.](htt
 
 **Safe Harbor Information**
 
-CEI complies with the US-EU Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  CEI has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern.  To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
+CEI complies with the US-EU and US-Swiss Safe Harbor Frameworks as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  CEI has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern.  To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
 
 In compliance with the US-EU and US-Swiss Safe Harbor Principles, CEI commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact CEI at:
 
