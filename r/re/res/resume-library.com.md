@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resume-library.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629155843id_/http%3A//www.resume-library.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resume-library.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206020926id_/http%3A//www.resume-library.com/privacy) for the most accurate reproduction.*
 
 # Terms & Conditions | Privacy Policy | Resume-Library.com
 
@@ -43,6 +43,12 @@ Resume-Library gathers general information about users, for example, what servic
 ### Security
 
 The site is protected against unauthorised access using the latest security devices and 'firewalls'.
+
+Similar to the spam you receive in your personal email inbox, fraudsters have started creating false job offers in an attempt to gather personal details. We consistently monitor job postings on the site and we are committed to ensuring that jobs listed on Resume-Library.com are legitimate and comply with our terms & conditions.
+
+At no point during the application process with Resume-Library should you be asked to complete any monetary transactions or provide personal information beyond your resume.
+
+If you notice anything suspicious, we advise you to email us on [help@resume-library.com](mailto:help@resume-library.com) and stop communication with the recruiter or employer. For more information on how to spot scam emails, take a look at this blog [post](http://www.resume-library.com/discover/?p=410).
 
 ### Other ways of ensuring your privacy:
 
