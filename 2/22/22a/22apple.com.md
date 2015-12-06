@@ -1,51 +1,21 @@
-> *The following text is extracted and transformed from the 22apple.com privacy policy that was archived on 2014-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140314182427id_/http%3A//www.22apple.com/static/22apple/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 22apple.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140103id_/http%3A//www.22apple.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy 
+### Privacy Policy
 
-Banyan Tree's privacy policies explain how we treat your personal data and protect your privacy when you use our Services. By using our Services, you agree that Banyan Tree can use such data in accordance with our privacy policies. 
+Beijing Elex Technology Co. Ltd. (''Elex'') is committed to preserving the privacy of our users. This Privacy Statement explains which information we collect and how we use it.
 
-We collect information to provide better services to all of our users - from figuring out basic stuff like which language you speak, to more complex things like which app you'll find most useful. 
+The Elex website (''Elex Website'') entitles our users to use Elex software (the ''Software), both online and after downloading it. To improve our site, we use cookies to save our users' usernames and passwords so that they don't have to re-enter them each time they visit the Elex site. We might also use cookies in the Software to allow us to track from which vendor users purchased Elex. We also offer our users the option of receiving Help Desk support and our newsletters. As part of the registration process, after downloading the Software, Elex requests the following information: the user's age range, gender, country, zip code, e-mail address and general interests. The purpose of gathering this information is to help Elex provide better service to our users and aggregate information to third parties interested in usage patterns of different demographic groups. Elex may share information about users with business partners, sponsors and other third parties; however, we do so only in the aggregate and never on a personal basis. Personal information might be collected also via live chat, contact form and telephone support. This basic information will be used in order to help users with their requests when contacting Elex.
 
-Information we get from your use of our services: 
+Elex uses this information to contact our users with information related to our Software and services provided through the Elex Website (''Services''), to personalize the Services, to help us understand the use of the Services, and to describe the Elex customer base in general terms to prospective users and the media. When our customers use the Software and Services, we collect and categorize aggregated data, which remains anonymous.
 
-**Device information**
+Our users can at any time add, remove or revise e-mail addresses and any other information previously provided to Elex, as well as opting-out of receiving our newsletter by sending an email to [sales@22find.com](https://web.archive.org/web/20151206140103id_/http%3A//www.22apple.com/sales@22find.com) or by revising the registration form provided with the downloaded software. When downloading the Trial version of Elex users MUST supply their email address and fill in the registration form. We use this information only in the aggregate, and to send newsletters about the Software, and in order to send a license code for Elex.
 
-We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number). Banyan Tree may associate your device identifiers or phone number with your Banyan Tree Account. 
+The Elex Website contains links to other sites from which the Software can be downloaded. Elex does not share any information provided by our users with these sites. Additionally, Elex is not responsible for the privacy practices or the content of such websites.
 
-**Log information**
+From time to time, we may also ask users, optionally, to fill out an online survey to assist us in evaluating the demand for new versions of our Software. These surveys ask visitors for contact information (i.e., name and email address), to facilitate notifying interested customers of new products and services offered by Elex.
 
-When you use our services or view content provided by Banyan Tree, we may automatically collect and store certain information in server logs. This may include: 
+We also have security measures (such as firewall protection on our servers and PC's) installed to protect the loss, misuse and alteration of the user information under our control. Users should also be aware of the following: a. The details users elect to post during the registration procedure or thereafter become the property of Elex upon receipt by Elex; b. Elex checks for the following information when using Elex software: your operating system, Elex Software version, browser version, connectivity, and information regarding your use and the configuration of the Elex Software ("Parameters") . Parameters are collected in order to provide you with the Software and Services subject to the provisions of this privacy policy hereof and of the Elex's License Agreement (the "License"), as well as in order to verify that the terms and conditions of the License are not being violated; c. Elex gathers information related to our users' use of the our Software (''Usage Patterns'') to better understand how such users, as a group, use the software and the various features thereof, as well as to help Elex tailor offerings to user groups with specific profiles, and to conduct market research. The Parameters and the Usage Patterns may be used in the aggregate for commercial purposes, including without limitation, for marketing, co-registration to other services, promotional activities or any other activity, including, without limitation, the protection of Elex's proprietary and other rights all subject to the provisions herein.
 
-Details of how you used our service, such as your search queries. 
-
-Device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL. 
-
-**Unique application numbers**
-
-Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Banyan Tree when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates. 
-
-**Cookies and anonymous identifiers**
-
-We use various technologies to collect and store information when you visit a Banyan Tree service, and this may include sending one or more cookies or anonymous identifiers to your device. We also use cookies and anonymous identifiers when you interact with services we offer to our partners, such as advertising services or Banyan Tree features that may appear on other sites. 
-
-**How we use information we collect**
-
-We use the information we collect from all of our services to provide, maintain, protect and improve them, to develop new ones, and to protect Banyan Tree and our users. We also use this information to offer you tailored content - such as giving you more useful apps and information. 
-
-We use information collected from cookies and other technologies, like pixel tags, to improve your user experience and the overall quality of our services. For example, by saving your language preferences, we'll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate a cookie or anonymous identifier with sensitive categories, such as those based on race, religion, sexual orientation or health. 
-
-Banyan Tree processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live. 
-
-Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. 
-
-We also have security measures (such as firewall protection on our servers and PC's) installed to protect the loss, misuse and alteration of the user information under our control. 
-
-Users should also be aware of the following: 
-
-a. The details users elect to post during the registration procedure or thereafter become the property of Banyan Tree upon receipt by Banyan Tree; 
-
-b. Banyan Tree checks for the following information when using Banyan Tree software: your operating system, Banyan Tree Software version, browser version, connectivity, and information regarding your use and the configuration of the Banyan TreeSoftware ("Parameters") . Parameters are collected in order to provide you with the Software and Services subject to the provisions of this privacy policy hereof and of the Banyan Tree's License Agreement (the "License"), as well as in order to verify that the terms and conditions of the License are not being violated; 
-
-c. Banyan Tree gathers information related to our users' use of the our Software (''Usage Patterns'') to better understand how such users, as a group, use the software and the various features thereof, as well as to help Banyan Tree tailor offerings to user groups with specific profiles, and to conduct market research. The Parameters and the Usage Patterns may be used in the aggregate for commercial purposes, including without limitation, for marketing, co-registration to other services, promotional activities or any other activity, including, without limitation, the protection of Banyan Tree's proprietary and other rights all subject to the provisions herein. 
+Questions about this privacy statement should be directed to [sales@22find.com](https://web.archive.org/web/20151206140103id_/http%3A//www.22apple.com/sales@22find.com).
