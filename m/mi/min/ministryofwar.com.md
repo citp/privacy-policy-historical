@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ministryofwar.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175335id_/http%3A//www.ministryofwar.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ministryofwar.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206101931id_/http%3A//www.ministryofwar.com/pages/privacy) for the most accurate reproduction.*
 
 # Ministry of War : Free To Play MMORTS - Play Instantly
 
