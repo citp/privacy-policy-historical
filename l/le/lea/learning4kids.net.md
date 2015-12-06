@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learning4kids.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142359id_/http%3A//www.learning4kids.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learning4kids.net privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035549id_/http%3A//www.learning4kids.net/privacy) for the most accurate reproduction.*
 
 # Privacy | Learning 4 Kids
 
