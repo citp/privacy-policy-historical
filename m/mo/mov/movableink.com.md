@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movableink.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504072318id_/http%3A//movableink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movableink.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206173952id_/http%3A//movableink.com/privacy) for the most accurate reproduction.*
 
 # Movable Ink | Agile Email Marketing
 
