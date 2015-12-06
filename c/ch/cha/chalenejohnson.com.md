@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chalenejohnson.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142725id_/http%3A//chalenejohnson.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chalenejohnson.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206162859id_/http%3A//www.chalenejohnson.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Chalene Johnson Official Site | Create the Fit Life You Deserve
+# Privacy Policy - Chalene Johnson Official Site
 
 **What information do we collect?**
 
@@ -71,8 +71,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.chalenejohnson.com
-
+http://www.chalenejohnson.com  
 65 Enterprise Suite #345  
 Aliso Viejo, California 92565  
 United States  
