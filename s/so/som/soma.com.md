@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the soma.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607071746id_/http%3A//www.soma.com/store/page.jsp%3Fid%3D57%26ICID%3Dfooter_privacyandsecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soma.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206113248id_/http%3A//www.soma.com/store/page.jsp%3Fid%3D57%26ICID%3Dfooter_privacyandsecurity) for the most accurate reproduction.*
 
 # Privacy Policy - Soma
 
-Revision Date: March 6, 2014
+Revision Date: June 29, 2015
 
 We know that your privacy is important to you. It is important to us. So, please read our privacy policy (the “Privacy Policy”). 
 
@@ -69,7 +69,7 @@ Our site uses “cookies” which are small data files stored on your computer�
 
 ## Third Party Ads
 
-We use a third party provider to place our internet ads. The provider may collect anonymous information about your visits to our site and your interaction with our products and services. The provider may also use information about your visits to this and other sites to target advertisements for merchandise and services. This anonymous information is collected through the use of a pixel tag which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process. The provider does not know your first and last name, address, phone number, email address or any of your other personally identifiable information. If you would like more information about this practice and your option to not have this anonymous information used by our third party provider, [click here](http://www.networkadvertising.org/choices/#completed). To opt-out of 1st party data collection for targeted advertising on other sites, click here: [Opt Out Now.](http://webmedia.soma.com/optout.html)
+We use a third party provider to place our internet ads. The provider may collect anonymous information about your visits to our site and your interaction with our products and services. The provider may also use information about your visits to this and other sites to target advertisements for merchandise and services. This anonymous information is collected through the use of a pixel tag which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process. The provider does not know your first and last name, address, phone number, email address or any of your other personally identifiable information. If you would like more information about this practice and your option to not have this anonymous information used by our third party provider, [click here](http://www.networkadvertising.org/choices/#completed). 
 
 ## Security
 
