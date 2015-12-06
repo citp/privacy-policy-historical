@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the ioncube.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101133921id_/http%3A//www.ioncube.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ioncube.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206104317id_/http%3A//www.ioncube.com/pp.php) for the most accurate reproduction.*
 
-# PHP Encoder, protection, installer and performance tools from ionCube:
+# - PHP Encoder, protection, installer and performance tools from ionCube
 
 PRIVACY POLICY FOR IONCUBE.COM 
 
-As providers of the ionCube.com Online PHP Encoding Service, the "Service", we regard the privacy of our members data as crucial to all concerned, and this statement reflects our sincere commitment to providing a secure and safe service and environment for every member. 
+As providers of the ionCube.com Online PHP Encoding Service, the ionCube website, community forum, support helpdesk, members' area, and other facilities that may be made available from time to time, collectively termed the "Service", we regard the privacy of our members data as crucial to all concerned, and this statement reflects our sincere commitment to providing a secure and safe Service and environment for every member. 
 
 INFORMATION GATHERING AND USE 
 
-The Service gathers and keeps only the minimal information as is necessary to provide a reasonable and satisfactory service. Members information will not be imparted in any form whether for profit or otherwise in ways different from those which are disclosed in this statement. Currently this means that the information is not disclosed to anyone. 
+The Service gathers and keeps only the minimal information as is necessary to provide a reasonable and satisfactory service. Members' information will not be imparted in any form whether for profit or otherwise in ways different from those disclosed in this statement. Currently this means that the information is not disclosed to anyone. 
 
-INFORMATION FOR PURCHASE OF CREDITS 
+INFORMATION FOR ONLINE PURCHASES 
 
-For your security, information gathered and processed for effecting the purchase of credits is handled on a secure server by a trusted company whose proven business is performing such transactions. Contact information is passed back to the Service for the purposes of order matching and contacting you in the event it is necessary in relation to a particular order, however no information is returned concerning account details of credit or debit cards. 
+For your security, information gathered and processed for effecting a purchase is handled on a secure server by third parties specialising in payment processing. Processing information is passed back to the Service for the purposes of order matching, however no information is returned concerning account details of credit or debit cards. 
 
 THE USE OF COOKIES 
 
-A cookie is a piece of data stored on the members computer containing information sent from the Service, and it's passed to the Service when the user requests pages. The Service uses a cookie to establish and authenticate a private session between a member and the Service. Cookies cannot be used to obtain any information from the users computer other than that which was stored in the cookie by the Service in the first place. The cookie is invalidated and may be deleted by the members browser when the member elects to log out of the Service. 
+A cookie is a piece of data stored on a visitor's computer containing information sent from the Service. It is passed to the Service when the user requests pages. The Service uses a cookie to establish and authenticate a private session between a member and the Service. Cookies cannot be used to obtain any information from the users computer other than that which was stored in the cookie by the Service in the first place. The cookie is invalidated and may be deleted by the member's browser when the member elects to log out of the Service. For more details, see our [Cookies Policy](https://web.archive.org/web/20151206104317id_/http%3A//www.ioncube.com/cookies_policy.php). 
 
 TRANSACTION AND LOG FILES 
 
@@ -32,6 +32,8 @@ In particular because using the Service requires a member to disclose the very c
 
 The site stores source code in a secure area that is unique to each member, and in a way that prohibits access in or out during encoding and archive unbundling. Source files are kept purely for the purpose of encoding, and once encoded, whether successfully or unsuccessfully, source files are removed. Despite being tested, this process will be monitored to ensure that no unforseen event occurred that caused the removal process to fail. In the event that it did, we will investigate this thoroughly until the cause can be identified and resolved. 
 
-As stated above, secure credit card processing is performed by a third party who specialise in such transactions, and who use 128 bit encryption on an SSL server. In testing we have noticed that the latest Opera browsers on at least Linux incorrectly report that the checkout page is unsecured. This is incorrect, and is a bug in Opera that we have reported, although to which we have received no feedback. Rest assured that the page is secure, as shown by other browsers, and that refreshing the page with Opera then correctly shows the page to be secure, and can be done before any sensitive information is passed for processing. 
+TRACKING and MONITORING 
 
-(c) ionCube Ltd. Updated July 23 2002 
+ionCube works with third parties for the purposes of fault detection, performance measurement, targeted information based on users' interests and conversion tracking. Third party services and interest-based advertising can sometimes be opted out of through the Do Not Track functionality of the web browser (if provided). Twitter promotions may be run from time to time, and can be opted out of as described [here](https://support.twitter.com/articles/20170405). 
+
+(c) ionCube Ltd. Updated August 25th 2015 
