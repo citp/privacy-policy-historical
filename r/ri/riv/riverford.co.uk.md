@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riverford.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607150254id_/http%3A//www.riverford.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riverford.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206051827id_/http%3A//www.riverford.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -31,7 +31,7 @@ You can ask us whether we are keeping personal data about you by:
 
   * sending an email to [help@riverford.co.uk](mailto:help@riverford.co.uk?subject=access%20to%20my%20personal%20data)
   * sending postal mail to Riverford Organic Farms Ltd, Buckfastleigh, Devon TQ11 0JU, UK
-  * calling us on 01803 762059
+  * calling us on 01803 227227
 
 
 
@@ -44,6 +44,6 @@ if you have an enquiry or concern about our privacy policy, please contact us:
   * sending an [email help@riverford.co.uk](mailto:help@riverford.co.uk?subject=access%20to%20my%20personal%20data)
   * sending postal mail to Riverford Organic Farms Ltd, Buckfastleigh, Devon TQ11 0JU, UK  
 
-  * calling us on 01803 762059
+  * calling us on 01803 227227
 
 
