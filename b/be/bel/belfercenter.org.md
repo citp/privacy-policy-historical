@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belfercenter.org privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129092925id_/http%3A//belfercenter.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belfercenter.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140609id_/http%3A//belfercenter.org/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Harvard - Belfer Center for Science and International Affairs
 
