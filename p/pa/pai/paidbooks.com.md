@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paidbooks.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607031045id_/http%3A//www.bitcoinaliens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidbooks.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206163717id_/http%3A//www.bitcoinaliens.com/privacy-policy) for the most accurate reproduction.*
 
 # Bitcoin blog, news, and free bitcoin faucet – Bitcoin Aliens – Privacy Policy
 
@@ -146,22 +146,21 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 **•** Follow the instructions at the bottom of each email.
 
-**Contacting Us**
+**Mobile Apps Data / Privacy**
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+Our apps DO NOT collect precise information about the location of your mobile device, phone numbers or other sensitive personal information.
 
-http://www.bitcoinaliens.com
+Our apps obtain the information you provide to us, you’ll need to register your Bitcoin wallet address in order to get paid from us, and you would need to provide a valid email address to claim ownership of your account. You may provide a fake email address and still get paid, but your support options will be severely limited and you will not be able to change your Bitcoin address without a valid email.
 
-New York
+We may also use the email address you provided us to contact your from time to time to provide you with important information, required notices and marketing promotions.
 
-USA
+We collect certain data including but not limited to your device name (apple devices) or device id (android devices), and remote IP address to prevent abuse of our system.
 
-15 W 37th St
+Our included advertisement networks may use the advertising identifier IDFA or device id for limited ad tracking purposes.
 
-NY
+We make reasonable efforts to help protect any data provided against unauthorized access and unauthorized alteration, disclosure or destruction. However, we cannot guarantee absolute protection against actions outside our control, such as computer “hacking” and physical theft. all data is provided to us at your own risk.
 
-10018
+By using any of our applications, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us.
 
-support [at] bitcoinaliens.com
-
-Last Edited on 2014-09-14
+ **Mobile Apps Contact**  
+If you have any questions about our practices, please contact us via email at bigbirdmarketing@gmail.com. Please use this address ONLY for mobile apps queries/support – please use the main address below for any website issues.
