@@ -1,20 +1,23 @@
-> *The following text is extracted and transformed from the retrotogo.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627125305id_/http%3A//www.modculturemedia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retrotogo.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035824id_/http%3A//www.modculturemedia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Mod Culture: The use of cookies on our sites and our privacy policy
 
-Like the majority of websites in the world, this one uses cookies - small text files stored on your computer by your browser, which help us to develop the site by checking traffic on the websites we run, support affiliate programs or post ads that are relevant to site users. They do not include personal information (like your name, for example) and do not damage files.
+Like the majority of websites in the world, this one uses cookies - small text files stored on your computer by your browser, which help us to develop the site by checking traffic on the websites we run, support affiliate programs or post ads that are relevant to site users. They do not include personal information (like your name, for example) and do not damage files. 
 
 We may use this information (and share it with third party business partners) to observe your internet use and to compile data in order to improve the site, target advertising to you and assess general effectiveness of such advertising.
 
-By using our website, we are presuming our visitors have read and accepted our cookie policy. If you do not agree with cookies being used, the information below will explain how to stop using cookies and how to opt out of the ones used on our sites. 
+If the settings on your browser or software you use to view this website are adjusted to accept cookies we take this, and your continued use of the site, to mean that you are fine with cookie use. If you do not agree with cookies being used, the information below will explain how to stop using cookies and how to opt out of the ones used on our sites.
 
 Note that we take no responsibility with regard to any changes you make to your own computer. It is your own choice if you turn off cookies in your web browser - and your browsing experience across various websites may be diminished.
 
-Any changes to this policy will be posted here. We reserve the right to vary this Cookie Policy from time to time, with changes effective as soon as they are posted. 
+Any changes to this policy will be posted here. We reserve the right to vary this Cookie Policy from time to time, with changes effective as soon as they are posted.
 
-**Our use of cookies:**
+**Important footnote:  
+** Please note that you can learn about online advertising and cookies at [Your Online Choices](http://www.youronlinechoices.com/uk/), with the option to opt out of almost all advertising cookies at the [same site](http://www.youronlinechoices.com/uk/your-ad-choices). Opting out doesn’t necessarily mean you will not see ads, but they will not be tailored to you after you opt out.
 
-We may collect information automatically when you visit the website, using cookies. You can choose not to allow cookies. If you do, we can't guarantee that your experience with the website will be at the standard as allowing cookies.
+ **Our use of cookies:**
+
+We may collect information automatically when you visit the website, using cookies. You can choose not to allow cookies. If you do, we can't guarantee that your experience with the website will be at the standard as allowing cookies or that the site will function correctly.
 
 As we said previously, the information collected by cookies does not personally identify you - it includes general information about your computer settings, your connection to the Internet eg operating system and platform, IP address, your browsing patterns and timings of browsing on the website and your location.
 
@@ -32,8 +35,10 @@ Most internet browsers accept cookies automatically, but you can change the sett
 
 We use the following cookies on this site, which you can opt out of via the provided links. Again, please consider carefully before you do this, as your actions will impact on all sites visited using these cookies, not just this one.
 
+**Important:** We work with Google via Google Analytics and Google Adsense. You can [find out how Google uses data when you use this site here](http://www.google.com/intl/en/policies/privacy/partners/). In addition, you can [control the information sent to Google here](http://www.google.com/intl/en/policies/privacy/partners/). Google also has a [Q&A about ads here](https://support.google.com/ads/answer/1634057?hl=en&rd=1).
+
  **Google Analytics:**  
-We used Google Analytics on this site to monitor general traffic in order to improve the performance and content of those site. In short, we use the traffic data to do things better.
+We use Google Analytics on this site to monitor general traffic in order to improve the performance and content of those site. In short, we use the traffic data to do things better.
 
 If you do not want to be included in this data, you can [opt out here](https://tools.google.com/dlpage/gaoptout).
 
@@ -49,6 +54,9 @@ Our websites contain some affiliate links for the Amazon Associates program. If 
 **Post Affiliate Pro:**  
 One of out third-party affiliates (End Clothing) uses the Post Affiliate Pro software to monitor sales, which in turn uses cookies to track traffic from our sites to the retailer. The program is run by Quality Unit, with details of their Privacy Policy and cookies [found here](http://www.qualityunit.com/company/privacy-policy-quality-unit/).
 
+**Affiliate Window:**  
+We work with Affiliate Window for affiliate marketing for a select group of retailers. Again, you can read the Privacy Policy of this company and details of cookies[ here](http://www.affiliatewindow.com/documents/Privacy%20Policy.pdf).
+
  **Other ad-management services:**  
 We do not currently use other ad-serving programs, but when we do, we will list any details here in regards to cookies.
 
@@ -57,11 +65,15 @@ Some of the Modculture sites run on the Typepad platform. A cookie is used in th
 
 You can find out more and opt out of the Typepad cookie [here](http://help.typepad.com/typepad-and-cookies.html).
 
+**Disqus:**  
+We use the Disqus commenting system on some of our sites, with the option to log in and be remembered for future comments. This does, of course, use cookies. Details of blocking cookies for the company in your browser [can be found here](https://help.disqus.com/customer/portal/articles/466235-use-of-cookies).
+
  **Third-party service cookies:**
 
 Some third-party services are occasionally used in conjunction with our websites and could use cookies. If you want to opt out of these services, the details for doing that are found in the following places:  
 [Facebook](http://www.facebook.com/about/privacy/your-info-on-other) (social network)  
 [Twitter](https://twitter.com/privacy) (social network)  
+[Pinterest](https://about.pinterest.com/en/privacy-policy) (social network)  
 [YouTube ](http://www.google.com/intl/en/policies/privacy/faq/#toc-cookies)(video player)  
 [Nrelate](http://nrelate.com/privacy-policy/) (related links)  
 [Vimeo](http://vimeo.com/privacy) (video player)
@@ -114,6 +126,6 @@ We are not responsible for the privacy policies and practices of other sites eve
 
 **Further information**
 
-For further information from us on data protection and privacy or any requests concerning your personal information please [email us](https://web.archive.org/web/20150627125305id_/http%3A//www.modculturemedia.com/info@modculturemedia.com) via the Modculture Media site.
+For further information from us on data protection and privacy or any requests concerning your personal information please [email us](https://web.archive.org/web/20151206035824id_/http%3A//www.modculturemedia.com/info@modculturemedia.com) via the Modculture Media site.
 
 The comments to this entry are closed. 
