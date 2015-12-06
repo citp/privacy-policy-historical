@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrogaming.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502220904id_/http%3A//www.astrogaming.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrogaming.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206070133id_/http%3A//www.astrogaming.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # ASTRO Privacy Policy
 
