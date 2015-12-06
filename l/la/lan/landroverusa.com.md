@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landroverusa.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513000151id_/http%3A//www.landroverusa.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landroverusa.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206221004id_/http%3A//www.landroverusa.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Land Rover USA
 
@@ -61,9 +61,9 @@ You can opt-out of certain online behavioral services through any one of the way
   
 
 
-  * You can opt-out via the Network Advertising Initiative industry opt-out at [www.networkadvertising.org](https://web.archive.org/web/20150513000151id_/http%3A//www.landroverusa.com/www.networkadvertising.org)
-  * You can opt-out via the Consumer Choice Page at [www.aboutads.info](https://web.archive.org/web/20150513000151id_/http%3A//www.landroverusa.com/www.aboutads.info)
-  * You can opt-out via the IAB UK's industry opt-out at [www.youronlinechoices.com](https://web.archive.org/web/20150513000151id_/http%3A//www.landroverusa.com/www.youronlinechoices.com)
+  * You can opt-out via the Network Advertising Initiative industry opt-out at [www.networkadvertising.org](https://web.archive.org/web/20151206221004id_/http%3A//www.landroverusa.com/www.networkadvertising.org)
+  * You can opt-out via the Consumer Choice Page at [www.aboutads.info](https://web.archive.org/web/20151206221004id_/http%3A//www.landroverusa.com/www.aboutads.info)
+  * You can opt-out via the IAB UK's industry opt-out at [www.youronlinechoices.com](https://web.archive.org/web/20151206221004id_/http%3A//www.landroverusa.com/www.youronlinechoices.com)
   * You can configure your web browser (Chrome, Firefox, Internet Explorer, Safari, etc.) to delete and/or control the use of cookies. More information can be found in the Help system of your browser. It is at your discretion whether you use the opt-out described above or manage cookies via the browser.
 
 
