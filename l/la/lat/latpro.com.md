@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latpro.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014151404id_/http%3A//www.latpro.com/USER/privacy-statement.php%3F1349240462) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latpro.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206123756id_/http%3A//www.latpro.com/USER/privacy-statement.php%3F) for the most accurate reproduction.*
 
 # Minority Recruitment | Diversity Recruiting | Minority Recruiting | Diversity Recruitment
 
@@ -52,7 +52,7 @@ If you no longer wish to receive our newsletter and promotional communications, 
 
 For registered job seekers, we also offer a central webpage to opt-out from all communications. Just go to https://www.latpro.com/USER/JOBS/emailPrefs.php , login, then select which communications you would like to stop receiving.
 
-You may also opt-out by calling us at 954-727-3844 or in writing to 8751 W Broward Blvd, Suite 506 - Plantation, FL 33324, USA.
+You may also opt-out by calling us at 954-727-3844 or in writing to 3980 N Broadway Ste 103-147 Boulder, CO 80304, USA.
 
 You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.  
   
@@ -137,8 +137,8 @@ Contacting Us
 For further information or questions regarding this privacy policy, please contacts us. We welcome your questions and suggestions. 
 
 LatPro, Inc  
-8751 W Broward Blvd, Suite 506   
-Plantation, FL 33324 - USA  
+3980 N Broadway Ste 103-147   
+Boulder, CO 80304 - USA  
 tel: 954-727-3844  
 fax: 954-727-3845  
 email: 
