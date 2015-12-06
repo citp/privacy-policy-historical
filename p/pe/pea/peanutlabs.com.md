@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peanutlabs.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407084207id_/http%3A//web.peanutlabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peanutlabs.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206012507id_/http%3A//web.peanutlabs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Peanut Labs – DIY Sample and Surveys
 
@@ -12,9 +12,11 @@ Peanut Labs Inc. has received TRUSTe’s Privacy Seal signifying that this priv
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
-### U.S.-E.U. Safe Harbor
+### Trans-National Data Flow
 
-Peanut Labs complies with the U.S.-E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Peanut Labs has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Peanut Labs certification, please visit <http://www.export.gov/safeharbor/>
+Peanut Labs adheres to the Organization for Economic Co-operation and Development (OECD) guidelines, specifically the Fair Information Practices governing the protection of privacy. This involves the trans-border data flows of personal data. International Data Transfers are defined as the transmission of personal information from one jurisdiction to another. Many jurisdictions, most notably the European Union (EU), place significant restrictions on such transfers. The EU requires that the receiving jurisdiction be judged to have “adequate” data protection practices. 
+
+Peanut Labs transfers data between the EU and the U.S. in accordance with standard contractual clauses for the transfer of personal data to processors established in third countries (“Model Contract”) pursuant to the Commission Decision 2010/87/EU of 5th February, 2010.
 
 ### What We Gather
 
