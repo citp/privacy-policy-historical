@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the g2g.fm privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512091415id_/http%3A//g2g.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g2g.fm privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207002917id_/http%3A//dayt.se/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - G2G - Watch and Download Movies and TV Shows
+# Privacy Policy - DayT.se - The Many-Named Site.
 
 We respect the privacy of our visitors and we are committed to protect it. This policy describes the information we collect and how it is being used. If you have any questions about our privacy policy, please contact us. 
 
@@ -10,4 +10,4 @@ We collect limited information that the browser made available while visiting th
 
 A cookie is a small piece of data that is sent to a user's browser from a web server and is stored on the browser locally. We only use the cookie to store your preferences. 
 
-Visiting G2G.FM means that you accept this policy agreement. 
+Visiting DayT.se means that you accept this policy agreement. 
