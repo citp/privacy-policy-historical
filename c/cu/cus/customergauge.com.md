@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customergauge.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607033455id_/http%3A//customergauge.com/company-profileprivacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customergauge.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206163623id_/http%3A//customergauge.com/company-profileprivacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | CustomerGauge.com
 
@@ -112,4 +112,4 @@ CustomerGauge reserves the right to change this Privacy Statement. CustomerGauge
 
 ## 14\. Contacting Us
 
-Questions regarding this Privacy Statement or the information practices of the Company’s Web sites should be directed to CustomerGauge Privacy at support@customergauge.com or by mailing CustomerGauge  Privacy (c/o Directness BV), van Diemenstraat, Amsterdam 1013CP, The Netherlands.
+Questions regarding this Privacy Statement or the information practices of the Company’s Web sites should be directed to CustomerGauge Privacy at support@customergauge.com or by mailing CustomerGauge  Privacy (c/o Directness BV), van Diemenstraat 182b, Amsterdam 1013CP, The Netherlands.
