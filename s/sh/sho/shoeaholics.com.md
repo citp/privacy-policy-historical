@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shoeaholics.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608094846id_/http%3A//www.shoeaholics.com/cookies-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoeaholics.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206162801id_/http%3A//www.shoeaholics.com/cookies-and-privacy-policy) for the most accurate reproduction.*
 
 # Shoeaholics | Cookie & Privacy Policy
 
 Close Window
 
-ENJOY A CHEEKY 10% OFF  
+ENJOY A CHEEKY 15% OFF  
 YOUR FIRST ORDER BY SIGNING UP. 
 
 Kurt Geiger Limited ("we" and "us") is committed to protecting your privacy. This Privacy Policy explains how we use the information we collect about you to process orders and to provide an improved shopping experience, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. You can visit the Website without disclosing any personally identifiable information about yourself. This notice should be read in conjunction with the terms & conditions of use for Kurt Geiger Ltd (the "Website") of which it forms part (the "Terms"). By using this Website or submitting information to us through or in connection with this Website, you signify your consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. If you do not agree with this Privacy Policy, you must not use this Website or submit information to us through or in connection with this Website. 
@@ -20,6 +20,7 @@ We will use, store or otherwise process any personal information that relates to
   * Processing your payment.
   * Maintaining information as a reference tool or general resource.
   * Carrying out market research campaigns.
+  * Additionally we use this information to contact you via email, post, SMS and phone. 
 
 
 
@@ -69,6 +70,21 @@ __utma | 2 years | This cookie is used to enable the functionality provided by G
 __utmb | 30 minutes | This cookie is used to enable the functionality provided by Google Analytics. This software allows us to analyse visitor information.  
 __utmc | Browser closed | This cookie is used to enable the functionality provided by Google Analytics. This software allows us to analyse visitor information.  
 __utmz | 6 months | This cookie is used to enable the functionality provided by Google Analytics. This software allows us to analyse visitor information.  
+CACHED_FRONT_FORM_KEY | Browser closed | Ensure forms are not submitted by someone outside of the website  
+_ga | 2 years | This cookie is used to enable the functionality provided by Google Analytics. This software allows us to analyse visitor information  
+_gali | 1 minute | This cookie is used to enable the functionality provided by Google Analytics. This software allows us to analyse visitor information  
+_gat | 10 minutes | This cookie is used to enable the functionality provided by Google Analytics. This software allows us to analyse visitor informations  
+_gat_rollup | 10 minutes | This cookie is used to enable the functionality provided by Google Analytics. This software allows us to analyse visitor information  
+is_returning | 5 years | This cookie is used to remember if the customer has visited the site before and will note you as a returning visitor or new visitor.  
+noWelcomePopup | 47 years | This cookie is used to determine whether a visitor had been displayed with the welcome program popup window previously.  
+LAST_CATEGORY | Browser closed | This cookie is used to store the customers last visited category and notes the category id which was last viewed.  
+CUSTOMER_AUTH | 1 hour | This cookie remembers your login details to keep you logged in when returning to the site, to enhance the browsing experience  
+COUNTRY | 5 years | This cookie remembers which country the customer has selected from country selector to ensure the customer has an optimum shopping experience.  
+COUNTRY_BANNER_HIDE | Browser closed | This cookie determines if you have already closed the site switcher banner.  
+BTgroup | 1 year | This cookie is sent by signal and allows us to evaluate the performances of any marketing taking place.  
+btpdb.ewz6mRP.X2J0X21mX2R1cmF0aW9u | 1 month | This cookie is sent by signal and allows us to evaluate the performances of any marketing taking place.  
+SAH_SIZE_POPUP | Browser close | This cookie determines if you have already seen the product size popup   
+slim_session | 6 months | This cookie remembers what you have selected from the country selector.  
   
 Third party cookies are displayed in the below table.
 
