@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slcc.edu privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072432id_/http%3A//www.slcc.edu/policies/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slcc.edu privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114404id_/http%3A//www.slcc.edu/policies/privacy.aspx) for the most accurate reproduction.*
 
-# Salt Lake Community College - SLCC Policies and Procedures
+# Privacy and Computer Usage Statement | SLCC
 
 The Salt Lake Community College (SLCC) website is an information system intended to present an integrated view of the College to prospective students, alumnae, employees, and members of the Community. SLCC is committed to preserving and maintaining the privacy of visitors to SLCC websites.
 
