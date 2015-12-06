@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the 0calc.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121090602id_/http%3A//web2.0calc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 0calc.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206162415id_/http%3A//web2.0calc.com/privacy) for the most accurate reproduction.*
 
-# Web 2.0 scientific calculator
+# Privacy Policy
 
-## When accessing our Website (britnex.com/britnex.de/0calc.com/0calc.de/0calc.es/0rechner.de (as well as all subdomains)), britnex will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
-
-If you visit our site to read or download information on our pages, we collect and store only the following information about you: 
+If you visit our site to read or download information on our pages, we collect and store the following information about you: 
 
 1\. The date and time you access our site  
 2\. The HTTP header of your requests  
 3\. Your anonymized IP address  
 4\. Entered calculations 
 
-We use a tool called âGoogle Analyticsâ to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Googleâs ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) and the [Google Privacy Policy](http://www.google.com/privacypolicy.html). You can prevent Google Analytics from recognizing you on return visits to this site by [disabling cookies](http://www.usa.gov/optout_instructions.shtml) on your browser. (Option "anonymize ip" is activated) 
+We use a tool called “Google Analytics” to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) and the [Google Privacy Policy](http://www.google.com/privacypolicy.html). You can prevent Google Analytics from recognizing you on return visits to this site by [disabling cookies](http://www.usa.gov/optout_instructions.shtml) on your browser. (Option "anonymize ip" is activated) 
 
 Google Adsense and the DoubleClick DART Cookie 
 
