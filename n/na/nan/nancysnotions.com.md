@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nancysnotions.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608034515id_/http%3A//www.nancysnotions.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do%3Fintcmp%3DFFPRIV) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nancysnotions.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141753id_/http%3A//www.nancysnotions.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do%3Fintcmp%3DFFPRIV) for the most accurate reproduction.*
 
 # Privacy and Security - Customer Service - Nancy's Notions
 
