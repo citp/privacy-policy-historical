@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vivobarefoot.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608063403id_/http%3A//www.vivobarefoot.com/us/customer-services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivobarefoot.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114221id_/http%3A//www.vivobarefoot.com/us/customer-services/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Customer Services | VIVOBAREFOOT US
+# Privacy Policy | VIVOBAREFOOT US
 
 We are committed to protecting your privacy. We will only use the information that we collect about you lawfully in accordance with the Data Protection Act 1998. We collect information about you for two reasons: firstly, to process your order and secondly, to provide you with the best possible service.
 
