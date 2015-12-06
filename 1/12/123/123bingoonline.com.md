@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123bingoonline.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607130654id_/http%3A//www.123bingoonline.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123bingoonline.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206152859id_/http%3A//www.123bingoonline.com/privacy-policy.php) for the most accurate reproduction.*
 
 # 123 Bingo Online Privacy Policy
 
