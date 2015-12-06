@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ujena.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607234244id_/http%3A//www.ujena.com/Xstatic.php%3Fp%3D504) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ujena.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206033128id_/http%3A//www.ujena.com/Xstatic.php%3Fp%3D504) for the most accurate reproduction.*
 
 # Privacy :: UjENA Swimwear
 
