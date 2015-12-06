@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dovemencare.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607015034id_/http%3A//www.unileverprivacypolicy.com/en_us/policy.aspx%3Fsite%3Dwww.dovemencare.us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dovemencare.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206034439id_/http%3A//www.unileverprivacypolicy.com/en_us/policy.aspx%3Fsite%3Dwww.dovemencare.us) for the most accurate reproduction.*
 
 # Privacy Policy
 
