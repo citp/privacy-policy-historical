@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pugetsoundblogs.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627234153id_/http%3A//www.kitsapsun.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pugetsoundblogs.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140813id_/http%3A//www.kitsapsun.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Kitsap Sun Privacy Policy - Story
 
