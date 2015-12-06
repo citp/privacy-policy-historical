@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripzen.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145200id_/http%3A//www.tripzen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripzen.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206040057id_/http%3A//www.tripzen.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TripZen
 
