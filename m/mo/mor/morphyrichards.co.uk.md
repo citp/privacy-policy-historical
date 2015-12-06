@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morphyrichards.co.uk privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608011840id_/http%3A//www.morphyrichards.co.uk/support/morphy-richards-support/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morphyrichards.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035943id_/http%3A//www.morphyrichards.co.uk/support/morphy-richards-support/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
