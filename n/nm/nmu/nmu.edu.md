@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nmu.edu privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041307id_/http%3A//www.nmu.edu/communicationsandmarketing/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmu.edu privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141945id_/http%3A//www.nmu.edu/communicationsandmarketing/PrivacyStatement) for the most accurate reproduction.*
 
-# Web Site Privacy Statement | NMU Identity, Brand and Marketing Department
-
-## Web Site Privacy Statement
+# Web Site Privacy Statement | University Marketing and Communications at NMU
 
 Thank you for visiting the Northern Michigan University Web site. Your privacy is very important to us. Our privacy policy is clear: We collect no personal identifying information about you when you visit our Web site unless you explicitly choose to make such information available.
 
@@ -26,6 +24,8 @@ If you choose to share personal identifying information with us—by sending us 
 If you want to see the personal identifying information we have collected about you from this site or if you believe any information we have is incorrect and you wish to correct it, please contact us at the e-mail address or phone number provided below.  If we change or delete information in response to your request, we will cease to use it; however, some residual information may remain in backup records or records of deletions.
 
 Any communication or material other than your personal identifying information submitted to this Web site, such as questions, comment, suggestions and ideas, become the exclusive property of Northern Michigan University and may be used for any purpose whatsoever without restriction or compensation.
+
+Northern Michigan University collects data about your activities that does not personally or directly identify you when you visit our website through the Google AdWords remarketing service. This information may include the content you view, the date and time that you view this content, the amount of time you spend interacting with this content, your location information associated with your IP address, or your demographic information. We use the information we collect to serve you relevant advertisements throughout the Google display network and collect data about where you saw the ads and what ads you clicked on. NMU will not sell or distribute personal data collected from site visitors with any third-party vendors. Users may opt out of Google’s use of cookies by visiting the [Google Advertising opt-out page](http://www.google.com/settings/ads). 
 
 Children under the age of 13 should not send any information about themselves to us, including information like your name, address or e-mail address.  This Web site does not knowingly collect personally identifying information from children under the age of 13.  In the event that we learn that we have collected such information from a child under 13 without parental consent, the information will be deleted from our database as soon as reasonably possible.
 
