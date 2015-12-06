@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshandeasy.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140705id_/http%3A//www.freshandeasy.com/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshandeasy.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206162406id_/http%3A//www.freshandeasy.com/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Fresh & Easy Online Privacy Policy | Fresh & Easy
 
@@ -167,6 +167,6 @@ Under California Law, California residents have the right to receive, once a yea
 
 If you have any questions about our Privacy Policy, contact us by [e-mail](https://web.archive.org/contact-us/ "Contact Us"), mail or our telephone helpline at (877) 338-6546.
 
-Updated: June 2014
+Updated: June 2015
 
-©2014 Fresh & Easy LLC. All rights reserved.
+©2015 Fresh & Easy LLC. All rights reserved.
