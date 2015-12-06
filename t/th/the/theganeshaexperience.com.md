@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theganeshaexperience.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608004938id_/http%3A//theganeshaexperience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theganeshaexperience.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206144644id_/http%3A//theganeshaexperience.com/privacy-policy) for the most accurate reproduction.*
 
 # : Privacy Policy
 
@@ -97,7 +97,7 @@ Thanks for reading our privacy policy.
 
 ### automatic collection of information
 
- **Cookies:** Our Company may use “Cookies” to collect information. Cookies are small pieces of information stored by your browser on your computer’s hard drive, at a web site’s request. Our Company Cookies do not contain any personal information, but are used primarily as follows:
+**Cookies:** Our Company may use “Cookies” to collect information. Cookies are small pieces of information stored by your browser on your computer’s hard drive, at a web site’s request. Our Company Cookies do not contain any personal information, but are used primarily as follows:
 
   * to keep track of temporary information. For example, Cookies allow us to keep track of the pictures you upload and download;
   * to register you in special programs. Cookies allow us to remember you when you login to the places on our site that require Membership;
@@ -111,7 +111,7 @@ Thanks for reading our privacy policy.
 
 web beacons: We may also place small “tracker gifs” or “beacons” on many of the pages on our website, in online advertising with third parties, and in our email. We use these beacons, in connection with Cookies, to collect non-personal data on the usage of our site including but not limited to the date and time of the visit, the pages visited, the referring web page, the type of browser (e.g., Internet Explorer, NetScape), the type of operating system (e.g., Windows, Linux, or Mac), and the domain name of the visitor’s Internet service provider (e.g., <span class=;”>AOL). This information is collected about thousands of site visits and analyzed as a whole. This information is useful in, for example, tracking the performance of our online advertising such as online banner ads and to determine where to place future advertising on other web sites.
 
- **Disabling Cookies and Beacons** : If you are uncomfortable with the collection of such information through the use of Cookies and Beacons, we recommend disabling these features through your browser preferences, though please understand this will limit the performance and functionality of our Company’s Web site. Your browser documentation should provide specific procedures for disabling cookie and beacon support.
+**Disabling Cookies and Beacons** : If you are uncomfortable with the collection of such information through the use of Cookies and Beacons, we recommend disabling these features through your browser preferences, though please understand this will limit the performance and functionality of our Company’s Web site. Your browser documentation should provide specific procedures for disabling cookie and beacon support.
 
 ### Public forums
 
