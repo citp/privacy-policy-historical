@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insight.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072722id_/http%3A//daily.insight.org/site/PageServer%3Fpagename%3Dprivacypolicy%26printer_friendly%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insight.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114419id_/http%3A//daily.insight.org/site/PageServer%3Fpagename%3Dprivacypolicy%26printer_friendly%3D1) for the most accurate reproduction.*
 
 # Privacy Policy - Insight for Living Ministries : Chuck Swindoll's Bible-teaching via articles, books, videos, streaming, and audio products
 
