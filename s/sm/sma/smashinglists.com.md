@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smashinglists.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608034759id_/http%3A//www.smashinglists.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashinglists.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141842id_/http%3A//www.smashinglists.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Top Ten Lists
+# Privacy Policy - Top Ten Lists
 
 **Personal Information**  
 As with most other websites, we collect the data you provide to us when you visit or post a comment to our site. This information may include your name, your email address, your IP address, your ISP, the browser you used to visit our site (such as Internet Explorer, Chrome, Safari or Firefox), the time you visited our site and which pages you visited throughout our site. Your personal information will never be released, sold, or rented to any entities or individuals outside smashinglists.com.
