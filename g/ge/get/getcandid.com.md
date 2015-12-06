@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getcandid.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141841id_/http%3A//www.getcandid.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getcandid.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140528id_/http%3A//www.getcandid.com/home/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
