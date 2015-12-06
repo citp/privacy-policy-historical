@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodweb.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607235239id_/http%3A//www.woodweb.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodweb.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206152919id_/http%3A//woodweb.com/privacypolicy.html) for the most accurate reproduction.*
 
 # WOODWEB's Privacy Policy
 
