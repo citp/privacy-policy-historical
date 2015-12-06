@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativeuncut.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607194931id_/http%3A//www.creativeuncut.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativeuncut.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206222214id_/http%3A//www.creativeuncut.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Creative Uncut
 
@@ -46,6 +46,6 @@ At times, there may be changes made to this privacy policy to accommodate change
 
 If you have any questions or concerns regarding this privacy policy or the practices of this website, please feel free to contact us via the 
 
-[_info page_](https://web.archive.org/web/20150607194931id_/http%3A//www.creativeuncut.com/info.html)
+[_info page_](https://web.archive.org/web/20151206222214id_/http%3A//www.creativeuncut.com/info.html)
 
 . 
