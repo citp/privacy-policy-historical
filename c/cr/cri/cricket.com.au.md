@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricket.com.au privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626150602id_/http%3A//cricket.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricket.com.au privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114749id_/http%3A//www.cricket.com.au/privacy) for the most accurate reproduction.*
 
 # Australian Cricket Privacy Policy | cricket.com.au
 
@@ -128,4 +128,4 @@ Cricket Australia takes all privacy complaints seriously will investigate your c
 
 ## Changes to this Privacy Policy
 
-From time to time, we may need to change this Privacy Policy to reflect our changing business practices.  We will notify you of any amendments by posting an updated version of this Privacy Policy on our web site ([www.cricket.com.au](https://web.archive.org/web/20150626150602id_/http%3A//cricket.com.au/www.cricket.com.au)).
+From time to time, we may need to change this Privacy Policy to reflect our changing business practices.  We will notify you of any amendments by posting an updated version of this Privacy Policy on our web site ([www.cricket.com.au](https://web.archive.org/web/20151206114749id_/http%3A//www.cricket.com.au/www.cricket.com.au)).
