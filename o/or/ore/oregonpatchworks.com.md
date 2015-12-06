@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the oregonpatchworks.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152926id_/http%3A//www.oregonpatchworks.com/OPW/PRIVY.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oregonpatchworks.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206040717id_/http%3A//www.oregonpatchworks.com/OPW/PRIVY.php) for the most accurate reproduction.*
 
 # OregonPatchWorks.com Premium Emroidery Mall
 
-|  |  |  |  [ ](https://web.archive.org/OPW/DOFWK.php) |  [ ](https://web.archive.org/OPW/designindex.php) |  [ ](https://web.archive.org/cart/?view)  
----|---|---  
+|  |  |  |  [](https://web.archive.org/OPW/DOFWK.php) |  [ ](https://web.archive.org/OPW/designindex.php) |  [ ](https://web.archive.org/wishlist.php) |  [ ](https://web.archive.org/cart/?view)  
+---|---|---|---  
+_ _  
 |  | 
 
 **   PRIVACY STATEMENT**  
@@ -18,7 +19,7 @@ Unless you ask us not to, we may contact you via email in the future to tell you
 
 **_Your Access to and Control Over Information_**
 
-**You may opt out of any future contacts from us or express any concern you have about our use of your data at any time by contacting us via the email address or phone number given on our website [HERE](https://web.archive.org/web/20150607152926id_/http%3A//www.oregonpatchworks.com/OPW/CONTACT.shtml)**
+**You may opt out of any future contacts from us or express any concern you have about our use of your data at any time by contacting us via the email address or phone number given on our website [HERE](https://web.archive.org/web/20151206040717id_/http%3A//www.oregonpatchworks.com/OPW/CONTACT.shtml)**
 
 **_Security Procedures_**
 
@@ -28,8 +29,9 @@ While we use encryption to protect sensitive information transmitted online, we 
   
    
   
-|  |  [ ](https://web.archive.org/OPW/DOFWK.php) |  [ ](https://web.archive.org/OPW/designindex.php) |  [ ](https://web.archive.org/cart/?view)  
----|---|---  
+|  |  [](https://web.archive.org/OPW/DOFWK.php) |  [ ](https://web.archive.org/OPW/designindex.php) |  [ ](https://web.archive.org/wishlist.php) |  [ ](https://web.archive.org/cart/?view)  
+---|---|---|---  
+_ _  
   
 |  [ ](http://www.oregonpatchworks.com/STGN/INDEX.shtml) | [ ](http://www.premiumembroiderydesigns.com/)  
 ---|---  
@@ -50,11 +52,11 @@ While we use encryption to protect sensitive information transmitted online, we 
   
 ---  
   
-[OPWMall_Updates](http://www.cutecolors.com/)
+[OPWMall_Updates](http://groups.yahoo.com/group/OPW-Mall-Updates/join)
 
 | 
 
-[Club-OPW](http://www.cutecolors.com/)  
+[Club-OPW](http://groups.yahoo.com/group/CLUB-OPW/join)  
   
 [](http://groups.yahoo.com/group/OPW-Mall-Updates/join)
 
@@ -68,19 +70,19 @@ While we use encryption to protect sensitive information transmitted online, we 
   
 ---  
   
-[Facebook](http://www.cutecolors.com/)
+[Facebook](http://www.facebook.com/Oregonpatchworks)
 
 | 
 
-[Twitter](http://www.cutecolors.com/)
+[Twitter](https://twitter.com/Oregonpatchwork)
 
 | 
 
-[Googla +](http://www.cutecolors.com/)
+[Google +](https://plus.google.com/b/108310121986619812711/108310121986619812711/posts)
 
 | 
 
-[Pinterest](http://www.cutecolors.com/)  
+[Pinterest](http://pinterest.com/opwmall/)  
   
 [](http://www.facebook.com/Oregonpatchworks)
 
@@ -96,7 +98,7 @@ While we use encryption to protect sensitive information transmitted online, we 
 
 [](http://pinterest.com/opwmall/)  
   
-|  The clipart embellishment on the webpages is by www.cutecolors.com, used with permission.  
+|  The clipart embellishment on the webpages is by CuteColors used with permission.  
 ---  
 [ Free Designs](http://www.oregonpatchworks.com/OPW/MOCLOGIN.php) |  [ Site Map](http://www.oregonpatchworks.com/site-map.php) |  [ STGN Designs Club](http://www.oregonpatchworks.com/STGN/INDEX.shtml) |  [ What's New? ](http://www.oregonpatchworks.com/ListNew.php) |  [ Our Polices](http://www.oregonpatchworks.com/OPW/POLICIES.php) |  [ Order 1-888-Lov2Sew](http://www.oregonpatchworks.com/OPW/CONTACT.php) |  [ Contact Us](http://www.oregonpatchworks.com/OPW/CONTACT.php)  
-**Copyright Permissions And All Rights Reserved By OregonPatchWorks, Inc. © 2001-2015**
+**Copyright Permissions And All Rights Reserved By OregonPatchWorks, Inc. © 2000-2015**
