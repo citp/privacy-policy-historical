@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carandclassic.co.uk privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504163930id_/http%3A//www.carandclassic.co.uk/doc/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carandclassic.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206102532id_/http%3A//www.carandclassic.co.uk/doc/privacy_policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY Car And Classic Web Site
 
