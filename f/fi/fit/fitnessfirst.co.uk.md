@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitnessfirst.co.uk privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611091514id_/http%3A//www.fitnessfirst.co.uk/about-us--terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessfirst.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206112149id_/http%3A//www.fitnessfirst.co.uk/about-us--terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ We have strict security procedures covering the storage of your information in o
 
 Please note that your information may be used to send you details of those products or services that we offer that we have identified as likely to be of interest to you.  This will be in accordance with the preferences that you indicated when you completed complimentary pass form.
 
-If at any point you would like to opt-out of receiving communications from us, or would like to change the channels (such as email or post) that we use to contact you, please contact us at membershipservices@fitnessfirst.com or call us on 08445 713 400.  Alternatively you can also write to us at Data Compliance Officer, Fitness First, 58 Fleets Lane, Poole, Dorset, BH15 3BT. 
+If at any point you would like to opt-out of receiving communications from us, or would like to change the channels (such as email or post) that we use to contact you, please contact us at membershipservices@fitnessfirst.com or call us on 0208 618 3100.  Alternatively you can also write to us at Data Compliance Officer, Fitness First, 58 Fleets Lane, Poole, Dorset, BH15 3BT. 
 
 ### Disclosures
 
