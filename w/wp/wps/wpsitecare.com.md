@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpsitecare.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607234823id_/http%3A//www.wpsitecare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpsitecare.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206131946id_/http%3A//www.wpsitecare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WP Site Care
 
