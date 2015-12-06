@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omantel.om privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607151408id_/http%3A//www.omantel.om/Omanweblib/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omantel.om privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206045445id_/http%3A//www.omantel.om/Omanweblib/privacy.aspx) for the most accurate reproduction.*
 
 # Omantel - Together
 
