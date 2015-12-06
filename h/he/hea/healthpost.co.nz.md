@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the healthpost.co.nz privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141627id_/http%3A//www.healthpost.co.nz/customer-service/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthpost.co.nz privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140829id_/http%3A//www.healthpost.co.nz/customer-service/privacy-security) for the most accurate reproduction.*
 
 # Online Privacy & Security Policy | HealthPost NZ
 
-**Date Last Updated:  **24th November 2014
+**Date Last Updated: 9** th November 2015
 
 ## The Short Version
 
-**We value your privacy!**
+**We value your privacy and make it a priority to safeguard your personal information.**
 
-**We will never give, lease, sell or otherwise disclose your personal information to any third parties*.**
+******We do not sell or rent your personal information to third parties for commercial gain.  ****We will never give, lease, sell or otherwise disclose your personal information to third parties, other than for the specific purposes outlined below.  **
 
 We understand that making purchases online involves a great deal of trust on your part; we take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the personal information you provide us. Any information you give to HealthPost will be held with the utmost care.
 
 A more detailed explanation of how we safeguard your personal information is found below.  This should be read in conjunction with our [Terms & Conditions](http://www.healthpost.co.nz/customer-service/terms-conditions/ "Terms & Conditions").
 
 If you've any questions or concerns, [please let us know.](https://web.archive.org/customer-service/contact-us "Contact us") We're always happy to help.
-
-* except to comply with law; facilitate court proceedings; enforce our [Terms & Conditions](http://www.healthpost.co.nz/customer-service/terms-conditions/ "Terms & Conditions"); or protect the rights, property, or safety of HealthPost Ltd, our users, or others.
 
 HealthPost is proud to have been awarded to the international Online Trust Alliance (OTA) [‘2014 Online Trust Honour Roll’](https://web.archive.org/customer-service/privacy-security/2014-online-trust-honour-roll "2014 Online Trust Honour Roll") for New Zealand.
 
@@ -26,7 +24,7 @@ HealthPost is proud to have been awarded to the international Online Trust Allia
 
 #### **Introduction**
 
-www.healthpost.co.nz (“this website”) is operated by HealthPost Ltd. (“we”, “us”, “our”).
+www.healthpost.co.nz (“this website”) is operated by HealthPost Ltd. (“we”, “us”, “our”), a New Zealand registered company.
 
 **We respect the privacy of our website users (“you”, “your”) and are committed to protecting your security and privacy.**
 
@@ -36,9 +34,11 @@ This privacy policy must be read in conjunction with our [Terms and Conditions](
 
 #### **Collection of Your Information**
 
-We collect information about you through our website in an effort to improve your shopping experience, as well as communicate with you about our products, services and promotions. **We do not sell or rent your personal information to third parties.**
+We collect information about you through our website in an effort to improve your shopping experience, as well as communicate with you about our products, services and promotions. **We do not sell or rent your personal information to third parties for commercial gain.**
 
-We release account and other personal information only when we believe release is appropriate to comply with law; facilitate court proceedings; enforce or apply our terms and conditions; or protect the rights, property, or safety of HealthPost Ltd, our users, or others.  To the extent we are legally permitted to do so, we will take reasonable steps to notify you in the event that we are required to provide your personal information to third parties as part of a legal process.
+We will generally never give, lease, sell or otherwise disclose your personal information to any third parties except to comply with law; facilitate court proceedings; enforce our Terms & Conditions; or protect the rights, property, or safety of HealthPost Ltd, our users, or others. We may however share or store your email address and other basic information with our third party business partners including marketing, advertising and research companies and data analysis companies.  We do this in order to conduct sales, marketing and advertising research and analysis on our behalf so that we can: better understand your preferences; improve the services we offer you; present you with suitable offers that you might be interested in. We will only do this with reputable organisations who are acting directly on our behalf to improve the services we offer you, and not for any other purpose (and certainly not to promote their own products and services directly to you). We also need to store your personal information within the hardware and software systems of reputable third parties in order to facilitate and improve the services which we offer. The privacy and data security policies and standards of the third party organisations we engage for these purposes will be subject to review by HealthPost, and required to meet high standards of care and responsibility.
+
+We may be obliged to release account and other personal information when we believe release is appropriate to comply with law; facilitate court proceedings; enforce or apply our terms and conditions; or protect the rights, property, or safety of HealthPost Ltd, our users, or others.  To the extent we are legally permitted to do so, we will take reasonable steps to notify you in the event that we are required to provide your personal information to third parties as part of a legal process.
 
 #### **Data Retention**
 
@@ -46,9 +46,13 @@ We will retain your information for as long as your account is active or as need
 
 #### **Types of Information Collected**
 
-We may collect personal information from you (including, without limitation, your name, email address, phone number, and address) when you visit our website, register with our website, place an online order, save your information with us online, contact us with a question or concern, or participate in a promotion. This information is used to correspond with you, deliver products to you or fulfill any other aspect of our service, and communicate with you about our products and services, including marketing and promotional material.  
+We may collect personal information from you (including, without limitation, your name, email address, phone number, address and purchase history) when you visit our website, register with our website, place an online order, save your information with us online, contact us with a question or concern, or participate in a promotion. This information is used to correspond with you, deliver products to you or fulfill any other aspect of our service, and communicate with you about our products and services, including marketing and promotional material.  
 
 We also receive and collect the name of the domain and host from which you access the Internet; the Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our site; and any search engine or inbound hyperlink used to reach this website which is made available to us. This information is used only for statistical purposes and in regards to how we may enhance the customer experience.
+
+#### **Access to Your Information**
+
+You have the right to access personal information about you and request corrections or updates to be made, provided we hold such information in a way that it can be readily accessed and amended.
 
 #### **Email Communication**
 
@@ -79,6 +83,10 @@ We may use your collected information in the following ways:
 
 You always have the choice not to receive marketing and promotional information. It is our policy to remove any member from our database or mailing list upon the members’ request. Please [contact us](http://www.healthpost.co.nz/contacts "contact us") if you wish to opt out of receiving marketing communications from HealthPost Ltd.
 
+#### **Business Continuity**
+
+In the event that HealthPost’s business is acquired or merged or in the unlikely event HealthPost Ltd goes out of business enters into liquidation or receivership. You acknowledge that such transfers may occur, and that any acquirer of HealthPost Ltd may continue to use the information collected by HealthPost.
+
 #### **Website and Credit Card Security**
 
 **We take website and credit card security extremely seriously.**
@@ -97,9 +105,9 @@ We use Payment Express to process all credit card payments. For more info, pleas
 
 When you click on links and banners on our site that take you to third party web sites, you will be subject to the third party's privacy policies. While we support the protection of privacy on the Internet, HealthPost Ltd cannot be responsible for the actions of any third-party web sites.
 
-#### **Accessing Your Information**
+#### **Product Reviews**
 
-You can review, edit and delete/ deactivate the personal information and any of your contact preferences by [contacting us](http://www.healthpost.co.nz/contacts "contact us"). 
+We reserve the right to use all product reviews we receive in our marketing and promotional material, both on and offline, identifying reviewers by first name only. If you don't want us to use your review, please let us know.
 
 #### **Changes to our Privacy Policy**
 
