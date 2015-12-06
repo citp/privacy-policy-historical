@@ -1,51 +1,47 @@
-> *The following text is extracted and transformed from the gyanunlimited.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607220557id_/http%3A//www.gyanunlimited.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gyanunlimited.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114715id_/http%3A//www.gyanunlimited.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which Gyanunlimited collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.gyanunlimited.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Gyanunlimited.
+This Privacy Policy governs the manner in which Gyanunlimited collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.gyanunlimited.com website (“Site”).
+
+These privacy practices pertain to the website, which you are going through when you clicked through this policy, which is managed directly by Gyanunlimited.
+
+Here is information on what type of personal information we receive and collect and how we safeguard your information when you visit the website Gyanunlimited.
+
+**INFORMATION WE COLLECT AND HOW WE USE IT:**
 
 **Personal identification information**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+
+You will be asked to provide specific information, especially your personal information such as your name, Email address, etc.
 
 **Non-personal identification information**
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+Provider can also use certain tools to collect and use certain non-personal data that does enable Provider to recognize you. Users non-personal identification information may include when they are browse our site. Non-personal information comprises browser name, type of computer, operating system and Internet service provider.
+
+**Activity and log data**
+
+As far as website is concerned, we automatically gather information in respect to use of the site like page views, your browser type, IP address, requested URL, browser language, referring URL, date and time of your visits. We use such information so that a better service can furnish to you. We collectively use such information to improve and manage our website.
 
 **Web browser cookies**
 
 Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-– Google, as a third party vendor, uses cookies to serve ads on www.gyanunlimited.com.  
-– Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.gyanunlimited.com and other sites on the Internet.  
-– Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+**Children’s privacy**
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….Google Adsense
-
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.gyanunlimited.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
-
-www.gyanunlimited.com has no access to or control over these cookies that are used by third-party advertisers.
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.gyanunlimited.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+The website is pertained to general public not for the children below the age of 13 years. Provider does not collect personal identification information from children under 13.
 
 **How we use collected information**
 
 Gyanunlimited may collect and use Users personal information for the following purposes:
 
   * _– To improve our Site_  
-We may use feedback you provide to improve our products and services.
+we may use feedbacks as furnish by you to improve our website.
   * _– To send periodic emails_  
-We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include our newsletters. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
-
-**How we protect your information**
-
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
-
-**Sharing your personal information**
-
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
 **Changes to this privacy policy**
 
@@ -59,10 +55,10 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-<http://www.gyanunlimited.com/>
+_[Contact Us Form](http://www.gyanunlimited.com/contact-us/)_
 
-This document was last updated on May 26, 2013
+You can also mail us at:  [ **info@gyanunlimited.com**](mailto:info@gyanunlimited.com)
 
-Looking for more health info? Follow these links...
+We read every message submitted and try to reply promptly to everyone.
 
-Privacy Policy
+This document was last updated on May 26, 2014
