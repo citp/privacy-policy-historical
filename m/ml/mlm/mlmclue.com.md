@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the mlmclue.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142708id_/http%3A//www.mlmclue.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmclue.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035623id_/http%3A//www.mlmclue.com/Privacy.aspx) for the most accurate reproduction.*
 
 # mlm,India mlm news,mlm classifieds,India mlm companies,networker views,mlm articles,mlm directory,mlm software,Network marketing in Andhrapradesh,India
 
-|  |   
----  
-  
-|  |  |    
+|  |  |  |  |    
 ---|---  
 | This privacy policy describes how we handle your personal information. [clueleads.com](http://www.clueleads.com/) is committed to protecting your privacy in accordance with the terms of this Privacy Policy.   
 ---  
@@ -25,8 +22,4 @@ Corrections/Contact
 Users of this Site may contact [clueleads.com](http://www.clueleads.com/) to modify or correct any of their personal information that is under our control. An individual may also direct a written complaint regarding compliance with this Privacy Statement to us and, within a reasonable time upon receiving the written complaint, we will conduct an investigation into the matter, and we will take necessary measure/s to rectify the source of the complaint, as appropriate.  
    
 |   
----  
-  
-[](http://www.apextelecom.net/apextelecom_plan_video.html)  
-  
-[](http://www.rechargeplus.biz/)
+---
