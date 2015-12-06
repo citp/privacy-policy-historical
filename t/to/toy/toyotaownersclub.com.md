@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toyotaownersclub.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145521id_/http%3A//www.toyotaownersclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyotaownersclub.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206051642id_/http%3A//www.toyotaownersclub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Toyota Owners Club UK
+# Privacy Policy - Toyota Owners Club UK
 
 The club respects your privacy and is committed to protect the personal information that you share with us. Generally, you can browse through our website without giving us any information about yourself. When we do need your personal information to provide services that you request or when you choose to provide us with your personal information, this policy describes how we collect and use this information.
 
