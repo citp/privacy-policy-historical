@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spacetimestudios.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627183959id_/http%3A//www.spacetimestudios.com/content.php%3F384-Spacetime-Studios-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spacetimestudios.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206034037id_/http%3A//www.spacetimestudios.com/content.php%3F384-Spacetime-Studios-Privacy-Policy) for the most accurate reproduction.*
 
-# Spacetime Games - Spacetime Studios Privacy Policy
+# Spacetime Studios - Spacetime Studios Privacy Policy
 
 Spacetime Studios, Inc. ("Spacetime" "we" "our" or "us") is a digital games development studio and offers users its electronic games and other related online or offline information, services and products to support the games. These highlights detail important information regarding the use and disclosure of user information collected on our websites, successor websites, mobile websites, applications and related services and tools that link to this Privacy Policy when you interact with Spacetime or its products or services by any method (collectively, "Services"). We provide this Privacy Policy to help you make an informed decision about whether to use or continue to use the Services and the choices we offer for you to manage the information we collect related to the use of the Services. Please read our full Privacy Policy for details and defined terms. 
 
