@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the careercruising.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122024459id_/http%3A//public.careercruising.com/us/en/legal-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careercruising.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140724id_/http%3A//public.careercruising.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Career Cruising
-
-  * [Terms of Use](https://web.archive.org/us/en/legal-policies/terms-of-use/ "Terms of Use")
-  * [Portfolio End User Agreement](https://web.archive.org/us/en/legal-policies/end-user-agreement/ "Portfolio End User Agreement")
-  * [Site Administrator Agreement](https://web.archive.org/us/en/legal-policies/site-administrator-agreement/ "Site Administrator Agreement")
-  * [Privacy Policy](https://web.archive.org/us/en/legal-policies/privacy-policy/ "Privacy Policy")
-  * [Copyright Notice](https://web.archive.org/us/en/legal-policies/copyright-notice/ "Copyright Notice")
-
-
+# Career Cruising - English - Privacy Policy
 
 Career Cruising respects your privacy and is committed to protecting your personal information. The information you provide is used to enhance your experience on our website, and to serve you efficiently. We will never sell or rent your personal information to any third party. This privacy statement explains the ways we collect and use information, and the ways we protect your privacy.
 
@@ -30,7 +22,7 @@ You have the right to review, correct, or withdraw any personal data you have pr
 
   * **Administrators**
 
-Career Cruising sends monthly newsletters to administrators via email. If you would like to opt out of this service, please contact us at 1-800-965-8541 or email us at [privacy@careercruising.com](mailto:privacy@careercruising.com). You can also change your personal information by contacting us at the above number or email address. If you are no longer an administrator and would like to delete your personal information, please contact us.
+Career Cruising sends monthly newsletters to administrators via email. If you would like to opt out of this service, please contact us at or email us at [privacy@careercruising.com](mailto:privacy@careercruising.com). You can also change your personal information by contacting us at the above number or email address. If you are no longer an administrator and would like to delete your personal information, please contact us.
 
 
   * **Portfolio Users**
