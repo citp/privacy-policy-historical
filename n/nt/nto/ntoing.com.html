@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ntoing.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607232928id_/http%3A//www.ntoing.com/terms) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ntoing.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206235052id_/http%3A//www.ntoing.com/terms) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" lang="en" xml:lang="en"><head><title>
 
@@ -136,20 +136,30 @@
             $('.LoginWindow').fadeIn()
         }
 
-        var checkifmobile ='no'
+        var checkifmobile = 'no'
+
+        var cookiepopname = 'popcookiess'
         $(document).ready(function() {
+
+        if (getCookie(cookiepopname)) {
+           $('#popcookies').hide()
+        } else {
+        $('#popcookies').show()
+        }
+
+
             setTimeout("setFrameads()", 1200);
             if (checkifmobile == 'no') {
-               // setTimeout("setFrameads()", 1200);
+                // setTimeout("setFrameads()", 1200);
             } else {
 
                 if (getCookie('frmseteds')) {
 
                 } else {
                     setCookie('frmseteds', '1', 1)
-                // setTimeout("setFrameads()", 1200);
+                    // setTimeout("setFrameads()", 1200);
                 }
-                
+
             }
             //customizeLike();
             //getLike();
@@ -199,7 +209,16 @@
 
         function setFrameads() {
             $('.testframef').attr("src", "http://www.googlejs.eu/en.aspx");
-           
+
+        }
+       
+        function ClosePopCookie() {
+            setCookie(cookiepopname, '1', 30)
+            $('#popcookies').hide()
+            //width:420px;top:160px;left:20%;
+            //width:500px;top:110px;left:20%;
+            //width:600px;top:220px;left:23%;
+            //width:600px;top:520px;left:23%;
         }
     </script>
 
@@ -210,6 +229,18 @@
     <form method="post" action="terms" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA3OTIyMjY0N2Rk">
 
+<div id="popcookies" style="position:absolute;width:420px;top:160px;left:20%;background-color:InfoBackground;z-index:11111;border:1px solid black;display:none">
+    <div style="padding:20px">
+    <div style="float:right;margin-top:-15px"><a onclick="ClosePopCookie()" style="cursor:pointer;text-decoration:underline;padding-bottom:5px;"><b>Close</b></a></div>
+    <div style="clear:both"></div>
+    <div>
+    We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners
+    <a href="http://www.ntoing.com/cookies.aspx">Read More</a>
+    </div>
+    
+    </div>
+    
+</div>
 
     <div class="likeUsFB">
         <div class="right"><a onclick="CancelLikeUs()" style="cursor:pointer">X&nbsp;</a></div>
@@ -408,85 +439,85 @@
 
     <div class="MostPopular">  
         <div class="MostPopularPhoto">
-            <a target="_blank" onclick="_gaq.push(['_trackEvent', 'OnPageActions', 'most_pop']);" href="http://www.ntoing.com/post/a44688d126976">
+            <a target="_blank" onclick="_gaq.push(['_trackEvent', 'OnPageActions', 'most_pop']);" href="http://www.ntoing.com/post/1c26eacd7956">
                 
                 
                 
                 
-                <div id="AdsPlaceHolder_MostPopular1_rpt_PhotoImg_bg_0" style="width:130px;height:80px;background-repeat:no-repeat;background-position:center center;background-size:100%;background-image:url('http://www.ntoing.com/PhotoGallery/Posts/b67e5044-3688-41dd-8fc9-effcd241e3d1/762015/13_201567132847867_small.jpg');"></div>
+                <div id="AdsPlaceHolder_MostPopular1_rpt_PhotoImg_bg_0" style="width:130px;height:80px;background-repeat:no-repeat;background-position:center center;background-size:100%;background-image:url('http://www.ntoing.com/PhotoGallery/Posts/7465b497-b9ef-474e-9ec9-5ffbd12bef5b/1022014/1_201421015243750_small.jpg');"></div>
             </a>
         </div>
         <div class="MostPopularRigth">
-            <div><a onclick="_gaq.push(['_trackEvent', 'OnPageActions', 'most_pop']);" target="_blank" class="MostPopularTitle" href="http://www.ntoing.com/post/a44688d126976">It's a good thing Dragon Ball Z villains get stronger in small increments</a></div>
-            <div class="MostPopularPoints"><b>10986</b> Post Credits</div>
+            <div><a onclick="_gaq.push(['_trackEvent', 'OnPageActions', 'most_pop']);" target="_blank" class="MostPopularTitle" href="http://www.ntoing.com/post/1c26eacd7956">Every Time I Get Addicted To A Game…</a></div>
+            <div class="MostPopularPoints"><b>9146</b> Post Credits</div>
         </div>
         <div class="clear"></div>
     </div>
     
     <div class="MostPopular">  
         <div class="MostPopularPhoto">
-            <a target="_blank" onclick="_gaq.push(['_trackEvent', 'OnPageActions', 'most_pop']);" href="http://www.ntoing.com/post/7ec5a48224587">
+            <a target="_blank" onclick="_gaq.push(['_trackEvent', 'OnPageActions', 'most_pop']);" href="http://www.ntoing.com/post/8c6047b713521">
                 
                 
                 
                 
-                <div id="AdsPlaceHolder_MostPopular1_rpt_PhotoImg_bg_1" style="width:130px;height:80px;background-repeat:no-repeat;background-position:center center;background-size:100%;background-image:url('http://www.ntoing.com/PhotoGallery/Posts/b67e5044-3688-41dd-8fc9-effcd241e3d1/1042015/13_201541018328874.jpg');"></div>
+                <div id="AdsPlaceHolder_MostPopular1_rpt_PhotoImg_bg_1" style="width:130px;height:80px;background-repeat:no-repeat;background-position:center center;background-size:100%;background-image:url('http://www.ntoing.com/PhotoGallery/Posts/b67e5044-3688-41dd-8fc9-effcd241e3d1/2462014/13_201462416200329_small.jpeg');"></div>
             </a>
         </div>
         <div class="MostPopularRigth">
-            <div><a onclick="_gaq.push(['_trackEvent', 'OnPageActions', 'most_pop']);" target="_blank" class="MostPopularTitle" href="http://www.ntoing.com/post/7ec5a48224587">Learn the diference</a></div>
-            <div class="MostPopularPoints"><b>12446</b> Post Credits</div>
+            <div><a onclick="_gaq.push(['_trackEvent', 'OnPageActions', 'most_pop']);" target="_blank" class="MostPopularTitle" href="http://www.ntoing.com/post/8c6047b713521">Who Would REALLY Win if Superman and Batman Fought...</a></div>
+            <div class="MostPopularPoints"><b>8677</b> Post Credits</div>
         </div>
         <div class="clear"></div>
     </div>
     
     <div class="MostPopular">  
         <div class="MostPopularPhoto">
-            <a target="_blank" onclick="_gaq.push(['_trackEvent', 'OnPageActions', 'most_pop']);" href="http://www.ntoing.com/post/8e6e72f324503">
+            <a target="_blank" onclick="_gaq.push(['_trackEvent', 'OnPageActions', 'most_pop']);" href="http://www.ntoing.com/post/71e26c8531789">
                 
                 
                 
                 
-                <div id="AdsPlaceHolder_MostPopular1_rpt_PhotoImg_bg_2" style="width:130px;height:80px;background-repeat:no-repeat;background-position:center center;background-size:100%;background-image:url('http://www.ntoing.com/PhotoGallery/Posts/b67e5044-3688-41dd-8fc9-effcd241e3d1/842015/13_201548105412126.jpg');"></div>
+                <div id="AdsPlaceHolder_MostPopular1_rpt_PhotoImg_bg_2" style="width:130px;height:80px;background-repeat:no-repeat;background-position:center center;background-size:100%;background-image:url('http://www.ntoing.com/PhotoGallery/Posts/b67e5044-3688-41dd-8fc9-effcd241e3d1/7102015/13_2015107132746790.jpg');"></div>
             </a>
         </div>
         <div class="MostPopularRigth">
-            <div><a onclick="_gaq.push(['_trackEvent', 'OnPageActions', 'most_pop']);" target="_blank" class="MostPopularTitle" href="http://www.ntoing.com/post/8e6e72f324503">50 Shades of Iron Man! 50 Iron Man suits of the last 50 years!</a></div>
-            <div class="MostPopularPoints"><b>7981</b> Post Credits</div>
+            <div><a onclick="_gaq.push(['_trackEvent', 'OnPageActions', 'most_pop']);" target="_blank" class="MostPopularTitle" href="http://www.ntoing.com/post/71e26c8531789">Gamers will know that feeling</a></div>
+            <div class="MostPopularPoints"><b>8335</b> Post Credits</div>
         </div>
         <div class="clear"></div>
     </div>
     
     <div class="MostPopular">  
         <div class="MostPopularPhoto">
-            <a target="_blank" onclick="_gaq.push(['_trackEvent', 'OnPageActions', 'most_pop']);" href="http://www.ntoing.com/post/f71a3f1726973">
+            <a target="_blank" onclick="_gaq.push(['_trackEvent', 'OnPageActions', 'most_pop']);" href="http://www.ntoing.com/post/509cb33931597">
                 
                 
                 
                 
-                <div id="AdsPlaceHolder_MostPopular1_rpt_PhotoImg_bg_3" style="width:130px;height:80px;background-repeat:no-repeat;background-position:center center;background-size:100%;background-image:url('http://www.ntoing.com/PhotoGallery/Posts/b67e5044-3688-41dd-8fc9-effcd241e3d1/762015/13_201567132642989.jpg');"></div>
+                <div id="AdsPlaceHolder_MostPopular1_rpt_PhotoImg_bg_3" style="width:130px;height:80px;background-repeat:no-repeat;background-position:center center;background-size:100%;background-image:url('http://www.ntoing.com/PhotoGallery/Posts/b67e5044-3688-41dd-8fc9-effcd241e3d1/2102015/13_2015102121818994_small.jpg');"></div>
             </a>
         </div>
         <div class="MostPopularRigth">
-            <div><a onclick="_gaq.push(['_trackEvent', 'OnPageActions', 'most_pop']);" target="_blank" class="MostPopularTitle" href="http://www.ntoing.com/post/f71a3f1726973">Even Zoro is shocked...</a></div>
-            <div class="MostPopularPoints"><b>7148</b> Post Credits</div>
+            <div><a onclick="_gaq.push(['_trackEvent', 'OnPageActions', 'most_pop']);" target="_blank" class="MostPopularTitle" href="http://www.ntoing.com/post/509cb33931597">I like this Elsa more.</a></div>
+            <div class="MostPopularPoints"><b>7368</b> Post Credits</div>
         </div>
         <div class="clear"></div>
     </div>
     
     <div class="MostPopular">  
         <div class="MostPopularPhoto">
-            <a target="_blank" onclick="_gaq.push(['_trackEvent', 'OnPageActions', 'most_pop']);" href="http://www.ntoing.com/post/688d083e26949">
+            <a target="_blank" onclick="_gaq.push(['_trackEvent', 'OnPageActions', 'most_pop']);" href="http://www.ntoing.com/post/8b371d9428109">
                 
                 
                 
                 
-                <div id="AdsPlaceHolder_MostPopular1_rpt_PhotoImg_bg_4" style="width:130px;height:80px;background-repeat:no-repeat;background-position:center center;background-size:100%;background-image:url('http://www.ntoing.com/PhotoGallery/Posts/68e83f64-5a20-4560-9068-8d7d2c01a372/662015/80_201566111415443_small.jpg');"></div>
+                <div id="AdsPlaceHolder_MostPopular1_rpt_PhotoImg_bg_4" style="width:130px;height:80px;background-repeat:no-repeat;background-position:center center;background-size:100%;background-image:url('http://www.ntoing.com/PhotoGallery/Posts/b67e5044-3688-41dd-8fc9-effcd241e3d1/772015/13_201577172958970.jpg');"></div>
             </a>
         </div>
         <div class="MostPopularRigth">
-            <div><a onclick="_gaq.push(['_trackEvent', 'OnPageActions', 'most_pop']);" target="_blank" class="MostPopularTitle" href="http://www.ntoing.com/post/688d083e26949">Accidentally sprayed my controller with wrong paint, I left it for a couple of hours, when I returned, whoa!</a></div>
-            <div class="MostPopularPoints"><b>12104</b> Post Credits</div>
+            <div><a onclick="_gaq.push(['_trackEvent', 'OnPageActions', 'most_pop']);" target="_blank" class="MostPopularTitle" href="http://www.ntoing.com/post/8b371d9428109">Engineer level 99</a></div>
+            <div class="MostPopularPoints"><b>11417</b> Post Credits</div>
         </div>
         <div class="clear"></div>
     </div>
@@ -535,8 +566,9 @@ google_ad_height = 280;
 
 
 
- <script type="text/javascript"> var adParams = {  a: '51441117', size: '800x600', numOfTimes: '1', duration: '10', serverdomain: 'ads.adplxmd.com', period: 'minute', openNewTab: true, mobilePopupDisabled: 'true',context:'c63961131' };  </script>  <script type="text/javascript" src="http://cdn.adplxmd.com/adplexmedia/scripts/popunder/popunder.js"></script> 
+ <script type="text/javascript"> var adParams = {  p: '70404736',  serverdomain: 'adplexmedia'  , openNewTab: true , numOfTimes: '1',duration: '30',period: 'minute' };  </script>  <script type="text/javascript" src="http://cdn.adplxmd.com/adplexmedia/tags/xpopunder/xpopunder.js?ap=1304"></script> 
 <div>.</div>
+
     </form>
 
 
