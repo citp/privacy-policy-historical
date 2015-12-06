@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the oneyoungworld.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140715id_/http%3A//www.oneyoungworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneyoungworld.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206044558id_/http%3A//www.oneyoungworld.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | One Young World
 
-This policy sets out the basis on which we will process your personal data. For the purpose of the Data Protection Act 1998 ("the Act") the data controller is Havas Worldwide of Cupola House, 15 Alfred Place, London, WC1E 7EB. Our nominated representative for the purpose of the Act is Eamon Taylor at One Young World.
+This policy sets out the basis on which we will process your personal data. For the purpose of the Data Protection Act 1998 ("the Act") the data controller is One Young World of 25 Nutford Place, London, W1H 5YQ. Our nominated representative for the purpose of the Act is Eamon Taylor at One Young World.
 
 **Information held about you**
 
@@ -25,6 +25,7 @@ We use information held about you in the following ways:
 If you would like details of what information we hold in relation to your use of this website please send an email to [info@oneyoungworld.com](mailto:info@oneyoungworld.com) or write to us at the above address.  
 You may also refuse to accept cookies by activating the setting on your browser, which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain current or future parts of our website.
 
+  
 **Cookie and Privacy**
 
 _What is a cookie?_
@@ -34,30 +35,29 @@ Cookies are small text files that are placed on your computer by websites that y
 Find out more about cookies:
 
 [What are cookies](http://en.wikipedia.org/wiki/HTTP_cookie)  
-[Information Comissioner's Offfice guidance on cookie regulations (PDF)](http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide/~/media/documents/library/Privacy_and_electronic/Practical_application/guidance_on_the_new_cookies_regulations.ashx)
+[Information Comissioner's Office guidance on cookie regulations (PDF)](http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide/~/media/documents/library/Privacy_and_electronic/Practical_application/guidance_on_the_new_cookies_regulations.ashx)
 
-Cookie | Name | Purpose | Further information   
+Cookie |  Name |  Purpose |  Further information  
 ---|---|---|---  
-Cookies set by Drupal | has_js  
+Cookies set by Drupal |  has_js  
 SESS... | 
 
 The has_js cookie records whether your browser has JavaScript enabled.
 
-The SESS... cookie is a Drupal session cookie used when an authorised user (in other words, an EIN member) logs in. You won't get this if you are an anonymous user. 
+The SESS... cookie is a Drupal session cookie used when an authorised user (in other words, an EIN member) logs in. You won't get this if you are an anonymous user.
 
-| [One Young World's Privacy Policy](http://www.oneyoungworld.com/privacy)  
-Google Analytics | _utma   
+|  [One Young World's Privacy Policy](http://www.oneyoungworld.com/privacy)  
+Google Analytics |  _utma  
 _utmb  
 _utmc  
 _utmz | 
 
 This website uses Google Analytics, a tool which uses cookies to provide us with information on how people use the Aston site. This information helps us to analyse the performance of the site so we can make improvements.
 
-These cookies don't collect information that identifies individual visitors to the website. All information these cookies collect is aggregated and is therefore anonymous.  
-Google Analytics privacy overview
+These cookies don't collect information that identifies individual visitors to the website. All information these cookies collect is aggregated and is therefore anonymous. Google Analytics privacy overview
 
-| [Google Analytics privacy overview](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)  
-YouTube cookies  | PREF   
+|  [Google Analytics privacy overview](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)  
+YouTube cookies |  PREF  
 YSC  
 VISITOR_INFO_LIVE  
 ACTIVITY | 
@@ -66,31 +66,26 @@ This cookie is set by the YouTube video service on pages with embedded YouTube v
 
 We embed videos from our official YouTube channels using YouTube's privacy-enhanced mode. This mode may set cookies on your computer once you click on the YouTube video player, but YouTube will not store personally-identifiable cookie information for playbacks of embedded videos using the privacy-enhanced mode. YouTube's privacy enhanced mode for embedded videos
 
-| [YouTube's privacy enhanced mode for embedded videos](http://support.google.com/youtube/bin/answer.py?hl=en-GB&answer=141046?)  
-Cookies set by Twitter | __utma  
+|  [YouTube's privacy enhanced mode for embedded videos](http://support.google.com/youtube/bin/answer.py?hl=en-GB&answer=141046?)  
+Cookies set by Twitter |  __utma  
 __utmc  
 __utmz  
 _twitter_sess  
 eu_cn  
 guest_id  
 original_referer  
-pid |  These cookies are created by Twitter. In this case they are present because a Twitter widget or button is being used on the One Young World website. | [Twitter's privacy policy](http://twitter.com/privacy)  
-Cookies set by Facebook | Datr  
-lsd
-
-reg_ext_ref
-
-reg_fb_gate
-
-reg_fb_ref
-
-| These cookies, provided by Facebook, are set when a visitor is logged in to or otherwise using their service. This allows a user to easily comment or share an article with their peers through the social network. | [Facebook's Privacy Policy](https://www.facebook.com/help/?faq=115180708570932#How-does-Facebook-use-cookies%3Cbr%20/%3E)  
-Ripple Platform | RPL  
-__rpl_session |   |    
+pid |  These cookies are created by Twitter. In this case they are present because a Twitter widget or button is being used on the One Young World website. |  [Twitter's privacy policy](http://twitter.com/privacy)  
+Cookies set by Facebook |  Datr  
+lsd  
+reg_ext_ref  
+reg_fb_gate  
+reg_fb_ref |  These cookies, provided by Facebook, are set when a visitor is logged in to or otherwise using their service. This allows a user to easily comment or share an article with their peers through the social network. |  [Facebook's Privacy Policy](https://www.facebook.com/help/?faq=115180708570932#How-does-Facebook-use-cookies%3Cbr%20/%3E)  
+Ripple Platform |  RPL  
+__rpl_session |    |     
   
 **How to control or delete these cookies**
 
-If you wish to restrict or block the cookies which are set by our website, you can do this through your browser settings. The [About Cookies website ](http://www.aboutcookies.org/)contains step-by-step guides to controling or deleting cookies on a wide variety of browsers.
+If you wish to restrict or block the cookies which are set by our website, you can do this through your browser settings. The [About Cookies website ](http://www.aboutcookies.org/)contains step-by-step guides to controlling or deleting cookies on a wide variety of browsers.
 
 For information on how to control or remove cookies on your mobile phone or other devices, please refer to the device's manual or manufacturer's website.
 
