@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frugaltravelguy.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516162857id_/http%3A//www.internetbrands.com/privacy/privacy-main.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugaltravelguy.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206232635id_/http%3A//www.internetbrands.com/privacy/privacy-main.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -75,7 +75,7 @@ In addition, we may collect information about how you use our sites such as the 
 
 #### Cookies
 
-We use use cookies and other tracking technologies (including browser cookies, pixels, beacons, mobile application identifiers, and Adobe Flash technology) to help us recognize you across different sites and services, improve your experience, increase security, measure use and effectiveness of our services, and serve advertising. You can control cookies through your browser settings and other tools. For more, information, please read our [Cookie Policy](https://web.archive.org/web/20150516162857id_/http%3A//www.internetbrands.com/privacy/cookie-policy.html). By visiting our sites and services, you consent to the placement of cookies and beacons in your browser and HTML-based emails in accordance with this privacy policy and our Cookie Policy.
+We use use cookies and other tracking technologies (including browser cookies, pixels, beacons, mobile application identifiers, and Adobe Flash technology) to help us recognize you across different sites and services, improve your experience, increase security, measure use and effectiveness of our services, and serve advertising. You can control cookies through your browser settings and other tools. For more, information, please read our [Cookie Policy](https://web.archive.org/web/20151206232635id_/http%3A//www.internetbrands.com/privacy/cookie-policy.html). By visiting our sites and services, you consent to the placement of cookies and beacons in your browser and HTML-based emails in accordance with this privacy policy and our Cookie Policy.
 
 #### Do Not Track
 
@@ -119,7 +119,7 @@ Requested communications include, for instance, email newsletters or software up
   * Select the email "opt out" or "unsubscribe" link, or follow the opt-out instructions included in each email communication.
   * To unsubscribe from text messages delivered to mobile devices, reply to the message with the words "STOP" or "END."
   * Return to the web page(s) where you originally registered your preferences and follow the opt-out instructions.
-  * [Contact us](https://web.archive.org/web/20150516162857id_/http%3A//www.internetbrands.com/privacy/privacy-contact-form.php). Please provide your name, contact information, and specific relevant information that you no longer wish to receive.
+  * [Contact us](https://web.archive.org/web/20151206232635id_/http%3A//www.internetbrands.com/privacy/privacy-contact-form.php). Please provide your name, contact information, and specific relevant information that you no longer wish to receive.
 
   
 
@@ -137,7 +137,7 @@ General communications provide information about products, services, and/or supp
 
   * Select the email "opt out" or "unsubscribe" link, or follow the opt-out instructions included in each email communication.
   * To unsubscribe from text messages delivered to mobile devices, reply to the message with the words "STOP" or "END."
-  * [Contact us](https://web.archive.org/web/20150516162857id_/http%3A//www.internetbrands.com/privacy/privacy-contact-form.php). Please provide your name, relevant contact information, and specific relevant information about your privacy preferences.
+  * [Contact us](https://web.archive.org/web/20151206232635id_/http%3A//www.internetbrands.com/privacy/privacy-contact-form.php). Please provide your name, relevant contact information, and specific relevant information about your privacy preferences.
 
 
 * ### Protecting Personal and Protected Health Information
