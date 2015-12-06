@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gator995.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512062618id_/http%3A//gator995.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gator995.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206050408id_/http%3A//gator995.com/privacy) for the most accurate reproduction.*
 
 # Gator 99.5 – Lake Charles’ Country Station – Lake Charles Country Radio
 
