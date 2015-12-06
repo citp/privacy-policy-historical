@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dyson.co.uk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629075554id_/http%3A//www.dyson.co.uk/support/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyson.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206025638id_/http%3A//www.dyson.co.uk/support/privacypolicy.aspx) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
@@ -22,7 +22,9 @@ We may perform statistical analyses of user behaviour (for example, by analysing
 
 ##  What opt out rights and rights to obtain details of the information we hold on you do you have? 
 
-If you wish to opt out of being contacted by Dyson or its agents about our products and services, you may either do so at the time you provide us with your contact details, or at any time by: 
+Where you opt in to marketing communications, we may contact you using the address and email address that you have provided.
+
+If you wish to opt out of being contacted by Dyson or its agents about our products and services, you may either do so at the time you provide us with your contact details, or at any time by:
 
   1. Using the unsubscribe option included in all our email correspondence, or
   2. Sending an email to [service@dyson.com](mailto:service@dyson.com), or
@@ -58,7 +60,7 @@ If you would like to learn more about these services, please contact your card i
 
 ##  Dyson Balloon Game 
 
-Please [click here](https://web.archive.org/web/20150629075554id_/http%3A//www.dyson.co.uk/support/medialibrary/EULA%20Dyson%20Balloon%20Game.pdf) to download the end user license agreement for the Dyson balloon game.
+Please [click here](https://web.archive.org/error/404.aspx?item=web%3a%7b20EC2F77-DB6C-4455-A7A7-4EFD5ED550BD%7d%40en-GB) to download the end user license agreement for the Dyson balloon game.
 
 ##  Award-winning customer service 
 
