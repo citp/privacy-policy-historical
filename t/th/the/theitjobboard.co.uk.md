@@ -1,171 +1,57 @@
-> *The following text is extracted and transformed from the theitjobboard.co.uk privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819130532id_/http%3A//www.theitjobboard.co.uk/browse/Privacy-and-Registration/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theitjobboard.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114905id_/http%3A//info.yahoo.com/privacy/us/yahoo/yas/details.html) for the most accurate reproduction.*
 
-# PP and Cookies Policy
+# Yahoo Privacy Policy
 
-> ### PRIVACY POLICY
-> 
-> Jobboard Enterprises Limited whose registered office is at 5th Floor, 215 Great Portland Street, W1W 5PN London, United Kingdom ("IT Job Board", "we, us, our") is a leader in the provision of online recruitment, advertising solutions. IT Job Board acts as the data controller of personal information obtained from its clients with a need for recruitment services and of personal information submitted by candidates who are interested in job postings. 
-> 
-> This privacy policy describes how your data is obtained, processed and forwarded and what your rights are in respect of your personal data.
-> 
-> ### _Collecting your data_
-> 
-> Our main aim is to facilitate the recruitment process, and match our clients' requirements to IT job opportunities or candidates. In order to fulfil our legal and business obligations we procure personal information you make available to us when visiting our Homepage. We use this information to improve our services we offer to you and to analyse and remedy defects. In order to use our services, you will be asked to provide us with your personal data such as your title and name, your email address and telephone number, company details, business telephone numbers. Furthermore you have the opportunity to submit your CV on which you can describe your skills, knowledge and experience.
-> 
-> In the course of recruitment process we may also store further information that may be of importance for a successful placement.
-> 
-> ### _How do we use your data_
-> 
-> To be able to provide our products and services to you, your information will be retained, processed and disclosed by us in the following ways:
-> 
->   
-> 
-> 
->   * To facilitate the recruitment process, by matching your details to IT job opportunities;
->   * To allow details of your skills and experience, to be viewed by our clients whom we feel may be interested in engaging your services. Please be assured that your personal details will only be provided to our clients if you have given permission to us to do so;
->   * To allow you to subscribe to our _"Jobs by Email"_ service. This service will allow you to receive details of latest jobs via e-mail which are relevant to your sector and professional experience. Where you are sent details of a job via _"Jobs by Email"_ service, you will be able to unsubscribe from such updates at any time [replydp@theitjobboard.com](mailto:replydp@theitjobboard.com)
->   * To keep you informed of IT job opportunities and IT contract assignments which we think may be of interest to you;
->   * To keep you updated of goods and services provided by our third party business partners which are relevant to your sector. You can opt out at any time from such e-mails [replydp@theitjobboard.com](mailto:replydp@theitjobboard.com)
->   * To preserve our business relationship with you as a user of our website;
->   * To keep you informed of the products and services (relevant to your sector and your professional interests) offered by us or our group companies via relevant marketing communications. These could include information about recently registered candidates/consultants, client workshops we are arranging, market updates, new software or training courses that may be of interest to you;
->   * To carry out our obligations arising from any contracts entered into between you and us.
->   * To notify you about changes to our service.
-> 
- _
-> 
-> ### Your access rights to your stored data, changes and objections to the data processing
-> 
-> _
-> 
-> You can contact us at [replydp@theitjobboard.com](mailto:replydp@theitjobboard.com) in the event that you: 
-> 
->   * Have any queries about the information that we hold about you;
->   * Wish to inform us of any changes in your information or wish to correct the information we hold about you;
->   * Have any requests with regard to our processing of your personal data;
->   * Decide at any time that you no longer wish to receive marketing emails from us or our group companies, please either email the above address or follow the unsubscribe link in one of our marketing email messages to you;
->   * Wish to access information held about you. On request, we will provide information in writing about your information and Personal Data stored on our database and its origin;
->   * Do not wish us to hold your information, you are entitled to tell us at any time and we will remove all such information as specified by you from our database in accordance with the law.
-> 
- _
-> 
-> ### Sharing your information
-> 
-> _
-> 
-> We want to provide as full a service as possible and support you in your recruitment needs. Your information may be accessible by the Jobboard Enterprise Group companies (which consist of [ITMedia](http://www.theitjobboard.co.uk/itmediaonline.com) and [New Wave Resourcing](http://www.theitjobboard.co.uk/nwruk.com) subject to strict security controls and measures to ensure your privacy rights in accordance with the applicable laws. Details of our group companies and office locations can be viewed online <http://www.theitjobboard.co.uk/aboutus/en>" We may disclose your personal data and information to third parties in the event that our business merges with or is bought by another business or company, in which case we may disclose your personal data to that organisation.
-> 
->  _
-> 
-> ### Hyperlinks
-> 
-> _
-> 
-> Our website may contain links to other websites, which are outside our control and are not covered by this statement. If you access other sites using the links provided, the operators of these sites may collect information from you, which will be used by them in accordance with their privacy policy, which may differ from ours.
-> 
->  _
-> 
-> ### Data quality
-> 
-> _
-> 
-> We rely on you to ensure that your information is complete, accurate and current. Please do inform us promptly of any changes to or inaccuracies of your information.
-> 
->  _
-> 
-> ### Data retention
-> 
-> _
-> 
-> We hold your data with a view to providing future recruitment services to you and to manage the business relationship. In the event that the business relationship ceases we confirm that we will delete personal data in accordance with our legal obligations.
-> 
->  _
-> 
-> ### Security measures
-> 
-> _
-> 
-> We have appropriate technical and organisational security measures in place to ensure the security of your information and to protect it against deliberate or accidental manipulation, destruction, loss or unauthorised access. 
-> 
-> Despite our efforts regarding security it is important to bear in mind that the internet is not a secure means of communication. Personal information communicated through the internet may be intercepted by other people. We cannot guarantee the security of personal information sent to us through this website. By using this website and entering your personal data, you accept that you use this website at your own risk. 
-> 
-> _
-> 
-> #### Changes to this Policy
-> 
-> _
-> 
-> Any changes we make to our Cookie & Privacy Policy in future will be posted on this page. We encourage you to check the date of this policy whenever you visit our website for any updates or changes.
-> 
-> #### WHAT ARE COOKIES?
-> 
-> A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer's hard drive.
-> 
-> #### WHAT TYPES OF COOKIES DO WE USE?
-> 
-> We use two types of cookies on our website:
-> 
-> 'Session Cookies'  
-> ---  
-> These are temporary cookies, which only exist in the period you access the website (or more strictly, until you close the browser after accessing the website). Session cookies help our website remember what you chose on the previous page, therefore avoiding having to re-enter information. On our website, these cookies do not contain personal information, and cannot be used to identify you.  
-> 'Persistent Cookies'  
-> These are cookies remain on your device after you have visited our website. These cookies help us to identify you as a unique visitor (by storing a randomly generated number).  
->   
-> #### WHY DO WE USE COOKIES?
-> 
-> To tailor our website so that it meets your specific needs, we use different technologies, including cookies, which allow us to distinguish you from other users of our website.
-> 
-> We use cookies: 
-> 
->   * To recognise and count the number of visitors and pages or various parts of a page they have visited on our site;
->   * To see how visitors move around the site when they are using it, for example, we use Google Analytics, a popular web analytics service provided by Google Inc. Google Analytics uses cookies to help us to analyse how visitors use our site. This helps us to improve the way our website works, for example, by ensuring that visitors are finding what they are looking for easily. Find our more about how these cookies are used on Google's Privacy site <http://tools.google.com/dlpage/gaoptout?hl=de>
->   * " To improve and monitor the advertisement we offer to our visitors. We also use Google's DoubleClick, which is one of the worlds leading provider for ad management and ad serving solutions. Like most websites and search engines, Google uses cookies in order to provide a better user experience and to serve relevant ads. Find out more about how these cookies are under <http://www.google.co.uk/doubleclick/about/index.html>
->   * To present our visitors with the most appropriate advertising banners and content, based on our visitor's interest and activity, we, for example use Yahoo! Search Marketing, search marketing tool of Yahoo! (including Overture Search Services (Ireland) Limited). On behalf of Jobboard Enterprises Limited, Yahoo! Search Marketing will use this information to help us monitor the performance of our online marketing campaigns. For more information about how Yahoo! uses information supplied on Yahoo! Advertising Solutions web sites, please read the Yahoo! Advertising Solutions Privacy Policy <http://info.yahoo.com/privacy/us/yahoo/yas/details.html>
-> 
+Please read this policy to understand what information Yahoo (including Overture Services, Inc.) collects, how we use it, and what choices you have regarding the use and sharing of your information when using the Yahoo Advertising Solutions (YAS) sites as a visitor. The YAS sites include sites that are branded "Yahoo Advertising Solutions" and "Yahoo Search Marketing" as well as sites on the following domains: [www.overture.com](http://www.overture.com/), [advertising.yahoo.com](http://advertising.yahoo.com/), [apt.yahoo.com](http://apt.yahoo.com/), [solutions.yahoo.com](http://solutions.yahoo.com/), and [summitseries.yahoo.com](http://summitseries.yahoo.com/). For more information on Yahoo's other privacy policies that apply to subscribers and users of other Yahoo products and services, including the Yahoo Shopping, Travel and Directory Submit programs, please read the [Yahoo Privacy Policy](http://privacy.yahoo.com/privacy/us/).
 
-> 
-> In summary, by using cookies we are able to improve your experience when you browse our website and enable us to continually improve our site and our services for you. Our cookies have been set in our browser and we will assume you are ok with them via your continuous use of our website. You can disable certain cookies as set out below. If you disable these cookies we cannot guarantee how the site will perform for you.
-> 
->  _
-> 
-> ##### MANAGING YOUR COOKIES
-> 
-> _
-> 
-> Enabling cookies will ensure you receive the optimum user experience from our website. 
-> 
-> Most browsers automatically accept cookies, but you can deactivate this function at any time and set your browser to notify you whenever a cookie is sent. You can use your browser settings to block all or some cookies. Please note that if you do block all cookies you may not be able to access all or parts of our site.
-> 
-> Most browsers automatically accept cookies, but you can deactivate this function at any time and set your browser to notify you whenever a cookie is sent. You can use your browser settings to block all or some cookies. Please note that if you do block all cookies you may not be able to access all or parts of our site.
-> 
-> Amending your cookie settings is different in different browsers, for ease, we've included instructions on amending your settings in the most popular browsers below:
-> 
-> ##### OPT-OUT FROM GOOGLE'S DOUBLECLICK
-> 
-> Anyone who prefers not use Google's DoubleClick cookie can opt out. This opt-out will be specific only to the browser that you are using when you click the "Opt out" button.<http://www.google.co.uk/policies/privacy/ads/>
-> 
-> ##### Opt-out from YAHOO! SEARCH MARKETING
-> 
-> If you choose, you may opt-out from Yahoo! Search Marketing using information collected with web beacons and cookies outside of the Yahoo! network of web sites. Cookies will need to be enabled for the opt-out to function.
-> 
-> Note: This opt-out applies to a specific browser rather than a specific user. Therefore you will need to opt-out separately from each computer or browser that you use. Additionally, the opt-out only applies to cookies used by perf.overture.com and not all cookies set by overture.com.
-> 
-> <http://advertisingcentral.yahoo.com/searchmarketing/en_HK/legal/privacy_y>
-> 
-> #### How to check cookies are enabled on windows platforms
-> 
-> **Microsoft Internet Explorer 7, 8 & 9**  
-> 1\. Select 'Tools' from the top menu of your browser and then select 'Internet options', then click on the 'Privacy' tab 2. Ensure that your Privacy level is set to Medium or below, which will enable cookies in your browser 3. Settings above Medium will disable cookies  
->  **Mozilla Firefox**  
->  1\. Select 'Tools' from the top menu of your browser and then select 'Options' 2. Then select the Privacy icon 3. Click on Cookies, then select 'allow sites to set cookies'  
->  **Google Chrome**  
->  1\. Select 'Tools' from the top menu of your browser and then select 'Options' 2. Click the 'Under the Hood' tab, locate the 'Privacy' section, and select the 'Content settings' button 3. Now select 'Allow local data to be set'  
->  **Safari**  
->  1\. Select the cog icon' from the top menu of your browser and then select 'Preferences' 2. Select 'Security and, check the option that says 'Block third-party and advertising cookies' 3. Click 'Save' How to check cookies are enabled for apple platforms Microsoft Internet Explorer 5.0 on OSX 1. Select 'Explorer' from the top menu of your browser and select 'Preferences' options 2 Scroll to the 'Cookies' option under Receiving Files 2. Select the 'Never Ask' option  
->  **Safari on OSX**  
->  1\. Select 'Safari' from the top menu of your browser and select the 'Preferences' option 2. Click on 'Security' then 'Accept cookies' 3. Select the 'Only from site you navigate to'
-> 
-> #### Other browsers
-> 
-> If you are using a different browser please consult your product documentation, online help files or the browser manufactures website. 
-> 
-> This policy was updated in July 2012
+What this policy covers
+
+This policy covers business contact information, such as name, email address, telephone number and address and other work-related information, that visitors provide to YAS online on publicly available YAS sites (where advertiser login is not required). If you are a business enrolled in advertiser programs that are subject to the Advertiser Master Services Terms and Conditions, Insertion Order(s) or other advertising or marketing agreements (collectively, "Advertising Agreement"), please refer to your Advertising Agreement to learn more about how Yahoo may use information about your business. The terms of such business agreements supersede the provisions of this Privacy Policy.
+
+Types of information we collect and how we use it
+
+The following describes what information Yahoo Advertising Solutions collects from visitors to the YAS sites as well as outside the Yahoo network of web sites, and how we may use it:
+
+  1. Email addresses and related information  
+There may be opportunities for visitors to the site to sign-up to receive email communications. Visitors may subscribe by providing an email address and other requested information. Recipients of email marketing messages will have the opportunity to unsubscribe from future messages via the link(s) provided within the message.
+  2. Search  
+The Overture.com site offers web search functionality to visitors. Anonymous cookies are used on the site in connection with the search functionality.
+  3. Cookies and web beacons on YAS web sites  
+Yahoo accesses [Yahoo cookies](http://privacy.yahoo.com/privacy/us/cookies/details.html) and may use [Yahoo web beacons](http://privacy.yahoo.com/privacy/us/beacons/details.html) when you visit the YAS sites or other sites on the Yahoo domain. Yahoo and certain partners working on behalf of Yahoo, also use web beacons on the YAS sites. Yahoo may share site usage information about visitors to the YAS sites with third-party advertising companies for the purpose of targeting and measuring the effectiveness of our Internet advertisements on this site and other sites. For this purpose, Yahoo and these third-party advertising companies note some of the pages you visit on our sites through the use of web beacons.
+
+The information collected by these third-party advertising companies through the use of these web beacons is not personally identifiable. For more information about our third-party advertisers, including how to opt out of their targeting programs, please visit their sites: [Omniture (207.net)](http://www.omniture.com/), [Commission Junction](http://www.cj.com/) and [SearchRev](http://www.searchrev.com/).
+
+In addition to the above, Yahoo's email delivery vendor may employ web beacons and cookies within HTML email messages sent on our behalf and on the YAS sites. The use of cookies and web beacons described above help Yahoo to measure the effectiveness of our advertising and how visitors use the YAS sites. 
+
+  4. YAS cookies and web beacons outside the Yahoo network of web sites  
+Yahoo Search Marketing offers advertisers tools that allow them to better understand the performance of their online marketing campaigns. For more information about these tools and the web beacons and cookies used, please read the [Yahoo Search Marketing Tools Privacy Statement](http://docs.yahoo.com/info/privacy/us/ysmt.html). 
+  5. Promotions and sweepstakes  
+From time to time, Yahoo may sponsor or host promotions and sweepstakes where we collect information. Use and sharing of this information will be disclosed in promotion and sweepstakes rules or on the page where you sign-up. 
+  6. IP addresses and information specific to your computer  
+Yahoo logs [IP](http://privacy.yahoo.com/privacy/us/ip/details.html) information when you visit our sites, including the YAS sites. In addition to this information, Yahoo collects information that your computer's browser automatically reports to us such as information about your operating system and browser version. 
+  
+
+
+
+Information Sharing and Disclosure
+
+Yahoo does not rent, sell or share personally identifiable information about visitors to the YAS sites. However, Yahoo may share this information with selected partners, vendors, agents or others who work on our behalf, in order to provide products or services you've requested, or when we have your permission. In addition, Yahoo may share information about you if Yahoo is acquired by or merged with another company. In this event, Yahoo will notify you before information about you is transferred and becomes subject to a different privacy policy.
+
+Please note that we may also share information in the event that we are asked to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims, or as otherwise permitted by law. 
+
+Other
+
+Yahoo may update this policy. We will notify you about significant changes in the way we treat personal information by placing a prominent notice on this site. 
+
+The YAS sites are not targeted at children and are not intended for use by children under the age of 13.
+
+If you have any questions about this Privacy Policy, please contact us at the following:
+
+Yahoo! Inc.  
+Yahoo Advertising Solutions - Privacy Policy Issues  
+701 First Avenue  
+Sunnyvale, CA 94089
+
+[Feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_yas)
+
+Effective Date: July 13, 2005 
