@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingclipart.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145351id_/http%3A//www.weddingclipart.com/wca/privacyPolicy/view.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingclipart.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206051451id_/http%3A//www.weddingclipart.com/wca/privacyPolicy/view.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
