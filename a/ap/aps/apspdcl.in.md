@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apspdcl.in privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805180749id_/http%3A//apspdcl.in/SPDCL_Home.portal%3F_nfpb%3Dtrue%26_pageLabel%3DLogin_portal_page_103) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apspdcl.in privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206112306id_/http%3A//www.apspdcl.in/SPDCL_Home.portal%3F_nfpb%3Dtrue%26_pageLabel%3DLogin_portal_page_103) for the most accurate reproduction.*
 
 # ::APSPDCL::
 
