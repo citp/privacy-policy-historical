@@ -1,0 +1,15 @@
+> *The following text is extracted and transformed from the dropant.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206034152id_/http%3A//dropant.com/en/privacy-policy) for the most accurate reproduction.*
+
+# Dropant
+
+## Privacy/Cookie Statement
+
+When you visit Dropant.com website, we use cookies to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. Our cookies do not contain personal information like your name or email address and are not used to collect personal information.
+
+Dropant.com also uses services of third parties like Google Analytics, Google Adsense and others. These parties can also use cookies and/or web beacons on our website. The information gathered by these instruments regarding your use of our website (including your IP Adress) can be tranfered to servers of those third parties and stored on those servers. These parties use this information to analyse your use of thise website, to create reports on website activity for website owners and to offer other services regarding website activity and internet use. These third parties may disclose this information to others if they are legaly obliged to do so or if other parties process this information on behalve of the third parties.
+
+We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting [http://www.google.com/ads/preferences](http://www.google.com/ads/preferences/).
+
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of our website.
+
+Website users who don't want their data collected with Google Analytics can install the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout).
