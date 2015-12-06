@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mutualofomaha.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002504id_/http%3A//www.mutualofomaha.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mutualofomaha.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206235555id_/http%3A//www.mutualofomaha.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Mutual of Omaha
 
@@ -7,8 +7,8 @@ Mutual of Omaha Insurance Company and its affiliates (“Mutual of Omaha”) res
 In addition to this Policy, Mutual of Omaha’s written Privacy Notices further describe how we handle your personal information (defined below) shared with us, such as when you apply for or purchase our products and services. If you would like to view these Privacy Notices, please click on the appropriate link below:
 
   * Privacy Notices
-  * [HIPAA Notices](https://web.archive.org/web/20150608002504id_/http%3A//www.mutualofomaha.com/legal/hipaa.php)
-  * [New York Domestic Violence](https://web.archive.org/web/20150608002504id_/http%3A//www.mutualofomaha.com/legal/new-york-victims.php)
+  * [HIPAA Notices](https://web.archive.org/web/20151206235555id_/http%3A//www.mutualofomaha.com/legal/hipaa.php)
+  * [New York Domestic Violence](https://web.archive.org/web/20151206235555id_/http%3A//www.mutualofomaha.com/legal/new-york-victims.php)
 
 
 
@@ -87,21 +87,21 @@ If for some reason you believe that our sites have not adhered to this Policy, p
 
     * Sending an e-mail request to [webmaster@mutualofomaha.com](mailto:webmaster@mutualofomaha.com); or
     * Sending a letter via US Mail to:  Mutual of Omaha Insurance Company   
-Mutual of Omaha Plaza   
+3300 Mutual of Omaha Plaza   
 Omaha, NE 68175   
 Attention: Web Master 
   * Mutual of Omaha reserves the right to modify or amend this Policy at any time. Your continued use of our sites after we post any changes to this Policy on our sites will constitute your acceptance of those changes, so please check the Policy periodically for updates.
 
 The latest revision to this Policy occurred in May, 2015. Changes to this Policy will not affect our use of previously provided personal information.
 
-  * Your use of this site is subject to certain [Terms and Conditions of Use](https://web.archive.org/web/20150608002504id_/http%3A//www.mutualofomaha.com/legal/terms.php). 
+  * Your use of this site is subject to certain [Terms and Conditions of Use](https://web.archive.org/web/20151206235555id_/http%3A//www.mutualofomaha.com/legal/terms.php). 
   * Please note that whenever you submit any information to us in connection with any Mutual of Omaha products and services, you consent to Mutual of Omaha’s processing of this information as necessary to provide the products and services in which you are participating. 
 
 If you have any questions or comments about our Policy and/or the way it affects you, please feel free to contact us by:
 
     * Sending an e-mail request to [webmaster@mutualofomaha.com](mailto:webmaster@mutualofomaha.com); or
     * Sending a letter via US Mail to:  Mutual of Omaha Insurance Company   
-Mutual of Omaha Plaza   
+3300 Mutual of Omaha Plaza   
 Omaha, NE 68175   
 Attention: Web Master 
 
