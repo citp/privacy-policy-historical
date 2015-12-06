@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evo.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610132225id_/http%3A//www.evo.com/what-is-your-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evo.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206205620id_/http%3A//www.evo.com/what-is-your-privacy-policy.aspx) for the most accurate reproduction.*
 
 # What is your privacy policy? | evo
 
