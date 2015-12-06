@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theisozone.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629004922id_/http%3A//www.theisozone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theisozone.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206163700id_/http%3A//www.theisozone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • The Iso Zone
 
