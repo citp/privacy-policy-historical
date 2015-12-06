@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the martinguitar.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630134832id_/http%3A//www.martinguitar.com/component/content/article.html%3Fid%3D220) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the martinguitar.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206215033id_/http%3A//martinguitar.com/component/content/article.html%3Fid%3D220) for the most accurate reproduction.*
 
 # Martin Guitar | C.F. Martin & Co.
 
