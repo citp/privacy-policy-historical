@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the migrationideas.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201505id_/http%3A//www.migrationideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the migrationideas.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206125411id_/http%3A//www.migrationideas.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -14,7 +14,7 @@ If you do nothing during your visit but browse through the website, read pages, 
 
 **_IF YOU SEND US EMAIL:_**
 
-You may choose to provide us with personal information, as in email with a comment or question. We use the information to improve our services to you or to respond to your requests. Except for authorized law enforcement Investigations/enquiries, we do not share our email with any other outside organizations.
+You may choose to provide us with personal information, as in email with a comment or question. We use the information to improve our services to you or to respond to your requests. Except for authorized law enforcement Investigations/enquiries,we do not share your email particulars with any other organizations.
 
 **_COOKIES:_      **
 
