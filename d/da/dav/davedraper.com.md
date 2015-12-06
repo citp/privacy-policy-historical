@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the davedraper.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607183343id_/http%3A//www.davedraper.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davedraper.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206215343id_/http%3A//www.davedraper.com/privacy-policy.html) for the most accurate reproduction.*
 
 # IronOnline Privacy Policy
-
-[ ](http://davedraper.com/)
-
-Before you get distracted by all the great options you're about to find here, please sign up for Dave's free weekly newsletter so he can continue to encourage and motivate you toward your fitness goals. 
-
-**Chris M writes:**  
-"You blend plain-spoken wisdom, motivational fire and wry humor into a weekly email jolt that leaves me itching to hit the gym. Whether I'm looking for workout routines, diet tips or a friendly kick in the butt, the Bomber comes through every time." ... [**_Read more..._**](http://www.davedraper.com/newsletter-testimonials.html)
 
 The following discloses our information gathering and dissemination practices for this website. 
 
