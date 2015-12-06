@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwnorton.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629234106id_/http%3A//books.wwnorton.com/books/privacy.aspx%3Fid%3D4404) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwnorton.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206041530id_/http%3A//books.wwnorton.com/books/privacy.aspx%3Fid%3D4404) for the most accurate reproduction.*
 
 # Privacy Policy | W. W. Norton & Company
 
