@@ -1,8 +1,17 @@
-> *The following text is extracted and transformed from the milletsports.co.uk privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623064321id_/http%3A//www.milletsports.co.uk/about/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milletsports.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141726id_/http%3A//www.milletsports.co.uk/about/privacy-and-security) for the most accurate reproduction.*
 
-# Privacy and Security – Millet Sports
+# Privacy and Security | Millet Sports
 
-We take the safety and security of your details seriously at ActivInstinct, which is why whenever we collect any details from you we will always use a secure encrypted form to do so. When you submit your details to us they are encrypted into a secure code that only we have the key to decipher.
+## About Us
+
+Millet Sports is part of the [ _JD Sports Fashion Group_](http://www.milletsports.co.uk/about/history/group-brands) and, for the purposes of the information which you provide to us, acts as the data controller. This means that we are responsible for what happens to the information that you give to us. We will at all times compile with the Data Protection Act 1998 and make sure that we keep your data secure and steps are taken to prevent any unauthorised access to your information. From time to time, we will share the information which you provide to us with other group companies within the [JD Sports Fashion Group](http://www.milletsports.co.uk/about/history/group-brands). _  
+_
+
+[_JD Sports Fashion Group_](http://www.milletsports.co.uk/about/history/group-brands) is constantly growing and changing. We will always update the web page here, so you should take a look from time to time to see if new companies have joined the group or if any company leaves our group. 
+
+## The Millet Sports' Privacy Policy
+
+We take the safety and security of your details seriously at Millet Sports, which is why whenever we collect any details from you we will always use a secure encrypted form to do so. When you submit your details to us they are encrypted into a secure code that only we have the key to decipher.
 
 We keep all of your personal information on a secure server and treat all information you provide us with as confidential. For added security, we do not keep any card payment details on our database. Instead, we use a secure payment gateway to verify all transactions and guard against fraud, which only passes a secure code to us that does not contain any sensitive data once it has approved the transaction.
 
@@ -27,7 +36,13 @@ We only use your personal information for the following purposes:
 
 
 
-We may contact you using any of the information you have provided us, such as by email or telephone for the above purposes.
+We may contact you using any of the information you have provided us, such as by email or telephone for the above purposes. If you have opted in to receive marketing communications you are able to unsubscribe at anytime just by letting us know via email to enquiries@milletsports.co.uk. The information collected about you will not be used for any other purposes and will not be sold or otherwise disclosed to any other organisations, except to (i) other companies within our group, (ii) our or their successors in title and (iii) third party service providers engaged by us (or other members of our group) to help operate our business effectively. 
+
+From time to time your personal information may be processed by systems which are located outside the United Kingdom. Where this happens, we will ensure that your information will be kept secure and your privacy rights remain protected consistent with the Data Protection Act 1998.
+
+We also use your data for marketing purposes which may mean that you will receive marketing communications from us, other companies within the [_JD Sports Fashion Group_](http://www.milletsports.co.uk/about/history/group-brands) or carefully selected third parties. However if you do receive marketing communications from other companies, we will endeavour to ensure that the company in question and it's products will be as relevant to you as possible.
+
+To help make ordering with Millet Sports easier, we may send emails relating to orders that have not been completed. You can opt out from these using the usual methods or by following the instructions in the emails.
 
 We may also collect data (user information) on your browsing habits whilst on our site (such as the URL or advert you came from, the geographical area of your computer, the pages you browsed and the search terms you entered whilst on our Website). This is common when shopping online and allows us to improve our Website, your user experience and our quality of service. We will collect this information as a matter of course for all users who access our Website whether they are registered with us or not.
 
@@ -37,7 +52,7 @@ If the police or any other regulatory or government authority requests your pers
 
 We may update our Privacy policy from time to time so please check back frequently to ensure you are aware of any changes. Any questions regarding our Privacy policy or if you would like to obtain details of the personal information we hold on you, then please write to the address below. Please note that there is currently a statutory fee of £10 that we will charge if you wish to access your information.
 
-Customer Enquiries
+Data Controller
 
 ActivInstinct
 
@@ -47,7 +62,7 @@ Borehamwood,
 Herts  
 WD6 1GT
 
-You can also contact us by telephone on 08452 702 010 or via email to [enquiries@milletsports.co.uk](mailto:enquiries@milletsports.co.uk)
+You can also contact us by telephone on 020 8732 7340 or via email to [enquiries@milletsports.co.uk](mailto:enquiries@milletsports.co.uk)
 
 Like most shopping sites, we use cookies to keep track of your current session on our Website and to enable you store items in your shopping basket whilst you are on the site. A cookie is a small text file that a website sends to your browser, which may then store it on your system. Most browsers are set to accept cookies by default, but you do not have to accept cookies and your browser will give you the option of whether to accept or reject them.
 
@@ -110,6 +125,10 @@ Cookie | Purpose
 ---|---  
 basket | This cookie keeps track of items selected and place in the basket and allows the checkout process to function.  
 profile | This cookie enables us to serve relevant products and offers to customers based on browsing behaviour.  
+userregion | This cookie enables us to display content that is relevant to your country (including pricing and delivery options).  
+mobileondesktopsite  
+mobile  
+desktop | These cookies enable us to display and determine the correct version of our website to a user such as the desktop version - or a version tailored to mobile devices.  
 __utma  
 __utmb  
 __utmc  
