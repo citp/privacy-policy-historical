@@ -1,21 +1,28 @@
-<!--The following is the downloaded HTML source of the slrlounge.com privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627163456id_/http%3A//www.slrlounge.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the slrlounge.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206142229id_/http%3A//www.slrlounge.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0024/2286.js?438994" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://apis.google.com/js/client:plusone.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//widget.uservoice.com/cJElbTpLKBSJZHpevEIHw.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwMDUVJQGwcJVVZQDgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0024/2286.js?438994" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://apis.google.com/js/client:plusone.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//widget.uservoice.com/cJElbTpLKBSJZHpevEIHw.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwMDUVJQGwcJVVZQDgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
 <meta charset="UTF-8">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-<link rel="shortcut icon" href="http://www.slrlounge.com/wp-content/themes/slrlounge/flotheme/assets/favicon.ico">
-<link rel="pingback" href="http://www.slrlounge.com/xmlrpc.php">
-<link rel="alternate" type="application/rss+xml" title=" RSS Feed" href="http://www.slrlounge.com/feed/">
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,400italic,600italic,700italic" rel="stylesheet" type="text/css">
-<link href="https://fonts.googleapis.com/css?family=Oswald:400,700,300" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="//www.slrlounge.com/wp-content/themes/slrlounge/flotheme/assets/favicon.ico">
+<link rel="pingback" href="//www.slrlounge.com/xmlrpc.php">
+<link rel="alternate" type="application/rss+xml" title=" RSS Feed" href="//www.slrlounge.com/feed/">
+<link href="//fonts.googleapis.com/css?family=Open+Sans:400,600,700,400italic,600italic,700italic" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Oswald:400,700,300" rel="stylesheet" type="text/css">
  
 <title>Privacy</title>
 <meta name="news_keywords" content="technology, personal technology, photography news, photography">
-<link rel="original-source" href="http://www.slrlounge.com/privacy/">
-<link rel="canonical" href="http://www.slrlounge.com/privacy/">
-<link rel="publisher" href="https://plus.google.com/+SlrloungeOfficial">
+<link rel="original-source" href="//www.slrlounge.com/privacy/">
+<link rel="canonical" href="//www.slrlounge.com/privacy/">
+<link rel="publisher" href="//plus.google.com/+SlrloungeOfficial">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy">
+<meta property="og:description" content="We will only use your information to contact you on a specific order or website updates. We will not use your information with any outside parties. We will not share your information with other entities, other than your credit card">
+<meta property="og:url" content="http://www.slrlounge.com/privacy/">
+<meta property="article:publisher" content="http://www.facebook.com/slrlounge">
+<meta property="fb:admins" content="10104177733934513,100003769069012">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:description" content="We will only use your information to contact you on a specific order or website updates. We will not use your information with any outside parties. We will not share your information with other entities, other than your credit card">
 <meta name="twitter:title" content="Privacy">
@@ -23,34 +30,34 @@
 <meta name="twitter:creator" content="@slrlounge">
  
 <script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.slrlounge.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2&cv=310"}};
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.slrlounge.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1&cv=359"}};
 			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.slrlounge.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.2&amp;cv=310" type="text/javascript"></script>
+		</script><script src="http://www.slrlounge.com/wp-includes/js/wp-emoji-release.min.js?ver=4.3.1&amp;cv=359" type="text/javascript"></script>
 <style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
-<link rel="stylesheet" id="jquery-colorbox.css-css" href="http://www.slrlounge.com/wp-content/plugins/m-wp-popup/css/colorbox/colorbox.css?ver=0.5.23&amp;cv=310" type="text/css" media="all">
-<link rel="stylesheet" id="slraffiliates-plugin-styles-css" href="http://www.slrlounge.com/wp-content/plugins/slraffiliates/css/public.css?ver=1.0.0&amp;cv=310" type="text/css" media="all">
-<link rel="stylesheet" id="slr_slider-plugin-styles-css" href="http://www.slrlounge.com/wp-content/plugins/slrslider/css/display.css?ver=4.2.2&amp;cv=310" type="text/css" media="all">
-<link rel="stylesheet" id="wp-polls-css" href="http://www.slrlounge.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.69&amp;cv=310" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-colorbox.css-css" href="//www.slrlounge.com/wp-content/plugins/m-wp-popup/css/colorbox/colorbox.css?ver=0.5.23&amp;cv=359" type="text/css" media="all">
+<link rel="stylesheet" id="slraffiliates-plugin-styles-css" href="//www.slrlounge.com/wp-content/plugins/slraffiliates/css/public.css?ver=1.0.0&amp;cv=359" type="text/css" media="all">
+<link rel="stylesheet" id="slr_slider-plugin-styles-css" href="//www.slrlounge.com/wp-content/plugins/slrslider/css/display.css?ver=4.3.1&amp;cv=359" type="text/css" media="all">
+<link rel="stylesheet" id="taxonomy-image-plugin-public-css" href="//www.slrlounge.com/wp-content/plugins/taxonomy-images/css/style.css?ver=0.9&amp;cv=359" type="text/css" media="screen">
+<link rel="stylesheet" id="wp-polls-css" href="//www.slrlounge.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.7&amp;cv=359" type="text/css" media="all">
 <style id="wp-polls-inline-css" type="text/css">.wp-polls .pollbar{margin:1px;font-size:8px;line-height:10px;height:10px;background:#6cb8d0;border:1px solid #c8c8c8;}</style>
-<link rel="stylesheet" id="wpt-twitter-feed-css" href="http://www.slrlounge.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=4.2.2&amp;cv=310" type="text/css" media="all">
-<link rel="stylesheet" id="mailchimp-form-css-css" href="http://www.slrlounge.com/wp-content/plugins/mailchimp-sync/assets/form.css?ver=20140212&amp;cv=310" type="text/css" media="all">
-<link rel="stylesheet" id="slr-libs-css" href="http://www.slrlounge.com/wp-content/assets/css/libs.min.css?ver=4.2.2&amp;cv=310" type="text/css" media="all">
-<link rel="stylesheet" id="slr-main-css" href="http://www.slrlounge.com/wp-content/assets/css/main.min.css?ver=4.2.2&amp;cv=310" type="text/css" media="all">
-<script type="text/javascript" src="http://www.slrlounge.com/wp-includes/js/jquery/jquery.js?ver=1.11.2&amp;cv=310"></script>
-<script type="text/javascript" src="http://www.slrlounge.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1&amp;cv=310"></script>
-<script type="text/javascript" src="http://www.slrlounge.com/wp-content/plugins/mailchimp/js/scrollTo.js?ver=1.4.2&amp;cv=310"></script>
-<script type="text/javascript" src="http://www.slrlounge.com/wp-includes/js/jquery/jquery.form.min.js?ver=3.37.0&amp;cv=310"></script>
+<link rel="stylesheet" id="wpt-twitter-feed-css" href="//www.slrlounge.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=4.3.1&amp;cv=359" type="text/css" media="all">
+<link rel="stylesheet" id="slr-libs-css" href="//www.slrlounge.com/wp-content/assets/css/libs.min.css?ver=4.3.1&amp;cv=359" type="text/css" media="all">
+<link rel="stylesheet" id="slr-main-css" href="//www.slrlounge.com/wp-content/assets/css/main.min.css?ver=4.3.1&amp;cv=359" type="text/css" media="all">
+<script type="text/javascript" src="//www.slrlounge.com/wp-includes/js/jquery/jquery.js?ver=1.11.3&amp;cv=359"></script>
+<script type="text/javascript" src="//www.slrlounge.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1&amp;cv=359"></script>
+<script type="text/javascript" src="//www.slrlounge.com/wp-content/plugins/mailchimp/js/scrollTo.js?ver=1.4.2&amp;cv=359"></script>
+<script type="text/javascript" src="//www.slrlounge.com/wp-includes/js/jquery/jquery.form.min.js?ver=3.37.0&amp;cv=359"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var mailchimpSF = {"ajax_url":"http:\/\/www.slrlounge.com\/"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.slrlounge.com/wp-content/plugins/mailchimp/js/mailchimp.js?ver=1.4.2&amp;cv=310"></script>
-<script type="text/javascript" src="http://www.slrlounge.com/wp-content/plugins/m-wp-popup/js/wpp-popup-frontend.js?ver=0.5.23&amp;cv=310"></script>
-<script type="text/javascript" src="http://www.slrlounge.com/wp-content/assets/js/libs.min.js?ver=4.2.2&amp;cv=310"></script>
-<script type="text/javascript" src="http://www.slrlounge.com/wp-content/plugins/slrslider/js/display.js?ver=4.2.2&amp;cv=310"></script>
-<script type="text/javascript" src="http://www.slrlounge.com/wp-content/plugins/slrslider/js/vendor/rslides.js?ver=4.2.2&amp;cv=310"></script>
-<script type="text/javascript" src="https://www.e-junkie.com/ecom/box.js?ver=4.2.2&amp;cv=310"></script>
+<script type="text/javascript" src="//www.slrlounge.com/wp-content/plugins/mailchimp/js/mailchimp.js?ver=1.4.2&amp;cv=359"></script>
+<script type="text/javascript" src="//www.slrlounge.com/wp-content/plugins/m-wp-popup/js/wpp-popup-frontend.js?ver=0.5.23&amp;cv=359"></script>
+<script type="text/javascript" src="//www.slrlounge.com/wp-content/assets/js/libs.min.js?ver=4.3.1&amp;cv=359"></script>
+<script type="text/javascript" src="//www.slrlounge.com/wp-content/plugins/slrslider/js/display.js?ver=4.3.1&amp;cv=359"></script>
+<script type="text/javascript" src="//www.slrlounge.com/wp-content/plugins/slrslider/js/vendor/rslides.js?ver=4.3.1&amp;cv=359"></script>
+<script type="text/javascript" src="//www.e-junkie.com/ecom/box.js?ver=4.3.1&amp;cv=359"></script>
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="">
 <meta property="og:title" content="Privacy">
@@ -67,18 +74,10 @@ var mailchimpSF = {"ajax_url":"http:\/\/www.slrlounge.com\/"};
 
 		window.SLRGame = window.SLRGame || {};
 
-		SLRGame.fbLoginNonce = "15ead3175d";
+		SLRGame.fbLoginNonce = "a937bd2268";
 
-		
-		function add_cart_wrapper() {
-			$.get('http://www.slrlounge.com/wp-content/themes/slrlounge/ajax.php?action=product_add_cart');
-		}
-	</script>
+			</script>
 <script>
-	  function g_plus_callback(data) {
-		if (data.state == 'on')
-			jive.send_share_action(data.href);
-	  }
 
 	  // Load the SDK asynchronously
       (function(d, s, id){
@@ -121,6 +120,7 @@ var mailchimpSF = {"ajax_url":"http:\/\/www.slrlounge.com\/"};
 
     ga('create', "UA-6380269-2", 'auto');
 </script>
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
 <script type="application/javascript">
     ga('send', 'pageview');
 </script>
@@ -144,7 +144,22 @@ var mailchimpSF = {"ajax_url":"http:\/\/www.slrlounge.com\/"};
     }());
 </script>
  
-<script type="text/javascript" async="" src="https://s3.buysellads.com/ac/bsa.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+ 
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','//connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1592353381029793');
+    fbq('track', 'PageView');
+</script>
+<noscript>
+<img height="1" width="1" style="display:none" src="//www.facebook.com/tr?id=1592353381029793&ev=PageView&noscript=1"/>
+</noscript>
+ 
+<script src="//cdn.optimizely.com/js/3282280339.js"></script>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body class="b-sub b-narrow">
 <span id="scrollto"></span><span class="loader-main" id="loader-main"><i></i></span>
 <header id="header-main" class="header-main cf">
@@ -181,7 +196,7 @@ var mailchimpSF = {"ajax_url":"http:\/\/www.slrlounge.com\/"};
 </header>
 <div class="search-form-wrapper">
 <div class="search-form" id="search-form">
-<form role="search" method="get" action="http://www.slrlounge.com">
+<form role="search" method="get" action="//www.slrlounge.com">
 <fieldset>
 <input type="text" value="" name="s" placeholder="Search phrase...">
 <input type="submit" value="Search">
@@ -425,70 +440,72 @@ var mailchimpSF = {"ajax_url":"http:\/\/www.slrlounge.com\/"};
 <div id="flo_top_widget-13" class="widget flo_top_widget"><div class="widget-inner"><h3>Products</h3> <div class="flotheme-top-widget">
 <ul class="cf">
 <li class="cf">
-<div class="entry-thumb"><a href="http://www.slrlounge.com/store-product/lighting-101/" rel="nofollow"><img width="100" height="85" src="http://www.slrlounge.com/wp-content/uploads/2015/03/flash-photography-tips1.jpg" class="attachment-post-small wp-post-image" alt="flash-photography-tips"></a></div>
+<div class="entry-thumb"><a href="http://www.slrlounge.com/store-product/natural-light-couples-photography-presets-bundle/" rel="nofollow"><img width="100" height="85" src="//www.slrlounge.com/wp-content/uploads/2015/09/slrlounge-nlcp-presets-bundle.jpg" class="attachment-post-small wp-post-image" alt="slrlounge-nlcp-presets-bundle"></a></div>
+<div class="detail">
+<h4 class="entry-title"><a href="http://www.slrlounge.com/store-product/natural-light-couples-photography-presets-bundle/">Natural Light Couples Photography + Presets Bundle</a></h4>
+<span class="descr"></span>
+</div>
+</li>
+<li class="cf">
+<div class="entry-thumb"><a href="http://www.slrlounge.com/store-product/lighting-201/" rel="nofollow"><img width="100" height="50" src="//www.slrlounge.com/wp-content/uploads/2015/07/slr-lounge-lighting-flash-photography-3.jpg" class="attachment-post-small wp-post-image" alt="slr-lounge-lighting-flash-photography-3"></a></div>
+<div class="detail">
+<h4 class="entry-title"><a href="http://www.slrlounge.com/store-product/lighting-201/">Lighting 201 | Single Source Off-Camera Light Shaping</a></h4>
+<span class="descr"></span>
+</div>
+</li>
+<li class="cf">
+<div class="entry-thumb"><a href="http://www.slrlounge.com/store-product/lightroom-presets/" rel="nofollow"><img width="100" height="62" src="//www.slrlounge.com/wp-content/uploads/2014/08/lightroom-2015-presets-slrlounge-e1436458892397.jpg" class="attachment-post-small wp-post-image" alt="lightroom-2015-presets-slrlounge-e1436458892397"></a></div>
+<div class="detail">
+<h4 class="entry-title"><a href="http://www.slrlounge.com/store-product/lightroom-presets/">Lightroom Presets 2015</a></h4>
+<span class="descr"></span>
+</div>
+</li>
+<li class="cf">
+<div class="entry-thumb"><a href="http://www.slrlounge.com/store-product/lighting-101/" rel="nofollow"><img width="100" height="85" src="//www.slrlounge.com/wp-content/uploads/2015/03/flash-photography-tips1.jpg" class="attachment-post-small wp-post-image" alt="flash-photography-tips"></a></div>
 <div class="detail">
 <h4 class="entry-title"><a href="http://www.slrlounge.com/store-product/lighting-101/">Lighting 101 | Foundation and Light Shaping</a></h4>
 <span class="descr"></span>
 </div>
 </li>
 <li class="cf">
-<div class="entry-thumb"><a href="http://www.slrlounge.com/store-product/photography-101/" rel="nofollow"><img width="100" height="67" src="http://www.slrlounge.com/wp-content/uploads/2014/10/photography101.jpg" class="attachment-post-small wp-post-image" alt="photography101"></a></div>
+<div class="entry-thumb"><a href="http://www.slrlounge.com/store-product/photography-101/" rel="nofollow"><img width="100" height="67" src="//www.slrlounge.com/wp-content/uploads/2014/10/photography101.jpg" class="attachment-post-small wp-post-image" alt="photography101"></a></div>
 <div class="detail">
 <h4 class="entry-title"><a href="http://www.slrlounge.com/store-product/photography-101/">Photography 101</a></h4>
 <span class="descr"></span>
 </div>
 </li>
 <li class="cf">
-<div class="entry-thumb"><a href="http://www.slrlounge.com/store-product/lightroom-workshop/" rel="nofollow"><img width="100" height="67" src="http://www.slrlounge.com/wp-content/uploads/2013/09/slrlounge-lightroom-workshop-collection-v5-0002.jpg" class="attachment-post-small wp-post-image" alt="slrlounge-lightroom-workshop-collection-v5-0002"></a></div>
+<div class="entry-thumb"><a href="http://www.slrlounge.com/store-product/lightroom-workshop/" rel="nofollow"><img width="100" height="67" src="//www.slrlounge.com/wp-content/uploads/2014/09/slrlounge-lightroom-v5-preset.jpg" class="attachment-post-small wp-post-image" alt="slrlounge-lightroom-v5-preset"></a></div>
 <div class="detail">
 <h4 class="entry-title"><a href="http://www.slrlounge.com/store-product/lightroom-workshop/">Lightroom Workshop Collection</a></h4>
 <span class="descr"></span>
 </div>
 </li>
 <li class="cf">
-<div class="entry-thumb"><a href="http://www.slrlounge.com/store-product/lightroom-processing/" rel="nofollow"><img width="100" height="91" src="http://www.slrlounge.com/wp-content/uploads/2012/04/Lightroom-splash1.jpg" class="attachment-post-small wp-post-image" alt="Lightroom-splash"></a></div>
+<div class="entry-thumb"><a href="http://www.slrlounge.com/store-product/lightroom-processing/" rel="nofollow"><img width="100" height="85" src="//www.slrlounge.com/wp-content/uploads/2012/09/lightroom-presets-7.jpg" class="attachment-post-small wp-post-image" alt="lightroom-presets-7"></a></div>
 <div class="detail">
 <h4 class="entry-title"><a href="http://www.slrlounge.com/store-product/lightroom-processing/">Lightroom Image Processing Mastery</a></h4>
 <span class="descr"></span>
 </div>
 </li>
 <li class="cf">
-<div class="entry-thumb"><a href="http://www.slrlounge.com/store-product/lightroom-workflow/" rel="nofollow"><img width="100" height="83" src="http://www.slrlounge.com/wp-content/uploads/2013/08/IPM-product-page-splash-1.jpg" class="attachment-post-small wp-post-image" alt="IPM-product-page-splash (1)"></a></div>
+<div class="entry-thumb"><a href="http://www.slrlounge.com/store-product/lightroom-workflow/" rel="nofollow"><img width="100" height="85" src="//www.slrlounge.com/wp-content/uploads/2014/08/slrlounge-organization-workflow-tips.jpg" class="attachment-post-small wp-post-image" alt="slrlounge-organization-workflow-tips"></a></div>
 <div class="detail">
 <h4 class="entry-title"><a href="http://www.slrlounge.com/store-product/lightroom-workflow/">Lightroom Organization and Workflow</a></h4>
 <span class="descr"></span>
 </div>
 </li>
 <li class="cf">
-<div class="entry-thumb"><a href="http://www.slrlounge.com/store-product/lightroom-presets/" rel="nofollow"><img width="100" height="85" src="http://www.slrlounge.com/wp-content/uploads/2014/08/lightroom-presets.jpg" class="attachment-post-small wp-post-image" alt="lightroom-presets"></a></div>
-<div class="detail">
-<h4 class="entry-title"><a href="http://www.slrlounge.com/store-product/lightroom-presets/">Lightroom Presets v6</a></h4>
-<span class="descr"></span>
-</div>
-</li>
-<li class="cf no-thumb">
+<div class="entry-thumb"><a href="http://www.slrlounge.com/store-product/fine-art-boudoir-earthen-bathtub/" rel="nofollow"><img width="100" height="85" src="//www.slrlounge.com/wp-content/uploads/2014/05/boudoir-photography-tutorial.jpg" class="attachment-post-small wp-post-image" alt="boudoir-photography-tutorial"></a></div>
 <div class="detail">
 <h4 class="entry-title"><a href="http://www.slrlounge.com/store-product/fine-art-boudoir-earthen-bathtub/">Fine Art Boudoir Tutorial- The Earthen Bathtub</a></h4>
 <span class="descr"></span>
 </div>
 </li>
 <li class="cf">
-<div class="entry-thumb"><a href="http://www.slrlounge.com/store-product/photography-seo-and-web-marketing-e-book/" rel="nofollow"><img width="100" height="67" src="http://www.slrlounge.com/wp-content/uploads/2015/03/seo-for-photographers.jpg" class="attachment-post-small wp-post-image" alt="seo-for-photographers"></a></div>
+<div class="entry-thumb"><a href="http://www.slrlounge.com/store-product/photography-seo-and-web-marketing-e-book/" rel="nofollow"><img width="100" height="67" src="//www.slrlounge.com/wp-content/uploads/2015/03/seo-for-photographers.jpg" class="attachment-post-small wp-post-image" alt="seo-for-photographers"></a></div>
 <div class="detail">
 <h4 class="entry-title"><a href="http://www.slrlounge.com/store-product/photography-seo-and-web-marketing-e-book/">Photography SEO and Web Marketing E-Book</a></h4>
-<span class="descr"></span>
-</div>
-</li>
-<li class="cf">
-<div class="entry-thumb"><a href="http://www.slrlounge.com/store-product/camera-raw-presets/" rel="nofollow"><img width="100" height="100" src="http://www.slrlounge.com/wp-content/uploads/2012/04/DSC_4852-copy-100x100.jpg" class="attachment-post-small wp-post-image" alt="DSC_4852 copy"></a></div>
-<div class="detail">
-<h4 class="entry-title"><a href="http://www.slrlounge.com/store-product/camera-raw-presets/">Camera Raw Presets v6 by SLR Lounge</a></h4>
-<span class="descr"></span>
-</div>
-</li>
-<li class="cf no-thumb">
-<div class="detail">
-<h4 class="entry-title"><a href="http://www.slrlounge.com/store-product/slr-lounge-shirts/">SLR Lounge Shirts!</a></h4>
 <span class="descr"></span>
 </div>
 </li>
@@ -504,7 +521,8 @@ var mailchimpSF = {"ajax_url":"http:\/\/www.slrlounge.com\/"};
 <li class="cf facebook" data-slug="facebook" data-id="slrlounge">
 <i class="icon icon-facebook"></i>
 <span class="amount">
-<span class="metric">...</span>
+<span class="metric">
+177,673 </span>
 <em>Fans</em>
 </span>
 <a href="http://www.facebook.com/slrlounge" class="follow" title="Like on Facebook" rel="external">Like</a>
@@ -512,7 +530,8 @@ var mailchimpSF = {"ajax_url":"http:\/\/www.slrlounge.com\/"};
 <li class="cf twitter" data-slug="twitter" data-id="slrlounge">
 <i class="icon icon-twitter"></i>
 <span class="amount">
-<span class="metric">38,924</span>
+<span class="metric">
+39,949 </span>
 <em>Followers</em>
 </span>
 <a href="http://twitter.com/slrlounge" class="follow" title="Follow on Twitter" rel="external">Follow</a>
@@ -520,7 +539,8 @@ var mailchimpSF = {"ajax_url":"http:\/\/www.slrlounge.com\/"};
 <li class="cf youtube" data-slug="youtube" data-id="slrlounge">
 <i class="icon icon-youtube"></i>
 <span class="amount">
-<span class="metric">...</span>
+<span class="metric">
+... </span>
 <em>Subscribers</em>
 </span>
 <a href="http://www.youtube.com/user/slrlounge" class="follow" title="Subscribe to Youtube Channel" rel="external">Subscribe</a>
@@ -546,31 +566,6 @@ var mailchimpSF = {"ajax_url":"http:\/\/www.slrlounge.com\/"};
 					var value = $.jStorage.get('flo_socials_slr_' + slug);
 
 					switch (slug) {
-						case 'facebook':
-							if (value) {
-								li.find('.metric').text(value)
-							} else {
-								$.getJSON('https://graph.facebook.com/' + id, function(data){
-									value = $.number(data.likes);
-									li.find('.metric').text(value);
-									$.jStorage.set('flo_socials_slr_' + slug, value);
-									$.jStorage.setTTL('flo_socials_slr_' + slug, 1000*60*60); // 1 hour TTL
-								});
-							}
-						break;
-
-						// case 'twitter':
-						// 	if (value) {
-						// 		li.find('.metric').text(value)
-						// 	} else {
-						// 		$.getJSON('https://api.twitter.com/1/users/show.json?callback=?&screen_name=' + id, function(data){
-						// 			value = $.number(data.followers_count);
-						// 			li.find('.metric').text(value);
-						// 			$.jStorage.set('flo_socials_' + id, value);
-						// 		});
-						// 	}
-						// break;
-
 						case 'youtube':
 							if (value) {
 								li.find('.metric').text(value)
@@ -587,33 +582,30 @@ var mailchimpSF = {"ajax_url":"http:\/\/www.slrlounge.com\/"};
 				});
 			});
 		</script>
-</div></div><div id="text-37" class="widget widget_text"><div class="widget-inner"><h3>Sponsors</h3> <div class="textwidget"> 
-<script type="text/javascript">
-(function(){
-  var bsa = document.createElement('script');
-     bsa.type = 'text/javascript';
-     bsa.async = true;
-     bsa.src = 'https://s3.buysellads.com/ac/bsa.js';
-  (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
-})();
-</script>
- 
- 
-<div id="bsap_1243339" class="bsarocks bsap_ee13287eb0aef05e4cd4a7a54dfb5cbe"></div>
- </div>
+</div></div><div id="text-37" class="widget widget_text"><div class="widget-inner"><h3>Featured</h3> <div class="textwidget"><a href="http://www.slrlounge.com/category/product-reviews/photography-deals-sales/"><img src="//www.slrlounge.com/wp-content/uploads/2015/11/2015-holiday-deal-picks-2.jpg"></a></div>
 </div></div><div id="mailchimpsf_widget-3" class="widget widget_mailchimpsf_widget"><div class="widget-inner"><h3>Newsletter</h3>
 <style>.widget_mailchimpsf_widget .widget-title{line-height:1.4em;margin-bottom:0.75em;}#mc_subheader{line-height:1.25em;margin-bottom:18px;}.mc_merge_var{margin-bottom:1.0em;}.mc_var_label,.mc_interest_label{display:block;margin-bottom:0.5em;}.mc_input{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;width:100%;}.mc_input.mc_phone{width:auto;}select.mc_select{margin-top:0.5em;width:100%;}.mc_address_label{margin-top:1.0em;margin-bottom:0.5em;display:block;}.mc_address_label~select{width:100%;}.mc_list li{list-style:none;background:none!important;}.mc_interests_header{margin-top:1.0em;margin-bottom:0.5em;}.mc_interest label,.mc_interest input{margin-bottom:0.4em;}#mc_signup_submit{margin-top:1.5em;width:80%;}#mc_unsub_link a{font-size:0.75em;}#mc_unsub_link{margin-top:1.0em;}.mc_header_address,.mc_email_format{display:block;font-weight:bold;margin-top:1.0em;margin-bottom:0.5em;}.mc_email_options{margin-top:0.5em;}.mc_email_type{padding-left:4px;}</style>
 <div id="mc_signup">
 <form method="post" action="#mc_signup" id="mc_signup_form">
 <input type="hidden" id="mc_submit_type" name="mc_submit_type" value="html">
 <input type="hidden" name="mcsf_action" value="mc_submit_signup_form">
-<input type="hidden" id="_mc_submit_signup_form_nonce" name="_mc_submit_signup_form_nonce" value="381d2f768e">
+<input type="hidden" id="_mc_submit_signup_form_nonce" name="_mc_submit_signup_form_nonce" value="0d86f2bf6c">
 <div class="mc_form_inside">
 <div class="updated" id="mc_message">
 </div> 
 <div class="mc_merge_var">
 <label for="mc_mv_EMAIL" class="mc_var_label mc_header mc_header_email">Email Address</label>
 <input type="text" size="18" placeholder="" name="mc_mv_EMAIL" id="mc_mv_EMAIL" class="mc_input">
+</div> 
+<div class="mc_interests_header">
+I would like to receive: </div> 
+<div class="mc_interest">
+<select name="group[2265]">
+<option value=""></option>
+<option value="Weekly Newsletters (Default)">Weekly Newsletters (Default)</option>
+<option value="Daily Newsletters (via RSS)">Daily Newsletters (via RSS)</option>
+<option value="Major Announcements Only">Major Announcements Only</option>
+</select>
 </div> 
 <div class="mc_signup_submit">
 <input type="submit" name="mc_signup_submit" id="mc_signup_submit" value="Submit" class="button">
@@ -677,14 +669,14 @@ var mailchimpSF = {"ajax_url":"http:\/\/www.slrlounge.com\/"};
 <div class="modal" id="login-modal">
 <div class="modal-body">
 <div class="login-modal">
-<p class="login-logo"><img src="http://www.slrlounge.com/wp-content/assets/img/theme/logo.png" alt="SLRLounge DEV" width="160" height="45"></p>
+<p class="login-logo"><img src="//www.slrlounge.com/wp-content/assets/img/theme/logo.png" alt="SLRLounge DEV" width="160" height="45"></p>
 <p class="login-error error"></p>
-<form id="slr-login-form" action="http://www.slrlounge.com/game/login/" method="post">
+<form id="slr-login-form" action="//www.slrlounge.com/game/login/" method="post">
 <div class="regular-login">
 <h4>Log in with your SLR Lounge account</h4>
 <p><input type="text" id="login-username" placeholder="username/email" autofocus="true" name="username"></p>
 <p><input type="password" id="login-password" placeholder="password" name="password"></p>
-<input type="hidden" id="security" name="security" value="2cc5c7e133"><input type="hidden" name="_wp_http_referer" value="/privacy/"> <input type="hidden" name="action" value="ajax-login">
+<input type="hidden" id="security" name="security" value="f610efb685"><input type="hidden" name="_wp_http_referer" value="/privacy/"> <input type="hidden" name="action" value="ajax-login">
 <p><button class="login" type="submit">Login</button></p>
 <p><a href="#" id="forgot-password-link">Forgot your login?</a><br>
 <a href="http://www.slrlounge.com/game/resend-email-verification/" id="resend-verification-link">Need to verify your account?</a></p><p>
@@ -716,7 +708,7 @@ var mailchimpSF = {"ajax_url":"http:\/\/www.slrlounge.com\/"};
 <input type="submit" name="wp-submit" class="slr-game-button" value="Get New Password">
 </div>
 <input type="hidden" name="action" value="slr_game_lost_password">
-<input type="hidden" id="_wpnonce" name="_wpnonce" value="5c14a3e4ac"><input type="hidden" name="_wp_http_referer" value="/privacy/"> </form>
+<input type="hidden" id="_wpnonce" name="_wpnonce" value="9a77fe576c"><input type="hidden" name="_wp_http_referer" value="/privacy/"> </form>
 </div>
 </div>
 <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
@@ -724,7 +716,7 @@ var mailchimpSF = {"ajax_url":"http:\/\/www.slrlounge.com\/"};
 <div class="modal" id="register-modal">
 <div class="modal-body">
 <div class="register-modal">
-<script type="text/javascript" src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
+<script type="text/javascript" src="//www.google.com/recaptcha/api.js" async="" defer=""></script>
 <script type="text/javascript">
 										SLRGame.reCAPTCHAPublicKey = "6Ler0P8SAAAAAKK7eJ-6RkCLOIVdOQQhH5jDIg6r";
 				</script>
@@ -749,7 +741,7 @@ var mailchimpSF = {"ajax_url":"http:\/\/www.slrlounge.com\/"};
 </div>
 <h4>Don't use Facebook?<br>Create an account with us!</h4>
 <p class="register-error error"></p>
-<form id="register-form" action="http://www.slrlounge.com/game/register/" method="post">
+<form id="register-form" action="//www.slrlounge.com/game/register/" method="post">
 <p><input class="welcome-input" type="text" id="reg-username" placeholder="first name" autofocus="true" name="first_name"></p>
 <p><input class="welcome-input" type="text" id="reg-username" placeholder="last name" name="last_name"></p>
 <p><input class="welcome-input" type="text" id="reg-username" placeholder="username" name="username"></p>
@@ -793,29 +785,22 @@ var mailchimpSF = {"ajax_url":"http:\/\/www.slrlounge.com\/"};
 			return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } });
 		}(document, "script", "twitter-wjs"));
 	</script>
-<script>window.jQuery || document.write('<script src="http://www.slrlounge.com/wp-content/themes/slrlounge/js/libs/jquery.js"><\/script><script src="http://www.slrlounge.com/wp-content/themes/slrlounge/js/libs/migrate.js"><\/script>')</script><script src="http://www.slrlounge.com/wp-content/themes/slrlounge/js/libs/jquery.js"></script><script src="http://www.slrlounge.com/wp-content/themes/slrlounge/js/libs/migrate.js"></script>
+<script>window.jQuery || document.write('<script src="//www.slrlounge.com/wp-content/themes/slrlounge/js/libs/jquery.js"><\/script><script src="//www.slrlounge.com/wp-content/themes/slrlounge/js/libs/migrate.js"><\/script>')</script><script src="//www.slrlounge.com/wp-content/themes/slrlounge/js/libs/jquery.js"></script><script src="//www.slrlounge.com/wp-content/themes/slrlounge/js/libs/migrate.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var SLRAJAX = {"ajaxurl":"http:\/\/www.slrlounge.com\/wp-admin\/admin-ajax.php"};
 var SLRProgressBar = null;
 var flo = {"template_dir":"http:\/\/www.slrlounge.com\/wp-content\/themes\/slrlounge","ajax_load_url":"http:\/\/www.slrlounge.com\/wp-admin\/admin-ajax.php","assets_dir":"\/wp-content\/assets\/\/","production":"1"};
-var flo = {"template_dir":"http:\/\/www.slrlounge.com\/wp-content\/themes\/slrlounge","ajax_load_url":"http:\/\/www.slrlounge.com\/wp-admin\/admin-ajax.php","assets_dir":"\/wp-content\/assets\/\/","production":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.slrlounge.com/wp-content/assets/js/bottom-game.min.js?cv=310"></script>
-<script type="text/javascript" src="http://www.slrlounge.com/wp-content/assets/js/bottom-core.min.js?cv=310"></script>
+<script type="text/javascript" src="//www.slrlounge.com/wp-content/assets/js/bottom-game.min.js?cv=359"></script>
+<script type="text/javascript" src="//www.slrlounge.com/wp-content/assets/js/bottom-core.min.js?cv=359"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var pollsL10n = {"ajax_url":"http:\/\/www.slrlounge.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.slrlounge.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.69&amp;cv=310"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var mailchimp_form_captions = {"ajaxurl":"http:\/\/www.slrlounge.com\/wp-admin\/admin-ajax.php","nonce":"2f0ac96f51"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.slrlounge.com/wp-content/plugins/mailchimp-sync/assets/form.js?ver=20140212&amp;cv=310"></script>
+<script type="text/javascript" src="//www.slrlounge.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.7&amp;cv=359"></script>
 <div id="modal-footer-container"></div>
 <script type="text/javascript">
 		  (function() {
@@ -883,6 +868,6 @@ jQuery( function() {
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1032908203/?value=0&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"cda196be1e","applicationID":"4917292","transactionName":"ZABaZBEHC0dTV0BdWF1KeVMXDwpaHURVU1I=","queueTime":0,"applicationTime":356,"atts":"SEdZElkdGEk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"cda196be1e","applicationID":"4917292","transactionName":"ZABaZBEHC0dTV0BdWF1KeVMXDwpaHURVU1I=","queueTime":0,"applicationTime":468,"atts":"SEdZElkdGEk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
 
  </body></html>
