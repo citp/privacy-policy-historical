@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bostonproper.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140014id_/http%3A//www.bostonproper.com/store/page.jsp%3Fid%3D81809283) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bostonproper.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206153125id_/http%3A//www.bostonproper.com/store/page.jsp%3Fid%3D81809283) for the most accurate reproduction.*
 
 # Privacy Policy - Boston Proper
 
