@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govplanet.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200428id_/http%3A//www.govplanet.com/pop/terms_page.jsp%3Fid%3D4%26noh1%3Dyes) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govplanet.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206232205id_/http%3A//www.govplanet.com/pop/terms_page.jsp%3Fid%3D4%26noh1%3Dyes) for the most accurate reproduction.*
 
 # GovPlanet - Terms and Conditions
 
@@ -119,3 +119,6 @@ By using the IronPlanet Sites and services, you signify your acceptance of this 
 **5.   Contact Information**
 
 If you have questions or concerns about this Privacy Statement, please send an e-mail to [Privacy@ironplanet.com](mailto:Privacy@ironplanet.com). 
+
+  
+
