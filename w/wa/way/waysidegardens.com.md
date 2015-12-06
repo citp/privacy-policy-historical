@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waysidegardens.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608061813id_/http%3A//www.waysidegardens.com/privacy-statement/a/322) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waysidegardens.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206113456id_/http%3A//www.waysidegardens.com/privacy-statement/a/322) for the most accurate reproduction.*
 
 # Privacy Policy | Wayside Gardens
 
@@ -28,7 +28,7 @@ Please note that your use of the WaysideGardens.com website and services is subj
 
 **Sharing Your Information**
 
-Wayside Gardens recognizes that gardeners may want products other than the high-quality plants, bulbs and accessories that we offer. Therefore, from time to time, Wayside Gardens may make customer information available to other reputable companies whose products or services we think you might find interesting. Please remember that, although Wayside Gardens endeavors to select only reputable companies who share our commitment to customer privacy, we are in no way responsible for the actions or policies of these other organizations. If you do not want to share your information with such other companies, call us at 1-800-845-1124 to speak to a customer service representative, email us at [info@waysidegardens.com](mailto:info@waysidegardens.com), or send a postcard to: Mailing Address Don't Share, Wayside Gardens Company, 1 Garden Lane, Hodges SC 29695-0001. Be sure to include your own mailing address on your postcard or email. 
+Wayside Gardens recognizes that gardeners may want products other than the high-quality plants, bulbs and accessories that we offer. Therefore, from time to time, Wayside Gardens may make customer information available to other reputable companies whose products or services we think you might find interesting. Please remember that, although Wayside Gardens endeavors to select only reputable companies who share our commitment to customer privacy, we are in no way responsible for the actions or policies of these other organizations. If you do not want to share your information with such other companies, call us toll free at 1-800-845-1124 (or for local calls use 1-864-330-2004) to speak to a customer service representative, email us at [info@waysidegardens.com](mailto:info@waysidegardens.com), or send a postcard to: Mailing Address Don't Share, Wayside Gardens Company, 1 Garden Lane, Hodges SC 29695-0001. Be sure to include your own mailing address on your postcard or email. 
 
 **Other Uses of Information**
 
@@ -50,36 +50,7 @@ You can always choose not to provide information, to opt-out of receiving commun
   1. Use the "Change Preferences" feature after entering your member name and password to receive access to your account page. At this location, you can subscribe or unsubscribe from our e-mail newsletters and you can update any information that you have provided to us.
   2. Click on the "Unsubscribe" link included at the bottom of each of our e-mails and follow the instructions on the web page.
   3. Send an e-mail to our friendly Customer Service representatives at [info@waysidegardens.com](mailto:info@waysidegardens.com).
-  4. Call our Customer Service representatives toll free at (800) 845-1124.
-  5. Drop us a line. Send mail to the following postal address: Wayside Gardens, 1 Garden Lane, Hodges, SC 29695.
-
-
-
-**Security Measures**
-
-We work hard to protect the security of your information by using Secure Socket Layer (SSL) technology, the current standard for secure transactions over the Internet. There are some simple measures that you can take to promote protection of your information. First, to help protect the security of your account, do not share your password with others. Also, remember to "log-off" after using any of our on-line services when you have finished using the website. While Wayside Gardens strives to protect your information by using SSL and through measures to protect our system, such security cannot be ensured. Consequently, Wayside Gardens does not ensure or warrant the security of information you transmit, and you do so at your own risk. 
-
-## 
-
-**What is Encryption?**
-
-Encryption is a process by which we use software to scramble sensitive information while it is in transit to Wayside Gardens. 
-
-Please take a moment to read about the steps that we have taken to help protect your information and make your online transmissions safer. We also invite you to review the steps you can take to help protect yourself further. 
-
-**How Does Encryption Work?**
-
-Encryption is based on a key that has two different parts. The public part and the private part. The public part of the key is distributed to those you want to communicate with. The private part is for the recipient's use only. 
-
-When you send personal information to WaysideGardens.com, you use Wayside Gardens's public key to encrypt your personal information. That means, if at any point during the transmission your information is intercepted, it is scrambled and very difficult to decrypt. Once Wayside Gardens receives your encrypted personal information, we use the private part of our key to decode it. 
-
-**What Kind of Encryption Software Does Wayside Gardens Use?**
-
-Wayside Gardens currently uses the industry-standard SSL (Secure Sockets Layer) encryption. But we continue to keep up with the current technologies in order to provide the best security for our customers. 
-
-**What Information Does Wayside Gardens Encrypt?**
-
-Wayside Gardens encrypts all personal information you give us when you place an order online. Remember, if you feel uncomfortable providing any of this information online, please feel free to call one of our representatives at 1-800-845-1124. 
+  4. Call our Customer Service representatives toll free at 1-800-845-1124 or for local calls use 1-864-330-2004. 
 
 **How Safe is Encryption Really?**
 
@@ -95,5 +66,9 @@ If you choose to visit WaysideGardens.com, your visit and any dispute over priva
 > Wayside Gardens  
 >  1 Garden Lane  
 >  Hodges, SC 29695  
->  Phone: (800) 845-1124  
->  Fax: (864) 941-4506 E-mail: [info@waysidegardens.com](mailto:info@waysidegardens.com)
+>  Toll Free: 1-800-845-1124  
+>  Local: 1-864-330-2004  
+>  Fax: 1-864-941-4506 E-mail: [info@waysidegardens.com](mailto:info@waysidegardens.com)
+
+
+
