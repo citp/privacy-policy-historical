@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the readingfestival.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607195628id_/http%3A//www.readingfestival.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingfestival.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206203719id_/http%3A//www.readingfestival.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Reading Festival 2015
+# Privacy Policy | Reading Festival
 
 This Policy explains what _personal information_ _Festival Republic and its group_ (known in this Policy as “ **we** ” or “ **Festival Republic** ”) _collect_ both online (including through apps) and offline and _how we use it_. Please read it carefully. ** __**
 
@@ -158,4 +158,4 @@ From time to time we may change our privacy practices. We will notify you of any
 
 Who we are
 
-We are Republic Music Group Limited and its group companies. You can find our contact details [_here_](http://www.readingfestival.com/legal/contact). You can find out more about us [_here_](http://www.festivalrepublic.com/about-us).
+We are Festival Republic Music Group Limited and its group companies. You can find our contact details [_here_](http://www.readingfestival.com/legal/contact). You can find out more about us [_here_](http://www.festivalrepublic.com/).
