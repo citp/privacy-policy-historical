@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jcpenneyoptical.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429072620id_/http%3A//www.jcpenneyoptical.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcpenneyoptical.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207001620id_/http%3A//www.jcpenneyoptical.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - JCPenney Optical
 
@@ -51,7 +51,7 @@ Service Providers: We provide information to other companies, including those wi
 
 
 
-### **Safeguarding the Information We Collect**
+## **Safeguarding the Information We Collect**
 
 Within the JCPenney Family, we protect against unauthorized disclosures by limiting access only to those of our employees who need the information to do their jobs. We also inform all JCPenney employees about their responsibility to protect our customers’ privacy and give them clear guidelines for adhering to our own business ethics and standards and confidentiality policies.
 
