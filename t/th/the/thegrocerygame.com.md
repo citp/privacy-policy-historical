@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegrocerygame.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607194955id_/http%3A//www.thegrocerygame.com/security-information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegrocerygame.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114941id_/http%3A//www.thegrocerygame.com/security-information/privacy) for the most accurate reproduction.*
 
 # Security Information - Privacy Statement - The Grocery Game
 
@@ -17,6 +17,16 @@ WHEN YOU USE OUR WEBSITE, YOU ARE ACCEPTING THE TERMS AND CONDITIONS OF THIS PRI
 **Non-Personally Identifiable Information:** We automatically collect Non-Personally Identifiable Information when you use the Site. Non-Personally Identifiable Information includes demographic information (such as age, gender, city or state) and a user’s click stream information (i.e., web pages viewed, the date and time at which those pages were viewed and interaction with content and advertisements on those Web pages).
 
 **Cookies and Web Beacons:** We may use cookies (a small text file placed on your computer to identify your computer and browser), Web beacons (an electronic file placed on a website that monitors usage), and other similar technologies to improve the quality of the Site. Our cookies and web beacons are used for web server statistics only and does not include your name or anything identifiable to you.
+
+Cookie Opt Out: With respect to Gourmet Ads, the primary ad server is Appnexus and you can opt out of cookies from them by visiting:
+
+<http://www.gourmetads.com/about/privacy-policy> and Opting Out.
+
+You can also opt out of cookies using the Network Advertising Initiative opt-out page at this page:
+
+<http://www.networkadvertising.org/choices/>
+
+Finally, you can choose to disable or selectively turn off cookies or third-party cookies in your browser settings.
 
 ##  How We Use and Share Information Collected through the Site
 
@@ -81,27 +91,27 @@ The Privacy Notice posted on this site was updated on or about June 18, 2013
 Enter your zip to find out which stores are available.  
 ZIP CODE[NEXT ](https://web.archive.org/sign-up/try-teris-list-free-for-4-weeks/index.cfm)
 
-  * 12,228
+  * 10,399
 
 ###### Deals Valid Today in the US
 
-  * 7,337
+  * 6,239
 
 ###### Unadvertised Sales this week
 
-  * 41,898
+  * 21,863
 
 ###### Deals Members Shopped For This Week
 
-  * $144,580
+  * $76,827
 
 ###### Amount Members Saved this week
 
-  * 58
+  * 50
 
 ###### Local lists in the US
 
-  * $604,201
+  * $557,209
 
 ###### Amount Members Saved this month
 
