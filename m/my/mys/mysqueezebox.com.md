@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysqueezebox.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607034941id_/http%3A//www.logitech.com/index.cfm/footer/privacy/%26cl%3Dus%2Cen) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysqueezebox.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206041615id_/http%3A//www.logitech.com/index.cfm/footer/privacy/%26cl%3Dus%2Cen) for the most accurate reproduction.*
 
 # YOUR PRIVACY & SECURITY
 
@@ -12,9 +12,6 @@ CONTROL & REVIEW OF YOUR PERSONAL INFORMATION
 PROTECTION OF INFORMATION  
 CHANGES TO THIS STATEMENT  
 COOKIES
-
-  
-
 
 #### COLLECTION OF INFORMATION
 
@@ -49,9 +46,6 @@ Our shopping cart and checkout pages may have the look and feel of being on [www
 We recommend you read the privacy statement of our payment processor, viewable where your information is collected.
 
 Back to top
-
-  
-
 
 #### HOW WE USE YOUR INFORMATION
 
@@ -91,7 +85,8 @@ _Prohibited Disclosures_
 
 Except as set forth above, Logitech will not disclose your personal information to any third party, including advertisers, without your explicit consent.
 
-Back to top
+Back to top  
+
 
 #### CONTROL & REVIEW OF YOUR PERSONAL INFORMATION
 
@@ -107,7 +102,8 @@ You can also use these vehicles to request removal of your personal information 
 
 We provide you the opportunity to “opt-out” of having your personal information used for certain purposes whenever we ask for this information. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, to resolve disputes, and to enforce our agreements.
 
-Back to top
+Back to top  
+
 
 #### PROTECTION OF INFORMATION
 
@@ -115,7 +111,8 @@ Logitech is committed to the protection of your personal information. We use a v
 
 Logitech has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Site, www.logitech.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, please contact us at [support.logitech.com/response-center](http://support.logitech.com/response-center). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
-Back to top
+Back to top  
+
 
 #### CHANGES TO THIS STATEMENT
 
