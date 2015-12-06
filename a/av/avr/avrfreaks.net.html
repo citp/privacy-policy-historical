@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the avrfreaks.net privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627180430id_/http%3A//www.atmel.com/About/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the avrfreaks.net privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206141050id_/http%3A//www.atmel.com/About/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" class="no-js not-ready loading"><head id="masterHead">    <!-- [01/18/2013]Added empty title tag with visibility false.This is to remove the duplicate Title tag in all pages. Dotnet looks for title tag; if it doesn't find, it will add title tag by default.-->
     
@@ -12,7 +12,7 @@
 
     
 <meta http-equiv="Content-type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <script type="text/javascript" async="" src="/System/Javascript/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script async="" id="demandbase_js_lib" src="https://scripts.demandbase.com/Tvgmf8hx.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/System/JavaScript/jquery-1.4.1.js"></script>
+    <script type="text/javascript" async="" src="/System/Javascript/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script async="" id="demandbase_js_lib" src="https://scripts.demandbase.com/Tvgmf8hx.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/System/JavaScript/jquery-1.11.3.js"></script>
     <link rel="shortcut icon" href="/Images/favicon.ico" type="/image/vnd.microsoft.icon"><link rel="stylesheet" href="/System/Styles/style.css" type="text/css" media="screen"><link rel="stylesheet" href="/System/Styles/jquery.lightbox-0.5.css" type="text/css" media="screen"><link rel="stylesheet" href="/System/Styles/print.css" type="text/css" media="print"><link rel="stylesheet" href="/ProductFinder/ProductFinder/css/finder.css" type="text/css"><link href="/system/styles/font-awesome/font-awesome.min.css" rel="stylesheet" type="text/css"><link href="/system/styles/font-awesome/font-awesome-ie7.min.css" rel="stylesheet" type="text/css">
     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
@@ -526,14 +526,16 @@
 	                <input type="hidden" value="1" name="ud">
 	                <input type="hidden" value="*" name="getfields">
 	                <input type="hidden" value="1" name="exclude_apps">
-	                <input type="text" name="q" maxlength="255" id="searchQuery" class="search-query2" align="absbottom" value="" onfocus="resetSearchField(this);" onblur="resetSearchField(this);">
+	                <input type="text" name="q" title="Use wildcards (*) to search for partial matches (e.g. &quot;*mega16&quot;, &quot;atmega16*&quot;, or &quot;at*16&quot;)" maxlength="255" id="searchQuery" class="search-query2" align="absbottom" value="" onfocus="resetSearchField(this);" onblur="resetSearchField(this);">
 	                <span id="searchDropdown" class="search-dropdown"></span>
 	                <span id="searchButton" class="search-button"></span>
 	                <ul id="collectionMenu" class="collection-menu2">
-	                    <font>Document Search</font><br>
+	                    <font>Search for:</font><br>
+                            <li><a href="" onclick="return goSearch2('products');">Devices and Tools</a></li>
 	                    <li><a href="" onclick="return goSearch2('datasheets');">Datasheets</a></li>
 	                    <li><a href="" onclick="return goSearch2('appNotes');">Application Notes</a></li>
 	                    <li><a href="" onclick="return goSearch2('UserGuides');">User Guides</a></li>
+                            <li><a href="" onclick="return goSearch2('kdb');">Knowledge Base Articles</a></li>
 	                </ul>
 	                <input type="hidden" name="site" value="">
 	            </form>
@@ -572,9 +574,6 @@
           <a href="/products/touchsolutions/touchscreens/default.aspx">Touchscreen Controllers</a>
         </li>
         <li>
-          <a href="/products/touchsolutions/sensor_hub/default.aspx">Sensor Hub</a>
-        </li>
-        <li>
           <a href="/products/touchsolutions/bsw/default.aspx">Buttons, Sliders and Wheels</a>
         </li>
       </ul>
@@ -598,7 +597,7 @@
           <a href="/products/automotive/canvan/default.aspx">CAN/VAN Networking</a>
         </li>
         <li>
-          <a href="/products/automotive/car_access/default.aspx">Car Access</a>
+          <a href="/products/automotive/car-access/default.aspx">Car Access</a>
         </li>
         <li>
           <a href="/products/automotive/drivers/default.aspx">Drivers/High-Temperature ICs</a>
@@ -610,12 +609,13 @@
           <a href="/products/automotive/lin/default.aspx">LIN Networking</a>
         </li>
       </ul>
-    </div>
-    <div class="groupleft">
       <div class="groupheader">
         <a href="/products/wireless/default.aspx">Wireless Connectivity</a>
       </div>
       <ul>
+        <li>
+          <a href="/products/wireless/bluetooth/default.aspx">Bluetooth</a>
+        </li>
         <li>
           <a href="/products/wireless/802154/default.aspx">802.15.4</a>
         </li>
@@ -631,7 +631,12 @@
         <li>
           <a href="/products/wireless/ir-control/default.aspx">IR Control</a>
         </li>
+        <li>
+          <a href="/products/wireless/cloud-partners/default.aspx">Cloud Partners</a>
+        </li>
       </ul>
+    </div>
+    <div class="groupleft">
       <div class="groupheader">
         <a href="/products/smart-energy/default.aspx">Smart Energy</a>
       </div>
@@ -660,6 +665,20 @@
           <a href="/products/memories/eprom/default.aspx">OTP EPROM</a>
         </li>
       </ul>
+      <div class="groupheader">
+        <a href="/products/drivers-and-sensors/default.aspx">Drivers and Sensors</a>
+      </div>
+      <ul>
+        <li>
+          <a href="/products/drivers-and-sensors/led-drivers/default.aspx">LED Drivers</a>
+        </li>
+        <li>
+          <a href="/products/drivers-and-sensors/digital-temperature-sensors/default.aspx">Digital Temperature Sensors</a>
+        </li>
+        <li>
+          <a href="/products/drivers-and-sensors/sensor-hub/default.aspx">Sensor Hub</a>
+        </li>
+      </ul>
     </div>
     <div class="groupleft">
       <div class="groupheader">
@@ -680,6 +699,56 @@
         </li>
       </ul>
       <div class="groupheader">
+        <a href="/products/programmable-logic/default.aspx">Programmable Logic</a>
+      </div>
+      <ul>
+        <li>
+          <a href="/products/programmable-logic/fpga-conversion-ulc/default.aspx">FPGA Conversion ULC</a>
+        </li>
+        <li>
+          <a href="/products/programmable-logic/spld-cpld/default.aspx">SPLD/CPLD</a>
+        </li>
+        <li>
+          <a href="/products/programmable-logic/field-programmable-gate-array/default.aspx">Field Programmable Gate Array</a>
+        </li>
+        <li>
+          <a href="/products/programmable-logic/fpga-configuration-memory/default.aspx">FPGA Configuration Memory</a>
+        </li>
+      </ul>
+      <div class="groupheader">
+        <a href="/products/analog/default.aspx">Analog</a>
+      </div>
+      <ul>
+        <li>
+          <a href="/products/analog/analog-companions-pmaac/default.aspx">Analog Companions (PMAAC)</a>
+        </li>
+      </ul>
+    </div>
+    <div class="groupleft-4">
+      <div class="groupheader">
+        <a href="/products/rad-hard/default.aspx">Rad Hard</a>
+      </div>
+      <ul>
+        <li>
+          <a href="/products/rad-hard/rad-hard-asics/default.aspx">Rad Hard ASICs</a>
+        </li>
+        <li>
+          <a href="/products/rad-hard/rad-hard-communication/default.aspx">Rad Hard Communication ICs</a>
+        </li>
+        <li>
+          <a href="/products/rad-hard/rad-hard-fpgas/default.aspx">Rad Hard FPGAs</a>
+        </li>
+        <li>
+          <a href="/products/rad-hard/rad-hard-memories/default.aspx">Rad Hard Memories</a>
+        </li>
+        <li>
+          <a href="/products/rad-hard/rad-hard-processors/default.aspx">Rad Hard Processors</a>
+        </li>
+        <li>
+          <a href="/products/rad-hard/rad-tolerant-devices/default.aspx">Rad Tolerant Devices</a>
+        </li>
+      </ul>
+      <div class="groupheader">
         <a href="/products/digital-broadcast/default.aspx">Digital Broadcast</a>
       </div>
       <ul>
@@ -690,39 +759,8 @@
           <a href="/products/digital-broadcast/fixed_tv/default.aspx">Fixed TV</a>
         </li>
       </ul>
-      <div class="groupheader">
-        <a href="/products/other/default.aspx">More Products</a>
-      </div>
-      <ul>
-        <li>
-          <a href="/products/other/led_drivers/default.aspx">LED Drivers</a>
-        </li>
-        <li>
-          <a href="/products/other/digital_temperature_sensors/default.aspx">Digital Temperature Sensors</a>
-        </li>
-        <li>
-          <a href="/products/other/analog_companions_pmaac/default.aspx">Analog Companions (PMAAC)</a>
-        </li>
-        <li>
-          <a href="/products/other/space_rad_hard_ics/default.aspx">Space Rad-Hard ICs</a>
-        </li>
-        <li>
-          <a href="/products/other/fpga_conversion_ulc/default.aspx">FPGA Conversion ULC</a>
-        </li>
-        <li>
-          <a href="/products/other/spld-cpld/default.aspx">Programmable Logic – SPLD/CPLD</a>
-        </li>
-        <li>
-          <a href="/products/other/field_programmable_gate_array/default.aspx">Field Programmable Gate Array</a>
-        </li>
-        <li>
-          <a href="/products/other/fpga_configuration_memory/default.aspx">FPGA Configuration Memory</a>
-        </li>
-      </ul>
     </div>
-    <div class="groupleft-4">
-    </div>
-    <div style="clear:both;margin-top:400px;margin-right:10px;margin-left:400px">
+    <div style="clear: both; left: -20px; top: 0px; position: relative; width: 310px; float: right;">
       <a href="/products/selector_overview.aspx">» Parametric Product Selector</a>
     </div>
   </div>
@@ -803,9 +841,6 @@
           <a href="/applications/industrialautomation/human_machine_interface/default.aspx">Human Machine Interface</a>
         </li>
         <li>
-          <a href="/applications/industrialautomation/plc_io_modules/default.aspx">PLC and I/O Modules</a>
-        </li>
-        <li>
           <a href="/applications/industrialautomation/sensors/default.aspx">Sensors</a>
         </li>
         <li>
@@ -847,11 +882,11 @@
     </div>
     <div class="groupleft">
       <div class="groupheader">
-        <a href="/applications/iot/default.aspx">Internet of Things</a>
+        <a href="/applications/iot/default.aspx">Internet of Things (IoT)</a>
       </div>
       <ul>
         <li>
-          <a href="/applications/iot/default.aspx">Internet of Things</a>
+          <a href="/applications/iot/default.aspx">Internet of Things (IoT)</a>
         </li>
       </ul>
       <div class="groupheader">
@@ -902,9 +937,6 @@
       <ul>
         <li>
           <a href="/applications/pc_peripherals/small_io_devices/default.aspx">Small I/O Devices</a>
-        </li>
-        <li>
-          <a href="/applications/pc_peripherals/large_io_devices/default.aspx">Large I/O Devices</a>
         </li>
         <li>
           <a href="/applications/pc_peripherals/mass_storage_devices/default.aspx">Mass Storage Devices</a>
@@ -1077,16 +1109,19 @@
       </div>
       <ul>
         <li>
-          <a href="http://www.atmelcorporation.wordpress.com">Embedded Design Blog</a>
+          <a href="http://blog.atmel.com/">Embedded Design Blog</a>
         </li>
         <li>
-          <a href="http://www.avrfreaks.net/">AVRFreaks (AVR)</a>
+          <a href="http://www.avrfreaks.net/">AVR Freaks</a>
         </li>
         <li>
-          <a href="http://www.at91.com/">AT91 (Atmel ARM)</a>
+          <a href="http://community.atmel.com/atmel-smart-arm-based-mcus">Atmel SMART ARM MCUs</a>
         </li>
         <li>
-          <a href="http://forum.atmel.com/forumdisplay.php?f=15">Touch Forum</a>
+          <a href="http://community.atmel.com/internet-of-things">Internet of Things (IoT)</a>
+        </li>
+        <li>
+          <a href="http://community.atmel.com/capacitive-touch">Capacitive Touch</a>
         </li>
         <li>
           <a href="http://spaces.atmel.com">Atmel Spaces (collaboration)</a>
@@ -1144,17 +1179,20 @@
         </li>
       </ul>
       <div class="groupheader">
-        <a href="/design-support/design-consultants/default.aspx">Design Consultants</a>
+        <a href="/design-support/atmel-design-consultants/default.aspx">Atmel Design Consultants</a>
       </div>
       <ul>
         <li>
-          <a href="/design-support/design-consultants/default.aspx">Design Consultants</a>
+          <a href="/design-support/atmel-design-consultants/customers.aspx">For Customers</a>
+        </li>
+        <li>
+          <a href="/design-support/atmel-design-consultants/design-consultants.aspx">For Design Consultants</a>
         </li>
       </ul>
     </div>
     <div class="groupleft-4">
     </div>
-    <div style="margin-top:450px;margin-right:10px;margin-left:400px">
+    <div style="margin-top:500px;margin-right:10px;margin-left:400px">
       <a href="/products/selector_overview.aspx">» Parametric Product Selector</a>
     </div>
   </div>
@@ -1188,10 +1226,7 @@
       </div>
       <ul>
         <li>
-          <a href="/about/news/corporate/default.aspx">Corporate Releases</a>
-        </li>
-        <li>
-          <a href="/about/news/product/default.aspx">Product Releases</a>
+          <a href="/about/news/press-releases/default.aspx">Press Releases</a>
         </li>
         <li>
           <a href="/about/news/atmel_news/default.aspx">Atmel in the News</a>
@@ -1199,11 +1234,17 @@
         <li>
           <a href="http://www.atmelcorporation.wordpress.com">Embedded Design Blog</a>
         </li>
+        <li>
+          <a href="/about/news/media-center/default.aspx">Media Center</a>
+        </li>
       </ul>
       <div class="groupheader">
         <a href="/about/contact/distributors/default.aspx?contactType=Online%20Directory">Contact Atmel</a>
       </div>
       <ul>
+        <li>
+          <a href="/about/contact/design-consultants/default.aspx">Design Consultants</a>
+        </li>
         <li>
           <a href="/about/contact/sales/default.aspx">Partners</a>
         </li>
@@ -1289,7 +1330,7 @@
           <a href="/about/quality/reliability.aspx">Reliability Information</a>
         </li>
         <li>
-          <a href="/about/quality/obsolescence/default.aspx">Obsolescence Information</a>
+          <a href="/about/quality/pcn-eol/pcn-eol-notifications.aspx">PCN and EOL Notifications</a>
         </li>
         <li>
           <a href="/about/quality/faq.aspx">FAQ Response Summary</a>
@@ -1319,7 +1360,7 @@
           <a href="/buy/default.aspx#">Atmel Store</a>
         </li>
         <li>
-          <a href="/forms/secure/verifylogin.aspx?target_url=samplestore">Request a Sample</a>
+          <a href="/forms/secure/verifylogin.aspx?target_url=samplestore">Request Sample</a>
         </li>
         <li>
           <a href="/buy/inventory/default.aspx">Check Inventory</a>
@@ -1660,13 +1701,22 @@ San Jose, California 95110</p>
       <a href="/products/memories/default.aspx">Memory</a>
     </li>
     <li>
+      <a href="/products/drivers-and-sensors/default.aspx">Drivers and Sensors</a>
+    </li>
+    <li>
       <a href="/products/security-ics/default.aspx">Security ICs </a>
     </li>
     <li>
-      <a href="/products/digital-broadcast/default.aspx">Digital Broadcast</a>
+      <a href="/products/programmable-logic/default.aspx">Programmable Logic</a>
     </li>
     <li>
-      <a href="/products/other/default.aspx">More Products</a>
+      <a href="/products/analog/default.aspx">Analog</a>
+    </li>
+    <li>
+      <a href="/products/rad-hard/default.aspx">Rad Hard</a>
+    </li>
+    <li>
+      <a href="/products/digital-broadcast/default.aspx">Digital Broadcast</a>
     </li>
   </ul>
 </div>
@@ -1694,7 +1744,7 @@ San Jose, California 95110</p>
       <a href="/applications/lighting/default.aspx">Lighting</a>
     </li>
     <li>
-      <a href="/applications/iot/default.aspx">Internet of Things</a>
+      <a href="/applications/iot/default.aspx">Internet of Things (IoT)</a>
     </li>
     <li>
       <a href="/applications/smart_energy/default.aspx">Smart Energy</a>
@@ -1759,7 +1809,7 @@ San Jose, California 95110</p>
       <a href="/design-support/third-party/default.aspx">Third-Party Tools/Support</a>
     </li>
     <li>
-      <a href="/design-support/design-consultants/default.aspx">Design Consultants</a>
+      <a href="/design-support/atmel-design-consultants/default.aspx">Atmel Design Consultants</a>
     </li>
   </ul>
 </div>
@@ -1877,22 +1927,7 @@ San Jose, California 95110</p>
         </div> 
      </noscript>
 
-     <script type="text/javascript">
-            var _sf_async_config = { uid: 47222, domain: 'atmel.com', useCanonical: true };
-            (function() {
-                  function loadChartbeat() {
-                       window._sf_endpt = (new Date()).getTime();
-                       var e = document.createElement('script');
-                       e.setAttribute('language', 'javascript');
-                       e.setAttribute('type', 'text/javascript');
-                       e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
-                       document.body.appendChild(e);
-                  };
-                  var oldonload = window.onload;
-                  window.onload = (typeof window.onload != 'function') ?
-                  loadChartbeat : function() { oldonload(); loadChartbeat(); };
-            })();
-     </script>
+    
        <img src="https://a.company-target.com/pixel?id=1391562825&amp;type=img" alt="" style="display:none">
        <img src="https://a.company-target.com/pixel?id=1391562963&amp;type=img" alt="" style="display:none">
 
@@ -1927,4 +1962,4 @@ San Jose, California 95110</p>
 <!-- End LinkedIn Tracking Code -->
 
 
-<script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
+</body></html>
