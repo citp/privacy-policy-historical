@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvdverdict.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142641id_/http%3A//www.dvdverdict.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdverdict.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206162807id_/http%3A//www.dvdverdict.com/privacy/index.php) for the most accurate reproduction.*
 
 # DVD Verdict - Privacy Statement
 
