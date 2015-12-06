@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the upcity.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408051453id_/http%3A//upcity.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upcity.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206101747id_/http%3A//upcity.com/privacy) for the most accurate reproduction.*
 
-# SEO Software from UpCity | Inbound Marketing for Small Business & Agencies
+# Privacy Policy | SEO Software | Inbound Marketing Software | UpCity
 
-## Privacy Policy
-
-This is the web site of UpCity LLC, a provider of [SEO Software](http://upcity.com/)
+This is the web site of UpCity LLC, a [Local Inbound Marketing Software & Services company](http://upcity.com/).
 
 Our postal address is:
 
-372 W. Ontario, Suite 301  
-Chicago, IL, 60654
+1021 W. Adams, Suite LL#1  
+Chicago, IL, 60607
 
-We can be reached via e-mail at [info@upcity.com](mailto:info@upcity.com) or you can reach us via the [see contact page](https://web.archive.org/company/contact).
+We can be reached via e-mail at [info@upcity.com](mailto:info@upcity.com) or you can reach us via the [see contact page](https://web.archive.org/contact-us/).
 
 This Privacy Policy describes the information UpCity, LLC ("UpCity") may collect about you through your use of the UpCity search engine optimization service and related web sites (collectively, the "UpCity Site"). It also describes how UpCity uses your information, how UpCity protects it, and what choices you have on how that information is used.
 
@@ -45,6 +43,6 @@ From time to time UpCity may make changes to its privacy policy. If UpCity makes
 
 If you have any questions about this privacy statement, the practices of the UpCity Site, or your dealings with the UpCity Site, please contact us at: [info@upcity.com](mailto:info@upcity.com).
 
-Want to learn more about the UpCity solution? [Try It Out](https://upcity.com/signup) today!
+Want to learn more about the UpCity solution? [Try It Out](http://go.upcity.com/Site_contact-us.html) today!
 
-Wondering how well your website is doing with SEO? Get a Free [SEO Report](https://web.archive.org/free-tools/seo-report-card)!
+Wondering how well your website is doing with SEO? Get a Free [SEO Report](https://web.archive.org/sales-tools/)!
