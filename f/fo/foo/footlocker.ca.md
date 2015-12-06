@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footlocker.ca privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628080650id_/http%3A//www.footlocker.ca/en-CA/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footlocker.ca privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206162204id_/http%3A//www.footlocker.ca/en-CA/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.*
 
 # Customer Service - OtherServices - Privacy Policy | Foot Locker Canada
 
@@ -52,7 +52,7 @@ Information Use
 We may use the information we collect from and about you for the following purposes:
 
   1. To provide you with a quick and simple checkout experience;
-  2. To process your orders, contact you concerning the status of an order, answer any of your questions, or otherwise contact and communicate with you;
+  2. To process your orders, contact you concerning the status of an order, answer any of your questions, or otherwise contact and communicate with you, including to invite you to rate and review products you recently purchased.
   3. To provide you with customized content, targeted offers, and advertising on the Site, other websites or via text message, and to contact you about upcoming Foot Locker sales, promotions, and product information;
   4. To allow you to participate in promotions;
   5. To help us learn more about our Site visitors, Loyalty Program members, and customers and to improve their shopping experience and our business;
@@ -66,7 +66,7 @@ Information Disclosure
 
 For the purposes described above and throughout this Privacy Statement, we may disclose the information we collect from and about you as follows:
 
-  1. Among the Foot Locker family of companies including Foot Locker, Kids Foot Locker and Champs Sports for their own marketing purposes.
+  1. Among the Foot Locker family of companies including Foot Locker, Lady Foot Locker, Kids Foot Locker, Footaction, Final-Score, Champs Sports, Eastbay, and SIX:02 for their own marketing purposes.
   2. To our service providers, if the disclosure will enable them to perform a business, professional, or technical support function for us.
   3. To carefully-selected third party partners, so that they may inform you of offers, promotions and services. 
   4. For payment processing and authorization, fraud protection and credit risk reduction, website evaluation and data analysis, and distributing marketing and promotional material for the Foot Locker family of companies.
