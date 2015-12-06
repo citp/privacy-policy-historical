@@ -1,85 +1,88 @@
-> *The following text is extracted and transformed from the emilyslist.org privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415105036id_/http%3A//emilyslist.org/node/335) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emilyslist.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206142554id_/http%3A//www.emilyslist.org/pages/entry/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EMILY's List
 
-Privacy Policy
+**EMILY’S LIST  
+PRIVACY POLICY**
 
-At EMILY's List we are committed to protecting your privacy online. While using our website located at [www.emilyslist.org](http://www.emilyslist.org/ "www.emilyslist.org") or other EMILY's List or WOMEN VOTE! websites which display this policy (the "Site"), you do not have to identify yourself or divulge personal information. If you should choose to give us your personal information, you decide the amount of information you wish to provide.
+_Last Updated:   November 26, 2015_
 
-Our privacy policy explains the information practices we use at EMILY's List's site related to:
+This Privacy Policy explains how information about you is collected, used and disclosed by Emily’s List .  This Privacy Policy applies to information we collect when you use our website, mobile application and other online products and services that link to this Privacy Policy (collectively, the "Site").
 
-  * How we protect your information
-  * What constitutes personal information
-  * What personal information we collect, and how we use it
-  * The limited circumstances under which we may share your information
-  * How to contact us about privacy
+We may change this Privacy Policy from time to time.  If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification).  We encourage you to review the Privacy Policy whenever you access the Site to stay informed about our information practices and the ways you can help protect your privacy.
 
+**COLLECTION OF INFORMATION     **
 
+**Information You Provide to Us**
 
-Our Site links to a limited number of other websites. EMILY's List is not responsible for the content or the privacy policies of these websites. We encourage you to read the privacy statements for each website you visit. EMILY's List will occasionally update this privacy policy as changes to the site necessitate it, or as we otherwise deem appropriate. When EMILY's List posts changes to this policy, you will see the word "updated" next to the privacy policy link on the front page of this Site. Your use of the Site following the posting of such changes or revised policy will constitute your consent to any changes in our privacy practices. We encourage you to periodically review this policy to be informed of how we are protecting your information.
+We collect information you provide directly to us.  For example, we may collect information when you make a donation, request information,  fill out a form, send us an email, sign up to receive updates, sign up for an event, apply for or inquire about a job or internship, make a purchase, or otherwise communicate with us.  The types of information we may collect include your name, email address, postal address, phone number, credit card information, and other information you choose to provide.  In addition, the Federal Election Commission (FEC) may require us to collect personal information from donors. For example, the FEC requires us to collect the name, mailing address, occupation, and employer of all individuals whose donations exceed $200 per calendar year.
 
-How do we protect your information?
+**Information We Collect Automatically When You Use the Site**
 
-We have endeavored to put in place reasonable security measures to protect against the loss, misuse or alteration of personal information while it is under our control. For example, our computer systems have restricted access limited only to those persons and organizations necessary to its proper functioning. This access applies to both electronic and physical security measures. Highly sensitive data including credit card information is additionally secured through the use of encryption that makes unauthorized access more difficult, such as the Secure Socket Layer (SSL) software. Our servers are located in a locked, secure environment. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable.
+When you access or use our Site, we automatically collect information about you, including:
 
-What is personal information?
+•    Log Information:  We log information about your use of the Site, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Site.  
+•    Device Information:  We collect information about the computer or mobile device you use to access our Site, including the hardware model, operating system and version, device identifiers and mobile network information.  
+•    Information Collected by Cookies and Other Tracking Technologies:  We use various technologies to collect information, and this may include sending cookies to your computer or mobile device.  Cookies are small data files stored on your hard drive or in device memory that helps us to improve our Site and your experience, see which areas and features of our Site are popular and count visits.  We may also collect information using web beacons (also known as "tracking pixels").  Web beacons are electronic images that may be used in our Site or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon.  For more information about cookies, and how to disable them, please see "Your Choices" below.
 
-As used in this policy, the term "personal information" means information that specifically identifies an individual (such as a name, address, telephone number, e-mail address, or other account number), and information about that individual's activities, such as information about his or her use of the Site, when directly linked to personally identifiable information. Personal information also includes demographic information such as date of birth, gender, geographic area and preferences when such information is linked to other personal information that identifies you. Personal information does not include "aggregate" information, which is data we collect about the use of the Site or about a group or category users, from which individual identities or other personal information has been removed.
+**Information We Collect From Other Sources**
 
-What personal information do we collect, and how do we use it?
+We may also obtain information from other sources and combine that with information we collect through our Site.
 
-Generally
+**USE OF INFORMATION**
 
-On registration, sign-up and contribution forms on the Site, we may ask for your name, address, telephone number, credit card information, bank account information, email address and/or IM address as well as the name of the person who referred you to the site. We may obtain information about you from outside sources and add it to or combine it with the information we collect through this Site. We will use your email address and the other personal information we collect to provide you news and information about EMILY's List; to process your request or transactions (such as contributions); to inform you about other news, information or events we think will be of interest to you; to facilitate your use of the Site, as well as our administration and operation of the Site; to respond to your emails, submissions, comments or requests; and for the purpose for which the information was provided.
+We may use information about you for various purposes, including to:
 
-"Send to a Friend"
+•    Provide, maintain, and improve our Site;  
+•    Provide the information you request and to process and complete your donations, registrations, purchases and related transactions;  
+•     Request feedback and otherwise contact you about your use of the Site;  
+•    Respond to your emails, submissions, questions, comments, and requests and to provide customer service;  
+•    Send you updates and newsletters and otherwise provide you with information about our organization or that we think will be of interest to you, such as sending you news and information to keep you informed about various campaigns, candidates, issues, events, resources, promotions, products and services;  
+•    Solicit volunteers, donations and support for our organization and for candidates, issues and organizations that we support;  
+•    Send you technical notices, updates, confirmations, security alerts and support and administrative messages and otherwise facilitate your use of, and our administration and operation of, the Site;  
+•    Monitor and analyze trends, usage and activities in connection with our Site;  
+•    Link or combine with information we get from others to help understand your needs and provide you with better information and  
+•    Carry out any other purpose for which the information was collected.
 
-EMILY's List makes it easy for you to spread the word about EMILY's List with its "Send to a Friend" feature. When you use "Send to a Friend", we may store email addresses or any information about the people you contact.
+Emily’s List is based in the United States and the information we collect is governed by U.S. law.  By accessing or using the Site or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries.
 
-Cookies
+**SHARING OF INFORMATION**
 
-A cookie is a tiny text file that is stored on your computer by EMILY's List. We use cookies to tailor your experience on our site according to the preferences you have specified. When you visit the EMILY's List website we only access the cookie file that we have stored on your computer. We cannot and do not access any information stored in a cookie by other websites. Our cookies do not contain any personal information; however, if we combine our cookies with or link them to any of the personally identifying information, we would treat this information as personal information. If you wish to block, erase, or be warned of cookies, please refer to your browser instructions or help screen to learn about these functions. However, if a browser is set not to accept cookies or if a user rejects a cookie, you may not be able to access certain Site features.
+We may share information about you as follows or as otherwise described in this Privacy Policy:
 
-IP Addresses and Log File Data
+•    With vendors, consultants and other service providers or volunteers who need access to such information to carry out work on our behalf, including Shopify, who hosts our online store (see www.shopify.com/legal/privacy for information on how Shopify handles the information it collects when you make a purchase);  
+•    To report required information to the Federal Elections Commission, if applicable, including name, mailing address, occupation, and name of employers of individuals whose contributions exceed $200 in a calendar year (for additional information, visit the FEC website at http://www.fec.gov);  
+•    With organizations, candidates, groups or causes that we believe have similar political viewpoints, principles or objectives;    
+•    With candidates or organizations to whom you have made a donation through the Site;  
+•    In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;  
+•    If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property and safety of Emily’s List or others;  
+•    In connection with, or during negotiations of, any merger, reorganization, sale of assets, financing or acquisition or in any other situation where personal information may be disclosed or transferred as one of the assets of Emily’s List; and  
+•    With your consent or at your direction, including if we notify you through our Site that the information you provide will be shared in a particular manner and you provide such information.
 
-We log IP address, which is the location of your computer or network on the Internet, for systems administration and troubleshooting purposes. We also use page hits in the aggregate to track the popularity of pages that people visit in order to improve the quality of the site. There is no personal information collected in our log files; however, we treat log file data as personal information if we combine it with or link it to any of the identifying information mentioned above.
+We may also share aggregated or anonymized information that does not directly identify you.
 
-Information on Children
+**SOCIAL SHARING FEATURES**
 
-Because we care about the safety and privacy of children online, we comply with the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying FTC regulations establish United States federal law that protects the privacy of children using the Internet. We do not knowingly contact or collect personal information from children under 13. Our site is not intended to solicit information of any kind from children under 13, and we have designed our sites to block our knowing acceptance of information from children under 13 whenever age-related information is requested.
+The Site may offer social sharing features and other integrated tools (such as the Facebook "Like" button), which let you share actions you take on our Site with other media, and vice versa.  The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature.  For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
 
-Parents with questions may email us at [information@emilyslist.org](mailto:information@emilyslist.org) or call us at (202) 326-1400.
+**ANALYTICS SERVICES PROVIDED BY OTHERS**
 
-Under what circumstances do we share the personal information you provide?
+We may use third parties to provide us with analytics services.  These entities may use cookies, web beacons and other technologies to collect information about your use of the Site and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information.  This information may be used by Emily’s List and others to, among other things, analyze and track data, determine the popularity of certain content, deliver content targeted to your interests on our Site and other websites and better understand your online activity.
 
-We do not sell, rent or provide your personal information to third parties without your prior consent except in the limited circumstances described in this policy (and in any updates to this policy that may be posted to the Site from time to time). We may share personal information with third party vendors, consultants and other service providers (“Service Providers”) who are engaged by or working with us in connection with the operation of the Site or EMILY's List and who need access to such information to carry out their work for us, such as payment processors (for contributions) or hosting services. However, we are not responsible for the actions of such Service Providers, nor are we responsible for any additional information you provide directly to these Service Providers or to other third parties, and we encourage you to become familiar with their practices before disclosing information directly to them. From time to time, we may also share your personal information with organizations having similar political viewpoints and objectives, in furtherance of our own political objectives.
+**SECURITY**
 
-In addition, we may disclose your personal information in the following, other ways:
+Emily’s List takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
 
-When you contribute money online
+**YOUR CHOICES**
 
-We are required by federal and state law to collect and report the name, mailing address, occupation and employer of individuals whose contributions exceed certain amounts. These records are available to the public. We also make a note of your telephone number and email address, which helps us to contact you quickly if follow-up on your contribution is necessary under Federal or state election law.
+**Cookies**
 
-When you sign one of our petitions or pledges
+Most web browsers are set to accept cookies by default.  If you prefer, you can usually choose to set your browser to remove or reject browser cookies.  Removing or rejecting browser cookies does not necessarily affect third party flash cookies used in connection with our Site.  [To delete or disable flash cookies please visit www.adobe.com/products/flashplayer/security for more information. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Site.
 
-We treat your name, city, state, and any comments as public information. We may, for example, provide compilations of petitions and pledges, with your comments, to national leaders, without disclosing email addresses. We may also make your pledges and petitions, along with your comments, city and state available to the press and public online.
+**Promotional Communications**
 
-To comply with law or to protect our rights or the rights of others
+You may opt out of receiving text messages, updates and newsletters by following the instructions in those emails or text messages by unsubscribing here, contacting us at [information@emilyslist.org](mailto:information@emilyslist.org). If you opt out, we may still send you other types of emails, such as those about your use of the Site or any donations or transactions
 
-In addition, we may disclose personal information in the good faith belief that we are lawfully authorized or required to do so, or that doing so is reasonably necessary or appropriate to comply with the law or with legal process or authorities, respond to any claims, or to protect the rights, property or safety of EMILY's List, our users, or the public, including without limitation to protect EMILY's List or our users from fraudulent, abusive, inappropriate or unlawful use of our Site.
+**CONTACT US**
 
-In connection with a transfer of assets
-
-Information about our users, including personal information, we collect may also be disclosed or transferred in connection with any transfer of assets from EMILY's List to another political organization or other entity.
-
-How can you contact us?
-
-If you have any questions about our privacy policy, the information we have collected from you online, the practices of this Site or your interaction with this website, or if you wish to verify, correct or delete any personal information we have collected from you, send email to: [information@emilyslist.org](mailto:information@emilyslist.org). You can also reach us via US Mail at:
-
-EMILY's List
-
-180 M Street NW
-
-Suite 375N
-
-Washington, DC 20036
+If you have any questions about this Privacy Policy, please contact us at: [information@emilyslist.org](mailto:information@emilyslist.org)
