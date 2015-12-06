@@ -1,14 +1,9 @@
-> *The following text is extracted and transformed from the penguinmagic.com privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310195826id_/http%3A//www.penguinmagic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penguinmagic.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141631id_/http%3A//www.penguinmagic.com/privacy.php) for the most accurate reproduction.*
 
 # Penguin Magic Privacy Policy
 
 |  ****  
-  
-[](http://facebook.com/penguinmagic)   
-[](https://web.archive.org/product.php?ID=1747)
-
-[](https://web.archive.org/freetricks.php)
-
+[](https://web.archive.org/p/2787)   
 **** |  | 
 
 **What information do we collect?**
@@ -94,29 +89,37 @@ support@penguinmagic.com
 800-880-2592  
 
 
-|  | 
-
-[](https://web.archive.org/365/)
-
-[](http://www.penguinmagic.com/psypher.php)
-
-[](http://www.penguinmagic.com/nextvideo.php)
-
-[](http://www.penguinmagic.com/randomtrick.php)
-
+|  |  [](https://web.archive.org/coolbox)   
   
-[](http://www.penguinmagic.com/product.php?ID=2123)   
-[](http://www.penguinmagic.com/product.php?ID=2119)
+[](https://web.archive.org/.php)
 
-[](http://www.penguinmagic.com/product.php?ID=1931)
+0 0 : 0 0 : 0 0  remaining
 
-[](https://web.archive.org/freeshippinginfo.php)
+[](https://web.archive.org/p/6438)
 
-[](http://www.penguinmagic.com/product.php?ID=1926)
+[](https://itunes.apple.com/us/app/coolbox/id582690613) [](http://play.google.com/store/apps/details?id=com.penguinmagic.coolbox)
 
-[](http://www.penguinmagic.com/penguinguides.php)
+[](https://web.archive.org/p/1902)   
+[](https://web.archive.org/partner/welcome.php)
 
-[](https://web.archive.org/specialordercatalog.php) [](https://web.archive.org/demovideos.php)   
-  
-  
+[Act Builder beta](https://web.archive.org/acts.php)
+
+  1. Jordan Vo
+  2. Paul Reynolds
+  3. Magic Orthodoxy
+  4. Kevin Bryan
+  5. Craig Browning
+
+
+
+[](https://web.archive.org/nextvideo.php)
+
+[](https://web.archive.org/randomtrick.php)
+
+[](https://web.archive.org/specialordercatalog.php)
+
+[](https://web.archive.org/demovideos.php)
+
+[](https://web.archive.org/psypher.php)
+
 | 
