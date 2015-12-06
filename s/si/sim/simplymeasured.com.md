@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplymeasured.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607154226id_/http%3A//simplymeasured.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplymeasured.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206040933id_/http%3A//simplymeasured.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Simply Measured
 
@@ -82,5 +82,4 @@ Should you have other questions or concerns about this privacy policy, please co
 **Simply Measured, Inc.**  
 **2211 Elliott Ave**  
 **Suite 310**  
-**Seattle, WA 98121**  
-**us@simplymeasured.com**
+**Seattle, WA 98121**
