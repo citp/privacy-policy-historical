@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the people-press.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120120128id_/http%3A//www.pewresearch.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the people-press.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206031408id_/http%3A//www.pewresearch.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pew Research Center
 
@@ -34,7 +34,7 @@ Pew Research Center works with third-party vendors Constant Contact and MailChim
 
 You may obtain a summary of your personally identifiable information retained by us, or modify, correct, change or update such information by contacting Pew Research Center via the postal address, email address, or telephone number listed in Section 6 (Right to Contact) below.
 
-You may also request that Pew Research Center remove from its database any personally identifiable information you have previously provided by contacting Pew Research Center via the postal address, email address, or telephone number listed in Section 6 (Right to Contact) below. Complete removal may not be immediate, and in some instances, all archival copies may be impossible to delete. Also, if you would like to opt out of receiving any communciations, please contact Pew Research Center at [info@pewresearch.org](mailto:info@pewresearch.org).
+You may also request that Pew Research Center remove from its database any personally identifiable information you have previously provided by contacting Pew Research Center via the postal address, email address, or telephone number listed in Section 6 (Right to Contact) below. Complete removal may not be immediate, and in some instances, all archival copies may be impossible to delete. Also, if you would like to opt out of receiving any communications, please contact Pew Research Center at [info@pewresearch.org](mailto:info@pewresearch.org).
 
 ### 4) Links
 
