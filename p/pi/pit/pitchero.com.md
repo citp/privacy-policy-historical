@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitchero.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626141428id_/http%3A//www.pitchero.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitchero.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206040049id_/http%3A//www.pitchero.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pitchero
 
@@ -105,7 +105,9 @@
 5.1.4
     to the police, regulatory bodies or legal advisers in connection with any alleged criminal offence or suspected breach of the Terms of Service <http://www.pitchero.com/terms-of-service> or where We are under a duty to disclose or share Your Data in order to comply with any legal obligation.
 5.1.5
-    to any clubs, leagues, or counties you sign up to through the Pitch Hero platform.
+    to any clubs, leagues, or counties you sign up to through the Pitch Hero platform who may contact you from time to time.
+5.1.6
+    to LiveRamp in a encrypted, non-humanreadable format for them to use for matching to other marketing data. Please [click here](http://liveramp.com/service-privacy-policy/) for more details or to opt out.
 
 6
     
@@ -204,7 +206,7 @@ Recognise you when you return to our site and automatically log you in.
 
 ### From Google Analaytics
 
-See <http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html#cookiesSet> for more information
+[More info](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html#cookiesSet "External link")  
 
 #### __utma
 
@@ -217,6 +219,18 @@ This cookie is used to establish and continue a user session with our website.
 #### __utmz
 
 This cookie is used to calculate search engine traffic, ad campaigns and page navigation within our website.
+
+### From LiveRamp
+
+[More info](http://liveramp.com/service-privacy-policy/ "External link")  
+
+#### ACXID / ACX_COUNT
+
+These cookies are used to track you within the Acxiom system.
+
+#### ck1 / dids1772872133 / ids / rlas3
+
+These cookies are used to track you within the LiveRamp system.
 
 4
     Please note that our advertisers may also use cookies, over which we have no control.
