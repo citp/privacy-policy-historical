@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the topyaps.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526044046id_/http%3A//topyaps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topyaps.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206120552id_/http%3A//topyaps.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TopYaps
+# Privacy Policy - TopYaps
 
 ## **Privacy Policy of TOPYAPS.COM:**
 
-Thank you for giving your precious time to TopYaps, a website running under the network of [D Techmonkey Solutions Pvt. Ltd](http://www.techmonkey.in/). We highly apprise your backup and readership and respect your privacy with high values. Right here on TopYaps, we are committed to protect the significant personal informations you provide us while visiting this website. Our intention is to enhance the potential of our legalize business interests by implementing those maxims, which manifestly describe the spirit to protect your sensible prospects of privacy. However, this privacy policy can be updated any time and TopYaps encourages you to check back this page often so that you can keep yourself familiar with our latest versions and terms.
+Thank you for giving your precious time to TopYaps, a website running under the network of D Techmonkey Solutions Pvt. Ltd. We highly appraise your backup and readership and respect your privacy with high values. Right here on TopYaps, we are committed to protect the significant personal informations you provide us while visiting this website. Our intention is to enhance the potential of our legalize business interests by implementing those maxims, which manifestly describe the spirit to protect your sensible prospects of privacy. However, this privacy policy can be updated any time and TopYaps encourages you to check back this page often so that you can keep yourself familiar with our latest versions and terms.
 
 **(A) Range:**
 
 This privacy policy is applicable only for the TopYaps and can’t be applied on informations gathered from other websites that TopYaps does not control. To clear up things, if you click on any advertisement on any page of TopYaps, then it will link you to other website and thus your information will be compiled by that specific website. In this case, we will not hold the responsibilities for the privacy affairs of other websites. We highly recommend you to check out the privacy policies of each website particularly visited by you via TopYaps.
 
-**(B) What Information TopYaps Collects:**  
-****
+**(B) What Information TopYaps Collects:**
 
 **(B.1) – Direct information:**
 
