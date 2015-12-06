@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialsense.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607183043id_/http%3A//www.financialsense.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialsense.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206111123id_/http%3A//www.financialsense.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FINANCIAL SENSE
 
@@ -78,7 +78,7 @@ We will not disclose personally identifiable information we collect from you to 
   * To fulfill your service requests for services,
   * To protect ourselves from liability,
   * To respond to legal process or comply with law, 
-  * To enforce and investigate possible violations of our Websites' policies, including [Contribution Guidelines](https://web.archive.org/web/20150607183043id_/http%3A//www.financialsense.com/about-us/about-us/contributors/guidelines "FSO Contribution Guidelines") and [Terms of Use](http://www.financialsense.com/about-us/terms-of-use "FSO Terms of Use"), 
+  * To enforce and investigate possible violations of our Websites' policies, including [Contribution Guidelines](https://web.archive.org/web/20151206111123id_/http%3A//www.financialsense.com/about-us/about-us/contributors/guidelines "FSO Contribution Guidelines") and [Terms of Use](http://www.financialsense.com/about-us/terms-of-use "FSO Terms of Use"), 
   * To investigate, protect against, and prevent technical issues, security issues, and/or fraud, or
   * In connection with a merger, acquisition, or liquidation of the company.
 
