@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukadslist.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144458id_/http%3A//www.ukadslist.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukadslist.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206050014id_/http%3A//www.ukadslist.com/info/privacy.php) for the most accurate reproduction.*
 
 # UKAdsList.com - Privacy Policy
 
