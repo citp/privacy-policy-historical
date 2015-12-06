@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the udisglutenfree.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075320id_/http%3A//udisglutenfree.com/udis-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udisglutenfree.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206230546id_/http%3A//udisglutenfree.com/udis-privacy-policy) for the most accurate reproduction.*
 
 # UDIS Privacy Policy | Udi’s® Gluten Free Bread
 
