@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the leadoutcome.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144334id_/http%3A//leadoutcome.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadoutcome.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035807id_/http%3A//www.leadoutcome.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
+
+[](https://web.archive.org/users/admin "View user profile.")
 
 Protecting and respecting the privacy of our customers and those who use our website and our products and services is something you can count on from LeadOutcome. It is important that you understand how your personal information is collected and used. Personal information is any information that identifies you or would enable someone to contact you, such as your name, email address, phone number and other non-public information that is associated with the foregoing. This privacy statement applies to all of LeadOutcome products and services any other sites owned or operated by LeadOutcome. 
 
