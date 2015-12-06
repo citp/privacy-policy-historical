@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seowebpageanalyzer.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407071508id_/http%3A//www.the-escape.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seowebpageanalyzer.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206162814id_/http%3A//www.the-escape.co.uk/privacy) for the most accurate reproduction.*
 
 # The Escape - Privacy Policy - Brand, Strategy and Digital Agency, Hampshire, UK
 
@@ -76,6 +76,12 @@ If you decide that for whatever reason we’re starting to get on your nerves, y
 
 If you’ve shared your personals with us then you can request they be updated, modified or deleted. All you have to do is drop us a line here:  
 [ideas@the-escape.co.uk](mailto:ideas@the-escape.co.uk).
+
+## Every now and then
+
+Email communication is great, but sometimes you can't beat a good old 'chin wag on the blower'.
+
+So we can listen back, check on our communications and improve the way we do things (as well as hear how ridiculous we sound when we're putting on our posh telephone voices), every now and then we'll record a telephone conversation we have with you. Just so you know.
 
 ## Just say… errrm… ‘yes!’
 
