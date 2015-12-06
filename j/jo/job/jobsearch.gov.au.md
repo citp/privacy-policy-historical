@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the jobsearch.gov.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074028id_/http%3A//jobsearch.gov.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsearch.gov.au privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206115557id_/https%3A//jobsearch.gov.au/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Australian JobSearch
 
-It is important that you read this Privacy Notice, which may change from time to time, so that you understand how your personal information will be handled as a user of the Australian JobSearch website (JobSearch). This Privacy Notice informs you of the collection of your personal information by the Department of Employment (the department) in accordance with the department’s functions in connection with the delivery of employment services and ensuring compliance with participation and activity test requirements. It also informs you of how your personal information will be used and the circumstances in which it may be disclosed to another party.
+It is important that you read this Privacy Notice, which may change from time to time, so that you understand how your personal information will be handled as a user of the jobactive, powered by JobSearch website (JobSearch). This Privacy Notice informs you of the collection of your personal information by the Department of Employment (the department) in accordance with the department’s functions in connection with the delivery of employment services and ensuring compliance with participation and activity test requirements. It also informs you of how your personal information will be used and the circumstances in which it may be disclosed to another party.
 
-All personal information collected by the department is protected by the Privacy Act 1988 (Cth) (the Privacy Act). Employment services providers (the Providers) contracted to the department and the Providers’ subcontractors are required to comply with the Privacy Act. For information about the department’s personal information handling practices, please refer to the department’s [Complete Privacy Policy](http://www.employment.gov.au/privacy "External link. Opens in a new window."). This Privacy Notice contains three Parts as follows:
+All personal information collected by the department is protected by the Privacy Act 1988 (Cth) (the Privacy Act). Employment services providers (the providers) contracted to the department and the providers’ subcontractors are required to comply with the Privacy Act. For information about the department’s personal information handling practices, please refer to the department’s [Complete Privacy Policy](http://www.employment.gov.au/privacy "External link. Opens in a new window."). This Privacy Notice contains three Parts as follows:
 
-  * Part 1 applies to job seekers registered on JobSearch to find employment (Job Seekers);
-  * Part 2 applies to employers registered on JobSearch to advertise vacancies (Employers); and 
-  * Part 3 applies to both Job Seekers and Employers.
+  * Part 1 applies to job seekers registered on JobSearch to find employment (job seekers);
+  * Part 2 applies to employers registered on JobSearch to advertise vacancies (employers); and 
+  * Part 3 applies to both job seekers and employers.
 
 
 
@@ -16,7 +16,7 @@ All personal information collected by the department is protected by the Privacy
 
 ###  How does the department collect your personal information?
 
-Your personal information is collected from you when you register, provide or update your personal details on JobSearch. It may also be collected from a third party, including Centrelink, your Provider, or Employers whom you have contacted via JobSearch or whom you have submitted a job application to, if you have agreed or would reasonably expect your personal information to be collected in this way.
+Your personal information is collected from you when you register, provide or update your personal details on JobSearch. It may also be collected from a third party, including Centrelink, your provider, or employers whom you have contacted via JobSearch or whom you have submitted a job application to, if you have agreed or would reasonably expect your personal information to be collected in this way.
 
 ###  What personal information is the department collecting?
 
@@ -29,16 +29,16 @@ The types of personal information collected by the department may include your n
 The department collects your personal information for the purposes of:
 
   * assisting you in finding employment
-  * determining whether you are eligible to take part in services provided by a Provider
+  * determining whether you are eligible to take part in services provided by a provider
   * ensuring you are paid correctly if you receive Government benefits
   * assisting you in complying with participation and activity test requirements
   * providing you with ready access to your job search related documents, and allow you to access your ‘My Job Search Effort’, and forwarding this information via email to a recipient of your choice. Please note that ‘My Job Search Effort’ functionality replaced ‘Application History’ from 6 December 2014
   * ensuring correct payments are made to Providers for services they provide to you
-  * evaluating and monitoring outcomes, programmes and services delivered by Providers 
-  * including you in surveys conducted by the department and its Providers
-  * assisting in resolving complaints made by you or your Provider
+  * evaluating and monitoring outcomes, programmes and services delivered by providers 
+  * including you in surveys conducted by the department and its providers
+  * assisting in resolving complaints made by you or your provider
   * assisting in the administration of programmes
-  * assisting in providing and improving its services to both Job Seekers and Employers.
+  * assisting in providing and improving its services to both job seekers and employers.
 
 
 
@@ -70,13 +70,13 @@ In limited circumstances, the department may be required to disclose your person
 
 ###  Overseas disclosure of your personal information
 
-It is not intended that your personal information will be disclosed to any overseas recipients. However, you should be aware that Employers’ organisation may be a registered legal entity outside Australia. 
+It is not intended that your personal information will be disclosed to any overseas recipients. However, you should be aware that employers’ organisation may be a registered legal entity outside Australia. 
 
 ##  Part 2 – Employers
 
 ###  How does the department collect your personal information?
 
-Your personal information is collected from you when you register, provide or update your personal details on JobSearch. It may also be collected from a third party, such as a Provider, if you have agreed or would reasonably expect your personal information to be collected in this way. Please note, any Employer may agree to allow any Provider to advertise Vacancies on the Employer’s behalf. For the purpose of this Privacy Notice, ‘Vacancy’ means a legitimate job being advertised or offered which is currently available and includes business opportunities.
+Your personal information is collected from you when you register, provide or update your personal details on JobSearch. It may also be collected from a third party, such as a provider, if you have agreed or would reasonably expect your personal information to be collected in this way. Please note, any employer may agree to allow any provider to advertise Vacancies on the employer’s behalf. For the purpose of this Privacy Notice, ‘Vacancy’ means a legitimate job being advertised or offered which is currently available and includes business opportunities.
 
 ###  What personal information is the department collecting?
 
@@ -88,29 +88,29 @@ The types of personal information collected by the department may include your n
 
 The department collects your personal information for the purposes of:
 
-  * allowing Job Seekers to apply to your Vacancies
-  * allowing you to use JobSearch to manage your Vacancies and Find Staff 
+  * allowing job seekers to apply to your Vacancies
+  * allowing you to use JobSearch to manage your Vacancies and Find Candidates
   * providing you with ready access to your Vacancies
-  * allowing the department to determine Job Seekers’ compliance with participation and activity test requirements
-  * ensuring correct payments are made to Providers for services they provide to Job Seekers
-  * evaluating and monitoring outcomes, programmes and services delivered by Providers
-  * including you in surveys conducted by the department and its Providers 
-  * assisting in resolving complaints made by you, Job Seekers or Providers
+  * allowing the department to determine job seekers’ compliance with participation and activity test requirements
+  * ensuring correct payments are made to providers for services they provide to job seekers
+  * evaluating and monitoring outcomes, programmes and services delivered by providers
+  * including you in surveys conducted by the department and its providers 
+  * assisting in resolving complaints made by you, job seekers or providers
   * assisting in the administration of programmes
-  * assisting in providing and improving its services to both Job Seekers and Employers.
+  * assisting in providing and improving its services to both job seekers and employers.
 
 
 
 By using JobSearch, you consent to your personal information being collected, used and disclosed for the above purposes.
 
-If the department did not collect your personal information, the department would not be able to provide you with some or all of JobSearch services and make correct payments to Job Seekers .
+If the department did not collect your personal information, the department would not be able to provide you with some or all of JobSearch services and make correct payments to job seekers .
 
 ###  Who has access to your personal information?
 
 For the purposes set out above, the department may disclose your personal information to:
 
-  * Job Seekers 
-  * Providers
+  * job seekers 
+  * providers
   * the Department of Human Services
   * the Department of Social Services
   * the Department of the Prime Minister and Cabinet
@@ -135,7 +135,7 @@ It is not intended that your personal information will be disclosed to any overs
 
 ###  Amending your personal information
 
-Job Seekers and Employers can amend their personal information on JobSearch if it is incorrect by accessing their account details on JobSearch.
+Job seekers and employers can amend their personal information on JobSearch if it is incorrect by accessing their account details on JobSearch.
 
 You may also seek access to, or correction of, your personal information stored JobSearch. Further information on seeking access to, or correction of, your personal information is contained in the department’s [Complete Privacy Policy](http://www.employment.gov.au/privacy "External link. Opens in a new window.").
 
