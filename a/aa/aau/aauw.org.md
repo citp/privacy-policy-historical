@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aauw.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142344id_/http%3A//www.aauw.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aauw.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206162758id_/http%3A//www.aauw.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : AAUW: Empowering Women Since 1881
+# Privacy Policy: AAUW
 
 AAUW is committed to protecting the privacy of those who use aauw.org.
 
