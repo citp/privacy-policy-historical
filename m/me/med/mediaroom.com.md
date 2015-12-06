@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediaroom.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626015921id_/http%3A//prnewswire.mediaroom.com/index.php%3Fs%3D62) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaroom.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141649id_/http%3A//prnewswire.mediaroom.com/index.php%3Fs%3D62) for the most accurate reproduction.*
 
 # PR Newswire Privacy Policy
 
@@ -9,8 +9,7 @@ Welcome to our website, prnewswire.com. 
 
   PR Newswire Association LLC (“PR Newswire” or “we”) is the global leader in news and information distribution services for professional communicators. This privacy policy explains how we collect, use, and protect information about you, an individual person, as you 
 
-   
-
+ 
 
 ·         visit the public pages available through this website, [http://prnewswire.com](http://prnewswire.com/), or register for one of its personalized services; 
 
@@ -34,10 +33,9 @@ o    MEDIAtlas ([http://mediatlas.prnewswire.com/mediatlas/Login.aspx?Languag
 
 o    Vintage Filings ([http://www.vfilings.com/](http://www.vfilings.com/)), and 
 
-o    The PR ToolKit for Small Business ([http://toolkit.prnewswire.com](http://toolkit.prnewswire.com/)); or 
+o    The PR Toolkit for Small Business ([http://www.smallbusinesspr.com](http://www.smallbusinesspr.com/)); or 
 
-·        Download  a multimedia press release using the PR Newswire ARC™ videoplayer.  
-
+·        Download  a multimedia press release using the PR Newswire ARC™ videoplayer.
 
         Certain services and pages listed above may be available via mobile app. This privacy policy governs the collection and use of data about you and your use of any PRN mobile app.  We may provide additional notice and choice options within the app itself. 
 
@@ -72,9 +70,9 @@ Our log servers collect standard web information about visits and system capabil
   
 We may use the resulting information in ways described below. 
 
-**  
-****How We Use Information About You**  
-How we use information about you depends upon the capacity in which you visit our sites. For example, if you simply visit our pages for news and do not register, we will not know who you are and will not collect information that identifies you. But if you are using the member-only areas to represent a member company or to order a service, we may note how the service is being used. 
+  
+**How We Use Information About You**  
+How we use information about you depends upon the capacity in which you visit our sites. For example, if you simply visit our pages for news and do not register, we will not know who you are and will not collect information that identifies you. But if you are using the member-only areas to represent a member company or to order a service, we may note how the service is being used.
 
   We may use the information about you in any of the following ways:  
 
@@ -96,19 +94,19 @@ How we use information about you depends upon the capacity in which you visit ou
 
 ·         For any other purpose we tell you about when you submit information to us. 
 
-**  
-Choice and Access**  
+  
+**Choice and Access**  
 You may disable or block any cookies by using the tools available in your browser. If you are registering for or requesting a service, you may choose whether to activate automatic recognition when you register, or after registration, you may disable the persistent cookie that supports recognition using the tools in your browser. If you choose to disable the cookies that support automatic recognition, you will need to re-enter your user ID and password each time you access a gated portion of the website.
 
-_  
-__Third party cookies and ad servers.   _We may ask or authorize third parties to serve cookies on our web sites or pages and include web beacons in email marketing campaigns.  These cookies and web beacons may be used to track your responses and your interests in our content, offerings and web pages.  You may use the controls in your browser to disable the tracking functions or these cookie-based technologies. 
+  
+_Third party cookies and ad servers.   _We may ask or authorize third parties to serve cookies on our web sites or pages and include web beacons in email marketing campaigns.  These cookies and web beacons may be used to track your responses and your interests in our content, offerings and web pages.  You may use the controls in your browser to disable the tracking functions or these cookie-based technologies.
 
   You may choose not to receive marketing emails from us by following the directions at the bottom of the marketing emails we send you. Journalists and others who use ProfNet Expertssm may choose not to disclose their identity when in direct communication with experts and company information officers by following the directions on that website to "cloak" their identity.
 
   We value the accuracy of the information we have about you. Journalists, registered users, customers, experts and resources may update their information at any time by following directions available on the registration page for the particular service.
 
-**Disclosure to Third Parties  
-**We reserve the right to disclose your name and information about you 
+**Disclosure to Third Parties**  
+We reserve the right to disclose your name and information about you 
 
   
 ·         to investigate potential unauthorized access or misuse of our services, 
@@ -121,20 +119,20 @@ __Third party cookies and ad servers.   _We may ask or authorize third parties 
 
 ·         as part of a merger or an acquisition by or other transfer to a third party of some or all of our business assets. 
 
-**  
-Children  
-**Our services are directed to media and public relations professions. Our website and services are not intended for children 12 or under.
+  
+**Children**  
+Our services are directed to media and public relations professions. Our website and services are not intended for children 12 or under.
 
   **Security**
 
 PR Newswire uses reasonable administrative, technical, and physical safeguards to protect personal information against theft, loss, or misuse. Unfortunately, no data transmission over the Internet or storage can be guaranteed to be 100 percent secure. As a result, while we strive to protect your personal information, PR Newswire cannot ensure or warrant the security of any information you submit to us, and you do so at your own risk. You remain responsible for protecting your user name and passwords and for the security of information in transit to us over the Internet. 
 
-  **Changes to This Policy  
-**We may change the provisions of this policy from time to time and urge you to check back here periodically. Your continued use of any of the websites or pages within the scope of this policy will be your acceptance of the version of the policy in place at the time of your visit. 
+  **Changes to This Policy**  
+We may change the provisions of this policy from time to time and urge you to check back here periodically. Your continued use of any of the websites or pages within the scope of this policy will be your acceptance of the version of the policy in place at the time of your visit. 
 
   **Contact Us**  
 If you have questions about this policy, please contact [privacy@prnewswire.com](mailto:privacy@prnewswire.com) or [privacyrequests@ubm.com](mailto:privacyrequests@ubm.com).
 
    PR Newswire Association LLC  
-350 Hudson Street   
+350 Hudson Street  
 New York, New York 10014
