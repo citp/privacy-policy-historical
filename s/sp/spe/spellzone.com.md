@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spellzone.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201209id_/http%3A//www.spellzone.com/pages/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spellzone.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206124548id_/http%3A//www.spellzone.com/pages/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Spellzone, Privacy Policy
 
@@ -12,7 +12,7 @@ This notice is issued by Spellzone Limited.**
 
 ### Introduction
 
-This privacy policy is specific to the Spellzone website ("Website"). Spellzone Limited ("Spellzone", "we", "us" or "our") is committed to protecting your privacy online while providing a personalised and valuable service. Our policy explains how we will do this. We will review this policy in the light of comments we receive so please check the latest version. If you have any questions about our privacy policy, please [contact us](https://web.archive.org/web/20150607201209id_/http%3A//www.spellzone.com/pages/contact.cfm).
+This privacy policy is specific to the Spellzone website ("Website"). Spellzone Limited ("Spellzone", "we", "us" or "our") is committed to protecting your privacy online while providing a personalised and valuable service. Our policy explains how we will do this. We will review this policy in the light of comments we receive so please check the latest version. If you have any questions about our privacy policy, please [contact us](https://web.archive.org/web/20151206124548id_/http%3A//www.spellzone.com/pages/contact.cfm).
 
 By using the Website, you are accepting the practices described in this statement.
 
@@ -83,7 +83,7 @@ By using the Website, you are accepting the practices described in this statemen
 
 ### 6\. Updating Your Details
 
-6.1. If any of the information that you have provided to Spellzone changes e.g. if you change your e-mail address, this can be up-dated via your Spellzone login. If in doubt, please [let us know](https://web.archive.org/web/20150607201209id_/http%3A//www.spellzone.com/pages/contact.cfm) the correct details.
+6.1. If any of the information that you have provided to Spellzone changes e.g. if you change your e-mail address, this can be up-dated via your Spellzone login. If in doubt, please [let us know](https://web.archive.org/web/20151206124548id_/http%3A//www.spellzone.com/pages/contact.cfm) the correct details.
 
 ### 7\. Governing Law
 
@@ -97,7 +97,7 @@ By using the Website, you are accepting the practices described in this statemen
 
 9.1. You may request a copy of the personal information we hold about you. Please contact: 
 
-[Email](https://web.archive.org/web/20150607201209id_/http%3A//www.spellzone.com/pages/contact.cfm)  
+[Email](https://web.archive.org/web/20151206124548id_/http%3A//www.spellzone.com/pages/contact.cfm)  
 Tel: +44 (0) 333 990 0132
 
 Or in writing to:
