@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the do2dear.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201336id_/http%3A//do2dear.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the do2dear.net privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206113417id_/http%3A//do2dear.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Do2Dear.Net
 
 [   
-**Privacy Policy**](http://boostads.net/download/brilliant/Privacy%20Policy)
+**Privacy Policy**](http://abc.mobile-10.com/mobi?k=43b5e8ed04e7bfc6736cd88bcd304781&q=Privacy%20Policy)
 
 **Privacy Policy for do2dear.net**
+
+[](http://fullypcgameszone.blogspot.com/)[](http://fullypcgameszone.blogspot.com/)
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at do2dear@Gmail.com.
 
@@ -34,5 +36,5 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 [   
-**Privacy Policy**](http://boostads.net/download/brilliant/Privacy%20Policy)  
+**Privacy Policy**](http://abc.mobile-10.com/mobi?k=43b5e8ed04e7bfc6736cd88bcd304781&q=Privacy%20Policy)  
 
