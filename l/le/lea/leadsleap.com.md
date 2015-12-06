@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadsleap.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607033826id_/http%3A//www.leadsleap.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadsleap.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206025830id_/http%3A//www.leadsleap.com/privacy.php) for the most accurate reproduction.*
 
 # LeadsLeap
 
@@ -27,7 +27,7 @@ TIME LIMITED OFFER. HURRY!
 Get instant traffic to your site  
 with 100 advertising credits  
 ONLY if you sign up before  
-7th June 2015!
+6th December 2015!
 
 **SECURE & CONFIDENTIAL**  
 We've zero spam tolerance. Your email address will NOT be rented, traded or sold.
