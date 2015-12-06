@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allviralposts.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630022518id_/http%3A//allviralposts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allviralposts.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206235943id_/http%3A//allviralposts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - All Viral Posts
+# Privacy Policy | All Viral Posts
 
 This privacy policy sets out how **allviralposts.com** uses and protects any information that you give us when you use this website. **allviralposts.com** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. **allviralposts.com** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from October 02, 2013. **What we collect** We may ask to collect the following information:
 
