@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wjactv.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126094521id_/http%3A//www.wjactv.com/station/features/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wjactv.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206115834id_/http%3A//www.wjactv.com/station/features/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WJAC WJACTV.com
 
