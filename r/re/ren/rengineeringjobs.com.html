@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rengineeringjobs.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607235217id_/http%3A//www.rengineeringjobs.com/cm/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rengineeringjobs.com privacy policy that was archived on 2015-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206060642id_/http%3A//www.rengineeringjobs.com/cm/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>          
 <script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
@@ -14,7 +14,7 @@ ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'st
 var s = document.getElementsByTagName('script')[0];
 s.parentNode.insertBefore(ga, s);
 })();
-</script>   <title>  Privacy policy: Engineering and Construction Jobs </title> <link href="/cm_files/30251_2670.ico" rel="shortcut icon" type="image/x-icon"> <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> <meta http-equiv="Content-Language" content="en">  <meta name="description" content="Privacy policy: R Engineering Jobs is a global recruitment market place, aiming to offer the very best selection in quality jobs  around the world">   <meta name="keywords" content="Privacy policy: Search for the latest Electrical, Mechanical, Graduate, Engineering Jobs in the top industries such as construction, energy, and oil and gas">   <meta name="Rating" content="General">  <meta name="revisit-after" content="1 Days">  <meta name="robots" content="all">   <meta name="MSSmartTagsPreventParsing" content="true"> <meta http-equiv="imagetoolbar" content="no">  <meta name="copyright" content="Copyright 2011 R Job Network Ltd"> <link rel="stylesheet" type="text/css" href="/css/template.css">       <script type="text/javascript">var ctx = ""</script> <script type="text/javascript" src="/js/mootools.js"></script> <script type="text/javascript" src="/js/mootools-more.js"></script> <link rel="stylesheet" href="/js/mootools-goocompleter.css" media="screen"> <script type="text/javascript" src="/js/mootools-goocomplete.js"></script> <script type="text/javascript">
+</script>   <title>  Privacy policy: Engineering and Construction Jobs </title> <link href="/cm_files/30251_2670.ico" rel="shortcut icon" type="image/x-icon"> <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> <meta http-equiv="Content-Language" content="en">  <meta name="description" content="Privacy policy: R Engineering Jobs is a global recruitment market place, aiming to offer the very best selection in quality jobs  around the world">   <meta name="keywords" content="Privacy policy: Search for the latest Electrical, Mechanical, Graduate, Engineering Jobs in the top industries such as construction, energy, and oil and gas">   <meta name="Rating" content="General"> <meta name="viewport" content="width=device-width, initial-scale=1">  <meta name="revisit-after" content="1 Days">  <meta name="robots" content="all">   <meta name="MSSmartTagsPreventParsing" content="true"> <meta http-equiv="imagetoolbar" content="no">  <meta name="copyright" content="Copyright 2011 R Job Network Ltd">    <link rel="stylesheet" type="text/css" href="/css/template.css"> <script type="text/javascript">var mobileMode = false;</script>            <script type="text/javascript">var ctx = ""</script> <script type="text/javascript" src="/js/mootools.js"></script> <script type="text/javascript" src="/js/mootools-more.js"></script> <link rel="stylesheet" href="/js/mootools-goocompleter.css" media="screen"> <script type="text/javascript" src="/js/mootools-goocomplete.js"></script> <script type="text/javascript">
 window.addEvent("domready", function() {
 $$("input.autocompleter").each(function(el) {
 new GooCompleter(el, {
@@ -56,17 +56,27 @@ element.store("popupAttached", true);
 showByUrl: function (url, type, title) {
 var processLinks = function (currentItem, collection) {
 $$("a.popup").each(function (el) {
-new CeraBox.Popup(el);
+new CeraBox.Popup(el, {});
+if (mobileMode == true) {
+$$('.cerabox-content').setStyle('margin-top', window.scrollY);
+$$('.cerabox-close').setStyle('margin-top', window.scrollY);
+}
+if ($$('#cerabox #apply_popup').length > 0) {
+$$('#cerabox').addClass('ceraboxApplyPopup');
+}
 });
 };
 var removePopupUriFunc = function(currentItem, collection) {
 JsonHelper.removePopupUri();
 JsonHelper.removeRequestUri();
+if (mobileMode == true) {
+$$('body').setStyle('overflow', 'auto');
+}
 }
 var events = {onChange: processLinks, onOpen: processLinks, onClose: removePopupUriFunc};
 var el = new Element("a").set("href", decodeURI(ctx + url)).set("data-type", type);
 if (title) el.set("title", title);
-new CeraBox(el, {ajax: {method: "get", evalScripts: false, onComplete:function() {}}, displayTitle: false, group: false, events : events});
+new CeraBox(el, {ajax: {method: "get", evalScripts: false, onComplete:function() {}}, displayTitle: false, group: false, mobileView: mobileMode, events : events});
 el.fireEvent("click");
 el.dispose();
 },
@@ -120,7 +130,7 @@ new CeraBox.Popup(el);
 var oauthRegistration = function() { // this is needed to open registration page if authenticated OK, user is not registered and does not have login on the site
 new CeraBox.Popup("/candidate/registration", {"type": "ajax"});
 }
-</script>  <script type="text/javascript" src="/js/json-helper.js"></script> <script type="text/javascript" src="/js/common.js"></script> <script type="text/javascript" src="/js/ajax/springxt.js"></script>     <script type="text/javascript">
+</script>  <script type="text/javascript" src="/js/json-helper.js"></script> <script type="text/javascript" src="/js/common1.js"></script> <script type="text/javascript" src="/js/ajax/springxt.js"></script>             <script type="text/javascript">
 var googletag = googletag || {};
 googletag.cmd = googletag.cmd || [];
 (function() {
@@ -133,7 +143,7 @@ gads.src = (useSSL ? 'https:' : 'http:') +
 var node = document.getElementsByTagName('script')[0];
 node.parentNode.insertBefore(gads, node);
 })();
-</script>    
+</script>       
 
     <script type="text/javascript">
 googletag.cmd.push(function() {
@@ -147,183 +157,124 @@ googletag.pubads().setTargeting("keyword", [""]);
 googletag.pubads().setTargeting("site", ["reng"]);
 googletag.enableServices();
 });
+</script>  <script type="text/javascript">
+var enableGooglAnalytics = false;
+var _gaq = _gaq || [];
 </script>  <script type="text/javascript"> 
 var enableGlassDoor = true;
  
 var trovitApplicationUrl = 'No such attribute : trovit_application_url';
+ 
+var enableGooglAnalytics = true;
  </script> <script type="text/javascript">
 if (document.location.hash != '') {
 JsonHelper.setUrlHash(document.location.hash);
 }
-</script>  </head> <body class="bodyCandidate">    <div id="newAlert"></div>                                                                                                                                                                                              
+</script>  </head> <body class="bodyCandidate">    <div id="newAlert"></div>                                                                                                                                                                                                                    
 
-<div class="mWrap">
 <div class="pageTpl holder_privacy holder_inner" id="holder">
-<div class="bnrRight"> <script type="text/javascript"><!--
-google_ad_client = "ca-pub-3077458887413095";
-/* New Scraper Banner */
-google_ad_slot = "8280439583";
-google_ad_width = 160;
-google_ad_height = 600;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div>
-<table width="100%" cellpadding="0" cellspacing="0" class="topTbl">
-<tbody><tr>
-<td>
-<div class="logo"> <a href="/" title="Engineering jobs"> <img src="/imglib/rengineeringjobs_logo.gif" alt="Engineering jobs" title="Engineering jobs" width="180">  </a> </div>
-</td>
-<td align="center">
-<div style="padding-top:0px;" id="bannerTop">
 
-</div>
-</td>
-<td><div class="top-r-buts"> <div class="sw-top-but candSw"> <a href="/cm/candidates/join_now">Job Seeker</a> </div> <div class="sw-top-but_act emplSw"> <a href="/cm/clients/about_us">Employer</a> </div> </div></td>
-</tr>
-</tbody></table>
-<div class="clear"></div>
-<div class="top">
-<div class="oath">
-<a class="facebookLinked" href="javascript: void(0);" onclick="window.open('/main/oauth/authenticate?id=facebook&amp;entityId=2&amp;action=', '_blank', 'resizable=no,scrollbars=no,titlebar=no,width=600,height=400,top=10,left=10');" title="Connect with Facebook">&nbsp;</a>
-    
-        <a class="linkedinLinked" href="javascript: void(0);" onclick="window.open('/main/oauth/authenticate?id=linkedin&amp;entityId=2&amp;action=', '_blank', 'resizable=no,scrollbars=no,titlebar=no,width=600,height=400,top=10,left=10');" title="Connect with Linkedin">&nbsp;</a>
-</div>
-<ul id="dropdown-menu">    <li><a href="/" class="first" title="Home">Home</a> </li>        <li><a href="javascript: void(0);" class="popup simpleLogin create_acc" title="">Create Account</a> </li>      <li><a href="/cm/candidate/search_jobs" title="">Job search</a> </li>        <li><a href="/cm/candidates/join_now" title="">Job Seekers Dashboard</a> </li>      <li><a href="/cm/about_us" title="">About us</a> </li>        <li><a href="http://www.rengineeringjobs.com/blog/" target="_blank" title="Blog">Blog</a> </li>        <li><a href="/main/sendform/4/18/3472" title="">Contact us</a> </li>        <li><a href="http://www.cvchecker.com/affiliate/renginneringjobs.asp?id=333" target="_blank" title="">CV Services</a> </li>    </ul>
-<div class="privateZone">
-<div class="login"><form id="loginForm" class="left-form" action="/main/login" method="post"> <p class="flineLog"><span id="loginForm.errors" class="errmsg"></span> <input id="email-loginForm" class="txt" type="text" maxlength="256" value="Email" onblur="if(this.value=='')this.value='Email'; this.style.color='#999'" onfocus="if(this.value=='Email')this.value=''; this.style.color='#000'" tabindex="100" name="email"> </p> <p class="flineLog"> <input id="password-loginForm" class="txt" type="password" maxlength="256" value="password" tabindex="100" onblur="if(this.value=='')this.value='password'; this.style.color='#999'" onfocus="if(this.value=='password')this.value=''; this.style.color='#000'" name="password"> </p> <script type="text/javascript">
-window.addEvent("domready", function() {
-$('email-loginForm').addEvent('keydown', function(event) {
-if (event.key=='enter') {
-doAjaxSubmit('validate', 'loginForm');
-}
-});
-$('password-loginForm').addEvent('keydown', function(event) {
-if (event.key=='enter') {
-doAjaxSubmit('validate', 'loginForm');
-}
-});
-});
-</script> <p class="flineLog"> <img src="/imglib/default/but-signin.gif" alt="" class="over" onclick="doAjaxSubmit('validate', 'loginForm');"> </p> </form> 
-<div class="fl lBox"><a title="Sign Up" class="popup simpleLogin" href="javascript: void(0);">Sign Up</a>&nbsp; |&nbsp; 
-<a class="popup" href="javascript: void(0);">Forgot Password</a></div>
+<div class="holder-login">
+   <div class="holder-wrap clearfix">
+      
+      <p class="welcome">Welcome, <b> </b></p>
+   </div><!-- / .holder-wrap-->
+</div><!-- / .holder-login-->
 
-<p class="welcome">Welcome, <b> </b></p>
-</div>
-</div>
-</div>
-<div class="content">
+<div class="nav-top">
+		<div class="holder-wrap">
+                        <script src="/download_files/uvumidropdown_fm.js"></script>
+                        <ul id="dropdown-menu" class="dropdown-menu" style="overflow: visible; height: auto; margin-left: -1px; visibility: visible;"> <script type="text/javascript">
+window.addEvent('domready', function () {
+new UvumiDropdown('dropdown-menu');
+});
+</script>     <li id="first" class="topId_home submenu" style="position: relative; display: block; top: 0px; z-index: 1; float: left;"> <a href="/" title="Home" style="display: block;">JobSeekers</a>                                                        <ul class="subMenu subMenu_home" style="display: block; visibility: hidden; zoom: 1; opacity: 0; position: absolute; top: 22px; margin-left: 0px;">     <li class="" style="visibility: hidden; zoom: 1; opacity: 0; position: relative; display: block; top: 0px; z-index: 1;"> <a href="/cm/who-we-are" title="Who Are We" style="display: block;">Who Are We</a>                </li>         <li class="" style="visibility: hidden; zoom: 1; opacity: 0; position: relative; display: block; top: -22px; z-index: 1;"> <a href="http://www.cvchecker.com/affiliate/renginneringjobs.asp?id=333" title="CV/Resume Services" target="_blank" style="display: block;">CV/Resume Services</a>                </li>         <li class="" style="visibility: hidden; zoom: 1; opacity: 0; position: relative; display: block; top: -66px; z-index: 1;"> <a href="/cm/faq " title="" style="display: block;">FAQ</a>                </li>         <li class="" style="visibility: hidden; zoom: 1; opacity: 0; position: relative; display: block; top: -88px; z-index: 1;"> <a href="/main/sendform/4/18/3472" title="" style="display: block;">Contact Us</a>                </li>         <li class="" style="visibility: hidden; zoom: 1; opacity: 0; position: relative; display: block; top: -110px; z-index: 1;"> <a href="/cm/job-seeker-terms " title="" style="display: block;">Job Seeker Terms</a>                </li>       </ul>  </li>         <li class="topId_job_search submenu" style="position: relative; display: block; top: 0px; z-index: 1; float: left;"> <a href="/" title="" style="display: block;">Employers</a>                                                                        <ul class="subMenu subMenu_job_search" style="display: block; visibility: hidden; zoom: 1; opacity: 0; position: absolute; top: 22px; margin-left: 0px;">     <li class="" style="visibility: hidden; zoom: 1; opacity: 0; position: relative; display: block; top: 0px; z-index: 1;"> <a href="/cm/about-us" title="" style="display: block;">About Us </a>                </li>         <li class="submenu" style="visibility: hidden; zoom: 1; opacity: 0; position: relative; display: block; top: -22px; z-index: 1;"> <a href="/" title="" style="display: block;">Products &amp; Services </a>                                          <ul class="subMenu subMenu_32316" style="display: block; visibility: hidden; zoom: 1; opacity: 0; position: absolute; top: 0px; margin-left: -80px;">     <li class="" style="visibility: hidden; zoom: 1; opacity: 0; position: relative; display: block; top: 0px; z-index: 1;"> <a href="/cm/advertise-engineering-jobs" title="" style="display: block;">Job Posting </a>                </li>         <li class="" style="visibility: hidden; zoom: 1; opacity: 0; position: relative; display: block; top: -22px; z-index: 1;"> <a href="/cm/search-for-engineering-cvs" title="" style="display: block;">CV Search </a>                </li>         <li class="" style="visibility: hidden; zoom: 1; opacity: 0; position: relative; display: block; top: -44px; z-index: 1;"> <a href="/cm/engineering-advertising-agencies" title="" style="display: block;">Branding </a>                </li>       </ul>  </li>         <li class="" style="visibility: hidden; zoom: 1; opacity: 0; position: relative; display: block; top: 43px; z-index: 1;"> <a href="/cm/testimonials" title="" style="display: block;">Testimonials</a>                </li>         <li class="" style="visibility: hidden; zoom: 1; opacity: 0; position: relative; display: block; top: 21px; z-index: 1;"> <a href="/cm/case_study" title="" style="display: block;">Case Studies</a>                </li>         <li class="" style="visibility: hidden; zoom: 1; opacity: 0; position: relative; display: block; top: -23px; z-index: 1;"> <a href="/main/sendform/4/18/3472" title="" style="display: block;">Contact Us</a>                </li>         <li class="" style="visibility: hidden; zoom: 1; opacity: 0; position: relative; display: block; top: -45px; z-index: 1;"> <a href="/cm/employer-faq " title="" style="display: block;">Employer FAQ</a>                </li>         <li class="" style="visibility: hidden; zoom: 1; opacity: 0; position: relative; display: block; top: -89px; z-index: 1;"> <a href="/cm/employer-terms " title="" style="display: block;">Employer Terms</a>                </li>       </ul>  </li>       <li style="clear: both; display: block; position: relative; top: 0px; height: 0px; width: 0px; font-size: 0px; line-height: 0px; margin: 0px; padding: 0px;">&nbsp;</li></ul>
+			<ul class="list-non-style">				
+				<li class="social-icons">
+                                       <a target="_blank" href="https://www.linkedin.com/grp/home?gid=3790882" class="sprite-icon sprite-social_in"></a>
+                                       <a target="_blank" href="https://www.facebook.com/REngineeringJob" class="sprite-icon sprite-social_f"></a>
+                                       <a target="_blank" href="https://plus.google.com/+Rengineeringjobs/posts" class="sprite-icon sprite-social_g"></a>
+                                       <a target="_blank" href="https://twitter.com/rengineeringjob" class="sprite-icon sprite-social_t"></a>
+				</li>
+				<li class="fr  btn_register"><a class="btn popup simpleLogin" href="javascript: void(0);"><span class="sprite-icon sprite-user_icon"></span> Register</a></li>
+				<li class="fr btn_login">
+<a href="javascript: void(0);" class="btn popup"><span class="sprite-icon sprite-user_icon"></span> Login</a></li>
+				<li class="fr"><a href="/blog/" class="btn">Blog</a></li>
+			</ul><div class="clear"></div>
+		</div>
+	</div><!-- / .nav-top -->
+
+<div id="header" class="header hide">
+   <div class="holder-wrap">
+       <div class="logo">
+             <a href="/" title="Engineering jobs">
+                   <img src="/imglib/green/reng-logo-large.png" alt="Engineering jobs" title="Engineering jobs">
+             </a>
+       </div><!-- / .logo -->
+   </div><!-- / .holder-wrap -->
+</div><!-- / .header -->
+
+<div class="content clearfix">
+<div class="holder-wrap clearfix">
+
+
 
 <div class="left">
-<h1 class="blue_bg">           
-Privacy policy
- </h1>      
+  
 
-<div class="main">     <p><strong>LEGAL PRIVACY POLICY for www.RengineeringJobs.com</strong><br><br>We at <span style="color: #ff0000;">R </span>Job <span style="color: #ff0000;">Network </span>trading as www.rengineeringjobs.com respect the privacy of our visitors and are committed to preserving your online safety by preserving your privacy at anytime you visit or communicate with our site. Our privacy policy has been provided and reviewed by the <a target="_blank" href="http://www.legalcentre.co.uk/solicitors/">solicitors</a> at Legal Centre who specialise in online internet contracts.<br><br>Our Terms of Use and Privacy Policy offers you a thorough explanation regarding your personal data provided to us or any&nbsp; data we may collect from you.<br><br>This Privacy Policy is updated from time to time; therefore, it should be reviewed occasionally.<br><br>[For the purpose of the Data Protection Act 1998, Craig Bines is our data controller.]<br><br><strong>1. Collected Information</strong><br><br>Data can be collected and processed during the operations of our website. The following are ways we may perform these actions:<br><br>1.1 Data regarding your visit(s) to our website and any resources used are collected. The following is included and not limited to: location data, weblogs, traffic data, and any other communication information.<br><br>1.2 Any forms you filled out on our site allows us to collect data such as registering for information or when you complete a purchase.<br><br>1.3 If for any reason you communicate with our personnel or site we may collect information.<br><br><strong>2. Cookie Usage</strong><br><br>There are instances where we may use cookies to gather information regarding our services in a mathematical collection for our website and our advertisers.<br><br>Any information collected will not have any identifying data. It is statistical data about our visitors and how they have used our site. No personal details will be shared that could identify you.<br><br>We may assemble information about your common internet use with a cookie file. When used, the cookies are downloaded to your computer automatically. The cookie is stored on the hard drive, with transferred information. The data sought by the cookie helps us improve our website and any service offered to you.<br><br>Your browser has the ability to decline cookies. This is done by setting your browser options to decline all cookies.<br>Note: if you do decline the download of cookies, some aspects of our site may not work or allow you access.<br><br>Our advertisers may download cookies to which we have no control. If used, these cookies are downloaded by clicking on an advertisement found on our website.<br><br><strong>3. Our Use of Your Information</strong><br><br>Information stored or collected regarding you helps us improve and offer services you need. The following list contains how we might use your data:<br><br>3.1 Any request you make of our site or personnel allows us to use information you provided us with, relating to the products or services we have. We may also send information on products or services you may be interested in, as long as consent has been received.<br><br>3.2 Contract Commitments: To meet any Commitment we make to you.<br><br>3.3 Changes or Improvements made to the site can warrant use of your information, with regard to notification of such changes.<br><br>3.4 An existing customer may be contacted regarding products and services related to any item of previous sale you made on our site.<br><br>3.5 We may use data or allow third parties to use information that is not related to goods or services you may be interested in. We or third parties contact you only if consent has been provided by you at anytime, based on information we collected.<br><br>3.6 Any new customer can only be contacted by us or third parties if consent has been offered via our site. We only send communications you have consented to.<br><br>3.7 Anyone who does not wish to give consent for our site or third party use has the opportunity to decline. Once we receive your withhold for consent we will remove your details from any mailings or third party communications.<br><br>3.8 None of the information collected about you will offer identifiable characteristics. Information shared to a third party is statistical only. We will not reveal who you are, only mathematical information about our visitors.<br><br><strong>4. Personal Data Storage</strong><br><br>4.1 Locations outside the European Economic Area may be used for transferring data we collect about you. These data sites are for storing or processing of your information. The information we share outside the European Economic Area may be shared with staff based on the process and storage of said data. It may include such processes as processing a payment or offering support for your service or product needs. The staff processing or storing information may work for our suppliers outside the European Economic Area. By submitting your data to use you have agreed to this transfer and storage of data. We take all reasonable action to ensure the safety of your personal data in agreement with this Privacy Policy.<br><br>4.2 Information we are provided will be stored on secure servers. Transaction data is encrypted for your safety.<br><br>4.3 You should understand data via online transmission is not completely secure. We cannot guarantee full protection and security data, only that we take all reasonable action to protect information sent to us electronically. Transmission of any data by you is at your own risk. Where applicable you may be given access to sections of our site that require a password. You are responsible for the passwords safety and confidentiality.<br><br><strong>5. Information Disclosure</strong><br><br>5.1 At times we may disclose personal information to persons in our group. This can include subsidiaries, holding companies, or any other subsidiaries involved in our business, if applicable.<br><br>5.2 Third Party disclosure may occur for the following reasons:<br><br>5.2.1 Selling any or all of our business to a third party may result in sharing your information.<br><br>5.2.2 At any time when we are legally required to we may disclose information about you and your visits to our sites.<br><br>5.2.3 To prevent fraud and help in fraud protection in order to reduce credit risk, we may disclose information.<br><br><strong>6. Third Party Links</strong><br><br>Third party links may be discovered on our site. These third party links have their own privacy policy, which you agree to when you click on the link. We are not responsible nor do we accept responsibility for third party links. Our liability covers us only on our site, and thus we do not accept liability for third party links as we have no control over them.<br><br><strong>7. Information Accessibility</strong><br><br>We cannot withhold data we collect about you, as per The Data Protection Act 1998. This act provides you with access to any information we may hold on you. If you wish to have access about our data collection on you please pay our fee of £10. The fee covers our costs for processing your request and getting the data to you. Please use the contact details below to formulate your data access request.<br><br><strong>8. Contacting Us</strong><br><br>Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via the email address supplied here: <a href="mailto:info@Rjobnetwork.com">info@Rjobnetwork.com</a></p>                                                                                                                                                                                              
+<h1 class="blue_bg">Privacy policy</h1>
+
+<div class="main">
+       <div id="logo-page" class="logo">
+             <a href="/" title="Engineering jobs">
+                   <img src="/imglib/green/reng-logo-large.png" alt="Engineering jobs" title="Engineering jobs">
+             </a>
+       </div><!-- / .logo -->
+        
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-55cdf2505e338394" async="async"></script>
+
+        <div class="addthis_sharing_toolbox hide"><span class="share-text">Share...</span> </div>              <p><strong>LEGAL PRIVACY POLICY for www.RengineeringJobs.com</strong><br><br>We at <span style="color: #ff0000;">R </span>Job <span style="color: #ff0000;">Network </span>trading as www.rengineeringjobs.com respect the privacy of our visitors and are committed to preserving your online safety by preserving your privacy at anytime you visit or communicate with our site. Our privacy policy has been provided and reviewed by the <a target="_blank" href="http://www.legalcentre.co.uk/solicitors/">solicitors</a> at Legal Centre who specialise in online internet contracts.<br><br>Our Terms of Use and Privacy Policy offers you a thorough explanation regarding your personal data provided to us or any&nbsp; data we may collect from you.<br><br>This Privacy Policy is updated from time to time; therefore, it should be reviewed occasionally.<br><br>[For the purpose of the Data Protection Act 1998, Craig Bines is our data controller.]<br><br><strong>1. Collected Information</strong><br><br>Data can be collected and processed during the operations of our website. The following are ways we may perform these actions:<br><br>1.1 Data regarding your visit(s) to our website and any resources used are collected. The following is included and not limited to: location data, weblogs, traffic data, and any other communication information.<br><br>1.2 Any forms you filled out on our site allows us to collect data such as registering for information or when you complete a purchase.<br><br>1.3 If for any reason you communicate with our personnel or site we may collect information.<br><br><strong>2. Cookie Usage</strong><br><br>There are instances where we may use cookies to gather information regarding our services in a mathematical collection for our website and our advertisers.<br><br>Any information collected will not have any identifying data. It is statistical data about our visitors and how they have used our site. No personal details will be shared that could identify you.<br><br>We may assemble information about your common internet use with a cookie file. When used, the cookies are downloaded to your computer automatically. The cookie is stored on the hard drive, with transferred information. The data sought by the cookie helps us improve our website and any service offered to you.<br><br>Your browser has the ability to decline cookies. This is done by setting your browser options to decline all cookies.<br>Note: if you do decline the download of cookies, some aspects of our site may not work or allow you access.<br><br>Our advertisers may download cookies to which we have no control. If used, these cookies are downloaded by clicking on an advertisement found on our website.<br><br><strong>3. Our Use of Your Information</strong><br><br>Information stored or collected regarding you helps us improve and offer services you need. The following list contains how we might use your data:<br><br>3.1 Any request you make of our site or personnel allows us to use information you provided us with, relating to the products or services we have. We may also send information on products or services you may be interested in, as long as consent has been received.<br><br>3.2 Contract Commitments: To meet any Commitment we make to you.<br><br>3.3 Changes or Improvements made to the site can warrant use of your information, with regard to notification of such changes.<br><br>3.4 An existing customer may be contacted regarding products and services related to any item of previous sale you made on our site.<br><br>3.5 We may use data or allow third parties to use information that is not related to goods or services you may be interested in. We or third parties contact you only if consent has been provided by you at anytime, based on information we collected.<br><br>3.6 Any new customer can only be contacted by us or third parties if consent has been offered via our site. We only send communications you have consented to.<br><br>3.7 Anyone who does not wish to give consent for our site or third party use has the opportunity to decline. Once we receive your withhold for consent we will remove your details from any mailings or third party communications.<br><br>3.8 None of the information collected about you will offer identifiable characteristics. Information shared to a third party is statistical only. We will not reveal who you are, only mathematical information about our visitors.<br><br><strong>4. Personal Data Storage</strong><br><br>4.1 Locations outside the European Economic Area may be used for transferring data we collect about you. These data sites are for storing or processing of your information. The information we share outside the European Economic Area may be shared with staff based on the process and storage of said data. It may include such processes as processing a payment or offering support for your service or product needs. The staff processing or storing information may work for our suppliers outside the European Economic Area. By submitting your data to use you have agreed to this transfer and storage of data. We take all reasonable action to ensure the safety of your personal data in agreement with this Privacy Policy.<br><br>4.2 Information we are provided will be stored on secure servers. Transaction data is encrypted for your safety.<br><br>4.3 You should understand data via online transmission is not completely secure. We cannot guarantee full protection and security data, only that we take all reasonable action to protect information sent to us electronically. Transmission of any data by you is at your own risk. Where applicable you may be given access to sections of our site that require a password. You are responsible for the passwords safety and confidentiality.<br><br><strong>5. Information Disclosure</strong><br><br>5.1 At times we may disclose personal information to persons in our group. This can include subsidiaries, holding companies, or any other subsidiaries involved in our business, if applicable.<br><br>5.2 Third Party disclosure may occur for the following reasons:<br><br>5.2.1 Selling any or all of our business to a third party may result in sharing your information.<br><br>5.2.2 At any time when we are legally required to we may disclose information about you and your visits to our sites.<br><br>5.2.3 To prevent fraud and help in fraud protection in order to reduce credit risk, we may disclose information.<br><br><strong>6. Third Party Links</strong><br><br>Third party links may be discovered on our site. These third party links have their own privacy policy, which you agree to when you click on the link. We are not responsible nor do we accept responsibility for third party links. Our liability covers us only on our site, and thus we do not accept liability for third party links as we have no control over them.<br><br><strong>7. Information Accessibility</strong><br><br>We cannot withhold data we collect about you, as per The Data Protection Act 1998. This act provides you with access to any information we may hold on you. If you wish to have access about our data collection on you please pay our fee of £10. The fee covers our costs for processing your request and getting the data to you. Please use the contact details below to formulate your data access request.<br><br><strong>8. Contacting Us</strong><br><br>Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via the email address supplied here: <a href="mailto:info@Rjobnetwork.com">info@Rjobnetwork.com</a></p>                                                                                                                                                                                                                             
 
 <div id="customSendForm"></div>
-</div>
-</div>
-<div class="right">              <table cellpadding="0" cellspacing="0" class="table_box"> <tbody><tr> <td width="205"> <span class="title_box">Urgent Engineering Jobs</span> </td> </tr> <tr> <td style="background: url(/imglib/default/bot-s.png) bottom left no-repeat;height:195px;vertical-align:top;"> <div class="in">       <div id="featured9385"></div> <script>
+</div><!-- / .main -->
+</div><!-- / .left -->
+<div class="right">                <table cellpadding="0" cellspacing="0" class="table_box"> <tbody><tr> <td width="205"> <span class="title_box">        Urgent Engineering Jobs   </span> </td> </tr> <tr> <td style="background: url(/imglib/default/bot-s.png) bottom left no-repeat;height:195px;vertical-align:top;"> <div class="in">       <div id="featured6669"></div> <script>
 window.addEvent("domready", function() {
-$("featured9385").load('/candidate/job_search/featured_jobs?homepage=false&5');
+$("featured6669").load('/candidate/job_search/featured_jobs?homepage=false&3');
 });
 </script>  </div> </td> </tr> <tr> <td>
 &nbsp;
-</td> </tr> <tr> <td width="205"> <span class="title_box">Jobs of The Week</span> </td> </tr> <tr> <td style="background: url(/imglib/default/bot-s.png) bottom left no-repeat;height:195px;vertical-align:top;"> <div class="in"> 
-<table style="width: 100%;" border="0" cellspacing="5" cellpadding="0" sizset="0" sizcache="2">
-<tbody sizset="0" sizcache="2">
+</td> </tr> <tr> <td width="205"> <span class="title_box">        Jobs of The Week   </span> </td> </tr> <tr> <td style="background: url(/imglib/default/bot-s.png) bottom left no-repeat;height:195px;vertical-align:top;"> <div class="in"> 
+<table align="center" style="width: 100%;" border="0" cellspacing="5" cellpadding="5">
+<tbody>
 <tr>
-<td><a href="http://www.norauk.com/nomination-material/nominate.php?id=4e087d58aefd4&amp;vid=2623" target="_blank"></a></td>
+<td><a href="https://ad.doubleclick.net/ddm/clk/293554461;120713154;y" target="_blank"><img title="Engineering Jobs with HMGCC" style="border: 0px currentColor; margin-right: auto; margin-left: auto; display: block;" alt="Engineering Jobs with HMGCC" src="/imglib/HMGCC-logo.JPG"></a></td>
 </tr>
 <tr>
-<td><a href="http://www.rengineeringjobs.com/jobs/1070596_Project-Manager-Project-Lead-Defence-In-Glasgow" target="_self"><img title="Jobs at Mott MacDonald" style="border: 0px;" alt="Jobs at Mott MacDonald" src="/imglib/mott-1.jpg"></a></td>
-</tr>
-<tr>
-<td><a href="http://www.rengineeringjobs.com/sources/2682_Atkins" target="_self"><img title="Jobs at Atkins" style="border: 0px currentColor;" alt="Jobs at Atkins" src="/imglib/AtkinsNew.png"></a></td>
-</tr>
-<tr>
-<td><a href="http://www.rengineeringjobs.com/jobs/1073055_Qhse-Engineer-Consultant-In-Singapore" target="_self"><img title="Jobs at Lloyds Register" style="border: 0px;" alt="Jobs at Lloyds Register" src="/imglib/LloydsRegister.png"></a></td>
+<td style="text-align: center;"><a href="https://ad.doubleclick.net/ddm/clk/293554461;120713154;y" target="_blank">Electronic Development Engineers</a><br>Milton Keynes<br>£Comp</td>
 </tr>
 </tbody>
 </table>
-</div> </td> </tr> </tbody></table>  <div class="fJobs">        <div id="featured8243"></div> <script>
+</div> </td> </tr> </tbody></table>  <div class="fJobs">        <div id="featured4570"></div> <script>
 window.addEvent("domready", function() {
-$("featured8243").load('/candidate/job_search/featured_jobs?homepage=false&6');
+$("featured4570").load('/candidate/job_search/featured_jobs?homepage=false&8');
 });
-</script>  </div> <div class="clear"><!-- | --></div>                <div class="box_r"> <div class="top_box_r"><!-- + --></div> <div class="cent"> <div class="cent_in"> <p><span class="pl3" style="text-align: left;">Corporate Profiles</span></p>
+</script>  </div> <div class="clear"><!-- | --></div>                <div class="box_r"> <div class="top_box_r"><!-- + --></div> <div class="cent"> <div class="cent_in">         <p><span class="pl3" style="text-align: left;">Corporate Profiles</span></p>
 <p><a href="http://www.rengineeringjobs.com/sources/591_Meridian-Business-Support" target="_self"></a><a href="http://www.rengineeringjobs.com/sources/590_Waterman-Aspen" target="_self"><img title="Jobs at Waterman Aspen" style="border: 0px currentColor;" alt="Jobs at Waterman Aspen" src="/imglib/watermanlogo.png"></a><br><br><a href="http://www.rengineeringjobs.com/sources/3490_Lloyds-Register" target="_self"><img title="Jobs at Lloyds Register" style="border: 0px currentColor;" alt="Jobs at Lloyds Register" src="/imglib/LRlogo.png"></a><br><br><a href="http://www.rengineeringjobs.com/sources/2682_Atkins" target="_self"><img title="Jobs at Atkins" style="border: 0px currentColor;" alt="Jobs at Atkins" src="/imglib/AtkinsNew.png"></a><a href="http://www.rengineeringjobs.com/sources/2156_Balfour-Beatty-Utility-Solutions" target="_self"></a></p>
 <div class="clear"><!-- | --></div>
 <hr width="170" size="2" align="left" color="#000000">
-<p><a class="more" href="/cm/clients/advertise_jobs">Advertise with us</a></p> </div> </div> </div>   <div class="clear"><!-- | --></div> </div><!-- /right -->
-<div class="clear"><!-- | --></div>
+<p><a class="more" href="/cm/clients/advertise_jobs">Advertise with us</a></p>    </div> </div> </div>   <div class="clear"><!-- | --></div> </div><!-- /right -->
+</div><!-- / .content -->
+</div><!-- / .holder-wrap -->
+
+<div class="menu-bottom box-red">
+    <div class="holder-wrap"><a href="/" title="">Home</a>        |   <a href="/cm/about-us" title="">About us</a>        |   <a href="/cm/candidate/search_jobs" title="">Job search</a>        |   <a href="/main/sendform/4/18/3472" title="">Contact us</a>        |   <a href="/cm/job-seeker-terms" title="">Job Seeker Terms</a>        |   <a href="/cm/employer-terms" title="">Employer Terms</a>        |   <a href="/cm/privacy" title="">Privacy policy</a>        |   <a href="/main/sitemap/xml" title="">Sitemap</a></div>
+</div><!-- / .menu-bottom -->
+
+<div class="powered">
+       <div class="holder-wrap">Copyright © Rengineeringjobs.com Job Board 2011   &nbsp;|&nbsp;Powered by JobMount <a href="http://www.jobboardmount.com/" target="_blank">Job Board Software</a></div>
 </div>
 
-<div style="padding-bottom:10px;" class="seoBottomLinks">
-<!--[if gte mso 9]><xml>
- <o:OfficeDocumentSettings>
-  <o:AllowPNG/>
- </o:OfficeDocumentSettings>
-</xml><![endif]-->
-<table style="width: 100%;" border="0" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<td><font face="Times New Roman" size="3">&nbsp;</font></td>
-</tr>
-<tr>
-<td><font face="Times New Roman" size="3"> </font>
-<p class="MsoNormal" style="margin: 3.75pt 0cm 0pt; line-height: normal;"><b><u><span style="color: black; font-family: 'Arial','sans-serif'; font-size: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-GB;">Job Titles</span></u></b><span style="color: black; font-family: 'Arial','sans-serif'; font-size: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-GB;"><o:p></o:p></span></p>
-<font face="Times New Roman" size="3"> </font></td>
-</tr>
-<tr>
-<td><span style="color: black; line-height: 107%; font-family: 'Arial','sans-serif'; font-size: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB; mso-bidi-language: AR-SA;"><a href="http://www.rengineeringjobs.com/civil-engineer" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Civil Engineer Jobs</span></a> | <a href="http://www.rengineeringjobs.com/electrical-engineer" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Electrical Engineer Jobs</span></a> | <a href="http://www.rengineeringjobs.com/mechanical-engineer" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Mechanical Engineer Jobs</span></a> | <a href="http://www.rengineeringjobs.com/project-engineer" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Project Engineer Jobs</span></a> | <a href="http://www.rengineeringjobs.com/structural-engineer" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Structural Engineer Jobs</span></a> | <a href="http://www.rengineeringjobs.com/environmental-engineer" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Environmental Engineer Jobs </span></a>| <a href="http://www.rengineeringjobs.com/electronics-engineer" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Electronics Engineer Jobs</span></a> | <a href="http://www.rengineeringjobs.com/maintenance-engineer" target="_blank"><span style="color: blue; text-decoration: none; text-underline: none;">Maintenance Engineer Jobs</span></a> | <a href="http://www.rengineeringjobs.com/cad" target="_blank"><span style="color: blue; text-decoration: none; text-underline: none;">CAD Jobs</span></a> | <a href="http://www.rengineeringjobs.com/engineer" target="_blank"><span style="color: blue; text-decoration: none; text-underline: none;">Engineer Jobs</span></a> | <a title="Quantity Surveyor" href="http://www.rengineeringjobs.com/quantity-surveyor"><span style="color: blue; text-decoration: none; text-underline: none;">Quantity Surveyor Jobs</span></a> | <a href="http://www.rengineeringjobs.com/software-engineer"><span style="color: blue; text-decoration: none; text-underline: none;">Software Engineer Jobs</span></a> | <a href="http://www.rengineeringjobs.com/cnc"><span style="color: blue; text-decoration: none; text-underline: none;">CNC Jobs</span></a> | <a href="http://www.rengineeringjobs.com/project-manager"><span style="color: blue; text-decoration: none; text-underline: none;">Project Manager</span></a> | <a href="http://www.rengineeringjobs.com/geotechnical-engineer"><span style="color: blue; text-decoration: none; text-underline: none;">Geotechnical Engineer Jobs</span></a> | <a href="http://www.rengineeringjobs.com/site-manager"><span style="color: blue; text-decoration: none; text-underline: none;">Site Manager Jobs</span></a> | <a href="http://www.rengineeringjobs.com/field-engineer"><span style="color: blue; text-decoration: none; text-underline: none;">Field Engineer Jobs</span></a></span></td>
-</tr>
-<tr>
-<td><span style="color: black; line-height: 107%; font-family: 'Arial','sans-serif'; font-size: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB; mso-bidi-language: AR-SA;"><span style="color: blue; text-decoration: none; text-underline: none;">&nbsp;</span></span></td>
-</tr>
-<tr>
-<td><span style="color: black; line-height: 107%; font-family: 'Arial','sans-serif'; font-size: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB; mso-bidi-language: AR-SA;"><span style="color: blue; text-decoration: none; text-underline: none;"><span style="color: black; font-family: 'Arial','sans-serif'; font-size: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-GB;"><strong><u>Sectors</u></strong></span></span></span></td>
-</tr>
-<tr>
-<td><font face="Times New Roman" size="3"><span style="color: black; font-family: 'Arial','sans-serif'; font-size: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-GB;"><a href="http://www.rengineeringjobs.com/construction" target="_blank"><span style="color: blue; text-decoration: none; text-underline: none;">Construction Jobs</span></a> | <a href="http://www.rengineeringjobs.com/oil-and-gas" target="_blank"><span style="color: blue; text-decoration: none; text-underline: none;">Oil &amp; Gas Jobs</span></a> | <a href="http://www.rengineeringjobs.com/civil-and-structural" target="_blank"><span style="color: blue; text-decoration: none; text-underline: none;">Civil &amp; Structural Jobs</span></a> | <a href="http://www.rengineeringjobs.com/building-services" target="_blank"><span style="color: blue; text-decoration: none; text-underline: none;">Building Services Jobs</span></a> | <a href="http://www.rengineeringjobs.com/environmental" target="_blank"><span style="color: blue; text-decoration: none; text-underline: none;">Environmental Jobs</span></a> | <a href="http://www.rengineeringjobs.com/power-and-energy" target="_blank"><span style="color: blue; text-decoration: none; text-underline: none;">Power &amp; Energy Jobs</span></a> | <a href="http://www.rengineeringjobs.com/nuclear" target="_blank"><span style="color: blue; text-decoration: none; text-underline: none;">Nuclear&nbsp; Jobs</span></a> | <a href="http://www.rengineeringjobs.com/rail" target="_blank"><span style="color: blue; text-decoration: none; text-underline: none;">Rail Jobs</span></a> | <a href="http://www.rengineeringjobs.com/aerospace" target="_blank"><span style="color: blue; text-decoration: none; text-underline: none;">Aerospace Jobs</span></a>&nbsp; | <a href="http://www.rengineeringjobs.com/mining" target="_blank"><span style="color: blue; text-decoration: none; text-underline: none;">Mining Jobs</span></a> | <a href="http://www.rengineeringjobs.com/civil-engineering"><span style="color: blue; text-decoration: none; text-underline: none;">Civil Jobs </span></a>| <a href="http://www.rengineeringjobs.com/civil-and-structural"><span style="color: blue; text-decoration: none; text-underline: none;">Structural Jobs</span></a> | <a href="http://www.rengineeringjobs.com/highways-and-transport"><span style="color: blue; text-decoration: none; text-underline: none;">Highways &amp; Transport Jobs</span></a> | <a href="http://www.rengineeringjobs.com/defence"><span style="color: blue; text-decoration: none; text-underline: none;">Defence Jobs</span></a> | <a href="http://www.rengineeringjobs.com/environmental"><span style="color: blue; text-decoration: none; text-underline: none;">Environmental</span></a> | <a href="http://www.rengineeringjobs.com/automotive"><span style="color: blue; text-decoration: none; text-underline: none;">Automotive Jobs</span></a> | <a href="http://www.rengineeringjobs.com/utilities"><span style="color: blue; text-decoration: none; text-underline: none;">Utilities Jobs </span></a></span></font></td>
-</tr>
-<tr>
-<td><font face="Times New Roman" size="3"><span style="color: black; line-height: 107%; font-family: 'Arial','sans-serif'; font-size: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB; mso-bidi-language: AR-SA;"><strong><u></u></strong>&nbsp; </span></font></td>
-</tr>
-<tr>
-<td><font face="Times New Roman" size="3"><span style="color: black; line-height: 107%; font-family: 'Arial','sans-serif'; font-size: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB; mso-bidi-language: AR-SA;"><strong><u>Cities</u></strong></span></font></td>
-</tr>
-<tr>
-<td><span style="color: black; line-height: 107%; font-family: 'Arial','sans-serif'; font-size: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB; mso-bidi-language: AR-SA;"><a href="http://www.rengineeringjobs.com/london" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">London</span></a> | <a href="http://www.rengineeringjobs.com/birmingham" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Birmingham </span></a>| <a href="http://www.rengineeringjobs.com/manchester" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Manchester </span></a>| <a href="http://www.rengineeringjobs.com/aberdeen" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Aberdeen</span></a> | <a href="http://www.rengineeringjobs.com/calgary" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Calgary</span></a> | <a href="http://www.rengineeringjobs.com/montreal" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Montreal</span></a> | <a href="http://www.rengineeringjobs.com/vancouver" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Vancouver </span></a>| <a href="http://www.rengineeringjobs.com/sydney" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Sydney</span></a> | <a href="http://www.rengineeringjobs.com/perth" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Perth</span></a>| <a href="http://www.rengineeringjobs.com/brisbane" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Brisbane</span></a> | <a href="http://www.rengineeringjobs.com/melbourne"><span style="color: blue; text-decoration: none; text-underline: none;">Melbourne </span></a>| <a href="http://www.rengineeringjobs.com/jubail" target="_blank"><span style="color: blue; text-decoration: none; text-underline: none;">Jubail</span></a> | <a title="Riyadh" href="http://www.rengineeringjobs.com/riyadh" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Riyadh</span></a> | <a href="http://www.rengineeringjobs.com/doha" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Doha</span></a> | <a href="http://www.rengineeringjobs.com/abu-dhabi" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Abu Dhabi</span></a> | <a href="http://www.rengineeringjobs.com/dubai" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Dubai |</span></a> <a href="http://www.rengineeringjobs.com/stavanger" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Stavanger</span></a> | <a href="http://www.rengineeringjobs.com/oslo" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Oslo</span></a> | <a href="http://www.rengineeringjobs.com/texas" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Texas </span></a>| <a href="http://www.rengineeringjobs.com/washington" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Washington</span></a> | <a href="http://www.rengineeringjobs.com/california"><span style="color: blue; text-decoration: none; text-underline: none;">California</span></a> |<a title="Al khobar " href="http://www.rengineeringjobs.com/al-khobar%20" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;"> Al Khobar</span></a> | <a href="http://www.rengineeringjobs.com/jeddah" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Jeddah</span></a> | <a href="http://www.rengineeringjobs.com/paris" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Paris</span></a> | <a href="http://www.rengineeringjobs.com/shanghai" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Shanghai</span></a> | <a href="http://www.rengineeringjobs.com/beijing" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Beijing </span></a>| <a href="http://www.rengineeringjobs.com/kuala-lumpur" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Kuala Lumpur </span></a>| <a href="http://www.rengineeringjobs.com/glasgow" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Glasgow </span></a>| <a href="http://www.rengineeringjobs.com/cardiff" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Cardiff </span></a>| <a href="http://www.rengineeringjobs.com/hong-kong" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Hong Kong </span></a>| <a href="http://www.rengineeringjobs.com/rio-de-janeiro" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Rio de Janeiro</span></a> | <a href="http://www.rengineeringjobs.com/muscat" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Muscat</span></a> | <a href="http://www.rengineeringjobs.com/johannesburg" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Johannesburg</span></a></span></td>
-</tr>
-<tr>
-<td><span style="color: black; line-height: 107%; font-family: 'Arial','sans-serif'; font-size: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB; mso-bidi-language: AR-SA;"><span style="color: blue; text-decoration: none; text-underline: none;">&nbsp;</span></span></td>
-</tr>
-<tr>
-<td><span style="color: black; line-height: 107%; font-family: 'Arial','sans-serif'; font-size: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB; mso-bidi-language: AR-SA;"><strong><u>Countries</u></strong></span></td>
-</tr>
-<tr>
-<td><font face="Times New Roman" size="3"> </font>
-<p class="MsoNormal" style="margin: 0cm 0cm 8pt; line-height: normal; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto;"><span style="color: black; font-family: 'Arial','sans-serif'; font-size: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-GB;"><a href="http://www.rengineeringjobs.com/united-kingdom" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">United Kingdom</span></a> | <a href="http://www.rengineeringjobs.com/canada" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Canada</span></a> | <a href="http://www.rengineeringjobs.com/united-states" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">United States </span></a>| <a href="http://www.rengineeringjobs.com/saudi-arabia" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Saudi Arabia</span></a> | <a href="http://www.rengineeringjobs.com/australia" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Australia</span></a> | <a href="http://www.rengineeringjobs.com/qatar" target="_blank"><span style="color: blue; text-decoration: none; text-underline: none;">Qatar</span></a> | <a href="http://www.rengineeringjobs.com/norway" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Norway</span></a> | <a href="http://www.rengineeringjobs.com/france" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">France </span></a>| <a href="http://www.rengineeringjobs.com/china" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">China </span></a>| <a href="http://www.rengineeringjobs.com/united-arab-emirates" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">United Arab Emirates</span></a> | <a href="http://www.rengineeringjobs.com/malaysia" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Malaysia </span></a>| <a href="http://www.rengineeringjobs.com/brazil" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Brazil</span></a> | <a href="http://www.rengineeringjobs.com/germany" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Germany</span></a> | <a href="http://www.rengineeringjobs.com/india"><span style="color: blue; text-decoration: none; text-underline: none;">India</span></a> | <a href="http://www.rengineeringjobs.com/oman" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Oman </span></a>| <a title="South Africa" href="http://www.rengineeringjobs.com/south-africa" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">South Africa</span></a> | <a title="Kuwait" href="http://www.rengineeringjobs.com/kuwait" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Kuwait</span></a> | <a href="http://www.rengineeringjobs.com/netherlands" target="_self"><span style="color: blue; text-decoration: none; text-underline: none;">Netherlands</span></a><o:p></o:p></span></p>
-<font face="Times New Roman" size="3"> </font></td>
-</tr>
-<tr>
-<td><font face="Times New Roman" size="3">&nbsp;</font></td>
-</tr>
-<tr>
-<td><a href="http://www.rengineeringjobs.com/jobs" target="_blank">View All</a> Engineering Jobs</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-</div>
-<div class="bottomMenu">
-<a href="/" title="">Home</a>        |   <a href="/cm/about_us" title="">About us</a>        |   <a href="/cm/candidate/search_jobs" title="">Job search</a>        |   <a href="/cm/clients/advertise_jobs" title="">Employer area</a>        |   <a href="/main/sendform/4/18/3472" title="">Contact us</a>        |   <a href="/cm/terms" title="">Terms &amp; conditions</a>        |   <a href="/cm/privacy" title="">Privacy policy</a>        |   <a href="/main/sitemap/xml" title="">Sitemap</a>        |   <a href="http://jooble.org.uk/" title="" target="_blank">UK Jobs</a>
-</div>
-<div class="clear"><!-- | --></div>
-<div class="powered">
-Copyright © Rengineeringjobs.com Job Board 2011&nbsp;|&nbsp;Powered by JobMount <a href="http://www.jobboardmount.com/" target="_blank">Job Board Software</a>
-</div>
 
 <script>
 
@@ -379,35 +330,19 @@ if (document.location.href == 'http://www.rengineeringjobs.com/resume/search.jsp
            refineContainerIn.setStyle('padding-top','15px');
        }
     });
+
+$$('#dropdown-menu a').each(function(el){
+   if (el.getProperty('href').indexOf('www.cvchecker.com') > 0) {
+       el.set('target', '_blank');
+   }
+});
+
+function switchLogo(url){
+     if ( document.URL.contains(url)  ) {
+        $$('#logo-page').hide();   // Hide page logo
+        $$('#header').show();      // Show header logo
+     }
+}
+switchLogo("/main/sendform/");
 </script>
-</div>
-</div><!-- /mWrap -->
-<div id="tb">
-<!-- Header -->
-<div id="div-gpt-ad-1383926896316-0" style="width: 728px; height: 90px;">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1383926896316-0'); });
-</script>
-</div>
-<!--IFRAME SRC="http://ad.doubleclick.net/adi/
-N4789.1310842.RENGINEERINGJOBS.C/
-B7697605.4;sz=728x90;ord=[timestamp]?" WIDTH=728
-HEIGHT=90 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0
-VSPACE=0 FRAMEBORDER=0 SCROLLING=no
-BORDERCOLOR='#000000'>
-<SCRIPT language='JavaScript1.1' SRC="http://
-ad.doubleclick.net/adj/N4789.1310842.RENGINEERINGJOBS.C/
-B7697605.4;abr=!ie;sz=728x90;ord=[timestamp]?">
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://ad.doubleclick.net/jump/
-N4789.1310842.RENGINEERINGJOBS.C/
-B7697605.4;abr=!ie4;abr=!ie5;sz=728x90;ord=[timestamp]?">
-<IMG SRC="http://ad.doubleclick.net/ad/
-N4789.1310842.RENGINEERINGJOBS.C/
-B7697605.4;abr=!ie4;abr=!ie5;sz=728x90;ord=[timestamp]?"
-BORDER=0 WIDTH=728 HEIGHT=90 ALT="Advertisement"></
-A>
-</NOSCRIPT>
-</IFRAME-->
-</div><!-- /tb -->      <div id="cerabox-loading"><div></div></div><div id="cerabox-background"></div><div id="cerabox"><div class="cerabox-content"></div><div class="cerabox-title"><span></span></div><a class="cerabox-close"></a><a class="cerabox-left"><span></span></a><a class="cerabox-right"><span></span></a><div class="cerabox-content-protection"></div><div id="cerabox-ajaxPreLoader" style="float: left; overflow: hidden; display: block;"></div></div></body></html>
+</div>       <div id="cerabox-loading"><div></div></div><div id="cerabox-background"></div><div id="cerabox"><div class="cerabox-content"></div><div class="cerabox-title"><span></span></div><a class="cerabox-close"></a><a class="cerabox-left"><span></span></a><a class="cerabox-right"><span></span></a><div class="cerabox-content-protection"></div><div id="cerabox-ajaxPreLoader" style="float: left; overflow: hidden; display: block;"></div></div></body></html>
