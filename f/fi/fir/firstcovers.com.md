@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstcovers.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607151155id_/http%3A//www.firstcovers.com/index.php%3Fsite%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstcovers.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206163855id_/http%3A//www.firstcovers.com/index.php%3Fsite%3Dprivacy) for the most accurate reproduction.*
 
 # Facebook Covers-Profile Photos for Timelines FirstCovers.com
 
@@ -11,6 +11,12 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit http://www.valueclickmedia.com/member_privacy.shtml 
 
+[
+
+## Blog
+
+](https://web.archive.org/wallpapers)
+
 ## Cover Makers
 
 ## Banner Categories
@@ -22,4 +28,4 @@ We partner with ValueClick to serve ads and/or collect certain information when 
 ## Menu
 
 FirstCovers.com © 2015 - FirstCovers.com is not affiliated with facebook. - firstcovers11@gmail.com  
-Disclaimer: This site is 100% user uploaded. Have a complaint? Please use our [DMCA](http://www.firstcovers.com/dmca.html)
+Disclaimer: This site is 100% user uploaded. Have a complaint? Please use our [DMCA](https://web.archive.org/dmca.html)
