@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the swapalease.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628001030id_/http%3A//www.swapalease.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swapalease.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206202216id_/http%3A//www.swapalease.com/help/privacy.aspx) for the most accurate reproduction.*
 
 # Swapalease.com Worlds Largest Lease Marketplace
 
 ## SWAPALEASE INC. PRIVACY STATEMENT LAST UPDATED: 12/1/2013
 
-Swapalease Inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [www.swapalease.com](https://web.archive.org/) of Swapalease Inc.'s Website and encompasses the following items: 
+This privacy statement discloses the privacy practices for [www.swapalease.com](https://web.archive.org/) of Swapalease Inc.'s Website and encompasses the following items: 
 
   1. What personally identifiable information of yours or third party personally identifiable information is collected from you through the web site
   2. The organization collecting the information
@@ -20,7 +20,7 @@ If you have questions pertaining to the Swapalease Inc. privacy policy or feel t
 
 ### Information Collection and Use
 
-Swapalease Inc. is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Swapalease Inc. collects information from our users at several different points on our website. 
+Swapalease Inc. is the sole owner of the information collected on this site. We may sell, share, or rent this information to others in ways different from what is disclosed in this statement. Swapalease Inc. collects information from our users at several different points on our website. 
 
 ### Registration
 
@@ -46,7 +46,7 @@ The use of cookies by our partners, affiliates, tracking utility company, servic
 
 ### Web Beacons
 
-We employ [or our third party advertising partner employs] a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie [do not tie] the information gathered by clear gifs to our customers’ personally identifiable information. 
+We employ [or our third party advertising partner employs] a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. 
 
 ### Log Files
 
@@ -70,9 +70,9 @@ From time-to-time our site requests information from users via surveys or contes
 
 This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. 
 
-When our registration form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked, or open, when you are just 'surfing'. To learn more about SSL, follow this link [www.verisign.com](http://www.verisign.com/). 
+When our registration form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, your browser will indicate the secure status. To learn more about SSL, follow this link [www.verisign.com](http://www.verisign.com/). 
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must reenter their password to regain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. 
+While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. 
 
 If you have any questions about the security at our website, you can send an email to [security@swapalease.com](mailto:security@swapalease.com). 
 
