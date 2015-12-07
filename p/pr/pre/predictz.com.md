@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the predictz.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628215222id_/http%3A//www.predictz.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the predictz.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134503id_/http%3A//www.predictz.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # predictZ.com - Privacy and Cookie Policy
+
+PredictZ.com Privacy and Cookie Policy
 
 This privacy policy sets out how PredictZ.com uses and protects any information that you give PredictZ.com when you use this website.
 
@@ -8,7 +10,7 @@ PredictZ.com is committed to ensuring that your privacy is protected. Should we 
 
 PredictZ.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 27th April 2012.
 
-What we collect
+**What we collect**
 
 We may collect the following information when you use our website:
 
@@ -17,7 +19,7 @@ We may collect the following information when you use our website:
 
 
 
-What we do with the information we gather
+**What we do with the information we gather**
 
 We require the information described above to understand your needs and provide you with a better service, and in particular for the following reasons:
 
@@ -29,11 +31,11 @@ We require the information described above to understand your needs and provide 
 
 If you receive information from PredictZ.com via email, we will always provide you with the option of opting out from any future correspondence if you wish.
 
-Security
+**Security**
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-EU Regulations on Cookies
+**EU Regulations on Cookies**
 
 PredictZ is operated from the United Kingdom, and therefore we have to comply with UK and European Union (EU) laws. All websites operated in the EU have to comply with these laws to protect your privacy.
 
@@ -53,7 +55,7 @@ Reference:
 (May 2012) Information Commissioner's Office (ICO). Guidance on the rules on use of cookies and similar technologies v3   
 [http://www.ico.gov.uk/news/blog/2012/~/media/documents/library/Privacy_and_electronic/ Practical_application/cookies_guidance_v3.ashx](http://www.ico.gov.uk/news/blog/2012/~/media/documents/library/Privacy_and_electronic/Practical_application/cookies_guidance_v3.ashx)
 
-How PredictZ uses Cookies
+**How PredictZ uses Cookies**
 
 A cookie is a small text file which is placed on your computer's hard drive when you visit websites.
 
@@ -63,7 +65,7 @@ PredictZ uses cookies to identify which pages are being used. This helps us anal
 
 Overall, cookies help us provide you with a better website, by enabling us to see which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any specific and personal information about you, other than the data you choose to share with us.
 
-Your Agreement to Allow PredictZ to Set Cookies
+**Your Agreement to Allow PredictZ to Set Cookies**
 
 You have probably been directed to this page from our notification message at the top of the PredictZ website, otherwise you might have arrived at this page from a search engine query.
 
@@ -96,15 +98,15 @@ We must stress however that cookies set by PredictZ are not malicious, they do n
 
 Instead, PredictZ sets cookies that help improve your experience on our website. For example, we use cookies to track our visitor statistics to see which pages are most popular, or which pages need improving. We use cookies to store from which region and country you are browsing our website from so that we can tailor the information we display to you.
 
-What to do if you do not want a website to place cookies on your device
+**What to do if you do not want a website to place cookies on your device**
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer. This may prevent you from taking full advantage of certain websites, including PredictZ.com. If you would like to learn more about how to manage the acceptance of cookies on your own browser or device, please visit <http://www.aboutcookies.org/default.aspx>
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer. This may prevent you from taking full advantage of certain websites, including PredictZ.com. **If you would like to learn more about how to manage the acceptance of cookies on your own browser or device, please visit<http://www.aboutcookies.org/default.aspx>**
 
-Types Of Cookie
+**Types Of Cookie**
 
 While using PredictZ.com you may have one or two different types of cookie set on your device. These are 1st Party and 3rd Party Cookies and are now explained.
 
-1st Party Cookies
+**1st Party Cookies**
 
 1st party cookies are cookies that are set and used by PredictZ.com. These cookies help us tailor and improve your experience at PredictZ. Below you will find a full list of the 1st party cookies that PredictZ uses:
 
@@ -116,7 +118,7 @@ n | This is a cookie that stores the number of times that PredictZ.com has attem
 b | This is a cookie that stores the preference for the bookmaker you wish to view odds for. For example, 1. This cookie allows the website user to view bet365 odds only on our predictions today and tomorrow pages.  
 ASPSESSIONID | Cookie that begin with ASPSESSIONID are integral to the programming language that our website is coded in. These cookies help our web server establish that you are the same user when you browse from page to page (i.e. they help our web server identify your 'session'. Session cookies are almost always deleted when you exit your browser and are only meant to help our web server identify your session while you browse our website, and help you by performing actions such as cacheing pages that you might visit multiple times within the same session.  
   
-3rd Party Cookies
+**3rd Party Cookies**
 
 PredictZ partners with a number of organisations and other websites to provide you content. For example, we display the latest free bet offers from a number of external companies.
 
@@ -159,11 +161,11 @@ See Policy Link| unibet | [Cookie and Privacy Policy](https://www.unibet.com/sec
 See Policy Link| betvictor | [Cookie and Privacy Policy](http://www.betvictor.com/sports/en/content/privacy-policy)  
 See Policy Link| willhill | [Cookie and Privacy Policy](https://williamhill-lang.custhelp.com/app/answers/detail/a_id/6721/session/L2F2LzEvdGltZS8xMzM3OTUxNTk2L3NpZC9oczhzNl9Zaw==)  
   
-Links to other websites
+**Links to other websites**
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-Controlling your personal information
+**Controlling your personal information**
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
