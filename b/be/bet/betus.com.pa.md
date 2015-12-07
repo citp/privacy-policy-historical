@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betus.com.pa privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502084236id_/http%3A//www.betus.com.pa/about-us/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betus.com.pa privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207093830id_/http%3A//www.betus.com.pa/about-us/privacy-policy.aspx) for the most accurate reproduction.*
 
 # BetUS Privacy and Security Policy
 
