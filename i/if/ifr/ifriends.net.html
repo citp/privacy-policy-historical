@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ifriends.net privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607014955id_/http%3A//www.ifriends.net/ifpage.dll%3Ft%3Dsite/general/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ifriends.net privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207122625id_/http%3A//www.ifriends.net/ifpage.dll%3Ft%3Dsite/general/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Privacy Statement for iFriends</title>
@@ -24,8 +24,6 @@
 	};
 
 </script>
-<!--Includeee:site/includes/data/DatesAndTime.htm-->
-
 
 <script language="javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js" type="text/javascript"></script>
 <script language="javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js" type="text/javascript"></script>
@@ -38,7 +36,7 @@
 <script language="javascript" src="http://images.ifriends.net/if_v2/js/draganddroplibrary_v2.js" type="text/javascript"></script>
 <script language="javascript" src="http://images.ifriends.net/if_v2/js/allscripts_min.js?20131016" type="text/javascript"></script>
 		<script language="javascript" src="http://images.ifriends.net/if_v2/js/swfobject.js" type="text/javascript"></script>
-<script language="javascript" src="http://images.ifriends.net/if_v2/js/jquery/jquery.fancybox-1.3.4.custom.js"></script>
+<script language="javascript" src="http://images.ifriends.net/if_v2/js/jquery/jquery.fancybox-1.3.4.custom.ver20151002live.js"></script>
 <script language="javascript">
 	function getWidthHeight(ele,attribute){
 		if(attribute == "width"){
@@ -53,6 +51,10 @@
 			iframeModalFancyBox(this, {'extraArgs': jQuery(this).attr('data-extra-args')});
 			return false;
 		},false);
+				jQuery("[data-is-modal='true']").not('.js-iframeModal').bind('click',function(event) {
+					iframeModalFancyBox(this, {'extraArgs': jQuery(this).attr('data-extra-args')});
+					return false;
+				},false);
 	}
 
 	function iframeModalFancyBox(target, opts) {
@@ -230,8 +232,8 @@ window.onerror = function (message, url, line){
 <![endif]-->
 
 <link rel="stylesheet" type="text/css" href="http://images.ifriends.net/if_v2/wwee/locked_jquery.fancybox-1.3.4.css" media="screen">
-				<link rel="stylesheet" type="text/css" id="ssGeneral1" href="http://images.ifriends.net/if_v2/wwee/ifriendsv2/css/core.ver20150507live.css">
-			<link rel="stylesheet" type="text/css" id="ssGeneral2" href="http://images.ifriends.net/if_v2/wwee/ifriendsv2/css/global_styles_required_by_sitelevel_omnipresent_elements_v3.ver20150518live.css">
+				<link rel="stylesheet" type="text/css" id="ssGeneral1" href="http://images.ifriends.net/if_v2/wwee/ifriendsv2/css/core.ver20151120live.css">
+			<link rel="stylesheet" type="text/css" id="ssGeneral2" href="http://images.ifriends.net/if_v2/wwee/ifriendsv2/css/global_styles_required_by_sitelevel_omnipresent_elements_v3.ver20151130live.css">
 		<link rel="stylesheet" type="text/css" id="ssModalWindow" href="http://images.ifriends.net/if_v2/wwee/locked_modalwindow_v2.css">
 <script type="text/javascript">
 $(document).ready(function(){	function appendDynamicJsFile(url)
@@ -321,14 +323,16 @@ jQuery(document).ready(function(){		//event listeners for communication with iFr
 
                 <li class="menu-parent" style="position:relative;"><a class="icon-link toplink" aria-haspopup="true" href="javascript:void(0);"><span style="display: inline-block;">Share</span> <i class="icon-v2 icon-share-mini"></i></a>
 <ul class="menu">
-	<li class="gs-box"><a class="icon-link share-this" data-share-url="" href="javascript:void(0);" onclick="window.open('https://twitter.com/intent/tweet?text='+encodeURIComponent(document.title)+' @ifriends&amp;url=' + ($(this).attr('data-share-url') != '' ? encodeURIComponent($(this).attr('data-share-url').trim()) : encodeURIComponent(location.href )),'');" data-via="iFriends" title="Tweet this"><i class="icon-v2 icon-twitter-large" style="margin:3px 0px;"></i> Twitter</a></li>
+	<li class="gs-box"><a class="icon-link share-this" data-share-url="" href="javascript:void(0);" onclick="window.open('https://twitter.com/intent/tweet?text='+encodeURIComponent(document.title)+'&amp;url=' + ($(this).attr('data-share-url') != '' ? encodeURIComponent($(this).attr('data-share-url').trim()+'&amp;via=ifriends'+'&amp;related=clickcashcom') : encodeURIComponent(location.href )+'&amp;via=ifriends'+'&amp;related=clickcashcom'),'');" data-via="iFriends" title="Tweet this"><i class="icon-v2 icon-twitter-large" style="margin:3px 0px;"></i> Twitter</a></li>
+
+
 	<li class="gs-box"><a class="icon-link share-this" data-share-url="" href="javascript:void(0);" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + ($(this).attr('data-share-url') != '' ? encodeURIComponent($(this).attr('data-share-url').trim()) : encodeURIComponent(location.href )),'');return false;" title="Share on Facebook"><i class="icon-v2 icon-facebook-large" style="margin:3px 0px;"></i> Facebook</a></li>
 	<li class="gs-box"><a class="icon-link share-this" data-share-url="" href="javascript:void(0);" onclick="window.open('https://plus.google.com/share?url=' + ($(this).attr('data-share-url') != '' ? encodeURIComponent($(this).attr('data-share-url').trim()) : encodeURIComponent(location.href )),'');return false;" title="Share on Google+"><i class="icon-v2 icon-googleplus-large" style="margin:3px 0px;"></i> Google+</a></li>
 	<li class="gs-box"><a class="icon-link share-this" data-share-url="" href="javascript:void(0);" onclick="window.open('mailto:?subject='+document.title+' &amp;body=Check out - ' + ($(this).attr('data-share-url') != '' ? encodeURIComponent($(this).attr('data-share-url').trim()) : encodeURIComponent(location.href )),'');" title="Share by Email"><i class="icon-v2 icon-email-large" style="margin:3px 0px;"></i> Email</a></li>
 
 </ul>
 </li>
-                <li>	    	         			<a id="if-liveSupport" href="javascript: var e = window.open('https://livesupport.ifriends.net/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=1&amp;siteID=2&amp;queueID=11&amp;skinName=iFriends&amp;skipSurvey=yes&amp;ChatName=GUEST#http://www.ifriends.net/','chatWindow','width=500,height=404,resizable=no,scrollbars=yes,menubar=no,status=no');" onmouseout="top.status=''; return true;" onmousedown="top.status='Chat with a company representative';return true;" onmouseover="top.status='Chat with a company representative';return true;"><img class="ls-graphic ls-small" border="0" src="http://images.ifriends.net/if_v2/livesupport/viewer_small.jpg" alt="Get live viewer support from iFriends"></a></li>
+                <li>			<a id="if-liveSupport" href="javascript: var e = window.open('https://livesupport.ifriends.net/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=1&amp;siteID=2&amp;queueID=11&amp;skinName=iFriends&amp;skipSurvey=yes&amp;ChatName=GUEST#http://www.ifriends.net/','chatWindow','width=500,height=404,resizable=no,scrollbars=yes,menubar=no,status=no');" onmouseout="top.status=''; return true;" onmousedown="top.status='Chat with a company representative';return true;" onmouseover="top.status='Chat with a company representative';return true;"><img class="ls-graphic ls-small" border="0" src="http://images.ifriends.net/if_v2/livesupport/viewer_small.jpg" alt="Get live viewer support from iFriends"></a></li>
 
                 <li class="last">
                    <a class="icon-link" id="anchHelpUsImproveThisFeature_1" title="Provide your detailed feedback about this page directly to the development, design and management team" href="http://www.ifriends.net/ifpage.dll?t=tools/feedback/main&amp;pID=0&amp;pAppCode=IFPage&amp;pHost_ComputerName=US2WWW493-8-275&amp;pTemplateName=site/general/legal/privacy.htm" style="text-decoration: none"><i class="icon-v2 icon-huitfoff-mini"></i>
@@ -559,13 +563,13 @@ jQuery(document).ready(function(){		//event listeners for communication with iFr
                             <i class="icon-v2 icon-awardwinner-large"></i>
                             <span>Award Winners</span>
                         </a>
-                        <a class="icon-tile gs-border gs-box" href="http://www.ifriends.net/membrg/twrp.dll?t=site/customersonly/myif2/ifwall&amp;pappcode=twrp_wallmanager&amp;pmode=getposts&amp;pdisplaystyle=showall" title="See what the webcam models of iFriends are discussing right now.">
-                            <i class="icon-v2 icon-comments-large"></i>
-                            <span>Status Wall</span>
-                        </a>
                         <a class="icon-tile gs-border gs-box" href="http://www.ifriends.net/ifpage.dll?t=site/navigation/livehosts/vvunfiltered/interstitial&amp;plivecamspysource=leftrail" title="Live Cam Spy">
                             <i class="icon-v2 icon-livecamspy-large"></i>
                             <span>Live Cam Spy</span>
+                        </a>
+                        <a class="icon-tile gs-border gs-box" href="http://www.ifriends.net/membrg/twrp.dll?pappcode=twrp_activityfeed" onclick="SetCookie('ActivityFeedClicked' , 'Y')">
+                            <i class="icon-v2 icon-activityfeed-large"></i>
+                            <span>Activity Feed</span>
                         </a>
                     </div>
                 </div>
@@ -608,12 +612,15 @@ jQuery(document).ready(function(){		//event listeners for communication with iFr
                                     '	<td class="search-box-options-parent">' +
                                     '		<a href="'+ item.liveSessionLink.replace(/\s/gi , "") +'" class="search-box-screenname gs-arial11" >' + item.label + '</a>' +
                                     '		<div class="gs-arial9 search-box-sub-text">"'+ item.VCHliveDescrShort +'"</div>' +
-                                    '		<a class="if-button small" href="'+ item.liveSessionLink.replace(/\s/gi , "") +'"><span>Come See Me LIVE!</span></a>' +
+                                    '		<a class="if-button small" href="'+ item.liveSessionLink.replace(/\s/gi , "") +
+                                    (item.liveSessionLink.indexOf('ireqfeed') > -1 ? '" data-extra-args="&amp;pdisplaystyle=modal&amp;pdisplaycontext=modal&amp;piReqFeedSkin=ModalB" data-is-modal="true' : '') +
+                                    '"><span>Come See Me LIVE!</span></a>' +
                                     '	</td>' +
                                     '</tr>' +
                                     '</table>'
                                 ).appendTo( ul );
                                 ul.addClass("gs-border");
+                                if (item.liveSessionLink.indexOf('ireqfeed') > -1) {iframeModalBind();}
                             };
                             $( "#pKey" ).data( "autocomplete" )._renderMenu = function( ul, items ) {
                                 var self = this;
@@ -665,28 +672,13 @@ jQuery(document).ready(function(){		//event listeners for communication with iFr
 		<div id="SideBarNewLayout_Content">
 
 	
-	
-	
-	
-	
-	
 
 
 		
-		
-								<a id="adult-star-banner" style="margin: 0px 0px 10px 15px; display: none;" href="http://www.ifriends.net/membrg/ireqfeed_v2_custom.dll?pclub=DRIPPIN_WET&amp;psource=adultstars_homepage"><img src="http://barchives.ifriends.net/image/DRIPPIN_WET/Profile_PS_200x200.jpg" border="0" width="200" height="200" onerror="document.getElementById('adult-star-banner').style.display='none';"></a>
-	
-	
-	
-	
-	
+								<a id="adult-star-banner" style="margin: 0px 0px 10px 15px; display: none;" href="http://www.ifriends.net/membrg/showcam_v2_custom.dll?pclub=CANDYBELLEXXX&amp;psource=adultstars_homepage"><img src="http://barchives.ifriends.net/image/CANDYBELLEXXX/Profile_PS_200x200.jpg" border="0" width="200" height="200" onerror="document.getElementById('adult-star-banner').style.display='none';"></a>
 	
 
 
-		
-		
-		
-		
 		
 <a class="if-button-liveGirls if-button-grid  sidebar-grid" href="http://www.ifriends.net/userurl_membrg2/livehosts/cam-girls/live-now/?pcache=yes&amp;psource=rm_lgonc" title="Browse through all our sexy Women Home Alone"></a>
 <a class="if-button-collegeGirls if-button-grid  sidebar-grid" href="http://www.ifriends.net/userurl_membrg2/livehosts/live-now/college-girls/?pcache=yes&amp;psource=rm_ccg" title="We've certified that these are real, live college co-eds!"></a>
@@ -1023,8 +1015,10 @@ jQuery(document).ready(function(){		//event listeners for communication with iFr
 			<div class="column_inner">
 				<div class="text-header">BECOME A WEBCAM MODEL</div>
 				Earn up to <b>100%</b> commissions and get paid <br> weekly as an iFriends <a href="http://www.ifriends.net/ifpage.dll?t=site/chathostsonly/general/chathostintro">webcam model</a>.<br><br>
-				<div class="text-header" style="margin-top:0px;">BECOME A WEBMASTER</div>
-Earn up to <b>$200</b> per sign-up or up to <b>35%</b> lifetime revshare when you join the ClickCash <a href="http://www.clickcash.com/" rel="nofollow">affiliate program</a>.                <br><br>
+					<div class="text-header" style="margin-top:0px;">AFFILIATE PROGRAM</div>
+					<a href="http://www.clickcash.com" rel="nofollow">Refer a friend</a> and earn up to <b>$200</b> per<br>
+					signup or up to <b>35%</b> lifetime revshare.
+                <br><br>
 
 			</div>
 		</div>
@@ -1046,11 +1040,10 @@ Earn up to <b>$200</b> per sign-up or up to <b>35%</b> lifetime revshare when yo
 			<div class="column_inner">
 				<div class="text-header">MEMBERS</div>
 				<div class="link-parent">
-    			<a id="if-liveSupport" href="javascript: var e = window.open('https://livesupport.ifriends.net/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=1&amp;siteID=2&amp;queueID=11&amp;skinName=iFriends&amp;skipSurvey=yes&amp;ChatName=GUEST#http://www.ifriends.net/','chatWindow','width=500,height=404,resizable=no,scrollbars=yes,menubar=no,status=no');" onmouseout="top.status=''; return true;" onmousedown="top.status='Chat with a company representative';return true;" onmouseover="top.status='Chat with a company representative';return true;">Live Chat Support</a><br>
+			<a id="if-liveSupport" href="javascript: var e = window.open('https://livesupport.ifriends.net/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=1&amp;siteID=2&amp;queueID=11&amp;skinName=iFriends&amp;skipSurvey=yes&amp;ChatName=GUEST#http://www.ifriends.net/','chatWindow','width=500,height=404,resizable=no,scrollbars=yes,menubar=no,status=no');" onmouseout="top.status=''; return true;" onmousedown="top.status='Chat with a company representative';return true;" onmouseover="top.status='Chat with a company representative';return true;">Live Chat Support</a><br>
 					<a href="http://www.ifriends.net/ifpage.dll?t=site/general/faq/faq">FAQ</a><br>
 					<a href="http://www.ifriends.net/ifpage.dll?t=site/general/customerservice/contacts">Contact Us</a><br>
 					<a href="http://www.ifriends.net/ifpage.dll?t=site/general/customerservice/memserv">Customer Service</a><br>
-					<a href="http://www.ifriends.net/ifpage.dll?t=site/tools/diamond/main">Help</a><br>
 				</div>
 			</div>
 		</div>
@@ -1059,7 +1052,7 @@ Earn up to <b>$200</b> per sign-up or up to <b>35%</b> lifetime revshare when yo
 			<div class="column_inner ">
 				<div class="text-header">MODELS</div>
 				<div class="link-parent">
-    			<a id="if-liveSupport" href="javascript: var e = window.open('https://livesupport.ifriends.net/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=1&amp;siteID=2&amp;queueID=11&amp;skinName=iFriends&amp;skipSurvey=yes&amp;ChatName=GUEST#http://www.ifriends.net/','chatWindow','width=500,height=404,resizable=no,scrollbars=yes,menubar=no,status=no');" onmouseout="top.status=''; return true;" onmousedown="top.status='Chat with a company representative';return true;" onmouseover="top.status='Chat with a company representative';return true;">Live Chat Support</a><br>
+			<a id="if-liveSupport" href="javascript: var e = window.open('https://livesupport.ifriends.net/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=1&amp;siteID=2&amp;queueID=11&amp;skinName=iFriends&amp;skipSurvey=yes&amp;ChatName=GUEST#http://www.ifriends.net/','chatWindow','width=500,height=404,resizable=no,scrollbars=yes,menubar=no,status=no');" onmouseout="top.status=''; return true;" onmousedown="top.status='Chat with a company representative';return true;" onmouseover="top.status='Chat with a company representative';return true;">Live Chat Support</a><br>
 					<a href="http://www.ifriends.net/ifpage.dll?t=site/general/faq/faq">FAQ</a><br>
 					<a href="http://www.ifriends.net/ifpage.dll?t=site/chathostsonly/general/controlcenter/contrib&amp;pclub=">Model Control Center</a><br>
 					<a href="http://www.ifriends.net/ifpage.dll?t=site/chathostsonly/general/pagetools/pagetools&amp;pclub=">Promote Yourself</a><br>
@@ -1071,11 +1064,23 @@ Earn up to <b>$200</b> per sign-up or up to <b>35%</b> lifetime revshare when yo
 		<br style="clear:both;">
 
 		<div id="footer-sharelinks">
-			<a class="icon-v2 icon-twitter-large" target="_blank" href="https://www.twitter.com/ifriends/"></a>
+                <script type="application/ld+json">
+				 {
+				   "@context" : "http://schema.org",
+				   "@type" : "Organization",
+				   "name" : "iFriends",
+				   "url": "http://www.ifriends.net",
+				   "sameAs" : [
+					     "https://twitter.com/ifriends/",
+					     "https://www.facebook.com/ifriends.net",
+					     "https://instagram.com/ifriendslivecams/"
+				   ]
+				 }
+		</script>
+			<a class="icon-v2 icon-twitter-large" target="_blank" href="https://twitter.com/ifriends/"></a>
 			<a class="icon-v2 icon-facebook-large" target="_blank" href="https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2FiFriends.net&amp;refsrc=http%3A%2F%2Fwww.ifriends.net%2F&amp;_rdr"></a>
-			<a class="icon-v2 icon-instagram-large" target="_blank" href="http://instagram.com/ifriendsadultwebcams"></a>
+			<a class="icon-v2 icon-instagram-large" target="_blank" href="https://instagram.com/ifriendslivecams/"></a>
 			<a class="icon-v2 icon-tumblr-large" target="_blank" href="http://ifriends.tumblr.com"></a>
-			<a class="icon-v2 icon-googleplus-large" target="_blank" href="https://plus.google.com/+ifriends/posts"></a>
 		</div>
 
 		<a id="back-to-top" href="javascript:void(0);" onclick="$('html, body').animate({scrollTop:0}, 'fast');"><i class="icon-v2 icon-backtotopnew"></i></a>
@@ -1109,8 +1114,8 @@ Earn up to <b>$200</b> per sign-up or up to <b>35%</b> lifetime revshare when yo
 	}
 </script>
 <iframe frameborder="0" allowtransparency="true" scrolling="no" id="SignUpSlideUp-iframe" src="/ifpage.dll?t=site/includes/SignUpSlideUp_content.htm&amp;pf_VCHpdEthnicity=&amp;pf_VCHpdBuild=&amp;pf_VCHliveRoomNumber=&amp;pf_isMaleRoom=&amp;pclub=&amp;pf_vchpdsex=&amp;f_hid_refererurl=http:%2F%2Fwww.ifriends.net%2Fifpage.dll%3Ft%3Dsite%2Fgeneral%2Flegal%2Fprivacy&amp;isignupslideup="></iframe>
-<p id="showMacCode" style="font-family: arial; font-size: 9px; color: #CCCCCC; margin-bottom: 20px; padding-left: 300px;">W8 (250)</p>
-<img src="/membrg/ATR.dll?pCode=PageLoad&amp;pAction=IFPage&amp;pExtraArgs=%26pLoadTime%3d250%26pRefTemplate%3dsite/general/legal/privacy.htm%26pRefPC%3dW8%26pGetTemplate%3d0%26pProcess%3d0%26pInit%3d0&amp;pSiteID=2&amp;pMbrLANGCODE=1&amp;pMBRSCREENNAMESimple=&amp;pMBRMSTRID=&amp;pMBRSOURCE=&amp;pTESTGROUP=1" width="1" height="1" border="0">
+<p id="showMacCode" style="font-family: arial; font-size: 9px; color: #CCCCCC; margin-bottom: 20px; padding-left: 300px;">W8 (344)</p>
+<img src="/membrg/ATR.dll?pCode=PageLoad&amp;pAction=IFPage&amp;pExtraArgs=%26pLoadTime%3d344%26pRefTemplate%3dsite/general/legal/privacy.htm%26pRefPC%3dW8%26pGetTemplate%3d0%26pProcess%3d0%26pInit%3d16&amp;pSiteID=2&amp;pMbrLANGCODE=1&amp;pMBRSCREENNAMESimple=&amp;pMBRMSTRID=&amp;pMBRSOURCE=&amp;pTESTGROUP=2" width="1" height="1" border="0">
 </div>
 
 </body></html>
