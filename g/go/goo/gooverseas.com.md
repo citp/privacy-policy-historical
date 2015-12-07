@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gooverseas.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609101429id_/http%3A//www.gooverseas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gooverseas.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134203id_/http%3A//www.gooverseas.com/privacy-policy) for the most accurate reproduction.*
 
 # Go Overseas Privacy Policy
 
@@ -71,7 +71,7 @@ For subscription clients you can easily cancel your subscription at any time. Th
 If you have any questions or wish to file a complaint, please feel free to e-mail us at [Privacy@GoOverseas.com](mailto:Privacy@GoOverseas.com), call us at +1 (415) 796-6456, or send a letter addressed to Go Overseas Privacy Policy:
 
 Attention: Privacy Policy Administrator  
-2144 Shattuck Avenue, 13th Floor (PH)  
+2040 Bancroft Way Suite #200  
 Berkeley, CA  
 94704 USA
 
