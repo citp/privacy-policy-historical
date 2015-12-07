@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxjar.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609011243id_/http%3A//www.taxjar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxjar.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207150609id_/http%3A//www.taxjar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TaxJar
 
