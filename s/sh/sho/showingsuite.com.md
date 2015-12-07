@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showingsuite.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626084009id_/http%3A//www.showingsuite.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showingsuite.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207102342id_/http%3A//www.showingsuite.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Showing Suite Real Estate SoftwareShowing Suite
 
@@ -51,6 +51,6 @@ Showing Suite, Inc. protect user information with the following security measure
 
 If this privacy policy changes in the future, all account holders will be notified of the change at least ten (10) days before it occurs and have the option to terminate his or her account and thus have their data removed from the system.
 
-[](http://www.facebook.com/showingsuite) [](http://www.twitter.com/showingsuite) [](https://www.linkedin.com/company/showing-suite-inc.)
+[](http://www.facebook.com/showingsuite) [](http://www.twitter.com/showingsuite) [](https://www.linkedin.com/company/showing-suite-inc)
 
 [referral program](https://invitebox.com/widget/11632/share)
