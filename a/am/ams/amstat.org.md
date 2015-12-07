@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amstat.org privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418181218id_/http%3A//www.amstat.org/privacystatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amstat.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207231812id_/http%3A//www.amstat.org/privacystatement.cfm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -32,7 +32,7 @@ Members' contact information is made available through the Member Directory. Mem
 
 This site has security measures in place to protect against the loss, misuse, and alteration of the information under our control. Members' personal information is behind a firewall, modifiable by each member only by password access through secure forms pages. Member Directory information is not accessible by search engines that hunt for HTML pages. 
 
-Secured Server Certificate from VeriSign, Inc., is used to identify your secured connection to our web site. Personal information ("Basic Contact Information") collected through our site is entered and transmitted over Secure Socket Layer (SSL) with a maximum encryption strength of 128-bit, which creates an encrypted session Secured Server Certificate from VeriSign, Inc., is used to identify your secured connection to our web site. Personal information ("Basic Contact Information") collected through our site is entered and transmitted over Secure Socket Layer (SSL) with a maximum encryption strength of 128-bit, which creates an encrypted session between the user browser and the web server.   
+Secured Server Certificate from VeriSign, Inc., is used to identify your secured connection to our web site. Personal information ("Basic Contact Information") collected through our site is entered and transmitted over Secure Socket Layer (SSL) with a maximum encryption strength of 2048-bit, which creates an encrypted session Secured Server Certificate from VeriSign, Inc., is used to identify your secured connection to our web site. Personal information ("Basic Contact Information") collected through our site is entered and transmitted over Secure Socket Layer (SSL) with a maximum encryption strength of 2048-bit, which creates an encrypted session between the user browser and the web server.   
   
 ---|---  
   
