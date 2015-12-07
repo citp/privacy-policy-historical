@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forextips.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607210150id_/http%3A//www.forextips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forextips.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207111707id_/http%3A//www.forextips.com/privacy-policy) for the most accurate reproduction.*
 
-# | Privacy Policy | Forex Tips
+# | Privacy Policy | Forex TİPS
 
   
 No data you provide ForexTips.com as part of your basic registration or personalization will be sold to outside organizations. ForexTips.com, however, reserves the right to disclose personal identifying information when required or permitted by law. The information is stored on secure servers. You may occasionally receive from us at your designated email address notifications of new ForexTips.com features or offers. You may opt out of receiving those notifications by notifying us of personal preferences. Please remember to change your personal preferences for each email address that you may have registered with us.
@@ -53,22 +53,9 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
   * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.forextips.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
   * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.forextips.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
   *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.forextips.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.forextips.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=%0D%0A%0D%0Avar%20axel%20%3D%20Math.random%28%29%20%2B%20%22%22%3B%0D%0Avar%20a%20%3D%20axel%20%2A%2010000000000000%3B%0D%0Adocument.write%28%27%27%29%3B%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0ANo%20data%20you%20provide%20ForexTips.com%20as%20part%20of%20your%20basic%20registration%20or%20personalization%20will%20be%20sold%20to%20outside%20organizations.%20ForexTips.com%2C%20however "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.forextips.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.forextips.com%2Fprivacy-policy%2F&srcTitle=Forex+Tips+Foreign+Currency+Exchange+Trading+Education "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.forextips.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=Forex+Tips+Foreign+Currency+Exchange+Trading+Education&summary=%0D%0A%0D%0Avar%20axel%20%3D%20Math.random%28%29%20%2B%20%22%22%3B%0D%0Avar%20a%20%3D%20axel%20%2A%2010000000000000%3B%0D%0Adocument.write%28%27%27%29%3B%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0ANo%20data%20you%20provide%20ForexTips.com%20as%20part%20of%20your%20basic%20registration%20or%20personalization%20will%20be%20sold%20to%20outside%20organizations.%20ForexTips.com%2C%20however "LinkedIn")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.forextips.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=%0D%0Avar%20axel%20%3D%20Math.random%28%29%20%2B%20%22%22%3B%0D%0Avar%20a%20%3D%20axel%20%2A%2010000000000000%3B%0D%0Adocument.write%28%27%27%29%3B%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0ANo%20data%20you%20provide%20ForexTips.com%20as%20part%20of%20your%20basic%20registration%20or%20personalization%20will%20be%20sold%20to%20outside%20organizations.%20ForexTips.com%2C%20however%2C%20 "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.forextips.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.forextips.com%2Fprivacy-policy%2F&srcTitle=Forex+T%C4%B0PS+Foreign+Currency+Exchange+Trading+Education "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.forextips.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=Forex+T%C4%B0PS+Foreign+Currency+Exchange+Trading+Education&summary=%0D%0Avar%20axel%20%3D%20Math.random%28%29%20%2B%20%22%22%3B%0D%0Avar%20a%20%3D%20axel%20%2A%2010000000000000%3B%0D%0Adocument.write%28%27%27%29%3B%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0ANo%20data%20you%20provide%20ForexTips.com%20as%20part%20of%20your%20basic%20registration%20or%20personalization%20will%20be%20sold%20to%20outside%20organizations.%20ForexTips.com%2C%20however%2C%20 "LinkedIn")
   * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.forextips.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
   * 
-
-
-Kick-Start your Forex FUTURE with a **Free** Webinar!
-
-  
-
-
-  
-
-
-**2\. Choose a Webinar Time:**
-
-  
 
