@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the millers.com.au privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608033517id_/http%3A//www.millers.com.au/Helpful-Links/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millers.com.au privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207100517id_/http%3A//www.millers.com.au/Helpful-Links/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy Buy women's clothing online.
 
 ## Specialty Fashion Group Privacy Policy
 
