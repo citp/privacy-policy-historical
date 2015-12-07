@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the firstweber.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607233513id_/http%3A//www.firstweber.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstweber.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207232513id_/http%3A//www.firstweber.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy policy | First Weber Group
+# Privacy policy | First Weber Realtors
 
 ## Privacy Policy
 
-Thank you for visiting the First Weber Group website. First Weber is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified while using our website, you can be assured that it will only be used in accordance with this privacy statement.
+Thank you for visiting the First Weber website. First Weber is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified while using our website, you can be assured that it will only be used in accordance with this privacy statement.
 
 Because First Weber may, from time to time, update this policy, we recommend that you review this page regularly to ensure that you are aware of policy changes. This policy remains in effect as of August 2, 2010.
 
@@ -24,7 +24,7 @@ First Weber and its technology partners employ the widely accepted practice of s
 
 First Weber is committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put suitable physical, electronic and managerial procedures in place to safeguard and secure the online information we collect. 
 
-By using the First Weber Group website, you consent to our collection and use of your information as described in this policy. We do not share your information with unaffiliated third parties. However there is always a risk that online information may fall into the wrong hands. Although First Weber maintains reasonable security practices to safeguard your privacy, First Weber cannot guarantee the security of any information provided on this website. First Weber Group, and anyone associated with this website, accepts no responsibility or liability for the activities of third party individuals or entities.
+By using the First Weber website, you consent to our collection and use of your information as described in this policy. We do not share your information with unaffiliated third parties. However there is always a risk that online information may fall into the wrong hands. Although First Weber maintains reasonable security practices to safeguard your privacy, First Weber cannot guarantee the security of any information provided on this website. First Weber, Inc., and anyone associated with this website, accepts no responsibility or liability for the activities of third party individuals or entities.
 
 ### Links to other websites
 
