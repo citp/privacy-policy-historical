@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thriftymommaramblings.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610011646id_/http%3A//thriftymommaramblings.com/about-me/privacy-policy-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thriftymommaramblings.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207210957id_/http%3A//thriftymommaramblings.com/about-me/privacy-policy-page) for the most accurate reproduction.*
 
-# Thrifty Momma Ramblings — Privacy Policy Page
+# Privacy Policy Page | Thrifty Momma Ramblings
 
 This Privacy Policy governs the manner in which Thrifty Momma Ramblings collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.thriftymommaramblings.com](http://www.thriftymommaramblings.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Thrifty Momma Ramblings.
 
