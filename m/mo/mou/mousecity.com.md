@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mousecity.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075409id_/http%3A//www.mousecity.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mousecity.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207143134id_/http%3A//www.mousecity.com/site/privacy-policy) for the most accurate reproduction.*
 
 # MouseCity - Only Mouse Games
 
