@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the checkmyfile.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608025855id_/https%3A//www.checkmyfile.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkmyfile.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207040843id_/http%3A//www.checkmyfile.com/privacy.htm) for the most accurate reproduction.*
 
-# Credit Report, Credit Reference, Credit Check - checkmyfile
+# Our Privacy Policy - checkmyfile
 
 #### We are firmly committed to keeping your personal details private, even if this means that, sometimes, we may not be able to serve you as quickly as you might wish. We make simple, strong statements about privacy so you can be clear about our commitment to you.
 
@@ -70,11 +70,11 @@ Purpose
 
 Various
 
-OMG
+Optimise Media Group
 
-These cookies are set by OMG, a market leading UK based affiliate marketing company to record a referral to our website from one of many hundreds of websites who promote our services. No personal information is recorded in these cookies, merely the data required to validate the referral at the checkout.  
+These cookies are set by Optimise Media Group, a market leading UK based affiliate marketing company to record a referral to our website from one of many hundreds of websites who promote our services. No personal information is recorded in these cookies, merely the data required to validate the referral at the checkout.  
     
-View the [OMG Privacy & Cookies Policy](http://uk.omgpm.com/privacy.aspx).
+View the [Optimise Media Group Privacy & Cookies Policy](https://www.optimisemedia.com/website-privacy-policy/).
 
 #### Advertising Cookie Examples
 
@@ -136,14 +136,13 @@ checkmyfile supplements the information that you provide with information receiv
 
 You have the following options if you do not wish to receive future marketing communications from us. Please note that we are still required to notify you from time to time of any significant changes to our terms and conditions, even after you express a preference not to receive marketing communications.
 
-  1. You can send email to [admin@checkmyfile.com](mailto:admin@checkmyfile.com)
+  1. You can send email to [customer.care@checkmyfile.com](mailto:customer.care@checkmyfile.com)
   2. You can write to us at the following postal address: 
 
   
 checkmyfile  
 Chynoweth House  
 Trevissome Park  
-Blackwater  
 Truro  
 Cornwall  
 TR4 8UN 
@@ -155,14 +154,14 @@ TR4 8UN
 
 This site gives you the following options for changing and modifying information previously provided.
 
-  1. You can send email to [admin@checkmyfile.com](mailto:admin@checkmyfile.com)
-  2. You can write to us at the following postal address: 
+  1. You can log in to your account and send a secure message to a professionally trained Credit Analyst. 
+  2. You can send email to [admin@checkmyfile.com](mailto:admin@checkmyfile.com)
+  3. You can write to us at the following postal address: 
 
   
 checkmyfile  
 Chynoweth House  
 Trevissome Park  
-Blackwater  
 Truro  
 Cornwall  
 TR4 8UN 
@@ -172,16 +171,15 @@ TR4 8UN
 
 #### Contacting checkmyfile about privacy
 
-  1. you can email our Data Controller, who is also our Joint Managing Director: [barry.stamp@checkmyfile.com](mailto:barry.stamp@checkmyfile.com)
+  1. you can email our Data Controller, who is also our Operations Director: [ian.carpenter@checkmyfile.com](mailto:ian.carpenter@checkmyfile.com)
   2. you can write to 
 
   
-Barry Stamp  
-Joint Managing Director  
+Ian Carpenter  
+Operations Director  
 checkmyfile  
 Chynoweth House  
 Trevissome Park  
-Blackwater  
 Truro  
 Cornwall  
 TR4 8UN 
