@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naturalhairmag.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609091932id_/http%3A//www.naturalhairmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalhairmag.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207200302id_/http%3A//www.naturalhairmag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Natural Hair Mag
+# Privacy Policy | Natural Hair Mag
 
 Natural Hair Mag (Company, we, us or our) takes steps to ensure it meets privacy principles and requirements with respect to personal information under applicable privacy legislation. This Privacy Policy only applies to transactions made, and data gathered, on the Natural Hair Mag website (Site). The purpose of this Privacy Policy is to inform users of this Site (you or your) how we collect, use, disclose and protect your personal information. This Policy applies to our online collection, use and disclosure of personal information in theUnited States.
 
