@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetslang.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629124634id_/http%3A//www.internetslang.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetslang.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208004210id_/http%3A//www.internetslang.com/privacy.html) for the most accurate reproduction.*
 
 # internetslang.com | Privacy Policy
 
