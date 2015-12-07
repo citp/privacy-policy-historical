@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotwnews.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608050648id_/http%3A//www.dotwnews.com/page/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotwnews.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207024453id_/http%3A//www.dotwnews.com/page/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement - DOTWNews.com - Destinations of the World News
 
