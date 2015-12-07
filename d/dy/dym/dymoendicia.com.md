@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dymoendicia.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608161709id_/http%3A//www.endicia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dymoendicia.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207101421id_/http%3A//www.endicia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Endicia
 
-Your privacy is extremely important to us, and we are committed to protecting your privacy rights. This policy describes how we treat your personal and non-personal information that is collected when you navigate our website, use our products, and/or contact us. The Endicia website is owned and operated by PSI Systems, Inc., a subsidiary of Newell Rubbermaid, Inc. 
+Your privacy is extremely important to us, and we are committed to protecting your privacy rights. This policy describes how we treat your personal and non-personal information that is collected when you navigate our website, use our products, and/or contact us. The Endicia website is owned and operated by PSI Systems, Inc.
 
-This policy is effective as of June 3, 2013. 
+This policy is effective as of June 3, 2013. Updated November 15, 2015. 
 
 ## Information Collection and Use
 
@@ -69,7 +69,7 @@ When you print postage using Endicia, we collect the following information:
 
 The primary purpose of this information is to generate valid postage indicia in compliance with U.S. Postal Service rules. 
 
-When you use Endicia software to print electronic USPS Tracking (formerly Delivery Confirmation), Signature Confirmation™, or the electronic Priority Mail Express® label, we also collect complete return and destination address data, package descriptions, reference IDs, and delivery statuses for each label you print. We maintain this information for your accounting and reporting purposes in the account management section of our website. 
+When you use Endicia software to print electronic USPS Tracking, Signature Confirmation™, or the electronic Priority Mail Express® label, we also collect complete return and destination address data, package descriptions, reference IDs, and delivery statuses for each label you print. We maintain this information for your accounting and reporting purposes in the account management section of our website. 
 
   7. **When You Provide Us Information to Download the Endicia XML Specifications for PC or Mac:**
 
@@ -154,11 +154,11 @@ If you have any questions or suggestions about our privacy policy, or if you wou
 
 **Endicia**  
 IBIP Privacy  
-385 Sherman Ave  
-Palo Alto, CA 94306
+278 Castro Street  
+Mountain View, CA 94041-1204
 
 ## Privacy Policy Changes
 
 Endicia may from time to time update its privacy policy. If we make changes to our privacy policy, the new privacy policy and new effective date will be posted on this website. 
 
-© Copyright 2014, Endicia, A Newell Rubbermaid Brand. All rights reserved.
+© Copyright 2015, Endicia. All rights reserved.
