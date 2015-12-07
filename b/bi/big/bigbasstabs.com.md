@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigbasstabs.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318063515id_/http%3A//www.bigbasstabs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigbasstabs.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207161217id_/http%3A//www.bigbasstabs.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy and terms of service for bigbasstabs.com
 
@@ -75,6 +75,10 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 **Google Adsense**
 
 Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+
+**How google uses your data**
+
+Please follow [this link to see how Google uses the data collected on this site.](http://www.google.com/intl/en/policies/privacy/partners/)
 
 **Changes to this privacy policy**
 
