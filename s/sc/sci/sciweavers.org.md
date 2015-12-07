@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciweavers.org privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608033227id_/http%3A//www.sciweavers.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciweavers.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207102425id_/http%3A//www.sciweavers.org/privacy) for the most accurate reproduction.*
 
 # Privacy | Sciweavers
 
