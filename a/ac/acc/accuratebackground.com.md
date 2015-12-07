@@ -1,37 +1,38 @@
-> *The following text is extracted and transformed from the accuratebackground.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608025814id_/http%3A//accuratebackground.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuratebackground.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207150615id_/http%3A//accuratebackground.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Accurate Background
 
 [](https://privacy.truste.com/privacy-seal/Accurate-Background,-Inc-/validation?rid=a97baa8b-c39e-4041-a023-326e3d387863 "Validate TRUSTe Privacy Certification")
 
-Welcome to Accurate Background, Inc.’s (Accurate Background) Web Site: [accuratebackground.com](http://accuratebackground.com/ "Accurate Background") (“Web Site”). Please carefully read our privacy policy to understand how we will treat the information you provide while visiting this Web Site and our service. This policy may change from time to time. Please check the policy each time you use our Web Site for the most current information.
+This Privacy Statement applies to accuratebackground.com (“Web Site”) and services owned and operated by Accurate Background.  Please carefully read our privacy policy to understand how we will treat the information you provide while visiting this Web Site and our service. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. This policy may change from time to time. Please check the policy each time you use our Web Site for the most current information.
 
-Accurate Background, Inc. has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
+The TRUSTe certification covers only our collection, use and disclosure of information we collect through our Web Site www.accuratebackground.com and Accurate Background services. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Accurate Background.
 
-The TRUSTe certification covers only our collection, use and disclosure of information we collect through our Web Site accuratebackground.com and Accurate Background, Inc. services.  
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal.  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
-Accurate Background complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Accurate Background has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Accurate Backgrounds certification, please visit <http://www.export.gov/safeharbor/>.
+Accurate Background complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Accurate Background has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Accurate Backgrounds certification, please visit<http://www.export.gov/safeharbor/>.
 
 ## Collection and Use of Information
 
 ### Tracking Technologies
 
+We, and our partners, affiliates, or analytics and service providers, may employ tracking technologies such as cookies, beacons, scripts, and tags to analyze trends, to administer the Web Site, to track users’ movements around the Web Site and to gather demographic information about our user base as a whole.
+
 When you visit this Web Site, we may collect general Internet data, including your domain name, the web page from which you entered our Web Site, which of our web pages you visited, and how long you spend on each page. To collect this information, when you visit our Web Site, a “cookie” may be set on your computer. Cookies contain information that allows our web servers to recognize you whenever you visit. We utilize cookies to record session information, passwords, and the profile of subscribed clients at a site in order to provide better service when visitors return to our Web Site. We use the information we collect to study how this Web Site is used, so that we may improve and enhance your experience on our Web Site. We also use persistent cookies. A persistent cookie remains on your computer after you close your browser or turn off your computer.
 
-If you reject cookies, you may still use our Web Site, although it is possible that some areas of our Web Site will not function properly if you do so. In particular, you may be required to accept cookies in order to complete certain actions on Accurate Background’s Web Site. We do not provide this information to outside parties other than for such reasons. No personal information is stored in cookies. If you would like to learn how to opt out of cookies using your browser settings, click [here](http://www.aboutcookies.org/). To learn how to manage privacy and storage settings for cookies, click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).
+If you reject cookies, you may still use our Web Site, although it is possible that some areas of our Web Site will not function properly if you do so. In particular, you may be required to accept cookies in order to complete certain actions on Accurate Background’s Web Site. We do not provide this information to outside parties other than for such reasons. No personal information is stored in cookies. If you would like to learn how to opt out of cookies using your browser settings, click [here](http://www.aboutcookies.org/). To learn how to manage privacy and storage settings for cookies, click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We do not link this automatically-collected data to personal information. We, and our partners, affiliates, or analytics and service providers, may employ tracking technologies such as cookies, beacons, scripts, and tags to analyze trends, to administer the Web Site, to track users’ movements around the Web Site and to gather demographic information about our user base as a whole.
+As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We do not link this automatically-collected data to personal information.
 
-Third parties with whom we partner to provide certain features on our Web Site or to display advertising based on your web browsing activity, use Local Shared Objects (Flash cookies) to store content information and preferences. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+Third parties with whom we partner to provide certain features on our Web Site or to display advertising based on your web browsing activity, use Local Storage (HTML5) to store content information and preferences. Various browsers may offer their own management tools for removing HTML5.
 
-We partner with a third party to display advertising on our Web Site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this Web Site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)).
+We partner with a third party to display advertising on our Web Site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this Web Site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)).
 
 ### Information You Provide
 
 When you provide information through this Web Site, we use it only for the business transaction for which it was collected. Based on the nature of your transaction with us, you may provide to us certain personal information such as first and last name; home address, or other physical address; an email address (so we may contact you); a telephone number; a social security number; or certain other information, such as date of birth, employment information, schools attended, licenses held and other information as required to process your transaction collectively, (“PI”). In general, we will use the information collected from you for the purpose for which you provided such information. We will not release your PI to third parties except as necessary for us to process your transaction.
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [customer_service@accuratebackground.com](mailto:customer_service@accuratebackground.com). If you do not want to receive e-mails from us in the future, please let us know by emailing, calling, or writing to us at the address below.
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [customer_service@accuratebackground.com](mailto:customer_service@accuratebackground.com). If you do not want to receive e-mails from us in the future, please let us know by emailing, calling, or writing to us at the address below.
 
 If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by emailing, calling, or writing to us at the address below.
 
@@ -106,13 +107,13 @@ Accurate Background will retain personal data we process on behalf of our Client
 ### Contact Us:
 
 Compliance Director  
-Accurate Background, Inc.  
+Accurate Background  
 7515 Irvine Center Drive  
 Irvine, CA 92618  
 800.784.3911  
 [customer_service@accuratebackground.com](mailto:customer_service@accuratebackground.com)
 
-**Effective Date:** April 20, 2015
+**Effective Date:**  November 24, 2015
 
 ## Terms of Use
 
