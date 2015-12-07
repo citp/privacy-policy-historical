@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edinburghairport.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608050730id_/http%3A//www.edinburghairport.com/help/policies/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edinburghairport.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207101758id_/http%3A//www.edinburghairport.com/help/policies/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice | Edinburgh Airport
 
