@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the star-conflict.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608021057id_/http%3A//star-conflict.com/en/b/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the star-conflict.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207180532id_/http%3A//star-conflict.com/en/b/privacypolicy) for the most accurate reproduction.*
 
 # STAR CONFLICT — MMO SPACE ACTION - Privacy Policy
 
