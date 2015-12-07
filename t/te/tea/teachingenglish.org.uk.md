@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachingenglish.org.uk privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609002214id_/http%3A//www.britishcouncil.org/terms-conditions/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachingenglish.org.uk privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134036id_/http%3A//www.britishcouncil.org/terms-conditions/privacy) for the most accurate reproduction.*
 
 # Privacy policy | British Council
 
