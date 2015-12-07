@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cedars-sinai.edu privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611082905id_/http%3A//www.cedars-sinai.edu/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cedars-sinai.edu privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207111931id_/http%3A//www.cedars-sinai.edu/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Cedars-Sinai Privacy Policy
 
 The Cedars-Sinai Health System ("CSHS") website is owned and operated by Cedars-Sinai Health System. This Privacy Policy ("Privacy Policy") describes how we collect information from you or about you online through our website at [www.cedars-sinai.edu](https://web.archive.org/) ("website"), why we collect this information, how we will use or disclose this information and how you may update or delete identifiable information about you from our records. By accessing, browsing and/or using our website, you are deemed to accept the terms of this Privacy Policy. If you are not willing to accept the terms of this Privacy Policy, please do not use our website.
 
-This Privacy Policy does not apply to our information collection and use policy or practices offline. This information is available on the [HIPAA Privacy Practices](https://web.archive.org/Patients/Patient-and-Visitor-Resources/Billing/Medical-Records/HIPAA-Privacy-Practices.aspx) page.
+This Privacy Policy does not apply to our information collection and use policy or practices offline. This information is available on the [HIPAA Privacy Practices](https://web.archive.org/About-Us/HIPAA-Privacy-Practices.aspx) page.
 
 ### Information Collection and Use
 
@@ -18,56 +18,66 @@ Our website makes forums and bulletin boards available to our users through our 
 
 We also may use the personal information you provide to us to send you information that we believe may be of interest to you, based on information you may have provided to us, including newsletters, information about new medical breakthroughs and other items related to CSHS and its medical community. You do have a right to opt out of receiving this information, as described below in "Your Opt Out Right." You can visit our site without providing any personal information about yourself. However, there are a number of services that we provide which, if you wish to obtain the full benefit of those services, you must provide certain personal information.
 
-### Security
+### Security  
+
 
 We take precautions to ensure your information remains confidential; however, you must keep in mind as you navigate through our website that any message you may send through the website or through email is not secure and may be susceptible to third party interception. As a result, you transmit information to us at your own risk. Select pages within our site, such as those dealing with e-commerce, may run in a secure-server environment. In locations like these, where our website asks you to enter sensitive information, that information is encrypted and is protected with the encryption software SSL. While on a secure page, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked. You will be alerted to a secure page by a padlock icon on your browser and/or warning pop-up window.
 
 We also do everything reasonably possible to protect user information we collect. All of our users' information, not just the sensitive information, is restricted in our offices. Only individuals who need the information to perform a specific job are granted access to personal information. Access to this information is password protected. Furthermore, all personnel having access to your personal information are kept up-to-date on our security and privacy practices.
 
-### Cookies
+### Cookies  
+
 
 We may place small data files, called "cookies," in your browser's file storage area of your computer's hard drive. Cookies are a standard Internet technology that allow us to both store and retrieve login information on a user's system. A cookie is a small text file that is stored on a site visitor's computer to gather and keep track of information related to you. These cookies automatically identify your browser to our server whenever you interact with a service provided on our website. Cookies can store your preferences through a password you select to access a web site. Cookies also help us review website traffic patterns and improve our site. Most browses automatically accept these cookies, but you usually can change your browser setting to prevent the acceptance of cookies, but this may prevent you from using some of the features of our website. Information collected through cookies is not linked to any personally identifiable information.
 
-### Log Files
+### Log Files  
+
 
 We collect and log IP addresses in order to analyze site visitation trends and administer the website. An IP address is a number automatically assigned to your computer whenever you access the Internet. IP addresses allow computers and servers to recognize and communicate with one another. IP address information allows us to properly administer our system and gather aggregate information on visitors to our website help diagnose problems with our servers, and how our site is being used, including the pages visitors are viewing in the aggregate. This aggregate information may be shared with third parties, such as our physicians, our suppliers and other businesses. To maintain your anonymity, we do not associate IP addresses with records containing personal information. In other words, IP addresses are not linked to personally identifiable information.
 
-### Your Opt-Out Right
+### Your Opt-Out Right  
+
 
 As indicated above, CSHS may use the information you provide to send you with information and materials that we think may be of interest to you. If you do not wish to receive any further information or materials from us, such as e-mails or newsletters, you have the right to opt out of such disclosure and additional use of such information. To opt out from receiving such information or materials, you must check the appropriate box provided at the time you are requested to provide personal information. If, at a later time, you wish to change your preference, you may do so by contacting us at the address indicated below.
 
-### Links
+### Links  
+
 
 Our website may contains links to websites that are not operated by CSHS. You may be asked by these websites to provide personal information or to release information you may have provided on our website. You are never required to release this information, and whether you do is optional and strictly up to you. Please be aware that we are not responsible for the privacy practices of these sites, nor any adverse consequences that may result from your interaction with such third party websites. CSHS has no control or influence over the privacy practices of these other websites. This would also apply to these websites' use of cookies and other electronically collected data. We encourage you to be cautious when leaving our website and review the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy does not apply to information collected through those websites.
 
-### Children's Privacy Protection
+### Children's Privacy Protection  
+
 
 In accordance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), CSHS will never knowingly request personally identifiable information from anyone under the age of 13 without parental consent. When we do receive information (with parental consent) from users under the age of 13, we will not share their personally identifiable information with third parties, regardless of their stated preference given at registration.
 
-### Disclosures Required to Investigate Complaints or to Law Enforcement Officials
+### Disclosures Required to Investigate Complaints or to Law Enforcement Officials  
+
 
 CSHS may use personal information collected or in its possession to contact users in connection with their inappropriate use of our website, noncompliance with our Terms and Conditions, or in connection with a complaint filed about their use of our site by another user.
 
-CSHS also may disclose your personal information to another party, such as law enforcement officials, to comply with legal requirements, court orders, government or law enforcement agency requests, to protect or defend CSHS, or where we perceive an immediate danger of death or serious physical injury to someone as a result of activity on our site. Our disclosures may occur under circumstances where we may not be authorized to advise you of such action.  
- 
+CSHS also may disclose your personal information to another party, such as law enforcement officials, to comply with legal requirements, court orders, government or law enforcement agency requests, to protect or defend CSHS, or where we perceive an immediate danger of death or serious physical injury to someone as a result of activity on our site. Our disclosures may occur under circumstances where we may not be authorized to advise you of such action.
 
-### Changes to Our Privacy Policy
+### Changes to Our Privacy Policy  
+
 
 We will notify you of changes to this Privacy Policy. If we make material changes in our Privacy Policy that do not affect user information already stored in our database, we will post a prominent notice on our website notifying users of the change. If we propose to use your personally identifiable information in a manner materially different from that stated at the time of collection we will notify you via email, and you will have a choice as to whether we may use your information in this different manner.
 
 ### Changing or Deleting Information
 
-  
 If you wish to delete or correct your personally identifiable information obtained through this website, you may:
 
   * Send a written request to: Webmaster, Cedars-Sinai Health System, 8700 Beverly Blvd., SSB-3, Los Angeles, CA 90048
-  * Send an electronic request to: webmaster@cshs.org
-  * [Submit](http://apps.csmc.edu/ContactUs/?to_email=webmaster@cshs.org&to_group=other) an electronic request.
-  * Call 1-800-CEDARS-1 and submit a verbal request.
+  *  Send an electronic request to: webmaster@cshs.org
+  *  [Submit](http://apps.csmc.edu/ContactUs/?to_email=webmaster@cshs.org&to_group=other) an electronic request.
+  *  Call 1-800-CEDARS-1 and submit a verbal request.  
 
 
+
+
+### HealthKit
+
+With your permission, certain versions of our Applications can connect to Apple HealthKit to receive health information and to share that information with your healthcare providers. Our Applications do not share your health information with HealthKit or with other HealthKit-enabled software.
 
 ### Comments or Questions
 
-  
 Should you have any questions regarding this privacy statement, the practices of this website, or your dealings with this website, you may contact our Webmaster. 
