@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the furniturefashion.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607070655id_/http%3A//www.furniturefashion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniturefashion.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207101737id_/http%3A//www.furniturefashion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Furniture Fashion
 
-[](http://www.furniturefashion.com/)
+[](http://www.furniturefashion.com/)[](http://www.furniturefashion.com/)
 
 At FurnitureFashion, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you visit FurnitureFashion.com, and how we safeguard your information. We never sell your personal information to third parties.
 
