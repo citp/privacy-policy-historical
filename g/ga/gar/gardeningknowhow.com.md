@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gardeningknowhow.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628234750id_/http%3A//www.gardeningknowhow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardeningknowhow.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207120416id_/http%3A//www.gardeningknowhow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy For Gardening Know How Gardening Know How
 
@@ -70,7 +70,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Your Consent**
 
-By using our site, you consent to our [web site and app privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our web site and app privacy policy.
 
 **Changes to our Privacy Policy**
 
