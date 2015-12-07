@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allflicks.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607130552id_/http%3A//www.allflicks.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allflicks.net privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207122713id_/http%3A//www.allflicks.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllFlicks
 
@@ -22,6 +22,7 @@ AllFlicks does use cookies to store information about visitors preferences, reco
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:  
 Adversal  
+Amazon Services LLC Associates Program  
 Google Adsense
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on AllFlicks send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or web beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
@@ -30,4 +31,6 @@ AllFlicks has no access to or control over these cookies that are used by third-
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. The privacy policy of AllFlicks does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+AllFlicks is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
