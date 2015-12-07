@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatuni.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627140920id_/http%3A//www.whatuni.com/degrees/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatuni.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207012451id_/http%3A//www.whatuni.com/degrees/help/privacy.htm) for the most accurate reproduction.*
 
 # Whatuni privacy policy
 
