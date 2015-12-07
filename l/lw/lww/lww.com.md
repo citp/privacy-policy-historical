@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lww.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608040805id_/http%3A//www.lww.com/home/opencms%3Fid%3Dprivacy_default) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lww.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207032130id_/http%3A//www.lww.com/home/opencms%3Fid%3Dprivacy_default) for the most accurate reproduction.*
 
 # 
 
@@ -63,4 +63,4 @@ Two Commerce Square
 2001 Market Street  
 Philadelphia, PA 19103
 
-Server : PROD-ECOMM1 | Session : 1ituoqgiguk40nhipg343kqs | Client IP : 204.236.226.210 | Build : 1.14.0.835
+Server : PROD-ECOMM1 | Session : rts0kvlmsh3e3gpqkfgz4xbk | Client IP : 204.236.226.210 | Build : 1.21.0.1015
