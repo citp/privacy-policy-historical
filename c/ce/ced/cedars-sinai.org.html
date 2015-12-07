@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cedars-sinai.org privacy policy that was archived on 2014-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141218183555id_/http%3A//cedars-sinai.edu/Privacy-Policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cedars-sinai.org privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207111931id_/http%3A//cedars-sinai.edu/Privacy-Policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js backgroundsize borderimage borderradius csscolumns cssgradients fontface generatedcontent video audio" style=""><!--<![endif]--><head>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,21 +9,16 @@
 		    		<meta name="Description" content="Cedars-Sinai Website Privacy Policy">
     	            		<meta name="Keywords" content="Cedars-sinai, cedars, sinai, privacy, policy, hospital, los angeles">
     	    		<meta name="apple-itunes-app" content="app-id=641292026, affiliate-data=11l5aE">
-    	<link rel="stylesheet" type="text/css" href="//cloud.typography.com/7795272/708722/css/fonts.css">
-		<link rel="stylesheet" type="text/css" href="/resources/css/compressedCss.min.css" media="all">
 
+    	<link rel="stylesheet" type="text/css" href="//cloud.typography.com/7795272/708722/css/fonts.css" media="screen">
+    	    	<!-- percussionPreview = 459 -->
+		<link rel="stylesheet" type="text/css" href="/resources/css/compressedCss.min.css" media="all">
 
 		<link rel="stylesheet" href="/resources/css/print.css" media="print">
 		<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-BQDX"></script><script> if (!window.console) console = {log: function() {}}; </script>
-		<script src="/resources/js/compressedScript.min.js"></script>
 		
-
-
-
-
-
-
-
+		<script src="/resources/js/compressedScript.min.js"></script>
+		<script src="/resources/js/flowplayer-3.2.13.min.js"></script>
 
 
 
@@ -35,20 +30,20 @@
 
 
 
-		<script>dataLayer = [];</script>
+		<script>dataLayer = [];</script>	
 				<!-- Content ID: 128400  -->
 																				<noscript>
 		<style>#jsAdvice {display: block;}</style>
 	</noscript>
 	<script type="text/javascript">
-	
-
-	
-	
-
-
-
 		$(document).ready(function() {
+
+			var bordervalue = $('table[border]').attr('border');
+			if (bordervalue == 1){
+				$("table").css("border", "1px solid #000");
+				$("td").css("border", "1px solid #000");
+			}
+		
 			//Detailed insurance info expand and collapse
 			$(".insuranceDetailInfo").hide();
 			$(".insuranceDetailTop").addClass("hand");
@@ -73,7 +68,7 @@
 						// effects separated by space
 						effects: 'fade',
 						// controls separated by space
-						controls: 'pagination stopOnMouseOver touch',
+						controls: 'pagination stopOnMouseOver',
 						// if you want some yummy transition
 						easing: '',
 						// step 
@@ -137,8 +132,6 @@
 				
                 $("#researchWrapper .learnMoreInfo").hide();
                 $("#researchWrapper .learnMoreLabMember").addClass("hand"); //.learnMore
-
-
                 $("#researchWrapper .learnMoreLabMember").click(function(event){ //.learnMore
                     // prevents scrolling when clicking read more link
                     if(document.all){
@@ -241,12 +234,7 @@
 				    $(window).resize(function(){
 						checkWidth();
 				    });
-
 			});
-
-
-
-			
 	</script>
 </head>
 <body>
@@ -327,26 +315,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						</div>
 					</div>
 										<nav>
-					<nav>
 	<div id="navigation">
 		<ul id="top_nav">
 			   
-            		<li id="findDoctor" data-path="" title="Find a Doctor" class=""><a href="http://mdfind.csmc.edu">Find a Doctor</a></li>
-         	 	<li id="treatments" data-path="Patients/Health" title="Conditions &amp; Treatments" class=""><a href="/Patients/Health-Conditions/index.aspx">Conditions &amp; Treatments</a></li>
-         	 	<li id="programs" data-path="Patients/Programs" title="Programs &amp; Services" class=""><a href="/Patients/Programs-and-Services/index.aspx">Programs &amp; Services</a></li>
-         	 	<li id="guide" data-path="edu/Patients" title="Patients &amp; Visitors Guide" class=""><a href="/Patients/index.aspx">Patients &amp; Visitors Guide</a></li>
-         	 	<li id="professionals" data-path="edu/Medical" title="For Medical Professionals" class=""><a href="/Medical-Professionals/index.aspx">For Medical Professionals</a></li>
-         	 	<li id="research" data-path="edu/Research" title="Research" class=""><a href="/Research/index.aspx">Research</a></li>
-         	 	<li id="education" data-path="edu/Education" title="Education" class=""><a href="/Education/index.aspx">Education</a></li>
+            		<li id="findDoctorTopNav" data-path="" title="Find a Doctor" class=""><a href="http://mdfind.csmc.edu">Find a Doctor</a></li>
+         	 	<li id="treatmentsTopNav" data-path="Patients/Health" title="Conditions &amp; Treatments" class=""><a href="/Patients/Health-Conditions/index.aspx">Conditions &amp; Treatments</a></li>
+         	 	<li id="programsTopNav" data-path="Patients/Programs" title="Programs &amp; Services" class=""><a href="/Patients/Programs-and-Services/index.aspx">Programs &amp; Services</a></li>
+         	 	<li id="guideTopNav" data-path="edu/Patients" title="Patients &amp; Visitors Guide" class=""><a href="/Patients/index.aspx">Patients &amp; Visitors Guide</a></li>
+         	 	<li id="professionalsTopNav" data-path="edu/Medical" title="For Medical Professionals" class=""><a href="/Medical-Professionals/index.aspx">For Medical Professionals</a></li>
+         	 	<li id="researchTopNav" data-path="edu/Research" title="Research" class=""><a href="/Research/index.aspx">Research</a></li>
+         	 	<li id="educationTopNav" data-path="edu/Education" title="Education" class=""><a href="/Education/index.aspx">Education</a></li>
       
 
 		</ul>
 	</div>
 </nav>
-					</nav>
 					
-									<div id="main">
-							
+			
+							<div id="main">
+						
     	
 		
 		
@@ -362,9 +349,123 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																										<dt></dt><dd>Privacy Policy</dd>
 														    								</dl>
 		</div>
-			            						<div id="leftColumn"><div id="contentTitle" class="cf"><h2 class="cf">Privacy Policy</h2></div><div id="share"><div id="shareBtn"><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=ra-5049269a37d7426c">Share</a><script async="" type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-5049269a37d7426c"></script></div><div id="emailBtn"><a onclick="return addthis_sendto('email');" class="at_item  at_col0" href="#" tabindex="22" id="atic_email">Email</a></div><div id="printBtn"><a href="#" onclick="javascript:print(); return false;" title="Print">Print</a></div></div>
+			        
+			<div id="leftColumn"><div id="contentTitle" class="cf"><h2 class="cf">Privacy Policy</h2></div><div id="share"><div id="shareBtn"><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=ra-5049269a37d7426c">Share</a><script async="" type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-5049269a37d7426c"></script></div><div id="emailBtn"><a onclick="return addthis_sendto('email');" class="at_item  at_col0" href="#" tabindex="22" id="atic_email">Email</a></div><div id="printBtn"><a href="#" onclick="javascript:print(); return false;" title="Print">Print</a></div></div>
 <div id="contentHalf">
-<p></p><p>The Cedars-Sinai Health System ("CSHS") website is owned and operated by Cedars-Sinai Health System. This Privacy Policy ("Privacy Policy") describes how we collect information from you or about you online through our website at <a href="/">www.cedars-sinai.edu</a> ("website"), why we collect this information, how we will use or disclose this information and how you may update or delete identifiable information about you from our records. By accessing, browsing and/or using our website, you are deemed to accept the terms of this Privacy Policy. If you are not willing to accept the terms of this Privacy Policy, please do not use our website.</p><p>This Privacy Policy does not apply to our information collection and use policy or practices offline. <span class="bold">This information is available on the</span> <a class="bold" href="/Patients/Patient-and-Visitor-Resources/Billing/Medical-Records/HIPAA-Privacy-Practices.aspx">HIPAA Privacy Practices</a> <span class="bold">page.</span></p><h3>Information Collection and Use</h3><p>The information we gather generally can be categorized as either anonymous or personally identifiable.<br><br>Anonymous (or sometimes referred to as "aggregate") information is information that cannot be traced back to a specific individual. For example, we know how many times our site and certain portions of our site is visited, but we do not know the names, e-mail addresses or gender of our visitors unless they specifically provide that information. We use this anonymous information to obtain a better understanding of how visitors use our website and to make decisions on how to improve it. Each time a visitor comes to our site, we collect some information in an effort to improve the overall quality of your online experience. We collect the visitor's domain name (e.g. whether the user is logged on from yahoo.com, aol.com etc), referral data (e.g., the address of the last URL a user visited prior to clicking through to our website), and browser and platform type (e.g., a Netscape browser on a Macintosh platform). In addition to collecting these types of information, CSHS collects aggregate queries for internal reporting. We also count, track, and aggregate the visitor's activity into our analysis of general traffic flows at our site (e.g. tracking where traffic comes from, how traffic flows within our site, etc.).</p><p>Personally identifiable information is information you provide that lets us know specific facts about you so that we can respond to your requests. Depending on the portion of the website you visit and the information you provide, this information could range from your name, address and ZIP code, which you provide in order to receive information from us about certain services, to specific health information that you provide to us on an admission form. Personal information collected on our site is used only to allow us to fulfill your request for services. For instance, if you use our online physical system to locate a specialist in your area, we use the information you provide to put you in touch with a physician. Similarly, if you complete an admission form that you download from our site and submit it to us, we use the information contained in your admission form for the purposes of admitting you to CSHS and to thereafter providing the services your physician prescribes. Another example relates to our gift shop. We collect personal information from you in order to complete transactions you request The information you provide may be furnished to a third party in order to facilitate the transaction. Or, you may submit personal information to us in response to an employment opportunity. In each case, we use your personal information only for the purpose it is submitted to us, which may include providing it to third parties with whom we have relationships to deliver the information or services you request.</p><p>Our website makes forums and bulletin boards available to our users through our Personal Health Manager. Please remember that any information disclosed in these areas become public information and that you should exercise caution when deciding to disclose your personal information. CSHS reserves the right to disclose or use any user information which is already publicly available or which is posted by the user to a chat room, forum, bulletin board or other public forum.</p><p>We also may use the personal information you provide to us to send you information that we believe may be of interest to you, based on information you may have provided to us, including newsletters, information about new medical breakthroughs and other items related to CSHS and its medical community. You do have a right to opt out of receiving this information, as described below in "Your Opt Out Right." You can visit our site without providing any personal information about yourself. However, there are a number of services that we provide which, if you wish to obtain the full benefit of those services, you must provide certain personal information.</p><h3>Security</h3><p>We take precautions to ensure your information remains confidential; however, you must keep in mind as you navigate through our website that any message you may send through the website or through email is not secure and may be susceptible to third party interception. As a result, you transmit information to us at your own risk. Select pages within our site, such as those dealing with e-commerce, may run in a secure-server environment. In locations like these, where our website asks you to enter sensitive information, that information is encrypted and is protected with the encryption software SSL. While on a secure page, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked. You will be alerted to a secure page by a padlock icon on your browser and/or warning pop-up window.</p><p>We also do everything reasonably possible to protect user information we collect. All of our users' information, not just the sensitive information, is restricted in our offices. Only individuals who need the information to perform a specific job are granted access to personal information. Access to this information is password protected. Furthermore, all personnel having access to your personal information are kept up-to-date on our security and privacy practices.</p><h3>Cookies</h3><p>We may place small data files, called "cookies," in your browser's file storage area of your computer's hard drive. Cookies are a standard Internet technology that allow us to both store and retrieve login information on a user's system. A cookie is a small text file that is stored on a site visitor's computer to gather and keep track of information related to you. These cookies automatically identify your browser to our server whenever you interact with a service provided on our website. Cookies can store your preferences through a password you select to access a web site. Cookies also help us review website traffic patterns and improve our site. Most browses automatically accept these cookies, but you usually can change your browser setting to prevent the acceptance of cookies, but this may prevent you from using some of the features of our website. Information collected through cookies is not linked to any personally identifiable information.</p><h3>Log Files</h3><p>We collect and log IP addresses in order to analyze site visitation trends and administer the website. An IP address is a number automatically assigned to your computer whenever you access the Internet. IP addresses allow computers and servers to recognize and communicate with one another. IP address information allows us to properly administer our system and gather aggregate information on visitors to our website help diagnose problems with our servers, and how our site is being used, including the pages visitors are viewing in the aggregate. This aggregate information may be shared with third parties, such as our physicians, our suppliers and other businesses. To maintain your anonymity, we do not associate IP addresses with records containing personal information. In other words, IP addresses are not linked to personally identifiable information.</p><h3>Your Opt-Out Right</h3><p>As indicated above, CSHS may use the information you provide to send you with information and materials that we think may be of interest to you. If you do not wish to receive any further information or materials from us, such as e-mails or newsletters, you have the right to opt out of such disclosure and additional use of such information. To opt out from receiving such information or materials, you must check the appropriate box provided at the time you are requested to provide personal information. If, at a later time, you wish to change your preference, you may do so by contacting us at the address indicated below.</p><h3>Links</h3><p>Our website may contains links to websites that are not operated by CSHS. You may be asked by these websites to provide personal information or to release information you may have provided on our website. You are never required to release this information, and whether you do is optional and strictly up to you. Please be aware that we are not responsible for the privacy practices of these sites, nor any adverse consequences that may result from your interaction with such third party websites. CSHS has no control or influence over the privacy practices of these other websites. This would also apply to these websites' use of cookies and other electronically collected data. We encourage you to be cautious when leaving our website and review the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy does not apply to information collected through those websites.</p><h3>Children's Privacy Protection</h3><p>In accordance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), CSHS will never knowingly request personally identifiable information from anyone under the age of 13 without parental consent. When we do receive information (with parental consent) from users under the age of 13, we will not share their personally identifiable information with third parties, regardless of their stated preference given at registration.</p><h3>Disclosures Required to Investigate Complaints or to Law Enforcement Officials</h3><p>CSHS may use personal information collected or in its possession to contact users in connection with their inappropriate use of our website, noncompliance with our Terms and Conditions, or in connection with a complaint filed about their use of our site by another user.</p><p>CSHS also may disclose your personal information to another party, such as law enforcement officials, to comply with legal requirements, court orders, government or law enforcement agency requests, to protect or defend CSHS, or where we perceive an immediate danger of death or serious physical injury to someone as a result of activity on our site. Our disclosures may occur under circumstances where we may not be authorized to advise you of such action.<br>&nbsp;</p><h3>Changes to Our Privacy Policy</h3><p>We will notify you of changes to this Privacy Policy. If we make material changes in our Privacy Policy that do not affect user information already stored in our database, we will post a prominent notice on our website notifying users of the change. If we propose to use your personally identifiable information in a manner materially different from that stated at the time of collection we will notify you via email, and you will have a choice as to whether we may use your information in this different manner.</p><h3>Changing or Deleting Information</h3><p><br>If you wish to delete or correct your personally identifiable information obtained through this website, you may:</p><ul><li>Send a written request to: Webmaster, Cedars-Sinai Health System, 8700 Beverly Blvd., SSB-3, Los Angeles, CA 90048</li><li>Send an electronic request to: webmaster@cshs.org</li><li><a href="http://apps.csmc.edu/ContactUs/?to_email=webmaster@cshs.org&amp;to_group=other">Submit</a> an electronic request.</li><li>Call 1-800-CEDARS-1 and submit a verbal request.</li></ul><h3>Comments or Questions</h3><p><br>Should you have any questions regarding this privacy statement, the practices of this website, or your dealings with this website, you may contact our Webmaster.&nbsp;</p><table><tbody><tr><td><a href="http://apps.csmc.edu/ContactUs/?to_email=webmaster@cshs.org&amp;to_group=other">Send Us a Message</a></td></tr></tbody></table><p></p>
+<p>
+</p><p>The Cedars-Sinai Health System ("CSHS") website is owned and operated by Cedars-Sinai Health System. This Privacy Policy ("Privacy Policy") describes how we collect information from you or about you online through our website at <a href="/">www.cedars-sinai.edu</a> ("website"), why we collect this information, how we will use or disclose this information and how you may update or delete identifiable information about you from our records. By accessing, browsing and/or using our website, you are deemed to accept the terms of this Privacy Policy. If you are not willing to accept the terms of this Privacy Policy, please do not use our website.</p>
+
+<p>This Privacy Policy does not apply to our information collection and use policy or practices offline. <span class="bold">This information is available on the</span> <a class="bold" href="/About-Us/HIPAA-Privacy-Practices.aspx">HIPAA Privacy Practices</a> <span class="bold">page.</span></p>
+
+<p>&nbsp;</p>
+
+<h3>Information Collection and Use</h3>
+
+<p>The information we gather generally can be categorized as either anonymous or personally identifiable.<br>
+<br>
+Anonymous (or sometimes referred to as "aggregate") information is information that cannot be traced back to a specific individual. For example, we know how many times our site and certain portions of our site is visited, but we do not know the names, e-mail addresses or gender of our visitors unless they specifically provide that information. We use this anonymous information to obtain a better understanding of how visitors use our website and to make decisions on how to improve it. Each time a visitor comes to our site, we collect some information in an effort to improve the overall quality of your online experience. We collect the visitor's domain name (e.g. whether the user is logged on from yahoo.com, aol.com etc), referral data (e.g., the address of the last URL a user visited prior to clicking through to our website), and browser and platform type (e.g., a Netscape browser on a Macintosh platform). In addition to collecting these types of information, CSHS collects aggregate queries for internal reporting. We also count, track, and aggregate the visitor's activity into our analysis of general traffic flows at our site (e.g. tracking where traffic comes from, how traffic flows within our site, etc.).</p>
+
+<p>Personally identifiable information is information you provide that lets us know specific facts about you so that we can respond to your requests. Depending on the portion of the website you visit and the information you provide, this information could range from your name, address and ZIP code, which you provide in order to receive information from us about certain services, to specific health information that you provide to us on an admission form. Personal information collected on our site is used only to allow us to fulfill your request for services. For instance, if you use our online physical system to locate a specialist in your area, we use the information you provide to put you in touch with a physician. Similarly, if you complete an admission form that you download from our site and submit it to us, we use the information contained in your admission form for the purposes of admitting you to CSHS and to thereafter providing the services your physician prescribes. Another example relates to our gift shop. We collect personal information from you in order to complete transactions you request The information you provide may be furnished to a third party in order to facilitate the transaction. Or, you may submit personal information to us in response to an employment opportunity. In each case, we use your personal information only for the purpose it is submitted to us, which may include providing it to third parties with whom we have relationships to deliver the information or services you request.</p>
+
+<p>Our website makes forums and bulletin boards available to our users through our Personal Health Manager. Please remember that any information disclosed in these areas become public information and that you should exercise caution when deciding to disclose your personal information. CSHS reserves the right to disclose or use any user information which is already publicly available or which is posted by the user to a chat room, forum, bulletin board or other public forum.</p>
+
+<p>We also may use the personal information you provide to us to send you information that we believe may be of interest to you, based on information you may have provided to us, including newsletters, information about new medical breakthroughs and other items related to CSHS and its medical community. You do have a right to opt out of receiving this information, as described below in "Your Opt Out Right." You can visit our site without providing any personal information about yourself. However, there are a number of services that we provide which, if you wish to obtain the full benefit of those services, you must provide certain personal information.</p>
+
+<p>&nbsp;</p>
+
+<h3>Security<br>
+</h3>
+
+<p>We take precautions to ensure your information remains confidential; however, you must keep in mind as you navigate through our website that any message you may send through the website or through email is not secure and may be susceptible to third party interception. As a result, you transmit information to us at your own risk. Select pages within our site, such as those dealing with e-commerce, may run in a secure-server environment. In locations like these, where our website asks you to enter sensitive information, that information is encrypted and is protected with the encryption software SSL. While on a secure page, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked. You will be alerted to a secure page by a padlock icon on your browser and/or warning pop-up window.</p>
+
+<p>We also do everything reasonably possible to protect user information we collect. All of our users' information, not just the sensitive information, is restricted in our offices. Only individuals who need the information to perform a specific job are granted access to personal information. Access to this information is password protected. Furthermore, all personnel having access to your personal information are kept up-to-date on our security and privacy practices.</p>
+
+<p>&nbsp;</p>
+
+<h3>Cookies<br>
+</h3>
+
+<p>We may place small data files, called "cookies," in your browser's file storage area of your computer's hard drive. Cookies are a standard Internet technology that allow us to both store and retrieve login information on a user's system. A cookie is a small text file that is stored on a site visitor's computer to gather and keep track of information related to you. These cookies automatically identify your browser to our server whenever you interact with a service provided on our website. Cookies can store your preferences through a password you select to access a web site. Cookies also help us review website traffic patterns and improve our site. Most browses automatically accept these cookies, but you usually can change your browser setting to prevent the acceptance of cookies, but this may prevent you from using some of the features of our website. Information collected through cookies is not linked to any personally identifiable information.</p>
+
+<p>&nbsp;</p>
+
+<h3>Log Files<br>
+</h3>
+
+<p>We collect and log IP addresses in order to analyze site visitation trends and administer the website. An IP address is a number automatically assigned to your computer whenever you access the Internet. IP addresses allow computers and servers to recognize and communicate with one another. IP address information allows us to properly administer our system and gather aggregate information on visitors to our website help diagnose problems with our servers, and how our site is being used, including the pages visitors are viewing in the aggregate. This aggregate information may be shared with third parties, such as our physicians, our suppliers and other businesses. To maintain your anonymity, we do not associate IP addresses with records containing personal information. In other words, IP addresses are not linked to personally identifiable information.</p>
+
+<p>&nbsp;</p>
+
+<h3>Your Opt-Out Right<br>
+</h3>
+
+<p>As indicated above, CSHS may use the information you provide to send you with information and materials that we think may be of interest to you. If you do not wish to receive any further information or materials from us, such as e-mails or newsletters, you have the right to opt out of such disclosure and additional use of such information. To opt out from receiving such information or materials, you must check the appropriate box provided at the time you are requested to provide personal information. If, at a later time, you wish to change your preference, you may do so by contacting us at the address indicated below.</p>
+
+<p>&nbsp;</p>
+
+<h3>Links<br>
+</h3>
+
+<p>Our website may contains links to websites that are not operated by CSHS. You may be asked by these websites to provide personal information or to release information you may have provided on our website. You are never required to release this information, and whether you do is optional and strictly up to you. Please be aware that we are not responsible for the privacy practices of these sites, nor any adverse consequences that may result from your interaction with such third party websites. CSHS has no control or influence over the privacy practices of these other websites. This would also apply to these websites' use of cookies and other electronically collected data. We encourage you to be cautious when leaving our website and review the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy does not apply to information collected through those websites.</p>
+
+<p>&nbsp;</p>
+
+<h3>Children's Privacy Protection<br>
+</h3>
+
+<p>In accordance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), CSHS will never knowingly request personally identifiable information from anyone under the age of 13 without parental consent. When we do receive information (with parental consent) from users under the age of 13, we will not share their personally identifiable information with third parties, regardless of their stated preference given at registration.</p>
+
+<p>&nbsp;</p>
+
+<h3>Disclosures Required to Investigate Complaints or to Law Enforcement Officials<br>
+</h3>
+
+<p>CSHS may use personal information collected or in its possession to contact users in connection with their inappropriate use of our website, noncompliance with our Terms and Conditions, or in connection with a complaint filed about their use of our site by another user.</p>
+
+<p>CSHS also may disclose your personal information to another party, such as law enforcement officials, to comply with legal requirements, court orders, government or law enforcement agency requests, to protect or defend CSHS, or where we perceive an immediate danger of death or serious physical injury to someone as a result of activity on our site. Our disclosures may occur under circumstances where we may not be authorized to advise you of such action.</p>
+
+<p>&nbsp;</p>
+
+<h3>Changes to Our Privacy Policy<br>
+</h3>
+
+<p>We will notify you of changes to this Privacy Policy. If we make material changes in our Privacy Policy that do not affect user information already stored in our database, we will post a prominent notice on our website notifying users of the change. If we propose to use your personally identifiable information in a manner materially different from that stated at the time of collection we will notify you via email, and you will have a choice as to whether we may use your information in this different manner.</p>
+
+<p>&nbsp;</p>
+
+<h3>Changing or Deleting Information</h3>
+
+<p>If you wish to delete or correct your personally identifiable information obtained through this website, you may:</p>
+
+<ul>
+<li style=" margin-left: 20.0px;">Send a written request to: Webmaster, Cedars-Sinai Health System, 8700 Beverly Blvd., SSB-3, Los Angeles, CA 90048</li>
+
+<li style=" margin-left: 20.0px;">&nbsp;Send an electronic request to: webmaster@cshs.org</li>
+
+<li style=" margin-left: 20.0px;">&nbsp;<a href="http://apps.csmc.edu/ContactUs/?to_email=webmaster@cshs.org&amp;to_group=other">Submit</a> an electronic request.</li>
+
+<li style=" margin-left: 20.0px;">&nbsp;Call 1-800-CEDARS-1 and submit a verbal request.<br>
+</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h3>HealthKit</h3>
+
+<p>With your permission, certain versions of our Applications can connect to Apple HealthKit to receive health information and to share that information with your healthcare providers. Our Applications do not share your health information with HealthKit or with other HealthKit-enabled software.</p>
+
+<p>&nbsp;</p>
+
+<h3>Comments or Questions</h3>
+
+Should you have any questions regarding this privacy statement, the practices of this website, or your dealings with this website, you may contact our Webmaster.&nbsp; 
+
+<table>
+<tbody><tr>
+<td><a href="http://apps.csmc.edu/ContactUs/?to_email=webmaster@cshs.org&amp;to_group=other">Send Us a Message</a></td>
+</tr>
+</tbody></table>
+<p></p>
 </div>
 </div>
 
@@ -409,7 +510,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<li><a href="/staff-link.aspx" rel="nofollow">Staff Link</a></li>
 	<li class="last"><a href="/sitemap.html" rel="nofollow">Sitemap</a></li>
 </ul>			</nav>
-            <div id="copyright">2014 © Cedars-Sinai. All Rights Reserved. A 501(c)(3) non-profit organization</div>
+            <div id="copyright">2015 © Cedars-Sinai. All Rights Reserved. A 501(c)(3) non-profit organization</div>
         </div>
 				</nav>
 	
@@ -436,7 +537,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div id="androidAppBanner">
 		<a href="https://play.google.com/store/apps/details?id=com.axialexchange.cedars"><img alt="Android app on Google Play" src="/resources/images/androidAppLogo.png"></a>
 	</div>
-	<div id="perc_linkback" style="display:none;"> FmRnbWFlZXgHZ2Z4AWdlZWJ4BmZjYXgTZGdibWRi</div>
+	<div id="perc_linkback" style="display:none;"> FmRnbWFlZXgHZmJ4AWdlZWJ4BmZjYXgTZGdibWRi</div>
 		</div>
 	<noscript><p id="noscript">We noticed <strong>JavaScript is turned off</strong> in your browser settings.  For a better viewing experience, enable JavaScript.  If you're unsure of how to do this, <a href="http://www.google.com/chrome/" target="_blank"><strong>click here</strong></a> to download a new browser.</p></noscript>
 <!-- 128400 -->
