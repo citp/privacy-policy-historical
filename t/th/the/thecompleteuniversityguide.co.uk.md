@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecompleteuniversityguide.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074657id_/http%3A//www.thecompleteuniversityguide.co.uk/terms-and-conditions/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecompleteuniversityguide.co.uk privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207140910id_/http%3A//www.thecompleteuniversityguide.co.uk/terms-and-conditions/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - Complete University Guide
 
@@ -6,9 +6,7 @@
 
 This policy (together with our [Terms of Use](https://web.archive.org/terms-and-conditions/ "Terms and Conditions") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read this policy carefully before you use the site.
 
-For the purpose of the Data Protection Act 1998 ("Act"), the data controller is The Complete University Guide Ltd ("we" or "us") of Room 301, Hamilton House, Mabledon Place, London WC1H 9BD.
-
-Our nominated representative for the purpose of the Act is Nova J Robinson.
+For the purpose of the Data Protection Act 1998 ("Act"), the data controller is The Complete University Guide Ltd ("we" or "us") of 1st Floor, Bedford House, 69–79 Fulham High Street, London SW6 3JW. If you have a query about the use of your personal information on our site, please contact [editorial@thecompleteuniversityguide.co.uk](mailto:editorial@thecompleteuniversityguide.co.uk). We may charge a reasonable fee for such requests as permitted by law.
 
 It is very important to us that you should be able to use and enjoy the website without your privacy being compromised in any way. Please read the following to understand how your personal information will be treated. Please note that this policy may change from time to time as the website develops so please check back regularly. However, we will not reduce your rights under this privacy policy without your explicit consent. Any changes we make will be posted on this page and, if the changes are significant, we will provide a more prominent notice (including but not limited to an email notification of privacy policy changes).
 
@@ -119,7 +117,7 @@ We may disclose your personal information to third parties:
 
 #### Your Rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [www.thecompleteuniversityguide.co.uk/contact/](https://web.archive.org/contact/).
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [admin@thecompleteuniversityguide.co.uk](mailto:admin@thecompleteuniversityguide.co.uk).
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -129,8 +127,8 @@ The Act gives you the right to access information held about you. Your right of 
 
 #### Contact
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [www.thecompleteuniversityguide.co.uk/contact/](https://web.archive.org/contact/)[](mailto:nova@thecompleteuniversityguide.co.uk).
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [admin@thecompleteuniversityguide.co.uk](mailto:admin@thecompleteuniversityguide.co.uk)[](https://web.archive.org/contact/)[](mailto:nova@thecompleteuniversityguide.co.uk).
 
-The Complete University Guide Ltd, Room 301, Hamilton House, Mabledon Place, London WC1H 9BD. Registered no. 06644543. 
+The Complete University Guide Ltd, 1st Floor, Bedford House, 69–79 Fulham High Street, London SW6 3JW. Registered no. 06644543. 
 
 Next page: [Acceptable Use Policy](https://web.archive.org/terms-and-conditions/acceptable-use-policy/)
