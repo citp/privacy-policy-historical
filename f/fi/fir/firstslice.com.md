@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstslice.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602034338id_/http%3A//www.firstslice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstslice.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207114403id_/http%3A//www.firstslice.com/privacy-policy) for the most accurate reproduction.*
 
 # Firstslice.com
 
@@ -64,7 +64,7 @@ First Slice will attempt to investigate and promptly resolve any disputes or com
 
 ### 3\. Your California Privacy Rights
 
-California law permits residents of California to request certain details about what personal information a company shares with third parties for the third parties’ direct marketing purposes. First Slice does not share your information with third parties for the third parties’ own and independent direct marketing purposes. If you have any questions about what personal information First Slice may share with third parties that are not already answered in this Statement, please contact First Slice at: info@firstslicemedia.com.
+California law permits residents of California to request certain details about what personal information a company shares with third parties for the third parties’ direct marketing purposes. First Slice does not share your information with third parties for the third parties’ own and independent direct marketing purposes. If you have any questions about what personal information First Slice may share with third parties that are not already answered in this Statement, please contact First Slice at: info@firstslicemedia.com. 
 
 ### 4\. Do Not Track Requests
 
