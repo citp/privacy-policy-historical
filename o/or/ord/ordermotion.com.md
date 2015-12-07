@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ordermotion.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520095111id_/http%3A//ordermotion.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordermotion.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207235038id_/http%3A//ordermotion.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Order Management Technology and Services - OrderMotion Privacy Policy
 
@@ -88,7 +88,7 @@ Please feel free to contact us with any comments, questions, complaints or sugge
 
 ## Truste Certification
 
-OrderMotion Inc has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [www.ordermotion.com](http://www.ordermotion.com/ "www.ordermotion.com") and does not cover information that may be collected behind the log in on our website. 
+OrderMotion Inc has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [www.ordermotion.com](http://www.ordermotion.com/?ck=z_Ht3tcCAiiq2unH&vid=z_Ht3tcCAiyq2gXY&cktime=131799 "www.ordermotion.com") and does not cover information that may be collected behind the log in on our website. 
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [here](https://feedback-form.truste.com/watchdog/request "here").
 
