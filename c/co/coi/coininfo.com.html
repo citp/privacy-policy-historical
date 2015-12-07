@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coininfo.com privacy policy that was archived on 2015-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608070742id_/http%3A//www.coininfo.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coininfo.com privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207153124id_/http%3A//www.coininfo.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -8,7 +8,9 @@
 		<link rel="shortcut icon" href="/favicon.png">
 		
 		<meta name="description" content="Contact Coininfo.com">
-		<meta name="keywords" content="contact coin dealers, coin dealer directory, , precious metals, coin dealers">
+		<meta name="keywords" content="contact coin dealers, coin dealer directory, 
+Notice: Undefined variable: search in /var/www/privacy_policy.php on line 15
+, precious metals, coin dealers">
 
 		<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/main.js"></script>
 		
@@ -54,7 +56,7 @@
 				<div class="main">
 					
 					<div class="time">
-						<span id="time">Monday June 08, 2015 08:07:44 EST</span> <span id="update"><span style="font-size:.6em;">(All prices and information will update automatically every minute)</span></span>
+						<span id="time">Monday December 07, 2015 16:32:06 EST</span> <span id="update"><span style="font-size:.6em;">(All prices and information will update automatically every minute)</span></span>
 					</div>
 					
 					<h1>Privacy policy</h1>
@@ -122,7 +124,47 @@
 			  ga('create', 'UA-52628884-1', 'auto');
 			  ga('send', 'pageview');
 			
-			</script>						
+			</script>
+			<script>
+			function _gaLt(event){
+			    var el = event.srcElement || event.target;
+			
+			    /* Loop up the DOM tree through parent elements if clicked element is not a link (eg: an image inside a link) */
+			    while(el && (typeof el.tagName == 'undefined' || el.tagName.toLowerCase() != 'a' || !el.href)){
+			        el = el.parentNode;
+			    }
+			
+			    if(el && el.href){
+			        /* link */
+			        var link = el.href;
+			        if(link.indexOf(location.host) == -1 && !link.match(/^javascript\:/i)){ /* external link */
+			            /* HitCallback function to either open link in either same or new window */
+			            var hitBack = function(link, target){
+			                target ? window.open(link, target) : window.location.href = link;
+			            };
+			            /* Is target set and not _(self|parent|top)? */
+			            var target = (el.target && !el.target.match(/^_(self|parent|top)$/i)) ? el.target : false;
+			            /* send event with callback */
+			            ga(
+			                "send", "event", "Outgoing Links", link,
+			                document.location.pathname + document.location.search,
+			                {"hitCallback": hitBack(link, target)}
+			            );
+			
+			            /* Prevent standard click */
+			            event.preventDefault ? event.preventDefault() : event.returnValue = !1;
+			        }
+			
+			    }
+			}
+			
+			/* Attach the event to all clicks in the document after page has loaded */
+			var w = window;
+			w.addEventListener ? w.addEventListener("load",function(){document.body.addEventListener("click",_gaLt,!1)},!1)
+			 : w.attachEvent && w.attachEvent("onload",function(){document.body.attachEvent("onclick",_gaLt)});
+			
+			</script>
+									
 <!--VISISTAT SNIPPET//-->
 <script type="text/javascript">
 //<![CDATA[
