@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itfairsg.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627164921id_/http%3A//itfairsg.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itfairsg.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207044810id_/http%3A//itfairsg.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Singapore IT Fair Price Lists & Discussions
 
@@ -7,7 +7,7 @@
 
 This is the web site of IT Fairs Singapore Price Lists
 
-We can be reached via e-mail from the [Contact Us](https://web.archive.org/web/20150627164921id_/http%3A//itfairsg.com/contact.php) page.
+We can be reached via e-mail from the [Contact Us](https://web.archive.org/web/20151207044810id_/http%3A//itfairsg.com/contact.php) page.
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
@@ -17,7 +17,7 @@ The information we collect is used for internal review, used to improve the cont
 
 With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, customize Web page content based on visitors' browser type or other information that the visitor sends.
 
-If you do not want to receive e-mail from us in the future, please let us know by visiting us at our [Contact Us](https://web.archive.org/web/20150627164921id_/http%3A//itfairsg.com/contact.php) page. For mailing lists, visit the page where you subscribed from, enter your e-mail address and hit the Unsubscribe button.
+If you do not want to receive e-mail from us in the future, please let us know by visiting us at our [Contact Us](https://web.archive.org/web/20151207044810id_/http%3A//itfairsg.com/contact.php) page. For mailing lists, visit the page where you subscribed from, enter your e-mail address and hit the Unsubscribe button.
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
 
@@ -31,7 +31,7 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may [Contact Us](https://web.archive.org/web/20150627164921id_/http%3A//itfairsg.com/contact.php). 
+If you feel that this site is not following its stated information policy, you may [Contact Us](https://web.archive.org/web/20151207044810id_/http%3A//itfairsg.com/contact.php). 
 
   
 
