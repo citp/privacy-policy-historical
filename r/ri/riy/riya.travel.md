@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riya.travel privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609012833id_/http%3A//www.riya.travel/aboutus%3FpageID%3D18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riya.travel privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208003801id_/http%3A//www.riya.travel/aboutus%3FpageID%3D18) for the most accurate reproduction.*
 
 # Privacy Policy | Riya Travels
 
