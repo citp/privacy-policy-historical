@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the votetags.info privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609002232id_/http%3A//www.votetags.info/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the votetags.info privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207023832id_/http%3A//www.votetags.info/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies › VoteTags.info : Best Dofollow Social Bookmarking Site Where Users Can Share, Organize, Search And Manage Social Bookmarks | Sharing World Class Web Resources, Stories & News Link
 
