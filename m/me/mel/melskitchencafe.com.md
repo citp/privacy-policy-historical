@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melskitchencafe.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607223232id_/http%3A//www.melskitchencafe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melskitchencafe.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207130906id_/http%3A//www.melskitchencafe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,8 +15,7 @@ Mel’s Kitchen Cafe does not use cookies.
 Some of the advertising partners may use cookies and web beacons on Mel’s Kitchen Cafe. Our advertising partners include:
 
 Google Adsense  
-Martha’s Circle  
-Rivit Media
+Martha’s Circle
 
 These third-party ad servers or ad networks may use technology to monitor the advertisements and links that appear on Mel’s Kitchen Cafe. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
@@ -28,4 +27,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 Mel’s Kitchen Cafe uses Google Analytics Demographics and Interest Reporting. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using Google’s [Ad Settings](https://www.google.com/settings/ads) page. Users can completely block Google Analytics tracking using [Google’s Analytics Opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
 
-Mel’s Kitchen Cafe is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking http://www.melskitchencafe.com to Amazon properties including, but not limited to, amazon.com, endless.com, myhabit.com, smallparts.com, or amazonwireless.com. 
+Mel’s Kitchen Cafe is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking http://www.melskitchencafe.com to Amazon properties including, but not limited to, amazon.com, endless.com, myhabit.com, smallparts.com, or amazonwireless.com.
