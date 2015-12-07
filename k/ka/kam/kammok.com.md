@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kammok.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609032412id_/http%3A//kammok.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kammok.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208002250id_/http%3A//kammok.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Kammok | Privacy Policy
 
@@ -20,9 +20,9 @@ If we ask for your personal information for a secondary reason, like marketing, 
 
 If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at cs@kammok.com or mailing us at:
 
-> Kammok
+> Kammok HQ
 > 
-> 7301 Burnet Road #101-161 Austin Texas US 78757
+> 1404B East Riverside Drive, Suite B, Austin, TX 78741
 
 ## SECTION 3 - DISCLOSURE
 
@@ -88,10 +88,10 @@ We reserve the right to modify this privacy policy at any time, so please review
 
 ## QUESTIONS AND CONTACT INFORMATION
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at cs@kammok.com or by mail at:
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at kammokteam@kammok.com or by mail at:
 
-> Kammok
+> Kammok HQ
 > 
 > [Re: Privacy Compliance Officer]  
 > 
-> 7301 Burnet Road #101-161 Austin Texas US 78757
+> 1404B East Riverside Drive, Suite B, Austin, TX 78741
