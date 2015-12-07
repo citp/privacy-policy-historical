@@ -1,33 +1,30 @@
-> *The following text is extracted and transformed from the foodchinese.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429131326id_/http%3A//www.foodchinese.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodchinese.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207225435id_/http%3A//foodchinese.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Food? Chinese! - Chinese Restaurant Info, Menus, Coupons and More!
 
-Your privacy is very important to us. Accordingly, we have developed this policy in order for you to understand how we collect, use, communicate and make use of personal information.
+Food Chinese is fully committed to protecting our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy. Please contact us if you have any questions!
 
-## What information do we collect?
+ **General**  
+Our users are free to visit and enjoy our content at no personal obligation; users can exit the site whenever they so choose and do not need to reveal any personal information about themselves. There are some services offered that users may want to take advantage of, and it’s possible they will be required to disclose some personal information, including but not limited to, their first and last name, home address, email address, telephone numbers and birthday. It is also possible that other information will be collected on other applicable pages within our sites. If any users do choose to submit information to us directly or to a third party via our site, they can be assured that we will never sell or lease their personal information except:
 
-We collect information from you when you fill out a form or subscribe to our email list.
+1\. For special promotions which may be offered on occasion on our sites in conjunction with a third party service provider in order to fulfill any deals or promotions that the user signed up for
 
-Google uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to  our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+2\. To third party service providers we have partnered with so we may provide services our users requested
 
-## What do we use your email address for?
+3\. Following a notice posted on a relevant page on our site that collects personal information following a transaction that notifies the user and discloses the purchase  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:<http://www.networkadvertising.org/managing/opt_out.asp>
 
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+ **Cookies**  
+To make our content and site as a whole as relevant as possible, we will collect information that identifies your browser type, user agent, IP address or other information. We will never track and store any personally identifiable information. We are able to do this by placing small files or cookies on your computer when you browser through our sites. Cookies are simply small pieces of data that include an anonymous unique identifier that travels to your browser and is stored on your hard drive. Users have the ability to delete and/or clear cookies whenever they so choose, and cookies in no way cause any damage to a computer. They simply enable a more efficient, relevant browsing experience.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include unsubscribe instructions at the bottom of each email.
+ **Disclosure of User Information for Legal Purposes**  
+Federal and state laws requires that from time to time we may be obligated to share personal user information (review Cookies section) that are pursuant to judicial subpoenas or warrants. We also reserve the right to use and share personal information we collect in order to investigate and prevent any activity deemed illegal, fraudulent or may cause physical harm to another person.
 
-## Do we disclose any information to outside parties?
+ **External Links**  
+Our site’s pages will contain links to third party websites that be unrelated to the content we have created and own. Please understand that we are not responsible for the privacy practices of any and all third party companies and websites. It is always recommended to review the privacy policies of all websites you enter to ensure you are fully protected under the law.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
+ **Children**  
+Federal law mandates that we cannot collect any personally identifiable information that originates from a child under the age of thirteen without full consent from that child’s parent of guardian. Therefore we will never collect any information if we know or deem the user to be under the age of thirteen.
 
-## Third party links
-
-We may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-## Terms of Use
-
-Please also visit our Terms of Use section establishing the use, disclaimers, and limitations of liability governing the use of our website [here](http://foodchinese.com/terms).
-
-## Your Consent
-
-By using our site, you consent to our website private policy.
+ **Advertising**  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,<http://www.networkadvertising.org/managing/opt_out.asp>
