@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zuji.com.hk privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628195559id_/https%3A//www.zuji.com.hk/en-hk/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zuji.com.hk privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207151624id_/https%3A//www.zuji.com.hk/en-hk/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
