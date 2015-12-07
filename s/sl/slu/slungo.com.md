@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slungo.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610000706id_/http%3A//www.slungo.com/index.php%3Fa%3Dpage%26id%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slungo.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207200648id_/http%3A//www.slungo.com/index.php%3Fa%3Dpage%26id%3D1) for the most accurate reproduction.*
 
 # Privacy Policy - Slungo
 
