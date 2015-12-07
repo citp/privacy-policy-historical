@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanislandz.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607233045id_/http%3A//urbanislandz.com/about-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanislandz.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207015504id_/http%3A//urbanislandz.com/about-2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
