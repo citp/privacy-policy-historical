@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renu.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608045511id_/http%3A//bausch.com/reference/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renu.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207133425id_/http%3A//bausch.com/reference/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,8 +63,8 @@ Bausch + Lomb recognizes that the European Union (“EU”) has an “ominbus”
 If you have any questions about this Privacy Policy, our privacy practices or our Safe Harbor participation, please contact:
 
 Office of the Chief Privacy Officer  
-Bausch & Lomb Incorporated  
-One Bausch & Lomb Place  
-Rochester, NY 14604-2701  
+Bausch + Lomb, a Division of Valeant Pharmaceuticals North America  
+400 Somerset Corporate Boulevard  
+Bridgewater, NJ 08807  
 ph: (800) 782-5812  
 email: [dataprivacy@bausch.com](mailto:dataprivacy@bausch.com)
