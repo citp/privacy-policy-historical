@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctionstealer.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609031132id_/http%3A//www.auctionstealer.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionstealer.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208002026id_/http%3A//www.auctionstealer.com/privacy.cfm) for the most accurate reproduction.*
 
 # AuctionStealer - Free online ebay auction sniper software free ebay sniper esnipe ebay snipe site e snipe auctions ebay auction sniper site bid sniper
 
@@ -13,8 +13,6 @@ TABLE OF CONTENTS
   * CONTACT INFORMATION
 
 GENERAL OVERVIEW
-
-[](https://privacy.truste.com/privacy-seal/AuctionStealer-com-Inc-/validation?rid=09376102-e5ed-4cbf-bf09-c3451e296841 "TRUSTe online privacy certification")
 
 AuctionStealer.com, Inc. created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for this website. If we make material changes to this policy, we will notify you here, by email, or by means of a prominent notice on our login page. Privacy Policy changes will apply to the information collected from the date we post the revised Privacy Policy to the site, as well as to existing information held by us. 
 
@@ -67,10 +65,6 @@ You can access your Personal Information on the Your Profile page, update it, co
 If you request that we cancel your account, you will not be able to use any of the services available to members on our site unless you re-register. 
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services [contact us](http://www.auctionstealer.com/contact.cfm). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
-
-PRIVACY DISPUTES
-
-AuctionStealer.com Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, www.auctionstealer.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [contact our privacy officer](http://www.auctionstealer.com/contact.cfm?privacy=yes). If you are not satisfied with our response you can [contact TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 CONTACT INFORMATION
 
