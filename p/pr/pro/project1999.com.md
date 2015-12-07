@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the project1999.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608064507id_/http%3A//www.project1999.com/index.php%3Fpageid%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the project1999.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207115933id_/http%3A//www.project1999.com/index.php%3Fpageid%3Dpp) for the most accurate reproduction.*
 
 # Project 1999 - Classic Everquest - Privacy Policy
 
