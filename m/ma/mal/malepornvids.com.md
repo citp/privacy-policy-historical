@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malepornvids.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125082634id_/http%3A//tour.men.com/terms/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malepornvids.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207104036id_/http%3A//www.men.com/terms/pp) for the most accurate reproduction.*
 
 # Men.com :: Privacy Policy
 
