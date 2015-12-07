@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coolthings.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609004841id_/http%3A//www.coolthings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolthings.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207230619id_/http%3A//www.coolthings.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy
 
 At CoolThings.com (owned and operated by AdFamous LLC) we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by CoolThings.com and how we use it. We never sell your personal information to third parties. If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at privacy@coolthings.com
 
