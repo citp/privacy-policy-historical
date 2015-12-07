@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokemondeluge.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607130848id_/http%3A//www.delugerpg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokemondeluge.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207160115id_/http%3A//www.delugerpg.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DelugeRPG
 
@@ -14,7 +14,7 @@ Accounts without any email associated with their account cannot be recovered.
 
 We may delete your account if it has been more than 15 months from your last login (Please log in atleast once a year to keep your account). However, if an account has not been used since the day of registration, it may be deleted within 3 months.
 
-To catch scammers and phishers, our systems may scan messages to warn the receiver of the message. We are not responsible if your account gets stolen. [Learn how you can keep your account safe](https://www.delugerpg.info/Protecting_your_Account).
+To catch scammers and phishers, our systems may scan messages to warn the receiver of the message. We are not responsible if your account gets stolen. [Learn how you can keep your account safe](https://web.archive.org/pages/account-security).
 
 On a side node, Banned accounts will not be restored. And Deleted accounts cannot be restored.
 
