@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the minigadgets.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607145101id_/http%3A//minigadgets.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the minigadgets.com privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207143815id_/http%3A//minigadgets.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600italic,700&amp;effect=anaglyph|fire-animation|3d" rel="stylesheet" type="text/css">
@@ -210,29 +210,6 @@
             $("#top-menu li:has(ul), #top-bar li:has(ul)").doubleTapToGo(); /* Apply to CoreCommerce navigation */
         }
 
-        /* =JFG. GROUP RESPONSIVE COLUMNS - CC-2020
-        =================================================== */
-        $('.grid[class*="l-cols-"]').each(function(){
-            /* [1] Find out how many columns the user has set by reading the outputted class */
-            var userColumns = this.className.match(/l-cols-(\d+)/)[1];
-            userColumnsInt = parseInt(userColumns); /* Convert To Integer For The Sake Of Comparing */
-
-            /* [1] Find out how many columns have actually been output */
-            var actualColumns = $(this).children().size();
-            actualColumnsInt = parseInt(actualColumns); /* Convert To Integer For The Sake Of Comparing */
-
-            /* [3] Test to see if there are less columns than what the user specified */
-            if (userColumnsInt > actualColumnsInt) {
-                /* If there are… */
-                $(this).removeClass("l-cols-" + userColumnsInt); /* Remove the user defined column class because it exceeds what's there */
-                $(this).each(function(){
-                    var columnClassGrid = "l-cols-" + actualColumns;
-                    $(this).addClass(columnClassGrid); /* Add a column class for what's really there */
-                });
-            }
-        });
-
-
         /* =JFG. GROUP MODERNIZR - Modernizr-like features that every theme should get by default
         =================================================== */
         $('html').removeClass("no-js"); /* Remove the class .no-js since we know the user definitely has JavaScript enabled if this jQuery is executed - related to CC-2934 */
@@ -413,31 +390,31 @@
           </div>
         </li>
         <li>
-          <a href="/bush-baby-cameras/bush-baby-ip-2-wireless-hd-cameras/" class="element-link">Bush Baby IP 2 Wireless HD Cameras</a>
+          <a class="element-link" href="/BBWifi/">BBWifi</a>
         </li>
         <li>
-          <a href="/bush-baby-ip-cameras/" class="element-link">Bush Baby IP - On Sale!</a>
+          <a class="element-link" href="http://minigadgets.com/bush-baby-cameras/bush-baby-tv/">Bush Baby TV Cameras</a>
         </li>
         <li>
-          <a href="http://minigadgets.com/bush-baby-cameras/bush-baby-tv/" class="element-link">Bush Baby TV Cameras</a>
+          <a class="element-link" href="/bush-baby-3-1280-x-720-hd-resolution/">Bush Baby 3 - 1280 x 720 HD Resolution</a>
         </li>
         <li>
-          <a href="/bush-baby-3-1280-x-720-hd-resolution/" class="element-link">Bush Baby 3 - 1280 x 720 HD Resolution</a>
+          <a class="element-link" href="/bush-baby-2-1280-x-960-resolution-models/">Bush Baby 2 - 1280 x 960</a>
         </li>
         <li>
-          <a href="/bush-baby-2-1280-x-960-resolution-models/" class="element-link">Bush Baby 2 - 1280 x 960</a>
+          <a class="element-link" href="http://minigadgets.com/bush-baby-ip-2-wireless-hd-cameras/">Bush Baby IP 2 Wireless HD Cameras</a>
         </li>
         <li class="element-line-h">
           <hr class="line-splitter" data-width="1px" data-style="solid" data-color="#000000">
         </li>
         <li>
-          <a href="/new_arrivals.html" class="element-link">New Arrivals</a>
+          <a class="element-link" href="/new_arrivals.html">New Arrivals</a>
         </li>
         <li>
-          <a href="/out-of-stock/" class="element-link">Out of Stock</a>
+          <a class="element-link" href="/out-of-stock/">Out of Stock</a>
         </li>
         <li>
-          <a href="/discontinued/" class="element-link">Discontinued</a>
+          <a class="element-link" href="/discontinued/">Discontinued</a>
         </li>
       </ul>
       <ul class="columns-1" id="old-column-1">
@@ -450,86 +427,92 @@
           <hr class="line-splitter" data-width="1px" data-style="solid" data-color="#000000">
         </li>
         <li>
-          <a href="/accessories/" class="element-link">Accessories</a>
+          <a class="element-link" href="/accessories/">Accessories</a>
         </li>
         <li>
-          <a href="/body-worn-cameras/" class="element-link">Body Worn Cameras</a>
+          <a class="element-link" href="/body-worn-cameras/">Body Worn Cameras</a>
         </li>
         <li>
-          <a href="/bush-baby-covert-cameras/" class="element-link">Bush Baby Covert Camera</a>
+          <a class="element-link" href="/bush-baby-covert-cameras/">Bush Baby Covert Camera</a>
         </li>
         <li>
-          <a href="/camsticks/" class="element-link">Camsticks</a>
+          <a class="element-link" href="/camsticks/">Camsticks</a>
         </li>
         <li>
-          <a href="/cctv/" class="element-link">CCTV</a>
+          <a class="element-link" href="/cctv/">CCTV</a>
         </li>
         <li>
-          <a href="/cell-phone-surveillance/" class="element-link">Cell Phone Surveillance</a>
+          <a class="element-link" href="/cell-phone-surveillance/">Cell Phone Surveillance</a>
         </li>
         <li>
-          <a href="/clocks/" class="element-link">Clock Cameras</a>
+          <a class="element-link" href="/clocks/">Clock Cameras</a>
         </li>
         <li>
-          <a href="/counter-surveillance/" class="element-link">Counter Surveillance</a>
+          <a class="element-link" href="/counter-surveillance/">Counter Surveillance</a>
         </li>
       </ul>
       <ul class="columns-1" id="old-column-2">
         <li>
-          <a href="/covert-cameras/" class="element-link">Covert Cameras</a>
+          <a class="element-link" href="/covert-cameras/">Covert Cameras</a>
         </li>
         <li>
-          <a href="/dash-cameras/" class="element-link">Dash Cameras</a>
+          <a class="element-link" href="/dash-cameras/">Dash Cameras</a>
         </li>
         <li>
-          <a href="/dvr-units/" class="element-link">DVR Units</a>
+          <a class="element-link" href="/dvr-units/">DVR Units</a>
         </li>
         <li>
-          <a href="/gps-tracking/" class="element-link">GPS Tracking</a>
+          <a class="element-link" href="/gps-tracking/">GPS Tracking</a>
         </li>
         <li>
-          <a href="/identification-cards/" class="element-link">Identification Cards</a>
+          <a class="element-link" href="/identification-cards/">Identification Cards</a>
         </li>
         <li>
-          <a href="/ip-cameras/" class="element-link">IP Cameras</a>
+          <a class="element-link" href="/ip-cameras/">IP Cameras</a>
         </li>
         <li>
-          <a href="/key-chain-dvrs/" class="element-link">Key Chain DVRs</a>
+          <a class="element-link" href="/key-chain-dvrs/">Key Chain DVRs</a>
         </li>
         <li>
-          <a href="/lawmate/" class="element-link">Lawmate</a>
+          <a class="element-link" href="/lawmate/">Lawmate</a>
         </li>
         <li>
-          <a href="/miscellaneous/" class="element-link">Miscellaneous</a>
+          <a class="element-link" href="/miscellaneous/">Miscellaneous</a>
         </li>
         <li>
-          <a href="/outdoor-cameras/" class="element-link">Outdoor Cameras</a>
+          <a class="element-link" href="http://minigadgets.com/nightvision/">Nightvision</a>
         </li>
         <li>
-          <a href="/pc-surveillance/" class="element-link">PC Surveillance</a>
+          <a class="element-link" href="/outdoor-cameras/">Outdoor Cameras</a>
+        </li>
+        <li>
+          <a class="element-link" href="/pc-surveillance/">PC Surveillance</a>
         </li>
       </ul>
       <ul class="columns-1" id="old-column-3">
         <li>
-          <a href="/pen-recorders/" class="element-link">Pen Recorders</a>
+          <a class="element-link" href="/pen-recorders/">Pen Recorders</a>
         </li>
         <li>
-          <a href="/sports-cameras/" class="element-link">Sports Cameras</a>
+          <a class="element-link" href="/sports-cameras/">Sports Cameras</a>
         </li>
         <li>
-          <a href="/telephone-voice-recorders/" class="element-link">Telephone Voice Recorders</a>
+          <a class="element-link" href="/telephone-voice-recorders/">Telephone Voice Recorders</a>
         </li>
         <li>
-          <a href="/voice-changers/" class="element-link">Voice Changers</a>
+          <a class="element-link" href="/voice-changers/">Voice Changers</a>
         </li>
         <li>
-          <a href="/voice-recorders/" class="element-link">Voice Recorders</a>
+          <a class="element-link" href="/voice-recorders/">Voice Recorders</a>
         </li>
         <li>
-          <a href="/watch-dvrs/" class="element-link">Watch DVRs</a>
+          <a class="element-link" href="/watch-dvrs/">Watch DVRs</a>
         </li>
         <li>
-          <a href="/wireless-cameras/" class="element-link">Wireless Cameras</a>
+          <a class="element-link" href="/wireless-cameras/">Wireless Cameras</a>
+        </li>
+        <li>
+          <a class="element-link" href="/wifi/">WiFi</a>
         </li>
       </ul>
     </div>
@@ -539,31 +522,30 @@
     <div class="mm-submenu" id="item-1-submenu">
       <ul class="columns-1" id="old-column-4">
         <li>
-          <a href="http://minigadgets.com/become-a-reseller.html" target="_blank" class="element-link">To get information about our great dealer programs and how you can become a reseller, click here!</a>
+          <a target="_blank" class="element-link" href="http://minigadgets.com/become-a-reseller.html">To get information about our great dealer programs and how you can become a reseller, click here!</a>
         </li>
       </ul>
     </div>
   </li>
   <li id="old-item-2" class="c2">
-    <a href="/contact-us.html">Contact Us</a>
+    <a href="http://minigadgets.com/contact-us.html">Contact Us</a>
   </li>
-  <li id="old-item-3">
+  <li id="old-item-3" class="c2">
     <a href="/cart.php?m=account">My Account</a>
   </li>
 </ul>    </div>
     <div id="content">
         <div id="content-left">
             
-    <!-- BEGIN >> cart.custom_image.v1.tem.php  -->
+        <!-- BEGIN >> cart.custom_image.v1.tem.php  -->
     <div class="ccWidget ccWidgetImage widgetImages" id="widgetCustomImagesMain-4">
 
-        
-                                                                    
-                <div class="text">
+                
+                                                                <div class="text">
                     <script type="text/javascript" src="http://app.getresponse.com/view_webform.js?wid=6247104&amp;u=oHio"></script>                </div>
-                        </div>
+    </div>
     <!-- END >> cart.custom_image.v1.tem.php -->
-    <!-- BEGIN >> cart.new.arrivals.v1.tem.php -->
+        <!-- BEGIN >> cart.new.arrivals.v1.tem.php -->
     <div id="widgetNewArrivals" class="ccWidget ccWidgetProduct">
         
                     <div class="top">
@@ -572,16 +554,28 @@
         <div class="products">
                             <div class="body">
                                                                                             <div class="photo">
-                            <a href="http://minigadgets.com/dv1080m-1080p-hd-black-and-silver-pen-with-16gb-storage.html"><img class="photoClass" src="http://minigadgets.com/images/products/4754.jpg" width="110" height="125" alt="" title=""></a>
+                            <a href="http://minigadgets.com/rdwificlock-wifi-hd-clock.html"><img class="photoClass" src="http://minigadgets.com/images/products/6196.png" width="125" height="61" alt="" title=""></a>
                         </div>
 
                         <div class="product-list-item-info">
                             <div class="title">
-                                <a href="http://minigadgets.com/dv1080m-1080p-hd-black-and-silver-pen-with-16gb-storage.html">DV1080M: 1080p HD Black and Silver Pen with 16GB Storage</a>
+                                <a href="http://minigadgets.com/rdwificlock-wifi-hd-clock.html">RDWIFICLOCK- Wifi HD Clock*</a>
                             </div>
 
                             
-                            <div class="sdetailsNoImg"><a href="http://minigadgets.com/dv1080m-1080p-hd-black-and-silver-pen-with-16gb-storage.html"><img src="http://minigadgets.com/images/details.png" alt="" border="0"></a></div>                        </div> <!-- .product-list-item-info -->
+                            <div class="sdetailsNoImg"><a href="http://minigadgets.com/rdwificlock-wifi-hd-clock.html"><img src="http://minigadgets.com/images/details.png" alt="" border="0"></a></div>                        </div> <!-- .product-list-item-info -->
+
+                                                                                            <div class="photo">
+                            <a href="http://minigadgets.com/wifiwallclock-hd-wifi-wall-clock.html"><img class="photoClass" src="http://minigadgets.com/images/products/6251.jpg" width="125" height="124" alt="" title=""></a>
+                        </div>
+
+                        <div class="product-list-item-info">
+                            <div class="title">
+                                <a href="http://minigadgets.com/wifiwallclock-hd-wifi-wall-clock.html">WIFIWALLCLOCK - HD WIFI WALL CLOCK*</a>
+                            </div>
+
+                            
+                            <div class="sdetailsNoImg"><a href="http://minigadgets.com/wifiwallclock-hd-wifi-wall-clock.html"><img src="http://minigadgets.com/images/details.png" alt="" border="0"></a></div>                        </div> <!-- .product-list-item-info -->
 
                                         <div class="all-link">
                         <a href="http://minigadgets.com/new_arrivals.html">View All New Arrivals</a>
@@ -604,28 +598,28 @@
         <div class="products">
                             <div class="body">
                                                                                             <div class="photo">
-                            <a href="http://minigadgets.com/bb2outlet-bush-baby-hidden-wall-outlet-adapter.html"><img class="photoClass" src="http://minigadgets.com/images/products/3781.jpg" width="108" height="125" alt="" title=""></a>
+                            <a href="http://minigadgets.com/miniclockcam-mini-clock-camera-free-2gb-microsd.html"><img class="photoClass" src="http://minigadgets.com/images/products/1981.jpg" width="125" height="63" alt="" title=""></a>
                         </div>
 
                         <div class="product-list-item-info">
                             <div class="title">
-                                <a href="http://minigadgets.com/bb2outlet-bush-baby-hidden-wall-outlet-adapter.html">BB2Outlet: Bush Baby Hidden Wall Outlet Adapter</a>
+                                <a href="http://minigadgets.com/miniclockcam-mini-clock-camera-free-2gb-microsd.html">MiniClockCam: Mini Clock Camera* - Free 2GB microSD!</a>
                             </div>
 
                             
-                            <div class="sdetailsNoImg"><a href="http://minigadgets.com/bb2outlet-bush-baby-hidden-wall-outlet-adapter.html"><img src="http://minigadgets.com/images/details.png" alt="" border="0"></a></div>                        </div> <!-- .product-list-item-info -->
+                            <div class="sdetailsNoImg"><a href="http://minigadgets.com/miniclockcam-mini-clock-camera-free-2gb-microsd.html"><img src="http://minigadgets.com/images/details.png" alt="" border="0"></a></div>                        </div> <!-- .product-list-item-info -->
 
                                                                                             <div class="photo">
-                            <a href="http://minigadgets.com/omnitrack-gps-tracking-solution-with-1-year-service-included.html"><img class="photoClass" src="http://minigadgets.com/images/products/2091.jpg" width="125" height="124" alt="" title=""></a>
+                            <a href="http://minigadgets.com/vc300-portable-voice-changer.html"><img class="photoClass" src="http://minigadgets.com/images/products/3524.jpg" width="125" height="85" alt="" title=""></a>
                         </div>
 
                         <div class="product-list-item-info">
                             <div class="title">
-                                <a href="http://minigadgets.com/omnitrack-gps-tracking-solution-with-1-year-service-included.html">Omnitrack: GPS Tracking Solution with 1 Year Service Included</a>
+                                <a href="http://minigadgets.com/vc300-portable-voice-changer.html">VC300: Portable Voice Changer</a>
                             </div>
 
                             
-                            <div class="sdetailsNoImg"><a href="http://minigadgets.com/omnitrack-gps-tracking-solution-with-1-year-service-included.html"><img src="http://minigadgets.com/images/details.png" alt="" border="0"></a></div>                        </div> <!-- .product-list-item-info -->
+                            <div class="sdetailsNoImg"><a href="http://minigadgets.com/vc300-portable-voice-changer.html"><img src="http://minigadgets.com/images/details.png" alt="" border="0"></a></div>                        </div> <!-- .product-list-item-info -->
 
                                         <div class="all-link">
                         <a href="http://minigadgets.com/top_sellers.html">View All Top Sellers</a>
@@ -647,16 +641,16 @@
                                                     
                 <div class="body">
                     <div class="photo">
-                        <a href="http://minigadgets.com/camstickma-motion-activated-camstick.html"><img class="photoClass" src="http://minigadgets.com/images/products/571.jpg" width="119" height="125" alt="" title=""></a>
+                        <a href="http://minigadgets.com/camstickuc10sd-usb-webcam-camstick-free-2gb-microsd.html"><img class="photoClass" src="http://minigadgets.com/images/products/3772.jpg" width="125" height="121" alt="" title=""></a>
                     </div>
 
                     <div class="product-list-item-info">
                         <div class="title">
-                            <a href="http://minigadgets.com/camstickma-motion-activated-camstick.html">CamStickMA: Motion-Activated Camstick</a>
+                            <a href="http://minigadgets.com/camstickuc10sd-usb-webcam-camstick-free-2gb-microsd.html">CamStickUC10SD: USB Webcam Camstick - Free 2GB microSD!</a>
                         </div>
 
                         
-                        <div class="sdetailsNoImg"><a href="http://minigadgets.com/camstickma-motion-activated-camstick.html"><img src="http://minigadgets.com/images/details.png" alt="" border="0"></a></div>                    </div>
+                        <div class="sdetailsNoImg"><a href="http://minigadgets.com/camstickuc10sd-usb-webcam-camstick-free-2gb-microsd.html"><img src="http://minigadgets.com/images/details.png" alt="" border="0"></a></div>                    </div>
 
                     <div class="all-link">
                         <a href="http://minigadgets.com/specials.html">View All Specials</a>
