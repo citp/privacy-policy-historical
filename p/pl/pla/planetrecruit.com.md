@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetrecruit.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627205702id_/http%3A//www.fish4.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetrecruit.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207115849id_/http%3A//www.fish4.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -29,6 +29,8 @@ Fish4jobs collects personally identifiable information when you register with Fi
 Fish4jobs automatically receives and records information on our web server logs from your browser including your Internet Protocol address. Every computer on the internet has an IP address which is a unique number by which it can be identified. Fish4jobs records IP addresses for anonymous statistical purposes, administration of our website and servers, and to improve our services.
 
 Fish4jobs may set and access cookies on your computer. A cookie is a small amount of data, which often includes an anonymous unique identifier, which is sent to your browser from a website's computers and stored on your computer's hard drive. Each website can send its own cookies to your browser if your browser's preference settings allow it. To protect your privacy, your browser will only permit a website to access the cookies it has already sent to you. You can choose whether or not to accept cookies, however, if you do not accept Fish4jobs cookies, some of our services may not be available to you.
+
+Fish4jobs uses Google Analytics tagging to collect data on website activity. Users can opt-out of Google Analytics by installing a browser add-on from the following link: <https://tools.google.com/dlpage/gaoptout>. 
 
 **General information**
 
