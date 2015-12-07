@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fifplay.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608032900id_/http%3A//www.fifplay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fifplay.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207021456id_/http%3A//www.fifplay.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FIFPlay
 
@@ -15,4 +15,4 @@ The personal information we are collecting from you will help us to provide you 
 **Sharing of Information**  
 We may use your personal information to provide statistics and analyses of our users for our partners, advertisers and other third parties. 
 
-* This Privacy Policy may change from time to time and we will post all changes on this page. 
+* This Privacy Policy may change from time to time and we will post all changes on this page.
