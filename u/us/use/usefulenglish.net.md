@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usefulenglish.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608100034id_/http%3A//www.usefulenglish.net/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usefulenglish.net privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207053519id_/http%3A//www.usefulenglish.net/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UsefulEnglish.net - Active Social Bookmarking Site
 
