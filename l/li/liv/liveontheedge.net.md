@@ -1,113 +1,100 @@
-> *The following text is extracted and transformed from the liveontheedge.net privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225163038id_/http%3A//www.structuredweb.com/Policy1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveontheedge.net privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208004042id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Policy1 - StructuredWeb
+# Legal Agreement
 
-## StructuredWeb Privacy Policy.
+**GoDaddy Respects Your Privacy**
 
-  
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-StructuredWeb takes your privacy seriously. Please read the following to learn about our privacy practices.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-  
+**Information Collection and Use**
 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-****NOTICE:[Click Here](http://www.ftc.gov/site-information/privacy-policy) for important information about safe surfing from the Federal Trade Comission.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-What this Privacy Policy Covers
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-**  
-** ****
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-  * ****This Privacy Policy covers StructuredWeb's treatment of personally identifiable information that StructuredWeb collects when you are on the StructuredWeb site, and when you use StructuredWeb's services. This policy also covers StructuredWeb's treatment of any personally identifiable information that StructuredWeb's business partners share with StructuredWeb or that StructuredWeb will collect on a partner's site. This policy also covers StructuredWeb’s treatment of visitor information entered, gathered, or stored on your StructuredWeb site.****
-  * ****This policy does not apply to the practices of companies that StructuredWeb does not own or control, or to people that StructuredWeb does not employ or manage.****
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-********Information Collection and Use**  
- ******
+**Security**
 
-  * ******StructuredWeb collects personally identifiable information when you register for a StructuredWeb account, when you use certain StructuredWeb products or services, when you visit StructuredWeb pages, and when you enter promotions or sweepstakes. StructuredWeb may also receive personally identifiable information from our business partners.******
-  * ******When you register with StructuredWeb, we ask for your name, address, telephone number, and email address. Once you register with StructuredWeb and sign in to our services, you are not anonymous to us.******
-  * ******StructuredWeb also automatically receives and records information on our server logs from your browser including your IP address, StructuredWeb cookie information and the page you requested. We use this to provide continuity during your browser session.******
-  * ******StructuredWeb may collect personally identifiable information from visitors and your customers (“Site Visitors’ Information”) who specifically enter personal data on your site. You grant us a license to store, copy, and otherwise use the data as necessary or incident to providing the StructuredWeb services.******
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
+**Updating Your Information**
 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-********Information Sharing and Disclosure:**  
- ******
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-  * ******StructuredWeb may sell or rent your personally identifiable information to anyone, or send personally identifiable information about you to other companies or people when: ******
-    1. ******We have your consent to share the information;******
-    2. ******We need to share your information to provide the product or service you have requested;******
-    3. ******We need to send the information to companies who work on behalf of StructuredWeb to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.);******
-    4. ******We respond to subpoenas, court orders or legal process; or******
-    5. ******We find that your actions on our web sites violate the StructuredWeb Terms of Use or any of our usage guidelines for specific products or services.******
-  * ******You maintain the rights and ownership of customers’ or visitors’ personally identifiable information entered or stored on your site intended for your use (“Site Visitors’ Information”)******
-  * ******If desired for security purposes, upon your written request, StructuredWeb will destroy all or specified record of your “Site Visitors’ Information” if StructuredWeb is legally permitted to do so.******
-  * ******StructuredWeb will not sell or rent your “Site Visitors’ Information” to anyone except in connection with the sale of all or substantially all of StructuredWeb’s assets or other significant corporate transaction.******
-  * ******StructuredWeb may send “Site Visitors’ Information” to third parties companies or people only when: ******
-    1. ******We have your consent to share the information;******
-    2. ******We need to share your information to provide the product or service you have requested;******
-    3. ******We need to send the information to companies who work on behalf of StructuredWeb to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.);******
-    4. ******When we believe we are reasonably required to respond to subpoenas, court orders or legal process.******
-    5. ******In an emergency when we believe that someone’s physical safety is at risk.******
-    6. ******When we believe it is necessary to safeguard our own legal rights of property.******
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
+      iii.      You may call us at: (480) 505-8800
 
+       iv.      You may fax us at: (480) 505-8844
 
-********Cookies**  
- ******
+**Sending Emails**
 
-  * ******StructuredWeb may set and access StructuredWeb cookies on your computer. Our cookies are never stored on your hard disk and automatically expire when you close your browser.******
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
+**Compliance with Laws and Law Enforcement**
 
-********Your Ability to Edit and Delete Your Account Information and Preferences**  
- ******
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-  * ******StructuredWeb gives you the ability to edit your personal information and preferences at any time.******
-  * ******In order to delete your StructuredWeb Account Information, you must cancel your account by contacting StructuredChannel Service, 110 B Meadowlands Parkway, Suite 202, Secaucus, NJ 07094.******
+**Third Party Service Providers**
 
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-********Security**  
- ******
+**Supplementation of Information**
 
-  * Your StructuredWeb Account Information is password-protected.
-  * StructuredWeb uses security measures to safeguard the confidentiality of your transactions, including firewalls, Secure Sockets Layer ("SSL") encryption technology and other security standards. Your credit card number is encrypted before such information travels over the Internet.
-  * Information we collect about our users is stored on secured servers.
-  * However, keep in mind that "perfect security" does not exist.
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
+**Contests/Surveys**
 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-******Your Consent; Notification of Changes******
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-  * By using the Service, you consent to StructuredWeb's collection and use of the information described in this privacy policy. If we decide to change this privacy policy, we will post those changes via our homepage so our users are aware of what information we collect, how we use it, and under what circumstances we disclose it. If at any time we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of an email. Please check this policy from time to time to make sure that you are aware of our latest privacy policy.
+**Tell-A-Friend**
 
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
+**What Happens to my Personal Information if I Opt Out?**
 
-******Links******
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-  * The StructuredWeb Service contains links to other web sites. Please be aware that we do not control and are not responsible for the privacy practices of such other web sites. When you leave the Service, we strongly encourage you to read the privacy policies of each and every web site that you visit. This privacy policy applies solely to information collected by the Service, and we are not responsible for other web sites' use of your information.
+**Transfer of Data Abroad**
 
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
+**Changes in Our Practices**
 
-******Minors******
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-  * Minors (individuals below the age of 18) are not eligible to use the Service and no portion of the Service is directed towards minors. We do not knowingly solicit any information about minors or market to minors.
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
+**Contacting Our Site**
 
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-******Disclosures Required By Law******
+* * *
 
-  * We cooperate with law enforcement agencies in identifying those who use the Service for illegal activities. Therefore, we respond to subpoenas, warrants or other court orders regarding information concerning any users. We will, at our discretion, disclose information if we believe that we are required to do so by the law, that such disclosure is necessary to protect us from legal liability or that we should do so to protect the integrity of the Service.
-
-
-
-******Unauthorized Credit Card Charges******
-
-  * Most credit card companies cover all charges resulting from credit card fraud, or may limit your responsibility to $50, the maximum allowed under the Fair Credit Billing Act. If any unauthorized charges appear on your credit card statement with 12 months of your last StructuredWeb transaction, report this fraud to your credit card provider and contact StructuredWeb immediately.
-
-  
-
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
