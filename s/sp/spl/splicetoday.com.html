@@ -1,36 +1,30 @@
-<!--The following is the downloaded HTML source of the splicetoday.com privacy policy that was archived on 2015-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609044633id_/http%3A//www.splicetoday.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the splicetoday.com privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207133304id_/http%3A//www.splicetoday.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#"><head>
-<script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"514c464673","applicationID":"2764083","transactionName":"cFwNFUIKDQhTQx8VVlRWEE4YChUMU0MZ","queueTime":15,"applicationTime":247,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-632.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwQHUF9SGwEHUlVSDwI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+<!DOCTYPE html><html><head>
+    <meta charset="utf-8">
+<script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"514c464673","applicationID":"2764083","transactionName":"cFwNFUIKDQhTQx8VVlRWEE5AFwgSV1JJ","queueTime":3,"applicationTime":120,"agent":"js-agent.newrelic.com/nr-768.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwQHUF9SGwEHUlVSDwI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:22,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title>Splice Today | www.splicetoday.com</title>
     <link href="/favicon.ico" rel="icon" type="image/x-icon">
-    <link href="http://assets.splicetoday.com/fluidicon.png" rel="fluid-icon" title="Splice Today">
+    <link href="//assets.splicetoday.com/fluidicon.png" rel="fluid-icon" title="Splice Today">
     <link href="/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed">
     <link href="/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72">
     <link href="/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114">
     <link href="/apple-touch-icon-120x120-precomposed.png" rel="apple-touch-icon-precomposed" sizes="120x120">
     <link href="/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144">
-    <link href="http://assets.splicetoday.com/splicetoday-logo.svg" rel="logo" type="image/svg">
-    <link href="http://assets.splicetoday.com" rel="dns-prefetch"><link href="/rss/feed.atom" rel="alternate" title="ATOM" type="application/atom+xml"><link href="/rss/feed.rss" rel="alternate" title="RSS" type="application/rss+xml"><title>Privacy Policy | SPLICETODAY.com</title>
-    <meta content="Splice Today is a website featuring idiosyncratic writing and visual presentation on topics of interest and concern to an audience that values perspective over popularity. We depend on contributors..." name="description">
-    <meta content="music, pop culture, sports, moving pictures, politics, media, writing, consume, campus, sex, digital" name="keywords">
-    <meta content="Privacy Policy" property="og:title">
-    <meta content="website" property="og:type">
-    <meta content="http://www.splicetoday.com/privacy" property="og:url">
-    <meta content="Splice Today is a website featuring idiosyncratic writing and visual presentation on topics of interest and concern to an audience that values perspective over popularity. We depend on contributors who aren't getting their voices heard anywhere else. Our emphasis is weighted toward politics and the arts — music, film and books—but also includes essays and interviews about sports and the nuances of today's popular culture." property="og:description">
-    <meta content="SPLICETODAY.com" property="og:site_name">
-    <meta content="http://assets.splicetoday.com/assets/logos/splicetoday-mini-ada5f54e50acf545b8bd5a34c80faa79.png" property="og:image">
-    <meta content="Privacy Policy" property="twitter:title">
-    <meta content="http://www.splicetoday.com/privacy" property="twitter:url">
-    <meta content="Splice Today is a website featuring idiosyncratic writing and visual presentation on topics of interest and concern to an audience that values perspective over popularity. We depend on contributors who aren't getting their voices heard anywhere else. Our emphasis is weighted toward politics and the arts — music, film and books—but also includes essays and interviews about sports and the nuances of today's popular culture." property="twitter:description">
-    <meta content="http://assets.splicetoday.com/assets/logos/splicetoday-mini-ada5f54e50acf545b8bd5a34c80faa79.png" property="twitter:image"><link href="http://assets.splicetoday.com/assets/application-93f9fbd45d42383f31059838251b3f30.css" media="all" rel="stylesheet" type="text/css"><link href="http://assets.splicetoday.com/assets/print-8c80d4ca823a4616e8f29177b720af21.css" media="print" rel="stylesheet" type="text/css"><meta content="authenticity_token" name="csrf-param">
-    <meta content="bzMUlJjuG9J+WaHid3SSPPQUmc8PfgNDHO74O/fChjo=" name="csrf-token">
+    <link href="//assets.splicetoday.com/splicetoday-logo.svg" rel="logo" type="image/svg">
+    <link href="//assets.splicetoday.com" rel="dns-prefetch">
+    
+    <meta content="824588280969970" property="fb:app_id"><link rel="alternate" type="application/atom+xml" title="ATOM" href="/rss/feed.atom"><link rel="alternate" type="application/rss+xml" title="RSS" href="/rss/feed.rss"><link rel="stylesheet" media="all" href="//assets.splicetoday.com/assets/application-90f4e924d5227a07d3120def8970f5be6ba2aebb07533b4c44d33bdefc966690.css"><script src="//assets.splicetoday.com/assets/application-7ce556b73b4c08188a7e14d2938398070edcf60df09675fa8ea9cd2991453b7c.js"></script><link rel="stylesheet" media="print" href="//assets.splicetoday.com/assets/print-8bd3175116b18250969627093b461d42167402b497ad80d0f1513d5c84ab1cb9.css"><meta name="csrf-param" content="authenticity_token">
+    <meta name="csrf-token" content="pOov0021Wj2oTTcLljcL4X4jHDYU8jgP3zjqL950cW6x+76avNX2dKbcATNRxdBS6SzXzGak2Wk0jLuLsY6ECA==">
     
   </head>
-  <body class="pages-layout pages-privacy-view baltimore ">
+  <body class="pages-layout pages-privacy-view general">
     <div class="fb-root"></div>
+    <div class="flash">
+    </div>
     <div class="page">
       <div class="row cf"><header>
   <div class="container-15">
@@ -44,100 +38,100 @@
       <span class="mini-icon mini-icon-bubble"></span><a href="/comments">Recent Comments</a>
     </div>
   </div>
-  <ul><li class="comment" data-creator-id="10045" id="comment_20458"><a class="comment-link-overlay" href="/politics-and-media/op-ed-space-is-so-difficult-to-fill#comment_20458">Go to comment.</a>
+  <ul><li data-creator-id="10006" class="comment" id="comment_21681"><a class="comment-link-overlay" href="/on-campus/tarting-up-the-language#comment_21681">Go to comment.</a>
 <div class="user cf">
   <div class="user-info">
-    <a href="/profiles/subbeck">Subbeck</a>
+    <a href="/profiles/richard-aubrey">Richard Aubrey</a>
   </div>
   <div class="comment-created-at">
-    Jun 08, 2015, 09:06PM
+    Dec 05, 2015, 02:20PM
   </div>
 </div>
-<span class="icon icon-plus-thin pull-left politics-and-media-color"></span>
+<span class="icon icon-plus-thin pull-left on-campus-color"></span>
 <div class="comment-excerpt">
-  <a class="comment-link" href="/politics-and-media/op-ed-space-is-so-difficult-to-fill#comment_20458">Now that you mention Robin Hood, Russ, I kind o...</a>
+  <a class="comment-link" href="/on-campus/tarting-up-the-language#comment_21681">I suppose there's nothing wrong with learning v...</a>
 </div>
 <div class="comment-body">
-  Now that you mention Robin Hood, Russ, I kind of like that concept. I mean, I'm trying to think of some reason why I would care if a bit was taken from a billionaire who has way more than he knows what to do with and given to those who can't get a leg up. No one can tell me that this is "unfair" to the billionaire, who has benefitted greatly from the American business/legal environment and all around infrastructure. I truly don't care about billionaires. They'll be fine, even if a Bernie Sanders gets elected.
+  I suppose there's nothing wrong with learning various words which mean the same thing, or, for effect, nearly the same thing. I heard some years ago that Winston Churchill wrote an effective essay as a tour de force in which the readers did not notice he used words of only one syllable.  One crime novelist--wish I could remember who--obseved that when you quote a character and end the sentence with "...he said." you stop there.  No qualifiers.  The qualifier should be obvious.  All of which is to say, this stuff is hard.  I might go with "imbibed" if I thought the connotation was the ostentatious nature of slurping the stuff up.  But I don't know if anybody else takes it that way.  This stuff is hard.
 </div>
 <div class="comment-responses">
 </div>
 <div class="current-user-actions" data-hidden-from="creator" data-visible-to="signed-in-user">
   <div class="comment-actions cf">
     <div class="respond-to-comment left">
-      <a href="#" rel="nofollow">
+      <a rel="nofollow" href="#">
             <div class="mini-label">
               <div class="mini-icon mini-icon-double-bubble"></div>
               Respond to comment
             </div></a>
     </div>
     <div class="flag-comment right">
-      <a href="/comments/20458/flag" data-confirm="Are you sure you want to flag this comment?" data-method="put" data-remote="true" rel="nofollow">
+      <a rel="nofollow" confirm="Are you sure you want to flag this comment?" data-remote="true" data-method="put" href="/comments/21681/flag">
             <div class="mini-label">
               <div class="mini-icon mini-icon-flag"></div>
               Flag
             </div></a>
     </div>
   </div>
-  <div class="new-comment-response hide cf"><form accept-charset="UTF-8" action="/comments" class="simple_form new_comment" data-remote="true" id="comment_20458_new_comment" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="iWNE7ES5GMbpGEOxVwUJNHrB8R1DQKWzpYdXEn17R70="></div>
-    <input id="comment_20458_comment_parent_id" name="comment[parent_id]" type="hidden" value="20458"><input id="comment_20458_comment_post_id" name="comment[post_id]" type="hidden" value="17802"><div class="control-group text optional comment_body comment-body-input"><div class="controls"><textarea class="text optional" cols="40" id="comment_20458_comment_body" name="comment[body]" rows="20"></textarea></div></div><input class="mini-button dark-grey pill" data-disable-with="Posting..." name="commit" type="submit" value="Post It"></form>
+  <div class="new-comment-response hide cf"><form novalidate="novalidate" class="simple_form new_comment" id="comment_21681_new_comment" action="/comments" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="✓">
+    <input value="21681" type="hidden" name="comment[parent_id]" id="comment_21681_comment_parent_id"><input value="18722" type="hidden" name="comment[post_id]" id="comment_21681_comment_post_id"><div class="form-group text optional comment_body comment-body-input"><textarea class="text optional form-control" name="comment[body]" id="comment_21681_comment_body"></textarea></div><input type="submit" name="commit" value="Post It" class="mini-button dark-grey pill" disable_with="Posting..."></form>
   </div>
-</div></li><li class="comment" data-creator-id="10045" id="comment_20457"><a class="comment-link-overlay" href="/politics-and-media/op-ed-space-is-so-difficult-to-fill#comment_20457">Go to comment.</a>
+</div></li><li data-creator-id="10139" class="comment" id="comment_21680"><a class="comment-link-overlay" href="/pop-culture/dreaming-of-what-will-never-be#comment_21680">Go to comment.</a>
 <div class="user cf">
   <div class="user-info">
-    <a href="/profiles/subbeck">Subbeck</a>
+    <a href="/profiles/alan-cabal">Alan Cabal</a>
   </div>
   <div class="comment-created-at">
-    Jun 08, 2015, 08:05PM
+    Dec 05, 2015, 12:53PM
   </div>
 </div>
-<span class="icon icon-plus-thin pull-left politics-and-media-color"></span>
+<span class="icon icon-plus-thin pull-left pop-culture-color"></span>
 <div class="comment-excerpt">
-  <a class="comment-link" href="/politics-and-media/op-ed-space-is-so-difficult-to-fill#comment_20457">If economic progress is defined strictly by GDP...</a>
+  <a class="comment-link" href="/pop-culture/dreaming-of-what-will-never-be#comment_21680">Whenever I hear "Imagine", I need to follow it ...</a>
 </div>
 <div class="comment-body">
-  If economic progress is defined strictly by GDP, I wonder how much progress it really is. 
+  Whenever I hear "Imagine", I need to follow it with Sid Vicious. I wish he'd covered it.
 </div>
 <div class="comment-responses">
 </div>
 <div class="current-user-actions" data-hidden-from="creator" data-visible-to="signed-in-user">
   <div class="comment-actions cf">
     <div class="respond-to-comment left">
-      <a href="#" rel="nofollow">
+      <a rel="nofollow" href="#">
             <div class="mini-label">
               <div class="mini-icon mini-icon-double-bubble"></div>
               Respond to comment
             </div></a>
     </div>
     <div class="flag-comment right">
-      <a href="/comments/20457/flag" data-confirm="Are you sure you want to flag this comment?" data-method="put" data-remote="true" rel="nofollow">
+      <a rel="nofollow" confirm="Are you sure you want to flag this comment?" data-remote="true" data-method="put" href="/comments/21680/flag">
             <div class="mini-label">
               <div class="mini-icon mini-icon-flag"></div>
               Flag
             </div></a>
     </div>
   </div>
-  <div class="new-comment-response hide cf"><form accept-charset="UTF-8" action="/comments" class="simple_form new_comment" data-remote="true" id="comment_20457_new_comment" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="7haqjEncLe6nnJ42Zm5goBYgPxc9xDJWvAFJ6B4pJuo="></div>
-    <input id="comment_20457_comment_parent_id" name="comment[parent_id]" type="hidden" value="20457"><input id="comment_20457_comment_post_id" name="comment[post_id]" type="hidden" value="17802"><div class="control-group text optional comment_body comment-body-input"><div class="controls"><textarea class="text optional" cols="40" id="comment_20457_comment_body" name="comment[body]" rows="20"></textarea></div></div><input class="mini-button dark-grey pill" data-disable-with="Posting..." name="commit" type="submit" value="Post It"></form>
+  <div class="new-comment-response hide cf"><form novalidate="novalidate" class="simple_form new_comment" id="comment_21680_new_comment" action="/comments" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="✓">
+    <input value="21680" type="hidden" name="comment[parent_id]" id="comment_21680_comment_parent_id"><input value="18740" type="hidden" name="comment[post_id]" id="comment_21680_comment_post_id"><div class="form-group text optional comment_body comment-body-input"><textarea class="text optional form-control" name="comment[body]" id="comment_21680_comment_body"></textarea></div><input type="submit" name="commit" value="Post It" class="mini-button dark-grey pill" disable_with="Posting..."></form>
   </div>
-</div></li><li class="comment" data-creator-id="10" id="comment_20456"><a class="comment-link-overlay" href="/politics-and-media/op-ed-space-is-so-difficult-to-fill#comment_20456">Go to comment.</a>
+</div></li><li data-creator-id="10" class="comment" id="comment_21679"><a class="comment-link-overlay" href="/pop-culture/dreaming-of-what-will-never-be#comment_21679">Go to comment.</a>
 <div class="user cf">
   <div class="user-info">
     <a href="/profiles/russ">russ</a>
     <div class="splice-staff">
-      <img alt="Splice-staff" src="http://assets.splicetoday.com/assets/badges/splice-staff-e849e0d73288e8ed9184fab80417dac9.png">
+      <img src="//assets.splicetoday.com/assets/badges/splice-staff-661fca4ff5f329ef70acdf962d2d22e3ab4dfe701570c76436503c4f630a4ae0.png" alt="Splice staff 661fca4ff5f329ef70acdf962d2d22e3ab4dfe701570c76436503c4f630a4ae0">
     </div>
   </div>
   <div class="comment-created-at">
-    Jun 08, 2015, 07:59PM
+    Dec 04, 2015, 04:21PM
   </div>
 </div>
-<span class="icon icon-plus-thin pull-left politics-and-media-color"></span>
+<span class="icon icon-plus-thin pull-left pop-culture-color"></span>
 <div class="comment-excerpt">
-  <a class="comment-link" href="/politics-and-media/op-ed-space-is-so-difficult-to-fill#comment_20456">Oh sure, Chris, a Robin Hood is just what the U...</a>
+  <a class="comment-link" href="/pop-culture/dreaming-of-what-will-never-be#comment_21679">And when you pledge allegiance to President Tru...</a>
 </div>
 <div class="comment-body">
-  Oh sure, Chris, a Robin Hood is just what the U.S. needs to finally make real economic progress. 
+  And when you pledge allegiance to President Trump, things will be stranger still (on your trips to USA).
 </div>
 <div class="comment-responses">
   <div class="response-to cf">
@@ -145,8 +139,8 @@
       In response to
     </div>
     <ul>
-      <li class="response"><a href="#comment_20455" data-smooth-scroll="true">
-          Subbeck Jun 08, 2015, 05:14PM</a>
+      <li class="response"><a data-smooth-scroll="true" href="#comment_21678">
+          C.T. May Dec 04, 2015, 04:16PM</a>
       </li>
     </ul>
   </div>
@@ -154,27 +148,27 @@
 <div class="current-user-actions" data-hidden-from="creator" data-visible-to="signed-in-user">
   <div class="comment-actions cf">
     <div class="respond-to-comment left">
-      <a href="#" rel="nofollow">
+      <a rel="nofollow" href="#">
             <div class="mini-label">
               <div class="mini-icon mini-icon-double-bubble"></div>
               Respond to comment
             </div></a>
     </div>
     <div class="flag-comment right">
-      <a href="/comments/20456/flag" data-confirm="Are you sure you want to flag this comment?" data-method="put" data-remote="true" rel="nofollow">
+      <a rel="nofollow" confirm="Are you sure you want to flag this comment?" data-remote="true" data-method="put" href="/comments/21679/flag">
             <div class="mini-label">
               <div class="mini-icon mini-icon-flag"></div>
               Flag
             </div></a>
     </div>
   </div>
-  <div class="new-comment-response hide cf"><form accept-charset="UTF-8" action="/comments" class="simple_form new_comment" data-remote="true" id="comment_20456_new_comment" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="N5OI//bpGeQKQUPm8QeviurkhpU0BlVafAXdZguCWPE="></div>
-    <input id="comment_20456_comment_parent_id" name="comment[parent_id]" type="hidden" value="20456"><input id="comment_20456_comment_post_id" name="comment[post_id]" type="hidden" value="17802"><div class="control-group text optional comment_body comment-body-input"><div class="controls"><textarea class="text optional" cols="40" id="comment_20456_comment_body" name="comment[body]" rows="20"></textarea></div></div><input class="mini-button dark-grey pill" data-disable-with="Posting..." name="commit" type="submit" value="Post It"></form>
+  <div class="new-comment-response hide cf"><form novalidate="novalidate" class="simple_form new_comment" id="comment_21679_new_comment" action="/comments" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="✓">
+    <input value="21679" type="hidden" name="comment[parent_id]" id="comment_21679_comment_parent_id"><input value="18740" type="hidden" name="comment[post_id]" id="comment_21679_comment_post_id"><div class="form-group text optional comment_body comment-body-input"><textarea class="text optional form-control" name="comment[body]" id="comment_21679_comment_body"></textarea></div><input type="submit" name="commit" value="Post It" class="mini-button dark-grey pill" disable_with="Posting..."></form>
   </div>
 </div></li>
   </ul>
   <div class="recent-comments-pagination">
-    <span class="controls"><i class="mini-icon mini-icon-arrow-left muted"></i><a href="/comments?page=2" class="next" data-remote="true" rel="next"><i class="mini-icon mini-icon-arrow-right"></i></a></span><span class="mini-label"><a href="/comments" class="more-comments-link">More Comments</a></span>
+    <span class="controls"><i class="mini-icon mini-icon-arrow-left muted"></i><a rel="next" class="next" data-remote="true" href="/comments?page=2"><i class="mini-icon mini-icon-arrow-right"></i></a></span><span class="mini-label"><a class="more-comments-link" href="/comments">More Comments</a></span>
   </div>
 </aside>
       <div class="splice-archive">
@@ -183,9 +177,9 @@
         </div>
       </div>
       <div class="search-splice-form">
-        <form accept-charset="UTF-8" action="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+        <form data-autocomplete="true" action="/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
           <div class="query-input">
-            <input class="search-query" data-autocomplete-source="/search" id="q" name="q" placeholder="Search Splice" type="text">
+            <input type="text" name="q" id="q" placeholder="Search Splice" class="query">
           </div>
           <div class="submit">
             <button type="submit">Search</button>
@@ -193,39 +187,40 @@
       </div>
     </div>
     <div class="span-8">
-      <div class="logo invisible"><a href="/">
-          <img alt="Splice Today Logo" height="200" src="http://assets.splicetoday.com/uploads/logos/20/large_clouds1.png" width="530"><img alt="Splicetoday-print" class="print" height="65" src="http://assets.splicetoday.com/assets/logos/splicetoday-print-3a30b4a78bfdcce2946c618a7e8a68e8.gif" width="233"></a>
-      </div><div class="featured-posts ui-tabs" id="featured-posts">
+      <div class="logo"><a href="/">
+                <img alt="Splice Today Logo" class="hidden-print" src="http://www.splicetoday.com/logos/20.svg?department=general" width="530" height="200"><img class="visible-print-block" src="//assets.splicetoday.com/assets/logos/splicetoday-04864a89f33232d31f8c30dfb79ae0f62ec5ab486fe26690b7aeb82b9462902a.svg" alt="Splicetoday 04864a89f33232d31f8c30dfb79ae0f62ec5ab486fe26690b7aeb82b9462902a" width="285" height="75"></a>
+      </div>
+      <div class="featured-posts ui-tabs" id="featured-posts">
         <ul>
           <li>
-            <a href="#featured-post-17797">Martin O’Malley Outgunned as Populist Candidate</a>
+            <a href="#featured-post-18728">Media Misgenders Assault Victim</a>
           </li><li>
-            <a href="#featured-post-17793">The Rise and Fall of Silk Road's Dread Pirate Roberts</a>
+            <a href="#featured-post-18720">The Modern Illness</a>
           </li><li>
-            <a href="#featured-post-17790">The Delusion of Wealth</a>
+            <a href="#featured-post-18716">When Dogs Run to Santa</a>
           </li>
         </ul>
-        <div class="featured-post ui-tabs-hide" id="featured-post-17797">
+        <div class="featured-post ui-tabs-hide" id="featured-post-18728">
           <span class="icon icon-plus-thin pull-left politics-and-media-color"></span>
           <div class="featured-title">
-            <a href="/politics-and-media/martin-o-malley-outgunned-as-populist-candidate">Martin O’Malley Outgunned as Populist Candidate</a> We now know why Martin O’Malley is...
+            <a href="/politics-and-media/media-misgenders-assault-victim">Media Misgenders Assault Victim</a> At about four a.m. on Sunday, November 29th, Kathy...
           </div>
-        </div><div class="featured-post ui-tabs-hide" id="featured-post-17793">
-          <span class="icon icon-plus-thin pull-left digital-color"></span>
-          <div class="featured-title">
-            <a href="/digital/the-rise-and-fall-of-silk-road-s-dread-pirate-roberts">The Rise and Fall of Silk Road's Dread Pirate Roberts</a> "I've had my youth, and I kn...
-          </div>
-        </div><div class="featured-post ui-tabs-hide" id="featured-post-17790">
+        </div><div class="featured-post ui-tabs-hide" id="featured-post-18720">
           <span class="icon icon-plus-thin pull-left writing-color"></span>
           <div class="featured-title">
-            <a href="/writing/the-delusion-of-wealth">The Delusion of Wealth</a> I’m spending more time with animals than people lately. The...
+            <a href="/writing/the-modern-illness">The Modern Illness</a> I'm sitting down. The laptop is open. The browser once again is...
+          </div>
+        </div><div class="featured-post ui-tabs-hide" id="featured-post-18716">
+          <span class="icon icon-plus-thin pull-left writing-color"></span>
+          <div class="featured-title">
+            <a href="/writing/when-dogs-run-to-santa">When Dogs Run to Santa</a> Live long enough and you let the minor irritations of moder...
           </div>
         </div>
       </div>
     </div>
     <div class="span-4 omega">
-      <div class="sign-in-user-form cf"><form accept-charset="UTF-8" action="/profile/login" class="simple_form new_user" id="mini_sign_in_form" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="bzMUlJjuG9J+WaHid3SSPPQUmc8PfgNDHO74O/fChjo="></div>
-          <div class="control-group string optional user_login login-input"><label class="string optional control-label" for="user_login">Login</label><div class="controls"><input class="string optional" id="user_login" name="user[login]" size="15" tabindex="1" type="text"></div></div><div class="control-group password optional user_password password-input"><label class="password optional control-label" for="user_password">PASS <a href="/profile/password/new" class="forgot">FORGOT?</a></label><div class="controls"><input class="password optional" id="user_password" name="user[password]" size="15" tabindex="2" type="password"></div></div><a href="/profile/sign_up" class="new-user">NEW USER?</a><input class="submit-button mini-button dark-grey pill" data-disable-with="Logging In..." name="commit" tabindex="3" type="submit" value="Login"></form>
+      <div class="sign-in-user-form cf"><form role="form" id="mini_sign_in_form" novalidate="novalidate" class="simple_form new_user" action="/profile/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="fKGDdb2WC/xic31IUE+oRF0YWP0pJSRt3HlIklBpPMZpsBI8TPantWziS3CXvXP3yheTB1tzxQs3zRk2P5PJoA==">
+          <div class="form-group string optional user_login login-input"><label class="string optional control-label" for="user_login">Login</label><input tabindex="1" class="string optional form-control" type="text" name="user[login]" id="user_login"></div><div class="form-group password optional user_password password-input"><label class="password optional control-label" for="user_password">PASS <a href="/profile/password/new" class="forgot">FORGOT?</a></label><input tabindex="2" class="password optional form-control" type="password" name="user[password]" id="user_password"></div><a class="new-user" href="/profile/sign_up">NEW USER?</a><input type="submit" name="commit" value="Login" class="btn btn-default submit-button mini-button dark-grey pill" tabindex="3" data-disable-with="Logging In..."></form>
       </div><div class="subnav">
         <ul>
           <li class="about-splice">
@@ -235,13 +230,13 @@
           </li>
           <li class="follow-splice">
             <div class="mini-label">
-              <span class="icon icon-plus-thin pull-left general-color"></span><span class="label">Follow Splice<a href="https://www.facebook.com/SpliceToday" class="facebook-icon" target="_blank">Splicetoday on Facebook</a><a href="https://twitter.com/splicetoday" class="twitter-icon" target="_blank">Splicetoday on Twitter</a></span>
+              <span class="icon icon-plus-thin pull-left general-color"></span><span class="label">Follow Splice<a class="facebook-icon" target="_blank" href="https://www.facebook.com/SpliceToday">Splicetoday on Facebook</a><a class="twitter-icon" target="_blank" href="https://twitter.com/splicetoday">Splicetoday on Twitter</a></span>
             </div>
           </li>
         </ul>
         <div class="ad ad-zone-01">
-          <script async="async" src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="text/javascript"></script><ins class="adsbygoogle" data-ad-client="ca-pub-3043784346183942" data-ad-slot="9161167644" style="display:inline-block;width:180px;height:150px"></ins>
-          <script type="text/javascript">
+          <script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" async="async"></script><ins class="adsbygoogle" data-ad-client="ca-pub-3043784346183942" data-ad-slot="9161167644" style="display:inline-block;width:180px;height:150px"></ins>
+          <script>
             (adsbygoogle = window.adsbygoogle || []).push({});
           </script>
         </div>
@@ -263,58 +258,58 @@
                 <li class="department music" id="department_1"><div class="mini-label">
                   <span class="icon icon-plus-thick music-color"></span><a href="/music">Music</a>
                 </div>
-                <div class="most-recent-post"><a href="/music/splice-presents-height-zone-world-ep-45-height-spinning-tunes-4">
-                    Splice Presents: Height Zon...</a>
+                <div class="most-recent-post"><a href="/music/le-jerks-of-rock">
+                    Lé Jerks of Rock</a>
                 </div></li><li class="department pop-culture" id="department_2"><div class="mini-label">
                   <span class="icon icon-plus-thick pop-culture-color"></span><a href="/pop-culture">Pop Culture</a>
                 </div>
-                <div class="most-recent-post"><a href="/pop-culture/art-spiegelman-speaks-for-you">
-                    Art Spiegelman Speaks for You</a>
+                <div class="most-recent-post"><a href="/pop-culture/oh-look-at-that">
+                    Oh, Look at That</a>
                 </div></li><li class="department sports" id="department_3"><div class="mini-label">
                   <span class="icon icon-plus-thick sports-color"></span><a href="/sports">Sports</a>
                 </div>
-                <div class="most-recent-post"><a href="/sports/upset-on-the-red-clay-in-paris">
-                    Upset on the Red Clay in Paris</a>
+                <div class="most-recent-post"><a href="/sports/the-black-mamba-stayed-too-long">
+                    The Black Mamba Stayed Too ...</a>
                 </div></li><li class="department moving-pictures" id="department_4"><div class="mini-label">
                   <span class="icon icon-plus-thick moving-pictures-color"></span><a href="/moving-pictures">Moving Pictures</a>
                 </div>
-                <div class="most-recent-post"><a href="/moving-pictures/wes-anderson-s-the-shining">
-                    Wes Anderson's The Shining</a>
+                <div class="most-recent-post"><a href="/moving-pictures/everyone-is-on-project-runway">
+                    Everyone Is On Project Runway</a>
                 </div></li><li class="department politics-and-media" id="department_5"><div class="mini-label">
                   <span class="icon icon-plus-thick politics-and-media-color"></span><a href="/politics-and-media">Politics &amp; Media</a>
                 </div>
-                <div class="most-recent-post"><a href="/politics-and-media/op-ed-space-is-so-difficult-to-fill">
-                    Op-Ed Space is So Difficult...</a>
+                <div class="most-recent-post"><a href="/politics-and-media/van-hollen-favorite-to-succeed-mikulski-in-maryland">
+                    Van Hollen Favorite to Succ...</a>
                 </div></li><li class="department writing" id="department_7"><div class="mini-label">
                   <span class="icon icon-plus-thick writing-color"></span><a href="/writing">Writing</a>
                 </div>
-                <div class="most-recent-post"><a href="/writing/goodbye-to-all-the-stuff">
-                    Goodbye to All the Stuff</a>
+                <div class="most-recent-post"><a href="/writing/pretending-to-believe-in-santa">
+                    Pretending to Believe in Santa</a>
                 </div></li><li class="department consume" id="department_11"><div class="mini-label">
                   <span class="icon icon-plus-thick consume-color"></span><a href="/consume">Consume</a>
                 </div>
-                <div class="most-recent-post"><a href="/consume/in-every-system-there-are-loopholes">
-                    In Every System There Are L...</a>
+                <div class="most-recent-post"><a href="/consume/hair-of-the-tomato">
+                    Hair of the Tomato</a>
                 </div></li><li class="department on-campus" id="department_9"><div class="mini-label">
                   <span class="icon icon-plus-thick on-campus-color"></span><a href="/on-campus">On Campus</a>
                 </div>
-                <div class="most-recent-post"><a href="/on-campus/where-the-current-meets-the-tide">
-                    Where the Current Meets the...</a>
+                <div class="most-recent-post"><a href="/on-campus/tarting-up-the-language">
+                    Tarting Up the Language</a>
                 </div></li><li class="department sex" id="department_10"><div class="mini-label">
                   <span class="icon icon-plus-thick sex-color"></span><a href="/sex">Sex</a>
                 </div>
-                <div class="most-recent-post"><a href="/sex/the-day-my-dad-told-me-he-was-gay">
-                    The Day My Dad Told Me He W...</a>
+                <div class="most-recent-post"><a href="/sex/how-to-tell-a-gay-story">
+                    How to Tell a Gay Story</a>
                 </div></li><li class="department digital" id="department_6"><div class="mini-label">
                   <span class="icon icon-plus-thick digital-color"></span><a href="/digital">Digital</a>
                 </div>
-                <div class="most-recent-post"><a href="/digital/the-rise-and-fall-of-silk-road-s-dread-pirate-roberts">
-                    The Rise and Fall of Silk R...</a>
+                <div class="most-recent-post"><a href="/digital/gawker-grovels-while-michael-wolff-vents">
+                    Gawker Grovels While Michae...</a>
                 </div></li><li class="department baltimore" id="department_8"><div class="mini-label">
                   <span class="icon icon-plus-thick baltimore-color"></span><a href="/baltimore">Baltimore</a>
                 </div>
-                <div class="most-recent-post"><a href="/baltimore/there-is-no-miracle-in-anarchy">
-                    There Is No Miracle in Anarchy</a>
+                <div class="most-recent-post"><a href="/baltimore/baltimore-s-upcoming-mayoral-primary-a-jumble-of-race-and-gender">
+                    Baltimore’s Upcoming Mayora...</a>
                 </div></li><li class="department mixtape" id="department_13"><div class="mini-label">
                   <span class="icon icon-plus-thick mixtape-color"></span><a href="/mixtape">Mixtape</a>
                 </div>
@@ -341,42 +336,41 @@
               <div id="articles-with-the-most-views">
                 <ul class="articles">
                   <li>
-                    <span class="icon icon-plus-thin pull-left writing-color"></span><a href="/writing/the-majesty-of-the-midwest">The Majesty of the Midwest</a>
+                    <span class="icon icon-plus-thin pull-left politics-and-media-color"></span><a href="/politics-and-media/why-the-atlantic-doesn-t-want-me-anymore">Why The Atlantic Doesn't Want Me Anymore</a>
                   </li><li>
-                    <span class="icon icon-plus-thin pull-left politics-and-media-color"></span><a href="/politics-and-media/islam-criticize-it-and-you-re-a-bigot">Islam: Criticize It And You're A Bigot</a>
+                    <span class="icon icon-plus-thin pull-left politics-and-media-color"></span><a href="/politics-and-media/middle-east-still-poses-greatest-american-terrorism-threat">Middle East Still Poses Greatest American Terrorism Threat</a>
                   </li><li>
-                    <span class="icon icon-plus-thin pull-left writing-color"></span><a href="/writing/the-torturer-nurse">The Torturer Nurse</a>
+                    <span class="icon icon-plus-thin pull-left politics-and-media-color"></span><a href="/politics-and-media/another-side-of-howard-stern">Another Side of Howard Stern</a>
                   </li><li>
-                    <span class="icon icon-plus-thin pull-left sports-color"></span><a href="/sports/birth-of-the-newts">Birth of the Newts</a>
+                    <span class="icon icon-plus-thin pull-left on-campus-color"></span><a href="/on-campus/tarting-up-the-language">Tarting Up the Language</a>
                   </li><li>
-                    <span class="icon icon-plus-thin pull-left sports-color"></span><a href="/sports/the-limbo-how-low-can-the-red-sox-go">The Limbo: How Low Can the Red Sox Go?</a>
+                    <span class="icon icon-plus-thin pull-left politics-and-media-color"></span><a href="/politics-and-media/hamilton">Hamilton!</a>
                   </li>
                 </ul>
               </div>
               <div class="ui-tabs-hide" id="articles-with-the-most-comments">
                 <ul class="articles">
                   <li>
-                    <span class="icon icon-plus-thin pull-left politics-and-media-color"></span><a href="/politics-and-media/islam-criticize-it-and-you-re-a-bigot">Islam: Criticize It And You're A Bigot</a>
+                    <span class="icon icon-plus-thin pull-left politics-and-media-color"></span><a href="/politics-and-media/middle-east-still-poses-greatest-american-terrorism-threat">Middle East Still Poses Greatest American Terrorism Threat</a>
                   </li><li>
-                    <span class="icon icon-plus-thin pull-left writing-color"></span><a href="/writing/pretzel-logic">Pretzel Logic</a>
+                    <span class="icon icon-plus-thin pull-left politics-and-media-color"></span><a href="/politics-and-media/rove-vs-trump-can-t-they-both-lose">Rove vs. Trump: Can’t They Both Lose?</a>
                   </li><li>
-                    <span class="icon icon-plus-thin pull-left politics-and-media-color"></span><a href="/politics-and-media/people-don-t-like-free-speech-anymore">People Don't Like Free Speech Anymore</a>
+                    <span class="icon icon-plus-thin pull-left politics-and-media-color"></span><a href="/politics-and-media/why-the-atlantic-doesn-t-want-me-anymore">Why The Atlantic Doesn't Want Me Anymore</a>
                   </li><li>
-                    <span class="icon icon-plus-thin pull-left writing-color"></span><a href="/writing/express-lane-to-limbo">Express Lane to Limbo</a>
+                    <span class="icon icon-plus-thin pull-left pop-culture-color"></span><a href="/pop-culture/loosen-up-bieber-baby">Loosen Up, Bieber Baby</a>
                   </li><li>
-                    <span class="icon icon-plus-thin pull-left politics-and-media-color"></span><a href="/politics-and-media/nicholas-kristof-s-breathtaking-naivete">Nicholas Kristof’s Breathtaking Naiveté </a>
+                    <span class="icon icon-plus-thin pull-left music-color"></span><a href="/music/adele-just-moved-millions-of-units-without-streaming">Adele Just Moved Millions of Units Without Streaming</a>
                   </li>
                 </ul>
               </div>
             </div><div class="ad ad-zone-02">
-              <script async="async" src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="text/javascript"></script><ins class="adsbygoogle" data-ad-client="ca-pub-3043784346183942" data-ad-slot="4991252811" style="display:inline-block;width:160px;height:600px"></ins>
-              <script type="text/javascript">
+              <script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" async="async"></script><ins class="adsbygoogle" data-ad-client="ca-pub-3043784346183942" data-ad-slot="4991252811" style="display:inline-block;width:160px;height:600px"></ins>
+              <script>
                 (adsbygoogle = window.adsbygoogle || []).push({});
               </script>
             </div>
           </div>
           <div class="span-12 content-column">
-            
             <div class="main" role="main">
               <div class="border-top">
                 <div class="span-8 alpha">
@@ -451,7 +445,7 @@
                       What Information Can I Access?
                     </h3>
                     <p>
-                      You can access your personal information on our website and send an email to <a href="mailto:%7a%6b%61%75%66%31@%67%6d%61%69%6c.%63%6f%6d">Zach Kaufmann</a>to correct, amend, or delete information that is inaccurate.
+                      You can access your personal information on our website and send an email to <a encode="hex" href="mailto:zkauf1@gmail.com">Zach Kaufmann</a>to correct, amend, or delete information that is inaccurate.
                     </p>
                     <h3>
                       What Choices Do I Have?
@@ -463,7 +457,7 @@
                       You are able to add or update certain information on pages, such as those listed in the "What Personal Information About Users Does SpliceToday Collect?" section above. When you update information, however, we often maintain a copy of the unrevised information in our records.
                     </p>
                     <p>
-                      You may request deletion of your SpliceToday account by sending an email to <a href="mailto:%7a%6b%61%75%66%31@%67%6d%61%69%6c.%63%6f%6d">Zach Kaufmann</a>. This removes all of your past SpliceToday usage from public view.
+                      You may request deletion of your SpliceToday account by sending an email to <a encode="hex" href="mailto:zkauf1@gmail.com">Zach Kaufmann</a>. This removes all of your past SpliceToday usage from public view.
                     </p>
                     <p>
                       As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features.
@@ -498,8 +492,8 @@
         <div class="container-15">
           <div class="span-15">
             <div class="ad ad-zone-03">
-              <script async="async" src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="text/javascript"></script><ins class="adsbygoogle" data-ad-client="ca-pub-3043784346183942" data-ad-slot="1440355646" style="display:inline-block;width:728px;height:90px"></ins>
-              <script type="text/javascript">
+              <script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" async="async"></script><ins class="adsbygoogle" data-ad-client="ca-pub-3043784346183942" data-ad-slot="1440355646" style="display:inline-block;width:728px;height:90px"></ins>
+              <script>
                 (adsbygoogle = window.adsbygoogle || []).push({});
               </script>
             </div>
@@ -562,28 +556,18 @@
         </div>
       </div>
     </div>
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
-    <script type="text/javascript">
-    //<![CDATA[
-    window.jQuery || document.write(unescape('%3Cscript src="http://assets.splicetoday.com/assets/jquery-4c9447fc802ac49793b844ae67cf5b26.js" type="text/javascript">%3C/script>'))
-    //]]>
-    </script><script src="http://assets.splicetoday.com/assets/jquery-4c9447fc802ac49793b844ae67cf5b26.js" type="text/javascript"></script><script src="http://assets.splicetoday.com/assets/application-9d4517476b41e661e2112c57d3d2f740.js" type="text/javascript"></script><script type="text/javascript">
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-3694645-1']);
-      _gaq.push(['_setDomainName', 'splicetoday.com']);
-      _gaq.push(['_setAllowLinker', true]);
-      _gaq.push(['_setSiteSpeedSampleRate', 100]);
-      _gaq.push(['_trackPageview']);
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
       
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
+      ga('create', 'UA-3694645-1', 'auto');
+      ga('send', 'pageview');
     </script>
-    <script type="text/javascript">
-      var addthis_config = {data_ga_property:"UA-3694645-1", data_ga_social:true, ui_use_css:true};
+    <script>
+      var addthis_config = { pubid: "ra-560c1f3d24c9bf93", data_ga_property: "UA-3694645-1", data_ga_social: true, ui_use_css: true };
     </script>
-    <script src="//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-51733bd60fa8f15c&amp;domready=1&amp;async=1" type="text/javascript"></script>
+    <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-560c1f3d24c9bf93" async="async"></script>
   
 </body></html>
