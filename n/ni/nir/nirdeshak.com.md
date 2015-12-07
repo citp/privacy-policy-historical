@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nirdeshak.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608122125id_/http%3A//nirdeshak.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nirdeshak.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207141234id_/http%3A//nirdeshak.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Nirdeshak
 
