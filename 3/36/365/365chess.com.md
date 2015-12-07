@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 365chess.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007050946id_/http%3A//www.365chess.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365chess.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207131904id_/http%3A//www.365chess.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - 365Chess.com
 
