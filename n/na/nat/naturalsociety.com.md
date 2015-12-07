@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalsociety.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608121118id_/http%3A//naturalsociety.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalsociety.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207151554id_/http%3A//naturalsociety.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Natural Society
 
@@ -33,6 +33,6 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 * * *
 
-Stock up on the ONLY 100% [USDA organic storable food](https://web.archive.org/product/usda-organic-40-days-storeable-food/) available through the [Natural Society Store](https://web.archive.org/shop/). 30 days of super high quality organic food for the lowest prices.
+[](https://shop.naturalsociety.com/product-category/preparedness)
 
 * * *
