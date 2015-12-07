@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopgetorganized.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608042058id_/http%3A//www.shopgetorganized.com/custserv/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopgetorganized.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207032104id_/http%3A//www.shopgetorganized.com/custserv/privacy.asp) for the most accurate reproduction.*
 
 # Get Organized Privacy Policy
 
@@ -7,8 +7,8 @@ In over 50 years in the Direct Marketing business, Shop Get Organized has adhere
 The policies below are applicable to www.shopgetorganized.com. Questions or comments regarding this policy should be directed to:
 
 Shop Get Organized  
-600 Cedar Hollow Road  
-Paoli, PA 19301  
+P.O. Box 4007  
+Pottstown, PA 19464  
 E-mail: customerservice@shopgetorganized.com  
 Telephone: (800) 829-1133
 
@@ -24,7 +24,7 @@ When you order online, Shop Get Organized will send you information regarding th
 
 When you voluntarily provide us with personal information, such as when you register or place an order, you will see a notice that states unless you opt-out of receiving communications from Shop Get Organized, you will receive additional information from Shop Get Organized. This information includes e-mails or other communication about new products and services available from Shop Get Organized that we believe will be of interest to you. Should you later choose not to receive such communications from Shop Get Organized, we reserve the right to contact you via e-mail regarding information as it relates to your order only.
 
-The personal information you have provided us, and information about your order, may be shared with third parties. This information may be combined with other personally identifiable information (such as demographic information and past purchase information) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. It may also be used by our marketing partners to bring you offers of interest.  If you prefer we do not share your name and address with marketing partners, please write to us at the address above, or e-mail [customerservice@shopgetorganized.com](mailto:customerservice@shopgetorganized.com)
+The personal information you have provided us, and information about your order, may be shared with third parties. This information may be combined with other personally identifiable information (such as demographic information and past purchase information) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. It may also be used by our marketing partners to bring you offers of interest. To learn more about one of our marketing partners, please click [www.plazadirect.com](http://www.plazadirect.com/). If you prefer we do not share your name and address with marketing partners, please write to us at the address above, or e-mail [customerservice@shopgetorganized.com](mailto:customerservice@shopgetorganized.com)
 
 If you agreed to receive e-mail from our marketing partners, we will share with them your e-mail address and the information described above, so they can send you offers for products and services that may be of interest to you. We will only share your e-mail address if you have opted in by checking the box on the registration page. Additionally, each e-mail our partners send you will include a description of the simple opt out process to enable you to stop receiving future e-mail.
 
