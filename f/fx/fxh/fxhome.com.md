@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxhome.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607071838id_/https%3A//fxhome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxhome.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207214556id_/http%3A//fxhome.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FXHOME.com
 
