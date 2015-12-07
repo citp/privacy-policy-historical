@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the iorbix.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608044605id_/http%3A//iorbix.com/legal%3Ftab%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iorbix.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207093645id_/http%3A//iorbix.com/legal%3Ftab%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy and Terms | iOrbix
 
 Privacy Policy
 
 This agreement was written in English (US).  
-Date of Last Revision: January 3, 2015
+Date of Last Revision: August 17, 2015
 
-Please read the [Terms of Service](https://web.archive.org/legal?tab=terms) and [Privacy Policy](https://web.archive.org/legal?tab=privacy) carefully. By accessing, browsing, using or registering with the iorbix.com website, iOrbix or [iOrbix Mobile](https://web.archive.org/iorbix-mobile), you represent and agree that (1) you are at least 13 years of age, (2) you acknowledge that you have read, understood and agree with the [Terms of Service](https://web.archive.org/legal?tab=terms) and the [Privacy Policy](https://web.archive.org/legal?tab=privacy) and (3) you will comply and be bound by the Terms of Service and the Privacy Policy, including any future modifications.  
+Please read the [Terms of Service](https://web.archive.org/legal?tab=terms) and [Privacy Policy](https://web.archive.org/legal?tab=privacy) carefully. By accessing, browsing, using or registering with the iorbix.com website, iOrbix or [iOrbix Mobile](https://web.archive.org/iorbix-mobile), you represent and agree that (1) you are at least 13 years of age, (2) you acknowledge that you have read, understood and agree with the [Terms of Service](https://web.archive.org/legal?tab=terms), the [Privacy Policy](https://web.archive.org/legal?tab=privacy) and the [Cookies](https://web.archive.org/legal?tab=cookies) and (3) you will comply and be bound by the Terms of Service and the Privacy Policy, including any future modifications.  
 If you do not agree to be bound by the Terms of Service or the Privacy Policy in their entirety or you are under 13 years of age, you are not authorized to use the iorbix.com website, iOrbix or iOrbix Mobile. 
 
 What information do we collect?
@@ -36,9 +36,11 @@ We implement a variety of security measures to maintain the safety of your perso
 
 Do we use cookies?
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information).  
+Yes, just like many other websites. Cookies are small files that a site or its service provider transfers to your computers hard drive through your web browser (if you allow that in its settings) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.  
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners.  
 We use cookies to temporarily save your login information for your own convenience.  
-We also use cookies for other special features on iOrbix. 
+We also use cookies for other special features on iOrbix.  
+Please read more in our [Cookie Policy](https://web.archive.org/legal?tab=cookies). 
 
 Do we disclose any information to outside parties?
 
@@ -70,10 +72,6 @@ If album visibility is set to Everyone, this setting will change its behavior de
 Third party links
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
-
-Use of GeoLite
-
-This product includes GeoLite data created by MaxMind, available from [http://www.maxmind.com](http://www.maxmind.com/). 
 
 Children
 
