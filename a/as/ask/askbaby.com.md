@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askbaby.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315005806id_/http%3A//www.askbaby.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askbaby.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207015341id_/http%3A//www.askbaby.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Your personal information and us....
 
