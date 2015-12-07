@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diglloyd.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614084905id_/http%3A//diglloyd.com/site-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diglloyd.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207041116id_/http%3A//diglloyd.com/site-privacy.html) for the most accurate reproduction.*
 
 # diglloyd - Privacy Policy
 
@@ -12,7 +12,7 @@ Your use of any of these Sites or email contact with us constitutes your accepta
 
 ###  How to Contact Us 
 
-If you have any questions or concerns about this privacy policy or your personally identifiable information, please contact us via email at [**privacy@diglloyd.com**](mailto:privacy@diglloyd.com). 
+If you have any questions or concerns about this privacy policy or your personally identifiable information, please contact us via email at privacy@diglloyd.com. 
 
 Or via postal mail at:
 
@@ -32,7 +32,7 @@ For requests where a third-party vendor will provide the requested services or p
 
 We send email in response to email sent to us and/or to follow up on prior emails. We usually retain all emails received in order to respond appropriately and in context, to interact over time, to better respond to inquiries, etcetera, but reserve the right to delete them at our sole discretion as our business needs and data retention policies may evolve. We do not accept “delete” requests for emails sent to us, for technical reasons.
 
-We reserve the right and will use discretion in quoting email messages, e.g. when we deem it of general interest to readers of the Sites. **We may quote some or all the contents of email messages sent by you to us, using your name (as best we can determine, typically first name and last initial) and general location unless the email specifically states “DO NOT QUOTE” in all-caps in the first line of the email body.** We may make minor edits to emails for better readability, clarity, or similar reasons.   To these ends, you hereby grant us a non-exclusive, royalty-free, worldwide, perpetual and transferable license under all rights of intellectual property, privacy, publicity and otherwise to reproduce, distribute, make derivative works from, publicly display and perform and otherwise use any material you submit to us.
+We reserve the right and will use discretion in quoting email messages, e.g. when we deem it of general interest to readers of the Sites. **We may quote some or all the contents of email messages sent by you to us, using your name (as best we can determine, typically first name and last initial) and general location unless the email specifically states “DO NOT QUOTE” in all-caps in the first line of the email body.** We may make minor edits to emails for better readability, clarity, or similar reasons.   To these ends, you hereby grant us a non-exclusive, royalty-free, worldwide, perpetual and transferable license under all rights of intellectual property, privacy, publicity and otherwise to reproduce, distribute, make derivative works from, publicly display and perform and otherwise use any material you submit to us. **We DO NOT “unpublish” emails once quoted.**
 
 From time to time we might offer discounts, coupons or similar offers via email. Prior to initiating such activity, we will send you email notifying you of your option to opt out.
 
@@ -51,7 +51,7 @@ Subscribers may request that a particular contact email be used for these purpos
 
 ###  Site access information
 
-We log and collect and retain technical information such as IP address(es), date and time of access, browser type, login username, page viewing history and similar information via cookies and other automated mechanisms.  This information usually does not personally identify you, but it is possible that it could at some point be linked with other personally identifiable information.  We use this information for analysis of web site usage patterns, bandwidth utilization and similar analysis, and/or to identify violation of Sites [terms of service](https://web.archive.org/web/20150614084905id_/http%3A//diglloyd.com/site-terms-of-use.html) (e.g. bulk downloading, unauthorized access, inappropriate linking, and similar activities that we deem at our sole discretion to be inappropriate or unwanted).
+We log and collect and retain technical information such as IP address(es), date and time of access, browser type, login username, page viewing history and similar information via cookies and other automated mechanisms.  This information usually does not personally identify you, but it is possible that it could at some point be linked with other personally identifiable information.  We use this information for analysis of web site usage patterns, bandwidth utilization and similar analysis, and/or to identify violation of Sites [terms of service](https://web.archive.org/web/20151207041116id_/http%3A//diglloyd.com/site-terms-of-use.html) (e.g. bulk downloading, unauthorized access, inappropriate linking, and similar activities that we deem at our sole discretion to be inappropriate or unwanted).
 
 We also use this information to enhance your user experience, such as display preferences for images, site readability options and similar site options and behaviors.
 
