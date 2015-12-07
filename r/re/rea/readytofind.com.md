@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readytofind.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607172327id_/http%3A//www.readytofind.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readytofind.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207135857id_/http%3A//www.readytofind.com/privacy_policy.html) for the most accurate reproduction.*
 
 # ReadyToFind a 100% Human edited web directory - Privacy Policy
 
