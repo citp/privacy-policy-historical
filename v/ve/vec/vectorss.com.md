@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vectorss.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610034720id_/http%3A//www.vectorss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vectorss.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207033932id_/http%3A//www.vectorss.com/privacy-policy) for the most accurate reproduction.*
 
 # Vectorss | Privacy
 
@@ -6,7 +6,7 @@
 
 ## Privacy Policy
 
-[http://www.vectorss.com/ ](https://web.archive.org/web/20150610034720id_/http%3A//)takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
+[http://www.vectorss.com/ ](https://web.archive.org/web/20151207033932id_/http%3A//)takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
 ### Routine Information Collection
 
@@ -14,7 +14,7 @@ All web servers track basic information about their visitors. This information i
 
 ### Cookies and Web Beacons
 
-Where necessary, [http://www.vectorss.com/](https://web.archive.org/web/20150610034720id_/http%3A//) uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Where necessary, [http://www.vectorss.com/](https://web.archive.org/web/20151207033932id_/http%3A//) uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
 Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
 
