@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatson.ae privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607134030id_/http%3A//whatson.ae/dubai/about/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatson.ae privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207132500id_/http%3A//whatson.ae/dubai/about/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - What's On Dubai
 
@@ -65,19 +65,3 @@ Fax: +971 4 428 2274
 digital@motivate.ae
 
 This document was last updated on January 1st 2013
-
-## [Privacy Policy](http://whatson.ae/dubai/about/legal/privacy-policy/)
-
-This Privacy Policy governs the manner in which Motivate Publishing collects, uses, maintains and discloses information collected from users (each, a “User”) of the Motivatepublishing.com website (“Site”). This privacy policy applies to the Site and [Read More](http://whatson.ae/dubai/about/legal/privacy-policy/)
-
-## [Anti-Spam Policy](http://whatson.ae/dubai/about/legal/anti-spam-policy/)
-
-What is spam? In the context of electronic messaging, “spam” means [unsolicited bulk messages / unsolicited, bulk or indiscriminate messages] , typically sent for a commercial purpose. We have a zero-tolerance spam policy. Spam filtering [Read More](http://whatson.ae/dubai/about/legal/anti-spam-policy/)
-
-## [Community Rules](http://whatson.ae/dubai/about/legal/community-rules/)
-
-Please note all comments are subject to moderation. The following comments are considered likely to disrupt, provoke, attack or offend others will not be accepted: Break the law or condone or encourage unlawful activity. Racist, [Read More](http://whatson.ae/dubai/about/legal/community-rules/)
-
-## [Terms And Conditions](http://whatson.ae/dubai/about/legal/terms-conditions/)
-
-Welcome to our website. If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy [Read More](http://whatson.ae/dubai/about/legal/terms-conditions/)
