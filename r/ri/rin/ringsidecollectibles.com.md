@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ringsidecollectibles.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608235828id_/http%3A//www.ringsidecollectibles.com/PRPO.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringsidecollectibles.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207022048id_/http%3A//www.ringsidecollectibles.com/PRPO.html) for the most accurate reproduction.*
 
 # Privacy Policy | Ringside Collectibles
 
@@ -19,18 +19,6 @@ If you have an questions regarding the Privacy Policy, please **[Contact Us](htt
 Shop Products
 
 Shop By Superstar
-
-[](https://www.facebook.com/RingsideC)
-
-[](http://www.youtube.com/wrestlingfigscom)
-
-[](http://www.twitter.com/RingsideC)
-
-[](http://instagram.com/ringsidec#)
-
-[](http://wrestlingfigs.com/)
-
-[](http://www.ringsidecollectibles.com/ringside_toy_wrestling_action_figure_video_vault.html)
 
   
 
