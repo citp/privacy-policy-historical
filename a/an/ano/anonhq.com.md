@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anonhq.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627023957id_/http%3A//anonhq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anonhq.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207022508id_/http%3A//anonhq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy AnonHQ
 
