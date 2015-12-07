@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hexrpg.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608020143id_/http%3A//www.hexrpg.com/terms.php%3Fview%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hexrpg.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207034506id_/http%3A//www.hexrpg.com/terms.php%3Fview%3Dpp) for the most accurate reproduction.*
 
 # Hogwarts Extreme - The Interactive Harry Potter Experience
 
@@ -40,7 +40,7 @@ Links to other websites exist on Hogwarts Extreme and can mostly be found under 
 
 #### Parents
 
-Please view our [COPPA Policy](https://web.archive.org/web/20150608020143id_/http%3A//www.hexrpg.com/terms.php?view=coppa) for information. 
+Please view our [COPPA Policy](https://web.archive.org/web/20151207034506id_/http%3A//www.hexrpg.com/terms.php?view=coppa) for information. 
 
 #### Updating of this Policy
 
