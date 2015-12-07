@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyvacationcritic.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608020704id_/http%3A//www.familyvacationcritic.com/privacy/abt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyvacationcritic.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207031029id_/http%3A//www.familyvacationcritic.com/privacy/abt) for the most accurate reproduction.*
 
 # Privacy - Family Vacation Critic
 
@@ -35,13 +35,6 @@ For additional information regarding our Principles of Privacy, please contact c
 LauraS  
 Senior Manager, Community   
 Family Vacation Critic
-
-  
-
-
-© Copyright 2015. The Independent Traveler, Inc.  
-All rights reserved. This file may be downloaded for personal  
-use only. Other copying or reproduction is expressly prohibited. 
 
   
 
