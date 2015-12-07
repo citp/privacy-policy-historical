@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robokits.co.in privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144217id_/http%3A//robokits.co.in/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robokits.co.in privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207033642id_/http%3A//robokits.co.in/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : Robokits India, Easy to use, Versatile Robotics & DIY kits
 
