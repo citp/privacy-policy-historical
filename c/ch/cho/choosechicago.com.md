@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the choosechicago.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609002537id_/http%3A//www.choosechicago.com/articles/view/Privacy-Policy/176) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choosechicago.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208002553id_/http%3A//www.choosechicago.com/articles/view/Privacy-Policy/176) for the most accurate reproduction.*
 
 # What to do in Chicago - Choose Chicago
 
@@ -52,7 +52,7 @@ In addition, anonymous navigation information may be used for statistical analys
 **Cookies**  
 Currently the Choose Chicago Website does use "cookie" technology. Cookies were originally designed to help a Website distinguish a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. A cookie is a small string of text that a Website can send to your browser. A cookie cannot retrieve any other data from your hard drive, pass on computer viruses, or capture your email address. 
 
-We use cookies so that we can provide personalized information that we believe will be of value to you based on preferences you have indicated while visiting the site. You will have the opportunity to decide whether or not to accept the cookie. You may opt-out of these features [here](https://web.archive.org/out/?f=https%3A%2F%2Fwww%2Egoogle%2Ecom%2Fsettings%2Fads). 
+We use cookies so that we can provide personalized information that we believe will be of value to you based on preferences you have indicated while visiting the site. You will have the opportunity to decide whether or not to accept the cookie. You may opt-out of these features [here](https://www.google.com/settings/ads). 
 
 **When we disclose personal information**  
 Choose Chicago works with other companies that help us provide products and services to you and we may provide your personal information to these companies. For example, we give shipping companies this information so they can deliver your products efficiently. In this case the information they receive is for shipping and delivery purposes only, and we require that the companies we contract with safeguard your personal information in accordance with Choose Chicago's policies. 
