@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the relrules.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630212140id_/http%3A//www.relrules.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relrules.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207101521id_/http%3A//www.relrules.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Relationship Rules
-
-* * *
-
-Begin typing your search above and press return to search. Press Esc to cancel.
-
-* * *
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at help@relrules.com.
 
