@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrapbook.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610000726id_/http%3A//www.scrapbook.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrapbook.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207210340id_/http%3A//www.scrapbook.com/pages/privacy.php) for the most accurate reproduction.*
 
 # Scrapbook.com Privacy Policy
 
