@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clare.fm privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608122113id_/http%3A//www.clare.fm/business/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clare.fm privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207141209id_/http%3A//www.clare.fm/business/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | clare.fm
 
