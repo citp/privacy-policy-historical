@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sweatingthebigstuff.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607154126id_/http%3A//sweatingthebigstuff.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweatingthebigstuff.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207193653id_/http%3A//sweatingthebigstuff.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Sweating The Big Stuff
+# Privacy Statement
 
 I will never disclose or sell your e-mail address or any of your data from this site. I highly welcome posts and community interaction, and registering is simply part of the posting system. 
 
-The privacy of our visitors toÂ Sweating the Big StuffÂ is important to us. At Sweating the Big Stuff, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit Sweating the Big Stuff, and how we safeguard your information. We never sell your personal information to third parties. 
+The privacy of our visitors to Sweating the Big Stuff is important to us. At Sweating the Big Stuff, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit Sweating the Big Stuff, and how we safeguard your information. We never sell your personal information to third parties. 
 
 ## Log Files
 
@@ -14,7 +14,7 @@ As with most other websites, we collect and use the data contained in log files.
 
 We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. 
 
-  * Googleâ€™s use of the DART cookie
+  * Google’s use of the DART cookie
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 
