@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the biblicalarchaeology.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175014id_/http%3A//www.biblicalarchaeology.org/about-the-biblical-archaeology-society/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblicalarchaeology.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207091845id_/http%3A//www.biblicalarchaeology.org/about-the-biblical-archaeology-society/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Biblical Archaeology Society
+# Privacy Policy - Biblical Archaeology Society
 
 We hate spam as much as you do. You have our promise not to sell or share your email address—ever!
 
