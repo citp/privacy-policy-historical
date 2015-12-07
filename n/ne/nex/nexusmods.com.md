@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nexusmods.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627014431id_/http%3A//www.nexusmods.com/games/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexusmods.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207152650id_/http%3A//www.nexusmods.com/games/about/privacy) for the most accurate reproduction.*
 
 # Nexus mods and community
 
@@ -15,3 +15,5 @@ From time to time, we may use customer information for new, unanticipated uses n
 Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them and transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them.
 
 If you feel that this site is not following its stated information policy please [contact us](http://forums.nexusmods.com/index.php?app=nexus&module=support&section=new).
+
+[](http://www.nexusmods.com/games/users/supporter/)
