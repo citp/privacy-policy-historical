@@ -1,68 +1,34 @@
-> *The following text is extracted and transformed from the myonlineca.in privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607071935id_/http%3A//www.myonlineca.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myonlineca.in privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207104056id_/http%3A//www.myonlineca.in/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - MyOnlineCA.in
+# Privacy Policy - MyOnlineCA
 
-Privacy Policy This privacy policy sets out how MyOnlineCA.in uses and protects any information that you give MyOnlineCA.in when you use this website.   
+**Privacy Policy**  
+ **Our Commitment to Privacy**  
+Our Privacy Policy was developed as an extension of our commitment to combine quality products and services with integrity in dealing with our users. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.  
+This privacy statement applies to the website of MyOnlineCA.IN:  
+mail@myonlineca.in
+
+ **Registration and Setup Forms**  
+MyOnlineCA.in registration and website setup forms may require users to give us contact information, such as name and email address. Contact information from the registration and setup forms is used to solve your legal queries and done their legal work. The customers contact information is also used to get in touch with the customer when necessary.  
+   
+ **What is a Cookie?**  
+Cookies are a feature of web browser (Firefox, Safari, Internet Explorer, Netscape Navigator, etc.) software that allows web servers to recognize the computer used to access a site. They are small pieces of data that are stored by a users web browser on one site to simplify subsequent interactions with that site by the same user or to use the information to streamline the user's transaction on related web pages. This makes it easier for a user to move from site to site and to complete transactions over the Internet. Cookies should make your online experience easier and more personalized.
+
+Our site utilizes cookies to collect information about how our site is used. Passive Information gathered may include the date and time of visits, the site pages viewed, time spent at our site, the sites visited just before and just after our site. If you do not wish to transmit 'cookie' information about yourself, you may turn off the cookie function in your web browser; please consult the 'Help' section of your browser to correctly do so.
+
+Our site's servers also automatically identify your computer by its Internet Protocol address which is a unique string of numbers that is assigned to your computer by your Internet Service Provider. Your IP address may be used to address problems with our server or administer our site or to gather broad demographic information about our users.
+
+   
   
-MyOnlineCA.in is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.   
-  
-MyOnlineCA.in may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from --.   
-  
-**What we collect**   
-  
-We may collect the following information:   
-  
-·  name and job title   
-  
-·  contact information including email address   
-  
-·  demographic information such as postcode, preferences and interests   
-  
-·  other information relevant to customer surveys and/or offers   
-  
-**What we do with the information we gather**   
-  
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:   
-  
-·  Internal record keeping.   
-  
-·  We may use the information to improve our products and services.   
-  
-·  We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.   
-  
-·  From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.   
-  
-**Security**   
-  
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.   
-  
-**How we use cookies**   
-  
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.   
-  
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.   
-  
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.   
-  
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.   
-  
-**Links to other websites**   
-  
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.   
-  
-**Controlling your personal information**   
-  
-You may choose to restrict the collection or use of your personal information in the following ways:   
-  
-·  whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes   
-  
-·  if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at myonlineca@gmail.com  
-  
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.   
-  
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.   
-  
-  
-MyOnlineCA.in maintains strict customer confidentiality and will not share the information with any third party sources.  
-  
+ **Your Information In Relation to Others We Link To**  
+You may be able to access other websites through our site. When you do so you are doing so subject to their policies regarding privacy and data collection and you should read those sites privacy policies to make sure you agree to them before using such sites. When you choose to shop at such sites, you should read their privacy policies to make sure you agree to them before making purchases.  
+   
+ **Sharing Information with Advertisers or Other Third Parties**  
+We do not share any personal information with any parties outside MyOnlineCA.IN. Including names and e-mail address, Client Documents or any other such other information which is collected by us except to **Our Associates and Partners**. While we may contact you if you have opted to receive news and updates, all correspondence is sent through MyOnlineCA.IN and no others.  
+   
+ **Sharing Information with the Government or As Otherwise Required by Law**  
+You agree that You have to share your information with the government or as otherwise required by law such as documents or any other require information. We at MyOnlineCA Technologies Private Limited File Documents on Behalf of the clients Permission.
+
+ **Questions, Comments, Contact**  
+If you have any questions, comments or concerns with the privacy of your information collected by MyOnlineCA.IN, please **[Contact Us](https://web.archive.org/contact-us.html)**  
 
