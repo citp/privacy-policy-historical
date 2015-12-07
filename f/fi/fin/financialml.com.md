@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialml.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628133646id_/http%3A//www.financialml.com%3Fpage_id%3D1038) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialml.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207152041id_/http%3A//www.financialml.com%3Fpage_id%3D1038) for the most accurate reproduction.*
 
 # Privacy Policy « Business News, Finance News, Stock Market, World Business, Financial Markets News Online
 
@@ -16,7 +16,7 @@
 
 #### Collection and Use of Personal Information
 
-  * You can visit the websites of pegasasnews.com without revealing any personal information. However, pegasasnews.com needs certain personal information if you wish to purchase our products, register for an affiliate account, receive pegasasnews.com newsletter, or use certain pegasasnews.com services.
+  * You can visit the websites of pegasasnews.com without revealing any personal information. However, pegasasnews.com needs certain personal information if you wish to purchase our products, register for an affiliate account, receive pegasasnews.com newsletter, or use certain pegasasnews.com services.We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
   * Where required, this information may include your personal contact information and/or your company contact information. pegasasnews.com will use this information to reply to your inquiries, to provide you with requested products and services, to set up your member’s account, and to contact you regarding new products and services.
   * By accessing the services of pegasasnews.com and voluntarily providing us with the requested personal information, you consent to the collection and use of the information in accordance with this privacy policy.
 
