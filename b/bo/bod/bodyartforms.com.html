@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bodyartforms.com privacy policy that was archived on 2015-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609004816id_/http%3A//www.bodyartforms.com/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bodyartforms.com privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207230600id_/http%3A//www.bodyartforms.com/privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/jquery-2.1.1.min.js"></script>
 <script type="text/javascript" src="/cart/js/cart_mini_display.js" async=""></script>
@@ -7,9 +7,9 @@
 <title>Privacy policy</title>
 <link href="CSS/Default.css?472015" rel="stylesheet" type="text/css">
 
+
 </head>
 <body>
-<!-- Place this tag in the <head> of your document-->
 <link href="https://plus.google.com/110056964837602116109" rel="publisher">
 
 <div><a name="top"></a></div>
@@ -19,8 +19,8 @@
 <div id="AccountLinks">
 <ul>
 
-      <li><a href="https://www.bodyartforms.com/register.asp"><img src="http://www.bodyartforms.com/images/icon_register.png" alt="Create account">Create account</a></li>
-      <li><a href="https://www.bodyartforms.com/signin.asp"><img src="http://www.bodyartforms.com/images/icon_YourAccount.png" alt="Your account">Login</a></li>
+      <li><a href="https://www.bodyartforms.com/register.asp"><img src="https://www.bodyartforms.com/images/icon_register.png" alt="Create account">Create account</a></li>
+      <li><a href="https://www.bodyartforms.com/signin.asp"><img src="https://www.bodyartforms.com/images/icon_YourAccount.png" alt="Your account">Login</a></li>
 
   </ul>
 </div><!-- End Account Links div -->
@@ -28,6 +28,10 @@
 <div id="TopHeader_CenterGrey">
 	<div id="TopRandomImages">
 		<div id="Align_TopRandomImages">
+
+			<div class="header-coupon-block" style="float:right; margin-left: 5px;">
+			Use Coupon Code: <b>HOLIDAYS2015 -- 20% Off all December!!</b> 
+			</div>
 			
 		</div><!-- End Align_TopRandomImages DIV -->
 	</div><!-- End TopRandomImages DIV -->
@@ -41,6 +45,7 @@
   <li><a href="http://www.bodyartforms.com/contact1.asp">Contact us</a></li>
 </ul>
 </div><!-- End BottomGrey DIV -->
+
 <div id="Basket">
     <div id="BasketText">Your cart total: 
               $0.00
@@ -49,6 +54,7 @@
     <div id="BasketImage"></div>
 
 </div><!-- End Basket DIV -->
+
 <div id="BAFLogo"></div>
 <div id="Breadcrumbs">
 </div>
@@ -58,6 +64,15 @@
 <script type="text/javascript" src="CollapsePanel.js"></script>
 <div class="leftnav_container">
 <div class="LEFTNAV"> 
+<script type="text/javascript"> 
+
+$(document).ready( function() {
+
+	$('#FRM_LeftSearch').submit(function(){ $('select, input').each(function(){with($(this)) if (val()=='') remove();}) });
+
+});
+</script>
+
 <form action="products.asp" method="get" name="FRM_LeftSearch" id="FRM_LeftSearch" class="left_nav_filters">
             <fieldset>
 <input name="keywords" type="text" value="" placeholder="Search keywords">
@@ -67,7 +82,7 @@ Narrow your search results:            <select name="jewelry" id="jewelry">
               
               <option value="" selected="selected">Jewelry type...</option>
               
-                  <option value="plugs">Plug</option>
+                  <option value="plugs">Plugs &amp; tunnels</option>
                   <option value="tapers">Taper</option>
                   
                   <option value="circular">Circular barbell</option>
@@ -80,6 +95,7 @@ Narrow your search results:            <select name="jewelry" id="jewelry">
                   <option value="nipple">Nipple</option>
                   <option value="nose">Nose</option>
                   <option value="pinchers">Pinchers</option>
+				  <option value="retainer">Retainers</option>
                   <option value="septum">Septum</option>
                   <option value="barbell">Straight barbell</option>
                   <option value="twists">Twists</option>
@@ -269,6 +285,8 @@ Narrow your search results:            <select name="jewelry" id="jewelry">
 
 <option value="&nbsp;">&nbsp; (0)</option>
 
+<option value="n/a">n/a (0)</option>
+
             </select>
 
                 
@@ -364,6 +382,8 @@ Narrow your search results:            <select name="jewelry" id="jewelry">
               
               <option value="" selected="selected">Brand...</option>
               
+				<option value="">&nbsp;</option>
+				<option value="Bodyartforms">&nbsp;&nbsp;&nbsp;BAF (Made in-house)</option>
                 <option value="">&nbsp;</option>
                 <option value="">PREMIUM steel/titanium</option>              
                 <option value="Anatometal">&nbsp;&nbsp;&nbsp;Anatometal</option>
@@ -417,9 +437,21 @@ Narrow your search results:            <select name="jewelry" id="jewelry">
                 <option value="20">Up to $20</option>
                 <option value="30">Up to $30</option>
                 <option value="50">Up to $50</option>
-            </select><br>
+            </select>
+
+			<select name="discount">
+              
+              <option value="" selected="selected">Sales - Save $$ ...</option>
+              
+                <option value="all">Show all sales</option>
+				<option value="5-20">10% - 20% off</option>
+                <option value="25-45">25% - 45% off</option>
+                <option value="50-70">50% - 70% off</option>
+                <option value="75-90">75% + off</option>
+            </select>
+			<br>
 <div class="align_center">
-<input type="submit" name="button" id="button" value="» Filter jewelry «" class="filter_button">
+<button type="submit" class="filter_button">» Filter jewelry «</button>
 </div>
             </fieldset>
 <div class="panelcollapsed">
@@ -431,15 +463,11 @@ Narrow your search results:            <select name="jewelry" id="jewelry">
   <input name="new" type="hidden" id="new" value="">          
             <input name="orderby" type="hidden" id="orderby" value="">
             <input name="RecordDisplay" type="hidden" id="jewelry" value="">
-            <input name="Filter" type="hidden" id="Filter" value="Yes">
             
 
 <input name="Extras" type="hidden" id="Extras" value=""> 
 
 <input name="Retainer" type="hidden" id="Retainer" value=""> 
-          
-            Sale<input name="Sale" type="checkbox" value="OnSale">&nbsp;&nbsp;Clearance<input name="clearance" type="checkbox" value="clearance">
-            <br>
             Show only limited <input name="limited" type="checkbox" value="yes"><br>
              Show only one-offs <input name="onetime" type="checkbox" value="yes"><br>
        
@@ -469,7 +497,7 @@ Narrow your search results:            <select name="jewelry" id="jewelry">
             <br>
 
 <div class="align_center">
-<input type="submit" name="button" id="button" value="Filter jewelry" class="filter_button">
+<button type="submit" class="filter_button">» Filter jewelry «</button>
 </div>
 </fieldset>
 </div></div>
@@ -485,16 +513,26 @@ Narrow your search results:            <select name="jewelry" id="jewelry">
 </ul>
 <ul class="sf-menu sf-vertical" style="clear: both;">
     <li class="current">
-    <a href="http://www.bodyartforms.com/products.asp?restock=Yes&amp;date=6/8/2015" class="sf-with-ul">Re-stocked items</a>
-        <ul><li><a href="http://www.bodyartforms.com/products.asp?restock=Yes&amp;date=6/8/2015">New layout (products)</a></li><li><a href="http://www.bodyartforms.com/restocked_items.asp?jewelry=restock&amp;date=6/8/2015">Old layout (one page)</a></li></ul>
+    <a href="http://www.bodyartforms.com/products.asp?restock=Yes&amp;date=12/7/2015" class="sf-with-ul">Re-stocked items</a>
+        <ul><li><a href="http://www.bodyartforms.com/products.asp?restock=Yes&amp;date=12/7/2015">New layout (products)</a></li><li><a href="http://www.bodyartforms.com/restocked_items.asp?jewelry=restock&amp;date=12/7/2015">Old layout (one page)</a></li></ul>
         </li>
         </ul>
 </div>      <p class="LeftNav_Headers"><img src="http://www.bodyartforms.com/images/navleft_arrowdown.gif" alt="Icon" width="16" height="9">&nbsp;Sales:</p>
-<ul class="PureCSS">
-    <li><a href="http://www.bodyartforms.com/freestuff.asp">Free stuff</a></li>
-    <li><a href="http://www.bodyartforms.com/products.asp?clearance=clearance">Clearance</a></li>
-    <li><a href="http://www.bodyartforms.com/products.asp?Sale=OnSale">On sale</a></li>
+<div class="RoundedBkgd">
+<ul class="sf-menu sf-vertical">
+<li>
+    <a href="http://www.bodyartforms.com/products.asp?discount=all">ON SALE 10-75% OFF</a>
+	<ul style="width: 70%;">
+	<li>
+  <a href="http://www.bodyartforms.com/products.asp?discount=5-20">&nbsp;&nbsp;&nbsp;10-20% off</a></li>
+  	<li><a href="http://www.bodyartforms.com/products.asp?discount=25-45">&nbsp;&nbsp;&nbsp;25-45% off</a></li>
+    <li><a href="http://www.bodyartforms.com/products.asp?discount=50-70">&nbsp;&nbsp;&nbsp;50-70% off</a></li>
+	<li><a href="http://www.bodyartforms.com/products.asp?discount=75-90">&nbsp;&nbsp;&nbsp;75% + off</a></li>
 </ul>
+</li>
+	<li><a href="http://www.bodyartforms.com/freestuff.asp">Free stuff</a></li>
+</ul>
+</div>
     <p class="LeftNav_Headers"><img src="http://www.bodyartforms.com/images/navleft_arrowdown.gif" alt="Icon" width="16" height="9">&nbsp;The essentials:</p>
   <div class="RoundedBkgd">
 <ul class="sf-menu sf-vertical">
@@ -618,27 +656,31 @@ Narrow your search results:            <select name="jewelry" id="jewelry">
 	-webkit-border-bottom-right-radius: 7px;
 	-webkit-border-bottom-left-radius: 0px;
 	border-radius: 0px 0px 7px 0px;">	
-        	<li>
-    <a href="http://www.bodyartforms.com/products.asp?jewelry=hanging&amp;subtype=ornate">Ornate styles</a>
+        	        	<li>
+    <a href="http://www.bodyartforms.com/products.asp?jewelry=ornate">Ornate styles</a>
     	</li>
-        	<li>
-    <a href="http://www.bodyartforms.com/products.asp?jewelry=hanging&amp;subtype=talon">Talons, hooks, &amp; claws</a>
-    	</li>
-    	<li>
-    <a href="http://www.bodyartforms.com/products.asp?jewelry=hanging&amp;subtype=spiral">Spirals: Basic</a>
+            <li>
+    <a href="http://www.bodyartforms.com/products.asp?jewelry=talon">Talons, hooks, &amp; claws</a>
     	</li>
     	<li>
-    <a href="http://www.bodyartforms.com/products.asp?jewelry=hanging&amp;subtype=spiralsComplex">Spirals: Complex, helixes, coils, &amp; twists</a>
+    <a href="http://www.bodyartforms.com/products.asp?jewelry=spiral">Spirals: Basic</a>
     	</li>
     	<li>
-    <a href="http://www.bodyartforms.com/products.asp?jewelry=hanging&amp;subtype=weight">Weights </a> </li>
+    <a href="http://www.bodyartforms.com/products.asp?jewelry=spiralsComplex">Spirals: Complex, helixes, coils, &amp; twists</a>
+    	</li>
+		<li>
+    <a href="http://www.bodyartforms.com/products.asp?jewelry=hoop">Hoops</a>
+    	</li>
+    	<li>
+    <a href="http://www.bodyartforms.com/products.asp?jewelry=weight">Weights </a>
+    	</li>
       </ul>
       
       
     </div>
     <p class="LeftNav_Headers"><img src="http://www.bodyartforms.com/images/navleft_arrowdown.gif" alt="Icon" width="16" height="9">&nbsp;By type:</p>
 <ul class="PureCSS">
-    <li><a href="http://www.bodyartforms.com/products.asp?Retainer=Y">Retainers</a></li>
+    <li><a href="http://www.bodyartforms.com/products.asp?jewelry=retainer">Retainers</a></li>
     <li><a href="http://www.bodyartforms.com/products.asp?jewelry=nose">Nosescrews</a></li>
     <li><a href="http://www.bodyartforms.com/products.asp?jewelry=pinchers">Pinchers</a></li>
     <li><a href="http://www.bodyartforms.com/products.asp?jewelry=septum">Septum</a></li>
@@ -646,7 +688,7 @@ Narrow your search results:            <select name="jewelry" id="jewelry">
     <li><a href="http://www.bodyartforms.com/products.asp?jewelry=twists">Twister barbells</a></li>
     <li><a href="http://www.bodyartforms.com/products.asp?jewelry=bananabell">Navel / Belly</a></li>
     <li><a href="http://www.bodyartforms.com/products.asp?jewelry=nipple">Nipples</a></li>
-    <li><a href="http://www.bodyartforms.com/products.asp?Extras=Y">Loose balls &amp; o-rings </a></li>
+    <li><a href="http://www.bodyartforms.com/products.asp?Extras=Y">Threaded ends &amp; o-rings </a></li>
     <li><a href="http://www.bodyartforms.com/products.asp?jewelry=earring">Earrings, pendants, and necklaces</a></li>
 </ul>
     <p class="LeftNav_Headers"><img src="http://www.bodyartforms.com/images/navleft_arrowdown.gif" alt="Icon" width="16" height="9">&nbsp;Other stuff:</p>
@@ -674,8 +716,8 @@ Narrow your search results:            <select name="jewelry" id="jewelry">
     <li><a href="http://www.bodyartforms.com/products.asp?jewelry=cleansers">Cleansers, lotions, oils, &amp; salves</a></li>
     <li><a href="http://www.bodyartforms.com/products.asp?jewelry=tools">Ring openers, closures, &amp; calipers </a></li>
     <li><a href="http://www.bodyartforms.com/products.asp?jewelry=storage">Jewelry storage</a></li>
-    <li><a href="http://www.bodyartforms.com/gift-certificate.asp">Gift certificates</a></li> 
-    <li><a href="http://www.bodyartforms.com/productdetails.asp?ProductID=1464">Autoclave service</a></li>     
+	<li><a href="http://www.bodyartforms.com/productdetails.asp?ProductID=1464">Autoclave service</a></li> 
+    <li><a href="http://www.bodyartforms.com/productdetails.asp?ProductID=2424">Gift certificates</a></li>    
 </ul>
 </div>
 </div><!-- End leftnav div -->
