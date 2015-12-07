@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gecapital.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607040646id_/http%3A//www.gecapital.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gecapital.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134525id_/http%3A//www.gecapital.com/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement: CAREFULLY READ THIS STATEMENT BEFORE USING THE SITE, AS IT AFFECTS YOUR LEGAL RIGHTS AND OBLIGATIONS.
 
@@ -36,15 +36,24 @@ When you attempt to access those sections of our site that require registration 
 
 If you decide to register online or request information, products, or services from us, we may collect additional information to provide tailored offerings or content to you or to deliver such products and services.
 
-**Cookies and Local Shared Objects (LSO):** If you visit our Site, a cookie is used to help us measure the number of visits, average time spent, page views and other statistics relating to our Site. A cookie is a small piece of data stored by your Internet browser on your computer's hard drive. Our cookies are not used to get data from your hard drive or obtain your e-mail address or identity. If you decide to register online or request information, products or services from us, we may collect additional information to provide tailored offerings or content to you or to deliver such products and services. You may set your Internet browser to notify you when you receive a cookie or to prevent cookies from being sent. Additional guidance on refusing or deleting LSOs may be found here: <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>.
+**Cookies and Local Shared Objects (LSO):** If you visit our Site, a cookie is used to help us measure the number of visits, average time spent, page views and other statistics relating to our Site. A cookie is a small piece of data stored by your Internet browser on your computer's hard drive. Our cookies are not used to get data from your hard drive or obtain your e-mail address or identity.
+
+If you decide to register online or request information, products or services from us, we may collect additional information to provide tailored offerings or content to you or to deliver such products and services.
+
+You may set your Internet browser to notify you when you receive a cookie or to prevent cookies from being sent. Additional guidance on refusing or deleting LSOs may be found here: <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>.
 
 Please note, however, that by not accepting cookies or LSOs you may limit Site functionality and your ability to access certain information, products, and services we offer. And not accepting cookies or LSOs will not completely limit the information we collect through automated means.
 
-**Mobile Devices:** When you connect to us using a mobile device or application, we may use cookies or web beacons and other methods to customize your browsing experience. If you use any location-enabled products, you may be sending us location information. The Company does not store or use this information other than to provide the service you requested. For example, a mobile product may use GPS data to find a nearby Company facility. Location-enabled features are opt-in and you have control over your participation and can turn these services off at any time.
+ **Mobile Devices:** When you connect to us using a mobile device or application, we may use cookies or web beacons and other methods to customize your browsing experience. If you use any location-enabled products, you may be sending us location information. The Company does not store or use this information other than to provide the service you requested. For example, a mobile product may use GPS data to find a nearby Company facility.
+
+Location-enabled features are opt-in and you have control over your participation and can turn these services off at any time.
 
 Some mobile applications will utilize analytic tools to help us better serve our customers through improved products, services, and revisions to the mobile applications. This collected information does not include personally identifiable information and will not identify you to the Company. It may, however let us know anonymously, which services and features you are using the most within the application, as well as device type and hardware features, country and language of download.
 
 **Social Sharing Tools:** Use of third party social sharing sites (e.g., Facebook & Twitter) is governed by the privacy practices of those services. The Company does not capture or store your login information or other personally identifiable information for these services, however session information or cookies may be stored.
+
+  
+
 
 ### **WE DO NOT KNOWINGLY COLLECT INFORMATION FROM CHILDREN**
 
@@ -52,9 +61,12 @@ This Site is not directed to or intended for individuals under 18 years of age a
 
 ### **HOW DO WE USE THE INFORMATION THAT WE COLLECT?**
 
-The Company, our Affiliates, Service Providers and our Business Partners use the personal information that you submit to respond to your inquiry or provide you with the information, product, or service that you have requested. 
+The Company, our Affiliates, Service Providers and our Business Partners use the personal information that you submit to respond to your inquiry or provide you with the information, product, or service that you have requested.
 
 If you submit an application to our Site, the Company, our Affiliates, Service Providers, and Business Partners will use the personal information that you provide to:
+
+  
+
 
   * Allow you to apply for and communicate with you about the products and/or services that you are seeking 
   * Provide, administer and communicate with you about any products and/or services that you may obtain, including creating, servicing, providing access to, and communicating with you about your account (including purchases and payments)
@@ -82,11 +94,16 @@ To accomplish the functions identified in this section, we may need to transfer 
 
 ### **WHEN DO WE DISCLOSE INFORMATION TO THIRD PARTIES?**
 
-When you provide information to us through our Site, we may share your information with Service Providers we have retained to perform services on our behalf. These Service Providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. We may share your information with our Affiliates and Business Partners to fulfill your requests, service your account, improve our services, and develop, inform you about and provide you with offers about our products, services, and events as well as those of our Affiliates and Business Partners. We may also share your personal information with our Affiliates, Service Providers and Business Partners for their own marketing purposes. 
+When you provide information to us through our Site, we may share your information with Service Providers we have retained to perform services on our behalf. These Service Providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements.
+
+We may share your information with our Affiliates and Business Partners to fulfill your requests, service your account, improve our services, and develop, inform you about and provide you with offers about our products, services, and events as well as those of our Affiliates and Business Partners. We may also share your personal information with our Affiliates, Service Providers and Business Partners for their own marketing purposes.
 
 Additionally, we may disclose your information: (i) if we are required or permitted to do so by law or legal process; (ii) to law enforcement authorities; (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity; or in the event that all or part of the Company or all or part of its assets are acquired by, merged with, sold to, or otherwise disposed of to one or more third parties (including, without limitation, in the event of bankruptcy).
 
 We may aggregate information that we gather about our customers, sales, traffic patterns, and services and provide these statistics to our Service Providers, Affiliates and Business Partners in aggregate form. This aggregated information is not personally identifiable.
+
+  
+
 
 ### **WHAT CHOICES DO YOU HAVE AND HOW CAN YOU ACCESS OR UPDATE YOUR INFORMATION?**
 
