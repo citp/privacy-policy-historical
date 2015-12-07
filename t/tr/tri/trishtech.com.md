@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trishtech.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609001843id_/http%3A//www.trishtech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trishtech.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207224052id_/http%3A//www.trishtech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,17 +8,19 @@ Because we gather certain types of information about our users, we feel you shou
 
 ### Website Usage Tracking
 
-[TrishTech.com](http://www.trishtech.com/) uses three popular web traffic and usage analysis tools – Google Analytics (a third party tool), StatCounter and Feedjit. They may monitor your Internet Protocol (IP) addresses, browser type, MIME type, Internet service provider (ISP), referring and exit pages, platform type, date and time stamp, and number of clicks. IP addresses are not linked to personally identifiable information, and TrishTech.com does not correlate this information with data about individual users.
+[TrishTech.com](http://www.trishtech.com/) uses the popular web traffic and usage analysis tools – Google Analytics (a third party tool). They may monitor your Internet Protocol (IP) addresses, browser type, MIME type, Internet service provider (ISP), referring and exit pages, platform type, date and time stamp, and number of clicks. IP addresses are not linked to personally identifiable information, and TrishTech.com does not correlate this information with data about individual users.
 
 This information is collected through a third party site analysis tool (Google Analytics) in the hope of making this site better and cater better to the needs of our site visitor. For example, if we notice more clicks in a certain area of web site, then we may concentrate on adding more content in that area of [TrishTech.com](http://www.trishtech.com/). Under no circumstances does [TrishTech.com](http://www.trishtech.com/) divulge any information about an individual user to a third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
 
+Google Analytics collects information anonymously. It reports website trends without identifying individual visitors. **You can opt out of Google Analytics without affecting how you visit our site** – for more information on opting out of being tracked by Google Analytics across all websites you use, visit this [Google page](http://tools.google.com/dlpage/gaoptout).
+
 ### Third Party Advertising
 
-We use the Google Adsense program to serve third party advertisements to you when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about products and services of interest to you. Some of these advertisments make use of the Google DART cookie. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy/ads/).
+We use the Google Adsense program to serve third party advertisements to you when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about products and services of interest to you. Some of these advertisements make use of the Google DART cookie. **Users may opt out of the use of the DART cookie** by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy/ads/).
 
 ### Comments
 
-In the comments section at the end of an article, we at [TrishTech.com](http://www.trishtech.com/) may collect your email address and IP adress (internet protocol address). We will never disclose, sell, rent or loan this information to any third party. This information will be known only to us. This information is required to block spam, repeated comments and general website misuse.
+We use Disqus services for providing you with the ability to comment at the end of an article. Disqus sets cookies to uniquely identify your browser and lets Disqus help you log in faster and enhance your navigation through the site. A cookie may also convey information to Disqus about how you use the Service, and allow Disqus to track your usage of the Service over time. You can read privacy policy of Disqus at <https://help.disqus.com/customer/portal/articles/466259-privacy-policy>.
 
 ### Your consent
 
