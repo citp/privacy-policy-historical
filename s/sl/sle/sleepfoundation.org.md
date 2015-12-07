@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleepfoundation.org privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624040641id_/http%3A//sleepfoundation.org/site-informantion/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepfoundation.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207200912id_/https%3A//sleepfoundation.org/site-informantion/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - National Sleep Foundation
 
