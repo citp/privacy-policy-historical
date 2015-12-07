@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigdoggie.net privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702191533id_/http%3A//www.bigdoggie.net/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigdoggie.net privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207133043id_/http%3A//www.bigdoggie.net/support/privacy.html) for the most accurate reproduction.*
 
 # BigDoggie.net - Escort Reviews and Listings
 
@@ -8,7 +8,7 @@
 
 > A. The operative parties referred to in this policy are Company and you, the user of this site. 
 > 
-> 1\. **EMP Media INC.** are the publishers and/or operators of and are hereinafter referred to collectively as "Company." When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring respectively to EMP Media INC. as applicable. Additionally, when the terms "The Site" or "Site" are used, these terms refer respectively to www.bigdoggie.net as applicable. 
+> 1\. **International Spirit, LTD** , a Netherlands company are the publishers and/or operators of and are hereinafter referred to collectively as "Company." When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring respectively to International Spirit, LTD, a Netherlands company as applicable. Additionally, when the terms "The Site" or "Site" are used, these terms refer respectively to www.bigdoggie.net as applicable. 
 > 
 > 2\. **You, the User:**   As the user of this Site, this policy will refer to the user as "you" or through any second-person pronouns, such as "yours," etc. Hereinafter, the user of the Site shall be referred to in applicable second-person pronouns. 
 > 
@@ -92,6 +92,6 @@
 
 ## X. Where to Direct Questions About Our Privacy Policy
 
-> If you have any questions about this Privacy Policy or the practices described hereunder, you may contact us from our [Support Page](https://web.archive.org/support/). You may also contact us by mail at EMP Media, Inc. P.O. Box 1901, Harrisonburg, VA 22801   
+> If you have any questions about this Privacy Policy or the practices described hereunder, you may contact us from our [Support Page](https://web.archive.org/support/).   
   
 ---|---
