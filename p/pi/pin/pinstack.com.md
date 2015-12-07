@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinstack.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607155939id_/http%3A//forums.pinstack.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinstack.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207133124id_/http%3A//forums.pinstack.com/privacy.php) for the most accurate reproduction.*
 
 # Smartphones: PinStack.com - Please read our privacy statement...
 
