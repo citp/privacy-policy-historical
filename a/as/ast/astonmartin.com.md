@@ -1,173 +1,175 @@
-> *The following text is extracted and transformed from the astonmartin.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606053029id_/http%3A//www.astonmartin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astonmartin.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207102143id_/http%3A//www.astonmartin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Please read this policy carefully as it sets out how we (Aston Martin Lagonda and any of its group companies – which we will refer to collectively as "Aston Martin") use your personal information. If you have any questions about this policy or do not agree with it, please contact us before using this website. Aston Martin Lagonda and its group companies does not include our dealerships. If you would like to review the privacy policy and practices of any dealership please visit the website of the relevant dealership or contact them directly.
+## ABOUT THIS PRIVACY POLICY
 
-We may change this policy from time to time by updating this page. You should check this page from time to time to ensure you are happy with any changes. 
+Aston Martin Lagonda Limited (“ **Aston Martin** ” “ **us** ”, “ **we** ” or “ **our** ”), with its registered office at Banbury Road, Gaydon, Warwickshire, CV35 0DB and registered number 01199255, is committed to protecting the privacy of its  users. 
 
-## What information do we collect?
+This privacy policy (the “ **Privacy Policy** ”) explains our policy regarding any personal data that you might supply to us (or that might be collected from you) when you visit our Website or use certain services offered via the Website (“ **Information** ”). The Information shall be used in accordance with the permissions granted by you and in accordance with the [Data Protection Act](http://www.hmso.gov.uk/acts/acts1998/19980029.htm) 1998 (the “ **Act** ”). 
 
-In general, you can visit our website without giving us any information, and we don’t know who you are. If you are one of our anonymous visitors, please bear in mind that we may still:
+This Privacy Policy is intended to assist you in making informed decisions when using our Website. Please take a minute to read and understand it and please note that it should be read in conjunction with our [General Terms](https://web.archive.org/terms-conditions) and our [Cookie Policy](https://web.archive.org/cookie-policy), referred to below. 
 
-  * record the areas of the website which you visit; and
-  * collect information about your computer, such as which browser you are using, your network location, the type of connection you are using (e.g. broadband, ADSL etc).
+  
 
 
+Please note this Privacy Policy only applies to the use of Information collected via our Website or during your communications with us. It does not apply to your communications with our authorised dealers, or any other third party. 
 
-We do this by using Cookies, but we can’t tell who you are. 
+  
 
-However, additional services may be available if you register with Aston Martin. In this case, once you register, we will know who you are, your activities on Aston Martin and information about your computer may be linked on our systems to you.
 
-Whenever we collect your personal data, for example when you contact us, you will see the padlock symbol. The types of information we may request are: 
+## DATA CONTROLLER
 
-  * contact information - your name, address, postcode and other contact information including email address and telephone/mobile number;
-  * general information about you - your personal or professional interests, experiences with our products and services or other products and services and your contact preferences;
+  
 
 
+Aston Martin Lagonda Limited is the data controller (“Data Controller”) for the purposes of the Act and can be contacted at Banbury Road, Gaydon, Warwickshire, CV35 0DB.
 
-Some information is required information and you’ll see that indicated by a red border, but other information is optional and if you don’t want to give it to us, don’t worry. But it will help us to improve our products and services if you do, so we’d be very grateful if you did.
+  
 
-We may also retain copies of any correspondence you send us and we will certainly keep details of your registration history with us.
 
-## What do we do with the information we collect?
+## OUR COMMITMENT TO PROTECTING YOUR PRIVACY
 
-We use this information for all sorts of reasons!
+Aston Martin is committed to protecting your privacy. You can visit most pages on the Website without giving Aston Martin any Information. But sometimes Aston Martin does need Information to provide the services that you request. This document is designed to give you a clear explanation of Aston Martin’s data processing policies. Please see below for further information. If you have any questions or concerns relating to Aston Martin’s use of your Information and/or data protection, please contact the Data Controller at our registered office address above. 
 
-The main reason we use this information is to provide you with our products and services (whether available via the website or offline). We also use the information for:
+  
 
-  * internal record keeping;
-  * product development;
-  * answering your queries;
-  * contacting you for market research and marketing (for more on this see below).
 
+By using the Website you consent to Aston Martin’s collection and use of your Information as described in this Privacy Policy. If we change this Privacy Policy we will post an updated version of this Privacy Policy on the Website to keep you aware of what Information is collected, how it is used and under what circumstances we may disclose it.
 
+  
 
-We may contact you by e-mail, phone, or mail, unless you have registered with the appropriate Preference Service or opted for us not to do so.
 
-## Direct Marketing
+## INFORMATION COLLECTED
 
-We may, from time to time, want to send you information about promotions, offers and other items which may be of interest either by post, email or SMS or we may want to contact you by phone. However, we respect that not everyone will want to hear about our great products and services! For this reason, we will only send you marketing if you have opted to receive it.
+**You may send us or we may ask you for the following Information:**
 
-If you decide at any time that you no longer wish to receive marketing from us, you can unsubscribe here <http://newsletter.astonmartin.com/newsletter.aspx> or you can write to us at:
+• Your full name;  
+• Your address and postcode;  
+• Your contact information (such as your email address, telephone number and mobile telephone number);  
+• General information about yourself (such as your personal or professional interests, your experience of our services and products or other services and products and your contact preferences);  
+• Photographic and/or video materials featuring your name and likeness that you may post to our Website; and  
+• In the event that you apply for a job with Aston Martin, we will require further professional Information about yourself by way of a job application or your Curriculum Vitae. 
 
-The Data Controller  
-Human Resources  
-Aston Martin Lagonda Limited  
-Banbury Road  
-Gaydon  
-Warwickshire  
-CV35 0DB  
-England
+**Aston Martin may also collect certain information about your computer hardware and software, this includes:**
 
-We will always give you an opportunity to unsubscribe from receiving any marketing from us in each communication we send to you.
+• Your IP address;  
+• Browser type;  
+• Operating system;  
+• Access times; and  
+• Referring website addresses 
 
-## Who do we share this information with?
+  
 
-We may share your personal information with companies performing services on our behalf (such as direct marketing agents or courier services) who will only use the information to provide that service. We may also share your personal information with other members of our corporate group, or a purchaser or potential purchaser of our business.
 
-In some circumstances, we may have to disclose your personal information by law, because a court or the police or other law enforcement agency has asked us for it.
+## HOW YOUR INFORMATION IS USED 
 
-On occasion we may also share your information with other reputable organisations who we believe may have products and services which they can offer you which will be of interest. 
+**Aston Martin and/or our partners may use your Information in the following ways:**
 
-## How to get copies of or amend the information we have collected
+• To ensure that the content on our Website is presented in the most effective manner for you and your computer;  
+• To enable you to use the interactive features of our Website;   
+• To provide products and services that you have requested;   
+• To develop and improve our products and services;   
+• For our internal record keeping;   
+• To contact you to answer any queries you may have;   
+• To contact you for market research or marketing purposes where you have given us permission to do so. For more information on how we may market products and services to you please see below; and  
+• In the event that you apply for a job with Aston Martin we will use any Information you submit by way of a job application or your Curriculum Vitae solely to assess your suitability for employment by us and to carry out any subsequent interview process. 
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to our data protection compliance officer by using the enquiry form on this page <http://site.astonmartin.com/eng/contactus/websitecomments> or in writing to:
+**Aston Martin may in limited circumstances, disclose your Information to the following third parties:**
 
-The Data Controller  
-Human Resources  
-Aston Martin Lagonda Limited  
-Banbury Road  
-Gaydon  
-Warwickshire  
-CV35 0DB  
-England
+  
 
-If you think any information we have about you is incorrect or incomplete, please write or e-mail us as soon as possible. We will correct or update any information as soon as possible.
 
-## Security
+• In the event that Aston Martin sells or buys any business or asset we may disclose your Information to the prospective seller or buyer;   
+• In the event that you apply for a job with Aston Martin we may share your Information with third party agents who we use to assist us in the recruitment process; and   
+• If Aston Martin is under a duty to disclose or share your Information to comply with any legal obligation or in order to enforce or apply Aston Martin’s terms and conditions and other agreements or protect the rights, property, or safety of our customers, or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction. 
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect on line.
+  
 
-## Linking
 
-We may link to other websites which are not within our control. Once you have left our Aston Martin, we cannot be responsible for the protection and privacy of any information which you provide. You should exercise caution and look at the privacy statement applicable to the website in question.
+## REPORTING FRAUD 
 
-## Cookies
+  
 
-We use cookies on www.astonmartin.com. Cookies are files that store information on your hard drive or internet browser which mean that Aston Martin can recognise that you have visited our website before. They make it easier for you to maintain your preferences (if expressed) on www.astonmartin.com, and by seeing how you use our website, we can tailor www.astonmartin.com around your preferences and measure its usability. 
 
-You can, should you choose, disable the cookies from your chosen browser(s) and delete all cookies currently stored on your computer.  However please be aware this may prevent you from taking full advantage of the website. You can find out how to do this for your particular browser by clicking "help" on your browser's menu or by visiting http://www.allaboutcookies.org/manage-cookies/index.html
+We are committed to ensuring your Information is secure. As part of our efforts to protect your Information Aston Martin will never send you emails asking for your personal Information or for your registered password (if you are a registered user). 
 
-**Information on the type of Cookies we Use**
+If you do receive such an email or are asked to disclose this information by someone claiming to work for Aston Martin please report the communication to our Data Controller using the following methods: 
 
-The majority of the cookies we use do not collect any data which allow us to personally identify you. If you submit personal information on our website (via forms or purchases) this is clearly marked with the appropriate data protection information and an explanation on how we may use the data you provide to us. If we do place a cookie which does allow us to personally identify you we will seek your permission at the appropriate time.
+• Using the enquiry form at [www.astonmartin.com/enquire](http://www.astonmartin.com/enquire) or  
+• By writing to the Data Controller at our registered office address: Banbury Road, Gaydon, Warwickshire, CV35 0DB. 
 
-**Outside of the United States of America we only utilise two types of cookie:**
+  
 
-1) **Analytics Cookies** – These enable us to learn more about how visitors are using our website so we can improve our online experience.  These cookies do not collect any personal data. This is served from our analytics provider and is classed as a ‘third party cookie’. Third party cookies are those that are set by a domain different to the one that you are visiting.
 
-2) **Shopping Basket / Registration Cookies** – When visiting our online store http://store.astonmartin.com if you place a product into your basket or create an account we will create and place a cookie so we can subsequently remember you and allow you to complete your purchase. This is served from our own website and is classed as a ‘first party cookie’. First party cookies are those that are set by the same domain to the one that you are visiting. A similar cookie is stored if you register for our Pre-Owned vehicle locator ([http://used.astonmartin.com](http://used.astonmartin.com/)) or have access to any areas of our site which are password protected.
+## CORRECTING, UPDATING AND REMOVING YOUR INFORMATION 
 
-**Within the United States of America we utilise three types of cookie:**
+  
 
-1) **Analytics Cookies** – These enable us to learn more about how visitors are using our website so we can improve our online experience.  These cookies do not collect any personal data. This is served from our analytics provider and is classed as a ‘third party cookie’. Third party cookies are those that are set by a domain different to the one that you are visiting.
 
-2) **Shopping Basket / Application Cookies** – When visiting our online store http://store.astonmartin.com when you place a product into your basket or create an account we will create and place a cookie so we can subsequently remember you and allow you to complete your purchase. This is served from our own website and is classed as a ‘first party cookie’. First party cookies are those that are set by the same domain to the one that you are visiting.
+You have the right to ask us to provide a copy of the Information we hold about you (for which we may charge a small administration fee) and to have Information removed or any inaccurate Information about you corrected. 
 
-3) **Behavioural Cookies** – On selected pages we serve cookies from our marketing partner Quantcast (http://www.quantcast.com/) which allow us to tell whether you entered our site from an online advertisement and your subsequent on site behaviour.  These cookies may allow you to have online advertisements outside of Aston Martin made more relevant based on your browsing history.
+If you would like your Information to be removed from our records or if your Information requires amending then we will endeavour to correct, update or remove your Information as swiftly as possible. This can be done using the following methods: 
 
-**It is important to note:**
+• Using the enquiry form at http://site.astonmartin.com/eng/contactus/websitecomments; or  
+• By writing to the Data Controller at our registered office address: Banbury Road, Gaydon, Warwickshire, CV35 0DB.
 
-1) Cookies cannot carry viruses or install malware and do not hamper the performance of your browsing device in any way.
+Please note that while Aston Martin will endeavour to make the updates as promptly as possible, communications may be sent using the original details until the changes have been processed. 
 
-2) By using the Aston Martin website, you are agreeing to our Privacy and Cookie policies and consent to the use of cookies as described on this page. If you do not agree to such use, please see above for details on how to adjust your browser settings.
+  
 
-3) Aston Martin Lagonda Ltd. cannot be held liable for the content or cookies served by sites we may link to.
 
-4) If you interact with Aston Martin on a social network you may have cookies dropped on to your browsing device. We do not control the setting of, and accept no liability in connection with, these cookies – please look at the third-party websites for more information about what they do with cookies and how you can manage them.
+## OUR RETENTION OF YOUR INFORMATION 
 
-**Find out more on cookies:**
+  
 
-[http://www.aboutcookies.org](http://www.aboutcookies.org/)
 
-Or email us for further information: [cookies@astonmartin.com](mailto:cookies@astonmartin.com)
+We take all reasonable steps to retain your personal Information only for as long as reasonably necessary. If you no longer want us to store your Information you may request for it to be removed from our records, please see below for details of how to request removal. Please note that such removal may prevent us from supplying certain services to you. 
 
-## Phishing
+  
 
-Phishing is the name given to attempts to steal personal details and financial account details from a website user. “Phishers” use fake or "spoof" emails to lead users to counterfeit websites where the user is tricked into entering their personal details, such as credit card numbers, user names and passwords. WE WILL NEVER SEND EMAILS ASKING YOU FOR SUCH DETAILS AND Aston Martin STAFF WILL NEVER ASK YOU FOR YOUR PASSWORD.
 
-If you do receive such an email or are asked for your password by anyone claiming to work for Aston Martin please forward the email or report the incident by using the enquiry form on this page <http://site.astonmartin.com/eng/contactus/websitecomments> or in writing to Aston Martin at:
+## STORING YOUR INFORMATION 
 
-The Data Controller  
-Human Resources  
-Aston Martin Lagonda Limited  
-Banbury Road  
-Gaydon  
-Warwickshire  
-CV35 0DB  
-England
+  
 
-## When you apply for a job
 
-In completing our job application form or submitting your CV to us by email, you will give us personal information about yourself.
+The Information that Aston Martin collects from you may be transferred to and stored at a destination outside the European Economic Area (“EEA”). The Information may also be processed by staff operating outside the EEA who work for us or for one of Aston Martin’s suppliers. By submitting Information to Aston Martin, you agree to this transfer, storing or processing. Aston Martin will take all steps reasonably necessary to ensure that your Information is treated securely and in accordance with this Privacy Policy and the Act. 
 
-### Uses of personal data 
+  
 
-We will use your personal data only for the purpose of assessing your suitability for employment by us and in any subsequent interviewing process. Copies of the information you submit and any further correspondence will be retained in order to progress your job application and as a record of our employment and fair access processes. 
 
-### Third party access
+## LINKS TO OTHER WEBSITES 
 
-When you apply for a job with Aston Martin the application will be processed by the relevant office of Aston Martin situated in the country in which you are accessing the Site and the country in which you are applying to work, if different. 
+  
 
-We also employ third party agents to aid the recruitment process. Your CV and other details will be given to our nominated agent in the country in which you are applying to work, although we will retain control of your data and the agent must act in accordance with our instructions.
 
-Due to the global nature of Aston Martin, it may be necessary to send your personal information to countries which have a different standard of data protection than the country in which you are situated. We have put in place protections to ensure that your information is safeguarded.
+The Website contains some links to other third party websites. Please be aware that Aston Martin is not responsible for the privacy practices of such other third party sites. This Privacy Policy applies solely to the Information collected by Aston Martin on this Website. 
 
-### Retention of data 
+  
 
-We take all reasonable steps to retain personal information only for as long as we need to process your job application. We may also retain your details after a decision has been reached regarding your suitability for current jobs for vacancies that may become available in the future. 
 
-If no longer wish us to store your personal information, please contact us by using the enquiry form on this page <http://site.astonmartin.com/eng/contactus/websitecomments> and we will delete it from our database unless we need to continue to hold some details about you after your relationship with us has ended, for example for legal and regulatory purposes.
+## Marketing Use
+
+  
+
+
+From time to time, and where you have given your permission to do so, we or our partners may wish to contact you with information relating promotions, offers and other information about our products and services, or the products and services of our partners including our group companies and our authorised dealers. 
+
+If you decide you do not want to receive those marketing communications, you can unsubscribe using the following methods: 
+
+• On our website at: http://newsletter.astonmartin.com/newsletter.aspx; or   
+• By writing to the Data Controller at our registered office address: Banbury Road, Gaydon, Warwickshire, CV35 0DB; or   
+• On each marketing communication there will also be an opportunity for you to unsubscribe. 
+
+  
+
+
+## COOKIES
+
+  
+
+
+We use cookies on our Website for identification, analysis and advertising purposes. By using the Website you consent to the storing and accessing of cookies on your device. To find out more about the cookies we use and how to set your preferences please see our [Cookies Policy](https://web.archive.org/cookies-policy). 
 
 Loading...
