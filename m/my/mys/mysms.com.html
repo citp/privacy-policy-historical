@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mysms.com privacy policy that was archived on 2015-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609001552id_/http%3A//www.mysms.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mysms.com privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207133302id_/http%3A//www.mysms.com/en/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
   <base href="http://www.mysms.com/privacy">
@@ -8,8 +8,9 @@
   <meta name="author" content="Angela Feiner">
   <meta name="description" content="At mysms we care about the security of your personal data. Find out how we secure, store and transfer and your information.">
   <title>Privacy Policy | mysms</title>
-  <link href="http://www.mysms.com/privacy" rel="canonical">
   <link href="http://www.mysms.com/de/privacy" rel="alternate" hreflang="de">
+  <link href="http://www.mysms.com/privacy" rel="alternate" hreflang="en">
+  <link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
   <meta property="og:image" content="http://www.mysms.com/templates/mysmstemplate/img/og/feature.jpg">
@@ -28,22 +29,73 @@
 	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-	  ga('create', 'UA-2683520-39', 'auto');
+	  ga('create', 'UA-69376006-1', 'auto');
 	  ga('send', 'pageview');
   </script>
 <!-- End Google Analytics -->
 </head>
 
 <body>
+
+	    <!-- Module header Start -->
+	        
+<div class="cookie" style="display: block;" id="cookie">
+Our website uses cookies to provide you with the best experience we can. By using this website, you agree to mysms’ use of cookies. <a href="/privacy">More about cookies</a>
+  <a href="#" id="close" onclick="closeCookie(event);">×</a>
+</div>
+
+<script>
+  
+//COOKIE  
+checkCookie();
+
+function setCookie(cname, cvalue, exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays*24*60*60*1000));
+    var expires = "expires="+d.toUTCString();
+    document.cookie = cname + "=" + cvalue + "; " + expires + ";path=/";
+}
+  
+function getCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0; i<ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1);
+        if (c.indexOf(name) != -1) return c.substring(name.length,c.length);
+    }
+    return "";
+}
+
+function checkCookie() {
+    var myCookie=getCookie("mysmsCookie");
+    if (myCookie!="") {
+    }else{
+      document.getElementById("cookie").style.display = "block";
+    }
+}  
+
+function closeCookie(e) {
+  console.log("close");
+  e.preventDefault();
+  setCookie("mysmsCookie", 1, 365);
+  document.getElementById("cookie").style.display = "none";
+} 
+  
+</script>
+
+	    <!-- Module header End -->
+	
+	
  <header>  
   	<nav class="navbar">
 	  	<div class="container">
 	  		<div class="new">
 				<ul class="nav menu pull-left">
-<li class="item-132"><a class="nav-logo" href="/">Home</a></li><li class="item-134"><a href="/download">Download</a></li><li class="item-133"><a href="/apps">Apps</a></li><li class="item-135"><a href="http://support.mysms.com" target="_blank">Support</a></li><li class="item-136"><a href="http://blog.mysms.com" target="_blank" title="mysms Blog">Blog</a></li></ul>
+<li class="item-132 parent"><a class="nav-logo" href="/">Home</a></li><li class="item-134 parent"><a href="/download">Download</a></li><li class="item-133 parent"><a href="/apps">Apps</a></li><li class="item-135"><a href="http://support.mysms.com" target="_blank">Support</a></li><li class="item-136"><a href="http://blog.mysms.com" target="_blank" title="mysms Blog">Blog</a></li></ul>
 
 				<ul class="nav menu pull-right">
-<li class="item-109"><a class="premium" href="/premium">Premium</a></li><li class="item-110"><a class="login" href="https://app.mysms.com/" target="_blank" title="mysms Web App Login">Login</a></li></ul>
+<li class="item-109 parent"><a class="premium" href="/premium">Premium</a></li><li class="item-110"><a class="login" href="https://app.mysms.com/" target="_blank" title="mysms Web App Login">Login</a></li></ul>
 
 	  		</div>
 	  	</div>
@@ -100,19 +152,17 @@
 
 <strong>Your control over your personal information</strong>
 <p>You may, of course, decline to submit personal information through mysms Services. However, mysms may not be able to offer certain services to you. We take reasonable measures to protect your privacy (such as verifying your number when creating an account) in order to identify your identity before granting you access to an account.</p>
-<p>If you have any questions or comments about this Privacy Notice, please contact mysms via email at <script type="text/javascript">
- <!--
+<p>If you have any questions or comments about this Privacy Notice, please contact mysms via email at <span id="cloak56934"><a href="mailto:help@mysms.com" title="Email the mysms support team">help@mysms.com</a></span><script type="text/javascript">
+ //<!--
+ document.getElementById('cloak56934').innerHTML = '';
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy23029 = 'h&#101;lp' + '&#64;';
- addy23029 = addy23029 + 'mysms' + '&#46;' + 'c&#111;m';
- var addy_text23029 = 'h&#101;lp' + '&#64;' + 'mysms' + '&#46;' + 'c&#111;m';
- document.write('<a ' + path + '\'' + prefix + ':' + addy23029 + '\'>'+ addy_text23029+ '<\/a>');
- //-->\n </script><a href="mailto:help@mysms.com">help@mysms.com</a><script type="text/javascript">
- <!--
- document.write('<span style=\'display: none;\'>'+ 'This email address is being protected from spambots. You need JavaScript enabled to view it.'+ '</'+ 'span>');
+ var addy56934 = 'h&#101;lp' + '&#64;';
+ addy56934 = addy56934 + 'mysms' + '&#46;' + 'c&#111;m';
+ var addy_text56934 = 'h&#101;lp' + '&#64;' + 'mysms' + '&#46;' + 'c&#111;m';
+ document.getElementById('cloak56934').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy56934 + '\' title="Email the mysms support team">'+addy_text56934+'<\/a>';
  //-->
- </script><span style="display: none;">This email address is being protected from spambots. You need JavaScript enabled to view it.</span>.</p>
+ </script>.</p>
 <br>
 
 <strong>Information sharing and disclosure</strong>
@@ -170,7 +220,7 @@
 	mysms</span>
 <ul class="nav-child unstyled small"><li class="item-201"><a href="/">Home</a></li><li class="item-118"><a href="/download">Download</a></li><li class="item-116"><a href="/apps">Apps</a></li><li class="item-117"><a href="/premium">Premium</a></li></ul></li><li class="item-113 divider deeper parent"><span class="separator">
 	About us</span>
-<ul class="nav-child unstyled small"><li class="item-119"><a href="/about-mysms">About mysms</a></li><li class="item-120"><a href="/company">Company</a></li><li class="item-121"><a href="/terms">T&amp;C</a></li><li class="item-122 active"><a href="/privacy">Privacy</a></li><li class="item-123 parent"><a href="/press">Press</a></li></ul></li><li class="item-114 divider deeper parent"><span class="separator">
+<ul class="nav-child unstyled small"><li class="item-119"><a href="/about-mysms">About mysms</a></li><li class="item-120"><a href="/company">Company</a></li><li class="item-121"><a href="/terms">T&amp;C</a></li><li class="item-122 current active"><a href="/privacy">Privacy</a></li><li class="item-123 parent"><a href="/press">Press</a></li></ul></li><li class="item-114 divider deeper parent"><span class="separator">
 	Community</span>
 <ul class="nav-child unstyled small"><li class="item-124"><a href="http://blog.mysms.com" target="_blank">Blog</a></li><li class="item-127"><a href="http://support.mysms.com" target="_blank">Support</a></li><li class="item-314"><a href="/translation">Translation Tool</a></li><li class="item-126"><a href="/developer">Developer</a></li></ul></li><li class="item-115 divider deeper parent"><span class="separator">
 	Follow us</span>
@@ -185,7 +235,7 @@
 							Deutsch						</a>
 			</li>
 								<li class="lang-active" dir="ltr">
-			<a href="/">
+			<a href="http://www.mysms.com/privacy">
 							English						</a>
 			</li>
 				</ul>
@@ -199,6 +249,8 @@
 <script>window.jQuery || document.write(unescape('%3Cscript src="/templates/mysmstemplate/js/jquery.min.js"%3E%3C/script%3E'))</script><script src="/templates/mysmstemplate/js/jquery.min.js"></script>
 <script src="/templates/mysmstemplate/js/jquery.fancybox.js"></script>
 <script src="/templates/mysmstemplate/js/functions.js"></script>
+
+
 
 
 </body></html>
