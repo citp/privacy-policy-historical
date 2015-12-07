@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aviva.com privacy policy that was archived on 2015-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629165527id_/http%3A//www.aviva.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aviva.com privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207131228id_/http%3A//www.aviva.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox flexboxlegacy no-touch multiplebgs backgroundsize cssanimations csstransforms csstransitions svg bgpositionshorthand pointerevents" lang="en" style=""><!--<![endif]--><head>
 	<meta charset="utf-8">
@@ -23,7 +23,6 @@
 
 	
 	
-	<!-- Canonical tag for SEO -->
 	<link rel="canonical" href="http://www.aviva.com/privacy-policy/">
 	
 	
@@ -38,14 +37,19 @@
 	<link rel="apple-touch-icon" href="/library/static/images/favicon/apple-touch-icon-small.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="/library/static/images/favicon/apple-touch-icon.png">
 	<link rel="apple-touch-icon" sizes="114x114" href="/library/static/images/favicon/apple-touch-icon-large.png">
+
 	<!-- Optional Apple fullscreen mode -->
 	<meta name="apple-mobile-web-app-capable" content="yes">
 
 	<!-- MS tile image and colour -->
 	<meta name="msapplication-TileImage" content="/library/static/images/favicon/apple-touch-icon-small.png">
 	<meta name="msapplication-TileColor" content="#ffd900">
+
 	<!-- Optional MS tile title -->
 	<meta name="title" content="Aviva UK">
+
+	
+	
 
 	<!-- Template Map
 	    
@@ -84,11 +88,19 @@
 	
 	
 		<script type="text/javascript" src="/library/static/js/libs/modernizr-2.8.3.js"></script>
+
 		<!--[if lte IE 9]>
 		    <script type="text/javascript" src="/library/static/js/libs/aviva-mediaMatch-IE.js"></script>
 		<![endif]-->
 
 		<script type="text/javascript" src="/library/static/js/jquery/v1.7.2/jquery.min.js"></script>
+
+		<script>
+			// Namespace for site config
+			$(document).data('AVIVA', {
+				'paths': { siteStatic: '/library/', djStatic: '/library/static/' }
+			});
+		</script>
 
 		<script type="text/javascript" src="/library/static/js/fancybox/v2.1.4/jquery.fancybox.js"></script>
 
@@ -108,18 +120,18 @@
 
 		<!--AddThis tracking-->
 		<!--<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>-->
-		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-519b85c732652b2c"></script>
+		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-519b85c732652b2c" async=""></script>
 		<!--End AddThis tracking-->
-
-		
 	
 
 
 	
-<script type="text/javascript">	
-	function lightboxCountrySelector( oA ){
-		var targetContent = $('<div />').load(oA.href + " #countrySelector", function (){
-		$.fancybox(targetContent, {
+<script type="text/javascript">
+	function lightboxCountrySelector( href ){
+		if (href === undefined) return;
+
+		var targetContent = $('<div />').load(href + " #countrySelector", function (html) {
+			$.fancybox(targetContent, {
 				maxWidth	: 1000,
 				minWidth	: 230,
 				minHeight	: 260,
@@ -129,19 +141,29 @@
 				//openEffect	: 'elastic',
 				closeEffect	: 'none'
 			});
-		}); 
+		});
 	}
-	<!-- FancyBox -->
-	$(document).ready(function(){
-		$(".country-select").on("click", function(){ lightboxCountrySelector(this); return false;});
-		$(".country").on("click", function(){ lightboxCountrySelector(this); return false;});	
+
+	// FancyBox
+	$(function onDocumentReady(event){
+		$(".country-select").on("click", function onCountrySelectClick(event) {
+			event.preventDefault();
+			lightboxCountrySelector(this.href);
+		});
+
+		$(".country").on("click", function onCountryClick(event) {
+			event.preventDefault();
+			lightboxCountrySelector(this.href);
+		});
 	});
-</script>	
+</script>
 
 
 
 	
 	 
+
+	<script src="//www.aviva.com/metrics/fb6bbc707c73b3bbf55de42292764ed12602d62f/satelliteLib-e8013b342ae6e497ceec2d71c3df6d7c5dab6bbc.js"></script>
 
 
 
@@ -183,7 +205,7 @@
 		</ul></div>
 	</div>
 		
-		
+
 		<div id="headerSubNav">
 		    <!--
 			<a href="/cookie-policy/" class="cookieLink">Aviva cookies</a>
@@ -192,28 +214,28 @@
 			</a>
 		     -->
 		</div>
-		
-        
+
+
 		<div id="headerSearch">
-			
+
 			<div id="country-select" class="botGap">
-				<a href="/choose-your-countrys-website/" class="country-select button color-scheme-3 plus"><span class="visuallyhidden">Select an </span>Aviva website in your country</a>
+				<a href="/choose-your-countrys-website/" class="country-select button color-scheme-3 plus" data-track-id="Country select header"><span class="visuallyhidden">Select an </span>Aviva website in your country</a>
 			</div>
 			<form action="/search" method="get" role="search" id="search" class="botGap">
 				<fieldset>
 					<legend>Search</legend>
 					<label for="q">Search site</label>
 					<input type="search" name="q" id="q" value="" placeholder="Search…">
-					<input type="submit" name="" id="submit" value="Search">		
-					<input type="hidden" id="site" name="section" value="">	
-				</fieldset>		
+					<input type="submit" name="" id="submit" value="Search">
+					<input type="hidden" id="site" name="section" value="">
+				</fieldset>
 			</form>
-			
+
 		</div>
         
-		
+
 		<!-- headnav -->
-		<nav role="navigation" id="nav">
+		<nav role="navigation" id="nav" class="mainNav">
 			
 <ul>
     
@@ -238,11 +260,6 @@
     </li>
     
     <li class="sibling">
-        <a href="/research-and-discussion/">Research and discussion</a>
-        
-    </li>
-    
-    <li class="sibling">
         <a href="/corporate-responsibility/">Corporate responsibility</a>
         
     </li>
@@ -263,41 +280,37 @@
 
 		<div class="wrapper content-wrapper">
 			<div id="mainArea" class="clearFix">
-				
-
-<div class="share-price-wrapper">
-        <div id="share_price" class="homepage-align shareTicker visible " data-plugin-id="" data-plugin-type="Share Ticker Plugin">
+				<!-- shareprice --><div class="share-price-wrapper">
+<div id="share_price" class="homepage-align shareTicker visible">
+        
+                <div class="shareHeader">
+                        <p class="sharePrice left clear">
+                                
+                                        <span class="uk up" title="London Stock Exchange up since last close">512.63p</span>
+                                
+                                
+                                        <span class="usa up" title="New York Stock Exchange up since last close">$15.48</span>
+                                
+                        </p>
+                        <div class="left clear">
                 
-                        <div class="shareHeader">
-                                <p class="sharePrice left clear">
-                                        
-                                                <span class="uk even" title="London Stock Exchange even since last close">499.70p</span>
-                                        
-                                        
-                                                <span class="usa down" title="New York Stock Exchange down since last close">$15.76</span>
-                                        
-                                </p>
-                                <div class="left clear">
-                        
-                                <p class="lastUpdated">Updated at 17:39 on 29 Jun 2015 BST</p>
-                                <p class="details"><a class="linkArrow" href="/investor-relations/share-price/">More share price information</a></p>
-                        
-                                </div>
+                        <p class="lastUpdated">Updated at 12:56 on 07 Dec 2015 GMT</p>
+                        <p class="details"><a class="linkArrow" href="/investor-relations/share-price/">More share price information</a></p>
+                
                         </div>
+                </div>
 
-                
-        </div>
+        
 </div>
-
-
+</div>
+<!-- end shareprice -->
 				<!-- icon::class="section-nav ph-25"  -->
 				
 <!--small device nav-->
 <div class="section-nav ph-25 minimal">
-	<p>
+	<div class="root-link">
 		<a href="/">Home</a>
-	    
-	</p>
+	</div>
 	<ul>
 		<li class="selected"><a href="/privacy-policy/">Privacy Policy</a>
 			<ul>
@@ -312,15 +325,14 @@
 </div>
 <!--desktop nav-->
 <div class="section-nav ph-25 extended">
-	<p>
+	<div class="root-link">
 		<a href="/privacy-policy/">Privacy Policy</a>
-	</p>
-		
+	</div>
 	<ul>
 		
 
 
-	</ul>	
+	</ul>
 </div>
 				<div class="ph-75 ph-margins" role="main" id="contentArea">
 					
@@ -490,6 +502,7 @@
 	<script src="/shared/js/s_code.js"></script>
 	<script>
 	// <![CDATA[
+		if ('s' in window) {
 	    /* Automatically set pagename from the url */
 	    
 	    if(typeof pathSplit === "function"){ pathSplit();
@@ -498,8 +511,14 @@
 	    
 	    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 	    var s_code=s.t();if(s_code)document.write(s_code);
+	  }
 	</script>
 	<!-- End SiteCatalyst code version: H.21. -->
 	
+	<script type="text/javascript">
+		if (_satellite in window)
+			_satellite.pageBottom();
+	</script>
+
 
 </body></html>
