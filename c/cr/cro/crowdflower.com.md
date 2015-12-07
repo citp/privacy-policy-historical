@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdflower.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610055251id_/https%3A//www.crowdflower.com/legal-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdflower.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207140513id_/https%3A//www.crowdflower.com/legal-privacy) for the most accurate reproduction.*
 
 # CrowdFlower | Legal Privacy
 
