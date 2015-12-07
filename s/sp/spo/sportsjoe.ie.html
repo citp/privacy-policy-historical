@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sportsjoe.ie privacy policy that was archived on 2015-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608212715id_/http%3A//www.sportsjoe.ie/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sportsjoe.ie privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207015811id_/http%3A//www.sportsjoe.ie/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <title>Privacy Statement | SportsJOE.ie</title>
@@ -40,9 +40,9 @@
                     }
 </script>
 <link rel="canonical" href="http://www.sportsjoe.ie/privacy-statement">
-<link rel="shortcut icon" type="image/x-icon" href="http://www.sportsjoe.ie/assets/sportsjoe.favicon.ico?v=2">
-<link rel="apple-touch-icon" href="http://www.sportsjoe.ie/assets/sportsjoe.appletouchicon.png?v=1">
-<link media="all" type="text/css" rel="stylesheet" href="http://www.sportsjoe.ie/assets/css/sportsjoe/main.min-cceb136a.css">
+<link rel="shortcut icon" type="image/x-icon" href="http://www.sportsjoe.ie/assets/sportsjoe.favicon.ico?v=10">
+<link rel="apple-touch-icon" href="http://www.sportsjoe.ie/assets/sportsjoe.appletouchicon.png?v=3">
+<link media="all" type="text/css" rel="stylesheet" href="http://www.sportsjoe.ie/assets/css/sportsjoe/main.min-931cee4b.css">
  
  
 <!--[if lt IE 9]>
@@ -53,6 +53,7 @@
     var _maximummedia = _maximummedia || [];
     _maximummedia.sitemode = 'sportsjoe';
     _maximummedia.title = 'SportsJOE.ie';
+    _maximummedia.dfp = '247211819';
 
     var _comscore = _comscore || [];
     _comscore.push({ c1: "2", c2: "9608406" });
@@ -94,7 +95,7 @@
 
         //Top Mapping
         var mapTopPage = googletag.sizeMapping()
-            .addSize([100, 100], [[320, 50],[300, 250]])
+            .addSize([100, 100], [[320, 50], [320, 100], [300, 250]])
             .addSize([758, 200], [728, 90])
             .addSize([980, 200], [[728, 90], [970, 250], [970, 90]])
             .build();
@@ -103,65 +104,33 @@
             .defineSizeMapping(mapTopPage)
             .addService(googletag.pubads());
 
-        googletag.placement.background_skin = googletag.defineSlot('/247211819/sportsjoe_background_skin', [1, 1], 'div-gpt-background_skin')
-            .defineSizeMapping(mapBackgroundSkin)
+        googletag.defineOutOfPageSlot('/247211819/sportsjoe_oop', 'div-gpt-oop')
             .addService(googletag.pubads());
 
-        googletag.placement.out_of_page = googletag.defineSlot('/247211819/sportsjoe_out_of_page', [1, 1], 'div-gpt-out_of_page')
+        googletag.placement.background_skin = googletag.defineSlot('/247211819/sportsjoe_background_skin', [1, 1], 'div-gpt-background_skin')
+            .defineSizeMapping(mapBackgroundSkin)
             .addService(googletag.pubads());
 
                 
         
 //Post Top Mapping
 var mapPostTop = googletag.sizeMapping()
-    .addSize([100, 100], [[320, 50],[300, 250]])
+    .addSize([100, 100], [[320, 50], [320, 100], [300, 250]])
     .addSize([758, 200], [728, 90])
     .addSize([980, 200], [300, 250])
     .build();
 
 var mapPostBottom = googletag.sizeMapping()
-    .addSize([100, 100], [[320, 50],[300, 250]])
+    .addSize([100, 100], [[320, 50], [320, 100], [300, 250]])
     .addSize([758, 200], [728, 90])
-    .addSize([980, 200], [[300, 250],[300, 600]])
-    .build();
-
-var mapPostBottomLeaderboard = googletag.sizeMapping()
-    .addSize([100, 100], [[320, 50],[300, 250]])
-    .addSize([758, 200], [728, 90])
-    .addSize([980, 200], [[728, 90], [970, 250], [970, 90]])
-    .build();
-
-var mapPostSponsoredLogo = googletag.sizeMapping()
-    .addSize([100, 100], [1,1])
-    .addSize([758, 200], [1,1])
-    .addSize([980, 200], [1,1])
-    .build();
-
-var mapPostSponsoredBottom = googletag.sizeMapping()
-    .addSize([100, 100], [[320, 50], [300, 250]])
-    .addSize([758, 200], [[450, 150], [300, 250]])
-    .addSize([980, 200], [[450, 150], [300, 250]])
+    .addSize([980, 200], [[300, 250], [300, 600]])
     .build();
 
 googletag.placement.article_top = googletag.defineSlot('/247211819/sportsjoe_article_top', [1, 1], 'div-gpt-article_top')
     .defineSizeMapping(mapPostTop)
     .addService(googletag.pubads());
 
-googletag.placement.article_top = googletag.defineSlot('/247211819/sportsjoe_article_bottom_leaderboard', [1, 1], 'div-gpt-article_bottom_leaderboard')
-    .defineSizeMapping(mapPostBottomLeaderboard)
-    .addService(googletag.pubads());
 
-googletag.placement.article_bottom = googletag.defineSlot('/247211819/sportsjoe_article_bottom', [1, 1], 'div-gpt-article_bottom')
-    .defineSizeMapping(mapPostBottom)
-    .addService(googletag.pubads());
-
-googletag.placement.article_sponsored_logo = googletag.defineSlot('/247211819/sportsjoe_article_sponsored_logo_top', [1, 1], 'div-gpt-article_sponsored_logo_top')
-    .defineSizeMapping(mapPostSponsoredLogo)
-    .addService(googletag.pubads());
-
-googletag.placement.article_sponsored_bottom = googletag.defineSlot('/247211819/sportsjoe_article_sponsored', [1, 1], 'div-gpt-article_sponsored')
-    .defineSizeMapping(mapPostSponsoredBottom)
-    .addService(googletag.pubads());
 
 googletag.pubads().setTargeting('page', 'article');
 googletag.pubads().setTargeting('article', '702');
@@ -172,7 +141,6 @@ googletag.pubads().setTargeting('article', '702');
         googletag.pubads().disableInitialLoad();
         googletag.enableServices();
     });
-
 </script>
 </head>
 <body>
@@ -223,6 +191,10 @@ googletag.pubads().setTargeting('article', '702');
 <li class="visible-xs "><a href="http://www.sportsjoe.ie/golf">Golf</a></li>
 <li class="visible-xs "><a href="http://www.sportsjoe.ie/motorsports">Motorsports</a></li>
 <li class="visible-xs "><a href="http://www.sportsjoe.ie/horse-racing">Horseracing</a></li>
+<li class="visible-xs "><a href="http://www.sportsjoe.ie/about">About Us</a></li>
+<li class="visible-xs active"><a href="http://www.sportsjoe.ie/privacy-statement">Privacy Statement</a></li>
+<li class="visible-xs "><a href="http://www.sportsjoe.ie/terms-conditions">Terms &amp; Conditions</a></li>
+<li class="visible-xs "><a href="http://www.sportsjoe.ie/contact">Contact Us</a></li>
 <li class="hidden-xs "><a href="http://www.sportsjoe.ie?ref=link">Home</a></li>
 <li class="hidden-xs "><a href="http://www.sportsjoe.ie/football">Football</a></li>
 <li class="hidden-xs "><a href="http://www.sportsjoe.ie/gaa">GAA</a></li>
@@ -242,6 +214,10 @@ googletag.pubads().setTargeting('article', '702');
 <li class=""><a href="http://www.sportsjoe.ie/golf">Golf</a></li>
 <li class=""><a href="http://www.sportsjoe.ie/motorsports">Motorsports</a></li>
 <li class=""><a href="http://www.sportsjoe.ie/horse-racing">Horseracing</a></li>
+<li class=""><a href="http://www.sportsjoe.ie/about">About Us</a></li>
+<li class="active"><a href="http://www.sportsjoe.ie/privacy-statement">Privacy Statement</a></li>
+<li class=""><a href="http://www.sportsjoe.ie/terms-conditions">Terms &amp; Conditions</a></li>
+<li class=""><a href="http://www.sportsjoe.ie/contact">Contact Us</a></li>
 </ul>
 </li>
 <li class="dropdown hidden-sm hidden-xs">
@@ -251,6 +227,10 @@ googletag.pubads().setTargeting('article', '702');
 <li class=""><a href="http://www.sportsjoe.ie/golf">Golf</a></li>
 <li class=""><a href="http://www.sportsjoe.ie/motorsports">Motorsports</a></li>
 <li class=""><a href="http://www.sportsjoe.ie/horse-racing">Horseracing</a></li>
+<li class=""><a href="http://www.sportsjoe.ie/about">About Us</a></li>
+<li class="active"><a href="http://www.sportsjoe.ie/privacy-statement">Privacy Statement</a></li>
+<li class=""><a href="http://www.sportsjoe.ie/terms-conditions">Terms &amp; Conditions</a></li>
+<li class=""><a href="http://www.sportsjoe.ie/contact">Contact Us</a></li>
 </ul>
 </li>
 </ul>
@@ -259,18 +239,19 @@ googletag.pubads().setTargeting('article', '702');
 </div>
 <div class="navbar-secondary">
 <div class="container">
-<div class="col-md-12">
+<div class="col-md-12" id="navbar-tag-holder">
 <ul class="list-inline">
 <li>Trending:</li>
-<li><span class="tag-icon tag-icon-republic-of-ireland"></span><a href="http://www.sportsjoe.ie/sports/republic-of-ireland" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Republic of Ireland">Republic of Ireland</a></li>
 <li><span class="tag-icon tag-icon-ufc"></span><a href="http://www.sportsjoe.ie/sports/ufc" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="UFC">UFC</a></li>
-<li><span class="tag-icon tag-icon-barcelona"></span><a href="http://www.sportsjoe.ie/sports/barcelona" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Barcelona">Barcelona</a></li>
-<li><span class="tag-icon tag-icon-premier-league"></span><a href="http://www.sportsjoe.ie/sports/premier-league" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Premier League">Premier League</a></li>
-<li><span class="tag-icon tag-icon-liverpool"></span><a href="http://www.sportsjoe.ie/sports/liverpool" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Liverpool">Liverpool</a></li>
-<li><span class="tag-icon tag-icon-ireland-england"></span><a href="http://www.sportsjoe.ie/sports/ireland-england" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Ireland-England">Ireland-England</a></li>
 <li><span class="tag-icon tag-icon-conor-mcgregor"></span><a href="http://www.sportsjoe.ie/sports/conor-mcgregor" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Conor McGregor">Conor McGregor</a></li>
 <li><span class="tag-icon tag-icon-manchester-united"></span><a href="http://www.sportsjoe.ie/sports/manchester-united" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Manchester United">Manchester United</a></li>
-<li><span class="tag-icon tag-icon-champions-league"></span><a href="http://www.sportsjoe.ie/sports/champions-league" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Champions League">Champions League</a></li>
+<li><span class="tag-icon tag-icon-liverpool"></span><a href="http://www.sportsjoe.ie/sports/liverpool" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Liverpool">Liverpool</a></li>
+<li><span class="tag-icon tag-icon-jose-aldo"></span><a href="http://www.sportsjoe.ie/sports/jose-aldo" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Jose Aldo">Jose Aldo</a></li>
+<li><span class="tag-icon tag-icon-ufc-194"></span><a href="http://www.sportsjoe.ie/sports/ufc-194" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="UFC 194">UFC 194</a></li>
+<li><span class="tag-icon tag-icon-premier-league"></span><a href="http://www.sportsjoe.ie/sports/premier-league" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Premier League">Premier League</a></li>
+<li><span class="tag-icon tag-icon-valencia"></span><a href="http://www.sportsjoe.ie/sports/valencia" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Valencia">Valencia</a></li>
+<li><span class="tag-icon tag-icon-gary-neville"></span><a href="http://www.sportsjoe.ie/sports/gary-neville" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Gary Neville">Gary Neville</a></li>
+<li><span class="tag-icon tag-icon-tyson-fury"></span><a href="http://www.sportsjoe.ie/sports/tyson-fury" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Tyson Fury">Tyson Fury</a></li>
 </ul>
 </div>
 </div>
@@ -294,20 +275,18 @@ googletag.pubads().setTargeting('article', '702');
                     </script>
 </div>
 </div>
-<div class="content-container p402_premium">
+<div class="content-container">
 <div class="main-content">
 <div class="col-lg-8 col-md-8 top-space">
 <article>
  
 <div class="post-information row dark-stripe-background ">
 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12 article-title-holder">
-<h1 class="article-title uppercase">
-Privacy Statement
-</h1>
+<h1 class="article-title uppercase">Privacy Statement</h1>
 </div>
 </div>
  
-<div class="post-text">
+<div class="post-text p402_premium">
 <div class="col-lg-12 col-md-12 col-sm-12 col-sm-12 post-body">
 <div class="post-content">
 <p><strong>Section 1. Introduction</strong></p>
@@ -353,8 +332,8 @@ We will process any Personal Data you provide to us for the following purposes:<
 </div>
 </article>
 </div>
-<div class="col-lg-4 col-md-4">
-<div class="hidden-sm hidden-xs">
+<div class="col-lg-4 col-md-4 hidden-xs">
+<div class="hidden-sm">
 <div class="top-space">
 <div class="featured-story-title uppercase">
 <strong>
@@ -363,19 +342,19 @@ Competitions
 </div>
 <div class="dark-stripe-background competition-body">
 <div class="col-md-3 col-sm-3 col-xs-3 no-hp">
-<a href="http://www.sportsjoe.ie/world-of-sport/win-your-chance-to-play-like-a-pro-with-this-revolutionary-gps-tracking-system-from-playertek/25077">
+<a href="http://www.sportsjoe.ie/blogs/win-send-us-clips-of-your-super-skills-in-any-sport-and-win-e250-worth-of-sports-gear/42239">
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY1OiJhOjM6e3M6MzoidXJsIjtzOjEwNToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNS8yMTE1NTM0NS9wbGF5ZXJURUsucG5nIjtzOjU6IndpZHRoIjtpOjg0O3M6NjoiaGVpZ2h0IjtpOjg0O30iO3M6NDoiaGFzaCI7czo0MDoiNGJhMjBlYjQ2NmU3YjEyYjkyYTllZjNlMGJlOWFjNmI5MjE0ZjdlZCI7fQ==/playertek.png" media="(min-width: 970px)">
-<source data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY1OiJhOjM6e3M6MzoidXJsIjtzOjEwNToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNS8yMTE1NTM0NS9wbGF5ZXJURUsucG5nIjtzOjU6IndpZHRoIjtpOjcwO3M6NjoiaGVpZ2h0IjtpOjcwO30iO3M6NDoiaGFzaCI7czo0MDoiMGFhOTAzYTZkODk4OTYzMzY4YjhlOGQ5YmIwOGY4YTA3NWIxNTQ5MyI7fQ==/playertek.png" media="(min-width: 640px)">
-<source data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY1OiJhOjM6e3M6MzoidXJsIjtzOjEwNToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNS8yMTE1NTM0NS9wbGF5ZXJURUsucG5nIjtzOjU6IndpZHRoIjtpOjcwO3M6NjoiaGVpZ2h0IjtpOjcwO30iO3M6NDoiaGFzaCI7czo0MDoiMGFhOTAzYTZkODk4OTYzMzY4YjhlOGQ5YmIwOGY4YTA3NWIxNTQ5MyI7fQ==/playertek.png" media="(max-width: 639px)">
+<source data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc3OiJhOjM6e3M6MzoidXJsIjtzOjExNzoiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMC8wMTExMjI1Ny9HZXR0eUltYWdlcy00NTI2MDQyNjIuanBnIjtzOjU6IndpZHRoIjtpOjg0O3M6NjoiaGVpZ2h0IjtpOjg0O30iO3M6NDoiaGFzaCI7czo0MDoiMzYzYWE1Zjk0ZmI0MTVlZWNhY2FjYzZlYjMwNjQzMWYzZGM3NzcyNyI7fQ==/gettyimages-452604262.jpg" media="(min-width: 970px)">
+<source data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc3OiJhOjM6e3M6MzoidXJsIjtzOjExNzoiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMC8wMTExMjI1Ny9HZXR0eUltYWdlcy00NTI2MDQyNjIuanBnIjtzOjU6IndpZHRoIjtpOjcwO3M6NjoiaGVpZ2h0IjtpOjcwO30iO3M6NDoiaGFzaCI7czo0MDoiYjExMDMwMDk0MTlkNTA1NDVmYmVjMDgwMjIyOGUxMjNmNzZjMjVlYSI7fQ==/gettyimages-452604262.jpg" media="(min-width: 640px)">
+<source data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc3OiJhOjM6e3M6MzoidXJsIjtzOjExNzoiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMC8wMTExMjI1Ny9HZXR0eUltYWdlcy00NTI2MDQyNjIuanBnIjtzOjU6IndpZHRoIjtpOjcwO3M6NjoiaGVpZ2h0IjtpOjcwO30iO3M6NDoiaGFzaCI7czo0MDoiYjExMDMwMDk0MTlkNTA1NDVmYmVjMDgwMjIyOGUxMjNmNzZjMjVlYSI7fQ==/gettyimages-452604262.jpg" media="(max-width: 639px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTE5OiJhOjM6e3M6MzoidXJsIjtzOjYwOiJodHRwOi8vd3d3LnNwb3J0c2pvZS5pZS9hc3NldHMvaW1hZ2VzL3Nwb3J0c2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6ODQ7czo2OiJoZWlnaHQiO2k6ODQ7fSI7czo0OiJoYXNoIjtzOjQwOiJhYWJhMjk2ZjZjYjkyMTIzZmZkNzYxYTExOTQ2N2JhNTY0MDQ0OWJmIjt9/no-image.png" data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY1OiJhOjM6e3M6MzoidXJsIjtzOjEwNToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNS8yMTE1NTM0NS9wbGF5ZXJURUsucG5nIjtzOjU6IndpZHRoIjtpOjg0O3M6NjoiaGVpZ2h0IjtpOjg0O30iO3M6NDoiaGFzaCI7czo0MDoiNGJhMjBlYjQ2NmU3YjEyYjkyYTllZjNlMGJlOWFjNmI5MjE0ZjdlZCI7fQ==/playertek.png" alt="Win! Your chance to play like a pro with this revolutionary GPS tracking system from PLAYERTEK" class="river-post-image lazyload">
+<img src="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTE5OiJhOjM6e3M6MzoidXJsIjtzOjYwOiJodHRwOi8vd3d3LnNwb3J0c2pvZS5pZS9hc3NldHMvaW1hZ2VzL3Nwb3J0c2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6ODQ7czo2OiJoZWlnaHQiO2k6ODQ7fSI7czo0OiJoYXNoIjtzOjQwOiJhYWJhMjk2ZjZjYjkyMTIzZmZkNzYxYTExOTQ2N2JhNTY0MDQ0OWJmIjt9/no-image.png" data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc3OiJhOjM6e3M6MzoidXJsIjtzOjExNzoiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMC8wMTExMjI1Ny9HZXR0eUltYWdlcy00NTI2MDQyNjIuanBnIjtzOjU6IndpZHRoIjtpOjg0O3M6NjoiaGVpZ2h0IjtpOjg0O30iO3M6NDoiaGFzaCI7czo0MDoiMzYzYWE1Zjk0ZmI0MTVlZWNhY2FjYzZlYjMwNjQzMWYzZGM3NzcyNyI7fQ==/gettyimages-452604262.jpg" alt="WIN: Send us clips of your super skills in any sport and win €250 worth of sports gear" class="river-post-image lazyload">
 </picture>
 </a>
 </div>
 <div class="col-md-9 col-sm-9 col-xs-9 headline">
-<a href="http://www.sportsjoe.ie/world-of-sport/win-your-chance-to-play-like-a-pro-with-this-revolutionary-gps-tracking-system-from-playertek/25077">Win! Your chance to play like a pro with this revolutionary GPS tracking system from PLAYERTEK</a>
+<a href="http://www.sportsjoe.ie/blogs/win-send-us-clips-of-your-super-skills-in-any-sport-and-win-e250-worth-of-sports-gear/42239">WIN: Send us clips of your super skills in any sport and win €250 worth of sports gear</a>
 </div>
 <div class="clearfix"></div>
 </div>
@@ -388,22 +367,12 @@ Competitions
                 </script>
 </div>
 </div>
-<div class="top-space hidden-xs hidden-sm">
-<div id="div-gpt-article_bottom" class="text-center">
-<script type="text/javascript">
-                    googletag.cmd.push(function () { googletag.display('div-gpt-article_bottom'); });
-                </script>
+<div class="top-space hidden-sm">
+<div id="div-gpt-article_bottom" class="text-center lazy-ad article-ad" data-placement="article_bottom" data-page="article" data-article="702">
 </div>
 </div>
 </div>
 <div class="clearfix"></div>
-</div>
-<div class="top-space">
-<div id="div-gpt-article_bottom_leaderboard" class="text-center">
-<script type="text/javascript">
-            googletag.cmd.push(function () { googletag.display('div-gpt-article_bottom_leaderboard'); });
-        </script>
-</div>
 </div>
 <div class="col-md-12">
 <div class="section-header top-space uppercase tag-holder-ireland">
@@ -413,193 +382,193 @@ More from SportsJOE.ie
 <div class="col-md-12 no-hp standard-section-body-wrapper" id="article-more-from">
 <div class="standard-section-body">
  
-<div class="col-md-4 col-sm-4 col-xs-12 standard-post-holder">
+<div class="standard-post-holder">
 <div class="standard-post no-hp top-space ">
 <div class="no-hp image-holder">
-<a href="http://www.sportsjoe.ie/football/video-iker-casillas-completely-blanks-david-de-gea-before-spain-training/27945">
+<a href="http://www.sportsjoe.ie/gaa/pics-its-going-to-take-a-lot-more-than-a-flooded-field-to-make-kiltimagh-miss-training/53614">
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m2.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYzOiJhOjM6e3M6MzoidXJsIjtzOjEwMToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNi8wODE4NTUxMy8xNjUyMS5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImUwMWE5OWQxYmY0NzEyMTJlMjk5MjY4MDNmOGZkNTAyM2JjNzhjZjciO30=/16521.jpg" media="(min-width: 970px)">
-<source data-srcset="http://m2.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYzOiJhOjM6e3M6MzoidXJsIjtzOjEwMToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNi8wODE4NTUxMy8xNjUyMS5qcGciO3M6NToid2lkdGgiO2k6MzUwO3M6NjoiaGVpZ2h0IjtpOjE3Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjE2ZWE2NWFjMWRkOGQ5MGY1OTA1ZTU2ZDIyNmYyZGU1OWY4ZDZhNzUiO30=/16521.jpg" media="(min-width: 640px)">
-<source data-srcset="http://m2.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYzOiJhOjM6e3M6MzoidXJsIjtzOjEwMToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNi8wODE4NTUxMy8xNjUyMS5qcGciO3M6NToid2lkdGgiO2k6MzI1O3M6NjoiaGVpZ2h0IjtpOjE2NDt9IjtzOjQ6Imhhc2giO3M6NDA6IjJlMGExYzhiNzNhMmJmYzc5ODljZDhmMThlZDJkNGU3MmE1MjBiMWUiO30=/16521.jpg" media="(max-width: 639px)">
+<source data-srcset="http://m2.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY5OiJhOjM6e3M6MzoidXJsIjtzOjEwNzoiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wOC8yNDE1NTE0Ny9HQUEtR2VuZXJpYy5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImJmMDg3MWI0NTUyOWUwYmE4OGVmZjViNTllZDhlY2Y0ZWZhMTUwMTUiO30=/gaa-generic.jpg" media="(min-width: 970px)">
+<source data-srcset="http://m2.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY5OiJhOjM6e3M6MzoidXJsIjtzOjEwNzoiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wOC8yNDE1NTE0Ny9HQUEtR2VuZXJpYy5qcGciO3M6NToid2lkdGgiO2k6MzUwO3M6NjoiaGVpZ2h0IjtpOjE3Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImU2Mzk2Njc0NTg2MWUxNjNlMDdlMzZmN2ExNTBiM2E1Mjg0MDZkNzUiO30=/gaa-generic.jpg" media="(min-width: 640px)">
+<source data-srcset="http://m2.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY4OiJhOjM6e3M6MzoidXJsIjtzOjEwNzoiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wOC8yNDE1NTE0Ny9HQUEtR2VuZXJpYy5qcGciO3M6NToid2lkdGgiO2k6MTYyO3M6NjoiaGVpZ2h0IjtpOjgyO30iO3M6NDoiaGFzaCI7czo0MDoiYTMxOWFjOGU2YmQyNjE4NjJjNGRlZTc4MGJmMTJlYzMzZTU5Y2FhZCI7fQ==/gaa-generic.jpg" media="(max-width: 639px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTIxOiJhOjM6e3M6MzoidXJsIjtzOjYwOiJodHRwOi8vd3d3LnNwb3J0c2pvZS5pZS9hc3NldHMvaW1hZ2VzL3Nwb3J0c2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijg5MDdkM2FlMWJhN2RjMjUzYjdjYzc0YzBiN2ViMGE1MGY4MzdkNzAiO30=/no-image.png" data-srcset="http://m2.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYzOiJhOjM6e3M6MzoidXJsIjtzOjEwMToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNi8wODE4NTUxMy8xNjUyMS5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImUwMWE5OWQxYmY0NzEyMTJlMjk5MjY4MDNmOGZkNTAyM2JjNzhjZjciO30=/16521.jpg" alt="Video: Iker Casillas completely blanks David de Gea before Spain training" class="river-post-image lazyload">
+<img src="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTIxOiJhOjM6e3M6MzoidXJsIjtzOjYwOiJodHRwOi8vd3d3LnNwb3J0c2pvZS5pZS9hc3NldHMvaW1hZ2VzL3Nwb3J0c2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijg5MDdkM2FlMWJhN2RjMjUzYjdjYzc0YzBiN2ViMGE1MGY4MzdkNzAiO30=/no-image.png" data-srcset="http://m2.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY5OiJhOjM6e3M6MzoidXJsIjtzOjEwNzoiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wOC8yNDE1NTE0Ny9HQUEtR2VuZXJpYy5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImJmMDg3MWI0NTUyOWUwYmE4OGVmZjViNTllZDhlY2Y0ZWZhMTUwMTUiO30=/gaa-generic.jpg" alt="Pics: It's going to take a lot more than a flooded field to make Kiltimagh miss training" class="river-post-image lazyload">
 </picture>
 </a>
 </div>
 <div class="detail">
 <div class="headline">
-<a href="http://www.sportsjoe.ie/football/video-iker-casillas-completely-blanks-david-de-gea-before-spain-training/27945">Video: Iker Casillas completely blanks David de Gea before Spain training</a>
+<a href="http://www.sportsjoe.ie/gaa/pics-its-going-to-take-a-lot-more-than-a-flooded-field-to-make-kiltimagh-miss-training/53614">Pics: It's going to take a lot more than a flooded field to make Kiltimagh miss training</a>
 </div>
 <div class="sub-text">
 <div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.sportsjoe.ie/football/video-iker-casillas-completely-blanks-david-de-gea-before-spain-training/27945" data-title="Video: Iker Casillas completely blanks David de Gea before Spain training">
-<img src="http://www.sportsjoe.ie/assets/images/sportsjoe/share.png" alt="share icon">
-<strong>11</strong> shares
-</span>
-</div>
-<div class="pull-left tag-link uppercase tag-holder tag-holder-football"><a href="http://www.sportsjoe.ie/football">Football</a></div>
-<span class="time uppercase">24 minutes ago</span>
-</div>
-</div>
-<div class="clearfix"></div>
-</div>
-</div>
-<div class="col-md-4 col-sm-4 col-xs-12 standard-post-holder">
-<div class="standard-post no-hp top-space ">
-<div class="no-hp image-holder">
-<a href="http://www.sportsjoe.ie/boxing/carl-framptons-next-title-defence-is-going-to-be-in-the-u-s/27954">
-<picture>
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY3OiJhOjM6e3M6MzoidXJsIjtzOjEwNToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNC8wOTEwMDc0NC80NTQ4MDMwNjYuanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiI3NTAxZTE3NTNjOTFiNGRkNzczYWIyNTkxYjMxMjUzYTVhNDA5YjhhIjt9/454803066.jpg" media="(min-width: 970px)">
-<source data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY3OiJhOjM6e3M6MzoidXJsIjtzOjEwNToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNC8wOTEwMDc0NC80NTQ4MDMwNjYuanBnIjtzOjU6IndpZHRoIjtpOjM1MDtzOjY6ImhlaWdodCI7aToxNzc7fSI7czo0OiJoYXNoIjtzOjQwOiI0OTY5NzQyMjUwMzNmYjllZmIxMWExNzYwYjNjNWI1YTgxNGVkMTcwIjt9/454803066.jpg" media="(min-width: 640px)">
-<source data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY3OiJhOjM6e3M6MzoidXJsIjtzOjEwNToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNC8wOTEwMDc0NC80NTQ4MDMwNjYuanBnIjtzOjU6IndpZHRoIjtpOjMyNTtzOjY6ImhlaWdodCI7aToxNjQ7fSI7czo0OiJoYXNoIjtzOjQwOiI3MGIyZTEwOGM5Y2YwYjA2MGE3YmQxNjBlYTg0ODhkM2VlY2M3NDlkIjt9/454803066.jpg" media="(max-width: 639px)">
-<!--[if IE 9]></video><![endif]-->
-<img src="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTIxOiJhOjM6e3M6MzoidXJsIjtzOjYwOiJodHRwOi8vd3d3LnNwb3J0c2pvZS5pZS9hc3NldHMvaW1hZ2VzL3Nwb3J0c2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijg5MDdkM2FlMWJhN2RjMjUzYjdjYzc0YzBiN2ViMGE1MGY4MzdkNzAiO30=/no-image.png" data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY3OiJhOjM6e3M6MzoidXJsIjtzOjEwNToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNC8wOTEwMDc0NC80NTQ4MDMwNjYuanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiI3NTAxZTE3NTNjOTFiNGRkNzczYWIyNTkxYjMxMjUzYTVhNDA5YjhhIjt9/454803066.jpg" alt="Carl Frampton's next title defence is going to be in the U.S" class="river-post-image lazyload">
-</picture>
-</a>
-</div>
-<div class="detail">
-<div class="headline">
-<a href="http://www.sportsjoe.ie/boxing/carl-framptons-next-title-defence-is-going-to-be-in-the-u-s/27954">Carl Frampton's next title defence is going to be in the U.S</a>
-</div>
-<div class="sub-text">
-<div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.sportsjoe.ie/boxing/carl-framptons-next-title-defence-is-going-to-be-in-the-u-s/27954" data-title="Carl Frampton's next title defence is going to be in the U.S">
-<img src="http://www.sportsjoe.ie/assets/images/sportsjoe/share.png" alt="share icon">
-<strong>9</strong> shares
-</span>
-</div>
-<div class="pull-left tag-link uppercase tag-holder tag-holder-boxing"><a href="http://www.sportsjoe.ie/boxing">Boxing</a></div>
-<span class="time uppercase">43 minutes ago</span>
-</div>
-</div>
-<div class="clearfix"></div>
-</div>
-</div>
-<div class="col-md-4 col-sm-4 col-xs-12 standard-post-holder">
-<div class="standard-post no-hp top-space ">
-<div class="no-hp image-holder">
-<a href="http://www.sportsjoe.ie/mma/cathal-pendred-slams-joe-rogan-for-biased-tv-commentary-of-ufc-59-win/27952">
-<picture>
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m2.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYzOiJhOjM6e3M6MzoidXJsIjtzOjEwMToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNi8wODIxMTMxMi9kb3Blcy5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImJmODRjMmQxZGFkZjc2MGNlOTVmOWEwNjU4M2QzNGE3NzU4YmNjNjAiO30=/dopes.jpg" media="(min-width: 970px)">
-<source data-srcset="http://m2.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYzOiJhOjM6e3M6MzoidXJsIjtzOjEwMToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNi8wODIxMTMxMi9kb3Blcy5qcGciO3M6NToid2lkdGgiO2k6MzUwO3M6NjoiaGVpZ2h0IjtpOjE3Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjBmZjU3NzNiZmU1YmViNzM5MzlkMDQzYjIyOTgxM2ViMjQ5Y2E2OWQiO30=/dopes.jpg" media="(min-width: 640px)">
-<source data-srcset="http://m2.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYzOiJhOjM6e3M6MzoidXJsIjtzOjEwMToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNi8wODIxMTMxMi9kb3Blcy5qcGciO3M6NToid2lkdGgiO2k6MzI1O3M6NjoiaGVpZ2h0IjtpOjE2NDt9IjtzOjQ6Imhhc2giO3M6NDA6IjdjMDYyMzE4ZDQyZjFhODU1OTAyZjVmMGRhODZiZGFkNjdmNDdiOWMiO30=/dopes.jpg" media="(max-width: 639px)">
-<!--[if IE 9]></video><![endif]-->
-<img src="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTIxOiJhOjM6e3M6MzoidXJsIjtzOjYwOiJodHRwOi8vd3d3LnNwb3J0c2pvZS5pZS9hc3NldHMvaW1hZ2VzL3Nwb3J0c2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijg5MDdkM2FlMWJhN2RjMjUzYjdjYzc0YzBiN2ViMGE1MGY4MzdkNzAiO30=/no-image.png" data-srcset="http://m2.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYzOiJhOjM6e3M6MzoidXJsIjtzOjEwMToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNi8wODIxMTMxMi9kb3Blcy5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImJmODRjMmQxZGFkZjc2MGNlOTVmOWEwNjU4M2QzNGE3NzU4YmNjNjAiO30=/dopes.jpg" alt="Cathal Pendred slams Joe Rogan for biased TV commentary of UFC 59 win" class="river-post-image lazyload">
-</picture>
-</a>
-</div>
-<div class="detail">
-<div class="headline">
-<a href="http://www.sportsjoe.ie/mma/cathal-pendred-slams-joe-rogan-for-biased-tv-commentary-of-ufc-59-win/27952">Cathal Pendred slams Joe Rogan for biased TV commentary of UFC 59 win</a>
-</div>
-<div class="sub-text">
-<div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.sportsjoe.ie/mma/cathal-pendred-slams-joe-rogan-for-biased-tv-commentary-of-ufc-59-win/27952" data-title="Cathal Pendred slams Joe Rogan for biased TV commentary of UFC 59 win">
-<img src="http://www.sportsjoe.ie/assets/images/sportsjoe/share.png" alt="share icon">
-<strong>13</strong> shares
-</span>
-</div>
-<div class="pull-left tag-link uppercase tag-holder tag-holder-mma"><a href="http://www.sportsjoe.ie/mma">MMA</a></div>
-<span class="time uppercase">1 hour ago</span>
-</div>
-</div>
-<div class="clearfix"></div>
-</div>
-</div>
-<div class="col-md-4 col-sm-4 col-xs-12 standard-post-holder">
-<div class="standard-post no-hp top-space ">
-<div class="no-hp image-holder">
-<a href="http://www.sportsjoe.ie/gaa/croke-park-rated-among-top-10-best-sports-stadia-in-the-world/27950">
-<picture>
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTg1OiJhOjM6e3M6MzoidXJsIjtzOjEyMzoiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wMS8yMjEyMjkxNy9Dcm9rZS1QYXJrLWZvb3RiYWxsLWdlbmVyaWMuanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiJmYzc0MDJkNzMyOTE0MDM0YzlmNWFkMjY4ZTNjMjhkZTAyMjlmMzlkIjt9/croke-park-football-generic.jpg" media="(min-width: 970px)">
-<source data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTg1OiJhOjM6e3M6MzoidXJsIjtzOjEyMzoiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wMS8yMjEyMjkxNy9Dcm9rZS1QYXJrLWZvb3RiYWxsLWdlbmVyaWMuanBnIjtzOjU6IndpZHRoIjtpOjM1MDtzOjY6ImhlaWdodCI7aToxNzc7fSI7czo0OiJoYXNoIjtzOjQwOiJiNjk3N2MwNDI3Njk5MTBkNjhjYTM4NjhkYzQ4OWI1NjBlMTVhNWFlIjt9/croke-park-football-generic.jpg" media="(min-width: 640px)">
-<source data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTg1OiJhOjM6e3M6MzoidXJsIjtzOjEyMzoiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wMS8yMjEyMjkxNy9Dcm9rZS1QYXJrLWZvb3RiYWxsLWdlbmVyaWMuanBnIjtzOjU6IndpZHRoIjtpOjMyNTtzOjY6ImhlaWdodCI7aToxNjQ7fSI7czo0OiJoYXNoIjtzOjQwOiJlN2M2NDgxODFhMjUyM2U2MWE4MzU3MDY4YWY5NGNjYjc3MWVlMzZkIjt9/croke-park-football-generic.jpg" media="(max-width: 639px)">
-<!--[if IE 9]></video><![endif]-->
-<img src="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTIxOiJhOjM6e3M6MzoidXJsIjtzOjYwOiJodHRwOi8vd3d3LnNwb3J0c2pvZS5pZS9hc3NldHMvaW1hZ2VzL3Nwb3J0c2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijg5MDdkM2FlMWJhN2RjMjUzYjdjYzc0YzBiN2ViMGE1MGY4MzdkNzAiO30=/no-image.png" data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTg1OiJhOjM6e3M6MzoidXJsIjtzOjEyMzoiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wMS8yMjEyMjkxNy9Dcm9rZS1QYXJrLWZvb3RiYWxsLWdlbmVyaWMuanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiJmYzc0MDJkNzMyOTE0MDM0YzlmNWFkMjY4ZTNjMjhkZTAyMjlmMzlkIjt9/croke-park-football-generic.jpg" alt="Croke Park rated among top 10 best sports stadia in the world" class="river-post-image lazyload">
-</picture>
-</a>
-</div>
-<div class="detail">
-<div class="headline">
-<a href="http://www.sportsjoe.ie/gaa/croke-park-rated-among-top-10-best-sports-stadia-in-the-world/27950">Croke Park rated among top 10 best sports stadia in the world</a>
-</div>
-<div class="sub-text">
-<div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.sportsjoe.ie/gaa/croke-park-rated-among-top-10-best-sports-stadia-in-the-world/27950" data-title="Croke Park rated among top 10 best sports stadia in the world">
-<img src="http://www.sportsjoe.ie/assets/images/sportsjoe/share.png" alt="share icon">
-<strong>5</strong> shares
-</span>
-</div>
-<div class="pull-left tag-link uppercase tag-holder tag-holder-gaa"><a href="http://www.sportsjoe.ie/gaa">GAA</a></div>
-<span class="time uppercase">2 hours ago</span>
-</div>
-</div>
-<div class="clearfix"></div>
-</div>
-</div>
-<div class="col-md-4 col-sm-4 col-xs-12 standard-post-holder">
-<div class="standard-post no-hp top-space ">
-<div class="no-hp image-holder">
-<a href="http://www.sportsjoe.ie/football/phil-jones-responds-after-paul-scholes-questions-his-intelligence/27932">
-<picture>
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc5OiJhOjM6e3M6MzoidXJsIjtzOjExNzoiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNi8wODE2NDcxNi9HZXR0eUltYWdlcy00NzM3NDc5ODIuanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiI2YmI3ZjI0NzhhNjJmYzM1ODM4ZTIzNTlkYzQxOWM1MGMxOGYzYjg4Ijt9/gettyimages-473747982.jpg" media="(min-width: 970px)">
-<source data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc5OiJhOjM6e3M6MzoidXJsIjtzOjExNzoiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNi8wODE2NDcxNi9HZXR0eUltYWdlcy00NzM3NDc5ODIuanBnIjtzOjU6IndpZHRoIjtpOjM1MDtzOjY6ImhlaWdodCI7aToxNzc7fSI7czo0OiJoYXNoIjtzOjQwOiJiYTc4ODRmY2MzNjY3YjA1NmE5YzAzYThhM2Y4YTNiOTUzYTY4OTExIjt9/gettyimages-473747982.jpg" media="(min-width: 640px)">
-<source data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc5OiJhOjM6e3M6MzoidXJsIjtzOjExNzoiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNi8wODE2NDcxNi9HZXR0eUltYWdlcy00NzM3NDc5ODIuanBnIjtzOjU6IndpZHRoIjtpOjMyNTtzOjY6ImhlaWdodCI7aToxNjQ7fSI7czo0OiJoYXNoIjtzOjQwOiJiMDEwNDY4MWM5NzhjMWJjNmFkMDNjY2EzOWVmNTY3YWZlZTEzNzM1Ijt9/gettyimages-473747982.jpg" media="(max-width: 639px)">
-<!--[if IE 9]></video><![endif]-->
-<img src="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTIxOiJhOjM6e3M6MzoidXJsIjtzOjYwOiJodHRwOi8vd3d3LnNwb3J0c2pvZS5pZS9hc3NldHMvaW1hZ2VzL3Nwb3J0c2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijg5MDdkM2FlMWJhN2RjMjUzYjdjYzc0YzBiN2ViMGE1MGY4MzdkNzAiO30=/no-image.png" data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc5OiJhOjM6e3M6MzoidXJsIjtzOjExNzoiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNi8wODE2NDcxNi9HZXR0eUltYWdlcy00NzM3NDc5ODIuanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiI2YmI3ZjI0NzhhNjJmYzM1ODM4ZTIzNTlkYzQxOWM1MGMxOGYzYjg4Ijt9/gettyimages-473747982.jpg" alt="Phil Jones responds after Paul Scholes questions his intelligence" class="river-post-image lazyload">
-</picture>
-</a>
-</div>
-<div class="detail">
-<div class="headline">
-<a href="http://www.sportsjoe.ie/football/phil-jones-responds-after-paul-scholes-questions-his-intelligence/27932">Phil Jones responds after Paul Scholes questions his intelligence</a>
-</div>
-<div class="sub-text">
-<div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.sportsjoe.ie/football/phil-jones-responds-after-paul-scholes-questions-his-intelligence/27932" data-title="Phil Jones responds after Paul Scholes questions his intelligence">
-<img src="http://www.sportsjoe.ie/assets/images/sportsjoe/share.png" alt="share icon">
-<strong>12</strong> shares
-</span>
-</div>
-<div class="pull-left tag-link uppercase tag-holder tag-holder-football"><a href="http://www.sportsjoe.ie/football">Football</a></div>
-<span class="time uppercase">2 hours ago</span>
-</div>
-</div>
-<div class="clearfix"></div>
-</div>
-</div>
-<div class="col-md-4 col-sm-4 col-xs-12 standard-post-holder">
-<div class="standard-post no-hp top-space ">
-<div class="no-hp image-holder">
-<a href="http://www.sportsjoe.ie/gaa/pic-kilkenny-hurler-doesnt-need-your-poxy-gym-to-get-ready-for-championship/27947">
-<picture>
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYwOiJhOjM6e3M6MzoidXJsIjtzOjk5OiJodHRwOi8vbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzA2LzA4MTkwOTE4L2d5bS5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjE2Nzk4MTEyMjBkMjczYjc1YWUzZTcwNWIxYTVmYzRkYjkyYWFhNmMiO30=/gym.jpg" media="(min-width: 970px)">
-<source data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYwOiJhOjM6e3M6MzoidXJsIjtzOjk5OiJodHRwOi8vbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzA2LzA4MTkwOTE4L2d5bS5qcGciO3M6NToid2lkdGgiO2k6MzUwO3M6NjoiaGVpZ2h0IjtpOjE3Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImZlMDE4ZDc0ZmJkMDcyMDk1NDFlNTI0MDc0OTE2NDRhY2RlZTA4Y2IiO30=/gym.jpg" media="(min-width: 640px)">
-<source data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYwOiJhOjM6e3M6MzoidXJsIjtzOjk5OiJodHRwOi8vbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzA2LzA4MTkwOTE4L2d5bS5qcGciO3M6NToid2lkdGgiO2k6MzI1O3M6NjoiaGVpZ2h0IjtpOjE2NDt9IjtzOjQ6Imhhc2giO3M6NDA6IjQ1YjM4ZDVhYTViNjZiNzUxYzRhN2FlMmFlOWExOWI1YTA5NTMwYzciO30=/gym.jpg" media="(max-width: 639px)">
-<!--[if IE 9]></video><![endif]-->
-<img src="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTIxOiJhOjM6e3M6MzoidXJsIjtzOjYwOiJodHRwOi8vd3d3LnNwb3J0c2pvZS5pZS9hc3NldHMvaW1hZ2VzL3Nwb3J0c2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijg5MDdkM2FlMWJhN2RjMjUzYjdjYzc0YzBiN2ViMGE1MGY4MzdkNzAiO30=/no-image.png" data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYwOiJhOjM6e3M6MzoidXJsIjtzOjk5OiJodHRwOi8vbWVkaWEtc3BvcnRzam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzA2LzA4MTkwOTE4L2d5bS5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjE2Nzk4MTEyMjBkMjczYjc1YWUzZTcwNWIxYTVmYzRkYjkyYWFhNmMiO30=/gym.jpg" alt="PIC: Kilkenny hurler doesn't need your poxy gym to get ready for championship" class="river-post-image lazyload">
-</picture>
-</a>
-</div>
-<div class="detail">
-<div class="headline">
-<a href="http://www.sportsjoe.ie/gaa/pic-kilkenny-hurler-doesnt-need-your-poxy-gym-to-get-ready-for-championship/27947">PIC: Kilkenny hurler doesn't need your poxy gym to get ready for championship</a>
-</div>
-<div class="sub-text">
-<div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.sportsjoe.ie/gaa/pic-kilkenny-hurler-doesnt-need-your-poxy-gym-to-get-ready-for-championship/27947" data-title="PIC: Kilkenny hurler doesn't need your poxy gym to get ready for championship">
-<img src="http://www.sportsjoe.ie/assets/images/sportsjoe/share.png" alt="share icon">
-<strong>14</strong> shares
+<span class="share-trigger" data-url="http://www.sportsjoe.ie/gaa/pics-its-going-to-take-a-lot-more-than-a-flooded-field-to-make-kiltimagh-miss-training/53614" data-title="Pics: It's going to take a lot more than a flooded field to make Kiltimagh miss training">
+<img src="http://www.sportsjoe.ie/assets/images/sportsjoe/share.png?v=2" alt="share icon">
+<strong>233</strong> shares
 </span>
 </div>
 <div class="pull-left tag-link uppercase tag-holder tag-holder-gaa"><a href="http://www.sportsjoe.ie/gaa">GAA</a></div>
 <span class="time uppercase">3 hours ago</span>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="standard-post-holder">
+<div class="standard-post no-hp top-space ">
+<div class="no-hp image-holder">
+<a href="http://www.sportsjoe.ie/football/jamie-carragher-sees-the-glass-half-full-following-liverpools-defeat-to-newcastle/53610">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY3OiJhOjM6e3M6MzoidXJsIjtzOjEwNToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNi8yMzE0MTMyMS9jYXJyYWdoZXIucG5nIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiI1NTliYzdhNDA2YWRmNmEyMDJhZmYzZWY5YTEwYTkyMzFjZmNmMTMxIjt9/carragher.png" media="(min-width: 970px)">
+<source data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY3OiJhOjM6e3M6MzoidXJsIjtzOjEwNToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNi8yMzE0MTMyMS9jYXJyYWdoZXIucG5nIjtzOjU6IndpZHRoIjtpOjM1MDtzOjY6ImhlaWdodCI7aToxNzc7fSI7czo0OiJoYXNoIjtzOjQwOiJhNjQ4NjMzZDliMTAyYjZhOWIxNGVlNWY1MGFmMzFlNmU1ODc0NmZhIjt9/carragher.png" media="(min-width: 640px)">
+<source data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY2OiJhOjM6e3M6MzoidXJsIjtzOjEwNToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNi8yMzE0MTMyMS9jYXJyYWdoZXIucG5nIjtzOjU6IndpZHRoIjtpOjE2MjtzOjY6ImhlaWdodCI7aTo4Mjt9IjtzOjQ6Imhhc2giO3M6NDA6ImJmMmU5OWUzYjIyNTdiMzA4YThmNjBjOGIxY2Y0NDE2YTA0ZTliY2YiO30=/carragher.png" media="(max-width: 639px)">
+<!--[if IE 9]></video><![endif]-->
+<img src="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTIxOiJhOjM6e3M6MzoidXJsIjtzOjYwOiJodHRwOi8vd3d3LnNwb3J0c2pvZS5pZS9hc3NldHMvaW1hZ2VzL3Nwb3J0c2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijg5MDdkM2FlMWJhN2RjMjUzYjdjYzc0YzBiN2ViMGE1MGY4MzdkNzAiO30=/no-image.png" data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY3OiJhOjM6e3M6MzoidXJsIjtzOjEwNToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNi8yMzE0MTMyMS9jYXJyYWdoZXIucG5nIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiI1NTliYzdhNDA2YWRmNmEyMDJhZmYzZWY5YTEwYTkyMzFjZmNmMTMxIjt9/carragher.png" alt="Jamie Carragher sees the glass half full following Liverpool's defeat to Newcastle" class="river-post-image lazyload">
+</picture>
+</a>
+</div>
+<div class="detail">
+<div class="headline">
+<a href="http://www.sportsjoe.ie/football/jamie-carragher-sees-the-glass-half-full-following-liverpools-defeat-to-newcastle/53610">Jamie Carragher sees the glass half full following Liverpool's defeat to Newcastle</a>
+</div>
+<div class="sub-text">
+<div class="pull-right inverted-shares uppercase">
+<span class="share-trigger" data-url="http://www.sportsjoe.ie/football/jamie-carragher-sees-the-glass-half-full-following-liverpools-defeat-to-newcastle/53610" data-title="Jamie Carragher sees the glass half full following Liverpool's defeat to Newcastle">
+<img src="http://www.sportsjoe.ie/assets/images/sportsjoe/share.png?v=2" alt="share icon">
+<strong>16</strong> shares
+</span>
+</div>
+<div class="pull-left tag-link uppercase tag-holder tag-holder-football"><a href="http://www.sportsjoe.ie/football">Football</a></div>
+<span class="time uppercase">4 hours ago</span>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="standard-post-holder">
+<div class="standard-post no-hp top-space ">
+<div class="no-hp image-holder">
+<a href="http://www.sportsjoe.ie/football/chelsea-fan-loses-it-in-angry-post-bournemouth-rant/53607">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="http://m2.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYzOiJhOjM6e3M6MzoidXJsIjtzOjEwMToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMi8wNjIwMDEzOS8xMDBwYy5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjU2Yzg5ZTU5YTY4NDFiZDRiNzZlMGQ5ZDJiZDRmNDhlZjZmNGE2Y2UiO30=/100pc.png" media="(min-width: 970px)">
+<source data-srcset="http://m2.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYzOiJhOjM6e3M6MzoidXJsIjtzOjEwMToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMi8wNjIwMDEzOS8xMDBwYy5wbmciO3M6NToid2lkdGgiO2k6MzUwO3M6NjoiaGVpZ2h0IjtpOjE3Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjVmMGY1MjQ2N2FjNjAyNzhlMWFiYjA1OTI2NDA3NmFlODE1MTlmNmQiO30=/100pc.png" media="(min-width: 640px)">
+<source data-srcset="http://m2.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYyOiJhOjM6e3M6MzoidXJsIjtzOjEwMToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMi8wNjIwMDEzOS8xMDBwYy5wbmciO3M6NToid2lkdGgiO2k6MTYyO3M6NjoiaGVpZ2h0IjtpOjgyO30iO3M6NDoiaGFzaCI7czo0MDoiYTAwODIwYmE0MDE1YTI1YzMyMGVhMmJiNDFkNWZkYjI1ZWJkZjIwNyI7fQ==/100pc.png" media="(max-width: 639px)">
+<!--[if IE 9]></video><![endif]-->
+<img src="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTIxOiJhOjM6e3M6MzoidXJsIjtzOjYwOiJodHRwOi8vd3d3LnNwb3J0c2pvZS5pZS9hc3NldHMvaW1hZ2VzL3Nwb3J0c2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijg5MDdkM2FlMWJhN2RjMjUzYjdjYzc0YzBiN2ViMGE1MGY4MzdkNzAiO30=/no-image.png" data-srcset="http://m2.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYzOiJhOjM6e3M6MzoidXJsIjtzOjEwMToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMi8wNjIwMDEzOS8xMDBwYy5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjU2Yzg5ZTU5YTY4NDFiZDRiNzZlMGQ5ZDJiZDRmNDhlZjZmNGE2Y2UiO30=/100pc.png" alt="VIDEO: Chelsea fan loses the rag in immaculate rant following Bournemouth defeat" class="river-post-image lazyload">
+</picture>
+</a>
+</div>
+<div class="detail">
+<div class="headline">
+<a href="http://www.sportsjoe.ie/football/chelsea-fan-loses-it-in-angry-post-bournemouth-rant/53607">VIDEO: Chelsea fan loses the rag in immaculate rant following Bournemouth defeat</a>
+</div>
+<div class="sub-text">
+<div class="pull-right inverted-shares uppercase">
+<span class="share-trigger" data-url="http://www.sportsjoe.ie/football/chelsea-fan-loses-it-in-angry-post-bournemouth-rant/53607" data-title="VIDEO: Chelsea fan loses the rag in immaculate rant following Bournemouth defeat">
+<img src="http://www.sportsjoe.ie/assets/images/sportsjoe/share.png?v=2" alt="share icon">
+<strong>17</strong> shares
+</span>
+</div>
+<div class="pull-left tag-link uppercase tag-holder tag-holder-football"><a href="http://www.sportsjoe.ie/football">Football</a></div>
+<span class="time uppercase">5 hours ago</span>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="standard-post-holder">
+<div class="standard-post no-hp top-space ">
+<div class="no-hp image-holder">
+<a href="http://www.sportsjoe.ie/football/liverpools-alberto-moreno-didnt-react-too-kindly-to-his-disallowed-goal/53597">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY0OiJhOjM6e3M6MzoidXJsIjtzOjEwMjoiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMi8wNjE5MDc0Mi9tb3Jlbm8uanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiJhM2I4ZTMwODIxOTUzMjY5MDUxN2QzMDA4ZjExNTAyM2IwYmRjMzM3Ijt9/moreno.jpg" media="(min-width: 970px)">
+<source data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY0OiJhOjM6e3M6MzoidXJsIjtzOjEwMjoiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMi8wNjE5MDc0Mi9tb3Jlbm8uanBnIjtzOjU6IndpZHRoIjtpOjM1MDtzOjY6ImhlaWdodCI7aToxNzc7fSI7czo0OiJoYXNoIjtzOjQwOiJkYjQzNDJiZmU0NGViMjQ2ZGQzYjk5MGFiODc5NjI2NzUzZTdkOTU0Ijt9/moreno.jpg" media="(min-width: 640px)">
+<source data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYzOiJhOjM6e3M6MzoidXJsIjtzOjEwMjoiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMi8wNjE5MDc0Mi9tb3Jlbm8uanBnIjtzOjU6IndpZHRoIjtpOjE2MjtzOjY6ImhlaWdodCI7aTo4Mjt9IjtzOjQ6Imhhc2giO3M6NDA6IjY4NjNlMzAxNjQzMGE2MzZmOTg4ZGRiOTk3NzExOWMyNjMwMzk0MmYiO30=/moreno.jpg" media="(max-width: 639px)">
+<!--[if IE 9]></video><![endif]-->
+<img src="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTIxOiJhOjM6e3M6MzoidXJsIjtzOjYwOiJodHRwOi8vd3d3LnNwb3J0c2pvZS5pZS9hc3NldHMvaW1hZ2VzL3Nwb3J0c2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijg5MDdkM2FlMWJhN2RjMjUzYjdjYzc0YzBiN2ViMGE1MGY4MzdkNzAiO30=/no-image.png" data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY0OiJhOjM6e3M6MzoidXJsIjtzOjEwMjoiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMi8wNjE5MDc0Mi9tb3Jlbm8uanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiJhM2I4ZTMwODIxOTUzMjY5MDUxN2QzMDA4ZjExNTAyM2IwYmRjMzM3Ijt9/moreno.jpg" alt="Liverpool's Alberto Moreno didn't react too kindly to his disallowed goal" class="river-post-image lazyload">
+</picture>
+</a>
+</div>
+<div class="detail">
+<div class="headline">
+<a href="http://www.sportsjoe.ie/football/liverpools-alberto-moreno-didnt-react-too-kindly-to-his-disallowed-goal/53597">Liverpool's Alberto Moreno didn't react too kindly to his disallowed goal</a>
+</div>
+<div class="sub-text">
+<div class="pull-right inverted-shares uppercase">
+<span class="share-trigger" data-url="http://www.sportsjoe.ie/football/liverpools-alberto-moreno-didnt-react-too-kindly-to-his-disallowed-goal/53597" data-title="Liverpool's Alberto Moreno didn't react too kindly to his disallowed goal">
+<img src="http://www.sportsjoe.ie/assets/images/sportsjoe/share.png?v=2" alt="share icon">
+<strong>70</strong> shares
+</span>
+</div>
+<div class="pull-left tag-link uppercase tag-holder tag-holder-football"><a href="http://www.sportsjoe.ie/football">Football</a></div>
+<span class="time uppercase">6 hours ago</span>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="standard-post-holder">
+<div class="standard-post no-hp top-space ">
+<div class="no-hp image-holder">
+<a href="http://www.sportsjoe.ie/football/carlisle-uniteds-ground-swamped-by-floods-but-the-players-response-was-amazing/53585">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="http://m2.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc1OiJhOjM6e3M6MzoidXJsIjtzOjExMzoiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMi8wNjE4MzA0Ny9jYXJsaXNsZS0xMDI0eDU3Ni5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImNjZDlmNzI2MjQzYmMxMmQ4ZDNjOTM3ZTlkYzFhODE4M2VkMzQ1NTIiO30=/carlisle-1024x576.jpg" media="(min-width: 970px)">
+<source data-srcset="http://m2.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc1OiJhOjM6e3M6MzoidXJsIjtzOjExMzoiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMi8wNjE4MzA0Ny9jYXJsaXNsZS0xMDI0eDU3Ni5qcGciO3M6NToid2lkdGgiO2k6MzUwO3M6NjoiaGVpZ2h0IjtpOjE3Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjYzODNhMzViN2FhYmVhNGQwYzUyZTg5MjQzNDUwZmExZmEzY2NhNzkiO30=/carlisle-1024x576.jpg" media="(min-width: 640px)">
+<source data-srcset="http://m2.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc0OiJhOjM6e3M6MzoidXJsIjtzOjExMzoiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMi8wNjE4MzA0Ny9jYXJsaXNsZS0xMDI0eDU3Ni5qcGciO3M6NToid2lkdGgiO2k6MTYyO3M6NjoiaGVpZ2h0IjtpOjgyO30iO3M6NDoiaGFzaCI7czo0MDoiNzQ5MmU5YTdlYjU2YTJlMGQyZTJiNmIxMDZhZGUwZTgzODI1YzY5ZSI7fQ==/carlisle-1024x576.jpg" media="(max-width: 639px)">
+<!--[if IE 9]></video><![endif]-->
+<img src="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTIxOiJhOjM6e3M6MzoidXJsIjtzOjYwOiJodHRwOi8vd3d3LnNwb3J0c2pvZS5pZS9hc3NldHMvaW1hZ2VzL3Nwb3J0c2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijg5MDdkM2FlMWJhN2RjMjUzYjdjYzc0YzBiN2ViMGE1MGY4MzdkNzAiO30=/no-image.png" data-srcset="http://m2.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc1OiJhOjM6e3M6MzoidXJsIjtzOjExMzoiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMi8wNjE4MzA0Ny9jYXJsaXNsZS0xMDI0eDU3Ni5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImNjZDlmNzI2MjQzYmMxMmQ4ZDNjOTM3ZTlkYzFhODE4M2VkMzQ1NTIiO30=/carlisle-1024x576.jpg" alt="Carlisle United's ground swamped by floods... but the players' response was amazing" class="river-post-image lazyload">
+</picture>
+</a>
+</div>
+<div class="detail">
+<div class="headline">
+<a href="http://www.sportsjoe.ie/football/carlisle-uniteds-ground-swamped-by-floods-but-the-players-response-was-amazing/53585">Carlisle United's ground swamped by floods... but the players' response was amazing</a>
+</div>
+<div class="sub-text">
+<div class="pull-right inverted-shares uppercase">
+<span class="share-trigger" data-url="http://www.sportsjoe.ie/football/carlisle-uniteds-ground-swamped-by-floods-but-the-players-response-was-amazing/53585" data-title="Carlisle United's ground swamped by floods... but the players' response was amazing">
+<img src="http://www.sportsjoe.ie/assets/images/sportsjoe/share.png?v=2" alt="share icon">
+<strong>5</strong> shares
+</span>
+</div>
+<div class="pull-left tag-link uppercase tag-holder tag-holder-football"><a href="http://www.sportsjoe.ie/football">Football</a></div>
+<span class="time uppercase">6 hours ago</span>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="standard-post-holder">
+<div class="standard-post no-hp top-space ">
+<div class="no-hp image-holder">
+<a href="http://www.sportsjoe.ie/football/watch-there-is-quite-the-difference-in-how-jurgen-klopp-and-jose-mourinho-dealt-with-weekend-defeats/53589">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY3OiJhOjM6e3M6MzoidXJsIjtzOjEwNToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMi8wNjE5MDgwOS9KT1NFLWhvcnouanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiJhYWE3M2JjNjBlMDkzYTk1NzQ0YzlmNjkwOTM3MjBhOWY2ODBkYjU3Ijt9/jose-horz.jpg" media="(min-width: 970px)">
+<source data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY3OiJhOjM6e3M6MzoidXJsIjtzOjEwNToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMi8wNjE5MDgwOS9KT1NFLWhvcnouanBnIjtzOjU6IndpZHRoIjtpOjM1MDtzOjY6ImhlaWdodCI7aToxNzc7fSI7czo0OiJoYXNoIjtzOjQwOiIxNGNmYjNiY2IxOGYwMWE0NmQ2NTNjN2U0M2RhMDMzMjRjZTYzMWEzIjt9/jose-horz.jpg" media="(min-width: 640px)">
+<source data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY2OiJhOjM6e3M6MzoidXJsIjtzOjEwNToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMi8wNjE5MDgwOS9KT1NFLWhvcnouanBnIjtzOjU6IndpZHRoIjtpOjE2MjtzOjY6ImhlaWdodCI7aTo4Mjt9IjtzOjQ6Imhhc2giO3M6NDA6IjlhZmFhMjVkOTM5MTQxNTI5NTY5OWFkNzRhZTJiNjUzYzk3NDJkZmIiO30=/jose-horz.jpg" media="(max-width: 639px)">
+<!--[if IE 9]></video><![endif]-->
+<img src="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTIxOiJhOjM6e3M6MzoidXJsIjtzOjYwOiJodHRwOi8vd3d3LnNwb3J0c2pvZS5pZS9hc3NldHMvaW1hZ2VzL3Nwb3J0c2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijg5MDdkM2FlMWJhN2RjMjUzYjdjYzc0YzBiN2ViMGE1MGY4MzdkNzAiO30=/no-image.png" data-srcset="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY3OiJhOjM6e3M6MzoidXJsIjtzOjEwNToiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMi8wNjE5MDgwOS9KT1NFLWhvcnouanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiJhYWE3M2JjNjBlMDkzYTk1NzQ0YzlmNjkwOTM3MjBhOWY2ODBkYjU3Ijt9/jose-horz.jpg" alt="WATCH: There is quite the difference in how Jurgen Klopp and Jose Mourinho dealt with weekend defeats" class="river-post-image lazyload">
+</picture>
+</a>
+</div>
+<div class="detail">
+<div class="headline">
+<a href="http://www.sportsjoe.ie/football/watch-there-is-quite-the-difference-in-how-jurgen-klopp-and-jose-mourinho-dealt-with-weekend-defeats/53589">WATCH: There is quite the difference in how Jurgen Klopp and Jose Mourinho dealt with weekend defeats</a>
+</div>
+<div class="sub-text">
+<div class="pull-right inverted-shares uppercase">
+<span class="share-trigger" data-url="http://www.sportsjoe.ie/football/watch-there-is-quite-the-difference-in-how-jurgen-klopp-and-jose-mourinho-dealt-with-weekend-defeats/53589" data-title="WATCH: There is quite the difference in how Jurgen Klopp and Jose Mourinho dealt with weekend defeats">
+<img src="http://www.sportsjoe.ie/assets/images/sportsjoe/share.png?v=2" alt="share icon">
+<strong>107</strong> shares
+</span>
+</div>
+<div class="pull-left tag-link uppercase tag-holder tag-holder-football"><a href="http://www.sportsjoe.ie/football">Football</a></div>
+<span class="time uppercase">6 hours ago</span>
 </div>
 </div>
 <div class="clearfix"></div>
@@ -615,116 +584,80 @@ More from SportsJOE.ie
 Load More Articles
 <div class="loading-icon"></div>
 </button>
-<div class="nav-selector" data-pages="851">
+<div class="nav-selector" data-pages="1597">
 <a href="http://www.sportsjoe.ie/page/2" class="next">Next Page</a>
 </div>
 </div>
 <div class="clearfix"></div>
 </div>
 </div>
-<div class="footer hidden-xs">
-<div class="footer-secondary">
-<div class="container">
-<div class="col-md-12">
-<ul class="list-inline">
-<li><a href="http://www.sportsjoe.ie">Home</a></li>
-<li><a href="http://www.sportsjoe.ie/football">Football</a></li>
-<li><a href="http://www.sportsjoe.ie/gaa">GAA</a></li>
-<li><a href="http://www.sportsjoe.ie/rugby">Rugby</a></li>
-<li><a href="http://www.sportsjoe.ie/mma">MMA</a></li>
-<li><a href="http://www.sportsjoe.ie/us-sports">US Sports</a></li>
-<li><a href="http://www.sportsjoe.ie/sports/viral">Viral</a></li>
-<li><a href="http://www.sportsjoe.ie/videos">Videos</a></li>
-<li><a href="http://www.sportsjoe.ie/galleries">Galleries</a></li>
-<li><a href="http://www.sportsjoe.ie/boxing">Boxing</a></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="container">
-<div class="col-md-12">
-<a href="http://www.maximummedia.ie/">
-<span class="footer-maximum-logo"></span>
-</a>
-<a href="http://www.sportsjoe.ie">
-<span class="footer-logo"></span>
-</a>
-<ul class="list-inline">
-<li><a href="http://www.sportsjoe.ie/about">About Us</a></li>
-<li><a href="http://www.sportsjoe.ie/privacy-statement">Privacy Statement</a></li>
-<li><a href="http://www.sportsjoe.ie/terms-conditions">Terms &amp; Conditions</a></li>
-<li><a href="http://www.sportsjoe.ie/contact">Contact Us</a></li>
-</ul>
-<span class="copyright">Content ©2015 <a href="http://www.maximummedia.ie">Maximum Media Ltd</a>. Site developed by: <a href="http://www.square1.io">Square1.io</a></span>
-</div>
-</div>
-</div>
 <div id="cookie-notice">
 <div class="message">
+<i id="cookie-close" class="fa fa-close"></i>
 We use cookies to ensure that we give you the best experience on our website.
 <a href="http://www.sportsjoe.ie/privacy-statement">Read more »</a>
-<i id="cookie-close" class="fa fa-close"></i>
 </div>
 </div>
-<div id="div-gpt-out_of_page">
-<script type="text/javascript">
-                googletag.cmd.push(function () { googletag.display('div-gpt-out_of_page'); });
-            </script>
+<div id="div-gpt-out_of_page" data-article="702" data-route="" data-tag="" data-section="" data-search="" <="" div="">
+
+                
+                <div class="modal fade modal-large" id="shareModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="featured-story-title uppercase">
+                <button type="button" class="close pull-right" data-dismiss="modal">
+                    <span aria-hidden="true">×</span><span class="sr-only">Close</span>
+                </button>
+                <strong>
+                    Share this article
+                </strong>
+            </div>
+            <div class="modal-body">
+                <div class="share-holder">
+                    Share "<span id="share-modal-article-title"></span>"
+                    <div class="actions top-space text-center">
+                        <a id="share-modal-twitter" data-category="Sharing Button Modal" data-label="Twitter" data-via="sportsjoedotie" rel="external" class="analytics"><i class="fa fa-twitter"></i></a>
+                        <a id="share-modal-facebook" data-category="Sharing Button Modal" data-label="Facebook" rel="external" class="analytics"><i class="fa fa-facebook-square"></i></a>
+                        <a id="share-modal-whatsapp" data-category="Sharing Button Modal" data-label="Whatsapp" rel="external" class="whatsapp-share hide analytics"><i class="fa fa-whatsapp"></i></a>
+                        <a id="share-modal-email" data-category="Sharing Button Modal" data-label="Email" data-site="SportsJOE.ie" class="analytics"><i class="fa fa-envelope"></i></a>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
 </div>
-<div class="modal fade modal-large" id="shareModal" tabindex="-1" role="dialog" aria-hidden="true">
-<div class="modal-dialog">
-<div class="modal-content">
-<div class="featured-story-title uppercase">
-<button type="button" class="close pull-right" data-dismiss="modal">
-<span aria-hidden="true">×</span><span class="sr-only">Close</span>
-</button>
-<strong>
-Share this article
-</strong>
+
+                <div class="modal fade modal-large" id="searchModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="featured-story-title uppercase">
+                <button type="button" class="close pull-right" data-dismiss="modal">
+                    <span aria-hidden="true">×</span><span class="sr-only">Close</span>
+                </button>
+                <strong>
+                    Search
+                </strong>
+            </div>
+            <div class="modal-body">
+                <form class="search-form navbar" action="http://www.sportsjoe.ie/search">
+                    <div class="input-group">
+                        <input type="text" placeholder="Search" class="form-control search-input" id="search-modal-input">
+                        <span class="input-group-addon search-button">
+                            <i class="fa fa-search"></i>
+                        </span>
+                    </div>
+                </form>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
 </div>
-<div class="modal-body">
-<div class="share-holder">
-Share "<span id="share-modal-article-title"></span>"
-<div class="actions top-space text-center">
-<a id="share-modal-twitter" data-category="Sharing Button Modal" data-label="Twitter" data-via="sportsjoedotie" rel="external" class="analytics"><i class="fa fa-twitter"></i></a>
-<a id="share-modal-facebook" data-category="Sharing Button Modal" data-label="Facebook" rel="external" class="analytics"><i class="fa fa-facebook-square"></i></a>
-<a id="share-modal-whatsapp" data-category="Sharing Button Modal" data-label="Whatsapp" rel="external" class="whatsapp-share hide analytics"><i class="fa fa-whatsapp"></i></a>
-<a id="share-modal-email" data-category="Sharing Button Modal" data-label="Email" data-site="SportsJOE.ie" class="analytics"><i class="fa fa-envelope"></i></a>
-</div>
-</div>
-<div class="clearfix"></div>
-</div>
-</div>
-</div>
-</div>
-<div class="modal fade modal-large" id="searchModal" tabindex="-1" role="dialog" aria-hidden="true">
-<div class="modal-dialog">
-<div class="modal-content">
-<div class="featured-story-title uppercase">
-<button type="button" class="close pull-right" data-dismiss="modal">
-<span aria-hidden="true">×</span><span class="sr-only">Close</span>
-</button>
-<strong>
-Search
-</strong>
-</div>
-<div class="modal-body">
-<form class="search-form navbar" action="http://www.sportsjoe.ie/search">
-<div class="input-group">
-<input type="text" placeholder="Search" class="form-control search-input" id="search-modal-input">
-<span class="input-group-addon search-button">
-<i class="fa fa-search"></i>
-</span>
-</div>
-</form>
-<div class="clearfix"></div>
-</div>
-</div>
-</div>
-</div>
-<img id="comscore" height="1" width="1">
+
+        <img id="comscore" height="1" width="1">
+
 <div id="parsely-root" style="display: none">
-<span id="parsely-cfg" data-parsely-site="sportsjoe.ie"></span>
+    <span id="parsely-cfg" data-parsely-site="sportsjoe.ie"></span>
 <script id="parsely-script" async="" src="https://d1z2jf7jlzjs58.cloudfront.net/p.js"></script></div>
 <script>
     (function(s, p, d) {
@@ -737,14 +670,37 @@ Search
       e.src = h+"//"+u+"/p.js"; r.appendChild(e);
     })("script", "parsely", document);
 </script>
+
 <script>
     var realtime = {
-        'app': 'sportsjoe',
-        'channel': 'http://www.sportsjoe.ie/privacy-statement',
-        'hash': '01ca6c0ced1debd6c7a3ce66d0263ec540ca35a8aac5b7cdee190e203915f8e8'
+        'app': 'liveadplus',
+        'channel': '1/1',
+        'hash': '2abe088df0efd33631850ccb778084d77a48633bf4ba52e54f0b447ea2a536e8'
     };
 </script>
-<script src="http://www.sportsjoe.ie/assets/js/app-768da607.js"></script>
 
 
-</body></html>
+<div id="div-gpt-oop">
+    <script type="text/javascript">
+        googletag.cmd.push(function () { googletag.display('div-gpt-oop'); });
+    </script>
+</div>
+
+        <script src="http://www.sportsjoe.ie/assets/js/app-3cbc0bb8.js"></script>
+
+
+                <script type="text/javascript">
+            (function() {
+                function async_load(script_url){
+                    var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+                    var s = document.createElement('script'); s.src = protocol + script_url;
+                    var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+                }
+                bm_website_code = '6B454A854BEA42B0';
+                jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+                jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+            })();
+        </script>
+            
+
+</div></body></html>
