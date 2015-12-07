@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the coatsandclark.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201251id_/http%3A//www.makeitcoats.com/en-us/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coatsandclark.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207094020id_/http%3A//www.makeitcoats.com/en-us/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Make It Coats
+
+Cookies on our site
+
+Cookies are small text files held on your computer. They allow us to give you the best browsing experience possible and mean we can understand how you use our site. Some cookies have already been set. You can delete and block cookies but your experience may be impacted. By using our website you accept our use of cookies.
 
 By viewing or using this Website, you are agreeing to the terms set forth in this Privacy Policy:
 
