@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purewow.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608163051id_/http%3A//www.purewow.com/footer/national/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purewow.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207111727id_/http%3A//www.purewow.com/footer/national/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | PureWow
 
@@ -36,7 +36,7 @@ Occasionally, you'll get an email marked "dedicated" or "sponsored" in the subje
 
 #### Tracking
 
-Like most sites, PureWow.com makes use of browser "cookies." Cookies are small text files placed on your computer's hard disk by our server. They allow us to quickly recognize you and simplify your user experience. PureWow will never use cookies to retrieve information from your computer that is unrelated to our site or services.
+Like most sites, PureWow.com makes use of browser "cookies." Cookies are small text files placed on your computer's hard disk by our server. They allow us to quickly recognize you and simplify your user experience. PureWow will never use cookies to retrieve information from your computer that is unrelated to our site or services.  On occasion, to provide our readers with a more customized experience, we may use, transmit, index, display, and transfer non-personally-identifiable user information.
 
 #### Third Party Cookies
 
