@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-behavior.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608015035id_/http%3A//online-behavior.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-behavior.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207034250id_/http%3A//online-behavior.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Behavior
 
