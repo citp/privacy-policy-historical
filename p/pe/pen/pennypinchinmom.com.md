@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennypinchinmom.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609044800id_/http%3A//pennypinchinmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennypinchinmom.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208000829id_/http%3A//pennypinchinmom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
