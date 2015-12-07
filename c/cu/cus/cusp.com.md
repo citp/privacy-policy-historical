@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cusp.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608053322id_/http%3A//www.cusp.com/assistance/assistance.jsp%3FitemId%3Dassist004) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cusp.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207100500id_/http%3A//www.cusp.com/assistance/assistance.jsp%3FitemId%3Dassist004) for the most accurate reproduction.*
 
 # Security & Privacy at Cusp by Neiman Marcus
 
