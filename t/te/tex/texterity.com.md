@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texterity.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608001846id_/http%3A//www.gtxcel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texterity.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207020813id_/http%3A//www.gtxcel.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GTxcel
 
@@ -21,7 +21,7 @@ Or you can send an email: [Privacy@GTxcel.com](mailto:Privacy@GTxcel.com)
 
 1. “Personal Information”
 
-2. [Information](http://www.gtxcel.com/Privacy-Policy/#Personally-Identifiable-Information) You Provide to Us
+2. [Information](https://live-gtxcel-website.pantheon.io/Privacy-Policy/#Personally-Identifiable-Information) You Provide to Us
 
 3. Information Collected Through Technology
 
@@ -37,7 +37,7 @@ Or you can send an email: [Privacy@GTxcel.com](mailto:Privacy@GTxcel.com)
 
 9\. Supplemental Privacy Notice to California Residents
 
-10. Security[ ](http://www.gtxcel.com/Privacy-Policy/#Security-Measures)
+10. Security[ ](https://live-gtxcel-website.pantheon.io/Privacy-Policy/#Security-Measures)
 
 11\. Special Notice to International Visitors
 
