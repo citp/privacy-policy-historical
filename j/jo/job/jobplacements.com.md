@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jobplacements.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075257id_/http%3A//jobplacements.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobplacements.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207142956id_/http%3A//jobplacements.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Job Placements - Privacy Policy
+
+Job Placements Privacy Policy
 
 **What information do we collect?**
 
@@ -24,6 +26,8 @@ Any of the information we collect from you may be used in one of the following w
 \- To send periodic emails
 
 The email address you provide may be used to send you job information, respond to inquiries, and/or other requests or questions.
+
+To stop receiving our emails, please click the link found at the bottom of each email or update your account preferences under 'Alerts' from the main dashboard.
 
 **How do we protect your information?**
 
@@ -57,7 +61,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.jobplacements.com/disclaimer.php](https://web.archive.org/web/20150607075257id_/http%3A//jobplacements.com/disclaimer.php)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.jobplacements.com/disclaimer.php](https://web.archive.org/web/20151207142956id_/http%3A//jobplacements.com/disclaimer.php)
 
 **Your Consent**
 
