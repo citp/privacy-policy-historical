@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burdastyle.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608114950id_/http%3A//www.burdastyle.com/statics/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burdastyle.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134015id_/http%3A//www.burdastyle.com/statics/privacy-policy) for the most accurate reproduction.*
 
 # Fashion, Sewing Patterns, Inspiration, Community, and Learning | BurdaStyle.com
 
@@ -82,5 +82,25 @@ We have appropriate security measures in place in our physical facilities to pro
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our web site. We will also provide you with the ability to opt out of these new uses.
 
 If you believe that this site is not following its stated information policy, you may contact us at the above address, the DMA’s Committee on Ethical Business Practices at mgoldberger@the-dma.org, or state or local chapters of the Better Business Bureau.
+
+#### Third Party Advertising Technologies
+
+We use analytics tools and other third party technologies, such as Google Analytics and DoubleClick Cookies, to collect non-personal information in the form of various usage and user metrics when you use our online Sites and/or Services.
+
+#### Remarketing
+
+F+W Media, Inc. (“F+W”) also uses 3rd party vendor re-marketing tracking cookies, including the Google Adwords tracking cookie. This means we will continue to show ads to you across the internet, specifically on the Google Content Network (GCN). As always we respect your privacy and are not collecting any identifiable information through the use of Google’s or any other 3rd party remarketing system.
+
+The third-party vendors, including Google, whose services we use – will place cookies on web browsers in order to serve ads based on past visits to our website. – Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. This allows us to make special offers and continue to market our services to those who have shown interest in our service.
+
+Google has additional information available about their Remarketing [Privacy Guidelines](http://support.google.com/adwordspolicy/answer/143465) and [Policies](https://support.google.com/adwords/answer/2549116).
+
+#### Opt-Out
+
+You may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](http://www.google.com/policies/technologies/ads/) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
+
+#### DoubleClick’s Remarketing Pixels
+
+You may opt out of DoubleClick’s remarketing pixels, your privacy policy can instead tell people to opt out of DoubleClick’s use of cookies by visiting the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout) or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 The effective date of this Policy is April 1, 2013.
