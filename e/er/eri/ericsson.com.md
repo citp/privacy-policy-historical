@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ericsson.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629140758id_/http%3A//www.ericsson.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ericsson.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207112907id_/http%3A//www.ericsson.com/privacy) for the most accurate reproduction.*
 
 # Internet privacy policy - Ericsson
 
@@ -16,7 +16,7 @@ If a user contacts Ericsson with a general inquiry, the user may need to provide
 
 If a user wishes to subscribe to Ericsson information such as press releases or financial reports, we ask for an email address. Ericsson will use this e-mail address only to send the requested information; we will not send other unsolicited information.
 
-How to subscribe and unsubscribe: Users may open or cancel subscription(s) at any time by filling in the form on <http://www.ericsson.com/ericsson/press/subscribe/index.shtml>.
+How to subscribe and unsubscribe: Users may open or cancel subscription(s) at any time by filling in the form on [http://www.ericsson.com/ericsson/press/subscribe/index.shtml](https://web.archive.org/ericsson/press/subscribe/index.shtml).
 
 ## Orders, surveys and contests
 
