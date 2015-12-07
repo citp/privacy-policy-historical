@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nixle.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315043540id_/http%3A//www.nixle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nixle.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208004059id_/http%3A//www.nixle.com/privacy-policy) for the most accurate reproduction.*
 
 # Nixle | Privacy Policy
 
@@ -54,7 +54,7 @@ Nixle does not direct any of our content specifically to children, and children 
 
 **Consent To Processing In The United States**
 
-By providing any Personal Information to Nixle, all users, including, without limitation, users in Canada and the member states of the European Union, fully understand and unambiguously consent to this Privacy Policy and to the transfer of such Personal Information across international borders in accordance with Nixle’s standard operations, including the collection, storage, and processing of such information in the United States of America. 
+By providing any Personal Information to Nixle, all users, including, without limitation, users in Canada and the member states of the European Union, fully understand and unambiguously consent to this Privacy Policy and to the transfer of such Personal Information across international borders in accordance with Nixle’s standard operations, including the collection, storage, and processing of such information in the United States of America.
 
 **Your California Privacy Rights**
 
