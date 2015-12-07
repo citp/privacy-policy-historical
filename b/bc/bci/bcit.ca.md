@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcit.ca privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608050848id_/http%3A//www.bcit.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcit.ca privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207135130id_/http%3A//www.bcit.ca/privacy) for the most accurate reproduction.*
 
 # BCIT : : Privacy : : Important Privacy Information
 
@@ -15,7 +15,7 @@ As a public body, BCIT complies with privacy provisions of BC's [_Freedom of Inf
 
 
 
-You may refer to BCIT's policy [6700 Freedom of Information and Protection of Privacy2](https://web.archive.org/files/pdf/policies/6700.pdf) [PDF, 168 KB], for more information.
+You may refer to BCIT's policy [6700 Freedom of Information and Protection of Privacy [PDF]2](https://web.archive.org/files/pdf/policies/6700.pdf), for more information.
 
 For more information about BCIT's privacy procedures you may contact:
 
