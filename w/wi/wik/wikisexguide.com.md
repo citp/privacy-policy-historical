@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikisexguide.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610015632id_/http%3A//www.wikisexguide.com/wiki/WikiSexGuide%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikisexguide.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207211737id_/http%3A//www.wikisexguide.com/wiki/WikiSexGuide%3APrivacy_policy) for the most accurate reproduction.*
 
 # WikiSexGuide:Privacy policy - WikiSexGuide - International World Sex Guide
 
@@ -49,13 +49,16 @@ All personal data collected in this Privacy Policy is stored within the European
 
 
 
-You must login or register first.
+Username* (Remember this for your future logins)
 
-We will guide you step by step:
+Password*
 
-  1. Login or register
-  2. Create a business page
-  3. Apply the ownership
-  4. Upgrade to premium
+#### If you don't have an account
 
+**Create account now!**
 
+Confirm password*
+
+Email* (Confirmation link will be sent to this email)
+
+Already have an account? **Login Now**
