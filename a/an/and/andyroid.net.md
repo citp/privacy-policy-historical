@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andyroid.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608211338id_/http%3A//www.andyroid.net/privacy-policy%3Ftmpl%3Dcomponent) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andyroid.net privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207122818id_/http%3A//www.andyroid.net/privacy-policy%3Ftmpl%3Dcomponent) for the most accurate reproduction.*
 
 # Privacy Policy - Andy - Android Emulator for PC & Mac
 
@@ -7,6 +7,8 @@
 [](http://www.andyroid.net/ "Andy – Android Emulator for PC & Mac")
 
 ## Privacy Policy
+
+Sponsored Links 
 
 ### Andy OS Inc has always been committed to maintaining the accuracy, confidentiality, and security of your personal and corporate information. We have established Privacy Principles to govern our use of customer information.
 
@@ -26,3 +28,9 @@ By default, Andy collects statistics about your usage of Andy (software version
 We never sell your personal information.  
 While we do automatically collect technical information about how Visitors and Users interact with Andy, we don’t automatically collect personal information without your permission.  
 We don’t track your activity across the Internet, although we do receive and keep information about how you got to Andy.
+
+### Subscribe to receive special offers & product updates from Andy OS
+
+X
+
+By providing your e-mail address you agree to receive product updates & commercial offers from Andy OS
