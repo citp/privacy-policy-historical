@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christiandatingforfree.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041459id_/http%3A//www.christiandatingforfree.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiandatingforfree.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207153914id_/http%3A//www.christiandatingforfree.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Christian Dating For Free | Online Community of Single Christians
 
@@ -50,6 +50,9 @@ Except under the following circumstances, CDFF will keep Your Personal Informati
   * **Business Transfers; Bankruptcy.  ** CDFF reserves the right to transfer all Personal Information in its possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of CDFF ’ assets.  Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personal Information will be subject to this Privacy Policy, or to a new privacy policy if You are given notice of that new privacy policy and an opportunity to affirmatively opt-out of it.  Personal Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by CDFF ’ successor organization. 
 
 
+  * **Disclosure to Marketing Partners.  ** From time to time, CDFF will disclose Your Personal Information to marketing partners of CDFF, so that those marketing partners may send you offers by email that may be of interest to you.  We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use both personally identifiable information (e.g., your name, phone number, physical or electronic address) and non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at [www.aboutads.info](http://www.aboutads.info/) or Networking Advertising Initiative at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices). California Civil Code Section 1798.83 permits customers of Company who are California residents to request certain information regarding its disclosure of their personally identifiable information to third parties for their direct marketing purposes. You may request a list of all of the third parties with whom we share your PII by sending an e-mail to [admin@christiandatingforfree.com](mailto:admin@christiandatingforfree.com) and place "California Third Party Disclosure" in the subject line. Please allow up to thirty days for a response. 
+
+
 
 **4.   CONSENT TO RECEIVE EMAIL FROM CDFF**
 
@@ -80,4 +83,4 @@ From time to time, CDFF may conduct contests, giveaways and other promotions (co
 
 Although most changes are likely to be minor, CDFF reserves the right, at any time and without notice, to add to, update, change or modify this Privacy Policy, simply by posting such update, change or modification on this page. Any such addition, update, change or modification will be effective immediately upon posting on the Website.  Each time You use the Website, the then-current version of this Privacy Policy will apply.  Accordingly, each time You use the Website You should check the date of this Privacy Policy (which appears at the end) and review any changes since the last time You used the Website.  Unless CDFF obtains Your express consent, any revised Privacy Policy will apply only to information collected after the effective date of such revised Privacy Policy, and not to information collected under any earlier Privacy Policy.
 
-Effective Date: June 29, 2006
+Effective Date: August 28, 2015
