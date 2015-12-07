@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xcubelabs.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607084814id_/http%3A//www.xcubelabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcubelabs.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207145515id_/http%3A//www.xcubelabs.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - [x]cube LABS
 
@@ -47,3 +47,23 @@ PurpleTalk will occasionally update this Statement of Privacy to reflect company
 ### Contact Information
 
 PurpleTalk welcomes your comments regarding this Statement of Privacy. If you believe that PurpleTalk has not adhered to this Statement, please [connect@PurpleTalk.com](mailto:connect@PurpleTalk.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+
+### Grab the infographic code by Clicking on the button below
+
+### Our other Infographics
+
+[](http://www.xcubelabs.com/infographic-enterprise-mobility/)
+
+Enterprise Mobility
+
+[](http://www.xcubelabs.com/the-android-story.php)
+
+The Android Story
+
+[](http://www.xcubelabs.com/the-smartphone-app-o-graphic.php)
+
+Smartphone App-o-Graphic
+
+[](http://www.xcubelabs.com/smartphone-mobile-app-usage.php)
+
+Smartphone Usage
