@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefwa.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629164733id_/http%3A//www.thefwa.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefwa.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207212658id_/http%3A//www.thefwa.com/about/privacy-statement) for the most accurate reproduction.*
 
 # TheFWA - Privacy Statement
 
@@ -10,9 +10,9 @@ FWA is committed to protecting and respecting your privacy and to using technolo
 
 3\. Submitted sites, entails collecting IP address, email address, name, URL, site title and description. This information is only used to process each nomination. Winning sites’ information is kept securely on file and all other information from non-winning sites is deleted from our files.
 
-4\. Membership of the FWA Monthly Newsletter entails collecting email address, name/alias. This information is only used in conjunction with the monthly newsletter to enable FWA to send members FWA news once per month and, very rarely, extraordinary news events. To have information removed from our membership list, email team@thefwa.com with your registered email address.
+4\. Membership of the FWA Monthly Newsletter entails collecting email address, name/alias. This information is only used in conjunction with the monthly newsletter to enable FWA to send members FWA news once per month and, very rarely, extraordinary news events. To have information removed from our membership list, email teamfwa@thefwa.com with your registered email address.
 
-5\. Credit card information and personal details given through the soon-to-open FWA shop will always be taken via a secure (Secure Socket Layers) connection. Credit card details are only used to process the transaction and are not held on file for marketing purposes.
+5\. Credit and/or debit card information and personal details given through the FWA website will always be taken via a secure (Secure Socket Layers) connection. Credit and/or debit card details are only used to process the transaction and are not stored and are not held or used for marketing purposes.
 
 6\. With reference to the Child Online Privacy Protection Act 21st April 2000, by the US Federal Trade Commission, we will not accept any requests from children aged under 13.
 
@@ -33,3 +33,15 @@ FWA is committed to protecting and respecting your privacy and to using technolo
 14\. Your visit to and use of this website and any dispute over privacy is subject to this Statement of Privacy and the laws of England and Wales. 
 
 15\. This Statement is applicable only to information collected from you during your visit to this website. We will display a prominent notice on this website's home page whenever this Privacy Statement is updated or changed and you should check our Privacy Statement periodically. By choosing to continue usage of FWA, you agree to the terms of this Privacy Statement.
+
+Contact us:
+
+1    This website is owned and operated by Robert Ford, d.b.a.Favourite Website Awards
+
+2    Our registered office is at Bumper Hall Penn, Royston Road, Litlington, SG8 0RL, UK
+
+3    Our principal place of business is at Bumper Hall Penn, Royston Road, Litlington, SG8 0RL, UK
+
+4    You can contact us by writing to the business address given above, by using our website contact form, by email to teamfwa@thefwa.com or by telephone on 01763852356
+
+| 
