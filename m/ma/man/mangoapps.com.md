@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangoapps.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508060021id_/http%3A//www.mangoapps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangoapps.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207115520id_/http%3A//www.mangoapps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MangoApps
 
@@ -31,8 +31,8 @@ MangoApps uses a self-assessment approach to assure compliance with this privacy
 Questions, comments or complaints regarding data collection and processing practices can be mailed or emailed to: 
 
 **MangoApps**  
-4122 Factoria Blvd. SE, Suite 450  
-Bellevue, WA 98006
+1495 11th Ave. NW  
+Issaquah, WA 98027
 
 Effective date: August 1, 2011
 
