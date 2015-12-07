@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 3qdigital.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041306id_/http%3A//3qdigital.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3qdigital.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207153829id_/http%3A//3qdigital.com/privacy-policy) for the most accurate reproduction.*
 
 # 3Q Digital | Privacy Policy
 
 ## Our Sites
 
-Our two public websites are [http://3QDigital.com](http://3qdigital.com/), and [http://fbppc.com](http://fbppc.com/).
+Our two public websites are [http://www.3qdigital.com](http://www.3qdigital.com/), and [http://fbppc.com](http://fbppc.com/).
 
 We use the 3QDigital.com site to describe our company and offer ways to contact us, meet our team, download whitepapers, read digital marketing blogs, etc. FBPPC.com is a daily Facebook advertising blog.
 
