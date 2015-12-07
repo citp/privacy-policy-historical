@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadeyum.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502123509id_/http%3A//www.arcadeyum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadeyum.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207162254id_/http%3A//www.arcadeyum.com/privacy-policy) for the most accurate reproduction.*
 
 # ArcadeYum | Privacy Policy
 
@@ -7,10 +7,6 @@ ArcadeYum LLC PRIVACY POLICY
 [](http://privacy.truste.com/privacy-seal/ArcadeYum-LLC/validation?rid=96c3cefb-d50f-4ea9-9334-14c8c81a8489 "TRUSTe online privacy certification")
 
 This Privacy Policy ("Policy") explains what information ArcadeYum LLC (referred to herein as "ArcadeYum", "Company", "we", “us”, or “our”) collect from individuals who visit the [www.ArcadeYum.com](http://www.arcadeyum.com/) website (the "Site") and/or participate in the resources offered by ArcadeYum ("User(s)" or "you"). This Policy also explains how the Company uses and maintains that information.
-
-ArcadeYum LLC has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [www.ArcadeYum.com](http://www.arcadeyum.com/).  
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
 **Changes to this Privacy Policy**
 
@@ -116,4 +112,4 @@ If you have any questions or concerns about this Policy or its implementation, p
 
 Effective: October 18, 2013
 
-Last Updated: February 28, 2015
+Last Updated: September 30, 2015
