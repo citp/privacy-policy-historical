@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadrunnersports.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608173515id_/http%3A//www.roadrunnersports.com/rrs/content/content.jsp%3FcontentId%3D2700024%26cm_sp%3Dfooter-_-anchor-_-privacy_and_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadrunnersports.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207102448id_/http%3A//www.roadrunnersports.com/rrs/content/content.jsp%3FcontentId%3D2700024%26cm_sp%3Dfooter-_-anchor-_-privacy_and_security) for the most accurate reproduction.*
 
 # Road Runner Sports Privacy & Security Policy
 
