@@ -1,24 +1,8 @@
-> *The following text is extracted and transformed from the landandfarm.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608050812id_/http%3A//www.landandfarm.com/about/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landandfarm.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207144303id_/http%3A//www.landandfarm.com/about/Privacy) for the most accurate reproduction.*
 
 # LandAndFarm.com - Privacy Statement
 
-Effective Date Updated: October 08, 2014
-
-[](https://privacy.truste.com/privacy-seal/LoopNet-Inc-/validation?rid=f78f208c-13c2-4964-a799-37268a9dd066 "TRUSTe online privacy certification")
-
-LandAndFarm has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this website, [www.LandAndFarm.com](http://www.landandfarm.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. When you visit a web site displaying the TRUSTe trustmark, you can expect to be notified of the following information:
-
-  * The personal information collected and which organization is collecting the information
-  * How the information is used and with whom the information may be shared
-  * Choices available to you regarding collection, use and distribution of the information
-  * Types of security procedures in place to protect the loss, misuse or alteration of information under the company's control
-  * How you can correct any inaccuracies in the information
-
-
-
-Questions regarding this statement should be directed to [privacy@loopnet.com](mailto:privacy@loopnet.com). Alternatively, please contact us by mail at LandAndFarm Administration -- Privacy Statement, 1331 L St. NW, Washington, DC. 20005, or by telephone at (626) 803-5000.
-
-If the web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint) . For more information on TRUSTe, please go to [http://www.truste.com](http://www.truste.com/).
+Effective Date Updated: October 02, 2015
 
 **LandAndFarm’s Privacy Statement**
 
