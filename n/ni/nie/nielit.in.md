@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nielit.in privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218081624id_/http%3A//www.nielit.in/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nielit.in privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207230702id_/http%3A//nielit.gov.in/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | Government of India | National Institute of Electronics & Information Technology
 
-#### [](https://web.archive.org/web/20150218081624id_/http%3A//www.nielit.in/acts.aspx)
+#### [](https://web.archive.org/web/20151207230702id_/http%3A//nielit.gov.in/acts.aspx)
 
 **Privacy Policy**
 
