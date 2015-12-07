@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newcastlepermanent.com.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607135217id_/http%3A//www.newcastlepermanent.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcastlepermanent.com.au privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207021232id_/http%3A//www.newcastlepermanent.com.au/privacy) for the most accurate reproduction.*
 
 # Newcastle Permanent - Privacy Policy
 
@@ -136,7 +136,7 @@ We may disclose your personal information to other organisations, for example:
 
 We will take reasonable steps to ensure that these organisations are bound by sufficient confidentiality and privacy obligations with respect to the protection of your personal information.
 
-Some of the recipients to whom we disclose your personal information may be based overseas. It is not practicable to list every country in which such recipients are located but it is likely that such countries will include the United Kingdom and New Zealand. Such overseas recipients may not be bound by the Privacy Act. If we disclose your personal information outside Australia, we will do so on the basis that the information will be used only for the purposes it was collected for.
+Some of the recipients to whom we disclose your personal information may be based overseas. It is not practicable to list every country in which such recipients are located but it is likely that such countries will include the United Kingdom, New Zealand and Philippines. Such overseas recipients may not be bound by the Privacy Act. If we disclose your personal information outside Australia, we will do so on the basis that the information will be used only for the purposes it was collected for.
 
 ### 3.8 Security
 
@@ -213,4 +213,4 @@ We are constantly reviewing all of our policies and attempt to keep up to date w
 
 As a consequence we may change this Privacy Policy from time to time or as the need arises. This Privacy Policy came into existence on 12 March 2014.
 
-Download Pdf version [here](https://web.archive.org/Portals/1/Personal/PDFs/PrivacyPolicy.pdf).
+Download Pdf version [here](https://web.archive.org/Portals/1/Personal/PDFs/PrivacyPolicy2015.pdf).
