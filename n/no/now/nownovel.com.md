@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nownovel.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145043id_/http%3A//www.nownovel.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nownovel.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207034415id_/http%3A//www.nownovel.com/home/privacy) for the most accurate reproduction.*
 
-# The legal stuff around your privacy on Now Novel
+# Now Novel Privacy Policy | Now Novel
 
 ## We collect personal and activity data, which may be linked.
 
@@ -44,9 +44,7 @@ Google Analytics is a web analytics tool that helps website owners understand ho
 
 [Privacy Policy and Choices](http://www.google.com/analytics/learn/privacy.html)
 
-KISSmetrics provides tools to companies that allow them to analyze usage of their own websites with the goal of improving their customers' experience.
-
-[Privacy Policy and Choices](http://www.kissmetrics.com/user-privacy)
+We use Intercom for in-app messaging and customer support and surveys that we use to refine the Now Novel service. Intercom will not sell or otherwise exploit your personal information. You can read Intercom's full privacy policy [here](https://docs.intercom.io/privacy).
 
 ## We take steps to protect personal information
 
