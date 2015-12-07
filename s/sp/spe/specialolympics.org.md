@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the specialolympics.org privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429041352id_/http%3A//www.specialolympics.org/Common/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the specialolympics.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207073911id_/http%3A//www.specialolympics.org/Common/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Special Olympics: Privacy Policy
 
-## Privacy Policy
+Special Olympics understands the importance of protecting your personal information, and we have created this Privacy Policy to inform you of how we will use your personal information and how you can communicate with us about your preferences.
 
-[ ](http://www.addthis.com/bookmark.php) [ ](http://www.addthis.com/bookmark.php)
+* * *
 
-Special Olympics understands the importance of protecting your personal information, and we have created this Privacy Policy to inform you of how we will use your personal information and how you can communicate with us about your preferences. 
-
-**BY ACCESSING AND/OR USING THE WEBSITE, YOU HAVE AGREED TO 1) abide by the practices described in this Privacy Policy, as may be amended from time to time, and 2) the transfer, processing and maintenance of your personal and sensitive information in the United States of America.**
+**BY ACCESSING AND/OR USING THE WEBSITE,  OR BY CONTRIBUTING TO SPECIAL OLYMPICS BY ANY MEANS, YOU HAVE AGREED TO 1) abide by the practices described in this Privacy Policy, as may be amended from time to time, and 2) the transfer, processing and maintenance of your personal and sensitive information in the United States of America.**
 
  **THE PERSONAL INFORMATION WE COLLECT:** Depending on the type of communication or transaction, the personal information we collect may include, but is not limited to, your name, postal address, ZIP code, telephone number, organization name, e-mail address, credit card, bank information or billing information.
 
@@ -48,15 +46,3 @@ If you use Special Olympics Network communications tools to disclose information
 Special Olympics may use agents and contractors in order to help operate the Network. If such agents and contractors have access to personally identifiable information, they are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for the  Special Olympics Network.
 
 Last Updated November, 2 2012
-
-#### Your Donation Matters
-
-Special Olympics transforms athletes’ lives through the joy of sport. Help us make a difference.
-
-[DONATE TODAY»](https://secure.specialolympics.org/site/c.mlIYIjNZJuE/b.5140039/k.1802/Give_the_Power_of_Sport_to_One_More_Person/apps/ka/sd/donorcustom.asp?BeneficiaryID=SO999 "DONATE TODAY")
-
-#### Volunteer Near You
-
-Volunteering with Special Olympics is fun and very rewarding, for both the athlete and the volunteer!
-
-[LEARN MORE»](http://www.specialolympics.org/volunteers.aspx)
