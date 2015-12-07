@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the battdepot.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608025722id_/http%3A//www.battdepot.com/us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battdepot.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207070725id_/http%3A//www.battdepot.com/us/privacy.aspx) for the most accurate reproduction.*
 
 # Batteries and Battery Chargers - Laptop Batteries, Digital Camera Batteries, Camcorder Batteries, Rechargeable Batteries, Notebook Adapter, Li-ion Batteries, Smart Phone Batteries at Battdepot USA
 
