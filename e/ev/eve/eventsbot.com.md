@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventsbot.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607134335id_/http%3A//www.eventsbot.com/Privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventsbot.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207021510id_/http%3A//www.eventsbot.com/Privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
