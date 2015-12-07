@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kalyan-city.blogspot.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207010956id_/http%3A//kalyan-city.blogspot.com/2012/09/disclaimer-and-privacy-policy-of-kalyan.html%23Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kalyan-city.blogspot.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207095026id_/http%3A//kalyan-city.blogspot.com/2012/09/disclaimer-and-privacy-policy-of-kalyan.html%23Privacy_policy) for the most accurate reproduction.*
 
 # Disclaimer and Privacy Policy of Kalyan City Life Blog
 
@@ -58,8 +58,6 @@ Yours Truly, Kalyan City Life Team.
   
 
 
-### Read Similar Articles
+### Related
 
-### Google Article Translation
-
-[](http://www.google.com/translate_p?hl=en&ie=UTF-8&oe=UTF-8&u=http://kalyan-city.blogspot.com/2012/09/disclaimer-and-privacy-policy-of-kalyan.html&langpair=en|fr "French Translation")[](http://www.google.com/translate_p?hl=en&ie=UTF-8&oe=UTF-8&u=http://kalyan-city.blogspot.com/2012/09/disclaimer-and-privacy-policy-of-kalyan.html&langpair=en|de "Deutsch German Translation")[](http://www.google.com/translate_p?hl=en&ie=UTF-8&oe=UTF-8&u=http://kalyan-city.blogspot.com/2012/09/disclaimer-and-privacy-policy-of-kalyan.html&langpair=en|it "Italian Translation")[](http://www.google.com/translate_p?hl=en&ie=UTF-8&oe=UTF-8&u=http://kalyan-city.blogspot.com/2012/09/disclaimer-and-privacy-policy-of-kalyan.html&langpair=en|pt "Portuguese Translation")[](http://www.google.com/translate_p?hl=en&ie=UTF-8&oe=UTF-8&u=http://kalyan-city.blogspot.com/2012/09/disclaimer-and-privacy-policy-of-kalyan.html&langpair=en|es "Spanish Translation")[](http://www.google.com/translate_p?hl=en&ie=UTF-8&oe=UTF-8&u=http://kalyan-city.blogspot.com/2012/09/disclaimer-and-privacy-policy-of-kalyan.html&langpair=en|ja "Japanese Translation")[](http://www.google.com/translate_p?hl=en&ie=UTF-8&oe=UTF-8&u=http://kalyan-city.blogspot.com/2012/09/disclaimer-and-privacy-policy-of-kalyan.html&langpair=en|hi "Hindi Translation")[](http://www.google.com/translate_p?hl=en&ie=UTF-8&oe=UTF-8&u=http://kalyan-city.blogspot.com/2012/09/disclaimer-and-privacy-policy-of-kalyan.html&langpair=en|zh "Chinese Translation")[](http://www.google.com/translate_p?hl=en&ie=UTF-8&oe=UTF-8&u=http://kalyan-city.blogspot.com/2012/09/disclaimer-and-privacy-policy-of-kalyan.html&langpair=en|ru "Russian Translation")
+### Translation
