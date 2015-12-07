@@ -1,63 +1,100 @@
-> *The following text is extracted and transformed from the boxofficeworld.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229062228id_/http%3A//www.boxofficeworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxofficeworld.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208004042id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy : Box Office World
+# Legal Agreement
 
-Thank you for visiting Box Office World and for taking interest in our Privacy Policy. We have built this site with the objective of making it a valuable resource for you, and understand the importance of your privacy. We’re very aware of the need to respect, and protect the privacy of all our readers. We attempt to honor or exceed the legal requirements for medical/health information privacy for the state of New York, and the United States of America in general.
+**GoDaddy Respects Your Privacy**
 
-Please read this Policy carefully. If you have any questions about this Policy or our data collection, use or disclosure practices, please contact us in any of the ways listed at the end of this Policy.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**What information do we collect?**
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-Since Box Office World purpose is to provide you with detailed health care information, we may request correspondingly detailed personal health information. Certain information that we request is necessary for us to provide one or more Box Office World services to you. Other information is optional. However, if you elect not to provide this optional information, this choice may limit the value of the Box Office World experience for you. For example, if we do not have your children’s ages, we will not be able to provide information about their developmental stages or suggestions for age appropriate games and activities. As you can see, the more information we have about you, the more valuable the Box Office World experience can be for you.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-Box Office World may collect or track the e-mail addresses of visitors that communicate with the Site via e-mail and information knowingly provided by the visitor in online registration forms, information requests, the “[Contact Us](https://web.archive.org/contact-us)” section of the Site, and other online resources. We collect personal information through our registration form and also from registration information you provide to our marketing partners (for users that join Box Office World though one of our partners). Information collected at registration includes, but is not limited to, name, address, email address, gender and birth date. You may choose to provide additional information, including (but not limited to) such health and lifestyle information about you and your family as marital status and household information (spouse, children, pets, etc.); ethnicity; education; income; occupation; purchasing habits; reading habits; insurance; height; weight; physical and mental health conditions and diseases; symptoms; treatments; medications; medical devices; vitamins; health habits; and participation in research surveys and clinical trials. Generally, in addition to the other uses and features described in this Privacy Policy, we use this information to improve your Box Office World experience by tailoring the content displayed in your version of the Site to the information that we describe in this paragraph.
+**Information Collection and Use**
 
-In addition, we might receive information about you from outside sources and add it to your Box Office World membership information. We do this to improve personalization of our services (for example, providing better newsletter content, advertising or special offers that we think will interest you). We also may compare our customer list to lists received from other companies, in an effort to avoid sending identical messages to our members.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-Even if you do not register with Box Office World, we collect or track non-personal information including (1) the home server domain names, e-mail addresses, type of client computer, files downloaded, search engine used, operating system, and type of Web browser of visitors to the Site, and (2) aggregate and user-specific information regarding which pages Site visitors access, using tracking technologies, such as action tags or cookies.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-**Cookies**
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We and our advertisers collect anonymous information about your use of our site through cookies. Box Office World may place “cookies” on your hard drive. The cookie does not tell us who you are. Only you can tell us that. Internet cookies are small text files that save data about individual visitors, save your password so you don’t have to re-enter it each time you visit the Web Site, and help us to deliver personalized content and other services. Many Web browsers are automatically set to accept cookies. You may change your browser settings to either reject cookies or notify you when a cookie is about to be placed on your computer. Please note, however, that rejecting cookies while visiting the Web Site may result in certain parts of the Web Site not operating correctly or as efficiently as if they were allowed. For example, if you are a Box Office World member, you may need to enter your username and password each time you visit the Web Site.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-The information collected by cookies helps us generate customized content, and also allows us to statistically monitor how many people are using our site and for what purpose. For contests or sweepstakes, we may use cookies in order to track your progress and the number of entries in some promotions. For polls, we may use cookies to help ensure that an individual can’t vote more than once on a particular question or issue. We do not store any identifying information in any cookies on your computer.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-**Third-Party Advertising**
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Our Web advertising partners, such as DoubleClick, may place or recognize a unique cookie on your browser in order to control the sequence of advertisements you see and to make sure you don’t see the same ad too many times. DoubleClick does not use information collected via these cookies in its advertising network. To turn off DoubleClick cookies, please visit the DoubleClick website. If you opt out of DoubleClick cookies, you will still see advertisements on our site. These ads will be targeted only on the basis of the non-personal information that is automatically transmitted on the Internet, such as information collected in our Web logs and the approximate geographic location of your computer.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-We also have agreements with companies, sometimes called “Ad Networks” that serve advertising on behalf of third parties. These Ad Networks may place or recognize a unique cookie, sometimes called a “third party cookie” on your browser. Ad Networks use cookies to understand Web usage patterns of people who see advertisements, to control the sequence of advertisements you see, to provide you with the most relevant advertising, and to make sure you don’t see the same ad too many times. Ad Networks may connect information about pages you visited on our site with information about pages you visit on other sites and show you advertising based on this combined information. While we do not control Ad Networks or what they do with the information they collect, we have relationships only with organizations that have agreed to participate in the Network Advertising Initiative (NAI) and abide by NAI principles, which prohibit members from connecting personally identifiable information to information they collect through cookies without your explicit consent.
+**Security**
 
-If you wish to opt out of participating in advertising programs conducted by DoubleClick or Ad Networks, please go to the NAI Opt-Out site and follow the instructions on that site. After you opt out, you will still see advertising on our site, but this advertising will not be tailored to your Web preferences and usage patterns. Please see our Advertising policy for more information about our relationship with advertisers.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-Your browser software can be set to reject all cookies or to accept cookies only from our site. Most browsers offer instructions on how to reset the browser to reject cookies in the “[Help](https://web.archive.org/help)” section of the toolbar. If you reject our cookies, you may not be able to log in or use certain functions and conveniences of our site.
+**Updating Your Information**
 
-In some instances we may include certain links in our e-mails that will allow us to monitor whether you access specific content or advertisements contained in that e-mail. When you click on one of these links, we will record that click and certain activities on the Web page associated with that link. We may use this information for various purposes, such as to conduct internal research on our users’ demographics, interests, and behavior in and to our e-mail advertisements and content. We also use it to customize the content displayed on your version of Box Office World, tailoring it to your interests.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-**Search**
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-When you search on our site, we store the search terms and the site(s) visited so that we can continuously improve the quality of our search results.
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**Giveaways and Contests**
+      iii.      You may call us at: (480) 505-8800
 
-We may conduct giveaways, contests and other promotions on the Box Office World Web Site in which we may ask you for additional information. We use and treat this information in accordance with the terms of this Policy. Participation in such giveaways and contents is not necessary to use Box Office World, and you may choose whether you wish to participate in any particular give-away or contest.
+       iv.      You may fax us at: (480) 505-8844
 
-We periodically prepare analyses and reports reflecting visitor and member use of the Box Office World Web Site and Box Office World services for our internal use as well as for a limited number of our business partners. These reports include aggregate information about Box Office World members, and in certain instances, visitors to the Box Office World Web Site. The information in these reports will not identify you individually. Our business partners who have access to these reports will not be able to contact you from the information contained in the reports.
+**Sending Emails**
 
-**Referral Program**
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-As part of our referral program, you can provide contact information (such as name and e-mail address) of your friends and family whom you think would like to receive Box Office World e-mails and use the Box Office World services. The users referred to us receive sample Box Office World e-mails, but do not become members until they confirm their interest in the service.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Market Research**
+**Compliance with Laws and Law Enforcement**
 
-You may choose to participate in market research activities through Box Office World, including health panels and surveys. When participating in such activities, we may ask you to submit personal information. We may combine the personal information you provide to us with research tools and information from other sources, including prescription information. We use this information to perform research, and to prepare reports and analyses for our clients. Our reports and analyses to clients are made only on an anonymous basis.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-Box Office World reserves the right, at any time and without notice, to add to, update, change, modify or revise this Privacy Policy or our services simply by posting such change, update or modification on the Web Site. Any such addition, update, change, modification or revision will be effective immediately upon posting on the Web Site. Upon any change to this Privacy Policy or our services, we may also notify you via e-mail.
+**Third Party Service Providers**
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-If you do not accept the terms of this Policy, we ask that you do not visit or register with Box Office World.
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-Please [Contact Us](http://boxofficeworld.com/contact-us "Contact Us") if you have any further questions.
+**Supplementation of Information**
 
-Copyright 2009-2010 Box Office World. 
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
