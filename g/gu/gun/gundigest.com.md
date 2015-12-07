@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gundigest.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629215522id_/http%3A//www.fwmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gundigest.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207104447id_/http%3A//www.fwmedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy | F+W
 
-**[Click here to view our Terms of Use Policy, Updated April 22, 2015](http://www.fwcommunity.com/termsofuse)**
-
 Privacy Policy
+
+[Click here to view our Terms of Use Policy, Updated April 22, 2015](http://www.fwcommunity.com/termsofuse)
 
 SUMMARY  
 This web site is owned by F+W Media, Inc. (“F+W”). At F+W, our goal is to offer products and services that will allow our customers to lead fuller, richer lives. The same holds for how we communicate with you and how we handle your personal data. It’s important to us that you understand what information we collect, how we protect it, and how we use it — and to provide clear instructions if you choose to request changes in how we communicate with you.
