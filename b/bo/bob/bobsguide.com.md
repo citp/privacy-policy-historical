@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bobsguide.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608061754id_/http%3A//www.bobsguide.com/cgi-bin/guide/privacy.pl%3FID%3Dbg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bobsguide.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207144751id_/http%3A//www.bobsguide.com/cgi-bin/guide/privacy.pl%3FID%3Dbg) for the most accurate reproduction.*
 
 # Privacy policy - bobsguide.com
 
-This privacy statement is issued by MyGuides Ltd, the parent company of Bobsguide. It applies to visitors to the site. There is an additional privacy statement which applies to vendors.
+This privacy statement is issued by MyGuides Ltd, the parent company of Bobsguide. It applies to visitors to the site. There is an additional privacy statement which applies to vendors which can be viewed [here](https://web.archive.org/cgi-bin/guide/vendorprivacy.pl?ID=bg).
 
  **Information this site gathers**
 
