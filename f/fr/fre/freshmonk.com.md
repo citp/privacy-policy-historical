@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freshmonk.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608054030id_/http%3A//www.freshmonk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshmonk.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207095058id_/http%3A//www.freshmonk.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | FreshMonk
+# Privacy Policy
 
 This privacy policy describes how FreshMonk collects and uses the personal information you provide on www.freshmonk.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
