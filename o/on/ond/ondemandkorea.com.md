@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ondemandkorea.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630014015id_/http%3A//www.ondemandkorea.com/privacy-policy%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ondemandkorea.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207020715id_/http%3A//www.ondemandkorea.com/privacy-policy%3Flang%3Den) for the most accurate reproduction.*
 
 # None
 
