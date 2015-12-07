@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the scamanalyze.com privacy policy that was archived on 2015-03-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150327213034id_/http%3A//scamanalyze.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scamanalyze.com privacy policy that was archived on 2015-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151208005901id_/http%3A//scamanalyze.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     	<title>Privacy Policy</title>
@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="We are committing to keep their privacy safe as possible, not sell or share to other third party.">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/assets/css/style.css"> 
 	<link rel="icon" type="image/png" href="/favicon.png">
 	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -157,7 +157,7 @@
       <div class="container">
         		<div class="row">
 		<div class="copyright col-sm-6">
-		<p>© <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">var d=new Date();document.write(d.getFullYear());</script>2020 SCAMANALYZE.COM</p>
+		<p>©2015 SCAMANALYZE.COM</p>
 		</div>
 		<div class="poli col-sm-6">
         <a href="/privacy">Privacy Policy</a> - <a href="/term-of-use">Term of Use</a> - <a href="/contact">Contact Us</a>
@@ -168,13 +168,21 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
         <script type="text/javascript">
     !function(o){o.extend({scrollToTop:function(){var l=!1;o("body").append(o("<a />").addClass("scroll-to-top").attr({href:"#",id:"scrollToTop"}).append(o("<i />").addClass("fa fa-chevron-up"))),o("#scrollToTop").click(function(l){return l.preventDefault(),o("body, html").animate({scrollTop:0},500),!1}),o(window).scroll(function(){l||(l=!0,o(window).scrollTop()>150?(o("#scrollToTop").stop(!0,!0).addClass("visible"),l=!1):(o("#scrollToTop").stop(!0,!0).removeClass("visible"),l=!1))})}})}(jQuery);
     $(function(){
         $.scrollToTop();  
         $('[data-toggle="tooltip"]').tooltip();
+        $(document).on('click',"a.ajax-process", function(e){
+            e.preventDefault();
+            $(e.target).button('loading');
+            $.post($(this).attr('href'),function(r){
+                $(e.target).remove();
+                window.location.reload();
+            })
+        })
     })
     </script>
 <script>
