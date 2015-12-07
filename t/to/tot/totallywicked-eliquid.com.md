@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totallywicked-eliquid.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123071731id_/http%3A//totallywicked-eliquid.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallywicked-eliquid.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207025518id_/http%3A//www.totallywicked-eliquid.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Totally Wicked E Cig Store
 
@@ -87,9 +87,7 @@ If you forget your password, you can request a new password, which will be email
 
 **Contact us.**
 
-**Email: **[info@totallywicked-eliquid.com>info@totallywicked-eliquid.com](mailto:info@totallywicked-eliquid.com%3E%3CFONT%20size=2%3Einfo@totallywicked-eliquid.com%3C/FONT)
-
-[
+**Email: **[info@totallywicked-eliquid.com](mailto:info@totallywicked-eliquid.com)
 
 **Telephone:** Please call during office hours for all general and sales enquiries. 888.761.9425
 
@@ -99,5 +97,3 @@ If you forget your password, you can request a new password, which will be email
 Totally Wicked E-Liquid USA, Inc.  
 2057 60th Place East  
 Bradenton, FL 34203
-
-](mailto:info@totallywicked-eliquid.com%3E%3CFONT%20size=2%3Einfo@totallywicked-eliquid.com%3C/FONT)
