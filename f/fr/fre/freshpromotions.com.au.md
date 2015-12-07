@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freshpromotions.com.au privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319175751id_/http%3A//www.freshpromotions.com.au/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshpromotions.com.au privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207074058id_/http%3A//www.freshpromotions.com.au/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fresh Promotions
+# Privacy Policy : Fresh Promotions
 
 ## Fresh Promotions is Committed to Your Privacy
 
