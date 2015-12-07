@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safecaller.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607033702id_/http%3A//safecaller.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safecaller.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207133234id_/http%3A//www.safecaller.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | OkCaller.com
 
