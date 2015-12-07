@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the c-span.org privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627033253id_/http%3A//www.c-span.org/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the c-span.org privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207095232id_/http%3A//www.c-span.org/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us" class="no-js"><!--<![endif]--><head>
 <meta charset="UTF-8">
@@ -13,11 +13,11 @@ Privacy | C-SPAN.org</title>
 <link rel="apple-touch-icon" href="http://static.c-span.org/apple-touch-icon-iphone.png">
 <link rel="apple-touch-icon" sizes="72x72" href="http://static.c-span.org/apple-touch-icon-ipad.png">
 <link rel="apple-touch-icon" sizes="114x114" href="http://static.c-span.org/apple-touch-icon-iphone-retina-display.png">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://static.c-span.org/assets/javascript/libs/typekit/wji5adk.1420815482.js"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://static.c-span.org/assets/javascript/libs/typekit/wji5adk.1449075497.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-<script type="text/javascript" src="http://static.c-span.org/assets/javascript/libs/jquery-1.10.2.1420815500.js"></script>
-<link rel="stylesheet" type="text/css" href="http://static.c-span.org/assets/stylesheets/compile-static.1434979823.css">
-	<!--<script type="text/javascript" src="http://static.c-span.org/assets/javascript/libs/hisrc.1413556769.js"></script>-->
+<script type="text/javascript" src="http://static.c-span.org/assets/javascript/libs/jquery-1.10.2.1449075523.js"></script>
+<link rel="stylesheet" type="text/css" href="http://static.c-span.org/assets/stylesheets/compile-static.1449075266.css">
+	<!--<script type="text/javascript" src="http://static.c-span.org/assets/javascript/libs/hisrc.1449075484.js"></script>-->
 	<!--<script type="text/javascript" src="http://static.c-span.org/assets/javascript/libs/breakpoint.1.js"></script>-->
 	<!--<script type="text/javascript">
 		$(document).ready(function(){
@@ -41,7 +41,7 @@ Privacy | C-SPAN.org</title>
 	</style>
 
 	<!--<link rel="stylesheet" type="text/css" href="http://static.c-span.org/assets/stylesheets/compile-changes.1413556689.css" />-->
-	<link rel="stylesheet" type="text/css" href="http://static.c-span.org/assets/stylesheets/jquery-ui.1434979952.css"></head>
+	<link rel="stylesheet" type="text/css" href="http://static.c-span.org/assets/stylesheets/jquery-ui.1449075585.css"></head>
 <body class="about privacy">
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -148,8 +148,7 @@ Privacy | C-SPAN.org</title>
 				<nav class="main" role="navigation">
 					<a id="mob_nav_hb"></a>
 					<ul id="main-nav-dropdown">
-						<li class="schedule"><a href="http://www.c-span.org/schedule/">Schedule</a></li>
-<li class="series has-subnav">
+<li class="schedule"><a href="http://www.c-span.org/schedule/">Schedule</a></li><li class="series has-subnav">
 <a href="#">
 Series <i class="icon-chevron-down"></i><i class="icon-chevron-up"></i>
 </a>
@@ -192,6 +191,14 @@ The Communicators</span>
 <span class="title">
 First Ladies&nbsp;<i class="icon-new-tab"></i>
 </span>
+</a>
+</li>
+<li>
+<a href="http://www.c-span.org/landmarkcases">
+<span class="title">
+Landmark Cases&nbsp;<i class="icon-new-tab"></i>
+</span>
+<span class="time">Mondays on C-SPAN at 9PM ET</span>
 </a>
 </li>
 <li>
@@ -358,7 +365,7 @@ Washington Journal</span>
 									$('#zipcode-check').html("CHECKING").attr("disabled", true);
 									$.ajax({
 										type: "POST",
-										url: "http://" + location.hostname + "/common/services/getChannel.php",
+										url: "http://my.c-span.org/common/services/getChannel.php",
 										data: {zipcode: zip}
 									}).done(function(data) {
 										if (data != "ERROR")
@@ -468,10 +475,10 @@ Washington Journal</span>
 											$('nav.channel-finder div').append("<span class='title'>Channel Finder</span>");
 											$('nav.channel-finder div').append("<span class='subtitle'>Request C-SPAN From Your Provider</span>");
 											$('nav.channel-finder div').append("<form id='request-cspan' onsubmit='event.preventDefault(); submitRequest();'></form>");
-											$('nav.channel-finder div form').append("<label for='firstName'><em>*</em> First Name:</label><input type='text' name='firstName' required>");
-											$('nav.channel-finder div form').append("<label for='lastName'><em>*</em> Last Name:</label><input type='text' name='lastName' required>");
-											$('nav.channel-finder div form').append("<label for='emailAddress'><em>*</em> Email Address:</label><input type='text' name='emailAddress' required>");
-											$('nav.channel-finder div form').append("<label for='message'>Message:</label><textarea cols='20' rows='5' name='message'>");
+											$('nav.channel-finder div form').append("<div><label for='firstName'><em>*</em> First Name:</label><input type='text' name='firstName' required></div>");
+											$('nav.channel-finder div form').append("<div><label for='lastName'><em>*</em> Last Name:</label><input type='text' name='lastName' required></div>");
+											$('nav.channel-finder div form').append("<div><label for='emailAddress'><em>*</em> Email Address:</label><input type='text' name='emailAddress' required></div>");
+											$('nav.channel-finder div form').append("<div><label for='message'>Message:</label><textarea cols='20' rows='5' name='message'></textarea></div>");
 											$('nav.channel-finder div form').append("<p><em>*</em> Denotes a required field</p><input type='submit' class='submit' value='Submit'>")
 										});
 									}
@@ -490,7 +497,7 @@ Washington Journal</span>
 							if (validateEmail(email)) {
 								$.ajax({
 									type: "POST",
-									url: "http://" + location.hostname + "/common/services/getChannel.php",
+									url: "http://my.c-span.org/common/services/getChannel.php",
 									data: {userid: userid, firstname: firstname, lastname: lastname, email: email, provider: window.selectedprovider, zip: window.zip, message: message}
 								}).done(function(data){
 									if (data == '{"STATUS":"SUCCESS"}')
@@ -534,13 +541,13 @@ Washington Journal</span>
 	<!-- Keep the CDN call -->
 	
 	
-	<!--<script type="text/javascript" src="http://static.c-span.org/assets/javascript/libs/jquery-ui.1420815515.js"></script>-->
-	<!--<script type="text/javascript" src="http://static.c-span.org/assets/player/player.1427210429.js"></script>
-	<script type="text/javascript" src="http://static.c-span.org/assets/player/swfobject-2.2.js"></script>-->
+	<!--<script type="text/javascript" src="http://static.c-span.org/assets/javascript/libs/jquery-ui.1449075541.js"></script>-->
+	<!--<script type="text/javascript" src="http://static.c-span.org/assets/player/player.1449075558.js"></script>
+	<script type="text/javascript" src="http://static.c-span.org/assets/player/swfobject-2.2.1449075564.js"></script>-->
 	
-	<!--[if lte IE 9]>	<script type="text/javascript" src="http://static.c-span.org/assets/javascript/libs/jqueryxdr.js"></script> <![endif]-->
-<script type="text/javascript" src="http://static.c-span.org/assets/javascript/script-static-ck.1434979847.js"></script>
-	<!--<script type="text/javascript" src="http://static.c-span.org/assets/javascript/libs/hisrc.1413556769.js"></script>-->
+	<!--[if lte IE 9]>	<script type="text/javascript" src="http://static.c-span.org/assets/javascript/libs/jqueryxdr.1449075591.js"></script> <![endif]-->
+<script type="text/javascript" src="http://static.c-span.org/assets/javascript/script-static-ck.1449075314.js"></script>
+	<!--<script type="text/javascript" src="http://static.c-span.org/assets/javascript/libs/hisrc.1449075484.js"></script>-->
 	<!--<script type="text/javascript" src="http://static.c-span.org/assets/javascript/libs/breakpoint.1.js"></script>-->
 	<script type="text/javascript">
 		$(document).ready(function(){
