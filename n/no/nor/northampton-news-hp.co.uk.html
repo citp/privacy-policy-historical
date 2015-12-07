@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the northampton-news-hp.co.uk privacy policy that was archived on 2015-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630220325id_/http%3A//www.northampton-news-hp.co.uk/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the northampton-news-hp.co.uk privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207031352id_/http%3A//www.northampton-news-hp.co.uk/privacypolicy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class=""><!--<![endif]--><!-- 3.0-LOCALWORLD-PROD-VERSION-56, build 918 (Fri Jun 19 2015 14:08), node tomcat6:ip-172-29-12-200, env aws-prod --><head><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/5371.js?439022" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-54FG"></script><script src="//a1.vdna-assets.com/analytics.js" async=""></script>
+<!DOCTYPE html><html lang="en" class=""><!--<![endif]--><!-- 3.0-LOCALWORLD-PROD-VERSION-66, build 1027 (Mon Nov 30 2015 07:26), node tomcat6:ip-172-29-13-11, env aws-prod --><head><script async="" src="https://cdn.appdynamics.com/adrum-ext.7ee08ffc80eb95c73b3f07237ad42c17.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-54FG"></script><script src="//a1.vdna-assets.com/analytics.js" async=""></script>
     <!-- Email hash method -->
     <title>
 		
@@ -22,6 +22,9 @@
 		<meta property="twitter:site" content="NorthamptonUK">
 	<link rel="shortcut icon" href="/images/thisis/favicon.ico">
     <link rel="apple-touch-icon" href="/images/thisis/apple-touch-icon.png">
+    <link href="http://fonts.googleapis.com/css?family=Roboto:400,400italic,700,500" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet" type="text/css">
 
     <link rel="stylesheet" type="text/css" href="/libraries/bootstrap-3.1.1/css/bootstrap.min.css">
 	
@@ -39,7 +42,7 @@
 
 <!--   <link rel="stylesheet" type="text/css" href="https://api.tiles.mapbox.com/mapbox.js/v2.1.5/mapbox.css" /> -->
 
-<link rel="stylesheet" type="text/css" media="screen" href="/css/newspaperV2-minified-918.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/newspaperV2-minified-1027.css">
 		<link rel="stylesheet" type="text/css" href="/dyn_css/colours.css">
 
 
@@ -90,7 +93,19 @@
     
 		var adServer = "http://ad.uk.doubleclick.net";
 
-    </script>
+    
+    
+   // LW-4440 - Referrer URL
+   var siteReferrerDomain="";
+   if(document.referrer != "")
+	   {   
+	   var URL =document.referrer;
+	   var a = document.createElement('a');
+	   a.href=URL;
+	   siteReferrerDomain = a.hostname;	   
+	   }
+   
+</script>
 
 <script type="text/javascript" src="http://c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
 	<script type="text/javascript">
@@ -104,7 +119,7 @@
             var gs_channels="DEFAULT";
             var gsurl=window.location!=window.top.location?document.referrer:window.location;
             document.write('<scr'+'ipt type="text/javascript" src="http://localworld.grapeshot.co.uk/channels.cgi?url='+encodeURIComponent(gsurl)+'"></scr'+'ipt>');
-            </script><script type="text/javascript" src="http://localworld.grapeshot.co.uk/channels.cgi?url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150630220325id_%2Fhttp%253A%2F%2Fwww.northampton-news-hp.co.uk%2Fprivacypolicy.html"></script>
+            </script><script type="text/javascript" src="http://localworld.grapeshot.co.uk/channels.cgi?url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20151207031352id_%2Fhttp%253A%2F%2Fwww.northampton-news-hp.co.uk%2Fprivacypolicy.html"></script>
     <script src="http://tags.crwdcntrl.net/c/991/cc.js?ns=_cc991" id="LOTCC_991"></script>
     <script>_cc991.bcp();</script>
   	<!-- Start: GPT Async -->
@@ -182,7 +197,7 @@
 					}
 				}
 
-				var weatherAd ="clear";
+				var weatherAd ="cloudy_with_outbreaks_of_rain";
 				var weatherBasicAd ="average";
 			</script>
 		<!-- End of Lotame Script --><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
@@ -197,7 +212,7 @@
 </script>
 <script src="https://apis.google.com/js/client:plusone.js" async="" defer=""></script>
 
-<script type="text/javascript" src="/js/newspaperV2-minified-918.js"></script>
+<script type="text/javascript" src="/js/newspaperV2-minified-1027.js"></script>
 		<script type="text/javascript" src="/js/newspaperV2/lp-cookie-message.js"></script>
 <script src="/libraries/bootstrap-3.1.1/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="/js/newspaperV2/jquery-scrolltofixed-min.js"></script>
@@ -249,13 +264,69 @@
 <script type="text/javascript">
       			var slots = [];
       			
-        		slots[slots.length]={type:"overlay",tile:"1",adSlotCssName:"GPTmargin"};
-      			
-          		    slots[slots.length] = {type:"leaderboard",tile:"2", position:"top",adSlotCssName:"GPTmargin"};
-       	       
+	    				slots[slots.length]={type:"overlay",tile:"1",adSlotCssName:"GPTmargin"};
+	          		    slots[slots.length] = {type:"leaderboard",tile:"2", position:"top",adSlotCssName:"GPTmargin"};
+	        		
       			LW.GPT.Ads.pushAdSlots(slots);
     		</script>   
     	
+<script type="text/javascript">
+//<![CDATA[
+window['adrum-start-time'] = new Date().getTime();
+;/* Version 7ee08ffc80eb95c73b3f07237ad42c17 v:4.1.1.2, c:316af427346ec10d2a1232459e9bf7e620c4b693, b:10064 n:52-4.1.1.next-build */(function(){(function(){if(!window.ADRUM&&!0!==window["adrum-disable"]){var g=window.ADRUM={};window["adrum-start-time"]=window["adrum-start-time"]||(new Date).getTime();(function(a){(function(a){a.Tb=function(){for(var a=[],b=0;b<arguments.length;b++)a[b-0]=arguments[b];for(b=0;b<a.length;b++){var d=a[b];d&&d.w()}}})(a.monitor||(a.monitor={}))})(g||(g={}));(function(a){a=a.conf||(a.conf={});a.beaconUrlHttp="http://col.eum-appdynamics.com";a.beaconUrlHttps="https://col.eum-appdynamics.com";a.corsEndpointPath="/eumcollector/beacons/browser/v1";
+a.imageEndpointPath="/eumcollector/adrum.gif?";a.appKey=window["adrum-app-key"]||"AD-AAB-AAA-CUN";var c="https:"===document.location.protocol;a.adrumExtUrl=(c?"https://cdn.appdynamics.com":"http://cdn.appdynamics.com")+"/adrum-ext.7ee08ffc80eb95c73b3f07237ad42c17.js";a.agentVer="4.1.1.2";a.sendImageBeacon="false";if(window["adrum-geo-resolver-url"]){var e=window["adrum-geo-resolver-url"],b=e.indexOf("://");-1!=b&&(e=e.substring(b+3));e=(c?"https://":"http://")+e}else e=c?"":
+"";a.geoResolverUrl=e;a.useStrictDomainCookies=!0===window["adrum-use-strict-domain-cookies"];a.userConf=window["adrum-config"];a.Ec=10})(g||(g={}));(function(a){(function(c){c.Sb=function(a){setTimeout(a,0)};c.addEventListener=function(e,b,d){function f(){try{return d.apply(this,Array.prototype.slice.call(arguments))}catch(n){a.exception(n,"M1",b,e,n)}}a.isDebug&&a.log("M0",b,e);e.addEventListener?e.addEventListener(b,f,!1):e.attachEvent&&e.attachEvent("on"+b,f)};c.loadScriptAsync=
+function(e){var b=document.createElement("script");b.async=!0;b.src=e;var d=document.getElementsByTagName("script")[0];d?(d.parentNode.insertBefore(b,d),a.log("M2",e)):a.log("M3",e)};c.ne=function(a,b){for(var d in b){var f=b[d];b.hasOwnProperty(d)&&f&&(a[d]=f)}};c.generateGUID="undefined"!==typeof window.crypto&&"undefined"!==typeof window.crypto.getRandomValues?function(){function a(b){for(b=b.toString(16);4>b.length;)b="0"+b;return b}var b=new Uint16Array(8);window.crypto.getRandomValues(b);return a(b[0])+
+a(b[1])+"_"+a(b[2])+"_"+a(b[3])+"_"+a(b[4])+"_"+a(b[5])+a(b[6])+a(b[7])}:function(){return"xxxxxxxx_xxxx_4xxx_yxxx_xxxxxxxxxxxx".replace(/[xy]/g,function(a){var b=16*Math.random()|0;return("x"==a?b:b&3|8).toString(16)})};c.parseURI=function(a){return(a=String(a).replace(/^\s+|\s+$/g,"").match(/^([^:\/?#]+:)?(\/\/(?:[^:@]*(?::[^:@]*)?@)?(([^:\/?#]*)(?::(\d*))?))?([^?#]*)(\?[^#]*)?(#[\s\S]*)?/))?{href:a[0]||"",protocol:a[1]||"",C:a[2]||"",host:a[3]||"",hostname:a[4]||"",port:a[5]||"",pathname:a[6]||
+"",search:a[7]||"",hash:a[8]||""}:null};c.absolutizeURI=function(a,b){function d(a){var b=[];a.replace(/^(\.\.?(\/|$))+/,"").replace(/\/(\.(\/|$))+/g,"/").replace(/\/\.\.$/,"/../").replace(/\/?[^\/]*/g,function(a){"/.."===a?b.pop():b.push(a)});return b.join("").replace(/^\//,"/"===a.charAt(0)?"/":"")}b=c.parseURI(b||"");a=c.parseURI(a||"");return b&&a?(b.protocol||a.protocol)+(b.protocol||b.C?b.C:a.C)+d(b.protocol||b.C||"/"===b.pathname.charAt(0)?b.pathname:b.pathname?(a.C&&!a.pathname?"/":"")+a.pathname.slice(0,
+a.pathname.lastIndexOf("/")+1)+b.pathname:a.pathname)+(b.protocol||b.C||b.pathname?b.search:b.search||a.search)+b.hash:null};c.getFullyQualifiedUrl=function(e){try{return c.absolutizeURI(document.location.href,e)}catch(b){return a.exception(b,"M4",e,document.location.href),e}};c.tryExtractingErrorStack=function(a){return a?(a=a.stack)&&"string"===typeof a?a:null:null}})(a.utils||(a.utils={}))})(g||(g={}));(function(a){function c(b,d,f,e){b=a.conf.beaconUrlHttps+"/eumcollector/error.gif?version=1&appKey="+
+f+"&msg="+encodeURIComponent(b.substring(0,500));e&&(b+="&stack=",b+=encodeURIComponent(e.substring(0,1500-b.length)));return b}function e(b,d){2<=f||((new Image).src=c(b,0,a.conf.appKey,d),f++)}function b(a){return 0<=a.location.search.indexOf("ADRUM_debug=true")||0<=a.cookie.search(/(^|;)\s*ADRUM_debug=true/)}a.iDR=b;a.isDebug=b(document);var d=[];a.log=function(b){for(var f=1;f<arguments.length;f++);a.isDebug&&d.push(Array.prototype.slice.call(arguments).join(" | "))};a.error=function(b){for(var d=
+1;d<arguments.length;d++);d=Array.prototype.slice.call(arguments).join(" | ");a.log(d);e(d,null)};a.exception=function(){for(var b=[],d=0;d<arguments.length;d++)b[d-0]=arguments[d];1>arguments.length||(b=Array.prototype.slice.call(arguments),d=a.utils.tryExtractingErrorStack(b[0]),b=b.slice(1).join(" | "),a.log(b),e(b,d))};a.assert=function(b,d){b||a.error("Assert fail: "+d)};a.dumpLog=a.isDebug?function(){for(var a="",b=0;b<d.length;b++)a+=d[b].replace(RegExp("<br/>","g"),"\n\t")+"\n";return a}:
+function(){};a.cIEBU=c;var f=0;a.log("M5")})(g||(g={}));(function(a){var c=function(){function a(b){this.max=b;this.pa=0}a.prototype.Vd=function(){this.V()||this.pa++};a.prototype.V=function(){return this.pa>=this.max};a.prototype.reset=function(){this.pa=0};return a}(),e=function(){function b(){this.Q=[];this.Fa=new c(b.Sc);this.Aa=new c(b.Hc)}b.prototype.submit=function(b){this.push(b)&&a.initEXTDone&&this.processQ()};b.prototype.processQ=function(){for(var b=this.xd(),f=0;f<b.length;f++){var n=
+b[f];"function"===typeof a.commands[n[0]]?(a.isDebug&&a.log("M6",n[0],n.slice(1).join(", ")),a.commands[n[0]].apply(a,n.slice(1))):a.error("M7",n[0])}};b.prototype.ee=function(a){return"reportXhr"===a||"reportPageError"===a};b.prototype.push=function(b){var f=b[0],n=this.ee(f),l=n?this.Fa:this.Aa;if(l.V())return a.log("M8",n?"spontaneous":"non spontaneous",f),!1;this.Q.push(b);l.Vd();return!0};b.prototype.xd=function(){var a=this.Q;this.reset();return a};b.prototype.size=function(){return this.Q.length};
+b.prototype.reset=function(){this.Q=[];this.Fa.reset();this.Aa.reset()};b.prototype.isSpontaneousQueueDead=function(){return this.Fa.V()};b.prototype.isNonSpontaneousQueueDead=function(){return this.Aa.V()};b.Sc=100;b.Hc=100;return b}();a.gc=e})(g||(g={}));(function(a){a.q=new a.gc;a.command=function(c){for(var e=1;e<arguments.length;e++);a.isDebug&&a.log("M9",c,Array.prototype.slice.call(arguments).slice(1).join(", "));a.q.submit(Array.prototype.slice.call(arguments))}})(g||(g={}));(function(a){(function(c){window.ADRUM.aop=
+c;c.support=function(a){return!a||"apply"in a};c.around=function(e,b,d,f){a.assert(c.support(e),"aop.around called on a function which does not support interception");e=e||function(){};return function(){a.isDebug&&a.log("M10",f,Array.prototype.slice.call(arguments).join(", "));var n=Array.prototype.slice.call(arguments),l;try{b&&(l=b.apply(this,n))}catch(c){a.exception(c,"M11",f,c)}a.assert(!l||"[object Array]"===Object.prototype.toString.call(l));var p=void 0;try{p=e.apply(this,l||n)}finally{try{d&&
+d.apply(this,n)}catch(g){a.exception(g,"M12",f,g)}}return p}};c.before=function(a,b){return c.around(a,b)};c.after=function(a,b){return c.around(a,null,b)}})(a.aop||(a.aop={}))})(g||(g={}));(function(a){(function(c){var e=function(){function b(){}b.prototype.w=function(){a.aop.support(window.onerror)?(window.onerror=a.aop.around(window.onerror,function(d,f,n,l,e){b.xa||(b.errorsSent>=a.conf.Ec?a.log("M13"):(l=a.utils.tryExtractingErrorStack(e),a.command("reportPageError",d,f,n,l),b.errorsSent++,b.xa=
+!0))},function(){b.xa=!1},"onerror"),a.log("M14")):a.log("M15")};b.xa=!1;b.errorsSent=0;return b}();c.ErrorMonitor=e;c.Dd=new c.ErrorMonitor})(a.monitor||(a.monitor={}))})(g||(g={}));(function(a){var c=function(){function e(){this.Ha=[];this.X(e.la,0)}e.prototype.se=function(a){this.X(e.bb,a)};e.prototype.ue=function(a){this.X(e.fb,a)};e.prototype.te=function(a){this.X(e.cb,a)};e.prototype.X=function(a,d){this.Ha.push({re:(new Date).getTime(),qe:d,l:a});this.td=a};e.prototype.getPhaseName=function(){return this.td};
+e.prototype.getPhaseID=function(a){for(var d=0;d<e.eb.length;d++)if(e.eb[d]===a)return d;return null};e.prototype.getPhaseCallbackTime=function(a){for(var d=this.Ha,f=0;f<d.length;f++)if(d[f].l===a)return d[f].re;return null};e.prototype.findPhaseAtNominalTime=function(b){a.assert(0<=b);for(var d=this.Ha,f=d.length-1;0<=f;f--)if(b>=d[f].qe)return d[f].l;a.error("M16",b,a.utils.yd(d));return e.la};e.la="AFTER_FIRST_BYTE";e.bb="AFTER_DOM_INTERACTIVE";e.fb="AT_ONLOAD";e.cb="AFTER_ONLOAD";e.eb=[e.la,
+e.bb,e.fb,e.cb];return e}();a.ff=c;a.lifecycle=new c;a.lifecycle=a.lifecycle})(g||(g={}));(function(a){(function(c){var e=function(){function b(){}b.prototype.w=function(){b.Me();b.Le()};b.Le=function(){a.utils.addEventListener(window,"load",b.Y);a.utils.addEventListener(window,"load",b.xe)};b.xe=function(b){a.lifecycle.ue(b&&b.timeStamp);a.utils.Sb(function(){var b=(new Date).getTime();a.lifecycle.te(b);a.command("mark","onload",b);c.$a.b&&(c.perfMonitor.rd(),c.perfMonitor.hb());a.command("reportOnload");
+a.utils.loadScriptAsync(a.conf.adrumExtUrl)});a.log("M17")};b.Me=function(){if(document.addEventListener)document.addEventListener("DOMContentLoaded",b.M,!1);else{document.attachEvent("onreadystatechange",b.M);var d=null;try{d=null===window.frameElement?document.documentElement:null}catch(f){}null!=d&&d.doScroll&&function l(){if(!b.isReady){try{d.doScroll("left")}catch(a){setTimeout(l,10);return}b.Y()}}()}a.log("M18")};b.Y=function(d){b.Gb||(a.lifecycle.se(d&&d.timeStamp),a.command("mark","onready",
+(new Date).getTime()),b.Gb=!0)};b.M=function(a){document.addEventListener?(document.removeEventListener("DOMContentLoaded",b.M,!1),b.Y(a)):"complete"===document.readyState&&(document.detachEvent("onreadystatechange",b.M),b.Y(a))};b.isReady=!1;b.Gb=!1;return b}();c.hc=e;c.wd=new c.hc})(a.monitor||(a.monitor={}))})(g||(g={}));(function(a){(function(c){var e=function(){function b(){this.navTiming=this.resTiming=null}b.prototype.w=function(){b.b=window.performance||window.mozPerformance||window.msPerformance||
+window.webkitPerformance};b.prototype.rd=function(){var d=b.b.timing;if(d)if(d.navigationStart&&d.navigationStart<=d.loadEventEnd){var f={},n;for(n in d){var l=d[n];"number"===typeof l&&(f[n]=l)}this.navTiming=f}else a.log("M20");else a.log("M19")};b.prototype.hb=function(){var d=b.b;d.getEntriesByType&&(d=d.getEntriesByType("resource"))&&d.length&&0<d.length&&d.unshift&&(this.resTiming=d);this.resTiming||a.log("M21")};b.b=null;return b}();c.$a=e;c.perfMonitor=new c.$a})(a.monitor||(a.monitor={}))})(g||
+(g={}));(function(a){(function(c){var e=function(){function b(){this.conf=null;this.Ga=!1;this.status={};if(!0===window["adrum-xhr-disable"])a.log("M22");else if(window.XMLHttpRequest){this.conf={exclude:{urls:[{pattern:a.conf.beaconUrlHttp+a.conf.corsEndpointPath,type:"regex"},{pattern:a.conf.beaconUrlHttps+a.conf.corsEndpointPath,type:"regex"}]}};this.ib(this.conf.exclude.urls);this.conf.include=a.conf.userConf&&a.conf.userConf.xhr&&a.conf.userConf.xhr.include;var b=this.conf.include&&this.conf.include.urls;
+b&&this.ib(b);(this.d=window.XMLHttpRequest.prototype)?"open"in this.d&&"send"in this.d?(this.Ga=a.aop.support(this.d.open)&&a.aop.support(this.d.send))||a.log("M26"):a.log("M25"):a.log("M24")}else a.log("M23")}b.prototype.ib=function(b){for(var f=0;f<b.length;f++){var n=b[f];if("regex"!==n.type||"string"!==typeof n.pattern)a.exception("only regex pattern type is supported in the xhr filter, pattern should be a string");else try{n.regex=new RegExp(n.pattern)}catch(l){a.exception(l,"Parse regex pattern failed.")}}};
+b.prototype.set=function(a,b){this.status[a]=b};b.prototype.w=function(){if(this.Ga){a.log("M27");a.xhrConstructor=window.XMLHttpRequest;a.xhrOpen=this.xhrOpen=this.d.open;a.xhrSend=this.xhrSend=this.d.send;var d=this;this.d.open=a.aop.around(this.d.open,function(){var f=1<=arguments.length?String(arguments[0]):"",n=2<=arguments.length?String(arguments[1]):"",l=d.conf.exclude.urls;b.Db(n,d.conf&&d.conf.include&&d.conf.include.urls)&&!b.Db(n,l)&&(this._adrumXhrData={method:f,url:n,sendTime:null,firstByteTime:null,
+respAvailTime:null,respProcTime:null,parentPhase:null},a.utils.ne(this._adrumXhrData,d.status))},null,"XHR.open");this.d.send=a.aop.around(this.d.send,function(){var f=this,n=f._adrumXhrData;if(n){var l=(new Date).getTime();a.assert(null===n.sendTime,"M28");n.sendTime=n.sendTime||l;n.parentPhase=a.lifecycle.getPhaseName();b.ce(n.url)?f.setRequestHeader("ADRUM","isAjax:true"):a.log("M29",document.location.href,n.url);var e=0,c=function(){if(4==f.readyState)a.log("M30"),d.ga(f);else{var b=null;try{b=
+f.onreadystatechange}catch(n){a.log("M31",n);d.ga(f);return}e++;b?a.aop.support(b)?(f.onreadystatechange=d.jb(b,f,"XHR.onReadyStateChange"),a.log("M32",e)):(a.log("M33"),d.ga(f)):5>e?a.utils.Sb(c):(a.log("M34"),d.ga(f))}};c()}},null,"XHR.send");"addEventListener"in this.d&&"removeEventListener"in this.d&&a.aop.support(this.d.addEventListener)&&a.aop.support(this.d.removeEventListener)?(this.d.addEventListener=a.aop.around(this.d.addEventListener,this.sd(),null,"XHR.addEventListener"),this.d.removeEventListener=
+a.aop.around(this.d.removeEventListener,function(b,d){if(this._adrumXhrData){var l=Array.prototype.slice.call(arguments);d.__adrumInterceptor?(l[1]=d.__adrumInterceptor,a.log("M35")):a.log("M36");return l}},null,"XHR.removeEventListener")):a.log("M37");a.log("M38")}};b.me=function(a,b){for(var n=!1,l=0;l<b.length;l++){var e=b[l];if(e.regex&&e.regex.test(a)){n=!0;break}}return n};b.Db=function(a,f){var n=!0;a&&f&&(n=b.me(a,f));return n};b.ce=function(a){var b=document.createElement("a");b.href=a;a=
+document.location;return":"===b.protocol&&""===b.hostname&&""===b.port||b.protocol===a.protocol&&b.hostname===a.hostname&&b.port===a.port};b.vb=function(b){var f=b._adrumXhrData;if(f){var n=(new Date).getTime();2==b.readyState?f.firstByteTime=f.firstByteTime||n:4==b.readyState&&(a.assert(null===f.respAvailTime,"M39"),f.respAvailTime=f.respAvailTime||n,f.firstByteTime=f.firstByteTime||n)}};b.prototype.jb=function(d,f,n){return b.df(d,function(){b.vb(this)},function(){var b=f._adrumXhrData;if(b&&4==
+f.readyState){var d=(new Date).getTime();a.assert(null===b.respProcTime,"M40");b.respProcTime=b.respProcTime||d;a.command("reportXhr",f,b);delete f._adrumXhrData}},n)};b.prototype.ga=function(d){if(d._adrumXhrData){var f=(new Date).getTime()+3E4,n=function(){b.vb(d);var l=d._adrumXhrData;if(l){var e=(new Date).getTime();4==d.readyState?(a.assert(null===l.respProcTime,"M41"),l.respProcTime=l.respProcTime||e,a.log("M42"),a.command("reportXhr",d,l),delete d._adrumXhrData):e<f?setTimeout(n,50):(delete d._adrumXhrData,
+a.log("M43"))}};n()}};b.df=function(b,f,n,l){var e=b;b&&"object"===typeof b&&"toString"in b&&"[xpconnect wrapped nsIDOMEventListener]"===b.toString()&&"handleEvent"in b&&(e=function(){b.handleEvent.apply(this,Array.prototype.slice.call(arguments))});return a.aop.around(e,f,n,l)};b.prototype.sd=function(){for(var b=0;b<arguments.length;b++);var f=this;return function(b,d){if(("load"===b||"error"===b)&&d&&this._adrumXhrData){var e;e=d;if(e.__adrumInterceptor)e=e.__adrumInterceptor;else if(a.aop.support(e)){var c=
+f.jb(e,this,"XHR.invokeEventListener");e=e.__adrumInterceptor=c}else e=null;if(e)return c=Array.prototype.slice.call(arguments),c[1]=e,a.log("M44"),c;a.log("M45",b,d)}}};return b}();c.hd=e;c.A=new c.hd})(a.monitor||(a.monitor={}))})(g||(g={}));(function(a){(function(c){function e(a,b){var d=[],e=/^\s*(ADRUM_BT\w*)=(.*)\s*$/i.exec(a);if(e){var c=e[1],e=e[2].replace(/^"|"$/g,""),e=decodeURIComponent(e).split("|"),g=e[0].split(":");if("R"===g[0]&&Number(g[1])===b)for(f(c),c=1;c<e.length;c++)d.push(e[c])}return d}
+function b(a,b){var d=/^\s*(ADRUM_(\d+)_(\d+)_(\d+))=(.*)\s*$/i.exec(a);if(d){var e=d[1],c=d[4],g=d[5];if(Number(d[3])===b)return f(e),{index:Number(c),value:g}}return null}function d(b){var d=/^\s*ADRUM=s=([\d]+)&r=(.*)\s*/.exec(b);if(d){a.log("M48",b);if(3===d.length)return f("ADRUM"),{startTime:Number(d[1]),startPage:d[2]};a.error("M49",b);return null}}function f(b){a.log("M47",b);var d=new Date;d.setTime(d.getTime()-1E3);document.cookie=b+"=;Expires="+d.toUTCString()}c.startTimeCookie=null;c.cookieMetadataChunks=
+null;c.kb=function(f,l){a.log("M46");for(var g=l?l.length:0,p=[],h=f.split(";"),k=0;k<h.length;k++){var q=h[k],u=b(q,g);u?p.push(u):(q=d(q),null!=q&&(c.startTimeCookie=q))}Array.prototype.sort.call(p,function(a,b){return a.index-b.index});q=[];for(k=0;k<p.length;k++)q.push(p[k].value);for(k=0;k<h.length;k++)(p=e(h[k],g))&&0<p.length&&(q=q.concat(p));c.cookieMetadataChunks=q};a.correlation.eck=c.kb})(a.correlation||(a.correlation={}))})(g||(g={}));(function(a){"APP_KEY_NOT_SET"===a.conf.appKey&&"undefined"!==
+typeof console&&"undefined"!==typeof console.log&&console.log("AppDynamics EUM cloud application key missing. Please specify window['adrum-app-key']");a.correlation.kb(document.cookie,document.referrer);a.command("mark","firstbyte",window["adrum-start-time"]);a.monitor.Tb(a.monitor.Dd,a.monitor.wd,a.monitor.perfMonitor,a.monitor.A)})(g||(g={}));(function(a){var c=function(){function a(){this.k={}}a.prototype.now=function(){return e.now()};a.prototype.mark=function(a){e.mark.call(this,a)};a.prototype.measure=
+function(a,b,n){e.measure.apply(this,arguments)};a.prototype.getEntryByName=function(a){return e.getEntryByName.call(this,a)};return a}();a.Xc=c;var e;(function(b){b.now;b.mark;b.measure;b.getEntryByName;var d=f&&f.timing&&f.timing.navigationStart?f.timing.navigationStart:window["adrum-start-time"],f=window.performance;b.now=f&&f.now?function(){return f.now()}:f&&f.timing&&f.timing.navigationStart?function(){return(new Date).getTime()-f.timing.navigationStart}:function(){return(new Date).getTime()-
+d};b.mark=function(a){this.k[a]={name:a,entryType:"mark",startTime:b.now(),duration:0}};b.measure=function(f,e,c){this.k.hasOwnProperty(e)&&this.k.hasOwnProperty(c)?this.k[f]={name:f,entryType:"measure",startTime:e?this.k[e].startTime:d,duration:(c?this.k[c].startTime:b.now())-(e?this.k[e].startTime:0)}:a.error("M50"+(this.k.hasOwnProperty(e)?c:e)+" does not exist. ")};b.getEntryByName=function(a){return this.k[a]}})(e||(e={}))})(g||(g={}));(function(a){(function(c){var e=function(){function b(b,
+f){this.ba=this.ya=null;this.qa=0;this.I={};this.l="";this.b=new a.Xc;this.Cb=!1;this.ba=b;this.name=f;this.Ud=a.utils.generateGUID()}b.prototype.ud=function(){this.qa++};b.prototype.he=function(){this.b.mark("locationChangeStart");this.na("locationChanging");this.qa=0};b.prototype.ie=function(){this.b.mark("locationChangeSuccess");this.oa();this.ya=location.href};b.prototype.Qe=function(){this.b.mark("stateChangeStart");this.na("stateChanging")};b.prototype.Re=function(){this.b.mark("stateChangeSuccess");
+this.oa()};b.prototype.Ee=function(){this.b.mark("routeChangeStart");this.na("routeChanging")};b.prototype.Fe=function(){this.b.mark("routeChangeSuccess");this.oa()};b.prototype.bf=function(){this.b.mark("viewContentLoaded");this.I=this.pd();this.ya=location.href};b.prototype.Kb=function(){this.b.mark("outstandingRequestsComplete")};b.prototype.na=function(a){this.l=a};b.prototype.oa=function(){this.l=null};b.prototype.pd=function(){var a={ea:0},f=document.querySelectorAll("ng-view, [ng-view], .ng-view, [ui-view]");
+if(f&&0<f.length){var e=0,c;for(c in b.$)for(var g=0;g<f.length;g++){var p=angular.element(f[g]).find(c);if(0<p.length){a[c]=[];for(var h=0;h<p.length;h++){var k=p[h];k[b.$[c].fa]&&a[c].push(k)}e+=a[c].length}}}a.ea=e;return a};b.prototype.qd=function(a){var b=null;if(0<this.I.ea){var e=this.buildResourceTimingInfo();if(e.length===this.I.ea){for(var c=[],g=0;g<e.length;g++)c.push(e[g].responseEnd);e=Math.max.apply(Math,c);a=this.b.getEntryByName(a);c=this.b.getEntryByName("DOM");a&&a.startTime&&c&&
+c.duration&&(b=Math.max(e-a.startTime,c.duration))}}else b=(c=this.b.getEntryByName("DOM"))&&c.duration||null;return b};b.prototype.R=function(a){for(var b={},e=0;e<a.length;e++){var c=a[e];if(this.b.getEntryByName(c[1])&&this.b.getEntryByName(c[2])){this.b.measure(c[0],c[1],c[2]);var g=this.b.getEntryByName(c[0]);b[c[0]]=g&&0<=g.duration&&g.duration||null}}b.PLT=this.qd(a[0][1]);b.PLC=1;b.VDC=this.qa;for(var p in b)b[p]=Math.round(b[p]);return b};b.prototype.getGUID=function(){return this.Ud};b.prototype.buildMetrics=
+function(){return c.cc.Ka?this.R(b.Ze):this.R(b.Ge)};b.prototype.getRouteUrl=function(){return this.ba};b.prototype.getName=function(){return this.name?this.name:this.ba.substring(this.ba.lastIndexOf("/")+1)};b.prototype.getLocationUrl=function(){return this.ya};b.prototype.buildResourceTimingInfo=function(){a.monitor.perfMonitor.hb();var b=this,e=[];0<this.I.ea&&(e=a.monitor.perfMonitor.resTiming.filter(function(a){return b.od(a)}));return e};b.prototype.od=function(a){if(a.initiatorType in b.$){var e=
+b.$[a.initiatorType].fa,c=this.I[a.initiatorType];if(c)for(var g=0;g<c.length;g++){var m=c[g];if(m.tagName.toUpperCase()===a.initiatorType.toUpperCase()&&decodeURIComponent(m[e])===decodeURIComponent(a.name))return!0}}return!1};b.$={img:{fa:"src"},script:{fa:"src"},link:{fa:"href"}};b.Ge=[["DOM","locationChangeStart","outstandingRequestsComplete"],["DDT","routeChangeStart","routeChangeSuccess"],["DRT","routeChangeStart","outstandingRequestsComplete"],["DPT","routeChangeSuccess","outstandingRequestsComplete"]];
+b.Ze=[["DDT","stateChangeStart","stateChangeSuccess"],["DRT","stateChangeStart","stateChangeSuccess"],["DOM","stateChangeStart","viewContentLoaded"],["DPT","stateChangeSuccess","viewContentLoaded"]];return b}();c.NgRouteTracker=e})(a.ng||(a.ng={}))})(g||(g={}));(function(a){(function(c){var e=function(){function b(){this.ready=!1;this.channel=null}b.prototype.Ea=function(a){if(this.ready=a)this.onReady();else this.Ub()};b.prototype.isReady=function(){return this.ready};b.prototype.Ub=function(){var a=
+this;setTimeout(function(){a.Ea(!0)},1E4)};b.prototype.onReady=function(){var b=this;a.command("call",function(){b.channel.onResolverReady()})};b.prototype.init=function(a){this.channel=a};return b}();c.ka=e;a.ng.ka.prototype.init=a.ng.ka.prototype.init})(a.ng||(a.ng={}))})(g||(g={}));(function(a){(function(c){var e=function(){function b(){this.c=new c.NgRouteTracker(document.URL);this.aa=new c.ka}b.prototype.w=function(){var b=this;a.utils.addEventListener(document,"DOMContentLoaded",function(){b.init()})};
+b.prototype.init=function(){if("undefined"!=typeof angular){b.Ka=b.ae();a.command("addResolver",this.aa);this.aa.Ub();var e=this,c=angular.module("ng");c.config(["$provide",function(a){e.Yd(a);e.Xd(a)}]);c.run(["$browser",function(a){b.pe=a}])}};b.ae=function(){try{angular.module("ui.router")}catch(a){return!1}return!0};b.prototype.Xd=function(b){var e=a.aop,c=this;b.decorator("$httpBackend",["$delegate",function(b){return b=e.around(b,function(){if("routeChanging"===c.c.l||"stateChanging"===c.c.l)a.monitor.A.set("parentGUID",
+c.c.getGUID()),a.monitor.A.set("parentType",3),a.monitor.A.set("parentUrl",c.c.getLocationUrl())},function(){if("routeChanging"===c.c.l||"stateChanging"===c.c.l)a.monitor.A.set("parentGUID",null),a.monitor.A.set("parentType",null),a.monitor.A.set("parentUrl",null)})}])};b.prototype.Yd=function(e){var c=a.aop,n=this;e.decorator("$rootScope",["$delegate",function(e){e.$digest=c.after(e.$digest,function(){n.c.ud()});e.$on("$locationChangeStart",function(e,c){a.log("M51");b.Ka||n.Vb(c);n.c.he()});e.$on("$locationChangeSuccess",
+function(){a.log("M52");n.c.ie()});e.$on("$routeChangeStart",function(){a.log("M53");n.c.Ee()});e.$on("$routeChangeSuccess",function(){a.log("M54");n.c.Fe();n.Jb(function(){n.c.Kb()})});e.$on("$stateChangeStart",function(b,e){a.log("M55");n.Vb(e.url,e.name);n.c.Qe()});e.$on("$stateChangeSuccess",function(){a.log("M56");n.c.Re();n.Jb(function(){n.c.Kb()})});e.$on("$viewContentLoaded",function(){a.log("M57");n.c.bf();if(!n.c.Cb){var e=n.c;setTimeout(function(){n.Cd(e)},b.bd);e.Cb=!0}});return e}])};
+b.prototype.Vb=function(a,b){this.aa.Ea(!1);this.c=new c.NgRouteTracker(a,b)};b.prototype.Cd=function(a){b.Be(a);this.aa.Ea(!0)};b.prototype.Jb=function(a){var e=b.pe;e&&e.notifyWhenNoOutstandingRequests&&e.notifyWhenNoOutstandingRequests(a)};b.Be=function(b){a.command("reportEvent","VPLoad",b)};b.bd=5E3;b.Ka=!1;return b}();c.cc=e;c.ngMonitor=new e})(a.ng||(a.ng={}))})(g||(g={}));(function(a){var c=a.ng||(a.ng={});a.conf.userConf&&a.conf.userConf.spa&&a.conf.userConf.spa.angular&&a.conf.userConf.spa.angular.disable||
+a.monitor.Tb(c.ngMonitor)})(g||(g={}))}})();})();
+
+
+
+//]]>
+</script>
+
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		
 		<meta name="decorator" content="newspaper-standard">
@@ -326,8 +397,7 @@
 
 <!-- LW-3717 Production Server - Adobe Dynamic Tag Manager container header tag â 05Nov14- LW Analytics- MFS  -->
 <!--  This tag to be placed just before the end of head section (</head> tag) on all the pages -->
-<script src="http://assets.adobedtm.com/406b28e75c8a35e01a06c8e4c9ff2a6d7ca1fe91/satelliteLib-e4cfe4b450ef24653c12f969af502717674052eb.js"></script>   <script language="javascript" type="text/javascript" async="async" src="http://widgets.kiosked.com/widget/sniff/sign/4faee755e9353e68f4eeca814ed71f4b/albumid/10177/co/10698.js"></script>
-  <script type="text/javascript">
+<script src="//assets.adobedtm.com/406b28e75c8a35e01a06c8e4c9ff2a6d7ca1fe91/satelliteLib-e4cfe4b450ef24653c12f969af502717674052eb.js"></script>   <script type="text/javascript">
  
 	var ezMarkerType = 'localworld'; // Will be provided by Ezakus
 	var ezC = ["g:ez201","flt:1","d:"+document.domain.replace('www.','').replace('.co.uk','').replace('.com',''),"pg_cat1:"+adAreaId ,"pg_cat2:"+adSubareaId];
@@ -340,13 +410,12 @@
 	 var head = document.head || document.getElementsByTagName("head")[0];
 	 head.appendChild(s);
 	 })();
- </script><script type="text/javascript" src="https://localworld.ezakus.net/marker/?group=ez201&amp;tjs=1580481335629" async=""></script>
+ </script><script type="text/javascript" src="https://localworld.ezakus.net/marker/?group=ez201&amp;tjs=1580481341164" async=""></script>
   
   	
   </head>
 
 	<body class="hl-skin  static">
-  
   	<div id="site">
   	
   <!-- Tag for Activity Group: Homepage Tags, Activity: Site Homepage, Type: Daily Visits, Code: JavaScript -->
@@ -358,7 +427,7 @@
 	var a = axel * 10000000000000;
 	document.write('<img style="display:none;" src="http://ad.uk.doubleclick.net/activity;src=2354366;type=homep231;cat=;ord=1;num='+ a + '?" width="1" height="1" border="0" alt="spotlight" />');
 	//]]>
-</script><img style="display:none;" src="http://ad.uk.doubleclick.net/activity;src=2354366;type=homep231;cat=;ord=1;num=500022113518.56116?" width="1" height="1" border="0" alt="spotlight">
+</script><img style="display:none;" src="http://ad.uk.doubleclick.net/activity;src=2354366;type=homep231;cat=;ord=1;num=7219909732693.19?" width="1" height="1" border="0" alt="spotlight">
 <noscript>
 	<img src="http://ad.uk.doubleclick.net/activity;src=2354366;type=homep231;cat=;ord=1;num=1?" width="1" height="1" border="0" alt="spotlight" />
 </noscript>
@@ -418,17 +487,18 @@
     }());
 </script> 
 
-<a id="js-ewrap-left" href=""></a>
+<!--  Decides the folder path -->
+  <a id="js-ewrap-left" href=""></a>
 <a id="js-ewrap-right" href=""></a>
 <header>
 	<!-- LW-4956 CXAd implementation code removed from here  -->
-			<!-- and (empty site.enableGPTAds or !site.enableGPTAds) -->
+			<!-- and (empty site.enableGPTAds or !site.enableGPTAds)  current device value is "[LiteDevice type=NORMAL]"-->
 <div id="div-gpt-ad-2" class="GPTmargin leaderboardAd ad GPTAdcenter">
-				<script type="text/javascript">
-					googletag.cmd.push(function() { googletag.display('div-gpt-ad-2'); });
-				</script>
-			</div>
-		<div id="top-bar" class="clearfix">
+					<script type="text/javascript">
+						googletag.cmd.push(function() { googletag.display('div-gpt-ad-2'); });
+					</script>
+				</div>
+			<div id="top-bar" class="clearfix">
 		<ul class="pull-left">
 			<li class="date">
 				<script type="text/javascript">document.write(LP.Date.getTodaysDate2012());</script>
@@ -442,9 +512,6 @@
 			<li class="local-projects">
 				<p><a href="/localprojects" title="View Local Projects">Local Projects</a></p>	
 			</li>
-			<li class="win-link">
-					<p><a href="http://northampton.comptown.uk" title="Competitions">Win!</a></p>	
-				</li>
 			<li class="facebook"><a href="https://www.facebook.com/NorthantsHeraldPost" target="_blank" title="Like us on Facebook">Like us<i class="fa fa-facebook-square"></i></a></li>
 			<li class="twitter"><a href="https://twitter.com/NorthamptonUK" target="_blank" title="Follow us on Twitter">Follow us<i class="fa fa-twitter"></i></a></li>
 			</ul>
@@ -462,7 +529,7 @@
     <div id="masthead" class="Deep Red-bg clearfix" "="">
         <div class="logo">
             <a href="/">
-                <img style="max-width:100%" alt="Northampton Herald &amp; Post" src="http://wpsbeta.northamptonheraldandpost.co.uk/images/localworld/ugc-images/276491/site/mastheadimage-1406621870665.png">
+                <img style="max-width:100%" alt="Northampton Herald &amp; Post" src="http://www.northampton-news-hp.co.uk/images/localworld/ugc-images/276491/site/mastheadimage-1448439851992.png">
             </a>
         </div>
         <div class="widget-container" id="widget-accuWeather" style="display: none;">
@@ -551,7 +618,7 @@
         </li>
 
       <li>
-          <a href="/motors" title="Cars">Cars</a>
+          <a href="/Christmas2015" title="Christmas">Christmas</a>
         </li>
 
       <li>
@@ -877,7 +944,13 @@ W8 5TT</p>
 function toggleDiv(divId) {
    $("#"+divId).toggle('slow');
 }
-</script></div>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+if (window.ADRUM) { ADRUM.footerMetadataChunks = ["clientRequestGUID%3Ae2ee6cd7-9942-4a07-a225-c46ec83ab3cf","btId%3A94763","btDuration%3A111"]; }
+//]]>
+</script>
+</div>
             
   <div id="footer" class="section clearfix section--footer">
     <p class="section__heading section__heading--footer">Related Links</p>
@@ -1040,23 +1113,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- LW-3717 Adobe Dynamic Tag Manager container Footer tag -->
 <!-- Production Server - Adobe Dynamic Tag Manager container Footer tag â 05Nov14 â LW Analytics - MFS -->
 <!-- This tag to be placed just before the end of Body section (</Body> tag) on all the pages -->
-<script type="text/javascript"> _satellite.pageBottom(); </script><!-- and (empty site.enableGPTAds or !site.enableGPTAds) -->
+<script type="text/javascript">_satellite.pageBottom();</script><!-- and (empty site.enableGPTAds or !site.enableGPTAds)  current device value is "[LiteDevice type=NORMAL]"-->
 <div id="div-gpt-ad-1" class="GPTmargin ad GPTAdcenter">
-				<script type="text/javascript">
-					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1'); });
-				</script>
-			</div>
-		<!-- <script type="text/javascript" language="javascript" src="http://js.revsci.net/gateway/gw.js?csid=D05509" charset="ISO-8859-1"></script>
+					<script type="text/javascript">
+						googletag.cmd.push(function() { googletag.display('div-gpt-ad-1'); });
+					</script>
+				</div>
+			<!-- <script type="text/javascript" language="javascript" src="http://js.revsci.net/gateway/gw.js?csid=D05509" charset="ISO-8859-1"></script>
 <script language="JavaScript" type="text/javascript">
 	DM_tag();
 </script> -->
 <!-- Must be followed by the closing body tag -->
-<!-- crazyegg script -->
-<script type="text/javascript">
-	setTimeout(function(){var a=document.createElement("script");
-	var b=document.getElementsByTagName('script')[0];
-	a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/5371.js?"+Math.floor(new Date().getTime()/3600000);
-	a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script></div>
-  
+</div>
+	
+
 </body></html>
