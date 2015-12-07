@@ -1,18 +1,10 @@
-> *The following text is extracted and transformed from the cbeebies.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601194447id_/http%3A//www.bbcworldwide.com/bbcworldwidewebsites-privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbeebies.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207132807id_/http%3A//www.bbcworldwide.com/bbcworldwidewebsites-privacypolicy.aspx) for the most accurate reproduction.*
 
 # privacy
 
 ## **Privacy at BBC Worldwide**
 
-Last updated: 7th March 2014
-
-#### _This policy has recently been updated. What's new?_
-
-  * We've created an plain English summary of our privacy approach; "Our Promise";
-  * We've provided more detail about what we do with your information and when we may share it between our group of companies; and
-  * We've implemented the same policy across all our services and group companies.
-
-
+_Last updated: 15 June 2015_
 
 BBC Worldwide Limited (BBCW) is the main commercial arm and a wholly owned subsidiary of the British Broadcasting Corporation (BBC). It is a UK based company operating in countries around the world through its subsidiaries. The information in these pages relate to the privacy practices of the companies in the BBC Worldwide group, (herein referred to as "BBCW", "we", "our" or "us").
 
@@ -22,14 +14,14 @@ BBCW respects your right to privacy and we take our related legal obligations se
 
 BBCW exists to support the BBC's public service mission and to maximise profits on its behalf. We do this through investing in, commercialising and showcasing BBC content around the world, in a way that is consistent with BBC standards and values.
 
-We operate a variety of BBC-branded commercial services, such as TV channels, online shops, websites, games, mobile apps and live events. For more information please refer to our corporate website at: [www.bbcworldwide.com.](http://www.bbcworldwide.com./)
+We operate a variety of BBC-branded commercial services, such as TV channels, online shops, websites, games, mobile apps and live events. For more information please refer to our corporate website at: [www.bbcworldwide.com.](https://web.archive.org/web/20151207132807id_/http://www.bbcworldwide.com/)
 
 ### **Our Promise** ****
 
   1. We will comply with applicable privacy and data protection laws and regulatory frameworks.
   2. We will only use your personal information to supply, improve and manage our services. Any additional or unusual uses of your information will be explained at the point of collection.
   3. We will only send you marketing emails if you have permitted us to (and you will be given the opportunity to unsubscribe in each of our emails).
-  4. We will enable you to opt-out of usage tracking where possible; we track your use of our services to help us to tailor our content and advertising and to improve our services. We will not use information that identifies you personally but if you prefer, you may opt-out [**here**](http://www.bbcworldwide.com/cookies.aspx).
+  4. We will enable you to opt-out of usage tracking where possible; we track your use of our services to help us to tailor our content and advertising and to improve our services. We will not use information that identifies you personally but if you prefer, you may opt-out [**here**](https://web.archive.org/cookies.aspx).
   5. We will not share personally identifiable information with unrelated third parties for their own use without your consent. We may share your information within our group of companies so that we can provide you with the best customer experience across our brands.
   6. We will take appropriate steps to safeguard your information in accordance with industry standards but please keep in mind that no system can be guaranteed as 100% secure.
   7. We will only keep your information for as long as we need it: (i) to provide you with a product/service; (ii) to improve our services; and (iii) for legal and audit purposes.
@@ -61,7 +53,7 @@ If you have any questions or comments about this policy or our approach to priva
 
 ### 1\. **SCOPE OF THIS POLICY AND YOUR CONSENT**
 
-This policy governs our processing of your information in relation to the products and services we supply to you. In addition to this policy, we operate policies relating to our use of [**Cookies (Tracking Technologies)**](http://www.bbcworldwide.com/cookies.aspx) and the provision of our services via [**Mobile Applications**](http://www.bbcworldwide.com/privacy/mobile-apps.aspx) ("Mobile Apps"). The practices set out in those policies are governed by this overarching policy.
+This policy governs our processing of your information in relation to the products and services we supply to you. In addition to this policy, we operate policies relating to our use of [**Cookies (Tracking Technologies)**](https://web.archive.org/cookies.aspx) and the provision of our services via [**Mobile Applications**](https://web.archive.org/privacy/mobile-apps.aspx) ("Mobile Apps"). The practices set out in those policies are governed by this overarching policy.
 
 Please be aware that we also license our brands and content to other companies who may produce their own websites, events and digital content. We take reasonable steps to ensure that these companies clearly identify themselves and handle your information appropriately. However, when you use any service which is operated by a third party, the use of your information will be subject to their privacy policy and not ours. If you have any concerns, please contact us at: [dataprotection@bbc.com](mailto:dataprotection@bbc.com).
 
@@ -83,7 +75,7 @@ When you use our services we automatically record information about your usage o
 
 Log data: When you use our services, certain information gets recorded in our log files such as your device's Internet Protocol (IP) Address, its unique ID, its operating system and location, and your browser type, the pages you viewed, cookie information and referral links (the link that sent you to a particular page).
 
-Tracking technologies (cookies): In conjunction with our log data we may use tracking technologies such as tags on our web pages and small data files which we store on your device (known as "cookies"). These technologies enable us to recognise your device and to track your interaction with our services, emails and adverts. We do not use these technologies to identify you and we do not intentionally collect or record personally identifiable information through these technologies. See our [**Cookies Policy**](http://www.bbcworldwide.com/cookies.aspx) for more information.
+Tracking technologies (cookies): In conjunction with our log data we may use tracking technologies such as tags on our web pages and small data files which we store on your device (known as "cookies"). These technologies enable us to recognise your device and to track your interaction with our services, emails and adverts. We do not use these technologies to identify you and we do not intentionally collect or record personally identifiable information through these technologies. See our [**Cookies Policy**](https://web.archive.org/cookies.aspx) for more information.
 
 #### _Information collected via social media and other third parties:_
 
@@ -91,7 +83,7 @@ When you choose to participate in or receive a service from us via social media,
 
 #### _Information collected via specialist data companies:_
 
-We sometimes use specialist data companies to provide us with information they hold about you to enable us to better tailor our advertising. For example, we might use anonymous information about your browsing on other sites to enable us to infer your interests and to put you into appropriate "market segments". This information is not used to identify you as a person and we do not attempt to combine it with personally identifying information that we may hold. See our [**Cookies Policy**](http://www.bbcworldwide.com/cookies.aspx) for more information.
+We sometimes use specialist data companies to provide us with information they hold about you to enable us to better tailor our advertising. For example, we might use anonymous information about your browsing on other sites to enable us to infer your interests and to put you into appropriate "market segments". This information is not used to identify you as a person and we do not attempt to combine it with personally identifying information that we may hold. See our [**Cookies Policy**](https://web.archive.org/cookies.aspx) for more information.
 
 ### **3.** **HOW WE USE YOUR INFORMATION**
 
@@ -105,7 +97,7 @@ We will use your information: (i) to deliver, improve and personalise our servic
   * contact you about a submission you have made to our online services (refer to our **Code of Conduct** );
   * analyse and/or improve our services;
   * personalise the way BBCW content is presented to you online;
-  * deliver interest-based advertising based upon your browsing of our websites and others (find out more about our advertising and how to opt-out [**here**](http://www.bbcworldwide.com/cookies.aspx));
+  * deliver interest-based advertising based upon your browsing of our websites and others (find out more about our advertising and how to opt-out [**here**](https://web.archive.org/cookies.aspx));
   * prevent fraud or other potentially illegal activities (including copyright infringement);
   * block disruptive users and protect the safety of users of our services;
   * enforce our terms of service;
@@ -132,7 +124,7 @@ Some of our online services carry embedded content controlled by third parties f
 
 #### _Information shared with other parties_
 
-We may disclose your personal information to law enforcement agencies, government/regulatory bodies, internet service providers and content protection organizations as required or allowed by law. For example, if you post inappropriate or objectionable content on our services or where we reasonably believe you may be in breach of the law, we may report your content and behaviour to relevant parties.
+Generally, we will only disclose your data to other parties with your consent, for example if you choose to share content via social media functionality. We may also disclose your personal information to law enforcement agencies, government/regulatory bodies, internet service providers and content protection organizations as required or allowed by law. For example, if you post inappropriate or objectionable content on our services or where we reasonably believe you may be in breach of the law, we may report your content and behaviour to relevant parties.
 
 #### _Sale or transfer of all or part of our business or assets_
 
@@ -202,14 +194,14 @@ If you have any questions or comments about this policy or our approach to priva
 
 Data Protection Officer
 
-BBC Worldwide Ltd
+BBC Worldwide Limited
 
-MC2 A6, Media Centre
+Television Centre, 4A
 
-201 Wood Lane
+101 Wood Lane
 
 London
 
-W12 7TQ
+W12 7FA
 
 Email: [dataprotection@bbc.com](mailto:dataprotection@bbc.com)
