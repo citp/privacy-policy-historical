@@ -1,64 +1,74 @@
-> *The following text is extracted and transformed from the deloitte.com privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205164728id_/http%3A//www.deloitte.com./dtt/notices/0%2C1026%2Cstc%25253DPRIVACY%252526lid%25253D1%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deloitte.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208000659id_/http%3A//www2.deloitte.com/us/en/legal/privacy.html%3Ficid%3Dbottom_privacy) for the most accurate reproduction.*
 
-# Deloitte Global Home Page - Deloitte Touche Tohmatsu
+# Privacy
 
-**Effective as of January 15, 2004  
-****Introduction**
+**Introduction**
 
-Deloitte Touche Tohmatsu is a privacy conscious global organization. The following privacy statement explains how we protect visitors’ information gathered via this global Web site.
+[Deloitte LLP and its subsidiaries](https://web.archive.org/us/en.html) (the **"Deloitte US Entities",**  also referred to below as  **"we"** , **"us"**  and **"our"** ) is a privacy conscious organization. This Privacy Statement explains how we protect visitors information gathered via the Web pages of the Deloitte.com website that are designated as United States in the upper right hand corner (such Web pages referred to herein as the **"this Website"** ). By using the this Website ** ** you agree to the use of such information in accordance with this Privacy Statement.
 
-If you as a visitor choose to register or submit information to this Web site, you agree to the use of such data in accordance with this privacy statement. Please note that this site contains links to other sites, including sites maintained by member firms and affiliates of Deloitte Touche Tohmatsu, which may not be governed by this privacy statement.
+The Deloitte.com website also includes Web pages provided by Deloitte Touche Tohmatsu Limited ( **"DTTL"** ), which are designated as "Global," and Web pages of other DTTL member firms or their related entities, which are designated according to the location identified in the upper right hand corner next to "Location." These Web pages are provided by the designated entities and are _not_ the responsibility of the Deloitte US Entities. Such Web pages, as well as other websites that may be linked to this Website, are _not_ governed by this Privacy Statement. We encourage visitors to review the applicable privacy statements before disclosing any personal information.
 
-If you have any questions regarding this privacy statement or do not feel that your concerns have been addressed, please direct your questions to Webmaster Services using the [Contact Us](http://www.deloitte.com/vs/0,1616,sid%253D2754,00.html) link.
+This Privacy Statement may be supplemented or amended from time to time by Privacy Statements that are specific to certain areas of this Website (e.g., recruitment). For more detail about the online recruitment process, please review the specific statement governing that area.
 
-  
-**Information Collection**
+If you have any questions or concerns regarding this Privacy Statement, please contact webmaster services using the [contact us](https://web.archive.org/us/en/footerlinks/contact-us.html) link.
 
-As a visitor, you do not have to submit any personal information in order to use the Web site. The site collects only personally identifiable information that is specifically and voluntarily provided by visitors. Such information may consist of, but is not limited to, your name, current job title, company address, email address and telephone and fax numbers.
+As used in this Privacy Statement, "Deloitte Network" means DTTL and its member firms and their affiliates and related entities.
 
-We do not usually seek sensitive information (e.g., data relating to race or ethnic origin, religious beliefs, criminal record, physical or mental health, or sexual orientation) from visitors. We will, where necessary, obtain visitors’ explicit consent to collect and use such information.
+**Information collection**
 
-**Cookies and Web Beacons**
+As a visitor, you do not have to submit any personal information in order to use the website. This Website collects personal information only if it is specifically and voluntarily provided by visitors. Such information may consist of, but is not limited to, your name, current job title, company address, email address and telephone and fax numbers.
 
-To ensure that our Web site is well managed and to facilitate improved navigation within the site, we or our service provider(s) may use cookies (small text files stored in a user’s browser) or Web beacons (electronic images that allow the Web site to count visitors who have accessed a particular page and to access certain cookies) to collect aggregate data. We may use such devices to track information on our systems and identify categories of visitors by items such as IP address, domain, browser type and pages visited. This information is reported to our Webmasters who use the information to analyze the number of visitors to different areas of the site and to make sure that our Web site is serving as a useful, effective information source.  
+This Website may also collect content that you provide, including but not limited to postings on any blogs, forums, wikis and other social media applications and services that we may provide.
 
+We do not usually seek sensitive information (e.g., data relating to race or ethnic origin, religious beliefs, criminal record, physical or mental health or sexual orientation) from visitors. We will, where necessary, obtain your explicit consent to collect and use such information.
 
-Neither our cookies nor Web beacons collect any personal information such as your name or email address. Further, most browsers permit individuals to decline cookies. [Learn more about cookies](http://www.deloitte.com/dtt/article/0,1002,cid%253D29355,00.html) and how to reject them. However, under specific circumstances, visitors may be denied access to some parts of our site if their browsers are set to decline cookies.
+**Log information, cookies and Web beacons**
 
-  
-**Information Use**
+This Website collects standard Internet log information including your IP address, browser type and language, access times and referring website addresses. To ensure that our website is well managed and to facilitate improved navigation, we or our service provider(s) may also use cookies (small text files stored in a user's browser) or Web beacons (electronic images that allow the website to count visitors who have accessed a particular page and to access certain cookies) to collect aggregate data. Additional information on how we use cookies and other tracking technologies and how you can control these can be found in our cookie notice.
 
-Personal information is used only for limited purposes. For example, when you register with the Web site to gain access to premium content or request future communications about Deloitte areas of interest, such as specific Deloitte Touche Tohmatsu or member firm publications or marketing campaigns, we may use the information you submit to create a personal profile to customize our response to further requests or inquiries. We may also use the information to personalize your Web site experience. And, when you choose to register online for a Deloitte-hosted event, we will use the information you submit to respond to you. In addition, the web masters may, where necessary, use your information for various site related tasks. We will ensure that our marketing activities comply with applicable law, and implement procedures to obtain necessary consents before sending you emails containing information about Deloitte service offerings. You may at any time request that we discontinue sending you such materials.
+**Safe Harbor Privacy Policy**
 
-  
-**Disclosure of Information to Third Parties**
+The Deloitte US Entities adhere to the Safe Harbor Agreement between the U.S. Department of Commerce and the European Commission with respect to personally identifiable information that is transferred from the European Economic Area to the United States within the scope of the Deloitte US Entities Safe Harbor certification. Read more about our [Safe Harbor policy](https://web.archive.org/us/en/legal/safe-harbor.html).
 
-Although we may provide visitors’ information to service providers that handle information on our behalf, we will usually not share the information with third parties or other Deloitte entities for secondary or unrelated purposes unless otherwise disclosed at the point of collection.
+**Information use**
 
-Personal information may be transmitted internationally through the Deloitte Touche Tohmatsu worldwide organization or to third parties for the purposes identified above. This may include transfer to countries without data protection rules similar to those in effect in a visitor’s country of residence. By providing information to Deloitte Touche Tohmatsu through this Web site, you are consenting to such transfers. Where appropriate, personal information may be disclosed to law enforcement, regulatory or other government agencies, or third parties where necessary or desirable to comply with legal or regulatory obligations or requests or for the purposes identified above.
+At times, you may choose to register or create a user profile on this site e.g., to gain access to specific content, attend a hosted event, respond to a survey or request communications about specific areas of interest. In such cases, the information you submit may be used to manage your request; to manage our relationship with you; or to customize or improve this Website.
 
-  
-**Access to Information**
+We may also use your personal information for marketing purposes, or to send you promotional materials or communications regarding services provided by us or other members of the Deloitte Network that we feel may be of interest to you. We may also contact you to seek feedback on our services or for market or other research purposes. Your personal information may also be used to protect our rights or property and that of our users.
 
-We are dedicated to providing reasonable access to visitors who wish to review the personal information retained when they register with our Web site and correct any inaccuracies it may contain. Visitors who choose to register may access their user profile, correct and update their details, or unsubscribe at any time. Visitors who have any problem accessing their profiles, or would like to request a copy of their personal information should contact Webmaster Services using the Contact Us link. In all cases we will treat requests to access information or change information in accordance with applicable legal requirements.
+You may at any time request that we discontinue sending you emails or other communications generated in response to your registration on this Website.
 
-  
-**Information Security**
+**Disclosure of information to third parties**
 
-We have in place reasonable commercial standards of technology and operational security to protect all information provided by visitors from loss, misuse, alteration or  
-destruction.
+We may provide your personal information to other members of the Deloitte Network in order to provide you with information that could be of interest to you and conduct market or other research. Personal information may also be disclosed to members of the Deloitte Network and other third parties in order to respond to your requests or inquiries; as part of a corporate transaction (such as a sale, divestiture, merger or acquisition); or where those parties handle information on our behalf.
 
-  
-**Changes to our Privacy Policy**
+All of these disclosures may involve the transfer of personal information to countries or regions without data protection rules similar to those in effect in your area of residence.
 
-Deloitte Touche Tohmatsu reserves the right to modify or amend this privacy statement at any time and for any reason. Nothing contained herein creates or is intended to create a contract or agreement between Deloitte Touche Tohmatsu and any user visiting the Web site or providing identifying information of any kind.
+Personal information may also be disclosed to law enforcement, regulatory or other government agencies, or to other third parties, in each case to comply with legal or regulatory obligations or requests.
 
-  
-**Children's Privacy Protection**
+By providing information through this Website, you are consenting to the disclosures described above.
 
-Deloitte Touche Tohmatsu understands the importance of protecting children's privacy in the interactive online world. The Web site covered by this privacy policy is not designed for or intentionally targeted at children 13 years of age or younger. It is not our policy to intentionally collect or maintain information about anyone under the age of 13.
+**Blogs, forums, wikis and other social media**
 
-  
-**Visitors' Questions**
+This Website may host various blogs, forums, wikis and other social media applications or services that allow you to share content with other users (collectively Social Media Applications). Any personal information or other information that you contribute to any Social Media Application can be read, collected and used by other users of that Social Media Application over whom we have little or no control. Therefore, we are not responsible for any other user's use, misuse or misappropriation of any personal information or other information that you contribute to any Social Media Application.
 
-If you have any questions or concerns regarding your privacy while using this Web site, please direct them to Webmaster Services using the [Contact Us](http://www.deloitte.com/vs/0,1616,sid%253D2754,00.html) link.
+**Access to information**
+
+Visitors who choose to register with this Website may access their user profile, correct and update their details, or unsubscribe at any time. Visitors who have any problem accessing their profiles, or would like to request a copy of their personal information should contact webmaster services using the contact us link. In all cases we will treat requests to access information or change information in accordance with applicable legal requirements.
+
+**Information security**
+
+We have in place reasonable commercial standards of technology and operational security to protect all information provided by visitors via this Website from unauthorized access, disclosure, alteration or destruction.
+
+**Changes to our Privacy Statement**
+
+We may modify or amend this Privacy Statement from time to time at our discretion. When we make changes to this statement, we will amend the revision date at the top of this page. We encourage you to periodically review this privacy statement to be informed about how we are protecting your information.
+
+**Children's privacy protection**
+
+We understand the importance of protecting children's privacy in the interactive online world. This Website is not designed for or intentionally targeted at children 13 years of age or younger. It is not our policy to intentionally collect or maintain information about anyone under the age of 13.
+
+**Visitors' questions**
+
+If you have any questions or concerns regarding your privacy while using this Website, please direct them to webmaster services using the [contact us](https://web.archive.org/us/en/footerlinks/contact-us.html) link.  
+
