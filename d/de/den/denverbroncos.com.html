@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the denverbroncos.com privacy policy that was archived on 2015-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150626100332id_/http%3A//www.denverbroncos.com/footer/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the denverbroncos.com privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207114907id_/http%3A//www.denverbroncos.com/footer/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html SYSTEM "about:legacy-compat"><html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:nflcs="http://clubs.nfl.com" xmlns="http://www.w3.org/1999/xhtml" xmlns:pas="http://www.nfl.com/2009/pluckApplicationServer"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>Denver Broncos | Privacy Policy</title><!--ls:begin[stylesheet]--><style type="text/css">.centerComponents
 {
@@ -372,7 +372,42 @@ $(document).ready(function(){
                 
                 
                     
-                        <div id="social-buttons"><a id="newsletter-button" href="http://www.denverbroncos.com/fans/enews/subscribe.html" target="_self"><span>Newsletter</span></a> <a id="mobile-button" href="http://apps.yinzcam.com/nfl/den" target="_blank"><span>MOBILE APP</span></a> <a id="instagram-button" href="http://instagram.com/denverbroncos" target="_blank"><span>Instagram</span></a> <a id="vine-button" href="https://vine.co/Broncos" target="_blank"><span>Vine</span></a> <a id="facebook-button" href="http://www.facebook.com/DenverBroncos" target="_blank"><span>Facebook</span></a> <a id="twitter-button" href="https://twitter.com/Broncos" target="_blank"><span>Twitter</span></a></div>
+                        <div id="gigya-wrap">
+<div id="gigya-acct">
+<script type="text/javascript" src="http://cdn.gigya.com/JS/socialize.js?apikey=3_125ZmGzcH1E3cRPtJr4c9Zs8Po-qrizIEG_ZI-jIqCn4SlTqCguQE9VPs-2sFiBI" lang="javascript"></script>
+<div id="runningCodeExample" style="border: 0px solid skyblue; padding: 15px; width: 300px;"><span id="loggedOut" style="display: inline;"> <a href="#" onclick="gigya.accounts.showScreenSet({screenSet:'Default-RegistrationLogin'});">Login</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="#" onclick="gigya.accounts.showScreenSet({screenSet:'Default-RegistrationLogin', startScreen:'gigya-register-screen'});">Register</a><br><br> </span>
+<div id="loggedIn" style="display: none;"><span style="color: #ffffff;">Welcome Back </span><span id="userName"></span><br>
+<div class="btn_logout"><a href="#" class="btn_logout">Logout</a></div>
+</div>
+<script type="text/javascript">// <![CDATA[
+    gigya.accounts.addEventHandlers ({
+		onLogin: fn_onLogin, 
+		onLogout: fn_onLogout
+	});
+	function fn_onLogin (result) {
+		fn_showLoggedInUI (result);	
+	}
+	function fn_onLogout (){
+		$("#loggedOut").css("display","inline");
+		$("#loggedIn").css("display","none");
+	}
+	function fn_showLoggedInUI (result) {
+		if (result.status=="FAIL"){return false;}
+		$("#userName").html(result.profile.firstName);
+		$("#loggedOut").css("display","none");
+		$("#loggedIn").css("display","inline");
+	}
+	gigya.accounts.getAccountInfo ({
+		callback: fn_showLoggedInUI
+	});
+	$(".btn_logout").on("click",function(){
+		gigya.accounts.logout();	
+	});
+// ]]></script>
+</div>
+</div>
+</div>
+<div id="social-buttons"><a id="desksite-button" href="http://www.denverbroncos.com/desksite/index.html" target="_self"><span>Desksite</span></a> <a id="newsletter-button" href="http://www.denverbroncos.com/fans/enews/subscribe.html" target="_self"><span>Newsletter</span></a> <a id="mobile-button" href="http://apps.yinzcam.com/nfl/den" target="_blank"><span>MOBILE APP</span></a> <a id="instagram-button" href="http://instagram.com/broncos" target="_blank"><span>Instagram</span></a> <a id="vine-button" href="https://vine.co/Broncos" target="_blank"><span>Vine</span></a> <a id="facebook-button" href="http://www.facebook.com/DenverBroncos" target="_blank"><span>Facebook</span></a> <a id="twitter-button" href="https://twitter.com/Broncos" target="_blank"><span>Twitter</span></a></div>
                     
                 
             
@@ -460,11 +495,6 @@ $(document).ready(function(){
                     <span>Multimedia</span>
                 </a>
             </li>
-            <li id="main-nav-watch-games">
-                <a class="root-node-link" target="_blank" title="Watch Games" href="http://www.pntrac.com/t/RUBKRkdMRUBKRklJQ0BISEtERw">
-                    <span>Watch Games</span>
-                </a>
-            </li>
             <li id="main-nav-schedules">
                 <a class="root-node-link" target="" title="Schedules" href="http://www.denverbroncos.com/schedule-and-events/schedule.html">
                     <span>Schedules</span>
@@ -505,6 +535,11 @@ $(document).ready(function(){
                     <span>Pro Shop</span>
                 </a>
             </li>
+            <li id="main-nav-watch-games">
+                <a class="root-node-link no-ribbon" target="_blank" title="Watch Games" href="http://www.gopjn.com/t/RkFGRExGS0ZBS0dKSkRBSUlMRUg">
+                    <span>Watch Games</span>
+                </a>
+            </li>
     </ul>
 
     <div id="ribbon-container">
@@ -526,10 +561,6 @@ $(document).ready(function(){
                 <span class="placeholder">Loading...</span>
             </div>
             <div class="fragment-container" parent="main-nav-multimedia" rel="/nav-ribbon/multimedia.html">
-                <!--// Container for AJAX content from HTML fragment //-->
-                <span class="placeholder">Loading...</span>
-            </div>
-            <div class="fragment-container" parent="main-nav-watch-games" rel="/nav-ribbon/watch-games.html">
                 <!--// Container for AJAX content from HTML fragment //-->
                 <span class="placeholder">Loading...</span>
             </div>
@@ -562,6 +593,10 @@ $(document).ready(function(){
                 <span class="placeholder">Loading...</span>
             </div>
             <div class="fragment-container" parent="main-nav-pro-shop" rel="/nav-ribbon/pro-shop.html">
+                <!--// Container for AJAX content from HTML fragment //-->
+                <span class="placeholder">Loading...</span>
+            </div>
+            <div class="fragment-container" parent="main-nav-watch-games" rel="/nav-ribbon/watch-games.html">
                 <!--// Container for AJAX content from HTML fragment //-->
                 <span class="placeholder">Loading...</span>
             </div>
@@ -598,7 +633,7 @@ $(document).ready(function(){
                 
                 
                     
-                        <div id="hot-links"><a class="first" title="Videos" href="http://www.denverbroncos.com/multimedia/most-recent-video.html">Videos</a><a title="Photos" href="http://www.denverbroncos.com/multimedia/all-photos.html">Photos</a><a title="E-Newsletters" href="http://www.denverbroncos.com/fans/enews/subscribe.html">E-Newsletters</a><a title="Message Board" href="http://forums.denverbroncos.com/">Message Board</a><a class="last" title="NFL Ticket Exchange" href="http://www.ticketexchangebyticketmaster.com/NFL/denver-broncos-tickets/?intcmp=tm104657&amp;wt.mc_id=NFL_TEAM_DEN_HOT_LINKS">NFL Ticket Exchange</a><nflcs:ad class="no-style" data-adtype="adj" data-width="235" data-height="15" data-suite="team.den" data-customparams=""><param value="ad" name="nfl"></nflcs:ad></div>
+                        <div id="hot-links"><a class="first" title="Wallpapers" href="http://www.denverbroncos.com/fans/wallpapers/index.html">Desktop and Mobile Wallpapers</a><a title="TicketMaster Account Manager" href="https://oss.ticketmaster.com/html/home.htmI?team=broncos&amp;l=EN&amp;STAGE=1">Account Manager</a><a class="last" title="NFL Ticket Exchange" href="http://www.ticketexchangebyticketmaster.com/NFL/denver-broncos-tickets/?intcmp=tm104657&amp;wt.mc_id=NFL_TEAM_DEN_HOT_LINKS">NFL Ticket Exchange</a></div>
                     
                 
             
@@ -656,154 +691,124 @@ $(document).ready(function(){
         <div class="coming-up-events">
             <div class="event-label"><span class="coming-up"><span>Coming Up</span></span></div>
             <ul>
-                <li data-start-time="1436574600000" data-end-time="1436583600000" class="event clearfix  loop-first  loop-odd ">
+                <li data-start-time="1449709200000" data-end-time="1449716400000" class="event clearfix  loop-first  loop-odd ">
                                 <span class="event-date">
-                                    <span class="event-day">Fri., Jul. 10, 2015</span>
+                                    <span class="event-day">Wed., Dec. 09, 2015</span>
+                                    <span class="event-time">
+                                        6:00 PM
+                                                - 8:00 PM MST</span>
+                                </span>
+                                <span class="event-details">
+                                    <span class="event-type"></span>
+                                    <span class="event-title">
+                                        <a href="http://www.denverbroncos.com/schedule-and-events/event/Crush-Shopping-Event-201512091800/00c2bf41-6127-48b1-87f7-88171a4bf419" title="Crush Shopping Event"><span>Crush Shopping Event</span></a>
+                                            </span>
+                                    <span class="event-description">An exclusive shopping night for Denver Broncos Crush members with deep discounts and apparel specials just for members of the official Denver Broncos fan club for women. Click <a href="http://www.denverbroncos.com/fans/crush/">here</a> for more information.</span>
+                                </span>
+                            </li>
+                        <li data-start-time="1450040700000" data-end-time="1450051500000" class="event clearfix  loop-even ">
+                                <span class="event-date">
+                                    <span class="event-day">Sun., Dec. 13, 2015</span>
+                                    <span class="event-time">
+                                        2:05 PM
+                                                - 5:05 PM MST</span>
+                                </span>
+                                <span class="event-details">
+                                    <span class="event-type"></span>
+                                    <span class="event-title">
+                                        <a href="http://www.denverbroncos.com/schedule-and-events/game/2015/regular14/" target="_blank" title="Raiders vs. Broncos"><span>Raiders vs. Broncos</span></a>
+                                            </span>
+                                    <span class="event-description">Raiders vs. Broncos</span>
+                                </span>
+                            </li>
+                        <li data-start-time="1450646700000" data-end-time="1450657500000" class="event clearfix  loop-odd ">
+                                <span class="event-date">
+                                    <span class="event-day">Sun., Dec. 20, 2015</span>
+                                    <span class="event-time">
+                                        2:25 PM
+                                                - 5:25 PM MST</span>
+                                </span>
+                                <span class="event-details">
+                                    <span class="event-type"></span>
+                                    <span class="event-title">
+                                        <a href="http://www.denverbroncos.com/schedule-and-events/game/2015/regular15/" target="_blank" title="Broncos vs. Steelers"><span>Broncos vs. Steelers</span></a>
+                                            </span>
+                                    <span class="event-description">Broncos vs. Steelers</span>
+                                </span>
+                            </li>
+                        <li data-start-time="1451352600000" data-end-time="1451363400000" class="event clearfix  loop-even ">
+                                <span class="event-date">
+                                    <span class="event-day">Mon., Dec. 28, 2015</span>
                                     <span class="event-time">
                                         6:30 PM
-                                                - 9:00 PM MDT</span>
+                                                - 9:30 PM MST</span>
                                 </span>
                                 <span class="event-details">
                                     <span class="event-type"></span>
                                     <span class="event-title">
-                                        <a href="http://www.denverbroncos.com/schedule-and-events/event/Broncos-Bunch-Movie-Night-201507101830/620eaa80-1ed1-4bcf-b5ab-4e5699f85c60" title="Broncos Bunch Movie Night"><span>Broncos Bunch Movie Night</span></a>
+                                        <a href="http://www.denverbroncos.com/schedule-and-events/game/2015/regular16/" target="_blank" title="Bengals vs. Broncos"><span>Bengals vs. Broncos</span></a>
                                             </span>
-                                    <span class="event-description">Join us and other Broncos Bunch members for the annual Broncos Bunch Movie Night<br><a target="_blank" href="BroncosBunch.com">BroncosBunch.com</a><br></span>
+                                    <span class="event-description">Bengals vs. Broncos</span>
                                 </span>
                             </li>
-                        <li data-start-time="1438358400000" data-end-time="1438367400000" class="event clearfix  loop-even ">
+                        <li data-start-time="1451856300000" data-end-time="1451867100000" class="event clearfix  loop-odd ">
                                 <span class="event-date">
-                                    <span class="event-day">Fri., Jul. 31, 2015</span>
+                                    <span class="event-day">Sun., Jan. 03, 2016</span>
                                     <span class="event-time">
-                                        10:00 AM
-                                                - 12:30 PM MDT</span>
+                                        2:25 PM
+                                                - 5:25 PM MST</span>
                                 </span>
                                 <span class="event-details">
                                     <span class="event-type"></span>
                                     <span class="event-title">
-                                        <a href="http://www.denverbroncos.com/schedule-and-events/event/Broncos-Training-Camp-201507311000/0e8236ee-bd83-42ae-95ce-0b1b208b75cf" title="Broncos Training Camp"><span>Broncos Training Camp</span></a>
+                                        <a href="http://www.denverbroncos.com/schedule-and-events/game/2015/regular17/" target="_blank" title="Chargers vs. Broncos"><span>Chargers vs. Broncos</span></a>
                                             </span>
-                                    <span class="event-description">Denver Broncos Training Camp at Dove Valley - <a href="http://www.denverbroncos.com/news-and-blogs/article-1/Broncos-announce-2015-training-camp-schedule/60b39e9c-26d3-46b7-b3e4-c6a693b42d63">Training Camp information</a></span>
+                                    <span class="event-description">Chargers vs. Broncos</span>
                                 </span>
                             </li>
-                        <li data-start-time="1438444800000" data-end-time="1438453800000" class="event clearfix  loop-odd ">
+                        <li data-start-time="1452733200000" data-end-time="1452736800000" class="event clearfix  loop-even ">
                                 <span class="event-date">
-                                    <span class="event-day">Sat., Aug. 01, 2015</span>
+                                    <span class="event-day">Wed., Jan. 13, 2016</span>
                                     <span class="event-time">
-                                        10:00 AM
-                                                - 12:30 PM MDT</span>
+                                        6:00 PM
+                                                - 7:00 PM MST</span>
                                 </span>
                                 <span class="event-details">
                                     <span class="event-type"></span>
                                     <span class="event-title">
-                                        <a href="http://www.denverbroncos.com/schedule-and-events/event/Broncos-Training-Camp-201508011000/47b2f2ea-d2c1-4a6f-9104-2ec2ec4ab489" title="Broncos Training Camp"><span>Broncos Training Camp</span></a>
+                                        <a href="http://www.denverbroncos.com/schedule-and-events/event/Crush-Workout-Series-201601131800/d502601e-c1a8-4316-bb94-83c4c864043f" title="Crush Workout Series"><span>Crush Workout Series</span></a>
                                             </span>
-                                    <span class="event-description"><p>Denver Broncos Training Camp at Dove Valley - <a href="http://www.denverbroncos.com/news-and-blogs/article-1/Broncos-announce-2015-training-camp-schedule/60b39e9c-26d3-46b7-b3e4-c6a693b42d63">Training Camp information</a></p></span>
+                                    <span class="event-description">More information coming soon</span>
                                 </span>
                             </li>
-                        <li data-start-time="1438531200000" data-end-time="1438540200000" class="event clearfix  loop-even ">
+                        <li data-start-time="1453338000000" data-end-time="1453341600000" class="event clearfix  loop-odd ">
                                 <span class="event-date">
-                                    <span class="event-day">Sun., Aug. 02, 2015</span>
+                                    <span class="event-day">Wed., Jan. 20, 2016</span>
                                     <span class="event-time">
-                                        10:00 AM
-                                                - 12:30 PM MDT</span>
+                                        6:00 PM
+                                                - 7:00 PM MST</span>
                                 </span>
                                 <span class="event-details">
                                     <span class="event-type"></span>
                                     <span class="event-title">
-                                        <a href="http://www.denverbroncos.com/schedule-and-events/event/Broncos-Training-Camp-201508021000/c27ee360-a7fe-4608-ae74-0e8d959ec1dc" title="Broncos Training Camp"><span>Broncos Training Camp</span></a>
+                                        <a href="http://www.denverbroncos.com/schedule-and-events/event/Crush-Workout-Series-201601201800/63776a58-c08f-4204-86e5-40af8bca9fac" title="Crush Workout Series"><span>Crush Workout Series</span></a>
                                             </span>
-                                    <span class="event-description"><p>Denver Broncos Training Camp at Dove Valley - <a href="http://www.denverbroncos.com/news-and-blogs/article-1/Broncos-announce-2015-training-camp-schedule/60b39e9c-26d3-46b7-b3e4-c6a693b42d63">Training Camp information</a></p></span>
+                                    <span class="event-description">More information coming soon</span>
                                 </span>
                             </li>
-                        <li data-start-time="1438617600000" data-end-time="1438626600000" class="event clearfix  loop-odd ">
+                        <li data-start-time="1453942800000" data-end-time="1453946400000" class="event clearfix  loop-even  loop-last ">
                                 <span class="event-date">
-                                    <span class="event-day">Mon., Aug. 03, 2015</span>
+                                    <span class="event-day">Wed., Jan. 27, 2016</span>
                                     <span class="event-time">
-                                        10:00 AM
-                                                - 12:30 PM MDT</span>
+                                        6:00 PM
+                                                - 7:00 PM MST</span>
                                 </span>
                                 <span class="event-details">
                                     <span class="event-type"></span>
                                     <span class="event-title">
-                                        <a href="http://www.denverbroncos.com/schedule-and-events/event/Broncos-Training-Camp-201508031000/bc7ff1ad-65f0-4bb5-a301-3f464c90c740" title="Broncos Training Camp"><span>Broncos Training Camp</span></a>
+                                        <a href="http://www.denverbroncos.com/schedule-and-events/event/Crush-Workout-Series-201601271800/0dc5559c-3863-4318-98d0-42dfebbcc862" title="Crush Workout Series"><span>Crush Workout Series</span></a>
                                             </span>
-                                    <span class="event-description"><p>Denver Broncos Training Camp at Dove Valley - <a href="http://www.denverbroncos.com/news-and-blogs/article-1/Broncos-announce-2015-training-camp-schedule/60b39e9c-26d3-46b7-b3e4-c6a693b42d63">Training Camp information</a></p></span>
-                                </span>
-                            </li>
-                        <li data-start-time="1438704000000" data-end-time="1438713000000" class="event clearfix  loop-even ">
-                                <span class="event-date">
-                                    <span class="event-day">Tue., Aug. 04, 2015</span>
-                                    <span class="event-time">
-                                        10:00 AM
-                                                - 12:30 PM MDT</span>
-                                </span>
-                                <span class="event-details">
-                                    <span class="event-type"></span>
-                                    <span class="event-title">
-                                        <a href="http://www.denverbroncos.com/schedule-and-events/event/Broncos-Training-Camp-201508041000/8b9ff717-0c83-45b6-86d4-a360a85d88a4" title="Broncos Training Camp"><span>Broncos Training Camp</span></a>
-                                            </span>
-                                    <span class="event-description"><p>Denver Broncos Training Camp at Dove Valley - <a href="http://www.denverbroncos.com/news-and-blogs/article-1/Broncos-announce-2015-training-camp-schedule/60b39e9c-26d3-46b7-b3e4-c6a693b42d63">Training Camp information</a></p></span>
-                                </span>
-                            </li>
-                        <li data-start-time="1438876800000" data-end-time="1438885800000" class="event clearfix  loop-odd ">
-                                <span class="event-date">
-                                    <span class="event-day">Thu., Aug. 06, 2015</span>
-                                    <span class="event-time">
-                                        10:00 AM
-                                                - 12:30 PM MDT</span>
-                                </span>
-                                <span class="event-details">
-                                    <span class="event-type"></span>
-                                    <span class="event-title">
-                                        <a href="http://www.denverbroncos.com/schedule-and-events/event/Broncos-Training-Camp-201508061000/4f94e431-4add-4bbf-b95a-fd47ca735389" title="Broncos Training Camp"><span>Broncos Training Camp</span></a>
-                                            </span>
-                                    <span class="event-description"><p>Denver Broncos Training Camp at Dove Valley - <a href="http://www.denverbroncos.com/news-and-blogs/article-1/Broncos-announce-2015-training-camp-schedule/60b39e9c-26d3-46b7-b3e4-c6a693b42d63">Training Camp information</a></p></span>
-                                </span>
-                            </li>
-                        <li data-start-time="1438963200000" data-end-time="1438972200000" class="event clearfix  loop-even ">
-                                <span class="event-date">
-                                    <span class="event-day">Fri., Aug. 07, 2015</span>
-                                    <span class="event-time">
-                                        10:00 AM
-                                                - 12:30 PM MDT</span>
-                                </span>
-                                <span class="event-details">
-                                    <span class="event-type"></span>
-                                    <span class="event-title">
-                                        <a href="http://www.denverbroncos.com/schedule-and-events/event/Broncos-Training-Camp-201508071000/a1325101-3272-4bec-917d-6fb6693118e2" title="Broncos Training Camp"><span>Broncos Training Camp</span></a>
-                                            </span>
-                                    <span class="event-description"><p>Denver Broncos Training Camp at Dove Valley - <a href="http://www.denverbroncos.com/news-and-blogs/article-1/Broncos-announce-2015-training-camp-schedule/60b39e9c-26d3-46b7-b3e4-c6a693b42d63">Training Camp information</a></p></span>
-                                </span>
-                            </li>
-                        <li data-start-time="1439049600000" data-end-time="1439058600000" class="event clearfix  loop-odd ">
-                                <span class="event-date">
-                                    <span class="event-day">Sat., Aug. 08, 2015</span>
-                                    <span class="event-time">
-                                        10:00 AM
-                                                - 12:30 PM MDT</span>
-                                </span>
-                                <span class="event-details">
-                                    <span class="event-type"></span>
-                                    <span class="event-title">
-                                        <a href="http://www.denverbroncos.com/schedule-and-events/event/Broncos-Training-Camp-201508081000/17b5da61-2ef6-4db5-ba0b-19b72ccdafff" title="Broncos Training Camp"><span>Broncos Training Camp</span></a>
-                                            </span>
-                                    <span class="event-description"><p>Denver Broncos Training Camp at Dove Valley - <a href="http://www.denverbroncos.com/news-and-blogs/article-1/Broncos-announce-2015-training-camp-schedule/60b39e9c-26d3-46b7-b3e4-c6a693b42d63">Training Camp information</a></p></span>
-                                </span>
-                            </li>
-                        <li data-start-time="1439136000000" data-end-time="1439145000000" class="event clearfix  loop-even  loop-last ">
-                                <span class="event-date">
-                                    <span class="event-day">Sun., Aug. 09, 2015</span>
-                                    <span class="event-time">
-                                        10:00 AM
-                                                - 12:30 PM MDT</span>
-                                </span>
-                                <span class="event-details">
-                                    <span class="event-type"></span>
-                                    <span class="event-title">
-                                        <a href="http://www.denverbroncos.com/schedule-and-events/event/Broncos-Training-Camp-201508091000/1303902f-afeb-4953-99c8-95f020e4d793" title="Broncos Training Camp"><span>Broncos Training Camp</span></a>
-                                            </span>
-                                    <span class="event-description"><p>Denver Broncos Training Camp at Dove Valley - <a href="http://www.denverbroncos.com/news-and-blogs/article-1/Broncos-announce-2015-training-camp-schedule/60b39e9c-26d3-46b7-b3e4-c6a693b42d63">Training Camp information</a></p></span>
+                                    <span class="event-description">More information coming soon</span>
                                 </span>
                             </li>
                         </ul>
