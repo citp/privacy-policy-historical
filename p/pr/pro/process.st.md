@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the process.st privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185731id_/http%3A//process.st/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the process.st privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207074113id_/https%3A//process.st/privacy) for the most accurate reproduction.*
 
 # Privacy | Process Street
 
