@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peachmode.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144611id_/http%3A//peachmode.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peachmode.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207214957id_/http%3A//peachmode.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,11 +14,11 @@ This Privacy Policy describes the information, as part of the normal operation o
 
 By accepting the Privacy Policy and the User Agreement in registration and/or the use of the Site in general, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the User Agreement. This Privacy Policy is effective upon acceptance in registration and/or by access by you to the Site.
 
-**Privacy Guarantee**
+ **Privacy Guarantee**
 
 We agree that we will not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. From time to time we may reveal general statistical information about our Site and visitors, such as number of visitors, number and type of goods and services purchased, etc. Only those of our employees who need access to your information in order to perform their duties are allowed such access. Any employee who violates our privacy and/or security policies is subject to disciplinary action, including possible termination and civil and/or criminal prosecution.
 
-**Collection of Information**
+ **Collection of Information**
 
 When you use our Site, we collect and store your personal information from you. Our primary goal in doing so is for the purposes of provisioning our services.
 
@@ -34,7 +34,7 @@ If you choose to post messages on our message boards, chat rooms or other messag
 
 If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you.
 
-**Use of Your Information**
+ **Use of Your Information**
 
 We use your personal information to facilitate the services you request. We use your personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site to: resolve disputes; troubleshoot problems; help promote safe transactions; collect payments owed; measure consumer interest in the services provided by us, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our User Agreement; and as otherwise described to you at the time of collection. At times, we may look across multiple users to identify problems or resolve disputes, and in particular we may examine your personal information to identify users using multiple User IDs or aliases. We may compare and review your personal information for errors, omissions and for accuracy.
 
@@ -44,7 +44,7 @@ Further in an effort to make our Site as effective and enjoyable as possible, th
 
 You agree that we may use your personal information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Site. By accepting the User Agreement and Privacy Policy, you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt out of the receipt of certain communications in your profile. You may make changes to your profile at any time.
 
-**Disclosure of Your Information**
+ **Disclosure of Your Information**
 
 We may also use your information to deliver information to you that, in some cases, are targeted to your interests, such as new services and promotions. We may use various outside agencies (third party service providers) to make our Site operate. For example, we may use third parties to host our Site, operate various features made available on our Site, send emails, analyze data, provide search results and links, and assist in fulfilling your orders. Some of these third parties may need access to your information in order to make the services provided through our Site. Information will only be disclosed to these service providers on a need-to-know basis, and they will only be permitted to use such information for the purpose of providing the particular services provided by such entities in connection with our Site.
 
@@ -52,11 +52,11 @@ We cooperate with law enforcement and regulatory inquiries, as well as other thi
 
 Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose personal information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the Site. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
 
-**Security**
+ **Security**
 
 When you place orders or access your account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you put in before it is sent to us. Furthermore, all of the customer data we collect is protected against unauthorized access. To prevent unauthorized access, maintain data accuracy, and ensure correct use of information, we will employ reasonable security practices and procedures and current Internet security methods and technologies in compliance with Information Technology Act, 2000 and rules made there under.
 
-**Changes in policy**
+ **Changes in policy**
 
 You acknowledge that this Privacy Policy is part of the User Agreement and you unconditionally agree that using this Site signifies your assent to our Privacy Policy. If you do not agree with this Privacy Policy, please do not use our Site. Your visit and any dispute over privacy is subject to this policy and the User Agreement, including limitations on damages. We reserve the right to change the terms of use and this Privacy Policy, at any time. We will post any changes so that you are always aware of our policy. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
 
@@ -70,7 +70,7 @@ Privacy Policy of the Peachmode Facebook app
 This application (hereinafter “Application”) collects some Personal Data from its Users.  
 The Data are collected and processed for the purposes set out below.
 
-**Data Processing Ownership**
+ **Data Processing Ownership**
 
 Types of Data collected  
 The owner does not provide a list of Personal Data types collected.  
@@ -82,30 +82,30 @@ The User assumes responsibility for the Personal Data of third parties published
 
 Mode and place of processing the Data obtained
 
-**Method of Processing**  
+ **Method of Processing**  
 The Data Controller processes the Data of the Interested Parties and Users in a lawful and proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification or unauthorized destruction of the Data. Processing is carried out using computers and / or telematic means, with organizational methods and logics strictly related to the stated purposes.  
 In addition to the owner, in some cases, access to the Data may be available to external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies). The updated list of Managers may be requested from the Owner at any time.
 
-**Place**  
+ **Place**  
 The Data are processed at the headquarters of the Data Controller, unless stated otherwise in the rest of this document.
 
-**Conservation Time**  
+ **Conservation Time**  
 The Data are kept for the time necessary to perform the service requested by the User, and the User can always ask for their suspension or removal.
 
-**The use of the collected Data**
+ **The use of the collected Data**
 
 The Data concerning the User or the Data Subject are collected for the following purposes: Social Applications.  
 The kinds of Personal Data used for each purpose are given in the specific sections of this document.  
 The use of Data for additional purposes by the Owner may in some cases, and for legal purposes, require specific consent by the User or the Data Subject.
 
-**Facebook permissions asked by this app**
+ **Facebook permissions asked by this app**
 
 This Application asks some Facebook permissions allowing it to perform actions with the User's Facebook account and to retrieve information, including Personal Data, from it. For more information about the following permissions, refer to the Facebook permissions documentation and to the Facebook privacy policy.
 
-**Basic information**  
+ **Basic information**  
 By default, this includes certain properties of the User object such as id, name, picture, gender, and their locale. Certain connections of the User object such as the Friends connection are also available. If the user has made more of their data public, more information will be available.
 
-**Email**  
+ **Email**  
 Provides access to the user's primary email address
 
 Publish to the Wall Enables the app to post content, comments, and likes to a user's stream and to the streams of the user's friends.
@@ -122,49 +122,49 @@ By default, this includes certain properties of the User object such as id, name
 Permissions asked: Email and Publish to the Wall.  
 Place of Processing: USA – Privacy Policy
 
-**Additional information about data processing**
+ **Additional information about data processing**
 
-**Legal Protection**  
+ **Legal Protection**  
 The User’s Personal Data may be used for legal purposes by the Owner of the Application in court or in the stages leading to possible legal action arising from its improper use or that of related services by the User.
 
-**Additional Information**  
+ **Additional Information**  
 Specific information may be shown on the pages of the Site concerning particular services or the processing of Data provided by the User or by the Data Subject.
 
-**Maintenance**  
+ **Maintenance**  
 The User’s Personal Data may be further used in ways and for purposes required for Application maintenance.
 
-**System Logs**  
+ **System Logs**  
 For operation and maintenance purposes, this Application and any third party services it uses may collect system logs, i.e., files that record interaction – including navigation. They may also contain personal data, such as IP addresses.
 
-**Information not contained in this policy**  
+ **Information not contained in this policy**  
 More information on processing Personal Information may be requested from the Owner at any time.
 
-**The Rights of Data Subjects**  
+ **The Rights of Data Subjects**  
 Those persons to whom the Data refer have the right, at any time, to know whether their data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Owner of the Processing System.
 
-**Changes to this Privacy Policy**  
+ **Changes to this Privacy Policy**  
 The Application reserves the right to make changes to this Privacy Policy at any time by giving notice to its Users on this page, and by ensuring analogous protection of the Personal Information in all cases. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom.
 
-**Information about this privacy policy**  
+ **Information about this privacy policy**  
 The Data Controller is responsible for this privacy policy, prepared starting from the modules provided by Iubenda and hosted on the Iubenda's servers.
 
-**Personal information or Data**  
+ **Personal information or Data**  
 Any information regarding a natural person, a legal person, an institution or an association, which is, or can be, identified, even indirectly, by reference to any other information, including a personal identification number.
 
-**Browsing and usage Data**  
+ **Browsing and usage Data**  
 Information collected automatically from the Site, including the IP addresses or domain names of the computers utilized by the users who connect to the site, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the visitor, the various time details per visit (e.g., the time spent on each page) and the details about the path followed within the site with special reference to the sequence of pages visited, and other parameters about the operating system and the user's IT environment.
 
-**User**  
+ **User**  
 Means the individual user of the Application’s services or products.
 
-**Data Subject**  
+ **Data Subject**  
 The legal or natural person to whom the Personal Data refer.
 
-**Data Processor**  
+ **Data Processor**  
 The natural person, legal person, public administration or any other organization, association or organization designated by the Data Controller for the Personal Data processing system.
 
-**Data Controller**  
+ **Data Controller**  
 The natural person, legal person, public administration or any other body, association or organization with the right, also jointly with another Data Controller, to make decisions regarding the purposes, and the methods of processing of Personal Data and the means used, including the security measures concerning the operation and use of this Site.
 
-**Legal information**  
+ **Legal information**  
 Notice to European Users: this privacy statement has been prepared in fulfillment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of Cookies. This privacy policy exclusively regards this Application.
