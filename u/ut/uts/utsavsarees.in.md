@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utsavsarees.in privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627060904id_/http%3A//www.utsavfashion.in/help/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utsavsarees.in privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207174135id_/http%3A//www.utsavfashion.in/help/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacypolicy - Utsavfashion.in - Specialized in Indian clothing for Designer Bridal Sarees, Embroidered Lehengas, Fancy Salwar Kameez and lot more at affordable prices
 
