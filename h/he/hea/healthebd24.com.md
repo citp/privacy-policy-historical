@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthebd24.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608095431id_/http%3A//healthebd24.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthebd24.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207031454id_/http%3A//healthebd24.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Page of healthebd24.com | HealthEbd 24
 
