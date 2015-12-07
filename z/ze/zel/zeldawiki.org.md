@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeldawiki.org privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509011922id_/http%3A//zeldawiki.org/Zelda_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeldawiki.org privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208002156id_/http%3A//zeldawiki.org/Zelda_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # Zelda Wiki:Privacy policy - Zelda Wiki
 
