@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myemoticons.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607043354id_/http%3A//www.myemoticons.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myemoticons.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207022003id_/http%3A//www.myemoticons.com/privacy.html) for the most accurate reproduction.*
 
 # FREE emoticons & smileys NEW from My Emoticons.com - express free emotions
 
