@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the manonthelam.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002625id_/http%3A//manonthelam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manonthelam.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207152336id_/http%3A//manonthelam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Man On The Lam | Travel & Lifestyle Blog
 
-[](http://manonthelam.com/wp-content/uploads/2012/11/Man-On-The-Lam-Privacy-Policy.jpg?682f7e)
+[](http://i2.wp.com/manonthelam.com/wp-content/uploads/2012/11/Man-On-The-Lam-Privacy-Policy.jpg)
 
 ## Your Privacy
 
