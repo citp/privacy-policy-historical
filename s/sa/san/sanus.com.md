@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanus.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628062313id_/http%3A//www.sanus.com/en_US/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanus.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207025734id_/http%3A//www.sanus.com/en_US/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SANUS
 
@@ -36,4 +36,4 @@ The terms of this policy will govern the use and any information collected while
 
 ### Questions
 
-For any questions or comments regarding SANUS' Privacy Policy or website, please [contact us](https://web.archive.org/en_us/contact/).
+For any questions or comments regarding SANUS' Privacy Policy or website, please [contact us](https://web.archive.org/en_US/contact/).
