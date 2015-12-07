@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobcentral.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607124357id_/http%3A//us.jobs/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobcentral.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207123428id_/http%3A//us.jobs/privacystatement.asp) for the most accurate reproduction.*
 
 # Privacy Policy | US.jobs
 
@@ -8,7 +8,7 @@ There are several opportunities on our web site for you to provide us with perso
 
 Resume Database
 
-US.jobs provides a resume database for the convenience of job seekers and member companies as well as non-member companies and individuals who are charged a nominal fee to access the resumes. Neither US.jobs nor any other career site on the Internet can assure you that the information on your resume will not be collected and shared with others. US.jobs has a standard "[Terms and Conditions of Service](https://web.archive.org/web/20150607124357id_/http%3A//us.jobs/terms.asp "US.jobs Terms and Conditions of Service")" policy which governs the use of information, including resumes, obtained from the US.jobs site. Be aware that such "terms and conditions of use", although valid and enforceable, do not protect your resume from being collected and distributed in a manner you may not desire.
+US.jobs provides a resume database for the convenience of job seekers and member companies as well as non-member companies and individuals who are charged a nominal fee to access the resumes. Neither US.jobs nor any other career site on the Internet can assure you that the information on your resume will not be collected and shared with others. US.jobs has a standard "[Terms and Conditions of Service](https://web.archive.org/web/20151207123428id_/http%3A//us.jobs/terms.asp "US.jobs Terms and Conditions of Service")" policy which governs the use of information, including resumes, obtained from the US.jobs site. Be aware that such "terms and conditions of use", although valid and enforceable, do not protect your resume from being collected and distributed in a manner you may not desire.
 
 Non-Personal Information
 
