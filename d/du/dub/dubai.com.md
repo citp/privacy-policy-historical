@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubai.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608134102id_/http%3A//www.dubai.com/booking/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubai.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207153958id_/http%3A//www.dubai.com/booking/privacy_policy) for the most accurate reproduction.*
 
 # Dubai Holidays, Dubai Hotels - Dubai Travel and City Information
 
@@ -36,11 +36,11 @@ If you tick an opt-in box the Administrators will provide your information to se
 
   * 9\. Use of Cookies 
 
-This website uses cookies. Cookies are small pieces of text that are written to your hard drive to store information about your use of the DUBAI.COM Website Service. You have the right to refuse cookies (please see your web browser's help file for information on doing this), but by doing so you may disrupt the performance of the [](http://www./) Website Service or make it inoperable to you.
+This website uses cookies. Cookies are small pieces of text that are written to your hard drive to store information about your use of the DUBAI.COM Website Service. You have the right to refuse cookies (please see your web browser's help file for information on doing this), but by doing so you may disrupt the performance of the DUBAI.COM Website Service or make it inoperable to you.
 
   * 10\. Suppliers 
 
-[](http://www./) provides information about travel either reserved or purchased on this website to the suppliers whose will fulfill your travel reservation. Although we offers travel products from hotel, airline, car rental and other suppliers that are reputable companies, we have not placed limitations on these suppliers from using or disclosing your information without your permission. Therefore, we encourage you to review the information privacy practices of any travel suppliers whose products you purchase on this website. In addition, these travel suppliers may also contact you as necessary to obtain additional information about your confirmed reservation. [](http://www./) will occasionally share aggregated information with our service providers. This information does not contain any personally identifiable information and is used to develop featured programs and content that will be of interest to our website visitors.
+DUBAI.COM provides information about travel either reserved or purchased on this website to the suppliers whose will fulfill your travel reservation. Although we offers travel products from hotel, airline, car rental and other suppliers that are reputable companies, we have not placed limitations on these suppliers from using or disclosing your information without your permission. Therefore, we encourage you to review the information privacy practices of any travel suppliers whose products you purchase on this website. In addition, these travel suppliers may also contact you as necessary to obtain additional information about your confirmed reservation. DUBAI.COM will occasionally share aggregated information with our service providers. This information does not contain any personally identifiable information and is used to develop featured programs and content that will be of interest to our website visitors.
 
 
 
