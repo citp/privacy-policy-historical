@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the goptions.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608054900id_/http%3A//www.goptions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goptions.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207102515id_/http%3A//www.goptions.com/privacy-policy) for the most accurate reproduction.*
 
-# Goptions.com - Binary Options Trading | Privacy Policy
+# Privacy Policy | Goptions.com
 
 **GOptions does its utmost to ensure the privacy, confidentiality and security of its clients are preserved both throughout their interaction with the company and afterwards, to the fullest extent achievable by the company.**
 
-1\. When clients register with GOptions they acknowledge their willingness to share with the company certain private information which we use for the purpose of confirming the client’s identity and ensuring the security of their deposits and trading account. This information is collected in line with our stringent verification procedures which are used to deter international money laundering operations and to ensure the security and safety of our customer’s trading activity throughout.
+1\. When clients register with **[GOptions](http://www.goptions.com/)** they acknowledge their willingness to share with the company certain private information which we use for the purpose of confirming the client’s identity and ensuring the security of their deposits and trading account. This information is collected in line with our stringent verification procedures which are used to deter international money laundering operations and to ensure the security and safety of our customer’s trading activity throughout.
 
 2\. Our clients undertake to supply us with true, updated and accurate information about their identity. Furthermore  they are required to state categorically that they are registering and trading on their own behalf and are not seeking at any time to act any manner which could be considered fraudulent nor are they seeking to impersonate any other individuals for any purposes whatsoever.
 
