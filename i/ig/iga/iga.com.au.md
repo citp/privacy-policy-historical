@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iga.com.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607233726id_/http%3A//www.iga.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iga.com.au privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207133354id_/http%3A//www.iga.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | IGA Australia
 
@@ -101,9 +101,7 @@ We will promptly acknowledge and investigate any complaint about the way we mana
 
 Cookies
 
-The Metcash websites use cookies to track user traffic patterns and to better serve you when you revisit a website. A cookie is a small data file that a website may write to your hard drive when you visit it. A cookie file can contain information, such as a user ID which the website uses to track the pages you have visited. You can refuse all cookies by turning them off in your browser. However, full functionality for the Metcash websites
-
-requires the use of cookies.
+The Metcash websites use cookies to track user traffic patterns and to better serve you when you revisit a website. A cookie is a small data file that a website may write to your hard drive when you visit it. A cookie file can contain information, such as a user ID which the website uses to track the pages you have visited. You can refuse all cookies by turning them off in your browser. However, full functionality for the Metcash websites requires the use of cookies.
 
 Information is also generated whenever a page is accessed on a Metcash website that records information such as the time, date and specific page. We collect such information for statistical and maintenance purposes that enables us to continually evaluate our website performance.
 
@@ -112,7 +110,7 @@ How to contact Metcash or make a complaint
 If you have any questions about this Privacy Policy, if you wish to update information we hold about you or if you wish to make a complaint about our collection, use or disclosure of your personal information under this Privacy Policy, please contact:
 
 The Privacy Officer  
-Metcash Limited 50 Waterloo Road  
+Metcash Limited 1 Thomas Holt Drive  
 Macquarie Park NSW 2113 Fax: (02) 9741 3027  
 E-mail: privacy@metcash.com
 
