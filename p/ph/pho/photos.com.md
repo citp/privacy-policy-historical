@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photos.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609000233id_/http%3A//www.photos.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photos.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207020739id_/http%3A//www.photos.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Photos.com
 
@@ -40,11 +40,11 @@ We reserve the right to disclose your personal information if required to do so 
 
 ###### Accessing your personal information
 
-If you would like to review or revise information that you previously provided to us, you may access your information in the “My Account” section of the website. Our customer service department can also assist you in making any changes, as well as in exercising your right to have your personal information deleted. If you need additional assistance, please contact us at [help@photos.com](mailto:help@photos.com). You can expect a response from us within 10 calendar days. Please be advised that you cannot change your username without re-registering. 
+If you would like to review or revise information that you previously provided to us, you may access your information in the “My Account” section of the website. Our customer service department can also assist you in making any changes, as well as in exercising your right to have your personal information deleted. If you need additional assistance, please contact using our [contact form](https://web.archive.org/contact.html). You can expect a response from us within 10 calendar days. Please be advised that you cannot change your username without re-registering. 
 
 ###### Personal information preferences
 
-Photos.com respects your right to make choices about the use and disclosure of your personal information. If at any time you decide that you do not want to receive marketing emails from us, please let us know by: (1) ticking or unticking the appropriate box on your online registration form or the “Personal Information” page under My Account on the website; or (2) sending an email to [help@photos.com](mailto:help@photos.com). 
+Photos.com respects your right to make choices about the use and disclosure of your personal information. If at any time you decide that you do not want to receive marketing emails from us, please let us know by: (1) ticking or unticking the appropriate box on your online registration form or the “Personal Information” page under My Account on the website; or (2) by using our [contact form](https://web.archive.org/contact.html). 
 
 If you choose not to receive marketing emails, please be advised that you may continue to receive transactional or account emails (e.g., purchase confirmations and account balance statements). 
 
@@ -90,7 +90,7 @@ If a password is used to protect your account and personal information, it is yo
 
 ###### Forums & other interactive services
 
-Our websites may include discussion forums or other interactive areas or services, including blogs, chat rooms, bulletin boards, message boards, online hosting or storage services, or other areas or services in which you or third parties create, post or store any content, messages, comments, materials or other items on the sites (“Interactive Areas”). If you use an Interactive Area, you should be aware that these areas are open to the public and any personal information you post or provide at registration may be viewable by others. We are not responsible for personal information you submit in connection with the Interactive Areas, nor are we responsible for how others might use that information, including to send you unsolicited messages. Interactive Area postings may be retained indefinitely. If at any time you would like to remove a posting, please email us at [help@photos.com](mailto:help@photos.com). Keep in mind that removal of a posting from an Interactive Area does not mean that the posting will be deleted from our systems. 
+Our websites may include discussion forums or other interactive areas or services, including blogs, chat rooms, bulletin boards, message boards, online hosting or storage services, or other areas or services in which you or third parties create, post or store any content, messages, comments, materials or other items on the sites (“Interactive Areas”). If you use an Interactive Area, you should be aware that these areas are open to the public and any personal information you post or provide at registration may be viewable by others. We are not responsible for personal information you submit in connection with the Interactive Areas, nor are we responsible for how others might use that information, including to send you unsolicited messages. Interactive Area postings may be retained indefinitely. If at any time you would like to remove a posting, please contact us via our [contact form](https://web.archive.org/contact.html). Keep in mind that removal of a posting from an Interactive Area does not mean that the posting will be deleted from our systems. 
 
 ###### Email referrals
 
@@ -114,5 +114,5 @@ We reserve the right to change the terms of this privacy policy at any time. Whe
 
 ###### Contact information
 
-You can contact Photos.com customer service by emailing [help@photos.com](mailto:help@photos.com), or by phone at 1-844-8-PHOTOS (1-844-874-6867), or by post at Photos.com, c/o New Era Portfolio, 2101 East Saint Elmo Rd. #110, Austin, TX 78744 United States.  
+You can contact Photos.com customer service by using our [contact form](https://web.archive.org/contact.html), or by phone at 1-844-8-PHOTOS (1-844-874-6867).  
 © 1999-2014 Getty Images, Inc. All rights reserved. Privacy Policy. 
