@@ -1,172 +1,133 @@
-> *The following text is extracted and transformed from the nutritionaloutlook.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629083922id_/http%3A//www.ubmcanon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritionaloutlook.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207131227id_/http%3A//imaging.cmpmedica.com/all/UBMMedica_Privacy_Statement.html) for the most accurate reproduction.*
 
-# Privacy Policy · UBM Canon
+# PRIVACY STATEMENT UBM MEDICA LLC
 
-Effective: November 22, 2013
+**PRIVACY STATEMENT** **  
+****UBM MEDICA LLC  
+**_Effective: June 11, 2012_
 
-### Scope
+UBM Medica LLC ("UBM Medica") offers conferences, medical information, and related offerings to medical professionals. We publish this privacy policy to let you know what data we collect about you as an individual professional, how we use that data, and what choices you have. 
 
-Welcome to UBM Canon LLC (“UBM Canon” or “we”). 
+This privacy policy covers all "personal" data we collect about you from face to face and virtual conferences and meetings, websites, email campaigns, and print publications. "Personal" data means data which identifies you as an individual and reflects your individual use of our products and services. It is data about you as a medical professional. Please note that a separate privacy policy covers our websites directed to consumers. If you are uncertain about which privacy policy applies to a particular website or web page, consult the privacy link at the bottom of the web page.
 
-UBM Canon is the leading B2B media company dedicated exclusively to the global advanced manufacturing sector, a $3.0 trillion business. We create face to face events and premier business and professional content and offer people in our business and professional communities a number of ways to connect directly with one another. We support the flow of information, commerce and innovation in such sophisticated segments as medical devices and pharmaceutical development. We address cutting edge developments in the broader areas of advanced engineering design and manufacturing, manufacturing processes and packaging. We help you succeed in an advanced, technology driven manufacturing world. 
+Please note that you may choose to publish your personal information and your views in various of our online venues, for example, online communities, forums or virtual events. This Policy does not protect your public disclosures.
 
-We publish this Privacy Policy to let you know how we collect and use data about you as individuals in your business and professional roles and to describe what choices you have.
+**Information We Collect About You** **  
+** We collect the following data about you:
 
-This Privacy Policy covers information which you give us about yourself in a business or professional role as you 
+  * Information you give us about yourself, including data about your professional credentials and practice, when you register for or subscribe to any of our events, services or resources, register with us through a UBM Medica Network site or contact us directly. We may use medical or other databases to update or complete certain information about you. 
+  * If you are a medical doctor, we may ask the American Medical Association to verify your medical credentials. For more information about the AMA's own privacy practices, please click <http://www.ama-assn.org/ama/pub/footer/privacy-policy.shtml>. 
+  * Once you register we create an account for you, adding data about how you use and interact with our events, products, services, resources and email campaigns. 
 
-  * register for or attend our face to face events that take place in the United States;
-  * subscribe to any of our print publications distributed around the world, access digital editions of those publications, or sign up for webinars or online venues offered to subscribers; or
-  * use one of our mobile apps.
 
 
+We also use common Internet data collection technologies to collect data: We use "cookies" and associated web beacons. A cookie is simply a piece of code which is placed on your personal computer to recognize the computer as it accesses our websites. Many cookies are not "personal" cookies in that they are not associated with you as an identified individual. 
 
-We will post or display a link to this UBM Canon LLC Privacy Policy on all our forms and all online pages to which it is applicable.
+  * We recognize or verify who is accessing our websites or content areas that require registration and so, may place "personal" cookies on your pc. We may also use this cookie to understand your interests and put you in touch with third parties that we expect will have additional information relevant to your interests. 
+  * Some but not all of our websites include online advertising. Cookies are also used to serve such advertising or content. We may display ads on our own sites on a personally identifiable basis. We allow other companies, called third party ad servers, to serve ads that appear on our sites as well. Please see the information under ["Your Choices"](http://imaging.ubmmedica.com/all/UBMMedica_Privacy_Statement.html#choices) for details about online advertising. 
 
-### Information That Identifies You
 
-We rely on the information you provide to us as you register, contact us, participate in surveys, post comments to public areas of and interact with digital properties and assets, respond to email campaigns, participate in webinars or online events or attend face to face events. 
 
-Once you have registered with us, we will create a profile for you. We will add information about how you interact with our offerings for example, your registrations or subscriptions, the events you attend, the content you access and the like. We may also add information to your profile from external sources.
+Finally, we collect log data, including IP, or Internet Protocol, addresses used to access our websites, and other routine information about your browser and pc capabilities. We use this data to administer our systems. We or third party ad servers may use the information to limit the number of times you see a particular ad, to target information or ads on a geographic basis or to display ads in the format best matched to your pc's capabilities. We do not associate this log and technical capabilities data with your account in the routine course of our business.
 
-We may work to expand our communities by acquiring names and contact details from other sources that have compiled contact information. This information might be public information or data you provided to others with necessary permissions. We may also invite you to join our communities via third party social and professional networking sites.
+**How We Use Information About You** **  
+** Our primary business is to organize events and communities and provide respected information for medical professionals. We use data about you as an individual medical professional to:
 
-### Automatic Data Collection Technologies
+  * Provide the events, services, and resources you request and manage your account. 
+  * Manage the services, particularly registration for certain websites, that require us to know who you are when you are online. 
+  * Display or deliver content, ours and other companies’, to you based on your professional needs and interests. 
+  * Contact you by email and postal mail about offerings from our business partners directed to your professional interests and areas of specialization. Please note that these emails may list either us or the partner in the "from" line. In either case, your name and contact information are not disclosed to the partner unless and until you contact or respond to the partner directly. 
+  * Invite you to participate in surveys and professional discussions. 
+  * Virtual Trade Shows: The platforms that UBM Medica uses to provide virtual trade shows will place a session cookie on your personal computer when you register for the event. We connect this session cookie with the registration information you provide to us for the event. The cookie is used to manage participation in the event, for certain other purposes, including if you choose to participate in our contests, and to track your visits if you choose to visit exhibitors’ booths or special sponsored sessions. If you disable or delete the session cookie, you will be bounced from the event. UBM Medica may also pass your registration data to any exhibitor if you visit that exhibitor's booth or sponsored section. 
+  * To offer you the opportunity to connect with your colleagues and with other companies that may be of interest to you. 
+  * Any other purpose which we disclose when you give the information to us. 
 
-We also use cookies and common data collection technologies, including web beacons and clear GIFs associated with cookies, on our web pages, in newsletters, and in our email campaigns to collect information both on an aggregate and individual basis. 
 
-Some of our web sites use Adobe Flash to provide video content, and the Adobe Flash Player has the ability to separately store information about that particular Flash application. We do not associate this Adobe Flash stored information with you as an individual. Please see the [Adobe Flash Player Help](http://helpx.adobe.com/flash-player.html) page for additional information about controlling the settings of the Adobe Flash Player on your computer.
 
-We gather date, time, certain information about a user’s browser and system or device configuration and capabilities, navigation history and IP address for all visitors to our web sites. We use this information for our internal security audit log, for trend analysis and system administration and to gather broad information about our audiences and their geographic locations.
+**Your Choices**  
+You have a choice about and control over
 
-Please see More Information About Cookies, below, for additional details about how we use cookies that identify you, which third party advertisers and advertising networks we allow to serve third party advertising displayed on our sites or to display our ads to you once you have left our web pages and how to control cookies or their use for serving targeted advertising.
+**Connecting directly with other companies for marketing purposes.  ** **  
+** In addition to providing you with our own editorial content, we offer you the opportunity to access others’ branded content and product information. When you choose to take advantage of that content or information, you choose to have your name and contact details transferred to that other company. We will put you in direct contact with other companies when you choose to:
 
-Our apps may gather information about the mobile device that you use to access content or your behavior at one of our face to face events.
+  * Access sponsored or co-sponsored content on those portions of our web sites that require registration. 
+  * Register for a specific web cast, online event, newsletter, online resource, or other offering which is sponsored or co-sponsored by another company. 
+  * Register for a virtual event with a number of exhibitors. We may give your name and contact details to all exhibitors and give the exhibitors whose booths and resources you access a record of your visits. 
+  * Register for or attend a special sponsored sessions at a face to face event. 
 
-### How We Use Information That Identifies You
 
-We use information about you:
 
-  * to provide the services, publications, and information you request and to manage your account with us.
-  * to deliver or display content that matches your professional interests and responsibilities.
-  * to contact you with information about and invitations for products and services – ours and other companies’ – directed to your professional interests and responsibilities.
-  * to offer you opportunities to connect directly with your peers and with sellers of technology that may be of interest to you. 
-  * to give suppliers in our communities a limited opportunity to find you: We make contact data, including email addresses, available in a subscription-only data base for our exhibitors and sponsors. If you wish to find out whether contact information about you is in this data base or to have data removed, please email us at [canonprivacyrequests@ubm.com](mailto:canonprivacyrequests@ubm.com).
-  * for any other purpose that we tell you about when you give us the information.
+Please note:  Sponsors may ask us to display their ads targeted to you on our web sites. In those instances, you may choose whether to respond by clicking on the link within the ad. Clicking on that link will connect you directly to the sponsor’s web pages and information.  
+Please note: career fairs, whether face to face or online, may be covered by a separate policy or policies.
 
+**Making information you provide public.    **
 
+  * Our online event venues also require that you register and allow you to have both public and closed communications with exhibitors and other participants. Information that identifies you will be published or shared according to your choices for that venue. 
+  * We create online membership communities that allow you to publish your profile and post information and content. These communities provide privacy controls so that you can control how much of your profile and other information to make public or to share with others within the community. As a professional, you remain responsible for locating the privacy controls (usually available on the page from which you can edit your profile), understanding how those controls, including default settings, work and protecting the information you provide. Your profile will remain visible to the community unless and until you withdraw from the community AND contact the community’s HELP desk to request that your profile be hidden.
 
-### Your Choices
 
-You have choices about:
 
-**Receiving email marketing messages from us.**
+**Receiving email marketing messages from us.   **  
+To remove your name from our email marketing lists, please follow the directions at the bottom of the email.
 
-You may opt out of our email marketing lists by following the directions at the bottom of our promotional emails. 
+**Whether your account information is up to date.** **  
+**  Please help us keep your account current. 
 
-To avoid confusion, please note that 
+  * You may update your name, contact information, credentials, and specializations at any time by 
+    * submitting updated information as you register for something you have not used before, 
+    * returning to a registration page you have used and following the directions there, or 
+    * sending us an email at [user.registration@cmpmedica.com](mailto:user.registration@cmpmedica.com "mailto:user.registration@cmpmedica.com"). 
+  * To cancel or update subscriptions to print publications call the number listed in the magazine or check the website associated with the publication. 
 
-  * We have a number of brands and products and allow you to opt out selectively. To remove a specific email address from all email marketing from UBM Canon LLC, you may send a request to [canonprivacyrequests@ubm.com](mailto:canonprivacyrequests@ubm.com).
-  * Affiliated companies within the UBM plc group, see [www.ubm.com](http://www.ubm.com/), use Canon brands to offer face to face events and digital offerings outside of the United States. These affiliates may publish separate privacy policies and so, collect and use data about you in other ways If you wish to remove your email address from another UBM affiliate’s list, kindly use the unsubscribe mechanism provided in emails you receive from that affiliate or contact that affiliate directly. 
-  * You may receive email marketing messages from us about other companies’ offerings as part of a partner marketing program. To opt out of a partner marketing email program, you may follow the instructions at the bottom of any email we send you as part of the program.
 
 
+**Deleting or disabling cookies**.   
+ To delete or disable cookies: 
 
-**Connecting directly with other companies for marketing purposes at our face to face events.**
+  * You may use the tools in your Internet browser to delete cookies, ours as well as any other company's, at any time. 
+  * However, we will not be able to offer you online events or career fairs unless you accept personal cookies for the duration of your time within the event or fair. 
+  * You have a choice to accept our "persistent" cookies which are set if you choose automatic recognition for registration-only websites. If you disable that cookie for any particular registration-only site, you may still access that site but will need to enter your name and password each time. 
 
-  * Sponsors of our face to face events receive the name, title and company of the people who register for the event.
-  * If you attend a special sponsored session at an event or sponsored conference, we will collect your full registration details on behalf of the sponsor(s) and provide the information to the sponsor.
-  * You otherwise control when to provide information, including your email address, to exhibitors or any third party at a face to face event. Please note, exhibitors may use equipment to scan that information from your badge, with your consent or participation. The badges cannot be read at a distance.
 
 
+Some but not all of our websites include online ads served by third parties. We do not control the cookies that other companies and their third party ad servers use to display ads to you on our websites. 
 
-**Connecting directly with other companies for marketing purposes in the digital world.**
+  * We currently allow the following third party ad servers to place those ads: DoubleClick ([www.doubleclick.com/privacy/index.aspx](http://www.doubleclick.com/privacy/index.aspx)), Atlas ([www.atlassolutions.com/privacy.aspx](http://www.atlassolutions.com/privacy.aspx)), MediaPlex ([www.mediaplex.com/mojo_privacy_statement.shtml](http://www.mediaplex.com/mojo_privacy_statement.shtml)), Pointroll ([www.pointroll.com/privacy-policy.aspx](http://www.pointroll.com/privacy-policy.aspx)), Eyeblaster ([www.eyeblaster.com/Content.aspx?page=privacy_policy](http://www.eyeblaster.com/Content.aspx?page=privacy_policy)), and Bizo ([www.bizo.com/business_audience/privacy_policy](http://www.bizo.com/business_audience/privacy_policy)). Please visit their websites for more information about the technologies they use, their privacy practices, and the choices each offers. 
+  * Many of the third party ad serving companies that serve ads to our websites are members of the Network Advertising Initiative (<http://www.networkadvertising.org/>). The NAI offers useful information and a single place to turn off ad serving from all its members. 
 
-  * Your registration for digital events. We create specific online resources, for example, webinars or special digital editions, for vendors in our market sectors. If you register for one of these vendor branded (or co-branded with us) resources, we will collect your registration information on behalf of the vendor for that vendor’s own use. We may also keep a copy of that data as well. We will usually provide a link to the vendor’s privacy policy (as well as to this Privacy Policy) on the registration page.
-  * Your interests. We put you in touch with third parties when your behavior at a digital event or online indicates that you may be interested in a vendor’s offerings. In addition to providing you with our own editorial content, we offer you the opportunity to access others’ branded content and expertise. When you choose to take advantage of that content or expertise, you choose to have your name and contact details transferred directly to that other company so that they may contact you. We will put you in direct contact with another company or companies when you choose to: 
-    1. Access third party resources in certain registration only, or “gated” resource centers or directory services. If you log on and either access or click on a link to technical resources provided or sponsored by another company, we will provide your contact data to that company.
-    2. Subscribe to our vendor email newsletters and click on a vendor’s information and offerings.
-    3. As you attend a virtual event, we may give your name and contact data plus a record of your visits to the exhibitor(s) whose booth and resources you access.
 
 
+Online advertising technologies and practices, including behavioral advertising, are evolving. We may add to this list of third party servers from time to time without changing the effective date on this policy. Please check here periodically.
 
-If you want to know how a vendor or advertiser will use data about you, we urge you to check that vendor’s or advertiser’s privacy policy.
+**Disclosure of Information About You**  
+We do not otherwise disclose information about you to others except:
 
-We will use one or more cookies to track your interests in the digital resources listed above. Your registration for and log on to any of the above specific, gated activities will constitute you consent to be tracked as described and to be put in touch directly with any vendors you select. If you wish to withdraw that consent, simply do not attend the event or access the resources. 
+  * to publish the names of speakers and attendees at our face to face events, 
+  * to investigate potential unauthorized access or misuse of our services, 
+  * to protect our assets or rights, 
+  * in response to valid legal process, 
+  * to vendors that process data on our behalf, or 
+  * as part of a merger or an acquisition by or other transfer to a third party of some or all of our business assets. 
 
-**Making information you provide public.**
 
-  * We offer web sites that allow you to publish content. Many of these sites require that you register if you wish to do so. We will publish the user name you provide at registration when you comment. Some sites allow you to create a public profile as well.
-  * Our online event venues also allow you to have both public and closed communications with exhibitors and other participants. Information that identifies you will be published or shared according to your choices in that venue.
-  * In addition, we may create online membership communities that allow you to create and publish your profile and other information. These communities may provide privacy controls which allow you to choose how much of your profile and other information to make public or to share with others within the community. As a professional, you remain responsible for locating the privacy controls (usually available on the page from which you can edit your profile), understanding how those controls, including default settings, work and protecting the information you provide. 
-  * Some of our apps allow you to publish information available to others who are also using the same app, for example, at a face to face event. We recommend that you understand how the app will work, what access it may have to your social media or other accounts, and what choices you may have.
 
+**Children Under 13** **  
+** Our services are directed to medical professionals or, in the case of SearchMedica, adults with a need to research professional-level medical literature. Our websites and services are not intended for children 13 or under. 
 
+**Security**   
+We use reasonable administrative, technical, and physical safeguards to protect personal information against theft, loss, or misuse. Unfortunately, no data transmission over the Internet or storage can be guaranteed to be 100 percent secure. As a result, while we strive to protect information about you and your professional interests, we cannot ensure or warrant the security of any information you submit to us, and you do so at your own risk. You remain responsible for protecting your user name and passwords and for the security of information in transit to us over the Internet.
 
-**Keeping your account information is up to date.**
+**Changes to This Policy**   
+We may change the provisions of this policy from time to time and urge you to check back here periodically. Your continued use of any of the websites or pages within the scope of this policy will be your acceptance of the version of the policy in place at the time of your visit.
 
-Please help us keep your account information up to date. To contact us about a print subscription, or to cancel the subscription, please check the UBM Canon LLC information (the “masthead”) inside the print publication. You may update most online registrations by consulting the particular web site itself or visiting a preference page after you have logged on to the site.
+**Contact Us**   
+If you have questions about this policy or its use, please contact us at 
 
-### More Information About Cookies
+_[privacyrequests@ubm.com](mailto:privacyrequests@ubm.com)_
 
-**Our cookies.**
+. 
 
-We place cookies that identify you, or allow third parties to do so on our behalf, for the following purposes:
-
-  * to recognize you automatically when you return to a gated community.
-  * to understand your interests in content, both our own content and that of other companies, on or across our web sites.
-  * to control access to gated online events including webinars and virtual events.
-  * to make an automated record of your interests within a digital property.
-  * to manage and follow up on email campaigns.
-
-
-
-You may use the tools in your browser to decline, disable, or delete any cookies. 
-
-You will still be able to log on to a gated digital property if you decline or delete the persistent cookie that enables automatic recognition but you will need to log on each time. 
-
-**Third party advertising cookies.**
-
-We allow other companies, called third party ad servers, to serve ads on our digital properties. We currently allow the following companies to do so: 
-
-  * [Atlas](http://atlassolutions.com/privacy-policy)
-  * [Google’s DoubleClick](https://support.google.com/dfp_premium/answer/2839090?hl=en), and 
-  * [MediaPlex](http://www.mediaplex.com/opt-out). 
-
-
-
-We recommend that you click on the links we have provided here to visit each of their web sites for more information about the technologies they use and their privacy practices, including your ability to block their cookies or ad targeting. Please note that we do not control cookies and other data collection technologies that the ad servers may allow or that their advertisers may use.
-
-Each of the third party ad serving companies that serve ads to our web sites is a member of the [Network Advertising Initiative](http://www.networkadvertising.org/about-nai), [www.networkadvertising.org](http://www.networkadvertising.org/). The NAI offers useful information about ad networks and a single place to turn off targeted ad serving from any of its members.
-
-We may add or change the list of third party ad servers from time to time without changing the effective date of this Policy itself. We urge you to check this section for changes regularly.
-
-### Disclosure of Information About You
-
-We reserve the right to disclose or transfer information about you to third parties in certain circumstances: to vendors that work on our behalf, to law enforcement or other entities that present valid legal process, to protect human safety or our networks or property, or as part of a sale or our merger of business assets.
-
-### Other Important Information
-
-UBM Canon LLC is a subsidiary of UBM plc. We may collect and process information on servers around the world.
-
-We use reasonable administrative, technical, and physical safeguards to protect personal information against theft, loss, or misuse. Unfortunately, no data transmission over the Internet or storage can be guaranteed to be 100 percent secure. As a result, while we strive to protect information about you and your professional interests, we cannot ensure or warrant the security of any information you submit to us. You remain responsible for protecting your user name and passwords and for the security of information in transit to us over the Internet.
-
-This Privacy Policy covers how we use information you provide. We cannot control how others may use information you may make public on our sites, for example, on professional networking sites or sites inviting user-generated content, in forums, at virtual events, or user-generated blogs.
-
-Please note that virtual events may mimic face to face events by automatically displaying information about you to other participants in the event. We cannot control how other participants use that displayed information, so please take a moment to make sure you understand how a particular virtual event works and what choices you have within the environment.
-
-Our products, services, events and offerings are directed to professionals. They are not intended for children under the age of thirteen. 
-
-### Changes
-
-We will post and date any changes to this Privacy Policy. Please check here periodically. Your continued use of our products and services covered by this Policy constitutes your consent to the practices in place at the time of your use.
-
-### How to Contact Us
-
-For questions about this Privacy Policy, please contact:
-
-[canonprivacyrequests@ubm.com](mailto:canonprivacyrequests@ubm.com) or 
-
-UBM Canon LLC  
-Attn: UBM Legal  
-240 West 35th Street, 8th Floor  
-New York, New York, 10001
+UBM Medica LLC  
+General Counsel  
+150 West 30th Street 20th Floor   
+New York, NY 10001
