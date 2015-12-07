@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the checkoutmycards.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031065340id_/http%3A//www.comc.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkoutmycards.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207102621id_/http%3A//www.comc.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - COMC Online Marketplace
+# Privacy Policy - COMC Card Marketplace
 
 Your privacy is important, so we have created the following Privacy Policy to let you know what information we request when you order from us, and how it is used. It is your responsibility to review this Privacy Policy and remain informed about it. 
 
