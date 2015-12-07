@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mnet.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607232913id_/http%3A//www.mnetamerica.com/user/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mnet.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207025204id_/http%3A//www.mnetamerica.com/user/policy) for the most accurate reproduction.*
 
 # MNET AMERICA
 
 This website, which is located at the domain [www.mnetamerica.com](http://www.mnetamerica.com/) (the “Site”), is operated by **ImaginAsian Entertainment, Inc**. and its affiliates (“Mnet,” “Company,” “we,” “our,” or “us”). 
 
-We understand the importance of protecting your Personal Information (as defined below). This Privacy Policy describes the types of information we collect from you and how we collect, use, and share such information. Please read this Privacy Policy carefully before providing any of your Personal Information through the Site. Any capitalized terms used in this Privacy Policy that are not defined herein shall have the same meaning given to such terms in our [Terms of Use](https://web.archive.org/web/20150607232913id_/http%3A//www.mnetamerica.com/user/terms).
+We understand the importance of protecting your Personal Information (as defined below). This Privacy Policy describes the types of information we collect from you and how we collect, use, and share such information. Please read this Privacy Policy carefully before providing any of your Personal Information through the Site. Any capitalized terms used in this Privacy Policy that are not defined herein shall have the same meaning given to such terms in our [Terms of Use](https://web.archive.org/web/20151207025204id_/http%3A//www.mnetamerica.com/user/terms).
 
 ## TYPES OF INFORMATION WE COLLECT
 
@@ -41,7 +41,7 @@ The Company will collect, store and use your Personal Information for the purpos
   * To authenticate or verify your identity;
   * To identify and suggest products or services;
   * To deliver and targeted advertising that you may find useful, relevant, valuable, or otherwise of interest to you;
-  * To enforce our [Terms of Use](https://web.archive.org/web/20150607232913id_/http%3A//www.mnetamerica.com/user/terms);
+  * To enforce our [Terms of Use](https://web.archive.org/web/20151207025204id_/http%3A//www.mnetamerica.com/user/terms);
   * To prevent fraud or potentially illegal activities;
   * To enable user-to-user communications;
   * To provide technical support and respond to user requests and complaints;
@@ -59,7 +59,7 @@ The Company may also use Aggregate Information for purposes of research or analy
   * **Our business partners** – Unless they are acting on our behalf or you provide your Personal Information as part of a co-branded promotion, the Company will obtain your consent before we share your contact information with advertisers, business partners, or other entities that are not affiliates of the Company. The Company may share Aggregate Information and Anonymous Information, such as your public user profile information, to develop and deliver targeted advertising to users of the Site and on the websites of third parties. 
   * **Our service providers** – The Company may share your Personal Information with companies that provide services to us, including companies that assist with the operation of the website, payment processing, data processing, user and business analytics, account management, advertising, and other services. We may also enter into agreements with outside companies that provide the technology which allows us to customize the advertising and marketing notices you receive while using the services on the Site. These companies provide services to the Company in the United States and abroad. The Company directs all such third party service providers to maintain the confidentiality of the information shared with them and to not use your Personal Information for any purpose other than to provide services on the Company’s behalf.
   * **Other parties in connection with a transfer of assets** – If the Company sells all or part of its business, or makes a sale or transfer of assets, or is otherwise involved in a merger or business transfer, we may sell or transfer your Personal Information to one or more third parties as part of that transaction.
-  * **Other parties when necessary to protect our rights or yours** – The Company may preserve or disclose your Personal Information without your consent in order to: (i) protect the legal rights of the Company, its affiliates, or its investors, directors, officers, employees, agents, and suppliers, (ii) to protect the safety and security of the Site’s users or to enforce our [Terms of Use](https://web.archive.org/web/20150607232913id_/http%3A//www.mnetamerica.com/user/terms), (iii) to protect against fraud or to resolve or prevent security or technical issues, or (iv) to comply with a request for cooperation by a governmental entity.
+  * **Other parties when necessary to protect our rights or yours** – The Company may preserve or disclose your Personal Information without your consent in order to: (i) protect the legal rights of the Company, its affiliates, or its investors, directors, officers, employees, agents, and suppliers, (ii) to protect the safety and security of the Site’s users or to enforce our [Terms of Use](https://web.archive.org/web/20151207025204id_/http%3A//www.mnetamerica.com/user/terms), (iii) to protect against fraud or to resolve or prevent security or technical issues, or (iv) to comply with a request for cooperation by a governmental entity.
   * **Other parties with your consent** – The Company may share or disclose your Personal Information with your consent, such as when you authorize a third-party website or other parties and applications to connect with the Site.
   * **Third-party advertising and links to other sites** – This Site may include third-party advertising. Third-party sites and advertisers may use technology to send the advertisements that appear on our Site directly to your browser. Your IP address may be automatically received by such third-party sites and advertisers when this happens. This Site may also contain links to other sites that do not follow the same Privacy Policy as our Site. Should you click on such links, please review the applicable privacy policy for the other site to determine how that site will handle your information.
 
@@ -85,7 +85,7 @@ Please remember that information posted to message boards, blogs, and other foru
 
 The Company merely provides the open forums for communication between users. The Company does not actively monitor the content posted on the message boards, blogs, and other forums on the Site, so it is important for you to regulate your own actions on such public forums. Please act respectfully to all users on the forums and act according to social norms. 
 
-Please refer to the [Terms of Use](https://web.archive.org/web/20150607232913id_/http%3A//www.mnetamerica.com/user/terms) for information on how the Company monitors user content.
+Please refer to the [Terms of Use](https://web.archive.org/web/20151207025204id_/http%3A//www.mnetamerica.com/user/terms) for information on how the Company monitors user content.
 
 ## DATA SECURITY
 
@@ -93,7 +93,7 @@ While the Company takes reasonable security precautions to secure the Personal I
 
 ## OTHER TERMS AND CONDITIONS
 
-Your access to and use of this Site and its services is subject to our [Terms of Use](https://web.archive.org/web/20150607232913id_/http%3A//www.mnetamerica.com/user/terms).
+Your access to and use of this Site and its services is subject to our [Terms of Use](https://web.archive.org/web/20151207025204id_/http%3A//www.mnetamerica.com/user/terms).
 
 ## CHANGES TO THIS PRIVACY POLICY
 
