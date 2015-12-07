@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jayinslee.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206005513id_/http%3A//wfc2.wiredforchange.com/o/8846/p/salsa/web/common/public/content%3Fcontent_item_KEY%3D10979) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jayinslee.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207150446id_/http%3A//wfc2.wiredforchange.com/o/8846/p/salsa/web/common/public/content%3Fcontent_item_KEY%3D10979) for the most accurate reproduction.*
 
 # - Jay Inslee - Building a Working Washington
 
