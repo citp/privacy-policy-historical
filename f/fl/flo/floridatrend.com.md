@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridatrend.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607070636id_/http%3A//www.floridatrend.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridatrend.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207101737id_/http%3A//www.floridatrend.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ Our postal address is **490 1st Ave. S., 8th floor, St. Petersburg, FL 33701**.
 
 We can be reached by email at [webmaster@floridatrend.com](mailto:webmaster@floridatrend.com) or **(727) 821-5800**.
 
-Your use of our websites indicates to us that you have read and accepted this **Privacy Policy** and our [Terms and Conditions](https://web.archive.org/web/20150607070636id_/http%3A//privacy-policy).
+Your use of our websites indicates to us that you have read and accepted this **Privacy Policy** and our [Terms and Conditions](https://web.archive.org/web/20151207101737id_/http%3A//privacy-policy).
 
 Our web sites use "cookies," an element of data sent and stored on your computer. We use cookies the following ways: In site administration, to complete a user's requested activity, to target specific information, to perform analysis and for research and development.
 
