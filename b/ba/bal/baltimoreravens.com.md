@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baltimoreravens.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627182708id_/http%3A//www.baltimoreravens.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baltimoreravens.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208000731id_/http%3A//www.baltimoreravens.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Baltimore Ravens | Privacy Policy
 
