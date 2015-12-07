@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intmath.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607232019id_/http%3A//www.intmath.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intmath.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207131332id_/http%3A//www.intmath.com/help/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,20 +74,4 @@ IntMath is hosted on WiredTree servers in Chicago, USA. We strictly abide by the
 
 ## Questions or Concerns
 
-Please use the [Comments](https://web.archive.org/web/20150607232019id_/http%3A//www.intmath.com/help/comments.php) facility to raise any concerns you may have about your privacy on Interactive Mathematics.
-
-### Online Algebra Solver
-
-This algebra solver can solve a wide range of math problems. (Please be patient while it loads.)
-
-Go to: [Online algebra solver](https://web.archive.org/help/problem-solver.php)
-
-### Math Lessons on DVD
-
-Easy to understand math lessons on DVD. See samples before you commit.
-
-More info: [Math videos](http://www.intmath.com/help/math-videos/?topic=math)
-
-### The IntMath Newsletter
-
-Sign up for the free **IntMath Newsletter**. Get math study tips, information, news and updates each fortnight. Join thousands of satisfied students, teachers and parents!
+Please use the [Comments](https://web.archive.org/web/20151207131332id_/http%3A//www.intmath.com/help/comments.php) facility to raise any concerns you may have about your privacy on Interactive Mathematics.
