@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the ari-soft.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607124211id_/http%3A//www.ari-soft.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ari-soft.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207063046id_/http%3A//www.ari-soft.com/privacy_policy.html) for the most accurate reproduction.*
 
 # ARI Soft - Privacy Policy
 
 You currently have **0 items** in your cart.
 
-  * 15/04/2015 "ARI Quiz" v. 3.7.4
+[](http://www.templatemonster.com/joomla-templates/53576.html?utm_source=ari-soft&utm_medium=banner&utm_campaign=wegy "Wegy Joomla! template")
 
-New version supports ability to share quiz results via popular social networks (Facebook, Google+, Twitter).
+  * 27/11/2015 Black Friday and Cyber Monday
 
-  * 11/02/2015 Valentine SALE
+Black Friday and cyber Monday sale. Hurry up. We offer 35% discount for all our Joomla! extensions till 30 November. Use **BF2015** coupon code.
 
-We want to thank our customers for their LOVE to our extensions and present 20% discount till 15 February. Use **SV2015** coupon code
+  * 25/11/2015 "ARI Image Before After" extension
+
+Compare images on your Joomla! sites with help of "ARI Image Before After" extension. It creates an awesome slider to compare two photos. Demo is [here](http://www.demo2.ari-soft.com/joomla-images-compare.html "ARI Image Before After demo")
 
 
   
