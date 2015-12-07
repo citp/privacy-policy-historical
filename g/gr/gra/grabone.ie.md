@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the grabone.ie privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516194555id_/http%3A//www.grabone.ie/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabone.ie privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207065335id_/http%3A//www.grabone.ie/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – GrabOne
 
 ## GrabOne Privacy Policy
+
+**By accepting this policy, as updated on November 9th 2015, and have agreed to have your data and personal information (excluding financial information) transferred to Independent New and Media PLC. Not accepting this policy will result in your information been securely deleted by December 31st, 2015.**
 
 Your privacy on the Internet is important to us. As the Internet offers the ability to collect certain types of information about users, we want you to understand the terms and conditions surrounding the capture and use of any information we gather. To that end, this privacy policy discloses what information we gather, how we use it, and how to correct or change it.
 
@@ -67,4 +69,4 @@ You can choose to refuse cookies by turning them off in your browser and/or dele
 
 
 
-**Last updated:** Jul 2, 2014
+**Last updated:** Nov 9, 2015
