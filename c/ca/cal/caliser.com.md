@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caliser.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627214949id_/http%3A//caliser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caliser.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134913id_/http%3A//caliser.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Caliser
 
