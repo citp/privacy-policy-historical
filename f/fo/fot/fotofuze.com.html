@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fotofuze.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607235047id_/http%3A//fotofuze.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fotofuze.com privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207133711id_/http%3A//fotofuze.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"><html><head>
 <script type="text/javascript" async="" src="https://widget.uservoice.com/WDLUQKXrzQcZ28bBm6NKNQ.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
@@ -19,10 +19,21 @@
 <meta http-equiv="X-UA-Compatible" content="chrome=1">
 <link rel="shortcut icon" href="/icons/favicons/favicon.ico">
 <link rel="alternate" type="application/rss+xml" title="FotoFuze: News and Featured Fuzes" href="http://feeds.feedburner.com/fotofuze">
-<link rel="stylesheet" href="/min/?f=css/tipsy.css,css/std.css,uploadify/uploadify.css,uploadify/uploadifive.css,css/fileuploader.css,css/custom-theme/jquery-ui-1.7.2.custom.css,css/rangeinput.css&amp;v=23">
-<script type="text/javascript" src="/min/?f=js/jquery-1.4.2.min.js,js/jquery-ui-1.8.2.effects.min.js,js/jquery.editinplace.js,js/jquery.form.2.36.js,js/jquery.copy.js,facebox/facebox_c.js,js/std.js,js/jquery.dropdown.js,js/jquery.ba-bbq.min.js,js/jquery.tipsy.js&amp;version=5"></script>
+ 
+ 
+ 
+<link rel="stylesheet" href="/css/compiled.css?v=5">
 <script>var uploadifyLoad, rangeinputLoad;</script>
-<script type="text/javascript" src="/min/?f=uploadify/swfobject.js,uploadify/jquery.uploadify.v2.1.4.min.js,uploadify/jquery.uploadifive.min.js,js/jquery.tools.min.js,js/printstacktrace.js,js/jquery-ui-1.7.2.custom.min.js,js/jquery.hoverbox.min.js,js/ui.selectmenu.js,js/jquery.reverseorder.packed.js,js/fileuploader.js,js/jquery.jqplugin.1.0.2.min.js,js/common.js,js/glp2.js&amp;v=43" onload="uploadifyLoad=1;rangeinputLoad=1;" onerror="uploadifyLoad=-1;rangeinputLoad=-1;"></script>
+<script type="text/javascript" src="/js/compiled.js?v=14"></script>
+<script type="text/javascript" src="/js/compiled2.js?v=14" onload="uploadifyLoad=1;rangeinputLoad=1;" onerror="uploadifyLoad=-1;rangeinputLoad=-1;"></script>
+<script>
+$(function(){
+	if(window.pageLoadedCorrectly != 1) {
+		alert("<span style='color:#F33;'>Error: Page did not fully load and may not work correctly.</span>");
+		console.log("Error: Page did not fully load and may not work correctly.");
+	}
+});
+</script>
 <script>
 
 // init
@@ -34,6 +45,17 @@ var user_p = '';
 var user_archived = '0';	// lastArchived gets modified
 var user_etsy_id = '';
 var user_email = '';
+
+if(user_id == '') {
+	if(location.href.indexOf("https") != 0) {
+		location.href = location.href.replace("http", "https");
+	}
+} else {
+	if(location.href.indexOf("https") == 0) {
+		location.href = location.href.replace("https", "http");
+	}
+}
+
 
 /*if("" == 0 && "0" == 1) {
 	window.location.href = "/cgi-bin/logout.pl";
@@ -66,6 +88,12 @@ if('' != '') {
 }
 
 </script>
+<script>
+function ProControls() {
+	$.facebox("<div style='text-align:left;font-size:16px;width:500px;height:200px;margin:30px;'><span style='font-size:18px;'>You have a <b>FotoFuze </b> Pro account.  You can fuze with a maximum resolution of .</span><br><br><ul style='list-style-type:circle;margin-left:30px;'><li>You can manage your Pro subscription at <a href='http://theJungl.com' target='_blank'>The Jungl</a></li><li>You can learn more about your Pro subscription <a href='http://fotofuze.com/page/faq#pro' target='_blank'>here</a></li></ul><br><br><br><center style='font-size:22px;color:#C71784;transition:all .2s;text-shadow: 0 0 10px rgba(199,23,132,0);' class='supportGlow'>Thank you for supporting us!</center></div><style>.supportGlow:hover {text-shadow:0 0 15px rgba(199,23,132,.75) !important;}</style>");
+	$(".facebox-title").html("");
+}
+</script>
 <!--[if lte IE 7]>
 	<link rel="stylesheet" href="/static/css/ie.css" type="text/css" media="screen" title="IE Stylesheet" charset="utf-8" />
 <![endif]-->
@@ -93,10 +121,10 @@ var isIOSMobile = (/iphone|ipod|ipad|mobile/).test(navigator.userAgent.toLowerCa
 </style>
 <![endif]-->
 </head>
-<body>    <div id="facebox" style="display:none;">       <div class="popup">         <table>           <tbody>             <tr>               <td class="tl"></td><td class="b"></td><td class="tr"></td>             </tr>             <tr>               <td class="b"></td>               <td class="body">                 <div class="header">     <span style="float:left"><h1 style="font-size:24px;color:#c71784;" class="facebox-title"></h1></span>                   <a href="#" class="close">                     <img src="/facebox/closelabel.gif" title="close" class="close_image" style="text-align:right">                   </a>                 </div>                 <div class="content">                 </div>               </td>               <td class="b"></td>             </tr>             <tr>               <td class="bl"></td><td class="b"></td><td class="br"></td>             </tr>           </tbody>         </table>       </div>     </div>
+<body>
 <div id="page-wrap">
 <div class="proBar">
-<center><div><table><tbody><tr><td><span onclick="alert(&quot;You have a FotoFuze Pro account.  Thank you for supporting us!&quot;);">FotoFuze Professional</span></td></tr></tbody></table></div></center>
+<center><div><table><tbody><tr><td><span onclick="/*alert(&quot;You have a FotoFuze Pro account.  Thank you for supporting us!&quot;);*/ProControls();">FotoFuze Professional </span></td></tr></tbody></table></div></center>
 </div>
 <style>.proBar center{display:none;}</style>
 <div style="display:none;"> </div>
@@ -105,7 +133,7 @@ var isIOSMobile = (/iphone|ipod|ipad|mobile/).test(navigator.userAgent.toLowerCa
 <center style="height:0;"><a href="/"><div class="FFLogoSm"><img src="/static/images/ff_logo_sm1.gif"></div></a></center>
 <div id="ff-userbar">
  
-<a href="/static/html/signup.html" rel="facebox" class="faceboxed">Sign Up</a> | <a href="/">Home</a> | <span><a href="/static/html/contact.html?v=1" rel="facebox" class="faceboxed">Help</a> | </span><span id="signin"><a href="/static/html/login.html?1" class="doIt faceboxed" rel="facebox">Login</a></span>
+<a href="/static/html/signup.html?2" rel="facebox">Sign Up</a> | <a href="/">Home</a> | <span><a href="/static/html/contact.html?v=1" rel="facebox">Help</a> | </span><span id="signin"><a href="/static/html/login.html?3" class="doIt" rel="facebox">Login</a></span>
 </div>
 </div>
 <script>
@@ -113,10 +141,10 @@ setupSettingsPopup();
 </script>
 <div style="color:red;clear:both;padding:15px;border:3px solid black;margin:50px 10px 10px 10px;background-color:pink;display:none;" class="ieUserMessage">
 <div style="float:right;position:relative;"><span style="position:absolute;top:-14px;left:-10px;font-size:11px;"><a href="#" style="color:red;" onclick="$(&quot;.ieUserMessage&quot;).hide();createCookie(&quot;hideIEMessage&quot;,1,90);">hide</a></span></div>
-<center><b>If this page doesn't work for you, it may be because of your web browser. Click <a href="/static/html/why_not_ie.html" rel="facebox" class="faceboxed">here</a> for more details.</b></center>
+<center><b>If this page doesn't work for you, it may be because of your web browser. Click <a href="/static/html/why_not_ie.html" rel="facebox">here</a> for more details.</b></center>
 </div>
 <div style="color:red;clear:both;padding:15px;border:3px solid black;margin:50px 10px 10px 10px;background-color:pink;display:none;" class="ff3UserMessage">
-<center><b>If this page doesn't work for you, it may be because of your web browser. Click <a href="/static/html/why_not_ff3.html" rel="facebox" class="faceboxed">here</a> for more details.</b></center>
+<center><b>If this page doesn't work for you, it may be because of your web browser. Click <a href="/static/html/why_not_ff3.html" rel="facebox">here</a> for more details.</b></center>
 </div>
 <script>
 	var showIEUserMessage = 0;
@@ -161,11 +189,11 @@ setupSettingsPopup();
 <li><a href="/page/terms" title="Terms of Service" class="state-aware">TOS</a></li>
 <li><a href="/page/privacy" title="Privacy" class="state-aware">Privacy</a></li>
 <li><a href="/page/faq" title="Frequently Asked Questions" class="state-aware">FAQ</a></li>
-<li><a href="/static/html/login.html" class="state-aware faceboxed" rel="facebox">Login</a></li>
-<li><a href="/contact" title="Help" rel="facebox" class="faceboxed">Help</a></li>
+<li><a href="/static/html/login.html?3" class="state-aware" rel="facebox">Login</a></li>
+<li><a href="/contact" title="Help" rel="facebox">Help</a></li>
 <li> </li>
 </ul>
-<center style="height:0px;"><p style="font-size:75%;color:#888;text-align:center;">© 2009-<span class="copyrightDate">2020</span> Oriku, Inc. | The term 'Etsy' is a trademark of Etsy, Inc. This application uses the Etsy API but is not endorsed or certified by Etsy, Inc.</p></center>
+<center style="height:0px;"><p style="font-size:75%;color:#888;text-align:center;">© 2009-<span class="copyrightDate">2013</span> Oriku, Inc. | The term 'Etsy' is a trademark of Etsy, Inc. This application uses the Etsy API but is not endorsed or certified by Etsy, Inc.</p></center>
 </div>
 </div>
 <script>
@@ -200,10 +228,13 @@ $(".useTipsy").tipsy();
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s);
   })();
 </script>
+<script>
+window.pageLoadedCorrectly = 1;
+</script>
  
 <div style="display:inline;">
 <img height="1" width="1" style="border-style:none;position:absolute;top:0px;" alt="" src="http://www.googleadservices.com/pagead/conversion/1060075394/?label=97VoCM6n5wIQgu-9-QM&amp;guid=ON&amp;script=0">
 </div>
 
 
-<div id="stdMsg" class="stdMsg"><div class="round"></div><p></p><div class="round"></div></div></body></html>
+</body></html>
