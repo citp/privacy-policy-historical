@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the breazy.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610025547id_/https%3A//www.breazy.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breazy.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207130653id_/http%3A//breazy.com/pages/privacy) for the most accurate reproduction.*
 
-# Terms: Privacy
+# Privacy Policy – Breazy
 
 **Privacy Policy**
 
@@ -40,4 +40,4 @@ Although we take appropriate measures to safeguard your personal information aga
 If you have any questions, comments, suggestions, or wish to contact us for any reason, you may do so at: Admin@Breazy.com. 
 
 **Updates And Effective Dates**   
-We may modify these policies at any time. We encourage you to review this policy frequently so that your understanding of our policy will remain current. The Terms and Conditions posted on this site were updated on or about November 1st, 2014 
+We may modify these policies at any time. We encourage you to review this policy frequently so that your understanding of our policy will remain current. The Terms and Conditions posted on this site were updated on or about November 1st, 2014
