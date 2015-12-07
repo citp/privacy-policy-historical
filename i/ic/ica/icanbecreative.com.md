@@ -1,31 +1,89 @@
-> *The following text is extracted and transformed from the icanbecreative.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607170030id_/http%3A//www.icanbecreative.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icanbecreative.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208001942id_/http%3A//icanbecreative.com/page/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy for icanbeCreative.com - iCanBeCREATIVE
+# icanbecreative - privacy
 
-Privacy Policy for icanbeCreative.com
+## Privacy Policy
 
-At icanbeCreative.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.icanbecreative.com and how it is used.
+Last updated: August 02, 2015
 
- **Log Files**  
-Like many other Web sites, www.icanbecreative.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+IcanbeCreative Inc. ("us", "we", or "our") operates the [http://icanbecreative.com](http://icanbecreative.com/) website (the "Service").
 
- **Cookies and Web Beacons**  
-www.icanbecreative.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
- **DoubleClick DART Cookie**  
-.:: Google, as a third party vendor, uses cookies to serve ads on www.icanbecreative.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.icanbecreative.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [http://icanbecreative.com](http://icanbecreative.com/).
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.icanbecreative.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+### Information Collection And Use
 
-www.icanbecreative.com has no access to or control over these cookies that are used by third-party advertisers.
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personal identifiable information may include, but is not limited to, your email address, name, phone number, postal address, other information (“Personal Information”).
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.icanbecreative.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+### Log Data
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us.
+We collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
+
+### Cookies
+
+Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.
+
+If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
+
+### DoubleClick Cookie
+
+Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.
+
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the [Google Ads Settings](http://www.google.com/ads/preferences/) web page.
+
+### Behavioral Remarketing
+
+IcanbeCreative Inc. uses Remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.
+
+  * Google AdWords Remarketing service is provided by Google, Inc. You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the [Google Ads Settings](http://www.google.com/settings/ads) page. Google also recommends installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.For more information on the privacy practices of Google, please visit the [Google Privacy & Terms](http://www.google.com/intl/en/policies/privacy/) web page.
+
+
+
+### Do Not Track Disclosure
+
+We do not support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+### Communications
+
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us.
+
+### Security
+
+The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.
+
+However, please be aware that no method of transmission over the internet, or method of electronic storage, is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
+
+### Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+### Children’s Privacy
+
+Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 (“Children”).
+
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a child under age 13 without verification of parental consent, we take steps to remove that information from our servers.
+
+### Changes To This Privacy Policy
+
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+
+### Contact Us
+
+If you have any questions about this Privacy Policy, please contact us.
+
+contact@icanbecreative.com
