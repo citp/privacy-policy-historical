@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylemoi.nu privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607135520id_/http%3A//www.stylemoi.nu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylemoi.nu privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207021336id_/http%3A//www.stylemoi.nu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at Style Moi
 
