@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spotlight.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174216id_/http%3A//www.spotlight.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotlight.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207091001id_/http%3A//www.spotlight.com/aboutus/privacy) for the most accurate reproduction.*
 
 # Spotlight - professional acting jobs and auditions since 1927
 
@@ -125,9 +125,8 @@ An IP address is a number which is automatically assigned to your computer whene
 
 ### Digital Editions
 
-In relation to any digital edition/Application please note that Apple, Google, Amazon or other providers may on occasion transfer some of your data to Spotlight. Spotlight may also gather information such as your name and email address within the app; such personal data will be administrated in line with this privacy policy. 
+In relation to any digital edition/Application please note that Apple, Google, Amazon or other providers may on occasion transfer some of your data to Spotlight. Spotlight may also gather information such as your name and email address within the app; such personal data will be administrated in line with this privacy policy.   
 
-In relation to the Contacts Application a service called Flurry Analytics is used to collect user data which Spotlight use to learn about user behaviour and improve the app. To find out more visit: <http://www.flurry.com/about-us/legal/privacy.html.> You can opt opt at any time by visting [http://www.flurry.com/resources/privacy.html.](http://www.flurry.com/about-us/legal/privacy.html. "http://www.flurry.com/resources/privacy.html")
 
 ### Queries and Requests
 
