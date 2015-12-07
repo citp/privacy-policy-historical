@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ratuu.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607173115id_/http%3A//www.ratuu.com/main/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ratuu.com privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207182537id_/http%3A//www.ratuu.com/main/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="us" style=""><head>
     <meta charset="utf-8">
@@ -15,16 +15,25 @@
     <link rel="stylesheet" type="text/css" href="/shop_assets/css/idangerous.swiper.css">
     <link rel="stylesheet" type="text/css" href="/shop_assets/css/idangerous.swiper.scrollbar.css">
     <link rel="stylesheet" href="/shop_assets/css/SmartNotification.css">
+	
+    
+    
+		<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+	var LANG = {};
+	</script>
+	
+
 
 	<!-- FAVICONS -->
 	<link rel="shortcut icon" href="/shop_assets/img/favicon/favicon.ico" type="image/x-icon">
 	<link rel="icon" href="/shop_assets/img/favicon/favicon.ico" type="image/x-icon">
 	<link rel="apple-touch-icon" href="/shop_assets/img/favicon/favicon.png">
     
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/shop_assets/js/vendor/jquery-1.8.1.min.js"></script>
+    <script type="text/javascript" src="/shop_assets/js/vendor/jquery-1.8.1.min.js"></script>
     <script type="text/javascript" src="/shop_assets/js/vendor/modernizr.custom.js"></script>
     <script type="text/javascript" src="/shop_assets/js/vendor/jquery.placeholder.min.js"></script>
     <script type="text/javascript" src="/shop_assets/js/vendor/idangerous.swiper-2.1.min.js"></script>
+    <script src="/shop_assets/js/tt.js"></script>
 	<!--[if lt IE 9]>
         <script type="text/javascript" src="/shop_assets/js/vendor/PIE.js"></script>
     <![endif]-->
@@ -44,11 +53,33 @@ ga('send', 'pageview');
 var HTTP_SHOP_URL = 'http://www.ratuu.com';
 var HTTPS_SHOP_URL = 'https://www.ratuu.com';
 </script>
-
-    <div id="wrapper">
+    <div id="wrapper" style="position:relative;">
         <div id="header">
             <div class="top-menu clearfix">
                 <ul class="clearfix">
+                    <li>
+                    <select id="lang_select" onchange="selected_lang(this.value)">
+                    <option value="US" selected="">English</option>
+                                        <option value="KR">Korean</option>
+                                        </select>
+                    <script>
+                    function selected_lang(lang) {
+                        var days = 0;
+                        setCookie('user_lang', lang, days);
+
+                        $("#layer_background").hide();
+                        $("#layer_language_choice").hide();
+                        if(getCookie('lang') != lang) {
+                            $.post('/main/set_lang', {'lang' : lang}, function(res) {
+                                if(res=='SUCCESS') {
+                                    location.reload();
+                                }
+                            });
+                        }
+                    }
+                    </script>
+                    </li>
+
                                         <li><a href="/account/login">Register</a></li>
                     
                     <li><a href="/account/wishlists">Wish List</a></li>
@@ -216,7 +247,7 @@ var HTTPS_SHOP_URL = 'https://www.ratuu.com';
         </div>
 
         <div id="gnb">
-            <div class="cont"><ul class="clearfix"><li><a href="/product/category_main/539">TV</a><div class="sub" style="display:none;"><ul><li><a href="/product/category/539-583">4k Ultra HD</a></li><li><a href="/product/category/539-548">Smart</a></li><li><a href="/product/category/539-549">3D</a></li><li><a href="/product/category/539-550">Curved</a></li><li><a href="/product/category/539-551">LED</a></li><li><a href="/product/category/539-584">OVER 65Inch</a></li></ul></div></li><li><a href="/product/category_main/540">Tablet PC</a><div class="sub" style="display:none;"><ul><li><a href="/product/category/540-590">IOS</a></li><li><a href="/product/category/540-552">Windows</a></li><li><a href="/product/category/540-553">Android</a></li><li><a href="/product/category/540-593">Router</a></li><li><a href="/product/category/540-595">Navigator</a></li><li><a href="/product/category/540-592">Accessory</a></li></ul></div></li><li><a href="/product/category_main/541">E-Cigarettes</a><div class="sub" style="display:none;"><ul><li><a href="/product/category/541-577">Cigarette Kit</a></li><li><a href="/product/category/541-578">Cigarette Accessories</a></li><li><a href="/product/category/541-579">Liquids</a></li><li><a href="/product/category/541-556">Battery</a></li><li><a href="/product/category/541-557">Cartridges</a></li><li><a href="/product/category/541-558">Accessory</a></li></ul></div></li><li class="bgnone"><a href="/product/category_main/545">Kitchen &amp; Living</a><div class="sub" style="display:none;"><ul><li><a href="/product/category/545-560">Coffee Machine</a></li><li><a href="/product/category/545-563">Waterpick</a></li><li><a href="/product/category/545-585">Speaker &amp; Headphones</a></li></ul></div></li><li class="bgnone fl-r last"><a href="/product/category_main/547">Clearance &amp; Refurbish</a><div class="sub" style="display:none;"><ul><li><a href="/product/category/547-565">Clearance</a></li><li><a href="/product/category/547-566">Refurbish</a></li></ul></div></li></ul></div>        </div>
+            <div class="cont"><ul class="clearfix"><li><a href="/product/category_main/539">TV</a><div class="sub" style="display:none;"><ul><li><a href="/product/category/539-583">4k Ultra HD</a></li><li><a href="/product/category/539-548">Smart</a></li><li><a href="/product/category/539-549">3D</a></li><li><a href="/product/category/539-550">Curved</a></li><li><a href="/product/category/539-551">LED</a></li><li><a href="/product/category/539-584">OVER 65Inch</a></li></ul></div></li><li><a href="/product/category_main/540">PC &amp; Tablets</a><div class="sub" style="display:none;"><ul><li><a href="/product/category/540-552">Windows</a></li><li><a href="/product/category/540-553">Android</a></li><li><a href="/product/category/540-593">Router</a></li><li><a href="/product/category/540-595">Navigator</a></li><li><a href="/product/category/540-610">Hard Drive</a></li><li><a href="/product/category/540-592">Accessory</a></li></ul></div></li><li><a href="/product/category_main/606">DYSON</a><div class="sub" style="display:none;"><ul><li><a href="/product/category/606-607">Vacuum Cleaner</a></li><li><a href="/product/category/606-608">Electric Fan</a></li></ul></div></li><li class="bgnone"><a href="/product/category_main/609">Espresso Machine</a></li><li><a href="/product/category_main/545">Kitchen &amp; Living</a><div class="sub" style="display:none;"><ul><li><a href="/product/category/545-564">Living</a></li><li><a href="/product/category/545-599">Hobby</a></li><li><a href="/product/category/545-585">Speaker &amp; Headphones</a></li></ul></div></li></ul></div>        </div>
             <script type="text/javascript">
     $(function(){ 
      // GNB    
@@ -297,47 +328,6 @@ var HTTPS_SHOP_URL = 'https://www.ratuu.com';
                         credit card and order history is stored on a secure server that allows you to reorder by entering your email address and password. You may also place a Set &amp; 
                         Save order that will allow you to receive products on a regular basis without the need to reenter that order every time. You may cancel this order at any time 
                         by sending an email to&nbsp;help@ratuu.com&nbsp;or calling 1-213-765-0400                    </dd>
-                </dl>
-                <dl>
-                    <dt>We have several types of third-party relationships</dt>
-                    <dd>
-                        We use third-party intermediaries. When you purchase from us, we send your credit card information, name, and billing address to credit card companies for 
-                        verification and to authorize your purchase. We use outside shipping companies to fulfill orders. These companies do not retain, share, store or use personally i
-                        dentifiable information, including email address, for any other purposes. We provide certain third-party offers for your consideration. Should you choose to 
-                        place an order with one of these partners, we may share certain information, including email address, necessary to facilitate your transaction with them. We will 
-                        always ask for your consent prior to sharing your information with anyone. RATUU.COM handles the sending of order related and customer service related 
-                        messages internally, as well as advertising related emails. RATUU.COM service providers do not retain nor use your personal information, including your email 
-                        address for any other purpose except to provide the service on our behalf. We use third-party advertising companies to serve ads when you visit our website. 
-                        These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Websites in 
-                        order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices 
-                        about not having this information used by these companies.
-                    </dd>
-                </dl>
-                <dl>
-                    <dt>RATUU.COM uses tracking technologies</dt>
-                    <dd>We use tracking technologies to send anonymous information about your browsing habits to a third party company.</dd>
-                </dl>
-                <dl>
-                    <dt>When you subscribe to our newsletters, RATUU Inc. asks you for contact information</dt>
-                    <dd>
-                        When you sign up for our newsletters we use your name and email address to send you our health newsletters and to inform you of sales and special offers. 
-                        When you submit a product review on our website, you are required to log into your customer account. Your comments, first name, city, and state will be 
-                        displayed. However, no information that would allow others to contact you will be disclosed by RATUU.COM. Your information will be used for no other purpose 
-                        than to allow you to submit product reviews.
-                    </dd>
-                </dl>
-                <dl>
-                    <dt>Recommend a product to a friend</dt>
-                    <dd>
-                        The information collected (friend's name and email address) is used to send a one-time only email to the friend letting them know about the product that the 
-                        user recommends. If you place an online order, our secure order form requests contact, billing, and financial information&nbsp;(such as your credit card numbers for 
-                        purchases). Contact information from the order form (email address, name, billing and shipping address, and phone number) is used to send orders and 
-                        information about our company to you. Your contact information, including email address, is also used to get in touch with you should we have questions 
-                        regarding your order or should we need to notify you of the status of your order. he credit card information we collect is used to bill you for products you 
-                        purchase, and if you provide prior consent, this information may also be shared with a third party partner. For your convenience, your information including 
-                        credit card and order history is stored on a secure server that allows you to reorder by entering your email address and password. You may also place a Set &amp; 
-                        Save order that will allow you to receive products on a regular basis without the need to reenter that order every time. You may cancel this order at any time by 
-                        sending an email to&nbsp;help@ratuu.com or calling 1-213-765-0400                    </dd>
                 </dl>
                 <dl>
                     <dt>We have several types of third-party relationships</dt>
@@ -464,6 +454,30 @@ var HTTPS_SHOP_URL = 'https://www.ratuu.com';
             </div>
         </div>
     </div><!-- // #wrapper -->
+    <div class="nation_bg_modal" id="layer_background"></div>
+    
+    <div class="layer_wrap_modal" id="layer_language_choice">
+        <div class="layer_language_choice">
+            <div class="language_choice">
+                <h3>RATUU에 오신 것을 환영합니다.</h3>
+                <p>라튜는 한국에서도 손쉽게 쇼핑할 수 있습니다.<br>
+                모든 상품은 달러로 표기되며 결제됩니다. 
+                <span>원하시는 언어를 선택하세요.</span></p>
+                <div class="btn_center">
+                    <span class="btn-group mt30"><strong class="btn-wine" onclick="selected_lang('US');"><a href="#">English</a></strong></span>
+                    <span class="btn-group mt30"><strong class="btn-wine" onclick="selected_lang('KR');"><a href="#">한국어</a></strong></span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+    $(function(){
+        if(getCookie('lang') == 'KR' && getCookie('user_lang') == null){
+            showSelectNation();
+        }
+
+    });
+    </script>
 
 
 <div id="divSmallBoxes"></div><div id="divMiniIcons"></div><div id="divbigBoxes"></div></body></html>
