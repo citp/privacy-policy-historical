@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the explorechicago.org privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521153222id_/http%3A//www.choosechicago.com/articles/view/Privacy-Policy/176) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorechicago.org privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208002553id_/http%3A//www.choosechicago.com/articles/view/Privacy-Policy/176) for the most accurate reproduction.*
 
 # What to do in Chicago - Choose Chicago
 
 Choose Chicago® is committed to protecting the privacy of users of the Choose Chicago Web sites. The information we collect is used exclusively to facilitate services that we provide to you. We value your privacy and will take all necessary steps to protect it. 
 
-Our promise  
+**Our promise**  
 We will not communicate with you unless you expressly request it. We are committed to your privacy and will not share your personal information. 
 
-Our company commitment to privacy  
+**Our company commitment to privacy**  
 To make sure your personal information remains confidential, we communicate these privacy guidelines to every Choose Chicago employee. 
 
 Choose Chicago does not knowingly solicit personal information from children or send them requests for personal information. 
@@ -18,12 +18,17 @@ If we are going to use your personal information differently from that stated at
 
 Choose Chicago's Privacy Policy is subject to change at any time. We encourage you to review the privacy policy regularly for any changes. 
 
-Types of information collected on the Web sites  
-We collect personal data through a registration process and when you download documents from the Choose Chicago Website. If you wish to receive further contact from us, such as product updates, there is a box to enable you to indicate your preference. 
+**Types of information collected on ChooseChicago.com and subscription forms**  
+We collect personal data through a registration process and when you request materials from the Choose Chicago Website or subscribe to email communications. 
 
-When you register on the Choose Chicago Web sites, we collect your title, first and last name, post code, email address, and preferences. If contact by post is selected, you will be prompted for your postal address, and if contact by phone is requested you will be prompted for your telephone numbers. 
+When you register on the Choose Chicago Web sites, we collect your first and last name, email address and postal code. Where applicable we also collect title, mailing address, phone number and organization information. You will be prompted for this information via a registration form on ChooseChicago.com. 
 
-Navigation information  
+This information will be used to mail (via post office or email) requested materials. 
+
+**How to opt-out of future communications**  
+In order to opt-out of future Leisure communications please [click here](http://enews.choosechicago.com.saturn.milesmedia.com/leisure/unsubscribe.php?segment_id=128&utm_campaign=July_2014_Leisure&utm_source=enewsletter&utm_medium=email). To opt-out of future Meeting Professionals communications please [click here](http://enews.choosechicago.com.saturn.milesmedia.com/meetings/unsubscribe.php?segment_id=141&utm_campaign=May_2014_Meetings&utm_source=enewsletter&utm_medium=email). To opt-out of future Travel Professionals communications please [click here](http://enews.choosechicago.com.saturn.milesmedia.com/travelpro/unsubscribe.php?segment_id=91&utm_campaign=July_2014_Travel&utm_source=enewsletter&utm_medium=email). 
+
+**Navigation information**  
 Each time you visit Choose Chicago's Web sites, anonymous navigation information is collected by our servers. This information includes: 
 
 • the type of browser and operating system you are using;  
@@ -34,34 +39,34 @@ Each time you visit Choose Chicago's Web sites, anonymous navigation information
 
 This provides Choose Chicago with information about how the Web sites is used and navigated, including the number of hits, the frequency of visits and the duration of visits to each Web page on the site. It does not personally identify individual users. 
 
-How we collect personal information off-line  
+**How we collect personal information off-line**  
 Personal information will only be collected by lawful and fair means, for one or more specified purposes, which are relevant to Choose Chicago's operations. When personal information is collected directly from the individual to whom it relates the purpose of collection will be identified and it will only be collected with the person's consent. 
 
-Why we collect personal information  
+**Why we collect personal information**  
 If you have permitted us to use your information, we will use it to keep you up to date on the latest company announcements, service updates, special offers and other information we think you'd like to hear about. From time to time, we may also use your personal information to contact you to participate in a market research surveys, so that we can gauge customer satisfaction and develop better solutions. 
 
 Information collected on this site may also be combined and de-identified to provide Choose Chicago with anonymous demographic and usage information. Choose Chicago can then use this aggregated information to develop new and/or more appropriate services and products to offer to customers and may also be provided to third parties. 
 
 In addition, anonymous navigation information may be used for statistical analysis of the site, for marketing purposes and to tailor the content of the site to the needs of Choose Chicago customers. Statistical information is not disclosed in connection with your personal information. 
 
-Cookies  
+**Cookies**  
 Currently the Choose Chicago Website does use "cookie" technology. Cookies were originally designed to help a Website distinguish a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. A cookie is a small string of text that a Website can send to your browser. A cookie cannot retrieve any other data from your hard drive, pass on computer viruses, or capture your email address. 
 
-We use cookies so that we can provide personalized information that we believe will be of value to you based on preferences you have indicated while visiting the site. You will have the opportunity to decide whether or not to accept the cookie. You may opt-out of these features [here](https://web.archive.org/out/?f=https%3A%2F%2Fwww%2Egoogle%2Ecom%2Fsettings%2Fads). 
+We use cookies so that we can provide personalized information that we believe will be of value to you based on preferences you have indicated while visiting the site. You will have the opportunity to decide whether or not to accept the cookie. You may opt-out of these features [here](https://www.google.com/settings/ads). 
 
-When we disclose personal information  
+**When we disclose personal information**  
 Choose Chicago works with other companies that help us provide products and services to you and we may provide your personal information to these companies. For example, we give shipping companies this information so they can deliver your products efficiently. In this case the information they receive is for shipping and delivery purposes only, and we require that the companies we contract with safeguard your personal information in accordance with Choose Chicago's policies. 
 
 Personal information collected at this site will only be disclosed to third parties in accordance with this Privacy Statement and with the terms and conditions of any relevant service. You should check the terms and conditions of individual products and services for information about disclosures. 
 
-Your right to update your information  
-If you wish to update information held about you or your company by Choose Chicago, please e-mail your new details to mpatel@choosechicago.com. 
+**Your right to update your information**  
+If you wish to update information held about you or your company by Choose Chicago, please e-mail your new details to feedback@choosechicago.com. 
 
-Security  
+**Security**  
 We make our best efforts to ensure that our systems are secure. Choose Chicago safeguards the security of the data you provide to us with physical, electronic and managerial procedures. 
 
-Any questions?  
-Please e-mail mpatel@choosechicago.com to resolve any questions, suggestions, concerns and complaints you might have regarding Choose Chicago's privacy practices. 
+**Any questions?**  
+Please e-mail feedback@choosechicago.com to resolve any questions, suggestions, concerns and complaints you might have regarding Choose Chicago's privacy practices. 
 
-Changes to this Privacy Statement  
-This Privacy Statement may change from time to time particularly as new industry codes and legislation are introduced. Any changes to Choose Chicago's Privacy Statement will be highlighted in this area from time to time. 
+**Changes to this Privacy Statement**  
+This Privacy Statement was last updated in June 2014 and may change from time to time particularly as new industry codes and legislation are introduced. Notification of changes to privacy policy will be posted on this privacy statement on ChooseChicago.com. 
