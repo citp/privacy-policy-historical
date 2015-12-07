@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the machineliker.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612140922id_/http%3A//machineliker.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machineliker.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207115657id_/http%3A//machineliker.com/privacy.php) for the most accurate reproduction.*
 
-# Machine Liker | Privacy Policies
+# Privacy Policy - Machine Liker
 
 ## Privacy Policy
 
