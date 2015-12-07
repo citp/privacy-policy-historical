@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revisionfx.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608042934id_/http%3A//www.revisionfx.com/company/legal_notices/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revisionfx.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207044839id_/http%3A//www.revisionfx.com/company/legal_notices/privacy_policy) for the most accurate reproduction.*
 
 # RE:Vision Effects, Inc. : Company: Legal Notices
 
