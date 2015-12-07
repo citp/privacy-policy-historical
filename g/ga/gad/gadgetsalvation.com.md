@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadgetsalvation.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608003315id_/http%3A//www.gadgetsalvation.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetsalvation.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207143202id_/http%3A//www.gadgetsalvation.com/privacy_policy) for the most accurate reproduction.*
 
 # Gadget Salvation | Privacy Policy
 
@@ -53,3 +53,7 @@ We request information from you on our order form. To buy from us, you must prov
 From time-to-time our site requests information via surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
 
 If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at (847) 447-6706 or via email using the contact us page. 
+
+2008 - 2015 GADGET SALVATION, LLC. All rights reserved, patents pending.  
+Designate trade marks and brands are the property of their respective owners. Gadget Salvation is not  
+affiliated with the manufacturers of the items available for trade-in. 
