@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daddysdeals.co.za privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630003934id_/http%3A//daddysdeals.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daddysdeals.co.za privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207011020id_/http%3A//daddysdeals.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Daddy's Deals
 
@@ -32,7 +32,7 @@
 
 1.3.4   to verify your identity when transacting with Us.
 
-1.4      We will only share your information with kulula.com in order to improve the service that kulula.com provides to you, based on the understanding that you may opt out of receiving communications form kulula.com at any time.
+1.4      We will only share your information with kulula.com in order to improve the service that kulula.com provides to you, based on the understanding that you may opt out of receiving communications from kulula.com at any time.
 
 1.5      Information detailed above is collected either electronically by using cookies or is provided voluntarily by you. You may determine cookie use independently through your browser settings.
 
