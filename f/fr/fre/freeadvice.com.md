@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeadvice.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609043530id_/http%3A//www.freeadvice.com/company/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadvice.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207123442id_/http%3A//www.freeadvice.com/company/privacypolicy.htm) for the most accurate reproduction.*
 
 # FreeAdvice.com's Privacy Policy
 
@@ -64,7 +64,7 @@ Our site often provides users the opportunity to opt-out of receiving communicat
 
 ## Revisions / Corrections / Updates
 
-We reserve the right to change our privacy policy from time-to-time on a prospective basis. If we do change our privacy policy in the future, we'll post the changes when they take effect. 
+We reserve the right to change our privacy policy from time-to-time on a prospective basis. If we do change our privacy policy in the future, we'll post the changes when they take effect.
 
 This site gives users options for changing and modifying information previously provided, often at the feature on which the user registered. For specifics concerning a matter impacting you, you can send email to [admin@adviceco.com](mailtp:admin@adviceco.com), or by mail to the following postal address: FreeAdvice.com, a unit of Advice Company, _PO Box 1739, Sausalito, CA 94966_.
 
