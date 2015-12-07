@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the icanbuildablog.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608095009id_/http%3A//icanbuildablog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icanbuildablog.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207024430id_/http%3A//icanbuildablog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - I Can Build a Blog
+
+[ ](http://icanbuildablog.com/ "I Can Build a Blog")
+
+## Tutorials, Tips, and Resources
+
+## for Creating a Better Blog
+
+## 48 Pages of Content Designed   
+to Help Grow Your Blog _Quickly_
+
+  
+
+
+## [Download Now](http://icanbuildablog.com/product/blog-wonderful-ebook/)
 
 **Privacy Policy for www.icanbuildablog.com**
 
