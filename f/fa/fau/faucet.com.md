@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faucet.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607234259id_/http%3A//www.faucet.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faucet.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207120106id_/http%3A//www.faucet.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
 # Faucets, Kitchen Faucets, Bathroom Faucets, Sinks and Plumbing Fixtures at Faucet.com - Faucet.com
 
@@ -41,12 +41,11 @@ For more details on this feature including how to turn on Do Not Track, visit do
 Because we value your right to privacy, we do not sell or otherwise share your contact information to unrelated third parties. Faucet.com uses email as one of the primary methods of communicating with our customers. The emails we send may be related to a variety of issues, including:
 
   * A direct response to an inquiry,
-  * Communication concerning an order (receipt, shipping confirmation, etc), or
-  * Promotional emails you have indicated you wish to receive.
+  * Communication concerning an order (receipt, shipping confirmation, etc), or emails on products, services or promotions.
 
 
 
-From time to time, we may notify you of special offers based on your purchasing history with us. If you create a Saved Cart, or have one created by our staff, you may receive follow-up emails related to this Cart. You may unsubscribe at any time by following the simple instructions contained in the emails. Unsubscribing will not apply to any future Saved Carts that are created. If you have signed up to receive our promotional emails and wish to stop your subscription, you'll find easy-to-follow unsubscribe instructions in each promotional email. You may also change your subscription status at any time by:
+From time to time, we may notify you of special offers based on your purchasing history with us. If you create a Saved Cart, or have one created by our staff, you may receive follow-up emails related to this Cart. You may unsubscribe at any time by following the simple instructions contained in the emails. Unsubscribing will not apply to any future Saved Carts that are created. If you receive our promotional emails and wish to unsubscribe, you'll find easy-to-follow unsubscribe instructions in each promotional email. You may also change your status at any time by:
 
   * Logging into your account and editing your "Change Billing Info"
   * Sending an email to [newsletters@faucet.com](mailto:newsletters@faucet.com)
@@ -65,6 +64,38 @@ If you choose to visit Faucet.com, your visit and any dispute over privacy is su
 ## Does Faucet.com Participate in the Safe Harbor Program?
 
 Faucet.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and European Commission. For more information about the Safe Harbor and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor Web site](http://export.gov/safeharbor/) or view our [Safe Harbor Privacy Policy](https://web.archive.org/index.cfm?page=help:safeharborprivacypolicy)
+
+## SMS Terms of Use
+
+What is Faucet.com SMS?
+
+Faucet.com provides SMS service to send order information. Order status, shipping status and delivered status. SMS will be sent if a subscriber opts in and has a mobile phone number. Standard messaging rates may apply. Message frequency will vary by user.
+
+A user may also opt-in to receive a one time message with a link to a specific product details, shopping cart items or mobile applications. MMS service is used to send messages of product photos to and from the user.
+
+What is the cost for Faucet.com SMS?
+
+There is no additional charge for Faucet.com SMS services. However, normal text messaging rates or package deductions may apply. Please check with your carrier for details on your plan.
+
+What carriers are compatible with Faucet.com SMS?
+
+Compatible carriers include: AT&T, T-Mobile*, Metro PCS, Verizon Wireless, Sprint, Nextel, Boost, Alltel, US Cellular and Cellular One. *T-Mobile is not liable for delayed or undelivered messages.
+
+Are there any additional charges associated with this service?
+
+Standard message rates apply to all text messages. Message rates differ from carrier to carrier, please contact your wireless service provider to inquire about the details specific to your plan.
+
+Is Faucet.com SMS service available to international users?
+
+Currently this service is only available to domestic service plans within the United States.
+
+How do I stop receiving SMS messages from Faucet.com?
+
+To discontinue SMS service from Faucet.com, text " **STOP** " to 40791
+
+Who do I contact for help?
+
+If you need any further assistance please contact us at 1-800-444-5783 or email CS@Faucet.com.
 
 ## Update to Privacy Policy
 
