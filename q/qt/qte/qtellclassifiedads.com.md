@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qtellclassifiedads.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611082810id_/http%3A//www.qtellclassifiedads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qtellclassifiedads.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207200655id_/http%3A//www.qtellclassifiedads.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
-# Qtellwholesale Limited Private Policy and Cookie Policy Ireland for all webdesign, eCommerce plus all classifieds web sites
+# India - Classified Free Ads Buy & Sell Classifiedads Freeads Classified Free Job Finder Cameras Photography Accessories Free Advertising
 
   
 1\. Introduction
