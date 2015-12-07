@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cigniti.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611151030id_/http%3A//www.cigniti.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cigniti.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207173253id_/http%3A//www.cigniti.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy and Terms and Conditions | Cigniti Technologies
+# World’s 3rd Largest Independent Software Testing Services Company | Cigniti Technologies
 
 ### Privacy Policy and Terms and Conditions
 
@@ -8,7 +8,7 @@ This website is administered by Cigniti Technologies Ltd. We are committed to ma
 
 ### Copyright Notice
 
-Information provided in this website (excluding any third party logos, graphics, text, audio or video clips) is the sole property of Cigniti Technologies Ltd. All the logos, page headers, images, illustrations, graphics, audio clips, video clips and text are subject to trademark, service mark, trade dress, copyright and/or other intellectual property rights or licenses held by Cigniti Technologies Ltd. These shall, in no way, be copied or reproduced for anything other than journalistic use. The trademarked logos of Cigniti Technologies Ltd are owned by Cigniti Technologies Ltd and cannot, in any way, be copied or reproduced without prior written permission from Cigniti Technologies Ltd. Any such requests should be addressed to info@cigniti.com. 
+Information provided in this website (excluding any third party logos, graphics, text, audio or video clips) is the sole property of Cigniti Technologies Ltd. All the logos, page headers, images, illustrations, graphics, audio clips, video clips and text are subject to trademark, service mark, trade dress, copyright and/or other intellectual property rights or licenses held by Cigniti Technologies Ltd. These shall, in no way, be copied or reproduced for anything other than journalistic use. The trademarked logos of Cigniti Technologies Ltd are owned by Cigniti Technologies Ltd and cannot, in any way, be copied or reproduced without prior written permission from Cigniti Technologies Ltd. Any such requests should be addressed to [info@cigniti.com](mailto:info@cigniti.com). 
 
 Any permission given for information on this site must be in writing and prior to use. Any such permissions are given for specific purposes and do not allow the recipient to use that information, or any other, for any purpose not initially stated. 
 
