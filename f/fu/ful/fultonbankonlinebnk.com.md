@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fultonbankonlinebnk.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116073954id_/https%3A//www.fult.com/privacy_prin.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fultonbankonlinebnk.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207061823id_/https%3A//www.fult.com/privacy_prin.asp) for the most accurate reproduction.*
 
 # Fulton Financial Corporation
 
@@ -14,13 +14,14 @@ The term "our affiliates" refers to any one or more of FFC and its banking and n
 
 Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read the privacy notices listed below and our [Frequently Asked Questions about Privacy Notices](https://web.archive.org/pdf/privacynoticesfaqs.pdf) to understand what we do.
 
-  * [The Columbia Bank](https://web.archive.org/onlineapps/disclosure/TCB/consumerprivacy.pdf)
-  * [Fulton Bank, N.A.](https://web.archive.org/onlineapps/disclosure/FBK/consumerprivacy.pdf)
-  * [Fulton Bank of New Jersey](https://web.archive.org/onlineapps/disclosure/FBJ/consumerprivacy.pdf)
-  * [FNB Bank, N.A. ](https://web.archive.org/onlineapps/disclosure/FNB/consumerprivacy.pdf)
-  * [Fulton Financial Advisors ](https://web.archive.org/onlineapps/disclosure/FFA/consumerprivacy.pdf)
-  * [Lafayette Ambassador Bank](https://web.archive.org/onlineapps/disclosure/LAB/consumerprivacy.pdf)
-  * [Swineford National Bank](https://web.archive.org/onlineapps/disclosure/SNB/consumerprivacy.pdf)
+  * [Privacy Notice for Fulton Financial Advisors](https://web.archive.org/pdf/FFAPrivacyNotice2015.pdf)
+  * [Privacy Notice for all other Fulton Financial Corporation Banking Affiliates](https://web.archive.org/pdf/FFCPrivacyNotice2015FINAL.pdf)
+    * The Columbia Bank
+    * Fulton Bank, N.A.
+    * Fulton Bank of New Jersey
+    * FNB Bank, N.A.
+    * Lafayette Ambassador Bank
+    * Swineford National Bank
 
 
 
@@ -102,14 +103,9 @@ You may direct us not to allow our affiliates to use your nonpublic personal inf
 
 **How to Opt Out**
 
-You may direct us not to disclose additional information about you to our affiliates and not to allow our affiliates to use your nonpublic personal information that we disclose to them to market their products or services to you by filling out a privacy notice, which can be obtained from a branch, and mailing it to us, or by visiting one of the following websites for any of our affiliates with which you do business: 
+You may direct us not to disclose additional information about you to our affiliates and not to allow our affiliates to use your nonpublic personal information that we disclose to them to market their products or services to you by filling out a privacy notice, which can be obtained from a branch, and mailing it to us, or by clicking on the link below and filling out the form: 
 
-The Columbia Bank: <http://www.thecolumbiabank.com/privacyoptout>   
-Fulton Bank: <http://www.fultonbank.com/privacyoptout>   
-Fulton Bank of New Jersey: <http://www.fultonbanknj.com/privacyoptout>   
-FNB Bank: <http://www.fnbbank.com/privacyoptout>  
-Lafayette Ambassador Bank: <http://www.lafambank.com/privacyoptout>   
-Swineford National Bank: <http://www.swineford.com/privacyoptout>   
+<http://www.fult.com/privacyoptout>   
 
 
 Your opt-out will apply to all FFC affiliates with whom you do business. In other words, if you have an account with more than one of our affiliates, you do not need to opt out for each one separately.
