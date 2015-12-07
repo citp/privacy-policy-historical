@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the businesslist.pk privacy policy that was archived on 2015-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608024852id_/http%3A//www.businesslist.pk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the businesslist.pk privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207040231id_/http%3A//www.businesslist.pk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head><meta charset="utf-8"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Language" content="en">
@@ -8,9 +8,8 @@
 <meta name="description" content="Privacy policy. Search for Pakistan Companies in Pakistan Business Directory. Add your free Business Listing on Pakistan Business Directory.">
 <meta name="copyright" content="BusinessList.pk">
 <meta name="ROBOTS" content="index,follow">
-<meta name="GOOGLEBOT" content="index,follow"><link rel="stylesheet" type="text/css" href="/css/site/main.min.css?v=27">
-<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/jquery/jquery.min.js?v=191"></script>
-<link href="/pkfavicon.ico" type="image/x-icon" rel="icon"><link href="/pkfavicon.ico" type="image/x-icon" rel="shortcut icon">
+<meta name="GOOGLEBOT" content="index,follow"><link rel="stylesheet" type="text/css" href="/css/site/main.min.css?v=35">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script><link href="/pkfavicon.ico" type="image/x-icon" rel="icon"><link href="/pkfavicon.ico" type="image/x-icon" rel="shortcut icon">
 <meta name="DC.title" content="Business Pakistan">
 <meta name="geo.region" content="PK">
 <meta name="geo.position" content="30.375321, 69.345116">
@@ -117,12 +116,20 @@ function showLogin(extra_url) {
 }
 </script>
 
+
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-3351151485848212",
+    enable_page_level_ads: true
+  });
+</script>
 <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#appId=171166422952329&amp;xfbml=1"></script></head>
 <body>
 
 <div id="login_box" class="fixed_div">
 <h5>Members Sign In</h5>
-<div class="content">
+<div class="content" id="user_zipa">
 	<a href="/sign-in/fbredirect" class="signup_fb" id="login_box_signup_fb" onclick="$(this).text(&quot;Redirecting...&quot;);">Sign in with Facebook</a>	
 	<div class="separator"><span>OR</span></div>
 	
@@ -138,7 +145,9 @@ function showLogin(extra_url) {
 </div>	
 <a href="#" class="close" id="login_box_close" onclick="$('#login_box').hide(); $('#login-screen-block').remove(); return false;"></a>
 
-<div class="acenter" style="line-height: 40px;"><a href="/create-business-listing">ADD BUSINESS</a></div></div>
+<div class="acenter" style="line-height: 40px;"><a href="/create-business-listing">ADD BUSINESS</a></div>
+
+</div>
 
 <header>
 	<nav>
@@ -146,9 +155,9 @@ function showLogin(extra_url) {
 		<div class="search_box">
 	<form id="search_form" method="post" action="/pakistan-business-search"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST"></fieldset>	
 	<fieldset>
-		<div class="input text"><input name="data[CompanySearch][query]" type="text" rel="Search for Companies or Services" autocapitalize="off" autocorrect="off" autocomplete="off" class="highlight acInput" value="" id="CompanySearchQuery"><a href="#" id="what_browse" onclick="showBrowse('what'); return false;" style="background-position: -396px -215px;"></a></div>		
+		<div class="input text"><input name="data[CompanySearch][query]" type="text" rel="Search for Companies or Services" autocapitalize="off" autocorrect="off" autocomplete="off" maxlength="40" class="highlight" value="" id="CompanySearchQuery"><a href="#" id="what_browse" onclick="showBrowse('what'); return false;"></a></div>		
 				
-		<div class="input text"><input name="data[CompanySearch][location]" type="text" rel="Location" value="" id="CompanySearchLocation" autocomplete="off" class="acInput"><a href="#" id="where_browse" onclick="showBrowse('where'); return false;" style="background-position: -396px -215px;"></a></div>		
+		<div class="input text"><input name="data[CompanySearch][location]" type="text" rel="Location" maxlength="40" value="" id="CompanySearchLocation"><a href="#" id="where_browse" onclick="showBrowse('where'); return false;"></a></div>		
 		<div class="submit">
 			<a href="#" onclick="$('#search_form').submit(); $('#loading').fadeIn(); return false;" class="search_submit">Search</a>					</div>
 
@@ -182,17 +191,16 @@ $(function() {
 });	
 </script>	
 		<div class="userbox userbox_en">
-		  	<a href="/sign-in" onclick="showLogin(); return false;">Sign in</a><a href="/create-business-listing" title="Add business" class="add_business">Add business</a>		
+		  	<a href="/sign-in" onclick="showLogin(); return false;" class="user_signin">Sign in</a>	  	<a href="/create-business-listing" title="Add business" class="add_business">Add business</a>	
+				
 </div>
 
 <div class="hidden_menu hidden">
-		  	<a href="/sign-in" title="Sign in">Sign in</a>	  	<a href="/create-business-listing" title="Add business" class="add_business">Add business</a>		
-	<a href="/browse-business-directory">Browse categories</a>	<a href="/browse-business-cities">Browse locations</a></div>
+		  	<a href="/sign-in" title="Sign in" class="user_signin">Sign in</a>	  	<a href="/create-business-listing" title="Add business" class="add_business">Add business</a>		
+	<a href="/browse-business-directory">Browse categories</a>	<a href="/browse-business-cities">Browse locations</a>	</div>
 
 <a href="#" title="Menu" class="m_menu_link"></a><a href="#" id="userbox_close" class="skinny_close"></a>
 <script>
-
-
 	$('.m_menu_link').click(function(e) {
 		$('.screen-paint').show();
 		$('.hidden_menu').show();
@@ -201,7 +209,6 @@ $(function() {
 		
 		e.preventDefault();
 	});
-
 
 	$('#userbox_close').click(function(e) {
 		$('.screen-paint').hide();
@@ -222,10 +229,11 @@ $(function() {
 			<div id="fbtop" class="fb-like" data-href="https://www.facebook.com/pages/Pakistan-Business-Directory/219143701437805" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="arial"></div>
 			<div id="plusone-div"><g:plusone size="medium" href="http://www.businesslist.pk"></g:plusone></div>
 		</div>
-	</section>
+
+			</section>
 </div>
 
-<div id="search_drop" style="display: none;"></div>   
+<div id="search_drop"></div>   
 
 <div id="wrapper"> 
 	<section>
@@ -235,8 +243,10 @@ $(function() {
 
 <div id="wrapper">
 	<section>
-	<h3>General</h3>
-	<ul type="disc">
+	
+	<h2 style="border-bottom : solid 1px #E2E7E2; padding : 20px 0; margin : 0 0 20px 0; text-align:left;">General</h2>
+	
+	<ul style="list-style-type: disc; margin-left: 50px;">
 	<li>
 		BusinessList.pk collects personal information about you and your business when you create your business listing.
 		BusinessList.pk will not rent, sell, or share information about you with other people or non-affiliated companies. 
@@ -255,16 +265,23 @@ $(function() {
 	
 	<br>
 	
-	<h3>Confidentiality and Security</h3>
-	<ul type="disc">
+	<h2 style="border-bottom : solid 1px #E2E7E2; padding : 20px 0; margin : 0 0 20px 0; text-align:left;">Confidentiality and Security</h2>
+	<ul style="list-style-type: disc; margin-left: 50px;">
 	<li>We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.</li>
 	<li>We have physical, electronic, and procedural safeguards that comply with regulations to protect personal information about you.</li>
 	</ul>
 	
 	<br>
 	
-	<h3>Changes to this Privacy Policy</h3>
-	<ul type="disc">
+	<h2 style="border-bottom : solid 1px #E2E7E2; padding : 20px 0; margin : 0 0 20px 0; text-align:left;">Cookies</h2>
+	<ul style="list-style-type: disc; margin-left: 50px;">
+	<li>When you enter this website, we will use cookies. Cookies are tiny text files that identify your computer to our server. These cookies in no way allow us access to your computer and do not store any details relating to you or your credit cards. They are used to record the areas of the site that you have visited and for how long, which provides us with useful usage information that helps us make our site more accessible to our users in line with their needs. The use of cookies helps us to improve the quality of service that we provide. Please also refer to our <strong><a href="/cookies-policy">Cookies Policy</a></strong>.</li>
+	</ul>
+	
+	<br>
+
+	<h2 style="border-bottom : solid 1px #E2E7E2; padding : 20px 0; margin : 0 0 20px 0; text-align:left;">Changes to this Privacy Policy</h2>
+	<ul style="list-style-type: disc; margin-left: 50px;">
 	<li>BusinessList.pk may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Business Listing or by placing a prominent notice on our site.</li>
 	</ul>
 	</section>
@@ -285,8 +302,11 @@ $(function() {
 								<li><a href="/contact-us">Contact us</a></li>
 				<li><a href="/browse-business-directory">Browse categories</a></li>
 				<li><a href="/browse-business-cities">Browse locations</a></li>
+				
+								
 								<li><a href="/terms-of-use" rel="nofollow, noindex">Terms of use</a></li>
 				<li><a href="/privacy-policy" rel="nofollow, noindex">Privacy policy</a></li>
+				<li><a href="/cookies-policy" rel="nofollow, noindex">Cookies policy</a></li>
 								<li><a href="/sitemap.html">Sitemap</a></li>
 			</ul>			
 		</div>
@@ -313,13 +333,13 @@ $(function() {
 				
 		<div class="footer_box" id="site_stats">
 			<h6>Statistics</h6>
-			140,429 Companies<br>
-			139,871 Phones<br>
-			92,397 Faxes<br>
-			57,631 Emails<br>
-			30,412 Websites<br>
-			4,133 Products<br>
-			356 Reviews		</div>
+			141,184 Companies<br>
+			140,489 Phones<br>
+			92,556 Faxes<br>
+			58,377 Emails<br>
+			31,047 Websites<br>
+			4,692 Products<br>
+			444 Reviews		</div>
 
 		<div class="clear"></div>
 
@@ -328,7 +348,7 @@ $(function() {
 				<a href="https://www.facebook.com/pages/Pakistan-Business-Directory/219143701437805" class="facebook" rel="nofollow" target="_blank">Facebook</a><a href="https://plus.google.com/+BusinesslistPk" class="google" rel="nofollow" target="_blank">Google+</a>			</div>
 				
 				
-			<div id="international"><h6>International Directories</h6><ul><li><a href="http://www.businesslist.my" class="target" rel="nofollow" title="Malaysia Business Directory" target="_blank">Malaysia</a></li><li><a href="http://www.businesslist.ph" class="target" rel="nofollow" title="Philippines Business Directory" target="_blank">Philippines</a></li><li><a href="http://www.businesslist.sg" class="target" rel="nofollow" title="Singapore Business Directory" target="_blank">Singapore</a></li><li><a href="http://www.businesslist.vn" class="target" rel="nofollow" title="Vietnam Business Directory" target="_blank">Vietnam</a></li><li><a href="http://www.yello.hk" class="target" rel="nofollow" title="Hong Kong Business Directory" target="_blank">Hong Kong</a></li><li><a href="http://www.thaigreenpages.com" class="target" rel="nofollow" title="Thailand Business Directory" target="_blank">Thailand</a></li><li><a href="http://www.yello.ae" class="target" rel="nofollow" title="UAE Business Directory" target="_blank">UAE</a></li><li><a href="http://www.typ.tw" class="target" rel="nofollow" title="Taiwan Business Directory" target="_blank">Taiwan</a></li><li><a href="http://www.indonesiayp.com" class="target" rel="nofollow" title="Indonesia Business Directory" target="_blank">Indonesia</a></li><li><a href="http://www.yelu.in" class="target" rel="nofollow" title="India Business Directory" target="_blank">India</a></li><li><a href="http://www.businesslist.com.cn" class="target" rel="nofollow" title="China Business Directory" target="_blank">China</a></li><li><a href="/international-business-directories-map" rel="nofollow" style="background: none; margin-left: 0;">See All</a></li></ul></div>	
+			<div id="international"><h6>International Directories</h6><ul><li><a href="http://www.businesslist.my" class="target" rel="nofollow" title="Malaysia Business Directory">Malaysia</a></li><li><a href="http://www.businesslist.ph" class="target" rel="nofollow" title="Philippines Business Directory">Philippines</a></li><li><a href="http://www.yelu.sg" class="target" rel="nofollow" title="Singapore Business Directory">Singapore</a></li><li><a href="http://www.yello.vn" class="target" rel="nofollow" title="Vietnam Business Directory">Vietnam</a></li><li><a href="http://www.yello.hk" class="target" rel="nofollow" title="Hong Kong Business Directory">Hong Kong</a></li><li><a href="http://www.thaiyello.com" class="target" rel="nofollow" title="Thailand Business Directory">Thailand</a></li><li><a href="http://www.yello.ae" class="target" rel="nofollow" title="Emirates Business Directory">Emirates</a></li><li><a href="http://www.yello.tw" class="target" rel="nofollow" title="Taiwan Business Directory">Taiwan</a></li><li><a href="http://www.indonesiayp.com" class="target" rel="nofollow" title="Indonesia Business Directory">Indonesia</a></li><li><a href="http://www.yelu.in" class="target" rel="nofollow" title="India Business Directory">India</a></li><li><a href="http://www.businesslist.com.cn" class="target" rel="nofollow" title="China Business Directory">China</a></li><li><a href="/international-business-directories-map" rel="nofollow" style="background: none; margin-left: 0;">See All</a></li></ul></div>	
 	<div id="copyright">© 2009 - 2015 <a href="http://www.businesslist.pk">BusinessList.pk</a> </div>
 </section></footer>
 
@@ -355,9 +375,10 @@ $(function() {
 
 
 
+
   
 
  
 
 
-<div class="acResults" style="display: none; position: absolute;"></div><div class="acResults" style="display: none; position: absolute;"></div></body></html>
+</body></html>
