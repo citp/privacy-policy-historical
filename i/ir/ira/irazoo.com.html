@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the irazoo.com privacy policy that was archived on 2014-10-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141019103608id_/http%3A//www.irazoo.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the irazoo.com privacy policy that was archived on 2015-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207133658id_/http%3A//www.irazoo.com/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="ctl00_head1"><title>
 	
@@ -9,14 +9,19 @@
     
     
    
-    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M78RT3"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://engine.adzerk.net/ados.js"></script><script type="text/javascript" async="" src="https://engine.adzerk.net/ados.js"></script><script type="text/javascript" src="/js/jquery-1.10.2.min.js"></script>
+    
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M78RT3"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" src="/Scripts/jquery-2.1.3.min.js"></script>
     <script type="text/javascript" src="/javascript/jquery.dropDown.pack.js"></script>
     <link type="text/css" rel="stylesheet" media="screen" href="Master/css/styles.css"><link href="/css/reset.css" rel="stylesheet" type="text/css"><link href="/css/styleredesigned.css" rel="stylesheet" type="text/css"><link href="/css/stylenew.css" rel="stylesheet" type="text/css">
+    
+    <script type="text/javascript" src="/js/swfobject-2.2.min.js"></script>
+
     <!--[if lte IE 8]><link href="Master/css/lte_ie8.css" rel="stylesheet" type="text/css" /><![endif]-->
     
     
 
     <script type="text/javascript">
+        
         $(document).ready(function () {
 
             $(".sub_menu").hide();
@@ -74,13 +79,13 @@
     </script>
     <script type="text/javascript">
         try{
-        $(function () {
-            $('ul.menu_left2 li').click(function () {
-                $('ul.menu_left2 li').removeClass('active'); // у всех убираем класс 'selected'
-                $(this).addClass('active'); // текушей вкладке добавляем класс 'selected'
-                return false;
-            }).filter(':first').click();
-        });
+            $(function () {
+                $('ul.menu_left2 li').click(function () {
+                    $('ul.menu_left2 li').removeClass('active'); // у всех убираем класс 'selected'
+                    $(this).addClass('active'); // текушей вкладке добавляем класс 'selected'
+                    return false;
+                }).filter(':first').click();
+            });
         } catch (e) { }
     </script>
     <meta http-equiv="x-ua-compatible" content="ie=7"><meta http-equiv="Content-Type" content="text/html; charset=GB2312"><meta name="keywords" content="<%=GetKeywords() %>"><meta name="description" content="<%=GetDescription() %>"><meta name="Language" content="English"><meta name="classification" content="<%=GetKeywords() %>"><meta name="Robots" content="<%=GetRobots() %>">
@@ -91,10 +96,10 @@
     </style>
     
     <script type="text/javascript">
-    <!--
-    function silentErrorHandler() { return true; }
-    window.onerror = silentErrorHandler;
-    //-->
+        <!--
+        function silentErrorHandler() { return true; }
+        window.onerror = silentErrorHandler;
+        //-->
     </script>
     <link rel="shortcut icon" href="/images/favicon.ico"><link type="text/css" rel="stylesheet" media="screen" href="/css/styles.css">
 
@@ -204,55 +209,55 @@
         function fnSetSearch() {
             try {
                 var strType = document.getElementById('ctl00_txtSearchType').value;
-                    fnSetSearch1(strType);
-                }
-                catch (e) {
-
-                    //alert(e.Message);
-                }
+                fnSetSearch1(strType);
             }
+            catch (e) {
 
-            // Removes leading whitespaces
-            function LTrim(value) {
-
-                var re = /\s*((\S+\s*)*)/;
-                return value.replace(re, "$1");
-
+                //alert(e.Message);
             }
+        }
 
-            // Removes ending whitespaces
-            function RTrim(value) {
+        // Removes leading whitespaces
+        function LTrim(value) {
 
-                var re = /((\s*\S+)*)\s*/;
-                return value.replace(re, "$1");
+            var re = /\s*((\S+\s*)*)/;
+            return value.replace(re, "$1");
 
+        }
+
+        // Removes ending whitespaces
+        function RTrim(value) {
+
+            var re = /((\s*\S+)*)\s*/;
+            return value.replace(re, "$1");
+
+        }
+
+        // Removes leading and ending whitespaces
+        function trim(value) {
+
+            return LTrim(RTrim(value));
+
+        }
+
+        function fnModalWindowCallBack() {
+            if (curUrlVal != '') {
+                window.location.href = curUrlVal;
             }
-
-            // Removes leading and ending whitespaces
-            function trim(value) {
-
-                return LTrim(RTrim(value));
-
+            else {
+                if (refresh)
+                    window.location.href = window.location.href;
             }
+        }
 
-            function fnModalWindowCallBack() {
-                if (curUrlVal != '') {
-                    window.location.href = curUrlVal;
-                }
-                else {
-                    if (refresh)
-                        window.location.href = window.location.href;
-                }
-            }
+        function fnLoadUrl(urlVal) {
+            curUrlVal = urlVal;
+            //window.location.href = urlVal;
+        }
 
-            function fnLoadUrl(urlVal) {
-                curUrlVal = urlVal;
-                //window.location.href = urlVal;
-            }
-
-            function fnSetRefresh() {
-                refresh = true;
-            }
+        function fnSetRefresh() {
+            refresh = true;
+        }
 
     </script>
     <script language="JavaScript" type="text/javascript">
@@ -268,45 +273,22 @@
         }
     </script>
     
-    <script type="text/javascript">var p = "http", d = "static"; if (document.location.protocol == "https:") { p += "s"; d = "engine"; } var z = document.createElement("script"); z.type = "text/javascript"; z.async = true; z.src = p + "://" + d + ".adzerk.net/ados.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(z, s);</script>
-<script type="text/javascript">
-    var ados = ados || {};
-    ados.run = ados.run || [];
-    ados.run.push(function () {
-        /* load placement for account: Nerangalwar, site: iRazoo, size: 728x90 - Leaderboard*/
-        ados_add_placement(9113, 55049, "azk13968", 4);
-        /* load placement for account: Nerangalwar, site: iRazoo, size: 160x600 - Wide Skyscraper*/
-        ados_add_placement(9113, 55049, "azk5263", 6);
-        /* load placement for account: Nerangalwar, site: iRazoo, size: 300x250 - Medium Rectangle*/
-        ados_add_placement(9113, 55049, "azk35392", 5);
-        /* load placement for account: Nerangalwar, site: iRazoo, size: 300x600 - Half Page*/
-        ados_add_placement(9113, 55049, "azk17775", 43);
-        /* load placement for account: Nerangalwar, site: iRazoo, size: 728x90 - Leaderboard*/
-        ados_add_placement(9113, 55049, "azk14869", 4);
-        /* load placement for account: Nerangalwar, site: iRazoo, size: 300x250 - Medium Rectangle*/
-        ados_add_placement(9113, 55049, "azk87515", 5);
-        /* load placement for account: Nerangalwar, site: iRazoo, size: 160x600 - Wide Skyscraper*/
-        ados_add_placement(9113, 55049, "azk14089", 6);
-        
-        ados_load();
-    });</script>
-    <script type="text/javascript">var p = "http", d = "static"; if (document.location.protocol == "https:") { p += "s"; d = "engine"; } var z = document.createElement("script"); z.type = "text/javascript"; z.async = true; z.src = p + "://" + d + ".adzerk.net/ados.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(z, s);</script>
-
+  
     <script>(function () {
-    window._fbds = window._fbds || {};
-    _fbds.pixelId = 723369954370303;
-    var fbds = document.createElement('script');
-    fbds.async = true;
-    fbds.src = '//connect.facebook.net/en_US/fbds.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(fbds, s);
-    })();
-            window._fbq = window._fbq || [];
-            window._fbq.push(["track", "PixelInitialized", {}]);
+            window._fbds = window._fbds || {};
+            _fbds.pixelId = 723369954370303;
+            var fbds = document.createElement('script');
+            fbds.async = true;
+            fbds.src = '//connect.facebook.net/en_US/fbds.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(fbds, s);
+        })();
+        window._fbq = window._fbq || [];
+        window._fbq.push(["track", "PixelInitialized", {}]);
     </script>
     <noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=723369954370303&amp;ev=NoScript" /></noscript>
 
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+</head>
 <body onload="startTime()">
     
 <!-- Google Tag Manager -->
@@ -315,51 +297,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function (w, d, s, l, i) {
     w[l] = w[l] || []; w[l].push({
         'gtm.start':
-        new Date().getTime(), event: 'gtm.js'
+            new Date().getTime(), event: 'gtm.js'
     }); var f = d.getElementsByTagName(s)[0],
-    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-    '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+        '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
 })(window, document, 'script', 'dataLayer', 'GTM-M78RT3');</script>
 <!-- End Google Tag Manager -->
 
     <div id="wrap_site">
         
         
-        <form name="aspnetForm" method="post" action="Privacy.aspx" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_buttonSearch')" id="aspnetForm">
-<div>
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgICBw9kFgwCDQ9kFgJmD2QWAgIBD2QWAmYPZBYIAgEPZBYCAgEPDxYCHgdWaXNpYmxlaGRkAgIPZBYEAgMPFgIfAGhkAgUPFgIfAGgWAgIBDw8WAh4EVGV4dGVkZAIDD2QWBAIBDw8WAh8AaGRkAgMPDxYCHwBnZGQCBQ9kFgQCAQ8PFgIfAGhkZAIDDxYCHgRocmVmBQ0vRGVmYXVsdC5hc3B4ZAIODxYEHwIFDS9EZWZhdWx0LmFzcHgeCWlubmVyaHRtbAUGTG9nIEluZAIPDxYCHwBoZAIQDxYCHwBoZAISDw9kFgIeB29uY2xpY2sFF3JldHVybiBWYWxpZGF0ZVNlYXJjaCgpZAIWDw8WAh8BBd8BPHNjcmlwdD50cnl7ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2Zvb3RlckNhdGFsb2cnKS5zdHlsZS5kaXNwbGF5ID0gJ25vbmUnO31jYXRjaChlKXt9PC9zY3JpcHQ+PHNjcmlwdD50cnl7ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3RibFRodW1ic2hvdHMnKS5zdHlsZS5kaXNwbGF5ID0gJ25vbmUnO31jYXRjaChlKXt9PC9zY3JpcHQ+PHNjcmlwdD5mblNldFNlYXJjaCgpOzwvc2NyaXB0PmRkZA==">
-</div>
-
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['aspnetForm'];
-if (!theForm) {
-    theForm = document.aspnetForm;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
+        
+        <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="EEzIONKj5ZgbM86X6Rf5+52hYZJz+GvwI4Xr3afB2BYAPNFLUf43mRibsZLhpAjODdaItCohYVEs98I/fQp1noWLT72Ajt1YSXb7nUib8VPSA8TwxqPKZy1nam7z0ux8RO7b/LZjrBxAFOPfaG6YloRDL6Q4XO1E3YK2hFgARVda29AsRBM0Nm7he3WmZy7Vy+FIa7IH/Kup7rhc54Xxup7mix7sMcoDJ2x4uB8TaOGve2dRRjP/0bAwqvMNVJSuBp8TVGHluBQa4dU40DxqmjLkICaBz82e/hHEN0zSG8LJq29eKEQzfoag3Ax4hJBpaz9OGGwakuOQ91DsipdoquLkVo/WMGAmjK0yms+mSiWmwOiImX2jVIYcUYZikpDQygb4Sl5QKTSpbhl8Mmevtz7tsaiU1mUuA0hhZqdw70JG9KS9ike1BNey7z+2gEKgGK4w4frltTiZwwMJM9lcilxvK6VrgZmxhQ8aEIDLFghD/8x0PzDCeF8keUAuneT4nG1iptj8R+kLTI9zO+TvIw1KdYTr1xHU3utBFvez3m9gu413eo+bJlxSgk89NXZKzZ9omFWOMg3zGcLdRGHiqq2wKJMJ4Zi1Z2xuxwUt0Xf1SnJPo6wGQCGbcGyXY8JYgfIYLYhJJPbjYp053vc9G+jDt88nCtTyor6R/QAJj1fB8lM8ZdQlq58wZmcrvjCsDslh60KvevrfEYlvOAAlcJ73mGSKrlTxUy/Qqxyv2TZqu7zwsoinh1RW67cVRkl6gVqgbCvt27n7/Qq3HGnZig==">
 
 
-<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZMNmZMSyfj1GM9nn_NZu7dtCEp2SFpqTNyZUtdxQlX77tbpN_bN-2DU13sHUb6ixhg2&amp;t=634773912100000000" type="text/javascript"></script>
-
-
-<script src="/ScriptResource.axd?d=x6wALODbMJK5e0eRC_p1Lc7ZRmjG1hlIVwVO8YHHOgw2Lo0rEtT84-pPjX0F3Ffk-7doqHPjc8DcllFDnSz70ekwIbN_GtZG_pxopTte-7a_zjoufNWmOHznh3uDlBuV0&amp;t=fffffffff2b1ef38" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=P5lTttoqSeZXoYRLQMIScBhy5kzNxuL52fgeN-6UFSfLB5Cf0uHBzhJ3JBUSQUbF2uM-HtS3BA744YJdN-hKseo3mAHXtlW7lTdoaODbW2_bpGIpHdHev7zE_vlrPwDQ0&amp;t=fffffffff2b1ef38" type="text/javascript"></script>
-<script src="/WebResource.axd?d=JoBkLzP19aTuxbWOhHobYrAKYXXfRb6KAMfIp9dKjC_3OGo-n2T8-1dlxWhvFH76WXTbAawWMMNi4-VU5iInmA2&amp;t=634773912100000000" type="text/javascript"></script>
-<div>
-
-	<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="K6icqBBHIyeADfYQERDyqoViD0u_JqTJGEnp5BWNFviDi14YOCruyVYmMBQ86guxvNpPQKUghlw_-Nesj3gVUw2">
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAyj6NdBSMword2tUHEUwlJfESyiCw5nLAjwUPgi1nmHghHjTGd8emm7odCPHopeztiwKl7IC/dIox/vXycUslUP9FdbFhIk4MofelTqIxxWqMaflR521OIOrcIKgnqO8zL0eRNeR7BB680nVGRio3x2QRC8e7CTbgVoQCWQlZprNvflzULDgEG8MqIQdDjtlWdrQY6k9xDk9/UIpHssYZehfYzRQ/8KPNj6NqPcgay+FuE+StI2sCPc3nHR/7E6TsY=">
-</div>
+<script src="/ScriptResource.axd?d=qph9tUZ6hGPLbkznkRkqTf89URd2i56yxvhWt-YPGSK6JMDSqsHqGd5L7PgpYv0-sRv3X_t08xIKVp3kdz80RODI2g3rII5DHLuIYFly38RB-BeTfG9AOjtpbM0PePv20&amp;t=fffffffff2b1ef38" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EAA40B43">
+<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="K6icqBBHIyeADfYQERDyqiZur4vi2TdpOlUQjTPcvvltq2I65chHNsGxFynq4eGPWUmQtcajnljUnryzJLHC7Q2">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="REWtPVZxRwO9X+oJVMsgSQ8bRVUMGVOHcyTW3ifNsKK6jdeRHzoT2kfKyWLAZ+IhPAUVFY10gKBjcGEyqD78skiNjCqptFgNfQTf5WCwCGVJhEfQpGeOhcxafWgqfuT+9eP3DQhpz1OToJsg6YtvJjiv+ohAiOsaXi054fmD+kT42CP39lEuya8nXCrsex8GVimWFGLX4q3f74/qY75CcMlWy1ARu6QGC1lsG5gqDSLJJZYw6QJ8JtKHVh6gDgfFM1gCwc0Fguuk2QtgYtRokIUP+VYJbj0oB7x+2WdXAKkwJ+xmhEhccUIbu75AZlO7+lmDvk2icLDmxb+FRpwTzg==">
             <input type="hidden" name="ctl00$hdnAppkey" id="ctl00_hdnAppkey" value="109708142417757">
             <input type="hidden" name="ctl00$hdnAppId" id="ctl00_hdnAppId" value="109708142417757">
             <div id="fb-root">
@@ -405,7 +361,7 @@ function __doPostBack(eventTarget, eventArgument) {
                     var e = document.createElement('script');
                     e.type = 'text/javascript';
                     e.src = document.location.protocol +
-                            '//connect.facebook.net/en_US/all.js';
+                        '//connect.facebook.net/en_US/all.js';
                     e.async = true;
                     document.getElementById('fb-root').appendChild(e);
                 }());
@@ -415,12 +371,9 @@ function __doPostBack(eventTarget, eventArgument) {
                 }
 
             </script>
-            <script type="text/javascript">
-//<![CDATA[
-Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm', ['tctl00$pnlUpdateLogin',''], [], [], 90, 'ctl00');
-//]]>
-</script>
-
+            
+            
+            
 
             
 
@@ -511,7 +464,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                                                 <table cellpadding="0" cellspacing="0" border="0">
                                                     <tbody><tr>
                                                         <td>
-                                                            <span id="ctl00_labelPointsMessage" style="color:Red;"></span>
+                                                            <span id="ctl00_labelPointsMessage"><font color="Red"></font></span>
                                                         </td>
                                                         
                                                         
@@ -572,27 +525,27 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                             <li><a class="earnpoints" href="/Offers.aspx"><span></span>Earn Points</a>
 
                                 <ul class="sub_menu">
-                                    <li><a href="/Shopping/ShoppingSearch.aspx?K=P">Shopping</a></li>
                                     <li><a href="/Offers.aspx">Offers</a></li>
-                                    <li><a href="/TaskOffers.aspx">Tasks</a></li>
+                                    <li><a href="/Videos/Videos.aspx?cId=20&amp;category=Arts/Balloons">Videos</a></li>
                                     <li><a href="/SurveysTab.aspx">Surveys</a></li>
+                                    <li><a href="/TaskOffers.aspx">Tasks</a></li>
+                                    <li><a href="/TrialPayDealSpot.aspx">Deal Spot</a></li>
+                                    <li><a href="/SearchResults.aspx">Search</a></li>
+                                    <li><a href="/Shopping/ShoppingSearch.aspx?K=P">Shopping</a></li>
                                     
                                     
                                     
                                     <li><a href="/DailyDeals.aspx">Deals of the day</a></li> 
-                                    <li><a href="/Videos/Videos.aspx?cId=20&amp;category=Arts/Balloons">Videos</a></li>
                                     <li><a href="/Games/Games2.aspx">Games</a></li>
                                     
-                                    <li><a href="/SearchResults.aspx">Search</a></li>
-                                    <li><a href="/Treasures.aspx">Treasure Code</a></li>
                                     
-                                    <li><a href="/Bonus/HowtoEarnBonusPoints.aspx">Bonus Points</a></li>
                                     <li><a href="/SpecialOffers.aspx">Special Offers</a></li>
                                     <li><a href="/Coupons.aspx">Grocery Coupons</a></li>
                                     <li><a href="/Toolbar/Toolbar.aspx">Toolbar</a></li>
-                                    <li><a href="/PhoneVerification.aspx">Phone Verify</a></li>
                                     
                                     
+                                    <li><a href="/Treasures.aspx">Treasure Code</a></li>
+                                    <li><a href="/Bonus/HowtoEarnBonusPoints.aspx">Bonus Points</a></li>
                                 </ul>
 
                             </li>
@@ -713,9 +666,11 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                         </fieldset>
                     </div>
                     <div class="clear"></div>
-                    <div class="banner floatLeft" style="width: 801px; height: 99px">
+                    <div id="ctl00_divHeaderBanner" class="banner floatLeft" style="width: 801px; height: 99px">
                         
-                        <div id="azk13968"></div>
+                        <!-- ValueClick Media 468x60 and 728x90 Banner CODE for irazoo.com - International -->
+                        <script type="text/javascript">var vclk_options = { sid: 69001, media_id: 1, media_type: 5, version: "1.3" };</script><script class="vclk_pub_code" type="text/javascript" src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js?sid=69001&amp;media_id=1&amp;media_type=5&amp;version=1.3&amp;exc=1"></script><noscript><a href="http://media.fastclick.net/w/click.here?sid=69001&m=1&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=69001&m=1&tp=5&d=s&c=1&vcm_acv=1.3" width=728 height=90 border=1></a></noscript>
+                        <!-- ValueClick Media 468x60 and 728x90 Banner CODE for irazoo.com - International --><div id="azk13968"></div>
                      
                     </div>
                     <div class="points_select floatRight">
@@ -728,7 +683,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                             </div>
                         </div>
                         <br>
-                        <div id="divTime" style="color:blue">02/24/2020&nbsp;9:33:50</div>
+                        <div id="divTime" style="color:blue">02/24/2020&nbsp;9:34:01</div>
                     </div>
                 </div>
 
@@ -899,11 +854,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
         iRazoo.com<br>
         5644 Westheimer, #407<br>
         Houston, Texas, 77056<br>
-        or team@iRAZOO-inc.com<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script><br>
+        or team@iRAZOO-inc.com<br>
   <br>
         This privacy policy was last updated on January 14th, 2010</p>
       <p>&nbsp; </p>
@@ -979,9 +930,11 @@ try{
                             
                             <tbody><tr>
                                 <td align="left">
-                                    <div id="azk14869">
+                                    <!-- ValueClick Media 468x60 and 728x90 Banner CODE for irazoo.com - International -->
+                                    <script type="text/javascript">var vclk_options = { sid: 69001, media_id: 1, media_type: 5, version: "1.3" };</script><script class="vclk_pub_code" type="text/javascript" src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js?sid=69001&amp;media_id=1&amp;media_type=5&amp;version=1.3&amp;exc=1"></script><noscript><a href="http://media.fastclick.net/w/click.here?sid=69001&m=1&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=69001&m=1&tp=5&d=s&c=1&vcm_acv=1.3" width=728 height=90 border=1></a></noscript>
+                                    <!-- ValueClick Media 468x60 and 728x90 Banner CODE for irazoo.com - International -->
                                    
-                                </div></td>
+                                </td>
                             </tr>
                             
                             <tr id="ctl00_tblFooterLinks">
@@ -1001,22 +954,20 @@ try{
                                             <div class="footer-menu-masterpage">
                                                 <a href="/Offers.aspx"><strong>Earn Points</strong></a>
                                                 <ul>
-                                                    <li><a href="/Shopping/ShoppingSearch.aspx?K=P">Shopping</a></li>
                                                     <li><a href="/Offers.aspx">Offers</a></li>
-                                                    <li><a href="/TaskOffers.aspx">Tasks</a></li>
-                                                    <li><a href="/Survey.aspx">Surveys</a></li>
-                                                    <li><a href="/DailyDeals.aspx">Deals of the day</a></li>
                                                     <li><a href="/Videos/Videos.aspx?cId=20&amp;category=Arts/Balloons">Videos</a></li>
-                                                    <li><a href="/Games/Games.aspx">Games</a></li>
+                                                    <li><a href="/Survey.aspx">Surveys</a></li>
+                                                    <li><a href="/TaskOffers.aspx">Tasks</a></li>
+                                                    <li><a href="/TrialPayDealSpot.aspx">Deal Spot</a></li>
                                                     <li><a href="/SearchResults.aspx">Search</a></li>
-                                                    <li><a href="/Treasures.aspx">Treasure Code</a></li>
-                                                    <li><a href="/CouponCodes.aspx">Coupon Codes</a></li>
-                                                    <li><a href="/Bonus/HowtoEarnBonusPoints.aspx">Bonus Points</a></li>
+                                                    <li><a href="/Shopping/ShoppingSearch.aspx?K=P">Shopping</a></li>
+                                                    <li><a href="/DailyDeals.aspx">Deals of the day</a></li>
+                                                    <li><a href="/Games/Games.aspx">Games</a></li>
                                                     <li><a href="/SpecialOffers.aspx">Special Offers</a></li>
                                                     <li><a href="/Coupons.aspx">Grocery Coupons</a></li>
                                                     <li><a href="/Toolbar/Toolbar.aspx">Toolbar</a></li>
-                                                    <li><a href="/OpinionSurveys.aspx">Daily Surveys</a></li>
-                                                    <li><a href="/PantheraSurvey.aspx">Panthera Survey</a></li>
+                                                    <li><a href="/Treasures.aspx">Treasure Code</a></li>
+                                                    <li><a href="/Bonus/HowtoEarnBonusPoints.aspx">Bonus Points</a></li>
                                                 </ul>
 
                                             </div>
@@ -1076,7 +1027,7 @@ try{
                                             </div>
                                             <div class="clear"></div>
                                             <div class="copyright_masterpage">
-                                                <p>Copyright © 2013 iRazoo™ (iRazoo LLC) All Rights Reserved. All trademarks and registered trademarks appearing on this web site are the properties of the respective owners. Said owners do not endorse nor are they affiliated with Razoo.com or its promotions.</p>
+                                                <p>Copyright © 2015 iRazoo™ (iRazoo LLC) All Rights Reserved. All trademarks and registered trademarks appearing on this web site are the properties of the respective owners. Said owners do not endorse nor are they affiliated with Razoo.com or its promotions.</p>
                                                 <p>*Amazon.com is not a sponsor of this promotion. Except as required by law, Amazon.com Gift Cards ("GCs") cannot be transferred for value or redeemed for cash. GCs may be used only for purchases of eligible goods on Amazon.com or certain of its affiliated websites. For complete terms and conditions, see www.amazon.com/gc-legal. GCs are issued by ACI Gift Cards, Inc., a Washington corporation. ©,®,™ Amazon.com Inc. and/or its affiliates, 2013. No expiration date or service fees.</p>
                                             </div>
                                             <div class="clear"></div>
@@ -1092,7 +1043,7 @@ try{
                                                     <a style="color: #727272" href="/paid-surveys.aspx">Free Paid Surveys</a>&nbsp;|
                                                     <a style="color: #727272" href="/free-walmart-gift-card.aspx">Free Walmart Gift Cards</a>&nbsp;|
                                                     <a style="color: #727272" href="/free-stuff-online.aspx">Get Free Stuff Online</a>&nbsp;|
-                                                    <a style="color: #727272" href="/FavoriteSites/Allpages.aspx">Favorite sites</a>
+                                                    
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -1102,7 +1053,7 @@ try{
                                                     <a style="color: #727272" href="/make-money-online.aspx">Make Money Online</a>&nbsp;|
                                                     <a style="color: #727272" href="/money-surveys.aspx">Take Surveys Online</a>&nbsp;|
                                                     <a style="color: #727272" href="/how-to-make-money-fast.aspx">How to Make Money Fast Online</a>&nbsp;|
-                                                    <a style="color: #727272" href="/InterestingSites/Allpages.aspx">Interesting sites</a>
+                                                    
                                                         </td>
                                                     </tr>
                                                 </tbody></table>
@@ -1154,94 +1105,94 @@ try{
                     try {
                         //alert(strtype);
                         document.getElementById('ctl00_txtChanged').value = "t";
-                    document.getElementById('ctl00_txtSearchType').value = strtype;
-                    document.getElementById('lnkWebTab').style.fontWeight = "normal";
-                    document.getElementById('lnkWebTab1').style.fontWeight = "normal";
-                    //document.getElementById('lnkImageTab').style.fontWeight = "normal";
-                    document.getElementById('lnkNewsTab').style.fontWeight = "normal";
-                    document.getElementById('lnkNewsTab1').style.fontWeight = "normal";
-                    document.getElementById('lnkVideoTab').style.fontWeight = "normal";
-                    document.getElementById('lnkVideoTab1').style.fontWeight = "normal";
-                    document.getElementById('lnkRazooPediaTab').style.fontWeight = "normal";
-                    document.getElementById('lnkRazooPediaTab1').style.fontWeight = "normal";
-                    //document.getElementById('lnkShoppingTab').style.fontWeight = "normal";
-                    //document.getElementById('lnkShoppingTab1').style.fontWeight = "normal";
-                    document.getElementById('lnkImageTab').style.fontWeight = "normal";
-                    document.getElementById('lnkImageTab1').style.fontWeight = "normal";
+                        document.getElementById('ctl00_txtSearchType').value = strtype;
+                        document.getElementById('lnkWebTab').style.fontWeight = "normal";
+                        document.getElementById('lnkWebTab1').style.fontWeight = "normal";
+                        //document.getElementById('lnkImageTab').style.fontWeight = "normal";
+                        document.getElementById('lnkNewsTab').style.fontWeight = "normal";
+                        document.getElementById('lnkNewsTab1').style.fontWeight = "normal";
+                        document.getElementById('lnkVideoTab').style.fontWeight = "normal";
+                        document.getElementById('lnkVideoTab1').style.fontWeight = "normal";
+                        document.getElementById('lnkRazooPediaTab').style.fontWeight = "normal";
+                        document.getElementById('lnkRazooPediaTab1').style.fontWeight = "normal";
+                        //document.getElementById('lnkShoppingTab').style.fontWeight = "normal";
+                        //document.getElementById('lnkShoppingTab1').style.fontWeight = "normal";
+                        document.getElementById('lnkImageTab').style.fontWeight = "normal";
+                        document.getElementById('lnkImageTab1').style.fontWeight = "normal";
 
-                    //document.getElementById('lnkDictTab').style.fontWeight = "normal";
-                    if (strtype == 'w' || strtype == 'W') {
-                        document.getElementById('lnkWebTab').style.fontWeight = "bold";
-                        document.getElementById('lnkWebTab1').style.fontWeight = "bold";
-                    }
-                    else if (strtype == 'i' || strtype == 'I') {
-                        document.getElementById('lnkImageTab').style.fontWeight = "bold";
-                        document.getElementById('lnkImageTab1').style.fontWeight = "bold";
-                    }
-                    else if (strtype == 'v' || strtype == 'V') {
-                        document.getElementById('lnkVideoTab').style.fontWeight = "bold";
-                        document.getElementById('lnkVideoTab1').style.fontWeight = "bold";
-                    }
-                    else if (strtype == 'r' || strtype == 'R') {
-                        document.getElementById('lnkRazooPediaTab').style.fontWeight = "bold";
-                        document.getElementById('lnkRazooPediaTab1').style.fontWeight = "bold";
-                    }
-                    else if (strtype == 'd' || strtype == 'D') {
-                        //document.getElementById('lnkDictTab').style.fontWeight = "bold";
-                    }
-                    else if (strtype == 'n' || strtype == 'N') {
-                        document.getElementById('lnkNewsTab').style.fontWeight = "bold";
-                        document.getElementById('lnkNewsTab1').style.fontWeight = "bold";
-                    }
-                    else if (strtype == 's' || strtype == 'S') {
-                        //document.getElementById('lnkShoppingTab').style.fontWeight = "bold";
-                        //document.getElementById('lnkShoppingTab1').style.fontWeight = "bold";
-                    }
+                        //document.getElementById('lnkDictTab').style.fontWeight = "normal";
+                        if (strtype == 'w' || strtype == 'W') {
+                            document.getElementById('lnkWebTab').style.fontWeight = "bold";
+                            document.getElementById('lnkWebTab1').style.fontWeight = "bold";
+                        }
+                        else if (strtype == 'i' || strtype == 'I') {
+                            document.getElementById('lnkImageTab').style.fontWeight = "bold";
+                            document.getElementById('lnkImageTab1').style.fontWeight = "bold";
+                        }
+                        else if (strtype == 'v' || strtype == 'V') {
+                            document.getElementById('lnkVideoTab').style.fontWeight = "bold";
+                            document.getElementById('lnkVideoTab1').style.fontWeight = "bold";
+                        }
+                        else if (strtype == 'r' || strtype == 'R') {
+                            document.getElementById('lnkRazooPediaTab').style.fontWeight = "bold";
+                            document.getElementById('lnkRazooPediaTab1').style.fontWeight = "bold";
+                        }
+                        else if (strtype == 'd' || strtype == 'D') {
+                            //document.getElementById('lnkDictTab').style.fontWeight = "bold";
+                        }
+                        else if (strtype == 'n' || strtype == 'N') {
+                            document.getElementById('lnkNewsTab').style.fontWeight = "bold";
+                            document.getElementById('lnkNewsTab1').style.fontWeight = "bold";
+                        }
+                        else if (strtype == 's' || strtype == 'S') {
+                            //document.getElementById('lnkShoppingTab').style.fontWeight = "bold";
+                            //document.getElementById('lnkShoppingTab1').style.fontWeight = "bold";
+                        }
 
 
-                    //document.getElementById('ctl00_textBoxSearch').focus();   
-                    //var searchTxt =  document.getElementById('ctl00_textBoxSearch').value;
+                        //document.getElementById('ctl00_textBoxSearch').focus();   
+                        //var searchTxt =  document.getElementById('ctl00_textBoxSearch').value;
 
-                    //document.forms[0].submit();
-                }
-                catch (e) {
-                    //alert(e.Message);
-                }
-            }
-
-            function fnCommunitySearch(sHeaderFooter) {
-                var str = trim(document.getElementById('ctl00_textBoxSearch').value);
-                if (sHeaderFooter == 'f') {
-                    str = trim(document.getElementById('ctl00_textBoxSearchFooter').value);
+                        //document.forms[0].submit();
+                    }
+                    catch (e) {
+                        //alert(e.Message);
+                    }
                 }
 
-                if (str.indexOf("<") > -1 || str.indexOf(">") > -1 || str.toLowerCase().indexOf("&lt;") > -1 || str.toLowerCase().indexOf("&gt;") > -1) {
-                    document.getElementById('ctl00_labelPointsMessage').innerText = "The search keywords contain invalid characters!";
+                function fnCommunitySearch(sHeaderFooter) {
+                    var str = trim(document.getElementById('ctl00_textBoxSearch').value);
+                    if (sHeaderFooter == 'f') {
+                        str = trim(document.getElementById('ctl00_textBoxSearchFooter').value);
+                    }
+
+                    if (str.indexOf("<") > -1 || str.indexOf(">") > -1 || str.toLowerCase().indexOf("&lt;") > -1 || str.toLowerCase().indexOf("&gt;") > -1) {
+                        document.getElementById('ctl00_labelPointsMessage').innerText = "The search keywords contain invalid characters!";
+                        return false;
+                    }
+                    if (str.length > 0) {
+                        var strType = document.getElementById('ctl00_txtSearchType').value;
+                        if (strType == 'I') {
+                            window.open("http://www.irazoo.com/Image/ImageSearchResults.aspx?q=" + escape(str) + "&Page=1");
+                        }
+                        else if (strType == 'N') {
+                            window.open("http://www.irazoo.com/News/NewsSearchResults.aspx?q=" + escape(str) + "&Page=1");
+                        }
+                        else if (strType == 'V') {
+                            window.open("http://www.irazoo.com/Video/VideoSearchResults.aspx?q=" + escape(str) + "&Page=1");
+                        }
+                        else if (strType == 'R') {
+                            window.open("http://www.irazoo.com/Razoopedia.aspx/" + str);
+                        }
+                        else if (strType == 'S') {
+                            window.open("http://localhost/Shopping/Shopping.aspx?q=" + escape(str) + "&Page=1");
+                        }
+                        else {
+                            window.open("http://www.irazoo.com/SearchResults.aspx?q=" + escape(str) + "&Page=1");
+                        }
+                    }
                     return false;
                 }
-                if (str.length > 0) {
-                    var strType = document.getElementById('ctl00_txtSearchType').value;
-                    if (strType == 'I') {
-                        window.open("http://www.irazoo.com/Image/ImageSearchResults.aspx?q=" + escape(str) + "&Page=1");
-                    }
-                    else if (strType == 'N') {
-                        window.open("http://www.irazoo.com/News/NewsSearchResults.aspx?q=" + escape(str) + "&Page=1");
-                    }
-                    else if (strType == 'V') {
-                        window.open("http://www.irazoo.com/Video/VideoSearchResults.aspx?q=" + escape(str) + "&Page=1");
-                    }
-                    else if (strType == 'R') {
-                        window.open("http://www.irazoo.com/Razoopedia.aspx/" + str);
-                    }
-                    else if (strType == 'S') {
-                        window.open("http://localhost/Shopping/Shopping.aspx?q=" + escape(str) + "&Page=1");
-                    }
-                    else {
-                        window.open("http://www.irazoo.com/SearchResults.aspx?q=" + escape(str) + "&Page=1");
-                    }
-                }
-                return false;
-            }
             </script>
             <script type="text/javascript" language="javascript">
                 var sc_project = 2314230;
@@ -1253,8 +1204,8 @@ try{
                     init: function () {
                         this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
                         this.version = this.searchVersion(navigator.userAgent)
-                    || this.searchVersion(navigator.appVersion)
-                    || "an unknown version";
+                            || this.searchVersion(navigator.appVersion)
+                            || "an unknown version";
                         this.OS = this.searchString(this.dataOS) || "an unknown OS";
                     },
                     searchString: function (data) {
@@ -1276,81 +1227,81 @@ try{
                         return parseFloat(dataString.substring(index + this.versionSearchString.length + 1));
                     },
                     dataBrowser: [
-                {
-                    string: navigator.userAgent,
-                    subString: "OmniWeb",
-                    versionSearch: "OmniWeb/",
-                    identity: "OmniWeb"
-                },
-                {
-                    string: navigator.vendor,
-                    subString: "Apple",
-                    identity: "Safari"
-                },
-                {
-                    prop: window.opera,
-                    identity: "Opera"
-                },
-                {
-                    string: navigator.vendor,
-                    subString: "iCab",
-                    identity: "iCab"
-                },
-                {
-                    string: navigator.vendor,
-                    subString: "KDE",
-                    identity: "Konqueror"
-                },
-                {
-                    string: navigator.userAgent,
-                    subString: "Firefox",
-                    identity: "Firefox"
-                },
-                {
-                    string: navigator.vendor,
-                    subString: "Camino",
-                    identity: "Camino"
-                },
-                {		// for newer Netscapes (6+)
-                    string: navigator.userAgent,
-                    subString: "Netscape",
-                    identity: "Netscape"
-                },
-                {
-                    string: navigator.userAgent,
-                    subString: "MSIE",
-                    identity: "Explorer",
-                    versionSearch: "MSIE"
-                },
-                {
-                    string: navigator.userAgent,
-                    subString: "Gecko",
-                    identity: "Mozilla",
-                    versionSearch: "rv"
-                },
-                { 		// for older Netscapes (4-)
-                    string: navigator.userAgent,
-                    subString: "Mozilla",
-                    identity: "Netscape",
-                    versionSearch: "Mozilla"
-                }
+                        {
+                            string: navigator.userAgent,
+                            subString: "OmniWeb",
+                            versionSearch: "OmniWeb/",
+                            identity: "OmniWeb"
+                        },
+                        {
+                            string: navigator.vendor,
+                            subString: "Apple",
+                            identity: "Safari"
+                        },
+                        {
+                            prop: window.opera,
+                            identity: "Opera"
+                        },
+                        {
+                            string: navigator.vendor,
+                            subString: "iCab",
+                            identity: "iCab"
+                        },
+                        {
+                            string: navigator.vendor,
+                            subString: "KDE",
+                            identity: "Konqueror"
+                        },
+                        {
+                            string: navigator.userAgent,
+                            subString: "Firefox",
+                            identity: "Firefox"
+                        },
+                        {
+                            string: navigator.vendor,
+                            subString: "Camino",
+                            identity: "Camino"
+                        },
+                        {		// for newer Netscapes (6+)
+                            string: navigator.userAgent,
+                            subString: "Netscape",
+                            identity: "Netscape"
+                        },
+                        {
+                            string: navigator.userAgent,
+                            subString: "MSIE",
+                            identity: "Explorer",
+                            versionSearch: "MSIE"
+                        },
+                        {
+                            string: navigator.userAgent,
+                            subString: "Gecko",
+                            identity: "Mozilla",
+                            versionSearch: "rv"
+                        },
+                        { 		// for older Netscapes (4-)
+                            string: navigator.userAgent,
+                            subString: "Mozilla",
+                            identity: "Netscape",
+                            versionSearch: "Mozilla"
+                        }
                     ],
                     dataOS: [
-                {
-                    string: navigator.platform,
-                    subString: "Win",
-                    identity: "Windows"
-                },
-                {
-                    string: navigator.platform,
-                    subString: "Mac",
-                    identity: "Mac"
-                },
-                {
-                    string: navigator.platform,
-                    subString: "Linux",
-                    identity: "Linux"
-                }
+                        {
+                            string: navigator.platform,
+                            subString: "Win",
+                            identity: "Windows"
+                        },
+                        {
+                            string: navigator.platform,
+                            subString: "Mac",
+                            identity: "Mac"
+                        },
+                        {
+                            string: navigator.platform,
+                            subString: "Linux",
+                            identity: "Linux"
+                        }
                     ]
 
                 };
@@ -1412,22 +1363,16 @@ try{
 
                 try {
                     document.getElementById('ctl00_lnkNewUserSearch').style.display = "none";
-            } catch (e) { }
+                } catch (e) { }
 
-            try {
-                document.getElementById('ctl00_lnkNewUserSearch1').style.display = "none";
-            }
-            catch (e) { }
+                try {
+                    document.getElementById('ctl00_lnkNewUserSearch1').style.display = "none";
+                }
+                catch (e) { }
 
             </script>
             <span id="ctl00_lblFbLogout" style="display: none;"></span>
-        
-
-<script type="text/javascript">
-//<![CDATA[
-WebForm_AutoFocus('buttonSearch');//]]>
-</script>
-</form>
+        </form>
         
         
         <table cellpadding="0" cellspacing="0" style="right: 0; position: fixed; top: 23%;">
@@ -1441,24 +1386,7 @@ WebForm_AutoFocus('buttonSearch');//]]>
     </div>
    
 
-    <script type="text/javascript">
-        adroll_adv_id = "NUE7VPF4L5CLHCJMYONJ4P";
-        adroll_pix_id = "VN4XPN3QRRHBPATLCBG7M6";
-        (function () {
-            var oldonload = window.onload;
-            window.onload = function () {
-                __adroll_loaded = true;
-                var scr = document.createElement("script");
-                var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-                scr.setAttribute('async', 'true');
-                scr.type = "text/javascript";
-                scr.src = host + "/j/roundtrip.js";
-                ((document.getElementsByTagName('head') || [null])[0] ||
-                 document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-                if (oldonload) { oldonload() }
-            };
-        }());
-</script>
+
     
     <script type="text/javascript">
 
@@ -1493,7 +1421,32 @@ WebForm_AutoFocus('buttonSearch');//]]>
             }
             return i;
         }
+    </script>
+    
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g;
+        m.parentNode.insertBefore(a, m);
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-2259597-1', 'auto');
+    ga('send', 'pageview');
+
 </script>
+    
+    <script type="text/javascript">
+        var gr_goal_params = {
+            param_0: '',
+            param_1: '',
+            param_2: '',
+            param_3: '',
+            param_4: '',
+            param_5: ''
+        };</script>
+ <script type="text/javascript" src="https://app.getresponse.com/goals_log.js?p=351202&amp;u=qvXS"></script>
         
 
 
