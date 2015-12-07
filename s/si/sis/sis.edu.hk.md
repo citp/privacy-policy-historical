@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sis.edu.hk privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428234628id_/http%3A//www.sis.edu.hk/node/1677) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sis.edu.hk privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207154037id_/http%3A//www.esf.edu.hk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | South Island School
+# Privacy Policy | English Schools Foundation
 
 The English Schools Foundation (ESF) and its schools collect and hold personal information of individuals for various purposes. ESF and its schools are committed to meeting internationally recognised standards of personal data privacy protection, in compliance with the requirements of the [_Personal Data (Privacy) Ordinance_](http://www.pcpd.org.hk/english/ordinance/ordfull.html). In doing so, it will be ensured that ESF staff and any parties who are assigned by ESF to handle the information will comply with the strictest standards of security and confidentiality.  
 
@@ -20,7 +20,7 @@ There are three general categories and use of personal data held by ESF and its 
 
 The phrase “English Schools Foundation (ESF) and its schools” means ESF Centre, the fifteen schools operated by ESF, the two Private Independent Schools and the four kindergartens operated under ESF Educational Services Limited (ESL).
 
-**General Personal Information Collection Statement:** From time to time, as part of ESF’s operations, personal data may be collected with the following statement appended to the collection: _The information submitted on this form is being collected in accordance with the ESF Personal Data Handling Policy and its related Personal Information Collection Statements (“PICS”). A copy of the PICS can be found on the ESF web site (<http://www.esf.edu.hk/> ) by clicking on the “About ESF” tab._ _To view the PICS associated with the collection of this information, click[here](http://www.esf.edu.hk/node/5714)._
+ **General Personal Information Collection Statement:** From time to time, as part of ESF’s operations, personal data may be collected with the following statement appended to the collection: _The information submitted on this form is being collected in accordance with the ESF Personal Data Handling Policy and its related Personal Information Collection Statements (“PICS”). A copy of the PICS can be found on the ESF web site (<http://www.esf.edu.hk/> ) by clicking on the “About ESF” tab._ _To view the PICS associated with the collection of this information, click[here](http://www.esf.edu.hk/node/5714)._
 
 If you have any queries about our policy and practices, please write to [_info@esfcentre.edu.hk_](mailto:info@esfcentre.edu.hk)
 
