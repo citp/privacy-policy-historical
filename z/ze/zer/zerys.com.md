@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the zerys.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608025135id_/http%3A//www.interactmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerys.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207053312id_/http%3A//www.interactmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Interactmedia
 
 **Introduction**  
-Protecting personal information is very important to us at Interact Media. This privacy statement describes how Interact Media collects and uses the personal information you provide on our Web site: [www.interactmedia.com](https://web.archive.org/). It also describes the choices available to you regarding Interact Media's use of your personal information and the steps you can take to access this information and to request that we correct or delete it.  
+Protecting personal information is very important to us at Interact Media. This privacy statement describes how Interact Media collects and uses the personal information you provide on our Web site: [www.interactmedia.com](https://web.archive.org/web/20151207053312id_/http://www.interactmedia.com/index.html). It also describes the choices available to you regarding Interact Media's use of your personal information and the steps you can take to access this information and to request that we correct or delete it.  
 Interact Media abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.  
 If you have questions about this privacy statement, please send them to us by email to [support@interactmedia.com](mailto:privacy@interactmedia.com) or write to us at the following address:
 
