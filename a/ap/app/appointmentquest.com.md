@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appointmentquest.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074414id_/http%3A//www.appointmentquest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appointmentquest.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207133327id_/http%3A//www.appointmentquest.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AppointmentQuest Online Scheduling Software
 
@@ -113,10 +113,11 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 If you have any questions or suggestions regarding this privacy policy, please contact us at:
 
-AppointmentQuest LLC  
-privacy@appointmentquest.com  
-3400 Industrial Lane Suite 3  
-Broomfield, CO 80020  
+ **AppointmentQuest LLC**  
+P.O. Box 667  
+Broomfield, CO 80038-0667  
+USA  
+[privacy@appointmentquest.com](mailto:privacy@appointmentquest.com)  
 [www.appointmentquest.com](http://www.appointmentquest.com/)
 
-Last updated July 25, 2012 (07/25/2012)
+Last updated December 1, 2015 (12/01/2015)
