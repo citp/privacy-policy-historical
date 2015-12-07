@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grahamandgreen.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607194541id_/http%3A//www.grahamandgreen.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grahamandgreen.co.uk privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207103238id_/http%3A//www.grahamandgreen.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -39,4 +39,10 @@ We continually strive to improve our standards of customer care at Graham & Gree
 
 If you have any further queries, please do not hesitate to contact us on the information below.
 
-_Web Customer Service  _
+_Web Customer Service    
+Unit G14, The Perfume Factory_  
+ _140 Wales Farm Road_  
+ _Park Royal_  
+ _London, W3 6UG_
+
+[web.support@grahamandgreen.co.uk](mailto:web.support@grahamandgreen.co.uk)
