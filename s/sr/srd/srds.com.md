@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the srds.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074849id_/http%3A//next.srds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srds.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207141723id_/http%3A//next.srds.com/privacy) for the most accurate reproduction.*
 
 # Kantar Media SRDS Privacy Policy
 
