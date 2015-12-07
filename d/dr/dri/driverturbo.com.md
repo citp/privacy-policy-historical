@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverturbo.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072652id_/http%3A//www.driverturbo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverturbo.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207114926id_/http%3A//www.driverturbo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Driver Turbo
 
