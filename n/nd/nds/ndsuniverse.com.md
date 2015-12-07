@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ndsuniverse.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219192501id_/http%3A//romuniverse.com/page.php%3F20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ndsuniverse.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207092926id_/http%3A//romuniverse.com/page.php%3F20) for the most accurate reproduction.*
 
 # Free NDS Roms, N64, PSX Isos, GameCube Isos and more from RomUniverse, your Rommunity: Privacy Policy
 
