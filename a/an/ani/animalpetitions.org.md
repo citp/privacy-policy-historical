@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the animalpetitions.org privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608031615id_/http%3A//animalpetitions.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animalpetitions.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207151724id_/http%3A//animalpetitions.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Animal Petitions
 
-Black Bear Media, a Limited Liability Company, (the “Company”, “we”, “AnimalPetitions” or “us”) has established this privacy policy to explain to you how your information on AnimalPetitions is protected, collected and used, which may be updated by us from time to time.
+We (the “Company”, “we”, “AnimalPetitions”, “Black Bear Media,” “Limited Liability Company,” or “us”) are a limited liability company and have established this privacy policy to explain to you how your information on AnimalPetitions is protected, collected and used, which may be updated by us from time to time.
 
 Protecting your privacy
 
