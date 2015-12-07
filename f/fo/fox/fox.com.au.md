@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox.com.au privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627164856id_/http%3A//www.fox.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox.com.au privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207024416id_/http%3A//www.fox.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ The date of this Privacy Policy is set out above. We may change this Privacy Pol
 
 **1.1** **What kinds of Personal Information we collect and hold**
 
-We may collect various types of PI including but not limited to your name, address, email, phone number, age, payment details, gender, interests or other information relevant to promotions and activities that SCA runs and to your engagement with SCA. ****
+We may collect various types of PI including but not limited to your name, address, email, phone number, age, payment details, gender, interests or other information relevant to promotions and activities that SCA runs and to your engagement with SCA.
 
 **1.2** **Why we collect Personal Information**
 
@@ -186,4 +186,4 @@ We expect our procedures will deal fairly and promptly with your complaint. Howe
 
 ### **12.** **Contact us**
 
-For all privacy inquiries and complaints, please contact Southern Cross Austereo's Privacy Officer by mail at GPO Box 22 Sydney NSW 2001, email at [privacy@sca.com.au](mailto:privacy@sca.com.au) or phone on 02 8437 9481.
+For all privacy inquiries and complaints, please contact Southern Cross Austereo's Privacy Officer by mail at PO Box 345, South Melbourne VIC 3205, email at [privacy@sca.com.au](mailto:privacy@sca.com.au) or phone on 03 9252 1013.
