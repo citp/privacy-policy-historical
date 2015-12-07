@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the davidjeremiah.org privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041207id_/http%3A//www.davidjeremiah.org/site/content.aspx%3Fid%3D82) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidjeremiah.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207153826id_/http%3A//www.davidjeremiah.org/site/about/privacy.aspx) for the most accurate reproduction.*
 
 # DavidJeremiah.org - Privacy Policy
 
-Websites [www.davidjeremiah.org](http://www.davidjeremiah.org/) and [www.turningpointonline.org](https://web.archive.org/)  are provided by Turning Point with Dr. David Jeremiah. Your use of our website is governed by the [Terms and Conditions](http://www.davidjeremiah.org/site/content.aspx?id=84 "Terms and Conditions"), and by your use of our website you accept and acknowledge this privacy policy.
+Websites [www.davidjeremiah.org](http://www.davidjeremiah.org/) and [www.turningpointonline.org](http://www.turningpointonline.org/) are provided by Turning Point with Dr. David Jeremiah. Your use of our website is governed by the [Terms and Conditions](https://web.archive.org/site/about/terms.aspx "Terms and Conditions"), and by your use of our website you accept and acknowledge this privacy policy.
 
+  
 **A NOTE ABOUT THE PRIVACY OF CHILDREN UNDER 13**
 
   
