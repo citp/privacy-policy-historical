@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etihad.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608175555id_/http%3A//www.etihad.com/en-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etihad.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207104114id_/http%3A//www.etihad.com/en-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Etihad Airways Privacy Policy
 
@@ -94,3 +94,13 @@ Etihad Websites may link you to other websites. We are not responsible for the w
 ### Privacy concerns
 
 Please [click here](https://web.archive.org/en-us/about-us/contact-us/feedback/) or write to the Ethics and Compliance Office, Etihad Airways, PO Box 35566, Abu Dhabi, United Arab Emirates if you have any concerns about our compliance with applicable privacy laws or this Privacy Policy. We will endeavour to respond to your concerns as soon as possible and we may make seek further information from you in order to provide a full and complete response. In some countries, you may have rights to raise the matter with a relevant data protection authority or ombudsman.
+
+### Recruitment Fraud
+
+We are aware of some people and organisations, unrelated to the Etihad Airways Group of Companies, sending emails or otherwise contacting people to make fraudulent offers of employment. These people and organisations may request personal information or money from you in order to progress the application. We would strongly advise you never to provide your bank account or credit card details as part of an employment application.
+
+During our recruitment process you will always be asked to meet face-to-face with a  representative of the Etihad Airways Group of Companies for an interview before any formal offer of employment is made. More information on our recruitment process may be found [here](https://careers.etihad.com/).
+
+No member of the Etihad Airways Group of Companies will ever ask for payment of any kind, including money transfers, from job applicants. We will never ask for advance payment from you for travel expenses or visas/work permits if your application is successful. 
+
+**If you are asked for money in order to process or take up a job opportunity with us please treat it as fraudulent and**[ **contact us**](https://www.etihad.com/en/about-us/contact-us/) **immediately.**
