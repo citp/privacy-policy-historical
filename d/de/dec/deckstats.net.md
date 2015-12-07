@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deckstats.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607184428id_/http%3A//koelling.co.uk/disclaimer_en.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deckstats.net privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207093706id_/http%3A//koelling.co.uk/disclaimer_en.php) for the most accurate reproduction.*
 
 # Disclaimer and Privacy Policy
 
@@ -22,11 +22,11 @@ We may send regular newsletters to our users. If you would not like to receive t
 
 ### User Accounts
 
-We may offer you the opportunity to register an account on our website in order to access special features of the site, personalize it for you or to publish your own content. Any data provided by you during this registration process will be saved on our servers. In order to allow you to use your account at any time we will keep a copy of this data until you explicitely tell us to delete it. This will include a hashed version of the password you provided to us. However, we will never save a clear-text version of your password in order to protect it in the unlikely case of an unauthorized party gaining access to our database. 
+We may offer you the opportunity to register an account on our website in order to access special features of the site, personalize it for you or to publish your own content. Any data provided by you during this registration process will be saved on our servers. In order to allow you to use your account at any time we will keep a copy of this data until you explicitly tell us to delete it. This will include a hashed version of the password you provided to us. However, we will never save a clear-text version of your password in order to protect it in the unlikely case of an unauthorized party gaining access to our database. 
 
 ### Published content
 
-Any content you submit to our websites will be saved on our servers and published. We may be able to delete or hide this content on your request, but due to the nature of some of this content this may not always be feasible, particularly when other content referencing it has been added in the mean time. 
+Any content you submit to our websites will be saved on our servers and published. We may be able to delete or hide this content on your request, but due to the nature of some of this content this may not always be feasible, particularly when other content referencing it has been added in the meantime. 
 
 Any private messages you send on our websites will be saved on our servers and stored until they have been deleted by all parties involved. We reserve the right to search and read these messages in cases where we suspect a violation of our rules, such as spamming or phishing. 
 
@@ -38,7 +38,7 @@ To prevent and track abuse of our websites and investigate technical issues we w
 
 ### Other
 
-We regularly back up our servers to prevent data loss. It may thus be possible that old versions of your data may remain on our servers for a while, even after they have been deleted from the main site. However, these back ups will normally not be used anymore and will be deleted after a certain retention period. 
+We regularly back up our servers to prevent data loss. It may thus be possible that old versions of your data may remain on our servers for a while, even after they have been deleted from the main site. However, these backups will normally not be used anymore and will be deleted after a certain retention period. 
 
 ### Third-parties
 
