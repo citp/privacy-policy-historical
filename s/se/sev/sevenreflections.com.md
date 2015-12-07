@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the sevenreflections.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609004603id_/http%3A//www.sevenreflections.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sevenreflections.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207033023id_/http%3A//www.sevenreflections.com/privacy) for the most accurate reproduction.*
 
-# Seven Reflections - Subscribe Privacy
+# Seven Reflections Privacy
 
-This privacy notice discloses the privacy practices for Seven Reflections. This privacy notice applies solely to information collected by this web site. 
+### Privacy Notice
 
-Information Collection, Use, and Sharing 
+This privacy notice discloses the privacy practices for SevenReflections.com. This privacy notice applies solely to information collected by this web site. 
+
+### Information Collection, Use, and Sharing 
 
 We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone. 
 
@@ -20,7 +22,7 @@ To customize our service for you, we may collect and store your precise geograph
 
 We generally do not share personally identifiable information (such as name, address, email or phone) with other companies for marketing purposes. 
 
-Your Access to and Control Over Information 
+### Your Access to and Control Over Information 
 
 You can sign into your account to see or delete any personally identifiable information we have stored, such as your name, address, email or phone number. You can also contact us by email to request to see or delete this information. 
 
@@ -33,24 +35,24 @@ You may opt out of any future contacts from us at any time. You can do the follo
 
 
 
-We have an [Opt Out](http://www.sevenreflections.com/optout.php) option if you'd like to permanently remove your account. We don't share your information with third parties. 
+We have an [Opt Out](http://www.sevenreflections.com/optout/) option if you'd like to permanently remove your account. We don't share your information with third parties. 
 
-Ad Tracking
+### Ad Tracking
 
 We do not allow advertising companies to collect data through our service for ad targeting. 
 
-Security 
+### Security 
 
 We take reasonable administrative, physical and electronic measures designed to safeguard and protect your information from unauthorized access or disclosure. This includes utilizing Secure Sockets Layer (SSL) software, which encrypts the personal information you input, and storing your information in encrypted form behind a firewall designed to block access from outside our network. However, no security or encryption method can be guaranteed to protect information from hackers or human error. 
 
 Information we collect may be stored or processed on computers located in any country where we do business. 
 
-Contact
+### Contact
 
 If you have any questions or concerns about our privacy policies, please contact us: 
 
-[Contact Us](http://www.sevenreflections.com/catalog/contact_us.php). 
+[Contact Us](http://www.sevenreflections.com/contacts/)
 
 To operate the service, we also may make identifiable and anonymous information available to third parties in these limited circumstances: (1) with your express consent, (2) when we have a good faith belief it is required by law, (3) when we have a good faith belief it is necessary to protect our rights or property, or (4) to any successor or purchaser in a merger, acquisition, liquidation, dissolution or sale of assets. Your consent will not be required for disclosure in these cases, but we will attempt to notify you, to the extent permitted by law to do so. 
 
-This privacy policy was last updated on February 10, 2013. Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email, push notification or text. 
+This privacy policy was last updated on February 10, 2014. Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email, push notification or text. 
