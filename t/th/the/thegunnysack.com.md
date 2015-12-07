@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegunnysack.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608175543id_/http%3A//www.thegunnysack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegunnysack.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207102411id_/http%3A//www.thegunnysack.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Gunny Sack
 
@@ -38,6 +38,16 @@ We implement a variety of security measures to maintain the safety of your perso
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
 We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+This website collects the following types of cookies:
+
+  * Social media: ** ** Facebook, Twitter and other social websites need to know who you are to work properly.
+  * Analytics: ** ** We anonymously measure your use of this website to improve your experience using Google Analytics, Quantcast and TapInfluence.
+  * Advertising: ** ** Adverts will be chosen for you automatically based on your past behavior and interests including Google Adsense, DoubleClick, Advertising.com, GourmetAds and AdThrive Media.
+
+
+
+You can choose to disable or selectively turn off my cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Kaspersky Internet Security. You can also visit the websites mentioned above to opt out of the use of cookies for interest-based advertising. You can also opt out of some third-party vendor’s use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/). However, this can affect how you are able to interact with my site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 **Do we disclose any information to outside parties?**
 
