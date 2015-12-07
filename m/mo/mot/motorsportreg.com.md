@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorsportreg.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609102800id_/https%3A//www.motorsportreg.com/index.cfm/event/public.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorsportreg.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134603id_/http%3A//www.motorsportreg.com/index.cfm/event/public.privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MotorsportReg.com
 
@@ -40,4 +40,4 @@ Understand that registering for events will provide your complete personal profi
 
 #### 4\. Security
 
-MSR uses a variety of security measures to maintain the safety of your personal information. Personal information collected on MSR is stored in a secure operating environment that is not available to the public. All credit card, checking account and registration information supplied by users is transmitted via industry-standard 128-bit Secure Socket Layer (SSL) technology. MSR's developers conduct frequent site-security audits. 
+MSR uses a variety of security measures to maintain the safety of your personal information. Personal information collected on MSR is stored in a secure operating environment that is not available to the public. All credit card, checking account and registration information supplied by users is transmitted via industry-standard 256-bit Secure Socket Layer (SSL) technology. MSR's developers conduct frequent site-security audits. 
