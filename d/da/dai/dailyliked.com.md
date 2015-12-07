@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailyliked.com privacy policy that was archived on 2015-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150120225929id_/http%3A//www.dailyliked.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyliked.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207091023id_/http%3A//www.dailyliked.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Daily Liked - Trending Stuff From All Around The Web
+# Privacy Policy - Daily Liked – Trending Stuff From All Around The Web
 
 **Introduction**
 
@@ -60,4 +60,4 @@ Although most changes are likely to be minor, Daily Liked may change its privacy
 
 **Contact Us**
 
-If you have any questions about this privacy policy or our sites in general, please [contact us](http://www.dailyliked.com/contact/).
+If you have any questions about this privacy policy or our sites in general, please [contact us](http://www.dailyliked.net/contact/).
