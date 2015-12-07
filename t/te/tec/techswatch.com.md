@@ -1,64 +1,33 @@
-> *The following text is extracted and transformed from the techswatch.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608044424id_/http%3A//www.techswatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techswatch.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207143336id_/http%3A//www.techswatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tech Swatch
 
-This Privacy Policy governs the manner in which Tech Swatch collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.techswatch.com](http://www.generateprivacypolicy.com/account/policies/edit/www.techswatch.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Tech Swatch.
+**Techswatch Privacy Policy Highlights**
 
-**Personal identification information**
+This notice provides highlights of the full privacy policy which currently applies to the collection and use of information from any device used to access or connect to  Techswatch , services, and software, as well as many websites owned by or affiliated with Techswatch and operating under different names.
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+**Information We Collect and Receive**
 
-**Non-personal identification information**
+We collect and receive information about you and your device when you give it to us directly, when you use our Services, and from certain third-party sources.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+**Internet Advertising**
 
-**Web browser cookies**
+Our ability to provide free content and services depends on advertising. Some of our ads are displayed based on the page visited, but many of our ads are targeted to you based on your interests and other information we have about you. We want you to understand how internet advertising works and offer resources and choices.
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+**How we use your Information**
 
-**How we use collected information**
+The information we collect and receive is used to provide our Services, to improve our Services, and to offer effective advertising, which helps us keep most of our Services free.
 
-Tech Swatch may collect and use Users personal information for the following purposes:
+**Information Sharing**
 
-  * _– To improve customer service_  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _– To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _– To improve our Site_  
-We may use feedback you provide to improve our products and services.
-  * _– To process payments_  
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * _– To send periodic emails_  
-We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+We do not sell or rent your personal information to third parties. We may, however, share non-personally identifiable information with select business partners.
 
+**How to Contact Us**
 
+Techswatch.com
 
-**How we protect your information**
+India, Karnataka,
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+581320 –
 
-**Sharing your personal information**
-
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
-
-**Advertising**
-
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
-
-**Google Adsense**
-
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html)
-
-**Changes to this privacy policy**
-
-Tech Swatch has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
-
-**Your acceptance of these terms**
-
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-
-**Contacting us**
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [**contact us  **](http://www.techswatch.com/contact)
-
-This document was last updated on November 14, 2013
+**Ihtishamtashreef6@gmail.com**
