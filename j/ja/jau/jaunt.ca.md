@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaunt.ca privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607134459id_/http%3A//www.wagjag.com/GroupBuyPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaunt.ca privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207132450id_/http%3A//www.wagjag.com/GroupBuyPrivacyPolicy) for the most accurate reproduction.*
 
 # WagJag: Daily Deals With Great Discount Rates
 
