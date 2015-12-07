@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotgvibe.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630145832id_/http%3A//www.hotgvibe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotgvibe.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207100804id_/http%3A//www.hotgvibe.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - HotGVibe.com
 
@@ -65,8 +65,8 @@ Any comments or questions about the Hot G Vibe Privacy Policy, can be submitted 
 You may also contact us by postal mail:
 
 Hot G Vibe  
-642 rue de Courcelle, Suite 318  
-Montreal, QC, H4C 3C5  
+4255 Avenue de Melrose, Suite 5  
+Montreal, QC, H4A 2S5  
 Canada
 
 The information contained in this website is subject to change without notice.
