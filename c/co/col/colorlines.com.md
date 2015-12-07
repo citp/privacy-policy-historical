@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the colorlines.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608003351id_/http%3A//colorlines.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorlines.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207022339id_/http%3A//www.colorlines.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Colorlines
-
-## Privacy
 
 #### Race Forward and Colorlines Privacy Statement
 
 This Web site is operated and maintained by [Race Forward](https://www.raceforward.org/), a national organization advancing racial justice though research, media and practice.
 
-Race Forward is committed to protecting your privacy and providing a rewarding online experience. This Privacy Policy describes Race Forward's policies and procedures for the collection of personal information by this site, and our use and dissemination of such information.
+Race Forward is committed to protecting your privacy and providing a rewarding online experience. This Privacy Policy describes Race Forward’s policies and procedures for the collection of personal information by this site, and our use and dissemination of such information.
 
 #### Information Gathering
 
 If you subscribe to, purchase or otherwise make use of our products and services, we may ask to collect personal information from you, including your name, age, address, e-mail address, credit card number (only when making purchases) and facts about your computers, profession and similar information.
 
-Cookies: We use "cookies" to help deliver advertisements and to identify unique browsers that visit us and to track usage throughout our sites.
+Cookies: We use “cookies” to help deliver advertisements and to identify unique browsers that visit us and to track usage throughout our sites.
 
 #### Information Use and Sharing
 
